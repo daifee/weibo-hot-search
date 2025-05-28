@@ -1,0 +1,410 @@
+{
+  "runTime": 1748407584611,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1428669,
+        "num": 1428669,
+        "word": "2025新一线城市官宣",
+        "onboard_time": 1748403383,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 908496,
+        "num": 908496,
+        "word": "不论男女 到22岁就分一套房",
+        "onboard_time": 1748395822,
+        "rank": 1,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 38342,
+        "num": 809086,
+        "word": "公安网安侦破侵犯公民个人信息案",
+        "onboard_time": 1748394682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2186954,
+        "num": 784484,
+        "word": "鹿晗ins晒与山下智久合照",
+        "onboard_time": 1748405422,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 725075,
+        "num": 725075,
+        "word": "武汉警方通报11岁男孩小区坠亡",
+        "onboard_time": 1748403742,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 634069,
+        "num": 634069,
+        "word": "第一次见6个主演演一个人",
+        "onboard_time": 1748401822,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573433,
+        "num": 573433,
+        "word": "1335万人报名2025全国高考",
+        "onboard_time": 1748401462,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 539718,
+        "num": 539718,
+        "word": "法国军方首次回应阵风战机疑被击落",
+        "onboard_time": 1748403141,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 463858,
+        "num": 463858,
+        "word": "国际乒联致歉",
+        "onboard_time": 1748397981,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339313,
+        "num": 339313,
+        "word": "藏海传央八收视率第一",
+        "onboard_time": 1748401521,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1164697,
+        "num": 339231,
+        "word": "韦雪官宣与男朋友分手",
+        "onboard_time": 1748395160,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 772584,
+        "num": 339143,
+        "word": "您的骑手正在攻击您早饭",
+        "onboard_time": 1748394441,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 771070,
+        "num": 338851,
+        "word": "人果然不能随便辞职",
+        "onboard_time": 1748396060,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 293263,
+        "num": 338757,
+        "word": "肖战说一部精良作品离不开每个细节",
+        "onboard_time": 1748403802,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38533,
+        "num": 338688,
+        "word": "患者做种植牙被要求连做三次CT检查",
+        "onboard_time": 1748406504,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289924,
+        "num": 338472,
+        "word": "被李子柒的植物染紫色长裙美翻",
+        "onboard_time": 1748406984,
+        "rank": 15,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 79306,
+        "num": 338259,
+        "word": "DIOR将电影带进秀场",
+        "onboard_time": 1748405062,
+        "rank": 16,
+        "category": "时尚,电影"
+      },
+      {
+        "raw_hot": 136530,
+        "num": 338191,
+        "word": "12岁女孩用手机交作业被骗22万",
+        "onboard_time": 1748403441,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42392,
+        "num": 337966,
+        "word": "端午节悬挂艾草能起到什么作用",
+        "onboard_time": 1748405842,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 45775,
+        "num": 337830,
+        "word": "女子称乘航班托运行李金手链丢失",
+        "onboard_time": 1748406383,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183342,
+        "num": 337733,
+        "word": "杜淳妻子声援家门口遇害女生",
+        "onboard_time": 1748407103,
+        "rank": 20,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 246288,
+        "num": 337441,
+        "word": "李昀锐黑脸",
+        "onboard_time": 1748393541,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209312,
+        "num": 337406,
+        "word": "武艺连见到周杰伦说什么都想好了",
+        "onboard_time": 1748407043,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203019,
+        "num": 337212,
+        "word": "刘宇宁回应初见小乔",
+        "onboard_time": 1748406562,
+        "rank": 23,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 144564,
+        "num": 337078,
+        "word": "国芳集团涨停",
+        "onboard_time": 1748403981,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199987,
+        "num": 336973,
+        "word": "刘若英点歌",
+        "onboard_time": 1748406743,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188383,
+        "num": 336732,
+        "word": "反家暴法主要起草专家夏吟兰去世",
+        "onboard_time": 1748402541,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87910,
+        "num": 336521,
+        "word": "成都通报环卫工人被爆自扔自捡",
+        "onboard_time": 1748406803,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60760,
+        "num": 336453,
+        "word": "烤西瓜是怎么流行起来的",
+        "onboard_time": 1748406984,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 23801,
+        "num": 336284,
+        "word": "益生菌对人体有哪些作用",
+        "onboard_time": 1748406984,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 569851,
+        "num": 336089,
+        "word": "金价",
+        "onboard_time": 1748392162,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155721,
+        "num": 336002,
+        "word": "藏海传冬夏质子",
+        "onboard_time": 1748407103,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423036,
+        "num": 335812,
+        "word": "月薪1万5的保姆自制炸鸡全家桶",
+        "onboard_time": 1748405782,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335726,
+        "num": 335726,
+        "word": "冯小刚徐帆养女徐朵高中毕业",
+        "onboard_time": 1748398460,
+        "rank": 33,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 325871,
+        "num": 325871,
+        "word": "孙颖莎代言妮维雅",
+        "onboard_time": 1748401160,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292362,
+        "num": 292362,
+        "word": "高密化工厂爆炸震塌5公里外天花板",
+        "onboard_time": 1748402483,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291569,
+        "num": 291569,
+        "word": "48岁再婚女子怀孕以为是绝经发福",
+        "onboard_time": 1748392103,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257965,
+        "num": 257965,
+        "word": "郑钦文系鞋带速度惊呆外国人",
+        "onboard_time": 1748407222,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91579,
+        "num": 252896,
+        "word": "何小鹏透露MONA智驾比肩友商50万旗舰车",
+        "onboard_time": 1748401701,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181741,
+        "num": 250724,
+        "word": "内娱85花人美吧唧也美",
+        "onboard_time": 1748400922,
+        "rank": 39,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 175641,
+        "num": 249355,
+        "word": "哈利波特",
+        "onboard_time": 1748392402,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249069,
+        "num": 249069,
+        "word": "异瞳治沙小伙坦言想红",
+        "onboard_time": 1748405002,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91855,
+        "num": 216985,
+        "word": "张一山云包场",
+        "onboard_time": 1748406201,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215102,
+        "num": 215102,
+        "word": "难怪安禄山300斤能跳胡旋舞",
+        "onboard_time": 1748406922,
+        "rank": 43,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 172353,
+        "num": 172353,
+        "word": "浪胃仙再复更",
+        "onboard_time": 1748400261,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168266,
+        "num": 168266,
+        "word": "陈妍希回应藏海传面具人身份",
+        "onboard_time": 1748392882,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165503,
+        "num": 165503,
+        "word": "藏海传第三人身份浮出水面",
+        "onboard_time": 1748406022,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158569,
+        "num": 158569,
+        "word": "白鹿进组莫离了",
+        "onboard_time": 1748400082,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147280,
+        "num": 147280,
+        "word": "蔡徐坤MV",
+        "onboard_time": 1748407522,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143541,
+        "num": 143541,
+        "word": "浪姐舞台开场不能没有罗予彤",
+        "onboard_time": 1748407522,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们节日快乐#"
+    }
+  }
+}

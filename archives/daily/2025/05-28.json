@@ -1,7 +1,15 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748406723547,
+  "endTime": 1748407584611,
   "band_list": [
+    {
+      "raw_hot": 2186954,
+      "num": 784484,
+      "word": "鹿晗ins晒与山下智久合照",
+      "onboard_time": 1748405422,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2153195,
       "num": 472151,
@@ -19,6 +27,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1428669,
+      "num": 1428669,
+      "word": "2025新一线城市官宣",
+      "onboard_time": 1748403383,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1330603,
       "num": 449338,
       "word": "您的骑手正在攻击您早饭",
@@ -33,14 +49,6 @@
       "onboard_time": 1748395822,
       "rank": 14,
       "category": "民生新闻,议题讨论"
-    },
-    {
-      "raw_hot": 1124757,
-      "num": 730833,
-      "word": "鹿晗ins晒与山下智久合照",
-      "onboard_time": 1748405422,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 987980,
@@ -67,14 +75,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 879784,
-      "num": 879784,
-      "word": "2025新一线城市官宣",
-      "onboard_time": 1748403383,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 782337,
       "num": 782337,
       "word": "高校教师迟到1分钟被认定教学事故",
@@ -83,7 +83,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 759608,
+      "raw_hot": 771070,
       "num": 470782,
       "word": "人果然不能随便辞职",
       "onboard_time": 1748396060,
@@ -115,8 +115,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 709713,
-      "num": 709713,
+      "raw_hot": 725075,
+      "num": 725075,
       "word": "武汉警方通报11岁男孩小区坠亡",
       "onboard_time": 1748403742,
       "rank": 32,
@@ -163,8 +163,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 564811,
-      "num": 564811,
+      "raw_hot": 573433,
+      "num": 573433,
       "word": "1335万人报名2025全国高考",
       "onboard_time": 1748401462,
       "rank": 5,
@@ -257,6 +257,14 @@
       "onboard_time": 1748394803,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 423036,
+      "num": 335812,
+      "word": "月薪1万5的保姆自制炸鸡全家桶",
+      "onboard_time": 1748405782,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416235,
@@ -371,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289924,
+      "num": 338472,
+      "word": "被李子柒的植物染紫色长裙美翻",
+      "onboard_time": 1748406984,
+      "rank": 15,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 287885,
       "num": 265531,
       "word": "李亚鹏和妻子目前没房产",
@@ -385,14 +401,6 @@
       "onboard_time": 1748400261,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 271222,
-      "num": 271222,
-      "word": "月薪1万5的保姆自制炸鸡全家桶",
-      "onboard_time": 1748405782,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 269180,
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257965,
+      "num": 257965,
+      "word": "郑钦文系鞋带速度惊呆外国人",
+      "onboard_time": 1748407222,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257053,
       "num": 320473,
       "word": "白鹿进组莫离了",
@@ -433,6 +449,14 @@
       "onboard_time": 1748392882,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249069,
+      "num": 463292,
+      "word": "异瞳治沙小伙坦言想红",
+      "onboard_time": 1748405002,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241603,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 236801,
-      "num": 236801,
+      "num": 336732,
       "word": "反家暴法主要起草专家夏吟兰去世",
       "onboard_time": 1748402541,
       "rank": 44,
@@ -483,20 +507,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218725,
-      "num": 463292,
-      "word": "异瞳治沙小伙坦言想红",
-      "onboard_time": 1748405002,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216372,
       "num": 216372,
       "word": "朴槿惠力挺韩国总统候选人金文洙",
       "onboard_time": 1748352264,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 215102,
+      "num": 215102,
+      "word": "难怪安禄山300斤能跳胡旋舞",
+      "onboard_time": 1748406922,
+      "rank": 43,
+      "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 209312,
+      "num": 337406,
+      "word": "武艺连见到周杰伦说什么都想好了",
+      "onboard_time": 1748407043,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 206112,
@@ -515,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203019,
+      "num": 337212,
+      "word": "刘宇宁回应初见小乔",
+      "onboard_time": 1748406562,
+      "rank": 37,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 200305,
       "num": 200305,
       "word": "剧版哈利波特三人组演员官宣",
       "onboard_time": 1748387658,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199987,
+      "num": 336973,
+      "word": "刘若英点歌",
+      "onboard_time": 1748406743,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 199500,
@@ -553,14 +601,6 @@
       "onboard_time": 1748391321,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 190155,
-      "num": 190155,
-      "word": "刘宇宁回应初见小乔",
-      "onboard_time": 1748406562,
-      "rank": 37,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 186251,
@@ -601,6 +641,14 @@
       "onboard_time": 1748399601,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183342,
+      "num": 337733,
+      "word": "杜淳妻子声援家门口遇害女生",
+      "onboard_time": 1748407103,
+      "rank": 20,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 182367,
@@ -668,7 +716,7 @@
     },
     {
       "raw_hot": 171974,
-      "num": 171974,
+      "num": 337078,
       "word": "国芳集团涨停",
       "onboard_time": 1748403981,
       "rank": 46,
@@ -708,7 +756,7 @@
     },
     {
       "raw_hot": 168963,
-      "num": 291246,
+      "num": 338191,
       "word": "12岁女孩用手机交作业被骗22万",
       "onboard_time": 1748403441,
       "rank": 48,
@@ -763,6 +811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155721,
+      "num": 336002,
+      "word": "藏海传冬夏质子",
+      "onboard_time": 1748407103,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154958,
       "num": 154958,
       "word": "妈妈做饭2个月 弟弟瘦了20斤",
@@ -811,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147280,
+      "num": 147280,
+      "word": "蔡徐坤MV",
+      "onboard_time": 1748407522,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146239,
       "num": 146239,
       "word": "建议大家拿时薪而不是月薪",
@@ -833,6 +897,14 @@
       "onboard_time": 1748401281,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143541,
+      "num": 143541,
+      "word": "浪姐舞台开场不能没有罗予彤",
+      "onboard_time": 1748407522,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 141698,
@@ -1171,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87910,
+      "num": 336521,
+      "word": "成都通报环卫工人被爆自扔自捡",
+      "onboard_time": 1748406803,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86120,
       "num": 86120,
       "word": "吴谨言产后现身机场",
@@ -1201,6 +1281,14 @@
       "onboard_time": 1748351661,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79306,
+      "num": 358078,
+      "word": "DIOR将电影带进秀场",
+      "onboard_time": 1748405062,
+      "rank": 17,
+      "category": "时尚,电影"
     },
     {
       "raw_hot": 77887,
@@ -1241,14 +1329,6 @@
       "onboard_time": 1748403502,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74741,
-      "num": 358078,
-      "word": "DIOR将电影带进秀场",
-      "onboard_time": 1748405062,
-      "rank": 17,
-      "category": "时尚,电影"
     },
     {
       "raw_hot": 74363,
@@ -1315,6 +1395,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 60760,
+      "num": 336453,
+      "word": "烤西瓜是怎么流行起来的",
+      "onboard_time": 1748406984,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 60722,
       "num": 63116,
       "word": "藏海传",
@@ -1356,7 +1444,7 @@
     },
     {
       "raw_hot": 50400,
-      "num": 744086,
+      "num": 809086,
       "word": "公安网安侦破侵犯公民个人信息案",
       "onboard_time": 1748394682,
       "rank": 28,
@@ -1395,6 +1483,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45775,
+      "num": 337830,
+      "word": "女子称乘航班托运行李金手链丢失",
+      "onboard_time": 1748406383,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42392,
+      "num": 354298,
+      "word": "端午节悬挂艾草能起到什么作用",
+      "onboard_time": 1748405842,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 40842,
       "num": 40842,
       "word": "魏大勋原声台词",
@@ -1411,6 +1515,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 38533,
+      "num": 338688,
+      "word": "患者做种植牙被要求连做三次CT检查",
+      "onboard_time": 1748406504,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36107,
       "num": 36107,
       "word": "特朗普考虑撤回哈佛30亿美元拨款",
@@ -1425,14 +1537,6 @@
       "onboard_time": 1748343681,
       "rank": 44,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 35173,
-      "num": 354298,
-      "word": "端午节悬挂艾草能起到什么作用",
-      "onboard_time": 1748405842,
-      "rank": 19,
-      "category": "科学科普"
     },
     {
       "raw_hot": 32704,
@@ -1483,20 +1587,12 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 24396,
-      "num": 330072,
-      "word": "女子称乘航班托运行李金手链丢失",
-      "onboard_time": 1748406383,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24138,
-      "num": 325934,
-      "word": "患者做种植牙被要求连做三次CT检查",
-      "onboard_time": 1748406504,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 23801,
+      "num": 336284,
+      "word": "益生菌对人体有哪些作用",
+      "onboard_time": 1748406984,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23786,
