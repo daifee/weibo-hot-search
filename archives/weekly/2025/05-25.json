@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748446996249,
+  "endTime": 1748449898471,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -1465,6 +1465,14 @@
       "onboard_time": 1748405782,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 693894,
+      "num": 876648,
+      "word": "国补后iPhone16Pro重回销量第一",
+      "onboard_time": 1748446701,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 692532,
@@ -3299,6 +3307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343265,
+      "num": 343265,
+      "word": "荣耀李健",
+      "onboard_time": 1748447242,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 342800,
       "num": 665471,
       "word": "不愧是世乒赛女单决赛",
@@ -3867,6 +3883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279579,
+      "num": 207453,
+      "word": "肖战演技",
+      "onboard_time": 1748443942,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278981,
       "num": 336973,
       "word": "刘若英点歌",
@@ -4153,6 +4177,14 @@
       "onboard_time": 1748351661,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261800,
+      "num": 206126,
+      "word": "汪苏泷婉拒歌手返场邀请",
+      "onboard_time": 1748448380,
+      "rank": 15,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 259095,
@@ -4571,6 +4603,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 238643,
+      "num": 162868,
+      "word": "今夕赫夕",
+      "onboard_time": 1748448201,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 238624,
       "num": 238624,
       "word": "荣耀400价格",
@@ -4849,6 +4889,14 @@
       "onboard_time": 1748352264,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 223666,
+      "num": 223666,
+      "word": "泡泡玛特回应Labubu品控问题",
+      "onboard_time": 1748446761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222410,
@@ -6971,6 +7019,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 174166,
+      "num": 138123,
+      "word": "汪苏泷 胸肌",
+      "onboard_time": 1748447722,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 174131,
       "num": 174131,
       "word": "牛冠凯展示王楚钦的两块金牌",
@@ -7353,6 +7409,14 @@
       "onboard_time": 1748236702,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169848,
+      "num": 169848,
+      "word": "客人闹事店主护妻反击被判入狱",
+      "onboard_time": 1748447482,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169824,
@@ -8355,6 +8419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154036,
+      "num": 135706,
+      "word": "马嘉祺歌手再唱你曾是少年",
+      "onboard_time": 1748449400,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154005,
       "num": 166812,
       "word": "凤凰传奇让我们吃的太好了",
@@ -8425,14 +8497,6 @@
       "onboard_time": 1748270303,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 152911,
-      "num": 152911,
-      "word": "国补后iPhone16Pro重回销量第一",
-      "onboard_time": 1748446701,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 152826,
@@ -9307,6 +9371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138088,
+      "num": 262251,
+      "word": "男子抱含奶嘴婴儿乞讨自称寻妻",
+      "onboard_time": 1748446281,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138027,
       "num": 687239,
       "word": "央视曝光游乐设备合格证被偷梁换柱",
@@ -9435,14 +9507,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 136346,
-      "num": 136346,
-      "word": "泡泡玛特回应Labubu品控问题",
-      "onboard_time": 1748446761,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135733,
       "num": 161013,
       "word": "王爷哄妻先丢人后砸钱",
@@ -9489,6 +9553,14 @@
       "onboard_time": 1748102422,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135152,
+      "num": 169211,
+      "word": "赵今麦张云龙牛排上了快点说",
+      "onboard_time": 1748449400,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 135115,
@@ -9979,6 +10051,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128479,
+      "num": 128479,
+      "word": "白发是身体给的压力警告",
+      "onboard_time": 1748447121,
+      "rank": 32,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 128420,
+      "num": 128420,
+      "word": "赵今麦扛住了镜头签",
+      "onboard_time": 1748446462,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 128408,
       "num": 303086,
       "word": "金晨申敏儿同框",
@@ -10371,6 +10459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121858,
+      "num": 121858,
+      "word": "赵丽颖49秒疯感演技",
+      "onboard_time": 1748449040,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121812,
       "num": 121812,
       "word": "榴莲又便宜了",
@@ -10595,6 +10691,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 116559,
+      "num": 116559,
+      "word": "高敏感是一种很珍贵的天赋",
+      "onboard_time": 1748449340,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116335,
       "num": 116335,
       "word": "柯淳 竖屏造就了很多人",
@@ -10665,6 +10769,14 @@
       "onboard_time": 1748153061,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115385,
+      "num": 115385,
+      "word": "折腰弹幕",
+      "onboard_time": 1748449580,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 115375,
@@ -10963,6 +11075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110562,
+      "num": 110562,
+      "word": "火流星",
+      "onboard_time": 1748447840,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110529,
       "num": 110529,
       "word": "任天堂宣布打击Switch2黄牛",
@@ -11001,6 +11121,14 @@
       "onboard_time": 1748254822,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 110190,
+      "num": 110190,
+      "word": "王安宇新剧在猎了在猎了",
+      "onboard_time": 1748448020,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 110132,
@@ -11107,6 +11235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107348,
+      "num": 107348,
+      "word": "曹公公疯子",
+      "onboard_time": 1748448380,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107276,
       "num": 107276,
       "word": "美国正大批量制造高超音速导弹",
@@ -11193,6 +11329,14 @@
       "onboard_time": 1748391502,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105153,
+      "num": 105153,
+      "word": "现在的年轻人把赚钱刻进了DNA",
+      "onboard_time": 1748447960,
+      "rank": 43,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 105081,
@@ -13521,14 +13665,6 @@
       "onboard_time": 1748421802,
       "rank": 37,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 47036,
-      "num": 262251,
-      "word": "男子抱含奶嘴婴儿乞讨自称寻妻",
-      "onboard_time": 1748446281,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47023,

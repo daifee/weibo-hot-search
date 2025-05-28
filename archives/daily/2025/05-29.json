@@ -1,0 +1,411 @@
+{
+  "startTime": 1748449898471,
+  "endTime": 1748449898471,
+  "band_list": [
+    {
+      "raw_hot": 714375,
+      "num": 216295,
+      "word": "102岁老人3楼坠落被众人稳稳接住",
+      "onboard_time": 1748442564,
+      "rank": 10,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 693894,
+      "num": 876648,
+      "word": "国补后iPhone16Pro重回销量第一",
+      "onboard_time": 1748446701,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 627603,
+      "num": 627603,
+      "word": "歌手歌单",
+      "onboard_time": 1748443824,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 553993,
+      "num": 553993,
+      "word": "没去芭莎的很幸运了",
+      "onboard_time": 1748436801,
+      "rank": 3,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 429244,
+      "num": 245493,
+      "word": "大麦崩了",
+      "onboard_time": 1748439924,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 414480,
+      "num": 213132,
+      "word": "男子在生殖医院做手术次日身亡进展",
+      "onboard_time": 1748441122,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386744,
+      "num": 237021,
+      "word": "陈乔恩确诊盲肠炎",
+      "onboard_time": 1748445502,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 366675,
+      "num": 211228,
+      "word": "杨幂躲镜头",
+      "onboard_time": 1748437162,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 343265,
+      "num": 343265,
+      "word": "荣耀李健",
+      "onboard_time": 1748447242,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 280175,
+      "num": 209155,
+      "word": "刘宇宁 锡纸抹胸",
+      "onboard_time": 1748438122,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 279579,
+      "num": 207453,
+      "word": "肖战演技",
+      "onboard_time": 1748443942,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261800,
+      "num": 206126,
+      "word": "汪苏泷婉拒歌手返场邀请",
+      "onboard_time": 1748448380,
+      "rank": 15,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 249340,
+      "num": 249340,
+      "word": "游客发现武陵山天池底为304不锈钢",
+      "onboard_time": 1748433621,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238643,
+      "num": 162868,
+      "word": "今夕赫夕",
+      "onboard_time": 1748448201,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 237607,
+      "num": 158738,
+      "word": "张凌赫内场赢麻了",
+      "onboard_time": 1748441604,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 236835,
+      "num": 154898,
+      "word": "于正 吴谨言又杀回来了",
+      "onboard_time": 1748430380,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 223666,
+      "num": 223666,
+      "word": "泡泡玛特回应Labubu品控问题",
+      "onboard_time": 1748446761,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221761,
+      "num": 151906,
+      "word": "林允身材好绝",
+      "onboard_time": 1748435782,
+      "rank": 24,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 216604,
+      "num": 216604,
+      "word": "总监降职为前台公司被判赔26万",
+      "onboard_time": 1748440763,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211865,
+      "num": 150583,
+      "word": "鞠婧祎 蛇女",
+      "onboard_time": 1748430860,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 205266,
+      "num": 205266,
+      "word": "端午不调休 高速不免费",
+      "onboard_time": 1748415501,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194672,
+      "num": 145447,
+      "word": "藏海传24集 新的太子",
+      "onboard_time": 1748437522,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186323,
+      "num": 186323,
+      "word": "印度承诺2047年建成发达国家",
+      "onboard_time": 1748445622,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 181230,
+      "num": 142725,
+      "word": "藏海烧了父母的人皮",
+      "onboard_time": 1748445742,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174166,
+      "num": 138123,
+      "word": "汪苏泷 胸肌",
+      "onboard_time": 1748447722,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 169848,
+      "num": 169848,
+      "word": "客人闹事店主护妻反击被判入狱",
+      "onboard_time": 1748447482,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154036,
+      "num": 135706,
+      "word": "马嘉祺歌手再唱你曾是少年",
+      "onboard_time": 1748449400,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138088,
+      "num": 138088,
+      "word": "男子抱含奶嘴婴儿乞讨自称寻妻",
+      "onboard_time": 1748446281,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135152,
+      "num": 169211,
+      "word": "赵今麦张云龙牛排上了快点说",
+      "onboard_time": 1748449400,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 132952,
+      "num": 132952,
+      "word": "王者荣耀",
+      "onboard_time": 1748446402,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128479,
+      "num": 128479,
+      "word": "白发是身体给的压力警告",
+      "onboard_time": 1748447121,
+      "rank": 32,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 128420,
+      "num": 128420,
+      "word": "赵今麦扛住了镜头签",
+      "onboard_time": 1748446462,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 121858,
+      "num": 121858,
+      "word": "赵丽颖49秒疯感演技",
+      "onboard_time": 1748449040,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119416,
+      "num": 119416,
+      "word": "新婚男子生殖医院术后身亡系药物过敏",
+      "onboard_time": 1748445142,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119144,
+      "num": 119144,
+      "word": "孙颖莎说坚持你热爱的追逐你相信的",
+      "onboard_time": 1748444123,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116559,
+      "num": 116559,
+      "word": "高敏感是一种很珍贵的天赋",
+      "onboard_time": 1748449340,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115385,
+      "num": 115385,
+      "word": "折腰弹幕",
+      "onboard_time": 1748449580,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114792,
+      "num": 114792,
+      "word": "被芭莎的镜头签吓死",
+      "onboard_time": 1748442863,
+      "rank": 39,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 110562,
+      "num": 110562,
+      "word": "火流星",
+      "onboard_time": 1748447840,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110190,
+      "num": 110190,
+      "word": "王安宇新剧在猎了在猎了",
+      "onboard_time": 1748448020,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107348,
+      "num": 107348,
+      "word": "曹公公疯子",
+      "onboard_time": 1748448380,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105153,
+      "num": 105153,
+      "word": "现在的年轻人把赚钱刻进了DNA",
+      "onboard_time": 1748447960,
+      "rank": 43,
+      "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 105136,
+      "num": 105136,
+      "word": "在人间热度",
+      "onboard_time": 1748429480,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104309,
+      "num": 104309,
+      "word": "卫生巾 妇科感染",
+      "onboard_time": 1748435121,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102851,
+      "num": 102851,
+      "word": "皮筋猴 你个阴人",
+      "onboard_time": 1748445022,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101907,
+      "num": 101907,
+      "word": "王楚钦世乒赛男单仅输4小局",
+      "onboard_time": 1748443282,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95062,
+      "num": 95062,
+      "word": "妈妈幂呀",
+      "onboard_time": 1748431102,
+      "rank": 48,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 91794,
+      "num": 91794,
+      "word": "deepseek",
+      "onboard_time": 1748443942,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 79008,
+      "num": 166452,
+      "word": "荣耀400让深圳变成肖战痛城",
+      "onboard_time": 1748444782,
+      "rank": 20,
+      "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 37061,
+      "num": 561897,
+      "word": "端午气氛组强势上线",
+      "onboard_time": 1748441003,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#推动少先队事业不断取得新成绩#"
+    }
+  ]
+}
