@@ -1,0 +1,410 @@
+{
+  "runTime": 1748443618288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1639645,
+        "num": 1639645,
+        "word": "没去芭莎的很幸运了",
+        "onboard_time": 1748436801,
+        "rank": 0,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 764402,
+        "num": 764402,
+        "word": "株洲母子车祸1死1伤案家属发声",
+        "onboard_time": 1748438603,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67996,
+        "num": 638102,
+        "word": "端午气氛组强势上线",
+        "onboard_time": 1748441003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 836277,
+        "num": 636914,
+        "word": "大麦崩了",
+        "onboard_time": 1748439924,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 629073,
+        "num": 629073,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476571,
+        "num": 476571,
+        "word": "游客发现武陵山天池底为304不锈钢",
+        "onboard_time": 1748433621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 737504,
+        "num": 475670,
+        "word": "藏海传24集 新的太子",
+        "onboard_time": 1748437522,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 718459,
+        "num": 475042,
+        "word": "鞠婧祎 蛇女",
+        "onboard_time": 1748430860,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 411950,
+        "num": 411950,
+        "word": "总监降职为前台公司被判赔26万",
+        "onboard_time": 1748440763,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180073,
+        "num": 409399,
+        "word": "102岁老人3楼坠落被众人稳稳接住",
+        "onboard_time": 1748442564,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 984357,
+        "num": 406201,
+        "word": "刘宇宁 锡纸抹胸",
+        "onboard_time": 1748438122,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709585,
+        "num": 400127,
+        "word": "杨幂躲镜头",
+        "onboard_time": 1748437162,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 615616,
+        "num": 397323,
+        "word": "林允身材好绝",
+        "onboard_time": 1748435782,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 537044,
+        "num": 389939,
+        "word": "于正 吴谨言又杀回来了",
+        "onboard_time": 1748430380,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 430174,
+        "num": 387971,
+        "word": "结婚4天就离男子获退18万彩礼",
+        "onboard_time": 1748435422,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383773,
+        "num": 383773,
+        "word": "卫生巾 妇科感染",
+        "onboard_time": 1748435121,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370890,
+        "num": 370890,
+        "word": "四川一中学校长被曝殴打学生",
+        "onboard_time": 1748441183,
+        "rank": 16,
+        "category": ""
+      },
+      {
+        "raw_hot": 66891,
+        "num": 364417,
+        "word": "荣耀CEO李健发布会首发微博",
+        "onboard_time": 1748439443,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 294883,
+        "num": 351765,
+        "word": "刘宇宁做造型抛媚眼给瞎子看",
+        "onboard_time": 1748442623,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56299,
+        "num": 338995,
+        "word": "荣耀400活人感出片配方",
+        "onboard_time": 1748442983,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 462867,
+        "num": 323279,
+        "word": "张凌赫内场赢麻了",
+        "onboard_time": 1748441604,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 317994,
+        "num": 317994,
+        "word": "男子在生殖医院做手术次日身亡进展",
+        "onboard_time": 1748441122,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278127,
+        "num": 278127,
+        "word": "关晓彤薄荷曼波九宫格",
+        "onboard_time": 1748442205,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270195,
+        "num": 270195,
+        "word": "妈妈幂呀",
+        "onboard_time": 1748431102,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 263783,
+        "num": 263783,
+        "word": "香暗荼你被捕了",
+        "onboard_time": 1748441482,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241908,
+        "num": 241908,
+        "word": "方时赫或将入狱",
+        "onboard_time": 1748432181,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223420,
+        "num": 223420,
+        "word": "易梦玲的脸",
+        "onboard_time": 1748433801,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 58001,
+        "num": 222679,
+        "word": "荣耀400肖战严选太香了",
+        "onboard_time": 1748443103,
+        "rank": 27,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 49591,
+        "num": 222402,
+        "word": "荣耀400听劝换大电池了",
+        "onboard_time": 1748441122,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53694,
+        "num": 222317,
+        "word": "学会接纳自我的方式是什么",
+        "onboard_time": 1748442683,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222315,
+        "num": 222315,
+        "word": "虞书欣谢可寅你俩喝点中药吧",
+        "onboard_time": 1748441064,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209888,
+        "num": 209888,
+        "word": "在人间热度",
+        "onboard_time": 1748429480,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20103,
+        "num": 207151,
+        "word": "荣耀AI意图识别引擎行业领先",
+        "onboard_time": 1748439443,
+        "rank": 32,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 204722,
+        "num": 204722,
+        "word": "肖战跳水前的准备工作",
+        "onboard_time": 1748442623,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201437,
+        "num": 201437,
+        "word": "芭莎内场",
+        "onboard_time": 1748435961,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 202244,
+        "num": 200214,
+        "word": "被芭莎的镜头签吓死",
+        "onboard_time": 1748442863,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 195614,
+        "num": 195614,
+        "word": "流星",
+        "onboard_time": 1748442564,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88058,
+        "num": 187431,
+        "word": "正确洗头的流程是什么",
+        "onboard_time": 1748442743,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 184252,
+        "num": 184252,
+        "word": "荣耀400价格",
+        "onboard_time": 1748443282,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29053,
+        "num": 181820,
+        "word": "美团澄清称不惜代价是指反内卷",
+        "onboard_time": 1748440882,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 180533,
+        "num": 180533,
+        "word": "越过山丘发现无人等候终于懂了",
+        "onboard_time": 1748441423,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 179125,
+        "num": 179125,
+        "word": "外交部回应辽宁舰为何如此靠近日本",
+        "onboard_time": 1748433502,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178792,
+        "num": 178792,
+        "word": "在人间",
+        "onboard_time": 1748430621,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164359,
+        "num": 164359,
+        "word": "荣耀400",
+        "onboard_time": 1748440403,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155063,
+        "num": 155063,
+        "word": "王楚钦世乒赛男单仅输4小局",
+        "onboard_time": 1748443282,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82912,
+        "num": 153277,
+        "word": "男子与被告同名同姓被执行还陌生人钱",
+        "onboard_time": 1748441482,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151762,
+        "num": 151762,
+        "word": "我家猫长得像褚怀明",
+        "onboard_time": 1748442143,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149739,
+        "num": 149739,
+        "word": "销售回应女生装大人疯狂下单化妆品",
+        "onboard_time": 1748441243,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149430,
+        "num": 149430,
+        "word": "毛晓彤像金色小糖果",
+        "onboard_time": 1748443402,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 143873,
+        "num": 143873,
+        "word": "张云龙请把手拿开",
+        "onboard_time": 1748441783,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动少先队事业不断取得新成绩#"
+    }
+  }
+}
