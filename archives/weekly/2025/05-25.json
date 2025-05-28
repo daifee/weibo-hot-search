@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748415042946,
+  "endTime": 1748417139591,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -241,6 +241,14 @@
       "onboard_time": 1748143760,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1516136,
+      "num": 1516136,
+      "word": "无菌蛋 智商税",
+      "onboard_time": 1748413459,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 1488069,
@@ -715,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 942382,
+      "num": 942382,
+      "word": "瘦5斤需要1个月 胖5斤却只要5天",
+      "onboard_time": 1748409321,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 935904,
       "num": 935904,
       "word": "知网一论文下载95万次0次引用遭质疑",
@@ -905,14 +921,6 @@
       "onboard_time": 1748254281,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 811587,
-      "num": 811587,
-      "word": "瘦5斤需要1个月 胖5斤却只要5天",
-      "onboard_time": 1748409321,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 809029,
@@ -1891,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 514466,
+      "num": 241460,
+      "word": "爱情公寓主演16年后现状",
+      "onboard_time": 1748413161,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513534,
       "num": 279823,
       "word": "印度一男子性侵马匹被捕",
@@ -2139,14 +2155,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 465343,
-      "num": 465343,
-      "word": "无菌蛋 智商税",
-      "onboard_time": 1748413459,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 463851,
       "num": 365742,
       "word": "杨幂完全是妈妈级别的",
@@ -2337,14 +2345,6 @@
       "onboard_time": 1748250261,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 424377,
-      "num": 228413,
-      "word": "爱情公寓主演16年后现状",
-      "onboard_time": 1748413161,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 423775,
@@ -3075,6 +3075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320258,
+      "num": 320258,
+      "word": "端午不调休 高速不免费",
+      "onboard_time": 1748415501,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320205,
       "num": 270239,
       "word": "林俊杰北京",
@@ -3508,7 +3516,7 @@
     },
     {
       "raw_hot": 274572,
-      "num": 236273,
+      "num": 260722,
       "word": "黄景瑜 跟你跳troublemaker的那个",
       "onboard_time": 1748412022,
       "rank": 23,
@@ -4025,6 +4033,14 @@
       "onboard_time": 1748256501,
       "rank": 24,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 238576,
+      "num": 238576,
+      "word": "违建豪宅英之园已基本清拆完毕",
+      "onboard_time": 1748415379,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238077,
@@ -4659,6 +4675,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 204872,
+      "num": 204872,
+      "word": "梦之队烟花氛围大片",
+      "onboard_time": 1748414480,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204646,
       "num": 463455,
       "word": "兴业银行存千万换实习暂停",
@@ -4721,6 +4745,14 @@
       "onboard_time": 1748180370,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203352,
+      "num": 203352,
+      "word": "赵丽颖尹昉张一山谁是谁",
+      "onboard_time": 1748416280,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 203123,
@@ -5275,6 +5307,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 190688,
+      "num": 190688,
+      "word": "王楚钦球拍受损事件依然等待回应",
+      "onboard_time": 1748414360,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190610,
       "num": 190610,
       "word": "闫妮白玉兰七提",
@@ -5435,6 +5475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187417,
+      "num": 235923,
+      "word": "数10台挖掘机连夜开拆豪宅英之园",
+      "onboard_time": 1748415501,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187378,
       "num": 187378,
       "word": "肖战回复周奇莫辜负",
@@ -5457,6 +5505,14 @@
       "onboard_time": 1748268263,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186492,
+      "num": 186492,
+      "word": "南方海啸有声剧",
+      "onboard_time": 1748416579,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 186251,
@@ -5755,6 +5811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179519,
+      "num": 179519,
+      "word": "比亚迪回应山东经销商暴雷",
+      "onboard_time": 1748415920,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 179361,
       "num": 229229,
       "word": "赵丽颖新剧一滴泪破碎感",
@@ -6003,6 +6067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175887,
+      "num": 224884,
+      "word": "癌症遗传概率有多高",
+      "onboard_time": 1748411420,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175577,
       "num": 175577,
       "word": "孟子义这和品如回归有什么区别",
@@ -6185,6 +6257,14 @@
       "onboard_time": 1748270364,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172776,
+      "num": 172776,
+      "word": "居然有人12个小时不拿外卖",
+      "onboard_time": 1748416101,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 172734,
@@ -6393,6 +6473,14 @@
       "onboard_time": 1748236702,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169875,
+      "num": 158447,
+      "word": "王楚钦夺冠不能掩盖球拍受损恶劣",
+      "onboard_time": 1748416521,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 169824,
@@ -6971,6 +7059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 158667,
+      "num": 158667,
+      "word": "去年剩的防晒霜今年还能用吗",
+      "onboard_time": 1748415079,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158371,
       "num": 158371,
       "word": "黄杨钿甜",
@@ -7307,14 +7403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153135,
-      "num": 153135,
-      "word": "王楚钦球拍受损事件依然等待回应",
-      "onboard_time": 1748414360,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153071,
       "num": 217801,
       "word": "李荣浩你的40我的40好像不一样",
@@ -7340,7 +7428,7 @@
     },
     {
       "raw_hot": 152604,
-      "num": 152604,
+      "num": 158322,
       "word": "终于有恋综把丑话都说在了前面",
       "onboard_time": 1748413642,
       "rank": 34,
@@ -7449,6 +7537,14 @@
       "onboard_time": 1748320702,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150518,
+      "num": 157446,
+      "word": "漫天金雨下的陈都灵",
+      "onboard_time": 1748415321,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 150433,
@@ -7617,14 +7713,6 @@
       "onboard_time": 1748391619,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146112,
-      "num": 224884,
-      "word": "癌症遗传概率有多高",
-      "onboard_time": 1748411420,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145947,
@@ -7939,6 +8027,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140928,
+      "num": 229442,
+      "word": "孟子义给汪峰卸妆徐志胜唱春天里",
+      "onboard_time": 1748414240,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140837,
       "num": 140837,
       "word": "下周六高考",
@@ -8001,6 +8097,14 @@
       "onboard_time": 1748339662,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139909,
+      "num": 139909,
+      "word": "国际月经日",
+      "onboard_time": 1748416701,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139704,
@@ -8163,14 +8267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 137311,
-      "num": 229442,
-      "word": "孟子义给汪峰卸妆徐志胜唱春天里",
-      "onboard_time": 1748414240,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137233,
       "num": 137233,
       "word": "上海套内85平米的家",
@@ -8233,6 +8329,14 @@
       "onboard_time": 1748259382,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 136347,
+      "num": 136347,
+      "word": "别再拔白头发了",
+      "onboard_time": 1748417001,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135637,
@@ -8483,6 +8587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132079,
+      "num": 132079,
+      "word": "孙颖莎世乒赛女单冠军之路",
+      "onboard_time": 1748416462,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132032,
       "num": 132032,
       "word": "减肥时可以代替吃饭的项目",
@@ -8497,6 +8609,14 @@
       "onboard_time": 1748156062,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131499,
+      "num": 131499,
+      "word": "AD钙奶",
+      "onboard_time": 1748417120,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 131315,
@@ -9145,14 +9265,6 @@
       "onboard_time": 1748252421,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119250,
-      "num": 119250,
-      "word": "梦之队烟花氛围大片",
-      "onboard_time": 1748414480,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 119172,
@@ -10027,6 +10139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99193,
+      "num": 179649,
+      "word": "睡前饿一饿对脾胃好吗",
+      "onboard_time": 1748416641,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "吃饭是一件很私密的事情",
@@ -10257,6 +10377,14 @@
       "onboard_time": 1748137281,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92924,
+      "num": 228772,
+      "word": "刘宇宁演唱会要挑战唱跳",
+      "onboard_time": 1748415560,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 92297,
@@ -11603,6 +11731,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 55423,
+      "num": 157863,
+      "word": "广州食客曝光未拆封餐具里蟑螂乱爬",
+      "onboard_time": 1748417120,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55225,
       "num": 131009,
       "word": "王曼昱球不落地始终专注",
@@ -12475,6 +12611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 33517,
+      "num": 240444,
+      "word": "官方回应英之园拆除最新进展",
+      "onboard_time": 1748415440,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33225,
       "num": 215080,
       "word": "iPhone真全面屏有什么技术创新",
@@ -12603,6 +12747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30932,
+      "num": 231310,
+      "word": "时代少年团闪耀纽约时代广场",
+      "onboard_time": 1748415861,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30880,
       "num": 211322,
       "word": "夏天自己清洗空调节约300",
@@ -12721,6 +12873,14 @@
       "onboard_time": 1748145741,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 28897,
+      "num": 132310,
+      "word": "六一前汪顺进校园",
+      "onboard_time": 1748412861,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 28795,
@@ -13265,6 +13425,22 @@
       "onboard_time": 1748150183,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19361,
+      "num": 238787,
+      "word": "618护肤购物分享",
+      "onboard_time": 1748415679,
+      "rank": 14,
+      "category": "美妆,互联网"
+    },
+    {
+      "raw_hot": 19258,
+      "num": 131731,
+      "word": "如何正确做到自我接纳",
+      "onboard_time": 1748415742,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 19070,
@@ -13953,6 +14129,14 @@
       "onboard_time": 1748244080,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2993,
+      "num": 142095,
+      "word": "你用美白精华为啥看不到效果",
+      "onboard_time": 1748415980,
+      "rank": 40,
+      "category": "美妆"
     }
   ],
   "hotgov_list": [

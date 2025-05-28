@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748415042946,
+  "endTime": 1748417139591,
   "band_list": [
     {
       "raw_hot": 2186954,
@@ -17,6 +17,14 @@
       "onboard_time": 1748395160,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1516136,
+      "num": 1516136,
+      "word": "无菌蛋 智商税",
+      "onboard_time": 1748413459,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 1458311,
@@ -75,20 +83,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 942382,
+      "num": 942382,
+      "word": "瘦5斤需要1个月 胖5斤却只要5天",
+      "onboard_time": 1748409321,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 916139,
       "num": 916139,
       "word": "国际乒联致歉",
       "onboard_time": 1748397981,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 811587,
-      "num": 811587,
-      "word": "瘦5斤需要1个月 胖5斤却只要5天",
-      "onboard_time": 1748409321,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 782337,
@@ -235,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514466,
+      "num": 241460,
+      "word": "爱情公寓主演16年后现状",
+      "onboard_time": 1748413161,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 512298,
       "num": 512298,
       "word": "欧阳娜娜在闲鱼讲价被拒绝",
@@ -291,14 +307,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 465343,
-      "num": 465343,
-      "word": "无菌蛋 智商税",
-      "onboard_time": 1748413459,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 450009,
       "num": 357739,
       "word": "内娱最权威的四张撕拉片",
@@ -313,14 +321,6 @@
       "onboard_time": 1748394803,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424377,
-      "num": 228413,
-      "word": "爱情公寓主演16年后现状",
-      "onboard_time": 1748413161,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 416235,
@@ -419,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 320258,
+      "num": 320258,
+      "word": "端午不调休 高速不免费",
+      "onboard_time": 1748415501,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315538,
       "num": 315538,
       "word": "男子坐共享单车摔死骑车人全责",
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 274572,
-      "num": 236273,
+      "num": 260722,
       "word": "黄景瑜 跟你跳troublemaker的那个",
       "onboard_time": 1748412022,
       "rank": 23,
@@ -587,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 238576,
+      "num": 238576,
+      "word": "违建豪宅英之园已基本清拆完毕",
+      "onboard_time": 1748415379,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236801,
       "num": 336732,
       "word": "反家暴法主要起草专家夏吟兰去世",
@@ -675,12 +691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204872,
+      "num": 204872,
+      "word": "梦之队烟花氛围大片",
+      "onboard_time": 1748414480,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204646,
       "num": 463455,
       "word": "兴业银行存千万换实习暂停",
       "onboard_time": 1748402962,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203352,
+      "num": 203352,
+      "word": "赵丽颖尹昉张一山谁是谁",
+      "onboard_time": 1748416280,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 203019,
@@ -739,12 +771,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190688,
+      "num": 190688,
+      "word": "王楚钦球拍受损事件依然等待回应",
+      "onboard_time": 1748414360,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190389,
       "num": 190389,
       "word": "普京叹气",
       "onboard_time": 1748391321,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187417,
+      "num": 235923,
+      "word": "数10台挖掘机连夜开拆豪宅英之园",
+      "onboard_time": 1748415501,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186492,
+      "num": 186492,
+      "word": "南方海啸有声剧",
+      "onboard_time": 1748416579,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 186251,
@@ -827,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179519,
+      "num": 179519,
+      "word": "比亚迪回应山东经销商暴雷",
+      "onboard_time": 1748415920,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 179482,
       "num": 179482,
       "word": "女生考法警进体检被举报曾发极端言论",
@@ -851,6 +915,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 175887,
+      "num": 224884,
+      "word": "癌症遗传概率有多高",
+      "onboard_time": 1748411420,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174812,
       "num": 303647,
       "word": "男子扮富二代租迈巴赫配合团伙盗车",
@@ -865,6 +937,14 @@
       "onboard_time": 1748350942,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172776,
+      "num": 172776,
+      "word": "居然有人12个小时不拿外卖",
+      "onboard_time": 1748416101,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 171974,
@@ -897,6 +977,14 @@
       "onboard_time": 1748404463,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169875,
+      "num": 158447,
+      "word": "王楚钦夺冠不能掩盖球拍受损恶劣",
+      "onboard_time": 1748416521,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 169610,
@@ -955,6 +1043,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 158667,
+      "num": 158667,
+      "word": "去年剩的防晒霜今年还能用吗",
+      "onboard_time": 1748415079,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158219,
       "num": 158219,
       "word": "哪吒也没想到这辈子能用上气垫吧",
@@ -1003,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153135,
-      "num": 153135,
-      "word": "王楚钦球拍受损事件依然等待回应",
-      "onboard_time": 1748414360,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152826,
       "num": 837656,
       "word": "粽子海外订单爆了",
@@ -1020,7 +1108,7 @@
     },
     {
       "raw_hot": 152604,
-      "num": 152604,
+      "num": 158322,
       "word": "终于有恋综把丑话都说在了前面",
       "onboard_time": 1748413642,
       "rank": 34,
@@ -1041,6 +1129,14 @@
       "onboard_time": 1748408481,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150518,
+      "num": 157446,
+      "word": "漫天金雨下的陈都灵",
+      "onboard_time": 1748415321,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 148842,
@@ -1083,14 +1179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146112,
-      "num": 224884,
-      "word": "癌症遗传概率有多高",
-      "onboard_time": 1748411420,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 145304,
       "num": 145304,
       "word": "Deadman",
@@ -1123,12 +1211,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140928,
+      "num": 229442,
+      "word": "孟子义给汪峰卸妆徐志胜唱春天里",
+      "onboard_time": 1748414240,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140837,
       "num": 140837,
       "word": "下周六高考",
       "onboard_time": 1748400681,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139909,
+      "num": 139909,
+      "word": "国际月经日",
+      "onboard_time": 1748416701,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139704,
@@ -1139,20 +1243,36 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137311,
-      "num": 229442,
-      "word": "孟子义给汪峰卸妆徐志胜唱春天里",
-      "onboard_time": 1748414240,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137016,
       "num": 137016,
       "word": "狗 真是见了鬼了",
       "onboard_time": 1748407462,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136347,
+      "num": 136347,
+      "word": "别再拔白头发了",
+      "onboard_time": 1748417001,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132079,
+      "num": 132079,
+      "word": "孙颖莎世乒赛女单冠军之路",
+      "onboard_time": 1748416462,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131499,
+      "num": 131499,
+      "word": "AD钙奶",
+      "onboard_time": 1748417120,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 129870,
@@ -1233,14 +1353,6 @@
       "onboard_time": 1748358442,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119250,
-      "num": 119250,
-      "word": "梦之队烟花氛围大片",
-      "onboard_time": 1748414480,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 118033,
@@ -1459,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99193,
+      "num": 179649,
+      "word": "睡前饿一饿对脾胃好吗",
+      "onboard_time": 1748416641,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98577,
       "num": 98577,
       "word": "苹果输入法变好用的方法",
@@ -1552,6 +1672,14 @@
       "word": "藏海传预告",
       "onboard_time": 1748360120,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92924,
+      "num": 228772,
+      "word": "刘宇宁演唱会要挑战唱跳",
+      "onboard_time": 1748415560,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1819,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55423,
+      "num": 157863,
+      "word": "广州食客曝光未拆封餐具里蟑螂乱爬",
+      "onboard_time": 1748417120,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54047,
       "num": 305990,
       "word": "日常中哪些食物更容易引发糖尿病",
@@ -1971,6 +2107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 33517,
+      "num": 240444,
+      "word": "官方回应英之园拆除最新进展",
+      "onboard_time": 1748415440,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32704,
       "num": 298096,
       "word": "郑钦文说能赢就是最好的",
@@ -1985,6 +2129,14 @@
       "onboard_time": 1748388258,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30932,
+      "num": 231310,
+      "word": "时代少年团闪耀纽约时代广场",
+      "onboard_time": 1748415861,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 30599,
@@ -2009,6 +2161,14 @@
       "onboard_time": 1748409980,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28897,
+      "num": 132310,
+      "word": "六一前汪顺进校园",
+      "onboard_time": 1748412861,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 26196,
@@ -2065,6 +2225,22 @@
       "onboard_time": 1748378415,
       "rank": 39,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 19361,
+      "num": 238787,
+      "word": "618护肤购物分享",
+      "onboard_time": 1748415679,
+      "rank": 14,
+      "category": "美妆,互联网"
+    },
+    {
+      "raw_hot": 19258,
+      "num": 131731,
+      "word": "如何正确做到自我接纳",
+      "onboard_time": 1748415742,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 18222,
@@ -2129,6 +2305,14 @@
       "onboard_time": 1748272763,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2993,
+      "num": 142095,
+      "word": "你用美白精华为啥看不到效果",
+      "onboard_time": 1748415980,
+      "rank": 40,
+      "category": "美妆"
     }
   ],
   "hotgov_list": [
