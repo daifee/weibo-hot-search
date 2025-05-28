@@ -1,0 +1,410 @@
+{
+  "runTime": 1748472156563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 451872,
+        "num": 527924,
+        "word": "哈佛6700名在校生需转学或离境",
+        "onboard_time": 1748456775,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 326847,
+        "num": 326847,
+        "word": "游客发现武陵山天池底为304不锈钢",
+        "onboard_time": 1748433621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38236,
+        "num": 224871,
+        "word": "端午气氛组强势上线",
+        "onboard_time": 1748441003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224279,
+        "num": 224279,
+        "word": "国补后iPhone16Pro重回销量第一",
+        "onboard_time": 1748446701,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204646,
+        "num": 204646,
+        "word": "陈乔恩确诊盲肠炎",
+        "onboard_time": 1748445502,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184231,
+        "num": 184231,
+        "word": "汪苏泷婉拒歌手返场邀请",
+        "onboard_time": 1748448380,
+        "rank": 5,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 156039,
+        "num": 156039,
+        "word": "客人闹事店主护妻反击被判入狱",
+        "onboard_time": 1748447482,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126702,
+        "num": 126702,
+        "word": "肖战演技",
+        "onboard_time": 1748443942,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118087,
+        "num": 118087,
+        "word": "印度承诺2047年建成发达国家",
+        "onboard_time": 1748445622,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59780,
+        "num": 116816,
+        "word": "山东高密化工厂爆炸三大原因待查",
+        "onboard_time": 1748463314,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236118,
+        "num": 116761,
+        "word": "102岁老人3楼坠落被众人稳稳接住",
+        "onboard_time": 1748442564,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 116356,
+        "num": 116356,
+        "word": "泡泡玛特回应Labubu品控问题",
+        "onboard_time": 1748446761,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103063,
+        "num": 103063,
+        "word": "男子抱含奶嘴婴儿乞讨自称寻妻",
+        "onboard_time": 1748446281,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100888,
+        "num": 100888,
+        "word": "赵今麦张云龙牛排上了快点说",
+        "onboard_time": 1748449400,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 84910,
+        "num": 84910,
+        "word": "今夕赫夕",
+        "onboard_time": 1748448201,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 81765,
+        "num": 81765,
+        "word": "荣耀李健",
+        "onboard_time": 1748447242,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77979,
+        "num": 77979,
+        "word": "杨幂躲镜头",
+        "onboard_time": 1748437162,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 77487,
+        "num": 77487,
+        "word": "折腰弹幕",
+        "onboard_time": 1748449580,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71048,
+        "num": 71048,
+        "word": "总监降职为前台公司被判赔26万",
+        "onboard_time": 1748440763,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70092,
+        "num": 70092,
+        "word": "藏海传24集 新的太子",
+        "onboard_time": 1748437522,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126040,
+        "num": 68649,
+        "word": "白发是身体给的压力警告",
+        "onboard_time": 1748447121,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 66992,
+        "num": 66992,
+        "word": "刘涛可以领因为她叫安迪",
+        "onboard_time": 1748469195,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60777,
+        "num": 60777,
+        "word": "马嘉祺歌手再唱你曾是少年",
+        "onboard_time": 1748449400,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57752,
+        "num": 57752,
+        "word": "藏海烧了父母的人皮",
+        "onboard_time": 1748445742,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57435,
+        "num": 57435,
+        "word": "没去芭莎的很幸运了",
+        "onboard_time": 1748436801,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 55836,
+        "num": 55836,
+        "word": "林允身材好绝",
+        "onboard_time": 1748435782,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 53028,
+        "num": 53028,
+        "word": "歌手歌单",
+        "onboard_time": 1748443824,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53027,
+        "num": 53027,
+        "word": "被芭莎的镜头签吓死",
+        "onboard_time": 1748442863,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 50041,
+        "num": 50041,
+        "word": "在李昀锐旁边沙溢都眉清目秀了",
+        "onboard_time": 1748466494,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49299,
+        "num": 49299,
+        "word": "68岁老汉称在等国家发的老婆",
+        "onboard_time": 1748460434,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49142,
+        "num": 49142,
+        "word": "韦雪回应与男友分手",
+        "onboard_time": 1748455275,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48956,
+        "num": 48956,
+        "word": "高敏感是一种很珍贵的天赋",
+        "onboard_time": 1748449340,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44693,
+        "num": 44693,
+        "word": "鞠婧祎 蛇女",
+        "onboard_time": 1748430860,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 44011,
+        "num": 44011,
+        "word": "刘宇宁 锡纸抹胸",
+        "onboard_time": 1748438122,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43620,
+        "num": 43620,
+        "word": "102岁老人误把窗户当门悬挂三楼",
+        "onboard_time": 1748455335,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42987,
+        "num": 42987,
+        "word": "覃海洋回应张雨霏称他是卷王",
+        "onboard_time": 1748465294,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39897,
+        "num": 39897,
+        "word": "虞书欣谢可寅你俩喝点中药吧",
+        "onboard_time": 1748441064,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38270,
+        "num": 38270,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37944,
+        "num": 37944,
+        "word": "大麦崩了",
+        "onboard_time": 1748439924,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37120,
+        "num": 37120,
+        "word": "王者荣耀",
+        "onboard_time": 1748446402,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36273,
+        "num": 36273,
+        "word": "卫生巾 妇科感染",
+        "onboard_time": 1748435121,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35677,
+        "num": 35677,
+        "word": "王楚钦世乒赛男单仅输4小局",
+        "onboard_time": 1748443282,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35465,
+        "num": 35465,
+        "word": "张凌赫内场赢麻了",
+        "onboard_time": 1748441604,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 32082,
+        "num": 32082,
+        "word": "于正 吴谨言又杀回来了",
+        "onboard_time": 1748430380,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 31661,
+        "num": 31661,
+        "word": "曹公公疯子",
+        "onboard_time": 1748448380,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31430,
+        "num": 31430,
+        "word": "荣耀400价格",
+        "onboard_time": 1748443282,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31034,
+        "num": 31034,
+        "word": "BBC采访广东小伙被种草中国锅",
+        "onboard_time": 1748465234,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30223,
+        "num": 30223,
+        "word": "庄大下线",
+        "onboard_time": 1748449220,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29284,
+        "num": 29284,
+        "word": "在人间",
+        "onboard_time": 1748430621,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27689,
+        "num": 29284,
+        "word": "曼联0比1东盟全明星",
+        "onboard_time": 1748450239,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动少先队事业不断取得新成绩#"
+    }
+  }
+}
