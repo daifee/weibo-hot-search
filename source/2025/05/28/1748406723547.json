@@ -1,0 +1,410 @@
+{
+  "runTime": 1748406723547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 993447,
+        "num": 1158951,
+        "word": "不论男女 到22岁就分一套房",
+        "onboard_time": 1748395822,
+        "rank": 0,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 879784,
+        "num": 879784,
+        "word": "2025新一线城市官宣",
+        "onboard_time": 1748403383,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30001,
+        "num": 744086,
+        "word": "公安网安侦破侵犯公民个人信息案",
+        "onboard_time": 1748394682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1124757,
+        "num": 730833,
+        "word": "鹿晗ins晒与山下智久合照",
+        "onboard_time": 1748405422,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716857,
+        "num": 716857,
+        "word": "第一次见6个主演演一个人",
+        "onboard_time": 1748401822,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 709713,
+        "num": 709713,
+        "word": "武汉警方通报11岁男孩小区坠亡",
+        "onboard_time": 1748403742,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 636687,
+        "num": 636687,
+        "word": "法国军方首次回应阵风战机疑被击落",
+        "onboard_time": 1748403141,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 564811,
+        "num": 564811,
+        "word": "1335万人报名2025全国高考",
+        "onboard_time": 1748401462,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 483195,
+        "num": 483195,
+        "word": "国际乒联致歉",
+        "onboard_time": 1748397981,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218725,
+        "num": 463292,
+        "word": "异瞳治沙小伙坦言想红",
+        "onboard_time": 1748405002,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1146772,
+        "num": 449196,
+        "word": "韦雪官宣与男朋友分手",
+        "onboard_time": 1748395160,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 729958,
+        "num": 412409,
+        "word": "人果然不能随便辞职",
+        "onboard_time": 1748396060,
+        "rank": 11,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 493406,
+        "num": 394572,
+        "word": "您的骑手正在攻击您早饭",
+        "onboard_time": 1748394441,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372657,
+        "num": 372657,
+        "word": "肖战说一部精良作品离不开每个细节",
+        "onboard_time": 1748403802,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363395,
+        "num": 363395,
+        "word": "高密化工厂爆炸震塌5公里外天花板",
+        "onboard_time": 1748402483,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361486,
+        "num": 361486,
+        "word": "藏海传央八收视率第一",
+        "onboard_time": 1748401521,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238496,
+        "num": 360199,
+        "word": "李昀锐黑脸",
+        "onboard_time": 1748393541,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74741,
+        "num": 358078,
+        "word": "DIOR将电影带进秀场",
+        "onboard_time": 1748405062,
+        "rank": 17,
+        "category": "时尚,电影"
+      },
+      {
+        "raw_hot": 39386,
+        "num": 357390,
+        "word": "源头美白的国货代表",
+        "onboard_time": 1748402660,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 35173,
+        "num": 354298,
+        "word": "端午节悬挂艾草能起到什么作用",
+        "onboard_time": 1748405842,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 441556,
+        "num": 352683,
+        "word": "金价",
+        "onboard_time": 1748392162,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 352012,
+        "num": 352012,
+        "word": "孙颖莎代言妮维雅",
+        "onboard_time": 1748401160,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206112,
+        "num": 337922,
+        "word": "周翊然翘楚开机发言",
+        "onboard_time": 1748405542,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196923,
+        "num": 336504,
+        "word": "哈利波特",
+        "onboard_time": 1748392402,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182064,
+        "num": 336304,
+        "word": "内娱85花人美吧唧也美",
+        "onboard_time": 1748400922,
+        "rank": 24,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 336293,
+        "num": 336293,
+        "word": "冯小刚徐帆养女徐朵高中毕业",
+        "onboard_time": 1748398460,
+        "rank": 25,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 24396,
+        "num": 330072,
+        "word": "女子称乘航班托运行李金手链丢失",
+        "onboard_time": 1748406383,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24138,
+        "num": 325934,
+        "word": "患者做种植牙被要求连做三次CT检查",
+        "onboard_time": 1748406504,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99332,
+        "num": 316720,
+        "word": "张一山云包场",
+        "onboard_time": 1748406201,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11720,
+        "num": 302421,
+        "word": "什么是人机共驾理念",
+        "onboard_time": 1748406082,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 32704,
+        "num": 298096,
+        "word": "郑钦文说能赢就是最好的",
+        "onboard_time": 1748406623,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117467,
+        "num": 291246,
+        "word": "12岁女孩用手机交作业被骗22万",
+        "onboard_time": 1748403441,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282596,
+        "num": 282596,
+        "word": "48岁再婚女子怀孕以为是绝经发福",
+        "onboard_time": 1748392103,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179810,
+        "num": 273112,
+        "word": "浪胃仙再复更",
+        "onboard_time": 1748400261,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120875,
+        "num": 271949,
+        "word": "何小鹏透露MONA智驾比肩友商50万旗舰车",
+        "onboard_time": 1748401701,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 271222,
+        "num": 271222,
+        "word": "月薪1万5的保姆自制炸鸡全家桶",
+        "onboard_time": 1748405782,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237150,
+        "num": 237150,
+        "word": "携致癌基因男子捐精育出67个孩子",
+        "onboard_time": 1748389339,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190155,
+        "num": 190155,
+        "word": "刘宇宁回应初见小乔",
+        "onboard_time": 1748406562,
+        "rank": 37,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 189356,
+        "num": 189356,
+        "word": "反家暴法主要起草专家夏吟兰去世",
+        "onboard_time": 1748402541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181212,
+        "num": 181212,
+        "word": "雷军晒玄戒O1纪念品",
+        "onboard_time": 1748406143,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170978,
+        "num": 170978,
+        "word": "大雍平账仙人",
+        "onboard_time": 1748405842,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169618,
+        "num": 169618,
+        "word": "陈妍希回应藏海传面具人身份",
+        "onboard_time": 1748392882,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110608,
+        "num": 169613,
+        "word": "在人间今日开播",
+        "onboard_time": 1748405242,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43384,
+        "num": 169611,
+        "word": "詹姆斯很可能执行球员选项",
+        "onboard_time": 1748395703,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30523,
+        "num": 169610,
+        "word": "淘淘氧棉守护女性健康",
+        "onboard_time": 1748401521,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169610,
+        "num": 169609,
+        "word": "藏海传第三人身份浮出水面",
+        "onboard_time": 1748406022,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164447,
+        "num": 164447,
+        "word": "怪不得张艺兴能唱出Honey",
+        "onboard_time": 1748405903,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148369,
+        "num": 148369,
+        "word": "白鹿进组莫离了",
+        "onboard_time": 1748400082,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143875,
+        "num": 143875,
+        "word": "恋与深空",
+        "onboard_time": 1748403863,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141159,
+        "num": 141159,
+        "word": "特朗普政府已暂停留学生新签证面谈",
+        "onboard_time": 1748390060,
+        "rank": 49,
+        "category": "国际时政,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们节日快乐#"
+    }
+  }
+}
