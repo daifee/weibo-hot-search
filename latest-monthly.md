@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/29 07:24:48
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/29 07:39:01
 </p>
 </blockquote>
 <p>
@@ -5781,6 +5781,12 @@ AD钙奶（热度：904430）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B6700%E5%90%8D%E5%9C%A8%E6%A0%A1%E7%94%9F%E9%9C%80%E8%BD%AC%E5%AD%A6%E6%88%96%E7%A6%BB%E5%A2%83%23" target="weibo">
+哈佛6700名在校生需转学或离境（热度：804011）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%B4%81%E9%9D%99%E6%98%A5%E6%99%9A%E5%89%8D%E6%94%BE%E5%8C%96%E7%96%9725%E6%AC%A1%23" target="weibo">
 朱洁静春晚前放化疗25次（热度：803287）
 </a>
@@ -5873,12 +5879,6 @@ EDG回家（热度：799177）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E8%A1%80%E7%9A%84%E9%98%B4%E8%99%B1%23" target="weibo">
 吸血的阴虱（热度：796819）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B6700%E5%90%8D%E5%9C%A8%E6%A0%A1%E7%94%9F%E9%9C%80%E8%BD%AC%E5%AD%A6%E6%88%96%E7%A6%BB%E5%A2%83%23" target="weibo">
-哈佛6700名在校生需转学或离境（热度：796728）
 </a>
 </li>
 

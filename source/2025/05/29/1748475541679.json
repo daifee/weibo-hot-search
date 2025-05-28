@@ -1,0 +1,410 @@
+{
+  "runTime": 1748475541679,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 804011,
+        "num": 953711,
+        "word": "哈佛6700名在校生需转学或离境",
+        "onboard_time": 1748456775,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 609729,
+        "num": 609729,
+        "word": "游客发现武陵山天池底为304不锈钢",
+        "onboard_time": 1748433621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63512,
+        "num": 467858,
+        "word": "端午气氛组强势上线",
+        "onboard_time": 1748441003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 445005,
+        "num": 445005,
+        "word": "小乔怀孕傻的却是魏劭",
+        "onboard_time": 1748473937,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322749,
+        "num": 322749,
+        "word": "国补后iPhone16Pro重回销量第一",
+        "onboard_time": 1748446701,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 310102,
+        "num": 310102,
+        "word": "陈乔恩确诊盲肠炎",
+        "onboard_time": 1748445502,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274762,
+        "num": 274762,
+        "word": "泡泡玛特回应Labubu品控问题",
+        "onboard_time": 1748446761,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266315,
+        "num": 266315,
+        "word": "汪苏泷婉拒歌手返场邀请",
+        "onboard_time": 1748448380,
+        "rank": 7,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 213263,
+        "num": 213263,
+        "word": "客人闹事店主护妻反击被判入狱",
+        "onboard_time": 1748447482,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200219,
+        "num": 200219,
+        "word": "被芭莎的镜头签吓死",
+        "onboard_time": 1748442863,
+        "rank": 9,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 413395,
+        "num": 199697,
+        "word": "102岁老人3楼坠落被众人稳稳接住",
+        "onboard_time": 1748442564,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 198224,
+        "num": 198224,
+        "word": "山东高密化工厂爆炸三大原因待查",
+        "onboard_time": 1748463314,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197701,
+        "num": 197701,
+        "word": "印度承诺2047年建成发达国家",
+        "onboard_time": 1748445622,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174114,
+        "num": 174114,
+        "word": "总监降职为前台公司被判赔26万",
+        "onboard_time": 1748440763,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172357,
+        "num": 172357,
+        "word": "肖战演技",
+        "onboard_time": 1748443942,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152983,
+        "num": 152983,
+        "word": "杨幂躲镜头",
+        "onboard_time": 1748437162,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142762,
+        "num": 142762,
+        "word": "男子抱含奶嘴婴儿乞讨自称寻妻",
+        "onboard_time": 1748446281,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127882,
+        "num": 127882,
+        "word": "今夕赫夕",
+        "onboard_time": 1748448201,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 118005,
+        "num": 118005,
+        "word": "IU新歌MV男主车银优",
+        "onboard_time": 1748475019,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116368,
+        "num": 116368,
+        "word": "全职高手",
+        "onboard_time": 1748474900,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 95119,
+        "num": 106839,
+        "word": "美国再对大学祭杀招或正自废武功",
+        "onboard_time": 1748474237,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105952,
+        "num": 105952,
+        "word": "藏海烧了父母的人皮",
+        "onboard_time": 1748445742,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105243,
+        "num": 105243,
+        "word": "赵今麦张云龙牛排上了快点说",
+        "onboard_time": 1748449400,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 105025,
+        "num": 105025,
+        "word": "68岁老汉称在等国家发的老婆",
+        "onboard_time": 1748460434,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91357,
+        "num": 91357,
+        "word": "光与夜之恋",
+        "onboard_time": 1748474839,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90473,
+        "num": 90473,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88855,
+        "num": 88855,
+        "word": "藏海传24集 新的太子",
+        "onboard_time": 1748437522,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87821,
+        "num": 87821,
+        "word": "歌手歌单",
+        "onboard_time": 1748443824,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84398,
+        "num": 84398,
+        "word": "林允身材好绝",
+        "onboard_time": 1748435782,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 79859,
+        "num": 79859,
+        "word": "卫生巾 妇科感染",
+        "onboard_time": 1748435121,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91574,
+        "num": 79272,
+        "word": "起床后是排便的黄金时段",
+        "onboard_time": 1748475260,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76331,
+        "num": 76331,
+        "word": "荣耀李健",
+        "onboard_time": 1748447242,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70215,
+        "num": 70215,
+        "word": "去博物馆戴大金镯子",
+        "onboard_time": 1748473217,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69573,
+        "num": 69573,
+        "word": "没去芭莎的很幸运了",
+        "onboard_time": 1748436801,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 69112,
+        "num": 69112,
+        "word": "五一双方父母见面安排80一晚的宾馆",
+        "onboard_time": 1748475079,
+        "rank": 34,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 68250,
+        "num": 68250,
+        "word": "折腰弹幕",
+        "onboard_time": 1748449580,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67205,
+        "num": 67205,
+        "word": "马嘉祺歌手再唱你曾是少年",
+        "onboard_time": 1748449400,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66301,
+        "num": 66301,
+        "word": "deepseek",
+        "onboard_time": 1748443942,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64985,
+        "num": 64985,
+        "word": "刘涛可以领因为她叫安迪",
+        "onboard_time": 1748469195,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64557,
+        "num": 64557,
+        "word": "于正 吴谨言又杀回来了",
+        "onboard_time": 1748430380,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 64361,
+        "num": 64361,
+        "word": "邓为关晓彤合唱祝福高考生",
+        "onboard_time": 1748475079,
+        "rank": 40,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 62394,
+        "num": 62394,
+        "word": "覃海洋回应张雨霏称他是卷王",
+        "onboard_time": 1748465294,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60816,
+        "num": 60816,
+        "word": "102岁老人误把窗户当门悬挂三楼",
+        "onboard_time": 1748455335,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60411,
+        "num": 60411,
+        "word": "在李昀锐旁边沙溢都眉清目秀了",
+        "onboard_time": 1748466494,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60318,
+        "num": 60318,
+        "word": "刘宇宁 锡纸抹胸",
+        "onboard_time": 1748438122,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58644,
+        "num": 58644,
+        "word": "谁能把张小婉电池扣了",
+        "onboard_time": 1748475200,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57754,
+        "num": 57754,
+        "word": "鞠婧祎 蛇女",
+        "onboard_time": 1748430860,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 56532,
+        "num": 56532,
+        "word": "大麦崩了",
+        "onboard_time": 1748439924,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54732,
+        "num": 54732,
+        "word": "王楚钦世乒赛男单仅输4小局",
+        "onboard_time": 1748443282,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53842,
+        "num": 53842,
+        "word": "马拉松拉伸员小姐姐走红",
+        "onboard_time": 1748473937,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动少先队事业不断取得新成绩#"
+    }
+  }
+}
