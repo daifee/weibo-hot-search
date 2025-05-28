@@ -1,0 +1,410 @@
+{
+  "runTime": 1748421267480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1929512,
+        "num": 1929512,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 938252,
+        "num": 938252,
+        "word": "荔枝病",
+        "onboard_time": 1748417902,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28261,
+        "num": 875153,
+        "word": "公安网安侦破侵犯公民个人信息案",
+        "onboard_time": 1748394682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 823653,
+        "num": 823653,
+        "word": "长月烬明又杀回来了",
+        "onboard_time": 1748417181,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 776335,
+        "num": 776335,
+        "word": "AD钙奶",
+        "onboard_time": 1748417120,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 639338,
+        "num": 639338,
+        "word": "无菌蛋 智商税",
+        "onboard_time": 1748413459,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 499424,
+        "num": 499424,
+        "word": "鹿晗ins晒与山下智久合照",
+        "onboard_time": 1748405422,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474183,
+        "num": 474183,
+        "word": "丈夫伪造车祸杀妻因太冷静被识破",
+        "onboard_time": 1748419101,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375438,
+        "num": 375438,
+        "word": "去年剩的防晒霜今年还能用吗",
+        "onboard_time": 1748415079,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338096,
+        "num": 338096,
+        "word": "瘦5斤需要1个月 胖5斤却只要5天",
+        "onboard_time": 1748409321,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 425234,
+        "num": 327414,
+        "word": "警方通报共享单车坐垫内有情趣用品",
+        "onboard_time": 1748410760,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 408608,
+        "num": 322609,
+        "word": "医生称7成妇科感染与卫生巾有关",
+        "onboard_time": 1748418081,
+        "rank": 11,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 362787,
+        "num": 299915,
+        "word": "韦雪官宣与男朋友分手",
+        "onboard_time": 1748395160,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 340859,
+        "num": 289611,
+        "word": "SM就柳智敏ins争议道歉",
+        "onboard_time": 1748412621,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283070,
+        "num": 283070,
+        "word": "2025新一线城市官宣",
+        "onboard_time": 1748403383,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218518,
+        "num": 282963,
+        "word": "aespaASEA红毯",
+        "onboard_time": 1748420661,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196049,
+        "num": 282212,
+        "word": "第一次见6个主演演一个人",
+        "onboard_time": 1748401822,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169494,
+        "num": 281220,
+        "word": "藏海传风靡岛内",
+        "onboard_time": 1748418321,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17753,
+        "num": 280670,
+        "word": "开发商疑用公共楼梯补房产面积",
+        "onboard_time": 1748420901,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21541,
+        "num": 279684,
+        "word": "无菌蛋和普通鸡蛋营养成分有区别吗",
+        "onboard_time": 1748419941,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 37070,
+        "num": 279513,
+        "word": "中介承诺付费2万元可进大厂实习",
+        "onboard_time": 1748421022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221336,
+        "num": 278501,
+        "word": "一个女主配五个男主",
+        "onboard_time": 1748419941,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163828,
+        "num": 278090,
+        "word": "王安宇想睡觉就有刘浩存递枕头",
+        "onboard_time": 1748419880,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19276,
+        "num": 277023,
+        "word": "存千万元可进名企实习仅叫停还不够",
+        "onboard_time": 1748420962,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114871,
+        "num": 276103,
+        "word": "别再拔白头发了",
+        "onboard_time": 1748417001,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146528,
+        "num": 275965,
+        "word": "赵丽颖尹昉张一山谁是谁",
+        "onboard_time": 1748416280,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146203,
+        "num": 275257,
+        "word": "杨幂存了张曼玉杂志20年",
+        "onboard_time": 1748410283,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20592,
+        "num": 274226,
+        "word": "氡气的危害",
+        "onboard_time": 1748420481,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119575,
+        "num": 273270,
+        "word": "为什么朋友圈晒幸福的越来越少了",
+        "onboard_time": 1748419641,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 9375,
+        "num": 273190,
+        "word": "小伙街头救助倒地老人",
+        "onboard_time": 1748420481,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272550,
+        "num": 272550,
+        "word": "1335万人报名2025全国高考",
+        "onboard_time": 1748401462,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 255801,
+        "num": 255801,
+        "word": "女子个人财产被当夫妻共有财产还债",
+        "onboard_time": 1748417240,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251051,
+        "num": 251051,
+        "word": "爱情公寓主演16年后现状",
+        "onboard_time": 1748413161,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229243,
+        "num": 229243,
+        "word": "中方回应美政府停止发放学生签证",
+        "onboard_time": 1748418861,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 217178,
+        "num": 217178,
+        "word": "王楚钦夺冠不能掩盖球拍受损恶劣",
+        "onboard_time": 1748416521,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215713,
+        "num": 215713,
+        "word": "时尚芭莎盛典",
+        "onboard_time": 1748418201,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 191919,
+        "num": 191919,
+        "word": "叶舒华为成都遇害女生发声",
+        "onboard_time": 1748420661,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164558,
+        "num": 164558,
+        "word": "月薪3200在深圳便利店上班的一天",
+        "onboard_time": 1748418260,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68235,
+        "num": 163104,
+        "word": "提拉米苏中毒事件",
+        "onboard_time": 1748420301,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38703,
+        "num": 162027,
+        "word": "你的朋友圈好久没有提及你的快乐了",
+        "onboard_time": 1748420362,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161821,
+        "num": 161821,
+        "word": "一旅客违规携带230万美金入境",
+        "onboard_time": 1748419401,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156254,
+        "num": 156254,
+        "word": "违建豪宅英之园已基本清拆完毕",
+        "onboard_time": 1748415379,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144739,
+        "num": 144739,
+        "word": "您的骑手正在攻击您早饭",
+        "onboard_time": 1748394441,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130873,
+        "num": 130873,
+        "word": "金子银子将成为美佛州流通货币",
+        "onboard_time": 1748417782,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129305,
+        "num": 129305,
+        "word": "蛮蛮一劭橘子吻",
+        "onboard_time": 1748418381,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129111,
+        "num": 129111,
+        "word": "99元Labubu隐藏款被炒至2600元",
+        "onboard_time": 1748420301,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102770,
+        "num": 128547,
+        "word": "配音师声音遭AI商用成功维权",
+        "onboard_time": 1748419222,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128411,
+        "num": 128411,
+        "word": "国乒选手喜欢甜粽还是咸粽",
+        "onboard_time": 1748421202,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122984,
+        "num": 122984,
+        "word": "苏苏汤汤",
+        "onboard_time": 1748421083,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119521,
+        "num": 119521,
+        "word": "ASEA红毯",
+        "onboard_time": 1748420783,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们节日快乐#"
+    }
+  }
+}
