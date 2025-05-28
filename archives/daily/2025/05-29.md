@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/29 00:31:38 ~ 2025/05/29 02:34:39
+本榜单时间：2025/05/29 00:31:38 ~ 2025/05/29 02:48:33
 </p>
 </blockquote>
 <p>
@@ -363,14 +363,26 @@ deepseek（热度：91794）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B6700%E5%90%8D%E5%9C%A8%E6%A0%A1%E7%94%9F%E9%9C%80%E8%BD%AC%E5%AD%A6%E6%88%96%E7%A6%BB%E5%A2%83%23" target="weibo">
+哈佛6700名在校生需转学或离境（热度：27977）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%8D%A1%E9%87%91%E5%B1%9E%E6%88%98%E7%94%B2%E9%80%A0%E5%9E%8B%23" target="weibo">
 米卡金属战甲造型（热度：26063）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B6700%E5%90%8D%E5%9C%A8%E6%A0%A1%E7%94%9F%E9%9C%80%E8%BD%AC%E5%AD%A6%E6%88%96%E7%A6%BB%E5%A2%83%23" target="weibo">
-哈佛6700名在校生需转学或离境（热度：25062）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E6%B0%91%E8%B0%A3%E6%96%B0%E6%AD%8C%E7%8B%AC%E6%9C%A8%23" target="weibo">
+张云雷民谣新歌独木（热度：22369）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%8B%BE%E5%85%89%E5%8D%81%E5%B9%B4%23" target="weibo">
+SEVENTEEN拾光十年（热度：20458）
 </a>
 </li>
 

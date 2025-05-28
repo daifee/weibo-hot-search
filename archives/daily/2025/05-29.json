@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748457279054,
+  "endTime": 1748458113182,
   "band_list": [
     {
       "raw_hot": 714375,
@@ -467,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27977,
+      "num": 27977,
+      "word": "哈佛6700名在校生需转学或离境",
+      "onboard_time": 1748456775,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26063,
       "num": 26063,
       "word": "米卡金属战甲造型",
@@ -475,12 +483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25062,
-      "num": 25062,
-      "word": "哈佛6700名在校生需转学或离境",
-      "onboard_time": 1748456775,
+      "raw_hot": 22369,
+      "num": 22369,
+      "word": "张云雷民谣新歌独木",
+      "onboard_time": 1748457675,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 20458,
+      "num": 21507,
+      "word": "SEVENTEEN拾光十年",
+      "onboard_time": 1748458034,
       "rank": 46,
-      "category": "国际时政"
+      "category": "音乐,艺人"
     }
   ],
   "hotgov_list": [

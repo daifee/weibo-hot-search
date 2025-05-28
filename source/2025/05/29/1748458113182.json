@@ -1,0 +1,410 @@
+{
+  "runTime": 1748458113182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 127650,
+        "num": 127650,
+        "word": "汪苏泷婉拒歌手返场邀请",
+        "onboard_time": 1748448380,
+        "rank": 0,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 104395,
+        "num": 104395,
+        "word": "泡泡玛特回应Labubu品控问题",
+        "onboard_time": 1748446761,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13869,
+        "num": 83911,
+        "word": "端午气氛组强势上线",
+        "onboard_time": 1748441003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82745,
+        "num": 82745,
+        "word": "国补后iPhone16Pro重回销量第一",
+        "onboard_time": 1748446701,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71923,
+        "num": 71923,
+        "word": "杨幂躲镜头",
+        "onboard_time": 1748437162,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 58475,
+        "num": 58475,
+        "word": "游客发现武陵山天池底为304不锈钢",
+        "onboard_time": 1748433621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69456,
+        "num": 57389,
+        "word": "大麦崩了",
+        "onboard_time": 1748439924,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63696,
+        "num": 56300,
+        "word": "没去芭莎的很幸运了",
+        "onboard_time": 1748436801,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 54391,
+        "num": 54391,
+        "word": "客人闹事店主护妻反击被判入狱",
+        "onboard_time": 1748447482,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44561,
+        "num": 44561,
+        "word": "荣耀李健",
+        "onboard_time": 1748447242,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72121,
+        "num": 44370,
+        "word": "102岁老人3楼坠落被众人稳稳接住",
+        "onboard_time": 1748442564,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 68148,
+        "num": 43927,
+        "word": "今夕赫夕",
+        "onboard_time": 1748448201,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 60243,
+        "num": 43797,
+        "word": "歌手歌单",
+        "onboard_time": 1748443824,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48673,
+        "num": 43441,
+        "word": "马嘉祺歌手再唱你曾是少年",
+        "onboard_time": 1748449400,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43243,
+        "num": 43243,
+        "word": "王者荣耀",
+        "onboard_time": 1748446402,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47335,
+        "num": 43126,
+        "word": "赵今麦张云龙牛排上了快点说",
+        "onboard_time": 1748449400,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 42428,
+        "num": 42428,
+        "word": "印度承诺2047年建成发达国家",
+        "onboard_time": 1748445622,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37545,
+        "num": 37545,
+        "word": "藏海传24集 新的太子",
+        "onboard_time": 1748437522,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33821,
+        "num": 33821,
+        "word": "火流星",
+        "onboard_time": 1748447840,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28045,
+        "num": 28045,
+        "word": "高敏感是一种很珍贵的天赋",
+        "onboard_time": 1748449340,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35547,
+        "num": 28041,
+        "word": "林允身材好绝",
+        "onboard_time": 1748435782,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 34502,
+        "num": 28034,
+        "word": "鞠婧祎 蛇女",
+        "onboard_time": 1748430860,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 34252,
+        "num": 28031,
+        "word": "白发是身体给的压力警告",
+        "onboard_time": 1748447121,
+        "rank": 22,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 32091,
+        "num": 28025,
+        "word": "陈乔恩确诊盲肠炎",
+        "onboard_time": 1748445502,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30469,
+        "num": 28014,
+        "word": "韦雪回应与男友分手",
+        "onboard_time": 1748455275,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 30077,
+        "num": 28010,
+        "word": "肖战演技",
+        "onboard_time": 1748443942,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29697,
+        "num": 27997,
+        "word": "刘宇宁 锡纸抹胸",
+        "onboard_time": 1748438122,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29019,
+        "num": 27997,
+        "word": "折腰弹幕",
+        "onboard_time": 1748449580,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25130,
+        "num": 27988,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24437,
+        "num": 27981,
+        "word": "男子抱含奶嘴婴儿乞讨自称寻妻",
+        "onboard_time": 1748446281,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27977,
+        "num": 27977,
+        "word": "哈佛6700名在校生需转学或离境",
+        "onboard_time": 1748456775,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27203,
+        "num": 27203,
+        "word": "在人间",
+        "onboard_time": 1748430621,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25598,
+        "num": 25598,
+        "word": "汪苏泷 胸肌",
+        "onboard_time": 1748447722,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 24861,
+        "num": 24861,
+        "word": "米卡金属战甲造型",
+        "onboard_time": 1748456894,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24860,
+        "num": 24860,
+        "word": "卫生巾 妇科感染",
+        "onboard_time": 1748435121,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24198,
+        "num": 24198,
+        "word": "张凌赫内场赢麻了",
+        "onboard_time": 1748441604,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 24081,
+        "num": 24081,
+        "word": "被芭莎的镜头签吓死",
+        "onboard_time": 1748442863,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 23910,
+        "num": 23910,
+        "word": "于正 吴谨言又杀回来了",
+        "onboard_time": 1748430380,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 23781,
+        "num": 23781,
+        "word": "荣耀400价格",
+        "onboard_time": 1748443282,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20549,
+        "num": 22830,
+        "word": "王楚钦世乒赛男单仅输4小局",
+        "onboard_time": 1748443282,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22630,
+        "num": 22630,
+        "word": "曹公公疯子",
+        "onboard_time": 1748448380,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22369,
+        "num": 22369,
+        "word": "张云雷民谣新歌独木",
+        "onboard_time": 1748457675,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21933,
+        "num": 21933,
+        "word": "庄大下线",
+        "onboard_time": 1748449220,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21875,
+        "num": 21875,
+        "word": "赵今麦扛住了镜头签",
+        "onboard_time": 1748446462,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 21642,
+        "num": 21642,
+        "word": "虞书欣谢可寅你俩喝点中药吧",
+        "onboard_time": 1748441064,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21508,
+        "num": 21508,
+        "word": "藏海烧了父母的人皮",
+        "onboard_time": 1748445742,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20458,
+        "num": 21507,
+        "word": "SEVENTEEN拾光十年",
+        "onboard_time": 1748458034,
+        "rank": 46,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 20191,
+        "num": 21505,
+        "word": "孙颖莎说坚持你热爱的追逐你相信的",
+        "onboard_time": 1748444123,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19260,
+        "num": 21503,
+        "word": "总监降职为前台公司被判赔26万",
+        "onboard_time": 1748440763,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19162,
+        "num": 21501,
+        "word": "曼联0比1东盟全明星",
+        "onboard_time": 1748450239,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动少先队事业不断取得新成绩#"
+    }
+  }
+}
