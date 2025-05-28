@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748449898471,
+  "endTime": 1748450885283,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -2675,6 +2675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 429755,
+      "num": 182396,
+      "word": "今夕赫夕",
+      "onboard_time": 1748448201,
+      "rank": 21,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 428179,
       "num": 1068508,
       "word": "广州某科技公司遭台湾黑客攻击",
@@ -2921,6 +2929,14 @@
       "onboard_time": 1748316200,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 387338,
+      "num": 242606,
+      "word": "汪苏泷婉拒歌手返场邀请",
+      "onboard_time": 1748448380,
+      "rank": 15,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 387220,
@@ -3417,6 +3433,14 @@
       "onboard_time": 1748360481,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 328651,
+      "num": 328651,
+      "word": "泡泡玛特回应Labubu品控问题",
+      "onboard_time": 1748446761,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 327693,
@@ -4179,14 +4203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261800,
-      "num": 206126,
-      "word": "汪苏泷婉拒歌手返场邀请",
-      "onboard_time": 1748448380,
-      "rank": 15,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 259095,
       "num": 259095,
       "word": "光与夜之恋",
@@ -4603,14 +4619,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 238643,
-      "num": 162868,
-      "word": "今夕赫夕",
-      "onboard_time": 1748448201,
-      "rank": 21,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 238624,
       "num": 238624,
       "word": "荣耀400价格",
@@ -4891,14 +4899,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 223666,
-      "num": 223666,
-      "word": "泡泡玛特回应Labubu品控问题",
-      "onboard_time": 1748446761,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222410,
       "num": 424820,
       "word": "吴镇宇对胃痛的女儿好温柔",
@@ -5137,6 +5137,14 @@
       "onboard_time": 1748128998,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212953,
+      "num": 169211,
+      "word": "赵今麦张云龙牛排上了快点说",
+      "onboard_time": 1748449400,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 211571,
@@ -6499,6 +6507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183557,
+      "num": 135706,
+      "word": "马嘉祺歌手再唱你曾是少年",
+      "onboard_time": 1748449400,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183499,
       "num": 320543,
       "word": "美考虑审查所有留学生社交媒体",
@@ -6843,6 +6859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177109,
+      "num": 138123,
+      "word": "汪苏泷 胸肌",
+      "onboard_time": 1748447722,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 176983,
       "num": 176983,
       "word": "在人间八集五天播完",
@@ -7017,14 +7041,6 @@
       "onboard_time": 1748234423,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 174166,
-      "num": 138123,
-      "word": "汪苏泷 胸肌",
-      "onboard_time": 1748447722,
-      "rank": 28,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 174131,
@@ -8419,14 +8435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154036,
-      "num": 135706,
-      "word": "马嘉祺歌手再唱你曾是少年",
-      "onboard_time": 1748449400,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154005,
       "num": 166812,
       "word": "凤凰传奇让我们吃的太好了",
@@ -9179,6 +9187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 140875,
+      "num": 120387,
+      "word": "折腰弹幕",
+      "onboard_time": 1748449580,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140837,
       "num": 140837,
       "word": "下周六高考",
@@ -9553,14 +9569,6 @@
       "onboard_time": 1748102422,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135152,
-      "num": 169211,
-      "word": "赵今麦张云龙牛排上了快点说",
-      "onboard_time": 1748449400,
-      "rank": 19,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 135115,
@@ -10000,6 +10008,14 @@
       "word": "打工人要个双休怎么这么难",
       "onboard_time": 1748160500,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128948,
+      "num": 128948,
+      "word": "火流星",
+      "onboard_time": 1748447840,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -10771,14 +10787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 115385,
-      "num": 115385,
-      "word": "折腰弹幕",
-      "onboard_time": 1748449580,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115375,
       "num": 490527,
       "word": "为什么下腹部脂肪往往最后才会消失",
@@ -11075,14 +11083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110562,
-      "num": 110562,
-      "word": "火流星",
-      "onboard_time": 1748447840,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110529,
       "num": 110529,
       "word": "任天堂宣布打击Switch2黄牛",
@@ -11227,20 +11227,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107453,
+      "num": 107348,
+      "word": "曹公公疯子",
+      "onboard_time": 1748448380,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107369,
       "num": 267109,
       "word": "男子8年来疑以救助猫狗之名诈捐",
       "onboard_time": 1748167702,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107348,
-      "num": 107348,
-      "word": "曹公公疯子",
-      "onboard_time": 1748448380,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 107276,
@@ -11697,6 +11697,14 @@
       "onboard_time": 1748224280,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96665,
+      "num": 96665,
+      "word": "曼联0比1东盟全明星",
+      "onboard_time": 1748450239,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 96612,
@@ -12465,6 +12473,14 @@
       "onboard_time": 1748437162,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77371,
+      "num": 77371,
+      "word": "庄大下线",
+      "onboard_time": 1748449220,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 77127,
@@ -14873,6 +14889,14 @@
       "onboard_time": 1748239880,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 27386,
+      "num": 98185,
+      "word": "医院减脂餐",
+      "onboard_time": 1748449939,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27017,
