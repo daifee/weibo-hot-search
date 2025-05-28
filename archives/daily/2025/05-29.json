@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748450885283,
+  "endTime": 1748453023576,
   "band_list": [
     {
       "raw_hot": 714375,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 387338,
-      "num": 242606,
+      "num": 337316,
       "word": "汪苏泷婉拒歌手返场邀请",
       "onboard_time": 1748448380,
       "rank": 15,
@@ -251,8 +251,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128948,
-      "num": 128948,
+      "raw_hot": 130867,
+      "num": 130867,
       "word": "火流星",
       "onboard_time": 1748447840,
       "rank": 40,
@@ -411,20 +411,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48220,
+      "num": 48220,
+      "word": "虞书欣谢可寅你俩喝点中药吧",
+      "onboard_time": 1748441064,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 47774,
+      "num": 47774,
+      "word": "减肥400天身体的变化",
+      "onboard_time": 1748452457,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 42872,
+      "num": 42872,
+      "word": "在人间",
+      "onboard_time": 1748430621,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37767,
+      "num": 98185,
+      "word": "医院减脂餐",
+      "onboard_time": 1748449939,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37061,
       "num": 561897,
       "word": "端午气氛组强势上线",
       "onboard_time": 1748441003,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27386,
-      "num": 98185,
-      "word": "医院减脂餐",
-      "onboard_time": 1748449939,
-      "rank": 38,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
