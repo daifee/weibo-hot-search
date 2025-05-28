@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748397580622,
+  "endTime": 1748398987075,
   "band_list": [
     {
       "raw_hot": 2153195,
@@ -59,6 +59,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 732888,
+      "num": 283438,
+      "word": "人果然不能随便辞职",
+      "onboard_time": 1748396060,
+      "rank": 15,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 676748,
+      "num": 1108279,
+      "word": "不论男女 到22岁就分一套房",
+      "onboard_time": 1748395822,
+      "rank": 14,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 673636,
       "num": 312586,
       "word": "携致癌基因男子捐精育出67个孩子",
@@ -75,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 643826,
+      "num": 643826,
+      "word": "金价",
+      "onboard_time": 1748392162,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 615788,
       "num": 615788,
       "word": "腓腓快要出生了",
       "onboard_time": 1748358622,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 574851,
-      "num": 574851,
-      "word": "金价",
-      "onboard_time": 1748392162,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 555469,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 483744,
-      "num": 191453,
+      "num": 223657,
       "word": "48岁再婚女子怀孕以为是绝经发福",
       "onboard_time": 1748392103,
       "rank": 20,
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436530,
+      "num": 436530,
+      "word": "国际乒联回应选举乌龙",
+      "onboard_time": 1748394803,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416235,
       "num": 266240,
       "word": "戛纳偶遇刘亦菲吃越南粉",
@@ -161,14 +185,6 @@
       "onboard_time": 1748360002,
       "rank": 6,
       "category": "艺人,演出"
-    },
-    {
-      "raw_hot": 394823,
-      "num": 394823,
-      "word": "国际乒联回应选举乌龙",
-      "onboard_time": 1748394803,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 387220,
@@ -251,14 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 291690,
-      "num": 291690,
-      "word": "不论男女 到22岁就分一套房",
-      "onboard_time": 1748395822,
-      "rank": 14,
-      "category": "民生新闻,议题讨论"
-    },
-    {
       "raw_hot": 287885,
       "num": 265531,
       "word": "李亚鹏和妻子目前没房产",
@@ -267,12 +275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283438,
-      "num": 283438,
-      "word": "人果然不能随便辞职",
-      "onboard_time": 1748396060,
+      "raw_hot": 275947,
+      "num": 270902,
+      "word": "国际乒联致歉",
+      "onboard_time": 1748397981,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270814,
+      "num": 270814,
+      "word": "冯小刚徐帆养女徐朵高中毕业",
+      "onboard_time": 1748398460,
       "rank": 15,
-      "category": "情感,休闲"
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 269180,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 254331,
-      "num": 191277,
+      "num": 208599,
       "word": "陈妍希回应藏海传面具人身份",
       "onboard_time": 1748392882,
       "rank": 21,
@@ -307,8 +323,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233849,
+      "num": 233849,
+      "word": "翘楚",
+      "onboard_time": 1748397562,
+      "rank": 49,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 220120,
-      "num": 220120,
+      "num": 224848,
       "word": "陷入我们的热恋",
       "onboard_time": 1748396122,
       "rank": 18,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 126238,
-      "num": 126238,
+      "num": 151201,
       "word": "又一拨00后要成大学生了",
       "onboard_time": 1748388919,
       "rank": 25,
@@ -515,20 +539,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117405,
+      "num": 216426,
+      "word": "藏海不如厕 真是厉害",
+      "onboard_time": 1748384236,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116586,
       "num": 140153,
       "word": "Pleasure",
       "onboard_time": 1748394260,
       "rank": 34,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 116394,
-      "num": 216426,
-      "word": "藏海不如厕 真是厉害",
-      "onboard_time": 1748384236,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 116135,
@@ -553,6 +577,14 @@
       "onboard_time": 1748351542,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113999,
+      "num": 113999,
+      "word": "美股全线爆发原因",
+      "onboard_time": 1748397562,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 112894,
@@ -587,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108597,
-      "num": 108597,
-      "word": "美股全线爆发原因",
-      "onboard_time": 1748397562,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 107133,
       "num": 107133,
       "word": "金智媛上海外滩和网友比心",
@@ -609,14 +633,6 @@
       "onboard_time": 1748391502,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 103508,
-      "num": 103508,
-      "word": "翘楚",
-      "onboard_time": 1748397562,
-      "rank": 49,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 101669,
@@ -675,6 +691,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 94023,
+      "num": 94023,
+      "word": "詹姆斯很可能执行球员选项",
+      "onboard_time": 1748395703,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93308,
+      "num": 93308,
+      "word": "郑钦文冲击法网32强",
+      "onboard_time": 1748398701,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93176,
       "num": 93176,
       "word": "藏海传预告",
@@ -695,6 +727,22 @@
       "num": 96700,
       "word": "大乔为丈夫与父亲决裂",
       "onboard_time": 1748385496,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88470,
+      "num": 88470,
+      "word": "挂在你包上的labubu",
+      "onboard_time": 1748398701,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 88002,
+      "num": 88002,
+      "word": "在人间",
+      "onboard_time": 1748398881,
       "rank": 49,
       "category": "剧集"
     },
@@ -947,8 +995,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3293,
-      "num": 538256,
+      "raw_hot": 5262,
+      "num": 539541,
       "word": "万千气象看四川",
       "onboard_time": 1748272763,
       "rank": 2,
