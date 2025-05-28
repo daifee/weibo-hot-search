@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748417139591,
+  "endTime": 1748417974732,
   "band_list": [
     {
       "raw_hot": 2186954,
@@ -19,8 +19,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1516136,
-      "num": 1516136,
+      "raw_hot": 1588791,
+      "num": 1588791,
       "word": "无菌蛋 智商税",
       "onboard_time": 1748413459,
       "rank": 32,
@@ -113,6 +113,14 @@
       "onboard_time": 1748396060,
       "rank": 15,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 756067,
+      "num": 756067,
+      "word": "端午不调休 高速不免费",
+      "onboard_time": 1748415501,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 753761,
@@ -419,14 +427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 320258,
-      "num": 320258,
-      "word": "端午不调休 高速不免费",
-      "onboard_time": 1748415501,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 315538,
       "num": 315538,
       "word": "男子坐共享单车摔死骑车人全责",
@@ -457,6 +457,14 @@
       "onboard_time": 1748354662,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296672,
+      "num": 296672,
+      "word": "长月烬明又杀回来了",
+      "onboard_time": 1748417181,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 293800,
@@ -497,6 +505,14 @@
       "onboard_time": 1748412022,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 270459,
+      "num": 270459,
+      "word": "违建豪宅英之园已基本清拆完毕",
+      "onboard_time": 1748415379,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269180,
@@ -571,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244992,
+      "num": 244992,
+      "word": "数10台挖掘机连夜开拆豪宅英之园",
+      "onboard_time": 1748415501,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241603,
       "num": 241603,
       "word": "索林回应国际乒联选举闹剧",
@@ -595,14 +619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 238576,
-      "num": 238576,
-      "word": "违建豪宅英之园已基本清拆完毕",
-      "onboard_time": 1748415379,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236801,
       "num": 336732,
       "word": "反家暴法主要起草专家夏吟兰去世",
@@ -617,6 +633,14 @@
       "onboard_time": 1748397562,
       "rank": 49,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 227318,
+      "num": 192336,
+      "word": "王楚钦夺冠不能掩盖球拍受损恶劣",
+      "onboard_time": 1748416521,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 222103,
@@ -657,6 +681,14 @@
       "onboard_time": 1748406922,
       "rank": 43,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 214207,
+      "num": 263021,
+      "word": "村民称违建豪宅英之园已基本清拆完毕",
+      "onboard_time": 1748417302,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213455,
@@ -763,6 +795,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 192184,
+      "num": 192184,
+      "word": "AD钙奶",
+      "onboard_time": 1748417120,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192129,
       "num": 214249,
       "word": "岳云鹏新剧演男模",
@@ -785,14 +825,6 @@
       "onboard_time": 1748391321,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 187417,
-      "num": 235923,
-      "word": "数10台挖掘机连夜开拆豪宅英之园",
-      "onboard_time": 1748415501,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186492,
@@ -899,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177567,
+      "num": 206524,
+      "word": "去年剩的防晒霜今年还能用吗",
+      "onboard_time": 1748415079,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176891,
       "num": 219976,
       "word": "叶舒华时隔一年更新称心痛不已",
@@ -979,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169875,
-      "num": 158447,
-      "word": "王楚钦夺冠不能掩盖球拍受损恶劣",
-      "onboard_time": 1748416521,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169610,
       "num": 169609,
       "word": "藏海传第三人身份浮出水面",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1748360242,
       "rank": 24,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 164596,
+      "num": 164596,
+      "word": "AG33挂牌",
+      "onboard_time": 1748417719,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 164447,
@@ -1041,14 +1081,6 @@
       "onboard_time": 1748414781,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 158667,
-      "num": 158667,
-      "word": "去年剩的防晒霜今年还能用吗",
-      "onboard_time": 1748415079,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158219,
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 152604,
-      "num": 158322,
+      "num": 202201,
       "word": "终于有恋综把丑话都说在了前面",
       "onboard_time": 1748413642,
       "rank": 34,
@@ -1267,12 +1299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131499,
-      "num": 131499,
-      "word": "AD钙奶",
-      "onboard_time": 1748417120,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 132056,
+      "num": 132056,
+      "word": "东北女生在日本54楼高空绝美的家",
+      "onboard_time": 1748415260,
+      "rank": 44,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 129870,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1748387658,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128246,
+      "num": 128246,
+      "word": "荔枝病",
+      "onboard_time": 1748417902,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128010,
@@ -1843,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69452,
+      "num": 260525,
+      "word": "广州食客曝光未拆封餐具里蟑螂乱爬",
+      "onboard_time": 1748417120,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69274,
       "num": 237326,
       "word": "吴彦祖祝老婆生日快乐",
@@ -1947,20 +1995,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55423,
-      "num": 157863,
-      "word": "广州食客曝光未拆封餐具里蟑螂乱爬",
-      "onboard_time": 1748417120,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54047,
       "num": 305990,
       "word": "日常中哪些食物更容易引发糖尿病",
       "onboard_time": 1748401341,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 53386,
+      "num": 245924,
+      "word": "新房拿房前竟产生5000多水费",
+      "onboard_time": 1748417181,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50400,
@@ -1977,6 +2025,14 @@
       "onboard_time": 1748388018,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 49890,
+      "num": 255838,
+      "word": "时代少年团闪耀纽约时代广场",
+      "onboard_time": 1748415861,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 49751,
@@ -2025,6 +2081,14 @@
       "onboard_time": 1748413701,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 44858,
+      "num": 250747,
+      "word": "成都家门口遇害女子母亲直播发声",
+      "onboard_time": 1748417600,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43575,
@@ -2107,6 +2171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 35257,
+      "num": 260999,
+      "word": "女子个人财产被当夫妻共有财产还债",
+      "onboard_time": 1748417240,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33517,
       "num": 240444,
       "word": "官方回应英之园拆除最新进展",
@@ -2129,14 +2201,6 @@
       "onboard_time": 1748388258,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30932,
-      "num": 231310,
-      "word": "时代少年团闪耀纽约时代广场",
-      "onboard_time": 1748415861,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 30599,
@@ -2203,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22365,
+      "num": 198385,
+      "word": "AI大模型拿用户隐私威胁人类",
+      "onboard_time": 1748417240,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20984,
       "num": 451764,
       "word": "中医按摩真的能有效改善气色吗",
@@ -2219,20 +2291,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19749,
+      "num": 259884,
+      "word": "618护肤购物分享",
+      "onboard_time": 1748415679,
+      "rank": 14,
+      "category": "美妆,互联网"
+    },
+    {
       "raw_hot": 19567,
       "num": 28051,
       "word": "2025文化强国建设高峰论坛",
       "onboard_time": 1748378415,
       "rank": 39,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 19361,
-      "num": 238787,
-      "word": "618护肤购物分享",
-      "onboard_time": 1748415679,
-      "rank": 14,
-      "category": "美妆,互联网"
     },
     {
       "raw_hot": 19258,
@@ -2307,7 +2379,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2993,
+      "raw_hot": 3372,
       "num": 142095,
       "word": "你用美白精华为啥看不到效果",
       "onboard_time": 1748415980,

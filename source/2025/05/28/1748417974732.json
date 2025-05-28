@@ -1,0 +1,410 @@
+{
+  "runTime": 1748417974732,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1588791,
+        "num": 1588791,
+        "word": "无菌蛋 智商税",
+        "onboard_time": 1748413459,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 818208,
+        "num": 818208,
+        "word": "瘦5斤需要1个月 胖5斤却只要5天",
+        "onboard_time": 1748409321,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 19034,
+        "num": 774433,
+        "word": "公安网安侦破侵犯公民个人信息案",
+        "onboard_time": 1748394682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 756067,
+        "num": 756067,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629154,
+        "num": 629154,
+        "word": "鹿晗ins晒与山下智久合照",
+        "onboard_time": 1748405422,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494808,
+        "num": 494808,
+        "word": "2025新一线城市官宣",
+        "onboard_time": 1748403383,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296672,
+        "num": 296672,
+        "word": "长月烬明又杀回来了",
+        "onboard_time": 1748417181,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270459,
+        "num": 270459,
+        "word": "违建豪宅英之园已基本清拆完毕",
+        "onboard_time": 1748415379,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263636,
+        "num": 263636,
+        "word": "1335万人报名2025全国高考",
+        "onboard_time": 1748401462,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214207,
+        "num": 263021,
+        "word": "村民称违建豪宅英之园已基本清拆完毕",
+        "onboard_time": 1748417302,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695093,
+        "num": 262977,
+        "word": "警方通报共享单车坐垫内有情趣用品",
+        "onboard_time": 1748410760,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 515624,
+        "num": 262106,
+        "word": "SM就柳智敏ins争议道歉",
+        "onboard_time": 1748412621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35257,
+        "num": 260999,
+        "word": "女子个人财产被当夫妻共有财产还债",
+        "onboard_time": 1748417240,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69452,
+        "num": 260525,
+        "word": "广州食客曝光未拆封餐具里蟑螂乱爬",
+        "onboard_time": 1748417120,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19749,
+        "num": 259884,
+        "word": "618护肤购物分享",
+        "onboard_time": 1748415679,
+        "rank": 14,
+        "category": "美妆,互联网"
+      },
+      {
+        "raw_hot": 259680,
+        "num": 259680,
+        "word": "杨幂存了张曼玉杂志20年",
+        "onboard_time": 1748410283,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 509556,
+        "num": 257083,
+        "word": "韦雪官宣与男朋友分手",
+        "onboard_time": 1748395160,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 49890,
+        "num": 255838,
+        "word": "时代少年团闪耀纽约时代广场",
+        "onboard_time": 1748415861,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44858,
+        "num": 250747,
+        "word": "成都家门口遇害女子母亲直播发声",
+        "onboard_time": 1748417600,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53386,
+        "num": 245924,
+        "word": "新房拿房前竟产生5000多水费",
+        "onboard_time": 1748417181,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244992,
+        "num": 244992,
+        "word": "数10台挖掘机连夜开拆豪宅英之园",
+        "onboard_time": 1748415501,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451066,
+        "num": 229993,
+        "word": "爱情公寓主演16年后现状",
+        "onboard_time": 1748413161,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336557,
+        "num": 225622,
+        "word": "武汉警方通报11岁男孩小区坠亡",
+        "onboard_time": 1748403742,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 207587,
+        "num": 207587,
+        "word": "藏海传全面入侵我全家",
+        "onboard_time": 1748409860,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206683,
+        "num": 206683,
+        "word": "黄景瑜 跟你跳troublemaker的那个",
+        "onboard_time": 1748412022,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177567,
+        "num": 206524,
+        "word": "去年剩的防晒霜今年还能用吗",
+        "onboard_time": 1748415079,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150295,
+        "num": 203095,
+        "word": "赵丽颖尹昉张一山谁是谁",
+        "onboard_time": 1748416280,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147761,
+        "num": 202201,
+        "word": "终于有恋综把丑话都说在了前面",
+        "onboard_time": 1748413642,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115249,
+        "num": 201055,
+        "word": "被李子柒的植物染紫色长裙美翻",
+        "onboard_time": 1748406984,
+        "rank": 28,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 22365,
+        "num": 198385,
+        "word": "AI大模型拿用户隐私威胁人类",
+        "onboard_time": 1748417240,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311146,
+        "num": 196893,
+        "word": "您的骑手正在攻击您早饭",
+        "onboard_time": 1748394441,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242316,
+        "num": 194662,
+        "word": "第一次见6个主演演一个人",
+        "onboard_time": 1748401822,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227318,
+        "num": 192336,
+        "word": "王楚钦夺冠不能掩盖球拍受损恶劣",
+        "onboard_time": 1748416521,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192184,
+        "num": 192184,
+        "word": "AD钙奶",
+        "onboard_time": 1748417120,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167263,
+        "num": 167263,
+        "word": "月薪1万5的保姆自制炸鸡全家桶",
+        "onboard_time": 1748405782,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164596,
+        "num": 164596,
+        "word": "AG33挂牌",
+        "onboard_time": 1748417719,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159751,
+        "num": 159751,
+        "word": "居然有人12个小时不拿外卖",
+        "onboard_time": 1748416101,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 151279,
+        "num": 151279,
+        "word": "反家暴法主要起草专家夏吟兰去世",
+        "onboard_time": 1748402541,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147629,
+        "num": 147629,
+        "word": "梦之队烟花氛围大片",
+        "onboard_time": 1748414480,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141541,
+        "num": 141541,
+        "word": "癌症遗传概率有多高",
+        "onboard_time": 1748411420,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 3372,
+        "num": 140057,
+        "word": "你用美白精华为啥看不到效果",
+        "onboard_time": 1748415980,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 91477,
+        "num": 139435,
+        "word": "睡前饿一饿对脾胃好吗",
+        "onboard_time": 1748416641,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139119,
+        "num": 139119,
+        "word": "国际乒联致歉",
+        "onboard_time": 1748397981,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136140,
+        "num": 136140,
+        "word": "王楚钦球拍受损事件依然等待回应",
+        "onboard_time": 1748414360,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132056,
+        "num": 132056,
+        "word": "东北女生在日本54楼高空绝美的家",
+        "onboard_time": 1748415260,
+        "rank": 44,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 129056,
+        "num": 129056,
+        "word": "国际月经日",
+        "onboard_time": 1748416701,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128931,
+        "num": 128931,
+        "word": "别再拔白头发了",
+        "onboard_time": 1748417001,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128246,
+        "num": 128246,
+        "word": "荔枝病",
+        "onboard_time": 1748417902,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127659,
+        "num": 127659,
+        "word": "南方海啸有声剧",
+        "onboard_time": 1748416579,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127330,
+        "num": 127330,
+        "word": "比亚迪回应山东经销商暴雷",
+        "onboard_time": 1748415920,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们节日快乐#"
+    }
+  }
+}
