@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748429175151,
+  "endTime": 1748431369501,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -723,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 974764,
+      "num": 612906,
+      "word": "韩红的压力已经给到内娱了",
+      "onboard_time": 1748424562,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 965119,
       "num": 594670,
       "word": "交警回应余承东疑似开车睡觉",
@@ -937,14 +945,6 @@
       "onboard_time": 1748223801,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 840657,
-      "num": 612906,
-      "word": "韩红的压力已经给到内娱了",
-      "onboard_time": 1748424562,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 837976,
@@ -1987,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516207,
+      "num": 516207,
+      "word": "于正 吴谨言又杀回来了",
+      "onboard_time": 1748430380,
+      "rank": 3,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 515834,
       "num": 515834,
       "word": "刘国梁竞选国际乒联执委",
@@ -2347,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 441954,
+      "num": 441954,
+      "word": "乒超",
+      "onboard_time": 1748429061,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441640,
       "num": 519842,
       "word": "吴京发布翻车视频",
@@ -2369,6 +2385,14 @@
       "onboard_time": 1748261483,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 437562,
+      "num": 437562,
+      "word": "在人间热度",
+      "onboard_time": 1748429480,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 436530,
@@ -2497,6 +2521,14 @@
       "onboard_time": 1748325804,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420662,
+      "num": 420662,
+      "word": "方时赫被移送检方",
+      "onboard_time": 1748427981,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 419736,
@@ -3363,12 +3395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303245,
-      "num": 303245,
-      "word": "方时赫被移送检方",
-      "onboard_time": 1748427981,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 302882,
+      "num": 302882,
+      "word": "惠英红 妖红杀回来了",
+      "onboard_time": 1748429782,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 302652,
@@ -4291,6 +4323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234883,
+      "num": 234883,
+      "word": "北师大回应官网教师简介用动漫头像",
+      "onboard_time": 1748429241,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234874,
       "num": 317966,
       "word": "折腰29集",
@@ -4369,6 +4409,14 @@
       "onboard_time": 1748334861,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231903,
+      "num": 231903,
+      "word": "鞠婧祎 蛇女",
+      "onboard_time": 1748430860,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 229741,
@@ -4464,6 +4512,14 @@
       "word": "一个女主配五个男主",
       "onboard_time": 1748419941,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 226301,
+      "num": 226301,
+      "word": "在人间",
+      "onboard_time": 1748244862,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -5163,6 +5219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198162,
+      "num": 198162,
+      "word": "陈丽君大背头",
+      "onboard_time": 1748429782,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 197802,
       "num": 653659,
       "word": "央视曝光网店海外直邮造假猫腻",
@@ -5217,6 +5281,14 @@
       "onboard_time": 1748334502,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197332,
+      "num": 197332,
+      "word": "赵今麦挂脖高定",
+      "onboard_time": 1748431102,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 197113,
@@ -5307,6 +5379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195090,
+      "num": 188970,
+      "word": "妈妈幂呀",
+      "onboard_time": 1748431102,
+      "rank": 43,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 195046,
       "num": 195046,
       "word": "SEVENTEEN正规五辑MV",
@@ -5321,6 +5401,14 @@
       "onboard_time": 1748252722,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194861,
+      "num": 194861,
+      "word": "英国主持人被中国数据吓到",
+      "onboard_time": 1748430200,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 194798,
@@ -5699,6 +5787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188494,
+      "num": 188494,
+      "word": "郑钦文2比0阿朗戈",
+      "onboard_time": 1748430261,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188466,
       "num": 188466,
       "word": "别让孩子坐上夺命飞椅海盗船",
@@ -5835,6 +5931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185226,
+      "num": 179507,
+      "word": "在雍和宫许愿见鹿晗后被调剂了",
+      "onboard_time": 1748430801,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184631,
       "num": 291236,
       "word": "哈佛医学院太平间前主管承认盗卖遗骸",
@@ -5881,6 +5985,14 @@
       "onboard_time": 1748245821,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183787,
+      "num": 183787,
+      "word": "高瀚宇5秒干了一碗生菜",
+      "onboard_time": 1748429721,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 183689,
@@ -6483,6 +6595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173398,
+      "num": 173398,
+      "word": "在人间消失的他和她",
+      "onboard_time": 1748430380,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173215,
       "num": 362501,
       "word": "肖战说演得挺过瘾",
@@ -6627,14 +6747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171699,
-      "num": 171699,
-      "word": "在人间",
-      "onboard_time": 1748244862,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171572,
       "num": 171572,
       "word": "辞职后不想上班",
@@ -6689,6 +6801,14 @@
       "onboard_time": 1748100024,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170506,
+      "num": 170506,
+      "word": "这一秒 王楚然",
+      "onboard_time": 1748431342,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 170444,
@@ -7332,7 +7452,7 @@
     },
     {
       "raw_hot": 159299,
-      "num": 310583,
+      "num": 315416,
       "word": "小鹏MONA发布会太会玩了",
       "onboard_time": 1748427140,
       "rank": 17,
@@ -8249,6 +8369,14 @@
       "onboard_time": 1748352741,
       "rank": 46,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 143023,
+      "num": 256400,
+      "word": "不是618买不起而是天猫更有性价比",
+      "onboard_time": 1748430380,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 142993,
@@ -9235,14 +9363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127654,
-      "num": 127654,
-      "word": "乒超",
-      "onboard_time": 1748429061,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127599,
       "num": 908487,
       "word": "300万商铺征收补偿仅189万政府被起诉",
@@ -9449,6 +9569,14 @@
       "onboard_time": 1748334321,
       "rank": 48,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 123447,
+      "num": 351599,
+      "word": "对山东高密爆炸事故挂牌督办",
+      "onboard_time": 1748430200,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123256,
@@ -11707,6 +11835,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 68315,
+      "num": 189977,
+      "word": "报复性熬夜后报复性养生",
+      "onboard_time": 1748429361,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 68309,
       "num": 103490,
       "word": "老兵手搓的线芯误差仅0.01毫米",
@@ -11745,6 +11881,14 @@
       "onboard_time": 1748214017,
       "rank": 42,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 66910,
+      "num": 232857,
+      "word": "郑钦文1比0阿朗戈",
+      "onboard_time": 1748427800,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 66808,
@@ -11809,6 +11953,14 @@
       "onboard_time": 1748372353,
       "rank": 44,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 63382,
+      "num": 223060,
+      "word": "立法专家谈韩国拿中国文化申遗",
+      "onboard_time": 1748431281,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63223,
@@ -12443,6 +12595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49582,
+      "num": 193550,
+      "word": "首尔大学食堂6500元自助",
+      "onboard_time": 1748431281,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49211,
       "num": 49211,
       "word": "孙颖莎王楚钦9个拥抱瞬间",
@@ -12819,6 +12979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42076,
+      "num": 222107,
+      "word": "特朗普发文批普京在玩火",
+      "onboard_time": 1748431042,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41909,
       "num": 65836,
       "word": "美欧关税谈判期限延至7月9日",
@@ -12913,14 +13081,6 @@
       "onboard_time": 1748208493,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 40307,
-      "num": 133236,
-      "word": "郑钦文1比0阿朗戈",
-      "onboard_time": 1748427800,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 40196,
@@ -13075,6 +13235,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 37075,
+      "num": 194814,
+      "word": "校长食堂用餐遇可爱一幕",
+      "onboard_time": 1748428882,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36797,
       "num": 336474,
       "word": "山东化工车间爆炸目击者发声",
@@ -13160,6 +13328,14 @@
       "word": "医生教你如何正确面对甲状腺结节",
       "onboard_time": 1748157381,
       "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 35254,
+      "num": 282450,
+      "word": "开封久的防晒霜对皮肤有危害吗",
+      "onboard_time": 1748430679,
+      "rank": 19,
       "category": "健康医疗"
     },
     {
@@ -13427,6 +13603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30065,
+      "num": 192327,
+      "word": "孙继海越位",
+      "onboard_time": 1748425041,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29918,
       "num": 576221,
       "word": "用生鸡蛋做提拉米苏会食物中毒吗",
@@ -13561,6 +13745,14 @@
       "onboard_time": 1748168181,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 27817,
+      "num": 199603,
+      "word": "邻居留两米路方便他人出行",
+      "onboard_time": 1748428941,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27792,
@@ -14323,6 +14515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 15019,
+      "num": 191083,
+      "word": "微博CyberAgent官宣合作",
+      "onboard_time": 1748430439,
+      "rank": 41,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 14965,
       "num": 23340,
       "word": "780元买6颗减肥神药吃到心慌失眠",
@@ -14515,6 +14715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12065,
+      "num": 191282,
+      "word": "如何正确选择不同级别的卫生巾",
+      "onboard_time": 1748430080,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 12021,
       "num": 245049,
       "word": "女生跑步必看的10句话",
@@ -14529,6 +14737,14 @@
       "onboard_time": 1748266283,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11729,
+      "num": 221954,
+      "word": "AI教你国补如何买手机最划算",
+      "onboard_time": 1748431042,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 11720,
@@ -14577,14 +14793,6 @@
       "onboard_time": 1748356343,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 10951,
-      "num": 171835,
-      "word": "校长食堂用餐遇可爱一幕",
-      "onboard_time": 1748428882,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10899,
@@ -14673,22 +14881,6 @@
       "onboard_time": 1748266344,
       "rank": 34,
       "category": "运动健身,民生新闻"
-    },
-    {
-      "raw_hot": 9752,
-      "num": 162489,
-      "word": "邻居留两米路方便他人出行",
-      "onboard_time": 1748428941,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9644,
-      "num": 169204,
-      "word": "孙继海越位",
-      "onboard_time": 1748425041,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 9595,

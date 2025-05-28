@@ -1,0 +1,410 @@
+{
+  "runTime": 1748431369501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 825344,
+        "num": 1132055,
+        "word": "端午不调休 高速不免费",
+        "onboard_time": 1748415501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610030,
+        "num": 610030,
+        "word": "荔枝病",
+        "onboard_time": 1748417902,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 25057,
+        "num": 516381,
+        "word": "高质量发展看能源",
+        "onboard_time": 1748427082,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 516207,
+        "num": 516207,
+        "word": "于正 吴谨言又杀回来了",
+        "onboard_time": 1748430380,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 441954,
+        "num": 441954,
+        "word": "乒超",
+        "onboard_time": 1748429061,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437562,
+        "num": 437562,
+        "word": "在人间热度",
+        "onboard_time": 1748429480,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420662,
+        "num": 420662,
+        "word": "方时赫被移送检方",
+        "onboard_time": 1748427981,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412987,
+        "num": 412987,
+        "word": "猪油渣",
+        "onboard_time": 1748422101,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 369911,
+        "num": 369911,
+        "word": "时尚芭莎盛典",
+        "onboard_time": 1748418201,
+        "rank": 8,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 123447,
+        "num": 351599,
+        "word": "对山东高密爆炸事故挂牌督办",
+        "onboard_time": 1748430200,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 974764,
+        "num": 347502,
+        "word": "韩红的压力已经给到内娱了",
+        "onboard_time": 1748424562,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340977,
+        "num": 340977,
+        "word": "袭榜歌手 NEYO",
+        "onboard_time": 1748425941,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339361,
+        "num": 339361,
+        "word": "朱朱小桃官宣",
+        "onboard_time": 1748421921,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101217,
+        "num": 315416,
+        "word": "小鹏MONA发布会太会玩了",
+        "onboard_time": 1748427140,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118527,
+        "num": 311601,
+        "word": "pdd化妆刷子销量第一的村厂",
+        "onboard_time": 1748430080,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308589,
+        "num": 308589,
+        "word": "长月烬明又杀回来了",
+        "onboard_time": 1748417181,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305539,
+        "num": 305539,
+        "word": "藏海传IMDB开分9.1",
+        "onboard_time": 1748424920,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302882,
+        "num": 302882,
+        "word": "惠英红 妖红杀回来了",
+        "onboard_time": 1748429782,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 293690,
+        "num": 293690,
+        "word": "台当局要求陆配提供丧失原籍证明",
+        "onboard_time": 1748422882,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35254,
+        "num": 282450,
+        "word": "开封久的防晒霜对皮肤有危害吗",
+        "onboard_time": 1748430679,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 278799,
+        "num": 278799,
+        "word": "医生称7成妇科感染与卫生巾有关",
+        "onboard_time": 1748418081,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 143023,
+        "num": 256400,
+        "word": "不是618买不起而是天猫更有性价比",
+        "onboard_time": 1748430380,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 252300,
+        "num": 252300,
+        "word": "折腰",
+        "onboard_time": 1748429661,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234883,
+        "num": 234883,
+        "word": "北师大回应官网教师简介用动漫头像",
+        "onboard_time": 1748429241,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66910,
+        "num": 232857,
+        "word": "郑钦文1比0阿朗戈",
+        "onboard_time": 1748427800,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231903,
+        "num": 231903,
+        "word": "鞠婧祎 蛇女",
+        "onboard_time": 1748430860,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 226301,
+        "num": 226301,
+        "word": "在人间",
+        "onboard_time": 1748430621,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63382,
+        "num": 223060,
+        "word": "立法专家谈韩国拿中国文化申遗",
+        "onboard_time": 1748431281,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42076,
+        "num": 222107,
+        "word": "特朗普发文批普京在玩火",
+        "onboard_time": 1748431042,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11729,
+        "num": 221954,
+        "word": "AI教你国补如何买手机最划算",
+        "onboard_time": 1748431042,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221931,
+        "num": 221931,
+        "word": "鹿晗ins晒与山下智久合照",
+        "onboard_time": 1748405422,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202207,
+        "num": 202207,
+        "word": "警方通报共享单车坐垫内有情趣用品",
+        "onboard_time": 1748410760,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 201209,
+        "num": 201209,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1748430621,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27817,
+        "num": 199603,
+        "word": "邻居留两米路方便他人出行",
+        "onboard_time": 1748428941,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198162,
+        "num": 198162,
+        "word": "陈丽君大背头",
+        "onboard_time": 1748429782,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 197332,
+        "num": 197332,
+        "word": "赵今麦挂脖高定",
+        "onboard_time": 1748431102,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194861,
+        "num": 194861,
+        "word": "英国主持人被中国数据吓到",
+        "onboard_time": 1748430200,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37075,
+        "num": 194814,
+        "word": "校长食堂用餐遇可爱一幕",
+        "onboard_time": 1748428882,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49582,
+        "num": 193550,
+        "word": "首尔大学食堂6500元自助",
+        "onboard_time": 1748431281,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30065,
+        "num": 192327,
+        "word": "孙继海越位",
+        "onboard_time": 1748425041,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12065,
+        "num": 191282,
+        "word": "如何正确选择不同级别的卫生巾",
+        "onboard_time": 1748430080,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 15019,
+        "num": 191083,
+        "word": "微博CyberAgent官宣合作",
+        "onboard_time": 1748430439,
+        "rank": 41,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 68315,
+        "num": 189977,
+        "word": "报复性熬夜后报复性养生",
+        "onboard_time": 1748429361,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195090,
+        "num": 188970,
+        "word": "妈妈幂呀",
+        "onboard_time": 1748431102,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 188494,
+        "num": 188494,
+        "word": "郑钦文2比0阿朗戈",
+        "onboard_time": 1748430261,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183787,
+        "num": 183787,
+        "word": "高瀚宇5秒干了一碗生菜",
+        "onboard_time": 1748429721,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185226,
+        "num": 179507,
+        "word": "在雍和宫许愿见鹿晗后被调剂了",
+        "onboard_time": 1748430801,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173398,
+        "num": 173398,
+        "word": "在人间消失的他和她",
+        "onboard_time": 1748430380,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171577,
+        "num": 171577,
+        "word": "无菌蛋 智商税",
+        "onboard_time": 1748413459,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170506,
+        "num": 170506,
+        "word": "这一秒 王楚然",
+        "onboard_time": 1748431342,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养中国特色社会主义事业合格建设者#"
+    }
+  }
+}

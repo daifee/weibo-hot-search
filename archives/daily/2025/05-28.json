@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748429175151,
+  "endTime": 1748431369501,
   "band_list": [
     {
       "raw_hot": 2186954,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 974764,
+      "num": 612906,
+      "word": "韩红的压力已经给到内娱了",
+      "onboard_time": 1748424562,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 942382,
       "num": 942382,
       "word": "瘦5斤需要1个月 胖5斤却只要5天",
@@ -145,14 +153,6 @@
       "onboard_time": 1748417181,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 840657,
-      "num": 612906,
-      "word": "韩红的压力已经给到内娱了",
-      "onboard_time": 1748424562,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 812602,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516207,
+      "num": 516207,
+      "word": "于正 吴谨言又杀回来了",
+      "onboard_time": 1748430380,
+      "rank": 3,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 514466,
       "num": 251051,
       "word": "爱情公寓主演16年后现状",
@@ -435,12 +443,36 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 441954,
+      "num": 441954,
+      "word": "乒超",
+      "onboard_time": 1748429061,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 437562,
+      "num": 437562,
+      "word": "在人间热度",
+      "onboard_time": 1748429480,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 436530,
       "num": 436530,
       "word": "国际乒联回应选举乌龙",
       "onboard_time": 1748394803,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 420662,
+      "num": 420662,
+      "word": "方时赫被移送检方",
+      "onboard_time": 1748427981,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 416235,
@@ -587,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303245,
-      "num": 303245,
-      "word": "方时赫被移送检方",
-      "onboard_time": 1748427981,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 302882,
+      "num": 302882,
+      "word": "惠英红 妖红杀回来了",
+      "onboard_time": 1748429782,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 298613,
@@ -723,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252300,
+      "num": 252300,
+      "word": "折腰",
+      "onboard_time": 1748341161,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250548,
       "num": 333990,
       "word": "肖战看过探索频道",
@@ -795,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234883,
+      "num": 234883,
+      "word": "北师大回应官网教师简介用动漫头像",
+      "onboard_time": 1748429241,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234170,
       "num": 234170,
       "word": "作家刘楚昕获奖后追忆已故女友",
@@ -809,6 +857,14 @@
       "onboard_time": 1748397562,
       "rank": 49,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 231903,
+      "num": 231903,
+      "word": "鞠婧祎 蛇女",
+      "onboard_time": 1748430860,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 229243,
@@ -832,6 +888,14 @@
       "word": "一个女主配五个男主",
       "onboard_time": 1748419941,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 226301,
+      "num": 226301,
+      "word": "在人间",
+      "onboard_time": 1748398881,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -979,12 +1043,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198162,
+      "num": 198162,
+      "word": "陈丽君大背头",
+      "onboard_time": 1748429782,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 197493,
       "num": 184520,
       "word": "黄霄雲这一波真的好敢",
       "onboard_time": 1748409141,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197332,
+      "num": 197332,
+      "word": "赵今麦挂脖高定",
+      "onboard_time": 1748431102,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196593,
@@ -1001,6 +1081,22 @@
       "onboard_time": 1748402421,
       "rank": 23,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 195090,
+      "num": 188970,
+      "word": "妈妈幂呀",
+      "onboard_time": 1748431102,
+      "rank": 43,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 194861,
+      "num": 194861,
+      "word": "英国主持人被中国数据吓到",
+      "onboard_time": 1748430200,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 192784,
@@ -1033,6 +1129,14 @@
       "onboard_time": 1748391321,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188494,
+      "num": 188494,
+      "word": "郑钦文2比0阿朗戈",
+      "onboard_time": 1748430261,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 188211,
@@ -1073,6 +1177,22 @@
       "onboard_time": 1748403620,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 185226,
+      "num": 179507,
+      "word": "在雍和宫许愿见鹿晗后被调剂了",
+      "onboard_time": 1748430801,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183787,
+      "num": 183787,
+      "word": "高瀚宇5秒干了一碗生菜",
+      "onboard_time": 1748429721,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 183499,
@@ -1203,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173398,
+      "num": 173398,
+      "word": "在人间消失的他和她",
+      "onboard_time": 1748430380,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173133,
       "num": 276103,
       "word": "别再拔白头发了",
@@ -1240,6 +1368,14 @@
       "word": "大雍平账仙人",
       "onboard_time": 1748405842,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170506,
+      "num": 170506,
+      "word": "这一秒 王楚然",
+      "onboard_time": 1748431342,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -1340,7 +1476,7 @@
     },
     {
       "raw_hot": 159299,
-      "num": 310583,
+      "num": 315416,
       "word": "小鹏MONA发布会太会玩了",
       "onboard_time": 1748427140,
       "rank": 17,
@@ -1531,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143023,
+      "num": 256400,
+      "word": "不是618买不起而是天猫更有性价比",
+      "onboard_time": 1748430380,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 141698,
       "num": 141698,
       "word": "陈昊宇新专辑",
@@ -1675,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127654,
-      "num": 127654,
-      "word": "乒超",
-      "onboard_time": 1748429061,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126238,
       "num": 151201,
       "word": "又一拨00后要成大学生了",
@@ -1705,6 +1841,14 @@
       "onboard_time": 1748424323,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123447,
+      "num": 351599,
+      "word": "对山东高密爆炸事故挂牌督办",
+      "onboard_time": 1748430200,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123190,
@@ -2171,14 +2315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 88002,
-      "num": 88002,
-      "word": "在人间",
-      "onboard_time": 1748398881,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87910,
       "num": 336521,
       "word": "成都通报环卫工人被爆自扔自捡",
@@ -2323,14 +2459,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 70488,
-      "num": 70488,
-      "word": "折腰",
-      "onboard_time": 1748341161,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 69452,
       "num": 260525,
       "word": "广州食客曝光未拆封餐具里蟑螂乱爬",
@@ -2347,6 +2475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68315,
+      "num": 189977,
+      "word": "报复性熬夜后报复性养生",
+      "onboard_time": 1748429361,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 66910,
+      "num": 232857,
+      "word": "郑钦文1比0阿朗戈",
+      "onboard_time": 1748427800,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65984,
       "num": 204550,
       "word": "A股放量419亿",
@@ -2361,6 +2505,14 @@
       "onboard_time": 1748372353,
       "rank": 44,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 63382,
+      "num": 223060,
+      "word": "立法专家谈韩国拿中国文化申遗",
+      "onboard_time": 1748431281,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63197,
@@ -2507,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49582,
+      "num": 193550,
+      "word": "首尔大学食堂6500元自助",
+      "onboard_time": 1748431281,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48182,
       "num": 309285,
       "word": "开发商疑用公共楼梯补房产面积",
@@ -2603,6 +2763,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 42076,
+      "num": 222107,
+      "word": "特朗普发文批普京在玩火",
+      "onboard_time": 1748431042,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40842,
       "num": 40842,
       "word": "魏大勋原声台词",
@@ -2617,14 +2785,6 @@
       "onboard_time": 1748401341,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 40307,
-      "num": 133236,
-      "word": "郑钦文1比0阿朗戈",
-      "onboard_time": 1748427800,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 38758,
@@ -2675,6 +2835,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 37075,
+      "num": 194814,
+      "word": "校长食堂用餐遇可爱一幕",
+      "onboard_time": 1748428882,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36538,
       "num": 137534,
       "word": "不要随便给陌生人开门",
@@ -2712,6 +2880,14 @@
       "word": "饮食是怎么改变皮肤状态的",
       "onboard_time": 1748414541,
       "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 35254,
+      "num": 282450,
+      "word": "开封久的防晒霜对皮肤有危害吗",
+      "onboard_time": 1748430679,
+      "rank": 19,
       "category": "健康医疗"
     },
     {
@@ -2779,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30065,
+      "num": 192327,
+      "word": "孙继海越位",
+      "onboard_time": 1748425041,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29634,
       "num": 222411,
       "word": "点外卖登号后遭同窗盗刷近9000元",
@@ -2793,6 +2977,14 @@
       "onboard_time": 1748412861,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27817,
+      "num": 199603,
+      "word": "邻居留两米路方便他人出行",
+      "onboard_time": 1748428941,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26283,
@@ -2947,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15019,
+      "num": 191083,
+      "word": "微博CyberAgent官宣合作",
+      "onboard_time": 1748430439,
+      "rank": 41,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 14869,
       "num": 14869,
       "word": "撕拉片",
@@ -2979,6 +3179,22 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 12065,
+      "num": 191282,
+      "word": "如何正确选择不同级别的卫生巾",
+      "onboard_time": 1748430080,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 11729,
+      "num": 221954,
+      "word": "AI教你国补如何买手机最划算",
+      "onboard_time": 1748431042,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 11720,
       "num": 302421,
       "word": "什么是人机共驾理念",
@@ -2995,14 +3211,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 10951,
-      "num": 171835,
-      "word": "校长食堂用餐遇可爱一幕",
-      "onboard_time": 1748428882,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10494,
       "num": 222747,
       "word": "江南华南新一轮强降水来了",
@@ -3017,22 +3225,6 @@
       "onboard_time": 1748414541,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9752,
-      "num": 162489,
-      "word": "邻居留两米路方便他人出行",
-      "onboard_time": 1748428941,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9644,
-      "num": 169204,
-      "word": "孙继海越位",
-      "onboard_time": 1748425041,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 9219,
