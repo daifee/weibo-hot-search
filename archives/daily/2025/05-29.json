@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748468321981,
+  "endTime": 1748471090287,
   "band_list": [
     {
       "raw_hot": 714375,
@@ -81,6 +81,14 @@
       "onboard_time": 1748437162,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 350918,
+      "num": 416147,
+      "word": "哈佛6700名在校生需转学或离境",
+      "onboard_time": 1748456775,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 343265,
@@ -225,14 +233,6 @@
       "onboard_time": 1748447482,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155978,
-      "num": 191692,
-      "word": "哈佛6700名在校生需转学或离境",
-      "onboard_time": 1748456775,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 140875,
@@ -443,12 +443,60 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43439,
+      "num": 43439,
+      "word": "刘涛可以领因为她叫安迪",
+      "onboard_time": 1748469195,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42589,
+      "num": 38144,
+      "word": "覃海洋回应张雨霏称他是卷王",
+      "onboard_time": 1748465294,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41058,
+      "num": 41058,
+      "word": "韦雪回应与男友分手",
+      "onboard_time": 1748455275,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 39920,
+      "num": 39920,
+      "word": "68岁老汉称在等国家发的老婆",
+      "onboard_time": 1748460434,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39053,
+      "num": 38070,
+      "word": "在李昀锐旁边沙溢都眉清目秀了",
+      "onboard_time": 1748466494,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38525,
       "num": 38525,
       "word": "荣耀400价格",
       "onboard_time": 1748443282,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 38194,
+      "num": 38194,
+      "word": "山东高密化工厂爆炸三大原因待查",
+      "onboard_time": 1748463314,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37767,
@@ -459,20 +507,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37660,
-      "num": 32875,
-      "word": "韦雪回应与男友分手",
-      "onboard_time": 1748455275,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 37061,
       "num": 561897,
       "word": "端午气氛组强势上线",
       "onboard_time": 1748441003,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34436,
+      "num": 34436,
+      "word": "102岁老人误把窗户当门悬挂三楼",
+      "onboard_time": 1748455335,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28251,
+      "num": 28251,
+      "word": "BBC采访广东小伙被种草中国锅",
+      "onboard_time": 1748465234,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26063,
@@ -483,44 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24731,
-      "num": 21752,
-      "word": "覃海洋回应张雨霏称他是卷王",
-      "onboard_time": 1748465294,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 22879,
-      "num": 22879,
-      "word": "102岁老人误把窗户当门悬挂三楼",
-      "onboard_time": 1748455335,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22369,
       "num": 22369,
       "word": "张云雷民谣新歌独木",
       "onboard_time": 1748457675,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 22008,
-      "num": 22896,
-      "word": "68岁老汉称在等国家发的老婆",
-      "onboard_time": 1748460434,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21888,
-      "num": 21888,
-      "word": "山东高密化工厂爆炸三大原因待查",
-      "onboard_time": 1748463314,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20458,
@@ -553,22 +577,6 @@
       "onboard_time": 1748456055,
       "rank": 44,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 17215,
-      "num": 17215,
-      "word": "BBC采访广东小伙被种草中国锅",
-      "onboard_time": 1748465234,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16996,
-      "num": 16996,
-      "word": "在李昀锐旁边沙溢都眉清目秀了",
-      "onboard_time": 1748466494,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 15507,
