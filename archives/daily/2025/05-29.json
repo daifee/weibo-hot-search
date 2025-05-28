@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748453023576,
+  "endTime": 1748454100024,
   "band_list": [
     {
       "raw_hot": 714375,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 387338,
-      "num": 337316,
+      "num": 385308,
       "word": "汪苏泷婉拒歌手返场邀请",
       "onboard_time": 1748448380,
       "rank": 15,
@@ -411,8 +411,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48220,
-      "num": 48220,
+      "raw_hot": 52905,
+      "num": 52905,
       "word": "虞书欣谢可寅你俩喝点中药吧",
       "onboard_time": 1748441064,
       "rank": 44,
@@ -427,12 +427,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 42872,
-      "num": 42872,
+      "raw_hot": 46256,
+      "num": 46256,
       "word": "在人间",
       "onboard_time": 1748430621,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38525,
+      "num": 38525,
+      "word": "荣耀400价格",
+      "onboard_time": 1748443282,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 37767,
