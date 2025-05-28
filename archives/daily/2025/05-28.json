@@ -1,6 +1,6 @@
 {
   "startTime": 1748363576903,
-  "endTime": 1748407584611,
+  "endTime": 1748409958531,
   "band_list": [
     {
       "raw_hot": 2186954,
@@ -19,20 +19,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1458311,
+      "num": 1458311,
+      "word": "2025新一线城市官宣",
+      "onboard_time": 1748403383,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1454239,
       "num": 1454239,
       "word": "叶舒华说精神病不是免死金牌",
       "onboard_time": 1748391921,
       "rank": 0,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 1428669,
-      "num": 1428669,
-      "word": "2025新一线城市官宣",
-      "onboard_time": 1748403383,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1330603,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 600014,
+      "num": 339053,
+      "word": "月薪1万5的保姆自制炸鸡全家桶",
+      "onboard_time": 1748405782,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 573433,
       "num": 573433,
       "word": "1335万人报名2025全国高考",
@@ -259,14 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 423036,
-      "num": 335812,
-      "word": "月薪1万5的保姆自制炸鸡全家桶",
-      "onboard_time": 1748405782,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 416235,
       "num": 266240,
       "word": "戛纳偶遇刘亦菲吃越南粉",
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365380,
+      "num": 365380,
+      "word": "被李子柒的植物染紫色长裙美翻",
+      "onboard_time": 1748406984,
+      "rank": 15,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 349259,
       "num": 349259,
       "word": "山东一化工车间爆炸震碎周边玻璃",
@@ -321,6 +329,14 @@
       "onboard_time": 1748392402,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337458,
+      "num": 337733,
+      "word": "杜淳妻子声援家门口遇害女生",
+      "onboard_time": 1748407103,
+      "rank": 20,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 335145,
@@ -379,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289924,
-      "num": 338472,
-      "word": "被李子柒的植物染紫色长裙美翻",
-      "onboard_time": 1748406984,
-      "rank": 15,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 287885,
       "num": 265531,
       "word": "李亚鹏和妻子目前没房产",
@@ -401,6 +409,22 @@
       "onboard_time": 1748400261,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 278143,
+      "num": 336973,
+      "word": "刘若英点歌",
+      "onboard_time": 1748406743,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 273500,
+      "num": 273500,
+      "word": "这居然是蔡徐坤的歌",
+      "onboard_time": 1748407941,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 269180,
@@ -433,6 +457,14 @@
       "onboard_time": 1748407222,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257762,
+      "num": 257762,
+      "word": "刘浩存新剧嘴是90度的吧",
+      "onboard_time": 1748408303,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 257053,
@@ -563,20 +595,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199987,
-      "num": 336973,
-      "word": "刘若英点歌",
-      "onboard_time": 1748406743,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199500,
       "num": 199500,
       "word": "梁乡重伤不治而亡",
       "onboard_time": 1748353044,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197493,
+      "num": 184520,
+      "word": "黄霄雲这一波真的好敢",
+      "onboard_time": 1748409141,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 196593,
@@ -643,20 +675,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183342,
-      "num": 337733,
-      "word": "杜淳妻子声援家门口遇害女生",
-      "onboard_time": 1748407103,
-      "rank": 20,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 182367,
       "num": 182367,
       "word": "步行者拿到东决冠军点",
       "onboard_time": 1748402241,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182364,
+      "num": 338191,
+      "word": "12岁女孩用手机交作业被骗22万",
+      "onboard_time": 1748403441,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182345,
@@ -731,6 +763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 171662,
+      "num": 171662,
+      "word": "瘦5斤需要1个月 胖5斤却只要5天",
+      "onboard_time": 1748409321,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 170978,
       "num": 170978,
       "word": "大雍平账仙人",
@@ -753,14 +793,6 @@
       "onboard_time": 1748406022,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168963,
-      "num": 338191,
-      "word": "12岁女孩用手机交作业被骗22万",
-      "onboard_time": 1748403441,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168742,
@@ -793,6 +825,14 @@
       "onboard_time": 1748401221,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 158219,
+      "num": 158219,
+      "word": "哪吒也没想到这辈子能用上气垫吧",
+      "onboard_time": 1748409321,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 157489,
@@ -931,6 +971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138594,
+      "num": 138594,
+      "word": "天塌了谈到了公司大佬姐",
+      "onboard_time": 1748409741,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 129870,
       "num": 129870,
       "word": "Uzi卡莎名人堂皮肤",
@@ -961,6 +1009,14 @@
       "onboard_time": 1748399601,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122878,
+      "num": 337681,
+      "word": "张建华被查",
+      "onboard_time": 1748408662,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122544,
@@ -1083,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111176,
+      "num": 111176,
+      "word": "男子看诈骗新闻惊觉自己被女友骗",
+      "onboard_time": 1748408481,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110608,
       "num": 169613,
       "word": "在人间今日开播",
@@ -1091,12 +1155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110439,
+      "num": 110439,
+      "word": "狗 真是见了鬼了",
+      "onboard_time": 1748407462,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108609,
       "num": 291497,
       "word": "重庆通报爆破后周边房屋被曝有裂缝",
       "onboard_time": 1748402362,
       "rank": 29,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 108140,
+      "num": 108140,
+      "word": "藏海传全面入侵我全家",
+      "onboard_time": 1748409860,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 107133,
@@ -1113,6 +1193,14 @@
       "onboard_time": 1748391502,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105019,
+      "num": 105019,
+      "word": "大殿哭戏是刘宇宁自己设计的",
+      "onboard_time": 1748407821,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 103319,
@@ -1147,12 +1235,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98577,
+      "num": 98577,
+      "word": "苹果输入法变好用的方法",
+      "onboard_time": 1748409741,
+      "rank": 47,
+      "category": "科学科普,数码"
+    },
+    {
+      "raw_hot": 98455,
+      "num": 217924,
+      "word": "2025全国高考报名人数较去年少7万人",
+      "onboard_time": 1748408422,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 98165,
       "num": 98165,
       "word": "刘强东 杭州是世界美食之都",
       "onboard_time": 1748356882,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 97828,
+      "num": 97828,
+      "word": "有时候真的怪不得智性恋",
+      "onboard_time": 1748409621,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97592,
@@ -1281,6 +1393,14 @@
       "onboard_time": 1748351661,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80745,
+      "num": 233134,
+      "word": "律师称凶手是不是精神病要审慎审查",
+      "onboard_time": 1748408122,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79306,
@@ -1465,6 +1585,14 @@
       "onboard_time": 1748369414,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45941,
+      "num": 172404,
+      "word": "脾胃虚寒可以用荔枝补气血吗",
+      "onboard_time": 1748408541,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 45901,

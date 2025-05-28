@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748407584611,
+  "endTime": 1748409958531,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1458311,
+      "num": 1458311,
+      "word": "2025新一线城市官宣",
+      "onboard_time": 1748403383,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1454239,
       "num": 1454239,
       "word": "叶舒华说精神病不是免死金牌",
@@ -297,14 +305,6 @@
       "onboard_time": 1748140700,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1428669,
-      "num": 1428669,
-      "word": "2025新一线城市官宣",
-      "onboard_time": 1748403383,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1423160,
@@ -1515,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 600014,
+      "num": 339053,
+      "word": "月薪1万5的保姆自制炸鸡全家桶",
+      "onboard_time": 1748405782,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 599841,
       "num": 599841,
       "word": "王者新英雄孙权爆料",
@@ -2307,14 +2315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 423036,
-      "num": 335812,
-      "word": "月薪1万5的保姆自制炸鸡全家桶",
-      "onboard_time": 1748405782,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 421206,
       "num": 421206,
       "word": "女子早产生双胞胎后感染肺炎去世",
@@ -2659,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365380,
+      "num": 365380,
+      "word": "被李子柒的植物染紫色长裙美翻",
+      "onboard_time": 1748406984,
+      "rank": 15,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 362325,
       "num": 329947,
       "word": "藏海传加广",
@@ -2873,6 +2881,14 @@
       "onboard_time": 1748176043,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337458,
+      "num": 337733,
+      "word": "杜淳妻子声援家门口遇害女生",
+      "onboard_time": 1748407103,
+      "rank": 20,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 336498,
@@ -3267,14 +3283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289924,
-      "num": 338472,
-      "word": "被李子柒的植物染紫色长裙美翻",
-      "onboard_time": 1748406984,
-      "rank": 15,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 289153,
       "num": 338461,
       "word": "idle匿名纸条",
@@ -3387,6 +3395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278143,
+      "num": 336973,
+      "word": "刘若英点歌",
+      "onboard_time": 1748406743,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277862,
       "num": 255096,
       "word": "赵丽颖张一山扇巴掌戏扇一赠一",
@@ -3449,6 +3465,14 @@
       "onboard_time": 1748146221,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 273500,
+      "num": 273500,
+      "word": "这居然是蔡徐坤的歌",
+      "onboard_time": 1748407941,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 273454,
@@ -3625,6 +3649,14 @@
       "onboard_time": 1748407222,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257762,
+      "num": 257762,
+      "word": "刘浩存新剧嘴是90度的吧",
+      "onboard_time": 1748408303,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 257544,
@@ -4659,14 +4691,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 199987,
-      "num": 336973,
-      "word": "刘若英点歌",
-      "onboard_time": 1748406743,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199956,
       "num": 199956,
       "word": "王曼昱总结世乒赛表现",
@@ -4793,6 +4817,14 @@
       "onboard_time": 1748350582,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197493,
+      "num": 184520,
+      "word": "黄霄雲这一波真的好敢",
+      "onboard_time": 1748409141,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 197393,
@@ -5467,14 +5499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183342,
-      "num": 337733,
-      "word": "杜淳妻子声援家门口遇害女生",
-      "onboard_time": 1748407103,
-      "rank": 20,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 183159,
       "num": 183159,
       "word": "丁禹兮中餐厅单手接饼",
@@ -5521,6 +5545,14 @@
       "onboard_time": 1748402241,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182364,
+      "num": 338191,
+      "word": "12岁女孩用手机交作业被骗22万",
+      "onboard_time": 1748403441,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182044,
@@ -6131,6 +6163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171662,
+      "num": 171662,
+      "word": "瘦5斤需要1个月 胖5斤却只要5天",
+      "onboard_time": 1748409321,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 171572,
       "num": 171572,
       "word": "辞职后不想上班",
@@ -6289,14 +6329,6 @@
       "onboard_time": 1748146581,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168963,
-      "num": 338191,
-      "word": "12岁女孩用手机交作业被骗22万",
-      "onboard_time": 1748403441,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168797,
@@ -6825,6 +6857,14 @@
       "onboard_time": 1748267063,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 158219,
+      "num": 158219,
+      "word": "哪吒也没想到这辈子能用上气垫吧",
+      "onboard_time": 1748409321,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 158127,
@@ -7883,6 +7923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138594,
+      "num": 138594,
+      "word": "天塌了谈到了公司大佬姐",
+      "onboard_time": 1748409741,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138388,
       "num": 155610,
       "word": "癸玺才是藏海一家灭门的根源",
@@ -8731,6 +8779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122878,
+      "num": 337681,
+      "word": "张建华被查",
+      "onboard_time": 1748408662,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122740,
       "num": 122740,
       "word": "李子柒将有重磅作品推出",
@@ -9283,6 +9339,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 111176,
+      "num": 111176,
+      "word": "男子看诈骗新闻惊觉自己被女友骗",
+      "onboard_time": 1748408481,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110817,
       "num": 145079,
       "word": "印度上班族现状",
@@ -9305,6 +9369,14 @@
       "onboard_time": 1748312059,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110439,
+      "num": 110439,
+      "word": "狗 真是见了鬼了",
+      "onboard_time": 1748407462,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 110266,
@@ -9409,6 +9481,14 @@
       "onboard_time": 1748153602,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108140,
+      "num": 108140,
+      "word": "藏海传全面入侵我全家",
+      "onboard_time": 1748409860,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 107724,
@@ -9520,6 +9600,14 @@
       "word": "折腰剧宣",
       "onboard_time": 1748104163,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105019,
+      "num": 105019,
+      "word": "大殿哭戏是刘宇宁自己设计的",
+      "onboard_time": 1748407821,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -9731,6 +9819,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98577,
+      "num": 98577,
+      "word": "苹果输入法变好用的方法",
+      "onboard_time": 1748409741,
+      "rank": 47,
+      "category": "科学科普,数码"
+    },
+    {
+      "raw_hot": 98455,
+      "num": 217924,
+      "word": "2025全国高考报名人数较去年少7万人",
+      "onboard_time": 1748408422,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 98104,
       "num": 98104,
       "word": "Red专辑",
@@ -9745,6 +9849,14 @@
       "onboard_time": 1748258603,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97828,
+      "num": 97828,
+      "word": "有时候真的怪不得智性恋",
+      "onboard_time": 1748409621,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 97688,
@@ -10305,6 +10417,14 @@
       "onboard_time": 1748160981,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80745,
+      "num": 233134,
+      "word": "律师称凶手是不是精神病要审慎审查",
+      "onboard_time": 1748408122,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80368,
@@ -11481,6 +11601,14 @@
       "onboard_time": 1748310079,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45941,
+      "num": 172404,
+      "word": "脾胃虚寒可以用荔枝补气血吗",
+      "onboard_time": 1748408541,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 45901,

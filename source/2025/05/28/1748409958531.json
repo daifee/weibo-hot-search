@@ -1,0 +1,410 @@
+{
+  "runTime": 1748409958531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1458311,
+        "num": 1458311,
+        "word": "2025新一线城市官宣",
+        "onboard_time": 1748403383,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712022,
+        "num": 712022,
+        "word": "武汉警方通报11岁男孩小区坠亡",
+        "onboard_time": 1748403742,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 34676,
+        "num": 501387,
+        "word": "公安网安侦破侵犯公民个人信息案",
+        "onboard_time": 1748394682,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1544479,
+        "num": 498561,
+        "word": "鹿晗ins晒与山下智久合照",
+        "onboard_time": 1748405422,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493083,
+        "num": 493083,
+        "word": "不论男女 到22岁就分一套房",
+        "onboard_time": 1748395822,
+        "rank": 4,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 436294,
+        "num": 436294,
+        "word": "1335万人报名2025全国高考",
+        "onboard_time": 1748401462,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 390914,
+        "num": 390914,
+        "word": "第一次见6个主演演一个人",
+        "onboard_time": 1748401822,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365380,
+        "num": 365380,
+        "word": "被李子柒的植物染紫色长裙美翻",
+        "onboard_time": 1748406984,
+        "rank": 7,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 347054,
+        "num": 347054,
+        "word": "法国军方首次回应阵风战机疑被击落",
+        "onboard_time": 1748403141,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340898,
+        "num": 340898,
+        "word": "国际乒联致歉",
+        "onboard_time": 1748397981,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 772209,
+        "num": 340532,
+        "word": "韦雪官宣与男朋友分手",
+        "onboard_time": 1748395160,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 609263,
+        "num": 340085,
+        "word": "您的骑手正在攻击您早饭",
+        "onboard_time": 1748394441,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 600014,
+        "num": 339053,
+        "word": "月薪1万5的保姆自制炸鸡全家桶",
+        "onboard_time": 1748405782,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513686,
+        "num": 338514,
+        "word": "人果然不能随便辞职",
+        "onboard_time": 1748396060,
+        "rank": 13,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 122878,
+        "num": 337681,
+        "word": "张建华被查",
+        "onboard_time": 1748408662,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337458,
+        "num": 337458,
+        "word": "杜淳妻子声援家门口遇害女生",
+        "onboard_time": 1748407103,
+        "rank": 15,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 278143,
+        "num": 278143,
+        "word": "刘若英点歌",
+        "onboard_time": 1748406743,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276993,
+        "num": 276993,
+        "word": "冯小刚徐帆养女徐朵高中毕业",
+        "onboard_time": 1748398460,
+        "rank": 17,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 273500,
+        "num": 273500,
+        "word": "这居然是蔡徐坤的歌",
+        "onboard_time": 1748407941,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257762,
+        "num": 257762,
+        "word": "刘浩存新剧嘴是90度的吧",
+        "onboard_time": 1748408303,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80745,
+        "num": 233134,
+        "word": "律师称凶手是不是精神病要审慎审查",
+        "onboard_time": 1748408122,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342994,
+        "num": 230537,
+        "word": "金价",
+        "onboard_time": 1748392162,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226271,
+        "num": 226271,
+        "word": "48岁再婚女子怀孕以为是绝经发福",
+        "onboard_time": 1748392103,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222090,
+        "num": 222090,
+        "word": "藏海传央八收视率第一",
+        "onboard_time": 1748401521,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98455,
+        "num": 217924,
+        "word": "2025全国高考报名人数较去年少7万人",
+        "onboard_time": 1748408422,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 213939,
+        "num": 213939,
+        "word": "反家暴法主要起草专家夏吟兰去世",
+        "onboard_time": 1748402541,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184946,
+        "num": 184946,
+        "word": "肖战说一部精良作品离不开每个细节",
+        "onboard_time": 1748403802,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197493,
+        "num": 184520,
+        "word": "黄霄雲这一波真的好敢",
+        "onboard_time": 1748409141,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182364,
+        "num": 182364,
+        "word": "12岁女孩用手机交作业被骗22万",
+        "onboard_time": 1748403441,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45941,
+        "num": 172404,
+        "word": "脾胃虚寒可以用荔枝补气血吗",
+        "onboard_time": 1748408541,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 171662,
+        "num": 171662,
+        "word": "瘦5斤需要1个月 胖5斤却只要5天",
+        "onboard_time": 1748409321,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 168487,
+        "num": 168487,
+        "word": "郑钦文系鞋带速度惊呆外国人",
+        "onboard_time": 1748407222,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158219,
+        "num": 158219,
+        "word": "哪吒也没想到这辈子能用上气垫吧",
+        "onboard_time": 1748409321,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142496,
+        "num": 142496,
+        "word": "李昀锐黑脸",
+        "onboard_time": 1748393541,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138594,
+        "num": 138594,
+        "word": "天塌了谈到了公司大佬姐",
+        "onboard_time": 1748409741,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134111,
+        "num": 134111,
+        "word": "藏海传冬夏质子",
+        "onboard_time": 1748407103,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131481,
+        "num": 131481,
+        "word": "武艺连见到周杰伦说什么都想好了",
+        "onboard_time": 1748407043,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202207,
+        "num": 131339,
+        "word": "孙颖莎代言妮维雅",
+        "onboard_time": 1748401160,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126953,
+        "num": 126953,
+        "word": "白鹿进组莫离了",
+        "onboard_time": 1748400082,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117590,
+        "num": 117590,
+        "word": "蔡徐坤MV",
+        "onboard_time": 1748407522,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111176,
+        "num": 111176,
+        "word": "男子看诈骗新闻惊觉自己被女友骗",
+        "onboard_time": 1748408481,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110439,
+        "num": 110439,
+        "word": "狗 真是见了鬼了",
+        "onboard_time": 1748407462,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110400,
+        "num": 110400,
+        "word": "浪胃仙再复更",
+        "onboard_time": 1748400261,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108140,
+        "num": 108140,
+        "word": "藏海传全面入侵我全家",
+        "onboard_time": 1748409860,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105019,
+        "num": 105019,
+        "word": "大殿哭戏是刘宇宁自己设计的",
+        "onboard_time": 1748407821,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102603,
+        "num": 102603,
+        "word": "哈利波特",
+        "onboard_time": 1748392402,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98599,
+        "num": 98599,
+        "word": "内娱85花人美吧唧也美",
+        "onboard_time": 1748400922,
+        "rank": 46,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 98577,
+        "num": 98577,
+        "word": "苹果输入法变好用的方法",
+        "onboard_time": 1748409741,
+        "rank": 47,
+        "category": "科学科普,数码"
+      },
+      {
+        "raw_hot": 98344,
+        "num": 98344,
+        "word": "藏海传第三人身份浮出水面",
+        "onboard_time": 1748406022,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97828,
+        "num": 97828,
+        "word": "有时候真的怪不得智性恋",
+        "onboard_time": 1748409621,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平祝小朋友们节日快乐#"
+    }
+  }
+}
