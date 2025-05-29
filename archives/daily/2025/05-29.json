@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748504370240,
+  "endTime": 1748507650920,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -83,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1046038,
+      "num": 348699,
+      "word": "因跟谁姓离婚父亲要求均分孩子",
+      "onboard_time": 1748504723,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 873913,
       "num": 873913,
       "word": "苦尽柑来剧组被曝霸凌群演",
@@ -97,6 +105,14 @@
       "onboard_time": 1748491341,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 846435,
+      "num": 346732,
+      "word": "老师 这边给您补偿5元您看可以吗",
+      "onboard_time": 1748503222,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 837395,
@@ -121,6 +137,14 @@
       "onboard_time": 1748486719,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 785436,
+      "num": 785436,
+      "word": "韩国生育率上升",
+      "onboard_time": 1748503222,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 769844,
@@ -153,6 +177,14 @@
       "onboard_time": 1748494163,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 722131,
+      "num": 722131,
+      "word": "央视曝洞庭湖禁捕区犹如垂钓场",
+      "onboard_time": 1748503882,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 714375,
@@ -315,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 427874,
+      "num": 427874,
+      "word": "虞书欣晒照庆祝来微博第10年",
+      "onboard_time": 1748506220,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427469,
       "num": 287813,
       "word": "双胞胎吵架前桌各哄各的",
@@ -427,6 +467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356512,
+      "num": 356512,
+      "word": "姬伯伯为肖战才演藏海传",
+      "onboard_time": 1748503941,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 351576,
+      "num": 351576,
+      "word": "抚养3弟妹的05后女生有了五险一金",
+      "onboard_time": 1748506041,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 349144,
       "num": 380323,
       "word": "惠英红 新浪找人给我拍的撕拉片",
@@ -459,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334477,
+      "num": 334477,
+      "word": "话剧演员转行做猫砂一年卖7个亿",
+      "onboard_time": 1748504541,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331307,
       "num": 307239,
       "word": "黄景瑜腿上人山人海",
@@ -483,20 +547,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325245,
-      "num": 265271,
-      "word": "韩国生育率上升",
-      "onboard_time": 1748503222,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 316712,
       "num": 316712,
       "word": "济南一商铺发生火灾1人失联",
       "onboard_time": 1748497881,
       "rank": 22,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 311939,
+      "num": 311939,
+      "word": "一架飞机在韩国东南部城市浦项坠毁",
+      "onboard_time": 1748503762,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 311554,
+      "num": 331504,
+      "word": "赵丽颖 每一天可能都是第一次见",
+      "onboard_time": 1748504541,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 305011,
@@ -547,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278923,
-      "num": 278923,
-      "word": "老师 这边给您补偿5元您看可以吗",
-      "onboard_time": 1748503222,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 267803,
       "num": 250150,
       "word": "全员加速中南通",
@@ -595,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258030,
+      "num": 258030,
+      "word": "6人为钓大鱼竟操控无人艇进保护区",
+      "onboard_time": 1748505562,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254705,
       "num": 254705,
       "word": "王亚飞给迪丽热巴化的花间精灵妆",
@@ -617,6 +689,14 @@
       "onboard_time": 1748496682,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245035,
+      "num": 329299,
+      "word": "白鹿丞磊 莫离",
+      "onboard_time": 1748506520,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 244236,
@@ -715,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218243,
+      "num": 322843,
+      "word": "鹿晗厦门演唱会官宣",
+      "onboard_time": 1748504659,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 217317,
       "num": 255990,
       "word": "加沙母亲抱着一动不动的孩子道歉",
@@ -729,6 +817,14 @@
       "onboard_time": 1748496261,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 217242,
+      "num": 217242,
+      "word": "孙颖莎回忆过无数次巴黎奥运会",
+      "onboard_time": 1748506641,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 216604,
@@ -883,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198224,
+      "num": 318825,
+      "word": "不会还有人没免单吧",
+      "onboard_time": 1748506342,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 197701,
       "num": 197701,
       "word": "印度承诺2047年建成发达国家",
@@ -939,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189615,
-      "num": 231040,
-      "word": "姬伯伯为肖战才演藏海传",
-      "onboard_time": 1748503941,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189230,
       "num": 223105,
       "word": "SM腾讯音乐将合作推出组合",
@@ -963,12 +1059,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 189203,
+      "num": 189203,
+      "word": "特朗普亲口承认高关税是谈判策略",
+      "onboard_time": 1748507241,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 188630,
       "num": 400845,
       "word": "5万翡翠手镯被快递弄丢只赔60元",
       "onboard_time": 1748496563,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188469,
+      "num": 188469,
+      "word": "孙颖莎说越放下越轻松",
+      "onboard_time": 1748505682,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 185947,
@@ -1075,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170390,
+      "num": 266643,
+      "word": "肖战给藏海P图",
+      "onboard_time": 1748506820,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167380,
       "num": 167380,
       "word": "网友吃饭偶遇王楚然闫桉",
@@ -1137,14 +1257,6 @@
       "onboard_time": 1748488102,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 158387,
-      "num": 158387,
-      "word": "一架飞机在韩国东南部城市浦项坠毁",
-      "onboard_time": 1748503762,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 158071,
@@ -1235,12 +1347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149598,
+      "num": 149598,
+      "word": "男子连偷女友7个包销得11万元",
+      "onboard_time": 1748504601,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149203,
       "num": 149203,
       "word": "以前跳sorrysorry现在说sorry",
       "onboard_time": 1748495482,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148993,
+      "num": 148993,
+      "word": "云合",
+      "onboard_time": 1748507481,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 148950,
@@ -1313,6 +1441,14 @@
       "onboard_time": 1748475019,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143246,
+      "num": 143246,
+      "word": "美歧视性做法戳穿了自己的谎言",
+      "onboard_time": 1748505261,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143105,
@@ -1411,6 +1547,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 133168,
+      "num": 133168,
+      "word": "迪丽热巴蚊香识女人",
+      "onboard_time": 1748507542,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132952,
       "num": 132952,
       "word": "王者荣耀",
@@ -1507,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124311,
+      "num": 124311,
+      "word": "泰媒报道李萌萌Mike中泰合作",
+      "onboard_time": 1748506041,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123899,
       "num": 123899,
       "word": "香暗荼否认是藏海的仇人",
@@ -1515,12 +1667,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123695,
+      "num": 123695,
+      "word": "今年夏天第一个西瓜",
+      "onboard_time": 1748506761,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 121858,
       "num": 121858,
       "word": "赵丽颖49秒疯感演技",
       "onboard_time": 1748449040,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120138,
+      "num": 120138,
+      "word": "孙颖莎说直面巴黎失利才能成长",
+      "onboard_time": 1748507602,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 119416,
@@ -1747,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97260,
+      "num": 263949,
+      "word": "TTG",
+      "onboard_time": 1748501721,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96665,
       "num": 96665,
       "word": "曼联0比1东盟全明星",
@@ -1971,6 +2147,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63399,
+      "num": 138156,
+      "word": "高抬腿可以瘦肚子吗",
+      "onboard_time": 1748506342,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 60902,
+      "num": 732443,
+      "word": "我国新一代人造太阳再创纪录",
+      "onboard_time": 1748506701,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60816,
       "num": 60816,
       "word": "102岁老人误把窗户当门悬挂三楼",
@@ -2059,14 +2251,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 51699,
-      "num": 445148,
-      "word": "央视曝洞庭湖禁捕区犹如垂钓场",
-      "onboard_time": 1748503882,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 49142,
       "num": 49142,
       "word": "韦雪回应与男友分手",
@@ -2081,6 +2265,14 @@
       "onboard_time": 1748452457,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 47673,
+      "num": 262737,
+      "word": "新手欧阳娜娜开MONA带何小鹏兜风",
+      "onboard_time": 1748504422,
+      "rank": 25,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 46882,
@@ -2163,6 +2355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 35211,
+      "num": 316011,
+      "word": "青海黑独山疑遭游客捡石褪黑",
+      "onboard_time": 1748507361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30438,
       "num": 176530,
       "word": "苹果概念股全线走强",
@@ -2201,6 +2401,14 @@
       "onboard_time": 1748456894,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25895,
+      "num": 260938,
+      "word": "晚安牛奶真的可以助眠吗",
+      "onboard_time": 1748507361,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25872,
@@ -2243,6 +2451,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 21241,
+      "num": 260479,
+      "word": "家门口遇害女子母亲感谢网友关心",
+      "onboard_time": 1748506041,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20458,
       "num": 21507,
       "word": "SEVENTEEN拾光十年",
@@ -2275,6 +2491,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 18032,
+      "num": 259124,
+      "word": "如何防止冰箱成为细菌仓库",
+      "onboard_time": 1748507181,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 17659,
       "num": 18731,
       "word": "这个苏泷太贵了",
@@ -2305,6 +2529,14 @@
       "onboard_time": 1748461933,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14073,
+      "num": 138855,
+      "word": "用国补轻松搞定厨房以旧换新",
+      "onboard_time": 1748505981,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 13823,
@@ -2347,6 +2579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 12115,
+      "num": 262335,
+      "word": "音乐节外国乐手误喝烈酒辣到变形",
+      "onboard_time": 1748507421,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 11955,
       "num": 29005,
       "word": "敦促美方切实保障留学生合法正当权益",
@@ -2366,6 +2606,9 @@
   "hotgov_list": [
     {
       "word": "#推动少先队事业不断取得新成绩#"
+    },
+    {
+      "word": "#培养中国特色社会主义事业合格建设者#"
     }
   ]
 }
