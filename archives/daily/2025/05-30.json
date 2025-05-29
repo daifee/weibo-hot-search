@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748544578422,
+  "endTime": 1748546370215,
   "band_list": [
     {
       "raw_hot": 973566,
@@ -521,6 +521,30 @@
       "onboard_time": 1748541556,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15484,
+      "num": 15484,
+      "word": "小狗洗澡当晚才会有的顶级待遇",
+      "onboard_time": 1748545514,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 15140,
+      "num": 40405,
+      "word": "韩济州航空再次发生事故",
+      "onboard_time": 1748545334,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 13492,
+      "num": 15381,
+      "word": "内娱新晋版破产兄弟",
+      "onboard_time": 1748546115,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 11581,
