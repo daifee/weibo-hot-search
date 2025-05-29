@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748550534419,
+  "endTime": 1748551364402,
   "band_list": [
     {
       "raw_hot": 973566,
@@ -483,8 +483,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23688,
-      "num": 23688,
+      "raw_hot": 24102,
+      "num": 24102,
       "word": "中方敦促美方彻底取消单边加征关税",
       "onboard_time": 1748548934,
       "rank": 19,
@@ -547,12 +547,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18396,
-      "num": 18396,
+      "raw_hot": 18857,
+      "num": 18857,
       "word": "折腰 耳鬓厮磨具象化",
       "onboard_time": 1748546833,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16571,
+      "num": 33616,
+      "word": "国防部回应赖清德以备战来避战言论",
+      "onboard_time": 1748548754,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14569,
+      "num": 14569,
+      "word": "济州航空",
+      "onboard_time": 1748549954,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14157,
+      "num": 14157,
+      "word": "外交部回应美国将吊销中国学生签证",
+      "onboard_time": 1748549174,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13492,
@@ -563,20 +587,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12833,
-      "num": 12833,
-      "word": "外交部回应美国将吊销中国学生签证",
-      "onboard_time": 1748549174,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 12291,
-      "num": 15439,
-      "word": "国防部回应赖清德以备战来避战言论",
-      "onboard_time": 1748548754,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 12179,
+      "num": 13273,
+      "word": "官方回应高架疑车道减少致车辆高坠",
+      "onboard_time": 1748547914,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11961,
