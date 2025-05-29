@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748524004815,
+  "endTime": 1748525759532,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -187,6 +187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 838529,
+      "num": 279848,
+      "word": "人生就是壮壮妈",
+      "onboard_time": 1748522481,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 837395,
       "num": 837395,
       "word": "济南商铺火灾情况通报",
@@ -223,6 +231,14 @@
       "num": 802982,
       "word": "蜜丝婷 王楚钦",
       "onboard_time": 1748486719,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 777827,
+      "num": 777827,
+      "word": "王楚钦 面对面",
+      "onboard_time": 1748524042,
       "rank": 3,
       "category": "体育"
     },
@@ -307,6 +323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 662257,
+      "num": 662257,
+      "word": "优酷 庄大",
+      "onboard_time": 1748523141,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 649123,
       "num": 438194,
       "word": "邱贻可谈孙颖莎巴黎奥运会丢冠",
@@ -339,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 619806,
+      "num": 619806,
+      "word": "蔡明不认识虞书欣",
+      "onboard_time": 1748522061,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 611680,
       "num": 611680,
       "word": "特朗普亲口承认高关税是谈判策略",
@@ -363,20 +395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 599987,
-      "num": 599987,
-      "word": "蔡明不认识虞书欣",
-      "onboard_time": 1748522061,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 597212,
       "num": 597212,
       "word": "强闯我使馆的韩国男子被判刑",
       "onboard_time": 1748486541,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 564546,
+      "num": 564546,
+      "word": "顺丰寄丢价值5万手镯仅赔67元",
+      "onboard_time": 1748523621,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 562777,
@@ -531,6 +563,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 418248,
+      "num": 418248,
+      "word": "歌手第三期音源",
+      "onboard_time": 1748523321,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414480,
       "num": 213132,
       "word": "男子在生殖医院做手术次日身亡进展",
@@ -627,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377482,
+      "num": 300467,
+      "word": "终于知道为什么挂不上专家号了",
+      "onboard_time": 1748522841,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 370385,
       "num": 393565,
       "word": "刘浩存顶着一张素颜演酷妹",
@@ -705,14 +753,6 @@
       "onboard_time": 1748501421,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343420,
-      "num": 300467,
-      "word": "终于知道为什么挂不上专家号了",
-      "onboard_time": 1748522841,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 343265,
@@ -851,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293900,
-      "num": 293900,
-      "word": "歌手第三期音源",
-      "onboard_time": 1748523321,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292800,
       "num": 253956,
       "word": "贾静雯否认丈夫酒驾",
@@ -883,28 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 279848,
-      "num": 279848,
-      "word": "人生就是壮壮妈",
-      "onboard_time": 1748522481,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 279579,
       "num": 207453,
       "word": "肖战演技",
       "onboard_time": 1748443942,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277068,
-      "num": 277068,
-      "word": "优酷 庄大",
-      "onboard_time": 1748523141,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 267803,
@@ -1563,6 +1579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181928,
+      "num": 181928,
+      "word": "藏海传火遍全球",
+      "onboard_time": 1748525241,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180784,
+      "num": 180784,
+      "word": "肖战一首灯塔送给每位奋斗的考生",
+      "onboard_time": 1748525422,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180158,
       "num": 180158,
       "word": "labubu",
@@ -1611,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176506,
+      "num": 302910,
+      "word": "公职人员因组业委会解聘物业被举报",
+      "onboard_time": 1748523260,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174847,
       "num": 174847,
       "word": "荔枝冷藏一下再吃不上火",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1748510242,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173727,
+      "num": 173727,
+      "word": "当年最差一届的学生被请回去了",
+      "onboard_time": 1748522601,
+      "rank": 42,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 172938,
@@ -1731,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166058,
+      "num": 166058,
+      "word": "张康乐新剧开机",
+      "onboard_time": 1748524823,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165487,
       "num": 165487,
       "word": "LGDNBW九尾断开连接",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1748514202,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164291,
+      "num": 171606,
+      "word": "魏劭在引诱",
+      "onboard_time": 1748521341,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 164227,
@@ -1803,20 +1867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161468,
-      "num": 161468,
-      "word": "顺丰寄丢价值5万手镯仅赔67元",
-      "onboard_time": 1748523621,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160616,
-      "num": 160616,
-      "word": "当年最差一届的学生被请回去了",
-      "onboard_time": 1748522601,
-      "rank": 42,
-      "category": "幽默,民生新闻"
+      "raw_hot": 161473,
+      "num": 161473,
+      "word": "曾之乔辰亦儒排班照顾儿子",
+      "onboard_time": 1748524762,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 159427,
@@ -2299,14 +2355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134437,
-      "num": 171606,
-      "word": "魏劭在引诱",
-      "onboard_time": 1748521341,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132952,
       "num": 132952,
       "word": "王者荣耀",
@@ -2329,6 +2377,14 @@
       "onboard_time": 1748447840,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130859,
+      "num": 130859,
+      "word": "陈震 YYP",
+      "onboard_time": 1748525723,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 130709,
@@ -2611,14 +2667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111897,
-      "num": 302910,
-      "word": "公职人员因组业委会解聘物业被举报",
-      "onboard_time": 1748523260,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110190,
       "num": 110190,
       "word": "王安宇新剧在猎了在猎了",
@@ -2657,6 +2705,14 @@
       "onboard_time": 1748448380,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107064,
+      "num": 213567,
+      "word": "湖南溶洞被排污事件后续",
+      "onboard_time": 1748523801,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105960,
@@ -2745,6 +2801,14 @@
       "onboard_time": 1748502382,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100541,
+      "num": 184228,
+      "word": "罗意威活动明星状态",
+      "onboard_time": 1748524522,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 100230,
@@ -3019,6 +3083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69703,
+      "num": 178411,
+      "word": "陕西无人机坠箭自救式捕杀野猪666",
+      "onboard_time": 1748524282,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69112,
       "num": 69112,
       "word": "五一双方父母见面安排80一晚的宾馆",
@@ -3251,6 +3323,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 49987,
+      "num": 124893,
+      "word": "小鹏MONA价格",
+      "onboard_time": 1748524462,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49142,
       "num": 49142,
       "word": "韦雪回应与男友分手",
@@ -3315,6 +3395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 43738,
+      "num": 180800,
+      "word": "0手续费退机票其实是开假病历",
+      "onboard_time": 1748525122,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 43580,
       "num": 43580,
       "word": "BBC采访广东小伙被种草中国锅",
@@ -3345,6 +3433,14 @@
       "onboard_time": 1748502742,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39863,
+      "num": 124742,
+      "word": "国防部回应美国部署金穹系统",
+      "onboard_time": 1748518941,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38109,
@@ -3449,6 +3545,14 @@
       "onboard_time": 1748501721,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 29640,
+      "num": 176626,
+      "word": "理想预计二季度营收325至338亿元",
+      "onboard_time": 1748525601,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 29347,
@@ -3563,14 +3667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22178,
-      "num": 213567,
-      "word": "湖南溶洞被排污事件后续",
-      "onboard_time": 1748523801,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21885,
       "num": 294116,
       "word": "盲肠炎和阑尾炎是一回事吗",
@@ -3601,6 +3697,14 @@
       "onboard_time": 1748521942,
       "rank": 29,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 20541,
+      "num": 815509,
+      "word": "世界市长对话上海",
+      "onboard_time": 1748525422,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20458,
@@ -3657,6 +3761,14 @@
       "onboard_time": 1748456055,
       "rank": 44,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 17630,
+      "num": 177234,
+      "word": "年治疗费超30万元药品有望进医保",
+      "onboard_time": 1748525662,
+      "rank": 28,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 17189,
@@ -3795,6 +3907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 12182,
+      "num": 177818,
+      "word": "年少的梦想终于在这一刻照进现实",
+      "onboard_time": 1748525601,
+      "rank": 26,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 11955,
       "num": 29005,
       "word": "敦促美方切实保障留学生合法正当权益",
@@ -3817,6 +3937,14 @@
       "onboard_time": 1748473937,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9456,
+      "num": 177471,
+      "word": "很神奇的视错觉艺术品",
+      "onboard_time": 1748525542,
+      "rank": 27,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 8602,
@@ -3849,6 +3977,9 @@
     },
     {
       "word": "#培养中国特色社会主义事业合格建设者#"
+    },
+    {
+      "word": "#习近平勉励科技工作者的暖心瞬间#"
     }
   ]
 }
