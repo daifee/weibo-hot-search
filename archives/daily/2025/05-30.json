@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748536357595,
+  "endTime": 1748537320598,
   "band_list": [
     {
       "raw_hot": 973566,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169616,
+      "num": 169616,
+      "word": "因工作受挫女子每月花780元抱树放松",
+      "onboard_time": 1748529083,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168292,
       "num": 168292,
       "word": "赵丽颖孙千互动",
@@ -131,12 +139,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147971,
-      "num": 147971,
-      "word": "因工作受挫女子每月花780元抱树放松",
-      "onboard_time": 1748529083,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 145337,
+      "num": 145337,
+      "word": "藏海传全面登顶",
+      "onboard_time": 1748531481,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 129429,
@@ -145,14 +153,6 @@
       "onboard_time": 1748528422,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128707,
-      "num": 128707,
-      "word": "藏海传全面登顶",
-      "onboard_time": 1748531481,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 126034,
@@ -187,8 +187,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111849,
-      "num": 111849,
+      "raw_hot": 113278,
+      "num": 113278,
       "word": "国防部回应美称中国演练收复台湾",
       "onboard_time": 1748523083,
       "rank": 23,
@@ -299,8 +299,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84585,
-      "num": 84585,
+      "raw_hot": 84640,
+      "num": 84640,
       "word": "马嘉祺你曾是少年音源",
       "onboard_time": 1748534601,
       "rank": 40,
@@ -321,6 +321,14 @@
       "onboard_time": 1748530944,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79780,
+      "num": 241518,
+      "word": "湖北警方通报一起故意伤害案",
+      "onboard_time": 1748534121,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 78001,
@@ -345,6 +353,14 @@
       "onboard_time": 1748515401,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70994,
+      "num": 70994,
+      "word": "张凌赫 晚宴上的少爷",
+      "onboard_time": 1748536577,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 70129,
@@ -379,15 +395,23 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49579,
-      "num": 241518,
-      "word": "湖北警方通报一起故意伤害案",
-      "onboard_time": 1748534121,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 51550,
+      "num": 57128,
+      "word": "魏劭在引诱",
+      "onboard_time": 1748521341,
+      "rank": 49,
+      "category": "剧集"
     },
     {
-      "raw_hot": 21860,
+      "raw_hot": 31799,
+      "num": 116541,
+      "word": "大乔跳楼幕后",
+      "onboard_time": 1748536698,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22571,
       "num": 606661,
       "word": "让精彩民俗游持续助燃文旅消费热",
       "onboard_time": 1748526683,
@@ -400,6 +424,14 @@
       "word": "不同人对于高考的状态belike",
       "onboard_time": 1748534482,
       "rank": 34,
+      "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 11581,
+      "num": 83390,
+      "word": "听说每个圈子都有自己的毕业照",
+      "onboard_time": 1748536518,
+      "rank": 29,
       "category": "幽默,民生新闻"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748536357595,
+  "endTime": 1748537320598,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -15067,8 +15067,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84585,
-      "num": 84585,
+      "raw_hot": 84640,
+      "num": 84640,
       "word": "马嘉祺你曾是少年音源",
       "onboard_time": 1748534601,
       "rank": 40,
@@ -15313,6 +15313,14 @@
       "onboard_time": 1748259322,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79780,
+      "num": 241518,
+      "word": "湖北警方通报一起故意伤害案",
+      "onboard_time": 1748534121,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 79635,
@@ -15705,6 +15713,14 @@
       "onboard_time": 1748250983,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70994,
+      "num": 70994,
+      "word": "张凌赫 晚宴上的少爷",
+      "onboard_time": 1748536577,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 70879,
@@ -16947,14 +16963,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 49579,
-      "num": 241518,
-      "word": "湖北警方通报一起故意伤害案",
-      "onboard_time": 1748534121,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 49211,
       "num": 49211,
       "word": "孙颖莎王楚钦9个拥抱瞬间",
@@ -18065,6 +18073,14 @@
       "onboard_time": 1748168480,
       "rank": 29,
       "category": "军事,民生新闻"
+    },
+    {
+      "raw_hot": 31799,
+      "num": 116541,
+      "word": "大乔跳楼幕后",
+      "onboard_time": 1748536698,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 31744,
@@ -19873,6 +19889,14 @@
       "onboard_time": 1748255782,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 11581,
+      "num": 83390,
+      "word": "听说每个圈子都有自己的毕业照",
+      "onboard_time": 1748536518,
+      "rank": 29,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 11269,
