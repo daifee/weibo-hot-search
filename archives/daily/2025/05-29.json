@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748532450662,
+  "endTime": 1748533325576,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1711048,
+      "num": 1711048,
+      "word": "微博通报涉朱媛媛去世谣言",
+      "onboard_time": 1748529983,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1655686,
       "num": 1655686,
       "word": "马斯克宣布将离开特朗普政府",
@@ -129,14 +137,6 @@
       "onboard_time": 1748485820,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1101011,
-      "num": 1101011,
-      "word": "微博通报涉朱媛媛去世谣言",
-      "onboard_time": 1748529983,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1072042,
@@ -619,6 +619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 421932,
+      "num": 318830,
+      "word": "吴艳妮哽咽向大家道歉",
+      "onboard_time": 1748531303,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418248,
       "num": 418248,
       "word": "歌手第三期音源",
@@ -785,6 +793,14 @@
       "onboard_time": 1748503941,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354184,
+      "num": 317899,
+      "word": "吴艳妮哭了",
+      "onboard_time": 1748530944,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 353865,
@@ -1011,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278780,
-      "num": 278780,
-      "word": "吴艳妮哭了",
-      "onboard_time": 1748530944,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 267803,
       "num": 250150,
       "word": "全员加速中南通",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1748477124,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258130,
+      "num": 278132,
+      "word": "李雪琴演技",
+      "onboard_time": 1748530703,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 254705,
@@ -1115,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237610,
-      "num": 237610,
-      "word": "李雪琴演技",
-      "onboard_time": 1748530703,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 237607,
       "num": 158738,
       "word": "张凌赫内场赢麻了",
@@ -1163,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228999,
+      "num": 228999,
+      "word": "因工作受挫女子每月花780元抱树放松",
+      "onboard_time": 1748529083,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228531,
       "num": 287476,
       "word": "子夜归",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1748494703,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227087,
-      "num": 227087,
-      "word": "因工作受挫女子每月花780元抱树放松",
-      "onboard_time": 1748529083,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225163,
@@ -1411,14 +1419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204683,
-      "num": 187775,
-      "word": "吴艳妮哽咽向大家道歉",
-      "onboard_time": 1748531303,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204610,
       "num": 204610,
       "word": "第一次见岳父居然是在男科",
@@ -1531,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199372,
+      "num": 199372,
+      "word": "赵丽颖孙千互动",
+      "onboard_time": 1748530464,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198224,
       "num": 198224,
       "word": "山东高密化工厂爆炸三大原因待查",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1748528903,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196050,
+      "num": 196050,
+      "word": "曾之乔回应二胎",
+      "onboard_time": 1748529443,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 195472,
@@ -1635,6 +1651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190628,
+      "num": 190628,
+      "word": "肖战要为入狱的侯爷一大哭",
+      "onboard_time": 1748532622,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189913,
       "num": 189913,
       "word": "画江湖之不良人",
@@ -1648,14 +1672,6 @@
       "word": "车银优入伍时间",
       "onboard_time": 1748484140,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 189671,
-      "num": 189671,
-      "word": "赵丽颖孙千互动",
-      "onboard_time": 1748530464,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1784,14 +1800,6 @@
       "word": "蒲熠星这阴影估计得记一辈子吧",
       "onboard_time": 1748530464,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 181764,
-      "num": 181764,
-      "word": "曾之乔回应二胎",
-      "onboard_time": 1748529443,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -2435,6 +2443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141967,
+      "num": 141967,
+      "word": "王源 今天的时间按小时切割了",
+      "onboard_time": 1748532262,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141617,
       "num": 141617,
       "word": "歪头Labubu",
@@ -2568,6 +2584,14 @@
       "word": "魏大勋 菽红吾爱",
       "onboard_time": 1748520742,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135343,
+      "num": 135343,
+      "word": "白月梵星是代露娃第一部反派戏",
+      "onboard_time": 1748532682,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2931,14 +2955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113577,
-      "num": 113577,
-      "word": "王源 今天的时间按小时切割了",
-      "onboard_time": 1748532262,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113199,
       "num": 113199,
       "word": "叠纸心意",
@@ -3065,6 +3081,14 @@
       "onboard_time": 1748491582,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104496,
+      "num": 104496,
+      "word": "GEN战胜KT",
+      "onboard_time": 1748532981,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 104344,
@@ -3299,7 +3323,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 85129,
+      "raw_hot": 85673,
       "num": 358755,
       "word": "多方回应儿童机票价高于成人机票价",
       "onboard_time": 1748531242,
@@ -3769,6 +3793,14 @@
       "onboard_time": 1748527581,
       "rank": 19,
       "category": "教育,议题讨论"
+    },
+    {
+      "raw_hot": 44438,
+      "num": 321759,
+      "word": "目击者回应朱迅景区救人",
+      "onboard_time": 1748532741,
+      "rank": 10,
+      "category": "正能量"
     },
     {
       "raw_hot": 43940,
@@ -4355,6 +4387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8957,
+      "num": 147148,
+      "word": "第一视角体验高考全过程",
+      "onboard_time": 1748532862,
+      "rank": 29,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 8602,
       "num": 221752,
       "word": "AI教你以旧换新要注意啥",
@@ -4377,6 +4417,14 @@
       "onboard_time": 1748518581,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7271,
+      "num": 273914,
+      "word": "女子向丈夫要5元遭拒后轻生系谣言",
+      "onboard_time": 1748532622,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 4666,
