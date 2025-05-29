@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748533325576,
+  "endTime": 1748536357595,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -969,6 +969,14 @@
       "onboard_time": 1748424562,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 973566,
+      "num": 973566,
+      "word": "吴艳妮哽咽向大家道歉",
+      "onboard_time": 1748531303,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 965119,
@@ -3163,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432265,
+      "num": 238835,
+      "word": "官方通报小车高架坠桥5人死亡",
+      "onboard_time": 1748534361,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432120,
       "num": 432120,
       "word": "奔跑吧直播延迟",
@@ -3289,14 +3305,6 @@
       "onboard_time": 1748324962,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 421932,
-      "num": 318830,
-      "word": "吴艳妮哽咽向大家道歉",
-      "onboard_time": 1748531303,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 421206,
@@ -13931,6 +13939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107189,
+      "num": 107189,
+      "word": "多家医院回应药企向上百名医生行贿",
+      "onboard_time": 1748534361,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107175,
       "num": 107175,
       "word": "张继科说世乒赛输赢都正常",
@@ -13945,6 +13961,14 @@
       "onboard_time": 1748387358,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107032,
+      "num": 107032,
+      "word": "张杰五度归巢十二连开",
+      "onboard_time": 1748535199,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 106959,
@@ -14531,6 +14555,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 95694,
+      "num": 95694,
+      "word": "袭榜歌手悬念海报",
+      "onboard_time": 1748535260,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95607,
       "num": 134086,
       "word": "关于完善中国特色现代企业制度的意见",
@@ -14571,6 +14603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95195,
+      "num": 95195,
+      "word": "稚奴这一路你累吗",
+      "onboard_time": 1748534181,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95147,
       "num": 110158,
       "word": "高中生与教授父亲共发3篇SCI论文",
@@ -14593,6 +14633,14 @@
       "onboard_time": 1748411661,
       "rank": 36,
       "category": "议题讨论,民生新闻"
+    },
+    {
+      "raw_hot": 94727,
+      "num": 94727,
+      "word": "官方将调查小车坠桥事故车道设计",
+      "onboard_time": 1748534421,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94425,
@@ -14995,6 +15043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85112,
+      "num": 85112,
+      "word": "尹昉衰老的速度不像在人间",
+      "onboard_time": 1748533521,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84973,
       "num": 98508,
       "word": "撒贝宁王安宇肉眼可见紧张了",
@@ -15008,6 +15064,14 @@
       "word": "尹浩宇中文已经是nextlevel了",
       "onboard_time": 1748162660,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 84585,
+      "num": 84585,
+      "word": "马嘉祺你曾是少年音源",
+      "onboard_time": 1748534601,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -16881,6 +16945,14 @@
       "onboard_time": 1748441122,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 49579,
+      "num": 241518,
+      "word": "湖北警方通报一起故意伤害案",
+      "onboard_time": 1748534121,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 49211,
@@ -18977,6 +19049,14 @@
       "onboard_time": 1748371454,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20734,
+      "num": 94126,
+      "word": "不同人对于高考的状态belike",
+      "onboard_time": 1748534482,
+      "rank": 34,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 20683,
