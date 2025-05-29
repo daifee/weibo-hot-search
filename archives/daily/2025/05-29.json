@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748489577964,
+  "endTime": 1748493161034,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -59,6 +59,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 788838,
+      "num": 375083,
+      "word": "向佐发文感谢郭碧婷",
+      "onboard_time": 1748491341,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 727748,
+      "num": 727748,
+      "word": "labubu 哪吒面相",
+      "onboard_time": 1748490321,
+      "rank": 4,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 714375,
       "num": 402854,
       "word": "102岁老人3楼坠落被众人稳稳接住",
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 637007,
-      "num": 341974,
+      "num": 359851,
       "word": "2岁男童在幼儿园午睡头卡护栏身亡",
       "onboard_time": 1748478923,
       "rank": 11,
@@ -137,6 +153,22 @@
       "onboard_time": 1748478923,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499352,
+      "num": 499352,
+      "word": "张婧仪用emoji回复肖战",
+      "onboard_time": 1748487801,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 446824,
+      "num": 446824,
+      "word": "还珠格格短剧",
+      "onboard_time": 1748490680,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 429755,
@@ -211,11 +243,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 375241,
-      "num": 375241,
-      "word": "张婧仪用emoji回复肖战",
-      "onboard_time": 1748487801,
-      "rank": 26,
+      "raw_hot": 384727,
+      "num": 384727,
+      "word": "阿布扎比回应请刘亦菲做代言",
+      "onboard_time": 1748489001,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -235,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344295,
+      "num": 344295,
+      "word": "杨紫国色芳华登小学语文课本",
+      "onboard_time": 1748491341,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343265,
       "num": 343265,
       "word": "荣耀李健",
@@ -249,6 +289,22 @@
       "onboard_time": 1748446761,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317173,
+      "num": 302391,
+      "word": "刘浩存顶着一张素颜演酷妹",
+      "onboard_time": 1748490680,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 301750,
+      "num": 301750,
+      "word": "明晚8点京东发6180元",
+      "onboard_time": 1748488102,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 292800,
@@ -331,6 +387,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 235605,
+      "num": 235605,
+      "word": "藏海第一个大仇得报",
+      "onboard_time": 1748492060,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228531,
       "num": 287476,
       "word": "子夜归",
@@ -345,6 +409,14 @@
       "onboard_time": 1748435782,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 219163,
+      "num": 196337,
+      "word": "陈梦在线等",
+      "onboard_time": 1748489782,
+      "rank": 31,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 217317,
@@ -371,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213524,
+      "num": 176442,
+      "word": "WTT美国大满贯首批参赛名单",
+      "onboard_time": 1748492903,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212953,
       "num": 169211,
       "word": "赵今麦张云龙牛排上了快点说",
       "onboard_time": 1748449400,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 212871,
+      "num": 212871,
+      "word": "惠英红 新浪找人给我拍的撕拉片",
+      "onboard_time": 1748492781,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 211865,
@@ -409,14 +497,6 @@
       "onboard_time": 1748445742,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 200833,
-      "num": 200833,
-      "word": "阿布扎比回应请刘亦菲做代言",
-      "onboard_time": 1748489001,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 200219,
@@ -457,6 +537,14 @@
       "onboard_time": 1748437522,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193064,
+      "num": 193064,
+      "word": "二本鸿蒙开发应届生月薪过万",
+      "onboard_time": 1748492060,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190882,
@@ -523,12 +611,60 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174525,
+      "num": 174525,
+      "word": "新能源汽车",
+      "onboard_time": 1748493022,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 171714,
+      "num": 186847,
+      "word": "苏州一公园司马光砸缸被吐槽像猴",
+      "onboard_time": 1748488401,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171359,
+      "num": 171359,
+      "word": "美国大满贯",
+      "onboard_time": 1748493022,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169724,
+      "num": 169724,
+      "word": "韩女团成员穿衣被政治解读引争议",
+      "onboard_time": 1748492602,
+      "rank": 43,
+      "category": "海外新闻,艺人"
+    },
+    {
       "raw_hot": 167178,
       "num": 167178,
       "word": "不良人",
       "onboard_time": 1748486541,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 164227,
+      "num": 164227,
+      "word": "高能量人的一天能有多充实",
+      "onboard_time": 1748492602,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160200,
+      "num": 160200,
+      "word": "中国下司犬外网爆火",
+      "onboard_time": 1748491280,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159211,
@@ -555,12 +691,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156770,
+      "num": 156770,
+      "word": "南波万派对阵容官宣",
+      "onboard_time": 1748490501,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155263,
       "num": 155263,
       "word": "茂名 流星",
       "onboard_time": 1748476220,
       "rank": 30,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 153941,
+      "num": 153941,
+      "word": "开始推理吧",
+      "onboard_time": 1748493142,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 153083,
@@ -577,6 +729,14 @@
       "onboard_time": 1748487921,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151763,
+      "num": 151763,
+      "word": "在人间2集下线3个NPC",
+      "onboard_time": 1748492840,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 145942,
@@ -617,14 +777,6 @@
       "onboard_time": 1748486660,
       "rank": 40,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 141024,
-      "num": 186847,
-      "word": "苏州一公园司马光砸缸被吐槽像猴",
-      "onboard_time": 1748488401,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140875,
@@ -692,11 +844,19 @@
     },
     {
       "raw_hot": 132555,
-      "num": 132555,
+      "num": 170557,
       "word": "曹恩齐在线等",
       "onboard_time": 1748488041,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132085,
+      "num": 210903,
+      "word": "肖战回应人皮戏一镜到底",
+      "onboard_time": 1748492781,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 130867,
@@ -835,12 +995,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111574,
-      "num": 264356,
-      "word": "明晚8点京东发6180元",
-      "onboard_time": 1748488102,
-      "rank": 20,
-      "category": "互联网"
+      "raw_hot": 112312,
+      "num": 178204,
+      "word": "把全世界的banana给郑钦文",
+      "onboard_time": 1748492303,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 110190,
@@ -897,6 +1057,14 @@
       "onboard_time": 1748429480,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104663,
+      "num": 307865,
+      "word": "便利店阿姨哪见过这种场面",
+      "onboard_time": 1748491582,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 104344,
@@ -1091,6 +1259,22 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 64210,
+      "num": 207877,
+      "word": "全英文遛娃是鸡娃焦虑吗",
+      "onboard_time": 1748492961,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61561,
+      "num": 310692,
+      "word": "拉肚子会是肠炎的前兆吗",
+      "onboard_time": 1748492241,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 60816,
       "num": 60816,
       "word": "102岁老人误把窗户当门悬挂三楼",
@@ -1121,6 +1305,14 @@
       "onboard_time": 1748475200,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58114,
+      "num": 796928,
+      "word": "我国开启小行星探测与采样返回之旅",
+      "onboard_time": 1748490741,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53919,
@@ -1179,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43024,
+      "num": 209819,
+      "word": "特朗普说在为哈佛着想",
+      "onboard_time": 1748492961,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42799,
       "num": 42799,
       "word": "林孝埈一起去米兰吧",
@@ -1187,11 +1387,51 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42684,
+      "num": 195142,
+      "word": "熊孩子闯入装修别墅搞破坏业主赠试卷",
+      "onboard_time": 1748492961,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42028,
+      "num": 198919,
+      "word": "好大学和好专业哪个重要",
+      "onboard_time": 1748493083,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 37767,
       "num": 98185,
       "word": "医院减脂餐",
       "onboard_time": 1748449939,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35488,
+      "num": 305490,
+      "word": "闭目养神对睡觉有用吗",
+      "onboard_time": 1748491882,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 30438,
+      "num": 176530,
+      "word": "苹果概念股全线走强",
+      "onboard_time": 1748490021,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 30226,
+      "num": 204085,
+      "word": "代相亲代遛狗年轻人万物皆可代",
+      "onboard_time": 1748491400,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1209,6 +1449,14 @@
       "onboard_time": 1748488460,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24270,
+      "num": 202950,
+      "word": "C罗该离开利雅得胜利吗",
+      "onboard_time": 1748492481,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 22369,
