@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748547427067,
+  "endTime": 1748550534419,
   "band_list": [
     {
       "raw_hot": 973566,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65684,
+      "num": 65684,
+      "word": "韩济州航空再次发生事故",
+      "onboard_time": 1748545334,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 52198,
       "num": 52198,
       "word": "男子冒充初中生诱骗近百名中小学女生",
@@ -425,14 +433,6 @@
       "onboard_time": 1748540715,
       "rank": 16,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 43569,
-      "num": 43569,
-      "word": "韩济州航空再次发生事故",
-      "onboard_time": 1748545334,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 41189,
@@ -483,6 +483,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23688,
+      "num": 23688,
+      "word": "中方敦促美方彻底取消单边加征关税",
+      "onboard_time": 1748548934,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 22979,
+      "num": 22979,
+      "word": "小狗洗澡当晚才会有的顶级待遇",
+      "onboard_time": 1748545514,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22571,
       "num": 606661,
       "word": "让精彩民俗游持续助燃文旅消费热",
@@ -531,12 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18514,
-      "num": 18514,
-      "word": "小狗洗澡当晚才会有的顶级待遇",
-      "onboard_time": 1748545514,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 18396,
+      "num": 18396,
+      "word": "折腰 耳鬓厮磨具象化",
+      "onboard_time": 1748546833,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 13492,
@@ -545,6 +561,22 @@
       "onboard_time": 1748546115,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12833,
+      "num": 12833,
+      "word": "外交部回应美国将吊销中国学生签证",
+      "onboard_time": 1748549174,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 12291,
+      "num": 15439,
+      "word": "国防部回应赖清德以备战来避战言论",
+      "onboard_time": 1748548754,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11961,
@@ -561,6 +593,14 @@
       "onboard_time": 1748536518,
       "rank": 29,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 11547,
+      "num": 12694,
+      "word": "小狗洗澡顶级待遇",
+      "onboard_time": 1748549234,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 10660,
