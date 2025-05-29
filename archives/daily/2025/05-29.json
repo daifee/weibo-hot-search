@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748511719611,
+  "endTime": 1748514561756,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -99,6 +99,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 991835,
+      "num": 1158693,
+      "word": "演员孙菲菲回应整容失败",
+      "onboard_time": 1748511741,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 950193,
+      "num": 950193,
+      "word": "莫名收到20多条验证码隔天6万没了",
+      "onboard_time": 1748509940,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 873913,
       "num": 873913,
       "word": "苦尽柑来剧组被曝霸凌群演",
@@ -179,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 744437,
+      "num": 322229,
+      "word": "折腰超点",
+      "onboard_time": 1748511981,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 726230,
       "num": 751373,
       "word": "宁静朱丹 尴尬九分钟",
@@ -193,6 +217,14 @@
       "onboard_time": 1748442564,
       "rank": 10,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 705728,
+      "num": 705728,
+      "word": "孙颖莎一怒之下怒了一下",
+      "onboard_time": 1748511081,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 694246,
@@ -427,11 +459,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 407334,
+      "num": 407334,
+      "word": "汪峰锐评孟子义卸妆体验终身难忘",
+      "onboard_time": 1748510902,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404661,
       "num": 750518,
       "word": "藏海第一个大仇得报",
       "onboard_time": 1748492060,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 403895,
+      "num": 403895,
+      "word": "折腰大结局",
+      "onboard_time": 1748514140,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -547,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343438,
-      "num": 447112,
-      "word": "莫名收到20多条验证码隔天6万没了",
-      "onboard_time": 1748509940,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343265,
       "num": 343265,
       "word": "荣耀李健",
@@ -603,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323223,
+      "num": 323223,
+      "word": "原神 海卡",
+      "onboard_time": 1748512401,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 316712,
       "num": 316712,
       "word": "济南一商铺发生火灾1人失联",
@@ -641,6 +689,14 @@
       "onboard_time": 1748492903,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297018,
+      "num": 323126,
+      "word": "丁禹兮旁白雪豹纪录片",
+      "onboard_time": 1748513420,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 293981,
@@ -720,6 +776,14 @@
       "word": "王亚飞给迪丽热巴化的花间精灵妆",
       "onboard_time": 1748496380,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252931,
+      "num": 314635,
+      "word": "比武艺拿蛋糕还好笑的场面出现了",
+      "onboard_time": 1748512401,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -803,12 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224077,
-      "num": 399053,
-      "word": "汪峰锐评孟子义卸妆体验终身难忘",
-      "onboard_time": 1748510902,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 225163,
+      "num": 405796,
+      "word": "车辆冲出快速路高架桥致车内5人身亡",
+      "onboard_time": 1748511140,
+      "rank": 12,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 223453,
@@ -825,6 +889,14 @@
       "onboard_time": 1748435782,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 220641,
+      "num": 220641,
+      "word": "欲言难止广播剧",
+      "onboard_time": 1748513120,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 219610,
@@ -1099,6 +1171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189953,
+      "num": 189953,
+      "word": "独子失联30年父母离世后想继承遗产",
+      "onboard_time": 1748513960,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189913,
       "num": 189913,
       "word": "画江湖之不良人",
@@ -1219,6 +1299,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 177308,
+      "num": 305935,
+      "word": "StrayKids集体照紧握拳头",
+      "onboard_time": 1748513722,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177109,
       "num": 138123,
       "word": "汪苏泷 胸肌",
@@ -1265,6 +1353,14 @@
       "onboard_time": 1748503222,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172665,
+      "num": 172665,
+      "word": "新男团 idntt",
+      "onboard_time": 1748511502,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 171714,
@@ -1331,20 +1427,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164950,
+      "num": 164950,
+      "word": "齐思钧听大张伟爆梗嘴角抑制不住",
+      "onboard_time": 1748514202,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164314,
+      "num": 164314,
+      "word": "孙颖莎说和王楚钦目标一致",
+      "onboard_time": 1748512520,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164227,
       "num": 164227,
       "word": "高能量人的一天能有多充实",
       "onboard_time": 1748492602,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163449,
-      "num": 163449,
-      "word": "新男团 idntt",
-      "onboard_time": 1748511502,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 163114,
@@ -1507,12 +1611,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152499,
+      "num": 152499,
+      "word": "袁娅维黄宣也是玩上歌手梗了",
+      "onboard_time": 1748513120,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152367,
       "num": 152367,
       "word": "卡鲁索人情篮球",
       "onboard_time": 1748487921,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151549,
+      "num": 309595,
+      "word": "Hero坦然连接成功",
+      "onboard_time": 1748513539,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 149203,
@@ -1529,6 +1649,14 @@
       "onboard_time": 1748493622,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148469,
+      "num": 148469,
+      "word": "中国小朋友不能再胖了",
+      "onboard_time": 1748513180,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148036,
@@ -1737,14 +1865,6 @@
       "onboard_time": 1748484620,
       "rank": 31,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 134354,
-      "num": 394902,
-      "word": "孙颖莎一怒之下怒了一下",
-      "onboard_time": 1748511081,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 132952,
@@ -2259,6 +2379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 82002,
+      "num": 318988,
+      "word": "绝地潜兵2卡进度99.9%",
+      "onboard_time": 1748513780,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 81954,
       "num": 242743,
       "word": "福建舰电磁弹射一昼夜起降300架次",
@@ -2363,6 +2491,22 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 68732,
+      "num": 382066,
+      "word": "林一同款赛道风穿搭成淘宝爆款",
+      "onboard_time": 1748511321,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68732,
+      "num": 317699,
+      "word": "加沙儿童没有六一只有死亡",
+      "onboard_time": 1748513361,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68544,
       "num": 68544,
       "word": "覃海洋回应张雨霏称他是卷王",
@@ -2409,6 +2553,14 @@
       "onboard_time": 1748506342,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 61910,
+      "num": 316817,
+      "word": "高考报名人数为何8年来首次降低",
+      "onboard_time": 1748512881,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 60816,
@@ -2459,6 +2611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56414,
+      "num": 302533,
+      "word": "泡泡玛特涨超4%",
+      "onboard_time": 1748514080,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 55986,
       "num": 401546,
       "word": "戴安娜王妃故居农舍被烧毁",
@@ -2497,6 +2657,14 @@
       "onboard_time": 1748441064,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53916,
+      "num": 315260,
+      "word": "烟台一高校校长被曝学术不端",
+      "onboard_time": 1748513301,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53842,
@@ -2619,20 +2787,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37432,
+      "num": 320194,
+      "word": "马頔说美团会员太好当了",
+      "onboard_time": 1748513240,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35488,
       "num": 305490,
       "word": "闭目养神对睡觉有用吗",
       "onboard_time": 1748491882,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 34771,
-      "num": 405796,
-      "word": "车辆冲出快速路高架桥致车内5人身亡",
-      "onboard_time": 1748511140,
-      "rank": 12,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 31471,
@@ -2699,14 +2867,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 27572,
-      "num": 382066,
-      "word": "林一同款赛道风穿搭成淘宝爆款",
-      "onboard_time": 1748511321,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27157,
       "num": 368981,
       "word": "景区称不锈钢湖底是为存蓄饮用水",
@@ -2729,6 +2889,14 @@
       "onboard_time": 1748488460,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24506,
+      "num": 172876,
+      "word": "加沙民众道别时不再说明天见",
+      "onboard_time": 1748514499,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24504,
@@ -2793,6 +2961,14 @@
       "onboard_time": 1748506041,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20998,
+      "num": 294116,
+      "word": "盲肠炎和阑尾炎是一回事吗",
+      "onboard_time": 1748513180,
+      "rank": 29,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 20458,
@@ -2931,6 +3107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 12294,
+      "num": 301008,
+      "word": "天池不锈钢底是否影响水质安全",
+      "onboard_time": 1748513480,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11955,
       "num": 29005,
       "word": "敦促美方切实保障留学生合法正当权益",
@@ -2945,6 +3129,14 @@
       "onboard_time": 1748473937,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8602,
+      "num": 221752,
+      "word": "AI教你以旧换新要注意啥",
+      "onboard_time": 1748514380,
+      "rank": 34,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [

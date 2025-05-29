@@ -1,0 +1,410 @@
+{
+  "runTime": 1748514561756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 991835,
+        "num": 1158693,
+        "word": "演员孙菲菲回应整容失败",
+        "onboard_time": 1748511741,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 950193,
+        "num": 950193,
+        "word": "莫名收到20多条验证码隔天6万没了",
+        "onboard_time": 1748509940,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68599,
+        "num": 830877,
+        "word": "我国新一代人造太阳再创纪录",
+        "onboard_time": 1748506701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792947,
+        "num": 792947,
+        "word": "韩国发生飞机坠毁事件",
+        "onboard_time": 1748496022,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 705728,
+        "num": 705728,
+        "word": "孙颖莎一怒之下怒了一下",
+        "onboard_time": 1748511081,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 564097,
+        "num": 564097,
+        "word": "特朗普亲口承认高关税是谈判策略",
+        "onboard_time": 1748507241,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 407334,
+        "num": 407334,
+        "word": "汪峰锐评孟子义卸妆体验终身难忘",
+        "onboard_time": 1748510902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403895,
+        "num": 403895,
+        "word": "折腰大结局",
+        "onboard_time": 1748514140,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323223,
+        "num": 323223,
+        "word": "原神 海卡",
+        "onboard_time": 1748512401,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297018,
+        "num": 323126,
+        "word": "丁禹兮旁白雪豹纪录片",
+        "onboard_time": 1748513420,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 744437,
+        "num": 322229,
+        "word": "折腰超点",
+        "onboard_time": 1748511981,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565647,
+        "num": 322036,
+        "word": "老师 这边给您补偿5元您看可以吗",
+        "onboard_time": 1748503222,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307660,
+        "num": 321501,
+        "word": "虞书欣晒照庆祝来微博第10年",
+        "onboard_time": 1748506220,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428726,
+        "num": 321035,
+        "word": "今朝cp求婚了",
+        "onboard_time": 1748509641,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320624,
+        "num": 320624,
+        "word": "iPhone17ProMax最新机模",
+        "onboard_time": 1748481199,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 37432,
+        "num": 320194,
+        "word": "马頔说美团会员太好当了",
+        "onboard_time": 1748513240,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82002,
+        "num": 318988,
+        "word": "绝地潜兵2卡进度99.9%",
+        "onboard_time": 1748513780,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68732,
+        "num": 317699,
+        "word": "加沙儿童没有六一只有死亡",
+        "onboard_time": 1748513361,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61910,
+        "num": 316817,
+        "word": "高考报名人数为何8年来首次降低",
+        "onboard_time": 1748512881,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53916,
+        "num": 315260,
+        "word": "烟台一高校校长被曝学术不端",
+        "onboard_time": 1748513301,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252931,
+        "num": 314635,
+        "word": "比武艺拿蛋糕还好笑的场面出现了",
+        "onboard_time": 1748512401,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416393,
+        "num": 312606,
+        "word": "因跟谁姓离婚父亲要求均分孩子",
+        "onboard_time": 1748504723,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398368,
+        "num": 312438,
+        "word": "金晨变化好大",
+        "onboard_time": 1748497403,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68732,
+        "num": 310572,
+        "word": "林一同款赛道风穿搭成淘宝爆款",
+        "onboard_time": 1748511321,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151549,
+        "num": 309595,
+        "word": "Hero坦然连接成功",
+        "onboard_time": 1748513539,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308985,
+        "num": 308985,
+        "word": "国防部回应歼10CE首次取得实战战果",
+        "onboard_time": 1748509641,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177308,
+        "num": 305935,
+        "word": "StrayKids集体照紧握拳头",
+        "onboard_time": 1748513722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56414,
+        "num": 302533,
+        "word": "泡泡玛特涨超4%",
+        "onboard_time": 1748514080,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12294,
+        "num": 301008,
+        "word": "天池不锈钢底是否影响水质安全",
+        "onboard_time": 1748513480,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20998,
+        "num": 294116,
+        "word": "盲肠炎和阑尾炎是一回事吗",
+        "onboard_time": 1748513180,
+        "rank": 29,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 293423,
+        "num": 293423,
+        "word": "韩国生育率上升",
+        "onboard_time": 1748503222,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 291393,
+        "num": 291393,
+        "word": "邱贻可谈孙颖莎巴黎奥运会丢冠",
+        "onboard_time": 1748507721,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228156,
+        "num": 228156,
+        "word": "抚养3弟妹的05后女生有了五险一金",
+        "onboard_time": 1748506041,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 225163,
+        "num": 225163,
+        "word": "车辆冲出快速路高架桥致车内5人身亡",
+        "onboard_time": 1748511140,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 8602,
+        "num": 221752,
+        "word": "AI教你以旧换新要注意啥",
+        "onboard_time": 1748514380,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 220641,
+        "num": 220641,
+        "word": "欲言难止广播剧",
+        "onboard_time": 1748513120,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189953,
+        "num": 189953,
+        "word": "独子失联30年父母离世后想继承遗产",
+        "onboard_time": 1748513960,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184123,
+        "num": 184123,
+        "word": "一架飞机在韩国东南部城市浦项坠毁",
+        "onboard_time": 1748503762,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173115,
+        "num": 173115,
+        "word": "张凌赫王安宇 江浙沪长相",
+        "onboard_time": 1748495783,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24506,
+        "num": 172876,
+        "word": "加沙民众道别时不再说明天见",
+        "onboard_time": 1748514499,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172665,
+        "num": 172665,
+        "word": "新男团 idntt",
+        "onboard_time": 1748511502,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169829,
+        "num": 169829,
+        "word": "韩女团成员穿衣被政治解读引争议",
+        "onboard_time": 1748492602,
+        "rank": 41,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 169616,
+        "num": 169616,
+        "word": "姬伯伯为肖战才演藏海传",
+        "onboard_time": 1748503941,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164950,
+        "num": 164950,
+        "word": "齐思钧听大张伟爆梗嘴角抑制不住",
+        "onboard_time": 1748514202,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164314,
+        "num": 164314,
+        "word": "孙颖莎说和王楚钦目标一致",
+        "onboard_time": 1748512520,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161172,
+        "num": 161172,
+        "word": "韩客机载183名乘客冲出跑道",
+        "onboard_time": 1748497821,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 152499,
+        "num": 152499,
+        "word": "袁娅维黄宣也是玩上歌手梗了",
+        "onboard_time": 1748513120,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160648,
+        "num": 152037,
+        "word": "肖战给藏海P图",
+        "onboard_time": 1748506820,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148469,
+        "num": 148469,
+        "word": "中国小朋友不能再胖了",
+        "onboard_time": 1748513180,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142103,
+        "num": 142103,
+        "word": "6人为钓大鱼竟操控无人艇进保护区",
+        "onboard_time": 1748505562,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养中国特色社会主义事业合格建设者#"
+    }
+  }
+}
