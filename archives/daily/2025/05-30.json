@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748543758526,
+  "endTime": 1748544578422,
   "band_list": [
     {
       "raw_hot": 973566,
@@ -419,8 +419,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42685,
-      "num": 42685,
+      "raw_hot": 47845,
+      "num": 47845,
       "word": "湖北应城故意伤害案致2死",
       "onboard_time": 1748540715,
       "rank": 16,
@@ -507,12 +507,20 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 18681,
+      "raw_hot": 19680,
       "num": 21295,
       "word": "迪丽热巴精准命中你的心",
       "onboard_time": 1748543475,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19343,
+      "num": 20330,
+      "word": "藏海终于要灭了平津侯了",
+      "onboard_time": 1748541556,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 11581,
@@ -523,8 +531,8 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 10589,
-      "num": 118204,
+      "raw_hot": 10660,
+      "num": 120561,
       "word": "世界市长对话上海",
       "onboard_time": 1748525422,
       "rank": 2,
