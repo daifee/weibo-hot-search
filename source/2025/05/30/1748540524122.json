@@ -1,0 +1,410 @@
+{
+  "runTime": 1748540524122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 329117,
+        "num": 388092,
+        "word": "吴艳妮哽咽向大家道歉",
+        "onboard_time": 1748531303,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273309,
+        "num": 273309,
+        "word": "美团 回收券",
+        "onboard_time": 1748526802,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13255,
+        "num": 197417,
+        "word": "让精彩民俗游持续助燃文旅消费热",
+        "onboard_time": 1748526683,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186344,
+        "num": 186344,
+        "word": "微博通报涉朱媛媛去世谣言",
+        "onboard_time": 1748529983,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158172,
+        "num": 158172,
+        "word": "顺丰寄丢价值5万手镯仅赔67元",
+        "onboard_time": 1748523621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131102,
+        "num": 131102,
+        "word": "藏海传开始暴走了",
+        "onboard_time": 1748530282,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104935,
+        "num": 104935,
+        "word": "泡泡玛特暂停Labubu在英销售",
+        "onboard_time": 1748517140,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102326,
+        "num": 102326,
+        "word": "陈震 YYP",
+        "onboard_time": 1748525723,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100163,
+        "num": 100163,
+        "word": "蔡明不认识虞书欣",
+        "onboard_time": 1748522061,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83943,
+        "num": 83943,
+        "word": "国防部回应美称中国演练收复台湾",
+        "onboard_time": 1748523083,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185067,
+        "num": 82756,
+        "word": "官方通报小车高架坠桥5人死亡",
+        "onboard_time": 1748534361,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90926,
+        "num": 82549,
+        "word": "因工作受挫女子每月花780元抱树放松",
+        "onboard_time": 1748529083,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79721,
+        "num": 79721,
+        "word": "王力宏的哥哥王力德血癌科研",
+        "onboard_time": 1748521519,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66563,
+        "num": 66563,
+        "word": "40万黄金被女子当垃圾丢了",
+        "onboard_time": 1748519301,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66542,
+        "num": 66542,
+        "word": "李雪琴演技",
+        "onboard_time": 1748530703,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62501,
+        "num": 62501,
+        "word": "稚奴这一路你累吗",
+        "onboard_time": 1748534181,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58706,
+        "num": 58706,
+        "word": "藏海传全面登顶",
+        "onboard_time": 1748531481,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56186,
+        "num": 56186,
+        "word": "王楚钦 面对面",
+        "onboard_time": 1748524042,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54799,
+        "num": 54799,
+        "word": "马嘉祺你曾是少年音源",
+        "onboard_time": 1748534601,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49450,
+        "num": 49450,
+        "word": "赵丽颖孙千互动",
+        "onboard_time": 1748530464,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45621,
+        "num": 45621,
+        "word": "魏渠断臂",
+        "onboard_time": 1748520321,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45145,
+        "num": 45145,
+        "word": "男子冒充初中生诱骗近百名中小学女生",
+        "onboard_time": 1748527222,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44150,
+        "num": 44150,
+        "word": "魏劭在引诱",
+        "onboard_time": 1748521341,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41426,
+        "num": 41426,
+        "word": "王安宇拍的刘浩存",
+        "onboard_time": 1748515581,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40774,
+        "num": 40774,
+        "word": "袭榜歌手悬念海报",
+        "onboard_time": 1748535260,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39304,
+        "num": 39304,
+        "word": "肖战要为入狱的侯爷一大哭",
+        "onboard_time": 1748532622,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39049,
+        "num": 39049,
+        "word": "人生就是壮壮妈",
+        "onboard_time": 1748522481,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38111,
+        "num": 38111,
+        "word": "多家医院回应药企向上百名医生行贿",
+        "onboard_time": 1748534361,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38034,
+        "num": 38034,
+        "word": "老师 这边给您补偿5元您看可以吗",
+        "onboard_time": 1748503222,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37894,
+        "num": 37894,
+        "word": "张凌赫 晚宴上的少爷",
+        "onboard_time": 1748536577,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 37790,
+        "num": 37790,
+        "word": "官方将调查小车坠桥事故车道设计",
+        "onboard_time": 1748534421,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35708,
+        "num": 35708,
+        "word": "虞书欣这是凌妙妙返场吗",
+        "onboard_time": 1748521701,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35298,
+        "num": 35298,
+        "word": "网红迪士尼晒艺考成绩",
+        "onboard_time": 1748540236,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35115,
+        "num": 35115,
+        "word": "大乔跳楼幕后",
+        "onboard_time": 1748536698,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35103,
+        "num": 35103,
+        "word": "尹昉衰老的速度不像在人间",
+        "onboard_time": 1748533521,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34680,
+        "num": 34680,
+        "word": "歌手终于炒出新菜了",
+        "onboard_time": 1748528422,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33956,
+        "num": 33956,
+        "word": "张凌赫瞎说什么大实话",
+        "onboard_time": 1748538438,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33005,
+        "num": 33005,
+        "word": "孙颖莎最新专访完整版视频",
+        "onboard_time": 1748529622,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32598,
+        "num": 32598,
+        "word": "张杰五度归巢十二连开",
+        "onboard_time": 1748535199,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31754,
+        "num": 31754,
+        "word": "歌手第三期音源",
+        "onboard_time": 1748523321,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31227,
+        "num": 31227,
+        "word": "女子向丈夫要钱遭拒后轻生系谣言",
+        "onboard_time": 1748539877,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 30891,
+        "num": 30891,
+        "word": "金靖我的脸衬得迪丽热巴更好看了",
+        "onboard_time": 1748530823,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30628,
+        "num": 30628,
+        "word": "赛龙舟",
+        "onboard_time": 1748539756,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29477,
+        "num": 29477,
+        "word": "刘宇宁在折腰剧组说话插不上嘴",
+        "onboard_time": 1748538798,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28910,
+        "num": 28910,
+        "word": "月经是身体的晴雨表",
+        "onboard_time": 1748515401,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28793,
+        "num": 28793,
+        "word": "曾之乔回应二胎",
+        "onboard_time": 1748529443,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28769,
+        "num": 28769,
+        "word": "蒲熠星这阴影估计得记一辈子吧",
+        "onboard_time": 1748530464,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27990,
+        "num": 28768,
+        "word": "关晓彤 精心布置的夏日九宫格",
+        "onboard_time": 1748531123,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26725,
+        "num": 28768,
+        "word": "湖北警方通报一起故意伤害案",
+        "onboard_time": 1748534121,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 26553,
+        "num": 28767,
+        "word": "主持人朱迅景区救助高反女游客",
+        "onboard_time": 1748526622,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励科技工作者的暖心瞬间#"
+    }
+  }
+}
