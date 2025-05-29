@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748561054209,
+  "endTime": 1748561935460,
   "band_list": [
     {
       "raw_hot": 973566,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484635,
-      "num": 169616,
+      "raw_hot": 503797,
+      "num": 182299,
       "word": "因工作受挫女子每月花780元抱树放松",
       "onboard_time": 1748529083,
       "rank": 17,
@@ -59,6 +59,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379439,
+      "num": 379439,
+      "word": "顺丰寄丢价值5万手镯仅赔67元",
+      "onboard_time": 1748523621,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367918,
+      "num": 367918,
+      "word": "官方回应李现拍鸟成公务员省考面试题",
+      "onboard_time": 1748558476,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355454,
       "num": 282321,
       "word": "蔡明不认识虞书欣",
@@ -67,20 +83,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 324289,
-      "num": 324289,
-      "word": "顺丰寄丢价值5万手镯仅赔67元",
-      "onboard_time": 1748523621,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 267415,
       "num": 267415,
       "word": "小乔早产",
       "onboard_time": 1748529862,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261909,
+      "num": 235806,
+      "word": "庄之行背叛藏海",
+      "onboard_time": 1748560399,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242953,
+      "num": 242953,
+      "word": "国防部回应美称中国演练收复台湾",
+      "onboard_time": 1748523083,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 242922,
@@ -107,12 +131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231006,
-      "num": 231006,
-      "word": "国防部回应美称中国演练收复台湾",
-      "onboard_time": 1748523083,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 226950,
+      "num": 226950,
+      "word": "40万黄金被女子当垃圾丢了",
+      "onboard_time": 1748519301,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219338,
@@ -131,19 +155,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193932,
-      "num": 193932,
-      "word": "官方回应李现拍鸟成公务员省考面试题",
-      "onboard_time": 1748558476,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 174430,
+      "num": 174430,
+      "word": "中方敦促美方彻底取消单边加征关税",
+      "onboard_time": 1748548934,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 189013,
-      "num": 189013,
-      "word": "40万黄金被女子当垃圾丢了",
-      "onboard_time": 1748519301,
-      "rank": 21,
+      "raw_hot": 174259,
+      "num": 174259,
+      "word": "大连梅花鹿遭野狗追逐坠落死亡",
+      "onboard_time": 1748560278,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -155,20 +179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158616,
+      "num": 55902,
+      "word": "37岁单亲妈妈去世抗癌6年",
+      "onboard_time": 1748561661,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155991,
       "num": 155991,
       "word": "主持人朱迅景区救助高反女游客",
       "onboard_time": 1748526622,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152763,
-      "num": 152763,
-      "word": "中方敦促美方彻底取消单边加征关税",
-      "onboard_time": 1748548934,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 152094,
@@ -187,20 +211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143585,
-      "num": 143585,
-      "word": "庄之行背叛藏海",
-      "onboard_time": 1748560399,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136175,
       "num": 136175,
       "word": "肖战要为入狱的侯爷一大哭",
       "onboard_time": 1748532622,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134453,
+      "num": 134453,
+      "word": "男子冒充初中生诱骗近百名中小学女生",
+      "onboard_time": 1748527222,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129429,
@@ -219,14 +243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124713,
-      "num": 124713,
-      "word": "男子冒充初中生诱骗近百名中小学女生",
-      "onboard_time": 1748527222,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115115,
       "num": 115115,
       "word": "关晓彤 精心布置的夏日九宫格",
@@ -240,14 +256,6 @@
       "word": "多家医院回应药企向上百名医生行贿",
       "onboard_time": 1748534361,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107130,
-      "num": 107130,
-      "word": "大连梅花鹿遭野狗追逐坠落死亡",
-      "onboard_time": 1748560278,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89567,
+      "num": 89567,
+      "word": "iPhone17标准版屏幕曝料",
+      "onboard_time": 1748561661,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87030,
       "num": 87030,
       "word": "白月梵星是代露娃第一部反派戏",
@@ -387,6 +403,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77785,
+      "num": 77785,
+      "word": "小桃骂乔慈",
+      "onboard_time": 1748561179,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75102,
+      "num": 75102,
+      "word": "折腰 耳鬓厮磨具象化",
+      "onboard_time": 1748546833,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74416,
       "num": 74416,
       "word": "土象星座是深沉的爱人",
@@ -401,14 +433,6 @@
       "onboard_time": 1748515401,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72249,
-      "num": 72249,
-      "word": "折腰 耳鬓厮磨具象化",
-      "onboard_time": 1748546833,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 70994,
@@ -459,7 +483,15 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 58025,
+      "raw_hot": 58720,
+      "num": 189073,
+      "word": "陈都灵杨超越范丞丞广电培训笔记",
+      "onboard_time": 1748561119,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 58173,
       "num": 57079,
       "word": "网红迪士尼晒艺考成绩",
       "onboard_time": 1748540236,
@@ -491,8 +523,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48857,
-      "num": 48857,
+      "raw_hot": 50320,
+      "num": 50320,
+      "word": "萨摩耶演我摸到小狗时的样子",
+      "onboard_time": 1748561599,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 48994,
+      "num": 48994,
       "word": "国防部回应赖清德以备战来避战言论",
       "onboard_time": 1748548754,
       "rank": 34,
@@ -515,6 +555,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 45973,
+      "num": 45973,
+      "word": "藏海传火遍全球",
+      "onboard_time": 1748525241,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44994,
       "num": 44994,
       "word": "特朗普政府vs哈佛大学谁能赢",
@@ -523,20 +571,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43202,
+      "num": 485117,
+      "word": "世界市长对话上海",
+      "onboard_time": 1748525422,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43016,
+      "num": 43016,
+      "word": "高三的最后一节晚自修",
+      "onboard_time": 1748560998,
+      "rank": 47,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 41332,
       "num": 41332,
       "word": "虞书欣这是凌妙妙返场吗",
       "onboard_time": 1748521701,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41193,
-      "num": 45001,
-      "word": "藏海传火遍全球",
-      "onboard_time": 1748525241,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 41189,
@@ -555,28 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40269,
-      "num": 40269,
-      "word": "高三的最后一节晚自修",
-      "onboard_time": 1748560998,
-      "rank": 47,
-      "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 39555,
-      "num": 39555,
+      "raw_hot": 39808,
+      "num": 39808,
       "word": "外交部回应美国将吊销中国学生签证",
       "onboard_time": 1748549174,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 36408,
-      "num": 468147,
-      "word": "世界市长对话上海",
-      "onboard_time": 1748525422,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33956,
