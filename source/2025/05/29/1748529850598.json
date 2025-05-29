@@ -1,0 +1,410 @@
+{
+  "runTime": 1748529850598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2557355,
+        "num": 2557355,
+        "word": "美团 回收券",
+        "onboard_time": 1748526802,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1703656,
+        "num": 1703656,
+        "word": "顺丰寄丢价值5万手镯仅赔67元",
+        "onboard_time": 1748523621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26510,
+        "num": 1170207,
+        "word": "让精彩民俗游持续助燃文旅消费热",
+        "onboard_time": 1748526683,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 773207,
+        "num": 773207,
+        "word": "优酷 庄大",
+        "onboard_time": 1748523141,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 755846,
+        "num": 755846,
+        "word": "蔡明不认识虞书欣",
+        "onboard_time": 1748522061,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612487,
+        "num": 612487,
+        "word": "吴艳妮亚锦赛铜牌",
+        "onboard_time": 1748527763,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553067,
+        "num": 553067,
+        "word": "泡泡玛特暂停Labubu在英销售",
+        "onboard_time": 1748517140,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 512845,
+        "num": 512845,
+        "word": "王楚钦 面对面",
+        "onboard_time": 1748524042,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393074,
+        "num": 393074,
+        "word": "藏海传火遍全球",
+        "onboard_time": 1748525241,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389712,
+        "num": 389712,
+        "word": "40万黄金被女子当垃圾丢了",
+        "onboard_time": 1748519301,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1012830,
+        "num": 389678,
+        "word": "大乔死了",
+        "onboard_time": 1748517140,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 676455,
+        "num": 379502,
+        "word": "人生就是壮壮妈",
+        "onboard_time": 1748522481,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 641399,
+        "num": 375367,
+        "word": "王力宏的哥哥王力德血癌科研",
+        "onboard_time": 1748521519,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358054,
+        "num": 358054,
+        "word": "陈震 YYP",
+        "onboard_time": 1748525723,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 309191,
+        "num": 309191,
+        "word": "国防部回应美称中国演练收复台湾",
+        "onboard_time": 1748523083,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254459,
+        "num": 254459,
+        "word": "主持人朱迅景区救助高反女游客",
+        "onboard_time": 1748526622,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248804,
+        "num": 248804,
+        "word": "藏海传广告",
+        "onboard_time": 1748521162,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244325,
+        "num": 248531,
+        "word": "歌手终于炒出新菜了",
+        "onboard_time": 1748528422,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236131,
+        "num": 248289,
+        "word": "歌手第三期音源",
+        "onboard_time": 1748523321,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55483,
+        "num": 247667,
+        "word": "武汉54层江景房违建楼上楼已拆除",
+        "onboard_time": 1748529321,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192308,
+        "num": 247470,
+        "word": "甘孜文旅局回应朱迅景区救人",
+        "onboard_time": 1748527763,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247246,
+        "num": 247246,
+        "word": "孙颖莎最新专访完整版视频",
+        "onboard_time": 1748529622,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233244,
+        "num": 233244,
+        "word": "老师 这边给您补偿5元您看可以吗",
+        "onboard_time": 1748503222,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213322,
+        "num": 213322,
+        "word": "魏渠断臂",
+        "onboard_time": 1748520321,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149650,
+        "num": 209264,
+        "word": "曾之乔辰亦儒排班照顾儿子",
+        "onboard_time": 1748524762,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206145,
+        "num": 206145,
+        "word": "王安宇拍的刘浩存",
+        "onboard_time": 1748515581,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197308,
+        "num": 197308,
+        "word": "蔡徐坤新歌MV",
+        "onboard_time": 1748528903,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187967,
+        "num": 187967,
+        "word": "虞书欣这是凌妙妙返场吗",
+        "onboard_time": 1748521701,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47021,
+        "num": 184798,
+        "word": "当年最差一届的学生被请回去了",
+        "onboard_time": 1748522601,
+        "rank": 28,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 23734,
+        "num": 182312,
+        "word": "特朗普下教育逐客令能拿捏美高校吗",
+        "onboard_time": 1748529502,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182032,
+        "num": 182032,
+        "word": "演员孙菲菲回应整容失败",
+        "onboard_time": 1748511741,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174822,
+        "num": 174822,
+        "word": "曾之乔回应二胎",
+        "onboard_time": 1748529443,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171234,
+        "num": 171234,
+        "word": "月经是身体的晴雨表",
+        "onboard_time": 1748515401,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167663,
+        "num": 167663,
+        "word": "刘端端靠演技打了一场翻身仗",
+        "onboard_time": 1748526741,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152029,
+        "num": 152029,
+        "word": "邓科 折腰",
+        "onboard_time": 1748529383,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135777,
+        "num": 135777,
+        "word": "因工作受挫女子每月花780元抱树放松",
+        "onboard_time": 1748529083,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127044,
+        "num": 127044,
+        "word": "魏劭在引诱",
+        "onboard_time": 1748521341,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126841,
+        "num": 126841,
+        "word": "男子半小时盲切百斤牛杂老板称1人能顶仨",
+        "onboard_time": 1748527941,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81888,
+        "num": 122715,
+        "word": "万达已出售近五分之一的万达广场",
+        "onboard_time": 1748527823,
+        "rank": 38,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 2781,
+        "num": 120336,
+        "word": "AI教你以旧换新要注意什么",
+        "onboard_time": 1748526861,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119664,
+        "num": 119664,
+        "word": "独子失联30年父母离世后想继承遗产",
+        "onboard_time": 1748513960,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119521,
+        "num": 119521,
+        "word": "曹公公社会摇",
+        "onboard_time": 1748527222,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119059,
+        "num": 119059,
+        "word": "赵丽颖尹昉求婚戏封神",
+        "onboard_time": 1748519540,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29081,
+        "num": 117416,
+        "word": "记者暗访神药骗局黑色产业链",
+        "onboard_time": 1748529802,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 116474,
+        "num": 116474,
+        "word": "丁禹兮旁白雪豹纪录片",
+        "onboard_time": 1748513420,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114093,
+        "num": 114093,
+        "word": "法网",
+        "onboard_time": 1748528903,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82058,
+        "num": 114018,
+        "word": "罗意威活动明星状态",
+        "onboard_time": 1748524522,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 113983,
+        "num": 113983,
+        "word": "孙颖莎说和王楚钦目标一致",
+        "onboard_time": 1748512520,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113184,
+        "num": 113184,
+        "word": "韩国发生飞机坠毁事件",
+        "onboard_time": 1748496022,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109506,
+        "num": 109506,
+        "word": "郑钦文对手世界排名狂升",
+        "onboard_time": 1748526861,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励科技工作者的暖心瞬间#"
+    }
+  }
+}
