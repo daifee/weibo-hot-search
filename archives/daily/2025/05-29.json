@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748523087225,
+  "endTime": 1748524004815,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -139,20 +139,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1008372,
+      "num": 1008372,
+      "word": "40万黄金被女子当垃圾丢了",
+      "onboard_time": 1748519301,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 991835,
       "num": 1158693,
       "word": "演员孙菲菲回应整容失败",
       "onboard_time": 1748511741,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 895518,
-      "num": 895518,
-      "word": "40万黄金被女子当垃圾丢了",
-      "onboard_time": 1748519301,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 873913,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 817604,
+      "num": 817604,
+      "word": "藏海传广告",
+      "onboard_time": 1748521162,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 804252,
       "num": 592010,
       "word": "魏梁结局",
@@ -233,14 +241,6 @@
       "onboard_time": 1748497821,
       "rank": 5,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 745349,
-      "num": 745349,
-      "word": "藏海传广告",
-      "onboard_time": 1748521162,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 744677,
@@ -361,6 +361,14 @@
       "onboard_time": 1748433621,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 599987,
+      "num": 599987,
+      "word": "蔡明不认识虞书欣",
+      "onboard_time": 1748522061,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 597212,
@@ -547,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406949,
+      "num": 348945,
+      "word": "赵丽颖尹昉求婚戏封神",
+      "onboard_time": 1748519540,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404661,
       "num": 750518,
       "word": "藏海第一个大仇得报",
@@ -555,20 +571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395137,
+      "num": 395137,
+      "word": "虞丕杰民间借贷纠纷案开庭因故取消",
+      "onboard_time": 1748519241,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 394913,
       "num": 441387,
       "word": "家门口被害者母亲回应凶手父母道歉信",
       "onboard_time": 1748483601,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 391276,
-      "num": 337473,
-      "word": "蔡明不认识虞书欣",
-      "onboard_time": 1748522061,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 387338,
@@ -667,7 +683,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 350717,
+      "raw_hot": 351467,
       "num": 310877,
       "word": "魏渠断臂",
       "onboard_time": 1748520321,
@@ -691,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343420,
+      "num": 300467,
+      "word": "终于知道为什么挂不上专家号了",
+      "onboard_time": 1748522841,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 343265,
       "num": 343265,
       "word": "荣耀李健",
@@ -707,20 +731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 338411,
-      "num": 338411,
-      "word": "虞丕杰民间借贷纠纷案开庭因故取消",
-      "onboard_time": 1748519241,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337816,
-      "num": 308081,
-      "word": "赵丽颖尹昉求婚戏封神",
-      "onboard_time": 1748519540,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 338462,
+      "num": 297804,
+      "word": "虞书欣这是凌妙妙返场吗",
+      "onboard_time": 1748521701,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 334477,
@@ -835,12 +851,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293937,
-      "num": 293937,
-      "word": "虞书欣这是凌妙妙返场吗",
-      "onboard_time": 1748521701,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 293900,
+      "num": 293900,
+      "word": "歌手第三期音源",
+      "onboard_time": 1748523321,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 292800,
@@ -867,12 +883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279848,
+      "num": 279848,
+      "word": "人生就是壮壮妈",
+      "onboard_time": 1748522481,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279579,
       "num": 207453,
       "word": "肖战演技",
       "onboard_time": 1748443942,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 277068,
+      "num": 277068,
+      "word": "优酷 庄大",
+      "onboard_time": 1748523141,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 267803,
@@ -905,6 +937,14 @@
       "onboard_time": 1748481981,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 260495,
+      "num": 299945,
+      "word": "表兄回来为蛮蛮一劭撑腰",
+      "onboard_time": 1748521401,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 258281,
@@ -1115,12 +1155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214690,
+      "num": 214690,
+      "word": "孙颖莎说和王楚钦目标一致",
+      "onboard_time": 1748512520,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213215,
       "num": 213215,
       "word": "王曼昱好帅",
       "onboard_time": 1748503100,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213026,
+      "num": 213026,
+      "word": "53岁男子诱骗近百名中小学女生被判刑",
+      "onboard_time": 1748522841,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212953,
@@ -1219,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202680,
+      "num": 202680,
+      "word": "赵奕欢谁能捧捧我的经纪人",
+      "onboard_time": 1748522902,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202512,
       "num": 202512,
       "word": "朱志鑫苏新皓加速王",
@@ -1305,14 +1369,6 @@
       "onboard_time": 1748506342,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 197888,
-      "num": 197888,
-      "word": "孙颖莎说和王楚钦目标一致",
-      "onboard_time": 1748512520,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 197883,
@@ -1443,14 +1499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187067,
-      "num": 299945,
-      "word": "表兄回来为蛮蛮一劭撑腰",
-      "onboard_time": 1748521401,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186023,
       "num": 179091,
       "word": "当我开始模仿喜欢的明星",
@@ -1515,20 +1563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181208,
-      "num": 181208,
-      "word": "人生就是壮壮妈",
-      "onboard_time": 1748522481,
+      "raw_hot": 180158,
+      "num": 180158,
+      "word": "labubu",
+      "onboard_time": 1748521042,
       "rank": 32,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 177587,
-      "num": 177587,
-      "word": "终于知道为什么挂不上专家号了",
-      "onboard_time": 1748522841,
-      "rank": 33,
-      "category": "幽默"
+      "category": "时尚"
     },
     {
       "raw_hot": 177532,
@@ -1625,6 +1665,14 @@
       "onboard_time": 1748506820,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169092,
+      "num": 169092,
+      "word": "国防部回应美称中国演练收复台湾",
+      "onboard_time": 1748523083,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168185,
@@ -1755,6 +1803,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161468,
+      "num": 161468,
+      "word": "顺丰寄丢价值5万手镯仅赔67元",
+      "onboard_time": 1748523621,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160616,
+      "num": 160616,
+      "word": "当年最差一届的学生被请回去了",
+      "onboard_time": 1748522601,
+      "rank": 42,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 159427,
       "num": 473756,
       "word": "美国切断部分对华半导体技术出口",
@@ -1819,12 +1883,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157084,
-      "num": 157084,
-      "word": "赵奕欢谁能捧捧我的经纪人",
+      "raw_hot": 157152,
+      "num": 157152,
+      "word": "三甲医院护士转行演短剧",
       "onboard_time": 1748522902,
-      "rank": 41,
-      "category": "艺人"
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156770,
@@ -2035,14 +2099,6 @@
       "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 144714,
-      "num": 144714,
-      "word": "当年最差一届的学生被请回去了",
-      "onboard_time": 1748522601,
-      "rank": 42,
-      "category": "幽默,民生新闻"
-    },
-    {
       "raw_hot": 144327,
       "num": 144327,
       "word": "各种肤质应该多久敷一次面膜",
@@ -2105,22 +2161,6 @@
       "onboard_time": 1748518460,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142216,
-      "num": 142216,
-      "word": "53岁男子诱骗近百名中小学女生被判刑",
-      "onboard_time": 1748522841,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141790,
-      "num": 141790,
-      "word": "三甲医院护士转行演短剧",
-      "onboard_time": 1748522902,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141617,
@@ -2260,7 +2300,7 @@
     },
     {
       "raw_hot": 134437,
-      "num": 134437,
+      "num": 171606,
       "word": "魏劭在引诱",
       "onboard_time": 1748521341,
       "rank": 49,
@@ -2323,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129477,
+      "num": 129477,
+      "word": "去医院看病要排队很久的原因",
+      "onboard_time": 1748523921,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129356,
       "num": 178891,
       "word": "法院回应弄错被告致同姓名男子被执行",
@@ -2337,6 +2385,14 @@
       "onboard_time": 1748508801,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129313,
+      "num": 129313,
+      "word": "藏海传",
+      "onboard_time": 1748523921,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 128683,
@@ -2555,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111897,
+      "num": 302910,
+      "word": "公职人员因组业委会解聘物业被举报",
+      "onboard_time": 1748523260,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110190,
       "num": 110190,
       "word": "王安宇新剧在猎了在猎了",
@@ -2699,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97335,
+      "num": 287253,
+      "word": "最好的情绪价值是什么",
+      "onboard_time": 1748522601,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97260,
       "num": 263949,
       "word": "TTG",
@@ -2745,6 +2817,14 @@
       "onboard_time": 1748431102,
       "rank": 48,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 94268,
+      "num": 324248,
+      "word": "外交部回应美无理取消中国留学生签证",
+      "onboard_time": 1748522301,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93810,
@@ -3067,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59213,
+      "num": 175799,
+      "word": "孙颖莎再谈巴黎奥运失利",
+      "onboard_time": 1748523321,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58644,
       "num": 58644,
       "word": "谁能把张小婉电池扣了",
@@ -3259,14 +3347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40099,
-      "num": 324248,
-      "word": "外交部回应美无理取消中国留学生签证",
-      "onboard_time": 1748522301,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 38109,
       "num": 147441,
       "word": "你见过白色蛋黄的鸡蛋吗",
@@ -3299,12 +3379,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35650,
+      "num": 213291,
+      "word": "乱补钙会有哪些风险",
+      "onboard_time": 1748523382,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 35488,
       "num": 305490,
       "word": "闭目养神对睡觉有用吗",
       "onboard_time": 1748491882,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 34731,
+      "num": 170396,
+      "word": "不会包粽子的进",
+      "onboard_time": 1748522301,
+      "rank": 38,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 31563,
@@ -3355,6 +3451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 29347,
+      "num": 213131,
+      "word": "女性更易患肠易激综合征",
+      "onboard_time": 1748523021,
+      "rank": 34,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 28651,
       "num": 219414,
       "word": "高速系鞋带的方法是什么",
@@ -3401,14 +3505,6 @@
       "onboard_time": 1748488460,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 25240,
-      "num": 174040,
-      "word": "女性更易患肠易激综合征",
-      "onboard_time": 1748523021,
-      "rank": 34,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 24504,
@@ -3467,20 +3563,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 22178,
+      "num": 213567,
+      "word": "湖南溶洞被排污事件后续",
+      "onboard_time": 1748523801,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21885,
       "num": 294116,
       "word": "盲肠炎和阑尾炎是一回事吗",
       "onboard_time": 1748513180,
       "rank": 29,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 21593,
-      "num": 159915,
-      "word": "不会包粽子的进",
-      "onboard_time": 1748522301,
-      "rank": 38,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 21513,
@@ -3731,19 +3827,19 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 8229,
+      "num": 884995,
+      "word": "万千气象看四川",
+      "onboard_time": 1748272763,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7841,
       "num": 168446,
       "word": "莫名收到多个验证码是怎么回事",
       "onboard_time": 1748518581,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6433,
-      "num": 776855,
-      "word": "万千气象看四川",
-      "onboard_time": 1748272763,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],
