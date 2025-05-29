@@ -1,0 +1,410 @@
+{
+  "runTime": 1748528744263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2386932,
+        "num": 2386932,
+        "word": "美团 回收券",
+        "onboard_time": 1748526802,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2094586,
+        "num": 2094586,
+        "word": "顺丰寄丢价值5万手镯仅赔67元",
+        "onboard_time": 1748523621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30580,
+        "num": 951085,
+        "word": "让精彩民俗游持续助燃文旅消费热",
+        "onboard_time": 1748526683,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 880915,
+        "num": 880915,
+        "word": "优酷 庄大",
+        "onboard_time": 1748523141,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 677414,
+        "num": 677414,
+        "word": "蔡明不认识虞书欣",
+        "onboard_time": 1748522061,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666180,
+        "num": 666180,
+        "word": "泡泡玛特暂停Labubu在英销售",
+        "onboard_time": 1748517140,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 650202,
+        "num": 650202,
+        "word": "王楚钦 面对面",
+        "onboard_time": 1748524042,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516402,
+        "num": 516402,
+        "word": "40万黄金被女子当垃圾丢了",
+        "onboard_time": 1748519301,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443093,
+        "num": 443093,
+        "word": "藏海传火遍全球",
+        "onboard_time": 1748525241,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377300,
+        "num": 377300,
+        "word": "陈震 YYP",
+        "onboard_time": 1748525723,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1088754,
+        "num": 368271,
+        "word": "大乔死了",
+        "onboard_time": 1748517140,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 842820,
+        "num": 361657,
+        "word": "人生就是壮壮妈",
+        "onboard_time": 1748522481,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 797401,
+        "num": 359985,
+        "word": "王力宏的哥哥王力德血癌科研",
+        "onboard_time": 1748521519,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353865,
+        "num": 353865,
+        "word": "国防部回应美称中国演练收复台湾",
+        "onboard_time": 1748523083,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76625,
+        "num": 349344,
+        "word": "万达已出售近五分之一的万达广场",
+        "onboard_time": 1748527823,
+        "rank": 14,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 345415,
+        "num": 345415,
+        "word": "歌手第三期音源",
+        "onboard_time": 1748523321,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340987,
+        "num": 340987,
+        "word": "藏海传广告",
+        "onboard_time": 1748521162,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318828,
+        "num": 318828,
+        "word": "吴艳妮亚锦赛铜牌",
+        "onboard_time": 1748527763,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234414,
+        "num": 234414,
+        "word": "魏渠断臂",
+        "onboard_time": 1748520321,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46189,
+        "num": 225092,
+        "word": "今年考大学进名校的竞争会变小吗",
+        "onboard_time": 1748527581,
+        "rank": 19,
+        "category": "教育,议题讨论"
+      },
+      {
+        "raw_hot": 316773,
+        "num": 225085,
+        "word": "老师 这边给您补偿5元您看可以吗",
+        "onboard_time": 1748503222,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220174,
+        "num": 220174,
+        "word": "虞书欣这是凌妙妙返场吗",
+        "onboard_time": 1748521701,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206165,
+        "num": 206165,
+        "word": "刘端端靠演技打了一场翻身仗",
+        "onboard_time": 1748526741,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109254,
+        "num": 191083,
+        "word": "罗意威活动明星状态",
+        "onboard_time": 1748524522,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 186354,
+        "num": 186354,
+        "word": "甘孜文旅局回应朱迅景区救人",
+        "onboard_time": 1748527763,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181610,
+        "num": 181610,
+        "word": "演员孙菲菲回应整容失败",
+        "onboard_time": 1748511741,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180131,
+        "num": 180131,
+        "word": "王安宇拍的刘浩存",
+        "onboard_time": 1748515581,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179176,
+        "num": 179176,
+        "word": "月经是身体的晴雨表",
+        "onboard_time": 1748515401,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87276,
+        "num": 163238,
+        "word": "主持人朱迅景区救助高反女游客",
+        "onboard_time": 1748526622,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91116,
+        "num": 160102,
+        "word": "高价请老师花钱买节目校园演出外包",
+        "onboard_time": 1748527581,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158509,
+        "num": 158509,
+        "word": "曾之乔辰亦儒排班照顾儿子",
+        "onboard_time": 1748524762,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150684,
+        "num": 150684,
+        "word": "赵丽颖尹昉求婚戏封神",
+        "onboard_time": 1748519540,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147806,
+        "num": 147806,
+        "word": "独子失联30年父母离世后想继承遗产",
+        "onboard_time": 1748513960,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144888,
+        "num": 144888,
+        "word": "魏劭在引诱",
+        "onboard_time": 1748521341,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138038,
+        "num": 138038,
+        "word": "林一借车借到婚车了",
+        "onboard_time": 1748525181,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134708,
+        "num": 134708,
+        "word": "郑钦文对手世界排名狂升",
+        "onboard_time": 1748526861,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134602,
+        "num": 134602,
+        "word": "孙颖莎说和王楚钦目标一致",
+        "onboard_time": 1748512520,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130664,
+        "num": 130664,
+        "word": "曹公公社会摇",
+        "onboard_time": 1748527222,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4666,
+        "num": 129472,
+        "word": "AI教你以旧换新要注意什么",
+        "onboard_time": 1748526861,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128774,
+        "num": 128774,
+        "word": "歌手终于炒出新菜了",
+        "onboard_time": 1748528422,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121514,
+        "num": 121514,
+        "word": "53岁男子诱骗近百名中小学女生被判刑",
+        "onboard_time": 1748522841,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112699,
+        "num": 112699,
+        "word": "丁禹兮旁白雪豹纪录片",
+        "onboard_time": 1748513420,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111420,
+        "num": 111420,
+        "word": "公职人员因组业委会解聘物业被举报",
+        "onboard_time": 1748523260,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109876,
+        "num": 109876,
+        "word": "韩国发生飞机坠毁事件",
+        "onboard_time": 1748496022,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106529,
+        "num": 106529,
+        "word": "男子半小时盲切百斤牛杂老板称1人能顶仨",
+        "onboard_time": 1748527941,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104312,
+        "num": 104312,
+        "word": "男子冒充初中生诱骗近百名中小学女生",
+        "onboard_time": 1748527222,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104041,
+        "num": 104041,
+        "word": "孙千 我爱假小朵",
+        "onboard_time": 1748521821,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99961,
+        "num": 99961,
+        "word": "儿子打死父亲后母亲欲顶罪母子被判刑",
+        "onboard_time": 1748528303,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97273,
+        "num": 97273,
+        "word": "惠英红发了三张和杨幂的合照",
+        "onboard_time": 1748528662,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 95583,
+        "num": 95583,
+        "word": "耶罗回应C罗续约",
+        "onboard_time": 1748528722,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励科技工作者的暖心瞬间#"
+    }
+  }
+}

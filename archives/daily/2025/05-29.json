@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748526405810,
+  "endTime": 1748528744263,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -17,6 +17,22 @@
       "onboard_time": 1748496380,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 2386932,
+      "num": 2386932,
+      "word": "美团 回收券",
+      "onboard_time": 1748526802,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 2094586,
+      "num": 2094586,
+      "word": "顺丰寄丢价值5万手镯仅赔67元",
+      "onboard_time": 1748523621,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2003488,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1823075,
-      "num": 321570,
+      "num": 368271,
       "word": "大乔死了",
       "onboard_time": 1748517140,
       "rank": 12,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1400016,
-      "num": 320363,
+      "num": 359985,
       "word": "王力宏的哥哥王力德血癌科研",
       "onboard_time": 1748521519,
       "rank": 11,
@@ -131,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1034363,
-      "num": 1165498,
-      "word": "顺丰寄丢价值5万手镯仅赔67元",
-      "onboard_time": 1748523621,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1031163,
       "num": 465745,
       "word": "老师 这边给您补偿5元您看可以吗",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 994445,
-      "num": 279848,
+      "num": 361657,
       "word": "人生就是壮壮妈",
       "onboard_time": 1748522481,
       "rank": 32,
@@ -169,6 +177,14 @@
       "onboard_time": 1748511741,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 880915,
+      "num": 880915,
+      "word": "优酷 庄大",
+      "onboard_time": 1748523141,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 873913,
@@ -209,14 +225,6 @@
       "onboard_time": 1748494103,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 833103,
-      "num": 833103,
-      "word": "优酷 庄大",
-      "onboard_time": 1748523141,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 817604,
@@ -339,6 +347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 677414,
+      "num": 677414,
+      "word": "蔡明不认识虞书欣",
+      "onboard_time": 1748522061,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 649123,
       "num": 438194,
       "word": "邱贻可谈孙颖莎巴黎奥运会丢冠",
@@ -368,14 +384,6 @@
       "word": "歌手歌单",
       "onboard_time": 1748443824,
       "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 619806,
-      "num": 619806,
-      "word": "蔡明不认识虞书欣",
-      "onboard_time": 1748522061,
-      "rank": 6,
       "category": "综艺"
     },
     {
@@ -504,6 +512,14 @@
       "word": "还珠格格短剧",
       "onboard_time": 1748490680,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 443093,
+      "num": 443093,
+      "word": "藏海传火遍全球",
+      "onboard_time": 1748525241,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -675,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377300,
+      "num": 377300,
+      "word": "陈震 YYP",
+      "onboard_time": 1748525723,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 370385,
       "num": 393565,
       "word": "刘浩存顶着一张素颜演酷妹",
@@ -721,6 +745,14 @@
       "onboard_time": 1748503941,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353865,
+      "num": 353865,
+      "word": "国防部回应美称中国演练收复台湾",
+      "onboard_time": 1748523083,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 352162,
@@ -827,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 318828,
+      "num": 318828,
+      "word": "吴艳妮亚锦赛铜牌",
+      "onboard_time": 1748527763,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316712,
       "num": 316712,
       "word": "济南一商铺发生火灾1人失联",
@@ -904,14 +944,6 @@
       "word": "折腰编剧你出来",
       "onboard_time": 1748518161,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 284369,
-      "num": 220080,
-      "word": "藏海传火遍全球",
-      "onboard_time": 1748525241,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1259,6 +1291,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 206165,
+      "num": 206165,
+      "word": "刘端端靠演技打了一场翻身仗",
+      "onboard_time": 1748526741,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206030,
       "num": 206030,
       "word": "孙颖莎说大满贯的梦想还在",
@@ -1467,14 +1507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 190851,
-      "num": 190851,
-      "word": "陈震 YYP",
-      "onboard_time": 1748525723,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 189913,
       "num": 189913,
       "word": "画江湖之不良人",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1748510061,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186354,
+      "num": 186354,
+      "word": "甘孜文旅局回应朱迅景区救人",
+      "onboard_time": 1748527763,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186023,
@@ -1721,14 +1761,6 @@
       "onboard_time": 1748506820,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169092,
-      "num": 206780,
-      "word": "国防部回应美称中国演练收复台湾",
-      "onboard_time": 1748523083,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 168185,
@@ -2307,6 +2339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 138038,
+      "num": 158084,
+      "word": "林一借车借到婚车了",
+      "onboard_time": 1748525181,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137515,
       "num": 137515,
       "word": "森林狼vs雷霆",
@@ -2371,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134708,
+      "num": 134708,
+      "word": "郑钦文对手世界排名狂升",
+      "onboard_time": 1748526861,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132952,
       "num": 132952,
       "word": "王者荣耀",
@@ -2409,6 +2457,14 @@
       "onboard_time": 1748511502,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130664,
+      "num": 130664,
+      "word": "曹公公社会摇",
+      "onboard_time": 1748527222,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 130352,
@@ -2457,6 +2513,14 @@
       "onboard_time": 1748523921,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128774,
+      "num": 128774,
+      "word": "歌手终于炒出新菜了",
+      "onboard_time": 1748528422,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 128683,
@@ -2715,6 +2779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109254,
+      "num": 214457,
+      "word": "罗意威活动明星状态",
+      "onboard_time": 1748524522,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 109177,
       "num": 165798,
       "word": "海贼王1150话",
@@ -2745,6 +2817,14 @@
       "onboard_time": 1748448380,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106529,
+      "num": 106529,
+      "word": "男子半小时盲切百斤牛杂老板称1人能顶仨",
+      "onboard_time": 1748527941,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105960,
@@ -2795,6 +2875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104312,
+      "num": 104312,
+      "word": "男子冒充初中生诱骗近百名中小学女生",
+      "onboard_time": 1748527222,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104309,
       "num": 104309,
       "word": "卫生巾 妇科感染",
@@ -2835,20 +2923,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 100541,
-      "num": 214457,
-      "word": "罗意威活动明星状态",
-      "onboard_time": 1748524522,
-      "rank": 17,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 100230,
       "num": 263649,
       "word": "京东618请你看演唱会",
       "onboard_time": 1748495122,
       "rank": 27,
       "category": "演出,互联网"
+    },
+    {
+      "raw_hot": 99961,
+      "num": 99961,
+      "word": "儿子打死父亲后母亲欲顶罪母子被判刑",
+      "onboard_time": 1748528303,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99542,
@@ -2865,6 +2953,14 @@
       "onboard_time": 1748522601,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97273,
+      "num": 97273,
+      "word": "惠英红发了三张和杨幂的合照",
+      "onboard_time": 1748528662,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 97260,
@@ -2889,6 +2985,14 @@
       "onboard_time": 1748480902,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95583,
+      "num": 95583,
+      "word": "耶罗回应C罗续约",
+      "onboard_time": 1748528722,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95424,
@@ -2971,6 +3075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91116,
+      "num": 160102,
+      "word": "高价请老师花钱买节目校园演出外包",
+      "onboard_time": 1748527581,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87508,
       "num": 87508,
       "word": "荣耀回应新机国内外配置差距",
@@ -2985,6 +3097,14 @@
       "onboard_time": 1748492961,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87276,
+      "num": 163238,
+      "word": "主持人朱迅景区救助高反女游客",
+      "onboard_time": 1748526622,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83436,
@@ -3067,6 +3187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76625,
+      "num": 349344,
+      "word": "万达已出售近五分之一的万达广场",
+      "onboard_time": 1748527823,
+      "rank": 14,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 76394,
       "num": 330473,
       "word": "拉肚子会是肠炎的前兆吗",
@@ -3081,14 +3209,6 @@
       "onboard_time": 1748496142,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 74498,
-      "num": 158084,
-      "word": "林一借车借到婚车了",
-      "onboard_time": 1748525181,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 74270,
@@ -3427,6 +3547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46189,
+      "num": 225092,
+      "word": "今年考大学进名校的竞争会变小吗",
+      "onboard_time": 1748527581,
+      "rank": 19,
+      "category": "教育,议题讨论"
+    },
+    {
       "raw_hot": 43940,
       "num": 134924,
       "word": "吃辣可以抗衰老吗",
@@ -3569,6 +3697,14 @@
       "onboard_time": 1748507181,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 30580,
+      "num": 951085,
+      "word": "让精彩民俗游持续助燃文旅消费热",
+      "onboard_time": 1748526683,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30438,
@@ -4009,6 +4145,14 @@
       "onboard_time": 1748518581,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4666,
+      "num": 129472,
+      "word": "AI教你以旧换新要注意什么",
+      "onboard_time": 1748526861,
+      "rank": 38,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
