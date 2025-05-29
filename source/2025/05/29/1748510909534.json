@@ -1,0 +1,410 @@
+{
+  "runTime": 1748510909534,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 911374,
+        "num": 1145819,
+        "word": "韩国发生飞机坠毁事件",
+        "onboard_time": 1748496022,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 554167,
+        "num": 554167,
+        "word": "抚养3弟妹的05后女生有了五险一金",
+        "onboard_time": 1748506041,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 71250,
+        "num": 545294,
+        "word": "我国新一代人造太阳再创纪录",
+        "onboard_time": 1748506701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543887,
+        "num": 543887,
+        "word": "央视曝洞庭湖禁捕区犹如垂钓场",
+        "onboard_time": 1748503882,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 510834,
+        "num": 510834,
+        "word": "韩国生育率上升",
+        "onboard_time": 1748503222,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 481744,
+        "num": 481744,
+        "word": "特朗普亲口承认高关税是谈判策略",
+        "onboard_time": 1748507241,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 468030,
+        "num": 468030,
+        "word": "6人为钓大鱼竟操控无人艇进保护区",
+        "onboard_time": 1748505562,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302970,
+        "num": 467958,
+        "word": "姬伯伯为肖战才演藏海传",
+        "onboard_time": 1748503941,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300463,
+        "num": 466932,
+        "word": "虞书欣晒照庆祝来微博第10年",
+        "onboard_time": 1748506220,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257538,
+        "num": 466681,
+        "word": "国防部回应歼10CE首次取得实战战果",
+        "onboard_time": 1748509641,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1031163,
+        "num": 465745,
+        "word": "老师 这边给您补偿5元您看可以吗",
+        "onboard_time": 1748503222,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 889110,
+        "num": 465284,
+        "word": "因跟谁姓离婚父亲要求均分孩子",
+        "onboard_time": 1748504723,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465069,
+        "num": 465069,
+        "word": "iPhone17ProMax最新机模",
+        "onboard_time": 1748481199,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245246,
+        "num": 459792,
+        "word": "赵丽颖 每一天可能都是第一次见",
+        "onboard_time": 1748504541,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187270,
+        "num": 447112,
+        "word": "莫名收到20多条验证码隔天6万没了",
+        "onboard_time": 1748509940,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649123,
+        "num": 438194,
+        "word": "邱贻可谈孙颖莎巴黎奥运会丢冠",
+        "onboard_time": 1748507721,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217719,
+        "num": 421130,
+        "word": "方圆林志玲美女旁边还是美女",
+        "onboard_time": 1748509400,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24504,
+        "num": 406801,
+        "word": "新一轮大范围降水已预定端午假期",
+        "onboard_time": 1748509940,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55985,
+        "num": 399660,
+        "word": "金价下调当下是否适合入手",
+        "onboard_time": 1748509940,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40939,
+        "num": 384086,
+        "word": "无法毕业的大龄医学博士",
+        "onboard_time": 1748510302,
+        "rank": 19,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 605711,
+        "num": 372658,
+        "word": "金晨变化好大",
+        "onboard_time": 1748497403,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361981,
+        "num": 361981,
+        "word": "一架飞机在韩国东南部城市浦项坠毁",
+        "onboard_time": 1748503762,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227111,
+        "num": 347789,
+        "word": "白鹿丞磊 莫离",
+        "onboard_time": 1748506520,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340564,
+        "num": 340564,
+        "word": "韩女团成员穿衣被政治解读引争议",
+        "onboard_time": 1748492602,
+        "rank": 23,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 335275,
+        "num": 335275,
+        "word": "张凌赫王安宇 江浙沪长相",
+        "onboard_time": 1748495783,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306744,
+        "num": 306744,
+        "word": "今朝cp求婚了",
+        "onboard_time": 1748509641,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188278,
+        "num": 188278,
+        "word": "刘浩存王安宇不像剧宣像真的",
+        "onboard_time": 1748510061,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173973,
+        "num": 173973,
+        "word": "赵丽颖演戏从不依赖安全牌",
+        "onboard_time": 1748510242,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162816,
+        "num": 162816,
+        "word": "鹿晗厦门演唱会官宣",
+        "onboard_time": 1748504659,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20164,
+        "num": 162573,
+        "word": "闭目养神对恢复精力有用吗",
+        "onboard_time": 1748509881,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 19335,
+        "num": 162105,
+        "word": "声称进口水果产地却写中国大陆",
+        "onboard_time": 1748510721,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20271,
+        "num": 161313,
+        "word": "好大学和好专业哪个重要",
+        "onboard_time": 1748493083,
+        "rank": 31,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 9188,
+        "num": 161036,
+        "word": "网红捏捏乐有哪些健康隐患",
+        "onboard_time": 1748510841,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50413,
+        "num": 160514,
+        "word": "戴安娜王妃故居农舍被烧毁",
+        "onboard_time": 1748510841,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145903,
+        "num": 159670,
+        "word": "为什么每次团建后离职率都很高",
+        "onboard_time": 1748510121,
+        "rank": 34,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 186023,
+        "num": 159025,
+        "word": "当我开始模仿喜欢的明星",
+        "onboard_time": 1748510480,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74270,
+        "num": 158392,
+        "word": "虫zip谁敢解压",
+        "onboard_time": 1748510121,
+        "rank": 36,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 71456,
+        "num": 157679,
+        "word": "解放军保持时刻准备着的战斗姿态",
+        "onboard_time": 1748510781,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193617,
+        "num": 157463,
+        "word": "话剧演员转行做猫砂一年卖7个亿",
+        "onboard_time": 1748504541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191288,
+        "num": 157031,
+        "word": "男子连偷女友7个包销得11万元",
+        "onboard_time": 1748504601,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27601,
+        "num": 156166,
+        "word": "宋雨琦摩天轮大片",
+        "onboard_time": 1748508022,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181215,
+        "num": 155702,
+        "word": "刘浩存演现偶 大炮轰蚊子",
+        "onboard_time": 1748493982,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155337,
+        "num": 155337,
+        "word": "16岁的孙颖莎目标是非常优秀",
+        "onboard_time": 1748509580,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156477,
+        "num": 155189,
+        "word": "蔡卓宜简介上多了个儿子",
+        "onboard_time": 1748493801,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155038,
+        "num": 155038,
+        "word": "折腰太好看了",
+        "onboard_time": 1748510181,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13857,
+        "num": 153712,
+        "word": "天问二号给微博网友报平安",
+        "onboard_time": 1748508441,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152922,
+        "num": 152922,
+        "word": "SK说休赛2年导致掌控能力不足",
+        "onboard_time": 1748510361,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143763,
+        "num": 143763,
+        "word": "端午节三件事",
+        "onboard_time": 1748508620,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129342,
+        "num": 129342,
+        "word": "美国金穹系统将打开潘多拉魔盒",
+        "onboard_time": 1748508801,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126947,
+        "num": 126947,
+        "word": "孙颖莎说世乒赛前2轮最容易爆冷",
+        "onboard_time": 1748509820,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养中国特色社会主义事业合格建设者#"
+    }
+  }
+}
