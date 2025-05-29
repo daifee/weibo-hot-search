@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748551364402,
+  "endTime": 1748553878639,
   "band_list": [
     {
       "raw_hot": 973566,
@@ -435,6 +435,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 41948,
+      "num": 41948,
+      "word": "中方敦促美方彻底取消单边加征关税",
+      "onboard_time": 1748548934,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41189,
       "num": 41189,
       "word": "刘宇宁在折腰剧组说话插不上嘴",
@@ -483,11 +491,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24102,
-      "num": 24102,
-      "word": "中方敦促美方彻底取消单边加征关税",
-      "onboard_time": 1748548934,
-      "rank": 19,
+      "raw_hot": 23132,
+      "num": 33616,
+      "word": "国防部回应赖清德以备战来避战言论",
+      "onboard_time": 1748548754,
+      "rank": 34,
       "category": "国内时政"
     },
     {
@@ -531,6 +539,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 20733,
+      "num": 20733,
+      "word": "折腰 耳鬓厮磨具象化",
+      "onboard_time": 1748546833,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19680,
       "num": 21295,
       "word": "迪丽热巴精准命中你的心",
@@ -547,36 +563,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18857,
-      "num": 18857,
-      "word": "折腰 耳鬓厮磨具象化",
-      "onboard_time": 1748546833,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 16571,
-      "num": 33616,
-      "word": "国防部回应赖清德以备战来避战言论",
-      "onboard_time": 1748548754,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 17899,
+      "num": 17899,
+      "word": "外交部回应美国将吊销中国学生签证",
+      "onboard_time": 1748549174,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14569,
-      "num": 14569,
+      "num": 14923,
       "word": "济州航空",
       "onboard_time": 1748549954,
       "rank": 36,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14157,
-      "num": 14157,
-      "word": "外交部回应美国将吊销中国学生签证",
-      "onboard_time": 1748549174,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 14196,
+      "num": 14928,
+      "word": "官方回应高架疑车道减少致车辆高坠",
+      "onboard_time": 1748547914,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13492,
@@ -587,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12179,
-      "num": 13273,
-      "word": "官方回应高架疑车道减少致车辆高坠",
-      "onboard_time": 1748547914,
+      "raw_hot": 12465,
+      "num": 14916,
+      "word": "特朗普政府vs哈佛大学谁能赢",
+      "onboard_time": 1748552474,
       "rank": 47,
-      "category": "民生新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 11961,
@@ -619,7 +627,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 10660,
+      "raw_hot": 10722,
       "num": 120561,
       "word": "世界市长对话上海",
       "onboard_time": 1748525422,
