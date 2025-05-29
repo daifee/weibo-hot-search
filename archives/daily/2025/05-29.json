@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748493161034,
+  "endTime": 1748494039968,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 860853,
+      "num": 407378,
+      "word": "向佐发文感谢郭碧婷",
+      "onboard_time": 1748491341,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804011,
       "num": 953711,
       "word": "哈佛6700名在校生需转学或离境",
@@ -59,16 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 788838,
-      "num": 375083,
-      "word": "向佐发文感谢郭碧婷",
-      "onboard_time": 1748491341,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 727748,
-      "num": 727748,
+      "raw_hot": 767883,
+      "num": 767883,
       "word": "labubu 哪吒面相",
       "onboard_time": 1748490321,
       "rank": 4,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 637007,
-      "num": 359851,
+      "num": 399315,
       "word": "2岁男童在幼儿园午睡头卡护栏身亡",
       "onboard_time": 1748478923,
       "rank": 11,
@@ -163,11 +163,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 446824,
-      "num": 446824,
+      "raw_hot": 459376,
+      "num": 459376,
       "word": "还珠格格短剧",
       "onboard_time": 1748490680,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 432694,
+      "num": 432694,
+      "word": "杨紫国色芳华登小学语文课本",
+      "onboard_time": 1748491341,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -267,20 +275,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344295,
-      "num": 344295,
-      "word": "杨紫国色芳华登小学语文课本",
-      "onboard_time": 1748491341,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 343265,
       "num": 343265,
       "word": "荣耀李健",
       "onboard_time": 1748447242,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 337802,
+      "num": 337802,
+      "word": "刘浩存顶着一张素颜演酷妹",
+      "onboard_time": 1748490680,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 328651,
@@ -291,11 +299,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317173,
-      "num": 302391,
-      "word": "刘浩存顶着一张素颜演酷妹",
-      "onboard_time": 1748490680,
-      "rank": 20,
+      "raw_hot": 324030,
+      "num": 333604,
+      "word": "韩女团成员穿衣被政治解读引争议",
+      "onboard_time": 1748492602,
+      "rank": 43,
+      "category": "海外新闻,艺人"
+    },
+    {
+      "raw_hot": 317278,
+      "num": 317278,
+      "word": "藏海第一个大仇得报",
+      "onboard_time": 1748492060,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -305,6 +321,14 @@
       "onboard_time": 1748488102,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 301137,
+      "num": 301137,
+      "word": "WTT美国大满贯首批参赛名单",
+      "onboard_time": 1748492903,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 292800,
@@ -337,6 +361,14 @@
       "onboard_time": 1748479941,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265150,
+      "num": 265150,
+      "word": "惠英红 新浪找人给我拍的撕拉片",
+      "onboard_time": 1748492781,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 264866,
@@ -387,14 +419,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 235605,
-      "num": 235605,
-      "word": "藏海第一个大仇得报",
-      "onboard_time": 1748492060,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228531,
       "num": 287476,
       "word": "子夜归",
@@ -417,6 +441,14 @@
       "onboard_time": 1748489782,
       "rank": 31,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 217582,
+      "num": 217582,
+      "word": "美国大满贯",
+      "onboard_time": 1748493022,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 217317,
@@ -443,28 +475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213524,
-      "num": 176442,
-      "word": "WTT美国大满贯首批参赛名单",
-      "onboard_time": 1748492903,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212953,
       "num": 169211,
       "word": "赵今麦张云龙牛排上了快点说",
       "onboard_time": 1748449400,
       "rank": 19,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 212871,
-      "num": 212871,
-      "word": "惠英红 新浪找人给我拍的撕拉片",
-      "onboard_time": 1748492781,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 211865,
@@ -497,6 +513,14 @@
       "onboard_time": 1748445742,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201544,
+      "num": 201544,
+      "word": "王安宇好像杨超越的白磷",
+      "onboard_time": 1748493563,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 200219,
@@ -579,6 +603,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185461,
+      "num": 185461,
+      "word": "开始推理吧",
+      "onboard_time": 1748493142,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184333,
+      "num": 184333,
+      "word": "新能源汽车",
+      "onboard_time": 1748493022,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 183557,
       "num": 135706,
       "word": "马嘉祺歌手再唱你曾是少年",
@@ -603,20 +643,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 177021,
+      "num": 173342,
+      "word": "昨晚误会了一只小猫",
+      "onboard_time": 1748492663,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174847,
       "num": 174847,
       "word": "荔枝冷藏一下再吃不上火",
       "onboard_time": 1748477481,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 174525,
-      "num": 174525,
-      "word": "新能源汽车",
-      "onboard_time": 1748493022,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 171714,
@@ -627,20 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171359,
-      "num": 171359,
-      "word": "美国大满贯",
-      "onboard_time": 1748493022,
+      "raw_hot": 167231,
+      "num": 167231,
+      "word": "中山美穗儿子放弃遗产",
+      "onboard_time": 1748493322,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 169724,
-      "num": 169724,
-      "word": "韩女团成员穿衣被政治解读引争议",
-      "onboard_time": 1748492602,
-      "rank": 43,
-      "category": "海外新闻,艺人"
+      "category": "艺人"
     },
     {
       "raw_hot": 167178,
@@ -707,12 +739,12 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 153941,
-      "num": 153941,
-      "word": "开始推理吧",
-      "onboard_time": 1748493142,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 154367,
+      "num": 218611,
+      "word": "在人间2集下线3个NPC",
+      "onboard_time": 1748492840,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 153083,
@@ -731,11 +763,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151763,
-      "num": 151763,
-      "word": "在人间2集下线3个NPC",
-      "onboard_time": 1748492840,
-      "rank": 49,
+      "raw_hot": 148242,
+      "num": 148242,
+      "word": "刘浩存演现偶 大炮轰蚊子",
+      "onboard_time": 1748493982,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -745,6 +777,14 @@
       "onboard_time": 1748487981,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144956,
+      "num": 144956,
+      "word": "含有脂肪的蔬菜",
+      "onboard_time": 1748493862,
+      "rank": 45,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 143542,
@@ -769,6 +809,14 @@
       "onboard_time": 1748446281,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142391,
+      "num": 142391,
+      "word": "蔡卓宜简介上多了个儿子",
+      "onboard_time": 1748493801,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 141617,
@@ -819,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137111,
+      "num": 210903,
+      "word": "肖战回应人皮戏一镜到底",
+      "onboard_time": 1748492781,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136356,
       "num": 144154,
       "word": "马拉松冠军做高抬腿一分钟188个",
@@ -849,14 +905,6 @@
       "onboard_time": 1748488041,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132085,
-      "num": 210903,
-      "word": "肖战回应人皮戏一镜到底",
-      "onboard_time": 1748492781,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 130867,
@@ -929,6 +977,14 @@
       "onboard_time": 1748480600,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125206,
+      "num": 331084,
+      "word": "吴宗宪说刘畊宏帮了人又背黑锅",
+      "onboard_time": 1748493622,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 123899,
@@ -1035,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107131,
+      "num": 334717,
+      "word": "熊孩子闯入装修别墅搞破坏业主赠试卷",
+      "onboard_time": 1748492961,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105543,
       "num": 105543,
       "word": "曹德旺说福耀科大预算8亿招50人",
@@ -1060,7 +1124,7 @@
     },
     {
       "raw_hot": 104663,
-      "num": 307865,
+      "num": 330362,
       "word": "便利店阿姨哪见过这种场面",
       "onboard_time": 1748491582,
       "rank": 18,
@@ -1195,6 +1259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 87332,
+      "num": 411782,
+      "word": "特朗普说在为哈佛着想",
+      "onboard_time": 1748492961,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83425,
       "num": 202402,
       "word": "马斯克称身心俱疲",
@@ -1225,6 +1297,14 @@
       "onboard_time": 1748449220,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76394,
+      "num": 330473,
+      "word": "拉肚子会是肠炎的前兆吗",
+      "onboard_time": 1748492241,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 71596,
@@ -1260,19 +1340,11 @@
     },
     {
       "raw_hot": 64210,
-      "num": 207877,
+      "num": 238079,
       "word": "全英文遛娃是鸡娃焦虑吗",
       "onboard_time": 1748492961,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61561,
-      "num": 310692,
-      "word": "拉肚子会是肠炎的前兆吗",
-      "onboard_time": 1748492241,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 60816,
@@ -1363,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43792,
+      "num": 274290,
+      "word": "好大学和好专业哪个重要",
+      "onboard_time": 1748493083,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 43580,
       "num": 43580,
       "word": "BBC采访广东小伙被种草中国锅",
@@ -1371,12 +1451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43024,
-      "num": 209819,
-      "word": "特朗普说在为哈佛着想",
-      "onboard_time": 1748492961,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 42940,
+      "num": 236356,
+      "word": "怎样在租的房子中住出高级感",
+      "onboard_time": 1748493381,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 42799,
@@ -1385,22 +1465,6 @@
       "onboard_time": 1748473998,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42684,
-      "num": 195142,
-      "word": "熊孩子闯入装修别墅搞破坏业主赠试卷",
-      "onboard_time": 1748492961,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42028,
-      "num": 198919,
-      "word": "好大学和好专业哪个重要",
-      "onboard_time": 1748493083,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 37767,

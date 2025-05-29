@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748493161034,
+  "endTime": 1748494039968,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -995,6 +995,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 860853,
+      "num": 407378,
+      "word": "向佐发文感谢郭碧婷",
+      "onboard_time": 1748491341,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 856640,
       "num": 338287,
       "word": "王曼昱为救擦网球甩出球拍",
@@ -1203,14 +1211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 788838,
-      "num": 375083,
-      "word": "向佐发文感谢郭碧婷",
-      "onboard_time": 1748491341,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 788183,
       "num": 788183,
       "word": "鹤岗 小瑞士",
@@ -1273,6 +1273,14 @@
       "onboard_time": 1748270004,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 767883,
+      "num": 767883,
+      "word": "labubu 哪吒面相",
+      "onboard_time": 1748490321,
+      "rank": 4,
+      "category": "动漫"
     },
     {
       "raw_hot": 765571,
@@ -1425,14 +1433,6 @@
       "onboard_time": 1748338102,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 727748,
-      "num": 727748,
-      "word": "labubu 哪吒面相",
-      "onboard_time": 1748490321,
-      "rank": 4,
-      "category": "动漫"
     },
     {
       "raw_hot": 725519,
@@ -1716,7 +1716,7 @@
     },
     {
       "raw_hot": 637007,
-      "num": 359851,
+      "num": 399315,
       "word": "2岁男童在幼儿园午睡头卡护栏身亡",
       "onboard_time": 1748478923,
       "rank": 11,
@@ -2627,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459376,
+      "num": 459376,
+      "word": "还珠格格短剧",
+      "onboard_time": 1748490680,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456964,
       "num": 456964,
       "word": "北师大回应官网教师简介用动漫头像",
@@ -2665,14 +2673,6 @@
       "onboard_time": 1748249900,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 446824,
-      "num": 446824,
-      "word": "还珠格格短剧",
-      "onboard_time": 1748490680,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 446652,
@@ -2753,6 +2753,14 @@
       "onboard_time": 1748257583,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432694,
+      "num": 432694,
+      "word": "杨紫国色芳华登小学语文课本",
+      "onboard_time": 1748491341,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 432120,
@@ -3483,14 +3491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 344295,
-      "num": 344295,
-      "word": "杨紫国色芳华登小学语文课本",
-      "onboard_time": 1748491341,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 343289,
       "num": 460315,
       "word": "哈利波特",
@@ -3553,6 +3553,14 @@
       "onboard_time": 1748176043,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337802,
+      "num": 337802,
+      "word": "刘浩存顶着一张素颜演酷妹",
+      "onboard_time": 1748490680,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 336498,
@@ -3651,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324030,
+      "num": 333604,
+      "word": "韩女团成员穿衣被政治解读引争议",
+      "onboard_time": 1748492602,
+      "rank": 43,
+      "category": "海外新闻,艺人"
+    },
+    {
       "raw_hot": 323557,
       "num": 399827,
       "word": "HYBE向腾讯音乐出售SM股份",
@@ -3707,11 +3723,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 317173,
-      "num": 302391,
-      "word": "刘浩存顶着一张素颜演酷妹",
-      "onboard_time": 1748490680,
-      "rank": 20,
+      "raw_hot": 317278,
+      "num": 317278,
+      "word": "藏海第一个大仇得报",
+      "onboard_time": 1748492060,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -3889,6 +3905,14 @@
       "onboard_time": 1748093603,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301137,
+      "num": 301137,
+      "word": "WTT美国大满贯首批参赛名单",
+      "onboard_time": 1748492903,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 300905,
@@ -4353,6 +4377,14 @@
       "onboard_time": 1748230642,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 265150,
+      "num": 265150,
+      "word": "惠英红 新浪找人给我拍的撕拉片",
+      "onboard_time": 1748492781,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 264866,
@@ -4915,14 +4947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235605,
-      "num": 235605,
-      "word": "藏海第一个大仇得报",
-      "onboard_time": 1748492060,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235461,
       "num": 235461,
       "word": "老人舍不得拆女儿送的钱花发霉",
@@ -5267,6 +5291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217582,
+      "num": 217582,
+      "word": "美国大满贯",
+      "onboard_time": 1748493022,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217317,
       "num": 255990,
       "word": "加沙母亲抱着一动不动的孩子道歉",
@@ -5403,14 +5435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213524,
-      "num": 176442,
-      "word": "WTT美国大满贯首批参赛名单",
-      "onboard_time": 1748492903,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213455,
       "num": 223778,
       "word": "天塌了谈到了公司大佬姐",
@@ -5433,14 +5457,6 @@
       "onboard_time": 1748449400,
       "rank": 19,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 212871,
-      "num": 212871,
-      "word": "惠英红 新浪找人给我拍的撕拉片",
-      "onboard_time": 1748492781,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 211571,
@@ -5792,6 +5808,14 @@
       "word": "朱志鑫苏新皓加速王",
       "onboard_time": 1748488940,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201544,
+      "num": 201544,
+      "word": "王安宇好像杨超越的白磷",
+      "onboard_time": 1748493563,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -6779,6 +6803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185461,
+      "num": 185461,
+      "word": "开始推理吧",
+      "onboard_time": 1748493142,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185285,
       "num": 185285,
       "word": "全圆佑去看SEVENTEEN演出了",
@@ -6817,6 +6849,14 @@
       "onboard_time": 1748216181,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184333,
+      "num": 184333,
+      "word": "新能源汽车",
+      "onboard_time": 1748493022,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 184055,
@@ -7227,6 +7267,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 177021,
+      "num": 173342,
+      "word": "昨晚误会了一只小猫",
+      "onboard_time": 1748492663,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176983,
       "num": 176983,
       "word": "在人间八集五天播完",
@@ -7393,14 +7441,6 @@
       "onboard_time": 1748149461,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174525,
-      "num": 174525,
-      "word": "新能源汽车",
-      "onboard_time": 1748493022,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 174388,
@@ -7715,14 +7755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171359,
-      "num": 171359,
-      "word": "美国大满贯",
-      "onboard_time": 1748493022,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171088,
       "num": 171088,
       "word": "体重跟肠道也有关系吗",
@@ -7833,14 +7865,6 @@
       "onboard_time": 1748327723,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169724,
-      "num": 169724,
-      "word": "韩女团成员穿衣被政治解读引争议",
-      "onboard_time": 1748492602,
-      "rank": 43,
-      "category": "海外新闻,艺人"
     },
     {
       "raw_hot": 169693,
@@ -7985,6 +8009,14 @@
       "onboard_time": 1748358382,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167231,
+      "num": 167231,
+      "word": "中山美穗儿子放弃遗产",
+      "onboard_time": 1748493322,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 167178,
@@ -8867,6 +8899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154367,
+      "num": 218611,
+      "word": "在人间2集下线3个NPC",
+      "onboard_time": 1748492840,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154218,
       "num": 154218,
       "word": "尹净汉solo",
@@ -8897,14 +8937,6 @@
       "onboard_time": 1748231421,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153941,
-      "num": 153941,
-      "word": "开始推理吧",
-      "onboard_time": 1748493142,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 153924,
@@ -9041,14 +9073,6 @@
       "onboard_time": 1748310559,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151763,
-      "num": 151763,
-      "word": "在人间2集下线3个NPC",
-      "onboard_time": 1748492840,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 151762,
@@ -9233,6 +9257,14 @@
       "onboard_time": 1748314701,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148242,
+      "num": 148242,
+      "word": "刘浩存演现偶 大炮轰蚊子",
+      "onboard_time": 1748493982,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 148042,
@@ -9435,6 +9467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144956,
+      "num": 144956,
+      "word": "含有脂肪的蔬菜",
+      "onboard_time": 1748493862,
+      "rank": 45,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 144919,
       "num": 144919,
       "word": "孙颖莎比赛离不开伟大的对手",
@@ -9625,6 +9665,14 @@
       "onboard_time": 1748168480,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142391,
+      "num": 142391,
+      "word": "蔡卓宜简介上多了个儿子",
+      "onboard_time": 1748493801,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 141990,
@@ -10027,6 +10075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137111,
+      "num": 210903,
+      "word": "肖战回应人皮戏一镜到底",
+      "onboard_time": 1748492781,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137016,
       "num": 137016,
       "word": "狗 真是见了鬼了",
@@ -10385,14 +10441,6 @@
       "onboard_time": 1748255301,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 132085,
-      "num": 210903,
-      "word": "肖战回应人皮戏一镜到底",
-      "onboard_time": 1748492781,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 132079,
@@ -10897,6 +10945,14 @@
       "onboard_time": 1748309660,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125206,
+      "num": 331084,
+      "word": "吴宗宪说刘畊宏帮了人又背黑锅",
+      "onboard_time": 1748493622,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 124802,
@@ -11963,6 +12019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107131,
+      "num": 334717,
+      "word": "熊孩子闯入装修别墅搞破坏业主赠试卷",
+      "onboard_time": 1748492961,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106959,
       "num": 106959,
       "word": "这种剧不用去网飞看了",
@@ -12068,7 +12132,7 @@
     },
     {
       "raw_hot": 104663,
-      "num": 307865,
+      "num": 330362,
       "word": "便利店阿姨哪见过这种场面",
       "onboard_time": 1748491582,
       "rank": 18,
@@ -12843,6 +12907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 87332,
+      "num": 411782,
+      "word": "特朗普说在为哈佛着想",
+      "onboard_time": 1748492961,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87230,
       "num": 87230,
       "word": "全红婵的发夹好可爱",
@@ -13299,6 +13371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76394,
+      "num": 330473,
+      "word": "拉肚子会是肠炎的前兆吗",
+      "onboard_time": 1748492241,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 75912,
       "num": 281717,
       "word": "中国孩子收到来自太空的祝福",
@@ -13692,7 +13772,7 @@
     },
     {
       "raw_hot": 64210,
-      "num": 207877,
+      "num": 238079,
       "word": "全英文遛娃是鸡娃焦虑吗",
       "onboard_time": 1748492961,
       "rank": 27,
@@ -13857,14 +13937,6 @@
       "onboard_time": 1748153781,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 61561,
-      "num": 310692,
-      "word": "拉肚子会是肠炎的前兆吗",
-      "onboard_time": 1748492241,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 61426,
@@ -14795,6 +14867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43792,
+      "num": 274290,
+      "word": "好大学和好专业哪个重要",
+      "onboard_time": 1748493083,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 43779,
       "num": 171194,
       "word": "张家界溶洞被排污水",
@@ -14859,14 +14939,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43024,
-      "num": 209819,
-      "word": "特朗普说在为哈佛着想",
-      "onboard_time": 1748492961,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 42968,
       "num": 166778,
       "word": "当地回应女子遭母鹿攻击",
@@ -14875,20 +14947,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42940,
+      "num": 236356,
+      "word": "怎样在租的房子中住出高级感",
+      "onboard_time": 1748493381,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 42799,
       "num": 42799,
       "word": "林孝埈一起去米兰吧",
       "onboard_time": 1748473998,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42684,
-      "num": 195142,
-      "word": "熊孩子闯入装修别墅搞破坏业主赠试卷",
-      "onboard_time": 1748492961,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42524,
@@ -14929,14 +15001,6 @@
       "onboard_time": 1748144781,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42028,
-      "num": 198919,
-      "word": "好大学和好专业哪个重要",
-      "onboard_time": 1748493083,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 41909,
