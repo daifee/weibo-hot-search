@@ -1,0 +1,410 @@
+{
+  "runTime": 1748489577964,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1206960,
+        "num": 1206960,
+        "word": "高考人数8年首次降低释放什么信号",
+        "onboard_time": 1748485820,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1176757,
+        "num": 1176757,
+        "word": "iPhone17ProMax最新机模",
+        "onboard_time": 1748481199,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 60296,
+        "num": 925828,
+        "word": "公安机关将公开通缉台黑客",
+        "onboard_time": 1748478561,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804958,
+        "num": 804958,
+        "word": "马斯克宣布将离开特朗普政府",
+        "onboard_time": 1748480781,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 802982,
+        "num": 802982,
+        "word": "蜜丝婷 王楚钦",
+        "onboard_time": 1748486719,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557236,
+        "num": 557236,
+        "word": "汪顺撕拉片",
+        "onboard_time": 1748485280,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521955,
+        "num": 521955,
+        "word": "强闯我使馆的韩国男子被判刑",
+        "onboard_time": 1748486541,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448529,
+        "num": 448529,
+        "word": "苦尽柑来剧组被曝霸凌群演",
+        "onboard_time": 1748476041,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414694,
+        "num": 414694,
+        "word": "小乔怀孕傻的却是魏劭",
+        "onboard_time": 1748473937,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409674,
+        "num": 409674,
+        "word": "黄金",
+        "onboard_time": 1748484200,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 394913,
+        "num": 394913,
+        "word": "家门口被害者母亲回应凶手父母道歉信",
+        "onboard_time": 1748483601,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375241,
+        "num": 375241,
+        "word": "张婧仪用emoji回复肖战",
+        "onboard_time": 1748487801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359700,
+        "num": 359700,
+        "word": "102岁老人3楼坠落被众人稳稳接住",
+        "onboard_time": 1748442564,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 341974,
+        "num": 341974,
+        "word": "2岁男童在幼儿园午睡头卡护栏身亡",
+        "onboard_time": 1748478923,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264866,
+        "num": 264866,
+        "word": "雷霆晋级总决赛",
+        "onboard_time": 1748488041,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228531,
+        "num": 228531,
+        "word": "子夜归",
+        "onboard_time": 1748484560,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202512,
+        "num": 202512,
+        "word": "朱志鑫苏新皓加速王",
+        "onboard_time": 1748488940,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200833,
+        "num": 200833,
+        "word": "阿布扎比回应请刘亦菲做代言",
+        "onboard_time": 1748489001,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144489,
+        "num": 199379,
+        "word": "谁能拒绝淘宝西瓜免单",
+        "onboard_time": 1748488102,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25872,
+        "num": 198658,
+        "word": "肠道健康为什么如此重要",
+        "onboard_time": 1748488460,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 254439,
+        "num": 198614,
+        "word": "印度强奸犯获准保释与受害者结婚",
+        "onboard_time": 1748476520,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198535,
+        "num": 198535,
+        "word": "单依纯好会选",
+        "onboard_time": 1748480122,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189913,
+        "num": 189913,
+        "word": "画江湖之不良人",
+        "onboard_time": 1748488880,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111574,
+        "num": 189434,
+        "word": "明晚8点京东发6180元",
+        "onboard_time": 1748488102,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96387,
+        "num": 187224,
+        "word": "升学路径不再是单一的高考独木桥",
+        "onboard_time": 1748487201,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141024,
+        "num": 186847,
+        "word": "苏州一公园司马光砸缸被吐槽像猴",
+        "onboard_time": 1748488401,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176219,
+        "num": 184254,
+        "word": "经纪人回应刘畊宏被曝借700万台币不还",
+        "onboard_time": 1748478923,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12758,
+        "num": 183789,
+        "word": "任何酸奶都能补充益生菌吗",
+        "onboard_time": 1748489180,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83425,
+        "num": 181555,
+        "word": "马斯克称身心俱疲",
+        "onboard_time": 1748487861,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 60630,
+        "num": 179912,
+        "word": "多方回应学生疑因打扫被校长殴打",
+        "onboard_time": 1748489121,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 53404,
+        "num": 178891,
+        "word": "法院回应弄错被告致同姓名男子被执行",
+        "onboard_time": 1748479641,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178281,
+        "num": 178281,
+        "word": "加沙母亲抱着一动不动的孩子道歉",
+        "onboard_time": 1748483480,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177026,
+        "num": 177026,
+        "word": "说到加沙儿童遭遇他愤怒捶桌",
+        "onboard_time": 1748481981,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168954,
+        "num": 168954,
+        "word": "都灵劝学",
+        "onboard_time": 1748481080,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166226,
+        "num": 166226,
+        "word": "哈佛6700名在校生需转学或离境",
+        "onboard_time": 1748456775,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158071,
+        "num": 158071,
+        "word": "曝温州一私立学校称文件要求停止办学",
+        "onboard_time": 1748487861,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153083,
+        "num": 153083,
+        "word": "端午假期天气地图来了",
+        "onboard_time": 1748489121,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19243,
+        "num": 152414,
+        "word": "荔枝冷藏一下再吃就不上火吗",
+        "onboard_time": 1748488460,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151968,
+        "num": 151968,
+        "word": "不良人",
+        "onboard_time": 1748486541,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 151255,
+        "num": 151255,
+        "word": "藏海烧了父母的人皮",
+        "onboard_time": 1748445742,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149046,
+        "num": 149046,
+        "word": "双胞胎吵架前桌各哄各的",
+        "onboard_time": 1748480183,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143542,
+        "num": 143542,
+        "word": "雷霆4比1森林狼",
+        "onboard_time": 1748489421,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140085,
+        "num": 142397,
+        "word": "鲁比奥叫嚣将吊销中国学生签证",
+        "onboard_time": 1748486961,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141453,
+        "num": 141453,
+        "word": "关税措施被叫停后特朗普政府已上诉",
+        "onboard_time": 1748483001,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140138,
+        "num": 140138,
+        "word": "女生旅行的安全感是西安旅游给的",
+        "onboard_time": 1748489421,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140523,
+        "num": 139656,
+        "word": "美国务卿称将开始吊销中国留学生签证",
+        "onboard_time": 1748485881,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138987,
+        "num": 138987,
+        "word": "歪头Labubu",
+        "onboard_time": 1748486660,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 130352,
+        "num": 130352,
+        "word": "90年前的今天飞夺泸定桥",
+        "onboard_time": 1748485759,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129608,
+        "num": 129608,
+        "word": "雷霆西部冠军",
+        "onboard_time": 1748489301,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127807,
+        "num": 127807,
+        "word": "贾静雯否认丈夫酒驾",
+        "onboard_time": 1748479941,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动少先队事业不断取得新成绩#"
+    }
+  }
+}

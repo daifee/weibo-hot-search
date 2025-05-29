@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748488778508,
+  "endTime": 1748489577964,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -27,6 +27,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1206960,
+      "num": 1206960,
+      "word": "高考人数8年首次降低释放什么信号",
+      "onboard_time": 1748485820,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 873913,
       "num": 873913,
       "word": "苦尽柑来剧组被曝霸凌群演",
@@ -43,20 +51,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 784688,
-      "num": 784688,
+      "raw_hot": 802982,
+      "num": 802982,
       "word": "蜜丝婷 王楚钦",
       "onboard_time": 1748486719,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 764741,
-      "num": 764741,
-      "word": "高考人数8年首次降低释放什么信号",
-      "onboard_time": 1748485820,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 714375,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 637007,
-      "num": 339285,
+      "num": 341974,
       "word": "2岁男童在幼儿园午睡头卡护栏身亡",
       "onboard_time": 1748478923,
       "rank": 11,
@@ -105,6 +105,14 @@
       "onboard_time": 1748486541,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 557236,
+      "num": 557236,
+      "word": "汪顺撕拉片",
+      "onboard_time": 1748485280,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 553993,
@@ -171,6 +179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 394913,
+      "num": 441387,
+      "word": "家门口被害者母亲回应凶手父母道歉信",
+      "onboard_time": 1748483601,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 387338,
       "num": 385308,
       "word": "汪苏泷婉拒歌手返场邀请",
@@ -195,12 +211,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 381994,
-      "num": 441387,
-      "word": "家门口被害者母亲回应凶手父母道歉信",
-      "onboard_time": 1748483601,
-      "rank": 10,
-      "category": "民生新闻"
+      "raw_hot": 375241,
+      "num": 375241,
+      "word": "张婧仪用emoji回复肖战",
+      "onboard_time": 1748487801,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 366675,
@@ -209,14 +225,6 @@
       "onboard_time": 1748437162,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 362244,
-      "num": 362244,
-      "word": "汪顺撕拉片",
-      "onboard_time": 1748485280,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 359077,
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264866,
+      "num": 264866,
+      "word": "雷霆晋级总决赛",
+      "onboard_time": 1748488041,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263468,
       "num": 263468,
       "word": "说到加沙儿童遭遇他愤怒捶桌",
@@ -315,7 +331,7 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 223321,
+      "raw_hot": 228531,
       "num": 287476,
       "word": "子夜归",
       "onboard_time": 1748484560,
@@ -379,12 +395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202512,
+      "num": 202512,
+      "word": "朱志鑫苏新皓加速王",
+      "onboard_time": 1748488940,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202253,
       "num": 210897,
       "word": "藏海烧了父母的人皮",
       "onboard_time": 1748445742,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200833,
+      "num": 200833,
+      "word": "阿布扎比回应请刘亦菲做代言",
+      "onboard_time": 1748489001,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 200219,
@@ -419,14 +451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 197565,
-      "num": 197565,
-      "word": "雷霆晋级总决赛",
-      "onboard_time": 1748488041,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194672,
       "num": 145447,
       "word": "藏海传24集 新的太子",
@@ -443,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189913,
+      "num": 189913,
+      "word": "画江湖之不良人",
+      "onboard_time": 1748488880,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 189815,
       "num": 189815,
       "word": "车银优入伍时间",
@@ -457,14 +489,6 @@
       "onboard_time": 1748482761,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 185198,
-      "num": 214351,
-      "word": "张婧仪用emoji回复肖战",
-      "onboard_time": 1748487801,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 183557,
@@ -515,6 +539,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 158071,
+      "num": 158071,
+      "word": "曝温州一私立学校称文件要求停止办学",
+      "onboard_time": 1748487861,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157605,
       "num": 157605,
       "word": "美国务卿称将开始吊销中国留学生签证",
@@ -529,6 +561,14 @@
       "onboard_time": 1748476220,
       "rank": 30,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 153083,
+      "num": 153083,
+      "word": "端午假期天气地图来了",
+      "onboard_time": 1748489121,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152367,
@@ -547,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143542,
+      "num": 143542,
+      "word": "雷霆4比1森林狼",
+      "onboard_time": 1748489421,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143426,
       "num": 143426,
       "word": "IU新歌MV男主车银优",
@@ -563,20 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141863,
-      "num": 141863,
-      "word": "曝温州一私立学校称文件要求停止办学",
-      "onboard_time": 1748487861,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141617,
       "num": 141617,
       "word": "歪头Labubu",
       "onboard_time": 1748486660,
       "rank": 40,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 141024,
+      "num": 186847,
+      "word": "苏州一公园司马光砸缸被吐槽像猴",
+      "onboard_time": 1748488401,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140875,
@@ -595,20 +643,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140138,
+      "num": 140138,
+      "word": "女生旅行的安全感是西安旅游给的",
+      "onboard_time": 1748489421,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 139893,
       "num": 139893,
       "word": "租房也能住出高级感",
       "onboard_time": 1748485041,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137836,
-      "num": 137836,
-      "word": "苏州一公园司马光砸缸被吐槽像猴",
-      "onboard_time": 1748488401,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137515,
@@ -659,8 +707,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130352,
+      "num": 405402,
+      "word": "90年前的今天飞夺泸定桥",
+      "onboard_time": 1748485759,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129608,
+      "num": 129608,
+      "word": "雷霆西部冠军",
+      "onboard_time": 1748489301,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129356,
-      "num": 129356,
+      "num": 178891,
       "word": "法院回应弄错被告致同姓名男子被执行",
       "onboard_time": 1748479641,
       "rank": 37,
@@ -723,14 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119734,
-      "num": 405402,
-      "word": "90年前的今天飞夺泸定桥",
-      "onboard_time": 1748485759,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119416,
       "num": 119416,
       "word": "新婚男子生殖医院术后身亡系药物过敏",
@@ -779,6 +835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111574,
+      "num": 264356,
+      "word": "明晚8点京东发6180元",
+      "onboard_time": 1748488102,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110190,
       "num": 110190,
       "word": "王安宇新剧在猎了在猎了",
@@ -809,14 +873,6 @@
       "onboard_time": 1748448380,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106175,
-      "num": 264356,
-      "word": "明晚8点京东发6180元",
-      "onboard_time": 1748488102,
-      "rank": 20,
-      "category": "互联网"
     },
     {
       "raw_hot": 105543,
@@ -932,7 +988,7 @@
     },
     {
       "raw_hot": 92953,
-      "num": 900515,
+      "num": 925828,
       "word": "公安机关将公开通缉台黑客",
       "onboard_time": 1748478561,
       "rank": 2,
@@ -971,6 +1027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 83425,
+      "num": 202402,
+      "word": "马斯克称身心俱疲",
+      "onboard_time": 1748487861,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79008,
       "num": 166452,
       "word": "荣耀400让深圳变成肖战痛城",
@@ -993,14 +1057,6 @@
       "onboard_time": 1748449220,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75595,
-      "num": 202402,
-      "word": "马斯克称身心俱疲",
-      "onboard_time": 1748487861,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 71596,
@@ -1041,6 +1097,14 @@
       "onboard_time": 1748455335,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60630,
+      "num": 179912,
+      "word": "多方回应学生疑因打扫被校长殴打",
+      "onboard_time": 1748489121,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 60411,
@@ -1139,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25872,
+      "num": 269723,
+      "word": "肠道健康为什么如此重要",
+      "onboard_time": 1748488460,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22369,
       "num": 22369,
       "word": "张云雷民谣新歌独木",
@@ -1161,6 +1233,14 @@
       "onboard_time": 1748458875,
       "rank": 37,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 19243,
+      "num": 203045,
+      "word": "荔枝冷藏一下再吃就不上火吗",
+      "onboard_time": 1748488460,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 18543,
@@ -1211,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13199,
-      "num": 269723,
-      "word": "肠道健康为什么如此重要",
-      "onboard_time": 1748488460,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 13072,
       "num": 14913,
       "word": "杨超越叛逆运动风",
@@ -1235,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 12758,
+      "num": 183789,
+      "word": "任何酸奶都能补充益生菌吗",
+      "onboard_time": 1748489180,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 11955,
       "num": 29005,
       "word": "敦促美方切实保障留学生合法正当权益",
@@ -1249,14 +1329,6 @@
       "onboard_time": 1748473937,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7943,
-      "num": 203045,
-      "word": "荔枝冷藏一下再吃就不上火吗",
-      "onboard_time": 1748488460,
-      "rank": 28,
-      "category": "美食"
     }
   ],
   "hotgov_list": [
