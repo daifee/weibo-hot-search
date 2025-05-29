@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748557503250,
+  "endTime": 1748558609842,
   "band_list": [
     {
       "raw_hot": 973566,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262028,
+      "num": 169616,
+      "word": "因工作受挫女子每月花780元抱树放松",
+      "onboard_time": 1748529083,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242922,
       "num": 237817,
       "word": "王力宏的哥哥王力德血癌科研",
@@ -115,20 +123,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185694,
-      "num": 169616,
-      "word": "因工作受挫女子每月花780元抱树放松",
-      "onboard_time": 1748529083,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168292,
       "num": 168292,
       "word": "赵丽颖孙千互动",
       "onboard_time": 1748530464,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153887,
+      "num": 153887,
+      "word": "国防部回应美称中国演练收复台湾",
+      "onboard_time": 1748523083,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 152094,
@@ -144,6 +152,14 @@
       "word": "藏海传全面登顶",
       "onboard_time": 1748531481,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129951,
+      "num": 129951,
+      "word": "肖战要为入狱的侯爷一大哭",
+      "onboard_time": 1748532622,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -163,20 +179,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122654,
-      "num": 122654,
+      "raw_hot": 125758,
+      "num": 125758,
       "word": "40万黄金被女子当垃圾丢了",
       "onboard_time": 1748519301,
       "rank": 21,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118321,
-      "num": 110119,
-      "word": "肖战要为入狱的侯爷一大哭",
-      "onboard_time": 1748532622,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 119833,
+      "num": 119833,
+      "word": "主持人朱迅景区救助高反女游客",
+      "onboard_time": 1748526622,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115470,
+      "num": 115470,
+      "word": "中方敦促美方彻底取消单边加征关税",
+      "onboard_time": 1748548934,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115115,
@@ -185,14 +209,6 @@
       "onboard_time": 1748531123,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113278,
-      "num": 113278,
-      "word": "国防部回应美称中国演练收复台湾",
-      "onboard_time": 1748523083,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 107189,
@@ -217,14 +233,6 @@
       "onboard_time": 1748531061,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98448,
-      "num": 98448,
-      "word": "主持人朱迅景区救助高反女游客",
-      "onboard_time": 1748526622,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95694,
@@ -323,20 +331,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80136,
+      "num": 80783,
+      "word": "女子向丈夫要钱遭拒后轻生系谣言",
+      "onboard_time": 1748539877,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 79780,
       "num": 241518,
       "word": "湖北警方通报一起故意伤害案",
       "onboard_time": 1748534121,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 79215,
-      "num": 79215,
-      "word": "中方敦促美方彻底取消单边加征关税",
-      "onboard_time": 1748548934,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 78001,
@@ -411,8 +419,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 52198,
-      "num": 52198,
+      "raw_hot": 62555,
+      "num": 62555,
       "word": "男子冒充初中生诱骗近百名中小学女生",
       "onboard_time": 1748527222,
       "rank": 30,
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49996,
+      "num": 49996,
+      "word": "折腰 耳鬓厮磨具象化",
+      "onboard_time": 1748546833,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47845,
       "num": 47845,
       "word": "湖北应城故意伤害案致2死",
@@ -443,20 +459,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 43539,
-      "num": 80783,
-      "word": "女子向丈夫要钱遭拒后轻生系谣言",
-      "onboard_time": 1748539877,
-      "rank": 40,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 41698,
-      "num": 41698,
+      "raw_hot": 45271,
+      "num": 45271,
       "word": "小狗洗澡当晚才会有的顶级待遇",
       "onboard_time": 1748545514,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44994,
+      "num": 44994,
+      "word": "特朗普政府vs哈佛大学谁能赢",
+      "onboard_time": 1748552474,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41189,
@@ -464,6 +480,14 @@
       "word": "刘宇宁在折腰剧组说话插不上嘴",
       "onboard_time": 1748538798,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38927,
+      "num": 45001,
+      "word": "藏海传火遍全球",
+      "onboard_time": 1748525241,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -483,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35547,
-      "num": 35547,
-      "word": "折腰 耳鬓厮磨具象化",
-      "onboard_time": 1748546833,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 35974,
+      "num": 35974,
+      "word": "外交部回应美国将吊销中国学生签证",
+      "onboard_time": 1748549174,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33956,
@@ -499,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32134,
-      "num": 32134,
-      "word": "藏海传火遍全球",
-      "onboard_time": 1748525241,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 33123,
+      "num": 33616,
+      "word": "国防部回应赖清德以备战来避战言论",
+      "onboard_time": 1748548754,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30628,
@@ -515,28 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28743,
-      "num": 28743,
-      "word": "特朗普政府vs哈佛大学谁能赢",
-      "onboard_time": 1748552474,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 26933,
-      "num": 26933,
-      "word": "外交部回应美国将吊销中国学生签证",
-      "onboard_time": 1748549174,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 26005,
-      "num": 33616,
-      "word": "国防部回应赖清德以备战来避战言论",
-      "onboard_time": 1748548754,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 25348,
+      "num": 29296,
+      "word": "官方回应李现拍鸟成公务员省考面试题",
+      "onboard_time": 1748558476,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 22571,
@@ -553,6 +561,14 @@
       "onboard_time": 1748521162,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21939,
+      "num": 297159,
+      "word": "世界市长对话上海",
+      "onboard_time": 1748525422,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20734,
@@ -584,14 +600,6 @@
       "word": "官方回应高架疑车道减少致车辆高坠",
       "onboard_time": 1748547914,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16520,
-      "num": 165843,
-      "word": "世界市长对话上海",
-      "onboard_time": 1748525422,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -633,6 +641,14 @@
       "onboard_time": 1748549234,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11347,
+      "num": 36735,
+      "word": "官方回应洞庭湖禁捕区钓鱼乱象",
+      "onboard_time": 1748558537,
+      "rank": 35,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
