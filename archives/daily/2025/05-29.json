@@ -1,9 +1,9 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748483965369,
+  "endTime": 1748485365826,
   "band_list": [
     {
-      "raw_hot": 3120218,
+      "raw_hot": 3276032,
       "num": 886893,
       "word": "你女儿失去生命我女儿失去自由",
       "onboard_time": 1748481800,
@@ -19,8 +19,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1070417,
-      "num": 1070417,
+      "raw_hot": 1313277,
+      "num": 1313277,
       "word": "iPhone17ProMax最新机模",
       "onboard_time": 1748481199,
       "rank": 1,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 637007,
-      "num": 256734,
+      "num": 259918,
       "word": "2岁男童在幼儿园午睡头卡护栏身亡",
       "onboard_time": 1748478923,
       "rank": 11,
@@ -91,8 +91,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 549334,
-      "num": 549334,
+      "raw_hot": 550730,
+      "num": 550730,
       "word": "小乔怀孕傻的却是魏劭",
       "onboard_time": 1748473937,
       "rank": 3,
@@ -123,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 427469,
+      "num": 257134,
+      "word": "双胞胎吵架前桌各哄各的",
+      "onboard_time": 1748480183,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 414480,
       "num": 213132,
       "word": "男子在生殖医院做手术次日身亡进展",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 386269,
-      "num": 195876,
+      "num": 216064,
       "word": "印度强奸犯获准保释与受害者结婚",
       "onboard_time": 1748476520,
       "rank": 21,
@@ -161,6 +169,14 @@
       "onboard_time": 1748437162,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 359077,
+      "num": 359077,
+      "word": "单依纯好会选",
+      "onboard_time": 1748480122,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 343265,
@@ -179,20 +195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 324639,
-      "num": 324639,
-      "word": "单依纯好会选",
-      "onboard_time": 1748480122,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 308662,
-      "num": 255152,
-      "word": "双胞胎吵架前桌各哄各的",
-      "onboard_time": 1748480183,
-      "rank": 13,
-      "category": "幽默"
+      "raw_hot": 292800,
+      "num": 253956,
+      "word": "贾静雯否认丈夫酒驾",
+      "onboard_time": 1748479941,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 280175,
@@ -211,12 +219,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271669,
-      "num": 253956,
-      "word": "贾静雯否认丈夫酒驾",
+      "raw_hot": 274056,
+      "num": 441387,
+      "word": "家门口被害者母亲回应凶手父母道歉信",
+      "onboard_time": 1748483601,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267803,
+      "num": 250150,
+      "word": "全员加速中南通",
       "onboard_time": 1748479941,
-      "rank": 14,
-      "category": "艺人"
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 263468,
+      "num": 263468,
+      "word": "说到加沙儿童遭遇他愤怒捶桌",
+      "onboard_time": 1748481981,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 258281,
@@ -251,20 +275,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 227749,
-      "num": 227749,
-      "word": "说到加沙儿童遭遇他愤怒捶桌",
-      "onboard_time": 1748481981,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 221761,
       "num": 151906,
       "word": "林允身材好绝",
       "onboard_time": 1748435782,
       "rank": 24,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 217081,
+      "num": 217081,
+      "word": "黄金",
+      "onboard_time": 1748484200,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 216604,
@@ -275,12 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215495,
-      "num": 223945,
-      "word": "全员加速中南通",
-      "onboard_time": 1748479941,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 216027,
+      "num": 216027,
+      "word": "都灵劝学",
+      "onboard_time": 1748481080,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 212953,
@@ -305,6 +329,22 @@
       "onboard_time": 1748415501,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205096,
+      "num": 255990,
+      "word": "加沙母亲抱着一动不动的孩子道歉",
+      "onboard_time": 1748483480,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 202253,
+      "num": 202253,
+      "word": "藏海烧了父母的人皮",
+      "onboard_time": 1748445742,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 200219,
@@ -347,6 +387,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190882,
+      "num": 190882,
+      "word": "关税措施被叫停后特朗普政府已上诉",
+      "onboard_time": 1748483001,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 189815,
+      "num": 189815,
+      "word": "车银优入伍时间",
+      "onboard_time": 1748484140,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189203,
       "num": 189203,
       "word": "iOS26新特性",
@@ -355,52 +411,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 187014,
-      "num": 187014,
-      "word": "藏海烧了父母的人皮",
-      "onboard_time": 1748445742,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183557,
       "num": 135706,
       "word": "马嘉祺歌手再唱你曾是少年",
       "onboard_time": 1748449400,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181068,
-      "num": 257904,
-      "word": "家门口被害者母亲回应凶手父母道歉信",
-      "onboard_time": 1748483601,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180638,
-      "num": 180638,
-      "word": "关税措施被叫停后特朗普政府已上诉",
-      "onboard_time": 1748483001,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 179766,
-      "num": 179766,
-      "word": "加沙母亲抱着一动不动的孩子道歉",
-      "onboard_time": 1748483480,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 178923,
-      "num": 178923,
-      "word": "都灵劝学",
-      "onboard_time": 1748481080,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 177532,
@@ -435,6 +451,22 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 148678,
+      "num": 148678,
+      "word": "子夜归",
+      "onboard_time": 1748484560,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143426,
+      "num": 143426,
+      "word": "IU新歌MV男主车银优",
+      "onboard_time": 1748475019,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142762,
       "num": 142762,
       "word": "男子抱含奶嘴婴儿乞讨自称寻妻",
@@ -451,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139362,
-      "num": 139362,
-      "word": "IU新歌MV男主车银优",
-      "onboard_time": 1748475019,
-      "rank": 18,
-      "category": "音乐"
+      "raw_hot": 139893,
+      "num": 139893,
+      "word": "租房也能住出高级感",
+      "onboard_time": 1748485041,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 137515,
@@ -465,6 +497,22 @@
       "onboard_time": 1748481321,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136356,
+      "num": 144154,
+      "word": "马拉松冠军做高抬腿一分钟188个",
+      "onboard_time": 1748485101,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 135073,
+      "num": 135073,
+      "word": "张泽禹在线求助",
+      "onboard_time": 1748484620,
+      "rank": 31,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 132952,
@@ -489,6 +537,14 @@
       "onboard_time": 1748479641,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128683,
+      "num": 128683,
+      "word": "虞书欣灿如繁星制服路透",
+      "onboard_time": 1748481741,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 128479,
@@ -520,6 +576,14 @@
       "word": "肖战的美貌加上演技将是绝杀",
       "onboard_time": 1748480600,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123899,
+      "num": 123899,
+      "word": "香暗荼否认是藏海的仇人",
+      "onboard_time": 1748483840,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -571,14 +635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112363,
-      "num": 112363,
-      "word": "虞书欣灿如繁星制服路透",
-      "onboard_time": 1748481741,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110190,
       "num": 110190,
       "word": "王安宇新剧在猎了在猎了",
@@ -601,6 +657,14 @@
       "onboard_time": 1748448380,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105543,
+      "num": 105543,
+      "word": "曹德旺说福耀科大预算8亿招50人",
+      "onboard_time": 1748483541,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 105153,
@@ -636,7 +700,7 @@
     },
     {
       "raw_hot": 103639,
-      "num": 204381,
+      "num": 216084,
       "word": "奈丝公主618值得囤",
       "onboard_time": 1748483121,
       "rank": 19,
@@ -659,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99542,
+      "num": 99542,
+      "word": "多地曝谷子店闭店消息",
+      "onboard_time": 1748482041,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96665,
       "num": 96665,
       "word": "曼联0比1东盟全明星",
@@ -673,14 +745,6 @@
       "onboard_time": 1748480902,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 95343,
-      "num": 95343,
-      "word": "多地曝谷子店闭店消息",
-      "onboard_time": 1748482041,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95119,
@@ -699,20 +763,28 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 95027,
-      "num": 95027,
-      "word": "曹德旺说福耀科大预算8亿招50人",
-      "onboard_time": 1748483541,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 93810,
       "num": 561897,
       "word": "端午气氛组强势上线",
       "onboard_time": 1748441003,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93480,
+      "num": 93480,
+      "word": "汪顺撕拉片",
+      "onboard_time": 1748485280,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92953,
+      "num": 900515,
+      "word": "公安机关将公开通缉台黑客",
+      "onboard_time": 1748478561,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91794,
@@ -737,14 +809,6 @@
       "onboard_time": 1748474839,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 88058,
-      "num": 891274,
-      "word": "公安机关将公开通缉台黑客",
-      "onboard_time": 1748478561,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87508,

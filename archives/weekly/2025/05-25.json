@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748483965369,
+  "endTime": 1748485365826,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -43,7 +43,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3120218,
+      "raw_hot": 3276032,
       "num": 886893,
       "word": "你女儿失去生命我女儿失去自由",
       "onboard_time": 1748481800,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1313277,
+      "num": 1313277,
+      "word": "iPhone17ProMax最新机模",
+      "onboard_time": 1748481199,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1304380,
       "num": 580202,
       "word": "李现金智媛世纪同框",
@@ -681,14 +689,6 @@
       "onboard_time": 1748327121,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1070417,
-      "num": 1070417,
-      "word": "iPhone17ProMax最新机模",
-      "onboard_time": 1748481199,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1064757,
@@ -1684,7 +1684,7 @@
     },
     {
       "raw_hot": 637007,
-      "num": 256734,
+      "num": 259918,
       "word": "2岁男童在幼儿园午睡头卡护栏身亡",
       "onboard_time": 1748478923,
       "rank": 11,
@@ -2043,20 +2043,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 550730,
+      "num": 550730,
+      "word": "小乔怀孕傻的却是魏劭",
+      "onboard_time": 1748473937,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 550184,
       "num": 550184,
       "word": "夫妻俩在加沙救人9个孩子却被炸死",
       "onboard_time": 1748223620,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 549334,
-      "num": 549334,
-      "word": "小乔怀孕傻的却是魏劭",
-      "onboard_time": 1748473937,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 547499,
@@ -2771,6 +2771,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 427469,
+      "num": 257134,
+      "word": "双胞胎吵架前桌各哄各的",
+      "onboard_time": 1748480183,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 423775,
       "num": 423775,
       "word": "网传歌手2025第三期歌单",
@@ -3012,7 +3020,7 @@
     },
     {
       "raw_hot": 386269,
-      "num": 195876,
+      "num": 216064,
       "word": "印度强奸犯获准保释与受害者结婚",
       "onboard_time": 1748476520,
       "rank": 21,
@@ -3241,6 +3249,14 @@
       "onboard_time": 1748236881,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359077,
+      "num": 359077,
+      "word": "单依纯好会选",
+      "onboard_time": 1748480122,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 358156,
@@ -3531,14 +3547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324639,
-      "num": 324639,
-      "word": "单依纯好会选",
-      "onboard_time": 1748480122,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 324296,
       "num": 324296,
       "word": "全国ATM机只剩80万台",
@@ -3689,14 +3697,6 @@
       "onboard_time": 1748140460,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308662,
-      "num": 255152,
-      "word": "双胞胎吵架前桌各哄各的",
-      "onboard_time": 1748480183,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 306276,
@@ -3889,6 +3889,14 @@
       "onboard_time": 1748141421,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292800,
+      "num": 253956,
+      "word": "贾静雯否认丈夫酒驾",
+      "onboard_time": 1748479941,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 289153,
@@ -4099,6 +4107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274056,
+      "num": 441387,
+      "word": "家门口被害者母亲回应凶手父母道歉信",
+      "onboard_time": 1748483601,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273813,
       "num": 375412,
       "word": "折腰",
@@ -4137,14 +4153,6 @@
       "onboard_time": 1748169261,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271669,
-      "num": 253956,
-      "word": "贾静雯否认丈夫酒驾",
-      "onboard_time": 1748479941,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 271665,
@@ -4211,6 +4219,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 267803,
+      "num": 250150,
+      "word": "全员加速中南通",
+      "onboard_time": 1748479941,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267777,
       "num": 267777,
       "word": "陈梦妈妈头顶一座塔开车",
@@ -4273,6 +4289,14 @@
       "onboard_time": 1748441482,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263468,
+      "num": 263468,
+      "word": "说到加沙儿童遭遇他愤怒捶桌",
+      "onboard_time": 1748481981,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 262307,
@@ -4939,14 +4963,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 227749,
-      "num": 227749,
-      "word": "说到加沙儿童遭遇他愤怒捶桌",
-      "onboard_time": 1748481981,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 227419,
       "num": 227419,
       "word": "长期睡眠不足的9个表现",
@@ -5123,6 +5139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217081,
+      "num": 217081,
+      "word": "黄金",
+      "onboard_time": 1748331141,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 216799,
       "num": 216799,
       "word": "左奇函在邓紫棋演唱会见证一场求婚",
@@ -5147,6 +5171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216027,
+      "num": 216027,
+      "word": "都灵劝学",
+      "onboard_time": 1748481080,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215972,
       "num": 204810,
       "word": "狂野时代",
@@ -5161,14 +5193,6 @@
       "onboard_time": 1748348301,
       "rank": 34,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 215495,
-      "num": 223945,
-      "word": "全员加速中南通",
-      "onboard_time": 1748479941,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 215386,
@@ -5499,6 +5523,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 205096,
+      "num": 255990,
+      "word": "加沙母亲抱着一动不动的孩子道歉",
+      "onboard_time": 1748483480,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 204872,
       "num": 204872,
       "word": "梦之队烟花氛围大片",
@@ -5673,14 +5705,6 @@
       "onboard_time": 1748175805,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200031,
-      "num": 200031,
-      "word": "黄金",
-      "onboard_time": 1748331141,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 199956,
@@ -6283,6 +6307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190882,
+      "num": 190882,
+      "word": "关税措施被叫停后特朗普政府已上诉",
+      "onboard_time": 1748483001,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 190745,
       "num": 190745,
       "word": "王曼昱四宫格生图帅得很权威",
@@ -6377,6 +6409,14 @@
       "onboard_time": 1748241921,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189815,
+      "num": 189815,
+      "word": "车银优入伍时间",
+      "onboard_time": 1748484140,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 189795,
@@ -6795,14 +6835,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 181068,
-      "num": 257904,
-      "word": "家门口被害者母亲回应凶手父母道歉信",
-      "onboard_time": 1748483601,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180879,
       "num": 180879,
       "word": "蒋依依拿下陈凯歌剧组最高分",
@@ -6817,14 +6849,6 @@
       "onboard_time": 1748090423,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180638,
-      "num": 180638,
-      "word": "关税措施被叫停后特朗普政府已上诉",
-      "onboard_time": 1748483001,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 180533,
@@ -6865,14 +6889,6 @@
       "onboard_time": 1748221222,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179766,
-      "num": 179766,
-      "word": "加沙母亲抱着一动不动的孩子道歉",
-      "onboard_time": 1748483480,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 179519,
@@ -6937,14 +6953,6 @@
       "onboard_time": 1748164401,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 178923,
-      "num": 178923,
-      "word": "都灵劝学",
-      "onboard_time": 1748481080,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 178738,
@@ -8923,6 +8931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148678,
+      "num": 148678,
+      "word": "子夜归",
+      "onboard_time": 1748484560,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148628,
       "num": 174085,
       "word": "邓紫棋硬核控雨",
@@ -9211,6 +9227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143426,
+      "num": 143426,
+      "word": "IU新歌MV男主车银优",
+      "onboard_time": 1748475019,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143348,
       "num": 143348,
       "word": "LWX说RNG发工资了",
@@ -9475,6 +9499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139893,
+      "num": 139893,
+      "word": "租房也能住出高级感",
+      "onboard_time": 1748485041,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139704,
       "num": 139704,
       "word": "黄金直线下跌",
@@ -9497,14 +9529,6 @@
       "onboard_time": 1748156362,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139362,
-      "num": 139362,
-      "word": "IU新歌MV男主车银优",
-      "onboard_time": 1748475019,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 139348,
@@ -9731,6 +9755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136356,
+      "num": 144154,
+      "word": "马拉松冠军做高抬腿一分钟188个",
+      "onboard_time": 1748485101,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 136347,
       "num": 136347,
       "word": "余承东今年刚因自驾直播被封禁",
@@ -9793,6 +9825,14 @@
       "onboard_time": 1748161701,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135073,
+      "num": 135073,
+      "word": "张泽禹在线求助",
+      "onboard_time": 1748484620,
+      "rank": 31,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 135056,
@@ -10275,6 +10315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128683,
+      "num": 128683,
+      "word": "虞书欣灿如繁星制服路透",
+      "onboard_time": 1748481741,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128638,
       "num": 128638,
       "word": "蔡依林新专PLEASURE上线倒计时",
@@ -10577,6 +10625,14 @@
       "onboard_time": 1748244381,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123899,
+      "num": 123899,
+      "word": "香暗荼否认是藏海的仇人",
+      "onboard_time": 1748483840,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 123734,
@@ -11219,14 +11275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112363,
-      "num": 112363,
-      "word": "虞书欣灿如繁星制服路透",
-      "onboard_time": 1748481741,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112337,
       "num": 196840,
       "word": "骗杀父仇人进火场救自己",
@@ -11603,6 +11651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105543,
+      "num": 105543,
+      "word": "曹德旺说福耀科大预算8亿招50人",
+      "onboard_time": 1748483541,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 105153,
       "num": 105153,
       "word": "现在的年轻人把赚钱刻进了DNA",
@@ -11676,7 +11732,7 @@
     },
     {
       "raw_hot": 103639,
-      "num": 204381,
+      "num": 216084,
       "word": "奈丝公主618值得囤",
       "onboard_time": 1748483121,
       "rank": 19,
@@ -11857,6 +11913,14 @@
       "onboard_time": 1748220322,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99542,
+      "num": 99542,
+      "word": "多地曝谷子店闭店消息",
+      "onboard_time": 1748482041,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99332,
@@ -12051,14 +12115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95343,
-      "num": 95343,
-      "word": "多地曝谷子店闭店消息",
-      "onboard_time": 1748482041,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95252,
       "num": 95252,
       "word": "魏大勋回应杨凯之死在了充满希望的那一天",
@@ -12089,14 +12145,6 @@
       "onboard_time": 1748411661,
       "rank": 36,
       "category": "议题讨论,民生新闻"
-    },
-    {
-      "raw_hot": 95027,
-      "num": 95027,
-      "word": "曹德旺说福耀科大预算8亿招50人",
-      "onboard_time": 1748483541,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 94425,
@@ -12147,6 +12195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93480,
+      "num": 93480,
+      "word": "汪顺撕拉片",
+      "onboard_time": 1748485280,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93308,
       "num": 93308,
       "word": "郑钦文冲击法网32强",
@@ -12168,6 +12224,14 @@
       "word": "27岁女子家门口被害母亲无法出庭",
       "onboard_time": 1748318721,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92953,
+      "num": 900515,
+      "word": "公安机关将公开通缉台黑客",
+      "onboard_time": 1748478561,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -12369,14 +12433,6 @@
       "onboard_time": 1748442743,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 88058,
-      "num": 891274,
-      "word": "公安机关将公开通缉台黑客",
-      "onboard_time": 1748478561,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87910,

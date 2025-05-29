@@ -1,0 +1,410 @@
+{
+  "runTime": 1748485365826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1583371,
+        "num": 1583371,
+        "word": "马斯克宣布将离开特朗普政府",
+        "onboard_time": 1748480781,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1313277,
+        "num": 1313277,
+        "word": "iPhone17ProMax最新机模",
+        "onboard_time": 1748481199,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92953,
+        "num": 900515,
+        "word": "公安机关将公开通缉台黑客",
+        "onboard_time": 1748478561,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727406,
+        "num": 727406,
+        "word": "苦尽柑来剧组被曝霸凌群演",
+        "onboard_time": 1748476041,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550730,
+        "num": 550730,
+        "word": "小乔怀孕傻的却是魏劭",
+        "onboard_time": 1748473937,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274056,
+        "num": 441387,
+        "word": "家门口被害者母亲回应凶手父母道歉信",
+        "onboard_time": 1748483601,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359077,
+        "num": 359077,
+        "word": "单依纯好会选",
+        "onboard_time": 1748480122,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337025,
+        "num": 337025,
+        "word": "经纪人回应刘畊宏被曝借700万台币不还",
+        "onboard_time": 1748478923,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263468,
+        "num": 263468,
+        "word": "说到加沙儿童遭遇他愤怒捶桌",
+        "onboard_time": 1748481981,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244741,
+        "num": 261850,
+        "word": "泡泡玛特回应Labubu品控问题",
+        "onboard_time": 1748446761,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454330,
+        "num": 259918,
+        "word": "2岁男童在幼儿园午睡头卡护栏身亡",
+        "onboard_time": 1748478923,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427469,
+        "num": 257134,
+        "word": "双胞胎吵架前桌各哄各的",
+        "onboard_time": 1748480183,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205096,
+        "num": 255990,
+        "word": "加沙母亲抱着一动不动的孩子道歉",
+        "onboard_time": 1748483480,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416879,
+        "num": 253151,
+        "word": "102岁老人3楼坠落被众人稳稳接住",
+        "onboard_time": 1748442564,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 292800,
+        "num": 250971,
+        "word": "贾静雯否认丈夫酒驾",
+        "onboard_time": 1748479941,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267803,
+        "num": 250150,
+        "word": "全员加速中南通",
+        "onboard_time": 1748479941,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248537,
+        "num": 248537,
+        "word": "哈佛6700名在校生需转学或离境",
+        "onboard_time": 1748456775,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217588,
+        "num": 217588,
+        "word": "一觉醒来天问二号发射成功了",
+        "onboard_time": 1748477124,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217081,
+        "num": 217081,
+        "word": "黄金",
+        "onboard_time": 1748484200,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61075,
+        "num": 216084,
+        "word": "奈丝公主618值得囤",
+        "onboard_time": 1748483121,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347732,
+        "num": 216064,
+        "word": "印度强奸犯获准保释与受害者结婚",
+        "onboard_time": 1748476520,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216027,
+        "num": 216027,
+        "word": "都灵劝学",
+        "onboard_time": 1748481080,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202253,
+        "num": 202253,
+        "word": "藏海烧了父母的人皮",
+        "onboard_time": 1748445742,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190882,
+        "num": 190882,
+        "word": "关税措施被叫停后特朗普政府已上诉",
+        "onboard_time": 1748483001,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189815,
+        "num": 189815,
+        "word": "车银优入伍时间",
+        "onboard_time": 1748484140,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180834,
+        "num": 180834,
+        "word": "被芭莎的镜头签吓死",
+        "onboard_time": 1748442863,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 170951,
+        "num": 170951,
+        "word": "国补后iPhone16Pro重回销量第一",
+        "onboard_time": 1748446701,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148678,
+        "num": 148678,
+        "word": "子夜归",
+        "onboard_time": 1748484560,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136356,
+        "num": 144154,
+        "word": "马拉松冠军做高抬腿一分钟188个",
+        "onboard_time": 1748485101,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143426,
+        "num": 143426,
+        "word": "IU新歌MV男主车银优",
+        "onboard_time": 1748475019,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139893,
+        "num": 139893,
+        "word": "租房也能住出高级感",
+        "onboard_time": 1748485041,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135073,
+        "num": 135073,
+        "word": "张泽禹在线求助",
+        "onboard_time": 1748484620,
+        "rank": 31,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 130754,
+        "num": 130754,
+        "word": "荔枝冷藏一下再吃不上火",
+        "onboard_time": 1748477481,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128683,
+        "num": 128683,
+        "word": "虞书欣灿如繁星制服路透",
+        "onboard_time": 1748481741,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128109,
+        "num": 128109,
+        "word": "歌手",
+        "onboard_time": 1748482820,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125286,
+        "num": 125286,
+        "word": "森林狼vs雷霆",
+        "onboard_time": 1748481321,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123899,
+        "num": 123899,
+        "word": "香暗荼否认是藏海的仇人",
+        "onboard_time": 1748483840,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113592,
+        "num": 113592,
+        "word": "陈乔恩确诊盲肠炎",
+        "onboard_time": 1748445502,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113219,
+        "num": 113219,
+        "word": "肖战的美貌加上演技将是绝杀",
+        "onboard_time": 1748480600,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112297,
+        "num": 112297,
+        "word": "茂名 流星",
+        "onboard_time": 1748476220,
+        "rank": 39,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 109649,
+        "num": 109649,
+        "word": "法院回应弄错被告致同姓名男子被执行",
+        "onboard_time": 1748479641,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108433,
+        "num": 108433,
+        "word": "印度承诺2047年建成发达国家",
+        "onboard_time": 1748445622,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105543,
+        "num": 105543,
+        "word": "曹德旺说福耀科大预算8亿招50人",
+        "onboard_time": 1748483541,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3276032,
+        "num": 105167,
+        "word": "你女儿失去生命我女儿失去自由",
+        "onboard_time": 1748481800,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101261,
+        "num": 101261,
+        "word": "iOS26新特性",
+        "onboard_time": 1748482761,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100358,
+        "num": 100358,
+        "word": "杨幂躲镜头",
+        "onboard_time": 1748437162,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 99542,
+        "num": 99542,
+        "word": "多地曝谷子店闭店消息",
+        "onboard_time": 1748482041,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94105,
+        "num": 94105,
+        "word": "汪苏泷婉拒歌手返场邀请",
+        "onboard_time": 1748448380,
+        "rank": 47,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 93480,
+        "num": 93480,
+        "word": "汪顺撕拉片",
+        "onboard_time": 1748485280,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92259,
+        "num": 92259,
+        "word": "苹果或全面重命名操作系统",
+        "onboard_time": 1748480902,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动少先队事业不断取得新成绩#"
+    }
+  }
+}
