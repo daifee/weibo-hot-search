@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748494039968,
+  "endTime": 1748496408145,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1897885,
+      "num": 1897885,
+      "word": "山东济南一广场发生爆炸",
+      "onboard_time": 1748494103,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1837346,
       "num": 1837346,
       "word": "孙颖莎哭了",
@@ -305,6 +313,14 @@
       "onboard_time": 1748143760,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1523138,
+      "num": 1523138,
+      "word": "韩女团成员穿衣被政治解读引争议",
+      "onboard_time": 1748492602,
+      "rank": 43,
+      "category": "海外新闻,艺人"
     },
     {
       "raw_hot": 1488069,
@@ -996,7 +1012,7 @@
     },
     {
       "raw_hot": 860853,
-      "num": 407378,
+      "num": 435169,
       "word": "向佐发文感谢郭碧婷",
       "onboard_time": 1748491341,
       "rank": 10,
@@ -1275,8 +1291,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 767883,
-      "num": 767883,
+      "raw_hot": 769844,
+      "num": 769844,
       "word": "labubu 哪吒面相",
       "onboard_time": 1748490321,
       "rank": 4,
@@ -1513,6 +1529,14 @@
       "onboard_time": 1748336301,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 702078,
+      "num": 702078,
+      "word": "韩国发生飞机坠毁事件",
+      "onboard_time": 1748496022,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 699100,
@@ -1889,6 +1913,14 @@
       "onboard_time": 1748242520,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 594024,
+      "num": 594024,
+      "word": "宁静朱丹 尴尬九分钟",
+      "onboard_time": 1748494163,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 592914,
@@ -2628,7 +2660,7 @@
     },
     {
       "raw_hot": 459376,
-      "num": 459376,
+      "num": 464986,
       "word": "还珠格格短剧",
       "onboard_time": 1748490680,
       "rank": 7,
@@ -3251,6 +3283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370385,
+      "num": 370385,
+      "word": "刘浩存顶着一张素颜演酷妹",
+      "onboard_time": 1748490680,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369076,
       "num": 346277,
       "word": "奔跑吧路透",
@@ -3305,6 +3345,14 @@
       "onboard_time": 1748099484,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364450,
+      "num": 364450,
+      "word": "藏海第一个大仇得报",
+      "onboard_time": 1748492060,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 362325,
@@ -3555,14 +3603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 337802,
-      "num": 337802,
-      "word": "刘浩存顶着一张素颜演酷妹",
-      "onboard_time": 1748490680,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 336498,
       "num": 336498,
       "word": "LPL",
@@ -3659,14 +3699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324030,
-      "num": 333604,
-      "word": "韩女团成员穿衣被政治解读引争议",
-      "onboard_time": 1748492602,
-      "rank": 43,
-      "category": "海外新闻,艺人"
-    },
-    {
       "raw_hot": 323557,
       "num": 399827,
       "word": "HYBE向腾讯音乐出售SM股份",
@@ -3721,14 +3753,6 @@
       "onboard_time": 1748129358,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 317278,
-      "num": 317278,
-      "word": "藏海第一个大仇得报",
-      "onboard_time": 1748492060,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 315973,
@@ -3811,6 +3835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306432,
+      "num": 306432,
+      "word": "刘浩存演现偶 大炮轰蚊子",
+      "onboard_time": 1748493982,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306276,
       "num": 306276,
       "word": "陈飞宇王曼昱世纪同框",
@@ -3832,6 +3864,14 @@
       "word": "男孩离家出走父亲遇车祸去世视频曝光",
       "onboard_time": 1748231002,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305011,
+      "num": 334717,
+      "word": "熊孩子闯入装修别墅搞破坏业主赠试卷",
+      "onboard_time": 1748492961,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -4049,6 +4089,14 @@
       "onboard_time": 1748253142,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287373,
+      "num": 307632,
+      "word": "惠英红 新浪找人给我拍的撕拉片",
+      "onboard_time": 1748492781,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 285814,
@@ -4377,14 +4425,6 @@
       "onboard_time": 1748230642,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 265150,
-      "num": 265150,
-      "word": "惠英红 新浪找人给我拍的撕拉片",
-      "onboard_time": 1748492781,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 264866,
@@ -4947,6 +4987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235746,
+      "num": 235746,
+      "word": "真的不要在床头上面挂东西了",
+      "onboard_time": 1748495541,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235461,
       "num": 235461,
       "word": "老人舍不得拆女儿送的钱花发霉",
@@ -5131,6 +5179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227132,
+      "num": 227132,
+      "word": "刘宇宁心疼考古他的朋友们",
+      "onboard_time": 1748494703,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227114,
       "num": 367786,
       "word": "张凌赫石家庄",
@@ -5177,6 +5233,14 @@
       "onboard_time": 1748352264,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 223453,
+      "num": 223453,
+      "word": "美国大满贯",
+      "onboard_time": 1748493022,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 222410,
@@ -5291,20 +5355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217582,
-      "num": 217582,
-      "word": "美国大满贯",
-      "onboard_time": 1748493022,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217317,
       "num": 255990,
       "word": "加沙母亲抱着一动不动的孩子道歉",
       "onboard_time": 1748483480,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 217266,
+      "num": 217266,
+      "word": "韩国飞机",
+      "onboard_time": 1748496261,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 216799,
@@ -5489,6 +5553,14 @@
       "onboard_time": 1748151019,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210552,
+      "num": 210552,
+      "word": "蔡卓宜简介上多了个儿子",
+      "onboard_time": 1748493801,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 210529,
@@ -6699,6 +6771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187838,
+      "num": 187838,
+      "word": "张凌赫王安宇 江浙沪长相",
+      "onboard_time": 1748495783,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187472,
       "num": 261115,
       "word": "尼克斯1比2步行者",
@@ -6857,6 +6937,14 @@
       "onboard_time": 1748493022,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 184149,
+      "num": 184149,
+      "word": "中国下司犬外网爆火",
+      "onboard_time": 1748491280,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184055,
@@ -7995,6 +8083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167380,
+      "num": 167380,
+      "word": "网友吃饭偶遇王楚然闫桉",
+      "onboard_time": 1748495482,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167335,
       "num": 167335,
       "word": "章子怡看陈丽君我的大观园也很难戒断",
@@ -8465,14 +8561,6 @@
       "onboard_time": 1748153122,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160200,
-      "num": 160200,
-      "word": "中国下司犬外网爆火",
-      "onboard_time": 1748491280,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159954,
@@ -9227,6 +9315,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 149203,
+      "num": 149203,
+      "word": "以前跳sorrysorry现在说sorry",
+      "onboard_time": 1748495482,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148712,
       "num": 206652,
       "word": "陈德容笑称自己是娱乐圈活人",
@@ -9257,14 +9353,6 @@
       "onboard_time": 1748314701,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148242,
-      "num": 148242,
-      "word": "刘浩存演现偶 大炮轰蚊子",
-      "onboard_time": 1748493982,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 148042,
@@ -9667,14 +9755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142391,
-      "num": 142391,
-      "word": "蔡卓宜简介上多了个儿子",
-      "onboard_time": 1748493801,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141990,
       "num": 141990,
       "word": "舍不得睡觉",
@@ -9867,6 +9947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139814,
+      "num": 139814,
+      "word": "藏海传皇帝上线",
+      "onboard_time": 1748495961,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139704,
       "num": 139704,
       "word": "黄金直线下跌",
@@ -9985,6 +10073,14 @@
       "onboard_time": 1748341701,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138191,
+      "num": 138191,
+      "word": "特朗普回应马斯克批评",
+      "onboard_time": 1748494881,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138027,
@@ -11155,6 +11251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122376,
+      "num": 122376,
+      "word": "河源地震",
+      "onboard_time": 1748496380,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 122099,
       "num": 122099,
       "word": "知情人回应女子救儿子不幸溺亡",
@@ -11307,6 +11411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119313,
+      "num": 119313,
+      "word": "王亚飞给迪丽热巴化的花间精灵妆",
+      "onboard_time": 1748496380,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119299,
       "num": 119299,
       "word": "赵丽颖唱OST",
@@ -11329,6 +11441,14 @@
       "onboard_time": 1748328381,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118762,
+      "num": 118762,
+      "word": "金价还会不会继续下跌",
+      "onboard_time": 1748495902,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 118199,
@@ -11601,6 +11721,14 @@
       "onboard_time": 1748130077,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113199,
+      "num": 113199,
+      "word": "叠纸心意",
+      "onboard_time": 1748495842,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 113185,
@@ -12017,14 +12145,6 @@
       "onboard_time": 1748387358,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107131,
-      "num": 334717,
-      "word": "熊孩子闯入装修别墅搞破坏业主赠试卷",
-      "onboard_time": 1748492961,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106959,
@@ -12553,6 +12673,14 @@
       "onboard_time": 1748152102,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 95424,
+      "num": 217571,
+      "word": "为什么不要在床头上面挂东西",
+      "onboard_time": 1748495240,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 95252,
@@ -13379,6 +13507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 76381,
+      "num": 222535,
+      "word": "世界肠道健康日",
+      "onboard_time": 1748496142,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 75912,
       "num": 281717,
       "word": "中国孩子收到来自太空的祝福",
@@ -13497,6 +13633,14 @@
       "onboard_time": 1748473217,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71334,
+      "num": 436934,
+      "word": "济南商铺火灾情况通报",
+      "onboard_time": 1748495721,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71271,
@@ -14132,7 +14276,7 @@
     },
     {
       "raw_hot": 58114,
-      "num": 796928,
+      "num": 1003540,
       "word": "我国开启小行星探测与采样返回之旅",
       "onboard_time": 1748490741,
       "rank": 2,
@@ -15147,6 +15291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39130,
+      "num": 221614,
+      "word": "京东618请你看演唱会",
+      "onboard_time": 1748495122,
+      "rank": 27,
+      "category": "演出,互联网"
+    },
+    {
       "raw_hot": 39032,
       "num": 308867,
       "word": "李微微被公诉",
@@ -15825,6 +15977,14 @@
       "onboard_time": 1748274621,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28651,
+      "num": 219414,
+      "word": "高速系鞋带的方法是什么",
+      "onboard_time": 1748496082,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 28365,

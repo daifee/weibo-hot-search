@@ -1,0 +1,410 @@
+{
+  "runTime": 1748496408145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1897885,
+        "num": 1897885,
+        "word": "山东济南一广场发生爆炸",
+        "onboard_time": 1748494103,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1523138,
+        "num": 1523138,
+        "word": "韩女团成员穿衣被政治解读引争议",
+        "onboard_time": 1748492602,
+        "rank": 1,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 45082,
+        "num": 1003540,
+        "word": "我国开启小行星探测与采样返回之旅",
+        "onboard_time": 1748490741,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 769844,
+        "num": 769844,
+        "word": "labubu 哪吒面相",
+        "onboard_time": 1748490321,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 717758,
+        "num": 717758,
+        "word": "高考人数8年首次降低释放什么信号",
+        "onboard_time": 1748485820,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 702078,
+        "num": 702078,
+        "word": "韩国发生飞机坠毁事件",
+        "onboard_time": 1748496022,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 665406,
+        "num": 665406,
+        "word": "iPhone17ProMax最新机模",
+        "onboard_time": 1748481199,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 594024,
+        "num": 594024,
+        "word": "宁静朱丹 尴尬九分钟",
+        "onboard_time": 1748494163,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412740,
+        "num": 464986,
+        "word": "还珠格格短剧",
+        "onboard_time": 1748490680,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71334,
+        "num": 436934,
+        "word": "济南商铺火灾情况通报",
+        "onboard_time": 1748495721,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 746194,
+        "num": 435169,
+        "word": "向佐发文感谢郭碧婷",
+        "onboard_time": 1748491341,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415776,
+        "num": 415776,
+        "word": "马斯克宣布将离开特朗普政府",
+        "onboard_time": 1748480781,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 377946,
+        "num": 377946,
+        "word": "蜜丝婷 王楚钦",
+        "onboard_time": 1748486719,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370385,
+        "num": 370385,
+        "word": "刘浩存顶着一张素颜演酷妹",
+        "onboard_time": 1748490680,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367019,
+        "num": 367019,
+        "word": "杨紫国色芳华登小学语文课本",
+        "onboard_time": 1748491341,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364450,
+        "num": 364450,
+        "word": "藏海第一个大仇得报",
+        "onboard_time": 1748492060,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346794,
+        "num": 346794,
+        "word": "2岁男童在幼儿园午睡头卡护栏身亡",
+        "onboard_time": 1748478923,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317589,
+        "num": 317589,
+        "word": "张婧仪用emoji回复肖战",
+        "onboard_time": 1748487801,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287373,
+        "num": 307632,
+        "word": "惠英红 新浪找人给我拍的撕拉片",
+        "onboard_time": 1748492781,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75302,
+        "num": 306977,
+        "word": "拉肚子会是肠炎的前兆吗",
+        "onboard_time": 1748492241,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 306432,
+        "num": 306432,
+        "word": "刘浩存演现偶 大炮轰蚊子",
+        "onboard_time": 1748493982,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305011,
+        "num": 305011,
+        "word": "熊孩子闯入装修别墅搞破坏业主赠试卷",
+        "onboard_time": 1748492961,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293774,
+        "num": 293774,
+        "word": "小乔怀孕傻的却是魏劭",
+        "onboard_time": 1748473937,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235746,
+        "num": 235746,
+        "word": "真的不要在床头上面挂东西了",
+        "onboard_time": 1748495541,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227132,
+        "num": 227132,
+        "word": "刘宇宁心疼考古他的朋友们",
+        "onboard_time": 1748494703,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223453,
+        "num": 223453,
+        "word": "美国大满贯",
+        "onboard_time": 1748493022,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76381,
+        "num": 222535,
+        "word": "世界肠道健康日",
+        "onboard_time": 1748496142,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39130,
+        "num": 221614,
+        "word": "京东618请你看演唱会",
+        "onboard_time": 1748495122,
+        "rank": 27,
+        "category": "演出,互联网"
+      },
+      {
+        "raw_hot": 28651,
+        "num": 219414,
+        "word": "高速系鞋带的方法是什么",
+        "onboard_time": 1748496082,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 95424,
+        "num": 217571,
+        "word": "为什么不要在床头上面挂东西",
+        "onboard_time": 1748495240,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 217266,
+        "num": 217266,
+        "word": "韩国飞机",
+        "onboard_time": 1748496261,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210552,
+        "num": 210552,
+        "word": "蔡卓宜简介上多了个儿子",
+        "onboard_time": 1748493801,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190209,
+        "num": 190209,
+        "word": "阿布扎比回应请刘亦菲做代言",
+        "onboard_time": 1748489001,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187838,
+        "num": 187838,
+        "word": "张凌赫王安宇 江浙沪长相",
+        "onboard_time": 1748495783,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184149,
+        "num": 184149,
+        "word": "中国下司犬外网爆火",
+        "onboard_time": 1748491280,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180318,
+        "num": 180318,
+        "word": "印度强奸犯获准保释与受害者结婚",
+        "onboard_time": 1748476520,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167380,
+        "num": 167380,
+        "word": "网友吃饭偶遇王楚然闫桉",
+        "onboard_time": 1748495482,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149203,
+        "num": 149203,
+        "word": "以前跳sorrysorry现在说sorry",
+        "onboard_time": 1748495482,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144349,
+        "num": 144349,
+        "word": "中山美穗儿子放弃遗产",
+        "onboard_time": 1748493322,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143866,
+        "num": 143866,
+        "word": "WTT美国大满贯首批参赛名单",
+        "onboard_time": 1748492903,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143341,
+        "num": 143341,
+        "word": "苦尽柑来剧组被曝霸凌群演",
+        "onboard_time": 1748476041,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139814,
+        "num": 139814,
+        "word": "藏海传皇帝上线",
+        "onboard_time": 1748495961,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138191,
+        "num": 138191,
+        "word": "特朗普回应马斯克批评",
+        "onboard_time": 1748494881,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137732,
+        "num": 137732,
+        "word": "含有脂肪的蔬菜",
+        "onboard_time": 1748493862,
+        "rank": 43,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 134755,
+        "num": 134755,
+        "word": "二本鸿蒙开发应届生月薪过万",
+        "onboard_time": 1748492060,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124051,
+        "num": 124051,
+        "word": "吴宗宪说刘畊宏帮了人又背黑锅",
+        "onboard_time": 1748493622,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122376,
+        "num": 122376,
+        "word": "河源地震",
+        "onboard_time": 1748496380,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 119313,
+        "num": 119313,
+        "word": "王亚飞给迪丽热巴化的花间精灵妆",
+        "onboard_time": 1748496380,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118762,
+        "num": 118762,
+        "word": "金价还会不会继续下跌",
+        "onboard_time": 1748495902,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113199,
+        "num": 113199,
+        "word": "叠纸心意",
+        "onboard_time": 1748495842,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动少先队事业不断取得新成绩#"
+    }
+  }
+}
