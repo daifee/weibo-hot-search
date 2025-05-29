@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748517735373,
+  "endTime": 1748518682486,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -41,6 +41,14 @@
       "onboard_time": 1748496804,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1823075,
+      "num": 293692,
+      "word": "大乔死了",
+      "onboard_time": 1748517140,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1655686,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1072042,
-      "num": 1072042,
+      "num": 1102712,
       "word": "莫名收到20多条验证码隔天6万没了",
       "onboard_time": 1748509940,
       "rank": 14,
@@ -251,6 +259,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 702405,
+      "num": 224609,
+      "word": "泡泡玛特暂停Labubu在英销售",
+      "onboard_time": 1748517140,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 694246,
       "num": 694246,
       "word": "抚养3弟妹的05后女生有了五险一金",
@@ -273,6 +289,14 @@
       "onboard_time": 1748507721,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 637046,
+      "num": 637046,
+      "word": "独子失联30年父母离世后想继承遗产",
+      "onboard_time": 1748513960,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 637007,
@@ -315,28 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 601289,
-      "num": 293692,
-      "word": "大乔死了",
-      "onboard_time": 1748517140,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 597212,
       "num": 597212,
       "word": "强闯我使馆的韩国男子被判刑",
       "onboard_time": 1748486541,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 590696,
-      "num": 590696,
-      "word": "独子失联30年父母离世后想继承遗产",
-      "onboard_time": 1748513960,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 562777,
@@ -771,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279736,
+      "num": 224489,
+      "word": "王安宇拍的刘浩存",
+      "onboard_time": 1748515581,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279579,
       "num": 207453,
       "word": "肖战演技",
@@ -923,14 +939,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 224489,
-      "num": 224489,
-      "word": "王安宇拍的刘浩存",
-      "onboard_time": 1748515581,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223453,
       "num": 223453,
       "word": "美国大满贯",
@@ -1051,6 +1059,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 210570,
+      "num": 195255,
+      "word": "为什么肠癌盯上了年轻人",
+      "onboard_time": 1748516301,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 210358,
       "num": 210358,
       "word": "工作后精简护肤三件套",
@@ -1155,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201270,
+      "num": 201270,
+      "word": "折腰编剧你出来",
+      "onboard_time": 1748518161,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200597,
       "num": 200597,
       "word": "林俊杰西安",
@@ -1224,6 +1248,14 @@
       "word": "邱贻可踩到孙颖莎脚摸头安慰",
       "onboard_time": 1748502142,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195472,
+      "num": 195472,
+      "word": "孙颖莎眼含热泪感谢邱指导",
+      "onboard_time": 1748518161,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1459,19 +1491,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170562,
-      "num": 170562,
-      "word": "泡泡玛特暂停Labubu在英销售",
-      "onboard_time": 1748517140,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 170390,
       "num": 266643,
       "word": "肖战给藏海P图",
       "onboard_time": 1748506820,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169615,
+      "num": 200843,
+      "word": "她什么都没做他已经爱惨了",
+      "onboard_time": 1748516841,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1529,6 +1561,14 @@
       "onboard_time": 1748503401,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165305,
+      "num": 165305,
+      "word": "邪恶牡丹花嫁给邪恶柿子",
+      "onboard_time": 1748518100,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 164950,
@@ -1691,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153170,
+      "num": 153170,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1748518100,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153083,
       "num": 153083,
       "word": "端午假期天气地图来了",
@@ -1731,14 +1779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152141,
-      "num": 152141,
-      "word": "她什么都没做他已经爱惨了",
-      "onboard_time": 1748516841,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151549,
       "num": 309595,
       "word": "Hero坦然连接成功",
@@ -1764,7 +1804,7 @@
     },
     {
       "raw_hot": 148469,
-      "num": 148469,
+      "num": 226888,
       "word": "中国小朋友不能再胖了",
       "onboard_time": 1748513180,
       "rank": 48,
@@ -1827,12 +1867,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145375,
+      "num": 145375,
+      "word": "小米SU7口碑指数破纪录",
+      "onboard_time": 1748518040,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 144956,
       "num": 144956,
       "word": "含有脂肪的蔬菜",
       "onboard_time": 1748493862,
       "rank": 45,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 144327,
+      "num": 144327,
+      "word": "各种肤质应该多久敷一次面膜",
+      "onboard_time": 1748518100,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 143542,
@@ -1883,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142278,
+      "num": 142278,
+      "word": "刘宇宁被叫爸爸的反应",
+      "onboard_time": 1748518460,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141617,
       "num": 141617,
       "word": "歪头Labubu",
@@ -1905,6 +1969,14 @@
       "onboard_time": 1748486961,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 140336,
+      "num": 140336,
+      "word": "蔡明说宋亚轩贺峻霖是她好朋友",
+      "onboard_time": 1748517740,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 140259,
@@ -2419,14 +2491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98965,
-      "num": 98965,
-      "word": "为什么肠癌盯上了年轻人",
-      "onboard_time": 1748516301,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 97260,
       "num": 263949,
       "word": "TTG",
@@ -2715,6 +2779,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 65423,
+      "num": 214284,
+      "word": "保安自学高空索降偷走一亿元玉石",
+      "onboard_time": 1748517200,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64361,
       "num": 64361,
       "word": "邓为关晓彤合唱祝福高考生",
@@ -2907,6 +2979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47117,
+      "num": 221035,
+      "word": "涉朱媛媛去世谣言多账号被处理",
+      "onboard_time": 1748517921,
+      "rank": 14,
+      "category": "艺人,辟谣/通报"
+    },
+    {
       "raw_hot": 46882,
       "num": 46882,
       "word": "荣耀400价格",
@@ -2963,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38109,
+      "num": 147441,
+      "word": "你见过白色蛋黄的鸡蛋吗",
+      "onboard_time": 1748514020,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 37767,
       "num": 98185,
       "word": "医院减脂餐",
@@ -2979,14 +3067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 37602,
-      "num": 201725,
-      "word": "保安自学高空索降偷走一亿元玉石",
-      "onboard_time": 1748517200,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37580,
       "num": 269292,
       "word": "加沙民众道别时不再说明天见",
@@ -3001,6 +3081,14 @@
       "onboard_time": 1748491882,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 31563,
+      "num": 196111,
+      "word": "AI催生出薪资更高的技术岗位",
+      "onboard_time": 1748518040,
+      "rank": 29,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 31471,
@@ -3105,6 +3193,14 @@
       "onboard_time": 1748492481,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24196,
+      "num": 154621,
+      "word": "种菜基因觉醒",
+      "onboard_time": 1748517980,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24132,
@@ -3220,7 +3316,7 @@
     },
     {
       "raw_hot": 17125,
-      "num": 170287,
+      "num": 217209,
       "word": "618夏日歌会机器人在后台打工",
       "onboard_time": 1748517260,
       "rank": 31,
@@ -3315,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12234,
+      "num": 197318,
+      "word": "夏天如何挑到报恩西瓜",
+      "onboard_time": 1748518040,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 12217,
       "num": 207055,
       "word": "挑榴莲的小技巧有哪些",
@@ -3331,6 +3435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 10917,
+      "num": 215056,
+      "word": "老是误触手机拍照键怎么办",
+      "onboard_time": 1748517140,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 9722,
       "num": 53974,
       "word": "他用15度视角走出了180度广阔人生",
@@ -3339,20 +3451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8807,
-      "num": 210972,
-      "word": "老是误触手机拍照键怎么办",
-      "onboard_time": 1748517140,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 8602,
       "num": 221752,
       "word": "AI教你以旧换新要注意啥",
       "onboard_time": 1748514380,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 7841,
+      "num": 168446,
+      "word": "莫名收到多个验证码是怎么回事",
+      "onboard_time": 1748518581,
+      "rank": 35,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

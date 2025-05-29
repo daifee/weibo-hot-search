@@ -1,0 +1,410 @@
+{
+  "runTime": 1748518682486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 641954,
+        "num": 1102712,
+        "word": "莫名收到20多条验证码隔天6万没了",
+        "onboard_time": 1748509940,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637046,
+        "num": 637046,
+        "word": "独子失联30年父母离世后想继承遗产",
+        "onboard_time": 1748513960,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50480,
+        "num": 406281,
+        "word": "我国新一代人造太阳再创纪录",
+        "onboard_time": 1748506701,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393336,
+        "num": 393336,
+        "word": "孙颖莎一怒之下怒了一下",
+        "onboard_time": 1748511081,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376759,
+        "num": 376759,
+        "word": "韩国发生飞机坠毁事件",
+        "onboard_time": 1748496022,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1511394,
+        "num": 334138,
+        "word": "折腰大结局",
+        "onboard_time": 1748514140,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 662476,
+        "num": 304959,
+        "word": "魏梁结局",
+        "onboard_time": 1748515460,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266638,
+        "num": 266638,
+        "word": "特朗普亲口承认高关税是谈判策略",
+        "onboard_time": 1748507241,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227989,
+        "num": 227989,
+        "word": "比武艺拿蛋糕还好笑的场面出现了",
+        "onboard_time": 1748512401,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99786,
+        "num": 226888,
+        "word": "中国小朋友不能再胖了",
+        "onboard_time": 1748513180,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1823075,
+        "num": 225735,
+        "word": "大乔死了",
+        "onboard_time": 1748517140,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 702405,
+        "num": 224609,
+        "word": "泡泡玛特暂停Labubu在英销售",
+        "onboard_time": 1748517140,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 690371,
+        "num": 223456,
+        "word": "北京月薪3万一天要花多少钱",
+        "onboard_time": 1748515460,
+        "rank": 12,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 620280,
+        "num": 222560,
+        "word": "演员孙菲菲回应整容失败",
+        "onboard_time": 1748511741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47117,
+        "num": 221035,
+        "word": "涉朱媛媛去世谣言多账号被处理",
+        "onboard_time": 1748517921,
+        "rank": 14,
+        "category": "艺人,辟谣/通报"
+      },
+      {
+        "raw_hot": 522845,
+        "num": 219692,
+        "word": "老师 这边给您补偿5元您看可以吗",
+        "onboard_time": 1748503222,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291020,
+        "num": 217775,
+        "word": "金晨变化好大",
+        "onboard_time": 1748497403,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16981,
+        "num": 217209,
+        "word": "618夏日歌会机器人在后台打工",
+        "onboard_time": 1748517260,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10917,
+        "num": 215056,
+        "word": "老是误触手机拍照键怎么办",
+        "onboard_time": 1748517140,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65423,
+        "num": 214284,
+        "word": "保安自学高空索降偷走一亿元玉石",
+        "onboard_time": 1748517200,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213759,
+        "num": 213759,
+        "word": "丁禹兮旁白雪豹纪录片",
+        "onboard_time": 1748513420,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279736,
+        "num": 212249,
+        "word": "王安宇拍的刘浩存",
+        "onboard_time": 1748515581,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260358,
+        "num": 209411,
+        "word": "月经是身体的晴雨表",
+        "onboard_time": 1748515401,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235149,
+        "num": 207373,
+        "word": "汪峰锐评孟子义卸妆体验终身难忘",
+        "onboard_time": 1748510902,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201270,
+        "num": 201270,
+        "word": "折腰编剧你出来",
+        "onboard_time": 1748518161,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169615,
+        "num": 200843,
+        "word": "她什么都没做他已经爱惨了",
+        "onboard_time": 1748516841,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175772,
+        "num": 199131,
+        "word": "虞书欣晒照庆祝来微博第10年",
+        "onboard_time": 1748506220,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173972,
+        "num": 198430,
+        "word": "林俊杰西安",
+        "onboard_time": 1748515700,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12234,
+        "num": 197318,
+        "word": "夏天如何挑到报恩西瓜",
+        "onboard_time": 1748518040,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 31563,
+        "num": 196111,
+        "word": "AI催生出薪资更高的技术岗位",
+        "onboard_time": 1748518040,
+        "rank": 29,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 195472,
+        "num": 195472,
+        "word": "孙颖莎眼含热泪感谢邱指导",
+        "onboard_time": 1748518161,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210570,
+        "num": 195255,
+        "word": "为什么肠癌盯上了年轻人",
+        "onboard_time": 1748516301,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191945,
+        "num": 191945,
+        "word": "孙颖莎说和王楚钦目标一致",
+        "onboard_time": 1748512520,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191031,
+        "num": 191031,
+        "word": "iPhone17ProMax最新机模",
+        "onboard_time": 1748481199,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175517,
+        "num": 175517,
+        "word": "李兰迪橘发",
+        "onboard_time": 1748514981,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7841,
+        "num": 168446,
+        "word": "莫名收到多个验证码是怎么回事",
+        "onboard_time": 1748518581,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165305,
+        "num": 165305,
+        "word": "邪恶牡丹花嫁给邪恶柿子",
+        "onboard_time": 1748518100,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159121,
+        "num": 159121,
+        "word": "肖战刘潮 那片海管不了这片海",
+        "onboard_time": 1748514801,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24196,
+        "num": 154621,
+        "word": "种菜基因觉醒",
+        "onboard_time": 1748517980,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153575,
+        "num": 153575,
+        "word": "因跟谁姓离婚父亲要求均分孩子",
+        "onboard_time": 1748504723,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153170,
+        "num": 153170,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1748518100,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149512,
+        "num": 149512,
+        "word": "韩国生育率上升",
+        "onboard_time": 1748503222,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38109,
+        "num": 147441,
+        "word": "你见过白色蛋黄的鸡蛋吗",
+        "onboard_time": 1748514020,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145375,
+        "num": 145375,
+        "word": "小米SU7口碑指数破纪录",
+        "onboard_time": 1748518040,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144327,
+        "num": 144327,
+        "word": "各种肤质应该多久敷一次面膜",
+        "onboard_time": 1748518100,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142278,
+        "num": 142278,
+        "word": "刘宇宁被叫爸爸的反应",
+        "onboard_time": 1748518460,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141933,
+        "num": 141933,
+        "word": "原神 海卡",
+        "onboard_time": 1748512401,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141503,
+        "num": 141503,
+        "word": "赵丽颖新剧给我看的一愣一愣的",
+        "onboard_time": 1748516419,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140336,
+        "num": 140336,
+        "word": "蔡明说宋亚轩贺峻霖是她好朋友",
+        "onboard_time": 1748517740,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137246,
+        "num": 137246,
+        "word": "一架飞机在韩国东南部城市浦项坠毁",
+        "onboard_time": 1748503762,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#培养中国特色社会主义事业合格建设者#"
+    }
+  }
+}
