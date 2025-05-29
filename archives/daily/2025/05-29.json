@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748529850598,
+  "endTime": 1748532450662,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1823075,
-      "num": 389678,
+      "num": 414950,
       "word": "大乔死了",
       "onboard_time": 1748517140,
       "rank": 12,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1400016,
-      "num": 375367,
+      "num": 409722,
       "word": "王力宏的哥哥王力德血癌科研",
       "onboard_time": 1748521519,
       "rank": 11,
@@ -129,6 +129,14 @@
       "onboard_time": 1748485820,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1101011,
+      "num": 1101011,
+      "word": "微博通报涉朱媛媛去世谣言",
+      "onboard_time": 1748529983,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1072042,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 994445,
-      "num": 379502,
+      "num": 404567,
       "word": "人生就是壮壮妈",
       "onboard_time": 1748522481,
       "rank": 32,
@@ -209,6 +217,14 @@
       "onboard_time": 1748491341,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 852876,
+      "num": 852876,
+      "word": "藏海传开始暴走了",
+      "onboard_time": 1748530282,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 845894,
@@ -459,6 +475,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 553609,
+      "num": 553609,
+      "word": "小乔早产",
+      "onboard_time": 1748529862,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 550730,
       "num": 550730,
       "word": "小乔怀孕傻的却是魏劭",
@@ -481,6 +505,14 @@
       "onboard_time": 1748498782,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 512245,
+      "num": 512245,
+      "word": "主持人朱迅景区救助高反女游客",
+      "onboard_time": 1748526622,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 499352,
@@ -779,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349564,
+      "num": 349564,
+      "word": "歌手终于炒出新菜了",
+      "onboard_time": 1748528422,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349144,
       "num": 380323,
       "word": "惠英红 新浪找人给我拍的撕拉片",
@@ -793,6 +833,14 @@
       "onboard_time": 1748501421,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344088,
+      "num": 344088,
+      "word": "邓科 折腰",
+      "onboard_time": 1748529383,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 343265,
@@ -963,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278780,
+      "num": 278780,
+      "word": "吴艳妮哭了",
+      "onboard_time": 1748530944,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267803,
       "num": 250150,
       "word": "全员加速中南通",
@@ -1019,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254459,
-      "num": 254459,
-      "word": "主持人朱迅景区救助高反女游客",
-      "onboard_time": 1748526622,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252240,
       "num": 318717,
       "word": "刘宇宁给迪丽热巴整上主题曲了",
@@ -1051,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244325,
-      "num": 248531,
-      "word": "歌手终于炒出新菜了",
-      "onboard_time": 1748528422,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244236,
       "num": 244236,
       "word": "久酷加入西安WE",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1748447482,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237610,
+      "num": 237610,
+      "word": "李雪琴演技",
+      "onboard_time": 1748530703,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 237607,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1748494703,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227087,
+      "num": 227087,
+      "word": "因工作受挫女子每月花780元抱树放松",
+      "onboard_time": 1748529083,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225163,
@@ -1243,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213893,
+      "num": 213893,
+      "word": "代露娃这得算工伤吧",
+      "onboard_time": 1748531061,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213215,
       "num": 213215,
       "word": "王曼昱好帅",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1748430860,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 210860,
+      "num": 210860,
+      "word": "藏海传全面登顶",
+      "onboard_time": 1748531481,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 210570,
@@ -1339,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204683,
+      "num": 187775,
+      "word": "吴艳妮哽咽向大家道歉",
+      "onboard_time": 1748531303,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204610,
       "num": 204610,
       "word": "第一次见岳父居然是在男科",
@@ -1401,6 +1481,14 @@
       "onboard_time": 1748445742,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201725,
+      "num": 201725,
+      "word": "关晓彤 精心布置的夏日九宫格",
+      "onboard_time": 1748531123,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 201544,
@@ -1524,7 +1612,7 @@
     },
     {
       "raw_hot": 192308,
-      "num": 247470,
+      "num": 420156,
       "word": "甘孜文旅局回应朱迅景区救人",
       "onboard_time": 1748527763,
       "rank": 24,
@@ -1560,6 +1648,14 @@
       "word": "车银优入伍时间",
       "onboard_time": 1748484140,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189671,
+      "num": 189671,
+      "word": "赵丽颖孙千互动",
+      "onboard_time": 1748530464,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -1600,6 +1696,22 @@
       "word": "刘浩存王安宇不像剧宣像真的",
       "onboard_time": 1748510061,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187616,
+      "num": 187616,
+      "word": "造谣刘国梁试图出境被捕账号被关",
+      "onboard_time": 1748531481,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186384,
+      "num": 338613,
+      "word": "我太爱在人间了",
+      "onboard_time": 1748529923,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1665,6 +1777,22 @@
       "onboard_time": 1748449400,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182895,
+      "num": 182895,
+      "word": "蒲熠星这阴影估计得记一辈子吧",
+      "onboard_time": 1748530464,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 181764,
+      "num": 181764,
+      "word": "曾之乔回应二胎",
+      "onboard_time": 1748529443,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 180784,
@@ -1737,14 +1865,6 @@
       "onboard_time": 1748477481,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 174822,
-      "num": 174822,
-      "word": "曾之乔回应二胎",
-      "onboard_time": 1748529443,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 173973,
@@ -1939,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161999,
+      "num": 161999,
+      "word": "土象星座是深沉的爱人",
+      "onboard_time": 1748532081,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161535,
       "num": 161535,
       "word": "孟子义徐志胜真成被告两人",
@@ -2129,14 +2257,6 @@
       "onboard_time": 1748487921,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152029,
-      "num": 152029,
-      "word": "邓科 折腰",
-      "onboard_time": 1748529383,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 151549,
@@ -2403,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137422,
+      "num": 137422,
+      "word": "金靖我的脸衬得迪丽热巴更好看了",
+      "onboard_time": 1748530823,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137171,
       "num": 137171,
       "word": "假货Lafufu成海外流量密码",
@@ -2441,14 +2569,6 @@
       "onboard_time": 1748520742,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135777,
-      "num": 135777,
-      "word": "因工作受挫女子每月花780元抱树放松",
-      "onboard_time": 1748529083,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135073,
@@ -2691,6 +2811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 120856,
+      "num": 120856,
+      "word": "酒精到底能不能擦屏幕",
+      "onboard_time": 1748531481,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 120219,
       "num": 120219,
       "word": "哇哈哈AD钙奶",
@@ -2803,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113577,
+      "num": 113577,
+      "word": "王源 今天的时间按小时切割了",
+      "onboard_time": 1748532262,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113199,
       "num": 113199,
       "word": "叠纸心意",
@@ -2865,6 +3001,14 @@
       "onboard_time": 1748460434,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107756,
+      "num": 107756,
+      "word": "我都想上手撕一包了结果你说是木雕",
+      "onboard_time": 1748532382,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 107565,
@@ -3153,6 +3297,14 @@
       "onboard_time": 1748492961,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85129,
+      "num": 358755,
+      "word": "多方回应儿童机票价高于成人机票价",
+      "onboard_time": 1748531242,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83436,
@@ -3553,6 +3705,14 @@
       "onboard_time": 1748524462,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 49883,
+      "num": 187829,
+      "word": "labubu玩家称蹲1天无果黄牛却扫货",
+      "onboard_time": 1748531364,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49142,
