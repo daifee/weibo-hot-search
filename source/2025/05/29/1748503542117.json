@@ -1,0 +1,410 @@
+{
+  "runTime": 1748503542117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1481349,
+        "num": 1481349,
+        "word": "韩国发生飞机坠毁事件",
+        "onboard_time": 1748496022,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1148669,
+        "num": 1148669,
+        "word": "山东济南一广场发生爆炸",
+        "onboard_time": 1748494103,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 39312,
+        "num": 734781,
+        "word": "我国开启小行星探测与采样返回之旅",
+        "onboard_time": 1748490741,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610800,
+        "num": 610800,
+        "word": "韩客机载183名乘客冲出跑道",
+        "onboard_time": 1748497821,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 572767,
+        "num": 572767,
+        "word": "韩女团成员穿衣被政治解读引争议",
+        "onboard_time": 1748492602,
+        "rank": 4,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 539779,
+        "num": 539779,
+        "word": "iPhone17ProMax最新机模",
+        "onboard_time": 1748481199,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 486592,
+        "num": 486592,
+        "word": "巴勒斯坦代表泪洒安理会",
+        "onboard_time": 1748498782,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 348252,
+        "num": 480735,
+        "word": "林志玲cos甄嬛行礼",
+        "onboard_time": 1748501421,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318938,
+        "num": 476931,
+        "word": "长安的荔枝定档比送荔枝难吗",
+        "onboard_time": 1748499802,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131037,
+        "num": 473756,
+        "word": "美国切断部分对华半导体技术出口",
+        "onboard_time": 1748498183,
+        "rank": 9,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 964831,
+        "num": 462332,
+        "word": "金晨变化好大",
+        "onboard_time": 1748497403,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539465,
+        "num": 456391,
+        "word": "刘浩存演现偶 大炮轰蚊子",
+        "onboard_time": 1748493982,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455776,
+        "num": 455776,
+        "word": "广州震感",
+        "onboard_time": 1748496804,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 441485,
+        "num": 441485,
+        "word": "张凌赫王安宇 江浙沪长相",
+        "onboard_time": 1748495783,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33996,
+        "num": 362335,
+        "word": "广西龙胜山洪泥石流灾害8人遇难",
+        "onboard_time": 1748502441,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323682,
+        "num": 323682,
+        "word": "深圳震感",
+        "onboard_time": 1748496923,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297538,
+        "num": 322755,
+        "word": "李现拍鸟成为内蒙古省考面试题",
+        "onboard_time": 1748499383,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254982,
+        "num": 321369,
+        "word": "章昊将以演员出道",
+        "onboard_time": 1748501660,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252240,
+        "num": 318717,
+        "word": "刘宇宁给迪丽热巴整上主题曲了",
+        "onboard_time": 1748502621,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169319,
+        "num": 317085,
+        "word": "坐飞机儿童票880元成人票400元",
+        "onboard_time": 1748501961,
+        "rank": 19,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 316712,
+        "num": 316712,
+        "word": "济南一商铺发生火灾1人失联",
+        "onboard_time": 1748497881,
+        "rank": 20,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 310891,
+        "num": 310891,
+        "word": "珑骧 王曼昱",
+        "onboard_time": 1748502981,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278923,
+        "num": 278923,
+        "word": "老师 这边给您补偿5元您看可以吗",
+        "onboard_time": 1748503222,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218414,
+        "num": 246866,
+        "word": "宁静朱丹 尴尬九分钟",
+        "onboard_time": 1748494163,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244236,
+        "num": 244236,
+        "word": "久酷加入西安WE",
+        "onboard_time": 1748502382,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202445,
+        "num": 244225,
+        "word": "这是一把勾践剑",
+        "onboard_time": 1748502861,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101736,
+        "num": 243643,
+        "word": "别人家的狗已经开始做家务了",
+        "onboard_time": 1748502382,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42780,
+        "num": 243286,
+        "word": "湖人是如何失去卡鲁索的",
+        "onboard_time": 1748502742,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52419,
+        "num": 242935,
+        "word": "清华才女券商首席转行卖保险",
+        "onboard_time": 1748501961,
+        "rank": 28,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 69735,
+        "num": 242743,
+        "word": "福建舰电磁弹射一昼夜起降300架次",
+        "onboard_time": 1748502561,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 275943,
+        "num": 242526,
+        "word": "孙颖莎教雨果包粽子",
+        "onboard_time": 1748496861,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242277,
+        "num": 242277,
+        "word": "向佐郭碧婷儿子女儿近照",
+        "onboard_time": 1748498422,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221602,
+        "num": 221602,
+        "word": "黄景瑜腿上人山人海",
+        "onboard_time": 1748498422,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206030,
+        "num": 206030,
+        "word": "孙颖莎说大满贯的梦想还在",
+        "onboard_time": 1748502382,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203367,
+        "num": 203367,
+        "word": "真的不要在床头上面挂东西了",
+        "onboard_time": 1748495541,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197537,
+        "num": 197537,
+        "word": "邱贻可踩到孙颖莎脚摸头安慰",
+        "onboard_time": 1748502142,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197105,
+        "num": 197105,
+        "word": "王曼昱好帅",
+        "onboard_time": 1748503100,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177013,
+        "num": 177013,
+        "word": "河南一猫咪主动上前帮主人翻麦子",
+        "onboard_time": 1748502679,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173288,
+        "num": 173288,
+        "word": "蔡卓宜简介上多了个儿子",
+        "onboard_time": 1748493801,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164409,
+        "num": 164409,
+        "word": "孙颖莎说女单决赛可以载入史册",
+        "onboard_time": 1748499502,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163959,
+        "num": 163959,
+        "word": "高考人数8年首次降低释放什么信号",
+        "onboard_time": 1748485820,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163675,
+        "num": 163675,
+        "word": "当你们这届年轻人的耳朵别太累了",
+        "onboard_time": 1748503222,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153905,
+        "num": 162612,
+        "word": "唐诡3全剧杀青",
+        "onboard_time": 1748497163,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162197,
+        "num": 162197,
+        "word": "韩国生育率上升",
+        "onboard_time": 1748503222,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156702,
+        "num": 156702,
+        "word": "LGDNBW九尾断开连接",
+        "onboard_time": 1748503401,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156304,
+        "num": 156304,
+        "word": "河源地震",
+        "onboard_time": 1748496380,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 155296,
+        "num": 155296,
+        "word": "孙颖莎说已习惯面对全世界的冲击",
+        "onboard_time": 1748500103,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153050,
+        "num": 153050,
+        "word": "榫卯结狗",
+        "onboard_time": 1748501902,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152218,
+        "num": 152218,
+        "word": "刘亦菲姐感黑长直",
+        "onboard_time": 1748499442,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133354,
+        "num": 133354,
+        "word": "labubu 哪吒面相",
+        "onboard_time": 1748490321,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动少先队事业不断取得新成绩#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748501446227,
+  "endTime": 1748503542117,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -267,20 +267,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441485,
+      "num": 441485,
+      "word": "张凌赫王安宇 江浙沪长相",
+      "onboard_time": 1748495783,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432694,
       "num": 432694,
       "word": "杨紫国色芳华登小学语文课本",
       "onboard_time": 1748491341,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 431661,
-      "num": 431661,
-      "word": "张凌赫王安宇 江浙沪长相",
-      "onboard_time": 1748495783,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 429755,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348252,
+      "num": 480735,
+      "word": "林志玲cos甄嬛行礼",
+      "onboard_time": 1748501421,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343265,
       "num": 343265,
       "word": "荣耀李健",
@@ -451,6 +459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316712,
+      "num": 316712,
+      "word": "济南一商铺发生火灾1人失联",
+      "onboard_time": 1748497881,
+      "rank": 22,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 310891,
+      "num": 310891,
+      "word": "珑骧 王曼昱",
+      "onboard_time": 1748502981,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305011,
       "num": 334717,
       "word": "熊孩子闯入装修别墅搞破坏业主赠试卷",
@@ -475,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297538,
+      "num": 322755,
+      "word": "李现拍鸟成为内蒙古省考面试题",
+      "onboard_time": 1748499383,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292800,
       "num": 253956,
       "word": "贾静雯否认丈夫酒驾",
@@ -497,6 +529,14 @@
       "onboard_time": 1748443942,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278923,
+      "num": 278923,
+      "word": "老师 这边给您补偿5元您看可以吗",
+      "onboard_time": 1748503222,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 267803,
@@ -531,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254982,
+      "num": 321369,
+      "word": "章昊将以演员出道",
+      "onboard_time": 1748501660,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254705,
       "num": 254705,
       "word": "王亚飞给迪丽热巴化的花间精灵妆",
       "onboard_time": 1748496380,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252240,
+      "num": 318717,
+      "word": "刘宇宁给迪丽热巴整上主题曲了",
+      "onboard_time": 1748502621,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 251726,
@@ -547,12 +603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248867,
-      "num": 248867,
-      "word": "济南一商铺发生火灾1人失联",
-      "onboard_time": 1748497881,
-      "rank": 22,
-      "category": "突发/灾害"
+      "raw_hot": 244236,
+      "num": 244236,
+      "word": "久酷加入西安WE",
+      "onboard_time": 1748502382,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 238164,
@@ -635,14 +691,6 @@
       "category": "体育,综艺"
     },
     {
-      "raw_hot": 218700,
-      "num": 316435,
-      "word": "李现拍鸟成为内蒙古省考面试题",
-      "onboard_time": 1748499383,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218481,
       "num": 218481,
       "word": "佛山震感",
@@ -715,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206030,
+      "num": 206030,
+      "word": "孙颖莎说大满贯的梦想还在",
+      "onboard_time": 1748502382,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205266,
       "num": 205266,
       "word": "端午不调休 高速不免费",
@@ -736,6 +792,14 @@
       "word": "朱志鑫苏新皓加速王",
       "onboard_time": 1748488940,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202445,
+      "num": 244225,
+      "word": "这是一把勾践剑",
+      "onboard_time": 1748502861,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -793,6 +857,22 @@
       "onboard_time": 1748445622,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197537,
+      "num": 197537,
+      "word": "邱贻可踩到孙颖莎脚摸头安慰",
+      "onboard_time": 1748502142,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197105,
+      "num": 197105,
+      "word": "王曼昱好帅",
+      "onboard_time": 1748503100,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 194672,
@@ -923,6 +1003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177013,
+      "num": 177013,
+      "word": "河南一猫咪主动上前帮主人翻麦子",
+      "onboard_time": 1748502679,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174847,
       "num": 174847,
       "word": "荔枝冷藏一下再吃不上火",
@@ -945,6 +1033,14 @@
       "onboard_time": 1748500103,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169319,
+      "num": 317085,
+      "word": "坐飞机儿童票880元成人票400元",
+      "onboard_time": 1748501961,
+      "rank": 19,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 167380,
@@ -979,6 +1075,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163675,
+      "num": 163675,
+      "word": "当你们这届年轻人的耳朵别太累了",
+      "onboard_time": 1748503222,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 162197,
+      "num": 162197,
+      "word": "韩国生育率上升",
+      "onboard_time": 1748503222,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 159211,
       "num": 271656,
       "word": "谁能拒绝淘宝西瓜免单",
@@ -1011,6 +1123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156702,
+      "num": 156702,
+      "word": "LGDNBW九尾断开连接",
+      "onboard_time": 1748503401,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155263,
       "num": 155263,
       "word": "茂名 流星",
@@ -1041,6 +1161,14 @@
       "onboard_time": 1748489121,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153050,
+      "num": 153050,
+      "word": "榫卯结狗",
+      "onboard_time": 1748501902,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 152367,
@@ -1164,7 +1292,7 @@
     },
     {
       "raw_hot": 140683,
-      "num": 140683,
+      "num": 473756,
       "word": "美国切断部分对华半导体技术出口",
       "onboard_time": 1748498183,
       "rank": 43,
@@ -1371,14 +1499,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118608,
-      "num": 118608,
-      "word": "林志玲cos甄嬛行礼",
-      "onboard_time": 1748501421,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118001,
       "num": 118001,
       "word": "HYBE成立北京分公司",
@@ -1545,6 +1665,14 @@
       "onboard_time": 1748443282,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101736,
+      "num": 243643,
+      "word": "别人家的狗已经开始做家务了",
+      "onboard_time": 1748502382,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 100230,
@@ -1739,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69735,
+      "num": 242743,
+      "word": "福建舰电磁弹射一昼夜起降300架次",
+      "onboard_time": 1748502561,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 69112,
       "num": 69112,
       "word": "五一双方父母见面安排80一晚的宾馆",
@@ -1835,6 +1971,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 52419,
+      "num": 242935,
+      "word": "清华才女券商首席转行卖保险",
+      "onboard_time": 1748501961,
+      "rank": 28,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 52334,
       "num": 185467,
       "word": "益生菌可以减肥吗",
@@ -1907,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42780,
+      "num": 243286,
+      "word": "湖人是如何失去卡鲁索的",
+      "onboard_time": 1748502742,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37767,
       "num": 98185,
       "word": "医院减脂餐",
@@ -1921,6 +2073,14 @@
       "onboard_time": 1748491882,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33996,
+      "num": 362335,
+      "word": "广西龙胜山洪泥石流灾害8人遇难",
+      "onboard_time": 1748502441,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30438,
