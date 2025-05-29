@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748554717098,
+  "endTime": 1748557503250,
   "band_list": [
     {
       "raw_hot": 973566,
@@ -115,7 +115,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169616,
+      "raw_hot": 185694,
       "num": 169616,
       "word": "因工作受挫女子每月花780元抱树放松",
       "onboard_time": 1748529083,
@@ -331,6 +331,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 79215,
+      "num": 79215,
+      "word": "中方敦促美方彻底取消单边加征关税",
+      "onboard_time": 1748548934,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78001,
       "num": 78001,
       "word": "老师 这边给您补偿5元您看可以吗",
@@ -403,14 +411,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 52827,
-      "num": 52827,
-      "word": "中方敦促美方彻底取消单边加征关税",
-      "onboard_time": 1748548934,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 52198,
       "num": 52198,
       "word": "男子冒充初中生诱骗近百名中小学女生",
@@ -443,6 +443,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 43539,
+      "num": 80783,
+      "word": "女子向丈夫要钱遭拒后轻生系谣言",
+      "onboard_time": 1748539877,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 41698,
+      "num": 41698,
+      "word": "小狗洗澡当晚才会有的顶级待遇",
+      "onboard_time": 1748545514,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 41189,
       "num": 41189,
       "word": "刘宇宁在折腰剧组说话插不上嘴",
@@ -467,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35547,
+      "num": 35547,
+      "word": "折腰 耳鬓厮磨具象化",
+      "onboard_time": 1748546833,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33956,
       "num": 33956,
       "word": "张凌赫瞎说什么大实话",
@@ -475,12 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31227,
-      "num": 31227,
-      "word": "女子向丈夫要钱遭拒后轻生系谣言",
-      "onboard_time": 1748539877,
-      "rank": 40,
-      "category": "辟谣/通报"
+      "raw_hot": 32134,
+      "num": 32134,
+      "word": "藏海传火遍全球",
+      "onboard_time": 1748525241,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 30628,
@@ -491,15 +515,23 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23650,
-      "num": 23650,
-      "word": "小狗洗澡当晚才会有的顶级待遇",
-      "onboard_time": 1748545514,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 28743,
+      "num": 28743,
+      "word": "特朗普政府vs哈佛大学谁能赢",
+      "onboard_time": 1748552474,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 23132,
+      "raw_hot": 26933,
+      "num": 26933,
+      "word": "外交部回应美国将吊销中国学生签证",
+      "onboard_time": 1748549174,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 26005,
       "num": 33616,
       "word": "国防部回应赖清德以备战来避战言论",
       "onboard_time": 1748548754,
@@ -515,27 +547,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22256,
-      "num": 22256,
-      "word": "藏海传火遍全球",
-      "onboard_time": 1748525241,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 21310,
-      "num": 21310,
+      "raw_hot": 22420,
+      "num": 23682,
       "word": "藏海传广告",
       "onboard_time": 1748521162,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20835,
-      "num": 20835,
-      "word": "折腰 耳鬓厮磨具象化",
-      "onboard_time": 1748546833,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -563,27 +579,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18849,
-      "num": 18849,
-      "word": "外交部回应美国将吊销中国学生签证",
-      "onboard_time": 1748549174,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 16262,
-      "num": 16262,
-      "word": "特朗普政府vs哈佛大学谁能赢",
-      "onboard_time": 1748552474,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 15503,
-      "num": 16005,
+      "raw_hot": 17377,
+      "num": 23682,
       "word": "官方回应高架疑车道减少致车辆高坠",
       "onboard_time": 1748547914,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16520,
+      "num": 165843,
+      "word": "世界市长对话上海",
+      "onboard_time": 1748525422,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -625,14 +633,6 @@
       "onboard_time": 1748549234,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 10722,
-      "num": 120561,
-      "word": "世界市长对话上海",
-      "onboard_time": 1748525422,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
