@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748540524122,
+  "endTime": 1748543758526,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -99115,6 +99115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42685,
+      "num": 42685,
+      "word": "湖北应城故意伤害案致2死",
+      "onboard_time": 1748540715,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 42614,
       "num": 236151,
       "word": "英国永居等待时间将从5年变为10年",
@@ -100651,6 +100659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38364,
+      "num": 35298,
+      "word": "网红迪士尼晒艺考成绩",
+      "onboard_time": 1748540236,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 38355,
       "num": 336596,
       "word": "gogogo出发当美粉咯",
@@ -101641,14 +101657,6 @@
       "onboard_time": 1747464141,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 35298,
-      "num": 35298,
-      "word": "网红迪士尼晒艺考成绩",
-      "onboard_time": 1748540236,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 35274,
@@ -109593,6 +109601,14 @@
       "onboard_time": 1747922666,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18681,
+      "num": 21295,
+      "word": "迪丽热巴精准命中你的心",
+      "onboard_time": 1748543475,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 18653,

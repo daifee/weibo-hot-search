@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748540524122,
+  "endTime": 1748543758526,
   "band_list": [
     {
       "raw_hot": 973566,
@@ -395,20 +395,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52198,
+      "num": 52198,
+      "word": "男子冒充初中生诱骗近百名中小学女生",
+      "onboard_time": 1748527222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51550,
       "num": 57128,
       "word": "魏劭在引诱",
       "onboard_time": 1748521341,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51498,
-      "num": 51498,
-      "word": "男子冒充初中生诱骗近百名中小学女生",
-      "onboard_time": 1748527222,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50862,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42685,
+      "num": 42685,
+      "word": "湖北应城故意伤害案致2死",
+      "onboard_time": 1748540715,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 41189,
       "num": 41189,
       "word": "刘宇宁在折腰剧组说话插不上嘴",
@@ -427,20 +435,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38364,
+      "num": 35298,
+      "word": "网红迪士尼晒艺考成绩",
+      "onboard_time": 1748540236,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 38180,
       "num": 38180,
       "word": "虞书欣这是凌妙妙返场吗",
       "onboard_time": 1748521701,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35298,
-      "num": 35298,
-      "word": "网红迪士尼晒艺考成绩",
-      "onboard_time": 1748540236,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 33956,
@@ -475,6 +483,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21647,
+      "num": 21647,
+      "word": "藏海传火遍全球",
+      "onboard_time": 1748525241,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 21310,
+      "num": 21310,
+      "word": "藏海传广告",
+      "onboard_time": 1748521162,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20734,
       "num": 94126,
       "word": "不同人对于高考的状态belike",
@@ -483,12 +507,28 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 18681,
+      "num": 21295,
+      "word": "迪丽热巴精准命中你的心",
+      "onboard_time": 1748543475,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11581,
       "num": 83390,
       "word": "听说每个圈子都有自己的毕业照",
       "onboard_time": 1748536518,
       "rank": 29,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 10589,
+      "num": 118204,
+      "word": "世界市长对话上海",
+      "onboard_time": 1748525422,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
