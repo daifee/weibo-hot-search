@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748475541679,
+  "endTime": 1748483965369,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -385,6 +385,14 @@
       "onboard_time": 1747916664,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3120218,
+      "num": 886893,
+      "word": "你女儿失去生命我女儿失去自由",
+      "onboard_time": 1748481800,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3104219,
@@ -1801,6 +1809,14 @@
       "onboard_time": 1747038624,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1655686,
+      "num": 1655686,
+      "word": "马斯克宣布将离开特朗普政府",
+      "onboard_time": 1748480781,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1655230,
@@ -4851,6 +4867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1070417,
+      "num": 1070417,
+      "word": "iPhone17ProMax最新机模",
+      "onboard_time": 1748481199,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1070406,
       "num": 298578,
       "word": "白鹿曾舜晞梁永棋陈鑫海一起去玩了",
@@ -6793,6 +6817,14 @@
       "onboard_time": 1746413602,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 873913,
+      "num": 873913,
+      "word": "苦尽柑来剧组被曝霸凌群演",
+      "onboard_time": 1748476041,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 873139,
@@ -10955,6 +10987,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 637007,
+      "num": 256734,
+      "word": "2岁男童在幼儿园午睡头卡护栏身亡",
+      "onboard_time": 1748478923,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 636705,
       "num": 636705,
       "word": "将门毒后",
@@ -13355,6 +13395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 549334,
+      "num": 549334,
+      "word": "小乔怀孕傻的却是魏劭",
+      "onboard_time": 1748473937,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 549306,
       "num": 549306,
       "word": "侯佩岑拒绝李晟",
@@ -14361,6 +14409,14 @@
       "onboard_time": 1747643546,
       "rank": 35,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 519568,
+      "num": 519568,
+      "word": "经纪人回应刘畊宏被曝借700万台币不还",
+      "onboard_time": 1748478923,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 519558,
@@ -17043,14 +17099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 445005,
-      "num": 445005,
-      "word": "小乔怀孕傻的却是魏劭",
-      "onboard_time": 1748473937,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 444931,
       "num": 411926,
       "word": "巴基斯坦关闭全部领空",
@@ -19681,6 +19729,14 @@
       "onboard_time": 1746626003,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 386269,
+      "num": 195876,
+      "word": "印度强奸犯获准保释与受害者结婚",
+      "onboard_time": 1748476520,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 386043,
@@ -23059,6 +23115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324639,
+      "num": 324639,
+      "word": "单依纯好会选",
+      "onboard_time": 1748480122,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324375,
       "num": 609754,
       "word": "结婚无需户口本首日爸妈们有话说",
@@ -24105,6 +24169,14 @@
       "onboard_time": 1748140460,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308662,
+      "num": 255152,
+      "word": "双胞胎吵架前桌各哄各的",
+      "onboard_time": 1748480183,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 308643,
@@ -27219,6 +27291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271669,
+      "num": 253956,
+      "word": "贾静雯否认丈夫酒驾",
+      "onboard_time": 1748479941,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271665,
       "num": 299126,
       "word": "小鹏MONA要这么讲智驾我可就懂了",
@@ -28641,6 +28721,14 @@
       "onboard_time": 1746971722,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258281,
+      "num": 258281,
+      "word": "一觉醒来天问二号发射成功了",
+      "onboard_time": 1748477124,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258218,
@@ -32563,6 +32651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 227749,
+      "num": 227749,
+      "word": "说到加沙儿童遭遇他愤怒捶桌",
+      "onboard_time": 1748481981,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 227739,
       "num": 367780,
       "word": "王亚飞给宋妍霏化的泥巴妆",
@@ -34696,6 +34792,14 @@
       "word": "沙溢健身后的速度累到摄像",
       "onboard_time": 1746778223,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215495,
+      "num": 223945,
+      "word": "全员加速中南通",
+      "onboard_time": 1748479941,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -43883,6 +43987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189203,
+      "num": 189203,
+      "word": "iOS26新特性",
+      "onboard_time": 1748482761,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 189185,
       "num": 189185,
       "word": "祝绪丹身上不是蝴蝶就是花",
@@ -46963,6 +47075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 181068,
+      "num": 257904,
+      "word": "家门口被害者母亲回应凶手父母道歉信",
+      "onboard_time": 1748483601,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180929,
       "num": 180929,
       "word": "伊藤美诚晋级四强",
@@ -47041,6 +47161,14 @@
       "onboard_time": 1748067921,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180638,
+      "num": 180638,
+      "word": "关税措施被叫停后特朗普政府已上诉",
+      "onboard_time": 1748483001,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180571,
@@ -47265,6 +47393,14 @@
       "onboard_time": 1747370364,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179766,
+      "num": 179766,
+      "word": "加沙母亲抱着一动不动的孩子道歉",
+      "onboard_time": 1748483480,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179764,
@@ -47601,6 +47737,14 @@
       "onboard_time": 1748063481,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178923,
+      "num": 178923,
+      "word": "都灵劝学",
+      "onboard_time": 1748481080,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 178919,
@@ -48049,6 +48193,14 @@
       "onboard_time": 1747194021,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177532,
+      "num": 177532,
+      "word": "叶修",
+      "onboard_time": 1748482881,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 177461,
@@ -49065,6 +49217,14 @@
       "onboard_time": 1747404746,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174847,
+      "num": 174847,
+      "word": "荔枝冷藏一下再吃不上火",
+      "onboard_time": 1748477481,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 174831,
@@ -57115,6 +57275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 155263,
+      "num": 155263,
+      "word": "茂名 流星",
+      "onboard_time": 1748476220,
+      "rank": 30,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 155253,
       "num": 155253,
       "word": "LPL涅槃组全军覆没",
@@ -64179,6 +64347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139362,
+      "num": 139362,
+      "word": "IU新歌MV男主车银优",
+      "onboard_time": 1748475019,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139358,
       "num": 139358,
       "word": "这就是周深高素质的兵",
@@ -65113,6 +65289,14 @@
       "onboard_time": 1747301902,
       "rank": 47,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 137515,
+      "num": 137515,
+      "word": "森林狼vs雷霆",
+      "onboard_time": 1748481321,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 137500,
@@ -68747,6 +68931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129356,
+      "num": 129356,
+      "word": "法院回应弄错被告致同姓名男子被执行",
+      "onboard_time": 1748479641,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129327,
       "num": 129327,
       "word": "莎头组合3连冠",
@@ -69987,6 +70179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126957,
+      "num": 126957,
+      "word": "知情人揭秘赴孟加拉国娶妻内幕",
+      "onboard_time": 1748480062,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 126945,
       "num": 126945,
       "word": "把书啃烂的三花",
@@ -70409,6 +70609,14 @@
       "onboard_time": 1746889643,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126260,
+      "num": 126260,
+      "word": "肖战的美貌加上演技将是绝杀",
+      "onboard_time": 1748480600,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 126254,
@@ -73659,14 +73867,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 118005,
-      "num": 118005,
-      "word": "IU新歌MV男主车银优",
-      "onboard_time": 1748475019,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 117995,
       "num": 117995,
       "word": "这跟一辈子上高中有什么区别",
@@ -75739,6 +75939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113059,
+      "num": 113059,
+      "word": "MAMA官宣香港场",
+      "onboard_time": 1748478800,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113043,
       "num": 113043,
       "word": "藏海从小就是underground",
@@ -75953,6 +76161,14 @@
       "onboard_time": 1748226081,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112363,
+      "num": 112363,
+      "word": "虞书欣灿如繁星制服路透",
+      "onboard_time": 1748481741,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 112359,
@@ -78771,6 +78987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104344,
+      "num": 104344,
+      "word": "特朗普政府被16州提起诉讼",
+      "onboard_time": 1748476581,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104307,
       "num": 112966,
       "word": "TTG战胜Hero",
@@ -78977,6 +79201,14 @@
       "onboard_time": 1747398142,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103639,
+      "num": 204381,
+      "word": "奈丝公主618值得囤",
+      "onboard_time": 1748483121,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103609,
@@ -81067,6 +81299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96559,
+      "num": 96559,
+      "word": "苹果或全面重命名操作系统",
+      "onboard_time": 1748480902,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 96549,
       "num": 296973,
       "word": "女子从12楼意外坠落奇迹生还",
@@ -81363,6 +81603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 95343,
+      "num": 95343,
+      "word": "多地曝谷子店闭店消息",
+      "onboard_time": 1748482041,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95278,
       "num": 376264,
       "word": "易小星人生开门红太敢拍了",
@@ -81441,6 +81689,14 @@
       "onboard_time": 1747942815,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95027,
+      "num": 95027,
+      "word": "曹德旺说福耀科大预算8亿招50人",
+      "onboard_time": 1748483541,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 95024,
@@ -81769,6 +82025,14 @@
       "onboard_time": 1747474341,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93810,
+      "num": 643186,
+      "word": "端午气氛组强势上线",
+      "onboard_time": 1748441003,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93805,
@@ -83227,6 +83491,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 88058,
+      "num": 891274,
+      "word": "公安机关将公开通缉台黑客",
+      "onboard_time": 1748478561,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88040,
       "num": 131584,
       "word": "首款折叠屏iPhone关键部件已送样",
@@ -83345,6 +83617,14 @@
       "onboard_time": 1746303975,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87508,
+      "num": 87508,
+      "word": "荣耀回应新机国内外配置差距",
+      "onboard_time": 1748481199,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 87504,
@@ -87945,14 +88225,6 @@
       "onboard_time": 1747059683,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69713,
-      "num": 643186,
-      "word": "端午气氛组强势上线",
-      "onboard_time": 1748441003,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 69693,
@@ -108905,6 +109177,14 @@
       "onboard_time": 1748172622,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13026,
+      "num": 126500,
+      "word": "碧蓝航线",
+      "onboard_time": 1748482581,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 12995,

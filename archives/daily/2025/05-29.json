@@ -1,7 +1,39 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748475541679,
+  "endTime": 1748483965369,
   "band_list": [
+    {
+      "raw_hot": 3120218,
+      "num": 886893,
+      "word": "你女儿失去生命我女儿失去自由",
+      "onboard_time": 1748481800,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1655686,
+      "num": 1655686,
+      "word": "马斯克宣布将离开特朗普政府",
+      "onboard_time": 1748480781,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1070417,
+      "num": 1070417,
+      "word": "iPhone17ProMax最新机模",
+      "onboard_time": 1748481199,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 873913,
+      "num": 873913,
+      "word": "苦尽柑来剧组被曝霸凌群演",
+      "onboard_time": 1748476041,
+      "rank": 4,
+      "category": "剧集"
+    },
     {
       "raw_hot": 804011,
       "num": 953711,
@@ -12,7 +44,7 @@
     },
     {
       "raw_hot": 714375,
-      "num": 216295,
+      "num": 255653,
       "word": "102岁老人3楼坠落被众人稳稳接住",
       "onboard_time": 1748442564,
       "rank": 10,
@@ -25,6 +57,14 @@
       "onboard_time": 1748446701,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 637007,
+      "num": 256734,
+      "word": "2岁男童在幼儿园午睡头卡护栏身亡",
+      "onboard_time": 1748478923,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 627603,
@@ -51,12 +91,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 445005,
-      "num": 445005,
+      "raw_hot": 549334,
+      "num": 549334,
       "word": "小乔怀孕傻的却是魏劭",
       "onboard_time": 1748473937,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 519568,
+      "num": 519568,
+      "word": "经纪人回应刘畊宏被曝借700万台币不还",
+      "onboard_time": 1748478923,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 429755,
@@ -99,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386269,
+      "num": 195876,
+      "word": "印度强奸犯获准保释与受害者结婚",
+      "onboard_time": 1748476520,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 366675,
       "num": 211228,
       "word": "杨幂躲镜头",
@@ -123,6 +179,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324639,
+      "num": 324639,
+      "word": "单依纯好会选",
+      "onboard_time": 1748480122,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308662,
+      "num": 255152,
+      "word": "双胞胎吵架前桌各哄各的",
+      "onboard_time": 1748480183,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280175,
       "num": 209155,
       "word": "刘宇宁 锡纸抹胸",
@@ -137,6 +209,22 @@
       "onboard_time": 1748443942,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271669,
+      "num": 253956,
+      "word": "贾静雯否认丈夫酒驾",
+      "onboard_time": 1748479941,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258281,
+      "num": 258281,
+      "word": "一觉醒来天问二号发射成功了",
+      "onboard_time": 1748477124,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238164,
@@ -163,6 +251,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 227749,
+      "num": 227749,
+      "word": "说到加沙儿童遭遇他愤怒捶桌",
+      "onboard_time": 1748481981,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 221761,
       "num": 151906,
       "word": "林允身材好绝",
@@ -177,6 +273,14 @@
       "onboard_time": 1748440763,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215495,
+      "num": 223945,
+      "word": "全员加速中南通",
+      "onboard_time": 1748479941,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 212953,
@@ -211,6 +315,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 199433,
+      "num": 199433,
+      "word": "歌手",
+      "onboard_time": 1748482820,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198224,
       "num": 198224,
       "word": "山东高密化工厂爆炸三大原因待查",
@@ -235,6 +347,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189203,
+      "num": 189203,
+      "word": "iOS26新特性",
+      "onboard_time": 1748482761,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 187014,
+      "num": 187014,
+      "word": "藏海烧了父母的人皮",
+      "onboard_time": 1748445742,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183557,
       "num": 135706,
       "word": "马嘉祺歌手再唱你曾是少年",
@@ -243,12 +371,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181230,
-      "num": 142725,
-      "word": "藏海烧了父母的人皮",
-      "onboard_time": 1748445742,
+      "raw_hot": 181068,
+      "num": 257904,
+      "word": "家门口被害者母亲回应凶手父母道歉信",
+      "onboard_time": 1748483601,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180638,
+      "num": 180638,
+      "word": "关税措施被叫停后特朗普政府已上诉",
+      "onboard_time": 1748483001,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 179766,
+      "num": 179766,
+      "word": "加沙母亲抱着一动不动的孩子道歉",
+      "onboard_time": 1748483480,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 178923,
+      "num": 178923,
+      "word": "都灵劝学",
+      "onboard_time": 1748481080,
       "rank": 27,
-      "category": "剧集"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177532,
+      "num": 177532,
+      "word": "叶修",
+      "onboard_time": 1748482881,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 177109,
@@ -257,6 +417,22 @@
       "onboard_time": 1748447722,
       "rank": 28,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 174847,
+      "num": 174847,
+      "word": "荔枝冷藏一下再吃不上火",
+      "onboard_time": 1748477481,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 155263,
+      "num": 155263,
+      "word": "茂名 流星",
+      "onboard_time": 1748476220,
+      "rank": 30,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 142762,
@@ -275,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139362,
+      "num": 139362,
+      "word": "IU新歌MV男主车银优",
+      "onboard_time": 1748475019,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 137515,
+      "num": 137515,
+      "word": "森林狼vs雷霆",
+      "onboard_time": 1748481321,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132952,
       "num": 132952,
       "word": "王者荣耀",
@@ -288,6 +480,14 @@
       "word": "火流星",
       "onboard_time": 1748447840,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129356,
+      "num": 129356,
+      "word": "法院回应弄错被告致同姓名男子被执行",
+      "onboard_time": 1748479641,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -305,6 +505,22 @@
       "onboard_time": 1748446462,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 126957,
+      "num": 126957,
+      "word": "知情人揭秘赴孟加拉国娶妻内幕",
+      "onboard_time": 1748480062,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 126260,
+      "num": 126260,
+      "word": "肖战的美貌加上演技将是绝杀",
+      "onboard_time": 1748480600,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 121858,
@@ -331,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118005,
-      "num": 118005,
-      "word": "IU新歌MV男主车银优",
-      "onboard_time": 1748475019,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 116559,
       "num": 116559,
       "word": "高敏感是一种很珍贵的天赋",
@@ -353,6 +561,22 @@
       "onboard_time": 1748474900,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 113059,
+      "num": 113059,
+      "word": "MAMA官宣香港场",
+      "onboard_time": 1748478800,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 112363,
+      "num": 112363,
+      "word": "虞书欣灿如繁星制服路透",
+      "onboard_time": 1748481741,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 110190,
@@ -395,11 +619,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104344,
+      "num": 104344,
+      "word": "特朗普政府被16州提起诉讼",
+      "onboard_time": 1748476581,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104309,
       "num": 104309,
       "word": "卫生巾 妇科感染",
       "onboard_time": 1748435121,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103639,
+      "num": 204381,
+      "word": "奈丝公主618值得囤",
+      "onboard_time": 1748483121,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -427,6 +667,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96559,
+      "num": 96559,
+      "word": "苹果或全面重命名操作系统",
+      "onboard_time": 1748480902,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 95343,
+      "num": 95343,
+      "word": "多地曝谷子店闭店消息",
+      "onboard_time": 1748482041,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95119,
       "num": 198228,
       "word": "美国再对大学祭杀招或正自废武功",
@@ -441,6 +697,22 @@
       "onboard_time": 1748431102,
       "rank": 48,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 95027,
+      "num": 95027,
+      "word": "曹德旺说福耀科大预算8亿招50人",
+      "onboard_time": 1748483541,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 93810,
+      "num": 561897,
+      "word": "端午气氛组强势上线",
+      "onboard_time": 1748441003,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91794,
@@ -465,6 +737,22 @@
       "onboard_time": 1748474839,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 88058,
+      "num": 891274,
+      "word": "公安机关将公开通缉台黑客",
+      "onboard_time": 1748478561,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87508,
+      "num": 87508,
+      "word": "荣耀回应新机国内外配置差距",
+      "onboard_time": 1748481199,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 79008,
@@ -521,14 +809,6 @@
       "onboard_time": 1748475079,
       "rank": 40,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 63512,
-      "num": 561897,
-      "word": "端午气氛组强势上线",
-      "onboard_time": 1748441003,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 60816,
@@ -713,6 +993,14 @@
       "onboard_time": 1748462414,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13026,
+      "num": 126500,
+      "word": "碧蓝航线",
+      "onboard_time": 1748482581,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 11955,
