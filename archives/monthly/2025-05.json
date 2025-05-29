@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748485365826,
+  "endTime": 1748488778508,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -8051,6 +8051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 784688,
+      "num": 784688,
+      "word": "蜜丝婷 王楚钦",
+      "onboard_time": 1748224460,
+      "rank": 22,
+      "category": "美妆,体育"
+    },
+    {
       "raw_hot": 784156,
       "num": 380897,
       "word": "赵磊婚礼花了一两百万",
@@ -8417,6 +8425,14 @@
       "onboard_time": 1746505943,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 764741,
+      "num": 764741,
+      "word": "高考人数8年首次降低释放什么信号",
+      "onboard_time": 1748485820,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 764402,
@@ -10988,7 +11004,7 @@
     },
     {
       "raw_hot": 637007,
-      "num": 259918,
+      "num": 339285,
       "word": "2岁男童在幼儿园午睡头卡护栏身亡",
       "onboard_time": 1748478923,
       "rank": 11,
@@ -12065,6 +12081,14 @@
       "onboard_time": 1746288021,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 597212,
+      "num": 597212,
+      "word": "强闯我使馆的韩国男子被判刑",
+      "onboard_time": 1748486541,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 597096,
@@ -17820,7 +17844,7 @@
     },
     {
       "raw_hot": 427469,
-      "num": 257134,
+      "num": 287813,
       "word": "双胞胎吵架前桌各哄各的",
       "onboard_time": 1748480183,
       "rank": 13,
@@ -19740,7 +19764,7 @@
     },
     {
       "raw_hot": 386269,
-      "num": 216064,
+      "num": 258549,
       "word": "印度强奸犯获准保释与受害者结婚",
       "onboard_time": 1748476520,
       "rank": 21,
@@ -19897,6 +19921,14 @@
       "onboard_time": 1746267981,
       "rank": 21,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 381994,
+      "num": 441387,
+      "word": "家门口被害者母亲回应凶手父母道歉信",
+      "onboard_time": 1748483601,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381679,
@@ -20963,6 +20995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 362244,
+      "num": 362244,
+      "word": "汪顺撕拉片",
+      "onboard_time": 1748485280,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 361950,
       "num": 254813,
       "word": "阿姨是黄圣依和妈妈之间的禁忌词",
@@ -20985,14 +21025,6 @@
       "onboard_time": 1747282284,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 361278,
-      "num": 345802,
-      "word": "蜜丝婷 王楚钦",
-      "onboard_time": 1748224460,
-      "rank": 22,
-      "category": "美妆,体育"
     },
     {
       "raw_hot": 361092,
@@ -27081,14 +27113,6 @@
       "onboard_time": 1748257463,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274056,
-      "num": 441387,
-      "word": "家门口被害者母亲回应凶手父母道歉信",
-      "onboard_time": 1748483601,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 274047,
@@ -33379,6 +33403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223321,
+      "num": 287476,
+      "word": "子夜归",
+      "onboard_time": 1748484560,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223311,
       "num": 258302,
       "word": "宋威龙早该闯这个赛道了",
@@ -34449,6 +34481,14 @@
       "onboard_time": 1747610720,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217317,
+      "num": 255990,
+      "word": "加沙母亲抱着一动不动的孩子道歉",
+      "onboard_time": 1748483480,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 217307,
@@ -37603,14 +37643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205096,
-      "num": 255990,
-      "word": "加沙母亲抱着一动不动的孩子道歉",
-      "onboard_time": 1748483480,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 205090,
       "num": 205090,
       "word": "多哈世乒赛直播",
@@ -40313,6 +40345,14 @@
       "onboard_time": 1747632504,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197565,
+      "num": 197565,
+      "word": "雷霆晋级总决赛",
+      "onboard_time": 1748488041,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 197555,
@@ -45737,6 +45777,14 @@
       "onboard_time": 1747560081,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185198,
+      "num": 214351,
+      "word": "张婧仪用emoji回复肖战",
+      "onboard_time": 1748487801,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 185153,
@@ -55411,6 +55459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159211,
+      "num": 271656,
+      "word": "谁能拒绝淘宝西瓜免单",
+      "onboard_time": 1748488102,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 159200,
       "num": 159200,
       "word": "平番排序方式",
@@ -56177,6 +56233,14 @@
       "onboard_time": 1747638563,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 157605,
+      "num": 157605,
+      "word": "美国务卿称将开始吊销中国留学生签证",
+      "onboard_time": 1748485881,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157600,
@@ -58675,6 +58739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152367,
+      "num": 152367,
+      "word": "卡鲁索人情篮球",
+      "onboard_time": 1748487921,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152348,
       "num": 302709,
       "word": "绵阳一村民在外务工家中老宅被拆",
@@ -60195,14 +60267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148678,
-      "num": 148678,
-      "word": "子夜归",
-      "onboard_time": 1748484560,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148648,
       "num": 148648,
       "word": "张博恒说坚持是抵达的答案",
@@ -61257,6 +61321,14 @@
       "onboard_time": 1748227342,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145942,
+      "num": 167968,
+      "word": "登陆少年组合在线求助",
+      "onboard_time": 1748487981,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 145938,
@@ -63075,6 +63147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141863,
+      "num": 141863,
+      "word": "曝温州一私立学校称文件要求停止办学",
+      "onboard_time": 1748487861,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141843,
       "num": 406445,
       "word": "外交部回应台湾地区未收到世卫大会邀请",
@@ -63153,6 +63233,14 @@
       "onboard_time": 1747173014,
       "rank": 19,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 141617,
+      "num": 141617,
+      "word": "歪头Labubu",
+      "onboard_time": 1748486660,
+      "rank": 40,
+      "category": "休闲"
     },
     {
       "raw_hot": 141600,
@@ -63617,6 +63705,14 @@
       "onboard_time": 1746180630,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140785,
+      "num": 259794,
+      "word": "鲁比奥叫嚣将吊销中国学生签证",
+      "onboard_time": 1748486961,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140760,
@@ -65145,6 +65241,14 @@
       "onboard_time": 1746275421,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137836,
+      "num": 137836,
+      "word": "苏州一公园司马光砸缸被吐槽像猴",
+      "onboard_time": 1748488401,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137818,
@@ -67505,6 +67609,14 @@
       "onboard_time": 1746286040,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132555,
+      "num": 132555,
+      "word": "曹恩齐在线等",
+      "onboard_time": 1748488041,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 132543,
@@ -73243,6 +73355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119734,
+      "num": 405402,
+      "word": "90年前的今天飞夺泸定桥",
+      "onboard_time": 1748485759,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119718,
       "num": 147119,
       "word": "活在教师链最底端的临聘教师",
@@ -73921,6 +74041,14 @@
       "onboard_time": 1746947480,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118001,
+      "num": 118001,
+      "word": "HYBE成立北京分公司",
+      "onboard_time": 1748486719,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 117995,
@@ -77995,6 +78123,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 107565,
+      "num": 219559,
+      "word": "升学路径不再是单一的高考独木桥",
+      "onboard_time": 1748487201,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107552,
       "num": 107552,
       "word": "BLG晋级多伦多大师赛",
@@ -78433,6 +78569,14 @@
       "onboard_time": 1747878624,
       "rank": 39,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 106175,
+      "num": 264356,
+      "word": "明晚8点京东发6180元",
+      "onboard_time": 1748488102,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 106150,
@@ -82177,14 +82321,6 @@
       "onboard_time": 1748077521,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93480,
-      "num": 93480,
-      "word": "汪顺撕拉片",
-      "onboard_time": 1748485280,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 93383,
@@ -86913,6 +87049,14 @@
       "onboard_time": 1747193902,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 75595,
+      "num": 202402,
+      "word": "马斯克称身心俱疲",
+      "onboard_time": 1748487861,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75591,
@@ -109155,6 +109299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 13199,
+      "num": 269723,
+      "word": "肠道健康为什么如此重要",
+      "onboard_time": 1748488460,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 13183,
       "num": 199088,
       "word": "夏季衣物如何有效防止透薄尴尬",
@@ -111265,6 +111417,14 @@
       "onboard_time": 1747039523,
       "rank": 39,
       "category": "民生新闻,海外新闻"
+    },
+    {
+      "raw_hot": 7943,
+      "num": 203045,
+      "word": "荔枝冷藏一下再吃就不上火吗",
+      "onboard_time": 1748488460,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 7835,

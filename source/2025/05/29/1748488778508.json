@@ -1,0 +1,410 @@
+{
+  "runTime": 1748488778508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1243879,
+        "num": 1243879,
+        "word": "iPhone17ProMax最新机模",
+        "onboard_time": 1748481199,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 943326,
+        "num": 943326,
+        "word": "马斯克宣布将离开特朗普政府",
+        "onboard_time": 1748480781,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74501,
+        "num": 810768,
+        "word": "公安机关将公开通缉台黑客",
+        "onboard_time": 1748478561,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784688,
+        "num": 784688,
+        "word": "蜜丝婷 王楚钦",
+        "onboard_time": 1748486719,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 764741,
+        "num": 764741,
+        "word": "高考人数8年首次降低释放什么信号",
+        "onboard_time": 1748485820,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 597212,
+        "num": 597212,
+        "word": "强闯我使馆的韩国男子被判刑",
+        "onboard_time": 1748486541,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 430624,
+        "num": 430624,
+        "word": "小乔怀孕傻的却是魏劭",
+        "onboard_time": 1748473937,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430619,
+        "num": 430619,
+        "word": "苦尽柑来剧组被曝霸凌群演",
+        "onboard_time": 1748476041,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414320,
+        "num": 414320,
+        "word": "黄金",
+        "onboard_time": 1748484200,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119734,
+        "num": 405402,
+        "word": "90年前的今天飞夺泸定桥",
+        "onboard_time": 1748485759,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402854,
+        "num": 402854,
+        "word": "102岁老人3楼坠落被众人稳稳接住",
+        "onboard_time": 1748442564,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 381994,
+        "num": 381994,
+        "word": "家门口被害者母亲回应凶手父母道歉信",
+        "onboard_time": 1748483601,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362244,
+        "num": 362244,
+        "word": "汪顺撕拉片",
+        "onboard_time": 1748485280,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339285,
+        "num": 339285,
+        "word": "2岁男童在幼儿园午睡头卡护栏身亡",
+        "onboard_time": 1748478923,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287813,
+        "num": 287813,
+        "word": "双胞胎吵架前桌各哄各的",
+        "onboard_time": 1748480183,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223321,
+        "num": 287476,
+        "word": "子夜归",
+        "onboard_time": 1748484560,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213220,
+        "num": 281501,
+        "word": "单依纯好会选",
+        "onboard_time": 1748480122,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186603,
+        "num": 275874,
+        "word": "经纪人回应刘畊宏被曝借700万台币不还",
+        "onboard_time": 1748478923,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159211,
+        "num": 271656,
+        "word": "谁能拒绝淘宝西瓜免单",
+        "onboard_time": 1748488102,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13199,
+        "num": 269723,
+        "word": "肠道健康为什么如此重要",
+        "onboard_time": 1748488460,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106175,
+        "num": 264356,
+        "word": "明晚8点京东发6180元",
+        "onboard_time": 1748488102,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140785,
+        "num": 259794,
+        "word": "鲁比奥叫嚣将吊销中国学生签证",
+        "onboard_time": 1748486961,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258549,
+        "num": 258549,
+        "word": "印度强奸犯获准保释与受害者结婚",
+        "onboard_time": 1748476520,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224652,
+        "num": 224652,
+        "word": "说到加沙儿童遭遇他愤怒捶桌",
+        "onboard_time": 1748481981,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107565,
+        "num": 219559,
+        "word": "升学路径不再是单一的高考独木桥",
+        "onboard_time": 1748487201,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217317,
+        "num": 217317,
+        "word": "加沙母亲抱着一动不动的孩子道歉",
+        "onboard_time": 1748483480,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185198,
+        "num": 214351,
+        "word": "张婧仪用emoji回复肖战",
+        "onboard_time": 1748487801,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168836,
+        "num": 210897,
+        "word": "藏海烧了父母的人皮",
+        "onboard_time": 1748445742,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7943,
+        "num": 203045,
+        "word": "荔枝冷藏一下再吃就不上火吗",
+        "onboard_time": 1748488460,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 75595,
+        "num": 202402,
+        "word": "马斯克称身心俱疲",
+        "onboard_time": 1748487861,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197565,
+        "num": 197565,
+        "word": "雷霆晋级总决赛",
+        "onboard_time": 1748488041,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186307,
+        "num": 186307,
+        "word": "都灵劝学",
+        "onboard_time": 1748481080,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168996,
+        "num": 168996,
+        "word": "关税措施被叫停后特朗普政府已上诉",
+        "onboard_time": 1748483001,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143698,
+        "num": 168187,
+        "word": "全员加速中南通",
+        "onboard_time": 1748479941,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145942,
+        "num": 167968,
+        "word": "登陆少年组合在线求助",
+        "onboard_time": 1748487981,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167923,
+        "num": 167923,
+        "word": "哈佛6700名在校生需转学或离境",
+        "onboard_time": 1748456775,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167178,
+        "num": 167178,
+        "word": "不良人",
+        "onboard_time": 1748486541,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 157605,
+        "num": 157605,
+        "word": "美国务卿称将开始吊销中国留学生签证",
+        "onboard_time": 1748485881,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152367,
+        "num": 152367,
+        "word": "卡鲁索人情篮球",
+        "onboard_time": 1748487921,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141863,
+        "num": 141863,
+        "word": "曝温州一私立学校称文件要求停止办学",
+        "onboard_time": 1748487861,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141617,
+        "num": 141617,
+        "word": "歪头Labubu",
+        "onboard_time": 1748486660,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 137836,
+        "num": 137836,
+        "word": "苏州一公园司马光砸缸被吐槽像猴",
+        "onboard_time": 1748488401,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132555,
+        "num": 132555,
+        "word": "曹恩齐在线等",
+        "onboard_time": 1748488041,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132537,
+        "num": 132537,
+        "word": "泡泡玛特回应Labubu品控问题",
+        "onboard_time": 1748446761,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129646,
+        "num": 129646,
+        "word": "森林狼vs雷霆",
+        "onboard_time": 1748481321,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126106,
+        "num": 126106,
+        "word": "一觉醒来天问二号发射成功了",
+        "onboard_time": 1748477124,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123258,
+        "num": 123258,
+        "word": "贾静雯否认丈夫酒驾",
+        "onboard_time": 1748479941,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118001,
+        "num": 118001,
+        "word": "HYBE成立北京分公司",
+        "onboard_time": 1748486719,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117465,
+        "num": 117465,
+        "word": "被芭莎的镜头签吓死",
+        "onboard_time": 1748442863,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 114481,
+        "num": 114481,
+        "word": "车银优入伍时间",
+        "onboard_time": 1748484140,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动少先队事业不断取得新成绩#"
+    }
+  }
+}
