@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748537320598,
+  "endTime": 1748539452578,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -96163,6 +96163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50862,
+      "num": 116541,
+      "word": "大乔跳楼幕后",
+      "onboard_time": 1748536698,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50789,
       "num": 284899,
       "word": "印巴剑拔弩张背后有何深层矛盾",
@@ -99585,6 +99593,14 @@
       "onboard_time": 1747965922,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 41189,
+      "num": 41189,
+      "word": "刘宇宁在折腰剧组说话插不上嘴",
+      "onboard_time": 1748538798,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 41183,
@@ -103161,14 +103177,6 @@
       "onboard_time": 1747307603,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 31799,
-      "num": 116541,
-      "word": "大乔跳楼幕后",
-      "onboard_time": 1748536698,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 31772,

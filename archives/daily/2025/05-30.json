@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748537320598,
+  "endTime": 1748539452578,
   "band_list": [
     {
       "raw_hot": 973566,
@@ -403,12 +403,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31799,
+      "raw_hot": 51498,
+      "num": 51498,
+      "word": "男子冒充初中生诱骗近百名中小学女生",
+      "onboard_time": 1748527222,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50862,
       "num": 116541,
       "word": "大乔跳楼幕后",
       "onboard_time": 1748536698,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41189,
+      "num": 41189,
+      "word": "刘宇宁在折腰剧组说话插不上嘴",
+      "onboard_time": 1748538798,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38180,
+      "num": 38180,
+      "word": "虞书欣这是凌妙妙返场吗",
+      "onboard_time": 1748521701,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 22571,

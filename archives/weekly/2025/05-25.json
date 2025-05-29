@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748537320598,
+  "endTime": 1748539452578,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -16883,6 +16883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50862,
+      "num": 116541,
+      "word": "大乔跳楼幕后",
+      "onboard_time": 1748536698,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50783,
       "num": 285661,
       "word": "男子不满分手连杀两人潜逃11年被抓",
@@ -17473,6 +17481,14 @@
       "onboard_time": 1748338102,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41189,
+      "num": 41189,
+      "word": "刘宇宁在折腰剧组说话插不上嘴",
+      "onboard_time": 1748538798,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 41112,
@@ -18073,14 +18089,6 @@
       "onboard_time": 1748168480,
       "rank": 29,
       "category": "军事,民生新闻"
-    },
-    {
-      "raw_hot": 31799,
-      "num": 116541,
-      "word": "大乔跳楼幕后",
-      "onboard_time": 1748536698,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 31744,
