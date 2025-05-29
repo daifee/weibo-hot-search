@@ -1,6 +1,6 @@
 {
   "startTime": 1748449898471,
-  "endTime": 1748500628869,
+  "endTime": 1748501446227,
   "band_list": [
     {
       "raw_hot": 3276032,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513355,
+      "num": 555263,
+      "word": "巴勒斯坦代表泪洒安理会",
+      "onboard_time": 1748498782,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 499352,
       "num": 499352,
       "word": "张婧仪用emoji回复肖战",
@@ -265,6 +273,14 @@
       "onboard_time": 1748491341,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431661,
+      "num": 431661,
+      "word": "张凌赫王安宇 江浙沪长相",
+      "onboard_time": 1748495783,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 429755,
@@ -305,14 +321,6 @@
       "onboard_time": 1748484200,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 405825,
-      "num": 405825,
-      "word": "张凌赫王安宇 江浙沪长相",
-      "onboard_time": 1748495783,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 404661,
@@ -411,20 +419,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 338543,
+      "num": 513236,
+      "word": "长安的荔枝定档比送荔枝难吗",
+      "onboard_time": 1748499802,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 331307,
+      "num": 307239,
+      "word": "黄景瑜腿上人山人海",
+      "onboard_time": 1748498422,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 329492,
+      "num": 329492,
+      "word": "孙颖莎教雨果包粽子",
+      "onboard_time": 1748496861,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 328651,
       "num": 328651,
       "word": "泡泡玛特回应Labubu品控问题",
       "onboard_time": 1748446761,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 327476,
-      "num": 327476,
-      "word": "孙颖莎教雨果包粽子",
-      "onboard_time": 1748496861,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 305011,
@@ -475,28 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268678,
-      "num": 268678,
-      "word": "黄景瑜腿上人山人海",
-      "onboard_time": 1748498422,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267803,
       "num": 250150,
       "word": "全员加速中南通",
       "onboard_time": 1748479941,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265547,
-      "num": 555263,
-      "word": "巴勒斯坦代表泪洒安理会",
-      "onboard_time": 1748498782,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 264866,
@@ -539,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248867,
+      "num": 248867,
+      "word": "济南一商铺发生火灾1人失联",
+      "onboard_time": 1748497881,
+      "rank": 22,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 238164,
       "num": 238164,
       "word": "客人闹事店主护妻反击被判入狱",
@@ -561,6 +577,14 @@
       "onboard_time": 1748430380,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 236089,
+      "num": 236089,
+      "word": "孙颖莎说女单决赛可以载入史册",
+      "onboard_time": 1748499502,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 230776,
@@ -595,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223337,
-      "num": 223337,
-      "word": "济南一商铺发生火灾1人失联",
-      "onboard_time": 1748497881,
-      "rank": 22,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 221761,
       "num": 151906,
       "word": "林允身材好绝",
@@ -617,6 +633,14 @@
       "onboard_time": 1748489782,
       "rank": 31,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 218700,
+      "num": 316435,
+      "word": "李现拍鸟成为内蒙古省考面试题",
+      "onboard_time": 1748499383,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 218481,
@@ -675,6 +699,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 210358,
+      "num": 210358,
+      "word": "工作后精简护肤三件套",
+      "onboard_time": 1748500341,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 208053,
       "num": 222377,
       "word": "唐诡3全剧杀青",
@@ -689,6 +721,14 @@
       "onboard_time": 1748415501,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203470,
+      "num": 203470,
+      "word": "孙颖莎说不受伤是第一位的",
+      "onboard_time": 1748500283,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 202512,
@@ -739,22 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198781,
-      "num": 198781,
-      "word": "孙颖莎说不受伤是第一位的",
-      "onboard_time": 1748500283,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 198598,
-      "num": 289875,
-      "word": "李现拍鸟成为内蒙古省考面试题",
-      "onboard_time": 1748499383,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198224,
       "num": 198224,
       "word": "山东高密化工厂爆炸三大原因待查",
@@ -801,14 +825,6 @@
       "onboard_time": 1748488880,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 189879,
-      "num": 189879,
-      "word": "孙颖莎说女单决赛可以载入史册",
-      "onboard_time": 1748499502,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 189815,
@@ -915,14 +931,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 174134,
-      "num": 174134,
-      "word": "工作后精简护肤三件套",
-      "onboard_time": 1748500341,
-      "rank": 37,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 171714,
       "num": 186847,
       "word": "苏州一公园司马光砸缸被吐槽像猴",
@@ -931,12 +939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170599,
-      "num": 289042,
-      "word": "长安的荔枝定档比送荔枝难吗",
-      "onboard_time": 1748499802,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 171576,
+      "num": 171576,
+      "word": "孙颖莎说已习惯面对全世界的冲击",
+      "onboard_time": 1748500103,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 167380,
@@ -969,14 +977,6 @@
       "onboard_time": 1748492602,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164136,
-      "num": 164136,
-      "word": "孙颖莎说已习惯面对全世界的冲击",
-      "onboard_time": 1748500103,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 159211,
@@ -1027,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153174,
+      "num": 153174,
+      "word": "体坛零距离",
+      "onboard_time": 1748501361,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153083,
       "num": 153083,
       "word": "端午假期天气地图来了",
@@ -1057,6 +1065,22 @@
       "onboard_time": 1748493622,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147348,
+      "num": 172241,
+      "word": "张真源一方有难八方添乱",
+      "onboard_time": 1748500822,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147101,
+      "num": 147101,
+      "word": "瑞士巨型冰川突然断裂",
+      "onboard_time": 1748499802,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 147097,
@@ -1139,6 +1163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140683,
+      "num": 140683,
+      "word": "美国切断部分对华半导体技术出口",
+      "onboard_time": 1748498183,
+      "rank": 43,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 140138,
       "num": 140138,
       "word": "女生旅行的安全感是西安旅游给的",
@@ -1163,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137171,
+      "num": 137171,
+      "word": "假货Lafufu成海外流量密码",
+      "onboard_time": 1748500522,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137111,
       "num": 210903,
       "word": "肖战回应人皮戏一镜到底",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1748485101,
       "rank": 28,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 135220,
-      "num": 135220,
-      "word": "美国切断部分对华半导体技术出口",
-      "onboard_time": 1748498183,
-      "rank": 43,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 135073,
@@ -1251,14 +1283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129299,
-      "num": 129299,
-      "word": "瑞士巨型冰川突然断裂",
-      "onboard_time": 1748499802,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128683,
       "num": 128683,
       "word": "虞书欣灿如繁星制服路透",
@@ -1289,14 +1313,6 @@
       "onboard_time": 1748500582,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 127567,
-      "num": 127567,
-      "word": "假货Lafufu成海外流量密码",
-      "onboard_time": 1748500522,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126957,
@@ -1355,12 +1371,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118608,
+      "num": 118608,
+      "word": "林志玲cos甄嬛行礼",
+      "onboard_time": 1748501421,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118001,
       "num": 118001,
       "word": "HYBE成立北京分公司",
       "onboard_time": 1748486719,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117655,
+      "num": 117655,
+      "word": "刘宇宁也是当天才知道折腰空降",
+      "onboard_time": 1748501421,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 116559,
@@ -1587,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92543,
+      "num": 202214,
+      "word": "李嘉鑫藏海传内娱打女上新了",
+      "onboard_time": 1748501121,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91794,
       "num": 91794,
       "word": "deepseek",
@@ -1627,20 +1667,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83436,
+      "num": 188636,
+      "word": "藏海传这段给我看的一愣一愣的",
+      "onboard_time": 1748498782,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83425,
       "num": 202402,
       "word": "马斯克称身心俱疲",
       "onboard_time": 1748487861,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 80250,
-      "num": 188636,
-      "word": "藏海传这段给我看的一愣一愣的",
-      "onboard_time": 1748498782,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 79008,
@@ -1755,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59584,
+      "num": 221160,
+      "word": "武汉城运再回应网红桥被指圈地收费",
+      "onboard_time": 1748499621,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58644,
       "num": 58644,
       "word": "谁能把张小婉电池扣了",
@@ -1787,12 +1835,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 49681,
-      "num": 221160,
-      "word": "武汉城运再回应网红桥被指圈地收费",
-      "onboard_time": 1748499621,
+      "raw_hot": 52334,
+      "num": 185467,
+      "word": "益生菌可以减肥吗",
+      "onboard_time": 1748500941,
       "rank": 28,
-      "category": "民生新闻"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 49142,
@@ -1979,6 +2027,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 17189,
+      "num": 221632,
+      "word": "纳米比亚上空的星舰九号",
+      "onboard_time": 1748500103,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15507,
       "num": 15507,
       "word": "自我接纳",
@@ -2033,14 +2089,6 @@
       "onboard_time": 1748489180,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 12312,
-      "num": 221632,
-      "word": "纳米比亚上空的星舰九号",
-      "onboard_time": 1748500103,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 11955,
