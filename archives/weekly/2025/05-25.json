@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748515599267,
+  "endTime": 1748517735373,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -273,6 +273,14 @@
       "onboard_time": 1748492602,
       "rank": 43,
       "category": "海外新闻,艺人"
+    },
+    {
+      "raw_hot": 1598879,
+      "num": 1598879,
+      "word": "折腰大结局",
+      "onboard_time": 1748514140,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1588791,
@@ -641,14 +649,6 @@
       "onboard_time": 1748187864,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1183341,
-      "num": 1189334,
-      "word": "折腰大结局",
-      "onboard_time": 1748514140,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 1167460,
@@ -1235,6 +1235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 804252,
+      "num": 592010,
+      "word": "魏梁结局",
+      "onboard_time": 1748515460,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 804021,
       "num": 1139804,
       "word": "藏海传收视率",
@@ -1651,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 704975,
+      "num": 296473,
+      "word": "北京月薪3万一天要花多少钱",
+      "onboard_time": 1748515460,
+      "rank": 42,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 703060,
       "num": 471358,
       "word": "肖战腹肌",
@@ -2035,6 +2051,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 601289,
+      "num": 293692,
+      "word": "大乔死了",
+      "onboard_time": 1748517140,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 600854,
       "num": 360525,
       "word": "李沐宸对公开恋情的态度",
@@ -2097,6 +2121,14 @@
       "onboard_time": 1748165061,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 590696,
+      "num": 590696,
+      "word": "独子失联30年父母离世后想继承遗产",
+      "onboard_time": 1748513960,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 589406,
@@ -4003,6 +4035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324038,
+      "num": 260998,
+      "word": "月经是身体的晴雨表",
+      "onboard_time": 1748515401,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 323557,
       "num": 399827,
       "word": "HYBE向腾讯音乐出售SM股份",
@@ -4187,14 +4227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305239,
-      "num": 260998,
-      "word": "月经是身体的晴雨表",
-      "onboard_time": 1748515401,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 305011,
       "num": 334717,
       "word": "熊孩子闯入装修别墅搞破坏业主赠试卷",
@@ -4257,6 +4289,14 @@
       "onboard_time": 1748135780,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 302130,
+      "num": 314635,
+      "word": "比武艺拿蛋糕还好笑的场面出现了",
+      "onboard_time": 1748512401,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 301750,
@@ -4585,14 +4625,6 @@
       "onboard_time": 1748317521,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 275812,
-      "num": 314635,
-      "word": "比武艺拿蛋糕还好笑的场面出现了",
-      "onboard_time": 1748512401,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 275475,
@@ -5627,6 +5659,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 224489,
+      "num": 224489,
+      "word": "王安宇拍的刘浩存",
+      "onboard_time": 1748515581,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224370,
       "num": 417601,
       "word": "多方回应山东高密一化工厂爆炸",
@@ -6435,6 +6475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200597,
+      "num": 200597,
+      "word": "林俊杰西安",
+      "onboard_time": 1748515700,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200505,
       "num": 357650,
       "word": "荣耀新CEO李健国内首秀",
@@ -6609,6 +6657,14 @@
       "onboard_time": 1748433801,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197888,
+      "num": 197888,
+      "word": "孙颖莎说和王楚钦目标一致",
+      "onboard_time": 1748512520,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 197883,
@@ -6873,14 +6929,6 @@
       "onboard_time": 1748432722,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194413,
-      "num": 215006,
-      "word": "独子失联30年父母离世后想继承遗产",
-      "onboard_time": 1748513960,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194143,
@@ -8523,6 +8571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170562,
+      "num": 170562,
+      "word": "泡泡玛特暂停Labubu在英销售",
+      "onboard_time": 1748517140,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 170444,
       "num": 170444,
       "word": "等桂味",
@@ -8723,6 +8779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 168121,
+      "num": 168121,
+      "word": "黄觉你真是个取名鬼才",
+      "onboard_time": 1748515761,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168086,
       "num": 168086,
       "word": "男子共享单车内放情趣用品被抓",
@@ -8801,6 +8865,14 @@
       "onboard_time": 1748175024,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167064,
+      "num": 147184,
+      "word": "赵丽颖新剧给我看的一愣一愣的",
+      "onboard_time": 1748516419,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 166975,
@@ -8889,14 +8961,6 @@
       "onboard_time": 1748144061,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165608,
-      "num": 165608,
-      "word": "孙颖莎说和王楚钦目标一致",
-      "onboard_time": 1748512520,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 165601,
@@ -9152,14 +9216,6 @@
       "word": "宋威龙好帅",
       "onboard_time": 1748274501,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162790,
-      "num": 162790,
-      "word": "魏梁结局",
-      "onboard_time": 1748515460,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -9691,14 +9747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 155455,
-      "num": 155455,
-      "word": "北京月薪3万一天要花多少钱",
-      "onboard_time": 1748515460,
-      "rank": 42,
-      "category": "情感,民生新闻"
-    },
-    {
       "raw_hot": 155452,
       "num": 155452,
       "word": "王源三巡重庆官宣",
@@ -9984,6 +10032,14 @@
       "word": "陷入我们的热恋云包场",
       "onboard_time": 1748427261,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152141,
+      "num": 152141,
+      "word": "她什么都没做他已经爱惨了",
+      "onboard_time": 1748516841,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -10379,6 +10435,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 145522,
+      "num": 145522,
+      "word": "和伴侣做同事是什么感觉",
+      "onboard_time": 1748511861,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145453,
       "num": 145453,
       "word": "平津侯藏海CP",
@@ -10473,14 +10537,6 @@
       "onboard_time": 1748173523,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144372,
-      "num": 144372,
-      "word": "和伴侣做同事是什么感觉",
-      "onboard_time": 1748511861,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 144281,
@@ -10580,7 +10636,7 @@
     },
     {
       "raw_hot": 143246,
-      "num": 158145,
+      "num": 300311,
       "word": "美歧视性做法戳穿了自己的谎言",
       "onboard_time": 1748505261,
       "rank": 38,
@@ -10977,14 +11033,6 @@
       "onboard_time": 1748172321,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139097,
-      "num": 139097,
-      "word": "王安宇拍的刘浩存",
-      "onboard_time": 1748515581,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 139028,
@@ -12012,7 +12060,7 @@
     },
     {
       "raw_hot": 125591,
-      "num": 159603,
+      "num": 175797,
       "word": "DeepSeek的低调升级远超预期",
       "onboard_time": 1748515100,
       "rank": 39,
@@ -12363,6 +12411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 120219,
+      "num": 120219,
+      "word": "哇哈哈AD钙奶",
+      "onboard_time": 1748516841,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120181,
       "num": 180136,
       "word": "清融发文告别eStar",
@@ -12449,6 +12505,14 @@
       "onboard_time": 1748495902,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 118374,
+      "num": 118374,
+      "word": "印度蒙古将举行联合军演",
+      "onboard_time": 1748516120,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118199,
@@ -13560,6 +13624,14 @@
       "word": "睡前饿一饿对脾胃好吗",
       "onboard_time": 1748416641,
       "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98965,
+      "num": 98965,
+      "word": "为什么肠癌盯上了年轻人",
+      "onboard_time": 1748516301,
+      "rank": 48,
       "category": "健康医疗"
     },
     {
@@ -14737,6 +14809,14 @@
       "onboard_time": 1748128157,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72610,
+      "num": 147290,
+      "word": "理想汽车第一季度营收259亿元",
+      "onboard_time": 1748516419,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 72190,
@@ -16035,6 +16115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47767,
+      "num": 320194,
+      "word": "马頔说美团会员太好当了",
+      "onboard_time": 1748513240,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47158,
       "num": 152966,
       "word": "在硅谷大厂年入50w美金是什么体验",
@@ -16153,14 +16241,6 @@
       "onboard_time": 1748154381,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 45439,
-      "num": 320194,
-      "word": "马頔说美团会员太好当了",
-      "onboard_time": 1748513240,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 45419,
@@ -16673,6 +16753,14 @@
       "onboard_time": 1748163680,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37602,
+      "num": 201725,
+      "word": "保安自学高空索降偷走一亿元玉石",
+      "onboard_time": 1748517200,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37580,
@@ -18171,6 +18259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 17125,
+      "num": 170287,
+      "word": "618夏日歌会机器人在后台打工",
+      "onboard_time": 1748517260,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 16976,
       "num": 360363,
       "word": "重庆菜园坝火车站有怎样的历史地位",
@@ -18849,6 +18945,14 @@
       "onboard_time": 1748290994,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 8807,
+      "num": 210972,
+      "word": "老是误触手机拍照键怎么办",
+      "onboard_time": 1748517140,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 8602,
