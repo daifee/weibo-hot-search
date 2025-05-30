@@ -1,7 +1,39 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748561935460,
+  "endTime": 1748570235705,
   "band_list": [
+    {
+      "raw_hot": 2027437,
+      "num": 280971,
+      "word": "孙俪的唇下痣没了",
+      "onboard_time": 1748567900,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1003260,
+      "num": 277467,
+      "word": "如果微信出了已读功能",
+      "onboard_time": 1748562199,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 985650,
+      "num": 1157704,
+      "word": "关税",
+      "onboard_time": 1748565622,
+      "rank": 0,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 980527,
+      "num": 980527,
+      "word": "中方回应印度得到一枚未爆炸中国导弹",
+      "onboard_time": 1748564482,
+      "rank": 1,
+      "category": "国内时政,军事"
+    },
     {
       "raw_hot": 973566,
       "num": 973566,
@@ -9,6 +41,22 @@
       "onboard_time": 1748531303,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 877597,
+      "num": 877597,
+      "word": "胖东来红内裤事件案宣判",
+      "onboard_time": 1748565920,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 855896,
+      "num": 855896,
+      "word": "美国政府杀疯了",
+      "onboard_time": 1748569280,
+      "rank": 4,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 702882,
@@ -28,7 +76,7 @@
     },
     {
       "raw_hot": 503797,
-      "num": 182299,
+      "num": 274536,
       "word": "因工作受挫女子每月花780元抱树放松",
       "onboard_time": 1748529083,
       "rank": 17,
@@ -83,6 +131,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296573,
+      "num": 155562,
+      "word": "男子翻女友手机才发现小丑竟是自己",
+      "onboard_time": 1748562740,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287571,
+      "num": 287571,
+      "word": "全球最大医院原院长涉嫌严重违纪违法",
+      "onboard_time": 1748563820,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 286446,
+      "num": 154756,
+      "word": "11点后睡觉浪费了人体的褪黑素",
+      "onboard_time": 1748568020,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 267415,
       "num": 267415,
       "word": "小乔早产",
@@ -92,11 +164,19 @@
     },
     {
       "raw_hot": 261909,
-      "num": 235806,
+      "num": 285789,
       "word": "庄之行背叛藏海",
       "onboard_time": 1748560399,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247291,
+      "num": 247291,
+      "word": "艺人李嘉琦回母校重庆大学开讲座",
+      "onboard_time": 1748564062,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 242953,
@@ -131,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234520,
+      "num": 234520,
+      "word": "被院士当年的硕士毕业论文惊艳到",
+      "onboard_time": 1748563040,
+      "rank": 14,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 226950,
       "num": 226950,
       "word": "40万黄金被女子当垃圾丢了",
@@ -147,11 +235,35 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 214177,
+      "num": 214177,
+      "word": "两个小段判赔胖东来40万道歉30天",
+      "onboard_time": 1748564661,
+      "rank": 15,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 208050,
+      "num": 284245,
+      "word": "莫离",
+      "onboard_time": 1748562139,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199512,
       "num": 94392,
       "word": "邓科 折腰",
       "onboard_time": 1748529383,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182633,
+      "num": 182633,
+      "word": "莫离官宣概念海报",
+      "onboard_time": 1748569340,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -171,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173620,
+      "num": 173620,
+      "word": "咸鱼飞升",
+      "onboard_time": 1748563460,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168292,
       "num": 168292,
       "word": "赵丽颖孙千互动",
@@ -180,7 +300,7 @@
     },
     {
       "raw_hot": 158616,
-      "num": 55902,
+      "num": 135400,
       "word": "37岁单亲妈妈去世抗癌6年",
       "onboard_time": 1748561661,
       "rank": 30,
@@ -195,12 +315,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153464,
+      "num": 153464,
+      "word": "一句话一辈子的中国科学家",
+      "onboard_time": 1748565622,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 152094,
       "num": 152094,
       "word": "王楚钦 面对面",
       "onboard_time": 1748524042,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152013,
+      "num": 152013,
+      "word": "特朗普关税政策获批暂时恢复实施",
+      "onboard_time": 1748566760,
+      "rank": 23,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 149547,
+      "num": 156690,
+      "word": "小桃骂乔慈",
+      "onboard_time": 1748561179,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146506,
+      "num": 146506,
+      "word": "藏海手刃庄芦隐",
+      "onboard_time": 1748564421,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 145337,
@@ -217,6 +369,14 @@
       "onboard_time": 1748532622,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135983,
+      "num": 135983,
+      "word": "俞敏洪骑车摔倒",
+      "onboard_time": 1748569640,
+      "rank": 26,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 134453,
@@ -243,6 +403,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125347,
+      "num": 125347,
+      "word": "今天谢谢每一位科技工作者",
+      "onboard_time": 1748565079,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 122077,
+      "num": 122077,
+      "word": "东莞高架车祸死者家属称正商量赔偿",
+      "onboard_time": 1748568980,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115411,
+      "num": 149211,
+      "word": "90后小伙拍下800斤荔枝发声",
+      "onboard_time": 1748562440,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115115,
       "num": 115115,
       "word": "关晓彤 精心布置的夏日九宫格",
@@ -267,12 +451,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104727,
+      "num": 104727,
+      "word": "荣梓杉报平安",
+      "onboard_time": 1748570060,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101261,
+      "num": 101261,
+      "word": "金价",
+      "onboard_time": 1748568560,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99702,
       "num": 99702,
       "word": "代露娃这得算工伤吧",
       "onboard_time": 1748531061,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96727,
+      "num": 96727,
+      "word": "美公司吐槽美产商品包装还是中国的",
+      "onboard_time": 1748566281,
+      "rank": 34,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 95694,
@@ -331,12 +539,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89698,
+      "num": 89698,
+      "word": "耗时半年复活了一只风筝",
+      "onboard_time": 1748569640,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89567,
       "num": 89567,
       "word": "iPhone17标准版屏幕曝料",
       "onboard_time": 1748561661,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 88368,
+      "num": 88368,
+      "word": "小伙拍下800斤杨贵妃同款荔枝",
+      "onboard_time": 1748570060,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87182,
+      "num": 87182,
+      "word": "追觅 加班",
+      "onboard_time": 1748569580,
+      "rank": 39,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 87030,
@@ -363,12 +595,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85023,
+      "num": 85023,
+      "word": "于适电子深渊",
+      "onboard_time": 1748569160,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85012,
+      "num": 85012,
+      "word": "踩曲女工上班前要洗脚无脚气",
+      "onboard_time": 1748565682,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84640,
       "num": 84640,
       "word": "马嘉祺你曾是少年音源",
       "onboard_time": 1748534601,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82293,
+      "num": 82293,
+      "word": "TMA澳门",
+      "onboard_time": 1748567420,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 81051,
@@ -403,11 +659,35 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 77785,
-      "num": 77785,
-      "word": "小桃骂乔慈",
-      "onboard_time": 1748561179,
-      "rank": 24,
+      "raw_hot": 77430,
+      "num": 77430,
+      "word": "因电动车被推走女子推倒一整排车",
+      "onboard_time": 1748563100,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77153,
+      "num": 77153,
+      "word": "方时赫",
+      "onboard_time": 1748564482,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76860,
+      "num": 79055,
+      "word": "歼10是怎样诞生的",
+      "onboard_time": 1748566941,
+      "rank": 45,
+      "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 75893,
+      "num": 75893,
+      "word": "折腰",
+      "onboard_time": 1748562019,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -417,6 +697,14 @@
       "onboard_time": 1748546833,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74919,
+      "num": 74919,
+      "word": "哪吒汽车回应上海总部logo连夜拆除",
+      "onboard_time": 1748570180,
+      "rank": 49,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 74416,
@@ -572,7 +860,7 @@
     },
     {
       "raw_hot": 43202,
-      "num": 485117,
+      "num": 882433,
       "word": "世界市长对话上海",
       "onboard_time": 1748525422,
       "rank": 2,

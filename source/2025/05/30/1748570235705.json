@@ -1,0 +1,410 @@
+{
+  "runTime": 1748570235705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 985650,
+        "num": 1157704,
+        "word": "关税",
+        "onboard_time": 1748565622,
+        "rank": 0,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 980527,
+        "num": 980527,
+        "word": "中方回应印度得到一枚未爆炸中国导弹",
+        "onboard_time": 1748564482,
+        "rank": 1,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 40593,
+        "num": 882433,
+        "word": "世界市长对话上海",
+        "onboard_time": 1748525422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877597,
+        "num": 877597,
+        "word": "胖东来红内裤事件案宣判",
+        "onboard_time": 1748565920,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 855896,
+        "num": 855896,
+        "word": "美国政府杀疯了",
+        "onboard_time": 1748569280,
+        "rank": 4,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 444944,
+        "num": 444944,
+        "word": "吴艳妮哽咽向大家道歉",
+        "onboard_time": 1748531303,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300567,
+        "num": 300567,
+        "word": "顺丰寄丢价值5万手镯仅赔67元",
+        "onboard_time": 1748523621,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287571,
+        "num": 287571,
+        "word": "全球最大医院原院长涉嫌严重违纪违法",
+        "onboard_time": 1748563820,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232643,
+        "num": 285789,
+        "word": "庄之行背叛藏海",
+        "onboard_time": 1748560399,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208050,
+        "num": 284245,
+        "word": "莫离",
+        "onboard_time": 1748562139,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2027437,
+        "num": 280971,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1003260,
+        "num": 277467,
+        "word": "如果微信出了已读功能",
+        "onboard_time": 1748562199,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274536,
+        "num": 274536,
+        "word": "因工作受挫女子每月花780元抱树放松",
+        "onboard_time": 1748529083,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247291,
+        "num": 247291,
+        "word": "艺人李嘉琦回母校重庆大学开讲座",
+        "onboard_time": 1748564062,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234520,
+        "num": 234520,
+        "word": "被院士当年的硕士毕业论文惊艳到",
+        "onboard_time": 1748563040,
+        "rank": 14,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 214177,
+        "num": 214177,
+        "word": "两个小段判赔胖东来40万道歉30天",
+        "onboard_time": 1748564661,
+        "rank": 15,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 190951,
+        "num": 190951,
+        "word": "微博通报涉朱媛媛去世谣言",
+        "onboard_time": 1748529983,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182633,
+        "num": 182633,
+        "word": "莫离官宣概念海报",
+        "onboard_time": 1748569340,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173620,
+        "num": 173620,
+        "word": "咸鱼飞升",
+        "onboard_time": 1748563460,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149547,
+        "num": 156690,
+        "word": "小桃骂乔慈",
+        "onboard_time": 1748561179,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296573,
+        "num": 155562,
+        "word": "男子翻女友手机才发现小丑竟是自己",
+        "onboard_time": 1748562740,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286446,
+        "num": 154756,
+        "word": "11点后睡觉浪费了人体的褪黑素",
+        "onboard_time": 1748568020,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153464,
+        "num": 153464,
+        "word": "一句话一辈子的中国科学家",
+        "onboard_time": 1748565622,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 152013,
+        "num": 152013,
+        "word": "特朗普关税政策获批暂时恢复实施",
+        "onboard_time": 1748566760,
+        "rank": 23,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 115411,
+        "num": 149211,
+        "word": "90后小伙拍下800斤荔枝发声",
+        "onboard_time": 1748562440,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146506,
+        "num": 146506,
+        "word": "藏海手刃庄芦隐",
+        "onboard_time": 1748564421,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135983,
+        "num": 135983,
+        "word": "俞敏洪骑车摔倒",
+        "onboard_time": 1748569640,
+        "rank": 26,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 135400,
+        "num": 135400,
+        "word": "37岁单亲妈妈去世抗癌6年",
+        "onboard_time": 1748561661,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129895,
+        "num": 129895,
+        "word": "美团 回收券",
+        "onboard_time": 1748526802,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125347,
+        "num": 125347,
+        "word": "今天谢谢每一位科技工作者",
+        "onboard_time": 1748565079,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 122077,
+        "num": 122077,
+        "word": "东莞高架车祸死者家属称正商量赔偿",
+        "onboard_time": 1748568980,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104727,
+        "num": 104727,
+        "word": "荣梓杉报平安",
+        "onboard_time": 1748570060,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101261,
+        "num": 101261,
+        "word": "金价",
+        "onboard_time": 1748568560,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100786,
+        "num": 100786,
+        "word": "40万黄金被女子当垃圾丢了",
+        "onboard_time": 1748519301,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96727,
+        "num": 96727,
+        "word": "美公司吐槽美产商品包装还是中国的",
+        "onboard_time": 1748566281,
+        "rank": 34,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 91934,
+        "num": 91934,
+        "word": "蔡明不认识虞书欣",
+        "onboard_time": 1748522061,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91697,
+        "num": 91697,
+        "word": "泡泡玛特暂停Labubu在英销售",
+        "onboard_time": 1748517140,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89698,
+        "num": 89698,
+        "word": "耗时半年复活了一只风筝",
+        "onboard_time": 1748569640,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88368,
+        "num": 88368,
+        "word": "小伙拍下800斤杨贵妃同款荔枝",
+        "onboard_time": 1748570060,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87182,
+        "num": 87182,
+        "word": "追觅 加班",
+        "onboard_time": 1748569580,
+        "rank": 39,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 85023,
+        "num": 85023,
+        "word": "于适电子深渊",
+        "onboard_time": 1748569160,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85012,
+        "num": 85012,
+        "word": "踩曲女工上班前要洗脚无脚气",
+        "onboard_time": 1748565682,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82293,
+        "num": 82293,
+        "word": "TMA澳门",
+        "onboard_time": 1748567420,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81341,
+        "num": 81341,
+        "word": "iPhone17标准版屏幕曝料",
+        "onboard_time": 1748561661,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81183,
+        "num": 81183,
+        "word": "大连梅花鹿遭野狗追逐坠落死亡",
+        "onboard_time": 1748560278,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76860,
+        "num": 79055,
+        "word": "歼10是怎样诞生的",
+        "onboard_time": 1748566941,
+        "rank": 45,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 77430,
+        "num": 77430,
+        "word": "因电动车被推走女子推倒一整排车",
+        "onboard_time": 1748563100,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77153,
+        "num": 77153,
+        "word": "方时赫",
+        "onboard_time": 1748564482,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75893,
+        "num": 75893,
+        "word": "折腰",
+        "onboard_time": 1748562019,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74919,
+        "num": 74919,
+        "word": "哪吒汽车回应上海总部logo连夜拆除",
+        "onboard_time": 1748570180,
+        "rank": 49,
+        "category": "汽车,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励科技工作者的暖心瞬间#"
+    }
+  }
+}
