@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748582750584,
+  "endTime": 1748583835613,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 1291925,
-      "num": 353456,
+      "num": 386357,
       "word": "婚内强奸案当事人申请国家赔偿33万",
       "onboard_time": 1748580862,
       "rank": 10,
@@ -1875,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 715066,
+      "num": 353158,
+      "word": "李嘉琦自曝曾因被骂太丑蹲寝室大哭",
+      "onboard_time": 1748580862,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 712430,
       "num": 712430,
       "word": "赵秉文 面具人",
@@ -2209,6 +2217,14 @@
       "onboard_time": 1748351661,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 616558,
+      "num": 616558,
+      "word": "张真源毕业",
+      "onboard_time": 1748582301,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 616164,
@@ -2617,14 +2633,6 @@
       "onboard_time": 1748183186,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 546284,
-      "num": 353158,
-      "word": "李嘉琦自曝曾因被骂太丑蹲寝室大哭",
-      "onboard_time": 1748580862,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 543892,
@@ -5099,6 +5107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281440,
+      "num": 281440,
+      "word": "关晓彤王子奇终于演上同学了",
+      "onboard_time": 1748578282,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280852,
       "num": 271681,
       "word": "歌手投票",
@@ -5180,7 +5196,7 @@
     },
     {
       "raw_hot": 277721,
-      "num": 240325,
+      "num": 254210,
       "word": "能接受自己孩子不结婚吗",
       "onboard_time": 1748577022,
       "rank": 35,
@@ -5193,14 +5209,6 @@
       "onboard_time": 1748253502,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276954,
-      "num": 276954,
-      "word": "张真源毕业",
-      "onboard_time": 1748582301,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 276490,
@@ -5403,14 +5411,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 265719,
-      "num": 265719,
-      "word": "关晓彤王子奇终于演上同学了",
-      "onboard_time": 1748578282,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265373,
       "num": 321369,
       "word": "章昊将以演员出道",
@@ -5601,6 +5601,14 @@
       "onboard_time": 1748400082,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256258,
+      "num": 256258,
+      "word": "陈雨菲横扫安洗莹",
+      "onboard_time": 1748582000,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 256115,
@@ -5833,6 +5841,14 @@
       "onboard_time": 1748170701,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 246818,
+      "num": 246818,
+      "word": "花生壳里塞冰淇淋卖28一个",
+      "onboard_time": 1748582781,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246087,
@@ -6633,14 +6649,6 @@
       "onboard_time": 1748348301,
       "rank": 34,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 215511,
-      "num": 215511,
-      "word": "陈雨菲横扫安洗莹",
-      "onboard_time": 1748582000,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 215386,
@@ -7755,6 +7763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195112,
+      "num": 195112,
+      "word": "eStar易峥官宣离队",
+      "onboard_time": 1748582722,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195046,
       "num": 195046,
       "word": "SEVENTEEN正规五辑MV",
@@ -8427,6 +8443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187049,
+      "num": 187049,
+      "word": "马頔又双叒被贴脸开大了",
+      "onboard_time": 1748583562,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186752,
       "num": 186752,
       "word": "吴宣仪发文祝喻言生日快乐",
@@ -8771,6 +8795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182165,
+      "num": 194718,
+      "word": "易峥退役",
+      "onboard_time": 1748582601,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182044,
       "num": 182044,
       "word": "网剧紫川",
@@ -8873,6 +8905,14 @@
       "onboard_time": 1748408122,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180260,
+      "num": 180260,
+      "word": "灵笼2",
+      "onboard_time": 1748583081,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 180158,
@@ -9073,6 +9113,14 @@
       "onboard_time": 1748447722,
       "rank": 28,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 177083,
+      "num": 177083,
+      "word": "夏天第一部现偶",
+      "onboard_time": 1748583200,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 177063,
@@ -9529,14 +9577,6 @@
       "onboard_time": 1748328502,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 172552,
-      "num": 172552,
-      "word": "易峥退役",
-      "onboard_time": 1748582601,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 172517,
@@ -10092,7 +10132,7 @@
     },
     {
       "raw_hot": 165998,
-      "num": 165998,
+      "num": 238364,
       "word": "王俊凯说为国产动画配音很荣幸",
       "onboard_time": 1748571260,
       "rank": 43,
@@ -10939,6 +10979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156497,
+      "num": 156497,
+      "word": "机器人练习张艺兴同款舞蹈累瘫了",
+      "onboard_time": 1748583562,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156349,
       "num": 156349,
       "word": "第一次见老板给艺人宣传这么到位的",
@@ -11169,6 +11217,14 @@
       "onboard_time": 1748180488,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153829,
+      "num": 153829,
+      "word": "肖战藏海传演技",
+      "onboard_time": 1748582961,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 153825,
@@ -11521,14 +11577,6 @@
       "onboard_time": 1748443402,
       "rank": 48,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 149299,
-      "num": 149299,
-      "word": "eStar易峥官宣离队",
-      "onboard_time": 1748582722,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 149203,
@@ -14585,6 +14633,14 @@
       "onboard_time": 1748138780,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111667,
+      "num": 195082,
+      "word": "加沙5岁孩子不想活下去",
+      "onboard_time": 1748583679,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111540,
@@ -17963,6 +18019,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 51766,
+      "num": 256234,
+      "word": "圣贝拉月子中心28天收费13.88万起",
+      "onboard_time": 1748583621,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51696,
       "num": 51696,
       "word": "你见过自带珠光效果的百合花吗",
@@ -18185,6 +18249,14 @@
       "onboard_time": 1748452457,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 47773,
+      "num": 253212,
+      "word": "金灿荣说网民凭啥不能拿印度逗乐",
+      "onboard_time": 1748581581,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47767,
@@ -19427,14 +19499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30936,
-      "num": 253212,
-      "word": "金灿荣说网民凭啥不能拿印度逗乐",
-      "onboard_time": 1748581581,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30880,
       "num": 211322,
       "word": "夏天自己清洗空调节约300",
@@ -20355,6 +20419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21285,
+      "num": 195409,
+      "word": "吃瓜是怎样调节不良情绪的",
+      "onboard_time": 1748582781,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21241,
       "num": 260479,
       "word": "家门口遇害女子母亲感谢网友关心",
@@ -20601,6 +20673,14 @@
       "onboard_time": 1748454196,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 18356,
+      "num": 189092,
+      "word": "让东决的子弹再飞一会儿",
+      "onboard_time": 1748583442,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 18222,

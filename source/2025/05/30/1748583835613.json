@@ -1,0 +1,410 @@
+{
+  "runTime": 1748583835613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1430560,
+        "num": 1430560,
+        "word": "断眉袭榜",
+        "onboard_time": 1748574860,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1387676,
+        "num": 1387676,
+        "word": "瑞幸咖啡降价",
+        "onboard_time": 1748579481,
+        "rank": 1,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 49,
+        "num": 995650,
+        "word": "世界市长对话上海",
+        "onboard_time": 1748525422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673721,
+        "num": 673721,
+        "word": "社保交满最低缴费年限停止就亏大了",
+        "onboard_time": 1748578461,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616558,
+        "num": 616558,
+        "word": "张真源毕业",
+        "onboard_time": 1748582301,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571075,
+        "num": 571075,
+        "word": "银川烧烤店31死爆炸案宣判",
+        "onboard_time": 1748573841,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 537017,
+        "num": 537017,
+        "word": "丁程鑫毕业",
+        "onboard_time": 1748576001,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499554,
+        "num": 499554,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 7,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 423556,
+        "num": 423556,
+        "word": "曝披荆斩棘5阵容",
+        "onboard_time": 1748577501,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259734,
+        "num": 416745,
+        "word": "胖东来红内裤事件案宣判",
+        "onboard_time": 1748565920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1231232,
+        "num": 386357,
+        "word": "婚内强奸案当事人申请国家赔偿33万",
+        "onboard_time": 1748580862,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 814437,
+        "num": 345896,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 715066,
+        "num": 338855,
+        "word": "李嘉琦自曝曾因被骂太丑蹲寝室大哭",
+        "onboard_time": 1748580862,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318282,
+        "num": 318282,
+        "word": "安倍晋三遗孀见普京哽咽落泪",
+        "onboard_time": 1748576420,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313091,
+        "num": 313091,
+        "word": "高考钉子户梁实考前发声",
+        "onboard_time": 1748577261,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296232,
+        "num": 296232,
+        "word": "唇语专家解读马克龙与妻子吵了什么",
+        "onboard_time": 1748575762,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 281440,
+        "num": 281440,
+        "word": "关晓彤王子奇终于演上同学了",
+        "onboard_time": 1748578282,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247131,
+        "num": 259692,
+        "word": "歌手投票",
+        "onboard_time": 1748580682,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18571,
+        "num": 257347,
+        "word": "在家靠父母购物靠补贴",
+        "onboard_time": 1748581641,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56600,
+        "num": 256671,
+        "word": "华为乾崑的多彩智野美学",
+        "onboard_time": 1748581641,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 256258,
+        "num": 256258,
+        "word": "陈雨菲横扫安洗莹",
+        "onboard_time": 1748582000,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51766,
+        "num": 256234,
+        "word": "圣贝拉月子中心28天收费13.88万起",
+        "onboard_time": 1748583621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256227,
+        "num": 256227,
+        "word": "银川烧烤店爆炸致31死案15人获刑",
+        "onboard_time": 1748574020,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254210,
+        "num": 254210,
+        "word": "能接受自己孩子不结婚吗",
+        "onboard_time": 1748577022,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246818,
+        "num": 246818,
+        "word": "花生壳里塞冰淇淋卖28一个",
+        "onboard_time": 1748582781,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62491,
+        "num": 238364,
+        "word": "王俊凯说为国产动画配音很荣幸",
+        "onboard_time": 1748571260,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235784,
+        "num": 235784,
+        "word": "藏海传 横店大雪",
+        "onboard_time": 1748574381,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200443,
+        "num": 200443,
+        "word": "肖战左腹",
+        "onboard_time": 1748576961,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144897,
+        "num": 197226,
+        "word": "段某被判赔偿胖东来40万元",
+        "onboard_time": 1748573301,
+        "rank": 28,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 21285,
+        "num": 195409,
+        "word": "吃瓜是怎样调节不良情绪的",
+        "onboard_time": 1748582781,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95888,
+        "num": 195239,
+        "word": "平津侯用庄二的刀自尽",
+        "onboard_time": 1748582122,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195112,
+        "num": 195112,
+        "word": "eStar易峥官宣离队",
+        "onboard_time": 1748582722,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111667,
+        "num": 195082,
+        "word": "加沙5岁孩子不想活下去",
+        "onboard_time": 1748583679,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47773,
+        "num": 194941,
+        "word": "金灿荣说网民凭啥不能拿印度逗乐",
+        "onboard_time": 1748581581,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56428,
+        "num": 194863,
+        "word": "庄大被挖的是膝盖还是脑子",
+        "onboard_time": 1748582421,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182165,
+        "num": 194718,
+        "word": "易峥退役",
+        "onboard_time": 1748582601,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177741,
+        "num": 194574,
+        "word": "莫离男主",
+        "onboard_time": 1748577200,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194490,
+        "num": 194490,
+        "word": "Labubu会凉吗",
+        "onboard_time": 1748579963,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 18356,
+        "num": 189092,
+        "word": "让东决的子弹再飞一会儿",
+        "onboard_time": 1748583442,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187049,
+        "num": 187049,
+        "word": "马頔又双叒被贴脸开大了",
+        "onboard_time": 1748583562,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180260,
+        "num": 180260,
+        "word": "灵笼2",
+        "onboard_time": 1748583081,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177083,
+        "num": 177083,
+        "word": "夏天第一部现偶",
+        "onboard_time": 1748583200,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173698,
+        "num": 173698,
+        "word": "张凌赫穿背心做陶艺",
+        "onboard_time": 1748581940,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166858,
+        "num": 166858,
+        "word": "断眉合伙人蒋一侨",
+        "onboard_time": 1748579301,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171970,
+        "num": 165312,
+        "word": "身价百亿毛巾少爷转行卖咖啡",
+        "onboard_time": 1748575401,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156497,
+        "num": 156497,
+        "word": "机器人练习张艺兴同款舞蹈累瘫了",
+        "onboard_time": 1748583562,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154738,
+        "num": 154738,
+        "word": "沈月中餐厅ootd",
+        "onboard_time": 1748570239,
+        "rank": 46,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 153829,
+        "num": 153829,
+        "word": "肖战藏海传演技",
+        "onboard_time": 1748582961,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140108,
+        "num": 140108,
+        "word": "主力带娃的二胎爸爸产后抑郁了",
+        "onboard_time": 1748580021,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137245,
+        "num": 137245,
+        "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
+        "onboard_time": 1748575519,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励科技工作者的暖心瞬间#"
+    }
+  }
+}
