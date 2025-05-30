@@ -1,0 +1,410 @@
+{
+  "runTime": 1748575888036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2569870,
+        "num": 2569870,
+        "word": "断眉袭榜",
+        "onboard_time": 1748574860,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1354346,
+        "num": 1354346,
+        "word": "银川烧烤店爆炸致31死案15人获刑",
+        "onboard_time": 1748574020,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31150,
+        "num": 987784,
+        "word": "世界市长对话上海",
+        "onboard_time": 1748525422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1435106,
+        "num": 977874,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 949798,
+        "num": 949798,
+        "word": "美国政府朝令夕改让全世界目瞪口呆",
+        "onboard_time": 1748569280,
+        "rank": 4,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 601901,
+        "num": 601901,
+        "word": "胖东来红内裤事件案宣判",
+        "onboard_time": 1748565920,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570907,
+        "num": 570907,
+        "word": "白鹿领衔主演莫离",
+        "onboard_time": 1748571501,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471057,
+        "num": 471057,
+        "word": "段某被判赔偿胖东来40万元",
+        "onboard_time": 1748573301,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 438587,
+        "num": 438587,
+        "word": "小伙拍下800斤杨贵妃同款荔枝",
+        "onboard_time": 1748570060,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392293,
+        "num": 433696,
+        "word": "刘宇宁唱时间之子情感曲",
+        "onboard_time": 1748573060,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1578784,
+        "num": 433542,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433300,
+        "num": 433300,
+        "word": "中方回应印度得到一枚未爆炸中国导弹",
+        "onboard_time": 1748564482,
+        "rank": 11,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 361635,
+        "num": 361635,
+        "word": "荣梓杉报平安",
+        "onboard_time": 1748570060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359758,
+        "num": 359758,
+        "word": "关税",
+        "onboard_time": 1748565622,
+        "rank": 13,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 34139,
+        "num": 350097,
+        "word": "美国法院与特朗普比变脸",
+        "onboard_time": 1748575401,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341571,
+        "num": 341571,
+        "word": "藏海传 横店大雪",
+        "onboard_time": 1748574381,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336354,
+        "num": 336354,
+        "word": "银川烧烤店31死爆炸案宣判",
+        "onboard_time": 1748573841,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 285971,
+        "num": 285971,
+        "word": "沈月中餐厅ootd",
+        "onboard_time": 1748570239,
+        "rank": 17,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 191290,
+        "num": 278757,
+        "word": "身价百亿毛巾少爷转行卖咖啡",
+        "onboard_time": 1748575401,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273849,
+        "num": 273849,
+        "word": "国际乒联回应16个协会投出21张票",
+        "onboard_time": 1748572100,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272962,
+        "num": 272962,
+        "word": "临江仙",
+        "onboard_time": 1748572820,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257666,
+        "num": 257666,
+        "word": "如果微信出了已读功能",
+        "onboard_time": 1748562199,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225109,
+        "num": 225109,
+        "word": "耀眼导演给刘浩存王安宇新剧打一星",
+        "onboard_time": 1748572700,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221883,
+        "num": 221883,
+        "word": "肖战绷不住了",
+        "onboard_time": 1748570780,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162028,
+        "num": 219833,
+        "word": "国际乒联将展开调查",
+        "onboard_time": 1748574499,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218798,
+        "num": 218798,
+        "word": "吴艳妮哽咽向大家道歉",
+        "onboard_time": 1748531303,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165708,
+        "num": 218271,
+        "word": "这些品牌今晚在京东开启618",
+        "onboard_time": 1748571260,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12883,
+        "num": 216963,
+        "word": "抱树放松有科学依据吗",
+        "onboard_time": 1748575282,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 106134,
+        "num": 216191,
+        "word": "美国留学梦变噩梦",
+        "onboard_time": 1748573120,
+        "rank": 28,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 74048,
+        "num": 214856,
+        "word": "一村规定彩礼限额",
+        "onboard_time": 1748574561,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213692,
+        "num": 213692,
+        "word": "男子翻女友手机才发现小丑竟是自己",
+        "onboard_time": 1748562740,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209202,
+        "num": 209202,
+        "word": "公司发的端午礼盒",
+        "onboard_time": 1748571439,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22726,
+        "num": 199566,
+        "word": "唇语专家解读马克龙与妻子吵了什么",
+        "onboard_time": 1748575762,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198069,
+        "num": 198069,
+        "word": "白鹿林玉芬首次合作",
+        "onboard_time": 1748575221,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195472,
+        "num": 195472,
+        "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
+        "onboard_time": 1748575519,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188509,
+        "num": 188509,
+        "word": "陈慧珊演林保怡第九人格的含金量",
+        "onboard_time": 1748574621,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186796,
+        "num": 186796,
+        "word": "谁来给黄景瑜金晨递个本子",
+        "onboard_time": 1748574020,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186304,
+        "num": 186304,
+        "word": "11点后睡觉浪费了人体的褪黑素",
+        "onboard_time": 1748568020,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26573,
+        "num": 185730,
+        "word": "因批评印度出名的印度裔加拿大人",
+        "onboard_time": 1748574680,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30940,
+        "num": 184437,
+        "word": "张家界溶洞变成垃圾场",
+        "onboard_time": 1748574680,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1382,
+        "num": 182730,
+        "word": "再也不用担心快乐到模糊了",
+        "onboard_time": 1748575461,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40499,
+        "num": 180868,
+        "word": "救人的女辅警找到了",
+        "onboard_time": 1748573721,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57152,
+        "num": 179722,
+        "word": "美俄勒冈州禁止未成年人结婚",
+        "onboard_time": 1748573900,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179473,
+        "num": 179473,
+        "word": "把高三妹妹接到清华一起生活",
+        "onboard_time": 1748573181,
+        "rank": 43,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 177063,
+        "num": 177063,
+        "word": "林峯回应徐子珊行踪",
+        "onboard_time": 1748574381,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173687,
+        "num": 173687,
+        "word": "王楚钦 蜜丝婷",
+        "onboard_time": 1748575341,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173336,
+        "num": 173336,
+        "word": "尼克斯2比3步行者",
+        "onboard_time": 1748575100,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27565,
+        "num": 172358,
+        "word": "端午假期湖北有较强降水",
+        "onboard_time": 1748574680,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172212,
+        "num": 172212,
+        "word": "明日方舟",
+        "onboard_time": 1748575702,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163285,
+        "num": 163285,
+        "word": "王俊凯说为国产动画配音很荣幸",
+        "onboard_time": 1748571260,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励科技工作者的暖心瞬间#"
+    }
+  }
+}

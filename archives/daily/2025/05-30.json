@@ -1,7 +1,15 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748574989314,
+  "endTime": 1748575888036,
   "band_list": [
+    {
+      "raw_hot": 2569870,
+      "num": 2569870,
+      "word": "断眉袭榜",
+      "onboard_time": 1748574860,
+      "rank": 4,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2487100,
       "num": 2487100,
@@ -12,19 +20,27 @@
     },
     {
       "raw_hot": 2156975,
-      "num": 421367,
+      "num": 433542,
       "word": "孙俪的唇下痣没了",
       "onboard_time": 1748567900,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1271312,
-      "num": 839868,
+      "raw_hot": 1435106,
+      "num": 977874,
       "word": "工资5000三年无痛存下12万",
       "onboard_time": 1748572279,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1354346,
+      "num": 1354346,
+      "word": "银川烧烤店爆炸致31死案15人获刑",
+      "onboard_time": 1748574020,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1003260,
@@ -51,14 +67,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 975302,
-      "num": 975302,
-      "word": "银川烧烤店爆炸致31死案15人获刑",
-      "onboard_time": 1748574020,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 973566,
       "num": 973566,
       "word": "吴艳妮哽咽向大家道歉",
@@ -67,20 +75,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 949798,
+      "num": 949798,
+      "word": "美国政府朝令夕改让全世界目瞪口呆",
+      "onboard_time": 1748569280,
+      "rank": 4,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 946501,
       "num": 946501,
       "word": "胖东来红内裤事件案宣判",
       "onboard_time": 1748565920,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 748770,
-      "num": 748770,
-      "word": "断眉袭榜",
-      "onboard_time": 1748574860,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 702882,
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471057,
+      "num": 471057,
+      "word": "段某被判赔偿胖东来40万元",
+      "onboard_time": 1748573301,
+      "rank": 12,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 451346,
       "num": 451346,
       "word": "藏海传开始暴走了",
@@ -155,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 416764,
-      "num": 416764,
-      "word": "段某被判赔偿胖东来40万元",
-      "onboard_time": 1748573301,
-      "rank": 12,
-      "category": "民生新闻,财经"
+      "raw_hot": 392293,
+      "num": 433696,
+      "word": "刘宇宁唱时间之子情感曲",
+      "onboard_time": 1748573060,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 379439,
@@ -169,14 +185,6 @@
       "onboard_time": 1748523621,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377399,
-      "num": 291197,
-      "word": "刘宇宁唱时间之子情感曲",
-      "onboard_time": 1748573060,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 367918,
@@ -195,12 +203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341571,
+      "num": 341571,
+      "word": "藏海传 横店大雪",
+      "onboard_time": 1748574381,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340594,
       "num": 340594,
       "word": "临江仙",
       "onboard_time": 1748572820,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336354,
+      "num": 421605,
+      "word": "银川烧烤店31死爆炸案宣判",
+      "onboard_time": 1748573841,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 336257,
@@ -355,20 +379,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 215632,
-      "num": 290478,
-      "word": "藏海传 横店大雪",
-      "onboard_time": 1748574381,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214177,
       "num": 214177,
       "word": "两个小段判赔胖东来40万道歉30天",
       "onboard_time": 1748564661,
       "rank": 15,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 209202,
+      "num": 209202,
+      "word": "公司发的端午礼盒",
+      "onboard_time": 1748571439,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208498,
@@ -387,20 +411,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201075,
-      "num": 201075,
-      "word": "公司发的端午礼盒",
-      "onboard_time": 1748571439,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199512,
       "num": 94392,
       "word": "邓科 折腰",
       "onboard_time": 1748529383,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198069,
+      "num": 198069,
+      "word": "白鹿林玉芬首次合作",
+      "onboard_time": 1748575221,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195472,
+      "num": 195472,
+      "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
+      "onboard_time": 1748575519,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 194560,
@@ -411,12 +443,20 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 190719,
-      "num": 421605,
-      "word": "银川烧烤店31死爆炸案宣判",
-      "onboard_time": 1748573841,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 191290,
+      "num": 278757,
+      "word": "身价百亿毛巾少爷转行卖咖啡",
+      "onboard_time": 1748575401,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188509,
+      "num": 188509,
+      "word": "陈慧珊演林保怡第九人格的含金量",
+      "onboard_time": 1748574621,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 184019,
@@ -425,6 +465,14 @@
       "onboard_time": 1748568980,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177063,
+      "num": 177063,
+      "word": "林峯回应徐子珊行踪",
+      "onboard_time": 1748574381,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 176843,
@@ -451,12 +499,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173687,
+      "num": 173687,
+      "word": "王楚钦 蜜丝婷",
+      "onboard_time": 1748575341,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173620,
       "num": 173620,
       "word": "咸鱼飞升",
       "onboard_time": 1748563460,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173336,
+      "num": 173336,
+      "word": "尼克斯2比3步行者",
+      "onboard_time": 1748575100,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172212,
+      "num": 172212,
+      "word": "明日方舟",
+      "onboard_time": 1748575702,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 170060,
@@ -491,20 +563,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 165037,
-      "num": 165037,
-      "word": "林峯回应徐子珊行踪",
-      "onboard_time": 1748574381,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 162853,
       "num": 162853,
       "word": "京东外卖称只发券不回收",
       "onboard_time": 1748571201,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 162028,
+      "num": 219833,
+      "word": "国际乒联将展开调查",
+      "onboard_time": 1748574499,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 158616,
@@ -537,14 +609,6 @@
       "onboard_time": 1748573120,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153499,
-      "num": 153499,
-      "word": "陈慧珊演林保怡第九人格的含金量",
-      "onboard_time": 1748574621,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 153464,
@@ -592,14 +656,6 @@
       "word": "孙颖莎来送端午节祝福啦",
       "onboard_time": 1748571680,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 146524,
-      "num": 146524,
-      "word": "国际乒联将展开调查",
-      "onboard_time": 1748574499,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -713,6 +769,14 @@
       "onboard_time": 1748535199,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106134,
+      "num": 289836,
+      "word": "美国留学梦变噩梦",
+      "onboard_time": 1748573120,
+      "rank": 29,
+      "category": "国际时政,教育"
     },
     {
       "raw_hot": 101261,
@@ -891,14 +955,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 79118,
-      "num": 289836,
-      "word": "美国留学梦变噩梦",
-      "onboard_time": 1748573120,
-      "rank": 29,
-      "category": "国际时政,教育"
-    },
-    {
       "raw_hot": 78001,
       "num": 78001,
       "word": "老师 这边给您补偿5元您看可以吗",
@@ -961,6 +1017,14 @@
       "onboard_time": 1748532081,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74048,
+      "num": 290186,
+      "word": "一村规定彩礼限额",
+      "onboard_time": 1748574561,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73724,
@@ -1035,20 +1099,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 57510,
-      "num": 290186,
-      "word": "一村规定彩礼限额",
-      "onboard_time": 1748574561,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57175,
       "num": 109125,
       "word": "来南通购购购",
       "onboard_time": 1748570661,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57152,
+      "num": 291334,
+      "word": "美俄勒冈州禁止未成年人结婚",
+      "onboard_time": 1748573900,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55892,
@@ -1099,14 +1163,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 48498,
-      "num": 291334,
-      "word": "美俄勒冈州禁止未成年人结婚",
-      "onboard_time": 1748573900,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 47845,
       "num": 47845,
       "word": "湖北应城故意伤害案致2死",
@@ -1132,7 +1188,7 @@
     },
     {
       "raw_hot": 44340,
-      "num": 951865,
+      "num": 987784,
       "word": "世界市长对话上海",
       "onboard_time": 1748525422,
       "rank": 2,
@@ -1171,11 +1227,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40499,
+      "num": 289974,
+      "word": "救人的女辅警找到了",
+      "onboard_time": 1748573721,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39808,
       "num": 39808,
       "word": "外交部回应美国将吊销中国学生签证",
       "onboard_time": 1748549174,
       "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 34139,
+      "num": 350097,
+      "word": "美国法院与特朗普比变脸",
+      "onboard_time": 1748575401,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -1187,11 +1259,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32021,
-      "num": 289974,
-      "word": "救人的女辅警找到了",
-      "onboard_time": 1748573721,
-      "rank": 28,
+      "raw_hot": 30940,
+      "num": 184437,
+      "word": "张家界溶洞变成垃圾场",
+      "onboard_time": 1748574680,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1211,12 +1283,36 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27565,
+      "num": 291558,
+      "word": "端午假期湖北有较强降水",
+      "onboard_time": 1748574680,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27414,
       "num": 54941,
       "word": "演员王成思回应魏梁结局",
       "onboard_time": 1748560998,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26573,
+      "num": 185730,
+      "word": "因批评印度出名的印度裔加拿大人",
+      "onboard_time": 1748574680,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22726,
+      "num": 199566,
+      "word": "唇语专家解读马克龙与妻子吵了什么",
+      "onboard_time": 1748575762,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22571,
@@ -1283,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12883,
+      "num": 216963,
+      "word": "抱树放松有科学依据吗",
+      "onboard_time": 1748575282,
+      "rank": 27,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 11961,
       "num": 14878,
       "word": "谷爱凌又去冲浪了",
@@ -1307,28 +1411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 10096,
-      "num": 291558,
-      "word": "端午假期湖北有较强降水",
-      "onboard_time": 1748574680,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9574,
-      "num": 165293,
-      "word": "因批评印度出名的印度裔加拿大人",
-      "onboard_time": 1748574680,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 7877,
-      "num": 165334,
-      "word": "张家界溶洞变成垃圾场",
-      "onboard_time": 1748574680,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 1382,
+      "num": 182730,
+      "word": "再也不用担心快乐到模糊了",
+      "onboard_time": 1748575461,
+      "rank": 40,
+      "category": "数码"
     }
   ],
   "hotgov_list": [
