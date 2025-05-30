@@ -1,0 +1,410 @@
+{
+  "runTime": 1748616253690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8305036,
+        "num": 8305036,
+        "word": "歌手排名",
+        "onboard_time": 1748614467,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4686672,
+        "num": 4686672,
+        "word": "歌手直播",
+        "onboard_time": 1748606182,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8858,
+        "num": 1666344,
+        "word": "万千气象看四川",
+        "onboard_time": 1748272763,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755376,
+        "num": 755376,
+        "word": "派出所回应男子掉进兵马俑俑坑中",
+        "onboard_time": 1748612667,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417387,
+        "num": 417387,
+        "word": "王楚钦回应球拍2次受损",
+        "onboard_time": 1748611284,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291008,
+        "num": 291008,
+        "word": "尊界S800价格",
+        "onboard_time": 1748613805,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2320578,
+        "num": 290629,
+        "word": "马嘉祺 校园歌手大赛",
+        "onboard_time": 1748610804,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1590501,
+        "num": 290358,
+        "word": "白举纲淘汰",
+        "onboard_time": 1748615190,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214016,
+        "num": 290174,
+        "word": "泡泡玛特哭娃",
+        "onboard_time": 1748607083,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 85159,
+        "num": 289656,
+        "word": "宋雨琦圆了横店梦",
+        "onboard_time": 1748615131,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660370,
+        "num": 289057,
+        "word": "黄杨钿甜已拿到三家名校合格证",
+        "onboard_time": 1748614047,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2056529,
+        "num": 288754,
+        "word": "难听",
+        "onboard_time": 1748611104,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1321350,
+        "num": 288552,
+        "word": "马嘉祺被做局了",
+        "onboard_time": 1748612129,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1260313,
+        "num": 287958,
+        "word": "单依纯失误",
+        "onboard_time": 1748615190,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65689,
+        "num": 287559,
+        "word": "官方回应男子掉进兵马俑坑",
+        "onboard_time": 1748615367,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299302,
+        "num": 287448,
+        "word": "Grace第一",
+        "onboard_time": 1748615608,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15576,
+        "num": 286932,
+        "word": "减重期间该如何健康地吃粽子",
+        "onboard_time": 1748615190,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94171,
+        "num": 286388,
+        "word": "1960元买2张演唱会票竟是铁窗泪",
+        "onboard_time": 1748606962,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153521,
+        "num": 286150,
+        "word": "目击者称男子推倒兵马俑倒地捂脸",
+        "onboard_time": 1748614467,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94807,
+        "num": 285663,
+        "word": "员工迟到48次被辞称每月有3次机会",
+        "onboard_time": 1748615486,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140193,
+        "num": 285373,
+        "word": "兵马俑受损等情况正在调查中",
+        "onboard_time": 1748614589,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1117537,
+        "num": 284767,
+        "word": "Attention改编 放水",
+        "onboard_time": 1748613205,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 939436,
+        "num": 284638,
+        "word": "单依纯选歌",
+        "onboard_time": 1748613267,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315237,
+        "num": 283996,
+        "word": "尊界S800豪门座驾",
+        "onboard_time": 1748614648,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181769,
+        "num": 283696,
+        "word": "AG春季赛夺冠纪录片",
+        "onboard_time": 1748614167,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46223,
+        "num": 283421,
+        "word": "尊界S800引领时代的顶级驾控",
+        "onboard_time": 1748612969,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 68833,
+        "num": 283062,
+        "word": "巴黎世家三里屯活动",
+        "onboard_time": 1748611104,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 31234,
+        "num": 282586,
+        "word": "大麦回应老年机号抢到演唱会门票",
+        "onboard_time": 1748615308,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14971,
+        "num": 282274,
+        "word": "为什么焦虑情绪比困难本身更难克服",
+        "onboard_time": 1748615190,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9306,
+        "num": 281763,
+        "word": "广东人的六一有多开心",
+        "onboard_time": 1748616026,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765020,
+        "num": 281454,
+        "word": "断眉袭榜成功",
+        "onboard_time": 1748615427,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438554,
+        "num": 281089,
+        "word": "GAI 不好听",
+        "onboard_time": 1748609245,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37130,
+        "num": 280810,
+        "word": "尊界S800引领时代的顶级安全",
+        "onboard_time": 1748612067,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 419669,
+        "num": 280164,
+        "word": "陈楚生的舒适区",
+        "onboard_time": 1748611825,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2605209,
+        "num": 279906,
+        "word": "兵马俑被砸烂了",
+        "onboard_time": 1748612308,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524475,
+        "num": 279535,
+        "word": "断眉上来就唱see you again",
+        "onboard_time": 1748608824,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404540,
+        "num": 278954,
+        "word": "祝绪丹秒删",
+        "onboard_time": 1748601081,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336756,
+        "num": 278531,
+        "word": "白举纲进步",
+        "onboard_time": 1748609185,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304671,
+        "num": 278174,
+        "word": "台湾青年因为肖战想去重庆",
+        "onboard_time": 1748604980,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278097,
+        "num": 278097,
+        "word": "藏海传收视率",
+        "onboard_time": 1748615666,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243935,
+        "num": 243935,
+        "word": "陈楚生提到袁惟仁哭了",
+        "onboard_time": 1748611587,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240156,
+        "num": 240156,
+        "word": "藏海传27集封神",
+        "onboard_time": 1748612427,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225113,
+        "num": 225113,
+        "word": "林志炫用现场直面质疑",
+        "onboard_time": 1748614708,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209925,
+        "num": 209925,
+        "word": "山东郓城一公司多人落入清洗池",
+        "onboard_time": 1748613267,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203474,
+        "num": 203474,
+        "word": "GAI唱完哭了",
+        "onboard_time": 1748612910,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191608,
+        "num": 191608,
+        "word": "王楚钦说自己为了赢可以付出一切",
+        "onboard_time": 1748615427,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164200,
+        "num": 164200,
+        "word": "百度起诉小米等不正当竞争",
+        "onboard_time": 1748614952,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 182950,
+        "num": 163736,
+        "word": "王楚钦蜕变之路",
+        "onboard_time": 1748615786,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157797,
+        "num": 157797,
+        "word": "山东郓城一企业发生事故已致5死",
+        "onboard_time": 1748613267,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 147645,
+        "num": 147645,
+        "word": "奔跑吧替莫离官宣丞磊",
+        "onboard_time": 1748613626,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技工作者大有作为#"
+    }
+  }
+}

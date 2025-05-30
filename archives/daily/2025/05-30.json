@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748615165740,
+  "endTime": 1748616253690,
   "band_list": [
     {
       "raw_hot": 9663660,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6099400,
-      "num": 6099400,
+      "raw_hot": 8305036,
+      "num": 8305036,
       "word": "歌手排名",
       "onboard_time": 1748614467,
       "rank": 1,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2530109,
-      "num": 285409,
+      "num": 288552,
       "word": "马嘉祺被做局了",
       "onboard_time": 1748612129,
       "rank": 30,
@@ -132,10 +132,18 @@
     },
     {
       "raw_hot": 1634367,
-      "num": 275864,
+      "num": 284638,
       "word": "单依纯选歌",
       "onboard_time": 1748613267,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1590501,
+      "num": 290358,
+      "word": "白举纲淘汰",
+      "onboard_time": 1748615190,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -169,6 +177,14 @@
       "onboard_time": 1748580862,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1260313,
+      "num": 287958,
+      "word": "单依纯失误",
+      "onboard_time": 1748615190,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1218048,
@@ -324,11 +340,19 @@
     },
     {
       "raw_hot": 790108,
-      "num": 260306,
+      "num": 289057,
       "word": "黄杨钿甜已拿到三家名校合格证",
       "onboard_time": 1748614047,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 765020,
+      "num": 281454,
+      "word": "断眉袭榜成功",
+      "onboard_time": 1748615427,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 754380,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 458467,
-      "num": 266133,
+      "num": 278531,
       "word": "白举纲进步",
       "onboard_time": 1748609185,
       "rank": 27,
@@ -763,6 +787,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 315237,
+      "num": 283996,
+      "word": "尊界S800豪门座驾",
+      "onboard_time": 1748614648,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 312408,
       "num": 245521,
       "word": "关晓彤金发杀青照",
@@ -785,6 +817,14 @@
       "onboard_time": 1748586380,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299302,
+      "num": 287448,
+      "word": "Grace第一",
+      "onboard_time": 1748615608,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 298041,
@@ -825,6 +865,14 @@
       "onboard_time": 1748572700,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291008,
+      "num": 291008,
+      "word": "尊界S800价格",
+      "onboard_time": 1748613805,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 290927,
@@ -875,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278097,
+      "num": 278097,
+      "word": "藏海传收视率",
+      "onboard_time": 1748615666,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273962,
       "num": 249185,
       "word": "attention",
@@ -905,14 +961,6 @@
       "onboard_time": 1748529862,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265068,
-      "num": 265068,
-      "word": "尊界S800价格",
-      "onboard_time": 1748613805,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 261909,
@@ -1428,7 +1476,7 @@
     },
     {
       "raw_hot": 194648,
-      "num": 194648,
+      "num": 283696,
       "word": "AG春季赛夺冠纪录片",
       "onboard_time": 1748614167,
       "rank": 49,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1748585961,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191608,
+      "num": 191608,
+      "word": "王楚钦说自己为了赢可以付出一切",
+      "onboard_time": 1748615427,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 191073,
@@ -1593,6 +1649,14 @@
       "onboard_time": 1748590100,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182950,
+      "num": 163736,
+      "word": "王楚钦蜕变之路",
+      "onboard_time": 1748615786,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 182763,
@@ -1803,14 +1867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167045,
-      "num": 260980,
-      "word": "尊界S800豪门座驾",
-      "onboard_time": 1748614648,
-      "rank": 21,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 166226,
       "num": 166226,
       "word": "仙逆剧场版",
@@ -1849,6 +1905,14 @@
       "onboard_time": 1748603480,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164200,
+      "num": 164200,
+      "word": "百度起诉小米等不正当竞争",
+      "onboard_time": 1748614952,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 163757,
@@ -1969,6 +2033,14 @@
       "onboard_time": 1748582961,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153521,
+      "num": 286150,
+      "word": "目击者称男子推倒兵马俑倒地捂脸",
+      "onboard_time": 1748614467,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153464,
@@ -2139,8 +2211,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 140193,
+      "num": 300817,
+      "word": "兵马俑受损等情况正在调查中",
+      "onboard_time": 1748614589,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139831,
-      "num": 267886,
+      "num": 280810,
       "word": "尊界S800引领时代的顶级安全",
       "onboard_time": 1748612067,
       "rank": 39,
@@ -2652,7 +2732,7 @@
     },
     {
       "raw_hot": 100843,
-      "num": 272121,
+      "num": 286388,
       "word": "1960元买2张演唱会票竟是铁窗泪",
       "onboard_time": 1748606962,
       "rank": 27,
@@ -2787,6 +2867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94807,
+      "num": 285663,
+      "word": "员工迟到48次被辞称每月有3次机会",
+      "onboard_time": 1748615486,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94727,
       "num": 94727,
       "word": "官方将调查小车坠桥事故车道设计",
@@ -2836,7 +2924,7 @@
     },
     {
       "raw_hot": 90642,
-      "num": 251254,
+      "num": 289656,
       "word": "宋雨琦圆了横店梦",
       "onboard_time": 1748615131,
       "rank": 35,
@@ -3211,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65689,
+      "num": 287559,
+      "word": "官方回应男子掉进兵马俑坑",
+      "onboard_time": 1748615367,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65684,
       "num": 65684,
       "word": "韩济州航空再次发生事故",
@@ -3260,7 +3356,7 @@
     },
     {
       "raw_hot": 60320,
-      "num": 257893,
+      "num": 283421,
       "word": "尊界S800引领时代的顶级驾控",
       "onboard_time": 1748612969,
       "rank": 25,
@@ -3393,14 +3489,6 @@
       "onboard_time": 1748596220,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 52723,
-      "num": 261754,
-      "word": "目击者称男子推倒兵马俑倒地捂脸",
-      "onboard_time": 1748614467,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52217,
@@ -3635,14 +3723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40309,
-      "num": 300817,
-      "word": "兵马俑受损等情况正在调查中",
-      "onboard_time": 1748614589,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39902,
       "num": 316414,
       "word": "2025KPL年总赛制公布",
@@ -3777,6 +3857,14 @@
       "onboard_time": 1748586680,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31234,
+      "num": 282586,
+      "word": "大麦回应老年机号抢到演唱会门票",
+      "onboard_time": 1748615308,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 30940,
@@ -4083,12 +4171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15576,
+      "num": 286932,
+      "word": "减重期间该如何健康地吃粽子",
+      "onboard_time": 1748615190,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 15090,
       "num": 340450,
       "word": "装修工搞错门牌号女子新房被拆光",
       "onboard_time": 1748590341,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14971,
+      "num": 282274,
+      "word": "为什么焦虑情绪比困难本身更难克服",
+      "onboard_time": 1748615190,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 14603,
@@ -4195,7 +4299,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 7214,
+      "raw_hot": 9306,
+      "num": 281763,
+      "word": "广东人的六一有多开心",
+      "onboard_time": 1748616026,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8858,
       "num": 2533096,
       "word": "万千气象看四川",
       "onboard_time": 1748272763,
