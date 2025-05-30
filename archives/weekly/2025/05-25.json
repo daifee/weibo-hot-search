@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748589912916,
+  "endTime": 1748590722551,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1648244,
+      "num": 1648244,
+      "word": "断眉投票 马嘉祺",
+      "onboard_time": 1748587881,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1639991,
       "num": 1022404,
       "word": "女儿未恋爱遇害母亲泣诉人生骤断",
@@ -409,14 +417,6 @@
       "onboard_time": 1748311281,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1529801,
-      "num": 1529801,
-      "word": "断眉投票 马嘉祺",
-      "onboard_time": 1748587881,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1528474,
@@ -1100,7 +1100,7 @@
     },
     {
       "raw_hot": 962148,
-      "num": 343997,
+      "num": 390201,
       "word": "女婴手术6分钟无作为致瘫",
       "onboard_time": 1748586501,
       "rank": 28,
@@ -2027,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 666706,
+      "num": 385279,
+      "word": "周华健儿子结婚",
+      "onboard_time": 1748589080,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 663079,
       "num": 663079,
       "word": "2025白玉兰最佳女主角将花落谁家",
@@ -2427,6 +2435,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 589254,
+      "num": 417368,
+      "word": "种地吧直播",
+      "onboard_time": 1748590160,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587878,
       "num": 587878,
       "word": "教育部门回应教师迟到1分钟被定事故",
@@ -2576,6 +2592,14 @@
       "word": "今朝cp求婚了",
       "onboard_time": 1748509641,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 553741,
+      "num": 337069,
+      "word": "这居然是吴昕",
+      "onboard_time": 1748588900,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -2772,7 +2796,7 @@
     },
     {
       "raw_hot": 521316,
-      "num": 398771,
+      "num": 416701,
       "word": "en露脸",
       "onboard_time": 1748586080,
       "rank": 14,
@@ -3715,6 +3739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 400486,
+      "num": 400486,
+      "word": "外媒嘲讽印度靠PPT打赢战争",
+      "onboard_time": 1748586560,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 400146,
       "num": 400146,
       "word": "刘诗诗周润发 短剧奇迹",
@@ -3769,14 +3801,6 @@
       "onboard_time": 1748483601,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 394505,
-      "num": 278190,
-      "word": "这居然是吴昕",
-      "onboard_time": 1748588900,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 394019,
@@ -4121,14 +4145,6 @@
       "onboard_time": 1748099484,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 363415,
-      "num": 282835,
-      "word": "周华健儿子结婚",
-      "onboard_time": 1748589080,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 362325,
@@ -4955,6 +4971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299630,
+      "num": 375005,
+      "word": "洪晃在追折腰",
+      "onboard_time": 1748586380,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299472,
       "num": 299472,
       "word": "麒麟芯片",
@@ -5019,14 +5043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294756,
-      "num": 319159,
-      "word": "外媒嘲讽印度靠PPT打赢战争",
-      "onboard_time": 1748586560,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 293981,
       "num": 388153,
       "word": "白鹿丞磊 莫离",
@@ -5081,6 +5097,14 @@
       "onboard_time": 1748572700,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290628,
+      "num": 399828,
+      "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
+      "onboard_time": 1748589501,
+      "rank": 36,
+      "category": "国际时政,教育"
     },
     {
       "raw_hot": 289153,
@@ -5169,14 +5193,6 @@
       "onboard_time": 1748400261,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 284429,
-      "num": 284429,
-      "word": "洪晃在追折腰",
-      "onboard_time": 1748586380,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 284170,
@@ -5779,6 +5795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254296,
+      "num": 331910,
+      "word": "李昀锐跑丢了4个摄像",
+      "onboard_time": 1748589921,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253911,
       "num": 228095,
       "word": "易烊千玺狂野时代获奖发文",
@@ -6187,6 +6211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237026,
+      "num": 237026,
+      "word": "唯一一个资本控制不了的运动",
+      "onboard_time": 1748589860,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 236801,
       "num": 336732,
       "word": "反家暴法主要起草专家夏吟兰去世",
@@ -6545,6 +6577,14 @@
       "onboard_time": 1748322802,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221546,
+      "num": 331954,
+      "word": "现偶四大天花板",
+      "onboard_time": 1748589021,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221448,
@@ -7339,6 +7379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202901,
+      "num": 202901,
+      "word": "宋茜和Victoria你总会知道一个",
+      "onboard_time": 1748589980,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202795,
       "num": 202795,
       "word": "世乒赛男双",
@@ -7361,14 +7409,6 @@
       "onboard_time": 1748586380,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 202683,
-      "num": 202683,
-      "word": "现偶四大天花板",
-      "onboard_time": 1748589021,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 202680,
@@ -8875,6 +8915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183013,
+      "num": 183013,
+      "word": "吴昕东北赫本",
+      "onboard_time": 1748590100,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182901,
       "num": 182901,
       "word": "厚皮橙 上头",
@@ -9459,6 +9507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175001,
+      "num": 175001,
+      "word": "工人弄错门牌号女子新房被拆光",
+      "onboard_time": 1748589201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174847,
       "num": 174847,
       "word": "荔枝冷藏一下再吃不上火",
@@ -9473,6 +9529,14 @@
       "onboard_time": 1748402843,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174808,
+      "num": 279875,
+      "word": "labubu丑娃爆火是什么审美趋势",
+      "onboard_time": 1748587881,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 174795,
@@ -11491,14 +11555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152662,
-      "num": 152662,
-      "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
-      "onboard_time": 1748589501,
-      "rank": 36,
-      "category": "国际时政,教育"
-    },
-    {
       "raw_hot": 152604,
       "num": 202201,
       "word": "终于有恋综把丑话都说在了前面",
@@ -11643,6 +11699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 150979,
+      "num": 150979,
+      "word": "曝iPhone17Pro为拼接设计",
+      "onboard_time": 1748589860,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 150845,
       "num": 213064,
       "word": "丁禹兮中餐厅厨师服造型路透",
@@ -11713,6 +11777,14 @@
       "onboard_time": 1748149162,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150133,
+      "num": 150133,
+      "word": "全世界都在偶遇范志毅",
+      "onboard_time": 1748590522,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 149739,
@@ -11851,14 +11923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147577,
-      "num": 279875,
-      "word": "labubu丑娃爆火是什么审美趋势",
-      "onboard_time": 1748587881,
-      "rank": 19,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 147348,
       "num": 172241,
       "word": "张真源一方有难八方添乱",
@@ -11929,14 +11993,6 @@
       "onboard_time": 1748412980,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146562,
-      "num": 146562,
-      "word": "工人弄错门牌号女子新房被拆光",
-      "onboard_time": 1748589201,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146506,
@@ -12137,14 +12193,6 @@
       "onboard_time": 1748173523,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144432,
-      "num": 144432,
-      "word": "唯一一个资本控制不了的运动",
-      "onboard_time": 1748589860,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 144327,
@@ -13307,6 +13355,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 131784,
+      "num": 131784,
+      "word": "专八成绩",
+      "onboard_time": 1748589621,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131726,
       "num": 131726,
       "word": "白鹿蓝色V领吊带裙",
@@ -13817,6 +13873,14 @@
       "onboard_time": 1748388919,
       "rank": 25,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 126121,
+      "num": 126121,
+      "word": "肖战腹肌不对称了",
+      "onboard_time": 1748590642,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 126031,
@@ -14347,6 +14411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118754,
+      "num": 349839,
+      "word": "什么样的朋友一定要远离",
+      "onboard_time": 1748589980,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118374,
       "num": 118374,
       "word": "印度蒙古将举行联合军演",
@@ -14449,14 +14521,6 @@
       "onboard_time": 1748190080,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 116808,
-      "num": 116808,
-      "word": "专八成绩",
-      "onboard_time": 1748589621,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 116624,
@@ -14633,14 +14697,6 @@
       "onboard_time": 1748220682,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114382,
-      "num": 114382,
-      "word": "曝iPhone17Pro为拼接设计",
-      "onboard_time": 1748589860,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 114041,
@@ -15715,6 +15771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97108,
+      "num": 331890,
+      "word": "京东618推出明星惊喜券",
+      "onboard_time": 1748588900,
+      "rank": 26,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 96996,
       "num": 178748,
       "word": "藏海传打工人版",
@@ -16323,6 +16387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85426,
+      "num": 349231,
+      "word": "父亲把房子送给孩子后还能要回吗",
+      "onboard_time": 1748589021,
+      "rank": 18,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 85112,
       "num": 85112,
       "word": "尹昉衰老的速度不像在人间",
@@ -16755,6 +16827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78061,
+      "num": 192760,
+      "word": "何广智王勉设挑战为难小鹏MONA智驾",
+      "onboard_time": 1748589980,
+      "rank": 38,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 77887,
       "num": 238575,
       "word": "金饰价格跌至1005元",
@@ -16953,6 +17033,14 @@
       "onboard_time": 1748546833,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75002,
+      "num": 365120,
+      "word": "被中国人起名的智慧惊艳了",
+      "onboard_time": 1748588780,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74919,
@@ -17475,14 +17563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 63484,
-      "num": 237429,
-      "word": "京东618推出明星惊喜券",
-      "onboard_time": 1748588900,
-      "rank": 26,
-      "category": "互联网,艺人"
-    },
-    {
       "raw_hot": 63399,
       "num": 138156,
       "word": "高抬腿可以瘦肚子吗",
@@ -17939,14 +18019,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 57577,
-      "num": 282059,
-      "word": "被中国人起名的智慧惊艳了",
-      "onboard_time": 1748588780,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57318,
       "num": 57318,
       "word": "现货黄金跌破3320",
@@ -18089,6 +18161,14 @@
       "onboard_time": 1748242341,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55808,
+      "num": 269025,
+      "word": "为什么韩国的生育率开始上升",
+      "onboard_time": 1748589501,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55757,
@@ -19195,6 +19275,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 39902,
+      "num": 316414,
+      "word": "2025KPL年总赛制公布",
+      "onboard_time": 1748590280,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39863,
       "num": 124742,
       "word": "国防部回应美国部署金穹系统",
@@ -19241,14 +19329,6 @@
       "onboard_time": 1748240840,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39004,
-      "num": 280658,
-      "word": "父亲把房子送给孩子后还能要回吗",
-      "onboard_time": 1748589021,
-      "rank": 18,
-      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 38758,
@@ -19577,6 +19657,14 @@
       "onboard_time": 1748427082,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35014,
+      "num": 356727,
+      "word": "龙舟队长回应一条龙舟值一套房",
+      "onboard_time": 1748590160,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34993,
@@ -20073,6 +20161,14 @@
       "onboard_time": 1748529802,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 29079,
+      "num": 287151,
+      "word": "张家界溶洞倾倒垃圾或涉刑事犯罪",
+      "onboard_time": 1748589441,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28957,
@@ -20875,6 +20971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20678,
+      "num": 233408,
+      "word": "换城市生活能让人放下过去的痛苦吗",
+      "onboard_time": 1748588840,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 20626,
       "num": 35552,
       "word": "安徽多人吃同一家甜品后疑食物中毒",
@@ -20897,14 +21001,6 @@
       "onboard_time": 1748458034,
       "rank": 46,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 20221,
-      "num": 233408,
-      "word": "换城市生活能让人放下过去的痛苦吗",
-      "onboard_time": 1748588840,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 20176,
@@ -21331,6 +21427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15090,
+      "num": 340450,
+      "word": "装修工搞错门牌号女子新房被拆光",
+      "onboard_time": 1748590341,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15064,
       "num": 337016,
       "word": "烫碗习惯可以有效对餐具消毒吗",
@@ -21417,14 +21521,6 @@
       "onboard_time": 1748327781,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 14691,
-      "num": 236106,
-      "word": "为什么韩国的生育率开始上升",
-      "onboard_time": 1748589501,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14677,
@@ -21755,14 +21851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11797,
-      "num": 235410,
-      "word": "张家界溶洞倾倒垃圾或涉刑事犯罪",
-      "onboard_time": 1748589441,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11720,
       "num": 302421,
       "word": "什么是人机共驾理念",
@@ -21841,6 +21929,14 @@
       "onboard_time": 1748342602,
       "rank": 25,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 10897,
+      "num": 302191,
+      "word": "花生壳冰淇淋是创新还是噱头",
+      "onboard_time": 1748590280,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 10494,
