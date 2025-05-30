@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1748605042819,
+  "endTime": 1748609495430,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -787,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9663660,
+      "num": 9663660,
+      "word": "歌手直播",
+      "onboard_time": 1746573860,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9461281,
       "num": 9461281,
       "word": "柯洁不比了",
@@ -985,14 +993,6 @@
       "onboard_time": 1743411324,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7904904,
-      "num": 7904904,
-      "word": "歌手直播",
-      "onboard_time": 1746573860,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 7891142,

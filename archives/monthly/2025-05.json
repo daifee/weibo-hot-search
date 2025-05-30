@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748605042819,
+  "endTime": 1748609495430,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9663660,
+      "num": 9663660,
+      "word": "歌手直播",
+      "onboard_time": 1746573860,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9371943,
       "num": 9371943,
       "word": "朱媛媛 抗癌五年",
@@ -169,14 +177,6 @@
       "onboard_time": 1748094746,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7904904,
-      "num": 7904904,
-      "word": "歌手直播",
-      "onboard_time": 1746573860,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 7424626,
@@ -779,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2373850,
+      "num": 2373850,
+      "word": "歌手顺序",
+      "onboard_time": 1747399763,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2368379,
       "num": 858206,
       "word": "跳楼机",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1746080000,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2013392,
+      "num": 247612,
+      "word": "断眉上来就唱see you again",
+      "onboard_time": 1748608824,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2011242,
@@ -9475,6 +9491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 731941,
+      "num": 236896,
+      "word": "GAI主动第一个登场",
+      "onboard_time": 1748608344,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 731681,
       "num": 615217,
       "word": "杨紫去年就拍了撕拉片",
@@ -10571,6 +10595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 682361,
+      "num": 682361,
+      "word": "清华回应中学生登珠峰能否保送",
+      "onboard_time": 1748603600,
+      "rank": 19,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 682216,
       "num": 258358,
       "word": "上海月薪6000一天花多少钱",
@@ -10873,6 +10905,14 @@
       "onboard_time": 1748056521,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 663710,
+      "num": 234496,
+      "word": "台湾青年因为肖战想去重庆",
+      "onboard_time": 1748604980,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 663371,
@@ -14171,6 +14211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546091,
+      "num": 205835,
+      "word": "单依纯第一个出场",
+      "onboard_time": 1748607983,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 545603,
       "num": 368261,
       "word": "韩安冉宋浩然凌晨街头亲吻",
@@ -15695,6 +15743,14 @@
       "num": 322454,
       "word": "曹政奭百想影帝",
       "onboard_time": 1746457162,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 499517,
+      "num": 219275,
+      "word": "GAI 不好听",
+      "onboard_time": 1748609245,
       "rank": 15,
       "category": "综艺"
     },
@@ -20315,6 +20371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392877,
+      "num": 392877,
+      "word": "女子立遗嘱给宠物狗留了十几万",
+      "onboard_time": 1748606601,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392506,
       "num": 392506,
       "word": "朱志鑫簪花",
@@ -23249,14 +23313,6 @@
       "onboard_time": 1746445702,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 342057,
-      "num": 342057,
-      "word": "清华回应中学生登珠峰能否保送",
-      "onboard_time": 1748603600,
-      "rank": 19,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 341953,
@@ -26483,6 +26539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 298041,
+      "num": 205525,
+      "word": "常吃劣质碳水的人衰老更快",
+      "onboard_time": 1748604021,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 298026,
       "num": 432268,
       "word": "浪姐四公",
@@ -27704,6 +27768,14 @@
       "word": "周杰伦林俊杰王俊凯同框",
       "onboard_time": 1747535309,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283760,
+      "num": 203801,
+      "word": "歌手2025投票",
+      "onboard_time": 1748603420,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -30379,6 +30451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256740,
+      "num": 203127,
+      "word": "结石姐首唱舞台是格莱美级别的",
+      "onboard_time": 1748606302,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256618,
       "num": 332139,
       "word": "发了offer催离职又反悔公司判赔3.4万",
@@ -30553,6 +30633,14 @@
       "onboard_time": 1748016563,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255130,
+      "num": 214675,
+      "word": "泡泡玛特哭娃",
+      "onboard_time": 1748607083,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 254904,
@@ -32387,6 +32475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 242148,
+      "num": 202694,
+      "word": "白举纲进步",
+      "onboard_time": 1748609185,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242122,
       "num": 374729,
       "word": "上海近4成户籍人口60岁以上",
@@ -32449,6 +32545,14 @@
       "onboard_time": 1748403081,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241590,
+      "num": 241590,
+      "word": "鸣潮",
+      "onboard_time": 1748608282,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 241545,
@@ -34928,14 +35032,6 @@
       "word": "谁来给黄景瑜金晨递个本子",
       "onboard_time": 1748574020,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 223479,
-      "num": 223479,
-      "word": "歌手顺序",
-      "onboard_time": 1747399763,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -40553,14 +40649,6 @@
       "onboard_time": 1747628964,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202107,
-      "num": 202107,
-      "word": "歌手2025投票",
-      "onboard_time": 1748603420,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 202049,
@@ -47307,6 +47395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186790,
+      "num": 204090,
+      "word": "婚礼睡过头是种什么体验",
+      "onboard_time": 1748606121,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186771,
       "num": 279991,
       "word": "爸爸当家慢享季定档官宣",
@@ -49587,6 +49683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180640,
+      "num": 180640,
+      "word": "藏海双杀告诉我到底什么是真的",
+      "onboard_time": 1748602760,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180571,
       "num": 180571,
       "word": "倪虹洁浪姐上班疯了算工伤吗",
@@ -50464,6 +50568,14 @@
       "word": "被落石砸中身亡男子为医务工作者",
       "onboard_time": 1747474941,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178173,
+      "num": 225293,
+      "word": "顺丰已成立理赔小组处理手镯事件",
+      "onboard_time": 1748604441,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -54091,6 +54203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169002,
+      "num": 238759,
+      "word": "范丞丞成了跑男成败的关键",
+      "onboard_time": 1748608944,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168975,
       "num": 168975,
       "word": "吉利汽车建议私有化极氪",
@@ -54513,14 +54633,6 @@
       "onboard_time": 1746872060,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168004,
-      "num": 168004,
-      "word": "台湾青年因为肖战想去重庆",
-      "onboard_time": 1748604980,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 167926,
@@ -56875,6 +56987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162706,
+      "num": 136050,
+      "word": "包上恩 萌神",
+      "onboard_time": 1748605520,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162679,
       "num": 162679,
       "word": "凯尔特人两场出手100记三分",
@@ -58025,6 +58145,14 @@
       "onboard_time": 1746608064,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159846,
+      "num": 135772,
+      "word": "刘宇宁全开麦彩排现场",
+      "onboard_time": 1748605641,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 159809,
@@ -64547,6 +64675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145764,
+      "num": 173433,
+      "word": "京东618大额券",
+      "onboard_time": 1748603181,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145743,
       "num": 145743,
       "word": "婚礼上的狗方亲友",
@@ -70099,6 +70235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134705,
+      "num": 134705,
+      "word": "郑钦文回应重返法网16强",
+      "onboard_time": 1748607564,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134701,
       "num": 134701,
       "word": "陈德容2023年颁奖给吴宣仪",
@@ -72163,6 +72307,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 130092,
+      "num": 216146,
+      "word": "X200Ultra独家解锁楚生的世界2.0",
+      "onboard_time": 1748608644,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130090,
       "num": 183402,
       "word": "小花镜头下的孙俪好美",
@@ -72345,6 +72497,14 @@
       "onboard_time": 1747034242,
       "rank": 26,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 129730,
+      "num": 129730,
+      "word": "郑钦文说自己武汉长大不怕热",
+      "onboard_time": 1748608644,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 129711,
@@ -74275,6 +74435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126354,
+      "num": 126354,
+      "word": "韩国军机垂直坠毁",
+      "onboard_time": 1748606121,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 126350,
       "num": 181510,
       "word": "杭州偶遇章若楠逛街",
@@ -74561,6 +74729,14 @@
       "onboard_time": 1747933399,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125653,
+      "num": 204670,
+      "word": "刘宇宁给大乔点跳楼机",
+      "onboard_time": 1748609245,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 125650,
@@ -75739,14 +75915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122928,
-      "num": 122928,
-      "word": "常吃劣质碳水的人衰老更快",
-      "onboard_time": 1748604021,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 122867,
       "num": 122867,
       "word": "美方要珍惜中方的善意",
@@ -76777,14 +76945,6 @@
       "onboard_time": 1747403787,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 120477,
-      "num": 173433,
-      "word": "京东618大额券",
-      "onboard_time": 1748603181,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 120462,
@@ -78825,14 +78985,6 @@
       "onboard_time": 1748328682,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115604,
-      "num": 115604,
-      "word": "顺丰已成立理赔小组处理手镯事件",
-      "onboard_time": 1748604441,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115601,
@@ -81595,6 +81747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108984,
+      "num": 108984,
+      "word": "瓜农因收购价低把西瓜扔鱼塘喂鱼",
+      "onboard_time": 1748606842,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108969,
       "num": 234265,
       "word": "弹壳嘴欠老问女儿更爱谁",
@@ -82529,6 +82689,14 @@
       "onboard_time": 1748573120,
       "rank": 29,
       "category": "国际时政,教育"
+    },
+    {
+      "raw_hot": 106116,
+      "num": 106116,
+      "word": "一代人有一代人的端午粽子",
+      "onboard_time": 1748607322,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106111,
@@ -84017,6 +84185,14 @@
       "onboard_time": 1747632744,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 101434,
+      "num": 101434,
+      "word": "鹿晗亚洲巡演青岛站官宣",
+      "onboard_time": 1748606962,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 101429,
@@ -86803,6 +86979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92227,
+      "num": 92227,
+      "word": "在人间官微戏精",
+      "onboard_time": 1748609303,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92220,
       "num": 223219,
       "word": "裁判受伤了",
@@ -87449,6 +87633,14 @@
       "onboard_time": 1747789951,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 89890,
+      "num": 209865,
+      "word": "音综修音到底都修什么",
+      "onboard_time": 1748608944,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 89880,
@@ -95097,6 +95289,14 @@
       "onboard_time": 1746364644,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61635,
+      "num": 202382,
+      "word": "南北方的夏天有什么差异",
+      "onboard_time": 1748608282,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 61609,
@@ -108059,6 +108259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26734,
+      "num": 102118,
+      "word": "心肌炎最常见的病原体是什么",
+      "onboard_time": 1748606781,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 26730,
       "num": 348956,
       "word": "美国新核弹的主要改进有哪些",
@@ -110372,7 +110580,7 @@
     },
     {
       "raw_hot": 22045,
-      "num": 591413,
+      "num": 1225753,
       "word": "9图解锁双节消费攻略",
       "onboard_time": 1748598141,
       "rank": 2,
@@ -113025,6 +113233,14 @@
       "onboard_time": 1748283014,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17239,
+      "num": 201685,
+      "word": "广东人对传统文化的重视程度",
+      "onboard_time": 1748608404,
+      "rank": 29,
+      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 17232,
@@ -116129,6 +116345,14 @@
       "onboard_time": 1747737082,
       "rank": 26,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 11661,
+      "num": 208499,
+      "word": "退货标签能否有效遏制恶意退货",
+      "onboard_time": 1748608882,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11657,

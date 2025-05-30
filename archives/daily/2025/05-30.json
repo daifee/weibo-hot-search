@@ -1,7 +1,15 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748605042819,
+  "endTime": 1748609495430,
   "band_list": [
+    {
+      "raw_hot": 9663660,
+      "num": 9663660,
+      "word": "歌手直播",
+      "onboard_time": 1748606182,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 4777046,
       "num": 281989,
@@ -27,12 +35,28 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 2373850,
+      "num": 2373850,
+      "word": "歌手顺序",
+      "onboard_time": 1748606601,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2156975,
       "num": 433794,
       "word": "孙俪的唇下痣没了",
       "onboard_time": 1748567900,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2013392,
+      "num": 247612,
+      "word": "断眉上来就唱see you again",
+      "onboard_time": 1748608824,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1792354,
@@ -219,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 731941,
+      "num": 236896,
+      "word": "GAI主动第一个登场",
+      "onboard_time": 1748608344,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 717454,
       "num": 717454,
       "word": "商家为防六一退货潮出奇招",
@@ -243,6 +275,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 682361,
+      "num": 682361,
+      "word": "清华回应中学生登珠峰能否保送",
+      "onboard_time": 1748603600,
+      "rank": 19,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 674193,
       "num": 674193,
       "word": "花生壳里塞冰淇淋卖28一个",
@@ -257,6 +297,14 @@
       "onboard_time": 1748589080,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663710,
+      "num": 234496,
+      "word": "台湾青年因为肖战想去重庆",
+      "onboard_time": 1748604980,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 655831,
@@ -307,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546091,
+      "num": 205835,
+      "word": "单依纯第一个出场",
+      "onboard_time": 1748607983,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 542611,
       "num": 377445,
       "word": "能接受自己孩子不结婚吗",
@@ -353,6 +409,14 @@
       "onboard_time": 1748529083,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 499517,
+      "num": 219275,
+      "word": "GAI 不好听",
+      "onboard_time": 1748609245,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 474000,
@@ -451,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 392877,
+      "num": 392877,
+      "word": "女子立遗嘱给宠物狗留了十几万",
+      "onboard_time": 1748606601,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 387891,
       "num": 387891,
       "word": "身价百亿毛巾少爷转行卖咖啡",
@@ -515,14 +587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 342057,
-      "num": 342057,
-      "word": "清华回应中学生登珠峰能否保送",
-      "onboard_time": 1748603600,
-      "rank": 19,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 340594,
       "num": 340594,
       "word": "临江仙",
@@ -579,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298041,
+      "num": 205525,
+      "word": "常吃劣质碳水的人衰老更快",
+      "onboard_time": 1748604021,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 296573,
       "num": 225572,
       "word": "男子翻女友手机才发现小丑竟是自己",
@@ -617,6 +689,14 @@
       "onboard_time": 1748563820,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283760,
+      "num": 203801,
+      "word": "歌手2025投票",
+      "onboard_time": 1748603420,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 281440,
@@ -691,12 +771,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256740,
+      "num": 203127,
+      "word": "结石姐首唱舞台是格莱美级别的",
+      "onboard_time": 1748606302,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256258,
       "num": 256258,
       "word": "陈雨菲横扫安洗莹",
       "onboard_time": 1748582000,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255130,
+      "num": 214675,
+      "word": "泡泡玛特哭娃",
+      "onboard_time": 1748607083,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 254296,
@@ -769,6 +865,22 @@
       "onboard_time": 1748521519,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242148,
+      "num": 202694,
+      "word": "白举纲进步",
+      "onboard_time": 1748609185,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 241590,
+      "num": 241590,
+      "word": "鸣潮",
+      "onboard_time": 1748608282,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 241535,
@@ -987,11 +1099,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202107,
-      "num": 202107,
-      "word": "歌手2025投票",
-      "onboard_time": 1748603420,
-      "rank": 37,
+      "raw_hot": 201426,
+      "num": 201426,
+      "word": "歌手",
+      "onboard_time": 1748482820,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1155,6 +1267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 186790,
+      "num": 204090,
+      "word": "婚礼睡过头是种什么体验",
+      "onboard_time": 1748606121,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186493,
       "num": 186493,
       "word": "时尚COSMO6月刊封面预告",
@@ -1211,6 +1331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 180640,
+      "num": 180640,
+      "word": "藏海双杀告诉我到底什么是真的",
+      "onboard_time": 1748602760,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180260,
       "num": 180260,
       "word": "灵笼2",
@@ -1241,6 +1369,14 @@
       "onboard_time": 1748596280,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 178173,
+      "num": 225293,
+      "word": "顺丰已成立理赔小组处理手镯事件",
+      "onboard_time": 1748604441,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177688,
@@ -1347,6 +1483,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 169002,
+      "num": 238759,
+      "word": "范丞丞成了跑男成败的关键",
+      "onboard_time": 1748608944,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168393,
       "num": 194875,
       "word": "天猫12168元红包现在发用到爽",
@@ -1361,14 +1505,6 @@
       "onboard_time": 1748530464,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168004,
-      "num": 168004,
-      "word": "台湾青年因为肖战想去重庆",
-      "onboard_time": 1748604980,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 167792,
@@ -1435,6 +1571,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 162706,
+      "num": 136050,
+      "word": "包上恩 萌神",
+      "onboard_time": 1748605520,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162651,
       "num": 162651,
       "word": "19岁李嫣高中毕业",
@@ -1465,6 +1609,14 @@
       "onboard_time": 1748580141,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159846,
+      "num": 135772,
+      "word": "刘宇宁全开麦彩排现场",
+      "onboard_time": 1748605641,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 158616,
@@ -1627,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145764,
+      "num": 173433,
+      "word": "京东618大额券",
+      "onboard_time": 1748603181,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145399,
       "num": 145399,
       "word": "刘宇宁紫川之光明王开播海报",
@@ -1731,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134705,
+      "num": 134705,
+      "word": "郑钦文回应重返法网16强",
+      "onboard_time": 1748607564,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134563,
       "num": 134563,
       "word": "雷军说感谢大家15年的不离不弃",
@@ -1777,6 +1945,22 @@
       "onboard_time": 1748595322,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130092,
+      "num": 216146,
+      "word": "X200Ultra独家解锁楚生的世界2.0",
+      "onboard_time": 1748608644,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129730,
+      "num": 129730,
+      "word": "郑钦文说自己武汉长大不怕热",
+      "onboard_time": 1748608644,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 129429,
@@ -1827,12 +2011,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126354,
+      "num": 126354,
+      "word": "韩国军机垂直坠毁",
+      "onboard_time": 1748606121,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 126034,
       "num": 126034,
       "word": "人生就是壮壮妈",
       "onboard_time": 1748522481,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125653,
+      "num": 204670,
+      "word": "刘宇宁给大乔点跳楼机",
+      "onboard_time": 1748609245,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 125347,
@@ -1873,14 +2073,6 @@
       "onboard_time": 1748570299,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122928,
-      "num": 122928,
-      "word": "常吃劣质碳水的人衰老更快",
-      "onboard_time": 1748604021,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 122480,
@@ -1931,14 +2123,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 120477,
-      "num": 173433,
-      "word": "京东618大额券",
-      "onboard_time": 1748603181,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 119710,
       "num": 180637,
       "word": "真正的618在天猫不用等直接买",
@@ -1985,14 +2169,6 @@
       "onboard_time": 1748599821,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115604,
-      "num": 115604,
-      "word": "顺丰已成立理赔小组处理手镯事件",
-      "onboard_time": 1748604441,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115411,
@@ -2059,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108984,
+      "num": 108984,
+      "word": "瓜农因收购价低把西瓜扔鱼塘喂鱼",
+      "onboard_time": 1748606842,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107189,
       "num": 107189,
       "word": "多家医院回应药企向上百名医生行贿",
@@ -2091,12 +2275,28 @@
       "category": "国际时政,教育"
     },
     {
+      "raw_hot": 106116,
+      "num": 106116,
+      "word": "一代人有一代人的端午粽子",
+      "onboard_time": 1748607322,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103999,
       "num": 345143,
       "word": "被这些中国品牌狠狠燃到了",
       "onboard_time": 1748585121,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101434,
+      "num": 101434,
+      "word": "鹿晗亚洲巡演青岛站官宣",
+      "onboard_time": 1748606962,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 101261,
@@ -2227,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94376,
+      "num": 94376,
+      "word": "藏海传",
+      "onboard_time": 1748609245,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94069,
       "num": 188385,
       "word": "韩国工地午饭都吃什么",
@@ -2251,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92227,
+      "num": 92227,
+      "word": "在人间官微戏精",
+      "onboard_time": 1748609303,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90343,
       "num": 146805,
       "word": "网信部门整治短视频恶意营销乱象",
@@ -2265,6 +2481,14 @@
       "onboard_time": 1748530464,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89890,
+      "num": 209865,
+      "word": "音综修音到底都修什么",
+      "onboard_time": 1748608944,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 89698,
@@ -2625,6 +2849,14 @@
       "onboard_time": 1748587281,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 61635,
+      "num": 202382,
+      "word": "南北方的夏天有什么差异",
+      "onboard_time": 1748608282,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 60910,
@@ -3195,6 +3427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26734,
+      "num": 102118,
+      "word": "心肌炎最常见的病原体是什么",
+      "onboard_time": 1748606781,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 26573,
       "num": 185730,
       "word": "因批评印度出名的印度裔加拿大人",
@@ -3252,7 +3492,7 @@
     },
     {
       "raw_hot": 22045,
-      "num": 591413,
+      "num": 1225753,
       "word": "9图解锁双节消费攻略",
       "onboard_time": 1748598141,
       "rank": 2,
@@ -3355,6 +3595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17239,
+      "num": 201685,
+      "word": "广东人对传统文化的重视程度",
+      "onboard_time": 1748608404,
+      "rank": 29,
+      "category": "民生新闻,运动健身"
+    },
+    {
       "raw_hot": 15964,
       "num": 152686,
       "word": "第一视角体验高考全流程",
@@ -3433,6 +3681,14 @@
       "onboard_time": 1748547375,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11661,
+      "num": 208499,
+      "word": "退货标签能否有效遏制恶意退货",
+      "onboard_time": 1748608882,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11581,
