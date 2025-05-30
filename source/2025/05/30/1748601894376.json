@@ -1,0 +1,410 @@
+{
+  "runTime": 1748601894376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 991013,
+        "num": 1158562,
+        "word": "断眉投票 马嘉祺",
+        "onboard_time": 1748587881,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555615,
+        "num": 555615,
+        "word": "男子离珠峰顶仅400米折返救陌生人",
+        "onboard_time": 1748591901,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 22045,
+        "num": 480926,
+        "word": "9图解锁双节消费攻略",
+        "onboard_time": 1748598141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450378,
+        "num": 450378,
+        "word": "中国学生在哈佛毕业典礼发表演讲",
+        "onboard_time": 1748594480,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 401284,
+        "num": 401284,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 4,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 955668,
+        "num": 400294,
+        "word": "马嘉祺大战断眉",
+        "onboard_time": 1748600780,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398731,
+        "num": 398731,
+        "word": "赵丽颖9分钟无台词演技",
+        "onboard_time": 1748600421,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303702,
+        "num": 303702,
+        "word": "商家为防六一退货潮出奇招",
+        "onboard_time": 1748591901,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 260319,
+        "num": 260319,
+        "word": "官方回应张家界一溶洞被堆满垃圾",
+        "onboard_time": 1748597301,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 119632,
+        "num": 246575,
+        "word": "瑞幸咖啡否认降价",
+        "onboard_time": 1748600662,
+        "rank": 9,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 4777046,
+        "num": 244241,
+        "word": "祝绪丹秒删",
+        "onboard_time": 1748601081,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324079,
+        "num": 242958,
+        "word": "唯一一个资本控制不了的运动",
+        "onboard_time": 1748589860,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 236972,
+        "num": 236972,
+        "word": "现偶四大天花板",
+        "onboard_time": 1748589021,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223759,
+        "num": 223759,
+        "word": "唐山3.2级地震",
+        "onboard_time": 1748597961,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210152,
+        "num": 210152,
+        "word": "郑钦文1比0姆博科",
+        "onboard_time": 1748600121,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200711,
+        "num": 200711,
+        "word": "刘宇宁直播",
+        "onboard_time": 1748601320,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198556,
+        "num": 198556,
+        "word": "祝绪丹连续秒删",
+        "onboard_time": 1748600900,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182255,
+        "num": 182255,
+        "word": "肖战腹肌不对称了",
+        "onboard_time": 1748590642,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119710,
+        "num": 180637,
+        "word": "真正的618在天猫不用等直接买",
+        "onboard_time": 1748599941,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 55137,
+        "num": 179565,
+        "word": "哪些劣质碳水会让人加速衰老",
+        "onboard_time": 1748592320,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179221,
+        "num": 179221,
+        "word": "郑钦文vs姆博科",
+        "onboard_time": 1748596401,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176288,
+        "num": 176288,
+        "word": "林夏薇申请破产",
+        "onboard_time": 1748596160,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173299,
+        "num": 173299,
+        "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
+        "onboard_time": 1748589501,
+        "rank": 22,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 132932,
+        "num": 132932,
+        "word": "种地吧直播",
+        "onboard_time": 1748590160,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60555,
+        "num": 132179,
+        "word": "高考卷是我唯一没对过答案的试卷",
+        "onboard_time": 1748601021,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131613,
+        "num": 131613,
+        "word": "周深鹿晗汪苏泷张杰青岛见",
+        "onboard_time": 1748591061,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58822,
+        "num": 131561,
+        "word": "比亚迪李云飞回应近期传闻",
+        "onboard_time": 1748600121,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106816,
+        "num": 131426,
+        "word": "三支一扶拟招3.44万高校毕业生",
+        "onboard_time": 1748599941,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14603,
+        "num": 131170,
+        "word": "堂食店一定比档口店干净吗",
+        "onboard_time": 1748600780,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51523,
+        "num": 131120,
+        "word": "普通人在大厂上班的真实感受",
+        "onboard_time": 1748601140,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113083,
+        "num": 130859,
+        "word": "李云飞直面负债质疑",
+        "onboard_time": 1748596280,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155561,
+        "num": 130717,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148350,
+        "num": 130627,
+        "word": "马龙现身成都",
+        "onboard_time": 1748600600,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130513,
+        "num": 130513,
+        "word": "印尼向法国采购42架阵风战斗机",
+        "onboard_time": 1748597061,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129056,
+        "num": 129056,
+        "word": "瑞幸咖啡降价",
+        "onboard_time": 1748579481,
+        "rank": 34,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 124973,
+        "num": 124973,
+        "word": "张真源毕业",
+        "onboard_time": 1748582301,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124915,
+        "num": 124915,
+        "word": "周华健儿子结婚",
+        "onboard_time": 1748589080,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123131,
+        "num": 123131,
+        "word": "银发奶奶漫展cos白月魁",
+        "onboard_time": 1748601199,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 16848,
+        "num": 122786,
+        "word": "5岁小孩哥比30岁的我懂得还多",
+        "onboard_time": 1748597301,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 122455,
+        "num": 122455,
+        "word": "19岁李嫣高中毕业",
+        "onboard_time": 1748597661,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118824,
+        "num": 118824,
+        "word": "种地吧第三届感恩音乐会",
+        "onboard_time": 1748594902,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111122,
+        "num": 111122,
+        "word": "NS对战T1",
+        "onboard_time": 1748601261,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106413,
+        "num": 106413,
+        "word": "男子戴人皮面具偷了15万首饰现金",
+        "onboard_time": 1748601500,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100681,
+        "num": 100681,
+        "word": "藏海才是高段位复仇",
+        "onboard_time": 1748601620,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98881,
+        "num": 98881,
+        "word": "刘耀文19岁的脸上藏不住事",
+        "onboard_time": 1748600540,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95856,
+        "num": 95856,
+        "word": "折腰直播",
+        "onboard_time": 1748592681,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95846,
+        "num": 95846,
+        "word": "人类审美vs猫咪审美",
+        "onboard_time": 1748601320,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87524,
+        "num": 87524,
+        "word": "白鹿跑男宝娟嗓",
+        "onboard_time": 1748600299,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86732,
+        "num": 86732,
+        "word": "在人间我的电子阿贝贝",
+        "onboard_time": 1748600482,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86583,
+        "num": 86583,
+        "word": "蚊子叮人挑血型吗",
+        "onboard_time": 1748601681,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技工作者大有作为#"
+    }
+  }
+}

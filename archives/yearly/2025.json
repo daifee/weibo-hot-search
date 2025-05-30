@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1748600849195,
+  "endTime": 1748601894376,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1323,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4777046,
+      "num": 244241,
+      "word": "祝绪丹秒删",
+      "onboard_time": 1748601081,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4703448,
       "num": 5953448,
       "word": "王楚钦重庆赛夺冠",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1743578482,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3281821,
-      "num": 702354,
-      "word": "多位明星转发演员星星失联消息",
-      "onboard_time": 1736134101,
-      "rank": 5,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

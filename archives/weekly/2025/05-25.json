@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748600849195,
+  "endTime": 1748601894376,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -33,6 +33,14 @@
       "onboard_time": 1748167343,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 4777046,
+      "num": 244241,
+      "word": "祝绪丹秒删",
+      "onboard_time": 1748601081,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 4056325,
@@ -1139,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 955668,
+      "num": 410453,
+      "word": "马嘉祺大战断眉",
+      "onboard_time": 1748600780,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 949798,
       "num": 949798,
       "word": "美国政府朝令夕改让全世界目瞪口呆",
@@ -1273,14 +1289,6 @@
       "onboard_time": 1748417120,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 894824,
-      "num": 410453,
-      "word": "马嘉祺大战断眉",
-      "onboard_time": 1748600780,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 881200,
@@ -3835,6 +3843,14 @@
       "category": "艺人,演出"
     },
     {
+      "raw_hot": 398731,
+      "num": 398731,
+      "word": "赵丽颖9分钟无台词演技",
+      "onboard_time": 1748600421,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398074,
       "num": 398074,
       "word": "一觉醒来还在为世乒赛4冠骄傲",
@@ -5707,6 +5723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260319,
+      "num": 260319,
+      "word": "官方回应张家界一溶洞被堆满垃圾",
+      "onboard_time": 1748597301,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 259095,
       "num": 259095,
       "word": "光与夜之恋",
@@ -6459,14 +6483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230883,
-      "num": 250635,
-      "word": "官方回应张家界一溶洞被堆满垃圾",
-      "onboard_time": 1748597301,
-      "rank": 17,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 230776,
       "num": 230776,
       "word": "蔡卓宜简介上多了个儿子",
@@ -7099,14 +7115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210832,
-      "num": 210832,
-      "word": "赵丽颖9分钟无台词演技",
-      "onboard_time": 1748600421,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210761,
       "num": 210761,
       "word": "张艺兴飞天彩排齐得像千手观音",
@@ -7145,6 +7153,14 @@
       "onboard_time": 1748500341,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 210152,
+      "num": 210152,
+      "word": "郑钦文1比0姆博科",
+      "onboard_time": 1748600121,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 209998,
@@ -7769,6 +7785,14 @@
       "onboard_time": 1748146520,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198556,
+      "num": 198556,
+      "word": "祝绪丹连续秒删",
+      "onboard_time": 1748600900,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 198433,
@@ -9329,6 +9353,14 @@
       "onboard_time": 1748241200,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179221,
+      "num": 183367,
+      "word": "郑钦文vs姆博科",
+      "onboard_time": 1748596401,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 179203,
@@ -12067,6 +12099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148350,
+      "num": 130627,
+      "word": "马龙现身成都",
+      "onboard_time": 1748600600,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148042,
       "num": 148042,
       "word": "终于明白老年人玩智能机的无力感了",
@@ -12411,14 +12451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144221,
-      "num": 183367,
-      "word": "郑钦文vs姆博科",
-      "onboard_time": 1748596401,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144061,
       "num": 144061,
       "word": "西山居30周年",
@@ -12617,14 +12649,6 @@
       "onboard_time": 1748518460,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142097,
-      "num": 150803,
-      "word": "郑钦文1比0姆博科",
-      "onboard_time": 1748600121,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 141990,
@@ -14347,6 +14371,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 123131,
+      "num": 123131,
+      "word": "银发奶奶漫展cos白月魁",
+      "onboard_time": 1748601199,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 123094,
       "num": 160518,
       "word": "加沙11个月大婴儿仅10斤重",
@@ -14596,7 +14628,7 @@
     },
     {
       "raw_hot": 120603,
-      "num": 175695,
+      "num": 179565,
       "word": "哪些劣质碳水会让人加速衰老",
       "onboard_time": 1748592320,
       "rank": 45,
@@ -14643,6 +14675,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 119710,
+      "num": 180637,
+      "word": "真正的618在天猫不用等直接买",
+      "onboard_time": 1748599941,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 119702,
       "num": 119702,
       "word": "李诗沣马来西亚大师赛夺冠",
@@ -14657,6 +14697,14 @@
       "onboard_time": 1748428941,
       "rank": 41,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 119632,
+      "num": 246575,
+      "word": "瑞幸咖啡否认降价",
+      "onboard_time": 1748600662,
+      "rank": 26,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 119575,
@@ -14897,14 +14945,6 @@
       "onboard_time": 1748147900,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 115904,
-      "num": 115904,
-      "word": "马龙现身成都",
-      "onboard_time": 1748600600,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 115857,
@@ -15283,6 +15323,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 111122,
+      "num": 111122,
+      "word": "NS对战T1",
+      "onboard_time": 1748601261,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110817,
       "num": 145079,
       "word": "印度上班族现状",
@@ -15579,12 +15627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106816,
+      "num": 148352,
+      "word": "三支一扶拟招3.44万高校毕业生",
+      "onboard_time": 1748599941,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106482,
       "num": 106482,
       "word": "朴灿烈泡泡",
       "onboard_time": 1748139861,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106413,
+      "num": 106413,
+      "word": "男子戴人皮面具偷了15万首饰现金",
+      "onboard_time": 1748601500,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106377,
@@ -15881,6 +15945,14 @@
       "onboard_time": 1748434403,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100681,
+      "num": 100681,
+      "word": "藏海才是高段位复仇",
+      "onboard_time": 1748601620,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 100544,
@@ -16209,6 +16281,14 @@
       "onboard_time": 1748592860,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 95846,
+      "num": 95846,
+      "word": "人类审美vs猫咪审美",
+      "onboard_time": 1748601320,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 95694,
@@ -16659,6 +16739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87524,
+      "num": 242463,
+      "word": "白鹿跑男宝娟嗓",
+      "onboard_time": 1748600299,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87508,
       "num": 87508,
       "word": "荣耀回应新机国内外配置差距",
@@ -16705,6 +16793,14 @@
       "onboard_time": 1748138059,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86583,
+      "num": 86583,
+      "word": "蚊子叮人挑血型吗",
+      "onboard_time": 1748601681,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 86497,
@@ -16865,14 +16961,6 @@
       "onboard_time": 1748487861,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 83381,
-      "num": 148352,
-      "word": "三支一扶拟招3.44万高校毕业生",
-      "onboard_time": 1748599941,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 83347,
@@ -17795,14 +17883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67331,
-      "num": 176403,
-      "word": "真正的618在天猫不用等直接买",
-      "onboard_time": 1748599941,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 67231,
       "num": 176349,
       "word": "一艘龙舟成本近35万元",
@@ -18193,6 +18273,14 @@
       "onboard_time": 1748232923,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60555,
+      "num": 132179,
+      "word": "高考卷是我唯一没对过答案的试卷",
+      "onboard_time": 1748601021,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 60462,
@@ -18787,14 +18875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 53211,
-      "num": 242463,
-      "word": "白鹿跑男宝娟嗓",
-      "onboard_time": 1748600299,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 52964,
       "num": 52964,
       "word": "再次祝贺孙颖莎王楚钦王曼昱蒯曼",
@@ -18905,6 +18985,14 @@
       "onboard_time": 1748230402,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 51523,
+      "num": 131120,
+      "word": "普通人在大厂上班的真实感受",
+      "onboard_time": 1748601140,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51377,
@@ -19537,14 +19625,6 @@
       "onboard_time": 1748560998,
       "rank": 47,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 42995,
-      "num": 158150,
-      "word": "瑞幸咖啡否认降价",
-      "onboard_time": 1748600662,
-      "rank": 26,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 42968,
@@ -21387,7 +21467,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22007,
+      "raw_hot": 22045,
       "num": 591413,
       "word": "9图解锁双节消费攻略",
       "onboard_time": 1748598141,
@@ -22115,6 +22195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 14603,
+      "num": 131817,
+      "word": "堂食店一定比档口店干净吗",
+      "onboard_time": 1748600780,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14569,
       "num": 14923,
       "word": "济州航空",
@@ -22601,14 +22689,6 @@
       "onboard_time": 1748271983,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 10046,
-      "num": 131817,
-      "word": "堂食店一定比档口店干净吗",
-      "onboard_time": 1748600780,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9848,
