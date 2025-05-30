@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748633806298,
+  "endTime": 1748636903694,
   "band_list": [
     {
       "raw_hot": 1065815,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22222,
+      "num": 22222,
+      "word": "荷兰在售一款软糖检出大麻",
+      "onboard_time": 1748634854,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21035,
       "num": 29029,
       "word": "王源唱完就去吃夜宵",
@@ -523,7 +531,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15646,
+      "raw_hot": 17224,
+      "num": 22663,
+      "word": "当地回应瓜农10万斤西瓜烂地里",
+      "onboard_time": 1748633235,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16388,
       "num": 22680,
       "word": "海龟汤",
       "onboard_time": 1748633355,
@@ -539,20 +555,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14699,
-      "num": 22663,
-      "word": "当地回应瓜农10万斤西瓜烂地里",
-      "onboard_time": 1748633235,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13952,
       "num": 115716,
       "word": "如果你考上了复旦",
       "onboard_time": 1748621542,
       "rank": 33,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 12541,
+      "num": 87952,
+      "word": "原来龙舟是这样造出来的",
+      "onboard_time": 1748616804,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12208,
@@ -563,12 +579,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 11556,
-      "num": 87952,
-      "word": "原来龙舟是这样造出来的",
-      "onboard_time": 1748616804,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 9908,
+      "num": 20070,
+      "word": "这里有条两弹一星功勋路",
+      "onboard_time": 1748636715,
+      "rank": 29,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
