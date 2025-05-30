@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748641078718,
+  "endTime": 1748643874970,
   "band_list": [
     {
       "raw_hot": 1065815,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272821,
+      "num": 403651,
+      "word": "男子花20万娶妻女方亲戚是演员",
+      "onboard_time": 1748616924,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263734,
       "num": 123227,
       "word": "马嘉祺被做局了",
@@ -136,14 +144,6 @@
       "word": "宗馥莉正式接班娃哈哈",
       "onboard_time": 1748617224,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222569,
-      "num": 222569,
-      "word": "男子花20万娶妻女方亲戚是演员",
-      "onboard_time": 1748616924,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -179,6 +179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145848,
+      "num": 132299,
+      "word": "河北狗王爆火主人一夜涨粉20万",
+      "onboard_time": 1748616625,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142266,
       "num": 142266,
       "word": "王楚钦回应球拍2次受损",
@@ -193,14 +201,6 @@
       "onboard_time": 1748616444,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132299,
-      "num": 132299,
-      "word": "河北狗王爆火主人一夜涨粉20万",
-      "onboard_time": 1748616625,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126584,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72074,
+      "num": 72074,
+      "word": "端午假期第一天",
+      "onboard_time": 1748617283,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 71330,
       "num": 115527,
       "word": "白举纲淘汰",
@@ -347,20 +355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57878,
-      "num": 70912,
-      "word": "端午假期第一天",
-      "onboard_time": 1748617283,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 55958,
       "num": 115445,
       "word": "王楚钦说自己为了赢可以付出一切",
       "onboard_time": 1748615427,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55883,
+      "num": 55883,
+      "word": "聊城大学龙舟队不愧是北方门面",
+      "onboard_time": 1748639774,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51358,
@@ -416,6 +424,14 @@
       "word": "双节消费市场buff叠满",
       "onboard_time": 1748617344,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40357,
+      "num": 34883,
+      "word": "当地回应瓜农10万斤西瓜烂地里",
+      "onboard_time": 1748633235,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28765,
+      "num": 28765,
+      "word": "主人回应河北狗王外网爆火",
+      "onboard_time": 1748638454,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27681,
       "num": 33194,
       "word": "陈楚生轻描淡写松弛感",
@@ -507,19 +531,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23307,
+      "num": 23307,
+      "word": "李晟19岁至40岁颜值变化",
+      "onboard_time": 1748642775,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22885,
       "num": 33170,
       "word": "专家谈大学生恋爱意愿为何走低",
       "onboard_time": 1748629935,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22478,
-      "num": 22663,
-      "word": "当地回应瓜农10万斤西瓜烂地里",
-      "onboard_time": 1748633235,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -539,8 +563,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17004,
-      "num": 111167,
+      "raw_hot": 17237,
+      "num": 180048,
       "word": "原来龙舟是这样造出来的",
       "onboard_time": 1748616804,
       "rank": 2,
@@ -555,28 +579,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 16242,
-      "num": 18505,
-      "word": "主人回应河北狗王外网爆火",
-      "onboard_time": 1748638454,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14718,
       "num": 25627,
       "word": "魏大勋杨凯之剃头vlog",
       "onboard_time": 1748631975,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14619,
-      "num": 45993,
-      "word": "聊城大学龙舟队不愧是北方门面",
-      "onboard_time": 1748639774,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13952,

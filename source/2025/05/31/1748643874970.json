@@ -1,0 +1,410 @@
+{
+  "runTime": 1748643874970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 272821,
+        "num": 403651,
+        "word": "男子花20万娶妻女方亲戚是演员",
+        "onboard_time": 1748616924,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217095,
+        "num": 217095,
+        "word": "单依纯失误",
+        "onboard_time": 1748615190,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17237,
+        "num": 180048,
+        "word": "原来龙舟是这样造出来的",
+        "onboard_time": 1748616804,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169471,
+        "num": 169471,
+        "word": "中方回应日方请求水产品入华",
+        "onboard_time": 1748618662,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149476,
+        "num": 149476,
+        "word": "耳帝说马嘉祺的表演重点在于人而非歌",
+        "onboard_time": 1748622681,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113586,
+        "num": 113586,
+        "word": "员工迟到48次被辞称每月有3次机会",
+        "onboard_time": 1748615486,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123599,
+        "num": 111326,
+        "word": "祝绪丹秒删",
+        "onboard_time": 1748601081,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106854,
+        "num": 106854,
+        "word": "断眉今天最好笑的其实是",
+        "onboard_time": 1748619503,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87382,
+        "num": 87382,
+        "word": "歌手排名",
+        "onboard_time": 1748614467,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86343,
+        "num": 86343,
+        "word": "清华回应中学生登珠峰能否保送",
+        "onboard_time": 1748603600,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 145848,
+        "num": 85996,
+        "word": "河北狗王爆火主人一夜涨粉20万",
+        "onboard_time": 1748616625,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85504,
+        "num": 85504,
+        "word": "特朗普政府对哈佛又出一拳",
+        "onboard_time": 1748619503,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78371,
+        "num": 78371,
+        "word": "宗馥莉正式接班娃哈哈",
+        "onboard_time": 1748617224,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76490,
+        "num": 76490,
+        "word": "首部双00后古偶要抬上来了",
+        "onboard_time": 1748616444,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72074,
+        "num": 72074,
+        "word": "端午假期第一天",
+        "onboard_time": 1748617283,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 68040,
+        "num": 68040,
+        "word": "藏海传27集封神",
+        "onboard_time": 1748612427,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64586,
+        "num": 64586,
+        "word": "丁程鑫录取通知书",
+        "onboard_time": 1748617883,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55883,
+        "num": 55883,
+        "word": "聊城大学龙舟队不愧是北方门面",
+        "onboard_time": 1748639774,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36941,
+        "num": 36941,
+        "word": "山东郓城一公司多人落入清洗池",
+        "onboard_time": 1748613267,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34933,
+        "num": 34933,
+        "word": "荷兰在售一款软糖检出大麻",
+        "onboard_time": 1748634854,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51570,
+        "num": 34919,
+        "word": "于正找大师算的横店爆剧是藏海传",
+        "onboard_time": 1748616565,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40357,
+        "num": 34883,
+        "word": "当地回应瓜农10万斤西瓜烂地里",
+        "onboard_time": 1748633235,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40141,
+        "num": 34856,
+        "word": "常吃劣质碳水的人衰老更快",
+        "onboard_time": 1748604021,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36717,
+        "num": 34830,
+        "word": "藏海传收视率",
+        "onboard_time": 1748615666,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34806,
+        "num": 34806,
+        "word": "什么样的痣很危险需要切",
+        "onboard_time": 1748619443,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34656,
+        "num": 34656,
+        "word": "台湾青年因为肖战想去重庆",
+        "onboard_time": 1748604980,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33464,
+        "num": 33464,
+        "word": "尊界S800价格",
+        "onboard_time": 1748613805,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33359,
+        "num": 33359,
+        "word": "补位歌手是谁",
+        "onboard_time": 1748617104,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32739,
+        "num": 32739,
+        "word": "歌手直播",
+        "onboard_time": 1748606182,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30412,
+        "num": 30412,
+        "word": "泡泡玛特哭娃",
+        "onboard_time": 1748607083,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 28912,
+        "num": 28912,
+        "word": "耳帝评歌手第3期",
+        "onboard_time": 1748618722,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28765,
+        "num": 28765,
+        "word": "主人回应河北狗王外网爆火",
+        "onboard_time": 1748638454,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28220,
+        "num": 28220,
+        "word": "王楚钦回应球拍2次受损",
+        "onboard_time": 1748611284,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27749,
+        "num": 27749,
+        "word": "断眉上来就唱see you again",
+        "onboard_time": 1748608824,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27662,
+        "num": 27662,
+        "word": "陈楚生提到袁惟仁哭了",
+        "onboard_time": 1748611587,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26046,
+        "num": 26046,
+        "word": "林峯堂妹回应破产传闻",
+        "onboard_time": 1748626696,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25471,
+        "num": 25471,
+        "word": "王楚钦说小心点就不会让人有机可乘",
+        "onboard_time": 1748618123,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23685,
+        "num": 23685,
+        "word": "员工2年迟到48次被开索赔遭驳回",
+        "onboard_time": 1748620281,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23553,
+        "num": 23553,
+        "word": "今天星期五",
+        "onboard_time": 1748620642,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24299,
+        "num": 23477,
+        "word": "陈楚生赛后发文",
+        "onboard_time": 1748620522,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23307,
+        "num": 23307,
+        "word": "李晟19岁至40岁颜值变化",
+        "onboard_time": 1748642775,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22925,
+        "num": 22925,
+        "word": "Attention改编 放水",
+        "onboard_time": 1748613205,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22880,
+        "num": 22880,
+        "word": "马嘉祺被做局了",
+        "onboard_time": 1748612129,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22382,
+        "num": 22382,
+        "word": "专家谈大学生恋爱意愿为何走低",
+        "onboard_time": 1748629935,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22238,
+        "num": 22238,
+        "word": "1960元买2张演唱会票竟是铁窗泪",
+        "onboard_time": 1748606962,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21076,
+        "num": 22238,
+        "word": "奔跑吧替莫离官宣丞磊",
+        "onboard_time": 1748613626,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19650,
+        "num": 22238,
+        "word": "白举纲淘汰",
+        "onboard_time": 1748615190,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19466,
+        "num": 22237,
+        "word": "难听",
+        "onboard_time": 1748611104,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17797,
+        "num": 22237,
+        "word": "肖战雪景哭戏",
+        "onboard_time": 1748627897,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17209,
+        "num": 22236,
+        "word": "GAI 不好听",
+        "onboard_time": 1748609245,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力实现高水平科技自立自强#"
+    }
+  }
+}
