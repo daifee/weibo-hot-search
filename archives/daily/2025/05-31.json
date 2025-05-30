@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748632870422,
+  "endTime": 1748633806298,
   "band_list": [
     {
       "raw_hot": 1065815,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22885,
+      "num": 33170,
+      "word": "专家谈大学生恋爱意愿为何走低",
+      "onboard_time": 1748629935,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21035,
       "num": 29029,
       "word": "王源唱完就去吃夜宵",
@@ -507,12 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20258,
-      "num": 33170,
-      "word": "专家谈大学生恋爱意愿为何走低",
-      "onboard_time": 1748629935,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 20911,
+      "num": 22752,
+      "word": "黄子弘凡高音悲伤感扑面而来",
+      "onboard_time": 1748633416,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15646,
+      "num": 22680,
+      "word": "海龟汤",
+      "onboard_time": 1748633355,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14718,
@@ -521,6 +537,14 @@
       "onboard_time": 1748631975,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14699,
+      "num": 22663,
+      "word": "当地回应瓜农10万斤西瓜烂地里",
+      "onboard_time": 1748633235,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13952,
@@ -539,7 +563,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 9498,
+      "raw_hot": 11556,
       "num": 87952,
       "word": "原来龙舟是这样造出来的",
       "onboard_time": 1748616804,
