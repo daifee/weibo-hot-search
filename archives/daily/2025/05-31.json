@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748626875311,
+  "endTime": 1748630107706,
   "band_list": [
     {
       "raw_hot": 1065815,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 660785,
-      "num": 241488,
+      "num": 253310,
       "word": "祝绪丹秒删",
       "onboard_time": 1748601081,
       "rank": 7,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36028,
+      "num": 36028,
+      "word": "她只是个副人格但设定是爱你",
+      "onboard_time": 1748627236,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35449,
       "num": 70804,
       "word": "天赐的声音",
@@ -451,7 +459,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 30356,
+      "raw_hot": 33207,
       "num": 51987,
       "word": "林峯堂妹回应破产传闻",
       "onboard_time": 1748626696,
@@ -459,11 +467,35 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23800,
+      "raw_hot": 27681,
+      "num": 33194,
+      "word": "陈楚生轻描淡写松弛感",
+      "onboard_time": 1748628975,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24735,
+      "num": 33188,
+      "word": "肖战雪景哭戏",
+      "onboard_time": 1748627897,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23884,
       "num": 51694,
       "word": "一人一牛用200万块石头徒手修港",
       "onboard_time": 1748626397,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15745,
+      "num": 33170,
+      "word": "专家谈大学生恋爱意愿为何走低",
+      "onboard_time": 1748629935,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -473,6 +505,14 @@
       "onboard_time": 1748621542,
       "rank": 33,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 9390,
+      "num": 37742,
+      "word": "当你大学学了地理科学",
+      "onboard_time": 1748629755,
+      "rank": 24,
+      "category": "教育"
     }
   ],
   "hotgov_list": [

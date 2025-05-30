@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748626875311,
+  "endTime": 1748630107706,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -21315,6 +21315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36028,
+      "num": 36028,
+      "word": "她只是个副人格但设定是爱你",
+      "onboard_time": 1748627236,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35933,
       "num": 35933,
       "word": "易烊千玺提问狂野时代影迷",
@@ -21571,6 +21579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 33207,
+      "num": 51987,
+      "word": "林峯堂妹回应破产传闻",
+      "onboard_time": 1748626696,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32967,
       "num": 160955,
       "word": "为什么不同恋爱时期食欲也有所不同",
@@ -21809,14 +21825,6 @@
       "onboard_time": 1748490021,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 30356,
-      "num": 51987,
-      "word": "林峯堂妹回应破产传闻",
-      "onboard_time": 1748626696,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 30313,
@@ -22129,6 +22137,14 @@
       "onboard_time": 1748202494,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27681,
+      "num": 33194,
+      "word": "陈楚生轻描淡写松弛感",
+      "onboard_time": 1748628975,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 27675,
@@ -22451,6 +22467,14 @@
       "category": "休闲,数码"
     },
     {
+      "raw_hot": 24735,
+      "num": 33188,
+      "word": "肖战雪景哭戏",
+      "onboard_time": 1748627897,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24604,
       "num": 251692,
       "word": "养孩子都有哪些误区",
@@ -22531,20 +22555,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 23884,
+      "num": 51694,
+      "word": "一人一牛用200万块石头徒手修港",
+      "onboard_time": 1748626397,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23801,
       "num": 336284,
       "word": "益生菌对人体有哪些作用",
       "onboard_time": 1748406984,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 23800,
-      "num": 51694,
-      "word": "一人一牛用200万块石头徒手修港",
-      "onboard_time": 1748626397,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23794,
@@ -23323,6 +23347,14 @@
       "category": "议题讨论,民生新闻"
     },
     {
+      "raw_hot": 15745,
+      "num": 33170,
+      "word": "专家谈大学生恋爱意愿为何走低",
+      "onboard_time": 1748629935,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15734,
       "num": 267488,
       "word": "高考数学必会基础公式汇总",
@@ -24041,6 +24073,14 @@
       "onboard_time": 1748115255,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9390,
+      "num": 37742,
+      "word": "当你大学学了地理科学",
+      "onboard_time": 1748629755,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 9347,
