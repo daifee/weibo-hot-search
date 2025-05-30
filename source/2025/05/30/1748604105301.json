@@ -1,0 +1,410 @@
+{
+  "runTime": 1748604105301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1122906,
+        "num": 1179665,
+        "word": "马嘉祺大战断眉",
+        "onboard_time": 1748600780,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638472,
+        "num": 638472,
+        "word": "男子离珠峰顶仅400米折返救陌生人",
+        "onboard_time": 1748591901,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21198,
+        "num": 395645,
+        "word": "9图解锁双节消费攻略",
+        "onboard_time": 1748598141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393886,
+        "num": 393886,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 3,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 330428,
+        "num": 330428,
+        "word": "中国学生在哈佛毕业典礼发表演讲",
+        "onboard_time": 1748594480,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 651604,
+        "num": 329073,
+        "word": "断眉投票 马嘉祺",
+        "onboard_time": 1748587881,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470691,
+        "num": 317071,
+        "word": "赵丽颖9分钟无台词演技",
+        "onboard_time": 1748600421,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290927,
+        "num": 290927,
+        "word": "官方回应张家界一溶洞被堆满垃圾",
+        "onboard_time": 1748597301,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 283683,
+        "num": 283683,
+        "word": "粽子",
+        "onboard_time": 1748603241,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197120,
+        "num": 197120,
+        "word": "现偶四大天花板",
+        "onboard_time": 1748589021,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2223337,
+        "num": 190116,
+        "word": "祝绪丹秒删",
+        "onboard_time": 1748601081,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372508,
+        "num": 186087,
+        "word": "唯一一个资本控制不了的运动",
+        "onboard_time": 1748589860,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 34223,
+        "num": 176467,
+        "word": "用放大镜的方式打开藏海传",
+        "onboard_time": 1748603541,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170243,
+        "num": 170243,
+        "word": "皇马官宣签下阿诺德",
+        "onboard_time": 1748603360,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167582,
+        "num": 167582,
+        "word": "商家为防六一退货潮出奇招",
+        "onboard_time": 1748591901,
+        "rank": 14,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 154287,
+        "num": 167463,
+        "word": "刘宇宁直播",
+        "onboard_time": 1748601320,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146602,
+        "num": 167222,
+        "word": "天猫12168元红包现在发用到爽",
+        "onboard_time": 1748603181,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44016,
+        "num": 167049,
+        "word": "蚊子叮人挑血型吗",
+        "onboard_time": 1748601681,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 88261,
+        "num": 166847,
+        "word": "瑞幸咖啡否认降价",
+        "onboard_time": 1748600662,
+        "rank": 18,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 79600,
+        "num": 166817,
+        "word": "清华回应中学生登珠峰能否保送",
+        "onboard_time": 1748603600,
+        "rank": 19,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 141903,
+        "num": 166459,
+        "word": "肖战腹肌不对称了",
+        "onboard_time": 1748590642,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139703,
+        "num": 166393,
+        "word": "热恋9集定律",
+        "onboard_time": 1748602821,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137121,
+        "num": 166158,
+        "word": "日本取名新规限制谐音梗",
+        "onboard_time": 1748602400,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120477,
+        "num": 166040,
+        "word": "京东618大额券",
+        "onboard_time": 1748603181,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131427,
+        "num": 165740,
+        "word": "种地吧直播",
+        "onboard_time": 1748590160,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49099,
+        "num": 165544,
+        "word": "比亚迪李云飞回应近期传闻",
+        "onboard_time": 1748600121,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 39653,
+        "num": 165498,
+        "word": "猪脚饭一定要蹲着吃才香吗",
+        "onboard_time": 1748603780,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 37632,
+        "num": 165235,
+        "word": "父亲回应带4岁女儿街头表演杂技",
+        "onboard_time": 1748603420,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12435,
+        "num": 165015,
+        "word": "3个高考夺分技巧",
+        "onboard_time": 1748602940,
+        "rank": 28,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 27641,
+        "num": 164869,
+        "word": "日本和牛汉堡为什么这么受欢迎",
+        "onboard_time": 1748602341,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 868487,
+        "num": 164619,
+        "word": "祝绪丹连续秒删",
+        "onboard_time": 1748600900,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69956,
+        "num": 164420,
+        "word": "618拼好价囤健康",
+        "onboard_time": 1748603181,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164363,
+        "num": 164363,
+        "word": "光与夜之恋到明天去",
+        "onboard_time": 1748603480,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159271,
+        "num": 159271,
+        "word": "郑钦文重返法网16强",
+        "onboard_time": 1748603121,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142074,
+        "num": 142074,
+        "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
+        "onboard_time": 1748589501,
+        "rank": 34,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 53264,
+        "num": 136807,
+        "word": "网络中国节",
+        "onboard_time": 1748596340,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133700,
+        "num": 133700,
+        "word": "T1爆冷不敌NS",
+        "onboard_time": 1748603480,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130549,
+        "num": 130549,
+        "word": "歌手2025投票",
+        "onboard_time": 1748603420,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125100,
+        "num": 125100,
+        "word": "为什么旅游越来越没意思了",
+        "onboard_time": 1748603480,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 119705,
+        "num": 119705,
+        "word": "高考卷是我唯一没对过答案的试卷",
+        "onboard_time": 1748601021,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96567,
+        "num": 117513,
+        "word": "真正的618在天猫不用等直接买",
+        "onboard_time": 1748599941,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117117,
+        "num": 117117,
+        "word": "瑞幸咖啡降价",
+        "onboard_time": 1748579481,
+        "rank": 41,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 116628,
+        "num": 116628,
+        "word": "恋与深空",
+        "onboard_time": 1748603181,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114358,
+        "num": 114358,
+        "word": "郑钦文1比0姆博科",
+        "onboard_time": 1748600121,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48685,
+        "num": 108945,
+        "word": "招募超3万名高校毕业生到基层到西部",
+        "onboard_time": 1748595440,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108672,
+        "num": 108672,
+        "word": "常吃劣质碳水的人衰老更快",
+        "onboard_time": 1748604021,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107820,
+        "num": 107820,
+        "word": "林夏薇申请破产",
+        "onboard_time": 1748596160,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107761,
+        "num": 107761,
+        "word": "19岁李嫣高中毕业",
+        "onboard_time": 1748597661,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107587,
+        "num": 107587,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107252,
+        "num": 107252,
+        "word": "印尼向法国采购42架阵风战斗机",
+        "onboard_time": 1748597061,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技工作者大有作为#"
+    }
+  }
+}
