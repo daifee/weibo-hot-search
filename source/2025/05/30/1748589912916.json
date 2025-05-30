@@ -1,0 +1,410 @@
+{
+  "runTime": 1748589912916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1529801,
+        "num": 1529801,
+        "word": "断眉投票 马嘉祺",
+        "onboard_time": 1748587881,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 858482,
+        "num": 858482,
+        "word": "瑞幸咖啡降价",
+        "onboard_time": 1748579481,
+        "rank": 1,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 42268,
+        "num": 595312,
+        "word": "今天致敬国之脊梁",
+        "onboard_time": 1748586260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422739,
+        "num": 422739,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 3,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 400501,
+        "num": 400501,
+        "word": "银川烧烤店31死爆炸案宣判",
+        "onboard_time": 1748573841,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 743218,
+        "num": 398846,
+        "word": "断眉袭榜",
+        "onboard_time": 1748574860,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521316,
+        "num": 398771,
+        "word": "en露脸",
+        "onboard_time": 1748586080,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394683,
+        "num": 394683,
+        "word": "花生壳里塞冰淇淋卖28一个",
+        "onboard_time": 1748582781,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327044,
+        "num": 327044,
+        "word": "社保交满最低缴费年限停止就亏大了",
+        "onboard_time": 1748578461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82971,
+        "num": 316720,
+        "word": "这届高考生有我追剧老熟人",
+        "onboard_time": 1748588001,
+        "rank": 9,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 962148,
+        "num": 308211,
+        "word": "女婴手术6分钟无作为致瘫",
+        "onboard_time": 1748586501,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 675862,
+        "num": 301435,
+        "word": "婚内强奸案当事人申请国家赔偿33万",
+        "onboard_time": 1748580862,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583878,
+        "num": 290420,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284429,
+        "num": 284429,
+        "word": "洪晃在追折腰",
+        "onboard_time": 1748586380,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35869,
+        "num": 284107,
+        "word": "福建晋江为何盛产中式霸总",
+        "onboard_time": 1748588600,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363415,
+        "num": 282835,
+        "word": "周华健儿子结婚",
+        "onboard_time": 1748589080,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57577,
+        "num": 282059,
+        "word": "被中国人起名的智慧惊艳了",
+        "onboard_time": 1748588780,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189860,
+        "num": 281256,
+        "word": "陈德容教李晟跳个大概",
+        "onboard_time": 1748587039,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39004,
+        "num": 280658,
+        "word": "父亲把房子送给孩子后还能要回吗",
+        "onboard_time": 1748589021,
+        "rank": 18,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 147577,
+        "num": 279875,
+        "word": "labubu丑娃爆火是什么审美趋势",
+        "onboard_time": 1748587881,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 294756,
+        "num": 279261,
+        "word": "外媒嘲讽印度靠PPT打赢战争",
+        "onboard_time": 1748586560,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 394505,
+        "num": 278190,
+        "word": "这居然是吴昕",
+        "onboard_time": 1748588900,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277919,
+        "num": 277919,
+        "word": "Newjeans临时处分结果",
+        "onboard_time": 1748585420,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276949,
+        "num": 276949,
+        "word": "李嘉琦自曝曾因被骂太丑蹲寝室大哭",
+        "onboard_time": 1748580862,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250547,
+        "num": 250547,
+        "word": "歌手投票截止前1小时隐藏票数",
+        "onboard_time": 1748586021,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238293,
+        "num": 238293,
+        "word": "美对我国产大飞机下手",
+        "onboard_time": 1748586200,
+        "rank": 25,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 63484,
+        "num": 237429,
+        "word": "京东618推出明星惊喜券",
+        "onboard_time": 1748588900,
+        "rank": 26,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 14691,
+        "num": 236106,
+        "word": "为什么韩国的生育率开始上升",
+        "onboard_time": 1748589501,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11797,
+        "num": 235410,
+        "word": "张家界溶洞倾倒垃圾或涉刑事犯罪",
+        "onboard_time": 1748589441,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20221,
+        "num": 233408,
+        "word": "换城市生活能让人放下过去的痛苦吗",
+        "onboard_time": 1748588840,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233042,
+        "num": 233042,
+        "word": "丁程鑫毕业",
+        "onboard_time": 1748576001,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229906,
+        "num": 229906,
+        "word": "张真源毕业",
+        "onboard_time": 1748582301,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216838,
+        "num": 216838,
+        "word": "雨果晒与王楚钦梁靖崑莫雷高德合照",
+        "onboard_time": 1748586801,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211163,
+        "num": 211163,
+        "word": "李晟浪姐枯叶蝶舞台",
+        "onboard_time": 1748586080,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202683,
+        "num": 202683,
+        "word": "现偶四大天花板",
+        "onboard_time": 1748589021,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184134,
+        "num": 184134,
+        "word": "能接受自己孩子不结婚吗",
+        "onboard_time": 1748577022,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152662,
+        "num": 152662,
+        "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
+        "onboard_time": 1748589501,
+        "rank": 36,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 51328,
+        "num": 147303,
+        "word": "雨果发文总结世乒赛",
+        "onboard_time": 1748584040,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121230,
+        "num": 146719,
+        "word": "我家乡的端午",
+        "onboard_time": 1748587942,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146562,
+        "num": 146562,
+        "word": "工人弄错门牌号女子新房被拆光",
+        "onboard_time": 1748589201,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144432,
+        "num": 144432,
+        "word": "唯一一个资本控制不了的运动",
+        "onboard_time": 1748589860,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 142377,
+        "num": 142377,
+        "word": "银川烧烤店爆炸致31死案15人获刑",
+        "onboard_time": 1748574020,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137948,
+        "num": 137948,
+        "word": "曝披荆斩棘5阵容",
+        "onboard_time": 1748577501,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137788,
+        "num": 137788,
+        "word": "沈月中餐厅ootd",
+        "onboard_time": 1748570239,
+        "rank": 43,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 136131,
+        "num": 136131,
+        "word": "肖战我希望你还是客气一点",
+        "onboard_time": 1748588362,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134039,
+        "num": 134039,
+        "word": "银行员工完不成消费贷任务一周扣三百",
+        "onboard_time": 1748584521,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119299,
+        "num": 119299,
+        "word": "歌手投票",
+        "onboard_time": 1748580682,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117910,
+        "num": 117910,
+        "word": "唇语专家解读马克龙与妻子吵了什么",
+        "onboard_time": 1748575762,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116808,
+        "num": 116808,
+        "word": "专八成绩",
+        "onboard_time": 1748589621,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114382,
+        "num": 114382,
+        "word": "曝iPhone17Pro为拼接设计",
+        "onboard_time": 1748589860,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样勉励广大科技工作者#"
+    }
+  }
+}

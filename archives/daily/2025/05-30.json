@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748587819221,
+  "endTime": 1748589912916,
   "band_list": [
     {
       "raw_hot": 2610467,
@@ -33,6 +33,14 @@
       "onboard_time": 1748573841,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1529801,
+      "num": 1529801,
+      "word": "断眉投票 马嘉祺",
+      "onboard_time": 1748587881,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1524710,
@@ -97,6 +105,14 @@
       "onboard_time": 1748531303,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 962148,
+      "num": 343997,
+      "word": "女婴手术6分钟无作为致瘫",
+      "onboard_time": 1748586501,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 949798,
@@ -203,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 521316,
+      "num": 398771,
+      "word": "en露脸",
+      "onboard_time": 1748586080,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503950,
       "num": 503950,
       "word": "曝披荆斩棘5阵容",
@@ -291,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394505,
+      "num": 278190,
+      "word": "这居然是吴昕",
+      "onboard_time": 1748588900,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387891,
       "num": 387891,
       "word": "身价百亿毛巾少爷转行卖咖啡",
@@ -323,12 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360879,
-      "num": 370893,
-      "word": "en露脸",
-      "onboard_time": 1748586080,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 363415,
+      "num": 282835,
+      "word": "周华健儿子结婚",
+      "onboard_time": 1748589080,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 355454,
@@ -337,14 +369,6 @@
       "onboard_time": 1748522061,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343997,
-      "num": 343997,
-      "word": "女婴手术6分钟无作为致瘫",
-      "onboard_time": 1748586501,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 342529,
@@ -403,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294756,
+      "num": 319159,
+      "word": "外媒嘲讽印度靠PPT打赢战争",
+      "onboard_time": 1748586560,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 293632,
       "num": 290637,
       "word": "11点后睡觉浪费了人体的褪黑素",
@@ -425,6 +457,14 @@
       "onboard_time": 1748563820,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284429,
+      "num": 284429,
+      "word": "洪晃在追折腰",
+      "onboard_time": 1748586380,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 281440,
@@ -563,12 +603,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 240166,
-      "num": 240166,
-      "word": "洪晃在追折腰",
-      "onboard_time": 1748586380,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 238293,
+      "num": 238293,
+      "word": "美对我国产大飞机下手",
+      "onboard_time": 1748586200,
+      "rank": 45,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 237969,
@@ -651,8 +691,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215381,
-      "num": 215381,
+      "raw_hot": 216838,
+      "num": 216838,
       "word": "雨果晒与王楚钦梁靖崑莫雷高德合照",
       "onboard_time": 1748586801,
       "rank": 47,
@@ -705,6 +745,14 @@
       "onboard_time": 1748586380,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 202683,
+      "num": 202683,
+      "word": "现偶四大天花板",
+      "onboard_time": 1748589021,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202446,
@@ -801,6 +849,14 @@
       "onboard_time": 1748578644,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 189860,
+      "num": 281256,
+      "word": "陈德容教李晟跳个大概",
+      "onboard_time": 1748587039,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 189305,
@@ -1003,14 +1059,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 165033,
-      "num": 165033,
-      "word": "陈德容教李晟跳个大概",
-      "onboard_time": 1748587039,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163757,
       "num": 163757,
       "word": "哈三联涨停",
@@ -1083,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155093,
-      "num": 155093,
-      "word": "美对我国产大飞机下手",
-      "onboard_time": 1748586200,
-      "rank": 45,
-      "category": "国际时政,财经"
-    },
-    {
       "raw_hot": 155038,
       "num": 155038,
       "word": "孙颖莎长话短说长话再短说",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1748565622,
       "rank": 22,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 152662,
+      "num": 152662,
+      "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
+      "onboard_time": 1748589501,
+      "rank": 36,
+      "category": "国际时政,教育"
     },
     {
       "raw_hot": 152568,
@@ -1179,6 +1227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147577,
+      "num": 279875,
+      "word": "labubu丑娃爆火是什么审美趋势",
+      "onboard_time": 1748587881,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 146562,
+      "num": 146562,
+      "word": "工人弄错门牌号女子新房被拆光",
+      "onboard_time": 1748589201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146506,
       "num": 153318,
       "word": "藏海手刃庄芦隐",
@@ -1203,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144432,
+      "num": 144432,
+      "word": "唯一一个资本控制不了的运动",
+      "onboard_time": 1748589860,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 140750,
       "num": 433800,
       "word": "银川烧烤店爆炸事故3人提供虚假证明",
@@ -1219,14 +1291,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 137674,
-      "num": 319159,
-      "word": "外媒嘲讽印度靠PPT打赢战争",
-      "onboard_time": 1748586560,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 136374,
       "num": 136374,
       "word": "断眉歌手唱SeeYouAgain",
@@ -1240,6 +1304,14 @@
       "word": "肖战要为入狱的侯爷一大哭",
       "onboard_time": 1748532622,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136131,
+      "num": 136131,
+      "word": "肖战我希望你还是客气一点",
+      "onboard_time": 1748588362,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1315,6 +1387,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 121230,
+      "num": 146719,
+      "word": "我家乡的端午",
+      "onboard_time": 1748587942,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116808,
+      "num": 116808,
+      "word": "专八成绩",
+      "onboard_time": 1748589621,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 115411,
       "num": 152208,
       "word": "90后小伙拍下800斤荔枝发声",
@@ -1329,6 +1417,14 @@
       "onboard_time": 1748531123,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114382,
+      "num": 114382,
+      "word": "曝iPhone17Pro为拼接设计",
+      "onboard_time": 1748589860,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 114041,
@@ -1571,6 +1667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82971,
+      "num": 316720,
+      "word": "这届高考生有我追剧老熟人",
+      "onboard_time": 1748588001,
+      "rank": 9,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 82293,
       "num": 82293,
       "word": "TMA澳门",
@@ -1771,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63484,
+      "num": 237429,
+      "word": "京东618推出明星惊喜券",
+      "onboard_time": 1748588900,
+      "rank": 26,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 60836,
       "num": 243684,
       "word": "我相信这回真的没剧本",
@@ -1801,6 +1913,14 @@
       "onboard_time": 1748540236,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 57577,
+      "num": 282059,
+      "word": "被中国人起名的智慧惊艳了",
+      "onboard_time": 1748588780,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57175,
@@ -1841,6 +1961,14 @@
       "onboard_time": 1748583621,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51328,
+      "num": 147303,
+      "word": "雨果发文总结世乒赛",
+      "onboard_time": 1748584040,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 50862,
@@ -1995,12 +2123,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39004,
+      "num": 280658,
+      "word": "父亲把房子送给孩子后还能要回吗",
+      "onboard_time": 1748589021,
+      "rank": 18,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 38749,
       "num": 277145,
       "word": "在家靠父母购物靠补贴",
       "onboard_time": 1748581641,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 35869,
+      "num": 284107,
+      "word": "福建晋江为何盛产中式霸总",
+      "onboard_time": 1748588600,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35500,
@@ -2171,6 +2315,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 20221,
+      "num": 233408,
+      "word": "换城市生活能让人放下过去的痛苦吗",
+      "onboard_time": 1748588840,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19680,
       "num": 21295,
       "word": "迪丽热巴精准命中你的心",
@@ -2219,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14691,
+      "num": 236106,
+      "word": "为什么韩国的生育率开始上升",
+      "onboard_time": 1748589501,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 14569,
       "num": 14923,
       "word": "济州航空",
@@ -2257,6 +2417,14 @@
       "onboard_time": 1748547375,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11797,
+      "num": 235410,
+      "word": "张家界溶洞倾倒垃圾或涉刑事犯罪",
+      "onboard_time": 1748589441,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11581,
