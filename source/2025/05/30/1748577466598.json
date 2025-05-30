@@ -1,0 +1,410 @@
+{
+  "runTime": 1748577466598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2175514,
+        "num": 2175514,
+        "word": "断眉袭榜",
+        "onboard_time": 1748574860,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1792354,
+        "num": 1792354,
+        "word": "银川烧烤店31死爆炸案宣判",
+        "onboard_time": 1748573841,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 27126,
+        "num": 1383534,
+        "word": "世界市长对话上海",
+        "onboard_time": 1748525422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1096127,
+        "num": 1096127,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 3,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 1041075,
+        "num": 1041075,
+        "word": "银川烧烤店爆炸致31死案15人获刑",
+        "onboard_time": 1748574020,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 929697,
+        "num": 929697,
+        "word": "丁程鑫毕业",
+        "onboard_time": 1748576001,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570807,
+        "num": 570807,
+        "word": "胖东来红内裤事件案宣判",
+        "onboard_time": 1748565920,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447329,
+        "num": 447329,
+        "word": "美国政府朝令夕改让全世界目瞪口呆",
+        "onboard_time": 1748569280,
+        "rank": 7,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 434430,
+        "num": 434430,
+        "word": "段某被判赔偿胖东来40万元",
+        "onboard_time": 1748573301,
+        "rank": 8,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 429275,
+        "num": 429275,
+        "word": "白鹿领衔主演莫离",
+        "onboard_time": 1748571501,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1307917,
+        "num": 424384,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413360,
+        "num": 413360,
+        "word": "刘宇宁唱时间之子情感曲",
+        "onboard_time": 1748573060,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408883,
+        "num": 408883,
+        "word": "藏海传 横店大雪",
+        "onboard_time": 1748574381,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387891,
+        "num": 387891,
+        "word": "身价百亿毛巾少爷转行卖咖啡",
+        "onboard_time": 1748575401,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320070,
+        "num": 362326,
+        "word": "唇语专家解读马克龙与妻子吵了什么",
+        "onboard_time": 1748575762,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354520,
+        "num": 354520,
+        "word": "中方回应印度得到一枚未爆炸中国导弹",
+        "onboard_time": 1748564482,
+        "rank": 15,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 302195,
+        "num": 302195,
+        "word": "明日方舟",
+        "onboard_time": 1748575702,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275313,
+        "num": 275313,
+        "word": "小伙拍下800斤杨贵妃同款荔枝",
+        "onboard_time": 1748570060,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41880,
+        "num": 273693,
+        "word": "老人骑电动车捎人遇车祸后被判赔14万",
+        "onboard_time": 1748576781,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29199,
+        "num": 272805,
+        "word": "职场人过劳肥怎么调节",
+        "onboard_time": 1748575880,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235810,
+        "num": 268989,
+        "word": "没见过班味这么重的综艺",
+        "onboard_time": 1748575940,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221991,
+        "num": 268271,
+        "word": "丁程鑫北电毕业合照",
+        "onboard_time": 1748576901,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266697,
+        "num": 266697,
+        "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
+        "onboard_time": 1748575519,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250032,
+        "num": 250032,
+        "word": "关税",
+        "onboard_time": 1748565622,
+        "rank": 23,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 247390,
+        "num": 247390,
+        "word": "王楚钦 蜜丝婷",
+        "onboard_time": 1748575341,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220647,
+        "num": 220647,
+        "word": "肖战左腹",
+        "onboard_time": 1748576961,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150741,
+        "num": 218483,
+        "word": "国际乒联将展开调查",
+        "onboard_time": 1748574499,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9042,
+        "num": 216709,
+        "word": "天问二号在线找聊天搭子",
+        "onboard_time": 1748577321,
+        "rank": 27,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 99749,
+        "num": 213006,
+        "word": "美国留学梦变噩梦",
+        "onboard_time": 1748573120,
+        "rank": 28,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 43788,
+        "num": 210192,
+        "word": "月薪不高如何做到无痛存钱",
+        "onboard_time": 1748576781,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208541,
+        "num": 208541,
+        "word": "荣梓杉报平安",
+        "onboard_time": 1748570060,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196299,
+        "num": 206137,
+        "word": "断眉会唱两首歌",
+        "onboard_time": 1748576541,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204672,
+        "num": 204672,
+        "word": "如果微信出了已读功能",
+        "onboard_time": 1748562199,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198259,
+        "num": 198259,
+        "word": "临江仙",
+        "onboard_time": 1748572820,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423789,
+        "num": 195179,
+        "word": "安倍晋三遗孀见普京哽咽落泪",
+        "onboard_time": 1748576420,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203437,
+        "num": 193551,
+        "word": "仙逆",
+        "onboard_time": 1748576901,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190842,
+        "num": 190842,
+        "word": "男子翻女友手机才发现小丑竟是自己",
+        "onboard_time": 1748562740,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184479,
+        "num": 184479,
+        "word": "莫离男主",
+        "onboard_time": 1748577200,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183910,
+        "num": 183910,
+        "word": "沈月中餐厅ootd",
+        "onboard_time": 1748570239,
+        "rank": 38,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 25427,
+        "num": 183593,
+        "word": "矿泉水被带到高原后大变样",
+        "onboard_time": 1748576661,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99915,
+        "num": 183212,
+        "word": "美国法院与特朗普比变脸",
+        "onboard_time": 1748575401,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1972,
+        "num": 182892,
+        "word": "再也不用担心快乐到模糊了",
+        "onboard_time": 1748575461,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34076,
+        "num": 182537,
+        "word": "58岁梁实发文称将参加第29次高考",
+        "onboard_time": 1748577441,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 182230,
+        "num": 182230,
+        "word": "藏海点灯",
+        "onboard_time": 1748576120,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178532,
+        "num": 178532,
+        "word": "公司发的端午礼盒",
+        "onboard_time": 1748571439,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163757,
+        "num": 163757,
+        "word": "哈三联涨停",
+        "onboard_time": 1748577140,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154861,
+        "num": 154861,
+        "word": "肖战绷不住了",
+        "onboard_time": 1748570780,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152568,
+        "num": 152568,
+        "word": "奔跑吧直播",
+        "onboard_time": 1748576480,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152292,
+        "num": 152292,
+        "word": "11点后睡觉浪费了人体的褪黑素",
+        "onboard_time": 1748568020,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151250,
+        "num": 151250,
+        "word": "林峯回应徐子珊行踪",
+        "onboard_time": 1748574381,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励科技工作者的暖心瞬间#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748575888036,
+  "endTime": 1748577466598,
   "band_list": [
     {
       "raw_hot": 2569870,
@@ -27,8 +27,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1792354,
+      "num": 1792354,
+      "word": "银川烧烤店31死爆炸案宣判",
+      "onboard_time": 1748573841,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1435106,
-      "num": 977874,
+      "num": 1096127,
       "word": "工资5000三年无痛存下12万",
       "onboard_time": 1748572279,
       "rank": 3,
@@ -89,6 +97,14 @@
       "onboard_time": 1748565920,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 929697,
+      "num": 929697,
+      "word": "丁程鑫毕业",
+      "onboard_time": 1748576001,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 702882,
@@ -171,12 +187,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 392293,
+      "raw_hot": 423789,
+      "num": 195179,
+      "word": "安倍晋三遗孀见普京哽咽落泪",
+      "onboard_time": 1748576420,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 413360,
       "num": 433696,
       "word": "刘宇宁唱时间之子情感曲",
       "onboard_time": 1748573060,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 408883,
+      "num": 408883,
+      "word": "藏海传 横店大雪",
+      "onboard_time": 1748574381,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 387891,
+      "num": 387891,
+      "word": "身价百亿毛巾少爷转行卖咖啡",
+      "onboard_time": 1748575401,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 379439,
@@ -203,28 +243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341571,
-      "num": 341571,
-      "word": "藏海传 横店大雪",
-      "onboard_time": 1748574381,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 340594,
       "num": 340594,
       "word": "临江仙",
       "onboard_time": 1748572820,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 336354,
-      "num": 421605,
-      "word": "银川烧烤店31死爆炸案宣判",
-      "onboard_time": 1748573841,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 336257,
@@ -235,12 +259,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320070,
+      "num": 362326,
+      "word": "唇语专家解读马克龙与妻子吵了什么",
+      "onboard_time": 1748575762,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 319809,
       "num": 319809,
       "word": "沈月中餐厅ootd",
       "onboard_time": 1748570239,
       "rank": 8,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 302195,
+      "num": 302195,
+      "word": "明日方舟",
+      "onboard_time": 1748575702,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 296573,
@@ -283,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266697,
+      "num": 266697,
+      "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
+      "onboard_time": 1748575519,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261909,
       "num": 285789,
       "word": "庄之行背叛藏海",
@@ -297,6 +345,14 @@
       "onboard_time": 1748570780,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247390,
+      "num": 247390,
+      "word": "王楚钦 蜜丝婷",
+      "onboard_time": 1748575341,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 247291,
@@ -339,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235810,
+      "num": 268989,
+      "word": "没见过班味这么重的综艺",
+      "onboard_time": 1748575940,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234520,
       "num": 234520,
       "word": "被院士当年的硕士毕业论文惊艳到",
@@ -369,6 +433,22 @@
       "onboard_time": 1748574020,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221991,
+      "num": 268271,
+      "word": "丁程鑫北电毕业合照",
+      "onboard_time": 1748576901,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220647,
+      "num": 220647,
+      "word": "肖战左腹",
+      "onboard_time": 1748576961,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219338,
@@ -403,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203437,
+      "num": 193551,
+      "word": "仙逆",
+      "onboard_time": 1748576901,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 202446,
       "num": 202446,
       "word": "莫离原著盛世嫡妃",
@@ -427,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195472,
-      "num": 195472,
-      "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
-      "onboard_time": 1748575519,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 196299,
+      "num": 206137,
+      "word": "断眉会唱两首歌",
+      "onboard_time": 1748576541,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 194560,
@@ -443,19 +531,19 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 191290,
-      "num": 278757,
-      "word": "身价百亿毛巾少爷转行卖咖啡",
-      "onboard_time": 1748575401,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188509,
       "num": 188509,
       "word": "陈慧珊演林保怡第九人格的含金量",
       "onboard_time": 1748574621,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184479,
+      "num": 184479,
+      "word": "莫离男主",
+      "onboard_time": 1748577200,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -465,6 +553,14 @@
       "onboard_time": 1748568980,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182230,
+      "num": 182230,
+      "word": "藏海点灯",
+      "onboard_time": 1748576120,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 177063,
@@ -499,14 +595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173687,
-      "num": 173687,
-      "word": "王楚钦 蜜丝婷",
-      "onboard_time": 1748575341,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173620,
       "num": 173620,
       "word": "咸鱼飞升",
@@ -521,14 +609,6 @@
       "onboard_time": 1748575100,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172212,
-      "num": 172212,
-      "word": "明日方舟",
-      "onboard_time": 1748575702,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 170060,
@@ -560,6 +640,14 @@
       "word": "A股",
       "onboard_time": 1748571740,
       "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 163757,
+      "num": 163757,
+      "word": "哈三联涨停",
+      "onboard_time": 1748577140,
+      "rank": 45,
       "category": "财经"
     },
     {
@@ -617,6 +705,14 @@
       "onboard_time": 1748565622,
       "rank": 22,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 152568,
+      "num": 152568,
+      "word": "奔跑吧直播",
+      "onboard_time": 1748576480,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 152094,
@@ -785,6 +881,14 @@
       "onboard_time": 1748568560,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 99915,
+      "num": 350097,
+      "word": "美国法院与特朗普比变脸",
+      "onboard_time": 1748575401,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99702,
@@ -1188,11 +1292,19 @@
     },
     {
       "raw_hot": 44340,
-      "num": 987784,
+      "num": 1383534,
       "word": "世界市长对话上海",
       "onboard_time": 1748525422,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43788,
+      "num": 210192,
+      "word": "月薪不高如何做到无痛存钱",
+      "onboard_time": 1748576781,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 43016,
@@ -1201,6 +1313,14 @@
       "onboard_time": 1748560998,
       "rank": 47,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 41880,
+      "num": 273693,
+      "word": "老人骑电动车捎人遇车祸后被判赔14万",
+      "onboard_time": 1748576781,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41332,
@@ -1243,12 +1363,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 34139,
-      "num": 350097,
-      "word": "美国法院与特朗普比变脸",
-      "onboard_time": 1748575401,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 34076,
+      "num": 182537,
+      "word": "58岁梁实发文称将参加第29次高考",
+      "onboard_time": 1748577441,
+      "rank": 42,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 33956,
@@ -1273,6 +1393,14 @@
       "onboard_time": 1748539756,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29199,
+      "num": 272805,
+      "word": "职场人过劳肥怎么调节",
+      "onboard_time": 1748575880,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27898,
@@ -1307,12 +1435,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 22726,
-      "num": 199566,
-      "word": "唇语专家解读马克龙与妻子吵了什么",
-      "onboard_time": 1748575762,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 25427,
+      "num": 183593,
+      "word": "矿泉水被带到高原后大变样",
+      "onboard_time": 1748576661,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22571,
@@ -1411,8 +1539,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1382,
-      "num": 182730,
+      "raw_hot": 9042,
+      "num": 216709,
+      "word": "天问二号在线找聊天搭子",
+      "onboard_time": 1748577321,
+      "rank": 27,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 1972,
+      "num": 182892,
       "word": "再也不用担心快乐到模糊了",
       "onboard_time": 1748575461,
       "rank": 40,

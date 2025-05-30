@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748575888036,
+  "endTime": 1748577466598,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1792354,
+      "num": 1792354,
+      "word": "银川烧烤店31死爆炸案宣判",
+      "onboard_time": 1748573841,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1789038,
       "num": 406376,
       "word": "刘宇宁 锡纸抹胸",
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 1435106,
-      "num": 977874,
+      "num": 1096127,
       "word": "工资5000三年无痛存下12万",
       "onboard_time": 1748572279,
       "rank": 3,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1748151322,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 929697,
+      "num": 929697,
+      "word": "丁程鑫毕业",
+      "onboard_time": 1748576001,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 924641,
@@ -3403,6 +3419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 423789,
+      "num": 195179,
+      "word": "安倍晋三遗孀见普京哽咽落泪",
+      "onboard_time": 1748576420,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 423775,
       "num": 423775,
       "word": "网传歌手2025第三期歌单",
@@ -3499,11 +3523,27 @@
       "category": "财经"
     },
     {
+      "raw_hot": 413360,
+      "num": 433696,
+      "word": "刘宇宁唱时间之子情感曲",
+      "onboard_time": 1748573060,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 409504,
       "num": 359208,
       "word": "周雨彤花少后接的三部影视剧",
       "onboard_time": 1748155341,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 408883,
+      "num": 408883,
+      "word": "藏海传 横店大雪",
+      "onboard_time": 1748574381,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -3635,14 +3675,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 392293,
-      "num": 433696,
-      "word": "刘宇宁唱时间之子情感曲",
-      "onboard_time": 1748573060,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 392249,
       "num": 220969,
       "word": "王楚钦说夺冠才理解马龙樊振东不容易",
@@ -3681,6 +3713,14 @@
       "onboard_time": 1748190921,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 387891,
+      "num": 387891,
+      "word": "身价百亿毛巾少爷转行卖咖啡",
+      "onboard_time": 1748575401,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 387797,
@@ -4259,14 +4299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341571,
-      "num": 341571,
-      "word": "藏海传 横店大雪",
-      "onboard_time": 1748574381,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 340594,
       "num": 340594,
       "word": "临江仙",
@@ -4321,14 +4353,6 @@
       "onboard_time": 1748348722,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 336354,
-      "num": 421605,
-      "word": "银川烧烤店31死爆炸案宣判",
-      "onboard_time": 1748573841,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 336257,
@@ -4505,6 +4529,14 @@
       "onboard_time": 1748261241,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 320070,
+      "num": 362326,
+      "word": "唇语专家解读马克龙与妻子吵了什么",
+      "onboard_time": 1748575762,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 319809,
@@ -4705,6 +4737,14 @@
       "onboard_time": 1748153962,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302195,
+      "num": 302195,
+      "word": "明日方舟",
+      "onboard_time": 1748575702,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 302145,
@@ -5259,6 +5299,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 266697,
+      "num": 266697,
+      "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
+      "onboard_time": 1748575519,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266179,
       "num": 266179,
       "word": "A股",
@@ -5651,6 +5699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247390,
+      "num": 247390,
+      "word": "王楚钦 蜜丝婷",
+      "onboard_time": 1748575341,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247291,
       "num": 247291,
       "word": "艺人李嘉琦回母校重庆大学开讲座",
@@ -5921,6 +5977,14 @@
       "onboard_time": 1748499502,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235810,
+      "num": 268989,
+      "word": "没见过班味这么重的综艺",
+      "onboard_time": 1748575940,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 235694,
@@ -6243,6 +6307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221991,
+      "num": 268271,
+      "word": "丁程鑫北电毕业合照",
+      "onboard_time": 1748576901,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221807,
       "num": 221807,
       "word": "藏海传彩蛋信息量好大",
@@ -6265,6 +6337,14 @@
       "onboard_time": 1748192119,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220647,
+      "num": 220647,
+      "word": "肖战左腹",
+      "onboard_time": 1748576961,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220641,
@@ -6979,6 +7059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203437,
+      "num": 193551,
+      "word": "仙逆",
+      "onboard_time": 1748170701,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 203352,
       "num": 275965,
       "word": "赵丽颖尹昉张一山谁是谁",
@@ -7475,6 +7563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196299,
+      "num": 206137,
+      "word": "断眉会唱两首歌",
+      "onboard_time": 1748576541,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196050,
       "num": 196050,
       "word": "曾之乔回应二胎",
@@ -7504,14 +7600,6 @@
       "word": "孙颖莎眼含热泪感谢邱指导",
       "onboard_time": 1748518161,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 195472,
-      "num": 195472,
-      "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
-      "onboard_time": 1748575519,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -7849,14 +7937,6 @@
       "onboard_time": 1748254102,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 191290,
-      "num": 278757,
-      "word": "身价百亿毛巾少爷转行卖咖啡",
-      "onboard_time": 1748575401,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 191288,
@@ -8323,6 +8403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184479,
+      "num": 184479,
+      "word": "莫离男主",
+      "onboard_time": 1748577200,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184438,
       "num": 602725,
       "word": "十万只潜江龙虾红遍大厂餐桌",
@@ -8497,6 +8585,14 @@
       "onboard_time": 1748403441,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182230,
+      "num": 182230,
+      "word": "藏海点灯",
+      "onboard_time": 1748576120,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 182044,
@@ -9123,14 +9219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 173687,
-      "num": 173687,
-      "word": "王楚钦 蜜丝婷",
-      "onboard_time": 1748575341,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173683,
       "num": 173683,
       "word": "朝九晚五其实是朝七晚六",
@@ -9297,14 +9385,6 @@
       "onboard_time": 1748432842,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172212,
-      "num": 172212,
-      "word": "明日方舟",
-      "onboard_time": 1748575702,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 172173,
@@ -9633,14 +9713,6 @@
       "onboard_time": 1748522181,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 168156,
-      "num": 168156,
-      "word": "仙逆",
-      "onboard_time": 1748170701,
-      "rank": 31,
-      "category": "动漫"
     },
     {
       "raw_hot": 168121,
@@ -10041,6 +10113,14 @@
       "onboard_time": 1748249662,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 163757,
+      "num": 163757,
+      "word": "哈三联涨停",
+      "onboard_time": 1748577140,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 163448,
@@ -14867,6 +14947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99915,
+      "num": 350097,
+      "word": "美国法院与特朗普比变脸",
+      "onboard_time": 1748575401,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99784,
       "num": 99784,
       "word": "我终于get到了李白的快乐",
@@ -18004,7 +18092,7 @@
     },
     {
       "raw_hot": 44340,
-      "num": 987784,
+      "num": 1383534,
       "word": "世界市长对话上海",
       "onboard_time": 1748525422,
       "rank": 2,
@@ -18049,6 +18137,14 @@
       "onboard_time": 1748493083,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 43788,
+      "num": 210192,
+      "word": "月薪不高如何做到无痛存钱",
+      "onboard_time": 1748576781,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 43779,
@@ -18201,6 +18297,14 @@
       "onboard_time": 1748216059,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41880,
+      "num": 273693,
+      "word": "老人骑电动车捎人遇车祸后被判赔14万",
+      "onboard_time": 1748576781,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41816,
@@ -18731,12 +18835,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34139,
-      "num": 350097,
-      "word": "美国法院与特朗普比变脸",
-      "onboard_time": 1748575401,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 34076,
+      "num": 182537,
+      "word": "58岁梁实发文称将参加第29次高考",
+      "onboard_time": 1748577441,
+      "rank": 42,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 34046,
@@ -19155,6 +19259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29199,
+      "num": 272805,
+      "word": "职场人过劳肥怎么调节",
+      "onboard_time": 1748575880,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29081,
       "num": 117416,
       "word": "记者暗访神药骗局黑色产业链",
@@ -19499,6 +19611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 25427,
+      "num": 183593,
+      "word": "矿泉水被带到高原后大变样",
+      "onboard_time": 1748576661,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25250,
       "num": 198177,
       "word": "庄晓莹体验教练机飞行",
@@ -19745,14 +19865,6 @@
       "onboard_time": 1748195896,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22726,
-      "num": 199566,
-      "word": "唇语专家解读马克龙与妻子吵了什么",
-      "onboard_time": 1748575762,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22682,
@@ -20963,6 +21075,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 9042,
+      "num": 216709,
+      "word": "天问二号在线找聊天搭子",
+      "onboard_time": 1748577321,
+      "rank": 27,
+      "category": "军事"
+    },
+    {
       "raw_hot": 9005,
       "num": 295455,
       "word": "跨境电商招外国主播会带来什么机遇",
@@ -21163,8 +21283,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 1382,
-      "num": 182730,
+      "raw_hot": 1972,
+      "num": 182892,
       "word": "再也不用担心快乐到模糊了",
       "onboard_time": 1748575461,
       "rank": 40,
