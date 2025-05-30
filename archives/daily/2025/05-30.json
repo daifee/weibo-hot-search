@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748590722551,
+  "endTime": 1748594006156,
   "band_list": [
     {
       "raw_hot": 2610467,
@@ -75,6 +75,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1066519,
+      "num": 1066519,
+      "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
+      "onboard_time": 1748589501,
+      "rank": 36,
+      "category": "国际时政,教育"
+    },
+    {
+      "raw_hot": 1015396,
+      "num": 1015396,
+      "word": "这居然是吴昕",
+      "onboard_time": 1748588900,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1003260,
       "num": 290867,
       "word": "如果微信出了已读功能",
@@ -131,12 +147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 932275,
+      "num": 461117,
+      "word": "种地吧直播",
+      "onboard_time": 1748590160,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 929697,
       "num": 929697,
       "word": "丁程鑫毕业",
       "onboard_time": 1748576001,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 872263,
+      "num": 303451,
+      "word": "唯一一个资本控制不了的运动",
+      "onboard_time": 1748589860,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 865119,
@@ -211,22 +243,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 589254,
-      "num": 417368,
-      "word": "种地吧直播",
-      "onboard_time": 1748590160,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 553741,
-      "num": 337069,
-      "word": "这居然是吴昕",
-      "onboard_time": 1748588900,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 549407,
       "num": 420902,
       "word": "荣梓杉报平安",
@@ -241,6 +257,14 @@
       "onboard_time": 1748577022,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 539296,
+      "num": 435122,
+      "word": "现偶四大天花板",
+      "onboard_time": 1748589021,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 521316,
@@ -395,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 340679,
+      "num": 252461,
+      "word": "周深鹿晗汪苏泷张杰青岛见",
+      "onboard_time": 1748591061,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 340594,
       "num": 340594,
       "word": "临江仙",
@@ -425,6 +457,14 @@
       "onboard_time": 1748570239,
       "rank": 8,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 312408,
+      "num": 245521,
+      "word": "关晓彤金发杀青照",
+      "onboard_time": 1748592320,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 302195,
@@ -465,14 +505,6 @@
       "onboard_time": 1748572700,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290628,
-      "num": 399828,
-      "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
-      "onboard_time": 1748589501,
-      "rank": 36,
-      "category": "国际时政,教育"
     },
     {
       "raw_hot": 287571,
@@ -595,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244663,
+      "num": 244663,
+      "word": "肖战腹肌不对称了",
+      "onboard_time": 1748590642,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243429,
       "num": 246893,
       "word": "断眉合伙人蒋一侨",
@@ -651,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237026,
-      "num": 237026,
-      "word": "唯一一个资本控制不了的运动",
-      "onboard_time": 1748589860,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 235810,
       "num": 268989,
       "word": "没见过班味这么重的综艺",
@@ -699,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221546,
-      "num": 331954,
-      "word": "现偶四大天花板",
-      "onboard_time": 1748589021,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 219338,
       "num": 219338,
       "word": "陈震 YYP",
@@ -745,6 +769,22 @@
       "onboard_time": 1748564661,
       "rank": 15,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 212955,
+      "num": 212955,
+      "word": "白玉兰最佳综艺入围名单",
+      "onboard_time": 1748592981,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210932,
+      "num": 210932,
+      "word": "曝iPhone17Pro为拼接设计",
+      "onboard_time": 1748589860,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 210424,
@@ -849,6 +889,14 @@
       "onboard_time": 1748573181,
       "rank": 35,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 193538,
+      "num": 210684,
+      "word": "折腰直播",
+      "onboard_time": 1748592681,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 192581,
@@ -985,6 +1033,14 @@
       "onboard_time": 1748584521,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178664,
+      "num": 178664,
+      "word": "商家为防六一退货潮出奇招",
+      "onboard_time": 1748591901,
+      "rank": 33,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 177083,
@@ -1211,6 +1267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154006,
+      "num": 154006,
+      "word": "比亚迪回应被指汽车圈恒大",
+      "onboard_time": 1748593702,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 153829,
       "num": 153829,
       "word": "肖战藏海传演技",
@@ -1259,14 +1323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150979,
-      "num": 150979,
-      "word": "曝iPhone17Pro为拼接设计",
-      "onboard_time": 1748589860,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 150133,
       "num": 150133,
       "word": "全世界都在偶遇范志毅",
@@ -1297,6 +1353,22 @@
       "onboard_time": 1748571680,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146858,
+      "num": 146858,
+      "word": "刘学义孟子义桃花映江山要来了",
+      "onboard_time": 1748592681,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146765,
+      "num": 146765,
+      "word": "赵丽颖葛铮戏里真狠戏外真暖",
+      "onboard_time": 1748593101,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 146506,
@@ -1411,14 +1483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126121,
-      "num": 126121,
-      "word": "肖战腹肌不对称了",
-      "onboard_time": 1748590642,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126034,
       "num": 126034,
       "word": "人生就是壮壮妈",
@@ -1459,12 +1523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120603,
+      "num": 120603,
+      "word": "哪些劣质碳水会让人加速衰老",
+      "onboard_time": 1748592320,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 118754,
       "num": 349839,
       "word": "什么样的朋友一定要远离",
       "onboard_time": 1748589980,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117809,
+      "num": 117809,
+      "word": "披哥 男团赛",
+      "onboard_time": 1748592381,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 115411,
@@ -1497,6 +1577,14 @@
       "onboard_time": 1748572820,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112356,
+      "num": 273452,
+      "word": "与小米一同成长的年轻人",
+      "onboard_time": 1748592320,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 110575,
@@ -1563,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99181,
+      "num": 210769,
+      "word": "涉高考违法有害信息被查处",
+      "onboard_time": 1748590160,
+      "rank": 26,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 97555,
       "num": 97555,
       "word": "iPhone17标准版屏幕曝料",
@@ -1593,6 +1689,14 @@
       "onboard_time": 1748582421,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95867,
+      "num": 210465,
+      "word": "日本店铺整理玩具枪射出真子弹",
+      "onboard_time": 1748592860,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95694,
@@ -1657,6 +1761,14 @@
       "onboard_time": 1748515581,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90343,
+      "num": 146805,
+      "word": "网信部门整治短视频恶意营销乱象",
+      "onboard_time": 1748590941,
+      "rank": 38,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 89923,
@@ -1753,6 +1865,14 @@
       "onboard_time": 1748567420,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81454,
+      "num": 146778,
+      "word": "换完国货后才发现几千的工资够用了",
+      "onboard_time": 1748592080,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81051,
@@ -1891,6 +2011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72077,
+      "num": 268039,
+      "word": "Puzzle手袋10岁了",
+      "onboard_time": 1748592742,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 70994,
       "num": 70994,
       "word": "张凌赫 晚宴上的少爷",
@@ -2011,6 +2139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 56010,
+      "num": 262257,
+      "word": "职场中很多问题是不需要回答的",
+      "onboard_time": 1748592142,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55892,
       "num": 57128,
       "word": "魏劭在引诱",
@@ -2115,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45335,
+      "num": 210103,
+      "word": "80个低成本自愈清单",
+      "onboard_time": 1748593341,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 44994,
       "num": 44994,
       "word": "特朗普政府vs哈佛大学谁能赢",
@@ -2147,12 +2291,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43457,
+      "num": 259116,
+      "word": "实习中介称大厂内推保录取价格2万5",
+      "onboard_time": 1748593101,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43016,
       "num": 43016,
       "word": "高三的最后一节晚自修",
       "onboard_time": 1748560998,
       "rank": 47,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 42771,
+      "num": 282201,
+      "word": "印空军参谋长抱怨军购无法按时交付",
+      "onboard_time": 1748593401,
+      "rank": 14,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 41880,
@@ -2355,6 +2515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 26463,
+      "num": 309924,
+      "word": "日本抢购大米网站崩了",
+      "onboard_time": 1748593401,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25427,
       "num": 183593,
       "word": "矿泉水被带到高原后大变样",
@@ -2467,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17145,
+      "num": 1039204,
+      "word": "高质量发展看能源",
+      "onboard_time": 1748593401,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15090,
       "num": 340450,
       "word": "装修工搞错门牌号女子新房被拆光",
@@ -2505,6 +2681,14 @@
       "onboard_time": 1748575282,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 12703,
+      "num": 211015,
+      "word": "夫妻离婚后均拒绝抚养网瘾儿子",
+      "onboard_time": 1748593580,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11961,

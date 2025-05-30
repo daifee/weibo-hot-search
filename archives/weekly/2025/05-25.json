@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748590722551,
+  "endTime": 1748594006156,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -883,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1066519,
+      "num": 1066519,
+      "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
+      "onboard_time": 1748589501,
+      "rank": 36,
+      "category": "国际时政,教育"
+    },
+    {
       "raw_hot": 1064757,
       "num": 432744,
       "word": "杨颖澳门活动生图",
@@ -945,6 +953,14 @@
       "onboard_time": 1748144722,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1015396,
+      "num": 1015396,
+      "word": "这居然是吴昕",
+      "onboard_time": 1748588900,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1008372,
@@ -1155,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 932275,
+      "num": 461117,
+      "word": "种地吧直播",
+      "onboard_time": 1748590160,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 931423,
       "num": 366002,
       "word": "肖战周雨彤认识十年了",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1748476041,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 872263,
+      "num": 303451,
+      "word": "唯一一个资本控制不了的运动",
+      "onboard_time": 1748589860,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 870842,
@@ -2435,14 +2467,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 589254,
-      "num": 417368,
-      "word": "种地吧直播",
-      "onboard_time": 1748590160,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 587878,
       "num": 587878,
       "word": "教育部门回应教师迟到1分钟被定事故",
@@ -2595,14 +2619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 553741,
-      "num": 337069,
-      "word": "这居然是吴昕",
-      "onboard_time": 1748588900,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 553609,
       "num": 553609,
       "word": "小乔早产",
@@ -2729,6 +2745,14 @@
       "onboard_time": 1748401160,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 539296,
+      "num": 435122,
+      "word": "现偶四大天花板",
+      "onboard_time": 1748589021,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 537938,
@@ -4451,6 +4475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340679,
+      "num": 252461,
+      "word": "周深鹿晗汪苏泷张杰青岛见",
+      "onboard_time": 1748591061,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 340594,
       "num": 340594,
       "word": "临江仙",
@@ -4761,6 +4793,14 @@
       "onboard_time": 1748143340,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312408,
+      "num": 245521,
+      "word": "关晓彤金发杀青照",
+      "onboard_time": 1748592320,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 312297,
@@ -5097,14 +5137,6 @@
       "onboard_time": 1748572700,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290628,
-      "num": 399828,
-      "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
-      "onboard_time": 1748589501,
-      "rank": 36,
-      "category": "国际时政,教育"
     },
     {
       "raw_hot": 289153,
@@ -6019,6 +6051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244663,
+      "num": 244663,
+      "word": "肖战腹肌不对称了",
+      "onboard_time": 1748590642,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244236,
       "num": 244236,
       "word": "久酷加入西安WE",
@@ -6209,14 +6249,6 @@
       "onboard_time": 1748097146,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237026,
-      "num": 237026,
-      "word": "唯一一个资本控制不了的运动",
-      "onboard_time": 1748589860,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 236801,
@@ -6579,14 +6611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221546,
-      "num": 331954,
-      "word": "现偶四大天花板",
-      "onboard_time": 1748589021,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 221448,
       "num": 328175,
       "word": "林黛玉是不是认错石头了",
@@ -6923,6 +6947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212955,
+      "num": 212955,
+      "word": "白玉兰最佳综艺入围名单",
+      "onboard_time": 1748592981,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212953,
       "num": 169211,
       "word": "赵今麦张云龙牛排上了快点说",
@@ -6961,6 +6993,14 @@
       "onboard_time": 1748151019,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210932,
+      "num": 210932,
+      "word": "曝iPhone17Pro为拼接设计",
+      "onboard_time": 1748589860,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 210860,
@@ -8048,6 +8088,14 @@
       "word": "白玉兰配角组神仙打架",
       "onboard_time": 1748240181,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193538,
+      "num": 210684,
+      "word": "折腰直播",
+      "onboard_time": 1748592681,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -9209,6 +9257,14 @@
       "onboard_time": 1748089882,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178664,
+      "num": 178664,
+      "word": "商家为防六一退货潮出奇招",
+      "onboard_time": 1748591901,
+      "rank": 33,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 178660,
@@ -11427,6 +11483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154006,
+      "num": 154006,
+      "word": "比亚迪回应被指汽车圈恒大",
+      "onboard_time": 1748593702,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 154005,
       "num": 166812,
       "word": "凤凰传奇让我们吃的太好了",
@@ -11699,14 +11763,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 150979,
-      "num": 150979,
-      "word": "曝iPhone17Pro为拼接设计",
-      "onboard_time": 1748589860,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 150845,
       "num": 213064,
       "word": "丁禹兮中餐厅厨师服造型路透",
@@ -11969,6 +12025,22 @@
       "onboard_time": 1748137401,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146858,
+      "num": 146858,
+      "word": "刘学义孟子义桃花映江山要来了",
+      "onboard_time": 1748592681,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146765,
+      "num": 146765,
+      "word": "赵丽颖葛铮戏里真狠戏外真暖",
+      "onboard_time": 1748593101,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 146746,
@@ -13875,14 +13947,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 126121,
-      "num": 126121,
-      "word": "肖战腹肌不对称了",
-      "onboard_time": 1748590642,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126031,
       "num": 399535,
       "word": "豪配全配齐东风纳米06掀桌子",
@@ -14307,6 +14371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120603,
+      "num": 120603,
+      "word": "哪些劣质碳水会让人加速衰老",
+      "onboard_time": 1748592320,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 120444,
       "num": 120444,
       "word": "蔚来通报充电站多辆汽车起火",
@@ -14465,6 +14537,14 @@
       "onboard_time": 1748169323,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117809,
+      "num": 117809,
+      "word": "披哥 男团赛",
+      "onboard_time": 1748592381,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 117730,
@@ -14849,6 +14929,14 @@
       "onboard_time": 1748226081,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112356,
+      "num": 273452,
+      "word": "与小米一同成长的年轻人",
+      "onboard_time": 1748592320,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 112337,
@@ -15659,6 +15747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 99181,
+      "num": 210769,
+      "word": "涉高考违法有害信息被查处",
+      "onboard_time": 1748590160,
+      "rank": 26,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "吃饭是一件很私密的事情",
@@ -15865,6 +15961,14 @@
       "onboard_time": 1748149580,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 95867,
+      "num": 210465,
+      "word": "日本店铺整理玩具枪射出真子弹",
+      "onboard_time": 1748592860,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95694,
@@ -16185,6 +16289,14 @@
       "onboard_time": 1748171782,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90343,
+      "num": 146805,
+      "word": "网信部门整治短视频恶意营销乱象",
+      "onboard_time": 1748590941,
+      "rank": 38,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 90187,
@@ -16632,6 +16744,14 @@
       "word": "陕西无人机坠箭自救式捕杀野猪666",
       "onboard_time": 1748524282,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81454,
+      "num": 146778,
+      "word": "换完国货后才发现几千的工资够用了",
+      "onboard_time": 1748592080,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -17153,6 +17273,14 @@
       "onboard_time": 1748340981,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72077,
+      "num": 268039,
+      "word": "Puzzle手袋10岁了",
+      "onboard_time": 1748592742,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 71596,
@@ -18123,6 +18251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56010,
+      "num": 262257,
+      "word": "职场中很多问题是不需要回答的",
+      "onboard_time": 1748592142,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55986,
       "num": 401546,
       "word": "戴安娜王妃故居农舍被烧毁",
@@ -18819,6 +18955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45335,
+      "num": 210103,
+      "word": "80个低成本自愈清单",
+      "onboard_time": 1748593341,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 45275,
       "num": 246442,
       "word": "被易烊千玺种草了天猫618",
@@ -19019,6 +19163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43457,
+      "num": 259116,
+      "word": "实习中介称大厂内推保录取价格2万5",
+      "onboard_time": 1748593101,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43439,
       "num": 418885,
       "word": "小作文构成犯罪可追刑责",
@@ -19081,6 +19233,14 @@
       "onboard_time": 1748502742,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42771,
+      "num": 282201,
+      "word": "印空军参谋长抱怨军购无法按时交付",
+      "onboard_time": 1748593401,
+      "rank": 14,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 42524,
@@ -19652,7 +19812,7 @@
     },
     {
       "raw_hot": 35074,
-      "num": 613069,
+      "num": 1039204,
       "word": "高质量发展看能源",
       "onboard_time": 1748427082,
       "rank": 2,
@@ -20425,6 +20585,14 @@
       "onboard_time": 1748175083,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26463,
+      "num": 309924,
+      "word": "日本抢购大米网站崩了",
+      "onboard_time": 1748593401,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26403,
@@ -21745,6 +21913,14 @@
       "onboard_time": 1748316142,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 12703,
+      "num": 211015,
+      "word": "夫妻离婚后均拒绝抚养网瘾儿子",
+      "onboard_time": 1748593580,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12525,
