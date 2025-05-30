@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/05/30 21:36:04
+本榜单时间：2025/01/01 00:26:38 ~ 2025/05/30 21:46:50
 </p>
 </blockquote>
 <p>
@@ -1737,6 +1737,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%20%E6%A0%A1%E5%9B%AD%E6%AD%8C%E6%89%8B%E5%A4%A7%E8%B5%9B%23" target="weibo">
+马嘉祺 校园歌手大赛（热度：3350264）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%BF%A0%E8%90%A6%20%E9%99%88%E5%A5%95%E8%BF%85%23" target="weibo">
 徐濠萦 陈奕迅（热度：3348821）
 </a>
@@ -1805,12 +1811,6 @@ zmjjkk发博（热度：3336228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF%23" target="weibo">
 莞莞类卿（热度：3289320）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%BD%A6%E4%B8%BB%E9%A9%BE%E9%A9%B6%E4%B8%AD%E7%9D%A1%E7%9D%80%23" target="weibo">
-网友曝小米汽车车主驾驶中睡着（热度：3284922）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1748612810967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8109840,
+        "num": 8109840,
+        "word": "歌手直播",
+        "onboard_time": 1748606182,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3350264,
+        "num": 3350264,
+        "word": "马嘉祺 校园歌手大赛",
+        "onboard_time": 1748610804,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4351,
+        "num": 2533096,
+        "word": "万千气象看四川",
+        "onboard_time": 1748272763,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2496802,
+        "num": 2496802,
+        "word": "兵马俑被砸烂了",
+        "onboard_time": 1748612308,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791291,
+        "num": 791291,
+        "word": "王楚钦回应球拍2次受损",
+        "onboard_time": 1748611284,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474768,
+        "num": 474768,
+        "word": "泡泡玛特哭娃",
+        "onboard_time": 1748607083,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1947671,
+        "num": 419708,
+        "word": "断眉上来就唱see you again",
+        "onboard_time": 1748608824,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 941864,
+        "num": 414333,
+        "word": "祝绪丹秒删",
+        "onboard_time": 1748601081,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359832,
+        "num": 359832,
+        "word": "女子立遗嘱给宠物狗留了十几万",
+        "onboard_time": 1748606601,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102265,
+        "num": 359298,
+        "word": "亚洲新声",
+        "onboard_time": 1748612067,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4270318,
+        "num": 357447,
+        "word": "难听",
+        "onboard_time": 1748611104,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1590201,
+        "num": 356514,
+        "word": "GAI 不好听",
+        "onboard_time": 1748609245,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 801094,
+        "num": 355743,
+        "word": "断眉袭榜",
+        "onboard_time": 1748574860,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618149,
+        "num": 353380,
+        "word": "兵马俑",
+        "onboard_time": 1748609905,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353256,
+        "num": 353256,
+        "word": "清华回应中学生登珠峰能否保送",
+        "onboard_time": 1748603600,
+        "rank": 14,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 105100,
+        "num": 299185,
+        "word": "X200Ultra独家解锁楚生的世界2.0",
+        "onboard_time": 1748608644,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 754380,
+        "num": 298410,
+        "word": "陈楚生的舒适区",
+        "onboard_time": 1748611825,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273121,
+        "num": 273121,
+        "word": "尊界S800座舱太大太尊了",
+        "onboard_time": 1748610264,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 77913,
+        "num": 272648,
+        "word": "巴黎世家三里屯活动",
+        "onboard_time": 1748611104,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 88112,
+        "num": 272121,
+        "word": "1960元买2张演唱会票竟是铁窗泪",
+        "onboard_time": 1748606962,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79887,
+        "num": 271657,
+        "word": "韩国军机垂直坠毁",
+        "onboard_time": 1748606121,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 736218,
+        "num": 271234,
+        "word": "陈楚生提到袁惟仁哭了",
+        "onboard_time": 1748611587,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719680,
+        "num": 270464,
+        "word": "马嘉祺被做局了",
+        "onboard_time": 1748612129,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 690879,
+        "num": 270290,
+        "word": "单依纯清唱自带混响",
+        "onboard_time": 1748611342,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522179,
+        "num": 269598,
+        "word": "歌手顺序",
+        "onboard_time": 1748606601,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475444,
+        "num": 268979,
+        "word": "台湾青年因为肖战想去重庆",
+        "onboard_time": 1748604980,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338033,
+        "num": 268564,
+        "word": "藏海传27集封神",
+        "onboard_time": 1748612427,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139831,
+        "num": 267886,
+        "word": "尊界S800引领时代的顶级安全",
+        "onboard_time": 1748612067,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11492,
+        "num": 267455,
+        "word": "南北方赛龙舟的极致反差",
+        "onboard_time": 1748612185,
+        "rank": 28,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 26807,
+        "num": 266962,
+        "word": "如何通过聊天判断对方是聪明人",
+        "onboard_time": 1748607863,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98846,
+        "num": 266625,
+        "word": "张真源没看过甄嬛传",
+        "onboard_time": 1748612667,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266133,
+        "num": 266133,
+        "word": "白举纲进步",
+        "onboard_time": 1748609185,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241132,
+        "num": 241132,
+        "word": "金晨妆造必有高人指点",
+        "onboard_time": 1748612005,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235488,
+        "num": 235488,
+        "word": "林志炫演唱会连唱二十几首",
+        "onboard_time": 1748611284,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164315,
+        "num": 233326,
+        "word": "派出所回应男子掉进兵马俑俑坑中",
+        "onboard_time": 1748612667,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232587,
+        "num": 232587,
+        "word": "唯一一个资本控制不了的运动",
+        "onboard_time": 1748589860,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 230450,
+        "num": 230450,
+        "word": "白举纲心态",
+        "onboard_time": 1748611650,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196448,
+        "num": 196448,
+        "word": "常吃劣质碳水的人衰老更快",
+        "onboard_time": 1748604021,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189411,
+        "num": 189411,
+        "word": "歌手2025投票",
+        "onboard_time": 1748603420,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151278,
+        "num": 187001,
+        "word": "中国学生在哈佛毕业典礼发表演讲",
+        "onboard_time": 1748594480,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 21585,
+        "num": 186964,
+        "word": "2%的手机电量能做完哪些事",
+        "onboard_time": 1748612129,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186927,
+        "num": 186927,
+        "word": "s800",
+        "onboard_time": 1748612308,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246612,
+        "num": 182226,
+        "word": "GAI主动第一个登场",
+        "onboard_time": 1748608344,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174232,
+        "num": 174232,
+        "word": "种地吧",
+        "onboard_time": 1748612427,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170711,
+        "num": 170711,
+        "word": "刘诗诗今天是姐宝超甜",
+        "onboard_time": 1748612548,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167744,
+        "num": 167744,
+        "word": "范丞丞成了跑男成败的关键",
+        "onboard_time": 1748608944,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134738,
+        "num": 134738,
+        "word": "听泉赏宝向浙博捐赠文物",
+        "onboard_time": 1748612486,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131204,
+        "num": 131204,
+        "word": "婚礼睡过头是种什么体验",
+        "onboard_time": 1748606121,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121469,
+        "num": 121469,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 48,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 121051,
+        "num": 121051,
+        "word": "顺丰已成立理赔小组处理手镯事件",
+        "onboard_time": 1748604441,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技工作者大有作为#"
+    }
+  }
+}

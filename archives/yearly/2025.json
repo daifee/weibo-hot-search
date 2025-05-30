@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1748612164990,
+  "endTime": 1748612810967,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2299,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3350264,
+      "num": 3350264,
+      "word": "马嘉祺 校园歌手大赛",
+      "onboard_time": 1748610804,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3348821,
       "num": 557352,
       "word": "徐濠萦 陈奕迅",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1746605423,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 3284922,
-      "num": 3284922,
-      "word": "网友曝小米汽车车主驾驶中睡着",
-      "onboard_time": 1743578482,
-      "rank": 26,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
