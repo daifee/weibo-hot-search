@@ -1,0 +1,410 @@
+{
+  "runTime": 1748598075175,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1455268,
+        "num": 1455268,
+        "word": "断眉投票 马嘉祺",
+        "onboard_time": 1748587881,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 886928,
+        "num": 886928,
+        "word": "中国学生在哈佛毕业典礼发表演讲",
+        "onboard_time": 1748594480,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 3809,
+        "num": 717947,
+        "word": "万千气象看四川",
+        "onboard_time": 1748272763,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 975630,
+        "num": 717731,
+        "word": "夫妻离婚后均拒绝抚养网瘾儿子",
+        "onboard_time": 1748593580,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 717454,
+        "num": 717454,
+        "word": "商家为防六一退货潮出奇招",
+        "onboard_time": 1748591901,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 491122,
+        "num": 491122,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 5,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 435690,
+        "num": 435690,
+        "word": "断眉袭榜",
+        "onboard_time": 1748574860,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415270,
+        "num": 415270,
+        "word": "唐山3.2级地震",
+        "onboard_time": 1748597961,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351094,
+        "num": 351094,
+        "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
+        "onboard_time": 1748589501,
+        "rank": 8,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 202790,
+        "num": 349082,
+        "word": "日本抢购大米网站崩了",
+        "onboard_time": 1748593401,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1203312,
+        "num": 348704,
+        "word": "这居然是吴昕",
+        "onboard_time": 1748588900,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606873,
+        "num": 348513,
+        "word": "唯一一个资本控制不了的运动",
+        "onboard_time": 1748589860,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 347493,
+        "num": 347493,
+        "word": "现偶四大天花板",
+        "onboard_time": 1748589021,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311152,
+        "num": 311152,
+        "word": "种地吧第三届感恩音乐会",
+        "onboard_time": 1748594902,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261994,
+        "num": 261994,
+        "word": "周深鹿晗汪苏泷张杰青岛见",
+        "onboard_time": 1748591061,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254581,
+        "num": 254581,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254001,
+        "num": 254001,
+        "word": "肖战腹肌不对称了",
+        "onboard_time": 1748590642,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65421,
+        "num": 250635,
+        "word": "官方回应张家界一溶洞被堆满垃圾",
+        "onboard_time": 1748597301,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 35576,
+        "num": 242039,
+        "word": "端午节礼盒除了粽子还能有什么",
+        "onboard_time": 1748596280,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 74210,
+        "num": 231906,
+        "word": "吸烟减压是一个伪命题",
+        "onboard_time": 1748597061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180297,
+        "num": 224764,
+        "word": "男子离珠峰顶仅400米折返救陌生人",
+        "onboard_time": 1748591901,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 216734,
+        "num": 216734,
+        "word": "种地吧直播",
+        "onboard_time": 1748590160,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210761,
+        "num": 210761,
+        "word": "张艺兴飞天彩排齐得像千手观音",
+        "onboard_time": 1748597120,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210674,
+        "num": 210674,
+        "word": "瑞幸咖啡降价",
+        "onboard_time": 1748579481,
+        "rank": 23,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 210131,
+        "num": 210131,
+        "word": "周华健儿子结婚",
+        "onboard_time": 1748589080,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12902,
+        "num": 209707,
+        "word": "领取国补的几种方式",
+        "onboard_time": 1748595861,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148397,
+        "num": 209080,
+        "word": "李云飞直面负债质疑",
+        "onboard_time": 1748596280,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38809,
+        "num": 208558,
+        "word": "Deepseek本次升级有多大提升",
+        "onboard_time": 1748596280,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37256,
+        "num": 208025,
+        "word": "古人早把粽子玩成了黑暗料理",
+        "onboard_time": 1748596762,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 142719,
+        "num": 207679,
+        "word": "为什么现在及腰长发越来越少见了",
+        "onboard_time": 1748597839,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207208,
+        "num": 207208,
+        "word": "林夏薇申请破产",
+        "onboard_time": 1748596160,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194156,
+        "num": 194156,
+        "word": "印尼向法国采购42架阵风战斗机",
+        "onboard_time": 1748597061,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32041,
+        "num": 188894,
+        "word": "民警出门6秒后抓到嫌疑人",
+        "onboard_time": 1748597961,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40458,
+        "num": 188289,
+        "word": "普京莫斯科会见安倍晋三遗孀",
+        "onboard_time": 1748596220,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187762,
+        "num": 187762,
+        "word": "AD钙奶",
+        "onboard_time": 1748592020,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 179624,
+        "num": 179624,
+        "word": "折腰直播",
+        "onboard_time": 1748592681,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171341,
+        "num": 171341,
+        "word": "时尚COSMO6月刊封面预告",
+        "onboard_time": 1748597061,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 162651,
+        "num": 162651,
+        "word": "19岁李嫣高中毕业",
+        "onboard_time": 1748597661,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56513,
+        "num": 152989,
+        "word": "最权威的成人礼转场出现了",
+        "onboard_time": 1748597421,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 149405,
+        "num": 149405,
+        "word": "女婴手术6分钟无作为致瘫",
+        "onboard_time": 1748586501,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138156,
+        "num": 138156,
+        "word": "郑钦文vs姆博科",
+        "onboard_time": 1748596401,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137972,
+        "num": 137972,
+        "word": "比亚迪回应被指汽车圈恒大",
+        "onboard_time": 1748593702,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18756,
+        "num": 137833,
+        "word": "如何拯救人从众废片",
+        "onboard_time": 1748597120,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137701,
+        "num": 137701,
+        "word": "单依纯马嘉祺投票断层领先",
+        "onboard_time": 1748595021,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136412,
+        "num": 136412,
+        "word": "关晓彤金发杀青照",
+        "onboard_time": 1748592320,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135411,
+        "num": 135411,
+        "word": "张真源毕业",
+        "onboard_time": 1748582301,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131577,
+        "num": 131577,
+        "word": "曹璐vlog分享Luna近况",
+        "onboard_time": 1748595322,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129005,
+        "num": 129005,
+        "word": "薛之谦新蜂音乐节两天压轴",
+        "onboard_time": 1748597181,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117780,
+        "num": 117780,
+        "word": "白玉兰最佳综艺入围名单",
+        "onboard_time": 1748592981,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107077,
+        "num": 107077,
+        "word": "曝iPhone17Pro为拼接设计",
+        "onboard_time": 1748589860,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技工作者大有作为#"
+    }
+  }
+}
