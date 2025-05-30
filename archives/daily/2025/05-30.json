@@ -1,9 +1,17 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748570235705,
+  "endTime": 1748571640413,
   "band_list": [
     {
-      "raw_hot": 2027437,
+      "raw_hot": 2487100,
+      "num": 2487100,
+      "word": "美国政府杀疯了",
+      "onboard_time": 1748569280,
+      "rank": 4,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 2156975,
       "num": 280971,
       "word": "孙俪的唇下痣没了",
       "onboard_time": 1748567900,
@@ -43,20 +51,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 877597,
-      "num": 877597,
+      "raw_hot": 946501,
+      "num": 946501,
       "word": "胖东来红内裤事件案宣判",
       "onboard_time": 1748565920,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 855896,
-      "num": 855896,
-      "word": "美国政府杀疯了",
-      "onboard_time": 1748569280,
-      "rank": 4,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 702882,
@@ -72,6 +72,14 @@
       "word": "微博通报涉朱媛媛去世谣言",
       "onboard_time": 1748529983,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 549407,
+      "num": 226285,
+      "word": "荣梓杉报平安",
+      "onboard_time": 1748570060,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -131,12 +139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303147,
+      "num": 303147,
+      "word": "小伙拍下800斤杨贵妃同款荔枝",
+      "onboard_time": 1748570060,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296573,
-      "num": 155562,
+      "num": 185440,
       "word": "男子翻女友手机才发现小丑竟是自己",
       "onboard_time": 1748562740,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293632,
+      "num": 186103,
+      "word": "11点后睡觉浪费了人体的褪黑素",
+      "onboard_time": 1748568020,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 287571,
@@ -145,14 +169,6 @@
       "onboard_time": 1748563820,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286446,
-      "num": 154756,
-      "word": "11点后睡觉浪费了人体的褪黑素",
-      "onboard_time": 1748568020,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 267415,
@@ -169,6 +185,14 @@
       "onboard_time": 1748560399,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258867,
+      "num": 258867,
+      "word": "沈月中餐厅ootd",
+      "onboard_time": 1748570239,
+      "rank": 8,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 247291,
@@ -227,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223920,
+      "num": 223920,
+      "word": "莫离官宣概念海报",
+      "onboard_time": 1748569340,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219338,
       "num": 219338,
       "word": "陈震 YYP",
@@ -243,7 +275,7 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 208050,
+      "raw_hot": 208498,
       "num": 284245,
       "word": "莫离",
       "onboard_time": 1748562139,
@@ -259,12 +291,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182633,
-      "num": 182633,
-      "word": "莫离官宣概念海报",
-      "onboard_time": 1748569340,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 184019,
+      "num": 184019,
+      "word": "东莞高架车祸死者家属称正商量赔偿",
+      "onboard_time": 1748568980,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176843,
+      "num": 176843,
+      "word": "这些品牌今晚在京东开启618",
+      "onboard_time": 1748571260,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 174430,
@@ -291,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170060,
+      "num": 170060,
+      "word": "俞敏洪骑车摔倒",
+      "onboard_time": 1748569640,
+      "rank": 26,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 168292,
       "num": 168292,
       "word": "赵丽颖孙千互动",
@@ -313,6 +361,14 @@
       "onboard_time": 1748526622,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155731,
+      "num": 170921,
+      "word": "肖战绷不住了",
+      "onboard_time": 1748570780,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 153464,
@@ -339,6 +395,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 151681,
+      "num": 151681,
+      "word": "逆水寒手游",
+      "onboard_time": 1748571201,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149547,
       "num": 156690,
       "word": "小桃骂乔慈",
@@ -348,7 +412,7 @@
     },
     {
       "raw_hot": 146506,
-      "num": 146506,
+      "num": 153318,
       "word": "藏海手刃庄芦隐",
       "onboard_time": 1748564421,
       "rank": 25,
@@ -369,14 +433,6 @@
       "onboard_time": 1748532622,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135983,
-      "num": 135983,
-      "word": "俞敏洪骑车摔倒",
-      "onboard_time": 1748569640,
-      "rank": 26,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 134453,
@@ -411,16 +467,16 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 122077,
-      "num": 122077,
-      "word": "东莞高架车祸死者家属称正商量赔偿",
-      "onboard_time": 1748568980,
-      "rank": 30,
+      "raw_hot": 122987,
+      "num": 122987,
+      "word": "男子称相伴12年妻子心脏停搏猝逝",
+      "onboard_time": 1748570299,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
       "raw_hot": 115411,
-      "num": 149211,
+      "num": 152208,
       "word": "90后小伙拍下800斤荔枝发声",
       "onboard_time": 1748562440,
       "rank": 24,
@@ -433,6 +489,22 @@
       "onboard_time": 1748531123,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110575,
+      "num": 110575,
+      "word": "汤普森爱犬接受安乐死",
+      "onboard_time": 1748571080,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109040,
+      "num": 109040,
+      "word": "白鹿领衔主演莫离",
+      "onboard_time": 1748571501,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 107189,
@@ -451,12 +523,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 104727,
-      "num": 104727,
-      "word": "荣梓杉报平安",
-      "onboard_time": 1748570060,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 103640,
+      "num": 103640,
+      "word": "京东外卖称只发券不回收",
+      "onboard_time": 1748571201,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 101261,
@@ -467,6 +539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 100357,
+      "num": 100357,
+      "word": "公司发的端午礼盒",
+      "onboard_time": 1748571439,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99702,
       "num": 99702,
       "word": "代露娃这得算工伤吧",
@@ -475,12 +555,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98983,
+      "num": 98983,
+      "word": "王俊凯说为国产动画配音很荣幸",
+      "onboard_time": 1748571260,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 97555,
+      "num": 97555,
+      "word": "iPhone17标准版屏幕曝料",
+      "onboard_time": 1748561661,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 96727,
       "num": 96727,
       "word": "美公司吐槽美产商品包装还是中国的",
       "onboard_time": 1748566281,
       "rank": 34,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 96631,
+      "num": 96631,
+      "word": "追觅 加班",
+      "onboard_time": 1748569580,
+      "rank": 39,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 95694,
@@ -545,30 +649,6 @@
       "onboard_time": 1748569640,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89567,
-      "num": 89567,
-      "word": "iPhone17标准版屏幕曝料",
-      "onboard_time": 1748561661,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 88368,
-      "num": 88368,
-      "word": "小伙拍下800斤杨贵妃同款荔枝",
-      "onboard_time": 1748570060,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87182,
-      "num": 87182,
-      "word": "追觅 加班",
-      "onboard_time": 1748569580,
-      "rank": 39,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 87030,
@@ -787,6 +867,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 57175,
+      "num": 109125,
+      "word": "来南通购购购",
+      "onboard_time": 1748570661,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55892,
       "num": 57128,
       "word": "魏劭在引诱",
@@ -859,8 +947,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43202,
-      "num": 882433,
+      "raw_hot": 44340,
+      "num": 951865,
       "word": "世界市长对话上海",
       "onboard_time": 1748525422,
       "rank": 2,
@@ -921,6 +1009,14 @@
       "onboard_time": 1748539756,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27898,
+      "num": 187656,
+      "word": "纳米06凭什么上市即卖爆",
+      "onboard_time": 1748570780,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 27414,

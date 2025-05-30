@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748570235705,
+  "endTime": 1748571640413,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2487100,
+      "num": 2487100,
+      "word": "美国政府杀疯了",
+      "onboard_time": 1748569280,
+      "rank": 4,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 2368379,
       "num": 858206,
       "word": "跳楼机",
@@ -128,6 +136,14 @@
       "word": "鹿晗ins晒与山下智久合照",
       "onboard_time": 1748405422,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2156975,
+      "num": 280971,
+      "word": "孙俪的唇下痣没了",
+      "onboard_time": 1748567900,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -169,14 +185,6 @@
       "onboard_time": 1748241502,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2027437,
-      "num": 280971,
-      "word": "孙俪的唇下痣没了",
-      "onboard_time": 1748567900,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2003488,
@@ -1043,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 946501,
+      "num": 946501,
+      "word": "胖东来红内裤事件案宣判",
+      "onboard_time": 1748565920,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 942382,
       "num": 942382,
       "word": "瘦5斤需要1个月 胖5斤却只要5天",
@@ -1171,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 877597,
-      "num": 877597,
-      "word": "胖东来红内裤事件案宣判",
-      "onboard_time": 1748565920,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 873913,
       "num": 873913,
       "word": "苦尽柑来剧组被曝霸凌群演",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1748173284,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 855896,
-      "num": 855896,
-      "word": "美国政府杀疯了",
-      "onboard_time": 1748569280,
-      "rank": 4,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 853055,
@@ -2505,6 +2505,14 @@
       "onboard_time": 1748223620,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 549407,
+      "num": 226285,
+      "word": "荣梓杉报平安",
+      "onboard_time": 1748570060,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 547499,
@@ -4579,6 +4587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303147,
+      "num": 303147,
+      "word": "小伙拍下800斤杨贵妃同款荔枝",
+      "onboard_time": 1748570060,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302652,
       "num": 302652,
       "word": "房琪回归后视频风格大变",
@@ -4700,7 +4716,7 @@
     },
     {
       "raw_hot": 296573,
-      "num": 155562,
+      "num": 185440,
       "word": "男子翻女友手机才发现小丑竟是自己",
       "onboard_time": 1748562740,
       "rank": 20,
@@ -4745,6 +4761,14 @@
       "onboard_time": 1748400021,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293632,
+      "num": 186103,
+      "word": "11点后睡觉浪费了人体的褪黑素",
+      "onboard_time": 1748568020,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 293378,
@@ -4801,14 +4825,6 @@
       "onboard_time": 1748253142,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286446,
-      "num": 154756,
-      "word": "11点后睡觉浪费了人体的褪黑素",
-      "onboard_time": 1748568020,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 286427,
@@ -5265,6 +5281,14 @@
       "onboard_time": 1748317941,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258867,
+      "num": 258867,
+      "word": "沈月中餐厅ootd",
+      "onboard_time": 1748570239,
+      "rank": 8,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 258465,
@@ -6067,6 +6091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 223920,
+      "num": 223920,
+      "word": "莫离官宣概念海报",
+      "onboard_time": 1748569340,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223453,
       "num": 223453,
       "word": "美国大满贯",
@@ -6563,6 +6595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208498,
+      "num": 284245,
+      "word": "莫离",
+      "onboard_time": 1748404463,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208306,
       "num": 208306,
       "word": "田园脆鸡堡 变了",
@@ -6576,14 +6616,6 @@
       "word": "唐诡3全剧杀青",
       "onboard_time": 1748497163,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 208050,
-      "num": 284245,
-      "word": "莫离",
-      "onboard_time": 1748404463,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -8163,6 +8195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184019,
+      "num": 184019,
+      "word": "东莞高架车祸死者家属称正商量赔偿",
+      "onboard_time": 1748568980,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184009,
       "num": 184009,
       "word": "时代少年团演唱会久久不能散去的余温",
@@ -8257,14 +8297,6 @@
       "onboard_time": 1748245520,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182633,
-      "num": 182633,
-      "word": "莫离官宣概念海报",
-      "onboard_time": 1748569340,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 182608,
@@ -8649,6 +8681,14 @@
       "onboard_time": 1748145980,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176843,
+      "num": 176843,
+      "word": "这些品牌今晚在京东开启618",
+      "onboard_time": 1748571260,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 176782,
@@ -9257,6 +9297,14 @@
       "onboard_time": 1748148381,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170060,
+      "num": 170060,
+      "word": "俞敏洪骑车摔倒",
+      "onboard_time": 1748569640,
+      "rank": 26,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 169931,
@@ -10403,6 +10451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155731,
+      "num": 170921,
+      "word": "肖战绷不住了",
+      "onboard_time": 1748570780,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155721,
       "num": 336002,
       "word": "藏海传冬夏质子",
@@ -10755,6 +10811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151681,
+      "num": 151681,
+      "word": "逆水寒手游",
+      "onboard_time": 1748571201,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151620,
       "num": 151620,
       "word": "折腰夫君务必等我含金量",
@@ -11076,7 +11140,7 @@
     },
     {
       "raw_hot": 146506,
-      "num": 146506,
+      "num": 153318,
       "word": "藏海手刃庄芦隐",
       "onboard_time": 1748564421,
       "rank": 25,
@@ -12025,14 +12089,6 @@
       "onboard_time": 1748520742,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135983,
-      "num": 135983,
-      "word": "俞敏洪骑车摔倒",
-      "onboard_time": 1748569640,
-      "rank": 26,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 135733,
@@ -13107,6 +13163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122987,
+      "num": 122987,
+      "word": "男子称相伴12年妻子心脏停搏猝逝",
+      "onboard_time": 1748570299,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122949,
       "num": 122949,
       "word": "张若昀提名最佳男主角",
@@ -13184,14 +13248,6 @@
       "word": "知情人回应女子救儿子不幸溺亡",
       "onboard_time": 1748311940,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122077,
-      "num": 122077,
-      "word": "东莞高架车祸死者家属称正商量赔偿",
-      "onboard_time": 1748568980,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -13612,7 +13668,7 @@
     },
     {
       "raw_hot": 115411,
-      "num": 149211,
+      "num": 152208,
       "word": "90后小伙拍下800斤荔枝发声",
       "onboard_time": 1748562440,
       "rank": 24,
@@ -13947,6 +14003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110575,
+      "num": 110575,
+      "word": "汤普森爱犬接受安乐死",
+      "onboard_time": 1748571080,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110529,
       "num": 110529,
       "word": "任天堂宣布打击Switch2黄牛",
@@ -14041,6 +14105,14 @@
       "onboard_time": 1748214678,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109040,
+      "num": 109040,
+      "word": "白鹿领衔主演莫离",
+      "onboard_time": 1748571501,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 108969,
@@ -14307,14 +14379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104727,
-      "num": 104727,
-      "word": "荣梓杉报平安",
-      "onboard_time": 1748570060,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104663,
       "num": 330362,
       "word": "便利店阿姨哪见过这种场面",
@@ -14361,6 +14425,14 @@
       "onboard_time": 1748135241,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103640,
+      "num": 103640,
+      "word": "京东外卖称只发券不回收",
+      "onboard_time": 1748571201,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 103639,
@@ -14523,6 +14595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 100357,
+      "num": 100357,
+      "word": "公司发的端午礼盒",
+      "onboard_time": 1748571439,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100230,
       "num": 263649,
       "word": "京东618请你看演唱会",
@@ -14603,6 +14683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 98983,
+      "num": 98983,
+      "word": "王俊凯说为国产动画配音很荣幸",
+      "onboard_time": 1748571260,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "吃饭是一件很私密的事情",
@@ -14675,6 +14763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97555,
+      "num": 97555,
+      "word": "iPhone17标准版屏幕曝料",
+      "onboard_time": 1748561661,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 97417,
       "num": 129558,
       "word": "为什么一根头发会有白有黑",
@@ -14737,6 +14833,14 @@
       "onboard_time": 1748450239,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96631,
+      "num": 96631,
+      "word": "追觅 加班",
+      "onboard_time": 1748569580,
+      "rank": 39,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 96612,
@@ -15131,14 +15235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89567,
-      "num": 89567,
-      "word": "iPhone17标准版屏幕曝料",
-      "onboard_time": 1748561661,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 88972,
       "num": 438608,
       "word": "不顾安全的畸形打卡热该消停了",
@@ -15169,14 +15265,6 @@
       "onboard_time": 1748325503,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88368,
-      "num": 88368,
-      "word": "小伙拍下800斤杨贵妃同款荔枝",
-      "onboard_time": 1748570060,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88357,
@@ -15257,14 +15345,6 @@
       "onboard_time": 1748136619,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87182,
-      "num": 87182,
-      "word": "追觅 加班",
-      "onboard_time": 1748569580,
-      "rank": 39,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 86984,
@@ -16867,6 +16947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57175,
+      "num": 109125,
+      "word": "来南通购购购",
+      "onboard_time": 1748570661,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57100,
       "num": 450633,
       "word": "范丞丞能量拉满鲨出重围",
@@ -17683,6 +17771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44340,
+      "num": 951865,
+      "word": "世界市长对话上海",
+      "onboard_time": 1748525422,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44311,
       "num": 240792,
       "word": "特朗普发文批普京在玩火",
@@ -17785,14 +17881,6 @@
       "onboard_time": 1748183845,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 43202,
-      "num": 882433,
-      "word": "世界市长对话上海",
-      "onboard_time": 1748525422,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43016,
@@ -18905,6 +18993,14 @@
       "onboard_time": 1748262744,
       "rank": 28,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 27898,
+      "num": 187656,
+      "word": "纳米06凭什么上市即卖爆",
+      "onboard_time": 1748570780,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 27883,
