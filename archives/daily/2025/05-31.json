@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748640211725,
+  "endTime": 1748641078718,
   "band_list": [
     {
       "raw_hot": 1065815,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22478,
+      "num": 22663,
+      "word": "当地回应瓜农10万斤西瓜烂地里",
+      "onboard_time": 1748633235,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21035,
       "num": 29029,
       "word": "王源唱完就去吃夜宵",
@@ -531,11 +539,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19616,
-      "num": 22663,
-      "word": "当地回应瓜农10万斤西瓜烂地里",
-      "onboard_time": 1748633235,
-      "rank": 48,
+      "raw_hot": 17004,
+      "num": 111167,
+      "word": "原来龙舟是这样造出来的",
+      "onboard_time": 1748616804,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -547,6 +555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 16242,
+      "num": 18505,
+      "word": "主人回应河北狗王外网爆火",
+      "onboard_time": 1748638454,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14718,
       "num": 25627,
       "word": "魏大勋杨凯之剃头vlog",
@@ -555,11 +571,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14611,
-      "num": 90872,
-      "word": "原来龙舟是这样造出来的",
-      "onboard_time": 1748616804,
-      "rank": 2,
+      "raw_hot": 14619,
+      "num": 45993,
+      "word": "聊城大学龙舟队不愧是北方门面",
+      "onboard_time": 1748639774,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -569,14 +585,6 @@
       "onboard_time": 1748621542,
       "rank": 33,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 13714,
-      "num": 17247,
-      "word": "主人回应河北狗王外网爆火",
-      "onboard_time": 1748638454,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12208,
@@ -601,14 +609,6 @@
       "onboard_time": 1748636715,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10326,
-      "num": 45993,
-      "word": "聊城大学龙舟队不愧是北方门面",
-      "onboard_time": 1748639774,
-      "rank": 12,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
