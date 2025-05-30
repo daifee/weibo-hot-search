@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748630938355,
+  "endTime": 1748632870422,
   "band_list": [
     {
       "raw_hot": 1065815,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29874,
+      "num": 29874,
+      "word": "单依纯第二",
+      "onboard_time": 1748632513,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27681,
       "num": 33194,
       "word": "陈楚生轻描淡写松弛感",
@@ -499,12 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17471,
+      "raw_hot": 20258,
       "num": 33170,
       "word": "专家谈大学生恋爱意愿为何走低",
       "onboard_time": 1748629935,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14718,
+      "num": 25627,
+      "word": "魏大勋杨凯之剃头vlog",
+      "onboard_time": 1748631975,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 13952,
@@ -521,6 +537,14 @@
       "onboard_time": 1748629755,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 9498,
+      "num": 87952,
+      "word": "原来龙舟是这样造出来的",
+      "onboard_time": 1748616804,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
