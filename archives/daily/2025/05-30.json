@@ -1,10 +1,10 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748604105301,
+  "endTime": 1748605042819,
   "band_list": [
     {
       "raw_hot": 4777046,
-      "num": 244241,
+      "num": 281989,
       "word": "祝绪丹秒删",
       "onboard_time": 1748601081,
       "rank": 10,
@@ -83,19 +83,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1218048,
+      "num": 1218048,
+      "word": "马嘉祺大战断眉",
+      "onboard_time": 1748600780,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1203357,
       "num": 1015396,
       "word": "这居然是吴昕",
       "onboard_time": 1748588900,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1122906,
-      "num": 1179665,
-      "word": "马嘉祺大战断眉",
-      "onboard_time": 1748600780,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -129,6 +129,14 @@
       "onboard_time": 1748564482,
       "rank": 1,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 979711,
+      "num": 198556,
+      "word": "祝绪丹连续秒删",
+      "onboard_time": 1748600900,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 977726,
@@ -203,14 +211,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 868487,
-      "num": 198556,
-      "word": "祝绪丹连续秒删",
-      "onboard_time": 1748600900,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 865119,
       "num": 865119,
       "word": "社保交满最低缴费年限停止就亏大了",
@@ -267,8 +267,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 638472,
-      "num": 638472,
+      "raw_hot": 649746,
+      "num": 649746,
       "word": "男子离珠峰顶仅400米折返救陌生人",
       "onboard_time": 1748591901,
       "rank": 36,
@@ -329,6 +329,14 @@
       "onboard_time": 1748586080,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513267,
+      "num": 513267,
+      "word": "粽子",
+      "onboard_time": 1748603241,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 503950,
@@ -507,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 342057,
+      "num": 342057,
+      "word": "清华回应中学生登珠峰能否保送",
+      "onboard_time": 1748603600,
+      "rank": 19,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 340594,
       "num": 340594,
       "word": "临江仙",
@@ -601,14 +617,6 @@
       "onboard_time": 1748563820,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283683,
-      "num": 283683,
-      "word": "粽子",
-      "onboard_time": 1748603241,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 281440,
@@ -979,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202107,
+      "num": 202107,
+      "word": "歌手2025投票",
+      "onboard_time": 1748603420,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200711,
       "num": 200711,
       "word": "刘宇宁直播",
@@ -1171,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182763,
+      "num": 182763,
+      "word": "郑钦文重返法网16强",
+      "onboard_time": 1748603121,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182230,
       "num": 182230,
       "word": "藏海点灯",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1748596280,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 177688,
+      "num": 187105,
+      "word": "严浩翔新说唱官宣视频播放破亿",
+      "onboard_time": 1748604141,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 177083,
@@ -1315,12 +1347,28 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 168393,
+      "num": 194875,
+      "word": "天猫12168元红包现在发用到爽",
+      "onboard_time": 1748603181,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 168292,
       "num": 168292,
       "word": "赵丽颖孙千互动",
       "onboard_time": 1748530464,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168004,
+      "num": 168004,
+      "word": "台湾青年因为肖战想去重庆",
+      "onboard_time": 1748604980,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 167792,
@@ -1417,14 +1465,6 @@
       "onboard_time": 1748580141,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159271,
-      "num": 159271,
-      "word": "郑钦文重返法网16强",
-      "onboard_time": 1748603121,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 158616,
@@ -1579,14 +1619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146602,
-      "num": 167222,
-      "word": "天猫12168元红包现在发用到爽",
-      "onboard_time": 1748603181,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 146506,
       "num": 153318,
       "word": "藏海手刃庄芦隐",
@@ -1617,6 +1649,14 @@
       "onboard_time": 1748597839,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141985,
+      "num": 141985,
+      "word": "把事情交给宋亚轩张真源你就操心吧",
+      "onboard_time": 1748604681,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 140750,
@@ -1715,6 +1755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133657,
+      "num": 133657,
+      "word": "为什么旅游越来越没意思了",
+      "onboard_time": 1748603480,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 131784,
       "num": 131784,
       "word": "专八成绩",
@@ -1729,14 +1777,6 @@
       "onboard_time": 1748595322,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130549,
-      "num": 130549,
-      "word": "歌手2025投票",
-      "onboard_time": 1748603420,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 129429,
@@ -1771,8 +1811,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127327,
+      "num": 127327,
+      "word": "恋与深空",
+      "onboard_time": 1748603181,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127102,
-      "num": 136807,
+      "num": 214785,
       "word": "网络中国节",
       "onboard_time": 1748596340,
       "rank": 41,
@@ -1793,14 +1841,6 @@
       "onboard_time": 1748565079,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 125100,
-      "num": 125100,
-      "word": "为什么旅游越来越没意思了",
-      "onboard_time": 1748603480,
-      "rank": 38,
-      "category": "旅游"
     },
     {
       "raw_hot": 123214,
@@ -1833,6 +1873,14 @@
       "onboard_time": 1748570299,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122928,
+      "num": 122928,
+      "word": "常吃劣质碳水的人衰老更快",
+      "onboard_time": 1748604021,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122480,
@@ -1884,7 +1932,7 @@
     },
     {
       "raw_hot": 120477,
-      "num": 166040,
+      "num": 173433,
       "word": "京东618大额券",
       "onboard_time": 1748603181,
       "rank": 23,
@@ -1939,12 +1987,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116628,
-      "num": 116628,
-      "word": "恋与深空",
-      "onboard_time": 1748603181,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 115604,
+      "num": 115604,
+      "word": "顺丰已成立理赔小组处理手镯事件",
+      "onboard_time": 1748604441,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115411,
@@ -2003,12 +2051,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108672,
-      "num": 108672,
-      "word": "常吃劣质碳水的人衰老更快",
-      "onboard_time": 1748604021,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 110214,
+      "num": 110214,
+      "word": "男子戴人皮面具偷了15万首饰现金",
+      "onboard_time": 1748601500,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107189,
@@ -2033,14 +2081,6 @@
       "onboard_time": 1748599941,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 106413,
-      "num": 106413,
-      "word": "男子戴人皮面具偷了15万首饰现金",
-      "onboard_time": 1748601500,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106134,
@@ -2252,7 +2292,7 @@
     },
     {
       "raw_hot": 86583,
-      "num": 167049,
+      "num": 191617,
       "word": "蚊子叮人挑血型吗",
       "onboard_time": 1748601681,
       "rank": 49,
@@ -2371,14 +2411,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 79600,
-      "num": 166817,
-      "word": "清华回应中学生登珠峰能否保送",
-      "onboard_time": 1748603600,
-      "rank": 19,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 78526,
       "num": 342536,
       "word": "美法官叫停哈佛禁招国际生政策",
@@ -2433,6 +2465,14 @@
       "onboard_time": 1748562019,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75358,
+      "num": 124346,
+      "word": "奔跑吧荔枝海报",
+      "onboard_time": 1748604980,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 75102,
@@ -2516,7 +2556,7 @@
     },
     {
       "raw_hot": 69956,
-      "num": 164420,
+      "num": 197098,
       "word": "618拼好价囤健康",
       "onboard_time": 1748603181,
       "rank": 31,
@@ -2587,6 +2627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 60910,
+      "num": 236920,
+      "word": "用放大镜的方式打开藏海传",
+      "onboard_time": 1748603541,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60836,
       "num": 243684,
       "word": "我相信这回真的没剧本",
@@ -2649,6 +2697,14 @@
       "onboard_time": 1748573900,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 56809,
+      "num": 165235,
+      "word": "父亲回应带4岁女儿街头表演杂技",
+      "onboard_time": 1748603420,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56513,
@@ -2764,7 +2820,7 @@
     },
     {
       "raw_hot": 48685,
-      "num": 108945,
+      "num": 110564,
       "word": "招募超3万名高校毕业生到基层到西部",
       "onboard_time": 1748595440,
       "rank": 44,
@@ -2955,20 +3011,20 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 37632,
-      "num": 165235,
-      "word": "父亲回应带4岁女儿街头表演杂技",
-      "onboard_time": 1748603420,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37256,
       "num": 208025,
       "word": "古人早把粽子玩成了黑暗料理",
       "onboard_time": 1748596762,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 37029,
+      "num": 183640,
+      "word": "戒烟10年能省多少钱",
+      "onboard_time": 1748604681,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 35869,
@@ -3001,14 +3057,6 @@
       "onboard_time": 1748590160,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34223,
-      "num": 176467,
-      "word": "用放大镜的方式打开藏海传",
-      "onboard_time": 1748603541,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 34076,
@@ -3347,6 +3395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 14221,
+      "num": 165015,
+      "word": "3个高考夺分技巧",
+      "onboard_time": 1748602940,
+      "rank": 28,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 13492,
       "num": 15381,
       "word": "内娱新晋版破产兄弟",
@@ -3369,14 +3425,6 @@
       "onboard_time": 1748575282,
       "rank": 27,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 12435,
-      "num": 165015,
-      "word": "3个高考夺分技巧",
-      "onboard_time": 1748602940,
-      "rank": 28,
-      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 11961,
