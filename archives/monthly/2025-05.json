@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748636903694,
+  "endTime": 1748637727041,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -110419,6 +110419,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 24041,
+      "num": 24041,
+      "word": "荷兰在售一款软糖检出大麻",
+      "onboard_time": 1748634854,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 24035,
       "num": 270760,
       "word": "瘦腰跟练版",
@@ -111329,14 +111337,6 @@
       "onboard_time": 1747888285,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 22222,
-      "num": 22222,
-      "word": "荷兰在售一款软糖检出大麻",
-      "onboard_time": 1748634854,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 22217,
@@ -117443,6 +117443,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 11433,
+      "num": 14848,
+      "word": "微博电影之夜纪念票",
+      "onboard_time": 1748631016,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 11391,
       "num": 17221,
       "word": "路人遇大火一秒变超级英雄",
@@ -117745,6 +117753,14 @@
       "onboard_time": 1747918883,
       "rank": 29,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 10596,
+      "num": 39290,
+      "word": "这里有条两弹一星功勋路",
+      "onboard_time": 1748636715,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10585,
@@ -118057,14 +118073,6 @@
       "onboard_time": 1747313185,
       "rank": 16,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 9908,
-      "num": 20070,
-      "word": "这里有条两弹一星功勋路",
-      "onboard_time": 1748636715,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9880,
