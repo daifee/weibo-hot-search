@@ -1,0 +1,410 @@
+{
+  "runTime": 1748579552873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2573179,
+        "num": 2573179,
+        "word": "断眉袭榜",
+        "onboard_time": 1748574860,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1605158,
+        "num": 1605158,
+        "word": "银川烧烤店31死爆炸案宣判",
+        "onboard_time": 1748573841,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 25687,
+        "num": 1014855,
+        "word": "世界市长对话上海",
+        "onboard_time": 1748525422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 831098,
+        "num": 831098,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 3,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 683893,
+        "num": 683893,
+        "word": "丁程鑫毕业",
+        "onboard_time": 1748576001,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582583,
+        "num": 582583,
+        "word": "银川烧烤店爆炸致31死案15人获刑",
+        "onboard_time": 1748574020,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568047,
+        "num": 568047,
+        "word": "社保交满最低缴费年限停止就亏大了",
+        "onboard_time": 1748578461,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498829,
+        "num": 498829,
+        "word": "胖东来红内裤事件案宣判",
+        "onboard_time": 1748565920,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474000,
+        "num": 474000,
+        "word": "唇语专家解读马克龙与妻子吵了什么",
+        "onboard_time": 1748575762,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 392251,
+        "num": 392251,
+        "word": "曝披荆斩棘5阵容",
+        "onboard_time": 1748577501,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1178188,
+        "num": 375686,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592456,
+        "num": 365987,
+        "word": "安倍晋三遗孀见普京哽咽落泪",
+        "onboard_time": 1748576420,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353888,
+        "num": 353888,
+        "word": "身价百亿毛巾少爷转行卖咖啡",
+        "onboard_time": 1748575401,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342582,
+        "num": 342582,
+        "word": "段某被判赔偿胖东来40万元",
+        "onboard_time": 1748573301,
+        "rank": 13,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 78526,
+        "num": 342536,
+        "word": "美法官叫停哈佛禁招国际生政策",
+        "onboard_time": 1748577980,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342529,
+        "num": 342529,
+        "word": "肖战左腹",
+        "onboard_time": 1748576961,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218797,
+        "num": 337055,
+        "word": "周深不唱歌的时候都在想梗",
+        "onboard_time": 1748579062,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332432,
+        "num": 332432,
+        "word": "藏海传 横店大雪",
+        "onboard_time": 1748574381,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122066,
+        "num": 325720,
+        "word": "这个夏天陪你看世界",
+        "onboard_time": 1748578220,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 31649,
+        "num": 325450,
+        "word": "晚睡是怎样浪费褪黑素的",
+        "onboard_time": 1748578040,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 325430,
+        "num": 325430,
+        "word": "刘宇宁唱时间之子情感曲",
+        "onboard_time": 1748573060,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288549,
+        "num": 288549,
+        "word": "中方回应印度得到一枚未爆炸中国导弹",
+        "onboard_time": 1748564482,
+        "rank": 21,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 279123,
+        "num": 279123,
+        "word": "莫离男主",
+        "onboard_time": 1748577200,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268281,
+        "num": 268281,
+        "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
+        "onboard_time": 1748575519,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246087,
+        "num": 246087,
+        "word": "丁程鑫北电毕业合照",
+        "onboard_time": 1748576901,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60836,
+        "num": 243684,
+        "word": "我相信这回真的没剧本",
+        "onboard_time": 1748578040,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89383,
+        "num": 241778,
+        "word": "国际乒联将展开调查",
+        "onboard_time": 1748574499,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59755,
+        "num": 239289,
+        "word": "用酒精擦拭电子设备会损伤屏幕吗",
+        "onboard_time": 1748578341,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17758,
+        "num": 238053,
+        "word": "天问二号在线找聊天搭子",
+        "onboard_time": 1748577321,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 27114,
+        "num": 235131,
+        "word": "皮划艇被浪打翻男子海上漂流7小时",
+        "onboard_time": 1748578040,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233229,
+        "num": 233229,
+        "word": "关晓彤王子奇终于演上同学了",
+        "onboard_time": 1748578282,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246987,
+        "num": 233057,
+        "word": "仙逆",
+        "onboard_time": 1748576901,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 231848,
+        "num": 231848,
+        "word": "白鹿领衔主演莫离",
+        "onboard_time": 1748571501,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222701,
+        "num": 222701,
+        "word": "如果微信出了已读功能",
+        "onboard_time": 1748562199,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204971,
+        "num": 204971,
+        "word": "美国政府朝令夕改让全世界目瞪口呆",
+        "onboard_time": 1748569280,
+        "rank": 34,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 202303,
+        "num": 202303,
+        "word": "能接受自己孩子不结婚吗",
+        "onboard_time": 1748577022,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193749,
+        "num": 193749,
+        "word": "高考钉子户梁实考前发声",
+        "onboard_time": 1748577261,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192365,
+        "num": 192365,
+        "word": "没见过班味这么重的综艺",
+        "onboard_time": 1748575940,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191720,
+        "num": 191720,
+        "word": "皇帝派蒯铎拿的癸玺",
+        "onboard_time": 1748578880,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128585,
+        "num": 191206,
+        "word": "杭州巨型孙颖莎杂志海报",
+        "onboard_time": 1748577561,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191073,
+        "num": 191073,
+        "word": "游客新加坡酒店吃榴莲被罚千元",
+        "onboard_time": 1748578644,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64768,
+        "num": 189780,
+        "word": "朱迅回忆海拔4298米救人细节",
+        "onboard_time": 1748577501,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 140750,
+        "num": 189344,
+        "word": "银川烧烤店爆炸事故3人提供虚假证明",
+        "onboard_time": 1748579542,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189179,
+        "num": 189179,
+        "word": "断眉合伙人蒋一侨",
+        "onboard_time": 1748579301,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177285,
+        "num": 177285,
+        "word": "男子翻女友手机才发现小丑竟是自己",
+        "onboard_time": 1748562740,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176955,
+        "num": 176955,
+        "word": "阿汤哥坐跳楼机会睡着吧",
+        "onboard_time": 1748578341,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168222,
+        "num": 168222,
+        "word": "瑞幸咖啡降价",
+        "onboard_time": 1748579481,
+        "rank": 46,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 167792,
+        "num": 167792,
+        "word": "什么算是人生的顶级配置",
+        "onboard_time": 1748578161,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162008,
+        "num": 162008,
+        "word": "Faker录制视频祝贺Uzi",
+        "onboard_time": 1748579182,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161693,
+        "num": 161693,
+        "word": "关税",
+        "onboard_time": 1748565622,
+        "rank": 49,
+        "category": "国际时政,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励科技工作者的暖心瞬间#"
+    }
+  }
+}

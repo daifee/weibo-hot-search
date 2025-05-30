@@ -1,10 +1,10 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748577466598,
+  "endTime": 1748579552873,
   "band_list": [
     {
-      "raw_hot": 2569870,
-      "num": 2569870,
+      "raw_hot": 2573179,
+      "num": 2573179,
       "word": "断眉袭榜",
       "onboard_time": 1748574860,
       "rank": 4,
@@ -131,6 +131,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592456,
+      "num": 365987,
+      "word": "安倍晋三遗孀见普京哽咽落泪",
+      "onboard_time": 1748576420,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 568047,
+      "num": 568047,
+      "word": "社保交满最低缴费年限停止就亏大了",
+      "onboard_time": 1748578461,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 549407,
       "num": 420902,
       "word": "荣梓杉报平安",
@@ -145,6 +161,14 @@
       "onboard_time": 1748529083,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474000,
+      "num": 474000,
+      "word": "唇语专家解读马克龙与妻子吵了什么",
+      "onboard_time": 1748575762,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 473476,
@@ -187,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 423789,
-      "num": 195179,
-      "word": "安倍晋三遗孀见普京哽咽落泪",
-      "onboard_time": 1748576420,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 413360,
       "num": 433696,
       "word": "刘宇宁唱时间之子情感曲",
@@ -209,6 +225,14 @@
       "onboard_time": 1748574381,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 392251,
+      "num": 392251,
+      "word": "曝披荆斩棘5阵容",
+      "onboard_time": 1748577501,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 387891,
@@ -243,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342529,
+      "num": 342529,
+      "word": "肖战左腹",
+      "onboard_time": 1748576961,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 340594,
       "num": 340594,
       "word": "临江仙",
@@ -257,14 +289,6 @@
       "onboard_time": 1748572100,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320070,
-      "num": 362326,
-      "word": "唇语专家解读马克龙与妻子吵了什么",
-      "onboard_time": 1748575762,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 319809,
@@ -315,20 +339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279123,
+      "num": 279123,
+      "word": "莫离男主",
+      "onboard_time": 1748577200,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268281,
+      "num": 268281,
+      "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
+      "onboard_time": 1748575519,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267415,
       "num": 267415,
       "word": "小乔早产",
       "onboard_time": 1748529862,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266697,
-      "num": 266697,
-      "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
-      "onboard_time": 1748575519,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 261909,
@@ -360,6 +392,22 @@
       "word": "艺人李嘉琦回母校重庆大学开讲座",
       "onboard_time": 1748564062,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246987,
+      "num": 233057,
+      "word": "仙逆",
+      "onboard_time": 1748576901,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 246087,
+      "num": 268271,
+      "word": "丁程鑫北电毕业合照",
+      "onboard_time": 1748576901,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -411,6 +459,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 233229,
+      "num": 233229,
+      "word": "关晓彤王子奇终于演上同学了",
+      "onboard_time": 1748578282,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226950,
       "num": 226950,
       "word": "40万黄金被女子当垃圾丢了",
@@ -435,28 +491,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221991,
-      "num": 268271,
-      "word": "丁程鑫北电毕业合照",
-      "onboard_time": 1748576901,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 220647,
-      "num": 220647,
-      "word": "肖战左腹",
-      "onboard_time": 1748576961,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 219338,
       "num": 219338,
       "word": "陈震 YYP",
       "onboard_time": 1748525723,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 218797,
+      "num": 337055,
+      "word": "周深不唱歌的时候都在想梗",
+      "onboard_time": 1748579062,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 214177,
@@ -483,20 +531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203437,
-      "num": 193551,
-      "word": "仙逆",
-      "onboard_time": 1748576901,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 202446,
       "num": 202446,
       "word": "莫离原著盛世嫡妃",
       "onboard_time": 1748573900,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202303,
+      "num": 202303,
+      "word": "能接受自己孩子不结婚吗",
+      "onboard_time": 1748577022,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 199512,
@@ -531,19 +579,43 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 193749,
+      "num": 193749,
+      "word": "高考钉子户梁实考前发声",
+      "onboard_time": 1748577261,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191720,
+      "num": 191720,
+      "word": "皇帝派蒯铎拿的癸玺",
+      "onboard_time": 1748578880,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191073,
+      "num": 191073,
+      "word": "游客新加坡酒店吃榴莲被罚千元",
+      "onboard_time": 1748578644,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 189179,
+      "num": 189179,
+      "word": "断眉合伙人蒋一侨",
+      "onboard_time": 1748579301,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188509,
       "num": 188509,
       "word": "陈慧珊演林保怡第九人格的含金量",
       "onboard_time": 1748574621,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 184479,
-      "num": 184479,
-      "word": "莫离男主",
-      "onboard_time": 1748577200,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -569,6 +641,14 @@
       "onboard_time": 1748574381,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176955,
+      "num": 176955,
+      "word": "阿汤哥坐跳楼机会睡着吧",
+      "onboard_time": 1748578341,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 176843,
@@ -627,6 +707,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168222,
+      "num": 168222,
+      "word": "瑞幸咖啡降价",
+      "onboard_time": 1748579481,
+      "rank": 46,
+      "category": "美食,财经"
+    },
+    {
+      "raw_hot": 167792,
+      "num": 167792,
+      "word": "什么算是人生的顶级配置",
+      "onboard_time": 1748578161,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165998,
       "num": 165998,
       "word": "王俊凯说为国产动画配音很荣幸",
@@ -660,11 +756,19 @@
     },
     {
       "raw_hot": 162028,
-      "num": 219833,
+      "num": 241778,
       "word": "国际乒联将展开调查",
       "onboard_time": 1748574499,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162008,
+      "num": 162008,
+      "word": "Faker录制视频祝贺Uzi",
+      "onboard_time": 1748579182,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 158616,
@@ -771,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140750,
+      "num": 189344,
+      "word": "银川烧烤店爆炸事故3人提供虚假证明",
+      "onboard_time": 1748579542,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136175,
       "num": 136175,
       "word": "肖战要为入狱的侯爷一大哭",
@@ -795,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128585,
+      "num": 191206,
+      "word": "杭州巨型孙颖莎杂志海报",
+      "onboard_time": 1748577561,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126034,
       "num": 126034,
       "word": "人生就是壮壮妈",
@@ -817,6 +937,14 @@
       "onboard_time": 1748570299,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122066,
+      "num": 325720,
+      "word": "这个夏天陪你看世界",
+      "onboard_time": 1748578220,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 115411,
@@ -1059,6 +1187,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 78526,
+      "num": 342536,
+      "word": "美法官叫停哈佛禁招国际生政策",
+      "onboard_time": 1748577980,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78001,
       "num": 78001,
       "word": "老师 这边给您补偿5元您看可以吗",
@@ -1185,6 +1321,30 @@
       "onboard_time": 1748545334,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 64768,
+      "num": 189780,
+      "word": "朱迅回忆海拔4298米救人细节",
+      "onboard_time": 1748577501,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 60836,
+      "num": 243684,
+      "word": "我相信这回真的没剧本",
+      "onboard_time": 1748578040,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 59755,
+      "num": 239289,
+      "word": "用酒精擦拭电子设备会损伤屏幕吗",
+      "onboard_time": 1748578341,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 58720,
@@ -1379,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31649,
+      "num": 325450,
+      "word": "晚睡是怎样浪费褪黑素的",
+      "onboard_time": 1748578040,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30940,
       "num": 184437,
       "word": "张家界溶洞变成垃圾场",
@@ -1425,6 +1593,14 @@
       "onboard_time": 1748560998,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27114,
+      "num": 235131,
+      "word": "皮划艇被浪打翻男子海上漂流7小时",
+      "onboard_time": 1748578040,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26573,
@@ -1483,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17758,
+      "num": 238053,
+      "word": "天问二号在线找聊天搭子",
+      "onboard_time": 1748577321,
+      "rank": 27,
+      "category": "军事"
+    },
+    {
       "raw_hot": 17377,
       "num": 23682,
       "word": "官方回应高架疑车道减少致车辆高坠",
@@ -1537,14 +1721,6 @@
       "onboard_time": 1748549234,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 9042,
-      "num": 216709,
-      "word": "天问二号在线找聊天搭子",
-      "onboard_time": 1748577321,
-      "rank": 27,
-      "category": "军事"
     },
     {
       "raw_hot": 1972,
