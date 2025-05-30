@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748630107706,
+  "endTime": 1748630938355,
   "band_list": [
     {
       "raw_hot": 1065815,
@@ -491,7 +491,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15745,
+      "raw_hot": 21035,
+      "num": 29029,
+      "word": "王源唱完就去吃夜宵",
+      "onboard_time": 1748630594,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17471,
       "num": 33170,
       "word": "专家谈大学生恋爱意愿为何走低",
       "onboard_time": 1748629935,
@@ -507,7 +515,7 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 9390,
+      "raw_hot": 12208,
       "num": 37742,
       "word": "当你大学学了地理科学",
       "onboard_time": 1748629755,
