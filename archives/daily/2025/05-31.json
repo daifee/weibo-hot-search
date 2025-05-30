@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748625774160,
+  "endTime": 1748626875311,
   "band_list": [
     {
       "raw_hot": 1065815,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106132,
+      "num": 115582,
+      "word": "清华回应中学生登珠峰能否保送",
+      "onboard_time": 1748603600,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 97542,
       "num": 115657,
       "word": "台湾青年因为肖战想去重庆",
@@ -281,14 +289,6 @@
       "onboard_time": 1748618123,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83154,
-      "num": 115582,
-      "word": "清华回应中学生登珠峰能否保送",
-      "onboard_time": 1748603600,
-      "rank": 39,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 81825,
@@ -347,7 +347,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56195,
+      "raw_hot": 57878,
       "num": 70912,
       "word": "端午假期第一天",
       "onboard_time": 1748617283,
@@ -449,6 +449,22 @@
       "onboard_time": 1748622980,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30356,
+      "num": 51987,
+      "word": "林峯堂妹回应破产传闻",
+      "onboard_time": 1748626696,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23800,
+      "num": 51694,
+      "word": "一人一牛用200万块石头徒手修港",
+      "onboard_time": 1748626397,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13952,

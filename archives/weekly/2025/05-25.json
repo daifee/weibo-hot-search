@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748625774160,
+  "endTime": 1748626875311,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -19531,6 +19531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57878,
+      "num": 70912,
+      "word": "端午假期第一天",
+      "onboard_time": 1748617283,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 57830,
       "num": 516351,
       "word": "肠道真的有胖子菌和瘦子菌吗",
@@ -19673,14 +19681,6 @@
       "onboard_time": 1748514080,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 56195,
-      "num": 70912,
-      "word": "端午假期第一天",
-      "onboard_time": 1748617283,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 56184,
@@ -21811,6 +21811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 30356,
+      "num": 51987,
+      "word": "林峯堂妹回应破产传闻",
+      "onboard_time": 1748626696,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30313,
       "num": 274226,
       "word": "氡气的危害",
@@ -22529,6 +22537,14 @@
       "onboard_time": 1748406984,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23800,
+      "num": 51694,
+      "word": "一人一牛用200万块石头徒手修港",
+      "onboard_time": 1748626397,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23794,
