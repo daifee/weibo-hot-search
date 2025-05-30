@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748612810967,
+  "endTime": 1748615165740,
   "band_list": [
     {
       "raw_hot": 9663660,
@@ -8,6 +8,14 @@
       "word": "歌手直播",
       "onboard_time": 1748606182,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6099400,
+      "num": 6099400,
+      "word": "歌手排名",
+      "onboard_time": 1748614467,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -27,7 +35,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3350264,
+      "raw_hot": 3869708,
+      "num": 2496802,
+      "word": "兵马俑被砸烂了",
+      "onboard_time": 1748612308,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3436909,
       "num": 3350264,
       "word": "马嘉祺 校园歌手大赛",
       "onboard_time": 1748610804,
@@ -51,12 +67,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2496802,
-      "num": 2496802,
-      "word": "兵马俑被砸烂了",
-      "onboard_time": 1748612308,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 2530109,
+      "num": 285409,
+      "word": "马嘉祺被做局了",
+      "onboard_time": 1748612129,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 2487100,
@@ -91,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2075095,
+      "num": 388840,
+      "word": "Attention改编 放水",
+      "onboard_time": 1748613205,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1792354,
       "num": 1792354,
       "word": "银川烧烤店31死爆炸案宣判",
@@ -104,6 +128,14 @@
       "word": "断眉投票 马嘉祺",
       "onboard_time": 1748587881,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1634367,
+      "num": 275864,
+      "word": "单依纯选歌",
+      "onboard_time": 1748613267,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -275,12 +307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 839404,
+      "num": 839404,
+      "word": "派出所回应男子掉进兵马俑俑坑中",
+      "onboard_time": 1748612667,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 791291,
       "num": 791291,
       "word": "王楚钦回应球拍2次受损",
       "onboard_time": 1748611284,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 790108,
+      "num": 260306,
+      "word": "黄杨钿甜已拿到三家名校合格证",
+      "onboard_time": 1748614047,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 754380,
@@ -312,14 +360,6 @@
       "word": "GAI主动第一个登场",
       "onboard_time": 1748608344,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 719680,
-      "num": 270464,
-      "word": "马嘉祺被做局了",
-      "onboard_time": 1748612129,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -569,6 +609,14 @@
       "onboard_time": 1748534361,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423338,
+      "num": 252352,
+      "word": "GAI唱完哭了",
+      "onboard_time": 1748612910,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 420977,
@@ -827,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273962,
+      "num": 249185,
+      "word": "attention",
+      "onboard_time": 1748613205,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273121,
       "num": 376477,
       "word": "尊界S800座舱太大太尊了",
@@ -849,6 +905,14 @@
       "onboard_time": 1748529862,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265068,
+      "num": 265068,
+      "word": "尊界S800价格",
+      "onboard_time": 1748613805,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 261909,
@@ -907,12 +971,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252744,
+      "num": 247368,
+      "word": "林志炫用现场直面质疑",
+      "onboard_time": 1748614708,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 248491,
       "num": 238759,
       "word": "范丞丞成了跑男成败的关键",
       "onboard_time": 1748608944,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248115,
+      "num": 248115,
+      "word": "山东郓城落水事故情况通报",
+      "onboard_time": 1748613147,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247390,
@@ -953,6 +1033,14 @@
       "onboard_time": 1748579301,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243233,
+      "num": 243233,
+      "word": "山东郓城一公司多人落入清洗池",
+      "onboard_time": 1748613267,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242953,
@@ -1072,6 +1160,14 @@
       "word": "谁来给黄景瑜金晨递个本子",
       "onboard_time": 1748574020,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222602,
+      "num": 254576,
+      "word": "奔跑吧替莫离官宣丞磊",
+      "onboard_time": 1748613626,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1227,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201672,
+      "num": 201672,
+      "word": "王楚钦说努力克服用备用球拍出战",
+      "onboard_time": 1748614227,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201426,
       "num": 201426,
       "word": "歌手",
@@ -1275,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197649,
+      "num": 197649,
+      "word": "何炅直呼主持人的命也是命",
+      "onboard_time": 1748613029,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196947,
       "num": 196947,
       "word": "比亚迪回应被指汽车圈恒大",
@@ -1311,6 +1423,14 @@
       "num": 195112,
       "word": "eStar易峥官宣离队",
       "onboard_time": 1748582722,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 194648,
+      "num": 194648,
+      "word": "AG春季赛夺冠纪录片",
+      "onboard_time": 1748614167,
       "rank": 49,
       "category": "电竞"
     },
@@ -1361,6 +1481,14 @@
       "onboard_time": 1748578644,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 190135,
+      "num": 224560,
+      "word": "山东郓城一企业发生事故已致5死",
+      "onboard_time": 1748613267,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 189860,
@@ -1675,6 +1803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167045,
+      "num": 260980,
+      "word": "尊界S800豪门座驾",
+      "onboard_time": 1748614648,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 166226,
       "num": 166226,
       "word": "仙逆剧场版",
@@ -1713,14 +1849,6 @@
       "onboard_time": 1748603480,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164315,
-      "num": 233326,
-      "word": "派出所回应男子掉进兵马俑俑坑中",
-      "onboard_time": 1748612667,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163757,
@@ -2523,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100843,
+      "num": 272121,
+      "word": "1960元买2张演唱会票竟是铁窗泪",
+      "onboard_time": 1748606962,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100681,
       "num": 100681,
       "word": "藏海才是高段位复仇",
@@ -2699,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90642,
+      "num": 251254,
+      "word": "宋雨琦圆了横店梦",
+      "onboard_time": 1748615131,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90343,
       "num": 146805,
       "word": "网信部门整治短视频恶意营销乱象",
@@ -2723,20 +2867,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88112,
-      "num": 272121,
-      "word": "1960元买2张演唱会票竟是铁窗泪",
-      "onboard_time": 1748606962,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87524,
       "num": 242463,
       "word": "白鹿跑男宝娟嗓",
       "onboard_time": 1748600299,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87331,
+      "num": 256253,
+      "word": "00后看着手机自动输入密码转走钱",
+      "onboard_time": 1748614106,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87030,
@@ -3115,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60320,
+      "num": 257893,
+      "word": "尊界S800引领时代的顶级驾控",
+      "onboard_time": 1748612969,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 59755,
       "num": 239289,
       "word": "用酒精擦拭电子设备会损伤屏幕吗",
@@ -3227,12 +3379,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53035,
+      "num": 248448,
+      "word": "研究表明非洲或正一分为二",
+      "onboard_time": 1748614350,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 52959,
       "num": 188289,
       "word": "普京莫斯科会见安倍晋三遗孀",
       "onboard_time": 1748596220,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52723,
+      "num": 261754,
+      "word": "目击者称男子推倒兵马俑倒地捂脸",
+      "onboard_time": 1748614467,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52217,
@@ -3355,6 +3523,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 47208,
+      "num": 262479,
+      "word": "为什么端午假期高速不免费",
+      "onboard_time": 1748613087,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45973,
       "num": 45973,
       "word": "藏海传火遍全球",
@@ -3456,6 +3632,14 @@
       "word": "救人的女辅警找到了",
       "onboard_time": 1748573721,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40309,
+      "num": 300817,
+      "word": "兵马俑受损等情况正在调查中",
+      "onboard_time": 1748614589,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3739,6 +3923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 22577,
+      "num": 255086,
+      "word": "大家端午节都发了什么",
+      "onboard_time": 1748614106,
+      "rank": 29,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 22571,
       "num": 606661,
       "word": "让精彩民俗游持续助燃文旅消费热",
@@ -3995,7 +4187,15 @@
       "category": "美食"
     },
     {
-      "raw_hot": 4351,
+      "raw_hot": 10504,
+      "num": 256927,
+      "word": "拒绝刷脸后服务受限怎么办",
+      "onboard_time": 1748613446,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7214,
       "num": 2533096,
       "word": "万千气象看四川",
       "onboard_time": 1748272763,

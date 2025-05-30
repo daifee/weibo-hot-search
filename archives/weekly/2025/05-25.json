@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748612810967,
+  "endTime": 1748615165740,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6099400,
+      "num": 6099400,
+      "word": "歌手排名",
+      "onboard_time": 1748614467,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5046850,
       "num": 5046850,
       "word": "孙颖莎vs王曼昱",
@@ -67,7 +75,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3350264,
+      "raw_hot": 3869708,
+      "num": 2496802,
+      "word": "兵马俑被砸烂了",
+      "onboard_time": 1748612308,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3436909,
       "num": 3350264,
       "word": "马嘉祺 校园歌手大赛",
       "onboard_time": 1748610804,
@@ -139,20 +155,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2530109,
+      "num": 285409,
+      "word": "马嘉祺被做局了",
+      "onboard_time": 1748612129,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2509920,
       "num": 2509920,
       "word": "王曼昱蒯曼冠军",
       "onboard_time": 1748182405,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2496802,
-      "num": 2496802,
-      "word": "兵马俑被砸烂了",
-      "onboard_time": 1748612308,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2487100,
@@ -249,6 +265,14 @@
       "onboard_time": 1748523621,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2075095,
+      "num": 388840,
+      "word": "Attention改编 放水",
+      "onboard_time": 1748613205,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 2041670,
@@ -401,6 +425,14 @@
       "onboard_time": 1748436801,
       "rank": 13,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1634367,
+      "num": 275864,
+      "word": "单依纯选歌",
+      "onboard_time": 1748613267,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1629209,
@@ -1515,6 +1547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 839404,
+      "num": 839404,
+      "word": "派出所回应男子掉进兵马俑俑坑中",
+      "onboard_time": 1748612667,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 837976,
       "num": 837976,
       "word": "朴槿惠力挺韩国总统候选人金文洙",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1748611284,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 790108,
+      "num": 260306,
+      "word": "黄杨钿甜已拿到三家名校合格证",
+      "onboard_time": 1748614047,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 789913,
@@ -2049,14 +2097,6 @@
       "onboard_time": 1748246902,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 719680,
-      "num": 270464,
-      "word": "马嘉祺被做局了",
-      "onboard_time": 1748612129,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 719441,
@@ -3817,6 +3857,14 @@
       "onboard_time": 1748324962,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 423338,
+      "num": 252352,
+      "word": "GAI唱完哭了",
+      "onboard_time": 1748612910,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 421206,
@@ -5667,6 +5715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273962,
+      "num": 249185,
+      "word": "attention",
+      "onboard_time": 1748613205,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273813,
       "num": 375412,
       "word": "折腰",
@@ -5833,6 +5889,14 @@
       "onboard_time": 1748501660,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265068,
+      "num": 265068,
+      "word": "尊界S800价格",
+      "onboard_time": 1748613805,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 264866,
@@ -6155,6 +6219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 252744,
+      "num": 247368,
+      "word": "林志炫用现场直面质疑",
+      "onboard_time": 1748614708,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 252240,
       "num": 318717,
       "word": "刘宇宁给迪丽热巴整上主题曲了",
@@ -6257,6 +6329,14 @@
       "onboard_time": 1748170942,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248115,
+      "num": 248115,
+      "word": "山东郓城落水事故情况通报",
+      "onboard_time": 1748613147,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247390,
@@ -6401,6 +6481,14 @@
       "onboard_time": 1748173342,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243233,
+      "num": 243233,
+      "word": "山东郓城一公司多人落入清洗池",
+      "onboard_time": 1748613267,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243018,
@@ -6913,6 +7001,14 @@
       "onboard_time": 1748493022,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222602,
+      "num": 254576,
+      "word": "奔跑吧替莫离官宣丞磊",
+      "onboard_time": 1748613626,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 222410,
@@ -7875,6 +7971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201672,
+      "num": 201672,
+      "word": "王楚钦说努力克服用备用球拍出战",
+      "onboard_time": 1748614227,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201544,
       "num": 201544,
       "word": "王安宇好像杨超越的白磷",
@@ -8171,6 +8275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197649,
+      "num": 197649,
+      "word": "何炅直呼主持人的命也是命",
+      "onboard_time": 1748613029,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197544,
       "num": 197544,
       "word": "警方通报17岁女生失踪月余坠江",
@@ -8433,6 +8545,14 @@
       "onboard_time": 1748520201,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194648,
+      "num": 194648,
+      "word": "AG春季赛夺冠纪录片",
+      "onboard_time": 1748614167,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 194608,
@@ -8825,6 +8945,14 @@
       "onboard_time": 1748317221,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190135,
+      "num": 224560,
+      "word": "山东郓城一企业发生事故已致5死",
+      "onboard_time": 1748613267,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 190118,
@@ -10811,6 +10939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167045,
+      "num": 260980,
+      "word": "尊界S800豪门座驾",
+      "onboard_time": 1748614648,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 166975,
       "num": 166975,
       "word": "杨紫二提白玉兰",
@@ -11089,14 +11225,6 @@
       "onboard_time": 1748440403,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 164315,
-      "num": 233326,
-      "word": "派出所回应男子掉进兵马俑俑坑中",
-      "onboard_time": 1748612667,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164291,
@@ -16483,6 +16611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100843,
+      "num": 272121,
+      "word": "1960元买2张演唱会票竟是铁窗泪",
+      "onboard_time": 1748606962,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100681,
       "num": 100681,
       "word": "藏海才是高段位复仇",
@@ -17179,6 +17315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 90642,
+      "num": 251254,
+      "word": "宋雨琦圆了横店梦",
+      "onboard_time": 1748615131,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90343,
       "num": 146805,
       "word": "网信部门整治短视频恶意营销乱象",
@@ -17275,14 +17419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 88112,
-      "num": 272121,
-      "word": "1960元买2张演唱会票竟是铁窗泪",
-      "onboard_time": 1748606962,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88058,
       "num": 187431,
       "word": "正确洗头的流程是什么",
@@ -17345,6 +17481,14 @@
       "onboard_time": 1748492961,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87331,
+      "num": 256253,
+      "word": "00后看着手机自动输入密码转走钱",
+      "onboard_time": 1748614106,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87230,
@@ -18907,6 +19051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60320,
+      "num": 257893,
+      "word": "尊界S800引领时代的顶级驾控",
+      "onboard_time": 1748612969,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60307,
       "num": 263069,
       "word": "中医冰淇淋更健康吗",
@@ -19499,6 +19651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53035,
+      "num": 248448,
+      "word": "研究表明非洲或正一分为二",
+      "onboard_time": 1748614350,
+      "rank": 39,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 52964,
       "num": 52964,
       "word": "再次祝贺孙颖莎王楚钦王曼昱蒯曼",
@@ -19513,6 +19673,14 @@
       "onboard_time": 1748596220,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52723,
+      "num": 261754,
+      "word": "目击者称男子推倒兵马俑倒地捂脸",
+      "onboard_time": 1748614467,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52423,
@@ -19873,6 +20041,14 @@
       "onboard_time": 1748610324,
       "rank": 31,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 47208,
+      "num": 262479,
+      "word": "为什么端午假期高速不免费",
+      "onboard_time": 1748613087,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47158,
@@ -20473,6 +20649,14 @@
       "onboard_time": 1748318782,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 40309,
+      "num": 300817,
+      "word": "兵马俑受损等情况正在调查中",
+      "onboard_time": 1748614589,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40307,
@@ -22123,6 +22307,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 22577,
+      "num": 255086,
+      "word": "大家端午节都发了什么",
+      "onboard_time": 1748614106,
+      "rank": 29,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 22519,
       "num": 31936,
       "word": "幸福的真谛是别把日子过反了",
@@ -23329,6 +23521,14 @@
       "onboard_time": 1748590280,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 10504,
+      "num": 256927,
+      "word": "拒绝刷脸后服务受限怎么办",
+      "onboard_time": 1748613446,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10494,
