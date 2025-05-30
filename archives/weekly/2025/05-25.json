@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748580397920,
+  "endTime": 1748582750584,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1524710,
+      "num": 1524710,
+      "word": "瑞幸咖啡降价",
+      "onboard_time": 1748579481,
+      "rank": 46,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 1488069,
       "num": 414041,
       "word": "正午阳光",
@@ -657,6 +665,14 @@
       "onboard_time": 1748129298,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1291925,
+      "num": 353456,
+      "word": "婚内强奸案当事人申请国家赔偿33万",
+      "onboard_time": 1748580862,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1284259,
@@ -2475,14 +2491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 565939,
-      "num": 565939,
-      "word": "瑞幸咖啡降价",
-      "onboard_time": 1748579481,
-      "rank": 46,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 564756,
       "num": 562145,
       "word": "女单冠亚季军自拍来了",
@@ -2609,6 +2617,14 @@
       "onboard_time": 1748183186,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 546284,
+      "num": 353158,
+      "word": "李嘉琦自曝曾因被骂太丑蹲寝室大哭",
+      "onboard_time": 1748580862,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 543892,
@@ -2833,6 +2849,14 @@
       "onboard_time": 1748349381,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 503950,
+      "num": 503950,
+      "word": "曝披荆斩棘5阵容",
+      "onboard_time": 1748577501,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 503797,
@@ -3507,14 +3531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 419412,
-      "num": 419412,
-      "word": "曝披荆斩棘5阵容",
-      "onboard_time": 1748577501,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 418248,
       "num": 418248,
       "word": "歌手第三期音源",
@@ -4161,6 +4177,14 @@
       "onboard_time": 1748523083,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 352687,
+      "num": 352687,
+      "word": "高考钉子户梁实考前发声",
+      "onboard_time": 1748577261,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352330,
@@ -5075,6 +5099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280852,
+      "num": 271681,
+      "word": "歌手投票",
+      "onboard_time": 1748580682,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280749,
       "num": 250727,
       "word": "我的阿勒泰等10部剧入围白玉兰奖",
@@ -5147,12 +5179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277721,
+      "num": 240325,
+      "word": "能接受自己孩子不结婚吗",
+      "onboard_time": 1748577022,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277319,
       "num": 277319,
       "word": "庄二被霸凌",
       "onboard_time": 1748253502,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276954,
+      "num": 276954,
+      "word": "张真源毕业",
+      "onboard_time": 1748582301,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 276490,
@@ -5353,6 +5401,14 @@
       "onboard_time": 1748230642,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 265719,
+      "num": 265719,
+      "word": "关晓彤王子奇终于演上同学了",
+      "onboard_time": 1748578282,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 265373,
@@ -5779,14 +5835,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 246456,
-      "num": 246456,
-      "word": "关晓彤王子奇终于演上同学了",
-      "onboard_time": 1748578282,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246087,
       "num": 268271,
       "word": "丁程鑫北电毕业合照",
@@ -5868,7 +5916,7 @@
     },
     {
       "raw_hot": 243429,
-      "num": 243429,
+      "num": 246893,
       "word": "断眉合伙人蒋一侨",
       "onboard_time": 1748579301,
       "rank": 43,
@@ -6009,6 +6057,14 @@
       "onboard_time": 1748350401,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237969,
+      "num": 237969,
+      "word": "Labubu会凉吗",
+      "onboard_time": 1748579963,
+      "rank": 37,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 237677,
@@ -6289,14 +6345,6 @@
       "onboard_time": 1748179709,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226732,
-      "num": 226732,
-      "word": "高考钉子户梁实考前发声",
-      "onboard_time": 1748577261,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226303,
@@ -6587,6 +6635,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 215511,
+      "num": 215511,
+      "word": "陈雨菲横扫安洗莹",
+      "onboard_time": 1748582000,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215386,
       "num": 215386,
       "word": "落马官员只收高档烟酒称不算受贿",
@@ -6784,6 +6840,14 @@
       "word": "肖战回复沙宝亮",
       "onboard_time": 1748128637,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210424,
+      "num": 210424,
+      "word": "张凌赫穿背心做陶艺",
+      "onboard_time": 1748581940,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -7179,6 +7243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202784,
+      "num": 202784,
+      "word": "KPL夏季赛大名单",
+      "onboard_time": 1748581821,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202680,
       "num": 202680,
       "word": "赵奕欢谁能捧捧我的经纪人",
@@ -7217,14 +7289,6 @@
       "onboard_time": 1748499442,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 202303,
-      "num": 202303,
-      "word": "能接受自己孩子不结婚吗",
-      "onboard_time": 1748577022,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 201725,
@@ -7755,14 +7819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194689,
-      "num": 194689,
-      "word": "Labubu会凉吗",
-      "onboard_time": 1748579963,
-      "rank": 37,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 194608,
       "num": 204686,
       "word": "官服藏海",
@@ -7907,12 +7963,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 192581,
+      "num": 218764,
+      "word": "主力带娃的二胎爸爸产后抑郁了",
+      "onboard_time": 1748580021,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192537,
       "num": 192537,
       "word": "减肥40斤直观差距",
       "onboard_time": 1748233703,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 192312,
+      "num": 192312,
+      "word": "蔡依林新专首支MV预告",
+      "onboard_time": 1748582181,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 192308,
@@ -9459,6 +9531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172552,
+      "num": 172552,
+      "word": "易峥退役",
+      "onboard_time": 1748582601,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172517,
       "num": 172517,
       "word": "Irene涩琪回归MV",
@@ -10019,6 +10099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165904,
+      "num": 165904,
+      "word": "敖子逸折腰下跪哭戏",
+      "onboard_time": 1748581041,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165878,
       "num": 165878,
       "word": "一旅客违规携带230万美金入境",
@@ -10265,14 +10353,6 @@
       "onboard_time": 1748337322,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 163385,
-      "num": 218764,
-      "word": "主力带娃的二胎爸爸产后抑郁了",
-      "onboard_time": 1748580021,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163348,
@@ -11441,6 +11521,14 @@
       "onboard_time": 1748443402,
       "rank": 48,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 149299,
+      "num": 149299,
+      "word": "eStar易峥官宣离队",
+      "onboard_time": 1748582722,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 149203,
@@ -13331,6 +13419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127727,
+      "num": 256825,
+      "word": "平津侯用庄二的刀自尽",
+      "onboard_time": 1748582122,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127599,
       "num": 908487,
       "word": "300万商铺征收补偿仅189万政府被起诉",
@@ -14241,6 +14337,14 @@
       "onboard_time": 1748220682,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114041,
+      "num": 353849,
+      "word": "考王梁实谈2025年高考",
+      "onboard_time": 1748581880,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 113999,
@@ -15371,6 +15475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96258,
+      "num": 195171,
+      "word": "庄大被挖的是膝盖还是脑子",
+      "onboard_time": 1748582421,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96139,
       "num": 259354,
       "word": "救下4名老人女子还原事发经过",
@@ -15945,6 +16057,14 @@
       "onboard_time": 1748167222,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84062,
+      "num": 278212,
+      "word": "华为乾崑的多彩智野美学",
+      "onboard_time": 1748581641,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 84023,
@@ -18019,6 +18139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48493,
+      "num": 277033,
+      "word": "济南5元快餐店老板回应是否亏钱",
+      "onboard_time": 1748581522,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48471,
       "num": 277984,
       "word": "为什么女装行业的退货率普遍较高",
@@ -18715,6 +18843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38749,
+      "num": 277145,
+      "word": "在家靠父母购物靠补贴",
+      "onboard_time": 1748581641,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 38703,
       "num": 162027,
       "word": "你的朋友圈好久没有提及你的快乐了",
@@ -19291,6 +19427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30936,
+      "num": 253212,
+      "word": "金灿荣说网民凭啥不能拿印度逗乐",
+      "onboard_time": 1748581581,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30880,
       "num": 211322,
       "word": "夏天自己清洗空调节约300",
@@ -19627,6 +19771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27675,
+      "num": 248730,
+      "word": "特朗普在社交平台上避免提及马斯克",
+      "onboard_time": 1748581581,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27601,
       "num": 156166,
       "word": "宋雨琦摩天轮大片",
@@ -19897,6 +20049,14 @@
       "onboard_time": 1748355142,
       "rank": 39,
       "category": "休闲,数码"
+    },
+    {
+      "raw_hot": 24604,
+      "num": 251692,
+      "word": "养孩子都有哪些误区",
+      "onboard_time": 1748581340,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 24504,

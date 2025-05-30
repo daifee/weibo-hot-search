@@ -1,0 +1,410 @@
+{
+  "runTime": 1748582750584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1987014,
+        "num": 1987014,
+        "word": "断眉袭榜",
+        "onboard_time": 1748574860,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1524710,
+        "num": 1524710,
+        "word": "瑞幸咖啡降价",
+        "onboard_time": 1748579481,
+        "rank": 1,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 327,
+        "num": 1160381,
+        "word": "世界市长对话上海",
+        "onboard_time": 1748525422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 834057,
+        "num": 834057,
+        "word": "银川烧烤店31死爆炸案宣判",
+        "onboard_time": 1748573841,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 698239,
+        "num": 698239,
+        "word": "社保交满最低缴费年限停止就亏大了",
+        "onboard_time": 1748578461,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596422,
+        "num": 596422,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 5,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 586519,
+        "num": 586519,
+        "word": "丁程鑫毕业",
+        "onboard_time": 1748576001,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503950,
+        "num": 503950,
+        "word": "曝披荆斩棘5阵容",
+        "onboard_time": 1748577501,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353890,
+        "num": 353890,
+        "word": "胖东来红内裤事件案宣判",
+        "onboard_time": 1748565920,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114041,
+        "num": 353849,
+        "word": "考王梁实谈2025年高考",
+        "onboard_time": 1748581880,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1291925,
+        "num": 353456,
+        "word": "婚内强奸案当事人申请国家赔偿33万",
+        "onboard_time": 1748580862,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 920444,
+        "num": 353372,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546284,
+        "num": 353158,
+        "word": "李嘉琦自曝曾因被骂太丑蹲寝室大哭",
+        "onboard_time": 1748580862,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399332,
+        "num": 352744,
+        "word": "安倍晋三遗孀见普京哽咽落泪",
+        "onboard_time": 1748576420,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352687,
+        "num": 352687,
+        "word": "高考钉子户梁实考前发声",
+        "onboard_time": 1748577261,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315497,
+        "num": 315497,
+        "word": "唇语专家解读马克龙与妻子吵了什么",
+        "onboard_time": 1748575762,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307480,
+        "num": 307480,
+        "word": "藏海传 横店大雪",
+        "onboard_time": 1748574381,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84062,
+        "num": 278212,
+        "word": "华为乾崑的多彩智野美学",
+        "onboard_time": 1748581641,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38749,
+        "num": 277145,
+        "word": "在家靠父母购物靠补贴",
+        "onboard_time": 1748581641,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48493,
+        "num": 277033,
+        "word": "济南5元快餐店老板回应是否亏钱",
+        "onboard_time": 1748581522,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276954,
+        "num": 276954,
+        "word": "张真源毕业",
+        "onboard_time": 1748582301,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280852,
+        "num": 271681,
+        "word": "歌手投票",
+        "onboard_time": 1748580682,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265719,
+        "num": 265719,
+        "word": "关晓彤王子奇终于演上同学了",
+        "onboard_time": 1748578282,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228928,
+        "num": 264526,
+        "word": "莫离男主",
+        "onboard_time": 1748577200,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210997,
+        "num": 262587,
+        "word": "段某被判赔偿胖东来40万元",
+        "onboard_time": 1748573301,
+        "rank": 24,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 309627,
+        "num": 259740,
+        "word": "银川烧烤店爆炸致31死案15人获刑",
+        "onboard_time": 1748574020,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127727,
+        "num": 256825,
+        "word": "平津侯用庄二的刀自尽",
+        "onboard_time": 1748582122,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30936,
+        "num": 253212,
+        "word": "金灿荣说网民凭啥不能拿印度逗乐",
+        "onboard_time": 1748581581,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24604,
+        "num": 251692,
+        "word": "养孩子都有哪些误区",
+        "onboard_time": 1748581340,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27675,
+        "num": 248730,
+        "word": "特朗普在社交平台上避免提及马斯克",
+        "onboard_time": 1748581581,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224779,
+        "num": 246893,
+        "word": "断眉合伙人蒋一侨",
+        "onboard_time": 1748579301,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93885,
+        "num": 243525,
+        "word": "这个夏天陪你看世界",
+        "onboard_time": 1748578220,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 303173,
+        "num": 240579,
+        "word": "肖战左腹",
+        "onboard_time": 1748576961,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277721,
+        "num": 240325,
+        "word": "能接受自己孩子不结婚吗",
+        "onboard_time": 1748577022,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237969,
+        "num": 237969,
+        "word": "Labubu会凉吗",
+        "onboard_time": 1748579963,
+        "rank": 34,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 215511,
+        "num": 215511,
+        "word": "陈雨菲横扫安洗莹",
+        "onboard_time": 1748582000,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210424,
+        "num": 210424,
+        "word": "张凌赫穿背心做陶艺",
+        "onboard_time": 1748581940,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202784,
+        "num": 202784,
+        "word": "KPL夏季赛大名单",
+        "onboard_time": 1748581821,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96258,
+        "num": 195171,
+        "word": "庄大被挖的是膝盖还是脑子",
+        "onboard_time": 1748582421,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192581,
+        "num": 192581,
+        "word": "主力带娃的二胎爸爸产后抑郁了",
+        "onboard_time": 1748580021,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192312,
+        "num": 192312,
+        "word": "蔡依林新专首支MV预告",
+        "onboard_time": 1748582181,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181508,
+        "num": 181508,
+        "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
+        "onboard_time": 1748575519,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180816,
+        "num": 180816,
+        "word": "TFBOYS为王俊凯电影打call",
+        "onboard_time": 1748580262,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176890,
+        "num": 176890,
+        "word": "沈月中餐厅ootd",
+        "onboard_time": 1748570239,
+        "rank": 43,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 175636,
+        "num": 175636,
+        "word": "身价百亿毛巾少爷转行卖咖啡",
+        "onboard_time": 1748575401,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172552,
+        "num": 172552,
+        "word": "易峥退役",
+        "onboard_time": 1748582601,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172524,
+        "num": 172524,
+        "word": "中方回应印度得到一枚未爆炸中国导弹",
+        "onboard_time": 1748564482,
+        "rank": 46,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 165904,
+        "num": 165904,
+        "word": "敖子逸折腰下跪哭戏",
+        "onboard_time": 1748581041,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162758,
+        "num": 162758,
+        "word": "刘宇宁唱时间之子情感曲",
+        "onboard_time": 1748573060,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149299,
+        "num": 149299,
+        "word": "eStar易峥官宣离队",
+        "onboard_time": 1748582722,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励科技工作者的暖心瞬间#"
+    }
+  }
+}

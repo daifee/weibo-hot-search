@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748580397920,
+  "endTime": 1748582750584,
   "band_list": [
     {
       "raw_hot": 2610467,
@@ -35,6 +35,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1524710,
+      "num": 1524710,
+      "word": "瑞幸咖啡降价",
+      "onboard_time": 1748579481,
+      "rank": 46,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 1435106,
       "num": 1096127,
       "word": "工资5000三年无痛存下12万",
@@ -48,6 +56,14 @@
       "word": "银川烧烤店爆炸致31死案15人获刑",
       "onboard_time": 1748574020,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1291925,
+      "num": 353456,
+      "word": "婚内强奸案当事人申请国家赔偿33万",
+      "onboard_time": 1748580862,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -147,20 +163,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 565939,
-      "num": 565939,
-      "word": "瑞幸咖啡降价",
-      "onboard_time": 1748579481,
-      "rank": 46,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 549407,
       "num": 420902,
       "word": "荣梓杉报平安",
       "onboard_time": 1748570060,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546284,
+      "num": 353158,
+      "word": "李嘉琦自曝曾因被骂太丑蹲寝室大哭",
+      "onboard_time": 1748580862,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 503950,
+      "num": 503950,
+      "word": "曝披荆斩棘5阵容",
+      "onboard_time": 1748577501,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 503797,
@@ -219,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 419412,
-      "num": 419412,
-      "word": "曝披荆斩棘5阵容",
-      "onboard_time": 1748577501,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 413360,
       "num": 433696,
       "word": "刘宇宁唱时间之子情感曲",
@@ -273,6 +289,14 @@
       "onboard_time": 1748522061,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352687,
+      "num": 352687,
+      "word": "高考钉子户梁实考前发声",
+      "onboard_time": 1748577261,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 342529,
@@ -347,12 +371,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280852,
+      "num": 271681,
+      "word": "歌手投票",
+      "onboard_time": 1748580682,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279123,
       "num": 279123,
       "word": "莫离男主",
       "onboard_time": 1748577200,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277721,
+      "num": 240325,
+      "word": "能接受自己孩子不结婚吗",
+      "onboard_time": 1748577022,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 276954,
+      "num": 276954,
+      "word": "张真源毕业",
+      "onboard_time": 1748582301,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 268281,
@@ -368,6 +416,14 @@
       "word": "小乔早产",
       "onboard_time": 1748529862,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 265719,
+      "num": 265719,
+      "word": "关晓彤王子奇终于演上同学了",
+      "onboard_time": 1748578282,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -411,14 +467,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 246456,
-      "num": 246456,
-      "word": "关晓彤王子奇终于演上同学了",
-      "onboard_time": 1748578282,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246087,
       "num": 268271,
       "word": "丁程鑫北电毕业合照",
@@ -428,7 +476,7 @@
     },
     {
       "raw_hot": 243429,
-      "num": 243429,
+      "num": 246893,
       "word": "断眉合伙人蒋一侨",
       "onboard_time": 1748579301,
       "rank": 43,
@@ -457,6 +505,14 @@
       "onboard_time": 1748517140,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 237969,
+      "num": 237969,
+      "word": "Labubu会凉吗",
+      "onboard_time": 1748579963,
+      "rank": 37,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 237258,
@@ -488,14 +544,6 @@
       "word": "40万黄金被女子当垃圾丢了",
       "onboard_time": 1748519301,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226732,
-      "num": 226732,
-      "word": "高考钉子户梁实考前发声",
-      "onboard_time": 1748577261,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -539,12 +587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215511,
+      "num": 215511,
+      "word": "陈雨菲横扫安洗莹",
+      "onboard_time": 1748582000,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214177,
       "num": 214177,
       "word": "两个小段判赔胖东来40万道歉30天",
       "onboard_time": 1748564661,
       "rank": 15,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 210424,
+      "num": 210424,
+      "word": "张凌赫穿背心做陶艺",
+      "onboard_time": 1748581940,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 209202,
@@ -563,20 +627,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202784,
+      "num": 202784,
+      "word": "KPL夏季赛大名单",
+      "onboard_time": 1748581821,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202446,
       "num": 202446,
       "word": "莫离原著盛世嫡妃",
       "onboard_time": 1748573900,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202303,
-      "num": 202303,
-      "word": "能接受自己孩子不结婚吗",
-      "onboard_time": 1748577022,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 199512,
@@ -603,20 +667,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194689,
-      "num": 194689,
-      "word": "Labubu会凉吗",
-      "onboard_time": 1748579963,
-      "rank": 37,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 194560,
       "num": 194560,
       "word": "把高三妹妹接到清华一起生活",
       "onboard_time": 1748573181,
       "rank": 35,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 192581,
+      "num": 218764,
+      "word": "主力带娃的二胎爸爸产后抑郁了",
+      "onboard_time": 1748580021,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192312,
+      "num": 192312,
+      "word": "蔡依林新专首支MV预告",
+      "onboard_time": 1748582181,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 191720,
@@ -723,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172552,
+      "num": 172552,
+      "word": "易峥退役",
+      "onboard_time": 1748582601,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171514,
       "num": 171514,
       "word": "傀影异格",
@@ -771,6 +851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165904,
+      "num": 165904,
+      "word": "敖子逸折腰下跪哭戏",
+      "onboard_time": 1748581041,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165284,
       "num": 165284,
       "word": "A股",
@@ -785,14 +873,6 @@
       "onboard_time": 1748577140,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 163385,
-      "num": 218764,
-      "word": "主力带娃的二胎爸爸产后抑郁了",
-      "onboard_time": 1748580021,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162853,
@@ -907,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149299,
+      "num": 149299,
+      "word": "eStar易峥官宣离队",
+      "onboard_time": 1748582722,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149163,
       "num": 149163,
       "word": "孙颖莎来送端午节祝福啦",
@@ -979,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127727,
+      "num": 256825,
+      "word": "平津侯用庄二的刀自尽",
+      "onboard_time": 1748582122,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126034,
       "num": 126034,
       "word": "人生就是壮壮妈",
@@ -1025,6 +1121,14 @@
       "onboard_time": 1748531123,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114041,
+      "num": 353849,
+      "word": "考王梁实谈2025年高考",
+      "onboard_time": 1748581880,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 112920,
@@ -1105,6 +1209,14 @@
       "onboard_time": 1748566281,
       "rank": 34,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 96258,
+      "num": 195171,
+      "word": "庄大被挖的是膝盖还是脑子",
+      "onboard_time": 1748582421,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 95694,
@@ -1217,6 +1329,14 @@
       "onboard_time": 1748534601,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84062,
+      "num": 278212,
+      "word": "华为乾崑的多彩智野美学",
+      "onboard_time": 1748581641,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 82293,
@@ -1491,6 +1611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48493,
+      "num": 277033,
+      "word": "济南5元快餐店老板回应是否亏钱",
+      "onboard_time": 1748581522,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47845,
       "num": 47845,
       "word": "湖北应城故意伤害案致2死",
@@ -1587,6 +1715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38749,
+      "num": 277145,
+      "word": "在家靠父母购物靠补贴",
+      "onboard_time": 1748581641,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 35500,
       "num": 325450,
       "word": "晚睡是怎样浪费褪黑素的",
@@ -1619,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30936,
+      "num": 253212,
+      "word": "金灿荣说网民凭啥不能拿印度逗乐",
+      "onboard_time": 1748581581,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30628,
       "num": 30628,
       "word": "赛龙舟",
@@ -1641,6 +1785,14 @@
       "onboard_time": 1748570780,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 27675,
+      "num": 248730,
+      "word": "特朗普在社交平台上避免提及马斯克",
+      "onboard_time": 1748581581,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27565,
@@ -1681,6 +1833,14 @@
       "onboard_time": 1748576661,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24604,
+      "num": 251692,
+      "word": "养孩子都有哪些误区",
+      "onboard_time": 1748581340,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 22571,
