@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748609495430,
+  "endTime": 1748610424068,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -65,6 +65,14 @@
       "onboard_time": 1748481800,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2917239,
+      "num": 2917239,
+      "word": "断眉上来就唱see you again",
+      "onboard_time": 1748608824,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2780095,
@@ -163,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2218914,
+      "num": 262983,
+      "word": "GAI 不好听",
+      "onboard_time": 1748609245,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2186954,
       "num": 787096,
       "word": "鹿晗ins晒与山下智久合照",
@@ -217,14 +233,6 @@
       "onboard_time": 1748241502,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2013392,
-      "num": 247612,
-      "word": "断眉上来就唱see you again",
-      "onboard_time": 1748608824,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 2003488,
@@ -2156,7 +2164,7 @@
     },
     {
       "raw_hot": 663710,
-      "num": 234496,
+      "num": 307261,
       "word": "台湾青年因为肖战想去重庆",
       "onboard_time": 1748604980,
       "rank": 24,
@@ -3107,14 +3115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 499517,
-      "num": 219275,
-      "word": "GAI 不好听",
-      "onboard_time": 1748609245,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 499352,
       "num": 499352,
       "word": "张婧仪用emoji回复肖战",
@@ -3451,6 +3451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458467,
+      "num": 204509,
+      "word": "白举纲进步",
+      "onboard_time": 1748609185,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456964,
       "num": 456964,
       "word": "北师大回应官网教师简介用动漫头像",
@@ -3488,6 +3496,14 @@
       "word": "问界客服回应余承东疑似开车睡觉",
       "onboard_time": 1748249900,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448206,
+      "num": 448206,
+      "word": "女子立遗嘱给宠物狗留了十几万",
+      "onboard_time": 1748606601,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -3977,14 +3993,6 @@
       "onboard_time": 1748265502,
       "rank": 21,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 392877,
-      "num": 392877,
-      "word": "女子立遗嘱给宠物狗留了十几万",
-      "onboard_time": 1748606601,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 392249,
@@ -4515,6 +4523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349117,
+      "num": 349117,
+      "word": "泡泡玛特哭娃",
+      "onboard_time": 1748607083,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 348252,
       "num": 480735,
       "word": "林志玲cos甄嬛行礼",
@@ -4987,6 +5003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309718,
+      "num": 244241,
+      "word": "兵马俑",
+      "onboard_time": 1748609905,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309392,
       "num": 237139,
       "word": "折腰第29集圆房",
@@ -5257,6 +5281,14 @@
       "onboard_time": 1748506520,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293929,
+      "num": 203127,
+      "word": "结石姐首唱舞台是格莱美级别的",
+      "onboard_time": 1748606302,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 293800,
@@ -5931,14 +5963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256740,
-      "num": 203127,
-      "word": "结石姐首唱舞台是格莱美级别的",
-      "onboard_time": 1748606302,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256258,
       "num": 256258,
       "word": "陈雨菲横扫安洗莹",
@@ -6001,14 +6025,6 @@
       "onboard_time": 1748353102,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 255130,
-      "num": 214675,
-      "word": "泡泡玛特哭娃",
-      "onboard_time": 1748607083,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 254707,
@@ -6145,6 +6161,14 @@
       "onboard_time": 1748226741,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248491,
+      "num": 238759,
+      "word": "范丞丞成了跑男成败的关键",
+      "onboard_time": 1748608944,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 248434,
@@ -6315,12 +6339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242148,
-      "num": 202694,
-      "word": "白举纲进步",
-      "onboard_time": 1748609185,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 241831,
+      "num": 241831,
+      "word": "鸣潮",
+      "onboard_time": 1748608282,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 241603,
@@ -6329,14 +6353,6 @@
       "onboard_time": 1748403081,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241590,
-      "num": 241590,
-      "word": "鸣潮",
-      "onboard_time": 1748608282,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 241089,
@@ -7481,6 +7497,14 @@
       "onboard_time": 1748405542,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206091,
+      "num": 225293,
+      "word": "顺丰已成立理赔小组处理手镯事件",
+      "onboard_time": 1748604441,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206030,
@@ -9003,6 +9027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 186107,
+      "num": 186107,
+      "word": "藏海双杀告诉我到底什么是真的",
+      "onboard_time": 1748602760,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186034,
       "num": 186034,
       "word": "新疆赛里木湖发现2500年前岩画群",
@@ -9403,14 +9435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180640,
-      "num": 180640,
-      "word": "藏海双杀告诉我到底什么是真的",
-      "onboard_time": 1748602760,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180533,
       "num": 180533,
       "word": "越过山丘发现无人等候终于懂了",
@@ -9593,14 +9617,6 @@
       "onboard_time": 1748248521,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178173,
-      "num": 225293,
-      "word": "顺丰已成立理赔小组处理手镯事件",
-      "onboard_time": 1748604441,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178113,
@@ -10489,14 +10505,6 @@
       "onboard_time": 1748146581,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169002,
-      "num": 238759,
-      "word": "范丞丞成了跑男成败的关键",
-      "onboard_time": 1748608944,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 168858,
@@ -13155,6 +13163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 139646,
+      "num": 139646,
+      "word": "韩国军机垂直坠毁",
+      "onboard_time": 1748606121,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139386,
       "num": 139386,
       "word": "被王一博我可以鼓励到了",
@@ -13435,6 +13451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136718,
+      "num": 205655,
+      "word": "刘宇宁给大乔点跳楼机",
+      "onboard_time": 1748609245,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136435,
       "num": 158627,
       "word": "易烊千玺给毕赣猛猛出图",
@@ -13627,6 +13651,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 134489,
+      "num": 134489,
+      "word": "郑钦文说自己武汉长大不怕热",
+      "onboard_time": 1748608644,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134480,
       "num": 134480,
       "word": "重庆一流浪狗凭乖吃饱饭",
@@ -13753,6 +13785,14 @@
       "onboard_time": 1748136860,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132806,
+      "num": 132806,
+      "word": "瓜农因收购价低把西瓜扔鱼塘喂鱼",
+      "onboard_time": 1748606842,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132716,
@@ -14004,7 +14044,7 @@
     },
     {
       "raw_hot": 130092,
-      "num": 216146,
+      "num": 248530,
       "word": "X200Ultra独家解锁楚生的世界2.0",
       "onboard_time": 1748608644,
       "rank": 16,
@@ -14033,14 +14073,6 @@
       "onboard_time": 1748144241,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129730,
-      "num": 129730,
-      "word": "郑钦文说自己武汉长大不怕热",
-      "onboard_time": 1748608644,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 129711,
@@ -14419,14 +14451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126354,
-      "num": 126354,
-      "word": "韩国军机垂直坠毁",
-      "onboard_time": 1748606121,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 126332,
       "num": 126332,
       "word": "李嘉格母亲人生至暗时刻",
@@ -14472,14 +14496,6 @@
       "word": "在外体面伪装背地挖墓经商",
       "onboard_time": 1748256022,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 125653,
-      "num": 204670,
-      "word": "刘宇宁给大乔点跳楼机",
-      "onboard_time": 1748609245,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -14785,6 +14801,14 @@
       "onboard_time": 1748218822,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122371,
+      "num": 266335,
+      "word": "给周深都急成rapper了",
+      "onboard_time": 1748608944,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 122127,
@@ -15267,6 +15291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115850,
+      "num": 115850,
+      "word": "巴黎圣日耳曼vs国际米兰",
+      "onboard_time": 1748607022,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115644,
       "num": 115644,
       "word": "折腰婆媳关系丝滑一镜到底",
@@ -15595,6 +15627,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 111970,
+      "num": 111970,
+      "word": "一代人有一代人的端午粽子",
+      "onboard_time": 1748607322,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111885,
       "num": 111885,
       "word": "郭二娃一审被判死刑",
@@ -15777,14 +15817,6 @@
       "onboard_time": 1748214678,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108984,
-      "num": 108984,
-      "word": "瓜农因收购价低把西瓜扔鱼塘喂鱼",
-      "onboard_time": 1748606842,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108969,
@@ -15985,14 +16017,6 @@
       "onboard_time": 1748573120,
       "rank": 29,
       "category": "国际时政,教育"
-    },
-    {
-      "raw_hot": 106116,
-      "num": 106116,
-      "word": "一代人有一代人的端午粽子",
-      "onboard_time": 1748607322,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106111,
@@ -16249,6 +16273,14 @@
       "onboard_time": 1748100685,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101235,
+      "num": 209865,
+      "word": "音综修音到底都修什么",
+      "onboard_time": 1748608944,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 101162,
@@ -16987,14 +17019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89890,
-      "num": 209865,
-      "word": "音综修音到底都修什么",
-      "onboard_time": 1748608944,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 89838,
       "num": 89838,
       "word": "原来这就是不在小事上消耗孩子",
@@ -17219,6 +17243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84991,
+      "num": 199926,
+      "word": "1960元买2张演唱会票竟是铁窗泪",
+      "onboard_time": 1748606962,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84973,
       "num": 98508,
       "word": "撒贝宁王安宇肉眼可见紧张了",
@@ -17241,6 +17273,14 @@
       "onboard_time": 1748534601,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84223,
+      "num": 198020,
+      "word": "尊界S800座舱太大太尊了",
+      "onboard_time": 1748610264,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 84162,
@@ -19211,6 +19251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 53749,
+      "num": 198553,
+      "word": "表达能力逐渐退化的迹象有哪些",
+      "onboard_time": 1748609845,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 53694,
       "num": 222317,
       "word": "学会接纳自我的方式是什么",
@@ -19625,6 +19673,14 @@
       "onboard_time": 1748591783,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47288,
+      "num": 197029,
+      "word": "高考被赋予太多神圣的意义",
+      "onboard_time": 1748610324,
+      "rank": 31,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 47158,
@@ -21931,6 +21987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21626,
+      "num": 129070,
+      "word": "记者探访地铁卖座花5元坐到座位",
+      "onboard_time": 1748610385,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21577,
       "num": 133954,
       "word": "5岁小孩哥比30岁的我懂得还多",
@@ -22459,6 +22523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 15931,
+      "num": 208499,
+      "word": "退货标签能否有效遏制恶意退货",
+      "onboard_time": 1748608882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15768,
       "num": 229896,
       "word": "印度大外宣材料可信度到底如何",
@@ -22977,14 +23049,6 @@
       "onboard_time": 1748406082,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 11661,
-      "num": 208499,
-      "word": "退货标签能否有效遏制恶意退货",
-      "onboard_time": 1748608882,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11657,

@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748609495430,
+  "endTime": 1748610424068,
   "band_list": [
     {
       "raw_hot": 9663660,
@@ -16,6 +16,14 @@
       "word": "祝绪丹秒删",
       "onboard_time": 1748601081,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2917239,
+      "num": 2917239,
+      "word": "断眉上来就唱see you again",
+      "onboard_time": 1748608824,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -43,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2218914,
+      "num": 262983,
+      "word": "GAI 不好听",
+      "onboard_time": 1748609245,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2156975,
       "num": 433794,
       "word": "孙俪的唇下痣没了",
       "onboard_time": 1748567900,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2013392,
-      "num": 247612,
-      "word": "断眉上来就唱see you again",
-      "onboard_time": 1748608824,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1792354,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 663710,
-      "num": 234496,
+      "num": 307261,
       "word": "台湾青年因为肖战想去重庆",
       "onboard_time": 1748604980,
       "rank": 24,
@@ -411,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 499517,
-      "num": 219275,
-      "word": "GAI 不好听",
-      "onboard_time": 1748609245,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 474000,
       "num": 474000,
       "word": "唇语专家解读马克龙与妻子吵了什么",
@@ -451,12 +451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458467,
+      "num": 204509,
+      "word": "白举纲进步",
+      "onboard_time": 1748609185,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451346,
       "num": 451346,
       "word": "藏海传开始暴走了",
       "onboard_time": 1748530282,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 448206,
+      "num": 448206,
+      "word": "女子立遗嘱给宠物狗留了十几万",
+      "onboard_time": 1748606601,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 446315,
@@ -515,14 +531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 392877,
-      "num": 392877,
-      "word": "女子立遗嘱给宠物狗留了十几万",
-      "onboard_time": 1748606601,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 387891,
       "num": 387891,
       "word": "身价百亿毛巾少爷转行卖咖啡",
@@ -569,6 +577,14 @@
       "onboard_time": 1748522061,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349117,
+      "num": 349117,
+      "word": "泡泡玛特哭娃",
+      "onboard_time": 1748607083,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 343327,
@@ -627,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309718,
+      "num": 244241,
+      "word": "兵马俑",
+      "onboard_time": 1748609905,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302195,
       "num": 302195,
       "word": "明日方舟",
@@ -657,6 +681,14 @@
       "onboard_time": 1748562740,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293929,
+      "num": 203127,
+      "word": "结石姐首唱舞台是格莱美级别的",
+      "onboard_time": 1748606302,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 293632,
@@ -771,28 +803,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256740,
-      "num": 203127,
-      "word": "结石姐首唱舞台是格莱美级别的",
-      "onboard_time": 1748606302,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256258,
       "num": 256258,
       "word": "陈雨菲横扫安洗莹",
       "onboard_time": 1748582000,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255130,
-      "num": 214675,
-      "word": "泡泡玛特哭娃",
-      "onboard_time": 1748607083,
-      "rank": 17,
-      "category": "时尚"
     },
     {
       "raw_hot": 254296,
@@ -809,6 +825,14 @@
       "onboard_time": 1748590642,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248491,
+      "num": 238759,
+      "word": "范丞丞成了跑男成败的关键",
+      "onboard_time": 1748608944,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 247390,
@@ -867,16 +891,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242148,
-      "num": 202694,
-      "word": "白举纲进步",
-      "onboard_time": 1748609185,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 241590,
-      "num": 241590,
+      "raw_hot": 241831,
+      "num": 241831,
       "word": "鸣潮",
       "onboard_time": 1748608282,
       "rank": 8,
@@ -1067,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206091,
+      "num": 225293,
+      "word": "顺丰已成立理赔小组处理手镯事件",
+      "onboard_time": 1748604441,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202901,
       "num": 202901,
       "word": "宋茜和Victoria你总会知道一个",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1748576541,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196123,
+      "num": 196123,
+      "word": "藏海传",
+      "onboard_time": 1748609245,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 195112,
@@ -1283,6 +1315,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 186107,
+      "num": 186107,
+      "word": "藏海双杀告诉我到底什么是真的",
+      "onboard_time": 1748602760,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184271,
       "num": 195294,
       "word": "TFBOYS为王俊凯电影打call",
@@ -1331,14 +1371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 180640,
-      "num": 180640,
-      "word": "藏海双杀告诉我到底什么是真的",
-      "onboard_time": 1748602760,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180260,
       "num": 180260,
       "word": "灵笼2",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1748596280,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 178173,
-      "num": 225293,
-      "word": "顺丰已成立理赔小组处理手镯事件",
-      "onboard_time": 1748604441,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177688,
@@ -1481,14 +1505,6 @@
       "onboard_time": 1748569640,
       "rank": 26,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 169002,
-      "num": 238759,
-      "word": "范丞丞成了跑男成败的关键",
-      "onboard_time": 1748608944,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 168393,
@@ -1843,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139646,
+      "num": 139646,
+      "word": "韩国军机垂直坠毁",
+      "onboard_time": 1748606121,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 137701,
       "num": 137701,
       "word": "单依纯马嘉祺投票断层领先",
@@ -1857,6 +1881,14 @@
       "onboard_time": 1748602400,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 136718,
+      "num": 205655,
+      "word": "刘宇宁给大乔点跳楼机",
+      "onboard_time": 1748609245,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 136374,
@@ -1907,6 +1939,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 134489,
+      "num": 134489,
+      "word": "郑钦文说自己武汉长大不怕热",
+      "onboard_time": 1748608644,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134453,
       "num": 134453,
       "word": "男子冒充初中生诱骗近百名中小学女生",
@@ -1931,6 +1971,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 132806,
+      "num": 132806,
+      "word": "瓜农因收购价低把西瓜扔鱼塘喂鱼",
+      "onboard_time": 1748606842,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131784,
       "num": 131784,
       "word": "专八成绩",
@@ -1948,19 +1996,11 @@
     },
     {
       "raw_hot": 130092,
-      "num": 216146,
+      "num": 248530,
       "word": "X200Ultra独家解锁楚生的世界2.0",
       "onboard_time": 1748608644,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129730,
-      "num": 129730,
-      "word": "郑钦文说自己武汉长大不怕热",
-      "onboard_time": 1748608644,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 129429,
@@ -2011,28 +2051,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126354,
-      "num": 126354,
-      "word": "韩国军机垂直坠毁",
-      "onboard_time": 1748606121,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 126034,
       "num": 126034,
       "word": "人生就是壮壮妈",
       "onboard_time": 1748522481,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125653,
-      "num": 204670,
-      "word": "刘宇宁给大乔点跳楼机",
-      "onboard_time": 1748609245,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 125347,
@@ -2081,6 +2105,14 @@
       "onboard_time": 1748599640,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122371,
+      "num": 266335,
+      "word": "给周深都急成rapper了",
+      "onboard_time": 1748608944,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 122127,
@@ -2171,6 +2203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115850,
+      "num": 115850,
+      "word": "巴黎圣日耳曼vs国际米兰",
+      "onboard_time": 1748607022,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115411,
       "num": 152208,
       "word": "90后小伙拍下800斤荔枝发声",
@@ -2211,6 +2251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 111970,
+      "num": 111970,
+      "word": "一代人有一代人的端午粽子",
+      "onboard_time": 1748607322,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111122,
       "num": 111122,
       "word": "NS对战T1",
@@ -2232,14 +2280,6 @@
       "word": "男子戴人皮面具偷了15万首饰现金",
       "onboard_time": 1748601500,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108984,
-      "num": 108984,
-      "word": "瓜农因收购价低把西瓜扔鱼塘喂鱼",
-      "onboard_time": 1748606842,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2275,14 +2315,6 @@
       "category": "国际时政,教育"
     },
     {
-      "raw_hot": 106116,
-      "num": 106116,
-      "word": "一代人有一代人的端午粽子",
-      "onboard_time": 1748607322,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103999,
       "num": 345143,
       "word": "被这些中国品牌狠狠燃到了",
@@ -2305,6 +2337,14 @@
       "onboard_time": 1748568560,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 101235,
+      "num": 209865,
+      "word": "音综修音到底都修什么",
+      "onboard_time": 1748608944,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 100681,
@@ -2427,14 +2467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94376,
-      "num": 94376,
-      "word": "藏海传",
-      "onboard_time": 1748609245,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94069,
       "num": 188385,
       "word": "韩国工地午饭都吃什么",
@@ -2481,14 +2513,6 @@
       "onboard_time": 1748530464,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89890,
-      "num": 209865,
-      "word": "音综修音到底都修什么",
-      "onboard_time": 1748608944,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 89698,
@@ -2563,12 +2587,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84991,
+      "num": 199926,
+      "word": "1960元买2张演唱会票竟是铁窗泪",
+      "onboard_time": 1748606962,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84640,
       "num": 84640,
       "word": "马嘉祺你曾是少年音源",
       "onboard_time": 1748534601,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84223,
+      "num": 198020,
+      "word": "尊界S800座舱太大太尊了",
+      "onboard_time": 1748610264,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 84062,
@@ -2979,6 +3019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 53749,
+      "num": 198553,
+      "word": "表达能力逐渐退化的迹象有哪些",
+      "onboard_time": 1748609845,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52959,
       "num": 188289,
       "word": "普京莫斯科会见安倍晋三遗孀",
@@ -3097,6 +3145,14 @@
       "onboard_time": 1748591783,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47288,
+      "num": 197029,
+      "word": "高考被赋予太多神圣的意义",
+      "onboard_time": 1748610324,
+      "rank": 31,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 45973,
@@ -3499,6 +3555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21626,
+      "num": 129070,
+      "word": "记者探访地铁卖座花5元坐到座位",
+      "onboard_time": 1748610385,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21577,
       "num": 133954,
       "word": "5岁小孩哥比30岁的我懂得还多",
@@ -3611,6 +3675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15931,
+      "num": 208499,
+      "word": "退货标签能否有效遏制恶意退货",
+      "onboard_time": 1748608882,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15090,
       "num": 340450,
       "word": "装修工搞错门牌号女子新房被拆光",
@@ -3681,14 +3753,6 @@
       "onboard_time": 1748547375,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11661,
-      "num": 208499,
-      "word": "退货标签能否有效遏制恶意退货",
-      "onboard_time": 1748608882,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11581,
