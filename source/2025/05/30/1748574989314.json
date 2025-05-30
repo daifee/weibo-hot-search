@@ -1,0 +1,410 @@
+{
+  "runTime": 1748574989314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2111627,
+        "num": 2111627,
+        "word": "美国政府杀疯了",
+        "onboard_time": 1748569280,
+        "rank": 0,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 975302,
+        "num": 975302,
+        "word": "银川烧烤店爆炸致31死案15人获刑",
+        "onboard_time": 1748574020,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37265,
+        "num": 856305,
+        "word": "世界市长对话上海",
+        "onboard_time": 1748525422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1271312,
+        "num": 839868,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 748770,
+        "num": 748770,
+        "word": "断眉袭榜",
+        "onboard_time": 1748574860,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655831,
+        "num": 655831,
+        "word": "白鹿领衔主演莫离",
+        "onboard_time": 1748571501,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649720,
+        "num": 649720,
+        "word": "胖东来红内裤事件案宣判",
+        "onboard_time": 1748565920,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473476,
+        "num": 473476,
+        "word": "小伙拍下800斤杨贵妃同款荔枝",
+        "onboard_time": 1748570060,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432192,
+        "num": 432192,
+        "word": "关税",
+        "onboard_time": 1748565622,
+        "rank": 8,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 190719,
+        "num": 421605,
+        "word": "银川烧烤店31死爆炸案宣判",
+        "onboard_time": 1748573841,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1677938,
+        "num": 421367,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452471,
+        "num": 420902,
+        "word": "荣梓杉报平安",
+        "onboard_time": 1748570060,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416764,
+        "num": 416764,
+        "word": "段某被判赔偿胖东来40万元",
+        "onboard_time": 1748573301,
+        "rank": 12,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 390557,
+        "num": 390557,
+        "word": "中方回应印度得到一枚未爆炸中国导弹",
+        "onboard_time": 1748564482,
+        "rank": 13,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 340594,
+        "num": 340594,
+        "word": "临江仙",
+        "onboard_time": 1748572820,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319809,
+        "num": 319809,
+        "word": "沈月中餐厅ootd",
+        "onboard_time": 1748570239,
+        "rank": 15,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 291721,
+        "num": 291721,
+        "word": "耀眼导演给刘浩存王安宇新剧打一星",
+        "onboard_time": 1748572700,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24631,
+        "num": 291682,
+        "word": "纳米06凭什么上市即卖爆",
+        "onboard_time": 1748570780,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 10096,
+        "num": 291558,
+        "word": "端午假期湖北有较强降水",
+        "onboard_time": 1748574680,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48498,
+        "num": 291334,
+        "word": "美俄勒冈州禁止未成年人结婚",
+        "onboard_time": 1748573900,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 377399,
+        "num": 291197,
+        "word": "刘宇宁唱时间之子情感曲",
+        "onboard_time": 1748573060,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336257,
+        "num": 291116,
+        "word": "国际乒联回应16个协会投出21张票",
+        "onboard_time": 1748572100,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295443,
+        "num": 290867,
+        "word": "如果微信出了已读功能",
+        "onboard_time": 1748562199,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223508,
+        "num": 290702,
+        "word": "谁来给黄景瑜金晨递个本子",
+        "onboard_time": 1748574020,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189122,
+        "num": 290637,
+        "word": "11点后睡觉浪费了人体的褪黑素",
+        "onboard_time": 1748568020,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215632,
+        "num": 290478,
+        "word": "藏海传 横店大雪",
+        "onboard_time": 1748574381,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149727,
+        "num": 290305,
+        "word": "这些品牌今晚在京东开启618",
+        "onboard_time": 1748571260,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57510,
+        "num": 290186,
+        "word": "一村规定彩礼限额",
+        "onboard_time": 1748574561,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32021,
+        "num": 289974,
+        "word": "救人的女辅警找到了",
+        "onboard_time": 1748573721,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79118,
+        "num": 289836,
+        "word": "美国留学梦变噩梦",
+        "onboard_time": 1748573120,
+        "rank": 29,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 261726,
+        "num": 289775,
+        "word": "肖战绷不住了",
+        "onboard_time": 1748570780,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289645,
+        "num": 289645,
+        "word": "吴艳妮哽咽向大家道歉",
+        "onboard_time": 1748531303,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225572,
+        "num": 225572,
+        "word": "男子翻女友手机才发现小丑竟是自己",
+        "onboard_time": 1748562740,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202446,
+        "num": 202446,
+        "word": "莫离原著盛世嫡妃",
+        "onboard_time": 1748573900,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201075,
+        "num": 201075,
+        "word": "公司发的端午礼盒",
+        "onboard_time": 1748571439,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194560,
+        "num": 194560,
+        "word": "把高三妹妹接到清华一起生活",
+        "onboard_time": 1748573181,
+        "rank": 35,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 177606,
+        "num": 177606,
+        "word": "东莞高架车祸死者家属称正商量赔偿",
+        "onboard_time": 1748568980,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165998,
+        "num": 165998,
+        "word": "王俊凯说为国产动画配音很荣幸",
+        "onboard_time": 1748571260,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7877,
+        "num": 165334,
+        "word": "张家界溶洞变成垃圾场",
+        "onboard_time": 1748574680,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9574,
+        "num": 165293,
+        "word": "因批评印度出名的印度裔加拿大人",
+        "onboard_time": 1748574680,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165284,
+        "num": 165284,
+        "word": "A股",
+        "onboard_time": 1748571740,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112920,
+        "num": 165088,
+        "word": "马斯克在美政府效率部最后一天",
+        "onboard_time": 1748572820,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165037,
+        "num": 165037,
+        "word": "林峯回应徐子珊行踪",
+        "onboard_time": 1748574381,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162853,
+        "num": 162853,
+        "word": "京东外卖称只发券不回收",
+        "onboard_time": 1748571201,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157270,
+        "num": 157270,
+        "word": "追觅 加班",
+        "onboard_time": 1748569580,
+        "rank": 44,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 155038,
+        "num": 155038,
+        "word": "孙颖莎长话短说长话再短说",
+        "onboard_time": 1748573120,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153499,
+        "num": 153499,
+        "word": "陈慧珊演林保怡第九人格的含金量",
+        "onboard_time": 1748574621,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149163,
+        "num": 149163,
+        "word": "孙颖莎来送端午节祝福啦",
+        "onboard_time": 1748571680,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146524,
+        "num": 146524,
+        "word": "国际乒联将展开调查",
+        "onboard_time": 1748574499,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124980,
+        "num": 124980,
+        "word": "俞敏洪骑车摔倒",
+        "onboard_time": 1748569640,
+        "rank": 49,
+        "category": "民生新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平勉励科技工作者的暖心瞬间#"
+    }
+  }
+}
