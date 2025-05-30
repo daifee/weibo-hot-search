@@ -1,10 +1,10 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748579552873,
+  "endTime": 1748580397920,
   "band_list": [
     {
-      "raw_hot": 2573179,
-      "num": 2573179,
+      "raw_hot": 2610467,
+      "num": 2610467,
       "word": "断眉袭榜",
       "onboard_time": 1748574860,
       "rank": 4,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2156975,
-      "num": 433542,
+      "num": 433794,
       "word": "孙俪的唇下痣没了",
       "onboard_time": 1748567900,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 865119,
+      "num": 865119,
+      "word": "社保交满最低缴费年限停止就亏大了",
+      "onboard_time": 1748578461,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 702882,
       "num": 702882,
       "word": "美团 回收券",
@@ -132,19 +140,19 @@
     },
     {
       "raw_hot": 592456,
-      "num": 365987,
+      "num": 433672,
       "word": "安倍晋三遗孀见普京哽咽落泪",
       "onboard_time": 1748576420,
       "rank": 34,
       "category": "国际时政"
     },
     {
-      "raw_hot": 568047,
-      "num": 568047,
-      "word": "社保交满最低缴费年限停止就亏大了",
-      "onboard_time": 1748578461,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 565939,
+      "num": 565939,
+      "word": "瑞幸咖啡降价",
+      "onboard_time": 1748579481,
+      "rank": 46,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 549407,
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419412,
+      "num": 419412,
+      "word": "曝披荆斩棘5阵容",
+      "onboard_time": 1748577501,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413360,
       "num": 433696,
       "word": "刘宇宁唱时间之子情感曲",
@@ -225,14 +241,6 @@
       "onboard_time": 1748574381,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 392251,
-      "num": 392251,
-      "word": "曝披荆斩棘5阵容",
-      "onboard_time": 1748577501,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 387891,
@@ -403,12 +411,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 246456,
+      "num": 246456,
+      "word": "关晓彤王子奇终于演上同学了",
+      "onboard_time": 1748578282,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246087,
       "num": 268271,
       "word": "丁程鑫北电毕业合照",
       "onboard_time": 1748576901,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243429,
+      "num": 243429,
+      "word": "断眉合伙人蒋一侨",
+      "onboard_time": 1748579301,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 242953,
@@ -459,19 +483,19 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 233229,
-      "num": 233229,
-      "word": "关晓彤王子奇终于演上同学了",
-      "onboard_time": 1748578282,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226950,
       "num": 226950,
       "word": "40万黄金被女子当垃圾丢了",
       "onboard_time": 1748519301,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226732,
+      "num": 226732,
+      "word": "高考钉子户梁实考前发声",
+      "onboard_time": 1748577261,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -504,6 +528,14 @@
       "word": "周深不唱歌的时候都在想梗",
       "onboard_time": 1748579062,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217412,
+      "num": 217412,
+      "word": "歌手歌单",
+      "onboard_time": 1748579722,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -571,20 +603,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194689,
+      "num": 194689,
+      "word": "Labubu会凉吗",
+      "onboard_time": 1748579963,
+      "rank": 37,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 194560,
       "num": 194560,
       "word": "把高三妹妹接到清华一起生活",
       "onboard_time": 1748573181,
       "rank": 35,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 193749,
-      "num": 193749,
-      "word": "高考钉子户梁实考前发声",
-      "onboard_time": 1748577261,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191720,
@@ -603,12 +635,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 189179,
-      "num": 189179,
-      "word": "断眉合伙人蒋一侨",
-      "onboard_time": 1748579301,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 189240,
+      "num": 189240,
+      "word": "阿汤哥坐跳楼机会睡着吧",
+      "onboard_time": 1748578341,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 188509,
@@ -617,6 +649,14 @@
       "onboard_time": 1748574621,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184271,
+      "num": 195294,
+      "word": "TFBOYS为王俊凯电影打call",
+      "onboard_time": 1748580262,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 184019,
@@ -641,14 +681,6 @@
       "onboard_time": 1748574381,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176955,
-      "num": 176955,
-      "word": "阿汤哥坐跳楼机会睡着吧",
-      "onboard_time": 1748578341,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 176843,
@@ -684,11 +716,19 @@
     },
     {
       "raw_hot": 173336,
-      "num": 173336,
+      "num": 246450,
       "word": "尼克斯2比3步行者",
       "onboard_time": 1748575100,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171514,
+      "num": 171514,
+      "word": "傀影异格",
+      "onboard_time": 1748580262,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 170060,
@@ -707,20 +747,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168222,
-      "num": 168222,
-      "word": "瑞幸咖啡降价",
-      "onboard_time": 1748579481,
-      "rank": 46,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 167792,
       "num": 167792,
       "word": "什么算是人生的顶级配置",
       "onboard_time": 1748578161,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166226,
+      "num": 166226,
+      "word": "仙逆剧场版",
+      "onboard_time": 1748580383,
+      "rank": 46,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 165998,
@@ -747,6 +787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163385,
+      "num": 218764,
+      "word": "主力带娃的二胎爸爸产后抑郁了",
+      "onboard_time": 1748580021,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162853,
       "num": 162853,
       "word": "京东外卖称只发券不回收",
@@ -769,6 +817,14 @@
       "onboard_time": 1748579182,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161129,
+      "num": 190387,
+      "word": "歌手谁来守榜限时征集",
+      "onboard_time": 1748580141,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 158616,
@@ -867,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145399,
+      "num": 145399,
+      "word": "刘宇宁紫川之光明王开播海报",
+      "onboard_time": 1748580082,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145337,
       "num": 145337,
       "word": "藏海传全面登顶",
@@ -876,7 +940,7 @@
     },
     {
       "raw_hot": 140750,
-      "num": 189344,
+      "num": 433800,
       "word": "银川烧烤店爆炸事故3人提供虚假证明",
       "onboard_time": 1748579542,
       "rank": 42,
@@ -1523,6 +1587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35500,
+      "num": 325450,
+      "word": "晚睡是怎样浪费褪黑素的",
+      "onboard_time": 1748578040,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34076,
       "num": 182537,
       "word": "58岁梁实发文称将参加第29次高考",
@@ -1537,14 +1609,6 @@
       "onboard_time": 1748538438,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31649,
-      "num": 325450,
-      "word": "晚睡是怎样浪费褪黑素的",
-      "onboard_time": 1748578040,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 30940,
@@ -1689,6 +1753,14 @@
       "onboard_time": 1748546115,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13355,
+      "num": 219684,
+      "word": "锡伯杜的战术能否拯救尼克斯",
+      "onboard_time": 1748579781,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 12883,
