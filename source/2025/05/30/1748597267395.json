@@ -1,0 +1,410 @@
+{
+  "runTime": 1748597267395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1347250,
+        "num": 1347250,
+        "word": "断眉投票 马嘉祺",
+        "onboard_time": 1748587881,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 977726,
+        "num": 977726,
+        "word": "夫妻离婚后均拒绝抚养网瘾儿子",
+        "onboard_time": 1748593580,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3941,
+        "num": 950063,
+        "word": "万千气象看四川",
+        "onboard_time": 1748272763,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 941351,
+        "num": 941351,
+        "word": "中国学生在哈佛毕业典礼发表演讲",
+        "onboard_time": 1748594480,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 503476,
+        "num": 503476,
+        "word": "工资5000三年无痛存下12万",
+        "onboard_time": 1748572279,
+        "rank": 4,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 455532,
+        "num": 455532,
+        "word": "哈佛大学校长在毕业典礼上嘲讽特朗普",
+        "onboard_time": 1748589501,
+        "rank": 5,
+        "category": "国际时政,教育"
+      },
+      {
+        "raw_hot": 440261,
+        "num": 440261,
+        "word": "商家为防六一退货潮出奇招",
+        "onboard_time": 1748591901,
+        "rank": 6,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 416948,
+        "num": 416948,
+        "word": "断眉袭榜",
+        "onboard_time": 1748574860,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367104,
+        "num": 367104,
+        "word": "现偶四大天花板",
+        "onboard_time": 1748589021,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219863,
+        "num": 367016,
+        "word": "日本抢购大米网站崩了",
+        "onboard_time": 1748593401,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1203357,
+        "num": 366995,
+        "word": "这居然是吴昕",
+        "onboard_time": 1748588900,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638514,
+        "num": 366984,
+        "word": "唯一一个资本控制不了的运动",
+        "onboard_time": 1748589860,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 366974,
+        "num": 366974,
+        "word": "种地吧第三届感恩音乐会",
+        "onboard_time": 1748594902,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322257,
+        "num": 322257,
+        "word": "孙俪的唇下痣没了",
+        "onboard_time": 1748567900,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320348,
+        "num": 320348,
+        "word": "周深鹿晗汪苏泷张杰青岛见",
+        "onboard_time": 1748591061,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277223,
+        "num": 277223,
+        "word": "种地吧直播",
+        "onboard_time": 1748590160,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250266,
+        "num": 250266,
+        "word": "瑞幸咖啡降价",
+        "onboard_time": 1748579481,
+        "rank": 16,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 238313,
+        "num": 238313,
+        "word": "肖战腹肌不对称了",
+        "onboard_time": 1748590642,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224594,
+        "num": 224594,
+        "word": "周华健儿子结婚",
+        "onboard_time": 1748589080,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31826,
+        "num": 216798,
+        "word": "端午节礼盒除了粽子还能有什么",
+        "onboard_time": 1748596280,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40347,
+        "num": 216061,
+        "word": "吸烟减压是一个伪命题",
+        "onboard_time": 1748597061,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215909,
+        "num": 215909,
+        "word": "林夏薇申请破产",
+        "onboard_time": 1748596160,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201206,
+        "num": 201206,
+        "word": "张艺兴飞天彩排齐得像千手观音",
+        "onboard_time": 1748597120,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187647,
+        "num": 187647,
+        "word": "折腰直播",
+        "onboard_time": 1748592681,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52959,
+        "num": 186721,
+        "word": "普京莫斯科会见安倍晋三遗孀",
+        "onboard_time": 1748596220,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178768,
+        "num": 186508,
+        "word": "李云飞直面负债质疑",
+        "onboard_time": 1748596280,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 14374,
+        "num": 186494,
+        "word": "领取国补的几种方式",
+        "onboard_time": 1748595861,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186493,
+        "num": 186493,
+        "word": "时尚COSMO6月刊封面预告",
+        "onboard_time": 1748597061,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 52217,
+        "num": 186299,
+        "word": "Deepseek本次升级有多大提升",
+        "onboard_time": 1748596280,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31012,
+        "num": 185241,
+        "word": "古人早把粽子玩成了黑暗料理",
+        "onboard_time": 1748596762,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 136575,
+        "num": 183367,
+        "word": "郑钦文vs姆博科",
+        "onboard_time": 1748596401,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134044,
+        "num": 182918,
+        "word": "男子离珠峰顶仅400米折返救陌生人",
+        "onboard_time": 1748591901,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 199474,
+        "num": 181338,
+        "word": "印尼向法国采购42架阵风战斗机",
+        "onboard_time": 1748597061,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180692,
+        "num": 180692,
+        "word": "女婴手术6分钟无作为致瘫",
+        "onboard_time": 1748586501,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166802,
+        "num": 166802,
+        "word": "比亚迪回应被指汽车圈恒大",
+        "onboard_time": 1748593702,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160567,
+        "num": 160567,
+        "word": "AD钙奶",
+        "onboard_time": 1748592020,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149447,
+        "num": 149447,
+        "word": "关晓彤金发杀青照",
+        "onboard_time": 1748592320,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138159,
+        "num": 138159,
+        "word": "张真源毕业",
+        "onboard_time": 1748582301,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37633,
+        "num": 131066,
+        "word": "和18岁在高考考场的自己聊了个天",
+        "onboard_time": 1748596581,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 47614,
+        "num": 128680,
+        "word": "恋与深空 罗森",
+        "onboard_time": 1748591783,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128643,
+        "num": 128643,
+        "word": "曹璐vlog分享Luna近况",
+        "onboard_time": 1748595322,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127102,
+        "num": 127102,
+        "word": "网络中国节",
+        "onboard_time": 1748596340,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126902,
+        "num": 126902,
+        "word": "白玉兰最佳综艺入围名单",
+        "onboard_time": 1748592981,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9465,
+        "num": 125105,
+        "word": "如何拯救人从众废片",
+        "onboard_time": 1748597120,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124610,
+        "num": 124610,
+        "word": "薛之谦新蜂音乐节两天压轴",
+        "onboard_time": 1748597181,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123214,
+        "num": 123214,
+        "word": "俞敏洪发文报平安",
+        "onboard_time": 1748597120,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120311,
+        "num": 120311,
+        "word": "单依纯马嘉祺投票断层领先",
+        "onboard_time": 1748595021,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31304,
+        "num": 115927,
+        "word": "Puzzle手袋10岁了",
+        "onboard_time": 1748592742,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 114103,
+        "num": 114103,
+        "word": "曝iPhone17Pro为拼接设计",
+        "onboard_time": 1748589860,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112274,
+        "num": 112274,
+        "word": "披哥 男团赛",
+        "onboard_time": 1748592381,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技工作者大有作为#"
+    }
+  }
+}
