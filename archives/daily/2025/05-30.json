@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748583835613,
+  "endTime": 1748586955492,
   "band_list": [
     {
       "raw_hot": 2610467,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1291925,
-      "num": 386357,
+      "num": 390622,
       "word": "婚内强奸案当事人申请国家赔偿33万",
       "onboard_time": 1748580862,
       "rank": 10,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 715066,
-      "num": 353158,
+      "num": 380801,
       "word": "李嘉琦自曝曾因被骂太丑蹲寝室大哭",
       "onboard_time": 1748580862,
       "rank": 12,
@@ -145,6 +145,14 @@
       "onboard_time": 1748526802,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 674193,
+      "num": 674193,
+      "word": "花生壳里塞冰淇淋卖28一个",
+      "onboard_time": 1748582781,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 655831,
@@ -185,6 +193,14 @@
       "onboard_time": 1748570060,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 542611,
+      "num": 377445,
+      "word": "能接受自己孩子不结婚吗",
+      "onboard_time": 1748577022,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 503950,
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420977,
+      "num": 420977,
+      "word": "Newjeans临时处分结果",
+      "onboard_time": 1748585420,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413360,
       "num": 433696,
       "word": "刘宇宁唱时间之子情感曲",
@@ -283,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369894,
+      "num": 369894,
+      "word": "高考钉子户梁实考前发声",
+      "onboard_time": 1748577261,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367918,
       "num": 367918,
       "word": "官方回应李现拍鸟成公务员省考面试题",
@@ -297,14 +329,6 @@
       "onboard_time": 1748522061,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352687,
-      "num": 352687,
-      "word": "高考钉子户梁实考前发声",
-      "onboard_time": 1748577261,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 342529,
@@ -403,20 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277721,
-      "num": 254210,
-      "word": "能接受自己孩子不结婚吗",
-      "onboard_time": 1748577022,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268281,
       "num": 268281,
       "word": "孙颖莎抗干扰训练放的是孙颖莎加油声",
       "onboard_time": 1748575519,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267998,
+      "num": 370893,
+      "word": "en露脸",
+      "onboard_time": 1748586080,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 267415,
@@ -473,14 +497,6 @@
       "onboard_time": 1748576901,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 246818,
-      "num": 246818,
-      "word": "花生壳里塞冰淇淋卖28一个",
-      "onboard_time": 1748582781,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246087,
@@ -555,12 +571,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 227444,
+      "num": 331166,
+      "word": "歌手投票截止前1小时隐藏票数",
+      "onboard_time": 1748586021,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226950,
       "num": 226950,
       "word": "40万黄金被女子当垃圾丢了",
       "onboard_time": 1748519301,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224162,
+      "num": 224162,
+      "word": "李晟浪姐枯叶蝶舞台",
+      "onboard_time": 1748586080,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 223920,
@@ -643,6 +675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202693,
+      "num": 202693,
+      "word": "余承东透露尊界S800新功能",
+      "onboard_time": 1748586380,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 202446,
       "num": 202446,
       "word": "莫离原著盛世嫡妃",
@@ -665,6 +705,14 @@
       "onboard_time": 1748575221,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197673,
+      "num": 197673,
+      "word": "刘宇宁这么多OST不是白唱的",
+      "onboard_time": 1748586260,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 196299,
@@ -715,12 +763,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191633,
+      "num": 191633,
+      "word": "关晓彤演白化病女孩",
+      "onboard_time": 1748585961,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191073,
       "num": 191073,
       "word": "游客新加坡酒店吃榴莲被罚千元",
       "onboard_time": 1748578644,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 189305,
+      "num": 189305,
+      "word": "马頔又双叒被贴脸开大了",
+      "onboard_time": 1748583562,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 189240,
@@ -739,12 +803,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187049,
-      "num": 187049,
-      "word": "马頔又双叒被贴脸开大了",
-      "onboard_time": 1748583562,
+      "raw_hot": 188114,
+      "num": 188114,
+      "word": "门店回应冰淇淋刺客卖268一个",
+      "onboard_time": 1748585539,
       "rank": 39,
-      "category": "艺人"
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 184271,
@@ -809,6 +873,14 @@
       "onboard_time": 1748571260,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 174831,
+      "num": 234416,
+      "word": "洪晃在追折腰",
+      "onboard_time": 1748586380,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 174430,
@@ -987,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154210,
+      "num": 195082,
+      "word": "加沙5岁孩子不想活下去",
+      "onboard_time": 1748583679,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153829,
       "num": 153829,
       "word": "肖战藏海传演技",
@@ -1009,6 +1089,14 @@
       "onboard_time": 1748576480,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152296,
+      "num": 152296,
+      "word": "美对我国产大飞机下手",
+      "onboard_time": 1748586200,
+      "rank": 45,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 152094,
@@ -1075,12 +1163,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143208,
+      "num": 226704,
+      "word": "女婴手术6分钟无作为致瘫",
+      "onboard_time": 1748586501,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141938,
+      "num": 141938,
+      "word": "雨果晒与王楚钦梁靖崑莫雷高德合照",
+      "onboard_time": 1748586801,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140750,
       "num": 433800,
       "word": "银川烧烤店爆炸事故3人提供虚假证明",
       "onboard_time": 1748579542,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140733,
+      "num": 140733,
+      "word": "为什么豪车圈不再迷信车标了",
+      "onboard_time": 1748585901,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 136374,
+      "num": 136374,
+      "word": "断眉歌手唱SeeYouAgain",
+      "onboard_time": 1748584101,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 136175,
@@ -1155,6 +1275,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 122051,
+      "num": 297301,
+      "word": "银行员工完不成消费贷任务一周扣三百",
+      "onboard_time": 1748584521,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115411,
       "num": 152208,
       "word": "90后小伙拍下800斤荔枝发声",
@@ -1184,14 +1312,6 @@
       "word": "马斯克在美政府效率部最后一天",
       "onboard_time": 1748572820,
       "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 111667,
-      "num": 195082,
-      "word": "加沙5岁孩子不想活下去",
-      "onboard_time": 1748583679,
-      "rank": 32,
       "category": "国际时政"
     },
     {
@@ -1251,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98490,
+      "num": 236517,
+      "word": "外媒嘲讽印度靠PPT打赢战争",
+      "onboard_time": 1748586560,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97555,
       "num": 97555,
       "word": "iPhone17标准版屏幕曝料",
@@ -1307,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94069,
+      "num": 188385,
+      "word": "韩国工地午饭都吃什么",
+      "onboard_time": 1748585480,
+      "rank": 38,
+      "category": "美食,海外新闻"
+    },
+    {
       "raw_hot": 94057,
       "num": 94057,
       "word": "曾之乔回应二胎",
@@ -1321,6 +1457,14 @@
       "onboard_time": 1748515581,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91156,
+      "num": 345143,
+      "word": "被这些中国品牌狠狠燃到了",
+      "onboard_time": 1748585121,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89923,
@@ -1443,6 +1587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77558,
+      "num": 718085,
+      "word": "今天致敬国之脊梁",
+      "onboard_time": 1748586260,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77430,
       "num": 77430,
       "word": "因电动车被推走女子推倒一整排车",
@@ -1553,6 +1705,14 @@
       "onboard_time": 1748513420,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67231,
+      "num": 176349,
+      "word": "一艘龙舟成本近35万元",
+      "onboard_time": 1748585000,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65684,
@@ -1715,6 +1875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44508,
+      "num": 263163,
+      "word": "为什么越来越多的人能全款还要用分期免息",
+      "onboard_time": 1748585781,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44340,
       "num": 1383534,
       "word": "世界市长对话上海",
@@ -1819,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33300,
+      "num": 229793,
+      "word": "人生两万天上班该怎么享受生活",
+      "onboard_time": 1748585781,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 30940,
       "num": 184437,
       "word": "张家界溶洞变成垃圾场",
@@ -1899,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25117,
+      "num": 231646,
+      "word": "外国网友评杭州CBD麦田",
+      "onboard_time": 1748584761,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24604,
       "num": 251692,
       "word": "养孩子都有哪些误区",
@@ -1937,6 +2121,14 @@
       "onboard_time": 1748534482,
       "rank": 34,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 20332,
+      "num": 225034,
+      "word": "天降纸尿裤砸碎小车挡风玻璃",
+      "onboard_time": 1748586680,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19680,
@@ -2035,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 11507,
+      "num": 228545,
+      "word": "天才不是被打出来的",
+      "onboard_time": 1748586440,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1972,
       "num": 182892,
       "word": "再也不用担心快乐到模糊了",
@@ -2046,6 +2246,9 @@
   "hotgov_list": [
     {
       "word": "#习近平勉励科技工作者的暖心瞬间#"
+    },
+    {
+      "word": "#总书记这样勉励广大科技工作者#"
     }
   ]
 }
