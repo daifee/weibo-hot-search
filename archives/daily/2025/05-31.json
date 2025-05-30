@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748644955065,
+  "endTime": 1748647451799,
   "band_list": [
     {
       "raw_hot": 1065815,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 618516,
-      "num": 207015,
+      "num": 248571,
       "word": "耳帝说马嘉祺的表演重点在于人而非歌",
       "onboard_time": 1748622681,
       "rank": 21,
@@ -49,6 +49,14 @@
       "onboard_time": 1748617883,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599771,
+      "num": 811397,
+      "word": "男子花20万娶妻女方亲戚是演员",
+      "onboard_time": 1748616924,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 539716,
@@ -83,14 +91,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396441,
-      "num": 519055,
-      "word": "男子花20万娶妻女方亲戚是演员",
-      "onboard_time": 1748616924,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 386506,
       "num": 147781,
       "word": "耳帝评歌手第3期",
@@ -113,6 +113,14 @@
       "onboard_time": 1748608824,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310298,
+      "num": 186783,
+      "word": "河北狗王爆火主人一夜涨粉20万",
+      "onboard_time": 1748616625,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294834,
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213764,
+      "num": 213764,
+      "word": "于正找大师算的横店爆剧是藏海传",
+      "onboard_time": 1748616565,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209790,
       "num": 124282,
       "word": "Attention改编 放水",
@@ -155,12 +171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208311,
-      "num": 132299,
-      "word": "河北狗王爆火主人一夜涨粉20万",
-      "onboard_time": 1748616625,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 190867,
+      "num": 190867,
+      "word": "清华回应中学生登珠峰能否保送",
+      "onboard_time": 1748603600,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 175964,
+      "num": 175964,
+      "word": "端午假期第一天",
+      "onboard_time": 1748617283,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 172779,
@@ -177,6 +201,22 @@
       "onboard_time": 1748606182,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158307,
+      "num": 158307,
+      "word": "熟粽子冷冻保存最好别超过15天",
+      "onboard_time": 1748645957,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157825,
+      "num": 157825,
+      "word": "小猫喝水姿势撞脸三星堆文物",
+      "onboard_time": 1748645957,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151290,
@@ -211,12 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122216,
-      "num": 122216,
-      "word": "清华回应中学生登珠峰能否保送",
-      "onboard_time": 1748603600,
-      "rank": 39,
-      "category": "民生新闻,教育"
+      "raw_hot": 124850,
+      "num": 115550,
+      "word": "藏海传27集封神",
+      "onboard_time": 1748612427,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 119439,
@@ -243,28 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104725,
-      "num": 104725,
-      "word": "端午假期第一天",
-      "onboard_time": 1748617283,
-      "rank": 29,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 97542,
       "num": 115657,
       "word": "台湾青年因为肖战想去重庆",
       "onboard_time": 1748604980,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 96044,
-      "num": 115648,
-      "word": "于正找大师算的横店爆剧是藏海传",
-      "onboard_time": 1748616565,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 95218,
@@ -283,12 +307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89738,
-      "num": 115550,
-      "word": "藏海传27集封神",
-      "onboard_time": 1748612427,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 89476,
+      "num": 115688,
+      "word": "常吃劣质碳水的人衰老更快",
+      "onboard_time": 1748604021,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88622,
@@ -307,12 +331,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81825,
-      "num": 115688,
-      "word": "常吃劣质碳水的人衰老更快",
-      "onboard_time": 1748604021,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 83766,
+      "num": 83766,
+      "word": "白举纲回应淘汰",
+      "onboard_time": 1748646016,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 79913,
@@ -339,12 +363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72184,
+      "num": 72184,
+      "word": "当地回应瓜农10万斤西瓜烂地里",
+      "onboard_time": 1748633235,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71330,
       "num": 115527,
       "word": "白举纲淘汰",
       "onboard_time": 1748615190,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67937,
+      "num": 67937,
+      "word": "婚礼睡过头是种什么体验",
+      "onboard_time": 1748606121,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 67080,
@@ -355,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66265,
+      "num": 93365,
+      "word": "断眉蒋一侨让歌手浪姐联动了",
+      "onboard_time": 1748646316,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65429,
       "num": 115487,
       "word": "员工2年迟到48次被开索赔遭驳回",
       "onboard_time": 1748620281,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57223,
+      "num": 56151,
+      "word": "蜜蜂小狗长大了",
+      "onboard_time": 1748646917,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 55958,
@@ -371,12 +427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53062,
-      "num": 42487,
-      "word": "当地回应瓜农10万斤西瓜烂地里",
-      "onboard_time": 1748633235,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 55918,
+      "num": 55918,
+      "word": "风象星座为什么爱着爱着爱不动了",
+      "onboard_time": 1748646917,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 55034,
+      "num": 55034,
+      "word": "上海月薪1万住家阿姨的一天",
+      "onboard_time": 1748646917,
+      "rank": 32,
+      "category": "休闲"
     },
     {
       "raw_hot": 51358,
@@ -387,12 +451,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50603,
+      "num": 50603,
+      "word": "大麦回应老年机号抢到演唱会门票",
+      "onboard_time": 1748615308,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 50453,
       "num": 102774,
       "word": "奔跑吧替莫离官宣丞磊",
       "onboard_time": 1748613626,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50405,
+      "num": 50405,
+      "word": "香暗荼想替母亲给藏海抵命",
+      "onboard_time": 1748647037,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48568,
+      "num": 367587,
+      "word": "原来龙舟是这样造出来的",
+      "onboard_time": 1748616804,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47654,
+      "num": 47654,
+      "word": "李晟19岁至40岁颜值变化",
+      "onboard_time": 1748642775,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 47171,
+      "num": 51987,
+      "word": "林峯堂妹回应破产传闻",
+      "onboard_time": 1748626696,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 46968,
@@ -419,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43138,
-      "num": 42207,
-      "word": "李晟19岁至40岁颜值变化",
-      "onboard_time": 1748642775,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42130,
       "num": 102664,
       "word": "今天星期五",
@@ -440,6 +536,14 @@
       "word": "双节消费市场buff叠满",
       "onboard_time": 1748617344,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39560,
+      "num": 39560,
+      "word": "专家谈大学生恋爱意愿为何走低",
+      "onboard_time": 1748629935,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -483,20 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34294,
-      "num": 34294,
+      "raw_hot": 35220,
+      "num": 38713,
       "word": "主人回应河北狗王外网爆火",
       "onboard_time": 1748638454,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33926,
-      "num": 51987,
-      "word": "林峯堂妹回应破产传闻",
-      "onboard_time": 1748626696,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 33379,
@@ -515,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29510,
-      "num": 33170,
-      "word": "专家谈大学生恋爱意愿为何走低",
-      "onboard_time": 1748629935,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27681,
       "num": 33194,
       "word": "陈楚生轻描淡写松弛感",
@@ -537,14 +625,6 @@
       "onboard_time": 1748627897,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23917,
-      "num": 229188,
-      "word": "原来龙舟是这样造出来的",
-      "onboard_time": 1748616804,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23884,
