@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/05/01 00:31:41 ~ 2025/05/30 21:07:04
+本榜单时间：2025/05/01 00:31:41 ~ 2025/05/30 21:36:04
 </p>
 </blockquote>
 <p>
@@ -311,6 +311,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E6%97%A0%E7%BC%98%E4%B8%96%E4%B9%92%E8%B5%9B%E5%9B%9B%E5%BC%BA%23" target="weibo">
 国乒男双无缘世乒赛四强（热度：3172307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%20%E6%A0%A1%E5%9B%AD%E6%AD%8C%E6%89%8B%E5%A4%A7%E8%B5%9B%23" target="weibo">
+马嘉祺 校园歌手大赛（热度：3111001）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ AD钙奶（热度：904430）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%E7%BB%93%E5%B1%80%23" target="weibo">
 淮水竹亭结局（热度：815363）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%90%83%E6%8B%8D%E5%8F%97%E6%8D%9F%23" target="weibo">
-国际乒联回应王楚钦球拍受损（热度：814672）
 </a>
 </li>
 

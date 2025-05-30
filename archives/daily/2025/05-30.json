@@ -1,6 +1,6 @@
 {
   "startTime": 1748536357595,
-  "endTime": 1748610424068,
+  "endTime": 1748612164990,
   "band_list": [
     {
       "raw_hot": 9663660,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 4777046,
-      "num": 281989,
+      "num": 416163,
       "word": "祝绪丹秒删",
       "onboard_time": 1748601081,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3111001,
+      "num": 3111001,
+      "word": "马嘉祺 校园歌手大赛",
+      "onboard_time": 1748610804,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 2218914,
-      "num": 262983,
+      "num": 342400,
       "word": "GAI 不好听",
       "onboard_time": 1748609245,
       "rank": 15,
@@ -65,6 +73,14 @@
       "onboard_time": 1748567900,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2053174,
+      "num": 361975,
+      "word": "难听",
+      "onboard_time": 1748611104,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1792354,
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 732230,
+      "num": 296144,
+      "word": "兵马俑",
+      "onboard_time": 1748609905,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 731941,
       "num": 236896,
       "word": "GAI主动第一个登场",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 663710,
-      "num": 307261,
+      "num": 326909,
       "word": "台湾青年因为肖战想去重庆",
       "onboard_time": 1748604980,
       "rank": 24,
@@ -339,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 620642,
+      "num": 620642,
+      "word": "王楚钦回应球拍2次受损",
+      "onboard_time": 1748611284,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 616558,
       "num": 616558,
       "word": "张真源毕业",
@@ -353,6 +385,14 @@
       "onboard_time": 1748576420,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 565142,
+      "num": 237038,
+      "word": "陈楚生提到袁惟仁哭了",
+      "onboard_time": 1748611587,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 549407,
@@ -451,8 +491,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466450,
+      "num": 466450,
+      "word": "泡泡玛特哭娃",
+      "onboard_time": 1748607083,
+      "rank": 17,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 458467,
-      "num": 204509,
+      "num": 226510,
       "word": "白举纲进步",
       "onboard_time": 1748609185,
       "rank": 27,
@@ -579,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 349117,
-      "num": 349117,
-      "word": "泡泡玛特哭娃",
-      "onboard_time": 1748607083,
-      "rank": 17,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 343327,
       "num": 320348,
       "word": "周深鹿晗汪苏泷张杰青岛见",
@@ -641,14 +681,6 @@
       "onboard_time": 1748592320,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 309718,
-      "num": 244241,
-      "word": "兵马俑",
-      "onboard_time": 1748609905,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 302195,
@@ -753,6 +785,14 @@
       "onboard_time": 1748577200,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277823,
+      "num": 277823,
+      "word": "单依纯清唱自带混响",
+      "onboard_time": 1748611342,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 268281,
@@ -971,12 +1011,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223166,
+      "num": 198550,
+      "word": "陈楚生的舒适区",
+      "onboard_time": 1748611825,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219863,
       "num": 367016,
       "word": "日本抢购大米网站崩了",
       "onboard_time": 1748593401,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 219685,
+      "num": 219685,
+      "word": "林志炫演唱会连唱二十几首",
+      "onboard_time": 1748611284,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 219338,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1748592981,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210952,
+      "num": 376477,
+      "word": "尊界S800座舱太大太尊了",
+      "onboard_time": 1748610264,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 210932,
@@ -1163,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197841,
+      "num": 197841,
+      "word": "马嘉祺被做局了",
+      "onboard_time": 1748612129,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197673,
       "num": 197673,
       "word": "刘宇宁这么多OST不是白唱的",
@@ -1195,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195440,
+      "num": 195440,
+      "word": "see you again",
+      "onboard_time": 1748610503,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195112,
       "num": 195112,
       "word": "eStar易峥官宣离队",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1748582181,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191935,
+      "num": 197402,
+      "word": "金晨妆造必有高人指点",
+      "onboard_time": 1748612005,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 191720,
@@ -1467,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173938,
+      "num": 205655,
+      "word": "刘宇宁给大乔点跳楼机",
+      "onboard_time": 1748609245,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173620,
       "num": 173620,
       "word": "咸鱼飞升",
@@ -1651,6 +1747,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 156966,
+      "num": 156966,
+      "word": "白举纲心态",
+      "onboard_time": 1748611650,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156497,
       "num": 156497,
       "word": "机器人练习张艺兴同款舞蹈累瘫了",
@@ -1827,6 +1931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142533,
+      "num": 195678,
+      "word": "亚洲新声",
+      "onboard_time": 1748612067,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141985,
       "num": 141985,
       "word": "把事情交给宋亚轩张真源你就操心吧",
@@ -1860,7 +1972,7 @@
     },
     {
       "raw_hot": 139646,
-      "num": 139646,
+      "num": 181931,
       "word": "韩国军机垂直坠毁",
       "onboard_time": 1748606121,
       "rank": 39,
@@ -1881,14 +1993,6 @@
       "onboard_time": 1748602400,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 136718,
-      "num": 205655,
-      "word": "刘宇宁给大乔点跳楼机",
-      "onboard_time": 1748609245,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 136374,
@@ -1996,7 +2100,7 @@
     },
     {
       "raw_hot": 130092,
-      "num": 248530,
+      "num": 314789,
       "word": "X200Ultra独家解锁楚生的世界2.0",
       "onboard_time": 1748608644,
       "rank": 16,
@@ -2129,6 +2233,14 @@
       "onboard_time": 1748578220,
       "rank": 18,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 121510,
+      "num": 194358,
+      "word": "尊界S800引领时代的顶级安全",
+      "onboard_time": 1748612067,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 121230,
@@ -2323,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103673,
+      "num": 103673,
+      "word": "中国香港vs曼联",
+      "onboard_time": 1748611885,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101434,
       "num": 101434,
       "word": "鹿晗亚洲巡演青岛站官宣",
@@ -2376,6 +2496,22 @@
       "word": "代露娃这得算工伤吧",
       "onboard_time": 1748531061,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98832,
+      "num": 288567,
+      "word": "巴黎世家三里屯活动",
+      "onboard_time": 1748611104,
+      "rank": 16,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 98418,
+      "num": 247898,
+      "word": "张真源是蜘蛛侠吗",
+      "onboard_time": 1748610683,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -2588,7 +2724,7 @@
     },
     {
       "raw_hot": 84991,
-      "num": 199926,
+      "num": 262212,
       "word": "1960元买2张演唱会票竟是铁窗泪",
       "onboard_time": 1748606962,
       "rank": 27,
@@ -2601,14 +2737,6 @@
       "onboard_time": 1748534601,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84223,
-      "num": 198020,
-      "word": "尊界S800座舱太大太尊了",
-      "onboard_time": 1748610264,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 84062,
@@ -2713,6 +2841,14 @@
       "onboard_time": 1748564482,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77000,
+      "num": 255956,
+      "word": "记者探访地铁卖座花5元坐到座位",
+      "onboard_time": 1748610385,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76860,
@@ -3531,6 +3667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 23363,
+      "num": 198629,
+      "word": "如何通过聊天判断对方是聪明人",
+      "onboard_time": 1748607863,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22571,
       "num": 606661,
       "word": "让精彩民俗游持续助燃文旅消费热",
@@ -3555,20 +3699,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21626,
-      "num": 129070,
-      "word": "记者探访地铁卖座花5元坐到座位",
-      "onboard_time": 1748610385,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21577,
       "num": 133954,
       "word": "5岁小孩哥比30岁的我懂得还多",
       "onboard_time": 1748597301,
       "rank": 38,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 21489,
+      "num": 194354,
+      "word": "2%的手机电量能做完哪些事",
+      "onboard_time": 1748612129,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 21285,
@@ -3780,7 +3924,7 @@
     },
     {
       "raw_hot": 3941,
-      "num": 950063,
+      "num": 1262449,
       "word": "万千气象看四川",
       "onboard_time": 1748272763,
       "rank": 2,
