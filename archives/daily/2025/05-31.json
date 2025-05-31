@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748695591882,
+  "endTime": 1748696556727,
   "band_list": [
     {
       "raw_hot": 1903751,
@@ -51,6 +51,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1149848,
+      "num": 335529,
+      "word": "刘浩存吻戏",
+      "onboard_time": 1748692222,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1065815,
       "num": 1065815,
       "word": "单依纯失误",
@@ -73,14 +81,6 @@
       "onboard_time": 1748619503,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 955553,
-      "num": 335529,
-      "word": "刘浩存吻戏",
-      "onboard_time": 1748692222,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 916108,
@@ -123,20 +123,28 @@
       "category": "正能量,教育"
     },
     {
+      "raw_hot": 778514,
+      "num": 297352,
+      "word": "8旬老人砍掉小区20年香樟树",
+      "onboard_time": 1748691861,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 764925,
+      "num": 416633,
+      "word": "韩国演员金惠恩发文回怼柳时敏",
+      "onboard_time": 1748692040,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 733980,
       "num": 585210,
       "word": "断眉 挂电",
       "onboard_time": 1748662223,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 725865,
-      "num": 357098,
-      "word": "韩国演员金惠恩发文回怼柳时敏",
-      "onboard_time": 1748692040,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 717962,
@@ -299,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 577091,
+      "num": 260035,
+      "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
+      "onboard_time": 1748695762,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 560081,
       "num": 560081,
       "word": "南航通报客机起飞15分钟紧急降落",
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 440639,
+      "num": 440639,
+      "word": "BLG对战IG",
+      "onboard_time": 1748689640,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 439815,
       "num": 439815,
       "word": "国内多地网友目击夜空现不明飞行物",
@@ -451,20 +475,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411424,
+      "num": 324899,
+      "word": "朱一龙晒火锅粽子",
+      "onboard_time": 1748692521,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410871,
       "num": 225221,
       "word": "陈楚生赛后发文",
       "onboard_time": 1748620522,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401499,
-      "num": 324899,
-      "word": "朱一龙晒火锅粽子",
-      "onboard_time": 1748692521,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 399446,
@@ -529,6 +553,14 @@
       "onboard_time": 1748678901,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362207,
+      "num": 362207,
+      "word": "各国为抢哈佛生源真的是拼了",
+      "onboard_time": 1748693601,
+      "rank": 9,
+      "category": "海外新闻,教育"
     },
     {
       "raw_hot": 352950,
@@ -699,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297352,
-      "num": 297352,
-      "word": "8旬老人砍掉小区20年香樟树",
-      "onboard_time": 1748691861,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294834,
       "num": 127776,
       "word": "补位歌手是谁",
@@ -761,6 +785,14 @@
       "onboard_time": 1748655200,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278133,
+      "num": 278133,
+      "word": "露娜一集叫了十五次哥哥",
+      "onboard_time": 1748696241,
+      "rank": 9,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 277286,
@@ -995,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211369,
+      "num": 211369,
+      "word": "藏海传 男频",
+      "onboard_time": 1748694741,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209977,
       "num": 209017,
       "word": "生命树",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1748686340,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193991,
+      "num": 193991,
+      "word": "给第一次去扬州捏脚的人一点震撼",
+      "onboard_time": 1748695641,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 193868,
@@ -1251,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187492,
+      "num": 187492,
+      "word": "患神经病邻居持刀上门打砸",
+      "onboard_time": 1748692342,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186499,
       "num": 186499,
       "word": "张婧仪扯肖战领带",
@@ -1260,7 +1316,7 @@
     },
     {
       "raw_hot": 185176,
-      "num": 185176,
+      "num": 204424,
       "word": "宣璐没演上山海情泪崩",
       "onboard_time": 1748693840,
       "rank": 25,
@@ -1291,27 +1347,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 183945,
-      "num": 183945,
-      "word": "藏海传 男频",
-      "onboard_time": 1748694741,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183825,
       "num": 183825,
       "word": "LPL最佳新秀Erha",
       "onboard_time": 1748668880,
       "rank": 25,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 183525,
-      "num": 183525,
-      "word": "BLG对战IG",
-      "onboard_time": 1748689640,
-      "rank": 31,
       "category": "电竞"
     },
     {
@@ -1323,28 +1363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183463,
-      "num": 337527,
-      "word": "各国为抢哈佛生源真的是拼了",
-      "onboard_time": 1748693601,
-      "rank": 9,
-      "category": "海外新闻,教育"
-    },
-    {
       "raw_hot": 183424,
       "num": 183424,
       "word": "藏海传云合占比30.6%",
       "onboard_time": 1748682200,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182773,
-      "num": 182773,
-      "word": "患神经病邻居持刀上门打砸",
-      "onboard_time": 1748692342,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182589,
@@ -1531,6 +1555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162122,
+      "num": 162122,
+      "word": "欧冠决赛",
+      "onboard_time": 1748695641,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162023,
       "num": 283039,
       "word": "张艺兴容祖儿苏有朋京东歌会歌单",
@@ -1683,11 +1715,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147376,
+      "num": 200062,
+      "word": "选余男来演女王的简直是天才",
+      "onboard_time": 1748695041,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146726,
       "num": 146726,
       "word": "曹公公敲鼓接着奏乐接着舞",
       "onboard_time": 1748672000,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146695,
+      "num": 146695,
+      "word": "藏海传 感情线",
+      "onboard_time": 1748695460,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -1723,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145716,
-      "num": 145716,
-      "word": "选余男来演女王的简直是天才",
-      "onboard_time": 1748695041,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145659,
       "num": 145659,
       "word": "60年前修铁路意外发现考古盲盒",
@@ -1753,6 +1793,14 @@
       "onboard_time": 1748688620,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144613,
+      "num": 144613,
+      "word": "谁来懂一下周深的齐舞",
+      "onboard_time": 1748696061,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 144248,
@@ -1793,6 +1841,14 @@
       "onboard_time": 1748687480,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 141230,
+      "num": 141230,
+      "word": "你好星期六",
+      "onboard_time": 1748695341,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 140551,
@@ -1979,14 +2035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130631,
-      "num": 130631,
-      "word": "你好星期六",
-      "onboard_time": 1748695341,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129964,
       "num": 129964,
       "word": "端午安康",
@@ -2155,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124669,
+      "num": 124669,
+      "word": "中国队亚锦赛女子接力摘金",
+      "onboard_time": 1748696182,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124256,
       "num": 124256,
       "word": "当小猫有了自己的玩具后",
@@ -2243,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119086,
+      "num": 119086,
+      "word": "碟中谍8票房破亿",
+      "onboard_time": 1748696061,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118878,
       "num": 118878,
       "word": "高管被指怒批员工不到晚8点就下班",
@@ -2289,6 +2353,14 @@
       "onboard_time": 1748662401,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116711,
+      "num": 116711,
+      "word": "江苏比赛第一友谊第十四",
+      "onboard_time": 1748693361,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 116651,
@@ -2345,14 +2417,6 @@
       "onboard_time": 1748679021,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113689,
-      "num": 113689,
-      "word": "藏海传 感情线",
-      "onboard_time": 1748695460,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 113686,
@@ -2427,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109558,
+      "num": 121662,
+      "word": "7个精致穿衣技巧",
+      "onboard_time": 1748696422,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 108178,
       "num": 133495,
       "word": "断眉蒋一侨让歌手浪姐联动了",
@@ -2457,6 +2529,22 @@
       "onboard_time": 1748655862,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106623,
+      "num": 330737,
+      "word": "幼儿园厨工洗碗池里洗墩布被辞退",
+      "onboard_time": 1748694922,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106501,
+      "num": 106501,
+      "word": "智性恋与普通恋爱的区别",
+      "onboard_time": 1748695701,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 104498,
@@ -3324,19 +3412,11 @@
     },
     {
       "raw_hot": 29491,
-      "num": 166994,
+      "num": 252933,
       "word": "睡前多吃点碳水就能快速入睡吗",
       "onboard_time": 1748695400,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 28123,
-      "num": 330737,
-      "word": "幼儿园厨工洗碗池里洗墩布被辞退",
-      "onboard_time": 1748694922,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27681,
@@ -3427,7 +3507,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24274,
+      "raw_hot": 24516,
       "num": 328331,
       "word": "凭啥要来四川过端午",
       "onboard_time": 1748692881,
@@ -3571,6 +3651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13138,
+      "num": 195291,
+      "word": "路人齐心用地垫接住坠楼老人",
+      "onboard_time": 1748694741,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12861,
       "num": 210914,
       "word": "传统艾灸与灯草灸的养生效果有何区别",
@@ -3609,14 +3697,6 @@
       "onboard_time": 1748636715,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8443,
-      "num": 178114,
-      "word": "路人齐心用地垫接住坠楼老人",
-      "onboard_time": 1748694741,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8336,
