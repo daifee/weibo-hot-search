@@ -1,0 +1,410 @@
+{
+  "runTime": 1748657965128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1177543,
+        "num": 1188406,
+        "word": "微信朋友圈能折叠了",
+        "onboard_time": 1748653040,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 530362,
+        "num": 530362,
+        "word": "单依纯失误",
+        "onboard_time": 1748615190,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57440,
+        "num": 511055,
+        "word": "原来龙舟是这样造出来的",
+        "onboard_time": 1748616804,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501874,
+        "num": 501874,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497675,
+        "num": 497675,
+        "word": "亚当歌手",
+        "onboard_time": 1748654180,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340081,
+        "num": 340081,
+        "word": "韩国高丽大学决定接收哈佛国际师生",
+        "onboard_time": 1748649678,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 352950,
+        "num": 318853,
+        "word": "月升沧海",
+        "onboard_time": 1748652200,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263159,
+        "num": 263159,
+        "word": "莫迪想让全世界都吃印度食品",
+        "onboard_time": 1748654120,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 256109,
+        "num": 256109,
+        "word": "员工迟到48次被辞称每月有3次机会",
+        "onboard_time": 1748615486,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247599,
+        "num": 247599,
+        "word": "中国汽车工业协会发布公平竞争倡议",
+        "onboard_time": 1748656341,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1256350,
+        "num": 247596,
+        "word": "吉林通报李德明花千万建10个厕所",
+        "onboard_time": 1748650879,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643856,
+        "num": 247338,
+        "word": "乐高中国已终止与涉事博主合作",
+        "onboard_time": 1748654480,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265501,
+        "num": 247306,
+        "word": "上海一公交站椅子离地仅手机高",
+        "onboard_time": 1748650219,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232523,
+        "num": 247073,
+        "word": "男子造成两尊铠甲武士俑损坏",
+        "onboard_time": 1748653639,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25585,
+        "num": 246980,
+        "word": "端午微博抢红包攻略",
+        "onboard_time": 1748656880,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 246914,
+        "num": 246914,
+        "word": "端午祝福文案",
+        "onboard_time": 1748648837,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231964,
+        "num": 231964,
+        "word": "首部双00后古偶要抬上来了",
+        "onboard_time": 1748616444,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226264,
+        "num": 226264,
+        "word": "谭松韵35岁生日照",
+        "onboard_time": 1748653279,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216789,
+        "num": 216789,
+        "word": "断眉吃粽子粘牙",
+        "onboard_time": 1748655200,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37981,
+        "num": 209386,
+        "word": "张艺兴容祖儿苏有朋京东歌会歌单",
+        "onboard_time": 1748657360,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237505,
+        "num": 208394,
+        "word": "男子遭精神病邻居砸门咒骂2年半",
+        "onboard_time": 1748650760,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206228,
+        "num": 206228,
+        "word": "律师称故意毁损文物罪最高可判10年",
+        "onboard_time": 1748650339,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203734,
+        "num": 203734,
+        "word": "特朗普送马斯克一把金钥匙",
+        "onboard_time": 1748654781,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179160,
+        "num": 179160,
+        "word": "跳至兵马俑三号坑男子被控制",
+        "onboard_time": 1748653939,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169277,
+        "num": 169277,
+        "word": "歌手排名",
+        "onboard_time": 1748614467,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155112,
+        "num": 155112,
+        "word": "丁程鑫录取通知书",
+        "onboard_time": 1748617883,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154694,
+        "num": 154694,
+        "word": "马嘉祺回应晋级",
+        "onboard_time": 1748651600,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151991,
+        "num": 151991,
+        "word": "断眉今天最好笑的其实是",
+        "onboard_time": 1748619503,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134909,
+        "num": 134909,
+        "word": "倡议车企不以低于成本价格倾销商品",
+        "onboard_time": 1748655200,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129964,
+        "num": 129964,
+        "word": "端午安康",
+        "onboard_time": 1748652320,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129954,
+        "num": 129954,
+        "word": "马斯克从DOGE离职后将成特朗普顾问",
+        "onboard_time": 1748650760,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125860,
+        "num": 125860,
+        "word": "莫文蔚 爱情",
+        "onboard_time": 1748656280,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122445,
+        "num": 122445,
+        "word": "藏海传收视率超2.2%",
+        "onboard_time": 1748654600,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97118,
+        "num": 119062,
+        "word": "说端午快乐还是端午安康",
+        "onboard_time": 1748654961,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117607,
+        "num": 117607,
+        "word": "月经与减重不可兼得吗",
+        "onboard_time": 1748655379,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 116436,
+        "num": 116436,
+        "word": "原县委书记搞形象工程建140平厕所",
+        "onboard_time": 1748648658,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115054,
+        "num": 115054,
+        "word": "王楚钦谈奥运会32强输掉了外战",
+        "onboard_time": 1748650820,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112130,
+        "num": 112130,
+        "word": "耳帝说马嘉祺的表演重点在于人而非歌",
+        "onboard_time": 1748622681,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109618,
+        "num": 109618,
+        "word": "耳帝投票陈楚生",
+        "onboard_time": 1748657421,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107833,
+        "num": 107833,
+        "word": "丁当 补位",
+        "onboard_time": 1748649138,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107784,
+        "num": 107784,
+        "word": "教授家里堆满小麦脖子被晒到脱皮",
+        "onboard_time": 1748650519,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107128,
+        "num": 107128,
+        "word": "刘宇宁都把折腰2想好了",
+        "onboard_time": 1748655862,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102132,
+        "num": 102132,
+        "word": "乐高中国回应",
+        "onboard_time": 1748657121,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99345,
+        "num": 99345,
+        "word": "梁伟铿王昶0比2金元浩徐承宰",
+        "onboard_time": 1748657661,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98511,
+        "num": 98511,
+        "word": "霉霉拿回所有专辑版权",
+        "onboard_time": 1748649379,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96642,
+        "num": 96642,
+        "word": "中方回应日方请求水产品入华",
+        "onboard_time": 1748618662,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95437,
+        "num": 95437,
+        "word": "男子花20万娶妻女方亲戚是演员",
+        "onboard_time": 1748616924,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94234,
+        "num": 94234,
+        "word": "中国人过端午各有各的仪式感",
+        "onboard_time": 1748657900,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91840,
+        "num": 91840,
+        "word": "罗家英说自己最多剩9年寿命",
+        "onboard_time": 1748654781,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91434,
+        "num": 91434,
+        "word": "韩国首尔一列地铁起火",
+        "onboard_time": 1748656760,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力实现高水平科技自立自强#"
+    }
+  }
+}
