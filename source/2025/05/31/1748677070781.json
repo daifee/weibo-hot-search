@@ -1,0 +1,410 @@
+{
+  "runTime": 1748677070781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 662208,
+        "num": 1105953,
+        "word": "端午红包",
+        "onboard_time": 1748665222,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 571637,
+        "num": 571637,
+        "word": "九门阵容官宣",
+        "onboard_time": 1748674880,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6310,
+        "num": 565308,
+        "word": "网络中国节",
+        "onboard_time": 1748596340,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 563619,
+        "num": 563619,
+        "word": "演员方刚去世",
+        "onboard_time": 1748675118,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554543,
+        "num": 554543,
+        "word": "美国暂停出口C919发动机",
+        "onboard_time": 1748672780,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 393789,
+        "num": 393789,
+        "word": "樊振东慕尼黑看欧冠",
+        "onboard_time": 1748675540,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457104,
+        "num": 391772,
+        "word": "单依纯回应被说像王菲",
+        "onboard_time": 1748670980,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385503,
+        "num": 385503,
+        "word": "双胞胎必须要一模一样的东西吗",
+        "onboard_time": 1748666062,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359476,
+        "num": 359476,
+        "word": "宜宾地震",
+        "onboard_time": 1748674220,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 128518,
+        "num": 335362,
+        "word": "说端午快乐还是端午安康",
+        "onboard_time": 1748654961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325509,
+        "num": 325509,
+        "word": "微信朋友圈能折叠了",
+        "onboard_time": 1748653040,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324797,
+        "num": 324797,
+        "word": "姜广涛发文",
+        "onboard_time": 1748675781,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306214,
+        "num": 306214,
+        "word": "鞠婧祎五大杂志",
+        "onboard_time": 1748661743,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71978,
+        "num": 259301,
+        "word": "陈丽君黄子弘凡等亮相央视端午晚会",
+        "onboard_time": 1748676799,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37778,
+        "num": 248136,
+        "word": "端午咱们这样过",
+        "onboard_time": 1748674880,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245358,
+        "num": 245358,
+        "word": "田曦薇簪花礼裙",
+        "onboard_time": 1748676500,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241604,
+        "num": 241604,
+        "word": "杨紫胡歌生命树宝丽来",
+        "onboard_time": 1748671460,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239499,
+        "num": 239499,
+        "word": "姚琛的红包",
+        "onboard_time": 1748675240,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31635,
+        "num": 220813,
+        "word": "初入职场应该怎么做",
+        "onboard_time": 1748676559,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178693,
+        "num": 213577,
+        "word": "马斯克谈伤势嘲讽马克龙被妻子推脸",
+        "onboard_time": 1748675301,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187846,
+        "num": 211930,
+        "word": "米奇真是喜欢白举纲吧",
+        "onboard_time": 1748675841,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210344,
+        "num": 210344,
+        "word": "洞洞鞋上岗",
+        "onboard_time": 1748665341,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208576,
+        "num": 208576,
+        "word": "冬夏女王认出藏海",
+        "onboard_time": 1748669000,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205260,
+        "num": 205260,
+        "word": "王玉雯红包",
+        "onboard_time": 1748671940,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84720,
+        "num": 193235,
+        "word": "陈梦祝大家快乐粽在身旁",
+        "onboard_time": 1748674940,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 840399,
+        "num": 192665,
+        "word": "马斯克被儿子打了",
+        "onboard_time": 1748665400,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191648,
+        "num": 191648,
+        "word": "用了这么久的智能马桶才发现用错了",
+        "onboard_time": 1748674280,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189512,
+        "num": 189512,
+        "word": "吴宇恒红包",
+        "onboard_time": 1748675180,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187648,
+        "num": 187648,
+        "word": "穿最粉的裙子打最狠的架",
+        "onboard_time": 1748675899,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46111,
+        "num": 187101,
+        "word": "屈臣氏一门店多收4元赔偿500元",
+        "onboard_time": 1748675420,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186740,
+        "num": 186740,
+        "word": "吴彦祖疯狂接代言被猜缺钱",
+        "onboard_time": 1748676920,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186434,
+        "num": 186434,
+        "word": "鞠婧祎五大杂志销量",
+        "onboard_time": 1748674340,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178317,
+        "num": 178317,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175992,
+        "num": 175992,
+        "word": "浪姐助阵嘉宾",
+        "onboard_time": 1748669121,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161135,
+        "num": 161135,
+        "word": "光合积木",
+        "onboard_time": 1748669601,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153845,
+        "num": 153845,
+        "word": "断眉 挂电",
+        "onboard_time": 1748662223,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153216,
+        "num": 153216,
+        "word": "高压锅煮粽子致爆炸女子发声",
+        "onboard_time": 1748671281,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152073,
+        "num": 152073,
+        "word": "樊振东端午节发文",
+        "onboard_time": 1748676980,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151466,
+        "num": 151466,
+        "word": "长期穿洞洞鞋会更容易得脚气吗",
+        "onboard_time": 1748675240,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148101,
+        "num": 148101,
+        "word": "南航通报客机起飞15分钟紧急降落",
+        "onboard_time": 1748676622,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145112,
+        "num": 145112,
+        "word": "陈伟霆曾舜晞领衔主演",
+        "onboard_time": 1748675660,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140551,
+        "num": 140551,
+        "word": "樊振东的慕尼黑早安",
+        "onboard_time": 1748676980,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133974,
+        "num": 133974,
+        "word": "TES对战FPX",
+        "onboard_time": 1748674940,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133844,
+        "num": 133844,
+        "word": "KPL团粽开拍了",
+        "onboard_time": 1748676380,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128953,
+        "num": 128953,
+        "word": "九门开机",
+        "onboard_time": 1748660421,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127573,
+        "num": 127573,
+        "word": "潮汕人鲜吃血蚶太生猛了",
+        "onboard_time": 1748676261,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126895,
+        "num": 126895,
+        "word": "乐高中国已终止与涉事博主合作",
+        "onboard_time": 1748654480,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124998,
+        "num": 124998,
+        "word": "男性抑郁患者困在隐蔽的痛苦中",
+        "onboard_time": 1748670920,
+        "rank": 47,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 121721,
+        "num": 121721,
+        "word": "藏海左眼流泪",
+        "onboard_time": 1748674220,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116996,
+        "num": 116996,
+        "word": "工藤静香都来了木村拓哉还远吗",
+        "onboard_time": 1748662040,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#为科技强国建设作出更大贡献#"
+    }
+  }
+}

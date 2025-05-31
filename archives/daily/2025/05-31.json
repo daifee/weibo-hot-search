@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748676186574,
+  "endTime": 1748677070781,
   "band_list": [
     {
       "raw_hot": 1903751,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 662848,
-      "num": 558978,
+      "num": 563619,
       "word": "演员方刚去世",
       "onboard_time": 1748675118,
       "rank": 3,
@@ -169,6 +169,14 @@
       "onboard_time": 1748672780,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 571637,
+      "num": 571637,
+      "word": "九门阵容官宣",
+      "onboard_time": 1748674880,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 550759,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393789,
+      "num": 393789,
+      "word": "樊振东慕尼黑看欧冠",
+      "onboard_time": 1748675540,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 391659,
       "num": 391659,
       "word": "杨紫胡歌生命树宝丽来",
@@ -384,6 +400,14 @@
       "word": "姚琛的红包",
       "onboard_time": 1748675240,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324797,
+      "num": 324797,
+      "word": "姜广涛发文",
+      "onboard_time": 1748675781,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -483,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279165,
-      "num": 387945,
-      "word": "樊振东慕尼黑看欧冠",
-      "onboard_time": 1748675540,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 277286,
       "num": 215448,
       "word": "男子遭精神病邻居砸门咒骂2年半",
@@ -523,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257537,
-      "num": 246196,
-      "word": "九门阵容官宣",
-      "onboard_time": 1748674880,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249059,
       "num": 249059,
       "word": "男子造成两尊铠甲武士俑损坏",
@@ -560,6 +568,14 @@
       "word": "鞠婧祎五大杂志销量",
       "onboard_time": 1748674340,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 245358,
+      "num": 245358,
+      "word": "田曦薇簪花礼裙",
+      "onboard_time": 1748676500,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -755,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193326,
-      "num": 193326,
-      "word": "姜广涛发文",
-      "onboard_time": 1748675781,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191432,
       "num": 191432,
       "word": "虞书欣六月行程表",
@@ -811,6 +819,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187846,
+      "num": 211930,
+      "word": "米奇真是喜欢白举纲吧",
+      "onboard_time": 1748675841,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187648,
+      "num": 187648,
+      "word": "穿最粉的裙子打最狠的架",
+      "onboard_time": 1748675899,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 186740,
+      "num": 186740,
+      "word": "吴彦祖疯狂接代言被猜缺钱",
+      "onboard_time": 1748676920,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184272,
       "num": 184272,
       "word": "TES对战FPX",
@@ -833,6 +865,14 @@
       "onboard_time": 1748653939,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178693,
+      "num": 246402,
+      "word": "马斯克谈伤势嘲讽马克龙被妻子推脸",
+      "onboard_time": 1748675301,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178158,
@@ -995,20 +1035,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154101,
-      "num": 154101,
-      "word": "米奇真是喜欢白举纲吧",
-      "onboard_time": 1748675841,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152962,
       "num": 208016,
       "word": "美防长回应为何发言总关联中国",
       "onboard_time": 1748660962,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152073,
+      "num": 152073,
+      "word": "樊振东端午节发文",
+      "onboard_time": 1748676980,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151466,
+      "num": 247331,
+      "word": "长期穿洞洞鞋会更容易得脚气吗",
+      "onboard_time": 1748675240,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 151290,
@@ -1051,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148101,
+      "num": 148101,
+      "word": "南航通报客机起飞15分钟紧急降落",
+      "onboard_time": 1748676622,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146726,
       "num": 146726,
       "word": "曹公公敲鼓接着奏乐接着舞",
@@ -1083,19 +1139,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143807,
-      "num": 143807,
-      "word": "穿最粉的裙子打最狠的架",
-      "onboard_time": 1748675899,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 142266,
       "num": 142266,
       "word": "王楚钦回应球拍2次受损",
       "onboard_time": 1748611284,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140551,
+      "num": 140551,
+      "word": "樊振东的慕尼黑早安",
+      "onboard_time": 1748676980,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1163,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133844,
+      "num": 133844,
+      "word": "KPL团粽开拍了",
+      "onboard_time": 1748676380,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130937,
       "num": 130937,
       "word": "白举纲鼓励马嘉祺",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1748673439,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127573,
+      "num": 127573,
+      "word": "潮汕人鲜吃血蚶太生猛了",
+      "onboard_time": 1748676261,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 126752,
@@ -1651,20 +1723,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87010,
-      "num": 246402,
-      "word": "马斯克谈伤势嘲讽马克龙被妻子推脸",
-      "onboard_time": 1748675301,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 85845,
       "num": 301632,
       "word": "15万纯电精灵1号超值升级",
       "onboard_time": 1748669061,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 84720,
+      "num": 193235,
+      "word": "陈梦祝大家快乐粽在身旁",
+      "onboard_time": 1748674940,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 80641,
@@ -1713,6 +1785,14 @@
       "onboard_time": 1748622562,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71978,
+      "num": 259301,
+      "word": "陈丽君黄子弘凡等亮相央视端午晚会",
+      "onboard_time": 1748676799,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 71330,
@@ -1995,6 +2075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 37778,
+      "num": 319545,
+      "word": "端午咱们这样过",
+      "onboard_time": 1748674880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37570,
       "num": 140692,
       "word": "郑钦文说甜蜜16强",
@@ -2067,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31635,
+      "num": 220813,
+      "word": "初入职场应该怎么做",
+      "onboard_time": 1748676559,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 30812,
       "num": 295008,
       "word": "余承东汪涵现身粤港澳车展",
@@ -2081,14 +2177,6 @@
       "onboard_time": 1748632513,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29164,
-      "num": 247331,
-      "word": "长期穿洞洞鞋会更容易得脚气吗",
-      "onboard_time": 1748675240,
-      "rank": 18,
-      "category": "科学科普"
     },
     {
       "raw_hot": 27681,
@@ -2113,14 +2201,6 @@
       "onboard_time": 1748660121,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26701,
-      "num": 319545,
-      "word": "端午咱们这样过",
-      "onboard_time": 1748674880,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25585,
@@ -2236,7 +2316,7 @@
     },
     {
       "raw_hot": 13789,
-      "num": 565110,
+      "num": 565308,
       "word": "网络中国节",
       "onboard_time": 1748596340,
       "rank": 2,
