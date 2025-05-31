@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748699090815,
+  "endTime": 1748701336815,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -1451,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 918930,
+      "num": 521214,
+      "word": "陈小春演唱会上座率",
+      "onboard_time": 1748698282,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 918136,
       "num": 918136,
       "word": "宋雨琦把IU给整结巴了",
@@ -2147,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 743537,
+      "num": 246779,
+      "word": "李昀锐关晓彤海边拥抱",
+      "onboard_time": 1748698102,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 737830,
       "num": 315433,
       "word": "SM就柳智敏ins争议道歉",
@@ -2451,6 +2467,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 689058,
+      "num": 625909,
+      "word": "藏海传 男频",
+      "onboard_time": 1748694741,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 685349,
       "num": 535529,
       "word": "王健林已被冻结4.9亿股权",
@@ -2737,14 +2761,6 @@
       "onboard_time": 1748145561,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 625909,
-      "num": 625909,
-      "word": "藏海传 男频",
-      "onboard_time": 1748694741,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 621946,
@@ -3379,6 +3395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 530275,
+      "num": 282469,
+      "word": "刘宇宁气场太强了",
+      "onboard_time": 1748699842,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 530004,
       "num": 530004,
       "word": "高密化工厂爆炸震塌5公里外天花板",
@@ -3689,6 +3713,14 @@
       "onboard_time": 1748424920,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 488662,
+      "num": 246921,
+      "word": "张艺兴异瞳烟熏妆",
+      "onboard_time": 1748697321,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 487784,
@@ -4947,14 +4979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 369124,
-      "num": 246921,
-      "word": "张艺兴异瞳烟熏妆",
-      "onboard_time": 1748697321,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 369076,
       "num": 346277,
       "word": "奔跑吧路透",
@@ -5145,6 +5169,14 @@
       "onboard_time": 1748432482,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 355779,
+      "num": 247182,
+      "word": "陈丽君叶童穿越时空浪漫相遇",
+      "onboard_time": 1748697862,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 355561,
@@ -5515,6 +5547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334903,
+      "num": 246706,
+      "word": "白敬亭 我寻思原相机也没美颜啊",
+      "onboard_time": 1748697622,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334477,
       "num": 334477,
       "word": "话剧演员转行做猫砂一年卖7个亿",
@@ -5571,14 +5611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 328757,
-      "num": 246806,
-      "word": "陈小春演唱会上座率",
-      "onboard_time": 1748698282,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 328651,
       "num": 328651,
       "word": "泡泡玛特回应Labubu品控问题",
@@ -5617,14 +5649,6 @@
       "onboard_time": 1748347401,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324998,
-      "num": 246779,
-      "word": "李昀锐关晓彤海边拥抱",
-      "onboard_time": 1748698102,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 324296,
@@ -5921,6 +5945,14 @@
       "onboard_time": 1748231002,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305017,
+      "num": 218819,
+      "word": "女装这种设计的意义在于没有意义",
+      "onboard_time": 1748696661,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 305011,
@@ -7251,28 +7283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247182,
-      "num": 247182,
-      "word": "陈丽君叶童穿越时空浪漫相遇",
-      "onboard_time": 1748697862,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246987,
       "num": 233057,
       "word": "仙逆",
       "onboard_time": 1748170701,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 246706,
-      "num": 246706,
-      "word": "白敬亭 我寻思原相机也没美颜啊",
-      "onboard_time": 1748697622,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 246350,
@@ -7481,6 +7497,14 @@
       "onboard_time": 1748310200,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 240628,
+      "num": 240628,
+      "word": "拆得剩几堵墙的别墅拍出2683万元",
+      "onboard_time": 1748699842,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240570,
@@ -8147,20 +8171,20 @@
       "category": "体育,综艺"
     },
     {
+      "raw_hot": 219090,
+      "num": 246876,
+      "word": "河南一水库水位下降现千佛石窟",
+      "onboard_time": 1748698703,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218851,
       "num": 218851,
       "word": "王者荣耀",
       "onboard_time": 1748158222,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 218819,
-      "num": 218819,
-      "word": "女装这种设计的意义在于没有意义",
-      "onboard_time": 1748696661,
-      "rank": 28,
-      "category": "时尚"
     },
     {
       "raw_hot": 218797,
@@ -11091,6 +11115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181218,
+      "num": 181218,
+      "word": "美一卡车侧翻致2.5亿只蜜蜂飞出",
+      "onboard_time": 1748700563,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 181212,
       "num": 181212,
       "word": "雷军晒玄戒O1纪念品",
@@ -12243,6 +12275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170220,
+      "num": 170220,
+      "word": "刘宇宁再唱春风十里",
+      "onboard_time": 1748700922,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170176,
       "num": 170176,
       "word": "爱自己是一生必修的功课",
@@ -12281,6 +12321,14 @@
       "onboard_time": 1748236702,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169929,
+      "num": 169929,
+      "word": "余承东称华为将只做五个界",
+      "onboard_time": 1748699241,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 169824,
@@ -12905,6 +12953,14 @@
       "onboard_time": 1748577140,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163732,
+      "num": 181073,
+      "word": "白鹿曾舜晞唱出端午仪式感",
+      "onboard_time": 1748700441,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 163448,
@@ -13569,6 +13625,14 @@
       "onboard_time": 1748445083,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156861,
+      "num": 156861,
+      "word": "王栎鑫彩排就开始饭撒",
+      "onboard_time": 1748700861,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 156791,
@@ -15115,6 +15179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142201,
+      "num": 209280,
+      "word": "宋轶张远合唱你是人间的四月天",
+      "onboard_time": 1748700441,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142144,
       "num": 166709,
       "word": "怎么突然开始流行七分裤",
@@ -15753,6 +15825,14 @@
       "onboard_time": 1748407462,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137006,
+      "num": 137006,
+      "word": "妹妹一句话没说状却告得明明白白",
+      "onboard_time": 1748700563,
+      "rank": 44,
+      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 136992,
@@ -16451,6 +16531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130764,
+      "num": 130764,
+      "word": "钟丽缇的火锅搭子是78岁的妈妈",
+      "onboard_time": 1748700742,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130709,
       "num": 130709,
       "word": "绝地潜兵",
@@ -16561,6 +16649,14 @@
       "onboard_time": 1748489301,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129520,
+      "num": 129520,
+      "word": "柯淳在纪凌尘身上找到共鸣了",
+      "onboard_time": 1748700082,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 129477,
@@ -16817,6 +16913,14 @@
       "onboard_time": 1748500582,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 127865,
+      "num": 127865,
+      "word": "TheShy一打三反杀",
+      "onboard_time": 1748700142,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 127856,
@@ -17265,6 +17369,14 @@
       "onboard_time": 1748156781,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123915,
+      "num": 123915,
+      "word": "张韶涵这跟端午甜粽有什么区别",
+      "onboard_time": 1748700682,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 123904,
@@ -18763,6 +18875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108204,
+      "num": 207765,
+      "word": "两代五阿哥京东直播歌会同台首唱",
+      "onboard_time": 1748700502,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108178,
       "num": 133495,
       "word": "断眉蒋一侨让歌手浪姐联动了",
@@ -18888,6 +19008,14 @@
       "word": "刘宇宁都把折腰2想好了",
       "onboard_time": 1748655862,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107095,
+      "num": 197464,
+      "word": "周奇直播还原庄二台词",
+      "onboard_time": 1748700623,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -20129,6 +20257,14 @@
       "onboard_time": 1748615131,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90614,
+      "num": 525784,
+      "word": "3个中国人在太空过端午",
+      "onboard_time": 1748700023,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90343,
@@ -21561,6 +21697,14 @@
       "onboard_time": 1748465294,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68408,
+      "num": 212636,
+      "word": "律师为什么不能给在押人员送吃的",
+      "onboard_time": 1748700742,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 68315,
@@ -23763,6 +23907,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 42207,
+      "num": 202525,
+      "word": "七旬老人为救孙伤人案新进展",
+      "onboard_time": 1748700381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42190,
       "num": 148897,
       "word": "男性抑郁症患者为何更难被理解",
@@ -24475,6 +24627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35163,
+      "num": 182287,
+      "word": "王楚钦端午万粽瞩目",
+      "onboard_time": 1748701222,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35074,
       "num": 1039204,
       "word": "高质量发展看能源",
@@ -24681,14 +24841,6 @@
       "onboard_time": 1748428280,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 32294,
-      "num": 246876,
-      "word": "河南一水库水位下降现千佛石窟",
-      "onboard_time": 1748698703,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32288,
@@ -25105,6 +25257,14 @@
       "onboard_time": 1748342302,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28759,
+      "num": 204170,
+      "word": "杨梅颜色越紫越抗炎是真是假",
+      "onboard_time": 1748700381,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 28735,
@@ -27727,6 +27887,9 @@
     },
     {
       "word": "#让中华文化展现出永久魅力和时代风采#"
+    },
+    {
+      "word": "#习近平期许孩子们茁壮成长#"
     }
   ]
 }
