@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748669080947,
+  "endTime": 1748670096101,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -2595,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626752,
+      "num": 484843,
+      "word": "双胞胎必须要一模一样的东西吗",
+      "onboard_time": 1748666062,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 621946,
       "num": 318811,
       "word": "肖战谍报上不封顶今日开机",
@@ -3923,6 +3931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432290,
+      "num": 432290,
+      "word": "王勉陈赫情头",
+      "onboard_time": 1748668399,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432265,
       "num": 238835,
       "word": "官方通报小车高架坠桥5人死亡",
@@ -5235,6 +5251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323514,
+      "num": 323514,
+      "word": "美国国防部长回应玉渊谭天记者提问",
+      "onboard_time": 1748668761,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 323223,
       "num": 323223,
       "word": "原神 海卡",
@@ -5819,6 +5843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286837,
+      "num": 286837,
+      "word": "光合积木",
+      "onboard_time": 1748669601,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286427,
       "num": 286427,
       "word": "折腰编剧你出来",
@@ -6049,6 +6081,14 @@
       "onboard_time": 1748650219,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274604,
+      "num": 274604,
+      "word": "冬夏女王认出藏海",
+      "onboard_time": 1748669000,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 274572,
@@ -6451,14 +6491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256340,
-      "num": 256340,
-      "word": "双胞胎必须要一模一样的东西吗",
-      "onboard_time": 1748666062,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 256258,
       "num": 256258,
       "word": "陈雨菲横扫安洗莹",
@@ -6641,6 +6673,14 @@
       "onboard_time": 1748410581,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249299,
+      "num": 249299,
+      "word": "浪姐助阵嘉宾",
+      "onboard_time": 1748669121,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 249206,
@@ -8083,6 +8123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207581,
+      "num": 207581,
+      "word": "Kanavi获常规赛MVP",
+      "onboard_time": 1748668880,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207551,
       "num": 207551,
       "word": "熟粽子冷冻保存最好别超过15天",
@@ -8641,14 +8689,6 @@
       "onboard_time": 1748146520,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198561,
-      "num": 268255,
-      "word": "王勉陈赫情头",
-      "onboard_time": 1748668399,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 198433,
@@ -9419,6 +9459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191248,
+      "num": 191248,
+      "word": "苏醒王栎鑫在唱什么歌好难猜",
+      "onboard_time": 1748669061,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191073,
       "num": 191073,
       "word": "游客新加坡酒店吃榴莲被罚千元",
@@ -10049,6 +10097,14 @@
       "onboard_time": 1748245821,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183825,
+      "num": 183825,
+      "word": "LPL最佳新秀Erha",
+      "onboard_time": 1748668880,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 183787,
@@ -11939,14 +11995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163842,
-      "num": 163842,
-      "word": "冬夏女王认出藏海",
-      "onboard_time": 1748669000,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163828,
       "num": 278090,
       "word": "王安宇想睡觉就有刘浩存递枕头",
@@ -12049,14 +12097,6 @@
       "onboard_time": 1748274501,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162834,
-      "num": 162834,
-      "word": "LPL最佳新秀Erha",
-      "onboard_time": 1748668880,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 162706,
@@ -12185,6 +12225,14 @@
       "onboard_time": 1748504000,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161522,
+      "num": 184284,
+      "word": "赵丽颖尹昉虐恋剧已是nextlevel",
+      "onboard_time": 1748669121,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 161473,
@@ -12625,14 +12673,6 @@
       "onboard_time": 1748350942,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156554,
-      "num": 156554,
-      "word": "Kanavi获常规赛MVP",
-      "onboard_time": 1748668880,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 156497,
@@ -14667,6 +14707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135373,
+      "num": 135373,
+      "word": "余承东称尊界带汽车链高端化",
+      "onboard_time": 1748669360,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 135343,
       "num": 135343,
       "word": "白月梵星是代露娃第一部反派戏",
@@ -15755,6 +15803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125002,
+      "num": 125002,
+      "word": "周奇藏海传直播介绍自己忘本",
+      "onboard_time": 1748669239,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124802,
       "num": 348376,
       "word": "郑钦文回应晋级法网32强",
@@ -16025,6 +16081,14 @@
       "onboard_time": 1748608944,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122218,
+      "num": 122218,
+      "word": "十万狂花入梦来",
+      "onboard_time": 1748669899,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 122127,
@@ -16564,7 +16628,7 @@
     },
     {
       "raw_hot": 115900,
-      "num": 115900,
+      "num": 274797,
       "word": "断眉找到了属于自己的猫薄荷",
       "onboard_time": 1748663721,
       "rank": 49,
@@ -16689,14 +16753,6 @@
       "onboard_time": 1748225661,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 114512,
-      "num": 114512,
-      "word": "苏醒王栎鑫在唱什么歌好难猜",
-      "onboard_time": 1748669061,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 114416,
@@ -18707,6 +18763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85845,
+      "num": 275036,
+      "word": "15万纯电精灵1号超值升级",
+      "onboard_time": 1748669061,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85801,
       "num": 85801,
       "word": "女子向丈夫要钱遭拒后轻生系谣言",
@@ -19265,14 +19329,6 @@
       "onboard_time": 1748181806,
       "rank": 8,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 77507,
-      "num": 303218,
-      "word": "美国国防部长回应玉渊谭天记者提问",
-      "onboard_time": 1748668761,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 77503,
@@ -20155,6 +20211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 62504,
+      "num": 170403,
+      "word": "解放军位中国黄岩岛领海领空战备警巡",
+      "onboard_time": 1748658200,
+      "rank": 34,
+      "category": "军事"
+    },
+    {
       "raw_hot": 62481,
       "num": 1003438,
       "word": "网信办进一步加强整治网络开盒",
@@ -20531,6 +20595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58078,
+      "num": 302675,
+      "word": "江南端午习俗吃五黄",
+      "onboard_time": 1748667682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58001,
       "num": 243674,
       "word": "荣耀400肖战严选太香了",
@@ -20705,6 +20777,14 @@
       "onboard_time": 1748514080,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 56297,
+      "num": 301885,
+      "word": "零公里二手车行业乱象",
+      "onboard_time": 1748669421,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 56184,
@@ -21281,14 +21361,6 @@
       "onboard_time": 1748215820,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48785,
-      "num": 125661,
-      "word": "15万纯电精灵1号超值升级",
-      "onboard_time": 1748669061,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 48777,
@@ -22019,14 +22091,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 40599,
-      "num": 302675,
-      "word": "江南端午习俗吃五黄",
-      "onboard_time": 1748667682,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40581,
       "num": 40581,
       "word": "官方回应洞庭湖禁捕区钓鱼乱象",
@@ -22753,6 +22817,14 @@
       "onboard_time": 1748112076,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32509,
+      "num": 249514,
+      "word": "刘少昂刘少林祝端午安康",
+      "onboard_time": 1748669239,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 32393,
@@ -25393,6 +25465,14 @@
       "onboard_time": 1748258362,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 8336,
+      "num": 178638,
+      "word": "何处是邂逅洛阳的绝佳机位",
+      "onboard_time": 1748669960,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 7841,

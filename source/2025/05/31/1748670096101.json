@@ -1,0 +1,410 @@
+{
+  "runTime": 1748670096101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 670048,
+        "num": 1107207,
+        "word": "端午红包",
+        "onboard_time": 1748665222,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 553437,
+        "num": 553437,
+        "word": "微信朋友圈能折叠了",
+        "onboard_time": 1748653040,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11199,
+        "num": 536782,
+        "word": "网络中国节",
+        "onboard_time": 1748596340,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1411348,
+        "num": 512911,
+        "word": "马斯克被儿子打了",
+        "onboard_time": 1748665400,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 626752,
+        "num": 484843,
+        "word": "双胞胎必须要一模一样的东西吗",
+        "onboard_time": 1748666062,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 618608,
+        "num": 477917,
+        "word": "洞洞鞋上岗",
+        "onboard_time": 1748665341,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460367,
+        "num": 460367,
+        "word": "断眉 挂电",
+        "onboard_time": 1748662223,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432290,
+        "num": 432290,
+        "word": "王勉陈赫情头",
+        "onboard_time": 1748668399,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363754,
+        "num": 363754,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323514,
+        "num": 323514,
+        "word": "美国国防部长回应玉渊谭天记者提问",
+        "onboard_time": 1748668761,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 408726,
+        "num": 315829,
+        "word": "十个勤天猪肉",
+        "onboard_time": 1748666181,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386373,
+        "num": 314978,
+        "word": "孔雪儿的红包",
+        "onboard_time": 1748668161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304709,
+        "num": 304709,
+        "word": "乐高中国已终止与涉事博主合作",
+        "onboard_time": 1748654480,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56297,
+        "num": 301885,
+        "word": "零公里二手车行业乱象",
+        "onboard_time": 1748669421,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 58078,
+        "num": 301171,
+        "word": "江南端午习俗吃五黄",
+        "onboard_time": 1748667682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300528,
+        "num": 300528,
+        "word": "吴宣仪浪姐助阵嘉宾",
+        "onboard_time": 1748665581,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297178,
+        "num": 297178,
+        "word": "吉林通报李德明花千万建10个厕所",
+        "onboard_time": 1748650879,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286837,
+        "num": 286837,
+        "word": "光合积木",
+        "onboard_time": 1748669601,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237333,
+        "num": 276232,
+        "word": "端午祝福文案",
+        "onboard_time": 1748648837,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85845,
+        "num": 275036,
+        "word": "15万纯电精灵1号超值升级",
+        "onboard_time": 1748669061,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 41974,
+        "num": 274797,
+        "word": "断眉找到了属于自己的猫薄荷",
+        "onboard_time": 1748663721,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274604,
+        "num": 274604,
+        "word": "冬夏女王认出藏海",
+        "onboard_time": 1748669000,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262095,
+        "num": 262095,
+        "word": "丁太升说单依纯这次必须输",
+        "onboard_time": 1748661141,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250342,
+        "num": 250342,
+        "word": "工藤静香都来了木村拓哉还远吗",
+        "onboard_time": 1748662040,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32509,
+        "num": 249514,
+        "word": "刘少昂刘少林祝端午安康",
+        "onboard_time": 1748669239,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249299,
+        "num": 249299,
+        "word": "浪姐助阵嘉宾",
+        "onboard_time": 1748669121,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207581,
+        "num": 207581,
+        "word": "Kanavi获常规赛MVP",
+        "onboard_time": 1748668880,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191248,
+        "num": 191248,
+        "word": "苏醒王栎鑫在唱什么歌好难猜",
+        "onboard_time": 1748669061,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168596,
+        "num": 185334,
+        "word": "说端午快乐还是端午安康",
+        "onboard_time": 1748654961,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161522,
+        "num": 184284,
+        "word": "赵丽颖尹昉虐恋剧已是nextlevel",
+        "onboard_time": 1748669121,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183825,
+        "num": 183825,
+        "word": "LPL最佳新秀Erha",
+        "onboard_time": 1748668880,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179682,
+        "num": 179682,
+        "word": "谈恋爱没劲不谈恋爱接吻特有劲",
+        "onboard_time": 1748668221,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8336,
+        "num": 178638,
+        "word": "何处是邂逅洛阳的绝佳机位",
+        "onboard_time": 1748669960,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 178289,
+        "num": 178289,
+        "word": "曹骏发红包",
+        "onboard_time": 1748665222,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62504,
+        "num": 170403,
+        "word": "解放军位中国黄岩岛领海领空战备警巡",
+        "onboard_time": 1748658200,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 170132,
+        "num": 170132,
+        "word": "莫离开机",
+        "onboard_time": 1748659460,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149455,
+        "num": 149455,
+        "word": "光与夜之恋",
+        "onboard_time": 1748665821,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144124,
+        "num": 144124,
+        "word": "林墨红包",
+        "onboard_time": 1748668161,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141373,
+        "num": 141373,
+        "word": "爷爷把老宅改成了莫奈花园",
+        "onboard_time": 1748667200,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140729,
+        "num": 140729,
+        "word": "租三金结婚的年轻人开始退租了",
+        "onboard_time": 1748662521,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135373,
+        "num": 135373,
+        "word": "余承东称尊界带汽车链高端化",
+        "onboard_time": 1748669360,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 26011,
+        "num": 127397,
+        "word": "吃饭越快肝脏更容易变胖吗",
+        "onboard_time": 1748668700,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125002,
+        "num": 125002,
+        "word": "周奇藏海传直播介绍自己忘本",
+        "onboard_time": 1748669239,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123044,
+        "num": 123044,
+        "word": "两个小段再道歉",
+        "onboard_time": 1748663661,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122218,
+        "num": 122218,
+        "word": "十万狂花入梦来",
+        "onboard_time": 1748669899,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115974,
+        "num": 115974,
+        "word": "苏州西园寺击掌小猫",
+        "onboard_time": 1748668880,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 110550,
+        "num": 110550,
+        "word": "老人住千万豪宅拾荒家中堆满垃圾",
+        "onboard_time": 1748658200,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105197,
+        "num": 105197,
+        "word": "男子遭精神病邻居砸门咒骂2年半",
+        "onboard_time": 1748650760,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105079,
+        "num": 105079,
+        "word": "马斯克从DOGE离职后将成特朗普顾问",
+        "onboard_time": 1748650760,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104188,
+        "num": 104188,
+        "word": "又到了拿防晒衣当工服的季节了",
+        "onboard_time": 1748665701,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#为科技强国建设作出更大贡献#"
+    }
+  }
+}
