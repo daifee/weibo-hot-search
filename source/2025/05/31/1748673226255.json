@@ -1,0 +1,410 @@
+{
+  "runTime": 1748673226255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 778478,
+        "num": 1124556,
+        "word": "端午红包",
+        "onboard_time": 1748665222,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 521978,
+        "num": 521978,
+        "word": "宋威龙发红包",
+        "onboard_time": 1748671940,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7709,
+        "num": 458818,
+        "word": "网络中国节",
+        "onboard_time": 1748596340,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 699216,
+        "num": 458681,
+        "word": "双胞胎必须要一模一样的东西吗",
+        "onboard_time": 1748666062,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457358,
+        "num": 457358,
+        "word": "微信朋友圈能折叠了",
+        "onboard_time": 1748653040,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 235365,
+        "num": 406322,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399446,
+        "num": 399446,
+        "word": "王玉雯红包",
+        "onboard_time": 1748671940,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378449,
+        "num": 378449,
+        "word": "洞洞鞋上岗",
+        "onboard_time": 1748665341,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300286,
+        "num": 377494,
+        "word": "美国国防部长回应玉渊谭天记者提问",
+        "onboard_time": 1748668761,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166465,
+        "num": 377367,
+        "word": "端午祝福文案",
+        "onboard_time": 1748648837,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 950873,
+        "num": 377367,
+        "word": "马斯克被儿子打了",
+        "onboard_time": 1748665400,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 377367,
+        "num": 377366,
+        "word": "鞠婧祎五大杂志",
+        "onboard_time": 1748661743,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319849,
+        "num": 319849,
+        "word": "单依纯回应被说像王菲",
+        "onboard_time": 1748670980,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309877,
+        "num": 309877,
+        "word": "杨紫胡歌生命树宝丽来",
+        "onboard_time": 1748671460,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17118,
+        "num": 309327,
+        "word": "说6180元不会大富大贵的请让给我",
+        "onboard_time": 1748671281,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150262,
+        "num": 305997,
+        "word": "说端午快乐还是端午安康",
+        "onboard_time": 1748654961,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86651,
+        "num": 304246,
+        "word": "两个小段再道歉",
+        "onboard_time": 1748663661,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69211,
+        "num": 301632,
+        "word": "15万纯电精灵1号超值升级",
+        "onboard_time": 1748669061,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 201342,
+        "num": 298934,
+        "word": "美国暂停出口C919发动机",
+        "onboard_time": 1748672780,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168636,
+        "num": 296461,
+        "word": "男性抑郁患者困在隐蔽的痛苦中",
+        "onboard_time": 1748670920,
+        "rank": 19,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 30812,
+        "num": 295008,
+        "word": "余承东汪涵现身粤港澳车展",
+        "onboard_time": 1748670559,
+        "rank": 20,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 336728,
+        "num": 290737,
+        "word": "光合积木",
+        "onboard_time": 1748669601,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322815,
+        "num": 288445,
+        "word": "浪姐助阵嘉宾",
+        "onboard_time": 1748669121,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288321,
+        "num": 288321,
+        "word": "乐高中国已终止与涉事博主合作",
+        "onboard_time": 1748654480,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283694,
+        "num": 283694,
+        "word": "断眉 挂电",
+        "onboard_time": 1748662223,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283337,
+        "num": 283337,
+        "word": "冬夏女王认出藏海",
+        "onboard_time": 1748669000,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42229,
+        "num": 220165,
+        "word": "学者称秦兵马俑三号坑是指挥部",
+        "onboard_time": 1748673020,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202647,
+        "num": 219502,
+        "word": "高压锅煮粽子致爆炸女子发声",
+        "onboard_time": 1748671281,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219359,
+        "num": 219359,
+        "word": "十个勤天猪肉",
+        "onboard_time": 1748666181,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9926,
+        "num": 209775,
+        "word": "为何越长大牙齿越黄",
+        "onboard_time": 1748672900,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 232461,
+        "num": 208685,
+        "word": "LPL最佳阵容",
+        "onboard_time": 1748672780,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207160,
+        "num": 207160,
+        "word": "赵丽颖工作室一年前的预告",
+        "onboard_time": 1748672240,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206596,
+        "num": 206596,
+        "word": "马柏全撕拉片",
+        "onboard_time": 1748672059,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139505,
+        "num": 189049,
+        "word": "如果用一首歌概括青春",
+        "onboard_time": 1748672180,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104801,
+        "num": 187815,
+        "word": "租三金结婚的年轻人开始退租了",
+        "onboard_time": 1748662521,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122801,
+        "num": 187454,
+        "word": "吴宣仪回应刘宇助演",
+        "onboard_time": 1748672959,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187195,
+        "num": 187195,
+        "word": "王勉陈赫情头",
+        "onboard_time": 1748668399,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170447,
+        "num": 170447,
+        "word": "九门开机",
+        "onboard_time": 1748660421,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60179,
+        "num": 168193,
+        "word": "未定事件簿",
+        "onboard_time": 1748672719,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17332,
+        "num": 167764,
+        "word": "福彩宋福韵彩来送福了",
+        "onboard_time": 1748671281,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 167752,
+        "num": 167752,
+        "word": "吉林通报李德明花千万建10个厕所",
+        "onboard_time": 1748650879,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153601,
+        "num": 153601,
+        "word": "工藤静香都来了木村拓哉还远吗",
+        "onboard_time": 1748662040,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146726,
+        "num": 146726,
+        "word": "曹公公敲鼓接着奏乐接着舞",
+        "onboard_time": 1748672000,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142613,
+        "num": 142613,
+        "word": "孔雪儿的红包",
+        "onboard_time": 1748668161,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135941,
+        "num": 135941,
+        "word": "程潇妈妈知道女儿所有合作艺人",
+        "onboard_time": 1748671460,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125347,
+        "num": 125347,
+        "word": "丁太升说单依纯这次必须输",
+        "onboard_time": 1748661141,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115092,
+        "num": 115092,
+        "word": "吴宣仪浪姐助阵嘉宾",
+        "onboard_time": 1748665581,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114229,
+        "num": 114229,
+        "word": "莫离开机",
+        "onboard_time": 1748659460,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110290,
+        "num": 110290,
+        "word": "王影璐红包",
+        "onboard_time": 1748671940,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100705,
+        "num": 100705,
+        "word": "三手烟可能损伤DNA",
+        "onboard_time": 1748673199,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#为科技强国建设作出更大贡献#"
+    }
+  }
+}

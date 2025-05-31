@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748670096101,
+  "endTime": 1748673226255,
   "band_list": [
     {
       "raw_hot": 1903751,
@@ -51,8 +51,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 749029,
-      "num": 1119844,
+      "raw_hot": 778478,
+      "num": 1124556,
       "word": "端午红包",
       "onboard_time": 1748665222,
       "rank": 9,
@@ -81,6 +81,14 @@
       "onboard_time": 1748658200,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 699216,
+      "num": 484843,
+      "word": "双胞胎必须要一模一样的东西吗",
+      "onboard_time": 1748666062,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 676680,
@@ -123,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 626752,
-      "num": 484843,
-      "word": "双胞胎必须要一模一样的东西吗",
-      "onboard_time": 1748666062,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 619675,
       "num": 619675,
       "word": "亚当歌手",
@@ -161,6 +161,14 @@
       "onboard_time": 1748618662,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 521978,
+      "num": 521978,
+      "word": "宋威龙发红包",
+      "onboard_time": 1748671940,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 493090,
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399446,
+      "num": 399446,
+      "word": "王玉雯红包",
+      "onboard_time": 1748671940,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386506,
       "num": 147781,
       "word": "耳帝评歌手第3期",
@@ -257,6 +273,14 @@
       "onboard_time": 1748665581,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377367,
+      "num": 377366,
+      "word": "鞠婧祎五大杂志",
+      "onboard_time": 1748661743,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 352950,
@@ -283,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 336728,
+      "num": 290737,
+      "word": "光合积木",
+      "onboard_time": 1748669601,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 333282,
       "num": 146156,
       "word": "藏海传收视率",
@@ -292,11 +324,19 @@
     },
     {
       "raw_hot": 323514,
-      "num": 323514,
+      "num": 377494,
       "word": "美国国防部长回应玉渊谭天记者提问",
       "onboard_time": 1748668761,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 322815,
+      "num": 288445,
+      "word": "浪姐助阵嘉宾",
+      "onboard_time": 1748669121,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 320633,
@@ -305,6 +345,14 @@
       "onboard_time": 1748654120,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 319849,
+      "num": 319849,
+      "word": "单依纯回应被说像王菲",
+      "onboard_time": 1748670980,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 313965,
@@ -321,6 +369,14 @@
       "onboard_time": 1748616625,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309877,
+      "num": 309877,
+      "word": "杨紫胡歌生命树宝丽来",
+      "onboard_time": 1748671460,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 300576,
@@ -348,7 +404,7 @@
     },
     {
       "raw_hot": 292764,
-      "num": 355554,
+      "num": 377367,
       "word": "端午祝福文案",
       "onboard_time": 1748648837,
       "rank": 7,
@@ -363,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 286837,
-      "num": 286837,
-      "word": "光合积木",
-      "onboard_time": 1748669601,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 283337,
+      "num": 283337,
+      "word": "冬夏女王认出藏海",
+      "onboard_time": 1748669000,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 281940,
@@ -395,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274604,
-      "num": 274604,
-      "word": "冬夏女王认出藏海",
-      "onboard_time": 1748669000,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263917,
       "num": 263917,
       "word": "于正找大师算的横店爆剧是藏海传",
@@ -416,14 +464,6 @@
       "word": "马嘉祺被做局了",
       "onboard_time": 1748612129,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 249299,
-      "num": 249299,
-      "word": "浪姐助阵嘉宾",
-      "onboard_time": 1748669121,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -483,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232461,
+      "num": 208685,
+      "word": "LPL最佳阵容",
+      "onboard_time": 1748672780,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227369,
       "num": 213886,
       "word": "又到了拿防晒衣当工服的季节了",
@@ -492,7 +540,7 @@
     },
     {
       "raw_hot": 223408,
-      "num": 223408,
+      "num": 304246,
       "word": "两个小段再道歉",
       "onboard_time": 1748663661,
       "rank": 48,
@@ -555,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207160,
+      "num": 207160,
+      "word": "赵丽颖工作室一年前的预告",
+      "onboard_time": 1748672240,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206660,
       "num": 206660,
       "word": "小猫喝水姿势撞脸三星堆文物",
       "onboard_time": 1748645957,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206596,
+      "num": 206596,
+      "word": "马柏全撕拉片",
+      "onboard_time": 1748672059,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 203734,
@@ -579,20 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202647,
+      "num": 219502,
+      "word": "高压锅煮粽子致爆炸女子发声",
+      "onboard_time": 1748671281,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201342,
+      "num": 298934,
+      "word": "美国暂停出口C919发动机",
+      "onboard_time": 1748672780,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199954,
       "num": 199954,
       "word": "谈恋爱没劲不谈恋爱接吻特有劲",
       "onboard_time": 1748668221,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195183,
-      "num": 195183,
-      "word": "鞠婧祎五大杂志",
-      "onboard_time": 1748661743,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 193868,
@@ -739,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168636,
+      "num": 296461,
+      "word": "男性抑郁患者困在隐蔽的痛苦中",
+      "onboard_time": 1748670920,
+      "rank": 19,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 167626,
       "num": 167626,
       "word": "马斯克从DOGE离职后将成特朗普顾问",
@@ -851,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146726,
+      "num": 146726,
+      "word": "曹公公敲鼓接着奏乐接着舞",
+      "onboard_time": 1748672000,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146686,
       "num": 146686,
       "word": "王楚钦说外在问题都是还不够强大",
@@ -891,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139505,
+      "num": 189049,
+      "word": "如果用一首歌概括青春",
+      "onboard_time": 1748672180,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137296,
       "num": 137296,
       "word": "莫文蔚 爱情",
@@ -913,6 +1009,14 @@
       "onboard_time": 1748662640,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135941,
+      "num": 135941,
+      "word": "程潇妈妈知道女儿所有合作艺人",
+      "onboard_time": 1748671460,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 135373,
@@ -1017,6 +1121,14 @@
       "onboard_time": 1748668221,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122801,
+      "num": 187454,
+      "word": "吴宣仪回应刘宇助演",
+      "onboard_time": 1748672959,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 122218,
@@ -1131,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110290,
+      "num": 110290,
+      "word": "王影璐红包",
+      "onboard_time": 1748671940,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109618,
       "num": 109618,
       "word": "耳帝投票陈楚生",
@@ -1201,6 +1321,14 @@
       "onboard_time": 1748663061,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100705,
+      "num": 100705,
+      "word": "三手烟可能损伤DNA",
+      "onboard_time": 1748673199,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99345,
@@ -1332,7 +1460,7 @@
     },
     {
       "raw_hot": 85845,
-      "num": 275036,
+      "num": 301632,
       "word": "15万纯电精灵1号超值升级",
       "onboard_time": 1748669061,
       "rank": 34,
@@ -1465,6 +1593,14 @@
       "onboard_time": 1748665642,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60179,
+      "num": 168193,
+      "word": "未定事件簿",
+      "onboard_time": 1748672719,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 59688,
@@ -1619,6 +1755,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 42229,
+      "num": 220165,
+      "word": "学者称秦兵马俑三号坑是指挥部",
+      "onboard_time": 1748673020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42130,
       "num": 102664,
       "word": "今天星期五",
@@ -1723,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30812,
+      "num": 295008,
+      "word": "余承东汪涵现身粤港澳车展",
+      "onboard_time": 1748670559,
+      "rank": 20,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 29874,
       "num": 29874,
       "word": "单依纯第二",
@@ -1819,6 +1971,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17332,
+      "num": 167764,
+      "word": "福彩宋福韵彩来送福了",
+      "onboard_time": 1748671281,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 17118,
+      "num": 309327,
+      "word": "说6180元不会大富大贵的请让给我",
+      "onboard_time": 1748671281,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 16388,
       "num": 22680,
       "word": "海龟汤",
@@ -1873,6 +2041,14 @@
       "onboard_time": 1748636715,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9926,
+      "num": 209775,
+      "word": "为何越长大牙齿越黄",
+      "onboard_time": 1748672900,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 8336,
