@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748663694922,
+  "endTime": 1748665826271,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -785,6 +785,14 @@
       "onboard_time": 1748340981,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1302002,
+      "num": 209338,
+      "word": "马斯克被儿子打了",
+      "onboard_time": 1748665400,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1294456,
@@ -2067,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 733980,
+      "num": 585210,
+      "word": "断眉 挂电",
+      "onboard_time": 1748662223,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 732863,
       "num": 732863,
       "word": "高密已接收多名化工车间爆炸伤者",
@@ -2849,14 +2865,6 @@
       "onboard_time": 1748239824,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 585210,
-      "num": 585210,
-      "word": "断眉 挂电",
-      "onboard_time": 1748662223,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 584450,
@@ -4289,6 +4297,14 @@
       "onboard_time": 1748265502,
       "rank": 21,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 393918,
+      "num": 393918,
+      "word": "工藤静香都来了木村拓哉还远吗",
+      "onboard_time": 1748662040,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 392249,
@@ -6771,6 +6787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244831,
+      "num": 427208,
+      "word": "洞洞鞋上岗",
+      "onboard_time": 1748665341,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244236,
       "num": 244236,
       "word": "久酷加入西安WE",
@@ -6913,14 +6937,6 @@
       "onboard_time": 1748189781,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239693,
-      "num": 239693,
-      "word": "工藤静香都来了木村拓哉还远吗",
-      "onboard_time": 1748662040,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 239350,
@@ -7281,6 +7297,14 @@
       "onboard_time": 1748179709,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226589,
+      "num": 206692,
+      "word": "吴宣仪浪姐助阵嘉宾",
+      "onboard_time": 1748665581,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 226303,
@@ -7883,6 +7907,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209977,
+      "num": 206601,
+      "word": "生命树",
+      "onboard_time": 1748148381,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209910,
+      "num": 209910,
+      "word": "端午红包",
+      "onboard_time": 1748665222,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 209810,
       "num": 209810,
       "word": "李沁老公姐",
@@ -8019,6 +8059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206843,
+      "num": 206843,
+      "word": "两个小段再道歉",
+      "onboard_time": 1748663661,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206716,
       "num": 206716,
       "word": "她什么都没做他已经爱惨了",
@@ -8129,6 +8177,14 @@
       "onboard_time": 1748330361,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 204938,
+      "num": 204938,
+      "word": "曹骏发红包",
+      "onboard_time": 1748665222,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 204872,
@@ -8787,14 +8843,6 @@
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 196483,
-      "num": 196483,
-      "word": "生命树",
-      "onboard_time": 1748148381,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196413,
       "num": 196413,
       "word": "小米高管晒雷军送的纪念礼物",
@@ -9107,6 +9155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192777,
+      "num": 192777,
+      "word": "又到了拿防晒衣当工服的季节了",
+      "onboard_time": 1748665701,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192650,
       "num": 184884,
       "word": "郑晓龙给肖战周奇讲戏",
@@ -9393,6 +9449,14 @@
       "onboard_time": 1748317221,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190308,
+      "num": 208253,
+      "word": "坠海漂流7小时获救男子发声",
+      "onboard_time": 1748664201,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190135,
@@ -10675,6 +10739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174493,
+      "num": 288148,
+      "word": "四川通报药企涉嫌贿赂医生",
+      "onboard_time": 1748662582,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 174430,
       "num": 174430,
       "word": "中方敦促美方彻底取消单边加征关税",
@@ -11179,6 +11251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170229,
+      "num": 170229,
+      "word": "麦田音乐节",
+      "onboard_time": 1748665581,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170176,
       "num": 170176,
       "word": "爱自己是一生必修的功课",
@@ -11393,6 +11473,14 @@
       "onboard_time": 1748229982,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167519,
+      "num": 167519,
+      "word": "周深因为淋过雨所以给粉丝搭棚子",
+      "onboard_time": 1748664740,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 167380,
@@ -12811,6 +12899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152962,
+      "num": 208016,
+      "word": "美防长回应为何发言总关联中国",
+      "onboard_time": 1748660962,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152922,
       "num": 152922,
       "word": "SK说休赛2年导致掌控能力不足",
@@ -12963,6 +13059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151019,
+      "num": 151019,
+      "word": "五哈",
+      "onboard_time": 1748665701,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150999,
       "num": 150999,
       "word": "卢伟冰回应YU7是否影响SU7销量",
@@ -13049,6 +13153,14 @@
       "onboard_time": 1748590522,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149878,
+      "num": 202565,
+      "word": "四川通报59名医疗机构人员违规收费",
+      "onboard_time": 1748664441,
+      "rank": 27,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 149854,
@@ -13553,14 +13665,6 @@
       "onboard_time": 1748147720,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144019,
-      "num": 288148,
-      "word": "四川通报药企涉嫌贿赂医生",
-      "onboard_time": 1748662582,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 143879,
@@ -14377,6 +14481,14 @@
       "onboard_time": 1748143581,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136412,
+      "num": 279367,
+      "word": "特朗普赠送马斯克金钥匙",
+      "onboard_time": 1748662640,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136374,
@@ -15467,14 +15579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125781,
-      "num": 125781,
-      "word": "美防长回应为何发言总关联中国",
-      "onboard_time": 1748660962,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 125754,
       "num": 125754,
       "word": "在外体面伪装背地挖墓经商",
@@ -16339,6 +16443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115900,
+      "num": 115900,
+      "word": "断眉找到了属于自己的猫薄荷",
+      "onboard_time": 1748663721,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115857,
       "num": 115857,
       "word": "许昕说樊振东会打乒超",
@@ -16899,14 +17011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108712,
-      "num": 108712,
-      "word": "两个小段再道歉",
-      "onboard_time": 1748663661,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108609,
       "num": 291497,
       "word": "重庆通报爆破后周边房屋被曝有裂缝",
@@ -17105,14 +17209,6 @@
       "onboard_time": 1748139861,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106476,
-      "num": 279367,
-      "word": "特朗普赠送马斯克金钥匙",
-      "onboard_time": 1748662640,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106377,
@@ -18795,6 +18891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80641,
+      "num": 206372,
+      "word": "糯米到底是养胃还是伤胃",
+      "onboard_time": 1748664921,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 80368,
       "num": 80368,
       "word": "全智贤北京活动",
@@ -19384,6 +19488,14 @@
       "word": "萌娃举3米高叶子去学校回头率爆表",
       "onboard_time": 1748210295,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70731,
+      "num": 202633,
+      "word": "划龙舟的风还是吹到北京来了",
+      "onboard_time": 1748663000,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -19985,6 +20097,14 @@
       "onboard_time": 1748289435,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61345,
+      "num": 203243,
+      "word": "爵士试训杨瀚森",
+      "onboard_time": 1748665642,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 61031,
@@ -23259,6 +23379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 25458,
+      "num": 142193,
+      "word": "137项铁证证明韩文化挪用",
+      "onboard_time": 1748665581,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25427,
       "num": 183593,
       "word": "矿泉水被带到高原后大变样",
@@ -23337,6 +23465,14 @@
       "onboard_time": 1748581340,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 24541,
+      "num": 207056,
+      "word": "每小时都在等微博给我发6180元",
+      "onboard_time": 1748664080,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 24504,

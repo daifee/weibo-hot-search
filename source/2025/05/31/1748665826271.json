@@ -1,0 +1,410 @@
+{
+  "runTime": 1748665826271,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 770872,
+        "num": 1123339,
+        "word": "微信朋友圈能折叠了",
+        "onboard_time": 1748653040,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 595285,
+        "num": 595285,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65017,
+        "num": 564964,
+        "word": "端午出行热度攀升释放消费新活力",
+        "onboard_time": 1748661679,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 733980,
+        "num": 506288,
+        "word": "断眉 挂电",
+        "onboard_time": 1748662223,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604510,
+        "num": 453244,
+        "word": "丁太升说单依纯这次必须输",
+        "onboard_time": 1748661141,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244831,
+        "num": 427208,
+        "word": "洞洞鞋上岗",
+        "onboard_time": 1748665341,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 393918,
+        "num": 393918,
+        "word": "工藤静香都来了木村拓哉还远吗",
+        "onboard_time": 1748662040,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297012,
+        "num": 297012,
+        "word": "九门开机",
+        "onboard_time": 1748660421,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231825,
+        "num": 231825,
+        "word": "说端午快乐还是端午安康",
+        "onboard_time": 1748654961,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209910,
+        "num": 209910,
+        "word": "端午红包",
+        "onboard_time": 1748665222,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1302002,
+        "num": 209338,
+        "word": "马斯克被儿子打了",
+        "onboard_time": 1748665400,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 479187,
+        "num": 209199,
+        "word": "吉林通报李德明花千万建10个厕所",
+        "onboard_time": 1748650879,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190308,
+        "num": 208253,
+        "word": "坠海漂流7小时获救男子发声",
+        "onboard_time": 1748664201,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152962,
+        "num": 208016,
+        "word": "美防长回应为何发言总关联中国",
+        "onboard_time": 1748660962,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24541,
+        "num": 207056,
+        "word": "每小时都在等微博给我发6180元",
+        "onboard_time": 1748664080,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206843,
+        "num": 206843,
+        "word": "两个小段再道歉",
+        "onboard_time": 1748663661,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396250,
+        "num": 206806,
+        "word": "乐高中国已终止与涉事博主合作",
+        "onboard_time": 1748654480,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226589,
+        "num": 206692,
+        "word": "吴宣仪浪姐助阵嘉宾",
+        "onboard_time": 1748665581,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209977,
+        "num": 206601,
+        "word": "生命树",
+        "onboard_time": 1748662820,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80641,
+        "num": 206372,
+        "word": "糯米到底是养胃还是伤胃",
+        "onboard_time": 1748664921,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 243023,
+        "num": 206291,
+        "word": "老人住千万豪宅拾荒家中堆满垃圾",
+        "onboard_time": 1748658200,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206248,
+        "num": 206248,
+        "word": "端午祝福文案",
+        "onboard_time": 1748648837,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204938,
+        "num": 204938,
+        "word": "曹骏发红包",
+        "onboard_time": 1748665222,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204116,
+        "num": 204116,
+        "word": "律师给在押人员递烤鸡榴莲被罚",
+        "onboard_time": 1748657960,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61345,
+        "num": 203243,
+        "word": "爵士试训杨瀚森",
+        "onboard_time": 1748665642,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203033,
+        "num": 203033,
+        "word": "莫离开机",
+        "onboard_time": 1748659460,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70731,
+        "num": 202633,
+        "word": "划龙舟的风还是吹到北京来了",
+        "onboard_time": 1748663000,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149878,
+        "num": 202565,
+        "word": "四川通报59名医疗机构人员违规收费",
+        "onboard_time": 1748664441,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 202532,
+        "num": 202532,
+        "word": "亚当歌手",
+        "onboard_time": 1748654180,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195881,
+        "num": 195881,
+        "word": "租三金结婚的年轻人开始退租了",
+        "onboard_time": 1748662521,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192777,
+        "num": 192777,
+        "word": "又到了拿防晒衣当工服的季节了",
+        "onboard_time": 1748665701,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174493,
+        "num": 174493,
+        "word": "四川通报药企涉嫌贿赂医生",
+        "onboard_time": 1748662582,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 170229,
+        "num": 170229,
+        "word": "麦田音乐节",
+        "onboard_time": 1748665581,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169139,
+        "num": 169139,
+        "word": "单依纯失误",
+        "onboard_time": 1748615190,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167519,
+        "num": 167519,
+        "word": "周深因为淋过雨所以给粉丝搭棚子",
+        "onboard_time": 1748664740,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163749,
+        "num": 163749,
+        "word": "杨紫生命树端午6宫格",
+        "onboard_time": 1748663240,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158178,
+        "num": 158178,
+        "word": "莫迪想让全世界都吃印度食品",
+        "onboard_time": 1748654120,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151019,
+        "num": 151019,
+        "word": "五哈",
+        "onboard_time": 1748665701,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25458,
+        "num": 142193,
+        "word": "137项铁证证明韩文化挪用",
+        "onboard_time": 1748665581,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137747,
+        "num": 137747,
+        "word": "白鹿莫离开机照",
+        "onboard_time": 1748660481,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136412,
+        "num": 136412,
+        "word": "特朗普赠送马斯克金钥匙",
+        "onboard_time": 1748662640,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197519,
+        "num": 135955,
+        "word": "蜜丝婷 王楚钦",
+        "onboard_time": 1748659101,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135141,
+        "num": 135141,
+        "word": "赵丽颖新剧完全是主人级别",
+        "onboard_time": 1748663361,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133328,
+        "num": 133328,
+        "word": "你好星期六全员跳团播舞",
+        "onboard_time": 1748663541,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125162,
+        "num": 125162,
+        "word": "中国汽车工业协会发布公平竞争倡议",
+        "onboard_time": 1748656341,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124979,
+        "num": 124979,
+        "word": "男子遭精神病邻居砸门咒骂2年半",
+        "onboard_time": 1748650760,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124796,
+        "num": 124796,
+        "word": "肖战平安最粽要",
+        "onboard_time": 1748662880,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123583,
+        "num": 123583,
+        "word": "樱桃琥珀",
+        "onboard_time": 1748660061,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116994,
+        "num": 116994,
+        "word": "武汉妈妈回应暴雨后陪孩子后备箱过夜",
+        "onboard_time": 1748660780,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115900,
+        "num": 115900,
+        "word": "断眉找到了属于自己的猫薄荷",
+        "onboard_time": 1748663721,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#为科技强国建设作出更大贡献#"
+    }
+  }
+}

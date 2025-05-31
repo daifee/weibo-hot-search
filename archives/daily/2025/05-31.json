@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748663694922,
+  "endTime": 1748665826271,
   "band_list": [
     {
       "raw_hot": 1579544,
@@ -9,6 +9,14 @@
       "onboard_time": 1748650879,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1302002,
+      "num": 209338,
+      "word": "马斯克被儿子打了",
+      "onboard_time": 1748665400,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1177543,
@@ -40,6 +48,14 @@
       "word": "歌手排名",
       "onboard_time": 1748614467,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 733980,
+      "num": 585210,
+      "word": "断眉 挂电",
+      "onboard_time": 1748662223,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -115,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 585210,
-      "num": 585210,
-      "word": "断眉 挂电",
-      "onboard_time": 1748662223,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 539716,
       "num": 539716,
       "word": "中方回应日方请求水产品入华",
@@ -176,6 +184,14 @@
       "word": "陈楚生赛后发文",
       "onboard_time": 1748620522,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 393918,
+      "num": 393918,
+      "word": "工藤静香都来了木村拓哉还远吗",
+      "onboard_time": 1748662040,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244831,
+      "num": 427208,
+      "word": "洞洞鞋上岗",
+      "onboard_time": 1748665341,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243539,
       "num": 243539,
       "word": "樱桃琥珀",
@@ -363,11 +387,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239693,
-      "num": 239693,
-      "word": "工藤静香都来了木村拓哉还远吗",
-      "onboard_time": 1748662040,
-      "rank": 35,
+      "raw_hot": 226589,
+      "num": 206692,
+      "word": "吴宣仪浪姐助阵嘉宾",
+      "onboard_time": 1748665581,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -387,6 +411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209977,
+      "num": 206601,
+      "word": "生命树",
+      "onboard_time": 1748662820,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209910,
+      "num": 209910,
+      "word": "端午红包",
+      "onboard_time": 1748665222,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 209790,
       "num": 124282,
       "word": "Attention改编 放水",
@@ -403,12 +443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206843,
+      "num": 206843,
+      "word": "两个小段再道歉",
+      "onboard_time": 1748663661,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206660,
       "num": 206660,
       "word": "小猫喝水姿势撞脸三星堆文物",
       "onboard_time": 1748645957,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204938,
+      "num": 204938,
+      "word": "曹骏发红包",
+      "onboard_time": 1748665222,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 203734,
@@ -425,14 +481,6 @@
       "onboard_time": 1748662880,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196483,
-      "num": 196483,
-      "word": "生命树",
-      "onboard_time": 1748662820,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 195183,
@@ -459,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192777,
+      "num": 192777,
+      "word": "又到了拿防晒衣当工服的季节了",
+      "onboard_time": 1748665701,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191316,
       "num": 191316,
       "word": "武汉妈妈回应暴雨后陪孩子后备箱过夜",
@@ -473,6 +529,14 @@
       "onboard_time": 1748603600,
       "rank": 39,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 190308,
+      "num": 208253,
+      "word": "坠海漂流7小时获救男子发声",
+      "onboard_time": 1748664201,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179160,
@@ -499,6 +563,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 174493,
+      "num": 288148,
+      "word": "四川通报药企涉嫌贿赂医生",
+      "onboard_time": 1748662582,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 172779,
       "num": 234613,
       "word": "特朗普政府对哈佛又出一拳",
@@ -523,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170229,
+      "num": 170229,
+      "word": "麦田音乐节",
+      "onboard_time": 1748665581,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168659,
       "num": 121890,
       "word": "歌手直播",
@@ -537,6 +617,14 @@
       "onboard_time": 1748650760,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167519,
+      "num": 167519,
+      "word": "周深因为淋过雨所以给粉丝搭棚子",
+      "onboard_time": 1748664740,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 162171,
@@ -571,12 +659,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152962,
+      "num": 208016,
+      "word": "美防长回应为何发言总关联中国",
+      "onboard_time": 1748660962,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151290,
       "num": 151290,
       "word": "尊界S800价格",
       "onboard_time": 1748613805,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 151019,
+      "num": 151019,
+      "word": "五哈",
+      "onboard_time": 1748665701,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149878,
+      "num": 202565,
+      "word": "四川通报59名医疗机构人员违规收费",
+      "onboard_time": 1748664441,
+      "rank": 27,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 149854,
@@ -611,14 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144019,
-      "num": 288148,
-      "word": "四川通报药企涉嫌贿赂医生",
-      "onboard_time": 1748662582,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 142266,
       "num": 142266,
       "word": "王楚钦回应球拍2次受损",
@@ -649,6 +753,14 @@
       "onboard_time": 1748658680,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136412,
+      "num": 279367,
+      "word": "特朗普赠送马斯克金钥匙",
+      "onboard_time": 1748662640,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134909,
@@ -705,14 +817,6 @@
       "onboard_time": 1748648658,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125781,
-      "num": 125781,
-      "word": "美防长回应为何发言总关联中国",
-      "onboard_time": 1748660962,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125442,
@@ -795,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115900,
+      "num": 115900,
+      "word": "断眉找到了属于自己的猫薄荷",
+      "onboard_time": 1748663721,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112807,
       "num": 112807,
       "word": "端午图片",
@@ -817,14 +929,6 @@
       "onboard_time": 1748657421,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108712,
-      "num": 108712,
-      "word": "两个小段再道歉",
-      "onboard_time": 1748663661,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108178,
@@ -857,14 +961,6 @@
       "onboard_time": 1748655862,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106476,
-      "num": 279367,
-      "word": "特朗普赠送马斯克金钥匙",
-      "onboard_time": 1748662640,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102656,
@@ -1027,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80641,
+      "num": 206372,
+      "word": "糯米到底是养胃还是伤胃",
+      "onboard_time": 1748664921,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 79913,
       "num": 115593,
       "word": "林志炫用现场直面质疑",
@@ -1075,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70731,
+      "num": 202633,
+      "word": "划龙舟的风还是吹到北京来了",
+      "onboard_time": 1748663000,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70572,
       "num": 70572,
       "word": "蜜蜂小狗长大了",
@@ -1121,6 +1233,14 @@
       "onboard_time": 1748647037,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61345,
+      "num": 203243,
+      "word": "爵士试训杨瀚森",
+      "onboard_time": 1748665642,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 57440,
@@ -1371,12 +1491,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 25458,
+      "num": 142193,
+      "word": "137项铁证证明韩文化挪用",
+      "onboard_time": 1748665581,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24735,
       "num": 33188,
       "word": "肖战雪景哭戏",
       "onboard_time": 1748627897,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24541,
+      "num": 207056,
+      "word": "每小时都在等微博给我发6180元",
+      "onboard_time": 1748664080,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 23884,
