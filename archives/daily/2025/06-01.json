@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748726566933,
+  "endTime": 1748727485334,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26295,
+      "num": 25339,
+      "word": "解锁床上玩手机正确姿势",
+      "onboard_time": 1748724435,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25178,
       "num": 25178,
       "word": "TF家族四代端午创意龙舟",
@@ -547,20 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22116,
-      "num": 22116,
+      "raw_hot": 25019,
+      "num": 25019,
       "word": "当你长期跑步之后你的身体",
       "onboard_time": 1748722453,
       "rank": 45,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 21513,
-      "num": 21234,
-      "word": "解锁床上玩手机正确姿势",
-      "onboard_time": 1748724435,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 17940,
@@ -579,8 +579,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12713,
-      "num": 15127,
+      "raw_hot": 14403,
+      "num": 16288,
       "word": "秦志远 圆满成功明天见",
       "onboard_time": 1748725754,
       "rank": 45,
@@ -593,6 +593,22 @@
       "onboard_time": 1748713935,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11894,
+      "num": 16252,
+      "word": "李宇春夏日歌会舞台",
+      "onboard_time": 1748714177,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11789,
+      "num": 16240,
+      "word": "老人私自圈占小区公共绿化2年",
+      "onboard_time": 1748727254,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11636,
