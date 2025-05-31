@@ -1,0 +1,410 @@
+{
+  "runTime": 1748691417515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 733145,
+        "num": 1117303,
+        "word": "九门阵容官宣",
+        "onboard_time": 1748674880,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 589068,
+        "num": 589068,
+        "word": "司机遇上查酒驾当场喝下1瓶白酒",
+        "onboard_time": 1748686040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57706,
+        "num": 536953,
+        "word": "端午假期三大亮点",
+        "onboard_time": 1748680641,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1282439,
+        "num": 535765,
+        "word": "女子长期被迫吸二手烟痛苦地猛洗澡",
+        "onboard_time": 1748687480,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534229,
+        "num": 534229,
+        "word": "市民称在周大福买到假黄金项链",
+        "onboard_time": 1748685920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347938,
+        "num": 347938,
+        "word": "女老师说不要当一个扫兴的班主任",
+        "onboard_time": 1748688080,
+        "rank": 5,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 333046,
+        "num": 333046,
+        "word": "甲亢哥说要再来中国去绍兴女孩家乡",
+        "onboard_time": 1748689520,
+        "rank": 6,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 320565,
+        "num": 320565,
+        "word": "多位配音演员发文告别光合积木",
+        "onboard_time": 1748682080,
+        "rank": 7,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 298682,
+        "num": 298682,
+        "word": "河北武邑化工厂爆炸致5死2伤",
+        "onboard_time": 1748685681,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 293350,
+        "num": 293350,
+        "word": "肖战张婧仪还原藏海传狐兔名场面",
+        "onboard_time": 1748685860,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1210536,
+        "num": 291683,
+        "word": "陷入我们的热恋吻戏 借位",
+        "onboard_time": 1748689221,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1025016,
+        "num": 289329,
+        "word": "藏海传吻戏",
+        "onboard_time": 1748688501,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 479100,
+        "num": 287705,
+        "word": "全款3万买了40多年的老破小",
+        "onboard_time": 1748684060,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 43098,
+        "num": 285706,
+        "word": "90岁爷爷卖5毛钱粽子30年不涨价",
+        "onboard_time": 1748690359,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18089,
+        "num": 282654,
+        "word": "6180元够喝365天奶茶吗",
+        "onboard_time": 1748689281,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 454350,
+        "num": 281106,
+        "word": "李昀锐关晓彤捂眼路透",
+        "onboard_time": 1748686821,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337431,
+        "num": 279993,
+        "word": "迪丽热巴端午晒蛋糕",
+        "onboard_time": 1748686461,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326266,
+        "num": 276840,
+        "word": "150w现金和月薪4000的工作",
+        "onboard_time": 1748677220,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299034,
+        "num": 274895,
+        "word": "吴彦祖疯狂接代言被猜缺钱",
+        "onboard_time": 1748676920,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33173,
+        "num": 272636,
+        "word": "近视人群不会得老花眼是真是假",
+        "onboard_time": 1748690359,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 271099,
+        "num": 271099,
+        "word": "刘诗诗",
+        "onboard_time": 1748687660,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 253734,
+        "num": 253734,
+        "word": "姜广涛发文",
+        "onboard_time": 1748675781,
+        "rank": 21,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 232120,
+        "num": 232120,
+        "word": "十个勤天管这些叫素菜",
+        "onboard_time": 1748688380,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207039,
+        "num": 207039,
+        "word": "演出服遭退单商家最大一笔亏近8000元",
+        "onboard_time": 1748686580,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202531,
+        "num": 202531,
+        "word": "灯花笑",
+        "onboard_time": 1748687721,
+        "rank": 24,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 201454,
+        "num": 201454,
+        "word": "奴奴荼荼亲上了",
+        "onboard_time": 1748689700,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186499,
+        "num": 186499,
+        "word": "张婧仪扯肖战领带",
+        "onboard_time": 1748690481,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171914,
+        "num": 171914,
+        "word": "极乐净土还是得美依礼芽跳才对味",
+        "onboard_time": 1748690060,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171211,
+        "num": 171211,
+        "word": "李嘉格在程潇妈妈这第一次被照顾",
+        "onboard_time": 1748690060,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16243,
+        "num": 168471,
+        "word": "地铁老人晕倒外国友人帮扶获赞",
+        "onboard_time": 1748689880,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177240,
+        "num": 167827,
+        "word": "央视端午晚会",
+        "onboard_time": 1748691381,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166478,
+        "num": 166478,
+        "word": "周杰伦只需略微出手",
+        "onboard_time": 1748688921,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161437,
+        "num": 161437,
+        "word": "九门",
+        "onboard_time": 1748681423,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154676,
+        "num": 154676,
+        "word": "LPL",
+        "onboard_time": 1748691022,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120279,
+        "num": 151288,
+        "word": "16岁陈妤颉女子200米亚洲第一",
+        "onboard_time": 1748688020,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150538,
+        "num": 150538,
+        "word": "内娱杂志销量",
+        "onboard_time": 1748677580,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142614,
+        "num": 142614,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137463,
+        "num": 141182,
+        "word": "fayeyoko",
+        "onboard_time": 1748688620,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140215,
+        "num": 140215,
+        "word": "周杰伦网球场到底有谁在",
+        "onboard_time": 1748691081,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138546,
+        "num": 138546,
+        "word": "王鹤棣MAMA直拍貌媚风味",
+        "onboard_time": 1748688501,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126342,
+        "num": 133692,
+        "word": "周深三次南京演唱会横竖都不同",
+        "onboard_time": 1748690301,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130636,
+        "num": 130636,
+        "word": "日本北海道近海发生6.1级地震",
+        "onboard_time": 1748683940,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130333,
+        "num": 130333,
+        "word": "岳云鹏把德云社搬到长安的荔枝了",
+        "onboard_time": 1748687061,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128636,
+        "num": 128636,
+        "word": "马嘉祺强心剂全写表情上了",
+        "onboard_time": 1748691081,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126006,
+        "num": 126006,
+        "word": "斗破苍穹",
+        "onboard_time": 1748690601,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124256,
+        "num": 124256,
+        "word": "当小猫有了自己的玩具后",
+        "onboard_time": 1748690961,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117113,
+        "num": 117113,
+        "word": "印度承认有战机被击落",
+        "onboard_time": 1748688501,
+        "rank": 46,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 116417,
+        "num": 116417,
+        "word": "刘楚昕发感谢信",
+        "onboard_time": 1748690961,
+        "rank": 47,
+        "category": "读书作家,民生新闻"
+      },
+      {
+        "raw_hot": 115264,
+        "num": 115264,
+        "word": "BLG对战IG",
+        "onboard_time": 1748689640,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113630,
+        "num": 113630,
+        "word": "香暗荼骗观风自己怀孕了",
+        "onboard_time": 1748688561,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
