@@ -1,0 +1,410 @@
+{
+  "runTime": 1748669080947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 749029,
+        "num": 1119844,
+        "word": "端午红包",
+        "onboard_time": 1748665222,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 621748,
+        "num": 621748,
+        "word": "微信朋友圈能折叠了",
+        "onboard_time": 1748653040,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13789,
+        "num": 555630,
+        "word": "网络中国节",
+        "onboard_time": 1748596340,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1700078,
+        "num": 553684,
+        "word": "马斯克被儿子打了",
+        "onboard_time": 1748665400,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 676680,
+        "num": 553636,
+        "word": "洞洞鞋上岗",
+        "onboard_time": 1748665341,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 550763,
+        "num": 550763,
+        "word": "断眉 挂电",
+        "onboard_time": 1748662223,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493090,
+        "num": 493090,
+        "word": "孔雪儿的红包",
+        "onboard_time": 1748668161,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491562,
+        "num": 491562,
+        "word": "十个勤天猪肉",
+        "onboard_time": 1748666181,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366804,
+        "num": 366804,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228721,
+        "num": 355554,
+        "word": "端午祝福文案",
+        "onboard_time": 1748648837,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352208,
+        "num": 352208,
+        "word": "吴宣仪浪姐助阵嘉宾",
+        "onboard_time": 1748665581,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340826,
+        "num": 340826,
+        "word": "吉林通报李德明花千万建10个厕所",
+        "onboard_time": 1748650879,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339258,
+        "num": 339258,
+        "word": "乐高中国已终止与涉事博主合作",
+        "onboard_time": 1748654480,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77507,
+        "num": 303218,
+        "word": "美国国防部长回应玉渊谭天记者提问",
+        "onboard_time": 1748668761,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40599,
+        "num": 302675,
+        "word": "江南端午习俗吃五黄",
+        "onboard_time": 1748667682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302441,
+        "num": 302441,
+        "word": "丁太升说单依纯这次必须输",
+        "onboard_time": 1748661141,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286009,
+        "num": 286009,
+        "word": "工藤静香都来了木村拓哉还远吗",
+        "onboard_time": 1748662040,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198561,
+        "num": 268255,
+        "word": "王勉陈赫情头",
+        "onboard_time": 1748668399,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256340,
+        "num": 256340,
+        "word": "双胞胎必须要一模一样的东西吗",
+        "onboard_time": 1748666062,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33866,
+        "num": 244816,
+        "word": "吃饭越快肝脏更容易变胖吗",
+        "onboard_time": 1748668700,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233856,
+        "num": 233856,
+        "word": "林墨红包",
+        "onboard_time": 1748668161,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221373,
+        "num": 221373,
+        "word": "曹骏发红包",
+        "onboard_time": 1748665222,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199954,
+        "num": 199954,
+        "word": "谈恋爱没劲不谈恋爱接吻特有劲",
+        "onboard_time": 1748668221,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178182,
+        "num": 178182,
+        "word": "说端午快乐还是端午安康",
+        "onboard_time": 1748654961,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163842,
+        "num": 163842,
+        "word": "冬夏女王认出藏海",
+        "onboard_time": 1748669000,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162834,
+        "num": 162834,
+        "word": "LPL最佳新秀Erha",
+        "onboard_time": 1748668880,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158898,
+        "num": 158898,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1748668280,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156554,
+        "num": 156554,
+        "word": "Kanavi获常规赛MVP",
+        "onboard_time": 1748668880,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151163,
+        "num": 151163,
+        "word": "租三金结婚的年轻人开始退租了",
+        "onboard_time": 1748662521,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148270,
+        "num": 148270,
+        "word": "光与夜之恋",
+        "onboard_time": 1748665821,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151261,
+        "num": 147553,
+        "word": "爷爷把老宅改成了莫奈花园",
+        "onboard_time": 1748667200,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144582,
+        "num": 144582,
+        "word": "两个小段再道歉",
+        "onboard_time": 1748663661,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137091,
+        "num": 137091,
+        "word": "莫离开机",
+        "onboard_time": 1748659460,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126389,
+        "num": 126389,
+        "word": "苏州西园寺击掌小猫",
+        "onboard_time": 1748668880,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 48785,
+        "num": 125661,
+        "word": "15万纯电精灵1号超值升级",
+        "onboard_time": 1748669061,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125293,
+        "num": 125293,
+        "word": "中国汽车工业协会发布公平竞争倡议",
+        "onboard_time": 1748656341,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121310,
+        "num": 124139,
+        "word": "肖战平安最粽要",
+        "onboard_time": 1748662880,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123684,
+        "num": 123684,
+        "word": "当两个有眼力见的人谈恋爱",
+        "onboard_time": 1748668221,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122937,
+        "num": 122937,
+        "word": "男子遭精神病邻居砸门咒骂2年半",
+        "onboard_time": 1748650760,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121387,
+        "num": 121387,
+        "word": "又到了拿防晒衣当工服的季节了",
+        "onboard_time": 1748665701,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121269,
+        "num": 121269,
+        "word": "九门开机",
+        "onboard_time": 1748660421,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119919,
+        "num": 119919,
+        "word": "老人住千万豪宅拾荒家中堆满垃圾",
+        "onboard_time": 1748658200,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118151,
+        "num": 118151,
+        "word": "杨紫生命树端午6宫格",
+        "onboard_time": 1748663240,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115406,
+        "num": 115406,
+        "word": "邓超向十个勤天要点版权费吧",
+        "onboard_time": 1748666901,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114512,
+        "num": 114512,
+        "word": "苏醒王栎鑫在唱什么歌好难猜",
+        "onboard_time": 1748669061,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112784,
+        "num": 112784,
+        "word": "五哈",
+        "onboard_time": 1748665701,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110063,
+        "num": 110063,
+        "word": "马斯克从DOGE离职后将成特朗普顾问",
+        "onboard_time": 1748650760,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109310,
+        "num": 109310,
+        "word": "生命树",
+        "onboard_time": 1748662820,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87593,
+        "num": 108169,
+        "word": "武汉妈妈回应暴雨后陪孩子后备箱过夜",
+        "onboard_time": 1748660780,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84871,
+        "num": 107574,
+        "word": "中国人过端午各有各的仪式感",
+        "onboard_time": 1748657900,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
