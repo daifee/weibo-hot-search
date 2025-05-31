@@ -1,0 +1,410 @@
+{
+  "runTime": 1748699090815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1797440,
+        "num": 1797440,
+        "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
+        "onboard_time": 1748695762,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 783706,
+        "num": 783706,
+        "word": "各国为抢哈佛生源真的是拼了",
+        "onboard_time": 1748693601,
+        "rank": 1,
+        "category": "海外新闻,教育"
+      },
+      {
+        "raw_hot": 28523,
+        "num": 671722,
+        "word": "中国夏收好丰景",
+        "onboard_time": 1748697442,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 625909,
+        "num": 625909,
+        "word": "藏海传 男频",
+        "onboard_time": 1748694741,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457039,
+        "num": 457039,
+        "word": "女子长期被迫吸二手烟痛苦地猛洗澡",
+        "onboard_time": 1748687480,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427892,
+        "num": 427892,
+        "word": "女老师说不要当一个扫兴的班主任",
+        "onboard_time": 1748688080,
+        "rank": 5,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 569448,
+        "num": 421765,
+        "word": "韩国演员金惠恩发文回怼柳时敏",
+        "onboard_time": 1748692040,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271617,
+        "num": 271617,
+        "word": "BLG对战IG",
+        "onboard_time": 1748689640,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247182,
+        "num": 247182,
+        "word": "陈丽君叶童穿越时空浪漫相遇",
+        "onboard_time": 1748697862,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236955,
+        "num": 247178,
+        "word": "印度首次承认有战机被击落",
+        "onboard_time": 1748697502,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 931584,
+        "num": 247137,
+        "word": "刘浩存吻戏",
+        "onboard_time": 1748692222,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 736038,
+        "num": 247118,
+        "word": "8旬老人砍掉小区20年香樟树",
+        "onboard_time": 1748691861,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601061,
+        "num": 247063,
+        "word": "藏海传吻戏",
+        "onboard_time": 1748688501,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452250,
+        "num": 247062,
+        "word": "陷入我们的热恋吻戏 借位",
+        "onboard_time": 1748689221,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436604,
+        "num": 247022,
+        "word": "贾乃亮和甜馨过端午节",
+        "onboard_time": 1748691441,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254149,
+        "num": 247002,
+        "word": "九门阵容官宣",
+        "onboard_time": 1748674880,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394986,
+        "num": 246970,
+        "word": "董力二胎出生的时候全家都去迎接了",
+        "onboard_time": 1748696783,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369124,
+        "num": 246921,
+        "word": "张艺兴异瞳烟熏妆",
+        "onboard_time": 1748697321,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52270,
+        "num": 246896,
+        "word": "为何爬楼梯机更吸引健身人群",
+        "onboard_time": 1748697982,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 32294,
+        "num": 246876,
+        "word": "河南一水库水位下降现千佛石窟",
+        "onboard_time": 1748698703,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356721,
+        "num": 246852,
+        "word": "女生吃榴莲的5大好处",
+        "onboard_time": 1748693840,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 328757,
+        "num": 246806,
+        "word": "陈小春演唱会上座率",
+        "onboard_time": 1748698282,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 324998,
+        "num": 246779,
+        "word": "李昀锐关晓彤海边拥抱",
+        "onboard_time": 1748698102,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206045,
+        "num": 246745,
+        "word": "龙舟赛现卡点翻船",
+        "onboard_time": 1748696783,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83443,
+        "num": 246707,
+        "word": "运动员的端午假期怎么过",
+        "onboard_time": 1748698703,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246706,
+        "num": 246706,
+        "word": "白敬亭 我寻思原相机也没美颜啊",
+        "onboard_time": 1748697622,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243020,
+        "num": 243020,
+        "word": "朱一龙晒火锅粽子",
+        "onboard_time": 1748692521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218819,
+        "num": 218819,
+        "word": "女装这种设计的意义在于没有意义",
+        "onboard_time": 1748696661,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 203747,
+        "num": 203747,
+        "word": "肖战张婧仪太会演",
+        "onboard_time": 1748698342,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198647,
+        "num": 198647,
+        "word": "meiko状态",
+        "onboard_time": 1748697022,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196930,
+        "num": 196930,
+        "word": "沙一汀 披荆斩棘",
+        "onboard_time": 1748698222,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187576,
+        "num": 187576,
+        "word": "奴奴荼荼亲上了",
+        "onboard_time": 1748689700,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173617,
+        "num": 173617,
+        "word": "央视端午晚会",
+        "onboard_time": 1748691381,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166999,
+        "num": 166999,
+        "word": "难怪王安宇梦女多",
+        "onboard_time": 1748697562,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103772,
+        "num": 157050,
+        "word": "智性恋与普通恋爱的区别",
+        "onboard_time": 1748695701,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155516,
+        "num": 155516,
+        "word": "陈哲远 吃了两个咸蛋黄肉粽",
+        "onboard_time": 1748698703,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152105,
+        "num": 152105,
+        "word": "刘雨昕黄子弘凡任我舞台",
+        "onboard_time": 1748698642,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144709,
+        "num": 144709,
+        "word": "英雄联盟太原总决赛",
+        "onboard_time": 1748698342,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143973,
+        "num": 143973,
+        "word": "莫文蔚演唱会嘉宾",
+        "onboard_time": 1748694623,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142910,
+        "num": 142910,
+        "word": "河南一水库水位下降现石窟",
+        "onboard_time": 1748696783,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136606,
+        "num": 136606,
+        "word": "患神经病邻居持刀上门打砸",
+        "onboard_time": 1748692342,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136594,
+        "num": 136594,
+        "word": "露娜一集叫了十五次哥哥",
+        "onboard_time": 1748696241,
+        "rank": 41,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 132957,
+        "num": 132957,
+        "word": "150w现金和月薪4000的工作",
+        "onboard_time": 1748677220,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132072,
+        "num": 132072,
+        "word": "冬天get不到的袜套夏天又来了",
+        "onboard_time": 1748696722,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 131129,
+        "num": 131129,
+        "word": "市民称在周大福买到假黄金项链",
+        "onboard_time": 1748685920,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130048,
+        "num": 130048,
+        "word": "王安宇换个发型就换个风格",
+        "onboard_time": 1748698222,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33385,
+        "num": 128916,
+        "word": "生死关头听家属的还是听患者的",
+        "onboard_time": 1748697022,
+        "rank": 46,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 128530,
+        "num": 128530,
+        "word": "给第一次去扬州捏脚的人一点震撼",
+        "onboard_time": 1748695641,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 127885,
+        "num": 127885,
+        "word": "姜广涛发文",
+        "onboard_time": 1748675781,
+        "rank": 48,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 127343,
+        "num": 127343,
+        "word": "选余男来演女王的简直是天才",
+        "onboard_time": 1748695041,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

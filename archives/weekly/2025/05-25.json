@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748698384882,
+  "endTime": 1748699090815,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1797440,
+      "num": 1797440,
+      "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
+      "onboard_time": 1748695762,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1792354,
       "num": 1792354,
       "word": "银川烧烤店31死爆炸案宣判",
@@ -481,14 +489,6 @@
       "onboard_time": 1748413459,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1584156,
-      "num": 1584156,
-      "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
-      "onboard_time": 1748695762,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 1581558,
@@ -1899,6 +1899,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 783706,
+      "num": 783706,
+      "word": "各国为抢哈佛生源真的是拼了",
+      "onboard_time": 1748693601,
+      "rank": 9,
+      "category": "海外新闻,教育"
+    },
+    {
       "raw_hot": 782337,
       "num": 782337,
       "word": "高校教师迟到1分钟被认定教学事故",
@@ -2257,14 +2265,6 @@
       "onboard_time": 1748246902,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 721036,
-      "num": 721036,
-      "word": "各国为抢哈佛生源真的是拼了",
-      "onboard_time": 1748693601,
-      "rank": 9,
-      "category": "海外新闻,教育"
     },
     {
       "raw_hot": 719441,
@@ -2737,6 +2737,14 @@
       "onboard_time": 1748145561,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 625909,
+      "num": 625909,
+      "word": "藏海传 男频",
+      "onboard_time": 1748694741,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 621946,
@@ -4332,7 +4340,7 @@
     },
     {
       "raw_hot": 421276,
-      "num": 240601,
+      "num": 246970,
       "word": "董力二胎出生的时候全家都去迎接了",
       "onboard_time": 1748696783,
       "rank": 15,
@@ -4939,20 +4947,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369124,
+      "num": 246921,
+      "word": "张艺兴异瞳烟熏妆",
+      "onboard_time": 1748697321,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369076,
       "num": 346277,
       "word": "奔跑吧路透",
       "onboard_time": 1748150422,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368940,
-      "num": 368940,
-      "word": "藏海传 男频",
-      "onboard_time": 1748694741,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 367918,
@@ -5105,6 +5113,14 @@
       "onboard_time": 1748162901,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356721,
+      "num": 250128,
+      "word": "女生吃榴莲的5大好处",
+      "onboard_time": 1748693840,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 356570,
@@ -5555,6 +5571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328757,
+      "num": 246806,
+      "word": "陈小春演唱会上座率",
+      "onboard_time": 1748698282,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 328651,
       "num": 328651,
       "word": "泡泡玛特回应Labubu品控问题",
@@ -5593,6 +5617,14 @@
       "onboard_time": 1748347401,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324998,
+      "num": 246779,
+      "word": "李昀锐关晓彤海边拥抱",
+      "onboard_time": 1748698102,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 324296,
@@ -6169,14 +6201,6 @@
       "onboard_time": 1748338400,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293151,
-      "num": 250128,
-      "word": "女生吃榴莲的5大好处",
-      "onboard_time": 1748693840,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 293131,
@@ -7227,12 +7251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247182,
+      "num": 247182,
+      "word": "陈丽君叶童穿越时空浪漫相遇",
+      "onboard_time": 1748697862,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246987,
       "num": 233057,
       "word": "仙逆",
       "onboard_time": 1748170701,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 246706,
+      "num": 246706,
+      "word": "白敬亭 我寻思原相机也没美颜啊",
+      "onboard_time": 1748697622,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 246350,
@@ -7475,14 +7515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239607,
-      "num": 239607,
-      "word": "张艺兴异瞳烟熏妆",
-      "onboard_time": 1748697321,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239350,
       "num": 239350,
       "word": "东京大学将临时接收哈佛国际学生",
@@ -7561,6 +7593,14 @@
       "onboard_time": 1748097146,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236955,
+      "num": 247178,
+      "word": "印度首次承认有战机被击落",
+      "onboard_time": 1748697502,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 236801,
@@ -7915,14 +7955,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 224993,
-      "num": 224993,
-      "word": "白敬亭 我寻思原相机也没美颜啊",
-      "onboard_time": 1748697622,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224370,
       "num": 417601,
       "word": "多方回应山东高密一化工厂爆炸",
@@ -8121,6 +8153,14 @@
       "onboard_time": 1748158222,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218819,
+      "num": 218819,
+      "word": "女装这种设计的意义在于没有意义",
+      "onboard_time": 1748696661,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 218797,
@@ -8779,6 +8819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206045,
+      "num": 246745,
+      "word": "龙舟赛现卡点翻船",
+      "onboard_time": 1748696783,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206030,
       "num": 206030,
       "word": "孙颖莎说大满贯的梦想还在",
@@ -8937,6 +8985,14 @@
       "onboard_time": 1748268083,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203747,
+      "num": 203747,
+      "word": "肖战张婧仪太会演",
+      "onboard_time": 1748698342,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 203734,
@@ -9499,6 +9555,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 196930,
+      "num": 196930,
+      "word": "沙一汀 披荆斩棘",
+      "onboard_time": 1748698222,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196902,
       "num": 196902,
       "word": "奴奴荼荼",
@@ -9641,14 +9705,6 @@
       "onboard_time": 1748252602,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195034,
-      "num": 195034,
-      "word": "女装这种设计的意义在于没有意义",
-      "onboard_time": 1748696661,
-      "rank": 28,
-      "category": "时尚"
     },
     {
       "raw_hot": 195033,
@@ -11587,14 +11643,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175246,
-      "num": 175246,
-      "word": "肖战张婧仪太会演",
-      "onboard_time": 1748698342,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175192,
       "num": 175192,
       "word": "大学生口中吃顿好的并不是贵的",
@@ -12320,14 +12368,6 @@
       "word": "魏劭发现表哥喜欢小乔",
       "onboard_time": 1748139800,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 168757,
-      "num": 168757,
-      "word": "李昀锐关晓彤海边拥抱",
-      "onboard_time": 1748698102,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -13659,6 +13699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 155516,
+      "num": 155516,
+      "word": "陈哲远 吃了两个咸蛋黄肉粽",
+      "onboard_time": 1748698703,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155452,
       "num": 155452,
       "word": "王源三巡重庆官宣",
@@ -14017,6 +14065,14 @@
       "onboard_time": 1748427261,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152105,
+      "num": 152105,
+      "word": "刘雨昕黄子弘凡任我舞台",
+      "onboard_time": 1748698642,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 152042,
@@ -14819,6 +14875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143973,
+      "num": 143973,
+      "word": "莫文蔚演唱会嘉宾",
+      "onboard_time": 1748694623,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143967,
       "num": 259301,
       "word": "陈丽君黄子弘凡等亮相央视端午晚会",
@@ -14969,6 +15033,14 @@
       "onboard_time": 1748314160,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142910,
+      "num": 142910,
+      "word": "河南一水库水位下降现石窟",
+      "onboard_time": 1748696783,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142774,
@@ -16267,14 +16339,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 132046,
-      "num": 132046,
-      "word": "莫文蔚演唱会嘉宾",
-      "onboard_time": 1748694623,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 132032,
       "num": 132032,
       "word": "减肥时可以代替吃饭的项目",
@@ -16315,14 +16379,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 131364,
-      "num": 131364,
-      "word": "河南一水库水位下降现石窟",
-      "onboard_time": 1748696783,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131315,
       "num": 131315,
       "word": "大学生给藏海传做了个动画片头",
@@ -16345,14 +16401,6 @@
       "onboard_time": 1748343622,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130978,
-      "num": 130978,
-      "word": "陈小春演唱会上座率",
-      "onboard_time": 1748698282,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 130937,
@@ -16449,6 +16497,14 @@
       "onboard_time": 1748608644,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130048,
+      "num": 130048,
+      "word": "王安宇换个发型就换个风格",
+      "onboard_time": 1748698222,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 130018,
@@ -17208,14 +17264,6 @@
       "word": "奔跑吧13",
       "onboard_time": 1748156781,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 123905,
-      "num": 123905,
-      "word": "沙一汀 披荆斩棘",
-      "onboard_time": 1748698222,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -18884,7 +18932,7 @@
     },
     {
       "raw_hot": 106501,
-      "num": 106501,
+      "num": 157050,
       "word": "智性恋与普通恋爱的区别",
       "onboard_time": 1748695701,
       "rank": 49,
@@ -19001,14 +19049,6 @@
       "onboard_time": 1748491582,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104600,
-      "num": 206365,
-      "word": "陈丽君叶童穿越时空浪漫相遇",
-      "onboard_time": 1748697862,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 104570,
@@ -20003,14 +20043,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 91569,
-      "num": 240888,
-      "word": "印度首次承认有战机被击落",
-      "onboard_time": 1748697502,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 91447,
       "num": 91447,
       "word": "王楚钦再回忆奥运止步32强",
@@ -20497,6 +20529,14 @@
       "onboard_time": 1748191220,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 83443,
+      "num": 246707,
+      "word": "运动员的端午假期怎么过",
+      "onboard_time": 1748698703,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 83436,
@@ -21684,7 +21724,7 @@
     },
     {
       "raw_hot": 65177,
-      "num": 240304,
+      "num": 246896,
       "word": "为何爬楼梯机更吸引健身人群",
       "onboard_time": 1748697982,
       "rank": 17,
@@ -22673,14 +22713,6 @@
       "onboard_time": 1748237422,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53943,
-      "num": 240226,
-      "word": "龙舟赛现卡点翻船",
-      "onboard_time": 1748696783,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53842,
@@ -24571,6 +24603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33385,
+      "num": 239976,
+      "word": "生死关头听家属的还是听患者的",
+      "onboard_time": 1748697022,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 33379,
       "num": 102570,
       "word": "今日特朗普政府哈佛大学法庭见",
@@ -24641,6 +24681,14 @@
       "onboard_time": 1748428280,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32294,
+      "num": 246876,
+      "word": "河南一水库水位下降现千佛石窟",
+      "onboard_time": 1748698703,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32288,
@@ -25083,6 +25131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28523,
+      "num": 671722,
+      "word": "中国夏收好丰景",
+      "onboard_time": 1748697442,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28387,
       "num": 207726,
       "word": "租房中介最怕租客知道的内幕有哪些",
@@ -25377,14 +25433,6 @@
       "onboard_time": 1748594782,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26415,
-      "num": 671036,
-      "word": "中国夏收好丰景",
-      "onboard_time": 1748697442,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26403,
@@ -25689,14 +25737,6 @@
       "onboard_time": 1748694200,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24032,
-      "num": 239976,
-      "word": "生死关头听家属的还是听患者的",
-      "onboard_time": 1748697022,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 23884,
