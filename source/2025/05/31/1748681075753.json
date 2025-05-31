@@ -1,0 +1,410 @@
+{
+  "runTime": 1748681075753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1168286,
+        "num": 1186925,
+        "word": "九门阵容官宣",
+        "onboard_time": 1748674880,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 599586,
+        "num": 599586,
+        "word": "端午红包",
+        "onboard_time": 1748665222,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36709,
+        "num": 568496,
+        "word": "端午假期三大亮点",
+        "onboard_time": 1748680641,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 560081,
+        "num": 560081,
+        "word": "南航通报客机起飞15分钟紧急降落",
+        "onboard_time": 1748676622,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384896,
+        "num": 384896,
+        "word": "樊振东端午节发文",
+        "onboard_time": 1748676980,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368433,
+        "num": 368433,
+        "word": "田曦薇簪花礼裙",
+        "onboard_time": 1748676500,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365482,
+        "num": 365482,
+        "word": "美国暂停出口C919发动机",
+        "onboard_time": 1748672780,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352902,
+        "num": 352902,
+        "word": "微信朋友圈能折叠了",
+        "onboard_time": 1748653040,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 321862,
+        "num": 321862,
+        "word": "肖战演藏海在台湾刷屏",
+        "onboard_time": 1748678901,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260539,
+        "num": 260539,
+        "word": "陈瑶九门旗袍造型",
+        "onboard_time": 1748677641,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 916108,
+        "num": 258123,
+        "word": "姜广涛发文",
+        "onboard_time": 1748675781,
+        "rank": 10,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 702203,
+        "num": 257739,
+        "word": "吴彦祖疯狂接代言被猜缺钱",
+        "onboard_time": 1748676920,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631564,
+        "num": 254990,
+        "word": "内娱杂志销量",
+        "onboard_time": 1748677580,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151320,
+        "num": 250312,
+        "word": "国内多地网友目击夜空现不明飞行物",
+        "onboard_time": 1748679439,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27410,
+        "num": 248357,
+        "word": "中了6180元能买多少东西",
+        "onboard_time": 1748678480,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 246836,
+        "num": 246836,
+        "word": "演员方刚去世",
+        "onboard_time": 1748675118,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40969,
+        "num": 222943,
+        "word": "2000多年前端午节可能叫重节",
+        "onboard_time": 1748675660,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80039,
+        "num": 217640,
+        "word": "618前最后一波玄学",
+        "onboard_time": 1748678841,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214294,
+        "num": 214294,
+        "word": "陈伟霆10年前vs10年后",
+        "onboard_time": 1748680460,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12861,
+        "num": 210914,
+        "word": "传统艾灸与灯草灸的养生效果有何区别",
+        "onboard_time": 1748680341,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300043,
+        "num": 207673,
+        "word": "150w现金和月薪4000的工作",
+        "onboard_time": 1748677220,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256149,
+        "num": 200160,
+        "word": "双胞胎必须要一模一样的东西吗",
+        "onboard_time": 1748666062,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161305,
+        "num": 198169,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193857,
+        "num": 193857,
+        "word": "单依纯回应被说像王菲",
+        "onboard_time": 1748670980,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188617,
+        "num": 188617,
+        "word": "刘耀文说就吃这几年青春饭",
+        "onboard_time": 1748680160,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215901,
+        "num": 188577,
+        "word": "鞠婧祎十二年前的备忘录",
+        "onboard_time": 1748680641,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173172,
+        "num": 188513,
+        "word": "白敬亭开什么车",
+        "onboard_time": 1748680879,
+        "rank": 26,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 204179,
+        "num": 188468,
+        "word": "左奇函撕拉片",
+        "onboard_time": 1748680341,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58946,
+        "num": 188401,
+        "word": "跑步一小时身体会发生什么变化",
+        "onboard_time": 1748680400,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 35747,
+        "num": 188348,
+        "word": "荷兰一软糖被检出含有大麻成分",
+        "onboard_time": 1748680341,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188333,
+        "num": 188333,
+        "word": "云合",
+        "onboard_time": 1748680581,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183515,
+        "num": 183515,
+        "word": "爆改的风吹到了陈德容",
+        "onboard_time": 1748679922,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200866,
+        "num": 177580,
+        "word": "洞洞鞋上岗",
+        "onboard_time": 1748665341,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169139,
+        "num": 169139,
+        "word": "断眉 挂电",
+        "onboard_time": 1748662223,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144106,
+        "num": 159811,
+        "word": "高压锅煮粽子致爆炸女子发声",
+        "onboard_time": 1748671281,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158213,
+        "num": 158213,
+        "word": "鞠婧祎五大杂志",
+        "onboard_time": 1748661743,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150809,
+        "num": 150809,
+        "word": "蒋一侨牵完侯佩岑牵倪虹洁",
+        "onboard_time": 1748679922,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146294,
+        "num": 146294,
+        "word": "十个勤天他在叫他在笑",
+        "onboard_time": 1748680760,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71027,
+        "num": 142657,
+        "word": "神二十乘组太空送来端午祝福",
+        "onboard_time": 1748676559,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122766,
+        "num": 141077,
+        "word": "60年前修铁路意外发现考古盲盒",
+        "onboard_time": 1748679260,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59318,
+        "num": 140063,
+        "word": "感受古诗词里的端午节",
+        "onboard_time": 1748679922,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139900,
+        "num": 139900,
+        "word": "王楚然蜜桃水晶粽拟人化了",
+        "onboard_time": 1748680700,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138506,
+        "num": 138506,
+        "word": "杨紫胡歌生命树宝丽来",
+        "onboard_time": 1748671460,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134511,
+        "num": 134511,
+        "word": "陈伟霆时隔9年再演张启山",
+        "onboard_time": 1748680341,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133437,
+        "num": 133437,
+        "word": "冬夏女王认出藏海",
+        "onboard_time": 1748669000,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123092,
+        "num": 123092,
+        "word": "肖战一个人演了一套打工人表情",
+        "onboard_time": 1748679500,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122600,
+        "num": 122600,
+        "word": "十个勤天猪肉",
+        "onboard_time": 1748666181,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120341,
+        "num": 120341,
+        "word": "光合积木",
+        "onboard_time": 1748669601,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118884,
+        "num": 118884,
+        "word": "樊振东慕尼黑看欧冠",
+        "onboard_time": 1748675540,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103317,
+        "num": 103317,
+        "word": "P种兵正逐渐代替特种兵式旅游",
+        "onboard_time": 1748680822,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中华文化展现出永久魅力和时代风采#"
+    }
+  }
+}
