@@ -1,0 +1,410 @@
+{
+  "runTime": 1748720219891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 227699,
+        "num": 227699,
+        "word": "谭松韵疑似ABB式名字大户",
+        "onboard_time": 1748707819,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157896,
+        "num": 157896,
+        "word": "欧冠决赛",
+        "onboard_time": 1748695641,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16560,
+        "num": 87415,
+        "word": "3个中国人在太空过端午",
+        "onboard_time": 1748700023,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81682,
+        "num": 81682,
+        "word": "在哈佛演讲的25岁中国女生发声",
+        "onboard_time": 1748697022,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 64046,
+        "num": 64046,
+        "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
+        "onboard_time": 1748695762,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57831,
+        "num": 57831,
+        "word": "患神经病邻居持刀上门打砸",
+        "onboard_time": 1748692342,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49752,
+        "num": 49752,
+        "word": "藏海传 男频",
+        "onboard_time": 1748694741,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47181,
+        "num": 47181,
+        "word": "彩票店女老板整天吸二手烟血管堵90%",
+        "onboard_time": 1748702542,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46085,
+        "num": 46085,
+        "word": "各国为抢哈佛生源真的是拼了",
+        "onboard_time": 1748693601,
+        "rank": 8,
+        "category": "海外新闻,教育"
+      },
+      {
+        "raw_hot": 40643,
+        "num": 40643,
+        "word": "河南一水库水位下降现千佛石窟",
+        "onboard_time": 1748698703,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125558,
+        "num": 40637,
+        "word": "刘浩存吻戏",
+        "onboard_time": 1748692222,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82153,
+        "num": 40631,
+        "word": "8旬老人砍掉小区20年香樟树",
+        "onboard_time": 1748691861,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68506,
+        "num": 40620,
+        "word": "女装这种设计的意义在于没有意义",
+        "onboard_time": 1748696661,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 60929,
+        "num": 40614,
+        "word": "李昀锐关晓彤海边拥抱",
+        "onboard_time": 1748698102,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53930,
+        "num": 40599,
+        "word": "孙恩盛 女装",
+        "onboard_time": 1748706621,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50347,
+        "num": 40590,
+        "word": "陷入我们的热恋吻戏 借位",
+        "onboard_time": 1748689221,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40586,
+        "num": 40586,
+        "word": "陈小春演唱会上座率",
+        "onboard_time": 1748698282,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36941,
+        "num": 36941,
+        "word": "王星越回应演现代戏",
+        "onboard_time": 1748707040,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33687,
+        "num": 33687,
+        "word": "刘宇宁气场太强了",
+        "onboard_time": 1748699842,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17149,
+        "num": 31079,
+        "word": "网友逛街偶遇权志龙",
+        "onboard_time": 1748719155,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45480,
+        "num": 30749,
+        "word": "梨形身材是基因彩票",
+        "onboard_time": 1748706320,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29250,
+        "num": 29250,
+        "word": "藏海传吻戏",
+        "onboard_time": 1748688501,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28296,
+        "num": 28296,
+        "word": "张艺兴异瞳烟熏妆",
+        "onboard_time": 1748697321,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26927,
+        "num": 26927,
+        "word": "火车上手机被错拿不肯下车索赔2000",
+        "onboard_time": 1748703140,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25476,
+        "num": 25476,
+        "word": "高考加油",
+        "onboard_time": 1748707761,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25430,
+        "num": 25430,
+        "word": "长期喝水与喝茶的区别",
+        "onboard_time": 1748702302,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25160,
+        "num": 25160,
+        "word": "单依纯说唱得很沉浸忘我",
+        "onboard_time": 1748714716,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24760,
+        "num": 24760,
+        "word": "美一卡车侧翻致2.5亿只蜜蜂飞出",
+        "onboard_time": 1748700563,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23915,
+        "num": 23915,
+        "word": "剑来",
+        "onboard_time": 1748703622,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21763,
+        "num": 21763,
+        "word": "未知的首尔",
+        "onboard_time": 1748707280,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24153,
+        "num": 21703,
+        "word": "女子长期被迫吸二手烟痛苦地猛洗澡",
+        "onboard_time": 1748687480,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21140,
+        "num": 21140,
+        "word": "李健演唱会遇大雨",
+        "onboard_time": 1748705541,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19582,
+        "num": 19582,
+        "word": "女生吃榴莲的5大好处",
+        "onboard_time": 1748693840,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19519,
+        "num": 19519,
+        "word": "全员加速中",
+        "onboard_time": 1748701463,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19101,
+        "num": 19101,
+        "word": "歌手",
+        "onboard_time": 1748702960,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18776,
+        "num": 18776,
+        "word": "广东龙舟正成为中国文旅的新名片",
+        "onboard_time": 1748711597,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18412,
+        "num": 18412,
+        "word": "檀健次莫文蔚合唱等不到的等待",
+        "onboard_time": 1748701827,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18383,
+        "num": 18383,
+        "word": "美副总统说美国人靠自己就能干大事",
+        "onboard_time": 1748706021,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18053,
+        "num": 18053,
+        "word": "九门",
+        "onboard_time": 1748681423,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17693,
+        "num": 17693,
+        "word": "25年居然还能听到刘宇宁唱天问",
+        "onboard_time": 1748716095,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17611,
+        "num": 17611,
+        "word": "歌手给白举纲写的离别文",
+        "onboard_time": 1748705002,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17229,
+        "num": 17229,
+        "word": "余承东称华为将只做五个界",
+        "onboard_time": 1748699241,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16691,
+        "num": 16691,
+        "word": "30岁了还想过儿童节怎么办",
+        "onboard_time": 1748707580,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16630,
+        "num": 16630,
+        "word": "起猛了看到广州CBD堵船了",
+        "onboard_time": 1748716455,
+        "rank": 43,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 16570,
+        "num": 16570,
+        "word": "TF家族四代端午创意龙舟",
+        "onboard_time": 1748718254,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16351,
+        "num": 16351,
+        "word": "TheShy真尽力了",
+        "onboard_time": 1748701222,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15865,
+        "num": 16351,
+        "word": "王星越说横店待腻了",
+        "onboard_time": 1748706260,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15395,
+        "num": 16351,
+        "word": "贾乃亮和甜馨过端午节",
+        "onboard_time": 1748691441,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14969,
+        "num": 16350,
+        "word": "鞠婧祎COSMO玫瑰猎手大片",
+        "onboard_time": 1748712977,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14846,
+        "num": 16349,
+        "word": "被龙舟赛的最后冲刺燃到了",
+        "onboard_time": 1748711477,
+        "rank": 49,
+        "category": "民生新闻,运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平期许孩子们茁壮成长#"
+    }
+  }
+}
