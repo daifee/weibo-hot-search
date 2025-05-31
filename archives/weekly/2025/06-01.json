@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748731314771,
+  "endTime": 1748733893174,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -67,6 +67,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307238,
+      "num": 389239,
+      "word": "欧冠决赛",
+      "onboard_time": 1748695641,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300085,
+      "num": 300085,
+      "word": "在哈佛演讲的25岁中国女生发声",
+      "onboard_time": 1748697022,
+      "rank": 8,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 291250,
       "num": 291250,
       "word": "瓶邪",
@@ -91,20 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252216,
-      "num": 252216,
-      "word": "在哈佛演讲的25岁中国女生发声",
-      "onboard_time": 1748697022,
-      "rank": 8,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 249882,
-      "num": 389239,
-      "word": "欧冠决赛",
-      "onboard_time": 1748695641,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 225385,
+      "num": 163724,
+      "word": "8旬老人砍掉小区20年香樟树",
+      "onboard_time": 1748691861,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218804,
@@ -139,11 +147,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 194005,
-      "num": 163724,
-      "word": "8旬老人砍掉小区20年香樟树",
-      "onboard_time": 1748691861,
-      "rank": 17,
+      "raw_hot": 189605,
+      "num": 189605,
+      "word": "患神经病邻居持刀上门打砸",
+      "onboard_time": 1748692342,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150905,
+      "num": 150905,
+      "word": "当你长期跑步之后你的身体",
+      "onboard_time": 1748722453,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 137506,
       "num": 125972,
       "word": "孙恩盛 女装",
@@ -211,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120473,
-      "num": 120473,
-      "word": "患神经病邻居持刀上门打砸",
-      "onboard_time": 1748692342,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115375,
       "num": 115375,
       "word": "长期喝水与喝茶的区别",
@@ -235,6 +243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100002,
+      "num": 100002,
+      "word": "美一卡车侧翻致2.5亿只蜜蜂飞出",
+      "onboard_time": 1748700563,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96689,
       "num": 96689,
       "word": "张艺兴异瞳烟熏妆",
@@ -249,14 +265,6 @@
       "onboard_time": 1748709499,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90094,
-      "num": 90094,
-      "word": "美一卡车侧翻致2.5亿只蜜蜂飞出",
-      "onboard_time": 1748700563,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 89627,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85684,
+      "num": 77251,
+      "word": "这才是早起刷牙的真正原因",
+      "onboard_time": 1748733857,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 84570,
       "num": 84570,
       "word": "女子长期被迫吸二手烟痛苦地猛洗澡",
@@ -323,14 +339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80892,
-      "num": 80892,
-      "word": "当你长期跑步之后你的身体",
-      "onboard_time": 1748722453,
-      "rank": 45,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 80113,
       "num": 80113,
       "word": "刘宇王栎鑫梁洁王楚然合唱赠你",
@@ -353,6 +361,22 @@
       "onboard_time": 1748707580,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76959,
+      "num": 76959,
+      "word": "董力二胎出生的时候全家都去迎接了",
+      "onboard_time": 1748696783,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 76187,
+      "num": 125163,
+      "word": "特朗普回应马克龙被妻子打脸",
+      "onboard_time": 1748733136,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74841,
@@ -443,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56643,
+      "num": 56643,
+      "word": "解锁床上玩手机正确姿势",
+      "onboard_time": 1748724435,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55155,
       "num": 93191,
       "word": "广东龙舟正成为中国文旅的新名片",
@@ -467,12 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48494,
-      "num": 48494,
-      "word": "解锁床上玩手机正确姿势",
-      "onboard_time": 1748724435,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 43803,
+      "num": 43803,
+      "word": "央视端午晚会节目单",
+      "onboard_time": 1748729115,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43763,
+      "num": 43763,
+      "word": "蒯铎之死背后的秘密",
+      "onboard_time": 1748692101,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 43393,
@@ -507,12 +547,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39243,
+      "num": 39243,
+      "word": "老人私自圈占小区公共绿化2年",
+      "onboard_time": 1748727254,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39235,
       "num": 40869,
       "word": "法网",
       "onboard_time": 1748704161,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36546,
+      "num": 36546,
+      "word": "肖战张婧仪还原藏海传狐兔名场面",
+      "onboard_time": 1748685860,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34739,
+      "num": 34739,
+      "word": "刘宇宁戏里折腰戏外护腰",
+      "onboard_time": 1748733497,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33219,
+      "num": 33219,
+      "word": "王楚然丞磊配成这样成何体统",
+      "onboard_time": 1748733555,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 32035,
@@ -531,19 +603,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30301,
+      "num": 30301,
+      "word": "白鹿新户口已存档",
+      "onboard_time": 1748733436,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28724,
       "num": 28724,
       "word": "25年居然还能听到刘宇宁唱天问",
       "onboard_time": 1748716095,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 27232,
-      "num": 27232,
-      "word": "央视端午晚会节目单",
-      "onboard_time": 1748729115,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -553,6 +625,14 @@
       "onboard_time": 1748715136,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25193,
+      "num": 77451,
+      "word": "铁打的杨肸子流水的男主",
+      "onboard_time": 1748733196,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 25178,
@@ -569,14 +649,6 @@
       "onboard_time": 1748715435,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23679,
-      "num": 23679,
-      "word": "老人私自圈占小区公共绿化2年",
-      "onboard_time": 1748727254,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23543,
