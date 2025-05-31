@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748733893174,
+  "endTime": 1748734724397,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -59,6 +59,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 338683,
+      "num": 338683,
+      "word": "在哈佛演讲的25岁中国女生发声",
+      "onboard_time": 1748697022,
+      "rank": 8,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 316925,
       "num": 245857,
       "word": "王星越回应演现代戏",
@@ -73,14 +81,6 @@
       "onboard_time": 1748695641,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 300085,
-      "num": 300085,
-      "word": "在哈佛演讲的25岁中国女生发声",
-      "onboard_time": 1748697022,
-      "rank": 8,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 291250,
@@ -107,12 +107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225385,
-      "num": 163724,
+      "raw_hot": 251949,
+      "num": 169974,
       "word": "8旬老人砍掉小区20年香樟树",
       "onboard_time": 1748691861,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232346,
+      "num": 232346,
+      "word": "巴黎夺得欧冠冠军",
+      "onboard_time": 1748733918,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 218804,
@@ -147,12 +155,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 189605,
-      "num": 189605,
+      "raw_hot": 193865,
+      "num": 193865,
+      "word": "儿童节",
+      "onboard_time": 1748734036,
+      "rank": 5,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 192388,
+      "num": 192388,
       "word": "患神经病邻居持刀上门打砸",
       "onboard_time": 1748692342,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189534,
+      "num": 189534,
+      "word": "巴黎 姆巴佩",
+      "onboard_time": 1748733918,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 176257,
@@ -163,12 +187,28 @@
       "category": "海外新闻,教育"
     },
     {
+      "raw_hot": 176024,
+      "num": 176024,
+      "word": "特朗普回应马克龙被妻子打脸",
+      "onboard_time": 1748733136,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172472,
       "num": 128461,
       "word": "藏海传吻戏",
       "onboard_time": 1748688501,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167405,
+      "num": 167405,
+      "word": "当你长期跑步之后你的身体",
+      "onboard_time": 1748722453,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 163066,
@@ -187,12 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150905,
-      "num": 150905,
-      "word": "当你长期跑步之后你的身体",
-      "onboard_time": 1748722453,
-      "rank": 45,
-      "category": "运动健身"
+      "raw_hot": 144595,
+      "num": 104136,
+      "word": "这才是早起刷牙的真正原因",
+      "onboard_time": 1748733857,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137506,
@@ -235,6 +275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107445,
+      "num": 107445,
+      "word": "美一卡车侧翻致2.5亿只蜜蜂飞出",
+      "onboard_time": 1748700563,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101710,
       "num": 101710,
       "word": "高考加油",
@@ -243,19 +291,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 100002,
-      "num": 100002,
-      "word": "美一卡车侧翻致2.5亿只蜜蜂飞出",
-      "onboard_time": 1748700563,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 96689,
       "num": 96689,
       "word": "张艺兴异瞳烟熏妆",
       "onboard_time": 1748697321,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93452,
+      "num": 93452,
+      "word": "董力二胎出生的时候全家都去迎接了",
+      "onboard_time": 1748696783,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -297,14 +345,6 @@
       "onboard_time": 1748702960,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 85684,
-      "num": 77251,
-      "word": "这才是早起刷牙的真正原因",
-      "onboard_time": 1748733857,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 84570,
@@ -361,22 +401,6 @@
       "onboard_time": 1748707580,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 76959,
-      "num": 76959,
-      "word": "董力二胎出生的时候全家都去迎接了",
-      "onboard_time": 1748696783,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 76187,
-      "num": 125163,
-      "word": "特朗普回应马克龙被妻子打脸",
-      "onboard_time": 1748733136,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 74841,
@@ -459,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60504,
+      "num": 56643,
+      "word": "解锁床上玩手机正确姿势",
+      "onboard_time": 1748724435,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 58953,
       "num": 54434,
       "word": "白举纲歌手暂别感言",
@@ -467,12 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56643,
-      "num": 56643,
-      "word": "解锁床上玩手机正确姿势",
-      "onboard_time": 1748724435,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 57018,
+      "num": 57018,
+      "word": "蒯铎之死背后的秘密",
+      "onboard_time": 1748692101,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 55155,
@@ -499,20 +531,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43803,
-      "num": 43803,
+      "raw_hot": 53062,
+      "num": 77451,
+      "word": "铁打的杨肸子流水的男主",
+      "onboard_time": 1748733196,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 51272,
+      "num": 51272,
+      "word": "刘宇宁戏里折腰戏外护腰",
+      "onboard_time": 1748733497,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51052,
+      "num": 51052,
+      "word": "白鹿新户口已存档",
+      "onboard_time": 1748733436,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50887,
+      "num": 50887,
+      "word": "王楚然丞磊配成这样成何体统",
+      "onboard_time": 1748733555,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 45498,
+      "num": 45498,
       "word": "央视端午晚会节目单",
       "onboard_time": 1748729115,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43763,
-      "num": 43763,
-      "word": "蒯铎之死背后的秘密",
-      "onboard_time": 1748692101,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 43393,
@@ -531,6 +587,14 @@
       "category": "民生新闻,运动健身"
     },
     {
+      "raw_hot": 41192,
+      "num": 41192,
+      "word": "老人私自圈占小区公共绿化2年",
+      "onboard_time": 1748727254,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40609,
       "num": 42225,
       "word": "TheShy真尽力了",
@@ -547,14 +611,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39243,
-      "num": 39243,
-      "word": "老人私自圈占小区公共绿化2年",
-      "onboard_time": 1748727254,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39235,
       "num": 40869,
       "word": "法网",
@@ -564,27 +620,11 @@
     },
     {
       "raw_hot": 36546,
-      "num": 36546,
+      "num": 40311,
       "word": "肖战张婧仪还原藏海传狐兔名场面",
       "onboard_time": 1748685860,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34739,
-      "num": 34739,
-      "word": "刘宇宁戏里折腰戏外护腰",
-      "onboard_time": 1748733497,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 33219,
-      "num": 33219,
-      "word": "王楚然丞磊配成这样成何体统",
-      "onboard_time": 1748733555,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 32035,
@@ -603,14 +643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30301,
-      "num": 30301,
-      "word": "白鹿新户口已存档",
-      "onboard_time": 1748733436,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28724,
       "num": 28724,
       "word": "25年居然还能听到刘宇宁唱天问",
@@ -625,14 +657,6 @@
       "onboard_time": 1748715136,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25193,
-      "num": 77451,
-      "word": "铁打的杨肸子流水的男主",
-      "onboard_time": 1748733196,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 25178,
