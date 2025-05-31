@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748710005082,
+  "endTime": 1748712090237,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137506,
+      "num": 125972,
+      "word": "孙恩盛 女装",
+      "onboard_time": 1748706621,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136275,
       "num": 123846,
       "word": "王星越说横店待腻了",
@@ -185,14 +193,6 @@
       "onboard_time": 1748706021,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 125972,
-      "num": 125972,
-      "word": "孙恩盛 女装",
-      "onboard_time": 1748706621,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 122392,
@@ -331,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74841,
+      "num": 74841,
+      "word": "未知的首尔",
+      "onboard_time": 1748707280,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73473,
       "num": 73473,
       "word": "余承东称华为将只做五个界",
@@ -353,14 +361,6 @@
       "onboard_time": 1748701463,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70397,
-      "num": 70397,
-      "word": "未知的首尔",
-      "onboard_time": 1748707280,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 66512,
@@ -411,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58953,
+      "num": 54434,
+      "word": "白举纲歌手暂别感言",
+      "onboard_time": 1748710758,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55147,
       "num": 55147,
       "word": "BLG淘汰赛零封iG",
@@ -443,12 +451,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43393,
+      "num": 43393,
+      "word": "BLG对战IG",
+      "onboard_time": 1748689640,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 43083,
+      "num": 43083,
+      "word": "被龙舟赛的最后冲刺燃到了",
+      "onboard_time": 1748711477,
+      "rank": 43,
+      "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 40609,
+      "num": 42225,
+      "word": "TheShy真尽力了",
+      "onboard_time": 1748701222,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 40457,
       "num": 305575,
       "word": "3个中国人在太空过端午",
       "onboard_time": 1748700023,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35986,
+      "num": 93191,
+      "word": "广东龙舟正成为中国文旅的新名片",
+      "onboard_time": 1748711597,
+      "rank": 13,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
