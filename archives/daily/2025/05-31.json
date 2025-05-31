@@ -1,7 +1,15 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748665826271,
+  "endTime": 1748666731234,
   "band_list": [
+    {
+      "raw_hot": 1903751,
+      "num": 473008,
+      "word": "马斯克被儿子打了",
+      "onboard_time": 1748665400,
+      "rank": 10,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 1579544,
       "num": 319599,
@@ -9,14 +17,6 @@
       "onboard_time": 1748650879,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1302002,
-      "num": 209338,
-      "word": "马斯克被儿子打了",
-      "onboard_time": 1748665400,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1177543,
@@ -139,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 458415,
+      "num": 458415,
+      "word": "洞洞鞋上岗",
+      "onboard_time": 1748665341,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 457241,
       "num": 239929,
       "word": "黄杨钿甜已拿到三家名校合格证",
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 424050,
+      "num": 424050,
+      "word": "工藤静香都来了木村拓哉还远吗",
+      "onboard_time": 1748662040,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416500,
       "num": 416500,
       "word": "莫离开机",
@@ -187,19 +203,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 393918,
-      "num": 393918,
-      "word": "工藤静香都来了木村拓哉还远吗",
-      "onboard_time": 1748662040,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386506,
       "num": 147781,
       "word": "耳帝评歌手第3期",
       "onboard_time": 1748618722,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 384928,
+      "num": 384928,
+      "word": "吴宣仪浪姐助阵嘉宾",
+      "onboard_time": 1748665581,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -243,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 316551,
+      "num": 316551,
+      "word": "端午红包",
+      "onboard_time": 1748665222,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 313965,
       "num": 130163,
       "word": "断眉上来就唱see you again",
@@ -273,6 +297,14 @@
       "onboard_time": 1748617104,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293943,
+      "num": 293943,
+      "word": "光与夜之恋",
+      "onboard_time": 1748665821,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 292764,
@@ -331,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258239,
+      "num": 258239,
+      "word": "十个勤天猪肉",
+      "onboard_time": 1748666181,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249059,
       "num": 249059,
       "word": "男子造成两尊铠甲武士俑损坏",
@@ -363,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244831,
-      "num": 427208,
-      "word": "洞洞鞋上岗",
-      "onboard_time": 1748665341,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 243539,
       "num": 243539,
       "word": "樱桃琥珀",
@@ -387,12 +419,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226589,
-      "num": 206692,
-      "word": "吴宣仪浪姐助阵嘉宾",
-      "onboard_time": 1748665581,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 227369,
+      "num": 213886,
+      "word": "又到了拿防晒衣当工服的季节了",
+      "onboard_time": 1748665701,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 223408,
+      "num": 223408,
+      "word": "两个小段再道歉",
+      "onboard_time": 1748663661,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217811,
@@ -412,19 +452,11 @@
     },
     {
       "raw_hot": 209977,
-      "num": 206601,
+      "num": 209017,
       "word": "生命树",
       "onboard_time": 1748662820,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209910,
-      "num": 209910,
-      "word": "端午红包",
-      "onboard_time": 1748665222,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 209790,
@@ -440,14 +472,6 @@
       "word": "熟粽子冷冻保存最好别超过15天",
       "onboard_time": 1748645957,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206843,
-      "num": 206843,
-      "word": "两个小段再道歉",
-      "onboard_time": 1748663661,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193868,
+      "num": 193868,
+      "word": "麦田音乐节",
+      "onboard_time": 1748665581,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193403,
       "num": 193403,
       "word": "刘浩存王安宇好嗑",
@@ -507,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192777,
-      "num": 192777,
-      "word": "又到了拿防晒衣当工服的季节了",
-      "onboard_time": 1748665701,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 191432,
+      "num": 191432,
+      "word": "虞书欣六月行程表",
+      "onboard_time": 1748666661,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 191316,
@@ -521,6 +553,14 @@
       "onboard_time": 1748660780,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190965,
+      "num": 190965,
+      "word": "五哈",
+      "onboard_time": 1748665701,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 190867,
@@ -595,20 +635,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170229,
-      "num": 170229,
-      "word": "麦田音乐节",
-      "onboard_time": 1748665581,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 168659,
       "num": 121890,
       "word": "歌手直播",
       "onboard_time": 1748606182,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168530,
+      "num": 168530,
+      "word": "双胞胎必须要一模一样的东西吗",
+      "onboard_time": 1748666062,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 167626,
@@ -625,6 +665,14 @@
       "onboard_time": 1748664740,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164343,
+      "num": 164343,
+      "word": "范世琦红包",
+      "onboard_time": 1748665941,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 162171,
@@ -651,8 +699,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153780,
-      "num": 153780,
+      "raw_hot": 155443,
+      "num": 155443,
       "word": "赵丽颖新剧完全是主人级别",
       "onboard_time": 1748663361,
       "rank": 35,
@@ -673,14 +721,6 @@
       "onboard_time": 1748613805,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 151019,
-      "num": 151019,
-      "word": "五哈",
-      "onboard_time": 1748665701,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 149878,
@@ -833,6 +873,14 @@
       "onboard_time": 1748650820,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120848,
+      "num": 120848,
+      "word": "我在人间很好看",
+      "onboard_time": 1748666661,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 119439,
@@ -1180,7 +1228,7 @@
     },
     {
       "raw_hot": 70731,
-      "num": 202633,
+      "num": 209577,
       "word": "划龙舟的风还是吹到北京来了",
       "onboard_time": 1748663000,
       "rank": 26,
@@ -1243,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59688,
+      "num": 214361,
+      "word": "为什么坐车晕车开车没事",
+      "onboard_time": 1748666241,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 57440,
       "num": 525379,
       "word": "原来龙舟是这样造出来的",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1748646917,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53085,
+      "num": 160126,
+      "word": "外国人又来挤端午了",
+      "onboard_time": 1748660721,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51439,
@@ -1492,7 +1556,7 @@
     },
     {
       "raw_hot": 25458,
-      "num": 142193,
+      "num": 155570,
       "word": "137项铁证证明韩文化挪用",
       "onboard_time": 1748665581,
       "rank": 38,
@@ -1507,8 +1571,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24541,
-      "num": 207056,
+      "raw_hot": 24599,
+      "num": 284956,
       "word": "每小时都在等微博给我发6180元",
       "onboard_time": 1748664080,
       "rank": 14,

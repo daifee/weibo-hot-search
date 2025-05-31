@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748665826271,
+  "endTime": 1748666731234,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -313,6 +313,14 @@
       "onboard_time": 1748415501,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1903751,
+      "num": 473008,
+      "word": "马斯克被儿子打了",
+      "onboard_time": 1748665400,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1897885,
@@ -785,14 +793,6 @@
       "onboard_time": 1748340981,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1302002,
-      "num": 209338,
-      "word": "马斯克被儿子打了",
-      "onboard_time": 1748665400,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1294456,
@@ -3723,6 +3723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458415,
+      "num": 458415,
+      "word": "洞洞鞋上岗",
+      "onboard_time": 1748665341,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 457539,
       "num": 457539,
       "word": "员工迟到48次被辞称每月有3次机会",
@@ -3993,6 +4001,14 @@
       "onboard_time": 1748480183,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 424050,
+      "num": 424050,
+      "word": "工藤静香都来了木村拓哉还远吗",
+      "onboard_time": 1748662040,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 423820,
@@ -4299,14 +4315,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 393918,
-      "num": 393918,
-      "word": "工藤静香都来了木村拓哉还远吗",
-      "onboard_time": 1748662040,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 392249,
       "num": 220969,
       "word": "王楚钦说夺冠才理解马龙樊振东不容易",
@@ -4393,6 +4401,14 @@
       "onboard_time": 1748476520,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 384928,
+      "num": 384928,
+      "word": "吴宣仪浪姐助阵嘉宾",
+      "onboard_time": 1748665581,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 384727,
@@ -5275,6 +5291,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 316551,
+      "num": 316551,
+      "word": "端午红包",
+      "onboard_time": 1748665222,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 315973,
       "num": 315973,
       "word": "应急管理部调派力量赶赴山东高密",
@@ -5649,6 +5673,14 @@
       "onboard_time": 1748506520,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293943,
+      "num": 293943,
+      "word": "光与夜之恋",
+      "onboard_time": 1748320282,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 293929,
@@ -6307,14 +6339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259095,
-      "num": 259095,
-      "word": "光与夜之恋",
-      "onboard_time": 1748320282,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 259028,
       "num": 329222,
       "word": "宁静误会朱丹",
@@ -6345,6 +6369,14 @@
       "onboard_time": 1748477124,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258239,
+      "num": 258239,
+      "word": "十个勤天猪肉",
+      "onboard_time": 1748666181,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 258130,
@@ -6785,14 +6817,6 @@
       "onboard_time": 1748653279,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244831,
-      "num": 427208,
-      "word": "洞洞鞋上岗",
-      "onboard_time": 1748665341,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 244236,
@@ -7259,6 +7283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 227369,
+      "num": 213886,
+      "word": "又到了拿防晒衣当工服的季节了",
+      "onboard_time": 1748665701,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227318,
       "num": 225227,
       "word": "王楚钦夺冠不能掩盖球拍受损恶劣",
@@ -7297,14 +7329,6 @@
       "onboard_time": 1748179709,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226589,
-      "num": 206692,
-      "word": "吴宣仪浪姐助阵嘉宾",
-      "onboard_time": 1748665581,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 226303,
@@ -7369,6 +7393,14 @@
       "onboard_time": 1748493022,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223408,
+      "num": 223408,
+      "word": "两个小段再道歉",
+      "onboard_time": 1748663661,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222602,
@@ -7908,19 +7940,11 @@
     },
     {
       "raw_hot": 209977,
-      "num": 206601,
+      "num": 209017,
       "word": "生命树",
       "onboard_time": 1748148381,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209910,
-      "num": 209910,
-      "word": "端午红包",
-      "onboard_time": 1748665222,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 209810,
@@ -8057,14 +8081,6 @@
       "onboard_time": 1748179951,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206843,
-      "num": 206843,
-      "word": "两个小段再道歉",
-      "onboard_time": 1748663661,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206716,
@@ -9067,6 +9083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193868,
+      "num": 193868,
+      "word": "麦田音乐节",
+      "onboard_time": 1748665581,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193445,
       "num": 193445,
       "word": "郑钦文罗兰加洛斯8连胜",
@@ -9153,14 +9177,6 @@
       "onboard_time": 1748177183,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 192777,
-      "num": 192777,
-      "word": "又到了拿防晒衣当工服的季节了",
-      "onboard_time": 1748665701,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 192650,
@@ -9331,6 +9347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191432,
+      "num": 191432,
+      "word": "虞书欣六月行程表",
+      "onboard_time": 1748666661,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191316,
       "num": 191316,
       "word": "武汉妈妈回应暴雨后陪孩子后备箱过夜",
@@ -9369,6 +9393,14 @@
       "onboard_time": 1748430801,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190965,
+      "num": 190965,
+      "word": "五哈",
+      "onboard_time": 1748665701,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 190882,
@@ -11251,14 +11283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170229,
-      "num": 170229,
-      "word": "麦田音乐节",
-      "onboard_time": 1748665581,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 170176,
       "num": 170176,
       "word": "爱自己是一生必修的功课",
@@ -11409,6 +11433,14 @@
       "onboard_time": 1748230101,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168530,
+      "num": 168530,
+      "word": "双胞胎必须要一模一样的东西吗",
+      "onboard_time": 1748666062,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 168393,
@@ -11833,6 +11865,14 @@
       "onboard_time": 1748440403,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 164343,
+      "num": 164343,
+      "word": "范世琦红包",
+      "onboard_time": 1748665941,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 164291,
@@ -12643,6 +12683,14 @@
       "category": "演出,音乐"
     },
     {
+      "raw_hot": 155443,
+      "num": 155443,
+      "word": "赵丽颖新剧完全是主人级别",
+      "onboard_time": 1748663361,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155337,
       "num": 155337,
       "word": "16岁的孙颖莎目标是非常优秀",
@@ -12809,14 +12857,6 @@
       "onboard_time": 1748353582,
       "rank": 48,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 153780,
-      "num": 153780,
-      "word": "赵丽颖新剧完全是主人级别",
-      "onboard_time": 1748663361,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 153669,
@@ -13057,14 +13097,6 @@
       "onboard_time": 1748427800,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151019,
-      "num": 151019,
-      "word": "五哈",
-      "onboard_time": 1748665701,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 150999,
@@ -16033,6 +16065,14 @@
       "onboard_time": 1748531481,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 120848,
+      "num": 120848,
+      "word": "我在人间很好看",
+      "onboard_time": 1748666661,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120807,
@@ -19492,7 +19532,7 @@
     },
     {
       "raw_hot": 70731,
-      "num": 202633,
+      "num": 209577,
       "word": "划龙舟的风还是吹到北京来了",
       "onboard_time": 1748663000,
       "rank": 26,
@@ -20259,6 +20299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 59688,
+      "num": 214361,
+      "word": "为什么坐车晕车开车没事",
+      "onboard_time": 1748666241,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 59584,
       "num": 221160,
       "word": "武汉城运再回应网红桥被指圈地收费",
@@ -20825,6 +20873,14 @@
       "onboard_time": 1748272763,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53085,
+      "num": 160126,
+      "word": "外国人又来挤端午了",
+      "onboard_time": 1748660721,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53035,
@@ -23380,7 +23436,7 @@
     },
     {
       "raw_hot": 25458,
-      "num": 142193,
+      "num": 155570,
       "word": "137项铁证证明韩文化挪用",
       "onboard_time": 1748665581,
       "rank": 38,
@@ -23467,8 +23523,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 24541,
-      "num": 207056,
+      "raw_hot": 24599,
+      "num": 284956,
       "word": "每小时都在等微博给我发6180元",
       "onboard_time": 1748664080,
       "rank": 14,
