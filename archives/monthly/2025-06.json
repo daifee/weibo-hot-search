@@ -1,10 +1,10 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748708979379,
+  "endTime": 1748710005082,
   "band_list": [
     {
-      "raw_hot": 1193584,
-      "num": 1193584,
+      "raw_hot": 1552081,
+      "num": 1552081,
       "word": "谭松韵疑似ABB式名字大户",
       "onboard_time": 1748707819,
       "rank": 0,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401939,
+      "num": 173074,
+      "word": "刘浩存吻戏",
+      "onboard_time": 1748692222,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 394117,
       "num": 175223,
       "word": "李昀锐关晓彤海边拥抱",
       "onboard_time": 1748698102,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 388546,
-      "num": 173074,
-      "word": "刘浩存吻戏",
-      "onboard_time": 1748692222,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 380417,
@@ -91,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231801,
-      "num": 231801,
+      "raw_hot": 252216,
+      "num": 252216,
       "word": "在哈佛演讲的25岁中国女生发声",
       "onboard_time": 1748697022,
       "rank": 8,
@@ -123,20 +123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198864,
+      "num": 130465,
+      "word": "梨形身材是基因彩票",
+      "onboard_time": 1748706320,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 194005,
       "num": 163724,
       "word": "8旬老人砍掉小区20年香樟树",
       "onboard_time": 1748691861,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179263,
-      "num": 130465,
-      "word": "梨形身材是基因彩票",
-      "onboard_time": 1748706320,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 176257,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 163066,
-      "num": 126118,
+      "num": 133551,
       "word": "李健演唱会遇大雨",
       "onboard_time": 1748705541,
       "rank": 22,
@@ -187,8 +187,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 123187,
-      "num": 123187,
+      "raw_hot": 125972,
+      "num": 125972,
       "word": "孙恩盛 女装",
       "onboard_time": 1748706621,
       "rank": 24,
@@ -225,6 +225,14 @@
       "onboard_time": 1748697321,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91842,
+      "num": 91842,
+      "word": "杨肸子从端午播到儿童节",
+      "onboard_time": 1748709499,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 90094,
@@ -347,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70397,
+      "num": 70397,
+      "word": "未知的首尔",
+      "onboard_time": 1748707280,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66512,
       "num": 66512,
       "word": "许嵩说把手伸五指合影叫端午",
@@ -395,6 +411,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55147,
+      "num": 55147,
+      "word": "BLG淘汰赛零封iG",
+      "onboard_time": 1748707101,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 54708,
+      "num": 54708,
+      "word": "患神经病邻居持刀上门打砸",
+      "onboard_time": 1748692342,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54509,
+      "num": 53143,
+      "word": "常州恐龙0比1扬州炒饭",
+      "onboard_time": 1748707160,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52987,
+      "num": 52987,
+      "word": "欧冠决赛",
+      "onboard_time": 1748695641,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40457,
       "num": 305575,
       "word": "3个中国人在太空过端午",
@@ -406,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#习近平给小朋友们的礼物#"
+    },
+    {
+      "word": "#习近平期许孩子们茁壮成长#"
     }
   ]
 }

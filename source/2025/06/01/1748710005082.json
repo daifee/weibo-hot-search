@@ -1,0 +1,410 @@
+{
+  "runTime": 1748710005082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1552081,
+        "num": 1552081,
+        "word": "谭松韵疑似ABB式名字大户",
+        "onboard_time": 1748707819,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355108,
+        "num": 355108,
+        "word": "彩票店女老板整天吸二手烟血管堵90%",
+        "onboard_time": 1748702542,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33959,
+        "num": 278470,
+        "word": "3个中国人在太空过端午",
+        "onboard_time": 1748700023,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 493913,
+        "num": 269203,
+        "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
+        "onboard_time": 1748695762,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252216,
+        "num": 252216,
+        "word": "在哈佛演讲的25岁中国女生发声",
+        "onboard_time": 1748697022,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 246093,
+        "num": 246093,
+        "word": "瓶邪",
+        "onboard_time": 1748703922,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 283929,
+        "num": 243831,
+        "word": "王星越回应演现代戏",
+        "onboard_time": 1748707040,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238097,
+        "num": 238097,
+        "word": "陈小春演唱会上座率",
+        "onboard_time": 1748698282,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171436,
+        "num": 171436,
+        "word": "火车上手机被错拿不肯下车索赔2000",
+        "onboard_time": 1748703140,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146016,
+        "num": 146016,
+        "word": "各国为抢哈佛生源真的是拼了",
+        "onboard_time": 1748693601,
+        "rank": 9,
+        "category": "海外新闻,教育"
+      },
+      {
+        "raw_hot": 401939,
+        "num": 145402,
+        "word": "刘浩存吻戏",
+        "onboard_time": 1748692222,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328186,
+        "num": 142724,
+        "word": "女装这种设计的意义在于没有意义",
+        "onboard_time": 1748696661,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 309880,
+        "num": 142540,
+        "word": "李昀锐关晓彤海边拥抱",
+        "onboard_time": 1748698102,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226893,
+        "num": 139491,
+        "word": "藏海传 男频",
+        "onboard_time": 1748694741,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192738,
+        "num": 138101,
+        "word": "陷入我们的热恋吻戏 借位",
+        "onboard_time": 1748689221,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166688,
+        "num": 136434,
+        "word": "剑来",
+        "onboard_time": 1748703622,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165285,
+        "num": 134965,
+        "word": "刘宇宁气场太强了",
+        "onboard_time": 1748699842,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147080,
+        "num": 133551,
+        "word": "李健演唱会遇大雨",
+        "onboard_time": 1748705541,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132664,
+        "num": 132664,
+        "word": "8旬老人砍掉小区20年香樟树",
+        "onboard_time": 1748691861,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125990,
+        "num": 125990,
+        "word": "河南一水库水位下降现千佛石窟",
+        "onboard_time": 1748698703,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198864,
+        "num": 125984,
+        "word": "梨形身材是基因彩票",
+        "onboard_time": 1748706320,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140107,
+        "num": 125984,
+        "word": "藏海传吻戏",
+        "onboard_time": 1748688501,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125972,
+        "num": 125972,
+        "word": "孙恩盛 女装",
+        "onboard_time": 1748706621,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123970,
+        "num": 123970,
+        "word": "美副总统说美国人靠自己就能干大事",
+        "onboard_time": 1748706021,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107946,
+        "num": 107946,
+        "word": "歌手给白举纲写的离别文",
+        "onboard_time": 1748705002,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105851,
+        "num": 105851,
+        "word": "王星越说横店待腻了",
+        "onboard_time": 1748706260,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91842,
+        "num": 91842,
+        "word": "杨肸子从端午播到儿童节",
+        "onboard_time": 1748709499,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86443,
+        "num": 86443,
+        "word": "长期喝水与喝茶的区别",
+        "onboard_time": 1748702302,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85027,
+        "num": 85027,
+        "word": "张艺兴异瞳烟熏妆",
+        "onboard_time": 1748697321,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67074,
+        "num": 82002,
+        "word": "女子长期被迫吸二手烟痛苦地猛洗澡",
+        "onboard_time": 1748687480,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79287,
+        "num": 79287,
+        "word": "苏有朋古巨基两代五阿哥合体",
+        "onboard_time": 1748703981,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78461,
+        "num": 78461,
+        "word": "女生吃榴莲的5大好处",
+        "onboard_time": 1748693840,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70397,
+        "num": 70397,
+        "word": "未知的首尔",
+        "onboard_time": 1748707280,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67656,
+        "num": 67656,
+        "word": "歌手",
+        "onboard_time": 1748702960,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65257,
+        "num": 65257,
+        "word": "美一卡车侧翻致2.5亿只蜜蜂飞出",
+        "onboard_time": 1748700563,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64268,
+        "num": 64268,
+        "word": "佟丽娅去了凤凰传奇演唱会",
+        "onboard_time": 1748708661,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64213,
+        "num": 64213,
+        "word": "小沈阳演唱会",
+        "onboard_time": 1748704582,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63858,
+        "num": 63858,
+        "word": "白鹿曾舜晞唱出端午仪式感",
+        "onboard_time": 1748700441,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62939,
+        "num": 62939,
+        "word": "檀健次莫文蔚合唱等不到的等待",
+        "onboard_time": 1748701827,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62156,
+        "num": 62156,
+        "word": "杨博文cover思念",
+        "onboard_time": 1748707401,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61439,
+        "num": 61439,
+        "word": "余承东称华为将只做五个界",
+        "onboard_time": 1748699241,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60740,
+        "num": 60740,
+        "word": "全员加速中",
+        "onboard_time": 1748701463,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59133,
+        "num": 59133,
+        "word": "九门",
+        "onboard_time": 1748681423,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55301,
+        "num": 55301,
+        "word": "刘宇王栎鑫梁洁王楚然合唱赠你",
+        "onboard_time": 1748701463,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55147,
+        "num": 55147,
+        "word": "BLG淘汰赛零封iG",
+        "onboard_time": 1748707101,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55068,
+        "num": 55068,
+        "word": "30岁了还想过儿童节怎么办",
+        "onboard_time": 1748707580,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54708,
+        "num": 54708,
+        "word": "患神经病邻居持刀上门打砸",
+        "onboard_time": 1748692342,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53199,
+        "num": 53199,
+        "word": "女老师说不要当一个扫兴的班主任",
+        "onboard_time": 1748688080,
+        "rank": 47,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 54509,
+        "num": 53143,
+        "word": "常州恐龙0比1扬州炒饭",
+        "onboard_time": 1748707160,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52987,
+        "num": 52987,
+        "word": "欧冠决赛",
+        "onboard_time": 1748695641,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平期许孩子们茁壮成长#"
+    }
+  }
+}
