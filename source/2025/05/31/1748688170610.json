@@ -1,0 +1,410 @@
+{
+  "runTime": 1748688170610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 918111,
+        "num": 1146897,
+        "word": "九门阵容官宣",
+        "onboard_time": 1748674880,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332807,
+        "num": 332807,
+        "word": "司机遇上查酒驾当场喝下1瓶白酒",
+        "onboard_time": 1748686040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52621,
+        "num": 320474,
+        "word": "端午假期三大亮点",
+        "onboard_time": 1748680641,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 626770,
+        "num": 315427,
+        "word": "多位配音演员发文告别光合积木",
+        "onboard_time": 1748682080,
+        "rank": 3,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 500384,
+        "num": 315303,
+        "word": "肖战张婧仪还原藏海传狐兔名场面",
+        "onboard_time": 1748685860,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309711,
+        "num": 309711,
+        "word": "端午红包",
+        "onboard_time": 1748665222,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 295222,
+        "num": 295222,
+        "word": "市民称在周大福买到假黄金项链",
+        "onboard_time": 1748685920,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276213,
+        "num": 276213,
+        "word": "日本北海道近海发生6.1级地震",
+        "onboard_time": 1748683940,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234159,
+        "num": 234159,
+        "word": "岳云鹏把德云社搬到长安的荔枝了",
+        "onboard_time": 1748687061,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232496,
+        "num": 232496,
+        "word": "美国暂停出口C919发动机",
+        "onboard_time": 1748672780,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 614865,
+        "num": 230790,
+        "word": "李昀锐关晓彤捂眼路透",
+        "onboard_time": 1748686821,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43167,
+        "num": 229101,
+        "word": "张婧仪红包",
+        "onboard_time": 1748684299,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41270,
+        "num": 228235,
+        "word": "男子跳入的兵马俑3号坑可正常参观",
+        "onboard_time": 1748687121,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228088,
+        "num": 228088,
+        "word": "演出服遭退单商家最大一笔亏近8000元",
+        "onboard_time": 1748686580,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21328,
+        "num": 228082,
+        "word": "端午来海南给你过节氛围感",
+        "onboard_time": 1748686940,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228750,
+        "num": 227757,
+        "word": "河北武邑化工厂爆炸致5死2伤",
+        "onboard_time": 1748685681,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 556341,
+        "num": 227466,
+        "word": "全款3万买了40多年的老破小",
+        "onboard_time": 1748684060,
+        "rank": 16,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 444794,
+        "num": 227370,
+        "word": "姜广涛发文",
+        "onboard_time": 1748675781,
+        "rank": 17,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 424836,
+        "num": 227083,
+        "word": "吴彦祖疯狂接代言被猜缺钱",
+        "onboard_time": 1748676920,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35401,
+        "num": 226904,
+        "word": "含有脂肪的蔬菜有哪些",
+        "onboard_time": 1748687840,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 387842,
+        "num": 226670,
+        "word": "150w现金和月薪4000的工作",
+        "onboard_time": 1748677220,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226501,
+        "num": 226501,
+        "word": "16岁陈妤颉女子200米亚洲第一",
+        "onboard_time": 1748688020,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192039,
+        "num": 192039,
+        "word": "九门",
+        "onboard_time": 1748681423,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175428,
+        "num": 175428,
+        "word": "Grace晒和团队聊天记录",
+        "onboard_time": 1748686160,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74888,
+        "num": 167769,
+        "word": "伞兵亲手包的粽子很别致",
+        "onboard_time": 1748687061,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167200,
+        "num": 167200,
+        "word": "曾舜晞演吴老狗超级加辈",
+        "onboard_time": 1748685622,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108465,
+        "num": 167075,
+        "word": "陈丽君黄子弘凡等亮相央视端午晚会",
+        "onboard_time": 1748676799,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64109,
+        "num": 166933,
+        "word": "余承东称尊界订单70%百万顶配",
+        "onboard_time": 1748685860,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 6423,
+        "num": 166779,
+        "word": "老人背苹果十里山路致谢民警",
+        "onboard_time": 1748687480,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43797,
+        "num": 166709,
+        "word": "怎么突然开始流行七分裤",
+        "onboard_time": 1748687480,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 374735,
+        "num": 166458,
+        "word": "迪丽热巴端午晒蛋糕",
+        "onboard_time": 1748686461,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136281,
+        "num": 166292,
+        "word": "wvscon",
+        "onboard_time": 1748686399,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107897,
+        "num": 166217,
+        "word": "女老师说不要当一个扫兴的班主任",
+        "onboard_time": 1748688080,
+        "rank": 32,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 249894,
+        "num": 166061,
+        "word": "内娱杂志销量",
+        "onboard_time": 1748677580,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230399,
+        "num": 165932,
+        "word": "刘诗诗",
+        "onboard_time": 1748687660,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 208416,
+        "num": 165706,
+        "word": "蒋勤勤大波浪",
+        "onboard_time": 1748683760,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168576,
+        "num": 165503,
+        "word": "折腰有效播放量破8亿",
+        "onboard_time": 1748688140,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39868,
+        "num": 165360,
+        "word": "被子上的阳光味到底是什么",
+        "onboard_time": 1748686100,
+        "rank": 37,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 165339,
+        "num": 165339,
+        "word": "女子长期被迫吸二手烟痛苦地猛洗澡",
+        "onboard_time": 1748687480,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146176,
+        "num": 146176,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133354,
+        "num": 133354,
+        "word": "国内多地网友目击夜空现不明飞行物",
+        "onboard_time": 1748679439,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131226,
+        "num": 131226,
+        "word": "灯花笑",
+        "onboard_time": 1748687721,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 128244,
+        "num": 128244,
+        "word": "南航通报客机起飞15分钟紧急降落",
+        "onboard_time": 1748676622,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125874,
+        "num": 125874,
+        "word": "困在办公室二手烟中的职场人",
+        "onboard_time": 1748684240,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123920,
+        "num": 123920,
+        "word": "为什么越长大牙齿越黄",
+        "onboard_time": 1748683039,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110868,
+        "num": 121074,
+        "word": "王蓉浪姐淘汰了又好像没离开",
+        "onboard_time": 1748682859,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120598,
+        "num": 120598,
+        "word": "长安的荔枝",
+        "onboard_time": 1748688140,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119163,
+        "num": 119163,
+        "word": "田曦薇簪花礼裙",
+        "onboard_time": 1748676500,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117932,
+        "num": 117932,
+        "word": "冬夏女王喜欢蒯铎",
+        "onboard_time": 1748684661,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107120,
+        "num": 107120,
+        "word": "苏超联赛常州恐龙蛋大战扬州炒饭",
+        "onboard_time": 1748684781,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中华文化展现出永久魅力和时代风采#"
+    }
+  }
+}
