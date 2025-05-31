@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748674025928,
+  "endTime": 1748676186574,
   "band_list": [
     {
       "raw_hot": 1903751,
@@ -43,20 +43,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 879642,
+      "num": 1140742,
+      "word": "端午红包",
+      "onboard_time": 1748665222,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 849500,
       "num": 247404,
       "word": "歌手排名",
       "onboard_time": 1748614467,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 778478,
-      "num": 1124556,
-      "word": "端午红包",
-      "onboard_time": 1748665222,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 733980,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 699216,
-      "num": 484843,
+      "num": 515952,
       "word": "双胞胎必须要一模一样的东西吗",
       "onboard_time": 1748666062,
       "rank": 30,
@@ -97,6 +97,14 @@
       "onboard_time": 1748665341,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 662848,
+      "num": 558978,
+      "word": "演员方刚去世",
+      "onboard_time": 1748675118,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 660785,
@@ -155,12 +163,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600741,
+      "num": 600741,
+      "word": "美国暂停出口C919发动机",
+      "onboard_time": 1748672780,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 550759,
+      "num": 550759,
+      "word": "宜宾地震",
+      "onboard_time": 1748674220,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 539716,
       "num": 539716,
       "word": "中方回应日方请求水产品入华",
       "onboard_time": 1748618662,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 522382,
+      "num": 522382,
+      "word": "单依纯回应被说像王菲",
+      "onboard_time": 1748670980,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 521978,
@@ -235,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419393,
+      "num": 419393,
+      "word": "鞠婧祎五大杂志",
+      "onboard_time": 1748661743,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416500,
       "num": 416500,
       "word": "莫离开机",
@@ -249,22 +289,6 @@
       "onboard_time": 1748620522,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 408898,
-      "num": 408898,
-      "word": "单依纯回应被说像王菲",
-      "onboard_time": 1748670980,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 403148,
-      "num": 403148,
-      "word": "鞠婧祎五大杂志",
-      "onboard_time": 1748661743,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 399446,
@@ -315,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342674,
+      "num": 342674,
+      "word": "用了这么久的智能马桶才发现用错了",
+      "onboard_time": 1748674280,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 340768,
       "num": 340768,
       "word": "蜜丝婷 王楚钦",
@@ -331,14 +363,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 337685,
-      "num": 397396,
-      "word": "美国暂停出口C919发动机",
-      "onboard_time": 1748672780,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 336728,
       "num": 294523,
       "word": "光合积木",
@@ -353,6 +377,14 @@
       "onboard_time": 1748615666,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326325,
+      "num": 326325,
+      "word": "姚琛的红包",
+      "onboard_time": 1748675240,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 323514,
@@ -427,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285714,
+      "num": 285714,
+      "word": "吴宇恒红包",
+      "onboard_time": 1748675180,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283337,
       "num": 283337,
       "word": "冬夏女王认出藏海",
@@ -441,6 +481,14 @@
       "onboard_time": 1748655200,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279165,
+      "num": 387945,
+      "word": "樊振东慕尼黑看欧冠",
+      "onboard_time": 1748675540,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 277286,
@@ -475,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257537,
+      "num": 246196,
+      "word": "九门阵容官宣",
+      "onboard_time": 1748674880,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249059,
       "num": 249059,
       "word": "男子造成两尊铠甲武士俑损坏",
@@ -497,6 +553,14 @@
       "onboard_time": 1748617224,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246350,
+      "num": 246350,
+      "word": "鞠婧祎五大杂志销量",
+      "onboard_time": 1748674340,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 244878,
@@ -561,6 +625,14 @@
       "onboard_time": 1748665222,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217959,
+      "num": 219502,
+      "word": "高压锅煮粽子致爆炸女子发声",
+      "onboard_time": 1748671281,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217811,
@@ -651,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202647,
-      "num": 219502,
-      "word": "高压锅煮粽子致爆炸女子发声",
-      "onboard_time": 1748671281,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199954,
       "num": 199954,
       "word": "谈恋爱没劲不谈恋爱接吻特有劲",
@@ -689,6 +753,14 @@
       "onboard_time": 1748663541,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193326,
+      "num": 193326,
+      "word": "姜广涛发文",
+      "onboard_time": 1748675781,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 191432,
@@ -739,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184272,
+      "num": 184272,
+      "word": "TES对战FPX",
+      "onboard_time": 1748674940,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183825,
       "num": 183825,
       "word": "LPL最佳新秀Erha",
@@ -753,6 +833,14 @@
       "onboard_time": 1748653939,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178158,
+      "num": 178158,
+      "word": "陈伟霆曾舜晞领衔主演",
+      "onboard_time": 1748675660,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 176388,
@@ -875,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160059,
+      "num": 349667,
+      "word": "学者称秦兵马俑三号坑是指挥部",
+      "onboard_time": 1748673020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158898,
       "num": 158898,
       "word": "陷入我们的热恋",
@@ -897,6 +993,14 @@
       "onboard_time": 1748663361,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154101,
+      "num": 154101,
+      "word": "米奇真是喜欢白举纲吧",
+      "onboard_time": 1748675841,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 152962,
@@ -977,6 +1081,14 @@
       "onboard_time": 1748663121,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143807,
+      "num": 143807,
+      "word": "穿最粉的裙子打最狠的架",
+      "onboard_time": 1748675899,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 142266,
@@ -1067,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129335,
+      "num": 129335,
+      "word": "藏海左眼流泪",
+      "onboard_time": 1748674220,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128522,
       "num": 128522,
       "word": "丞磊莫离开机照",
@@ -1115,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125122,
+      "num": 161054,
+      "word": "文化中国行看端午龙舟赛",
+      "onboard_time": 1748674340,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125073,
       "num": 125073,
       "word": "王楚钦谈奥运会32强输掉了外战",
@@ -1137,6 +1265,14 @@
       "onboard_time": 1748668221,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123132,
+      "num": 123132,
+      "word": "胡良伟 光合",
+      "onboard_time": 1748675000,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 122218,
@@ -1243,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114931,
+      "num": 113120,
+      "word": "丁程鑫谢谢好六团",
+      "onboard_time": 1748674159,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112807,
       "num": 112807,
       "word": "端午图片",
@@ -1259,12 +1403,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112629,
+      "num": 112629,
+      "word": "马嘉祺选一了百了的原因",
+      "onboard_time": 1748674100,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110959,
       "num": 110959,
       "word": "婚礼睡过头是种什么体验",
       "onboard_time": 1748606121,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110407,
+      "num": 113556,
+      "word": "仙逆裸眼冲屏效果拉满",
+      "onboard_time": 1748676080,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 110290,
@@ -1491,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87010,
+      "num": 246402,
+      "word": "马斯克谈伤势嘲讽马克龙被妻子推脸",
+      "onboard_time": 1748675301,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85845,
       "num": 301632,
       "word": "15万纯电精灵1号超值升级",
@@ -1595,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64673,
+      "num": 234743,
+      "word": "运动员版高考加油海报太燃了",
+      "onboard_time": 1748672900,
+      "rank": 23,
+      "category": "体育,教育"
+    },
+    {
       "raw_hot": 64443,
       "num": 64443,
       "word": "香暗荼想替母亲给藏海抵命",
@@ -1675,19 +1851,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 55082,
-      "num": 349667,
-      "word": "学者称秦兵马俑三号坑是指挥部",
-      "onboard_time": 1748673020,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53085,
       "num": 160126,
       "word": "外国人又来挤端午了",
       "onboard_time": 1748660721,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51603,
+      "num": 205080,
+      "word": "屈臣氏一门店多收4元赔偿500元",
+      "onboard_time": 1748675420,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1907,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29164,
+      "num": 247331,
+      "word": "长期穿洞洞鞋会更容易得脚气吗",
+      "onboard_time": 1748675240,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 27681,
       "num": 33194,
       "word": "陈楚生轻描淡写松弛感",
@@ -1929,6 +2113,14 @@
       "onboard_time": 1748660121,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26701,
+      "num": 319545,
+      "word": "端午咱们这样过",
+      "onboard_time": 1748674880,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25585,
@@ -2044,7 +2236,7 @@
     },
     {
       "raw_hot": 13789,
-      "num": 555630,
+      "num": 565110,
       "word": "网络中国节",
       "onboard_time": 1748596340,
       "rank": 2,
