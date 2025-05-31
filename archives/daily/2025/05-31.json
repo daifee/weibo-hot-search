@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748677070781,
+  "endTime": 1748680258694,
   "band_list": [
     {
       "raw_hot": 1903751,
@@ -17,6 +17,14 @@
       "onboard_time": 1748650879,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1187725,
+      "num": 1190036,
+      "word": "九门阵容官宣",
+      "onboard_time": 1748674880,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 1177543,
@@ -65,6 +73,14 @@
       "onboard_time": 1748662223,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 722522,
+      "num": 324797,
+      "word": "姜广涛发文",
+      "onboard_time": 1748675781,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 704234,
@@ -171,12 +187,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 571637,
-      "num": 571637,
-      "word": "九门阵容官宣",
-      "onboard_time": 1748674880,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 600062,
+      "num": 273547,
+      "word": "吴彦祖疯狂接代言被猜缺钱",
+      "onboard_time": 1748676920,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 579084,
+      "num": 258170,
+      "word": "内娱杂志销量",
+      "onboard_time": 1748677580,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 550759,
@@ -235,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444300,
+      "num": 444300,
+      "word": "南航通报客机起飞15分钟紧急降落",
+      "onboard_time": 1748676622,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443423,
       "num": 443423,
       "word": "律师给在押人员递烤鸡榴莲被罚",
@@ -265,6 +297,14 @@
       "onboard_time": 1748668399,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425367,
+      "num": 425367,
+      "word": "田曦薇簪花礼裙",
+      "onboard_time": 1748676500,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 424050,
@@ -339,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366308,
+      "num": 366308,
+      "word": "樊振东端午节发文",
+      "onboard_time": 1748676980,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352950,
       "num": 318853,
       "word": "月升沧海",
@@ -400,14 +448,6 @@
       "word": "姚琛的红包",
       "onboard_time": 1748675240,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 324797,
-      "num": 324797,
-      "word": "姜广涛发文",
-      "onboard_time": 1748675781,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -515,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274963,
+      "num": 195971,
+      "word": "150w现金和月薪4000的工作",
+      "onboard_time": 1748677220,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 274869,
       "num": 247306,
       "word": "上海一公交站椅子离地仅手机高",
@@ -571,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245358,
-      "num": 245358,
-      "word": "田曦薇簪花礼裙",
-      "onboard_time": 1748676500,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 244878,
       "num": 236897,
       "word": "谭松韵35岁生日照",
@@ -600,6 +640,14 @@
       "word": "首部双00后古偶要抬上来了",
       "onboard_time": 1748616444,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236553,
+      "num": 236553,
+      "word": "肖战演藏海在台湾刷屏",
+      "onboard_time": 1748678901,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -835,14 +883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186740,
-      "num": 186740,
-      "word": "吴彦祖疯狂接代言被猜缺钱",
-      "onboard_time": 1748676920,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184272,
       "num": 184272,
       "word": "TES对战FPX",
@@ -1027,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156559,
+      "num": 156559,
+      "word": "刘耀文说就吃这几年青春饭",
+      "onboard_time": 1748680160,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155443,
       "num": 155443,
       "word": "赵丽颖新剧完全是主人级别",
@@ -1041,14 +1089,6 @@
       "onboard_time": 1748660962,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 152073,
-      "num": 152073,
-      "word": "樊振东端午节发文",
-      "onboard_time": 1748676980,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 151466,
@@ -1099,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148101,
-      "num": 148101,
-      "word": "南航通报客机起飞15分钟紧急降落",
-      "onboard_time": 1748676622,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146726,
       "num": 146726,
       "word": "曹公公敲鼓接着奏乐接着舞",
@@ -1139,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145659,
+      "num": 145659,
+      "word": "60年前修铁路意外发现考古盲盒",
+      "onboard_time": 1748679260,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142266,
       "num": 142266,
       "word": "王楚钦回应球拍2次受损",
@@ -1160,6 +1200,14 @@
       "word": "藏海传27集封神",
       "onboard_time": 1748612427,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139625,
+      "num": 216127,
+      "word": "陈瑶九门旗袍造型",
+      "onboard_time": 1748677641,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -1227,11 +1275,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132537,
+      "num": 132537,
+      "word": "蒋一侨牵完侯佩岑牵倪虹洁",
+      "onboard_time": 1748679922,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130937,
       "num": 130937,
       "word": "白举纲鼓励马嘉祺",
       "onboard_time": 1748661260,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130106,
+      "num": 130106,
+      "word": "爆改的风吹到了陈德容",
+      "onboard_time": 1748679922,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1305,6 +1369,14 @@
       "onboard_time": 1748654600,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125322,
+      "num": 125322,
+      "word": "白鹿央视端午晚会妆造",
+      "onboard_time": 1748678359,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 125122,
@@ -1395,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118668,
+      "num": 118668,
+      "word": "肖战一个人演了一套打工人表情",
+      "onboard_time": 1748679500,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118268,
       "num": 118268,
       "word": "教授家里堆满小麦脖子被晒到脱皮",
@@ -1456,6 +1536,22 @@
       "word": "丁程鑫谢谢好六团",
       "onboard_time": 1748674159,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114121,
+      "num": 114121,
+      "word": "多地出现不明飞行物目击者发声",
+      "onboard_time": 1748679021,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113686,
+      "num": 113686,
+      "word": "杨肸子把李诚儒倪萍都演感动了",
+      "onboard_time": 1748677400,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1547,6 +1643,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104926,
+      "num": 104926,
+      "word": "苏超",
+      "onboard_time": 1748680102,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 103991,
+      "num": 103991,
+      "word": "姜广涛回应配音30年",
+      "onboard_time": 1748679500,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102656,
       "num": 191476,
       "word": "王楚钦回应巴黎奥运兼三项",
@@ -1579,12 +1691,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 102059,
+      "num": 102059,
+      "word": "甲亢哥见到老朋友飚起重庆方言",
+      "onboard_time": 1748678120,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99345,
       "num": 121567,
       "word": "梁伟铿王昶0比2金元浩徐承宰",
       "onboard_time": 1748657661,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98237,
+      "num": 98237,
+      "word": "王者荣耀铠动画剧集",
+      "onboard_time": 1748678841,
+      "rank": 49,
+      "category": "游戏,游戏"
     },
     {
       "raw_hot": 98129,
@@ -1739,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81384,
+      "num": 204180,
+      "word": "618前最后一波玄学",
+      "onboard_time": 1748678841,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 80641,
       "num": 206372,
       "word": "糯米到底是养胃还是伤胃",
@@ -1867,6 +2003,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 61482,
+      "num": 148896,
+      "word": "男子骚扰服务员未果后打人",
+      "onboard_time": 1748678060,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61345,
       "num": 203243,
       "word": "爵士试训杨瀚森",
@@ -1937,6 +2081,14 @@
       "onboard_time": 1748660721,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52208,
+      "num": 114812,
+      "word": "端午的仪式感拉满",
+      "onboard_time": 1748678660,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51603,
@@ -2043,6 +2195,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 42190,
+      "num": 148897,
+      "word": "男性抑郁症患者为何更难被理解",
+      "onboard_time": 1748679200,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 42130,
       "num": 102664,
       "word": "今天星期五",
@@ -2056,6 +2216,14 @@
       "word": "双节消费市场buff叠满",
       "onboard_time": 1748617344,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40295,
+      "num": 246378,
+      "word": "国内多地网友目击夜空现不明飞行物",
+      "onboard_time": 1748679439,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -2179,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29573,
+      "num": 291204,
+      "word": "2000多年前端午节可能叫重节",
+      "onboard_time": 1748675660,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27681,
       "num": 33194,
       "word": "陈楚生轻描淡写松弛感",
@@ -2201,6 +2377,22 @@
       "onboard_time": 1748660121,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26041,
+      "num": 468248,
+      "word": "感受古诗词里的端午节",
+      "onboard_time": 1748679922,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 26022,
+      "num": 237677,
+      "word": "中了6180元能买多少东西",
+      "onboard_time": 1748678480,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 25585,
@@ -2297,6 +2489,14 @@
       "onboard_time": 1748633355,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15250,
+      "num": 156577,
+      "word": "五行上班法有哪些讲究",
+      "onboard_time": 1748679021,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 14718,
