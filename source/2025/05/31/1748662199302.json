@@ -1,0 +1,410 @@
+{
+  "runTime": 1748662199302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 954618,
+        "num": 1152739,
+        "word": "微信朋友圈能折叠了",
+        "onboard_time": 1748653040,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 569032,
+        "num": 569032,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34070,
+        "num": 547330,
+        "word": "端午出行热度攀升释放消费新活力",
+        "onboard_time": 1748661679,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547297,
+        "num": 547297,
+        "word": "丁太升说单依纯这次必须输",
+        "onboard_time": 1748661141,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455927,
+        "num": 455927,
+        "word": "亚当歌手",
+        "onboard_time": 1748654180,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433681,
+        "num": 433681,
+        "word": "说端午快乐还是端午安康",
+        "onboard_time": 1748654961,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398929,
+        "num": 398929,
+        "word": "莫离开机",
+        "onboard_time": 1748659460,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340768,
+        "num": 340768,
+        "word": "蜜丝婷 王楚钦",
+        "onboard_time": 1748659101,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329429,
+        "num": 329429,
+        "word": "单依纯失误",
+        "onboard_time": 1748615190,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292764,
+        "num": 292764,
+        "word": "端午祝福文案",
+        "onboard_time": 1748648837,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 737923,
+        "num": 290762,
+        "word": "吉林通报李德明花千万建10个厕所",
+        "onboard_time": 1748650879,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626017,
+        "num": 290108,
+        "word": "老人住千万豪宅拾荒家中堆满垃圾",
+        "onboard_time": 1748658200,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532160,
+        "num": 287397,
+        "word": "乐高中国已终止与涉事博主合作",
+        "onboard_time": 1748654480,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420572,
+        "num": 285471,
+        "word": "律师给在押人员递烤鸡榴莲被罚",
+        "onboard_time": 1748657960,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44664,
+        "num": 282001,
+        "word": "微博每小时抽1个6180元锦鲤",
+        "onboard_time": 1748660481,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 281728,
+        "num": 281728,
+        "word": "九门开机",
+        "onboard_time": 1748660421,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270461,
+        "num": 270461,
+        "word": "莫迪想让全世界都吃印度食品",
+        "onboard_time": 1748654120,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222552,
+        "num": 222552,
+        "word": "樱桃琥珀",
+        "onboard_time": 1748660061,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199692,
+        "num": 199692,
+        "word": "断眉吃粽子粘牙",
+        "onboard_time": 1748655200,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26963,
+        "num": 195773,
+        "word": "十二星座6月份的重点提示有哪些",
+        "onboard_time": 1748661141,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202753,
+        "num": 195590,
+        "word": "男子遭精神病邻居砸门咒骂2年半",
+        "onboard_time": 1748650760,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195183,
+        "num": 195183,
+        "word": "鞠婧祎五大杂志",
+        "onboard_time": 1748661743,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57131,
+        "num": 194117,
+        "word": "律协回应律师会见递香烟榴莲被罚",
+        "onboard_time": 1748660780,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193403,
+        "num": 193403,
+        "word": "刘浩存王安宇好嗑",
+        "onboard_time": 1748661081,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102656,
+        "num": 191476,
+        "word": "王楚钦回应巴黎奥运兼三项",
+        "onboard_time": 1748661621,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191316,
+        "num": 191316,
+        "word": "武汉妈妈回应暴雨后陪孩子后备箱过夜",
+        "onboard_time": 1748660780,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177940,
+        "num": 177940,
+        "word": "月升沧海",
+        "onboard_time": 1748652200,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171770,
+        "num": 171770,
+        "word": "黄觉还是太全面了",
+        "onboard_time": 1748661141,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152559,
+        "num": 169625,
+        "word": "韩国高丽大学决定接收哈佛国际师生",
+        "onboard_time": 1748649678,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 7499,
+        "num": 168278,
+        "word": "甜粽咸粽哪个诞生的更早",
+        "onboard_time": 1748662040,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167937,
+        "num": 167937,
+        "word": "白鹿莫离开机照",
+        "onboard_time": 1748660481,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119363,
+        "num": 156947,
+        "word": "中国人过端午各有各的仪式感",
+        "onboard_time": 1748657900,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152752,
+        "num": 152752,
+        "word": "特朗普送马斯克一把金钥匙",
+        "onboard_time": 1748654781,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148334,
+        "num": 148334,
+        "word": "中国汽车工业协会发布公平竞争倡议",
+        "onboard_time": 1748656341,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146686,
+        "num": 146686,
+        "word": "王楚钦说外在问题都是还不够强大",
+        "onboard_time": 1748661020,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143097,
+        "num": 143097,
+        "word": "工藤静香都来了木村拓哉还远吗",
+        "onboard_time": 1748662040,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141860,
+        "num": 141860,
+        "word": "歌手排名",
+        "onboard_time": 1748614467,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132898,
+        "num": 132898,
+        "word": "张艺兴容祖儿苏有朋京东歌会歌单",
+        "onboard_time": 1748657360,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130937,
+        "num": 130937,
+        "word": "白举纲鼓励马嘉祺",
+        "onboard_time": 1748661260,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125781,
+        "num": 125781,
+        "word": "美防长回应为何发言总关联中国",
+        "onboard_time": 1748660962,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116046,
+        "num": 116046,
+        "word": "马龙祝大家假期吃好玩好",
+        "onboard_time": 1748662040,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114397,
+        "num": 114397,
+        "word": "高管被指怒批员工不到晚8点就下班",
+        "onboard_time": 1748660721,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112807,
+        "num": 112807,
+        "word": "端午图片",
+        "onboard_time": 1748661381,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116512,
+        "num": 112426,
+        "word": "马嘉祺回应晋级",
+        "onboard_time": 1748651600,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111192,
+        "num": 111192,
+        "word": "谭松韵35岁生日照",
+        "onboard_time": 1748653279,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108083,
+        "num": 108083,
+        "word": "莫文蔚 爱情",
+        "onboard_time": 1748656280,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107730,
+        "num": 107730,
+        "word": "上海一公交站椅子离地仅手机高",
+        "onboard_time": 1748650219,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105559,
+        "num": 105559,
+        "word": "逐玉",
+        "onboard_time": 1748658200,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104166,
+        "num": 104166,
+        "word": "宋亚轩张真源叼竹子",
+        "onboard_time": 1748659580,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102487,
+        "num": 102487,
+        "word": "清华大学成立四个新书院",
+        "onboard_time": 1748658261,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为科技强国建设作出更大贡献#"
+    }
+  }
+}
