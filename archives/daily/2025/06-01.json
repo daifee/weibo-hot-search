@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748712090237,
+  "endTime": 1748713142239,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55155,
+      "num": 93191,
+      "word": "广东龙舟正成为中国文旅的新名片",
+      "onboard_time": 1748711597,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55147,
       "num": 55147,
       "word": "BLG淘汰赛零封iG",
@@ -483,12 +491,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35986,
-      "num": 93191,
-      "word": "广东龙舟正成为中国文旅的新名片",
-      "onboard_time": 1748711597,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 39235,
+      "num": 40869,
+      "word": "法网",
+      "onboard_time": 1748704161,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32035,
+      "num": 40849,
+      "word": "鞠婧祎COSMO玫瑰猎手大片",
+      "onboard_time": 1748712977,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
