@@ -1,6 +1,6 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748681075753,
+  "endTime": 1748683511930,
   "band_list": [
     {
       "raw_hot": 1903751,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1187725,
-      "num": 1190036,
+      "raw_hot": 1241911,
+      "num": 1241911,
       "word": "九门阵容官宣",
       "onboard_time": 1748674880,
       "rank": 21,
@@ -227,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 532502,
+      "num": 266319,
+      "word": "150w现金和月薪4000的工作",
+      "onboard_time": 1748677220,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 522382,
       "num": 522382,
       "word": "单依纯回应被说像王菲",
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394811,
+      "num": 394811,
+      "word": "国内多地网友目击夜空现不明飞行物",
+      "onboard_time": 1748679439,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 393789,
       "num": 393789,
       "word": "樊振东慕尼黑看欧冠",
@@ -401,6 +417,14 @@
       "onboard_time": 1748669121,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 343324,
+      "num": 343324,
+      "word": "陈瑶九门旗袍造型",
+      "onboard_time": 1748677641,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 342674,
@@ -499,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300043,
-      "num": 207673,
-      "word": "150w现金和月薪4000的工作",
-      "onboard_time": 1748677220,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 294834,
       "num": 127776,
       "word": "补位歌手是谁",
@@ -595,11 +611,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260539,
-      "num": 260539,
-      "word": "陈瑶九门旗袍造型",
-      "onboard_time": 1748677641,
-      "rank": 17,
+      "raw_hot": 257779,
+      "num": 257779,
+      "word": "九门",
+      "onboard_time": 1748681423,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -681,6 +697,14 @@
       "onboard_time": 1748665701,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225256,
+      "num": 225256,
+      "word": "多位配音演员发文告别光合积木",
+      "onboard_time": 1748682080,
+      "rank": 21,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 223408,
@@ -931,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184730,
+      "num": 184730,
+      "word": "张婧仪发红包",
+      "onboard_time": 1748681960,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184272,
       "num": 184272,
       "word": "TES对战FPX",
@@ -952,6 +984,22 @@
       "word": "爆改的风吹到了陈德容",
       "onboard_time": 1748679922,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183424,
+      "num": 183424,
+      "word": "藏海传云合占比30.6%",
+      "onboard_time": 1748682200,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182301,
+      "num": 182301,
+      "word": "王蓉浪姐淘汰了又好像没离开",
+      "onboard_time": 1748682859,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -995,20 +1043,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 175679,
+      "num": 257961,
+      "word": "白敬亭开什么车",
+      "onboard_time": 1748680879,
+      "rank": 26,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 174493,
       "num": 288148,
       "word": "四川通报药企涉嫌贿赂医生",
       "onboard_time": 1748662582,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 173172,
-      "num": 188513,
-      "word": "白敬亭开什么车",
-      "onboard_time": 1748680879,
-      "rank": 26,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 172779,
@@ -1032,6 +1080,14 @@
       "word": "黄觉还是太全面了",
       "onboard_time": 1748661141,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171513,
+      "num": 171513,
+      "word": "长安的荔枝业内口碑",
+      "onboard_time": 1748682080,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1089,6 +1145,22 @@
       "onboard_time": 1748657360,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161868,
+      "num": 161868,
+      "word": "蔡文静说汪峰的钱最难赚",
+      "onboard_time": 1748682259,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161699,
+      "num": 161699,
+      "word": "十个勤天猪肉贺大姐回应",
+      "onboard_time": 1748682800,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 161522,
@@ -1153,14 +1225,6 @@
       "onboard_time": 1748675240,
       "rank": 18,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 151320,
-      "num": 250312,
-      "word": "国内多地网友目击夜空现不明飞行物",
-      "onboard_time": 1748679439,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151290,
@@ -1307,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137128,
+      "num": 137128,
+      "word": "刘浩存不萌则已一萌惊人",
+      "onboard_time": 1748682500,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136622,
       "num": 136622,
       "word": "独居老人3000万豪宅堆满垃圾",
@@ -1368,6 +1440,14 @@
       "word": "白举纲鼓励马嘉祺",
       "onboard_time": 1748661260,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130861,
+      "num": 128287,
+      "word": "金龙鱼 十个勤天",
+      "onboard_time": 1748681901,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1507,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121103,
+      "num": 259301,
+      "word": "陈丽君黄子弘凡等亮相央视端午晚会",
+      "onboard_time": 1748676799,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120848,
       "num": 120848,
       "word": "我在人间很好看",
@@ -1579,6 +1667,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116651,
+      "num": 116651,
+      "word": "国羽女单包揽新加坡赛冠亚军",
+      "onboard_time": 1748683039,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116293,
+      "num": 116293,
+      "word": "为什么越长大牙齿越黄",
+      "onboard_time": 1748683039,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 116046,
       "num": 116046,
       "word": "马龙祝大家假期吃好玩好",
@@ -1601,6 +1705,14 @@
       "onboard_time": 1748666901,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115261,
+      "num": 115261,
+      "word": "苏超",
+      "onboard_time": 1748680102,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 114931,
@@ -1715,14 +1827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104926,
-      "num": 104926,
-      "word": "苏超",
-      "onboard_time": 1748680102,
-      "rank": 46,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 103991,
       "num": 103991,
       "word": "姜广涛回应配音30年",
@@ -1772,7 +1876,7 @@
     },
     {
       "raw_hot": 102059,
-      "num": 102059,
+      "num": 226649,
       "word": "甲亢哥见到老朋友飚起重庆方言",
       "onboard_time": 1748678120,
       "rank": 48,
@@ -1987,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76984,
+      "num": 183824,
+      "word": "吒宝端午变成小猫粽了",
+      "onboard_time": 1748683159,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74502,
       "num": 74502,
       "word": "聊城大学龙舟队不愧是北方门面",
@@ -2001,14 +2113,6 @@
       "onboard_time": 1748622562,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71978,
-      "num": 259301,
-      "word": "陈丽君黄子弘凡等亮相央视端午晚会",
-      "onboard_time": 1748676799,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 71330,
@@ -2033,6 +2137,14 @@
       "onboard_time": 1748646917,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70071,
+      "num": 183454,
+      "word": "时间之子最好哭的原来在银幕外",
+      "onboard_time": 1748683221,
+      "rank": 25,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 69441,
@@ -2105,6 +2217,14 @@
       "onboard_time": 1748665642,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60817,
+      "num": 568496,
+      "word": "端午假期三大亮点",
+      "onboard_time": 1748680641,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60179,
@@ -2193,6 +2313,14 @@
       "onboard_time": 1748678660,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 51652,
+      "num": 261602,
+      "word": "龙舟比赛划得最快的是救援队",
+      "onboard_time": 1748682560,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51603,
@@ -2363,12 +2491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36709,
-      "num": 568496,
-      "word": "端午假期三大亮点",
-      "onboard_time": 1748680641,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 36399,
+      "num": 263501,
+      "word": "居委会回应老人3000万豪宅堆满垃圾",
+      "onboard_time": 1748682740,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36342,
@@ -2547,6 +2675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 22685,
+      "num": 225907,
+      "word": "感冒后出现心肌炎的概率高吗",
+      "onboard_time": 1748682859,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21738,
       "num": 209775,
       "word": "为何越长大牙齿越黄",
@@ -2641,6 +2777,14 @@
       "onboard_time": 1748629755,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 11830,
+      "num": 166794,
+      "word": "法国多地户外禁烟违者罚款",
+      "onboard_time": 1748682681,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11433,
