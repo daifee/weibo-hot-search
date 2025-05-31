@@ -1,6 +1,6 @@
 {
   "startTime": 1748104160996,
-  "endTime": 1748705063123,
+  "endTime": 1748705928504,
   "band_list": [
     {
       "raw_hot": 15408881,
@@ -4435,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418818,
+      "num": 418818,
+      "word": "彩票店女老板整天吸二手烟血管堵90%",
+      "onboard_time": 1748702542,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418248,
       "num": 418248,
       "word": "歌手第三期音源",
@@ -5659,14 +5667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325954,
-      "num": 325954,
-      "word": "彩票店女老板整天吸二手烟血管堵90%",
-      "onboard_time": 1748702542,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 325724,
       "num": 325724,
       "word": "吴谨言产后现身机场",
@@ -6201,6 +6201,14 @@
       "onboard_time": 1748442623,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294681,
+      "num": 257989,
+      "word": "剑来",
+      "onboard_time": 1748703622,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 293981,
@@ -7011,6 +7019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256647,
+      "num": 256647,
+      "word": "刘宇王栎鑫梁洁王楚然合唱赠你",
+      "onboard_time": 1748701463,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256258,
       "num": 256258,
       "word": "陈雨菲横扫安洗莹",
@@ -7193,6 +7209,14 @@
       "onboard_time": 1748410581,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249946,
+      "num": 249946,
+      "word": "火车上手机被错拿不肯下车索赔2000",
+      "onboard_time": 1748703140,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249206,
@@ -7987,14 +8011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225870,
-      "num": 225870,
-      "word": "火车上手机被错拿不肯下车索赔2000",
-      "onboard_time": 1748703140,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225163,
       "num": 405796,
       "word": "车辆冲出快速路高架桥致车内5人身亡",
@@ -8033,6 +8049,14 @@
       "onboard_time": 1748574020,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223490,
+      "num": 223490,
+      "word": "瓶邪",
+      "onboard_time": 1748703922,
+      "rank": 21,
+      "category": "读书作家"
     },
     {
       "raw_hot": 223453,
@@ -8305,14 +8329,6 @@
       "onboard_time": 1748130378,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216528,
-      "num": 216528,
-      "word": "剑来",
-      "onboard_time": 1748703622,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 216182,
@@ -8673,6 +8689,14 @@
       "onboard_time": 1748407043,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209268,
+      "num": 209268,
+      "word": "长期喝水与喝茶的区别",
+      "onboard_time": 1748702302,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209202,
@@ -9171,6 +9195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202727,
+      "num": 202727,
+      "word": "歌手给白举纲写的离别文",
+      "onboard_time": 1748705002,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202693,
       "num": 202693,
       "word": "余承东透露尊界S800新功能",
@@ -9185,14 +9217,6 @@
       "onboard_time": 1748522902,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202572,
-      "num": 202572,
-      "word": "瓶邪",
-      "onboard_time": 1748703922,
-      "rank": 21,
-      "category": "读书作家"
     },
     {
       "raw_hot": 202531,
@@ -9227,28 +9251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202395,
-      "num": 202395,
-      "word": "刘宇王栎鑫梁洁王楚然合唱赠你",
-      "onboard_time": 1748701463,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202381,
       "num": 202381,
       "word": "刘亦菲姐感黑长直",
       "onboard_time": 1748499442,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 202373,
-      "num": 202373,
-      "word": "长期喝水与喝茶的区别",
-      "onboard_time": 1748702302,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 201725,
@@ -9585,6 +9593,14 @@
       "onboard_time": 1748613029,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197635,
+      "num": 197635,
+      "word": "时代少年团端午直播营业",
+      "onboard_time": 1748705301,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 197544,
@@ -13659,6 +13675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158013,
+      "num": 158013,
+      "word": "华晨宇超绝拖尾",
+      "onboard_time": 1748705242,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157843,
       "num": 157843,
       "word": "电影狂野时代",
@@ -13867,6 +13891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155769,
+      "num": 155769,
+      "word": "在哈佛演讲的25岁中国女生发声",
+      "onboard_time": 1748697022,
+      "rank": 41,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 155721,
       "num": 336002,
       "word": "藏海传冬夏质子",
@@ -14017,6 +14049,14 @@
       "onboard_time": 1748492840,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154229,
+      "num": 154229,
+      "word": "李健演唱会遇大雨",
+      "onboard_time": 1748705541,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 154218,
@@ -14617,14 +14657,6 @@
       "onboard_time": 1748600600,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148223,
-      "num": 148223,
-      "word": "在哈佛演讲的25岁中国女生发声",
-      "onboard_time": 1748697022,
-      "rank": 41,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 148042,
@@ -17577,14 +17609,6 @@
       "onboard_time": 1748513301,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123285,
-      "num": 123285,
-      "word": "歌手给白举纲写的离别文",
-      "onboard_time": 1748705002,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 123256,
@@ -21604,7 +21628,7 @@
     },
     {
       "raw_hot": 72543,
-      "num": 202468,
+      "num": 214391,
       "word": "吴磊出席白月光之夜",
       "onboard_time": 1748702363,
       "rank": 39,
@@ -21985,6 +22009,14 @@
       "onboard_time": 1748350101,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66253,
+      "num": 272854,
+      "word": "当地回应水库水位下降现千佛石窟",
+      "onboard_time": 1748704822,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66125,
@@ -23417,14 +23449,6 @@
       "onboard_time": 1748441122,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 49309,
-      "num": 153853,
-      "word": "当地回应水库水位下降现千佛石窟",
-      "onboard_time": 1748704822,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49211,
@@ -25227,6 +25251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30508,
+      "num": 262701,
+      "word": "多个景区端午节背离骚免门票",
+      "onboard_time": 1748704880,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30438,
       "num": 176530,
       "word": "苹果概念股全线走强",
@@ -26291,6 +26323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22048,
+      "num": 250911,
+      "word": "男子制止街头算命被咒骂",
+      "onboard_time": 1748705422,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22045,
       "num": 1225753,
       "word": "9图解锁双节消费攻略",
@@ -26776,14 +26816,6 @@
       "word": "官方回应高架疑车道减少致车辆高坠",
       "onboard_time": 1748547914,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17375,
-      "num": 157808,
-      "word": "多个景区端午节背离骚免门票",
-      "onboard_time": 1748704880,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -27427,6 +27459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12468,
+      "num": 170053,
+      "word": "萌娃泳池迷你龙舟赛",
+      "onboard_time": 1748704282,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12423,
       "num": 253461,
       "word": "西瓜有哪些意想不到的隐藏吃法",
@@ -27841,14 +27881,6 @@
       "onboard_time": 1748258362,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 8384,
-      "num": 167687,
-      "word": "萌娃泳池迷你龙舟赛",
-      "onboard_time": 1748704282,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8336,
