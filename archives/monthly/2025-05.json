@@ -1,6 +1,6 @@
 {
   "startTime": 1746030701008,
-  "endTime": 1748662199302,
+  "endTime": 1748663694922,
   "band_list": [
     {
       "raw_hot": 20713802,
@@ -10307,6 +10307,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 704234,
+      "num": 704234,
+      "word": "端午",
+      "onboard_time": 1748647579,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 704129,
       "num": 445122,
       "word": "摩的司机性侵14岁女生受害家属发声",
@@ -10753,14 +10761,6 @@
       "onboard_time": 1746197373,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 682698,
-      "num": 682698,
-      "word": "端午",
-      "onboard_time": 1748647579,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 682361,
@@ -11880,6 +11880,14 @@
       "word": "这是我的西游直播",
       "onboard_time": 1746440781,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 631939,
+      "num": 631939,
+      "word": "丁太升说单依纯这次必须输",
+      "onboard_time": 1748661141,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -13387,6 +13395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 585210,
+      "num": 585210,
+      "word": "断眉 挂电",
+      "onboard_time": 1748662223,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585042,
       "num": 585042,
       "word": "中美最新关税已实施",
@@ -14369,14 +14385,6 @@
       "onboard_time": 1748432541,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 547297,
-      "num": 547297,
-      "word": "丁太升说单依纯这次必须输",
-      "onboard_time": 1748661141,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 547241,
@@ -26571,6 +26579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300576,
+      "num": 300576,
+      "word": "九门开机",
+      "onboard_time": 1748660421,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300574,
       "num": 324248,
       "word": "美国关税战把美国农业打得好疼",
@@ -28321,14 +28337,6 @@
       "onboard_time": 1748655200,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281728,
-      "num": 281728,
-      "word": "九门开机",
-      "onboard_time": 1748660421,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 281698,
@@ -32755,6 +32763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243539,
+      "num": 243539,
+      "word": "樱桃琥珀",
+      "onboard_time": 1748660061,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243526,
       "num": 240646,
       "word": "多哈世乒赛国乒4金1银2铜",
@@ -33305,6 +33321,14 @@
       "onboard_time": 1747888644,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239693,
+      "num": 239693,
+      "word": "工藤静香都来了木村拓哉还远吗",
+      "onboard_time": 1748662040,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 239483,
@@ -35731,14 +35755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222552,
-      "num": 222552,
-      "word": "樱桃琥珀",
-      "onboard_time": 1748660061,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222540,
       "num": 222540,
       "word": "邓为关晓彤合唱版愿你抬头有光",
@@ -36865,6 +36881,14 @@
       "onboard_time": 1748265864,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216713,
+      "num": 216713,
+      "word": "租三金结婚的年轻人开始退租了",
+      "onboard_time": 1748662521,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216706,
@@ -40641,6 +40665,14 @@
       "onboard_time": 1748180370,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203542,
+      "num": 203542,
+      "word": "肖战平安最粽要",
+      "onboard_time": 1748662880,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 203541,
@@ -44889,6 +44921,14 @@
       "onboard_time": 1748265323,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193377,
+      "num": 193377,
+      "word": "你好星期六全员跳团播舞",
+      "onboard_time": 1748663541,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 193366,
@@ -51915,6 +51955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176388,
+      "num": 176388,
+      "word": "杨紫生命树端午6宫格",
+      "onboard_time": 1748663240,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176378,
       "num": 176378,
       "word": "ZETA对战成都GG",
@@ -53600,6 +53648,14 @@
       "word": "杨旭文刘宇宁新剧定档",
       "onboard_time": 1748235623,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172328,
+      "num": 172328,
+      "word": "白鹿莫离开机照",
+      "onboard_time": 1748660481,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -55344,14 +55400,6 @@
       "word": "头一次觉得阴阳怪气这么顺耳",
       "onboard_time": 1746872060,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 167937,
-      "num": 167937,
-      "word": "白鹿莫离开机照",
-      "onboard_time": 1748660481,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -57945,6 +57993,14 @@
       "onboard_time": 1748182226,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162171,
+      "num": 162171,
+      "word": "成毅居家感大片",
+      "onboard_time": 1748663121,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162166,
@@ -61875,6 +61931,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 153780,
+      "num": 153780,
+      "word": "赵丽颖新剧完全是主人级别",
+      "onboard_time": 1748663361,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153779,
       "num": 153779,
       "word": "杭州西湖都是五月天了",
@@ -65379,6 +65443,14 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 145918,
+      "num": 145918,
+      "word": "人类对在人间的开发不足1%",
+      "onboard_time": 1748663121,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145903,
       "num": 381886,
       "word": "为什么每次团建后离职率都很高",
@@ -66187,6 +66259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144019,
+      "num": 288148,
+      "word": "四川通报药企涉嫌贿赂医生",
+      "onboard_time": 1748662582,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 144007,
       "num": 144007,
       "word": "孙珍妮是青花瓷成精了",
@@ -66689,14 +66769,6 @@
       "onboard_time": 1748503822,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143097,
-      "num": 143097,
-      "word": "工藤静香都来了木村拓哉还远吗",
-      "onboard_time": 1748662040,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 143085,
@@ -75123,6 +75195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126752,
+      "num": 193696,
+      "word": "女子花四万上提升课得躁狂症住院",
+      "onboard_time": 1748662281,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126733,
       "num": 334319,
       "word": "中国医药指南承认学术不端",
@@ -79435,6 +79515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116768,
+      "num": 116768,
+      "word": "宋妍霏看马吟吟唱歌红了眼眶",
+      "onboard_time": 1748662401,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116767,
       "num": 116767,
       "word": "藏海传全员无蠢人主角也只能险胜",
@@ -82859,6 +82947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108712,
+      "num": 108712,
+      "word": "两个小段再道歉",
+      "onboard_time": 1748663661,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108692,
       "num": 318103,
       "word": "今天买礼物只有来京东才来得及",
@@ -83617,6 +83713,14 @@
       "onboard_time": 1748139861,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106476,
+      "num": 279367,
+      "word": "特朗普赠送马斯克金钥匙",
+      "onboard_time": 1748662640,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106445,
@@ -85073,6 +85177,14 @@
       "onboard_time": 1748657121,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102079,
+      "num": 205614,
+      "word": "一举高粽",
+      "onboard_time": 1748663061,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 102037,
@@ -88921,6 +89033,14 @@
       "onboard_time": 1748646917,
       "rank": 32,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 89212,
+      "num": 258018,
+      "word": "袁弘张歆艺发文庆祝结婚九周年",
+      "onboard_time": 1748662880,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 89206,
@@ -94473,6 +94593,14 @@
       "onboard_time": 1748149641,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 69441,
+      "num": 641304,
+      "word": "端午出行热度攀升释放消费新活力",
+      "onboard_time": 1748661679,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69408,
@@ -100747,6 +100875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48464,
+      "num": 285106,
+      "word": "微博每小时抽1个6180元锦鲤",
+      "onboard_time": 1748660481,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48462,
       "num": 137991,
       "word": "8个急救小技巧",
@@ -102161,14 +102297,6 @@
       "onboard_time": 1748262622,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44664,
-      "num": 285106,
-      "word": "微博每小时抽1个6180元锦鲤",
-      "onboard_time": 1748660481,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 44659,
@@ -104819,6 +104947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37958,
+      "num": 203588,
+      "word": "糯米一定要趁热吃吗",
+      "onboard_time": 1748662460,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 37956,
       "num": 1517114,
       "word": "欢迎来看热情活力的中国",
@@ -106361,14 +106497,6 @@
       "onboard_time": 1748577441,
       "rank": 42,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 34070,
-      "num": 547330,
-      "word": "端午出行热度攀升释放消费新活力",
-      "onboard_time": 1748661679,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34048,
@@ -111241,6 +111369,14 @@
       "onboard_time": 1747333275,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23855,
+      "num": 194130,
+      "word": "甜粽咸粽哪个诞生的更早",
+      "onboard_time": 1748662040,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 23829,
@@ -119441,14 +119577,6 @@
       "onboard_time": 1748011108,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7499,
-      "num": 168278,
-      "word": "甜粽咸粽哪个诞生的更早",
-      "onboard_time": 1748662040,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 7484,
