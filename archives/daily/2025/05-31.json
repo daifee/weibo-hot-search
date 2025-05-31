@@ -1,7 +1,23 @@
 {
   "startTime": 1748622776505,
-  "endTime": 1748648332892,
+  "endTime": 1748656606908,
   "band_list": [
+    {
+      "raw_hot": 1579544,
+      "num": 242712,
+      "word": "吉林通报李德明花千万建10个厕所",
+      "onboard_time": 1748650879,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1079664,
+      "num": 1172746,
+      "word": "微信朋友圈能折叠了",
+      "onboard_time": 1748653040,
+      "rank": 0,
+      "category": "互联网"
+    },
     {
       "raw_hot": 1065815,
       "num": 1065815,
@@ -75,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 465123,
+      "num": 465123,
+      "word": "亚当歌手",
+      "onboard_time": 1748654180,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457241,
       "num": 239929,
       "word": "黄杨钿甜已拿到三家名校合格证",
@@ -99,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406850,
+      "num": 242572,
+      "word": "乐高中国已终止与涉事博主合作",
+      "onboard_time": 1748654480,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386506,
       "num": 147781,
       "word": "耳帝评歌手第3期",
@@ -113,6 +145,14 @@
       "onboard_time": 1748615666,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326085,
+      "num": 326085,
+      "word": "韩国高丽大学决定接收哈佛国际师生",
+      "onboard_time": 1748649678,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 313965,
@@ -147,6 +187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277286,
+      "num": 173652,
+      "word": "男子遭精神病邻居砸门咒骂2年半",
+      "onboard_time": 1748650760,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274869,
+      "num": 236910,
+      "word": "上海一公交站椅子离地仅手机高",
+      "onboard_time": 1748650219,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263917,
       "num": 263917,
       "word": "于正找大师算的横店爆剧是藏海传",
@@ -163,12 +219,60 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255917,
+      "num": 255917,
+      "word": "端午祝福文案",
+      "onboard_time": 1748648837,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249059,
+      "num": 249059,
+      "word": "男子造成两尊铠甲武士俑损坏",
+      "onboard_time": 1748653639,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247455,
       "num": 247455,
       "word": "宗馥莉正式接班娃哈哈",
       "onboard_time": 1748617224,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244878,
+      "num": 236897,
+      "word": "谭松韵35岁生日照",
+      "onboard_time": 1748653279,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242292,
+      "num": 242292,
+      "word": "首部双00后古偶要抬上来了",
+      "onboard_time": 1748616444,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217811,
+      "num": 217811,
+      "word": "律师称故意毁损文物罪最高可判10年",
+      "onboard_time": 1748650339,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213514,
+      "num": 213514,
+      "word": "月升沧海",
+      "onboard_time": 1748652200,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 209790,
@@ -203,12 +307,20 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 183858,
-      "num": 183858,
-      "word": "首部双00后古偶要抬上来了",
-      "onboard_time": 1748616444,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 189360,
+      "num": 125368,
+      "word": "中国汽车工业协会发布公平竞争倡议",
+      "onboard_time": 1748656341,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 184476,
+      "num": 184476,
+      "word": "莫迪想让全世界都吃印度食品",
+      "onboard_time": 1748654120,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175964,
@@ -235,12 +347,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168124,
+      "num": 168124,
+      "word": "特朗普送马斯克一把金钥匙",
+      "onboard_time": 1748654781,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 167626,
+      "num": 167626,
+      "word": "马斯克从DOGE离职后将成特朗普顾问",
+      "onboard_time": 1748650760,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 164938,
+      "num": 138382,
+      "word": "断眉吃粽子粘牙",
+      "onboard_time": 1748655200,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151290,
       "num": 151290,
       "word": "尊界S800价格",
       "onboard_time": 1748613805,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 149854,
+      "num": 149854,
+      "word": "丁当 补位",
+      "onboard_time": 1748649138,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 142266,
@@ -259,12 +403,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127898,
+      "num": 127898,
+      "word": "端午安康",
+      "onboard_time": 1748652320,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126584,
       "num": 115740,
       "word": "GAI 不好听",
       "onboard_time": 1748609245,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126317,
+      "num": 126317,
+      "word": "原县委书记搞形象工程建140平厕所",
+      "onboard_time": 1748648658,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125442,
+      "num": 125442,
+      "word": "藏海传收视率超2.2%",
+      "onboard_time": 1748654600,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125073,
+      "num": 125073,
+      "word": "王楚钦谈奥运会32强输掉了外战",
+      "onboard_time": 1748650820,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 119439,
@@ -283,12 +459,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118687,
+      "num": 117468,
+      "word": "马嘉祺回应晋级",
+      "onboard_time": 1748651600,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118268,
+      "num": 118268,
+      "word": "教授家里堆满小麦脖子被晒到脱皮",
+      "onboard_time": 1748650519,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110959,
       "num": 110959,
       "word": "婚礼睡过头是种什么体验",
       "onboard_time": 1748606121,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108577,
+      "num": 108577,
+      "word": "莫文蔚 爱情",
+      "onboard_time": 1748656280,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 108178,
@@ -299,12 +499,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107949,
+      "num": 107949,
+      "word": "霉霉拿回所有专辑版权",
+      "onboard_time": 1748649379,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107909,
       "num": 115739,
       "word": "第30届白玉兰奖颁奖典礼",
       "onboard_time": 1748618423,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106158,
+      "num": 106158,
+      "word": "倡议车企不以低于成本价格倾销商品",
+      "onboard_time": 1748655200,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 98129,
+      "num": 98129,
+      "word": "郑钦文献唱蔡依林日不落",
+      "onboard_time": 1748652140,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 97542,
@@ -315,11 +539,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95736,
+      "num": 242811,
+      "word": "跳至兵马俑三号坑男子被控制",
+      "onboard_time": 1748653939,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95218,
       "num": 115627,
       "word": "单依纯选歌",
       "onboard_time": 1748613267,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93763,
+      "num": 93763,
+      "word": "单依纯笑得好命苦",
+      "onboard_time": 1748651540,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -329,6 +569,38 @@
       "onboard_time": 1748613267,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92241,
+      "num": 92241,
+      "word": "刘宇宁都把折腰2想好了",
+      "onboard_time": 1748655862,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91447,
+      "num": 91447,
+      "word": "王楚钦再回忆奥运止步32强",
+      "onboard_time": 1748655500,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90701,
+      "num": 90701,
+      "word": "罗家英说自己最多剩9年寿命",
+      "onboard_time": 1748654781,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89815,
+      "num": 89815,
+      "word": "猫 有没有可能我正往家走呢",
+      "onboard_time": 1748648718,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 89476,
@@ -361,6 +633,14 @@
       "onboard_time": 1748618123,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88104,
+      "num": 88104,
+      "word": "说端午快乐还是端午安康",
+      "onboard_time": 1748654961,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87639,
@@ -451,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57342,
+      "num": 525379,
+      "word": "原来龙舟是这样造出来的",
+      "onboard_time": 1748616804,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55958,
       "num": 115445,
       "word": "王楚钦说自己为了赢可以付出一切",
@@ -497,14 +785,6 @@
       "onboard_time": 1748612005,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49925,
-      "num": 522746,
-      "word": "原来龙舟是这样造出来的",
-      "onboard_time": 1748616804,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47654,
@@ -585,6 +865,14 @@
       "onboard_time": 1748620700,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37570,
+      "num": 140692,
+      "word": "郑钦文说甜蜜16强",
+      "onboard_time": 1748655621,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 36342,
