@@ -1,0 +1,410 @@
+{
+  "runTime": 1748687139354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1066488,
+        "num": 1170638,
+        "word": "九门阵容官宣",
+        "onboard_time": 1748674880,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380029,
+        "num": 380029,
+        "word": "端午红包",
+        "onboard_time": 1748665222,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52953,
+        "num": 307012,
+        "word": "端午假期三大亮点",
+        "onboard_time": 1748680641,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 835284,
+        "num": 282928,
+        "word": "多位配音演员发文告别光合积木",
+        "onboard_time": 1748682080,
+        "rank": 3,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 450245,
+        "num": 274193,
+        "word": "肖战张婧仪还原藏海传狐兔名场面",
+        "onboard_time": 1748685860,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257247,
+        "num": 257247,
+        "word": "日本北海道近海发生6.1级地震",
+        "onboard_time": 1748683940,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 249799,
+        "num": 249799,
+        "word": "美国暂停出口C919发动机",
+        "onboard_time": 1748672780,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248990,
+        "num": 248990,
+        "word": "九门",
+        "onboard_time": 1748681423,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230418,
+        "num": 230418,
+        "word": "国内多地网友目击夜空现不明飞行物",
+        "onboard_time": 1748679439,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159300,
+        "num": 230189,
+        "word": "河北武邑化工厂爆炸致5死2伤",
+        "onboard_time": 1748685681,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 693468,
+        "num": 229788,
+        "word": "全款3万买了40多年的老破小",
+        "onboard_time": 1748684060,
+        "rank": 10,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 511823,
+        "num": 229196,
+        "word": "姜广涛发文",
+        "onboard_time": 1748675781,
+        "rank": 11,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 53826,
+        "num": 228589,
+        "word": "张婧仪红包",
+        "onboard_time": 1748684299,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502119,
+        "num": 227916,
+        "word": "150w现金和月薪4000的工作",
+        "onboard_time": 1748677220,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82009,
+        "num": 227600,
+        "word": "演出服遭退单商家最大一笔亏近8000元",
+        "onboard_time": 1748686580,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501420,
+        "num": 226642,
+        "word": "吴彦祖疯狂接代言被猜缺钱",
+        "onboard_time": 1748676920,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308846,
+        "num": 226187,
+        "word": "蒋勤勤大波浪",
+        "onboard_time": 1748683760,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286578,
+        "num": 225492,
+        "word": "内娱杂志销量",
+        "onboard_time": 1748677580,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62271,
+        "num": 225009,
+        "word": "碱水面包真的对胃好吗",
+        "onboard_time": 1748686580,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 46885,
+        "num": 224772,
+        "word": "佛山龙舟赛鼓手回应撞脸吴彦祖",
+        "onboard_time": 1748686040,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224225,
+        "num": 224225,
+        "word": "市民称在周大福买到假黄金项链",
+        "onboard_time": 1748685920,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240932,
+        "num": 223092,
+        "word": "李昀锐关晓彤捂眼路透",
+        "onboard_time": 1748686821,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233869,
+        "num": 222411,
+        "word": "迪丽热巴端午晒蛋糕",
+        "onboard_time": 1748686461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221463,
+        "num": 221463,
+        "word": "Grace晒和团队聊天记录",
+        "onboard_time": 1748686160,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205188,
+        "num": 221281,
+        "word": "曾舜晞演吴老狗超级加辈",
+        "onboard_time": 1748685622,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192384,
+        "num": 220929,
+        "word": "wvscon",
+        "onboard_time": 1748686399,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162813,
+        "num": 220736,
+        "word": "王蓉浪姐淘汰了又好像没离开",
+        "onboard_time": 1748682859,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142216,
+        "num": 220296,
+        "word": "肖战演藏海在台湾刷屏",
+        "onboard_time": 1748678901,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69388,
+        "num": 220062,
+        "word": "余承东称尊界订单70%百万顶配",
+        "onboard_time": 1748685860,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27171,
+        "num": 219898,
+        "word": "05后女生跑外卖养活弟弟妹妹",
+        "onboard_time": 1748685141,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216307,
+        "num": 219438,
+        "word": "南航通报客机起飞15分钟紧急降落",
+        "onboard_time": 1748676622,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219305,
+        "num": 219305,
+        "word": "司机遇上查酒驾当场喝下1瓶白酒",
+        "onboard_time": 1748686040,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59648,
+        "num": 196471,
+        "word": "伞兵亲手包的粽子很别致",
+        "onboard_time": 1748687061,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19822,
+        "num": 195076,
+        "word": "男子跳入的兵马俑3号坑可正常参观",
+        "onboard_time": 1748687121,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24516,
+        "num": 194897,
+        "word": "端午来海南给你过节氛围感",
+        "onboard_time": 1748686940,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194718,
+        "num": 194718,
+        "word": "丁程鑫白西装跳MAMA",
+        "onboard_time": 1748686340,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175976,
+        "num": 175976,
+        "word": "困在办公室二手烟中的职场人",
+        "onboard_time": 1748684240,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153362,
+        "num": 153362,
+        "word": "为什么越长大牙齿越黄",
+        "onboard_time": 1748683039,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 45612,
+        "num": 145000,
+        "word": "被子上的阳光味到底是什么",
+        "onboard_time": 1748686100,
+        "rank": 38,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 97535,
+        "num": 144868,
+        "word": "陈丽君黄子弘凡等亮相央视端午晚会",
+        "onboard_time": 1748676799,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144865,
+        "num": 144865,
+        "word": "陈赫差点在泥地里溺水",
+        "onboard_time": 1748685320,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144248,
+        "num": 144248,
+        "word": "苏超联赛常州恐龙蛋大战扬州炒饭",
+        "onboard_time": 1748684781,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142182,
+        "num": 142182,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133107,
+        "num": 133107,
+        "word": "陈瑶九门旗袍造型",
+        "onboard_time": 1748677641,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132344,
+        "num": 132344,
+        "word": "岳云鹏把德云社搬到长安的荔枝了",
+        "onboard_time": 1748687061,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126184,
+        "num": 130196,
+        "word": "王源 配音间的午后",
+        "onboard_time": 1748685860,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129451,
+        "num": 129451,
+        "word": "田曦薇簪花礼裙",
+        "onboard_time": 1748676500,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127716,
+        "num": 127716,
+        "word": "冬夏女王喜欢蒯铎",
+        "onboard_time": 1748684661,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127646,
+        "num": 127646,
+        "word": "苏超",
+        "onboard_time": 1748680102,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 126576,
+        "num": 126576,
+        "word": "微信朋友圈能折叠了",
+        "onboard_time": 1748653040,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中华文化展现出永久魅力和时代风采#"
+    }
+  }
+}
