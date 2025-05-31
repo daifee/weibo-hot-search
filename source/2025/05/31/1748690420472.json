@@ -1,0 +1,410 @@
+{
+  "runTime": 1748690420472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 762492,
+        "num": 1121998,
+        "word": "九门阵容官宣",
+        "onboard_time": 1748674880,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536080,
+        "num": 536080,
+        "word": "市民称在周大福买到假黄金项链",
+        "onboard_time": 1748685920,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56935,
+        "num": 530117,
+        "word": "端午假期三大亮点",
+        "onboard_time": 1748680641,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1123041,
+        "num": 529439,
+        "word": "女子长期被迫吸二手烟痛苦地猛洗澡",
+        "onboard_time": 1748687480,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528061,
+        "num": 528061,
+        "word": "司机遇上查酒驾当场喝下1瓶白酒",
+        "onboard_time": 1748686040,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329230,
+        "num": 329230,
+        "word": "肖战张婧仪还原藏海传狐兔名场面",
+        "onboard_time": 1748685860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324251,
+        "num": 324251,
+        "word": "多位配音演员发文告别光合积木",
+        "onboard_time": 1748682080,
+        "rank": 6,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 307957,
+        "num": 307957,
+        "word": "河北武邑化工厂爆炸致5死2伤",
+        "onboard_time": 1748685681,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 234059,
+        "num": 306832,
+        "word": "女老师说不要当一个扫兴的班主任",
+        "onboard_time": 1748688080,
+        "rank": 8,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 127576,
+        "num": 304547,
+        "word": "甲亢哥说要再来中国去绍兴女孩家乡",
+        "onboard_time": 1748689520,
+        "rank": 9,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 951961,
+        "num": 300908,
+        "word": "藏海传吻戏",
+        "onboard_time": 1748688501,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 631002,
+        "num": 299466,
+        "word": "陷入我们的热恋吻戏 借位",
+        "onboard_time": 1748689221,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570621,
+        "num": 296648,
+        "word": "李昀锐关晓彤捂眼路透",
+        "onboard_time": 1748686821,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406077,
+        "num": 295120,
+        "word": "全款3万买了40多年的老破小",
+        "onboard_time": 1748684060,
+        "rank": 13,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 15136,
+        "num": 293111,
+        "word": "6180元够喝365天奶茶吗",
+        "onboard_time": 1748689281,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353599,
+        "num": 290977,
+        "word": "迪丽热巴端午晒蛋糕",
+        "onboard_time": 1748686461,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349798,
+        "num": 286855,
+        "word": "150w现金和月薪4000的工作",
+        "onboard_time": 1748677220,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286379,
+        "num": 286379,
+        "word": "吴彦祖疯狂接代言被猜缺钱",
+        "onboard_time": 1748676920,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223843,
+        "num": 274267,
+        "word": "十个勤天管这些叫素菜",
+        "onboard_time": 1748688380,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273687,
+        "num": 273687,
+        "word": "姜广涛发文",
+        "onboard_time": 1748675781,
+        "rank": 19,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 310922,
+        "num": 266558,
+        "word": "刘诗诗",
+        "onboard_time": 1748687660,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 246074,
+        "num": 246074,
+        "word": "演出服遭退单商家最大一笔亏近8000元",
+        "onboard_time": 1748686580,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191089,
+        "num": 191089,
+        "word": "周杰伦只需略微出手",
+        "onboard_time": 1748688921,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190974,
+        "num": 190974,
+        "word": "内娱杂志销量",
+        "onboard_time": 1748677580,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36792,
+        "num": 186827,
+        "word": "还是会被高三的自己震撼到",
+        "onboard_time": 1748689520,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185471,
+        "num": 185471,
+        "word": "灯花笑",
+        "onboard_time": 1748687721,
+        "rank": 25,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 169387,
+        "num": 185290,
+        "word": "极乐净土还是得美依礼芽跳才对味",
+        "onboard_time": 1748690060,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156687,
+        "num": 184709,
+        "word": "李嘉格在程潇妈妈这第一次被照顾",
+        "onboard_time": 1748690060,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153526,
+        "num": 184501,
+        "word": "九门",
+        "onboard_time": 1748681423,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8897,
+        "num": 183934,
+        "word": "地铁老人晕倒外国友人帮扶获赞",
+        "onboard_time": 1748689880,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15186,
+        "num": 183577,
+        "word": "无糖食品不含糖是真是假",
+        "onboard_time": 1748689101,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 183525,
+        "num": 183525,
+        "word": "BLG对战IG",
+        "onboard_time": 1748689640,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180213,
+        "num": 180213,
+        "word": "日本北海道近海发生6.1级地震",
+        "onboard_time": 1748683940,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144806,
+        "num": 144806,
+        "word": "fayeyoko",
+        "onboard_time": 1748688620,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39561,
+        "num": 144077,
+        "word": "近视人群不会得老花眼是真是假",
+        "onboard_time": 1748690359,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143746,
+        "num": 143746,
+        "word": "阿信那么容易受伤还是阿信吗",
+        "onboard_time": 1748689341,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142144,
+        "num": 142144,
+        "word": "怎么突然开始流行七分裤",
+        "onboard_time": 1748687480,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 19570,
+        "num": 139530,
+        "word": "90岁爷爷卖5毛钱粽子30年不涨价",
+        "onboard_time": 1748690359,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138503,
+        "num": 138503,
+        "word": "王鹤棣MAMA直拍貌媚风味",
+        "onboard_time": 1748688501,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40365,
+        "num": 137880,
+        "word": "余承东称尊界订单70%百万顶配",
+        "onboard_time": 1748685860,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137273,
+        "num": 137273,
+        "word": "端午",
+        "onboard_time": 1748647579,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136707,
+        "num": 136707,
+        "word": "虞书欣高能量女教师vlog又更新了",
+        "onboard_time": 1748688981,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134481,
+        "num": 134481,
+        "word": "张杰实体专辑天圆地方",
+        "onboard_time": 1748689821,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129269,
+        "num": 129269,
+        "word": "香暗荼骗观风自己怀孕了",
+        "onboard_time": 1748688561,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127470,
+        "num": 127470,
+        "word": "奴奴荼荼亲上了",
+        "onboard_time": 1748689700,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127149,
+        "num": 127149,
+        "word": "张真源no哥祝大家端午安康",
+        "onboard_time": 1748689640,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123285,
+        "num": 123285,
+        "word": "曾舜晞演吴老狗超级加辈",
+        "onboard_time": 1748685622,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125149,
+        "num": 122921,
+        "word": "美国暂停出口C919发动机",
+        "onboard_time": 1748672780,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121709,
+        "num": 121709,
+        "word": "岳云鹏把德云社搬到长安的荔枝了",
+        "onboard_time": 1748687061,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118612,
+        "num": 118612,
+        "word": "周深三次南京演唱会横竖都不同",
+        "onboard_time": 1748690301,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中华文化展现出永久魅力和时代风采#"
+    }
+  }
+}
