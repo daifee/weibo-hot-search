@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748782073936,
+  "endTime": 1748782991258,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1615973,
-      "num": 537617,
+      "num": 601717,
       "word": "印度网红直播猥亵土耳其导游",
       "onboard_time": 1748775139,
       "rank": 3,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 786695,
-      "num": 236119,
+      "num": 271503,
       "word": "黄子韬徐艺洋在商量婚礼了",
       "onboard_time": 1748777961,
       "rank": 10,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 615512,
+      "num": 615512,
+      "word": "冰浆",
+      "onboard_time": 1748775800,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 599252,
       "num": 599252,
       "word": "樊振东莫雷加德成为队友",
@@ -243,26 +251,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 567218,
-      "num": 567218,
-      "word": "冰浆",
-      "onboard_time": 1748775800,
-      "rank": 37,
-      "category": "美食"
+      "raw_hot": 591258,
+      "num": 591258,
+      "word": "冬夏女王死了",
+      "onboard_time": 1748779821,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 548101,
       "num": 548101,
       "word": "借位吻戏",
       "onboard_time": 1748738299,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 531004,
-      "num": 531004,
-      "word": "冬夏女王死了",
-      "onboard_time": 1748779821,
       "rank": 4,
       "category": "剧集"
     },
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 393352,
-      "num": 233189,
+      "num": 270901,
       "word": "白鹿90花cvb收视率断层登顶",
       "onboard_time": 1748780361,
       "rank": 11,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 374632,
-      "num": 231934,
+      "num": 268159,
       "word": "包贝尔包文婧儿子满月",
       "onboard_time": 1748779760,
       "rank": 12,
@@ -457,6 +457,14 @@
       "onboard_time": 1748698282,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 344347,
+      "num": 344347,
+      "word": "马斯克遭白宫背刺",
+      "onboard_time": 1748778921,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 343492,
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287681,
+      "num": 186803,
+      "word": "洗头后这个习惯会加重脱发",
+      "onboard_time": 1748781861,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 287212,
       "num": 287212,
       "word": "丁禹兮儿童节cos尼克狐",
@@ -683,12 +699,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267806,
+      "num": 267806,
+      "word": "陷入我们的热恋13",
+      "onboard_time": 1748778860,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259847,
       "num": 259847,
       "word": "藏海找到癸玺了",
       "onboard_time": 1748756900,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258882,
+      "num": 258882,
+      "word": "宋祖儿六一营业",
+      "onboard_time": 1748782102,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 257674,
+      "num": 257674,
+      "word": "孙中山孙女曾无偿捐赠大批文物",
+      "onboard_time": 1748780180,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255979,
@@ -771,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217865,
-      "num": 217865,
-      "word": "陷入我们的热恋13",
-      "onboard_time": 1748778860,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216923,
       "num": 216923,
       "word": "樊振东加盟德甲联赛意味着什么",
@@ -827,14 +859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210002,
-      "num": 142339,
-      "word": "洗头后这个习惯会加重脱发",
-      "onboard_time": 1748781861,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 207024,
       "num": 207024,
       "word": "步行者vs尼克斯",
@@ -848,6 +872,14 @@
       "word": "肖战藏海传第三周追剧日历",
       "onboard_time": 1748775800,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205504,
+      "num": 205504,
+      "word": "藏海传第三人",
+      "onboard_time": 1748782522,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -963,6 +995,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 191828,
+      "num": 186601,
+      "word": "西藏山南罕见红色精灵闪电",
+      "onboard_time": 1748782400,
+      "rank": 21,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 190427,
       "num": 222059,
       "word": "井胧说好的一起住怎么都搬家了",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1748751022,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186246,
+      "num": 186246,
+      "word": "六月的雨被张韶涵一个人淋完了",
+      "onboard_time": 1748781801,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 185539,
@@ -1057,6 +1105,22 @@
       "onboard_time": 1748781201,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 178813,
+      "num": 178813,
+      "word": "在人间大结局",
+      "onboard_time": 1748781981,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178408,
+      "num": 178408,
+      "word": "白玉兰入围奖项全名单",
+      "onboard_time": 1748782283,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 176266,
@@ -1139,20 +1203,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 169880,
+      "num": 169880,
+      "word": "藏海请罪",
+      "onboard_time": 1748782821,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169637,
       "num": 169637,
       "word": "雷军晒童年照",
       "onboard_time": 1748738179,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 168521,
-      "num": 219474,
-      "word": "马斯克遭白宫背刺",
-      "onboard_time": 1748778921,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 167479,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1748745681,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164943,
+      "num": 155026,
+      "word": "惠英红老师准备好 新商务来了",
+      "onboard_time": 1748782283,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 164634,
@@ -1251,12 +1323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154997,
+      "num": 154997,
+      "word": "李健演唱会遇暴雨全程不打伞",
+      "onboard_time": 1748780001,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154667,
       "num": 154667,
       "word": "樊振东发文早安慕尼黑",
       "onboard_time": 1748765962,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154243,
+      "num": 154243,
+      "word": "当92斤的我开始减肥",
+      "onboard_time": 1748777842,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 153886,
@@ -1299,14 +1387,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 150248,
-      "num": 150248,
-      "word": "孙中山孙女曾无偿捐赠大批文物",
-      "onboard_time": 1748780180,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149906,
       "num": 149906,
       "word": "陈梦是李嘉格母女的金牌调解员",
@@ -1329,14 +1409,6 @@
       "onboard_time": 1748753240,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149012,
-      "num": 149012,
-      "word": "当92斤的我开始减肥",
-      "onboard_time": 1748777842,
-      "rank": 25,
-      "category": "运动健身"
     },
     {
       "raw_hot": 148603,
@@ -1409,6 +1481,14 @@
       "onboard_time": 1748763620,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142058,
+      "num": 142058,
+      "word": "李沅禧开球",
+      "onboard_time": 1748781380,
+      "rank": 35,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 141589,
@@ -1619,14 +1699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129492,
-      "num": 129492,
-      "word": "李健演唱会遇暴雨全程不打伞",
-      "onboard_time": 1748780001,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 129049,
       "num": 227024,
       "word": "奴是希望他们慢点长大的意思",
@@ -1699,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124503,
+      "num": 124503,
+      "word": "时全此刻比鬼还吓人",
+      "onboard_time": 1748782701,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124302,
       "num": 124302,
       "word": "碟中谍",
@@ -1729,14 +1809,6 @@
       "onboard_time": 1748759720,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120905,
-      "num": 120905,
-      "word": "李沅禧开球",
-      "onboard_time": 1748781380,
-      "rank": 35,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 120761,
@@ -1777,6 +1849,14 @@
       "onboard_time": 1748754320,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 118937,
+      "num": 118937,
+      "word": "刘端端付辛博姚晓棠最美",
+      "onboard_time": 1748781682,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 118919,
@@ -1987,14 +2067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104719,
-      "num": 104719,
-      "word": "在人间大结局",
-      "onboard_time": 1748781981,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103803,
       "num": 103803,
       "word": "起猛了看见机器人踢足球了",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1748776581,
       "rank": 40,
       "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 102840,
+      "num": 124589,
+      "word": "美貌强大的中华系男子",
+      "onboard_time": 1748782642,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 102656,
@@ -2075,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99968,
+      "num": 99968,
+      "word": "官方回应上海迪士尼游客打架",
+      "onboard_time": 1748779581,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99805,
       "num": 99805,
       "word": "姆巴佩公式",
@@ -2083,20 +2171,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99419,
-      "num": 99419,
-      "word": "六月的雨被张韶涵一个人淋完了",
-      "onboard_time": 1748781801,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 98997,
-      "num": 98997,
-      "word": "刘端端付辛博姚晓棠最美",
-      "onboard_time": 1748781682,
-      "rank": 42,
-      "category": "演出"
+      "raw_hot": 99037,
+      "num": 99037,
+      "word": "日本偶遇周杰伦昆凌",
+      "onboard_time": 1748782821,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 98952,
@@ -2772,7 +2852,7 @@
     },
     {
       "raw_hot": 55427,
-      "num": 541971,
+      "num": 602618,
       "word": "和院士一起科学过六一",
       "onboard_time": 1748775680,
       "rank": 2,
@@ -2905,6 +2985,14 @@
       "onboard_time": 1748768301,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 43598,
+      "num": 274013,
+      "word": "也门男孩的家在战火中变死亡大街",
+      "onboard_time": 1748782400,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43393,
@@ -3353,6 +3441,14 @@
       "onboard_time": 1748771660,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7953,
+      "num": 155040,
+      "word": "地中海沙拉的万能搭配公式是什么",
+      "onboard_time": 1748782340,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 6069,
