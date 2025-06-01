@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748812994559,
+  "endTime": 1748813877271,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22660,
+      "num": 22660,
+      "word": "美国民众开始不愿花钱了",
+      "onboard_time": 1748812153,
+      "rank": 39,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 21234,
       "num": 26171,
       "word": "鞠婧祎时尚COSMO24h战报",
@@ -531,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12240,
-      "num": 17203,
-      "word": "美国民众开始不愿花钱了",
+      "raw_hot": 13827,
+      "num": 25167,
+      "word": "加沙孩子说感觉在战火中活了100年",
       "onboard_time": 1748812153,
-      "rank": 39,
-      "category": "海外新闻,财经"
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11954,
@@ -547,28 +555,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11438,
-      "num": 16590,
-      "word": "所有大人都曾经是小孩",
-      "onboard_time": 1748808313,
-      "rank": 47,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 11269,
-      "num": 16662,
+      "raw_hot": 11575,
+      "num": 17453,
       "word": "祝你成为快乐的大人",
       "onboard_time": 1748768600,
       "rank": 49,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10445,
-      "num": 17189,
-      "word": "加沙孩子说感觉在战火中活了100年",
-      "onboard_time": 1748812153,
-      "rank": 48,
-      "category": "海外新闻"
+      "raw_hot": 11438,
+      "num": 16590,
+      "word": "所有大人都曾经是小孩",
+      "onboard_time": 1748808313,
+      "rank": 47,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [

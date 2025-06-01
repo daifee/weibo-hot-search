@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748812994559,
+  "endTime": 1748813877271,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -4059,6 +4059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22660,
+      "num": 22660,
+      "word": "美国民众开始不愿花钱了",
+      "onboard_time": 1748812153,
+      "rank": 39,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 22364,
       "num": 167955,
       "word": "被中国的非遗震撼到了",
@@ -4195,20 +4203,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 13827,
+      "num": 25167,
+      "word": "加沙孩子说感觉在战火中活了100年",
+      "onboard_time": 1748812153,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 12332,
       "num": 14089,
       "word": "左航闪躲buff叠满",
       "onboard_time": 1748713935,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12240,
-      "num": 17203,
-      "word": "美国民众开始不愿花钱了",
-      "onboard_time": 1748812153,
-      "rank": 39,
-      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 11954,
@@ -4249,14 +4257,6 @@
       "onboard_time": 1748787382,
       "rank": 29,
       "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 10445,
-      "num": 17189,
-      "word": "加沙孩子说感觉在战火中活了100年",
-      "onboard_time": 1748812153,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 10186,
