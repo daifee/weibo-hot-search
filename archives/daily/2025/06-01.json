@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748756564580,
+  "endTime": 1748759726435,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -17,6 +17,14 @@
       "onboard_time": 1748746460,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1293020,
+      "num": 282172,
+      "word": "小泡芙变成中泡芙了",
+      "onboard_time": 1748757621,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1285599,
@@ -49,6 +57,14 @@
       "onboard_time": 1748746100,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 943117,
+      "num": 509407,
+      "word": "林志玲回应缩脖子",
+      "onboard_time": 1748757740,
+      "rank": 3,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 834773,
@@ -243,6 +259,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 366084,
+      "num": 278986,
+      "word": "陈妍希晒与儿子洱海背影照",
+      "onboard_time": 1748757979,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346084,
       "num": 317185,
       "word": "罗云熙回应出演电竞男主",
@@ -323,6 +347,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 289471,
+      "num": 277780,
+      "word": "张艺兴黄子韬 芒果同台",
+      "onboard_time": 1748757320,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284828,
+      "num": 475230,
+      "word": "美延长对中国301条款关税的部分豁免",
+      "onboard_time": 1748755220,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 277063,
       "num": 277063,
       "word": "易烊千玺六一在房间里开山",
@@ -344,6 +384,14 @@
       "word": "临江仙",
       "onboard_time": 1748745200,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 259847,
+      "num": 259847,
+      "word": "藏海找到癸玺了",
+      "onboard_time": 1748756900,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -411,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217268,
+      "num": 217268,
+      "word": "9人组织20余名未成年人有偿陪侍获刑",
+      "onboard_time": 1748758821,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216923,
       "num": 216923,
       "word": "樊振东加盟德甲联赛意味着什么",
@@ -465,6 +521,14 @@
       "onboard_time": 1748749998,
       "rank": 23,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 203384,
+      "num": 156302,
+      "word": "这是我认识的王俊凯吗",
+      "onboard_time": 1748759061,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 202960,
@@ -707,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162277,
-      "num": 475230,
-      "word": "美延长对中国301条款关税的部分豁免",
-      "onboard_time": 1748755220,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 159453,
       "num": 246584,
       "word": "孙颖莎问答案之书能突破自我吗",
@@ -737,6 +793,22 @@
       "onboard_time": 1748753240,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148839,
+      "num": 148839,
+      "word": "华晨宇大屏特效把观众集体变熊猫",
+      "onboard_time": 1748759180,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 146390,
+      "num": 218130,
+      "word": "巴铁将军谈到中国战机难掩笑容",
+      "onboard_time": 1748756302,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 145784,
@@ -1067,12 +1139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99805,
+      "num": 99805,
+      "word": "姆巴佩公式",
+      "onboard_time": 1748758040,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97780,
       "num": 97780,
       "word": "被童年的回旋镖击中了",
       "onboard_time": 1748739260,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 96849,
+      "num": 96849,
+      "word": "黄觉好浓的枭雄感",
+      "onboard_time": 1748759481,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 96689,
@@ -1107,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92483,
+      "num": 92483,
+      "word": "时间之子",
+      "onboard_time": 1748758641,
+      "rank": 48,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 91842,
       "num": 91842,
       "word": "杨肸子从端午播到儿童节",
@@ -1121,6 +1217,14 @@
       "onboard_time": 1748749881,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 89820,
+      "num": 89820,
+      "word": "等等小花给邓超拍封面",
+      "onboard_time": 1748759601,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 89675,
@@ -1145,6 +1249,14 @@
       "onboard_time": 1748707401,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 87464,
+      "num": 94882,
+      "word": "中国单方面免签朋友圈再增5国",
+      "onboard_time": 1748755821,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87122,
@@ -1228,7 +1340,7 @@
     },
     {
       "raw_hot": 81571,
-      "num": 116996,
+      "num": 148704,
       "word": "天猫蛋仔梦幻联动",
       "onboard_time": 1748756302,
       "rank": 48,
@@ -1347,6 +1459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72778,
+      "num": 269994,
+      "word": "青春修炼手册是11年前的歌了",
+      "onboard_time": 1748759240,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71598,
       "num": 71598,
       "word": "全员加速中",
@@ -1369,6 +1489,14 @@
       "onboard_time": 1748704042,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 64286,
+      "num": 273187,
+      "word": "俄罗斯24小时内第二座桥梁坍塌",
+      "onboard_time": 1748758760,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63292,
@@ -1483,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52761,
+      "num": 209584,
+      "word": "直击第22届香格里拉对话会",
+      "onboard_time": 1748759240,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51776,
       "num": 676896,
       "word": "大朋友小朋友们儿童节快乐",
@@ -1513,6 +1649,14 @@
       "onboard_time": 1748747361,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45839,
+      "num": 210754,
+      "word": "小伙漂流7小时想着钱没花完好可惜",
+      "onboard_time": 1748759240,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45637,
@@ -1769,14 +1913,6 @@
       "onboard_time": 1748714177,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11816,
-      "num": 218130,
-      "word": "巴铁将军谈到中国战机难掩笑容",
-      "onboard_time": 1748756302,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 11636,

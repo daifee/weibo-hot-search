@@ -1,0 +1,410 @@
+{
+  "runTime": 1748759726435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 823804,
+        "num": 1131808,
+        "word": "中国乒协理解和尊重樊振东意愿",
+        "onboard_time": 1748753001,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 552292,
+        "num": 552292,
+        "word": "时全是曹公公义子",
+        "onboard_time": 1748754080,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38340,
+        "num": 513267,
+        "word": "大朋友小朋友们儿童节快乐",
+        "onboard_time": 1748749100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 943117,
+        "num": 509407,
+        "word": "林志玲回应缩脖子",
+        "onboard_time": 1748757740,
+        "rank": 3,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 503970,
+        "num": 503970,
+        "word": "深圳关于6月1日不许下雨的通知",
+        "onboard_time": 1748752101,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489277,
+        "num": 489277,
+        "word": "王楚钦晒小朋友们的祝福",
+        "onboard_time": 1748755761,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462535,
+        "num": 462535,
+        "word": "张萌签约王星",
+        "onboard_time": 1748753901,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393985,
+        "num": 393985,
+        "word": "王爷急着圆房我急着出生",
+        "onboard_time": 1748752639,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388592,
+        "num": 388592,
+        "word": "樊振东10天前主动联系德甲俱乐部",
+        "onboard_time": 1748746460,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284828,
+        "num": 284828,
+        "word": "美延长对中国301条款关税的部分豁免",
+        "onboard_time": 1748755220,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1293020,
+        "num": 282172,
+        "word": "小泡芙变成中泡芙了",
+        "onboard_time": 1748757621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366084,
+        "num": 278986,
+        "word": "陈妍希晒与儿子洱海背影照",
+        "onboard_time": 1748757979,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289471,
+        "num": 277780,
+        "word": "张艺兴黄子韬 芒果同台",
+        "onboard_time": 1748757320,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64286,
+        "num": 273187,
+        "word": "俄罗斯24小时内第二座桥梁坍塌",
+        "onboard_time": 1748758760,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72778,
+        "num": 269994,
+        "word": "青春修炼手册是11年前的歌了",
+        "onboard_time": 1748759240,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267735,
+        "num": 267735,
+        "word": "沈梦辰被资本做局了",
+        "onboard_time": 1748736978,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259847,
+        "num": 259847,
+        "word": "藏海找到癸玺了",
+        "onboard_time": 1748756900,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217268,
+        "num": 217268,
+        "word": "9人组织20余名未成年人有偿陪侍获刑",
+        "onboard_time": 1748758821,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214261,
+        "num": 214261,
+        "word": "全球名校疯抢哈佛留学生",
+        "onboard_time": 1748751681,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45839,
+        "num": 210754,
+        "word": "小伙漂流7小时想着钱没花完好可惜",
+        "onboard_time": 1748759240,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52761,
+        "num": 209584,
+        "word": "直击第22届香格里拉对话会",
+        "onboard_time": 1748759240,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230016,
+        "num": 209582,
+        "word": "五哈下一期有王俊凯",
+        "onboard_time": 1748754381,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209561,
+        "num": 209561,
+        "word": "美国黄石公园车祸致中国公民5死8伤",
+        "onboard_time": 1748750959,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179254,
+        "num": 179254,
+        "word": "樊振东加盟德甲联赛意味着什么",
+        "onboard_time": 1748755461,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161101,
+        "num": 161101,
+        "word": "向佐晒女儿正脸照",
+        "onboard_time": 1748742140,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159483,
+        "num": 159483,
+        "word": "陈伟霆赞助九门组服",
+        "onboard_time": 1748752579,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203384,
+        "num": 156302,
+        "word": "这是我认识的王俊凯吗",
+        "onboard_time": 1748759061,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148839,
+        "num": 148839,
+        "word": "华晨宇大屏特效把观众集体变熊猫",
+        "onboard_time": 1748759180,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50688,
+        "num": 148704,
+        "word": "天猫蛋仔梦幻联动",
+        "onboard_time": 1748756302,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148659,
+        "num": 148659,
+        "word": "乒协支持樊振东加盟德甲",
+        "onboard_time": 1748752520,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147946,
+        "num": 147946,
+        "word": "孙颖莎云见面会",
+        "onboard_time": 1748747840,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146390,
+        "num": 146390,
+        "word": "巴铁将军谈到中国战机难掩笑容",
+        "onboard_time": 1748756302,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137762,
+        "num": 137762,
+        "word": "塞尔维亚女孩乘滑翔伞疑突发恐慌坠亡",
+        "onboard_time": 1748747121,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137684,
+        "num": 137684,
+        "word": "腾讯视频六月大剧片单",
+        "onboard_time": 1748750061,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136600,
+        "num": 136600,
+        "word": "樊振东6月仍会出战中国乒超",
+        "onboard_time": 1748754021,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120591,
+        "num": 120591,
+        "word": "网剧双轨",
+        "onboard_time": 1748747781,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120245,
+        "num": 120245,
+        "word": "樊振东加盟德甲联赛",
+        "onboard_time": 1748735057,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116339,
+        "num": 116339,
+        "word": "樊振东说期待新挑战新环境新胜利",
+        "onboard_time": 1748743460,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106199,
+        "num": 106199,
+        "word": "六一",
+        "onboard_time": 1748750780,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 102335,
+        "num": 102335,
+        "word": "儿童节",
+        "onboard_time": 1748734036,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 101675,
+        "num": 101675,
+        "word": "虞书欣晒儿时旧照",
+        "onboard_time": 1748752760,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100028,
+        "num": 100028,
+        "word": "借位吻戏",
+        "onboard_time": 1748738299,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99805,
+        "num": 99805,
+        "word": "姆巴佩公式",
+        "onboard_time": 1748758040,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98395,
+        "num": 98395,
+        "word": "北汽高管质问劣币驱逐良币",
+        "onboard_time": 1748756181,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98252,
+        "num": 98252,
+        "word": "于正说临江仙集均打底6000",
+        "onboard_time": 1748755100,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96849,
+        "num": 96849,
+        "word": "黄觉好浓的枭雄感",
+        "onboard_time": 1748759481,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87464,
+        "num": 94882,
+        "word": "中国单方面免签朋友圈再增5国",
+        "onboard_time": 1748755821,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94750,
+        "num": 94750,
+        "word": "马伯骞让章若楠选一个桑延",
+        "onboard_time": 1748754500,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92483,
+        "num": 92483,
+        "word": "时间之子",
+        "onboard_time": 1748758641,
+        "rank": 48,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 89820,
+        "num": 89820,
+        "word": "等等小花给邓超拍封面",
+        "onboard_time": 1748759601,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
