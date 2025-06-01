@@ -1,0 +1,410 @@
+{
+  "runTime": 1748745774644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 871916,
+        "num": 1139506,
+        "word": "樊振东加盟德甲联赛",
+        "onboard_time": 1748735057,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 574940,
+        "num": 574940,
+        "word": "谭松韵疑似ABB式名字大户",
+        "onboard_time": 1748707819,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45699,
+        "num": 465261,
+        "word": "3个中国人在太空过端午",
+        "onboard_time": 1748700023,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 784903,
+        "num": 462036,
+        "word": "杭州一凶宅竞拍14轮后七五折成交",
+        "onboard_time": 1748740340,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457395,
+        "num": 457395,
+        "word": "樊振东莫雷加德成为队友",
+        "onboard_time": 1748736018,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430151,
+        "num": 430151,
+        "word": "借位吻戏",
+        "onboard_time": 1748738299,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334515,
+        "num": 334515,
+        "word": "樊振东回应加盟萨尔布吕肯",
+        "onboard_time": 1748737098,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307221,
+        "num": 307221,
+        "word": "不知不觉成为能独当一面的大人了",
+        "onboard_time": 1748739139,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 290477,
+        "num": 290477,
+        "word": "樊振东说期待新挑战新环境新胜利",
+        "onboard_time": 1748743460,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231701,
+        "num": 231701,
+        "word": "美国副总统强硬回应外界批评",
+        "onboard_time": 1748740400,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1029423,
+        "num": 230954,
+        "word": "沈梦辰被资本做局了",
+        "onboard_time": 1748736978,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 802922,
+        "num": 227515,
+        "word": "向佐晒女儿正脸照",
+        "onboard_time": 1748742140,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461777,
+        "num": 227136,
+        "word": "一德克士店长用消费券套现13.7万",
+        "onboard_time": 1748743521,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221962,
+        "num": 221962,
+        "word": "巴黎 姆巴佩",
+        "onboard_time": 1748733918,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216204,
+        "num": 216204,
+        "word": "临江仙OST阵容官宣",
+        "onboard_time": 1748745379,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195805,
+        "num": 195805,
+        "word": "蛮蛮一劭结婚照拍摄现场",
+        "onboard_time": 1748744841,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186717,
+        "num": 186717,
+        "word": "儿童节",
+        "onboard_time": 1748734036,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 183548,
+        "num": 183548,
+        "word": "孙颖莎全红婵们等比例长大",
+        "onboard_time": 1748744841,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183423,
+        "num": 183423,
+        "word": "临江仙",
+        "onboard_time": 1748745200,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173324,
+        "num": 173324,
+        "word": "易烊千玺唱了请你不要睡好吗",
+        "onboard_time": 1748737819,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196822,
+        "num": 167826,
+        "word": "46岁卡车司机为省氧气钱缺氧离世",
+        "onboard_time": 1748740219,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158838,
+        "num": 158838,
+        "word": "AD钙奶",
+        "onboard_time": 1748743460,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147927,
+        "num": 147927,
+        "word": "这才是早起刷牙的真正原因",
+        "onboard_time": 1748733857,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146784,
+        "num": 146784,
+        "word": "步行者vs尼克斯",
+        "onboard_time": 1748743460,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90091,
+        "num": 136254,
+        "word": "姆巴佩让格林公式闭环了",
+        "onboard_time": 1748741178,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136176,
+        "num": 136176,
+        "word": "梨形身材是基因彩票",
+        "onboard_time": 1748706320,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126263,
+        "num": 126263,
+        "word": "奴是希望他们慢点长大的意思",
+        "onboard_time": 1748736138,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116474,
+        "num": 116474,
+        "word": "六一文案",
+        "onboard_time": 1748735717,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 96564,
+        "num": 116040,
+        "word": "梁超盛赞肖战具备艺术家所有品质",
+        "onboard_time": 1748743759,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92294,
+        "num": 115669,
+        "word": "乘风2025",
+        "onboard_time": 1748742501,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344704,
+        "num": 115665,
+        "word": "7岁男孩被3只恶犬撕咬一年后近况",
+        "onboard_time": 1748739080,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115650,
+        "num": 115650,
+        "word": "雷军晒童年照",
+        "onboard_time": 1748738179,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114767,
+        "num": 114767,
+        "word": "四川汶川3.3级地震",
+        "onboard_time": 1748737399,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27834,
+        "num": 111795,
+        "word": "外交部回应美防长涉华消极言论",
+        "onboard_time": 1748742741,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109424,
+        "num": 109424,
+        "word": "儿童节文案",
+        "onboard_time": 1748744480,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 97780,
+        "num": 97780,
+        "word": "被童年的回旋镖击中了",
+        "onboard_time": 1748739260,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 106354,
+        "num": 97740,
+        "word": "有些化妆品会让你越来越黑",
+        "onboard_time": 1748745320,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 95747,
+        "num": 95747,
+        "word": "00后老师用AI上美术课引全班尖叫",
+        "onboard_time": 1748744420,
+        "rank": 37,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 89675,
+        "num": 89675,
+        "word": "那些暴露年龄的童年动画片",
+        "onboard_time": 1748745320,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 85096,
+        "num": 85096,
+        "word": "卢伟冰 诋毁本身就是一种仰望",
+        "onboard_time": 1748735538,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 83585,
+        "num": 83585,
+        "word": "藏海传感情戏",
+        "onboard_time": 1748736678,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82218,
+        "num": 82218,
+        "word": "解锁床上玩手机正确姿势",
+        "onboard_time": 1748724435,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79775,
+        "num": 79775,
+        "word": "白鹿新户口已存档",
+        "onboard_time": 1748733436,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79326,
+        "num": 79326,
+        "word": "刘宇宁戏里折腰戏外护腰",
+        "onboard_time": 1748733497,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79232,
+        "num": 79232,
+        "word": "儿童节超话头像",
+        "onboard_time": 1748745681,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78825,
+        "num": 78825,
+        "word": "AI修复可爱可敬的抗战小英雄",
+        "onboard_time": 1748742140,
+        "rank": 45,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 78297,
+        "num": 78297,
+        "word": "车企之间价格战危及行业健康",
+        "onboard_time": 1748744420,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 76213,
+        "num": 76213,
+        "word": "我骨折的时候也这样穿",
+        "onboard_time": 1748745620,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30226,
+        "num": 75994,
+        "word": "俄罗斯一火车脱轨至少7人死亡",
+        "onboard_time": 1748738118,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75805,
+        "num": 75805,
+        "word": "科目三没过竟然是因为一头牛",
+        "onboard_time": 1748745681,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给小朋友们的礼物#"
+    }
+  }
+}
