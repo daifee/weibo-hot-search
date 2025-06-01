@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748767546389,
+  "endTime": 1748769949043,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 576940,
+      "num": 576940,
+      "word": "孙中山长孙女孙穗瑛去世",
+      "onboard_time": 1748764401,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 548101,
       "num": 548101,
       "word": "借位吻戏",
@@ -203,8 +211,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 545405,
+      "num": 545405,
+      "word": "小学门口倒闭的店因爱重生了",
+      "onboard_time": 1748765241,
+      "rank": 6,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 514024,
-      "num": 220697,
+      "num": 251520,
       "word": "在哈佛演讲中国女生陷入两难",
       "onboard_time": 1748763020,
       "rank": 26,
@@ -299,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 389104,
-      "num": 389104,
-      "word": "小学门口倒闭的店因爱重生了",
-      "onboard_time": 1748765241,
-      "rank": 6,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 380417,
       "num": 172196,
       "word": "女装这种设计的意义在于没有意义",
@@ -321,6 +329,14 @@
       "onboard_time": 1748760081,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353219,
+      "num": 184998,
+      "word": "祝你成为快乐的大人",
+      "onboard_time": 1748768600,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 346084,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 339821,
-      "num": 210503,
+      "num": 251010,
       "word": "有存款和无存款的区别",
       "onboard_time": 1748764641,
       "rank": 14,
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313809,
+      "num": 313809,
+      "word": "孙颖莎杂志",
+      "onboard_time": 1748768420,
+      "rank": 6,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 313422,
       "num": 313422,
       "word": "四川汶川3.3级地震",
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 309439,
-      "num": 194342,
+      "num": 235178,
       "word": "小沈阳演出女儿登台唱跳遭吐槽",
       "onboard_time": 1748763260,
       "rank": 35,
@@ -435,14 +459,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 305736,
-      "num": 166790,
-      "word": "孙中山长孙女孙穗瑛去世",
-      "onboard_time": 1748764401,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 300821,
       "num": 258031,
       "word": "鞠婧祎国内杂志销量第一",
@@ -457,6 +473,14 @@
       "onboard_time": 1748743460,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296233,
+      "num": 184132,
+      "word": "原来7000块可以干这么多事",
+      "onboard_time": 1748767882,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 291250,
@@ -523,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257131,
+      "num": 249130,
+      "word": "丁禹兮儿童节cos尼克狐",
+      "onboard_time": 1748768661,
+      "rank": 13,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 255979,
       "num": 255979,
       "word": "巴黎 姆巴佩",
       "onboard_time": 1748733918,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255270,
+      "num": 255270,
+      "word": "巴黎赢了球烧了城",
+      "onboard_time": 1748766443,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 254424,
@@ -635,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206128,
+      "num": 180633,
+      "word": "比邓超还接受不了他变老",
+      "onboard_time": 1748767940,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204661,
       "num": 204661,
       "word": "老祖宗的审美才是高定奢侈品",
@@ -657,6 +705,14 @@
       "onboard_time": 1748752760,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200420,
+      "num": 200420,
+      "word": "藏海传云合33.6%",
+      "onboard_time": 1748769500,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 198864,
@@ -731,6 +787,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 189911,
+      "num": 189911,
+      "word": "九门官宣开机合影",
+      "onboard_time": 1748768062,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188174,
       "num": 188174,
       "word": "俄留学生惊呼战斗民族在广东",
@@ -785,6 +849,14 @@
       "onboard_time": 1748749041,
       "rank": 20,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 179634,
+      "num": 179634,
+      "word": "藏海传全端破亿",
+      "onboard_time": 1748769620,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 176266,
@@ -961,6 +1033,14 @@
       "onboard_time": 1748762120,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151565,
+      "num": 151565,
+      "word": "江苏一女子偶遇小狗全身挂满鱼钩",
+      "onboard_time": 1748767882,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150330,
@@ -1171,6 +1251,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128147,
+      "num": 204004,
+      "word": "关之琳62岁状态",
+      "onboard_time": 1748766321,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127552,
+      "num": 127552,
+      "word": "永琪和咏琪终于同框了",
+      "onboard_time": 1748767882,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127148,
       "num": 127148,
       "word": "上班建议不要太用力",
@@ -1291,14 +1387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 115547,
-      "num": 204004,
-      "word": "关之琳62岁状态",
-      "onboard_time": 1748766321,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115375,
       "num": 115375,
       "word": "长期喝水与喝茶的区别",
@@ -1313,6 +1401,14 @@
       "onboard_time": 1748742501,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114607,
+      "num": 114607,
+      "word": "黄子弘凡探班直播",
+      "onboard_time": 1748769500,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 113587,
@@ -1345,14 +1441,6 @@
       "onboard_time": 1748766023,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 110178,
-      "num": 199192,
-      "word": "巴黎赢了球烧了城",
-      "onboard_time": 1748766443,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 109176,
@@ -1891,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62536,
+      "num": 115409,
+      "word": "广州猎德龙舟上演招亲名场面",
+      "onboard_time": 1748769920,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62165,
       "num": 193838,
       "word": "东决玩命了",
@@ -1929,6 +2025,14 @@
       "onboard_time": 1748746219,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57198,
+      "num": 254270,
+      "word": "俄两座桥梁遭爆炸袭击被定性为恐袭",
+      "onboard_time": 1748768960,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 57018,
@@ -2059,6 +2163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 44570,
+      "num": 147265,
+      "word": "印度的路边食品和饮食方式",
+      "onboard_time": 1748768301,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 43393,
       "num": 43393,
       "word": "BLG对战IG",
@@ -2081,6 +2193,22 @@
       "onboard_time": 1748711477,
       "rank": 43,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 42412,
+      "num": 144402,
+      "word": "焦虑上瘾是什么原因",
+      "onboard_time": 1748768839,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 41262,
+      "num": 188504,
+      "word": "睡前玩手机如何避免伤害眼睛",
+      "onboard_time": 1748769080,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 41192,
@@ -2113,6 +2241,14 @@
       "onboard_time": 1748704161,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38108,
+      "num": 175188,
+      "word": "一诺发博庆六一",
+      "onboard_time": 1748765241,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 37726,
@@ -2305,6 +2441,14 @@
       "onboard_time": 1748716455,
       "rank": 9,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 17222,
+      "num": 97497,
+      "word": "董浩叔叔带我回童年",
+      "onboard_time": 1748769500,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 17149,
