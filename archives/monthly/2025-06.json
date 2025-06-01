@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748782991258,
+  "endTime": 1748784746376,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -83,6 +83,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 1194808,
+      "num": 1194808,
+      "word": "藏海传第三人",
+      "onboard_time": 1748782522,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1147442,
       "num": 446555,
       "word": "沈梦辰被资本做局了",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 786695,
-      "num": 271503,
+      "num": 337072,
       "word": "黄子韬徐艺洋在商量婚礼了",
       "onboard_time": 1748777961,
       "rank": 10,
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 504781,
+      "num": 504781,
+      "word": "郑钦文vs萨姆索诺娃",
+      "onboard_time": 1748776581,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501166,
       "num": 501166,
       "word": "孙颖莎杂志",
@@ -299,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476876,
+      "num": 476876,
+      "word": "马斯克遭白宫背刺",
+      "onboard_time": 1748778921,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 474499,
       "num": 474499,
       "word": "藏海传全端破亿",
@@ -321,14 +345,6 @@
       "onboard_time": 1748739080,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 462107,
-      "num": 462107,
-      "word": "郑钦文vs萨姆索诺娃",
-      "onboard_time": 1748776581,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 461777,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 393352,
-      "num": 270901,
+      "num": 298809,
       "word": "白鹿90花cvb收视率断层登顶",
       "onboard_time": 1748780361,
       "rank": 11,
@@ -403,6 +419,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386116,
+      "num": 386116,
+      "word": "白玉兰入围奖项全名单",
+      "onboard_time": 1748782283,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 383801,
+      "num": 332411,
+      "word": "李东健承认与姜海琳恋情",
+      "onboard_time": 1748783181,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380417,
       "num": 172196,
       "word": "女装这种设计的意义在于没有意义",
@@ -411,8 +443,16 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 379171,
+      "num": 245454,
+      "word": "洗头后这个习惯会加重脱发",
+      "onboard_time": 1748781861,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 374632,
-      "num": 268159,
+      "num": 312896,
       "word": "包贝尔包文婧儿子满月",
       "onboard_time": 1748779760,
       "rank": 12,
@@ -443,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 348269,
+      "num": 348269,
+      "word": "斯瓦泰克vs莱巴金娜",
+      "onboard_time": 1748783121,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346084,
       "num": 317185,
       "word": "罗云熙回应出演电竞男主",
@@ -457,14 +505,6 @@
       "onboard_time": 1748698282,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 344347,
-      "num": 344347,
-      "word": "马斯克遭白宫背刺",
-      "onboard_time": 1748778921,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 343492,
@@ -611,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296973,
+      "num": 296973,
+      "word": "宋祖儿六一营业",
+      "onboard_time": 1748782102,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296233,
       "num": 194854,
       "word": "原来7000块可以干这么多事",
@@ -627,6 +675,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 290370,
+      "num": 290370,
+      "word": "孙中山孙女曾无偿捐赠大批文物",
+      "onboard_time": 1748780180,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289471,
       "num": 277780,
       "word": "张艺兴黄子韬 芒果同台",
@@ -635,12 +691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287681,
-      "num": 186803,
-      "word": "洗头后这个习惯会加重脱发",
-      "onboard_time": 1748781861,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 287428,
+      "num": 287428,
+      "word": "郑钦文1比0萨姆索诺娃",
+      "onboard_time": 1748783363,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 287212,
@@ -691,19 +747,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273908,
+      "num": 273908,
+      "word": "陷入我们的热恋13",
+      "onboard_time": 1748778860,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268485,
       "num": 268485,
       "word": "临江仙",
       "onboard_time": 1748745200,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 267806,
-      "num": 267806,
-      "word": "陷入我们的热恋13",
-      "onboard_time": 1748778860,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -713,22 +769,6 @@
       "onboard_time": 1748756900,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258882,
-      "num": 258882,
-      "word": "宋祖儿六一营业",
-      "onboard_time": 1748782102,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 257674,
-      "num": 257674,
-      "word": "孙中山孙女曾无偿捐赠大批文物",
-      "onboard_time": 1748780180,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255979,
@@ -875,12 +915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205504,
-      "num": 205504,
-      "word": "藏海传第三人",
-      "onboard_time": 1748782522,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 206048,
+      "num": 137837,
+      "word": "郑钦文抢七赢了",
+      "onboard_time": 1748783781,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 204661,
@@ -1083,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181991,
+      "num": 181991,
+      "word": "日本偶遇周杰伦昆凌",
+      "onboard_time": 1748782821,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181879,
       "num": 440601,
       "word": "樊振东6月仍会出战中国乒超",
@@ -1107,19 +1155,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 179290,
+      "num": 179290,
+      "word": "F1",
+      "onboard_time": 1748783901,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178813,
       "num": 178813,
       "word": "在人间大结局",
       "onboard_time": 1748781981,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 178408,
-      "num": 178408,
-      "word": "白玉兰入围奖项全名单",
-      "onboard_time": 1748782283,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1169,6 +1217,14 @@
       "onboard_time": 1748766621,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172518,
+      "num": 172518,
+      "word": "老九门",
+      "onboard_time": 1748784021,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 172472,
@@ -1363,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152812,
+      "num": 152812,
+      "word": "李沅禧开球",
+      "onboard_time": 1748781380,
+      "rank": 35,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 152729,
       "num": 152729,
       "word": "大鹏娱乐圈人缘",
@@ -1483,14 +1547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142058,
-      "num": 142058,
-      "word": "李沅禧开球",
-      "onboard_time": 1748781380,
-      "rank": 35,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 141589,
       "num": 366376,
       "word": "饿了么请蓝盈莹竟源自网友玩梗",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1748748020,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 137734,
+      "num": 137734,
+      "word": "迪丽热巴生日蛋糕面具",
+      "onboard_time": 1748783241,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 137506,
@@ -1616,6 +1680,14 @@
       "word": "赵丽颖眼光果然毒辣",
       "onboard_time": 1748760201,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133260,
+      "num": 133260,
+      "word": "藏海脖子是5A级颈区打卡胜地吗",
+      "onboard_time": 1748784021,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1915,12 +1987,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114454,
+      "num": 114454,
+      "word": "养成存钱习惯后没那么焦虑了",
+      "onboard_time": 1748784083,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113587,
       "num": 113587,
       "word": "儿童节文案",
       "onboard_time": 1748744480,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 112565,
+      "num": 112565,
+      "word": "U16国足vs澳大利亚U16",
+      "onboard_time": 1748784501,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 112182,
@@ -1995,6 +2083,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 108825,
+      "num": 108825,
+      "word": "宋威龙笑脸baby冷脸daddy",
+      "onboard_time": 1748784561,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107663,
+      "num": 107663,
+      "word": "在人间永不失联的爱",
+      "onboard_time": 1748784021,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107445,
       "num": 107445,
       "word": "美一卡车侧翻致2.5亿只蜜蜂飞出",
@@ -2009,6 +2113,14 @@
       "onboard_time": 1748742140,
       "rank": 13,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 107099,
+      "num": 107099,
+      "word": "重视培育未来创造未来的工作",
+      "onboard_time": 1748784383,
+      "rank": 44,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 106827,
@@ -2169,14 +2281,6 @@
       "onboard_time": 1748758040,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99037,
-      "num": 99037,
-      "word": "日本偶遇周杰伦昆凌",
-      "onboard_time": 1748782821,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 98952,
@@ -2955,6 +3059,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 47255,
+      "num": 137863,
+      "word": "克服讨好型人格的有效方法有哪些",
+      "onboard_time": 1748783541,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 45637,
       "num": 266624,
       "word": "吃榴莲真的能缓解痛经吗",
@@ -3281,6 +3393,14 @@
       "onboard_time": 1748715435,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24867,
+      "num": 137755,
+      "word": "伞兵旅行明信片",
+      "onboard_time": 1748784622,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 24455,
