@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748745774644,
+  "endTime": 1748750574534,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -9,6 +9,14 @@
       "onboard_time": 1748707819,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1336827,
+      "num": 273777,
+      "word": "樊振东10天前主动联系德甲俱乐部",
+      "onboard_time": 1748746460,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1147442,
@@ -27,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 959025,
+      "num": 293407,
+      "word": "雷军疑似回应余承东",
+      "onboard_time": 1748746100,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 834773,
       "num": 269244,
       "word": "向佐晒女儿正脸照",
@@ -43,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 775611,
+      "num": 1124097,
+      "word": "网剧双轨",
+      "onboard_time": 1748747781,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 658988,
       "num": 305014,
       "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
@@ -57,6 +81,14 @@
       "onboard_time": 1748736018,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 548732,
+      "num": 263593,
+      "word": "塞尔维亚女孩乘滑翔伞疑突发恐慌坠亡",
+      "onboard_time": 1748747121,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 548101,
@@ -123,6 +155,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 346084,
+      "num": 289516,
+      "word": "罗云熙回应出演电竞男主",
+      "onboard_time": 1748749100,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346014,
       "num": 253582,
       "word": "陈小春演唱会上座率",
@@ -179,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294717,
+      "num": 294717,
+      "word": "孙颖莎云见面会",
+      "onboard_time": 1748747840,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291250,
       "num": 291250,
       "word": "瓶邪",
@@ -211,12 +259,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252129,
+      "num": 252129,
+      "word": "不敢相信这个大胖小子是高瀚宇",
+      "onboard_time": 1748748979,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251949,
       "num": 169974,
       "word": "8旬老人砍掉小区20年香樟树",
       "onboard_time": 1748691861,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246133,
+      "num": 246133,
+      "word": "易烊千玺六一在房间里开山",
+      "onboard_time": 1748747479,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237609,
+      "num": 237609,
+      "word": "临江仙",
+      "onboard_time": 1748745200,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232387,
+      "num": 232387,
+      "word": "腾讯视频六月大剧片单",
+      "onboard_time": 1748750061,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 232346,
@@ -307,12 +387,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 192862,
+      "num": 192862,
+      "word": "老祖宗的审美才是高定奢侈品",
+      "onboard_time": 1748749998,
+      "rank": 23,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 192388,
       "num": 192388,
       "word": "患神经病邻居持刀上门打砸",
       "onboard_time": 1748692342,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185539,
+      "num": 185539,
+      "word": "陈伟霆曾舜晞陈瑶九门开机同框",
+      "onboard_time": 1748749400,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 183548,
@@ -323,20 +419,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183423,
-      "num": 183423,
-      "word": "临江仙",
-      "onboard_time": 1748745200,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182261,
       "num": 251695,
       "word": "梁超盛赞肖战具备艺术家所有品质",
       "onboard_time": 1748743759,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181569,
+      "num": 237611,
+      "word": "发条微博祝自己节日快乐",
+      "onboard_time": 1748749041,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 176257,
@@ -371,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171229,
+      "num": 171229,
+      "word": "西亚卡姆东决MVP",
+      "onboard_time": 1748748861,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169637,
       "num": 169637,
       "word": "雷军晒童年照",
@@ -387,8 +491,16 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 165440,
+      "num": 165440,
+      "word": "科目三没过竟然是因为一头牛",
+      "onboard_time": 1748745681,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164221,
-      "num": 164221,
+      "num": 168163,
       "word": "这才是早起刷牙的真正原因",
       "onboard_time": 1748733857,
       "rank": 21,
@@ -409,6 +521,14 @@
       "onboard_time": 1748698703,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145784,
+      "num": 145784,
+      "word": "丁真说我不可能一辈子纯真",
+      "onboard_time": 1748749280,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 140482,
@@ -451,6 +571,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 132593,
+      "num": 132593,
+      "word": "蔡徐坤新歌",
+      "onboard_time": 1748749939,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132000,
       "num": 132000,
       "word": "美副总统说美国人靠自己就能干大事",
@@ -464,6 +592,14 @@
       "word": "奴是希望他们慢点长大的意思",
       "onboard_time": 1748736138,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125167,
+      "num": 125167,
+      "word": "梦中的那片海未公开花絮",
+      "onboard_time": 1748747361,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -483,6 +619,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 120679,
+      "num": 120679,
+      "word": "英国街头卖柠檬水",
+      "onboard_time": 1748746881,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116673,
+      "num": 116673,
+      "word": "韩国地铁车厢起火瞬间曝光",
+      "onboard_time": 1748748020,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115375,
       "num": 115375,
       "word": "长期喝水与喝茶的区别",
@@ -499,12 +651,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113987,
+      "num": 113987,
+      "word": "上班建议不要太用力",
+      "onboard_time": 1748750240,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113587,
       "num": 113587,
       "word": "儿童节文案",
       "onboard_time": 1748744480,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 111108,
+      "num": 111108,
+      "word": "陶喆 儿童节是我的节",
+      "onboard_time": 1748749821,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 109176,
+      "num": 118257,
+      "word": "大人当久了想当一次小孩",
+      "onboard_time": 1748750061,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 107445,
@@ -619,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90565,
+      "num": 165463,
+      "word": "买房就等于一次性租70年房子吗",
+      "onboard_time": 1748749881,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 89675,
       "num": 89675,
       "word": "那些暴露年龄的童年动画片",
@@ -707,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81670,
+      "num": 257400,
+      "word": "小时候的快乐回来了",
+      "onboard_time": 1748747121,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81465,
       "num": 81465,
       "word": "小沈阳演唱会",
@@ -779,14 +971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75805,
-      "num": 75805,
-      "word": "科目三没过竟然是因为一头牛",
-      "onboard_time": 1748745681,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74841,
       "num": 74841,
       "word": "未知的首尔",
@@ -825,6 +1009,14 @@
       "onboard_time": 1748701463,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69076,
+      "num": 145486,
+      "word": "藏海ASMR",
+      "onboard_time": 1748747240,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 66512,
@@ -883,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58772,
+      "num": 103387,
+      "word": "樊振东小时候的照片",
+      "onboard_time": 1748746219,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57018,
       "num": 57018,
       "word": "蒯铎之死背后的秘密",
@@ -939,6 +1139,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50390,
+      "num": 294128,
+      "word": "大朋友小朋友们儿童节快乐",
+      "onboard_time": 1748749100,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49272,
+      "num": 133049,
+      "word": "运动员版小手办可爱值超标",
+      "onboard_time": 1748747361,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45498,
       "num": 45498,
       "word": "央视端午晚会节目单",
@@ -985,6 +1201,14 @@
       "onboard_time": 1748704161,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37726,
+      "num": 237621,
+      "word": "淘宝闪购和宋小宝一起送小堡",
+      "onboard_time": 1748748979,
+      "rank": 18,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 36546,
@@ -1059,12 +1283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24323,
+      "num": 237613,
+      "word": "梨型身材比其他身材更长寿吗",
+      "onboard_time": 1748749460,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 23543,
       "num": 23543,
       "word": "秦志远 圆满成功明天见",
       "onboard_time": 1748725754,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 23270,
+      "num": 165806,
+      "word": "法国禁止在儿童公共场所吸烟",
+      "onboard_time": 1748749222,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17940,
@@ -1113,6 +1353,9 @@
     },
     {
       "word": "#习近平期许孩子们茁壮成长#"
+    },
+    {
+      "word": "#总书记与孩子们的温暖瞬间#"
     }
   ]
 }
