@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748760539514,
+  "endTime": 1748762675062,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1293020,
-      "num": 282172,
+      "num": 283651,
       "word": "小泡芙变成中泡芙了",
       "onboard_time": 1748757621,
       "rank": 10,
@@ -243,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 394862,
+      "num": 287538,
+      "word": "这是我认识的王俊凯吗",
+      "onboard_time": 1748759061,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394117,
       "num": 175223,
       "word": "李昀锐关晓彤海边拥抱",
@@ -267,6 +275,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 374477,
+      "num": 287192,
+      "word": "曹唧唧哇",
+      "onboard_time": 1748760081,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346084,
       "num": 317185,
       "word": "罗云熙回应出演电竞男主",
@@ -281,6 +297,14 @@
       "onboard_time": 1748698282,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343492,
+      "num": 343492,
+      "word": "小米王化疑似回应余承东",
+      "onboard_time": 1748759720,
+      "rank": 18,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 338683,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 279819,
-      "num": 228270,
+      "num": 273617,
       "word": "9人组织20余名未成年人有偿陪侍获刑",
       "onboard_time": 1748758821,
       "rank": 17,
@@ -385,6 +409,14 @@
       "onboard_time": 1748694741,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271256,
+      "num": 133464,
+      "word": "歼20垂直起降",
+      "onboard_time": 1748760980,
+      "rank": 31,
+      "category": "军事"
     },
     {
       "raw_hot": 268485,
@@ -409,6 +441,14 @@
       "onboard_time": 1748733918,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255585,
+      "num": 255585,
+      "word": "鞠婧祎国内杂志销量第一",
+      "onboard_time": 1748760380,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 254424,
@@ -457,6 +497,14 @@
       "onboard_time": 1748733918,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224700,
+      "num": 224700,
+      "word": "月都花落 杨洋",
+      "onboard_time": 1748761100,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 218804,
@@ -523,14 +571,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 203384,
-      "num": 188726,
-      "word": "这是我认识的王俊凯吗",
-      "onboard_time": 1748759061,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202960,
       "num": 202960,
       "word": "藏海传的地狱笑话",
@@ -545,14 +585,6 @@
       "onboard_time": 1748752760,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199385,
-      "num": 188942,
-      "word": "曹唧唧哇",
-      "onboard_time": 1748760081,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 198864,
@@ -619,12 +651,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191220,
-      "num": 191220,
-      "word": "小米王化疑似回应余承东",
-      "onboard_time": 1748759720,
+      "raw_hot": 191935,
+      "num": 191935,
+      "word": "以前的过六一vs现在的过六一",
+      "onboard_time": 1748760860,
+      "rank": 17,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 188174,
+      "num": 188174,
+      "word": "俄留学生惊呼战斗民族在广东",
+      "onboard_time": 1748761642,
       "rank": 18,
-      "category": "互联网,数码"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187127,
@@ -771,6 +811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164634,
+      "num": 164634,
+      "word": "程潇挖出黄圣依妈妈初恋故事",
+      "onboard_time": 1748761220,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164221,
       "num": 244602,
       "word": "这才是早起刷牙的真正原因",
@@ -819,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153886,
+      "num": 153886,
+      "word": "藏海庄之行假意中掺杂一丝真心",
+      "onboard_time": 1748762120,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149557,
       "num": 149557,
       "word": "于正 省钱",
@@ -849,6 +905,14 @@
       "onboard_time": 1748755580,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142866,
+      "num": 142866,
+      "word": "杨紫跺脚变身",
+      "onboard_time": 1748762060,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 141589,
@@ -899,6 +963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136659,
+      "num": 136659,
+      "word": "时代少年团拍了你可能不认识我",
+      "onboard_time": 1748760619,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136275,
       "num": 123846,
       "word": "王星越说横店待腻了",
@@ -912,6 +984,14 @@
       "word": "四川汶川3.3级地震",
       "onboard_time": 1748737399,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134932,
+      "num": 269994,
+      "word": "青春修炼手册是11年前的歌了",
+      "onboard_time": 1748759240,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -963,6 +1043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 130992,
+      "num": 130992,
+      "word": "打工人才知道她有多天真",
+      "onboard_time": 1748761400,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129700,
       "num": 129700,
       "word": "刘浩存晋江现言女主有脸了",
@@ -995,6 +1083,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 125407,
+      "num": 125407,
+      "word": "李嘉格妈妈觉得女儿不红没啥好搜的",
+      "onboard_time": 1748761820,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125167,
       "num": 125167,
       "word": "梦中的那片海未公开花絮",
@@ -1017,14 +1113,6 @@
       "onboard_time": 1748705002,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121050,
-      "num": 121050,
-      "word": "鞠婧祎国内杂志销量第一",
-      "onboard_time": 1748760380,
-      "rank": 33,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 121015,
@@ -1089,14 +1177,6 @@
       "onboard_time": 1748744480,
       "rank": 33,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 112524,
-      "num": 269994,
-      "word": "青春修炼手册是11年前的歌了",
-      "onboard_time": 1748759240,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112182,
@@ -1195,12 +1275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102835,
-      "num": 102835,
+      "raw_hot": 104367,
+      "num": 104367,
       "word": "曹操没骗人 北方果然不擅水战",
       "onboard_time": 1748760439,
       "rank": 46,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 104168,
+      "num": 104168,
+      "word": "小沈阳演唱会嘉宾是女儿",
+      "onboard_time": 1748761220,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 102530,
@@ -1235,12 +1323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97958,
+      "num": 97484,
+      "word": "鞠婧祎杂志",
+      "onboard_time": 1748760561,
+      "rank": 47,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 97780,
       "num": 97780,
       "word": "被童年的回旋镖击中了",
       "onboard_time": 1748739260,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 97495,
+      "num": 97495,
+      "word": "毛不易答案之书翻烂了吧",
+      "onboard_time": 1748761100,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 96689,
@@ -1659,6 +1763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55620,
+      "num": 174356,
+      "word": "长期喝水和长期喝茶对健康有差异吗",
+      "onboard_time": 1748761340,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55155,
       "num": 93191,
       "word": "广东龙舟正成为中国文旅的新名片",
@@ -1777,6 +1889,14 @@
       "onboard_time": 1748704161,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38631,
+      "num": 283681,
+      "word": "千百年前的萌娃们都玩啥",
+      "onboard_time": 1748762060,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37726,
@@ -1995,12 +2115,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 10428,
+      "num": 134116,
+      "word": "练肩背能有效预防面部松弛吗",
+      "onboard_time": 1748762240,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 10186,
       "num": 183620,
       "word": "想瘦的年轻人狂炫绿化带",
       "onboard_time": 1748756359,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9513,
+      "num": 133568,
+      "word": "广东为什么这么热爱赛龙舟",
+      "onboard_time": 1748762540,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 6069,

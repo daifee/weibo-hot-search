@@ -1,0 +1,410 @@
+{
+  "runTime": 1748762675062,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 566200,
+        "num": 1090592,
+        "word": "中国乒协理解和尊重樊振东意愿",
+        "onboard_time": 1748753001,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445820,
+        "num": 445820,
+        "word": "时全是曹公公义子",
+        "onboard_time": 1748754080,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32567,
+        "num": 391238,
+        "word": "大朋友小朋友们儿童节快乐",
+        "onboard_time": 1748749100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 866737,
+        "num": 373221,
+        "word": "林志玲回应缩脖子",
+        "onboard_time": 1748757740,
+        "rank": 3,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 343492,
+        "num": 343492,
+        "word": "小米王化疑似回应余承东",
+        "onboard_time": 1748759720,
+        "rank": 4,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 289009,
+        "num": 289009,
+        "word": "樊振东10天前主动联系德甲俱乐部",
+        "onboard_time": 1748746460,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394862,
+        "num": 287538,
+        "word": "这是我认识的王俊凯吗",
+        "onboard_time": 1748759061,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374477,
+        "num": 287192,
+        "word": "曹唧唧哇",
+        "onboard_time": 1748760081,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285053,
+        "num": 285053,
+        "word": "深圳关于6月1日不许下雨的通知",
+        "onboard_time": 1748752101,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38631,
+        "num": 283681,
+        "word": "千百年前的萌娃们都玩啥",
+        "onboard_time": 1748762060,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 850012,
+        "num": 283651,
+        "word": "小泡芙变成中泡芙了",
+        "onboard_time": 1748757621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283598,
+        "num": 283598,
+        "word": "王楚钦晒小朋友们的祝福",
+        "onboard_time": 1748755761,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273617,
+        "num": 273617,
+        "word": "9人组织20余名未成年人有偿陪侍获刑",
+        "onboard_time": 1748758821,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264975,
+        "num": 264975,
+        "word": "张艺兴黄子韬 芒果同台",
+        "onboard_time": 1748757320,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255585,
+        "num": 255585,
+        "word": "鞠婧祎国内杂志销量第一",
+        "onboard_time": 1748760380,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 235142,
+        "num": 235142,
+        "word": "藏海找到癸玺了",
+        "onboard_time": 1748756900,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224700,
+        "num": 224700,
+        "word": "月都花落 杨洋",
+        "onboard_time": 1748761100,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191935,
+        "num": 191935,
+        "word": "以前的过六一vs现在的过六一",
+        "onboard_time": 1748760860,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 188174,
+        "num": 188174,
+        "word": "俄留学生惊呼战斗民族在广东",
+        "onboard_time": 1748761642,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55620,
+        "num": 174356,
+        "word": "长期喝水和长期喝茶对健康有差异吗",
+        "onboard_time": 1748761340,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190775,
+        "num": 173863,
+        "word": "张萌签约王星",
+        "onboard_time": 1748753901,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172560,
+        "num": 172560,
+        "word": "美延长对中国301条款关税的部分豁免",
+        "onboard_time": 1748755220,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168832,
+        "num": 168832,
+        "word": "陈妍希晒与儿子洱海背影照",
+        "onboard_time": 1748757979,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164634,
+        "num": 164634,
+        "word": "程潇挖出黄圣依妈妈初恋故事",
+        "onboard_time": 1748761220,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162638,
+        "num": 162638,
+        "word": "王爷急着圆房我急着出生",
+        "onboard_time": 1748752639,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153886,
+        "num": 153886,
+        "word": "藏海庄之行假意中掺杂一丝真心",
+        "onboard_time": 1748762120,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142866,
+        "num": 142866,
+        "word": "杨紫跺脚变身",
+        "onboard_time": 1748762060,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136659,
+        "num": 136659,
+        "word": "时代少年团拍了你可能不认识我",
+        "onboard_time": 1748760619,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134932,
+        "num": 134932,
+        "word": "青春修炼手册是11年前的歌了",
+        "onboard_time": 1748759240,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10428,
+        "num": 134116,
+        "word": "练肩背能有效预防面部松弛吗",
+        "onboard_time": 1748762240,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 9513,
+        "num": 133568,
+        "word": "广东为什么这么热爱赛龙舟",
+        "onboard_time": 1748762540,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 271256,
+        "num": 133464,
+        "word": "歼20垂直起降",
+        "onboard_time": 1748760980,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 133346,
+        "num": 133346,
+        "word": "赵丽颖眼光果然毒辣",
+        "onboard_time": 1748760201,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130992,
+        "num": 130992,
+        "word": "打工人才知道她有多天真",
+        "onboard_time": 1748761400,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130763,
+        "num": 130763,
+        "word": "俄罗斯24小时内第二座桥梁坍塌",
+        "onboard_time": 1748758760,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125407,
+        "num": 125407,
+        "word": "李嘉格妈妈觉得女儿不红没啥好搜的",
+        "onboard_time": 1748761820,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124210,
+        "num": 124210,
+        "word": "乒协支持樊振东加盟德甲",
+        "onboard_time": 1748752520,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121793,
+        "num": 121793,
+        "word": "陈志朋首个古偶演技全通艺员",
+        "onboard_time": 1748759840,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119838,
+        "num": 119838,
+        "word": "沈梦辰被资本做局了",
+        "onboard_time": 1748736978,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110165,
+        "num": 110165,
+        "word": "樊振东加盟德甲联赛意味着什么",
+        "onboard_time": 1748755461,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107011,
+        "num": 107011,
+        "word": "连续跑步3年的面部变化",
+        "onboard_time": 1748759959,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 104367,
+        "num": 104367,
+        "word": "曹操没骗人 北方果然不擅水战",
+        "onboard_time": 1748760439,
+        "rank": 41,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 104168,
+        "num": 104168,
+        "word": "小沈阳演唱会嘉宾是女儿",
+        "onboard_time": 1748761220,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100233,
+        "num": 100233,
+        "word": "樊振东加盟德甲联赛",
+        "onboard_time": 1748735057,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99592,
+        "num": 99592,
+        "word": "孙颖莎云见面会",
+        "onboard_time": 1748747840,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98091,
+        "num": 98091,
+        "word": "樊振东说期待新挑战新环境新胜利",
+        "onboard_time": 1748743460,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97495,
+        "num": 97495,
+        "word": "毛不易答案之书翻烂了吧",
+        "onboard_time": 1748761100,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97958,
+        "num": 97484,
+        "word": "鞠婧祎杂志",
+        "onboard_time": 1748760561,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 96213,
+        "num": 96213,
+        "word": "网剧双轨",
+        "onboard_time": 1748747781,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95034,
+        "num": 95034,
+        "word": "陈伟霆赞助九门组服",
+        "onboard_time": 1748752579,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
