@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748750574534,
+  "endTime": 1748751121021,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1336827,
-      "num": 273777,
+      "num": 315802,
       "word": "樊振东10天前主动联系德甲俱乐部",
       "onboard_time": 1748746460,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1147442,
-      "num": 270285,
+      "num": 314098,
       "word": "沈梦辰被资本做局了",
       "onboard_time": 1748736978,
       "rank": 10,
@@ -35,8 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 959025,
-      "num": 293407,
+      "raw_hot": 976870,
+      "num": 388230,
       "word": "雷军疑似回应余承东",
       "onboard_time": 1748746100,
       "rank": 3,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 834773,
-      "num": 269244,
+      "num": 309660,
       "word": "向佐晒女儿正脸照",
       "onboard_time": 1748742140,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 803991,
+      "num": 1128638,
+      "word": "网剧双轨",
+      "onboard_time": 1748747781,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 784903,
@@ -59,14 +67,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 775611,
-      "num": 1124097,
-      "word": "网剧双轨",
-      "onboard_time": 1748747781,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 658988,
       "num": 305014,
       "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 621751,
+      "num": 312859,
+      "word": "塞尔维亚女孩乘滑翔伞疑突发恐慌坠亡",
+      "onboard_time": 1748747121,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 599252,
       "num": 599252,
       "word": "樊振东莫雷加德成为队友",
       "onboard_time": 1748736018,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 548732,
-      "num": 263593,
-      "word": "塞尔维亚女孩乘滑翔伞疑突发恐慌坠亡",
-      "onboard_time": 1748747121,
-      "rank": 12,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 548101,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 404107,
+      "num": 404107,
+      "word": "孙颖莎云见面会",
+      "onboard_time": 1748747840,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401939,
       "num": 173074,
       "word": "刘浩存吻戏",
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 346084,
-      "num": 289516,
+      "num": 317185,
       "word": "罗云熙回应出演电竞男主",
       "onboard_time": 1748749100,
       "rank": 7,
@@ -185,6 +193,14 @@
       "onboard_time": 1748707040,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312038,
+      "num": 312038,
+      "word": "腾讯视频六月大剧片单",
+      "onboard_time": 1748750061,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 309216,
@@ -219,14 +235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 294717,
-      "num": 294717,
-      "word": "孙颖莎云见面会",
-      "onboard_time": 1748747840,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291250,
       "num": 291250,
       "word": "瓶邪",
@@ -235,11 +243,27 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 277063,
+      "num": 277063,
+      "word": "易烊千玺六一在房间里开山",
+      "onboard_time": 1748747479,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274688,
       "num": 170496,
       "word": "藏海传 男频",
       "onboard_time": 1748694741,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268485,
+      "num": 268485,
+      "word": "临江仙",
+      "onboard_time": 1748745200,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -273,30 +297,6 @@
       "onboard_time": 1748691861,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246133,
-      "num": 246133,
-      "word": "易烊千玺六一在房间里开山",
-      "onboard_time": 1748747479,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 237609,
-      "num": 237609,
-      "word": "临江仙",
-      "onboard_time": 1748745200,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 232387,
-      "num": 232387,
-      "word": "腾讯视频六月大剧片单",
-      "onboard_time": 1748750061,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 232346,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204661,
+      "num": 204661,
+      "word": "老祖宗的审美才是高定奢侈品",
+      "onboard_time": 1748749998,
+      "rank": 23,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 198864,
       "num": 145872,
       "word": "梨形身材是基因彩票",
@@ -385,14 +393,6 @@
       "onboard_time": 1748743460,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 192862,
-      "num": 192862,
-      "word": "老祖宗的审美才是高定奢侈品",
-      "onboard_time": 1748749998,
-      "rank": 23,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 192388,
@@ -483,6 +483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 167479,
+      "num": 167479,
+      "word": "六一",
+      "onboard_time": 1748750780,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 167405,
       "num": 167405,
       "word": "当你长期跑步之后你的身体",
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 164221,
-      "num": 168163,
+      "num": 244602,
       "word": "这才是早起刷牙的真正原因",
       "onboard_time": 1748733857,
       "rank": 21,
@@ -523,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158330,
+      "num": 158330,
+      "word": "虞书欣陈靖可林述巍夹心摇",
+      "onboard_time": 1748750660,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145784,
       "num": 145784,
       "word": "丁真说我不可能一辈子纯真",
@@ -537,6 +553,14 @@
       "onboard_time": 1748744119,
       "rank": 27,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 140044,
+      "num": 140044,
+      "word": "韩国地铁车厢起火瞬间曝光",
+      "onboard_time": 1748748020,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137506,
@@ -587,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130474,
+      "num": 130474,
+      "word": "美国黄石公园车祸致中国公民5死8伤",
+      "onboard_time": 1748750959,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129049,
       "num": 227024,
       "word": "奴是希望他们慢点长大的意思",
@@ -627,12 +659,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 116673,
-      "num": 116673,
-      "word": "韩国地铁车厢起火瞬间曝光",
-      "onboard_time": 1748748020,
-      "rank": 44,
-      "category": "海外新闻"
+      "raw_hot": 120047,
+      "num": 155075,
+      "word": "藏海传的地狱笑话",
+      "onboard_time": 1748750959,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117576,
+      "num": 117576,
+      "word": "上班建议不要太用力",
+      "onboard_time": 1748750240,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 115375,
@@ -649,14 +689,6 @@
       "onboard_time": 1748742501,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113987,
-      "num": 113987,
-      "word": "上班建议不要太用力",
-      "onboard_time": 1748750240,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 113587,
@@ -676,7 +708,7 @@
     },
     {
       "raw_hot": 109176,
-      "num": 118257,
+      "num": 154763,
       "word": "大人当久了想当一次小孩",
       "onboard_time": 1748750061,
       "rank": 43,
@@ -769,6 +801,14 @@
       "onboard_time": 1748697321,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95492,
+      "num": 313879,
+      "word": "小时候的快乐回来了",
+      "onboard_time": 1748747121,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93452,
@@ -891,12 +931,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81670,
-      "num": 257400,
-      "word": "小时候的快乐回来了",
-      "onboard_time": 1748747121,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 83140,
+      "num": 157341,
+      "word": "藏海ASMR",
+      "onboard_time": 1748747240,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 81465,
@@ -963,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76279,
+      "num": 157940,
+      "word": "labubu怎么爆改更好看",
+      "onboard_time": 1748751080,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 76213,
       "num": 76213,
       "word": "我骨折的时候也这样穿",
@@ -1009,14 +1057,6 @@
       "onboard_time": 1748701463,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69076,
-      "num": 145486,
-      "word": "藏海ASMR",
-      "onboard_time": 1748747240,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 66512,
@@ -1131,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51776,
+      "num": 401267,
+      "word": "大朋友小朋友们儿童节快乐",
+      "onboard_time": 1748749100,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50887,
       "num": 50887,
       "word": "王楚然丞磊配成这样成何体统",
@@ -1139,16 +1187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50390,
-      "num": 294128,
-      "word": "大朋友小朋友们儿童节快乐",
-      "onboard_time": 1748749100,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49272,
-      "num": 133049,
+      "num": 316232,
       "word": "运动员版小手办可爱值超标",
       "onboard_time": 1748747361,
       "rank": 37,
@@ -1204,7 +1244,7 @@
     },
     {
       "raw_hot": 37726,
-      "num": 237621,
+      "num": 300879,
       "word": "淘宝闪购和宋小宝一起送小堡",
       "onboard_time": 1748748979,
       "rank": 18,
@@ -1217,6 +1257,22 @@
       "onboard_time": 1748685860,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33766,
+      "num": 158115,
+      "word": "建议六一节按心理年龄过",
+      "onboard_time": 1748751022,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 32424,
+      "num": 283908,
+      "word": "美国一动物园园长涉嫌制毒被捕",
+      "onboard_time": 1748750660,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 32035,
@@ -1235,11 +1291,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30591,
+      "num": 295521,
+      "word": "有捏捏玩具甲醛超标40多倍",
+      "onboard_time": 1748750660,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30226,
       "num": 75994,
       "word": "俄罗斯一火车脱轨至少7人死亡",
       "onboard_time": 1748738118,
       "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29480,
+      "num": 168006,
+      "word": "法国禁止在儿童公共场所吸烟",
+      "onboard_time": 1748749222,
+      "rank": 28,
       "category": "海外新闻"
     },
     {
@@ -1257,6 +1329,14 @@
       "onboard_time": 1748742741,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27204,
+      "num": 294458,
+      "word": "梨型身材比其他身材更长寿吗",
+      "onboard_time": 1748749460,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 26914,
@@ -1283,28 +1363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24323,
-      "num": 237613,
-      "word": "梨型身材比其他身材更长寿吗",
-      "onboard_time": 1748749460,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 23543,
       "num": 23543,
       "word": "秦志远 圆满成功明天见",
       "onboard_time": 1748725754,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 23270,
-      "num": 165806,
-      "word": "法国禁止在儿童公共场所吸烟",
-      "onboard_time": 1748749222,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 17940,
@@ -1356,6 +1420,9 @@
     },
     {
       "word": "#总书记与孩子们的温暖瞬间#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }

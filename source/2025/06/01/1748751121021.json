@@ -1,0 +1,410 @@
+{
+  "runTime": 1748751121021,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 803991,
+        "num": 1128638,
+        "word": "网剧双轨",
+        "onboard_time": 1748747781,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404107,
+        "num": 404107,
+        "word": "孙颖莎云见面会",
+        "onboard_time": 1748747840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51776,
+        "num": 401267,
+        "word": "大朋友小朋友们儿童节快乐",
+        "onboard_time": 1748749100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 976870,
+        "num": 388230,
+        "word": "雷军疑似回应余承东",
+        "onboard_time": 1748746100,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 413243,
+        "num": 380615,
+        "word": "谭松韵疑似ABB式名字大户",
+        "onboard_time": 1748707819,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 479112,
+        "num": 374421,
+        "word": "樊振东加盟德甲联赛",
+        "onboard_time": 1748735057,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372181,
+        "num": 372181,
+        "word": "杭州一凶宅竞拍14轮后七五折成交",
+        "onboard_time": 1748740340,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323389,
+        "num": 323389,
+        "word": "借位吻戏",
+        "onboard_time": 1748738299,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317185,
+        "num": 317185,
+        "word": "罗云熙回应出演电竞男主",
+        "onboard_time": 1748749100,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46659,
+        "num": 316232,
+        "word": "运动员版小手办可爱值超标",
+        "onboard_time": 1748747361,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1308063,
+        "num": 315802,
+        "word": "樊振东10天前主动联系德甲俱乐部",
+        "onboard_time": 1748746460,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 725709,
+        "num": 314098,
+        "word": "沈梦辰被资本做局了",
+        "onboard_time": 1748736978,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95492,
+        "num": 313879,
+        "word": "小时候的快乐回来了",
+        "onboard_time": 1748747121,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621751,
+        "num": 312859,
+        "word": "塞尔维亚女孩乘滑翔伞疑突发恐慌坠亡",
+        "onboard_time": 1748747121,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 312038,
+        "num": 312038,
+        "word": "腾讯视频六月大剧片单",
+        "onboard_time": 1748750061,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463257,
+        "num": 309660,
+        "word": "向佐晒女儿正脸照",
+        "onboard_time": 1748742140,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37416,
+        "num": 300879,
+        "word": "淘宝闪购和宋小宝一起送小堡",
+        "onboard_time": 1748748979,
+        "rank": 16,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 30591,
+        "num": 295521,
+        "word": "有捏捏玩具甲醛超标40多倍",
+        "onboard_time": 1748750660,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27204,
+        "num": 294458,
+        "word": "梨型身材比其他身材更长寿吗",
+        "onboard_time": 1748749460,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32424,
+        "num": 283908,
+        "word": "美国一动物园园长涉嫌制毒被捕",
+        "onboard_time": 1748750660,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248606,
+        "num": 282440,
+        "word": "樊振东莫雷加德成为队友",
+        "onboard_time": 1748736018,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277063,
+        "num": 277063,
+        "word": "易烊千玺六一在房间里开山",
+        "onboard_time": 1748747479,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268485,
+        "num": 268485,
+        "word": "临江仙",
+        "onboard_time": 1748745200,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245619,
+        "num": 245619,
+        "word": "不敢相信这个大胖小子是高瀚宇",
+        "onboard_time": 1748748979,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81451,
+        "num": 244602,
+        "word": "这才是早起刷牙的真正原因",
+        "onboard_time": 1748733857,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244388,
+        "num": 244388,
+        "word": "一德克士店长用消费券套现13.7万",
+        "onboard_time": 1748743521,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204661,
+        "num": 204661,
+        "word": "老祖宗的审美才是高定奢侈品",
+        "onboard_time": 1748749998,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 183394,
+        "num": 183394,
+        "word": "陈伟霆曾舜晞陈瑶九门开机同框",
+        "onboard_time": 1748749400,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169062,
+        "num": 169062,
+        "word": "发条微博祝自己节日快乐",
+        "onboard_time": 1748749041,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 29480,
+        "num": 168006,
+        "word": "法国禁止在儿童公共场所吸烟",
+        "onboard_time": 1748749222,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167479,
+        "num": 167479,
+        "word": "六一",
+        "onboard_time": 1748750780,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 161889,
+        "num": 161889,
+        "word": "西亚卡姆东决MVP",
+        "onboard_time": 1748748861,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158330,
+        "num": 158330,
+        "word": "虞书欣陈靖可林述巍夹心摇",
+        "onboard_time": 1748750660,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33766,
+        "num": 158115,
+        "word": "建议六一节按心理年龄过",
+        "onboard_time": 1748751022,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76279,
+        "num": 157940,
+        "word": "labubu怎么爆改更好看",
+        "onboard_time": 1748751080,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 71489,
+        "num": 157578,
+        "word": "买房就等于一次性租70年房子吗",
+        "onboard_time": 1748749881,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 83140,
+        "num": 157341,
+        "word": "藏海ASMR",
+        "onboard_time": 1748747240,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157130,
+        "num": 157130,
+        "word": "儿童节",
+        "onboard_time": 1748734036,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 155954,
+        "num": 155954,
+        "word": "科目三没过竟然是因为一头牛",
+        "onboard_time": 1748745681,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120047,
+        "num": 155075,
+        "word": "藏海传的地狱笑话",
+        "onboard_time": 1748750959,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96072,
+        "num": 154763,
+        "word": "大人当久了想当一次小孩",
+        "onboard_time": 1748750061,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 154758,
+        "num": 154758,
+        "word": "AD钙奶",
+        "onboard_time": 1748743460,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145314,
+        "num": 145314,
+        "word": "樊振东说期待新挑战新环境新胜利",
+        "onboard_time": 1748743460,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143862,
+        "num": 143862,
+        "word": "丁真说我不可能一辈子纯真",
+        "onboard_time": 1748749280,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140044,
+        "num": 140044,
+        "word": "韩国地铁车厢起火瞬间曝光",
+        "onboard_time": 1748748020,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135094,
+        "num": 135094,
+        "word": "临江仙OST阵容官宣",
+        "onboard_time": 1748745379,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134342,
+        "num": 134342,
+        "word": "孙颖莎全红婵们等比例长大",
+        "onboard_time": 1748744841,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130474,
+        "num": 130474,
+        "word": "美国黄石公园车祸致中国公民5死8伤",
+        "onboard_time": 1748750959,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120736,
+        "num": 120736,
+        "word": "不知不觉成为能独当一面的大人了",
+        "onboard_time": 1748739139,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 117576,
+        "num": 117576,
+        "word": "上班建议不要太用力",
+        "onboard_time": 1748750240,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
