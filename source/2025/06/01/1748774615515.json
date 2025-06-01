@@ -1,0 +1,410 @@
+{
+  "runTime": 1748774615515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1149860,
+        "num": 1183977,
+        "word": "知情人回应迪士尼情侣和一家三口扭打",
+        "onboard_time": 1748772499,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 978264,
+        "num": 978264,
+        "word": "小学门口倒闭的店因爱重生了",
+        "onboard_time": 1748765241,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 33791,
+        "num": 504184,
+        "word": "大朋友小朋友们儿童节快乐",
+        "onboard_time": 1748749100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485935,
+        "num": 485935,
+        "word": "孙中山长孙女孙穗瑛去世",
+        "onboard_time": 1748764401,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378889,
+        "num": 378889,
+        "word": "孙颖莎杂志",
+        "onboard_time": 1748768420,
+        "rank": 4,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 346097,
+        "num": 346097,
+        "word": "藏海传全端破亿",
+        "onboard_time": 1748769620,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221604,
+        "num": 221604,
+        "word": "巴黎赢了球烧了城",
+        "onboard_time": 1748766443,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 209005,
+        "num": 209005,
+        "word": "一场雨让周深爆改林俊杰",
+        "onboard_time": 1748771781,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191138,
+        "num": 208894,
+        "word": "香暗荼咬藏海",
+        "onboard_time": 1748772140,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161036,
+        "num": 208536,
+        "word": "赵丽颖这么演我可要哭了",
+        "onboard_time": 1748773040,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507240,
+        "num": 208467,
+        "word": "林志玲回应缩脖子",
+        "onboard_time": 1748757740,
+        "rank": 10,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 476213,
+        "num": 208083,
+        "word": "比邓超还接受不了他变老",
+        "onboard_time": 1748767940,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445038,
+        "num": 207893,
+        "word": "在哈佛演讲中国女生陷入两难",
+        "onboard_time": 1748763020,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375270,
+        "num": 207608,
+        "word": "小泡芙变成中泡芙了",
+        "onboard_time": 1748757621,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19925,
+        "num": 207430,
+        "word": "假水玩具超半数硼迁移超标",
+        "onboard_time": 1748773580,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 301136,
+        "num": 207128,
+        "word": "交费和缴费的区别",
+        "onboard_time": 1748771000,
+        "rank": 15,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 206919,
+        "num": 206919,
+        "word": "龙族更新",
+        "onboard_time": 1748772140,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104209,
+        "num": 206702,
+        "word": "零跑连续3个月新势力销量第一",
+        "onboard_time": 1748772199,
+        "rank": 17,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 25498,
+        "num": 205856,
+        "word": "福建平潭路边骆驼被指瘦成纸片",
+        "onboard_time": 1748773701,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15349,
+        "num": 204892,
+        "word": "龙舟是如何控制方向的",
+        "onboard_time": 1748773880,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 305655,
+        "num": 204361,
+        "word": "祝你成为快乐的大人",
+        "onboard_time": 1748768600,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204139,
+        "num": 204139,
+        "word": "这是我认识的王俊凯吗",
+        "onboard_time": 1748759061,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194854,
+        "num": 194854,
+        "word": "原来7000块可以干这么多事",
+        "onboard_time": 1748767882,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185780,
+        "num": 185780,
+        "word": "丁禹兮儿童节cos尼克狐",
+        "onboard_time": 1748768661,
+        "rank": 23,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 181650,
+        "num": 181650,
+        "word": "有存款和无存款的区别",
+        "onboard_time": 1748764641,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152729,
+        "num": 152729,
+        "word": "大鹏娱乐圈人缘",
+        "onboard_time": 1748774180,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135617,
+        "num": 135617,
+        "word": "王安宇朕的哭妃变拽妃了",
+        "onboard_time": 1748773941,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131007,
+        "num": 131007,
+        "word": "白举纲谈歌手带来的影响",
+        "onboard_time": 1748774180,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120160,
+        "num": 120160,
+        "word": "在人间你搁那叠buff呢",
+        "onboard_time": 1748774061,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69866,
+        "num": 113306,
+        "word": "塞尔维亚女孩玩滑翔伞坠亡",
+        "onboard_time": 1748773999,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135333,
+        "num": 112527,
+        "word": "小沈阳演出女儿登台唱跳遭吐槽",
+        "onboard_time": 1748763260,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111531,
+        "num": 111531,
+        "word": "陈妍希晒与儿子洱海背影照",
+        "onboard_time": 1748757979,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110819,
+        "num": 110819,
+        "word": "陈梦是李嘉格母女的金牌调解员",
+        "onboard_time": 1748771421,
+        "rank": 32,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 110566,
+        "num": 110566,
+        "word": "六月第一天",
+        "onboard_time": 1748772140,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109930,
+        "num": 109930,
+        "word": "李昀锐六一猫和老鼠活动",
+        "onboard_time": 1748773759,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106342,
+        "num": 106342,
+        "word": "生病了忘了跟小猫请假",
+        "onboard_time": 1748774241,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104195,
+        "num": 104195,
+        "word": "六一",
+        "onboard_time": 1748750780,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 103841,
+        "num": 103841,
+        "word": "博士很有用的",
+        "onboard_time": 1748772561,
+        "rank": 37,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 57144,
+        "num": 103099,
+        "word": "老外在韩国被骗",
+        "onboard_time": 1748774422,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102656,
+        "num": 102656,
+        "word": "江苏省城市足球联赛",
+        "onboard_time": 1748772860,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 101832,
+        "num": 101832,
+        "word": "中国乒协理解和尊重樊振东意愿",
+        "onboard_time": 1748753001,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101078,
+        "num": 101078,
+        "word": "时全是曹公公义子",
+        "onboard_time": 1748754080,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96644,
+        "num": 96644,
+        "word": "王楚钦晒小朋友们的祝福",
+        "onboard_time": 1748755761,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95677,
+        "num": 95677,
+        "word": "垫底辣孩也在看藏海传",
+        "onboard_time": 1748774540,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93872,
+        "num": 93872,
+        "word": "173cm52kg辣妈一天到底吃点啥",
+        "onboard_time": 1748772620,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 91317,
+        "num": 91317,
+        "word": "藏海找到癸玺了",
+        "onboard_time": 1748756900,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89538,
+        "num": 89538,
+        "word": "九门官宣开机合影",
+        "onboard_time": 1748768062,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88959,
+        "num": 88959,
+        "word": "刘维直播剧透宋雨琦开场秀",
+        "onboard_time": 1748772680,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86219,
+        "num": 86219,
+        "word": "乐山等地震感明显",
+        "onboard_time": 1748774601,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83420,
+        "num": 83420,
+        "word": "马龙林孝埈王楚钦发送六一祝福",
+        "onboard_time": 1748772140,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的孩子缘#"
+    }
+  }
+}
