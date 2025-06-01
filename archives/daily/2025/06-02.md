@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/02 00:30:12 ~ 2025/06/02 04:40:52
+本榜单时间：2025/06/02 00:30:12 ~ 2025/06/02 05:23:14
 </p>
 </blockquote>
 <p>
@@ -411,6 +411,12 @@ WBG战胜JDG（热度：25985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%BC%80%E5%A7%8B%E4%B8%8D%E6%84%BF%E8%8A%B1%E9%92%B1%E4%BA%86%23" target="weibo">
+美国民众开始不愿花钱了（热度：12240）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B8%A4%E5%BA%A7%E6%A1%A5%E6%A2%81%E9%81%AD%E7%A0%B4%E5%9D%8F%E4%BA%8B%E4%BB%B6%E8%A2%AB%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%81%90%E8%A2%AD%23" target="weibo">
 俄两座桥梁遭破坏事件被定性为恐袭（热度：11954）
 </a>
@@ -425,6 +431,12 @@ WBG战胜JDG（热度：25985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E4%BD%A0%E6%88%90%E4%B8%BA%E5%BF%AB%E4%B9%90%E7%9A%84%E5%A4%A7%E4%BA%BA%23" target="weibo">
 祝你成为快乐的大人（热度：11269）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%AF%B4%E6%84%9F%E8%A7%89%E5%9C%A8%E6%88%98%E7%81%AB%E4%B8%AD%E6%B4%BB%E4%BA%86100%E5%B9%B4%23" target="weibo">
+加沙孩子说感觉在战火中活了100年（热度：10445）
 </a>
 </li>
 
