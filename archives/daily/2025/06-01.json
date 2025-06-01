@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748791495704,
+  "endTime": 1748792361557,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2570542,
-      "num": 2570542,
+      "raw_hot": 2752282,
+      "num": 2752282,
       "word": "上海警方通报迪士尼打架事件",
       "onboard_time": 1748787802,
       "rank": 15,
@@ -339,20 +339,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554863,
+      "num": 554863,
+      "word": "日不落",
+      "onboard_time": 1748789302,
+      "rank": 7,
+      "category": "体育,音乐"
+    },
+    {
       "raw_hot": 548101,
       "num": 548101,
       "word": "借位吻戏",
       "onboard_time": 1748738299,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 544757,
-      "num": 544757,
-      "word": "日不落",
-      "onboard_time": 1748789302,
-      "rank": 7,
-      "category": "体育,音乐"
     },
     {
       "raw_hot": 517367,
@@ -763,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295911,
+      "num": 218012,
+      "word": "刘宇宁涨粉",
+      "onboard_time": 1748791223,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291250,
       "num": 291250,
       "word": "瓶邪",
@@ -841,6 +849,14 @@
       "onboard_time": 1748778860,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272352,
+      "num": 428915,
+      "word": "8旬老人105万买基金亏30万状告银行",
+      "onboard_time": 1748786901,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268485,
@@ -923,14 +939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241171,
-      "num": 428915,
-      "word": "8旬老人105万买基金亏30万状告银行",
-      "onboard_time": 1748786901,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238044,
       "num": 238044,
       "word": "藏海传灯塔分时破千万",
@@ -987,20 +995,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218012,
-      "num": 218012,
-      "word": "刘宇宁涨粉",
-      "onboard_time": 1748791223,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216923,
       "num": 216923,
       "word": "樊振东加盟德甲联赛意味着什么",
       "onboard_time": 1748755461,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216413,
+      "num": 216413,
+      "word": "赵丽颖在人间大结局发文",
+      "onboard_time": 1748791341,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 216204,
@@ -1595,6 +1603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159665,
+      "num": 159665,
+      "word": "周震南 小小的老子连麦架都欺负",
+      "onboard_time": 1748791462,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159453,
       "num": 246584,
       "word": "孙颖莎问答案之书能突破自我吗",
@@ -1739,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146828,
+      "num": 146828,
+      "word": "王安宇壁纸",
+      "onboard_time": 1748791161,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146396,
       "num": 146396,
       "word": "小孩哥这可是水哥啊",
@@ -1836,7 +1860,7 @@
     },
     {
       "raw_hot": 141812,
-      "num": 141812,
+      "num": 195097,
       "word": "距今约3万年的山顶洞人身高曝光",
       "onboard_time": 1748787501,
       "rank": 44,
@@ -1873,22 +1897,6 @@
       "onboard_time": 1748748020,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 139643,
-      "num": 139643,
-      "word": "王安宇壁纸",
-      "onboard_time": 1748791161,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 138262,
-      "num": 138262,
-      "word": "赵丽颖在人间大结局发文",
-      "onboard_time": 1748791341,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 137734,
@@ -2155,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124943,
+      "num": 124943,
+      "word": "樊振东跟首冠地萨尔布吕肯再续前缘",
+      "onboard_time": 1748791282,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124503,
       "num": 124503,
       "word": "时全此刻比鬼还吓人",
@@ -2267,6 +2283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117340,
+      "num": 117340,
+      "word": "管泽元还在发力",
+      "onboard_time": 1748792001,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117196,
       "num": 117196,
       "word": "西双版纳3.6级地震",
@@ -2353,14 +2377,6 @@
       "onboard_time": 1748786481,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 112360,
-      "num": 112360,
-      "word": "樊振东跟首冠地萨尔布吕肯再续前缘",
-      "onboard_time": 1748791282,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 112182,
@@ -2547,6 +2563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105067,
+      "num": 105067,
+      "word": "郑钦文取胜后直接倒地庆祝",
+      "onboard_time": 1748790560,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104789,
       "num": 104789,
       "word": "黄觉好浓的枭雄感",
@@ -2569,6 +2593,14 @@
       "onboard_time": 1748785281,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104206,
+      "num": 104206,
+      "word": "潘玮柏帮陈小春军训",
+      "onboard_time": 1748792061,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 103803,
@@ -2627,14 +2659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102398,
-      "num": 102398,
-      "word": "郑钦文取胜后直接倒地庆祝",
-      "onboard_time": 1748790560,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102126,
       "num": 102126,
       "word": "第一次知道王勉的眼睛这么大",
@@ -2649,14 +2673,6 @@
       "onboard_time": 1748776701,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101899,
-      "num": 101899,
-      "word": "周震南 小小的老子连麦架都欺负",
-      "onboard_time": 1748791462,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 101710,
@@ -2811,6 +2827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94538,
+      "num": 94538,
+      "word": "维斯塔潘碰撞",
+      "onboard_time": 1748790082,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93916,
       "num": 93916,
       "word": "剧播两年又被肖战笑容暖到了",
@@ -2881,6 +2905,14 @@
       "onboard_time": 1748709499,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90841,
+      "num": 90841,
+      "word": "26年后南京五台山再现人浪",
+      "onboard_time": 1748792001,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 90565,
@@ -3249,6 +3281,14 @@
       "onboard_time": 1748759240,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66979,
+      "num": 259093,
+      "word": "超5万人参与所谓医疗投资被骗近十亿",
+      "onboard_time": 1748791761,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66656,

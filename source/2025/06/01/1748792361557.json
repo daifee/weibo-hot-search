@@ -1,0 +1,410 @@
+{
+  "runTime": 1748792361557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2752282,
+        "num": 2752282,
+        "word": "上海警方通报迪士尼打架事件",
+        "onboard_time": 1748787802,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 743329,
+        "num": 743329,
+        "word": "周深让你穿雨衣没让你穿这款",
+        "onboard_time": 1748785761,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37911,
+        "num": 619424,
+        "word": "非遗与童趣撞个满怀",
+        "onboard_time": 1748787742,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 606436,
+        "num": 606436,
+        "word": "藏海传第三人",
+        "onboard_time": 1748782522,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588680,
+        "num": 588680,
+        "word": "郑钦文晋级法网8强",
+        "onboard_time": 1748787682,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554863,
+        "num": 554863,
+        "word": "日不落",
+        "onboard_time": 1748789302,
+        "rank": 5,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 503466,
+        "num": 503466,
+        "word": "多次持刀砍邻居门女子被送精神鉴定",
+        "onboard_time": 1748786781,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494816,
+        "num": 494816,
+        "word": "乌克兰摧毁41架俄军战略轰炸机",
+        "onboard_time": 1748786121,
+        "rank": 7,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 435748,
+        "num": 435748,
+        "word": "李亚鹏拟将花费上亿幼儿园无偿移交",
+        "onboard_time": 1748785281,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329960,
+        "num": 329960,
+        "word": "印度网红直播猥亵土耳其导游",
+        "onboard_time": 1748775139,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 361074,
+        "num": 328873,
+        "word": "黄子韬徐艺洋在商量婚礼了",
+        "onboard_time": 1748777961,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324482,
+        "num": 324482,
+        "word": "白玉兰入围奖项全名单",
+        "onboard_time": 1748782283,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315736,
+        "num": 315736,
+        "word": "藏海传第三人你瞒得我好苦",
+        "onboard_time": 1748785941,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272352,
+        "num": 272352,
+        "word": "8旬老人105万买基金亏30万状告银行",
+        "onboard_time": 1748786901,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66979,
+        "num": 259093,
+        "word": "超5万人参与所谓医疗投资被骗近十亿",
+        "onboard_time": 1748791761,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252105,
+        "num": 252105,
+        "word": "郑钦文和法网观众合唱日不落",
+        "onboard_time": 1748790261,
+        "rank": 15,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 245029,
+        "num": 245029,
+        "word": "老九门",
+        "onboard_time": 1748784021,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231213,
+        "num": 231213,
+        "word": "李东健承认与姜海琳恋情",
+        "onboard_time": 1748783181,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216413,
+        "num": 216413,
+        "word": "赵丽颖在人间大结局发文",
+        "onboard_time": 1748791341,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201236,
+        "num": 201236,
+        "word": "西藏山南罕见红色精灵闪电",
+        "onboard_time": 1748782400,
+        "rank": 19,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 73771,
+        "num": 195097,
+        "word": "距今约3万年的山顶洞人身高曝光",
+        "onboard_time": 1748787501,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 295911,
+        "num": 189697,
+        "word": "刘宇宁涨粉",
+        "onboard_time": 1748791223,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212882,
+        "num": 183752,
+        "word": "藏海传收视率",
+        "onboard_time": 1748787562,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204842,
+        "num": 171783,
+        "word": "李昀锐翻牌",
+        "onboard_time": 1748789602,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166851,
+        "num": 166851,
+        "word": "小学门口倒闭的店因爱重生了",
+        "onboard_time": 1748765241,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 161651,
+        "num": 161651,
+        "word": "U16国足夺冠",
+        "onboard_time": 1748787201,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159665,
+        "num": 159665,
+        "word": "周震南 小小的老子连麦架都欺负",
+        "onboard_time": 1748791462,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154815,
+        "num": 154815,
+        "word": "学校换掉下课铃高三学生哭成泪人",
+        "onboard_time": 1748785401,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 146889,
+        "num": 146889,
+        "word": "迪士尼打架2人互有皮外伤",
+        "onboard_time": 1748789541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146828,
+        "num": 146828,
+        "word": "王安宇壁纸",
+        "onboard_time": 1748791161,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146380,
+        "num": 146380,
+        "word": "香暗荼这次失去致命一血",
+        "onboard_time": 1748786541,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141603,
+        "num": 141603,
+        "word": "藏海传灯塔分时破千万",
+        "onboard_time": 1748790382,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141095,
+        "num": 141095,
+        "word": "洗头后这个习惯会加重脱发",
+        "onboard_time": 1748781861,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124943,
+        "num": 124943,
+        "word": "樊振东跟首冠地萨尔布吕肯再续前缘",
+        "onboard_time": 1748791282,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123191,
+        "num": 123191,
+        "word": "冬夏女王死了",
+        "onboard_time": 1748779821,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121148,
+        "num": 121148,
+        "word": "白鹿90花cvb收视率断层登顶",
+        "onboard_time": 1748780361,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117340,
+        "num": 117340,
+        "word": "管泽元还在发力",
+        "onboard_time": 1748792001,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115263,
+        "num": 115263,
+        "word": "藏海传",
+        "onboard_time": 1748778260,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107391,
+        "num": 107391,
+        "word": "张杰演唱会",
+        "onboard_time": 1748789061,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105067,
+        "num": 105067,
+        "word": "郑钦文取胜后直接倒地庆祝",
+        "onboard_time": 1748790560,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104206,
+        "num": 104206,
+        "word": "潘玮柏帮陈小春军训",
+        "onboard_time": 1748792061,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102057,
+        "num": 102057,
+        "word": "碟中谍8",
+        "onboard_time": 1748790501,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100854,
+        "num": 100854,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1748788942,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100545,
+        "num": 100545,
+        "word": "郑钦文采访",
+        "onboard_time": 1748790861,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99360,
+        "num": 99360,
+        "word": "郑钦文vs萨姆索诺娃",
+        "onboard_time": 1748776581,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94538,
+        "num": 94538,
+        "word": "维斯塔潘碰撞",
+        "onboard_time": 1748790082,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93619,
+        "num": 93619,
+        "word": "法网2025",
+        "onboard_time": 1748790741,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92059,
+        "num": 92059,
+        "word": "李健演唱会遇暴雨全程不打伞",
+        "onboard_time": 1748780001,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90841,
+        "num": 90841,
+        "word": "26年后南京五台山再现人浪",
+        "onboard_time": 1748792001,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28567,
+        "num": 86599,
+        "word": "碳板鞋演变为中小学生装备竞赛",
+        "onboard_time": 1748790203,
+        "rank": 49,
+        "category": "民生新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系少年儿童健康成长#"
+    }
+  }
+}
