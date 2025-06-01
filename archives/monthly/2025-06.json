@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748751121021,
+  "endTime": 1748753650425,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1336827,
-      "num": 315802,
+      "num": 492081,
       "word": "樊振东10天前主动联系德甲俱乐部",
       "onboard_time": 1748746460,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1147442,
-      "num": 314098,
+      "num": 335551,
       "word": "沈梦辰被资本做局了",
       "onboard_time": 1748736978,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 976870,
-      "num": 388230,
+      "num": 487385,
       "word": "雷军疑似回应余承东",
       "onboard_time": 1748746100,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 834773,
-      "num": 309660,
+      "num": 328285,
       "word": "向佐晒女儿正脸照",
       "onboard_time": 1748742140,
       "rank": 11,
@@ -67,6 +67,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 666433,
+      "num": 666433,
+      "word": "美国黄石公园车祸致中国公民5死8伤",
+      "onboard_time": 1748750959,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 661753,
+      "num": 661753,
+      "word": "深圳关于6月1日不许下雨的通知",
+      "onboard_time": 1748752101,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 658988,
       "num": 305014,
       "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 621751,
-      "num": 312859,
+      "num": 326313,
       "word": "塞尔维亚女孩乘滑翔伞疑突发恐慌坠亡",
       "onboard_time": 1748747121,
       "rank": 12,
@@ -96,6 +112,22 @@
       "word": "借位吻戏",
       "onboard_time": 1748738299,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 500381,
+      "num": 500381,
+      "word": "乒协支持樊振东加盟德甲",
+      "onboard_time": 1748752520,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 480224,
+      "num": 480224,
+      "word": "腾讯视频六月大剧片单",
+      "onboard_time": 1748750061,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -155,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 391699,
+      "num": 391699,
+      "word": "全球名校疯抢哈佛留学生",
+      "onboard_time": 1748751681,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380417,
       "num": 172196,
       "word": "女装这种设计的意义在于没有意义",
@@ -193,14 +233,6 @@
       "onboard_time": 1748707040,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312038,
-      "num": 312038,
-      "word": "腾讯视频六月大剧片单",
-      "onboard_time": 1748750061,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 309216,
@@ -267,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263605,
+      "num": 263605,
+      "word": "王爷急着圆房我急着出生",
+      "onboard_time": 1748752639,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255979,
       "num": 255979,
       "word": "巴黎 姆巴佩",
@@ -299,6 +339,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248021,
+      "num": 228201,
+      "word": "恋与深空",
+      "onboard_time": 1748751859,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 244895,
+      "num": 244895,
+      "word": "中国乒协理解和尊重樊振东意愿",
+      "onboard_time": 1748753001,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
@@ -312,6 +368,14 @@
       "word": "剑来",
       "onboard_time": 1748703622,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216735,
+      "num": 216735,
+      "word": "陈伟霆赞助九门组服",
+      "onboard_time": 1748752579,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -363,12 +427,36 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 202960,
+      "num": 202960,
+      "word": "藏海传的地狱笑话",
+      "onboard_time": 1748750959,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198972,
+      "num": 246117,
+      "word": "虞书欣晒儿时旧照",
+      "onboard_time": 1748752760,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198864,
       "num": 145872,
       "word": "梨形身材是基因彩票",
       "onboard_time": 1748706320,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 196610,
+      "num": 277636,
+      "word": "薛之谦成功加班",
+      "onboard_time": 1748753001,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 195805,
@@ -401,6 +489,14 @@
       "onboard_time": 1748692342,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187127,
+      "num": 236782,
+      "word": "藏海传 大家都有丰富的夜生活",
+      "onboard_time": 1748751022,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 185539,
@@ -475,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170724,
+      "num": 170724,
+      "word": "11岁小孩哥说车惊呆围观路人",
+      "onboard_time": 1748752460,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 169637,
       "num": 169637,
       "word": "雷军晒童年照",
@@ -531,12 +635,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159453,
+      "num": 159453,
+      "word": "孙颖莎问答案之书能突破自我吗",
+      "onboard_time": 1748752881,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158330,
       "num": 158330,
       "word": "虞书欣陈靖可林述巍夹心摇",
       "onboard_time": 1748750660,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149557,
+      "num": 149557,
+      "word": "于正 省钱",
+      "onboard_time": 1748753240,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 145784,
@@ -569,6 +689,22 @@
       "onboard_time": 1748706621,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137371,
+      "num": 137371,
+      "word": "娜扎labubu拆盲盒",
+      "onboard_time": 1748751681,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136856,
+      "num": 136856,
+      "word": "哀牢山也是能拍电影的啊",
+      "onboard_time": 1748752160,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 136275,
@@ -611,14 +747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 130474,
-      "num": 130474,
-      "word": "美国黄石公园车祸致中国公民5死8伤",
-      "onboard_time": 1748750959,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 129049,
       "num": 227024,
       "word": "奴是希望他们慢点长大的意思",
@@ -659,14 +787,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 120047,
-      "num": 155075,
-      "word": "藏海传的地狱笑话",
-      "onboard_time": 1748750959,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117576,
       "num": 117576,
       "word": "上班建议不要太用力",
@@ -697,6 +817,14 @@
       "onboard_time": 1748744480,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 112182,
+      "num": 245354,
+      "word": "建议六一节按心理年龄过",
+      "onboard_time": 1748751022,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 111108,
@@ -769,6 +897,22 @@
       "onboard_time": 1748744420,
       "rank": 36,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 105223,
+      "num": 105223,
+      "word": "杜兰特真会投资",
+      "onboard_time": 1748753300,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102530,
+      "num": 102530,
+      "word": "娃哈哈回应AD钙奶兑换难",
+      "onboard_time": 1748753420,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101710,
@@ -1059,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71488,
+      "num": 108973,
+      "word": "潘展乐2009年童年照",
+      "onboard_time": 1748753540,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66512,
       "num": 66512,
       "word": "许嵩说把手伸五指合影叫端午",
@@ -1172,7 +1324,7 @@
     },
     {
       "raw_hot": 51776,
-      "num": 401267,
+      "num": 662833,
       "word": "大朋友小朋友们儿童节快乐",
       "onboard_time": 1748749100,
       "rank": 2,
@@ -1193,6 +1345,14 @@
       "onboard_time": 1748747361,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45637,
+      "num": 266624,
+      "word": "吃榴莲真的能缓解痛经吗",
+      "onboard_time": 1748751739,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 45498,
@@ -1257,14 +1417,6 @@
       "onboard_time": 1748685860,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33766,
-      "num": 158115,
-      "word": "建议六一节按心理年龄过",
-      "onboard_time": 1748751022,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 32424,
@@ -1347,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26067,
+      "num": 219928,
+      "word": "蚊子更喜欢叮体温高的人吗",
+      "onboard_time": 1748752339,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 25178,
       "num": 25178,
       "word": "TF家族四代端午创意龙舟",
@@ -1369,6 +1529,22 @@
       "onboard_time": 1748725754,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 22298,
+      "num": 226971,
+      "word": "赛龙舟水平最高在广东",
+      "onboard_time": 1748752040,
+      "rank": 28,
+      "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 19594,
+      "num": 274297,
+      "word": "夏日歌会机器人现场应援舞",
+      "onboard_time": 1748751380,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 17940,
