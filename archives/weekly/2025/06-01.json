@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748796388856,
+  "endTime": 1748798511378,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -731,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301224,
+      "num": 207282,
+      "word": "王安宇壁纸",
+      "onboard_time": 1748791161,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301026,
       "num": 301026,
       "word": "郑钦文和法网观众合唱日不落",
@@ -889,14 +897,6 @@
       "onboard_time": 1748733918,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255941,
-      "num": 207282,
-      "word": "王安宇壁纸",
-      "onboard_time": 1748791161,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 254424,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1748740219,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208360,
+      "num": 208360,
+      "word": "韩国首尔地铁纵火案嫌疑人被抓",
+      "onboard_time": 1748793021,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 207024,
@@ -2379,14 +2387,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 113387,
-      "num": 113387,
-      "word": "韩国首尔地铁纵火案嫌疑人被抓",
-      "onboard_time": 1748793021,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 113279,
       "num": 435499,
       "word": "乌克兰陆军司令已提交辞呈",
@@ -2995,6 +2995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88726,
+      "num": 82212,
+      "word": "何秋亊成都演唱会",
+      "onboard_time": 1748797578,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 87809,
       "num": 87809,
       "word": "想到找黄觉演平津侯的人真是天才",
@@ -3299,6 +3307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70305,
+      "num": 70305,
+      "word": "StrayKids洛杉矶演唱会上座率",
+      "onboard_time": 1748797457,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 69998,
       "num": 71952,
       "word": "张杰说大朋友在台下狂欢尖叫",
@@ -3345,6 +3361,14 @@
       "onboard_time": 1748792361,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68530,
+      "num": 71938,
+      "word": "边界感是一个人很重要的修养",
+      "onboard_time": 1748796079,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 66656,
@@ -3579,14 +3603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49050,
-      "num": 71938,
-      "word": "边界感是一个人很重要的修养",
-      "onboard_time": 1748796079,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 48297,
       "num": 224595,
       "word": "未来3天可能有地磁暴",
@@ -3739,6 +3755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39748,
+      "num": 48946,
+      "word": "萨尔布吕肯欧冠男团夺冠",
+      "onboard_time": 1748797937,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39235,
       "num": 40869,
       "word": "法网",
@@ -3785,6 +3809,14 @@
       "onboard_time": 1748685860,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36076,
+      "num": 48885,
+      "word": "陶喆福州",
+      "onboard_time": 1748797098,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 33681,

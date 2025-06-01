@@ -1,0 +1,410 @@
+{
+  "runTime": 1748798511378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1242549,
+        "num": 1242549,
+        "word": "上海警方通报迪士尼打架事件",
+        "onboard_time": 1748787802,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 374117,
+        "num": 374117,
+        "word": "周深让你穿雨衣没让你穿这款",
+        "onboard_time": 1748785761,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17874,
+        "num": 323857,
+        "word": "非遗与童趣撞个满怀",
+        "onboard_time": 1748787742,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280855,
+        "num": 280855,
+        "word": "藏海传第三人",
+        "onboard_time": 1748782522,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248353,
+        "num": 248353,
+        "word": "乌克兰摧毁41架俄军战略轰炸机",
+        "onboard_time": 1748786121,
+        "rank": 4,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 210521,
+        "num": 210521,
+        "word": "印度网红直播猥亵土耳其导游",
+        "onboard_time": 1748775139,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208360,
+        "num": 208360,
+        "word": "韩国首尔地铁纵火案嫌疑人被抓",
+        "onboard_time": 1748793021,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202363,
+        "num": 202363,
+        "word": "日不落",
+        "onboard_time": 1748789302,
+        "rank": 7,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 166073,
+        "num": 166073,
+        "word": "李亚鹏拟将花费上亿幼儿园无偿移交",
+        "onboard_time": 1748785281,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158802,
+        "num": 158802,
+        "word": "白玉兰入围奖项全名单",
+        "onboard_time": 1748782283,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301224,
+        "num": 155855,
+        "word": "王安宇壁纸",
+        "onboard_time": 1748791161,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151595,
+        "num": 151595,
+        "word": "黄子韬徐艺洋在商量婚礼了",
+        "onboard_time": 1748777961,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143996,
+        "num": 143996,
+        "word": "藏海传第三人你瞒得我好苦",
+        "onboard_time": 1748785941,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141191,
+        "num": 141191,
+        "word": "赵丽颖在人间大结局发文",
+        "onboard_time": 1748791341,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125682,
+        "num": 125682,
+        "word": "西藏山南罕见红色精灵闪电",
+        "onboard_time": 1748782400,
+        "rank": 14,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 123913,
+        "num": 123913,
+        "word": "郑钦文晋级法网8强",
+        "onboard_time": 1748787682,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115516,
+        "num": 115516,
+        "word": "多次持刀砍邻居门女子被送精神鉴定",
+        "onboard_time": 1748786781,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99947,
+        "num": 99947,
+        "word": "老九门",
+        "onboard_time": 1748784021,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92625,
+        "num": 92625,
+        "word": "白鹿90花cvb收视率断层登顶",
+        "onboard_time": 1748780361,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88013,
+        "num": 88013,
+        "word": "迪士尼打架2人互有皮外伤",
+        "onboard_time": 1748789541,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114299,
+        "num": 86320,
+        "word": "刘宇宁涨粉",
+        "onboard_time": 1748791223,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92293,
+        "num": 83651,
+        "word": "洗头后这个习惯会加重脱发",
+        "onboard_time": 1748781861,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88726,
+        "num": 82212,
+        "word": "何秋亊成都演唱会",
+        "onboard_time": 1748797578,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79897,
+        "num": 79897,
+        "word": "六月第一天",
+        "onboard_time": 1748772140,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73722,
+        "num": 73722,
+        "word": "王楚钦说等我们见面一起玩",
+        "onboard_time": 1748793141,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71935,
+        "num": 71935,
+        "word": "藏海传",
+        "onboard_time": 1748778260,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70305,
+        "num": 70305,
+        "word": "StrayKids洛杉矶演唱会上座率",
+        "onboard_time": 1748797457,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68530,
+        "num": 68530,
+        "word": "边界感是一个人很重要的修养",
+        "onboard_time": 1748796079,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66612,
+        "num": 66612,
+        "word": "李昀锐翻牌",
+        "onboard_time": 1748789602,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64829,
+        "num": 64829,
+        "word": "苹果手机 地震预警",
+        "onboard_time": 1748774720,
+        "rank": 29,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 59749,
+        "num": 59749,
+        "word": "郑钦文和法网观众合唱日不落",
+        "onboard_time": 1748790261,
+        "rank": 30,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 57974,
+        "num": 57974,
+        "word": "8旬老人105万买基金亏30万状告银行",
+        "onboard_time": 1748786901,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55424,
+        "num": 55424,
+        "word": "李东健承认与姜海琳恋情",
+        "onboard_time": 1748783181,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55002,
+        "num": 55002,
+        "word": "关注俄乌局势最新进展",
+        "onboard_time": 1748785882,
+        "rank": 33,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 53452,
+        "num": 53452,
+        "word": "藏海传收视率",
+        "onboard_time": 1748787562,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51808,
+        "num": 51808,
+        "word": "小学门口倒闭的店因爱重生了",
+        "onboard_time": 1748765241,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 51255,
+        "num": 51255,
+        "word": "周震南 小小的老子连麦架都欺负",
+        "onboard_time": 1748791462,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49971,
+        "num": 49971,
+        "word": "冬夏女王死了",
+        "onboard_time": 1748779821,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49150,
+        "num": 49150,
+        "word": "U16国足夺冠",
+        "onboard_time": 1748787201,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49020,
+        "num": 49020,
+        "word": "学校换掉下课铃高三学生哭成泪人",
+        "onboard_time": 1748785401,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 46197,
+        "num": 49009,
+        "word": "李健演唱会遇暴雨全程不打伞",
+        "onboard_time": 1748780001,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43788,
+        "num": 49004,
+        "word": "碟中谍8",
+        "onboard_time": 1748790501,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40910,
+        "num": 48990,
+        "word": "郑钦文vs萨姆索诺娃",
+        "onboard_time": 1748776581,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40457,
+        "num": 48968,
+        "word": "距今约3万年的山顶洞人身高曝光",
+        "onboard_time": 1748787501,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 40343,
+        "num": 48954,
+        "word": "曹公公怎么这么难杀",
+        "onboard_time": 1748779760,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39748,
+        "num": 48946,
+        "word": "萨尔布吕肯欧冠男团夺冠",
+        "onboard_time": 1748797937,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39081,
+        "num": 48927,
+        "word": "管泽元还在发力",
+        "onboard_time": 1748792001,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38177,
+        "num": 48916,
+        "word": "周深的脑洞",
+        "onboard_time": 1748795420,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37972,
+        "num": 48899,
+        "word": "香暗荼这次失去致命一血",
+        "onboard_time": 1748786541,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36076,
+        "num": 48885,
+        "word": "陶喆福州",
+        "onboard_time": 1748797098,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的孩子缘#"
+    }
+  }
+}

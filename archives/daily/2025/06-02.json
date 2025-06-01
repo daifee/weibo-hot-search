@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748796388856,
+  "endTime": 1748798511378,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -59,6 +59,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 301224,
+      "num": 207282,
+      "word": "王安宇壁纸",
+      "onboard_time": 1748791161,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300824,
       "num": 300824,
       "word": "李亚鹏拟将花费上亿幼儿园无偿移交",
@@ -88,14 +96,6 @@
       "word": "黄子韬徐艺洋在商量婚礼了",
       "onboard_time": 1748777961,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 255941,
-      "num": 207282,
-      "word": "王安宇壁纸",
-      "onboard_time": 1748791161,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1748787562,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208360,
+      "num": 208360,
+      "word": "韩国首尔地铁纵火案嫌疑人被抓",
+      "onboard_time": 1748793021,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 206420,
@@ -211,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113387,
-      "num": 113387,
-      "word": "韩国首尔地铁纵火案嫌疑人被抓",
-      "onboard_time": 1748793021,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 111076,
       "num": 111076,
       "word": "藏海传",
@@ -289,6 +289,14 @@
       "onboard_time": 1748790501,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88726,
+      "num": 82212,
+      "word": "何秋亊成都演唱会",
+      "onboard_time": 1748797578,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 87949,
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70305,
+      "num": 70305,
+      "word": "StrayKids洛杉矶演唱会上座率",
+      "onboard_time": 1748797457,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 69998,
       "num": 71952,
       "word": "张杰说大朋友在台下狂欢尖叫",
@@ -395,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68530,
+      "num": 71938,
+      "word": "边界感是一个人很重要的修养",
+      "onboard_time": 1748796079,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66035,
       "num": 71981,
       "word": "管泽元还在发力",
@@ -403,12 +427,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 49050,
-      "num": 71938,
-      "word": "边界感是一个人很重要的修养",
-      "onboard_time": 1748796079,
+      "raw_hot": 40343,
+      "num": 48954,
+      "word": "曹公公怎么这么难杀",
+      "onboard_time": 1748779760,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 39748,
+      "num": 48946,
+      "word": "萨尔布吕肯欧冠男团夺冠",
+      "onboard_time": 1748797937,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36076,
+      "num": 48885,
+      "word": "陶喆福州",
+      "onboard_time": 1748797098,
       "rank": 49,
-      "category": "情感"
+      "category": "演出"
     },
     {
       "raw_hot": 27818,
