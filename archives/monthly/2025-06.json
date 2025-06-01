@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748762675062,
+  "endTime": 1748763536176,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 585658,
+      "num": 1093705,
+      "word": "这是我认识的王俊凯吗",
+      "onboard_time": 1748759061,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548101,
       "num": 548101,
       "word": "借位吻戏",
@@ -177,6 +185,14 @@
       "onboard_time": 1748755761,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 483920,
+      "num": 483920,
+      "word": "雷军删掉诋毁原文",
+      "onboard_time": 1748763499,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 480224,
@@ -243,14 +259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 394862,
-      "num": 287538,
-      "word": "这是我认识的王俊凯吗",
-      "onboard_time": 1748759061,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394117,
       "num": 175223,
       "word": "李昀锐关晓彤海边拥抱",
@@ -315,12 +323,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 336226,
+      "num": 258048,
+      "word": "歼20垂直起降",
+      "onboard_time": 1748760980,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 333174,
       "num": 333174,
       "word": "五哈下一期有王俊凯",
       "onboard_time": 1748754381,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327326,
+      "num": 258038,
+      "word": "月都花落 杨洋",
+      "onboard_time": 1748761100,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 316925,
@@ -353,6 +377,14 @@
       "onboard_time": 1748739139,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 300821,
+      "num": 258031,
+      "word": "鞠婧祎国内杂志销量第一",
+      "onboard_time": 1748760380,
+      "rank": 33,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 298359,
@@ -411,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271256,
-      "num": 133464,
-      "word": "歼20垂直起降",
-      "onboard_time": 1748760980,
-      "rank": 31,
-      "category": "军事"
-    },
-    {
       "raw_hot": 268485,
       "num": 268485,
       "word": "临江仙",
@@ -441,14 +465,6 @@
       "onboard_time": 1748733918,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255585,
-      "num": 255585,
-      "word": "鞠婧祎国内杂志销量第一",
-      "onboard_time": 1748760380,
-      "rank": 33,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 254424,
@@ -497,14 +513,6 @@
       "onboard_time": 1748733918,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224700,
-      "num": 224700,
-      "word": "月都花落 杨洋",
-      "onboard_time": 1748761100,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 218804,
@@ -899,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144009,
+      "num": 144009,
+      "word": "在哈佛演讲中国女生陷入两难",
+      "onboard_time": 1748763020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143841,
       "num": 141747,
       "word": "王鹤棣差点给王耀庆一脚",
@@ -929,6 +945,14 @@
       "onboard_time": 1748744119,
       "rank": 27,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 140139,
+      "num": 127892,
+      "word": "曹操没骗人 北方果然不擅水战",
+      "onboard_time": 1748760439,
+      "rank": 46,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 140044,
@@ -1147,12 +1171,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 119132,
+      "num": 119132,
+      "word": "小沈阳演出女儿登台唱跳遭吐槽",
+      "onboard_time": 1748763260,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118919,
       "num": 118919,
       "word": "张碧晨你往视频里加了什么",
       "onboard_time": 1748756539,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117460,
+      "num": 104486,
+      "word": "小沈阳演唱会嘉宾是女儿",
+      "onboard_time": 1748761220,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 115375,
@@ -1275,22 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104367,
-      "num": 104367,
-      "word": "曹操没骗人 北方果然不擅水战",
-      "onboard_time": 1748760439,
-      "rank": 46,
-      "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 104168,
-      "num": 104168,
-      "word": "小沈阳演唱会嘉宾是女儿",
-      "onboard_time": 1748761220,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 102530,
       "num": 102530,
       "word": "娃哈哈回应AD钙奶兑换难",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1748733436,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93356,
+      "num": 93356,
+      "word": "权志龙音乐节直播",
+      "onboard_time": 1748763440,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 92483,
@@ -1659,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69950,
+      "num": 146401,
+      "word": "覃海洋晒童年泳照",
+      "onboard_time": 1748763260,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69279,
       "num": 209584,
       "word": "直击第22届香格里拉对话会",
@@ -1859,6 +1899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 43150,
+      "num": 283681,
+      "word": "千百年前的萌娃们都玩啥",
+      "onboard_time": 1748762060,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43083,
       "num": 43083,
       "word": "被龙舟赛的最后冲刺燃到了",
@@ -1875,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40866,
+      "num": 99086,
+      "word": "拍完好东西女儿被王茉莉附身了",
+      "onboard_time": 1748763320,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40609,
       "num": 42225,
       "word": "TheShy真尽力了",
@@ -1889,14 +1945,6 @@
       "onboard_time": 1748704161,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38631,
-      "num": 283681,
-      "word": "千百年前的萌娃们都玩啥",
-      "onboard_time": 1748762060,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37726,
@@ -1969,6 +2017,14 @@
       "onboard_time": 1748749222,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29033,
+      "num": 258019,
+      "word": "有网售儿童凉鞋增塑剂最高超标509倍",
+      "onboard_time": 1748762900,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28724,
@@ -2083,12 +2139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15954,
+      "num": 185553,
+      "word": "广东为什么这么热爱赛龙舟",
+      "onboard_time": 1748762540,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 15037,
       "num": 209729,
       "word": "龙舟破浪而出气势如虹",
       "onboard_time": 1748753841,
       "rank": 29,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 14950,
+      "num": 134116,
+      "word": "练肩背能有效预防面部松弛吗",
+      "onboard_time": 1748762240,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 12332,
@@ -2115,28 +2187,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10428,
-      "num": 134116,
-      "word": "练肩背能有效预防面部松弛吗",
-      "onboard_time": 1748762240,
-      "rank": 29,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 10186,
       "num": 183620,
       "word": "想瘦的年轻人狂炫绿化带",
       "onboard_time": 1748756359,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9513,
-      "num": 133568,
-      "word": "广东为什么这么热爱赛龙舟",
-      "onboard_time": 1748762540,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 6069,
