@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748816651388,
+  "endTime": 1748817746306,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -1243,6 +1243,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 191366,
+      "num": 191366,
+      "word": "美国民众开始不愿花钱了",
+      "onboard_time": 1748812153,
+      "rank": 39,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 190633,
       "num": 190633,
       "word": "WBG空ban",
@@ -2417,14 +2425,6 @@
       "onboard_time": 1748776220,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111445,
-      "num": 111445,
-      "word": "美国民众开始不愿花钱了",
-      "onboard_time": 1748812153,
-      "rank": 39,
-      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 111183,
@@ -3939,6 +3939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28649,
+      "num": 28649,
+      "word": "缺爱的人害怕进入亲密关系",
+      "onboard_time": 1748814675,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27974,
       "num": 222047,
       "word": "龙舟选手比赛太用力划第二下桨断了",
@@ -4067,6 +4075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23034,
+      "num": 27016,
+      "word": "奴奴荼荼咬唇吻",
+      "onboard_time": 1748815875,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22364,
       "num": 167955,
       "word": "被中国的非遗震撼到了",
@@ -4107,14 +4123,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 20840,
-      "num": 27110,
-      "word": "缺爱的人害怕进入亲密关系",
-      "onboard_time": 1748814675,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 19938,
       "num": 580562,
       "word": "端午遇六一彰显别样活力",
@@ -4147,12 +4155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18246,
+      "raw_hot": 18853,
       "num": 27057,
       "word": "加沙孩子说感觉在战火中活了100年",
       "onboard_time": 1748812153,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18002,
+      "num": 27020,
+      "word": "林俊杰来了演员3都得背对背吵架",
+      "onboard_time": 1748804534,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 17940,
@@ -4177,14 +4193,6 @@
       "onboard_time": 1748719155,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16789,
-      "num": 27020,
-      "word": "林俊杰来了演员3都得背对背吵架",
-      "onboard_time": 1748804534,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 15954,
@@ -4217,14 +4225,6 @@
       "onboard_time": 1748762240,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 14061,
-      "num": 27016,
-      "word": "奴奴荼荼咬唇吻",
-      "onboard_time": 1748815875,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 12332,
