@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748798511378,
+  "endTime": 1748799604533,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -259,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99576,
+      "num": 99576,
+      "word": "何秋亊成都演唱会",
+      "onboard_time": 1748797578,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97996,
       "num": 97996,
       "word": "周震南 小小的老子连麦架都欺负",
@@ -289,14 +297,6 @@
       "onboard_time": 1748790501,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 88726,
-      "num": 82212,
-      "word": "何秋亊成都演唱会",
-      "onboard_time": 1748797578,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 87949,
@@ -443,11 +443,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36984,
+      "num": 36984,
+      "word": "有事回童年一趟",
+      "onboard_time": 1748799197,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 36076,
       "num": 48885,
       "word": "陶喆福州",
       "onboard_time": 1748797098,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 32199,
+      "num": 32199,
+      "word": "张杰演唱会",
+      "onboard_time": 1748789061,
+      "rank": 48,
       "category": "演出"
     },
     {

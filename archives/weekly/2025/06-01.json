@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748798511378,
+  "endTime": 1748799604533,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -2739,6 +2739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99576,
+      "num": 99576,
+      "word": "何秋亊成都演唱会",
+      "onboard_time": 1748797578,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 98952,
       "num": 98952,
       "word": "JDG对战WBG",
@@ -2993,14 +3001,6 @@
       "onboard_time": 1748707401,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 88726,
-      "num": 82212,
-      "word": "何秋亊成都演唱会",
-      "onboard_time": 1748797578,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 87809,
@@ -3785,6 +3785,14 @@
       "onboard_time": 1748748979,
       "rank": 18,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 36984,
+      "num": 36984,
+      "word": "有事回童年一趟",
+      "onboard_time": 1748799197,
+      "rank": 38,
+      "category": "正能量"
     },
     {
       "raw_hot": 36726,
