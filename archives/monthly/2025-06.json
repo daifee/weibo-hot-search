@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748753650425,
+  "endTime": 1748755539821,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1336827,
-      "num": 492081,
+      "num": 630020,
       "word": "樊振东10天前主动联系德甲俱乐部",
       "onboard_time": 1748746460,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1147442,
-      "num": 335551,
+      "num": 439728,
       "word": "沈梦辰被资本做局了",
       "onboard_time": 1748736978,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 834773,
-      "num": 328285,
+      "num": 365532,
       "word": "向佐晒女儿正脸照",
       "onboard_time": 1748742140,
       "rank": 11,
@@ -67,20 +67,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 666433,
-      "num": 666433,
-      "word": "美国黄石公园车祸致中国公民5死8伤",
-      "onboard_time": 1748750959,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 661753,
+      "raw_hot": 750603,
       "num": 661753,
       "word": "深圳关于6月1日不许下雨的通知",
       "onboard_time": 1748752101,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 718531,
+      "num": 1114964,
+      "word": "中国乒协理解和尊重樊振东意愿",
+      "onboard_time": 1748753001,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 691617,
+      "num": 643678,
+      "word": "王爷急着圆房我急着出生",
+      "onboard_time": 1748752639,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 685203,
+      "num": 685203,
+      "word": "美国黄石公园车祸致中国公民5死8伤",
+      "onboard_time": 1748750959,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 658988,
@@ -99,6 +115,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 618708,
+      "num": 618708,
+      "word": "乒协支持樊振东加盟德甲",
+      "onboard_time": 1748752520,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 605272,
+      "num": 605272,
+      "word": "张萌签约王星",
+      "onboard_time": 1748753901,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 599252,
       "num": 599252,
       "word": "樊振东莫雷加德成为队友",
@@ -113,14 +145,6 @@
       "onboard_time": 1748738299,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 500381,
-      "num": 500381,
-      "word": "乒协支持樊振东加盟德甲",
-      "onboard_time": 1748752520,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 480224,
@@ -144,6 +168,22 @@
       "word": "一德克士店长用消费券套现13.7万",
       "onboard_time": 1748743521,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445794,
+      "num": 445794,
+      "word": "时全是曹公公义子",
+      "onboard_time": 1748754080,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 438681,
+      "num": 438681,
+      "word": "全球名校疯抢哈佛留学生",
+      "onboard_time": 1748751681,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -185,14 +225,6 @@
       "onboard_time": 1748698102,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 391699,
-      "num": 391699,
-      "word": "全球名校疯抢哈佛留学生",
-      "onboard_time": 1748751681,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 380417,
@@ -299,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263605,
-      "num": 263605,
-      "word": "王爷急着圆房我急着出生",
-      "onboard_time": 1748752639,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255979,
       "num": 255979,
       "word": "巴黎 姆巴佩",
@@ -347,12 +371,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 244895,
-      "num": 244895,
-      "word": "中国乒协理解和尊重樊振东意愿",
-      "onboard_time": 1748753001,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 246577,
+      "num": 246577,
+      "word": "陈伟霆赞助九门组服",
+      "onboard_time": 1748752579,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244856,
+      "num": 244856,
+      "word": "五哈下一期有王俊凯",
+      "onboard_time": 1748754381,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 232346,
@@ -368,14 +400,6 @@
       "word": "剑来",
       "onboard_time": 1748703622,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 216735,
-      "num": 216735,
-      "word": "陈伟霆赞助九门组服",
-      "onboard_time": 1748752579,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 198972,
-      "num": 246117,
+      "num": 248225,
       "word": "虞书欣晒儿时旧照",
       "onboard_time": 1748752760,
       "rank": 22,
@@ -491,6 +515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192311,
+      "num": 192311,
+      "word": "马伯骞让章若楠选一个桑延",
+      "onboard_time": 1748754500,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192221,
+      "num": 192221,
+      "word": "柯淳改口要演长剧了",
+      "onboard_time": 1748754320,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187127,
       "num": 236782,
       "word": "藏海传 大家都有丰富的夜生活",
@@ -521,6 +561,14 @@
       "onboard_time": 1748743759,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181743,
+      "num": 440601,
+      "word": "樊振东6月仍会出战中国乒超",
+      "onboard_time": 1748754021,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 181569,
@@ -636,7 +684,7 @@
     },
     {
       "raw_hot": 159453,
-      "num": 159453,
+      "num": 246584,
       "word": "孙颖莎问答案之书能突破自我吗",
       "onboard_time": 1748752881,
       "rank": 34,
@@ -665,6 +713,14 @@
       "onboard_time": 1748749280,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141589,
+      "num": 366376,
+      "word": "饿了么请蓝盈莹竟源自网友玩梗",
+      "onboard_time": 1748754080,
+      "rank": 14,
+      "category": "互联网,作品衍生"
     },
     {
       "raw_hot": 140482,
@@ -723,6 +779,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136042,
+      "num": 136042,
+      "word": "美延长对中国301条款关税的部分豁免",
+      "onboard_time": 1748755220,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 133699,
+      "num": 133699,
+      "word": "樊振东加盟德甲联赛意味着什么",
+      "onboard_time": 1748755461,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132765,
       "num": 132765,
       "word": "平津侯讨厌被说老",
@@ -747,12 +819,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130047,
+      "num": 130047,
+      "word": "许嵩 就算埋头做包子一样会有出路",
+      "onboard_time": 1748755339,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129700,
+      "num": 129700,
+      "word": "刘浩存晋江现言女主有脸了",
+      "onboard_time": 1748754201,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129049,
       "num": 227024,
       "word": "奴是希望他们慢点长大的意思",
       "onboard_time": 1748736138,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127148,
+      "num": 127148,
+      "word": "上班建议不要太用力",
+      "onboard_time": 1748750240,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 125167,
@@ -787,14 +883,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 117576,
-      "num": 117576,
-      "word": "上班建议不要太用力",
-      "onboard_time": 1748750240,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 115375,
       "num": 115375,
       "word": "长期喝水与喝茶的区别",
@@ -820,7 +908,7 @@
     },
     {
       "raw_hot": 112182,
-      "num": 245354,
+      "num": 246599,
       "word": "建议六一节按心理年龄过",
       "onboard_time": 1748751022,
       "rank": 33,
@@ -833,6 +921,14 @@
       "onboard_time": 1748749821,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110053,
+      "num": 268332,
+      "word": "京东铁皮小青蛙",
+      "onboard_time": 1748754320,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 109176,
@@ -905,6 +1001,14 @@
       "onboard_time": 1748753300,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104011,
+      "num": 213039,
+      "word": "于正说临江仙集均打底6000",
+      "onboard_time": 1748755100,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 102530,
@@ -1324,7 +1428,7 @@
     },
     {
       "raw_hot": 51776,
-      "num": 662833,
+      "num": 676896,
       "word": "大朋友小朋友们儿童节快乐",
       "onboard_time": 1748749100,
       "rank": 2,
@@ -1483,12 +1587,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27725,
+      "num": 265231,
+      "word": "早上是先刷牙还是吃完早餐再刷",
+      "onboard_time": 1748754139,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 27204,
       "num": 294458,
       "word": "梨型身材比其他身材更长寿吗",
       "onboard_time": 1748749460,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27169,
+      "num": 134805,
+      "word": "喜人被儿童节做局了",
+      "onboard_time": 1748755520,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26914,
@@ -1561,6 +1681,14 @@
       "onboard_time": 1748719155,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15037,
+      "num": 209729,
+      "word": "龙舟破浪而出气势如虹",
+      "onboard_time": 1748753841,
+      "rank": 29,
+      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 12332,
