@@ -1,0 +1,410 @@
+{
+  "runTime": 1748777805440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 463173,
+        "num": 1074107,
+        "word": "小学门口倒闭的店因爱重生了",
+        "onboard_time": 1748765241,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 316226,
+        "num": 316226,
+        "word": "赵丽颖这么演我可要哭了",
+        "onboard_time": 1748773040,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44635,
+        "num": 315557,
+        "word": "和院士一起科学过六一",
+        "onboard_time": 1748775680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1615973,
+        "num": 315283,
+        "word": "印度网红直播猥亵土耳其导游",
+        "onboard_time": 1748775139,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 314945,
+        "num": 314945,
+        "word": "苹果手机 地震预警",
+        "onboard_time": 1748774720,
+        "rank": 4,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 269077,
+        "num": 269077,
+        "word": "孙颖莎杂志",
+        "onboard_time": 1748768420,
+        "rank": 5,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 267639,
+        "num": 267639,
+        "word": "藏海传全端破亿",
+        "onboard_time": 1748769620,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242715,
+        "num": 242715,
+        "word": "郑钦文vs萨姆索诺娃",
+        "onboard_time": 1748776581,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226815,
+        "num": 226815,
+        "word": "孙中山长孙女孙穗瑛去世",
+        "onboard_time": 1748764401,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41628,
+        "num": 226434,
+        "word": "中方专家驳斥菲防长发言",
+        "onboard_time": 1748776340,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 671625,
+        "num": 225385,
+        "word": "比邓超还接受不了他变老",
+        "onboard_time": 1748767940,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48297,
+        "num": 224595,
+        "word": "未来3天可能有地磁暴",
+        "onboard_time": 1748777421,
+        "rank": 11,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 424272,
+        "num": 224320,
+        "word": "林志玲回应缩脖子",
+        "onboard_time": 1748757740,
+        "rank": 12,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 26338,
+        "num": 223196,
+        "word": "重见天日千佛石窟未来仍会被淹没",
+        "onboard_time": 1748777361,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87336,
+        "num": 222665,
+        "word": "男子谎称替剧组租车后私自抵押",
+        "onboard_time": 1748776040,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222072,
+        "num": 222072,
+        "word": "一场雨让周深爆改林俊杰",
+        "onboard_time": 1748771781,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193816,
+        "num": 222066,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1748777179,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190427,
+        "num": 222059,
+        "word": "井胧说好的一起住怎么都搬家了",
+        "onboard_time": 1748776881,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22222,
+        "num": 222052,
+        "word": "便秘最容易忽视的成因是什么",
+        "onboard_time": 1748777480,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27974,
+        "num": 222047,
+        "word": "龙舟选手比赛太用力划第二下桨断了",
+        "onboard_time": 1748777301,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1389538,
+        "num": 222044,
+        "word": "知情人回应迪士尼情侣和一家三口扭打",
+        "onboard_time": 1748772499,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299211,
+        "num": 222037,
+        "word": "小泡芙变成中泡芙了",
+        "onboard_time": 1748757621,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222031,
+        "num": 222031,
+        "word": "交费和缴费的区别",
+        "onboard_time": 1748771000,
+        "rank": 22,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 169191,
+        "num": 195202,
+        "word": "肖战藏海传第三周追剧日历",
+        "onboard_time": 1748775800,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187974,
+        "num": 187974,
+        "word": "90后过六一能有多任性",
+        "onboard_time": 1748776820,
+        "rank": 24,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 158186,
+        "num": 158186,
+        "word": "香暗荼咬藏海",
+        "onboard_time": 1748772140,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147312,
+        "num": 147312,
+        "word": "丁禹兮儿童节cos尼克狐",
+        "onboard_time": 1748768661,
+        "rank": 26,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 26599,
+        "num": 147020,
+        "word": "粽子是一种高血糖反应食物吗",
+        "onboard_time": 1748776400,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24455,
+        "num": 144535,
+        "word": "猎德村龙舟文化与其他地区区别是什么",
+        "onboard_time": 1748777480,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 21470,
+        "num": 143461,
+        "word": "上帝视角带你看佛山叠滘龙船漂移",
+        "onboard_time": 1748777421,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184130,
+        "num": 141255,
+        "word": "老外在韩国被骗",
+        "onboard_time": 1748774422,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140602,
+        "num": 140602,
+        "word": "有存款和无存款的区别",
+        "onboard_time": 1748764641,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149266,
+        "num": 140400,
+        "word": "这是我认识的王俊凯吗",
+        "onboard_time": 1748759061,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120091,
+        "num": 140174,
+        "word": "黄子弘凡音乐节",
+        "onboard_time": 1748776400,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140059,
+        "num": 140059,
+        "word": "原来7000块可以干这么多事",
+        "onboard_time": 1748767882,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137679,
+        "num": 137679,
+        "word": "仙逆",
+        "onboard_time": 1748775200,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133951,
+        "num": 133951,
+        "word": "王楚钦赵心童成就顶峰相见佳话",
+        "onboard_time": 1748775680,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132443,
+        "num": 132443,
+        "word": "陈鑫海一下子撕了九宫格",
+        "onboard_time": 1748777480,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119209,
+        "num": 128016,
+        "word": "大鹏娱乐圈人缘",
+        "onboard_time": 1748774180,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127077,
+        "num": 127077,
+        "word": "冰浆",
+        "onboard_time": 1748775800,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113228,
+        "num": 113228,
+        "word": "王安宇朕的哭妃变拽妃了",
+        "onboard_time": 1748773941,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109516,
+        "num": 109516,
+        "word": "生病了忘了跟小猫请假",
+        "onboard_time": 1748774241,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107423,
+        "num": 107423,
+        "word": "陈雨菲22连胜",
+        "onboard_time": 1748776340,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100264,
+        "num": 100264,
+        "word": "湖北一干部违规聚餐饮酒后猝死",
+        "onboard_time": 1748776220,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100121,
+        "num": 100121,
+        "word": "巴黎赢了球烧了城",
+        "onboard_time": 1748766443,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96040,
+        "num": 96040,
+        "word": "六一",
+        "onboard_time": 1748750780,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 92825,
+        "num": 92825,
+        "word": "我想我会一直爱你",
+        "onboard_time": 1748776040,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92610,
+        "num": 92610,
+        "word": "最适合祝福考生的台词出现了",
+        "onboard_time": 1748776581,
+        "rank": 47,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 89484,
+        "num": 89484,
+        "word": "电影今年二十二",
+        "onboard_time": 1748775561,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88933,
+        "num": 88933,
+        "word": "六月第一天",
+        "onboard_time": 1748772140,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的孩子缘#"
+    }
+  }
+}
