@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748809647824,
+  "endTime": 1748810452022,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -4225,6 +4225,14 @@
       "onboard_time": 1748724253,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11438,
+      "num": 16590,
+      "word": "所有大人都曾经是小孩",
+      "onboard_time": 1748808313,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 10826,
