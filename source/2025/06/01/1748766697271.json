@@ -1,0 +1,410 @@
+{
+  "runTime": 1748766697271,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7936216,
+        "num": 9186216,
+        "word": "成都3.9级地震",
+        "onboard_time": 1748765902,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5050675,
+        "num": 6300675,
+        "word": "成都震感",
+        "onboard_time": 1748735178,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51549,
+        "num": 997912,
+        "word": "大朋友小朋友们儿童节快乐",
+        "onboard_time": 1748749100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673069,
+        "num": 673069,
+        "word": "林志玲回应缩脖子",
+        "onboard_time": 1748757740,
+        "rank": 3,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 642645,
+        "num": 642645,
+        "word": "这是我认识的王俊凯吗",
+        "onboard_time": 1748759061,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1431145,
+        "num": 509606,
+        "word": "雷军删掉诋毁原文",
+        "onboard_time": 1748763499,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 326054,
+        "num": 326054,
+        "word": "小学门口倒闭的店因爱重生了",
+        "onboard_time": 1748765241,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 325979,
+        "num": 325979,
+        "word": "中国乒协理解和尊重樊振东意愿",
+        "onboard_time": 1748753001,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313422,
+        "num": 313422,
+        "word": "四川汶川3.3级地震",
+        "onboard_time": 1748737399,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45543,
+        "num": 238773,
+        "word": "菲防长被问中菲关系出路时沉默",
+        "onboard_time": 1748766023,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 547142,
+        "num": 227547,
+        "word": "小泡芙变成中泡芙了",
+        "onboard_time": 1748757621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477884,
+        "num": 220697,
+        "word": "在哈佛演讲中国女生陷入两难",
+        "onboard_time": 1748763020,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212941,
+        "num": 212941,
+        "word": "曹唧唧哇",
+        "onboard_time": 1748760081,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211405,
+        "num": 211405,
+        "word": "时全是曹公公义子",
+        "onboard_time": 1748754080,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339821,
+        "num": 210503,
+        "word": "有存款和无存款的区别",
+        "onboard_time": 1748764641,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66656,
+        "num": 206211,
+        "word": "庆祝人类拥有电视100年",
+        "onboard_time": 1748765062,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79553,
+        "num": 204004,
+        "word": "关之琳62岁状态",
+        "onboard_time": 1748766321,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66803,
+        "num": 200886,
+        "word": "这才是千亿老板最性情的一面",
+        "onboard_time": 1748765360,
+        "rank": 17,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 31934,
+        "num": 199192,
+        "word": "巴黎赢了球烧了城",
+        "onboard_time": 1748766443,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31727,
+        "num": 196433,
+        "word": "怎么刷牙能够有效去除牙菌斑",
+        "onboard_time": 1748765541,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 303772,
+        "num": 194342,
+        "word": "小沈阳演出女儿登台唱跳遭吐槽",
+        "onboard_time": 1748763260,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192832,
+        "num": 192832,
+        "word": "鞠婧祎国内杂志销量第一",
+        "onboard_time": 1748760380,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 241931,
+        "num": 191178,
+        "word": "月都花落 杨洋",
+        "onboard_time": 1748761100,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200291,
+        "num": 190178,
+        "word": "樊振东10天前主动联系德甲俱乐部",
+        "onboard_time": 1748746460,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188832,
+        "num": 188832,
+        "word": "王楚钦晒小朋友们的祝福",
+        "onboard_time": 1748755761,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181456,
+        "num": 181456,
+        "word": "小米王化疑似回应余承东",
+        "onboard_time": 1748759720,
+        "rank": 25,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 142808,
+        "num": 180665,
+        "word": "现在音综版权费都能买套房了",
+        "onboard_time": 1748763620,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43826,
+        "num": 176013,
+        "word": "新能源汽车决不能打价格战兴奋剂",
+        "onboard_time": 1748766502,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140797,
+        "num": 172927,
+        "word": "杨紫跺脚变身",
+        "onboard_time": 1748762060,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15369,
+        "num": 169608,
+        "word": "接住西瓜的那一刻整车都沸腾了",
+        "onboard_time": 1748766261,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289690,
+        "num": 166790,
+        "word": "孙中山长孙女孙穗瑛去世",
+        "onboard_time": 1748764401,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164448,
+        "num": 164448,
+        "word": "池昌旭Reicha",
+        "onboard_time": 1748766621,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150330,
+        "num": 150330,
+        "word": "曹操没骗人 北方果然不擅水战",
+        "onboard_time": 1748760439,
+        "rank": 32,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 133680,
+        "num": 150294,
+        "word": "藏海找到癸玺了",
+        "onboard_time": 1748756900,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150272,
+        "num": 150272,
+        "word": "9人组织20余名未成年人有偿陪侍获刑",
+        "onboard_time": 1748758821,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144010,
+        "num": 144010,
+        "word": "孙颖莎潘展乐郑钦文童年照好可爱",
+        "onboard_time": 1748764641,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136846,
+        "num": 136846,
+        "word": "樊振东发文早安慕尼黑",
+        "onboard_time": 1748765962,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136531,
+        "num": 136531,
+        "word": "深圳关于6月1日不许下雨的通知",
+        "onboard_time": 1748752101,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34666,
+        "num": 131954,
+        "word": "如何判断自己体态是否有问题",
+        "onboard_time": 1748766682,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130566,
+        "num": 130566,
+        "word": "陈妍希晒与儿子洱海背影照",
+        "onboard_time": 1748757979,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123117,
+        "num": 123117,
+        "word": "乒协支持樊振东加盟德甲",
+        "onboard_time": 1748752520,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120030,
+        "num": 120030,
+        "word": "张萌签约王星",
+        "onboard_time": 1748753901,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119386,
+        "num": 119386,
+        "word": "分手后男子起诉按现金价退金饰",
+        "onboard_time": 1748764581,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117196,
+        "num": 117196,
+        "word": "西双版纳3.6级地震",
+        "onboard_time": 1748766141,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116365,
+        "num": 116365,
+        "word": "XYG酷偕退役",
+        "onboard_time": 1748766382,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114213,
+        "num": 114213,
+        "word": "俄罗斯24小时内第二座桥梁坍塌",
+        "onboard_time": 1748758760,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113934,
+        "num": 113934,
+        "word": "赵丽颖眼光果然毒辣",
+        "onboard_time": 1748760201,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107926,
+        "num": 107926,
+        "word": "时代少年团拍了你可能不认识我",
+        "onboard_time": 1748760619,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107219,
+        "num": 107219,
+        "word": "程潇挖出黄圣依妈妈初恋故事",
+        "onboard_time": 1748761220,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103565,
+        "num": 103565,
+        "word": "李嘉格妈妈觉得女儿不红没啥好搜的",
+        "onboard_time": 1748761820,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与孩子们的温暖瞬间#"
+    }
+  }
+}

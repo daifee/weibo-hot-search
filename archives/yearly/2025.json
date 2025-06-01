@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1748763536176,
+  "endTime": 1748766697271,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -979,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7936216,
+      "num": 9186216,
+      "word": "成都3.9级地震",
+      "onboard_time": 1748765902,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7927387,
       "num": 7927387,
       "word": "汪小菲说大S是我的家人",
@@ -1265,6 +1273,14 @@
       "onboard_time": 1738577307,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5050675,
+      "num": 6300675,
+      "word": "成都震感",
+      "onboard_time": 1737795020,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 5046850,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1735662029,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3310620,
-      "num": 3310620,
-      "word": "2000年0时0分出生的世纪婴儿去世",
-      "onboard_time": 1742793263,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3291799,
-      "num": 3583598,
-      "word": "315记者为取证吃到吐",
-      "onboard_time": 1742094742,
-      "rank": 47,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

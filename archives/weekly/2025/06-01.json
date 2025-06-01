@@ -1,7 +1,23 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748763536176,
+  "endTime": 1748766697271,
   "band_list": [
+    {
+      "raw_hot": 7936216,
+      "num": 9186216,
+      "word": "成都3.9级地震",
+      "onboard_time": 1748765902,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5050675,
+      "num": 6300675,
+      "word": "成都震感",
+      "onboard_time": 1748735178,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1552081,
       "num": 1552081,
@@ -9,6 +25,14 @@
       "onboard_time": 1748707819,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1431145,
+      "num": 509606,
+      "word": "雷军删掉诋毁原文",
+      "onboard_time": 1748763499,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1336827,
@@ -60,7 +84,7 @@
     },
     {
       "raw_hot": 943117,
-      "num": 509407,
+      "num": 673069,
       "word": "林志玲回应缩脖子",
       "onboard_time": 1748757740,
       "rank": 3,
@@ -139,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 642645,
+      "num": 1093705,
+      "word": "这是我认识的王俊凯吗",
+      "onboard_time": 1748759061,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 621751,
       "num": 326313,
       "word": "塞尔维亚女孩乘滑翔伞疑突发恐慌坠亡",
@@ -163,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 585658,
-      "num": 1093705,
-      "word": "这是我认识的王俊凯吗",
-      "onboard_time": 1748759061,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 548101,
       "num": 548101,
       "word": "借位吻戏",
@@ -187,20 +211,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 483920,
-      "num": 483920,
-      "word": "雷军删掉诋毁原文",
-      "onboard_time": 1748763499,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 480224,
       "num": 480224,
       "word": "腾讯视频六月大剧片单",
       "onboard_time": 1748750061,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477884,
+      "num": 220697,
+      "word": "在哈佛演讲中国女生陷入两难",
+      "onboard_time": 1748763020,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471687,
@@ -315,6 +339,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 339821,
+      "num": 210503,
+      "word": "有存款和无存款的区别",
+      "onboard_time": 1748764641,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338683,
       "num": 338683,
       "word": "在哈佛演讲的25岁中国女生发声",
@@ -347,12 +379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326054,
+      "num": 326054,
+      "word": "小学门口倒闭的店因爱重生了",
+      "onboard_time": 1748765241,
+      "rank": 6,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 316925,
       "num": 245857,
       "word": "王星越回应演现代戏",
       "onboard_time": 1748707040,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313422,
+      "num": 313422,
+      "word": "四川汶川3.3级地震",
+      "onboard_time": 1748737399,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309216,
@@ -379,6 +427,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 303772,
+      "num": 194342,
+      "word": "小沈阳演出女儿登台唱跳遭吐槽",
+      "onboard_time": 1748763260,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 300821,
       "num": 258031,
       "word": "鞠婧祎国内杂志销量第一",
@@ -401,6 +457,14 @@
       "onboard_time": 1748703922,
       "rank": 4,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 289690,
+      "num": 166790,
+      "word": "孙中山长孙女孙穗瑛去世",
+      "onboard_time": 1748764401,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 289471,
@@ -827,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164448,
+      "num": 164448,
+      "word": "池昌旭Reicha",
+      "onboard_time": 1748766621,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164221,
       "num": 244602,
       "word": "这才是早起刷牙的真正原因",
@@ -883,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150330,
+      "num": 150330,
+      "word": "曹操没骗人 北方果然不擅水战",
+      "onboard_time": 1748760439,
+      "rank": 46,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 149557,
       "num": 149557,
       "word": "于正 省钱",
@@ -907,12 +987,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144009,
-      "num": 144009,
-      "word": "在哈佛演讲中国女生陷入两难",
-      "onboard_time": 1748763020,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 144010,
+      "num": 144010,
+      "word": "孙颖莎潘展乐郑钦文童年照好可爱",
+      "onboard_time": 1748764641,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 143841,
@@ -924,11 +1004,19 @@
     },
     {
       "raw_hot": 142866,
-      "num": 142866,
+      "num": 172927,
       "word": "杨紫跺脚变身",
       "onboard_time": 1748762060,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142808,
+      "num": 180665,
+      "word": "现在音综版权费都能买套房了",
+      "onboard_time": 1748763620,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 141589,
@@ -945,14 +1033,6 @@
       "onboard_time": 1748744119,
       "rank": 27,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 140139,
-      "num": 127892,
-      "word": "曹操没骗人 北方果然不擅水战",
-      "onboard_time": 1748760439,
-      "rank": 46,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 140044,
@@ -987,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136846,
+      "num": 136846,
+      "word": "樊振东发文早安慕尼黑",
+      "onboard_time": 1748765962,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136659,
       "num": 136659,
       "word": "时代少年团拍了你可能不认识我",
@@ -1001,14 +1089,6 @@
       "onboard_time": 1748706260,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136128,
-      "num": 136128,
-      "word": "四川汶川3.3级地震",
-      "onboard_time": 1748737399,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134932,
@@ -1163,20 +1243,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 119386,
+      "num": 119386,
+      "word": "分手后男子起诉按现金价退金饰",
+      "onboard_time": 1748764581,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119374,
       "num": 268332,
       "word": "京东铁皮小青蛙",
       "onboard_time": 1748754320,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 119132,
-      "num": 119132,
-      "word": "小沈阳演出女儿登台唱跳遭吐槽",
-      "onboard_time": 1748763260,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 118919,
@@ -1193,6 +1273,22 @@
       "onboard_time": 1748761220,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 117196,
+      "num": 117196,
+      "word": "西双版纳3.6级地震",
+      "onboard_time": 1748766141,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116365,
+      "num": 116365,
+      "word": "XYG酷偕退役",
+      "onboard_time": 1748766382,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 115375,
@@ -1595,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79553,
+      "num": 204004,
+      "word": "关之琳62岁状态",
+      "onboard_time": 1748766321,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79232,
       "num": 79232,
       "word": "儿童节超话头像",
@@ -1705,6 +1809,22 @@
       "onboard_time": 1748759240,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66803,
+      "num": 200886,
+      "word": "这才是千亿老板最性情的一面",
+      "onboard_time": 1748765360,
+      "rank": 17,
+      "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 66656,
+      "num": 206211,
+      "word": "庆祝人类拥有电视100年",
+      "onboard_time": 1748765062,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66512,
@@ -1844,7 +1964,7 @@
     },
     {
       "raw_hot": 51776,
-      "num": 676896,
+      "num": 997912,
       "word": "大朋友小朋友们儿童节快乐",
       "onboard_time": 1748749100,
       "rank": 2,
@@ -1883,12 +2003,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 45543,
+      "num": 238773,
+      "word": "菲防长被问中菲关系出路时沉默",
+      "onboard_time": 1748766023,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45498,
       "num": 45498,
       "word": "央视端午晚会节目单",
       "onboard_time": 1748729115,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43826,
+      "num": 176013,
+      "word": "新能源汽车决不能打价格战兴奋剂",
+      "onboard_time": 1748766502,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43393,
@@ -1971,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34666,
+      "num": 131954,
+      "word": "如何判断自己体态是否有问题",
+      "onboard_time": 1748766682,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 32424,
       "num": 283908,
       "word": "美国一动物园园长涉嫌制毒被捕",
@@ -1985,6 +2129,22 @@
       "onboard_time": 1748712977,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 31934,
+      "num": 199192,
+      "word": "巴黎赢了球烧了城",
+      "onboard_time": 1748766443,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31727,
+      "num": 196433,
+      "word": "怎么刷牙能够有效去除牙菌斑",
+      "onboard_time": 1748765541,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 31447,
@@ -2145,6 +2305,14 @@
       "onboard_time": 1748762540,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 15369,
+      "num": 169608,
+      "word": "接住西瓜的那一刻整车都沸腾了",
+      "onboard_time": 1748766261,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15037,
