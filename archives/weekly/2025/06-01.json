@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748805622617,
+  "endTime": 1748806611906,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -4155,7 +4155,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16607,
+      "raw_hot": 16789,
       "num": 21339,
       "word": "林俊杰来了演员3都得背对背吵架",
       "onboard_time": 1748804534,
@@ -4227,20 +4227,20 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 10772,
+      "num": 44967,
+      "word": "俄两座桥梁遭破坏事件被定性为恐袭",
+      "onboard_time": 1748805555,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 10186,
       "num": 183620,
       "word": "想瘦的年轻人狂炫绿化带",
       "onboard_time": 1748756359,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10024,
-      "num": 21344,
-      "word": "俄两座桥梁遭破坏事件被定性为恐袭",
-      "onboard_time": 1748805555,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 10006,
