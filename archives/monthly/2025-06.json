@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748802782133,
+  "endTime": 1748803598885,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -4027,6 +4027,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 24053,
+      "num": 26172,
+      "word": "北京奇遇海音乐节",
+      "onboard_time": 1748802376,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23878,
+      "num": 26172,
+      "word": "众星儿童节祝福",
+      "onboard_time": 1748803455,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23543,
       "num": 23543,
       "word": "秦志远 圆满成功明天见",
@@ -4075,12 +4091,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20997,
-      "num": 24367,
-      "word": "北京奇遇海音乐节",
-      "onboard_time": 1748802376,
-      "rank": 49,
-      "category": "演出"
+      "raw_hot": 21234,
+      "num": 26171,
+      "word": "鞠婧祎时尚COSMO24h战报",
+      "onboard_time": 1748803035,
+      "rank": 48,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 19938,

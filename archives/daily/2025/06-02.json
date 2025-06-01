@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748802782133,
+  "endTime": 1748803598885,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -484,11 +484,27 @@
     },
     {
       "raw_hot": 25985,
-      "num": 25985,
+      "num": 26172,
       "word": "WBG战胜JDG",
       "onboard_time": 1748788942,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24053,
+      "num": 26172,
+      "word": "北京奇遇海音乐节",
+      "onboard_time": 1748802376,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23878,
+      "num": 26172,
+      "word": "众星儿童节祝福",
+      "onboard_time": 1748803455,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 23422,
@@ -499,12 +515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20997,
-      "num": 24367,
-      "word": "北京奇遇海音乐节",
-      "onboard_time": 1748802376,
-      "rank": 49,
-      "category": "演出"
+      "raw_hot": 21234,
+      "num": 26171,
+      "word": "鞠婧祎时尚COSMO24h战报",
+      "onboard_time": 1748803035,
+      "rank": 48,
+      "category": "艺人,作品衍生"
     }
   ],
   "hotgov_list": [
