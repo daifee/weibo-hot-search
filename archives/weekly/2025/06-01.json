@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748734724397,
+  "endTime": 1748744631535,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -11,6 +11,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1147442,
+      "num": 270285,
+      "word": "沈梦辰被资本做局了",
+      "onboard_time": 1748736978,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1008140,
+      "num": 1161302,
+      "word": "樊振东加盟德甲联赛",
+      "onboard_time": 1748735057,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 834773,
+      "num": 269244,
+      "word": "向佐晒女儿正脸照",
+      "onboard_time": 1748742140,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658988,
       "num": 305014,
       "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
@@ -19,12 +43,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631035,
+      "num": 556500,
+      "word": "杭州一凶宅竞拍14轮后七五折成交",
+      "onboard_time": 1748740340,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 599252,
+      "num": 599252,
+      "word": "樊振东莫雷加德成为队友",
+      "onboard_time": 1748736018,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 548101,
+      "num": 548101,
+      "word": "借位吻戏",
+      "onboard_time": 1748738299,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 466556,
+      "num": 264136,
+      "word": "7岁男孩被3只恶犬撕咬一年后近况",
+      "onboard_time": 1748739080,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431100,
       "num": 431100,
       "word": "彩票店女老板整天吸二手烟血管堵90%",
       "onboard_time": 1748702542,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421600,
+      "num": 421600,
+      "word": "樊振东回应加盟萨尔布吕肯",
+      "onboard_time": 1748737098,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 401939,
@@ -51,6 +115,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 379004,
+      "num": 258996,
+      "word": "一德克士店长用消费券套现13.7万",
+      "onboard_time": 1748743521,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346014,
       "num": 253582,
       "word": "陈小春演唱会上座率",
@@ -75,11 +147,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309216,
+      "num": 309216,
+      "word": "美国副总统强硬回应外界批评",
+      "onboard_time": 1748740400,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 307238,
       "num": 389239,
       "word": "欧冠决赛",
       "onboard_time": 1748695641,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298359,
+      "num": 298359,
+      "word": "樊振东说期待新挑战新环境新胜利",
+      "onboard_time": 1748743460,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -97,6 +185,22 @@
       "onboard_time": 1748694741,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272741,
+      "num": 272741,
+      "word": "不知不觉成为能独当一面的大人了",
+      "onboard_time": 1748739139,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 255979,
+      "num": 255979,
+      "word": "巴黎 姆巴佩",
+      "onboard_time": 1748733918,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 254424,
@@ -147,20 +251,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210433,
+      "num": 204913,
+      "word": "46岁卡车司机为省氧气钱缺氧离世",
+      "onboard_time": 1748740219,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207024,
+      "num": 207024,
+      "word": "步行者vs尼克斯",
+      "onboard_time": 1748743460,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198864,
-      "num": 130465,
+      "num": 145872,
       "word": "梨形身材是基因彩票",
       "onboard_time": 1748706320,
       "rank": 20,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 193865,
-      "num": 193865,
+      "raw_hot": 195769,
+      "num": 195769,
       "word": "儿童节",
       "onboard_time": 1748734036,
       "rank": 5,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 195160,
+      "num": 195160,
+      "word": "AD钙奶",
+      "onboard_time": 1748743460,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 192388,
@@ -171,12 +299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189534,
-      "num": 189534,
-      "word": "巴黎 姆巴佩",
-      "onboard_time": 1748733918,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 182261,
+      "num": 251695,
+      "word": "梁超盛赞肖战具备艺术家所有品质",
+      "onboard_time": 1748743759,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 176257,
@@ -195,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173793,
+      "num": 242960,
+      "word": "易烊千玺唱了请你不要睡好吗",
+      "onboard_time": 1748737819,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172472,
       "num": 128461,
       "word": "藏海传吻戏",
@@ -203,12 +339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169637,
+      "num": 169637,
+      "word": "雷军晒童年照",
+      "onboard_time": 1748738179,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 167405,
       "num": 167405,
       "word": "当你长期跑步之后你的身体",
       "onboard_time": 1748722453,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 164221,
+      "num": 164221,
+      "word": "这才是早起刷牙的真正原因",
+      "onboard_time": 1748733857,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163066,
@@ -227,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144595,
-      "num": 104136,
-      "word": "这才是早起刷牙的真正原因",
-      "onboard_time": 1748733857,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 140482,
+      "num": 140482,
+      "word": "童年照",
+      "onboard_time": 1748744119,
+      "rank": 27,
+      "category": "正能量"
     },
     {
       "raw_hot": 137506,
@@ -251,12 +403,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136128,
+      "num": 136128,
+      "word": "四川汶川3.3级地震",
+      "onboard_time": 1748737399,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132765,
+      "num": 132765,
+      "word": "平津侯讨厌被说老",
+      "onboard_time": 1748743879,
+      "rank": 31,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 132000,
       "num": 132000,
       "word": "美副总统说美国人靠自己就能干大事",
       "onboard_time": 1748706021,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129049,
+      "num": 227024,
+      "word": "奴是希望他们慢点长大的意思",
+      "onboard_time": 1748736138,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 122392,
@@ -267,12 +443,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120761,
+      "num": 120761,
+      "word": "六一文案",
+      "onboard_time": 1748735717,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 115375,
       "num": 115375,
       "word": "长期喝水与喝茶的区别",
       "onboard_time": 1748702302,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114945,
+      "num": 212324,
+      "word": "乘风2025",
+      "onboard_time": 1748742501,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113587,
+      "num": 113587,
+      "word": "儿童节文案",
+      "onboard_time": 1748744480,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 107445,
@@ -283,12 +483,60 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107436,
+      "num": 259460,
+      "word": "AI修复可爱可敬的抗战小英雄",
+      "onboard_time": 1748742140,
+      "rank": 13,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 106827,
+      "num": 106827,
+      "word": "解锁床上玩手机正确姿势",
+      "onboard_time": 1748724435,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106103,
+      "num": 106103,
+      "word": "车企之间价格战危及行业健康",
+      "onboard_time": 1748744420,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 106015,
+      "num": 136142,
+      "word": "藏海传感情戏",
+      "onboard_time": 1748736678,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105958,
+      "num": 105958,
+      "word": "00后老师用AI上美术课引全班尖叫",
+      "onboard_time": 1748744420,
+      "rank": 36,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 101710,
       "num": 101710,
       "word": "高考加油",
       "onboard_time": 1748707761,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100666,
+      "num": 100666,
+      "word": "姆巴佩让格林公式闭环了",
+      "onboard_time": 1748741178,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 96689,
@@ -305,6 +553,14 @@
       "onboard_time": 1748696783,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93445,
+      "num": 136130,
+      "word": "白鹿新户口已存档",
+      "onboard_time": 1748733436,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 91842,
@@ -347,12 +603,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85252,
+      "num": 85252,
+      "word": "卢伟冰 诋毁本身就是一种仰望",
+      "onboard_time": 1748735538,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 84824,
+      "num": 84824,
+      "word": "刘宇宁戏里折腰戏外护腰",
+      "onboard_time": 1748733497,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84570,
       "num": 84570,
       "word": "女子长期被迫吸二手烟痛苦地猛洗澡",
       "onboard_time": 1748687480,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83822,
+      "num": 83822,
+      "word": "孙佳俊说孩子气给我勇气",
+      "onboard_time": 1748744299,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 83585,
@@ -379,12 +659,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80729,
+      "num": 80729,
+      "word": "有些热闹专门让小孩难堪",
+      "onboard_time": 1748744420,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80113,
       "num": 80113,
       "word": "刘宇王栎鑫梁洁王楚然合唱赠你",
       "onboard_time": 1748701463,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80077,
+      "num": 80077,
+      "word": "巴黎圣日耳曼5比0国际米兰",
+      "onboard_time": 1748735298,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79216,
+      "num": 73882,
+      "word": "王星越我再去拍拍我的古偶吧",
+      "onboard_time": 1748741419,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 78306,
@@ -409,6 +713,14 @@
       "onboard_time": 1748707280,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74189,
+      "num": 74189,
+      "word": "来自千岁宝宝的六一祝福",
+      "onboard_time": 1748744420,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73473,
@@ -441,6 +753,14 @@
       "onboard_time": 1748704042,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 64306,
+      "num": 80518,
+      "word": "被童年的回旋镖击中了",
+      "onboard_time": 1748739260,
+      "rank": 44,
+      "category": "正能量"
     },
     {
       "raw_hot": 63292,
@@ -483,14 +803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60504,
-      "num": 56643,
-      "word": "解锁床上玩手机正确姿势",
-      "onboard_time": 1748724435,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 58953,
       "num": 54434,
       "word": "白举纲歌手暂别感言",
@@ -505,6 +817,14 @@
       "onboard_time": 1748692101,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56384,
+      "num": 559855,
+      "word": "3个中国人在太空过端午",
+      "onboard_time": 1748700023,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55155,
@@ -537,22 +857,6 @@
       "onboard_time": 1748733196,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51272,
-      "num": 51272,
-      "word": "刘宇宁戏里折腰戏外护腰",
-      "onboard_time": 1748733497,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 51052,
-      "num": 51052,
-      "word": "白鹿新户口已存档",
-      "onboard_time": 1748733436,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 50887,
@@ -601,14 +905,6 @@
       "onboard_time": 1748701222,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 40457,
-      "num": 305575,
-      "word": "3个中国人在太空过端午",
-      "onboard_time": 1748700023,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39235,
