@@ -1,0 +1,410 @@
+{
+  "runTime": 1748770766218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 764278,
+        "num": 1122284,
+        "word": "孙中山长孙女孙穗瑛去世",
+        "onboard_time": 1748764401,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 675828,
+        "num": 675828,
+        "word": "小学门口倒闭的店因爱重生了",
+        "onboard_time": 1748765241,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 41818,
+        "num": 606468,
+        "word": "大朋友小朋友们儿童节快乐",
+        "onboard_time": 1748749100,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 935459,
+        "num": 589487,
+        "word": "成都3.9级地震",
+        "onboard_time": 1748765902,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556571,
+        "num": 556571,
+        "word": "林志玲回应缩脖子",
+        "onboard_time": 1748757740,
+        "rank": 4,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 387025,
+        "num": 387025,
+        "word": "这是我认识的王俊凯吗",
+        "onboard_time": 1748759061,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369031,
+        "num": 369031,
+        "word": "孙颖莎杂志",
+        "onboard_time": 1748768420,
+        "rank": 6,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 350794,
+        "num": 350794,
+        "word": "巴黎赢了球烧了城",
+        "onboard_time": 1748766443,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295422,
+        "num": 295422,
+        "word": "成都震感",
+        "onboard_time": 1748735178,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243730,
+        "num": 291223,
+        "word": "藏海传云合33.6%",
+        "onboard_time": 1748769500,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522162,
+        "num": 289746,
+        "word": "小泡芙变成中泡芙了",
+        "onboard_time": 1748757621,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464466,
+        "num": 288959,
+        "word": "在哈佛演讲中国女生陷入两难",
+        "onboard_time": 1748763020,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287212,
+        "num": 287212,
+        "word": "丁禹兮儿童节cos尼克狐",
+        "onboard_time": 1748768661,
+        "rank": 12,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 284342,
+        "num": 284342,
+        "word": "有存款和无存款的区别",
+        "onboard_time": 1748764641,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33681,
+        "num": 251162,
+        "word": "香会现场中国少将强硬回应",
+        "onboard_time": 1748770101,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232814,
+        "num": 232814,
+        "word": "藏海传全端破亿",
+        "onboard_time": 1748769620,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192003,
+        "num": 192003,
+        "word": "小沈阳演出女儿登台唱跳遭吐槽",
+        "onboard_time": 1748763260,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178570,
+        "num": 178570,
+        "word": "时全是曹公公义子",
+        "onboard_time": 1748754080,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27725,
+        "num": 178185,
+        "word": "睡前玩手机如何避免伤害眼睛",
+        "onboard_time": 1748769080,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54531,
+        "num": 176649,
+        "word": "广州猎德龙舟上演招亲名场面",
+        "onboard_time": 1748769920,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349804,
+        "num": 175643,
+        "word": "祝你成为快乐的大人",
+        "onboard_time": 1748768600,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271282,
+        "num": 173596,
+        "word": "原来7000块可以干这么多事",
+        "onboard_time": 1748767882,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186890,
+        "num": 172888,
+        "word": "中国乒协理解和尊重樊振东意愿",
+        "onboard_time": 1748753001,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172025,
+        "num": 172025,
+        "word": "比邓超还接受不了他变老",
+        "onboard_time": 1748767940,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75222,
+        "num": 151331,
+        "word": "风箫ccd镜头下的他们",
+        "onboard_time": 1748770461,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150399,
+        "num": 150399,
+        "word": "九门官宣开机合影",
+        "onboard_time": 1748768062,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136195,
+        "num": 136195,
+        "word": "池昌旭Reicha",
+        "onboard_time": 1748766621,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135103,
+        "num": 135103,
+        "word": "黄子弘凡探班直播",
+        "onboard_time": 1748769500,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134434,
+        "num": 134434,
+        "word": "鞠婧祎国内杂志销量第一",
+        "onboard_time": 1748760380,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 40937,
+        "num": 128288,
+        "word": "双胞胎的指纹真的完全一样吗",
+        "onboard_time": 1748769980,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 127562,
+        "num": 127562,
+        "word": "陈妍希晒与儿子洱海背影照",
+        "onboard_time": 1748757979,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122511,
+        "num": 122511,
+        "word": "永琪和咏琪终于同框了",
+        "onboard_time": 1748767882,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119908,
+        "num": 119908,
+        "word": "江苏一女子偶遇小狗全身挂满鱼钩",
+        "onboard_time": 1748767882,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115276,
+        "num": 115276,
+        "word": "樊振东10天前主动联系德甲俱乐部",
+        "onboard_time": 1748746460,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109318,
+        "num": 109318,
+        "word": "初代白月光cp长达31年的售后",
+        "onboard_time": 1748770281,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40795,
+        "num": 108244,
+        "word": "印度的路边食品和饮食方式",
+        "onboard_time": 1748768301,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107714,
+        "num": 107714,
+        "word": "王楚钦晒小朋友们的祝福",
+        "onboard_time": 1748755761,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75687,
+        "num": 103512,
+        "word": "俄两座桥梁遭爆炸袭击被定性为恐袭",
+        "onboard_time": 1748768960,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73432,
+        "num": 103479,
+        "word": "孩子默写出一个年度错字",
+        "onboard_time": 1748770161,
+        "rank": 38,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 103474,
+        "num": 103474,
+        "word": "小猫爬到女生的背上躲雨",
+        "onboard_time": 1748770340,
+        "rank": 39,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 103251,
+        "num": 103251,
+        "word": "六一",
+        "onboard_time": 1748750780,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 100628,
+        "num": 100628,
+        "word": "关之琳62岁状态",
+        "onboard_time": 1748766321,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15545,
+        "num": 100218,
+        "word": "董浩叔叔带我回童年",
+        "onboard_time": 1748769500,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99862,
+        "num": 99862,
+        "word": "月都花落 杨洋",
+        "onboard_time": 1748761100,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98673,
+        "num": 98673,
+        "word": "乒协支持樊振东加盟德甲",
+        "onboard_time": 1748752520,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97399,
+        "num": 97399,
+        "word": "藏海找到癸玺了",
+        "onboard_time": 1748756900,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97146,
+        "num": 97146,
+        "word": "折腰编剧说刘宇宁就是魏劭的样子",
+        "onboard_time": 1748769441,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88587,
+        "num": 88587,
+        "word": "樊振东发文早安慕尼黑",
+        "onboard_time": 1748765962,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87809,
+        "num": 87809,
+        "word": "想到找黄觉演平津侯的人真是天才",
+        "onboard_time": 1748769441,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86531,
+        "num": 86531,
+        "word": "9人组织20余名未成年人有偿陪侍获刑",
+        "onboard_time": 1748758821,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与孩子们的温暖瞬间#"
+    }
+  }
+}

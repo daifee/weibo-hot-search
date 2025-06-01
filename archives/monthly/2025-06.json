@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748769949043,
+  "endTime": 1748770766218,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1293020,
-      "num": 283651,
+      "num": 289746,
       "word": "小泡芙变成中泡芙了",
       "onboard_time": 1748757621,
       "rank": 10,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 764278,
+      "num": 1122284,
+      "word": "孙中山长孙女孙穗瑛去世",
+      "onboard_time": 1748764401,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 750603,
       "num": 661753,
       "word": "深圳关于6月1日不许下雨的通知",
@@ -145,6 +153,14 @@
       "onboard_time": 1748750959,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 675828,
+      "num": 675828,
+      "word": "小学门口倒闭的店因爱重生了",
+      "onboard_time": 1748765241,
+      "rank": 6,
+      "category": "正能量"
     },
     {
       "raw_hot": 658988,
@@ -195,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 576940,
-      "num": 576940,
-      "word": "孙中山长孙女孙穗瑛去世",
-      "onboard_time": 1748764401,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 548101,
       "num": 548101,
       "word": "借位吻戏",
@@ -211,16 +219,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 545405,
-      "num": 545405,
-      "word": "小学门口倒闭的店因爱重生了",
-      "onboard_time": 1748765241,
-      "rank": 6,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 514024,
-      "num": 251520,
+      "num": 288959,
       "word": "在哈佛演讲中国女生陷入两难",
       "onboard_time": 1748763020,
       "rank": 26,
@@ -331,12 +331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369031,
+      "num": 369031,
+      "word": "孙颖莎杂志",
+      "onboard_time": 1748768420,
+      "rank": 6,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 353219,
       "num": 184998,
       "word": "祝你成为快乐的大人",
       "onboard_time": 1748768600,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350794,
+      "num": 350794,
+      "word": "巴黎赢了球烧了城",
+      "onboard_time": 1748766443,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 346084,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 339821,
-      "num": 251010,
+      "num": 284342,
       "word": "有存款和无存款的区别",
       "onboard_time": 1748764641,
       "rank": 14,
@@ -409,14 +425,6 @@
       "onboard_time": 1748707040,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313809,
-      "num": 313809,
-      "word": "孙颖莎杂志",
-      "onboard_time": 1748768420,
-      "rank": 6,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 313422,
@@ -499,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287212,
+      "num": 287212,
+      "word": "丁禹兮儿童节cos尼克狐",
+      "onboard_time": 1748768661,
+      "rank": 13,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 284828,
       "num": 475230,
       "word": "美延长对中国301条款关税的部分豁免",
@@ -547,28 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257131,
-      "num": 249130,
-      "word": "丁禹兮儿童节cos尼克狐",
-      "onboard_time": 1748768661,
-      "rank": 13,
-      "category": "艺人,动漫"
-    },
-    {
       "raw_hot": 255979,
       "num": 255979,
       "word": "巴黎 姆巴佩",
       "onboard_time": 1748733918,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255270,
-      "num": 255270,
-      "word": "巴黎赢了球烧了城",
-      "onboard_time": 1748766443,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 254424,
@@ -608,6 +608,22 @@
       "word": "陈伟霆赞助九门组服",
       "onboard_time": 1748752579,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 243730,
+      "num": 291223,
+      "word": "藏海传云合33.6%",
+      "onboard_time": 1748769500,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232814,
+      "num": 232814,
+      "word": "藏海传全端破亿",
+      "onboard_time": 1748769620,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -705,14 +721,6 @@
       "onboard_time": 1748752760,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200420,
-      "num": 200420,
-      "word": "藏海传云合33.6%",
-      "onboard_time": 1748769500,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 198864,
@@ -849,14 +857,6 @@
       "onboard_time": 1748749041,
       "rank": 20,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 179634,
-      "num": 179634,
-      "word": "藏海传全端破亿",
-      "onboard_time": 1748769620,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 176266,
@@ -1171,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135103,
+      "num": 135103,
+      "word": "黄子弘凡探班直播",
+      "onboard_time": 1748769500,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134932,
       "num": 269994,
       "word": "青春修炼手册是11年前的歌了",
@@ -1403,14 +1411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114607,
-      "num": 114607,
-      "word": "黄子弘凡探班直播",
-      "onboard_time": 1748769500,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 113587,
       "num": 113587,
       "word": "儿童节文案",
@@ -1441,6 +1441,14 @@
       "onboard_time": 1748766023,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109318,
+      "num": 109318,
+      "word": "初代白月光cp长达31年的售后",
+      "onboard_time": 1748770281,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 109176,
@@ -1531,6 +1539,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103474,
+      "num": 103474,
+      "word": "小猫爬到女生的背上躲雨",
+      "onboard_time": 1748770340,
+      "rank": 39,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 102530,
       "num": 102530,
       "word": "娃哈哈回应AD钙奶兑换难",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1748761100,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97146,
+      "num": 97146,
+      "word": "折腰编剧说刘宇宁就是魏劭的样子",
+      "onboard_time": 1748769441,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 97108,
@@ -1689,6 +1713,14 @@
       "onboard_time": 1748707401,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 87809,
+      "num": 87809,
+      "word": "想到找黄觉演平津侯的人真是天才",
+      "onboard_time": 1748769441,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 87464,
@@ -1867,6 +1899,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75687,
+      "num": 254270,
+      "word": "俄两座桥梁遭爆炸袭击被定性为恐袭",
+      "onboard_time": 1748768960,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 75222,
+      "num": 151331,
+      "word": "风箫ccd镜头下的他们",
+      "onboard_time": 1748770461,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74841,
       "num": 74841,
       "word": "未知的首尔",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1748699241,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 73432,
+      "num": 103479,
+      "word": "孩子默写出一个年度错字",
+      "onboard_time": 1748770161,
+      "rank": 38,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 72896,
@@ -1980,7 +2036,7 @@
     },
     {
       "raw_hot": 62536,
-      "num": 115409,
+      "num": 176649,
       "word": "广州猎德龙舟上演招亲名场面",
       "onboard_time": 1748769920,
       "rank": 37,
@@ -2025,14 +2081,6 @@
       "onboard_time": 1748746219,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57198,
-      "num": 254270,
-      "word": "俄两座桥梁遭爆炸袭击被定性为恐袭",
-      "onboard_time": 1748768960,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 57018,
@@ -2219,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40937,
+      "num": 128288,
+      "word": "双胞胎的指纹真的完全一样吗",
+      "onboard_time": 1748769980,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 40866,
       "num": 99086,
       "word": "拍完好东西女儿被王茉莉附身了",
@@ -2273,6 +2329,14 @@
       "onboard_time": 1748685860,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33681,
+      "num": 251162,
+      "word": "香会现场中国少将强硬回应",
+      "onboard_time": 1748770101,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32424,
@@ -2444,7 +2508,7 @@
     },
     {
       "raw_hot": 17222,
-      "num": 97497,
+      "num": 100218,
       "word": "董浩叔叔带我回童年",
       "onboard_time": 1748769500,
       "rank": 44,
