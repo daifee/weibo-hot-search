@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748820270595,
+  "endTime": 1748821118332,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -11,20 +11,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 933531,
+      "num": 178569,
+      "word": "苏州一医院误将腹超做成阴超",
+      "onboard_time": 1748819897,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 629487,
       "num": 629487,
       "word": "周深让你穿雨衣没让你穿这款",
       "onboard_time": 1748785761,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 608088,
-      "num": 158193,
-      "word": "苏州一医院误将腹超做成阴超",
-      "onboard_time": 1748819897,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 457968,
@@ -59,6 +59,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 326565,
+      "num": 326565,
+      "word": "樊振东留洋不是说再见是新的开始",
+      "onboard_time": 1748819836,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314077,
       "num": 314077,
       "word": "印度网红直播猥亵土耳其导游",
@@ -81,6 +89,14 @@
       "onboard_time": 1748785281,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291553,
+      "num": 291553,
+      "word": "谈恋爱真的得找个大方的",
+      "onboard_time": 1748819897,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 281538,
@@ -115,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251901,
-      "num": 251901,
-      "word": "樊振东留洋不是说再见是新的开始",
-      "onboard_time": 1748819836,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251324,
       "num": 251324,
       "word": "郑钦文晋级法网8强",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 223482,
-      "num": 139450,
+      "num": 147035,
       "word": "刘宇宁涨粉",
       "onboard_time": 1748791223,
       "rank": 20,
@@ -177,14 +185,6 @@
       "onboard_time": 1748789602,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187035,
-      "num": 187035,
-      "word": "谈恋爱真的得找个大方的",
-      "onboard_time": 1748819897,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 179720,
@@ -235,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137478,
+      "num": 137478,
+      "word": "藏海被庄之行骗了",
+      "onboard_time": 1748819957,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134211,
       "num": 134211,
       "word": "李东健承认与姜海琳恋情",
@@ -259,20 +267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116469,
+      "num": 116469,
+      "word": "小学门口倒闭的店因爱重生了",
+      "onboard_time": 1748765241,
+      "rank": 27,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 111076,
       "num": 111076,
       "word": "藏海传",
       "onboard_time": 1748778260,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106000,
-      "num": 106000,
-      "word": "小学门口倒闭的店因爱重生了",
-      "onboard_time": 1748765241,
-      "rank": 27,
-      "category": "正能量"
     },
     {
       "raw_hot": 103653,
@@ -459,11 +467,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63208,
-      "num": 63208,
-      "word": "藏海被庄之行骗了",
+      "raw_hot": 63442,
+      "num": 63442,
+      "word": "包贝尔包文婧儿子满月",
+      "onboard_time": 1748779760,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 61255,
+      "num": 54553,
+      "word": "藏海第二次失手",
       "onboard_time": 1748819957,
-      "rank": 23,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -475,16 +491,24 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56075,
-      "num": 56075,
-      "word": "包贝尔包文婧儿子满月",
-      "onboard_time": 1748779760,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 55002,
+      "num": 55002,
+      "word": "医院回应医生误将腹超做成阴超",
+      "onboard_time": 1748819836,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 41825,
-      "num": 41825,
+      "raw_hot": 53491,
+      "num": 182560,
+      "word": "特朗普再催哈佛交出国际学生名单",
+      "onboard_time": 1748820017,
+      "rank": 29,
+      "category": "国际时政,教育"
+    },
+    {
+      "raw_hot": 52094,
+      "num": 52094,
       "word": "奴奴荼荼咬唇吻",
       "onboard_time": 1748815875,
       "rank": 45,
@@ -507,22 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38926,
-      "num": 38926,
-      "word": "医院回应医生误将腹超做成阴超",
-      "onboard_time": 1748819836,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38393,
-      "num": 38393,
-      "word": "藏海第二次失手",
-      "onboard_time": 1748819957,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 36984,
       "num": 36984,
       "word": "有事回童年一趟",
@@ -539,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32447,
+      "num": 34221,
+      "word": "林俊杰来了演员3都得背对背吵架",
+      "onboard_time": 1748804534,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 32199,
       "num": 32199,
       "word": "张杰演唱会",
@@ -548,19 +564,19 @@
     },
     {
       "raw_hot": 32013,
-      "num": 32013,
+      "num": 34219,
       "word": "撒娇超过三句没达到目的就发火",
       "onboard_time": 1748819897,
       "rank": 43,
       "category": "情感"
     },
     {
-      "raw_hot": 29968,
-      "num": 29968,
-      "word": "林俊杰来了演员3都得背对背吵架",
-      "onboard_time": 1748804534,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 30465,
+      "num": 34220,
+      "word": "申请加入古巨基朋友圈",
+      "onboard_time": 1748820918,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 29569,
@@ -609,14 +625,6 @@
       "onboard_time": 1748802136,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22343,
-      "num": 53948,
-      "word": "特朗普再催哈佛交出国际学生名单",
-      "onboard_time": 1748820017,
-      "rank": 29,
-      "category": "国际时政,教育"
     },
     {
       "raw_hot": 21234,
