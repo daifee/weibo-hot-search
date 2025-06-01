@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748803598885,
+  "endTime": 1748805622617,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -521,6 +521,22 @@
       "onboard_time": 1748803035,
       "rank": 48,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 16607,
+      "num": 21339,
+      "word": "林俊杰来了演员3都得背对背吵架",
+      "onboard_time": 1748804534,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10024,
+      "num": 21344,
+      "word": "俄两座桥梁遭破坏事件被定性为恐袭",
+      "onboard_time": 1748805555,
+      "rank": 34,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
