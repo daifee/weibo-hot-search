@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748766697271,
+  "endTime": 1748767546389,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -27,8 +27,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1431145,
-      "num": 509606,
+      "raw_hot": 1467750,
+      "num": 623598,
       "word": "雷军删掉诋毁原文",
       "onboard_time": 1748763499,
       "rank": 1,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 943117,
-      "num": 673069,
+      "num": 676747,
       "word": "林志玲回应缩脖子",
       "onboard_time": 1748757740,
       "rank": 3,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514024,
+      "num": 220697,
+      "word": "在哈佛演讲中国女生陷入两难",
+      "onboard_time": 1748763020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498438,
       "num": 498438,
       "word": "王楚钦晒小朋友们的祝福",
@@ -217,14 +225,6 @@
       "onboard_time": 1748750061,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 477884,
-      "num": 220697,
-      "word": "在哈佛演讲中国女生陷入两难",
-      "onboard_time": 1748763020,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 471687,
@@ -297,6 +297,14 @@
       "onboard_time": 1748757979,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389104,
+      "num": 389104,
+      "word": "小学门口倒闭的店因爱重生了",
+      "onboard_time": 1748765241,
+      "rank": 6,
+      "category": "正能量"
     },
     {
       "raw_hot": 380417,
@@ -379,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 326054,
-      "num": 326054,
-      "word": "小学门口倒闭的店因爱重生了",
-      "onboard_time": 1748765241,
-      "rank": 6,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 316925,
       "num": 245857,
       "word": "王星越回应演现代戏",
@@ -401,6 +401,14 @@
       "onboard_time": 1748737399,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309439,
+      "num": 194342,
+      "word": "小沈阳演出女儿登台唱跳遭吐槽",
+      "onboard_time": 1748763260,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 309216,
@@ -427,12 +435,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 303772,
-      "num": 194342,
-      "word": "小沈阳演出女儿登台唱跳遭吐槽",
-      "onboard_time": 1748763260,
-      "rank": 35,
-      "category": "演出"
+      "raw_hot": 305736,
+      "num": 166790,
+      "word": "孙中山长孙女孙穗瑛去世",
+      "onboard_time": 1748764401,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 300821,
@@ -457,14 +465,6 @@
       "onboard_time": 1748703922,
       "rank": 4,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 289690,
-      "num": 166790,
-      "word": "孙中山长孙女孙穗瑛去世",
-      "onboard_time": 1748764401,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 289471,
@@ -819,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172987,
+      "num": 172987,
+      "word": "池昌旭Reicha",
+      "onboard_time": 1748766621,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172472,
       "num": 128461,
       "word": "藏海传吻戏",
@@ -891,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164448,
-      "num": 164448,
-      "word": "池昌旭Reicha",
-      "onboard_time": 1748766621,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164221,
       "num": 244602,
       "word": "这才是早起刷牙的真正原因",
@@ -945,6 +945,14 @@
       "onboard_time": 1748759840,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154667,
+      "num": 154667,
+      "word": "樊振东发文早安慕尼黑",
+      "onboard_time": 1748765962,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 153886,
@@ -1065,14 +1073,6 @@
       "onboard_time": 1748752160,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 136846,
-      "num": 136846,
-      "word": "樊振东发文早安慕尼黑",
-      "onboard_time": 1748765962,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 136659,
@@ -1291,6 +1291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115547,
+      "num": 204004,
+      "word": "关之琳62岁状态",
+      "onboard_time": 1748766321,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115375,
       "num": 115375,
       "word": "长期喝水与喝茶的区别",
@@ -1329,6 +1337,22 @@
       "onboard_time": 1748749821,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110299,
+      "num": 238773,
+      "word": "菲防长被问中菲关系出路时沉默",
+      "onboard_time": 1748766023,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 110178,
+      "num": 199192,
+      "word": "巴黎赢了球烧了城",
+      "onboard_time": 1748766443,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 109176,
@@ -1411,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103803,
+      "num": 103803,
+      "word": "起猛了看见机器人踢足球了",
+      "onboard_time": 1748767400,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 102530,
       "num": 102530,
       "word": "娃哈哈回应AD钙奶兑换难",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1748761100,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97108,
+      "num": 200886,
+      "word": "这才是千亿老板最性情的一面",
+      "onboard_time": 1748765360,
+      "rank": 17,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 96689,
@@ -1691,14 +1731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79553,
-      "num": 204004,
-      "word": "关之琳62岁状态",
-      "onboard_time": 1748766321,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79232,
       "num": 79232,
       "word": "儿童节超话头像",
@@ -1809,14 +1841,6 @@
       "onboard_time": 1748759240,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 66803,
-      "num": 200886,
-      "word": "这才是千亿老板最性情的一面",
-      "onboard_time": 1748765360,
-      "rank": 17,
-      "category": "体育,汽车"
     },
     {
       "raw_hot": 66656,
@@ -1931,6 +1955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 55269,
+      "num": 185275,
+      "word": "新能源汽车决不能打价格战兴奋剂",
+      "onboard_time": 1748766502,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55155,
       "num": 93191,
       "word": "广东龙舟正成为中国文旅的新名片",
@@ -1961,6 +1993,14 @@
       "onboard_time": 1748733196,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52700,
+      "num": 169608,
+      "word": "接住西瓜的那一刻整车都沸腾了",
+      "onboard_time": 1748766261,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51776,
@@ -2003,14 +2043,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 45543,
-      "num": 238773,
-      "word": "菲防长被问中菲关系出路时沉默",
-      "onboard_time": 1748766023,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45498,
       "num": 45498,
       "word": "央视端午晚会节目单",
@@ -2019,12 +2051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43826,
-      "num": 176013,
-      "word": "新能源汽车决不能打价格战兴奋剂",
-      "onboard_time": 1748766502,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 45469,
+      "num": 184674,
+      "word": "如何判断自己体态是否有问题",
+      "onboard_time": 1748766682,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 43393,
@@ -2107,14 +2139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34666,
-      "num": 131954,
-      "word": "如何判断自己体态是否有问题",
-      "onboard_time": 1748766682,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 32424,
       "num": 283908,
       "word": "美国一动物园园长涉嫌制毒被捕",
@@ -2129,14 +2153,6 @@
       "onboard_time": 1748712977,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 31934,
-      "num": 199192,
-      "word": "巴黎赢了球烧了城",
-      "onboard_time": 1748766443,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 31727,
@@ -2305,14 +2321,6 @@
       "onboard_time": 1748762540,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 15369,
-      "num": 169608,
-      "word": "接住西瓜的那一刻整车都沸腾了",
-      "onboard_time": 1748766261,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15037,
