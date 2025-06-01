@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748774615515,
+  "endTime": 1748776849384,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -16,6 +16,22 @@
       "word": "成都震感",
       "onboard_time": 1748735178,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1610632,
+      "num": 377302,
+      "word": "印度网红直播猥亵土耳其导游",
+      "onboard_time": 1748775139,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1605456,
+      "num": 1605456,
+      "word": "知情人回应迪士尼情侣和一家三口扭打",
+      "onboard_time": 1748772499,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -65,14 +81,6 @@
       "onboard_time": 1748765241,
       "rank": 6,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 1149860,
-      "num": 1183977,
-      "word": "知情人回应迪士尼情侣和一家三口扭打",
-      "onboard_time": 1748772499,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1147442,
@@ -219,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 594742,
+      "num": 343563,
+      "word": "比邓超还接受不了他变老",
+      "onboard_time": 1748767940,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548101,
       "num": 548101,
       "word": "借位吻戏",
@@ -257,14 +273,6 @@
       "onboard_time": 1748750061,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 476213,
-      "num": 343563,
-      "word": "比邓超还接受不了他变老",
-      "onboard_time": 1748767940,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 474499,
@@ -451,6 +459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 320228,
+      "num": 320228,
+      "word": "交费和缴费的区别",
+      "onboard_time": 1748771000,
+      "rank": 15,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 316925,
       "num": 245857,
       "word": "王星越回应演现代戏",
@@ -497,14 +513,6 @@
       "onboard_time": 1748739139,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 301136,
-      "num": 221152,
-      "word": "交费和缴费的区别",
-      "onboard_time": 1748771000,
-      "rank": 15,
-      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 300821,
@@ -587,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270393,
+      "num": 270393,
+      "word": "赵丽颖这么演我可要哭了",
+      "onboard_time": 1748773040,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268485,
       "num": 268485,
       "word": "临江仙",
@@ -659,12 +675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242359,
+      "num": 242359,
+      "word": "苹果手机 地震预警",
+      "onboard_time": 1748774720,
+      "rank": 9,
+      "category": "数码,民生新闻"
+    },
+    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
       "onboard_time": 1748733918,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225853,
+      "num": 225853,
+      "word": "一场雨让周深爆改林俊杰",
+      "onboard_time": 1748771781,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 218804,
@@ -707,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211048,
+      "num": 211048,
+      "word": "香暗荼咬藏海",
+      "onboard_time": 1748772140,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210433,
       "num": 204913,
       "word": "46岁卡车司机为省氧气钱缺氧离世",
@@ -715,20 +755,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209005,
-      "num": 209005,
-      "word": "一场雨让周深爆改林俊杰",
-      "onboard_time": 1748771781,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 207024,
       "num": 207024,
       "word": "步行者vs尼克斯",
       "onboard_time": 1748743460,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206114,
+      "num": 206114,
+      "word": "肖战藏海传第三周追剧日历",
+      "onboard_time": 1748775800,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 204661,
@@ -835,14 +875,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 191138,
-      "num": 208894,
-      "word": "香暗荼咬藏海",
-      "onboard_time": 1748772140,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189911,
       "num": 189911,
       "word": "九门官宣开机合影",
@@ -931,20 +963,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174047,
+      "num": 159440,
+      "word": "王楚钦赵心童成就顶峰相见佳话",
+      "onboard_time": 1748775680,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173793,
       "num": 242960,
       "word": "易烊千玺唱了请你不要睡好吗",
       "onboard_time": 1748737819,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173013,
-      "num": 208536,
-      "word": "赵丽颖这么演我可要哭了",
-      "onboard_time": 1748773040,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 172987,
@@ -985,6 +1017,14 @@
       "onboard_time": 1748752460,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 170673,
+      "num": 170673,
+      "word": "90后过六一能有多任性",
+      "onboard_time": 1748776820,
+      "rank": 18,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 169637,
@@ -1049,6 +1089,14 @@
       "onboard_time": 1748698703,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161138,
+      "num": 161138,
+      "word": "仙逆",
+      "onboard_time": 1748775200,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 159453,
@@ -1131,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148603,
+      "num": 148603,
+      "word": "陈雨菲22连胜",
+      "onboard_time": 1748776340,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146390,
       "num": 218130,
       "word": "巴铁将军谈到中国战机难掩笑容",
@@ -1145,6 +1201,14 @@
       "onboard_time": 1748749280,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144614,
+      "num": 144614,
+      "word": "老外在韩国被骗",
+      "onboard_time": 1748774422,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 144010,
@@ -1275,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134446,
+      "num": 149724,
+      "word": "黄子弘凡音乐节",
+      "onboard_time": 1748776400,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133661,
       "num": 133661,
       "word": "赵丽颖眼光果然毒辣",
@@ -1315,6 +1387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131531,
+      "num": 131531,
+      "word": "陈雨菲回应夺新加坡公开赛冠军",
+      "onboard_time": 1748775920,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131281,
       "num": 273187,
       "word": "俄罗斯24小时内第二座桥梁坍塌",
@@ -1353,6 +1433,14 @@
       "onboard_time": 1748736138,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128795,
+      "num": 149658,
+      "word": "电影今年二十二",
+      "onboard_time": 1748775561,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 128147,
@@ -1547,6 +1635,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111578,
+      "num": 111578,
+      "word": "湖北一干部违规聚餐饮酒后猝死",
+      "onboard_time": 1748776220,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111183,
+      "num": 111183,
+      "word": "我想我会一直爱你",
+      "onboard_time": 1748776040,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111108,
       "num": 111108,
       "word": "陶喆 儿童节是我的节",
@@ -1587,6 +1691,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 107574,
+      "num": 107574,
+      "word": "冰浆",
+      "onboard_time": 1748775800,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107445,
       "num": 107445,
       "word": "美一卡车侧翻致2.5亿只蜜蜂飞出",
@@ -1601,6 +1713,14 @@
       "onboard_time": 1748742140,
       "rank": 13,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 107089,
+      "num": 149213,
+      "word": "郑钦文vs萨姆索诺娃",
+      "onboard_time": 1748776581,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 106827,
@@ -1683,6 +1803,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 103114,
+      "num": 102568,
+      "word": "最适合祝福考生的台词出现了",
+      "onboard_time": 1748776581,
+      "rank": 40,
+      "category": "剧集,教育"
+    },
+    {
       "raw_hot": 102656,
       "num": 102656,
       "word": "江苏省城市足球联赛",
@@ -1699,12 +1827,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102126,
+      "num": 102126,
+      "word": "第一次知道王勉的眼睛这么大",
+      "onboard_time": 1748775742,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101953,
+      "num": 101953,
+      "word": "年轻人开始买儿童用品富养自己了",
+      "onboard_time": 1748776701,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101710,
       "num": 101710,
       "word": "高考加油",
       "onboard_time": 1748707761,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100721,
+      "num": 100721,
+      "word": "印度开始研发五代战机",
+      "onboard_time": 1748776460,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100666,
@@ -1865,6 +2017,14 @@
       "onboard_time": 1748758641,
       "rank": 48,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 92477,
+      "num": 92477,
+      "word": "这两种人才是天生一对",
+      "onboard_time": 1748776519,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 91842,
@@ -2323,14 +2483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57144,
-      "num": 103099,
-      "word": "老外在韩国被骗",
-      "onboard_time": 1748774422,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 57018,
       "num": 57018,
       "word": "蒯铎之死背后的秘密",
@@ -2417,6 +2569,14 @@
       "onboard_time": 1748733555,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49930,
+      "num": 148947,
+      "word": "为什么旅行都开始租无人机了",
+      "onboard_time": 1748776279,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 49531,
@@ -2539,6 +2699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39546,
+      "num": 430352,
+      "word": "和院士一起科学过六一",
+      "onboard_time": 1748775680,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39235,
       "num": 40869,
       "word": "法网",
@@ -2584,6 +2752,14 @@
       "word": "香会现场中国少将强硬回应",
       "onboard_time": 1748770101,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32963,
+      "num": 148692,
+      "word": "粽子是一种高血糖反应食物吗",
+      "onboard_time": 1748776400,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2691,6 +2867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26568,
+      "num": 215365,
+      "word": "男子谎称替剧组租车后私自抵押",
+      "onboard_time": 1748776040,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26067,
       "num": 219928,
       "word": "蚊子更喜欢叮体温高的人吗",
@@ -2721,6 +2905,14 @@
       "onboard_time": 1748715435,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24196,
+      "num": 159573,
+      "word": "中方专家驳斥菲防长发言",
+      "onboard_time": 1748776340,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23543,

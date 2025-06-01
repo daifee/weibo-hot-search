@@ -1,0 +1,410 @@
+{
+  "runTime": 1748776849384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1605456,
+        "num": 1605456,
+        "word": "知情人回应迪士尼情侣和一家三口扭打",
+        "onboard_time": 1748772499,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558472,
+        "num": 558472,
+        "word": "小学门口倒闭的店因爱重生了",
+        "onboard_time": 1748765241,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 39546,
+        "num": 430352,
+        "word": "和院士一起科学过六一",
+        "onboard_time": 1748775680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1610632,
+        "num": 377302,
+        "word": "印度网红直播猥亵土耳其导游",
+        "onboard_time": 1748775139,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 320228,
+        "num": 320228,
+        "word": "交费和缴费的区别",
+        "onboard_time": 1748771000,
+        "rank": 4,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 290098,
+        "num": 290098,
+        "word": "孙颖莎杂志",
+        "onboard_time": 1748768420,
+        "rank": 5,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 283086,
+        "num": 283086,
+        "word": "藏海传全端破亿",
+        "onboard_time": 1748769620,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270393,
+        "num": 270393,
+        "word": "赵丽颖这么演我可要哭了",
+        "onboard_time": 1748773040,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261978,
+        "num": 261978,
+        "word": "孙中山长孙女孙穗瑛去世",
+        "onboard_time": 1748764401,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242359,
+        "num": 242359,
+        "word": "苹果手机 地震预警",
+        "onboard_time": 1748774720,
+        "rank": 9,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 594742,
+        "num": 240798,
+        "word": "比邓超还接受不了他变老",
+        "onboard_time": 1748767940,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459850,
+        "num": 239814,
+        "word": "林志玲回应缩脖子",
+        "onboard_time": 1748757740,
+        "rank": 11,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 310207,
+        "num": 234611,
+        "word": "小泡芙变成中泡芙了",
+        "onboard_time": 1748757621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225853,
+        "num": 225853,
+        "word": "一场雨让周深爆改林俊杰",
+        "onboard_time": 1748771781,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26568,
+        "num": 215365,
+        "word": "男子谎称替剧组租车后私自抵押",
+        "onboard_time": 1748776040,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211048,
+        "num": 211048,
+        "word": "香暗荼咬藏海",
+        "onboard_time": 1748772140,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206114,
+        "num": 206114,
+        "word": "肖战藏海传第三周追剧日历",
+        "onboard_time": 1748775800,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173586,
+        "num": 173586,
+        "word": "这是我认识的王俊凯吗",
+        "onboard_time": 1748759061,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170673,
+        "num": 170673,
+        "word": "90后过六一能有多任性",
+        "onboard_time": 1748776820,
+        "rank": 18,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 161138,
+        "num": 161138,
+        "word": "仙逆",
+        "onboard_time": 1748775200,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 24196,
+        "num": 159573,
+        "word": "中方专家驳斥菲防长发言",
+        "onboard_time": 1748776340,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174047,
+        "num": 159440,
+        "word": "王楚钦赵心童成就顶峰相见佳话",
+        "onboard_time": 1748775680,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159116,
+        "num": 159116,
+        "word": "丁禹兮儿童节cos尼克狐",
+        "onboard_time": 1748768661,
+        "rank": 22,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 150208,
+        "num": 150208,
+        "word": "有存款和无存款的区别",
+        "onboard_time": 1748764641,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136057,
+        "num": 149962,
+        "word": "大鹏娱乐圈人缘",
+        "onboard_time": 1748774180,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134446,
+        "num": 149724,
+        "word": "黄子弘凡音乐节",
+        "onboard_time": 1748776400,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128795,
+        "num": 149658,
+        "word": "电影今年二十二",
+        "onboard_time": 1748775561,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107089,
+        "num": 149213,
+        "word": "郑钦文vs萨姆索诺娃",
+        "onboard_time": 1748776581,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49930,
+        "num": 148947,
+        "word": "为什么旅行都开始租无人机了",
+        "onboard_time": 1748776279,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 32963,
+        "num": 148692,
+        "word": "粽子是一种高血糖反应食物吗",
+        "onboard_time": 1748776400,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148603,
+        "num": 148603,
+        "word": "陈雨菲22连胜",
+        "onboard_time": 1748776340,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144614,
+        "num": 144614,
+        "word": "老外在韩国被骗",
+        "onboard_time": 1748774422,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143504,
+        "num": 143504,
+        "word": "原来7000块可以干这么多事",
+        "onboard_time": 1748767882,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137271,
+        "num": 137271,
+        "word": "巴黎赢了球烧了城",
+        "onboard_time": 1748766443,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131531,
+        "num": 131531,
+        "word": "陈雨菲回应夺新加坡公开赛冠军",
+        "onboard_time": 1748775920,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111578,
+        "num": 111578,
+        "word": "湖北一干部违规聚餐饮酒后猝死",
+        "onboard_time": 1748776220,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111183,
+        "num": 111183,
+        "word": "我想我会一直爱你",
+        "onboard_time": 1748776040,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107574,
+        "num": 107574,
+        "word": "冰浆",
+        "onboard_time": 1748775800,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104678,
+        "num": 104678,
+        "word": "王安宇朕的哭妃变拽妃了",
+        "onboard_time": 1748773941,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102624,
+        "num": 102624,
+        "word": "陈梦是李嘉格母女的金牌调解员",
+        "onboard_time": 1748771421,
+        "rank": 39,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 103114,
+        "num": 102568,
+        "word": "最适合祝福考生的台词出现了",
+        "onboard_time": 1748776581,
+        "rank": 40,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 102126,
+        "num": 102126,
+        "word": "第一次知道王勉的眼睛这么大",
+        "onboard_time": 1748775742,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101953,
+        "num": 101953,
+        "word": "年轻人开始买儿童用品富养自己了",
+        "onboard_time": 1748776701,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97903,
+        "num": 101120,
+        "word": "龙族更新",
+        "onboard_time": 1748772140,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100721,
+        "num": 100721,
+        "word": "印度开始研发五代战机",
+        "onboard_time": 1748776460,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94823,
+        "num": 94823,
+        "word": "生病了忘了跟小猫请假",
+        "onboard_time": 1748774241,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47964,
+        "num": 94428,
+        "word": "零跑连续3个月新势力销量第一",
+        "onboard_time": 1748772199,
+        "rank": 46,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 94166,
+        "num": 94166,
+        "word": "小沈阳演出女儿登台唱跳遭吐槽",
+        "onboard_time": 1748763260,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92477,
+        "num": 92477,
+        "word": "这两种人才是天生一对",
+        "onboard_time": 1748776519,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89865,
+        "num": 89865,
+        "word": "六一",
+        "onboard_time": 1748750780,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#重视培育未来创造未来的工作#"
+    }
+  }
+}
