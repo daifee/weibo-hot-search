@@ -1,0 +1,410 @@
+{
+  "runTime": 1748809647824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 223297,
+        "num": 223297,
+        "word": "上海警方通报迪士尼打架事件",
+        "onboard_time": 1748787802,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 80788,
+        "num": 80788,
+        "word": "何秋亊成都演唱会",
+        "onboard_time": 1748797578,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 10495,
+        "num": 66888,
+        "word": "非遗与童趣撞个满怀",
+        "onboard_time": 1748787742,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64894,
+        "num": 64894,
+        "word": "乌克兰摧毁41架俄军战略轰炸机",
+        "onboard_time": 1748786121,
+        "rank": 3,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 59530,
+        "num": 59530,
+        "word": "印度网红直播猥亵土耳其导游",
+        "onboard_time": 1748775139,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48162,
+        "num": 48162,
+        "word": "周深让你穿雨衣没让你穿这款",
+        "onboard_time": 1748785761,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47710,
+        "num": 47710,
+        "word": "藏海传第三人",
+        "onboard_time": 1748782522,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44810,
+        "num": 44810,
+        "word": "李亚鹏拟将花费上亿幼儿园无偿移交",
+        "onboard_time": 1748785281,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42297,
+        "num": 42297,
+        "word": "多次持刀砍邻居门女子被送精神鉴定",
+        "onboard_time": 1748786781,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33503,
+        "num": 33503,
+        "word": "郑钦文晋级法网8强",
+        "onboard_time": 1748787682,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28557,
+        "num": 28557,
+        "word": "韩国首尔地铁纵火案嫌疑人被抓",
+        "onboard_time": 1748793021,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27800,
+        "num": 27800,
+        "word": "老九门",
+        "onboard_time": 1748784021,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27687,
+        "num": 27687,
+        "word": "白玉兰入围奖项全名单",
+        "onboard_time": 1748782283,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27222,
+        "num": 27222,
+        "word": "苹果手机 地震预警",
+        "onboard_time": 1748774720,
+        "rank": 13,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 26185,
+        "num": 26185,
+        "word": "藏海传第三人你瞒得我好苦",
+        "onboard_time": 1748785941,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25112,
+        "num": 25112,
+        "word": "西藏山南罕见红色精灵闪电",
+        "onboard_time": 1748782400,
+        "rank": 15,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 24885,
+        "num": 24885,
+        "word": "黄子韬徐艺洋在商量婚礼了",
+        "onboard_time": 1748777961,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24315,
+        "num": 24315,
+        "word": "8旬老人105万买基金亏30万状告银行",
+        "onboard_time": 1748786901,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22373,
+        "num": 22373,
+        "word": "迪士尼打架2人互有皮外伤",
+        "onboard_time": 1748789541,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21372,
+        "num": 21372,
+        "word": "有事回童年一趟",
+        "onboard_time": 1748799197,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 26099,
+        "num": 21146,
+        "word": "刘宇宁涨粉",
+        "onboard_time": 1748791223,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23655,
+        "num": 21142,
+        "word": "洗头后这个习惯会加重脱发",
+        "onboard_time": 1748781861,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21567,
+        "num": 21053,
+        "word": "藏海传",
+        "onboard_time": 1748778260,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20581,
+        "num": 20581,
+        "word": "小学门口倒闭的店因爱重生了",
+        "onboard_time": 1748765241,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19907,
+        "num": 19907,
+        "word": "王安宇壁纸",
+        "onboard_time": 1748791161,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19480,
+        "num": 19480,
+        "word": "关注俄乌局势最新进展",
+        "onboard_time": 1748785882,
+        "rank": 25,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 18519,
+        "num": 18519,
+        "word": "距今约3万年的山顶洞人身高曝光",
+        "onboard_time": 1748787501,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 18506,
+        "num": 18506,
+        "word": "郑钦文vs萨姆索诺娃",
+        "onboard_time": 1748776581,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18490,
+        "num": 18490,
+        "word": "白鹿90花cvb收视率断层登顶",
+        "onboard_time": 1748780361,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17788,
+        "num": 17788,
+        "word": "王楚钦说等我们见面一起玩",
+        "onboard_time": 1748793141,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17702,
+        "num": 17702,
+        "word": "赵丽颖在人间大结局发文",
+        "onboard_time": 1748791341,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17265,
+        "num": 17265,
+        "word": "李东健承认与姜海琳恋情",
+        "onboard_time": 1748783181,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17189,
+        "num": 17189,
+        "word": "周深的脑洞",
+        "onboard_time": 1748795420,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16721,
+        "num": 16721,
+        "word": "学校换掉下课铃高三学生哭成泪人",
+        "onboard_time": 1748785401,
+        "rank": 33,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 16093,
+        "num": 16717,
+        "word": "六月第一天",
+        "onboard_time": 1748772140,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15497,
+        "num": 16714,
+        "word": "张杰给斗斗做了好多表情包",
+        "onboard_time": 1748794580,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14723,
+        "num": 16712,
+        "word": "李健演唱会遇暴雨全程不打伞",
+        "onboard_time": 1748780001,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14516,
+        "num": 16707,
+        "word": "WBG战胜JDG",
+        "onboard_time": 1748788942,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14351,
+        "num": 16703,
+        "word": "樊振东跟首冠地萨尔布吕肯再续前缘",
+        "onboard_time": 1748791282,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14321,
+        "num": 16701,
+        "word": "林俊杰来了演员3都得背对背吵架",
+        "onboard_time": 1748804534,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13866,
+        "num": 16697,
+        "word": "边界感是一个人很重要的修养",
+        "onboard_time": 1748796079,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12830,
+        "num": 16691,
+        "word": "冬夏女王死了",
+        "onboard_time": 1748779821,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12775,
+        "num": 16689,
+        "word": "北京奇遇海音乐节",
+        "onboard_time": 1748802376,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12545,
+        "num": 16688,
+        "word": "U16国足夺冠",
+        "onboard_time": 1748787201,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12154,
+        "num": 16683,
+        "word": "日不落",
+        "onboard_time": 1748789302,
+        "rank": 44,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 11954,
+        "num": 16679,
+        "word": "俄两座桥梁遭破坏事件被定性为恐袭",
+        "onboard_time": 1748805555,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11772,
+        "num": 16675,
+        "word": "萨尔布吕肯欧冠男团夺冠",
+        "onboard_time": 1748797937,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11589,
+        "num": 16671,
+        "word": "碟中谍8",
+        "onboard_time": 1748790501,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11311,
+        "num": 16665,
+        "word": "李昀锐翻牌",
+        "onboard_time": 1748789602,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11269,
+        "num": 16662,
+        "word": "祝你成为快乐的大人",
+        "onboard_time": 1748768600,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系少年儿童健康成长#"
+    }
+  }
+}
