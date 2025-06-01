@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748770766218,
+  "endTime": 1748773595422,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -57,6 +57,14 @@
       "onboard_time": 1748753001,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1236397,
+      "num": 1236397,
+      "word": "小学门口倒闭的店因爱重生了",
+      "onboard_time": 1748765241,
+      "rank": 6,
+      "category": "正能量"
     },
     {
       "raw_hot": 1147442,
@@ -155,14 +163,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 675828,
-      "num": 675828,
-      "word": "小学门口倒闭的店因爱重生了",
-      "onboard_time": 1748765241,
-      "rank": 6,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 658988,
       "num": 305014,
       "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501166,
+      "num": 501166,
+      "word": "孙颖莎杂志",
+      "onboard_time": 1748768420,
+      "rank": 6,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 498438,
       "num": 498438,
       "word": "王楚钦晒小朋友们的祝福",
@@ -240,6 +248,14 @@
       "word": "腾讯视频六月大剧片单",
       "onboard_time": 1748750061,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 474499,
+      "num": 474499,
+      "word": "藏海传全端破亿",
+      "onboard_time": 1748769620,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -331,16 +347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369031,
-      "num": 369031,
-      "word": "孙颖莎杂志",
-      "onboard_time": 1748768420,
-      "rank": 6,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 353219,
-      "num": 184998,
+      "num": 185220,
       "word": "祝你成为快乐的大人",
       "onboard_time": 1748768600,
       "rank": 20,
@@ -369,6 +377,14 @@
       "onboard_time": 1748698282,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343563,
+      "num": 343563,
+      "word": "比邓超还接受不了他变老",
+      "onboard_time": 1748767940,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 343492,
@@ -417,6 +433,14 @@
       "onboard_time": 1748761100,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322423,
+      "num": 228218,
+      "word": "龙族更新",
+      "onboard_time": 1748772140,
+      "rank": 12,
+      "category": "动漫"
     },
     {
       "raw_hot": 316925,
@@ -619,12 +643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232814,
-      "num": 232814,
-      "word": "藏海传全端破亿",
-      "onboard_time": 1748769620,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 240006,
+      "num": 240006,
+      "word": "知情人回应迪士尼情侣和一家三口扭打",
+      "onboard_time": 1748772499,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232346,
@@ -633,6 +657,14 @@
       "onboard_time": 1748733918,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221152,
+      "num": 221152,
+      "word": "交费和缴费的区别",
+      "onboard_time": 1748771000,
+      "rank": 15,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 218804,
@@ -691,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206128,
-      "num": 180633,
-      "word": "比邓超还接受不了他变老",
-      "onboard_time": 1748767940,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204661,
       "num": 204661,
       "word": "老祖宗的审美才是高定奢侈品",
@@ -713,6 +737,14 @@
       "onboard_time": 1748750959,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201979,
+      "num": 201979,
+      "word": "六月第一天",
+      "onboard_time": 1748772140,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200431,
@@ -883,12 +915,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174985,
+      "num": 174985,
+      "word": "一场雨让周深爆改林俊杰",
+      "onboard_time": 1748771781,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173793,
       "num": 242960,
       "word": "易烊千玺唱了请你不要睡好吗",
       "onboard_time": 1748737819,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173013,
+      "num": 173013,
+      "word": "赵丽颖这么演我可要哭了",
+      "onboard_time": 1748773040,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 172987,
@@ -953,6 +1001,14 @@
       "onboard_time": 1748722453,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 167154,
+      "num": 177398,
+      "word": "香暗荼咬藏海",
+      "onboard_time": 1748772140,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 165440,
@@ -1049,6 +1105,14 @@
       "onboard_time": 1748760439,
       "rank": 46,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 149906,
+      "num": 149906,
+      "word": "陈梦是李嘉格母女的金牌调解员",
+      "onboard_time": 1748771421,
+      "rank": 27,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 149557,
@@ -1203,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132909,
+      "num": 132909,
+      "word": "博士很有用的",
+      "onboard_time": 1748772561,
+      "rank": 30,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 132765,
       "num": 132765,
       "word": "平津侯讨厌被说老",
@@ -1267,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127765,
+      "num": 199842,
+      "word": "零跑连续3个月新势力销量第一",
+      "onboard_time": 1748772199,
+      "rank": 17,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 127552,
       "num": 127552,
       "word": "永琪和咏琪终于同框了",
@@ -1305,6 +1385,14 @@
       "onboard_time": 1748747361,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124302,
+      "num": 124302,
+      "word": "碟中谍",
+      "onboard_time": 1748772799,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 123936,
@@ -1579,6 +1667,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98952,
+      "num": 98952,
+      "word": "JDG对战WBG",
+      "onboard_time": 1748773280,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 98619,
+      "num": 98619,
+      "word": "南通狼4比0大胜泰州凤",
+      "onboard_time": 1748772919,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 97958,
       "num": 97484,
       "word": "鞠婧祎杂志",
@@ -1643,6 +1747,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95076,
+      "num": 95076,
+      "word": "张真源断句把周深吓跪了",
+      "onboard_time": 1748773040,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 94115,
+      "num": 94115,
+      "word": "江苏省城市足球联赛",
+      "onboard_time": 1748772860,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 93916,
+      "num": 93916,
+      "word": "剧播两年又被肖战笑容暖到了",
+      "onboard_time": 1748772199,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93452,
       "num": 93452,
       "word": "董力二胎出生的时候全家都去迎接了",
@@ -1705,6 +1833,14 @@
       "onboard_time": 1748693840,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 89570,
+      "num": 195650,
+      "word": "刘维直播剧透宋雨琦开场秀",
+      "onboard_time": 1748772680,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 88862,
@@ -1940,7 +2076,7 @@
     },
     {
       "raw_hot": 73432,
-      "num": 103479,
+      "num": 108089,
       "word": "孩子默写出一个年度错字",
       "onboard_time": 1748770161,
       "rank": 38,
@@ -2011,12 +2147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63718,
+      "num": 190967,
+      "word": "洗牙会造成牙齿松动吗",
+      "onboard_time": 1748772739,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63292,
       "num": 63292,
       "word": "莫离 梁婷婷",
       "onboard_time": 1748704762,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63272,
+      "num": 173555,
+      "word": "诚C儿童节自拍live图",
+      "onboard_time": 1748772140,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 62882,
@@ -2531,6 +2683,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 15767,
+      "num": 98639,
+      "word": "假水玩具超半数硼迁移超标",
+      "onboard_time": 1748773580,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 15037,
       "num": 209729,
       "word": "龙舟破浪而出气势如虹",
@@ -2579,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10006,
+      "num": 133234,
+      "word": "硬核龙舟祝福端午",
+      "onboard_time": 1748771660,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6069,
       "num": 121020,
       "word": "端午过后怎样消耗剩下的粽子",
@@ -2599,6 +2767,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#重视培育未来创造未来的工作#"
     }
   ]
 }
