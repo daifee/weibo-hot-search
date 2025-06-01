@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748755539821,
+  "endTime": 1748756564580,
   "band_list": [
     {
       "raw_hot": 1552081,
@@ -19,8 +19,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1285599,
+      "num": 1285599,
+      "word": "中国乒协理解和尊重樊振东意愿",
+      "onboard_time": 1748753001,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1147442,
-      "num": 439728,
+      "num": 446555,
       "word": "沈梦辰被资本做局了",
       "onboard_time": 1748736978,
       "rank": 10,
@@ -59,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 785256,
+      "num": 643678,
+      "word": "王爷急着圆房我急着出生",
+      "onboard_time": 1748752639,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 784903,
       "num": 556500,
       "word": "杭州一凶宅竞拍14轮后七五折成交",
@@ -75,20 +91,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 718531,
-      "num": 1114964,
-      "word": "中国乒协理解和尊重樊振东意愿",
-      "onboard_time": 1748753001,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 691617,
-      "num": 643678,
-      "word": "王爷急着圆房我急着出生",
-      "onboard_time": 1748752639,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 698578,
+      "num": 698578,
+      "word": "张萌签约王星",
+      "onboard_time": 1748753901,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 685203,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 643193,
+      "num": 609642,
+      "word": "时全是曹公公义子",
+      "onboard_time": 1748754080,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 621751,
       "num": 326313,
       "word": "塞尔维亚女孩乘滑翔伞疑突发恐慌坠亡",
@@ -121,14 +137,6 @@
       "onboard_time": 1748752520,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 605272,
-      "num": 605272,
-      "word": "张萌签约王星",
-      "onboard_time": 1748753901,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 599252,
@@ -147,12 +155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 498438,
+      "num": 498438,
+      "word": "王楚钦晒小朋友们的祝福",
+      "onboard_time": 1748755761,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 480224,
       "num": 480224,
       "word": "腾讯视频六月大剧片单",
       "onboard_time": 1748750061,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 471687,
+      "num": 471687,
+      "word": "全球名校疯抢哈佛留学生",
+      "onboard_time": 1748751681,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 466556,
@@ -168,22 +192,6 @@
       "word": "一德克士店长用消费券套现13.7万",
       "onboard_time": 1748743521,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 445794,
-      "num": 445794,
-      "word": "时全是曹公公义子",
-      "onboard_time": 1748754080,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 438681,
-      "num": 438681,
-      "word": "全球名校疯抢哈佛留学生",
-      "onboard_time": 1748751681,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -257,6 +265,14 @@
       "onboard_time": 1748697022,
       "rank": 8,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 333174,
+      "num": 333174,
+      "word": "五哈下一期有王俊凯",
+      "onboard_time": 1748754381,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 316925,
@@ -379,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244856,
-      "num": 244856,
-      "word": "五哈下一期有王俊凯",
-      "onboard_time": 1748754381,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
@@ -401,6 +409,14 @@
       "onboard_time": 1748703622,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216923,
+      "num": 216923,
+      "word": "樊振东加盟德甲联赛意味着什么",
+      "onboard_time": 1748755461,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 216204,
@@ -459,7 +475,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198972,
+      "raw_hot": 200431,
       "num": 248225,
       "word": "虞书欣晒儿时旧照",
       "onboard_time": 1748752760,
@@ -563,7 +579,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181743,
+      "raw_hot": 181879,
       "num": 440601,
       "word": "樊振东6月仍会出战中国乒超",
       "onboard_time": 1748754021,
@@ -609,6 +625,14 @@
       "onboard_time": 1748688501,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172102,
+      "num": 172102,
+      "word": "许嵩 就算埋头做包子一样会有出路",
+      "onboard_time": 1748755339,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 171229,
@@ -683,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162277,
+      "num": 475230,
+      "word": "美延长对中国301条款关税的部分豁免",
+      "onboard_time": 1748755220,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159453,
       "num": 246584,
       "word": "孙颖莎问答案之书能突破自我吗",
@@ -712,6 +744,14 @@
       "word": "丁真说我不可能一辈子纯真",
       "onboard_time": 1748749280,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143841,
+      "num": 141747,
+      "word": "王鹤棣差点给王耀庆一脚",
+      "onboard_time": 1748755580,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -779,20 +819,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136042,
-      "num": 136042,
-      "word": "美延长对中国301条款关税的部分豁免",
-      "onboard_time": 1748755220,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 133699,
-      "num": 133699,
-      "word": "樊振东加盟德甲联赛意味着什么",
-      "onboard_time": 1748755461,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 134791,
+      "num": 213039,
+      "word": "于正说临江仙集均打底6000",
+      "onboard_time": 1748755100,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 132765,
@@ -819,14 +851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 130047,
-      "num": 130047,
-      "word": "许嵩 就算埋头做包子一样会有出路",
-      "onboard_time": 1748755339,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129700,
       "num": 129700,
       "word": "刘浩存晋江现言女主有脸了",
@@ -849,6 +873,14 @@
       "onboard_time": 1748750240,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126058,
+      "num": 126058,
+      "word": "北汽高管质问劣币驱逐良币",
+      "onboard_time": 1748756181,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 125167,
@@ -881,6 +913,22 @@
       "onboard_time": 1748746881,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119374,
+      "num": 268332,
+      "word": "京东铁皮小青蛙",
+      "onboard_time": 1748754320,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 118919,
+      "num": 118919,
+      "word": "张碧晨你往视频里加了什么",
+      "onboard_time": 1748756539,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 115375,
@@ -921,14 +969,6 @@
       "onboard_time": 1748749821,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110053,
-      "num": 268332,
-      "word": "京东铁皮小青蛙",
-      "onboard_time": 1748754320,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 109176,
@@ -1001,14 +1041,6 @@
       "onboard_time": 1748753300,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104011,
-      "num": 213039,
-      "word": "于正说临江仙集均打底6000",
-      "onboard_time": 1748755100,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 102530,
@@ -1115,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 87122,
+      "num": 186824,
+      "word": "高芙赞郑钦文超强体能",
+      "onboard_time": 1748755639,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86935,
       "num": 86935,
       "word": "女老师说不要当一个扫兴的班主任",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1748747240,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81571,
+      "num": 116996,
+      "word": "天猫蛋仔梦幻联动",
+      "onboard_time": 1748756302,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 81465,
@@ -1347,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62165,
+      "num": 193838,
+      "word": "东决玩命了",
+      "onboard_time": 1748748920,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61601,
       "num": 61601,
       "word": "贾乃亮和甜馨过端午节",
@@ -1441,6 +1497,14 @@
       "onboard_time": 1748733555,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49531,
+      "num": 141945,
+      "word": "喜人被儿童节做局了",
+      "onboard_time": 1748755520,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49272,
@@ -1587,7 +1651,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27725,
+      "raw_hot": 27763,
       "num": 265231,
       "word": "早上是先刷牙还是吃完早餐再刷",
       "onboard_time": 1748754139,
@@ -1601,14 +1665,6 @@
       "onboard_time": 1748749460,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 27169,
-      "num": 134805,
-      "word": "喜人被儿童节做局了",
-      "onboard_time": 1748755520,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26914,
@@ -1667,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19024,
+      "num": 192785,
+      "word": "今年端午最佳",
+      "onboard_time": 1748756302,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17940,
       "num": 63284,
       "word": "起猛了看到广州CBD堵船了",
@@ -1707,12 +1771,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 11816,
+      "num": 218130,
+      "word": "巴铁将军谈到中国战机难掩笑容",
+      "onboard_time": 1748756302,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 11636,
       "num": 15125,
       "word": "为科技强国建设作出更大贡献",
       "onboard_time": 1748724253,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10186,
+      "num": 183620,
+      "word": "想瘦的年轻人狂炫绿化带",
+      "onboard_time": 1748756359,
+      "rank": 30,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
