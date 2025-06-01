@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748817746306,
+  "endTime": 1748820270595,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -305,6 +305,14 @@
       "onboard_time": 1748775800,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 608088,
+      "num": 158193,
+      "word": "苏州一医院误将腹超做成阴超",
+      "onboard_time": 1748819897,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 599252,
@@ -827,6 +835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 281538,
+      "num": 281538,
+      "word": "美国民众开始不愿花钱了",
+      "onboard_time": 1748812153,
+      "rank": 39,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 280409,
       "num": 280409,
       "word": "藏海传",
@@ -921,6 +937,14 @@
       "onboard_time": 1748691861,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251901,
+      "num": 251901,
+      "word": "樊振东留洋不是说再见是新的开始",
+      "onboard_time": 1748819836,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 248021,
@@ -1243,14 +1267,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 191366,
-      "num": 191366,
-      "word": "美国民众开始不愿花钱了",
-      "onboard_time": 1748812153,
-      "rank": 39,
-      "category": "海外新闻,财经"
-    },
-    {
       "raw_hot": 190633,
       "num": 190633,
       "word": "WBG空ban",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1748751022,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187035,
+      "num": 187035,
+      "word": "谈恋爱真的得找个大方的",
+      "onboard_time": 1748819897,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 186316,
@@ -3427,6 +3451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63208,
+      "num": 63208,
+      "word": "藏海被庄之行骗了",
+      "onboard_time": 1748819957,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62882,
       "num": 62882,
       "word": "徐明浩赵美延cha",
@@ -3513,6 +3545,14 @@
       "onboard_time": 1748700023,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 56298,
+      "num": 56298,
+      "word": "缺爱的人害怕进入亲密关系",
+      "onboard_time": 1748814675,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 55620,
@@ -3715,6 +3755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 41825,
+      "num": 41825,
+      "word": "奴奴荼荼咬唇吻",
+      "onboard_time": 1748815875,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41628,
       "num": 226434,
       "word": "中方专家驳斥菲防长发言",
@@ -3777,6 +3825,22 @@
       "onboard_time": 1748704161,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38926,
+      "num": 38926,
+      "word": "医院回应医生误将腹超做成阴超",
+      "onboard_time": 1748819836,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38393,
+      "num": 38393,
+      "word": "藏海第二次失手",
+      "onboard_time": 1748819957,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 38108,
@@ -3867,6 +3931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 32013,
+      "num": 32013,
+      "word": "撒娇超过三句没达到目的就发火",
+      "onboard_time": 1748819897,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31727,
       "num": 196433,
       "word": "怎么刷牙能够有效去除牙菌斑",
@@ -3907,6 +3979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29968,
+      "num": 29968,
+      "word": "林俊杰来了演员3都得背对背吵架",
+      "onboard_time": 1748804534,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29569,
       "num": 29569,
       "word": "无限超越班",
@@ -3937,14 +4017,6 @@
       "onboard_time": 1748716095,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28649,
-      "num": 28649,
-      "word": "缺爱的人害怕进入亲密关系",
-      "onboard_time": 1748814675,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 27974,
@@ -4075,20 +4147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23034,
-      "num": 27016,
-      "word": "奴奴荼荼咬唇吻",
-      "onboard_time": 1748815875,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22364,
       "num": 167955,
       "word": "被中国的非遗震撼到了",
       "onboard_time": 1748788282,
       "rank": 29,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 22343,
+      "num": 53948,
+      "word": "特朗普再催哈佛交出国际学生名单",
+      "onboard_time": 1748820017,
+      "rank": 29,
+      "category": "国际时政,教育"
     },
     {
       "raw_hot": 22298,
@@ -4163,14 +4235,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 18002,
-      "num": 27020,
-      "word": "林俊杰来了演员3都得背对背吵架",
-      "onboard_time": 1748804534,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 17940,
       "num": 63284,
       "word": "起猛了看到广州CBD堵船了",
@@ -4209,6 +4273,14 @@
       "onboard_time": 1748773880,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 15082,
+      "num": 38323,
+      "word": "雄安白洋淀有一座嘎子村",
+      "onboard_time": 1748819356,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15037,
