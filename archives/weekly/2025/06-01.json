@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748784746376,
+  "endTime": 1748785421571,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1309842,
+      "num": 1309842,
+      "word": "藏海传第三人",
+      "onboard_time": 1748782522,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1293020,
       "num": 289746,
       "word": "小泡芙变成中泡芙了",
@@ -81,14 +89,6 @@
       "onboard_time": 1748765241,
       "rank": 6,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 1194808,
-      "num": 1194808,
-      "word": "藏海传第三人",
-      "onboard_time": 1748782522,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 1147442,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 518135,
+      "num": 332411,
+      "word": "李东健承认与姜海琳恋情",
+      "onboard_time": 1748783181,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514024,
       "num": 288959,
       "word": "在哈佛演讲中国女生陷入两难",
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418540,
+      "num": 418540,
+      "word": "白玉兰入围奖项全名单",
+      "onboard_time": 1748782283,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404107,
       "num": 404107,
       "word": "孙颖莎云见面会",
@@ -415,22 +431,6 @@
       "num": 278986,
       "word": "陈妍希晒与儿子洱海背影照",
       "onboard_time": 1748757979,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 386116,
-      "num": 386116,
-      "word": "白玉兰入围奖项全名单",
-      "onboard_time": 1748782283,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 383801,
-      "num": 332411,
-      "word": "李东健承认与姜海琳恋情",
-      "onboard_time": 1748783181,
       "rank": 11,
       "category": "艺人"
     },
@@ -627,6 +627,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 303436,
+      "num": 303436,
+      "word": "孙中山孙女曾无偿捐赠大批文物",
+      "onboard_time": 1748780180,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302234,
       "num": 302234,
       "word": "曹公公怎么这么难杀",
@@ -673,14 +681,6 @@
       "onboard_time": 1748703922,
       "rank": 4,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 290370,
-      "num": 290370,
-      "word": "孙中山孙女曾无偿捐赠大批文物",
-      "onboard_time": 1748780180,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 289471,
@@ -827,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233447,
+      "num": 216475,
+      "word": "老九门",
+      "onboard_time": 1748784021,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
@@ -916,7 +924,7 @@
     },
     {
       "raw_hot": 206048,
-      "num": 137837,
+      "num": 147191,
       "word": "郑钦文抢七赢了",
       "onboard_time": 1748783781,
       "rank": 30,
@@ -945,6 +953,14 @@
       "onboard_time": 1748772140,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200470,
+      "num": 200470,
+      "word": "任嘉伦音乐节",
+      "onboard_time": 1748784743,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 200431,
@@ -1091,6 +1107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185685,
+      "num": 185685,
+      "word": "U16国足vs澳大利亚U16",
+      "onboard_time": 1748784501,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185539,
       "num": 185539,
       "word": "陈伟霆曾舜晞陈瑶九门开机同框",
@@ -1171,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176421,
+      "num": 176421,
+      "word": "宋威龙笑脸baby冷脸daddy",
+      "onboard_time": 1748784561,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176266,
       "num": 176266,
       "word": "华晨宇大屏特效把观众集体变熊猫",
@@ -1217,14 +1249,6 @@
       "onboard_time": 1748766621,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172518,
-      "num": 172518,
-      "word": "老九门",
-      "onboard_time": 1748784021,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 172472,
@@ -1380,7 +1404,7 @@
     },
     {
       "raw_hot": 154997,
-      "num": 154997,
+      "num": 313421,
       "word": "李健演唱会遇暴雨全程不打伞",
       "onboard_time": 1748780001,
       "rank": 33,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1748765962,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154630,
+      "num": 154630,
+      "word": "藏海脖子是5A级颈区打卡胜地吗",
+      "onboard_time": 1748784021,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 154243,
@@ -1489,6 +1521,14 @@
       "onboard_time": 1748756302,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 145954,
+      "num": 145954,
+      "word": "毛不易见我时带上你那源文件",
+      "onboard_time": 1748784922,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 145784,
@@ -1683,14 +1723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133260,
-      "num": 133260,
-      "word": "藏海脖子是5A级颈区打卡胜地吗",
-      "onboard_time": 1748784021,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132909,
       "num": 132909,
       "word": "博士很有用的",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1748777480,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132230,
+      "num": 132230,
+      "word": "吴宣仪音乐节大屏",
+      "onboard_time": 1748785042,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 132000,
@@ -1867,6 +1907,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 122719,
+      "num": 122719,
+      "word": "学校换掉下课铃高三学生哭成泪人",
+      "onboard_time": 1748785401,
+      "rank": 36,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 122392,
       "num": 122392,
       "word": "歌手给白举纲写的离别文",
@@ -2003,12 +2051,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 112565,
-      "num": 112565,
-      "word": "U16国足vs澳大利亚U16",
-      "onboard_time": 1748784501,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 113121,
+      "num": 113121,
+      "word": "小孩哥这可是水哥啊",
+      "onboard_time": 1748785281,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112931,
+      "num": 112931,
+      "word": "李亚鹏拟将花费上亿幼儿园无偿移交",
+      "onboard_time": 1748785281,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 112182,
@@ -2081,14 +2137,6 @@
       "onboard_time": 1748750061,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 108825,
-      "num": 108825,
-      "word": "宋威龙笑脸baby冷脸daddy",
-      "onboard_time": 1748784561,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 107663,
@@ -2177,6 +2225,14 @@
       "onboard_time": 1748759481,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104248,
+      "num": 104248,
+      "word": "王鹤棣你知道莽村的莽怎么写吗",
+      "onboard_time": 1748785281,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 103803,
@@ -2299,6 +2355,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 98355,
+      "num": 98355,
+      "word": "崔杋圭panic首舞台",
+      "onboard_time": 1748785281,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 98012,
+      "num": 98012,
+      "word": "smtr25练习生超话换头像",
+      "onboard_time": 1748785161,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97958,
       "num": 97484,
       "word": "鞠婧祎杂志",
@@ -2337,6 +2409,14 @@
       "onboard_time": 1748765360,
       "rank": 17,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 96908,
+      "num": 96908,
+      "word": "京东宣布将扩招外卖全职骑手至15万名",
+      "onboard_time": 1748784802,
+      "rank": 48,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 96689,
@@ -2931,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58516,
+      "num": 602618,
+      "word": "和院士一起科学过六一",
+      "onboard_time": 1748775680,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57018,
       "num": 57018,
       "word": "蒯铎之死背后的秘密",
@@ -2953,14 +3041,6 @@
       "onboard_time": 1748761340,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 55427,
-      "num": 602618,
-      "word": "和院士一起科学过六一",
-      "onboard_time": 1748775680,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55269,
@@ -3211,6 +3291,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 36726,
+      "num": 192232,
+      "word": "伞兵旅行明信片",
+      "onboard_time": 1748784622,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 36696,
       "num": 116405,
       "word": "银魂神威好伟大的脸",
@@ -3393,14 +3481,6 @@
       "onboard_time": 1748715435,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24867,
-      "num": 137755,
-      "word": "伞兵旅行明信片",
-      "onboard_time": 1748784622,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 24455,
