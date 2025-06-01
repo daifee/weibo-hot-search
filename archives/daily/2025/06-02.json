@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748813877271,
+  "endTime": 1748816651388,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -225,6 +225,14 @@
       "onboard_time": 1748793141,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111445,
+      "num": 111445,
+      "word": "美国民众开始不愿花钱了",
+      "onboard_time": 1748812153,
+      "rank": 39,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 111076,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 25985,
-      "num": 26172,
+      "num": 26996,
       "word": "WBG战胜JDG",
       "onboard_time": 1748788942,
       "rank": 39,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 24053,
-      "num": 26172,
+      "num": 27042,
       "word": "北京奇遇海音乐节",
       "onboard_time": 1748802376,
       "rank": 49,
@@ -515,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22660,
-      "num": 22660,
-      "word": "美国民众开始不愿花钱了",
-      "onboard_time": 1748812153,
-      "rank": 39,
-      "category": "海外新闻,财经"
-    },
-    {
       "raw_hot": 21234,
       "num": 26171,
       "word": "鞠婧祎时尚COSMO24h战报",
@@ -531,20 +531,36 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 20840,
+      "num": 27110,
+      "word": "缺爱的人害怕进入亲密关系",
+      "onboard_time": 1748814675,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 18246,
+      "num": 27057,
+      "word": "加沙孩子说感觉在战火中活了100年",
+      "onboard_time": 1748812153,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16789,
-      "num": 21339,
+      "num": 27020,
       "word": "林俊杰来了演员3都得背对背吵架",
       "onboard_time": 1748804534,
       "rank": 43,
       "category": "综艺"
     },
     {
-      "raw_hot": 13827,
-      "num": 25167,
-      "word": "加沙孩子说感觉在战火中活了100年",
-      "onboard_time": 1748812153,
-      "rank": 48,
-      "category": "海外新闻"
+      "raw_hot": 14061,
+      "num": 27016,
+      "word": "奴奴荼荼咬唇吻",
+      "onboard_time": 1748815875,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 11954,
