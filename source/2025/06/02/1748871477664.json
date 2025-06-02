@@ -1,0 +1,410 @@
+{
+  "runTime": 1748871477664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1424804,
+        "num": 1424804,
+        "word": "夏天这种凉鞋易致孩子性早熟还有毒",
+        "onboard_time": 1748857701,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1214123,
+        "num": 1214123,
+        "word": "锦绣芳华",
+        "onboard_time": 1748866222,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41407,
+        "num": 901804,
+        "word": "全国多地开启返程模式",
+        "onboard_time": 1748859621,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 896181,
+        "num": 896181,
+        "word": "普京底线被乌克兰撕开",
+        "onboard_time": 1748864180,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 755108,
+        "num": 755108,
+        "word": "面具人真是赵秉文",
+        "onboard_time": 1748860639,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 651739,
+        "num": 651739,
+        "word": "许其亮同志逝世",
+        "onboard_time": 1748863520,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394135,
+        "num": 394135,
+        "word": "尾号0000000手机号拍出61.2万",
+        "onboard_time": 1748859080,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392228,
+        "num": 392228,
+        "word": "女足迪丽热巴杀青",
+        "onboard_time": 1748865801,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380672,
+        "num": 380672,
+        "word": "Bin 闹剧结束了",
+        "onboard_time": 1748864542,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121394,
+        "num": 378632,
+        "word": "中国女老板再次拒绝美国PUA",
+        "onboard_time": 1748860941,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1045787,
+        "num": 375711,
+        "word": "48岁妻子产子丈夫称孙子比儿子大3岁",
+        "onboard_time": 1748870121,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684283,
+        "num": 373396,
+        "word": "女童回家被陌生男子拖进小巷",
+        "onboard_time": 1748849839,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 818915,
+        "num": 367071,
+        "word": "迪丽热巴撕拉片",
+        "onboard_time": 1748861061,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513065,
+        "num": 363771,
+        "word": "澳门偶遇Angelababy拍摄",
+        "onboard_time": 1748870002,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363648,
+        "num": 363648,
+        "word": "藏海不知道星斗死了",
+        "onboard_time": 1748864542,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356081,
+        "num": 356081,
+        "word": "江苏唯一真南哥之争已白热化",
+        "onboard_time": 1748866821,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328317,
+        "num": 328317,
+        "word": "张凌赫撕拉片",
+        "onboard_time": 1748865200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324986,
+        "num": 324986,
+        "word": "电影女足",
+        "onboard_time": 1748870361,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316791,
+        "num": 316791,
+        "word": "藏海被扇巴掌",
+        "onboard_time": 1748870722,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19505,
+        "num": 305119,
+        "word": "被子颜色会影响睡眠吗",
+        "onboard_time": 1748870662,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1282790,
+        "num": 303958,
+        "word": "何秋亊方向汪苏泷道歉",
+        "onboard_time": 1748859800,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300393,
+        "num": 300393,
+        "word": "鞠婧祎撕拉片",
+        "onboard_time": 1748864061,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279734,
+        "num": 279734,
+        "word": "绿发会回应涉蒋雨融争议",
+        "onboard_time": 1748868801,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256440,
+        "num": 256440,
+        "word": "累点很低的人建议改掉6个习惯",
+        "onboard_time": 1748866761,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256387,
+        "num": 256387,
+        "word": "维生素B竟然能缓解这么多小毛病",
+        "onboard_time": 1748854221,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240562,
+        "num": 240562,
+        "word": "Sunnee母亲病重",
+        "onboard_time": 1748869041,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203297,
+        "num": 203297,
+        "word": "港迪偶遇李兰迪",
+        "onboard_time": 1748869583,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202930,
+        "num": 202930,
+        "word": "谁懂陈铭这句话的含金量",
+        "onboard_time": 1748869583,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185478,
+        "num": 185478,
+        "word": "内娱多位男明星减肥成功",
+        "onboard_time": 1748869521,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36779,
+        "num": 182374,
+        "word": "谁在买巴黎世家高定",
+        "onboard_time": 1748870481,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 289001,
+        "num": 182248,
+        "word": "皇上藏海 我们好像在哪儿见过",
+        "onboard_time": 1748871022,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181952,
+        "num": 181952,
+        "word": "决战撕拉片之巅",
+        "onboard_time": 1748870183,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178183,
+        "num": 178183,
+        "word": "2025乒超联赛",
+        "onboard_time": 1748867060,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171789,
+        "num": 171789,
+        "word": "马嘉祺歌手vlog",
+        "onboard_time": 1748871022,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158025,
+        "num": 158025,
+        "word": "杨幂私下超爱给谢依霖晒小糯米",
+        "onboard_time": 1748843300,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155719,
+        "num": 155719,
+        "word": "黄圣依无法接受自己一天无所事事",
+        "onboard_time": 1748866521,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139189,
+        "num": 139189,
+        "word": "美国企业想买中国制造也得排队了",
+        "onboard_time": 1748861360,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137741,
+        "num": 137741,
+        "word": "苏新皓开箱权志龙小卡",
+        "onboard_time": 1748865023,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120732,
+        "num": 120732,
+        "word": "贴身内衣藏臭屁虫卵人裂开了",
+        "onboard_time": 1748848701,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120450,
+        "num": 120450,
+        "word": "藏海后面知道得多刀啊",
+        "onboard_time": 1748871261,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119570,
+        "num": 119570,
+        "word": "佩古拉vs布瓦松",
+        "onboard_time": 1748871202,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119215,
+        "num": 119215,
+        "word": "BLG距离MSI只差一步",
+        "onboard_time": 1748866401,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117023,
+        "num": 117023,
+        "word": "6月应季水果大全",
+        "onboard_time": 1748867961,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 114416,
+        "num": 114416,
+        "word": "TES被零封",
+        "onboard_time": 1748864901,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112294,
+        "num": 112294,
+        "word": "易烊千玺一礼成人送给所有高考生",
+        "onboard_time": 1748866521,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108847,
+        "num": 108847,
+        "word": "数架歼10战机空中近距离格斗",
+        "onboard_time": 1748868442,
+        "rank": 45,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 106817,
+        "num": 106817,
+        "word": "舟山东极岛等多个海岛游客反映被困",
+        "onboard_time": 1748868381,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106753,
+        "num": 106753,
+        "word": "藏海石一平对峙",
+        "onboard_time": 1748869101,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106585,
+        "num": 106585,
+        "word": "日本回应7月5日末日地震预言疯传",
+        "onboard_time": 1748871442,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102880,
+        "num": 102880,
+        "word": "湖南机场集团董事长涉性侵案职务撤下",
+        "onboard_time": 1748867542,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平挂念这块隋碑40余年#"
+    }
+  }
+}

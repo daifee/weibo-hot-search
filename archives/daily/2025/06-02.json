@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748869708807,
+  "endTime": 1748871477664,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -43,20 +43,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1424804,
+      "num": 1424804,
+      "word": "夏天这种凉鞋易致孩子性早熟还有毒",
+      "onboard_time": 1748857701,
+      "rank": 0,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1362008,
       "num": 1362008,
       "word": "藏海传面具人身份终于揭秘",
       "onboard_time": 1748834779,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1360014,
-      "num": 1360014,
-      "word": "夏天这种凉鞋易致孩子性早熟还有毒",
-      "onboard_time": 1748857701,
-      "rank": 0,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1359068,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1214123,
+      "num": 1214123,
+      "word": "锦绣芳华",
+      "onboard_time": 1748866222,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1150707,
       "num": 614325,
       "word": "蔡徐坤洛杉矶音乐节舞台",
@@ -97,6 +105,14 @@
       "onboard_time": 1748860639,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1045787,
+      "num": 375711,
+      "word": "48岁妻子产子丈夫称孙子比儿子大3岁",
+      "onboard_time": 1748870121,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1024126,
@@ -128,14 +144,6 @@
       "word": "临江仙定档",
       "onboard_time": 1748829679,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 911993,
-      "num": 911993,
-      "word": "锦绣芳华",
-      "onboard_time": 1748866222,
-      "rank": 4,
       "category": "剧集"
     },
     {
@@ -281,6 +289,14 @@
       "onboard_time": 1748840901,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 513065,
+      "num": 363771,
+      "word": "澳门偶遇Angelababy拍摄",
+      "onboard_time": 1748870002,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 504276,
@@ -507,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356081,
+      "num": 356081,
+      "word": "江苏唯一真南哥之争已白热化",
+      "onboard_time": 1748866821,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352469,
       "num": 352469,
       "word": "藏海传播放量再度破亿",
@@ -563,6 +587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 324986,
+      "num": 324986,
+      "word": "电影女足",
+      "onboard_time": 1748870361,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321567,
       "num": 235645,
       "word": "新说唱2025",
@@ -577,6 +609,14 @@
       "onboard_time": 1748848759,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316791,
+      "num": 316791,
+      "word": "藏海被扇巴掌",
+      "onboard_time": 1748870722,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 315650,
@@ -620,7 +660,7 @@
     },
     {
       "raw_hot": 311780,
-      "num": 230418,
+      "num": 256387,
       "word": "维生素B竟然能缓解这么多小毛病",
       "onboard_time": 1748854221,
       "rank": 20,
@@ -649,6 +689,14 @@
       "onboard_time": 1748827699,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289001,
+      "num": 182248,
+      "word": "皇上藏海 我们好像在哪儿见过",
+      "onboard_time": 1748871022,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 287648,
@@ -681,6 +729,14 @@
       "onboard_time": 1748812153,
       "rank": 39,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 279734,
+      "num": 356030,
+      "word": "绿发会回应涉蒋雨融争议",
+      "onboard_time": 1748868801,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279228,
@@ -771,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256440,
+      "num": 256440,
+      "word": "累点很低的人建议改掉6个习惯",
+      "onboard_time": 1748866761,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 256136,
       "num": 237297,
       "word": "云合",
@@ -793,14 +857,6 @@
       "onboard_time": 1748869583,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 254241,
-      "num": 254241,
-      "word": "江苏唯一真南哥之争已白热化",
-      "onboard_time": 1748866821,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 251324,
@@ -841,6 +897,14 @@
       "onboard_time": 1748842521,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240562,
+      "num": 240562,
+      "word": "Sunnee母亲病重",
+      "onboard_time": 1748869041,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 240255,
@@ -1003,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203297,
+      "num": 203297,
+      "word": "港迪偶遇李兰迪",
+      "onboard_time": 1748869583,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203163,
       "num": 181788,
       "word": "严浩翔万妮达没有一秒出镜是浪费的",
@@ -1025,14 +1097,6 @@
       "onboard_time": 1748846481,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 201322,
-      "num": 201322,
-      "word": "累点很低的人建议改掉6个习惯",
-      "onboard_time": 1748866761,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 200256,
@@ -1139,6 +1203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185478,
+      "num": 185478,
+      "word": "内娱多位男明星减肥成功",
+      "onboard_time": 1748869521,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184352,
       "num": 184352,
       "word": "BLG距离MSI只差一步",
@@ -1163,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181952,
+      "num": 181952,
+      "word": "决战撕拉片之巅",
+      "onboard_time": 1748870183,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181478,
       "num": 181478,
       "word": "张萌晒张康乐男主造型",
@@ -1177,14 +1257,6 @@
       "onboard_time": 1748837600,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179784,
-      "num": 179784,
-      "word": "Sunnee母亲病重",
-      "onboard_time": 1748869041,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 179720,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1748847920,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171789,
+      "num": 171789,
+      "word": "马嘉祺歌手vlog",
+      "onboard_time": 1748871022,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 171657,
@@ -1468,7 +1548,7 @@
     },
     {
       "raw_hot": 147829,
-      "num": 147829,
+      "num": 378632,
       "word": "中国女老板再次拒绝美国PUA",
       "onboard_time": 1748860941,
       "rank": 41,
@@ -1859,12 +1939,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120450,
+      "num": 120450,
+      "word": "藏海后面知道得多刀啊",
+      "onboard_time": 1748871261,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120253,
       "num": 163660,
       "word": "英首相称将恢复英国战备状态",
       "onboard_time": 1748834900,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119570,
+      "num": 119570,
+      "word": "佩古拉vs布瓦松",
+      "onboard_time": 1748871202,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 118678,
@@ -1963,14 +2059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113374,
-      "num": 113374,
-      "word": "内娱多位男明星减肥成功",
-      "onboard_time": 1748869521,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113102,
       "num": 164750,
       "word": "雨果12秒复原三阶魔方",
@@ -2035,14 +2123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110680,
-      "num": 110680,
-      "word": "港迪偶遇李兰迪",
-      "onboard_time": 1748869583,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109986,
       "num": 109986,
       "word": "看见小猫开始干维修了",
@@ -2105,6 +2185,14 @@
       "onboard_time": 1748839822,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106585,
+      "num": 106585,
+      "word": "日本回应7月5日末日地震预言疯传",
+      "onboard_time": 1748871442,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106461,
@@ -2441,14 +2529,6 @@
       "onboard_time": 1748851222,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94151,
-      "num": 356030,
-      "word": "绿发会回应涉蒋雨融争议",
-      "onboard_time": 1748868801,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93300,
@@ -3067,6 +3147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 41407,
+      "num": 1177983,
+      "word": "全国多地开启返程模式",
+      "onboard_time": 1748859621,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40970,
       "num": 146758,
       "word": "贴身内衣怎么预防臭屁虫卵",
@@ -3081,14 +3169,6 @@
       "onboard_time": 1748779760,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40245,
-      "num": 1177983,
-      "word": "全国多地开启返程模式",
-      "onboard_time": 1748859621,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39830,
@@ -3129,6 +3209,14 @@
       "onboard_time": 1748848759,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36779,
+      "num": 182374,
+      "word": "谁在买巴黎世家高定",
+      "onboard_time": 1748870481,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 36076,
@@ -3369,6 +3457,14 @@
       "onboard_time": 1748844020,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19505,
+      "num": 305119,
+      "word": "被子颜色会影响睡眠吗",
+      "onboard_time": 1748870662,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 18853,
