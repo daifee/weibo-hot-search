@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748836518360,
+  "endTime": 1748838971269,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1535331,
-      "num": 254690,
+      "num": 290860,
       "word": "贾冰减肥成功瘦到脱相",
       "onboard_time": 1748827459,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 633623,
-      "num": 350636,
+      "num": 352740,
       "word": "曾舜晞新剧被前妻做局了",
       "onboard_time": 1748833159,
       "rank": 6,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 504276,
-      "num": 244791,
+      "num": 289887,
       "word": "印度男子泰国景区摸老虎屁股遭扑咬",
       "onboard_time": 1748833821,
       "rank": 13,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 485567,
-      "num": 302535,
+      "num": 403257,
       "word": "柳岩因卡鱼刺进了医院",
       "onboard_time": 1748829081,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463882,
+      "num": 463882,
+      "word": "乌方袭击俄机场画面曝光",
+      "onboard_time": 1748834061,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 457968,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 424944,
-      "num": 237039,
+      "num": 288055,
       "word": "吴谨言王星越墨雨云间开播一周年发文",
       "onboard_time": 1748832919,
       "rank": 12,
@@ -139,6 +147,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 389663,
+      "num": 389663,
+      "word": "吃辣能力会退化",
+      "onboard_time": 1748835740,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 374675,
       "num": 374675,
       "word": "乌克兰摧毁41架俄军战略轰炸机",
@@ -147,16 +163,16 @@
       "category": "国际时政,军事"
     },
     {
-      "raw_hot": 338741,
-      "num": 338741,
-      "word": "乌方袭击俄机场画面曝光",
-      "onboard_time": 1748834061,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 356487,
+      "num": 356487,
+      "word": "金价上冲",
+      "onboard_time": 1748836040,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 321567,
-      "num": 220482,
+      "num": 235645,
       "word": "新说唱2025",
       "onboard_time": 1748833039,
       "rank": 17,
@@ -211,6 +227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286664,
+      "num": 286664,
+      "word": "四室改两室的家",
+      "onboard_time": 1748834540,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 281538,
       "num": 281538,
       "word": "美国民众开始不愿花钱了",
@@ -227,6 +251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 274759,
+      "num": 274759,
+      "word": "患者服临床试验抗癌药致重症肺炎",
+      "onboard_time": 1748835260,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 272726,
       "num": 202172,
       "word": "严浩翔通杀这赛季",
@@ -241,6 +273,14 @@
       "onboard_time": 1748824999,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262909,
+      "num": 262909,
+      "word": "霉霉和赛琳娜聚餐",
+      "onboard_time": 1748838621,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 258738,
@@ -299,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241390,
-      "num": 163193,
-      "word": "四室改两室的家",
-      "onboard_time": 1748834540,
-      "rank": 30,
-      "category": "休闲"
+      "raw_hot": 240255,
+      "num": 240255,
+      "word": "川菜是抗炎作用最强的菜系",
+      "onboard_time": 1748835199,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 237515,
@@ -320,6 +360,14 @@
       "word": "多次持刀砍邻居门女子被送精神鉴定",
       "onboard_time": 1748786781,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229410,
+      "num": 291674,
+      "word": "缺氧离世卡车司机已下葬卡友发声",
+      "onboard_time": 1748837299,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -411,12 +459,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193282,
+      "num": 193282,
+      "word": "以为是古偶仙侠结果是离婚大战",
+      "onboard_time": 1748838439,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193262,
+      "num": 193262,
+      "word": "张婧仪无法出戏",
+      "onboard_time": 1748838741,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189507,
       "num": 189507,
       "word": "乡政府回应七旬老人捡烟花被崩伤",
       "onboard_time": 1748828360,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186944,
+      "num": 186944,
+      "word": "菲律宾防长居然说中国记者是特工",
+      "onboard_time": 1748836819,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 183737,
@@ -427,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183065,
-      "num": 183065,
-      "word": "川菜是抗炎作用最强的菜系",
-      "onboard_time": 1748835199,
-      "rank": 45,
-      "category": "科学科普"
+      "raw_hot": 181366,
+      "num": 181366,
+      "word": "严浩翔万妮达战队海报",
+      "onboard_time": 1748837600,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 179720,
@@ -467,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 165129,
+      "num": 165129,
+      "word": "印度富人的家庭晚餐",
+      "onboard_time": 1748838260,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 163841,
       "num": 163841,
       "word": "董璇为女儿小酒窝庆祝9岁生日",
@@ -483,11 +563,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160667,
+      "num": 158960,
+      "word": "二十多岁了谭薇的声音还在哄我",
+      "onboard_time": 1748836881,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 158981,
+      "num": 158981,
+      "word": "华晨宇是和粉丝连上蓝牙了吗",
+      "onboard_time": 1748837420,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158711,
       "num": 158711,
       "word": "迪士尼打架2人互有皮外伤",
       "onboard_time": 1748789541,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157617,
+      "num": 157617,
+      "word": "司机缺氧离世有5个上学孩子",
+      "onboard_time": 1748838621,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -507,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153813,
+      "num": 153813,
+      "word": "白鹿祝小酒窝生日快乐",
+      "onboard_time": 1748837960,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153736,
       "num": 153736,
       "word": "商务部回应美方称中方违反中美日内瓦经贸会谈共识",
@@ -516,19 +628,11 @@
     },
     {
       "raw_hot": 151856,
-      "num": 149513,
+      "num": 229024,
       "word": "郑钦文法网对阵萨巴伦卡",
       "onboard_time": 1748834839,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151259,
-      "num": 151259,
-      "word": "金价上冲",
-      "onboard_time": 1748836040,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 149879,
@@ -555,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147485,
-      "num": 147485,
-      "word": "患者服临床试验抗癌药致重症肺炎",
-      "onboard_time": 1748835260,
-      "rank": 44,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 145860,
       "num": 135629,
       "word": "老九门",
@@ -577,14 +673,6 @@
       "onboard_time": 1748835618,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142258,
-      "num": 142258,
-      "word": "吃辣能力会退化",
-      "onboard_time": 1748835740,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 141959,
@@ -643,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126806,
+      "num": 126806,
+      "word": "六月好运星座",
+      "onboard_time": 1748837120,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124911,
       "num": 124911,
       "word": "户外圈也是让内娱闯进去了",
@@ -665,6 +761,14 @@
       "onboard_time": 1748834900,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118678,
+      "num": 118678,
+      "word": "十二星座一周运势",
+      "onboard_time": 1748838081,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 116934,
@@ -691,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112391,
+      "num": 112391,
+      "word": "肖战演活了藏海",
+      "onboard_time": 1748836700,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112204,
       "num": 112204,
       "word": "任嘉伦蓝灰挑染",
@@ -705,6 +817,30 @@
       "onboard_time": 1748778260,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109872,
+      "num": 287419,
+      "word": "俄乌会谈前夕发生多起黑天鹅事件",
+      "onboard_time": 1748837000,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 109303,
+      "num": 109303,
+      "word": "达科欢迎樊振东加入球队",
+      "onboard_time": 1748838500,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104908,
+      "num": 104908,
+      "word": "沈月狠起来连自己都不放过",
+      "onboard_time": 1748837720,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 103653,
@@ -769,6 +905,14 @@
       "onboard_time": 1748785401,
       "rank": 32,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 95807,
+      "num": 137919,
+      "word": "韩国人到底吃不吃得起肉",
+      "onboard_time": 1748837179,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 93300,
@@ -947,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73634,
+      "num": 275130,
+      "word": "印度81人因同情巴基斯坦被捕",
+      "onboard_time": 1748837660,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 72900,
       "num": 72900,
       "word": "关注俄乌局势最新进展",
@@ -1043,6 +1195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63838,
+      "num": 274880,
+      "word": "膨膨膨鹏膨膨膨",
+      "onboard_time": 1748834779,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63442,
       "num": 63442,
       "word": "包贝尔包文婧儿子满月",
@@ -1091,8 +1251,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50248,
-      "num": 360974,
+      "raw_hot": 51420,
+      "num": 403940,
       "word": "天问二号问天之旅第一站拜访谁",
       "onboard_time": 1748834420,
       "rank": 2,
@@ -1121,14 +1281,6 @@
       "onboard_time": 1748835199,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 41012,
-      "num": 214245,
-      "word": "膨膨膨鹏膨膨膨",
-      "onboard_time": 1748834779,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 40343,
@@ -1193,6 +1345,14 @@
       "onboard_time": 1748819897,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31793,
+      "num": 274810,
+      "word": "增塑剂会从皮肤渗入吗",
+      "onboard_time": 1748837779,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 30465,
@@ -1273,6 +1433,14 @@
       "onboard_time": 1748812153,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 15469,
+      "num": 187729,
+      "word": "3D模拟地震等级划分",
+      "onboard_time": 1748836940,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15082,
