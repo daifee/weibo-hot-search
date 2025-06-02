@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748835611501,
+  "endTime": 1748836518360,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 1535331,
-      "num": 248438,
+      "num": 254690,
       "word": "贾冰减肥成功瘦到脱相",
       "onboard_time": 1748827459,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 979529,
-      "num": 1156724,
+      "raw_hot": 1362008,
+      "num": 1362008,
       "word": "藏海传面具人身份终于揭秘",
       "onboard_time": 1748834779,
       "rank": 0,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 633623,
+      "num": 350636,
+      "word": "曾舜晞新剧被前妻做局了",
+      "onboard_time": 1748833159,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 629487,
       "num": 629487,
       "word": "周深让你穿雨衣没让你穿这款",
@@ -67,20 +75,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 619609,
-      "num": 258136,
-      "word": "曾舜晞新剧被前妻做局了",
-      "onboard_time": 1748833159,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 613480,
       "num": 291553,
       "word": "谈恋爱真的得找个大方的",
       "onboard_time": 1748819897,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 504276,
+      "num": 244791,
+      "word": "印度男子泰国景区摸老虎屁股遭扑咬",
+      "onboard_time": 1748833821,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 485567,
@@ -108,19 +116,11 @@
     },
     {
       "raw_hot": 424944,
-      "num": 178138,
+      "num": 237039,
       "word": "吴谨言王星越墨雨云间开播一周年发文",
       "onboard_time": 1748832919,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 401499,
-      "num": 175581,
-      "word": "印度男子泰国景区摸老虎屁股遭扑咬",
-      "onboard_time": 1748833821,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 399382,
@@ -145,6 +145,22 @@
       "onboard_time": 1748786121,
       "rank": 5,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 338741,
+      "num": 338741,
+      "word": "乌方袭击俄机场画面曝光",
+      "onboard_time": 1748834061,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 321567,
+      "num": 220482,
+      "word": "新说唱2025",
+      "onboard_time": 1748833039,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 314077,
@@ -195,14 +211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 284850,
-      "num": 170095,
-      "word": "新说唱2025",
-      "onboard_time": 1748833039,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281538,
       "num": 281538,
       "word": "美国民众开始不愿花钱了",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 279228,
-      "num": 167999,
+      "num": 204929,
       "word": "港股",
       "onboard_time": 1748831421,
       "rank": 20,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 272726,
-      "num": 166580,
+      "num": 202172,
       "word": "严浩翔通杀这赛季",
       "onboard_time": 1748833039,
       "rank": 22,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241390,
+      "num": 163193,
+      "word": "四室改两室的家",
+      "onboard_time": 1748834540,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 237515,
       "num": 237515,
       "word": "网传赵丽颖将客串九门",
@@ -307,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 226377,
-      "num": 226377,
-      "word": "乌方袭击俄机场画面曝光",
-      "onboard_time": 1748834061,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 223482,
       "num": 147035,
       "word": "刘宇宁涨粉",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 222654,
-      "num": 166772,
+      "num": 170961,
       "word": "小莫连用三个really回应樊振东加盟",
       "onboard_time": 1748830580,
       "rank": 24,
@@ -387,6 +395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199763,
+      "num": 199763,
+      "word": "邓紫棋悬着的心终于死了",
+      "onboard_time": 1748833821,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196645,
       "num": 212383,
       "word": "藏海被庄之行骗了",
@@ -409,6 +425,14 @@
       "onboard_time": 1748830339,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183065,
+      "num": 183065,
+      "word": "川菜是抗炎作用最强的菜系",
+      "onboard_time": 1748835199,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 179720,
@@ -443,28 +467,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 164307,
-      "num": 163193,
-      "word": "四室改两室的家",
-      "onboard_time": 1748834540,
-      "rank": 30,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 163841,
       "num": 163841,
       "word": "董璇为女儿小酒窝庆祝9岁生日",
       "onboard_time": 1748833340,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163094,
-      "num": 163094,
-      "word": "邓紫棋悬着的心终于死了",
-      "onboard_time": 1748833821,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 161610,
@@ -483,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154461,
+      "num": 154461,
+      "word": "折腰5月有效播放榜总榜冠军",
+      "onboard_time": 1748836220,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154223,
       "num": 164717,
       "word": "内马尔复刻上帝之手失败",
@@ -497,6 +513,30 @@
       "onboard_time": 1748825839,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 151856,
+      "num": 149513,
+      "word": "郑钦文法网对阵萨巴伦卡",
+      "onboard_time": 1748834839,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151259,
+      "num": 151259,
+      "word": "金价上冲",
+      "onboard_time": 1748836040,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 149879,
+      "num": 149879,
+      "word": "藏海传复仇局中局海报",
+      "onboard_time": 1748835980,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 149849,
@@ -515,12 +555,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147485,
+      "num": 147485,
+      "word": "患者服临床试验抗癌药致重症肺炎",
+      "onboard_time": 1748835260,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 145860,
       "num": 135629,
       "word": "老九门",
       "onboard_time": 1748784021,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142894,
+      "num": 142894,
+      "word": "临江仙广播剧",
+      "onboard_time": 1748835618,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142258,
+      "num": 142258,
+      "word": "吃辣能力会退化",
+      "onboard_time": 1748835740,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 141959,
@@ -531,12 +595,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141031,
-      "num": 141031,
-      "word": "郑钦文法网对阵萨巴伦卡",
-      "onboard_time": 1748834839,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 138788,
+      "num": 138788,
+      "word": "万妮达 新说唱",
+      "onboard_time": 1748836159,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 134601,
@@ -563,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130709,
+      "num": 130709,
+      "word": "罗云熙点赞太原小吃沾串",
+      "onboard_time": 1748836159,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129526,
       "num": 129526,
       "word": "白鹿90花cvb收视率断层登顶",
@@ -579,12 +651,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117406,
-      "num": 117406,
-      "word": "患者服临床试验抗癌药致重症肺炎",
-      "onboard_time": 1748835260,
-      "rank": 44,
-      "category": "舆论监督"
+      "raw_hot": 123277,
+      "num": 123277,
+      "word": "老人山中走失6天吃樱桃获救",
+      "onboard_time": 1748835439,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120253,
+      "num": 163660,
+      "word": "英首相称将恢复英国战备状态",
+      "onboard_time": 1748834900,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116934,
@@ -603,20 +683,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 114985,
-      "num": 114985,
-      "word": "川菜是抗炎作用最强的菜系",
-      "onboard_time": 1748835199,
+      "raw_hot": 115047,
+      "num": 115047,
+      "word": "郑钦文发现小蜜蜂误入赛场反应暖心",
+      "onboard_time": 1748835920,
       "rank": 45,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 112718,
-      "num": 112718,
-      "word": "老人山中走失6天吃樱桃获救",
-      "onboard_time": 1748835439,
-      "rank": 46,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 112204,
@@ -721,6 +793,14 @@
       "onboard_time": 1748827459,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91273,
+      "num": 257965,
+      "word": "泽连斯基再提乌俄领导人会晤",
+      "onboard_time": 1748835560,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90802,
@@ -859,14 +939,6 @@
       "category": "数码,民生新闻"
     },
     {
-      "raw_hot": 74933,
-      "num": 141330,
-      "word": "泽连斯基再提乌俄领导人会晤",
-      "onboard_time": 1748835560,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 73925,
       "num": 73925,
       "word": "郑钦文vs萨姆索诺娃",
@@ -963,14 +1035,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 68029,
-      "num": 163660,
-      "word": "英首相称将恢复英国战备状态",
-      "onboard_time": 1748834900,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 66035,
       "num": 71981,
       "word": "管泽元还在发力",
@@ -987,12 +1051,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60805,
+      "num": 150219,
+      "word": "晚上做决定第二天更容易后悔吗",
+      "onboard_time": 1748835798,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56298,
       "num": 56298,
       "word": "缺爱的人害怕进入亲密关系",
       "onboard_time": 1748814675,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55824,
+      "num": 118769,
+      "word": "高质量碳水抗衰老更健康吗",
+      "onboard_time": 1748836459,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 55002,
@@ -1011,12 +1091,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41081,
-      "num": 134832,
+      "raw_hot": 50248,
+      "num": 360974,
+      "word": "天问二号问天之旅第一站拜访谁",
+      "onboard_time": 1748834420,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 48172,
+      "num": 219422,
       "word": "节后粽子有买三送一还有6折出售",
       "onboard_time": 1748835560,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42676,
+      "num": 163476,
+      "word": "足不出户就能看到大海",
+      "onboard_time": 1748834061,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42016,
+      "num": 174649,
+      "word": "川菜有抗炎作用吗",
+      "onboard_time": 1748835199,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 41012,
+      "num": 214245,
+      "word": "膨膨膨鹏膨膨膨",
+      "onboard_time": 1748834779,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 40343,
@@ -1033,22 +1145,6 @@
       "onboard_time": 1748797937,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38388,
-      "num": 168679,
-      "word": "川菜有抗炎作用吗",
-      "onboard_time": 1748835199,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 37818,
-      "num": 312472,
-      "word": "天问二号问天之旅第一站拜访谁",
-      "onboard_time": 1748834420,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37385,
@@ -1073,22 +1169,6 @@
       "onboard_time": 1748797098,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36069,
-      "num": 169500,
-      "word": "膨膨膨鹏膨膨膨",
-      "onboard_time": 1748834779,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 32856,
-      "num": 163476,
-      "word": "足不出户就能看到大海",
-      "onboard_time": 1748834061,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32447,
