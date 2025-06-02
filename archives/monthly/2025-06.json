@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748868778061,
+  "endTime": 1748869708807,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1008705,
+      "num": 1008705,
+      "word": "普京底线被乌克兰撕开",
+      "onboard_time": 1748864180,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1008140,
       "num": 1161302,
       "word": "樊振东加盟德甲联赛",
@@ -267,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 889686,
-      "num": 889686,
-      "word": "普京底线被乌克兰撕开",
-      "onboard_time": 1748864180,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 911993,
+      "num": 911993,
+      "word": "锦绣芳华",
+      "onboard_time": 1748866222,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 863332,
@@ -401,14 +409,6 @@
       "onboard_time": 1748753901,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 687923,
-      "num": 687923,
-      "word": "锦绣芳华",
-      "onboard_time": 1748866222,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 685203,
@@ -683,6 +683,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 482082,
+      "num": 458548,
+      "word": "鞠婧祎撕拉片",
+      "onboard_time": 1748864061,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480224,
       "num": 480224,
       "word": "腾讯视频六月大剧片单",
@@ -753,14 +761,6 @@
       "onboard_time": 1748743521,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 458548,
-      "num": 458548,
-      "word": "鞠婧祎撕拉片",
-      "onboard_time": 1748864061,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 439676,
@@ -1587,6 +1587,14 @@
       "category": "国际时政,教育"
     },
     {
+      "raw_hot": 255480,
+      "num": 223262,
+      "word": "谁懂陈铭这句话的含金量",
+      "onboard_time": 1748869583,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 254424,
       "num": 254424,
       "word": "火车上手机被错拿不肯下车索赔2000",
@@ -1625,6 +1633,14 @@
       "onboard_time": 1748827459,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250060,
+      "num": 250060,
+      "word": "2025乒超联赛",
+      "onboard_time": 1748867060,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 248021,
@@ -1673,14 +1689,6 @@
       "onboard_time": 1748842521,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241666,
-      "num": 241666,
-      "word": "2025乒超联赛",
-      "onboard_time": 1748867060,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 240255,
@@ -2411,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179784,
+      "num": 179784,
+      "word": "Sunnee母亲病重",
+      "onboard_time": 1748869041,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179290,
       "num": 179290,
       "word": "F1",
@@ -2441,6 +2457,14 @@
       "onboard_time": 1748790741,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178268,
+      "num": 214880,
+      "word": "苏新皓开箱权志龙小卡",
+      "onboard_time": 1748865023,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 177314,
@@ -2556,7 +2580,7 @@
     },
     {
       "raw_hot": 170726,
-      "num": 170726,
+      "num": 373278,
       "word": "美国企业想买中国制造也得排队了",
       "onboard_time": 1748861360,
       "rank": 31,
@@ -3203,6 +3227,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 140349,
+      "num": 202151,
+      "word": "当地回应滇池大量鱼跃出水面属正常现象",
+      "onboard_time": 1748867000,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140044,
       "num": 140044,
       "word": "韩国地铁车厢起火瞬间曝光",
@@ -3273,6 +3305,14 @@
       "onboard_time": 1748855301,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136899,
+      "num": 181785,
+      "word": "潘玮柏一开口梦回千禧年",
+      "onboard_time": 1748869401,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 136856,
@@ -3377,6 +3417,14 @@
       "onboard_time": 1748776400,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134311,
+      "num": 134311,
+      "word": "藏海石一平对峙",
+      "onboard_time": 1748869101,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 134209,
@@ -3772,7 +3820,7 @@
     },
     {
       "raw_hot": 122015,
-      "num": 122015,
+      "num": 235581,
       "word": "湖南机场集团董事长涉性侵案职务撤下",
       "onboard_time": 1748867542,
       "rank": 42,
@@ -4075,6 +4123,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 113374,
+      "num": 113374,
+      "word": "内娱多位男明星减肥成功",
+      "onboard_time": 1748869521,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113279,
       "num": 435499,
       "word": "乌克兰陆军司令已提交辞呈",
@@ -4120,14 +4176,6 @@
       "word": "湖北一干部违规聚餐饮酒后猝死",
       "onboard_time": 1748776220,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111310,
-      "num": 202151,
-      "word": "当地回应滇池大量鱼跃出水面属正常现象",
-      "onboard_time": 1748867000,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -4177,6 +4225,14 @@
       "onboard_time": 1748867661,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110680,
+      "num": 110680,
+      "word": "港迪偶遇李兰迪",
+      "onboard_time": 1748869583,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 110679,
@@ -4619,6 +4675,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 101422,
+      "num": 101422,
+      "word": "拥有掰馍天赋的小猫咪",
+      "onboard_time": 1748868861,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101283,
       "num": 148129,
       "word": "伞兵的假期好鲜活",
@@ -4969,6 +5033,14 @@
       "onboard_time": 1748851222,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94151,
+      "num": 356030,
+      "word": "绿发会回应涉蒋雨融争议",
+      "onboard_time": 1748868801,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93916,
@@ -6011,6 +6083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53855,
+      "num": 180514,
+      "word": "帮助减肥的特效穴位有哪些",
+      "onboard_time": 1748869342,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 53062,
       "num": 77451,
       "word": "铁打的杨肸子流水的男主",
@@ -6740,7 +6820,7 @@
     },
     {
       "raw_hot": 23912,
-      "num": 241682,
+      "num": 245338,
       "word": "叶黄素适合什么人吃",
       "onboard_time": 1748868199,
       "rank": 19,
