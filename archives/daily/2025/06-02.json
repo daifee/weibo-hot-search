@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748856545961,
+  "endTime": 1748857384640,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379599,
+      "num": 193342,
+      "word": "因闹矛盾1人扔烧烤签扎进同事脖子",
+      "onboard_time": 1748855660,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374675,
       "num": 374675,
       "word": "乌克兰摧毁41架俄军战略轰炸机",
@@ -403,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315650,
+      "num": 315650,
+      "word": "患者花7万买的抗癌药是临床试验药",
+      "onboard_time": 1748846000,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 314077,
       "num": 314077,
       "word": "印度网红直播猥亵土耳其导游",
@@ -427,12 +443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301740,
-      "num": 301740,
-      "word": "患者花7万买的抗癌药是临床试验药",
-      "onboard_time": 1748846000,
-      "rank": 43,
-      "category": "舆论监督"
+      "raw_hot": 307464,
+      "num": 185220,
+      "word": "维生素B竟然能缓解这么多小毛病",
+      "onboard_time": 1748854221,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 301224,
@@ -457,14 +473,6 @@
       "onboard_time": 1748827699,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295922,
-      "num": 159768,
-      "word": "维生素B竟然能缓解这么多小毛病",
-      "onboard_time": 1748854221,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 287648,
@@ -635,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231604,
+      "num": 204436,
+      "word": "藏海传播放量再度破亿",
+      "onboard_time": 1748856261,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224624,
       "num": 224624,
       "word": "杨毅祝贺王楚钦世乒赛双冠",
@@ -691,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209924,
+      "num": 209924,
+      "word": "女子劈开用几年的菜板满是黄曲霉素",
+      "onboard_time": 1748854700,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208934,
       "num": 208934,
       "word": "藏海传收视率",
@@ -739,6 +763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203163,
+      "num": 181788,
+      "word": "严浩翔万妮达没有一秒出镜是浪费的",
+      "onboard_time": 1748856141,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202130,
       "num": 202130,
       "word": "宁艺卓将出席VOGUE盛典",
@@ -753,14 +785,6 @@
       "onboard_time": 1748833821,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197469,
-      "num": 197469,
-      "word": "女子劈开用几年的菜板满是黄曲霉素",
-      "onboard_time": 1748854700,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196645,
@@ -843,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181478,
+      "num": 181478,
+      "word": "张萌晒张康乐男主造型",
+      "onboard_time": 1748856800,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181366,
       "num": 181366,
       "word": "严浩翔万妮达战队海报",
@@ -900,19 +932,11 @@
     },
     {
       "raw_hot": 165278,
-      "num": 153894,
+      "num": 154010,
       "word": "白鹿半年播三部剧的含金量",
       "onboard_time": 1748854101,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164444,
-      "num": 164444,
-      "word": "因闹矛盾1人扔烧烤签扎进同事脖子",
-      "onboard_time": 1748855660,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163841,
@@ -921,6 +945,14 @@
       "onboard_time": 1748833340,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162083,
+      "num": 162083,
+      "word": "丁禹兮亲手给粉丝做小炒牛肉",
+      "onboard_time": 1748857160,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 161610,
@@ -1091,6 +1123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140874,
+      "num": 140874,
+      "word": "刘宇宁回应好人缘",
+      "onboard_time": 1748856860,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138788,
       "num": 138788,
       "word": "万妮达 新说唱",
@@ -1123,12 +1163,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135294,
-      "num": 135294,
-      "word": "严浩翔万妮达没有一秒出镜是浪费的",
-      "onboard_time": 1748856141,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 135548,
+      "num": 135986,
+      "word": "加沙儿童节只有饥渴和死亡",
+      "onboard_time": 1748855181,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134601,
@@ -1155,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133971,
-      "num": 133971,
-      "word": "藏海传播放量再度破亿",
-      "onboard_time": 1748856261,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133633,
       "num": 133633,
       "word": "黄子韬新说唱海报",
@@ -1177,14 +1209,6 @@
       "onboard_time": 1748851820,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132324,
-      "num": 135986,
-      "word": "加沙儿童节只有饥渴和死亡",
-      "onboard_time": 1748855181,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 130709,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1748837120,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125208,
+      "num": 125208,
+      "word": "语文就适合晚上考",
+      "onboard_time": 1748853799,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 125114,
@@ -1483,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106162,
-      "num": 106162,
-      "word": "语文就适合晚上考",
-      "onboard_time": 1748853799,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105882,
       "num": 105882,
       "word": "国足25人出征雅加达",
@@ -1563,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102238,
+      "num": 191419,
+      "word": "官方通报幼童掉入高铁站台股道",
+      "onboard_time": 1748856860,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102012,
       "num": 102012,
       "word": "超5万人参与所谓医疗投资被骗近十亿",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1748824759,
       "rank": 28,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 100963,
+      "num": 104116,
+      "word": "印度的流水席",
+      "onboard_time": 1748855181,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 100739,
@@ -1617,6 +1657,14 @@
       "onboard_time": 1748855960,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 99467,
+      "num": 99467,
+      "word": "不要对朋友有太多占有欲",
+      "onboard_time": 1748853860,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 99079,
@@ -1723,20 +1771,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94438,
+      "num": 183583,
+      "word": "YG新女团2027年出道",
+      "onboard_time": 1748851222,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93300,
       "num": 93300,
       "word": "苏超",
       "onboard_time": 1748829022,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93010,
-      "num": 163426,
-      "word": "YG新女团2027年出道",
-      "onboard_time": 1748851222,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 92794,
@@ -1899,14 +1947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84637,
-      "num": 84637,
-      "word": "不要对朋友有太多占有欲",
-      "onboard_time": 1748853860,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 84043,
       "num": 84043,
       "word": "张文宏受聘香港理工大学",
@@ -1931,12 +1971,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 81998,
-      "num": 87229,
+      "raw_hot": 82322,
+      "num": 186215,
       "word": "自己烧水喝是否比买桶装水更健康",
       "onboard_time": 1748856500,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 80011,
+      "num": 80011,
+      "word": "瘫痪姑娘穿外骨骼cos哪吒",
+      "onboard_time": 1748857281,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79655,
@@ -2065,14 +2113,6 @@
       "onboard_time": 1748829559,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 72139,
-      "num": 101946,
-      "word": "印度的流水席",
-      "onboard_time": 1748855181,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 72053,
@@ -2235,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51649,
+      "num": 187394,
+      "word": "高考前发热怎么办",
+      "onboard_time": 1748856681,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 51603,
       "num": 108086,
       "word": "手机升级拍照会变差吗",
@@ -2297,6 +2345,14 @@
       "onboard_time": 1748835199,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40970,
+      "num": 146758,
+      "word": "贴身内衣怎么预防臭屁虫卵",
+      "onboard_time": 1748856681,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 40343,
@@ -2609,6 +2665,14 @@
       "onboard_time": 1748848281,
       "rank": 29,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 14049,
+      "num": 197034,
+      "word": "父母表演高空杂技6岁儿子雨中守护",
+      "onboard_time": 1748856621,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11954,
