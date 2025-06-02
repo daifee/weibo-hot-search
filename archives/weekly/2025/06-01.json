@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748821118332,
+  "endTime": 1748829899374,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -57,6 +57,14 @@
       "onboard_time": 1748707819,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1535331,
+      "num": 214856,
+      "word": "贾冰减肥成功瘦到脱相",
+      "onboard_time": 1748827459,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1467750,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 933531,
-      "num": 178569,
+      "num": 213716,
       "word": "苏州一医院误将腹超做成阴超",
       "onboard_time": 1748819897,
       "rank": 10,
@@ -200,6 +208,14 @@
       "word": "杭州一凶宅竞拍14轮后七五折成交",
       "onboard_time": 1748740340,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 766835,
+      "num": 1122693,
+      "word": "花两千买苹果15被说一眼假",
+      "onboard_time": 1748824999,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -275,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 647115,
+      "num": 647115,
+      "word": "九门尹新月扮演者",
+      "onboard_time": 1748824098,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 643193,
       "num": 609642,
       "word": "时全是曹公公义子",
@@ -313,6 +337,14 @@
       "onboard_time": 1748775800,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 613480,
+      "num": 291553,
+      "word": "谈恋爱真的得找个大方的",
+      "onboard_time": 1748819897,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 599252,
@@ -457,6 +489,14 @@
       "onboard_time": 1748702542,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426740,
+      "num": 326565,
+      "word": "樊振东留洋不是说再见是新的开始",
+      "onboard_time": 1748819836,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 421600,
@@ -651,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 326565,
-      "num": 326565,
-      "word": "樊振东留洋不是说再见是新的开始",
-      "onboard_time": 1748819836,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 322423,
       "num": 228218,
       "word": "龙族更新",
@@ -696,6 +728,14 @@
       "word": "四川汶川3.3级地震",
       "onboard_time": 1748737399,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312917,
+      "num": 312917,
+      "word": "端午假期后天气",
+      "onboard_time": 1748824939,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -779,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297140,
+      "num": 297140,
+      "word": "光与夜之恋",
+      "onboard_time": 1748827699,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 296973,
       "num": 296973,
       "word": "宋祖儿六一营业",
@@ -801,14 +849,6 @@
       "onboard_time": 1748791223,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291553,
-      "num": 291553,
-      "word": "谈恋爱真的得找个大方的",
-      "onboard_time": 1748819897,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 291250,
@@ -923,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258738,
+      "num": 213619,
+      "word": "折腰 戒断反应",
+      "onboard_time": 1748825240,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255979,
       "num": 255979,
       "word": "巴黎 姆巴佩",
@@ -939,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252147,
+      "num": 252147,
+      "word": "特朗普再催哈佛交出国际学生名单",
+      "onboard_time": 1748820017,
+      "rank": 29,
+      "category": "国际时政,教育"
+    },
+    {
       "raw_hot": 252129,
       "num": 252129,
       "word": "不敢相信这个大胖小子是高瀚宇",
@@ -953,6 +1009,14 @@
       "onboard_time": 1748691861,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250089,
+      "num": 213253,
+      "word": "杨天真为什么去留学",
+      "onboard_time": 1748827459,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 248021,
@@ -1003,11 +1067,35 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 237515,
+      "num": 237515,
+      "word": "网传赵丽颖将客串九门",
+      "onboard_time": 1748821457,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233184,
+      "num": 213091,
+      "word": "柳岩因卡鱼刺进了医院",
+      "onboard_time": 1748829081,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
       "onboard_time": 1748733918,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 231480,
+      "num": 212605,
+      "word": "小莫说樊振东球打得好人更好",
+      "onboard_time": 1748828360,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -1065,6 +1153,14 @@
       "onboard_time": 1748745379,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215151,
+      "num": 215151,
+      "word": "萨巴伦卡回应将对阵郑钦文",
+      "onboard_time": 1748824038,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 214678,
@@ -1139,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205154,
+      "num": 205154,
+      "word": "马斯克称政府效率部成了替罪羊",
+      "onboard_time": 1748824999,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 204661,
       "num": 204661,
       "word": "老祖宗的审美才是高定奢侈品",
@@ -1187,12 +1291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198913,
+      "num": 214877,
+      "word": "百岁老人过寿七旬老人捡烟花被崩伤",
+      "onboard_time": 1748824999,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198864,
       "num": 145872,
       "word": "梨形身材是基因彩票",
       "onboard_time": 1748706320,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 196645,
+      "num": 212383,
+      "word": "藏海被庄之行骗了",
+      "onboard_time": 1748819957,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 196610,
@@ -1571,6 +1691,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 166497,
+      "num": 166497,
+      "word": "临江仙定档",
+      "onboard_time": 1748829679,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165440,
       "num": 165440,
       "word": "科目三没过竟然是因为一头牛",
@@ -1723,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153736,
+      "num": 153736,
+      "word": "商务部回应美方称中方违反中美日内瓦经贸会谈共识",
+      "onboard_time": 1748825839,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152846,
       "num": 152846,
       "word": "刘美含哭戏哭出了又爱又恨",
@@ -1801,6 +1937,14 @@
       "onboard_time": 1748776340,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146443,
+      "num": 146443,
+      "word": "赵樱子自曝患抑郁症",
+      "onboard_time": 1748828959,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 146396,
@@ -1961,14 +2105,6 @@
       "onboard_time": 1748706621,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137478,
-      "num": 137478,
-      "word": "藏海被庄之行骗了",
-      "onboard_time": 1748819957,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 137371,
@@ -2419,6 +2555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114196,
+      "num": 114196,
+      "word": "外籍志愿者在华强北帮外国游客砍价",
+      "onboard_time": 1748827459,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113897,
       "num": 113897,
       "word": "10后女儿用压岁钱带妈妈过儿童节",
@@ -2755,6 +2899,30 @@
       "category": "教育"
     },
     {
+      "raw_hot": 101538,
+      "num": 101538,
+      "word": "商务部就美方有关言论答记者问",
+      "onboard_time": 1748824759,
+      "rank": 28,
+      "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 100807,
+      "num": 100807,
+      "word": "户外圈也是让内娱闯进去了",
+      "onboard_time": 1748829620,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100739,
+      "num": 100739,
+      "word": "打工人看演唱会反差有多大",
+      "onboard_time": 1748827699,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100666,
       "num": 136254,
       "word": "姆巴佩让格林公式闭环了",
@@ -2955,6 +3123,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93300,
+      "num": 93300,
+      "word": "苏超",
+      "onboard_time": 1748829022,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93141,
+      "num": 93141,
+      "word": "俄乌第二轮直接谈判今天举行",
+      "onboard_time": 1748828360,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92483,
       "num": 92483,
       "word": "时间之子",
@@ -2987,12 +3171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91756,
+      "num": 91756,
+      "word": "时全的刀功藏海父母的皮",
+      "onboard_time": 1748827459,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90841,
       "num": 90841,
       "word": "26年后南京五台山再现人浪",
       "onboard_time": 1748792001,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90793,
+      "num": 90793,
+      "word": "藏海与师父高明倚门对视",
+      "onboard_time": 1748829620,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 90565,
@@ -3041,6 +3241,14 @@
       "onboard_time": 1748707401,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 87896,
+      "num": 87896,
+      "word": "周深回应发型",
+      "onboard_time": 1748826439,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 87809,
@@ -3235,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78757,
+      "num": 78757,
+      "word": "18w穷装178平顶层复式带阁楼",
+      "onboard_time": 1748823139,
+      "rank": 41,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 78306,
       "num": 78306,
       "word": "佟丽娅去了凤凰传奇演唱会",
@@ -3243,12 +3459,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77526,
+      "num": 77526,
+      "word": "九门",
+      "onboard_time": 1748681423,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77155,
       "num": 77155,
       "word": "30岁了还想过儿童节怎么办",
       "onboard_time": 1748707580,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76804,
+      "num": 76804,
+      "word": "郑钦文说是一颗宝石就该闪烁",
+      "onboard_time": 1748829559,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 76279,
@@ -3331,6 +3563,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72784,
+      "num": 72784,
+      "word": "藏海第二次失手",
+      "onboard_time": 1748819957,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 72435,
+      "num": 72435,
+      "word": "坏掉的果蔬千万别凑活吃",
+      "onboard_time": 1748829559,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 72053,
+      "num": 72053,
+      "word": "华晨宇 下一站换我许愿喽",
+      "onboard_time": 1748829859,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 71598,
       "num": 71598,
       "word": "全员加速中",
@@ -3345,6 +3601,14 @@
       "onboard_time": 1748753540,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70907,
+      "num": 70907,
+      "word": "看过牡丹盛放才知什么是国色天香",
+      "onboard_time": 1748824098,
+      "rank": 49,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 70305,
@@ -3467,14 +3731,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 62822,
-      "num": 62822,
-      "word": "九门",
-      "onboard_time": 1748681423,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62536,
       "num": 176649,
       "word": "广州猎德龙舟上演招亲名场面",
@@ -3505,14 +3761,6 @@
       "onboard_time": 1748699842,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61255,
-      "num": 54553,
-      "word": "藏海第二次失手",
-      "onboard_time": 1748819957,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 58953,
@@ -3609,14 +3857,6 @@
       "onboard_time": 1748707160,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53491,
-      "num": 182560,
-      "word": "特朗普再催哈佛交出国际学生名单",
-      "onboard_time": 1748820017,
-      "rank": 29,
-      "category": "国际时政,教育"
     },
     {
       "raw_hot": 53062,
