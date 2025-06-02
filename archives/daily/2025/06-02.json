@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748854155303,
+  "endTime": 1748856545961,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -81,6 +81,14 @@
       "onboard_time": 1748844920,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 805710,
+      "num": 1128913,
+      "word": "妈妈说陈梦没精力谈恋爱",
+      "onboard_time": 1748853919,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 801874,
@@ -259,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425928,
+      "num": 425928,
+      "word": "华晨宇这是我380就能看到的吗",
+      "onboard_time": 1748851820,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 424944,
       "num": 288055,
       "word": "吴谨言王星越墨雨云间开播一周年发文",
@@ -321,14 +337,6 @@
       "onboard_time": 1748846422,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 357909,
-      "num": 357909,
-      "word": "华晨宇这是我380就能看到的吗",
-      "onboard_time": 1748851820,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 350468,
@@ -451,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295922,
+      "num": 159768,
+      "word": "维生素B竟然能缓解这么多小毛病",
+      "onboard_time": 1748854221,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 287648,
       "num": 245380,
       "word": "第三人是内阁首辅石一平",
@@ -547,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256136,
+      "num": 237297,
+      "word": "云合",
+      "onboard_time": 1748852900,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255559,
       "num": 255559,
       "word": "特朗普再催哈佛交出国际学生名单",
@@ -569,14 +593,6 @@
       "onboard_time": 1748827459,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247059,
-      "num": 237297,
-      "word": "云合",
-      "onboard_time": 1748852900,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 242752,
@@ -739,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197469,
+      "num": 197469,
+      "word": "女子劈开用几年的菜板满是黄曲霉素",
+      "onboard_time": 1748854700,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196645,
       "num": 212383,
       "word": "藏海被庄之行骗了",
@@ -793,14 +817,6 @@
       "onboard_time": 1748836819,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 186040,
-      "num": 186040,
-      "word": "妈妈说陈梦没精力谈恋爱",
-      "onboard_time": 1748853919,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 185747,
@@ -881,6 +897,22 @@
       "onboard_time": 1748781861,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 165278,
+      "num": 153894,
+      "word": "白鹿半年播三部剧的含金量",
+      "onboard_time": 1748854101,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164444,
+      "num": 164444,
+      "word": "因闹矛盾1人扔烧烤签扎进同事脖子",
+      "onboard_time": 1748855660,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163841,
@@ -1075,12 +1107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137170,
+      "num": 137170,
+      "word": "宋威龙晋江男主走进现实",
+      "onboard_time": 1748855301,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136104,
       "num": 136104,
       "word": "俄罗斯民众英勇拦截乌克兰无人机",
       "onboard_time": 1748841861,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135294,
+      "num": 135294,
+      "word": "严浩翔万妮达没有一秒出镜是浪费的",
+      "onboard_time": 1748856141,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 134601,
@@ -1107,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133971,
+      "num": 133971,
+      "word": "藏海传播放量再度破亿",
+      "onboard_time": 1748856261,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133633,
       "num": 133633,
       "word": "黄子韬新说唱海报",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1748851820,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132324,
+      "num": 135986,
+      "word": "加沙儿童节只有饥渴和死亡",
+      "onboard_time": 1748855181,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130709,
@@ -1419,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106162,
+      "num": 106162,
+      "word": "语文就适合晚上考",
+      "onboard_time": 1748853799,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105882,
       "num": 105882,
       "word": "国足25人出征雅加达",
@@ -1507,14 +1579,6 @@
       "category": "国际时政,国内时政"
     },
     {
-      "raw_hot": 100767,
-      "num": 100767,
-      "word": "语文就适合晚上考",
-      "onboard_time": 1748853799,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100739,
       "num": 100739,
       "word": "打工人看演唱会反差有多大",
@@ -1545,6 +1609,14 @@
       "onboard_time": 1748795420,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99469,
+      "num": 99469,
+      "word": "狗狗坚决不能碰的水果",
+      "onboard_time": 1748855960,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 99079,
@@ -1627,14 +1699,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 95590,
-      "num": 95590,
-      "word": "白鹿半年播三部剧的含金量",
-      "onboard_time": 1748854101,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95063,
       "num": 95063,
       "word": "白鹿以为和曾舜晞是一样的物料",
@@ -1668,7 +1732,7 @@
     },
     {
       "raw_hot": 93010,
-      "num": 93010,
+      "num": 163426,
       "word": "YG新女团2027年出道",
       "onboard_time": 1748851222,
       "rank": 43,
@@ -1771,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88770,
+      "num": 88770,
+      "word": "不适合二次加热的食物",
+      "onboard_time": 1748853680,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 87949,
       "num": 87949,
       "word": "六月第一天",
@@ -1843,11 +1915,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83841,
+      "num": 83841,
+      "word": "杨肸子好适合特写镜头",
+      "onboard_time": 1748854760,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83426,
       "num": 83426,
       "word": "距今约3万年的山顶洞人身高曝光",
       "onboard_time": 1748787501,
       "rank": 38,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 81998,
+      "num": 87229,
+      "word": "自己烧水喝是否比买桶装水更健康",
+      "onboard_time": 1748856500,
+      "rank": 44,
       "category": "科学科普"
     },
     {
@@ -1865,14 +1953,6 @@
       "onboard_time": 1748840781,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79263,
-      "num": 79263,
-      "word": "不适合二次加热的食物",
-      "onboard_time": 1748853680,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 78757,
@@ -1987,6 +2067,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 72139,
+      "num": 101946,
+      "word": "印度的流水席",
+      "onboard_time": 1748855181,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 72053,
       "num": 72053,
       "word": "华晨宇 下一站换我许愿喽",
@@ -2033,6 +2121,14 @@
       "onboard_time": 1748797457,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70022,
+      "num": 107369,
+      "word": "盐水浸泡对杨梅中的果蝇幼虫有效吗",
+      "onboard_time": 1748854581,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 69998,
@@ -2257,6 +2353,14 @@
       "onboard_time": 1748797098,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 33145,
+      "num": 116956,
+      "word": "纳夫罗茨基赢得波兰总统选举",
+      "onboard_time": 1748856379,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32447,
