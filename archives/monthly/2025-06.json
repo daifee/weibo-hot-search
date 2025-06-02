@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748893014151,
+  "endTime": 1748896131339,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -7603,6 +7603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 15606,
+      "num": 19173,
+      "word": "高明打藏海",
+      "onboard_time": 1748891894,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15469,
       "num": 187729,
       "word": "3D模拟地震等级划分",
@@ -7659,20 +7667,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14076,
-      "num": 15499,
-      "word": "高明打藏海",
-      "onboard_time": 1748891894,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14049,
       "num": 197034,
       "word": "父母表演高空杂技6岁儿子雨中守护",
       "onboard_time": 1748856621,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13499,
+      "num": 14169,
+      "word": "白鹿抬剧速度",
+      "onboard_time": 1748894233,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 12345,
@@ -7721,6 +7729,14 @@
       "onboard_time": 1748724253,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11532,
+      "num": 14154,
+      "word": "外卖诗人王计兵8月将发新书",
+      "onboard_time": 1748895074,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 11438,
