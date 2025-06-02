@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748872173957,
+  "endTime": 1748874439941,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -155,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 848106,
+      "num": 848106,
+      "word": "工作人员回应漫展上2女童被指衣着暴露",
+      "onboard_time": 1748872761,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 805710,
       "num": 1128913,
       "word": "妈妈说陈梦没精力谈恋爱",
@@ -243,12 +251,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 622003,
+      "num": 245836,
+      "word": "皇上藏海 我们好像在哪儿见过",
+      "onboard_time": 1748871022,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 613480,
       "num": 291553,
       "word": "谈恋爱真的得找个大方的",
       "onboard_time": 1748819897,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 605629,
+      "num": 605629,
+      "word": "广西4.1级地震",
+      "onboard_time": 1748871862,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 603629,
@@ -297,6 +321,14 @@
       "onboard_time": 1748840901,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 511010,
+      "num": 511010,
+      "word": "电影女足",
+      "onboard_time": 1748870361,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 504276,
@@ -356,18 +388,10 @@
     },
     {
       "raw_hot": 468291,
-      "num": 352407,
+      "num": 410627,
       "word": "藏海被扇巴掌",
       "onboard_time": 1748870722,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 468034,
-      "num": 231399,
-      "word": "皇上藏海 我们好像在哪儿见过",
-      "onboard_time": 1748871022,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -385,14 +409,6 @@
       "onboard_time": 1748782522,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 452888,
-      "num": 349893,
-      "word": "电影女足",
-      "onboard_time": 1748870361,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 439676,
@@ -547,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357759,
+      "num": 302573,
+      "word": "Sunnee母亲病重",
+      "onboard_time": 1748869041,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356081,
       "num": 356081,
       "word": "江苏唯一真南哥之争已白热化",
@@ -635,14 +659,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 314218,
-      "num": 314218,
-      "word": "广西4.1级地震",
-      "onboard_time": 1748871862,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 314077,
       "num": 314077,
       "word": "印度网红直播猥亵土耳其导游",
@@ -681,14 +697,6 @@
       "onboard_time": 1748854221,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 302573,
-      "num": 302573,
-      "word": "Sunnee母亲病重",
-      "onboard_time": 1748869041,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 301224,
@@ -907,6 +915,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 246128,
+      "num": 246128,
+      "word": "俄乌第二轮谈判已结束",
+      "onboard_time": 1748873062,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 245219,
+      "num": 245219,
+      "word": "日本回应7月5日末日地震预言疯传",
+      "onboard_time": 1748871442,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 242752,
       "num": 210340,
       "word": "镜FMVP星传说皮肤",
@@ -945,6 +969,14 @@
       "onboard_time": 1748843481,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233540,
+      "num": 233540,
+      "word": "鹿晗四巡",
+      "onboard_time": 1748873544,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 226374,
@@ -1035,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208855,
+      "num": 208855,
+      "word": "港迪偶遇李兰迪",
+      "onboard_time": 1748869583,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208373,
       "num": 241706,
       "word": "藏海汗如雨下",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1748841020,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203297,
-      "num": 203297,
-      "word": "港迪偶遇李兰迪",
-      "onboard_time": 1748869583,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 203163,
@@ -1187,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189596,
+      "num": 189596,
+      "word": "贾冰因戏减肥后不再打呼",
+      "onboard_time": 1748873722,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189507,
       "num": 189507,
       "word": "乡政府回应七旬老人捡烟花被崩伤",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1748836819,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186004,
+      "num": 186004,
+      "word": "王安宇撕拉片",
+      "onboard_time": 1748873662,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 185769,
@@ -1291,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180919,
+      "num": 180919,
+      "word": "俄州长宣布奖励向乌无人机投石民众",
+      "onboard_time": 1748873902,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 180431,
       "num": 180431,
       "word": "48岁再婚女子超快顺产生子",
@@ -1339,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174962,
+      "num": 174962,
+      "word": "肖战且待明晚见真章",
+      "onboard_time": 1748874082,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173880,
       "num": 173880,
       "word": "曹公公培养孩子真有一手",
@@ -1355,12 +1419,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 171014,
-      "num": 171014,
-      "word": "日本回应7月5日末日地震预言疯传",
-      "onboard_time": 1748871442,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 170780,
+      "num": 170780,
+      "word": "曹骏VOGUE盛典活动",
+      "onboard_time": 1748872161,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 170726,
@@ -1473,14 +1537,6 @@
       "onboard_time": 1748860701,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 158175,
-      "num": 158175,
-      "word": "曹骏VOGUE盛典活动",
-      "onboard_time": 1748872161,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 157470,
@@ -1603,6 +1659,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147421,
+      "num": 147421,
+      "word": "曹公公义子 禁止燃放烟花爆竹",
+      "onboard_time": 1748872460,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146788,
+      "num": 146788,
+      "word": "48岁女子怀孕7个月以为是绝经发福",
+      "onboard_time": 1748873722,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145860,
       "num": 135629,
       "word": "老九门",
@@ -1707,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136755,
+      "num": 136755,
+      "word": "藏海传 春秋笔法",
+      "onboard_time": 1748872582,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136104,
       "num": 136104,
       "word": "俄罗斯民众英勇拦截乌克兰无人机",
@@ -1729,6 +1809,14 @@
       "onboard_time": 1748855181,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134653,
+      "num": 134653,
+      "word": "经销商关店80多辆电动车被远程锁死",
+      "onboard_time": 1748874082,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134601,
@@ -1948,7 +2036,7 @@
     },
     {
       "raw_hot": 122206,
-      "num": 122206,
+      "num": 245521,
       "word": "舟山东极岛等多个海岛游客反映被困",
       "onboard_time": 1748868381,
       "rank": 41,
@@ -2017,6 +2105,14 @@
       "onboard_time": 1748852599,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117642,
+      "num": 117642,
+      "word": "苏超爆火没有省份抄得了作业",
+      "onboard_time": 1748873782,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 117470,
@@ -2091,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114547,
+      "num": 114547,
+      "word": "端午最火的不是中超英超是苏超",
+      "onboard_time": 1748874262,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114170,
       "num": 114170,
       "word": "高芙晋级法网八强",
@@ -2113,6 +2217,14 @@
       "onboard_time": 1748836700,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112349,
+      "num": 112349,
+      "word": "官鸿近照状态变化",
+      "onboard_time": 1748872041,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 112204,
@@ -2803,6 +2915,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 79563,
+      "num": 868256,
+      "word": "端午经济成为消费活力新引擎",
+      "onboard_time": 1748872104,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79543,
       "num": 324179,
       "word": "魏晨的松弛感是领克900给的",
@@ -3427,6 +3547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 25758,
+      "num": 244250,
+      "word": "澳总理拒绝美方施压强调国防自主",
+      "onboard_time": 1748873001,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25094,
       "num": 138032,
       "word": "高考前最后一次班会",
@@ -3449,6 +3577,14 @@
       "onboard_time": 1748802376,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23964,
+      "num": 241927,
+      "word": "儿童毒凉鞋有哪些危害",
+      "onboard_time": 1748873122,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23912,
@@ -3625,14 +3761,6 @@
       "onboard_time": 1748845400,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 9094,
-      "num": 852737,
-      "word": "端午经济成为消费活力新引擎",
-      "onboard_time": 1748872104,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3179,
