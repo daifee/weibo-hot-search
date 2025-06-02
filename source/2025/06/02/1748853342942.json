@@ -1,0 +1,410 @@
+{
+  "runTime": 1748853342942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 530689,
+        "num": 1084910,
+        "word": "情商低的人都有什么行为",
+        "onboard_time": 1748844920,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407192,
+        "num": 407192,
+        "word": "印度富人的家庭晚餐",
+        "onboard_time": 1748838260,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22282,
+        "num": 333240,
+        "word": "天问二号问天之旅第一站拜访谁",
+        "onboard_time": 1748834420,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330055,
+        "num": 330055,
+        "word": "VOGUE盛典出席明星阵容",
+        "onboard_time": 1748851341,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 301740,
+        "num": 301740,
+        "word": "患者花7万买的抗癌药是临床试验药",
+        "onboard_time": 1748846000,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 290330,
+        "num": 290330,
+        "word": "藏海传面具人身份终于揭秘",
+        "onboard_time": 1748834779,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233852,
+        "num": 233852,
+        "word": "蒋雨融发文回应争议",
+        "onboard_time": 1748845342,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228983,
+        "num": 228983,
+        "word": "华晨宇这是我380就能看到的吗",
+        "onboard_time": 1748851820,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225961,
+        "num": 225961,
+        "word": "兰博基尼车主赖停车费被代驾举报酒驾",
+        "onboard_time": 1748846422,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201956,
+        "num": 201956,
+        "word": "白鹿callback于正",
+        "onboard_time": 1748847800,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588217,
+        "num": 201912,
+        "word": "杨幂私下超爱给谢依霖晒小糯米",
+        "onboard_time": 1748843300,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566063,
+        "num": 201822,
+        "word": "贴身内衣藏臭屁虫卵人裂开了",
+        "onboard_time": 1748848701,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564551,
+        "num": 201753,
+        "word": "女童回家被陌生男子拖进小巷",
+        "onboard_time": 1748849839,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384707,
+        "num": 201610,
+        "word": "没有三生三世只有三婚三离",
+        "onboard_time": 1748851641,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201590,
+        "num": 201590,
+        "word": "王嘉尔蔡徐坤音乐节同框",
+        "onboard_time": 1748845161,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256080,
+        "num": 200199,
+        "word": "宝妈7个月瘦了43斤撞脸李若彤",
+        "onboard_time": 1748848759,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255680,
+        "num": 198122,
+        "word": "深圳大学乒超阵容呼之欲出",
+        "onboard_time": 1748852480,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236344,
+        "num": 196532,
+        "word": "章子怡晒女儿儿子",
+        "onboard_time": 1748840781,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222768,
+        "num": 194615,
+        "word": "贾冰减肥成功瘦到脱相",
+        "onboard_time": 1748827459,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193719,
+        "num": 193719,
+        "word": "老人山中走失6天吃樱桃获救",
+        "onboard_time": 1748835439,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286564,
+        "num": 193548,
+        "word": "姜贞羽短剧",
+        "onboard_time": 1748849059,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267888,
+        "num": 193163,
+        "word": "8岁女孩被患癌女司机撞成重伤进ICU",
+        "onboard_time": 1748848759,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192129,
+        "num": 192129,
+        "word": "云合",
+        "onboard_time": 1748852900,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8565,
+        "num": 161313,
+        "word": "哪些水果是血糖友好型水果",
+        "onboard_time": 1748853020,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148051,
+        "num": 148051,
+        "word": "周深养活了多少推文博主",
+        "onboard_time": 1748852781,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144955,
+        "num": 144955,
+        "word": "吴彦祖看了StrayKids演唱会",
+        "onboard_time": 1748851820,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140989,
+        "num": 140989,
+        "word": "曹公公培养孩子真有一手",
+        "onboard_time": 1748847920,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102480,
+        "num": 140485,
+        "word": "乌方袭击俄机场画面曝光",
+        "onboard_time": 1748834061,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20188,
+        "num": 140065,
+        "word": "怎样挑选水果更健康",
+        "onboard_time": 1748852300,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 21162,
+        "num": 139477,
+        "word": "全校为高三生准备了场停电惊喜",
+        "onboard_time": 1748852540,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42234,
+        "num": 138549,
+        "word": "中国字的魅力看一次爱一次",
+        "onboard_time": 1748852840,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138473,
+        "num": 138473,
+        "word": "贾乃亮带甜馨开越野车",
+        "onboard_time": 1748852239,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132441,
+        "num": 132441,
+        "word": "labubu来出演藏海传啦",
+        "onboard_time": 1748851820,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122996,
+        "num": 122996,
+        "word": "章若楠被重庆小面香迷糊了",
+        "onboard_time": 1748851521,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27986,
+        "num": 119768,
+        "word": "救援人员回应87岁老人走失6天获救",
+        "onboard_time": 1748853260,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117719,
+        "num": 117719,
+        "word": "阴阳师",
+        "onboard_time": 1748852599,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114135,
+        "num": 114135,
+        "word": "杨毅祝贺王楚钦世乒赛双冠",
+        "onboard_time": 1748845161,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110936,
+        "num": 110936,
+        "word": "再回看时全陆燃这段表情好微妙",
+        "onboard_time": 1748852540,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110594,
+        "num": 110594,
+        "word": "蔡徐坤金发直拍",
+        "onboard_time": 1748853260,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99079,
+        "num": 99079,
+        "word": "陷入我们的热恋好上头",
+        "onboard_time": 1748852180,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97426,
+        "num": 97426,
+        "word": "黑龙江多地拍到罕见粉色极光",
+        "onboard_time": 1748850680,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95063,
+        "num": 95063,
+        "word": "白鹿以为和曾舜晞是一样的物料",
+        "onboard_time": 1748850080,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94620,
+        "num": 94620,
+        "word": "小伙常以泡面零食充饥患病终身服药",
+        "onboard_time": 1748848100,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93010,
+        "num": 93010,
+        "word": "YG新女团2027年出道",
+        "onboard_time": 1748851222,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92078,
+        "num": 92078,
+        "word": "吃辣能力会退化",
+        "onboard_time": 1748835740,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 92070,
+        "num": 92070,
+        "word": "杜华晒章子怡佟丽娅陈好合照",
+        "onboard_time": 1748845820,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89909,
+        "num": 89909,
+        "word": "镜FMVP星传说皮肤",
+        "onboard_time": 1748842521,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84043,
+        "num": 84043,
+        "word": "张文宏受聘香港理工大学",
+        "onboard_time": 1748852480,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82816,
+        "num": 82816,
+        "word": "原来被子颜色会影响睡眠",
+        "onboard_time": 1748852061,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 82233,
+        "num": 82233,
+        "word": "李荣浩疑似被粉丝做局",
+        "onboard_time": 1748849540,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记关心小朋友们健康成长#"
+    }
+  }
+}

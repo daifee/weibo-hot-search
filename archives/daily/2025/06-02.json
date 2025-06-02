@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748850060776,
+  "endTime": 1748853342942,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -155,6 +155,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 566063,
+      "num": 201822,
+      "word": "贴身内衣藏臭屁虫卵人裂开了",
+      "onboard_time": 1748848701,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 564551,
+      "num": 201753,
+      "word": "女童回家被陌生男子拖进小巷",
+      "onboard_time": 1748849839,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 558235,
       "num": 558235,
       "word": "缺氧离世卡车司机已下葬卡友发声",
@@ -283,6 +299,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 384707,
+      "num": 201610,
+      "word": "没有三生三世只有三婚三离",
+      "onboard_time": 1748851641,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374675,
       "num": 374675,
       "word": "乌克兰摧毁41架俄军战略轰炸机",
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 345502,
-      "num": 177589,
+      "num": 193548,
       "word": "姜贞羽短剧",
       "onboard_time": 1748849059,
       "rank": 23,
@@ -331,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330055,
+      "num": 330055,
+      "word": "VOGUE盛典出席明星阵容",
+      "onboard_time": 1748851341,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 321567,
       "num": 235645,
       "word": "新说唱2025",
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 320304,
-      "num": 183539,
+      "num": 193163,
       "word": "8岁女孩被患癌女司机撞成重伤进ICU",
       "onboard_time": 1748848759,
       "rank": 21,
@@ -369,6 +401,14 @@
       "onboard_time": 1748828360,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301740,
+      "num": 301740,
+      "word": "患者花7万买的抗癌药是临床试验药",
+      "onboard_time": 1748846000,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 301224,
@@ -491,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255680,
+      "num": 198122,
+      "word": "深圳大学乒超阵容呼之欲出",
+      "onboard_time": 1748852480,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255559,
       "num": 255559,
       "word": "特朗普再催哈佛交出国际学生名单",
@@ -513,14 +561,6 @@
       "onboard_time": 1748827459,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246898,
-      "num": 122731,
-      "word": "贴身内衣藏臭屁虫卵人裂开了",
-      "onboard_time": 1748848701,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242752,
@@ -561,6 +601,14 @@
       "onboard_time": 1748843481,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228983,
+      "num": 228983,
+      "word": "华晨宇这是我380就能看到的吗",
+      "onboard_time": 1748851820,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 224624,
@@ -691,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193719,
+      "num": 193719,
+      "word": "老人山中走失6天吃樱桃获救",
+      "onboard_time": 1748835439,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193282,
       "num": 193282,
       "word": "以为是古偶仙侠结果是离婚大战",
@@ -704,6 +760,14 @@
       "word": "白鹿新剧夜会情郎",
       "onboard_time": 1748841979,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192129,
+      "num": 192129,
+      "word": "云合",
+      "onboard_time": 1748852900,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -737,14 +801,6 @@
       "onboard_time": 1748840781,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185197,
-      "num": 161011,
-      "word": "女童回家被陌生男子拖进小巷",
-      "onboard_time": 1748849839,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183737,
@@ -809,14 +865,6 @@
       "onboard_time": 1748828360,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 169536,
-      "num": 191522,
-      "word": "患者花7万买的抗癌药是临床试验药",
-      "onboard_time": 1748846000,
-      "rank": 43,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 165549,
@@ -939,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148051,
+      "num": 148051,
+      "word": "周深养活了多少推文博主",
+      "onboard_time": 1748852781,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147897,
       "num": 253796,
       "word": "外籍志愿者在华强北帮外国游客砍价",
@@ -963,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144955,
+      "num": 144955,
+      "word": "吴彦祖看了StrayKids演唱会",
+      "onboard_time": 1748851820,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142894,
       "num": 142894,
       "word": "临江仙广播剧",
@@ -985,6 +1049,14 @@
       "onboard_time": 1748836159,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138473,
+      "num": 138473,
+      "word": "贾乃亮带甜馨开越野车",
+      "onboard_time": 1748852239,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 136104,
@@ -1025,6 +1097,14 @@
       "onboard_time": 1748834839,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132441,
+      "num": 132441,
+      "word": "labubu来出演藏海传啦",
+      "onboard_time": 1748851820,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 130709,
@@ -1083,12 +1163,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 123277,
-      "num": 123277,
-      "word": "老人山中走失6天吃樱桃获救",
-      "onboard_time": 1748835439,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 122996,
+      "num": 122996,
+      "word": "章若楠被重庆小面香迷糊了",
+      "onboard_time": 1748851521,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 122724,
@@ -1153,6 +1233,14 @@
       "onboard_time": 1748838081,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117719,
+      "num": 117719,
+      "word": "阴阳师",
+      "onboard_time": 1748852599,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 117470,
@@ -1249,6 +1337,22 @@
       "onboard_time": 1748778260,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110936,
+      "num": 110936,
+      "word": "再回看时全陆燃这段表情好微妙",
+      "onboard_time": 1748852540,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110594,
+      "num": 110594,
+      "word": "蔡徐坤金发直拍",
+      "onboard_time": 1748853260,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 109872,
@@ -1419,12 +1523,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99079,
+      "num": 99079,
+      "word": "陷入我们的热恋好上头",
+      "onboard_time": 1748852180,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97996,
       "num": 97996,
       "word": "周震南 小小的老子连麦架都欺负",
       "onboard_time": 1748791462,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97426,
+      "num": 97426,
+      "word": "黑龙江多地拍到罕见粉色极光",
+      "onboard_time": 1748850680,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97319,
@@ -1483,6 +1603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 95063,
+      "num": 95063,
+      "word": "白鹿以为和曾舜晞是一样的物料",
+      "onboard_time": 1748850080,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94827,
       "num": 94827,
       "word": "被正式确诊为夏人",
@@ -1505,6 +1633,14 @@
       "onboard_time": 1748829022,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93010,
+      "num": 93010,
+      "word": "YG新女团2027年出道",
+      "onboard_time": 1748851222,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 92794,
@@ -1659,11 +1795,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84043,
+      "num": 84043,
+      "word": "张文宏受聘香港理工大学",
+      "onboard_time": 1748852480,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 83426,
       "num": 83426,
       "word": "距今约3万年的山顶洞人身高曝光",
       "onboard_time": 1748787501,
       "rank": 38,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 82816,
+      "num": 82816,
+      "word": "原来被子颜色会影响睡眠",
+      "onboard_time": 1748852061,
+      "rank": 48,
       "category": "科学科普"
     },
     {
@@ -1971,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42234,
+      "num": 138549,
+      "word": "中国字的魅力看一次爱一次",
+      "onboard_time": 1748852840,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42016,
       "num": 174649,
       "word": "川菜有抗炎作用吗",
@@ -2123,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27986,
+      "num": 119768,
+      "word": "救援人员回应87岁老人走失6天获救",
+      "onboard_time": 1748853260,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27818,
       "num": 632573,
       "word": "非遗与童趣撞个满怀",
@@ -2193,6 +2361,22 @@
       "onboard_time": 1748803035,
       "rank": 48,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 21162,
+      "num": 139477,
+      "word": "全校为高三生准备了场停电惊喜",
+      "onboard_time": 1748852540,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20188,
+      "num": 140065,
+      "word": "怎样挑选水果更健康",
+      "onboard_time": 1748852300,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 19519,
@@ -2281,6 +2465,14 @@
       "onboard_time": 1748845400,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 8565,
+      "num": 161313,
+      "word": "哪些水果是血糖友好型水果",
+      "onboard_time": 1748853020,
+      "rank": 23,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
