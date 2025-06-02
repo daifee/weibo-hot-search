@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748857384640,
+  "endTime": 1748860152742,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -25,6 +25,14 @@
       "onboard_time": 1748834779,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1304161,
+      "num": 1304161,
+      "word": "夏天这种凉鞋易致孩子性早熟还有毒",
+      "onboard_time": 1748857701,
+      "rank": 0,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1255686,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 560961,
+      "num": 560961,
+      "word": "官方通报幼童掉入高铁站台股道",
+      "onboard_time": 1748856860,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 558235,
       "num": 558235,
       "word": "缺氧离世卡车司机已下葬卡友发声",
@@ -315,6 +331,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 389745,
+      "num": 214877,
+      "word": "因闹矛盾1人扔烧烤签扎进同事脖子",
+      "onboard_time": 1748855660,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384707,
       "num": 383368,
       "word": "没有三生三世只有三婚三离",
@@ -323,12 +347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379599,
-      "num": 193342,
-      "word": "因闹矛盾1人扔烧烤签扎进同事脖子",
-      "onboard_time": 1748855660,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 382633,
+      "num": 213208,
+      "word": "张远因为状态太好而无效变装",
+      "onboard_time": 1748858061,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 374675,
@@ -345,6 +369,14 @@
       "onboard_time": 1748846422,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352469,
+      "num": 352469,
+      "word": "藏海传播放量再度破亿",
+      "onboard_time": 1748856261,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 350468,
@@ -444,7 +476,7 @@
     },
     {
       "raw_hot": 307464,
-      "num": 185220,
+      "num": 212015,
       "word": "维生素B竟然能缓解这么多小毛病",
       "onboard_time": 1748854221,
       "rank": 20,
@@ -489,6 +521,14 @@
       "onboard_time": 1748834540,
       "rank": 30,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 286249,
+      "num": 211710,
+      "word": "何秋亊服装造型团队回应抄袭",
+      "onboard_time": 1748857701,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 281538,
@@ -603,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249335,
+      "num": 249335,
+      "word": "尾号0000000手机号拍出61.2万",
+      "onboard_time": 1748859080,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242752,
       "num": 210340,
       "word": "镜FMVP星传说皮肤",
@@ -643,12 +691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231604,
-      "num": 204436,
-      "word": "藏海传播放量再度破亿",
-      "onboard_time": 1748856261,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 232941,
+      "num": 232941,
+      "word": "TES对战BLG",
+      "onboard_time": 1748859080,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 224624,
@@ -683,6 +731,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 220081,
+      "num": 218171,
+      "word": "女子劈开用几年的菜板满是黄曲霉素",
+      "onboard_time": 1748854700,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215151,
       "num": 215151,
       "word": "萨巴伦卡回应将对阵郑钦文",
@@ -699,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212668,
+      "num": 212668,
+      "word": "没有假球全是世仇",
+      "onboard_time": 1748857400,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212198,
       "num": 164493,
       "word": "张韶涵潘玮柏毕业歌会同框",
@@ -707,12 +771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209924,
-      "num": 209924,
-      "word": "女子劈开用几年的菜板满是黄曲霉素",
-      "onboard_time": 1748854700,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 211395,
+      "num": 211395,
+      "word": "刘亦菲阿布扎比9宫格",
+      "onboard_time": 1748859319,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 208934,
@@ -819,12 +883,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191963,
+      "num": 222033,
+      "word": "张家界溶洞垃圾已清运2.7吨",
+      "onboard_time": 1748858900,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189507,
       "num": 189507,
       "word": "乡政府回应七旬老人捡烟花被崩伤",
       "onboard_time": 1748828360,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189385,
+      "num": 189385,
+      "word": "何秋亊方向汪苏泷道歉",
+      "onboard_time": 1748859800,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 187646,
@@ -865,6 +945,14 @@
       "onboard_time": 1748846541,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 181615,
+      "num": 181615,
+      "word": "电视剧四十七",
+      "onboard_time": 1748859379,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 181478,
@@ -921,6 +1009,14 @@
       "onboard_time": 1748828360,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168663,
+      "num": 168663,
+      "word": "印度的流水席",
+      "onboard_time": 1748855181,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 165549,
@@ -1211,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131804,
+      "num": 131804,
+      "word": "张凌赫胶片",
+      "onboard_time": 1748858239,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130709,
       "num": 130709,
       "word": "罗云熙点赞太原小吃沾串",
@@ -1233,6 +1337,22 @@
       "onboard_time": 1748780361,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129358,
+      "num": 129358,
+      "word": "面具人",
+      "onboard_time": 1748860099,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128824,
+      "num": 128824,
+      "word": "铠以后都不许开大",
+      "onboard_time": 1748858180,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 126806,
@@ -1281,6 +1401,14 @@
       "onboard_time": 1748851521,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122834,
+      "num": 122834,
+      "word": "迪士尼打架是否互殴还需细心调查",
+      "onboard_time": 1748857759,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122724,
@@ -1419,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114824,
+      "num": 215573,
+      "word": "男子委托网友炒股8个月亏40万",
+      "onboard_time": 1748859501,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113102,
       "num": 164750,
       "word": "雨果12秒复原三阶魔方",
@@ -1459,12 +1595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110965,
+      "num": 110965,
+      "word": "米卡在中国当上导游了",
+      "onboard_time": 1748859740,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110936,
       "num": 110936,
       "word": "再回看时全陆燃这段表情好微妙",
       "onboard_time": 1748852540,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109986,
+      "num": 109986,
+      "word": "看见小猫开始干维修了",
+      "onboard_time": 1748859680,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 109872,
@@ -1587,14 +1739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102238,
-      "num": 191419,
-      "word": "官方通报幼童掉入高铁站台股道",
-      "onboard_time": 1748856860,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102012,
       "num": 102012,
       "word": "超5万人参与所谓医疗投资被骗近十亿",
@@ -1611,12 +1755,20 @@
       "category": "国际时政,国内时政"
     },
     {
-      "raw_hot": 100963,
-      "num": 104116,
-      "word": "印度的流水席",
-      "onboard_time": 1748855181,
-      "rank": 38,
-      "category": "海外新闻"
+      "raw_hot": 101283,
+      "num": 101283,
+      "word": "伞兵的假期好鲜活",
+      "onboard_time": 1748859920,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 100779,
+      "num": 100779,
+      "word": "瘫痪姑娘穿外骨骼cos哪吒",
+      "onboard_time": 1748857281,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100739,
@@ -1673,6 +1825,14 @@
       "onboard_time": 1748852180,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98850,
+      "num": 98850,
+      "word": "北宋古画中一个小孩在用吸管杯",
+      "onboard_time": 1748857519,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97996,
@@ -1884,7 +2044,7 @@
     },
     {
       "raw_hot": 88770,
-      "num": 88770,
+      "num": 113014,
       "word": "不适合二次加热的食物",
       "onboard_time": 1748853680,
       "rank": 45,
@@ -1977,14 +2137,6 @@
       "onboard_time": 1748856500,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 80011,
-      "num": 80011,
-      "word": "瘫痪姑娘穿外骨骼cos哪吒",
-      "onboard_time": 1748857281,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79655,
@@ -2131,6 +2283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71537,
+      "num": 165410,
+      "word": "女子立遗嘱为4只宠物狗预留十多万",
+      "onboard_time": 1748860040,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71150,
       "num": 72003,
       "word": "藏海传灯塔分时破千万",
@@ -2251,6 +2411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 55968,
+      "num": 212557,
+      "word": "高考前发热怎么办",
+      "onboard_time": 1748856681,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55824,
       "num": 118769,
       "word": "高质量碳水抗衰老更健康吗",
@@ -2273,14 +2441,6 @@
       "onboard_time": 1748815875,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51649,
-      "num": 187394,
-      "word": "高考前发热怎么办",
-      "onboard_time": 1748856681,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 51603,
@@ -2329,6 +2489,14 @@
       "onboard_time": 1748848460,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 45736,
+      "num": 212323,
+      "word": "不吃碳水对身体健康有影响吗",
+      "onboard_time": 1748858361,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 42676,
@@ -2515,6 +2683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28003,
+      "num": 166504,
+      "word": "睡眠不好的人为何脾气都不好",
+      "onboard_time": 1748859201,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 27986,
       "num": 119768,
       "word": "救援人员回应87岁老人走失6天获救",
@@ -2633,6 +2809,22 @@
       "onboard_time": 1748849720,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 16880,
+      "num": 115941,
+      "word": "甘露醇能否作为常规肠道准备药物",
+      "onboard_time": 1748859201,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 16201,
+      "num": 381948,
+      "word": "全国多地开启返程模式",
+      "onboard_time": 1748859621,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15673,
