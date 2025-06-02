@@ -1,0 +1,410 @@
+{
+  "runTime": 1748885046265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 380505,
+        "num": 488814,
+        "word": "夏天这种凉鞋易致孩子性早熟还有毒",
+        "onboard_time": 1748857701,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 356927,
+        "num": 356927,
+        "word": "贾冰因戏减肥后不再打呼",
+        "onboard_time": 1748873722,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27497,
+        "num": 315343,
+        "word": "端午经济成为消费活力新引擎",
+        "onboard_time": 1748872104,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295091,
+        "num": 295091,
+        "word": "蒯铎十年前是必死之局",
+        "onboard_time": 1748879541,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251790,
+        "num": 251790,
+        "word": "榴莲价格出现腰斩",
+        "onboard_time": 1748879541,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 217278,
+        "num": 217278,
+        "word": "洛杉矶奥运会樊振东对国乒不可或缺",
+        "onboard_time": 1748876661,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201932,
+        "num": 201932,
+        "word": "蒋雨融再回应哈佛演讲争议",
+        "onboard_time": 1748879781,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150851,
+        "num": 150851,
+        "word": "工作人员回应漫展上2女童被指衣着暴露",
+        "onboard_time": 1748872761,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143769,
+        "num": 143769,
+        "word": "藏海一跪",
+        "onboard_time": 1748877861,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101010,
+        "num": 141770,
+        "word": "警方通报10岁男孩儿童节前走失",
+        "onboard_time": 1748878102,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257722,
+        "num": 141565,
+        "word": "中山漫展",
+        "onboard_time": 1748879241,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164007,
+        "num": 141561,
+        "word": "迪丽热巴撕拉片",
+        "onboard_time": 1748861061,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141272,
+        "num": 141272,
+        "word": "日本回应7月5日末日地震预言疯传",
+        "onboard_time": 1748871442,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102624,
+        "num": 102624,
+        "word": "48岁妻子产子丈夫称孙子比儿子大3岁",
+        "onboard_time": 1748870121,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95445,
+        "num": 95445,
+        "word": "宋雨琦带千人开场真热血番",
+        "onboard_time": 1748878700,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87617,
+        "num": 87617,
+        "word": "电影女足",
+        "onboard_time": 1748870361,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66649,
+        "num": 66649,
+        "word": "Bin 闹剧结束了",
+        "onboard_time": 1748864542,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64276,
+        "num": 64276,
+        "word": "瑞典环保少女搭乘援助船前往加沙",
+        "onboard_time": 1748882238,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62751,
+        "num": 62751,
+        "word": "蜉蝣是世界上寿命最短的生物之一",
+        "onboard_time": 1748883498,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59599,
+        "num": 59599,
+        "word": "女足迪丽热巴杀青",
+        "onboard_time": 1748865801,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 417650,
+        "num": 59590,
+        "word": "何秋亊方向汪苏泷道歉",
+        "onboard_time": 1748859800,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209154,
+        "num": 59045,
+        "word": "女童回家被陌生男子拖进小巷",
+        "onboard_time": 1748849839,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182562,
+        "num": 58692,
+        "word": "普京底线被乌克兰撕开",
+        "onboard_time": 1748864180,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100821,
+        "num": 58179,
+        "word": "李在明喊出还差三票就赢得大选",
+        "onboard_time": 1748875283,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57816,
+        "num": 57816,
+        "word": "面具人真是赵秉文",
+        "onboard_time": 1748860639,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57434,
+        "num": 57434,
+        "word": "累点很低的人建议改掉6个习惯",
+        "onboard_time": 1748866761,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57185,
+        "num": 57185,
+        "word": "薛之谦造型",
+        "onboard_time": 1748875941,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54801,
+        "num": 54801,
+        "word": "皇上藏海 我们好像在哪儿见过",
+        "onboard_time": 1748871022,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54320,
+        "num": 54320,
+        "word": "绿发会回应涉蒋雨融争议",
+        "onboard_time": 1748868801,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53856,
+        "num": 53856,
+        "word": "澳门偶遇Angelababy拍摄",
+        "onboard_time": 1748870002,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53795,
+        "num": 53795,
+        "word": "许其亮同志逝世",
+        "onboard_time": 1748863520,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49265,
+        "num": 49265,
+        "word": "许嵩天津",
+        "onboard_time": 1748879840,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49164,
+        "num": 49164,
+        "word": "内娱多位男明星减肥成功",
+        "onboard_time": 1748869521,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49122,
+        "num": 49122,
+        "word": "鞠婧祎撕拉片",
+        "onboard_time": 1748864061,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48944,
+        "num": 48944,
+        "word": "鹿晗四巡",
+        "onboard_time": 1748873544,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 46034,
+        "num": 48943,
+        "word": "边伯贤新歌Lemonade",
+        "onboard_time": 1748879180,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46005,
+        "num": 48942,
+        "word": "广西4.1级地震",
+        "onboard_time": 1748871862,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45894,
+        "num": 48942,
+        "word": "山东10岁失联男孩确认溺水身亡",
+        "onboard_time": 1748874442,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44469,
+        "num": 48941,
+        "word": "俄州长宣布奖励向乌无人机投石民众",
+        "onboard_time": 1748873902,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43616,
+        "num": 48940,
+        "word": "锦绣芳华",
+        "onboard_time": 1748866222,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43455,
+        "num": 48940,
+        "word": "俄乌二轮谈判结束后泽连斯基发声",
+        "onboard_time": 1748875522,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41765,
+        "num": 48938,
+        "word": "王安宇撕拉片",
+        "onboard_time": 1748873662,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41468,
+        "num": 48937,
+        "word": "张凌赫撕拉片",
+        "onboard_time": 1748865200,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41373,
+        "num": 48937,
+        "word": "男子网购牛奶整箱鼓包变质成豆腐渣",
+        "onboard_time": 1748876061,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40584,
+        "num": 48937,
+        "word": "头一次用震撼形容一个夜市",
+        "onboard_time": 1748878700,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27279,
+        "num": 48936,
+        "word": "乌方正准备新的战俘交换",
+        "onboard_time": 1748883377,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38695,
+        "num": 48935,
+        "word": "尾号0000000手机号拍出61.2万",
+        "onboard_time": 1748859080,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37468,
+        "num": 48933,
+        "word": "官鸿近照状态变化",
+        "onboard_time": 1748872041,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35103,
+        "num": 48933,
+        "word": "nana民宿",
+        "onboard_time": 1748866340,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28938,
+        "num": 48933,
+        "word": "德约科维奇vs诺里",
+        "onboard_time": 1748878641,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记品多彩非遗#"
+    }
+  }
+}
