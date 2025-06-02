@@ -1,0 +1,410 @@
+{
+  "runTime": 1748861195947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1360014,
+        "num": 1360014,
+        "word": "夏天这种凉鞋易致孩子性早熟还有毒",
+        "onboard_time": 1748857701,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1100277,
+        "num": 1100277,
+        "word": "何秋亊方向汪苏泷道歉",
+        "onboard_time": 1748859800,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30171,
+        "num": 820697,
+        "word": "全国多地开启返程模式",
+        "onboard_time": 1748859621,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603629,
+        "num": 603629,
+        "word": "官方通报幼童掉入高铁站台股道",
+        "onboard_time": 1748856860,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511855,
+        "num": 511855,
+        "word": "尾号0000000手机号拍出61.2万",
+        "onboard_time": 1748859080,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435403,
+        "num": 435403,
+        "word": "张远因为状态太好而无效变装",
+        "onboard_time": 1748858061,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 324436,
+        "num": 324436,
+        "word": "面具人真是赵秉文",
+        "onboard_time": 1748860639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253801,
+        "num": 253801,
+        "word": "印度富人的家庭晚餐",
+        "onboard_time": 1748838260,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251273,
+        "num": 251273,
+        "word": "藏海传播放量再度破亿",
+        "onboard_time": 1748856261,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92435,
+        "num": 250154,
+        "word": "幼童从列车和站台间隙掉入高铁股道",
+        "onboard_time": 1748858841,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529468,
+        "num": 248592,
+        "word": "妈妈说陈梦没精力谈恋爱",
+        "onboard_time": 1748853919,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490783,
+        "num": 246435,
+        "word": "女童回家被陌生男子拖进小巷",
+        "onboard_time": 1748849839,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296124,
+        "num": 243837,
+        "word": "杨幂私下超爱给谢依霖晒小糯米",
+        "onboard_time": 1748843300,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272500,
+        "num": 240321,
+        "word": "因闹矛盾1人扔烧烤签扎进同事脖子",
+        "onboard_time": 1748855660,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131971,
+        "num": 237273,
+        "word": "男子委托网友炒股8个月亏40万",
+        "onboard_time": 1748859501,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237181,
+        "num": 237181,
+        "word": "张家界溶洞垃圾已清运2.7吨",
+        "onboard_time": 1748858900,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236984,
+        "num": 236984,
+        "word": "刘亦菲阿布扎比9宫格",
+        "onboard_time": 1748859319,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214651,
+        "num": 236889,
+        "word": "华晨宇这是我380就能看到的吗",
+        "onboard_time": 1748851820,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133694,
+        "num": 234086,
+        "word": "女子立遗嘱为4只宠物狗预留十多万",
+        "onboard_time": 1748860040,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3179,
+        "num": 231935,
+        "word": "要不要对朋友有太多的占有欲",
+        "onboard_time": 1748860820,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259715,
+        "num": 230418,
+        "word": "维生素B竟然能缓解这么多小毛病",
+        "onboard_time": 1748854221,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228631,
+        "num": 228631,
+        "word": "贴身内衣藏臭屁虫卵人裂开了",
+        "onboard_time": 1748848701,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222170,
+        "num": 222170,
+        "word": "TES对战BLG",
+        "onboard_time": 1748859080,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200256,
+        "num": 200256,
+        "word": "面具人",
+        "onboard_time": 1748860099,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197834,
+        "num": 197834,
+        "word": "蒋雨融发文回应争议",
+        "onboard_time": 1748845342,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173068,
+        "num": 173068,
+        "word": "何秋亊服装造型团队回应抄袭",
+        "onboard_time": 1748857701,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 168673,
+        "num": 168673,
+        "word": "没有假球全是世仇",
+        "onboard_time": 1748857400,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165092,
+        "num": 165092,
+        "word": "迪丽热巴撕拉片",
+        "onboard_time": 1748861061,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151416,
+        "num": 162417,
+        "word": "电视剧四十七",
+        "onboard_time": 1748859379,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11987,
+        "num": 161622,
+        "word": "七分吃三分练减肥法是否科学有效",
+        "onboard_time": 1748860521,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 161165,
+        "num": 161165,
+        "word": "女子劈开用几年的菜板满是黄曲霉素",
+        "onboard_time": 1748854700,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158299,
+        "num": 158299,
+        "word": "希然忘词",
+        "onboard_time": 1748860701,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150186,
+        "num": 150186,
+        "word": "张凌赫胶片",
+        "onboard_time": 1748858239,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96123,
+        "num": 148129,
+        "word": "伞兵的假期好鲜活",
+        "onboard_time": 1748859920,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146749,
+        "num": 146749,
+        "word": "没有三生三世只有三婚三离",
+        "onboard_time": 1748851641,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143717,
+        "num": 143717,
+        "word": "孟子义请曾舜晞九门剧组喝饮料",
+        "onboard_time": 1748860941,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137541,
+        "num": 137541,
+        "word": "宝妈7个月瘦了43斤撞脸李若彤",
+        "onboard_time": 1748848759,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16735,
+        "num": 128823,
+        "word": "无人机被困树上杂技演员轻松拿下",
+        "onboard_time": 1748860521,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127971,
+        "num": 127971,
+        "word": "藏海传面具人身份终于揭秘",
+        "onboard_time": 1748834779,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118975,
+        "num": 118975,
+        "word": "姜贞羽短剧",
+        "onboard_time": 1748849059,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111560,
+        "num": 111560,
+        "word": "印度的流水席",
+        "onboard_time": 1748855181,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104342,
+        "num": 104342,
+        "word": "中国女老板再次拒绝美国PUA",
+        "onboard_time": 1748860941,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102352,
+        "num": 102352,
+        "word": "法网",
+        "onboard_time": 1748857759,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101614,
+        "num": 101614,
+        "word": "白鹿半年播三部剧的含金量",
+        "onboard_time": 1748854101,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99096,
+        "num": 99096,
+        "word": "高芙vs亚历山德洛娃",
+        "onboard_time": 1748860220,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39608,
+        "num": 98452,
+        "word": "不适合二次加热的食物",
+        "onboard_time": 1748853680,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 98388,
+        "num": 98388,
+        "word": "铠以后都不许开大",
+        "onboard_time": 1748858180,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96427,
+        "num": 96427,
+        "word": "王嘉尔蔡徐坤音乐节同框",
+        "onboard_time": 1748845161,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94533,
+        "num": 94533,
+        "word": "米卡在中国当上导游了",
+        "onboard_time": 1748859740,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92216,
+        "num": 92216,
+        "word": "难怪曹公公动不动就办家宴",
+        "onboard_time": 1748860881,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的自信之基力量之源#"
+    }
+  }
+}
