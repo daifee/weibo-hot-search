@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748842030418,
+  "endTime": 1748843115475,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -131,8 +131,16 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 1222121,
+      "num": 1222121,
+      "word": "司机缺氧离世有5个上学孩子",
+      "onboard_time": 1748838621,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1150707,
-      "num": 577452,
+      "num": 614325,
       "word": "蔡徐坤洛杉矶音乐节舞台",
       "onboard_time": 1748840960,
       "rank": 3,
@@ -145,6 +153,14 @@
       "onboard_time": 1748736978,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1024126,
+      "num": 331107,
+      "word": "章子怡晒女儿儿子",
+      "onboard_time": 1748840781,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1008140,
@@ -169,22 +185,6 @@
       "onboard_time": 1748746100,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 965917,
-      "num": 331107,
-      "word": "章子怡晒女儿儿子",
-      "onboard_time": 1748840781,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 963138,
-      "num": 1154102,
-      "word": "司机缺氧离世有5个上学孩子",
-      "onboard_time": 1748838621,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 943117,
@@ -283,20 +283,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 732189,
+      "num": 732189,
+      "word": "印度富人的家庭晚餐",
+      "onboard_time": 1748838260,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 730292,
       "num": 730292,
       "word": "乌克兰摧毁41架俄军战略轰炸机",
       "onboard_time": 1748786121,
       "rank": 3,
       "category": "国际时政,军事"
-    },
-    {
-      "raw_hot": 722292,
-      "num": 328674,
-      "word": "印度富人的家庭晚餐",
-      "onboard_time": 1748838260,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 698578,
@@ -1251,12 +1251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245380,
+      "num": 245380,
+      "word": "第三人是内阁首辅石一平",
+      "onboard_time": 1748842042,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243730,
       "num": 291223,
       "word": "藏海传云合33.6%",
       "onboard_time": 1748769500,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242752,
+      "num": 210340,
+      "word": "镜FMVP星传说皮肤",
+      "onboard_time": 1748842521,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 240255,
@@ -1587,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193197,
+      "num": 193197,
+      "word": "白鹿新剧夜会情郎",
+      "onboard_time": 1748841979,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192580,
       "num": 192580,
       "word": "肖战一款很新的恶童型男主",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1748760860,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 191807,
+      "num": 191807,
+      "word": "金价",
+      "onboard_time": 1748839880,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 190633,
@@ -1675,6 +1707,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 187646,
+      "num": 187646,
+      "word": "VOGUE海边假日",
+      "onboard_time": 1748842102,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 187127,
       "num": 236782,
       "word": "藏海传 大家都有丰富的夜生活",
@@ -1707,6 +1747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185747,
+      "num": 185747,
+      "word": "2025KPL夏季赛定妆照",
+      "onboard_time": 1748840781,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185685,
       "num": 185685,
       "word": "U16国足vs澳大利亚U16",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1748774422,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 183801,
-      "num": 183801,
-      "word": "2025KPL夏季赛定妆照",
-      "onboard_time": 1748840781,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 183737,
@@ -2219,6 +2259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151966,
+      "num": 151966,
+      "word": "火了半年的哪吒又萌出新高度了",
+      "onboard_time": 1748841680,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151856,
       "num": 229024,
       "word": "郑钦文法网对阵萨巴伦卡",
@@ -2523,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136104,
+      "num": 136104,
+      "word": "俄罗斯民众英勇拦截乌克兰无人机",
+      "onboard_time": 1748841861,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135617,
       "num": 135617,
       "word": "王安宇朕的哭妃变拽妃了",
@@ -2584,14 +2640,6 @@
       "word": "黄子韬新说唱海报",
       "onboard_time": 1748834839,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 132917,
-      "num": 132917,
-      "word": "火了半年的哪吒又萌出新高度了",
-      "onboard_time": 1748841680,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -2683,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129955,
+      "num": 143888,
+      "word": "演员3都把演员调成什么样了",
+      "onboard_time": 1748841801,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129700,
       "num": 129700,
       "word": "刘浩存晋江现言女主有脸了",
@@ -2771,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125114,
+      "num": 275490,
+      "word": "警惕美国资助反华NGO新手段",
+      "onboard_time": 1748839760,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124943,
       "num": 124943,
       "word": "樊振东跟首冠地萨尔布吕肯再续前缘",
@@ -2843,6 +2907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121361,
+      "num": 121361,
+      "word": "种草了虞书欣的潮玩穿搭",
+      "onboard_time": 1748842640,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121015,
       "num": 121015,
       "word": "饶雪漫给柯淳发青春戏片约",
@@ -2865,6 +2937,14 @@
       "onboard_time": 1748746881,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120636,
+      "num": 120636,
+      "word": "韶华若锦",
+      "onboard_time": 1748842640,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 120253,
@@ -3123,6 +3203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110537,
+      "num": 110537,
+      "word": "张家界一溶洞垃圾堆至7层楼高",
+      "onboard_time": 1748841801,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110299,
       "num": 238773,
       "word": "菲防长被问中菲关系出路时沉默",
@@ -3187,14 +3275,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 108533,
-      "num": 108533,
-      "word": "俄罗斯民众英勇拦截乌克兰无人机",
-      "onboard_time": 1748841861,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108393,
       "num": 108393,
       "word": "魏晨玫瑰音乐节",
@@ -3216,14 +3296,6 @@
       "word": "在人间永不失联的爱",
       "onboard_time": 1748784021,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 107571,
-      "num": 107570,
-      "word": "白鹿新剧夜会情郎",
-      "onboard_time": 1748841979,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -3307,14 +3379,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 105758,
-      "num": 105758,
-      "word": "张家界一溶洞垃圾堆至7层楼高",
-      "onboard_time": 1748841801,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105223,
       "num": 105223,
       "word": "杜兰特真会投资",
@@ -3395,28 +3459,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 103761,
-      "num": 103761,
-      "word": "演员3都把演员调成什么样了",
-      "onboard_time": 1748841801,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 103474,
       "num": 103474,
       "word": "小猫爬到女生的背上躲雨",
       "onboard_time": 1748770340,
       "rank": 39,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 103444,
-      "num": 103444,
-      "word": "金价",
-      "onboard_time": 1748839880,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 103212,
@@ -3465,14 +3513,6 @@
       "onboard_time": 1748753420,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102526,
-      "num": 102526,
-      "word": "警惕美国资助反华NGO新手段",
-      "onboard_time": 1748839760,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102126,
@@ -3803,6 +3843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91731,
+      "num": 91731,
+      "word": "俄媒称乌克兰仅可能摧毁3架飞机",
+      "onboard_time": 1748842102,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91273,
       "num": 257965,
       "word": "泽连斯基再提乌俄领导人会晤",
@@ -3825,6 +3873,14 @@
       "onboard_time": 1748749881,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 90165,
+      "num": 90165,
+      "word": "港股加密货币概念股拉升",
+      "onboard_time": 1748842760,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 89960,
@@ -4291,6 +4347,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 70463,
+      "num": 108338,
+      "word": "广东人的粽子有多豪横",
+      "onboard_time": 1748840121,
+      "rank": 38,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 70305,
       "num": 70305,
       "word": "StrayKids洛杉矶演唱会上座率",
@@ -4595,8 +4659,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51603,
+      "num": 108086,
+      "word": "手机升级拍照会变差吗",
+      "onboard_time": 1748841441,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 51420,
-      "num": 634992,
+      "num": 636475,
       "word": "天问二号问天之旅第一站拜访谁",
       "onboard_time": 1748834420,
       "rank": 2,
@@ -5132,7 +5204,7 @@
     },
     {
       "raw_hot": 25094,
-      "num": 136029,
+      "num": 138032,
       "word": "高考前最后一次班会",
       "onboard_time": 1748841561,
       "rank": 29,

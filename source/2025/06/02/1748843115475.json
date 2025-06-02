@@ -1,0 +1,410 @@
+{
+  "runTime": 1748843115475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1222121,
+        "num": 1222121,
+        "word": "司机缺氧离世有5个上学孩子",
+        "onboard_time": 1748838621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 732189,
+        "num": 732189,
+        "word": "印度富人的家庭晚餐",
+        "onboard_time": 1748838260,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36458,
+        "num": 636475,
+        "word": "天问二号问天之旅第一站拜访谁",
+        "onboard_time": 1748834420,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 825099,
+        "num": 614325,
+        "word": "蔡徐坤洛杉矶音乐节舞台",
+        "onboard_time": 1748840960,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 573488,
+        "num": 573488,
+        "word": "藏海传面具人身份终于揭秘",
+        "onboard_time": 1748834779,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297006,
+        "num": 297006,
+        "word": "吃辣能力会退化",
+        "onboard_time": 1748835740,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 534446,
+        "num": 295004,
+        "word": "张婧仪无法出戏",
+        "onboard_time": 1748838741,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290055,
+        "num": 290055,
+        "word": "缺氧离世卡车司机已下葬卡友发声",
+        "onboard_time": 1748837299,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275574,
+        "num": 275574,
+        "word": "苏晓彤复刻永夜星河大婚造型",
+        "onboard_time": 1748840060,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125114,
+        "num": 275490,
+        "word": "警惕美国资助反华NGO新手段",
+        "onboard_time": 1748839760,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1024126,
+        "num": 272555,
+        "word": "章子怡晒女儿儿子",
+        "onboard_time": 1748840781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724610,
+        "num": 271377,
+        "word": "贾冰减肥成功瘦到脱相",
+        "onboard_time": 1748827459,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377802,
+        "num": 270330,
+        "word": "王晓晨被传婚讯后首露面",
+        "onboard_time": 1748839160,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341659,
+        "num": 268723,
+        "word": "霉霉和赛琳娜聚餐",
+        "onboard_time": 1748838621,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267711,
+        "num": 267711,
+        "word": "金价上冲",
+        "onboard_time": 1748836040,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 246352,
+        "num": 246352,
+        "word": "乌方袭击俄机场画面曝光",
+        "onboard_time": 1748834061,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245380,
+        "num": 245380,
+        "word": "第三人是内阁首辅石一平",
+        "onboard_time": 1748842042,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244364,
+        "num": 244364,
+        "word": "上海警方通报迪士尼打架事件",
+        "onboard_time": 1748787802,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 57076,
+        "num": 234556,
+        "word": "魏晨的松弛感是领克900给的",
+        "onboard_time": 1748840781,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227278,
+        "num": 227278,
+        "word": "雷坤也是当上站哥了",
+        "onboard_time": 1748840901,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242752,
+        "num": 210340,
+        "word": "镜FMVP星传说皮肤",
+        "onboard_time": 1748842521,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193197,
+        "num": 193197,
+        "word": "白鹿新剧夜会情郎",
+        "onboard_time": 1748841979,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191807,
+        "num": 191807,
+        "word": "金价",
+        "onboard_time": 1748839880,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187646,
+        "num": 187646,
+        "word": "VOGUE海边假日",
+        "onboard_time": 1748842102,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 185747,
+        "num": 185747,
+        "word": "2025KPL夏季赛定妆照",
+        "onboard_time": 1748840781,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177810,
+        "num": 177810,
+        "word": "印度男子泰国景区摸老虎屁股遭扑咬",
+        "onboard_time": 1748833821,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151966,
+        "num": 151966,
+        "word": "火了半年的哪吒又萌出新高度了",
+        "onboard_time": 1748841680,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129955,
+        "num": 143888,
+        "word": "演员3都把演员调成什么样了",
+        "onboard_time": 1748841801,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141823,
+        "num": 141823,
+        "word": "花两千买苹果15被说一眼假",
+        "onboard_time": 1748824999,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24508,
+        "num": 138032,
+        "word": "高考前最后一次班会",
+        "onboard_time": 1748841561,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136104,
+        "num": 136104,
+        "word": "俄罗斯民众英勇拦截乌克兰无人机",
+        "onboard_time": 1748841861,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134362,
+        "num": 134362,
+        "word": "川菜是抗炎作用最强的菜系",
+        "onboard_time": 1748835199,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129554,
+        "num": 129554,
+        "word": "曾舜晞新剧被前妻做局了",
+        "onboard_time": 1748833159,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122859,
+        "num": 122859,
+        "word": "临江仙定档",
+        "onboard_time": 1748829679,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121361,
+        "num": 121361,
+        "word": "种草了虞书欣的潮玩穿搭",
+        "onboard_time": 1748842640,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120636,
+        "num": 120636,
+        "word": "韶华若锦",
+        "onboard_time": 1748842640,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116347,
+        "num": 116347,
+        "word": "严浩翔万妮达战队海报",
+        "onboard_time": 1748837600,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110537,
+        "num": 110537,
+        "word": "张家界一溶洞垃圾堆至7层楼高",
+        "onboard_time": 1748841801,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70463,
+        "num": 108338,
+        "word": "广东人的粽子有多豪横",
+        "onboard_time": 1748840121,
+        "rank": 38,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 51603,
+        "num": 108086,
+        "word": "手机升级拍照会变差吗",
+        "onboard_time": 1748841441,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108006,
+        "num": 108006,
+        "word": "九门尹新月扮演者",
+        "onboard_time": 1748824098,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107315,
+        "num": 107315,
+        "word": "六月好运星座",
+        "onboard_time": 1748837120,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107311,
+        "num": 107311,
+        "word": "菲律宾防长居然说中国记者是特工",
+        "onboard_time": 1748836819,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97788,
+        "num": 97788,
+        "word": "高反缺氧去世卡友已回老家下葬",
+        "onboard_time": 1748837841,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97740,
+        "num": 97740,
+        "word": "柳岩因卡鱼刺进了医院",
+        "onboard_time": 1748829081,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97417,
+        "num": 97417,
+        "word": "吴谨言王星越墨雨云间开播一周年发文",
+        "onboard_time": 1748832919,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94231,
+        "num": 94231,
+        "word": "以为是古偶仙侠结果是离婚大战",
+        "onboard_time": 1748838439,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91731,
+        "num": 91731,
+        "word": "俄媒称乌克兰仅可能摧毁3架飞机",
+        "onboard_time": 1748842102,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90165,
+        "num": 90165,
+        "word": "港股加密货币概念股拉升",
+        "onboard_time": 1748842760,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89649,
+        "num": 89649,
+        "word": "俄乌第二轮直接谈判今天举行",
+        "onboard_time": 1748828360,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的自信之基力量之源#"
+    }
+  }
+}
