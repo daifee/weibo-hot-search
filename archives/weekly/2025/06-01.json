@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748889369138,
+  "endTime": 1748890230891,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -7339,6 +7339,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 24218,
+      "num": 24218,
+      "word": "汪苏泷十万伏特2.0巡回演唱会",
+      "onboard_time": 1748879359,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24053,
       "num": 27042,
       "word": "北京奇遇海音乐节",
@@ -7385,14 +7393,6 @@
       "onboard_time": 1748802136,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23163,
-      "num": 23163,
-      "word": "汪苏泷十万伏特2.0巡回演唱会",
-      "onboard_time": 1748879359,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 22636,
@@ -7507,6 +7507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18803,
+      "num": 21639,
+      "word": "韶华若锦大结局he得很安心",
+      "onboard_time": 1748889134,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18529,
       "num": 122575,
       "word": "落水后如何自救",
@@ -7515,20 +7523,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 18462,
-      "num": 21639,
-      "word": "韶华若锦大结局he得很安心",
-      "onboard_time": 1748889134,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17940,
       "num": 63284,
       "word": "起猛了看到广州CBD堵船了",
       "onboard_time": 1748716455,
       "rank": 9,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 17615,
+      "num": 20365,
+      "word": "周深希望你不惧挑战勇敢远航",
+      "onboard_time": 1748890094,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 17348,
@@ -7649,6 +7657,14 @@
       "onboard_time": 1748856621,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12345,
+      "num": 58252,
+      "word": "9岁盲童的音乐会有暖心后续",
+      "onboard_time": 1748889374,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 12332,
