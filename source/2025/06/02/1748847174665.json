@@ -1,0 +1,410 @@
+{
+  "runTime": 1748847174665,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 696707,
+        "num": 1111473,
+        "word": "印度富人的家庭晚餐",
+        "onboard_time": 1748838260,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 426695,
+        "num": 426695,
+        "word": "藏海传面具人身份终于揭秘",
+        "onboard_time": 1748834779,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36813,
+        "num": 249862,
+        "word": "天问二号问天之旅第一站拜访谁",
+        "onboard_time": 1748834420,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 439676,
+        "num": 246930,
+        "word": "王嘉尔蔡徐坤音乐节同框",
+        "onboard_time": 1748845161,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241636,
+        "num": 241636,
+        "word": "金价",
+        "onboard_time": 1748839880,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224816,
+        "num": 224816,
+        "word": "吃辣能力会退化",
+        "onboard_time": 1748835740,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 242051,
+        "num": 223960,
+        "word": "蔡徐坤洛杉矶音乐节舞台",
+        "onboard_time": 1748840960,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239849,
+        "num": 221694,
+        "word": "第三人是内阁首辅石一平",
+        "onboard_time": 1748842042,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173156,
+        "num": 219751,
+        "word": "乌方袭击俄机场画面曝光",
+        "onboard_time": 1748834061,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202014,
+        "num": 217755,
+        "word": "蒋雨融发文回应争议",
+        "onboard_time": 1748845342,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1104884,
+        "num": 217294,
+        "word": "杨幂私下超爱给谢依霖晒小糯米",
+        "onboard_time": 1748843300,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800645,
+        "num": 215271,
+        "word": "张雪峰自曝可能告别直播",
+        "onboard_time": 1748843300,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 647509,
+        "num": 212063,
+        "word": "司机缺氧离世有5个上学孩子",
+        "onboard_time": 1748838621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415486,
+        "num": 210971,
+        "word": "章子怡晒女儿儿子",
+        "onboard_time": 1748840781,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83599,
+        "num": 208285,
+        "word": "兰博基尼车主赖停车费被代驾举报酒驾",
+        "onboard_time": 1748846422,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396148,
+        "num": 207077,
+        "word": "贾冰减肥成功瘦到脱相",
+        "onboard_time": 1748827459,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206386,
+        "num": 206386,
+        "word": "张家界一溶洞垃圾堆至7层楼高",
+        "onboard_time": 1748841801,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202130,
+        "num": 202130,
+        "word": "宁艺卓将出席VOGUE盛典",
+        "onboard_time": 1748846481,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29146,
+        "num": 197112,
+        "word": "高质量碳水有何突出优势",
+        "onboard_time": 1748846541,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 50892,
+        "num": 196449,
+        "word": "乌总统称亲自筹划蛛网行动一年半",
+        "onboard_time": 1748846541,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 391728,
+        "num": 196442,
+        "word": "杜华晒章子怡佟丽娅陈好合照",
+        "onboard_time": 1748845820,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196039,
+        "num": 196039,
+        "word": "张婧仪无法出戏",
+        "onboard_time": 1748838741,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198261,
+        "num": 189654,
+        "word": "吴倩朋友怎么那么会拍吴倩",
+        "onboard_time": 1748843421,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178968,
+        "num": 178968,
+        "word": "张启山你的兵回来了",
+        "onboard_time": 1748845762,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40612,
+        "num": 164750,
+        "word": "雨果12秒复原三阶魔方",
+        "onboard_time": 1748840660,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159449,
+        "num": 159449,
+        "word": "贾静雯自曝三位亲人患癌",
+        "onboard_time": 1748843481,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103726,
+        "num": 156775,
+        "word": "菲律宾防长居然说中国记者是特工",
+        "onboard_time": 1748836819,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96564,
+        "num": 155008,
+        "word": "网友评测陈小春演唱会",
+        "onboard_time": 1748844981,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154943,
+        "num": 154943,
+        "word": "镜FMVP星传说皮肤",
+        "onboard_time": 1748842521,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17778,
+        "num": 152861,
+        "word": "71岁奶奶撸铁4年线条吊打小年轻",
+        "onboard_time": 1748846781,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151798,
+        "num": 151798,
+        "word": "上海警方通报迪士尼打架事件",
+        "onboard_time": 1748787802,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 143317,
+        "num": 143317,
+        "word": "杨毅祝贺王楚钦世乒赛双冠",
+        "onboard_time": 1748845161,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140952,
+        "num": 140952,
+        "word": "王晓晨被传婚讯后首露面",
+        "onboard_time": 1748839160,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26035,
+        "num": 132081,
+        "word": "女人进行力量训练会容易长肌肉吗",
+        "onboard_time": 1748845940,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 131229,
+        "num": 131229,
+        "word": "霉霉和赛琳娜聚餐",
+        "onboard_time": 1748838621,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120752,
+        "num": 120752,
+        "word": "曾舜晞 和李青月花如月已三婚",
+        "onboard_time": 1748843661,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116073,
+        "num": 116073,
+        "word": "情商低的人都有什么行为",
+        "onboard_time": 1748844920,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117470,
+        "num": 114282,
+        "word": "白鹿蓝色古装写真大片",
+        "onboard_time": 1748847141,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44724,
+        "num": 107232,
+        "word": "我国超大规模新能源接入大电网",
+        "onboard_time": 1748844981,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107066,
+        "num": 107066,
+        "word": "不知道的还以为出新台剧了",
+        "onboard_time": 1748845881,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103343,
+        "num": 103343,
+        "word": "俄罗斯民众英勇拦截乌克兰无人机",
+        "onboard_time": 1748841861,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101540,
+        "num": 101540,
+        "word": "警惕美国资助反华NGO新手段",
+        "onboard_time": 1748839760,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115441,
+        "num": 100751,
+        "word": "白鹿回应曾舜晞",
+        "onboard_time": 1748844742,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99775,
+        "num": 100011,
+        "word": "波尔说难以想象樊振东会让萨尔布吕肯变多强",
+        "onboard_time": 1748845221,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99793,
+        "num": 99793,
+        "word": "患者花7万买的抗癌药是临床试验药",
+        "onboard_time": 1748846000,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 98498,
+        "num": 98498,
+        "word": "川菜是抗炎作用最强的菜系",
+        "onboard_time": 1748835199,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 96455,
+        "num": 96455,
+        "word": "苏晓彤复刻永夜星河大婚造型",
+        "onboard_time": 1748840060,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96000,
+        "num": 96000,
+        "word": "王嘉尔洛杉矶舞台",
+        "onboard_time": 1748847141,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94864,
+        "num": 94864,
+        "word": "他的遗物不多藏海是其中一个",
+        "onboard_time": 1748844201,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94746,
+        "num": 94746,
+        "word": "吴倩从民国漫步北欧",
+        "onboard_time": 1748846061,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记关心小朋友们健康成长#"
+    }
+  }
+}
