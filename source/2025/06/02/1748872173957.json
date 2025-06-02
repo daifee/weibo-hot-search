@@ -1,0 +1,410 @@
+{
+  "runTime": 1748872173957,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1394290,
+        "num": 1394290,
+        "word": "夏天这种凉鞋易致孩子性早熟还有毒",
+        "onboard_time": 1748857701,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1089359,
+        "num": 1089359,
+        "word": "锦绣芳华",
+        "onboard_time": 1748866222,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9094,
+        "num": 852737,
+        "word": "端午经济成为消费活力新引擎",
+        "onboard_time": 1748872104,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 832389,
+        "num": 832389,
+        "word": "普京底线被乌克兰撕开",
+        "onboard_time": 1748864180,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 659015,
+        "num": 659015,
+        "word": "面具人真是赵秉文",
+        "onboard_time": 1748860639,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360290,
+        "num": 360290,
+        "word": "尾号0000000手机号拍出61.2万",
+        "onboard_time": 1748859080,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468291,
+        "num": 352407,
+        "word": "藏海被扇巴掌",
+        "onboard_time": 1748870722,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452888,
+        "num": 349893,
+        "word": "电影女足",
+        "onboard_time": 1748870361,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342041,
+        "num": 342041,
+        "word": "Bin 闹剧结束了",
+        "onboard_time": 1748864542,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 314218,
+        "num": 314218,
+        "word": "广西4.1级地震",
+        "onboard_time": 1748871862,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1256425,
+        "num": 313925,
+        "word": "48岁妻子产子丈夫称孙子比儿子大3岁",
+        "onboard_time": 1748870121,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788248,
+        "num": 313863,
+        "word": "迪丽热巴撕拉片",
+        "onboard_time": 1748861061,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39772,
+        "num": 313284,
+        "word": "全国多地开启返程模式",
+        "onboard_time": 1748859621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700842,
+        "num": 312940,
+        "word": "澳门偶遇Angelababy拍摄",
+        "onboard_time": 1748870002,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542268,
+        "num": 312752,
+        "word": "许其亮同志逝世",
+        "onboard_time": 1748863520,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 611091,
+        "num": 312576,
+        "word": "女童回家被陌生男子拖进小巷",
+        "onboard_time": 1748849839,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332026,
+        "num": 312168,
+        "word": "女足迪丽热巴杀青",
+        "onboard_time": 1748865801,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311940,
+        "num": 311940,
+        "word": "江苏唯一真南哥之争已白热化",
+        "onboard_time": 1748866821,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302573,
+        "num": 302573,
+        "word": "Sunnee母亲病重",
+        "onboard_time": 1748869041,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35519,
+        "num": 297490,
+        "word": "被子颜色会影响睡眠吗",
+        "onboard_time": 1748870662,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1135520,
+        "num": 297035,
+        "word": "何秋亊方向汪苏泷道歉",
+        "onboard_time": 1748859800,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 295924,
+        "num": 295924,
+        "word": "藏海不知道星斗死了",
+        "onboard_time": 1748864542,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278326,
+        "num": 278326,
+        "word": "绿发会回应涉蒋雨融争议",
+        "onboard_time": 1748868801,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273064,
+        "num": 273064,
+        "word": "累点很低的人建议改掉6个习惯",
+        "onboard_time": 1748866761,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88678,
+        "num": 265011,
+        "word": "苏超联赛第四轮干就完了",
+        "onboard_time": 1748871922,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260671,
+        "num": 260671,
+        "word": "张凌赫撕拉片",
+        "onboard_time": 1748865200,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254939,
+        "num": 254939,
+        "word": "鞠婧祎撕拉片",
+        "onboard_time": 1748864061,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245890,
+        "num": 245890,
+        "word": "维生素B竟然能缓解这么多小毛病",
+        "onboard_time": 1748854221,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168935,
+        "num": 245439,
+        "word": "中国女老板再次拒绝美国PUA",
+        "onboard_time": 1748860941,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49364,
+        "num": 238049,
+        "word": "谁在买巴黎世家高定",
+        "onboard_time": 1748870481,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 468034,
+        "num": 231399,
+        "word": "皇上藏海 我们好像在哪儿见过",
+        "onboard_time": 1748871022,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189186,
+        "num": 227844,
+        "word": "马嘉祺歌手vlog",
+        "onboard_time": 1748871022,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226374,
+        "num": 226374,
+        "word": "内娱多位男明星减肥成功",
+        "onboard_time": 1748869521,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198311,
+        "num": 198311,
+        "word": "谁懂陈铭这句话的含金量",
+        "onboard_time": 1748869583,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191658,
+        "num": 191658,
+        "word": "港迪偶遇李兰迪",
+        "onboard_time": 1748869583,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189739,
+        "num": 189739,
+        "word": "藏海后面知道得多刀啊",
+        "onboard_time": 1748871261,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189216,
+        "num": 189216,
+        "word": "佩古拉vs布瓦松",
+        "onboard_time": 1748871202,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180431,
+        "num": 180431,
+        "word": "48岁再婚女子超快顺产生子",
+        "onboard_time": 1748872161,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171014,
+        "num": 171014,
+        "word": "日本回应7月5日末日地震预言疯传",
+        "onboard_time": 1748871442,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160038,
+        "num": 160038,
+        "word": "2025乒超联赛",
+        "onboard_time": 1748867060,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158175,
+        "num": 158175,
+        "word": "曹骏VOGUE盛典活动",
+        "onboard_time": 1748872161,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145966,
+        "num": 145966,
+        "word": "黄圣依无法接受自己一天无所事事",
+        "onboard_time": 1748866521,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142190,
+        "num": 142190,
+        "word": "杨幂私下超爱给谢依霖晒小糯米",
+        "onboard_time": 1748843300,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125114,
+        "num": 125114,
+        "word": "美国企业想买中国制造也得排队了",
+        "onboard_time": 1748861360,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124627,
+        "num": 124627,
+        "word": "决战撕拉片之巅",
+        "onboard_time": 1748870183,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95900,
+        "num": 124177,
+        "word": "南方将迎来雨雨雨雨",
+        "onboard_time": 1748871562,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123977,
+        "num": 123977,
+        "word": "易烊千玺一礼成人送给所有高考生",
+        "onboard_time": 1748866521,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123325,
+        "num": 123325,
+        "word": "nana民宿",
+        "onboard_time": 1748866340,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121115,
+        "num": 121115,
+        "word": "6月应季水果大全",
+        "onboard_time": 1748867961,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120310,
+        "num": 120310,
+        "word": "数架歼10战机空中近距离格斗",
+        "onboard_time": 1748868442,
+        "rank": 49,
+        "category": "国内时政,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记品多彩非遗#"
+    }
+  }
+}

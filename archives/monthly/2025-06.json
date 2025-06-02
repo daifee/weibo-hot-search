@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748871477664,
+  "endTime": 1748872173957,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1256425,
+      "num": 375711,
+      "word": "48岁妻子产子丈夫称孙子比儿子大3岁",
+      "onboard_time": 1748870121,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1255686,
       "num": 321874,
       "word": "杨幂私下超爱给谢依霖晒小糯米",
@@ -217,14 +225,6 @@
       "onboard_time": 1748860639,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1045787,
-      "num": 375711,
-      "word": "48岁妻子产子丈夫称孙子比儿子大3岁",
-      "onboard_time": 1748870121,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1024126,
@@ -409,6 +409,14 @@
       "onboard_time": 1748786121,
       "rank": 3,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 700842,
+      "num": 363771,
+      "word": "澳门偶遇Angelababy拍摄",
+      "onboard_time": 1748870002,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 698578,
@@ -643,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 513065,
-      "num": 363771,
-      "word": "澳门偶遇Angelababy拍摄",
-      "onboard_time": 1748870002,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 504276,
       "num": 355137,
       "word": "印度男子泰国景区摸老虎屁股遭扑咬",
@@ -755,6 +755,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468291,
+      "num": 352407,
+      "word": "藏海被扇巴掌",
+      "onboard_time": 1748870722,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 468034,
+      "num": 231399,
+      "word": "皇上藏海 我们好像在哪儿见过",
+      "onboard_time": 1748871022,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466556,
       "num": 264136,
       "word": "7岁男孩被3只恶犬撕咬一年后近况",
@@ -777,6 +793,14 @@
       "onboard_time": 1748743521,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452888,
+      "num": 349893,
+      "word": "电影女足",
+      "onboard_time": 1748870361,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 439676,
@@ -1179,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324986,
-      "num": 324986,
-      "word": "电影女足",
-      "onboard_time": 1748870361,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 322423,
       "num": 228218,
       "word": "龙族更新",
@@ -1227,14 +1243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 316791,
-      "num": 316791,
-      "word": "藏海被扇巴掌",
-      "onboard_time": 1748870722,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 316226,
       "num": 316226,
       "word": "赵丽颖这么演我可要哭了",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1748846000,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 314218,
+      "num": 314218,
+      "word": "广西4.1级地震",
+      "onboard_time": 1748871862,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313422,
@@ -1329,6 +1345,14 @@
       "onboard_time": 1748780180,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302573,
+      "num": 302573,
+      "word": "Sunnee母亲病重",
+      "onboard_time": 1748869041,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 302234,
@@ -1417,14 +1441,6 @@
       "onboard_time": 1748757320,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289001,
-      "num": 182248,
-      "word": "皇上藏海 我们好像在哪儿见过",
-      "onboard_time": 1748871022,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 287648,
@@ -1547,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273064,
+      "num": 273064,
+      "word": "累点很低的人建议改掉6个习惯",
+      "onboard_time": 1748866761,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 272726,
       "num": 202172,
       "word": "严浩翔通杀这赛季",
@@ -1617,14 +1641,6 @@
       "onboard_time": 1748825240,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256440,
-      "num": 256440,
-      "word": "累点很低的人建议改掉6个习惯",
-      "onboard_time": 1748866761,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 256136,
@@ -1747,14 +1763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 240562,
-      "num": 240562,
-      "word": "Sunnee母亲病重",
-      "onboard_time": 1748869041,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240255,
       "num": 240255,
       "word": "川菜是抗炎作用最强的菜系",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1748733918,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226374,
+      "num": 226374,
+      "word": "内娱多位男明星减肥成功",
+      "onboard_time": 1748869521,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 225853,
@@ -2275,12 +2291,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189739,
+      "num": 189739,
+      "word": "藏海后面知道得多刀啊",
+      "onboard_time": 1748871261,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189507,
       "num": 189507,
       "word": "乡政府回应七旬老人捡烟花被崩伤",
       "onboard_time": 1748828360,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189216,
+      "num": 189216,
+      "word": "佩古拉vs布瓦松",
+      "onboard_time": 1748871202,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189186,
+      "num": 227844,
+      "word": "马嘉祺歌手vlog",
+      "onboard_time": 1748871022,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 188174,
@@ -2369,14 +2409,6 @@
       "onboard_time": 1748749400,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185478,
-      "num": 185478,
-      "word": "内娱多位男明星减肥成功",
-      "onboard_time": 1748869521,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 184869,
@@ -2489,6 +2521,14 @@
       "onboard_time": 1748781201,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180431,
+      "num": 180431,
+      "word": "48岁再婚女子超快顺产生子",
+      "onboard_time": 1748872161,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179799,
@@ -2635,14 +2675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171789,
-      "num": 171789,
-      "word": "马嘉祺歌手vlog",
-      "onboard_time": 1748871022,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171657,
       "num": 171657,
       "word": "俄乌第二轮直接谈判今天举行",
@@ -2657,6 +2689,14 @@
       "onboard_time": 1748748861,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171014,
+      "num": 171014,
+      "word": "日本回应7月5日末日地震预言疯传",
+      "onboard_time": 1748871442,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170726,
@@ -2689,6 +2729,14 @@
       "onboard_time": 1748738179,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 168935,
+      "num": 378632,
+      "word": "中国女老板再次拒绝美国PUA",
+      "onboard_time": 1748860941,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168777,
@@ -2897,6 +2945,14 @@
       "onboard_time": 1748860701,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158175,
+      "num": 158175,
+      "word": "曹骏VOGUE盛典活动",
+      "onboard_time": 1748872161,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 157470,
@@ -3129,14 +3185,6 @@
       "onboard_time": 1748866521,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 147829,
-      "num": 378632,
-      "word": "中国女老板再次拒绝美国PUA",
-      "onboard_time": 1748860941,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 146396,
@@ -3835,6 +3883,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 123325,
+      "num": 123325,
+      "word": "nana民宿",
+      "onboard_time": 1748866340,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122996,
       "num": 122996,
       "word": "章若楠被重庆小面香迷糊了",
@@ -3963,14 +4019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120450,
-      "num": 120450,
-      "word": "藏海后面知道得多刀啊",
-      "onboard_time": 1748871261,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120253,
       "num": 163660,
       "word": "英首相称将恢复英国战备状态",
@@ -3993,14 +4041,6 @@
       "onboard_time": 1748789061,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 119570,
-      "num": 119570,
-      "word": "佩古拉vs布瓦松",
-      "onboard_time": 1748871202,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 119386,
@@ -4481,14 +4521,6 @@
       "onboard_time": 1748724435,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 106585,
-      "num": 106585,
-      "word": "日本回应7月5日末日地震预言疯传",
-      "onboard_time": 1748871442,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106461,
@@ -5051,6 +5083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95900,
+      "num": 124177,
+      "word": "南方将迎来雨雨雨雨",
+      "onboard_time": 1748871562,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95807,
       "num": 137919,
       "word": "韩国人到底吃不吃得起肉",
@@ -5353,6 +5393,14 @@
       "onboard_time": 1748853680,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 88678,
+      "num": 265011,
+      "word": "苏超联赛第四轮干就完了",
+      "onboard_time": 1748871922,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 87836,
@@ -6251,6 +6299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49364,
+      "num": 238049,
+      "word": "谁在买巴黎世家高定",
+      "onboard_time": 1748870481,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 49272,
       "num": 316232,
       "word": "运动员版小手办可爱值超标",
@@ -6531,14 +6587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36779,
-      "num": 182374,
-      "word": "谁在买巴黎世家高定",
-      "onboard_time": 1748870481,
-      "rank": 29,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 36726,
       "num": 192232,
       "word": "伞兵旅行明信片",
@@ -6569,6 +6617,14 @@
       "onboard_time": 1748797098,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35519,
+      "num": 305119,
+      "word": "被子颜色会影响睡眠吗",
+      "onboard_time": 1748870662,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 33681,
@@ -7035,14 +7091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19505,
-      "num": 305119,
-      "word": "被子颜色会影响睡眠吗",
-      "onboard_time": 1748870662,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 19024,
       "num": 192785,
       "word": "今年端午最佳",
@@ -7259,6 +7307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9094,
+      "num": 852737,
+      "word": "端午经济成为消费活力新引擎",
+      "onboard_time": 1748872104,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7953,
       "num": 155040,
       "word": "地中海沙拉的万能搭配公式是什么",
@@ -7313,6 +7369,9 @@
     },
     {
       "word": "#习近平挂念这块隋碑40余年#"
+    },
+    {
+      "word": "#跟着总书记品多彩非遗#"
     }
   ]
 }
