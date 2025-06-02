@@ -1,0 +1,410 @@
+{
+  "runTime": 1748850060776,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 863332,
+        "num": 1138133,
+        "word": "情商低的人都有什么行为",
+        "onboard_time": 1748844920,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 520855,
+        "num": 520855,
+        "word": "印度富人的家庭晚餐",
+        "onboard_time": 1748838260,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29798,
+        "num": 446180,
+        "word": "天问二号问天之旅第一站拜访谁",
+        "onboard_time": 1748834420,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 424282,
+        "num": 424282,
+        "word": "王嘉尔蔡徐坤音乐节同框",
+        "onboard_time": 1748845161,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 367306,
+        "num": 367306,
+        "word": "兰博基尼车主赖停车费被代驾举报酒驾",
+        "onboard_time": 1748846422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356641,
+        "num": 356641,
+        "word": "藏海传面具人身份终于揭秘",
+        "onboard_time": 1748834779,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346471,
+        "num": 346471,
+        "word": "白鹿callback于正",
+        "onboard_time": 1748847800,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302991,
+        "num": 302991,
+        "word": "蒋雨融发文回应争议",
+        "onboard_time": 1748845342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224624,
+        "num": 224624,
+        "word": "杨毅祝贺王楚钦世乒赛双冠",
+        "onboard_time": 1748845161,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55518,
+        "num": 223773,
+        "word": "俄媒称乌克兰仅可能摧毁3架飞机",
+        "onboard_time": 1748842102,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 930009,
+        "num": 214938,
+        "word": "杨幂私下超爱给谢依霖晒小糯米",
+        "onboard_time": 1748843300,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349668,
+        "num": 208881,
+        "word": "宝妈7个月瘦了43斤撞脸李若彤",
+        "onboard_time": 1748848759,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349618,
+        "num": 203401,
+        "word": "章子怡晒女儿儿子",
+        "onboard_time": 1748840781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321205,
+        "num": 199501,
+        "word": "贾冰减肥成功瘦到脱相",
+        "onboard_time": 1748827459,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169536,
+        "num": 191522,
+        "word": "患者花7万买的抗癌药是临床试验药",
+        "onboard_time": 1748846000,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 190429,
+        "num": 190429,
+        "word": "吃辣能力会退化",
+        "onboard_time": 1748835740,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169287,
+        "num": 169287,
+        "word": "曹公公培养孩子真有一手",
+        "onboard_time": 1748847920,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143780,
+        "num": 168066,
+        "word": "第三人是内阁首辅石一平",
+        "onboard_time": 1748842042,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36784,
+        "num": 167236,
+        "word": "为什么上网一查总觉得自己得了大病",
+        "onboard_time": 1748848759,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15673,
+        "num": 165521,
+        "word": "如何增强膝关节的稳定性",
+        "onboard_time": 1748849120,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 345502,
+        "num": 164963,
+        "word": "姜贞羽短剧",
+        "onboard_time": 1748849059,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320304,
+        "num": 163916,
+        "word": "8岁女孩被患癌女司机撞成重伤进ICU",
+        "onboard_time": 1748848759,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228280,
+        "num": 162191,
+        "word": "杜华晒章子怡佟丽娅陈好合照",
+        "onboard_time": 1748845820,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185197,
+        "num": 161011,
+        "word": "女童回家被陌生男子拖进小巷",
+        "onboard_time": 1748849839,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159999,
+        "num": 159999,
+        "word": "乌总统称亲自筹划蛛网行动一年半",
+        "onboard_time": 1748846541,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137026,
+        "num": 137026,
+        "word": "宁艺卓将出席VOGUE盛典",
+        "onboard_time": 1748846481,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127672,
+        "num": 127672,
+        "word": "蔡徐坤洛杉矶音乐节舞台",
+        "onboard_time": 1748840960,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122603,
+        "num": 122603,
+        "word": "李荣浩疑似被粉丝做局",
+        "onboard_time": 1748849540,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114364,
+        "num": 122594,
+        "word": "乌方袭击俄机场画面曝光",
+        "onboard_time": 1748834061,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18529,
+        "num": 122575,
+        "word": "落水后如何自救",
+        "onboard_time": 1748849720,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 19519,
+        "num": 122559,
+        "word": "波尔结束生涯欧冠最后一战",
+        "onboard_time": 1748844020,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246898,
+        "num": 122544,
+        "word": "贴身内衣藏臭屁虫卵人裂开了",
+        "onboard_time": 1748848701,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122541,
+        "num": 122541,
+        "word": "第一届学生是白月光",
+        "onboard_time": 1748848400,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14679,
+        "num": 119125,
+        "word": "求学时综合和专业排名哪个重要",
+        "onboard_time": 1748848281,
+        "rank": 33,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 119087,
+        "num": 119087,
+        "word": "张家界一溶洞垃圾堆至7层楼高",
+        "onboard_time": 1748841801,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118943,
+        "num": 118943,
+        "word": "张启山你的兵回来了",
+        "onboard_time": 1748845762,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117894,
+        "num": 117894,
+        "word": "老人山中走失6天吃樱桃获救",
+        "onboard_time": 1748835439,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116446,
+        "num": 116446,
+        "word": "金价",
+        "onboard_time": 1748839880,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116049,
+        "num": 116049,
+        "word": "陈伟霆军装一穿佛爷味就来了",
+        "onboard_time": 1748848581,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116036,
+        "num": 116036,
+        "word": "张婧仪无法出戏",
+        "onboard_time": 1748838741,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110047,
+        "num": 110047,
+        "word": "镜FMVP星传说皮肤",
+        "onboard_time": 1748842521,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28004,
+        "num": 108519,
+        "word": "牺牲民警的女儿已成为法医24年",
+        "onboard_time": 1748850019,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108120,
+        "num": 108120,
+        "word": "上海警方通报迪士尼打架事件",
+        "onboard_time": 1748787802,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 105882,
+        "num": 105882,
+        "word": "国足25人出征雅加达",
+        "onboard_time": 1748849780,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73955,
+        "num": 103289,
+        "word": "贾静雯自曝三位亲人患癌",
+        "onboard_time": 1748843481,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103010,
+        "num": 103010,
+        "word": "陆虎希望你永远都有做孩子的勇气",
+        "onboard_time": 1748849419,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102659,
+        "num": 102659,
+        "word": "为什么逛街什么都没买",
+        "onboard_time": 1748849239,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96646,
+        "num": 96646,
+        "word": "交警回应豪车车主赖停车费被举报酒驾",
+        "onboard_time": 1748848460,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93952,
+        "num": 93952,
+        "word": "霉霉和赛琳娜聚餐",
+        "onboard_time": 1748838621,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92794,
+        "num": 92794,
+        "word": "71岁奶奶撸铁4年线条吊打小年轻",
+        "onboard_time": 1748846781,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的自信之基力量之源#"
+    }
+  }
+}
