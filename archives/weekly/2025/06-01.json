@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748829899374,
+  "endTime": 1748831345625,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1535331,
-      "num": 214856,
+      "num": 248438,
       "word": "贾冰减肥成功瘦到脱相",
       "onboard_time": 1748827459,
       "rank": 10,
@@ -164,11 +164,19 @@
     },
     {
       "raw_hot": 933531,
-      "num": 213716,
+      "num": 240312,
       "word": "苏州一医院误将腹超做成阴超",
       "onboard_time": 1748819897,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 932352,
+      "num": 1149176,
+      "word": "临江仙定档",
+      "onboard_time": 1748829679,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 834773,
@@ -185,6 +193,14 @@
       "onboard_time": 1748747781,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 801874,
+      "num": 1122693,
+      "word": "花两千买苹果15被说一眼假",
+      "onboard_time": 1748824999,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 786695,
@@ -208,14 +224,6 @@
       "word": "杭州一凶宅竞拍14轮后七五折成交",
       "onboard_time": 1748740340,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 766835,
-      "num": 1122693,
-      "word": "花两千买苹果15被说一眼假",
-      "onboard_time": 1748824999,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -425,6 +433,14 @@
       "onboard_time": 1748755761,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 485567,
+      "num": 302535,
+      "word": "柳岩因卡鱼刺进了医院",
+      "onboard_time": 1748829081,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 480224,
@@ -739,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312593,
+      "num": 312593,
+      "word": "小莫说樊振东球打得好人更好",
+      "onboard_time": 1748828360,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309439,
       "num": 235178,
       "word": "小沈阳演出女儿登台唱跳遭吐槽",
@@ -964,7 +988,7 @@
     },
     {
       "raw_hot": 258738,
-      "num": 213619,
+      "num": 229941,
       "word": "折腰 戒断反应",
       "onboard_time": 1748825240,
       "rank": 14,
@@ -979,20 +1003,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255559,
+      "num": 255559,
+      "word": "特朗普再催哈佛交出国际学生名单",
+      "onboard_time": 1748820017,
+      "rank": 29,
+      "category": "国际时政,教育"
+    },
+    {
       "raw_hot": 254424,
       "num": 254424,
       "word": "火车上手机被错拿不肯下车索赔2000",
       "onboard_time": 1748703140,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252147,
-      "num": 252147,
-      "word": "特朗普再催哈佛交出国际学生名单",
-      "onboard_time": 1748820017,
-      "rank": 29,
-      "category": "国际时政,教育"
     },
     {
       "raw_hot": 252129,
@@ -1012,7 +1036,7 @@
     },
     {
       "raw_hot": 250089,
-      "num": 213253,
+      "num": 229789,
       "word": "杨天真为什么去留学",
       "onboard_time": 1748827459,
       "rank": 15,
@@ -1067,6 +1091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 237799,
+      "num": 237799,
+      "word": "百岁老人过寿七旬老人捡烟花被崩伤",
+      "onboard_time": 1748824999,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237515,
       "num": 237515,
       "word": "网传赵丽颖将客串九门",
@@ -1075,27 +1107,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233184,
-      "num": 213091,
-      "word": "柳岩因卡鱼刺进了医院",
-      "onboard_time": 1748829081,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
       "onboard_time": 1748733918,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 231480,
-      "num": 212605,
-      "word": "小莫说樊振东球打得好人更好",
-      "onboard_time": 1748828360,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -1291,14 +1307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198913,
-      "num": 214877,
-      "word": "百岁老人过寿七旬老人捡烟花被崩伤",
-      "onboard_time": 1748824999,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198864,
       "num": 145872,
       "word": "梨形身材是基因彩票",
@@ -1491,6 +1499,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183737,
+      "num": 183737,
+      "word": "王一博点赞车队队友IG",
+      "onboard_time": 1748830339,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183548,
       "num": 183548,
       "word": "孙颖莎全红婵们等比例长大",
@@ -1603,6 +1619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175500,
+      "num": 175500,
+      "word": "赵樱子自曝患抑郁症",
+      "onboard_time": 1748828959,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174047,
       "num": 159440,
       "word": "王楚钦赵心童成就顶峰相见佳话",
@@ -1689,14 +1713,6 @@
       "onboard_time": 1748722453,
       "rank": 45,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 166497,
-      "num": 166497,
-      "word": "临江仙定档",
-      "onboard_time": 1748829679,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 165440,
@@ -1843,6 +1859,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 154223,
+      "num": 154223,
+      "word": "内马尔复刻上帝之手失败",
+      "onboard_time": 1748830101,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153886,
       "num": 153886,
       "word": "藏海庄之行假意中掺杂一丝真心",
@@ -1939,12 +1963,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146443,
-      "num": 146443,
-      "word": "赵樱子自曝患抑郁症",
-      "onboard_time": 1748828959,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 147897,
+      "num": 253796,
+      "word": "外籍志愿者在华强北帮外国游客砍价",
+      "onboard_time": 1748827459,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146396,
@@ -2089,6 +2113,14 @@
       "onboard_time": 1748748020,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 137883,
+      "num": 154100,
+      "word": "小莫连用三个really回应樊振东加盟",
+      "onboard_time": 1748830580,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 137734,
@@ -2363,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124911,
+      "num": 124911,
+      "word": "户外圈也是让内娱闯进去了",
+      "onboard_time": 1748829620,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124503,
       "num": 124503,
       "word": "时全此刻比鬼还吓人",
@@ -2417,6 +2457,14 @@
       "onboard_time": 1748746881,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120373,
+      "num": 120373,
+      "word": "藏海与师父高明倚门对视",
+      "onboard_time": 1748829620,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 120160,
@@ -2555,14 +2603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114196,
-      "num": 114196,
-      "word": "外籍志愿者在华强北帮外国游客砍价",
-      "onboard_time": 1748827459,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113897,
       "num": 113897,
       "word": "10后女儿用压岁钱带妈妈过儿童节",
@@ -2585,6 +2625,14 @@
       "onboard_time": 1748786481,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112204,
+      "num": 112204,
+      "word": "任嘉伦蓝灰挑染",
+      "onboard_time": 1748830759,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 112182,
@@ -2907,14 +2955,6 @@
       "category": "国际时政,国内时政"
     },
     {
-      "raw_hot": 100807,
-      "num": 100807,
-      "word": "户外圈也是让内娱闯进去了",
-      "onboard_time": 1748829620,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100739,
       "num": 100739,
       "word": "打工人看演唱会反差有多大",
@@ -2937,6 +2977,14 @@
       "onboard_time": 1748779581,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99867,
+      "num": 99867,
+      "word": "俄乌第二轮直接谈判今天举行",
+      "onboard_time": 1748828360,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99805,
@@ -3131,14 +3179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93141,
-      "num": 93141,
-      "word": "俄乌第二轮直接谈判今天举行",
-      "onboard_time": 1748828360,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 92483,
       "num": 92483,
       "word": "时间之子",
@@ -3187,20 +3227,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90793,
-      "num": 90793,
-      "word": "藏海与师父高明倚门对视",
-      "onboard_time": 1748829620,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90565,
       "num": 165463,
       "word": "买房就等于一次性租70年房子吗",
       "onboard_time": 1748749881,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 89960,
+      "num": 89960,
+      "word": "周深回应发型",
+      "onboard_time": 1748826439,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 89746,
+      "num": 89746,
+      "word": "于正晒墨雨云间开播一周年海报",
+      "onboard_time": 1748831060,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 89675,
@@ -3235,6 +3283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89060,
+      "num": 89060,
+      "word": "王安宇金发九宫格",
+      "onboard_time": 1748830220,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88862,
       "num": 88862,
       "word": "杨博文cover思念",
@@ -3243,12 +3299,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 87896,
-      "num": 87896,
-      "word": "周深回应发型",
-      "onboard_time": 1748826439,
+      "raw_hot": 87836,
+      "num": 87836,
+      "word": "藏海最倒霉的一集",
+      "onboard_time": 1748830038,
       "rank": 39,
-      "category": "演出"
+      "category": "剧集"
     },
     {
       "raw_hot": 87809,
@@ -3313,6 +3369,14 @@
       "onboard_time": 1748774601,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86046,
+      "num": 86046,
+      "word": "这家充满烟火气的幼儿园火到国外",
+      "onboard_time": 1748830820,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 85761,
@@ -3425,6 +3489,14 @@
       "onboard_time": 1748735298,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79655,
+      "num": 79655,
+      "word": "平台客服回应买到假iPhone",
+      "onboard_time": 1748831119,
+      "rank": 44,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 79232,

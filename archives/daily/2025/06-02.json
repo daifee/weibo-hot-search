@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748829899374,
+  "endTime": 1748831345625,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1535331,
-      "num": 214856,
+      "num": 248438,
       "word": "贾冰减肥成功瘦到脱相",
       "onboard_time": 1748827459,
       "rank": 10,
@@ -20,14 +20,22 @@
     },
     {
       "raw_hot": 933531,
-      "num": 213716,
+      "num": 240312,
       "word": "苏州一医院误将腹超做成阴超",
       "onboard_time": 1748819897,
       "rank": 10,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 766835,
+      "raw_hot": 932352,
+      "num": 1149176,
+      "word": "临江仙定档",
+      "onboard_time": 1748829679,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 801874,
       "num": 1122693,
       "word": "花两千买苹果15被说一眼假",
       "onboard_time": 1748824999,
@@ -57,6 +65,14 @@
       "onboard_time": 1748819897,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 485567,
+      "num": 302535,
+      "word": "柳岩因卡鱼刺进了医院",
+      "onboard_time": 1748829081,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 457968,
@@ -115,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312593,
+      "num": 312593,
+      "word": "小莫说樊振东球打得好人更好",
+      "onboard_time": 1748828360,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301224,
       "num": 207282,
       "word": "王安宇壁纸",
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 258738,
-      "num": 213619,
+      "num": 229941,
       "word": "折腰 戒断反应",
       "onboard_time": 1748825240,
       "rank": 14,
@@ -179,8 +203,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252147,
-      "num": 252147,
+      "raw_hot": 255559,
+      "num": 255559,
       "word": "特朗普再催哈佛交出国际学生名单",
       "onboard_time": 1748820017,
       "rank": 29,
@@ -196,11 +220,19 @@
     },
     {
       "raw_hot": 250089,
-      "num": 213253,
+      "num": 229789,
       "word": "杨天真为什么去留学",
       "onboard_time": 1748827459,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237799,
+      "num": 237799,
+      "word": "百岁老人过寿七旬老人捡烟花被崩伤",
+      "onboard_time": 1748824999,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237515,
@@ -217,22 +249,6 @@
       "onboard_time": 1748786781,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233184,
-      "num": 213091,
-      "word": "柳岩因卡鱼刺进了医院",
-      "onboard_time": 1748829081,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 231480,
-      "num": 212605,
-      "word": "小莫说樊振东球打得好人更好",
-      "onboard_time": 1748828360,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 223482,
@@ -291,20 +307,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 198913,
-      "num": 214877,
-      "word": "百岁老人过寿七旬老人捡烟花被崩伤",
-      "onboard_time": 1748824999,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196645,
       "num": 212383,
       "word": "藏海被庄之行骗了",
       "onboard_time": 1748819957,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183737,
+      "num": 183737,
+      "word": "王一博点赞车队队友IG",
+      "onboard_time": 1748830339,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 179720,
@@ -315,12 +331,12 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 166497,
-      "num": 166497,
-      "word": "临江仙定档",
-      "onboard_time": 1748829679,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 175500,
+      "num": 175500,
+      "word": "赵樱子自曝患抑郁症",
+      "onboard_time": 1748828959,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 165549,
@@ -339,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154223,
+      "num": 154223,
+      "word": "内马尔复刻上帝之手失败",
+      "onboard_time": 1748830101,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153736,
       "num": 153736,
       "word": "商务部回应美方称中方违反中美日内瓦经贸会谈共识",
@@ -355,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146443,
-      "num": 146443,
-      "word": "赵樱子自曝患抑郁症",
-      "onboard_time": 1748828959,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 147897,
+      "num": 253796,
+      "word": "外籍志愿者在华强北帮外国游客砍价",
+      "onboard_time": 1748827459,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145860,
@@ -379,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137883,
+      "num": 154100,
+      "word": "小莫连用三个really回应樊振东加盟",
+      "onboard_time": 1748830580,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134211,
       "num": 134211,
       "word": "李东健承认与姜海琳恋情",
@@ -393,6 +425,22 @@
       "onboard_time": 1748780361,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124911,
+      "num": 124911,
+      "word": "户外圈也是让内娱闯进去了",
+      "onboard_time": 1748829620,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120373,
+      "num": 120373,
+      "word": "藏海与师父高明倚门对视",
+      "onboard_time": 1748829620,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 116934,
@@ -411,12 +459,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 114196,
-      "num": 114196,
-      "word": "外籍志愿者在华强北帮外国游客砍价",
-      "onboard_time": 1748827459,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 112204,
+      "num": 112204,
+      "word": "任嘉伦蓝灰挑染",
+      "onboard_time": 1748830759,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 111076,
@@ -451,20 +499,20 @@
       "category": "国际时政,国内时政"
     },
     {
-      "raw_hot": 100807,
-      "num": 100807,
-      "word": "户外圈也是让内娱闯进去了",
-      "onboard_time": 1748829620,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100739,
       "num": 100739,
       "word": "打工人看演唱会反差有多大",
       "onboard_time": 1748827699,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99867,
+      "num": 99867,
+      "word": "俄乌第二轮直接谈判今天举行",
+      "onboard_time": 1748828360,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99684,
@@ -499,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93141,
-      "num": 93141,
-      "word": "俄乌第二轮直接谈判今天举行",
-      "onboard_time": 1748828360,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 91760,
       "num": 91760,
       "word": "樊振东跟首冠地萨尔布吕肯再续前缘",
@@ -531,12 +571,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 90793,
-      "num": 90793,
-      "word": "藏海与师父高明倚门对视",
-      "onboard_time": 1748829620,
-      "rank": 38,
+      "raw_hot": 89960,
+      "num": 89960,
+      "word": "周深回应发型",
+      "onboard_time": 1748826439,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 89746,
+      "num": 89746,
+      "word": "于正晒墨雨云间开播一周年海报",
+      "onboard_time": 1748831060,
+      "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89060,
+      "num": 89060,
+      "word": "王安宇金发九宫格",
+      "onboard_time": 1748830220,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 87949,
@@ -547,12 +603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87896,
-      "num": 87896,
-      "word": "周深回应发型",
-      "onboard_time": 1748826439,
+      "raw_hot": 87836,
+      "num": 87836,
+      "word": "藏海最倒霉的一集",
+      "onboard_time": 1748830038,
       "rank": 39,
-      "category": "演出"
+      "category": "剧集"
     },
     {
       "raw_hot": 87376,
@@ -571,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86046,
+      "num": 86046,
+      "word": "这家充满烟火气的幼儿园火到国外",
+      "onboard_time": 1748830820,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 85761,
       "num": 85761,
       "word": "张杰给斗斗做了好多表情包",
@@ -585,6 +649,14 @@
       "onboard_time": 1748787501,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 79655,
+      "num": 79655,
+      "word": "平台客服回应买到假iPhone",
+      "onboard_time": 1748831119,
+      "rank": 44,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 78757,
@@ -836,7 +908,7 @@
     },
     {
       "raw_hot": 27818,
-      "num": 510750,
+      "num": 632573,
       "word": "非遗与童趣撞个满怀",
       "onboard_time": 1748787742,
       "rank": 2,
