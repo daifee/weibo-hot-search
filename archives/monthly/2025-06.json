@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748900477625,
+  "endTime": 1748903119948,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -7091,6 +7091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31067,
+      "num": 33638,
+      "word": "高明打藏海",
+      "onboard_time": 1748891894,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30788,
       "num": 305091,
       "word": "碳板鞋演变为中小学生装备竞赛",
@@ -7179,6 +7187,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 28316,
+      "num": 48936,
+      "word": "乌方正准备新的战俘交换",
+      "onboard_time": 1748883377,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28004,
       "num": 108519,
       "word": "牺牲民警的女儿已成为法医24年",
@@ -7227,14 +7243,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 27279,
-      "num": 48936,
-      "word": "乌方正准备新的战俘交换",
-      "onboard_time": 1748883377,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27204,
       "num": 294458,
       "word": "梨型身材比其他身材更长寿吗",
@@ -7281,6 +7289,14 @@
       "onboard_time": 1748873001,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25691,
+      "num": 28945,
+      "word": "三位歌手同日上海开唱",
+      "onboard_time": 1748896033,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 25498,
@@ -7443,20 +7459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21431,
-      "num": 25655,
-      "word": "高明打藏海",
-      "onboard_time": 1748891894,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 21234,
       "num": 26171,
       "word": "鞠婧祎时尚COSMO24h战报",
       "onboard_time": 1748803035,
       "rank": 48,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 20835,
+      "num": 25193,
+      "word": "藏海传登顶海外23国全面最畅销电视剧",
+      "onboard_time": 1748887755,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 20188,
@@ -7491,6 +7507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19553,
+      "num": 25190,
+      "word": "用0秒接受曾舜晞演吴老狗",
+      "onboard_time": 1748896754,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19519,
       "num": 175378,
       "word": "波尔结束生涯欧冠最后一战",
@@ -7499,19 +7523,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19266,
-      "num": 22213,
-      "word": "三位歌手同日上海开唱",
-      "onboard_time": 1748896033,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 19024,
       "num": 192785,
       "word": "今年端午最佳",
       "onboard_time": 1748756302,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18917,
+      "num": 25184,
+      "word": "端午假期预计6.57亿人次跨区域流动",
+      "onboard_time": 1748897653,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -7539,6 +7563,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 18243,
+      "num": 25180,
+      "word": "白鹿抬剧速度",
+      "onboard_time": 1748894233,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17940,
       "num": 63284,
       "word": "起猛了看到广州CBD堵船了",
@@ -7553,14 +7585,6 @@
       "onboard_time": 1748890094,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17348,
-      "num": 22143,
-      "word": "藏海传登顶海外23国全面最畅销电视剧",
-      "onboard_time": 1748887755,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 17222,
@@ -7593,14 +7617,6 @@
       "onboard_time": 1748860521,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15972,
-      "num": 22073,
-      "word": "白鹿抬剧速度",
-      "onboard_time": 1748894233,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 15954,
@@ -7688,14 +7704,6 @@
       "word": "父母表演高空杂技6岁儿子雨中守护",
       "onboard_time": 1748856621,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14022,
-      "num": 14604,
-      "word": "端午假期预计6.57亿人次跨区域流动",
-      "onboard_time": 1748897653,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
