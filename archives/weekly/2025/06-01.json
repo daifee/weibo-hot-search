@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748863412415,
+  "endTime": 1748864318701,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -27,8 +27,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 1881594,
-      "num": 300668,
+      "raw_hot": 1891939,
+      "num": 377587,
       "word": "迪丽热巴撕拉片",
       "onboard_time": 1748861061,
       "rank": 27,
@@ -107,6 +107,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1359068,
+      "num": 1359068,
+      "word": "尾号0000000手机号拍出61.2万",
+      "onboard_time": 1748859080,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1357333,
       "num": 1357333,
       "word": "郑钦文vs萨姆索诺娃",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 1255686,
-      "num": 280672,
+      "num": 321874,
       "word": "杨幂私下超爱给谢依霖晒小糯米",
       "onboard_time": 1748843300,
       "rank": 10,
@@ -193,14 +201,6 @@
       "onboard_time": 1748860639,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1081520,
-      "num": 1081520,
-      "word": "尾号0000000手机号拍出61.2万",
-      "onboard_time": 1748859080,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1024126,
@@ -257,6 +257,14 @@
       "onboard_time": 1748829679,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 878438,
+      "num": 878438,
+      "word": "许其亮同志逝世",
+      "onboard_time": 1748863520,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 863332,
@@ -347,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 749200,
+      "num": 377569,
+      "word": "女童回家被陌生男子拖进小巷",
+      "onboard_time": 1748849839,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 745777,
       "num": 745777,
       "word": "周深让你穿雨衣没让你穿这款",
@@ -369,14 +385,6 @@
       "onboard_time": 1748786121,
       "rank": 3,
       "category": "国际时政,军事"
-    },
-    {
-      "raw_hot": 715357,
-      "num": 286764,
-      "word": "女童回家被陌生男子拖进小巷",
-      "onboard_time": 1748849839,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 698578,
@@ -603,6 +611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 501246,
+      "num": 501246,
+      "word": "TES对战BLG",
+      "onboard_time": 1748859080,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 501166,
       "num": 501166,
       "word": "孙颖莎杂志",
@@ -739,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 427399,
+      "num": 427399,
+      "word": "女子立遗嘱为4只宠物狗预留十多万",
+      "onboard_time": 1748860040,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426740,
       "num": 326565,
       "word": "樊振东留洋不是说再见是新的开始",
@@ -819,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393897,
+      "num": 393897,
+      "word": "第三人",
+      "onboard_time": 1748861840,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393352,
       "num": 298809,
       "word": "白鹿90花cvb收视率断层登顶",
@@ -873,6 +905,14 @@
       "onboard_time": 1748781861,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 375306,
+      "num": 375306,
+      "word": "撕拉片",
+      "onboard_time": 1748862201,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 374632,
@@ -1051,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 326641,
-      "num": 326641,
-      "word": "女子立遗嘱为4只宠物狗预留十多万",
-      "onboard_time": 1748860040,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 322423,
       "num": 228218,
       "word": "龙族更新",
@@ -1139,6 +1171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312414,
+      "num": 312414,
+      "word": "张家界溶洞垃圾已清运2.7吨",
+      "onboard_time": 1748858900,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311780,
+      "num": 230418,
+      "word": "维生素B竟然能缓解这么多小毛病",
+      "onboard_time": 1748854221,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 309439,
       "num": 235178,
       "word": "小沈阳演出女儿登台唱跳遭吐槽",
@@ -1153,14 +1201,6 @@
       "onboard_time": 1748740400,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 307464,
-      "num": 230418,
-      "word": "维生素B竟然能缓解这么多小毛病",
-      "onboard_time": 1748854221,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 307238,
@@ -1435,11 +1475,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260492,
-      "num": 260492,
-      "word": "撕拉片",
-      "onboard_time": 1748862201,
-      "rank": 14,
+      "raw_hot": 260910,
+      "num": 260910,
+      "word": "刘亦菲阿布扎比9宫格",
+      "onboard_time": 1748859319,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1448,14 +1488,6 @@
       "word": "藏海找到癸玺了",
       "onboard_time": 1748756900,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 259371,
-      "num": 259371,
-      "word": "第三人",
-      "onboard_time": 1748861840,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -1523,14 +1555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248498,
-      "num": 248498,
-      "word": "刘亦菲阿布扎比9宫格",
-      "onboard_time": 1748859319,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248021,
       "num": 228201,
       "word": "恋与深空",
@@ -1579,14 +1603,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 240122,
-      "num": 240122,
-      "word": "张家界溶洞垃圾已清运2.7吨",
-      "onboard_time": 1748858900,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238044,
       "num": 238044,
       "word": "藏海传灯塔分时破千万",
@@ -1617,14 +1633,6 @@
       "onboard_time": 1748843481,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232941,
-      "num": 232941,
-      "word": "TES对战BLG",
-      "onboard_time": 1748859080,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 232346,
@@ -1939,12 +1947,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 197844,
+      "num": 378337,
+      "word": "西藏丁青县山体滑坡3死7失联",
+      "onboard_time": 1748862260,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196645,
       "num": 212383,
       "word": "藏海被庄之行骗了",
       "onboard_time": 1748819957,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196620,
+      "num": 196620,
+      "word": "毕业歌会",
+      "onboard_time": 1748863461,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 196610,
@@ -1993,6 +2017,14 @@
       "onboard_time": 1748835439,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193596,
+      "num": 193596,
+      "word": "鞠婧祎撕拉片",
+      "onboard_time": 1748864061,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 193282,
@@ -2299,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177314,
+      "num": 177314,
+      "word": "陷入我们的热恋15",
+      "onboard_time": 1748862439,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176421,
       "num": 176421,
       "word": "宋威龙笑脸baby冷脸daddy",
@@ -2401,6 +2441,14 @@
       "onboard_time": 1748748861,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170726,
+      "num": 170726,
+      "word": "美国企业想买中国制造也得排队了",
+      "onboard_time": 1748861360,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170724,
@@ -2507,14 +2555,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 164207,
-      "num": 310437,
-      "word": "西藏丁青县山体滑坡3死7失联",
-      "onboard_time": 1748862260,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163841,
       "num": 163841,
       "word": "董璇为女儿小酒窝庆祝9岁生日",
@@ -2537,6 +2577,14 @@
       "onboard_time": 1748698703,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162637,
+      "num": 162637,
+      "word": "普京底线被乌克兰撕开",
+      "onboard_time": 1748864180,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162083,
@@ -2819,14 +2867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148881,
-      "num": 148881,
-      "word": "美国企业想买中国制造也得排队了",
-      "onboard_time": 1748861360,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 148603,
       "num": 148603,
       "word": "陈雨菲22连胜",
@@ -2849,6 +2889,14 @@
       "onboard_time": 1748839519,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147829,
+      "num": 147829,
+      "word": "中国女老板再次拒绝美国PUA",
+      "onboard_time": 1748860941,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 146396,
@@ -2913,14 +2961,6 @@
       "onboard_time": 1748780060,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144053,
-      "num": 144053,
-      "word": "中国女老板再次拒绝美国PUA",
-      "onboard_time": 1748860941,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 144010,
@@ -3243,6 +3283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132354,
+      "num": 162684,
+      "word": "难怪曹公公动不动就办家宴",
+      "onboard_time": 1748860881,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132230,
       "num": 132230,
       "word": "吴宣仪音乐节大屏",
@@ -3347,6 +3395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128336,
+      "num": 128336,
+      "word": "河北秦皇岛2.5级地震",
+      "onboard_time": 1748863641,
+      "rank": 36,
+      "category": "民生新闻,民生新闻"
+    },
+    {
       "raw_hot": 128147,
       "num": 204004,
       "word": "关之琳62岁状态",
@@ -3393,14 +3449,6 @@
       "onboard_time": 1748756181,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 125805,
-      "num": 166546,
-      "word": "陷入我们的热恋15",
-      "onboard_time": 1748862439,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 125407,
@@ -3547,6 +3595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121340,
+      "num": 121340,
+      "word": "6月1日至25日开展入户调查工作",
+      "onboard_time": 1748863101,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121015,
       "num": 121015,
       "word": "饶雪漫给柯淳发青春戏片约",
@@ -3689,14 +3745,6 @@
       "onboard_time": 1748766141,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117165,
-      "num": 117165,
-      "word": "6月1日至25日开展入户调查工作",
-      "onboard_time": 1748863101,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 116934,
@@ -3995,6 +4043,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 108919,
+      "num": 108919,
+      "word": "梁靖康摆摊有的是力气和手段",
+      "onboard_time": 1748863881,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108393,
       "num": 108393,
       "word": "魏晨玫瑰音乐节",
@@ -4059,20 +4115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106879,
+      "num": 106879,
+      "word": "江苏十三太保把足球踢出圈",
+      "onboard_time": 1748861420,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106827,
       "num": 106827,
       "word": "解锁床上玩手机正确姿势",
       "onboard_time": 1748724435,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 106772,
-      "num": 106772,
-      "word": "难怪曹公公动不动就办家宴",
-      "onboard_time": 1748860881,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 106461,
@@ -4089,6 +4145,14 @@
       "onboard_time": 1748745320,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 106277,
+      "num": 106277,
+      "word": "热恋15集把我哄好了",
+      "onboard_time": 1748864180,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 106220,
@@ -4217,6 +4281,22 @@
       "onboard_time": 1748767400,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103758,
+      "num": 103758,
+      "word": "1万多年前古人给石头做美容",
+      "onboard_time": 1748863461,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103613,
+      "num": 103613,
+      "word": "学员匿名举报教练骚扰后怀疑店长泄密",
+      "onboard_time": 1748862920,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103474,
@@ -4427,6 +4507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99410,
+      "num": 99410,
+      "word": "B族维生素有哪些功能",
+      "onboard_time": 1748863821,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99096,
       "num": 99096,
       "word": "高芙vs亚历山德洛娃",
@@ -4529,14 +4617,6 @@
       "onboard_time": 1748765360,
       "rank": 17,
       "category": "体育,汽车"
-    },
-    {
-      "raw_hot": 96946,
-      "num": 96946,
-      "word": "江苏十三太保把足球踢出圈",
-      "onboard_time": 1748861420,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 96908,
@@ -5099,14 +5179,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 82312,
-      "num": 82312,
-      "word": "学员匿名举报教练骚扰后怀疑店长泄密",
-      "onboard_time": 1748862920,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81571,
       "num": 148704,
       "word": "天猫蛋仔梦幻联动",
@@ -5476,7 +5548,7 @@
     },
     {
       "raw_hot": 67274,
-      "num": 117401,
+      "num": 206327,
       "word": "指甲上的竖纹是正常的吗",
       "onboard_time": 1748863280,
       "rank": 36,
@@ -5497,6 +5569,14 @@
       "onboard_time": 1748704042,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 64992,
+      "num": 189090,
+      "word": "假期找不到旅游搭子的中年人",
+      "onboard_time": 1748862439,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64383,
@@ -5779,14 +5859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50297,
-      "num": 189090,
-      "word": "假期找不到旅游搭子的中年人",
-      "onboard_time": 1748862439,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49930,
       "num": 148947,
       "word": "为什么旅行都开始租无人机了",
@@ -6019,6 +6091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 40245,
+      "num": 1177983,
+      "word": "全国多地开启返程模式",
+      "onboard_time": 1748859621,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39830,
       "num": 109971,
       "word": "酒精在人体内消化吸收的过程",
@@ -6105,14 +6185,6 @@
       "onboard_time": 1748797098,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 36001,
-      "num": 1108506,
-      "word": "全国多地开启返程模式",
-      "onboard_time": 1748859621,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33681,

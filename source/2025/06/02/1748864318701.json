@@ -1,0 +1,410 @@
+{
+  "runTime": 1748864318701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1532269,
+        "num": 1532269,
+        "word": "何秋亊方向汪苏泷道歉",
+        "onboard_time": 1748859800,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1359068,
+        "num": 1359068,
+        "word": "尾号0000000手机号拍出61.2万",
+        "onboard_time": 1748859080,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40245,
+        "num": 1177983,
+        "word": "全国多地开启返程模式",
+        "onboard_time": 1748859621,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1058912,
+        "num": 1058912,
+        "word": "面具人真是赵秉文",
+        "onboard_time": 1748860639,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 965425,
+        "num": 965425,
+        "word": "夏天这种凉鞋易致孩子性早熟还有毒",
+        "onboard_time": 1748857701,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 878438,
+        "num": 878438,
+        "word": "许其亮同志逝世",
+        "onboard_time": 1748863520,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 501246,
+        "num": 501246,
+        "word": "TES对战BLG",
+        "onboard_time": 1748859080,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 427399,
+        "num": 427399,
+        "word": "女子立遗嘱为4只宠物狗预留十多万",
+        "onboard_time": 1748860040,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393897,
+        "num": 393897,
+        "word": "第三人",
+        "onboard_time": 1748861840,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197844,
+        "num": 378337,
+        "word": "西藏丁青县山体滑坡3死7失联",
+        "onboard_time": 1748862260,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1891939,
+        "num": 377587,
+        "word": "迪丽热巴撕拉片",
+        "onboard_time": 1748861061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 749200,
+        "num": 377569,
+        "word": "女童回家被陌生男子拖进小巷",
+        "onboard_time": 1748849839,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375306,
+        "num": 375306,
+        "word": "撕拉片",
+        "onboard_time": 1748862201,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332077,
+        "num": 332077,
+        "word": "张远因为状态太好而无效变装",
+        "onboard_time": 1748858061,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321874,
+        "num": 321874,
+        "word": "杨幂私下超爱给谢依霖晒小糯米",
+        "onboard_time": 1748843300,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312414,
+        "num": 312414,
+        "word": "张家界溶洞垃圾已清运2.7吨",
+        "onboard_time": 1748858900,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260910,
+        "num": 260910,
+        "word": "刘亦菲阿布扎比9宫格",
+        "onboard_time": 1748859319,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235852,
+        "num": 235852,
+        "word": "官方通报幼童掉入高铁站台股道",
+        "onboard_time": 1748856860,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220538,
+        "num": 220538,
+        "word": "电视剧四十七",
+        "onboard_time": 1748859379,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51160,
+        "num": 206327,
+        "word": "指甲上的竖纹是正常的吗",
+        "onboard_time": 1748863280,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 311780,
+        "num": 206015,
+        "word": "维生素B竟然能缓解这么多小毛病",
+        "onboard_time": 1748854221,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196620,
+        "num": 196620,
+        "word": "毕业歌会",
+        "onboard_time": 1748863461,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193596,
+        "num": 193596,
+        "word": "鞠婧祎撕拉片",
+        "onboard_time": 1748864061,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192964,
+        "num": 192964,
+        "word": "张凌赫胶片",
+        "onboard_time": 1748858239,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177314,
+        "num": 177314,
+        "word": "陷入我们的热恋15",
+        "onboard_time": 1748862439,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172152,
+        "num": 172152,
+        "word": "贴身内衣藏臭屁虫卵人裂开了",
+        "onboard_time": 1748848701,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170726,
+        "num": 170726,
+        "word": "美国企业想买中国制造也得排队了",
+        "onboard_time": 1748861360,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165173,
+        "num": 165173,
+        "word": "宝妈7个月瘦了43斤撞脸李若彤",
+        "onboard_time": 1748848759,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64992,
+        "num": 162972,
+        "word": "假期找不到旅游搭子的中年人",
+        "onboard_time": 1748862439,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132354,
+        "num": 162684,
+        "word": "难怪曹公公动不动就办家宴",
+        "onboard_time": 1748860881,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162637,
+        "num": 162637,
+        "word": "普京底线被乌克兰撕开",
+        "onboard_time": 1748864180,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150582,
+        "num": 150582,
+        "word": "因闹矛盾1人扔烧烤签扎进同事脖子",
+        "onboard_time": 1748855660,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147829,
+        "num": 147829,
+        "word": "中国女老板再次拒绝美国PUA",
+        "onboard_time": 1748860941,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121786,
+        "num": 136724,
+        "word": "华晨宇这是我380就能看到的吗",
+        "onboard_time": 1748851820,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124025,
+        "num": 133497,
+        "word": "白鹿半年播三部剧的含金量",
+        "onboard_time": 1748854101,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132197,
+        "num": 132197,
+        "word": "希然忘词",
+        "onboard_time": 1748860701,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128336,
+        "num": 128336,
+        "word": "河北秦皇岛2.5级地震",
+        "onboard_time": 1748863641,
+        "rank": 36,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 121620,
+        "num": 121620,
+        "word": "女子劈开用几年的菜板满是黄曲霉素",
+        "onboard_time": 1748854700,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24278,
+        "num": 121380,
+        "word": "如何快速找回遗落高铁的行李",
+        "onboard_time": 1748863042,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 121340,
+        "num": 121340,
+        "word": "6月1日至25日开展入户调查工作",
+        "onboard_time": 1748863101,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118359,
+        "num": 118359,
+        "word": "印度富人的家庭晚餐",
+        "onboard_time": 1748838260,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112275,
+        "num": 112275,
+        "word": "藏海传播放量再度破亿",
+        "onboard_time": 1748856261,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112110,
+        "num": 112110,
+        "word": "高芙晋级法网八强",
+        "onboard_time": 1748862381,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108919,
+        "num": 108919,
+        "word": "梁靖康摆摊有的是力气和手段",
+        "onboard_time": 1748863881,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106879,
+        "num": 106879,
+        "word": "江苏十三太保把足球踢出圈",
+        "onboard_time": 1748861420,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106277,
+        "num": 106277,
+        "word": "热恋15集把我哄好了",
+        "onboard_time": 1748864180,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103758,
+        "num": 103758,
+        "word": "1万多年前古人给石头做美容",
+        "onboard_time": 1748863461,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103613,
+        "num": 103613,
+        "word": "学员匿名举报教练骚扰后怀疑店长泄密",
+        "onboard_time": 1748862920,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99410,
+        "num": 99410,
+        "word": "B族维生素有哪些功能",
+        "onboard_time": 1748863821,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92605,
+        "num": 92605,
+        "word": "孟子义请曾舜晞九门剧组喝饮料",
+        "onboard_time": 1748860941,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的自信之基力量之源#"
+    }
+  }
+}
