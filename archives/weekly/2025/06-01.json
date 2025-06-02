@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748843115475,
+  "endTime": 1748846307583,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -121,6 +121,14 @@
       "onboard_time": 1748753001,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1255686,
+      "num": 161515,
+      "word": "杨幂私下超爱给谢依霖晒小糯米",
+      "onboard_time": 1748843300,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1236397,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 732189,
-      "num": 732189,
+      "num": 1108075,
       "word": "印度富人的家庭晚餐",
       "onboard_time": 1748838260,
       "rank": 32,
@@ -297,6 +305,14 @@
       "onboard_time": 1748786121,
       "rank": 3,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 708263,
+      "num": 160927,
+      "word": "张雪峰自曝可能告别直播",
+      "onboard_time": 1748843300,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 698578,
@@ -1019,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292031,
+      "num": 224992,
+      "word": "王嘉尔蔡徐坤音乐节同框",
+      "onboard_time": 1748845161,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 291250,
       "num": 291250,
       "word": "瓶邪",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1748757320,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287648,
+      "num": 245380,
+      "word": "第三人是内阁首辅石一平",
+      "onboard_time": 1748842042,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 287428,
@@ -1107,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275945,
+      "num": 158808,
+      "word": "杜华晒章子怡佟丽娅陈好合照",
+      "onboard_time": 1748845820,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274759,
       "num": 274759,
       "word": "患者服临床试验抗癌药致重症肺炎",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1748786901,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270077,
+      "num": 270077,
+      "word": "金价",
+      "onboard_time": 1748839880,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 268485,
@@ -1251,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245380,
-      "num": 245380,
-      "word": "第三人是内阁首辅石一平",
-      "onboard_time": 1748842042,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 243730,
       "num": 291223,
       "word": "藏海传云合33.6%",
@@ -1305,6 +1345,14 @@
       "onboard_time": 1748821457,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235704,
+      "num": 159558,
+      "word": "贾静雯自曝三位亲人患癌",
+      "onboard_time": 1748843481,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 232346,
@@ -1400,6 +1448,14 @@
       "word": "李昀锐翻牌",
       "onboard_time": 1748789602,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213204,
+      "num": 156367,
+      "word": "吴倩朋友怎么那么会拍吴倩",
+      "onboard_time": 1748843421,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -1649,14 +1705,6 @@
       "onboard_time": 1748760860,
       "rank": 17,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 191807,
-      "num": 191807,
-      "word": "金价",
-      "onboard_time": 1748839880,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 190633,
@@ -2091,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161624,
+      "num": 161624,
+      "word": "张家界一溶洞垃圾堆至7层楼高",
+      "onboard_time": 1748841801,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161610,
       "num": 161610,
       "word": "薛之谦第一次来毕业歌会就压轴",
@@ -2137,6 +2193,14 @@
       "onboard_time": 1748752881,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159173,
+      "num": 159173,
+      "word": "蒋雨融发文回应争议",
+      "onboard_time": 1748845342,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158981,
@@ -2225,6 +2289,14 @@
       "onboard_time": 1748837960,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153812,
+      "num": 153812,
+      "word": "白鹿回应曾舜晞",
+      "onboard_time": 1748844742,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 153736,
@@ -2627,6 +2699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134209,
+      "num": 134209,
+      "word": "曾舜晞 和李青月花如月已三婚",
+      "onboard_time": 1748843661,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133661,
       "num": 133661,
       "word": "赵丽颖眼光果然毒辣",
@@ -2795,6 +2875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126956,
+      "num": 126956,
+      "word": "张启山你的兵回来了",
+      "onboard_time": 1748845762,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126806,
       "num": 126806,
       "word": "六月好运星座",
@@ -2865,6 +2953,14 @@
       "onboard_time": 1748782701,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124358,
+      "num": 126633,
+      "word": "杨毅祝贺王楚钦世乒赛双冠",
+      "onboard_time": 1748845161,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 124302,
@@ -3099,6 +3195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114963,
+      "num": 114963,
+      "word": "他的遗物不多藏海是其中一个",
+      "onboard_time": 1748844201,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114945,
       "num": 212324,
       "word": "乘风2025",
@@ -3179,6 +3283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111288,
+      "num": 111288,
+      "word": "黄子韬boss感拉满",
+      "onboard_time": 1748845520,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111183,
       "num": 111183,
       "word": "我想我会一直爱你",
@@ -3201,14 +3313,6 @@
       "onboard_time": 1748786242,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 110537,
-      "num": 110537,
-      "word": "张家界一溶洞垃圾堆至7层楼高",
-      "onboard_time": 1748841801,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110299,
@@ -3571,6 +3675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100611,
+      "num": 100611,
+      "word": "眼里没有一丝犹豫全是对帅哥的满意",
+      "onboard_time": 1748845700,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99968,
       "num": 99968,
       "word": "官方回应上海迪士尼游客打架",
@@ -3787,6 +3899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93337,
+      "num": 93337,
+      "word": "患者花7万买的抗癌药是临床试验药",
+      "onboard_time": 1748846000,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 93300,
       "num": 93300,
       "word": "苏超",
@@ -3851,6 +3971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91549,
+      "num": 91549,
+      "word": "爸爸当家",
+      "onboard_time": 1748842820,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91273,
       "num": 257965,
       "word": "泽连斯基再提乌俄领导人会晤",
@@ -3881,6 +4009,14 @@
       "onboard_time": 1748842760,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90106,
+      "num": 90106,
+      "word": "吴倩从民国漫步北欧",
+      "onboard_time": 1748846061,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 89960,
@@ -3937,6 +4073,14 @@
       "onboard_time": 1748830220,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89032,
+      "num": 89032,
+      "word": "不知道的还以为出新台剧了",
+      "onboard_time": 1748845881,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 88862,
@@ -4001,6 +4145,14 @@
       "onboard_time": 1748688080,
       "rank": 32,
       "category": "正能量,教育"
+    },
+    {
+      "raw_hot": 86923,
+      "num": 88579,
+      "word": "白鹿临江仙和白九思已三离",
+      "onboard_time": 1748846239,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 86236,
@@ -4225,6 +4377,14 @@
       "onboard_time": 1748745620,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76051,
+      "num": 153940,
+      "word": "波尔说难以想象樊振东会让萨尔布吕肯变多强",
+      "onboard_time": 1748845221,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 75687,
@@ -4681,6 +4841,14 @@
       "onboard_time": 1748733555,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50402,
+      "num": 96450,
+      "word": "我国超大规模新能源接入大电网",
+      "onboard_time": 1748844981,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49930,
@@ -5195,6 +5363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25177,
+      "num": 125946,
+      "word": "女人进行力量训练会容易长肌肉吗",
+      "onboard_time": 1748845940,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 25155,
       "num": 25925,
       "word": "张桂源拿粽子自拍",
@@ -5371,6 +5547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17077,
+      "num": 157667,
+      "word": "为什么旅游容易便秘",
+      "onboard_time": 1748845460,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 15954,
       "num": 185553,
       "word": "广东为什么这么热爱赛龙舟",
@@ -5457,6 +5641,14 @@
       "onboard_time": 1748808313,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10827,
+      "num": 96050,
+      "word": "拉撒路现象",
+      "onboard_time": 1748845400,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 10826,

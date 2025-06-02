@@ -1,0 +1,410 @@
+{
+  "runTime": 1748846307583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 675470,
+        "num": 1108075,
+        "word": "印度富人的家庭晚餐",
+        "onboard_time": 1748838260,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 419773,
+        "num": 419773,
+        "word": "藏海传面具人身份终于揭秘",
+        "onboard_time": 1748834779,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32460,
+        "num": 328373,
+        "word": "天问二号问天之旅第一站拜访谁",
+        "onboard_time": 1748834420,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328045,
+        "num": 328045,
+        "word": "蔡徐坤洛杉矶音乐节舞台",
+        "onboard_time": 1748840960,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270077,
+        "num": 270077,
+        "word": "金价",
+        "onboard_time": 1748839880,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226003,
+        "num": 226003,
+        "word": "吃辣能力会退化",
+        "onboard_time": 1748835740,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 292031,
+        "num": 224992,
+        "word": "王嘉尔蔡徐坤音乐节同框",
+        "onboard_time": 1748845161,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287648,
+        "num": 222076,
+        "word": "第三人是内阁首辅石一平",
+        "onboard_time": 1748842042,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189714,
+        "num": 189714,
+        "word": "乌方袭击俄机场画面曝光",
+        "onboard_time": 1748834061,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161624,
+        "num": 161624,
+        "word": "张家界一溶洞垃圾堆至7层楼高",
+        "onboard_time": 1748841801,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1255686,
+        "num": 161515,
+        "word": "杨幂私下超爱给谢依霖晒小糯米",
+        "onboard_time": 1748843300,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708263,
+        "num": 160927,
+        "word": "张雪峰自曝可能告别直播",
+        "onboard_time": 1748843300,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 664559,
+        "num": 160713,
+        "word": "司机缺氧离世有5个上学孩子",
+        "onboard_time": 1748838621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457584,
+        "num": 160570,
+        "word": "章子怡晒女儿儿子",
+        "onboard_time": 1748840781,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402432,
+        "num": 160117,
+        "word": "贾冰减肥成功瘦到脱相",
+        "onboard_time": 1748827459,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235704,
+        "num": 159558,
+        "word": "贾静雯自曝三位亲人患癌",
+        "onboard_time": 1748843481,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217183,
+        "num": 159481,
+        "word": "张婧仪无法出戏",
+        "onboard_time": 1748838741,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159173,
+        "num": 159173,
+        "word": "蒋雨融发文回应争议",
+        "onboard_time": 1748845342,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275945,
+        "num": 158808,
+        "word": "杜华晒章子怡佟丽娅陈好合照",
+        "onboard_time": 1748845820,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17077,
+        "num": 157667,
+        "word": "为什么旅游容易便秘",
+        "onboard_time": 1748845460,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213204,
+        "num": 156367,
+        "word": "吴倩朋友怎么那么会拍吴倩",
+        "onboard_time": 1748843421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191836,
+        "num": 155742,
+        "word": "王晓晨被传婚讯后首露面",
+        "onboard_time": 1748839160,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191490,
+        "num": 154960,
+        "word": "上海警方通报迪士尼打架事件",
+        "onboard_time": 1748787802,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154452,
+        "num": 154452,
+        "word": "镜FMVP星传说皮肤",
+        "onboard_time": 1748842521,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76051,
+        "num": 153940,
+        "word": "波尔说难以想象樊振东会让萨尔布吕肯变多强",
+        "onboard_time": 1748845221,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153812,
+        "num": 153812,
+        "word": "白鹿回应曾舜晞",
+        "onboard_time": 1748844742,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134209,
+        "num": 134209,
+        "word": "曾舜晞 和李青月花如月已三婚",
+        "onboard_time": 1748843661,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126956,
+        "num": 126956,
+        "word": "张启山你的兵回来了",
+        "onboard_time": 1748845762,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124358,
+        "num": 126633,
+        "word": "杨毅祝贺王楚钦世乒赛双冠",
+        "onboard_time": 1748845161,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25177,
+        "num": 125946,
+        "word": "女人进行力量训练会容易长肌肉吗",
+        "onboard_time": 1748845940,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 151814,
+        "num": 125811,
+        "word": "霉霉和赛琳娜聚餐",
+        "onboard_time": 1748838621,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121235,
+        "num": 124924,
+        "word": "苏晓彤复刻永夜星河大婚造型",
+        "onboard_time": 1748840060,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124739,
+        "num": 124739,
+        "word": "警惕美国资助反华NGO新手段",
+        "onboard_time": 1748839760,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114963,
+        "num": 114963,
+        "word": "他的遗物不多藏海是其中一个",
+        "onboard_time": 1748844201,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111288,
+        "num": 111288,
+        "word": "黄子韬boss感拉满",
+        "onboard_time": 1748845520,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107099,
+        "num": 107099,
+        "word": "川菜是抗炎作用最强的菜系",
+        "onboard_time": 1748835199,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100611,
+        "num": 100611,
+        "word": "眼里没有一丝犹豫全是对帅哥的满意",
+        "onboard_time": 1748845700,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99231,
+        "num": 99231,
+        "word": "印度男子泰国景区摸老虎屁股遭扑咬",
+        "onboard_time": 1748833821,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50402,
+        "num": 96450,
+        "word": "我国超大规模新能源接入大电网",
+        "onboard_time": 1748844981,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10827,
+        "num": 96050,
+        "word": "拉撒路现象",
+        "onboard_time": 1748845400,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 95945,
+        "num": 95945,
+        "word": "俄罗斯民众英勇拦截乌克兰无人机",
+        "onboard_time": 1748841861,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95452,
+        "num": 95452,
+        "word": "花两千买苹果15被说一眼假",
+        "onboard_time": 1748824999,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94150,
+        "num": 94150,
+        "word": "菲律宾防长居然说中国记者是特工",
+        "onboard_time": 1748836819,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93337,
+        "num": 93337,
+        "word": "患者花7万买的抗癌药是临床试验药",
+        "onboard_time": 1748846000,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 92872,
+        "num": 92872,
+        "word": "VOGUE海边假日",
+        "onboard_time": 1748842102,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 91549,
+        "num": 91549,
+        "word": "爸爸当家",
+        "onboard_time": 1748842820,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86501,
+        "num": 90407,
+        "word": "金价上冲",
+        "onboard_time": 1748836040,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90106,
+        "num": 90106,
+        "word": "吴倩从民国漫步北欧",
+        "onboard_time": 1748846061,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89032,
+        "num": 89032,
+        "word": "不知道的还以为出新台剧了",
+        "onboard_time": 1748845881,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86923,
+        "num": 88579,
+        "word": "白鹿临江仙和白九思已三离",
+        "onboard_time": 1748846239,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的自信之基力量之源#"
+    }
+  }
+}
