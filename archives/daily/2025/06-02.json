@@ -1,6 +1,6 @@
 {
   "startTime": 1748795412057,
-  "endTime": 1748864318701,
+  "endTime": 1748868778061,
   "band_list": [
     {
       "raw_hot": 2189684,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1891939,
-      "num": 377587,
+      "num": 439727,
       "word": "迪丽热巴撕拉片",
       "onboard_time": 1748861061,
       "rank": 27,
@@ -33,6 +33,14 @@
       "onboard_time": 1748827459,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1509891,
+      "num": 878438,
+      "word": "许其亮同志逝世",
+      "onboard_time": 1748863520,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1362008,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1105383,
-      "num": 1105383,
+      "num": 1167945,
       "word": "面具人真是赵秉文",
       "onboard_time": 1748860639,
       "rank": 6,
@@ -115,12 +123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 878438,
-      "num": 878438,
-      "word": "许其亮同志逝世",
-      "onboard_time": 1748863520,
-      "rank": 5,
-      "category": "国内时政"
+      "raw_hot": 889686,
+      "num": 889686,
+      "word": "普京底线被乌克兰撕开",
+      "onboard_time": 1748864180,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 863332,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 749200,
-      "num": 377569,
+      "num": 460203,
       "word": "女童回家被陌生男子拖进小巷",
       "onboard_time": 1748849839,
       "rank": 23,
@@ -169,6 +177,14 @@
       "onboard_time": 1748838260,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 687923,
+      "num": 687923,
+      "word": "锦绣芳华",
+      "onboard_time": 1748866222,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 665858,
@@ -243,6 +259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538670,
+      "num": 538670,
+      "word": "Bin 闹剧结束了",
+      "onboard_time": 1748864542,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 531499,
+      "num": 531499,
+      "word": "女足迪丽热巴杀青",
+      "onboard_time": 1748865801,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 518835,
       "num": 325980,
       "word": "雷坤也是当上站哥了",
@@ -305,6 +337,14 @@
       "onboard_time": 1748834061,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 458548,
+      "num": 458548,
+      "word": "鞠婧祎撕拉片",
+      "onboard_time": 1748864061,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 457968,
@@ -379,11 +419,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398568,
+      "num": 398568,
+      "word": "苏新皓抽到了权志龙未公开小卡",
+      "onboard_time": 1748865023,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393897,
       "num": 393897,
       "word": "第三人",
       "onboard_time": 1748861840,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 392022,
+      "num": 461019,
+      "word": "藏海不知道星斗死了",
+      "onboard_time": 1748864542,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -417,6 +473,14 @@
       "onboard_time": 1748851641,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 377298,
+      "num": 377298,
+      "word": "张凌赫撕拉片",
+      "onboard_time": 1748865200,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 375306,
@@ -723,6 +787,14 @@
       "category": "国际时政,教育"
     },
     {
+      "raw_hot": 254241,
+      "num": 254241,
+      "word": "江苏唯一真南哥之争已白热化",
+      "onboard_time": 1748866821,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251324,
       "num": 251324,
       "word": "郑钦文晋级法网8强",
@@ -739,12 +811,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246329,
+      "num": 246329,
+      "word": "TES被零封",
+      "onboard_time": 1748864901,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 242752,
       "num": 210340,
       "word": "镜FMVP星传说皮肤",
       "onboard_time": 1748842521,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241666,
+      "num": 241666,
+      "word": "2025乒超联赛",
+      "onboard_time": 1748867060,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 240255,
@@ -859,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208373,
+      "num": 241706,
+      "word": "藏海汗如雨下",
+      "onboard_time": 1748867542,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208360,
       "num": 208360,
       "word": "韩国首尔地铁纵火案嫌疑人被抓",
@@ -923,6 +1019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 201322,
+      "num": 201322,
+      "word": "累点很低的人建议改掉6个习惯",
+      "onboard_time": 1748866761,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200256,
       "num": 200256,
       "word": "面具人",
@@ -971,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193596,
-      "num": 193596,
-      "word": "鞠婧祎撕拉片",
-      "onboard_time": 1748864061,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193282,
       "num": 193282,
       "word": "以为是古偶仙侠结果是离婚大战",
@@ -1019,11 +1115,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185769,
+      "num": 185769,
+      "word": "黄圣依无法接受自己一天无所事事",
+      "onboard_time": 1748866521,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185747,
       "num": 185747,
       "word": "2025KPL夏季赛定妆照",
       "onboard_time": 1748840781,
       "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 184352,
+      "num": 184352,
+      "word": "BLG距离MSI只差一步",
+      "onboard_time": 1748866401,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -1115,6 +1227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168777,
+      "num": 168777,
+      "word": "比iG还快",
+      "onboard_time": 1748866282,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168663,
       "num": 168663,
       "word": "印度的流水席",
@@ -1139,20 +1259,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164703,
+      "num": 205948,
+      "word": "江苏十三太保把足球踢出圈",
+      "onboard_time": 1748861420,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163841,
       "num": 163841,
       "word": "董璇为女儿小酒窝庆祝9岁生日",
       "onboard_time": 1748833340,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162637,
-      "num": 162637,
-      "word": "普京底线被乌克兰撕开",
-      "onboard_time": 1748864180,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 162083,
@@ -1283,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149865,
+      "num": 149865,
+      "word": "学员匿名举报教练骚扰后怀疑店长泄密",
+      "onboard_time": 1748862920,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149849,
       "num": 149849,
       "word": "8旬老人105万买基金亏30万状告银行",
@@ -1305,6 +1433,14 @@
       "onboard_time": 1748839519,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147879,
+      "num": 185053,
+      "word": "易烊千玺一礼成人送给所有高考生",
+      "onboard_time": 1748866521,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147829,
@@ -1363,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139147,
+      "num": 184564,
+      "word": "热恋15集把我哄好了",
+      "onboard_time": 1748864180,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138788,
       "num": 138788,
       "word": "万妮达 新说唱",
@@ -1379,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137321,
+      "num": 157442,
+      "word": "藏海传团圆饭",
+      "onboard_time": 1748867901,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137170,
       "num": 137170,
       "word": "宋威龙晋江男主走进现实",
@@ -1393,6 +1545,14 @@
       "onboard_time": 1748841861,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136038,
+      "num": 136038,
+      "word": "6月应季水果大全",
+      "onboard_time": 1748867961,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 135548,
@@ -1459,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131832,
+      "num": 176033,
+      "word": "宋雨琦绿光舞台",
+      "onboard_time": 1748865621,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130709,
       "num": 130709,
       "word": "罗云熙点赞太原小吃沾串",
@@ -1481,6 +1649,14 @@
       "onboard_time": 1748780361,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129351,
+      "num": 129351,
+      "word": "郑钦文明天17点再战萨巴伦卡",
+      "onboard_time": 1748868442,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 128824,
@@ -1587,6 +1763,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122206,
+      "num": 122206,
+      "word": "舟山东极岛等多个海岛游客反映被困",
+      "onboard_time": 1748868381,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122015,
+      "num": 122015,
+      "word": "湖南机场集团董事长涉性侵案职务撤下",
+      "onboard_time": 1748867542,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121361,
       "num": 121361,
       "word": "种草了虞书欣的潮玩穿搭",
@@ -1601,6 +1793,14 @@
       "onboard_time": 1748863101,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121214,
+      "num": 121214,
+      "word": "数架歼10战机空中近距离格斗",
+      "onboard_time": 1748868442,
+      "rank": 44,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 120636,
@@ -1641,6 +1841,14 @@
       "onboard_time": 1748847141,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117387,
+      "num": 117387,
+      "word": "日本官方警告北海道可能发生强震",
+      "onboard_time": 1748867961,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117302,
@@ -1731,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111310,
+      "num": 202151,
+      "word": "当地回应滇池大量鱼跃出水面属正常现象",
+      "onboard_time": 1748867000,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111288,
       "num": 111288,
       "word": "黄子韬boss感拉满",
@@ -1761,6 +1977,14 @@
       "onboard_time": 1748852540,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110920,
+      "num": 110920,
+      "word": "改造失落的外国美女",
+      "onboard_time": 1748867661,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 109986,
@@ -1827,28 +2051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106879,
-      "num": 106879,
-      "word": "江苏十三太保把足球踢出圈",
-      "onboard_time": 1748861420,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106461,
       "num": 106461,
       "word": "西藏丁青县山体滑坡仍有7人失联",
       "onboard_time": 1748862381,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106277,
-      "num": 106277,
-      "word": "热恋15集把我哄好了",
-      "onboard_time": 1748864180,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 105882,
@@ -1905,14 +2113,6 @@
       "onboard_time": 1748792061,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103613,
-      "num": 103613,
-      "word": "学员匿名举报教练骚扰后怀疑店长泄密",
-      "onboard_time": 1748862920,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103010,
@@ -1995,6 +2195,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100562,
+      "num": 153624,
+      "word": "日本官方警告近日可能发生强震",
+      "onboard_time": 1748866941,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100142,
+      "num": 100142,
+      "word": "给散装江苏发明省内足球联赛简直天才",
+      "onboard_time": 1748861479,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99775,
       "num": 153940,
       "word": "波尔说难以想象樊振东会让萨尔布吕肯变多强",
@@ -2028,7 +2244,7 @@
     },
     {
       "raw_hot": 99410,
-      "num": 99410,
+      "num": 184402,
       "word": "B族维生素有哪些功能",
       "onboard_time": 1748863821,
       "rank": 48,
@@ -3009,6 +3225,14 @@
       "onboard_time": 1748802376,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23912,
+      "num": 241682,
+      "word": "叶黄素适合什么人吃",
+      "onboard_time": 1748868199,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23878,
