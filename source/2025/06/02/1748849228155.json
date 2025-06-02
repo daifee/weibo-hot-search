@@ -1,0 +1,410 @@
+{
+  "runTime": 1748849228155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 609870,
+        "num": 1097579,
+        "word": "印度富人的家庭晚餐",
+        "onboard_time": 1748838260,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 496129,
+        "num": 496129,
+        "word": "情商低的人都有什么行为",
+        "onboard_time": 1748844920,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32093,
+        "num": 444053,
+        "word": "天问二号问天之旅第一站拜访谁",
+        "onboard_time": 1748834420,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410826,
+        "num": 410826,
+        "word": "藏海传面具人身份终于揭秘",
+        "onboard_time": 1748834779,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403521,
+        "num": 403521,
+        "word": "王嘉尔蔡徐坤音乐节同框",
+        "onboard_time": 1748845161,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 350468,
+        "num": 350468,
+        "word": "蒋雨融发文回应争议",
+        "onboard_time": 1748845342,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316915,
+        "num": 316915,
+        "word": "兰博基尼车主赖停车费被代驾举报酒驾",
+        "onboard_time": 1748846422,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190272,
+        "num": 190272,
+        "word": "吃辣能力会退化",
+        "onboard_time": 1748835740,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 186613,
+        "num": 186613,
+        "word": "第三人是内阁首辅石一平",
+        "onboard_time": 1748842042,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86402,
+        "num": 186579,
+        "word": "交警回应豪车车主赖停车费被举报酒驾",
+        "onboard_time": 1748848460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 903923,
+        "num": 186479,
+        "word": "杨幂私下超爱给谢依霖晒小糯米",
+        "onboard_time": 1748843300,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473630,
+        "num": 186330,
+        "word": "宝妈7个月瘦了43斤撞脸李若彤",
+        "onboard_time": 1748848759,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366675,
+        "num": 186305,
+        "word": "贾冰减肥成功瘦到脱相",
+        "onboard_time": 1748827459,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345123,
+        "num": 186157,
+        "word": "章子怡晒女儿儿子",
+        "onboard_time": 1748840781,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88086,
+        "num": 186126,
+        "word": "患者花7万买的抗癌药是临床试验药",
+        "onboard_time": 1748846000,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 263593,
+        "num": 186022,
+        "word": "白鹿callback于正",
+        "onboard_time": 1748847800,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185931,
+        "num": 185931,
+        "word": "杨毅祝贺王楚钦世乒赛双冠",
+        "onboard_time": 1748845161,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184477,
+        "num": 184477,
+        "word": "宁艺卓将出席VOGUE盛典",
+        "onboard_time": 1748846481,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 78607,
+        "num": 184313,
+        "word": "贾静雯自曝三位亲人患癌",
+        "onboard_time": 1748843481,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26754,
+        "num": 184071,
+        "word": "为什么上网一查总觉得自己得了大病",
+        "onboard_time": 1748848759,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264032,
+        "num": 183729,
+        "word": "杜华晒章子怡佟丽娅陈好合照",
+        "onboard_time": 1748845820,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261613,
+        "num": 183539,
+        "word": "8岁女孩被患癌女司机撞成重伤进ICU",
+        "onboard_time": 1748848759,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183303,
+        "num": 183303,
+        "word": "乌总统称亲自筹划蛛网行动一年半",
+        "onboard_time": 1748846541,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177589,
+        "num": 177589,
+        "word": "姜贞羽短剧",
+        "onboard_time": 1748849059,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144393,
+        "num": 177322,
+        "word": "蔡徐坤洛杉矶音乐节舞台",
+        "onboard_time": 1748840960,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127303,
+        "num": 176929,
+        "word": "乌方袭击俄机场画面曝光",
+        "onboard_time": 1748834061,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122627,
+        "num": 176288,
+        "word": "藏海传师徒群像海报",
+        "onboard_time": 1748847681,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16443,
+        "num": 175378,
+        "word": "波尔结束生涯欧冠最后一战",
+        "onboard_time": 1748844020,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45775,
+        "num": 175100,
+        "word": "夏天到了空调怎么开才省电",
+        "onboard_time": 1748848460,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 14971,
+        "num": 174319,
+        "word": "求学时综合和专业排名哪个重要",
+        "onboard_time": 1748848281,
+        "rank": 29,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 173880,
+        "num": 173880,
+        "word": "曹公公培养孩子真有一手",
+        "onboard_time": 1748847920,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5987,
+        "num": 166366,
+        "word": "如何增强膝关节的稳定性",
+        "onboard_time": 1748849120,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161083,
+        "num": 161083,
+        "word": "张家界一溶洞垃圾堆至7层楼高",
+        "onboard_time": 1748841801,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122731,
+        "num": 122731,
+        "word": "贴身内衣藏臭屁虫卵人裂开了",
+        "onboard_time": 1748848701,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121129,
+        "num": 121129,
+        "word": "镜FMVP星传说皮肤",
+        "onboard_time": 1748842521,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119247,
+        "num": 119247,
+        "word": "张婧仪无法出戏",
+        "onboard_time": 1748838741,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116721,
+        "num": 116721,
+        "word": "金价",
+        "onboard_time": 1748839880,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116596,
+        "num": 116596,
+        "word": "张启山你的兵回来了",
+        "onboard_time": 1748845762,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31302,
+        "num": 113329,
+        "word": "中国的稀土优势在于产业规模",
+        "onboard_time": 1748847380,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31481,
+        "num": 111748,
+        "word": "坚持哪些动作可以帮瘦肚子",
+        "onboard_time": 1748847800,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 111274,
+        "num": 111274,
+        "word": "上海警方通报迪士尼打架事件",
+        "onboard_time": 1748787802,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 109654,
+        "num": 109654,
+        "word": "万妮达hook给我听爽了",
+        "onboard_time": 1748848881,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105110,
+        "num": 105110,
+        "word": "小伙常以泡面零食充饥患病终身服药",
+        "onboard_time": 1748848100,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103560,
+        "num": 103560,
+        "word": "霉霉和赛琳娜聚餐",
+        "onboard_time": 1748838621,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101288,
+        "num": 101288,
+        "word": "老人山中走失6天吃樱桃获救",
+        "onboard_time": 1748835439,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94827,
+        "num": 94827,
+        "word": "被正式确诊为夏人",
+        "onboard_time": 1748847380,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94118,
+        "num": 94118,
+        "word": "曾舜晞 和李青月花如月已三婚",
+        "onboard_time": 1748843661,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64239,
+        "num": 90447,
+        "word": "为什么旅游容易便秘",
+        "onboard_time": 1748845460,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72538,
+        "num": 90271,
+        "word": "买黄金一定要避免情绪化",
+        "onboard_time": 1748846360,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90232,
+        "num": 90232,
+        "word": "他的遗物不多藏海是其中一个",
+        "onboard_time": 1748844201,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的自信之基力量之源#"
+    }
+  }
+}

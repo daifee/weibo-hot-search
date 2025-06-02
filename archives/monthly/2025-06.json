@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748847174665,
+  "endTime": 1748849228155,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496129,
+      "num": 496129,
+      "word": "情商低的人都有什么行为",
+      "onboard_time": 1748844920,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 485567,
       "num": 403257,
       "word": "柳岩因卡鱼刺进了医院",
@@ -577,6 +585,14 @@
       "onboard_time": 1748769620,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473630,
+      "num": 186330,
+      "word": "宝妈7个月瘦了43斤撞脸李若彤",
+      "onboard_time": 1748848759,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471687,
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 439676,
-      "num": 246930,
+      "num": 403521,
       "word": "王嘉尔蔡徐坤音乐节同框",
       "onboard_time": 1748845161,
       "rank": 6,
@@ -795,6 +811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 350468,
+      "num": 350468,
+      "word": "蒋雨融发文回应争议",
+      "onboard_time": 1748845342,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348269,
       "num": 348269,
       "word": "斯瓦泰克vs莱巴金娜",
@@ -905,6 +929,14 @@
       "onboard_time": 1748707040,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316915,
+      "num": 316915,
+      "word": "兰博基尼车主赖停车费被代驾举报酒驾",
+      "onboard_time": 1748846422,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316226,
@@ -1211,6 +1243,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263593,
+      "num": 186022,
+      "word": "白鹿callback于正",
+      "onboard_time": 1748847800,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261613,
+      "num": 183539,
+      "word": "8岁女孩被患癌女司机撞成重伤进ICU",
+      "onboard_time": 1748848759,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259847,
       "num": 259847,
       "word": "藏海找到癸玺了",
@@ -1348,7 +1396,7 @@
     },
     {
       "raw_hot": 235704,
-      "num": 159558,
+      "num": 184313,
       "word": "贾静雯自曝三位亲人患癌",
       "onboard_time": 1748843481,
       "rank": 15,
@@ -1577,14 +1625,6 @@
       "onboard_time": 1748846481,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 202014,
-      "num": 217755,
-      "word": "蒋雨融发文回应争议",
-      "onboard_time": 1748845342,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201979,
@@ -1819,6 +1859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185931,
+      "num": 185931,
+      "word": "杨毅祝贺王楚钦世乒赛双冠",
+      "onboard_time": 1748845161,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185747,
       "num": 185747,
       "word": "2025KPL夏季赛定妆照",
@@ -1873,6 +1921,14 @@
       "onboard_time": 1748744841,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183303,
+      "num": 196449,
+      "word": "乌总统称亲自筹划蛛网行动一年半",
+      "onboard_time": 1748846541,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 182261,
@@ -1963,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177589,
+      "num": 177589,
+      "word": "姜贞羽短剧",
+      "onboard_time": 1748849059,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176421,
       "num": 176421,
       "word": "宋威龙笑脸baby冷脸daddy",
@@ -2009,6 +2073,14 @@
       "onboard_time": 1748775680,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173880,
+      "num": 173880,
+      "word": "曹公公培养孩子真有一手",
+      "onboard_time": 1748847920,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 173793,
@@ -2515,14 +2587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143317,
-      "num": 143317,
-      "word": "杨毅祝贺王楚钦世乒赛双冠",
-      "onboard_time": 1748845161,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142894,
       "num": 142894,
       "word": "临江仙广播剧",
@@ -2995,11 +3059,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122731,
+      "num": 122731,
+      "word": "贴身内衣藏臭屁虫卵人裂开了",
+      "onboard_time": 1748848701,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122724,
       "num": 109642,
       "word": "白鹿新剧预告古装版致命女人",
       "onboard_time": 1748839400,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122627,
+      "num": 176288,
+      "word": "藏海传师徒群像海报",
+      "onboard_time": 1748847681,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -3169,14 +3249,6 @@
       "onboard_time": 1748766382,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116073,
-      "num": 116073,
-      "word": "情商低的人都有什么行为",
-      "onboard_time": 1748844920,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 115799,
@@ -3371,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109654,
+      "num": 109654,
+      "word": "万妮达hook给我听爽了",
+      "onboard_time": 1748848881,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109516,
       "num": 109516,
       "word": "生病了忘了跟小猫请假",
@@ -3521,6 +3601,14 @@
       "onboard_time": 1748753300,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105110,
+      "num": 105110,
+      "word": "小伙常以泡面零食充饥患病终身服药",
+      "onboard_time": 1748848100,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105067,
@@ -3732,7 +3820,7 @@
     },
     {
       "raw_hot": 99793,
-      "num": 99793,
+      "num": 186126,
       "word": "患者花7万买的抗癌药是临床试验药",
       "onboard_time": 1748846000,
       "rank": 43,
@@ -3913,6 +4001,14 @@
       "onboard_time": 1748773040,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94827,
+      "num": 94827,
+      "word": "被正式确诊为夏人",
+      "onboard_time": 1748847380,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 94746,
@@ -4203,6 +4299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86402,
+      "num": 186579,
+      "word": "交警回应豪车车主赖停车费被举报酒驾",
+      "onboard_time": 1748848460,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86236,
       "num": 86236,
       "word": "歌手",
@@ -4265,14 +4369,6 @@
       "onboard_time": 1748744299,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83599,
-      "num": 208285,
-      "word": "兰博基尼车主赖停车费被代驾举报酒驾",
-      "onboard_time": 1748846422,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83585,
@@ -4515,6 +4611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72538,
+      "num": 90271,
+      "word": "买黄金一定要避免情绪化",
+      "onboard_time": 1748846360,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72435,
       "num": 72435,
       "word": "坏掉的果蔬千万别凑活吃",
@@ -4649,6 +4753,14 @@
       "onboard_time": 1748759240,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64239,
+      "num": 157667,
+      "word": "为什么旅游容易便秘",
+      "onboard_time": 1748845460,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 63838,
@@ -4883,14 +4995,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 50892,
-      "num": 196449,
-      "word": "乌总统称亲自筹划蛛网行动一年半",
-      "onboard_time": 1748846541,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 50887,
       "num": 50887,
       "word": "王楚然丞磊配成这样成何体统",
@@ -4969,6 +5073,14 @@
       "onboard_time": 1748787742,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 45775,
+      "num": 175100,
+      "word": "夏天到了空调怎么开才省电",
+      "onboard_time": 1748848460,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 45637,
@@ -5267,12 +5379,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 31481,
+      "num": 111748,
+      "word": "坚持哪些动作可以帮瘦肚子",
+      "onboard_time": 1748847800,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 31447,
       "num": 31447,
       "word": "单依纯说唱得很沉浸忘我",
       "onboard_time": 1748714716,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31302,
+      "num": 113329,
+      "word": "中国的稀土优势在于产业规模",
+      "onboard_time": 1748847380,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30788,
@@ -5393,6 +5521,14 @@
       "onboard_time": 1748715136,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26754,
+      "num": 184071,
+      "word": "为什么上网一查总觉得自己得了大病",
+      "onboard_time": 1748848759,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26338,
@@ -5619,12 +5755,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17077,
-      "num": 157667,
-      "word": "为什么旅游容易便秘",
-      "onboard_time": 1748845460,
-      "rank": 19,
-      "category": "健康医疗"
+      "raw_hot": 16443,
+      "num": 175378,
+      "word": "波尔结束生涯欧冠最后一战",
+      "onboard_time": 1748844020,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 15954,
@@ -5665,6 +5801,14 @@
       "onboard_time": 1748753841,
       "rank": 29,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 14971,
+      "num": 174319,
+      "word": "求学时综合和专业排名哪个重要",
+      "onboard_time": 1748848281,
+      "rank": 29,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 14950,
@@ -5761,6 +5905,14 @@
       "onboard_time": 1748760439,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 5987,
+      "num": 166366,
+      "word": "如何增强膝关节的稳定性",
+      "onboard_time": 1748849120,
+      "rank": 31,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
