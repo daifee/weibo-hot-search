@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/03 04:28:51
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/03 04:42:19
 </p>
 </blockquote>
 <p>
@@ -5771,6 +5771,12 @@ TF家族四代端午创意龙舟（热度：25178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%8A%AC%E5%89%A7%E9%80%9F%E5%BA%A6%23" target="weibo">
 白鹿抬剧速度（热度：13499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BD%8D%E6%AD%8C%E6%89%8B%E5%90%8C%E6%97%A5%E4%B8%8A%E6%B5%B7%E5%BC%80%E5%94%B1%23" target="weibo">
+三位歌手同日上海开唱（热度：12817）
 </a>
 </li>
 

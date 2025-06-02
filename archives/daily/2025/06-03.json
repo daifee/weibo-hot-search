@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748896131339,
+  "endTime": 1748896939288,
   "band_list": [
     {
       "raw_hot": 770081,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 15606,
-      "num": 19173,
+      "num": 21294,
       "word": "高明打藏海",
       "onboard_time": 1748891894,
       "rank": 46,
@@ -513,6 +513,14 @@
       "onboard_time": 1748894233,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12817,
+      "num": 13978,
+      "word": "三位歌手同日上海开唱",
+      "onboard_time": 1748896033,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 12345,
