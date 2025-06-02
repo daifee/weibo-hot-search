@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748875579261,
+  "endTime": 1748878174823,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -225,6 +225,14 @@
       "onboard_time": 1748860639,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1083707,
+      "num": 1083707,
+      "word": "贾冰因戏减肥后不再打呼",
+      "onboard_time": 1748873722,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 1024126,
@@ -643,6 +651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 536102,
+      "num": 536102,
+      "word": "李在明喊出还差三票就赢得大选",
+      "onboard_time": 1748875283,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 531499,
       "num": 531499,
       "word": "女足迪丽热巴杀青",
@@ -777,6 +793,14 @@
       "onboard_time": 1748848759,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 472425,
+      "num": 185151,
+      "word": "洛杉矶奥运会樊振东对国乒不可或缺",
+      "onboard_time": 1748876661,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 471687,
@@ -1243,14 +1267,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 321645,
-      "num": 321645,
-      "word": "贾冰因戏减肥后不再打呼",
-      "onboard_time": 1748873722,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321567,
       "num": 235645,
       "word": "新说唱2025",
@@ -1339,6 +1355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 310192,
+      "num": 310192,
+      "word": "鹿晗四巡",
+      "onboard_time": 1748873544,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 309439,
       "num": 235178,
       "word": "小沈阳演出女儿登台唱跳遭吐槽",
@@ -1353,14 +1377,6 @@
       "onboard_time": 1748740400,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 309178,
-      "num": 245826,
-      "word": "鹿晗四巡",
-      "onboard_time": 1748873544,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 307238,
@@ -1531,14 +1547,6 @@
       "category": "海外新闻,财经"
     },
     {
-      "raw_hot": 281330,
-      "num": 281330,
-      "word": "李在明喊出还差三票就赢得大选",
-      "onboard_time": 1748875283,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 280409,
       "num": 280409,
       "word": "藏海传",
@@ -1665,6 +1673,14 @@
       "onboard_time": 1748859319,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259958,
+      "num": 259958,
+      "word": "男子网购牛奶整箱鼓包变质成豆腐渣",
+      "onboard_time": 1748876061,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259847,
@@ -1803,8 +1819,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243181,
-      "num": 243181,
+      "raw_hot": 243447,
+      "num": 243447,
       "word": "王安宇撕拉片",
       "onboard_time": 1748873662,
       "rank": 33,
@@ -2547,12 +2563,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182844,
+      "num": 254337,
+      "word": "俄州长宣布奖励向乌无人机投石民众",
+      "onboard_time": 1748873902,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182261,
       "num": 251695,
       "word": "梁超盛赞肖战具备艺术家所有品质",
       "onboard_time": 1748743759,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182189,
+      "num": 182189,
+      "word": "薛之谦造型",
+      "onboard_time": 1748875941,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 181991,
@@ -2601,14 +2633,6 @@
       "onboard_time": 1748837600,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180919,
-      "num": 254337,
-      "word": "俄州长宣布奖励向乌无人机投石民众",
-      "onboard_time": 1748873902,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 180691,
@@ -2985,6 +3009,14 @@
       "onboard_time": 1748775200,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 160714,
+      "num": 194328,
+      "word": "经销商关店80多辆电动车被远程锁死",
+      "onboard_time": 1748874082,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160667,
@@ -3419,6 +3451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142484,
+      "num": 142484,
+      "word": "河南安阳核查救助缺氧离世司机家庭",
+      "onboard_time": 1748876061,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141959,
       "num": 141959,
       "word": "何秋亊成都演唱会",
@@ -3537,6 +3577,14 @@
       "onboard_time": 1748751681,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137326,
+      "num": 140989,
+      "word": "俄乌二轮谈判结束后泽连斯基发声",
+      "onboard_time": 1748875522,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137321,
@@ -3659,14 +3707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134653,
-      "num": 136412,
-      "word": "经销商关店80多辆电动车被远程锁死",
-      "onboard_time": 1748874082,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134601,
       "num": 134601,
       "word": "藏海与师父高明倚门对视",
@@ -3713,6 +3753,14 @@
       "onboard_time": 1748834839,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133200,
+      "num": 133200,
+      "word": "高考时间",
+      "onboard_time": 1748875162,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 132909,
@@ -3937,6 +3985,14 @@
       "onboard_time": 1748837120,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126685,
+      "num": 126685,
+      "word": "藏海一跪",
+      "onboard_time": 1748877861,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 126058,
@@ -4228,7 +4284,7 @@
     },
     {
       "raw_hot": 117642,
-      "num": 117642,
+      "num": 190480,
       "word": "苏超爆火没有省份抄得了作业",
       "onboard_time": 1748873782,
       "rank": 46,
@@ -4273,14 +4329,6 @@
       "onboard_time": 1748852061,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 117281,
-      "num": 117281,
-      "word": "高考时间",
-      "onboard_time": 1748875162,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 117196,
@@ -5395,14 +5443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92470,
-      "num": 140989,
-      "word": "俄乌二轮谈判结束后泽连斯基发声",
-      "onboard_time": 1748875522,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 92435,
       "num": 250154,
       "word": "幼童从列车和站台间隙掉入高铁股道",
@@ -5707,6 +5747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83999,
+      "num": 124047,
+      "word": "进击的巨人白夜篇剧情巅峰",
+      "onboard_time": 1748877082,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 83841,
       "num": 83841,
       "word": "杨肸子好适合特写镜头",
@@ -5809,6 +5857,14 @@
       "onboard_time": 1748735298,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79883,
+      "num": 139183,
+      "word": "警方通报10岁男孩儿童节前走失",
+      "onboard_time": 1748878102,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79655,
@@ -6497,6 +6553,14 @@
       "onboard_time": 1748747361,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49220,
+      "num": 173287,
+      "word": "猎德龙舟征婚房东称1天加了1000人",
+      "onboard_time": 1748877982,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48297,
