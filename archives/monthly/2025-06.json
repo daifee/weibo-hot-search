@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748874439941,
+  "endTime": 1748875579261,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -291,20 +291,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 924886,
+      "num": 924886,
+      "word": "工作人员回应漫展上2女童被指衣着暴露",
+      "onboard_time": 1748872761,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 863332,
       "num": 1138133,
       "word": "情商低的人都有什么行为",
       "onboard_time": 1748844920,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 848106,
-      "num": 848106,
-      "word": "工作人员回应漫展上2女童被指衣着暴露",
-      "onboard_time": 1748872761,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 834773,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 622003,
-      "num": 245836,
+      "num": 546081,
       "word": "皇上藏海 我们好像在哪儿见过",
       "onboard_time": 1748871022,
       "rank": 30,
@@ -649,6 +649,14 @@
       "onboard_time": 1748865801,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 520888,
+      "num": 270434,
+      "word": "日本回应7月5日末日地震预言疯传",
+      "onboard_time": 1748871442,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 518835,
@@ -1235,6 +1243,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 321645,
+      "num": 321645,
+      "word": "贾冰因戏减肥后不再打呼",
+      "onboard_time": 1748873722,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321567,
       "num": 235645,
       "word": "新说唱2025",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1748740400,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 309178,
+      "num": 245826,
+      "word": "鹿晗四巡",
+      "onboard_time": 1748873544,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 307238,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1748812153,
       "rank": 39,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 281330,
+      "num": 281330,
+      "word": "李在明喊出还差三票就赢得大选",
+      "onboard_time": 1748875283,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 280409,
@@ -1763,20 +1795,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 245219,
-      "num": 245219,
-      "word": "日本回应7月5日末日地震预言疯传",
-      "onboard_time": 1748871442,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 243730,
       "num": 291223,
       "word": "藏海传云合33.6%",
       "onboard_time": 1748769500,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243181,
+      "num": 243181,
+      "word": "王安宇撕拉片",
+      "onboard_time": 1748873662,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 242752,
@@ -1827,20 +1859,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233540,
-      "num": 233540,
-      "word": "鹿晗四巡",
-      "onboard_time": 1748873544,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
       "onboard_time": 1748733918,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232132,
+      "num": 232132,
+      "word": "早睡1小时变化能有多惊人",
+      "onboard_time": 1748875283,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 230903,
+      "num": 230903,
+      "word": "山东10岁失联男孩确认溺水身亡",
+      "onboard_time": 1748874442,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226374,
@@ -1913,6 +1953,14 @@
       "onboard_time": 1748703622,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216976,
+      "num": 245521,
+      "word": "舟山东极岛等多个海岛游客反映被困",
+      "onboard_time": 1748868381,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216923,
@@ -2113,6 +2161,14 @@
       "onboard_time": 1748787201,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202506,
+      "num": 202506,
+      "word": "张杰签售会",
+      "onboard_time": 1748874682,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 202130,
@@ -2331,14 +2387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189596,
-      "num": 189596,
-      "word": "贾冰因戏减肥后不再打呼",
-      "onboard_time": 1748873722,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189507,
       "num": 189507,
       "word": "乡政府回应七旬老人捡烟花被崩伤",
@@ -2417,14 +2465,6 @@
       "onboard_time": 1748781801,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 186004,
-      "num": 186004,
-      "word": "王安宇撕拉片",
-      "onboard_time": 1748873662,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 185769,
@@ -2564,7 +2604,7 @@
     },
     {
       "raw_hot": 180919,
-      "num": 180919,
+      "num": 254337,
       "word": "俄州长宣布奖励向乌无人机投石民众",
       "onboard_time": 1748873902,
       "rank": 34,
@@ -3347,6 +3387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143697,
+      "num": 143697,
+      "word": "陈梦妈妈没想到女儿巴黎奥运夺冠",
+      "onboard_time": 1748874982,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142894,
       "num": 142894,
       "word": "临江仙广播剧",
@@ -3612,7 +3660,7 @@
     },
     {
       "raw_hot": 134653,
-      "num": 134653,
+      "num": 136412,
       "word": "经销商关店80多辆电动车被远程锁死",
       "onboard_time": 1748874082,
       "rank": 45,
@@ -3729,6 +3777,14 @@
       "onboard_time": 1748706021,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131996,
+      "num": 131996,
+      "word": "官鸿近照状态变化",
+      "onboard_time": 1748872041,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 131971,
@@ -4035,14 +4091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122206,
-      "num": 245521,
-      "word": "舟山东极岛等多个海岛游客反映被困",
-      "onboard_time": 1748868381,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122015,
       "num": 235581,
       "word": "湖南机场集团董事长涉性侵案职务撤下",
@@ -4227,6 +4275,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 117281,
+      "num": 117281,
+      "word": "高考时间",
+      "onboard_time": 1748875162,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117196,
       "num": 117196,
       "word": "西双版纳3.6级地震",
@@ -4385,14 +4441,6 @@
       "onboard_time": 1748836700,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112349,
-      "num": 112349,
-      "word": "官鸿近照状态变化",
-      "onboard_time": 1748872041,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 112204,
@@ -5347,6 +5395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92470,
+      "num": 140989,
+      "word": "俄乌二轮谈判结束后泽连斯基发声",
+      "onboard_time": 1748875522,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92435,
       "num": 250154,
       "word": "幼童从列车和站台间隙掉入高铁股道",
@@ -5409,6 +5465,14 @@
       "onboard_time": 1748835560,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90994,
+      "num": 268142,
+      "word": "当地回应不惜一切清理张家界溶洞垃圾",
+      "onboard_time": 1748874982,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90841,
