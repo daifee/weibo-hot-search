@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748861195947,
+  "endTime": 1748863412415,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -25,6 +25,22 @@
       "onboard_time": 1748787802,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1881594,
+      "num": 300668,
+      "word": "迪丽热巴撕拉片",
+      "onboard_time": 1748861061,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1743899,
+      "num": 1743899,
+      "word": "何秋亊方向汪苏泷道歉",
+      "onboard_time": 1748859800,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1615973,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 1255686,
-      "num": 243837,
+      "num": 280672,
       "word": "杨幂私下超爱给谢依霖晒小糯米",
       "onboard_time": 1748843300,
       "rank": 10,
@@ -171,12 +187,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1100277,
-      "num": 1100277,
-      "word": "何秋亊方向汪苏泷道歉",
-      "onboard_time": 1748859800,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 1105383,
+      "num": 1105383,
+      "word": "面具人真是赵秉文",
+      "onboard_time": 1748860639,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1081520,
+      "num": 1081520,
+      "word": "尾号0000000手机号拍出61.2万",
+      "onboard_time": 1748859080,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1024126,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 715357,
-      "num": 246435,
+      "num": 286764,
       "word": "女童回家被陌生男子拖进小巷",
       "onboard_time": 1748849839,
       "rank": 23,
@@ -568,14 +592,6 @@
       "word": "在哈佛演讲中国女生陷入两难",
       "onboard_time": 1748763020,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 511855,
-      "num": 511855,
-      "word": "尾号0000000手机号拍出61.2万",
-      "onboard_time": 1748859080,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1035,12 +1051,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 324436,
-      "num": 324436,
-      "word": "面具人真是赵秉文",
-      "onboard_time": 1748860639,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 326641,
+      "num": 326641,
+      "word": "女子立遗嘱为4只宠物狗预留十多万",
+      "onboard_time": 1748860040,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322423,
@@ -1411,11 +1427,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262614,
+      "num": 262614,
+      "word": "电视剧四十七",
+      "onboard_time": 1748859379,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 260492,
+      "num": 260492,
+      "word": "撕拉片",
+      "onboard_time": 1748862201,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259847,
       "num": 259847,
       "word": "藏海找到癸玺了",
       "onboard_time": 1748756900,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 259371,
+      "num": 259371,
+      "word": "第三人",
+      "onboard_time": 1748861840,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -1483,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248498,
+      "num": 248498,
+      "word": "刘亦菲阿布扎比9宫格",
+      "onboard_time": 1748859319,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248021,
       "num": 228201,
       "word": "恋与深空",
@@ -1531,6 +1579,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 240122,
+      "num": 240122,
+      "word": "张家界溶洞垃圾已清运2.7吨",
+      "onboard_time": 1748858900,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238044,
       "num": 238044,
       "word": "藏海传灯塔分时破千万",
@@ -1553,22 +1609,6 @@
       "onboard_time": 1748821457,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237181,
-      "num": 237181,
-      "word": "张家界溶洞垃圾已清运2.7吨",
-      "onboard_time": 1748858900,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 236984,
-      "num": 236984,
-      "word": "刘亦菲阿布扎比9宫格",
-      "onboard_time": 1748859319,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 235704,
@@ -1817,6 +1857,14 @@
       "onboard_time": 1748856141,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203052,
+      "num": 203052,
+      "word": "张凌赫胶片",
+      "onboard_time": 1748858239,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 202960,
@@ -2179,14 +2227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181615,
-      "num": 181615,
-      "word": "电视剧四十七",
-      "onboard_time": 1748859379,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181569,
       "num": 237611,
       "word": "发条微博祝自己节日快乐",
@@ -2435,14 +2475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165092,
-      "num": 165092,
-      "word": "迪丽热巴撕拉片",
-      "onboard_time": 1748861061,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164943,
       "num": 155026,
       "word": "惠英红老师准备好 新商务来了",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1748733857,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 164207,
+      "num": 310437,
+      "word": "西藏丁青县山体滑坡3死7失联",
+      "onboard_time": 1748862260,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163841,
@@ -2747,14 +2787,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 150186,
-      "num": 150186,
-      "word": "张凌赫胶片",
-      "onboard_time": 1748858239,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149906,
       "num": 149906,
       "word": "陈梦是李嘉格母女的金牌调解员",
@@ -2785,6 +2817,14 @@
       "onboard_time": 1748753240,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148881,
+      "num": 148881,
+      "word": "美国企业想买中国制造也得排队了",
+      "onboard_time": 1748861360,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148603,
@@ -2873,6 +2913,14 @@
       "onboard_time": 1748780060,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144053,
+      "num": 144053,
+      "word": "中国女老板再次拒绝美国PUA",
+      "onboard_time": 1748860941,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144010,
@@ -3139,14 +3187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133694,
-      "num": 234086,
-      "word": "女子立遗嘱为4只宠物狗预留十多万",
-      "onboard_time": 1748860040,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133661,
       "num": 133661,
       "word": "赵丽颖眼光果然毒辣",
@@ -3353,6 +3393,14 @@
       "onboard_time": 1748756181,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 125805,
+      "num": 166546,
+      "word": "陷入我们的热恋15",
+      "onboard_time": 1748862439,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 125407,
@@ -3643,6 +3691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117165,
+      "num": 117165,
+      "word": "6月1日至25日开展入户调查工作",
+      "onboard_time": 1748863101,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116934,
       "num": 116934,
       "word": "王楚钦说等我们见面一起玩",
@@ -3737,6 +3793,14 @@
       "onboard_time": 1748784083,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114170,
+      "num": 114170,
+      "word": "高芙晋级法网八强",
+      "onboard_time": 1748862381,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 113897,
@@ -4003,6 +4067,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106772,
+      "num": 106772,
+      "word": "难怪曹公公动不动就办家宴",
+      "onboard_time": 1748860881,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106461,
+      "num": 106461,
+      "word": "西藏丁青县山体滑坡仍有7人失联",
+      "onboard_time": 1748862381,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106354,
       "num": 97740,
       "word": "有些化妆品会让你越来越黑",
@@ -4105,14 +4185,6 @@
       "onboard_time": 1748790501,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 104342,
-      "num": 104342,
-      "word": "中国女老板再次拒绝美国PUA",
-      "onboard_time": 1748860941,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104248,
@@ -4459,6 +4531,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 96946,
+      "num": 96946,
+      "word": "江苏十三太保把足球踢出圈",
+      "onboard_time": 1748861420,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96908,
       "num": 96908,
       "word": "京东宣布将扩招外卖全职骑手至15万名",
@@ -4673,14 +4753,6 @@
       "onboard_time": 1748858841,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92216,
-      "num": 92216,
-      "word": "难怪曹公公动不动就办家宴",
-      "onboard_time": 1748860881,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 92028,
@@ -4979,6 +5051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83686,
+      "num": 83686,
+      "word": "日本民众为抢购大米凌晨排起长队",
+      "onboard_time": 1748863221,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83585,
       "num": 83585,
       "word": "白鹿曾舜晞唱出端午仪式感",
@@ -5017,6 +5097,14 @@
       "onboard_time": 1748856500,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 82312,
+      "num": 82312,
+      "word": "学员匿名举报教练骚扰后怀疑店长泄密",
+      "onboard_time": 1748862920,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81571,
@@ -5379,6 +5467,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 68432,
+      "num": 315363,
+      "word": "美国人应对美元贬值要用金银买东西",
+      "onboard_time": 1748837000,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67274,
+      "num": 117401,
+      "word": "指甲上的竖纹是正常的吗",
+      "onboard_time": 1748863280,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 66656,
       "num": 206211,
       "word": "庆祝人类拥有电视100年",
@@ -5672,6 +5776,14 @@
       "word": "我国超大规模新能源接入大电网",
       "onboard_time": 1748844981,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50297,
+      "num": 189090,
+      "word": "假期找不到旅游搭子的中年人",
+      "onboard_time": 1748862439,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -5995,6 +6107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36001,
+      "num": 1108506,
+      "word": "全国多地开启返程模式",
+      "onboard_time": 1748859621,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33681,
       "num": 251162,
       "word": "香会现场中国少将强硬回应",
@@ -6121,14 +6241,6 @@
       "onboard_time": 1748738118,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30171,
-      "num": 820697,
-      "word": "全国多地开启返程模式",
-      "onboard_time": 1748859621,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29569,
@@ -6313,6 +6425,14 @@
       "onboard_time": 1748790082,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24590,
+      "num": 166411,
+      "word": "如何快速找回遗落高铁的行李",
+      "onboard_time": 1748863042,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 24455,
@@ -6718,6 +6838,9 @@
     },
     {
       "word": "#习近平总书记关心小朋友们健康成长#"
+    },
+    {
+      "word": "#习近平挂念这块隋碑40余年#"
     }
   ]
 }
