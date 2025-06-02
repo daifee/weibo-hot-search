@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748882035675,
+  "endTime": 1748883077558,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -1091,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372189,
+      "num": 372189,
+      "word": "蒯铎十年前是必死之局",
+      "onboard_time": 1748879541,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370290,
       "num": 370290,
       "word": "藏海传收视率",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1748757320,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289159,
-      "num": 289159,
-      "word": "蒯铎十年前是必死之局",
-      "onboard_time": 1748879541,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 287648,
@@ -2923,6 +2923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 168494,
+      "num": 168494,
+      "word": "宋雨琦带千人开场真热血番",
+      "onboard_time": 1748878700,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167479,
       "num": 167479,
       "word": "六一",
@@ -3136,14 +3144,6 @@
       "word": "陈志朋首个古偶演技全通艺员",
       "onboard_time": 1748759840,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 155979,
-      "num": 155979,
-      "word": "宋雨琦带千人开场真热血番",
-      "onboard_time": 1748878700,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -6067,6 +6067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 75552,
+      "num": 75552,
+      "word": "中山漫展",
+      "onboard_time": 1748879241,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 75222,
       "num": 151331,
       "word": "风箫ccd镜头下的他们",
@@ -6601,6 +6609,14 @@
       "onboard_time": 1748834420,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 51107,
+      "num": 51107,
+      "word": "瑞典环保少女搭乘援助船前往加沙",
+      "onboard_time": 1748882238,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50887,
