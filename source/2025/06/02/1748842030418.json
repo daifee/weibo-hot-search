@@ -1,0 +1,410 @@
+{
+  "runTime": 1748842030418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 963138,
+        "num": 1154102,
+        "word": "司机缺氧离世有5个上学孩子",
+        "onboard_time": 1748838621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804297,
+        "num": 804297,
+        "word": "藏海传面具人身份终于揭秘",
+        "onboard_time": 1748834779,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38186,
+        "num": 634992,
+        "word": "天问二号问天之旅第一站拜访谁",
+        "onboard_time": 1748834420,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1150707,
+        "num": 577452,
+        "word": "蔡徐坤洛杉矶音乐节舞台",
+        "onboard_time": 1748840960,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 517674,
+        "num": 517674,
+        "word": "缺氧离世卡车司机已下葬卡友发声",
+        "onboard_time": 1748837299,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407893,
+        "num": 407893,
+        "word": "吃辣能力会退化",
+        "onboard_time": 1748835740,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 665858,
+        "num": 407543,
+        "word": "张婧仪无法出戏",
+        "onboard_time": 1748838741,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367824,
+        "num": 367824,
+        "word": "金价上冲",
+        "onboard_time": 1748836040,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 344382,
+        "num": 344382,
+        "word": "乌方袭击俄机场画面曝光",
+        "onboard_time": 1748834061,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331862,
+        "num": 331862,
+        "word": "苏晓彤复刻永夜星河大婚造型",
+        "onboard_time": 1748840060,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 965917,
+        "num": 331107,
+        "word": "章子怡晒女儿儿子",
+        "onboard_time": 1748840781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104802,
+        "num": 330537,
+        "word": "4万多年前中国古人类向东南亚传播技术",
+        "onboard_time": 1748840601,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 896155,
+        "num": 329028,
+        "word": "贾冰减肥成功瘦到脱相",
+        "onboard_time": 1748827459,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722292,
+        "num": 328674,
+        "word": "印度富人的家庭晚餐",
+        "onboard_time": 1748838260,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 630996,
+        "num": 327480,
+        "word": "王晓晨被传婚讯后首露面",
+        "onboard_time": 1748839160,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518835,
+        "num": 325980,
+        "word": "雷坤也是当上站哥了",
+        "onboard_time": 1748840901,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 445389,
+        "num": 324896,
+        "word": "霉霉和赛琳娜聚餐",
+        "onboard_time": 1748838621,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79543,
+        "num": 324179,
+        "word": "魏晨的松弛感是领克900给的",
+        "onboard_time": 1748840781,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323725,
+        "num": 323725,
+        "word": "上海警方通报迪士尼打架事件",
+        "onboard_time": 1748787802,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 222029,
+        "num": 222029,
+        "word": "印度男子泰国景区摸老虎屁股遭扑咬",
+        "onboard_time": 1748833821,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204916,
+        "num": 204916,
+        "word": "陶喆被热到演唱会只穿背心",
+        "onboard_time": 1748841020,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188152,
+        "num": 188152,
+        "word": "曾舜晞新剧被前妻做局了",
+        "onboard_time": 1748833159,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186915,
+        "num": 186915,
+        "word": "花两千买苹果15被说一眼假",
+        "onboard_time": 1748824999,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183801,
+        "num": 183801,
+        "word": "2025KPL夏季赛定妆照",
+        "onboard_time": 1748840781,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165533,
+        "num": 165533,
+        "word": "临江仙定档",
+        "onboard_time": 1748829679,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163031,
+        "num": 163031,
+        "word": "川菜是抗炎作用最强的菜系",
+        "onboard_time": 1748835199,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 156498,
+        "num": 156498,
+        "word": "柳岩因卡鱼刺进了医院",
+        "onboard_time": 1748829081,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144138,
+        "num": 144138,
+        "word": "严浩翔万妮达战队海报",
+        "onboard_time": 1748837600,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139717,
+        "num": 139717,
+        "word": "九门尹新月扮演者",
+        "onboard_time": 1748824098,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25094,
+        "num": 136029,
+        "word": "高考前最后一次班会",
+        "onboard_time": 1748841561,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134038,
+        "num": 134038,
+        "word": "以为是古偶仙侠结果是离婚大战",
+        "onboard_time": 1748838439,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133718,
+        "num": 133718,
+        "word": "吴谨言王星越墨雨云间开播一周年发文",
+        "onboard_time": 1748832919,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132917,
+        "num": 132917,
+        "word": "火了半年的哪吒又萌出新高度了",
+        "onboard_time": 1748841680,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118858,
+        "num": 118858,
+        "word": "患者服临床试验抗癌药致重症肺炎",
+        "onboard_time": 1748835260,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 115319,
+        "num": 115319,
+        "word": "高反缺氧去世卡友已回老家下葬",
+        "onboard_time": 1748837841,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113102,
+        "num": 113102,
+        "word": "雨果12秒复原三阶魔方",
+        "onboard_time": 1748840660,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112612,
+        "num": 112612,
+        "word": "菲律宾防长居然说中国记者是特工",
+        "onboard_time": 1748836819,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111448,
+        "num": 111448,
+        "word": "白鹿祝小酒窝生日快乐",
+        "onboard_time": 1748837960,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39830,
+        "num": 109971,
+        "word": "酒精在人体内消化吸收的过程",
+        "onboard_time": 1748840001,
+        "rank": 38,
+        "category": "科学科普,民生新闻"
+      },
+      {
+        "raw_hot": 103981,
+        "num": 109046,
+        "word": "皮筋猴男团出道曲皮筋斩棘",
+        "onboard_time": 1748840481,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108574,
+        "num": 108574,
+        "word": "六月好运星座",
+        "onboard_time": 1748837120,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108533,
+        "num": 108533,
+        "word": "俄罗斯民众英勇拦截乌克兰无人机",
+        "onboard_time": 1748841861,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108295,
+        "num": 108295,
+        "word": "王以太想和单依纯合作",
+        "onboard_time": 1748840121,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96344,
+        "num": 107630,
+        "word": "返程路上发现被藏海传包围了",
+        "onboard_time": 1748840555,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105057,
+        "num": 107571,
+        "word": "四室改两室的家",
+        "onboard_time": 1748834540,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 107571,
+        "num": 107570,
+        "word": "白鹿新剧夜会情郎",
+        "onboard_time": 1748841979,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105758,
+        "num": 105758,
+        "word": "张家界一溶洞垃圾堆至7层楼高",
+        "onboard_time": 1748841801,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103761,
+        "num": 103761,
+        "word": "演员3都把演员调成什么样了",
+        "onboard_time": 1748841801,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104370,
+        "num": 100496,
+        "word": "新说唱2025",
+        "onboard_time": 1748833039,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96687,
+        "num": 96687,
+        "word": "金价",
+        "onboard_time": 1748839880,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的自信之基力量之源#"
+    }
+  }
+}

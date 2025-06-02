@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748839935468,
+  "endTime": 1748842030418,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -131,6 +131,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 1150707,
+      "num": 577452,
+      "word": "蔡徐坤洛杉矶音乐节舞台",
+      "onboard_time": 1748840960,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1147442,
       "num": 446555,
       "word": "沈梦辰被资本做局了",
@@ -161,6 +169,22 @@
       "onboard_time": 1748746100,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 965917,
+      "num": 331107,
+      "word": "章子怡晒女儿儿子",
+      "onboard_time": 1748840781,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 963138,
+      "num": 1154102,
+      "word": "司机缺氧离世有5个上学孩子",
+      "onboard_time": 1748838621,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 943117,
@@ -267,6 +291,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 722292,
+      "num": 328674,
+      "word": "印度富人的家庭晚餐",
+      "onboard_time": 1748838260,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 698578,
       "num": 698578,
       "word": "张萌签约王星",
@@ -289,6 +321,14 @@
       "onboard_time": 1748767940,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 665858,
+      "num": 407543,
+      "word": "张婧仪无法出戏",
+      "onboard_time": 1748838741,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 658988,
@@ -337,6 +377,14 @@
       "onboard_time": 1748833159,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 630996,
+      "num": 327480,
+      "word": "王晓晨被传婚讯后首露面",
+      "onboard_time": 1748839160,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 621751,
@@ -425,6 +473,14 @@
       "onboard_time": 1748738299,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 518835,
+      "num": 325980,
+      "word": "雷坤也是当上站哥了",
+      "onboard_time": 1748840901,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 517367,
@@ -667,14 +723,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 377850,
-      "num": 377850,
-      "word": "张婧仪无法出戏",
-      "onboard_time": 1748838741,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 374632,
       "num": 312896,
       "word": "包贝尔包文婧儿子满月",
@@ -779,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331862,
+      "num": 331862,
+      "word": "苏晓彤复刻永夜星河大婚造型",
+      "onboard_time": 1748840060,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327326,
       "num": 258038,
       "word": "月都花落 杨洋",
@@ -825,14 +881,6 @@
       "onboard_time": 1748773040,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 313878,
-      "num": 313878,
-      "word": "印度富人的家庭晚餐",
-      "onboard_time": 1748838260,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 313422,
@@ -1243,14 +1291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237290,
-      "num": 368059,
-      "word": "司机缺氧离世有5个上学孩子",
-      "onboard_time": 1748838621,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
@@ -1419,6 +1459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 204916,
+      "num": 204916,
+      "word": "陶喆被热到演唱会只穿背心",
+      "onboard_time": 1748841020,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204661,
       "num": 204661,
       "word": "老祖宗的审美才是高定奢侈品",
@@ -1481,14 +1529,6 @@
       "onboard_time": 1748706320,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 196879,
-      "num": 196879,
-      "word": "王晓晨被传婚讯后首露面",
-      "onboard_time": 1748839160,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 196645,
@@ -1697,6 +1737,14 @@
       "onboard_time": 1748774422,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 183801,
+      "num": 183801,
+      "word": "2025KPL夏季赛定妆照",
+      "onboard_time": 1748840781,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 183737,
@@ -2539,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132917,
+      "num": 132917,
+      "word": "火了半年的哪吒又萌出新高度了",
+      "onboard_time": 1748841680,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132909,
       "num": 132909,
       "word": "博士很有用的",
@@ -2939,6 +2995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115319,
+      "num": 115319,
+      "word": "高反缺氧去世卡友已回老家下葬",
+      "onboard_time": 1748837841,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115137,
       "num": 115137,
       "word": "郑钦文罗兰加洛斯10连胜",
@@ -2993,6 +3057,14 @@
       "onboard_time": 1748786481,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113102,
+      "num": 113102,
+      "word": "雨果12秒复原三阶魔方",
+      "onboard_time": 1748840660,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 112391,
@@ -3115,6 +3187,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 108533,
+      "num": 108533,
+      "word": "俄罗斯民众英勇拦截乌克兰无人机",
+      "onboard_time": 1748841861,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108393,
       "num": 108393,
       "word": "魏晨玫瑰音乐节",
@@ -3123,11 +3203,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108295,
+      "num": 108295,
+      "word": "王以太想和单依纯合作",
+      "onboard_time": 1748840121,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107663,
       "num": 107663,
       "word": "在人间永不失联的爱",
       "onboard_time": 1748784021,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107571,
+      "num": 107570,
+      "word": "白鹿新剧夜会情郎",
+      "onboard_time": 1748841979,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -3211,6 +3307,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 105758,
+      "num": 105758,
+      "word": "张家界一溶洞垃圾堆至7层楼高",
+      "onboard_time": 1748841801,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105223,
       "num": 105223,
       "word": "杜兰特真会投资",
@@ -3233,6 +3337,14 @@
       "onboard_time": 1748837720,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104802,
+      "num": 330537,
+      "word": "4万多年前中国古人类向东南亚传播技术",
+      "onboard_time": 1748840601,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104789,
@@ -3267,12 +3379,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103981,
+      "num": 109046,
+      "word": "皮筋猴男团出道曲皮筋斩棘",
+      "onboard_time": 1748840481,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103803,
       "num": 103803,
       "word": "起猛了看见机器人踢足球了",
       "onboard_time": 1748767400,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103761,
+      "num": 103761,
+      "word": "演员3都把演员调成什么样了",
+      "onboard_time": 1748841801,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 103474,
@@ -3513,6 +3641,14 @@
       "onboard_time": 1748697321,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96344,
+      "num": 107630,
+      "word": "返程路上发现被藏海传包围了",
+      "onboard_time": 1748840555,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 96313,
@@ -3953,6 +4089,14 @@
       "onboard_time": 1748831119,
       "rank": 44,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 79543,
+      "num": 324179,
+      "word": "魏晨的松弛感是领克900给的",
+      "onboard_time": 1748840781,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 79232,
@@ -4452,7 +4596,7 @@
     },
     {
       "raw_hot": 51420,
-      "num": 518436,
+      "num": 634992,
       "word": "天问二号问天之旅第一站拜访谁",
       "onboard_time": 1748834420,
       "rank": 2,
@@ -4673,6 +4817,14 @@
       "onboard_time": 1748701222,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 39830,
+      "num": 109971,
+      "word": "酒精在人体内消化吸收的过程",
+      "onboard_time": 1748840001,
+      "rank": 38,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 39748,
@@ -4977,6 +5129,14 @@
       "onboard_time": 1748715435,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25094,
+      "num": 136029,
+      "word": "高考前最后一次班会",
+      "onboard_time": 1748841561,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24610,
