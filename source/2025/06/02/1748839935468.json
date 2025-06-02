@@ -1,0 +1,410 @@
+{
+  "runTime": 1748839935468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 977900,
+        "num": 1156464,
+        "word": "藏海传面具人身份终于揭秘",
+        "onboard_time": 1748834779,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558235,
+        "num": 558235,
+        "word": "缺氧离世卡车司机已下葬卡友发声",
+        "onboard_time": 1748837299,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48286,
+        "num": 518436,
+        "word": "天问二号问天之旅第一站拜访谁",
+        "onboard_time": 1748834420,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 485137,
+        "num": 485137,
+        "word": "吃辣能力会退化",
+        "onboard_time": 1748835740,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 443589,
+        "num": 443589,
+        "word": "乌方袭击俄机场画面曝光",
+        "onboard_time": 1748834061,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 414516,
+        "num": 414516,
+        "word": "金价上冲",
+        "onboard_time": 1748836040,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 377850,
+        "num": 377850,
+        "word": "张婧仪无法出戏",
+        "onboard_time": 1748838741,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327096,
+        "num": 375201,
+        "word": "曾舜晞新剧被前妻做局了",
+        "onboard_time": 1748833159,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295528,
+        "num": 371455,
+        "word": "柳岩因卡鱼刺进了医院",
+        "onboard_time": 1748829081,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237290,
+        "num": 368059,
+        "word": "司机缺氧离世有5个上学孩子",
+        "onboard_time": 1748838621,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 920970,
+        "num": 364430,
+        "word": "贾冰减肥成功瘦到脱相",
+        "onboard_time": 1748827459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469977,
+        "num": 360982,
+        "word": "霉霉和赛琳娜聚餐",
+        "onboard_time": 1748838621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360219,
+        "num": 360219,
+        "word": "上海警方通报迪士尼打架事件",
+        "onboard_time": 1748787802,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 355137,
+        "num": 355137,
+        "word": "印度男子泰国景区摸老虎屁股遭扑咬",
+        "onboard_time": 1748833821,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313878,
+        "num": 313878,
+        "word": "印度富人的家庭晚餐",
+        "onboard_time": 1748838260,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 253962,
+        "num": 253962,
+        "word": "花两千买苹果15被说一眼假",
+        "onboard_time": 1748824999,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239235,
+        "num": 239235,
+        "word": "患者服临床试验抗癌药致重症肺炎",
+        "onboard_time": 1748835260,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 237869,
+        "num": 237869,
+        "word": "吴谨言王星越墨雨云间开播一周年发文",
+        "onboard_time": 1748832919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225486,
+        "num": 225486,
+        "word": "临江仙定档",
+        "onboard_time": 1748829679,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46533,
+        "num": 206875,
+        "word": "如何通过睡姿缓解腰背痛",
+        "onboard_time": 1748838981,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 196879,
+        "num": 196879,
+        "word": "王晓晨被传婚讯后首露面",
+        "onboard_time": 1748839160,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191673,
+        "num": 191673,
+        "word": "新说唱2025",
+        "onboard_time": 1748833039,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187188,
+        "num": 187188,
+        "word": "九门尹新月扮演者",
+        "onboard_time": 1748824098,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185591,
+        "num": 185591,
+        "word": "川菜是抗炎作用最强的菜系",
+        "onboard_time": 1748835199,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172272,
+        "num": 172272,
+        "word": "严浩翔万妮达战队海报",
+        "onboard_time": 1748837600,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165392,
+        "num": 165392,
+        "word": "四室改两室的家",
+        "onboard_time": 1748834540,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 160192,
+        "num": 160192,
+        "word": "以为是古偶仙侠结果是离婚大战",
+        "onboard_time": 1748838439,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150839,
+        "num": 150839,
+        "word": "谈恋爱真的得找个大方的",
+        "onboard_time": 1748819897,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147890,
+        "num": 150593,
+        "word": "仙侠版再见爱人来了",
+        "onboard_time": 1748839519,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21837,
+        "num": 150470,
+        "word": "非遗才是高定奢侈品",
+        "onboard_time": 1748839160,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150458,
+        "num": 150458,
+        "word": "菲律宾防长居然说中国记者是特工",
+        "onboard_time": 1748836819,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130945,
+        "num": 130945,
+        "word": "白鹿祝小酒窝生日快乐",
+        "onboard_time": 1748837960,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129278,
+        "num": 129278,
+        "word": "小莫说樊振东球打得好人更好",
+        "onboard_time": 1748828360,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124754,
+        "num": 124754,
+        "word": "创新药大跌",
+        "onboard_time": 1748838981,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112645,
+        "num": 112645,
+        "word": "六月好运星座",
+        "onboard_time": 1748837120,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111803,
+        "num": 111803,
+        "word": "二十多岁了谭薇的声音还在哄我",
+        "onboard_time": 1748836881,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122724,
+        "num": 109642,
+        "word": "白鹿新剧预告古装版致命女人",
+        "onboard_time": 1748839400,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107065,
+        "num": 107065,
+        "word": "爸爸当家慢享季",
+        "onboard_time": 1748839822,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80532,
+        "num": 106909,
+        "word": "韩国人到底吃不吃得起肉",
+        "onboard_time": 1748837179,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106828,
+        "num": 106828,
+        "word": "肖战演活了藏海",
+        "onboard_time": 1748836700,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106108,
+        "num": 106108,
+        "word": "严浩翔通杀这赛季",
+        "onboard_time": 1748833039,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103444,
+        "num": 103444,
+        "word": "金价",
+        "onboard_time": 1748839880,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103144,
+        "num": 103144,
+        "word": "郑钦文发现小蜜蜂误入赛场反应暖心",
+        "onboard_time": 1748835920,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100067,
+        "num": 102802,
+        "word": "邓紫棋悬着的心终于死了",
+        "onboard_time": 1748833821,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102526,
+        "num": 102526,
+        "word": "警惕美国资助反华NGO新手段",
+        "onboard_time": 1748839760,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101424,
+        "num": 101424,
+        "word": "光与夜之恋",
+        "onboard_time": 1748827699,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96313,
+        "num": 96313,
+        "word": "外国游客因日本大地震预言取消行程",
+        "onboard_time": 1748839880,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93442,
+        "num": 95034,
+        "word": "十二星座一周运势",
+        "onboard_time": 1748838081,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91798,
+        "num": 94998,
+        "word": "绝对不会掉娃娃的方法",
+        "onboard_time": 1748838621,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94982,
+        "num": 94982,
+        "word": "郑钦文法网对阵萨巴伦卡",
+        "onboard_time": 1748834839,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#这是我们的自信之基力量之源#"
+    }
+  }
+}

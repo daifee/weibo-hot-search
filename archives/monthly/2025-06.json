@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748838971269,
+  "endTime": 1748839935468,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1535331,
-      "num": 290860,
+      "num": 364430,
       "word": "贾冰减肥成功瘦到脱相",
       "onboard_time": 1748827459,
       "rank": 10,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 633623,
-      "num": 352740,
+      "num": 375201,
       "word": "曾舜晞新剧被前妻做局了",
       "onboard_time": 1748833159,
       "rank": 6,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558235,
+      "num": 558235,
+      "word": "缺氧离世卡车司机已下葬卡友发声",
+      "onboard_time": 1748837299,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 554863,
       "num": 554863,
       "word": "日不落",
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 504276,
-      "num": 289887,
+      "num": 355137,
       "word": "印度男子泰国景区摸老虎屁股遭扑咬",
       "onboard_time": 1748833821,
       "rank": 13,
@@ -465,6 +473,14 @@
       "onboard_time": 1748829081,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 485137,
+      "num": 485137,
+      "word": "吃辣能力会退化",
+      "onboard_time": 1748835740,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 480224,
@@ -497,6 +513,14 @@
       "onboard_time": 1748751681,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469977,
+      "num": 360982,
+      "word": "霉霉和赛琳娜聚餐",
+      "onboard_time": 1748838621,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 466556,
@@ -563,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 414516,
+      "num": 414516,
+      "word": "金价上冲",
+      "onboard_time": 1748836040,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 404107,
       "num": 404107,
       "word": "孙颖莎云见面会",
@@ -619,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 389663,
-      "num": 389663,
-      "word": "吃辣能力会退化",
-      "onboard_time": 1748835740,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 380417,
       "num": 172196,
       "word": "女装这种设计的意义在于没有意义",
@@ -641,6 +665,14 @@
       "onboard_time": 1748781861,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 377850,
+      "num": 377850,
+      "word": "张婧仪无法出戏",
+      "onboard_time": 1748838741,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 374632,
@@ -665,14 +697,6 @@
       "onboard_time": 1748787562,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 356487,
-      "num": 356487,
-      "word": "金价上冲",
-      "onboard_time": 1748836040,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 353219,
@@ -801,6 +825,14 @@
       "onboard_time": 1748773040,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313878,
+      "num": 313878,
+      "word": "印度富人的家庭晚餐",
+      "onboard_time": 1748838260,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 313422,
@@ -1083,14 +1115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262909,
-      "num": 262909,
-      "word": "霉霉和赛琳娜聚餐",
-      "onboard_time": 1748838621,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259847,
       "num": 259847,
       "word": "藏海找到癸玺了",
@@ -1219,20 +1243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237290,
+      "num": 368059,
+      "word": "司机缺氧离世有5个上学孩子",
+      "onboard_time": 1748838621,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
       "onboard_time": 1748733918,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229410,
-      "num": 291674,
-      "word": "缺氧离世卡车司机已下葬卡友发声",
-      "onboard_time": 1748837299,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225853,
@@ -1459,6 +1483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 196879,
+      "num": 196879,
+      "word": "王晓晨被传婚讯后首露面",
+      "onboard_time": 1748839160,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196645,
       "num": 212383,
       "word": "藏海被庄之行骗了",
@@ -1512,14 +1544,6 @@
       "word": "以为是古偶仙侠结果是离婚大战",
       "onboard_time": 1748838439,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193262,
-      "num": 193262,
-      "word": "张婧仪无法出戏",
-      "onboard_time": 1748838741,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1923,14 +1947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165129,
-      "num": 165129,
-      "word": "印度富人的家庭晚餐",
-      "onboard_time": 1748838260,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 164943,
       "num": 155026,
       "word": "惠英红老师准备好 新商务来了",
@@ -2057,14 +2073,6 @@
       "onboard_time": 1748750660,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157617,
-      "num": 157617,
-      "word": "司机缺氧离世有5个上学孩子",
-      "onboard_time": 1748838621,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157346,
@@ -2241,6 +2249,14 @@
       "onboard_time": 1748827459,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147890,
+      "num": 150593,
+      "word": "仙侠版再见爱人来了",
+      "onboard_time": 1748839519,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 146396,
@@ -2715,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124754,
+      "num": 124754,
+      "word": "创新药大跌",
+      "onboard_time": 1748838981,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124503,
       "num": 124503,
       "word": "时全此刻比鬼还吓人",
@@ -2745,6 +2769,14 @@
       "onboard_time": 1748835439,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122724,
+      "num": 109642,
+      "word": "白鹿新剧预告古装版致命女人",
+      "onboard_time": 1748839400,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 122392,
@@ -3123,6 +3155,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 107065,
+      "num": 107065,
+      "word": "爸爸当家慢享季",
+      "onboard_time": 1748839822,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106827,
       "num": 106827,
       "word": "解锁床上玩手机正确姿势",
@@ -3243,6 +3283,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 103444,
+      "num": 103444,
+      "word": "金价",
+      "onboard_time": 1748839880,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103212,
       "num": 103212,
       "word": "有小语种导游档期已排到11月",
@@ -3289,6 +3337,14 @@
       "onboard_time": 1748753420,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102526,
+      "num": 102526,
+      "word": "警惕美国资助反华NGO新手段",
+      "onboard_time": 1748839760,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102126,
@@ -3459,6 +3515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96313,
+      "num": 96313,
+      "word": "外国游客因日本大地震预言取消行程",
+      "onboard_time": 1748839880,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96127,
       "num": 96127,
       "word": "等等小花给邓超拍封面",
@@ -3585,6 +3649,14 @@
       "onboard_time": 1748709499,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91798,
+      "num": 94998,
+      "word": "绝对不会掉娃娃的方法",
+      "onboard_time": 1748838621,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 91756,
@@ -4380,7 +4452,7 @@
     },
     {
       "raw_hot": 51420,
-      "num": 403940,
+      "num": 518436,
       "word": "天问二号问天之旅第一站拜访谁",
       "onboard_time": 1748834420,
       "rank": 2,
@@ -4441,6 +4513,14 @@
       "onboard_time": 1748783541,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46533,
+      "num": 206875,
+      "word": "如何通过睡姿缓解腰背痛",
+      "onboard_time": 1748838981,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 46405,
@@ -4969,6 +5049,14 @@
       "onboard_time": 1748777480,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21837,
+      "num": 150470,
+      "word": "非遗才是高定奢侈品",
+      "onboard_time": 1748839160,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21470,
