@@ -1,0 +1,410 @@
+{
+  "runTime": 1748879034236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1078584,
+        "num": 1172573,
+        "word": "夏天这种凉鞋易致孩子性早熟还有毒",
+        "onboard_time": 1748857701,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1005679,
+        "num": 1005679,
+        "word": "贾冰因戏减肥后不再打呼",
+        "onboard_time": 1748873722,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60597,
+        "num": 723912,
+        "word": "端午经济成为消费活力新引擎",
+        "onboard_time": 1748872104,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580351,
+        "num": 580351,
+        "word": "洛杉矶奥运会樊振东对国乒不可或缺",
+        "onboard_time": 1748876661,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 518385,
+        "num": 518385,
+        "word": "工作人员回应漫展上2女童被指衣着暴露",
+        "onboard_time": 1748872761,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489541,
+        "num": 489541,
+        "word": "李在明喊出还差三票就赢得大选",
+        "onboard_time": 1748875283,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292080,
+        "num": 292080,
+        "word": "皇上藏海 我们好像在哪儿见过",
+        "onboard_time": 1748871022,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256717,
+        "num": 256717,
+        "word": "锦绣芳华",
+        "onboard_time": 1748866222,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242485,
+        "num": 242485,
+        "word": "男子网购牛奶整箱鼓包变质成豆腐渣",
+        "onboard_time": 1748876061,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105133,
+        "num": 242324,
+        "word": "警方通报10岁男孩儿童节前走失",
+        "onboard_time": 1748878102,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448490,
+        "num": 242290,
+        "word": "迪丽热巴撕拉片",
+        "onboard_time": 1748861061,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402939,
+        "num": 242024,
+        "word": "女童回家被陌生男子拖进小巷",
+        "onboard_time": 1748849839,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302521,
+        "num": 241857,
+        "word": "48岁妻子产子丈夫称孙子比儿子大3岁",
+        "onboard_time": 1748870121,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279084,
+        "num": 241595,
+        "word": "日本回应7月5日末日地震预言疯传",
+        "onboard_time": 1748871442,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85479,
+        "num": 241475,
+        "word": "苏超爆火没有省份抄得了作业",
+        "onboard_time": 1748873782,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241381,
+        "num": 241381,
+        "word": "面具人真是赵秉文",
+        "onboard_time": 1748860639,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223760,
+        "num": 223760,
+        "word": "鹿晗四巡",
+        "onboard_time": 1748873544,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210394,
+        "num": 210394,
+        "word": "澳门偶遇Angelababy拍摄",
+        "onboard_time": 1748870002,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207977,
+        "num": 207977,
+        "word": "广西4.1级地震",
+        "onboard_time": 1748871862,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202256,
+        "num": 202256,
+        "word": "王安宇撕拉片",
+        "onboard_time": 1748873662,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 843936,
+        "num": 195840,
+        "word": "何秋亊方向汪苏泷道歉",
+        "onboard_time": 1748859800,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406647,
+        "num": 193792,
+        "word": "普京底线被乌克兰撕开",
+        "onboard_time": 1748864180,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185274,
+        "num": 185274,
+        "word": "许其亮同志逝世",
+        "onboard_time": 1748863520,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184871,
+        "num": 184871,
+        "word": "山东10岁失联男孩确认溺水身亡",
+        "onboard_time": 1748874442,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183778,
+        "num": 183778,
+        "word": "电影女足",
+        "onboard_time": 1748870361,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163283,
+        "num": 163283,
+        "word": "薛之谦造型",
+        "onboard_time": 1748875941,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152494,
+        "num": 162341,
+        "word": "藏海一跪",
+        "onboard_time": 1748877861,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151120,
+        "num": 159225,
+        "word": "俄州长宣布奖励向乌无人机投石民众",
+        "onboard_time": 1748873902,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114032,
+        "num": 156907,
+        "word": "女足迪丽热巴杀青",
+        "onboard_time": 1748865801,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57453,
+        "num": 155604,
+        "word": "猎德龙舟征婚房东称1天加了1000人",
+        "onboard_time": 1748877982,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154554,
+        "num": 154554,
+        "word": "尾号0000000手机号拍出61.2万",
+        "onboard_time": 1748859080,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141009,
+        "num": 141009,
+        "word": "累点很低的人建议改掉6个习惯",
+        "onboard_time": 1748866761,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129221,
+        "num": 129221,
+        "word": "经销商关店80多辆电动车被远程锁死",
+        "onboard_time": 1748874082,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122517,
+        "num": 122517,
+        "word": "Bin 闹剧结束了",
+        "onboard_time": 1748864542,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111931,
+        "num": 111931,
+        "word": "藏海后面知道得多刀啊",
+        "onboard_time": 1748871261,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109190,
+        "num": 109190,
+        "word": "俄乌二轮谈判结束后泽连斯基发声",
+        "onboard_time": 1748875522,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106183,
+        "num": 106183,
+        "word": "高考时间",
+        "onboard_time": 1748875162,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105718,
+        "num": 105718,
+        "word": "宋雨琦带千人开场真热血番",
+        "onboard_time": 1748878700,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103474,
+        "num": 103474,
+        "word": "内娱多位男明星减肥成功",
+        "onboard_time": 1748869521,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101116,
+        "num": 101116,
+        "word": "绿发会回应涉蒋雨融争议",
+        "onboard_time": 1748868801,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100664,
+        "num": 100664,
+        "word": "张杰签售会",
+        "onboard_time": 1748874682,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93460,
+        "num": 93460,
+        "word": "河南安阳核查救助缺氧离世司机家庭",
+        "onboard_time": 1748876061,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93448,
+        "num": 93448,
+        "word": "德约科维奇vs诺里",
+        "onboard_time": 1748878641,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92070,
+        "num": 92070,
+        "word": "鞠婧祎撕拉片",
+        "onboard_time": 1748864061,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89915,
+        "num": 89915,
+        "word": "官鸿近照状态变化",
+        "onboard_time": 1748872041,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89843,
+        "num": 89843,
+        "word": "张凌赫撕拉片",
+        "onboard_time": 1748865200,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85602,
+        "num": 85602,
+        "word": "英国首相发表电视讲话",
+        "onboard_time": 1748876061,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85568,
+        "num": 85568,
+        "word": "维生素B竟然能缓解这么多小毛病",
+        "onboard_time": 1748854221,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84991,
+        "num": 84991,
+        "word": "头一次用震撼形容一个夜市",
+        "onboard_time": 1748878700,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84940,
+        "num": 84940,
+        "word": "nana民宿",
+        "onboard_time": 1748866340,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记品多彩非遗#"
+    }
+  }
+}
