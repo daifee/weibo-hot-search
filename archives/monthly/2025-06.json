@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748896939288,
+  "endTime": 1748899639822,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -7515,6 +7515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18718,
+      "num": 22441,
+      "word": "高明打藏海",
+      "onboard_time": 1748891894,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18529,
       "num": 122575,
       "word": "落水后如何自救",
@@ -7540,7 +7548,7 @@
     },
     {
       "raw_hot": 17348,
-      "num": 21635,
+      "num": 22143,
       "word": "藏海传登顶海外23国全面最畅销电视剧",
       "onboard_time": 1748887755,
       "rank": 48,
@@ -7563,6 +7571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17049,
+      "num": 22213,
+      "word": "三位歌手同日上海开唱",
+      "onboard_time": 1748896033,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 16880,
       "num": 115941,
       "word": "甘露醇能否作为常规肠道准备药物",
@@ -7577,6 +7593,14 @@
       "onboard_time": 1748860521,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15972,
+      "num": 22073,
+      "word": "白鹿抬剧速度",
+      "onboard_time": 1748894233,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 15954,
@@ -7601,14 +7625,6 @@
       "onboard_time": 1748849120,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15606,
-      "num": 21294,
-      "word": "高明打藏海",
-      "onboard_time": 1748891894,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 15469,
@@ -7675,22 +7691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13499,
-      "num": 14169,
-      "word": "白鹿抬剧速度",
-      "onboard_time": 1748894233,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 12817,
-      "num": 13978,
-      "word": "三位歌手同日上海开唱",
-      "onboard_time": 1748896033,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 12345,
       "num": 58252,
       "word": "9岁盲童的音乐会有暖心后续",
@@ -7739,7 +7739,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11532,
+      "raw_hot": 11628,
       "num": 14154,
       "word": "外卖诗人王计兵8月将发新书",
       "onboard_time": 1748895074,
@@ -7753,6 +7753,14 @@
       "onboard_time": 1748808313,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11355,
+      "num": 13355,
+      "word": "端午假期预计6.57亿人次跨区域流动",
+      "onboard_time": 1748897653,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10827,
