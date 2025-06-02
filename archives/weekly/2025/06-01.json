@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748879034236,
+  "endTime": 1748882035675,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -923,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418943,
+      "num": 418943,
+      "word": "榴莲价格出现腰斩",
+      "onboard_time": 1748879541,
+      "rank": 4,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 414516,
       "num": 414516,
       "word": "金价上冲",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1748866821,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355285,
+      "num": 355285,
+      "word": "藏海一跪",
+      "onboard_time": 1748877861,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 353219,
@@ -1491,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289159,
+      "num": 289159,
+      "word": "蒯铎十年前是必死之局",
+      "onboard_time": 1748879541,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287648,
       "num": 245380,
       "word": "第三人是内阁首辅石一平",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1748825240,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257162,
+      "num": 257162,
+      "word": "蒋雨融再回应哈佛演讲争议",
+      "onboard_time": 1748879781,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256136,
@@ -1913,6 +1945,14 @@
       "onboard_time": 1748771781,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 224721,
+      "num": 242324,
+      "word": "警方通报10岁男孩儿童节前走失",
+      "onboard_time": 1748878102,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224624,
@@ -3099,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155979,
+      "num": 155979,
+      "word": "宋雨琦带千人开场真热血番",
+      "onboard_time": 1748878700,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154667,
       "num": 154667,
       "word": "樊振东发文早安慕尼黑",
@@ -3193,14 +3241,6 @@
       "onboard_time": 1748774180,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 152494,
-      "num": 162341,
-      "word": "藏海一跪",
-      "onboard_time": 1748877861,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 152322,
@@ -4787,28 +4827,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105718,
-      "num": 105718,
-      "word": "宋雨琦带千人开场真热血番",
-      "onboard_time": 1748878700,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105223,
       "num": 105223,
       "word": "杜兰特真会投资",
       "onboard_time": 1748753300,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105133,
-      "num": 242324,
-      "word": "警方通报10岁男孩儿童节前走失",
-      "onboard_time": 1748878102,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105110,
@@ -5740,11 +5764,19 @@
     },
     {
       "raw_hot": 85602,
-      "num": 85602,
+      "num": 192749,
       "word": "英国首相发表电视讲话",
       "onboard_time": 1748876061,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85359,
+      "num": 85359,
+      "word": "头一次用震撼形容一个夜市",
+      "onboard_time": 1748878700,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85252,
@@ -5753,14 +5785,6 @@
       "onboard_time": 1748735538,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 84991,
-      "num": 84991,
-      "word": "头一次用震撼形容一个夜市",
-      "onboard_time": 1748878700,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84824,
@@ -5825,6 +5849,14 @@
       "onboard_time": 1748700441,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83539,
+      "num": 83539,
+      "word": "边伯贤新歌Lemonade",
+      "onboard_time": 1748879180,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 83477,
@@ -6017,6 +6049,14 @@
       "onboard_time": 1748745620,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75977,
+      "num": 75977,
+      "word": "赵小童收菜排练",
+      "onboard_time": 1748880801,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 75687,
@@ -6233,6 +6273,22 @@
       "onboard_time": 1748837000,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 68139,
+      "num": 70536,
+      "word": "许嵩天津",
+      "onboard_time": 1748879840,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 67776,
+      "num": 70532,
+      "word": "薛之谦郭冠廷唱出了青春的两个阶段",
+      "onboard_time": 1748880440,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 67274,
