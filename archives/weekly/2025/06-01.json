@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748972588599,
+  "endTime": 1748975809253,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -8803,6 +8803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78058,
+      "num": 78058,
+      "word": "宁静潮牌定价",
+      "onboard_time": 1748969898,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77620,
       "num": 115874,
       "word": "谁懂许嵩插兜邪魅一笑的杀伤力",
@@ -8921,14 +8929,6 @@
       "onboard_time": 1748963424,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 75101,
-      "num": 75101,
-      "word": "宁静潮牌定价",
-      "onboard_time": 1748969898,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 74980,
@@ -10913,6 +10913,14 @@
       "onboard_time": 1748773580,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 19744,
+      "num": 78515,
+      "word": "外交部回应是否还会向更多国家免签",
+      "onboard_time": 1748974635,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19594,

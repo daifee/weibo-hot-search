@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748972588599,
+  "endTime": 1748975809253,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -291,20 +291,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78058,
+      "num": 78058,
+      "word": "宁静潮牌定价",
+      "onboard_time": 1748969898,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75159,
       "num": 86667,
       "word": "严浩翔男团rap担教科书",
       "onboard_time": 1748961143,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75101,
-      "num": 75101,
-      "word": "宁静潮牌定价",
-      "onboard_time": 1748969898,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 72117,
@@ -465,6 +465,14 @@
       "onboard_time": 1748972176,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19744,
+      "num": 78515,
+      "word": "外交部回应是否还会向更多国家免签",
+      "onboard_time": 1748974635,
+      "rank": 9,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
