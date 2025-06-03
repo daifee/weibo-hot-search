@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748961994056,
+  "endTime": 1748964603227,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -9,6 +9,14 @@
       "onboard_time": 1748956522,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 3829018,
+      "num": 3829018,
+      "word": "韩国媒体称李在明当选韩国总统",
+      "onboard_time": 1748962645,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2787368,
@@ -843,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311982,
+      "num": 311982,
+      "word": "三亚卫健委通报女子被蛇咬伤身亡",
+      "onboard_time": 1748962764,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 311692,
       "num": 311692,
       "word": "何秋亊单日掉粉超17.5万",
@@ -971,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259464,
+      "num": 259464,
+      "word": "女子被蛇咬伤身亡当地已成立调查组",
+      "onboard_time": 1748958382,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259168,
       "num": 187438,
       "word": "48岁妻子产子丈夫称孙子比儿子大3岁",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1748939120,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240808,
+      "num": 240808,
+      "word": "张婧仪回应张婧仪张婧怡",
+      "onboard_time": 1748961564,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 240767,
@@ -1227,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215424,
-      "num": 215424,
-      "word": "女子被蛇咬伤身亡当地已成立调查组",
-      "onboard_time": 1748958382,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213491,
       "num": 213491,
       "word": "赵秉文 第三人",
@@ -1323,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203387,
+      "num": 203387,
+      "word": "藏海传片尾 感谢每一位观众",
+      "onboard_time": 1748963424,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202961,
       "num": 202961,
       "word": "酱园弄群星海报",
@@ -1336,6 +1368,14 @@
       "word": "折腰上星浙江卫视",
       "onboard_time": 1748920102,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200926,
+      "num": 200926,
+      "word": "藏海传2",
+      "onboard_time": 1748964383,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -1579,12 +1619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176776,
-      "num": 196613,
-      "word": "张婧仪回应张婧仪张婧怡",
-      "onboard_time": 1748961564,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 178082,
+      "num": 178082,
+      "word": "庄二反水",
+      "onboard_time": 1748963605,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 176147,
@@ -2067,6 +2107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141708,
+      "num": 141708,
+      "word": "藏海传38集封神",
+      "onboard_time": 1748963842,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141331,
       "num": 141331,
       "word": "15岁少年因发出笑声遭路人围殴",
@@ -2217,6 +2265,14 @@
       "onboard_time": 1748936840,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 134199,
+      "num": 134199,
+      "word": "亚朵回应酒店枕套印有医院名字",
+      "onboard_time": 1748962464,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133923,
@@ -2531,12 +2587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114936,
+      "num": 114936,
+      "word": "赵丽颖新剧带火张家界仙境",
+      "onboard_time": 1748962226,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114461,
       "num": 114461,
       "word": "尹锡悦夫妇现身投票站",
       "onboard_time": 1748933181,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113980,
+      "num": 113980,
+      "word": "何秋亊回应演唱会门票价格",
+      "onboard_time": 1748964562,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 113816,
@@ -2561,6 +2633,14 @@
       "onboard_time": 1748943379,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113131,
+      "num": 113131,
+      "word": "藏海老弟这四个字可不兴叫啊",
+      "onboard_time": 1748962285,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 112991,
@@ -2827,6 +2907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95707,
+      "num": 95707,
+      "word": "观风拾雷的任务",
+      "onboard_time": 1748964562,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95687,
       "num": 254131,
       "word": "为什么高铁上跳过E直接是F座",
@@ -2868,7 +2956,7 @@
     },
     {
       "raw_hot": 93396,
-      "num": 1055392,
+      "num": 1361306,
       "word": "2025年高考注意事项",
       "onboard_time": 1748960065,
       "rank": 2,
@@ -2881,6 +2969,14 @@
       "onboard_time": 1748912720,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91112,
+      "num": 91112,
+      "word": "泡泡玛特年内累涨超160%",
+      "onboard_time": 1748964083,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 90241,
@@ -2929,6 +3025,14 @@
       "onboard_time": 1748868801,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86730,
+      "num": 86730,
+      "word": "守护甜心帅哥月咏几斗",
+      "onboard_time": 1748964022,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 86711,

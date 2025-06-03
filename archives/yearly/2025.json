@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1748961994056,
+  "endTime": 1748964603227,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1795,6 +1795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 3829018,
+      "num": 3829018,
+      "word": "韩国媒体称李在明当选韩国总统",
+      "onboard_time": 1748962645,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 3828682,
       "num": 3828682,
       "word": "导演郑某峰涉嫌猥亵儿童被刑拘",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1747008201,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3321685,
-      "num": 364956,
-      "word": "曝金赛纶在海外结婚",
-      "onboard_time": 1742382686,
-      "rank": 11,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
