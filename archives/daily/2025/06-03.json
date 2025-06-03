@@ -1,7 +1,15 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748943792984,
+  "endTime": 1748946565844,
   "band_list": [
+    {
+      "raw_hot": 2181073,
+      "num": 456572,
+      "word": "杨幂叫热巴宝贝贝",
+      "onboard_time": 1748944280,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2085610,
       "num": 2085610,
@@ -25,6 +33,14 @@
       "onboard_time": 1748937742,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1917621,
+      "num": 327827,
+      "word": "迪丽热巴回应张馨予",
+      "onboard_time": 1748944400,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1805267,
@@ -75,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1279389,
+      "num": 1279389,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1748940742,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1259489,
       "num": 672259,
       "word": "男子把女童拖入小巷将被追究刑责",
@@ -99,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1133742,
+      "num": 1133742,
+      "word": "藏海传大结局",
+      "onboard_time": 1748945841,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1122343,
       "num": 1122343,
       "word": "哈佛蒋雨融",
@@ -115,6 +147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1113889,
+      "num": 1001515,
+      "word": "外交部回应大连杀害2日本人案件",
+      "onboard_time": 1748937621,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1057143,
       "num": 1057143,
       "word": "大连警方通报2名日籍男子被害",
@@ -129,14 +169,6 @@
       "onboard_time": 1748925683,
       "rank": 23,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 1001515,
-      "num": 1001515,
-      "word": "外交部回应大连杀害2日本人案件",
-      "onboard_time": 1748937621,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 996660,
@@ -219,20 +251,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 731956,
+      "num": 272463,
+      "word": "周柯宇对热巴的多种称呼",
+      "onboard_time": 1748944280,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 718256,
       "num": 718256,
       "word": "酱园弄悬案全员亮相",
       "onboard_time": 1748917699,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 693301,
-      "num": 693301,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1748940742,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 677253,
@@ -257,6 +289,14 @@
       "onboard_time": 1748915180,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 644202,
+      "num": 644202,
+      "word": "何秋亊60秒视频广告报价50万",
+      "onboard_time": 1748941700,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 641746,
@@ -419,6 +459,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 411888,
+      "num": 587001,
+      "word": "江苏一对新人端午开车坠河双双遇难",
+      "onboard_time": 1748942482,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411267,
       "num": 411267,
       "word": "酱园弄",
@@ -473,14 +521,6 @@
       "onboard_time": 1748872761,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 364488,
-      "num": 602198,
-      "word": "何秋亊60秒视频广告报价50万",
-      "onboard_time": 1748941700,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 363701,
@@ -563,20 +603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320588,
+      "num": 320588,
+      "word": "宣璐回应走后门",
+      "onboard_time": 1748944641,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 319912,
+      "num": 319912,
+      "word": "豆包流浪了两个月还胖了一斤多",
+      "onboard_time": 1748945121,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313984,
       "num": 251146,
       "word": "迪丽热巴33岁生日短片",
       "onboard_time": 1748933661,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313289,
-      "num": 587001,
-      "word": "江苏一对新人端午开车坠河双双遇难",
-      "onboard_time": 1748942482,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312535,
@@ -627,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 284446,
+      "num": 320099,
+      "word": "杨幂祝热巴生日快乐",
+      "onboard_time": 1748945241,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281787,
       "num": 281787,
       "word": "大理偶遇向佐陈妍希",
@@ -649,6 +705,14 @@
       "onboard_time": 1748914581,
       "rank": 22,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 269698,
+      "num": 269698,
+      "word": "朱一龙晒杨蓉生日照",
+      "onboard_time": 1748945422,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 259168,
@@ -755,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226007,
+      "num": 226007,
+      "word": "藏海传",
+      "onboard_time": 1748941762,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224721,
       "num": 224721,
       "word": "警方通报10岁男孩儿童节前走失",
@@ -801,6 +873,14 @@
       "onboard_time": 1748925622,
       "rank": 39,
       "category": "运动健身,民生新闻"
+    },
+    {
+      "raw_hot": 220390,
+      "num": 220390,
+      "word": "骑手离职后突发意外仍获10万救助",
+      "onboard_time": 1748944461,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219985,
@@ -899,14 +979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 199116,
-      "num": 199116,
-      "word": "藏海传",
-      "onboard_time": 1748941762,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198939,
       "num": 198939,
       "word": "陈都灵翘楚湖蓝色战国袍路透",
@@ -945,6 +1017,14 @@
       "onboard_time": 1748932040,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196370,
+      "num": 221633,
+      "word": "郑钦文萨巴伦卡抢七",
+      "onboard_time": 1748945962,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 195536,
@@ -1073,6 +1153,14 @@
       "onboard_time": 1748920341,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175708,
+      "num": 175708,
+      "word": "田嘉瑞陈好宋茜王晓白合照",
+      "onboard_time": 1748943742,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 172327,
@@ -1243,12 +1331,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153451,
+      "num": 153451,
+      "word": "国内油价今晚上涨",
+      "onboard_time": 1748945360,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 153325,
       "num": 583080,
       "word": "鸿蒙AI手表来了",
       "onboard_time": 1748939661,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 152531,
+      "num": 269795,
+      "word": "郑钦文状态",
+      "onboard_time": 1748945601,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 148949,
@@ -1297,6 +1401,14 @@
       "onboard_time": 1748941461,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143640,
+      "num": 143640,
+      "word": "胡歌出演禁毒宣传片",
+      "onboard_time": 1748945301,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 143430,
@@ -1403,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137746,
+      "num": 137746,
+      "word": "七月的一天 沈月陈昊森",
+      "onboard_time": 1748945841,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137557,
       "num": 137557,
       "word": "浪姐抵达内蒙古路透",
@@ -1417,6 +1537,14 @@
       "onboard_time": 1748870361,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136189,
+      "num": 136189,
+      "word": "旺中集团声明称台湾人就是中国人",
+      "onboard_time": 1748945181,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136092,
@@ -1441,6 +1569,14 @@
       "onboard_time": 1748938162,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135194,
+      "num": 135194,
+      "word": "郑钦文破发萨巴伦卡",
+      "onboard_time": 1748944342,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 134713,
@@ -1475,6 +1611,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 131535,
+      "num": 320004,
+      "word": "重庆一地居民反映自来水中含活体虫",
+      "onboard_time": 1748945001,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130934,
       "num": 385369,
       "word": "律师解读男子将女童拖进小巷事件",
@@ -1499,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130231,
+      "num": 130231,
+      "word": "酱园弄23个主演",
+      "onboard_time": 1748944581,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130076,
       "num": 182770,
       "word": "王楚钦希望球迷学到好的精神",
@@ -1521,6 +1673,14 @@
       "onboard_time": 1748935041,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 128862,
+      "num": 128862,
+      "word": "网传歌手歌单",
+      "onboard_time": 1748945480,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 128347,
@@ -1731,14 +1891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111716,
-      "num": 111716,
-      "word": "田嘉瑞陈好宋茜王晓白合照",
-      "onboard_time": 1748943742,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110730,
       "num": 110730,
       "word": "动物园回应出逃卡皮巴拉回家还胖了",
@@ -1825,6 +1977,22 @@
       "onboard_time": 1748931141,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105128,
+      "num": 105128,
+      "word": "南昌政法委书记吴建平被查",
+      "onboard_time": 1748946381,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 103728,
+      "num": 103728,
+      "word": "王楚钦白鹤亮翅好帅",
+      "onboard_time": 1748945422,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102272,
@@ -2075,6 +2243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 76281,
+      "num": 458800,
+      "word": "2025高考10问10答",
+      "onboard_time": 1748945181,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75977,
       "num": 75977,
       "word": "赵小童收菜排练",
@@ -2227,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56497,
+      "num": 109135,
+      "word": "郑钦文收视率登顶",
+      "onboard_time": 1748945962,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52909,
       "num": 281458,
       "word": "哪些动作能有效降低眼睛度数",
@@ -2339,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39583,
+      "num": 222212,
+      "word": "多说废话能提升幸福感吗",
+      "onboard_time": 1748944881,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 38546,
       "num": 174808,
       "word": "肥胖会影响睡眠吗",
@@ -2443,6 +2635,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 27656,
+      "num": 1154910,
+      "word": "端午假期旅游市场呈现哪些新亮点",
+      "onboard_time": 1748945422,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27175,
+      "num": 223639,
+      "word": "英科学家向外星送微生物引争议",
+      "onboard_time": 1748944342,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25230,
       "num": 206381,
       "word": "苏超梗图太好笑了",
@@ -2531,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13736,
+      "num": 464942,
+      "word": "端午假期590.7万人次出入境",
+      "onboard_time": 1748945780,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12345,
       "num": 58252,
       "word": "9岁盲童的音乐会有暖心后续",
@@ -2572,6 +2788,9 @@
     },
     {
       "word": "#跟着总书记探寻中华文明#"
+    },
+    {
+      "word": "#感受中华文明的魅力#"
     }
   ]
 }
