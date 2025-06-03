@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748933558615,
+  "endTime": 1748935644197,
   "band_list": [
     {
       "raw_hot": 2085610,
@@ -91,6 +91,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1065418,
+      "num": 1170466,
+      "word": "台湾旅行团整团被卖到缅甸",
+      "onboard_time": 1748933481,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1057143,
+      "num": 1057143,
+      "word": "大连警方通报2名日籍男子被害",
+      "onboard_time": 1748932940,
+      "rank": 6,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1002739,
       "num": 544034,
       "word": "38岁男子酒后拖拽6岁女童进巷被拘",
@@ -113,14 +129,6 @@
       "onboard_time": 1748908941,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 908802,
-      "num": 908802,
-      "word": "台湾旅行团整团被卖到缅甸",
-      "onboard_time": 1748933481,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 860142,
@@ -169,14 +177,6 @@
       "onboard_time": 1748917699,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 683737,
-      "num": 683737,
-      "word": "大连警方通报2名日籍男子被害",
-      "onboard_time": 1748932940,
-      "rank": 6,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 677253,
@@ -257,6 +257,14 @@
       "onboard_time": 1748869521,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 510536,
+      "num": 510536,
+      "word": "安静公主吃激素药5天胖了10多斤",
+      "onboard_time": 1748933300,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 500159,
@@ -555,6 +563,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 249301,
+      "num": 432929,
+      "word": "高考戴智能手表用不用都作弊",
+      "onboard_time": 1748933841,
+      "rank": 9,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 248731,
+      "num": 248731,
+      "word": "程潇在妈妈患癌后一瞬间长大",
+      "onboard_time": 1748934921,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246151,
+      "num": 246151,
+      "word": "陈梦坦言渴望有完整家庭",
+      "onboard_time": 1748935222,
+      "rank": 19,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 234720,
       "num": 234720,
       "word": "撕拉片摄影师置顶鞠婧祎张凌赫",
@@ -568,6 +600,14 @@
       "word": "宋昕冉卡点祝迪丽热巴生日快乐",
       "onboard_time": 1748927781,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230408,
+      "num": 230408,
+      "word": "中传回应会否录取黄杨钿甜",
+      "onboard_time": 1748933722,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -625,6 +665,14 @@
       "onboard_time": 1748932220,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209174,
+      "num": 209174,
+      "word": "赵丽颖身上的文人气质",
+      "onboard_time": 1748934321,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 208259,
@@ -689,6 +737,14 @@
       "onboard_time": 1748928621,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196382,
+      "num": 196382,
+      "word": "曹氏低于8元 燃气费",
+      "onboard_time": 1748932040,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195536,
@@ -771,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179822,
+      "num": 179822,
+      "word": "暗荼被藏海软禁了多久",
+      "onboard_time": 1748933841,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179567,
       "num": 179567,
       "word": "拥有一台咖啡机是如此的幸福",
@@ -843,6 +907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166296,
+      "num": 157158,
+      "word": "丁禹兮中餐厅躲起来哭",
+      "onboard_time": 1748933542,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164245,
       "num": 145755,
       "word": "雷军复盘时问自己的问题",
@@ -851,20 +923,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 163331,
-      "num": 160409,
-      "word": "曹氏低于8元 燃气费",
-      "onboard_time": 1748932040,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163214,
       "num": 163193,
       "word": "迪丽热巴待播剧庆生照",
       "onboard_time": 1748918480,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162331,
+      "num": 162331,
+      "word": "李在明说若胜选将稳定处理韩中关系",
+      "onboard_time": 1748935160,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162313,
@@ -921,6 +993,22 @@
       "onboard_time": 1748923401,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148913,
+      "num": 148913,
+      "word": "92岁奶奶一口气网购两盒戒指",
+      "onboard_time": 1748934681,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145726,
+      "num": 559872,
+      "word": "不同近视度数眼中的世界",
+      "onboard_time": 1748932820,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145116,
@@ -1051,6 +1139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132478,
+      "num": 132478,
+      "word": "王楚钦秀背后发球",
+      "onboard_time": 1748934321,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132347,
       "num": 132347,
       "word": "中国歼10CE一战成名的原因",
@@ -1075,14 +1171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130248,
-      "num": 130248,
-      "word": "丁禹兮中餐厅躲起来哭",
-      "onboard_time": 1748933542,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130076,
       "num": 182770,
       "word": "王楚钦希望球迷学到好的精神",
@@ -1097,6 +1185,14 @@
       "onboard_time": 1748870002,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129096,
+      "num": 129096,
+      "word": "准考证就要打七份",
+      "onboard_time": 1748935041,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 128347,
@@ -1128,14 +1224,6 @@
       "word": "头一次用震撼形容一个夜市",
       "onboard_time": 1748878700,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122989,
-      "num": 122989,
-      "word": "安静公主吃激素药5天胖了10多斤",
-      "onboard_time": 1748933300,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1171,12 +1259,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 118088,
+      "num": 118088,
+      "word": "江苏省足协回应苏超爆火",
+      "onboard_time": 1748935460,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117860,
       "num": 117860,
       "word": "周杰伦山下智久京都合体",
       "onboard_time": 1748926044,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117541,
+      "num": 117541,
+      "word": "姚琛 腰精",
+      "onboard_time": 1748934801,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 117190,
+      "num": 160421,
+      "word": "印度婆罗门家庭的高消费晚餐",
+      "onboard_time": 1748932702,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116947,
@@ -1211,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115287,
+      "num": 115287,
+      "word": "赵今麦复古甜心造型",
+      "onboard_time": 1748935521,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114461,
       "num": 114461,
       "word": "尹锡悦夫妇现身投票站",
@@ -1219,12 +1339,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113816,
+      "num": 113816,
+      "word": "湖南卫视马嘉祺舞台播放量破亿",
+      "onboard_time": 1748932640,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113667,
       "num": 113667,
       "word": "高铁上拿医生吓唬熊孩子",
       "onboard_time": 1748927542,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112258,
+      "num": 112258,
+      "word": "老年夫妻最好的状态",
+      "onboard_time": 1748935521,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 111832,
@@ -1371,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95271,
+      "num": 1042562,
+      "word": "我国GDP五百亿镇近20个",
+      "onboard_time": 1748934501,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95069,
       "num": 95069,
       "word": "蒋雨融称没有绿卡",
@@ -1457,22 +1601,6 @@
       "onboard_time": 1748929221,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85966,
-      "num": 85966,
-      "word": "湖南卫视马嘉祺舞台播放量破亿",
-      "onboard_time": 1748932640,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 85870,
-      "num": 559872,
-      "word": "不同近视度数眼中的世界",
-      "onboard_time": 1748932820,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84825,
@@ -1659,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59218,
+      "num": 158441,
+      "word": "蒙古国现在最大的特色是什么",
+      "onboard_time": 1748934681,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52909,
       "num": 281458,
       "word": "哪些动作能有效降低眼睛度数",
@@ -1707,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48075,
+      "num": 183523,
+      "word": "熬夜后脸色发黄该怎么改善",
+      "onboard_time": 1748935281,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 45145,
       "num": 131447,
       "word": "邱贻可回应球迷叫他老太阳",
@@ -1723,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42130,
+      "num": 123571,
+      "word": "在日本花1万3千日元买两个西瓜",
+      "onboard_time": 1748934020,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41151,
       "num": 45595,
       "word": "德约科维奇法网100胜",
@@ -1737,6 +1889,14 @@
       "onboard_time": 1748924543,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 38265,
+      "num": 190173,
+      "word": "高考前按部就班比突击更重要",
+      "onboard_time": 1748935100,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 37561,
@@ -1769,14 +1929,6 @@
       "onboard_time": 1748883377,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 34832,
-      "num": 160421,
-      "word": "印度婆罗门家庭的高消费晚餐",
-      "onboard_time": 1748932702,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34090,
@@ -1902,6 +2054,9 @@
   "hotgov_list": [
     {
       "word": "#跟着总书记品多彩非遗#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }
