@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748989525203,
+  "endTime": 1748990605071,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -3331,6 +3331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206569,
+      "num": 179794,
+      "word": "中方回应2名日本人在大连被杀害",
+      "onboard_time": 1748937621,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 206386,
       "num": 206386,
       "word": "张家界一溶洞垃圾堆至7层楼高",
@@ -4153,14 +4161,6 @@
       "onboard_time": 1748786901,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179794,
-      "num": 179794,
-      "word": "中方回应2名日本人在大连被杀害",
-      "onboard_time": 1748937621,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 179567,
@@ -5971,6 +5971,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 132274,
+      "num": 82310,
+      "word": "何秋亊 给哪吒道歉",
+      "onboard_time": 1748988376,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 132230,
       "num": 132230,
       "word": "吴宣仪音乐节大屏",
@@ -7729,14 +7737,6 @@
       "onboard_time": 1748827699,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 100716,
-      "num": 69041,
-      "word": "何秋亊 给哪吒道歉",
-      "onboard_time": 1748988376,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 100666,
@@ -9803,6 +9803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45989,
+      "num": 45989,
+      "word": "莫言为冯巩取笔名闭嘴",
+      "onboard_time": 1748981773,
+      "rank": 39,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 45775,
       "num": 175100,
       "word": "夏天到了空调怎么开才省电",
@@ -9849,6 +9857,14 @@
       "onboard_time": 1748927242,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44599,
+      "num": 36045,
+      "word": "王星和女友嘉嘉合体拍杂志",
+      "onboard_time": 1748983035,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 44570,
@@ -9921,14 +9937,6 @@
       "onboard_time": 1748768839,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 42392,
-      "num": 32559,
-      "word": "王星和女友嘉嘉合体拍杂志",
-      "onboard_time": 1748983035,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 42062,
@@ -10259,14 +10267,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 34423,
-      "num": 34423,
-      "word": "莫言为冯巩取笔名闭嘴",
-      "onboard_time": 1748981773,
-      "rank": 39,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 34090,
       "num": 174417,
       "word": "泡泡玛特续创新高",
@@ -10321,6 +10321,14 @@
       "onboard_time": 1748776400,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32721,
+      "num": 32721,
+      "word": "如何利用维生素B甩掉坏情绪",
+      "onboard_time": 1748989217,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 32447,
@@ -10628,7 +10636,7 @@
     },
     {
       "raw_hot": 26389,
-      "num": 30409,
+      "num": 32081,
       "word": "电梯按键",
       "onboard_time": 1748983035,
       "rank": 36,
@@ -11057,14 +11065,6 @@
       "onboard_time": 1748719155,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17013,
-      "num": 30406,
-      "word": "如何利用维生素B甩掉坏情绪",
-      "onboard_time": 1748989217,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16880,

@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748989525203,
+  "endTime": 1748990605071,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206569,
+      "num": 83352,
+      "word": "中方回应2名日本人在大连被杀害",
+      "onboard_time": 1748937621,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193410,
       "num": 193410,
       "word": "女子为祈福放生2.5万斤外来鲇鱼",
@@ -153,14 +161,6 @@
       "onboard_time": 1748958023,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148282,
-      "num": 83352,
-      "word": "中方回应2名日本人在大连被杀害",
-      "onboard_time": 1748937621,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 147921,
@@ -187,6 +187,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132577,
+      "num": 128630,
+      "word": "男子刀片嗓以为感冒竟差点丧命",
+      "onboard_time": 1748961025,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132274,
+      "num": 82310,
+      "word": "何秋亊 给哪吒道歉",
+      "onboard_time": 1748988376,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 129443,
       "num": 129443,
       "word": "观风拾雷的任务",
@@ -195,12 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128630,
-      "num": 128630,
-      "word": "男子刀片嗓以为感冒竟差点丧命",
-      "onboard_time": 1748961025,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 123760,
+      "num": 123760,
+      "word": "王安宇挤不进的圈子别硬融",
+      "onboard_time": 1748957303,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 123259,
@@ -243,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100716,
-      "num": 69041,
-      "word": "何秋亊 给哪吒道歉",
-      "onboard_time": 1748988376,
-      "rank": 9,
-      "category": "网红"
-    },
-    {
       "raw_hot": 98524,
       "num": 98524,
       "word": "女子被蛇咬伤身亡当地已成立调查组",
@@ -275,14 +283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87677,
-      "num": 87677,
-      "word": "王安宇挤不进的圈子别硬融",
-      "onboard_time": 1748957303,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86670,
       "num": 86670,
       "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
@@ -297,6 +297,14 @@
       "onboard_time": 1748957362,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82250,
+      "num": 86659,
+      "word": "稚奴终于可以睡个好觉了",
+      "onboard_time": 1748958263,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 78612,
@@ -395,14 +403,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 61382,
-      "num": 86659,
-      "word": "稚奴终于可以睡个好觉了",
-      "onboard_time": 1748958263,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 61377,
       "num": 86658,
       "word": "赵丽颖丝绒闪钻吊带裙",
@@ -443,8 +443,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42392,
-      "num": 32559,
+      "raw_hot": 45989,
+      "num": 45989,
+      "word": "莫言为冯巩取笔名闭嘴",
+      "onboard_time": 1748981773,
+      "rank": 39,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 44599,
+      "num": 36045,
       "word": "王星和女友嘉嘉合体拍杂志",
       "onboard_time": 1748983035,
       "rank": 49,
@@ -459,20 +467,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37823,
+      "num": 37823,
+      "word": "乌克兰摧毁41架俄军战略轰炸机",
+      "onboard_time": 1748978235,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37298,
       "num": 40696,
       "word": "郑晓龙肖战速速二搭",
       "onboard_time": 1748972236,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34423,
-      "num": 34423,
-      "word": "莫言为冯巩取笔名闭嘴",
-      "onboard_time": 1748981773,
-      "rank": 39,
-      "category": "读书作家"
     },
     {
       "raw_hot": 33601,
@@ -483,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32991,
-      "num": 32991,
-      "word": "乌克兰摧毁41架俄军战略轰炸机",
-      "onboard_time": 1748978235,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 32721,
+      "num": 32721,
+      "word": "如何利用维生素B甩掉坏情绪",
+      "onboard_time": 1748989217,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 32409,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 26389,
-      "num": 30409,
+      "num": 32081,
       "word": "电梯按键",
       "onboard_time": 1748983035,
       "rank": 36,
@@ -529,14 +537,6 @@
       "onboard_time": 1748975955,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17013,
-      "num": 30406,
-      "word": "如何利用维生素B甩掉坏情绪",
-      "onboard_time": 1748989217,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15274,
