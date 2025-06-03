@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748916096206,
+  "endTime": 1748917490555,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -107,6 +107,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1389992,
+      "num": 355909,
+      "word": "女子被逼复婚又遭家暴",
+      "onboard_time": 1748916019,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1362008,
       "num": 1362008,
       "word": "藏海传面具人身份终于揭秘",
@@ -129,6 +137,14 @@
       "onboard_time": 1748776581,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1348148,
+      "num": 1348148,
+      "word": "眼睛度数降了100度",
+      "onboard_time": 1748907257,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 1336827,
@@ -161,14 +177,6 @@
       "onboard_time": 1748753001,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1281560,
-      "num": 1281560,
-      "word": "眼睛度数降了100度",
-      "onboard_time": 1748907257,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 1256425,
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650011,
+      "num": 650011,
+      "word": "枭起青壤",
+      "onboard_time": 1748915180,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 647115,
       "num": 647115,
       "word": "九门尹新月扮演者",
@@ -721,14 +737,6 @@
       "onboard_time": 1748869521,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 520843,
-      "num": 350270,
-      "word": "女子被逼复婚又遭家暴",
-      "onboard_time": 1748916019,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 518835,
@@ -1107,6 +1115,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381475,
+      "num": 470868,
+      "word": "2025年高考举报电话",
+      "onboard_time": 1748916019,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 381366,
+      "num": 381366,
+      "word": "乌克兰放手一搏改变不了战略被动",
+      "onboard_time": 1748913860,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 380417,
       "num": 172196,
       "word": "女装这种设计的意义在于没有意义",
@@ -1179,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356632,
+      "num": 382806,
+      "word": "模样最凶的狗狗救下2岁男童",
+      "onboard_time": 1748916019,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356081,
       "num": 356081,
       "word": "江苏唯一真南哥之争已白热化",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1748845342,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 349847,
-      "num": 480200,
-      "word": "枭起青壤",
-      "onboard_time": 1748915180,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 348269,
@@ -1353,6 +1377,14 @@
       "onboard_time": 1748761100,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 325182,
+      "num": 325182,
+      "word": "山西网红艺人大刚饮酒过量离世",
+      "onboard_time": 1748916799,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322423,
@@ -1579,14 +1611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291934,
-      "num": 470868,
-      "word": "2025年高考举报电话",
-      "onboard_time": 1748916019,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 291410,
       "num": 291410,
       "word": "龙舟征婚小伙称微信被加爆",
@@ -1763,6 +1787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 269849,
+      "num": 223445,
+      "word": "小车冲进屋10岁姐姐神速救起妹妹",
+      "onboard_time": 1748914581,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 268485,
       "num": 268485,
       "word": "临江仙",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1748824999,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267647,
+      "num": 267647,
+      "word": "邱贻可说孙颖莎反手如何练是秘密",
+      "onboard_time": 1748916799,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 262614,
@@ -1891,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252399,
+      "num": 252399,
+      "word": "警方通报7人殴打未成年人",
+      "onboard_time": 1748916799,
+      "rank": 16,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 252129,
       "num": 252129,
       "word": "不敢相信这个大胖小子是高瀚宇",
@@ -1915,14 +1963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 250186,
-      "num": 250186,
-      "word": "乌克兰放手一搏改变不了战略被动",
-      "onboard_time": 1748913860,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 250089,
       "num": 229789,
       "word": "杨天真为什么去留学",
@@ -1937,14 +1977,6 @@
       "onboard_time": 1748867060,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249200,
-      "num": 205242,
-      "word": "小车冲进屋10岁姐姐神速救起妹妹",
-      "onboard_time": 1748914581,
-      "rank": 22,
-      "category": "正能量"
     },
     {
       "raw_hot": 248021,
@@ -2083,12 +2115,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225452,
+      "num": 225452,
+      "word": "撕拉片摄影师置顶鞠婧祎张凌赫",
+      "onboard_time": 1748917100,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224721,
       "num": 242324,
       "word": "警方通报10岁男孩儿童节前走失",
       "onboard_time": 1748878102,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224642,
+      "num": 213660,
+      "word": "迪丽热巴高定新装",
+      "onboard_time": 1748908459,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 224624,
@@ -2689,14 +2737,6 @@
       "onboard_time": 1748781801,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 185908,
-      "num": 175433,
-      "word": "迪丽热巴高定新装",
-      "onboard_time": 1748908459,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 185769,
@@ -3651,6 +3691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143968,
+      "num": 143968,
+      "word": "近视600度是一个重要分界线",
+      "onboard_time": 1748917041,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 143841,
       "num": 141747,
       "word": "王鹤棣差点给王耀庆一脚",
@@ -4491,6 +4539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119695,
+      "num": 119695,
+      "word": "殴打未成年人7名涉案人全部被抓",
+      "onboard_time": 1748917221,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119623,
       "num": 119623,
       "word": "张杰演唱会",
@@ -4641,6 +4697,14 @@
       "onboard_time": 1748788220,
       "rank": 44,
       "category": "体育,海外新闻"
+    },
+    {
+      "raw_hot": 115661,
+      "num": 115661,
+      "word": "国际乒联2025第23周排名",
+      "onboard_time": 1748916019,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 115375,
@@ -4947,6 +5011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108116,
+      "num": 156882,
+      "word": "藏海传年度爆款剧集",
+      "onboard_time": 1748916799,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107663,
       "num": 107663,
       "word": "在人间永不失联的爱",
@@ -4993,6 +5065,14 @@
       "onboard_time": 1748839822,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106847,
+      "num": 106847,
+      "word": "金饰克价涨到1024元",
+      "onboard_time": 1748915600,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 106827,
@@ -5083,28 +5163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105017,
-      "num": 105017,
-      "word": "模样最凶的狗狗救下2岁男童",
-      "onboard_time": 1748916019,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104908,
       "num": 104908,
       "word": "沈月狠起来连自己都不放过",
       "onboard_time": 1748837720,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104814,
-      "num": 104814,
-      "word": "国际乒联2025第23周排名",
-      "onboard_time": 1748916019,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 104802,
@@ -5313,14 +5377,6 @@
       "onboard_time": 1748859920,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100849,
-      "num": 100849,
-      "word": "金饰克价涨到1024元",
-      "onboard_time": 1748915600,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 100779,
@@ -5627,6 +5683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95588,
+      "num": 175897,
+      "word": "肖战藏海在死亡边缘获得一线生机",
+      "onboard_time": 1748914100,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95492,
       "num": 313879,
       "word": "小时候的快乐回来了",
@@ -5641,6 +5705,14 @@
       "onboard_time": 1748773040,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95069,
+      "num": 95069,
+      "word": "蒋雨融称没有绿卡",
+      "onboard_time": 1748916920,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95063,
@@ -5867,6 +5939,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 90241,
+      "num": 90241,
+      "word": "蒋雨融说堂堂正正争取",
+      "onboard_time": 1748907199,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90165,
       "num": 90165,
       "word": "港股加密货币概念股拉升",
@@ -6075,14 +6155,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 84943,
-      "num": 175897,
-      "word": "肖战藏海在死亡边缘获得一线生机",
-      "onboard_time": 1748914100,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84825,
       "num": 84825,
       "word": "乌希望停火30天俄只同意2到3天",
@@ -6104,14 +6176,6 @@
       "word": "女子长期被迫吸二手烟痛苦地猛洗澡",
       "onboard_time": 1748687480,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84190,
-      "num": 84190,
-      "word": "蒋雨融说堂堂正正争取",
-      "onboard_time": 1748907199,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
