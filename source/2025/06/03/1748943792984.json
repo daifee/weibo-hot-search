@@ -1,0 +1,410 @@
+{
+  "runTime": 1748943792984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1540603,
+        "num": 1540603,
+        "word": "27岁女游客在三亚被蛇咬伤身亡",
+        "onboard_time": 1748937742,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1001515,
+        "num": 1001515,
+        "word": "外交部回应大连杀害2日本人案件",
+        "onboard_time": 1748937621,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122591,
+        "num": 898429,
+        "word": "我国GDP五百亿镇近20个",
+        "onboard_time": 1748934501,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 836852,
+        "num": 836852,
+        "word": "藏海传37.9%",
+        "onboard_time": 1748940561,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772798,
+        "num": 772798,
+        "word": "中传回应会否录取黄杨钿甜",
+        "onboard_time": 1748933722,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693301,
+        "num": 693301,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1748940742,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 630147,
+        "num": 630147,
+        "word": "警方通报男子将女童拖进小巷",
+        "onboard_time": 1748918541,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 531415,
+        "num": 531415,
+        "word": "柯淳说短剧男主第一换姚冠宇了",
+        "onboard_time": 1748937022,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168729,
+        "num": 528872,
+        "word": "李在明说若胜选将稳定处理韩中关系",
+        "onboard_time": 1748935160,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364488,
+        "num": 528104,
+        "word": "何秋亊60秒视频广告报价50万",
+        "onboard_time": 1748941700,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803389,
+        "num": 527938,
+        "word": "迪丽热巴小红兔",
+        "onboard_time": 1748942241,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527603,
+        "num": 527603,
+        "word": "乒超名单",
+        "onboard_time": 1748939723,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476688,
+        "num": 476688,
+        "word": "何秋亊 汪苏泷",
+        "onboard_time": 1748927481,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98172,
+        "num": 474248,
+        "word": "鸿蒙AI手表来了",
+        "onboard_time": 1748939661,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 313289,
+        "num": 473468,
+        "word": "江苏一对新人端午开车坠河双双遇难",
+        "onboard_time": 1748942482,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473033,
+        "num": 473033,
+        "word": "聊斋",
+        "onboard_time": 1748940561,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457617,
+        "num": 457617,
+        "word": "台湾旅行团整团被卖到缅甸",
+        "onboard_time": 1748933481,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342533,
+        "num": 342533,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1748921841,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321434,
+        "num": 321434,
+        "word": "何秋亊将直播回应争议",
+        "onboard_time": 1748937920,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53743,
+        "num": 306050,
+        "word": "减肥对打呼噜有什么影响",
+        "onboard_time": 1748942482,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304795,
+        "num": 304795,
+        "word": "张馨予手绘烟花为迪丽热巴庆生",
+        "onboard_time": 1748930900,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278732,
+        "num": 278732,
+        "word": "38岁男子酒后拖拽6岁女童进巷被拘",
+        "onboard_time": 1748925683,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 249626,
+        "num": 249626,
+        "word": "安静公主吃激素药5天胖了10多斤",
+        "onboard_time": 1748933300,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224177,
+        "num": 224177,
+        "word": "香港警方回应恒生银行持刀抢劫案",
+        "onboard_time": 1748941519,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203473,
+        "num": 203473,
+        "word": "姚冠宇的短剧",
+        "onboard_time": 1748939120,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179505,
+        "num": 179505,
+        "word": "何秋亊演唱会门票价格",
+        "onboard_time": 1748940500,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173378,
+        "num": 179435,
+        "word": "卫兰 补位",
+        "onboard_time": 1748939361,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121486,
+        "num": 179358,
+        "word": "高考作弊将导致所有科目成绩无效",
+        "onboard_time": 1748935880,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 168645,
+        "num": 179294,
+        "word": "八旬老人以房产换赡养关系恶化后反悔",
+        "onboard_time": 1748940202,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58796,
+        "num": 179179,
+        "word": "为什么不看电视也要买",
+        "onboard_time": 1748943141,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223151,
+        "num": 179096,
+        "word": "大理偶遇向佐陈妍希",
+        "onboard_time": 1748940802,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179071,
+        "num": 179071,
+        "word": "卫健局回应女子在三亚被毒蛇咬伤身亡",
+        "onboard_time": 1748940322,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174654,
+        "num": 174654,
+        "word": "马龙不参加2025乒超",
+        "onboard_time": 1748941281,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160265,
+        "num": 160265,
+        "word": "姚晨说真不是后妈",
+        "onboard_time": 1748942422,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155864,
+        "num": 155864,
+        "word": "大爷闯红灯撞倒女孩后直接走了",
+        "onboard_time": 1748938820,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155455,
+        "num": 155455,
+        "word": "酱园弄把熟人拍成认不出的样子",
+        "onboard_time": 1748929641,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74260,
+        "num": 154669,
+        "word": "小黄豆说恨自己没多读书",
+        "onboard_time": 1748941041,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154117,
+        "num": 154117,
+        "word": "新说唱发布会",
+        "onboard_time": 1748941100,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146547,
+        "num": 146547,
+        "word": "11岁女童在妈妈单位被男同事猥亵",
+        "onboard_time": 1748933481,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140278,
+        "num": 140278,
+        "word": "男子把女童拖入小巷将被追究刑责",
+        "onboard_time": 1748920401,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137995,
+        "num": 137995,
+        "word": "官方通报女子当街打砸多辆汽车",
+        "onboard_time": 1748942961,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131775,
+        "num": 131775,
+        "word": "陈梦坦言渴望有完整家庭",
+        "onboard_time": 1748935222,
+        "rank": 41,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 128557,
+        "num": 128557,
+        "word": "程潇在妈妈患癌后一瞬间长大",
+        "onboard_time": 1748934921,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123428,
+        "num": 123428,
+        "word": "藏海传",
+        "onboard_time": 1748941762,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123257,
+        "num": 123257,
+        "word": "藏海传超点",
+        "onboard_time": 1748928501,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121255,
+        "num": 121255,
+        "word": "我国有6个GDP千亿镇",
+        "onboard_time": 1748943621,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118289,
+        "num": 118289,
+        "word": "书卷一梦即将接档临江仙",
+        "onboard_time": 1748935820,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113477,
+        "num": 113477,
+        "word": "郑钦文萨巴伦卡隔空喊话",
+        "onboard_time": 1748943379,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112960,
+        "num": 112960,
+        "word": "酱园弄画面构图压迫感",
+        "onboard_time": 1748943502,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111716,
+        "num": 111716,
+        "word": "田嘉瑞陈好宋茜王晓白合照",
+        "onboard_time": 1748943742,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}

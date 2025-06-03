@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748942944167,
+  "endTime": 1748943792984,
   "band_list": [
     {
       "raw_hot": 2085610,
@@ -131,6 +131,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1001515,
+      "num": 1001515,
+      "word": "外交部回应大连杀害2日本人案件",
+      "onboard_time": 1748937621,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 996660,
       "num": 996660,
       "word": "杨幂酱园弄王许梅造型",
@@ -171,11 +179,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 836852,
+      "num": 836852,
+      "word": "藏海传37.9%",
+      "onboard_time": 1748940561,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 814391,
       "num": 970580,
       "word": "贾冰因戏减肥后不再打呼",
       "onboard_time": 1748873722,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 803389,
+      "num": 601835,
+      "word": "迪丽热巴小红兔",
+      "onboard_time": 1748942241,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -185,14 +209,6 @@
       "onboard_time": 1748919201,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 785854,
-      "num": 785854,
-      "word": "藏海传37.9%",
-      "onboard_time": 1748940561,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 770081,
@@ -211,20 +227,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 690488,
-      "num": 601835,
-      "word": "迪丽热巴小红兔",
-      "onboard_time": 1748942241,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 683736,
-      "num": 683736,
-      "word": "外交部回应大连杀害2日本人案件",
-      "onboard_time": 1748937621,
-      "rank": 21,
-      "category": "国内时政"
+      "raw_hot": 693301,
+      "num": 693301,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1748940742,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 677253,
@@ -281,14 +289,6 @@
       "onboard_time": 1748918119,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 610388,
-      "num": 610388,
-      "word": "郑钦文vs萨巴伦卡",
-      "onboard_time": 1748940742,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 603736,
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364488,
+      "num": 602198,
+      "word": "何秋亊60秒视频广告报价50万",
+      "onboard_time": 1748941700,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363701,
       "num": 363701,
       "word": "山西网红艺人大刚饮酒过量离世",
@@ -561,6 +569,14 @@
       "onboard_time": 1748933661,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313289,
+      "num": 587001,
+      "word": "江苏一对新人端午开车坠河双双遇难",
+      "onboard_time": 1748942482,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312535,
@@ -675,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253411,
-      "num": 602198,
-      "word": "何秋亊60秒视频广告报价50万",
-      "onboard_time": 1748941700,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251560,
       "num": 251560,
       "word": "韩国5名候选人竞逐总统",
@@ -777,6 +785,14 @@
       "onboard_time": 1748914581,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 224177,
+      "num": 562753,
+      "word": "香港警方回应恒生银行持刀抢劫案",
+      "onboard_time": 1748941519,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222094,
@@ -1083,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168645,
+      "num": 284186,
+      "word": "八旬老人以房产换赡养关系恶化后反悔",
+      "onboard_time": 1748940202,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168494,
       "num": 168494,
       "word": "宋雨琦带千人开场真热血番",
@@ -1171,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160265,
+      "num": 160265,
+      "word": "姚晨说真不是后妈",
+      "onboard_time": 1748942422,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158600,
       "num": 249531,
       "word": "殴打未成年人7名涉案人全部被抓",
@@ -1184,14 +1216,6 @@
       "word": "王一博台铃三年超长待机",
       "onboard_time": 1748918300,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 157443,
-      "num": 157443,
-      "word": "姚晨说真不是后妈",
-      "onboard_time": 1748942422,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1225,14 +1249,6 @@
       "onboard_time": 1748939661,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 151458,
-      "num": 284186,
-      "word": "八旬老人以房产换赡养关系恶化后反悔",
-      "onboard_time": 1748940202,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148949,
@@ -1369,6 +1385,14 @@
       "onboard_time": 1748927122,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137995,
+      "num": 137995,
+      "word": "官方通报女子当街打砸多辆汽车",
+      "onboard_time": 1748942961,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137785,
@@ -1547,6 +1571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121255,
+      "num": 121255,
+      "word": "我国有6个GDP千亿镇",
+      "onboard_time": 1748943621,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121038,
       "num": 121038,
       "word": "Deft恭喜Uzi入选名人堂",
@@ -1667,12 +1699,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113441,
-      "num": 587001,
-      "word": "江苏一对新人端午开车坠河双双遇难",
-      "onboard_time": 1748942482,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 113477,
+      "num": 113477,
+      "word": "郑钦文萨巴伦卡隔空喊话",
+      "onboard_time": 1748943379,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112960,
+      "num": 112960,
+      "word": "酱园弄画面构图压迫感",
+      "onboard_time": 1748943502,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 112258,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1748916019,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111716,
+      "num": 111716,
+      "word": "田嘉瑞陈好宋茜王晓白合照",
+      "onboard_time": 1748943742,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 110730,
@@ -1777,14 +1825,6 @@
       "onboard_time": 1748931141,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103620,
-      "num": 562753,
-      "word": "香港警方回应恒生银行持刀抢劫案",
-      "onboard_time": 1748941519,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102272,
@@ -2051,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74260,
+      "num": 578476,
+      "word": "小黄豆说恨自己没多读书",
+      "onboard_time": 1748941041,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 73711,
       "num": 80522,
       "word": "吴京回应获赛车冠军",
@@ -2171,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58796,
+      "num": 179179,
+      "word": "为什么不看电视也要买",
+      "onboard_time": 1748943141,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52909,
       "num": 281458,
       "word": "哪些动作能有效降低眼睛度数",
@@ -2217,14 +2273,6 @@
       "onboard_time": 1748896754,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48225,
-      "num": 578476,
-      "word": "小黄豆说恨自己没多读书",
-      "onboard_time": 1748941041,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 48185,
@@ -2521,6 +2569,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#跟着总书记探寻中华文明#"
     }
   ]
 }
