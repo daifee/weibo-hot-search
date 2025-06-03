@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/04 02:36:49
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/04 02:51:11
 </p>
 </blockquote>
 <p>
@@ -7677,6 +7677,12 @@ TheShy真尽力了（热度：40609）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%BF%98%E4%BC%9A%E5%90%91%E6%9B%B4%E5%A4%9A%E5%9B%BD%E5%AE%B6%E5%85%8D%E7%AD%BE%23" target="weibo">
+外交部回应是否还会向更多国家免签（热度：35521）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%90%E9%A2%9C%E8%89%B2%E4%BC%9A%E5%BD%B1%E5%93%8D%E7%9D%A1%E7%9C%A0%E5%90%97%23" target="weibo">
 被子颜色会影响睡眠吗（热度：35519）
 </a>
@@ -8199,12 +8205,6 @@ AI创业都得是学霸出身吗（热度：24321）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E8%BF%98%E4%BC%9A%E5%90%91%E6%9B%B4%E5%A4%9A%E5%9B%BD%E5%AE%B6%E5%85%8D%E7%AD%BE%23" target="weibo">
-外交部回应是否还会向更多国家免签（热度：19744）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E6%AD%8C%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%8E%B0%E5%9C%BA%E5%BA%94%E6%8F%B4%E8%88%9E%23" target="weibo">
 夏日歌会机器人现场应援舞（热度：19594）
 </a>
@@ -8243,6 +8243,12 @@ AI创业都得是学霸出身吗（热度：24321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%80%A7%E8%BF%91%E8%A7%86%E5%92%8C%E5%81%87%E6%80%A7%E8%BF%91%E8%A7%86%E5%A6%82%E4%BD%95%E5%8C%BA%E5%88%86%23" target="weibo">
 真性近视和假性近视如何区分（热度：18318）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E9%85%B1%E5%9B%AD%E5%BC%84%E6%88%98%E6%8D%9F%E9%80%A0%E5%9E%8B%23" target="weibo">
+李现酱园弄战损造型（热度：17996）
 </a>
 </li>
 
@@ -8345,6 +8351,12 @@ AI创业都得是学霸出身吗（热度：24321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E8%A1%A8%E6%BC%94%E9%AB%98%E7%A9%BA%E6%9D%82%E6%8A%806%E5%B2%81%E5%84%BF%E5%AD%90%E9%9B%A8%E4%B8%AD%E5%AE%88%E6%8A%A4%23" target="weibo">
 父母表演高空杂技6岁儿子雨中守护（热度：14049）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E6%8C%81%E7%BB%AD%E4%BC%98%E5%8C%96%E5%85%A5%E5%A2%83%E6%94%BF%E7%AD%96%23" target="weibo">
+中方将持续优化入境政策（热度：12440）
 </a>
 </li>
 

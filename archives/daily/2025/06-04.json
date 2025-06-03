@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748975809253,
+  "endTime": 1748976671990,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35521,
+      "num": 78515,
+      "word": "外交部回应是否还会向更多国家免签",
+      "onboard_time": 1748974635,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33601,
       "num": 44032,
       "word": "李嘉鑫长文告别陆烟",
@@ -467,10 +475,18 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19744,
-      "num": 78515,
-      "word": "外交部回应是否还会向更多国家免签",
-      "onboard_time": 1748974635,
+      "raw_hot": 17996,
+      "num": 18853,
+      "word": "李现酱园弄战损造型",
+      "onboard_time": 1748975955,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 12440,
+      "num": 57407,
+      "word": "中方将持续优化入境政策",
+      "onboard_time": 1748975835,
       "rank": 9,
       "category": "国内时政"
     }
