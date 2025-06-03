@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748917490555,
+  "endTime": 1748920926813,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -41,6 +41,14 @@
       "onboard_time": 1748859800,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1726051,
+      "num": 1726051,
+      "word": "酱园弄第一部定档",
+      "onboard_time": 1748917521,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1615973,
@@ -91,6 +99,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1481033,
+      "num": 719111,
+      "word": "警方通报男子将女童拖进小巷",
+      "onboard_time": 1748918541,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1467750,
       "num": 623598,
       "word": "雷军删掉诋毁原文",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1389992,
-      "num": 355909,
+      "num": 464628,
       "word": "女子被逼复婚又遭家暴",
       "onboard_time": 1748916019,
       "rank": 11,
@@ -177,6 +193,14 @@
       "onboard_time": 1748753001,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1259489,
+      "num": 473250,
+      "word": "男子把女童拖入小巷将被追究刑责",
+      "onboard_time": 1748920401,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1256425,
@@ -395,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 786298,
+      "num": 438611,
+      "word": "易烊千玺酱园弄光头造型",
+      "onboard_time": 1748919201,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 785256,
       "num": 643678,
       "word": "王爷急着圆房我急着出生",
@@ -457,6 +489,14 @@
       "onboard_time": 1748786121,
       "rank": 3,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 718256,
+      "num": 718256,
+      "word": "酱园弄悬案全员亮相",
+      "onboard_time": 1748917699,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 700842,
@@ -547,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 635332,
+      "num": 635332,
+      "word": "哈佛蒋雨融",
+      "onboard_time": 1748918841,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 633623,
       "num": 375201,
       "word": "曾舜晞新剧被前妻做局了",
@@ -601,6 +649,14 @@
       "onboard_time": 1748819897,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 611174,
+      "num": 611174,
+      "word": "周星驰执导电影女足杀青",
+      "onboard_time": 1748918119,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 605629,
@@ -665,6 +721,14 @@
       "onboard_time": 1748848701,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 559652,
+      "num": 559652,
+      "word": "杨幂酱园弄王许梅造型",
+      "onboard_time": 1748919741,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 558235,
@@ -793,6 +857,14 @@
       "onboard_time": 1748768420,
       "rank": 6,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 500159,
+      "num": 500159,
+      "word": "警方通报7人殴打未成年人",
+      "onboard_time": 1748916799,
+      "rank": 16,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 498438,
@@ -1003,6 +1075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 411267,
+      "num": 411267,
+      "word": "酱园弄",
+      "onboard_time": 1748917521,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 404107,
       "num": 404107,
       "word": "孙颖莎云见面会",
@@ -1115,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382148,
+      "num": 382148,
+      "word": "邱贻可说孙颖莎反手如何练是秘密",
+      "onboard_time": 1748916799,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381475,
       "num": 470868,
       "word": "2025年高考举报电话",
@@ -1192,6 +1280,14 @@
       "word": "兰博基尼车主赖停车费被代驾举报酒驾",
       "onboard_time": 1748846422,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 363701,
+      "num": 363701,
+      "word": "山西网红艺人大刚饮酒过量离世",
+      "onboard_time": 1748916799,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1377,14 +1473,6 @@
       "onboard_time": 1748761100,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325182,
-      "num": 325182,
-      "word": "山西网红艺人大刚饮酒过量离世",
-      "onboard_time": 1748916799,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322423,
@@ -1723,6 +1811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 277794,
+      "num": 277794,
+      "word": "近视600度是一个重要分界线",
+      "onboard_time": 1748917041,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 277063,
       "num": 277063,
       "word": "易烊千玺六一在房间里开山",
@@ -1809,14 +1905,6 @@
       "onboard_time": 1748824999,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 267647,
-      "num": 267647,
-      "word": "邱贻可说孙颖莎反手如何练是秘密",
-      "onboard_time": 1748916799,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 262614,
@@ -1929,14 +2017,6 @@
       "onboard_time": 1748703140,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 252399,
-      "num": 252399,
-      "word": "警方通报7人殴打未成年人",
-      "onboard_time": 1748916799,
-      "rank": 16,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 252129,
@@ -2083,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234720,
+      "num": 234720,
+      "word": "撕拉片摄影师置顶鞠婧祎张凌赫",
+      "onboard_time": 1748917100,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
@@ -2113,14 +2201,6 @@
       "onboard_time": 1748771781,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 225452,
-      "num": 225452,
-      "word": "撕拉片摄影师置顶鞠婧祎张凌赫",
-      "onboard_time": 1748917100,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 224721,
@@ -2387,6 +2467,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 204554,
+      "num": 204554,
+      "word": "刘浩存打戏",
+      "onboard_time": 1748920460,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203163,
       "num": 181788,
       "word": "严浩翔万妮达没有一秒出镜是浪费的",
@@ -2401,6 +2489,14 @@
       "onboard_time": 1748858239,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202961,
+      "num": 202961,
+      "word": "酱园弄群星海报",
+      "onboard_time": 1748920040,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 202960,
@@ -2441,6 +2537,14 @@
       "onboard_time": 1748772140,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201881,
+      "num": 201881,
+      "word": "折腰上星浙江卫视",
+      "onboard_time": 1748920102,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 200470,
@@ -3003,6 +3107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175722,
+      "num": 175722,
+      "word": "许嵩 想见的人多多见到",
+      "onboard_time": 1748920341,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175500,
       "num": 175500,
       "word": "赵樱子自曝患抑郁症",
@@ -3155,6 +3267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168323,
+      "num": 168323,
+      "word": "孙颖莎王楚钦现身欧洲大满贯宣传片",
+      "onboard_time": 1748918599,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167479,
       "num": 167479,
       "word": "六一",
@@ -3241,6 +3361,14 @@
       "onboard_time": 1748833340,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163214,
+      "num": 149356,
+      "word": "迪丽热巴待播剧庆生照",
+      "onboard_time": 1748918480,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 163066,
@@ -3337,6 +3465,22 @@
       "onboard_time": 1748780839,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158600,
+      "num": 249531,
+      "word": "殴打未成年人7名涉案人全部被抓",
+      "onboard_time": 1748917221,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158567,
+      "num": 236312,
+      "word": "王一博台铃三年超长待机",
+      "onboard_time": 1748918300,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 158330,
@@ -3691,14 +3835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143968,
-      "num": 143968,
-      "word": "近视600度是一个重要分界线",
-      "onboard_time": 1748917041,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 143841,
       "num": 141747,
       "word": "王鹤棣差点给王耀庆一脚",
@@ -3753,6 +3889,22 @@
       "onboard_time": 1748876061,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142407,
+      "num": 142407,
+      "word": "七根心简",
+      "onboard_time": 1748918180,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141960,
+      "num": 141960,
+      "word": "樊振东德国看球笑容满面",
+      "onboard_time": 1748919560,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 141959,
@@ -4443,6 +4595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122568,
+      "num": 122568,
+      "word": "暑期档已开启",
+      "onboard_time": 1748918599,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122541,
       "num": 122541,
       "word": "第一届学生是白月光",
@@ -4491,12 +4651,28 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 121038,
+      "num": 121038,
+      "word": "Deft恭喜Uzi入选名人堂",
+      "onboard_time": 1748920701,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121015,
       "num": 121015,
       "word": "饶雪漫给柯淳发青春戏片约",
       "onboard_time": 1748759720,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120800,
+      "num": 120800,
+      "word": "华为Pura80系列",
+      "onboard_time": 1748919322,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 120761,
@@ -4537,14 +4713,6 @@
       "onboard_time": 1748774061,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119695,
-      "num": 119695,
-      "word": "殴打未成年人7名涉案人全部被抓",
-      "onboard_time": 1748917221,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119623,
@@ -4913,6 +5081,14 @@
       "onboard_time": 1748766023,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110117,
+      "num": 110117,
+      "word": "上证指数",
+      "onboard_time": 1748920881,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 109986,
@@ -5772,7 +5948,7 @@
     },
     {
       "raw_hot": 93759,
-      "num": 93759,
+      "num": 223359,
       "word": "郑钦文说在红土上比对手更得心应手",
       "onboard_time": 1748912901,
       "rank": 45,
@@ -6547,6 +6723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71957,
+      "num": 143276,
+      "word": "什么颜色的被子能提升睡眠质量",
+      "onboard_time": 1748920881,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71598,
       "num": 71598,
       "word": "全员加速中",
@@ -6961,6 +7145,14 @@
       "onboard_time": 1748733196,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52909,
+      "num": 281458,
+      "word": "哪些动作能有效降低眼睛度数",
+      "onboard_time": 1748920280,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 52700,
