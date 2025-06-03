@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748925190666,
+  "endTime": 1748926104703,
   "band_list": [
     {
       "raw_hot": 2085610,
@@ -59,8 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1055079,
-      "num": 1055079,
+      "raw_hot": 1122343,
+      "num": 1122343,
       "word": "哈佛蒋雨融",
       "onboard_time": 1748918841,
       "rank": 6,
@@ -83,20 +83,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 860142,
+      "num": 860142,
+      "word": "男子为18.8万彩礼买假存单获刑",
+      "onboard_time": 1748921361,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 843300,
       "num": 843300,
       "word": "小众但是很烧钱的爱好",
       "onboard_time": 1748907920,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 817215,
-      "num": 817215,
-      "word": "男子为18.8万彩礼买假存单获刑",
-      "onboard_time": 1748921361,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 814391,
@@ -131,20 +131,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 697442,
+      "num": 697442,
+      "word": "马斯克被曝炫耀在世界各地都有孩子",
+      "onboard_time": 1748923222,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 677253,
       "num": 677253,
       "word": "酱园弄章子怡c位海报",
       "onboard_time": 1748924062,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 651041,
-      "num": 651041,
-      "word": "马斯克被曝炫耀在世界各地都有孩子",
-      "onboard_time": 1748923222,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 650011,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 614331,
-      "num": 223358,
+      "num": 245805,
       "word": "何秋亊方向汪苏泷道歉",
       "onboard_time": 1748859800,
       "rank": 20,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 583842,
-      "num": 583842,
+      "num": 659576,
       "word": "张雪峰说自己动了太多人的蛋糕",
       "onboard_time": 1748921900,
       "rank": 13,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347060,
+      "num": 347060,
+      "word": "黄杨钿甜爸爸退出公司经营异常",
+      "onboard_time": 1748923462,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342997,
       "num": 249267,
       "word": "迪丽热巴撕拉片",
@@ -345,14 +353,6 @@
       "onboard_time": 1748849839,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311746,
-      "num": 311746,
-      "word": "黄杨钿甜爸爸退出公司经营异常",
-      "onboard_time": 1748923462,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 309655,
@@ -387,8 +387,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287741,
+      "num": 277690,
+      "word": "杨幂酱园弄镜头",
+      "onboard_time": 1748922260,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285309,
-      "num": 171746,
+      "num": 177055,
       "word": "高质量恋爱的十个特征",
       "onboard_time": 1748924062,
       "rank": 31,
@@ -401,14 +409,6 @@
       "onboard_time": 1748875283,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 277690,
-      "num": 277690,
-      "word": "杨幂酱园弄镜头",
-      "onboard_time": 1748922260,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 269849,
@@ -467,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 236027,
+      "num": 236027,
+      "word": "38岁男子酒后拖拽6岁女童进巷被拘",
+      "onboard_time": 1748925683,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 234720,
       "num": 234720,
       "word": "撕拉片摄影师置顶鞠婧祎张凌赫",
@@ -523,6 +531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 204977,
+      "num": 204977,
+      "word": "上一秒亲吻下一秒捅刀",
+      "onboard_time": 1748925622,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204881,
       "num": 204881,
       "word": "迪丽热巴生日工作室发文",
@@ -545,6 +561,14 @@
       "onboard_time": 1748920102,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197928,
+      "num": 197928,
+      "word": "闪耀暖暖",
+      "onboard_time": 1748924844,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 197481,
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 176147,
-      "num": 176147,
+      "num": 181123,
       "word": "王鹤润新剧高知学霸",
       "onboard_time": 1748922681,
       "rank": 28,
@@ -635,6 +659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170514,
+      "num": 170514,
+      "word": "白鹿曾舜晞合唱在加纳共和国离婚",
+      "onboard_time": 1748925981,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168494,
       "num": 168494,
       "word": "宋雨琦带千人开场真热血番",
@@ -651,12 +683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168105,
-      "num": 168105,
-      "word": "闪耀暖暖",
-      "onboard_time": 1748924844,
-      "rank": 33,
-      "category": "游戏"
+      "raw_hot": 164245,
+      "num": 145755,
+      "word": "雷军复盘时问自己的问题",
+      "onboard_time": 1748924602,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 163214,
@@ -707,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145755,
-      "num": 145755,
-      "word": "雷军复盘时问自己的问题",
-      "onboard_time": 1748924602,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 145116,
       "num": 145116,
       "word": "藏海是皇帝唯一的希望",
@@ -736,6 +760,14 @@
       "word": "樊振东德国看球笑容满面",
       "onboard_time": 1748919560,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141904,
+      "num": 141904,
+      "word": "法网赛场见证历史",
+      "onboard_time": 1748924902,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -851,12 +883,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 118919,
-      "num": 118919,
-      "word": "法网赛场见证历史",
-      "onboard_time": 1748924902,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 120723,
+      "num": 120723,
+      "word": "揭秘绿发会与蒋雨融父亲关联",
+      "onboard_time": 1748925923,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117860,
+      "num": 117860,
+      "word": "周杰伦山下智久京都合体",
+      "onboard_time": 1748926044,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 115661,
@@ -931,6 +971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106467,
+      "num": 136694,
+      "word": "减脂先减内脏脂肪",
+      "onboard_time": 1748925622,
+      "rank": 39,
+      "category": "运动健身,民生新闻"
+    },
+    {
       "raw_hot": 102272,
       "num": 150301,
       "word": "高明打藏海",
@@ -945,6 +993,14 @@
       "onboard_time": 1748908400,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98681,
+      "num": 170981,
+      "word": "年字对于高考生的美好寓意",
+      "onboard_time": 1748926044,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 98232,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1748879180,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 81564,
+      "num": 262177,
+      "word": "洗头越频繁油头越重吗",
+      "onboard_time": 1748925083,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 79237,
@@ -1195,6 +1259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61472,
+      "num": 186049,
+      "word": "A股银行板块走强",
+      "onboard_time": 1748922200,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 61266,
       "num": 70517,
       "word": "张凌赫撕拉片",
@@ -1224,14 +1296,6 @@
       "word": "哪些主食不容易升高血糖",
       "onboard_time": 1748923881,
       "rank": 30,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 51870,
-      "num": 140972,
-      "word": "洗头越频繁油头越重吗",
-      "onboard_time": 1748925083,
-      "rank": 37,
       "category": "健康医疗"
     },
     {
@@ -1377,6 +1441,14 @@
       "onboard_time": 1748895074,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11672,
+      "num": 192311,
+      "word": "隔离防护产品防晒有效果吗",
+      "onboard_time": 1748925743,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 9558,
