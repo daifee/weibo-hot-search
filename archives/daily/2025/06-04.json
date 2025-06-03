@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748971496917,
+  "endTime": 1748972588599,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83352,
+      "num": 83352,
+      "word": "中方回应2名日本人在大连被杀害",
+      "onboard_time": 1748937621,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78612,
       "num": 86669,
       "word": "大骗子不骗小骗子",
@@ -297,14 +305,6 @@
       "onboard_time": 1748969898,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 73644,
-      "num": 75615,
-      "word": "中方回应2名日本人在大连被杀害",
-      "onboard_time": 1748937621,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 72117,
@@ -435,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37298,
+      "num": 40696,
+      "word": "郑晓龙肖战速速二搭",
+      "onboard_time": 1748972236,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33601,
       "num": 44032,
       "word": "李嘉鑫长文告别陆烟",
@@ -449,6 +457,14 @@
       "onboard_time": 1748949441,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28489,
+      "num": 40681,
+      "word": "酱园弄 章子怡出场",
+      "onboard_time": 1748972176,
+      "rank": 47,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
