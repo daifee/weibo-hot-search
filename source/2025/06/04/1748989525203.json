@@ -1,0 +1,410 @@
+{
+  "runTime": 1748989525203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 388249,
+        "num": 427137,
+        "word": "韩国媒体称李在明当选韩国总统",
+        "onboard_time": 1748962645,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299791,
+        "num": 299791,
+        "word": "亚朵酒店被曝出现医院枕套",
+        "onboard_time": 1748958982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16631,
+        "num": 261558,
+        "word": "2025年高考注意事项",
+        "onboard_time": 1748960065,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 226790,
+        "num": 226790,
+        "word": "三亚卫健委通报女子被蛇咬伤身亡",
+        "onboard_time": 1748962764,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 155334,
+        "num": 155334,
+        "word": "何秋亊 为什么别人是撞衫我是抄袭",
+        "onboard_time": 1748960424,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125069,
+        "num": 125069,
+        "word": "女子为祈福放生2.5万斤外来鲇鱼",
+        "onboard_time": 1748960365,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87677,
+        "num": 87677,
+        "word": "王安宇挤不进的圈子别硬融",
+        "onboard_time": 1748957303,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82709,
+        "num": 82709,
+        "word": "乌克兰称袭击克里米亚大桥",
+        "onboard_time": 1748954602,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70995,
+        "num": 70995,
+        "word": "藏海传大结局",
+        "onboard_time": 1748945841,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100716,
+        "num": 69041,
+        "word": "何秋亊 给哪吒道歉",
+        "onboard_time": 1748988376,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148282,
+        "num": 67455,
+        "word": "中方回应2名日本人在大连被杀害",
+        "onboard_time": 1748937621,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101457,
+        "num": 63997,
+        "word": "李在明称将尽最大努力履职",
+        "onboard_time": 1748965162,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78057,
+        "num": 62562,
+        "word": "杜海涛跟歌手女主持约会的一天",
+        "onboard_time": 1748947042,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61382,
+        "num": 61382,
+        "word": "稚奴终于可以睡个好觉了",
+        "onboard_time": 1748958263,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53153,
+        "num": 53153,
+        "word": "藏海传2",
+        "onboard_time": 1748964383,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45476,
+        "num": 45476,
+        "word": "杨幂叫热巴宝贝贝",
+        "onboard_time": 1748944280,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45210,
+        "num": 45210,
+        "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
+        "onboard_time": 1748951962,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41821,
+        "num": 41821,
+        "word": "为什么广东女生大多数都是素颜",
+        "onboard_time": 1748961025,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38005,
+        "num": 38005,
+        "word": "宁静潮牌定价",
+        "onboard_time": 1748969898,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37266,
+        "num": 37840,
+        "word": "她一个月赶了我一辈子的通勤",
+        "onboard_time": 1748961025,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103737,
+        "num": 37819,
+        "word": "学校成人礼一老师从台上跌落",
+        "onboard_time": 1748966002,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94784,
+        "num": 37792,
+        "word": "男子刀片嗓以为感冒竟差点丧命",
+        "onboard_time": 1748961025,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37728,
+        "num": 37728,
+        "word": "王星女友嘉嘉曾是乐队主唱",
+        "onboard_time": 1748959944,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37597,
+        "num": 37597,
+        "word": "何秋亊掉粉",
+        "onboard_time": 1748966301,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36769,
+        "num": 36769,
+        "word": "郑钦文泪洒发布会",
+        "onboard_time": 1748958023,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36572,
+        "num": 36572,
+        "word": "官方回应三亚仅个别医院有蛇毒血清",
+        "onboard_time": 1748957964,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34423,
+        "num": 34423,
+        "word": "莫言为冯巩取笔名闭嘴",
+        "onboard_time": 1748981773,
+        "rank": 26,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 32991,
+        "num": 32991,
+        "word": "乌克兰摧毁41架俄军战略轰炸机",
+        "onboard_time": 1748978235,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32716,
+        "num": 32716,
+        "word": "女子被蛇咬伤身亡当地已成立调查组",
+        "onboard_time": 1748958382,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31118,
+        "num": 32571,
+        "word": "这才是高明结局",
+        "onboard_time": 1748966841,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42392,
+        "num": 32559,
+        "word": "王星和女友嘉嘉合体拍杂志",
+        "onboard_time": 1748983035,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32534,
+        "num": 32534,
+        "word": "应采儿说Jasper在追星戒断状态",
+        "onboard_time": 1748951722,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32454,
+        "num": 32454,
+        "word": "27岁女游客在三亚被蛇咬伤身亡",
+        "onboard_time": 1748937742,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31849,
+        "num": 31849,
+        "word": "欧盟拟限制中企参与医疗器械公共采购",
+        "onboard_time": 1748966661,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30409,
+        "num": 30409,
+        "word": "彭于晏方否认与蔡依林恋情",
+        "onboard_time": 1748948901,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29582,
+        "num": 30409,
+        "word": "肖战留存片场百态",
+        "onboard_time": 1748967441,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28075,
+        "num": 30409,
+        "word": "观风拾雷的任务",
+        "onboard_time": 1748964562,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26389,
+        "num": 30409,
+        "word": "电梯按键",
+        "onboard_time": 1748983035,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26346,
+        "num": 30408,
+        "word": "迪丽热巴回应张馨予",
+        "onboard_time": 1748944400,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24535,
+        "num": 30408,
+        "word": "赵秉文好狠",
+        "onboard_time": 1748956702,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24299,
+        "num": 30408,
+        "word": "张婧仪回应张婧仪张婧怡",
+        "onboard_time": 1748961564,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23964,
+        "num": 30408,
+        "word": "大骗子不骗小骗子",
+        "onboard_time": 1748961745,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23669,
+        "num": 30408,
+        "word": "郑钦文止步法网8强",
+        "onboard_time": 1748949441,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21851,
+        "num": 30408,
+        "word": "曝iPhone17不支持自适应刷新率",
+        "onboard_time": 1748959102,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20750,
+        "num": 30407,
+        "word": "周柯宇发文祝热巴生日快乐",
+        "onboard_time": 1748954301,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19972,
+        "num": 30407,
+        "word": "肖战周雨彤谍报上不封顶路透",
+        "onboard_time": 1748953521,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19220,
+        "num": 30407,
+        "word": "藏海传38集封神",
+        "onboard_time": 1748963842,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18813,
+        "num": 30407,
+        "word": "何秋亊回应演唱会门票价格",
+        "onboard_time": 1748964562,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 18498,
+        "num": 30406,
+        "word": "外交部回应是否还会向更多国家免签",
+        "onboard_time": 1748974635,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17013,
+        "num": 30406,
+        "word": "如何利用维生素B甩掉坏情绪",
+        "onboard_time": 1748989217,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
