@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748968490426,
+  "endTime": 1748969502135,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -323,11 +323,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65133,
+      "num": 65133,
+      "word": "中方回应2名日本人在大连被杀害",
+      "onboard_time": 1748937621,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 64692,
+      "num": 86656,
+      "word": "易梦玲练背",
+      "onboard_time": 1748967680,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 63548,
       "num": 86662,
       "word": "肖战周雨彤谍报上不封顶路透",
       "onboard_time": 1748953521,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62666,
+      "num": 62666,
+      "word": "王安宇挤不进的圈子别硬融",
+      "onboard_time": 1748957303,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -337,6 +361,14 @@
       "onboard_time": 1748951722,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 61920,
+      "num": 86654,
+      "word": "刘浩存 台词",
+      "onboard_time": 1748968459,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 61559,
@@ -363,12 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55414,
-      "num": 86656,
-      "word": "易梦玲练背",
-      "onboard_time": 1748967680,
-      "rank": 47,
-      "category": "网红"
+      "raw_hot": 56022,
+      "num": 56022,
+      "word": "王星女友嘉嘉曾是乐队主唱",
+      "onboard_time": 1748959944,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 54692,
@@ -387,15 +419,7 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 51559,
-      "num": 86654,
-      "word": "刘浩存 台词",
-      "onboard_time": 1748968459,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 34912,
+      "raw_hot": 51423,
       "num": 272106,
       "word": "常州无锡角逐谁是十三妹",
       "onboard_time": 1748960244,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#习近平挂念这块隋碑40余年#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }
