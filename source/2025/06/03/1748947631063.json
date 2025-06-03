@@ -1,0 +1,410 @@
+{
+  "runTime": 1748947631063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1305922,
+        "num": 1305922,
+        "word": "藏海传大结局",
+        "onboard_time": 1748945841,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 943883,
+        "num": 943883,
+        "word": "27岁女游客在三亚被蛇咬伤身亡",
+        "onboard_time": 1748937742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33057,
+        "num": 883045,
+        "word": "端午假期旅游市场呈现哪些新亮点",
+        "onboard_time": 1748945422,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 835477,
+        "num": 835477,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1748940742,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573502,
+        "num": 573502,
+        "word": "何秋亊60秒视频广告报价50万",
+        "onboard_time": 1748941700,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537628,
+        "num": 537628,
+        "word": "警方通报男子将女童拖进小巷",
+        "onboard_time": 1748918541,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 459724,
+        "num": 459724,
+        "word": "何秋亊 汪苏泷",
+        "onboard_time": 1748927481,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 374996,
+        "num": 374996,
+        "word": "中传回应会否录取黄杨钿甜",
+        "onboard_time": 1748933722,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321111,
+        "num": 321111,
+        "word": "豆包流浪了两个月还胖了一斤多",
+        "onboard_time": 1748945121,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303474,
+        "num": 303474,
+        "word": "江苏一对新人端午开车坠河双双遇难",
+        "onboard_time": 1748942482,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1713555,
+        "num": 302056,
+        "word": "杨幂叫热巴宝贝贝",
+        "onboard_time": 1748944280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1580264,
+        "num": 299964,
+        "word": "杜海涛跟歌手女主持约会的一天",
+        "onboard_time": 1748947042,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742337,
+        "num": 298351,
+        "word": "外交部回应大连杀害2日本人案件",
+        "onboard_time": 1748937621,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30833,
+        "num": 296298,
+        "word": "端午假期590.7万人次出入境",
+        "onboard_time": 1748945780,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70948,
+        "num": 293481,
+        "word": "女童被拖进小巷男子动机到底是什么",
+        "onboard_time": 1748947222,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1246332,
+        "num": 292225,
+        "word": "迪丽热巴回应张馨予",
+        "onboard_time": 1748944400,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452593,
+        "num": 289845,
+        "word": "朱一龙晒杨蓉生日照",
+        "onboard_time": 1748945422,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288655,
+        "num": 288655,
+        "word": "藏海传37.9%",
+        "onboard_time": 1748940561,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269027,
+        "num": 269027,
+        "word": "严浩翔daddy级别",
+        "onboard_time": 1748946862,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29938,
+        "num": 268857,
+        "word": "欧洲最高的活火山喷发",
+        "onboard_time": 1748946681,
+        "rank": 19,
+        "category": "海外新闻,旅游"
+      },
+      {
+        "raw_hot": 597734,
+        "num": 268856,
+        "word": "周柯宇对热巴的多种称呼",
+        "onboard_time": 1748944280,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268776,
+        "num": 268776,
+        "word": "宣璐回应走后门",
+        "onboard_time": 1748944641,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228567,
+        "num": 228567,
+        "word": "乒超名单",
+        "onboard_time": 1748939723,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226149,
+        "num": 226149,
+        "word": "聊斋",
+        "onboard_time": 1748940561,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67128,
+        "num": 210382,
+        "word": "郑钦文发球质量位居第一",
+        "onboard_time": 1748944280,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201113,
+        "num": 201113,
+        "word": "何秋亊将直播回应争议",
+        "onboard_time": 1748937920,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200992,
+        "num": 200992,
+        "word": "藏海传",
+        "onboard_time": 1748941762,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30838,
+        "num": 200740,
+        "word": "高考对未来的人生选择还有多大影响",
+        "onboard_time": 1748947341,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25705,
+        "num": 200739,
+        "word": "历史上的各个民族去哪了",
+        "onboard_time": 1748946741,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67129,
+        "num": 200738,
+        "word": "本周十二星座运势如何",
+        "onboard_time": 1748945301,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200738,
+        "num": 200737,
+        "word": "台湾旅行团整团被卖到缅甸",
+        "onboard_time": 1748933481,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181010,
+        "num": 195844,
+        "word": "柯淳说短剧男主第一换姚冠宇了",
+        "onboard_time": 1748937022,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195711,
+        "num": 195711,
+        "word": "杨幂祝热巴生日快乐",
+        "onboard_time": 1748945241,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189844,
+        "num": 189844,
+        "word": "郑钦文萨巴伦卡抢七",
+        "onboard_time": 1748945962,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189478,
+        "num": 189478,
+        "word": "骑手离职后突发意外仍获10万救助",
+        "onboard_time": 1748944461,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175838,
+        "num": 175838,
+        "word": "38岁男子酒后拖拽6岁女童进巷被拘",
+        "onboard_time": 1748925683,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 165906,
+        "num": 165906,
+        "word": "安静公主吃激素药5天胖了10多斤",
+        "onboard_time": 1748933300,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162795,
+        "num": 162795,
+        "word": "藏海传超点",
+        "onboard_time": 1748928501,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55747,
+        "num": 137615,
+        "word": "复旦教授评哈佛女毕业生演讲",
+        "onboard_time": 1748941942,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103038,
+        "num": 137051,
+        "word": "于正说杨蓉是最自在最快乐最美好的存在",
+        "onboard_time": 1748946862,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136989,
+        "num": 136989,
+        "word": "藏海传he",
+        "onboard_time": 1748947460,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126023,
+        "num": 126023,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1748921841,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123395,
+        "num": 123395,
+        "word": "郑钦文状态",
+        "onboard_time": 1748945601,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118472,
+        "num": 118472,
+        "word": "重庆一地居民反映自来水中含活体虫",
+        "onboard_time": 1748945001,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114698,
+        "num": 114698,
+        "word": "田嘉瑞陈好宋茜王晓白合照",
+        "onboard_time": 1748943742,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112186,
+        "num": 112186,
+        "word": "王楚钦梁靖崑林昀儒同一俱乐部",
+        "onboard_time": 1748947222,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107842,
+        "num": 107842,
+        "word": "酱园弄23个主演",
+        "onboard_time": 1748944581,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106769,
+        "num": 106769,
+        "word": "陷入我们的热恋16集",
+        "onboard_time": 1748947580,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106177,
+        "num": 106177,
+        "word": "网传歌手歌单",
+        "onboard_time": 1748945480,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100986,
+        "num": 104342,
+        "word": "老外看到端午玩具要求马上发货走空运",
+        "onboard_time": 1748947580,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
