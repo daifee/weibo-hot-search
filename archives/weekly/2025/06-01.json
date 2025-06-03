@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748940585718,
+  "endTime": 1748942944167,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -539,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 785854,
+      "num": 785854,
+      "word": "藏海传37.9%",
+      "onboard_time": 1748940561,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 785256,
       "num": 643678,
       "word": "王爷急着圆房我急着出生",
@@ -627,12 +635,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690488,
+      "num": 601835,
+      "word": "迪丽热巴小红兔",
+      "onboard_time": 1748942241,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685203,
       "num": 685203,
       "word": "美国黄石公园车祸致中国公民5死8伤",
       "onboard_time": 1748750959,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 683736,
+      "num": 683736,
+      "word": "外交部回应大连杀害2日本人案件",
+      "onboard_time": 1748937621,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 677253,
@@ -715,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 641746,
+      "num": 593294,
+      "word": "聊斋",
+      "onboard_time": 1748940561,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 633623,
       "num": 375201,
       "word": "曾舜晞新剧被前妻做局了",
@@ -729,6 +761,14 @@
       "onboard_time": 1748839160,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623712,
+      "num": 623712,
+      "word": "乒超名单",
+      "onboard_time": 1748939723,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 622003,
@@ -777,6 +817,14 @@
       "onboard_time": 1748918119,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 610388,
+      "num": 610388,
+      "word": "郑钦文vs萨巴伦卡",
+      "onboard_time": 1748940742,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 605629,
@@ -1012,7 +1060,7 @@
     },
     {
       "raw_hot": 491317,
-      "num": 491317,
+      "num": 538400,
       "word": "何秋亊将直播回应争议",
       "onboard_time": 1748937920,
       "rank": 8,
@@ -1524,7 +1572,7 @@
     },
     {
       "raw_hot": 355296,
-      "num": 445364,
+      "num": 604309,
       "word": "李在明说若胜选将稳定处理韩中关系",
       "onboard_time": 1748935160,
       "rank": 28,
@@ -1761,14 +1809,6 @@
       "onboard_time": 1748846000,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 315048,
-      "num": 315048,
-      "word": "乒超名单",
-      "onboard_time": 1748939723,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 313984,
@@ -2043,6 +2083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 281787,
+      "num": 281787,
+      "word": "大理偶遇向佐陈妍希",
+      "onboard_time": 1748940802,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281538,
       "num": 281538,
       "word": "美国民众开始不愿花钱了",
@@ -2283,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253411,
+      "num": 602198,
+      "word": "何秋亊60秒视频广告报价50万",
+      "onboard_time": 1748941700,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252129,
       "num": 252129,
       "word": "不敢相信这个大胖小子是高瀚宇",
@@ -2307,14 +2363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 250413,
-      "num": 250413,
-      "word": "外交部回应大连杀害2日本人案件",
-      "onboard_time": 1748937621,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 250089,
       "num": 229789,
       "word": "杨天真为什么去留学",
@@ -2329,6 +2377,14 @@
       "onboard_time": 1748867060,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249914,
+      "num": 249914,
+      "word": "卫健局回应女子在三亚被毒蛇咬伤身亡",
+      "onboard_time": 1748940322,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249301,
@@ -2379,6 +2435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 245069,
+      "num": 327645,
+      "word": "姚冠宇的短剧",
+      "onboard_time": 1748939120,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243730,
       "num": 291223,
       "word": "藏海传云合33.6%",
@@ -2401,14 +2465,6 @@
       "onboard_time": 1748842521,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241744,
-      "num": 241744,
-      "word": "姚冠宇的短剧",
-      "onboard_time": 1748939120,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 240255,
@@ -2481,6 +2537,14 @@
       "onboard_time": 1748875283,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 231790,
+      "num": 231790,
+      "word": "马龙不参加2025乒超",
+      "onboard_time": 1748941281,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 230903,
@@ -2593,14 +2657,6 @@
       "onboard_time": 1748922563,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219884,
-      "num": 160249,
-      "word": "藏海传37.9%",
-      "onboard_time": 1748940561,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 219683,
@@ -2777,6 +2833,14 @@
       "onboard_time": 1748743460,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206774,
+      "num": 314679,
+      "word": "新说唱发布会",
+      "onboard_time": 1748941100,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 206386,
@@ -3193,6 +3257,14 @@
       "onboard_time": 1748871202,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189187,
+      "num": 189187,
+      "word": "何秋亊演唱会门票价格",
+      "onboard_time": 1748940500,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 189186,
@@ -3803,6 +3875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166422,
+      "num": 189874,
+      "word": "大爷闯红灯撞倒女孩后直接走了",
+      "onboard_time": 1748938820,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165440,
       "num": 165440,
       "word": "科目三没过竟然是因为一头牛",
@@ -3827,12 +3907,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165005,
+      "num": 165005,
+      "word": "练完就跟着VOGUE去度假了",
+      "onboard_time": 1748942122,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 164943,
       "num": 155026,
       "word": "惠英红老师准备好 新商务来了",
       "onboard_time": 1748782283,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164738,
+      "num": 164738,
+      "word": "拼好狗",
+      "onboard_time": 1748938701,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 164703,
@@ -3995,14 +4091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158772,
-      "num": 158772,
-      "word": "聊斋",
-      "onboard_time": 1748940561,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158600,
       "num": 249531,
       "word": "殴打未成年人7名涉案人全部被抓",
@@ -4040,6 +4128,14 @@
       "word": "周深养活了多少推文博主",
       "onboard_time": 1748852781,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157443,
+      "num": 157443,
+      "word": "姚晨说真不是后妈",
+      "onboard_time": 1748942422,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -4147,6 +4243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 153325,
+      "num": 583080,
+      "word": "鸿蒙AI手表来了",
+      "onboard_time": 1748939661,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 152846,
       "num": 152846,
       "word": "刘美含哭戏哭出了又爱又恨",
@@ -4200,6 +4304,14 @@
       "word": "江苏一女子偶遇小狗全身挂满鱼钩",
       "onboard_time": 1748767882,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151458,
+      "num": 284186,
+      "word": "八旬老人以房产换赡养关系恶化后反悔",
+      "onboard_time": 1748940202,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -4409,6 +4521,14 @@
       "onboard_time": 1748927781,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144318,
+      "num": 144318,
+      "word": "外交部回应蒙古国总理被解职",
+      "onboard_time": 1748941461,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144010,
@@ -4673,14 +4793,6 @@
       "onboard_time": 1748783241,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137706,
-      "num": 303640,
-      "word": "鸿蒙AI手表来了",
-      "onboard_time": 1748939661,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 137557,
@@ -5299,6 +5411,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 123800,
+      "num": 123800,
+      "word": "雷军回应YU7定价",
+      "onboard_time": 1748940860,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123652,
       "num": 123652,
       "word": "荣耀400",
@@ -5707,14 +5827,6 @@
       "category": "体育,海外新闻"
     },
     {
-      "raw_hot": 115707,
-      "num": 115707,
-      "word": "八旬老人以房产换赡养关系恶化后反悔",
-      "onboard_time": 1748940202,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115661,
       "num": 115661,
       "word": "国际乒联2025第23周排名",
@@ -5833,6 +5945,14 @@
       "onboard_time": 1748744480,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 113441,
+      "num": 587001,
+      "word": "江苏一对新人端午开车坠河双双遇难",
+      "onboard_time": 1748942482,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113279,
@@ -6059,28 +6179,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 109171,
-      "num": 109171,
-      "word": "何秋亊演唱会门票价格",
-      "onboard_time": 1748940500,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 108919,
       "num": 108919,
       "word": "梁靖康摆摊有的是力气和手段",
       "onboard_time": 1748863881,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108494,
-      "num": 189874,
-      "word": "大爷闯红灯撞倒女孩后直接走了",
-      "onboard_time": 1748938820,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108393,
@@ -6344,6 +6448,14 @@
       "word": "1万多年前古人给石头做美容",
       "onboard_time": 1748863461,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103620,
+      "num": 562753,
+      "word": "香港警方回应恒生银行持刀抢劫案",
+      "onboard_time": 1748941519,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -7195,14 +7307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88228,
-      "num": 164504,
-      "word": "卫健局回应女子在三亚被毒蛇咬伤身亡",
-      "onboard_time": 1748940322,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87836,
       "num": 87836,
       "word": "藏海最倒霉的一集",
@@ -7601,6 +7705,14 @@
       "onboard_time": 1748707580,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76847,
+      "num": 568465,
+      "word": "减肥对打呼噜有什么影响",
+      "onboard_time": 1748942482,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 76845,
@@ -8347,6 +8459,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 48225,
+      "num": 578476,
+      "word": "小黄豆说恨自己没多读书",
+      "onboard_time": 1748941041,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 48185,
       "num": 146028,
       "word": "国足若输印尼将提前小组出局",
@@ -8681,6 +8801,14 @@
       "onboard_time": 1748834239,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 37287,
+      "num": 298061,
+      "word": "不上班后心理有什么变化",
+      "onboard_time": 1748941281,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 36984,
