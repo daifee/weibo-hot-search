@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748928439448,
+  "endTime": 1748929439764,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1805267,
-      "num": 1114832,
+      "num": 1121557,
       "word": "何秋亊 汪苏泷",
       "onboard_time": 1748927481,
       "rank": 3,
@@ -291,20 +291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1120584,
+      "num": 1120584,
+      "word": "马斯克被曝炫耀在世界各地都有孩子",
+      "onboard_time": 1748923222,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1105383,
       "num": 1167945,
       "word": "面具人真是赵秉文",
       "onboard_time": 1748860639,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1090734,
-      "num": 1090734,
-      "word": "马斯克被曝炫耀在世界各地都有孩子",
-      "onboard_time": 1748923222,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 1083707,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 1002739,
-      "num": 376996,
+      "num": 421742,
       "word": "38岁男子酒后拖拽6岁女童进巷被拘",
       "onboard_time": 1748925683,
       "rank": 23,
@@ -1379,20 +1379,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 359226,
+      "num": 359226,
+      "word": "上一秒亲吻下一秒捅刀",
+      "onboard_time": 1748925622,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357759,
       "num": 302573,
       "word": "Sunnee母亲病重",
       "onboard_time": 1748869041,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357730,
-      "num": 357730,
-      "word": "上一秒亲吻下一秒捅刀",
-      "onboard_time": 1748925622,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 356632,
@@ -2291,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234388,
+      "num": 327279,
+      "word": "宋昕冉卡点祝迪丽热巴生日快乐",
+      "onboard_time": 1748927781,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
@@ -2348,7 +2356,7 @@
     },
     {
       "raw_hot": 224250,
-      "num": 224250,
+      "num": 294306,
       "word": "电影女足讲述峨嵋队征战亚冠故事",
       "onboard_time": 1748924241,
       "rank": 22,
@@ -2385,6 +2393,22 @@
       "onboard_time": 1748782400,
       "rank": 21,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 222094,
+      "num": 222094,
+      "word": "减脂先减内脏脂肪",
+      "onboard_time": 1748925622,
+      "rank": 39,
+      "category": "运动健身,民生新闻"
+    },
+    {
+      "raw_hot": 221677,
+      "num": 221677,
+      "word": "藏海传超点",
+      "onboard_time": 1748928501,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 220081,
@@ -2753,6 +2777,14 @@
       "onboard_time": 1748753001,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196423,
+      "num": 196423,
+      "word": "何秋亊工作室",
+      "onboard_time": 1748928621,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 195805,
@@ -3451,14 +3483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167541,
-      "num": 167541,
-      "word": "减脂先减内脏脂肪",
-      "onboard_time": 1748925622,
-      "rank": 39,
-      "category": "运动健身,民生新闻"
-    },
-    {
       "raw_hot": 167479,
       "num": 167479,
       "word": "六一",
@@ -3873,14 +3897,6 @@
       "onboard_time": 1748760439,
       "rank": 46,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 150170,
-      "num": 327279,
-      "word": "宋昕冉卡点祝迪丽热巴生日快乐",
-      "onboard_time": 1748927781,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 149906,
@@ -4851,6 +4867,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 123652,
+      "num": 123652,
+      "word": "荣耀400",
+      "onboard_time": 1748928981,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 123325,
       "num": 123325,
       "word": "nana民宿",
@@ -4969,6 +4993,14 @@
       "onboard_time": 1748759720,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120903,
+      "num": 159198,
+      "word": "柯颖是你的名被嗑是你的命",
+      "onboard_time": 1748928743,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 120800,
@@ -5179,6 +5211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115878,
+      "num": 169899,
+      "word": "网友拍到哪吒2晚霞",
+      "onboard_time": 1748927901,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115799,
       "num": 115799,
       "word": "巴黎夺欧冠狂欢夜2人身亡",
@@ -5241,14 +5281,6 @@
       "onboard_time": 1748742501,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114640,
-      "num": 114640,
-      "word": "网友拍到哪吒2晚霞",
-      "onboard_time": 1748927901,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114547,
@@ -6307,6 +6339,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 93800,
+      "num": 93800,
+      "word": "赴山海破400万",
+      "onboard_time": 1748929221,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93759,
       "num": 223359,
       "word": "郑钦文说在红土上比对手更得心应手",
@@ -6641,6 +6681,14 @@
       "onboard_time": 1748846239,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86711,
+      "num": 86711,
+      "word": "这是耳鸡",
+      "onboard_time": 1748929221,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 86236,
@@ -7380,7 +7428,7 @@
     },
     {
       "raw_hot": 61472,
-      "num": 186049,
+      "num": 204332,
       "word": "A股银行板块走强",
       "onboard_time": 1748922200,
       "rank": 30,
@@ -8107,6 +8155,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 31448,
+      "num": 132710,
+      "word": "2025年过去一半了",
+      "onboard_time": 1748928142,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31447,
       "num": 31447,
       "word": "单依纯说唱得很沉浸忘我",
@@ -8489,14 +8545,6 @@
       "onboard_time": 1748803035,
       "rank": 48,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 20560,
-      "num": 132710,
-      "word": "2025年过去一半了",
-      "onboard_time": 1748928142,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20188,
