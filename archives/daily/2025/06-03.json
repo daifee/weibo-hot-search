@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748955200986,
+  "endTime": 1748956168303,
   "band_list": [
     {
       "raw_hot": 2181073,
@@ -171,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1069202,
+      "num": 1171072,
+      "word": "高明下线",
+      "onboard_time": 1748953102,
+      "rank": 1,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 1057179,
       "num": 481393,
       "word": "彭于晏方否认与蔡依林恋情",
@@ -259,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 790381,
-      "num": 790381,
-      "word": "高明下线",
-      "onboard_time": 1748953102,
-      "rank": 1,
-      "category": "民生新闻,剧集"
-    },
-    {
       "raw_hot": 786298,
       "num": 667294,
       "word": "易烊千玺酱园弄光头造型",
@@ -299,20 +299,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 716015,
+      "num": 374560,
+      "word": "张婧仪张婧怡",
+      "onboard_time": 1748951362,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 682319,
+      "num": 478079,
+      "word": "何秋亊",
+      "onboard_time": 1748948241,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 677253,
       "num": 677253,
       "word": "酱园弄章子怡c位海报",
       "onboard_time": 1748924062,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 674166,
-      "num": 255186,
-      "word": "张婧仪张婧怡",
-      "onboard_time": 1748951362,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 664531,
@@ -353,6 +361,14 @@
       "onboard_time": 1748940561,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 634237,
+      "num": 634237,
+      "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
+      "onboard_time": 1748951962,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 623712,
@@ -409,14 +425,6 @@
       "onboard_time": 1748921900,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 576296,
-      "num": 478079,
-      "word": "何秋亊",
-      "onboard_time": 1748948241,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 545759,
@@ -499,14 +507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 464237,
-      "num": 464237,
-      "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
-      "onboard_time": 1748951962,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 435825,
       "num": 435825,
       "word": "11岁女童在妈妈单位被男同事猥亵",
@@ -564,11 +564,19 @@
     },
     {
       "raw_hot": 405400,
-      "num": 241642,
+      "num": 309029,
       "word": "李嘉格婚礼当天婆婆和妈妈冷战",
       "onboard_time": 1748950221,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399065,
+      "num": 399065,
+      "word": "肖战周雨彤谍报上不封顶路透",
+      "onboard_time": 1748953521,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 392512,
@@ -616,14 +624,6 @@
       "word": "刘浩存打戏",
       "onboard_time": 1748920460,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 370623,
-      "num": 370623,
-      "word": "肖战周雨彤谍报上不封顶路透",
-      "onboard_time": 1748953521,
-      "rank": 8,
       "category": "剧集"
     },
     {
@@ -739,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328185,
+      "num": 277164,
+      "word": "乌克兰称袭击克里米亚大桥",
+      "onboard_time": 1748954602,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 320588,
       "num": 320588,
       "word": "宣璐回应走后门",
@@ -843,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 281158,
+      "num": 281158,
+      "word": "赵丽颖直播",
+      "onboard_time": 1748952740,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269849,
       "num": 223445,
       "word": "小车冲进屋10岁姐姐神速救起妹妹",
@@ -907,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253377,
-      "num": 253377,
-      "word": "赵丽颖直播",
-      "onboard_time": 1748952740,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251560,
       "num": 251560,
       "word": "韩国5名候选人竞逐总统",
@@ -953,14 +961,6 @@
       "onboard_time": 1748953942,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237503,
-      "num": 237503,
-      "word": "乌克兰称袭击克里米亚大桥",
-      "onboard_time": 1748954602,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 234720,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1748941762,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225904,
+      "num": 206836,
+      "word": "周柯宇发文祝热巴生日快乐",
+      "onboard_time": 1748954301,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 224721,
@@ -1083,20 +1091,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218453,
+      "num": 218453,
+      "word": "应采儿说Jasper在追星戒断状态",
+      "onboard_time": 1748951722,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213491,
       "num": 213491,
       "word": "赵秉文 第三人",
       "onboard_time": 1748952621,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213066,
-      "num": 213066,
-      "word": "应采儿说Jasper在追星戒断状态",
-      "onboard_time": 1748951722,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 212172,
@@ -1137,14 +1145,6 @@
       "onboard_time": 1748907498,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 206836,
-      "num": 206836,
-      "word": "周柯宇发文祝热巴生日快乐",
-      "onboard_time": 1748954301,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 206774,
@@ -1307,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190183,
+      "num": 190183,
+      "word": "藏海传会有第二部吗",
+      "onboard_time": 1748955562,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189187,
       "num": 189187,
       "word": "何秋亊演唱会门票价格",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1748936660,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181194,
+      "num": 181194,
+      "word": "张本美和申裕斌平野美宇加盟乒超",
+      "onboard_time": 1748955321,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 180617,
@@ -1571,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160771,
+      "num": 160771,
+      "word": "萨巴伦卡赞郑钦文是顽强的对手",
+      "onboard_time": 1748955262,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160265,
       "num": 160265,
       "word": "姚晨说真不是后妈",
@@ -1667,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148866,
+      "num": 148866,
+      "word": "程潇说永远不想回去前面的人生",
+      "onboard_time": 1748954842,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147109,
       "num": 370157,
       "word": "广西柳州一路面滑坡致三辆轿车滑落",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1748918180,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142197,
+      "num": 142197,
+      "word": "建议尽快解决不舒服的小事",
+      "onboard_time": 1748954541,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 141960,
@@ -1915,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134867,
+      "num": 134867,
+      "word": "蔚来财报",
+      "onboard_time": 1748955502,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 134713,
       "num": 134713,
       "word": "半年不上班的心理变化",
@@ -2011,6 +2059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129055,
+      "num": 129055,
+      "word": "宣璐恶剪",
+      "onboard_time": 1748950881,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128862,
       "num": 128862,
       "word": "网传歌手歌单",
@@ -2025,22 +2081,6 @@
       "onboard_time": 1748923702,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128196,
-      "num": 128196,
-      "word": "建议尽快解决不舒服的小事",
-      "onboard_time": 1748954541,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 126334,
-      "num": 126334,
-      "word": "程潇说永远不想回去前面的人生",
-      "onboard_time": 1748954842,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 125811,
@@ -2089,6 +2129,14 @@
       "onboard_time": 1748929880,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121630,
+      "num": 121630,
+      "word": "造城者制片人是赵丽颖",
+      "onboard_time": 1748955862,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 121255,
@@ -2147,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117651,
+      "num": 117651,
+      "word": "女子紧身裤藏30只活体陆龟入境被查",
+      "onboard_time": 1748955922,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117541,
       "num": 117541,
       "word": "姚琛 腰精",
@@ -2177,14 +2233,6 @@
       "onboard_time": 1748933481,
       "rank": 43,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 116137,
-      "num": 116137,
-      "word": "宣璐恶剪",
-      "onboard_time": 1748950881,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 115878,
@@ -2267,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110797,
+      "num": 110797,
+      "word": "舒肤佳 王楚钦",
+      "onboard_time": 1748953342,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110730,
       "num": 110730,
       "word": "动物园回应出逃卡皮巴拉回家还胖了",
@@ -2345,14 +2401,6 @@
       "onboard_time": 1748917941,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107583,
-      "num": 107583,
-      "word": "舒肤佳 王楚钦",
-      "onboard_time": 1748953342,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 106847,
@@ -2435,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100028,
+      "num": 397577,
+      "word": "顺风车乘客成猎物被卖猪仔",
+      "onboard_time": 1748955022,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99549,
       "num": 99549,
       "word": "突然发现奶奶活的比我还年轻",
@@ -2504,14 +2560,6 @@
       "word": "蒋雨融称没有绿卡",
       "onboard_time": 1748916920,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94904,
-      "num": 161253,
-      "word": "顺风车乘客成猎物被卖猪仔",
-      "onboard_time": 1748955022,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2859,6 +2907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57903,
+      "num": 189069,
+      "word": "伞兵海边夕阳剪影照",
+      "onboard_time": 1748955801,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56497,
       "num": 109135,
       "word": "郑钦文收视率登顶",
@@ -3195,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25380,
+      "num": 277439,
+      "word": "苏超都产生了哪些热梗",
+      "onboard_time": 1748954482,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25230,
       "num": 206381,
       "word": "苏超梗图太好笑了",
@@ -3209,6 +3273,14 @@
       "onboard_time": 1748938820,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24321,
+      "num": 185610,
+      "word": "AI创业都得是学霸出身吗",
+      "onboard_time": 1748955681,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 24218,
@@ -3251,14 +3323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21829,
-      "num": 244980,
-      "word": "苏超都产生了哪些热梗",
-      "onboard_time": 1748954482,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20890,
       "num": 190097,
       "word": "从心理学上讲如何拒绝内耗",
@@ -3281,6 +3345,14 @@
       "onboard_time": 1748890094,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17083,
+      "num": 184878,
+      "word": "提醒一下下下周参加中考的人",
+      "onboard_time": 1748955681,
+      "rank": 29,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 15838,
