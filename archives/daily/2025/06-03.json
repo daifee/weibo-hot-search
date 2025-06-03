@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748949774597,
+  "endTime": 1748950721689,
   "band_list": [
     {
       "raw_hot": 2181073,
@@ -171,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1057179,
+      "num": 481393,
+      "word": "彭于晏方否认与蔡依林恋情",
+      "onboard_time": 1748948901,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1057143,
       "num": 1057143,
       "word": "大连警方通报2名日籍男子被害",
@@ -251,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 798958,
-      "num": 481393,
-      "word": "彭于晏方否认与蔡依林恋情",
-      "onboard_time": 1748948901,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 786298,
       "num": 667294,
       "word": "易烊千玺酱园弄光头造型",
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 731956,
-      "num": 368075,
+      "num": 444402,
       "word": "周柯宇对热巴的多种称呼",
       "onboard_time": 1748944280,
       "rank": 23,
@@ -305,6 +305,14 @@
       "onboard_time": 1748930900,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 656580,
+      "num": 656580,
+      "word": "女童被拖进小巷男子动机到底是什么",
+      "onboard_time": 1748947222,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 650011,
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616205,
+      "num": 616205,
+      "word": "因车祸住院801天434天挂空床",
+      "onboard_time": 1748948542,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 614331,
       "num": 255404,
       "word": "何秋亊方向汪苏泷道歉",
@@ -363,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 596335,
+      "num": 596335,
+      "word": "藏海传he",
+      "onboard_time": 1748947460,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 583842,
       "num": 659576,
       "word": "张雪峰说自己动了太多人的蛋糕",
@@ -371,12 +395,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 564829,
-      "num": 564829,
-      "word": "藏海传he",
-      "onboard_time": 1748947460,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 555440,
+      "num": 478079,
+      "word": "何秋亊",
+      "onboard_time": 1748948241,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 545759,
@@ -385,22 +409,6 @@
       "onboard_time": 1748876661,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 544781,
-      "num": 544781,
-      "word": "女童被拖进小巷男子动机到底是什么",
-      "onboard_time": 1748947222,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 538372,
-      "num": 478079,
-      "word": "何秋亊",
-      "onboard_time": 1748948241,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 529927,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 475884,
-      "num": 289845,
+      "num": 450321,
       "word": "朱一龙晒杨蓉生日照",
       "onboard_time": 1748945422,
       "rank": 25,
@@ -537,6 +545,14 @@
       "onboard_time": 1748879541,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 383328,
+      "num": 503255,
+      "word": "豆包流浪了两个月还胖了一斤多",
+      "onboard_time": 1748945121,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 382148,
@@ -627,8 +643,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 347490,
-      "num": 347490,
+      "raw_hot": 349337,
+      "num": 452744,
       "word": "严浩翔回应自己是daddy级别",
       "onboard_time": 1748948241,
       "rank": 21,
@@ -643,20 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344774,
+      "num": 497402,
+      "word": "韩出口民调显示李在明将赢得大选",
+      "onboard_time": 1748949622,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 344624,
+      "num": 344624,
+      "word": "藏海传第三人",
+      "onboard_time": 1748948301,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342997,
       "num": 249267,
       "word": "迪丽热巴撕拉片",
       "onboard_time": 1748861061,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339657,
-      "num": 503255,
-      "word": "豆包流浪了两个月还胖了一斤多",
-      "onboard_time": 1748945121,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331094,
@@ -672,14 +696,6 @@
       "word": "藏海传超点",
       "onboard_time": 1748928501,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 322361,
-      "num": 232654,
-      "word": "藏海传第三人",
-      "onboard_time": 1748948301,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -723,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 301117,
+      "num": 301117,
+      "word": "徐子珊近照",
+      "onboard_time": 1748949982,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294734,
       "num": 277794,
       "word": "近视600度是一个重要分界线",
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 289671,
-      "num": 246463,
+      "num": 289110,
       "word": "樊振东确认参加2025乒超联赛",
       "onboard_time": 1748948721,
       "rank": 24,
@@ -779,14 +803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 278709,
-      "num": 480606,
-      "word": "因车祸住院801天434天挂空床",
-      "onboard_time": 1748948542,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269849,
       "num": 223445,
       "word": "小车冲进屋10岁姐姐神速救起妹妹",
@@ -801,6 +817,14 @@
       "onboard_time": 1748946862,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264392,
+      "num": 264392,
+      "word": "尹子维居然是中德混血",
+      "onboard_time": 1748949742,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 259168,
@@ -963,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222880,
+      "num": 222880,
+      "word": "藏海辞官了",
+      "onboard_time": 1748949682,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222094,
       "num": 222094,
       "word": "减脂先减内脏脂肪",
@@ -1035,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205826,
+      "num": 205826,
+      "word": "中方回应2日本人在大连被杀害",
+      "onboard_time": 1748937621,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 204881,
       "num": 204881,
       "word": "迪丽热巴生日工作室发文",
@@ -1099,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196953,
+      "num": 242193,
+      "word": "郑钦文0比2萨巴伦卡",
+      "onboard_time": 1748949561,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196423,
       "num": 196423,
       "word": "何秋亊工作室",
@@ -1131,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193014,
+      "num": 317729,
+      "word": "萨巴伦卡为郑钦文鼓掌",
+      "onboard_time": 1748949021,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192021,
       "num": 192021,
       "word": "宋雨琦回应开场没压力",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1748882238,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190947,
+      "num": 190947,
+      "word": "李嘉格婚礼当天婆婆和妈妈冷战",
+      "onboard_time": 1748950221,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 190939,
@@ -1233,6 +1297,14 @@
       "onboard_time": 1748932341,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179148,
+      "num": 197244,
+      "word": "严浩翔回应diss变kiss",
+      "onboard_time": 1748950341,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 176147,
@@ -1387,14 +1459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163081,
-      "num": 163081,
-      "word": "韩出口民调显示李在明将赢得大选",
-      "onboard_time": 1748949622,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162313,
       "num": 162313,
       "word": "皇上藏海 我们好像在哪儿见过",
@@ -1435,12 +1499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157877,
-      "num": 242193,
-      "word": "郑钦文0比2萨巴伦卡",
-      "onboard_time": 1748949561,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 155733,
+      "num": 155733,
+      "word": "科学家发现一颗超级地球",
+      "onboard_time": 1748950161,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155277,
@@ -1491,14 +1555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149214,
-      "num": 149214,
-      "word": "尹子维居然是中德混血",
-      "onboard_time": 1748949742,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148949,
       "num": 430208,
       "word": "中国女排一整个期待了",
@@ -1515,12 +1571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148896,
-      "num": 148896,
-      "word": "藏海辞官了",
-      "onboard_time": 1748949682,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 147109,
+      "num": 370157,
+      "word": "广西柳州一路面滑坡致三辆轿车滑落",
+      "onboard_time": 1748948840,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146111,
@@ -1547,12 +1603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145065,
+      "num": 448225,
+      "word": "原来丁真想拍吻戏是听错了",
+      "onboard_time": 1748949682,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144691,
       "num": 144691,
       "word": "TheShy征战LPL八周年",
       "onboard_time": 1748927781,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144554,
+      "num": 144554,
+      "word": "泡泡玛特",
+      "onboard_time": 1748950520,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 144318,
@@ -2259,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95687,
+      "num": 254131,
+      "word": "为什么高铁上跳过E直接是F座",
+      "onboard_time": 1748950281,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 95588,
       "num": 175897,
       "word": "肖战藏海在死亡边缘获得一线生机",
@@ -2289,14 +2369,6 @@
       "onboard_time": 1748912901,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93637,
-      "num": 168659,
-      "word": "原来丁真想拍吻戏是听错了",
-      "onboard_time": 1748949682,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 93201,
@@ -2779,14 +2851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 39419,
-      "num": 370157,
-      "word": "广西柳州一路面滑坡致三辆轿车滑落",
-      "onboard_time": 1748948840,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38546,
       "num": 174808,
       "word": "肥胖会影响睡眠吗",
@@ -2963,6 +3027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 23456,
+      "num": 241904,
+      "word": "郑钦文本场比赛总计轰出10记ACE球",
+      "onboard_time": 1748950520,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22392,
       "num": 31219,
       "word": "藏海传登顶海外23国全面最畅销电视剧",
@@ -2993,6 +3065,14 @@
       "onboard_time": 1748889134,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18392,
+      "num": 1137130,
+      "word": "端午假日消费新图景",
+      "onboard_time": 1748944822,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17615,
@@ -3027,6 +3107,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 11872,
+      "num": 247724,
+      "word": "天问二号提醒嫦娥六号上班",
+      "onboard_time": 1748949081,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11725,
       "num": 14588,
       "word": "外卖诗人王计兵8月将发新书",
@@ -3043,35 +3131,19 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 9558,
-      "num": 40733,
-      "word": "当地航运回应多个海岛游客反映被困",
-      "onboard_time": 1748891954,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9373,
-      "num": 1137130,
-      "word": "端午假日消费新图景",
-      "onboard_time": 1748944822,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8446,
-      "num": 155236,
+      "raw_hot": 11497,
+      "num": 444713,
       "word": "临考前发烧该怎么办",
       "onboard_time": 1748949742,
       "rank": 44,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 7510,
-      "num": 236835,
-      "word": "天问二号提醒嫦娥六号上班",
-      "onboard_time": 1748949081,
-      "rank": 29,
+      "raw_hot": 9558,
+      "num": 40733,
+      "word": "当地航运回应多个海岛游客反映被困",
+      "onboard_time": 1748891954,
+      "rank": 36,
       "category": "民生新闻"
     }
   ],

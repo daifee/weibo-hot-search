@@ -1,0 +1,410 @@
+{
+  "runTime": 1748950721689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1833960,
+        "num": 1833960,
+        "word": "郑钦文止步法网8强",
+        "onboard_time": 1748949441,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1088446,
+        "num": 1088446,
+        "word": "藏海传大结局",
+        "onboard_time": 1748945841,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18392,
+        "num": 917241,
+        "word": "端午假日消费新图景",
+        "onboard_time": 1748944822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788026,
+        "num": 788026,
+        "word": "27岁女游客在三亚被蛇咬伤身亡",
+        "onboard_time": 1748937742,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656580,
+        "num": 656580,
+        "word": "女童被拖进小巷男子动机到底是什么",
+        "onboard_time": 1748947222,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616205,
+        "num": 616205,
+        "word": "因车祸住院801天434天挂空床",
+        "onboard_time": 1748948542,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596335,
+        "num": 596335,
+        "word": "藏海传he",
+        "onboard_time": 1748947460,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515364,
+        "num": 515364,
+        "word": "郑钦文vs萨巴伦卡",
+        "onboard_time": 1748940742,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507137,
+        "num": 507137,
+        "word": "警方通报男子将女童拖进小巷",
+        "onboard_time": 1748918541,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 344774,
+        "num": 497402,
+        "word": "韩出口民调显示李在明将赢得大选",
+        "onboard_time": 1748949622,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1469859,
+        "num": 490945,
+        "word": "杨幂叫热巴宝贝贝",
+        "onboard_time": 1748944280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1430232,
+        "num": 483458,
+        "word": "杜海涛跟歌手女主持约会的一天",
+        "onboard_time": 1748947042,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1057179,
+        "num": 472121,
+        "word": "彭于晏方否认与蔡依林恋情",
+        "onboard_time": 1748948901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555440,
+        "num": 458892,
+        "word": "何秋亊",
+        "onboard_time": 1748948241,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 454939,
+        "num": 454939,
+        "word": "何秋亊 汪苏泷",
+        "onboard_time": 1748927481,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 825980,
+        "num": 453132,
+        "word": "迪丽热巴回应张馨予",
+        "onboard_time": 1748944400,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349337,
+        "num": 452744,
+        "word": "严浩翔回应自己是daddy级别",
+        "onboard_time": 1748948241,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472177,
+        "num": 450321,
+        "word": "朱一龙晒杨蓉生日照",
+        "onboard_time": 1748945422,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145065,
+        "num": 448225,
+        "word": "原来丁真想拍吻戏是听错了",
+        "onboard_time": 1748949682,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11497,
+        "num": 444713,
+        "word": "临考前发烧该怎么办",
+        "onboard_time": 1748949742,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 444402,
+        "num": 444402,
+        "word": "周柯宇对热巴的多种称呼",
+        "onboard_time": 1748944280,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383328,
+        "num": 383328,
+        "word": "豆包流浪了两个月还胖了一斤多",
+        "onboard_time": 1748945121,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347276,
+        "num": 347276,
+        "word": "何秋亊60秒视频广告报价50万",
+        "onboard_time": 1748941700,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344624,
+        "num": 344624,
+        "word": "藏海传第三人",
+        "onboard_time": 1748948301,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193014,
+        "num": 317729,
+        "word": "萨巴伦卡为郑钦文鼓掌",
+        "onboard_time": 1748949021,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301117,
+        "num": 301117,
+        "word": "徐子珊近照",
+        "onboard_time": 1748949982,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289110,
+        "num": 289110,
+        "word": "樊振东确认参加2025乒超联赛",
+        "onboard_time": 1748948721,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264392,
+        "num": 264392,
+        "word": "尹子维居然是中德混血",
+        "onboard_time": 1748949742,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95687,
+        "num": 254131,
+        "word": "为什么高铁上跳过E直接是F座",
+        "onboard_time": 1748950281,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 11872,
+        "num": 247724,
+        "word": "天问二号提醒嫦娥六号上班",
+        "onboard_time": 1748949081,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23456,
+        "num": 241904,
+        "word": "郑钦文本场比赛总计轰出10记ACE球",
+        "onboard_time": 1748950520,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147109,
+        "num": 228559,
+        "word": "广西柳州一路面滑坡致三辆轿车滑落",
+        "onboard_time": 1748948840,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222880,
+        "num": 222880,
+        "word": "藏海辞官了",
+        "onboard_time": 1748949682,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214541,
+        "num": 214541,
+        "word": "宣璐回应走后门",
+        "onboard_time": 1748944641,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214488,
+        "num": 214488,
+        "word": "何秋亊将直播回应争议",
+        "onboard_time": 1748937920,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205826,
+        "num": 205826,
+        "word": "中方回应2日本人在大连被杀害",
+        "onboard_time": 1748937621,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202408,
+        "num": 202408,
+        "word": "中传回应会否录取黄杨钿甜",
+        "onboard_time": 1748933722,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197780,
+        "num": 197780,
+        "word": "藏海传",
+        "onboard_time": 1748941762,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179148,
+        "num": 197244,
+        "word": "严浩翔回应diss变kiss",
+        "onboard_time": 1748950341,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196953,
+        "num": 196953,
+        "word": "郑钦文0比2萨巴伦卡",
+        "onboard_time": 1748949561,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190947,
+        "num": 190947,
+        "word": "李嘉格婚礼当天婆婆和妈妈冷战",
+        "onboard_time": 1748950221,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179746,
+        "num": 179746,
+        "word": "38岁男子酒后拖拽6岁女童进巷被拘",
+        "onboard_time": 1748925683,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 177348,
+        "num": 177348,
+        "word": "医院回应27岁女子被蛇咬伤身亡",
+        "onboard_time": 1748948241,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155733,
+        "num": 155733,
+        "word": "科学家发现一颗超级地球",
+        "onboard_time": 1748950161,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148002,
+        "num": 148002,
+        "word": "骑手离职后突发意外仍获10万救助",
+        "onboard_time": 1748944461,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144554,
+        "num": 144554,
+        "word": "泡泡玛特",
+        "onboard_time": 1748950520,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 142981,
+        "num": 142981,
+        "word": "乒超第一阶段今起开票",
+        "onboard_time": 1748948241,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141831,
+        "num": 141831,
+        "word": "聊斋",
+        "onboard_time": 1748940561,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30427,
+        "num": 134804,
+        "word": "端午假期590.7万人次出入境",
+        "onboard_time": 1748945780,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133927,
+        "num": 133927,
+        "word": "每个月减重的上限是8斤",
+        "onboard_time": 1748948781,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#感受中华文明的魅力#"
+    }
+  }
+}
