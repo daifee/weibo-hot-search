@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748990605071,
+  "endTime": 1748993081254,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -19,8 +19,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 847716,
+      "num": 847716,
+      "word": "亚朵酒店被曝出现医院枕套",
+      "onboard_time": 1748958982,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 840772,
-      "num": 343865,
+      "num": 618809,
       "word": "何秋亊 为什么别人是撞衫我是抄袭",
       "onboard_time": 1748960424,
       "rank": 5,
@@ -33,14 +41,6 @@
       "onboard_time": 1748964383,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 730174,
-      "num": 730174,
-      "word": "亚朵酒店被曝出现医院枕套",
-      "onboard_time": 1748958982,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 575059,
@@ -59,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 453668,
+      "num": 453668,
+      "word": "三亚卫健委通报女子被蛇咬伤身亡",
+      "onboard_time": 1748962764,
+      "rank": 4,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 391454,
       "num": 317752,
       "word": "藏海传大结局",
@@ -67,12 +75,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 380147,
-      "num": 380147,
-      "word": "三亚卫健委通报女子被蛇咬伤身亡",
-      "onboard_time": 1748962764,
-      "rank": 4,
-      "category": "辟谣/通报"
+      "raw_hot": 331498,
+      "num": 243493,
+      "word": "湖南一老师从学生成人仪式舞台坠落",
+      "onboard_time": 1748991678,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322846,
+      "num": 277875,
+      "word": "何秋亊 给哪吒道歉",
+      "onboard_time": 1748988376,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 320297,
@@ -81,6 +97,22 @@
       "onboard_time": 1748944280,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317293,
+      "num": 317293,
+      "word": "女子为祈福放生2.5万斤外来鲇鱼",
+      "onboard_time": 1748960365,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301994,
+      "num": 301994,
+      "word": "常州足协回应常州输成l州",
+      "onboard_time": 1748991678,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 272273,
@@ -123,6 +155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238422,
+      "num": 238422,
+      "word": "李嘉格婚礼当天婆婆和妈妈冷战",
+      "onboard_time": 1748950221,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231547,
+      "num": 128630,
+      "word": "男子刀片嗓以为感冒竟差点丧命",
+      "onboard_time": 1748961025,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207220,
       "num": 162673,
       "word": "迪丽热巴回应张馨予",
@@ -137,14 +185,6 @@
       "onboard_time": 1748937621,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 193410,
-      "num": 193410,
-      "word": "女子为祈福放生2.5万斤外来鲇鱼",
-      "onboard_time": 1748960365,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163892,
@@ -163,6 +203,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153869,
+      "num": 153869,
+      "word": "乌克兰称袭击克里米亚大桥",
+      "onboard_time": 1748954602,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 148026,
+      "num": 148026,
+      "word": "稚奴终于可以睡个好觉了",
+      "onboard_time": 1748958263,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147921,
       "num": 147921,
       "word": "何秋亊回应演唱会门票价格",
@@ -179,28 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139377,
-      "num": 139377,
-      "word": "乌克兰称袭击克里米亚大桥",
-      "onboard_time": 1748954602,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 132577,
-      "num": 128630,
-      "word": "男子刀片嗓以为感冒竟差点丧命",
-      "onboard_time": 1748961025,
-      "rank": 25,
+      "raw_hot": 131408,
+      "num": 131408,
+      "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
+      "onboard_time": 1748951962,
+      "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132274,
-      "num": 82310,
-      "word": "何秋亊 给哪吒道歉",
-      "onboard_time": 1748988376,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 129443,
@@ -209,6 +249,14 @@
       "onboard_time": 1748964562,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125751,
+      "num": 72040,
+      "word": "钟丽缇谈与张伦硕年龄差",
+      "onboard_time": 1748992218,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 123760,
@@ -225,6 +273,14 @@
       "onboard_time": 1748966301,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 121931,
+      "num": 121931,
+      "word": "官方回应三亚仅个别医院有蛇毒血清",
+      "onboard_time": 1748957964,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116069,
@@ -259,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103479,
+      "num": 103479,
+      "word": "如何利用维生素B甩掉坏情绪",
+      "onboard_time": 1748989217,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98524,
       "num": 98524,
       "word": "女子被蛇咬伤身亡当地已成立调查组",
@@ -283,14 +347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86670,
-      "num": 86670,
-      "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
-      "onboard_time": 1748951962,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83759,
       "num": 86669,
       "word": "陈粒 我是北京孩子",
@@ -299,12 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82250,
-      "num": 86659,
-      "word": "稚奴终于可以睡个好觉了",
-      "onboard_time": 1748958263,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 81246,
+      "num": 81246,
+      "word": "美方挥舞关税大棒却砸在了自己身上",
+      "onboard_time": 1748991678,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78612,
@@ -331,6 +387,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74736,
+      "num": 86661,
+      "word": "应采儿说Jasper在追星戒断状态",
+      "onboard_time": 1748951722,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 73768,
+      "num": 244854,
+      "word": "夫妻把小吃店开进了当地初中教材",
+      "onboard_time": 1748992821,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72117,
       "num": 86666,
       "word": "藏海传片尾 感谢每一位观众",
@@ -345,6 +417,14 @@
       "onboard_time": 1748959524,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70738,
+      "num": 72241,
+      "word": "极致的BE是顶级HE",
+      "onboard_time": 1748991137,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 66744,
@@ -379,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62496,
-      "num": 86661,
-      "word": "应采儿说Jasper在追星戒断状态",
-      "onboard_time": 1748951722,
-      "rank": 43,
-      "category": "演出"
+      "raw_hot": 63420,
+      "num": 63420,
+      "word": "乌克兰摧毁41架俄军战略轰炸机",
+      "onboard_time": 1748978235,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61920,
@@ -412,22 +492,14 @@
     },
     {
       "raw_hot": 56022,
-      "num": 56022,
+      "num": 62345,
       "word": "王星女友嘉嘉曾是乐队主唱",
       "onboard_time": 1748959944,
       "rank": 39,
       "category": "艺人"
     },
     {
-      "raw_hot": 54692,
-      "num": 86655,
-      "word": "官方回应三亚仅个别医院有蛇毒血清",
-      "onboard_time": 1748957964,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53561,
+      "raw_hot": 53955,
       "num": 850390,
       "word": "2025年高考注意事项",
       "onboard_time": 1748960065,
@@ -444,15 +516,23 @@
     },
     {
       "raw_hot": 45989,
-      "num": 45989,
+      "num": 62514,
       "word": "莫言为冯巩取笔名闭嘴",
       "onboard_time": 1748981773,
       "rank": 39,
       "category": "读书作家"
     },
     {
+      "raw_hot": 44871,
+      "num": 62898,
+      "word": "郑钦文止步法网8强",
+      "onboard_time": 1748949441,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44599,
-      "num": 36045,
+      "num": 62006,
       "word": "王星和女友嘉嘉合体拍杂志",
       "onboard_time": 1748983035,
       "rank": 49,
@@ -465,14 +545,6 @@
       "onboard_time": 1748974635,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37823,
-      "num": 37823,
-      "word": "乌克兰摧毁41架俄军战略轰炸机",
-      "onboard_time": 1748978235,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37298,
@@ -489,22 +561,6 @@
       "onboard_time": 1748971037,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32721,
-      "num": 32721,
-      "word": "如何利用维生素B甩掉坏情绪",
-      "onboard_time": 1748989217,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 32409,
-      "num": 44023,
-      "word": "郑钦文止步法网8强",
-      "onboard_time": 1748949441,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 28489,
