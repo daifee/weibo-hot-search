@@ -1,0 +1,410 @@
+{
+  "runTime": 1748936477152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1142774,
+        "num": 1182843,
+        "word": "台湾旅行团整团被卖到缅甸",
+        "onboard_time": 1748933481,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 914655,
+        "num": 914655,
+        "word": "大连警方通报2名日籍男子被害",
+        "onboard_time": 1748932940,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 132552,
+        "num": 839390,
+        "word": "我国GDP五百亿镇近20个",
+        "onboard_time": 1748934501,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1129062,
+        "num": 839118,
+        "word": "警方通报男子将女童拖进小巷",
+        "onboard_time": 1748918541,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 838095,
+        "num": 838095,
+        "word": "何秋亊 汪苏泷",
+        "onboard_time": 1748927481,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 816227,
+        "num": 816227,
+        "word": "黄杨钿甜艺考合格不等于被录取",
+        "onboard_time": 1748931020,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603736,
+        "num": 603736,
+        "word": "安静公主吃激素药5天胖了10多斤",
+        "onboard_time": 1748933300,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438112,
+        "num": 438112,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1748921841,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 420794,
+        "num": 420794,
+        "word": "程潇在妈妈患癌后一瞬间长大",
+        "onboard_time": 1748934921,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187579,
+        "num": 393998,
+        "word": "高考作弊将导致所有科目成绩无效",
+        "onboard_time": 1748935880,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 531533,
+        "num": 393956,
+        "word": "38岁男子酒后拖拽6岁女童进巷被拘",
+        "onboard_time": 1748925683,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 431821,
+        "num": 393940,
+        "word": "张馨予手绘烟花为迪丽热巴庆生",
+        "onboard_time": 1748930900,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393913,
+        "num": 393913,
+        "word": "11岁女童在妈妈单位被男同事猥亵",
+        "onboard_time": 1748933481,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385565,
+        "num": 385565,
+        "word": "酱园弄把熟人拍成认不出的样子",
+        "onboard_time": 1748929641,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 334953,
+        "num": 334953,
+        "word": "陈梦坦言渴望有完整家庭",
+        "onboard_time": 1748935222,
+        "rank": 14,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 380173,
+        "num": 329144,
+        "word": "赵丽颖酱园弄出场",
+        "onboard_time": 1748921181,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314035,
+        "num": 314035,
+        "word": "中传回应会否录取黄杨钿甜",
+        "onboard_time": 1748933722,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294105,
+        "num": 294105,
+        "word": "男子把女童拖入小巷将被追究刑责",
+        "onboard_time": 1748920401,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242104,
+        "num": 242104,
+        "word": "李在明说若胜选将稳定处理韩中关系",
+        "onboard_time": 1748935160,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40264,
+        "num": 239310,
+        "word": "熬夜后脸色发黄该怎么改善",
+        "onboard_time": 1748935281,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239303,
+        "num": 239303,
+        "word": "王安宇我也累了给我抱一下",
+        "onboard_time": 1748932761,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229624,
+        "num": 229624,
+        "word": "高考戴智能手表用不用都作弊",
+        "onboard_time": 1748933841,
+        "rank": 21,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 225230,
+        "num": 225230,
+        "word": "眼睛度数降了100度",
+        "onboard_time": 1748907257,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212172,
+        "num": 212172,
+        "word": "暗荼被藏海软禁了多久",
+        "onboard_time": 1748933841,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116642,
+        "num": 205689,
+        "word": "王楚钦秀背后发球",
+        "onboard_time": 1748934321,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203767,
+        "num": 203767,
+        "word": "赵今麦复古甜心造型",
+        "onboard_time": 1748935521,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198939,
+        "num": 198939,
+        "word": "陈都灵翘楚湖蓝色战国袍路透",
+        "onboard_time": 1748935880,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41558,
+        "num": 192124,
+        "word": "徐志胜李嘉琦倒班陪蔡文静唠嗑",
+        "onboard_time": 1748934861,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190483,
+        "num": 190483,
+        "word": "曹氏低于8元 燃气费",
+        "onboard_time": 1748932040,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23456,
+        "num": 186312,
+        "word": "五险一金是求职的首要考量因素吗",
+        "onboard_time": 1748935880,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 534105,
+        "num": 185646,
+        "word": "马斯克被曝炫耀在世界各地都有孩子",
+        "onboard_time": 1748923222,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184659,
+        "num": 184659,
+        "word": "赵丽颖身上的文人气质",
+        "onboard_time": 1748934321,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184232,
+        "num": 184232,
+        "word": "书卷一梦即将接档临江仙",
+        "onboard_time": 1748935820,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176877,
+        "num": 176877,
+        "word": "藏海传超点",
+        "onboard_time": 1748928501,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168731,
+        "num": 168731,
+        "word": "丁禹兮中餐厅躲起来哭",
+        "onboard_time": 1748933542,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142945,
+        "num": 142945,
+        "word": "92岁奶奶一口气网购两盒戒指",
+        "onboard_time": 1748934681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142800,
+        "num": 142800,
+        "word": "原神",
+        "onboard_time": 1748936061,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142030,
+        "num": 142030,
+        "word": "闵塔鲨祝热巴生日快乐",
+        "onboard_time": 1748933542,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81542,
+        "num": 137277,
+        "word": "哈佛女毕业生上学费用推算",
+        "onboard_time": 1748936359,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132787,
+        "num": 132787,
+        "word": "王楚钦将代表山东魏桥出战乒超",
+        "onboard_time": 1748936120,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125034,
+        "num": 125034,
+        "word": "男子为18.8万彩礼买假存单获刑",
+        "onboard_time": 1748921361,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121459,
+        "num": 121459,
+        "word": "巴黎世家平角短裤造型半身裙惹争议",
+        "onboard_time": 1748933481,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 115827,
+        "num": 115827,
+        "word": "准考证就要打七份",
+        "onboard_time": 1748935041,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111239,
+        "num": 111239,
+        "word": "尹锡悦夫妇现身投票站",
+        "onboard_time": 1748933181,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110366,
+        "num": 110366,
+        "word": "老年夫妻最好的状态",
+        "onboard_time": 1748935521,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44474,
+        "num": 109494,
+        "word": "在日本花1万3千日元买两个西瓜",
+        "onboard_time": 1748934020,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109230,
+        "num": 109230,
+        "word": "郑钦文回应法网再战萨巴伦卡",
+        "onboard_time": 1748936422,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108391,
+        "num": 108391,
+        "word": "杨幂酱园弄王许梅造型",
+        "onboard_time": 1748919741,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107557,
+        "num": 107557,
+        "word": "印度婆罗门家庭的高消费晚餐",
+        "onboard_time": 1748932702,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107918,
+        "num": 107506,
+        "word": "酱园弄第一部定档",
+        "onboard_time": 1748917521,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

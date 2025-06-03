@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748935644197,
+  "endTime": 1748936477152,
   "band_list": [
     {
       "raw_hot": 2085610,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1142774,
+      "num": 1182843,
+      "word": "台湾旅行团整团被卖到缅甸",
+      "onboard_time": 1748933481,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1122343,
       "num": 1122343,
       "word": "哈佛蒋雨融",
@@ -89,14 +97,6 @@
       "onboard_time": 1748923222,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1065418,
-      "num": 1170466,
-      "word": "台湾旅行团整团被卖到缅甸",
-      "onboard_time": 1748933481,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1057143,
@@ -219,6 +219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 603736,
+      "num": 603736,
+      "word": "安静公主吃激素药5天胖了10多斤",
+      "onboard_time": 1748933300,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 583842,
       "num": 659576,
       "word": "张雪峰说自己动了太多人的蛋糕",
@@ -259,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 510536,
-      "num": 510536,
-      "word": "安静公主吃激素药5天胖了10多斤",
-      "onboard_time": 1748933300,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 500159,
       "num": 500159,
       "word": "警方通报7人殴打未成年人",
@@ -305,6 +305,14 @@
       "onboard_time": 1748933481,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420794,
+      "num": 420794,
+      "word": "程潇在妈妈患癌后一瞬间长大",
+      "onboard_time": 1748934921,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 420089,
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334953,
+      "num": 334953,
+      "word": "陈梦坦言渴望有完整家庭",
+      "onboard_time": 1748935222,
+      "rank": 19,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 331094,
       "num": 331094,
       "word": "24岁大学生暗网贩毒3年捞钱超7亿",
@@ -449,6 +465,14 @@
       "onboard_time": 1748928501,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314035,
+      "num": 314035,
+      "word": "中传回应会否录取黄杨钿甜",
+      "onboard_time": 1748933722,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 312535,
@@ -571,20 +595,12 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 248731,
-      "num": 248731,
-      "word": "程潇在妈妈患癌后一瞬间长大",
-      "onboard_time": 1748934921,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 246151,
-      "num": 246151,
-      "word": "陈梦坦言渴望有完整家庭",
-      "onboard_time": 1748935222,
-      "rank": 19,
-      "category": "体育,综艺"
+      "raw_hot": 242104,
+      "num": 242104,
+      "word": "李在明说若胜选将稳定处理韩中关系",
+      "onboard_time": 1748935160,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 234720,
@@ -600,14 +616,6 @@
       "word": "宋昕冉卡点祝迪丽热巴生日快乐",
       "onboard_time": 1748927781,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 230408,
-      "num": 230408,
-      "word": "中传回应会否录取黄杨钿甜",
-      "onboard_time": 1748933722,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -659,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212172,
+      "num": 212172,
+      "word": "暗荼被藏海软禁了多久",
+      "onboard_time": 1748933841,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210601,
       "num": 210601,
       "word": "乘风之夜邀请函",
@@ -691,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203767,
+      "num": 203767,
+      "word": "赵今麦复古甜心造型",
+      "onboard_time": 1748935521,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202961,
       "num": 202961,
       "word": "酱园弄群星海报",
@@ -713,6 +737,14 @@
       "onboard_time": 1748929701,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198939,
+      "num": 198939,
+      "word": "陈都灵翘楚湖蓝色战国袍路透",
+      "onboard_time": 1748935880,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 197928,
@@ -795,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187579,
+      "num": 393998,
+      "word": "高考作弊将导致所有科目成绩无效",
+      "onboard_time": 1748935880,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 186336,
       "num": 169708,
       "word": "李现酱园弄演反派",
@@ -819,20 +859,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184232,
+      "num": 184232,
+      "word": "书卷一梦即将接档临江仙",
+      "onboard_time": 1748935820,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180617,
       "num": 180617,
       "word": "吴昕好有生命力的美",
       "onboard_time": 1748921001,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179822,
-      "num": 179822,
-      "word": "暗荼被藏海软禁了多久",
-      "onboard_time": 1748933841,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 179567,
@@ -875,6 +915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168731,
+      "num": 168731,
+      "word": "丁禹兮中餐厅躲起来哭",
+      "onboard_time": 1748933542,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168494,
       "num": 168494,
       "word": "宋雨琦带千人开场真热血番",
@@ -907,14 +955,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166296,
-      "num": 157158,
-      "word": "丁禹兮中餐厅躲起来哭",
-      "onboard_time": 1748933542,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164245,
       "num": 145755,
       "word": "雷军复盘时问自己的问题",
@@ -929,14 +969,6 @@
       "onboard_time": 1748918480,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162331,
-      "num": 162331,
-      "word": "李在明说若胜选将稳定处理韩中关系",
-      "onboard_time": 1748935160,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 162313,
@@ -1025,6 +1057,14 @@
       "onboard_time": 1748927781,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142800,
+      "num": 142800,
+      "word": "原神",
+      "onboard_time": 1748936061,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 142407,
@@ -1139,8 +1179,24 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 132787,
+      "num": 132787,
+      "word": "王楚钦将代表山东魏桥出战乒超",
+      "onboard_time": 1748936120,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132552,
+      "num": 1042562,
+      "word": "我国GDP五百亿镇近20个",
+      "onboard_time": 1748934501,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132478,
-      "num": 132478,
+      "num": 205689,
       "word": "王楚钦秀背后发球",
       "onboard_time": 1748934321,
       "rank": 35,
@@ -1323,14 +1379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115287,
-      "num": 115287,
-      "word": "赵今麦复古甜心造型",
-      "onboard_time": 1748935521,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114461,
       "num": 114461,
       "word": "尹锡悦夫妇现身投票站",
@@ -1393,6 +1441,14 @@
       "onboard_time": 1748863520,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 109230,
+      "num": 109230,
+      "word": "郑钦文回应法网再战萨巴伦卡",
+      "onboard_time": 1748936422,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 108919,
@@ -1505,14 +1561,6 @@
       "onboard_time": 1748914100,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95271,
-      "num": 1042562,
-      "word": "我国GDP五百亿镇近20个",
-      "onboard_time": 1748934501,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 95069,
@@ -1633,6 +1681,14 @@
       "onboard_time": 1748925083,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81542,
+      "num": 137277,
+      "word": "哈佛女毕业生上学费用推算",
+      "onboard_time": 1748936359,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79237,
@@ -1844,7 +1900,7 @@
     },
     {
       "raw_hot": 48075,
-      "num": 183523,
+      "num": 239310,
       "word": "熬夜后脸色发黄该怎么改善",
       "onboard_time": 1748935281,
       "rank": 26,
@@ -1859,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44474,
+      "num": 123571,
+      "word": "在日本花1万3千日元买两个西瓜",
+      "onboard_time": 1748934020,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 42696,
       "num": 45600,
       "word": "端午假期预计6.57亿人次跨区域流动",
@@ -1867,12 +1931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42130,
-      "num": 123571,
-      "word": "在日本花1万3千日元买两个西瓜",
-      "onboard_time": 1748934020,
-      "rank": 38,
-      "category": "海外新闻"
+      "raw_hot": 41558,
+      "num": 192124,
+      "word": "徐志胜李嘉琦倒班陪蔡文静唠嗑",
+      "onboard_time": 1748934861,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 41151,
@@ -1977,6 +2041,14 @@
       "onboard_time": 1748879359,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23456,
+      "num": 186312,
+      "word": "五险一金是求职的首要考量因素吗",
+      "onboard_time": 1748935880,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 22392,
