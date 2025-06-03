@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748993081254,
+  "endTime": 1748993960928,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -19,8 +19,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 847716,
-      "num": 847716,
+      "raw_hot": 880084,
+      "num": 880084,
       "word": "亚朵酒店被曝出现医院枕套",
       "onboard_time": 1748958982,
       "rank": 3,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 840772,
-      "num": 618809,
+      "num": 677883,
       "word": "何秋亊 为什么别人是撞衫我是抄袭",
       "onboard_time": 1748960424,
       "rank": 5,
@@ -59,12 +59,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 453668,
-      "num": 453668,
+      "raw_hot": 467159,
+      "num": 467159,
       "word": "三亚卫健委通报女子被蛇咬伤身亡",
       "onboard_time": 1748962764,
       "rank": 4,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 422118,
+      "num": 299643,
+      "word": "湖南一老师从学生成人仪式舞台坠落",
+      "onboard_time": 1748991678,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 391454,
@@ -75,20 +83,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331498,
-      "num": 243493,
-      "word": "湖南一老师从学生成人仪式舞台坠落",
-      "onboard_time": 1748991678,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 322846,
-      "num": 277875,
+      "raw_hot": 361591,
+      "num": 326145,
       "word": "何秋亊 给哪吒道歉",
       "onboard_time": 1748988376,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 337673,
+      "num": 337673,
+      "word": "女子为祈福放生2.5万斤外来鲇鱼",
+      "onboard_time": 1748960365,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332320,
+      "num": 332320,
+      "word": "常州足协回应常州输成l州",
+      "onboard_time": 1748991678,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 320297,
@@ -99,20 +115,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317293,
-      "num": 317293,
-      "word": "女子为祈福放生2.5万斤外来鲇鱼",
-      "onboard_time": 1748960365,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 301994,
-      "num": 301994,
-      "word": "常州足协回应常州输成l州",
-      "onboard_time": 1748991678,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 293587,
+      "num": 293587,
+      "word": "李嘉格婚礼当天婆婆和妈妈冷战",
+      "onboard_time": 1748950221,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 272273,
@@ -155,14 +163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238422,
-      "num": 238422,
-      "word": "李嘉格婚礼当天婆婆和妈妈冷战",
-      "onboard_time": 1748950221,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 231547,
       "num": 128630,
       "word": "男子刀片嗓以为感冒竟差点丧命",
@@ -187,6 +187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 166455,
+      "num": 166455,
+      "word": "钟丽缇谈与张伦硕年龄差",
+      "onboard_time": 1748992218,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163892,
       "num": 163892,
       "word": "彭于晏方否认与蔡依林恋情",
@@ -203,20 +211,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154482,
+      "num": 154482,
+      "word": "稚奴终于可以睡个好觉了",
+      "onboard_time": 1748958263,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153869,
       "num": 153869,
       "word": "乌克兰称袭击克里米亚大桥",
       "onboard_time": 1748954602,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148026,
-      "num": 148026,
-      "word": "稚奴终于可以睡个好觉了",
-      "onboard_time": 1748958263,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 147921,
@@ -251,12 +259,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125751,
-      "num": 72040,
-      "word": "钟丽缇谈与张伦硕年龄差",
-      "onboard_time": 1748992218,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 124204,
+      "num": 124204,
+      "word": "美方挥舞关税大棒却砸在了自己身上",
+      "onboard_time": 1748991678,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 123881,
+      "num": 123881,
+      "word": "官方回应三亚仅个别医院有蛇毒血清",
+      "onboard_time": 1748957964,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123760,
@@ -275,11 +291,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 121931,
-      "num": 121931,
-      "word": "官方回应三亚仅个别医院有蛇毒血清",
-      "onboard_time": 1748957964,
-      "rank": 48,
+      "raw_hot": 122129,
+      "num": 300862,
+      "word": "夫妻把小吃店开进了当地初中教材",
+      "onboard_time": 1748992821,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -307,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112784,
+      "num": 75294,
+      "word": "李在明称感谢国民做出的伟大决定",
+      "onboard_time": 1748993119,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110943,
       "num": 110943,
       "word": "周柯宇发文祝热巴生日快乐",
@@ -315,12 +339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109295,
+      "num": 109295,
+      "word": "距高考只有3天",
+      "onboard_time": 1748993720,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 103479,
       "num": 103479,
       "word": "如何利用维生素B甩掉坏情绪",
       "onboard_time": 1748989217,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 99243,
+      "num": 99243,
+      "word": "李在明推进将韩总统府迁回青瓦台",
+      "onboard_time": 1748993300,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98524,
@@ -355,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81246,
-      "num": 81246,
-      "word": "美方挥舞关税大棒却砸在了自己身上",
-      "onboard_time": 1748991678,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 78612,
       "num": 86669,
       "word": "大骗子不骗小骗子",
@@ -395,12 +427,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 73768,
-      "num": 244854,
-      "word": "夫妻把小吃店开进了当地初中教材",
-      "onboard_time": 1748992821,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 73470,
+      "num": 75449,
+      "word": "极致的BE是顶级HE",
+      "onboard_time": 1748991137,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 72117,
@@ -417,14 +449,6 @@
       "onboard_time": 1748959524,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70738,
-      "num": 72241,
-      "word": "极致的BE是顶级HE",
-      "onboard_time": 1748991137,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 66744,
@@ -491,6 +515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59640,
+      "num": 850390,
+      "word": "2025年高考注意事项",
+      "onboard_time": 1748960065,
+      "rank": 2,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 58981,
+      "num": 58981,
+      "word": "波尔说和樊振东比赛每次都是他赢",
+      "onboard_time": 1748993119,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56022,
       "num": 62345,
       "word": "王星女友嘉嘉曾是乐队主唱",
@@ -499,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53955,
-      "num": 850390,
-      "word": "2025年高考注意事项",
-      "onboard_time": 1748960065,
-      "rank": 2,
-      "category": "民生新闻,教育"
+      "raw_hot": 51641,
+      "num": 62514,
+      "word": "莫言为冯巩取笔名闭嘴",
+      "onboard_time": 1748981773,
+      "rank": 39,
+      "category": "读书作家"
     },
     {
       "raw_hot": 51423,
@@ -515,12 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45989,
-      "num": 62514,
-      "word": "莫言为冯巩取笔名闭嘴",
-      "onboard_time": 1748981773,
-      "rank": 39,
-      "category": "读书作家"
+      "raw_hot": 46991,
+      "num": 57797,
+      "word": "李荣浩艾特杨丞琳",
+      "onboard_time": 1748993780,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 44871,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1748993960928,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1403204,
+        "num": 1403204,
+        "word": "韩国媒体称李在明当选韩国总统",
+        "onboard_time": 1748962645,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 880084,
+        "num": 880084,
+        "word": "亚朵酒店被曝出现医院枕套",
+        "onboard_time": 1748958982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59640,
+        "num": 697657,
+        "word": "2025年高考注意事项",
+        "onboard_time": 1748960065,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 677883,
+        "num": 677883,
+        "word": "何秋亊 为什么别人是撞衫我是抄袭",
+        "onboard_time": 1748960424,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 467159,
+        "num": 467159,
+        "word": "三亚卫健委通报女子被蛇咬伤身亡",
+        "onboard_time": 1748962764,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 337673,
+        "num": 337673,
+        "word": "女子为祈福放生2.5万斤外来鲇鱼",
+        "onboard_time": 1748960365,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332320,
+        "num": 332320,
+        "word": "常州足协回应常州输成l州",
+        "onboard_time": 1748991678,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330318,
+        "num": 330318,
+        "word": "藏海传2",
+        "onboard_time": 1748964383,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361591,
+        "num": 326145,
+        "word": "何秋亊 给哪吒道歉",
+        "onboard_time": 1748988376,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122129,
+        "num": 300862,
+        "word": "夫妻把小吃店开进了当地初中教材",
+        "onboard_time": 1748992821,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422118,
+        "num": 299643,
+        "word": "湖南一老师从学生成人仪式舞台坠落",
+        "onboard_time": 1748991678,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293587,
+        "num": 293587,
+        "word": "李嘉格婚礼当天婆婆和妈妈冷战",
+        "onboard_time": 1748950221,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247063,
+        "num": 247063,
+        "word": "她一个月赶了我一辈子的通勤",
+        "onboard_time": 1748961025,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243230,
+        "num": 243230,
+        "word": "杜海涛跟歌手女主持约会的一天",
+        "onboard_time": 1748947042,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207498,
+        "num": 207498,
+        "word": "李在明称将尽最大努力履职",
+        "onboard_time": 1748965162,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166455,
+        "num": 166455,
+        "word": "钟丽缇谈与张伦硕年龄差",
+        "onboard_time": 1748992218,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154482,
+        "num": 154482,
+        "word": "稚奴终于可以睡个好觉了",
+        "onboard_time": 1748958263,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138643,
+        "num": 138643,
+        "word": "乌克兰称袭击克里米亚大桥",
+        "onboard_time": 1748954602,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124204,
+        "num": 124204,
+        "word": "美方挥舞关税大棒却砸在了自己身上",
+        "onboard_time": 1748991678,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123994,
+        "num": 123994,
+        "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
+        "onboard_time": 1748951962,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213404,
+        "num": 123994,
+        "word": "男子刀片嗓以为感冒竟差点丧命",
+        "onboard_time": 1748961025,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123881,
+        "num": 123881,
+        "word": "官方回应三亚仅个别医院有蛇毒血清",
+        "onboard_time": 1748957964,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116437,
+        "num": 116437,
+        "word": "杨幂叫热巴宝贝贝",
+        "onboard_time": 1748944280,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109295,
+        "num": 109295,
+        "word": "距高考只有3天",
+        "onboard_time": 1748993720,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99243,
+        "num": 99243,
+        "word": "李在明推进将韩总统府迁回青瓦台",
+        "onboard_time": 1748993300,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99132,
+        "num": 99132,
+        "word": "学校成人礼一老师从台上跌落",
+        "onboard_time": 1748966002,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91279,
+        "num": 91279,
+        "word": "藏海传大结局",
+        "onboard_time": 1748945841,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83384,
+        "num": 83384,
+        "word": "郑钦文泪洒发布会",
+        "onboard_time": 1748958023,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79260,
+        "num": 79260,
+        "word": "如何利用维生素B甩掉坏情绪",
+        "onboard_time": 1748989217,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73470,
+        "num": 75449,
+        "word": "极致的BE是顶级HE",
+        "onboard_time": 1748991137,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112784,
+        "num": 75294,
+        "word": "李在明称感谢国民做出的伟大决定",
+        "onboard_time": 1748993119,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74626,
+        "num": 74626,
+        "word": "彭于晏方否认与蔡依林恋情",
+        "onboard_time": 1748948901,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74046,
+        "num": 74046,
+        "word": "应采儿说Jasper在追星戒断状态",
+        "onboard_time": 1748951722,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69110,
+        "num": 69110,
+        "word": "王安宇挤不进的圈子别硬融",
+        "onboard_time": 1748957303,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67129,
+        "num": 67129,
+        "word": "赵秉文好狠",
+        "onboard_time": 1748956702,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65790,
+        "num": 65790,
+        "word": "为什么广东女生大多数都是素颜",
+        "onboard_time": 1748961025,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61304,
+        "num": 61304,
+        "word": "乌克兰摧毁41架俄军战略轰炸机",
+        "onboard_time": 1748978235,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59987,
+        "num": 59987,
+        "word": "27岁女游客在三亚被蛇咬伤身亡",
+        "onboard_time": 1748937742,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59946,
+        "num": 59946,
+        "word": "宁静潮牌定价",
+        "onboard_time": 1748969898,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58981,
+        "num": 58981,
+        "word": "波尔说和樊振东比赛每次都是他赢",
+        "onboard_time": 1748993119,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57803,
+        "num": 57803,
+        "word": "女子被蛇咬伤身亡当地已成立调查组",
+        "onboard_time": 1748958382,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51848,
+        "num": 57802,
+        "word": "曝iPhone17不支持自适应刷新率",
+        "onboard_time": 1748959102,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 51641,
+        "num": 57802,
+        "word": "莫言为冯巩取笔名闭嘴",
+        "onboard_time": 1748981773,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 48325,
+        "num": 57801,
+        "word": "观风拾雷的任务",
+        "onboard_time": 1748964562,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48103,
+        "num": 57799,
+        "word": "这才是高明结局",
+        "onboard_time": 1748966841,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47744,
+        "num": 57799,
+        "word": "周柯宇发文祝热巴生日快乐",
+        "onboard_time": 1748954301,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47031,
+        "num": 57797,
+        "word": "藏海传38集封神",
+        "onboard_time": 1748963842,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46991,
+        "num": 57797,
+        "word": "李荣浩艾特杨丞琳",
+        "onboard_time": 1748993780,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44381,
+        "num": 57796,
+        "word": "欧盟拟限制中企参与医疗器械公共采购",
+        "onboard_time": 1748966661,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44048,
+        "num": 57794,
+        "word": "郑钦文止步法网8强",
+        "onboard_time": 1748949441,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平挂念这块隋碑40余年#"
+    }
+  }
+}
