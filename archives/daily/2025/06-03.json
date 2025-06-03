@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748920926813,
+  "endTime": 1748921669544,
   "band_list": [
     {
       "raw_hot": 1726051,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1481033,
-      "num": 719111,
+      "num": 1110336,
       "word": "警方通报男子将女童拖进小巷",
       "onboard_time": 1748918541,
       "rank": 3,
@@ -41,6 +41,22 @@
       "onboard_time": 1748920401,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1055079,
+      "num": 1055079,
+      "word": "哈佛蒋雨融",
+      "onboard_time": 1748918841,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 996660,
+      "num": 996660,
+      "word": "杨幂酱园弄王许梅造型",
+      "onboard_time": 1748919741,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 947920,
@@ -99,14 +115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 635332,
-      "num": 635332,
-      "word": "哈佛蒋雨融",
-      "onboard_time": 1748918841,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 614331,
       "num": 223358,
       "word": "何秋亊方向汪苏泷道歉",
@@ -120,14 +128,6 @@
       "word": "周星驰执导电影女足杀青",
       "onboard_time": 1748918119,
       "rank": 7,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 559652,
-      "num": 559652,
-      "word": "杨幂酱园弄王许梅造型",
-      "onboard_time": 1748919741,
-      "rank": 8,
       "category": "电影"
     },
     {
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294734,
+      "num": 277794,
+      "word": "近视600度是一个重要分界线",
+      "onboard_time": 1748917041,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 291410,
       "num": 291410,
       "word": "龙舟征婚小伙称微信被加爆",
@@ -299,20 +307,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288893,
+      "num": 288893,
+      "word": "刘浩存打戏",
+      "onboard_time": 1748920460,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281258,
       "num": 281258,
       "word": "李在明喊出还差三票就赢得大选",
       "onboard_time": 1748875283,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 277794,
-      "num": 277794,
-      "word": "近视600度是一个重要分界线",
-      "onboard_time": 1748917041,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 269849,
@@ -419,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204554,
-      "num": 204554,
-      "word": "刘浩存打戏",
-      "onboard_time": 1748920460,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202961,
       "num": 202961,
       "word": "酱园弄群星海报",
@@ -457,6 +457,14 @@
       "onboard_time": 1748876061,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194313,
+      "num": 194313,
+      "word": "韩国大选",
+      "onboard_time": 1748921240,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192021,
@@ -491,8 +499,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 180617,
+      "num": 180617,
+      "word": "吴昕好有生命力的美",
+      "onboard_time": 1748921001,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175722,
-      "num": 175722,
+      "num": 179290,
       "word": "许嵩 想见的人多多见到",
       "onboard_time": 1748920341,
       "rank": 33,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 163214,
-      "num": 149356,
+      "num": 163193,
       "word": "迪丽热巴待播剧庆生照",
       "onboard_time": 1748918480,
       "rank": 37,
@@ -587,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141828,
+      "num": 141828,
+      "word": "暑期档已开启",
+      "onboard_time": 1748918599,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136576,
       "num": 136576,
       "word": "电影女足",
@@ -627,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128332,
+      "num": 128332,
+      "word": "男子为18.8万彩礼买假存单获刑",
+      "onboard_time": 1748921361,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125811,
       "num": 125811,
       "word": "洛阳地铁有多难挖",
@@ -641,14 +673,6 @@
       "onboard_time": 1748878700,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122568,
-      "num": 122568,
-      "word": "暑期档已开启",
-      "onboard_time": 1748918599,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 121038,
@@ -720,6 +744,14 @@
       "word": "藏海传年度爆款剧集",
       "onboard_time": 1748916799,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 107723,
+      "num": 107723,
+      "word": "慕胥辞",
+      "onboard_time": 1748917941,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -899,20 +931,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73228,
-      "num": 862680,
-      "word": "端午经济成为消费活力新引擎",
-      "onboard_time": 1748872104,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71957,
-      "num": 143276,
+      "raw_hot": 73534,
+      "num": 164201,
       "word": "什么颜色的被子能提升睡眠质量",
       "onboard_time": 1748920881,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73228,
+      "num": 1123009,
+      "word": "端午经济成为消费活力新引擎",
+      "onboard_time": 1748872104,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71060,
