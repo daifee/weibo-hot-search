@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748956168303,
+  "endTime": 1748957935802,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -17,6 +17,14 @@
       "onboard_time": 1748735178,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2844990,
+      "num": 2844990,
+      "word": "何秋亊道歉",
+      "onboard_time": 1748956522,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 2752282,
@@ -201,6 +209,14 @@
       "onboard_time": 1748916019,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1375445,
+      "num": 1375445,
+      "word": "高明下线",
+      "onboard_time": 1748953102,
+      "rank": 1,
+      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 1362008,
@@ -403,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1069202,
-      "num": 1171072,
-      "word": "高明下线",
-      "onboard_time": 1748953102,
-      "rank": 1,
-      "category": "民生新闻,剧集"
-    },
-    {
       "raw_hot": 1057179,
       "num": 481393,
       "word": "彭于晏方否认与蔡依林恋情",
@@ -425,6 +433,14 @@
       "onboard_time": 1748932940,
       "rank": 6,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1041823,
+      "num": 374560,
+      "word": "张婧仪张婧怡",
+      "onboard_time": 1748951362,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1024126,
@@ -705,14 +721,6 @@
       "onboard_time": 1748917699,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 716015,
-      "num": 374560,
-      "word": "张婧仪张婧怡",
-      "onboard_time": 1748951362,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 700842,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1748848701,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 559519,
+      "num": 559519,
+      "word": "乌克兰称袭击克里米亚大桥",
+      "onboard_time": 1748954602,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 558235,
@@ -1867,6 +1883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 339160,
+      "num": 339160,
+      "word": "赵秉文好狠",
+      "onboard_time": 1748956702,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 338683,
       "num": 338683,
       "word": "在哈佛演讲的25岁中国女生发声",
@@ -1923,14 +1947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 328185,
-      "num": 277164,
-      "word": "乌克兰称袭击克里米亚大桥",
-      "onboard_time": 1748954602,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 327326,
       "num": 258038,
       "word": "月都花落 杨洋",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1748771000,
       "rank": 15,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 318705,
+      "num": 318705,
+      "word": "周柯宇发文祝热巴生日快乐",
+      "onboard_time": 1748954301,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 316925,
@@ -2739,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237069,
+      "num": 237069,
+      "word": "时全竟然是赵秉文的人",
+      "onboard_time": 1748956462,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235704,
       "num": 184313,
       "word": "贾静雯自曝三位亲人患癌",
@@ -2809,14 +2841,6 @@
       "onboard_time": 1748939361,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225904,
-      "num": 206836,
-      "word": "周柯宇发文祝热巴生日快乐",
-      "onboard_time": 1748954301,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 225853,
@@ -3531,6 +3555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191278,
+      "num": 181136,
+      "word": "赵丽颖丝绒闪钻吊带裙",
+      "onboard_time": 1748957662,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190939,
       "num": 190939,
       "word": "梁超说肖战太用功了",
@@ -3729,6 +3761,14 @@
       "onboard_time": 1748910201,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184965,
+      "num": 184965,
+      "word": "十个勤天深圳站官宣",
+      "onboard_time": 1748956883,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 184869,
@@ -4051,6 +4091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174492,
+      "num": 174492,
+      "word": "何秋亊单日掉粉超17.5万",
+      "onboard_time": 1748957842,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 174047,
       "num": 159440,
       "word": "王楚钦赵心童成就顶峰相见佳话",
@@ -4097,6 +4145,14 @@
       "onboard_time": 1748755339,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171988,
+      "num": 171988,
+      "word": "王安宇挤不进的圈子别硬融",
+      "onboard_time": 1748957303,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 171657,
@@ -4267,6 +4323,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 166897,
+      "num": 166897,
+      "word": "何秋亊将追究妆造手麦方责任",
+      "onboard_time": 1748957723,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166885,
       "num": 166885,
       "word": "2025KPL夏季赛全员出征照",
@@ -4401,6 +4465,14 @@
       "onboard_time": 1748698703,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162233,
+      "num": 162233,
+      "word": "陈粒 我是北京孩子",
+      "onboard_time": 1748957362,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 162083,
@@ -4545,6 +4617,14 @@
       "onboard_time": 1748860701,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157532,
+      "num": 397577,
+      "word": "顺风车乘客成猎物被卖猪仔",
+      "onboard_time": 1748955022,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157470,
@@ -4995,6 +5075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144477,
+      "num": 144477,
+      "word": "AL战胜WBG",
+      "onboard_time": 1748957783,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144318,
       "num": 144318,
       "word": "外交部回应蒙古国总理被解职",
@@ -5377,6 +5465,14 @@
       "onboard_time": 1748760619,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136357,
+      "num": 136357,
+      "word": "曹公公叫陆悯",
+      "onboard_time": 1748956222,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 136275,
@@ -6203,6 +6299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119898,
+      "num": 119898,
+      "word": "时代少年团 芭莎",
+      "onboard_time": 1748957900,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 119623,
       "num": 119623,
       "word": "张杰演唱会",
@@ -6569,6 +6673,14 @@
       "onboard_time": 1748840660,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112991,
+      "num": 172109,
+      "word": "家人回应11岁女孩飞扑救下1岁妹妹",
+      "onboard_time": 1748956462,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112960,
@@ -7329,14 +7441,6 @@
       "onboard_time": 1748861479,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100028,
-      "num": 397577,
-      "word": "顺风车乘客成猎物被卖猪仔",
-      "onboard_time": 1748955022,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99968,
@@ -9587,6 +9691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37440,
+      "num": 184878,
+      "word": "提醒一下下下周参加中考的人",
+      "onboard_time": 1748955681,
+      "rank": 29,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 37385,
       "num": 134642,
       "word": "八段锦完整版本跟练教程",
@@ -9763,6 +9875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31949,
+      "num": 1137130,
+      "word": "端午假日消费新图景",
+      "onboard_time": 1748944822,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31793,
       "num": 274810,
       "word": "增塑剂会从皮肤渗入吗",
@@ -9808,14 +9928,6 @@
       "word": "中国的稀土优势在于产业规模",
       "onboard_time": 1748847380,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30865,
-      "num": 1137130,
-      "word": "端午假日消费新图景",
-      "onboard_time": 1748944822,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -10299,6 +10411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20420,
+      "num": 182120,
+      "word": "夏天如何预防食物中毒",
+      "onboard_time": 1748957542,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20188,
       "num": 140065,
       "word": "怎样挑选水果更健康",
@@ -10403,14 +10523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17083,
-      "num": 184878,
-      "word": "提醒一下下下周参加中考的人",
-      "onboard_time": 1748955681,
-      "rank": 29,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 16880,
       "num": 115941,
       "word": "甘露醇能否作为常规肠道准备药物",
@@ -10499,6 +10611,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 14264,
+      "num": 303887,
+      "word": "真性近视和假性近视如何区分",
+      "onboard_time": 1748956942,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14210,
       "num": 23660,
       "word": "网友硬核还原童年记忆竹节人",
@@ -10577,6 +10697,14 @@
       "onboard_time": 1748925743,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 11644,
+      "num": 298202,
+      "word": "药监局回应患者近8万元买到临床药",
+      "onboard_time": 1748957662,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 11636,

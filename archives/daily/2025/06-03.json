@@ -1,7 +1,15 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748956168303,
+  "endTime": 1748957935802,
   "band_list": [
+    {
+      "raw_hot": 2844990,
+      "num": 2844990,
+      "word": "何秋亊道歉",
+      "onboard_time": 1748956522,
+      "rank": 0,
+      "category": "网红"
+    },
     {
       "raw_hot": 2181073,
       "num": 502682,
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1375445,
+      "num": 1375445,
+      "word": "高明下线",
+      "onboard_time": 1748953102,
+      "rank": 1,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 1355394,
       "num": 1355394,
       "word": "中传回应会否录取黄杨钿甜",
@@ -171,14 +187,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1069202,
-      "num": 1171072,
-      "word": "高明下线",
-      "onboard_time": 1748953102,
-      "rank": 1,
-      "category": "民生新闻,剧集"
-    },
-    {
       "raw_hot": 1057179,
       "num": 481393,
       "word": "彭于晏方否认与蔡依林恋情",
@@ -193,6 +201,14 @@
       "onboard_time": 1748932940,
       "rank": 6,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1041823,
+      "num": 374560,
+      "word": "张婧仪张婧怡",
+      "onboard_time": 1748951362,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1002739,
@@ -297,14 +313,6 @@
       "onboard_time": 1748917699,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 716015,
-      "num": 374560,
-      "word": "张婧仪张婧怡",
-      "onboard_time": 1748951362,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 682319,
@@ -425,6 +433,14 @@
       "onboard_time": 1748921900,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 559519,
+      "num": 559519,
+      "word": "乌克兰称袭击克里米亚大桥",
+      "onboard_time": 1748954602,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 545759,
@@ -723,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339160,
+      "num": 339160,
+      "word": "赵秉文好狠",
+      "onboard_time": 1748956702,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331094,
       "num": 331094,
       "word": "24岁大学生暗网贩毒3年捞钱超7亿",
@@ -739,20 +763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 328185,
-      "num": 277164,
-      "word": "乌克兰称袭击克里米亚大桥",
-      "onboard_time": 1748954602,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 320588,
       "num": 320588,
       "word": "宣璐回应走后门",
       "onboard_time": 1748944641,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318705,
+      "num": 318705,
+      "word": "周柯宇发文祝热巴生日快乐",
+      "onboard_time": 1748954301,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 313984,
@@ -963,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237069,
+      "num": 237069,
+      "word": "时全竟然是赵秉文的人",
+      "onboard_time": 1748956462,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234720,
       "num": 234720,
       "word": "撕拉片摄影师置顶鞠婧祎张凌赫",
@@ -1009,14 +1041,6 @@
       "onboard_time": 1748941762,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225904,
-      "num": 206836,
-      "word": "周柯宇发文祝热巴生日快乐",
-      "onboard_time": 1748954301,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 224721,
@@ -1299,6 +1323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191278,
+      "num": 181136,
+      "word": "赵丽颖丝绒闪钻吊带裙",
+      "onboard_time": 1748957662,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190939,
       "num": 190939,
       "word": "梁超说肖战太用功了",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1748910201,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184965,
+      "num": 184965,
+      "word": "十个勤天深圳站官宣",
+      "onboard_time": 1748956883,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 184524,
@@ -1435,12 +1475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174492,
+      "num": 174492,
+      "word": "何秋亊单日掉粉超17.5万",
+      "onboard_time": 1748957842,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 172327,
       "num": 172327,
       "word": "俄州长宣布奖励向乌无人机投石民众",
       "onboard_time": 1748873902,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 171988,
+      "num": 171988,
+      "word": "王安宇挤不进的圈子别硬融",
+      "onboard_time": 1748957303,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 170514,
@@ -1515,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166897,
+      "num": 166897,
+      "word": "何秋亊将追究妆造手麦方责任",
+      "onboard_time": 1748957723,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166885,
       "num": 166885,
       "word": "2025KPL夏季赛全员出征照",
@@ -1571,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162233,
+      "num": 162233,
+      "word": "陈粒 我是北京孩子",
+      "onboard_time": 1748957362,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161294,
       "num": 166921,
       "word": "揭秘绿发会与蒋雨融父亲关联",
@@ -1617,6 +1689,14 @@
       "onboard_time": 1748918300,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157532,
+      "num": 397577,
+      "word": "顺风车乘客成猎物被卖猪仔",
+      "onboard_time": 1748955022,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155733,
@@ -1753,6 +1833,14 @@
       "onboard_time": 1748950520,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 144477,
+      "num": 144477,
+      "word": "AL战胜WBG",
+      "onboard_time": 1748957783,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 144318,
@@ -1913,6 +2001,14 @@
       "onboard_time": 1748870361,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136357,
+      "num": 136357,
+      "word": "曹公公叫陆悯",
+      "onboard_time": 1748956222,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 136189,
@@ -2171,6 +2267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 119898,
+      "num": 119898,
+      "word": "时代少年团 芭莎",
+      "onboard_time": 1748957900,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 119622,
       "num": 119622,
       "word": "蒯铎征服两个国家的帝王",
@@ -2281,6 +2385,14 @@
       "onboard_time": 1748943379,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112991,
+      "num": 172109,
+      "word": "家人回应11岁女孩飞扑救下1岁妹妹",
+      "onboard_time": 1748956462,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112960,
@@ -2480,14 +2592,6 @@
       "word": "老外看到端午玩具要求马上发货走空运",
       "onboard_time": 1748947580,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100028,
-      "num": 397577,
-      "word": "顺风车乘客成猎物被卖猪仔",
-      "onboard_time": 1748955022,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3115,6 +3219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37440,
+      "num": 184878,
+      "word": "提醒一下下下周参加中考的人",
+      "onboard_time": 1748955681,
+      "rank": 29,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 37287,
       "num": 298061,
       "word": "不上班后心理有什么变化",
@@ -3179,19 +3291,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31949,
+      "num": 1137130,
+      "word": "端午假日消费新图景",
+      "onboard_time": 1748944822,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31448,
       "num": 132710,
       "word": "2025年过去一半了",
       "onboard_time": 1748928142,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30865,
-      "num": 1137130,
-      "word": "端午假日消费新图景",
-      "onboard_time": 1748944822,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3331,6 +3443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20420,
+      "num": 182120,
+      "word": "夏天如何预防食物中毒",
+      "onboard_time": 1748957542,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 18803,
       "num": 21639,
       "word": "韶华若锦大结局he得很安心",
@@ -3347,20 +3467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17083,
-      "num": 184878,
-      "word": "提醒一下下下周参加中考的人",
-      "onboard_time": 1748955681,
-      "rank": 29,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 15838,
       "num": 46571,
       "word": "绿发会官微搜索不到蒋雨融相关内容",
       "onboard_time": 1748885955,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14264,
+      "num": 303887,
+      "word": "真性近视和假性近视如何区分",
+      "onboard_time": 1748956942,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14210,
@@ -3401,6 +3521,14 @@
       "onboard_time": 1748925743,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 11644,
+      "num": 298202,
+      "word": "药监局回应患者近8万元买到临床药",
+      "onboard_time": 1748957662,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 11497,
