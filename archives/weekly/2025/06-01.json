@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748983349914,
+  "endTime": 1748985779435,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -10939,6 +10939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19471,
+      "num": 17792,
+      "word": "王星和女友嘉嘉合体拍杂志",
+      "onboard_time": 1748983035,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19024,
       "num": 192785,
       "word": "今年端午最佳",
@@ -11065,6 +11073,14 @@
       "onboard_time": 1748885955,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15696,
+      "num": 15696,
+      "word": "电梯按键",
+      "onboard_time": 1748983035,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 15673,
@@ -11249,14 +11265,6 @@
       "onboard_time": 1748808313,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 11112,
-      "num": 15221,
-      "word": "王星和女友嘉嘉合体拍杂志",
-      "onboard_time": 1748983035,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 10827,

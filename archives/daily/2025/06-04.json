@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748983349914,
+  "endTime": 1748985779435,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -475,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19471,
+      "num": 17792,
+      "word": "王星和女友嘉嘉合体拍杂志",
+      "onboard_time": 1748983035,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18941,
       "num": 57407,
       "word": "中方将持续优化入境政策",
@@ -507,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15696,
+      "num": 15696,
+      "word": "电梯按键",
+      "onboard_time": 1748983035,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15274,
       "num": 19388,
       "word": "没有人能心平气和看完藏海传38集",
@@ -521,14 +537,6 @@
       "onboard_time": 1748981114,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11112,
-      "num": 15221,
-      "word": "王星和女友嘉嘉合体拍杂志",
-      "onboard_time": 1748983035,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 9147,
