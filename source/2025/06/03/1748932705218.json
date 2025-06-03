@@ -1,0 +1,410 @@
+{
+  "runTime": 1748932705218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1218163,
+        "num": 1218163,
+        "word": "黄杨钿甜艺考合格不等于被录取",
+        "onboard_time": 1748931020,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 695648,
+        "num": 695648,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1748921841,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19155,
+        "num": 659259,
+        "word": "端午经济成为消费活力新引擎",
+        "onboard_time": 1748872104,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1085652,
+        "num": 646886,
+        "word": "何秋亊 汪苏泷",
+        "onboard_time": 1748927481,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 922844,
+        "num": 584329,
+        "word": "警方通报男子将女童拖进小巷",
+        "onboard_time": 1748918541,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 826938,
+        "num": 535957,
+        "word": "马斯克被曝炫耀在世界各地都有孩子",
+        "onboard_time": 1748923222,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 756434,
+        "num": 482443,
+        "word": "赵丽颖酱园弄出场",
+        "onboard_time": 1748921181,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 476735,
+        "num": 476735,
+        "word": "眼睛度数降了100度",
+        "onboard_time": 1748907257,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 497097,
+        "num": 460323,
+        "word": "酱园弄把熟人拍成认不出的样子",
+        "onboard_time": 1748929641,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89926,
+        "num": 430208,
+        "word": "中国女排一整个期待了",
+        "onboard_time": 1748923401,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 660099,
+        "num": 420567,
+        "word": "张馨予手绘烟花为迪丽热巴庆生",
+        "onboard_time": 1748930900,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638862,
+        "num": 387608,
+        "word": "38岁男子酒后拖拽6岁女童进巷被拘",
+        "onboard_time": 1748925683,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 374211,
+        "num": 374211,
+        "word": "男子把女童拖入小巷将被追究刑责",
+        "onboard_time": 1748920401,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329884,
+        "num": 329884,
+        "word": "藏海传超点",
+        "onboard_time": 1748928501,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301897,
+        "num": 301897,
+        "word": "男子为18.8万彩礼买假存单获刑",
+        "onboard_time": 1748921361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200525,
+        "num": 258011,
+        "word": "祝你高考上上签",
+        "onboard_time": 1748929701,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256283,
+        "num": 256283,
+        "word": "杨幂酱园弄王许梅造型",
+        "onboard_time": 1748919741,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214792,
+        "num": 214792,
+        "word": "上一秒亲吻下一秒捅刀",
+        "onboard_time": 1748925622,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210601,
+        "num": 210601,
+        "word": "乘风之夜邀请函",
+        "onboard_time": 1748932220,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25230,
+        "num": 206381,
+        "word": "苏超梗图太好笑了",
+        "onboard_time": 1748931980,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157300,
+        "num": 204544,
+        "word": "余宇涵首次红毯",
+        "onboard_time": 1748932220,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204542,
+        "num": 204542,
+        "word": "减脂先减内脏脂肪",
+        "onboard_time": 1748925622,
+        "rank": 21,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 187858,
+        "num": 187858,
+        "word": "酱园弄章子怡c位海报",
+        "onboard_time": 1748924062,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184524,
+        "num": 184524,
+        "word": "敖瑞鹏饰演一万三",
+        "onboard_time": 1748931381,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34090,
+        "num": 174417,
+        "word": "泡泡玛特续创新高",
+        "onboard_time": 1748924303,
+        "rank": 24,
+        "category": "动漫,财经"
+      },
+      {
+        "raw_hot": 170908,
+        "num": 170908,
+        "word": "拥有一台咖啡机是如此的幸福",
+        "onboard_time": 1748932341,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161294,
+        "num": 161294,
+        "word": "揭秘绿发会与蒋雨融父亲关联",
+        "onboard_time": 1748925923,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160083,
+        "num": 160083,
+        "word": "酱园弄第一部定档",
+        "onboard_time": 1748917521,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146298,
+        "num": 146298,
+        "word": "易烊千玺酱园弄光头造型",
+        "onboard_time": 1748919201,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144889,
+        "num": 144889,
+        "word": "宋昕冉卡点祝迪丽热巴生日快乐",
+        "onboard_time": 1748927781,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130854,
+        "num": 130854,
+        "word": "近视600度是一个重要分界线",
+        "onboard_time": 1748917041,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124766,
+        "num": 124766,
+        "word": "杨幂酱园弄镜头",
+        "onboard_time": 1748922260,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113515,
+        "num": 113515,
+        "word": "韩国民调显示候选人李在明领跑",
+        "onboard_time": 1748929880,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105755,
+        "num": 105755,
+        "word": "老头乐撞上妹妹前一秒被姐姐抱开",
+        "onboard_time": 1748926463,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105589,
+        "num": 105589,
+        "word": "Capper黄子弘凡公然在台上约饭",
+        "onboard_time": 1748931141,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105175,
+        "num": 105175,
+        "word": "模样最凶的狗狗救下2岁男童",
+        "onboard_time": 1748916019,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104834,
+        "num": 104834,
+        "word": "女子被逼复婚又遭家暴",
+        "onboard_time": 1748916019,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102675,
+        "num": 102675,
+        "word": "周星驰执导电影女足杀青",
+        "onboard_time": 1748918119,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102251,
+        "num": 102251,
+        "word": "网友拍到哪吒2晚霞",
+        "onboard_time": 1748927901,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102620,
+        "num": 101717,
+        "word": "藏海口碑恐怖如斯",
+        "onboard_time": 1748921960,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100946,
+        "num": 100946,
+        "word": "男子变卖女友金器得5万再给女友花",
+        "onboard_time": 1748922563,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98566,
+        "num": 98566,
+        "word": "韩国大选",
+        "onboard_time": 1748921240,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95406,
+        "num": 95406,
+        "word": "荣耀400",
+        "onboard_time": 1748928981,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94915,
+        "num": 94915,
+        "word": "何秋亊工作室",
+        "onboard_time": 1748928621,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94527,
+        "num": 94527,
+        "word": "蒋雨融称与父亲联系很少",
+        "onboard_time": 1748930300,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94022,
+        "num": 94022,
+        "word": "TheShy征战LPL八周年",
+        "onboard_time": 1748927781,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92570,
+        "num": 92570,
+        "word": "周杰伦山下智久京都合体",
+        "onboard_time": 1748926044,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89807,
+        "num": 89807,
+        "word": "比格受害者联盟",
+        "onboard_time": 1748931920,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85966,
+        "num": 85966,
+        "word": "湖南卫视马嘉祺舞台播放量破亿",
+        "onboard_time": 1748932640,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84029,
+        "num": 84029,
+        "word": "猫型挖掘机",
+        "onboard_time": 1748932281,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记品多彩非遗#"
+    }
+  }
+}

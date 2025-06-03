@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748929439764,
+  "endTime": 1748932705218,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -257,6 +257,14 @@
       "onboard_time": 1748838621,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1218163,
+      "num": 1218163,
+      "word": "黄杨钿甜艺考合格不等于被录取",
+      "onboard_time": 1748931020,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1214123,
@@ -611,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 660099,
+      "num": 420567,
+      "word": "张馨予手绘烟花为迪丽热巴庆生",
+      "onboard_time": 1748930900,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658988,
       "num": 305014,
       "word": "巴啦啦小魔仙凌妈妈扮演者自曝片酬",
@@ -937,6 +953,14 @@
       "onboard_time": 1748755761,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 497097,
+      "num": 460323,
+      "word": "酱园弄把熟人拍成认不出的样子",
+      "onboard_time": 1748929641,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 485567,
@@ -1569,6 +1593,14 @@
       "onboard_time": 1748851341,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 329884,
+      "num": 329884,
+      "word": "藏海传超点",
+      "onboard_time": 1748928501,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 327326,
@@ -2403,14 +2435,6 @@
       "category": "运动健身,民生新闻"
     },
     {
-      "raw_hot": 221677,
-      "num": 221677,
-      "word": "藏海传超点",
-      "onboard_time": 1748928501,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220081,
       "num": 218171,
       "word": "女子劈开用几年的菜板满是黄曲霉素",
@@ -2521,6 +2545,14 @@
       "onboard_time": 1748772140,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210601,
+      "num": 210601,
+      "word": "乘风之夜邀请函",
+      "onboard_time": 1748932220,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 210433,
@@ -2697,6 +2729,14 @@
       "onboard_time": 1748920102,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200525,
+      "num": 258011,
+      "word": "祝你高考上上签",
+      "onboard_time": 1748929701,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200470,
@@ -3075,6 +3115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184524,
+      "num": 184524,
+      "word": "敖瑞鹏饰演一万三",
+      "onboard_time": 1748931381,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184352,
       "num": 184352,
       "word": "BLG距离MSI只差一步",
@@ -3395,6 +3443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170908,
+      "num": 170908,
+      "word": "拥有一台咖啡机是如此的幸福",
+      "onboard_time": 1748932341,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170780,
       "num": 170780,
       "word": "曹骏VOGUE盛典活动",
@@ -3627,6 +3683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161294,
+      "num": 166921,
+      "word": "揭秘绿发会与蒋雨融父亲关联",
+      "onboard_time": 1748925923,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161138,
       "num": 161138,
       "word": "仙逆",
@@ -3736,6 +3800,14 @@
       "word": "陈志朋首个古偶演技全通艺员",
       "onboard_time": 1748759840,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157300,
+      "num": 204544,
+      "word": "余宇涵首次红毯",
+      "onboard_time": 1748932220,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -3940,7 +4012,7 @@
     },
     {
       "raw_hot": 148949,
-      "num": 148949,
+      "num": 430208,
       "word": "中国女排一整个期待了",
       "onboard_time": 1748923401,
       "rank": 34,
@@ -5019,14 +5091,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 120723,
-      "num": 166921,
-      "word": "揭秘绿发会与蒋雨融父亲关联",
-      "onboard_time": 1748925923,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120679,
       "num": 120679,
       "word": "英国街头卖柠檬水",
@@ -5329,6 +5393,14 @@
       "onboard_time": 1748744480,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 113515,
+      "num": 113515,
+      "word": "韩国民调显示候选人李在明领跑",
+      "onboard_time": 1748929880,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113279,
@@ -5689,6 +5761,14 @@
       "onboard_time": 1748849780,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105589,
+      "num": 105589,
+      "word": "Capper黄子弘凡公然在台上约饭",
+      "onboard_time": 1748931141,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 105223,
@@ -6315,6 +6395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94527,
+      "num": 94527,
+      "word": "蒋雨融称与父亲联系很少",
+      "onboard_time": 1748930300,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94438,
       "num": 183583,
       "word": "YG新女团2027年出道",
@@ -6539,6 +6627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89807,
+      "num": 89807,
+      "word": "比格受害者联盟",
+      "onboard_time": 1748931920,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89746,
       "num": 89746,
       "word": "于正晒墨雨云间开播一周年海报",
@@ -6715,6 +6811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85966,
+      "num": 85966,
+      "word": "湖南卫视马嘉祺舞台播放量破亿",
+      "onboard_time": 1748932640,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85761,
       "num": 85761,
       "word": "张杰给斗斗做了好多表情包",
@@ -6769,6 +6873,14 @@
       "onboard_time": 1748852480,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 84029,
+      "num": 84029,
+      "word": "猫型挖掘机",
+      "onboard_time": 1748932281,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 83999,
@@ -8075,6 +8187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34090,
+      "num": 174417,
+      "word": "泡泡玛特续创新高",
+      "onboard_time": 1748924303,
+      "rank": 24,
+      "category": "动漫,财经"
+    },
+    {
       "raw_hot": 33681,
       "num": 251162,
       "word": "香会现场中国少将强硬回应",
@@ -8377,6 +8497,14 @@
       "onboard_time": 1748773701,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25230,
+      "num": 206381,
+      "word": "苏超梗图太好笑了",
+      "onboard_time": 1748931980,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 25178,
