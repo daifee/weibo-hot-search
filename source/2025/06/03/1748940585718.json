@@ -1,0 +1,410 @@
+{
+  "runTime": 1748940585718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1950992,
+        "num": 1950992,
+        "word": "27岁女游客在三亚被蛇咬伤身亡",
+        "onboard_time": 1748937742,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1094106,
+        "num": 1094106,
+        "word": "中传回应会否录取黄杨钿甜",
+        "onboard_time": 1748933722,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125823,
+        "num": 926356,
+        "word": "我国GDP五百亿镇近20个",
+        "onboard_time": 1748934501,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 825722,
+        "num": 825722,
+        "word": "警方通报男子将女童拖进小巷",
+        "onboard_time": 1748918541,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 813753,
+        "num": 813753,
+        "word": "台湾旅行团整团被卖到缅甸",
+        "onboard_time": 1748933481,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 753564,
+        "num": 753564,
+        "word": "柯淳说短剧男主第一换姚冠宇了",
+        "onboard_time": 1748937022,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 660811,
+        "num": 660811,
+        "word": "何秋亊 汪苏泷",
+        "onboard_time": 1748927481,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 442765,
+        "num": 442765,
+        "word": "安静公主吃激素药5天胖了10多斤",
+        "onboard_time": 1748933300,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425408,
+        "num": 425408,
+        "word": "何秋亊将直播回应争议",
+        "onboard_time": 1748937920,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354766,
+        "num": 418047,
+        "word": "李在明说若胜选将稳定处理韩中关系",
+        "onboard_time": 1748935160,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 491743,
+        "num": 417946,
+        "word": "38岁男子酒后拖拽6岁女童进巷被拘",
+        "onboard_time": 1748925683,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 417413,
+        "num": 417413,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1748921841,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 373503,
+        "num": 373503,
+        "word": "张馨予手绘烟花为迪丽热巴庆生",
+        "onboard_time": 1748930900,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356937,
+        "num": 356937,
+        "word": "陈梦坦言渴望有完整家庭",
+        "onboard_time": 1748935222,
+        "rank": 13,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 323690,
+        "num": 323690,
+        "word": "大连警方通报2名日籍男子被害",
+        "onboard_time": 1748932940,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 315048,
+        "num": 315048,
+        "word": "乒超名单",
+        "onboard_time": 1748939723,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137706,
+        "num": 303640,
+        "word": "鸿蒙AI手表来了",
+        "onboard_time": 1748939661,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 301839,
+        "num": 301839,
+        "word": "程潇在妈妈患癌后一瞬间长大",
+        "onboard_time": 1748934921,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264377,
+        "num": 264377,
+        "word": "男子把女童拖入小巷将被追究刑责",
+        "onboard_time": 1748920401,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51192,
+        "num": 252725,
+        "word": "不同体重基数该怎么减脂",
+        "onboard_time": 1748940141,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251146,
+        "num": 251146,
+        "word": "迪丽热巴33岁生日短片",
+        "onboard_time": 1748933661,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241744,
+        "num": 241744,
+        "word": "姚冠宇的短剧",
+        "onboard_time": 1748939120,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238259,
+        "num": 238259,
+        "word": "11岁女童在妈妈单位被男同事猥亵",
+        "onboard_time": 1748933481,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226022,
+        "num": 226022,
+        "word": "卫兰 补位",
+        "onboard_time": 1748939361,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221022,
+        "num": 221022,
+        "word": "外交部回应大连杀害2日本人案件",
+        "onboard_time": 1748937621,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198675,
+        "num": 198675,
+        "word": "酱园弄把熟人拍成认不出的样子",
+        "onboard_time": 1748929641,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164727,
+        "num": 164727,
+        "word": "高考作弊将导致所有科目成绩无效",
+        "onboard_time": 1748935880,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 88228,
+        "num": 164504,
+        "word": "卫健局回应女子在三亚被毒蛇咬伤身亡",
+        "onboard_time": 1748940322,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34169,
+        "num": 162575,
+        "word": "哈佛女毕业生演讲穿的什么衣服",
+        "onboard_time": 1748939481,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20890,
+        "num": 161545,
+        "word": "从心理学上讲如何拒绝内耗",
+        "onboard_time": 1748939541,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219884,
+        "num": 160249,
+        "word": "藏海传37.9%",
+        "onboard_time": 1748940561,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188183,
+        "num": 159401,
+        "word": "书卷一梦即将接档临江仙",
+        "onboard_time": 1748935820,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158772,
+        "num": 158772,
+        "word": "聊斋",
+        "onboard_time": 1748940561,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150877,
+        "num": 150877,
+        "word": "赵丽颖酱园弄出场",
+        "onboard_time": 1748921181,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139347,
+        "num": 139347,
+        "word": "高考戴智能手表用不用都作弊",
+        "onboard_time": 1748933841,
+        "rank": 34,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 135265,
+        "num": 135265,
+        "word": "藏海传超点",
+        "onboard_time": 1748928501,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132184,
+        "num": 132184,
+        "word": "丁禹兮中餐厅躲起来哭",
+        "onboard_time": 1748933542,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124260,
+        "num": 124260,
+        "word": "妇联回应男子拖拽女童进小巷",
+        "onboard_time": 1748936660,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22092,
+        "num": 120714,
+        "word": "现实版的鲁班大师",
+        "onboard_time": 1748938820,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145578,
+        "num": 120192,
+        "word": "赵丽颖身上的文人气质",
+        "onboard_time": 1748934321,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119622,
+        "num": 119622,
+        "word": "蒯铎征服两个国家的帝王",
+        "onboard_time": 1748939961,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119320,
+        "num": 119320,
+        "word": "卢昱晓的电影感",
+        "onboard_time": 1748938162,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115707,
+        "num": 115707,
+        "word": "八旬老人以房产换赡养关系恶化后反悔",
+        "onboard_time": 1748940202,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114265,
+        "num": 114265,
+        "word": "律师解读男子将女童拖进小巷事件",
+        "onboard_time": 1748938101,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110730,
+        "num": 110730,
+        "word": "动物园回应出逃卡皮巴拉回家还胖了",
+        "onboard_time": 1748937143,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109171,
+        "num": 109171,
+        "word": "何秋亊演唱会门票价格",
+        "onboard_time": 1748940500,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108494,
+        "num": 108494,
+        "word": "大爷闯红灯撞倒女孩后直接走了",
+        "onboard_time": 1748938820,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107940,
+        "num": 107940,
+        "word": "眼睛度数降了100度",
+        "onboard_time": 1748907257,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102207,
+        "num": 102207,
+        "word": "德国驻华大使馆祝贺樊振东",
+        "onboard_time": 1748937380,
+        "rank": 48,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 99549,
+        "num": 99549,
+        "word": "突然发现奶奶活的比我还年轻",
+        "onboard_time": 1748939661,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

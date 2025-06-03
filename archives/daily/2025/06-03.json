@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748939763399,
+  "endTime": 1748940585718,
   "band_list": [
     {
       "raw_hot": 2085610,
@@ -507,8 +507,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315048,
+      "num": 315048,
+      "word": "乒超名单",
+      "onboard_time": 1748939723,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313984,
-      "num": 247345,
+      "num": 251146,
       "word": "迪丽热巴33岁生日短片",
       "onboard_time": 1748933661,
       "rank": 22,
@@ -643,6 +651,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 241744,
+      "num": 241744,
+      "word": "姚冠宇的短剧",
+      "onboard_time": 1748939120,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234720,
       "num": 234720,
       "word": "撕拉片摄影师置顶鞠婧祎张凌赫",
@@ -657,6 +673,14 @@
       "onboard_time": 1748927781,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226022,
+      "num": 226022,
+      "word": "卫兰 补位",
+      "onboard_time": 1748939361,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 224721,
@@ -707,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219884,
+      "num": 160249,
+      "word": "藏海传37.9%",
+      "onboard_time": 1748940561,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212172,
       "num": 212172,
       "word": "暗荼被藏海软禁了多久",
@@ -737,14 +769,6 @@
       "onboard_time": 1748934321,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 208687,
-      "num": 189609,
-      "word": "姚冠宇的短剧",
-      "onboard_time": 1748939120,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 208259,
@@ -955,14 +979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 175328,
-      "num": 175328,
-      "word": "卫兰 补位",
-      "onboard_time": 1748939361,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172327,
       "num": 172327,
       "word": "俄州长宣布奖励向乌无人机投石民众",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1748925923,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158772,
+      "num": 158772,
+      "word": "聊斋",
+      "onboard_time": 1748940561,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 158600,
@@ -1227,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137706,
+      "num": 303640,
+      "word": "鸿蒙AI手表来了",
+      "onboard_time": 1748939661,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 137557,
       "num": 137557,
       "word": "浪姐抵达内蒙古路透",
@@ -1363,14 +1395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123790,
-      "num": 123790,
-      "word": "乒超名单",
-      "onboard_time": 1748939723,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123652,
       "num": 123652,
       "word": "荣耀400",
@@ -1395,14 +1419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 122309,
-      "num": 189353,
-      "word": "鸿蒙AI手表来了",
-      "onboard_time": 1748939661,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 121038,
       "num": 121038,
       "word": "Deft恭喜Uzi入选名人堂",
@@ -1425,6 +1441,14 @@
       "onboard_time": 1748919322,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 119622,
+      "num": 119622,
+      "word": "蒯铎征服两个国家的帝王",
+      "onboard_time": 1748939961,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 118088,
@@ -1483,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115707,
+      "num": 115707,
+      "word": "八旬老人以房产换赡养关系恶化后反悔",
+      "onboard_time": 1748940202,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115661,
       "num": 115661,
       "word": "国际乒联2025第23周排名",
@@ -1531,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110730,
+      "num": 110730,
+      "word": "动物园回应出逃卡皮巴拉回家还胖了",
+      "onboard_time": 1748937143,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110510,
       "num": 110510,
       "word": "面具人真是赵秉文",
@@ -1563,12 +1603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109171,
+      "num": 109171,
+      "word": "何秋亊演唱会门票价格",
+      "onboard_time": 1748940500,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108919,
       "num": 108919,
       "word": "薛之谦造型",
       "onboard_time": 1748875941,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108494,
+      "num": 189874,
+      "word": "大爷闯红灯撞倒女孩后直接走了",
+      "onboard_time": 1748938820,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108242,
@@ -1619,12 +1675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102207,
+      "num": 102207,
+      "word": "德国驻华大使馆祝贺樊振东",
+      "onboard_time": 1748937380,
+      "rank": 48,
+      "category": "国际时政,体育"
+    },
+    {
       "raw_hot": 101074,
       "num": 101074,
       "word": "今日郑钦文再战萨巴伦卡",
       "onboard_time": 1748928381,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99549,
+      "num": 99549,
+      "word": "突然发现奶奶活的比我还年轻",
+      "onboard_time": 1748939661,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 98723,
@@ -1729,6 +1801,14 @@
       "onboard_time": 1748873662,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88228,
+      "num": 164504,
+      "word": "卫健局回应女子在三亚被毒蛇咬伤身亡",
+      "onboard_time": 1748940322,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87083,
@@ -1923,14 +2003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 66114,
-      "num": 189874,
-      "word": "大爷闯红灯撞倒女孩后直接走了",
-      "onboard_time": 1748938820,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64843,
       "num": 70519,
       "word": "藏海后面知道得多刀啊",
@@ -2009,6 +2081,14 @@
       "onboard_time": 1748894233,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51192,
+      "num": 252725,
+      "word": "不同体重基数该怎么减脂",
+      "onboard_time": 1748940141,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 49654,
@@ -2227,6 +2307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 20890,
+      "num": 190097,
+      "word": "从心理学上讲如何拒绝内耗",
+      "onboard_time": 1748939541,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18803,
       "num": 21639,
       "word": "韶华若锦大结局he得很安心",
@@ -2289,14 +2377,6 @@
       "onboard_time": 1748891954,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6954,
-      "num": 190097,
-      "word": "从心理学上讲如何拒绝内耗",
-      "onboard_time": 1748939541,
-      "rank": 27,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
