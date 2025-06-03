@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748976671990,
+  "endTime": 1748978464086,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -10019,6 +10019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40829,
+      "num": 78515,
+      "word": "外交部回应是否还会向更多国家免签",
+      "onboard_time": 1748974635,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40609,
       "num": 42225,
       "word": "TheShy真尽力了",
@@ -10217,14 +10225,6 @@
       "onboard_time": 1748939481,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35521,
-      "num": 78515,
-      "word": "外交部回应是否还会向更多国家免签",
-      "onboard_time": 1748974635,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35519,
@@ -10947,6 +10947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18941,
+      "num": 57407,
+      "word": "中方将持续优化入境政策",
+      "onboard_time": 1748975835,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18853,
       "num": 27057,
       "word": "加沙孩子说感觉在战火中活了100年",
@@ -11121,14 +11129,6 @@
       "onboard_time": 1748856621,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12440,
-      "num": 57407,
-      "word": "中方将持续优化入境政策",
-      "onboard_time": 1748975835,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12345,

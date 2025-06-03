@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748976671990,
+  "endTime": 1748978464086,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -435,20 +435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40829,
+      "num": 78515,
+      "word": "外交部回应是否还会向更多国家免签",
+      "onboard_time": 1748974635,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37298,
       "num": 40696,
       "word": "郑晓龙肖战速速二搭",
       "onboard_time": 1748972236,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35521,
-      "num": 78515,
-      "word": "外交部回应是否还会向更多国家免签",
-      "onboard_time": 1748974635,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 33601,
@@ -475,20 +475,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18941,
+      "num": 57407,
+      "word": "中方将持续优化入境政策",
+      "onboard_time": 1748975835,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17996,
       "num": 18853,
       "word": "李现酱园弄战损造型",
       "onboard_time": 1748975955,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 12440,
-      "num": 57407,
-      "word": "中方将持续优化入境政策",
-      "onboard_time": 1748975835,
-      "rank": 9,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
