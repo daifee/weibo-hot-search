@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748921669544,
+  "endTime": 1748925190666,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -25,6 +25,22 @@
       "onboard_time": 1748787802,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2085610,
+      "num": 2085610,
+      "word": "赵丽颖酱园弄出场",
+      "onboard_time": 1748921181,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1999414,
+      "num": 1999414,
+      "word": "恭喜你发明了劳务派遣",
+      "onboard_time": 1748921841,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1891939,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 1259489,
-      "num": 473250,
+      "num": 672259,
       "word": "男子把女童拖入小巷将被追究刑责",
       "onboard_time": 1748920401,
       "rank": 10,
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 817215,
+      "num": 817215,
+      "word": "男子为18.8万彩礼买假存单获刑",
+      "onboard_time": 1748921361,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 805710,
       "num": 1128913,
       "word": "妈妈说陈梦没精力谈恋爱",
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 786298,
-      "num": 438611,
+      "num": 667294,
       "word": "易烊千玺酱园弄光头造型",
       "onboard_time": 1748919201,
       "rank": 12,
@@ -539,6 +563,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 677253,
+      "num": 677253,
+      "word": "酱园弄章子怡c位海报",
+      "onboard_time": 1748924062,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 671625,
       "num": 343563,
       "word": "比邓超还接受不了他变老",
@@ -561,6 +593,14 @@
       "onboard_time": 1748695762,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 651041,
+      "num": 651041,
+      "word": "马斯克被曝炫耀在世界各地都有孩子",
+      "onboard_time": 1748923222,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 650565,
@@ -705,6 +745,14 @@
       "onboard_time": 1748782283,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 583842,
+      "num": 583842,
+      "word": "张雪峰说自己动了太多人的蛋糕",
+      "onboard_time": 1748921900,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 580544,
@@ -904,6 +952,14 @@
       "word": "腾讯视频六月大剧片单",
       "onboard_time": 1748750061,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 477231,
+      "num": 477231,
+      "word": "藏海口碑恐怖如斯",
+      "onboard_time": 1748921960,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -1267,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373023,
+      "num": 373023,
+      "word": "刘浩存打戏",
+      "onboard_time": 1748920460,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370290,
       "num": 370290,
       "word": "藏海传收视率",
@@ -1571,6 +1635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 311746,
+      "num": 311746,
+      "word": "黄杨钿甜爸爸退出公司经营异常",
+      "onboard_time": 1748923462,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310192,
       "num": 310192,
       "word": "鹿晗四巡",
@@ -1600,6 +1672,14 @@
       "word": "美国副总统强硬回应外界批评",
       "onboard_time": 1748740400,
       "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 308139,
+      "num": 308139,
+      "word": "韩国大选",
+      "onboard_time": 1748921240,
+      "rank": 23,
       "category": "国际时政"
     },
     {
@@ -1731,14 +1811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 288893,
-      "num": 288893,
-      "word": "刘浩存打戏",
-      "onboard_time": 1748920460,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 287648,
       "num": 245380,
       "word": "第三人是内阁首辅石一平",
@@ -1777,6 +1849,14 @@
       "onboard_time": 1748857701,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 285309,
+      "num": 171746,
+      "word": "高质量恋爱的十个特征",
+      "onboard_time": 1748924062,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 284828,
@@ -1825,6 +1905,14 @@
       "onboard_time": 1748831421,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 277690,
+      "num": 277690,
+      "word": "杨幂酱园弄镜头",
+      "onboard_time": 1748922260,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 277063,
@@ -2235,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224250,
+      "num": 224250,
+      "word": "电影女足讲述峨嵋队征战亚冠故事",
+      "onboard_time": 1748924241,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 224243,
       "num": 391747,
       "word": "哈佛寻求解冻25亿美元资金",
@@ -2272,6 +2368,14 @@
       "word": "女子劈开用几年的菜板满是黄曲霉素",
       "onboard_time": 1748854700,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219985,
+      "num": 219985,
+      "word": "男子变卖女友金器得5万再给女友花",
+      "onboard_time": 1748922563,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -2643,14 +2747,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 194313,
-      "num": 194313,
-      "word": "韩国大选",
-      "onboard_time": 1748921240,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 193816,
       "num": 222066,
       "word": "十个勤天演唱会",
@@ -2833,6 +2929,14 @@
       "onboard_time": 1748836819,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186336,
+      "num": 169708,
+      "word": "李现酱园弄演反派",
+      "onboard_time": 1748924662,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 186316,
@@ -3115,6 +3219,14 @@
       "category": "海外新闻,教育"
     },
     {
+      "raw_hot": 176147,
+      "num": 176147,
+      "word": "王鹤润新剧高知学霸",
+      "onboard_time": 1748922681,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176024,
       "num": 176024,
       "word": "特朗普回应马克龙被妻子打脸",
@@ -3289,6 +3401,14 @@
       "onboard_time": 1748918599,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168105,
+      "num": 168105,
+      "word": "闪耀暖暖",
+      "onboard_time": 1748924844,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 167479,
@@ -3723,6 +3843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148949,
+      "num": 148949,
+      "word": "中国女排一整个期待了",
+      "onboard_time": 1748923401,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148603,
       "num": 148603,
       "word": "陈雨菲22连胜",
@@ -3809,6 +3937,14 @@
       "onboard_time": 1748749280,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145755,
+      "num": 145755,
+      "word": "雷军复盘时问自己的问题",
+      "onboard_time": 1748924602,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 145653,
@@ -4019,12 +4155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138475,
+      "num": 138475,
+      "word": "凌晨12点一万人的课堂",
+      "onboard_time": 1748923942,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138473,
       "num": 138473,
       "word": "贾乃亮带甜馨开越野车",
       "onboard_time": 1748852239,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137785,
+      "num": 137785,
+      "word": "给羊做脑包虫手术",
+      "onboard_time": 1748923282,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137734,
@@ -4275,6 +4427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132347,
+      "num": 132347,
+      "word": "中国歼10CE一战成名的原因",
+      "onboard_time": 1748924602,
+      "rank": 41,
+      "category": "军事"
+    },
+    {
       "raw_hot": 132230,
       "num": 132230,
       "word": "吴宣仪音乐节大屏",
@@ -4419,20 +4579,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128347,
+      "num": 128347,
+      "word": "第一次见内娱主演带只鸡的",
+      "onboard_time": 1748923702,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128336,
       "num": 128336,
       "word": "河北秦皇岛2.5级地震",
       "onboard_time": 1748863641,
       "rank": 36,
       "category": "民生新闻,民生新闻"
-    },
-    {
-      "raw_hot": 128332,
-      "num": 128332,
-      "word": "男子为18.8万彩礼买假存单获刑",
-      "onboard_time": 1748921361,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128147,
@@ -4777,6 +4937,14 @@
       "onboard_time": 1748756539,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118919,
+      "num": 118919,
+      "word": "法网赛场见证历史",
+      "onboard_time": 1748924902,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 118678,
@@ -6524,7 +6692,7 @@
     },
     {
       "raw_hot": 79563,
-      "num": 1123009,
+      "num": 1467437,
       "word": "端午经济成为消费活力新引擎",
       "onboard_time": 1748872104,
       "rank": 2,
@@ -6568,6 +6736,14 @@
       "word": "佟丽娅去了凤凰传奇演唱会",
       "onboard_time": 1748708661,
       "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 77620,
+      "num": 115874,
+      "word": "谁懂许嵩插兜邪魅一笑的杀伤力",
+      "onboard_time": 1748922861,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -7203,12 +7379,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52161,
+      "num": 172751,
+      "word": "哪些主食不容易升高血糖",
+      "onboard_time": 1748923881,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 52094,
       "num": 52094,
       "word": "奴奴荼荼咬唇吻",
       "onboard_time": 1748815875,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51870,
+      "num": 140972,
+      "word": "洗头越频繁油头越重吗",
+      "onboard_time": 1748925083,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 51776,
@@ -7305,6 +7497,14 @@
       "onboard_time": 1748777421,
       "rank": 11,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 48185,
+      "num": 146028,
+      "word": "国足若输印尼将提前小组出局",
+      "onboard_time": 1748911701,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 48172,
@@ -7545,6 +7745,14 @@
       "onboard_time": 1748797937,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38546,
+      "num": 174808,
+      "word": "肥胖会影响睡眠吗",
+      "onboard_time": 1748924543,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 38108,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1748925190666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2085610,
+        "num": 2085610,
+        "word": "赵丽颖酱园弄出场",
+        "onboard_time": 1748921181,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1999414,
+        "num": 1999414,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1748921841,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45786,
+        "num": 1467437,
+        "word": "端午经济成为消费活力新引擎",
+        "onboard_time": 1748872104,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1027616,
+        "num": 1027616,
+        "word": "哈佛蒋雨融",
+        "onboard_time": 1748918841,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1021346,
+        "num": 1021346,
+        "word": "警方通报男子将女童拖进小巷",
+        "onboard_time": 1748918541,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 945220,
+        "num": 945220,
+        "word": "杨幂酱园弄王许梅造型",
+        "onboard_time": 1748919741,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 817215,
+        "num": 817215,
+        "word": "男子为18.8万彩礼买假存单获刑",
+        "onboard_time": 1748921361,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 771278,
+        "num": 771278,
+        "word": "酱园弄第一部定档",
+        "onboard_time": 1748917521,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 738229,
+        "num": 738229,
+        "word": "眼睛度数降了100度",
+        "onboard_time": 1748907257,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 677253,
+        "num": 677253,
+        "word": "酱园弄章子怡c位海报",
+        "onboard_time": 1748924062,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 848380,
+        "num": 672259,
+        "word": "男子把女童拖入小巷将被追究刑责",
+        "onboard_time": 1748920401,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707551,
+        "num": 667294,
+        "word": "易烊千玺酱园弄光头造型",
+        "onboard_time": 1748919201,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 651041,
+        "num": 651041,
+        "word": "马斯克被曝炫耀在世界各地都有孩子",
+        "onboard_time": 1748923222,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 583842,
+        "num": 583842,
+        "word": "张雪峰说自己动了太多人的蛋糕",
+        "onboard_time": 1748921900,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 484779,
+        "num": 484779,
+        "word": "韩国",
+        "onboard_time": 1748908941,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 477231,
+        "num": 477231,
+        "word": "藏海口碑恐怖如斯",
+        "onboard_time": 1748921960,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373023,
+        "num": 373023,
+        "word": "刘浩存打戏",
+        "onboard_time": 1748920460,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340287,
+        "num": 340287,
+        "word": "周星驰执导电影女足杀青",
+        "onboard_time": 1748918119,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311746,
+        "num": 311746,
+        "word": "黄杨钿甜爸爸退出公司经营异常",
+        "onboard_time": 1748923462,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308139,
+        "num": 308139,
+        "word": "韩国大选",
+        "onboard_time": 1748921240,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 281719,
+        "num": 281719,
+        "word": "女子被逼复婚又遭家暴",
+        "onboard_time": 1748916019,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277690,
+        "num": 277690,
+        "word": "杨幂酱园弄镜头",
+        "onboard_time": 1748922260,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224250,
+        "num": 224250,
+        "word": "电影女足讲述峨嵋队征战亚冠故事",
+        "onboard_time": 1748924241,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222013,
+        "num": 222013,
+        "word": "近视600度是一个重要分界线",
+        "onboard_time": 1748917041,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219985,
+        "num": 219985,
+        "word": "男子变卖女友金器得5万再给女友花",
+        "onboard_time": 1748922563,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213300,
+        "num": 213300,
+        "word": "何秋亊方向汪苏泷道歉",
+        "onboard_time": 1748859800,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154301,
+        "num": 181373,
+        "word": "邱贻可说孙颖莎反手如何练是秘密",
+        "onboard_time": 1748916799,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153039,
+        "num": 178652,
+        "word": "模样最凶的狗狗救下2岁男童",
+        "onboard_time": 1748916019,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176147,
+        "num": 176147,
+        "word": "王鹤润新剧高知学霸",
+        "onboard_time": 1748922681,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38546,
+        "num": 174808,
+        "word": "肥胖会影响睡眠吗",
+        "onboard_time": 1748924543,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52161,
+        "num": 172751,
+        "word": "哪些主食不容易升高血糖",
+        "onboard_time": 1748923881,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285309,
+        "num": 171746,
+        "word": "高质量恋爱的十个特征",
+        "onboard_time": 1748924062,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186336,
+        "num": 169708,
+        "word": "李现酱园弄演反派",
+        "onboard_time": 1748924662,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168105,
+        "num": 168105,
+        "word": "闪耀暖暖",
+        "onboard_time": 1748924844,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148949,
+        "num": 148949,
+        "word": "中国女排一整个期待了",
+        "onboard_time": 1748923401,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48185,
+        "num": 146028,
+        "word": "国足若输印尼将提前小组出局",
+        "onboard_time": 1748911701,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145755,
+        "num": 145755,
+        "word": "雷军复盘时问自己的问题",
+        "onboard_time": 1748924602,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51870,
+        "num": 140972,
+        "word": "洗头越频繁油头越重吗",
+        "onboard_time": 1748925083,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138475,
+        "num": 138475,
+        "word": "凌晨12点一万人的课堂",
+        "onboard_time": 1748923942,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137785,
+        "num": 137785,
+        "word": "给羊做脑包虫手术",
+        "onboard_time": 1748923282,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136259,
+        "num": 136259,
+        "word": "小众但是很烧钱的爱好",
+        "onboard_time": 1748907920,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132347,
+        "num": 132347,
+        "word": "中国歼10CE一战成名的原因",
+        "onboard_time": 1748924602,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131704,
+        "num": 131704,
+        "word": "枭起青壤",
+        "onboard_time": 1748915180,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128347,
+        "num": 128347,
+        "word": "第一次见内娱主演带只鸡的",
+        "onboard_time": 1748923702,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124343,
+        "num": 124343,
+        "word": "山西网红艺人大刚饮酒过量离世",
+        "onboard_time": 1748916799,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118919,
+        "num": 118919,
+        "word": "法网赛场见证历史",
+        "onboard_time": 1748924902,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117375,
+        "num": 117375,
+        "word": "孙颖莎王楚钦现身欧洲大满贯宣传片",
+        "onboard_time": 1748918599,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77620,
+        "num": 115874,
+        "word": "谁懂许嵩插兜邪魅一笑的杀伤力",
+        "onboard_time": 1748922861,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115602,
+        "num": 115602,
+        "word": "华为Pura80来了",
+        "onboard_time": 1748914581,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112275,
+        "num": 112275,
+        "word": "迪丽热巴高定新装",
+        "onboard_time": 1748908459,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记品多彩非遗#"
+    }
+  }
+}
