@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748982587495,
+  "endTime": 1748983349914,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -491,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16837,
+      "num": 16837,
+      "word": "莫言为冯巩取笔名闭嘴",
+      "onboard_time": 1748981773,
+      "rank": 39,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 16602,
       "num": 19392,
       "word": "乌克兰摧毁41架俄军战略轰炸机",
@@ -507,20 +515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14946,
-      "num": 16111,
-      "word": "莫言为冯巩取笔名闭嘴",
-      "onboard_time": 1748981773,
-      "rank": 39,
-      "category": "读书作家"
-    },
-    {
-      "raw_hot": 12563,
+      "raw_hot": 13624,
       "num": 16103,
       "word": "UCLA计算机硕士在巴黎上学的一天",
       "onboard_time": 1748981114,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11112,
+      "num": 15221,
+      "word": "王星和女友嘉嘉合体拍杂志",
+      "onboard_time": 1748983035,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 9147,
