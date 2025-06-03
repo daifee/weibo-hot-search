@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748964603227,
+  "endTime": 1748965470964,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -1059,6 +1059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 582267,
+      "num": 389818,
+      "word": "藏海传2",
+      "onboard_time": 1748964383,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 580544,
       "num": 580544,
       "word": "李东健承认与姜海琳恋情",
@@ -2035,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320843,
+      "num": 320843,
+      "word": "三亚卫健委通报女子被蛇咬伤身亡",
+      "onboard_time": 1748962764,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 320588,
       "num": 320588,
       "word": "宣璐回应走后门",
@@ -2121,14 +2137,6 @@
       "onboard_time": 1748858900,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311982,
-      "num": 311982,
-      "word": "三亚卫健委通报女子被蛇咬伤身亡",
-      "onboard_time": 1748962764,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 311780,
@@ -2531,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269264,
+      "num": 250566,
+      "word": "男子刀片嗓以为感冒竟差点丧命",
+      "onboard_time": 1748961025,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269027,
       "num": 269027,
       "word": "严浩翔daddy级别",
@@ -2552,6 +2568,14 @@
       "word": "百岁老人过寿七旬老人捡烟花被崩伤",
       "onboard_time": 1748824999,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265314,
+      "num": 319604,
+      "word": "女子为祈福放生2.5万斤外来鲇鱼",
+      "onboard_time": 1748960365,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -2683,14 +2707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252826,
-      "num": 319604,
-      "word": "女子为祈福放生2.5万斤外来鲇鱼",
-      "onboard_time": 1748960365,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252129,
       "num": 252129,
       "word": "不敢相信这个大胖小子是高瀚宇",
@@ -2713,14 +2729,6 @@
       "onboard_time": 1748908099,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 250566,
-      "num": 250566,
-      "word": "男子刀片嗓以为感冒竟差点丧命",
-      "onboard_time": 1748961025,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250089,
@@ -3459,14 +3467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200926,
-      "num": 200926,
-      "word": "藏海传2",
-      "onboard_time": 1748964383,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200525,
       "num": 435403,
       "word": "祝你高考上上签",
@@ -3641,6 +3641,14 @@
       "onboard_time": 1748835439,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193336,
+      "num": 193336,
+      "word": "庄二反水",
+      "onboard_time": 1748963605,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 193282,
@@ -3865,6 +3873,14 @@
       "onboard_time": 1748836819,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186517,
+      "num": 186517,
+      "word": "何秋亊回应演唱会门票价格",
+      "onboard_time": 1748964562,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 186336,
@@ -4179,11 +4195,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178082,
-      "num": 178082,
-      "word": "庄二反水",
-      "onboard_time": 1748963605,
-      "rank": 25,
+      "raw_hot": 178154,
+      "num": 178154,
+      "word": "藏海传38集封神",
+      "onboard_time": 1748963842,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -4641,6 +4657,14 @@
       "onboard_time": 1748698703,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162360,
+      "num": 162360,
+      "word": "李在明称将尽最大努力履职",
+      "onboard_time": 1748965162,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162083,
@@ -5433,14 +5457,6 @@
       "onboard_time": 1748787501,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 141708,
-      "num": 141708,
-      "word": "藏海传38集封神",
-      "onboard_time": 1748963842,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 141589,
@@ -6587,6 +6603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118533,
+      "num": 118533,
+      "word": "赵丽颖新剧带火张家界仙境",
+      "onboard_time": 1748962226,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118088,
       "num": 118088,
       "word": "江苏省足协回应苏超爆火",
@@ -6819,14 +6843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114936,
-      "num": 114936,
-      "word": "赵丽颖新剧带火张家界仙境",
-      "onboard_time": 1748962226,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114547,
       "num": 114547,
       "word": "端午最火的不是中超英超是苏超",
@@ -6857,14 +6873,6 @@
       "onboard_time": 1748862381,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113980,
-      "num": 113980,
-      "word": "何秋亊回应演唱会门票价格",
-      "onboard_time": 1748964562,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 113897,
@@ -8124,7 +8132,7 @@
     },
     {
       "raw_hot": 93396,
-      "num": 1361306,
+      "num": 1778902,
       "word": "2025年高考注意事项",
       "onboard_time": 1748960065,
       "rank": 2,
@@ -8865,6 +8873,22 @@
       "onboard_time": 1748770461,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75120,
+      "num": 75120,
+      "word": "蔚来Q1营收120.35亿元",
+      "onboard_time": 1748963424,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 74980,
+      "num": 74980,
+      "word": "雷军回答小米的护城河是什么",
+      "onboard_time": 1748962524,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 74841,
