@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748985779435,
+  "endTime": 1748986745725,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -475,12 +475,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19471,
-      "num": 17792,
+      "raw_hot": 26808,
+      "num": 20164,
       "word": "王星和女友嘉嘉合体拍杂志",
       "onboard_time": 1748983035,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20303,
+      "num": 20147,
+      "word": "电梯按键",
+      "onboard_time": 1748983035,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 19967,
+      "num": 19967,
+      "word": "莫言为冯巩取笔名闭嘴",
+      "onboard_time": 1748981773,
+      "rank": 39,
+      "category": "读书作家"
     },
     {
       "raw_hot": 18941,
@@ -499,28 +515,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16837,
-      "num": 16837,
-      "word": "莫言为冯巩取笔名闭嘴",
-      "onboard_time": 1748981773,
-      "rank": 39,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 16602,
       "num": 19392,
       "word": "乌克兰摧毁41架俄军战略轰炸机",
       "onboard_time": 1748978235,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15696,
-      "num": 15696,
-      "word": "电梯按键",
-      "onboard_time": 1748983035,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 15274,
