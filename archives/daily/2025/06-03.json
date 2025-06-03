@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748936477152,
+  "endTime": 1748939763399,
   "band_list": [
     {
       "raw_hot": 2085610,
@@ -17,6 +17,14 @@
       "onboard_time": 1748921841,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1966637,
+      "num": 1966637,
+      "word": "27岁女游客在三亚被蛇咬伤身亡",
+      "onboard_time": 1748937742,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1805267,
@@ -49,6 +57,14 @@
       "onboard_time": 1748916019,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1355394,
+      "num": 1355394,
+      "word": "中传回应会否录取黄杨钿甜",
+      "onboard_time": 1748933722,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1348148,
@@ -137,6 +153,14 @@
       "onboard_time": 1748921361,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 858695,
+      "num": 858695,
+      "word": "柯淳说短剧男主第一换姚冠宇了",
+      "onboard_time": 1748937022,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 843300,
@@ -275,6 +299,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 491317,
+      "num": 491317,
+      "word": "何秋亊将直播回应争议",
+      "onboard_time": 1748937920,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479965,
       "num": 479965,
       "word": "王安宇我也累了给我抱一下",
@@ -305,6 +337,14 @@
       "onboard_time": 1748933481,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432200,
+      "num": 432200,
+      "word": "陈梦坦言渴望有完整家庭",
+      "onboard_time": 1748935222,
+      "rank": 19,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 420794,
@@ -419,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355296,
+      "num": 445364,
+      "word": "李在明说若胜选将稳定处理韩中关系",
+      "onboard_time": 1748935160,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 355285,
       "num": 355285,
       "word": "藏海一跪",
@@ -443,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334953,
-      "num": 334953,
-      "word": "陈梦坦言渴望有完整家庭",
-      "onboard_time": 1748935222,
-      "rank": 19,
-      "category": "体育,综艺"
-    },
-    {
       "raw_hot": 331094,
       "num": 331094,
       "word": "24岁大学生暗网贩毒3年捞钱超7亿",
@@ -467,11 +507,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 314035,
-      "num": 314035,
-      "word": "中传回应会否录取黄杨钿甜",
-      "onboard_time": 1748933722,
-      "rank": 21,
+      "raw_hot": 313984,
+      "num": 247345,
+      "word": "迪丽热巴33岁生日短片",
+      "onboard_time": 1748933661,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -587,20 +627,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 250413,
+      "num": 250413,
+      "word": "外交部回应大连杀害2日本人案件",
+      "onboard_time": 1748937621,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 249301,
       "num": 432929,
       "word": "高考戴智能手表用不用都作弊",
       "onboard_time": 1748933841,
       "rank": 9,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 242104,
-      "num": 242104,
-      "word": "李在明说若胜选将稳定处理韩中关系",
-      "onboard_time": 1748935160,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 234720,
@@ -675,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211160,
+      "num": 211160,
+      "word": "书卷一梦即将接档临江仙",
+      "onboard_time": 1748935820,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210601,
       "num": 210601,
       "word": "乘风之夜邀请函",
@@ -689,6 +737,14 @@
       "onboard_time": 1748934321,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208687,
+      "num": 189609,
+      "word": "姚冠宇的短剧",
+      "onboard_time": 1748939120,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 208259,
@@ -828,7 +884,7 @@
     },
     {
       "raw_hot": 187579,
-      "num": 393998,
+      "num": 433505,
       "word": "高考作弊将导致所有科目成绩无效",
       "onboard_time": 1748935880,
       "rank": 9,
@@ -859,12 +915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184232,
-      "num": 184232,
-      "word": "书卷一梦即将接档临江仙",
-      "onboard_time": 1748935820,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 184091,
+      "num": 184091,
+      "word": "妇联回应男子拖拽女童进小巷",
+      "onboard_time": 1748936660,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180617,
@@ -897,6 +953,14 @@
       "onboard_time": 1748920341,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175328,
+      "num": 175328,
+      "word": "卫兰 补位",
+      "onboard_time": 1748939361,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 172327,
@@ -1003,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155277,
+      "num": 1110650,
+      "word": "我国GDP五百亿镇近20个",
+      "onboard_time": 1748934501,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154796,
       "num": 154796,
       "word": "原神5.7版本直播",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1748927781,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143430,
+      "num": 143430,
+      "word": "二搭的风席卷了七根心简",
+      "onboard_time": 1748938942,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 142800,
@@ -1179,20 +1259,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 135208,
+      "num": 144030,
+      "word": "卢昱晓的电影感",
+      "onboard_time": 1748938162,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 134713,
+      "num": 134713,
+      "word": "半年不上班的心理变化",
+      "onboard_time": 1748936840,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 132787,
       "num": 132787,
       "word": "王楚钦将代表山东魏桥出战乒超",
       "onboard_time": 1748936120,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132552,
-      "num": 1042562,
-      "word": "我国GDP五百亿镇近20个",
-      "onboard_time": 1748934501,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 132478,
@@ -1209,6 +1297,14 @@
       "onboard_time": 1748924602,
       "rank": 41,
       "category": "军事"
+    },
+    {
+      "raw_hot": 130934,
+      "num": 385369,
+      "word": "律师解读男子将女童拖进小巷事件",
+      "onboard_time": 1748938101,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130795,
@@ -1267,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123790,
+      "num": 123790,
+      "word": "乒超名单",
+      "onboard_time": 1748939723,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123652,
       "num": 123652,
       "word": "荣耀400",
@@ -1289,6 +1393,14 @@
       "onboard_time": 1748929880,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122309,
+      "num": 189353,
+      "word": "鸿蒙AI手表来了",
+      "onboard_time": 1748939661,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 121038,
@@ -1691,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79796,
+      "num": 189577,
+      "word": "今年高考十问十答",
+      "onboard_time": 1748936901,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 79237,
       "num": 79237,
       "word": "鹿晗四巡",
@@ -1801,6 +1921,14 @@
       "onboard_time": 1748880440,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 66114,
+      "num": 189874,
+      "word": "大爷闯红灯撞倒女孩后直接走了",
+      "onboard_time": 1748938820,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64843,
@@ -1939,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41376,
+      "num": 301426,
+      "word": "身体缺维生素会有哪些表现",
+      "onboard_time": 1748937680,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41151,
       "num": 45595,
       "word": "德约科维奇法网100胜",
@@ -1987,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35796,
+      "num": 190000,
+      "word": "哈佛女毕业生演讲穿的什么衣服",
+      "onboard_time": 1748939481,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35146,
       "num": 48936,
       "word": "乌方正准备新的战俘交换",
@@ -2009,6 +2153,14 @@
       "onboard_time": 1748928142,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28999,
+      "num": 115023,
+      "word": "人在感到幸福的时候会流泪吗",
+      "onboard_time": 1748937742,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 28974,
@@ -2035,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24509,
+      "num": 151241,
+      "word": "现实版的鲁班大师",
+      "onboard_time": 1748938820,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24218,
       "num": 31187,
       "word": "汪苏泷十万伏特2.0巡回演唱会",
@@ -2057,6 +2217,14 @@
       "onboard_time": 1748887755,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21862,
+      "num": 150291,
+      "word": "你存在的时空",
+      "onboard_time": 1748931740,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 18803,
@@ -2121,6 +2289,14 @@
       "onboard_time": 1748891954,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6954,
+      "num": 190097,
+      "word": "从心理学上讲如何拒绝内耗",
+      "onboard_time": 1748939541,
+      "rank": 27,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
