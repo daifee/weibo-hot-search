@@ -1,7 +1,15 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748958661236,
+  "endTime": 1748960873161,
   "band_list": [
+    {
+      "raw_hot": 9573074,
+      "num": 9573074,
+      "word": "何秋亊道歉",
+      "onboard_time": 1748956522,
+      "rank": 0,
+      "category": "网红"
+    },
     {
       "raw_hot": 7936216,
       "num": 9186216,
@@ -17,14 +25,6 @@
       "onboard_time": 1748735178,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4262114,
-      "num": 4262114,
-      "word": "何秋亊道歉",
-      "onboard_time": 1748956522,
-      "rank": 0,
-      "category": "网红"
     },
     {
       "raw_hot": 2752282,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1896529,
+      "num": 502804,
+      "word": "何秋亊 为什么别人是撞衫我是抄袭",
+      "onboard_time": 1748960424,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1891939,
       "num": 439727,
       "word": "迪丽热巴撕拉片",
@@ -113,6 +121,14 @@
       "onboard_time": 1748917521,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1660843,
+      "num": 1660843,
+      "word": "亚朵酒店被曝出现医院枕套",
+      "onboard_time": 1748958982,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1615973,
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 614220,
-      "num": 318705,
+      "num": 332583,
       "word": "周柯宇发文祝热巴生日快乐",
       "onboard_time": 1748954301,
       "rank": 30,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1748870361,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 509923,
+      "num": 509923,
+      "word": "郑钦文泪洒发布会",
+      "onboard_time": 1748958023,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 504276,
@@ -1923,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331868,
+      "num": 331868,
+      "word": "刘宇宁工作室声明",
+      "onboard_time": 1748959524,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331862,
       "num": 331862,
       "word": "苏晓彤复刻永夜星河大婚造型",
@@ -2603,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254411,
+      "num": 254411,
+      "word": "陈粒 我是北京孩子",
+      "onboard_time": 1748957362,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252129,
       "num": 252129,
       "word": "不敢相信这个大胖小子是高瀚宇",
@@ -2963,12 +3003,12 @@
       "category": "运动健身,民生新闻"
     },
     {
-      "raw_hot": 221643,
-      "num": 221643,
-      "word": "陈粒 我是北京孩子",
-      "onboard_time": 1748957362,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 220794,
+      "num": 220794,
+      "word": "女子为祈福放生2.5万斤外来鲇鱼",
+      "onboard_time": 1748960365,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220390,
@@ -3040,6 +3080,14 @@
       "word": "临江仙OST阵容官宣",
       "onboard_time": 1748745379,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216001,
+      "num": 216001,
+      "word": "稚奴终于可以睡个好觉了",
+      "onboard_time": 1748958263,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -3203,20 +3251,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206342,
+      "num": 206342,
+      "word": "藏海传战绩",
+      "onboard_time": 1748957964,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206114,
       "num": 206114,
       "word": "肖战藏海传第三周追剧日历",
       "onboard_time": 1748775800,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206062,
-      "num": 206062,
-      "word": "郑钦文泪洒发布会",
-      "onboard_time": 1748958023,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 206048,
@@ -3539,6 +3587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193132,
+      "num": 316903,
+      "word": "官方回应三亚仅个别医院有蛇毒血清",
+      "onboard_time": 1748957964,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193014,
       "num": 317729,
       "word": "萨巴伦卡为郑钦文鼓掌",
@@ -3593,14 +3649,6 @@
       "onboard_time": 1748760860,
       "rank": 17,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 191776,
-      "num": 191776,
-      "word": "藏海传战绩",
-      "onboard_time": 1748957964,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 191495,
@@ -3955,20 +4003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181256,
+      "num": 181256,
+      "word": "女子被蛇咬伤身亡当地已成立调查组",
+      "onboard_time": 1748958382,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181194,
       "num": 181194,
       "word": "张本美和申裕斌平野美宇加盟乒超",
       "onboard_time": 1748955321,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180775,
-      "num": 180775,
-      "word": "稚奴终于可以睡个好觉了",
-      "onboard_time": 1748958263,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 180691,
@@ -4049,14 +4097,6 @@
       "onboard_time": 1748781981,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178462,
-      "num": 178462,
-      "word": "女子被蛇咬伤身亡当地已成立调查组",
-      "onboard_time": 1748958382,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178422,
@@ -4259,6 +4299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169757,
+      "num": 169757,
+      "word": "时代少年团 芭莎",
+      "onboard_time": 1748957900,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 169637,
       "num": 169637,
       "word": "雷军晒童年照",
@@ -4369,14 +4417,6 @@
       "onboard_time": 1748722453,
       "rank": 45,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 167155,
-      "num": 167155,
-      "word": "时代少年团 芭莎",
-      "onboard_time": 1748957900,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166885,
@@ -4600,6 +4640,14 @@
       "word": "姚晨说真不是后妈",
       "onboard_time": 1748942422,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159881,
+      "num": 159881,
+      "word": "王星女友嘉嘉曾是乐队主唱",
+      "onboard_time": 1748959944,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -4985,6 +5033,14 @@
       "onboard_time": 1748866521,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147828,
+      "num": 147828,
+      "word": "曝iPhone17不支持自适应刷新率",
+      "onboard_time": 1748959102,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 147421,
@@ -6003,6 +6059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127153,
+      "num": 127153,
+      "word": "33秒盘点迪丽热巴名场面",
+      "onboard_time": 1748959764,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127148,
       "num": 127148,
       "word": "上班建议不要太用力",
@@ -6395,6 +6459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118667,
+      "num": 118667,
+      "word": "常州无锡角逐谁是十三妹",
+      "onboard_time": 1748960244,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118088,
       "num": 118088,
       "word": "江苏省足协回应苏超爆火",
@@ -6521,6 +6593,14 @@
       "onboard_time": 1748776460,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116483,
+      "num": 116483,
+      "word": "新说唱热度破九TT复刻暴走老奶",
+      "onboard_time": 1748960723,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 116365,
@@ -6865,6 +6945,14 @@
       "onboard_time": 1748920881,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110060,
+      "num": 110060,
+      "word": "苏超十三妹常州主场拟移师新福地",
+      "onboard_time": 1748959223,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 109986,
@@ -8667,6 +8755,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 73280,
+      "num": 857748,
+      "word": "2025年高考注意事项",
+      "onboard_time": 1748960065,
+      "rank": 2,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 72900,
       "num": 72900,
       "word": "关注俄乌局势最新进展",
@@ -9315,6 +9411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51220,
+      "num": 485519,
+      "word": "顺风车司机展示外挂软件1秒抢单",
+      "onboard_time": 1748959402,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51192,
       "num": 252725,
       "word": "不同体重基数该怎么减脂",
@@ -9571,14 +9675,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 41667,
-      "num": 316903,
-      "word": "官方回应三亚仅个别医院有蛇毒血清",
-      "onboard_time": 1748957964,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41628,
       "num": 226434,
       "word": "中方专家驳斥菲防长发言",
@@ -9785,6 +9881,14 @@
       "onboard_time": 1748932940,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36804,
+      "num": 489334,
+      "word": "端午3天国内出游1.19亿人次",
+      "onboard_time": 1748959583,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36784,
@@ -10211,6 +10315,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 25801,
+      "num": 505191,
+      "word": "数读不断升温的端午经济",
+      "onboard_time": 1748960123,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25758,
       "num": 244250,
       "word": "澳总理拒绝美方施压强调国防自主",
@@ -10465,6 +10577,14 @@
       "onboard_time": 1748939541,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20741,
+      "num": 332659,
+      "word": "喝乌梅水能促进身体排毒吗",
+      "onboard_time": 1748959342,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 20531,
@@ -10833,6 +10953,14 @@
       "onboard_time": 1748782340,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 7136,
+      "num": 181570,
+      "word": "韩科考队员做客长城站趣事",
+      "onboard_time": 1748960485,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6069,
