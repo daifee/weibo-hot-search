@@ -1,0 +1,410 @@
+{
+  "runTime": 1748933558615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1179171,
+        "num": 1188667,
+        "word": "黄杨钿甜艺考合格不等于被录取",
+        "onboard_time": 1748931020,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 908802,
+        "num": 908802,
+        "word": "台湾旅行团整团被卖到缅甸",
+        "onboard_time": 1748933481,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19781,
+        "num": 903062,
+        "word": "端午经济成为消费活力新引擎",
+        "onboard_time": 1748872104,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 988122,
+        "num": 902992,
+        "word": "何秋亊 汪苏泷",
+        "onboard_time": 1748927481,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 902745,
+        "num": 902745,
+        "word": "警方通报男子将女童拖进小巷",
+        "onboard_time": 1748918541,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 736605,
+        "num": 736605,
+        "word": "马斯克被曝炫耀在世界各地都有孩子",
+        "onboard_time": 1748923222,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 683737,
+        "num": 683737,
+        "word": "大连警方通报2名日籍男子被害",
+        "onboard_time": 1748932940,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 673310,
+        "num": 673310,
+        "word": "赵丽颖酱园弄出场",
+        "onboard_time": 1748921181,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 649764,
+        "num": 649764,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1748921841,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85870,
+        "num": 559872,
+        "word": "不同近视度数眼中的世界",
+        "onboard_time": 1748932820,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 759857,
+        "num": 544034,
+        "word": "38岁男子酒后拖拽6岁女童进巷被拘",
+        "onboard_time": 1748925683,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 664531,
+        "num": 535149,
+        "word": "张馨予手绘烟花为迪丽热巴庆生",
+        "onboard_time": 1748930900,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521715,
+        "num": 521715,
+        "word": "酱园弄把熟人拍成认不出的样子",
+        "onboard_time": 1748929641,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 479965,
+        "num": 479965,
+        "word": "王安宇我也累了给我抱一下",
+        "onboard_time": 1748932761,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435825,
+        "num": 435825,
+        "word": "11岁女童在妈妈单位被男同事猥亵",
+        "onboard_time": 1748933481,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105051,
+        "num": 435403,
+        "word": "祝你高考上上签",
+        "onboard_time": 1748929701,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311311,
+        "num": 435259,
+        "word": "藏海传超点",
+        "onboard_time": 1748928501,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435255,
+        "num": 435255,
+        "word": "眼睛度数降了100度",
+        "onboard_time": 1748907257,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167852,
+        "num": 432883,
+        "word": "余宇涵首次红毯",
+        "onboard_time": 1748932220,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36896,
+        "num": 431591,
+        "word": "视疲劳人群需要多吃哪些食物",
+        "onboard_time": 1748932940,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 431090,
+        "num": 431090,
+        "word": "男子把女童拖入小巷将被追究刑责",
+        "onboard_time": 1748920401,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260040,
+        "num": 260040,
+        "word": "男子为18.8万彩礼买假存单获刑",
+        "onboard_time": 1748921361,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215496,
+        "num": 215496,
+        "word": "杨幂酱园弄王许梅造型",
+        "onboard_time": 1748919741,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188972,
+        "num": 188972,
+        "word": "闵塔鲨祝热巴生日快乐",
+        "onboard_time": 1748933542,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130076,
+        "num": 182770,
+        "word": "王楚钦希望球迷学到好的精神",
+        "onboard_time": 1748932761,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179567,
+        "num": 179567,
+        "word": "拥有一台咖啡机是如此的幸福",
+        "onboard_time": 1748932341,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171901,
+        "num": 171901,
+        "word": "乘风之夜邀请函",
+        "onboard_time": 1748932220,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161185,
+        "num": 161185,
+        "word": "上一秒亲吻下一秒捅刀",
+        "onboard_time": 1748925622,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136092,
+        "num": 160712,
+        "word": "陕西有50万年前古人类烤肉痕迹",
+        "onboard_time": 1748932761,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34832,
+        "num": 160421,
+        "word": "印度婆罗门家庭的高消费晚餐",
+        "onboard_time": 1748932702,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163331,
+        "num": 160409,
+        "word": "曹氏低于8元 燃气费",
+        "onboard_time": 1748932040,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160375,
+        "num": 160375,
+        "word": "酱园弄第一部定档",
+        "onboard_time": 1748917521,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141138,
+        "num": 141138,
+        "word": "巴黎世家平角短裤造型半身裙惹争议",
+        "onboard_time": 1748933481,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 135957,
+        "num": 135957,
+        "word": "酱园弄章子怡c位海报",
+        "onboard_time": 1748924062,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130248,
+        "num": 130248,
+        "word": "丁禹兮中餐厅躲起来哭",
+        "onboard_time": 1748933542,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124636,
+        "num": 124636,
+        "word": "易烊千玺酱园弄光头造型",
+        "onboard_time": 1748919201,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124120,
+        "num": 124120,
+        "word": "敖瑞鹏饰演一万三",
+        "onboard_time": 1748931381,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122349,
+        "num": 123010,
+        "word": "减脂先减内脏脂肪",
+        "onboard_time": 1748925622,
+        "rank": 37,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 122989,
+        "num": 122989,
+        "word": "安静公主吃激素药5天胖了10多斤",
+        "onboard_time": 1748933300,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122839,
+        "num": 122839,
+        "word": "韩国民调显示候选人李在明领跑",
+        "onboard_time": 1748929880,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120313,
+        "num": 120313,
+        "word": "近视600度是一个重要分界线",
+        "onboard_time": 1748917041,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118164,
+        "num": 118164,
+        "word": "揭秘绿发会与蒋雨融父亲关联",
+        "onboard_time": 1748925923,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28599,
+        "num": 117012,
+        "word": "孩子刚近视需要先配镜还是用药",
+        "onboard_time": 1748933481,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116277,
+        "num": 116277,
+        "word": "刘冲提前预告VOGUE海边假日",
+        "onboard_time": 1748933481,
+        "rank": 43,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 116947,
+        "num": 115595,
+        "word": "蒋雨融称与父亲联系很少",
+        "onboard_time": 1748930300,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114461,
+        "num": 114461,
+        "word": "尹锡悦夫妇现身投票站",
+        "onboard_time": 1748933181,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129620,
+        "num": 113852,
+        "word": "宋昕冉卡点祝迪丽热巴生日快乐",
+        "onboard_time": 1748927781,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110805,
+        "num": 110805,
+        "word": "杨幂酱园弄镜头",
+        "onboard_time": 1748922260,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108242,
+        "num": 108242,
+        "word": "王爷像是会和孩子争宠的样子",
+        "onboard_time": 1748933419,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105865,
+        "num": 108186,
+        "word": "中国女排一整个期待了",
+        "onboard_time": 1748923401,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记品多彩非遗#"
+    }
+  }
+}
