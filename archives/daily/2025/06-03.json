@@ -1,6 +1,6 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748950721689,
+  "endTime": 1748955200986,
   "band_list": [
     {
       "raw_hot": 2181073,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 790381,
+      "num": 790381,
+      "word": "高明下线",
+      "onboard_time": 1748953102,
+      "rank": 1,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 786298,
       "num": 667294,
       "word": "易烊千玺酱园弄光头造型",
@@ -297,6 +305,14 @@
       "onboard_time": 1748924062,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 674166,
+      "num": 255186,
+      "word": "张婧仪张婧怡",
+      "onboard_time": 1748951362,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 664531,
@@ -395,7 +411,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 555440,
+      "raw_hot": 576296,
       "num": 478079,
       "word": "何秋亊",
       "onboard_time": 1748948241,
@@ -483,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 464237,
+      "num": 464237,
+      "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
+      "onboard_time": 1748951962,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435825,
       "num": 435825,
       "word": "11岁女童在妈妈单位被男同事猥亵",
@@ -539,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 405400,
+      "num": 241642,
+      "word": "李嘉格婚礼当天婆婆和妈妈冷战",
+      "onboard_time": 1748950221,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392512,
       "num": 392512,
       "word": "蒯铎十年前是必死之局",
@@ -584,6 +616,14 @@
       "word": "刘浩存打戏",
       "onboard_time": 1748920460,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 370623,
+      "num": 370623,
+      "word": "肖战周雨彤谍报上不封顶路透",
+      "onboard_time": 1748953521,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -867,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253377,
+      "num": 253377,
+      "word": "赵丽颖直播",
+      "onboard_time": 1748952740,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251560,
       "num": 251560,
       "word": "韩国5名候选人竞逐总统",
@@ -897,6 +945,22 @@
       "onboard_time": 1748939120,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240767,
+      "num": 240767,
+      "word": "藏海传38集",
+      "onboard_time": 1748953942,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237503,
+      "num": 237503,
+      "word": "乌克兰称袭击克里米亚大桥",
+      "onboard_time": 1748954602,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 234720,
@@ -1019,6 +1083,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213491,
+      "num": 213491,
+      "word": "赵秉文 第三人",
+      "onboard_time": 1748952621,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213066,
+      "num": 213066,
+      "word": "应采儿说Jasper在追星戒断状态",
+      "onboard_time": 1748951722,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212172,
       "num": 212172,
       "word": "暗荼被藏海软禁了多久",
@@ -1057,6 +1137,14 @@
       "onboard_time": 1748907498,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 206836,
+      "num": 206836,
+      "word": "周柯宇发文祝热巴生日快乐",
+      "onboard_time": 1748954301,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 206774,
@@ -1211,14 +1299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 190947,
-      "num": 190947,
-      "word": "李嘉格婚礼当天婆婆和妈妈冷战",
-      "onboard_time": 1748950221,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190939,
       "num": 190939,
       "word": "梁超说肖战太用功了",
@@ -1289,6 +1369,14 @@
       "onboard_time": 1748921001,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179794,
+      "num": 179794,
+      "word": "中方回应2名日本人在大连被杀害",
+      "onboard_time": 1748937621,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179567,
@@ -1473,6 +1561,14 @@
       "onboard_time": 1748925923,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161231,
+      "num": 161231,
+      "word": "丁程鑫张真源看起来干了好几场硬仗",
+      "onboard_time": 1748954362,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 160265,
@@ -1689,6 +1785,14 @@
       "onboard_time": 1748918599,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141331,
+      "num": 141331,
+      "word": "15岁少年因发出笑声遭路人围殴",
+      "onboard_time": 1748952740,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141138,
@@ -1923,12 +2027,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128196,
+      "num": 128196,
+      "word": "建议尽快解决不舒服的小事",
+      "onboard_time": 1748954541,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 126334,
+      "num": 126334,
+      "word": "程潇说永远不想回去前面的人生",
+      "onboard_time": 1748954842,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125811,
       "num": 125811,
       "word": "洛阳地铁有多难挖",
       "onboard_time": 1748910501,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125760,
+      "num": 125760,
+      "word": "YG每个练习生一年投入1亿韩元",
+      "onboard_time": 1748954842,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 123800,
@@ -2049,6 +2177,14 @@
       "onboard_time": 1748933481,
       "rank": 43,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 116137,
+      "num": 116137,
+      "word": "宣璐恶剪",
+      "onboard_time": 1748950881,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 115878,
@@ -2179,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108882,
+      "num": 108882,
+      "word": "高明 不对劲",
+      "onboard_time": 1748952981,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108242,
       "num": 108242,
       "word": "王爷像是会和孩子争宠的样子",
@@ -2201,6 +2345,14 @@
       "onboard_time": 1748917941,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107583,
+      "num": 107583,
+      "word": "舒肤佳 王楚钦",
+      "onboard_time": 1748953342,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 106847,
@@ -2352,6 +2504,14 @@
       "word": "蒋雨融称没有绿卡",
       "onboard_time": 1748916920,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94904,
+      "num": 161253,
+      "word": "顺风车乘客成猎物被卖猪仔",
+      "onboard_time": 1748955022,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2723,6 +2883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53821,
+      "num": 213100,
+      "word": "出逃两个月的卡皮巴拉回家啦",
+      "onboard_time": 1748947942,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52909,
       "num": 281458,
       "word": "哪些动作能有效降低眼睛度数",
@@ -2745,6 +2913,14 @@
       "onboard_time": 1748923881,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 51590,
+      "num": 252516,
+      "word": "坐地起价的天价救护车是哪来的",
+      "onboard_time": 1748953881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51356,
@@ -2851,6 +3027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38634,
+      "num": 206895,
+      "word": "活珠子和毛鸡蛋有什么区别",
+      "onboard_time": 1748953881,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 38546,
       "num": 174808,
       "word": "肥胖会影响睡眠吗",
@@ -2923,6 +3107,14 @@
       "category": "动漫,财经"
     },
     {
+      "raw_hot": 34081,
+      "num": 149906,
+      "word": "明日方舟",
+      "onboard_time": 1748953160,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 32984,
       "num": 234438,
       "word": "高考对未来的人生选择还有多大影响",
@@ -2936,6 +3128,14 @@
       "word": "2025年过去一半了",
       "onboard_time": 1748928142,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30865,
+      "num": 1137130,
+      "word": "端午假日消费新图景",
+      "onboard_time": 1748944822,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3051,6 +3251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 21829,
+      "num": 244980,
+      "word": "苏超都产生了哪些热梗",
+      "onboard_time": 1748954482,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20890,
       "num": 190097,
       "word": "从心理学上讲如何拒绝内耗",
@@ -3065,14 +3273,6 @@
       "onboard_time": 1748889134,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18392,
-      "num": 1137130,
-      "word": "端午假日消费新图景",
-      "onboard_time": 1748944822,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17615,
@@ -3144,6 +3344,14 @@
       "word": "当地航运回应多个海岛游客反映被困",
       "onboard_time": 1748891954,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9190,
+      "num": 207079,
+      "word": "拉撒路现象是什么",
+      "onboard_time": 1748953282,
+      "rank": 28,
       "category": "民生新闻"
     }
   ],

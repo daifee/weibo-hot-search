@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748950721689,
+  "endTime": 1748955200986,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -603,6 +603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 790381,
+      "num": 790381,
+      "word": "高明下线",
+      "onboard_time": 1748953102,
+      "rank": 1,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 786695,
       "num": 476603,
       "word": "黄子韬徐艺洋在商量婚礼了",
@@ -729,6 +737,14 @@
       "onboard_time": 1748924062,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 674166,
+      "num": 255186,
+      "word": "张婧仪张婧怡",
+      "onboard_time": 1748951362,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 671625,
@@ -987,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 576296,
+      "num": 478079,
+      "word": "何秋亊",
+      "onboard_time": 1748948241,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 566063,
       "num": 237822,
       "word": "贴身内衣藏臭屁虫卵人裂开了",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1748837299,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 555440,
-      "num": 478079,
-      "word": "何秋亊",
-      "onboard_time": 1748948241,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 554863,
@@ -1283,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 464237,
+      "num": 464237,
+      "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
+      "onboard_time": 1748951962,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463882,
       "num": 463882,
       "word": "乌方袭击俄机场画面曝光",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1748917521,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 405400,
+      "num": 241642,
+      "word": "李嘉格婚礼当天婆婆和妈妈冷战",
+      "onboard_time": 1748950221,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 404107,
@@ -1624,6 +1656,14 @@
       "word": "刘浩存打戏",
       "onboard_time": 1748920460,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 370623,
+      "num": 370623,
+      "word": "肖战周雨彤谍报上不封顶路透",
+      "onboard_time": 1748953521,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -2515,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253377,
+      "num": 253377,
+      "word": "赵丽颖直播",
+      "onboard_time": 1748952740,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252129,
       "num": 252129,
       "word": "不敢相信这个大胖小子是高瀚宇",
@@ -2643,6 +2691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240767,
+      "num": 240767,
+      "word": "藏海传38集",
+      "onboard_time": 1748953942,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240255,
       "num": 240255,
       "word": "川菜是抗炎作用最强的菜系",
@@ -2673,6 +2729,14 @@
       "onboard_time": 1748821457,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237503,
+      "num": 237503,
+      "word": "乌克兰称袭击克里米亚大桥",
+      "onboard_time": 1748954602,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 235704,
@@ -2923,11 +2987,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213491,
+      "num": 213491,
+      "word": "赵秉文 第三人",
+      "onboard_time": 1748952621,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213204,
       "num": 189654,
       "word": "吴倩朋友怎么那么会拍吴倩",
       "onboard_time": 1748843421,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213066,
+      "num": 213066,
+      "word": "应采儿说Jasper在追星戒断状态",
+      "onboard_time": 1748951722,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -3041,6 +3121,14 @@
       "onboard_time": 1748743460,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206836,
+      "num": 206836,
+      "word": "周柯宇发文祝热巴生日快乐",
+      "onboard_time": 1748954301,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 206774,
@@ -3443,14 +3531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 190947,
-      "num": 190947,
-      "word": "李嘉格婚礼当天婆婆和妈妈冷战",
-      "onboard_time": 1748950221,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190939,
       "num": 190939,
       "word": "梁超说肖战太用功了",
@@ -3809,6 +3889,14 @@
       "onboard_time": 1748786901,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179794,
+      "num": 179794,
+      "word": "中方回应2名日本人在大连被杀害",
+      "onboard_time": 1748937621,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179567,
@@ -4321,6 +4409,14 @@
       "onboard_time": 1748925923,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161231,
+      "num": 161231,
+      "word": "丁程鑫张真源看起来干了好几场硬仗",
+      "onboard_time": 1748954362,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 161138,
@@ -5035,6 +5131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141331,
+      "num": 141331,
+      "word": "15岁少年因发出笑声遭路人围殴",
+      "onboard_time": 1748952740,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141138,
       "num": 141138,
       "word": "巴黎世家平角短裤造型半身裙惹争议",
@@ -5683,6 +5787,14 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 128196,
+      "num": 128196,
+      "word": "建议尽快解决不舒服的小事",
+      "onboard_time": 1748954541,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128147,
       "num": 204004,
       "word": "关之琳62岁状态",
@@ -5723,6 +5835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126334,
+      "num": 126334,
+      "word": "程潇说永远不想回去前面的人生",
+      "onboard_time": 1748954842,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126058,
       "num": 126058,
       "word": "北汽高管质问劣币驱逐良币",
@@ -5737,6 +5857,14 @@
       "onboard_time": 1748910501,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125760,
+      "num": 125760,
+      "word": "YG每个练习生一年投入1亿韩元",
+      "onboard_time": 1748954842,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 125407,
@@ -6219,6 +6347,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 116137,
+      "num": 116137,
+      "word": "宣璐恶剪",
+      "onboard_time": 1748950881,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116049,
       "num": 116049,
       "word": "陈伟霆军装一穿佛爷味就来了",
@@ -6619,6 +6755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108882,
+      "num": 108882,
+      "word": "高明 不对劲",
+      "onboard_time": 1748952981,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108393,
       "num": 108393,
       "word": "魏晨玫瑰音乐节",
@@ -6665,6 +6809,14 @@
       "onboard_time": 1748784021,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107583,
+      "num": 107583,
+      "word": "舒肤佳 王楚钦",
+      "onboard_time": 1748953342,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107445,
@@ -7449,6 +7601,14 @@
       "onboard_time": 1748850080,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94904,
+      "num": 161253,
+      "word": "顺风车乘客成猎物被卖猪仔",
+      "onboard_time": 1748955022,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94827,
@@ -8851,6 +9011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 53821,
+      "num": 213100,
+      "word": "出逃两个月的卡皮巴拉回家啦",
+      "onboard_time": 1748947942,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53062,
       "num": 77451,
       "word": "铁打的杨肸子流水的男主",
@@ -8913,6 +9081,14 @@
       "onboard_time": 1748841441,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 51590,
+      "num": 252516,
+      "word": "坐地起价的天价救护车是哪来的",
+      "onboard_time": 1748953881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51420,
@@ -9307,6 +9483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38634,
+      "num": 206895,
+      "word": "活珠子和毛鸡蛋有什么区别",
+      "onboard_time": 1748953881,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 38546,
       "num": 174808,
       "word": "肥胖会影响睡眠吗",
@@ -9451,6 +9635,14 @@
       "category": "动漫,财经"
     },
     {
+      "raw_hot": 34081,
+      "num": 149906,
+      "word": "明日方舟",
+      "onboard_time": 1748953160,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33681,
       "num": 251162,
       "word": "香会现场中国少将强硬回应",
@@ -9560,6 +9752,14 @@
       "word": "中国的稀土优势在于产业规模",
       "onboard_time": 1748847380,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30865,
+      "num": 1137130,
+      "word": "端午假日消费新图景",
+      "onboard_time": 1748944822,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -10003,6 +10203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21829,
+      "num": 244980,
+      "word": "苏超都产生了哪些热梗",
+      "onboard_time": 1748954482,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21470,
       "num": 143461,
       "word": "上帝视角带你看佛山叠滘龙船漂移",
@@ -10097,14 +10305,6 @@
       "onboard_time": 1748849720,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 18392,
-      "num": 1137130,
-      "word": "端午假日消费新图景",
-      "onboard_time": 1748944822,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17940,
@@ -10368,6 +10568,14 @@
       "word": "当地航运回应多个海岛游客反映被困",
       "onboard_time": 1748891954,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9190,
+      "num": 207079,
+      "word": "拉撒路现象是什么",
+      "onboard_time": 1748953282,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
