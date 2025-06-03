@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1748957935802,
+  "endTime": 1748958661236,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1531,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4262114,
+      "num": 4262114,
+      "word": "何秋亊道歉",
+      "onboard_time": 1748956522,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 4255396,
       "num": 821600,
       "word": "林志炫淘汰",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1742382686,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3315107,
-      "num": 3315107,
-      "word": "种地吧直播",
-      "onboard_time": 1735662029,
-      "rank": 1,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

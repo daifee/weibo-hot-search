@@ -1,10 +1,10 @@
 {
   "startTime": 1748882035675,
-  "endTime": 1748957935802,
+  "endTime": 1748958661236,
   "band_list": [
     {
-      "raw_hot": 2844990,
-      "num": 2844990,
+      "raw_hot": 4262114,
+      "num": 4262114,
       "word": "何秋亊道歉",
       "onboard_time": 1748956522,
       "rank": 0,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 800424,
+      "num": 478079,
+      "word": "何秋亊",
+      "onboard_time": 1748948241,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 786298,
       "num": 667294,
       "word": "易烊千玺酱园弄光头造型",
@@ -313,14 +321,6 @@
       "onboard_time": 1748917699,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 682319,
-      "num": 478079,
-      "word": "何秋亊",
-      "onboard_time": 1748948241,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 677253,
@@ -403,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 614220,
+      "num": 318705,
+      "word": "周柯宇发文祝热巴生日快乐",
+      "onboard_time": 1748954301,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 611174,
       "num": 611174,
       "word": "周星驰执导电影女足杀青",
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 599560,
+      "num": 599560,
+      "word": "乌克兰称袭击克里米亚大桥",
+      "onboard_time": 1748954602,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 596335,
       "num": 596335,
       "word": "藏海传he",
@@ -433,14 +449,6 @@
       "onboard_time": 1748921900,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 559519,
-      "num": 559519,
-      "word": "乌克兰称袭击克里米亚大桥",
-      "onboard_time": 1748954602,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 545759,
@@ -521,6 +529,14 @@
       "onboard_time": 1748909301,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 439312,
+      "num": 439312,
+      "word": "赵秉文好狠",
+      "onboard_time": 1748956702,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 435825,
@@ -739,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339160,
-      "num": 339160,
-      "word": "赵秉文好狠",
-      "onboard_time": 1748956702,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331094,
       "num": 331094,
       "word": "24岁大学生暗网贩毒3年捞钱超7亿",
@@ -771,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318705,
-      "num": 318705,
-      "word": "周柯宇发文祝热巴生日快乐",
-      "onboard_time": 1748954301,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313984,
       "num": 251146,
       "word": "迪丽热巴33岁生日短片",
@@ -793,6 +793,14 @@
       "onboard_time": 1748849839,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311692,
+      "num": 311692,
+      "word": "何秋亊单日掉粉超17.5万",
+      "onboard_time": 1748957842,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 309655,
@@ -1027,6 +1035,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227170,
+      "num": 227170,
+      "word": "赵丽颖丝绒闪钻吊带裙",
+      "onboard_time": 1748957662,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 226374,
+      "num": 226374,
+      "word": "王安宇挤不进的圈子别硬融",
+      "onboard_time": 1748957303,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226022,
       "num": 226022,
       "word": "卫兰 补位",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1748925622,
       "rank": 39,
       "category": "运动健身,民生新闻"
+    },
+    {
+      "raw_hot": 221643,
+      "num": 221643,
+      "word": "陈粒 我是北京孩子",
+      "onboard_time": 1748957362,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 220390,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1748941100,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206062,
+      "num": 206062,
+      "word": "郑钦文泪洒发布会",
+      "onboard_time": 1748958023,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 205826,
@@ -1283,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196068,
+      "num": 196068,
+      "word": "何秋亊将追究妆造手麦方责任",
+      "onboard_time": 1748957723,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195536,
       "num": 195536,
       "word": "男子网购牛奶整箱鼓包变质成豆腐渣",
@@ -1307,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191776,
+      "num": 191776,
+      "word": "藏海传战绩",
+      "onboard_time": 1748957964,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191547,
       "num": 191547,
       "word": "日本回应7月5日末日地震预言疯传",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1748882238,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 191278,
-      "num": 181136,
-      "word": "赵丽颖丝绒闪钻吊带裙",
-      "onboard_time": 1748957662,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 190939,
@@ -1419,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180775,
+      "num": 180775,
+      "word": "稚奴终于可以睡个好觉了",
+      "onboard_time": 1748958263,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180617,
       "num": 180617,
       "word": "吴昕好有生命力的美",
@@ -1451,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178462,
+      "num": 178462,
+      "word": "女子被蛇咬伤身亡当地已成立调查组",
+      "onboard_time": 1748958382,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176147,
       "num": 181123,
       "word": "王鹤润新剧高知学霸",
@@ -1475,28 +1539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174492,
-      "num": 174492,
-      "word": "何秋亊单日掉粉超17.5万",
-      "onboard_time": 1748957842,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 172327,
       "num": 172327,
       "word": "俄州长宣布奖励向乌无人机投石民众",
       "onboard_time": 1748873902,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 171988,
-      "num": 171988,
-      "word": "王安宇挤不进的圈子别硬融",
-      "onboard_time": 1748957303,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 170514,
@@ -1571,12 +1619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166897,
-      "num": 166897,
-      "word": "何秋亊将追究妆造手麦方责任",
-      "onboard_time": 1748957723,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 167155,
+      "num": 167155,
+      "word": "时代少年团 芭莎",
+      "onboard_time": 1748957900,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166885,
@@ -1635,12 +1683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162233,
-      "num": 162233,
-      "word": "陈粒 我是北京孩子",
-      "onboard_time": 1748957362,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 161869,
+      "num": 397577,
+      "word": "顺风车乘客成猎物被卖猪仔",
+      "onboard_time": 1748955022,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161294,
@@ -1691,14 +1739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157532,
-      "num": 397577,
-      "word": "顺风车乘客成猎物被卖猪仔",
-      "onboard_time": 1748955022,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155733,
       "num": 155733,
       "word": "科学家发现一颗超级地球",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1748939661,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 153270,
+      "num": 153270,
+      "word": "AL战胜WBG",
+      "onboard_time": 1748957783,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 152531,
@@ -1833,14 +1881,6 @@
       "onboard_time": 1748950520,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 144477,
-      "num": 144477,
-      "word": "AL战胜WBG",
-      "onboard_time": 1748957783,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 144318,
@@ -2188,7 +2228,7 @@
     },
     {
       "raw_hot": 125760,
-      "num": 125760,
+      "num": 238625,
       "word": "YG每个练习生一年投入1亿韩元",
       "onboard_time": 1748954842,
       "rank": 45,
@@ -2265,14 +2305,6 @@
       "onboard_time": 1748919322,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 119898,
-      "num": 119898,
-      "word": "时代少年团 芭莎",
-      "onboard_time": 1748957900,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 119622,
@@ -2947,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65650,
+      "num": 356365,
+      "word": "药监局回应患者近8万元买到临床药",
+      "onboard_time": 1748957662,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 64843,
       "num": 70519,
       "word": "藏海后面知道得多刀啊",
@@ -3083,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51363,
+      "num": 215327,
+      "word": "尽量满足孩子的愿望",
+      "onboard_time": 1748958083,
+      "rank": 29,
+      "category": "母婴育儿,民生新闻"
+    },
+    {
       "raw_hot": 51356,
       "num": 54598,
       "word": "白鹿抬剧速度",
@@ -3144,6 +3192,14 @@
       "word": "端午假期预计6.57亿人次跨区域流动",
       "onboard_time": 1748897653,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41667,
+      "num": 316903,
+      "word": "官方回应三亚仅个别医院有蛇毒血清",
+      "onboard_time": 1748957964,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3443,8 +3499,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 20420,
-      "num": 182120,
+      "raw_hot": 20531,
+      "num": 215777,
       "word": "夏天如何预防食物中毒",
       "onboard_time": 1748957542,
       "rank": 28,
@@ -3457,6 +3513,14 @@
       "onboard_time": 1748889134,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18318,
+      "num": 316302,
+      "word": "真性近视和假性近视如何区分",
+      "onboard_time": 1748956942,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17615,
@@ -3473,14 +3537,6 @@
       "onboard_time": 1748885955,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14264,
-      "num": 303887,
-      "word": "真性近视和假性近视如何区分",
-      "onboard_time": 1748956942,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 14210,
@@ -3521,14 +3577,6 @@
       "onboard_time": 1748925743,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 11644,
-      "num": 298202,
-      "word": "药监局回应患者近8万元买到临床药",
-      "onboard_time": 1748957662,
-      "rank": 21,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 11497,
