@@ -1,0 +1,410 @@
+{
+  "runTime": 1748916096206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1281560,
+        "num": 1281560,
+        "word": "眼睛度数降了100度",
+        "onboard_time": 1748907257,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 947920,
+        "num": 947920,
+        "word": "韩国",
+        "onboard_time": 1748908941,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73228,
+        "num": 862680,
+        "word": "端午经济成为消费活力新引擎",
+        "onboard_time": 1748872104,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 843300,
+        "num": 843300,
+        "word": "小众但是很烧钱的爱好",
+        "onboard_time": 1748907920,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 529927,
+        "num": 529927,
+        "word": "华为Pura80来了",
+        "onboard_time": 1748914581,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 349847,
+        "num": 480200,
+        "word": "枭起青壤",
+        "onboard_time": 1748915180,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291934,
+        "num": 470868,
+        "word": "2025年高考举报电话",
+        "onboard_time": 1748916019,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256777,
+        "num": 468406,
+        "word": "陷入我们的热恋吻戏 借位",
+        "onboard_time": 1748911881,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468405,
+        "num": 468405,
+        "word": "马克龙遭妻子打脸后公开秀恩爱",
+        "onboard_time": 1748909301,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224243,
+        "num": 391747,
+        "word": "哈佛寻求解冻25亿美元资金",
+        "onboard_time": 1748914581,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286794,
+        "num": 359323,
+        "word": "夏天这种凉鞋易致孩子性早熟还有毒",
+        "onboard_time": 1748857701,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 520843,
+        "num": 350270,
+        "word": "女子被逼复婚又遭家暴",
+        "onboard_time": 1748916019,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331094,
+        "num": 331094,
+        "word": "24岁大学生暗网贩毒3年捞钱超7亿",
+        "onboard_time": 1748907920,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291410,
+        "num": 291410,
+        "word": "龙舟征婚小伙称微信被加爆",
+        "onboard_time": 1748911222,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258996,
+        "num": 258996,
+        "word": "宋昕冉太爱了",
+        "onboard_time": 1748909662,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251560,
+        "num": 251560,
+        "word": "韩国5名候选人竞逐总统",
+        "onboard_time": 1748908099,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250186,
+        "num": 250186,
+        "word": "乌克兰放手一搏改变不了战略被动",
+        "onboard_time": 1748913860,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222001,
+        "num": 222001,
+        "word": "工作人员回应漫展上2女童被指衣着暴露",
+        "onboard_time": 1748872761,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208259,
+        "num": 208259,
+        "word": "俄罗斯",
+        "onboard_time": 1748907498,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181921,
+        "num": 207596,
+        "word": "蒯铎十年前是必死之局",
+        "onboard_time": 1748879541,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 592396,
+        "num": 207257,
+        "word": "贾冰因戏减肥后不再打呼",
+        "onboard_time": 1748873722,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276182,
+        "num": 205833,
+        "word": "何秋亊方向汪苏泷道歉",
+        "onboard_time": 1748859800,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 249200,
+        "num": 205242,
+        "word": "小车冲进屋10岁姐姐神速救起妹妹",
+        "onboard_time": 1748914581,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 204881,
+        "num": 204881,
+        "word": "迪丽热巴生日工作室发文",
+        "onboard_time": 1748909121,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186680,
+        "num": 186680,
+        "word": "洛杉矶奥运会樊振东对国乒不可或缺",
+        "onboard_time": 1748876661,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185447,
+        "num": 185447,
+        "word": "31名加沙平民领食物时遭以军枪击身亡",
+        "onboard_time": 1748910201,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178910,
+        "num": 178910,
+        "word": "女童回家被陌生男子拖进小巷",
+        "onboard_time": 1748849839,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107566,
+        "num": 178767,
+        "word": "藏海一跪",
+        "onboard_time": 1748877861,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93201,
+        "num": 177816,
+        "word": "金泽姜贞羽合作的含金量",
+        "onboard_time": 1748912720,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84943,
+        "num": 175897,
+        "word": "肖战藏海在死亡边缘获得一线生机",
+        "onboard_time": 1748914100,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185908,
+        "num": 175433,
+        "word": "迪丽热巴高定新装",
+        "onboard_time": 1748908459,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174657,
+        "num": 174657,
+        "word": "榴莲价格出现腰斩",
+        "onboard_time": 1748879541,
+        "rank": 31,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 145116,
+        "num": 145116,
+        "word": "藏海是皇帝唯一的希望",
+        "onboard_time": 1748910501,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134283,
+        "num": 134283,
+        "word": "普京底线被乌克兰撕开",
+        "onboard_time": 1748864180,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130795,
+        "num": 130795,
+        "word": "今年第一批吃菌子中毒的人出现了",
+        "onboard_time": 1748907678,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125811,
+        "num": 125811,
+        "word": "洛阳地铁有多难挖",
+        "onboard_time": 1748910501,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116721,
+        "num": 116721,
+        "word": "48岁妻子产子丈夫称孙子比儿子大3岁",
+        "onboard_time": 1748870121,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111832,
+        "num": 111832,
+        "word": "全球好感度调查中国超越美国",
+        "onboard_time": 1748916019,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105675,
+        "num": 105675,
+        "word": "李在明喊出还差三票就赢得大选",
+        "onboard_time": 1748875283,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62835,
+        "num": 105116,
+        "word": "开始推理吧",
+        "onboard_time": 1748908281,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105017,
+        "num": 105017,
+        "word": "模样最凶的狗狗救下2岁男童",
+        "onboard_time": 1748916019,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104814,
+        "num": 104814,
+        "word": "国际乒联2025第23周排名",
+        "onboard_time": 1748916019,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100849,
+        "num": 100849,
+        "word": "金饰克价涨到1024元",
+        "onboard_time": 1748915600,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98723,
+        "num": 98723,
+        "word": "出现这些情况绝对不能再熬夜了",
+        "onboard_time": 1748908400,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97060,
+        "num": 97060,
+        "word": "内娱多位男明星减肥成功",
+        "onboard_time": 1748869521,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93759,
+        "num": 93759,
+        "word": "郑钦文说在红土上比对手更得心应手",
+        "onboard_time": 1748912901,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84825,
+        "num": 84825,
+        "word": "乌希望停火30天俄只同意2到3天",
+        "onboard_time": 1748907920,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84190,
+        "num": 84190,
+        "word": "蒋雨融说堂堂正正争取",
+        "onboard_time": 1748907199,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48499,
+        "num": 83978,
+        "word": "宋雨琦回应开场没压力",
+        "onboard_time": 1748905757,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48260,
+        "num": 83415,
+        "word": "藏海flag开虐预警",
+        "onboard_time": 1748905699,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记品多彩非遗#"
+    }
+  }
+}

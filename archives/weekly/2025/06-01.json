@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748907653171,
+  "endTime": 1748916096206,
   "band_list": [
     {
       "raw_hot": 7936216,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1281560,
+      "num": 1281560,
+      "word": "眼睛度数降了100度",
+      "onboard_time": 1748907257,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1256425,
       "num": 375711,
       "word": "48岁妻子产子丈夫称孙子比儿子大3岁",
@@ -275,6 +283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 947920,
+      "num": 947920,
+      "word": "韩国",
+      "onboard_time": 1748908941,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 943117,
       "num": 676747,
       "word": "林志玲回应缩脖子",
@@ -312,6 +328,14 @@
       "word": "情商低的人都有什么行为",
       "onboard_time": 1748844920,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 843300,
+      "num": 843300,
+      "word": "小众但是很烧钱的爱好",
+      "onboard_time": 1748907920,
+      "rank": 3,
       "category": "情感"
     },
     {
@@ -675,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 529927,
+      "num": 529927,
+      "word": "华为Pura80来了",
+      "onboard_time": 1748914581,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 520888,
       "num": 270434,
       "word": "日本回应7月5日末日地震预言疯传",
@@ -689,6 +721,14 @@
       "onboard_time": 1748869521,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520843,
+      "num": 350270,
+      "word": "女子被逼复婚又遭家暴",
+      "onboard_time": 1748916019,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 518835,
@@ -825,6 +865,14 @@
       "onboard_time": 1748838621,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468405,
+      "num": 468405,
+      "word": "马克龙遭妻子打脸后公开秀恩爱",
+      "onboard_time": 1748909301,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 468291,
@@ -1179,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349847,
+      "num": 480200,
+      "word": "枭起青壤",
+      "onboard_time": 1748915180,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348269,
       "num": 348269,
       "word": "斯瓦泰克vs莱巴金娜",
@@ -1273,6 +1329,14 @@
       "onboard_time": 1748840060,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331094,
+      "num": 331094,
+      "word": "24岁大学生暗网贩毒3年捞钱超7亿",
+      "onboard_time": 1748907920,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330055,
@@ -1515,6 +1579,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291934,
+      "num": 470868,
+      "word": "2025年高考举报电话",
+      "onboard_time": 1748916019,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 291410,
+      "num": 291410,
+      "word": "龙舟征婚小伙称微信被加爆",
+      "onboard_time": 1748911222,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291250,
       "num": 291250,
       "word": "瓶邪",
@@ -1731,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258996,
+      "num": 258996,
+      "word": "宋昕冉太爱了",
+      "onboard_time": 1748909662,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258738,
       "num": 229941,
       "word": "折腰 戒断反应",
@@ -1753,6 +1841,14 @@
       "onboard_time": 1748879781,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256777,
+      "num": 468406,
+      "word": "陷入我们的热恋吻戏 借位",
+      "onboard_time": 1748689221,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 256136,
@@ -1811,6 +1907,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251560,
+      "num": 251560,
+      "word": "韩国5名候选人竞逐总统",
+      "onboard_time": 1748908099,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 250186,
+      "num": 250186,
+      "word": "乌克兰放手一搏改变不了战略被动",
+      "onboard_time": 1748913860,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 250089,
       "num": 229789,
       "word": "杨天真为什么去留学",
@@ -1825,6 +1937,14 @@
       "onboard_time": 1748867060,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249200,
+      "num": 205242,
+      "word": "小车冲进屋10岁姐姐神速救起妹妹",
+      "onboard_time": 1748914581,
+      "rank": 22,
+      "category": "正能量"
     },
     {
       "raw_hot": 248021,
@@ -1979,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224243,
+      "num": 391747,
+      "word": "哈佛寻求解冻25亿美元资金",
+      "onboard_time": 1748914581,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 222654,
       "num": 170961,
       "word": "小莫连用三个really回应樊振东加盟",
@@ -2057,14 +2185,6 @@
       "onboard_time": 1748824038,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214678,
-      "num": 167249,
-      "word": "陷入我们的热恋吻戏 借位",
-      "onboard_time": 1748689221,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 214583,
@@ -2147,6 +2267,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 208259,
+      "num": 208259,
+      "word": "俄罗斯",
+      "onboard_time": 1748907498,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207024,
       "num": 207024,
       "word": "步行者vs尼克斯",
@@ -2193,6 +2321,14 @@
       "onboard_time": 1748841020,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204881,
+      "num": 204881,
+      "word": "迪丽热巴生日工作室发文",
+      "onboard_time": 1748909121,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 204661,
@@ -2555,6 +2691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185908,
+      "num": 175433,
+      "word": "迪丽热巴高定新装",
+      "onboard_time": 1748908459,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185769,
       "num": 185769,
       "word": "黄圣依无法接受自己一天无所事事",
@@ -2585,6 +2729,14 @@
       "onboard_time": 1748749400,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185447,
+      "num": 185447,
+      "word": "31名加沙平民领食物时遭以军枪击身亡",
+      "onboard_time": 1748910201,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184869,
@@ -3001,14 +3153,6 @@
       "onboard_time": 1748788582,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165070,
-      "num": 165070,
-      "word": "眼睛度数降了100度",
-      "onboard_time": 1748907257,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 164943,
@@ -3473,6 +3617,14 @@
       "onboard_time": 1748778322,
       "rank": 26,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 145116,
+      "num": 145116,
+      "word": "藏海是皇帝唯一的希望",
+      "onboard_time": 1748910501,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 144955,
@@ -3971,6 +4123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130795,
+      "num": 130795,
+      "word": "今年第一批吃菌子中毒的人出现了",
+      "onboard_time": 1748907678,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130709,
       "num": 130709,
       "word": "罗云熙点赞太原小吃沾串",
@@ -4089,6 +4249,14 @@
       "onboard_time": 1748756181,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 125811,
+      "num": 125811,
+      "word": "洛阳地铁有多难挖",
+      "onboard_time": 1748910501,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125407,
@@ -4603,6 +4771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111832,
+      "num": 111832,
+      "word": "全球好感度调查中国超越美国",
+      "onboard_time": 1748916019,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111578,
       "num": 111578,
       "word": "湖北一干部违规聚餐饮酒后猝死",
@@ -4907,12 +5083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105017,
+      "num": 105017,
+      "word": "模样最凶的狗狗救下2岁男童",
+      "onboard_time": 1748916019,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104908,
       "num": 104908,
       "word": "沈月狠起来连自己都不放过",
       "onboard_time": 1748837720,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104814,
+      "num": 104814,
+      "word": "国际乒联2025第23周排名",
+      "onboard_time": 1748916019,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 104802,
@@ -5123,6 +5315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100849,
+      "num": 100849,
+      "word": "金饰克价涨到1024元",
+      "onboard_time": 1748915600,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100779,
       "num": 100779,
       "word": "瘫痪姑娘穿外骨骼cos哪吒",
@@ -5257,6 +5457,14 @@
       "onboard_time": 1748857519,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98723,
+      "num": 98723,
+      "word": "出现这些情况绝对不能再熬夜了",
+      "onboard_time": 1748908400,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 98619,
@@ -5491,6 +5699,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 93759,
+      "num": 93759,
+      "word": "郑钦文说在红土上比对手更得心应手",
+      "onboard_time": 1748912901,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93452,
       "num": 93452,
       "word": "董力二胎出生的时候全家都去迎接了",
@@ -5529,6 +5745,14 @@
       "onboard_time": 1748829022,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93201,
+      "num": 177816,
+      "word": "金泽姜贞羽合作的含金量",
+      "onboard_time": 1748912720,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 92794,
@@ -5851,6 +6075,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84943,
+      "num": 175897,
+      "word": "肖战藏海在死亡边缘获得一线生机",
+      "onboard_time": 1748914100,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84825,
+      "num": 84825,
+      "word": "乌希望停火30天俄只同意2到3天",
+      "onboard_time": 1748907920,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84824,
       "num": 84824,
       "word": "刘宇宁戏里折腰戏外护腰",
@@ -5864,6 +6104,14 @@
       "word": "女子长期被迫吸二手烟痛苦地猛洗澡",
       "onboard_time": 1748687480,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84190,
+      "num": 84190,
+      "word": "蒋雨融说堂堂正正争取",
+      "onboard_time": 1748907199,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -5977,14 +6225,6 @@
       "onboard_time": 1748744420,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80391,
-      "num": 80391,
-      "word": "俄罗斯",
-      "onboard_time": 1748907498,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 80113,
@@ -6276,7 +6516,7 @@
     },
     {
       "raw_hot": 70402,
-      "num": 80452,
+      "num": 83415,
       "word": "藏海flag开虐预警",
       "onboard_time": 1748905699,
       "rank": 29,
@@ -6473,6 +6713,14 @@
       "onboard_time": 1748702001,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 62835,
+      "num": 105116,
+      "word": "开始推理吧",
+      "onboard_time": 1748908281,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 62536,
@@ -6753,14 +7001,6 @@
       "onboard_time": 1748870481,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 49360,
-      "num": 49360,
-      "word": "蒋雨融说堂堂正正争取",
-      "onboard_time": 1748907199,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49272,
