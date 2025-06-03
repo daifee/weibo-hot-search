@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1748969502135,
+  "endTime": 1748971496917,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253985,
+      "num": 133919,
+      "word": "这才是高明结局",
+      "onboard_time": 1748966841,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243268,
       "num": 243268,
       "word": "张婧仪回应张婧仪张婧怡",
@@ -169,14 +177,6 @@
       "onboard_time": 1748954602,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 133919,
-      "num": 133919,
-      "word": "这才是高明结局",
-      "onboard_time": 1748966841,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 129443,
@@ -291,6 +291,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75101,
+      "num": 75101,
+      "word": "宁静潮牌定价",
+      "onboard_time": 1748969898,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73644,
+      "num": 75615,
+      "word": "中方回应2名日本人在大连被杀害",
+      "onboard_time": 1748937621,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72117,
       "num": 86666,
       "word": "藏海传片尾 感谢每一位观众",
@@ -321,14 +337,6 @@
       "onboard_time": 1748962226,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65133,
-      "num": 65133,
-      "word": "中方回应2名日本人在大连被杀害",
-      "onboard_time": 1748937621,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64692,
@@ -424,6 +432,22 @@
       "word": "常州无锡角逐谁是十三妹",
       "onboard_time": 1748960244,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33601,
+      "num": 44032,
+      "word": "李嘉鑫长文告别陆烟",
+      "onboard_time": 1748971037,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32409,
+      "num": 44023,
+      "word": "郑钦文止步法网8强",
+      "onboard_time": 1748949441,
+      "rank": 49,
       "category": "体育"
     }
   ],

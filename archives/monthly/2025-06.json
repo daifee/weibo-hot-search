@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1748969502135,
+  "endTime": 1748971496917,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -2713,6 +2713,14 @@
       "onboard_time": 1748703140,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253985,
+      "num": 133919,
+      "word": "这才是高明结局",
+      "onboard_time": 1748966841,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 252129,
@@ -5867,14 +5875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133919,
-      "num": 133919,
-      "word": "这才是高明结局",
-      "onboard_time": 1748966841,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133661,
       "num": 133661,
       "word": "赵丽颖眼光果然毒辣",
@@ -8923,6 +8923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 75101,
+      "num": 75101,
+      "word": "宁静潮牌定价",
+      "onboard_time": 1748969898,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74980,
       "num": 74980,
       "word": "雷军回答小米的护城河是什么",
@@ -10241,6 +10249,14 @@
       "onboard_time": 1748770101,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33601,
+      "num": 44032,
+      "word": "李嘉鑫长文告别陆烟",
+      "onboard_time": 1748971037,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 33145,
