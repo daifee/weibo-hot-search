@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749036196236,
+  "endTime": 1749037173237,
   "band_list": [
     {
       "raw_hot": 2907108,
@@ -113,6 +113,14 @@
       "onboard_time": 1748998282,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 910528,
+      "num": 910528,
+      "word": "被不明生物咬伤身亡女子正准备读研",
+      "onboard_time": 1749033200,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 900801,
@@ -251,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 593947,
+      "num": 593947,
+      "word": "罗森将用2023年大米制作饭团售卖",
+      "onboard_time": 1749031820,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 588595,
       "num": 588595,
       "word": "哪吒婚礼开场",
@@ -259,20 +275,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 586828,
+      "num": 586828,
+      "word": "女子效仿转卖蜜雪时薪20元果断放弃",
+      "onboard_time": 1749033321,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 575059,
       "num": 308559,
       "word": "她一个月赶了我一辈子的通勤",
       "onboard_time": 1748961025,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 573217,
-      "num": 573217,
-      "word": "被不明生物咬伤身亡女子正准备读研",
-      "onboard_time": 1749033200,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 567446,
@@ -289,14 +305,6 @@
       "onboard_time": 1749001160,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 526960,
-      "num": 526960,
-      "word": "罗森将用2023年大米制作饭团售卖",
-      "onboard_time": 1749031820,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 512280,
@@ -344,6 +352,14 @@
       "word": "向佐终于遇到了舒适朋友圈",
       "onboard_time": 1749018381,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 474153,
+      "num": 474153,
+      "word": "IU车银优双人cha",
+      "onboard_time": 1749034159,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -395,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 433182,
-      "num": 433182,
-      "word": "女子效仿转卖蜜雪时薪20元果断放弃",
-      "onboard_time": 1749033321,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 428853,
       "num": 390169,
       "word": "140天韩国换了三任总统",
@@ -425,14 +433,6 @@
       "onboard_time": 1748991678,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419892,
-      "num": 419892,
-      "word": "IU车银优双人cha",
-      "onboard_time": 1749034159,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 414364,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319414,
+      "num": 319414,
+      "word": "日本又一次面临历史之问道义之问",
+      "onboard_time": 1749030201,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 318963,
       "num": 318963,
       "word": "李荣浩艾特杨丞琳",
@@ -683,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258614,
-      "num": 258614,
-      "word": "日本又一次面临历史之问道义之问",
-      "onboard_time": 1749030201,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 257447,
       "num": 257447,
       "word": "韩国霸总来中国了",
@@ -787,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230535,
+      "num": 326491,
+      "word": "中国女排vs比利时队",
+      "onboard_time": 1749036380,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229217,
       "num": 229217,
       "word": "萨尔布吕肯球员海报樊振东C位",
@@ -801,6 +809,30 @@
       "onboard_time": 1748995583,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227186,
+      "num": 227186,
+      "word": "醉汉凌晨潜入大学女生宿舍睡觉",
+      "onboard_time": 1749033921,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227181,
+      "num": 180433,
+      "word": "汪苏泷演唱会怪物征名",
+      "onboard_time": 1749036441,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 224848,
+      "num": 224848,
+      "word": "女排",
+      "onboard_time": 1749034700,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 223099,
@@ -891,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205191,
+      "num": 205191,
+      "word": "藏海传三美来踢馆",
+      "onboard_time": 1749036740,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204790,
       "num": 268800,
       "word": "中韩互为重要近邻和合作伙伴",
@@ -979,20 +1019,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 184156,
-      "num": 184156,
-      "word": "醉汉凌晨潜入大学女生宿舍睡觉",
-      "onboard_time": 1749033921,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180095,
       "num": 180095,
       "word": "藏海传出圈梗",
       "onboard_time": 1749012022,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179753,
+      "num": 179753,
+      "word": "李在明下达一号行政令",
+      "onboard_time": 1749035601,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178927,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1749009021,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171543,
+      "num": 171543,
+      "word": "藏海传再见",
+      "onboard_time": 1749035841,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 167089,
@@ -1179,6 +1227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153536,
+      "num": 153536,
+      "word": "闫安力挺樊振东",
+      "onboard_time": 1749036861,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153429,
       "num": 153429,
       "word": "虞书欣翟潇闻 一念江南",
@@ -1192,14 +1248,6 @@
       "word": "外交部回应石破茂称日本要反省历史",
       "onboard_time": 1749027380,
       "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 153052,
-      "num": 153052,
-      "word": "李在明下达一号行政令",
-      "onboard_time": 1749035601,
-      "rank": 35,
       "category": "国际时政"
     },
     {
@@ -1307,12 +1355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144315,
-      "num": 144315,
-      "word": "藏海传再见",
-      "onboard_time": 1749035841,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 143957,
+      "num": 143957,
+      "word": "王鹤棣cos韩国霸总",
+      "onboard_time": 1749036921,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 142938,
@@ -1395,20 +1443,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139087,
+      "num": 308380,
+      "word": "周柏豪给卫兰歌手推歌",
+      "onboard_time": 1749036201,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138989,
       "num": 138989,
       "word": "陷入我们的热恋",
       "onboard_time": 1749034760,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138668,
-      "num": 138668,
-      "word": "女排",
-      "onboard_time": 1749034700,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 138652,
@@ -1531,12 +1579,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127475,
+      "num": 127475,
+      "word": "王亚飞为虞书欣化的蜜桃妆",
+      "onboard_time": 1749036680,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126189,
       "num": 149112,
       "word": "被李艺彤近距离美貌暴击了",
       "onboard_time": 1748997863,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125637,
+      "num": 465461,
+      "word": "高考试卷运送画面来了",
+      "onboard_time": 1749035001,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 125113,
@@ -1553,6 +1617,14 @@
       "onboard_time": 1749029361,
       "rank": 41,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 124593,
+      "num": 124593,
+      "word": "教师的意义这一瞬间达到了顶峰",
+      "onboard_time": 1749036861,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 124204,
@@ -1577,6 +1649,14 @@
       "onboard_time": 1748957303,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123585,
+      "num": 123585,
+      "word": "最关心高考的一批人是大学生",
+      "onboard_time": 1749037161,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 123259,
@@ -1859,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103241,
+      "num": 274324,
+      "word": "一根数据线外包装印18个品牌名",
+      "onboard_time": 1749035120,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 103114,
       "num": 103114,
       "word": "陈数 花少",
@@ -1889,6 +1977,14 @@
       "onboard_time": 1748993300,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98743,
+      "num": 303896,
+      "word": "苏超的梗密得不知道先笑哪个",
+      "onboard_time": 1749035360,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 98524,
@@ -1947,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95829,
+      "num": 144579,
+      "word": "德企业聘中国工程师遭德国官场噩梦",
+      "onboard_time": 1749035540,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 94938,
       "num": 93802,
       "word": "一条短片了解韩国当选总统李在明",
@@ -1961,14 +2065,6 @@
       "onboard_time": 1749001520,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 93024,
-      "num": 465461,
-      "word": "高考试卷运送画面来了",
-      "onboard_time": 1749035001,
-      "rank": 9,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 92278,
@@ -2161,14 +2257,6 @@
       "onboard_time": 1748962226,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 65647,
-      "num": 274324,
-      "word": "一根数据线外包装印18个品牌名",
-      "onboard_time": 1749035120,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 64692,
@@ -2403,14 +2491,6 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 38334,
-      "num": 303896,
-      "word": "苏超的梗密得不知道先笑哪个",
-      "onboard_time": 1749035360,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38234,
       "num": 93835,
       "word": "平野美宇回应重返乒超",
@@ -2475,14 +2555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31992,
-      "num": 140080,
-      "word": "德企业聘中国工程师遭德国官场噩梦",
-      "onboard_time": 1749035540,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 28958,
       "num": 228843,
       "word": "夏天抱着冬瓜睡能消暑吗",
@@ -2523,6 +2595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 28138,
+      "num": 322339,
+      "word": "山东火海抢收麦子大哥获评见义勇为",
+      "onboard_time": 1749036620,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 27324,
       "num": 251399,
       "word": "哪些动作可以改善手指腱鞘炎",
@@ -2545,6 +2625,14 @@
       "onboard_time": 1748983035,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 25106,
+      "num": 189491,
+      "word": "蛇伤病人血钾明显升高",
+      "onboard_time": 1749035179,
+      "rank": 29,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 25071,
@@ -2571,12 +2659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21813,
-      "num": 189491,
-      "word": "蛇伤病人血钾明显升高",
-      "onboard_time": 1749035179,
-      "rank": 29,
-      "category": "健康医疗,民生新闻"
+      "raw_hot": 21825,
+      "num": 306067,
+      "word": "如何应对友谊中的冷暴力",
+      "onboard_time": 1749036441,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 20972,
