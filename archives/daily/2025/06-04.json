@@ -1,9 +1,9 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749011616209,
+  "endTime": 1749012531592,
   "band_list": [
     {
-      "raw_hot": 2793811,
+      "raw_hot": 2907108,
       "num": 455042,
       "word": "蜜雪冰城爆单女店员忙到崩溃落泪",
       "onboard_time": 1749010582,
@@ -139,6 +139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 512280,
+      "num": 423232,
+      "word": "杨幂这次真的很不一样",
+      "onboard_time": 1749008181,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 503741,
+      "num": 420376,
+      "word": "何秋亊演唱会 全闭麦",
+      "onboard_time": 1749008422,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 500909,
       "num": 269598,
       "word": "李在明称将尽最大努力履职",
@@ -171,11 +187,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 423232,
-      "num": 423232,
-      "word": "杨幂这次真的很不一样",
-      "onboard_time": 1749008181,
-      "rank": 8,
+      "raw_hot": 429101,
+      "num": 341951,
+      "word": "哪吒婚礼开场",
+      "onboard_time": 1749009741,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -185,14 +201,6 @@
       "onboard_time": 1748991678,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 420376,
-      "num": 420376,
-      "word": "何秋亊演唱会 全闭麦",
-      "onboard_time": 1749008422,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 414364,
@@ -259,12 +267,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 341951,
-      "num": 341951,
-      "word": "哪吒婚礼开场",
-      "onboard_time": 1749009741,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 356290,
+      "num": 261585,
+      "word": "李在明称感谢国民做出的伟大决定",
+      "onboard_time": 1748993119,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 337673,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273259,
+      "num": 234006,
+      "word": "去世朋友7年前的定时邮件",
+      "onboard_time": 1749011061,
+      "rank": 32,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 272273,
       "num": 272273,
       "word": "27岁女游客在三亚被蛇咬伤身亡",
@@ -344,14 +360,6 @@
       "word": "李在明为什么能赢",
       "onboard_time": 1748999663,
       "rank": 16,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 261585,
-      "num": 261585,
-      "word": "李在明称感谢国民做出的伟大决定",
-      "onboard_time": 1748993119,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -377,6 +385,14 @@
       "onboard_time": 1748966841,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245487,
+      "num": 423204,
+      "word": "泽连斯基称没人在意俄罗斯愤怒",
+      "onboard_time": 1749009560,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 244622,
@@ -409,6 +425,14 @@
       "onboard_time": 1748966002,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233226,
+      "num": 233226,
+      "word": "李在明上台难掩韩国社会分裂",
+      "onboard_time": 1749010822,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 231547,
@@ -483,22 +507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 206408,
-      "num": 206408,
-      "word": "去世朋友7年前的定时邮件",
-      "onboard_time": 1749011061,
-      "rank": 32,
-      "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 202933,
-      "num": 202933,
-      "word": "李在明上台难掩韩国社会分裂",
-      "onboard_time": 1749010822,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 200823,
       "num": 200823,
       "word": "女子吃剩菜后意识模糊被送医抢救",
@@ -521,6 +529,22 @@
       "onboard_time": 1749001760,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180095,
+      "num": 180095,
+      "word": "藏海传出圈梗",
+      "onboard_time": 1749012022,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175678,
+      "num": 227792,
+      "word": "七根心简三强把妹王",
+      "onboard_time": 1749011603,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 171938,
@@ -579,12 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156903,
-      "num": 423204,
-      "word": "泽连斯基称没人在意俄罗斯愤怒",
-      "onboard_time": 1749009560,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 159499,
+      "num": 237412,
+      "word": "小孩高空抛物砸中人父母拒绝赔偿",
+      "onboard_time": 1749010702,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156906,
+      "num": 156906,
+      "word": "蒯铎大雍魅魔",
+      "onboard_time": 1749009802,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 155618,
@@ -603,12 +635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154197,
+      "num": 154197,
+      "word": "nana民宿",
+      "onboard_time": 1749012262,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153869,
       "num": 153869,
       "word": "乌克兰称袭击克里米亚大桥",
       "onboard_time": 1748954602,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151929,
+      "num": 235894,
+      "word": "看王安宇演戏有种恋爱般的宠溺感",
+      "onboard_time": 1749012321,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 149107,
@@ -635,12 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146696,
-      "num": 146696,
-      "word": "蒯铎大雍魅魔",
-      "onboard_time": 1749009802,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 146024,
+      "num": 193789,
+      "word": "高考温书假",
+      "onboard_time": 1749011603,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 144480,
@@ -657,14 +705,6 @@
       "onboard_time": 1749007281,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 140705,
-      "num": 214570,
-      "word": "小孩高空抛物砸中人父母拒绝赔偿",
-      "onboard_time": 1749010702,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140498,
@@ -731,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128942,
+      "num": 128942,
+      "word": "粽子消耗大法",
+      "onboard_time": 1749012022,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 126189,
       "num": 149112,
       "word": "被李艺彤近距离美貌暴击了",
@@ -785,14 +833,6 @@
       "onboard_time": 1748998041,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 121788,
-      "num": 156955,
-      "word": "七根心简三强把妹王",
-      "onboard_time": 1749011603,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 120408,
@@ -923,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105263,
-      "num": 116299,
-      "word": "高考温书假",
-      "onboard_time": 1749011603,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 104068,
       "num": 104068,
       "word": "小猫骨折后找到了走路的新方法",
@@ -985,6 +1017,14 @@
       "onboard_time": 1749003020,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97148,
+      "num": 180554,
+      "word": "藏海传登上环球时报",
+      "onboard_time": 1749011961,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 94938,
@@ -1091,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68335,
+      "num": 241221,
+      "word": "高铁为啥会上演飙车大片",
+      "onboard_time": 1749008181,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67381,
       "num": 191453,
       "word": "韩国股市集体大涨",
@@ -1163,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60748,
+      "num": 239125,
+      "word": "让肝脏变好的小习惯有哪些",
+      "onboard_time": 1749011841,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 58981,
       "num": 58981,
       "word": "波尔说和樊振东比赛每次都是他赢",
@@ -1172,7 +1228,7 @@
     },
     {
       "raw_hot": 58899,
-      "num": 201535,
+      "num": 236136,
       "word": "卡塔尔乒协或用法律质疑ITTF选举结果",
       "onboard_time": 1749011543,
       "rank": 34,
@@ -1203,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46280,
+      "num": 150854,
+      "word": "足球概念再爆发",
+      "onboard_time": 1749011841,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 44871,
       "num": 62898,
       "word": "郑钦文止步法网8强",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1749011061,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 42419,
+      "num": 167840,
+      "word": "减脂期6个瘦身技巧",
+      "onboard_time": 1749012082,
+      "rank": 39,
+      "category": "情感,运动健身"
     },
     {
       "raw_hot": 40829,
@@ -1284,7 +1356,7 @@
     },
     {
       "raw_hot": 23344,
-      "num": 230085,
+      "num": 239779,
       "word": "马斯克批特朗普政府法案令人作呕",
       "onboard_time": 1749011483,
       "rank": 27,
@@ -1321,6 +1393,14 @@
       "onboard_time": 1748972716,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14299,
+      "num": 229644,
+      "word": "医院酒店枕套混洗有哪些隐患",
+      "onboard_time": 1749012382,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 13624,
