@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749063014035,
+  "endTime": 1749064894725,
   "band_list": [
     {
       "raw_hot": 1186256,
@@ -483,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22345,
+      "num": 20355,
+      "word": "中方回应中韩关系能否得到改善",
+      "onboard_time": 1749062654,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19716,
       "num": 19716,
       "word": "海南政协委员谈女子被咬身亡",
       "onboard_time": 1749058755,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18265,
+      "num": 56173,
+      "word": "苏超南通主场更换新场地",
+      "onboard_time": 1749062415,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 16257,
@@ -499,20 +515,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15245,
-      "num": 17979,
-      "word": "中方回应中韩关系能否得到改善",
-      "onboard_time": 1749062654,
+      "raw_hot": 13454,
+      "num": 16537,
+      "word": "李在明就职演说",
+      "onboard_time": 1749064694,
       "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 10731,
-      "num": 56173,
-      "word": "苏超南通主场更换新场地",
-      "onboard_time": 1749062415,
-      "rank": 9,
-      "category": "体育"
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
