@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749026978814,
+  "endTime": 1749029325878,
   "band_list": [
     {
       "raw_hot": 2907108,
@@ -9,6 +9,14 @@
       "onboard_time": 1749010582,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2593232,
+      "num": 2593232,
+      "word": "白象多半桶方便面的多半是商标",
+      "onboard_time": 1749025279,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 2587797,
@@ -35,14 +43,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1676071,
-      "num": 1676071,
-      "word": "白象多半桶方便面的多半是商标",
-      "onboard_time": 1749025279,
-      "rank": 20,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 1241877,
       "num": 421942,
       "word": "当事人谈被血友病小孩鬼探头索赔47万",
@@ -51,8 +51,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1239683,
+      "num": 1239683,
+      "word": "花少7阵容",
+      "onboard_time": 1749027501,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1108016,
-      "num": 461432,
+      "num": 546898,
       "word": "泡泡涨价",
       "onboard_time": 1749020359,
       "rank": 10,
@@ -89,6 +97,14 @@
       "onboard_time": 1748996720,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 923341,
+      "num": 923341,
+      "word": "何秋亊方与章昊设计师沟通记录",
+      "onboard_time": 1749027800,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 910786,
@@ -147,12 +163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 754299,
+      "num": 754299,
+      "word": "四川最全抗蛇毒血清库",
+      "onboard_time": 1749026000,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 730350,
       "num": 1116856,
       "word": "亚朵酒店致歉",
       "onboard_time": 1749003440,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 710192,
+      "num": 710192,
+      "word": "柯颖 花少",
+      "onboard_time": 1749026661,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 678956,
@@ -259,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 494811,
+      "num": 494811,
+      "word": "医生解读银环蛇咬伤症状",
+      "onboard_time": 1749023120,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 479486,
       "num": 307338,
       "word": "患血管瘤拒绝上夜班被公司开除了",
@@ -307,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428853,
+      "num": 390169,
+      "word": "140天韩国换了三任总统",
+      "onboard_time": 1749023301,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 428586,
       "num": 428586,
       "word": "江苏足协副主席电话被打爆",
@@ -331,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 405165,
-      "num": 488801,
-      "word": "医生解读银环蛇咬伤症状",
-      "onboard_time": 1749023120,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 404762,
       "num": 404762,
       "word": "马斯克怒批特朗普法案",
@@ -361,14 +401,6 @@
       "onboard_time": 1749001760,
       "rank": 22,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 390169,
-      "num": 390169,
-      "word": "140天韩国换了三任总统",
-      "onboard_time": 1749023301,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 382804,
@@ -491,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285959,
+      "num": 285959,
+      "word": "妻子回应李亚鹏为何不拍戏还债",
+      "onboard_time": 1749028220,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283437,
       "num": 417078,
       "word": "传下去王爷有孕期焦虑症",
@@ -513,14 +553,6 @@
       "onboard_time": 1749011061,
       "rank": 32,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 272450,
-      "num": 272450,
-      "word": "四川最全抗蛇毒血清库",
-      "onboard_time": 1749026000,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 272273,
@@ -659,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231080,
+      "num": 231080,
+      "word": "藏海传云合占比破40%",
+      "onboard_time": 1749027981,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229217,
       "num": 229217,
       "word": "萨尔布吕肯球员海报樊振东C位",
@@ -672,6 +712,14 @@
       "word": "郑晓龙 南派二叔",
       "onboard_time": 1748995583,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223099,
+      "num": 223099,
+      "word": "肖战谈第一次同期声古装感受",
+      "onboard_time": 1749026481,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -689,6 +737,14 @@
       "onboard_time": 1749021741,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215820,
+      "num": 215820,
+      "word": "曹骏说曾为省钱学做饭不点外卖",
+      "onboard_time": 1749026542,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 214076,
@@ -721,6 +777,14 @@
       "onboard_time": 1749017421,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209295,
+      "num": 209295,
+      "word": "高考 下雨",
+      "onboard_time": 1749028161,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 207220,
@@ -771,22 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200792,
-      "num": 200792,
-      "word": "肖战谈第一次同期声古装感受",
-      "onboard_time": 1749026481,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 200354,
-      "num": 200354,
-      "word": "柯颖 花少",
-      "onboard_time": 1749026661,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196600,
       "num": 362263,
       "word": "雷军谈小米3nm自研芯片",
@@ -811,20 +859,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185480,
+      "num": 185480,
+      "word": "高三学生不熟悉考点老师急得掉泪",
+      "onboard_time": 1749028700,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180095,
       "num": 180095,
       "word": "藏海传出圈梗",
       "onboard_time": 1749012022,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179045,
-      "num": 179045,
-      "word": "曹骏说曾为省钱学做饭不点外卖",
-      "onboard_time": 1749026542,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 177633,
@@ -995,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153427,
+      "num": 153427,
+      "word": "外交部回应石破茂称日本要反省历史",
+      "onboard_time": 1749027380,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151929,
       "num": 235894,
       "word": "看王安宇演戏有种恋爱般的宠溺感",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1749020179,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149850,
+      "num": 149850,
+      "word": "女子被咬身亡涉事医院多次违规被罚",
+      "onboard_time": 1749028220,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 149107,
@@ -1107,20 +1171,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141025,
+      "num": 141025,
+      "word": "徐明浩宋雨琦cha了thunder",
+      "onboard_time": 1749026780,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140833,
       "num": 190707,
       "word": "李在明称将同朝鲜展开对话",
       "onboard_time": 1749007281,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 140517,
-      "num": 140517,
-      "word": "徐明浩宋雨琦cha了thunder",
-      "onboard_time": 1749026780,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 140498,
@@ -1176,6 +1240,14 @@
       "word": "顺风车司机卖乘客订单称女性为黑丝",
       "onboard_time": 1749013521,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136232,
+      "num": 136232,
+      "word": "湖南一家6口吃毒蘑菇中毒1人病危",
+      "onboard_time": 1749027920,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1315,6 +1387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 121163,
+      "num": 121163,
+      "word": "邓为你怎么又战损了",
+      "onboard_time": 1749028640,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120471,
       "num": 120471,
       "word": "陈都灵翘楚再演扎女",
@@ -1331,12 +1411,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119983,
+      "num": 730992,
+      "word": "教育部发布2025年高考问答",
+      "onboard_time": 1749026721,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119564,
       "num": 119564,
       "word": "不自信的人多去培养输出型爱好",
       "onboard_time": 1748998402,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118712,
+      "num": 118712,
+      "word": "齐思钧怎么在这也乘风破浪啊",
+      "onboard_time": 1749028940,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 118443,
@@ -1361,6 +1457,22 @@
       "onboard_time": 1748967441,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115408,
+      "num": 115408,
+      "word": "何秋亊甩锅第三方能否平息众怒",
+      "onboard_time": 1749027081,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 114265,
+      "num": 114265,
+      "word": "蔡文静戒断反应强到想敲邻居门",
+      "onboard_time": 1749028821,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 114136,
@@ -1995,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35140,
+      "num": 125401,
+      "word": "无人机灭火",
+      "onboard_time": 1749027501,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34920,
       "num": 203745,
       "word": "毛绒玩具赛道是年轻人创业新蓝海吗",
@@ -2009,6 +2129,14 @@
       "onboard_time": 1749017120,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33745,
+      "num": 1016816,
+      "word": "8组数字看中国消费向新而行",
+      "onboard_time": 1749026542,
+      "rank": 2,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 33601,
@@ -2075,14 +2203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 25923,
-      "num": 412494,
-      "word": "教育部发布2025年高考问答",
-      "onboard_time": 1749026721,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 25071,
       "num": 135659,
       "word": "骨科专家详解膝盖疼痛疗愈方法",
@@ -2105,6 +2225,14 @@
       "onboard_time": 1749025759,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20652,
+      "num": 147915,
+      "word": "按摩哪些穴位有美容效果",
+      "onboard_time": 1749027440,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 20048,
@@ -2163,14 +2291,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 13665,
-      "num": 577163,
-      "word": "8组数字看中国消费向新而行",
-      "onboard_time": 1749026542,
-      "rank": 2,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 13624,
       "num": 16103,
       "word": "UCLA计算机硕士在巴黎上学的一天",
@@ -2185,6 +2305,14 @@
       "onboard_time": 1749022280,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11808,
+      "num": 119066,
+      "word": "熬夜会加剧血管瘤风险吗",
+      "onboard_time": 1749029301,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11414,
@@ -2244,6 +2372,9 @@
     },
     {
       "word": "#跟着总书记探寻中华文明#"
+    },
+    {
+      "word": "#习近平向李在明致贺电#"
     }
   ]
 }

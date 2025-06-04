@@ -1,0 +1,410 @@
+{
+  "runTime": 1749029325878,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2593232,
+        "num": 2593232,
+        "word": "白象多半桶方便面的多半是商标",
+        "onboard_time": 1749025279,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1239683,
+        "num": 1239683,
+        "word": "花少7阵容",
+        "onboard_time": 1749027501,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33745,
+        "num": 1016816,
+        "word": "8组数字看中国消费向新而行",
+        "onboard_time": 1749026542,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1313453,
+        "num": 1010110,
+        "word": "男友哽咽还原女友三亚被咬身亡过程",
+        "onboard_time": 1749013700,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 923341,
+        "num": 923341,
+        "word": "何秋亊方与章昊设计师沟通记录",
+        "onboard_time": 1749027800,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754299,
+        "num": 754299,
+        "word": "四川最全抗蛇毒血清库",
+        "onboard_time": 1749026000,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119983,
+        "num": 730992,
+        "word": "教育部发布2025年高考问答",
+        "onboard_time": 1749026721,
+        "rank": 6,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 710192,
+        "num": 710192,
+        "word": "柯颖 花少",
+        "onboard_time": 1749026661,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611726,
+        "num": 611726,
+        "word": "K总回应何秋亊争议",
+        "onboard_time": 1749021860,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 565184,
+        "num": 565184,
+        "word": "李在明宣誓就职仪式",
+        "onboard_time": 1749002720,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 625407,
+        "num": 546898,
+        "word": "泡泡涨价",
+        "onboard_time": 1749020359,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 525821,
+        "num": 525821,
+        "word": "蜜雪冰城爆单女店员忙到崩溃落泪",
+        "onboard_time": 1749010582,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494811,
+        "num": 494811,
+        "word": "医生解读银环蛇咬伤症状",
+        "onboard_time": 1749023120,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462188,
+        "num": 462188,
+        "word": "韩国媒体称李在明当选韩国总统",
+        "onboard_time": 1748962645,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 371765,
+        "num": 371765,
+        "word": "王楚钦问献花小女孩花不给我了吗",
+        "onboard_time": 1749024020,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428853,
+        "num": 369929,
+        "word": "140天韩国换了三任总统",
+        "onboard_time": 1749023301,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 362882,
+        "num": 362882,
+        "word": "三亚常见毒蛇为竹叶青眼镜蛇",
+        "onboard_time": 1749016221,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347397,
+        "num": 347397,
+        "word": "陈学冬称希望是最后一次手术了",
+        "onboard_time": 1749021141,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318689,
+        "num": 318689,
+        "word": "2025出圈台词",
+        "onboard_time": 1749022160,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285959,
+        "num": 285959,
+        "word": "妻子回应李亚鹏为何不拍戏还债",
+        "onboard_time": 1749028220,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285473,
+        "num": 285473,
+        "word": "那英 花少",
+        "onboard_time": 1749023721,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231080,
+        "num": 231080,
+        "word": "藏海传云合占比破40%",
+        "onboard_time": 1749027981,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223099,
+        "num": 223099,
+        "word": "肖战谈第一次同期声古装感受",
+        "onboard_time": 1749026481,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218572,
+        "num": 218572,
+        "word": "小伙上班被迫吸4年二手烟疑患肺癌",
+        "onboard_time": 1749015560,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215820,
+        "num": 215820,
+        "word": "曹骏说曾为省钱学做饭不点外卖",
+        "onboard_time": 1749026542,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209295,
+        "num": 209295,
+        "word": "高考 下雨",
+        "onboard_time": 1749028161,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191090,
+        "num": 191090,
+        "word": "结石姐称确诊早期乳腺癌",
+        "onboard_time": 1749022460,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186067,
+        "num": 186067,
+        "word": "赵今麦 脱胎换骨",
+        "onboard_time": 1749008300,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185480,
+        "num": 185480,
+        "word": "高三学生不熟悉考点老师急得掉泪",
+        "onboard_time": 1749028700,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153427,
+        "num": 153427,
+        "word": "外交部回应石破茂称日本要反省历史",
+        "onboard_time": 1749027380,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149850,
+        "num": 149850,
+        "word": "女子被咬身亡涉事医院多次违规被罚",
+        "onboard_time": 1749028220,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 20652,
+        "num": 147915,
+        "word": "按摩哪些穴位有美容效果",
+        "onboard_time": 1749027440,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174475,
+        "num": 147899,
+        "word": "马天宇 撕拉片最大受益者",
+        "onboard_time": 1749015261,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147852,
+        "num": 147852,
+        "word": "肖战藏海传超18种非遗技艺",
+        "onboard_time": 1749017421,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142873,
+        "num": 142873,
+        "word": "四川拟将生育假最高延长至150天",
+        "onboard_time": 1749022401,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141025,
+        "num": 141025,
+        "word": "徐明浩宋雨琦cha了thunder",
+        "onboard_time": 1749026780,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136232,
+        "num": 136232,
+        "word": "湖南一家6口吃毒蘑菇中毒1人病危",
+        "onboard_time": 1749027920,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125864,
+        "num": 125864,
+        "word": "女游客家属暂不考虑尸检",
+        "onboard_time": 1749021741,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35140,
+        "num": 125401,
+        "word": "无人机灭火",
+        "onboard_time": 1749027501,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125256,
+        "num": 125256,
+        "word": "卫兰歌手补位",
+        "onboard_time": 1749022041,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121163,
+        "num": 121163,
+        "word": "邓为你怎么又战损了",
+        "onboard_time": 1749028640,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120627,
+        "num": 120627,
+        "word": "藏海把庄二当侯府天降紫微星整",
+        "onboard_time": 1749022642,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11808,
+        "num": 119066,
+        "word": "熬夜会加剧血管瘤风险吗",
+        "onboard_time": 1749029301,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118712,
+        "num": 118712,
+        "word": "齐思钧怎么在这也乘风破浪啊",
+        "onboard_time": 1749028940,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115408,
+        "num": 115408,
+        "word": "何秋亊甩锅第三方能否平息众怒",
+        "onboard_time": 1749027081,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115352,
+        "num": 115352,
+        "word": "传下去王爷有孕期焦虑症",
+        "onboard_time": 1749023659,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114265,
+        "num": 114265,
+        "word": "蔡文静戒断反应强到想敲邻居门",
+        "onboard_time": 1749028821,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112379,
+        "num": 112379,
+        "word": "宋佳晒健身照",
+        "onboard_time": 1749026301,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104600,
+        "num": 104600,
+        "word": "不要被领导厌恶就直接提离职",
+        "onboard_time": 1749023061,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104285,
+        "num": 104285,
+        "word": "何秋亊演唱会 全闭麦",
+        "onboard_time": 1749008422,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向李在明致贺电#"
+    }
+  }
+}
