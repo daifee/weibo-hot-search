@@ -1,0 +1,410 @@
+{
+  "runTime": 1749019024177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758606,
+        "num": 1121377,
+        "word": "王安宇亲空气还要翻面",
+        "onboard_time": 1749013222,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415886,
+        "num": 415886,
+        "word": "江苏足协副主席电话被打爆",
+        "onboard_time": 1749015801,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41952,
+        "num": 395094,
+        "word": "高考牢记4个不得",
+        "onboard_time": 1749007101,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 2236457,
+        "num": 393884,
+        "word": "男友哽咽还原女友三亚被咬身亡过程",
+        "onboard_time": 1749013700,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 936841,
+        "num": 393219,
+        "word": "蜜雪冰城爆单女店员忙到崩溃落泪",
+        "onboard_time": 1749010582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392116,
+        "num": 392116,
+        "word": "李在明宣誓就职仪式",
+        "onboard_time": 1749002720,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356724,
+        "num": 356724,
+        "word": "赵今麦 脱胎换骨",
+        "onboard_time": 1749008300,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338870,
+        "num": 338870,
+        "word": "何秋亊演唱会 全闭麦",
+        "onboard_time": 1749008422,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 295695,
+        "num": 295695,
+        "word": "F4将合体",
+        "onboard_time": 1749014600,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206248,
+        "num": 206248,
+        "word": "马斯克发文吐槽说受不了了",
+        "onboard_time": 1749001520,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 417206,
+        "num": 206019,
+        "word": "物业回应顶楼一孕妇将电梯加装锁链",
+        "onboard_time": 1749012681,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368701,
+        "num": 205921,
+        "word": "巴黎世家客服回应争议半身裙下架",
+        "onboard_time": 1749015741,
+        "rank": 11,
+        "category": "海外新闻,时尚"
+      },
+      {
+        "raw_hot": 355015,
+        "num": 205492,
+        "word": "韩国媒体称李在明当选韩国总统",
+        "onboard_time": 1748962645,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 348533,
+        "num": 205182,
+        "word": "患血管瘤拒绝上夜班被公司开除了",
+        "onboard_time": 1749017782,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77505,
+        "num": 205105,
+        "word": "三亚被蛇咬伤致死女子伤口画面曝光",
+        "onboard_time": 1749018021,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248080,
+        "num": 204670,
+        "word": "杨幂这次真的很不一样",
+        "onboard_time": 1749008181,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220538,
+        "num": 204456,
+        "word": "当事人谈被血友病小孩鬼探头索赔47万",
+        "onboard_time": 1749006499,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204267,
+        "num": 204267,
+        "word": "朱一龙晒43岁的杨蓉",
+        "onboard_time": 1748998282,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203901,
+        "num": 203901,
+        "word": "何秋亊道歉",
+        "onboard_time": 1748956522,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34920,
+        "num": 203745,
+        "word": "毛绒玩具赛道是年轻人创业新蓝海吗",
+        "onboard_time": 1749017720,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325960,
+        "num": 202021,
+        "word": "医生曾称陈学冬一定会得风湿",
+        "onboard_time": 1749015741,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291395,
+        "num": 201741,
+        "word": "三亚常见毒蛇为竹叶青眼镜蛇",
+        "onboard_time": 1749016221,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220886,
+        "num": 200513,
+        "word": "马天宇 撕拉片最大受益者",
+        "onboard_time": 1749015261,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199945,
+        "num": 199945,
+        "word": "肖战藏海传超18种非遗技艺",
+        "onboard_time": 1749017421,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26426,
+        "num": 198170,
+        "word": "江苏十三太保把足球踢出圈",
+        "onboard_time": 1749013762,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197682,
+        "num": 197682,
+        "word": "小伙上班被迫吸4年二手烟疑患肺癌",
+        "onboard_time": 1749015560,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173608,
+        "num": 173608,
+        "word": "藏海香暗荼孩子该姓什么",
+        "onboard_time": 1749003380,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161770,
+        "num": 161770,
+        "word": "亚朵酒店被曝出现医院枕套",
+        "onboard_time": 1748958982,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39616,
+        "num": 158869,
+        "word": "陈路周不怪你换我我也心动",
+        "onboard_time": 1749018802,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157765,
+        "num": 157765,
+        "word": "李在明称感谢国民做出的伟大决定",
+        "onboard_time": 1748993119,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142938,
+        "num": 142938,
+        "word": "断眉演唱会",
+        "onboard_time": 1749017302,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133769,
+        "num": 133769,
+        "word": "万一被蛇咬了怎么办",
+        "onboard_time": 1749013641,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131654,
+        "num": 131654,
+        "word": "向佐终于遇到了舒适朋友圈",
+        "onboard_time": 1749018381,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125727,
+        "num": 125727,
+        "word": "哪吒婚礼开场",
+        "onboard_time": 1749009741,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122469,
+        "num": 122469,
+        "word": "顺风车司机卖乘客订单称女性为黑丝",
+        "onboard_time": 1749013521,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120471,
+        "num": 120471,
+        "word": "陈都灵翘楚再演扎女",
+        "onboard_time": 1749016221,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115941,
+        "num": 115941,
+        "word": "何秋亊 为什么别人是撞衫我是抄袭",
+        "onboard_time": 1748960424,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112484,
+        "num": 112484,
+        "word": "亚朵酒店致歉",
+        "onboard_time": 1749003440,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60073,
+        "num": 109846,
+        "word": "云南第一波吃菌子的已经进医院了",
+        "onboard_time": 1749017841,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60687,
+        "num": 109593,
+        "word": "未来一周河南多地以高温天气为主",
+        "onboard_time": 1749015502,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33248,
+        "num": 109499,
+        "word": "女子疑被蛇咬身亡家属称暂无结果",
+        "onboard_time": 1749018802,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109453,
+        "num": 109453,
+        "word": "体检报告出现这些离癌症只一步之遥",
+        "onboard_time": 1749004760,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102872,
+        "num": 102872,
+        "word": "回看藏海传第一集",
+        "onboard_time": 1749004820,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101764,
+        "num": 101764,
+        "word": "三亚卫健委通报女子被蛇咬伤身亡",
+        "onboard_time": 1748962764,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 99889,
+        "num": 99889,
+        "word": "桃花坞",
+        "onboard_time": 1749018622,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98854,
+        "num": 98854,
+        "word": "李在明的总统任期正式开始",
+        "onboard_time": 1749001040,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92262,
+        "num": 92262,
+        "word": "世界泳联将驱逐参加增强运动会者",
+        "onboard_time": 1749018860,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89578,
+        "num": 89578,
+        "word": "减脂期6个瘦身技巧",
+        "onboard_time": 1749012082,
+        "rank": 47,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 83839,
+        "num": 83839,
+        "word": "藏海传台网双爆战报",
+        "onboard_time": 1749018021,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79234,
+        "num": 79234,
+        "word": "老师擦掉一个字后的一幕让人泪目",
+        "onboard_time": 1749015741,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}
