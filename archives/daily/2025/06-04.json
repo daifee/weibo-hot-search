@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749037173237,
+  "endTime": 1749041616230,
   "band_list": [
     {
       "raw_hot": 2907108,
@@ -43,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1550226,
+      "num": 1550226,
+      "word": "女子请假陪女儿高考被开除",
+      "onboard_time": 1749039139,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1390192,
       "num": 1390192,
       "word": "花少7阵容",
@@ -73,6 +81,14 @@
       "onboard_time": 1749020359,
       "rank": 10,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 1096109,
+      "num": 1096109,
+      "word": "尽量不要穿洞洞鞋乘坐扶梯",
+      "onboard_time": 1749038480,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1078006,
@@ -315,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 511942,
+      "num": 393506,
+      "word": "何秋亊直播爆粗口",
+      "onboard_time": 1749041062,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 500909,
       "num": 269598,
       "word": "李在明称将尽最大努力履职",
@@ -377,6 +401,14 @@
       "onboard_time": 1748962764,
       "rank": 4,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 464703,
+      "num": 393698,
+      "word": "47岁河智苑近照",
+      "onboard_time": 1749039080,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 463372,
@@ -451,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 392723,
+      "num": 392723,
+      "word": "李在明将彻查世越号及梨泰院惨案",
+      "onboard_time": 1749038240,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 391454,
       "num": 317752,
       "word": "藏海传大结局",
@@ -483,6 +523,14 @@
       "category": "海外新闻,时尚"
     },
     {
+      "raw_hot": 377895,
+      "num": 377895,
+      "word": "白象多半系列面饼只多25g",
+      "onboard_time": 1749038359,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377478,
       "num": 377478,
       "word": "曹骏说曾为省钱学做饭不点外卖",
@@ -497,6 +545,14 @@
       "onboard_time": 1748996662,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374124,
+      "num": 374124,
+      "word": "王鹤棣cos韩国霸总",
+      "onboard_time": 1749036921,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 367494,
@@ -529,6 +585,14 @@
       "onboard_time": 1748993119,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 347184,
+      "num": 347184,
+      "word": "被咬身亡女子家属称当地预计5天给答复",
+      "onboard_time": 1749037340,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337673,
@@ -587,6 +651,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318208,
+      "num": 326491,
+      "word": "中国女排vs比利时队",
+      "onboard_time": 1749036380,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 312154,
+      "num": 344979,
+      "word": "藏海传三美来踢馆",
+      "onboard_time": 1749036740,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309122,
       "num": 309122,
       "word": "F4将合体",
@@ -595,11 +675,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307435,
+      "num": 332894,
+      "word": "刘冲等宁艺卓两年了",
+      "onboard_time": 1749037760,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 305001,
       "num": 414459,
       "word": "卫兰歌手补位",
       "onboard_time": 1749022041,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 302030,
+      "num": 330460,
+      "word": "苏新皓怎么这样了",
+      "onboard_time": 1749037882,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -787,18 +883,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230535,
-      "num": 326491,
-      "word": "中国女排vs比利时队",
-      "onboard_time": 1749036380,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 229217,
       "num": 229217,
       "word": "萨尔布吕肯球员海报樊振东C位",
       "onboard_time": 1749006561,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228456,
+      "num": 228456,
+      "word": "南京发布急得连发2条微博",
+      "onboard_time": 1749040160,
       "rank": 24,
       "category": "体育"
     },
@@ -857,6 +953,22 @@
       "onboard_time": 1749021741,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217530,
+      "num": 217530,
+      "word": "Red女团要去韩国打歌",
+      "onboard_time": 1749040520,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 215251,
+      "num": 215251,
+      "word": "Meiko 菜",
+      "onboard_time": 1749041062,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 214076,
@@ -923,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205191,
-      "num": 205191,
-      "word": "藏海传三美来踢馆",
-      "onboard_time": 1749036740,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204790,
       "num": 268800,
       "word": "中韩互为重要近邻和合作伙伴",
@@ -961,6 +1065,14 @@
       "onboard_time": 1749005841,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 191675,
+      "num": 191675,
+      "word": "赵今麦当你拥有了一顶新帽子",
+      "onboard_time": 1749040580,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 189887,
@@ -1075,6 +1187,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169011,
+      "num": 323651,
+      "word": "女子曝遭奇葩邻居空投带屎尿不湿",
+      "onboard_time": 1749040221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167662,
+      "num": 167662,
+      "word": "男子被蛇咬想抓蛇又被咬",
+      "onboard_time": 1749040580,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167089,
       "num": 167089,
       "word": "尾鱼女郎肤白貌美还能打",
@@ -1163,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159677,
+      "num": 159677,
+      "word": "人没动但科目一自动答题考过了",
+      "onboard_time": 1749040700,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159499,
       "num": 237412,
       "word": "小孩高空抛物砸中人父母拒绝赔偿",
@@ -1216,6 +1352,14 @@
       "word": "nana民宿",
       "onboard_time": 1749012262,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154148,
+      "num": 154148,
+      "word": "吴宣仪在变了在72变了",
+      "onboard_time": 1749038059,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1273,6 +1417,14 @@
       "onboard_time": 1749032421,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150677,
+      "num": 150677,
+      "word": "刘浩存好灵",
+      "onboard_time": 1749041002,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 149949,
@@ -1353,14 +1505,6 @@
       "onboard_time": 1749008181,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143957,
-      "num": 143957,
-      "word": "王鹤棣cos韩国霸总",
-      "onboard_time": 1749036921,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 142938,
@@ -1651,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123666,
+      "num": 123666,
+      "word": "FPX对战IG",
+      "onboard_time": 1749032180,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123585,
       "num": 123585,
       "word": "最关心高考的一批人是大学生",
@@ -1689,14 +1841,6 @@
       "onboard_time": 1748998041,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 121537,
-      "num": 121537,
-      "word": "FPX对战IG",
-      "onboard_time": 1749032180,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 121163,
@@ -1779,11 +1923,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114940,
+      "num": 114940,
+      "word": "医生说被毒蛇咬后3要3不要",
+      "onboard_time": 1749038900,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 114265,
       "num": 114265,
       "word": "蔡文静戒断反应强到想敲邻居门",
       "onboard_time": 1749028821,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114110,
+      "num": 114110,
+      "word": "花少单数季",
+      "onboard_time": 1749037820,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1843,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111720,
+      "num": 111720,
+      "word": "温州一茶园旁山上被人放生五步蛇",
+      "onboard_time": 1749031221,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111065,
       "num": 111065,
       "word": "王毅会见美国新任驻华大使",
@@ -1859,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110392,
+      "num": 394592,
+      "word": "车辆失控姐姐飞扑救下妹妹",
+      "onboard_time": 1749040761,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110205,
       "num": 110205,
       "word": "藏海操纵瘖兵",
@@ -1873,6 +2049,14 @@
       "onboard_time": 1748996422,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109543,
+      "num": 109543,
+      "word": "山东公立医院住院将不用陪床",
+      "onboard_time": 1749038661,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109503,
@@ -2361,6 +2545,14 @@
       "onboard_time": 1748959944,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53637,
+      "num": 170166,
+      "word": "讨好型人格为何会把话反过来说",
+      "onboard_time": 1749040340,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 51641,
