@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749003896377,
+  "endTime": 1749007345700,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 882321,
-      "num": 322704,
+      "num": 1138183,
       "word": "李在明宣誓就职仪式",
       "onboard_time": 1749002720,
       "rank": 11,
@@ -67,12 +67,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 805068,
+      "num": 361953,
+      "word": "当事人谈被血友病小孩鬼探头索赔47万",
+      "onboard_time": 1749006499,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 801467,
       "num": 334177,
       "word": "藏海传2",
       "onboard_time": 1748964383,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655974,
+      "num": 655974,
+      "word": "藏海香暗荼孩子该姓什么",
+      "onboard_time": 1749003380,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 604471,
+      "num": 604471,
+      "word": "马斯克发文吐槽说受不了了",
+      "onboard_time": 1749001520,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 575059,
@@ -83,12 +107,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 513079,
+      "num": 513079,
+      "word": "亚朵酒店致歉",
+      "onboard_time": 1749003440,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500909,
       "num": 269598,
       "word": "李在明称将尽最大努力履职",
       "onboard_time": 1748965162,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 467225,
+      "num": 344834,
+      "word": "新人结婚班主任致辞称多亏当年失职",
+      "onboard_time": 1749001160,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 467159,
@@ -107,20 +147,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 441708,
-      "num": 344834,
-      "word": "新人结婚班主任致辞称多亏当年失职",
-      "onboard_time": 1749001160,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 422118,
       "num": 299643,
       "word": "湖南一老师从学生成人仪式舞台坠落",
       "onboard_time": 1748991678,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414364,
+      "num": 414364,
+      "word": "金靖好美",
+      "onboard_time": 1749001280,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 404762,
@@ -155,12 +195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362702,
+      "num": 362702,
+      "word": "球队经理回应樊振东德甲待遇",
+      "onboard_time": 1749001160,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 361591,
       "num": 326145,
       "word": "何秋亊 给哪吒道歉",
       "onboard_time": 1748988376,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 358525,
+      "num": 358525,
+      "word": "何洁陪周扬青上班的一天",
+      "onboard_time": 1749006080,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 337673,
@@ -171,20 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337353,
+      "num": 337353,
+      "word": "回看藏海传第一集",
+      "onboard_time": 1749004820,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 335653,
+      "num": 335653,
+      "word": "张雪峰驳读书无用论",
+      "onboard_time": 1749001760,
+      "rank": 21,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 332320,
       "num": 332320,
       "word": "常州足协回应常州输成l州",
       "onboard_time": 1748991678,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 331040,
-      "num": 331040,
-      "word": "藏海香暗荼孩子该姓什么",
-      "onboard_time": 1749003380,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 320297,
@@ -203,28 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315073,
-      "num": 315073,
-      "word": "金靖好美",
-      "onboard_time": 1749001280,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 293587,
       "num": 293587,
       "word": "李嘉格婚礼当天婆婆和妈妈冷战",
       "onboard_time": 1748950221,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284892,
-      "num": 330047,
-      "word": "马斯克发文吐槽说受不了了",
-      "onboard_time": 1749001520,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 274147,
@@ -267,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244622,
+      "num": 187230,
+      "word": "体检报告出现这些离癌症只一步之遥",
+      "onboard_time": 1749004760,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 243268,
       "num": 243268,
       "word": "张婧仪回应张婧仪张婧怡",
@@ -291,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235901,
-      "num": 292492,
-      "word": "球队经理回应樊振东德甲待遇",
-      "onboard_time": 1749001160,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231547,
       "num": 128630,
       "word": "男子刀片嗓以为感冒竟差点丧命",
@@ -312,6 +360,14 @@
       "word": "遭儿子拒绝儿童节礼物冉莹颖委屈流泪",
       "onboard_time": 1749001640,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229217,
+      "num": 229217,
+      "word": "萨尔布吕肯球员海报樊振东C位",
+      "onboard_time": 1749006561,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -355,20 +411,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200096,
-      "num": 200096,
-      "word": "亚朵酒店致歉",
-      "onboard_time": 1749003440,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186575,
       "num": 259957,
       "word": "李在明当选后的目标",
       "onboard_time": 1749001760,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176052,
+      "num": 176052,
+      "word": "李在明称感谢国民做出的伟大决定",
+      "onboard_time": 1748993119,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 169940,
+      "num": 362263,
+      "word": "雷军谈小米3nm自研芯片",
+      "onboard_time": 1749005841,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 166455,
@@ -443,6 +507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 147730,
+      "num": 214286,
+      "word": "于适祝高考生更上一层楼",
+      "onboard_time": 1749006499,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140498,
       "num": 149361,
       "word": "张灭 张起灵",
@@ -475,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130736,
+      "num": 336396,
+      "word": "愿你笔锋所至梦想开花",
+      "onboard_time": 1749004519,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 129443,
       "num": 129443,
       "word": "观风拾雷的任务",
@@ -489,6 +569,14 @@
       "onboard_time": 1748997863,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124561,
+      "num": 850390,
+      "word": "2025年高考注意事项",
+      "onboard_time": 1748960065,
+      "rank": 2,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 124204,
@@ -547,6 +635,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118443,
+      "num": 201663,
+      "word": "蜜雪集团泡泡玛特再创新高",
+      "onboard_time": 1749003800,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 116799,
+      "num": 116799,
+      "word": "武艺想邀请孙燕姿参加音综",
+      "onboard_time": 1749006981,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116616,
+      "num": 193188,
+      "word": "双色莲绽放祝福高考生",
+      "onboard_time": 1749003321,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 116069,
       "num": 106792,
       "word": "肖战留存片场百态",
@@ -571,20 +683,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112784,
-      "num": 96105,
-      "word": "李在明称感谢国民做出的伟大决定",
-      "onboard_time": 1748993119,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112311,
       "num": 112311,
       "word": "歌手",
       "onboard_time": 1748999902,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111779,
+      "num": 111779,
+      "word": "卡塔尔乒协回应国际乒联选举闹剧",
+      "onboard_time": 1749006139,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 111065,
@@ -601,14 +713,6 @@
       "onboard_time": 1748954301,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110644,
-      "num": 110644,
-      "word": "双色莲绽放祝福高考生",
-      "onboard_time": 1749003321,
-      "rank": 39,
-      "category": "正能量"
     },
     {
       "raw_hot": 110205,
@@ -636,7 +740,7 @@
     },
     {
       "raw_hot": 104875,
-      "num": 104875,
+      "num": 228895,
       "word": "九旬奶奶每天坚持做200个俯卧撑",
       "onboard_time": 1749001760,
       "rank": 49,
@@ -699,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96012,
+      "num": 96012,
+      "word": "45岁姚明训练照曝光",
+      "onboard_time": 1749006981,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94938,
       "num": 93802,
       "word": "一条短片了解韩国当选总统李在明",
@@ -715,18 +827,26 @@
       "category": "数码"
     },
     {
-      "raw_hot": 94152,
-      "num": 94152,
-      "word": "蜜雪集团泡泡玛特再创新高",
-      "onboard_time": 1749003800,
-      "rank": 48,
-      "category": "财经"
+      "raw_hot": 86505,
+      "num": 163854,
+      "word": "高考加油BGM",
+      "onboard_time": 1749004460,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 83759,
       "num": 86669,
       "word": "陈粒 我是北京孩子",
       "onboard_time": 1748957362,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 81752,
+      "num": 163886,
+      "word": "才看到陈学冬更新的动态",
+      "onboard_time": 1749005540,
       "rank": 35,
       "category": "艺人"
     },
@@ -825,14 +945,6 @@
       "onboard_time": 1748978235,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 62955,
-      "num": 850390,
-      "word": "2025年高考注意事项",
-      "onboard_time": 1748960065,
-      "rank": 2,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 61920,
@@ -947,6 +1059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27451,
+      "num": 643042,
+      "word": "高考牢记4个不得",
+      "onboard_time": 1749007101,
+      "rank": 2,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 26389,
       "num": 32081,
       "word": "电梯按键",
@@ -985,6 +1105,14 @@
       "onboard_time": 1748981114,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10106,
+      "num": 106657,
+      "word": "李在明称将同朝鲜展开对话",
+      "onboard_time": 1749007281,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9147,
