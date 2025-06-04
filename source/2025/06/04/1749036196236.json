@@ -1,0 +1,410 @@
+{
+  "runTime": 1749036196236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1396049,
+        "num": 1396049,
+        "word": "白象多半桶方便面的多半是商标",
+        "onboard_time": 1749025279,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1134239,
+        "num": 1134239,
+        "word": "花少7阵容",
+        "onboard_time": 1749027501,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26048,
+        "num": 1108413,
+        "word": "8组数字看中国消费向新而行",
+        "onboard_time": 1749026542,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1093031,
+        "num": 1093031,
+        "word": "男友哽咽还原女友三亚被咬身亡过程",
+        "onboard_time": 1749013700,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787403,
+        "num": 787403,
+        "word": "何秋亊方与章昊设计师沟通记录",
+        "onboard_time": 1749027800,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641697,
+        "num": 641697,
+        "word": "巴黎世家线上已下架4500元半身裙",
+        "onboard_time": 1749029361,
+        "rank": 5,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 586581,
+        "num": 586581,
+        "word": "赴山海凡人修仙传 对打",
+        "onboard_time": 1749031041,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573217,
+        "num": 573217,
+        "word": "被不明生物咬伤身亡女子正准备读研",
+        "onboard_time": 1749033200,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526960,
+        "num": 526960,
+        "word": "罗森将用2023年大米制作饭团售卖",
+        "onboard_time": 1749031820,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93024,
+        "num": 465461,
+        "word": "高考试卷运送画面来了",
+        "onboard_time": 1749035001,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 433182,
+        "num": 433182,
+        "word": "女子效仿转卖蜜雪时薪20元果断放弃",
+        "onboard_time": 1749033321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419892,
+        "num": 419892,
+        "word": "IU车银优双人cha",
+        "onboard_time": 1749034159,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412134,
+        "num": 412134,
+        "word": "蜜雪冰城爆单女店员忙到崩溃落泪",
+        "onboard_time": 1749010582,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406075,
+        "num": 406075,
+        "word": "李在明宣誓就职仪式",
+        "onboard_time": 1749002720,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299276,
+        "num": 390530,
+        "word": "妻子回应李亚鹏为何不拍戏还债",
+        "onboard_time": 1749028220,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384779,
+        "num": 384779,
+        "word": "湖南一家6口吃毒蘑菇中毒1人病危",
+        "onboard_time": 1749027920,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132832,
+        "num": 357532,
+        "word": "国内唯一男女均可接种的9价HPV疫苗",
+        "onboard_time": 1749034580,
+        "rank": 16,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 77715,
+        "num": 351661,
+        "word": "古巨基给卫兰歌手推歌",
+        "onboard_time": 1749035179,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38334,
+        "num": 303896,
+        "word": "苏超的梗密得不知道先笑哪个",
+        "onboard_time": 1749035360,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65647,
+        "num": 274324,
+        "word": "一根数据线外包装印18个品牌名",
+        "onboard_time": 1749035120,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 272133,
+        "num": 272133,
+        "word": "柯颖 花少",
+        "onboard_time": 1749026661,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262737,
+        "num": 262737,
+        "word": "泡泡涨价",
+        "onboard_time": 1749020359,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 258614,
+        "num": 258614,
+        "word": "日本又一次面临历史之问道义之问",
+        "onboard_time": 1749030201,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245978,
+        "num": 245978,
+        "word": "韩国媒体称李在明当选韩国总统",
+        "onboard_time": 1748962645,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28958,
+        "num": 228843,
+        "word": "夏天抱着冬瓜睡能消暑吗",
+        "onboard_time": 1749034939,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 212697,
+        "num": 212697,
+        "word": "四川最全抗蛇毒血清库",
+        "onboard_time": 1749026000,
+        "rank": 25,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 203748,
+        "num": 203748,
+        "word": "陈学冬称希望是最后一次手术了",
+        "onboard_time": 1749021141,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191480,
+        "num": 191480,
+        "word": "曹骏说曾为省钱学做饭不点外卖",
+        "onboard_time": 1749026542,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190664,
+        "num": 190664,
+        "word": "140天韩国换了三任总统",
+        "onboard_time": 1749023301,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21813,
+        "num": 189491,
+        "word": "蛇伤病人血钾明显升高",
+        "onboard_time": 1749035179,
+        "rank": 29,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 189417,
+        "num": 189417,
+        "word": "凡人修仙传",
+        "onboard_time": 1749035481,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187369,
+        "num": 187369,
+        "word": "jiejie",
+        "onboard_time": 1749035481,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184156,
+        "num": 184156,
+        "word": "醉汉凌晨潜入大学女生宿舍睡觉",
+        "onboard_time": 1749033921,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165164,
+        "num": 165164,
+        "word": "友谊中的冷暴力",
+        "onboard_time": 1749031280,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163842,
+        "num": 163842,
+        "word": "K总回应何秋亊争议",
+        "onboard_time": 1749021860,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153052,
+        "num": 153052,
+        "word": "李在明下达一号行政令",
+        "onboard_time": 1749035601,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151705,
+        "num": 151705,
+        "word": "2025出圈台词",
+        "onboard_time": 1749022160,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144315,
+        "num": 144315,
+        "word": "藏海传再见",
+        "onboard_time": 1749035841,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31992,
+        "num": 140080,
+        "word": "德企业聘中国工程师遭德国官场噩梦",
+        "onboard_time": 1749035540,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138989,
+        "num": 138989,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1749034760,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138668,
+        "num": 138668,
+        "word": "女排",
+        "onboard_time": 1749034700,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134553,
+        "num": 134553,
+        "word": "高三学生不熟悉考点老师急得掉泪",
+        "onboard_time": 1749028700,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132697,
+        "num": 132697,
+        "word": "陈学冬坎坷的一生",
+        "onboard_time": 1749032360,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129127,
+        "num": 129127,
+        "word": "三亚常见毒蛇为竹叶青眼镜蛇",
+        "onboard_time": 1749016221,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128842,
+        "num": 128842,
+        "word": "肖战演藏海是剧方最明智的选择",
+        "onboard_time": 1749023960,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123524,
+        "num": 123524,
+        "word": "普通医院一般没有抗蛇毒血清",
+        "onboard_time": 1749029720,
+        "rank": 45,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 118360,
+        "num": 118360,
+        "word": "国产9价HPV疫苗获批上市",
+        "onboard_time": 1749030921,
+        "rank": 46,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 116907,
+        "num": 116907,
+        "word": "毛利兰票选第一",
+        "onboard_time": 1749033620,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111749,
+        "num": 111749,
+        "word": "藏海传云合占比破40%",
+        "onboard_time": 1749027981,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103114,
+        "num": 103114,
+        "word": "陈数 花少",
+        "onboard_time": 1749033441,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向李在明致贺电#"
+    }
+  }
+}

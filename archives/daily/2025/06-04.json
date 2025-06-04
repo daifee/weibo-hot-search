@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749033984301,
+  "endTime": 1749036196236,
   "band_list": [
     {
       "raw_hot": 2907108,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 623483,
-      "num": 585319,
+      "num": 586581,
       "word": "赴山海凡人修仙传 对打",
       "onboard_time": 1749031041,
       "rank": 6,
@@ -267,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 573217,
+      "num": 573217,
+      "word": "被不明生物咬伤身亡女子正准备读研",
+      "onboard_time": 1749033200,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 567446,
       "num": 567446,
       "word": "何秋亊演唱会 全闭麦",
@@ -281,6 +289,14 @@
       "onboard_time": 1749001160,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526960,
+      "num": 526960,
+      "word": "罗森将用2023年大米制作饭团售卖",
+      "onboard_time": 1749031820,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 512280,
@@ -371,20 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 454408,
-      "num": 454408,
-      "word": "罗森将用2023年大米制作饭团售卖",
-      "onboard_time": 1749031820,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 450082,
       "num": 450082,
       "word": "妻子回应李亚鹏为何不拍戏还债",
       "onboard_time": 1749028220,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433182,
+      "num": 433182,
+      "word": "女子效仿转卖蜜雪时薪20元果断放弃",
+      "onboard_time": 1749033321,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 428853,
@@ -409,6 +425,14 @@
       "onboard_time": 1748991678,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419892,
+      "num": 419892,
+      "word": "IU车银优双人cha",
+      "onboard_time": 1749034159,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 414364,
@@ -441,6 +465,14 @@
       "onboard_time": 1749001760,
       "rank": 22,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 384779,
+      "num": 432853,
+      "word": "湖南一家6口吃毒蘑菇中毒1人病危",
+      "onboard_time": 1749027920,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 382804,
@@ -651,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258614,
+      "num": 258614,
+      "word": "日本又一次面临历史之问道义之问",
+      "onboard_time": 1749030201,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257447,
       "num": 257447,
       "word": "韩国霸总来中国了",
@@ -753,14 +793,6 @@
       "onboard_time": 1749006561,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228796,
-      "num": 432853,
-      "word": "湖南一家6口吃毒蘑菇中毒1人病危",
-      "onboard_time": 1749027920,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227304,
@@ -907,6 +939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189417,
+      "num": 189417,
+      "word": "凡人修仙传",
+      "onboard_time": 1749035481,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188968,
       "num": 188968,
       "word": "女子被咬身亡涉事医院多次违规被罚",
@@ -923,12 +963,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187369,
+      "num": 187369,
+      "word": "jiejie",
+      "onboard_time": 1749035481,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186575,
       "num": 259957,
       "word": "李在明当选后的目标",
       "onboard_time": 1749001760,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184156,
+      "num": 184156,
+      "word": "醉汉凌晨潜入大学女生宿舍睡觉",
+      "onboard_time": 1749033921,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180095,
@@ -995,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165164,
+      "num": 165164,
+      "word": "友谊中的冷暴力",
+      "onboard_time": 1749031280,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163993,
       "num": 163993,
       "word": "小米YU7三个型号电池品牌公布",
@@ -1025,14 +1089,6 @@
       "onboard_time": 1749020480,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 160860,
-      "num": 160860,
-      "word": "女子效仿转卖蜜雪时薪20元果断放弃",
-      "onboard_time": 1749033321,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160662,
@@ -1139,6 +1195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153052,
+      "num": 153052,
+      "word": "李在明下达一号行政令",
+      "onboard_time": 1749035601,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151929,
       "num": 235894,
       "word": "看王安宇演戏有种恋爱般的宠溺感",
@@ -1211,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147053,
-      "num": 147053,
-      "word": "友谊中的冷暴力",
-      "onboard_time": 1749031280,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146680,
       "num": 146680,
       "word": "我一定要把她救上来不能让她有事",
@@ -1251,20 +1307,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144315,
+      "num": 144315,
+      "word": "藏海传再见",
+      "onboard_time": 1749035841,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142938,
       "num": 142938,
       "word": "断眉演唱会",
       "onboard_time": 1749017302,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142638,
-      "num": 142638,
-      "word": "日本又一次面临历史之问道义之问",
-      "onboard_time": 1749030201,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 142379,
@@ -1315,14 +1371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140153,
-      "num": 237699,
-      "word": "被不明生物咬伤身亡女子正准备读研",
-      "onboard_time": 1749033200,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139629,
       "num": 139629,
       "word": "藏海传38集封神",
@@ -1345,6 +1393,22 @@
       "onboard_time": 1749028940,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138989,
+      "num": 138989,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1749034760,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138668,
+      "num": 138668,
+      "word": "女排",
+      "onboard_time": 1749034700,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 138652,
@@ -1385,6 +1449,14 @@
       "onboard_time": 1749022580,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132832,
+      "num": 357532,
+      "word": "国内唯一男女均可接种的9价HPV疫苗",
+      "onboard_time": 1749034580,
+      "rank": 16,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 131790,
@@ -1595,6 +1667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116907,
+      "num": 116907,
+      "word": "毛利兰票选第一",
+      "onboard_time": 1749033620,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 116616,
       "num": 193188,
       "word": "双色莲绽放祝福高考生",
@@ -1779,12 +1859,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 100849,
-      "num": 100849,
-      "word": "醉汉凌晨潜入大学女生宿舍睡觉",
-      "onboard_time": 1749033921,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 103114,
+      "num": 103114,
+      "word": "陈数 花少",
+      "onboard_time": 1749033441,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 100163,
@@ -1867,14 +1947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95943,
-      "num": 95943,
-      "word": "毛利兰票选第一",
-      "onboard_time": 1749033620,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 94938,
       "num": 93802,
       "word": "一条短片了解韩国当选总统李在明",
@@ -1889,6 +1961,14 @@
       "onboard_time": 1749001520,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 93024,
+      "num": 465461,
+      "word": "高考试卷运送画面来了",
+      "onboard_time": 1749035001,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 92278,
@@ -1961,6 +2041,14 @@
       "onboard_time": 1748969898,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77715,
+      "num": 351661,
+      "word": "古巨基给卫兰歌手推歌",
+      "onboard_time": 1749035179,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 75961,
@@ -2073,6 +2161,14 @@
       "onboard_time": 1748962226,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65647,
+      "num": 274324,
+      "word": "一根数据线外包装印18个品牌名",
+      "onboard_time": 1749035120,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 64692,
@@ -2307,6 +2403,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 38334,
+      "num": 303896,
+      "word": "苏超的梗密得不知道先笑哪个",
+      "onboard_time": 1749035360,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38234,
       "num": 93835,
       "word": "平野美宇回应重返乒超",
@@ -2369,6 +2473,22 @@
       "onboard_time": 1748971037,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31992,
+      "num": 140080,
+      "word": "德企业聘中国工程师遭德国官场噩梦",
+      "onboard_time": 1749035540,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28958,
+      "num": 228843,
+      "word": "夏天抱着冬瓜睡能消暑吗",
+      "onboard_time": 1749034939,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 28509,
@@ -2449,6 +2569,14 @@
       "onboard_time": 1749029901,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21813,
+      "num": 189491,
+      "word": "蛇伤病人血钾明显升高",
+      "onboard_time": 1749035179,
+      "rank": 29,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 20972,
