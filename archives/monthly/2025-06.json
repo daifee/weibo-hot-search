@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749052594687,
+  "endTime": 1749054525683,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1749026661,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 705518,
+      "num": 705518,
+      "word": "银环蛇",
+      "onboard_time": 1749051861,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 700842,
@@ -5099,6 +5107,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 187464,
+      "num": 187464,
+      "word": "海南有74种蛇类毒蛇27种",
+      "onboard_time": 1749052280,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187369,
       "num": 187369,
       "word": "jiejie",
@@ -5865,6 +5881,14 @@
       "onboard_time": 1748932220,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167654,
+      "num": 163422,
+      "word": "肖战藏海怕惊醒美梦又怕困在虚妄",
+      "onboard_time": 1749053899,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 167479,
@@ -6817,6 +6841,14 @@
       "onboard_time": 1749020961,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 146517,
+      "num": 146517,
+      "word": "曹骏谈年少爆红后突然消失",
+      "onboard_time": 1749052460,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 146396,
@@ -8707,14 +8739,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118443,
-      "num": 118443,
-      "word": "曹骏谈年少爆红后突然消失",
-      "onboard_time": 1749052460,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118088,
       "num": 118088,
       "word": "江苏省足协回应苏超爆火",
@@ -10139,6 +10163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 99263,
+      "num": 99263,
+      "word": "朱茵53岁状态",
+      "onboard_time": 1749052760,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99243,
       "num": 99243,
       "word": "李在明推进将韩总统府迁回青瓦台",
@@ -11179,12 +11211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80279,
-      "num": 118889,
-      "word": "银环蛇",
-      "onboard_time": 1749051861,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 80154,
+      "num": 80154,
+      "word": "白宫宣布提高进口钢铝关税至50%",
+      "onboard_time": 1749053899,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80113,
@@ -11587,6 +11619,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 70716,
+      "num": 70716,
+      "word": "苏超球队开始偷偷加练了",
+      "onboard_time": 1749052879,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70463,
       "num": 108338,
       "word": "广东人的粽子有多豪横",
@@ -11897,14 +11937,6 @@
       "onboard_time": 1748968459,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61874,
-      "num": 186158,
-      "word": "海南有74种蛇类毒蛇27种",
-      "onboard_time": 1749052280,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61601,
