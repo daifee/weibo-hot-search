@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749079514744,
+  "endTime": 1749080385106,
   "band_list": [
     {
       "raw_hot": 1186256,
@@ -11,7 +11,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 900230,
+      "raw_hot": 1047995,
       "num": 763092,
       "word": "被咬身亡女子家属回应为何不尸检",
       "onboard_time": 1749047721,
@@ -19,12 +19,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 801983,
-      "num": 850191,
+      "raw_hot": 987704,
+      "num": 990688,
       "word": "银环蛇",
       "onboard_time": 1749051861,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 936931,
+      "num": 936931,
+      "word": "云南大理5.0级地震",
+      "onboard_time": 1749078618,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 782986,
+      "num": 202436,
+      "word": "李在明曾被妻子嫌弃长得显老",
+      "onboard_time": 1749078557,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 667132,
@@ -59,14 +75,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 440810,
-      "num": 168510,
-      "word": "李在明曾被妻子嫌弃长得显老",
-      "onboard_time": 1749078557,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 434312,
       "num": 434312,
       "word": "警方通报税务人员被指在酒局冲突中身亡",
@@ -75,28 +83,28 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 350431,
-      "num": 350431,
-      "word": "云南大理5.0级地震",
-      "onboard_time": 1749078618,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 338148,
-      "num": 338148,
+      "raw_hot": 404559,
+      "num": 404559,
       "word": "周渝民说单纯想赚钱不用找我",
       "onboard_time": 1749047122,
       "rank": 9,
       "category": "演出"
     },
     {
-      "raw_hot": 308286,
-      "num": 308286,
+      "raw_hot": 366091,
+      "num": 366091,
       "word": "曹骏谈年少爆红后突然消失",
       "onboard_time": 1749052460,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329020,
+      "num": 329020,
+      "word": "人没动但科目一自动答题考过了",
+      "onboard_time": 1749040700,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296480,
@@ -131,14 +139,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 242740,
-      "num": 242740,
-      "word": "人没动但科目一自动答题考过了",
-      "onboard_time": 1749040700,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238709,
       "num": 238709,
       "word": "白象多半系列面饼只多25g",
@@ -153,6 +153,14 @@
       "onboard_time": 1749013700,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232246,
+      "num": 232246,
+      "word": "官方通报张家界天坑溶洞垃圾整治情况",
+      "onboard_time": 1749047842,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 219690,
@@ -171,12 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201964,
-      "num": 201964,
-      "word": "官方通报张家界天坑溶洞垃圾整治情况",
-      "onboard_time": 1749047842,
-      "rank": 46,
-      "category": "辟谣/通报"
+      "raw_hot": 202563,
+      "num": 202563,
+      "word": "芒种",
+      "onboard_time": 1749079217,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190809,
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189707,
+      "num": 189707,
+      "word": "加沙2名儿童取水时遭无人机杀害",
+      "onboard_time": 1749046282,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 185341,
       "num": 163674,
       "word": "陷入我们的热恋声明",
@@ -195,12 +211,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184203,
+      "num": 130800,
+      "word": "姑娘1次指路让2家人成了亲人",
+      "onboard_time": 1749057077,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 178055,
       "num": 163644,
       "word": "差点没认出陈妍希",
       "onboard_time": 1749049223,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174864,
+      "num": 228150,
+      "word": "5日17时57分将迎来芒种节气",
+      "onboard_time": 1749054740,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172068,
+      "num": 128102,
+      "word": "250只幼鸟被抓大鸟愤怒出击",
+      "onboard_time": 1749042440,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171083,
+      "num": 171083,
+      "word": "花少阵容临时变动",
+      "onboard_time": 1749078918,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 170204,
@@ -219,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164348,
-      "num": 164348,
-      "word": "芒种",
-      "onboard_time": 1749079217,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163736,
       "num": 163736,
       "word": "IG野辅 别越",
@@ -243,35 +283,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155332,
-      "num": 107756,
-      "word": "姑娘1次指路让2家人成了亲人",
-      "onboard_time": 1749057077,
-      "rank": 43,
-      "category": "正能量"
+      "raw_hot": 155874,
+      "num": 103090,
+      "word": "男子赌博欠债倒卖千年裹尸布被抓",
+      "onboard_time": 1749080299,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 154835,
-      "num": 154835,
-      "word": "加沙2名儿童取水时遭无人机杀害",
-      "onboard_time": 1749046282,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 145774,
+      "raw_hot": 148194,
       "num": 145774,
       "word": "43岁上海男子失业后逆袭",
       "onboard_time": 1749046763,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143905,
-      "num": 108952,
-      "word": "250只幼鸟被抓大鸟愤怒出击",
-      "onboard_time": 1749042440,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -299,12 +323,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 106375,
-      "num": 228150,
-      "word": "5日17时57分将迎来芒种节气",
-      "onboard_time": 1749054740,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 111525,
+      "num": 111525,
+      "word": "李在明将彻查世越号及梨泰院惨案",
+      "onboard_time": 1749038240,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104039,
@@ -315,20 +339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103453,
-      "num": 103453,
-      "word": "花少阵容临时变动",
-      "onboard_time": 1749078918,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 103129,
-      "num": 103129,
-      "word": "李在明将彻查世越号及梨泰院惨案",
-      "onboard_time": 1749038240,
-      "rank": 33,
-      "category": "国际时政"
+      "raw_hot": 102732,
+      "num": 102732,
+      "word": "南京发布急得连发2条微博",
+      "onboard_time": 1749040160,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 99263,
@@ -363,14 +379,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 87412,
-      "num": 87412,
-      "word": "南京发布急得连发2条微博",
-      "onboard_time": 1749040160,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85146,
       "num": 85146,
       "word": "王鹤棣cos韩国霸总",
@@ -395,8 +403,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 81228,
-      "num": 81228,
+      "raw_hot": 82375,
+      "num": 82375,
       "word": "李在明宣誓就职仪式",
       "onboard_time": 1749002720,
       "rank": 40,
@@ -451,6 +459,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 60382,
+      "num": 897609,
+      "word": "非遗文旅带火中国游",
+      "onboard_time": 1749046163,
+      "rank": 2,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 59422,
       "num": 59422,
       "word": "IG战胜FPX",
@@ -475,36 +491,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51995,
-      "num": 51995,
+      "raw_hot": 53837,
+      "num": 53837,
       "word": "拖鞋厂回应叫南哥拖鞋已在设计",
       "onboard_time": 1749055458,
       "rank": 44,
       "category": "体育"
     },
     {
-      "raw_hot": 48375,
-      "num": 48375,
+      "raw_hot": 50884,
+      "num": 50884,
+      "word": "周翊然意识到什么但为时尚晚",
+      "onboard_time": 1749077837,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50013,
+      "num": 50013,
       "word": "中方回应中韩关系能否得到改善",
       "onboard_time": 1749062654,
       "rank": 49,
       "category": "国内时政"
     },
     {
-      "raw_hot": 47851,
-      "num": 723883,
-      "word": "非遗文旅带火中国游",
-      "onboard_time": 1749046163,
-      "rank": 2,
-      "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 41505,
-      "num": 42735,
-      "word": "周翊然意识到什么但为时尚晚",
-      "onboard_time": 1749077837,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 43816,
+      "num": 49276,
+      "word": "为什么原来不过敏现在却过敏了",
+      "onboard_time": 1749078798,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 35310,
@@ -513,14 +529,6 @@
       "onboard_time": 1749049881,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 35115,
-      "num": 42680,
-      "word": "为什么原来不过敏现在却过敏了",
-      "onboard_time": 1749078798,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 32214,
