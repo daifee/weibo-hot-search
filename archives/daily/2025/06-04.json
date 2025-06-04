@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749046926058,
+  "endTime": 1749049532826,
   "band_list": [
     {
       "raw_hot": 2907108,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1756975,
-      "num": 540455,
+      "num": 568037,
       "word": "何秋亊直播爆粗口",
       "onboard_time": 1749041062,
       "rank": 11,
@@ -193,6 +193,14 @@
       "onboard_time": 1748960424,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 809117,
+      "num": 809117,
+      "word": "鹿晗怼脸比耶自拍",
+      "onboard_time": 1749047842,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 801467,
@@ -379,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 565822,
+      "num": 565822,
+      "word": "周渝民说单纯想赚钱不用找我",
+      "onboard_time": 1749047122,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 530878,
       "num": 530878,
       "word": "白象就多半发声明",
@@ -417,6 +433,14 @@
       "onboard_time": 1748965162,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 498104,
+      "num": 498104,
+      "word": "被咬身亡女子家属回应为何不尸检",
+      "onboard_time": 1749047721,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 496933,
@@ -579,6 +603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 394332,
+      "num": 394332,
+      "word": "加沙2名儿童取水时遭无人机杀害",
+      "onboard_time": 1749046282,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 391454,
       "num": 317752,
       "word": "藏海传大结局",
@@ -651,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365310,
+      "num": 365310,
+      "word": "七根心简 云包场",
+      "onboard_time": 1749048262,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362702,
       "num": 414761,
       "word": "球队经理回应樊振东德甲待遇",
@@ -668,7 +708,7 @@
     },
     {
       "raw_hot": 356845,
-      "num": 247851,
+      "num": 279669,
       "word": "43岁上海男子失业后逆袭",
       "onboard_time": 1749046763,
       "rank": 23,
@@ -899,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262596,
+      "num": 569036,
+      "word": "官方通报张家界天坑溶洞垃圾整治情况",
+      "onboard_time": 1749047842,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 259438,
       "num": 259438,
       "word": "从藏海传看原创长剧如何讲好中国故事",
@@ -937,6 +985,14 @@
       "onboard_time": 1749041062,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251769,
+      "num": 251769,
+      "word": "差点没认出陈妍希",
+      "onboard_time": 1749049223,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 247308,
@@ -993,6 +1049,14 @@
       "onboard_time": 1749040580,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233998,
+      "num": 233998,
+      "word": "赛里木湖",
+      "onboard_time": 1749047601,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 233226,
@@ -1315,6 +1379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184498,
+      "num": 273356,
+      "word": "女子用玩具铲挡门致孩子被困电梯",
+      "onboard_time": 1749046523,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184322,
       "num": 184322,
       "word": "LPL",
@@ -1419,12 +1491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168469,
+      "num": 168469,
+      "word": "长安的荔枝",
+      "onboard_time": 1749048383,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167089,
       "num": 167089,
       "word": "尾鱼女郎肤白貌美还能打",
       "onboard_time": 1749021080,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166514,
+      "num": 166514,
+      "word": "柳俊烈签约宋慧乔经纪公司",
+      "onboard_time": 1749048803,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 166455,
@@ -1483,6 +1571,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162519,
+      "num": 162519,
+      "word": "警方通报税务人员被指在酒局冲突中身亡",
+      "onboard_time": 1749049164,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 160703,
+      "num": 160703,
+      "word": "TheShy拿MVP",
+      "onboard_time": 1749049282,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160662,
       "num": 160662,
       "word": "郑钦文泪洒发布会",
@@ -1523,20 +1627,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159296,
+      "num": 159296,
+      "word": "孙恩盛直播",
+      "onboard_time": 1749048922,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 157306,
       "num": 157306,
       "word": "倪夏莲称樊振东的加入震撼欧洲",
       "onboard_time": 1749046463,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156944,
-      "num": 379843,
-      "word": "加沙2名儿童取水时遭无人机杀害",
-      "onboard_time": 1749046282,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 156906,
@@ -1651,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151235,
+      "num": 159915,
+      "word": "赴山海",
+      "onboard_time": 1749048144,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149949,
       "num": 200055,
       "word": "截瘫女网红与前夫借贷纠纷开庭",
@@ -1721,6 +1833,14 @@
       "onboard_time": 1749011603,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145257,
+      "num": 145257,
+      "word": "德国vs葡萄牙",
+      "onboard_time": 1749049043,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 144480,
@@ -2563,12 +2683,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92004,
+      "num": 421754,
+      "word": "河北邯郸一道路塌陷两辆车陷入其中",
+      "onboard_time": 1749048682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91870,
       "num": 540529,
       "word": "中国女排新周期首秀开门红",
       "onboard_time": 1749043582,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91192,
+      "num": 1037648,
+      "word": "非遗文旅带火中国游",
+      "onboard_time": 1749046163,
+      "rank": 2,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 90185,
@@ -2585,6 +2721,14 @@
       "onboard_time": 1749007820,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88307,
+      "num": 379515,
+      "word": "张帅冲击法网混双决赛",
+      "onboard_time": 1749048984,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 86505,
@@ -2867,14 +3011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55057,
-      "num": 273356,
-      "word": "女子用玩具铲挡门致孩子被困电梯",
-      "onboard_time": 1749046523,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54947,
       "num": 299946,
       "word": "减重人群复胖是否与心理相关",
@@ -3043,12 +3179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37041,
+      "num": 643180,
+      "word": "高考心理调适指南",
+      "onboard_time": 1749046824,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 35140,
       "num": 125401,
       "word": "无人机灭火",
       "onboard_time": 1749027501,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35019,
+      "num": 287066,
+      "word": "2025江西高考报名人数公布",
+      "onboard_time": 1749048563,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 34920,
@@ -3089,14 +3241,6 @@
       "onboard_time": 1748971037,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32460,
-      "num": 1037648,
-      "word": "非遗文旅带火中国游",
-      "onboard_time": 1749046163,
-      "rank": 2,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 28958,
@@ -3297,14 +3441,6 @@
       "onboard_time": 1749029301,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 14441,
-      "num": 190237,
-      "word": "高考心理调适指南",
-      "onboard_time": 1749046824,
-      "rank": 34,
-      "category": "正能量"
     },
     {
       "raw_hot": 14299,
