@@ -1,0 +1,410 @@
+{
+  "runTime": 1749003896377,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 900801,
+        "num": 1144128,
+        "word": "李在明的总统任期正式开始",
+        "onboard_time": 1749001040,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 759781,
+        "num": 759781,
+        "word": "亚朵酒店被曝出现医院枕套",
+        "onboard_time": 1748958982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62291,
+        "num": 715208,
+        "word": "2025年高考注意事项",
+        "onboard_time": 1748960065,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 910786,
+        "num": 712872,
+        "word": "朱一龙晒43岁的杨蓉",
+        "onboard_time": 1748998282,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709167,
+        "num": 709167,
+        "word": "何秋亊 为什么别人是撞衫我是抄袭",
+        "onboard_time": 1748960424,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 432480,
+        "num": 432480,
+        "word": "三亚卫健委通报女子被蛇咬伤身亡",
+        "onboard_time": 1748962764,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 334071,
+        "num": 334071,
+        "word": "马斯克怒批特朗普法案",
+        "onboard_time": 1748997863,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331040,
+        "num": 331040,
+        "word": "藏海香暗荼孩子该姓什么",
+        "onboard_time": 1749003380,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284892,
+        "num": 330047,
+        "word": "马斯克发文吐槽说受不了了",
+        "onboard_time": 1749001520,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 448061,
+        "num": 327787,
+        "word": "何秋亊道歉",
+        "onboard_time": 1748956522,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 925576,
+        "num": 325248,
+        "word": "廊坊法院道歉",
+        "onboard_time": 1748996720,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 882321,
+        "num": 322704,
+        "word": "李在明宣誓就职仪式",
+        "onboard_time": 1749002720,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 441708,
+        "num": 320589,
+        "word": "新人结婚班主任致辞称多亏当年失职",
+        "onboard_time": 1749001160,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601141,
+        "num": 317858,
+        "word": "韩国媒体称李在明当选韩国总统",
+        "onboard_time": 1748962645,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 391363,
+        "num": 316052,
+        "word": "张雪峰回应学历贬值后读书还有用吗",
+        "onboard_time": 1749001760,
+        "rank": 14,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 315073,
+        "num": 315073,
+        "word": "金靖好美",
+        "onboard_time": 1749001280,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305356,
+        "num": 305356,
+        "word": "藏海传2",
+        "onboard_time": 1748964383,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297480,
+        "num": 297480,
+        "word": "李荣浩艾特杨丞琳",
+        "onboard_time": 1748993780,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259878,
+        "num": 294508,
+        "word": "违规存储涉密文件致重大失泄密",
+        "onboard_time": 1748996662,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235901,
+        "num": 292492,
+        "word": "球队经理回应樊振东德甲待遇",
+        "onboard_time": 1749001160,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292424,
+        "num": 292424,
+        "word": "李在明小学毕业谎报年龄进厂打工",
+        "onboard_time": 1748997262,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274147,
+        "num": 274147,
+        "word": "女子回应美甲太厚致手指被夹断",
+        "onboard_time": 1748994021,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251856,
+        "num": 251856,
+        "word": "她一个月赶了我一辈子的通勤",
+        "onboard_time": 1748961025,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231278,
+        "num": 231278,
+        "word": "遭儿子拒绝儿童节礼物冉莹颖委屈流泪",
+        "onboard_time": 1749001640,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225553,
+        "num": 225553,
+        "word": "郑晓龙 南派二叔",
+        "onboard_time": 1748995583,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214021,
+        "num": 214021,
+        "word": "aespa将6月27日回归",
+        "onboard_time": 1749000681,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212715,
+        "num": 212715,
+        "word": "李在明为什么能赢",
+        "onboard_time": 1748999663,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160982,
+        "num": 205443,
+        "word": "女子为祈福放生2.5万斤外来鲇鱼",
+        "onboard_time": 1748960365,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153942,
+        "num": 201389,
+        "word": "女子头痛被中医在额头拔罐治愈",
+        "onboard_time": 1748997562,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137819,
+        "num": 201084,
+        "word": "高明背后招手是肖战设计的",
+        "onboard_time": 1749002541,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200823,
+        "num": 200823,
+        "word": "女子吃剩菜后意识模糊被送医抢救",
+        "onboard_time": 1749001160,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200096,
+        "num": 200096,
+        "word": "亚朵酒店致歉",
+        "onboard_time": 1749003440,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186575,
+        "num": 186575,
+        "word": "李在明当选后的目标",
+        "onboard_time": 1749001760,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178561,
+        "num": 178561,
+        "word": "让肝脏变好的7个小习惯",
+        "onboard_time": 1748996662,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163993,
+        "num": 163993,
+        "word": "小米YU7三个型号电池品牌公布",
+        "onboard_time": 1749001939,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130888,
+        "num": 130888,
+        "word": "张灭 张起灵",
+        "onboard_time": 1748994081,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117207,
+        "num": 117207,
+        "word": "菲律宾政府考虑请下水道女子当大使",
+        "onboard_time": 1748998522,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114230,
+        "num": 114230,
+        "word": "不自信的人多去培养输出型爱好",
+        "onboard_time": 1748998402,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112129,
+        "num": 112129,
+        "word": "歌手",
+        "onboard_time": 1748999902,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110644,
+        "num": 110644,
+        "word": "双色莲绽放祝福高考生",
+        "onboard_time": 1749003321,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 109974,
+        "num": 109974,
+        "word": "酱园弄主演定妆",
+        "onboard_time": 1748996422,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107549,
+        "num": 107549,
+        "word": "男子刀片嗓以为感冒竟差点丧命",
+        "onboard_time": 1748961025,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104875,
+        "num": 104875,
+        "word": "九旬奶奶每天坚持做200个俯卧撑",
+        "onboard_time": 1749001760,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103793,
+        "num": 103793,
+        "word": "江西网红歌手段煜突发脑溢血离世",
+        "onboard_time": 1748998041,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100963,
+        "num": 100963,
+        "word": "藏海操纵瘖兵",
+        "onboard_time": 1748999781,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99745,
+        "num": 99745,
+        "word": "被李艺彤近距离美貌暴击了",
+        "onboard_time": 1748997863,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97265,
+        "num": 97265,
+        "word": "李在明出身贫寒曾打工落下残疾",
+        "onboard_time": 1749003020,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94877,
+        "num": 94877,
+        "word": "iOS26设计渲染图曝光",
+        "onboard_time": 1749001520,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94152,
+        "num": 94152,
+        "word": "蜜雪集团泡泡玛特再创新高",
+        "onboard_time": 1749003800,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91996,
+        "num": 91996,
+        "word": "常州足协回应常州输成l州",
+        "onboard_time": 1748991678,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
