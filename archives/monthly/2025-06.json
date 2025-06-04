@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749014783666,
+  "endTime": 1749015834101,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -57,6 +57,14 @@
       "onboard_time": 1748787802,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2511180,
+      "num": 2511180,
+      "word": "男友哽咽还原女友三亚被咬身亡过程",
+      "onboard_time": 1749013700,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2181073,
@@ -729,14 +737,6 @@
       "onboard_time": 1748961025,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 795182,
-      "num": 1127229,
-      "word": "男友哽咽还原女友三亚被咬身亡过程",
-      "onboard_time": 1749013700,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 786695,
@@ -1547,6 +1547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 456540,
+      "num": 299262,
+      "word": "物业回应顶楼一孕妇将电梯加装锁链",
+      "onboard_time": 1749012681,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439676,
       "num": 424282,
       "word": "王嘉尔蔡徐坤音乐节同框",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1748934921,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 419844,
-      "num": 299262,
-      "word": "物业回应顶楼一孕妇将电梯加装锁链",
-      "onboard_time": 1749012681,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 418943,
@@ -1793,6 +1793,14 @@
       "onboard_time": 1748780361,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392544,
+      "num": 392544,
+      "word": "王安宇亲空气还要翻面",
+      "onboard_time": 1749013222,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 392512,
@@ -2595,14 +2603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289006,
-      "num": 289006,
-      "word": "王安宇亲空气还要翻面",
-      "onboard_time": 1749013222,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 287648,
       "num": 245380,
       "word": "第三人是内阁首辅石一平",
@@ -3059,6 +3059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249847,
+      "num": 249847,
+      "word": "江苏足协副主席电话被打爆",
+      "onboard_time": 1749015801,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249301,
       "num": 432929,
       "word": "高考戴智能手表用不用都作弊",
@@ -3073,6 +3081,14 @@
       "onboard_time": 1748751859,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 247927,
+      "num": 247927,
+      "word": "F4将合体",
+      "onboard_time": 1749014600,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 247791,
@@ -3225,14 +3241,6 @@
       "onboard_time": 1748956462,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236930,
-      "num": 236930,
-      "word": "F4将合体",
-      "onboard_time": 1749014600,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 235704,
@@ -3707,6 +3715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206615,
+      "num": 206615,
+      "word": "巴黎世家客服回应争议半身裙下架",
+      "onboard_time": 1749015741,
+      "rank": 22,
+      "category": "海外新闻,时尚"
+    },
+    {
       "raw_hot": 206569,
       "num": 179794,
       "word": "中方回应2名日本人在大连被杀害",
@@ -3873,6 +3889,14 @@
       "onboard_time": 1748920102,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201141,
+      "num": 201141,
+      "word": "马天宇 撕拉片最大受益者",
+      "onboard_time": 1749015261,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 200823,
@@ -6979,6 +7003,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 123834,
+      "num": 123834,
+      "word": "医生曾称陈学冬一定会得风湿",
+      "onboard_time": 1749015741,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123800,
       "num": 123800,
       "word": "雷军回应YU7定价",
@@ -8259,6 +8291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103859,
+      "num": 167840,
+      "word": "减脂期6个瘦身技巧",
+      "onboard_time": 1749012082,
+      "rank": 39,
+      "category": "情感,运动健身"
+    },
+    {
       "raw_hot": 103803,
       "num": 103803,
       "word": "起猛了看见机器人踢足球了",
@@ -8281,14 +8321,6 @@
       "onboard_time": 1748945422,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103669,
-      "num": 167840,
-      "word": "减脂期6个瘦身技巧",
-      "onboard_time": 1749012082,
-      "rank": 39,
-      "category": "情感,运动健身"
     },
     {
       "raw_hot": 103479,
@@ -8673,6 +8705,14 @@
       "onboard_time": 1748760561,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 97862,
+      "num": 97862,
+      "word": "小伙上班被迫吸4年二手烟疑患肺癌",
+      "onboard_time": 1749015560,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97780,
@@ -10043,6 +10083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67047,
+      "num": 297147,
+      "word": "每分钟阅读6000字一天看72本书",
+      "onboard_time": 1749009202,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 66656,
       "num": 206211,
       "word": "庆祝人类拥有电视100年",
@@ -10201,6 +10249,14 @@
       "onboard_time": 1748922200,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61395,
+      "num": 253203,
+      "word": "未来一周河南多地以高温天气为主",
+      "onboard_time": 1749015502,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60805,
@@ -10633,14 +10689,6 @@
       "onboard_time": 1748935281,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 48033,
-      "num": 297147,
-      "word": "每分钟阅读6000字一天看72本书",
-      "onboard_time": 1749009202,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 47255,
