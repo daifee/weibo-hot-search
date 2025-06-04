@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749041616230,
+  "endTime": 1749042573960,
   "band_list": [
     {
       "raw_hot": 2907108,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1709387,
+      "num": 1709387,
+      "word": "女子请假陪女儿高考被开除",
+      "onboard_time": 1749039139,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1687995,
       "num": 1687995,
       "word": "韩国媒体称李在明当选韩国总统",
@@ -43,12 +51,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1550226,
-      "num": 1550226,
-      "word": "女子请假陪女儿高考被开除",
-      "onboard_time": 1749039139,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 1390825,
+      "num": 393506,
+      "word": "何秋亊直播爆粗口",
+      "onboard_time": 1749041062,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1390192,
@@ -57,6 +65,14 @@
       "onboard_time": 1749027501,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1329295,
+      "num": 1329295,
+      "word": "尽量不要穿洞洞鞋乘坐扶梯",
+      "onboard_time": 1749038480,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1241877,
@@ -81,14 +97,6 @@
       "onboard_time": 1749020359,
       "rank": 10,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1096109,
-      "num": 1096109,
-      "word": "尽量不要穿洞洞鞋乘坐扶梯",
-      "onboard_time": 1749038480,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1078006,
@@ -331,11 +339,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 511942,
-      "num": 393506,
-      "word": "何秋亊直播爆粗口",
-      "onboard_time": 1749041062,
-      "rank": 11,
+      "raw_hot": 502208,
+      "num": 393698,
+      "word": "47岁河智苑近照",
+      "onboard_time": 1749039080,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -403,14 +411,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 464703,
-      "num": 393698,
-      "word": "47岁河智苑近照",
-      "onboard_time": 1749039080,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 463372,
       "num": 463372,
       "word": "普通医院一般没有抗蛇毒血清",
@@ -435,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 455121,
+      "num": 392723,
+      "word": "李在明将彻查世越号及梨泰院惨案",
+      "onboard_time": 1749038240,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 450082,
       "num": 450082,
       "word": "妻子回应李亚鹏为何不拍戏还债",
       "onboard_time": 1749028220,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430018,
+      "num": 430018,
+      "word": "中国女排vs比利时队",
+      "onboard_time": 1749036380,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 428853,
@@ -483,14 +499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 392723,
-      "num": 392723,
-      "word": "李在明将彻查世越号及梨泰院惨案",
-      "onboard_time": 1749038240,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 391454,
       "num": 317752,
       "word": "藏海传大结局",
@@ -505,6 +513,14 @@
       "onboard_time": 1749001760,
       "rank": 22,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 387245,
+      "num": 387245,
+      "word": "王鹤棣cos韩国霸总",
+      "onboard_time": 1749036921,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 384779,
@@ -547,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 374124,
-      "num": 374124,
-      "word": "王鹤棣cos韩国霸总",
-      "onboard_time": 1749036921,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 367494,
       "num": 337353,
       "word": "回看藏海传第一集",
@@ -593,6 +601,14 @@
       "onboard_time": 1749037340,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338821,
+      "num": 338821,
+      "word": "刘冲等宁艺卓两年了",
+      "onboard_time": 1749037760,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 337673,
@@ -651,12 +667,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318208,
-      "num": 326491,
-      "word": "中国女排vs比利时队",
-      "onboard_time": 1749036380,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 318434,
+      "num": 222876,
+      "word": "张馨予臀桥重量突破100斤",
+      "onboard_time": 1749042321,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 314882,
+      "num": 330460,
+      "word": "苏新皓怎么这样了",
+      "onboard_time": 1749037882,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 312154,
@@ -675,27 +699,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307435,
-      "num": 332894,
-      "word": "刘冲等宁艺卓两年了",
-      "onboard_time": 1749037760,
-      "rank": 17,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 305001,
       "num": 414459,
       "word": "卫兰歌手补位",
       "onboard_time": 1749022041,
       "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 302030,
-      "num": 330460,
-      "word": "苏新皓怎么这样了",
-      "onboard_time": 1749037882,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -728,6 +736,14 @@
       "word": "女子回应美甲太厚致手指被夹断",
       "onboard_time": 1748994021,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273923,
+      "num": 323651,
+      "word": "女子曝遭奇葩邻居空投带屎尿不湿",
+      "onboard_time": 1749040221,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -811,6 +827,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253320,
+      "num": 374616,
+      "word": "人没动但科目一自动答题考过了",
+      "onboard_time": 1749040700,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247308,
+      "num": 247308,
+      "word": "南京发布急得连发2条微博",
+      "onboard_time": 1749040160,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245487,
       "num": 423204,
       "word": "泽连斯基称没人在意俄罗斯愤怒",
@@ -851,12 +883,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239097,
+      "num": 239097,
+      "word": "Meiko 菜",
+      "onboard_time": 1749041062,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 238268,
+      "num": 238268,
+      "word": "白象就多半发声明",
+      "onboard_time": 1749041721,
+      "rank": 26,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 233226,
       "num": 233226,
       "word": "李在明上台难掩韩国社会分裂",
       "onboard_time": 1749010822,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 232910,
+      "num": 232910,
+      "word": "藏海传剧粉整理的大雍时间线",
+      "onboard_time": 1749041721,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 232323,
@@ -883,18 +939,18 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229568,
+      "num": 229568,
+      "word": "陷入我们的热恋声明",
+      "onboard_time": 1749041781,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229217,
       "num": 229217,
       "word": "萨尔布吕肯球员海报樊振东C位",
       "onboard_time": 1749006561,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 228456,
-      "num": 228456,
-      "word": "南京发布急得连发2条微博",
-      "onboard_time": 1749040160,
       "rank": 24,
       "category": "体育"
     },
@@ -961,14 +1017,6 @@
       "onboard_time": 1749040520,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 215251,
-      "num": 215251,
-      "word": "Meiko 菜",
-      "onboard_time": 1749041062,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 214076,
@@ -1155,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178599,
+      "num": 178599,
+      "word": "刘浩存好灵",
+      "onboard_time": 1749041002,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177633,
       "num": 177633,
       "word": "昆凌小松菜奈金高银陈法拉同框",
@@ -1171,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174095,
+      "num": 174095,
+      "word": "男子被蛇咬想抓蛇又被咬",
+      "onboard_time": 1749040580,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171938,
       "num": 302115,
       "word": "亚朵酒店称洗涤供应商出现严重失误",
@@ -1185,22 +1249,6 @@
       "onboard_time": 1749035841,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169011,
-      "num": 323651,
-      "word": "女子曝遭奇葩邻居空投带屎尿不湿",
-      "onboard_time": 1749040221,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167662,
-      "num": 167662,
-      "word": "男子被蛇咬想抓蛇又被咬",
-      "onboard_time": 1749040580,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167089,
@@ -1289,14 +1337,6 @@
       "onboard_time": 1749023960,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159677,
-      "num": 159677,
-      "word": "人没动但科目一自动答题考过了",
-      "onboard_time": 1749040700,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159499,
@@ -1417,14 +1457,6 @@
       "onboard_time": 1749032421,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150677,
-      "num": 150677,
-      "word": "刘浩存好灵",
-      "onboard_time": 1749041002,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 149949,
@@ -1635,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135395,
+      "num": 135395,
+      "word": "医生说被毒蛇咬后3要3不要",
+      "onboard_time": 1749038900,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135328,
       "num": 135328,
       "word": "歌手2025",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1749036680,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126430,
+      "num": 394592,
+      "word": "车辆失控姐姐飞扑救下妹妹",
+      "onboard_time": 1749040761,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126189,
@@ -1883,6 +1931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119088,
+      "num": 119088,
+      "word": "250只幼鸟被抓大鸟愤怒出击",
+      "onboard_time": 1749042440,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118443,
       "num": 201663,
       "word": "蜜雪集团泡泡玛特再创新高",
@@ -1921,14 +1977,6 @@
       "onboard_time": 1749027081,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114940,
-      "num": 114940,
-      "word": "医生说被毒蛇咬后3要3不要",
-      "onboard_time": 1749038900,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114265,
@@ -2027,14 +2075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110392,
-      "num": 394592,
-      "word": "车辆失控姐姐飞扑救下妹妹",
-      "onboard_time": 1749040761,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110205,
       "num": 110205,
       "word": "藏海操纵瘖兵",
@@ -2079,6 +2119,14 @@
       "num": 108826,
       "word": "45岁姚明训练照曝光",
       "onboard_time": 1749006981,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107940,
+      "num": 107940,
+      "word": "文班亚马在北京逛街",
+      "onboard_time": 1749042563,
       "rank": 49,
       "category": "体育"
     },
@@ -2403,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67454,
+      "num": 304592,
+      "word": "以为遇真爱结果他把我当摇钱树",
+      "onboard_time": 1749042201,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67381,
       "num": 191453,
       "word": "韩国股市集体大涨",
@@ -2545,6 +2601,14 @@
       "onboard_time": 1748959944,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54947,
+      "num": 299946,
+      "word": "减重人群复胖是否与心理相关",
+      "onboard_time": 1749041660,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 53637,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1749042573960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1709387,
+        "num": 1709387,
+        "word": "女子请假陪女儿高考被开除",
+        "onboard_time": 1749039139,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1329295,
+        "num": 1329295,
+        "word": "尽量不要穿洞洞鞋乘坐扶梯",
+        "onboard_time": 1749038480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21584,
+        "num": 895501,
+        "word": "8组数字看中国消费向新而行",
+        "onboard_time": 1749026542,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 747253,
+        "num": 747253,
+        "word": "白象多半桶方便面的多半是商标",
+        "onboard_time": 1749025279,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 731637,
+        "num": 731637,
+        "word": "花少7阵容",
+        "onboard_time": 1749027501,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 782781,
+        "num": 691683,
+        "word": "男友哽咽还原女友三亚被咬身亡过程",
+        "onboard_time": 1749013700,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567084,
+        "num": 567084,
+        "word": "何秋亊方与章昊设计师沟通记录",
+        "onboard_time": 1749027800,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430018,
+        "num": 430018,
+        "word": "中国女排vs比利时队",
+        "onboard_time": 1749036380,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387245,
+        "num": 387245,
+        "word": "王鹤棣cos韩国霸总",
+        "onboard_time": 1749036921,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253320,
+        "num": 374616,
+        "word": "人没动但科目一自动答题考过了",
+        "onboard_time": 1749040700,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502208,
+        "num": 372607,
+        "word": "47岁河智苑近照",
+        "onboard_time": 1749039080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1390825,
+        "num": 371327,
+        "word": "何秋亊直播爆粗口",
+        "onboard_time": 1749041062,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366666,
+        "num": 366666,
+        "word": "白象多半系列面饼只多25g",
+        "onboard_time": 1749038359,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455121,
+        "num": 363404,
+        "word": "李在明将彻查世越号及梨泰院惨案",
+        "onboard_time": 1749038240,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 338821,
+        "num": 338821,
+        "word": "刘冲等宁艺卓两年了",
+        "onboard_time": 1749037760,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 314882,
+        "num": 314882,
+        "word": "苏新皓怎么这样了",
+        "onboard_time": 1749037882,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307083,
+        "num": 307083,
+        "word": "藏海传三美来踢馆",
+        "onboard_time": 1749036740,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67454,
+        "num": 304592,
+        "word": "以为遇真爱结果他把我当摇钱树",
+        "onboard_time": 1749042201,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54947,
+        "num": 299946,
+        "word": "减重人群复胖是否与心理相关",
+        "onboard_time": 1749041660,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 360345,
+        "num": 298316,
+        "word": "女子效仿转卖蜜雪时薪20元果断放弃",
+        "onboard_time": 1749033321,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366792,
+        "num": 293494,
+        "word": "李在明宣誓就职仪式",
+        "onboard_time": 1749002720,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 291781,
+        "num": 291781,
+        "word": "赴山海凡人修仙传 对打",
+        "onboard_time": 1749031041,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283464,
+        "num": 283464,
+        "word": "被咬身亡女子家属称当地预计5天给答复",
+        "onboard_time": 1749037340,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273923,
+        "num": 273923,
+        "word": "女子曝遭奇葩邻居空投带屎尿不湿",
+        "onboard_time": 1749040221,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247308,
+        "num": 247308,
+        "word": "南京发布急得连发2条微博",
+        "onboard_time": 1749040160,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239097,
+        "num": 239097,
+        "word": "Meiko 菜",
+        "onboard_time": 1749041062,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238268,
+        "num": 238268,
+        "word": "白象就多半发声明",
+        "onboard_time": 1749041721,
+        "rank": 26,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 234131,
+        "num": 234131,
+        "word": "被不明生物咬伤身亡女子正准备读研",
+        "onboard_time": 1749033200,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232910,
+        "num": 232910,
+        "word": "藏海传剧粉整理的大雍时间线",
+        "onboard_time": 1749041721,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229568,
+        "num": 229568,
+        "word": "陷入我们的热恋声明",
+        "onboard_time": 1749041781,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318434,
+        "num": 222876,
+        "word": "张馨予臀桥重量突破100斤",
+        "onboard_time": 1749042321,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215046,
+        "num": 215046,
+        "word": "Red女团要去韩国打歌",
+        "onboard_time": 1749040520,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208866,
+        "num": 208866,
+        "word": "巴黎世家线上已下架4500元半身裙",
+        "onboard_time": 1749029361,
+        "rank": 32,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 178599,
+        "num": 178599,
+        "word": "刘浩存好灵",
+        "onboard_time": 1749041002,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174095,
+        "num": 174095,
+        "word": "男子被蛇咬想抓蛇又被咬",
+        "onboard_time": 1749040580,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162771,
+        "num": 162771,
+        "word": "IU车银优双人cha",
+        "onboard_time": 1749034159,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160451,
+        "num": 160451,
+        "word": "柯颖 花少",
+        "onboard_time": 1749026661,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147979,
+        "num": 147979,
+        "word": "妻子回应李亚鹏为何不拍戏还债",
+        "onboard_time": 1749028220,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145451,
+        "num": 145451,
+        "word": "吴宣仪在变了在72变了",
+        "onboard_time": 1749038059,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135395,
+        "num": 135395,
+        "word": "医生说被毒蛇咬后3要3不要",
+        "onboard_time": 1749038900,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130567,
+        "num": 130567,
+        "word": "赵今麦当你拥有了一顶新帽子",
+        "onboard_time": 1749040580,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126430,
+        "num": 126430,
+        "word": "车辆失控姐姐飞扑救下妹妹",
+        "onboard_time": 1749040761,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123188,
+        "num": 123188,
+        "word": "陈学冬称希望是最后一次手术了",
+        "onboard_time": 1749021141,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120879,
+        "num": 120879,
+        "word": "蜜雪冰城爆单女店员忙到崩溃落泪",
+        "onboard_time": 1749010582,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119088,
+        "num": 119088,
+        "word": "250只幼鸟被抓大鸟愤怒出击",
+        "onboard_time": 1749042440,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117436,
+        "num": 117436,
+        "word": "闫安力挺樊振东",
+        "onboard_time": 1749036861,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112748,
+        "num": 112748,
+        "word": "汪苏泷演唱会怪物征名",
+        "onboard_time": 1749036441,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110955,
+        "num": 110955,
+        "word": "K总回应何秋亊争议",
+        "onboard_time": 1749021860,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108397,
+        "num": 108397,
+        "word": "花少单数季",
+        "onboard_time": 1749037820,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107940,
+        "num": 107940,
+        "word": "文班亚马在北京逛街",
+        "onboard_time": 1749042563,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见卢卡申科#"
+    }
+  }
+}
