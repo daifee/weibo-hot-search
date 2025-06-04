@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749057859503,
+  "endTime": 1749058964747,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -12931,20 +12931,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 37033,
+      "num": 39704,
+      "word": "姑娘1次指路让2家人成了亲人",
+      "onboard_time": 1749057077,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 37001,
       "num": 192692,
       "word": "郑钦文说还需要修炼心态",
       "onboard_time": 1748961626,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 36999,
-      "num": 39704,
-      "word": "姑娘1次指路让2家人成了亲人",
-      "onboard_time": 1749057077,
-      "rank": 43,
-      "category": "正能量"
     },
     {
       "raw_hot": 36984,
@@ -13595,6 +13595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25392,
+      "num": 36872,
+      "word": "律师解读白象多半袋面的多半是商标",
+      "onboard_time": 1749054559,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25380,
       "num": 277439,
       "word": "苏超都产生了哪些热梗",
@@ -13729,6 +13737,14 @@
       "onboard_time": 1748803455,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23599,
+      "num": 36845,
+      "word": "白象将尽快调整多半产品包装",
+      "onboard_time": 1749058876,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23543,
