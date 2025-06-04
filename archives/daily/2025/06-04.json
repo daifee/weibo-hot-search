@@ -1,10 +1,10 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749012531592,
+  "endTime": 1749014783666,
   "band_list": [
     {
       "raw_hot": 2907108,
-      "num": 455042,
+      "num": 574826,
       "word": "蜜雪冰城爆单女店员忙到崩溃落泪",
       "onboard_time": 1749010582,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1006789,
-      "num": 443384,
+      "num": 574422,
       "word": "赵今麦 脱胎换骨",
       "onboard_time": 1749008300,
       "rank": 4,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 795182,
+      "num": 1127229,
+      "word": "男友哽咽还原女友三亚被咬身亡过程",
+      "onboard_time": 1749013700,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 730350,
       "num": 1116856,
       "word": "亚朵酒店致歉",
@@ -123,12 +131,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 588595,
+      "num": 588595,
+      "word": "哪吒婚礼开场",
+      "onboard_time": 1749009741,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 575059,
       "num": 308559,
       "word": "她一个月赶了我一辈子的通勤",
       "onboard_time": 1748961025,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 567446,
+      "num": 567446,
+      "word": "何秋亊演唱会 全闭麦",
+      "onboard_time": 1749008422,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 530035,
@@ -145,14 +169,6 @@
       "onboard_time": 1749008181,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 503741,
-      "num": 420376,
-      "word": "何秋亊演唱会 全闭麦",
-      "onboard_time": 1749008422,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 500909,
@@ -187,19 +203,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 429101,
-      "num": 341951,
-      "word": "哪吒婚礼开场",
-      "onboard_time": 1749009741,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 422118,
       "num": 299643,
       "word": "湖南一老师从学生成人仪式舞台坠落",
       "onboard_time": 1748991678,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419844,
+      "num": 299262,
+      "word": "物业回应顶楼一孕妇将电梯加装锁链",
+      "onboard_time": 1749012681,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -323,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289006,
+      "num": 289006,
+      "word": "王安宇亲空气还要翻面",
+      "onboard_time": 1749013222,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274147,
       "num": 274147,
       "word": "女子回应美甲太厚致手指被夹断",
@@ -427,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236930,
+      "num": 236930,
+      "word": "F4将合体",
+      "onboard_time": 1749014600,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233226,
       "num": 233226,
       "word": "李在明上台难掩韩国社会分裂",
@@ -521,6 +553,14 @@
       "onboard_time": 1749005841,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 187720,
+      "num": 295624,
+      "word": "恒生银行抢劫案嫌疑人在深圳落网",
+      "onboard_time": 1749011422,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186575,
@@ -723,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138652,
+      "num": 241221,
+      "word": "高铁为啥会上演飙车大片",
+      "onboard_time": 1749008181,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137819,
       "num": 201084,
       "word": "高明背后招手是肖战设计的",
@@ -737,6 +785,14 @@
       "onboard_time": 1748960065,
       "rank": 2,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 137392,
+      "num": 137392,
+      "word": "顺风车司机卖乘客订单称女性为黑丝",
+      "onboard_time": 1749013521,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131790,
@@ -785,6 +841,14 @@
       "onboard_time": 1748997863,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125113,
+      "num": 125113,
+      "word": "Capper藏都不藏了",
+      "onboard_time": 1749012622,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 124204,
@@ -873,6 +937,14 @@
       "onboard_time": 1748967441,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113592,
+      "num": 113592,
+      "word": "无毛猫能有多油",
+      "onboard_time": 1749014659,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 113563,
@@ -969,6 +1041,14 @@
       "onboard_time": 1749001760,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103669,
+      "num": 167840,
+      "word": "减脂期6个瘦身技巧",
+      "onboard_time": 1749012082,
+      "rank": 39,
+      "category": "情感,运动健身"
     },
     {
       "raw_hot": 103479,
@@ -1107,6 +1187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 73875,
+      "num": 220570,
+      "word": "郑钦文报名3站草地赛事",
+      "onboard_time": 1749012143,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73470,
       "num": 75449,
       "word": "极致的BE是顶级HE",
@@ -1129,14 +1217,6 @@
       "onboard_time": 1748959524,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68335,
-      "num": 241221,
-      "word": "高铁为啥会上演飙车大片",
-      "onboard_time": 1749008181,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67381,
@@ -1259,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48033,
+      "num": 297147,
+      "word": "每分钟阅读6000字一天看72本书",
+      "onboard_time": 1749009202,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 46280,
       "num": 150854,
       "word": "足球概念再爆发",
@@ -1291,20 +1379,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 42419,
-      "num": 167840,
-      "word": "减脂期6个瘦身技巧",
-      "onboard_time": 1749012082,
-      "rank": 39,
-      "category": "情感,运动健身"
-    },
-    {
       "raw_hot": 40829,
       "num": 78515,
       "word": "外交部回应是否还会向更多国家免签",
       "onboard_time": 1748974635,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38691,
+      "num": 289020,
+      "word": "万一被蛇咬了怎么办",
+      "onboard_time": 1749013641,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38234,
@@ -1409,6 +1497,14 @@
       "onboard_time": 1748981114,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11414,
+      "num": 200198,
+      "word": "身体缺维生素会有什么表现",
+      "onboard_time": 1749013641,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 10293,
