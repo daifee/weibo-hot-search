@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/05 00:28:45 ~ 2025/06/05 03:35:45
+本榜单时间：2025/06/05 00:28:45 ~ 2025/06/05 04:23:25
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@ IG战胜FPX（热度：59422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%23" target="weibo">
+李在明就职演说（热度：21870）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98%E8%B0%88%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%92%AC%E8%BA%AB%E4%BA%A1%23" target="weibo">
 海南政协委员谈女子被咬身亡（热度：19716）
 </a>
@@ -393,14 +399,20 @@ IG战胜FPX（热度：59422）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%8E%BB20%E4%B8%AA%E6%9C%88%E5%8A%A0%E6%B2%99%E4%BC%A4%E4%BA%A1%E5%84%BF%E7%AB%A5%E8%BE%BE5%E4%B8%87%23" target="weibo">
-过去20个月加沙伤亡儿童达5万（热度：16257）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%A7%B0%E5%B0%86%E5%90%AF%E5%8A%A8%E7%B4%A7%E6%80%A5%E7%BB%8F%E6%B5%8E%E4%B8%93%E7%8F%AD%23" target="weibo">
+李在明称将启动紧急经济专班（热度：17286）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%23" target="weibo">
-李在明就职演说（热度：14302）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%8E%BB20%E4%B8%AA%E6%9C%88%E5%8A%A0%E6%B2%99%E4%BC%A4%E4%BA%A1%E5%84%BF%E7%AB%A5%E8%BE%BE5%E4%B8%87%23" target="weibo">
+过去20个月加沙伤亡儿童达5万（热度：16333）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E4%BB%BB%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
+外交部回应李在明就任韩国总统（热度：12712）
 </a>
 </li>
 
