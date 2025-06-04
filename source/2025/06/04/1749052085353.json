@@ -1,0 +1,410 @@
+{
+  "runTime": 1749052085353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1610027,
+        "num": 1610027,
+        "word": "白象食品道歉",
+        "onboard_time": 1749043403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1015899,
+        "num": 1015899,
+        "word": "被咬身亡女子家属回应为何不尸检",
+        "onboard_time": 1749047721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76452,
+        "num": 932619,
+        "word": "非遗文旅带火中国游",
+        "onboard_time": 1749046163,
+        "rank": 2,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 882775,
+        "num": 882775,
+        "word": "aespa回归预告",
+        "onboard_time": 1749050721,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 785159,
+        "num": 785159,
+        "word": "鹿晗怼脸比耶自拍",
+        "onboard_time": 1749047842,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602128,
+        "num": 602128,
+        "word": "白象多半桶方便面的多半是商标",
+        "onboard_time": 1749025279,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 32957,
+        "num": 577182,
+        "word": "高考心理调适指南",
+        "onboard_time": 1749046824,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 567391,
+        "num": 567391,
+        "word": "尽量不要穿洞洞鞋乘坐扶梯",
+        "onboard_time": 1749038480,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404384,
+        "num": 404384,
+        "word": "张馨予臀桥重量突破100斤",
+        "onboard_time": 1749042321,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97027,
+        "num": 402032,
+        "word": "砖厂用疑似智障人员干活给饭不给钱",
+        "onboard_time": 1749051081,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 942197,
+        "num": 401958,
+        "word": "何秋亊直播爆粗口",
+        "onboard_time": 1749041062,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399863,
+        "num": 399863,
+        "word": "周渝民说单纯想赚钱不用找我",
+        "onboard_time": 1749047122,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 398500,
+        "num": 398500,
+        "word": "七根心简 定档",
+        "onboard_time": 1749044481,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360221,
+        "num": 360221,
+        "word": "差点没认出陈妍希",
+        "onboard_time": 1749049223,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359193,
+        "num": 359193,
+        "word": "男友哽咽还原女友三亚被咬身亡过程",
+        "onboard_time": 1749013700,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361153,
+        "num": 354617,
+        "word": "何秋亊撇清与安静公主关系",
+        "onboard_time": 1749044364,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 329908,
+        "num": 329908,
+        "word": "花少7阵容",
+        "onboard_time": 1749027501,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319536,
+        "num": 319536,
+        "word": "警方通报税务人员被指在酒局冲突中身亡",
+        "onboard_time": 1749049164,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 311180,
+        "num": 311180,
+        "word": "加沙2名儿童取水时遭无人机杀害",
+        "onboard_time": 1749046282,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 273525,
+        "num": 273525,
+        "word": "白象多半系列面饼只多25g",
+        "onboard_time": 1749038359,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265292,
+        "num": 265292,
+        "word": "刘医生返乡记 肖战",
+        "onboard_time": 1749044783,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249827,
+        "num": 249827,
+        "word": "七根心简 云包场",
+        "onboard_time": 1749048262,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237480,
+        "num": 237480,
+        "word": "陷入我们的热恋声明",
+        "onboard_time": 1749041781,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216813,
+        "num": 216813,
+        "word": "女生患不死癌症自学插胃管一次成功",
+        "onboard_time": 1749042739,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193925,
+        "num": 193925,
+        "word": "IG野辅 别越",
+        "onboard_time": 1749050422,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189261,
+        "num": 189261,
+        "word": "43岁上海男子失业后逆袭",
+        "onboard_time": 1749046763,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179180,
+        "num": 179180,
+        "word": "早春晴朗 张晚意",
+        "onboard_time": 1749044002,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179010,
+        "num": 179010,
+        "word": "赛里木湖",
+        "onboard_time": 1749047601,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142883,
+        "num": 142883,
+        "word": "官方通报张家界天坑溶洞垃圾整治情况",
+        "onboard_time": 1749047842,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 128879,
+        "num": 128879,
+        "word": "刘冲等宁艺卓两年了",
+        "onboard_time": 1749037760,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 127763,
+        "num": 127763,
+        "word": "李在明宣誓就职仪式",
+        "onboard_time": 1749002720,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127220,
+        "num": 127220,
+        "word": "250只幼鸟被抓大鸟愤怒出击",
+        "onboard_time": 1749042440,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126695,
+        "num": 126695,
+        "word": "孙恩盛直播",
+        "onboard_time": 1749048922,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124282,
+        "num": 124282,
+        "word": "过去20个月加沙伤亡儿童达5万",
+        "onboard_time": 1749049881,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122756,
+        "num": 122756,
+        "word": "李在明将彻查世越号及梨泰院惨案",
+        "onboard_time": 1749038240,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120558,
+        "num": 120558,
+        "word": "蔡徐坤新歌 好听",
+        "onboard_time": 1749049583,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119951,
+        "num": 119951,
+        "word": "藏海传正经的扒完该不正经的了",
+        "onboard_time": 1749049822,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117207,
+        "num": 117207,
+        "word": "王安宇刘浩存能不能二搭",
+        "onboard_time": 1749046043,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60702,
+        "num": 117077,
+        "word": "银环蛇",
+        "onboard_time": 1749051861,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117028,
+        "num": 117028,
+        "word": "人没动但科目一自动答题考过了",
+        "onboard_time": 1749040700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114977,
+        "num": 114977,
+        "word": "湖南一砖厂涉嫌控制智障者干活",
+        "onboard_time": 1749044364,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 111368,
+        "num": 111368,
+        "word": "肖战贴加官实拍",
+        "onboard_time": 1749046523,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110010,
+        "num": 110010,
+        "word": "47岁河智苑近照",
+        "onboard_time": 1749039080,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105892,
+        "num": 105892,
+        "word": "长安的荔枝",
+        "onboard_time": 1749048383,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104776,
+        "num": 104776,
+        "word": "全红婵照片好有生命力",
+        "onboard_time": 1749046282,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104117,
+        "num": 104117,
+        "word": "南京发布急得连发2条微博",
+        "onboard_time": 1749040160,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104004,
+        "num": 104004,
+        "word": "德国vs葡萄牙",
+        "onboard_time": 1749049043,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103507,
+        "num": 103507,
+        "word": "王鹤棣cos韩国霸总",
+        "onboard_time": 1749036921,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103026,
+        "num": 103026,
+        "word": "Meiko 菜",
+        "onboard_time": 1749041062,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98605,
+        "num": 98605,
+        "word": "赴山海",
+        "onboard_time": 1749048144,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩互为重要近邻和合作伙伴#"
+    }
+  }
+}
