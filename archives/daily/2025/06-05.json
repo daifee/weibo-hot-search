@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749054525683,
+  "endTime": 1749055579003,
   "band_list": [
     {
       "raw_hot": 1186256,
@@ -11,19 +11,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 801983,
+      "num": 801983,
+      "word": "银环蛇",
+      "onboard_time": 1749051861,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 763092,
       "num": 763092,
       "word": "被咬身亡女子家属回应为何不尸检",
       "onboard_time": 1749047721,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 705518,
-      "num": 705518,
-      "word": "银环蛇",
-      "onboard_time": 1749051861,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -131,20 +131,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211515,
+      "num": 211515,
+      "word": "海南有74种蛇类毒蛇27种",
+      "onboard_time": 1749052280,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190809,
       "num": 190809,
       "word": "刘医生返乡记 肖战",
       "onboard_time": 1749044783,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187464,
-      "num": 187464,
-      "word": "海南有74种蛇类毒蛇27种",
-      "onboard_time": 1749052280,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185341,
@@ -315,19 +315,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 82706,
+      "num": 82706,
+      "word": "白宫宣布提高进口钢铝关税至50%",
+      "onboard_time": 1749053899,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81228,
       "num": 81228,
       "word": "李在明宣誓就职仪式",
       "onboard_time": 1749002720,
       "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 80154,
-      "num": 80154,
-      "word": "白宫宣布提高进口钢铝关税至50%",
-      "onboard_time": 1749053899,
-      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -395,17 +395,52 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 59422,
+      "num": 59422,
+      "word": "IG战胜FPX",
+      "onboard_time": 1749045203,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 57704,
+      "num": 57704,
+      "word": "00后失传的切菜小技巧",
+      "onboard_time": 1749052161,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 56162,
+      "num": 56162,
+      "word": "王钰栋将首发国足生死战",
+      "onboard_time": 1749053480,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47851,
       "num": 723883,
       "word": "非遗文旅带火中国游",
       "onboard_time": 1749046163,
       "rank": 2,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 32789,
+      "num": 228150,
+      "word": "5日17时57分将迎来芒种节气",
+      "onboard_time": 1749054740,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中韩互为重要近邻和合作伙伴#"
+    },
+    {
+      "word": "#跟着总书记探寻中华文明#"
     }
   ]
 }

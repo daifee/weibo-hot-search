@@ -1,0 +1,410 @@
+{
+  "runTime": 1749055579003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 919207,
+        "num": 919207,
+        "word": "白象食品道歉",
+        "onboard_time": 1749043403,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801983,
+        "num": 801983,
+        "word": "银环蛇",
+        "onboard_time": 1749051861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33073,
+        "num": 659926,
+        "word": "非遗文旅带火中国游",
+        "onboard_time": 1749046163,
+        "rank": 2,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 559753,
+        "num": 559753,
+        "word": "被咬身亡女子家属回应为何不尸检",
+        "onboard_time": 1749047721,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454708,
+        "num": 454708,
+        "word": "鹿晗怼脸比耶自拍",
+        "onboard_time": 1749047842,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420181,
+        "num": 420181,
+        "word": "aespa回归预告",
+        "onboard_time": 1749050721,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345051,
+        "num": 345051,
+        "word": "尽量不要穿洞洞鞋乘坐扶梯",
+        "onboard_time": 1749038480,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250805,
+        "num": 250805,
+        "word": "何秋亊撇清与安静公主关系",
+        "onboard_time": 1749044364,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248319,
+        "num": 248319,
+        "word": "张馨予臀桥重量突破100斤",
+        "onboard_time": 1749042321,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32789,
+        "num": 228150,
+        "word": "5日17时57分将迎来芒种节气",
+        "onboard_time": 1749054740,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218308,
+        "num": 218308,
+        "word": "七根心简 定档",
+        "onboard_time": 1749044481,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215990,
+        "num": 215990,
+        "word": "周渝民说单纯想赚钱不用找我",
+        "onboard_time": 1749047122,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 499545,
+        "num": 215460,
+        "word": "何秋亊直播爆粗口",
+        "onboard_time": 1749041062,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211515,
+        "num": 211515,
+        "word": "海南有74种蛇类毒蛇27种",
+        "onboard_time": 1749052280,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196018,
+        "num": 196018,
+        "word": "男友哽咽还原女友三亚被咬身亡过程",
+        "onboard_time": 1749013700,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180700,
+        "num": 180700,
+        "word": "白象多半系列面饼只多25g",
+        "onboard_time": 1749038359,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171531,
+        "num": 171531,
+        "word": "白象多半桶方便面的多半是商标",
+        "onboard_time": 1749025279,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 143732,
+        "num": 143732,
+        "word": "曹骏谈年少爆红后突然消失",
+        "onboard_time": 1749052460,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142029,
+        "num": 142029,
+        "word": "花少7阵容",
+        "onboard_time": 1749027501,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139538,
+        "num": 139538,
+        "word": "IG野辅 别越",
+        "onboard_time": 1749050422,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157465,
+        "num": 138117,
+        "word": "女生患不死癌症自学插胃管一次成功",
+        "onboard_time": 1749042739,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141001,
+        "num": 135138,
+        "word": "陷入我们的热恋声明",
+        "onboard_time": 1749041781,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130681,
+        "num": 130681,
+        "word": "刘医生返乡记 肖战",
+        "onboard_time": 1749044783,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126711,
+        "num": 126711,
+        "word": "差点没认出陈妍希",
+        "onboard_time": 1749049223,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119764,
+        "num": 119764,
+        "word": "43岁上海男子失业后逆袭",
+        "onboard_time": 1749046763,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116261,
+        "num": 116261,
+        "word": "七根心简 云包场",
+        "onboard_time": 1749048262,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98624,
+        "num": 98624,
+        "word": "蔡徐坤新歌 好听",
+        "onboard_time": 1749049583,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97373,
+        "num": 97373,
+        "word": "王安宇刘浩存能不能二搭",
+        "onboard_time": 1749046043,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94269,
+        "num": 94269,
+        "word": "加沙2名儿童取水时遭无人机杀害",
+        "onboard_time": 1749046282,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90229,
+        "num": 90229,
+        "word": "肖战藏海怕惊醒美梦又怕困在虚妄",
+        "onboard_time": 1749053899,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89230,
+        "num": 89230,
+        "word": "早春晴朗 张晚意",
+        "onboard_time": 1749044002,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88076,
+        "num": 88076,
+        "word": "人没动但科目一自动答题考过了",
+        "onboard_time": 1749040700,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88009,
+        "num": 88009,
+        "word": "250只幼鸟被抓大鸟愤怒出击",
+        "onboard_time": 1749042440,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87811,
+        "num": 87811,
+        "word": "李在明将彻查世越号及梨泰院惨案",
+        "onboard_time": 1749038240,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82706,
+        "num": 82706,
+        "word": "白宫宣布提高进口钢铝关税至50%",
+        "onboard_time": 1749053899,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81619,
+        "num": 81619,
+        "word": "砖厂用疑似智障人员干活给饭不给钱",
+        "onboard_time": 1749051081,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 72742,
+        "num": 72742,
+        "word": "王鹤棣cos韩国霸总",
+        "onboard_time": 1749036921,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71767,
+        "num": 71767,
+        "word": "李在明宣誓就职仪式",
+        "onboard_time": 1749002720,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67949,
+        "num": 67949,
+        "word": "南京发布急得连发2条微博",
+        "onboard_time": 1749040160,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67939,
+        "num": 67939,
+        "word": "藏海传正经的扒完该不正经的了",
+        "onboard_time": 1749049822,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63304,
+        "num": 63304,
+        "word": "刘冲等宁艺卓两年了",
+        "onboard_time": 1749037760,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 62447,
+        "num": 62447,
+        "word": "47岁河智苑近照",
+        "onboard_time": 1749039080,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60572,
+        "num": 60572,
+        "word": "朱茵53岁状态",
+        "onboard_time": 1749052760,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59422,
+        "num": 59422,
+        "word": "IG战胜FPX",
+        "onboard_time": 1749045203,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58681,
+        "num": 58681,
+        "word": "孙恩盛直播",
+        "onboard_time": 1749048922,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 57704,
+        "num": 57704,
+        "word": "00后失传的切菜小技巧",
+        "onboard_time": 1749052161,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 56966,
+        "num": 56966,
+        "word": "湖南一砖厂涉嫌控制智障者干活",
+        "onboard_time": 1749044364,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 56162,
+        "num": 56162,
+        "word": "王钰栋将首发国足生死战",
+        "onboard_time": 1749053480,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56011,
+        "num": 56011,
+        "word": "Meiko 菜",
+        "onboard_time": 1749041062,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54895,
+        "num": 54895,
+        "word": "赛里木湖",
+        "onboard_time": 1749047601,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}
