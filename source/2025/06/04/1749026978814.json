@@ -1,0 +1,410 @@
+{
+  "runTime": 1749026978814,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1676071,
+        "num": 1676071,
+        "word": "白象多半桶方便面的多半是商标",
+        "onboard_time": 1749025279,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 577291,
+        "num": 577291,
+        "word": "三亚常见毒蛇为竹叶青眼镜蛇",
+        "onboard_time": 1749016221,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13665,
+        "num": 577163,
+        "word": "8组数字看中国消费向新而行",
+        "onboard_time": 1749026542,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1324988,
+        "num": 567854,
+        "word": "男友哽咽还原女友三亚被咬身亡过程",
+        "onboard_time": 1749013700,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 812882,
+        "num": 558984,
+        "word": "K总回应何秋亊争议",
+        "onboard_time": 1749021860,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 641634,
+        "num": 556332,
+        "word": "蜜雪冰城爆单女店员忙到崩溃落泪",
+        "onboard_time": 1749010582,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593074,
+        "num": 548675,
+        "word": "那英 花少",
+        "onboard_time": 1749023721,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545624,
+        "num": 545624,
+        "word": "王楚钦问献花小女孩花不给我了吗",
+        "onboard_time": 1749024020,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490217,
+        "num": 490217,
+        "word": "李在明宣誓就职仪式",
+        "onboard_time": 1749002720,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 434638,
+        "num": 434638,
+        "word": "2025出圈台词",
+        "onboard_time": 1749022160,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 812555,
+        "num": 432921,
+        "word": "泡泡涨价",
+        "onboard_time": 1749020359,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 532716,
+        "num": 429324,
+        "word": "陈学冬称希望是最后一次手术了",
+        "onboard_time": 1749021141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494949,
+        "num": 426074,
+        "word": "韩国媒体称李在明当选韩国总统",
+        "onboard_time": 1748962645,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365981,
+        "num": 424784,
+        "word": "赵今麦 脱胎换骨",
+        "onboard_time": 1749008300,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28509,
+        "num": 422418,
+        "word": "三亚回应停车场到景区接驳收10元",
+        "onboard_time": 1749026121,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240388,
+        "num": 417078,
+        "word": "传下去王爷有孕期焦虑症",
+        "onboard_time": 1749023659,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238216,
+        "num": 414459,
+        "word": "卫兰歌手补位",
+        "onboard_time": 1749022041,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25923,
+        "num": 412494,
+        "word": "教育部发布2025年高考问答",
+        "onboard_time": 1749026721,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67307,
+        "num": 409883,
+        "word": "出逃卡皮巴拉60天后回园增肥1斤",
+        "onboard_time": 1749025640,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19735,
+        "num": 406138,
+        "word": "怎么识别毒蛇",
+        "onboard_time": 1749026180,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 405165,
+        "num": 405165,
+        "word": "医生解读银环蛇咬伤症状",
+        "onboard_time": 1749023120,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390169,
+        "num": 390169,
+        "word": "140天韩国换了三任总统",
+        "onboard_time": 1749023301,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 318639,
+        "num": 318639,
+        "word": "小伙上班被迫吸4年二手烟疑患肺癌",
+        "onboard_time": 1749015560,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272450,
+        "num": 272450,
+        "word": "四川最全抗蛇毒血清库",
+        "onboard_time": 1749026000,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232323,
+        "num": 232323,
+        "word": "云合",
+        "onboard_time": 1749025460,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201210,
+        "num": 201210,
+        "word": "结石姐称确诊早期乳腺癌",
+        "onboard_time": 1749022460,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200792,
+        "num": 200792,
+        "word": "肖战谈第一次同期声古装感受",
+        "onboard_time": 1749026481,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200354,
+        "num": 200354,
+        "word": "柯颖 花少",
+        "onboard_time": 1749026661,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179045,
+        "num": 179045,
+        "word": "曹骏说曾为省钱学做饭不点外卖",
+        "onboard_time": 1749026542,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178986,
+        "num": 178986,
+        "word": "四川拟将生育假最高延长至150天",
+        "onboard_time": 1749022401,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177145,
+        "num": 177145,
+        "word": "藏海把庄二当侯府天降紫微星整",
+        "onboard_time": 1749022642,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170882,
+        "num": 170882,
+        "word": "女游客家属暂不考虑尸检",
+        "onboard_time": 1749021741,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162717,
+        "num": 162717,
+        "word": "何秋亊演唱会 全闭麦",
+        "onboard_time": 1749008422,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151705,
+        "num": 151705,
+        "word": "李在明当选韩国不会再完全倒向美国",
+        "onboard_time": 1749025221,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20972,
+        "num": 148359,
+        "word": "如何让自己长期保持生命力",
+        "onboard_time": 1749025759,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146104,
+        "num": 146104,
+        "word": "藏海传云合",
+        "onboard_time": 1749026840,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142037,
+        "num": 142037,
+        "word": "不要被领导厌恶就直接提离职",
+        "onboard_time": 1749023061,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140517,
+        "num": 140517,
+        "word": "徐明浩宋雨琦cha了thunder",
+        "onboard_time": 1749026780,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23887,
+        "num": 138398,
+        "word": "什么样的投资才是适合你的",
+        "onboard_time": 1749023840,
+        "rank": 38,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 137206,
+        "num": 137206,
+        "word": "中韩互为重要近邻和合作伙伴",
+        "onboard_time": 1749021621,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134332,
+        "num": 134332,
+        "word": "向佐终于遇到了舒适朋友圈",
+        "onboard_time": 1749018381,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127068,
+        "num": 127068,
+        "word": "王安宇亲空气还要翻面",
+        "onboard_time": 1749013222,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123258,
+        "num": 123258,
+        "word": "肖战藏海传超18种非遗技艺",
+        "onboard_time": 1749017421,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122344,
+        "num": 122344,
+        "word": "宋佳晒健身照",
+        "onboard_time": 1749026301,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116124,
+        "num": 116124,
+        "word": "马天宇 撕拉片最大受益者",
+        "onboard_time": 1749015261,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115443,
+        "num": 115443,
+        "word": "李在明做童工时的照片曝光",
+        "onboard_time": 1749023061,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113836,
+        "num": 113836,
+        "word": "虞书欣翟潇闻 一念江南",
+        "onboard_time": 1749023422,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112194,
+        "num": 112194,
+        "word": "99岁老人上树摘枇杷被困",
+        "onboard_time": 1749020480,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106286,
+        "num": 106286,
+        "word": "江苏足协副主席电话被打爆",
+        "onboard_time": 1749015801,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33951,
+        "num": 105310,
+        "word": "高考牢记4个不得",
+        "onboard_time": 1749007101,
+        "rank": 49,
+        "category": "民生新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}

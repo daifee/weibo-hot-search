@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749026101288,
+  "endTime": 1749026978814,
   "band_list": [
     {
       "raw_hot": 2907108,
@@ -33,6 +33,14 @@
       "onboard_time": 1748962645,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1676071,
+      "num": 1676071,
+      "word": "白象多半桶方便面的多半是商标",
+      "onboard_time": 1749025279,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1241877,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405165,
+      "num": 488801,
+      "word": "医生解读银环蛇咬伤症状",
+      "onboard_time": 1749023120,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404762,
       "num": 404762,
       "word": "马斯克怒批特朗普法案",
@@ -347,8 +363,8 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 383068,
-      "num": 383068,
+      "raw_hot": 390169,
+      "num": 390169,
       "word": "140天韩国换了三任总统",
       "onboard_time": 1749023301,
       "rank": 14,
@@ -403,14 +419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 337918,
-      "num": 488801,
-      "word": "医生解读银环蛇咬伤症状",
-      "onboard_time": 1749023120,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 337673,
       "num": 337673,
       "word": "女子为祈福放生2.5万斤外来鲇鱼",
@@ -433,14 +441,6 @@
       "onboard_time": 1748991678,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329127,
-      "num": 329127,
-      "word": "白象多半桶方便面的多半是商标",
-      "onboard_time": 1749025279,
-      "rank": 20,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 325960,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 305001,
-      "num": 345221,
+      "num": 414459,
       "word": "卫兰歌手补位",
       "onboard_time": 1749022041,
       "rank": 9,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 283437,
-      "num": 341449,
+      "num": 417078,
       "word": "传下去王爷有孕期焦虑症",
       "onboard_time": 1749023659,
       "rank": 17,
@@ -513,6 +513,14 @@
       "onboard_time": 1749011061,
       "rank": 32,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 272450,
+      "num": 272450,
+      "word": "四川最全抗蛇毒血清库",
+      "onboard_time": 1749026000,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272273,
@@ -627,6 +635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 232323,
+      "num": 232323,
+      "word": "云合",
+      "onboard_time": 1749025460,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231547,
       "num": 128630,
       "word": "男子刀片嗓以为感冒竟差点丧命",
@@ -739,12 +755,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 200957,
-      "num": 200957,
-      "word": "云合",
-      "onboard_time": 1749025460,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 201210,
+      "num": 201210,
+      "word": "结石姐称确诊早期乳腺癌",
+      "onboard_time": 1749022460,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 200823,
@@ -755,20 +771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200792,
+      "num": 200792,
+      "word": "肖战谈第一次同期声古装感受",
+      "onboard_time": 1749026481,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200354,
+      "num": 200354,
+      "word": "柯颖 花少",
+      "onboard_time": 1749026661,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196600,
       "num": 362263,
       "word": "雷军谈小米3nm自研芯片",
       "onboard_time": 1749005841,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 195923,
-      "num": 195923,
-      "word": "结石姐称确诊早期乳腺癌",
-      "onboard_time": 1749022460,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 187720,
@@ -793,6 +817,14 @@
       "onboard_time": 1749012022,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179045,
+      "num": 179045,
+      "word": "曹骏说曾为省钱学做饭不点外卖",
+      "onboard_time": 1749026542,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 177633,
@@ -971,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151705,
+      "num": 151705,
+      "word": "李在明当选韩国不会再完全倒向美国",
+      "onboard_time": 1749025221,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149949,
       "num": 200055,
       "word": "截瘫女网红与前夫借贷纠纷开庭",
@@ -1027,6 +1067,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 146104,
+      "num": 146104,
+      "word": "藏海传云合",
+      "onboard_time": 1749026840,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146024,
       "num": 193789,
       "word": "高考温书假",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1749007281,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 140517,
+      "num": 140517,
+      "word": "徐明浩宋雨琦cha了thunder",
+      "onboard_time": 1749026780,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 140498,
@@ -1121,14 +1177,6 @@
       "onboard_time": 1749013521,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137271,
-      "num": 137271,
-      "word": "李在明当选韩国不会再完全倒向美国",
-      "onboard_time": 1749025221,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 135328,
@@ -1243,6 +1291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 122344,
+      "num": 122344,
+      "word": "宋佳晒健身照",
+      "onboard_time": 1749026301,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122129,
       "num": 300862,
       "word": "夫妻把小吃店开进了当地初中教材",
@@ -1289,14 +1345,6 @@
       "onboard_time": 1749003800,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 118045,
-      "num": 118045,
-      "word": "四川最全抗蛇毒血清库",
-      "onboard_time": 1749026000,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116616,
@@ -1707,6 +1755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67307,
+      "num": 409883,
+      "word": "出逃卡皮巴拉60天后回园增肥1斤",
+      "onboard_time": 1749025640,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67047,
       "num": 297147,
       "word": "每分钟阅读6000字一天看72本书",
@@ -1899,14 +1955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40886,
-      "num": 333278,
-      "word": "出逃卡皮巴拉60天后回园增肥1斤",
-      "onboard_time": 1749025640,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40829,
       "num": 78515,
       "word": "外交部回应是否还会向更多国家免签",
@@ -1971,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28509,
+      "num": 422418,
+      "word": "三亚回应停车场到景区接驳收10元",
+      "onboard_time": 1749026121,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28489,
       "num": 40681,
       "word": "酱园弄 章子怡出场",
@@ -2019,6 +2075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 25923,
+      "num": 412494,
+      "word": "教育部发布2025年高考问答",
+      "onboard_time": 1749026721,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 25071,
       "num": 135659,
       "word": "骨科专家详解膝盖疼痛疗愈方法",
@@ -2035,12 +2099,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20972,
+      "num": 197350,
+      "word": "如何让自己长期保持生命力",
+      "onboard_time": 1749025759,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 20048,
       "num": 143296,
       "word": "活出生命的8848时刻",
       "onboard_time": 1749022520,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19735,
+      "num": 406138,
+      "word": "怎么识别毒蛇",
+      "onboard_time": 1749026180,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 18941,
@@ -2083,6 +2163,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 13665,
+      "num": 577163,
+      "word": "8组数字看中国消费向新而行",
+      "onboard_time": 1749026542,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 13624,
       "num": 16103,
       "word": "UCLA计算机硕士在巴黎上学的一天",
@@ -2105,14 +2193,6 @@
       "onboard_time": 1749013641,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 11034,
-      "num": 197350,
-      "word": "如何让自己长期保持生命力",
-      "onboard_time": 1749025759,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 10293,
