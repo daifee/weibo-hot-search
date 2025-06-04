@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749007345700,
+  "endTime": 1749008105167,
   "band_list": [
     {
       "raw_hot": 2587797,
@@ -16,6 +16,22 @@
       "word": "韩国媒体称李在明当选韩国总统",
       "onboard_time": 1748962645,
       "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1241877,
+      "num": 361953,
+      "word": "当事人谈被血友病小孩鬼探头索赔47万",
+      "onboard_time": 1749006499,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1078006,
+      "num": 1138183,
+      "word": "李在明宣誓就职仪式",
+      "onboard_time": 1749002720,
+      "rank": 11,
       "category": "国际时政"
     },
     {
@@ -43,14 +59,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 882321,
-      "num": 1138183,
-      "word": "李在明宣誓就职仪式",
-      "onboard_time": 1749002720,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 880084,
       "num": 1130430,
       "word": "亚朵酒店被曝出现医院枕套",
@@ -67,14 +75,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 805068,
-      "num": 361953,
-      "word": "当事人谈被血友病小孩鬼探头索赔47万",
-      "onboard_time": 1749006499,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 801467,
       "num": 334177,
       "word": "藏海传2",
@@ -83,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 655974,
-      "num": 655974,
+      "raw_hot": 678956,
+      "num": 1108633,
       "word": "藏海香暗荼孩子该姓什么",
       "onboard_time": 1749003380,
       "rank": 7,
@@ -107,8 +107,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 513079,
-      "num": 513079,
+      "raw_hot": 530035,
+      "num": 344834,
+      "word": "新人结婚班主任致辞称多亏当年失职",
+      "onboard_time": 1749001160,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 522503,
+      "num": 522503,
       "word": "亚朵酒店致歉",
       "onboard_time": 1749003440,
       "rank": 31,
@@ -121,14 +129,6 @@
       "onboard_time": 1748965162,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 467225,
-      "num": 344834,
-      "word": "新人结婚班主任致辞称多亏当年失职",
-      "onboard_time": 1749001160,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 467159,
@@ -145,6 +145,14 @@
       "onboard_time": 1748997262,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 460149,
+      "num": 358525,
+      "word": "何洁陪周扬青上班的一天",
+      "onboard_time": 1749006080,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 422118,
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367494,
+      "num": 337353,
+      "word": "回看藏海传第一集",
+      "onboard_time": 1749004820,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362702,
       "num": 362702,
       "word": "球队经理回应樊振东德甲待遇",
@@ -211,28 +227,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 358525,
-      "num": 358525,
-      "word": "何洁陪周扬青上班的一天",
-      "onboard_time": 1749006080,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 337673,
       "num": 337673,
       "word": "女子为祈福放生2.5万斤外来鲇鱼",
       "onboard_time": 1748960365,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337353,
-      "num": 337353,
-      "word": "回看藏海传第一集",
-      "onboard_time": 1749004820,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 335653,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212197,
+      "num": 177210,
+      "word": "武艺想邀请孙燕姿参加音综",
+      "onboard_time": 1749006981,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207220,
       "num": 162673,
       "word": "迪丽热巴回应张馨予",
@@ -411,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196600,
+      "num": 362263,
+      "word": "雷军谈小米3nm自研芯片",
+      "onboard_time": 1749005841,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 186575,
       "num": 259957,
       "word": "李在明当选后的目标",
@@ -425,14 +441,6 @@
       "onboard_time": 1748993119,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 169940,
-      "num": 362263,
-      "word": "雷军谈小米3nm自研芯片",
-      "onboard_time": 1749005841,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 166455,
@@ -473,6 +481,14 @@
       "onboard_time": 1748958023,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160082,
+      "num": 228895,
+      "word": "九旬奶奶每天坚持做200个俯卧撑",
+      "onboard_time": 1749001760,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154482,
@@ -539,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137752,
+      "num": 850390,
+      "word": "2025年高考注意事项",
+      "onboard_time": 1748960065,
+      "rank": 2,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 131408,
       "num": 131408,
       "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
@@ -563,20 +587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128228,
+      "num": 183463,
+      "word": "才看到陈学冬更新的动态",
+      "onboard_time": 1749005540,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126189,
       "num": 149112,
       "word": "被李艺彤近距离美貌暴击了",
       "onboard_time": 1748997863,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124561,
-      "num": 850390,
-      "word": "2025年高考注意事项",
-      "onboard_time": 1748960065,
-      "rank": 2,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 124204,
@@ -641,14 +665,6 @@
       "onboard_time": 1749003800,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 116799,
-      "num": 116799,
-      "word": "武艺想邀请孙燕姿参加音综",
-      "onboard_time": 1749006981,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 116616,
@@ -731,6 +747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109503,
+      "num": 109503,
+      "word": "高考时间",
+      "onboard_time": 1749004820,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 109295,
       "num": 109295,
       "word": "距高考只有3天",
@@ -739,12 +763,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 104875,
-      "num": 228895,
-      "word": "九旬奶奶每天坚持做200个俯卧撑",
-      "onboard_time": 1749001760,
+      "raw_hot": 108826,
+      "num": 108826,
+      "word": "45岁姚明训练照曝光",
+      "onboard_time": 1749006981,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 104068,
@@ -803,14 +827,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 96012,
-      "num": 96012,
-      "word": "45岁姚明训练照曝光",
-      "onboard_time": 1749006981,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94938,
       "num": 93802,
       "word": "一条短片了解韩国当选总统李在明",
@@ -827,6 +843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 89201,
+      "num": 89201,
+      "word": "全伊伦演的新帝",
+      "onboard_time": 1749007820,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86505,
       "num": 163854,
       "word": "高考加油BGM",
@@ -835,18 +859,18 @@
       "category": "教育"
     },
     {
+      "raw_hot": 84653,
+      "num": 643042,
+      "word": "高考牢记4个不得",
+      "onboard_time": 1749007101,
+      "rank": 2,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 83759,
       "num": 86669,
       "word": "陈粒 我是北京孩子",
       "onboard_time": 1748957362,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 81752,
-      "num": 163886,
-      "word": "才看到陈学冬更新的动态",
-      "onboard_time": 1749005540,
       "rank": 35,
       "category": "艺人"
     },
@@ -1043,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34208,
+      "num": 190707,
+      "word": "李在明称将同朝鲜展开对话",
+      "onboard_time": 1749007281,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33601,
       "num": 44032,
       "word": "李嘉鑫长文告别陆烟",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1748972176,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 27451,
-      "num": 643042,
-      "word": "高考牢记4个不得",
-      "onboard_time": 1749007101,
-      "rank": 2,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 26389,
@@ -1091,6 +1115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16189,
+      "num": 137083,
+      "word": "输出型爱好真的能让人更自信吗",
+      "onboard_time": 1749008002,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15274,
       "num": 19388,
       "word": "没有人能心平气和看完藏海传38集",
@@ -1107,12 +1139,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 10106,
-      "num": 106657,
-      "word": "李在明称将同朝鲜展开对话",
-      "onboard_time": 1749007281,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 10293,
+      "num": 175891,
+      "word": "外来鱼如何威胁生态平衡",
+      "onboard_time": 1749007580,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 9158,
+      "num": 177970,
+      "word": "端午文旅消费主打一个新字",
+      "onboard_time": 1749007941,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9147,
@@ -1129,6 +1169,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#跟着总书记探寻中华文明#"
     }
   ]
 }
