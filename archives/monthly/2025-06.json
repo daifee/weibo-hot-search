@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749044395306,
+  "endTime": 1749045101217,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -249,6 +249,14 @@
       "onboard_time": 1748763499,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1427688,
+      "num": 1427688,
+      "word": "白象食品道歉",
+      "onboard_time": 1749043403,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1424804,
@@ -827,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 787766,
+      "num": 787766,
+      "word": "陷入我们的热恋声明",
+      "onboard_time": 1749041781,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 786695,
       "num": 476603,
       "word": "黄子韬徐艺洋在商量婚礼了",
@@ -939,14 +955,6 @@
       "category": "国际时政,军事"
     },
     {
-      "raw_hot": 729877,
-      "num": 729877,
-      "word": "陷入我们的热恋声明",
-      "onboard_time": 1749041781,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 718256,
       "num": 718256,
       "word": "酱园弄悬案全员亮相",
@@ -1033,6 +1041,14 @@
       "onboard_time": 1748930900,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 660307,
+      "num": 660307,
+      "word": "何秋亊撇清与安静公主关系",
+      "onboard_time": 1749044364,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 658988,
@@ -1380,7 +1396,7 @@
     },
     {
       "raw_hot": 560747,
-      "num": 267417,
+      "num": 335061,
       "word": "女生患不死癌症自学插胃管一次成功",
       "onboard_time": 1749042739,
       "rank": 20,
@@ -1481,14 +1497,6 @@
       "onboard_time": 1748869521,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 520431,
-      "num": 391858,
-      "word": "何秋亊撇清与安静公主关系",
-      "onboard_time": 1749044364,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 520289,
@@ -1617,6 +1625,14 @@
       "onboard_time": 1748937920,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488873,
+      "num": 488873,
+      "word": "白象多半系列面饼只多25g",
+      "onboard_time": 1749038359,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 485567,
@@ -1833,14 +1849,6 @@
       "onboard_time": 1749028220,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 446470,
-      "num": 446470,
-      "word": "白象多半系列面饼只多25g",
-      "onboard_time": 1749038359,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 439676,
@@ -2299,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370081,
+      "num": 374616,
+      "word": "人没动但科目一自动答题考过了",
+      "onboard_time": 1749040700,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367494,
       "num": 337353,
       "word": "回看藏海传第一集",
@@ -2523,14 +2539,6 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 340836,
-      "num": 374616,
-      "word": "人没动但科目一自动答题考过了",
-      "onboard_time": 1749040700,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 339821,
       "num": 284342,
       "word": "有存款和无存款的区别",
@@ -2561,6 +2569,14 @@
       "onboard_time": 1748960365,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336401,
+      "num": 336401,
+      "word": "七根心简 定档",
+      "onboard_time": 1749044481,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 336226,
@@ -2697,14 +2713,6 @@
       "onboard_time": 1748771000,
       "rank": 15,
       "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 320155,
-      "num": 574790,
-      "word": "白象食品道歉",
-      "onboard_time": 1749043403,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 319414,
@@ -3219,6 +3227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 272903,
+      "num": 272903,
+      "word": "我同意李沁上花少",
+      "onboard_time": 1749042862,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272726,
       "num": 202172,
       "word": "严浩翔通杀这赛季",
@@ -3233,6 +3249,14 @@
       "onboard_time": 1748786901,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272302,
+      "num": 272302,
+      "word": "早春晴朗 张晚意",
+      "onboard_time": 1749044002,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 270077,
@@ -3321,14 +3345,6 @@
       "onboard_time": 1749027981,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262999,
-      "num": 262999,
-      "word": "我同意李沁上花少",
-      "onboard_time": 1749042862,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 262614,
@@ -3481,6 +3497,14 @@
       "onboard_time": 1748966841,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252780,
+      "num": 252780,
+      "word": "Meiko 菜",
+      "onboard_time": 1749041062,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 252129,
@@ -3675,14 +3699,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 239097,
-      "num": 239097,
-      "word": "Meiko 菜",
-      "onboard_time": 1749041062,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 238044,
       "num": 238044,
       "word": "藏海传灯塔分时破千万",
@@ -3713,6 +3729,14 @@
       "onboard_time": 1748956462,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236723,
+      "num": 236723,
+      "word": "男子被蛇咬想抓蛇又被咬",
+      "onboard_time": 1749040580,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235704,
@@ -4243,6 +4267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208526,
+      "num": 208526,
+      "word": "FPX对战IG",
+      "onboard_time": 1749032180,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208373,
       "num": 241706,
       "word": "藏海汗如雨下",
@@ -4379,20 +4411,20 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 203900,
+      "num": 203900,
+      "word": "刘医生返乡记 肖战",
+      "onboard_time": 1749044783,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203767,
       "num": 203767,
       "word": "赵今麦复古甜心造型",
       "onboard_time": 1748935521,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203560,
-      "num": 203560,
-      "word": "男子被蛇咬想抓蛇又被咬",
-      "onboard_time": 1749040580,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203387,
@@ -4713,6 +4745,14 @@
       "onboard_time": 1748949021,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192919,
+      "num": 192919,
+      "word": "医生说被毒蛇咬后3要3不要",
+      "onboard_time": 1749038900,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192580,
@@ -5129,14 +5169,6 @@
       "onboard_time": 1748846541,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 182871,
-      "num": 182871,
-      "word": "早春晴朗 张晚意",
-      "onboard_time": 1749044002,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 182844,
@@ -5681,14 +5713,6 @@
       "onboard_time": 1748722453,
       "rank": 45,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 167235,
-      "num": 167235,
-      "word": "医生说被毒蛇咬后3要3不要",
-      "onboard_time": 1749038900,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 167089,
@@ -6931,6 +6955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141345,
+      "num": 141345,
+      "word": "肖战说拍藏海传付出最多的是台词",
+      "onboard_time": 1749044603,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141331,
       "num": 141331,
       "word": "15岁少年因发出笑声遭路人围殴",
@@ -7451,6 +7483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133188,
+      "num": 133188,
+      "word": "苏超梗密到不知道先笑哪个",
+      "onboard_time": 1749045023,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132909,
       "num": 132909,
       "word": "博士很有用的",
@@ -7923,6 +7963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125375,
+      "num": 125375,
+      "word": "高铁站 不能打伞",
+      "onboard_time": 1749044242,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125208,
       "num": 125208,
       "word": "语文就适合晚上考",
@@ -8033,14 +8081,6 @@
       "onboard_time": 1748940860,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 123666,
-      "num": 123666,
-      "word": "FPX对战IG",
-      "onboard_time": 1749032180,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 123652,
@@ -8563,6 +8603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116357,
+      "num": 159791,
+      "word": "用曹静贤视角打开藏海传",
+      "onboard_time": 1749044302,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116277,
       "num": 116277,
       "word": "刘冲提前预告VOGUE海边假日",
@@ -8993,14 +9041,6 @@
       "onboard_time": 1748786242,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 110371,
-      "num": 110371,
-      "word": "高铁站 不能打伞",
-      "onboard_time": 1749044242,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 110299,
@@ -10307,6 +10347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91870,
+      "num": 540529,
+      "word": "中国女排新周期首秀开门红",
+      "onboard_time": 1749043582,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91842,
       "num": 91842,
       "word": "杨肸子从端午播到儿童节",
@@ -11003,14 +11051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 76062,
-      "num": 540529,
-      "word": "中国女排新周期首秀开门红",
-      "onboard_time": 1749043582,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75977,
       "num": 75977,
       "word": "赵小童收菜排练",
@@ -11196,7 +11236,7 @@
     },
     {
       "raw_hot": 71662,
-      "num": 270158,
+      "num": 335063,
       "word": "早睡1小时会带来哪些身体变化",
       "onboard_time": 1749044002,
       "rank": 19,
@@ -11707,6 +11747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56225,
+      "num": 384998,
+      "word": "湖南一砖厂涉嫌控制智障者干活",
+      "onboard_time": 1749044364,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 55968,
       "num": 212557,
       "word": "高考前发热怎么办",
@@ -11993,6 +12041,14 @@
       "onboard_time": 1748747361,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48892,
+      "num": 693801,
+      "word": "92岁科学家谈起跨栏纪录满是骄傲",
+      "onboard_time": 1749044603,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48297,
@@ -12612,7 +12668,7 @@
     },
     {
       "raw_hot": 34251,
-      "num": 1177088,
+      "num": 1228544,
       "word": "8组数字看中国消费向新而行",
       "onboard_time": 1749026542,
       "rank": 2,
@@ -13011,6 +13067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 27650,
+      "num": 175664,
+      "word": "进击的巨人阿尼cos",
+      "onboard_time": 1749044663,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 27324,
       "num": 251399,
       "word": "哪些动作可以改善手指腱鞘炎",
@@ -13353,14 +13417,6 @@
       "onboard_time": 1749036441,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 21592,
-      "num": 169767,
-      "word": "湖南一砖厂涉嫌控制智障者干活",
-      "onboard_time": 1749044364,
-      "rank": 36,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 21470,
