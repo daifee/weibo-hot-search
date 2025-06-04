@@ -1,6 +1,6 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749019850928,
+  "endTime": 1749021976139,
   "band_list": [
     {
       "raw_hot": 2907108,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 963952,
+      "num": 265800,
+      "word": "泡泡涨价",
+      "onboard_time": 1749020359,
+      "rank": 10,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 925576,
       "num": 716179,
       "word": "廊坊法院道歉",
@@ -81,6 +89,14 @@
       "onboard_time": 1749001040,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 900349,
+      "num": 1144055,
+      "word": "三亚常见毒蛇为竹叶青眼镜蛇",
+      "onboard_time": 1749016221,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 880084,
@@ -129,6 +145,14 @@
       "onboard_time": 1749003380,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 614763,
+      "num": 614763,
+      "word": "小伙上班被迫吸4年二手烟疑患肺癌",
+      "onboard_time": 1749015560,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 604471,
@@ -193,6 +217,14 @@
       "onboard_time": 1749017782,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474460,
+      "num": 302868,
+      "word": "向佐终于遇到了舒适朋友圈",
+      "onboard_time": 1749018381,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 470679,
@@ -281,14 +313,6 @@
       "onboard_time": 1749015741,
       "rank": 22,
       "category": "海外新闻,时尚"
-    },
-    {
-      "raw_hot": 379673,
-      "num": 304865,
-      "word": "三亚常见毒蛇为竹叶青眼镜蛇",
-      "onboard_time": 1749016221,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 376868,
@@ -387,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302868,
-      "num": 302868,
-      "word": "向佐终于遇到了舒适朋友圈",
-      "onboard_time": 1749018381,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 293587,
       "num": 293587,
       "word": "李嘉格婚礼当天婆婆和妈妈冷战",
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267428,
+      "num": 267428,
+      "word": "女子疑被蛇咬身亡家属称暂无结果",
+      "onboard_time": 1749018802,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264902,
       "num": 264902,
       "word": "李在明为什么能赢",
@@ -459,28 +483,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 257228,
+      "num": 201141,
+      "word": "马天宇 撕拉片最大受益者",
+      "onboard_time": 1749015261,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253985,
       "num": 133919,
       "word": "这才是高明结局",
       "onboard_time": 1748966841,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252495,
-      "num": 308399,
-      "word": "小伙上班被迫吸4年二手烟疑患肺癌",
-      "onboard_time": 1749015560,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250230,
-      "num": 201141,
-      "word": "马天宇 撕拉片最大受益者",
-      "onboard_time": 1749015261,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 245487,
@@ -563,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218425,
+      "num": 218425,
+      "word": "陈学冬称希望是最后一次手术了",
+      "onboard_time": 1749021141,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214076,
       "num": 214076,
       "word": "瓦妮莎发蕾哈娜表情包辟谣怀孕",
@@ -587,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210043,
+      "num": 210043,
+      "word": "肖战藏海传超18种非遗技艺",
+      "onboard_time": 1749017421,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207220,
       "num": 162673,
       "word": "迪丽热巴回应张馨予",
@@ -601,14 +633,6 @@
       "onboard_time": 1748937621,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 203215,
-      "num": 203215,
-      "word": "肖战藏海传超18种非遗技艺",
-      "onboard_time": 1749017421,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 200823,
@@ -667,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167089,
+      "num": 167089,
+      "word": "尾鱼女郎肤白貌美还能打",
+      "onboard_time": 1749021080,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166455,
       "num": 166455,
       "word": "钟丽缇谈与张伦硕年龄差",
@@ -697,6 +729,14 @@
       "onboard_time": 1748948901,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162737,
+      "num": 162737,
+      "word": "何秋亊人鱼的眼泪舞台",
+      "onboard_time": 1749020480,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 160662,
@@ -795,12 +835,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 147755,
+      "num": 147755,
+      "word": "风月不相关",
+      "onboard_time": 1749020421,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147730,
       "num": 214286,
       "word": "于适祝高考生更上一层楼",
       "onboard_time": 1749006499,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146680,
+      "num": 146680,
+      "word": "我一定要把她救上来不能让她有事",
+      "onboard_time": 1749020961,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 146024,
@@ -817,6 +873,14 @@
       "onboard_time": 1749008181,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144106,
+      "num": 144106,
+      "word": "昆凌小松菜奈金高银陈法拉同框",
+      "onboard_time": 1749021502,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 142938,
@@ -851,6 +915,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139511,
+      "num": 289020,
+      "word": "万一被蛇咬了怎么办",
+      "onboard_time": 1749013641,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139396,
+      "num": 139396,
+      "word": "99岁老人上树摘枇杷被困",
+      "onboard_time": 1749020480,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138652,
       "num": 241221,
       "word": "高铁为啥会上演飙车大片",
@@ -880,14 +960,6 @@
       "word": "顺风车司机卖乘客订单称女性为黑丝",
       "onboard_time": 1749013521,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133769,
-      "num": 289020,
-      "word": "万一被蛇咬了怎么办",
-      "onboard_time": 1749013641,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -923,12 +995,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129116,
+      "num": 129116,
+      "word": "每天走走路算不算运动",
+      "onboard_time": 1749020841,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 128942,
       "num": 128942,
       "word": "粽子消耗大法",
       "onboard_time": 1749012022,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 127912,
+      "num": 127912,
+      "word": "K总回应何秋亊争议",
+      "onboard_time": 1749021860,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 126189,
@@ -979,6 +1067,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 122149,
+      "num": 122149,
+      "word": "女游客家属暂不考虑尸检",
+      "onboard_time": 1749021741,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122129,
       "num": 300862,
       "word": "夫妻把小吃店开进了当地初中教材",
@@ -1017,6 +1113,14 @@
       "onboard_time": 1748998402,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118507,
+      "num": 118507,
+      "word": "早睡真的可以改变命运",
+      "onboard_time": 1749021741,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 118443,
@@ -1065,6 +1169,14 @@
       "onboard_time": 1748966661,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112670,
+      "num": 112670,
+      "word": "老师擦掉一个字后的一幕让人泪目",
+      "onboard_time": 1749015741,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 112311,
@@ -1211,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97566,
+      "num": 154121,
+      "word": "苏超还有单防梅西的人",
+      "onboard_time": 1749020961,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97536,
       "num": 205105,
       "word": "三亚被蛇咬伤致死女子伤口画面曝光",
@@ -1251,6 +1371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 94169,
+      "num": 173158,
+      "word": "中韩互为重要近邻和合作伙伴",
+      "onboard_time": 1749021621,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92278,
       "num": 92278,
       "word": "她是怎么做到一笔成画的",
@@ -1273,14 +1401,6 @@
       "onboard_time": 1749007820,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87010,
-      "num": 87010,
-      "word": "老师擦掉一个字后的一幕让人泪目",
-      "onboard_time": 1749015741,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 86505,
@@ -1321,6 +1441,14 @@
       "onboard_time": 1748969898,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75961,
+      "num": 145024,
+      "word": "每天拍腋窝有什么好处",
+      "onboard_time": 1749021860,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 75159,
@@ -1563,6 +1691,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 41940,
+      "num": 197471,
+      "word": "酒精可以直接倒入开放性伤口吗",
+      "onboard_time": 1749021141,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 41211,
       "num": 158869,
       "word": "陈路周不怪你换我我也心动",
@@ -1577,6 +1713,14 @@
       "onboard_time": 1748974635,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40416,
+      "num": 147943,
+      "word": "菜板发霉对健康的危害有多大",
+      "onboard_time": 1749020659,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 38234,
@@ -1611,14 +1755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33248,
-      "num": 109499,
-      "word": "女子疑被蛇咬身亡家属称暂无结果",
-      "onboard_time": 1749018802,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28489,
       "num": 40681,
       "word": "酱园弄 章子怡出场",
@@ -1641,6 +1777,14 @@
       "onboard_time": 1748983035,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 25071,
+      "num": 135659,
+      "word": "骨科专家详解膝盖疼痛疗愈方法",
+      "onboard_time": 1749020901,
+      "rank": 38,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 23344,
