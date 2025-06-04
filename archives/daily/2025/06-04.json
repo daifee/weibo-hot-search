@@ -1,7 +1,15 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749008105167,
+  "endTime": 1749011616209,
   "band_list": [
+    {
+      "raw_hot": 2793811,
+      "num": 455042,
+      "word": "蜜雪冰城爆单女店员忙到崩溃落泪",
+      "onboard_time": 1749010582,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2587797,
       "num": 2587797,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1241877,
-      "num": 361953,
+      "num": 421942,
       "word": "当事人谈被血友病小孩鬼探头索赔47万",
       "onboard_time": 1749006499,
       "rank": 10,
@@ -33,6 +41,14 @@
       "onboard_time": 1749002720,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1006789,
+      "num": 443384,
+      "word": "赵今麦 脱胎换骨",
+      "onboard_time": 1749008300,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 925576,
@@ -83,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 730350,
+      "num": 1116856,
+      "word": "亚朵酒店致歉",
+      "onboard_time": 1749003440,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 678956,
       "num": 1108633,
       "word": "藏海香暗荼孩子该姓什么",
@@ -115,20 +139,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 522503,
-      "num": 522503,
-      "word": "亚朵酒店致歉",
-      "onboard_time": 1749003440,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 500909,
       "num": 269598,
       "word": "李在明称将尽最大努力履职",
       "onboard_time": 1748965162,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 470679,
+      "num": 432714,
+      "word": "何洁陪周扬青上班的一天",
+      "onboard_time": 1749006080,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 467159,
@@ -147,12 +171,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 460149,
-      "num": 358525,
-      "word": "何洁陪周扬青上班的一天",
-      "onboard_time": 1749006080,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 423232,
+      "num": 423232,
+      "word": "杨幂这次真的很不一样",
+      "onboard_time": 1749008181,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 422118,
@@ -161,6 +185,14 @@
       "onboard_time": 1748991678,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420376,
+      "num": 420376,
+      "word": "何秋亊演唱会 全闭麦",
+      "onboard_time": 1749008422,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 414364,
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 362702,
-      "num": 362702,
+      "num": 414761,
       "word": "球队经理回应樊振东德甲待遇",
       "onboard_time": 1749001160,
       "rank": 24,
@@ -225,6 +257,14 @@
       "onboard_time": 1748988376,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 341951,
+      "num": 341951,
+      "word": "哪吒婚礼开场",
+      "onboard_time": 1749009741,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 337673,
@@ -307,6 +347,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 261585,
+      "num": 261585,
+      "word": "李在明称感谢国民做出的伟大决定",
+      "onboard_time": 1748993119,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 259438,
+      "num": 259438,
+      "word": "从藏海传看原创长剧如何讲好中国故事",
+      "onboard_time": 1749010101,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 257447,
+      "num": 257447,
+      "word": "韩国霸总来中国了",
+      "onboard_time": 1749008359,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 253985,
       "num": 133919,
       "word": "这才是高明结局",
@@ -316,7 +380,7 @@
     },
     {
       "raw_hot": 244622,
-      "num": 187230,
+      "num": 201037,
       "word": "体检报告出现这些离癌症只一步之遥",
       "onboard_time": 1749004760,
       "rank": 30,
@@ -379,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214076,
+      "num": 214076,
+      "word": "瓦妮莎发蕾哈娜表情包辟谣怀孕",
+      "onboard_time": 1749010522,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214021,
       "num": 262633,
       "word": "aespa将6月27日回归",
@@ -411,6 +483,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206408,
+      "num": 206408,
+      "word": "去世朋友7年前的定时邮件",
+      "onboard_time": 1749011061,
+      "rank": 32,
+      "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 202933,
+      "num": 202933,
+      "word": "李在明上台难掩韩国社会分裂",
+      "onboard_time": 1749010822,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200823,
       "num": 200823,
       "word": "女子吃剩菜后意识模糊被送医抢救",
@@ -435,12 +523,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 176052,
-      "num": 176052,
-      "word": "李在明称感谢国民做出的伟大决定",
-      "onboard_time": 1748993119,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 171938,
+      "num": 302115,
+      "word": "亚朵酒店称洗涤供应商出现严重失误",
+      "onboard_time": 1749009021,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166455,
@@ -491,6 +579,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156903,
+      "num": 423204,
+      "word": "泽连斯基称没人在意俄罗斯愤怒",
+      "onboard_time": 1749009560,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155618,
+      "num": 258018,
+      "word": "郑钦文22岁成绩",
+      "onboard_time": 1749008359,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154482,
       "num": 154482,
       "word": "稚奴终于可以睡个好觉了",
@@ -531,6 +635,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146696,
+      "num": 146696,
+      "word": "蒯铎大雍魅魔",
+      "onboard_time": 1749009802,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 144480,
+      "num": 144480,
+      "word": "家长28楼用铲子挡电梯门致幼童被困",
+      "onboard_time": 1749008181,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140833,
+      "num": 190707,
+      "word": "李在明称将同朝鲜展开对话",
+      "onboard_time": 1749007281,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 140705,
+      "num": 214570,
+      "word": "小孩高空抛物砸中人父母拒绝赔偿",
+      "onboard_time": 1749010702,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140498,
       "num": 149361,
       "word": "张灭 张起灵",
@@ -563,6 +699,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 131790,
+      "num": 183463,
+      "word": "才看到陈学冬更新的动态",
+      "onboard_time": 1749005540,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131408,
       "num": 131408,
       "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
@@ -585,14 +729,6 @@
       "onboard_time": 1748964562,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128228,
-      "num": 183463,
-      "word": "才看到陈学冬更新的动态",
-      "onboard_time": 1749005540,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 126189,
@@ -649,6 +785,22 @@
       "onboard_time": 1748998041,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 121788,
+      "num": 156955,
+      "word": "七根心简三强把妹王",
+      "onboard_time": 1749011603,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120408,
+      "num": 120408,
+      "word": "李在明当选总统如何影响中韩关系",
+      "onboard_time": 1749008422,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119564,
@@ -769,6 +921,14 @@
       "onboard_time": 1749006981,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105263,
+      "num": 116299,
+      "word": "高考温书假",
+      "onboard_time": 1749011603,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 104068,
@@ -931,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67381,
+      "num": 191453,
+      "word": "韩国股市集体大涨",
+      "onboard_time": 1749008961,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 66744,
       "num": 86665,
       "word": "张婧仪张婧怡",
@@ -1003,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58899,
+      "num": 201535,
+      "word": "卡塔尔乒协或用法律质疑ITTF选举结果",
+      "onboard_time": 1749011543,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56022,
       "num": 62345,
       "word": "王星女友嘉嘉曾是乐队主唱",
@@ -1043,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44482,
+      "num": 215333,
+      "word": "如何自测美甲后触觉灵敏度",
+      "onboard_time": 1749011061,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 40829,
       "num": 78515,
       "word": "外交部回应是否还会向更多国家免签",
@@ -1067,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34208,
-      "num": 190707,
-      "word": "李在明称将同朝鲜展开对话",
-      "onboard_time": 1749007281,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33601,
       "num": 44032,
       "word": "李嘉鑫长文告别陆烟",
@@ -1091,12 +1267,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28174,
+      "num": 290546,
+      "word": "如何区分会厌炎与普通感冒",
+      "onboard_time": 1749010522,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 26389,
       "num": 32081,
       "word": "电梯按键",
       "onboard_time": 1748983035,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23344,
+      "num": 230085,
+      "word": "马斯克批特朗普政府法案令人作呕",
+      "onboard_time": 1749011483,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18941,
