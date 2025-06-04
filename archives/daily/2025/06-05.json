@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749058964747,
+  "endTime": 1749062173184,
   "band_list": [
     {
       "raw_hot": 1186256,
@@ -481,6 +481,22 @@
       "onboard_time": 1749058876,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19716,
+      "num": 19716,
+      "word": "海南政协委员谈女子被咬身亡",
+      "onboard_time": 1749058755,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15798,
+      "num": 18482,
+      "word": "过去20个月加沙伤亡儿童达5万",
+      "onboard_time": 1749049881,
+      "rank": 48,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749058964747,
+  "endTime": 1749062173184,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -13953,6 +13953,14 @@
       "onboard_time": 1749026180,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 19716,
+      "num": 19716,
+      "word": "海南政协委员谈女子被咬身亡",
+      "onboard_time": 1749058755,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19594,
