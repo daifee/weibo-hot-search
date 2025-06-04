@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749045101217,
+  "endTime": 1749046926058,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -57,6 +57,14 @@
       "onboard_time": 1748787802,
       "rank": 15,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2598932,
+      "num": 2598932,
+      "word": "白象食品道歉",
+      "onboard_time": 1749043403,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2593232,
@@ -249,14 +257,6 @@
       "onboard_time": 1748763499,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1427688,
-      "num": 1427688,
-      "word": "白象食品道歉",
-      "onboard_time": 1749043403,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1424804,
@@ -883,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 765792,
+      "num": 765792,
+      "word": "七根心简 定档",
+      "onboard_time": 1749044481,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 764278,
       "num": 1122284,
       "word": "孙中山长孙女孙穗瑛去世",
@@ -995,6 +1003,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 682161,
+      "num": 682161,
+      "word": "何秋亊撇清与安静公主关系",
+      "onboard_time": 1749044364,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 678956,
       "num": 1108633,
       "word": "藏海香暗荼孩子该姓什么",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1748930900,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 660307,
-      "num": 660307,
-      "word": "何秋亊撇清与安静公主关系",
-      "onboard_time": 1749044364,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 658988,
@@ -1363,6 +1371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 581765,
+      "num": 335061,
+      "word": "女生患不死癌症自学插胃管一次成功",
+      "onboard_time": 1749042739,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 580544,
       "num": 580544,
       "word": "李东健承认与姜海琳恋情",
@@ -1379,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571992,
+      "num": 571992,
+      "word": "刘医生返乡记 肖战",
+      "onboard_time": 1749044783,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 567446,
       "num": 567446,
       "word": "何秋亊演唱会 全闭麦",
@@ -1392,14 +1416,6 @@
       "word": "贴身内衣藏臭屁虫卵人裂开了",
       "onboard_time": 1748848701,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 560747,
-      "num": 335061,
-      "word": "女生患不死癌症自学插胃管一次成功",
-      "onboard_time": 1749042739,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -1995,6 +2011,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 414719,
+      "num": 414719,
+      "word": "早春晴朗 张晚意",
+      "onboard_time": 1749044002,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414516,
       "num": 414516,
       "word": "金价上冲",
@@ -2379,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356845,
+      "num": 247851,
+      "word": "43岁上海男子失业后逆袭",
+      "onboard_time": 1749046763,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356632,
       "num": 382806,
       "word": "模样最凶的狗狗救下2岁男童",
@@ -2563,20 +2595,20 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 338596,
+      "num": 384998,
+      "word": "湖南一砖厂涉嫌控制智障者干活",
+      "onboard_time": 1749044364,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 337673,
       "num": 337673,
       "word": "女子为祈福放生2.5万斤外来鲇鱼",
       "onboard_time": 1748960365,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 336401,
-      "num": 336401,
-      "word": "七根心简 定档",
-      "onboard_time": 1749044481,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 336226,
@@ -2865,6 +2897,14 @@
       "onboard_time": 1749014600,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308711,
+      "num": 308711,
+      "word": "IG战胜FPX",
+      "onboard_time": 1749045203,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 308139,
@@ -3249,14 +3289,6 @@
       "onboard_time": 1748786901,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272302,
-      "num": 272302,
-      "word": "早春晴朗 张晚意",
-      "onboard_time": 1749044002,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 270077,
@@ -3963,6 +3995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223081,
+      "num": 223081,
+      "word": "250只幼鸟被抓大鸟愤怒出击",
+      "onboard_time": 1749042440,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222880,
       "num": 222880,
       "word": "藏海辞官了",
@@ -4001,14 +4041,6 @@
       "onboard_time": 1748925622,
       "rank": 39,
       "category": "运动健身,民生新闻"
-    },
-    {
-      "raw_hot": 220505,
-      "num": 220505,
-      "word": "250只幼鸟被抓大鸟愤怒出击",
-      "onboard_time": 1749042440,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 220390,
@@ -4409,14 +4441,6 @@
       "onboard_time": 1748749998,
       "rank": 23,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 203900,
-      "num": 203900,
-      "word": "刘医生返乡记 肖战",
-      "onboard_time": 1749044783,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 203767,
@@ -5011,6 +5035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 186703,
+      "num": 210837,
+      "word": "肖战贴加官实拍",
+      "onboard_time": 1749046523,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186575,
       "num": 259957,
       "word": "李在明当选后的目标",
@@ -5123,6 +5155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184322,
+      "num": 184322,
+      "word": "LPL",
+      "onboard_time": 1749045982,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184263,
       "num": 184263,
       "word": "全季酒店回应房间多次出现蟑螂",
@@ -5216,6 +5256,14 @@
       "word": "樊振东6月仍会出战中国乒超",
       "onboard_time": 1748754021,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181745,
+      "num": 181745,
+      "word": "全红婵照片好有生命力",
+      "onboard_time": 1749046282,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -5499,6 +5547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173079,
+      "num": 173079,
+      "word": "曝皮特女儿正式放弃父姓",
+      "onboard_time": 1749045863,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172987,
       "num": 172987,
       "word": "池昌旭Reicha",
@@ -5633,6 +5689,14 @@
       "onboard_time": 1748860941,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168798,
+      "num": 168798,
+      "word": "王安宇刘浩存能不能二搭",
+      "onboard_time": 1749046043,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 168777,
@@ -6027,6 +6091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159905,
+      "num": 159905,
+      "word": "张籽萱 未来可期",
+      "onboard_time": 1749046463,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159881,
       "num": 159881,
       "word": "王星女友嘉嘉曾是乐队主唱",
@@ -6121,6 +6193,22 @@
       "onboard_time": 1748759840,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157306,
+      "num": 157306,
+      "word": "倪夏莲称樊振东的加入震撼欧洲",
+      "onboard_time": 1749046463,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156944,
+      "num": 379843,
+      "word": "加沙2名儿童取水时遭无人机杀害",
+      "onboard_time": 1749046282,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 156906,
@@ -8035,6 +8123,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 124723,
+      "num": 124723,
+      "word": "布瓦松首进大满贯四强",
+      "onboard_time": 1749046883,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124593,
       "num": 124593,
       "word": "教师的意义这一瞬间达到了顶峰",
@@ -8977,6 +9073,14 @@
       "onboard_time": 1748776040,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111126,
+      "num": 209549,
+      "word": "张家界又一溶洞存大量垃圾",
+      "onboard_time": 1749046043,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 111108,
@@ -10144,6 +10248,14 @@
       "word": "小时候的快乐回来了",
       "onboard_time": 1748747121,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95198,
+      "num": 281269,
+      "word": "村干部回应有人上山放生五步蛇",
+      "onboard_time": 1749043219,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -11747,14 +11859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56225,
-      "num": 384998,
-      "word": "湖南一砖厂涉嫌控制智障者干活",
-      "onboard_time": 1749044364,
-      "rank": 36,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 55968,
       "num": 212557,
       "word": "高考前发热怎么办",
@@ -11809,6 +11913,14 @@
       "onboard_time": 1748707101,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55057,
+      "num": 273356,
+      "word": "女子用玩具铲挡门致孩子被困电梯",
+      "onboard_time": 1749046523,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55002,
@@ -12745,6 +12857,14 @@
       "onboard_time": 1748776400,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32460,
+      "num": 1037648,
+      "word": "非遗文旅带火中国游",
+      "onboard_time": 1749046163,
+      "rank": 2,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 32447,
@@ -13737,6 +13857,14 @@
       "onboard_time": 1749029301,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 14441,
+      "num": 190237,
+      "word": "高考心理调适指南",
+      "onboard_time": 1749046824,
+      "rank": 34,
+      "category": "正能量"
     },
     {
       "raw_hot": 14299,
