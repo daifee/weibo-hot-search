@@ -1,10 +1,10 @@
 {
   "startTime": 1748968490426,
-  "endTime": 1749029325878,
+  "endTime": 1749030178559,
   "band_list": [
     {
       "raw_hot": 2907108,
-      "num": 619946,
+      "num": 953803,
       "word": "蜜雪冰城爆单女店员忙到崩溃落泪",
       "onboard_time": 1749010582,
       "rank": 3,
@@ -43,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1390192,
+      "num": 1390192,
+      "word": "花少7阵容",
+      "onboard_time": 1749027501,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1241877,
       "num": 421942,
       "word": "当事人谈被血友病小孩鬼探头索赔47万",
@@ -51,12 +59,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1239683,
-      "num": 1239683,
-      "word": "花少7阵容",
-      "onboard_time": 1749027501,
-      "rank": 1,
-      "category": "综艺"
+      "raw_hot": 1155456,
+      "num": 1155456,
+      "word": "何秋亊方与章昊设计师沟通记录",
+      "onboard_time": 1749027800,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1108016,
@@ -97,14 +105,6 @@
       "onboard_time": 1748996720,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 923341,
-      "num": 923341,
-      "word": "何秋亊方与章昊设计师沟通记录",
-      "onboard_time": 1749027800,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 910786,
@@ -155,20 +155,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 783558,
+      "num": 783558,
+      "word": "四川最全抗蛇毒血清库",
+      "onboard_time": 1749026000,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 758606,
       "num": 1121377,
       "word": "王安宇亲空气还要翻面",
       "onboard_time": 1749013222,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 754299,
-      "num": 754299,
-      "word": "四川最全抗蛇毒血清库",
-      "onboard_time": 1749026000,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 730350,
@@ -403,6 +403,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 385021,
+      "num": 385021,
+      "word": "妻子回应李亚鹏为何不拍戏还债",
+      "onboard_time": 1749028220,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382804,
       "num": 306429,
       "word": "巴黎世家客服回应争议半身裙下架",
@@ -523,20 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285959,
-      "num": 285959,
-      "word": "妻子回应李亚鹏为何不拍戏还债",
-      "onboard_time": 1749028220,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 283437,
       "num": 417078,
       "word": "传下去王爷有孕期焦虑症",
       "onboard_time": 1749023659,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279315,
+      "num": 279315,
+      "word": "高三学生不熟悉考点老师急得掉泪",
+      "onboard_time": 1749028700,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274147,
@@ -585,6 +593,14 @@
       "onboard_time": 1748999663,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 264340,
+      "num": 307036,
+      "word": "藏海传云合占比破40%",
+      "onboard_time": 1749027981,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 259438,
@@ -689,14 +705,6 @@
       "onboard_time": 1749001640,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231080,
-      "num": 231080,
-      "word": "藏海传云合占比破40%",
-      "onboard_time": 1749027981,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 229217,
@@ -843,6 +851,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 189887,
+      "num": 273196,
+      "word": "何秋亊方称没有侵犯章昊的权益",
+      "onboard_time": 1749029480,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189675,
+      "num": 189675,
+      "word": "蔡徐坤live实力有多强",
+      "onboard_time": 1749029540,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 188968,
+      "num": 188968,
+      "word": "女子被咬身亡涉事医院多次违规被罚",
+      "onboard_time": 1749028220,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 187720,
       "num": 295624,
       "word": "恒生银行抢劫案嫌疑人在深圳落网",
@@ -857,14 +889,6 @@
       "onboard_time": 1749001760,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 185480,
-      "num": 185480,
-      "word": "高三学生不熟悉考点老师急得掉泪",
-      "onboard_time": 1749028700,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180095,
@@ -955,6 +979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162596,
+      "num": 435940,
+      "word": "普通医院一般没有抗蛇毒血清",
+      "onboard_time": 1749029720,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160662,
       "num": 160662,
       "word": "郑钦文泪洒发布会",
@@ -971,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160024,
+      "num": 149979,
+      "word": "肖战演藏海是剧方最明智的选择",
+      "onboard_time": 1749023960,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159499,
       "num": 237412,
       "word": "小孩高空抛物砸中人父母拒绝赔偿",
@@ -985,6 +1025,14 @@
       "onboard_time": 1749009802,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156768,
+      "num": 156768,
+      "word": "巴黎世家线上已下架4500元半身裙",
+      "onboard_time": 1749029361,
+      "rank": 32,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 155830,
@@ -1073,14 +1121,6 @@
       "onboard_time": 1749020179,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149850,
-      "num": 149850,
-      "word": "女子被咬身亡涉事医院多次违规被罚",
-      "onboard_time": 1749028220,
-      "rank": 30,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 149107,
@@ -1211,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139484,
+      "num": 139484,
+      "word": "齐思钧怎么在这也乘风破浪啊",
+      "onboard_time": 1749028940,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138652,
       "num": 241221,
       "word": "高铁为啥会上演飙车大片",
@@ -1283,6 +1331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130590,
+      "num": 130590,
+      "word": "相信音乐回应F4将合体开演唱会",
+      "onboard_time": 1749030022,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129692,
       "num": 129692,
       "word": "卫兰回应补位",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1749012622,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124725,
+      "num": 124725,
+      "word": "嘉人小卡",
+      "onboard_time": 1749029361,
+      "rank": 41,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 124204,
@@ -1412,7 +1476,7 @@
     },
     {
       "raw_hot": 119983,
-      "num": 730992,
+      "num": 798465,
       "word": "教育部发布2025年高考问答",
       "onboard_time": 1749026721,
       "rank": 17,
@@ -1425,14 +1489,6 @@
       "onboard_time": 1748998402,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118712,
-      "num": 118712,
-      "word": "齐思钧怎么在这也乘风破浪啊",
-      "onboard_time": 1749028940,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 118443,
@@ -1473,14 +1529,6 @@
       "onboard_time": 1749028821,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114136,
-      "num": 114136,
-      "word": "肖战演藏海是剧方最明智的选择",
-      "onboard_time": 1749023960,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 113592,
@@ -2019,6 +2067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 46034,
+      "num": 268738,
+      "word": "苏超联赛迎来场地大挪移",
+      "onboard_time": 1749029780,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44871,
       "num": 62898,
       "word": "郑钦文止步法网8强",
@@ -2123,20 +2179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34251,
+      "num": 1177088,
+      "word": "8组数字看中国消费向新而行",
+      "onboard_time": 1749026542,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 33905,
+      "num": 268248,
+      "word": "贵州为考生开启身份证办理绿色通道",
+      "onboard_time": 1749029480,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 33836,
       "num": 144446,
       "word": "六旬牧民救活了一只草原鹰",
       "onboard_time": 1749017120,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33745,
-      "num": 1016816,
-      "word": "8组数字看中国消费向新而行",
-      "onboard_time": 1749026542,
-      "rank": 2,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 33601,
@@ -2219,6 +2283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22951,
+      "num": 138816,
+      "word": "未成年性侵亲属等熟人作案占9成以上",
+      "onboard_time": 1749029901,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20972,
       "num": 197350,
       "word": "如何让自己长期保持生命力",
@@ -2267,6 +2339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16557,
+      "num": 392355,
+      "word": "患白血病班主任病床上祝福中考学生",
+      "onboard_time": 1749029720,
+      "rank": 14,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 16189,
       "num": 137083,
       "word": "输出型爱好真的能让人更自信吗",
@@ -2281,6 +2361,14 @@
       "onboard_time": 1748972716,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14771,
+      "num": 292632,
+      "word": "熬夜会加剧血管瘤风险吗",
+      "onboard_time": 1749029301,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14299,
@@ -2305,14 +2393,6 @@
       "onboard_time": 1749022280,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 11808,
-      "num": 119066,
-      "word": "熬夜会加剧血管瘤风险吗",
-      "onboard_time": 1749029301,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 11414,

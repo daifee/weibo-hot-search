@@ -1,0 +1,410 @@
+{
+  "runTime": 1749030178559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2064769,
+        "num": 2064769,
+        "word": "白象多半桶方便面的多半是商标",
+        "onboard_time": 1749025279,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1390192,
+        "num": 1390192,
+        "word": "花少7阵容",
+        "onboard_time": 1749027501,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34251,
+        "num": 1177088,
+        "word": "8组数字看中国消费向新而行",
+        "onboard_time": 1749026542,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1155456,
+        "num": 1155456,
+        "word": "何秋亊方与章昊设计师沟通记录",
+        "onboard_time": 1749027800,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1152057,
+        "num": 1152057,
+        "word": "男友哽咽还原女友三亚被咬身亡过程",
+        "onboard_time": 1749013700,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447091,
+        "num": 953803,
+        "word": "蜜雪冰城爆单女店员忙到崩溃落泪",
+        "onboard_time": 1749010582,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114223,
+        "num": 798465,
+        "word": "教育部发布2025年高考问答",
+        "onboard_time": 1749026721,
+        "rank": 6,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 783558,
+        "num": 783558,
+        "word": "四川最全抗蛇毒血清库",
+        "onboard_time": 1749026000,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589216,
+        "num": 589216,
+        "word": "柯颖 花少",
+        "onboard_time": 1749026661,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388893,
+        "num": 516634,
+        "word": "李在明宣誓就职仪式",
+        "onboard_time": 1749002720,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 486003,
+        "num": 486003,
+        "word": "泡泡涨价",
+        "onboard_time": 1749020359,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 442062,
+        "num": 442062,
+        "word": "K总回应何秋亊争议",
+        "onboard_time": 1749021860,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 162596,
+        "num": 435940,
+        "word": "普通医院一般没有抗蛇毒血清",
+        "onboard_time": 1749029720,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434153,
+        "num": 434153,
+        "word": "韩国媒体称李在明当选韩国总统",
+        "onboard_time": 1748962645,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16557,
+        "num": 392355,
+        "word": "患白血病班主任病床上祝福中考学生",
+        "onboard_time": 1749029720,
+        "rank": 14,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 385021,
+        "num": 385021,
+        "word": "妻子回应李亚鹏为何不拍戏还债",
+        "onboard_time": 1749028220,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334442,
+        "num": 334442,
+        "word": "140天韩国换了三任总统",
+        "onboard_time": 1749023301,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328683,
+        "num": 328683,
+        "word": "医生解读银环蛇咬伤症状",
+        "onboard_time": 1749023120,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264340,
+        "num": 307036,
+        "word": "藏海传云合占比破40%",
+        "onboard_time": 1749027981,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14771,
+        "num": 292632,
+        "word": "熬夜会加剧血管瘤风险吗",
+        "onboard_time": 1749029301,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288901,
+        "num": 288901,
+        "word": "三亚常见毒蛇为竹叶青眼镜蛇",
+        "onboard_time": 1749016221,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279315,
+        "num": 279315,
+        "word": "高三学生不熟悉考点老师急得掉泪",
+        "onboard_time": 1749028700,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189887,
+        "num": 273196,
+        "word": "何秋亊方称没有侵犯章昊的权益",
+        "onboard_time": 1749029480,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46034,
+        "num": 268738,
+        "word": "苏超联赛迎来场地大挪移",
+        "onboard_time": 1749029780,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33905,
+        "num": 268248,
+        "word": "贵州为考生开启身份证办理绿色通道",
+        "onboard_time": 1749029480,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268146,
+        "num": 268146,
+        "word": "王楚钦问献花小女孩花不给我了吗",
+        "onboard_time": 1749024020,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257673,
+        "num": 257673,
+        "word": "陈学冬称希望是最后一次手术了",
+        "onboard_time": 1749021141,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247177,
+        "num": 247177,
+        "word": "2025出圈台词",
+        "onboard_time": 1749022160,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189675,
+        "num": 189675,
+        "word": "蔡徐坤live实力有多强",
+        "onboard_time": 1749029540,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188968,
+        "num": 188968,
+        "word": "女子被咬身亡涉事医院多次违规被罚",
+        "onboard_time": 1749028220,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 177860,
+        "num": 177860,
+        "word": "曹骏说曾为省钱学做饭不点外卖",
+        "onboard_time": 1749026542,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171633,
+        "num": 171633,
+        "word": "肖战谈第一次同期声古装感受",
+        "onboard_time": 1749026481,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156768,
+        "num": 156768,
+        "word": "巴黎世家线上已下架4500元半身裙",
+        "onboard_time": 1749029361,
+        "rank": 32,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 155395,
+        "num": 155395,
+        "word": "高考 下雨",
+        "onboard_time": 1749028161,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155094,
+        "num": 155094,
+        "word": "结石姐称确诊早期乳腺癌",
+        "onboard_time": 1749022460,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153098,
+        "num": 153098,
+        "word": "马天宇 撕拉片最大受益者",
+        "onboard_time": 1749015261,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160024,
+        "num": 149979,
+        "word": "肖战演藏海是剧方最明智的选择",
+        "onboard_time": 1749023960,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139484,
+        "num": 139484,
+        "word": "齐思钧怎么在这也乘风破浪啊",
+        "onboard_time": 1749028940,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22951,
+        "num": 138816,
+        "word": "未成年性侵亲属等熟人作案占9成以上",
+        "onboard_time": 1749029901,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138790,
+        "num": 138790,
+        "word": "那英 花少",
+        "onboard_time": 1749023721,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130590,
+        "num": 130590,
+        "word": "相信音乐回应F4将合体开演唱会",
+        "onboard_time": 1749030022,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124725,
+        "num": 124725,
+        "word": "嘉人小卡",
+        "onboard_time": 1749029361,
+        "rank": 41,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 124575,
+        "num": 124575,
+        "word": "赵今麦 脱胎换骨",
+        "onboard_time": 1749008300,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123834,
+        "num": 123834,
+        "word": "外交部回应石破茂称日本要反省历史",
+        "onboard_time": 1749027380,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119576,
+        "num": 119576,
+        "word": "小伙上班被迫吸4年二手烟疑患肺癌",
+        "onboard_time": 1749015560,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115250,
+        "num": 115250,
+        "word": "湖南一家6口吃毒蘑菇中毒1人病危",
+        "onboard_time": 1749027920,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110294,
+        "num": 110294,
+        "word": "四川拟将生育假最高延长至150天",
+        "onboard_time": 1749022401,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110231,
+        "num": 110231,
+        "word": "蔡文静戒断反应强到想敲邻居门",
+        "onboard_time": 1749028821,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106541,
+        "num": 106541,
+        "word": "卫兰歌手补位",
+        "onboard_time": 1749022041,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105167,
+        "num": 105167,
+        "word": "徐明浩宋雨琦cha了thunder",
+        "onboard_time": 1749026780,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向李在明致贺电#"
+    }
+  }
+}
