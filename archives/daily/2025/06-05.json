@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749069400956,
+  "endTime": 1749072069811,
   "band_list": [
     {
       "raw_hot": 1186256,
@@ -523,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17189,
+      "num": 17189,
+      "word": "外交部回应李在明就任韩国总统",
+      "onboard_time": 1749067214,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16333,
       "num": 18482,
       "word": "过去20个月加沙伤亡儿童达5万",
@@ -531,12 +539,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13541,
-      "num": 13541,
-      "word": "外交部回应李在明就任韩国总统",
-      "onboard_time": 1749067214,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 12942,
+      "num": 14916,
+      "word": "湖南一砖厂涉嫌利用智障人员劳动",
+      "onboard_time": 1749071112,
+      "rank": 43,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 10568,
+      "num": 18141,
+      "word": "当地回应道路塌陷大坑有车辆陷入",
+      "onboard_time": 1749070154,
+      "rank": 27,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

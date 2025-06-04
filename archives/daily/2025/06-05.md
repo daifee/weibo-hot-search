@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/05 00:28:45 ~ 2025/06/05 04:36:40
+本榜单时间：2025/06/05 00:28:45 ~ 2025/06/05 05:21:09
 </p>
 </blockquote>
 <p>
@@ -405,14 +405,26 @@ IG战胜FPX（热度：59422）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E4%BB%BB%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
+外交部回应李在明就任韩国总统（热度：17189）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%8E%BB20%E4%B8%AA%E6%9C%88%E5%8A%A0%E6%B2%99%E4%BC%A4%E4%BA%A1%E5%84%BF%E7%AB%A5%E8%BE%BE5%E4%B8%87%23" target="weibo">
 过去20个月加沙伤亡儿童达5万（热度：16333）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%B1%E4%BB%BB%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%23" target="weibo">
-外交部回应李在明就任韩国总统（热度：13541）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E7%A0%96%E5%8E%82%E6%B6%89%E5%AB%8C%E5%88%A9%E7%94%A8%E6%99%BA%E9%9A%9C%E4%BA%BA%E5%91%98%E5%8A%B3%E5%8A%A8%23" target="weibo">
+湖南一砖厂涉嫌利用智障人员劳动（热度：12942）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E9%81%93%E8%B7%AF%E5%A1%8C%E9%99%B7%E5%A4%A7%E5%9D%91%E6%9C%89%E8%BD%A6%E8%BE%86%E9%99%B7%E5%85%A5%23" target="weibo">
+当地回应道路塌陷大坑有车辆陷入（热度：10568）
 </a>
 </li>
 
