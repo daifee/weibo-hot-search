@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749109213024,
+  "endTime": 1749112464337,
   "band_list": [
     {
       "raw_hot": 2184958,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1160671,
+      "num": 956531,
+      "word": "男子被蛇咬后忍痛给小青蛇拍了照片",
+      "onboard_time": 1749107540,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1047995,
       "num": 763092,
       "word": "被咬身亡女子家属回应为何不尸检",
@@ -80,14 +88,6 @@
       "word": "银环蛇",
       "onboard_time": 1749051861,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 956531,
-      "num": 956531,
-      "word": "男子被蛇咬后忍痛给小青蛇拍了照片",
-      "onboard_time": 1749107540,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 762477,
-      "num": 446689,
+      "num": 522057,
       "word": "鹿晗黄子韬代唱",
       "onboard_time": 1749107420,
       "rank": 17,
@@ -217,6 +217,22 @@
       "onboard_time": 1749041062,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655517,
+      "num": 655517,
+      "word": "长期喝咖啡的人后来都怎么样了",
+      "onboard_time": 1749109762,
+      "rank": 5,
+      "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 650434,
+      "num": 650434,
+      "word": "鹿晗工作室失实讯息声明",
+      "onboard_time": 1749107841,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 625846,
@@ -315,6 +331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 520033,
+      "num": 520033,
+      "word": "labubu医美",
+      "onboard_time": 1749109581,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 501769,
       "num": 501769,
       "word": "医生称孕反突然消失或和胎停有关",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 451483,
-      "num": 451483,
+      "num": 538323,
       "word": "何秋亊抄袭名单",
       "onboard_time": 1749107901,
       "rank": 22,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 449397,
-      "num": 449397,
+      "num": 530227,
       "word": "差点没认出章子怡",
       "onboard_time": 1749107301,
       "rank": 18,
@@ -401,14 +425,6 @@
       "onboard_time": 1749086240,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 411406,
-      "num": 239330,
-      "word": "鹿晗工作室失实讯息声明",
-      "onboard_time": 1749107841,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 404559,
@@ -547,6 +563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 277252,
+      "num": 277252,
+      "word": "男子玩密室对女鬼NPC摸腿搂腰",
+      "onboard_time": 1749109643,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273578,
       "num": 598458,
       "word": "陈思诚张小斐首度合作",
@@ -619,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240831,
+      "num": 240831,
+      "word": "易烊千玺酱园弄杀青照",
+      "onboard_time": 1749109400,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238709,
       "num": 238709,
       "word": "白象多半系列面饼只多25g",
@@ -633,6 +665,14 @@
       "onboard_time": 1749013700,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232284,
+      "num": 265195,
+      "word": "一诺金发白衬衫",
+      "onboard_time": 1749111202,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 232246,
@@ -795,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208596,
+      "num": 208596,
+      "word": "成毅新剧1V12",
+      "onboard_time": 1749110182,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208338,
       "num": 208338,
       "word": "李现晒网球照",
@@ -825,6 +873,14 @@
       "onboard_time": 1749097462,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204908,
+      "num": 204908,
+      "word": "华为将发布全球首款5G智能手表",
+      "onboard_time": 1749112221,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 203190,
@@ -1187,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164785,
+      "num": 164785,
+      "word": "人有多懒家里智能牛马就有多大产",
+      "onboard_time": 1749112100,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164188,
       "num": 164188,
       "word": "博主啊宝称女子99%为银环蛇咬伤",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1749048262,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163204,
+      "num": 546236,
+      "word": "游客被咬伤身亡相关医生已被停职",
+      "onboard_time": 1749111562,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163083,
@@ -1283,12 +1355,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155521,
+      "num": 155521,
+      "word": "VOGUE",
+      "onboard_time": 1749111022,
+      "rank": 42,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 152668,
       "num": 152668,
       "word": "直击安徽六安毛坦厂中学送考",
       "onboard_time": 1749084562,
       "rank": 36,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 151852,
+      "num": 151852,
+      "word": "藏海传原创梗",
+      "onboard_time": 1749112281,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 151547,
@@ -1305,6 +1393,14 @@
       "onboard_time": 1749097341,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149546,
+      "num": 149546,
+      "word": "太湖三傻",
+      "onboard_time": 1749111920,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 149460,
@@ -1385,6 +1481,22 @@
       "onboard_time": 1749100282,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139310,
+      "num": 139310,
+      "word": "上班抑郁算工伤吗",
+      "onboard_time": 1749110901,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138085,
+      "num": 138085,
+      "word": "秦始皇陵没有被盗的真正原因",
+      "onboard_time": 1749109461,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137835,
@@ -1475,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128332,
+      "num": 128332,
+      "word": "马嘉祺歌手第四期选曲",
+      "onboard_time": 1749110361,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127910,
       "num": 127910,
       "word": "李在明称将启动紧急经济专班",
@@ -1505,6 +1625,14 @@
       "onboard_time": 1749082522,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122836,
+      "num": 263153,
+      "word": "华为手表首发AI手势操控",
+      "onboard_time": 1749110780,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 121455,
@@ -1635,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103402,
+      "num": 534925,
+      "word": "三亚多小区增加投放驱蛇药",
+      "onboard_time": 1749110901,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102732,
       "num": 102732,
       "word": "南京发布急得连发2条微博",
@@ -1697,6 +1833,14 @@
       "onboard_time": 1749098602,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94939,
+      "num": 523975,
+      "word": "苏超近7成球员来自教师快递员等",
+      "onboard_time": 1749106641,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 92933,
@@ -1827,6 +1971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73735,
+      "num": 546893,
+      "word": "外交部评美方再对哈佛出拳",
+      "onboard_time": 1749111142,
+      "rank": 8,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 72868,
       "num": 205714,
       "word": "李在明就职典礼上两名警卫互相推搡",
@@ -1875,6 +2027,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 68715,
+      "num": 257988,
+      "word": "星巴克回应咖啡杯底现蟑螂",
+      "onboard_time": 1749111381,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65954,
       "num": 65954,
       "word": "长安的荔枝",
@@ -1921,6 +2081,14 @@
       "onboard_time": 1749045203,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59384,
+      "num": 152947,
+      "word": "苏超微博第一个关注常州",
+      "onboard_time": 1749111623,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 57704,
@@ -2075,6 +2243,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 35911,
+      "num": 165727,
+      "word": "搜狐极限探索者大会",
+      "onboard_time": 1749110478,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 35310,
       "num": 42697,
       "word": "过去20个月加沙伤亡儿童达5万",
@@ -2115,12 +2291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31763,
+      "num": 535985,
+      "word": "事发地社区回应女子疑被蛇咬身亡",
+      "onboard_time": 1749111680,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31760,
       "num": 39702,
       "word": "上班烦躁的建议去读个研",
       "onboard_time": 1749057017,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 30990,
+      "num": 526659,
+      "word": "林良铭谢文能停赛缺席",
+      "onboard_time": 1749111981,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 30619,
@@ -2203,12 +2395,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 21877,
+      "num": 261359,
+      "word": "随时可以被打扰的才是真朋友吗",
+      "onboard_time": 1749111080,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21870,
       "num": 23782,
       "word": "李在明就职演说",
       "onboard_time": 1749064694,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21560,
+      "num": 261885,
+      "word": "男子被毒蛇咬伤专家指导自救成功",
+      "onboard_time": 1749111381,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20607,
@@ -2233,6 +2441,30 @@
       "onboard_time": 1749062415,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17221,
+      "num": 259627,
+      "word": "博主啊宝近期申请个人形象商标",
+      "onboard_time": 1749110961,
+      "rank": 28,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 14558,
+      "num": 205761,
+      "word": "爆发而出的彩带是高考祝福",
+      "onboard_time": 1749112340,
+      "rank": 33,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 14537,
+      "num": 525852,
+      "word": "备考期间该如何科学饮食",
+      "onboard_time": 1749111680,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 11669,

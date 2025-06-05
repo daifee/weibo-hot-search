@@ -1,0 +1,410 @@
+{
+  "runTime": 1749112464337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 197595,
+        "num": 1031615,
+        "word": "悬赏通缉20名台湾黑客",
+        "onboard_time": 1749083421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1160671,
+        "num": 934851,
+        "word": "男子被蛇咬后忍痛给小青蛇拍了照片",
+        "onboard_time": 1749107540,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37332,
+        "num": 768061,
+        "word": "台湾资通电军是个什么组织",
+        "onboard_time": 1749088521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725025,
+        "num": 725025,
+        "word": "义乌女老板卖labubu娃衣3个月开3家店",
+        "onboard_time": 1749106160,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722083,
+        "num": 722083,
+        "word": "何秋亊 没EXO版权",
+        "onboard_time": 1749107720,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655517,
+        "num": 655517,
+        "word": "长期喝咖啡的人后来都怎么样了",
+        "onboard_time": 1749109762,
+        "rank": 5,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 650434,
+        "num": 650434,
+        "word": "鹿晗工作室失实讯息声明",
+        "onboard_time": 1749107841,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 548604,
+        "num": 548604,
+        "word": "女孩遭体罚去世3人涉嫌虐待罪被拘留",
+        "onboard_time": 1749097402,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73735,
+        "num": 546893,
+        "word": "外交部评美方再对哈佛出拳",
+        "onboard_time": 1749111142,
+        "rank": 8,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 163204,
+        "num": 546236,
+        "word": "游客被咬伤身亡相关医生已被停职",
+        "onboard_time": 1749111562,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643321,
+        "num": 544068,
+        "word": "建议大家要远离恋爱式友情",
+        "onboard_time": 1749095722,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391974,
+        "num": 540149,
+        "word": "杨幂说小糯米画画挺好",
+        "onboard_time": 1749106041,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356841,
+        "num": 538323,
+        "word": "何秋亊抄袭名单",
+        "onboard_time": 1749107901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31763,
+        "num": 535985,
+        "word": "事发地社区回应女子疑被蛇咬身亡",
+        "onboard_time": 1749111680,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103402,
+        "num": 534925,
+        "word": "三亚多小区增加投放驱蛇药",
+        "onboard_time": 1749110901,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340704,
+        "num": 531688,
+        "word": "权志龙点赞蔡徐坤舞台",
+        "onboard_time": 1749105559,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260087,
+        "num": 530227,
+        "word": "差点没认出章子怡",
+        "onboard_time": 1749107301,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30990,
+        "num": 526659,
+        "word": "林良铭谢文能停赛缺席",
+        "onboard_time": 1749111981,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14537,
+        "num": 525852,
+        "word": "备考期间该如何科学饮食",
+        "onboard_time": 1749111680,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 94939,
+        "num": 523975,
+        "word": "苏超近7成球员来自教师快递员等",
+        "onboard_time": 1749106641,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709854,
+        "num": 522057,
+        "word": "鹿晗黄子韬代唱",
+        "onboard_time": 1749107420,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520033,
+        "num": 520033,
+        "word": "labubu医美",
+        "onboard_time": 1749109581,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 277252,
+        "num": 277252,
+        "word": "男子玩密室对女鬼NPC摸腿搂腰",
+        "onboard_time": 1749109643,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265385,
+        "num": 265385,
+        "word": "40岁女子不染发养了16个月的白发",
+        "onboard_time": 1749104180,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232284,
+        "num": 265195,
+        "word": "一诺金发白衬衫",
+        "onboard_time": 1749111202,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122836,
+        "num": 263153,
+        "word": "华为手表首发AI手势操控",
+        "onboard_time": 1749110780,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21560,
+        "num": 261885,
+        "word": "男子被毒蛇咬伤专家指导自救成功",
+        "onboard_time": 1749111381,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21877,
+        "num": 261359,
+        "word": "随时可以被打扰的才是真朋友吗",
+        "onboard_time": 1749111080,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17221,
+        "num": 259627,
+        "word": "博主啊宝近期申请个人形象商标",
+        "onboard_time": 1749110961,
+        "rank": 28,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 68715,
+        "num": 257988,
+        "word": "星巴克回应咖啡杯底现蟑螂",
+        "onboard_time": 1749111381,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257871,
+        "num": 257871,
+        "word": "歌手歌单",
+        "onboard_time": 1749100402,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240831,
+        "num": 240831,
+        "word": "易烊千玺酱园弄杀青照",
+        "onboard_time": 1749109400,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208596,
+        "num": 208596,
+        "word": "成毅新剧1V12",
+        "onboard_time": 1749110182,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14558,
+        "num": 205761,
+        "word": "爆发而出的彩带是高考祝福",
+        "onboard_time": 1749112340,
+        "rank": 33,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 204908,
+        "num": 204908,
+        "word": "华为将发布全球首款5G智能手表",
+        "onboard_time": 1749112221,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192684,
+        "num": 192684,
+        "word": "老人被五步蛇咬伤打16支血清脱险",
+        "onboard_time": 1749103520,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171845,
+        "num": 171845,
+        "word": "李白",
+        "onboard_time": 1749104062,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171208,
+        "num": 171208,
+        "word": "范玮琪歌手补位",
+        "onboard_time": 1749103701,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167446,
+        "num": 167446,
+        "word": "张小斐电影尺度",
+        "onboard_time": 1749105320,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35911,
+        "num": 165727,
+        "word": "搜狐极限探索者大会",
+        "onboard_time": 1749110478,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165537,
+        "num": 165537,
+        "word": "饶雪漫人生第一次陷入选角漩涡",
+        "onboard_time": 1749108381,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164785,
+        "num": 164785,
+        "word": "人有多懒家里智能牛马就有多大产",
+        "onboard_time": 1749112100,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155521,
+        "num": 155521,
+        "word": "VOGUE",
+        "onboard_time": 1749111022,
+        "rank": 42,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 59384,
+        "num": 152947,
+        "word": "苏超微博第一个关注常州",
+        "onboard_time": 1749111623,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151852,
+        "num": 151852,
+        "word": "藏海传原创梗",
+        "onboard_time": 1749112281,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151084,
+        "num": 151084,
+        "word": "载3000辆汽车的轮船在太平洋起火",
+        "onboard_time": 1749100700,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149546,
+        "num": 149546,
+        "word": "太湖三傻",
+        "onboard_time": 1749111920,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139310,
+        "num": 139310,
+        "word": "上班抑郁算工伤吗",
+        "onboard_time": 1749110901,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138085,
+        "num": 138085,
+        "word": "秦始皇陵没有被盗的真正原因",
+        "onboard_time": 1749109461,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128332,
+        "num": 128332,
+        "word": "马嘉祺歌手第四期选曲",
+        "onboard_time": 1749110361,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中韩战略合作伙伴关系不断向前发展#"
+    }
+  }
+}
