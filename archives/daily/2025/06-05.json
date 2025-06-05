@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749101240191,
+  "endTime": 1749102284887,
   "band_list": [
     {
       "raw_hot": 2184958,
@@ -19,20 +19,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1700088,
+      "num": 946214,
+      "word": "歌手歌单",
+      "onboard_time": 1749100402,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1366274,
       "num": 974240,
       "word": "尼克朱迪不是情侣",
       "onboard_time": 1749081441,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1351039,
-      "num": 863172,
-      "word": "歌手歌单",
-      "onboard_time": 1749100402,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1313225,
@@ -131,6 +131,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 725361,
+      "num": 438952,
+      "word": "小孩哥1.5万压岁钱买银行股赚14%",
+      "onboard_time": 1749098064,
+      "rank": 25,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 692853,
       "num": 692853,
       "word": "电影恶意全阵容官宣",
@@ -145,6 +153,14 @@
       "onboard_time": 1749092779,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 668703,
+      "num": 668703,
+      "word": "汪东城批Labubu黄牛是恶人",
+      "onboard_time": 1749098183,
+      "rank": 14,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 667132,
@@ -195,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 573565,
-      "num": 573565,
-      "word": "汪东城批Labubu黄牛是恶人",
-      "onboard_time": 1749098183,
-      "rank": 14,
-      "category": "艺人,动漫"
-    },
-    {
       "raw_hot": 543130,
       "num": 543130,
       "word": "电视剧四十七",
@@ -227,20 +235,20 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 498313,
-      "num": 438952,
-      "word": "小孩哥1.5万压岁钱买银行股赚14%",
-      "onboard_time": 1749098064,
-      "rank": 25,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 476171,
       "num": 476171,
       "word": "高考倒计时2天",
       "onboard_time": 1749082282,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 457700,
+      "num": 457700,
+      "word": "玲花终于体会到曾毅赚钱的快乐了",
+      "onboard_time": 1749099022,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 451853,
@@ -275,14 +283,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 419918,
-      "num": 419918,
-      "word": "玲花终于体会到曾毅赚钱的快乐了",
-      "onboard_time": 1749099022,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 404559,
       "num": 404559,
       "word": "周渝民说单纯想赚钱不用找我",
@@ -297,6 +297,14 @@
       "onboard_time": 1749094221,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 381525,
+      "num": 381525,
+      "word": "杨幂说女性先做好自己再做好妈妈",
+      "onboard_time": 1749101540,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 375378,
@@ -403,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263877,
+      "num": 596085,
+      "word": "一家三口被害但嫌犯被鉴定精神分裂",
+      "onboard_time": 1749095961,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259782,
       "num": 259782,
       "word": "白象多半桶方便面的多半是商标",
@@ -417,14 +433,6 @@
       "onboard_time": 1749086841,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249904,
-      "num": 596085,
-      "word": "一家三口被害但嫌犯被鉴定精神分裂",
-      "onboard_time": 1749095961,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246482,
@@ -539,6 +547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214439,
+      "num": 214439,
+      "word": "恋与制作人",
+      "onboard_time": 1749101661,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212855,
       "num": 278320,
       "word": "侯佩岑发文告别浪姐",
@@ -587,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206111,
+      "num": 240461,
+      "word": "辛云来了",
+      "onboard_time": 1749101661,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205298,
       "num": 335122,
       "word": "肖战和黄觉较着劲在演",
@@ -619,11 +643,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201371,
+      "num": 201371,
+      "word": "尚雯婕去录浪姐总决赛了",
+      "onboard_time": 1749101240,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201117,
       "num": 515440,
       "word": "黄誉博微博给韩红发了简历",
       "onboard_time": 1749097162,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200372,
+      "num": 189752,
+      "word": "张雨绮黄圣依浪姐友谊",
+      "onboard_time": 1749099803,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -675,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191494,
+      "num": 191494,
+      "word": "又被张元英轻轻美到了",
+      "onboard_time": 1749101901,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191383,
       "num": 189739,
       "word": "BOYS2PLANET有80名中国选手",
@@ -691,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189752,
-      "num": 189752,
-      "word": "张雨绮黄圣依浪姐友谊",
-      "onboard_time": 1749099803,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189707,
       "num": 189707,
       "word": "加沙2名儿童取水时遭无人机杀害",
@@ -713,6 +753,14 @@
       "onboard_time": 1749093139,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 185488,
+      "num": 185488,
+      "word": "载3000辆汽车的轮船在太平洋起火",
+      "onboard_time": 1749100700,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 185341,
@@ -753,6 +801,14 @@
       "onboard_time": 1749084141,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176075,
+      "num": 176075,
+      "word": "张凌赫红发眉钉皮衣",
+      "onboard_time": 1749101061,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 174864,
@@ -819,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170116,
+      "num": 170116,
+      "word": "何炅说宋亚轩最聪明了",
+      "onboard_time": 1749101000,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169237,
       "num": 169237,
       "word": "泡泡玛特",
@@ -883,6 +947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 161410,
+      "num": 161410,
+      "word": "开始推理吧",
+      "onboard_time": 1749101361,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160379,
       "num": 160379,
       "word": "长安二十四计",
@@ -905,14 +977,6 @@
       "onboard_time": 1749098722,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153789,
-      "num": 153789,
-      "word": "何炅说宋亚轩最聪明了",
-      "onboard_time": 1749101000,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 152668,
@@ -987,12 +1051,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 140679,
-      "num": 140679,
-      "word": "载3000辆汽车的轮船在太平洋起火",
-      "onboard_time": 1749100700,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 140493,
+      "num": 189442,
+      "word": "KPL青春是同一片赛场",
+      "onboard_time": 1749101661,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 139736,
@@ -1019,20 +1083,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135554,
-      "num": 135554,
-      "word": "张凌赫红发眉钉皮衣",
-      "onboard_time": 1749101061,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135542,
       "num": 135542,
       "word": "switch2",
       "onboard_time": 1749099022,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133436,
+      "num": 133436,
+      "word": "有一种震撼叫祖国山河如画",
+      "onboard_time": 1749102078,
+      "rank": 44,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 130799,
@@ -1203,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99766,
+      "num": 180691,
+      "word": "梁实称想不通为何无法上岸",
+      "onboard_time": 1749102078,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99263,
       "num": 99263,
       "word": "朱茵53岁状态",
@@ -1307,6 +1379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 76546,
+      "num": 578276,
+      "word": "李昀锐的清爽感是夏日刚需",
+      "onboard_time": 1749096863,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74760,
       "num": 74760,
       "word": "47岁河智苑近照",
@@ -1345,14 +1425,6 @@
       "onboard_time": 1749052879,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70649,
-      "num": 578276,
-      "word": "李昀锐的清爽感是夏日刚需",
-      "onboard_time": 1749096863,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 70172,
@@ -1491,6 +1563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44462,
+      "num": 718894,
+      "word": "芒种时节播种希望收获美好",
+      "onboard_time": 1749101122,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43816,
       "num": 49276,
       "word": "为什么原来不过敏现在却过敏了",
@@ -1515,12 +1595,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 37879,
+      "num": 153835,
+      "word": "网友分享被蛇咬后的急救措施",
+      "onboard_time": 1749099982,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37052,
+      "num": 179599,
+      "word": "帮外国女孩找到东方美",
+      "onboard_time": 1749101540,
+      "rank": 29,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 35310,
       "num": 42697,
       "word": "过去20个月加沙伤亡儿童达5万",
       "onboard_time": 1749049881,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33474,
+      "num": 572444,
+      "word": "4个实用小技巧缓解高考焦虑",
+      "onboard_time": 1749101122,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32214,
@@ -1537,14 +1641,6 @@
       "onboard_time": 1749057017,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 31128,
-      "num": 153835,
-      "word": "网友分享被蛇咬后的急救措施",
-      "onboard_time": 1749099982,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29223,
@@ -1624,22 +1720,6 @@
       "word": "当地回应道路塌陷大坑有车辆陷入",
       "onboard_time": 1749070154,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11484,
-      "num": 153882,
-      "word": "4个实用小技巧缓解高考焦虑",
-      "onboard_time": 1749101122,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9567,
-      "num": 718894,
-      "word": "芒种时节播种希望收获美好",
-      "onboard_time": 1749101122,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
