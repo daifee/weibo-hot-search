@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749145313234,
+  "endTime": 1749149997681,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111833,
+      "num": 111833,
+      "word": "迪士尼没承认过狐尼克和朱迪是情侣",
+      "onboard_time": 1749146475,
+      "rank": 3,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 111799,
       "num": 111799,
       "word": "国足世预赛出局",
@@ -491,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35876,
+      "num": 35876,
+      "word": "华科学长李昀锐送高考祝福",
+      "onboard_time": 1749149174,
+      "rank": 14,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 33178,
       "num": 81209,
       "word": "巴林vs沙特",
@@ -505,6 +521,30 @@
       "onboard_time": 1749128541,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24251,
+      "num": 28343,
+      "word": "第一次见女主像小说里的仙门路人甲",
+      "onboard_time": 1749148755,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15773,
+      "num": 23703,
+      "word": "警方回应网红违停跳上警车吼叫",
+      "onboard_time": 1749148334,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14868,
+      "num": 30736,
+      "word": "印尼一载80余人游艇侧翻沉没",
+      "onboard_time": 1749149055,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14820,
