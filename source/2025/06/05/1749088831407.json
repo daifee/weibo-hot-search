@@ -1,0 +1,410 @@
+{
+  "runTime": 1749088831407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 579039,
+        "num": 1092646,
+        "word": "悬赏通缉20名台湾黑客",
+        "onboard_time": 1749083421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1882820,
+        "num": 1065797,
+        "word": "特朗普全面暂停12国国民进入美国",
+        "onboard_time": 1749083121,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69570,
+        "num": 927245,
+        "word": "非遗文旅带火中国游",
+        "onboard_time": 1749046163,
+        "rank": 2,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 1366274,
+        "num": 880503,
+        "word": "尼克朱迪不是情侣",
+        "onboard_time": 1749081441,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 793361,
+        "num": 793361,
+        "word": "2025高考试卷已在路上",
+        "onboard_time": 1749083841,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 530497,
+        "num": 530497,
+        "word": "白象食品道歉",
+        "onboard_time": 1749043403,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525279,
+        "num": 525279,
+        "word": "印度踩踏事件已致11死50余伤",
+        "onboard_time": 1749082400,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 501811,
+        "num": 501811,
+        "word": "云南大理5.0级地震",
+        "onboard_time": 1749078618,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287675,
+        "num": 450750,
+        "word": "电视剧四十七",
+        "onboard_time": 1749087380,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416954,
+        "num": 416954,
+        "word": "对台独顽固分子沈伯洋关联企业予以惩戒",
+        "onboard_time": 1749086240,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 612456,
+        "num": 416581,
+        "word": "被咬身亡女子家属回应为何不尸检",
+        "onboard_time": 1749047721,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603951,
+        "num": 416294,
+        "word": "孕妈的数数习惯救了腹中宝宝一命",
+        "onboard_time": 1749088160,
+        "rank": 11,
+        "category": "母婴育儿,民生新闻"
+      },
+      {
+        "raw_hot": 375378,
+        "num": 375378,
+        "word": "杨丞琳陈妍希生日合照",
+        "onboard_time": 1749081620,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372218,
+        "num": 372218,
+        "word": "银环蛇",
+        "onboard_time": 1749051861,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323132,
+        "num": 323132,
+        "word": "李在明曾被妻子嫌弃长得显老",
+        "onboard_time": 1749078557,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305380,
+        "num": 305380,
+        "word": "济州岛偶遇叶舒华",
+        "onboard_time": 1749086060,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287404,
+        "num": 287404,
+        "word": "花少阵容临时变动",
+        "onboard_time": 1749078918,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267971,
+        "num": 267971,
+        "word": "高明扮演者回应藏海传拍第二部",
+        "onboard_time": 1749081260,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257454,
+        "num": 257454,
+        "word": "尹净汉结业典礼",
+        "onboard_time": 1749086841,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255691,
+        "num": 255691,
+        "word": "何秋亊直播爆粗口",
+        "onboard_time": 1749041062,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246482,
+        "num": 246482,
+        "word": "这几种食物是湿气之源",
+        "onboard_time": 1749085641,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225760,
+        "num": 225760,
+        "word": "特朗普政府紧急致信各国",
+        "onboard_time": 1749081200,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222494,
+        "num": 222494,
+        "word": "王者荣耀",
+        "onboard_time": 1749087980,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186537,
+        "num": 221899,
+        "word": "侯佩岑发文告别浪姐",
+        "onboard_time": 1749082340,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147958,
+        "num": 221395,
+        "word": "网红歌手段煜离世好友发声",
+        "onboard_time": 1749083962,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 143671,
+        "num": 220518,
+        "word": "差点没认出陈妍希",
+        "onboard_time": 1749049223,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74576,
+        "num": 220186,
+        "word": "葡萄牙晋级欧国联决赛",
+        "onboard_time": 1749081680,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139648,
+        "num": 219129,
+        "word": "鹿晗怼脸比耶自拍",
+        "onboard_time": 1749047842,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130803,
+        "num": 218599,
+        "word": "何秋亊方不愿意公开第三方公司信息",
+        "onboard_time": 1749085402,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124682,
+        "num": 217730,
+        "word": "何秋亊撇清与安静公主关系",
+        "onboard_time": 1749044364,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217593,
+        "num": 217593,
+        "word": "男子赌博欠债倒卖千年裹尸布被抓",
+        "onboard_time": 1749080299,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196440,
+        "num": 196440,
+        "word": "高考倒计时2天",
+        "onboard_time": 1749082282,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181643,
+        "num": 181643,
+        "word": "打印店用微信传输要留意个人隐私",
+        "onboard_time": 1749085941,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177863,
+        "num": 177863,
+        "word": "美国宣布将对哈佛国际学生限制签证",
+        "onboard_time": 1749084141,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166928,
+        "num": 166928,
+        "word": "飞天茅台批发价跌破2000元",
+        "onboard_time": 1749082461,
+        "rank": 34,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 162090,
+        "num": 162090,
+        "word": "天天喝这种水身体炎症在悄悄升高",
+        "onboard_time": 1749080538,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152668,
+        "num": 152668,
+        "word": "直击安徽六安毛坦厂中学送考",
+        "onboard_time": 1749084562,
+        "rank": 36,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 145580,
+        "num": 145580,
+        "word": "芒种",
+        "onboard_time": 1749079217,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134643,
+        "num": 134643,
+        "word": "台湾资通电军是个什么组织",
+        "onboard_time": 1749088521,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138000,
+        "num": 134588,
+        "word": "湿气最重的15天来了",
+        "onboard_time": 1749088339,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134398,
+        "num": 134398,
+        "word": "白象多半系列面饼只多25g",
+        "onboard_time": 1749038359,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131602,
+        "num": 131602,
+        "word": "人没动但科目一自动答题考过了",
+        "onboard_time": 1749040700,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128758,
+        "num": 128758,
+        "word": "女生患不死癌症自学插胃管一次成功",
+        "onboard_time": 1749042739,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114563,
+        "num": 114563,
+        "word": "怂怂小猫表示我先下线了有事call我",
+        "onboard_time": 1749088700,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113245,
+        "num": 113245,
+        "word": "七根心简",
+        "onboard_time": 1749087921,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110981,
+        "num": 110981,
+        "word": "美再次独家否决安理会涉加沙决议",
+        "onboard_time": 1749082522,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106581,
+        "num": 106581,
+        "word": "安师大将严惩调朱某去保卫处的责任人",
+        "onboard_time": 1749083542,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106273,
+        "num": 106273,
+        "word": "博主啊宝讲毒蛇1天涨粉190万",
+        "onboard_time": 1749080600,
+        "rank": 47,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 105005,
+        "num": 105005,
+        "word": "射雕藏海传",
+        "onboard_time": 1749088821,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104176,
+        "num": 104176,
+        "word": "建议女性每个月做一次乳房自检",
+        "onboard_time": 1749080420,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}
