@@ -1,0 +1,410 @@
+{
+  "runTime": 1749106358231,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 261495,
+        "num": 1041839,
+        "word": "悬赏通缉20名台湾黑客",
+        "onboard_time": 1749083421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 759819,
+        "num": 759819,
+        "word": "歌手歌单",
+        "onboard_time": 1749100402,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29366,
+        "num": 666126,
+        "word": "芒种时节播种希望收获美好",
+        "onboard_time": 1749101122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633807,
+        "num": 633807,
+        "word": "女孩遭体罚去世3人涉嫌虐待罪被拘留",
+        "onboard_time": 1749097402,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528736,
+        "num": 528736,
+        "word": "范玮琪歌手补位",
+        "onboard_time": 1749103701,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490199,
+        "num": 490199,
+        "word": "老人被五步蛇咬伤打16支血清脱险",
+        "onboard_time": 1749103520,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423710,
+        "num": 423710,
+        "word": "单依纯唱李白",
+        "onboard_time": 1749103640,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406792,
+        "num": 406792,
+        "word": "杨幂说女性先做好自己再做好妈妈",
+        "onboard_time": 1749101540,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350653,
+        "num": 350653,
+        "word": "载3000辆汽车的轮船在太平洋起火",
+        "onboard_time": 1749100700,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335188,
+        "num": 335188,
+        "word": "特朗普全面暂停12国国民进入美国",
+        "onboard_time": 1749083121,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1060686,
+        "num": 334920,
+        "word": "建议大家要远离恋爱式友情",
+        "onboard_time": 1749095722,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 649175,
+        "num": 329112,
+        "word": "40岁女子不染发养了16个月的白发",
+        "onboard_time": 1749104180,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398936,
+        "num": 322591,
+        "word": "张小斐电影尺度",
+        "onboard_time": 1749105320,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390971,
+        "num": 320925,
+        "word": "杨幂说小糯米画画挺好",
+        "onboard_time": 1749106041,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344918,
+        "num": 313336,
+        "word": "黄明昊出道日是林一儿子生日",
+        "onboard_time": 1749104361,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311654,
+        "num": 311654,
+        "word": "小孩哥1.5万压岁钱买银行股赚14%",
+        "onboard_time": 1749098064,
+        "rank": 15,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 236309,
+        "num": 236309,
+        "word": "95后男子买彩票中2930万",
+        "onboard_time": 1749090859,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33616,
+        "num": 236267,
+        "word": "陈都灵说电影之夜都灵都灵",
+        "onboard_time": 1749105621,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26398,
+        "num": 236172,
+        "word": "哪些食物会增加体内湿气",
+        "onboard_time": 1749105680,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86547,
+        "num": 236084,
+        "word": "labubu为何能够全球爆火",
+        "onboard_time": 1749104960,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134231,
+        "num": 235920,
+        "word": "有一种震撼叫祖国山河如画",
+        "onboard_time": 1749102078,
+        "rank": 20,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 337176,
+        "num": 235895,
+        "word": "敖瑞鹏发长文分享一万三的故事",
+        "onboard_time": 1749100463,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313866,
+        "num": 235766,
+        "word": "黄景瑜进车2小时逃生6秒钟",
+        "onboard_time": 1749104361,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283764,
+        "num": 235648,
+        "word": "汪东城批Labubu黄牛是恶人",
+        "onboard_time": 1749098183,
+        "rank": 23,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 255215,
+        "num": 235593,
+        "word": "权志龙点赞蔡徐坤舞台",
+        "onboard_time": 1749105559,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235524,
+        "num": 235524,
+        "word": "玲花终于体会到曾毅赚钱的快乐了",
+        "onboard_time": 1749099022,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165101,
+        "num": 230813,
+        "word": "小鹏G7全球首发小鹏华为联合研发ARHUD",
+        "onboard_time": 1749103701,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157453,
+        "num": 221022,
+        "word": "NewJeans无意达成和解",
+        "onboard_time": 1749105022,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178134,
+        "num": 216291,
+        "word": "暖阳的礼物车开到康平路了",
+        "onboard_time": 1749106160,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72868,
+        "num": 205714,
+        "word": "李在明就职典礼上两名警卫互相推搡",
+        "onboard_time": 1749104601,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201756,
+        "num": 201756,
+        "word": "张杰祝高考学子心向往之行必能至",
+        "onboard_time": 1749105621,
+        "rank": 30,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 196710,
+        "num": 196710,
+        "word": "labubu",
+        "onboard_time": 1749093680,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 182663,
+        "num": 182663,
+        "word": "怎么越丑的东西越火",
+        "onboard_time": 1749090981,
+        "rank": 32,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 171749,
+        "num": 171749,
+        "word": "又被张元英轻轻美到了",
+        "onboard_time": 1749101901,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169793,
+        "num": 169793,
+        "word": "成毅谢淮安开启复仇对弈",
+        "onboard_time": 1749104420,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168682,
+        "num": 168682,
+        "word": "华坪女高学生为高考学子加油",
+        "onboard_time": 1749103100,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156296,
+        "num": 156296,
+        "word": "义乌女老板卖labubu娃衣3个月开3家店",
+        "onboard_time": 1749106160,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74077,
+        "num": 152851,
+        "word": "LGDNBW对战DRG",
+        "onboard_time": 1749106340,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151807,
+        "num": 151807,
+        "word": "张凌赫给迪丽热巴吓一激灵",
+        "onboard_time": 1749103760,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80711,
+        "num": 147226,
+        "word": "网警依法打击涉抗日战争谣言",
+        "onboard_time": 1749106282,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46236,
+        "num": 146087,
+        "word": "有哪些诱发乳腺癌的坏习惯",
+        "onboard_time": 1749106282,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145358,
+        "num": 145358,
+        "word": "李在明就职典礼上两警卫肢体冲突",
+        "onboard_time": 1749104660,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132227,
+        "num": 132227,
+        "word": "刘浩存是小说里天赋异禀的小师妹吧",
+        "onboard_time": 1749104781,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130921,
+        "num": 130921,
+        "word": "辛云来了",
+        "onboard_time": 1749101661,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126114,
+        "num": 126114,
+        "word": "送考",
+        "onboard_time": 1749106041,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123649,
+        "num": 123649,
+        "word": "台湾资通电军是个什么组织",
+        "onboard_time": 1749088521,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123284,
+        "num": 123284,
+        "word": "李白",
+        "onboard_time": 1749104062,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121634,
+        "num": 121634,
+        "word": "泡泡玛特",
+        "onboard_time": 1749098543,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115123,
+        "num": 118768,
+        "word": "王鹤棣哈利伯顿合影",
+        "onboard_time": 1749104000,
+        "rank": 48,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 128684,
+        "num": 118762,
+        "word": "宁静问辛云来你有什么代表作",
+        "onboard_time": 1749103941,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中韩战略合作伙伴关系不断向前发展#"
+    }
+  }
+}
