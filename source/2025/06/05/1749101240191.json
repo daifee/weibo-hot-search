@@ -1,0 +1,410 @@
+{
+  "runTime": 1749101240191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 341970,
+        "num": 1054715,
+        "word": "悬赏通缉20名台湾黑客",
+        "onboard_time": 1749083421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1351039,
+        "num": 863172,
+        "word": "歌手歌单",
+        "onboard_time": 1749100402,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9567,
+        "num": 718894,
+        "word": "芒种时节播种希望收获美好",
+        "onboard_time": 1749101122,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1171672,
+        "num": 698427,
+        "word": "女孩遭体罚去世3人涉嫌虐待罪被拘留",
+        "onboard_time": 1749097402,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660464,
+        "num": 660464,
+        "word": "特朗普全面暂停12国国民进入美国",
+        "onboard_time": 1749083121,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 573565,
+        "num": 573565,
+        "word": "汪东城批Labubu黄牛是恶人",
+        "onboard_time": 1749098183,
+        "rank": 5,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 498272,
+        "num": 498272,
+        "word": "95后男子买彩票中2930万",
+        "onboard_time": 1749090859,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476537,
+        "num": 476537,
+        "word": "歌手本周双补位",
+        "onboard_time": 1749093861,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458335,
+        "num": 458335,
+        "word": "labubu",
+        "onboard_time": 1749093680,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 453433,
+        "num": 453433,
+        "word": "尼克朱迪不是情侣",
+        "onboard_time": 1749081441,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53799,
+        "num": 451218,
+        "word": "李昀锐的清爽感是夏日刚需",
+        "onboard_time": 1749096863,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1793405,
+        "num": 440081,
+        "word": "建议大家要远离恋爱式友情",
+        "onboard_time": 1749095722,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 498313,
+        "num": 438952,
+        "word": "小孩哥1.5万压岁钱买银行股赚14%",
+        "onboard_time": 1749098064,
+        "rank": 12,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 90062,
+        "num": 427717,
+        "word": "我家门前有条河",
+        "onboard_time": 1749097521,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229345,
+        "num": 426581,
+        "word": "一家三口被害但嫌犯被鉴定精神分裂",
+        "onboard_time": 1749095961,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419918,
+        "num": 419918,
+        "word": "玲花终于体会到曾毅赚钱的快乐了",
+        "onboard_time": 1749099022,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372314,
+        "num": 372314,
+        "word": "怎么越丑的东西越火",
+        "onboard_time": 1749090981,
+        "rank": 16,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 363200,
+        "num": 363200,
+        "word": "台湾资通电军是个什么组织",
+        "onboard_time": 1749088521,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291261,
+        "num": 291261,
+        "word": "巴黎世家半身裙",
+        "onboard_time": 1749092779,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241887,
+        "num": 265147,
+        "word": "陈思诚张小斐首度合作",
+        "onboard_time": 1749095662,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259814,
+        "num": 259814,
+        "word": "医生称孕反突然消失或和胎停有关",
+        "onboard_time": 1749093980,
+        "rank": 20,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 241219,
+        "num": 241219,
+        "word": "长安的荔枝要开播啦",
+        "onboard_time": 1749099922,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230727,
+        "num": 230727,
+        "word": "樊振东留洋或能丰富技术",
+        "onboard_time": 1749098064,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211702,
+        "num": 211702,
+        "word": "周翊然心里想着娣娣嘴上叫着娜娜",
+        "onboard_time": 1749100162,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64636,
+        "num": 206368,
+        "word": "黎深雪山胡吃海塞大礼包",
+        "onboard_time": 1749100162,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201825,
+        "num": 201825,
+        "word": "宁静说孟子义看人的眼神很真诚",
+        "onboard_time": 1749100101,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198036,
+        "num": 198036,
+        "word": "敖瑞鹏发长文分享一万三的故事",
+        "onboard_time": 1749100463,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194872,
+        "num": 194872,
+        "word": "丁禹兮为姜妍开门护头",
+        "onboard_time": 1749099982,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189752,
+        "num": 189752,
+        "word": "张雨绮黄圣依浪姐友谊",
+        "onboard_time": 1749099803,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121455,
+        "num": 188186,
+        "word": "美国女子长有畸形怪胎长达18年",
+        "onboard_time": 1749099083,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187150,
+        "num": 187150,
+        "word": "白象食品道歉",
+        "onboard_time": 1749043403,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168023,
+        "num": 168023,
+        "word": "侯佩岑发文告别浪姐",
+        "onboard_time": 1749082340,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160379,
+        "num": 160379,
+        "word": "长安二十四计",
+        "onboard_time": 1749099442,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157360,
+        "num": 157360,
+        "word": "刘宇宁已有多部剧上星",
+        "onboard_time": 1749095181,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65327,
+        "num": 155986,
+        "word": "谁懂高考前刷到这份指南的含金量",
+        "onboard_time": 1749096382,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155361,
+        "num": 155361,
+        "word": "高考倒计时2天",
+        "onboard_time": 1749082282,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83222,
+        "num": 154200,
+        "word": "为什么全网都爱看江苏内斗",
+        "onboard_time": 1749096141,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11484,
+        "num": 153882,
+        "word": "4个实用小技巧缓解高考焦虑",
+        "onboard_time": 1749101122,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31128,
+        "num": 153835,
+        "word": "网友分享被蛇咬后的急救措施",
+        "onboard_time": 1749099982,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153789,
+        "num": 153789,
+        "word": "何炅说宋亚轩最聪明了",
+        "onboard_time": 1749101000,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146904,
+        "num": 146904,
+        "word": "女子疑被蛇咬身亡哪个环节出了问题",
+        "onboard_time": 1749091460,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142530,
+        "num": 142530,
+        "word": "不良人",
+        "onboard_time": 1749090859,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140679,
+        "num": 140679,
+        "word": "载3000辆汽车的轮船在太平洋起火",
+        "onboard_time": 1749100700,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140655,
+        "num": 140655,
+        "word": "性格强势的人在职场上会吃香吗",
+        "onboard_time": 1749098302,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139736,
+        "num": 139736,
+        "word": "王安宇壁纸",
+        "onboard_time": 1749100282,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135554,
+        "num": 135554,
+        "word": "张凌赫红发眉钉皮衣",
+        "onboard_time": 1749101061,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135542,
+        "num": 135542,
+        "word": "switch2",
+        "onboard_time": 1749099022,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133545,
+        "num": 133545,
+        "word": "泡泡玛特",
+        "onboard_time": 1749098543,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 129409,
+        "num": 129409,
+        "word": "孕妈的数数习惯救了腹中宝宝一命",
+        "onboard_time": 1749088160,
+        "rank": 48,
+        "category": "母婴育儿,民生新闻"
+      },
+      {
+        "raw_hot": 29223,
+        "num": 127911,
+        "word": "隔夜西瓜可以用大蒜保鲜吗",
+        "onboard_time": 1749099742,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中韩战略合作伙伴关系不断向前发展#"
+    }
+  }
+}
