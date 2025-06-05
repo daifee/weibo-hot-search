@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749120449584,
+  "endTime": 1749122628674,
   "band_list": [
     {
       "raw_hot": 2184958,
@@ -57,6 +57,14 @@
       "onboard_time": 1749043403,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1172032,
+      "num": 306298,
+      "word": "400块的鞋犹豫了三年",
+      "onboard_time": 1749117021,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 1171672,
@@ -121,6 +129,14 @@
       "onboard_time": 1749092240,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 811554,
+      "num": 811554,
+      "word": "藏海传豆瓣开分7.1",
+      "onboard_time": 1749121399,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 793361,
@@ -579,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336822,
+      "num": 336822,
+      "word": "央视转播苏超",
+      "onboard_time": 1749119240,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329020,
       "num": 329020,
       "word": "人没动但科目一自动答题考过了",
@@ -769,14 +793,6 @@
       "onboard_time": 1749013700,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234466,
-      "num": 234466,
-      "word": "400块的鞋犹豫了三年",
-      "onboard_time": 1749117021,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 232284,
@@ -1123,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197823,
+      "num": 197823,
+      "word": "豆瓣分型",
+      "onboard_time": 1749121880,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195846,
       "num": 280319,
       "word": "网传范玮琪歌手补位",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1749099982,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193162,
+      "num": 181484,
+      "word": "易烊千玺新EP",
+      "onboard_time": 1749122301,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 192196,
@@ -1169,6 +1201,14 @@
       "onboard_time": 1749046282,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 187368,
+      "num": 187368,
+      "word": "国产九价HPV疫苗与进口等效",
+      "onboard_time": 1749121039,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186251,
@@ -1217,6 +1257,14 @@
       "onboard_time": 1749103100,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181319,
+      "num": 181319,
+      "word": "华妃没事也晃她那双爪子",
+      "onboard_time": 1749122060,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 178134,
@@ -1443,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164773,
+      "num": 164773,
+      "word": "警方回应台州23岁失联女子已死亡",
+      "onboard_time": 1749121280,
+      "rank": 25,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 164188,
       "num": 164188,
       "word": "博主啊宝称女子99%为银环蛇咬伤",
@@ -1587,6 +1643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149925,
+      "num": 149925,
+      "word": "时代少年团纪录片",
+      "onboard_time": 1749121039,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149610,
       "num": 149610,
       "word": "严浩翔卷毛玫瑰衬衫",
@@ -1619,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148102,
+      "num": 148102,
+      "word": "十个勤天演唱会抢票",
+      "onboard_time": 1749121819,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147958,
       "num": 221395,
       "word": "网红歌手段煜离世好友发声",
@@ -1643,20 +1715,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146057,
+      "num": 146057,
+      "word": "夏以昼好会亲",
+      "onboard_time": 1749120261,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145982,
       "num": 145982,
       "word": "汽车业务分立为一家独立中央企业",
       "onboard_time": 1749089840,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 145686,
-      "num": 145686,
-      "word": "央视转播苏超",
-      "onboard_time": 1749119240,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 145677,
@@ -1851,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129372,
+      "num": 152910,
+      "word": "朝鲜驱逐舰已被扶正",
+      "onboard_time": 1749122242,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127910,
       "num": 127910,
       "word": "李在明称将启动紧急经济专班",
@@ -1907,20 +1987,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 121156,
+      "num": 121156,
+      "word": "吴三跪",
+      "onboard_time": 1749119302,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119320,
       "num": 119320,
       "word": "王安宇刘浩存能不能二搭",
       "onboard_time": 1749046043,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118834,
-      "num": 118834,
-      "word": "夏以昼好会亲",
-      "onboard_time": 1749120261,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 115592,
@@ -2003,6 +2083,38 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111470,
+      "num": 111470,
+      "word": "吃了紧急避孕药身体会经历什么",
+      "onboard_time": 1749120562,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109762,
+      "num": 109762,
+      "word": "女子带面瘫猫咪针灸扎成刺猬",
+      "onboard_time": 1749122421,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108493,
+      "num": 108493,
+      "word": "市监局对星巴克疑喝出蟑螂不予立案",
+      "onboard_time": 1749121280,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107697,
+      "num": 107697,
+      "word": "国足队员为适应天气提前把空调关了",
+      "onboard_time": 1749122180,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106853,
       "num": 208358,
       "word": "年轻人抛弃的KTV被老年人救活了",
@@ -2041,6 +2153,14 @@
       "onboard_time": 1749044002,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103458,
+      "num": 103458,
+      "word": "王自如将回应离开格力",
+      "onboard_time": 1749121101,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 103402,
@@ -2483,6 +2603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 52856,
+      "num": 131668,
+      "word": "独居女生34平米的蜗居小家",
+      "onboard_time": 1749120980,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51997,
       "num": 189422,
       "word": "Labubu粉丝花20万买货",
@@ -2643,6 +2771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37464,
+      "num": 133914,
+      "word": "单双休对心理有什么影响",
+      "onboard_time": 1749122539,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 37052,
       "num": 179599,
       "word": "帮外国女孩找到东方美",
@@ -2667,6 +2803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34378,
+      "num": 237930,
+      "word": "抢一张苏超足球联赛票到底有多难",
+      "onboard_time": 1749121399,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33616,
       "num": 236267,
       "word": "陈都灵说电影之夜都灵都灵",
@@ -2681,6 +2825,14 @@
       "onboard_time": 1749101122,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32658,
+      "num": 187295,
+      "word": "FBI称有证据表明爱泼斯坦确系自杀",
+      "onboard_time": 1749121581,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 32214,
@@ -2753,6 +2905,14 @@
       "onboard_time": 1749099742,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 28638,
+      "num": 131975,
+      "word": "漂亮饭为啥吃的人这么多",
+      "onboard_time": 1749120741,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 28082,
@@ -2867,6 +3027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21832,
+      "num": 147313,
+      "word": "买家退货后遭店家索赔",
+      "onboard_time": 1749120140,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21269,
       "num": 224334,
       "word": "为什么刚洗完澡容易招蚊子",
@@ -2905,6 +3073,14 @@
       "onboard_time": 1749062415,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17626,
+      "num": 134466,
+      "word": "巴一警察月薪一千多养六娃",
+      "onboard_time": 1749122539,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17221,
@@ -2961,14 +3137,6 @@
       "onboard_time": 1749114682,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 7580,
-      "num": 147313,
-      "word": "买家退货后遭店家索赔",
-      "onboard_time": 1749120140,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6825,

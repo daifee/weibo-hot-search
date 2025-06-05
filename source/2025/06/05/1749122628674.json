@@ -1,0 +1,410 @@
+{
+  "runTime": 1749122628674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 131574,
+        "num": 1021051,
+        "word": "悬赏通缉20名台湾黑客",
+        "onboard_time": 1749083421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811554,
+        "num": 811554,
+        "word": "藏海传豆瓣开分7.1",
+        "onboard_time": 1749121399,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19612,
+        "num": 466079,
+        "word": "台湾资通电军是个什么组织",
+        "onboard_time": 1749088521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423678,
+        "num": 423678,
+        "word": "女孩遭体罚去世3人涉嫌虐待罪被拘留",
+        "onboard_time": 1749097402,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411964,
+        "num": 411964,
+        "word": "何秋亊 没EXO版权",
+        "onboard_time": 1749107720,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351320,
+        "num": 351320,
+        "word": "女子欠款1700万法院悬赏170万寻人",
+        "onboard_time": 1749116360,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361076,
+        "num": 350039,
+        "word": "披荆斩棘5阵容",
+        "onboard_time": 1749116061,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341019,
+        "num": 341019,
+        "word": "长期喝咖啡的人后来都怎么样了",
+        "onboard_time": 1749109762,
+        "rank": 7,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 336822,
+        "num": 336822,
+        "word": "央视转播苏超",
+        "onboard_time": 1749119240,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326281,
+        "num": 326281,
+        "word": "杨幂 承认自己不完美不需要勇气",
+        "onboard_time": 1749113780,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1172032,
+        "num": 306298,
+        "word": "400块的鞋犹豫了三年",
+        "onboard_time": 1749117021,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 434123,
+        "num": 289758,
+        "word": "鹿晗黄子韬代唱",
+        "onboard_time": 1749107420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349676,
+        "num": 267430,
+        "word": "王铮亮女儿两天拿了两个冠军",
+        "onboard_time": 1749113059,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341086,
+        "num": 246532,
+        "word": "陈梦撕拉片",
+        "onboard_time": 1749117680,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34378,
+        "num": 237930,
+        "word": "抢一张苏超足球联赛票到底有多难",
+        "onboard_time": 1749121399,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330207,
+        "num": 203288,
+        "word": "李在明首次主持国务会议场面尴尬",
+        "onboard_time": 1749115759,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197823,
+        "num": 197823,
+        "word": "豆瓣分型",
+        "onboard_time": 1749121880,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195952,
+        "num": 195952,
+        "word": "种地吧",
+        "onboard_time": 1749117262,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187368,
+        "num": 187368,
+        "word": "国产九价HPV疫苗与进口等效",
+        "onboard_time": 1749121039,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32658,
+        "num": 187295,
+        "word": "FBI称有证据表明爱泼斯坦确系自杀",
+        "onboard_time": 1749121581,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 349954,
+        "num": 185900,
+        "word": "21岁女子抗癌2年后发现误诊",
+        "onboard_time": 1749115402,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233122,
+        "num": 183930,
+        "word": "游客被咬伤身亡相关医生已被停职",
+        "onboard_time": 1749111562,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197602,
+        "num": 183577,
+        "word": "建议大家要远离恋爱式友情",
+        "onboard_time": 1749095722,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193162,
+        "num": 181484,
+        "word": "易烊千玺新EP",
+        "onboard_time": 1749122301,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181319,
+        "num": 181319,
+        "word": "华妃没事也晃她那双爪子",
+        "onboard_time": 1749122060,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164773,
+        "num": 164773,
+        "word": "警方回应台州23岁失联女子已死亡",
+        "onboard_time": 1749121280,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 129372,
+        "num": 152910,
+        "word": "朝鲜驱逐舰已被扶正",
+        "onboard_time": 1749122242,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149925,
+        "num": 149925,
+        "word": "时代少年团纪录片",
+        "onboard_time": 1749121039,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149212,
+        "num": 149212,
+        "word": "40岁女子不染发养了16个月的白发",
+        "onboard_time": 1749104180,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148102,
+        "num": 148102,
+        "word": "十个勤天演唱会抢票",
+        "onboard_time": 1749121819,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146057,
+        "num": 146057,
+        "word": "夏以昼好会亲",
+        "onboard_time": 1749120261,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143189,
+        "num": 143189,
+        "word": "歌手歌单",
+        "onboard_time": 1749100402,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137999,
+        "num": 137999,
+        "word": "江苏景区预订暴涨超300%",
+        "onboard_time": 1749116720,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137076,
+        "num": 137076,
+        "word": "权志龙点赞蔡徐坤舞台",
+        "onboard_time": 1749105559,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27904,
+        "num": 136143,
+        "word": "哪些症状预示着糖尿病早期",
+        "onboard_time": 1749120080,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17626,
+        "num": 134466,
+        "word": "巴一警察月薪一千多养六娃",
+        "onboard_time": 1749122539,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37464,
+        "num": 133914,
+        "word": "单双休对心理有什么影响",
+        "onboard_time": 1749122539,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28638,
+        "num": 131975,
+        "word": "漂亮饭为啥吃的人这么多",
+        "onboard_time": 1749120741,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 52856,
+        "num": 131668,
+        "word": "独居女生34平米的蜗居小家",
+        "onboard_time": 1749120980,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21832,
+        "num": 129109,
+        "word": "买家退货后遭店家索赔",
+        "onboard_time": 1749120140,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129070,
+        "num": 129070,
+        "word": "女司机要水泡奶男收费员秒懂",
+        "onboard_time": 1749113241,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128979,
+        "num": 128979,
+        "word": "邓为金发拍立得",
+        "onboard_time": 1749119240,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127233,
+        "num": 127233,
+        "word": "高考加油",
+        "onboard_time": 1749097942,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127112,
+        "num": 127112,
+        "word": "种地吧直播",
+        "onboard_time": 1749118042,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121156,
+        "num": 121156,
+        "word": "吴三跪",
+        "onboard_time": 1749119302,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111470,
+        "num": 111470,
+        "word": "吃了紧急避孕药身体会经历什么",
+        "onboard_time": 1749120562,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109762,
+        "num": 109762,
+        "word": "女子带面瘫猫咪针灸扎成刺猬",
+        "onboard_time": 1749122421,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108493,
+        "num": 108493,
+        "word": "市监局对星巴克疑喝出蟑螂不予立案",
+        "onboard_time": 1749121280,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107697,
+        "num": 107697,
+        "word": "国足队员为适应天气提前把空调关了",
+        "onboard_time": 1749122180,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103458,
+        "num": 103458,
+        "word": "王自如将回应离开格力",
+        "onboard_time": 1749121101,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记建设美丽中国#"
+    }
+  }
+}
