@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749112464337,
+  "endTime": 1749113302913,
   "band_list": [
     {
       "raw_hot": 2184958,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1160671,
-      "num": 956531,
+      "num": 1033120,
       "word": "男子被蛇咬后忍痛给小青蛇拍了照片",
       "onboard_time": 1749107540,
       "rank": 15,
@@ -105,6 +105,14 @@
       "onboard_time": 1749106160,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 891994,
+      "num": 891994,
+      "word": "长期喝咖啡的人后来都怎么样了",
+      "onboard_time": 1749109762,
+      "rank": 5,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 869922,
@@ -219,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 655517,
-      "num": 655517,
-      "word": "长期喝咖啡的人后来都怎么样了",
-      "onboard_time": 1749109762,
-      "rank": 5,
-      "category": "幽默,民生新闻"
-    },
-    {
       "raw_hot": 650434,
       "num": 650434,
       "word": "鹿晗工作室失实讯息声明",
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 625846,
-      "num": 917912,
+      "num": 944722,
       "word": "台湾资通电军是个什么组织",
       "onboard_time": 1749088521,
       "rank": 38,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554444,
+      "num": 554444,
+      "word": "labubu医美",
+      "onboard_time": 1749109581,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 548228,
       "num": 472254,
       "word": "单依纯唱李白",
@@ -329,14 +337,6 @@
       "onboard_time": 1749082400,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 520033,
-      "num": 520033,
-      "word": "labubu医美",
-      "onboard_time": 1749109581,
-      "rank": 21,
-      "category": "动漫"
     },
     {
       "raw_hot": 501769,
@@ -369,6 +369,14 @@
       "onboard_time": 1749082282,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 465072,
+      "num": 546236,
+      "word": "游客被咬伤身亡相关医生已被停职",
+      "onboard_time": 1749111562,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 457700,
@@ -483,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 349335,
+      "num": 272873,
+      "word": "女司机要水泡奶男收费员秒懂",
+      "onboard_time": 1749113241,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345524,
       "num": 345524,
       "word": "济州岛偶遇叶舒华",
@@ -507,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327904,
+      "num": 327904,
+      "word": "当韩国人第一次感受到西瓜自由",
+      "onboard_time": 1749113241,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313866,
       "num": 256640,
       "word": "黄景瑜进车2小时逃生6秒钟",
@@ -521,6 +545,14 @@
       "onboard_time": 1749090859,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 299123,
+      "num": 299123,
+      "word": "VOGUE直播",
+      "onboard_time": 1749112641,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 296480,
@@ -883,6 +915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 203571,
+      "num": 186361,
+      "word": "藏海传原创梗",
+      "onboard_time": 1749112281,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203190,
       "num": 494711,
       "word": "砖厂涉嫌用智障者务工负责人被控制",
@@ -1099,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175101,
+      "num": 175101,
+      "word": "饶雪漫人生第一次陷入选角漩涡",
+      "onboard_time": 1749108381,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174864,
       "num": 228150,
       "word": "5日17时57分将迎来芒种节气",
@@ -1163,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171458,
+      "num": 171458,
+      "word": "叶童曾担心参加浪姐会砸了饭碗",
+      "onboard_time": 1749113120,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170204,
       "num": 163521,
       "word": "女生患不死癌症自学插胃管一次成功",
@@ -1176,14 +1232,6 @@
       "word": "何炅说宋亚轩最聪明了",
       "onboard_time": 1749101000,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 169937,
-      "num": 169937,
-      "word": "饶雪漫人生第一次陷入选角漩涡",
-      "onboard_time": 1749108381,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1283,14 +1331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163204,
-      "num": 546236,
-      "word": "游客被咬伤身亡相关医生已被停职",
-      "onboard_time": 1749111562,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163083,
       "num": 290044,
       "word": "宋亚轩因为羊失眠了",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1749099442,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157519,
+      "num": 157519,
+      "word": "太湖三傻",
+      "onboard_time": 1749111920,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 157453,
@@ -1371,12 +1419,12 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 151852,
-      "num": 151852,
-      "word": "藏海传原创梗",
-      "onboard_time": 1749112281,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 152062,
+      "num": 152062,
+      "word": "王铮亮女儿两天拿了两个冠军",
+      "onboard_time": 1749113059,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 151547,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1749097341,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149546,
-      "num": 149546,
-      "word": "太湖三傻",
-      "onboard_time": 1749111920,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 149460,
@@ -1449,6 +1489,14 @@
       "onboard_time": 1749107182,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144369,
+      "num": 144369,
+      "word": "医生称被蛇咬后拍照有助于辨认救治",
+      "onboard_time": 1749112702,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144236,
@@ -1539,6 +1587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134625,
+      "num": 263153,
+      "word": "华为手表首发AI手势操控",
+      "onboard_time": 1749110780,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134231,
       "num": 235920,
       "word": "有一种震撼叫祖国山河如画",
@@ -1563,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130939,
+      "num": 130939,
+      "word": "马嘉祺歌手第四期选曲",
+      "onboard_time": 1749110361,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130799,
       "num": 130799,
       "word": "馒头夹糯米学名",
@@ -1585,14 +1649,6 @@
       "onboard_time": 1749104721,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128332,
-      "num": 128332,
-      "word": "马嘉祺歌手第四期选曲",
-      "onboard_time": 1749110361,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 127910,
@@ -1627,12 +1683,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 122836,
-      "num": 263153,
-      "word": "华为手表首发AI手势操控",
-      "onboard_time": 1749110780,
-      "rank": 25,
-      "category": "数码"
+      "raw_hot": 122114,
+      "num": 122114,
+      "word": "原来当学霸这么爽吗",
+      "onboard_time": 1749113120,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 121455,
@@ -1939,6 +1995,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78789,
+      "num": 546893,
+      "word": "外交部评美方再对哈佛出拳",
+      "onboard_time": 1749111142,
+      "rank": 8,
+      "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 78590,
+      "num": 257988,
+      "word": "星巴克回应咖啡杯底现蟑螂",
+      "onboard_time": 1749111381,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76546,
       "num": 578276,
       "word": "李昀锐的清爽感是夏日刚需",
@@ -1969,14 +2041,6 @@
       "onboard_time": 1749106340,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 73735,
-      "num": 546893,
-      "word": "外交部评美方再对哈佛出拳",
-      "onboard_time": 1749111142,
-      "rank": 8,
-      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 72868,
@@ -2027,14 +2091,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 68715,
-      "num": 257988,
-      "word": "星巴克回应咖啡杯底现蟑螂",
-      "onboard_time": 1749111381,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65954,
       "num": 65954,
       "word": "长安的荔枝",
@@ -2057,6 +2113,14 @@
       "onboard_time": 1749037760,
       "rank": 49,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 64905,
+      "num": 535985,
+      "word": "事发地社区回应女子疑被蛇咬身亡",
+      "onboard_time": 1749111680,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64636,
@@ -2291,14 +2355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31763,
-      "num": 535985,
-      "word": "事发地社区回应女子疑被蛇咬身亡",
-      "onboard_time": 1749111680,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31760,
       "num": 39702,
       "word": "上班烦躁的建议去读个研",
@@ -2339,6 +2395,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 28082,
+      "num": 261885,
+      "word": "男子被毒蛇咬伤专家指导自救成功",
+      "onboard_time": 1749111381,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26659,
+      "num": 273060,
+      "word": "康方生物确认患者使用公司临床药物",
+      "onboard_time": 1749112460,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26398,
       "num": 236172,
       "word": "哪些食物会增加体内湿气",
@@ -2369,6 +2441,14 @@
       "onboard_time": 1749071112,
       "rank": 43,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 23863,
+      "num": 525852,
+      "word": "备考期间该如何科学饮食",
+      "onboard_time": 1749111680,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 23599,
@@ -2411,14 +2491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 21560,
-      "num": 261885,
-      "word": "男子被毒蛇咬伤专家指导自救成功",
-      "onboard_time": 1749111381,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20607,
       "num": 23787,
       "word": "外交部回应李在明就任韩国总统",
@@ -2451,20 +2523,20 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 15288,
+      "num": 189732,
+      "word": "凉鞋增塑剂超标有哪些危害",
+      "onboard_time": 1749112880,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 14558,
       "num": 205761,
       "word": "爆发而出的彩带是高考祝福",
       "onboard_time": 1749112340,
       "rank": 33,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 14537,
-      "num": 525852,
-      "word": "备考期间该如何科学饮食",
-      "onboard_time": 1749111680,
-      "rank": 18,
-      "category": "科学科普"
     },
     {
       "raw_hot": 11669,

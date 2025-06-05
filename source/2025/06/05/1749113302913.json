@@ -1,0 +1,410 @@
+{
+  "runTime": 1749113302913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 230906,
+        "num": 1036945,
+        "word": "悬赏通缉20名台湾黑客",
+        "onboard_time": 1749083421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1033120,
+        "num": 1033120,
+        "word": "男子被蛇咬后忍痛给小青蛇拍了照片",
+        "onboard_time": 1749107540,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37309,
+        "num": 944722,
+        "word": "台湾资通电军是个什么组织",
+        "onboard_time": 1749088521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 891994,
+        "num": 891994,
+        "word": "长期喝咖啡的人后来都怎么样了",
+        "onboard_time": 1749109762,
+        "rank": 3,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 662475,
+        "num": 662475,
+        "word": "何秋亊 没EXO版权",
+        "onboard_time": 1749107720,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554444,
+        "num": 554444,
+        "word": "labubu医美",
+        "onboard_time": 1749109581,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 541119,
+        "num": 541119,
+        "word": "鹿晗工作室失实讯息声明",
+        "onboard_time": 1749107841,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 533771,
+        "num": 533771,
+        "word": "义乌女老板卖labubu娃衣3个月开3家店",
+        "onboard_time": 1749106160,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478306,
+        "num": 478306,
+        "word": "女孩遭体罚去世3人涉嫌虐待罪被拘留",
+        "onboard_time": 1749097402,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465072,
+        "num": 465072,
+        "word": "游客被咬伤身亡相关医生已被停职",
+        "onboard_time": 1749111562,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674301,
+        "num": 459242,
+        "word": "建议大家要远离恋爱式友情",
+        "onboard_time": 1749095722,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 574671,
+        "num": 446807,
+        "word": "鹿晗黄子韬代唱",
+        "onboard_time": 1749107420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333791,
+        "num": 333791,
+        "word": "何秋亊抄袭名单",
+        "onboard_time": 1749107901,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327904,
+        "num": 327904,
+        "word": "当韩国人第一次感受到西瓜自由",
+        "onboard_time": 1749113241,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64905,
+        "num": 313959,
+        "word": "事发地社区回应女子疑被蛇咬身亡",
+        "onboard_time": 1749111680,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301981,
+        "num": 301981,
+        "word": "杨幂说小糯米画画挺好",
+        "onboard_time": 1749106041,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299123,
+        "num": 299123,
+        "word": "VOGUE直播",
+        "onboard_time": 1749112641,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 295374,
+        "num": 295374,
+        "word": "权志龙点赞蔡徐坤舞台",
+        "onboard_time": 1749105559,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23863,
+        "num": 279972,
+        "word": "备考期间该如何科学饮食",
+        "onboard_time": 1749111680,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 26659,
+        "num": 273060,
+        "word": "康方生物确认患者使用公司临床药物",
+        "onboard_time": 1749112460,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349335,
+        "num": 272873,
+        "word": "女司机要水泡奶男收费员秒懂",
+        "onboard_time": 1749113241,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272496,
+        "num": 272496,
+        "word": "差点没认出章子怡",
+        "onboard_time": 1749107301,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263769,
+        "num": 263769,
+        "word": "男子玩密室对女鬼NPC摸腿搂腰",
+        "onboard_time": 1749109643,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255112,
+        "num": 255112,
+        "word": "40岁女子不染发养了16个月的白发",
+        "onboard_time": 1749104180,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175402,
+        "num": 254727,
+        "word": "一诺金发白衬衫",
+        "onboard_time": 1749111202,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 254388,
+        "num": 254388,
+        "word": "歌手歌单",
+        "onboard_time": 1749100402,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212388,
+        "num": 212388,
+        "word": "易烊千玺酱园弄杀青照",
+        "onboard_time": 1749109400,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134625,
+        "num": 195295,
+        "word": "华为手表首发AI手势操控",
+        "onboard_time": 1749110780,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12764,
+        "num": 191308,
+        "word": "爆发而出的彩带是高考祝福",
+        "onboard_time": 1749112340,
+        "rank": 28,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 15288,
+        "num": 189732,
+        "word": "凉鞋增塑剂超标有哪些危害",
+        "onboard_time": 1749112880,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 189394,
+        "num": 189394,
+        "word": "华为将发布全球首款5G智能手表",
+        "onboard_time": 1749112221,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203571,
+        "num": 186361,
+        "word": "藏海传原创梗",
+        "onboard_time": 1749112281,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175101,
+        "num": 175101,
+        "word": "饶雪漫人生第一次陷入选角漩涡",
+        "onboard_time": 1749108381,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173316,
+        "num": 173316,
+        "word": "成毅新剧1V12",
+        "onboard_time": 1749110182,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171458,
+        "num": 171458,
+        "word": "叶童曾担心参加浪姐会砸了饭碗",
+        "onboard_time": 1749113120,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157519,
+        "num": 157519,
+        "word": "太湖三傻",
+        "onboard_time": 1749111920,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28082,
+        "num": 152435,
+        "word": "男子被毒蛇咬伤专家指导自救成功",
+        "onboard_time": 1749111381,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78590,
+        "num": 152158,
+        "word": "星巴克回应咖啡杯底现蟑螂",
+        "onboard_time": 1749111381,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152062,
+        "num": 152062,
+        "word": "王铮亮女儿两天拿了两个冠军",
+        "onboard_time": 1749113059,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24939,
+        "num": 148594,
+        "word": "搜狐极限探索者大会",
+        "onboard_time": 1749110478,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146894,
+        "num": 146894,
+        "word": "人有多懒家里智能牛马就有多大产",
+        "onboard_time": 1749112100,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78789,
+        "num": 144449,
+        "word": "外交部评美方再对哈佛出拳",
+        "onboard_time": 1749111142,
+        "rank": 41,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 144369,
+        "num": 144369,
+        "word": "医生称被蛇咬后拍照有助于辨认救治",
+        "onboard_time": 1749112702,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132965,
+        "num": 141683,
+        "word": "范玮琪歌手补位",
+        "onboard_time": 1749103701,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140378,
+        "num": 140378,
+        "word": "高考加油",
+        "onboard_time": 1749097942,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130939,
+        "num": 130939,
+        "word": "马嘉祺歌手第四期选曲",
+        "onboard_time": 1749110361,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127499,
+        "num": 127499,
+        "word": "老人被五步蛇咬伤打16支血清脱险",
+        "onboard_time": 1749103520,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122114,
+        "num": 122114,
+        "word": "原来当学霸这么爽吗",
+        "onboard_time": 1749113120,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121997,
+        "num": 121997,
+        "word": "秦始皇陵没有被盗的真正原因",
+        "onboard_time": 1749109461,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120170,
+        "num": 120170,
+        "word": "张小斐电影尺度",
+        "onboard_time": 1749105320,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中韩战略合作伙伴关系不断向前发展#"
+    }
+  }
+}
