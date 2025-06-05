@@ -1,0 +1,410 @@
+{
+  "runTime": 1749166862707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557555,
+        "num": 1557555,
+        "word": "特朗普马斯克公开骂战",
+        "onboard_time": 1749166100,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 546714,
+        "num": 546714,
+        "word": "特朗普说欢迎中国留学生来美学习",
+        "onboard_time": 1749136222,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14503,
+        "num": 537311,
+        "word": "有一种震撼叫祖国山河如画",
+        "onboard_time": 1749102078,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 869877,
+        "num": 536500,
+        "word": "伊万 下课",
+        "onboard_time": 1749141438,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533324,
+        "num": 533324,
+        "word": "1335万人明天高考",
+        "onboard_time": 1749165860,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 965479,
+        "num": 499297,
+        "word": "国足无缘2026世界杯",
+        "onboard_time": 1749138982,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412138,
+        "num": 412138,
+        "word": "赴山海排播失约网友要求退款",
+        "onboard_time": 1749135682,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389559,
+        "num": 389559,
+        "word": "迪士尼没承认过狐尼克和朱迪是情侣",
+        "onboard_time": 1749146475,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145624,
+        "num": 383216,
+        "word": "辛柏青演技",
+        "onboard_time": 1749159795,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378461,
+        "num": 378461,
+        "word": "特朗普对马斯克非常失望",
+        "onboard_time": 1749165860,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 457513,
+        "num": 366275,
+        "word": "章子怡回复杨幂",
+        "onboard_time": 1749139460,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386789,
+        "num": 360236,
+        "word": "警方回应西子电梯总裁疑坠楼离世",
+        "onboard_time": 1749134723,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 348905,
+        "num": 348905,
+        "word": "印度医生被强奸犯家属绑在树上殴打",
+        "onboard_time": 1749166159,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 332138,
+        "num": 332138,
+        "word": "首个满级QQ即将诞生",
+        "onboard_time": 1749132202,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 292767,
+        "num": 292767,
+        "word": "马斯克说特朗普应该被弹劾",
+        "onboard_time": 1749166100,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285164,
+        "num": 285164,
+        "word": "三只猫在玩银环蛇",
+        "onboard_time": 1749166339,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105080,
+        "num": 279916,
+        "word": "付辛博爆料刘端端庆余年不穿裤子",
+        "onboard_time": 1749130582,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100811,
+        "num": 265238,
+        "word": "钟镇涛女儿出道",
+        "onboard_time": 1749129081,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97071,
+        "num": 258658,
+        "word": "孙恩盛回应撞衫贺峻霖",
+        "onboard_time": 1749127760,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80795,
+        "num": 243619,
+        "word": "饶雪漫选角求助",
+        "onboard_time": 1749128061,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439810,
+        "num": 229769,
+        "word": "精神病院一老人被病友抠出眼球",
+        "onboard_time": 1749138321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226146,
+        "num": 226146,
+        "word": "女子三亚疑被蛇咬身亡家属再发声",
+        "onboard_time": 1749136702,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218337,
+        "num": 218337,
+        "word": "特斯拉暴跌超14%",
+        "onboard_time": 1749165558,
+        "rank": 22,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 215432,
+        "num": 215432,
+        "word": "网红违停被罚跳上警车吼叫",
+        "onboard_time": 1749133403,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73006,
+        "num": 203409,
+        "word": "刘诚宇替补上演国足首秀",
+        "onboard_time": 1749165319,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198430,
+        "num": 198430,
+        "word": "马斯克称即刻退役龙飞船",
+        "onboard_time": 1749165619,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173105,
+        "num": 173105,
+        "word": "我国超1700万人在养异宠",
+        "onboard_time": 1749139042,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166037,
+        "num": 166037,
+        "word": "国足",
+        "onboard_time": 1749165679,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70074,
+        "num": 161144,
+        "word": "藏海传就是一本巨大的诀别书",
+        "onboard_time": 1749130702,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69374,
+        "num": 160618,
+        "word": "蔡徐坤新歌deadman曲风",
+        "onboard_time": 1749166639,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160417,
+        "num": 160417,
+        "word": "央行将开展1万亿买断式逆回购操作",
+        "onboard_time": 1749128541,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140503,
+        "num": 140503,
+        "word": "我国卫星互联网低轨卫星发射成功",
+        "onboard_time": 1749165499,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137371,
+        "num": 137371,
+        "word": "老师因学生错过清华惋惜落泪",
+        "onboard_time": 1749128541,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132709,
+        "num": 132709,
+        "word": "21岁女子抗癌2年后发现误诊",
+        "onboard_time": 1749115402,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129897,
+        "num": 129897,
+        "word": "白宫称马斯克言论不影响特朗普立场",
+        "onboard_time": 1749154574,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119427,
+        "num": 119427,
+        "word": "西班牙晋级欧国联决赛",
+        "onboard_time": 1749166278,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113132,
+        "num": 113132,
+        "word": "酒店回应上午11点退房下午4点入住",
+        "onboard_time": 1749166699,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103469,
+        "num": 103469,
+        "word": "男子投千万改造盐碱地却被村民抢夺",
+        "onboard_time": 1749138321,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96472,
+        "num": 96472,
+        "word": "特朗普与马斯克决裂",
+        "onboard_time": 1749166519,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95681,
+        "num": 95681,
+        "word": "黄金",
+        "onboard_time": 1749134963,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95241,
+        "num": 95241,
+        "word": "王钰栋 国足希望",
+        "onboard_time": 1749141678,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94743,
+        "num": 94743,
+        "word": "高考加油",
+        "onboard_time": 1749097942,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86026,
+        "num": 86026,
+        "word": "国足0比1印尼",
+        "onboard_time": 1749139580,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54501,
+        "num": 82671,
+        "word": "尹正隔空跟冯小刚道歉",
+        "onboard_time": 1749127041,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81136,
+        "num": 81136,
+        "word": "光与夜之恋",
+        "onboard_time": 1749165319,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71529,
+        "num": 71529,
+        "word": "国足vs印尼",
+        "onboard_time": 1749129922,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69271,
+        "num": 69271,
+        "word": "偷偷买个小狗半夜送给孩子",
+        "onboard_time": 1749165738,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64031,
+        "num": 64031,
+        "word": "中美元首通话内容",
+        "onboard_time": 1749137121,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63779,
+        "num": 63779,
+        "word": "最权威的米线吃法出现了",
+        "onboard_time": 1749166760,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60329,
+        "num": 60329,
+        "word": "西班牙vs法国",
+        "onboard_time": 1749166821,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两山理念的生动实践#"
+    }
+  }
+}
