@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749128891116,
+  "endTime": 1749130691195,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -923,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 834536,
+      "num": 834536,
+      "word": "孙恩盛回应撞衫贺峻霖",
+      "onboard_time": 1749127760,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 809117,
       "num": 809117,
       "word": "鹿晗怼脸比耶自拍",
@@ -1251,14 +1259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 690589,
-      "num": 690589,
-      "word": "孙恩盛回应撞衫贺峻霖",
-      "onboard_time": 1749127760,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 685611,
       "num": 685611,
       "word": "巴黎世家半身裙",
@@ -1289,6 +1289,14 @@
       "onboard_time": 1749003380,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 678390,
+      "num": 678390,
+      "word": "中美元首6月5日通电话",
+      "onboard_time": 1749129502,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 677253,
@@ -1801,6 +1809,14 @@
       "onboard_time": 1749047122,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 563721,
+      "num": 563721,
+      "word": "国足vs印尼",
+      "onboard_time": 1749129922,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 558235,
@@ -2603,19 +2619,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404886,
+      "num": 404886,
+      "word": "印尼考虑购买歼10",
+      "onboard_time": 1749127222,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 404762,
       "num": 404762,
       "word": "马斯克怒批特朗普法案",
       "onboard_time": 1748997863,
       "rank": 7,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 404608,
-      "num": 404608,
-      "word": "印尼考虑购买歼10",
-      "onboard_time": 1749127222,
-      "rank": 25,
       "category": "国际时政"
     },
     {
@@ -3731,6 +3747,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 300800,
+      "num": 300800,
+      "word": "老师因学生错过清华惋惜落泪",
+      "onboard_time": 1749128541,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299123,
       "num": 299123,
       "word": "VOGUE直播",
@@ -3788,7 +3812,7 @@
     },
     {
       "raw_hot": 293076,
-      "num": 293076,
+      "num": 315625,
       "word": "肖战的口碑",
       "onboard_time": 1749126501,
       "rank": 21,
@@ -4523,6 +4547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245023,
+      "num": 245023,
+      "word": "樊振东祝福所有高考生",
+      "onboard_time": 1749129562,
+      "rank": 25,
+      "category": "体育,教育"
+    },
+    {
       "raw_hot": 244622,
       "num": 201037,
       "word": "体检报告出现这些离癌症只一步之遥",
@@ -4665,6 +4697,14 @@
       "onboard_time": 1748843481,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235017,
+      "num": 235017,
+      "word": "央行将开展1万亿买断式逆回购操作",
+      "onboard_time": 1749128541,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 234720,
@@ -4817,6 +4857,14 @@
       "onboard_time": 1749006561,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228071,
+      "num": 308206,
+      "word": "饶雪漫选角求助",
+      "onboard_time": 1749128061,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 227420,
@@ -5179,6 +5227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214906,
+      "num": 214906,
+      "word": "江映蓉牛蛙背",
+      "onboard_time": 1749127820,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214583,
       "num": 214583,
       "word": "李昀锐翻牌",
@@ -5323,6 +5379,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 210996,
+      "num": 240443,
+      "word": "钟镇涛女儿出道",
+      "onboard_time": 1749129081,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210601,
       "num": 210601,
       "word": "乘风之夜邀请函",
@@ -5369,14 +5433,6 @@
       "onboard_time": 1748934321,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 209096,
-      "num": 209096,
-      "word": "江映蓉牛蛙背",
-      "onboard_time": 1749127820,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 209086,
@@ -6139,6 +6195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191307,
+      "num": 191307,
+      "word": "歌手",
+      "onboard_time": 1748702960,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190939,
       "num": 190939,
       "word": "梁超说肖战太用功了",
@@ -6851,12 +6915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177018,
-      "num": 177018,
-      "word": "饶雪漫选角求助",
-      "onboard_time": 1749128061,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 177295,
+      "num": 177295,
+      "word": "国足直播",
+      "onboard_time": 1749129262,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 176421,
@@ -7569,14 +7633,6 @@
       "onboard_time": 1748833340,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163315,
-      "num": 163315,
-      "word": "央行将开展1万亿买断式逆回购操作",
-      "onboard_time": 1749128541,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 163214,
@@ -8427,14 +8483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148481,
-      "num": 148481,
-      "word": "老师因学生错过清华惋惜落泪",
-      "onboard_time": 1749128541,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148102,
       "num": 148102,
       "word": "十个勤天演唱会抢票",
@@ -8945,6 +8993,14 @@
       "onboard_time": 1748787501,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 141758,
+      "num": 141758,
+      "word": "央视频懂球帝紧急开设苏超频道",
+      "onboard_time": 1749124881,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 141589,
@@ -10107,6 +10163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126718,
+      "num": 126718,
+      "word": "奔跑吧",
+      "onboard_time": 1749130642,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126430,
       "num": 394592,
       "word": "车辆失控姐姐飞扑救下妹妹",
@@ -11243,14 +11307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112311,
-      "num": 112311,
-      "word": "歌手",
-      "onboard_time": 1748702960,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112258,
       "num": 112258,
       "word": "老年夫妻最好的状态",
@@ -12059,6 +12115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 102770,
+      "num": 418714,
+      "word": "苏超1个省踢出13省PK的感觉",
+      "onboard_time": 1749130161,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102659,
       "num": 102659,
       "word": "为什么逛街什么都没买",
@@ -12081,6 +12145,14 @@
       "onboard_time": 1748753420,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102510,
+      "num": 220277,
+      "word": "付辛博爆料刘端端庆余年不穿裤子",
+      "onboard_time": 1749130582,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 102411,
@@ -12529,6 +12601,14 @@
       "onboard_time": 1748784802,
       "rank": 48,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 96821,
+      "num": 164311,
+      "word": "业内预估国产九价价格约进口的70%",
+      "onboard_time": 1749130161,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96820,
@@ -13715,6 +13795,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 75864,
+      "num": 321534,
+      "word": "加州高铁烧70亿美金15年没铺一条轨",
+      "onboard_time": 1749130102,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 75687,
       "num": 254270,
       "word": "俄两座桥梁遭爆炸袭击被定性为恐袭",
@@ -14571,6 +14659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55330,
+      "num": 318213,
+      "word": "女子疑被蛇咬医院治疗后称无经验",
+      "onboard_time": 1749129081,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55269,
       "num": 185275,
       "word": "新能源汽车决不能打价格战兴奋剂",
@@ -14633,6 +14729,14 @@
       "onboard_time": 1748949142,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54078,
+      "num": 253508,
+      "word": "逆风小胖会出手",
+      "onboard_time": 1749124401,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 53855,
@@ -15075,6 +15179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 45175,
+      "num": 306631,
+      "word": "男子嫌球馆太吵喷洒干粉灭火器",
+      "onboard_time": 1749130041,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45145,
       "num": 131447,
       "word": "邱贻可回应球迷叫他老太阳",
@@ -15145,6 +15257,14 @@
       "onboard_time": 1749078798,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43692,
+      "num": 301372,
+      "word": "国足今晚对战印尼能进几个",
+      "onboard_time": 1749129683,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 43598,
@@ -16035,6 +16155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29470,
+      "num": 236917,
+      "word": "曹骏不后悔在事业巅峰时退圈念书",
+      "onboard_time": 1749130161,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29223,
       "num": 127911,
       "word": "隔夜西瓜可以用大蒜保鲜吗",
@@ -16249,6 +16377,14 @@
       "onboard_time": 1749022460,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27250,
+      "num": 235349,
+      "word": "厦门一男子在线帮判断毒蛇伤口",
+      "onboard_time": 1749130282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27204,
