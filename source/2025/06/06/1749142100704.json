@@ -1,0 +1,410 @@
+{
+  "runTime": 1749142100704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3326721,
+        "num": 3326721,
+        "word": "国足无缘2026世界杯",
+        "onboard_time": 1749138982,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451529,
+        "num": 451529,
+        "word": "国足vs印尼",
+        "onboard_time": 1749129922,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12999,
+        "num": 432651,
+        "word": "有一种震撼叫祖国山河如画",
+        "onboard_time": 1749102078,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 425361,
+        "num": 425361,
+        "word": "首个满级QQ即将诞生",
+        "onboard_time": 1749132202,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 419730,
+        "num": 419730,
+        "word": "特朗普说欢迎中国留学生来美学习",
+        "onboard_time": 1749136222,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 343443,
+        "num": 343443,
+        "word": "赴山海排播失约网友要求退款",
+        "onboard_time": 1749135682,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219863,
+        "num": 219863,
+        "word": "黄金",
+        "onboard_time": 1749134963,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205242,
+        "num": 205242,
+        "word": "孙恩盛回应撞衫贺峻霖",
+        "onboard_time": 1749127760,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185006,
+        "num": 185006,
+        "word": "中美元首通话内容",
+        "onboard_time": 1749137121,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179428,
+        "num": 184750,
+        "word": "警方回应西子电梯总裁疑坠楼离世",
+        "onboard_time": 1749134723,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 402732,
+        "num": 184748,
+        "word": "杨幂章子怡约了上海蛋糕局",
+        "onboard_time": 1749133942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184556,
+        "num": 184556,
+        "word": "我国超1700万人在养异宠",
+        "onboard_time": 1749139042,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176694,
+        "num": 176694,
+        "word": "范志毅说我坚信国足能打回来",
+        "onboard_time": 1749139341,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133814,
+        "num": 133814,
+        "word": "王奕给我化的妆",
+        "onboard_time": 1749140239,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123151,
+        "num": 123151,
+        "word": "饶雪漫选角求助",
+        "onboard_time": 1749128061,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205743,
+        "num": 123123,
+        "word": "章子怡回复杨幂",
+        "onboard_time": 1749139460,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122024,
+        "num": 122024,
+        "word": "看苏超",
+        "onboard_time": 1749139941,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119197,
+        "num": 119197,
+        "word": "国足0比1印尼",
+        "onboard_time": 1749139580,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118435,
+        "num": 118843,
+        "word": "付辛博爆料刘端端庆余年不穿裤子",
+        "onboard_time": 1749130582,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99982,
+        "num": 118566,
+        "word": "肖战藏大人的本命年穿搭已就位",
+        "onboard_time": 1749140960,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323919,
+        "num": 118566,
+        "word": "精神病院一老人被病友抠出眼球",
+        "onboard_time": 1749138321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118497,
+        "num": 118497,
+        "word": "印尼门将",
+        "onboard_time": 1749139880,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113562,
+        "num": 113562,
+        "word": "伊万 下课",
+        "onboard_time": 1749141438,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112269,
+        "num": 112269,
+        "word": "21岁女子抗癌2年后发现误诊",
+        "onboard_time": 1749115402,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105246,
+        "num": 105246,
+        "word": "郑钦文重返世界第五",
+        "onboard_time": 1749139999,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103325,
+        "num": 103325,
+        "word": "中美元首6月5日通电话",
+        "onboard_time": 1749129502,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102818,
+        "num": 102818,
+        "word": "虞书欣的萌萌宝宝娃娃们",
+        "onboard_time": 1749141978,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100957,
+        "num": 100957,
+        "word": "美方将继续奉行一个中国政策",
+        "onboard_time": 1749137481,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94294,
+        "num": 94294,
+        "word": "白鹿古装体态",
+        "onboard_time": 1749134425,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91280,
+        "num": 91280,
+        "word": "歌手第四期音源",
+        "onboard_time": 1749126560,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100387,
+        "num": 90989,
+        "word": "梁王",
+        "onboard_time": 1749131302,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96151,
+        "num": 89959,
+        "word": "萨巴伦卡首进法网决赛",
+        "onboard_time": 1749138441,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87844,
+        "num": 87844,
+        "word": "光与夜之恋偷跑",
+        "onboard_time": 1749125840,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85391,
+        "num": 85391,
+        "word": "被病友挖伤双眼老人事发时双手被绑",
+        "onboard_time": 1749135443,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84955,
+        "num": 84955,
+        "word": "何秋亊 没EXO版权",
+        "onboard_time": 1749107720,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84366,
+        "num": 84366,
+        "word": "再一次送别国足",
+        "onboard_time": 1749140480,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83856,
+        "num": 83856,
+        "word": "世界杯",
+        "onboard_time": 1749141737,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82757,
+        "num": 82757,
+        "word": "宋雨琦刚要哭被周深给唱回来了",
+        "onboard_time": 1749135142,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81277,
+        "num": 81277,
+        "word": "网红违停被罚跳上警车吼叫",
+        "onboard_time": 1749133403,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81272,
+        "num": 81272,
+        "word": "印尼考虑购买歼10",
+        "onboard_time": 1749127222,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79966,
+        "num": 79966,
+        "word": "男子投千万改造盐碱地却被村民抢夺",
+        "onboard_time": 1749138321,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79734,
+        "num": 79734,
+        "word": "国足 四年后",
+        "onboard_time": 1749142038,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79022,
+        "num": 79022,
+        "word": "WE淘汰JDG",
+        "onboard_time": 1749127282,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77661,
+        "num": 77661,
+        "word": "易烊千玺新EP",
+        "onboard_time": 1749122301,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75428,
+        "num": 75428,
+        "word": "王钰栋 国足希望",
+        "onboard_time": 1749141678,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75365,
+        "num": 75365,
+        "word": "国足提前一轮告别美加墨",
+        "onboard_time": 1749140779,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75287,
+        "num": 75287,
+        "word": "央行将开展1万亿买断式逆回购操作",
+        "onboard_time": 1749128541,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74949,
+        "num": 74949,
+        "word": "高芙vs布瓦松",
+        "onboard_time": 1749136582,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73757,
+        "num": 73757,
+        "word": "女子三亚疑被蛇咬身亡家属再发声",
+        "onboard_time": 1749136702,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71888,
+        "num": 71888,
+        "word": "高考加油",
+        "onboard_time": 1749097942,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两山理念的生动实践#"
+    }
+  }
+}
