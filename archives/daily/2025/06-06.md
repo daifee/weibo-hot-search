@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/06 00:33:17 ~ 2025/06/06 01:20:10
+本榜单时间：2025/06/06 00:33:17 ~ 2025/06/06 01:41:53
 </p>
 </blockquote>
 <p>
@@ -51,20 +51,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%87%20%E4%B8%8B%E8%AF%BE%23" target="weibo">
+伊万 下课（热度：365392）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E4%B8%80%E8%80%81%E4%BA%BA%E8%A2%AB%E7%97%85%E5%8F%8B%E6%8A%A0%E5%87%BA%E7%9C%BC%E7%90%83%23" target="weibo">
 精神病院一老人被病友抠出眼球（热度：352786）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%87%20%E4%B8%8B%E8%AF%BE%23" target="weibo">
-伊万 下课（热度：317861）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E5%9B%9E%E5%A4%8D%E6%9D%A8%E5%B9%82%23" target="weibo">
-章子怡回复杨幂（热度：251036）
+章子怡回复杨幂（热度：254127）
 </a>
 </li>
 
@@ -375,8 +375,20 @@ WE淘汰JDG（热度：98515）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%9B%B7%E8%AF%B4%E6%9C%89%E4%BA%9B%E4%B8%9C%E8%A5%BF%E6%B2%A1%E6%B3%95%E6%8E%A7%E5%88%B6%23" target="weibo">
+王大雷说有些东西没法控制（热度：36887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%9E%97vs%E6%B2%99%E7%89%B9%23" target="weibo">
 巴林vs沙特（热度：33178）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%9B%A0%E5%AD%A6%E7%94%9F%E9%94%99%E8%BF%87%E6%B8%85%E5%8D%8E%E6%83%8B%E6%83%9C%E8%90%BD%E6%B3%AA%23" target="weibo">
+老师因学生错过清华惋惜落泪（热度：28762）
 </a>
 </li>
 

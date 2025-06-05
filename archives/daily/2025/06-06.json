@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749144010511,
+  "endTime": 1749145313234,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365392,
+      "num": 365392,
+      "word": "伊万 下课",
+      "onboard_time": 1749141438,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352786,
       "num": 140163,
       "word": "精神病院一老人被病友抠出眼球",
@@ -59,15 +67,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317861,
-      "num": 317861,
-      "word": "伊万 下课",
-      "onboard_time": 1749141438,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 251036,
+      "raw_hot": 254127,
       "num": 162278,
       "word": "章子怡回复杨幂",
       "onboard_time": 1749139460,
@@ -483,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36887,
+      "num": 36887,
+      "word": "王大雷说有些东西没法控制",
+      "onboard_time": 1749144077,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33178,
       "num": 81209,
       "word": "巴林vs沙特",
       "onboard_time": 1749143419,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28762,
+      "num": 52782,
+      "word": "老师因学生错过清华惋惜落泪",
+      "onboard_time": 1749128541,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14820,
