@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749131438969,
+  "endTime": 1749133610445,
   "band_list": [
     {
       "raw_hot": 2184958,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1463491,
+      "num": 984619,
+      "word": "国足vs印尼",
+      "onboard_time": 1749129922,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1366274,
       "num": 974240,
       "word": "尼克朱迪不是情侣",
@@ -41,6 +49,14 @@
       "onboard_time": 1749090859,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1254774,
+      "num": 778925,
+      "word": "首个满级QQ即将诞生",
+      "onboard_time": 1749132202,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1226395,
@@ -65,14 +81,6 @@
       "onboard_time": 1749043403,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1173622,
-      "num": 965273,
-      "word": "国足vs印尼",
-      "onboard_time": 1749129922,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1172032,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 740238,
+      "num": 309482,
+      "word": "付辛博爆料刘端端庆余年不穿裤子",
+      "onboard_time": 1749130582,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 739611,
       "num": 739611,
       "word": "歌手本周双补位",
@@ -281,6 +297,14 @@
       "onboard_time": 1749129502,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 668972,
+      "num": 301823,
+      "word": "梁王",
+      "onboard_time": 1749131302,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 668703,
@@ -499,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 471749,
+      "num": 471749,
+      "word": "饶雪漫选角求助",
+      "onboard_time": 1749128061,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465072,
       "num": 546236,
       "word": "游客被咬伤身亡相关医生已被停职",
@@ -552,6 +584,14 @@
       "word": "尽量不要穿洞洞鞋乘坐扶梯",
       "onboard_time": 1749038480,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 441469,
+      "num": 441469,
+      "word": "老师因学生错过清华惋惜落泪",
+      "onboard_time": 1749128541,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -633,14 +673,6 @@
       "onboard_time": 1749100700,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 379173,
-      "num": 379173,
-      "word": "老师因学生错过清华惋惜落泪",
-      "onboard_time": 1749128541,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375378,
@@ -747,14 +779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 319215,
-      "num": 319215,
-      "word": "饶雪漫选角求助",
-      "onboard_time": 1749128061,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313866,
       "num": 256640,
       "word": "黄景瑜进车2小时逃生6秒钟",
@@ -819,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290203,
+      "num": 418714,
+      "word": "苏超1个省踢出13省PK的感觉",
+      "onboard_time": 1749130161,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288469,
       "num": 231211,
       "word": "李白",
@@ -849,6 +881,14 @@
       "onboard_time": 1749097942,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 281232,
+      "num": 281232,
+      "word": "萨巴伦卡vs斯瓦泰克",
+      "onboard_time": 1749131121,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 278370,
@@ -1123,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219413,
+      "num": 219413,
+      "word": "齐司礼背头",
+      "onboard_time": 1749132021,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217593,
       "num": 217593,
       "word": "男子赌博欠债倒卖千年裹尸布被抓",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1749093861,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215286,
+      "num": 215286,
+      "word": "SM发布aespa维权公告",
+      "onboard_time": 1749132803,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 214439,
@@ -1371,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198923,
+      "num": 198923,
+      "word": "王勉打破五哈游戏黑洞",
+      "onboard_time": 1749132623,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198873,
       "num": 198873,
       "word": "打印店用微信传输要留意个人隐私",
@@ -1579,14 +1643,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 177585,
-      "num": 177585,
-      "word": "梁王",
-      "onboard_time": 1749131302,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177295,
       "num": 177295,
       "word": "国足直播",
@@ -1747,14 +1803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168591,
-      "num": 418714,
-      "word": "苏超1个省踢出13省PK的感觉",
-      "onboard_time": 1749130161,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168568,
       "num": 209173,
       "word": "单场净胜8球将触发苏超熔断机制",
@@ -1817,14 +1865,6 @@
       "onboard_time": 1749102800,
       "rank": 34,
       "category": ""
-    },
-    {
-      "raw_hot": 163983,
-      "num": 277122,
-      "word": "付辛博爆料刘端端庆余年不穿裤子",
-      "onboard_time": 1749130582,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 163944,
@@ -1891,14 +1931,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 159484,
-      "num": 159484,
-      "word": "萨巴伦卡vs斯瓦泰克",
-      "onboard_time": 1749131121,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157453,
       "num": 221022,
       "word": "NewJeans无意达成和解",
@@ -1955,12 +1987,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152894,
+      "num": 152894,
+      "word": "中国女排1比3波兰女排",
+      "onboard_time": 1749131422,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152668,
       "num": 152668,
       "word": "直击安徽六安毛坦厂中学送考",
       "onboard_time": 1749084562,
       "rank": 36,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 152382,
+      "num": 152382,
+      "word": "奶奶家一直用的花露水1987年过期",
+      "onboard_time": 1749133523,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151547,
@@ -1995,6 +2043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150745,
+      "num": 150745,
+      "word": "查理苏正脸",
+      "onboard_time": 1749133103,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149925,
       "num": 149925,
       "word": "时代少年团纪录片",
@@ -2025,6 +2081,14 @@
       "onboard_time": 1749093320,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148396,
+      "num": 148396,
+      "word": "王珞丹两天穿搭判若两丹",
+      "onboard_time": 1749133042,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 148194,
@@ -2067,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146953,
+      "num": 146953,
+      "word": "章若楠蝴蝶结编发",
+      "onboard_time": 1749132442,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 146057,
       "num": 146057,
       "word": "夏以昼好会亲",
@@ -2089,6 +2161,14 @@
       "onboard_time": 1749107182,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144939,
+      "num": 149535,
+      "word": "单依纯音源魔性循环",
+      "onboard_time": 1749132263,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 144407,
@@ -2147,14 +2227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141124,
-      "num": 141124,
-      "word": "中国女排1比3波兰女排",
-      "onboard_time": 1749131422,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140493,
       "num": 189442,
       "word": "KPL青春是同一片赛场",
@@ -2171,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139912,
+      "num": 139912,
+      "word": "黄金突然直线拉升",
+      "onboard_time": 1749131241,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 139736,
       "num": 139736,
       "word": "王安宇壁纸",
@@ -2185,6 +2265,14 @@
       "onboard_time": 1749110901,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138369,
+      "num": 321534,
+      "word": "加州高铁烧70亿美金15年没铺一条轨",
+      "onboard_time": 1749130102,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 138238,
@@ -2299,14 +2387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130973,
-      "num": 321534,
-      "word": "加州高铁烧70亿美金15年没铺一条轨",
-      "onboard_time": 1749130102,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 130939,
       "num": 130939,
       "word": "马嘉祺歌手第四期选曲",
@@ -2345,14 +2425,6 @@
       "onboard_time": 1749104721,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129397,
-      "num": 129397,
-      "word": "黄金突然直线拉升",
-      "onboard_time": 1749131241,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 127910,
@@ -2640,6 +2712,14 @@
       "word": "成都一医院夸大病情过度治疗被调查",
       "onboard_time": 1749109100,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101951,
+      "num": 190632,
+      "word": "网红违停被罚跳上警车吼叫",
+      "onboard_time": 1749133403,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -3187,6 +3267,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49562,
+      "num": 228524,
+      "word": "徐皓阳开场8分钟染黄",
+      "onboard_time": 1749133042,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49518,
+      "num": 299795,
+      "word": "湖南短尾蝮蛇银环蛇等毒蛇常见",
+      "onboard_time": 1749133282,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 48718,
       "num": 211192,
       "word": "外交部回应稀土出口管制措施",
@@ -3233,6 +3329,14 @@
       "onboard_time": 1749097942,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44335,
+      "num": 147508,
+      "word": "欧洲央行下调三大关键利率",
+      "onboard_time": 1749132623,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 43816,
@@ -3419,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30816,
+      "num": 228959,
+      "word": "热带水果会导致体内湿气加重吗",
+      "onboard_time": 1749132083,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30619,
       "num": 230892,
       "word": "居家锻炼可以改善体型吗",
@@ -3584,6 +3696,14 @@
       "word": "巴一警察月薪一千多养六娃",
       "onboard_time": 1749122539,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22211,
+      "num": 188115,
+      "word": "被毒蛇咬伤第一时间自救法",
+      "onboard_time": 1749132683,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

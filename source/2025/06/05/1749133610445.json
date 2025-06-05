@@ -1,0 +1,410 @@
+{
+  "runTime": 1749133610445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 105467,
+        "num": 1016874,
+        "word": "悬赏通缉20名台湾黑客",
+        "onboard_time": 1749083421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1463491,
+        "num": 984619,
+        "word": "国足vs印尼",
+        "onboard_time": 1749129922,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23116,
+        "num": 786711,
+        "word": "数说美丽中国新画卷",
+        "onboard_time": 1749122780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1254774,
+        "num": 778925,
+        "word": "首个满级QQ即将诞生",
+        "onboard_time": 1749132202,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 731821,
+        "num": 731821,
+        "word": "孙恩盛回应撞衫贺峻霖",
+        "onboard_time": 1749127760,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471749,
+        "num": 471749,
+        "word": "饶雪漫选角求助",
+        "onboard_time": 1749128061,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465537,
+        "num": 465537,
+        "word": "中美元首6月5日通电话",
+        "onboard_time": 1749129502,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 441469,
+        "num": 441469,
+        "word": "老师因学生错过清华惋惜落泪",
+        "onboard_time": 1749128541,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356625,
+        "num": 356625,
+        "word": "藏海传豆瓣开分7.1",
+        "onboard_time": 1749121399,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311317,
+        "num": 311317,
+        "word": "光与夜之恋偷跑",
+        "onboard_time": 1749125840,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 740238,
+        "num": 309482,
+        "word": "付辛博爆料刘端端庆余年不穿裤子",
+        "onboard_time": 1749130582,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 668972,
+        "num": 301823,
+        "word": "梁王",
+        "onboard_time": 1749131302,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49518,
+        "num": 299795,
+        "word": "湖南短尾蝮蛇银环蛇等毒蛇常见",
+        "onboard_time": 1749133282,
+        "rank": 12,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 371425,
+        "num": 294107,
+        "word": "400块的鞋犹豫了三年",
+        "onboard_time": 1749117021,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290203,
+        "num": 290203,
+        "word": "苏超1个省踢出13省PK的感觉",
+        "onboard_time": 1749130161,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281232,
+        "num": 281232,
+        "word": "萨巴伦卡vs斯瓦泰克",
+        "onboard_time": 1749131121,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234300,
+        "num": 234300,
+        "word": "歌手第四期音源",
+        "onboard_time": 1749126560,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215672,
+        "num": 229849,
+        "word": "肖战的口碑",
+        "onboard_time": 1749126501,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30816,
+        "num": 228959,
+        "word": "热带水果会导致体内湿气加重吗",
+        "onboard_time": 1749132083,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49562,
+        "num": 228524,
+        "word": "徐皓阳开场8分钟染黄",
+        "onboard_time": 1749133042,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228219,
+        "num": 228219,
+        "word": "印尼考虑购买歼10",
+        "onboard_time": 1749127222,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290141,
+        "num": 226205,
+        "word": "21岁女子抗癌2年后发现误诊",
+        "onboard_time": 1749115402,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221577,
+        "num": 221577,
+        "word": "WE淘汰JDG",
+        "onboard_time": 1749127282,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219413,
+        "num": 219413,
+        "word": "齐司礼背头",
+        "onboard_time": 1749132021,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215286,
+        "num": 215286,
+        "word": "SM发布aespa维权公告",
+        "onboard_time": 1749132803,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211316,
+        "num": 211316,
+        "word": "央行将开展1万亿买断式逆回购操作",
+        "onboard_time": 1749128541,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198923,
+        "num": 198923,
+        "word": "王勉打破五哈游戏黑洞",
+        "onboard_time": 1749132623,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197107,
+        "num": 197107,
+        "word": "樊振东祝福所有高考生",
+        "onboard_time": 1749129562,
+        "rank": 27,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 101951,
+        "num": 190632,
+        "word": "网红违停被罚跳上警车吼叫",
+        "onboard_time": 1749133403,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22211,
+        "num": 188115,
+        "word": "被毒蛇咬伤第一时间自救法",
+        "onboard_time": 1749132683,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185901,
+        "num": 185901,
+        "word": "何秋亊 没EXO版权",
+        "onboard_time": 1749107720,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173945,
+        "num": 173945,
+        "word": "江映蓉牛蛙背",
+        "onboard_time": 1749127820,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152894,
+        "num": 152894,
+        "word": "中国女排1比3波兰女排",
+        "onboard_time": 1749131422,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152382,
+        "num": 152382,
+        "word": "奶奶家一直用的花露水1987年过期",
+        "onboard_time": 1749133523,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152157,
+        "num": 152157,
+        "word": "钟镇涛女儿出道",
+        "onboard_time": 1749129081,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150745,
+        "num": 150745,
+        "word": "查理苏正脸",
+        "onboard_time": 1749133103,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144939,
+        "num": 149535,
+        "word": "单依纯音源魔性循环",
+        "onboard_time": 1749132263,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148396,
+        "num": 148396,
+        "word": "王珞丹两天穿搭判若两丹",
+        "onboard_time": 1749133042,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148227,
+        "num": 148227,
+        "word": "易烊千玺新EP",
+        "onboard_time": 1749122301,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44335,
+        "num": 147508,
+        "word": "欧洲央行下调三大关键利率",
+        "onboard_time": 1749132623,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146953,
+        "num": 146953,
+        "word": "章若楠蝴蝶结编发",
+        "onboard_time": 1749132442,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143363,
+        "num": 143363,
+        "word": "国足直播",
+        "onboard_time": 1749129262,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140560,
+        "num": 140560,
+        "word": "澳大利亚1比0日本",
+        "onboard_time": 1749130882,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139912,
+        "num": 139912,
+        "word": "黄金突然直线拉升",
+        "onboard_time": 1749131241,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138369,
+        "num": 138369,
+        "word": "加州高铁烧70亿美金15年没铺一条轨",
+        "onboard_time": 1749130102,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131791,
+        "num": 131791,
+        "word": "赵丽颖在人间开分6.7",
+        "onboard_time": 1749124760,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123391,
+        "num": 123391,
+        "word": "女孩遭体罚去世3人涉嫌虐待罪被拘留",
+        "onboard_time": 1749097402,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123390,
+        "num": 123390,
+        "word": "高考加油",
+        "onboard_time": 1749097942,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121686,
+        "num": 121686,
+        "word": "AG对战UUG",
+        "onboard_time": 1749128421,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118772,
+        "num": 118772,
+        "word": "校方回应王皓竞聘体校教练员岗",
+        "onboard_time": 1749126021,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人不负青山 青山定不负人#"
+    }
+  }
+}
