@@ -1,0 +1,410 @@
+{
+  "runTime": 1749116572074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 256900,
+        "num": 1041104,
+        "word": "悬赏通缉20名台湾黑客",
+        "onboard_time": 1749083421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 921156,
+        "num": 921156,
+        "word": "长期喝咖啡的人后来都怎么样了",
+        "onboard_time": 1749109762,
+        "rank": 1,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 29648,
+        "num": 797719,
+        "word": "台湾资通电军是个什么组织",
+        "onboard_time": 1749088521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713346,
+        "num": 713346,
+        "word": "王铮亮女儿两天拿了两个冠军",
+        "onboard_time": 1749113059,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543439,
+        "num": 543439,
+        "word": "女孩遭体罚去世3人涉嫌虐待罪被拘留",
+        "onboard_time": 1749097402,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497510,
+        "num": 497510,
+        "word": "何秋亊 没EXO版权",
+        "onboard_time": 1749107720,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338965,
+        "num": 338965,
+        "word": "游客被咬伤身亡相关医生已被停职",
+        "onboard_time": 1749111562,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316740,
+        "num": 316740,
+        "word": "labubu医美",
+        "onboard_time": 1749109581,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 259327,
+        "num": 259327,
+        "word": "披荆斩棘5阵容",
+        "onboard_time": 1749116061,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213629,
+        "num": 213629,
+        "word": "权志龙点赞蔡徐坤舞台",
+        "onboard_time": 1749105559,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61582,
+        "num": 212854,
+        "word": "台湾黑客学艺不精丢人现眼",
+        "onboard_time": 1749116180,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 544059,
+        "num": 212502,
+        "word": "鹿晗黄子韬代唱",
+        "onboard_time": 1749107420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476824,
+        "num": 211537,
+        "word": "建议大家要远离恋爱式友情",
+        "onboard_time": 1749095722,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300926,
+        "num": 210203,
+        "word": "当韩国人第一次感受到西瓜自由",
+        "onboard_time": 1749113241,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209892,
+        "num": 209892,
+        "word": "杨幂说小糯米画画挺好",
+        "onboard_time": 1749106041,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206367,
+        "num": 206367,
+        "word": "何秋亊抄袭名单",
+        "onboard_time": 1749107901,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202278,
+        "num": 202278,
+        "word": "肖战东拼西凑的新鲜",
+        "onboard_time": 1749115940,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197511,
+        "num": 197511,
+        "word": "义乌女老板卖labubu娃衣3个月开3家店",
+        "onboard_time": 1749106160,
+        "rank": 17,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 18593,
+        "num": 196968,
+        "word": "美政客批大而美法案是我们都得死法案",
+        "onboard_time": 1749115461,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21269,
+        "num": 196550,
+        "word": "为什么刚洗完澡容易招蚊子",
+        "onboard_time": 1749115279,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 60398,
+        "num": 195473,
+        "word": "44页加班截图成了讨薪关键证据",
+        "onboard_time": 1749114740,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 625072,
+        "num": 195310,
+        "word": "21岁女子抗癌2年后发现误诊",
+        "onboard_time": 1749115402,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39528,
+        "num": 194078,
+        "word": "景区指示牌被吐槽嘲讽感拉满",
+        "onboard_time": 1749114740,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275525,
+        "num": 193856,
+        "word": "女司机要水泡奶男收费员秒懂",
+        "onboard_time": 1749113241,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207603,
+        "num": 192872,
+        "word": "杨幂 承认自己不完美不需要勇气",
+        "onboard_time": 1749113780,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29758,
+        "num": 192115,
+        "word": "女子欠款1700万法院悬赏170万寻人",
+        "onboard_time": 1749116360,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42372,
+        "num": 191684,
+        "word": "北大学霸称高考难题要用精神胜利法",
+        "onboard_time": 1749115402,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 21970,
+        "num": 191175,
+        "word": "女子被蛇咬身亡致命时间线",
+        "onboard_time": 1749115279,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68986,
+        "num": 190063,
+        "word": "李在明首次主持国务会议遇冷后发火",
+        "onboard_time": 1749115701,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40257,
+        "num": 189422,
+        "word": "Labubu粉丝花20万买货",
+        "onboard_time": 1749115701,
+        "rank": 29,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 189144,
+        "num": 189144,
+        "word": "鹿晗工作室失实讯息声明",
+        "onboard_time": 1749107841,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 271324,
+        "num": 182558,
+        "word": "李在明首次主持国务会议场面尴尬",
+        "onboard_time": 1749115759,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198747,
+        "num": 180455,
+        "word": "40岁女子不染发养了16个月的白发",
+        "onboard_time": 1749104180,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175091,
+        "num": 175091,
+        "word": "洪啸回应马嘉祺上歌手",
+        "onboard_time": 1749114201,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171636,
+        "num": 171636,
+        "word": "SM评论区大批网友请愿起诉何秋亊",
+        "onboard_time": 1749115759,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168836,
+        "num": 168836,
+        "word": "太湖三傻",
+        "onboard_time": 1749111920,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167008,
+        "num": 167008,
+        "word": "外交部回应美全面限制12国公民入境",
+        "onboard_time": 1749113662,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12092,
+        "num": 161881,
+        "word": "被蛇咬伤如何快速处理",
+        "onboard_time": 1749116539,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 55404,
+        "num": 161732,
+        "word": "在飞机断电的情况下夜间迫降",
+        "onboard_time": 1749116000,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8725,
+        "num": 161728,
+        "word": "揉耳朵可以缓解考前焦虑吗",
+        "onboard_time": 1749114682,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161725,
+        "num": 161725,
+        "word": "歌手歌单",
+        "onboard_time": 1749100402,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147707,
+        "num": 147707,
+        "word": "萧逸柠檬糖",
+        "onboard_time": 1749114440,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146734,
+        "num": 146734,
+        "word": "严浩翔卷毛玫瑰衬衫",
+        "onboard_time": 1749115220,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139706,
+        "num": 139706,
+        "word": "高考加油",
+        "onboard_time": 1749097942,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137854,
+        "num": 137854,
+        "word": "易烊千玺酱园弄杀青照",
+        "onboard_time": 1749109400,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136075,
+        "num": 136075,
+        "word": "成毅新剧1V12",
+        "onboard_time": 1749110182,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133014,
+        "num": 133014,
+        "word": "男子玩密室对女鬼NPC摸腿搂腰",
+        "onboard_time": 1749109643,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130636,
+        "num": 130636,
+        "word": "饶雪漫人生第一次陷入选角漩涡",
+        "onboard_time": 1749108381,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715575,
+        "num": 128147,
+        "word": "男子被蛇咬后忍痛给小青蛇拍了照片",
+        "onboard_time": 1749107540,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123063,
+        "num": 123063,
+        "word": "季德胜蛇药",
+        "onboard_time": 1749115581,
+        "rank": 49,
+        "category": "健康医疗,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中韩战略合作伙伴关系不断向前发展#"
+    }
+  }
+}
