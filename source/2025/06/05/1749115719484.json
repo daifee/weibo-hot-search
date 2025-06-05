@@ -1,0 +1,410 @@
+{
+  "runTime": 1749115719484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 238331,
+        "num": 1038133,
+        "word": "悬赏通缉20名台湾黑客",
+        "onboard_time": 1749083421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1142483,
+        "num": 1011107,
+        "word": "长期喝咖啡的人后来都怎么样了",
+        "onboard_time": 1749109762,
+        "rank": 1,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 34048,
+        "num": 717881,
+        "word": "台湾资通电军是个什么组织",
+        "onboard_time": 1749088521,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643760,
+        "num": 643760,
+        "word": "王铮亮女儿两天拿了两个冠军",
+        "onboard_time": 1749113059,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552373,
+        "num": 552373,
+        "word": "何秋亊 没EXO版权",
+        "onboard_time": 1749107720,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 874570,
+        "num": 531406,
+        "word": "男子被蛇咬后忍痛给小青蛇拍了照片",
+        "onboard_time": 1749107540,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503548,
+        "num": 503548,
+        "word": "女孩遭体罚去世3人涉嫌虐待罪被拘留",
+        "onboard_time": 1749097402,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377774,
+        "num": 377774,
+        "word": "游客被咬伤身亡相关医生已被停职",
+        "onboard_time": 1749111562,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363661,
+        "num": 363661,
+        "word": "labubu医美",
+        "onboard_time": 1749109581,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 47564,
+        "num": 332668,
+        "word": "警方回应砖厂疑用智障人员超负荷工作",
+        "onboard_time": 1749114380,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516211,
+        "num": 329518,
+        "word": "鹿晗黄子韬代唱",
+        "onboard_time": 1749107420,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479386,
+        "num": 324420,
+        "word": "建议大家要远离恋爱式友情",
+        "onboard_time": 1749095722,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305814,
+        "num": 305814,
+        "word": "当韩国人第一次感受到西瓜自由",
+        "onboard_time": 1749113241,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262208,
+        "num": 262208,
+        "word": "义乌女老板卖labubu娃衣3个月开3家店",
+        "onboard_time": 1749106160,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44677,
+        "num": 245030,
+        "word": "44页加班截图成了讨薪关键证据",
+        "onboard_time": 1749114740,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238858,
+        "num": 238858,
+        "word": "杨幂 承认自己不完美不需要勇气",
+        "onboard_time": 1749113780,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237177,
+        "num": 237177,
+        "word": "何秋亊抄袭名单",
+        "onboard_time": 1749107901,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229085,
+        "num": 229085,
+        "word": "权志龙点赞蔡徐坤舞台",
+        "onboard_time": 1749105559,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20004,
+        "num": 224334,
+        "word": "为什么刚洗完澡容易招蚊子",
+        "onboard_time": 1749115279,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 27821,
+        "num": 220497,
+        "word": "景区指示牌被吐槽嘲讽感拉满",
+        "onboard_time": 1749114740,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263298,
+        "num": 212427,
+        "word": "鹿晗工作室失实讯息声明",
+        "onboard_time": 1749107841,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 557971,
+        "num": 205283,
+        "word": "21岁女子抗癌2年后发现误诊",
+        "onboard_time": 1749115402,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202418,
+        "num": 202418,
+        "word": "杨幂说小糯米画画挺好",
+        "onboard_time": 1749106041,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192347,
+        "num": 192347,
+        "word": "歌手歌单",
+        "onboard_time": 1749100402,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257690,
+        "num": 190866,
+        "word": "女司机要水泡奶男收费员秒懂",
+        "onboard_time": 1749113241,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27451,
+        "num": 187917,
+        "word": "北大学霸称高考难题要用精神胜利法",
+        "onboard_time": 1749115402,
+        "rank": 25,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 20893,
+        "num": 185831,
+        "word": "美政客批大而美法案是我们都得死法案",
+        "onboard_time": 1749115461,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10220,
+        "num": 184076,
+        "word": "揉耳朵可以缓解考前焦虑吗",
+        "onboard_time": 1749114682,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 50906,
+        "num": 180050,
+        "word": "胡兵说60岁要成为亚洲最时髦老头",
+        "onboard_time": 1749114440,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17223,
+        "num": 178903,
+        "word": "女子被蛇咬身亡致命时间线",
+        "onboard_time": 1749115279,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223103,
+        "num": 176498,
+        "word": "外交部回应美全面限制12国公民入境",
+        "onboard_time": 1749113662,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204301,
+        "num": 173803,
+        "word": "40岁女子不染发养了16个月的白发",
+        "onboard_time": 1749104180,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171619,
+        "num": 171619,
+        "word": "男子玩密室对女鬼NPC摸腿搂腰",
+        "onboard_time": 1749109643,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167868,
+        "num": 167868,
+        "word": "洪啸回应马嘉祺上歌手",
+        "onboard_time": 1749114201,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34133,
+        "num": 160258,
+        "word": "李在明首次主持国务会议遇冷后发火",
+        "onboard_time": 1749115701,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159021,
+        "num": 159021,
+        "word": "易烊千玺酱园弄杀青照",
+        "onboard_time": 1749109400,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157394,
+        "num": 157394,
+        "word": "成毅新剧1V12",
+        "onboard_time": 1749110182,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154256,
+        "num": 154256,
+        "word": "差点没认出章子怡",
+        "onboard_time": 1749107301,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151435,
+        "num": 151435,
+        "word": "太湖三傻",
+        "onboard_time": 1749111920,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149610,
+        "num": 149610,
+        "word": "严浩翔卷毛玫瑰衬衫",
+        "onboard_time": 1749115220,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147628,
+        "num": 147628,
+        "word": "VOGUE直播",
+        "onboard_time": 1749112641,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146418,
+        "num": 146418,
+        "word": "饶雪漫人生第一次陷入选角漩涡",
+        "onboard_time": 1749108381,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11886,
+        "num": 144873,
+        "word": "波司登飞跃珠峰的24分钟",
+        "onboard_time": 1749113721,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51997,
+        "num": 143563,
+        "word": "Labubu粉丝花20万买货",
+        "onboard_time": 1749115701,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143408,
+        "num": 143408,
+        "word": "萧逸柠檬糖",
+        "onboard_time": 1749114440,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137203,
+        "num": 137203,
+        "word": "高考加油",
+        "onboard_time": 1749097942,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135837,
+        "num": 135837,
+        "word": "范玮琪歌手补位",
+        "onboard_time": 1749103701,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135224,
+        "num": 135224,
+        "word": "徐艺洋给黄子韬打电话哭了",
+        "onboard_time": 1749106641,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130343,
+        "num": 130343,
+        "word": "谁是南哥",
+        "onboard_time": 1749114861,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125393,
+        "num": 125393,
+        "word": "季德胜蛇药",
+        "onboard_time": 1749115581,
+        "rank": 49,
+        "category": "健康医疗,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中韩战略合作伙伴关系不断向前发展#"
+    }
+  }
+}

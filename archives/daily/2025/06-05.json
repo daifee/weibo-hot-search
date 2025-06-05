@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749113302913,
+  "endTime": 1749115719484,
   "band_list": [
     {
       "raw_hot": 2184958,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1142483,
+      "num": 1011107,
+      "word": "长期喝咖啡的人后来都怎么样了",
+      "onboard_time": 1749109762,
+      "rank": 5,
+      "category": "幽默,民生新闻"
+    },
+    {
       "raw_hot": 1047995,
       "num": 763092,
       "word": "被咬身亡女子家属回应为何不尸检",
@@ -105,14 +113,6 @@
       "onboard_time": 1749106160,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 891994,
-      "num": 891994,
-      "word": "长期喝咖啡的人后来都怎么样了",
-      "onboard_time": 1749109762,
-      "rank": 5,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 869922,
@@ -235,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 643760,
+      "num": 643760,
+      "word": "王铮亮女儿两天拿了两个冠军",
+      "onboard_time": 1749113059,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 625846,
       "num": 944722,
       "word": "台湾资通电军是个什么组织",
@@ -305,6 +313,14 @@
       "onboard_time": 1749103701,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 557971,
+      "num": 205283,
+      "word": "21岁女子抗癌2年后发现误诊",
+      "onboard_time": 1749115402,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 554444,
@@ -683,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238858,
+      "num": 238858,
+      "word": "杨幂 承认自己不完美不需要勇气",
+      "onboard_time": 1749113780,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238709,
       "num": 238709,
       "word": "白象多半系列面饼只多25g",
@@ -761,6 +785,14 @@
       "onboard_time": 1749095181,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223103,
+      "num": 176498,
+      "word": "外交部回应美全面限制12国公民入境",
+      "onboard_time": 1749113662,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 221780,
@@ -1259,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167868,
+      "num": 167868,
+      "word": "洪啸回应马嘉祺上歌手",
+      "onboard_time": 1749114201,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167654,
       "num": 163422,
       "word": "肖战藏海怕惊醒美梦又怕困在虚妄",
@@ -1419,14 +1459,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 152062,
-      "num": 152062,
-      "word": "王铮亮女儿两天拿了两个冠军",
-      "onboard_time": 1749113059,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151547,
       "num": 151547,
       "word": "无限暖暖获2025年苹果设计大奖",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1749097341,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149610,
+      "num": 149610,
+      "word": "严浩翔卷毛玫瑰衬衫",
+      "onboard_time": 1749115220,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149460,
@@ -1505,6 +1545,14 @@
       "onboard_time": 1749108022,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143408,
+      "num": 143408,
+      "word": "萧逸柠檬糖",
+      "onboard_time": 1749114440,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 141962,
@@ -1643,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130343,
+      "num": 130343,
+      "word": "谁是南哥",
+      "onboard_time": 1749114861,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129943,
       "num": 129943,
       "word": "宋威龙刘浩存新剧假跟踪真搭讪",
@@ -1673,6 +1729,14 @@
       "onboard_time": 1749106041,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 125393,
+      "num": 125393,
+      "word": "季德胜蛇药",
+      "onboard_time": 1749115581,
+      "rank": 49,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 124798,
@@ -2203,6 +2267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 51997,
+      "num": 143563,
+      "word": "Labubu粉丝花20万买货",
+      "onboard_time": 1749115701,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51517,
       "num": 219430,
       "word": "老年人消费能否持续救活KTV",
@@ -2217,6 +2289,14 @@
       "onboard_time": 1749097341,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 50906,
+      "num": 180050,
+      "word": "胡兵说60岁要成为亚洲最时髦老头",
+      "onboard_time": 1749114440,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 50884,
@@ -2243,12 +2323,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47564,
+      "num": 332668,
+      "word": "警方回应砖厂疑用智障人员超负荷工作",
+      "onboard_time": 1749114380,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46236,
       "num": 146087,
       "word": "有哪些诱发乳腺癌的坏习惯",
       "onboard_time": 1749106282,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44677,
+      "num": 245030,
+      "word": "44页加班截图成了讨薪关键证据",
+      "onboard_time": 1749114740,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44512,
@@ -2320,6 +2416,14 @@
       "word": "过去20个月加沙伤亡儿童达5万",
       "onboard_time": 1749049881,
       "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 34133,
+      "num": 160258,
+      "word": "李在明首次主持国务会议遇冷后发火",
+      "onboard_time": 1749115701,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -2401,6 +2505,22 @@
       "onboard_time": 1749111381,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27821,
+      "num": 220497,
+      "word": "景区指示牌被吐槽嘲讽感拉满",
+      "onboard_time": 1749114740,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27451,
+      "num": 187917,
+      "word": "北大学霸称高考难题要用精神胜利法",
+      "onboard_time": 1749115402,
+      "rank": 25,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 26659,
@@ -2491,12 +2611,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20893,
+      "num": 185831,
+      "word": "美政客批大而美法案是我们都得死法案",
+      "onboard_time": 1749115461,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20607,
       "num": 23787,
       "word": "外交部回应李在明就任韩国总统",
       "onboard_time": 1749067214,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20004,
+      "num": 224334,
+      "word": "为什么刚洗完澡容易招蚊子",
+      "onboard_time": 1749115279,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 19716,
@@ -2513,6 +2649,14 @@
       "onboard_time": 1749062415,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17223,
+      "num": 178903,
+      "word": "女子被蛇咬身亡致命时间线",
+      "onboard_time": 1749115279,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17221,
@@ -2539,12 +2683,28 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 11886,
+      "num": 144873,
+      "word": "波司登飞跃珠峰的24分钟",
+      "onboard_time": 1749113721,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11669,
       "num": 18141,
       "word": "当地回应道路塌陷大坑有车辆陷入",
       "onboard_time": 1749070154,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10220,
+      "num": 184076,
+      "word": "揉耳朵可以缓解考前焦虑吗",
+      "onboard_time": 1749114682,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 6825,
