@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749090241208,
+  "endTime": 1749093744816,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1366274,
-      "num": 880503,
+      "num": 964213,
       "word": "尼克朱迪不是情侣",
       "onboard_time": 1749081441,
       "rank": 3,
@@ -367,6 +367,14 @@
       "num": 1329295,
       "word": "尽量不要穿洞洞鞋乘坐扶梯",
       "onboard_time": 1749038480,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1313225,
+      "num": 1050201,
+      "word": "95后男子买彩票中2930万",
+      "onboard_time": 1749090859,
       "rank": 1,
       "category": "民生新闻"
     },
@@ -449,6 +457,14 @@
       "onboard_time": 1748838621,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1221850,
+      "num": 473444,
+      "word": "怎么越丑的东西越火",
+      "onboard_time": 1749090981,
+      "rank": 10,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 1218163,
@@ -771,6 +787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 869922,
+      "num": 869922,
+      "word": "恋与深空",
+      "onboard_time": 1748751859,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 863332,
       "num": 1138133,
       "word": "情商低的人都有什么行为",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1748753901,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 692853,
+      "num": 692853,
+      "word": "电影恶意全阵容官宣",
+      "onboard_time": 1749091160,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 685203,
@@ -1547,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 539437,
+      "num": 539437,
+      "word": "台湾资通电军是个什么组织",
+      "onboard_time": 1749088521,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 538670,
       "num": 538670,
       "word": "Bin 闹剧结束了",
@@ -1883,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471260,
+      "num": 471260,
+      "word": "高考倒计时2天",
+      "onboard_time": 1749082282,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 470679,
       "num": 432714,
       "word": "何洁陪周扬青上班的一天",
@@ -1977,6 +2025,14 @@
       "onboard_time": 1749038240,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 451853,
+      "num": 451853,
+      "word": "女子疑被蛇咬身亡哪个环节出了问题",
+      "onboard_time": 1749091460,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 450082,
@@ -3643,6 +3699,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258569,
+      "num": 258569,
+      "word": "巴黎世家半身裙",
+      "onboard_time": 1749092779,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258333,
+      "num": 258333,
+      "word": "不良人",
+      "onboard_time": 1749090859,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 257722,
       "num": 141565,
       "word": "中山漫展",
@@ -3803,14 +3875,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 248021,
-      "num": 228201,
-      "word": "恋与深空",
-      "onboard_time": 1748751859,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 247791,
       "num": 247791,
       "word": "香暗荼这次失去致命一血",
@@ -3945,14 +4009,6 @@
       "onboard_time": 1748835199,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 238242,
-      "num": 238242,
-      "word": "高考倒计时2天",
-      "onboard_time": 1749082282,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 238044,
@@ -4395,6 +4451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216121,
+      "num": 216121,
+      "word": "男子杀害前女友哥嫂案二审开庭",
+      "onboard_time": 1749091220,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216001,
       "num": 216001,
       "word": "稚奴终于可以睡个好觉了",
@@ -4452,7 +4516,7 @@
     },
     {
       "raw_hot": 212855,
-      "num": 221899,
+      "num": 278320,
       "word": "侯佩岑发文告别浪姐",
       "onboard_time": 1749082340,
       "rank": 23,
@@ -4545,6 +4609,14 @@
       "onboard_time": 1749017421,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209802,
+      "num": 209802,
+      "word": "反黄牛后Switch2价格不到4千",
+      "onboard_time": 1749092060,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 209295,
@@ -4892,7 +4964,7 @@
     },
     {
       "raw_hot": 198632,
-      "num": 198631,
+      "num": 205266,
       "word": "湿气最重的15天来了",
       "onboard_time": 1749088339,
       "rank": 39,
@@ -4985,6 +5057,14 @@
       "onboard_time": 1748957723,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195846,
+      "num": 280319,
+      "word": "网传范玮琪歌手补位",
+      "onboard_time": 1749090620,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 195805,
@@ -5081,14 +5161,6 @@
       "onboard_time": 1749038900,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 192662,
-      "num": 222951,
-      "word": "台湾资通电军是个什么组织",
-      "onboard_time": 1749088521,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 192580,
@@ -6011,6 +6083,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 169586,
+      "num": 208181,
+      "word": "闪光的夏天全阵容官宣",
+      "onboard_time": 1749093260,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169574,
       "num": 169574,
       "word": "郑钦文0比1萨巴伦卡",
@@ -6081,6 +6161,14 @@
       "onboard_time": 1748948361,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168568,
+      "num": 209173,
+      "word": "单场净胜8球将触发苏超熔断机制",
+      "onboard_time": 1749092959,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 168494,
@@ -6313,6 +6401,14 @@
       "onboard_time": 1749001939,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 163944,
+      "num": 207751,
+      "word": "藏海传播放指数90.78",
+      "onboard_time": 1749092000,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 163841,
@@ -6609,6 +6705,14 @@
       "onboard_time": 1749009802,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155943,
+      "num": 155943,
+      "word": "中方在联合国对美国发出3连问",
+      "onboard_time": 1749092479,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155830,
@@ -6977,6 +7081,14 @@
       "onboard_time": 1748753240,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149138,
+      "num": 149138,
+      "word": "临江仙进行曲来了",
+      "onboard_time": 1749093320,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 149107,
@@ -7401,6 +7513,14 @@
       "onboard_time": 1749032360,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142158,
+      "num": 142158,
+      "word": "无限暖暖获2025年苹果设计大奖",
+      "onboard_time": 1749093619,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 142095,
@@ -8171,6 +8291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131526,
+      "num": 131526,
+      "word": "labubu",
+      "onboard_time": 1749093680,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 131281,
       "num": 273187,
       "word": "俄罗斯24小时内第二座桥梁坍塌",
@@ -8201,6 +8329,14 @@
       "onboard_time": 1748938101,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130799,
+      "num": 130799,
+      "word": "馒头夹糯米学名",
+      "onboard_time": 1749093080,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 130795,
@@ -9001,6 +9137,14 @@
       "onboard_time": 1748756539,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118789,
+      "num": 313093,
+      "word": "社区书记开车追撞电瓶车被拘",
+      "onboard_time": 1749093139,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 118678,
@@ -9953,6 +10097,14 @@
       "onboard_time": 1748839822,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106853,
+      "num": 206142,
+      "word": "年轻人抛弃的KTV被老年人救活了",
+      "onboard_time": 1749092180,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106847,
@@ -12187,6 +12339,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 65082,
+      "num": 474912,
+      "word": "砖厂涉嫌用智障者务工负责人被控制",
+      "onboard_time": 1749092900,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64992,
       "num": 189090,
       "word": "假期找不到旅游搭子的中年人",
@@ -12457,6 +12617,14 @@
       "onboard_time": 1748692101,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56676,
+      "num": 277794,
+      "word": "全球百万富翁数量再创新高",
+      "onboard_time": 1749093379,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 56497,
@@ -14121,6 +14289,14 @@
       "onboard_time": 1748803455,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23778,
+      "num": 149266,
+      "word": "律师庭审被打后还手被拘",
+      "onboard_time": 1749093139,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23599,
