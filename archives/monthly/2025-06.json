@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749093744816,
+  "endTime": 1749094532818,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1366274,
-      "num": 964213,
+      "num": 974240,
       "word": "尼克朱迪不是情侣",
       "onboard_time": 1749081441,
       "rank": 3,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 1221850,
-      "num": 473444,
+      "num": 487125,
       "word": "怎么越丑的东西越火",
       "onboard_time": 1749090981,
       "rank": 10,
@@ -1099,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 685611,
+      "num": 685611,
+      "word": "巴黎世家半身裙",
+      "onboard_time": 1749092779,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 685203,
       "num": 685203,
       "word": "美国黄石公园车祸致中国公民5死8伤",
@@ -1675,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 519090,
+      "num": 519090,
+      "word": "歌手本周双补位",
+      "onboard_time": 1749093861,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518835,
       "num": 325980,
       "word": "雷坤也是当上站哥了",
@@ -1875,6 +1891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 476171,
+      "num": 476171,
+      "word": "高考倒计时2天",
+      "onboard_time": 1749082282,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 475884,
       "num": 450321,
       "word": "朱一龙晒杨蓉生日照",
@@ -1921,14 +1945,6 @@
       "onboard_time": 1748751681,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471260,
-      "num": 471260,
-      "word": "高考倒计时2天",
-      "onboard_time": 1749082282,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 470679,
@@ -3195,6 +3211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302121,
+      "num": 302121,
+      "word": "不良人",
+      "onboard_time": 1749090859,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 301224,
       "num": 207282,
       "word": "王安宇壁纸",
@@ -3691,28 +3715,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258788,
+      "num": 258788,
+      "word": "labubu",
+      "onboard_time": 1749093680,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 258738,
       "num": 229941,
       "word": "折腰 戒断反应",
       "onboard_time": 1748825240,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258569,
-      "num": 258569,
-      "word": "巴黎世家半身裙",
-      "onboard_time": 1749092779,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 258333,
-      "num": 258333,
-      "word": "不良人",
-      "onboard_time": 1749090859,
-      "rank": 22,
-      "category": "动漫"
     },
     {
       "raw_hot": 257722,
@@ -4467,6 +4483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215628,
+      "num": 215628,
+      "word": "Switch2发售",
+      "onboard_time": 1749093861,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215151,
       "num": 215151,
       "word": "萨巴伦卡回应将对阵郑钦文",
@@ -4667,6 +4691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 208338,
+      "num": 208338,
+      "word": "李现晒网球照",
+      "onboard_time": 1749093739,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208259,
       "num": 208259,
       "word": "俄罗斯",
@@ -4801,6 +4833,14 @@
       "onboard_time": 1748963424,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203190,
+      "num": 494711,
+      "word": "砖厂涉嫌用智障者务工负责人被控制",
+      "onboard_time": 1749092900,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203163,
@@ -5459,6 +5499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186251,
+      "num": 371563,
+      "word": "社区书记开车追撞电瓶车被拘",
+      "onboard_time": 1749093139,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 186246,
       "num": 186246,
       "word": "六月的雨被张韶涵一个人淋完了",
@@ -5617,6 +5665,14 @@
       "onboard_time": 1748873902,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 182756,
+      "num": 214463,
+      "word": "医生称孕反突然消失或和胎停有关",
+      "onboard_time": 1749093980,
+      "rank": 24,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 182261,
@@ -5939,6 +5995,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174823,
+      "num": 174823,
+      "word": "警方通报社区女书记开车撞人致2伤",
+      "onboard_time": 1749094221,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 174783,
+      "num": 211351,
+      "word": "白鹿说你懂我的吧",
+      "onboard_time": 1749094101,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174047,
       "num": 159440,
       "word": "王楚钦赵心童成就顶峰相见佳话",
@@ -5961,6 +6033,14 @@
       "onboard_time": 1748737819,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173700,
+      "num": 212697,
+      "word": "闪光的夏天全阵容官宣",
+      "onboard_time": 1749093260,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 173079,
@@ -6083,14 +6163,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 169586,
-      "num": 208181,
-      "word": "闪光的夏天全阵容官宣",
-      "onboard_time": 1749093260,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169574,
       "num": 169574,
       "word": "郑钦文0比1萨巴伦卡",
@@ -6193,6 +6265,14 @@
       "onboard_time": 1748918599,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167917,
+      "num": 167917,
+      "word": "咖啡的中医属性",
+      "onboard_time": 1749094221,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 167852,
@@ -6995,6 +7075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151547,
+      "num": 151547,
+      "word": "无限暖暖获2025年苹果设计大奖",
+      "onboard_time": 1749093619,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151278,
       "num": 412085,
       "word": "涉事门店称爆单崩溃女店员就是店长",
@@ -7084,7 +7172,7 @@
     },
     {
       "raw_hot": 149138,
-      "num": 149138,
+      "num": 153863,
       "word": "临江仙进行曲来了",
       "onboard_time": 1749093320,
       "rank": 39,
@@ -7513,14 +7601,6 @@
       "onboard_time": 1749032360,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142158,
-      "num": 142158,
-      "word": "无限暖暖获2025年苹果设计大奖",
-      "onboard_time": 1749093619,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 142095,
@@ -8289,14 +8369,6 @@
       "onboard_time": 1748775920,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131526,
-      "num": 131526,
-      "word": "labubu",
-      "onboard_time": 1749093680,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 131281,
@@ -9137,14 +9209,6 @@
       "onboard_time": 1748756539,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118789,
-      "num": 313093,
-      "word": "社区书记开车追撞电瓶车被拘",
-      "onboard_time": 1749093139,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 118678,
@@ -10100,7 +10164,7 @@
     },
     {
       "raw_hot": 106853,
-      "num": 206142,
+      "num": 208358,
       "word": "年轻人抛弃的KTV被老年人救活了",
       "onboard_time": 1749092180,
       "rank": 29,
@@ -11411,6 +11475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88166,
+      "num": 199035,
+      "word": "登顶路上每一步都是8848",
+      "onboard_time": 1749094399,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87836,
       "num": 87836,
       "word": "藏海最倒霉的一集",
@@ -11745,6 +11817,14 @@
       "onboard_time": 1748735298,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79984,
+      "num": 277794,
+      "word": "全球百万富翁数量再创新高",
+      "onboard_time": 1749093379,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79796,
@@ -12339,14 +12419,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 65082,
-      "num": 474912,
-      "word": "砖厂涉嫌用智障者务工负责人被控制",
-      "onboard_time": 1749092900,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64992,
       "num": 189090,
       "word": "假期找不到旅游搭子的中年人",
@@ -12617,14 +12689,6 @@
       "onboard_time": 1748692101,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56676,
-      "num": 277794,
-      "word": "全球百万富翁数量再创新高",
-      "onboard_time": 1749093379,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 56497,
@@ -13200,6 +13264,14 @@
       "word": "足不出户就能看到大海",
       "onboard_time": 1748834061,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42477,
+      "num": 168122,
+      "word": "律师庭审被打后还手被拘",
+      "onboard_time": 1749093139,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -14291,14 +14363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23778,
-      "num": 149266,
-      "word": "律师庭审被打后还手被拘",
-      "onboard_time": 1749093139,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23599,
       "num": 36845,
       "word": "白象将尽快调整多半产品包装",
@@ -15033,6 +15097,14 @@
       "onboard_time": 1748782340,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 6825,
+      "num": 170689,
+      "word": "花掉一半存款带奶奶去广州旅行",
+      "onboard_time": 1749094461,
+      "rank": 35,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 6069,
