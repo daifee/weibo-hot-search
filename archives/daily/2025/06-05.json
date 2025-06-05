@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749108348425,
+  "endTime": 1749109213024,
   "band_list": [
     {
       "raw_hot": 2184958,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 956531,
+      "num": 956531,
+      "word": "男子被蛇咬后忍痛给小青蛇拍了照片",
+      "onboard_time": 1749107540,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 936931,
       "num": 936931,
       "word": "云南大理5.0级地震",
@@ -123,11 +131,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 757613,
-      "num": 757613,
+      "raw_hot": 774569,
+      "num": 774569,
       "word": "杨幂说小糯米画画挺好",
       "onboard_time": 1749106041,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 762477,
+      "num": 446689,
+      "word": "鹿晗黄子韬代唱",
+      "onboard_time": 1749107420,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -137,6 +153,14 @@
       "onboard_time": 1749104180,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 751995,
+      "num": 751995,
+      "word": "何秋亊 没EXO版权",
+      "onboard_time": 1749107720,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 739611,
@@ -196,11 +220,19 @@
     },
     {
       "raw_hot": 625846,
-      "num": 834910,
+      "num": 917912,
       "word": "台湾资通电军是个什么组织",
       "onboard_time": 1749088521,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 616510,
+      "num": 616510,
+      "word": "权志龙点赞蔡徐坤舞台",
+      "onboard_time": 1749105559,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 603951,
@@ -259,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 560525,
-      "num": 560525,
-      "word": "权志龙点赞蔡徐坤舞台",
-      "onboard_time": 1749105559,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 548228,
       "num": 472254,
       "word": "单依纯唱李白",
@@ -297,6 +321,14 @@
       "onboard_time": 1749093980,
       "rank": 24,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 487607,
+      "num": 487607,
+      "word": "徐艺洋给黄子韬打电话哭了",
+      "onboard_time": 1749106641,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 483832,
@@ -331,20 +363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451483,
+      "num": 451483,
+      "word": "何秋亊抄袭名单",
+      "onboard_time": 1749107901,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 449397,
+      "num": 449397,
+      "word": "差点没认出章子怡",
+      "onboard_time": 1749107301,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445424,
       "num": 445424,
       "word": "尽量不要穿洞洞鞋乘坐扶梯",
       "onboard_time": 1749038480,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 441696,
-      "num": 400244,
-      "word": "徐艺洋给黄子韬打电话哭了",
-      "onboard_time": 1749106641,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 434312,
@@ -363,12 +403,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 425565,
-      "num": 331690,
-      "word": "鹿晗黄子韬代唱",
-      "onboard_time": 1749107420,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 411406,
+      "num": 239330,
+      "word": "鹿晗工作室失实讯息声明",
+      "onboard_time": 1749107841,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 404559,
@@ -401,14 +441,6 @@
       "onboard_time": 1749081620,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373814,
-      "num": 373814,
-      "word": "男子被蛇咬后忍痛给小青蛇拍了照片",
-      "onboard_time": 1749107540,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 366091,
@@ -451,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337001,
-      "num": 337001,
-      "word": "何秋亊 没EXO版权",
-      "onboard_time": 1749107720,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 329020,
       "num": 329020,
       "word": "人没动但科目一自动答题考过了",
@@ -483,14 +507,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 300100,
-      "num": 300100,
-      "word": "差点没认出章子怡",
-      "onboard_time": 1749107301,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 296480,
       "num": 296480,
       "word": "何秋亊撇清与安静公主关系",
@@ -505,6 +521,14 @@
       "onboard_time": 1749042321,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288469,
+      "num": 231211,
+      "word": "李白",
+      "onboard_time": 1749104062,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 287404,
@@ -571,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251986,
-      "num": 251986,
-      "word": "何秋亊抄袭名单",
-      "onboard_time": 1749107901,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248090,
       "num": 240057,
       "word": "又被张元英轻轻美到了",
@@ -601,14 +617,6 @@
       "onboard_time": 1749099922,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239330,
-      "num": 239330,
-      "word": "鹿晗工作室失实讯息声明",
-      "onboard_time": 1749107841,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 238709,
@@ -649,6 +657,14 @@
       "onboard_time": 1749107841,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230618,
+      "num": 433652,
+      "word": "官方通报医院夸大病情过度治疗",
+      "onboard_time": 1749107001,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 227420,
@@ -899,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195804,
-      "num": 195804,
-      "word": "李白",
-      "onboard_time": 1749104062,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194872,
       "num": 194872,
       "word": "丁禹兮为姜妍开门护头",
@@ -1115,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169937,
+      "num": 169937,
+      "word": "饶雪漫人生第一次陷入选角漩涡",
+      "onboard_time": 1749108381,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169237,
       "num": 169237,
       "word": "泡泡玛特",
@@ -1203,20 +1219,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163083,
+      "num": 290044,
+      "word": "宋亚轩因为羊失眠了",
+      "onboard_time": 1749108501,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162090,
       "num": 162090,
       "word": "天天喝这种水身体炎症在悄悄升高",
       "onboard_time": 1749080538,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 161929,
-      "num": 433652,
-      "word": "官方通报医院夸大病情过度治疗",
-      "onboard_time": 1749107001,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 161410,
@@ -1339,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144236,
+      "num": 144236,
+      "word": "张新成 艰难的制造",
+      "onboard_time": 1749108022,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141962,
       "num": 218599,
       "word": "何秋亊方不愿意公开第三方公司信息",
@@ -1419,12 +1443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130814,
-      "num": 130814,
-      "word": "张新成 艰难的制造",
-      "onboard_time": 1749108022,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 131773,
+      "num": 131773,
+      "word": "中国首次合成新核素镤210",
+      "onboard_time": 1749108801,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130799,
@@ -1595,6 +1619,14 @@
       "category": "民生新闻,美妆"
     },
     {
+      "raw_hot": 104713,
+      "num": 230832,
+      "word": "泡泡玛特市值首次超越日本三丽鸥",
+      "onboard_time": 1749108142,
+      "rank": 34,
+      "category": "动漫,财经"
+    },
+    {
       "raw_hot": 104039,
       "num": 104039,
       "word": "早春晴朗 张晚意",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1749040160,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102411,
+      "num": 230976,
+      "word": "成都一医院夸大病情过度治疗被调查",
+      "onboard_time": 1749109100,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99766,
@@ -1643,12 +1683,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 97475,
+      "num": 423547,
+      "word": "一款增塑剂超标496倍凉鞋销量过百万",
+      "onboard_time": 1749108201,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 96820,
       "num": 476191,
       "word": "陈思诚推荐恶意幕后主创",
       "onboard_time": 1749098602,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92933,
+      "num": 231052,
+      "word": "网警依法打击涉抗日战争谣言",
+      "onboard_time": 1749106282,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92906,
@@ -1675,14 +1731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89154,
-      "num": 187540,
-      "word": "泡泡玛特市值首次超越日本三丽鸥",
-      "onboard_time": 1749108142,
-      "rank": 34,
-      "category": "动漫,财经"
-    },
-    {
       "raw_hot": 88166,
       "num": 583039,
       "word": "登顶路上每一步都是8848",
@@ -1697,14 +1745,6 @@
       "onboard_time": 1749104960,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85920,
-      "num": 221050,
-      "word": "一款增塑剂超标496倍凉鞋销量过百万",
-      "onboard_time": 1749108201,
-      "rank": 27,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 85146,
@@ -1745,14 +1785,6 @@
       "onboard_time": 1749002720,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 80711,
-      "num": 147226,
-      "word": "网警依法打击涉抗日战争谣言",
-      "onboard_time": 1749106282,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79984,
@@ -2003,18 +2035,18 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 42477,
-      "num": 168122,
-      "word": "律师庭审被打后还手被拘",
-      "onboard_time": 1749093139,
+      "raw_hot": 42914,
+      "num": 172376,
+      "word": "加州居民晒早餐称物价离谱",
+      "onboard_time": 1749106880,
       "rank": 38,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41428,
-      "num": 172376,
-      "word": "加州居民晒早餐称物价离谱",
-      "onboard_time": 1749106880,
+      "raw_hot": 42477,
+      "num": 168122,
+      "word": "律师庭审被打后还手被拘",
+      "onboard_time": 1749093139,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -2075,12 +2107,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 32128,
+      "num": 231096,
+      "word": "范可新接受零下180度液氮舱冷疗",
+      "onboard_time": 1749108621,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31760,
       "num": 39702,
       "word": "上班烦躁的建议去读个研",
       "onboard_time": 1749057017,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 30619,
+      "num": 230892,
+      "word": "居家锻炼可以改善体型吗",
+      "onboard_time": 1749108743,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 30476,
+      "num": 230744,
+      "word": "高考前找到身份证的救赎感",
+      "onboard_time": 1749107841,
+      "rank": 29,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 29223,
@@ -2139,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22764,
+      "num": 233082,
+      "word": "加快走路速度能延长寿命吗",
+      "onboard_time": 1749108081,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21870,
       "num": 23782,
       "word": "李在明就职演说",
@@ -2169,22 +2233,6 @@
       "onboard_time": 1749062415,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16593,
-      "num": 217479,
-      "word": "加快走路速度能延长寿命吗",
-      "onboard_time": 1749108081,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 12809,
-      "num": 217925,
-      "word": "高考前找到身份证的救赎感",
-      "onboard_time": 1749107841,
-      "rank": 29,
-      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 11669,
