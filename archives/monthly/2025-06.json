@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749134663106,
+  "endTime": 1749137324928,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -33,6 +33,14 @@
       "onboard_time": 1748962645,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2978141,
+      "num": 984619,
+      "word": "国足vs印尼",
+      "onboard_time": 1749129922,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2907108,
@@ -81,14 +89,6 @@
       "onboard_time": 1749013700,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2405232,
-      "num": 984619,
-      "word": "国足vs印尼",
-      "onboard_time": 1749129922,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 2184958,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 1265659,
-      "num": 778925,
+      "num": 842793,
       "word": "首个满级QQ即将诞生",
       "onboard_time": 1749132202,
       "rank": 3,
@@ -771,6 +771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 958786,
+      "num": 379906,
+      "word": "杨幂章子怡约了上海蛋糕局",
+      "onboard_time": 1749133942,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 947920,
       "num": 947920,
       "word": "韩国",
@@ -1096,6 +1104,14 @@
       "word": "七根心简 定档",
       "onboard_time": 1749044481,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 765485,
+      "num": 765485,
+      "word": "赴山海排播失约网友要求退款",
+      "onboard_time": 1749135682,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -1843,14 +1859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 558838,
-      "num": 379906,
-      "word": "杨幂章子怡约了上海蛋糕局",
-      "onboard_time": 1749133942,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 558235,
       "num": 558235,
       "word": "缺氧离世卡车司机已下葬卡友发声",
@@ -1905,6 +1913,14 @@
       "onboard_time": 1748859379,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539775,
+      "num": 539775,
+      "word": "特朗普说欢迎中国留学生来美学习",
+      "onboard_time": 1749136222,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 538670,
@@ -2577,6 +2593,14 @@
       "onboard_time": 1748832919,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 423616,
+      "num": 423616,
+      "word": "警方回应西子电梯总裁疑坠楼离世",
+      "onboard_time": 1749134723,
+      "rank": 7,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 422118,
@@ -4003,6 +4027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282192,
+      "num": 374027,
+      "word": "网红违停被罚跳上警车吼叫",
+      "onboard_time": 1749133403,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281886,
       "num": 352317,
       "word": "高考加油",
@@ -4361,6 +4393,14 @@
       "onboard_time": 1749010101,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259406,
+      "num": 259406,
+      "word": "黄金",
+      "onboard_time": 1749134963,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 258996,
@@ -5355,14 +5395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213277,
-      "num": 374027,
-      "word": "网红违停被罚跳上警车吼叫",
-      "onboard_time": 1749133403,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213204,
       "num": 189654,
       "word": "吴倩朋友怎么那么会拍吴倩",
@@ -5603,6 +5635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207903,
+      "num": 207903,
+      "word": "白鹿古装体态",
+      "onboard_time": 1749134425,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207275,
       "num": 207275,
       "word": "张凌赫给迪丽热巴吓一激灵",
@@ -5745,6 +5785,14 @@
       "onboard_time": 1748749998,
       "rank": 23,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 203830,
+      "num": 203830,
+      "word": "AG战胜UUG",
+      "onboard_time": 1749136281,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 203767,
@@ -7779,14 +7827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163655,
-      "num": 163655,
-      "word": "白鹿古装体态",
-      "onboard_time": 1749134425,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163214,
       "num": 163193,
       "word": "迪丽热巴待播剧庆生照",
@@ -8089,6 +8129,14 @@
       "onboard_time": 1749105022,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157411,
+      "num": 157411,
+      "word": "奶奶家一直用的花露水1987年过期",
+      "onboard_time": 1749133523,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157378,
@@ -8401,14 +8449,6 @@
       "onboard_time": 1748945601,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152382,
-      "num": 152382,
-      "word": "奶奶家一直用的花露水1987年过期",
-      "onboard_time": 1749133523,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152322,
@@ -9043,6 +9083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143056,
+      "num": 143056,
+      "word": "女子三亚疑被蛇咬身亡家属再发声",
+      "onboard_time": 1749136702,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142938,
       "num": 142938,
       "word": "断眉演唱会",
@@ -9425,6 +9473,14 @@
       "onboard_time": 1748852239,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138427,
+      "num": 157961,
+      "word": "又吃到何炅谢娜的友情饭了",
+      "onboard_time": 1749135443,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 138369,
@@ -10184,6 +10240,14 @@
       "word": "国足首发身价不及印尼一半",
       "onboard_time": 1749134184,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129976,
+      "num": 129976,
+      "word": "杨泽翔送点",
+      "onboard_time": 1749136341,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -11043,6 +11107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117869,
+      "num": 117869,
+      "word": "宋雨琦刚要哭被周深给唱回来了",
+      "onboard_time": 1749135142,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117860,
       "num": 117860,
       "word": "周杰伦山下智久京都合体",
@@ -11304,6 +11376,14 @@
       "word": "郑钦文发现小蜜蜂误入赛场反应暖心",
       "onboard_time": 1748835920,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114998,
+      "num": 165463,
+      "word": "高芙vs布瓦松",
+      "onboard_time": 1749136582,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -11875,6 +11955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108503,
+      "num": 108503,
+      "word": "被病友挖伤双眼老人事发时双手被绑",
+      "onboard_time": 1749135443,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108493,
       "num": 152361,
       "word": "市监局对星巴克疑喝出蟑螂不予立案",
@@ -11889,6 +11977,14 @@
       "onboard_time": 1748790501,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108389,
+      "num": 156314,
+      "word": "中美元首通话内容",
+      "onboard_time": 1749137121,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108295,
@@ -11993,6 +12089,14 @@
       "onboard_time": 1748839822,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106914,
+      "num": 106914,
+      "word": "印尼半场1比0国足",
+      "onboard_time": 1749134843,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 106853,
@@ -12147,6 +12251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104930,
+      "num": 104930,
+      "word": "江苏各地供电公司捧场苏超",
+      "onboard_time": 1749137181,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104908,
       "num": 104908,
       "word": "沈月狠起来连自己都不放过",
@@ -12185,6 +12297,14 @@
       "onboard_time": 1748790501,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104279,
+      "num": 104279,
+      "word": "国足0比1落后印尼",
+      "onboard_time": 1749137302,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 104248,
@@ -14355,6 +14475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68908,
+      "num": 127644,
+      "word": "默沙东9价持久保护中国女性超10年",
+      "onboard_time": 1749135742,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68530,
       "num": 71938,
       "word": "边界感是一个人很重要的修养",
@@ -15473,6 +15601,14 @@
       "onboard_time": 1749132623,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 44028,
+      "num": 157427,
+      "word": "抗蛇毒血清的制作原理",
+      "onboard_time": 1749135142,
+      "rank": 29,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 43929,
@@ -17914,6 +18050,9 @@
     },
     {
       "word": "总书记两山理念的生动实践"
+    },
+    {
+      "word": "#总书记两山理念的生动实践#"
     }
   ]
 }
