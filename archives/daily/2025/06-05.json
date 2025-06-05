@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749088831407,
+  "endTime": 1749090241208,
   "band_list": [
     {
       "raw_hot": 1882820,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543130,
+      "num": 543130,
+      "word": "电视剧四十七",
+      "onboard_time": 1749087380,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 525279,
       "num": 525279,
       "word": "印度踩踏事件已致11死50余伤",
@@ -131,8 +139,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 416954,
-      "num": 416954,
+      "raw_hot": 433037,
+      "num": 433037,
       "word": "对台独顽固分子沈伯洋关联企业予以惩戒",
       "onboard_time": 1749086240,
       "rank": 9,
@@ -163,20 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356630,
+      "num": 356630,
+      "word": "王者荣耀",
+      "onboard_time": 1749087980,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 345524,
+      "num": 345524,
+      "word": "济州岛偶遇叶舒华",
+      "onboard_time": 1749086060,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329020,
       "num": 329020,
       "word": "人没动但科目一自动答题考过了",
       "onboard_time": 1749040700,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 305380,
-      "num": 305380,
-      "word": "济州岛偶遇叶舒华",
-      "onboard_time": 1749086060,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 296480,
@@ -193,14 +209,6 @@
       "onboard_time": 1749042321,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287675,
-      "num": 450750,
-      "word": "电视剧四十七",
-      "onboard_time": 1749087380,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 287404,
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238242,
+      "num": 238242,
+      "word": "高考倒计时2天",
+      "onboard_time": 1749082282,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 237719,
       "num": 237719,
       "word": "男友哽咽还原女友三亚被咬身亡过程",
@@ -283,12 +299,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 222494,
-      "num": 222494,
-      "word": "王者荣耀",
-      "onboard_time": 1749087980,
+      "raw_hot": 221780,
+      "num": 221780,
+      "word": "华为Pura80外观曝光",
+      "onboard_time": 1749089060,
       "rank": 22,
-      "category": "游戏"
+      "category": "数码"
     },
     {
       "raw_hot": 219690,
@@ -307,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212855,
+      "num": 221899,
+      "word": "侯佩岑发文告别浪姐",
+      "onboard_time": 1749082340,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211515,
       "num": 211515,
       "word": "海南有74种蛇类毒蛇27种",
@@ -323,12 +347,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196440,
-      "num": 196440,
-      "word": "高考倒计时2天",
-      "onboard_time": 1749082282,
-      "rank": 31,
-      "category": "教育"
+      "raw_hot": 198873,
+      "num": 198873,
+      "word": "打印店用微信传输要留意个人隐私",
+      "onboard_time": 1749085941,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 198632,
+      "num": 198631,
+      "word": "湿气最重的15天来了",
+      "onboard_time": 1749088339,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192662,
+      "num": 222951,
+      "word": "台湾资通电军是个什么组织",
+      "onboard_time": 1749088521,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190809,
@@ -347,14 +387,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 186537,
-      "num": 221899,
-      "word": "侯佩岑发文告别浪姐",
-      "onboard_time": 1749082340,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185341,
       "num": 163674,
       "word": "陷入我们的热恋声明",
@@ -369,14 +401,6 @@
       "onboard_time": 1749057077,
       "rank": 43,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 181643,
-      "num": 181643,
-      "word": "打印店用微信传输要留意个人隐私",
-      "onboard_time": 1749085941,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 178055,
@@ -483,23 +507,15 @@
       "category": "网红"
     },
     {
-      "raw_hot": 138000,
-      "num": 134588,
-      "word": "湿气最重的15天来了",
-      "onboard_time": 1749088339,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 145982,
+      "num": 145982,
+      "word": "汽车业务分立为一家独立中央企业",
+      "onboard_time": 1749089840,
+      "rank": 33,
+      "category": "汽车"
     },
     {
-      "raw_hot": 134643,
-      "num": 134643,
-      "word": "台湾资通电军是个什么组织",
-      "onboard_time": 1749088521,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 130803,
+      "raw_hot": 141962,
       "num": 218599,
       "word": "何秋亊方不愿意公开第三方公司信息",
       "onboard_time": 1749085402,
@@ -515,11 +531,51 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127802,
+      "num": 198632,
+      "word": "射雕藏海传",
+      "onboard_time": 1749088821,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 124798,
+      "num": 124798,
+      "word": "美再次独家否决安理会涉加沙决议",
+      "onboard_time": 1749082522,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119320,
       "num": 119320,
       "word": "王安宇刘浩存能不能二搭",
       "onboard_time": 1749046043,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115592,
+      "num": 115592,
+      "word": "芒种不慌不芒努力播种",
+      "onboard_time": 1749090140,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114853,
+      "num": 114853,
+      "word": "减少塑料污染不做塑料朋友",
+      "onboard_time": 1749089959,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114690,
+      "num": 114690,
+      "word": "藏海传超点真香",
+      "onboard_time": 1749089419,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -547,19 +603,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113081,
+      "num": 113081,
+      "word": "官方通报患者因输血问题死亡不实",
+      "onboard_time": 1749089660,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 112489,
+      "num": 112489,
+      "word": "建议女性每个月做一次乳房自检",
+      "onboard_time": 1749080420,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111525,
       "num": 111525,
       "word": "李在明将彻查世越号及梨泰院惨案",
       "onboard_time": 1749038240,
       "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 110981,
-      "num": 110981,
-      "word": "美再次独家否决安理会涉加沙决议",
-      "onboard_time": 1749082522,
-      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -577,22 +641,6 @@
       "onboard_time": 1749080600,
       "rank": 47,
       "category": "民生新闻,美妆"
-    },
-    {
-      "raw_hot": 105005,
-      "num": 105005,
-      "word": "射雕藏海传",
-      "onboard_time": 1749088821,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 104176,
-      "num": 104176,
-      "word": "建议女性每个月做一次乳房自检",
-      "onboard_time": 1749080420,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 104039,

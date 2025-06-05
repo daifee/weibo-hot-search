@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749088831407,
+  "endTime": 1749090241208,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -1539,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 543130,
+      "num": 543130,
+      "word": "电视剧四十七",
+      "onboard_time": 1748859379,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 538670,
       "num": 538670,
       "word": "Bin 闹剧结束了",
@@ -2019,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 433037,
+      "num": 433037,
+      "word": "对台独顽固分子沈伯洋关联企业予以惩戒",
+      "onboard_time": 1749086240,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 432200,
       "num": 432200,
       "word": "陈梦坦言渴望有完整家庭",
@@ -2121,14 +2137,6 @@
       "onboard_time": 1748879541,
       "rank": 4,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 416954,
-      "num": 416954,
-      "word": "对台独顽固分子沈伯洋关联企业予以惩戒",
-      "onboard_time": 1749086240,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 414719,
@@ -2579,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356630,
+      "num": 356630,
+      "word": "王者荣耀",
+      "onboard_time": 1749087980,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 356290,
       "num": 261585,
       "word": "李在明称感谢国民做出的伟大决定",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1748698282,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 345524,
+      "num": 345524,
+      "word": "济州岛偶遇叶舒华",
+      "onboard_time": 1749086060,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 345502,
@@ -3091,14 +3115,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 305380,
-      "num": 305380,
-      "word": "济州岛偶遇叶舒华",
-      "onboard_time": 1749086060,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305001,
       "num": 414459,
       "word": "卫兰歌手补位",
@@ -3233,14 +3249,6 @@
       "onboard_time": 1748757320,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287675,
-      "num": 450750,
-      "word": "电视剧四十七",
-      "onboard_time": 1748859379,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 287648,
@@ -3939,6 +3947,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 238242,
+      "num": 238242,
+      "word": "高考倒计时2天",
+      "onboard_time": 1749082282,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 238044,
       "num": 238044,
       "word": "藏海传灯塔分时破千万",
@@ -4251,14 +4267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 222494,
-      "num": 222494,
-      "word": "王者荣耀",
-      "onboard_time": 1749087980,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 222423,
       "num": 495087,
       "word": "西藏山南罕见红色精灵闪电",
@@ -4273,6 +4281,14 @@
       "onboard_time": 1748925622,
       "rank": 39,
       "category": "运动健身,民生新闻"
+    },
+    {
+      "raw_hot": 221780,
+      "num": 221780,
+      "word": "华为Pura80外观曝光",
+      "onboard_time": 1749089060,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 220390,
@@ -4433,6 +4449,14 @@
       "onboard_time": 1748843421,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212855,
+      "num": 221899,
+      "word": "侯佩岑发文告别浪姐",
+      "onboard_time": 1749082340,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 212668,
@@ -4851,12 +4875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198873,
+      "num": 198873,
+      "word": "打印店用微信传输要留意个人隐私",
+      "onboard_time": 1749085941,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198864,
       "num": 145872,
       "word": "梨形身材是基因彩票",
       "onboard_time": 1748706320,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198632,
+      "num": 198631,
+      "word": "湿气最重的15天来了",
+      "onboard_time": 1749088339,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197928,
@@ -4913,14 +4953,6 @@
       "onboard_time": 1749005841,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 196440,
-      "num": 196440,
-      "word": "高考倒计时2天",
-      "onboard_time": 1749082282,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 196423,
@@ -5049,6 +5081,14 @@
       "onboard_time": 1749038900,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192662,
+      "num": 222951,
+      "word": "台湾资通电军是个什么组织",
+      "onboard_time": 1749088521,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192580,
@@ -5323,14 +5363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 186537,
-      "num": 221899,
-      "word": "侯佩岑发文告别浪姐",
-      "onboard_time": 1749082340,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186517,
       "num": 186517,
       "word": "何秋亊回应演唱会门票价格",
@@ -5561,14 +5593,6 @@
       "onboard_time": 1749046282,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181643,
-      "num": 181643,
-      "word": "打印店用微信传输要留意个人隐私",
-      "onboard_time": 1749085941,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 181569,
@@ -7123,6 +7147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145982,
+      "num": 145982,
+      "word": "汽车业务分立为一家独立中央企业",
+      "onboard_time": 1749089840,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145954,
       "num": 145954,
       "word": "毛不易见我时带上你那源文件",
@@ -7379,6 +7411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141962,
+      "num": 218599,
+      "word": "何秋亊方不愿意公开第三方公司信息",
+      "onboard_time": 1749085402,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141960,
       "num": 141960,
       "word": "樊振东德国看球笑容满面",
@@ -7625,14 +7665,6 @@
       "onboard_time": 1748927122,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138000,
-      "num": 134588,
-      "word": "湿气最重的15天来了",
-      "onboard_time": 1749088339,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137995,
@@ -7915,14 +7947,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 134643,
-      "num": 134643,
-      "word": "台湾资通电军是个什么组织",
-      "onboard_time": 1749088521,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 134601,
       "num": 134601,
       "word": "藏海与师父高明倚门对视",
@@ -8179,14 +8203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130803,
-      "num": 218599,
-      "word": "何秋亊方不愿意公开第三方公司信息",
-      "onboard_time": 1749085402,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 130795,
       "num": 130795,
       "word": "今年第一批吃菌子中毒的人出现了",
@@ -8395,6 +8411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127802,
+      "num": 198632,
+      "word": "射雕藏海传",
+      "onboard_time": 1749088821,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127765,
       "num": 206702,
       "word": "零跑连续3个月新势力销量第一",
@@ -8553,6 +8577,14 @@
       "onboard_time": 1748829620,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124798,
+      "num": 124798,
+      "word": "美再次独家否决安理会涉加沙决议",
+      "onboard_time": 1749082522,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124754,
@@ -9219,6 +9251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115592,
+      "num": 115592,
+      "word": "芒种不慌不芒努力播种",
+      "onboard_time": 1749090140,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115408,
       "num": 115408,
       "word": "何秋亊甩锅第三方能否平息众怒",
@@ -9281,6 +9321,22 @@
       "onboard_time": 1748742501,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114853,
+      "num": 114853,
+      "word": "减少塑料污染不做塑料朋友",
+      "onboard_time": 1749089959,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114690,
+      "num": 114690,
+      "word": "藏海传超点真香",
+      "onboard_time": 1749089419,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 114563,
@@ -9411,6 +9467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113081,
+      "num": 113081,
+      "word": "官方通报患者因输血问题死亡不实",
+      "onboard_time": 1749089660,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 112991,
       "num": 172109,
       "word": "家人回应11岁女孩飞扑救下1岁妹妹",
@@ -9441,6 +9505,14 @@
       "onboard_time": 1749015741,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112489,
+      "num": 112489,
+      "word": "建议女性每个月做一次乳房自检",
+      "onboard_time": 1749080420,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112391,
@@ -9569,14 +9641,6 @@
       "onboard_time": 1748999962,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 110981,
-      "num": 110981,
-      "word": "美再次独家否决安理会涉加沙决议",
-      "onboard_time": 1749082522,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110965,
@@ -10035,14 +10099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105005,
-      "num": 105005,
-      "word": "射雕藏海传",
-      "onboard_time": 1749088821,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 104908,
       "num": 104908,
       "word": "沈月狠起来连自己都不放过",
@@ -10089,14 +10145,6 @@
       "onboard_time": 1748792061,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 104176,
-      "num": 104176,
-      "word": "建议女性每个月做一次乳房自检",
-      "onboard_time": 1749080420,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 104068,
