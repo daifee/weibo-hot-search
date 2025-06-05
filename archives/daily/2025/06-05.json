@@ -1,9 +1,9 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749137324928,
+  "endTime": 1749138221931,
   "band_list": [
     {
-      "raw_hot": 2978141,
+      "raw_hot": 3710133,
       "num": 984619,
       "word": "国足vs印尼",
       "onboard_time": 1749129922,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 958786,
-      "num": 379906,
+      "num": 389285,
       "word": "杨幂章子怡约了上海蛋糕局",
       "onboard_time": 1749133942,
       "rank": 11,
@@ -265,6 +265,14 @@
       "onboard_time": 1749093680,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 733164,
+      "num": 733164,
+      "word": "特朗普说欢迎中国留学生来美学习",
+      "onboard_time": 1749136222,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 725361,
@@ -481,14 +489,6 @@
       "onboard_time": 1749087380,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 539775,
-      "num": 539775,
-      "word": "特朗普说欢迎中国留学生来美学习",
-      "onboard_time": 1749136222,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 525279,
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308015,
+      "num": 308015,
+      "word": "萨巴伦卡vs斯瓦泰克",
+      "onboard_time": 1749131121,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303710,
       "num": 302239,
       "word": "易烊千玺新EP",
@@ -867,12 +875,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 297745,
+      "num": 374027,
+      "word": "网红违停被罚跳上警车吼叫",
+      "onboard_time": 1749133403,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296480,
       "num": 296480,
       "word": "何秋亊撇清与安静公主关系",
       "onboard_time": 1749044364,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 294239,
+      "num": 294239,
+      "word": "中美元首通话内容",
+      "onboard_time": 1749137121,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 293076,
@@ -915,28 +939,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 282192,
-      "num": 374027,
-      "word": "网红违停被罚跳上警车吼叫",
-      "onboard_time": 1749133403,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 281886,
       "num": 352317,
       "word": "高考加油",
       "onboard_time": 1749097942,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 281232,
-      "num": 281232,
-      "word": "萨巴伦卡vs斯瓦泰克",
-      "onboard_time": 1749131121,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 278370,
@@ -979,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268041,
+      "num": 268041,
+      "word": "黄金",
+      "onboard_time": 1749134963,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 267971,
       "num": 267971,
       "word": "高明扮演者回应藏海传拍第二部",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1749025279,
       "rank": 12,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 259406,
-      "num": 259406,
-      "word": "黄金",
-      "onboard_time": 1749134963,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 257454,
@@ -1275,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214646,
+      "num": 295174,
+      "word": "白鹿古装体态",
+      "onboard_time": 1749134425,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214439,
       "num": 214439,
       "word": "恋与制作人",
@@ -1379,14 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207903,
-      "num": 207903,
-      "word": "白鹿古装体态",
-      "onboard_time": 1749134425,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207275,
       "num": 207275,
       "word": "张凌赫给迪丽热巴吓一激灵",
@@ -1401,6 +1409,14 @@
       "onboard_time": 1749101661,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205456,
+      "num": 389432,
+      "word": "美方将继续奉行一个中国政策",
+      "onboard_time": 1749137481,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205298,
@@ -1555,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194332,
+      "num": 194332,
+      "word": "国足状态",
+      "onboard_time": 1749134483,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192196,
       "num": 192196,
       "word": "黄觉周奇二搭长安二十四计",
@@ -1691,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180138,
+      "num": 180138,
+      "word": "法网",
+      "onboard_time": 1749133883,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178606,
       "num": 178606,
       "word": "藏海传就是一本巨大的诀别书",
@@ -1737,6 +1769,14 @@
       "onboard_time": 1749101061,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175459,
+      "num": 175459,
+      "word": "女子三亚疑被蛇咬身亡家属再发声",
+      "onboard_time": 1749136702,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175101,
@@ -1787,14 +1827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174178,
-      "num": 174178,
-      "word": "国足状态",
-      "onboard_time": 1749134483,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173730,
       "num": 173730,
       "word": "咖啡的中医属性",
@@ -1817,6 +1849,14 @@
       "onboard_time": 1749103701,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 172947,
+      "num": 172947,
+      "word": "奶奶家一直用的花露水1987年过期",
+      "onboard_time": 1749133523,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172809,
@@ -1947,6 +1987,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 166067,
+      "num": 166067,
+      "word": "国足0比1落后印尼",
+      "onboard_time": 1749137302,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164966,
       "num": 164093,
       "word": "宁静问辛云来你有什么代表作",
@@ -2051,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157411,
-      "num": 157411,
-      "word": "奶奶家一直用的花露水1987年过期",
-      "onboard_time": 1749133523,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157378,
       "num": 157378,
       "word": "狼队对战RW",
@@ -2156,7 +2196,7 @@
     },
     {
       "raw_hot": 150256,
-      "num": 150256,
+      "num": 204672,
       "word": "乘风之夜亲友团公布",
       "onboard_time": 1749134242,
       "rank": 41,
@@ -2315,20 +2355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143056,
-      "num": 143056,
-      "word": "女子三亚疑被蛇咬身亡家属再发声",
-      "onboard_time": 1749136702,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141962,
       "num": 218599,
       "word": "何秋亊方不愿意公开第三方公司信息",
       "onboard_time": 1749085402,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141944,
+      "num": 181126,
+      "word": "宋雨琦刚要哭被周深给唱回来了",
+      "onboard_time": 1749135142,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 141858,
@@ -2476,11 +2516,19 @@
     },
     {
       "raw_hot": 134231,
-      "num": 235920,
+      "num": 848831,
       "word": "有一种震撼叫祖国山河如画",
       "onboard_time": 1749102078,
       "rank": 44,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 133512,
+      "num": 133512,
+      "word": "致谢中导师1句樊振东99句",
+      "onboard_time": 1749137721,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 132725,
@@ -2548,7 +2596,7 @@
     },
     {
       "raw_hot": 129999,
-      "num": 129999,
+      "num": 195963,
       "word": "国足首发身价不及印尼一半",
       "onboard_time": 1749134184,
       "rank": 49,
@@ -2603,12 +2651,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 125877,
+      "num": 125877,
+      "word": "刘耀文晒自拍",
+      "onboard_time": 1749137721,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124798,
       "num": 124798,
       "word": "美再次独家否决安理会涉加沙决议",
       "onboard_time": 1749082522,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123648,
+      "num": 123648,
+      "word": "苏超怎么就火了",
+      "onboard_time": 1749138021,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122231,
@@ -2673,14 +2737,6 @@
       "onboard_time": 1749122180,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117869,
-      "num": 117869,
-      "word": "宋雨琦刚要哭被周深给唱回来了",
-      "onboard_time": 1749135142,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 115592,
@@ -2811,14 +2867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108389,
-      "num": 156314,
-      "word": "中美元首通话内容",
-      "onboard_time": 1749137121,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108203,
       "num": 108203,
       "word": "王自如二次创业",
@@ -2873,14 +2921,6 @@
       "onboard_time": 1749108142,
       "rank": 34,
       "category": "动漫,财经"
-    },
-    {
-      "raw_hot": 104279,
-      "num": 104279,
-      "word": "国足0比1落后印尼",
-      "onboard_time": 1749137302,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 104039,
@@ -2948,7 +2988,7 @@
     },
     {
       "raw_hot": 98557,
-      "num": 214768,
+      "num": 526405,
       "word": "高考时间天气提示",
       "onboard_time": 1749134483,
       "rank": 25,
@@ -3236,7 +3276,7 @@
     },
     {
       "raw_hot": 68908,
-      "num": 127644,
+      "num": 142970,
       "word": "默沙东9价持久保护中国女性超10年",
       "onboard_time": 1749135742,
       "rank": 39,
@@ -4009,6 +4049,22 @@
       "onboard_time": 1749067214,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20591,
+      "num": 294991,
+      "word": "记者实测多款方便面重量",
+      "onboard_time": 1749137542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20066,
+      "num": 299676,
+      "word": "家属质疑首家医院未交接检查延误治疗",
+      "onboard_time": 1749137481,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19716,
