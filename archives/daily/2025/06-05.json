@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749130691195,
+  "endTime": 1749131438969,
   "band_list": [
     {
       "raw_hot": 2184958,
@@ -65,6 +65,14 @@
       "onboard_time": 1749043403,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1173622,
+      "num": 965273,
+      "word": "国足vs印尼",
+      "onboard_time": 1749129922,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1172032,
@@ -155,8 +163,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 834536,
-      "num": 834536,
+      "raw_hot": 840429,
+      "num": 840429,
       "word": "孙恩盛回应撞衫贺峻霖",
       "onboard_time": 1749127760,
       "rank": 27,
@@ -403,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 563721,
-      "num": 563721,
-      "word": "国足vs印尼",
-      "onboard_time": 1749129922,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 554444,
       "num": 554444,
       "word": "labubu医美",
@@ -635,6 +635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 379173,
+      "num": 379173,
+      "word": "老师因学生错过清华惋惜落泪",
+      "onboard_time": 1749128541,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375378,
       "num": 375378,
       "word": "杨丞琳陈妍希生日合照",
@@ -739,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 319215,
+      "num": 319215,
+      "word": "饶雪漫选角求助",
+      "onboard_time": 1749128061,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313866,
       "num": 256640,
       "word": "黄景瑜进车2小时逃生6秒钟",
@@ -769,14 +785,6 @@
       "onboard_time": 1749090859,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 300800,
-      "num": 300800,
-      "word": "老师因学生错过清华惋惜落泪",
-      "onboard_time": 1749128541,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 299123,
@@ -859,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277248,
+      "num": 277248,
+      "word": "樊振东祝福所有高考生",
+      "onboard_time": 1749129562,
+      "rank": 25,
+      "category": "体育,教育"
+    },
+    {
       "raw_hot": 273578,
       "num": 598458,
       "word": "陈思诚张小斐首度合作",
@@ -923,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252325,
+      "num": 252325,
+      "word": "江映蓉牛蛙背",
+      "onboard_time": 1749127820,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 248090,
       "num": 240057,
       "word": "又被张元英轻轻美到了",
@@ -937,14 +961,6 @@
       "onboard_time": 1749085641,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 245023,
-      "num": 245023,
-      "word": "樊振东祝福所有高考生",
-      "onboard_time": 1749129562,
-      "rank": 25,
-      "category": "体育,教育"
     },
     {
       "raw_hot": 242748,
@@ -1051,14 +1067,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 228071,
-      "num": 308206,
-      "word": "饶雪漫选角求助",
-      "onboard_time": 1749128061,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227420,
       "num": 556112,
       "word": "ENHYPEN回归",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1749093861,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214906,
-      "num": 214906,
-      "word": "江映蓉牛蛙背",
-      "onboard_time": 1749127820,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 214439,
@@ -1387,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197593,
+      "num": 197593,
+      "word": "澳大利亚1比0日本",
+      "onboard_time": 1749130882,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195846,
       "num": 280319,
       "word": "网传范玮琪歌手补位",
@@ -1531,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178606,
+      "num": 178606,
+      "word": "藏海传就是一本巨大的诀别书",
+      "onboard_time": 1749130702,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178134,
       "num": 216291,
       "word": "暖阳的礼物车开到康平路了",
@@ -1561,6 +1577,14 @@
       "onboard_time": 1749084141,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177585,
+      "num": 177585,
+      "word": "梁王",
+      "onboard_time": 1749131302,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 177295,
@@ -1691,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169442,
+      "num": 169442,
+      "word": "业内预估国产九价价格约进口的70%",
+      "onboard_time": 1749130161,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169237,
       "num": 169237,
       "word": "泡泡玛特",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1749111920,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168591,
+      "num": 418714,
+      "word": "苏超1个省踢出13省PK的感觉",
+      "onboard_time": 1749130161,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168568,
@@ -1779,6 +1819,14 @@
       "category": ""
     },
     {
+      "raw_hot": 163983,
+      "num": 277122,
+      "word": "付辛博爆料刘端端庆余年不穿裤子",
+      "onboard_time": 1749130582,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163944,
       "num": 207751,
       "word": "藏海传播放指数90.78",
@@ -1841,6 +1889,14 @@
       "onboard_time": 1749116180,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159484,
+      "num": 159484,
+      "word": "萨巴伦卡vs斯瓦泰克",
+      "onboard_time": 1749131121,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 157453,
@@ -2091,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141124,
+      "num": 141124,
+      "word": "中国女排1比3波兰女排",
+      "onboard_time": 1749131422,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140493,
       "num": 189442,
       "word": "KPL青春是同一片赛场",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1749110901,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138238,
+      "num": 138238,
+      "word": "奔跑吧",
+      "onboard_time": 1749130642,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 138085,
@@ -2219,6 +2291,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131584,
+      "num": 131584,
+      "word": "傅园慧不语只是一味爆梗",
+      "onboard_time": 1749131362,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130973,
+      "num": 321534,
+      "word": "加州高铁烧70亿美金15年没铺一条轨",
+      "onboard_time": 1749130102,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130939,
       "num": 130939,
       "word": "马嘉祺歌手第四期选曲",
@@ -2259,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129397,
+      "num": 129397,
+      "word": "黄金突然直线拉升",
+      "onboard_time": 1749131241,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127910,
       "num": 127910,
       "word": "李在明称将启动紧急经济专班",
@@ -2273,14 +2369,6 @@
       "onboard_time": 1749088821,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 126718,
-      "num": 126718,
-      "word": "奔跑吧",
-      "onboard_time": 1749130642,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 126226,
@@ -2539,28 +2627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102770,
-      "num": 418714,
-      "word": "苏超1个省踢出13省PK的感觉",
-      "onboard_time": 1749130161,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102732,
       "num": 102732,
       "word": "南京发布急得连发2条微博",
       "onboard_time": 1749040160,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102510,
-      "num": 220277,
-      "word": "付辛博爆料刘端端庆余年不穿裤子",
-      "onboard_time": 1749130582,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 102411,
@@ -2625,14 +2697,6 @@
       "onboard_time": 1749108201,
       "rank": 27,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 96821,
-      "num": 164311,
-      "word": "业内预估国产九价价格约进口的70%",
-      "onboard_time": 1749130161,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 96820,
@@ -2793,14 +2857,6 @@
       "onboard_time": 1749096863,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75864,
-      "num": 321534,
-      "word": "加州高铁烧70亿美金15年没铺一条轨",
-      "onboard_time": 1749130102,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 74760,
@@ -3003,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55458,
+      "num": 306631,
+      "word": "男子嫌球馆太吵喷洒干粉灭火器",
+      "onboard_time": 1749130041,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55404,
       "num": 161732,
       "word": "在飞机断电的情况下夜间迫降",
@@ -3155,14 +3219,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 45175,
-      "num": 306631,
-      "word": "男子嫌球馆太吵喷洒干粉灭火器",
-      "onboard_time": 1749130041,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44568,
       "num": 189470,
       "word": "哪些症状预示着糖尿病早期",
@@ -3217,6 +3273,14 @@
       "onboard_time": 1749115402,
       "rank": 25,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 40265,
+      "num": 236917,
+      "word": "曹骏不后悔在事业巅峰时退圈念书",
+      "onboard_time": 1749130161,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 39820,
@@ -3379,12 +3443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29470,
-      "num": 236917,
-      "word": "曹骏不后悔在事业巅峰时退圈念书",
-      "onboard_time": 1749130161,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 30028,
+      "num": 235349,
+      "word": "厦门一男子在线帮判断毒蛇伤口",
+      "onboard_time": 1749130282,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29223,
@@ -3427,14 +3491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27250,
-      "num": 235349,
-      "word": "厦门一男子在线帮判断毒蛇伤口",
-      "onboard_time": 1749130282,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26659,
       "num": 273060,
       "word": "康方生物确认患者使用公司临床药物",
@@ -3451,20 +3507,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 25717,
+      "num": 887756,
+      "word": "数说美丽中国新画卷",
+      "onboard_time": 1749122780,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25392,
       "num": 36872,
       "word": "律师解读白象多半袋面的多半是商标",
       "onboard_time": 1749054559,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25164,
-      "num": 827206,
-      "word": "数说美丽中国新画卷",
-      "onboard_time": 1749122780,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24250,
@@ -3714,6 +3770,9 @@
     },
     {
       "word": "#人不负青山 青山定不负人#"
+    },
+    {
+      "word": "#重温总书记嘱托共绘美丽中国画卷#"
     }
   ]
 }
