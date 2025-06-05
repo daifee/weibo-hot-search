@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749127986930,
+  "endTime": 1749128891116,
   "band_list": [
     {
       "raw_hot": 2184958,
@@ -40,6 +40,14 @@
       "word": "95后男子买彩票中2930万",
       "onboard_time": 1749090859,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1226395,
+      "num": 655871,
+      "word": "女子临床死亡后父亲要求继续抢救",
+      "onboard_time": 1749125240,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -128,14 +136,6 @@
       "word": "义乌女老板卖labubu娃衣3个月开3家店",
       "onboard_time": 1749106160,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 893363,
-      "num": 611816,
-      "word": "女子临床死亡后父亲要求继续抢救",
-      "onboard_time": 1749125240,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -249,6 +249,14 @@
       "onboard_time": 1749091160,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 690589,
+      "num": 690589,
+      "word": "孙恩盛回应撞衫贺峻霖",
+      "onboard_time": 1749127760,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 685611,
@@ -555,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 404608,
+      "num": 404608,
+      "word": "印尼考虑购买歼10",
+      "onboard_time": 1749127222,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 404559,
       "num": 404559,
       "word": "周渝民说单纯想赚钱不用找我",
@@ -609,6 +625,14 @@
       "onboard_time": 1749081620,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374332,
+      "num": 374332,
+      "word": "歌手第四期音源",
+      "onboard_time": 1749126560,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 366091,
@@ -771,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287783,
-      "num": 287783,
-      "word": "印尼考虑购买歼10",
-      "onboard_time": 1749127222,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 287404,
       "num": 287404,
       "word": "花少阵容临时变动",
@@ -843,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267198,
-      "num": 267198,
-      "word": "孙恩盛回应撞衫贺峻霖",
-      "onboard_time": 1749127760,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263877,
       "num": 596085,
       "word": "一家三口被害但嫌犯被鉴定精神分裂",
@@ -883,11 +891,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251307,
-      "num": 296218,
-      "word": "歌手第四期音源",
-      "onboard_time": 1749126560,
-      "rank": 18,
+      "raw_hot": 254104,
+      "num": 258783,
+      "word": "尹正隔空跟冯小刚道歉",
+      "onboard_time": 1749127041,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -905,6 +913,14 @@
       "onboard_time": 1749085641,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 242748,
+      "num": 255458,
+      "word": "中国女排vs波兰女排",
+      "onboard_time": 1749124581,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 241219,
@@ -1091,14 +1107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212895,
-      "num": 212895,
-      "word": "中国女排vs波兰女排",
-      "onboard_time": 1749124581,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212855,
       "num": 278320,
       "word": "侯佩岑发文告别浪姐",
@@ -1147,6 +1155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209096,
+      "num": 209096,
+      "word": "江映蓉牛蛙背",
+      "onboard_time": 1749127820,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209086,
       "num": 209086,
       "word": "成毅谢淮安开启复仇对弈",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1749094700,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208613,
+      "num": 319339,
+      "word": "被咬身亡女子亲属称一定要弄清楚死因",
+      "onboard_time": 1749126740,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208596,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1749115940,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202266,
-      "num": 258783,
-      "word": "尹正隔空跟冯小刚道歉",
-      "onboard_time": 1749127041,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 201825,
@@ -1363,6 +1379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 189453,
+      "num": 189453,
+      "word": "AG对战UUG",
+      "onboard_time": 1749128421,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187548,
       "num": 187548,
       "word": "刘耀文邀请宋亚轩一起爬山",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1749084141,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177018,
+      "num": 177018,
+      "word": "饶雪漫选角求助",
+      "onboard_time": 1749128061,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 176075,
@@ -1707,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163315,
+      "num": 163315,
+      "word": "央行将开展1万亿买断式逆回购操作",
+      "onboard_time": 1749128541,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163083,
       "num": 290044,
       "word": "宋亚轩因为羊失眠了",
@@ -1875,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148481,
+      "num": 148481,
+      "word": "老师因学生错过清华惋惜落泪",
+      "onboard_time": 1749128541,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148194,
       "num": 145774,
       "word": "43岁上海男子失业后逆袭",
@@ -1929,14 +1977,6 @@
       "onboard_time": 1749089840,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 145934,
-      "num": 145934,
-      "word": "江映蓉牛蛙背",
-      "onboard_time": 1749127820,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 145677,
@@ -2027,14 +2067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138604,
-      "num": 319339,
-      "word": "被咬身亡女子亲属称一定要弄清楚死因",
-      "onboard_time": 1749126740,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138085,
       "num": 138085,
       "word": "秦始皇陵没有被盗的真正原因",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1749099022,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135479,
+      "num": 135479,
+      "word": "谁懂考试前一晚的含金量",
+      "onboard_time": 1749125301,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 134625,
@@ -2201,6 +2241,14 @@
       "onboard_time": 1749082522,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122231,
+      "num": 122231,
+      "word": "scout 隐身",
+      "onboard_time": 1749128421,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 122114,
@@ -2523,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93636,
+      "num": 170631,
+      "word": "退钱哥预测今晚比分0比0",
+      "onboard_time": 1749128781,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92933,
       "num": 231052,
       "word": "网警依法打击涉抗日战争谣言",
@@ -2771,6 +2827,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 65742,
+      "num": 287970,
+      "word": "俱乐部经理称樊振东加盟反响疯狂",
+      "onboard_time": 1749123620,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64905,
       "num": 535985,
       "word": "事发地社区回应女子疑被蛇咬身亡",
@@ -2803,12 +2867,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60106,
-      "num": 287970,
-      "word": "俱乐部经理称樊振东加盟反响疯狂",
-      "onboard_time": 1749123620,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 60340,
+      "num": 229430,
+      "word": "下一个能抄苏超作业的省份会是谁",
+      "onboard_time": 1749128541,
+      "rank": 25,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 59422,
@@ -2971,7 +3035,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 44785,
+      "raw_hot": 46145,
       "num": 294959,
       "word": "长期喝咖啡的人身体会更健康吗",
       "onboard_time": 1749127282,
@@ -3252,7 +3316,7 @@
     },
     {
       "raw_hot": 25164,
-      "num": 760058,
+      "num": 827206,
       "word": "数说美丽中国新画卷",
       "onboard_time": 1749122780,
       "rank": 2,
@@ -3305,6 +3369,14 @@
       "onboard_time": 1749108081,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 22299,
+      "num": 262650,
+      "word": "蛇药哪里买怎么用",
+      "onboard_time": 1749127401,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22218,
@@ -3440,14 +3512,6 @@
       "word": "当地回应道路塌陷大坑有车辆陷入",
       "onboard_time": 1749070154,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10659,
-      "num": 262650,
-      "word": "蛇药哪里买怎么用",
-      "onboard_time": 1749127401,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
