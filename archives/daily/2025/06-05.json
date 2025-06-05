@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749106358231,
+  "endTime": 1749108348425,
   "band_list": [
     {
       "raw_hot": 2184958,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 915038,
+      "num": 915038,
+      "word": "义乌女老板卖labubu娃衣3个月开3家店",
+      "onboard_time": 1749106160,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 869922,
       "num": 869922,
       "word": "恋与深空",
@@ -115,8 +123,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 757613,
+      "num": 757613,
+      "word": "杨幂说小糯米画画挺好",
+      "onboard_time": 1749106041,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 752538,
-      "num": 399621,
+      "num": 410537,
       "word": "40岁女子不染发养了16个月的白发",
       "onboard_time": 1749104180,
       "rank": 11,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 625846,
-      "num": 625846,
+      "num": 834910,
       "word": "台湾资通电军是个什么组织",
       "onboard_time": 1749088521,
       "rank": 38,
@@ -211,6 +227,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 582683,
+      "num": 582683,
+      "word": "张小斐电影尺度",
+      "onboard_time": 1749105320,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 582511,
+      "num": 582511,
+      "word": "老人被五步蛇咬伤打16支血清脱险",
+      "onboard_time": 1749103520,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 579039,
       "num": 1092646,
       "word": "悬赏通缉20名台湾黑客",
@@ -225,6 +257,14 @@
       "onboard_time": 1749103701,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 560525,
+      "num": 560525,
+      "word": "权志龙点赞蔡徐坤舞台",
+      "onboard_time": 1749105559,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 548228,
@@ -257,14 +297,6 @@
       "onboard_time": 1749093980,
       "rank": 24,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 490199,
-      "num": 490199,
-      "word": "老人被五步蛇咬伤打16支血清脱险",
-      "onboard_time": 1749103520,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 483832,
@@ -307,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 441696,
+      "num": 400244,
+      "word": "徐艺洋给黄子韬打电话哭了",
+      "onboard_time": 1749106641,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434312,
       "num": 434312,
       "word": "警方通报税务人员被指在酒局冲突中身亡",
@@ -323,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 425565,
+      "num": 331690,
+      "word": "鹿晗黄子韬代唱",
+      "onboard_time": 1749107420,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404559,
       "num": 404559,
       "word": "周渝民说单纯想赚钱不用找我",
@@ -331,28 +379,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 398936,
-      "num": 322591,
-      "word": "张小斐电影尺度",
-      "onboard_time": 1749105320,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 392928,
       "num": 624513,
       "word": "警方通报社区女书记开车撞人致2伤",
       "onboard_time": 1749094221,
       "rank": 34,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 390971,
-      "num": 320925,
-      "word": "杨幂说小糯米画画挺好",
-      "onboard_time": 1749106041,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 386158,
@@ -369,6 +401,14 @@
       "onboard_time": 1749081620,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373814,
+      "num": 373814,
+      "word": "男子被蛇咬后忍痛给小青蛇拍了照片",
+      "onboard_time": 1749107540,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366091,
@@ -411,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337001,
+      "num": 337001,
+      "word": "何秋亊 没EXO版权",
+      "onboard_time": 1749107720,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329020,
       "num": 329020,
       "word": "人没动但科目一自动答题考过了",
@@ -420,7 +468,7 @@
     },
     {
       "raw_hot": 313866,
-      "num": 244810,
+      "num": 256640,
       "word": "黄景瑜进车2小时逃生6秒钟",
       "onboard_time": 1749104361,
       "rank": 18,
@@ -433,6 +481,14 @@
       "onboard_time": 1749090859,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 300100,
+      "num": 300100,
+      "word": "差点没认出章子怡",
+      "onboard_time": 1749107301,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 296480,
@@ -515,11 +571,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255215,
-      "num": 235593,
-      "word": "权志龙点赞蔡徐坤舞台",
-      "onboard_time": 1749105559,
-      "rank": 24,
+      "raw_hot": 251986,
+      "num": 251986,
+      "word": "何秋亊抄袭名单",
+      "onboard_time": 1749107901,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -545,6 +601,14 @@
       "onboard_time": 1749099922,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239330,
+      "num": 239330,
+      "word": "鹿晗工作室失实讯息声明",
+      "onboard_time": 1749107841,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 238709,
@@ -576,6 +640,14 @@
       "word": "樊振东留洋或能丰富技术",
       "onboard_time": 1749098064,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 230685,
+      "num": 230685,
+      "word": "王曼昱电光蓝夹克",
+      "onboard_time": 1749107841,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -827,12 +899,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195804,
+      "num": 195804,
+      "word": "李白",
+      "onboard_time": 1749104062,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194872,
       "num": 194872,
       "word": "丁禹兮为姜妍开门护头",
       "onboard_time": 1749099982,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192196,
+      "num": 192196,
+      "word": "黄觉周奇二搭长安二十四计",
+      "onboard_time": 1749107780,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 191383,
@@ -889,6 +977,14 @@
       "onboard_time": 1749057077,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 183908,
+      "num": 183908,
+      "word": "成毅徐璐首次合作",
+      "onboard_time": 1749107182,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 183644,
@@ -979,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173348,
+      "num": 230813,
+      "word": "小鹏G7全球首发小鹏华为联合研发ARHUD",
+      "onboard_time": 1749103701,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 172809,
       "num": 172809,
       "word": "水培荔枝",
@@ -1059,14 +1163,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 165101,
-      "num": 230813,
-      "word": "小鹏G7全球首发小鹏华为联合研发ARHUD",
-      "onboard_time": 1749103701,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 164966,
       "num": 164093,
       "word": "宁静问辛云来你有什么代表作",
@@ -1099,14 +1195,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163586,
-      "num": 163586,
-      "word": "李白",
-      "onboard_time": 1749104062,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163410,
       "num": 163410,
       "word": "七根心简 云包场",
@@ -1121,6 +1209,14 @@
       "onboard_time": 1749080538,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161929,
+      "num": 433652,
+      "word": "官方通报医院夸大病情过度治疗",
+      "onboard_time": 1749107001,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 161410,
@@ -1145,14 +1241,6 @@
       "onboard_time": 1749105022,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156296,
-      "num": 156296,
-      "word": "义乌女老板卖labubu娃衣3个月开3家店",
-      "onboard_time": 1749106160,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155943,
@@ -1243,6 +1331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145677,
+      "num": 145677,
+      "word": "丁程鑫北电学途杀青vlog",
+      "onboard_time": 1749107182,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141962,
       "num": 218599,
       "word": "何秋亊方不愿意公开第三方公司信息",
@@ -1321,6 +1417,14 @@
       "onboard_time": 1749104542,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130814,
+      "num": 130814,
+      "word": "张新成 艰难的制造",
+      "onboard_time": 1749108022,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 130799,
@@ -1523,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98503,
+      "num": 902386,
+      "word": "芒种时节播种希望收获美好",
+      "onboard_time": 1749101122,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97929,
       "num": 97929,
       "word": "砖厂用疑似智障人员干活给饭不给钱",
@@ -1563,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89154,
+      "num": 187540,
+      "word": "泡泡玛特市值首次超越日本三丽鸥",
+      "onboard_time": 1749108142,
+      "rank": 34,
+      "category": "动漫,财经"
+    },
+    {
       "raw_hot": 88166,
       "num": 583039,
       "word": "登顶路上每一步都是8848",
@@ -1577,6 +1697,14 @@
       "onboard_time": 1749104960,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85920,
+      "num": 221050,
+      "word": "一款增塑剂超标496倍凉鞋销量过百万",
+      "onboard_time": 1749108201,
+      "rank": 27,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85146,
@@ -1779,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55053,
+      "num": 375946,
+      "word": "一倍半一碗半一桶半等商标多数无效",
+      "onboard_time": 1749107120,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53837,
       "num": 53837,
       "word": "拖鞋厂回应叫南哥拖鞋已在设计",
@@ -1793,6 +1929,22 @@
       "onboard_time": 1749096082,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53171,
+      "num": 130833,
+      "word": "身体炎症升高会带来哪些疾病",
+      "onboard_time": 1749106880,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 51517,
+      "num": 219430,
+      "word": "老年人消费能否持续救活KTV",
+      "onboard_time": 1749107540,
+      "rank": 28,
+      "category": "休闲"
     },
     {
       "raw_hot": 51446,
@@ -1843,14 +1995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44462,
-      "num": 902386,
-      "word": "芒种时节播种希望收获美好",
-      "onboard_time": 1749101122,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43816,
       "num": 49276,
       "word": "为什么原来不过敏现在却过敏了",
@@ -1863,6 +2007,14 @@
       "num": 168122,
       "word": "律师庭审被打后还手被拘",
       "onboard_time": 1749093139,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41428,
+      "num": 172376,
+      "word": "加州居民晒早餐称物价离谱",
+      "onboard_time": 1749106880,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -2017,6 +2169,22 @@
       "onboard_time": 1749062415,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16593,
+      "num": 217479,
+      "word": "加快走路速度能延长寿命吗",
+      "onboard_time": 1749108081,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 12809,
+      "num": 217925,
+      "word": "高考前找到身份证的救赎感",
+      "onboard_time": 1749107841,
+      "rank": 29,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 11669,
