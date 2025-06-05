@@ -1,7 +1,15 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749133610445,
+  "endTime": 1749134663106,
   "band_list": [
+    {
+      "raw_hot": 2405232,
+      "num": 984619,
+      "word": "国足vs印尼",
+      "onboard_time": 1749129922,
+      "rank": 4,
+      "category": "体育"
+    },
     {
       "raw_hot": 2184958,
       "num": 610771,
@@ -27,14 +35,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1463491,
-      "num": 984619,
-      "word": "国足vs印尼",
-      "onboard_time": 1749129922,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1366274,
       "num": 974240,
       "word": "尼克朱迪不是情侣",
@@ -51,7 +51,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1254774,
+      "raw_hot": 1265659,
       "num": 778925,
       "word": "首个满级QQ即将诞生",
       "onboard_time": 1749132202,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 740238,
-      "num": 309482,
+      "num": 378428,
       "word": "付辛博爆料刘端端庆余年不穿裤子",
       "onboard_time": 1749130582,
       "rank": 31,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 668972,
-      "num": 301823,
+      "num": 382066,
       "word": "梁王",
       "onboard_time": 1749131302,
       "rank": 34,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 625072,
-      "num": 293385,
+      "num": 295128,
       "word": "21岁女子抗癌2年后发现误诊",
       "onboard_time": 1749115402,
       "rank": 21,
@@ -433,6 +433,14 @@
       "onboard_time": 1749103701,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 558838,
+      "num": 379906,
+      "word": "杨幂章子怡约了上海蛋糕局",
+      "onboard_time": 1749133942,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 554444,
@@ -691,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373325,
+      "num": 418714,
+      "word": "苏超1个省踢出13省PK的感觉",
+      "onboard_time": 1749130161,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366091,
       "num": 366091,
       "word": "曹骏谈年少爆红后突然消失",
@@ -811,6 +827,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 301534,
+      "num": 295440,
+      "word": "董明珠把山水画印在空调上了",
+      "onboard_time": 1749134003,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 299123,
       "num": 299123,
       "word": "VOGUE直播",
@@ -841,14 +865,6 @@
       "onboard_time": 1749042321,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290203,
-      "num": 418714,
-      "word": "苏超1个省踢出13省PK的感觉",
-      "onboard_time": 1749130161,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288469,
@@ -937,6 +953,14 @@
       "onboard_time": 1749081260,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267714,
+      "num": 267714,
+      "word": "国足直播",
+      "onboard_time": 1749129262,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 263877,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1749101661,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213277,
+      "num": 374027,
+      "word": "网红违停被罚跳上警车吼叫",
+      "onboard_time": 1749133403,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212855,
@@ -1595,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182890,
+      "num": 182890,
+      "word": "查理苏正脸",
+      "onboard_time": 1749133103,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181319,
       "num": 181319,
       "word": "华妃没事也晃她那双爪子",
@@ -1643,14 +1683,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 177295,
-      "num": 177295,
-      "word": "国足直播",
-      "onboard_time": 1749129262,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176075,
       "num": 176075,
       "word": "张凌赫红发眉钉皮衣",
@@ -1691,12 +1723,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174746,
+      "num": 296845,
+      "word": "印尼点球破门",
+      "onboard_time": 1749134363,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174208,
       "num": 174208,
       "word": "敖瑞鹏饰演一万三",
       "onboard_time": 1749096802,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174178,
+      "num": 174178,
+      "word": "国足状态",
+      "onboard_time": 1749134483,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 173730,
@@ -1811,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168359,
+      "num": 168359,
+      "word": "黄金突然直线拉升",
+      "onboard_time": 1749131241,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167654,
       "num": 163422,
       "word": "肖战藏海怕惊醒美梦又怕困在虚妄",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1749050422,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163655,
+      "num": 163655,
+      "word": "白鹿古装体态",
+      "onboard_time": 1749134425,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 163410,
@@ -2043,12 +2107,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 150745,
-      "num": 150745,
-      "word": "查理苏正脸",
-      "onboard_time": 1749133103,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 150256,
+      "num": 150256,
+      "word": "乘风之夜亲友团公布",
+      "onboard_time": 1749134242,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 149925,
@@ -2235,20 +2299,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140379,
+      "num": 140379,
+      "word": "张真源给自己加台词",
+      "onboard_time": 1749133883,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139930,
       "num": 139930,
       "word": "吴克群在云南被认成伍佰",
       "onboard_time": 1749126321,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139912,
-      "num": 139912,
-      "word": "黄金突然直线拉升",
-      "onboard_time": 1749131241,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 139736,
@@ -2416,6 +2480,14 @@
       "word": "谁是南哥",
       "onboard_time": 1749114861,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129999,
+      "num": 129999,
+      "word": "国足首发身价不及印尼一半",
+      "onboard_time": 1749134184,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2715,14 +2787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101951,
-      "num": 190632,
-      "word": "网红违停被罚跳上警车吼叫",
-      "onboard_time": 1749133403,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101863,
       "num": 310816,
       "word": "台网红因要直播探访大陆被绿营围攻",
@@ -2745,6 +2809,14 @@
       "onboard_time": 1749052760,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98557,
+      "num": 214768,
+      "word": "高考时间天气提示",
+      "onboard_time": 1749134483,
+      "rank": 25,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 98503,
@@ -3379,6 +3451,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 41692,
+      "num": 384729,
+      "word": "农户35亩田现6个尖锐铁器",
+      "onboard_time": 1749133823,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40265,
       "num": 236917,
       "word": "曹骏不后悔在事业巅峰时退圈念书",
@@ -3435,6 +3515,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 36967,
+      "num": 200350,
+      "word": "被毒蛇咬伤第一时间自救法",
+      "onboard_time": 1749132683,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35911,
       "num": 165727,
       "word": "搜狐极限探索者大会",
@@ -3464,6 +3552,14 @@
       "word": "4个实用小技巧缓解高考焦虑",
       "onboard_time": 1749101122,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32692,
+      "num": 387876,
+      "word": "张桂梅带学生为高考学子送祝福",
+      "onboard_time": 1749133642,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -3611,6 +3707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26560,
+      "num": 295690,
+      "word": "长期压力大会增加过敏反应吗",
+      "onboard_time": 1749133883,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 26398,
       "num": 236172,
       "word": "哪些食物会增加体内湿气",
@@ -3696,14 +3800,6 @@
       "word": "巴一警察月薪一千多养六娃",
       "onboard_time": 1749122539,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22211,
-      "num": 188115,
-      "word": "被毒蛇咬伤第一时间自救法",
-      "onboard_time": 1749132683,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3893,6 +3989,9 @@
     },
     {
       "word": "#重温总书记嘱托共绘美丽中国画卷#"
+    },
+    {
+      "word": "总书记两山理念的生动实践"
     }
   ]
 }
