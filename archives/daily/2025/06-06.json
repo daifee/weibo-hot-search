@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749149997681,
+  "endTime": 1749151144543,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32925,
+      "num": 32925,
+      "word": "第一次见女主像小说里的仙门路人甲",
+      "onboard_time": 1749148755,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28762,
       "num": 52782,
       "word": "老师因学生错过清华惋惜落泪",
@@ -523,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24251,
-      "num": 28343,
-      "word": "第一次见女主像小说里的仙门路人甲",
-      "onboard_time": 1749148755,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 20663,
+      "num": 30736,
+      "word": "印尼一载80余人游艇侧翻沉没",
+      "onboard_time": 1749149055,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15773,
@@ -537,14 +545,6 @@
       "onboard_time": 1749148334,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14868,
-      "num": 30736,
-      "word": "印尼一载80余人游艇侧翻沉没",
-      "onboard_time": 1749149055,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14820,
