@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749119377888,
+  "endTime": 1749120449584,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -2459,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419856,
+      "num": 375504,
+      "word": "陈梦撕拉片",
+      "onboard_time": 1749117680,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418943,
       "num": 418943,
       "word": "榴莲价格出现腰斩",
@@ -2489,14 +2497,6 @@
       "onboard_time": 1749001280,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 412180,
-      "num": 375504,
-      "word": "陈梦撕拉片",
-      "onboard_time": 1749117680,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 411888,
@@ -2576,6 +2576,14 @@
       "word": "苏新皓抽到了权志龙未公开小卡",
       "onboard_time": 1748865023,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 396199,
+      "num": 396199,
+      "word": "杨幂 承认自己不完美不需要勇气",
+      "onboard_time": 1749113780,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -2833,14 +2841,6 @@
       "onboard_time": 1749040700,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 369960,
-      "num": 369960,
-      "word": "杨幂 承认自己不完美不需要勇气",
-      "onboard_time": 1749113780,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 367494,
@@ -4491,6 +4491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234466,
+      "num": 234466,
+      "word": "400块的鞋犹豫了三年",
+      "onboard_time": 1749117021,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234388,
       "num": 327279,
       "word": "宋昕冉卡点祝迪丽热巴生日快乐",
@@ -5097,6 +5105,14 @@
       "onboard_time": 1748935820,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211102,
+      "num": 399141,
+      "word": "江苏景区预订暴涨超300%",
+      "onboard_time": 1749116720,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211048,
@@ -6033,14 +6049,6 @@
       "onboard_time": 1749028220,
       "rank": 30,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 188819,
-      "num": 188819,
-      "word": "400块的鞋犹豫了三年",
-      "onboard_time": 1749117021,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 188509,
@@ -7347,14 +7355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 162408,
-      "num": 399141,
-      "word": "江苏景区预订暴涨超300%",
-      "onboard_time": 1749116720,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162090,
       "num": 162090,
       "word": "天天喝这种水身体炎症在悄悄升高",
@@ -7609,6 +7609,14 @@
       "onboard_time": 1749105022,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157378,
+      "num": 157378,
+      "word": "狼队对战RW",
+      "onboard_time": 1749119599,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 157346,
@@ -8179,6 +8187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147307,
+      "num": 147306,
+      "word": "辛柏青新剧反派心机拿捏到位了",
+      "onboard_time": 1749119900,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147109,
       "num": 370157,
       "word": "广西柳州一路面滑坡致三辆轿车滑落",
@@ -8281,6 +8297,14 @@
       "onboard_time": 1748932820,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145686,
+      "num": 145686,
+      "word": "央视转播苏超",
+      "onboard_time": 1749119240,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 145677,
@@ -8441,6 +8465,14 @@
       "onboard_time": 1748938942,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143068,
+      "num": 147594,
+      "word": "肖战为考生加油适配度好高",
+      "onboard_time": 1749119540,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 142938,
@@ -9192,14 +9224,6 @@
       "word": "王楚钦林昀儒戴上了红领巾",
       "onboard_time": 1748960424,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 133695,
-      "num": 133695,
-      "word": "央视转播苏超",
-      "onboard_time": 1749119240,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -10299,6 +10323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118834,
+      "num": 118834,
+      "word": "夏以昼好会亲",
+      "onboard_time": 1749120261,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118678,
       "num": 118678,
       "word": "十二星座一周运势",
@@ -10745,6 +10777,14 @@
       "onboard_time": 1748786481,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113189,
+      "num": 111717,
+      "word": "种地吧 爱让寡言者滔滔不绝",
+      "onboard_time": 1749120140,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 113131,
@@ -13667,6 +13707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 66320,
+      "num": 119198,
+      "word": "吴艳妮想跑北京马拉松",
+      "onboard_time": 1749120380,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65942,
       "num": 563957,
       "word": "今麦郎康师傅曾申请一桶半一倍半商标",
@@ -14411,6 +14459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48718,
+      "num": 211192,
+      "word": "外交部回应稀土出口管制措施",
+      "onboard_time": 1749114320,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48297,
       "num": 224595,
       "word": "未来3天可能有地磁暴",
@@ -14561,6 +14617,14 @@
       "onboard_time": 1748768301,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 44568,
+      "num": 189470,
+      "word": "哪些症状预示着糖尿病早期",
+      "onboard_time": 1749120080,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 44512,
@@ -15360,6 +15424,14 @@
       "word": "中国的稀土优势在于产业规模",
       "onboard_time": 1748847380,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31173,
+      "num": 267790,
+      "word": "被害哥嫂家属现场还原凶手作案过程",
+      "onboard_time": 1749119121,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -16547,14 +16619,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 11990,
-      "num": 267790,
-      "word": "被害哥嫂家属现场还原凶手作案过程",
-      "onboard_time": 1749119121,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11987,
       "num": 161622,
       "word": "七分吃三分练减肥法是否科学有效",
@@ -16769,6 +16833,14 @@
       "onboard_time": 1748782340,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 7580,
+      "num": 147313,
+      "word": "买家退货后遭店家索赔",
+      "onboard_time": 1749120140,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6825,
