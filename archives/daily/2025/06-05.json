@@ -1,6 +1,6 @@
 {
   "startTime": 1749054525683,
-  "endTime": 1749122628674,
+  "endTime": 1749123531877,
   "band_list": [
     {
       "raw_hot": 2184958,
@@ -131,8 +131,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 811554,
-      "num": 811554,
+      "raw_hot": 852960,
+      "num": 852960,
       "word": "藏海传豆瓣开分7.1",
       "onboard_time": 1749121399,
       "rank": 1,
@@ -403,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 500044,
+      "num": 500044,
+      "word": "豆瓣分型",
+      "onboard_time": 1749121880,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 487607,
       "num": 487607,
       "word": "徐艺洋给黄子韬打电话哭了",
@@ -555,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357806,
+      "num": 357806,
+      "word": "央视转播苏超",
+      "onboard_time": 1749119240,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356630,
       "num": 356630,
       "word": "王者荣耀",
@@ -595,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 336822,
-      "num": 336822,
-      "word": "央视转播苏超",
-      "onboard_time": 1749119240,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 329020,
       "num": 329020,
       "word": "人没动但科目一自动答题考过了",
@@ -633,6 +641,14 @@
       "onboard_time": 1749117262,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303710,
+      "num": 181484,
+      "word": "易烊千玺新EP",
+      "onboard_time": 1749122301,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 302121,
@@ -681,6 +697,14 @@
       "onboard_time": 1749078918,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283457,
+      "num": 283457,
+      "word": "朝鲜驱逐舰已被扶正",
+      "onboard_time": 1749122242,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 281886,
@@ -1139,14 +1163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197823,
-      "num": 197823,
-      "word": "豆瓣分型",
-      "onboard_time": 1749121880,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195846,
       "num": 280319,
       "word": "网传范玮琪歌手补位",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1749099982,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193162,
-      "num": 181484,
-      "word": "易烊千玺新EP",
-      "onboard_time": 1749122301,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 192196,
@@ -1923,14 +1931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129372,
-      "num": 152910,
-      "word": "朝鲜驱逐舰已被扶正",
-      "onboard_time": 1749122242,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 127910,
       "num": 127910,
       "word": "李在明称将启动紧急经济专班",
@@ -1979,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121859,
+      "num": 121859,
+      "word": "宁艺卓VOGUE出发",
+      "onboard_time": 1749122959,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 121455,
       "num": 188186,
       "word": "美国女子长有畸形怪胎长达18年",
@@ -2003,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118761,
+      "num": 118761,
+      "word": "国足队员为适应天气提前把空调关了",
+      "onboard_time": 1749122180,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115592,
       "num": 115592,
       "word": "芒种不慌不芒努力播种",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1749089419,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114634,
+      "num": 114634,
+      "word": "李荣书开通ins",
+      "onboard_time": 1749122720,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 114563,
@@ -2107,12 +2131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107697,
-      "num": 107697,
-      "word": "国足队员为适应天气提前把空调关了",
-      "onboard_time": 1749122180,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 108203,
+      "num": 108203,
+      "word": "王自如二次创业",
+      "onboard_time": 1749123200,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 106853,
@@ -2137,6 +2161,14 @@
       "onboard_time": 1749080600,
       "rank": 47,
       "category": "民生新闻,美妆"
+    },
+    {
+      "raw_hot": 105291,
+      "num": 105291,
+      "word": "可妈可爸道歉",
+      "onboard_time": 1749123441,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 104713,
@@ -2201,6 +2233,14 @@
       "onboard_time": 1749102078,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99474,
+      "num": 99474,
+      "word": "WE对战JDG",
+      "onboard_time": 1749118520,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 99263,
@@ -2433,6 +2473,14 @@
       "onboard_time": 1749044364,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 71461,
+      "num": 237930,
+      "word": "抢一张苏超足球联赛票到底有多难",
+      "onboard_time": 1749121399,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 70716,
@@ -2772,7 +2820,7 @@
     },
     {
       "raw_hot": 37464,
-      "num": 133914,
+      "num": 167542,
       "word": "单双休对心理有什么影响",
       "onboard_time": 1749122539,
       "rank": 36,
@@ -2801,14 +2849,6 @@
       "onboard_time": 1749049881,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 34378,
-      "num": 237930,
-      "word": "抢一张苏超足球联赛票到底有多难",
-      "onboard_time": 1749121399,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 33616,
@@ -2907,6 +2947,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 29027,
+      "num": 152467,
+      "word": "四川小镇的高考送考仪式感拉满",
+      "onboard_time": 1749123143,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 28638,
       "num": 131975,
       "word": "漂亮饭为啥吃的人这么多",
@@ -3003,6 +3051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 22218,
+      "num": 139491,
+      "word": "巴一警察月薪一千多养六娃",
+      "onboard_time": 1749122539,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21970,
       "num": 191175,
       "word": "女子被蛇咬身亡致命时间线",
@@ -3051,6 +3107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20875,
+      "num": 637058,
+      "word": "数说美丽中国新画卷",
+      "onboard_time": 1749122780,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20607,
       "num": 23787,
       "word": "外交部回应李在明就任韩国总统",
@@ -3075,14 +3139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17626,
-      "num": 134466,
-      "word": "巴一警察月薪一千多养六娃",
-      "onboard_time": 1749122539,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17221,
       "num": 259627,
       "word": "博主啊宝近期申请个人形象商标",
@@ -3105,6 +3161,14 @@
       "onboard_time": 1749112340,
       "rank": 33,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 12363,
+      "num": 113321,
+      "word": "文化中国行芒种至仲夏始",
+      "onboard_time": 1749123501,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12092,
@@ -3137,6 +3201,22 @@
       "onboard_time": 1749114682,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 9410,
+      "num": 138388,
+      "word": "肌肉流失会导致基础代谢下降吗",
+      "onboard_time": 1749122900,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 9167,
+      "num": 140032,
+      "word": "刚入职如何把握职场责任边界",
+      "onboard_time": 1749122900,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 6825,

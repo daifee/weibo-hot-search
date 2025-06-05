@@ -1,0 +1,410 @@
+{
+  "runTime": 1749123531877,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 121778,
+        "num": 1019484,
+        "word": "悬赏通缉20名台湾黑客",
+        "onboard_time": 1749083421,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852960,
+        "num": 852960,
+        "word": "藏海传豆瓣开分7.1",
+        "onboard_time": 1749121399,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20875,
+        "num": 637058,
+        "word": "数说美丽中国新画卷",
+        "onboard_time": 1749122780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 500044,
+        "num": 500044,
+        "word": "豆瓣分型",
+        "onboard_time": 1749121880,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357806,
+        "num": 357806,
+        "word": "央视转播苏超",
+        "onboard_time": 1749119240,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283457,
+        "num": 283457,
+        "word": "朝鲜驱逐舰已被扶正",
+        "onboard_time": 1749122242,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369054,
+        "num": 280511,
+        "word": "何秋亊 没EXO版权",
+        "onboard_time": 1749107720,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323652,
+        "num": 278522,
+        "word": "披荆斩棘5阵容",
+        "onboard_time": 1749116061,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255440,
+        "num": 255440,
+        "word": "女子欠款1700万法院悬赏170万寻人",
+        "onboard_time": 1749116360,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168943,
+        "num": 168943,
+        "word": "长期喝咖啡的人后来都怎么样了",
+        "onboard_time": 1749109762,
+        "rank": 9,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 1068659,
+        "num": 168825,
+        "word": "400块的鞋犹豫了三年",
+        "onboard_time": 1749117021,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 484037,
+        "num": 168765,
+        "word": "鹿晗黄子韬代唱",
+        "onboard_time": 1749107420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422210,
+        "num": 168555,
+        "word": "女孩遭体罚去世3人涉嫌虐待罪被拘留",
+        "onboard_time": 1749097402,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401356,
+        "num": 168364,
+        "word": "王铮亮女儿两天拿了两个冠军",
+        "onboard_time": 1749113059,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303710,
+        "num": 168315,
+        "word": "易烊千玺新EP",
+        "onboard_time": 1749122301,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300920,
+        "num": 168081,
+        "word": "陈梦撕拉片",
+        "onboard_time": 1749117680,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268568,
+        "num": 167916,
+        "word": "杨幂 承认自己不完美不需要勇气",
+        "onboard_time": 1749113780,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133668,
+        "num": 167704,
+        "word": "高考加油",
+        "onboard_time": 1749097942,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128863,
+        "num": 167614,
+        "word": "国产九价HPV疫苗与进口等效",
+        "onboard_time": 1749121039,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28985,
+        "num": 167542,
+        "word": "单双休对心理有什么影响",
+        "onboard_time": 1749122539,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293303,
+        "num": 167345,
+        "word": "李在明首次主持国务会议场面尴尬",
+        "onboard_time": 1749115759,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319368,
+        "num": 167140,
+        "word": "21岁女子抗癌2年后发现误诊",
+        "onboard_time": 1749115402,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193532,
+        "num": 167080,
+        "word": "游客被咬伤身亡相关医生已被停职",
+        "onboard_time": 1749111562,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166929,
+        "num": 166929,
+        "word": "种地吧",
+        "onboard_time": 1749117262,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29027,
+        "num": 152467,
+        "word": "四川小镇的高考送考仪式感拉满",
+        "onboard_time": 1749123143,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141454,
+        "num": 141454,
+        "word": "十个勤天演唱会抢票",
+        "onboard_time": 1749121819,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171430,
+        "num": 141417,
+        "word": "华妃没事也晃她那双爪子",
+        "onboard_time": 1749122060,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9167,
+        "num": 140032,
+        "word": "刚入职如何把握职场责任边界",
+        "onboard_time": 1749122900,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22218,
+        "num": 139491,
+        "word": "巴一警察月薪一千多养六娃",
+        "onboard_time": 1749122539,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9410,
+        "num": 138388,
+        "word": "肌肉流失会导致基础代谢下降吗",
+        "onboard_time": 1749122900,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141981,
+        "num": 137411,
+        "word": "40岁女子不染发养了16个月的白发",
+        "onboard_time": 1749104180,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137261,
+        "num": 137261,
+        "word": "警方回应台州23岁失联女子已死亡",
+        "onboard_time": 1749121280,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 125493,
+        "num": 125493,
+        "word": "歌手歌单",
+        "onboard_time": 1749100402,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123131,
+        "num": 123131,
+        "word": "权志龙点赞蔡徐坤舞台",
+        "onboard_time": 1749105559,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32444,
+        "num": 121871,
+        "word": "FBI称有证据表明爱泼斯坦确系自杀",
+        "onboard_time": 1749121581,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121859,
+        "num": 121859,
+        "word": "宁艺卓VOGUE出发",
+        "onboard_time": 1749122959,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118761,
+        "num": 118761,
+        "word": "国足队员为适应天气提前把空调关了",
+        "onboard_time": 1749122180,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114634,
+        "num": 114634,
+        "word": "李荣书开通ins",
+        "onboard_time": 1749122720,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12363,
+        "num": 113321,
+        "word": "文化中国行芒种至仲夏始",
+        "onboard_time": 1749123501,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112290,
+        "num": 112290,
+        "word": "建议大家要远离恋爱式友情",
+        "onboard_time": 1749095722,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111874,
+        "num": 111874,
+        "word": "女司机要水泡奶男收费员秒懂",
+        "onboard_time": 1749113241,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109090,
+        "num": 109090,
+        "word": "女子带面瘫猫咪针灸扎成刺猬",
+        "onboard_time": 1749122421,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108203,
+        "num": 108203,
+        "word": "王自如二次创业",
+        "onboard_time": 1749123200,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105291,
+        "num": 105291,
+        "word": "可妈可爸道歉",
+        "onboard_time": 1749123441,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103955,
+        "num": 103955,
+        "word": "邓为金发拍立得",
+        "onboard_time": 1749119240,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71461,
+        "num": 103405,
+        "word": "抢一张苏超足球联赛票到底有多难",
+        "onboard_time": 1749121399,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102957,
+        "num": 102957,
+        "word": "市监局对星巴克疑喝出蟑螂不予立案",
+        "onboard_time": 1749121280,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102877,
+        "num": 102877,
+        "word": "种地吧直播",
+        "onboard_time": 1749118042,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101188,
+        "num": 101188,
+        "word": "时代少年团纪录片",
+        "onboard_time": 1749121039,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99474,
+        "num": 99474,
+        "word": "WE对战JDG",
+        "onboard_time": 1749118520,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中韩战略合作伙伴关系不断向前发展#"
+    }
+  }
+}
