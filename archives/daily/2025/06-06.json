@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749142100704,
+  "endTime": 1749144010511,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -59,6 +59,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317861,
+      "num": 317861,
+      "word": "伊万 下课",
+      "onboard_time": 1749141438,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251036,
+      "num": 162278,
+      "word": "章子怡回复杨幂",
+      "onboard_time": 1749139460,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235755,
       "num": 235755,
       "word": "中美元首通话内容",
@@ -91,12 +107,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 205743,
-      "num": 162278,
-      "word": "章子怡回复杨幂",
-      "onboard_time": 1749139460,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 214760,
+      "num": 214760,
+      "word": "我国超1700万人在养异宠",
+      "onboard_time": 1749139042,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200051,
@@ -105,14 +121,6 @@
       "onboard_time": 1749139941,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196501,
-      "num": 196501,
-      "word": "我国超1700万人在养异宠",
-      "onboard_time": 1749139042,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195640,
@@ -243,19 +251,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113562,
-      "num": 113562,
-      "word": "伊万 下课",
-      "onboard_time": 1749141438,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111799,
       "num": 111799,
       "word": "国足世预赛出局",
       "onboard_time": 1749140060,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107803,
+      "num": 107803,
+      "word": "国足 四年后",
+      "onboard_time": 1749142038,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -411,24 +419,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 79734,
-      "num": 79734,
-      "word": "国足 四年后",
-      "onboard_time": 1749142038,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 75428,
-      "num": 75428,
+      "raw_hot": 80750,
+      "num": 80750,
       "word": "王钰栋 国足希望",
       "onboard_time": 1749141678,
       "rank": 44,
       "category": "体育"
     },
     {
-      "raw_hot": 75287,
-      "num": 75287,
+      "raw_hot": 79657,
+      "num": 100351,
       "word": "央行将开展1万亿买断式逆回购操作",
       "onboard_time": 1749128541,
       "rank": 46,
@@ -443,12 +443,52 @@
       "category": "教育"
     },
     {
+      "raw_hot": 49144,
+      "num": 49144,
+      "word": "斯瓦泰克无缘法网四连冠",
+      "onboard_time": 1749142218,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46961,
+      "num": 46961,
+      "word": "韦世豪状态",
+      "onboard_time": 1749143116,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44931,
       "num": 98303,
       "word": "男子找大师定制旺夫姻缘被骗十余万",
       "onboard_time": 1749139161,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42592,
+      "num": 42592,
+      "word": "丁禹兮旁白雪豹纪录片",
+      "onboard_time": 1749142697,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41307,
+      "num": 41307,
+      "word": "王大雷说非常遗憾",
+      "onboard_time": 1749142757,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33178,
+      "num": 81209,
+      "word": "巴林vs沙特",
+      "onboard_time": 1749143419,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 14820,

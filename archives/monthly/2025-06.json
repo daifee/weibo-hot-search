@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749142100704,
+  "endTime": 1749144010511,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -3587,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317861,
+      "num": 317861,
+      "word": "伊万 下课",
+      "onboard_time": 1749141438,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316925,
       "num": 245857,
       "word": "王星越回应演现代戏",
@@ -4595,6 +4603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 251036,
+      "num": 162278,
+      "word": "章子怡回复杨幂",
+      "onboard_time": 1749139460,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250089,
       "num": 229789,
       "word": "杨天真为什么去留学",
@@ -5379,6 +5395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214760,
+      "num": 214760,
+      "word": "我国超1700万人在养异宠",
+      "onboard_time": 1749139042,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214646,
       "num": 295174,
       "word": "白鹿古装体态",
@@ -5745,14 +5769,6 @@
       "onboard_time": 1748937621,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 205743,
-      "num": 162278,
-      "word": "章子怡回复杨幂",
-      "onboard_time": 1749139460,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 205658,
@@ -6169,14 +6185,6 @@
       "onboard_time": 1749005841,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 196501,
-      "num": 196501,
-      "word": "我国超1700万人在养异宠",
-      "onboard_time": 1749139042,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196423,
@@ -11683,14 +11691,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 113562,
-      "num": 113562,
-      "word": "伊万 下课",
-      "onboard_time": 1749141438,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113477,
       "num": 113477,
       "word": "郑钦文萨巴伦卡隔空喊话",
@@ -12184,6 +12184,14 @@
       "word": "文班亚马在北京逛街",
       "onboard_time": 1749042563,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107803,
+      "num": 107803,
+      "word": "国足 四年后",
+      "onboard_time": 1749142038,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -14075,6 +14083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80750,
+      "num": 80750,
+      "word": "王钰栋 国足希望",
+      "onboard_time": 1749141678,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80729,
       "num": 80729,
       "word": "有些热闹专门让小孩难堪",
@@ -14113,14 +14129,6 @@
       "onboard_time": 1748936901,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 79734,
-      "num": 79734,
-      "word": "国足 四年后",
-      "onboard_time": 1749142038,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 79655,
@@ -14329,14 +14337,6 @@
       "onboard_time": 1748768960,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 75428,
-      "num": 75428,
-      "word": "王钰栋 国足希望",
-      "onboard_time": 1749141678,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 75222,
@@ -15587,6 +15587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49144,
+      "num": 49144,
+      "word": "斯瓦泰克无缘法网四连冠",
+      "onboard_time": 1749142218,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48892,
       "num": 693801,
       "word": "92岁科学家谈起跨栏纪录满是骄傲",
@@ -15649,6 +15657,14 @@
       "onboard_time": 1748783541,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46961,
+      "num": 46961,
+      "word": "韦世豪状态",
+      "onboard_time": 1749143116,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 46533,
@@ -15907,6 +15923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42592,
+      "num": 42592,
+      "word": "丁禹兮旁白雪豹纪录片",
+      "onboard_time": 1749142697,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42477,
       "num": 168122,
       "word": "律师庭审被打后还手被拘",
@@ -16001,6 +16025,14 @@
       "onboard_time": 1748945422,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41307,
+      "num": 41307,
+      "word": "王大雷说非常遗憾",
+      "onboard_time": 1749142757,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 41262,
@@ -16489,6 +16521,14 @@
       "onboard_time": 1749101122,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33178,
+      "num": 81209,
+      "word": "巴林vs沙特",
+      "onboard_time": 1749143419,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 33145,
