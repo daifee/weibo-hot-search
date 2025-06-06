@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/07 06:42:50
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/07 07:25:21
 </p>
 </blockquote>
 <p>
@@ -3795,6 +3795,12 @@ VOGUE直播（热度：299123）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23" target="weibo">
+高考（热度：287420）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%91%E9%98%B5%E5%AE%B9%E4%B8%B4%E6%97%B6%E5%8F%98%E5%8A%A8%23" target="weibo">
 花少阵容临时变动（热度：287404）
 </a>
@@ -4127,6 +4133,12 @@ VOGUE直播（热度：299123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E8%B5%A2%23" target="weibo">
 李在明为什么能赢（热度：264902）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A6%88%E6%8A%A4%E5%B4%BD%E5%B0%86%E6%AF%92%E8%9B%87%E6%96%AD3%E6%88%AA%E4%B8%AD%E6%AF%92%E4%B8%8D%E6%B2%BB%E8%BA%AB%E4%BA%A1%23" target="weibo">
+狗妈护崽将毒蛇断3截中毒不治身亡（热度：264402）
 </a>
 </li>
 
@@ -4941,6 +4953,12 @@ GAI 文旅型歌手（热度：223709）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A07%E6%9C%88%E5%A4%AA%E7%83%AD%E9%AB%98%E8%80%83%E8%87%AA2003%E5%B9%B4%E8%B5%B7%E8%B0%83%E6%95%B4%E8%87%B36%E6%9C%88%23" target="weibo">
+因7月太热高考自2003年起调整至6月（热度：222447）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%B1%B1%E5%8D%97%E7%BD%95%E8%A7%81%E7%BA%A2%E8%89%B2%E7%B2%BE%E7%81%B5%E9%97%AA%E7%94%B5%23" target="weibo">
 西藏山南罕见红色精灵闪电（热度：222423）
 </a>
@@ -5057,6 +5075,12 @@ GAI 文旅型歌手（热度：223709）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B5%8C%E5%8D%9A%E6%AC%A0%E5%80%BA%E5%80%92%E5%8D%96%E5%8D%83%E5%B9%B4%E8%A3%B9%E5%B0%B8%E5%B8%83%E8%A2%AB%E6%8A%93%23" target="weibo">
 男子赌博欠债倒卖千年裹尸布被抓（热度：217593）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%9C%A8%E6%AD%8C%E6%89%8B%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%9B%9E%E5%A4%8D%23" target="weibo">
+王者荣耀在歌手评论区回复（热度：217532）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ AD钙奶（热度：195160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E7%8A%B6%E6%80%81%23" target="weibo">
 国足状态（热度：194332）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A5%95%E7%BB%99%E6%88%91%E5%8C%96%E7%9A%84%E5%A6%86%23" target="weibo">
-王奕给我化的妆（热度：194273）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23IG%E9%87%8E%E8%BE%85%20%E5%88%AB%E8%B6%8A%23" target="weibo">
-IG野辅 别越（热度：193925）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-十个勤天演唱会（热度：193816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%20%E9%AB%98%E8%80%83%E9%A1%BA%E5%88%A9%E4%B8%80%E5%88%87%E9%A1%BA%E5%88%A9%23" target="weibo">
-成毅 高考顺利一切顺利（热度：193746）
 </a>
 </li>
 

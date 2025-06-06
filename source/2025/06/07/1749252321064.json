@@ -1,0 +1,410 @@
+{
+  "runTime": 1749252321064,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1258773,
+        "num": 1258773,
+        "word": "第一名掉准考证的学生出现了",
+        "onboard_time": 1749223463,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 580135,
+        "num": 580135,
+        "word": "单依纯疯了",
+        "onboard_time": 1749217108,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31808,
+        "num": 395734,
+        "word": "高考学子给荔高粽",
+        "onboard_time": 1749222924,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 287420,
+        "num": 287420,
+        "word": "高考",
+        "onboard_time": 1749251598,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252067,
+        "num": 252067,
+        "word": "马斯克突然改口",
+        "onboard_time": 1749222205,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222447,
+        "num": 222447,
+        "word": "因7月太热高考自2003年起调整至6月",
+        "onboard_time": 1749248956,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 329194,
+        "num": 220293,
+        "word": "单依纯疑似报复李荣浩当年没转身",
+        "onboard_time": 1749224962,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304185,
+        "num": 219765,
+        "word": "范玮琪暴哭",
+        "onboard_time": 1749220886,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217532,
+        "num": 217532,
+        "word": "王者荣耀在歌手评论区回复",
+        "onboard_time": 1749250996,
+        "rank": 8,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 188179,
+        "num": 188179,
+        "word": "警方回应老人捡手机索要1600才肯还",
+        "onboard_time": 1749225202,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 264402,
+        "num": 185452,
+        "word": "狗妈护崽将毒蛇断3截中毒不治身亡",
+        "onboard_time": 1749252258,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225669,
+        "num": 184809,
+        "word": "浙江女子牙疼切开脓肿发现20多种细菌",
+        "onboard_time": 1749222325,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182261,
+        "num": 182261,
+        "word": "高考加油",
+        "onboard_time": 1749251358,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175625,
+        "num": 175625,
+        "word": "俄大规模轰炸乌克兰军工企业",
+        "onboard_time": 1749224423,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145691,
+        "num": 145691,
+        "word": "歌手排名",
+        "onboard_time": 1749218487,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137472,
+        "num": 137472,
+        "word": "范玮琪",
+        "onboard_time": 1749252258,
+        "rank": 15,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 134735,
+        "num": 134735,
+        "word": "特朗普世上无难事只要肯放弃",
+        "onboard_time": 1749236294,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116036,
+        "num": 116036,
+        "word": "巴黎世家推出15500元北京烤鸭包",
+        "onboard_time": 1749204381,
+        "rank": 17,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 114224,
+        "num": 114224,
+        "word": "高考时间",
+        "onboard_time": 1749183503,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 81744,
+        "num": 81744,
+        "word": "晒娃背后的虐娃产业链",
+        "onboard_time": 1749251956,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100767,
+        "num": 80267,
+        "word": "缺爱的人为什么很难进入亲密关系",
+        "onboard_time": 1749231257,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78532,
+        "num": 78532,
+        "word": "不到铃响不要泄气",
+        "onboard_time": 1749226042,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 76963,
+        "num": 76963,
+        "word": "韦东奕粉丝破百万",
+        "onboard_time": 1749246494,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74658,
+        "num": 74658,
+        "word": "姐姐回应医科大学生患癌去世",
+        "onboard_time": 1749250996,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71631,
+        "num": 71631,
+        "word": "虞书欣丁禹兮宣传黄晓明潜渊",
+        "onboard_time": 1749224065,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68378,
+        "num": 68378,
+        "word": "金晨发夹越萌开车越猛",
+        "onboard_time": 1749244754,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66799,
+        "num": 66799,
+        "word": "这可能是今年最硬核的招生广告",
+        "onboard_time": 1749221606,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 64820,
+        "num": 64820,
+        "word": "GAI 大白嗓",
+        "onboard_time": 1749213863,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59654,
+        "num": 59654,
+        "word": "特朗普说现在不太想和马斯克说话",
+        "onboard_time": 1749223224,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56793,
+        "num": 56793,
+        "word": "李荣浩连续10年高考发8字祝福",
+        "onboard_time": 1749223823,
+        "rank": 29,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 77503,
+        "num": 56591,
+        "word": "水果里的高糖刺客",
+        "onboard_time": 1749251956,
+        "rank": 30,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 55971,
+        "num": 55971,
+        "word": "6月高考都23年了",
+        "onboard_time": 1749251956,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 54329,
+        "num": 54329,
+        "word": "谢娜问呼伦贝尔真有这么冷吗",
+        "onboard_time": 1749247516,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53198,
+        "num": 53198,
+        "word": "辛纳首进法网决赛",
+        "onboard_time": 1749250517,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50334,
+        "num": 50334,
+        "word": "白象宣布多半系列产品更名",
+        "onboard_time": 1749240194,
+        "rank": 34,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 52500,
+        "num": 50197,
+        "word": "陈楚生 好听",
+        "onboard_time": 1749212722,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49907,
+        "num": 49907,
+        "word": "马嘉祺粉底液",
+        "onboard_time": 1749219025,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49476,
+        "num": 49476,
+        "word": "高考第一天张桂梅的小喇叭又响了",
+        "onboard_time": 1749251237,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49398,
+        "num": 49398,
+        "word": "武磊苏超首秀需过淘汰赛门槛",
+        "onboard_time": 1749216567,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48457,
+        "num": 48457,
+        "word": "比赛第一 友谊第十四",
+        "onboard_time": 1749233297,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46712,
+        "num": 46712,
+        "word": "藏海传导演谈肖战最超乎意料的戏",
+        "onboard_time": 1749249917,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46004,
+        "num": 46004,
+        "word": "难听",
+        "onboard_time": 1749215129,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45829,
+        "num": 45829,
+        "word": "马嘉祺咬字",
+        "onboard_time": 1749216386,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39949,
+        "num": 45334,
+        "word": "一首青春探路者为高考生加油",
+        "onboard_time": 1749252199,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 45146,
+        "num": 45146,
+        "word": "这个早安送给高考生",
+        "onboard_time": 1749251719,
+        "rank": 44,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 44980,
+        "num": 44980,
+        "word": "于正回应临江仙争议",
+        "onboard_time": 1749245714,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43524,
+        "num": 43524,
+        "word": "断眉跑哪去了",
+        "onboard_time": 1749214404,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43331,
+        "num": 43331,
+        "word": "广州长隆回应马戏演员从火轮摔下",
+        "onboard_time": 1749228560,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41620,
+        "num": 41620,
+        "word": "谢娜我的短袖大礼服是不是穿不了啦",
+        "onboard_time": 1749250817,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40786,
+        "num": 40786,
+        "word": "俄乌局势或出现新变数",
+        "onboard_time": 1749236714,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受班禅额尔德尼确吉杰布拜见#"
+    }
+  }
+}
