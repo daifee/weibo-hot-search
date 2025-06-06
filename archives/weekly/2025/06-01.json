@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749209936689,
+  "endTime": 1749214305119,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -25,6 +25,14 @@
       "onboard_time": 1748735178,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4704827,
+      "num": 4704827,
+      "word": "歌手直播",
+      "onboard_time": 1749210263,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3923701,
@@ -89,6 +97,14 @@
       "onboard_time": 1749025279,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2579115,
+      "num": 2579115,
+      "word": "范玮琪声音好抖",
+      "onboard_time": 1749214224,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2511180,
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1815794,
+      "num": 1815794,
+      "word": "陈楚生 好听",
+      "onboard_time": 1749212722,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1805267,
       "num": 1121557,
       "word": "何秋亊 汪苏泷",
@@ -272,6 +296,14 @@
       "word": "歌手歌单",
       "onboard_time": 1749100402,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1654662,
+      "num": 550701,
+      "word": "GAI是不是想走了",
+      "onboard_time": 1749213322,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -489,6 +521,14 @@
       "onboard_time": 1748945841,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1293865,
+      "num": 1293865,
+      "word": "警方通报武汉大学伤人事件",
+      "onboard_time": 1749210081,
+      "rank": 4,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1293020,
@@ -947,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 930211,
+      "num": 545447,
+      "word": "歌手顺序",
+      "onboard_time": 1749211581,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 925576,
       "num": 716179,
       "word": "廊坊法院道歉",
@@ -1089,6 +1137,14 @@
       "onboard_time": 1749127760,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 838049,
+      "num": 469049,
+      "word": "单依纯承认爱情舞台瑕疵多",
+      "onboard_time": 1749212961,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 836852,
@@ -1673,6 +1729,14 @@
       "onboard_time": 1748930900,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 661611,
+      "num": 449912,
+      "word": "樱桃琥珀",
+      "onboard_time": 1749208460,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 658988,
@@ -2563,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492442,
+      "num": 492442,
+      "word": "梁伟铿 青岛",
+      "onboard_time": 1749211161,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491317,
       "num": 538400,
       "word": "何秋亊将直播回应争议",
@@ -2593,14 +2665,6 @@
       "onboard_time": 1749038359,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 488579,
-      "num": 309765,
-      "word": "樱桃琥珀",
-      "onboard_time": 1749208460,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 487607,
@@ -2651,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481701,
+      "num": 233920,
+      "word": "GAI 大白嗓",
+      "onboard_time": 1749213863,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 480224,
       "num": 480224,
       "word": "腾讯视频六月大剧片单",
@@ -2681,6 +2753,14 @@
       "onboard_time": 1749139460,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478720,
+      "num": 478720,
+      "word": "热地同志逝世",
+      "onboard_time": 1749213141,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 477231,
@@ -3259,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403829,
+      "num": 274005,
+      "word": "宋茜绿裙高定",
+      "onboard_time": 1749208761,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 401939,
       "num": 173074,
       "word": "刘浩存吻戏",
@@ -3561,6 +3649,14 @@
       "onboard_time": 1748779760,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374596,
+      "num": 374596,
+      "word": "巴黎世家推出15500元北京烤鸭包",
+      "onboard_time": 1749204381,
+      "rank": 27,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 374577,
@@ -4691,6 +4787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289653,
+      "num": 222714,
+      "word": "谁懂卫兰歌手唱大哥",
+      "onboard_time": 1749211462,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289471,
       "num": 277780,
       "word": "张艺兴黄子韬 芒果同台",
@@ -4827,14 +4931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282263,
-      "num": 282263,
-      "word": "巴黎世家推出15500元北京烤鸭包",
-      "onboard_time": 1749204381,
-      "rank": 27,
-      "category": "民生新闻,时尚"
-    },
-    {
       "raw_hot": 281886,
       "num": 352317,
       "word": "高考加油",
@@ -4963,6 +5059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275277,
+      "num": 275277,
+      "word": "原神",
+      "onboard_time": 1748936061,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274759,
       "num": 274759,
       "word": "患者服临床试验抗癌药致重症肺炎",
@@ -4985,14 +5089,6 @@
       "onboard_time": 1748994021,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 274005,
-      "num": 274005,
-      "word": "宋茜绿裙高定",
-      "onboard_time": 1749208761,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 273923,
@@ -5547,6 +5643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 246005,
+      "num": 206591,
+      "word": "马嘉祺歌手直播做捏捏",
+      "onboard_time": 1749213022,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245487,
       "num": 423204,
       "word": "泽连斯基称没人在意俄罗斯愤怒",
@@ -5712,6 +5816,22 @@
       "word": "男子被蛇咬想抓蛇又被咬",
       "onboard_time": 1749040580,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 236062,
+      "num": 201224,
+      "word": "藏海传观众能当编剧了",
+      "onboard_time": 1749210561,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 235737,
+      "num": 328091,
+      "word": "官方回应3人吃烧烤花780元疑阴阳价",
+      "onboard_time": 1749209422,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -7129,6 +7249,14 @@
       "onboard_time": 1749105621,
       "rank": 30,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 201685,
+      "num": 156157,
+      "word": "宁艺卓宋茜VOGUE同框",
+      "onboard_time": 1749211161,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201371,
@@ -8563,6 +8691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177189,
+      "num": 167514,
+      "word": "成都一小区入口形似景区检票处",
+      "onboard_time": 1749208100,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176421,
       "num": 176421,
       "word": "宋威龙笑脸baby冷脸daddy",
@@ -8824,6 +8960,14 @@
       "word": "亚朵酒店称洗涤供应商出现严重失误",
       "onboard_time": 1749009021,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171912,
+      "num": 171912,
+      "word": "老人给恋人20万后离世子女要对方返还",
+      "onboard_time": 1749211881,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -9915,6 +10059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155132,
+      "num": 227525,
+      "word": "宋雨琦张真源两个唱跳歌手飙演技",
+      "onboard_time": 1749214104,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154796,
       "num": 154796,
       "word": "原神5.7版本直播",
@@ -10867,14 +11019,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 143760,
-      "num": 143760,
-      "word": "成都一小区入口形似景区检票处",
-      "onboard_time": 1749208100,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143717,
       "num": 143717,
       "word": "孟子义请曾舜晞九门剧组喝饮料",
@@ -10953,14 +11097,6 @@
       "onboard_time": 1748763620,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142800,
-      "num": 142800,
-      "word": "原神",
-      "onboard_time": 1748936061,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 142501,
@@ -13427,6 +13563,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 116652,
+      "num": 116652,
+      "word": "王传福股东会哽咽",
+      "onboard_time": 1749212122,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116642,
       "num": 116642,
       "word": "印度开始研发五代战机",
@@ -13723,6 +13867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113601,
+      "num": 231863,
+      "word": "黄明昊谁教你在淘宝上买这些的",
+      "onboard_time": 1749214104,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 113592,
       "num": 113592,
       "word": "无毛猫能有多油",
@@ -13873,6 +14025,14 @@
       "onboard_time": 1748751022,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112095,
+      "num": 112095,
+      "word": "高考前的最后一个晚上",
+      "onboard_time": 1749214165,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 111903,
@@ -14537,14 +14697,6 @@
       "onboard_time": 1748759481,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104783,
-      "num": 328091,
-      "word": "官方回应3人吃烧烤花780元疑阴阳价",
-      "onboard_time": 1749209422,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104713,
@@ -18443,6 +18595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42814,
+      "num": 406183,
+      "word": "官方回应精神病患抠出同病房老人眼球",
+      "onboard_time": 1749213682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42696,
       "num": 45600,
       "word": "端午假期预计6.57亿人次跨区域流动",
@@ -19315,6 +19475,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 31475,
+      "num": 235127,
+      "word": "登峰造G电竞人",
+      "onboard_time": 1749210381,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 31448,
       "num": 132710,
       "word": "2025年过去一半了",
@@ -19440,6 +19608,14 @@
       "word": "拆迁款被亲属代领避债",
       "onboard_time": 1749126922,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30237,
+      "num": 222401,
+      "word": "女子打赏男主播60万儿子想要回",
+      "onboard_time": 1749214165,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -19835,6 +20011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 26377,
+      "num": 230350,
+      "word": "气象局回应西安大量白点状飞行物",
+      "onboard_time": 1749214104,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26338,
       "num": 223196,
       "word": "重见天日千佛石窟未来仍会被淹没",
@@ -20057,6 +20241,14 @@
       "onboard_time": 1749111680,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 23848,
+      "num": 189136,
+      "word": "将老人抠伤双眼者患妄想症",
+      "onboard_time": 1749214285,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23633,
@@ -20283,6 +20475,22 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 21459,
+      "num": 2007323,
+      "word": "青春华章重走西北角",
+      "onboard_time": 1749200781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21287,
+      "num": 228890,
+      "word": "留饭和剩饭动机有什么不同",
+      "onboard_time": 1749211881,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 21269,
       "num": 224334,
       "word": "为什么刚洗完澡容易招蚊子",
@@ -20297,14 +20505,6 @@
       "onboard_time": 1748803035,
       "rank": 48,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 21012,
-      "num": 836034,
-      "word": "青春华章重走西北角",
-      "onboard_time": 1749200781,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20972,
@@ -21049,6 +21249,14 @@
       "onboard_time": 1748771660,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9872,
+      "num": 167743,
+      "word": "工作年限是求职的硬性门槛吗",
+      "onboard_time": 1749214285,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 9558,
