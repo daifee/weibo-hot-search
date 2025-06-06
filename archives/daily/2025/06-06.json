@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749188769837,
+  "endTime": 1749191881369,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -35,6 +35,22 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1701825,
+      "num": 1701825,
+      "word": "员工发烧37.9度请假遭HR辱骂",
+      "onboard_time": 1749184343,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1618270,
+      "num": 1618270,
+      "word": "难看",
+      "onboard_time": 1749189142,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1554999,
       "num": 1554999,
       "word": "活鸭20元一斤烤鸭为何20多元一只",
@@ -43,12 +59,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1310016,
-      "num": 1310016,
-      "word": "员工发烧37.9度请假遭HR辱骂",
-      "onboard_time": 1749184343,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 1345475,
+      "num": 1345475,
+      "word": "韦神",
+      "onboard_time": 1749187461,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 1265041,
@@ -123,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 719718,
+      "num": 719718,
+      "word": "浪姐 没苦硬吃",
+      "onboard_time": 1749187941,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 702511,
       "num": 702511,
       "word": "家有儿女姥姥的含金量还在上升",
@@ -195,20 +219,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 577962,
+      "num": 577962,
+      "word": "前妻让张纪中别再惹她",
+      "onboard_time": 1749190041,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 570116,
+      "num": 570116,
+      "word": "新还珠格格",
+      "onboard_time": 1749187641,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 547112,
       "num": 607243,
       "word": "种地吧麦田音乐会导览直播",
       "onboard_time": 1749183861,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 533525,
-      "num": 533525,
-      "word": "新还珠格格",
-      "onboard_time": 1749187641,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 526741,
@@ -307,14 +339,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 445986,
-      "num": 445986,
-      "word": "浪姐 没苦硬吃",
-      "onboard_time": 1749187941,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 439810,
       "num": 229769,
       "word": "精神病院一老人被病友抠出眼球",
@@ -387,14 +411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 362665,
-      "num": 362665,
-      "word": "韦神",
-      "onboard_time": 1749187461,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 360977,
       "num": 360977,
       "word": "NBA总决赛",
@@ -409,6 +425,14 @@
       "onboard_time": 1749171680,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 340904,
+      "num": 340904,
+      "word": "芭莎之夜阵容",
+      "onboard_time": 1749189562,
+      "rank": 12,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 339073,
@@ -481,6 +505,14 @@
       "onboard_time": 1749178580,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 293898,
+      "num": 293898,
+      "word": "歌手2025第四期歌单官宣",
+      "onboard_time": 1749189741,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 292767,
@@ -707,20 +739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212091,
+      "num": 212091,
+      "word": "郎咸平批评孟羽童很短视",
+      "onboard_time": 1749188062,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211237,
       "num": 211237,
       "word": "稚奴睡好了我复盘藏海传睡不着了",
       "onboard_time": 1749184581,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209884,
-      "num": 209884,
-      "word": "郎咸平批评孟羽童很短视",
-      "onboard_time": 1749188062,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209321,
@@ -753,6 +785,14 @@
       "onboard_time": 1749183802,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205864,
+      "num": 181751,
+      "word": "labubu牙套",
+      "onboard_time": 1749191061,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 205831,
@@ -827,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195392,
+      "num": 195392,
+      "word": "方可给迪丽热巴做的千禧发型",
+      "onboard_time": 1749191482,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194273,
       "num": 194273,
       "word": "王奕给我化的妆",
@@ -891,12 +939,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184601,
+      "num": 184601,
+      "word": "张婧仪上初中肖战大二",
+      "onboard_time": 1749191661,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182336,
       "num": 182336,
       "word": "华为曝光一底双长焦专利",
       "onboard_time": 1749186621,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 180349,
+      "num": 180349,
+      "word": "吴宣仪刘宇合跳了风月",
+      "onboard_time": 1749190162,
+      "rank": 31,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 179274,
@@ -907,12 +971,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 174997,
+      "num": 177502,
+      "word": "李晟别怕你的陆来了",
+      "onboard_time": 1749189861,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173940,
       "num": 173940,
       "word": "陆沉鳏夫味",
       "onboard_time": 1749181221,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173452,
+      "num": 173452,
+      "word": "孙颖莎获全国青联提名人选",
+      "onboard_time": 1749191421,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 172712,
@@ -979,12 +1059,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161157,
+      "num": 161157,
+      "word": "亲属称希望韦东奕多接触外界",
+      "onboard_time": 1749190401,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160961,
+      "num": 160961,
+      "word": "特斯拉市值一夜蒸发超万亿",
+      "onboard_time": 1749191181,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 160608,
       "num": 160608,
       "word": "天问二号发回太空旅行打卡照",
       "onboard_time": 1749185062,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159663,
+      "num": 159663,
+      "word": "樊振东说球迷是同频的又是幸运的",
+      "onboard_time": 1749191361,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 159454,
@@ -1001,6 +1105,14 @@
       "onboard_time": 1749187282,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 155341,
+      "num": 155341,
+      "word": "人社局回应员工发烧请假遭HR辱骂",
+      "onboard_time": 1749189021,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154056,
@@ -1043,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151787,
+      "num": 151787,
+      "word": "贝克汉姆撕拉片",
+      "onboard_time": 1749188900,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150900,
       "num": 150900,
       "word": "马柏全VOGUE出发造型",
@@ -1060,7 +1180,7 @@
     },
     {
       "raw_hot": 147418,
-      "num": 147418,
+      "num": 1458056,
       "word": "我国卫星互联网低轨卫星发射成功",
       "onboard_time": 1749165499,
       "rank": 44,
@@ -1139,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141880,
+      "num": 141880,
+      "word": "那英 花少出发前先上晚会",
+      "onboard_time": 1749189502,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141240,
       "num": 141240,
       "word": "白宫称马斯克言论不影响特朗普立场",
@@ -1211,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138146,
+      "num": 138146,
+      "word": "丁程鑫减肥减到113斤",
+      "onboard_time": 1749191722,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135196,
       "num": 135196,
       "word": "再一次送别国足",
@@ -1265,6 +1401,14 @@
       "onboard_time": 1749139880,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130022,
+      "num": 282927,
+      "word": "老人在精神病院被挖双眼涉事科室受处分",
+      "onboard_time": 1749191421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128144,
@@ -1369,6 +1513,14 @@
       "onboard_time": 1749176181,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114241,
+      "num": 160648,
+      "word": "国产九价HPV疫苗打破进口垄断",
+      "onboard_time": 1749190222,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112331,
@@ -1779,6 +1931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56082,
+      "num": 283243,
+      "word": "女性适量喝咖啡能延缓衰老吗",
+      "onboard_time": 1749190341,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 54519,
       "num": 83066,
       "word": "离了五哈谁还把王勉当团欺",
@@ -1891,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41777,
+      "num": 238677,
+      "word": "冯骥才寄语高考生",
+      "onboard_time": 1749190761,
+      "rank": 24,
+      "category": "读书作家,教育"
+    },
+    {
       "raw_hot": 41343,
       "num": 391512,
       "word": "女童被虐致死案生父不认故意伤害",
@@ -1971,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29810,
+      "num": 181801,
+      "word": "妈妈记录孩子最后一次穿高中校服",
+      "onboard_time": 1749191361,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28584,
       "num": 34836,
       "word": "中方将坚定维护海外中国学生和学者权益",
@@ -2001,6 +2177,14 @@
       "onboard_time": 1749183922,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19763,
+      "num": 718094,
+      "word": "请收下这份穿越时空的高考祝福",
+      "onboard_time": 1749190461,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18563,
@@ -2070,6 +2254,9 @@
   "hotgov_list": [
     {
       "word": "#总书记两山理念的生动实践#"
+    },
+    {
+      "word": "#习近平同美国总统特朗普通电话#"
     }
   ]
 }

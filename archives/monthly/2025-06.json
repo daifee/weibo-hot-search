@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749188769837,
+  "endTime": 1749191881369,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -243,10 +243,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1701825,
+      "num": 1701825,
+      "word": "员工发烧37.9度请假遭HR辱骂",
+      "onboard_time": 1749184343,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1700088,
       "num": 1001751,
       "word": "歌手歌单",
       "onboard_time": 1749100402,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1618270,
+      "num": 1618270,
+      "word": "难看",
+      "onboard_time": 1749189142,
       "rank": 1,
       "category": "综艺"
     },
@@ -419,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1345475,
+      "num": 1345475,
+      "word": "韦神",
+      "onboard_time": 1749187461,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1336827,
       "num": 630020,
       "word": "樊振东10天前主动联系德甲俱乐部",
@@ -440,14 +464,6 @@
       "word": "95后男子买彩票中2930万",
       "onboard_time": 1749090859,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1310016,
-      "num": 1310016,
-      "word": "员工发烧37.9度请假遭HR辱骂",
-      "onboard_time": 1749184343,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1371,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 719718,
+      "num": 719718,
+      "word": "浪姐 没苦硬吃",
+      "onboard_time": 1749187941,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 718256,
       "num": 718256,
       "word": "酱园弄悬案全员亮相",
@@ -2003,11 +2027,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 577962,
+      "num": 577962,
+      "word": "前妻让张纪中别再惹她",
+      "onboard_time": 1749190041,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571992,
       "num": 571992,
       "word": "刘医生返乡记 肖战",
       "onboard_time": 1749044783,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 570116,
+      "num": 570116,
+      "word": "新还珠格格",
+      "onboard_time": 1749187641,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -2121,14 +2161,6 @@
       "onboard_time": 1748875283,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 533525,
-      "num": 533525,
-      "word": "新还珠格格",
-      "onboard_time": 1749187641,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 531499,
@@ -2737,14 +2769,6 @@
       "onboard_time": 1749125301,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 445986,
-      "num": 445986,
-      "word": "浪姐 没苦硬吃",
-      "onboard_time": 1749187941,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 441469,
@@ -3443,14 +3467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 362665,
-      "num": 362665,
-      "word": "韦神",
-      "onboard_time": 1749187461,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 361591,
       "num": 326145,
       "word": "何秋亊 给哪吒道歉",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1748759720,
       "rank": 18,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 340904,
+      "num": 340904,
+      "word": "芭莎之夜阵容",
+      "onboard_time": 1749189562,
+      "rank": 12,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 339821,
@@ -4337,6 +4361,14 @@
       "onboard_time": 1749137121,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293898,
+      "num": 293898,
+      "word": "歌手2025第四期歌单官宣",
+      "onboard_time": 1749189741,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 293076,
@@ -6083,6 +6115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212091,
+      "num": 212091,
+      "word": "郎咸平批评孟羽童很短视",
+      "onboard_time": 1749188062,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211702,
       "num": 211702,
       "word": "周翊然心里想着娣娣嘴上叫着娜娜",
@@ -6169,14 +6209,6 @@
       "onboard_time": 1749017421,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209884,
-      "num": 209884,
-      "word": "郎咸平批评孟羽童很短视",
-      "onboard_time": 1749188062,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209802,
@@ -6385,6 +6417,14 @@
       "onboard_time": 1749183802,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205864,
+      "num": 181751,
+      "word": "labubu牙套",
+      "onboard_time": 1749191061,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 205831,
@@ -6929,6 +6969,14 @@
       "onboard_time": 1749139341,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195392,
+      "num": 195392,
+      "word": "方可给迪丽热巴做的千禧发型",
+      "onboard_time": 1749191482,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 195160,
@@ -7507,6 +7555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184601,
+      "num": 184601,
+      "word": "张婧仪上初中肖战大二",
+      "onboard_time": 1749191661,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184524,
       "num": 184524,
       "word": "敖瑞鹏饰演一万三",
@@ -7761,6 +7817,14 @@
       "onboard_time": 1748872161,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180349,
+      "num": 180349,
+      "word": "吴宣仪刘宇合跳了风月",
+      "onboard_time": 1749190162,
+      "rank": 31,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 180138,
@@ -8027,6 +8091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174997,
+      "num": 177502,
+      "word": "李晟别怕你的陆来了",
+      "onboard_time": 1749189861,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174962,
       "num": 174962,
       "word": "肖战且待明晚见真章",
@@ -8105,6 +8177,14 @@
       "onboard_time": 1749093260,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173452,
+      "num": 173452,
+      "word": "孙颖莎获全国青联提名人选",
+      "onboard_time": 1749191421,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 173348,
@@ -8843,12 +8923,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161157,
+      "num": 161157,
+      "word": "亲属称希望韦东奕多接触外界",
+      "onboard_time": 1749190401,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161138,
       "num": 161138,
       "word": "仙逆",
       "onboard_time": 1748775200,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 160961,
+      "num": 160961,
+      "word": "特斯拉市值一夜蒸发超万亿",
+      "onboard_time": 1749191181,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 160771,
@@ -8961,6 +9057,14 @@
       "onboard_time": 1748791462,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159663,
+      "num": 159663,
+      "word": "樊振东说球迷是同频的又是幸运的",
+      "onboard_time": 1749191361,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 159499,
@@ -9169,6 +9273,14 @@
       "onboard_time": 1749126802,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155341,
+      "num": 155341,
+      "word": "人社局回应员工发烧请假遭HR辱骂",
+      "onboard_time": 1749189021,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155277,
@@ -9448,6 +9560,14 @@
       "word": "郑钦文法网对阵萨巴伦卡",
       "onboard_time": 1748834839,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151787,
+      "num": 151787,
+      "word": "贝克汉姆撕拉片",
+      "onboard_time": 1749188900,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -9764,7 +9884,7 @@
     },
     {
       "raw_hot": 147418,
-      "num": 147418,
+      "num": 1458056,
       "word": "我国卫星互联网低轨卫星发射成功",
       "onboard_time": 1749165499,
       "rank": 44,
@@ -10275,6 +10395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141880,
+      "num": 141880,
+      "word": "那英 花少出发前先上晚会",
+      "onboard_time": 1749189502,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141858,
       "num": 141858,
       "word": "大坑沙独游失联23岁女子已身亡",
@@ -10601,6 +10729,14 @@
       "onboard_time": 1749130642,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138146,
+      "num": 138146,
+      "word": "丁程鑫减肥减到113斤",
+      "onboard_time": 1749191722,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 138085,
@@ -11385,6 +11521,14 @@
       "onboard_time": 1748932761,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130022,
+      "num": 282927,
+      "word": "老人在精神病院被挖双眼涉事科室受处分",
+      "onboard_time": 1749191421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129999,
@@ -12697,6 +12841,14 @@
       "onboard_time": 1749028821,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114241,
+      "num": 160648,
+      "word": "国产九价HPV疫苗打破进口垄断",
+      "onboard_time": 1749190222,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114170,
@@ -16443,6 +16595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56082,
+      "num": 283243,
+      "word": "女性适量喝咖啡能延缓衰老吗",
+      "onboard_time": 1749190341,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55968,
       "num": 212557,
       "word": "高考前发热怎么办",
@@ -17347,6 +17507,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 41777,
+      "num": 238677,
+      "word": "冯骥才寄语高考生",
+      "onboard_time": 1749190761,
+      "rank": 24,
+      "category": "读书作家,教育"
+    },
+    {
       "raw_hot": 41692,
       "num": 384729,
       "word": "农户35亩田现6个尖锐铁器",
@@ -18235,6 +18403,14 @@
       "category": "海外新闻,旅游"
     },
     {
+      "raw_hot": 29810,
+      "num": 181801,
+      "word": "妈妈记录孩子最后一次穿高中校服",
+      "onboard_time": 1749191361,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29569,
       "num": 29569,
       "word": "无限超越班",
@@ -19099,6 +19275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 19763,
+      "num": 718094,
+      "word": "请收下这份穿越时空的高考祝福",
+      "onboard_time": 1749190461,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19735,
       "num": 406138,
       "word": "怎么识别毒蛇",
@@ -19837,6 +20021,9 @@
     },
     {
       "word": "#总书记两山理念的生动实践#"
+    },
+    {
+      "word": "#习近平同美国总统特朗普通电话#"
     }
   ]
 }
