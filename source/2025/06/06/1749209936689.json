@@ -1,0 +1,410 @@
+{
+  "runTime": 1749209936689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1008465,
+        "num": 1161354,
+        "word": "VOGUE红毯",
+        "onboard_time": 1749205041,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1122376,
+        "num": 1122376,
+        "word": "难看",
+        "onboard_time": 1749189142,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15784,
+        "num": 836034,
+        "word": "青春华章重走西北角",
+        "onboard_time": 1749200781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 789230,
+        "num": 789230,
+        "word": "韦神患有牙周炎已在治疗",
+        "onboard_time": 1749204082,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 675111,
+        "num": 675111,
+        "word": "客服自曝二次销售退货内衣内裤",
+        "onboard_time": 1749203902,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445177,
+        "num": 445177,
+        "word": "男子被毒蛇咬伤忍痛去抓又来一口",
+        "onboard_time": 1749202821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727850,
+        "num": 435457,
+        "word": "曹骏金发",
+        "onboard_time": 1749207741,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 678787,
+        "num": 423504,
+        "word": "宁艺卓国内首个红毯造型",
+        "onboard_time": 1749206420,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 553770,
+        "num": 413368,
+        "word": "种地吧麦田音乐会",
+        "onboard_time": 1749204920,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68180,
+        "num": 389004,
+        "word": "小尾花黑猪猪肝的小尾花黑是商标",
+        "onboard_time": 1749208521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 856776,
+        "num": 378802,
+        "word": "张婧仪美成啥样了",
+        "onboard_time": 1749201381,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 553094,
+        "num": 364187,
+        "word": "歌手2025",
+        "onboard_time": 1749208160,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506595,
+        "num": 350786,
+        "word": "陈乔恩全身针雕保养法引热议",
+        "onboard_time": 1749200540,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504225,
+        "num": 343072,
+        "word": "特朗普马斯克公开骂战",
+        "onboard_time": 1749166100,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104783,
+        "num": 328091,
+        "word": "官方回应3人吃烧烤花780元疑阴阳价",
+        "onboard_time": 1749209422,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488579,
+        "num": 309765,
+        "word": "樱桃琥珀",
+        "onboard_time": 1749208460,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461993,
+        "num": 301599,
+        "word": "原告EXO被告朴成训",
+        "onboard_time": 1749208581,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290580,
+        "num": 290580,
+        "word": "港科大已取录两位哈佛转校生",
+        "onboard_time": 1749203001,
+        "rank": 17,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 21470,
+        "num": 289108,
+        "word": "苏超初期热度峰值超淄博烧烤",
+        "onboard_time": 1749208281,
+        "rank": 18,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 232103,
+        "num": 288425,
+        "word": "医科大学生患癌去世遗体捐给母校",
+        "onboard_time": 1749209362,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 288333,
+        "num": 288333,
+        "word": "Labubu设计师曾失意30年",
+        "onboard_time": 1749195861,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282263,
+        "num": 282263,
+        "word": "巴黎世家推出15500元北京烤鸭包",
+        "onboard_time": 1749204381,
+        "rank": 21,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 274005,
+        "num": 274005,
+        "word": "宋茜绿裙高定",
+        "onboard_time": 1749208761,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256738,
+        "num": 256738,
+        "word": "周琦被驱逐",
+        "onboard_time": 1749206120,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260131,
+        "num": 249100,
+        "word": "酱园弄 明星大侦探",
+        "onboard_time": 1749200242,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239991,
+        "num": 239991,
+        "word": "基辅遭俄军大规模袭击",
+        "onboard_time": 1749200480,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19502,
+        "num": 238759,
+        "word": "还记得学生时代这些诗歌吗",
+        "onboard_time": 1749208160,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 237948,
+        "num": 237948,
+        "word": "高考时间",
+        "onboard_time": 1749183503,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215847,
+        "num": 215847,
+        "word": "长安的荔枝这质感拿什么输",
+        "onboard_time": 1749209181,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35910,
+        "num": 212610,
+        "word": "您的2025高考试卷在路上了",
+        "onboard_time": 1749208281,
+        "rank": 29,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 211284,
+        "num": 211284,
+        "word": "MRC对战FPXZQ",
+        "onboard_time": 1749209779,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206786,
+        "num": 206786,
+        "word": "白宇给金靖迪丽热巴另类加油方式",
+        "onboard_time": 1749209061,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202566,
+        "num": 202566,
+        "word": "临江仙开播",
+        "onboard_time": 1749183022,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196502,
+        "num": 196502,
+        "word": "宋亚轩上海LV活动路透",
+        "onboard_time": 1749209061,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 101027,
+        "num": 195717,
+        "word": "要求中小学整合功能相近的工作群",
+        "onboard_time": 1749209779,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195696,
+        "num": 195696,
+        "word": "明天高考",
+        "onboard_time": 1749183442,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177767,
+        "num": 177767,
+        "word": "两世仇村百余年互不往来不通婚",
+        "onboard_time": 1749201921,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174421,
+        "num": 174421,
+        "word": "白鹿弥补了仙侠没有七分裤的遗憾",
+        "onboard_time": 1749196761,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165872,
+        "num": 165872,
+        "word": "女子把85万扔在了坟头草丛垃圾桶",
+        "onboard_time": 1749200121,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155935,
+        "num": 155935,
+        "word": "labubu牙套",
+        "onboard_time": 1749191061,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 150325,
+        "num": 150325,
+        "word": "宋茜网球风造型",
+        "onboard_time": 1749207741,
+        "rank": 40,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 143760,
+        "num": 143760,
+        "word": "成都一小区入口形似景区检票处",
+        "onboard_time": 1749208100,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142097,
+        "num": 142097,
+        "word": "章若楠海边白裙",
+        "onboard_time": 1749202162,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140355,
+        "num": 140355,
+        "word": "邓萃雯把李佳航塞给李晟",
+        "onboard_time": 1749202401,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135741,
+        "num": 135741,
+        "word": "第五人格赛事",
+        "onboard_time": 1749199399,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134566,
+        "num": 134566,
+        "word": "马柏全金发美少年",
+        "onboard_time": 1749209242,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128330,
+        "num": 128330,
+        "word": "藏海传好看的含金量还在上升",
+        "onboard_time": 1749209902,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124177,
+        "num": 124177,
+        "word": "王蓉浪姐直播唱跳还是太权威了",
+        "onboard_time": 1749209842,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119768,
+        "num": 119768,
+        "word": "苏州队被贝克汉姆开过光了",
+        "onboard_time": 1749208821,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64010,
+        "num": 118790,
+        "word": "2000元档位手机怎么选",
+        "onboard_time": 1749208160,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受班禅额尔德尼确吉杰布拜见#"
+    }
+  }
+}
