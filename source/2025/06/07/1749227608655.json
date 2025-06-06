@@ -1,0 +1,410 @@
+{
+  "runTime": 1749227608655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2010386,
+        "num": 2010386,
+        "word": "第一名掉准考证的学生出现了",
+        "onboard_time": 1749223463,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1859121,
+        "num": 1859121,
+        "word": "单依纯疯了",
+        "onboard_time": 1749217108,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30985,
+        "num": 652919,
+        "word": "六六给荔节",
+        "onboard_time": 1749222803,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442129,
+        "num": 442129,
+        "word": "马斯克突然改口",
+        "onboard_time": 1749222205,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260451,
+        "num": 260451,
+        "word": "俄大规模轰炸乌克兰军工企业",
+        "onboard_time": 1749224423,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224506,
+        "num": 224506,
+        "word": "警方回应老人捡手机索要1600才肯还",
+        "onboard_time": 1749225202,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1051856,
+        "num": 216619,
+        "word": "单依纯疑似报复李荣浩当年没转身",
+        "onboard_time": 1749224962,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 865895,
+        "num": 215604,
+        "word": "歌手排名",
+        "onboard_time": 1749218487,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 848661,
+        "num": 201739,
+        "word": "范玮琪暴哭",
+        "onboard_time": 1749220886,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622859,
+        "num": 195877,
+        "word": "难听",
+        "onboard_time": 1749215129,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 683840,
+        "num": 186310,
+        "word": "马嘉祺粉底液",
+        "onboard_time": 1749219025,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465642,
+        "num": 180786,
+        "word": "浙江女子牙疼切开脓肿发现20多种细菌",
+        "onboard_time": 1749222325,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176019,
+        "num": 176019,
+        "word": "老人捡到手机索要1600元才肯归还",
+        "onboard_time": 1749220046,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353452,
+        "num": 175764,
+        "word": "范玮琪回应破音",
+        "onboard_time": 1749226702,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175359,
+        "num": 175359,
+        "word": "浙江考两次高考",
+        "onboard_time": 1749218367,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 293432,
+        "num": 175063,
+        "word": "马嘉祺咬字",
+        "onboard_time": 1749216386,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272983,
+        "num": 174946,
+        "word": "GAI 大白嗓",
+        "onboard_time": 1749213863,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169429,
+        "num": 169429,
+        "word": "特朗普说现在不太想和马斯克说话",
+        "onboard_time": 1749223224,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132696,
+        "num": 132696,
+        "word": "不到铃响不要泄气",
+        "onboard_time": 1749226042,
+        "rank": 18,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 128917,
+        "num": 128917,
+        "word": "巴黎世家推出15500元北京烤鸭包",
+        "onboard_time": 1749204381,
+        "rank": 19,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 238463,
+        "num": 128499,
+        "word": "陈楚生 好听",
+        "onboard_time": 1749212722,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226422,
+        "num": 128263,
+        "word": "断眉跑哪去了",
+        "onboard_time": 1749214404,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206195,
+        "num": 127244,
+        "word": "这居然是牛骏峰",
+        "onboard_time": 1749222744,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194703,
+        "num": 127069,
+        "word": "刘宇宁上海演唱会获批",
+        "onboard_time": 1749226342,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126597,
+        "num": 126597,
+        "word": "心疼清融",
+        "onboard_time": 1749221184,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184191,
+        "num": 126558,
+        "word": "歌手直播",
+        "onboard_time": 1749210263,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182208,
+        "num": 126495,
+        "word": "歌手揭榜",
+        "onboard_time": 1749226222,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163895,
+        "num": 126457,
+        "word": "金晨也是第一次走沙毯",
+        "onboard_time": 1749222744,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126393,
+        "num": 126393,
+        "word": "橙光崩了",
+        "onboard_time": 1749223284,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118524,
+        "num": 118524,
+        "word": "俄罗斯对乌全境实施打击",
+        "onboard_time": 1749216627,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163808,
+        "num": 118014,
+        "word": "市监局回应黄杨钿甜爸爸连夜退股",
+        "onboard_time": 1749219625,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159099,
+        "num": 116140,
+        "word": "VOGUE晚宴",
+        "onboard_time": 1749221606,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155203,
+        "num": 115659,
+        "word": "虞书欣丁禹兮宣传黄晓明潜渊",
+        "onboard_time": 1749224065,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139224,
+        "num": 114163,
+        "word": "耳帝",
+        "onboard_time": 1749221364,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113177,
+        "num": 113177,
+        "word": "绝意尽力了",
+        "onboard_time": 1749224184,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129301,
+        "num": 111825,
+        "word": "李荣浩连续10年高考发8字祝福",
+        "onboard_time": 1749223823,
+        "rank": 35,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 118435,
+        "num": 110255,
+        "word": "黄景瑜舔个嘴唇我要吓晕了",
+        "onboard_time": 1749222744,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108055,
+        "num": 108055,
+        "word": "高考时间",
+        "onboard_time": 1749183503,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101090,
+        "num": 101090,
+        "word": "00后没毕业就创业种地年赚超20万",
+        "onboard_time": 1749223764,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33926,
+        "num": 99079,
+        "word": "日本北海道附近海域连发强震",
+        "onboard_time": 1749220705,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118125,
+        "num": 99070,
+        "word": "种地吧麦田音乐会",
+        "onboard_time": 1749204920,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101985,
+        "num": 99008,
+        "word": "如何呢 又能怎",
+        "onboard_time": 1749217349,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98938,
+        "num": 98938,
+        "word": "卫兰请留下",
+        "onboard_time": 1749217050,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94654,
+        "num": 94654,
+        "word": "JDG对战TTG",
+        "onboard_time": 1749215787,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94316,
+        "num": 94316,
+        "word": "宁艺卓国内首个红毯造型",
+        "onboard_time": 1749206420,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 89609,
+        "num": 89609,
+        "word": "宋茜红毯踢裙摆这一下泰美辣",
+        "onboard_time": 1749224124,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 86300,
+        "num": 86300,
+        "word": "高考前夕班主任上的最后一课",
+        "onboard_time": 1749226582,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 85767,
+        "num": 85767,
+        "word": "丞磊一本正经的幽默",
+        "onboard_time": 1749227541,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75967,
+        "num": 85611,
+        "word": "枯萎之花上的眼泪",
+        "onboard_time": 1749225683,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 75007,
+        "num": 85559,
+        "word": "宁泽涛穿深V正得发邪",
+        "onboard_time": 1749222624,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受班禅额尔德尼确吉杰布拜见#"
+    }
+  }
+}
