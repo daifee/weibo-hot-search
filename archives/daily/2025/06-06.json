@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749205758065,
+  "endTime": 1749206822295,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 959623,
-      "num": 959623,
+      "num": 1115508,
       "word": "Labubu设计师曾失意30年",
       "onboard_time": 1749195861,
       "rank": 3,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 780130,
+      "num": 780130,
+      "word": "VOGUE红毯",
+      "onboard_time": 1749205041,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 772050,
       "num": 772050,
       "word": "光与夜之恋",
@@ -201,6 +209,14 @@
       "onboard_time": 1749177739,
       "rank": 4,
       "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 700886,
+      "num": 410465,
+      "word": "韦神患有牙周炎已在治疗",
+      "onboard_time": 1749204082,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 696332,
@@ -507,20 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 410465,
-      "num": 410465,
-      "word": "韦神患有牙周炎已在治疗",
-      "onboard_time": 1749204082,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 410441,
       "num": 410441,
       "word": "基辅遭俄军大规模袭击",
       "onboard_time": 1749200480,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 398277,
+      "num": 454097,
+      "word": "客服自曝二次销售退货内衣内裤",
+      "onboard_time": 1749203902,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 396550,
@@ -667,12 +683,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 313214,
+      "num": 313214,
+      "word": "宁艺卓国内首个红毯造型",
+      "onboard_time": 1749206420,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 311247,
       "num": 311247,
       "word": "黄子韬这一巴掌",
       "onboard_time": 1749179120,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307500,
+      "num": 307500,
+      "word": "男子被毒蛇咬伤忍痛去抓又来一口",
+      "onboard_time": 1749202821,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305245,
@@ -787,28 +819,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271248,
-      "num": 454097,
-      "word": "客服自曝二次销售退货内衣内裤",
-      "onboard_time": 1749203902,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268044,
       "num": 268044,
       "word": "陆沉六尺之下",
       "onboard_time": 1749178580,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 265319,
-      "num": 265319,
-      "word": "男子被毒蛇咬伤忍痛去抓又来一口",
-      "onboard_time": 1749202821,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259778,
@@ -835,6 +851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252793,
+      "num": 296721,
+      "word": "泰山学院50多名学生设计作品涉抄袭",
+      "onboard_time": 1749202942,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252250,
       "num": 252250,
       "word": "医生建议减肥期间不要吃圣女果",
@@ -859,20 +883,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 242090,
-      "num": 242090,
-      "word": "VOGUE红毯",
-      "onboard_time": 1749205041,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 241763,
       "num": 241763,
       "word": "女子被咬身亡3个问题待解",
       "onboard_time": 1749200001,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239693,
+      "num": 239693,
+      "word": "周琦被驱逐",
+      "onboard_time": 1749206120,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 235755,
@@ -1179,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198946,
-      "num": 296721,
-      "word": "泰山学院50多名学生设计作品涉抄袭",
-      "onboard_time": 1749202942,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198430,
       "num": 198430,
       "word": "马斯克称即刻退役龙飞船",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1749166940,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188144,
+      "num": 188144,
+      "word": "房琪有自己的人生舞台了",
+      "onboard_time": 1749205880,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 187162,
@@ -1568,6 +1592,14 @@
       "word": "迪丽热巴高空速降",
       "onboard_time": 1749193161,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157699,
+      "num": 157699,
+      "word": "我老了也要像唐国强这样捣乱",
+      "onboard_time": 1749206181,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1809,6 +1841,14 @@
       "onboard_time": 1749137481,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 140499,
+      "num": 140499,
+      "word": "第五人格前瞻直播",
+      "onboard_time": 1749206240,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 140350,
@@ -2075,6 +2115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119992,
+      "num": 119992,
+      "word": "港科大已取录两位哈佛转校生",
+      "onboard_time": 1749203001,
+      "rank": 49,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 119977,
       "num": 119977,
       "word": "高考加油",
@@ -2115,12 +2163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117362,
-      "num": 117362,
-      "word": "港科大已取录两位哈佛转校生",
-      "onboard_time": 1749203001,
-      "rank": 49,
-      "category": "教育,民生新闻"
+      "raw_hot": 118766,
+      "num": 118766,
+      "word": "迪丽热巴和张凌赫搭戏氛围感",
+      "onboard_time": 1749205821,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 117286,
@@ -2460,7 +2508,7 @@
     },
     {
       "raw_hot": 81509,
-      "num": 303170,
+      "num": 313733,
       "word": "王一博的机油风穿搭怎么模仿",
       "onboard_time": 1749203363,
       "rank": 17,
@@ -2561,6 +2609,14 @@
       "onboard_time": 1749174500,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70976,
+      "num": 316028,
+      "word": "王嘉尔恨爱",
+      "onboard_time": 1749206061,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 70074,
@@ -2772,7 +2828,7 @@
     },
     {
       "raw_hot": 48450,
-      "num": 144873,
+      "num": 186124,
       "word": "句号MVP",
       "onboard_time": 1749205580,
       "rank": 39,
@@ -2785,6 +2841,14 @@
       "onboard_time": 1749143116,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44936,
+      "num": 233836,
+      "word": "99个火车站车票起售时间点调整",
+      "onboard_time": 1749206661,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44931,
@@ -3019,6 +3083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23633,
+      "num": 240817,
+      "word": "山西人有自己的华夫饼",
+      "onboard_time": 1749205880,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21848,
       "num": 202991,
       "word": "燕云十六声",
@@ -3036,7 +3108,7 @@
     },
     {
       "raw_hot": 21012,
-      "num": 763308,
+      "num": 813670,
       "word": "青春华章重走西北角",
       "onboard_time": 1749200781,
       "rank": 2,
@@ -3065,6 +3137,14 @@
       "onboard_time": 1749199942,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 17964,
+      "num": 240177,
+      "word": "高三男生晚自习课间秀花式扣篮",
+      "onboard_time": 1749205700,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17604,
@@ -3107,8 +3187,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12031,
-      "num": 301413,
+      "raw_hot": 13811,
+      "num": 313216,
+      "word": "朱广权贯口高考祝福来了",
+      "onboard_time": 1749206240,
+      "rank": 19,
+      "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 13774,
+      "num": 313353,
       "word": "感情丰富的白羊座适合做伴侣吗",
       "onboard_time": 1749204741,
       "rank": 18,
@@ -3131,12 +3219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11161,
-      "num": 146515,
-      "word": "高三男生晚自习课间秀花式扣篮",
-      "onboard_time": 1749205700,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 11193,
+      "num": 241961,
+      "word": "来自故宫文物的高考祝福",
+      "onboard_time": 1749206481,
+      "rank": 27,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 10650,
