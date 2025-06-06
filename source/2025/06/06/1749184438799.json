@@ -1,0 +1,410 @@
+{
+  "runTime": 1749184438799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1266900,
+        "num": 1266900,
+        "word": "活鸭20元一斤烤鸭为何20多元一只",
+        "onboard_time": 1749177800,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1003671,
+        "num": 1003671,
+        "word": "黄子韬怒斥学员不配做餐饮",
+        "onboard_time": 1749181523,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9449,
+        "num": 938999,
+        "word": "有一种震撼叫祖国山河如画",
+        "onboard_time": 1749102078,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1804194,
+        "num": 937863,
+        "word": "爱泼斯坦",
+        "onboard_time": 1749170062,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 934450,
+        "num": 934450,
+        "word": "印度医生被强奸犯家属绑在树上殴打",
+        "onboard_time": 1749166159,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 794056,
+        "num": 794056,
+        "word": "当迪拜人买了labubu",
+        "onboard_time": 1749181342,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 765836,
+        "num": 765836,
+        "word": "临江仙开播",
+        "onboard_time": 1749183022,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 674480,
+        "num": 674480,
+        "word": "马斯克表示愿意和特朗普和解",
+        "onboard_time": 1749179902,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93231,
+        "num": 590124,
+        "word": "哈佛国际学生禁令被阻止",
+        "onboard_time": 1749182722,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233871,
+        "num": 551365,
+        "word": "被咬身亡女子家属称已有死亡诊断",
+        "onboard_time": 1749183022,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1017130,
+        "num": 549811,
+        "word": "特朗普马斯克公开骂战",
+        "onboard_time": 1749166100,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 547112,
+        "num": 547112,
+        "word": "种地吧麦田音乐会导览直播",
+        "onboard_time": 1749183861,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512494,
+        "num": 512494,
+        "word": "酱园弄预告赵丽颖戏份",
+        "onboard_time": 1749181523,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 491092,
+        "num": 491092,
+        "word": "明天高考",
+        "onboard_time": 1749183442,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132809,
+        "num": 454898,
+        "word": "苏超为啥爆了",
+        "onboard_time": 1749181161,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436609,
+        "num": 436609,
+        "word": "高考时间",
+        "onboard_time": 1749183503,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 432771,
+        "num": 432771,
+        "word": "乘风直播",
+        "onboard_time": 1749184043,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431627,
+        "num": 431627,
+        "word": "哈利伯顿绝杀",
+        "onboard_time": 1749179782,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192814,
+        "num": 415156,
+        "word": "王传君演章子怡丈夫",
+        "onboard_time": 1749182781,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87842,
+        "num": 414521,
+        "word": "觉得labubu好看的是哪些人",
+        "onboard_time": 1749183081,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 414513,
+        "num": 414513,
+        "word": "1335万人明天高考",
+        "onboard_time": 1749165860,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 357270,
+        "num": 357270,
+        "word": "孟子义穿了周也姐姐设计的衣服",
+        "onboard_time": 1749175641,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330391,
+        "num": 330391,
+        "word": "白鹿曾舜晞离婚礼邀请函",
+        "onboard_time": 1749179722,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327358,
+        "num": 327358,
+        "word": "徐艺洋的英文是节目前一个星期学的",
+        "onboard_time": 1749183382,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279505,
+        "num": 279505,
+        "word": "家有儿女姥姥的含金量还在上升",
+        "onboard_time": 1749177739,
+        "rank": 24,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 212837,
+        "num": 274650,
+        "word": "蒯曼出席自家乒乓俱乐部开幕仪式",
+        "onboard_time": 1749182061,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274321,
+        "num": 274321,
+        "word": "樊振东再谈东京奥运失利",
+        "onboard_time": 1749176660,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247520,
+        "num": 247520,
+        "word": "新娘说馒头上太早导致宾客提前离场",
+        "onboard_time": 1749183982,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50146,
+        "num": 238983,
+        "word": "特朗普与马斯克的矛盾核心",
+        "onboard_time": 1749184282,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159454,
+        "num": 238439,
+        "word": "朴成训芭蕾舞版1999",
+        "onboard_time": 1749183261,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238050,
+        "num": 238050,
+        "word": "马斯克转发特朗普爱泼斯坦聚会视频",
+        "onboard_time": 1749173780,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233493,
+        "num": 233493,
+        "word": "藏海传IMDb评分一度破9.5",
+        "onboard_time": 1749170541,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221836,
+        "num": 221836,
+        "word": "临江仙包场",
+        "onboard_time": 1749182182,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221832,
+        "num": 221832,
+        "word": "黄子韬这一巴掌",
+        "onboard_time": 1749179120,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220754,
+        "num": 220754,
+        "word": "易烊千玺赵丽颖杨幂酱园弄台词",
+        "onboard_time": 1749183861,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218296,
+        "num": 218296,
+        "word": "光与夜之恋",
+        "onboard_time": 1749165319,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215675,
+        "num": 215675,
+        "word": "24岁女子新婚俩月丈夫离世",
+        "onboard_time": 1749171680,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213648,
+        "num": 213648,
+        "word": "特朗普对马斯克非常失望",
+        "onboard_time": 1749165860,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205955,
+        "num": 205955,
+        "word": "从小在女生宿舍长大的男孩",
+        "onboard_time": 1749183802,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21848,
+        "num": 202991,
+        "word": "燕云十六声",
+        "onboard_time": 1749183922,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202967,
+        "num": 202967,
+        "word": "蔡徐坤回国",
+        "onboard_time": 1749184282,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183885,
+        "num": 183885,
+        "word": "王自如谈工资条",
+        "onboard_time": 1749181041,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173824,
+        "num": 173824,
+        "word": "陆沉鳏夫味",
+        "onboard_time": 1749181221,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172898,
+        "num": 172898,
+        "word": "章子怡回复杨幂",
+        "onboard_time": 1749139460,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171489,
+        "num": 171489,
+        "word": "王源手把手教王赫野饭撒",
+        "onboard_time": 1749183142,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152955,
+        "num": 152955,
+        "word": "员工发烧37.9度请假遭HR辱骂",
+        "onboard_time": 1749184343,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149827,
+        "num": 149827,
+        "word": "马斯克净资产一夜缩水270亿美元",
+        "onboard_time": 1749175581,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148124,
+        "num": 148124,
+        "word": "柯南剧场版",
+        "onboard_time": 1749184401,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147699,
+        "num": 147699,
+        "word": "雷霆领先一整晚天亮了输了",
+        "onboard_time": 1749184401,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146625,
+        "num": 146625,
+        "word": "哈利伯顿 哈利波特",
+        "onboard_time": 1749182781,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两山理念的生动实践#"
+    }
+  }
+}
