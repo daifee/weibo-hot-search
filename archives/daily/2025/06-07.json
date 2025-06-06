@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749231757318,
+  "endTime": 1749234965696,
   "band_list": [
     {
       "raw_hot": 2010386,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 622859,
-      "num": 204595,
+      "num": 208375,
       "word": "难听",
       "onboard_time": 1749215129,
       "rank": 9,
@@ -387,6 +387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 78777,
+      "num": 58137,
+      "word": "缺爱的人为什么很难进入亲密关系",
+      "onboard_time": 1749231257,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76476,
       "num": 76476,
       "word": "GAI是不是想走了",
@@ -409,14 +417,6 @@
       "onboard_time": 1749229939,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 72873,
-      "num": 58137,
-      "word": "缺爱的人为什么很难进入亲密关系",
-      "onboard_time": 1749231257,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 72753,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35160,
+      "num": 35160,
+      "word": "易梦玲格纹比基尼",
+      "onboard_time": 1749232455,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33371,
       "num": 64321,
       "word": "翻出了5年前20届高考的前一天",
@@ -499,12 +507,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26328,
+      "num": 30770,
+      "word": "我本是辅助今晚来打野",
+      "onboard_time": 1749234915,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24803,
+      "num": 30764,
+      "word": "怀念高考",
+      "onboard_time": 1749234915,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 24485,
+      "num": 30762,
+      "word": "高考好运玄学",
+      "onboard_time": 1749233656,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 19022,
       "num": 60511,
       "word": "一人一张高考祝福",
       "onboard_time": 1749228678,
       "rank": 49,
       "category": "动漫,教育"
+    },
+    {
+      "raw_hot": 11309,
+      "num": 45056,
+      "word": "张桂梅的学生说这身军装我不脱",
+      "onboard_time": 1749234435,
+      "rank": 24,
+      "category": "教育"
     }
   ],
   "hotgov_list": [
