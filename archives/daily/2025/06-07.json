@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749234965696,
+  "endTime": 1749235794868,
   "band_list": [
     {
       "raw_hot": 2010386,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 622859,
-      "num": 208375,
+      "num": 227515,
       "word": "难听",
       "onboard_time": 1749215129,
       "rank": 9,
@@ -507,20 +507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32106,
+      "num": 32106,
+      "word": "怀念高考",
+      "onboard_time": 1749234915,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 26328,
       "num": 30770,
       "word": "我本是辅助今晚来打野",
       "onboard_time": 1749234915,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24803,
-      "num": 30764,
-      "word": "怀念高考",
-      "onboard_time": 1749234915,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 24485,
@@ -531,6 +531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 20415,
+      "num": 29163,
+      "word": "比赛第一 友谊第十四",
+      "onboard_time": 1749233297,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19022,
       "num": 60511,
       "word": "一人一张高考祝福",
@@ -539,7 +547,15 @@
       "category": "动漫,教育"
     },
     {
-      "raw_hot": 11309,
+      "raw_hot": 14908,
+      "num": 59885,
+      "word": "贝克汉姆用苏州话给苏州加油",
+      "onboard_time": 1749235036,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11612,
       "num": 45056,
       "word": "张桂梅的学生说这身军装我不脱",
       "onboard_time": 1749234435,
