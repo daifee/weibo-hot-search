@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749187617104,
+  "endTime": 1749188769837,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1310016,
+      "num": 1310016,
+      "word": "员工发烧37.9度请假遭HR辱骂",
+      "onboard_time": 1749184343,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1309842,
       "num": 1309842,
       "word": "藏海传第三人",
@@ -520,6 +528,14 @@
       "word": "当事人谈被血友病小孩鬼探头索赔47万",
       "onboard_time": 1749006499,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1237189,
+      "num": 1237189,
+      "word": "新娘说馒头上太早导致宾客提前离场",
+      "onboard_time": 1749183982,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -721,14 +737,6 @@
       "onboard_time": 1748951362,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1027486,
-      "num": 1164397,
-      "word": "新娘说馒头上太早导致宾客提前离场",
-      "onboard_time": 1749183982,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1027280,
@@ -1177,14 +1185,6 @@
       "onboard_time": 1749078557,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 780955,
-      "num": 780955,
-      "word": "员工发烧37.9度请假遭HR辱骂",
-      "onboard_time": 1749184343,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 774569,
@@ -2123,6 +2123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 533525,
+      "num": 533525,
+      "word": "新还珠格格",
+      "onboard_time": 1749187641,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531499,
       "num": 531499,
       "word": "女足迪丽热巴杀青",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1749169401,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 507361,
+      "num": 429413,
+      "word": "瘦了140斤",
+      "onboard_time": 1749185422,
+      "rank": 23,
+      "category": "休闲"
     },
     {
       "raw_hot": 504656,
@@ -2723,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445986,
+      "num": 445986,
+      "word": "浪姐 没苦硬吃",
+      "onboard_time": 1749187941,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441469,
       "num": 441469,
       "word": "老师因学生错过清华惋惜落泪",
@@ -2825,14 +2849,6 @@
       "onboard_time": 1749036380,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 429413,
-      "num": 429413,
-      "word": "瘦了140斤",
-      "onboard_time": 1749185422,
-      "rank": 23,
-      "category": "休闲"
     },
     {
       "raw_hot": 428853,
@@ -3425,6 +3441,14 @@
       "onboard_time": 1749001160,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362665,
+      "num": 362665,
+      "word": "韦神",
+      "onboard_time": 1749187461,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 361591,
@@ -4483,6 +4507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283066,
+      "num": 393946,
+      "word": "浪姐 简陋",
+      "onboard_time": 1749188121,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281886,
       "num": 352317,
       "word": "高考加油",
@@ -4849,6 +4881,14 @@
       "onboard_time": 1748756900,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259778,
+      "num": 457707,
+      "word": "原来婚宴上菜顺序这么多学问",
+      "onboard_time": 1749186141,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259464,
@@ -5547,14 +5587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226867,
-      "num": 226867,
-      "word": "原来婚宴上菜顺序这么多学问",
-      "onboard_time": 1749186141,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226374,
       "num": 226374,
       "word": "王安宇挤不进的圈子别硬融",
@@ -5705,6 +5737,14 @@
       "onboard_time": 1748780001,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 222579,
+      "num": 222579,
+      "word": "张新成演技",
+      "onboard_time": 1749187941,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 222423,
@@ -6131,6 +6171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209884,
+      "num": 209884,
+      "word": "郎咸平批评孟羽童很短视",
+      "onboard_time": 1749188062,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209802,
       "num": 209802,
       "word": "反黄牛后Switch2价格不到4千",
@@ -6209,6 +6257,14 @@
       "onboard_time": 1749032180,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 208498,
+      "num": 208498,
+      "word": "卢昱晓QQ秀",
+      "onboard_time": 1749188482,
+      "rank": 35,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 208373,
@@ -7755,6 +7811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179274,
+      "num": 179274,
+      "word": "时代少年团 时尚芭莎",
+      "onboard_time": 1749188482,
+      "rank": 41,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 179148,
       "num": 197244,
       "word": "严浩翔回应diss变kiss",
@@ -8377,14 +8441,6 @@
       "onboard_time": 1748932220,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167781,
-      "num": 167781,
-      "word": "韦神",
-      "onboard_time": 1749187461,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 167654,
@@ -9619,6 +9675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148570,
+      "num": 558066,
+      "word": "京东上架多款稀缺labubu",
+      "onboard_time": 1749185362,
+      "rank": 17,
+      "category": "互联网,动漫"
+    },
+    {
       "raw_hot": 148396,
       "num": 148396,
       "word": "王珞丹两天穿搭判若两丹",
@@ -10019,6 +10083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143793,
+      "num": 143793,
+      "word": "北大韦神开账号了",
+      "onboard_time": 1749188541,
+      "rank": 48,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 143717,
       "num": 143717,
       "word": "孟子义请曾舜晞九门剧组喝饮料",
@@ -10049,6 +10121,14 @@
       "onboard_time": 1748938942,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143299,
+      "num": 143299,
+      "word": "时代少年团满眼都是搂席的欲望",
+      "onboard_time": 1749187701,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 143068,
@@ -11579,6 +11659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 125887,
+      "num": 182937,
+      "word": "乘风助力",
+      "onboard_time": 1749188482,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125877,
       "num": 125877,
       "word": "刘耀文晒自拍",
@@ -11897,14 +11985,6 @@
       "onboard_time": 1749113120,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122068,
-      "num": 558066,
-      "word": "京东上架多款稀缺labubu",
-      "onboard_time": 1749185362,
-      "rank": 17,
-      "category": "互联网,动漫"
     },
     {
       "raw_hot": 122015,
@@ -15211,6 +15291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 79835,
+      "num": 603306,
+      "word": "白鹿开口即破音",
+      "onboard_time": 1749186621,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79796,
       "num": 189577,
       "word": "今年高考十问十答",
@@ -15681,14 +15769,6 @@
       "onboard_time": 1749121399,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70992,
-      "num": 603306,
-      "word": "白鹿开口即破音",
-      "onboard_time": 1749186621,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 70907,
@@ -17307,6 +17387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 41343,
+      "num": 391512,
+      "word": "女童被虐致死案生父不认故意伤害",
+      "onboard_time": 1749187941,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41309,
       "num": 1154910,
       "word": "端午假期旅游市场呈现哪些新亮点",
@@ -17777,6 +17865,14 @@
       "onboard_time": 1749185482,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34898,
+      "num": 217158,
+      "word": "高考生快来吸哈利伯顿的欧气",
+      "onboard_time": 1749188603,
+      "rank": 32,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 34251,
@@ -18345,6 +18441,14 @@
       "onboard_time": 1748742741,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27784,
+      "num": 182572,
+      "word": "孔子李白祖冲之徐霞客为高考加油",
+      "onboard_time": 1749188121,
+      "rank": 39,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 27763,
@@ -19465,6 +19569,14 @@
       "onboard_time": 1748724253,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11562,
+      "num": 390446,
+      "word": "上班族手腕酸痛怎么缓解",
+      "onboard_time": 1749187882,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11497,
