@@ -1,0 +1,410 @@
+{
+  "runTime": 1749217737477,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10666191,
+        "num": 10666191,
+        "word": "王者荣耀给单依纯打钱",
+        "onboard_time": 1749216084,
+        "rank": 0,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 6017905,
+        "num": 6017905,
+        "word": "范玮琪声音好抖",
+        "onboard_time": 1749214224,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24194,
+        "num": 3210596,
+        "word": "天问二号发回太空旅行打卡照",
+        "onboard_time": 1749185062,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657300,
+        "num": 657300,
+        "word": "警方通报武汉大学伤人事件",
+        "onboard_time": 1749210081,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 388176,
+        "num": 388176,
+        "word": "热地同志逝世",
+        "onboard_time": 1749213141,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328396,
+        "num": 328396,
+        "word": "巴黎世家推出15500元北京烤鸭包",
+        "onboard_time": 1749204381,
+        "rank": 5,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 3720914,
+        "num": 327511,
+        "word": "难听",
+        "onboard_time": 1749215129,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3531514,
+        "num": 326817,
+        "word": "马嘉祺咬字",
+        "onboard_time": 1749216386,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134696,
+        "num": 324582,
+        "word": "范丞丞很平均的交情",
+        "onboard_time": 1749216567,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243827,
+        "num": 322820,
+        "word": "俄罗斯对乌全境实施打击",
+        "onboard_time": 1749216627,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2968440,
+        "num": 321899,
+        "word": "单依纯疯了",
+        "onboard_time": 1749217108,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2367880,
+        "num": 319175,
+        "word": "歌手直播",
+        "onboard_time": 1749210263,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1330136,
+        "num": 318321,
+        "word": "卫兰请留下",
+        "onboard_time": 1749217050,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398399,
+        "num": 317192,
+        "word": "特朗普马斯克公开骂战",
+        "onboard_time": 1749166100,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56784,
+        "num": 314889,
+        "word": "3岁女童被虐致死案二审择期宣判",
+        "onboard_time": 1749216207,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78882,
+        "num": 312884,
+        "word": "那些离谱但有用的高考应援",
+        "onboard_time": 1749216026,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261686,
+        "num": 311184,
+        "word": "谁懂卫兰歌手唱大哥",
+        "onboard_time": 1749211462,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311085,
+        "num": 311085,
+        "word": "JDG对战TTG",
+        "onboard_time": 1749215787,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84644,
+        "num": 310990,
+        "word": "官方称乐高乐园酒店明码标价合规",
+        "onboard_time": 1749215966,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 44747,
+        "num": 310332,
+        "word": "生理性飞蚊症要看医生吗",
+        "onboard_time": 1749216686,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1080019,
+        "num": 309218,
+        "word": "陈楚生 好听",
+        "onboard_time": 1749212722,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 708779,
+        "num": 308524,
+        "word": "GAI是不是想走了",
+        "onboard_time": 1749213322,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506989,
+        "num": 308377,
+        "word": "黄明昊谁教你在淘宝上买这些的",
+        "onboard_time": 1749214104,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 688885,
+        "num": 307208,
+        "word": "断眉跑哪去了",
+        "onboard_time": 1749214404,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68500,
+        "num": 306609,
+        "word": "辛纳官宣出战中国网球公开赛",
+        "onboard_time": 1749215368,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113611,
+        "num": 306390,
+        "word": "17岁女孩代孕涉事公司被罚25万",
+        "onboard_time": 1749215906,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 471399,
+        "num": 305728,
+        "word": "种地吧麦田音乐会",
+        "onboard_time": 1749204920,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25413,
+        "num": 304475,
+        "word": "湖南砖厂被救智障人员部分找到家属",
+        "onboard_time": 1749217468,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 71251,
+        "num": 304136,
+        "word": "男子心梗术后吸烟不听劝再次心梗",
+        "onboard_time": 1749216084,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34204,
+        "num": 303584,
+        "word": "家门口遇害案母亲靠三千月薪打官司",
+        "onboard_time": 1749217409,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410452,
+        "num": 302967,
+        "word": "GAI 大白嗓",
+        "onboard_time": 1749213863,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56052,
+        "num": 301857,
+        "word": "医生不建议高考当天吃药干预月经",
+        "onboard_time": 1749217645,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 39717,
+        "num": 301436,
+        "word": "带病害的假种薯使农民损失超200万",
+        "onboard_time": 1749215846,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328103,
+        "num": 300823,
+        "word": "范玮琪破音",
+        "onboard_time": 1749215668,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300382,
+        "num": 300382,
+        "word": "如何呢 又能怎",
+        "onboard_time": 1749217349,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280535,
+        "num": 280535,
+        "word": "宁艺卓国内首个红毯造型",
+        "onboard_time": 1749206420,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 244878,
+        "num": 244878,
+        "word": "难看",
+        "onboard_time": 1749189142,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237039,
+        "num": 237039,
+        "word": "歌手顺序",
+        "onboard_time": 1749211581,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225347,
+        "num": 225347,
+        "word": "肯德基原神联动",
+        "onboard_time": 1749215487,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49245,
+        "num": 224798,
+        "word": "中网成亚洲首个三周网球赛",
+        "onboard_time": 1749217706,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224473,
+        "num": 224473,
+        "word": "宁艺卓完全是刚上岸的美人鱼",
+        "onboard_time": 1749216627,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221015,
+        "num": 221015,
+        "word": "原告EXO被告朴成训",
+        "onboard_time": 1749208581,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215809,
+        "num": 215809,
+        "word": "樱桃琥珀",
+        "onboard_time": 1749208460,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215628,
+        "num": 215628,
+        "word": "歌手2025第四期歌单官宣",
+        "onboard_time": 1749189741,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206099,
+        "num": 206099,
+        "word": "高考时间",
+        "onboard_time": 1749183503,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198152,
+        "num": 198152,
+        "word": "武磊苏超首秀需过淘汰赛门槛",
+        "onboard_time": 1749216567,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169104,
+        "num": 169104,
+        "word": "原神海卡联动",
+        "onboard_time": 1749215728,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166526,
+        "num": 166526,
+        "word": "原神",
+        "onboard_time": 1749211521,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161951,
+        "num": 161951,
+        "word": "明天高考",
+        "onboard_time": 1749183442,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161038,
+        "num": 161038,
+        "word": "苏超南京队上强度了",
+        "onboard_time": 1749215308,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美对话和合作是唯一正确的选择#"
+    }
+  }
+}

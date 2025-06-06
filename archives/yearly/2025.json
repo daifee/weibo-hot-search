@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749217022387,
+  "endTime": 1749217737477,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -667,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10666191,
+      "num": 10666191,
+      "word": "王者荣耀给单依纯打钱",
+      "onboard_time": 1749216084,
+      "rank": 0,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 10606514,
       "num": 10606514,
       "word": "订婚强奸案二审驳回上诉",
@@ -777,14 +785,6 @@
       "onboard_time": 1748956522,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 9725528,
-      "num": 9725528,
-      "word": "王者荣耀给单依纯打钱",
-      "onboard_time": 1749216084,
-      "rank": 0,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 9712414,
@@ -2139,6 +2139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 3531514,
+      "num": 475430,
+      "word": "马嘉祺咬字",
+      "onboard_time": 1749216386,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3529783,
       "num": 3018562,
       "word": "叶童怼房琪",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738935684,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3339900,
-      "num": 1851483,
-      "word": "赵露思直播",
-      "onboard_time": 1737800420,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

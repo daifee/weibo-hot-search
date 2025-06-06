@@ -1,10 +1,10 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749217022387,
+  "endTime": 1749217737477,
   "band_list": [
     {
-      "raw_hot": 9725528,
-      "num": 9725528,
+      "raw_hot": 10666191,
+      "num": 10666191,
       "word": "王者荣耀给单依纯打钱",
       "onboard_time": 1749216084,
       "rank": 0,
@@ -43,10 +43,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3085617,
+      "raw_hot": 3531514,
       "num": 475430,
       "word": "马嘉祺咬字",
       "onboard_time": 1749216386,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2968440,
+      "num": 321899,
+      "word": "单依纯疯了",
+      "onboard_time": 1749217108,
       "rank": 10,
       "category": "综艺"
     },
@@ -129,6 +137,14 @@
       "onboard_time": 1749187461,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1330136,
+      "num": 318321,
+      "word": "卫兰请留下",
+      "onboard_time": 1749217050,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1293865,
@@ -907,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311085,
+      "num": 469906,
+      "word": "JDG对战TTG",
+      "onboard_time": 1749215787,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 305245,
       "num": 305245,
       "word": "邓萃雯把李佳航塞给李晟",
@@ -929,6 +953,14 @@
       "onboard_time": 1749194062,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300382,
+      "num": 300382,
+      "word": "如何呢 又能怎",
+      "onboard_time": 1749217349,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 297697,
@@ -1035,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268908,
-      "num": 469906,
-      "word": "JDG对战TTG",
-      "onboard_time": 1749215787,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 268044,
       "num": 268044,
       "word": "陆沉六尺之下",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1749186262,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 243827,
+      "num": 477758,
+      "word": "俄罗斯对乌全境实施打击",
+      "onboard_time": 1749216627,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 241763,
@@ -1211,6 +1243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224473,
+      "num": 224473,
+      "word": "宁艺卓完全是刚上岸的美人鱼",
+      "onboard_time": 1749216627,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223923,
       "num": 223923,
       "word": "高考锦鲤",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1749134963,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 218784,
-      "num": 200563,
-      "word": "宁艺卓完全是刚上岸的美人鱼",
-      "onboard_time": 1749216627,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 218337,
@@ -1811,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169104,
+      "num": 169104,
+      "word": "原神海卡联动",
+      "onboard_time": 1749215728,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168979,
       "num": 168979,
       "word": "桃黑黑 高考加油了各位",
@@ -1923,8 +1963,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161038,
+      "num": 161038,
+      "word": "苏超南京队上强度了",
+      "onboard_time": 1749215308,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160608,
-      "num": 1467221,
+      "num": 3210596,
       "word": "天问二号发回太空旅行打卡照",
       "onboard_time": 1749185062,
       "rank": 47,
@@ -2339,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134696,
+      "num": 480719,
+      "word": "范丞丞很平均的交情",
+      "onboard_time": 1749216567,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134566,
       "num": 134566,
       "word": "马柏全金发美少年",
@@ -2635,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113611,
+      "num": 459753,
+      "word": "17岁女孩代孕涉事公司被罚25万",
+      "onboard_time": 1749215906,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 112331,
       "num": 112331,
       "word": "王钰栋 国足希望",
@@ -2665,14 +2729,6 @@
       "onboard_time": 1749169522,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109580,
-      "num": 480719,
-      "word": "范丞丞很平均的交情",
-      "onboard_time": 1749216567,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 109575,
@@ -2713,14 +2769,6 @@
       "onboard_time": 1749126560,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105446,
-      "num": 477758,
-      "word": "俄罗斯对乌全境实施打击",
-      "onboard_time": 1749216627,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 105327,
@@ -2939,6 +2987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84644,
+      "num": 464596,
+      "word": "官方称乐高乐园酒店明码标价合规",
+      "onboard_time": 1749215966,
+      "rank": 16,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 84231,
       "num": 425936,
       "word": "视频回顾爱泼斯坦案",
@@ -3003,12 +3059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78393,
-      "num": 459753,
-      "word": "17岁女孩代孕涉事公司被罚25万",
-      "onboard_time": 1749215906,
-      "rank": 18,
-      "category": "舆论监督"
+      "raw_hot": 78882,
+      "num": 472358,
+      "word": "那些离谱但有用的高考应援",
+      "onboard_time": 1749216026,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76621,
@@ -3033,14 +3089,6 @@
       "onboard_time": 1749205161,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74113,
-      "num": 464596,
-      "word": "官方称乐高乐园酒店明码标价合规",
-      "onboard_time": 1749215966,
-      "rank": 16,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 74009,
@@ -3107,6 +3155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71251,
+      "num": 357052,
+      "word": "男子心梗术后吸烟不听劝再次心梗",
+      "onboard_time": 1749216084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70976,
       "num": 316028,
       "word": "王嘉尔恨爱",
@@ -3145,6 +3201,14 @@
       "onboard_time": 1749165738,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 68500,
+      "num": 306609,
+      "word": "辛纳官宣出战中国网球公开赛",
+      "onboard_time": 1749215368,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 68180,
@@ -3211,14 +3275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 60920,
-      "num": 357052,
-      "word": "男子心梗术后吸烟不听劝再次心梗",
-      "onboard_time": 1749216084,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60329,
       "num": 60329,
       "word": "西班牙vs法国",
@@ -3232,6 +3288,14 @@
       "word": "将老人抠伤双眼者患妄想症",
       "onboard_time": 1749214285,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56784,
+      "num": 467515,
+      "word": "3岁女童被虐致死案二审择期宣判",
+      "onboard_time": 1749216207,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3249,6 +3313,14 @@
       "onboard_time": 1749164778,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56052,
+      "num": 301857,
+      "word": "医生不建议高考当天吃药干预月经",
+      "onboard_time": 1749217645,
+      "rank": 31,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 54519,
@@ -3331,6 +3403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49245,
+      "num": 224798,
+      "word": "中网成亚洲首个三周网球赛",
+      "onboard_time": 1749217706,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49195,
       "num": 147287,
       "word": "马斯克推特骂战合集",
@@ -3371,14 +3451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45579,
-      "num": 472358,
-      "word": "那些离谱但有用的高考应援",
-      "onboard_time": 1749216026,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44936,
       "num": 233836,
       "word": "99个火车站车票起售时间点调整",
@@ -3395,12 +3467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43561,
-      "num": 467515,
-      "word": "3岁女童被虐致死案二审择期宣判",
-      "onboard_time": 1749216207,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 44747,
+      "num": 458603,
+      "word": "生理性飞蚊症要看医生吗",
+      "onboard_time": 1749216686,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 43473,
@@ -3451,20 +3523,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40852,
-      "num": 458603,
-      "word": "生理性飞蚊症要看医生吗",
-      "onboard_time": 1749216686,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 40388,
       "num": 371167,
       "word": "马斯克大骂特朗普税改法案恶心",
       "onboard_time": 1749178760,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39717,
+      "num": 462857,
+      "word": "带病害的假种薯使农民损失超200万",
+      "onboard_time": 1749215846,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38668,
@@ -3521,6 +3593,14 @@
       "onboard_time": 1749188603,
       "rank": 32,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 34204,
+      "num": 303584,
+      "word": "家门口遇害案母亲靠三千月薪打官司",
+      "onboard_time": 1749217409,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33178,
@@ -3643,14 +3723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27037,
-      "num": 462857,
-      "word": "带病害的假种薯使农民损失超200万",
-      "onboard_time": 1749215846,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27000,
       "num": 34817,
       "word": "印尼一载80余人游艇侧翻沉没",
@@ -3665,6 +3737,14 @@
       "onboard_time": 1749197301,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25413,
+      "num": 304475,
+      "word": "湖南砖厂被救智障人员部分找到家属",
+      "onboard_time": 1749217468,
+      "rank": 27,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 23633,
