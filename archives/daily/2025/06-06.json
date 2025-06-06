@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749184438799,
+  "endTime": 1749185343105,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -11,7 +11,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1804194,
+      "raw_hot": 1883506,
       "num": 1476932,
       "word": "爱泼斯坦",
       "onboard_time": 1749170062,
@@ -67,8 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1003671,
-      "num": 1003671,
+      "raw_hot": 1006351,
+      "num": 1006351,
       "word": "黄子韬怒斥学员不配做餐饮",
       "onboard_time": 1749181523,
       "rank": 1,
@@ -83,8 +83,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 794056,
-      "num": 794056,
+      "raw_hot": 804908,
+      "num": 804908,
       "word": "当迪拜人买了labubu",
       "onboard_time": 1749181342,
       "rank": 5,
@@ -145,6 +145,14 @@
       "onboard_time": 1749168080,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 590191,
+      "num": 590191,
+      "word": "乘风直播",
+      "onboard_time": 1749184043,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 585818,
@@ -235,6 +243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471473,
+      "num": 471473,
+      "word": "新娘说馒头上太早导致宾客提前离场",
+      "onboard_time": 1749183982,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462772,
+      "num": 551365,
+      "word": "被咬身亡女子家属称已有死亡诊断",
+      "onboard_time": 1749183022,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448278,
       "num": 448278,
       "word": "特朗普对马斯克非常失望",
@@ -257,14 +281,6 @@
       "onboard_time": 1749183503,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 432771,
-      "num": 432771,
-      "word": "乘风直播",
-      "onboard_time": 1749184043,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 430971,
@@ -331,12 +347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360891,
+      "num": 360891,
+      "word": "蔡徐坤回国",
+      "onboard_time": 1749184282,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346453,
       "num": 346453,
       "word": "24岁女子新婚俩月丈夫离世",
       "onboard_time": 1749171680,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339979,
+      "num": 339979,
+      "word": "王安宇刘浩存 AI吻戏",
+      "onboard_time": 1749184762,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 339073,
@@ -435,6 +467,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284273,
+      "num": 284273,
+      "word": "易烊千玺赵丽颖杨幂酱园弄台词",
+      "onboard_time": 1749183861,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 278182,
+      "num": 278182,
+      "word": "蔡依林新专辑PLEASURE",
+      "onboard_time": 1749184882,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 276374,
       "num": 276374,
       "word": "孟子义的包场数是白鹿曾舜晞生日",
@@ -475,14 +523,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 247520,
-      "num": 247520,
-      "word": "新娘说馒头上太早导致宾客提前离场",
-      "onboard_time": 1749183982,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235755,
       "num": 235755,
       "word": "中美元首通话内容",
@@ -491,12 +531,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 233871,
-      "num": 551365,
-      "word": "被咬身亡女子家属称已有死亡诊断",
-      "onboard_time": 1749183022,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 233629,
+      "num": 233629,
+      "word": "王自如谈工资条",
+      "onboard_time": 1749181041,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 231167,
@@ -547,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220754,
-      "num": 220754,
-      "word": "易烊千玺赵丽颖杨幂酱园弄台词",
-      "onboard_time": 1749183861,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 221570,
+      "num": 221570,
+      "word": "员工发烧37.9度请假遭HR辱骂",
+      "onboard_time": 1749184343,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219863,
@@ -596,11 +636,19 @@
     },
     {
       "raw_hot": 212837,
-      "num": 274650,
+      "num": 288407,
       "word": "蒯曼出席自家乒乓俱乐部开幕仪式",
       "onboard_time": 1749182061,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211237,
+      "num": 211237,
+      "word": "稚奴睡好了我复盘藏海传睡不着了",
+      "onboard_time": 1749184581,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 209321,
@@ -649,14 +697,6 @@
       "onboard_time": 1749178941,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202967,
-      "num": 202967,
-      "word": "蔡徐坤回国",
-      "onboard_time": 1749184282,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 200051,
@@ -739,16 +779,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183885,
-      "num": 183885,
-      "word": "王自如谈工资条",
-      "onboard_time": 1749181041,
-      "rank": 41,
-      "category": "互联网"
+      "raw_hot": 186222,
+      "num": 186222,
+      "word": "柯南剧场版",
+      "onboard_time": 1749184401,
+      "rank": 47,
+      "category": "电影"
     },
     {
-      "raw_hot": 173824,
-      "num": 173824,
+      "raw_hot": 173940,
+      "num": 173940,
       "word": "陆沉鳏夫味",
       "onboard_time": 1749181221,
       "rank": 42,
@@ -779,6 +819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166723,
+      "num": 166723,
+      "word": "人生其实没必要那么死板的",
+      "onboard_time": 1749183621,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166037,
       "num": 166037,
       "word": "国足",
@@ -801,6 +849,14 @@
       "onboard_time": 1749128541,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160608,
+      "num": 160608,
+      "word": "天问二号发回太空旅行打卡照",
+      "onboard_time": 1749185062,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 159454,
@@ -827,20 +883,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 152955,
-      "num": 152955,
-      "word": "员工发烧37.9度请假遭HR辱骂",
-      "onboard_time": 1749184343,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152604,
       "num": 152604,
       "word": "齐司礼军装",
       "onboard_time": 1749176240,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152108,
+      "num": 152108,
+      "word": "雷霆领先一整晚天亮了输了",
+      "onboard_time": 1749184401,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 151947,
@@ -857,22 +913,6 @@
       "onboard_time": 1749177800,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 148124,
-      "num": 148124,
-      "word": "柯南剧场版",
-      "onboard_time": 1749184401,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 147699,
-      "num": 147699,
-      "word": "雷霆领先一整晚天亮了输了",
-      "onboard_time": 1749184401,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 147418,
@@ -953,6 +993,22 @@
       "onboard_time": 1749180620,
       "rank": 21,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 140019,
+      "num": 140019,
+      "word": "高考必胜",
+      "onboard_time": 1749185062,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 140004,
+      "num": 414521,
+      "word": "觉得labubu好看的是哪些人",
+      "onboard_time": 1749183081,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 139985,
@@ -1259,6 +1315,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95446,
+      "num": 174592,
+      "word": "齐司礼默而闻声",
+      "onboard_time": 1749178580,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 95286,
+      "num": 465042,
+      "word": "特朗普与马斯克的矛盾核心",
+      "onboard_time": 1749184282,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95130,
       "num": 109424,
       "word": "张靓颖新歌九万字",
@@ -1321,14 +1393,6 @@
       "onboard_time": 1749179541,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87842,
-      "num": 414521,
-      "word": "觉得labubu好看的是哪些人",
-      "onboard_time": 1749183081,
-      "rank": 19,
-      "category": "时尚"
     },
     {
       "raw_hot": 85002,
@@ -1433,6 +1497,14 @@
       "onboard_time": 1749165738,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67280,
+      "num": 471205,
+      "word": "香酥鸭售价25元鸭坯成本不足10元",
+      "onboard_time": 1749184822,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65067,
@@ -1545,14 +1617,6 @@
       "onboard_time": 1749178100,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50146,
-      "num": 238983,
-      "word": "特朗普与马斯克的矛盾核心",
-      "onboard_time": 1749184282,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 49283,
