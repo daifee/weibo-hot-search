@@ -1,0 +1,410 @@
+{
+  "runTime": 1749180900131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1554999,
+        "num": 1554999,
+        "word": "活鸭20元一斤烤鸭为何20多元一只",
+        "onboard_time": 1749177800,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1420269,
+        "num": 1420269,
+        "word": "爱泼斯坦",
+        "onboard_time": 1749170062,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11787,
+        "num": 1115280,
+        "word": "有一种震撼叫祖国山河如画",
+        "onboard_time": 1749102078,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1028395,
+        "num": 1028395,
+        "word": "印度医生被强奸犯家属绑在树上殴打",
+        "onboard_time": 1749166159,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1027280,
+        "num": 1027280,
+        "word": "哈利伯顿绝杀",
+        "onboard_time": 1749179782,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 665296,
+        "num": 665296,
+        "word": "家有儿女姥姥的含金量还在上升",
+        "onboard_time": 1749177739,
+        "rank": 5,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 603298,
+        "num": 603298,
+        "word": "1335万人明天高考",
+        "onboard_time": 1749165860,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 513932,
+        "num": 513932,
+        "word": "马斯克转发特朗普爱泼斯坦聚会视频",
+        "onboard_time": 1749173780,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 434088,
+        "num": 434088,
+        "word": "特朗普对马斯克非常失望",
+        "onboard_time": 1749165860,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190630,
+        "num": 432795,
+        "word": "李家超再回应长和卖港口",
+        "onboard_time": 1749179240,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1318243,
+        "num": 432027,
+        "word": "特朗普马斯克公开骂战",
+        "onboard_time": 1749166100,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 481416,
+        "num": 430862,
+        "word": "孟子义穿了周也姐姐设计的衣服",
+        "onboard_time": 1749175641,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303180,
+        "num": 428962,
+        "word": "歌手2025总监回应马嘉祺晋级争议",
+        "onboard_time": 1749171203,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43473,
+        "num": 427240,
+        "word": "马斯克特朗普闹掰的四个转折点",
+        "onboard_time": 1749180261,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74467,
+        "num": 425936,
+        "word": "视频回顾爱泼斯坦案",
+        "onboard_time": 1749180081,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 288437,
+        "num": 424099,
+        "word": "藏海传IMDb评分一度破9.5",
+        "onboard_time": 1749170541,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423708,
+        "num": 423708,
+        "word": "樊振东再谈东京奥运失利",
+        "onboard_time": 1749176660,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366872,
+        "num": 366872,
+        "word": "步行者vs雷霆",
+        "onboard_time": 1749171861,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54431,
+        "num": 357593,
+        "word": "不管谁赢最后都是苏超赢",
+        "onboard_time": 1749180380,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100621,
+        "num": 355532,
+        "word": "马斯克表示愿意和特朗普和解",
+        "onboard_time": 1749179902,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354827,
+        "num": 354827,
+        "word": "光与夜之恋",
+        "onboard_time": 1749165319,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140231,
+        "num": 336723,
+        "word": "王星越高考祝福视频",
+        "onboard_time": 1749180620,
+        "rank": 21,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 329636,
+        "num": 329636,
+        "word": "张纪中称将倾尽一切守护家",
+        "onboard_time": 1749177680,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326520,
+        "num": 326520,
+        "word": "特朗普称马斯克疯了",
+        "onboard_time": 1749176001,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119869,
+        "num": 326350,
+        "word": "足球概念股跳水",
+        "onboard_time": 1749180140,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282963,
+        "num": 325272,
+        "word": "潘粤明说国足在家自己踢着玩儿吧",
+        "onboard_time": 1749172700,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189817,
+        "num": 325116,
+        "word": "肖战为拍好甬道戏消化了很多",
+        "onboard_time": 1749179661,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51838,
+        "num": 324222,
+        "word": "月薪4K能存下来钱吗",
+        "onboard_time": 1749180741,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 167169,
+        "num": 323852,
+        "word": "爱奇艺赴山海",
+        "onboard_time": 1749166940,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53588,
+        "num": 323167,
+        "word": "特朗普马斯克好像唱了一首跳楼机",
+        "onboard_time": 1749180200,
+        "rank": 29,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 322620,
+        "num": 322620,
+        "word": "章子怡回复杨幂",
+        "onboard_time": 1749139460,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311247,
+        "num": 311247,
+        "word": "黄子韬这一巴掌",
+        "onboard_time": 1749179120,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302855,
+        "num": 302855,
+        "word": "白鹿曾舜晞离婚礼邀请函",
+        "onboard_time": 1749179722,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76385,
+        "num": 266755,
+        "word": "特朗普买下的红色特斯拉仍在白宫",
+        "onboard_time": 1749180741,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241850,
+        "num": 241850,
+        "word": "NBA总决赛",
+        "onboard_time": 1749179481,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236071,
+        "num": 236071,
+        "word": "医生建议减肥期间不要吃圣女果",
+        "onboard_time": 1749174260,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225389,
+        "num": 225389,
+        "word": "24岁女子新婚俩月丈夫离世",
+        "onboard_time": 1749171680,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210403,
+        "num": 210403,
+        "word": "NBA",
+        "onboard_time": 1749169341,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209321,
+        "num": 209321,
+        "word": "王自如感谢董明珠雷军",
+        "onboard_time": 1749179001,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83097,
+        "num": 203481,
+        "word": "公司拒开离职证明被判赔前员工1万7",
+        "onboard_time": 1749179001,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202428,
+        "num": 202428,
+        "word": "perkz退役",
+        "onboard_time": 1749177739,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142330,
+        "num": 198164,
+        "word": "酱园弄悬案关键证据丢了",
+        "onboard_time": 1749178580,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197859,
+        "num": 197859,
+        "word": "马斯克净资产一夜缩水270亿美元",
+        "onboard_time": 1749175581,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175418,
+        "num": 175418,
+        "word": "陆沉六尺之下",
+        "onboard_time": 1749178580,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169156,
+        "num": 169156,
+        "word": "月薪4k普通女生在广州真实现状",
+        "onboard_time": 1749169401,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167508,
+        "num": 167508,
+        "word": "这下真的买到早鸟票了",
+        "onboard_time": 1749179180,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144275,
+        "num": 144275,
+        "word": "张艺兴用角色视角写了一封感谢信",
+        "onboard_time": 1749173420,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138101,
+        "num": 138101,
+        "word": "权志龙否认与李珠妍恋情传闻",
+        "onboard_time": 1749174681,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134891,
+        "num": 134891,
+        "word": "打工人有自己的视力表",
+        "onboard_time": 1749179360,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40388,
+        "num": 130953,
+        "word": "马斯克大骂特朗普税改法案恶心",
+        "onboard_time": 1749178760,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两山理念的生动实践#"
+    }
+  }
+}

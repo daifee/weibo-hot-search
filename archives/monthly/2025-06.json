@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749180107533,
+  "endTime": 1749180900131,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1554999,
+      "num": 1554999,
+      "word": "活鸭20元一斤烤鸭为何20多元一只",
+      "onboard_time": 1749177800,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1552081,
       "num": 1552081,
       "word": "谭松韵疑似ABB式名字大户",
@@ -321,14 +329,6 @@
       "onboard_time": 1748763499,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1458455,
-      "num": 1458455,
-      "word": "活鸭20元一斤烤鸭为何20多元一只",
-      "onboard_time": 1749177800,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1424804,
@@ -721,6 +721,14 @@
       "onboard_time": 1748951362,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1027280,
+      "num": 1027280,
+      "word": "哈利伯顿绝杀",
+      "onboard_time": 1749179782,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1024126,
@@ -1771,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 603298,
+      "num": 603298,
+      "word": "1335万人明天高考",
+      "onboard_time": 1749165860,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 599560,
       "num": 599560,
       "word": "乌克兰称袭击克里米亚大桥",
@@ -1849,14 +1865,6 @@
       "onboard_time": 1748782283,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 585981,
-      "num": 585981,
-      "word": "1335万人明天高考",
-      "onboard_time": 1749165860,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 585818,
@@ -2385,14 +2393,6 @@
       "onboard_time": 1748778921,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 476518,
-      "num": 476518,
-      "word": "哈利伯顿绝杀",
-      "onboard_time": 1749179782,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 476171,
@@ -3723,20 +3723,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329636,
+      "num": 329636,
+      "word": "张纪中称将倾尽一切守护家",
+      "onboard_time": 1749177680,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327904,
       "num": 327904,
       "word": "当韩国人第一次感受到西瓜自由",
       "onboard_time": 1749113241,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 327891,
-      "num": 327891,
-      "word": "张纪中称将倾尽一切守护家",
-      "onboard_time": 1749177680,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 327326,
@@ -3923,6 +3923,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 311247,
+      "num": 311247,
+      "word": "黄子韬这一巴掌",
+      "onboard_time": 1749179120,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311162,
       "num": 311162,
       "word": "种地吧",
@@ -4033,6 +4041,14 @@
       "onboard_time": 1748780180,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302855,
+      "num": 302855,
+      "word": "白鹿曾舜晞离婚礼邀请函",
+      "onboard_time": 1749179722,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 302234,
@@ -4225,6 +4241,14 @@
       "onboard_time": 1749104062,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288437,
+      "num": 424099,
+      "word": "藏海传IMDb评分一度破9.5",
+      "onboard_time": 1749170541,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 287648,
@@ -4811,14 +4835,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 254972,
-      "num": 273855,
-      "word": "藏海传IMDb评分一度破9.5",
-      "onboard_time": 1749170541,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254619,
       "num": 364691,
       "word": "张艺兴用角色视角写了一封感谢信",
@@ -4849,14 +4865,6 @@
       "onboard_time": 1748966841,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253456,
-      "num": 253456,
-      "word": "黄子韬这一巴掌",
-      "onboard_time": 1749179120,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 252780,
@@ -5867,14 +5875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211395,
-      "num": 211395,
-      "word": "白鹿曾舜晞离婚礼邀请函",
-      "onboard_time": 1749179722,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211160,
       "num": 211160,
       "word": "书卷一梦即将接档临江仙",
@@ -5945,6 +5945,14 @@
       "onboard_time": 1749092060,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209321,
+      "num": 209321,
+      "word": "王自如感谢董明珠雷军",
+      "onboard_time": 1749179001,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 209295,
@@ -6859,12 +6867,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190582,
-      "num": 190582,
-      "word": "王自如感谢董明珠雷军",
-      "onboard_time": 1749179001,
-      "rank": 42,
-      "category": "互联网"
+      "raw_hot": 190630,
+      "num": 469238,
+      "word": "李家超再回应长和卖港口",
+      "onboard_time": 1749179240,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190427,
@@ -6897,6 +6905,14 @@
       "onboard_time": 1749029480,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189817,
+      "num": 325116,
+      "word": "肖战为拍好甬道戏消化了很多",
+      "onboard_time": 1749179661,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 189739,
@@ -6988,7 +7004,7 @@
     },
     {
       "raw_hot": 188927,
-      "num": 231715,
+      "num": 323852,
       "word": "爱奇艺赴山海",
       "onboard_time": 1749166940,
       "rank": 19,
@@ -7812,7 +7828,7 @@
     },
     {
       "raw_hot": 172712,
-      "num": 159937,
+      "num": 167508,
       "word": "这下真的买到早鸟票了",
       "onboard_time": 1749179180,
       "rank": 45,
@@ -8417,14 +8433,6 @@
       "onboard_time": 1749020480,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 162244,
-      "num": 215653,
-      "word": "肖战为拍好甬道戏消化了很多",
-      "onboard_time": 1749179661,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 162090,
@@ -10001,6 +10009,14 @@
       "onboard_time": 1748867000,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140231,
+      "num": 336723,
+      "word": "王星越高考祝福视频",
+      "onboard_time": 1749180620,
+      "rank": 21,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 140044,
@@ -11723,6 +11739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119869,
+      "num": 326350,
+      "word": "足球概念股跳水",
+      "onboard_time": 1749180140,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119623,
       "num": 119623,
       "word": "张杰演唱会",
@@ -12425,14 +12449,6 @@
       "onboard_time": 1749024980,
       "rank": 49,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 111867,
-      "num": 469238,
-      "word": "李家超再回应长和卖港口",
-      "onboard_time": 1749179240,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111832,
@@ -13417,6 +13433,14 @@
       "onboard_time": 1748741178,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100621,
+      "num": 355532,
+      "word": "马斯克表示愿意和特朗普和解",
+      "onboard_time": 1749179902,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100611,
@@ -14580,7 +14604,7 @@
     },
     {
       "raw_hot": 84231,
-      "num": 212659,
+      "num": 425936,
       "word": "视频回顾爱泼斯坦案",
       "onboard_time": 1749180081,
       "rank": 37,
@@ -14697,6 +14721,14 @@
       "onboard_time": 1748747240,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83097,
+      "num": 268165,
+      "word": "公司拒开离职证明被判赔前员工1万7",
+      "onboard_time": 1749179001,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82706,
@@ -14937,6 +14969,14 @@
       "onboard_time": 1749096863,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76385,
+      "num": 266755,
+      "word": "特朗普买下的红色特斯拉仍在白宫",
+      "onboard_time": 1749180741,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76368,
@@ -15185,14 +15225,6 @@
       "onboard_time": 1748829859,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 71865,
-      "num": 268165,
-      "word": "公司拒开离职证明被判赔前员工1万7",
-      "onboard_time": 1749179001,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71854,
@@ -16035,6 +16067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54431,
+      "num": 357593,
+      "word": "不管谁赢最后都是苏超赢",
+      "onboard_time": 1749180380,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54078,
       "num": 253508,
       "word": "逆风小胖会出手",
@@ -16073,6 +16113,14 @@
       "onboard_time": 1749040340,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53588,
+      "num": 323167,
+      "word": "特朗普马斯克好像唱了一首跳楼机",
+      "onboard_time": 1749180200,
+      "rank": 29,
+      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 53375,
@@ -16169,6 +16217,14 @@
       "onboard_time": 1749115701,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51838,
+      "num": 324222,
+      "word": "月薪4K能存下来钱吗",
+      "onboard_time": 1749180741,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 51776,
@@ -16667,6 +16723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43473,
+      "num": 427240,
+      "word": "马斯克特朗普闹掰的四个转折点",
+      "onboard_time": 1749180261,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 43393,
       "num": 43393,
       "word": "BLG对战IG",
@@ -16915,6 +16979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 40388,
+      "num": 371167,
+      "word": "马斯克大骂特朗普税改法案恶心",
+      "onboard_time": 1749178760,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40265,
       "num": 236917,
       "word": "曹骏不后悔在事业巅峰时退圈念书",
@@ -17009,14 +17081,6 @@
       "onboard_time": 1748997022,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38226,
-      "num": 371167,
-      "word": "马斯克大骂特朗普税改法案恶心",
-      "onboard_time": 1749178760,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38187,
@@ -17273,14 +17337,6 @@
       "onboard_time": 1749017720,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34898,
-      "num": 328802,
-      "word": "马斯克表示愿意和特朗普和解",
-      "onboard_time": 1749179902,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34251,
