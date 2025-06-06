@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749195549574,
+  "endTime": 1749198824368,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -1339,6 +1339,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 738347,
+      "num": 738347,
+      "word": "Labubu设计师曾失意30年",
+      "onboard_time": 1749195861,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 737911,
       "num": 737911,
       "word": "labubu",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1749091160,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 692184,
+      "num": 567992,
+      "word": "老人在精神病院被挖双眼涉事科室受处分",
+      "onboard_time": 1749191421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 685611,
@@ -2075,14 +2091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 567992,
-      "num": 567992,
-      "word": "老人在精神病院被挖双眼涉事科室受处分",
-      "onboard_time": 1749191421,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 567446,
       "num": 567446,
       "word": "何秋亊演唱会 全闭麦",
@@ -2169,6 +2177,14 @@
       "onboard_time": 1748859379,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539021,
+      "num": 539021,
+      "word": "女子被银环蛇咬伤2年仍有后遗症",
+      "onboard_time": 1749196041,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 538670,
@@ -2331,6 +2347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 507984,
+      "num": 395863,
+      "word": "白鹿弥补了仙侠没有七分裤的遗憾",
+      "onboard_time": 1749196761,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507361,
       "num": 429413,
       "word": "瘦了140斤",
@@ -2417,6 +2441,14 @@
       "onboard_time": 1749121880,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 498839,
+      "num": 498839,
+      "word": "WTT大满贯取消强制参赛",
+      "onboard_time": 1749195440,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 498438,
@@ -3539,6 +3571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359567,
+      "num": 519905,
+      "word": "台湾青年因领大陆定居证被注销台籍",
+      "onboard_time": 1749196041,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 359521,
       "num": 388505,
       "word": "赵丽颖在人间开分6.7",
@@ -3553,6 +3593,14 @@
       "onboard_time": 1748925622,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 358785,
+      "num": 358785,
+      "word": "侯佩岑和管乐爸妈聊的不知天地为何物",
+      "onboard_time": 1749195381,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 357806,
@@ -3953,6 +4001,14 @@
       "onboard_time": 1749177680,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328939,
+      "num": 521808,
+      "word": "关晓彤高考数学131分",
+      "onboard_time": 1749197242,
+      "rank": 8,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 327904,
@@ -4817,6 +4873,14 @@
       "onboard_time": 1748786901,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271515,
+      "num": 271515,
+      "word": "谁给迪丽热巴张凌赫递本子就当为了我",
+      "onboard_time": 1749196401,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 270077,
@@ -5731,6 +5795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224874,
+      "num": 224874,
+      "word": "孙莉黄多多机场路透",
+      "onboard_time": 1749198321,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224848,
       "num": 224848,
       "word": "女排",
@@ -6211,6 +6283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211391,
+      "num": 211391,
+      "word": "WTT为奥运冠军设立金卡",
+      "onboard_time": 1749197722,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211237,
       "num": 211237,
       "word": "稚奴睡好了我复盘藏海传睡不着了",
@@ -6609,6 +6689,14 @@
       "onboard_time": 1749178941,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204006,
+      "num": 204006,
+      "word": "家属回应网友关心韦神牙齿问题",
+      "onboard_time": 1749196943,
+      "rank": 33,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 203830,
@@ -7019,6 +7107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195816,
+      "num": 195816,
+      "word": "于正争取今晚破8000明天破万",
+      "onboard_time": 1749197122,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195805,
       "num": 195805,
       "word": "蛮蛮一劭结婚照拍摄现场",
@@ -7049,6 +7145,14 @@
       "onboard_time": 1749191482,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195386,
+      "num": 195386,
+      "word": "谢娜乘风创始人的节奏败给贺峻霖了",
+      "onboard_time": 1749198141,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 195160,
@@ -7465,6 +7569,14 @@
       "onboard_time": 1748761642,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188100,
+      "num": 188100,
+      "word": "爱泼斯坦萝莉岛超百政商名人涉案",
+      "onboard_time": 1749196280,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 187974,
@@ -8939,14 +9051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163820,
-      "num": 163820,
-      "word": "侯佩岑和管乐爸妈聊的不知天地为何物",
-      "onboard_time": 1749195381,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163214,
       "num": 163193,
       "word": "迪丽热巴待播剧庆生照",
@@ -9001,14 +9105,6 @@
       "onboard_time": 1749194002,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162153,
-      "num": 162153,
-      "word": "WTT大满贯取消强制参赛",
-      "onboard_time": 1749195440,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 162090,
@@ -9443,6 +9539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155132,
+      "num": 155132,
+      "word": "毛巾少爷哭着回家继承家业",
+      "onboard_time": 1749197421,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154796,
       "num": 154796,
       "word": "原神5.7版本直播",
@@ -9481,6 +9585,14 @@
       "onboard_time": 1748836220,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154300,
+      "num": 235582,
+      "word": "马斯克发起是否创建新政党投票",
+      "onboard_time": 1749195260,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 154243,
@@ -10795,12 +10907,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139151,
+      "num": 139151,
+      "word": "Gr对战Wolves",
+      "onboard_time": 1749197601,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139147,
       "num": 184564,
       "word": "热恋15集把我哄好了",
       "onboard_time": 1748864180,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139118,
+      "num": 164105,
+      "word": "特朗普或将与马斯克通话",
+      "onboard_time": 1749195502,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139087,
@@ -11299,6 +11427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134174,
+      "num": 183427,
+      "word": "孙杨相信高考考生一定行",
+      "onboard_time": 1749198501,
+      "rank": 39,
+      "category": "体育,教育"
+    },
+    {
       "raw_hot": 133923,
       "num": 133923,
       "word": "王楚钦林昀儒戴上了红领巾",
@@ -11433,6 +11569,14 @@
       "onboard_time": 1748851820,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132431,
+      "num": 323801,
+      "word": "李兰迪吴宇恒祝高考大吉",
+      "onboard_time": 1749193821,
+      "rank": 16,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 132354,
@@ -14507,6 +14651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97152,
+      "num": 284668,
+      "word": "三亚医生为何看不出游客被蛇咬伤",
+      "onboard_time": 1749198501,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97148,
       "num": 180554,
       "word": "藏海传登上环球时报",
@@ -16395,6 +16547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64984,
+      "num": 508196,
+      "word": "未可别太宠白鹿了",
+      "onboard_time": 1749197122,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64905,
       "num": 535985,
       "word": "事发地社区回应女子疑被蛇咬身亡",
@@ -17795,6 +17955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40996,
+      "num": 221892,
+      "word": "为何现在人们越来越害怕接电话了",
+      "onboard_time": 1749198440,
+      "rank": 28,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 40970,
       "num": 146758,
       "word": "贴身内衣怎么预防臭屁虫卵",
@@ -18267,14 +18435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33757,
-      "num": 164105,
-      "word": "特朗普或将与马斯克通话",
-      "onboard_time": 1749195502,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33681,
       "num": 251162,
       "word": "香会现场中国少将强硬回应",
@@ -18425,6 +18585,14 @@
       "onboard_time": 1748837779,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 31770,
+      "num": 773465,
+      "word": "中国时尚产业盛典",
+      "onboard_time": 1749196761,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31760,
@@ -18585,14 +18753,6 @@
       "onboard_time": 1748738118,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30058,
-      "num": 235582,
-      "word": "马斯克发起是否创建新政党投票",
-      "onboard_time": 1749195260,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30028,
@@ -18763,14 +18923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 28282,
-      "num": 323801,
-      "word": "李兰迪吴宇恒祝高考大吉",
-      "onboard_time": 1749193821,
-      "rank": 16,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 28194,
       "num": 198704,
       "word": "高考必备物品清单",
@@ -18859,6 +19011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 27751,
+      "num": 360989,
+      "word": "脑梗患者为何逐渐年轻化",
+      "onboard_time": 1749197481,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 27650,
       "num": 175664,
       "word": "进击的巨人阿尼cos",
@@ -18905,6 +19065,14 @@
       "onboard_time": 1749149055,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26988,
+      "num": 221714,
+      "word": "钟薛高子公司无偿债能力被申请破产",
+      "onboard_time": 1749197301,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26914,
@@ -19371,6 +19539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21805,
+      "num": 365406,
+      "word": "约定俗成的就餐茶位费该不该收",
+      "onboard_time": 1749197421,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21470,
       "num": 143461,
       "word": "上帝视角带你看佛山叠滘龙船漂移",
@@ -19721,6 +19897,14 @@
       "onboard_time": 1748849120,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15550,
+      "num": 503088,
+      "word": "高考期间中午应该注意点啥",
+      "onboard_time": 1749198381,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 15469,
