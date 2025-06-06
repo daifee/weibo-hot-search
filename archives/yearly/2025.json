@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749215197209,
+  "endTime": 1749217022387,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -779,6 +779,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 9725528,
+      "num": 9725528,
+      "word": "王者荣耀给单依纯打钱",
+      "onboard_time": 1749216084,
+      "rank": 0,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 9712414,
       "num": 9712414,
       "word": "中美相互24%关税90天内暂停实施",
@@ -1171,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6694211,
+      "num": 6694211,
+      "word": "范玮琪声音好抖",
+      "onboard_time": 1749214224,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 6671283,
       "num": 6671283,
       "word": "韩媒再曝金秀贤金赛纶亲密照",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1738151061,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5991156,
-      "num": 5991156,
-      "word": "范玮琪声音好抖",
-      "onboard_time": 1749214224,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 5865317,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1736756359,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4878590,
+      "num": 680377,
+      "word": "难听",
+      "onboard_time": 1739278102,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 4871233,
@@ -1449,14 +1465,6 @@
       "onboard_time": 1736231182,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4493486,
-      "num": 680377,
-      "word": "难听",
-      "onboard_time": 1739278102,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 4490343,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737800420,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3336228,
-      "num": 3336228,
-      "word": "zmjjkk发博",
-      "onboard_time": 1744634603,
-      "rank": 0,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

@@ -1,13 +1,29 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749215197209,
+  "endTime": 1749217022387,
   "band_list": [
     {
-      "raw_hot": 5991156,
-      "num": 5991156,
+      "raw_hot": 9725528,
+      "num": 9725528,
+      "word": "王者荣耀给单依纯打钱",
+      "onboard_time": 1749216084,
+      "rank": 0,
+      "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 6694211,
+      "num": 6694211,
       "word": "范玮琪声音好抖",
       "onboard_time": 1749214224,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4878590,
+      "num": 484670,
+      "word": "难听",
+      "onboard_time": 1749215129,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -25,6 +41,14 @@
       "onboard_time": 1749138982,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3085617,
+      "num": 475430,
+      "word": "马嘉祺咬字",
+      "onboard_time": 1749216386,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2422025,
@@ -163,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1026584,
+      "num": 455470,
+      "word": "马嘉祺歌手直播做捏捏",
+      "onboard_time": 1749213022,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1006351,
       "num": 1006351,
       "word": "黄子韬怒斥学员不配做餐饮",
@@ -233,6 +265,14 @@
       "onboard_time": 1749200242,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 798084,
+      "num": 452044,
+      "word": "断眉跑哪去了",
+      "onboard_time": 1749214404,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 789230,
@@ -379,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 617141,
-      "num": 385050,
-      "word": "断眉跑哪去了",
-      "onboard_time": 1749214404,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 612695,
       "num": 841937,
       "word": "特朗普说欢迎中国留学生来美学习",
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 583445,
-      "num": 376094,
+      "num": 406043,
       "word": "GAI 大白嗓",
       "onboard_time": 1749213863,
       "rank": 20,
@@ -465,6 +497,14 @@
       "onboard_time": 1749175641,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520168,
+      "num": 451167,
+      "word": "黄明昊谁教你在淘宝上买这些的",
+      "onboard_time": 1749214104,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 517819,
@@ -699,6 +739,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 388079,
+      "num": 466295,
+      "word": "谁懂卫兰歌手唱大哥",
+      "onboard_time": 1749211462,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386789,
       "num": 371579,
       "word": "警方回应西子电梯总裁疑坠楼离世",
@@ -708,7 +756,7 @@
     },
     {
       "raw_hot": 374596,
-      "num": 374596,
+      "num": 486736,
       "word": "巴黎世家推出15500元北京烤鸭包",
       "onboard_time": 1749204381,
       "rank": 27,
@@ -795,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335422,
+      "num": 335422,
+      "word": "范玮琪破音",
+      "onboard_time": 1749215668,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333862,
       "num": 333862,
       "word": "官方通报女子被咬身亡时间线",
@@ -875,14 +931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299434,
-      "num": 220096,
-      "word": "马嘉祺歌手直播做捏捏",
-      "onboard_time": 1749213022,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297697,
       "num": 297697,
       "word": "史上最弱国足当之无愧",
@@ -913,14 +961,6 @@
       "onboard_time": 1749203001,
       "rank": 49,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 289653,
-      "num": 222714,
-      "word": "谁懂卫兰歌手唱大哥",
-      "onboard_time": 1749211462,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 288437,
@@ -987,14 +1027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 272165,
-      "num": 337544,
-      "word": "黄明昊谁教你在淘宝上买这些的",
-      "onboard_time": 1749214104,
-      "rank": 22,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 271515,
       "num": 271515,
       "word": "谁给迪丽热巴张凌赫递本子就当为了我",
@@ -1003,11 +1035,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268908,
+      "num": 469906,
+      "word": "JDG对战TTG",
+      "onboard_time": 1749215787,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 268044,
       "num": 268044,
       "word": "陆沉六尺之下",
       "onboard_time": 1749178580,
       "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 262935,
+      "num": 262935,
+      "word": "肯德基原神联动",
+      "onboard_time": 1749215487,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -1209,6 +1257,14 @@
       "onboard_time": 1749134963,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 218784,
+      "num": 200563,
+      "word": "宁艺卓完全是刚上岸的美人鱼",
+      "onboard_time": 1749216627,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218337,
@@ -1427,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199916,
+      "num": 199916,
+      "word": "武磊苏超首秀需过淘汰赛门槛",
+      "onboard_time": 1749216567,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198430,
       "num": 198430,
       "word": "马斯克称即刻退役龙飞船",
@@ -1579,6 +1643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 190073,
+      "num": 190073,
+      "word": "钟楚曦湿发泳池照",
+      "onboard_time": 1749216990,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189817,
       "num": 325116,
       "word": "肖战为拍好甬道戏消化了很多",
@@ -1593,14 +1665,6 @@
       "onboard_time": 1749139580,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189230,
-      "num": 148116,
-      "word": "难听",
-      "onboard_time": 1749215129,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 188927,
@@ -1692,7 +1756,7 @@
     },
     {
       "raw_hot": 177189,
-      "num": 167514,
+      "num": 368890,
       "word": "成都一小区入口形似景区检票处",
       "onboard_time": 1749208100,
       "rank": 44,
@@ -1745,6 +1809,14 @@
       "onboard_time": 1749183142,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168979,
+      "num": 168979,
+      "word": "桃黑黑 高考加油了各位",
+      "onboard_time": 1749215129,
+      "rank": 46,
+      "category": "游戏,教育"
     },
     {
       "raw_hot": 167060,
@@ -1852,11 +1924,19 @@
     },
     {
       "raw_hot": 160608,
-      "num": 160608,
+      "num": 1467221,
       "word": "天问二号发回太空旅行打卡照",
       "onboard_time": 1749185062,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 160042,
+      "num": 160042,
+      "word": "吃烧烤花780元质疑被宰当事人发声",
+      "onboard_time": 1749215906,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159454,
@@ -1993,14 +2073,6 @@
       "onboard_time": 1749177800,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 150154,
-      "num": 144086,
-      "word": "桃黑黑 高考加油了各位",
-      "onboard_time": 1749215129,
-      "rank": 46,
-      "category": "游戏,教育"
     },
     {
       "raw_hot": 148570,
@@ -2595,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109580,
+      "num": 480719,
+      "word": "范丞丞很平均的交情",
+      "onboard_time": 1749216567,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109575,
       "num": 109575,
       "word": "于正直播说虞书欣很可爱",
@@ -2633,6 +2713,14 @@
       "onboard_time": 1749126560,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105446,
+      "num": 477758,
+      "word": "俄罗斯对乌全境实施打击",
+      "onboard_time": 1749216627,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105327,
@@ -2915,6 +3003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78393,
+      "num": 459753,
+      "word": "17岁女孩代孕涉事公司被罚25万",
+      "onboard_time": 1749215906,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 76621,
       "num": 426767,
       "word": "动漫全家福为高考加油",
@@ -2937,6 +3033,14 @@
       "onboard_time": 1749205161,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74113,
+      "num": 464596,
+      "word": "官方称乐高乐园酒店明码标价合规",
+      "onboard_time": 1749215966,
+      "rank": 16,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 74009,
@@ -3107,6 +3211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60920,
+      "num": 357052,
+      "word": "男子心梗术后吸烟不听劝再次心梗",
+      "onboard_time": 1749216084,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60329,
       "num": 60329,
       "word": "西班牙vs法国",
@@ -3259,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45579,
+      "num": 472358,
+      "word": "那些离谱但有用的高考应援",
+      "onboard_time": 1749216026,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44936,
       "num": 233836,
       "word": "99个火车站车票起售时间点调整",
@@ -3272,6 +3392,14 @@
       "word": "男子找大师定制旺夫姻缘被骗十余万",
       "onboard_time": 1749139161,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43561,
+      "num": 467515,
+      "word": "3岁女童被虐致死案二审择期宣判",
+      "onboard_time": 1749216207,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3321,6 +3449,14 @@
       "onboard_time": 1749142757,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40852,
+      "num": 458603,
+      "word": "生理性飞蚊症要看医生吗",
+      "onboard_time": 1749216686,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 40388,
@@ -3499,6 +3635,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 27191,
+      "num": 339784,
+      "word": "工作年限是求职的硬性门槛吗",
+      "onboard_time": 1749214285,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 27037,
+      "num": 462857,
+      "word": "带病害的假种薯使农民损失超200万",
+      "onboard_time": 1749215846,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27000,
       "num": 34817,
       "word": "印尼一载80余人游艇侧翻沉没",
@@ -3563,6 +3715,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 19664,
+      "num": 341912,
+      "word": "考生如何预防高温病",
+      "onboard_time": 1749214343,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 19601,
       "num": 268852,
       "word": "喝咖啡能缓解痛风吗",
@@ -3585,14 +3745,6 @@
       "onboard_time": 1749187041,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18411,
-      "num": 341912,
-      "word": "考生如何预防高温病",
-      "onboard_time": 1749214343,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 18171,
@@ -3680,14 +3832,6 @@
       "word": "感情丰富的白羊座适合做伴侣吗",
       "onboard_time": 1749204741,
       "rank": 18,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 12021,
-      "num": 339784,
-      "word": "工作年限是求职的硬性门槛吗",
-      "onboard_time": 1749214285,
-      "rank": 40,
       "category": "情感"
     },
     {
