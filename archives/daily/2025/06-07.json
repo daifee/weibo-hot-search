@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749245958055,
+  "endTime": 1749248737206,
   "band_list": [
     {
       "raw_hot": 2010386,
@@ -363,6 +363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92359,
+      "num": 92359,
+      "word": "特朗普世上无难事只要肯放弃",
+      "onboard_time": 1749236294,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89609,
       "num": 89609,
       "word": "宋茜红毯踢裙摆这一下泰美辣",
@@ -451,12 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65232,
-      "num": 65232,
-      "word": "特朗普世上无难事只要肯放弃",
-      "onboard_time": 1749236294,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 62347,
+      "num": 43351,
+      "word": "这可能是今年最硬核的招生广告",
+      "onboard_time": 1749221606,
+      "rank": 43,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 52664,
@@ -475,14 +483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43351,
-      "num": 43351,
-      "word": "这可能是今年最硬核的招生广告",
-      "onboard_time": 1749221606,
-      "rank": 43,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 42276,
       "num": 60531,
       "word": "武磊苏超首秀需过淘汰赛门槛",
@@ -499,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35846,
+      "num": 32199,
+      "word": "金晨发夹越萌开车越猛",
+      "onboard_time": 1749244754,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35160,
       "num": 35160,
       "word": "易梦玲格纹比基尼",
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 34811,
-      "num": 30382,
+      "num": 31864,
       "word": "白象宣布多半系列产品更名",
       "onboard_time": 1749240194,
       "rank": 23,
@@ -521,6 +529,14 @@
       "onboard_time": 1749229279,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 32642,
+      "num": 32642,
+      "word": "比赛第一 友谊第十四",
+      "onboard_time": 1749233297,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 32590,
@@ -539,12 +555,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 30545,
-      "num": 30545,
-      "word": "比赛第一 友谊第十四",
-      "onboard_time": 1749233297,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 28957,
+      "num": 29325,
+      "word": "俄乌局势或出现新变数",
+      "onboard_time": 1749236714,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28089,
+      "num": 28089,
+      "word": "于正回应临江仙争议",
+      "onboard_time": 1749245714,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27994,
+      "num": 27994,
+      "word": "韦东奕粉丝破百万",
+      "onboard_time": 1749246494,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26328,
@@ -569,6 +601,14 @@
       "onboard_time": 1749225563,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24543,
+      "num": 25789,
+      "word": "谢娜问呼伦贝尔真有这么冷吗",
+      "onboard_time": 1749247516,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 24485,
@@ -619,8 +659,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20698,
+      "num": 223719,
+      "word": "高考学子给荔高粽",
+      "onboard_time": 1749222924,
+      "rank": 2,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 19437,
-      "num": 19437,
+      "num": 25772,
       "word": "隋文静韩聪复出",
       "onboard_time": 1749240194,
       "rank": 43,
@@ -635,28 +683,20 @@
       "category": "动漫,教育"
     },
     {
-      "raw_hot": 18593,
-      "num": 29325,
-      "word": "俄乌局势或出现新变数",
-      "onboard_time": 1749236714,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 17022,
-      "num": 18147,
-      "word": "金晨发夹越萌开车越猛",
-      "onboard_time": 1749244754,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15222,
-      "num": 18145,
+      "raw_hot": 18617,
+      "num": 25777,
       "word": "Circle上市首日暴涨168.48%",
       "onboard_time": 1749243914,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17739,
+      "num": 25766,
+      "word": "今日高考",
+      "onboard_time": 1749183442,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 15138,
@@ -675,20 +715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13966,
-      "num": 131047,
-      "word": "高考学子给荔高粽",
-      "onboard_time": 1749222924,
-      "rank": 2,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 11612,
       "num": 45056,
       "word": "张桂梅的学生说这身军装我不脱",
       "onboard_time": 1749234435,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 9902,
+      "num": 25769,
+      "word": "潘展乐说你行的",
+      "onboard_time": 1749248056,
+      "rank": 47,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
