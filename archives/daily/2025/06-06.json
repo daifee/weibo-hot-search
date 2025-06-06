@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749220982153,
+  "endTime": 1749223547021,
   "band_list": [
     {
       "raw_hot": 10666191,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2968440,
-      "num": 323397,
+      "num": 2258489,
       "word": "单依纯疯了",
       "onboard_time": 1749217108,
       "rank": 10,
@@ -96,6 +96,14 @@
       "word": "陈楚生 好听",
       "onboard_time": 1749212722,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1804929,
+      "num": 322019,
+      "word": "范玮琪暴哭",
+      "onboard_time": 1749220886,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -177,14 +185,6 @@
       "onboard_time": 1749183982,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1209143,
-      "num": 322019,
-      "word": "范玮琪暴哭",
-      "onboard_time": 1749220886,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1140714,
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 638730,
+      "num": 295774,
+      "word": "浙江女子牙疼切开脓肿发现20多种细菌",
+      "onboard_time": 1749222325,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 625868,
       "num": 284179,
       "word": "范玮琪淘汰",
@@ -609,6 +617,14 @@
       "onboard_time": 1749185422,
       "rank": 23,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 504732,
+      "num": 504732,
+      "word": "马斯克突然改口",
+      "onboard_time": 1749222205,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 498839,
@@ -875,11 +891,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359961,
+      "num": 359961,
+      "word": "浙江考两次高考",
+      "onboard_time": 1749218367,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 358785,
       "num": 383434,
       "word": "侯佩岑和管乐爸妈聊的不知天地为何物",
       "onboard_time": 1749195381,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 356320,
+      "num": 284684,
+      "word": "耳帝",
+      "onboard_time": 1749221364,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1057,6 +1089,14 @@
       "onboard_time": 1749170541,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285695,
+      "num": 285695,
+      "word": "心疼清融",
+      "onboard_time": 1749221184,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 285164,
@@ -1267,6 +1307,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 232444,
+      "num": 232444,
+      "word": "VOGUE晚宴",
+      "onboard_time": 1749221606,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 232103,
       "num": 288425,
       "word": "医科大学生患癌去世遗体捐给母校",
@@ -1347,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222751,
+      "num": 222751,
+      "word": "金晨也是第一次走沙毯",
+      "onboard_time": 1749222744,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222579,
       "num": 222579,
       "word": "张新成演技",
@@ -1369,6 +1425,14 @@
       "onboard_time": 1749182182,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220694,
+      "num": 320681,
+      "word": "老人捡到手机索要1600元才肯归还",
+      "onboard_time": 1749220046,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220229,
@@ -1627,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199869,
+      "num": 199869,
+      "word": "黄景瑜舔个嘴唇我要吓晕了",
+      "onboard_time": 1749222744,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198430,
       "num": 198430,
       "word": "马斯克称即刻退役龙飞船",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1749179360,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196895,
+      "num": 196895,
+      "word": "陈楚生一开口质感拉满",
+      "onboard_time": 1749222384,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 196502,
@@ -1808,6 +1888,14 @@
       "word": "爱奇艺赴山海",
       "onboard_time": 1749166940,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188230,
+      "num": 188230,
+      "word": "这居然是牛骏峰",
+      "onboard_time": 1749222744,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1971,6 +2059,14 @@
       "category": "游戏,教育"
     },
     {
+      "raw_hot": 168461,
+      "num": 168461,
+      "word": "浪姐",
+      "onboard_time": 1749223162,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167060,
       "num": 167060,
       "word": "央行将开展1万亿买断式逆回购操作",
@@ -2033,6 +2129,14 @@
       "onboard_time": 1749192382,
       "rank": 20,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 163429,
+      "num": 163429,
+      "word": "把白举纲还给我",
+      "onboard_time": 1749223523,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 162885,
@@ -2131,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157430,
+      "num": 285524,
+      "word": "特朗普正考虑出手红色特斯拉",
+      "onboard_time": 1749221606,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157001,
       "num": 157001,
       "word": "韦东奕高考前发视频",
@@ -2145,6 +2257,14 @@
       "onboard_time": 1749192621,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155525,
+      "num": 285453,
+      "word": "宁泽涛穿深V正得发邪",
+      "onboard_time": 1749222624,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 155341,
@@ -2235,14 +2355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151378,
-      "num": 322903,
-      "word": "浙江考两次高考",
-      "onboard_time": 1749218367,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 150900,
       "num": 150900,
       "word": "马柏全VOGUE出发造型",
@@ -2257,6 +2369,14 @@
       "onboard_time": 1749218609,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149369,
+      "num": 285196,
+      "word": "2025高考",
+      "onboard_time": 1749223104,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 148570,
@@ -2625,6 +2745,14 @@
       "onboard_time": 1749139880,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131058,
+      "num": 131058,
+      "word": "这可能是今年最硬核的招生广告",
+      "onboard_time": 1749221606,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 130276,
@@ -3003,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98966,
+      "num": 236040,
+      "word": "日本北海道附近海域连发强震",
+      "onboard_time": 1749220705,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98515,
       "num": 98515,
       "word": "WE淘汰JDG",
@@ -3131,14 +3267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88300,
-      "num": 320681,
-      "word": "老人捡到手机索要1600元才肯归还",
-      "onboard_time": 1749220046,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88120,
       "num": 331549,
       "word": "樊振东忆2007第一次看欧冠",
@@ -3219,6 +3347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 80176,
+      "num": 293693,
+      "word": "张真源揭开身份的时候好帅",
+      "onboard_time": 1749223104,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79835,
       "num": 603306,
       "word": "白鹿开口即破音",
@@ -3233,6 +3369,22 @@
       "onboard_time": 1749216026,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78491,
+      "num": 168576,
+      "word": "国乒队友说很开心看到樊振东在赛场",
+      "onboard_time": 1749222325,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77245,
+      "num": 222200,
+      "word": "第一名掉准考证的学生出现了",
+      "onboard_time": 1749223463,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 76621,
@@ -3443,6 +3595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62009,
+      "num": 284860,
+      "word": "河南信阳17岁女生离校失联7天",
+      "onboard_time": 1749221726,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60329,
       "num": 60329,
       "word": "西班牙vs法国",
@@ -3627,6 +3787,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 48754,
+      "num": 285369,
+      "word": "牙周炎拖久了不治会怎么样",
+      "onboard_time": 1749221485,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 48450,
       "num": 186124,
       "word": "句号MVP",
@@ -3755,6 +3923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37231,
+      "num": 284927,
+      "word": "特朗普说现在不太想和马斯克说话",
+      "onboard_time": 1749223224,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37179,
       "num": 606862,
       "word": "博主称每天摸书10分钟智商提升20分",
@@ -3865,6 +4041,14 @@
       "onboard_time": 1749210381,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31389,
+      "num": 198262,
+      "word": "天文科普",
+      "onboard_time": 1749223523,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 31338,
@@ -4089,6 +4273,14 @@
       "onboard_time": 1749102078,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17350,
+      "num": 715246,
+      "word": "高考学子给荔高粽",
+      "onboard_time": 1749222924,
+      "rank": 2,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 17337,

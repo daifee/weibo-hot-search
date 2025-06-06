@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749220982153,
+  "endTime": 1749223547021,
   "band_list": [
     {
       "raw_hot": 10666191,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 2968440,
-      "num": 323397,
+      "num": 2258489,
       "word": "单依纯疯了",
       "onboard_time": 1749217108,
       "rank": 10,
@@ -273,6 +273,14 @@
       "onboard_time": 1748927481,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1804929,
+      "num": 322019,
+      "word": "范玮琪暴哭",
+      "onboard_time": 1749220886,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1756975,
@@ -697,14 +705,6 @@
       "onboard_time": 1748866222,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1209143,
-      "num": 322019,
-      "word": "范玮琪暴哭",
-      "onboard_time": 1749220886,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1172032,
@@ -1939,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 638730,
+      "num": 295774,
+      "word": "浙江女子牙疼切开脓肿发现20多种细菌",
+      "onboard_time": 1749222325,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 634237,
       "num": 634237,
       "word": "11岁姐姐飞身救妹爷爷称不要赔偿",
@@ -2633,6 +2641,14 @@
       "onboard_time": 1749185422,
       "rank": 23,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 504732,
+      "num": 504732,
+      "word": "马斯克突然改口",
+      "onboard_time": 1749222205,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 504656,
@@ -3955,6 +3971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359961,
+      "num": 359961,
+      "word": "浙江考两次高考",
+      "onboard_time": 1749218367,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 359521,
       "num": 388505,
       "word": "赵丽颖在人间开分6.7",
@@ -4017,6 +4041,14 @@
       "onboard_time": 1749087980,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 356320,
+      "num": 284684,
+      "word": "耳帝",
+      "onboard_time": 1749221364,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 356290,
@@ -5009,6 +5041,14 @@
       "onboard_time": 1748857701,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 285695,
+      "num": 285695,
+      "word": "心疼清融",
+      "onboard_time": 1749221184,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 285309,
@@ -6083,6 +6123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232444,
+      "num": 232444,
+      "word": "VOGUE晚宴",
+      "onboard_time": 1749221606,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 232346,
       "num": 232346,
       "word": "巴黎夺得欧冠冠军",
@@ -6427,6 +6475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222751,
+      "num": 222751,
+      "word": "金晨也是第一次走沙毯",
+      "onboard_time": 1749222744,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222654,
       "num": 170961,
       "word": "小莫连用三个really回应樊振东加盟",
@@ -6497,6 +6553,14 @@
       "onboard_time": 1749125361,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220694,
+      "num": 320681,
+      "word": "老人捡到手机索要1600元才肯归还",
+      "onboard_time": 1749220046,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220390,
@@ -7563,6 +7627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199869,
+      "num": 199869,
+      "word": "黄景瑜舔个嘴唇我要吓晕了",
+      "onboard_time": 1749222744,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199763,
       "num": 199763,
       "word": "邓紫棋悬着的心终于死了",
@@ -7665,6 +7737,14 @@
       "onboard_time": 1748949561,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196895,
+      "num": 196895,
+      "word": "陈楚生一开口质感拉满",
+      "onboard_time": 1749222384,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 196645,
@@ -8233,6 +8313,14 @@
       "onboard_time": 1749043462,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188230,
+      "num": 188230,
+      "word": "这居然是牛骏峰",
+      "onboard_time": 1749222744,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 188174,
@@ -9459,6 +9547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168461,
+      "num": 168461,
+      "word": "浪姐",
+      "onboard_time": 1749223162,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168359,
       "num": 168359,
       "word": "黄金突然直线拉升",
@@ -9801,6 +9897,14 @@
       "onboard_time": 1748833340,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163429,
+      "num": 163429,
+      "word": "把白举纲还给我",
+      "onboard_time": 1749223523,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 163214,
@@ -10195,6 +10299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157430,
+      "num": 285524,
+      "word": "特朗普正考虑出手红色特斯拉",
+      "onboard_time": 1749221606,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157378,
       "num": 157378,
       "word": "狼队对战RW",
@@ -10289,6 +10401,14 @@
       "onboard_time": 1749102561,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155525,
+      "num": 285453,
+      "word": "宁泽涛穿深V正得发邪",
+      "onboard_time": 1749222624,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 155521,
@@ -10667,14 +10787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151378,
-      "num": 322903,
-      "word": "浙江考两次高考",
-      "onboard_time": 1749218367,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 151323,
       "num": 151323,
       "word": "老年痴呆父亲住院被精神病患挖伤双眼",
@@ -10825,6 +10937,14 @@
       "onboard_time": 1748753240,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149369,
+      "num": 285196,
+      "word": "2025高考",
+      "onboard_time": 1749223104,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 149138,
@@ -12617,6 +12737,14 @@
       "onboard_time": 1749139880,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131058,
+      "num": 131058,
+      "word": "这可能是今年最硬核的招生广告",
+      "onboard_time": 1749221606,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 131007,
@@ -15539,6 +15667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98966,
+      "num": 236040,
+      "word": "日本北海道附近海域连发强震",
+      "onboard_time": 1749220705,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98952,
       "num": 98952,
       "word": "JDG对战WBG",
@@ -16411,14 +16547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88300,
-      "num": 320681,
-      "word": "老人捡到手机索要1600元才肯归还",
-      "onboard_time": 1749220046,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88166,
       "num": 583039,
       "word": "登顶路上每一步都是8848",
@@ -16827,6 +16955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80176,
+      "num": 293693,
+      "word": "张真源揭开身份的时候好帅",
+      "onboard_time": 1749223104,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80113,
       "num": 80113,
       "word": "刘宇王栎鑫梁洁王楚然合唱赠你",
@@ -16939,6 +17075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78491,
+      "num": 168576,
+      "word": "国乒队友说很开心看到樊振东在赛场",
+      "onboard_time": 1749222325,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78306,
       "num": 78306,
       "word": "佟丽娅去了凤凰传奇演唱会",
@@ -16985,6 +17129,14 @@
       "onboard_time": 1748851521,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 77245,
+      "num": 222200,
+      "word": "第一名掉准考证的学生出现了",
+      "onboard_time": 1749223463,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 77155,
@@ -17875,6 +18027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62009,
+      "num": 284860,
+      "word": "河南信阳17岁女生离校失联7天",
+      "onboard_time": 1749221726,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61973,
       "num": 111795,
       "word": "沈梦辰高仿版宁静",
@@ -18715,6 +18875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48754,
+      "num": 285369,
+      "word": "牙周炎拖久了不治会怎么样",
+      "onboard_time": 1749221485,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 48718,
       "num": 211192,
       "word": "外交部回应稀土出口管制措施",
@@ -19499,6 +19667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37231,
+      "num": 284927,
+      "word": "特朗普说现在不太想和马斯克说话",
+      "onboard_time": 1749223224,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37179,
       "num": 606862,
       "word": "博主称每天摸书10分钟智商提升20分",
@@ -19993,6 +20169,14 @@
       "onboard_time": 1748714716,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31389,
+      "num": 198262,
+      "word": "天文科普",
+      "onboard_time": 1749223523,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 31338,
@@ -21273,6 +21457,14 @@
       "onboard_time": 1748890094,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17350,
+      "num": 715246,
+      "word": "高考学子给荔高粽",
+      "onboard_time": 1749222924,
+      "rank": 2,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 17337,
