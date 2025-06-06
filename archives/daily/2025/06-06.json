@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749185343105,
+  "endTime": 1749187617104,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1027486,
+      "num": 1164397,
+      "word": "新娘说馒头上太早导致宾客提前离场",
+      "onboard_time": 1749183982,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1027280,
       "num": 1027280,
       "word": "哈利伯顿绝杀",
@@ -89,6 +97,14 @@
       "onboard_time": 1749181342,
       "rank": 5,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 780955,
+      "num": 780955,
+      "word": "员工发烧37.9度请假遭HR辱骂",
+      "onboard_time": 1749184343,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 772050,
@@ -123,12 +139,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 671238,
+      "num": 606808,
+      "word": "蔡徐坤回国",
+      "onboard_time": 1749184282,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 642242,
+      "num": 642242,
+      "word": "乘风直播",
+      "onboard_time": 1749184043,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612695,
       "num": 841937,
       "word": "特朗普说欢迎中国留学生来美学习",
       "onboard_time": 1749136222,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 606626,
+      "num": 606626,
+      "word": "王安宇刘浩存 AI吻戏",
+      "onboard_time": 1749184762,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 603298,
@@ -147,14 +187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 590191,
-      "num": 590191,
-      "word": "乘风直播",
-      "onboard_time": 1749184043,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 585818,
       "num": 585818,
       "word": "马斯克转发特朗普爱泼斯坦聚会视频",
@@ -164,7 +196,7 @@
     },
     {
       "raw_hot": 547112,
-      "num": 547112,
+      "num": 607243,
       "word": "种地吧麦田音乐会导览直播",
       "onboard_time": 1749183861,
       "rank": 11,
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 512494,
-      "num": 512494,
+      "num": 607467,
       "word": "酱园弄预告赵丽颖戏份",
       "onboard_time": 1749181523,
       "rank": 12,
@@ -243,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 471473,
-      "num": 471473,
-      "word": "新娘说馒头上太早导致宾客提前离场",
-      "onboard_time": 1749183982,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 462772,
       "num": 551365,
       "word": "被咬身亡女子家属称已有死亡诊断",
@@ -289,6 +313,14 @@
       "onboard_time": 1749176660,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429413,
+      "num": 429413,
+      "word": "瘦了140斤",
+      "onboard_time": 1749185422,
+      "rank": 23,
+      "category": "休闲"
     },
     {
       "raw_hot": 424404,
@@ -347,28 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360891,
-      "num": 360891,
-      "word": "蔡徐坤回国",
-      "onboard_time": 1749184282,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 346453,
       "num": 346453,
       "word": "24岁女子新婚俩月丈夫离世",
       "onboard_time": 1749171680,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339979,
-      "num": 339979,
-      "word": "王安宇刘浩存 AI吻戏",
-      "onboard_time": 1749184762,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 339073,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 284273,
-      "num": 284273,
+      "num": 454086,
       "word": "易烊千玺赵丽颖杨幂酱园弄台词",
       "onboard_time": 1749183861,
       "rank": 34,
@@ -523,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 244791,
+      "num": 244791,
+      "word": "上海2000元一个的黑天鹅蛋糕",
+      "onboard_time": 1749186262,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 235755,
       "num": 235755,
       "word": "中美元首通话内容",
@@ -571,6 +595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 226867,
+      "num": 226867,
+      "word": "原来婚宴上菜顺序这么多学问",
+      "onboard_time": 1749186141,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225292,
       "num": 225292,
       "word": "光与夜之恋到明天去",
@@ -585,14 +617,6 @@
       "onboard_time": 1749182182,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221570,
-      "num": 221570,
-      "word": "员工发烧37.9度请假遭HR辱骂",
-      "onboard_time": 1749184343,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219863,
@@ -683,6 +707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205522,
+      "num": 205522,
+      "word": "华为Pura80长焦将有新突破",
+      "onboard_time": 1749187041,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 204549,
       "num": 204549,
       "word": "酒店回应上午11点退房下午4点入住",
@@ -715,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198195,
+      "num": 298227,
+      "word": "父亲去世男子哭不出竟是罕见病",
+      "onboard_time": 1749186381,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197655,
       "num": 197655,
       "word": "打工人有自己的视力表",
@@ -745,6 +785,14 @@
       "onboard_time": 1749182781,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191139,
+      "num": 300530,
+      "word": "刘宇宁刘端端共创折腰打戏台词",
+      "onboard_time": 1749186442,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 190630,
@@ -787,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182336,
+      "num": 182336,
+      "word": "华为曝光一底双长焦专利",
+      "onboard_time": 1749186621,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173940,
       "num": 173940,
       "word": "陆沉鳏夫味",
@@ -811,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167781,
+      "num": 167781,
+      "word": "韦神",
+      "onboard_time": 1749187461,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 167060,
       "num": 167060,
       "word": "央行将开展1万亿买断式逆回购操作",
@@ -825,6 +889,14 @@
       "onboard_time": 1749183621,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166487,
+      "num": 166487,
+      "word": "蒲熠星 终于有人制裁刺痛了",
+      "onboard_time": 1749187400,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 166037,
@@ -865,6 +937,14 @@
       "onboard_time": 1749183261,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157001,
+      "num": 157001,
+      "word": "韦东奕高考前发视频",
+      "onboard_time": 1749187282,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 154056,
@@ -955,12 +1035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145580,
+      "num": 145580,
+      "word": "窦月减肥法",
+      "onboard_time": 1749186501,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 144966,
       "num": 144966,
       "word": "三亚",
       "onboard_time": 1749173001,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144857,
+      "num": 252913,
+      "word": "蔡依林一支MV里有6套造型",
+      "onboard_time": 1749186442,
+      "rank": 32,
+      "category": "音乐,演出"
     },
     {
       "raw_hot": 141240,
@@ -1113,6 +1209,14 @@
       "onboard_time": 1749134425,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122068,
+      "num": 558066,
+      "word": "京东上架多款稀缺labubu",
+      "onboard_time": 1749185362,
+      "rank": 17,
+      "category": "互联网,动漫"
     },
     {
       "raw_hot": 120358,
@@ -1275,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102864,
+      "num": 517260,
+      "word": "安东尼和iQOO梦幻联动",
+      "onboard_time": 1749186801,
+      "rank": 18,
+      "category": "体育,数码"
+    },
+    {
       "raw_hot": 102818,
       "num": 102818,
       "word": "虞书欣的萌萌宝宝娃娃们",
@@ -1387,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88841,
+      "num": 607837,
+      "word": "重走三亚被咬女游客生前路线",
+      "onboard_time": 1749186262,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88120,
       "num": 331549,
       "word": "樊振东忆2007第一次看欧冠",
@@ -1443,6 +1563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76621,
+      "num": 426767,
+      "word": "动漫全家福为高考加油",
+      "onboard_time": 1749186801,
+      "rank": 24,
+      "category": "动漫,教育"
+    },
+    {
       "raw_hot": 76385,
       "num": 266755,
       "word": "特朗普买下的红色特斯拉仍在白宫",
@@ -1473,6 +1601,14 @@
       "onboard_time": 1749174500,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70992,
+      "num": 603306,
+      "word": "白鹿开口即破音",
+      "onboard_time": 1749186621,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 70074,
@@ -1691,6 +1827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37179,
+      "num": 606862,
+      "word": "博主称每天摸书10分钟智商提升20分",
+      "onboard_time": 1749186201,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 36887,
       "num": 36887,
       "word": "王大雷说有些东西没法控制",
@@ -1705,6 +1849,14 @@
       "onboard_time": 1749149174,
       "rank": 14,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 34909,
+      "num": 485058,
+      "word": "国足还要等待几个四年",
+      "onboard_time": 1749185482,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 33178,
@@ -1745,6 +1897,14 @@
       "onboard_time": 1749183922,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18563,
+      "num": 298507,
+      "word": "高考期间注意防范强降雨和高温",
+      "onboard_time": 1749187041,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17604,
