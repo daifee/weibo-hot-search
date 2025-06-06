@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749194712398,
+  "endTime": 1749195549574,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -251,20 +251,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 567992,
+      "num": 567992,
+      "word": "老人在精神病院被挖双眼涉事科室受处分",
+      "onboard_time": 1749191421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 547112,
       "num": 607243,
       "word": "种地吧麦田音乐会导览直播",
       "onboard_time": 1749183861,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 532854,
-      "num": 532854,
-      "word": "老人在精神病院被挖双眼涉事科室受处分",
-      "onboard_time": 1749191421,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 526741,
@@ -539,6 +539,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304240,
+      "num": 304240,
+      "word": "高考为什么要定在6月7日和8日",
+      "onboard_time": 1749192682,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 302921,
+      "num": 302921,
+      "word": "白鹿演技",
+      "onboard_time": 1749194062,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297697,
       "num": 297697,
       "word": "史上最弱国足当之无愧",
@@ -553,14 +569,6 @@
       "onboard_time": 1749178580,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 293019,
-      "num": 293019,
-      "word": "高考为什么要定在6月7日和8日",
-      "onboard_time": 1749192682,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 292767,
@@ -819,12 +827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209703,
-      "num": 209703,
-      "word": "白鹿演技",
-      "onboard_time": 1749194062,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 209770,
+      "num": 318670,
+      "word": "李现高考数学从28分到一百多分",
+      "onboard_time": 1749192741,
+      "rank": 42,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 209321,
@@ -947,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193746,
+      "num": 193746,
+      "word": "成毅 高考顺利一切顺利",
+      "onboard_time": 1749195140,
+      "rank": 31,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 192814,
       "num": 415156,
       "word": "王传君演章子怡丈夫",
@@ -963,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191153,
+      "num": 191153,
+      "word": "国足最后一个主场已停止退票",
+      "onboard_time": 1749194601,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191139,
       "num": 300530,
       "word": "刘宇宁刘端端共创折腰打戏台词",
@@ -971,12 +995,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190722,
-      "num": 318670,
-      "word": "李现高考数学从28分到一百多分",
-      "onboard_time": 1749192741,
-      "rank": 42,
-      "category": "艺人,教育"
+      "raw_hot": 190796,
+      "num": 190796,
+      "word": "陈雨菲退赛",
+      "onboard_time": 1749194900,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 190630,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1749166940,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187162,
+      "num": 523817,
+      "word": "特斯拉市值一夜蒸发超万亿",
+      "onboard_time": 1749191181,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 186222,
@@ -1091,14 +1123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170048,
-      "num": 523817,
-      "word": "特斯拉市值一夜蒸发超万亿",
-      "onboard_time": 1749191181,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 167060,
       "num": 167060,
       "word": "央行将开展1万亿买断式逆回购操作",
@@ -1147,12 +1171,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 163820,
+      "num": 163820,
+      "word": "侯佩岑和管乐爸妈聊的不知天地为何物",
+      "onboard_time": 1749195381,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162260,
       "num": 162260,
       "word": "一集亲亲两集结婚三集洞房",
       "onboard_time": 1749194002,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162153,
+      "num": 162153,
+      "word": "WTT大满贯取消强制参赛",
+      "onboard_time": 1749195440,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 161732,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1749189502,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153539,
+      "num": 153539,
+      "word": "留饭和剩饭的区别",
+      "onboard_time": 1749195260,
+      "rank": 46,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 153016,
@@ -1353,14 +1401,6 @@
       "onboard_time": 1749186442,
       "rank": 32,
       "category": "音乐,演出"
-    },
-    {
-      "raw_hot": 143963,
-      "num": 143963,
-      "word": "国足最后一个主场已停止退票",
-      "onboard_time": 1749194601,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 143793,
@@ -1699,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105327,
+      "num": 297576,
+      "word": "男子称垫资帮超市清货损失两三百万",
+      "onboard_time": 1749193702,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105078,
       "num": 127695,
       "word": "宋雨琦刚要哭被周深给唱回来了",
@@ -1915,14 +1963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77765,
-      "num": 297576,
-      "word": "男子称垫资帮超市清货损失两三百万",
-      "onboard_time": 1749193702,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76621,
       "num": 426767,
       "word": "动漫全家福为高考加油",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1749180741,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74009,
+      "num": 166195,
+      "word": "绘旅人噩影旅社之谜",
+      "onboard_time": 1749194900,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 73006,
@@ -2179,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42357,
+      "num": 559341,
+      "word": "医院为何不常备抗蛇毒血清",
+      "onboard_time": 1749195081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41777,
       "num": 238677,
       "word": "冯骥才寄语高考生",
@@ -2251,6 +2307,14 @@
       "category": "体育,教育"
     },
     {
+      "raw_hot": 33757,
+      "num": 164105,
+      "word": "特朗普或将与马斯克通话",
+      "onboard_time": 1749195502,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33178,
       "num": 81209,
       "word": "巴林vs沙特",
@@ -2265,6 +2329,22 @@
       "onboard_time": 1749168142,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30955,
+      "num": 212488,
+      "word": "侯佩岑说自己不是讨好型人格",
+      "onboard_time": 1749194301,
+      "rank": 29,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 30058,
+      "num": 235582,
+      "word": "马斯克发起是否创建新政党投票",
+      "onboard_time": 1749195260,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29140,
@@ -2291,6 +2371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28282,
+      "num": 323801,
+      "word": "李兰迪吴宇恒祝高考大吉",
+      "onboard_time": 1749193821,
+      "rank": 16,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 27784,
       "num": 182572,
       "word": "孔子李白祖冲之徐霞客为高考加油",
@@ -2305,14 +2393,6 @@
       "onboard_time": 1749149055,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 22650,
-      "num": 212488,
-      "word": "侯佩岑说自己不是讨好型人格",
-      "onboard_time": 1749194301,
-      "rank": 29,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 21848,
@@ -2339,6 +2419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17240,
+      "num": 203004,
+      "word": "德总理送特朗普其祖父出生证明复印件",
+      "onboard_time": 1749194962,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15931,
       "num": 16971,
       "word": "四十七开机",
@@ -2353,14 +2441,6 @@
       "onboard_time": 1749148334,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14264,
-      "num": 323801,
-      "word": "李兰迪吴宇恒祝高考大吉",
-      "onboard_time": 1749193821,
-      "rank": 16,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 13981,

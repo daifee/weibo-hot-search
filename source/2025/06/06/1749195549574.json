@@ -1,0 +1,410 @@
+{
+  "runTime": 1749195549574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1042538,
+        "num": 1166806,
+        "word": "员工发烧37.9度请假遭HR辱骂",
+        "onboard_time": 1749184343,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2004822,
+        "num": 1022315,
+        "word": "难看",
+        "onboard_time": 1749189142,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28535,
+        "num": 861117,
+        "word": "我国卫星互联网低轨卫星发射成功",
+        "onboard_time": 1749165499,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 765178,
+        "num": 765178,
+        "word": "韦神",
+        "onboard_time": 1749187461,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 652914,
+        "num": 652914,
+        "word": "labubu牙套",
+        "onboard_time": 1749191061,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 732043,
+        "num": 620906,
+        "word": "关晓彤高考前复习3个月考了552分",
+        "onboard_time": 1749191963,
+        "rank": 5,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 587911,
+        "num": 587911,
+        "word": "浪姐 没苦硬吃",
+        "onboard_time": 1749187941,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514057,
+        "num": 571190,
+        "word": "印度医生被强奸犯家属绑在树上殴打",
+        "onboard_time": 1749166159,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 567992,
+        "num": 567992,
+        "word": "老人在精神病院被挖双眼涉事科室受处分",
+        "onboard_time": 1749191421,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42357,
+        "num": 559341,
+        "word": "医院为何不常备抗蛇毒血清",
+        "onboard_time": 1749195081,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558872,
+        "num": 558872,
+        "word": "特朗普马斯克公开骂战",
+        "onboard_time": 1749166100,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 480885,
+        "num": 480885,
+        "word": "前妻让张纪中别再惹她",
+        "onboard_time": 1749190041,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462895,
+        "num": 462895,
+        "word": "丁程鑫减肥减到113斤",
+        "onboard_time": 1749191722,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415663,
+        "num": 415663,
+        "word": "爱泼斯坦",
+        "onboard_time": 1749170062,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304240,
+        "num": 304240,
+        "word": "高考为什么要定在6月7日和8日",
+        "onboard_time": 1749192682,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 302946,
+        "num": 302946,
+        "word": "张婧仪上初中肖战大二",
+        "onboard_time": 1749191661,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28282,
+        "num": 302923,
+        "word": "李兰迪吴宇恒祝高考大吉",
+        "onboard_time": 1749193821,
+        "rank": 16,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 302921,
+        "num": 302921,
+        "word": "白鹿演技",
+        "onboard_time": 1749194062,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282765,
+        "num": 282765,
+        "word": "新还珠格格",
+        "onboard_time": 1749187641,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275989,
+        "num": 275989,
+        "word": "高考时间",
+        "onboard_time": 1749183503,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252474,
+        "num": 252474,
+        "word": "新娘说馒头上太早导致宾客提前离场",
+        "onboard_time": 1749183982,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30058,
+        "num": 235582,
+        "word": "马斯克发起是否创建新政党投票",
+        "onboard_time": 1749195260,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209770,
+        "num": 232660,
+        "word": "李现高考数学从28分到一百多分",
+        "onboard_time": 1749192741,
+        "rank": 22,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 105327,
+        "num": 231115,
+        "word": "男子称垫资帮超市清货损失两三百万",
+        "onboard_time": 1749193702,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230813,
+        "num": 230813,
+        "word": "临江仙开播",
+        "onboard_time": 1749183022,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218832,
+        "num": 218832,
+        "word": "蔡徐坤回国",
+        "onboard_time": 1749184282,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213359,
+        "num": 213359,
+        "word": "明天高考",
+        "onboard_time": 1749183442,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206366,
+        "num": 206366,
+        "word": "歌手2025第四期歌单官宣",
+        "onboard_time": 1749189741,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30955,
+        "num": 203712,
+        "word": "侯佩岑说自己不是讨好型人格",
+        "onboard_time": 1749194301,
+        "rank": 28,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 17240,
+        "num": 203004,
+        "word": "德总理送特朗普其祖父出生证明复印件",
+        "onboard_time": 1749194962,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202668,
+        "num": 202668,
+        "word": "当迪拜人买了labubu",
+        "onboard_time": 1749181342,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 193746,
+        "num": 193746,
+        "word": "成毅 高考顺利一切顺利",
+        "onboard_time": 1749195140,
+        "rank": 31,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 191153,
+        "num": 191153,
+        "word": "国足最后一个主场已停止退票",
+        "onboard_time": 1749194601,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190796,
+        "num": 190796,
+        "word": "陈雨菲退赛",
+        "onboard_time": 1749194900,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187162,
+        "num": 187162,
+        "word": "特斯拉市值一夜蒸发超万亿",
+        "onboard_time": 1749191181,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186689,
+        "num": 186689,
+        "word": "瘦了140斤",
+        "onboard_time": 1749185422,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 177014,
+        "num": 177014,
+        "word": "1335万人明天高考",
+        "onboard_time": 1749165860,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167140,
+        "num": 167140,
+        "word": "活鸭20元一斤烤鸭为何20多元一只",
+        "onboard_time": 1749177800,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166669,
+        "num": 166669,
+        "word": "黄子韬怒斥学员不配做餐饮",
+        "onboard_time": 1749181523,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74009,
+        "num": 166195,
+        "word": "绘旅人噩影旅社之谜",
+        "onboard_time": 1749194900,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 165921,
+        "num": 165921,
+        "word": "朱志鑫苏新皓别在中止间约会了",
+        "onboard_time": 1749194361,
+        "rank": 40,
+        "category": "综艺,剧集"
+      },
+      {
+        "raw_hot": 164473,
+        "num": 164473,
+        "word": "贝克汉姆撕拉片",
+        "onboard_time": 1749188900,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33757,
+        "num": 164105,
+        "word": "特朗普或将与马斯克通话",
+        "onboard_time": 1749195502,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163820,
+        "num": 163820,
+        "word": "侯佩岑和管乐爸妈聊的不知天地为何物",
+        "onboard_time": 1749195381,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162409,
+        "num": 162409,
+        "word": "芭莎之夜阵容",
+        "onboard_time": 1749189562,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 162153,
+        "num": 162153,
+        "word": "WTT大满贯取消强制参赛",
+        "onboard_time": 1749195440,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153539,
+        "num": 153539,
+        "word": "留饭和剩饭的区别",
+        "onboard_time": 1749195260,
+        "rank": 46,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 144511,
+        "num": 144511,
+        "word": "王安宇刘浩存 AI吻戏",
+        "onboard_time": 1749184762,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139284,
+        "num": 139284,
+        "word": "亲属称希望韦东奕多接触外界",
+        "onboard_time": 1749190401,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134184,
+        "num": 134184,
+        "word": "谁给白鹿找的果盘",
+        "onboard_time": 1749192621,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同呵护好孩子的眼睛#"
+    }
+  }
+}
