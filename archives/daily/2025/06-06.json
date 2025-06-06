@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749176610663,
+  "endTime": 1749180107533,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -35,6 +35,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1458455,
+      "num": 1458455,
+      "word": "活鸭20元一斤烤鸭为何20多元一只",
+      "onboard_time": 1749177800,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1265041,
       "num": 1265041,
       "word": "印度医生被强奸犯家属绑在树上殴打",
@@ -67,6 +75,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 702511,
+      "num": 702511,
+      "word": "家有儿女姥姥的含金量还在上升",
+      "onboard_time": 1749177739,
+      "rank": 4,
+      "category": "剧集,教育"
+    },
+    {
       "raw_hot": 612695,
       "num": 841937,
       "word": "特朗普说欢迎中国留学生来美学习",
@@ -91,12 +107,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 585818,
+      "num": 585818,
+      "word": "马斯克转发特朗普爱泼斯坦聚会视频",
+      "onboard_time": 1749173780,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 526741,
-      "num": 350741,
+      "num": 465651,
       "word": "孟子义穿了周也姐姐设计的衣服",
       "onboard_time": 1749175641,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 517819,
+      "num": 517819,
+      "word": "步行者vs雷霆",
+      "onboard_time": 1749171861,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 516368,
@@ -139,12 +171,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476518,
+      "num": 476518,
+      "word": "哈利伯顿绝杀",
+      "onboard_time": 1749179782,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 448278,
+      "num": 448278,
+      "word": "特朗普对马斯克非常失望",
+      "onboard_time": 1749165860,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 439810,
       "num": 229769,
       "word": "精神病院一老人被病友抠出眼球",
       "onboard_time": 1749138321,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430971,
+      "num": 430971,
+      "word": "樊振东再谈东京奥运失利",
+      "onboard_time": 1749176660,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 424404,
@@ -164,7 +220,7 @@
     },
     {
       "raw_hot": 396550,
-      "num": 396550,
+      "num": 435517,
       "word": "歌手2025总监回应马嘉祺晋级争议",
       "onboard_time": 1749171203,
       "rank": 8,
@@ -187,20 +243,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 378461,
-      "num": 378461,
-      "word": "特朗普对马斯克非常失望",
-      "onboard_time": 1749165860,
-      "rank": 13,
+      "raw_hot": 364353,
+      "num": 364353,
+      "word": "特朗普称马斯克疯了",
+      "onboard_time": 1749176001,
+      "rank": 9,
       "category": "国际时政"
     },
     {
-      "raw_hot": 347183,
-      "num": 347183,
-      "word": "马斯克转发特朗普爱泼斯坦聚会视频",
-      "onboard_time": 1749173780,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 360977,
+      "num": 360977,
+      "word": "NBA总决赛",
+      "onboard_time": 1749179481,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 346453,
@@ -211,12 +267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 339073,
+      "num": 339073,
+      "word": "NBA",
+      "onboard_time": 1749169341,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333862,
       "num": 333862,
       "word": "官方通报女子被咬身亡时间线",
       "onboard_time": 1749172881,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327891,
+      "num": 327891,
+      "word": "张纪中称将倾尽一切守护家",
+      "onboard_time": 1749177680,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 326851,
@@ -233,6 +305,14 @@
       "onboard_time": 1749172822,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294854,
+      "num": 430981,
+      "word": "酱园弄悬案关键证据丢了",
+      "onboard_time": 1749178580,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 292767,
@@ -259,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268044,
+      "num": 268044,
+      "word": "陆沉六尺之下",
+      "onboard_time": 1749178580,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258647,
       "num": 258647,
       "word": "34岁网红村花突发脑梗去世",
@@ -267,12 +355,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254972,
+      "num": 273855,
+      "word": "藏海传IMDb评分一度破9.5",
+      "onboard_time": 1749170541,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254619,
       "num": 364691,
       "word": "张艺兴用角色视角写了一封感谢信",
       "onboard_time": 1749173420,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 253456,
+      "num": 253456,
+      "word": "黄子韬这一巴掌",
+      "onboard_time": 1749179120,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252250,
+      "num": 252250,
+      "word": "医生建议减肥期间不要吃圣女果",
+      "onboard_time": 1749174260,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 235755,
@@ -307,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228668,
+      "num": 228668,
+      "word": "perkz退役",
+      "onboard_time": 1749177739,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225292,
       "num": 225292,
       "word": "光与夜之恋到明天去",
@@ -321,14 +441,6 @@
       "onboard_time": 1749134963,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 219162,
-      "num": 219162,
-      "word": "医生建议减肥期间不要吃圣女果",
-      "onboard_time": 1749174260,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 218337,
@@ -363,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211395,
+      "num": 211395,
+      "word": "白鹿曾舜晞离婚礼邀请函",
+      "onboard_time": 1749179722,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207839,
       "num": 177929,
       "word": "王楚然为白鹿曾舜晞新剧包场",
@@ -387,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204020,
+      "num": 270724,
+      "word": "折腰收官",
+      "onboard_time": 1749178941,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200051,
       "num": 200051,
       "word": "看苏超",
@@ -401,6 +529,14 @@
       "onboard_time": 1749165619,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197655,
+      "num": 197655,
+      "word": "打工人有自己的视力表",
+      "onboard_time": 1749179360,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 195640,
@@ -419,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190582,
+      "num": 190582,
+      "word": "王自如感谢董明珠雷军",
+      "onboard_time": 1749179001,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 189517,
       "num": 189517,
       "word": "国足0比1印尼",
@@ -435,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173699,
-      "num": 353297,
-      "word": "特朗普称马斯克疯了",
-      "onboard_time": 1749176001,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 172712,
+      "num": 159937,
+      "word": "这下真的买到早鸟票了",
+      "onboard_time": 1749179180,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 167060,
@@ -457,6 +601,14 @@
       "onboard_time": 1749165679,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162244,
+      "num": 215653,
+      "word": "肖战为拍好甬道戏消化了很多",
+      "onboard_time": 1749179661,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 161732,
@@ -483,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153016,
+      "num": 153016,
+      "word": "安东尼祝贺Uzi入选名人堂",
+      "onboard_time": 1749177080,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152604,
       "num": 152604,
       "word": "齐司礼军装",
@@ -497,6 +657,14 @@
       "onboard_time": 1749159795,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150900,
+      "num": 150900,
+      "word": "马柏全VOGUE出发造型",
+      "onboard_time": 1749177800,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 147418,
@@ -537,14 +705,6 @@
       "onboard_time": 1749173001,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143229,
-      "num": 166325,
-      "word": "藏海传IMDb评分一度破9.5",
-      "onboard_time": 1749170541,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 141240,
@@ -731,20 +891,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114977,
-      "num": 114977,
-      "word": "步行者vs雷霆",
-      "onboard_time": 1749171861,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112331,
       "num": 112331,
       "word": "王钰栋 国足希望",
       "onboard_time": 1749141678,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111867,
+      "num": 469238,
+      "word": "李家超再回应长和卖港口",
+      "onboard_time": 1749179240,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111799,
@@ -915,12 +1075,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88120,
+      "num": 331549,
+      "word": "樊振东忆2007第一次看欧冠",
+      "onboard_time": 1749179541,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85002,
       "num": 85002,
       "word": "藏海传豆瓣开分7.1",
       "onboard_time": 1749121399,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84231,
+      "num": 212659,
+      "word": "视频回顾爱泼斯坦案",
+      "onboard_time": 1749180081,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83856,
@@ -953,6 +1129,22 @@
       "onboard_time": 1749165319,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71865,
+      "num": 268165,
+      "word": "公司拒开离职证明被判赔前员工1万7",
+      "onboard_time": 1749179001,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71854,
+      "num": 431247,
+      "word": "内蒙古3岁女童被虐死案二审开庭",
+      "onboard_time": 1749178640,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71653,
@@ -1067,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50146,
+      "num": 212385,
+      "word": "愿景娱乐HR辱骂发烧请假员工",
+      "onboard_time": 1749178100,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49283,
       "num": 84087,
       "word": "第一次见女主像小说里的仙门路人甲",
@@ -1123,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38226,
+      "num": 371167,
+      "word": "马斯克大骂特朗普税改法案恶心",
+      "onboard_time": 1749178760,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36887,
       "num": 36887,
       "word": "王大雷说有些东西没法控制",
@@ -1137,6 +1345,14 @@
       "onboard_time": 1749149174,
       "rank": 14,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 34898,
+      "num": 328802,
+      "word": "马斯克表示愿意和特朗普和解",
+      "onboard_time": 1749179902,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33178,

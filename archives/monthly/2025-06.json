@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749176610663,
+  "endTime": 1749180107533,
   "band_list": [
     {
       "raw_hot": 9737897,
@@ -321,6 +321,14 @@
       "onboard_time": 1748763499,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1458455,
+      "num": 1458455,
+      "word": "活鸭20元一斤烤鸭为何20多元一只",
+      "onboard_time": 1749177800,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1424804,
@@ -1339,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 702511,
+      "num": 702511,
+      "word": "家有儿女姥姥的含金量还在上升",
+      "onboard_time": 1749177739,
+      "rank": 4,
+      "category": "剧集,教育"
+    },
+    {
       "raw_hot": 700842,
       "num": 363771,
       "word": "澳门偶遇Angelababy拍摄",
@@ -1843,6 +1859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 585818,
+      "num": 585818,
+      "word": "马斯克转发特朗普爱泼斯坦聚会视频",
+      "onboard_time": 1749173780,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 583842,
       "num": 659576,
       "word": "张雪峰说自己动了太多人的蛋糕",
@@ -2044,7 +2068,7 @@
     },
     {
       "raw_hot": 526741,
-      "num": 350741,
+      "num": 465651,
       "word": "孟子义穿了周也姐姐设计的衣服",
       "onboard_time": 1749175641,
       "rank": 11,
@@ -2097,6 +2121,14 @@
       "onboard_time": 1748840901,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 517819,
+      "num": 517819,
+      "word": "步行者vs雷霆",
+      "onboard_time": 1749171861,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 517367,
@@ -2355,6 +2387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 476518,
+      "num": 476518,
+      "word": "哈利伯顿绝杀",
+      "onboard_time": 1749179782,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 476171,
       "num": 476171,
       "word": "高考倒计时2天",
@@ -2563,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448278,
+      "num": 448278,
+      "word": "特朗普对马斯克非常失望",
+      "onboard_time": 1749165860,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 447095,
       "num": 447095,
       "word": "国足首发",
@@ -2649,6 +2697,14 @@
       "onboard_time": 1748702542,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430971,
+      "num": 430971,
+      "word": "樊振东再谈东京奥运失利",
+      "onboard_time": 1749176660,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 430018,
@@ -2876,7 +2932,7 @@
     },
     {
       "raw_hot": 396550,
-      "num": 396550,
+      "num": 435517,
       "word": "歌手2025总监回应马嘉祺晋级争议",
       "onboard_time": 1749171203,
       "rank": 8,
@@ -3091,14 +3147,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 378461,
-      "num": 378461,
-      "word": "特朗普对马斯克非常失望",
-      "onboard_time": 1749165860,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 377478,
       "num": 377478,
       "word": "曹骏说曾为省钱学做饭不点外卖",
@@ -3235,6 +3283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364353,
+      "num": 364353,
+      "word": "特朗普称马斯克疯了",
+      "onboard_time": 1749176001,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 363701,
       "num": 363701,
       "word": "山西网红艺人大刚饮酒过量离世",
@@ -3265,6 +3321,14 @@
       "onboard_time": 1748922260,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 360977,
+      "num": 360977,
+      "word": "NBA总决赛",
+      "onboard_time": 1749179481,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 360730,
@@ -3435,14 +3499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 347183,
-      "num": 347183,
-      "word": "马斯克转发特朗普爱泼斯坦聚会视频",
-      "onboard_time": 1749173780,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 347060,
       "num": 364198,
       "word": "黄杨钿甜爸爸退出公司经营异常",
@@ -3529,6 +3585,14 @@
       "onboard_time": 1748764641,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 339073,
+      "num": 339073,
+      "word": "NBA",
+      "onboard_time": 1749169341,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 338821,
@@ -3665,6 +3729,14 @@
       "onboard_time": 1749113241,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 327891,
+      "num": 327891,
+      "word": "张纪中称将倾尽一切守护家",
+      "onboard_time": 1749177680,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 327326,
@@ -4073,6 +4145,14 @@
       "onboard_time": 1748791223,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294854,
+      "num": 430981,
+      "word": "酱园弄悬案关键证据丢了",
+      "onboard_time": 1749178580,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 294734,
@@ -4491,6 +4571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268044,
+      "num": 268044,
+      "word": "陆沉六尺之下",
+      "onboard_time": 1749178580,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268041,
       "num": 268041,
       "word": "黄金",
@@ -4723,6 +4811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 254972,
+      "num": 273855,
+      "word": "藏海传IMDb评分一度破9.5",
+      "onboard_time": 1749170541,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254619,
       "num": 364691,
       "word": "张艺兴用角色视角写了一封感谢信",
@@ -4755,6 +4851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253456,
+      "num": 253456,
+      "word": "黄子韬这一巴掌",
+      "onboard_time": 1749179120,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252780,
       "num": 252780,
       "word": "Meiko 菜",
@@ -4769,6 +4873,14 @@
       "onboard_time": 1749127820,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 252250,
+      "num": 252250,
+      "word": "医生建议减肥期间不要吃圣女果",
+      "onboard_time": 1749174260,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252129,
@@ -5219,6 +5331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228668,
+      "num": 228668,
+      "word": "perkz退役",
+      "onboard_time": 1749177739,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227420,
       "num": 556112,
       "word": "ENHYPEN回归",
@@ -5491,14 +5611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219162,
-      "num": 219162,
-      "word": "医生建议减肥期间不要吃圣女果",
-      "onboard_time": 1749174260,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 219027,
       "num": 219027,
       "word": "女游客家属暂不考虑尸检",
@@ -5753,6 +5865,14 @@
       "onboard_time": 1749052280,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211395,
+      "num": 211395,
+      "word": "白鹿曾舜晞离婚礼邀请函",
+      "onboard_time": 1749179722,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 211160,
@@ -6099,6 +6219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204020,
+      "num": 270724,
+      "word": "折腰收官",
+      "onboard_time": 1749178941,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203830,
       "num": 203830,
       "word": "AG战胜UUG",
@@ -6401,6 +6529,14 @@
       "onboard_time": 1748862260,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197655,
+      "num": 197655,
+      "word": "打工人有自己的视力表",
+      "onboard_time": 1749179360,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 197593,
@@ -6721,6 +6857,14 @@
       "onboard_time": 1748787262,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190582,
+      "num": 190582,
+      "word": "王自如感谢董明珠雷军",
+      "onboard_time": 1749179001,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 190427,
@@ -7627,14 +7771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173699,
-      "num": 353297,
-      "word": "特朗普称马斯克疯了",
-      "onboard_time": 1749176001,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 173348,
       "num": 230813,
       "word": "小鹏G7全球首发小鹏华为联合研发ARHUD",
@@ -7673,6 +7809,14 @@
       "onboard_time": 1749098782,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 172712,
+      "num": 159937,
+      "word": "这下真的买到早鸟票了",
+      "onboard_time": 1749179180,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 172472,
@@ -8275,6 +8419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162244,
+      "num": 215653,
+      "word": "肖战为拍好甬道戏消化了很多",
+      "onboard_time": 1749179661,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162090,
       "num": 162090,
       "word": "天天喝这种水身体炎症在悄悄升高",
@@ -8811,6 +8963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153016,
+      "num": 153016,
+      "word": "安东尼祝贺Uzi入选名人堂",
+      "onboard_time": 1749177080,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152894,
       "num": 152894,
       "word": "中国女排1比3波兰女排",
@@ -8961,6 +9121,14 @@
       "onboard_time": 1749048144,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150900,
+      "num": 150900,
+      "word": "马柏全VOGUE出发造型",
+      "onboard_time": 1749177800,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150844,
@@ -9528,14 +9696,6 @@
       "word": "二搭的风席卷了七根心简",
       "onboard_time": 1748938942,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 143229,
-      "num": 166325,
-      "word": "藏海传IMDb评分一度破9.5",
-      "onboard_time": 1749170541,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -11987,14 +12147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114977,
-      "num": 114977,
-      "word": "步行者vs雷霆",
-      "onboard_time": 1749171861,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114963,
       "num": 114963,
       "word": "他的遗物不多藏海是其中一个",
@@ -12273,6 +12425,14 @@
       "onboard_time": 1749024980,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 111867,
+      "num": 469238,
+      "word": "李家超再回应长和卖港口",
+      "onboard_time": 1749179240,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111832,
@@ -14227,6 +14387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88120,
+      "num": 331549,
+      "word": "樊振东忆2007第一次看欧冠",
+      "onboard_time": 1749179541,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87836,
       "num": 87836,
       "word": "藏海最倒霉的一集",
@@ -14409,6 +14577,14 @@
       "onboard_time": 1748687480,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84231,
+      "num": 212659,
+      "word": "视频回顾爱泼斯坦案",
+      "onboard_time": 1749180081,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84043,
@@ -15009,6 +15185,22 @@
       "onboard_time": 1748829859,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 71865,
+      "num": 268165,
+      "word": "公司拒开离职证明被判赔前员工1万7",
+      "onboard_time": 1749179001,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71854,
+      "num": 431247,
+      "word": "内蒙古3岁女童被虐死案二审开庭",
+      "onboard_time": 1749178640,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71662,
@@ -16107,6 +16299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50146,
+      "num": 212385,
+      "word": "愿景娱乐HR辱骂发烧请假员工",
+      "onboard_time": 1749178100,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50013,
       "num": 50013,
       "word": "中方回应中韩关系能否得到改善",
@@ -16811,6 +17011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38226,
+      "num": 371167,
+      "word": "马斯克大骂特朗普税改法案恶心",
+      "onboard_time": 1749178760,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38187,
       "num": 136706,
       "word": "银环蛇咬伤易致呼吸肌瘫痪",
@@ -17065,6 +17273,14 @@
       "onboard_time": 1749017720,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34898,
+      "num": 328802,
+      "word": "马斯克表示愿意和特朗普和解",
+      "onboard_time": 1749179902,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34251,
