@@ -1,0 +1,410 @@
+{
+  "runTime": 1749205758065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1140714,
+        "num": 1182514,
+        "word": "种地吧麦田音乐会",
+        "onboard_time": 1749204920,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 809670,
+        "num": 809670,
+        "word": "Labubu设计师曾失意30年",
+        "onboard_time": 1749195861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20670,
+        "num": 562773,
+        "word": "青春华章重走西北角",
+        "onboard_time": 1749200781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1126636,
+        "num": 525230,
+        "word": "难看",
+        "onboard_time": 1749189142,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485743,
+        "num": 485743,
+        "word": "两世仇村百余年互不往来不通婚",
+        "onboard_time": 1749201921,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454777,
+        "num": 454777,
+        "word": "韦神 学海无牙",
+        "onboard_time": 1749199102,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 746049,
+        "num": 454528,
+        "word": "陈乔恩全身针雕保养法引热议",
+        "onboard_time": 1749200540,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681270,
+        "num": 454297,
+        "word": "张婧仪美成啥样了",
+        "onboard_time": 1749201381,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271248,
+        "num": 454097,
+        "word": "客服自曝二次销售退货内衣内裤",
+        "onboard_time": 1749203902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345546,
+        "num": 453802,
+        "word": "女子把85万扔在了坟头草丛垃圾桶",
+        "onboard_time": 1749200121,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478246,
+        "num": 453483,
+        "word": "特朗普马斯克公开骂战",
+        "onboard_time": 1749166100,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 453329,
+        "num": 453329,
+        "word": "酱园弄 明星大侦探",
+        "onboard_time": 1749200242,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452624,
+        "num": 452624,
+        "word": "韦神",
+        "onboard_time": 1749187461,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 410465,
+        "num": 410465,
+        "word": "韦神患有牙周炎已在治疗",
+        "onboard_time": 1749204082,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394143,
+        "num": 394143,
+        "word": "基辅遭俄军大规模袭击",
+        "onboard_time": 1749200480,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69362,
+        "num": 343550,
+        "word": "小米高阶驾驶培训含多项安全课程",
+        "onboard_time": 1749204321,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 305245,
+        "num": 305245,
+        "word": "邓萃雯把李佳航塞给李晟",
+        "onboard_time": 1749202401,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81509,
+        "num": 303170,
+        "word": "王一博的机油风穿搭怎么模仿",
+        "onboard_time": 1749203363,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12031,
+        "num": 301413,
+        "word": "感情丰富的白羊座适合做伴侣吗",
+        "onboard_time": 1749204741,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198946,
+        "num": 296721,
+        "word": "泰山学院50多名学生设计作品涉抄袭",
+        "onboard_time": 1749202942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230129,
+        "num": 294349,
+        "word": "总台摄像机器狗探秘哀牢山",
+        "onboard_time": 1749200362,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293559,
+        "num": 293559,
+        "word": "高考时间",
+        "onboard_time": 1749183503,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265319,
+        "num": 265319,
+        "word": "男子被毒蛇咬伤忍痛去抓又来一口",
+        "onboard_time": 1749202821,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251224,
+        "num": 251224,
+        "word": "章若楠海边白裙",
+        "onboard_time": 1749202162,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249298,
+        "num": 249298,
+        "word": "白鹿弥补了仙侠没有七分裤的遗憾",
+        "onboard_time": 1749196761,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242090,
+        "num": 242090,
+        "word": "VOGUE红毯",
+        "onboard_time": 1749205041,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 236630,
+        "num": 236630,
+        "word": "明天高考",
+        "onboard_time": 1749183442,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 233219,
+        "num": 233219,
+        "word": "巴黎世家推出15500元北京烤鸭包",
+        "onboard_time": 1749204381,
+        "rank": 27,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 223709,
+        "num": 223709,
+        "word": "GAI 文旅型歌手",
+        "onboard_time": 1749204861,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18171,
+        "num": 221820,
+        "word": "用无人机给高考生送祝福",
+        "onboard_time": 1749203541,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 220229,
+        "num": 220229,
+        "word": "第五人格赛事",
+        "onboard_time": 1749199399,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192364,
+        "num": 192364,
+        "word": "何泓姗时隔三十年终于唱跳上了",
+        "onboard_time": 1749203300,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189316,
+        "num": 189316,
+        "word": "临江仙开播",
+        "onboard_time": 1749183022,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189178,
+        "num": 189178,
+        "word": "浪姐 没苦硬吃",
+        "onboard_time": 1749187941,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172257,
+        "num": 172257,
+        "word": "白鹿曾舜晞撕拉片",
+        "onboard_time": 1749204261,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158030,
+        "num": 158030,
+        "word": "1335万人明天高考",
+        "onboard_time": 1749165860,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196444,
+        "num": 157708,
+        "word": "孙莉黄多多机场路透",
+        "onboard_time": 1749198321,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152322,
+        "num": 152322,
+        "word": "杨紫曾经高考前的采访好清醒",
+        "onboard_time": 1749200181,
+        "rank": 37,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 11161,
+        "num": 146515,
+        "word": "高三男生晚自习课间秀花式扣篮",
+        "onboard_time": 1749205700,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48450,
+        "num": 144873,
+        "word": "句号MVP",
+        "onboard_time": 1749205580,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144546,
+        "num": 144546,
+        "word": "为什么晚上的手机那么好玩",
+        "onboard_time": 1749204981,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142352,
+        "num": 142352,
+        "word": "台湾青年因领大陆定居证被注销台籍",
+        "onboard_time": 1749196041,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142183,
+        "num": 142183,
+        "word": "蔡徐坤回国",
+        "onboard_time": 1749184282,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141733,
+        "num": 141733,
+        "word": "女性生理期攀登或许更能爆发力量",
+        "onboard_time": 1749204140,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 75248,
+        "num": 140950,
+        "word": "西安城墙上的UFO是啥",
+        "onboard_time": 1749205161,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140826,
+        "num": 140826,
+        "word": "谁给迪丽热巴张凌赫递本子就当为了我",
+        "onboard_time": 1749196401,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132083,
+        "num": 132083,
+        "word": "丁程鑫减肥减到113斤",
+        "onboard_time": 1749191722,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129633,
+        "num": 129633,
+        "word": "肖战暮鼓收局",
+        "onboard_time": 1749203300,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128287,
+        "num": 128287,
+        "word": "金丝楠木为什么这么贵",
+        "onboard_time": 1749205101,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 117362,
+        "num": 117362,
+        "word": "港科大已取录两位哈佛转校生",
+        "onboard_time": 1749203001,
+        "rank": 49,
+        "category": "教育,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美对话和合作是唯一正确的选择#"
+    }
+  }
+}
