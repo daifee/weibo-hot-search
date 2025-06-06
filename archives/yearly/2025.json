@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749214305119,
+  "endTime": 1749215197209,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1235,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5991156,
+      "num": 5991156,
+      "word": "范玮琪声音好抖",
+      "onboard_time": 1749214224,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5865317,
       "num": 509455,
       "word": "李明德解释为什么暴力损害酒店财物",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744634603,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 3336094,
-      "num": 534997,
-      "word": "王星采访",
-      "onboard_time": 1736255365,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

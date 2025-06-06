@@ -1,7 +1,15 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749214305119,
+  "endTime": 1749215197209,
   "band_list": [
+    {
+      "raw_hot": 5991156,
+      "num": 5991156,
+      "word": "范玮琪声音好抖",
+      "onboard_time": 1749214224,
+      "rank": 1,
+      "category": "综艺"
+    },
     {
       "raw_hot": 4704827,
       "num": 4704827,
@@ -17,14 +25,6 @@
       "onboard_time": 1749138982,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2579115,
-      "num": 2579115,
-      "word": "范玮琪声音好抖",
-      "onboard_time": 1749214224,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 2422025,
@@ -83,7 +83,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1654662,
+      "raw_hot": 1689581,
       "num": 550701,
       "word": "GAI是不是想走了",
       "onboard_time": 1749213322,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1006037,
+      "num": 469049,
+      "word": "单依纯承认爱情舞台瑕疵多",
+      "onboard_time": 1749212961,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 959623,
       "num": 1115508,
       "word": "Labubu设计师曾失意30年",
@@ -209,14 +217,6 @@
       "onboard_time": 1749201381,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 838049,
-      "num": 469049,
-      "word": "单依纯承认爱情舞台瑕疵多",
-      "onboard_time": 1749212961,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 804908,
@@ -355,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 642627,
+      "num": 642627,
+      "word": "热地同志逝世",
+      "onboard_time": 1749213141,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 642242,
       "num": 642242,
       "word": "乘风直播",
@@ -369,6 +377,14 @@
       "onboard_time": 1749190041,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 617141,
+      "num": 385050,
+      "word": "断眉跑哪去了",
+      "onboard_time": 1749214404,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 612695,
@@ -409,6 +425,14 @@
       "onboard_time": 1749173780,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 583445,
+      "num": 376094,
+      "word": "GAI 大白嗓",
+      "onboard_time": 1749213863,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 578546,
@@ -539,28 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 481701,
-      "num": 233920,
-      "word": "GAI 大白嗓",
-      "onboard_time": 1749213863,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 479081,
       "num": 366275,
       "word": "章子怡回复杨幂",
       "onboard_time": 1749139460,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 478720,
-      "num": 478720,
-      "word": "热地同志逝世",
-      "onboard_time": 1749213141,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 466072,
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 461993,
-      "num": 301599,
+      "num": 333355,
       "word": "原告EXO被告朴成训",
       "onboard_time": 1749208581,
       "rank": 26,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 403829,
-      "num": 274005,
+      "num": 313399,
       "word": "宋茜绿裙高定",
       "onboard_time": 1749208761,
       "rank": 38,
@@ -867,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299434,
+      "num": 220096,
+      "word": "马嘉祺歌手直播做捏捏",
+      "onboard_time": 1749213022,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297697,
       "num": 297697,
       "word": "史上最弱国足当之无愧",
@@ -964,11 +980,19 @@
     },
     {
       "raw_hot": 275277,
-      "num": 275277,
+      "num": 337082,
       "word": "原神",
       "onboard_time": 1749211521,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272165,
+      "num": 337544,
+      "word": "黄明昊谁教你在淘宝上买这些的",
+      "onboard_time": 1749214104,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 271515,
@@ -1033,14 +1057,6 @@
       "onboard_time": 1749202162,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 246005,
-      "num": 206591,
-      "word": "马嘉祺歌手直播做捏捏",
-      "onboard_time": 1749213022,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 244791,
@@ -1579,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189230,
+      "num": 148116,
+      "word": "难听",
+      "onboard_time": 1749215129,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188927,
       "num": 323852,
       "word": "爱奇艺赴山海",
@@ -1763,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166046,
+      "num": 241263,
+      "word": "范丞丞拍竖店短剧",
+      "onboard_time": 1749215067,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166037,
       "num": 166037,
       "word": "国足",
@@ -1884,7 +1916,7 @@
     },
     {
       "raw_hot": 155132,
-      "num": 227525,
+      "num": 370547,
       "word": "宋雨琦张真源两个唱跳歌手飙演技",
       "onboard_time": 1749214104,
       "rank": 26,
@@ -1961,6 +1993,14 @@
       "onboard_time": 1749177800,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150154,
+      "num": 144086,
+      "word": "桃黑黑 高考加油了各位",
+      "onboard_time": 1749215129,
+      "rank": 46,
+      "category": "游戏,教育"
     },
     {
       "raw_hot": 148570,
@@ -2363,6 +2403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126198,
+      "num": 406183,
+      "word": "官方回应精神病患抠出同病房老人眼球",
+      "onboard_time": 1749213682,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125887,
       "num": 182937,
       "word": "乘风助力",
@@ -2484,7 +2532,7 @@
     },
     {
       "raw_hot": 116652,
-      "num": 116652,
+      "num": 142482,
       "word": "王传福股东会哽咽",
       "onboard_time": 1749212122,
       "rank": 46,
@@ -2513,14 +2561,6 @@
       "onboard_time": 1749190222,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113601,
-      "num": 231863,
-      "word": "黄明昊谁教你在淘宝上买这些的",
-      "onboard_time": 1749214104,
-      "rank": 22,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 112331,
@@ -2776,6 +2816,14 @@
       "word": "什么都卖的大超市正在被挤出市中心",
       "onboard_time": 1749200781,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88918,
+      "num": 341080,
+      "word": "女子打赏男主播60万儿子想要回",
+      "onboard_time": 1749214165,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -3051,12 +3099,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62526,
+      "num": 403237,
+      "word": "气象局回应西安大量白点状飞行物",
+      "onboard_time": 1749214104,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60329,
       "num": 60329,
       "word": "西班牙vs法国",
       "onboard_time": 1749166821,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59835,
+      "num": 313541,
+      "word": "将老人抠伤双眼者患妄想症",
+      "onboard_time": 1749214285,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56198,
@@ -3219,14 +3283,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 42814,
-      "num": 406183,
-      "word": "官方回应精神病患抠出同病房老人眼球",
-      "onboard_time": 1749213682,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42592,
       "num": 42592,
       "word": "丁禹兮旁白雪豹纪录片",
@@ -3387,14 +3443,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 30237,
-      "num": 222401,
-      "word": "女子打赏男主播60万儿子想要回",
-      "onboard_time": 1749214165,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29751,
       "num": 513958,
       "word": "各科老师的高考祝福语",
@@ -3464,22 +3512,6 @@
       "word": "钟薛高子公司无偿债能力被申请破产",
       "onboard_time": 1749197301,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26377,
-      "num": 230350,
-      "word": "气象局回应西安大量白点状飞行物",
-      "onboard_time": 1749214104,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23848,
-      "num": 189136,
-      "word": "将老人抠伤双眼者患妄想症",
-      "onboard_time": 1749214285,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3555,6 +3587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18411,
+      "num": 341912,
+      "word": "考生如何预防高温病",
+      "onboard_time": 1749214343,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 18171,
       "num": 221820,
       "word": "用无人机给高考生送祝福",
@@ -3585,6 +3625,14 @@
       "onboard_time": 1749102078,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17337,
+      "num": 156166,
+      "word": "WE对战KSG",
+      "onboard_time": 1749206901,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 17240,
@@ -3635,6 +3683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 12021,
+      "num": 339784,
+      "word": "工作年限是求职的硬性门槛吗",
+      "onboard_time": 1749214285,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 11562,
       "num": 390446,
       "word": "上班族手腕酸痛怎么缓解",
@@ -3665,14 +3721,6 @@
       "onboard_time": 1749151754,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9872,
-      "num": 167743,
-      "word": "工作年限是求职的硬性门槛吗",
-      "onboard_time": 1749214285,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 7749,
