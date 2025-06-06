@@ -1,0 +1,410 @@
+{
+  "runTime": 1749209002253,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1032068,
+        "num": 1165130,
+        "word": "VOGUE红毯",
+        "onboard_time": 1749205041,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1014534,
+        "num": 1014534,
+        "word": "难看",
+        "onboard_time": 1749189142,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16183,
+        "num": 727566,
+        "word": "青春华章重走西北角",
+        "onboard_time": 1749200781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662187,
+        "num": 662187,
+        "word": "韦神患有牙周炎已在治疗",
+        "onboard_time": 1749204082,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604516,
+        "num": 604516,
+        "word": "客服自曝二次销售退货内衣内裤",
+        "onboard_time": 1749203902,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425468,
+        "num": 425468,
+        "word": "男子被毒蛇咬伤忍痛去抓又来一口",
+        "onboard_time": 1749202821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 722587,
+        "num": 424780,
+        "word": "宁艺卓国内首个红毯造型",
+        "onboard_time": 1749206420,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 542533,
+        "num": 417792,
+        "word": "种地吧麦田音乐会",
+        "onboard_time": 1749204920,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10981,
+        "num": 416682,
+        "word": "还记得学生时代这些诗歌吗",
+        "onboard_time": 1749208160,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28410,
+        "num": 410952,
+        "word": "小尾花黑猪猪肝的小尾花黑是商标",
+        "onboard_time": 1749208521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676891,
+        "num": 409216,
+        "word": "张婧仪美成啥样了",
+        "onboard_time": 1749201381,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 524684,
+        "num": 404545,
+        "word": "陈乔恩全身针雕保养法引热议",
+        "onboard_time": 1749200540,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437334,
+        "num": 398334,
+        "word": "特朗普马斯克公开骂战",
+        "onboard_time": 1749166100,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398148,
+        "num": 398148,
+        "word": "曹骏金发",
+        "onboard_time": 1749207741,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225093,
+        "num": 362187,
+        "word": "港科大已取录两位哈佛转校生",
+        "onboard_time": 1749203001,
+        "rank": 14,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 355964,
+        "num": 355964,
+        "word": "周琦被驱逐",
+        "onboard_time": 1749206120,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37449,
+        "num": 333046,
+        "word": "小米高阶驾驶培训含多项安全课程",
+        "onboard_time": 1749204321,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 332581,
+        "num": 332581,
+        "word": "歌手2025",
+        "onboard_time": 1749208160,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13959,
+        "num": 271621,
+        "word": "苏超初期热度峰值超淄博烧烤",
+        "onboard_time": 1749208281,
+        "rank": 18,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 19601,
+        "num": 268852,
+        "word": "喝咖啡能缓解痛风吗",
+        "onboard_time": 1749207081,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344759,
+        "num": 268082,
+        "word": "Labubu设计师曾失意30年",
+        "onboard_time": 1749195861,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266688,
+        "num": 266688,
+        "word": "酱园弄 明星大侦探",
+        "onboard_time": 1749200242,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240667,
+        "num": 240667,
+        "word": "高考时间",
+        "onboard_time": 1749183503,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 238264,
+        "num": 238264,
+        "word": "基辅遭俄军大规模袭击",
+        "onboard_time": 1749200480,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215614,
+        "num": 215614,
+        "word": "巴黎世家推出15500元北京烤鸭包",
+        "onboard_time": 1749204381,
+        "rank": 24,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 212414,
+        "num": 212414,
+        "word": "两世仇村百余年互不往来不通婚",
+        "onboard_time": 1749201921,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204634,
+        "num": 204634,
+        "word": "原告EXO被告朴成训",
+        "onboard_time": 1749208581,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202689,
+        "num": 202689,
+        "word": "白鹿弥补了仙侠没有七分裤的遗憾",
+        "onboard_time": 1749196761,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132920,
+        "num": 195793,
+        "word": "1335万人明天高考",
+        "onboard_time": 1749165860,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27446,
+        "num": 195438,
+        "word": "您的2025高考试卷在路上了",
+        "onboard_time": 1749208281,
+        "rank": 29,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 195143,
+        "num": 195143,
+        "word": "樱桃琥珀",
+        "onboard_time": 1749208460,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187098,
+        "num": 187098,
+        "word": "宁艺卓花仙子比心",
+        "onboard_time": 1749207862,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189569,
+        "num": 184680,
+        "word": "临江仙开播",
+        "onboard_time": 1749183022,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181943,
+        "num": 181943,
+        "word": "宋茜网球风造型",
+        "onboard_time": 1749207741,
+        "rank": 33,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 181824,
+        "num": 181824,
+        "word": "明天高考",
+        "onboard_time": 1749183442,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181818,
+        "num": 181818,
+        "word": "女子把85万扔在了坟头草丛垃圾桶",
+        "onboard_time": 1749200121,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167709,
+        "num": 167709,
+        "word": "邓萃雯把李佳航塞给李晟",
+        "onboard_time": 1749202401,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159950,
+        "num": 159950,
+        "word": "labubu牙套",
+        "onboard_time": 1749191061,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 173382,
+        "num": 159012,
+        "word": "宋茜绿裙高定",
+        "onboard_time": 1749208761,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156310,
+        "num": 156310,
+        "word": "章若楠海边白裙",
+        "onboard_time": 1749202162,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140304,
+        "num": 140304,
+        "word": "女明星VOGUE盛典造型",
+        "onboard_time": 1749207501,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 80738,
+        "num": 137593,
+        "word": "2000元档位手机怎么选",
+        "onboard_time": 1749208160,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136862,
+        "num": 136862,
+        "word": "吃荔枝上火是因为吃少了",
+        "onboard_time": 1749207440,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132765,
+        "num": 132765,
+        "word": "第五人格赛事",
+        "onboard_time": 1749199399,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132198,
+        "num": 132198,
+        "word": "成都一小区入口形似景区检票处",
+        "onboard_time": 1749208100,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131584,
+        "num": 131584,
+        "word": "韦神 学海无牙",
+        "onboard_time": 1749199102,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130276,
+        "num": 130276,
+        "word": "苏州队被贝克汉姆开过光了",
+        "onboard_time": 1749208821,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129910,
+        "num": 129910,
+        "word": "歌手2025第四期歌单官宣",
+        "onboard_time": 1749189741,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125872,
+        "num": 125872,
+        "word": "产后我才知道的生育知识",
+        "onboard_time": 1749208821,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123159,
+        "num": 123159,
+        "word": "杨紫曾经高考前的采访好清醒",
+        "onboard_time": 1749200181,
+        "rank": 49,
+        "category": "艺人,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美对话和合作是唯一正确的选择#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749206822295,
+  "endTime": 1749209002253,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1032068,
+      "num": 1165130,
+      "word": "VOGUE红毯",
+      "onboard_time": 1749205041,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1027280,
       "num": 1027280,
       "word": "哈利伯顿绝杀",
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 780130,
-      "num": 780130,
-      "word": "VOGUE红毯",
-      "onboard_time": 1749205041,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 772050,
       "num": 772050,
       "word": "光与夜之恋",
@@ -203,6 +203,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 722587,
+      "num": 424780,
+      "word": "宁艺卓国内首个红毯造型",
+      "onboard_time": 1749206420,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 702511,
       "num": 702511,
       "word": "家有儿女姥姥的含金量还在上升",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 700886,
-      "num": 410465,
+      "num": 662187,
       "word": "韦神患有牙周炎已在治疗",
       "onboard_time": 1749204082,
       "rank": 13,
@@ -297,6 +305,14 @@
       "onboard_time": 1749184762,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 604516,
+      "num": 604516,
+      "word": "客服自曝二次销售退货内衣内裤",
+      "onboard_time": 1749203902,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 603298,
@@ -499,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 425468,
+      "num": 425468,
+      "word": "男子被毒蛇咬伤忍痛去抓又来一口",
+      "onboard_time": 1749202821,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 424404,
       "num": 424404,
       "word": "赴山海排播失约网友要求退款",
@@ -531,12 +555,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 398277,
-      "num": 454097,
-      "word": "客服自曝二次销售退货内衣内裤",
-      "onboard_time": 1749203902,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 398148,
+      "num": 398148,
+      "word": "曹骏金发",
+      "onboard_time": 1749207741,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 396550,
@@ -611,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355964,
+      "num": 355964,
+      "word": "周琦被驱逐",
+      "onboard_time": 1749206120,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346453,
       "num": 346453,
       "word": "24岁女子新婚俩月丈夫离世",
@@ -641,6 +673,14 @@
       "onboard_time": 1749172881,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332581,
+      "num": 332581,
+      "word": "歌手2025",
+      "onboard_time": 1749208160,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 332007,
@@ -683,28 +723,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 313214,
-      "num": 313214,
-      "word": "宁艺卓国内首个红毯造型",
-      "onboard_time": 1749206420,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 311247,
       "num": 311247,
       "word": "黄子韬这一巴掌",
       "onboard_time": 1749179120,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307500,
-      "num": 307500,
-      "word": "男子被毒蛇咬伤忍痛去抓又来一口",
-      "onboard_time": 1749202821,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305245,
@@ -891,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239693,
-      "num": 239693,
-      "word": "周琦被驱逐",
-      "onboard_time": 1749206120,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 235755,
       "num": 235755,
       "word": "中美元首通话内容",
@@ -969,6 +985,14 @@
       "onboard_time": 1749174858,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225093,
+      "num": 362187,
+      "word": "港科大已取录两位哈佛转校生",
+      "onboard_time": 1749203001,
+      "rank": 49,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 223923,
@@ -1163,6 +1187,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 204634,
+      "num": 204634,
+      "word": "原告EXO被告朴成训",
+      "onboard_time": 1749208581,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204549,
       "num": 204549,
       "word": "酒店回应上午11点退房下午4点入住",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1749198141,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195143,
+      "num": 195143,
+      "word": "樱桃琥珀",
+      "onboard_time": 1749208460,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 194273,
@@ -1387,6 +1427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 187098,
+      "num": 187098,
+      "word": "宁艺卓花仙子比心",
+      "onboard_time": 1749207862,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186222,
       "num": 186222,
       "word": "柯南剧场版",
@@ -1401,6 +1449,14 @@
       "onboard_time": 1749186621,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 181943,
+      "num": 181943,
+      "word": "宋茜网球风造型",
+      "onboard_time": 1749207741,
+      "rank": 33,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 181730,
@@ -1449,6 +1505,14 @@
       "onboard_time": 1749181221,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173382,
+      "num": 159012,
+      "word": "宋茜绿裙高定",
+      "onboard_time": 1749208761,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 172712,
@@ -1859,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140304,
+      "num": 140304,
+      "word": "女明星VOGUE盛典造型",
+      "onboard_time": 1749207501,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140231,
       "num": 336723,
       "word": "王星越高考祝福视频",
@@ -1939,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136862,
+      "num": 136862,
+      "word": "吃荔枝上火是因为吃少了",
+      "onboard_time": 1749207440,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135826,
       "num": 135826,
       "word": "黄晓明在中餐厅最发愁的一次",
@@ -2003,6 +2083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 132198,
+      "num": 132198,
+      "word": "成都一小区入口形似景区检票处",
+      "onboard_time": 1749208100,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132193,
       "num": 279916,
       "word": "付辛博爆料刘端端庆余年不穿裤子",
@@ -2032,6 +2120,14 @@
       "word": "印尼门将",
       "onboard_time": 1749139880,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130276,
+      "num": 130276,
+      "word": "苏州队被贝克汉姆开过光了",
+      "onboard_time": 1749208821,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -2075,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125872,
+      "num": 125872,
+      "word": "产后我才知道的生育知识",
+      "onboard_time": 1749208821,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124403,
       "num": 124403,
       "word": "宋亚轩要给后槽牙咬碎了",
@@ -2113,14 +2217,6 @@
       "onboard_time": 1749174201,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119992,
-      "num": 119992,
-      "word": "港科大已取录两位哈佛转校生",
-      "onboard_time": 1749203001,
-      "rank": 49,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 119977,
@@ -2513,6 +2609,14 @@
       "onboard_time": 1749203363,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80738,
+      "num": 137593,
+      "word": "2000元档位手机怎么选",
+      "onboard_time": 1749208160,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 79835,
@@ -3051,6 +3155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28410,
+      "num": 410952,
+      "word": "小尾花黑猪猪肝的小尾花黑是商标",
+      "onboard_time": 1749208521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27784,
       "num": 182572,
       "word": "孔子李白祖冲之徐霞客为高考加油",
@@ -3065,6 +3177,14 @@
       "onboard_time": 1749198381,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 27446,
+      "num": 195438,
+      "word": "您的2025高考试卷在路上了",
+      "onboard_time": 1749208281,
+      "rank": 29,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 27000,
@@ -3113,6 +3233,14 @@
       "onboard_time": 1749200781,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19601,
+      "num": 268852,
+      "word": "喝咖啡能缓解痛风吗",
+      "onboard_time": 1749207081,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 18563,
@@ -3187,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13959,
+      "num": 271621,
+      "word": "苏超初期热度峰值超淄博烧烤",
+      "onboard_time": 1749208281,
+      "rank": 18,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 13811,
       "num": 313216,
       "word": "朱广权贯口高考祝福来了",
@@ -3225,6 +3361,14 @@
       "onboard_time": 1749206481,
       "rank": 27,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 10981,
+      "num": 416682,
+      "word": "还记得学生时代这些诗歌吗",
+      "onboard_time": 1749208160,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 10650,
