@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749223547021,
+  "endTime": 1749224493357,
   "band_list": [
     {
       "raw_hot": 10666191,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2968440,
-      "num": 2258489,
+      "num": 2358563,
       "word": "单依纯疯了",
       "onboard_time": 1749217108,
       "rank": 10,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1804929,
-      "num": 322019,
+      "num": 346324,
       "word": "范玮琪暴哭",
       "onboard_time": 1749220886,
       "rank": 11,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 687819,
+      "num": 313552,
+      "word": "浙江女子牙疼切开脓肿发现20多种细菌",
+      "onboard_time": 1749222325,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 675111,
       "num": 675111,
       "word": "客服自曝二次销售退货内衣内裤",
@@ -451,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 638730,
-      "num": 295774,
-      "word": "浙江女子牙疼切开脓肿发现20多种细菌",
-      "onboard_time": 1749222325,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 625868,
       "num": 284179,
       "word": "范玮琪淘汰",
@@ -473,6 +473,14 @@
       "onboard_time": 1749190041,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 617871,
+      "num": 617871,
+      "word": "马斯克突然改口",
+      "onboard_time": 1749222205,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 612695,
@@ -617,14 +625,6 @@
       "onboard_time": 1749185422,
       "rank": 23,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 504732,
-      "num": 504732,
-      "word": "马斯克突然改口",
-      "onboard_time": 1749222205,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 498839,
@@ -825,6 +825,14 @@
       "onboard_time": 1749146475,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 388687,
+      "num": 388687,
+      "word": "第一名掉准考证的学生出现了",
+      "onboard_time": 1749223463,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 388079,
@@ -1059,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296144,
+      "num": 239601,
+      "word": "金晨也是第一次走沙毯",
+      "onboard_time": 1749222744,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294854,
       "num": 430981,
       "word": "酱园弄悬案关键证据丢了",
@@ -1187,11 +1203,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262197,
+      "num": 237891,
+      "word": "这居然是牛骏峰",
+      "onboard_time": 1749222744,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259778,
       "num": 457707,
       "word": "原来婚宴上菜顺序这么多学问",
       "onboard_time": 1749186141,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258865,
+      "num": 320681,
+      "word": "老人捡到手机索要1600元才肯归还",
+      "onboard_time": 1749220046,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -1264,6 +1296,14 @@
       "word": "Grace完全是女王",
       "onboard_time": 1749218128,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236840,
+      "num": 236840,
+      "word": "黄景瑜舔个嘴唇我要吓晕了",
+      "onboard_time": 1749222744,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1395,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222751,
-      "num": 222751,
-      "word": "金晨也是第一次走沙毯",
-      "onboard_time": 1749222744,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222579,
       "num": 222579,
       "word": "张新成演技",
@@ -1427,12 +1459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220694,
-      "num": 320681,
-      "word": "老人捡到手机索要1600元才肯归还",
-      "onboard_time": 1749220046,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 221066,
+      "num": 221066,
+      "word": "李荣浩连续10年高考发8字祝福",
+      "onboard_time": 1749223823,
+      "rank": 32,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 220229,
@@ -1691,14 +1723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199869,
-      "num": 199869,
-      "word": "黄景瑜舔个嘴唇我要吓晕了",
-      "onboard_time": 1749222744,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198430,
       "num": 198430,
       "word": "马斯克称即刻退役龙飞船",
@@ -1827,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191714,
+      "num": 164404,
+      "word": "虞书欣丁禹兮宣传黄晓明潜渊",
+      "onboard_time": 1749224065,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191153,
       "num": 191153,
       "word": "国足最后一个主场已停止退票",
@@ -1891,19 +1923,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188230,
-      "num": 188230,
-      "word": "这居然是牛骏峰",
-      "onboard_time": 1749222744,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188144,
       "num": 188144,
       "word": "房琪有自己的人生舞台了",
       "onboard_time": 1749205880,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188085,
+      "num": 164304,
+      "word": "把白举纲还给我",
+      "onboard_time": 1749223523,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -2067,12 +2099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167363,
+      "num": 163826,
+      "word": "宋茜红毯踢裙摆这一下泰美辣",
+      "onboard_time": 1749224124,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 167060,
       "num": 167060,
       "word": "央行将开展1万亿买断式逆回购操作",
       "onboard_time": 1749128541,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 166967,
+      "num": 166967,
+      "word": "绝意尽力了",
+      "onboard_time": 1749224184,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 166951,
@@ -2131,12 +2179,12 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 163429,
-      "num": 163429,
-      "word": "把白举纲还给我",
-      "onboard_time": 1749223523,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 163653,
+      "num": 163653,
+      "word": "橙光崩了",
+      "onboard_time": 1749223284,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 162885,
@@ -2859,6 +2907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122387,
+      "num": 293434,
+      "word": "特朗普说现在不太想和马斯克说话",
+      "onboard_time": 1749223224,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122254,
       "num": 122254,
       "word": "国足状态",
@@ -3187,6 +3243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93935,
+      "num": 285844,
+      "word": "00后没毕业就创业种地年赚超20万",
+      "onboard_time": 1749223764,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93653,
       "num": 93653,
       "word": "国足提前一轮告别美加墨",
@@ -3233,6 +3297,14 @@
       "onboard_time": 1749122301,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89946,
+      "num": 293693,
+      "word": "张真源揭开身份的时候好帅",
+      "onboard_time": 1749223104,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 89577,
@@ -3347,14 +3419,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 80176,
-      "num": 293693,
-      "word": "张真源揭开身份的时候好帅",
-      "onboard_time": 1749223104,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 79835,
       "num": 603306,
       "word": "白鹿开口即破音",
@@ -3379,12 +3443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77245,
-      "num": 222200,
-      "word": "第一名掉准考证的学生出现了",
-      "onboard_time": 1749223463,
+      "raw_hot": 77471,
+      "num": 166730,
+      "word": "江苏十三太保GDP谁领先",
+      "onboard_time": 1749224304,
       "rank": 35,
-      "category": "民生新闻,教育"
+      "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 76623,
+      "num": 164938,
+      "word": "俄大规模轰炸乌克兰军工企业",
+      "onboard_time": 1749224423,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76621,
@@ -3499,6 +3571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70057,
+      "num": 245320,
+      "word": "毛坦厂高考陪读妈妈回应质疑",
+      "onboard_time": 1749223703,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69374,
       "num": 160618,
       "word": "蔡徐坤新歌deadman曲风",
@@ -3584,6 +3664,14 @@
       "word": "英媒爆马斯克寻求在白宫留任遭拒",
       "onboard_time": 1749173841,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 63721,
+      "num": 322163,
+      "word": "特朗普马斯克翻脸比发推还快",
+      "onboard_time": 1749223583,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -3883,6 +3971,14 @@
       "category": "读书作家,教育"
     },
     {
+      "raw_hot": 41651,
+      "num": 198262,
+      "word": "天文科普",
+      "onboard_time": 1749223523,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 41343,
       "num": 391512,
       "word": "女童被虐致死案生父不认故意伤害",
@@ -3923,14 +4019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37231,
-      "num": 284927,
-      "word": "特朗普说现在不太想和马斯克说话",
-      "onboard_time": 1749223224,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37179,
       "num": 606862,
       "word": "博主称每天摸书10分钟智商提升20分",
@@ -3961,6 +4049,14 @@
       "onboard_time": 1749149174,
       "rank": 14,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 35070,
+      "num": 1004652,
+      "word": "高考学子给荔高粽",
+      "onboard_time": 1749222924,
+      "rank": 2,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 34909,
@@ -4041,14 +4137,6 @@
       "onboard_time": 1749210381,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 31389,
-      "num": 198262,
-      "word": "天文科普",
-      "onboard_time": 1749223523,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 31338,
@@ -4275,14 +4363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17350,
-      "num": 715246,
-      "word": "高考学子给荔高粽",
-      "onboard_time": 1749222924,
-      "rank": 2,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 17337,
       "num": 156166,
       "word": "WE对战KSG",
@@ -4369,6 +4449,14 @@
       "onboard_time": 1749151754,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10092,
+      "num": 244809,
+      "word": "为何深夜刷手机越刷越精神",
+      "onboard_time": 1749223884,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 7749,
