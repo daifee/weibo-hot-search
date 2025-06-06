@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749202114118,
+  "endTime": 1749202931202,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1993355,
-      "num": 1993355,
+      "raw_hot": 2034551,
+      "num": 2034551,
       "word": "关晓彤高考数学131分",
       "onboard_time": 1749197242,
       "rank": 8,
@@ -153,6 +153,14 @@
       "onboard_time": 1749200242,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 782316,
+      "num": 519185,
+      "word": "陈乔恩全身针雕保养法引热议",
+      "onboard_time": 1749200540,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 772050,
@@ -289,14 +297,6 @@
       "onboard_time": 1749196041,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 555040,
-      "num": 519185,
-      "word": "陈乔恩全身针雕保养法引热议",
-      "onboard_time": 1749200540,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 547112,
@@ -467,6 +467,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 416753,
+      "num": 416753,
+      "word": "女子把85万扔在了坟头草丛垃圾桶",
+      "onboard_time": 1749200121,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 410441,
+      "num": 410441,
+      "word": "基辅遭俄军大规模袭击",
+      "onboard_time": 1749200480,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 396550,
       "num": 435517,
       "word": "歌手2025总监回应马嘉祺晋级争议",
@@ -537,6 +553,14 @@
       "onboard_time": 1749195381,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352117,
+      "num": 352117,
+      "word": "张婧仪美成啥样了",
+      "onboard_time": 1749201381,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 346453,
@@ -611,14 +635,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 325763,
-      "num": 325763,
-      "word": "基辅遭俄军大规模袭击",
-      "onboard_time": 1749200480,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 311247,
       "num": 311247,
       "word": "黄子韬这一巴掌",
@@ -689,14 +705,6 @@
       "onboard_time": 1749183861,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 284052,
-      "num": 284052,
-      "word": "女子把85万扔在了坟头草丛垃圾桶",
-      "onboard_time": 1749200121,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283066,
@@ -795,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239935,
+      "num": 378853,
+      "word": "两世仇村百余年互不往来不通婚",
+      "onboard_time": 1749201921,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235755,
       "num": 235755,
       "word": "中美元首通话内容",
@@ -835,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228956,
+      "num": 228956,
+      "word": "韦神 学海无牙",
+      "onboard_time": 1749199102,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 228668,
       "num": 228668,
       "word": "perkz退役",
@@ -849,6 +873,14 @@
       "onboard_time": 1749174858,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223923,
+      "num": 223923,
+      "word": "高考锦鲤",
+      "onboard_time": 1749202282,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 222579,
@@ -889,14 +921,6 @@
       "onboard_time": 1749166519,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 217046,
-      "num": 217046,
-      "word": "张婧仪美成啥样了",
-      "onboard_time": 1749201381,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 216608,
@@ -1011,6 +1035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205572,
+      "num": 218077,
+      "word": "郑晓龙谈肖战",
+      "onboard_time": 1749201800,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205522,
       "num": 205522,
       "word": "华为Pura80长焦将有新突破",
@@ -1123,20 +1155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194534,
+      "num": 214639,
+      "word": "章若楠海边白裙",
+      "onboard_time": 1749202162,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 194273,
       "num": 194273,
       "word": "王奕给我化的妆",
       "onboard_time": 1749140239,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193947,
-      "num": 193947,
-      "word": "韦神 学海无牙",
-      "onboard_time": 1749199102,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 193746,
@@ -1227,20 +1259,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187342,
+      "num": 187342,
+      "word": "邓萃雯把李佳航塞给李晟",
+      "onboard_time": 1749202401,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187162,
       "num": 523817,
       "word": "特斯拉市值一夜蒸发超万亿",
       "onboard_time": 1749191181,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 187134,
-      "num": 187134,
-      "word": "郑晓龙谈肖战",
-      "onboard_time": 1749201800,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 186222,
@@ -1387,6 +1419,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 162885,
+      "num": 162885,
+      "word": "全运会男篮",
+      "onboard_time": 1749202101,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162260,
       "num": 162260,
       "word": "一集亲亲两集结婚三集洞房",
@@ -1457,14 +1497,6 @@
       "onboard_time": 1749192621,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156341,
-      "num": 209924,
-      "word": "两世仇村百余年互不往来不通婚",
-      "onboard_time": 1749201921,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155341,
@@ -1755,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138136,
+      "num": 138136,
+      "word": "王一珩买断自己原拍把我当外人",
+      "onboard_time": 1749202761,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137584,
       "num": 137584,
       "word": "藏海传长尾效应",
@@ -1865,6 +1905,14 @@
       "onboard_time": 1749131302,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126446,
+      "num": 126446,
+      "word": "北京WBG对战成都GG",
+      "onboard_time": 1749202881,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 125887,
@@ -2171,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93583,
+      "num": 164030,
+      "word": "星穹铁道大猫拎小猫",
+      "onboard_time": 1749202401,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93403,
       "num": 93403,
       "word": "高芙vs布瓦松",
@@ -2201,6 +2257,14 @@
       "onboard_time": 1749122301,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89577,
+      "num": 390197,
+      "word": "粉丝称Labubu根据喜好溢价很正常",
+      "onboard_time": 1749201021,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89001,
@@ -2403,6 +2467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64263,
+      "num": 222972,
+      "word": "爸爸把游戏上升到了不该有的高度",
+      "onboard_time": 1749201080,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63817,
       "num": 63817,
       "word": "美交通部长威胁取消40亿美金额外拨款",
@@ -2467,20 +2539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54398,
+      "num": 402641,
+      "word": "一路加州一路奇遇",
+      "onboard_time": 1749201080,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 53588,
       "num": 323167,
       "word": "特朗普马斯克好像唱了一首跳楼机",
       "onboard_time": 1749180200,
       "rank": 29,
       "category": "国际时政,国内时政"
-    },
-    {
-      "raw_hot": 53033,
-      "num": 222972,
-      "word": "爸爸把游戏上升到了不该有的高度",
-      "onboard_time": 1749201080,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 52356,
@@ -2505,14 +2577,6 @@
       "onboard_time": 1749180741,
       "rank": 27,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 51637,
-      "num": 402641,
-      "word": "一路加州一路奇遇",
-      "onboard_time": 1749201080,
-      "rank": 15,
-      "category": "旅游"
     },
     {
       "raw_hot": 50146,
@@ -2561,6 +2625,14 @@
       "onboard_time": 1749198440,
       "rank": 28,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 48366,
+      "num": 166697,
+      "word": "男子被毒蛇咬伤忍痛去抓又来一口",
+      "onboard_time": 1749202821,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46961,
@@ -2633,6 +2705,14 @@
       "onboard_time": 1749178760,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 38668,
+      "num": 461039,
+      "word": "起底员工发烧请假遭HR辱骂涉事公司",
+      "onboard_time": 1749202282,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37179,
@@ -2723,6 +2803,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 29751,
+      "num": 513958,
+      "word": "各科老师的高考祝福语",
+      "onboard_time": 1749201441,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 29545,
       "num": 275306,
       "word": "恋与制作人为高考加油",
@@ -2753,14 +2841,6 @@
       "onboard_time": 1749151514,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28232,
-      "num": 390197,
-      "word": "粉丝称Labubu根据喜好溢价很正常",
-      "onboard_time": 1749201021,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27784,
@@ -2851,14 +2931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16386,
-      "num": 513958,
-      "word": "各科老师的高考祝福语",
-      "onboard_time": 1749201441,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 15931,
       "num": 16971,
       "word": "四十七开机",
@@ -2905,6 +2977,14 @@
       "onboard_time": 1749151754,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7749,
+      "num": 281520,
+      "word": "高考前身份证丢了怎么办",
+      "onboard_time": 1749202282,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 7312,
