@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749241763829,
+  "endTime": 1749242573515,
   "band_list": [
     {
       "raw_hot": 2010386,
@@ -547,12 +547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25789,
+      "num": 23240,
+      "word": "白象宣布多半系列产品更名",
+      "onboard_time": 1749240194,
+      "rank": 23,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 24485,
       "num": 30762,
       "word": "高考好运玄学",
       "onboard_time": 1749233656,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 23509,
+      "num": 29325,
+      "word": "比赛第一 友谊第十四",
+      "onboard_time": 1749233297,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 22047,
@@ -563,20 +579,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 22013,
+      "num": 29325,
+      "word": "阿尔卡拉斯连续两年进法网决赛",
+      "onboard_time": 1749225563,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 21933,
       "num": 29325,
       "word": "张真源从清纯小狗变朋克",
       "onboard_time": 1749237315,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21893,
-      "num": 21893,
-      "word": "白象宣布多半系列产品更名",
-      "onboard_time": 1749240194,
-      "rank": 23,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 21158,
@@ -595,19 +611,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20415,
-      "num": 29325,
-      "word": "比赛第一 友谊第十四",
-      "onboard_time": 1749233297,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 20120,
+      "num": 20120,
+      "word": "LABUBU是年轻人的茅台",
+      "onboard_time": 1749240493,
+      "rank": 38,
+      "category": "动漫,财经"
     },
     {
-      "raw_hot": 19142,
-      "num": 29325,
-      "word": "阿尔卡拉斯连续两年进法网决赛",
-      "onboard_time": 1749225563,
-      "rank": 49,
+      "raw_hot": 19437,
+      "num": 19437,
+      "word": "隋文静韩聪复出",
+      "onboard_time": 1749240194,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -627,22 +643,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16830,
-      "num": 16830,
-      "word": "LABUBU是年轻人的茅台",
-      "onboard_time": 1749240493,
-      "rank": 38,
-      "category": "动漫,财经"
-    },
-    {
-      "raw_hot": 15569,
-      "num": 15569,
-      "word": "隋文静韩聪复出",
-      "onboard_time": 1749240194,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 14908,
       "num": 59885,
       "word": "贝克汉姆用苏州话给苏州加油",
@@ -651,8 +651,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13850,
-      "num": 14900,
+      "raw_hot": 14479,
+      "num": 15067,
       "word": "绝区零超话",
       "onboard_time": 1749239354,
       "rank": 49,
@@ -667,8 +667,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 8840,
-      "num": 68223,
+      "raw_hot": 10179,
+      "num": 86938,
       "word": "高考学子给荔高粽",
       "onboard_time": 1749222924,
       "rank": 2,
