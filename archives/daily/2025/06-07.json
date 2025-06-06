@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749235794868,
+  "endTime": 1749237718090,
   "band_list": [
     {
       "raw_hot": 2010386,
@@ -217,6 +217,14 @@
       "onboard_time": 1749221606,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 144074,
+      "num": 70583,
+      "word": "单依纯李白 高考禁曲",
+      "onboard_time": 1749236115,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 139224,
@@ -483,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38525,
+      "num": 38525,
+      "word": "特朗普世上无难事只要肯放弃",
+      "onboard_time": 1749236294,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35160,
       "num": 35160,
       "word": "易梦玲格纹比基尼",
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26215,
+      "num": 26215,
+      "word": "陈楚生 凡人诀",
+      "onboard_time": 1749236894,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24485,
       "num": 30762,
       "word": "高考好运玄学",
@@ -531,10 +555,50 @@
       "category": "教育"
     },
     {
+      "raw_hot": 22047,
+      "num": 24563,
+      "word": "马柏全捏捏手打招呼",
+      "onboard_time": 1749237315,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21933,
+      "num": 24563,
+      "word": "张真源从清纯小狗变朋克",
+      "onboard_time": 1749237315,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21158,
+      "num": 24560,
+      "word": "钟楚曦公主抱宋佳转圈",
+      "onboard_time": 1749236894,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20788,
+      "num": 24561,
+      "word": "believer",
+      "onboard_time": 1749237015,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20415,
       "num": 29163,
       "word": "比赛第一 友谊第十四",
       "onboard_time": 1749233297,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19142,
+      "num": 24554,
+      "word": "阿尔卡拉斯连续两年进法网决赛",
+      "onboard_time": 1749225563,
       "rank": 49,
       "category": "体育"
     },

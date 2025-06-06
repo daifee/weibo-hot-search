@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749235794868,
+  "endTime": 1749237718090,
   "band_list": [
     {
       "raw_hot": 10666191,
@@ -11507,6 +11507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144074,
+      "num": 70583,
+      "word": "单依纯李白 高考禁曲",
+      "onboard_time": 1749236115,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144010,
       "num": 144010,
       "word": "孙颖莎潘展乐郑钦文童年照好可爱",
@@ -19771,6 +19779,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 38525,
+      "num": 38525,
+      "word": "特朗普世上无难事只要肯放弃",
+      "onboard_time": 1749236294,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38265,
       "num": 190173,
       "word": "高考前按部就班比突击更重要",
@@ -20931,6 +20947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26215,
+      "num": 26215,
+      "word": "陈楚生 凡人诀",
+      "onboard_time": 1749236894,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26067,
       "num": 219928,
       "word": "蚊子更喜欢叮体温高的人吗",
@@ -21307,12 +21331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22047,
+      "num": 24563,
+      "word": "马柏全捏捏手打招呼",
+      "onboard_time": 1749237315,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 21970,
       "num": 191175,
       "word": "女子被蛇咬身亡致命时间线",
       "onboard_time": 1749115279,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21933,
+      "num": 24563,
+      "word": "张真源从清纯小狗变朋克",
+      "onboard_time": 1749237315,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 21877,
@@ -21427,6 +21467,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 21158,
+      "num": 24560,
+      "word": "钟楚曦公主抱宋佳转圈",
+      "onboard_time": 1749236894,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 20972,
       "num": 197350,
       "word": "如何让自己长期保持生命力",
@@ -21449,6 +21497,14 @@
       "onboard_time": 1748939541,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20788,
+      "num": 24561,
+      "word": "believer",
+      "onboard_time": 1749237015,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 20741,
@@ -21601,6 +21657,14 @@
       "onboard_time": 1749208160,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 19142,
+      "num": 24554,
+      "word": "阿尔卡拉斯连续两年进法网决赛",
+      "onboard_time": 1749225563,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 19024,
