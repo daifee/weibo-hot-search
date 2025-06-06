@@ -1,0 +1,410 @@
+{
+  "runTime": 1749199644788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 820952,
+        "num": 1131352,
+        "word": "员工发烧37.9度请假遭HR辱骂",
+        "onboard_time": 1749184343,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1867526,
+        "num": 1062186,
+        "word": "难看",
+        "onboard_time": 1749189142,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 761870,
+        "num": 761870,
+        "word": "Labubu设计师曾失意30年",
+        "onboard_time": 1749195861,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 845532,
+        "num": 716936,
+        "word": "关晓彤高考数学131分",
+        "onboard_time": 1749197242,
+        "rank": 3,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 631204,
+        "num": 631204,
+        "word": "韦神",
+        "onboard_time": 1749187461,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 578546,
+        "num": 578546,
+        "word": "女子被银环蛇咬伤2年仍有后遗症",
+        "onboard_time": 1749196041,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670958,
+        "num": 577573,
+        "word": "关晓彤高考前复习3个月考了552分",
+        "onboard_time": 1749191963,
+        "rank": 6,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 25084,
+        "num": 576521,
+        "word": "中国时尚产业盛典",
+        "onboard_time": 1749196761,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131377,
+        "num": 574295,
+        "word": "整个高中最浪漫的数学题",
+        "onboard_time": 1749199102,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 27698,
+        "num": 572718,
+        "word": "高考期间中午应该注意点啥",
+        "onboard_time": 1749198381,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 71992,
+        "num": 571699,
+        "word": "未可别太宠白鹿了",
+        "onboard_time": 1749197122,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 571245,
+        "num": 571245,
+        "word": "特朗普马斯克公开骂战",
+        "onboard_time": 1749166100,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 483483,
+        "num": 483483,
+        "word": "labubu牙套",
+        "onboard_time": 1749191061,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 413849,
+        "num": 413849,
+        "word": "浪姐 没苦硬吃",
+        "onboard_time": 1749187941,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124203,
+        "num": 411599,
+        "word": "三亚医生为何看不出游客被蛇咬伤",
+        "onboard_time": 1749198501,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475450,
+        "num": 411435,
+        "word": "白鹿弥补了仙侠没有七分裤的遗憾",
+        "onboard_time": 1749196761,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410179,
+        "num": 410179,
+        "word": "WTT大满贯取消强制参赛",
+        "onboard_time": 1749195440,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323677,
+        "num": 383434,
+        "word": "侯佩岑和管乐爸妈聊的不知天地为何物",
+        "onboard_time": 1749195381,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31338,
+        "num": 377942,
+        "word": "脑梗患者为何逐渐年轻化",
+        "onboard_time": 1749197481,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 377768,
+        "num": 377768,
+        "word": "印度医生被强奸犯家属绑在树上殴打",
+        "onboard_time": 1749166159,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 374577,
+        "num": 374577,
+        "word": "台湾青年因领大陆定居证被注销台籍",
+        "onboard_time": 1749196041,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 284350,
+        "num": 284350,
+        "word": "丁程鑫减肥减到113斤",
+        "onboard_time": 1749191722,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280812,
+        "num": 280812,
+        "word": "孙莉黄多多机场路透",
+        "onboard_time": 1749198321,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276032,
+        "num": 276032,
+        "word": "高考时间",
+        "onboard_time": 1749183503,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251592,
+        "num": 251592,
+        "word": "谁给迪丽热巴张凌赫递本子就当为了我",
+        "onboard_time": 1749196401,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226134,
+        "num": 226134,
+        "word": "明天高考",
+        "onboard_time": 1749183442,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206050,
+        "num": 206050,
+        "word": "爱泼斯坦萝莉岛超百政商名人涉案",
+        "onboard_time": 1749196280,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204889,
+        "num": 204889,
+        "word": "张婧仪上初中肖战大二",
+        "onboard_time": 1749191661,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190440,
+        "num": 190440,
+        "word": "临江仙开播",
+        "onboard_time": 1749183022,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49105,
+        "num": 186997,
+        "word": "为何现在人们越来越害怕接电话了",
+        "onboard_time": 1749198440,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 184270,
+        "num": 184270,
+        "word": "蔡徐坤回国",
+        "onboard_time": 1749184282,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170692,
+        "num": 170692,
+        "word": "家属回应网友关心韦神牙齿问题",
+        "onboard_time": 1749196943,
+        "rank": 31,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 163861,
+        "num": 163861,
+        "word": "1335万人明天高考",
+        "onboard_time": 1749165860,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163851,
+        "num": 163851,
+        "word": "于正争取今晚破8000明天破万",
+        "onboard_time": 1749197122,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162767,
+        "num": 162767,
+        "word": "国足最后一个主场已停止退票",
+        "onboard_time": 1749194601,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155002,
+        "num": 155002,
+        "word": "前妻让张纪中别再惹她",
+        "onboard_time": 1749190041,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151108,
+        "num": 151108,
+        "word": "谢娜乘风创始人的节奏败给贺峻霖了",
+        "onboard_time": 1749198141,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146976,
+        "num": 146976,
+        "word": "新还珠格格",
+        "onboard_time": 1749187641,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141649,
+        "num": 141649,
+        "word": "第五人格赛事",
+        "onboard_time": 1749199399,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47407,
+        "num": 140230,
+        "word": "孙杨相信高考考生一定行",
+        "onboard_time": 1749198501,
+        "rank": 39,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 139200,
+        "num": 139200,
+        "word": "韦神 学海无牙",
+        "onboard_time": 1749199102,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138324,
+        "num": 138324,
+        "word": "新娘说馒头上太早导致宾客提前离场",
+        "onboard_time": 1749183982,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137584,
+        "num": 137584,
+        "word": "藏海传长尾效应",
+        "onboard_time": 1749199341,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135826,
+        "num": 135826,
+        "word": "黄晓明在中餐厅最发愁的一次",
+        "onboard_time": 1749195861,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133138,
+        "num": 133138,
+        "word": "李现高考数学从28分到一百多分",
+        "onboard_time": 1749192741,
+        "rank": 44,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 131996,
+        "num": 131996,
+        "word": "马斯克发起是否创建新政党投票",
+        "onboard_time": 1749195260,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166951,
+        "num": 131717,
+        "word": "观音搂着哪吒",
+        "onboard_time": 1749198740,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125253,
+        "num": 125253,
+        "word": "毛巾少爷哭着回家继承家业",
+        "onboard_time": 1749197421,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124403,
+        "num": 124403,
+        "word": "宋亚轩要给后槽牙咬碎了",
+        "onboard_time": 1749199582,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120552,
+        "num": 120552,
+        "word": "WTT为奥运冠军设立金卡",
+        "onboard_time": 1749197722,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同呵护好孩子的眼睛#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1749141197234,
-  "endTime": 1749198824368,
+  "endTime": 1749199644788,
   "band_list": [
     {
       "raw_hot": 3923701,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 845532,
+      "num": 716936,
+      "word": "关晓彤高考数学131分",
+      "onboard_time": 1749197242,
+      "rank": 8,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 804908,
       "num": 804908,
       "word": "当迪拜人买了labubu",
@@ -147,20 +155,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 761870,
+      "num": 761870,
+      "word": "Labubu设计师曾失意30年",
+      "onboard_time": 1749195861,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 739354,
       "num": 689941,
       "word": "关晓彤高考前复习3个月考了552分",
       "onboard_time": 1749191963,
       "rank": 13,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 738347,
-      "num": 738347,
-      "word": "Labubu设计师曾失意30年",
-      "onboard_time": 1749195861,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 702511,
@@ -267,20 +275,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 578546,
+      "num": 578546,
+      "word": "女子被银环蛇咬伤2年仍有后遗症",
+      "onboard_time": 1749196041,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 547112,
       "num": 607243,
       "word": "种地吧麦田音乐会导览直播",
       "onboard_time": 1749183861,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 539021,
-      "num": 539021,
-      "word": "女子被银环蛇咬伤2年仍有后遗症",
-      "onboard_time": 1749196041,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 526741,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 507984,
-      "num": 395863,
+      "num": 411435,
       "word": "白鹿弥补了仙侠没有七分裤的遗憾",
       "onboard_time": 1749196761,
       "rank": 17,
@@ -467,6 +475,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 374577,
+      "num": 519905,
+      "word": "台湾青年因领大陆定居证被注销台籍",
+      "onboard_time": 1749196041,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 364353,
       "num": 364353,
       "word": "特朗普称马斯克疯了",
@@ -491,16 +507,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359567,
-      "num": 519905,
-      "word": "台湾青年因领大陆定居证被注销台籍",
-      "onboard_time": 1749196041,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 358785,
-      "num": 358785,
+      "num": 383434,
       "word": "侯佩岑和管乐爸妈聊的不知天地为何物",
       "onboard_time": 1749195381,
       "rank": 43,
@@ -561,14 +569,6 @@
       "onboard_time": 1749177680,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 328939,
-      "num": 521808,
-      "word": "关晓彤高考数学131分",
-      "onboard_time": 1749197242,
-      "rank": 8,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 327358,
@@ -665,6 +665,14 @@
       "onboard_time": 1749188121,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280812,
+      "num": 280812,
+      "word": "孙莉黄多多机场路透",
+      "onboard_time": 1749198321,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 280684,
@@ -803,14 +811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 224874,
-      "num": 224874,
-      "word": "孙莉黄多多机场路透",
-      "onboard_time": 1749198321,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222579,
       "num": 222579,
       "word": "张新成演技",
@@ -937,6 +937,14 @@
       "onboard_time": 1749175460,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206050,
+      "num": 206050,
+      "word": "爱泼斯坦萝莉岛超百政商名人涉案",
+      "onboard_time": 1749196280,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 205955,
@@ -1139,14 +1147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188100,
-      "num": 188100,
-      "word": "爱泼斯坦萝莉岛超百政商名人涉案",
-      "onboard_time": 1749196280,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 187162,
       "num": 523817,
       "word": "特斯拉市值一夜蒸发超万亿",
@@ -1241,6 +1241,14 @@
       "onboard_time": 1749128541,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 166951,
+      "num": 131717,
+      "word": "观音搂着哪吒",
+      "onboard_time": 1749198740,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 166723,
@@ -1539,6 +1547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141649,
+      "num": 141649,
+      "word": "第五人格赛事",
+      "onboard_time": 1749199399,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141240,
       "num": 141240,
       "word": "白宫称马斯克言论不影响特朗普立场",
@@ -1603,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139200,
+      "num": 139200,
+      "word": "韦神 学海无牙",
+      "onboard_time": 1749199102,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139151,
       "num": 139151,
       "word": "Gr对战Wolves",
@@ -1625,6 +1649,22 @@
       "onboard_time": 1749115402,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137584,
+      "num": 137584,
+      "word": "藏海传长尾效应",
+      "onboard_time": 1749199341,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135826,
+      "num": 135826,
+      "word": "黄晓明在中餐厅最发愁的一次",
+      "onboard_time": 1749195861,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 135196,
@@ -1699,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131377,
+      "num": 574295,
+      "word": "整个高中最浪漫的数学题",
+      "onboard_time": 1749199102,
+      "rank": 8,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 131257,
       "num": 131257,
       "word": "印尼门将",
@@ -1721,6 +1769,22 @@
       "onboard_time": 1749188482,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124403,
+      "num": 124403,
+      "word": "宋亚轩要给后槽牙咬碎了",
+      "onboard_time": 1749199582,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124203,
+      "num": 411599,
+      "word": "三亚医生为何看不出游客被蛇咬伤",
+      "onboard_time": 1749198501,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122254,
@@ -1963,14 +2027,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97152,
-      "num": 284668,
-      "word": "三亚医生为何看不出游客被蛇咬伤",
-      "onboard_time": 1749198501,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95446,
       "num": 174592,
       "word": "齐司礼默而闻声",
@@ -2155,6 +2211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 71992,
+      "num": 571699,
+      "word": "未可别太宠白鹿了",
+      "onboard_time": 1749197122,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71854,
       "num": 431247,
       "word": "内蒙古3岁女童被虐死案二审开庭",
@@ -2209,14 +2273,6 @@
       "onboard_time": 1749165438,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64984,
-      "num": 508196,
-      "word": "未可别太宠白鹿了",
-      "onboard_time": 1749197122,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 63817,
@@ -2355,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49105,
+      "num": 221892,
+      "word": "为何现在人们越来越害怕接电话了",
+      "onboard_time": 1749198440,
+      "rank": 28,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 46961,
       "num": 46961,
       "word": "韦世豪状态",
@@ -2417,14 +2481,6 @@
       "onboard_time": 1749142757,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40996,
-      "num": 221892,
-      "word": "为何现在人们越来越害怕接电话了",
-      "onboard_time": 1749198440,
-      "rank": 28,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 40388,
@@ -2499,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31338,
+      "num": 377942,
+      "word": "脑梗患者为何逐渐年轻化",
+      "onboard_time": 1749197481,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30955,
       "num": 212488,
       "word": "侯佩岑说自己不是讨好型人格",
@@ -2539,12 +2603,12 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 27751,
-      "num": 360989,
-      "word": "脑梗患者为何逐渐年轻化",
-      "onboard_time": 1749197481,
-      "rank": 19,
-      "category": "健康医疗"
+      "raw_hot": 27698,
+      "num": 572718,
+      "word": "高考期间中午应该注意点啥",
+      "onboard_time": 1749198381,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 27000,
@@ -2617,14 +2681,6 @@
       "onboard_time": 1749148334,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15550,
-      "num": 503088,
-      "word": "高考期间中午应该注意点啥",
-      "onboard_time": 1749198381,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 13981,
