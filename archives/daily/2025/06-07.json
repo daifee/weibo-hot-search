@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749248737206,
+  "endTime": 1749249770453,
   "band_list": [
     {
       "raw_hot": 2010386,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116753,
+      "num": 116753,
+      "word": "特朗普世上无难事只要肯放弃",
+      "onboard_time": 1749236294,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114162,
       "num": 114162,
       "word": "00后的茅台",
@@ -315,8 +323,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108055,
-      "num": 108055,
+      "raw_hot": 109516,
+      "num": 109516,
       "word": "高考时间",
       "onboard_time": 1749183503,
       "rank": 37,
@@ -355,20 +363,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95910,
+      "num": 58137,
+      "word": "缺爱的人为什么很难进入亲密关系",
+      "onboard_time": 1749231257,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94654,
       "num": 94654,
       "word": "JDG对战TTG",
       "onboard_time": 1749215787,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92359,
-      "num": 92359,
-      "word": "特朗普世上无难事只要肯放弃",
-      "onboard_time": 1749236294,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 89609,
@@ -395,20 +403,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84361,
+      "num": 43351,
+      "word": "这可能是今年最硬核的招生广告",
+      "onboard_time": 1749221606,
+      "rank": 43,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 83801,
       "num": 85611,
       "word": "枯萎之花上的眼泪",
       "onboard_time": 1749225683,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 78777,
-      "num": 58137,
-      "word": "缺爱的人为什么很难进入亲密关系",
-      "onboard_time": 1749231257,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 76476,
@@ -459,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62347,
-      "num": 43351,
-      "word": "这可能是今年最硬核的招生广告",
-      "onboard_time": 1749221606,
-      "rank": 43,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 52664,
       "num": 99079,
       "word": "日本北海道附近海域连发强震",
@@ -475,12 +475,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 50074,
+      "num": 50074,
+      "word": "比赛第一 友谊第十四",
+      "onboard_time": 1749233297,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46625,
       "num": 60584,
       "word": "特朗普马斯克公开骂战",
       "onboard_time": 1749166100,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46578,
+      "num": 42276,
+      "word": "金晨发夹越萌开车越猛",
+      "onboard_time": 1749244754,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 42276,
@@ -499,12 +515,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35846,
-      "num": 32199,
-      "word": "金晨发夹越萌开车越猛",
-      "onboard_time": 1749244754,
-      "rank": 49,
+      "raw_hot": 41190,
+      "num": 41190,
+      "word": "韦东奕粉丝破百万",
+      "onboard_time": 1749246494,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38771,
+      "num": 38771,
+      "word": "白象宣布多半系列产品更名",
+      "onboard_time": 1749240194,
+      "rank": 23,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 37256,
+      "num": 37256,
+      "word": "谢娜问呼伦贝尔真有这么冷吗",
+      "onboard_time": 1749247516,
+      "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35403,
+      "num": 35403,
+      "word": "因7月太热高考自2003年起调整至6月",
+      "onboard_time": 1749248956,
+      "rank": 34,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 35160,
@@ -515,12 +555,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 34811,
-      "num": 31864,
-      "word": "白象宣布多半系列产品更名",
-      "onboard_time": 1749240194,
-      "rank": 23,
-      "category": "民生新闻,财经"
+      "raw_hot": 34374,
+      "num": 34374,
+      "word": "俄乌局势或出现新变数",
+      "onboard_time": 1749236714,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 33623,
+      "num": 33623,
+      "word": "于正回应临江仙争议",
+      "onboard_time": 1749245714,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 33371,
@@ -531,19 +579,19 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 32642,
-      "num": 32642,
-      "word": "比赛第一 友谊第十四",
-      "onboard_time": 1749233297,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 32590,
       "num": 722810,
       "word": "六六给荔节",
       "onboard_time": 1749222803,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32192,
+      "num": 33621,
+      "word": "咱家有矿心里不慌",
+      "onboard_time": 1749249135,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -555,28 +603,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 28957,
-      "num": 29325,
-      "word": "俄乌局势或出现新变数",
-      "onboard_time": 1749236714,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 27419,
+      "num": 297319,
+      "word": "高考学子给荔高粽",
+      "onboard_time": 1749222924,
+      "rank": 2,
+      "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 28089,
-      "num": 28089,
-      "word": "于正回应临江仙争议",
-      "onboard_time": 1749245714,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 27994,
-      "num": 27994,
-      "word": "韦东奕粉丝破百万",
-      "onboard_time": 1749246494,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 27048,
+      "num": 33605,
+      "word": "今日高考",
+      "onboard_time": 1749183442,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 26328,
@@ -596,19 +636,11 @@
     },
     {
       "raw_hot": 25162,
-      "num": 29325,
+      "num": 33595,
       "word": "阿尔卡拉斯连续两年进法网决赛",
       "onboard_time": 1749225563,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24543,
-      "num": 25789,
-      "word": "谢娜问呼伦贝尔真有这么冷吗",
-      "onboard_time": 1749247516,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 24485,
@@ -627,6 +659,14 @@
       "category": "动漫,财经"
     },
     {
+      "raw_hot": 22414,
+      "num": 33588,
+      "word": "隋文静韩聪复出",
+      "onboard_time": 1749240194,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22047,
       "num": 29325,
       "word": "马柏全捏捏手打招呼",
@@ -641,6 +681,14 @@
       "onboard_time": 1749237315,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21593,
+      "num": 33578,
+      "word": "Circle上市首日暴涨168.48%",
+      "onboard_time": 1749243914,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 21158,
@@ -659,44 +707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20698,
-      "num": 223719,
-      "word": "高考学子给荔高粽",
-      "onboard_time": 1749222924,
-      "rank": 2,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 19437,
-      "num": 25772,
-      "word": "隋文静韩聪复出",
-      "onboard_time": 1749240194,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19022,
       "num": 60511,
       "word": "一人一张高考祝福",
       "onboard_time": 1749228678,
       "rank": 49,
       "category": "动漫,教育"
-    },
-    {
-      "raw_hot": 18617,
-      "num": 25777,
-      "word": "Circle上市首日暴涨168.48%",
-      "onboard_time": 1749243914,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 17739,
-      "num": 25766,
-      "word": "今日高考",
-      "onboard_time": 1749183442,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 15138,
