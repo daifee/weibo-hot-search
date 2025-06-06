@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749252321064,
+  "endTime": 1749253189122,
   "band_list": [
     {
       "raw_hot": 2010386,
@@ -19,8 +19,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1419751,
+      "num": 1419751,
+      "word": "高考",
+      "onboard_time": 1749251598,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1051856,
-      "num": 232594,
+      "num": 306646,
       "word": "单依纯疑似报复李荣浩当年没转身",
       "onboard_time": 1749224962,
       "rank": 6,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 848661,
-      "num": 219765,
+      "num": 398583,
       "word": "范玮琪暴哭",
       "onboard_time": 1749220886,
       "rank": 8,
@@ -60,10 +68,18 @@
     },
     {
       "raw_hot": 465642,
-      "num": 202302,
+      "num": 241257,
       "word": "浙江女子牙疼切开脓肿发现20多种细菌",
       "onboard_time": 1749222325,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459729,
+      "num": 246435,
+      "word": "狗妈护崽将毒蛇断3截中毒不治身亡",
+      "onboard_time": 1749252258,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -75,12 +91,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 374142,
+      "num": 374142,
+      "word": "因7月太热高考自2003年起调整至6月",
+      "onboard_time": 1749248956,
+      "rank": 34,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 353452,
       "num": 201725,
       "word": "范玮琪回应破音",
       "onboard_time": 1749226702,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311779,
+      "num": 311779,
+      "word": "王者荣耀在歌手评论区回复",
+      "onboard_time": 1749250996,
+      "rank": 8,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 293432,
@@ -91,28 +123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287420,
-      "num": 287420,
-      "word": "高考",
-      "onboard_time": 1749251598,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
       "raw_hot": 272983,
       "num": 178363,
       "word": "GAI 大白嗓",
       "onboard_time": 1749213863,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264402,
-      "num": 185452,
-      "word": "狗妈护崽将毒蛇断3截中毒不治身亡",
-      "onboard_time": 1749252258,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260451,
@@ -145,22 +161,6 @@
       "onboard_time": 1749214404,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222447,
-      "num": 222447,
-      "word": "因7月太热高考自2003年起调整至6月",
-      "onboard_time": 1749248956,
-      "rank": 34,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 217532,
-      "num": 217532,
-      "word": "王者荣耀在歌手评论区回复",
-      "onboard_time": 1749250996,
-      "rank": 8,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 206195,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175642,
+      "num": 175642,
+      "word": "范玮琪",
+      "onboard_time": 1749252258,
+      "rank": 15,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 175359,
       "num": 175359,
       "word": "浙江考两次高考",
@@ -259,6 +267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158675,
+      "num": 158675,
+      "word": "特朗普世上无难事只要肯放弃",
+      "onboard_time": 1749236294,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144074,
       "num": 70583,
       "word": "单依纯李白 高考禁曲",
@@ -267,28 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139646,
+      "num": 139646,
+      "word": "晒娃背后的虐娃产业链",
+      "onboard_time": 1749251956,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139224,
       "num": 114163,
       "word": "耳帝",
       "onboard_time": 1749221364,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137472,
-      "num": 137472,
-      "word": "范玮琪",
-      "onboard_time": 1749252258,
-      "rank": 15,
-      "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 134735,
-      "num": 134735,
-      "word": "特朗普世上无难事只要肯放弃",
-      "onboard_time": 1749236294,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 132696,
@@ -371,12 +379,44 @@
       "category": "动漫,财经"
     },
     {
+      "raw_hot": 113793,
+      "num": 248944,
+      "word": "这是张桂梅第15次送考",
+      "onboard_time": 1749252378,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 113177,
       "num": 113177,
       "word": "绝意尽力了",
       "onboard_time": 1749224184,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109123,
+      "num": 109123,
+      "word": "王者荣耀",
+      "onboard_time": 1749252858,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 108528,
+      "num": 108528,
+      "word": "缺爱的人为什么很难进入亲密关系",
+      "onboard_time": 1749231257,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 105512,
+      "num": 105512,
+      "word": "姐姐回应医科大学生患癌去世",
+      "onboard_time": 1749250996,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101985,
@@ -395,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100767,
-      "num": 80267,
-      "word": "缺爱的人为什么很难进入亲密关系",
-      "onboard_time": 1749231257,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 100189,
       "num": 94316,
       "word": "宁艺卓国内首个红毯造型",
@@ -419,6 +451,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96140,
+      "num": 96140,
+      "word": "高考第一天张桂梅的小喇叭又响了",
+      "onboard_time": 1749251237,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95598,
+      "num": 77744,
+      "word": "2008年故意考0分男子第四次参加高考",
+      "onboard_time": 1749252679,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94654,
       "num": 94654,
       "word": "JDG对战TTG",
@@ -433,6 +481,14 @@
       "onboard_time": 1749224124,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 87803,
+      "num": 76542,
+      "word": "水果里的高糖刺客",
+      "onboard_time": 1749251956,
+      "rank": 30,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 86300,
@@ -467,20 +523,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 81744,
-      "num": 81744,
-      "word": "晒娃背后的虐娃产业链",
-      "onboard_time": 1749251956,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 81373,
+      "num": 81373,
+      "word": "金晨发夹越萌开车越猛",
+      "onboard_time": 1749244754,
+      "rank": 49,
+      "category": "综艺"
     },
     {
-      "raw_hot": 77503,
-      "num": 56591,
-      "word": "水果里的高糖刺客",
-      "onboard_time": 1749251956,
-      "rank": 30,
-      "category": "美食,幽默"
+      "raw_hot": 77282,
+      "num": 146855,
+      "word": "白象宣布多半系列产品更名",
+      "onboard_time": 1749240194,
+      "rank": 23,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 76963,
@@ -507,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74658,
-      "num": 74658,
-      "word": "姐姐回应医科大学生患癌去世",
-      "onboard_time": 1749250996,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74440,
       "num": 71513,
       "word": "张婧仪宁艺卓同框",
@@ -528,6 +576,14 @@
       "word": "广州长隆回应马戏演员从火轮摔下",
       "onboard_time": 1749228560,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72639,
+      "num": 73634,
+      "word": "多路直击2025高考现场",
+      "onboard_time": 1749252498,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -547,36 +603,68 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68378,
-      "num": 68378,
-      "word": "金晨发夹越萌开车越猛",
-      "onboard_time": 1749244754,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 55971,
-      "num": 55971,
-      "word": "6月高考都23年了",
-      "onboard_time": 1749251956,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 54329,
-      "num": 54329,
+      "raw_hot": 69205,
+      "num": 69205,
       "word": "谢娜问呼伦贝尔真有这么冷吗",
       "onboard_time": 1749247516,
       "rank": 38,
       "category": "综艺"
     },
     {
-      "raw_hot": 53198,
-      "num": 53198,
+      "raw_hot": 69016,
+      "num": 69016,
+      "word": "藏海传导演谈肖战最超乎意料的戏",
+      "onboard_time": 1749249917,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65735,
+      "num": 65735,
+      "word": "于正回应临江仙争议",
+      "onboard_time": 1749245714,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65625,
+      "num": 60777,
+      "word": "谢娜我的短袖大礼服是不是穿不了啦",
+      "onboard_time": 1749250817,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62568,
+      "num": 62568,
+      "word": "梅德韦杰夫确认出战中网",
+      "onboard_time": 1749252378,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60542,
+      "num": 74655,
+      "word": "6月高考都23年了",
+      "onboard_time": 1749251956,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 58989,
+      "num": 58989,
       "word": "辛纳首进法网决赛",
       "onboard_time": 1749250517,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55785,
+      "num": 55785,
+      "word": "流浪猫假装自己有主人",
+      "onboard_time": 1749252556,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 52664,
@@ -587,14 +675,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 50334,
-      "num": 50334,
-      "word": "白象宣布多半系列产品更名",
-      "onboard_time": 1749240194,
-      "rank": 23,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 50074,
       "num": 50074,
       "word": "比赛第一 友谊第十四",
@@ -603,12 +683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49476,
-      "num": 49476,
-      "word": "高考第一天张桂梅的小喇叭又响了",
-      "onboard_time": 1749251237,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 50013,
+      "num": 50013,
+      "word": "福建人是怎么做到全省统一的",
+      "onboard_time": 1749253038,
+      "rank": 48,
+      "category": "幽默,科学科普"
     },
     {
       "raw_hot": 49398,
@@ -619,12 +699,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46712,
-      "num": 46712,
-      "word": "藏海传导演谈肖战最超乎意料的戏",
-      "onboard_time": 1749249917,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 49303,
+      "num": 49303,
+      "word": "雷军送高考祝福",
+      "onboard_time": 1749253099,
+      "rank": 49,
+      "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 47576,
+      "num": 669905,
+      "word": "高考学子给荔高粽",
+      "onboard_time": 1749222924,
+      "rank": 2,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 46625,
@@ -641,22 +729,6 @@
       "onboard_time": 1749251719,
       "rank": 44,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 44980,
-      "num": 44980,
-      "word": "于正回应临江仙争议",
-      "onboard_time": 1749245714,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 41620,
-      "num": 41620,
-      "word": "谢娜我的短袖大礼服是不是穿不了啦",
-      "onboard_time": 1749250817,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 41340,
@@ -721,14 +793,6 @@
       "onboard_time": 1749234915,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 31808,
-      "num": 395734,
-      "word": "高考学子给荔高粽",
-      "onboard_time": 1749222924,
-      "rank": 2,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 27048,
