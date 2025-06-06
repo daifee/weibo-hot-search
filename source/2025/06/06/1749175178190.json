@@ -1,0 +1,410 @@
+{
+  "runTime": 1749175178190,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1476932,
+        "num": 1476932,
+        "word": "爱泼斯坦",
+        "onboard_time": 1749170062,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1742092,
+        "num": 1427578,
+        "word": "特朗普马斯克公开骂战",
+        "onboard_time": 1749166100,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16085,
+        "num": 1296096,
+        "word": "有一种震撼叫祖国山河如画",
+        "onboard_time": 1749102078,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1265041,
+        "num": 1265041,
+        "word": "印度医生被强奸犯家属绑在树上殴打",
+        "onboard_time": 1749166159,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 664594,
+        "num": 664594,
+        "word": "光与夜之恋",
+        "onboard_time": 1749165319,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 581938,
+        "num": 581938,
+        "word": "1335万人明天高考",
+        "onboard_time": 1749165860,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 596201,
+        "num": 523481,
+        "word": "马斯克曝特朗普在爱泼斯坦的档案里",
+        "onboard_time": 1749168080,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 424229,
+        "num": 424229,
+        "word": "黄子韬徐艺洋跨国交换人生",
+        "onboard_time": 1749168142,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372385,
+        "num": 372385,
+        "word": "歌手2025总监回应马嘉祺晋级争议",
+        "onboard_time": 1749171203,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254619,
+        "num": 364691,
+        "word": "张艺兴用角色视角写了一封感谢信",
+        "onboard_time": 1749173420,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1719215,
+        "num": 364394,
+        "word": "女生怕例假影响高考服用避孕药",
+        "onboard_time": 1749171680,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 460709,
+        "num": 363201,
+        "word": "章子怡回复杨幂",
+        "onboard_time": 1749139460,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361745,
+        "num": 361745,
+        "word": "潘粤明说国足在家自己踢着玩儿吧",
+        "onboard_time": 1749172700,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346453,
+        "num": 346453,
+        "word": "24岁女子新婚俩月丈夫离世",
+        "onboard_time": 1749171680,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346390,
+        "num": 346390,
+        "word": "特朗普对马斯克非常失望",
+        "onboard_time": 1749165860,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305163,
+        "num": 305163,
+        "word": "官方通报女子被咬身亡时间线",
+        "onboard_time": 1749172881,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276374,
+        "num": 276374,
+        "word": "孟子义的包场数是白鹿曾舜晞生日",
+        "onboard_time": 1749170901,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258647,
+        "num": 258647,
+        "word": "34岁网红村花突发脑梗去世",
+        "onboard_time": 1749169101,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247693,
+        "num": 247693,
+        "word": "国足无缘2026世界杯",
+        "onboard_time": 1749138982,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187823,
+        "num": 231715,
+        "word": "爱奇艺赴山海",
+        "onboard_time": 1749166940,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508135,
+        "num": 230082,
+        "word": "月薪4k普通女生在广州真实现状",
+        "onboard_time": 1749169401,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225292,
+        "num": 225292,
+        "word": "光与夜之恋到明天去",
+        "onboard_time": 1749174858,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221251,
+        "num": 221251,
+        "word": "史上最弱国足当之无愧",
+        "onboard_time": 1749172822,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217875,
+        "num": 217875,
+        "word": "特朗普与马斯克决裂",
+        "onboard_time": 1749166519,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105000,
+        "num": 212302,
+        "word": "国足胜巴林才能避免垫底",
+        "onboard_time": 1749174439,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63733,
+        "num": 211477,
+        "word": "英媒爆马斯克寻求在白宫留任遭拒",
+        "onboard_time": 1749173841,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211233,
+        "num": 211233,
+        "word": "马斯克转发特朗普爱泼斯坦聚会视频",
+        "onboard_time": 1749173780,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175427,
+        "num": 210032,
+        "word": "赴山海排播失约网友要求退款",
+        "onboard_time": 1749135682,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133610,
+        "num": 209872,
+        "word": "藏海传曹公公饰演者是昆曲演员",
+        "onboard_time": 1749174080,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209865,
+        "num": 209865,
+        "word": "三只猫在玩银环蛇",
+        "onboard_time": 1749166339,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204549,
+        "num": 204549,
+        "word": "酒店回应上午11点退房下午4点入住",
+        "onboard_time": 1749166699,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190650,
+        "num": 190650,
+        "word": "首个满级QQ即将诞生",
+        "onboard_time": 1749132202,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174675,
+        "num": 174675,
+        "word": "医生建议减肥期间不要吃圣女果",
+        "onboard_time": 1749174260,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172581,
+        "num": 172581,
+        "word": "权志龙否认与李珠妍恋情传闻",
+        "onboard_time": 1749174681,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161732,
+        "num": 161732,
+        "word": "哥哥给妹妹编头发1年300多款不重样",
+        "onboard_time": 1749169341,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147418,
+        "num": 147418,
+        "word": "我国卫星互联网低轨卫星发射成功",
+        "onboard_time": 1749165499,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147116,
+        "num": 147116,
+        "word": "古尔邦节",
+        "onboard_time": 1749173901,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146182,
+        "num": 146182,
+        "word": "樊振东说自己是普通球迷",
+        "onboard_time": 1749171680,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71653,
+        "num": 140742,
+        "word": "马斯克说他只是不想让美国走向破产",
+        "onboard_time": 1749174500,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139655,
+        "num": 139655,
+        "word": "伊万 下课",
+        "onboard_time": 1749141438,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139339,
+        "num": 139339,
+        "word": "管泽元锐评国足",
+        "onboard_time": 1749171442,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133882,
+        "num": 133882,
+        "word": "山东老奶奶的笑又豪爽又治愈",
+        "onboard_time": 1749173600,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132249,
+        "num": 132249,
+        "word": "美国最有权和最有钱的两个人闹掰了",
+        "onboard_time": 1749171561,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120358,
+        "num": 120358,
+        "word": "绝区零",
+        "onboard_time": 1749174201,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119363,
+        "num": 119363,
+        "word": "高考 睡不着",
+        "onboard_time": 1749167541,
+        "rank": 44,
+        "category": "健康医疗,教育"
+      },
+      {
+        "raw_hot": 114977,
+        "num": 114977,
+        "word": "步行者vs雷霆",
+        "onboard_time": 1749171861,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110267,
+        "num": 110267,
+        "word": "女子三亚疑被蛇咬身亡家属再发声",
+        "onboard_time": 1749136702,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109661,
+        "num": 109661,
+        "word": "孟子义李昀锐包场支持临江仙",
+        "onboard_time": 1749169522,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109575,
+        "num": 109575,
+        "word": "于正直播说虞书欣很可爱",
+        "onboard_time": 1749175100,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95130,
+        "num": 109424,
+        "word": "张靓颖新歌九万字",
+        "onboard_time": 1749171381,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两山理念的生动实践#"
+    }
+  }
+}
