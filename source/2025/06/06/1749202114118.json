@@ -1,0 +1,410 @@
+{
+  "runTime": 1749202114118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1993355,
+        "num": 1993355,
+        "word": "关晓彤高考数学131分",
+        "onboard_time": 1749197242,
+        "rank": 0,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 959623,
+        "num": 959623,
+        "word": "Labubu设计师曾失意30年",
+        "onboard_time": 1749195861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21012,
+        "num": 763308,
+        "word": "青春华章重走西北角",
+        "onboard_time": 1749200781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1179087,
+        "num": 726918,
+        "word": "难看",
+        "onboard_time": 1749189142,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572324,
+        "num": 572324,
+        "word": "员工发烧37.9度请假遭HR辱骂",
+        "onboard_time": 1749184343,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525136,
+        "num": 525136,
+        "word": "女子被银环蛇咬伤2年仍有后遗症",
+        "onboard_time": 1749196041,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 798147,
+        "num": 523503,
+        "word": "酱园弄 明星大侦探",
+        "onboard_time": 1749200242,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 555040,
+        "num": 519185,
+        "word": "陈乔恩全身针雕保养法引热议",
+        "onboard_time": 1749200540,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335860,
+        "num": 517444,
+        "word": "台湾青年因领大陆定居证被注销台籍",
+        "onboard_time": 1749196041,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16386,
+        "num": 513958,
+        "word": "各科老师的高考祝福语",
+        "onboard_time": 1749201441,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 512626,
+        "num": 512626,
+        "word": "特朗普马斯克公开骂战",
+        "onboard_time": 1749166100,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 464262,
+        "num": 464262,
+        "word": "韦神",
+        "onboard_time": 1749187461,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 416904,
+        "num": 416904,
+        "word": "白鹿弥补了仙侠没有七分裤的遗憾",
+        "onboard_time": 1749196761,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101284,
+        "num": 411724,
+        "word": "整个高中最浪漫的数学题",
+        "onboard_time": 1749199102,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 71868,
+        "num": 406958,
+        "word": "男子转卖止疼药被以贩毒罪获刑6个月",
+        "onboard_time": 1749200601,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51637,
+        "num": 402641,
+        "word": "一路加州一路奇遇",
+        "onboard_time": 1749201080,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 54977,
+        "num": 393432,
+        "word": "未可别太宠白鹿了",
+        "onboard_time": 1749197122,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28232,
+        "num": 390197,
+        "word": "粉丝称Labubu根据喜好溢价很正常",
+        "onboard_time": 1749201021,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18054,
+        "num": 384367,
+        "word": "刷完牙就饿是什么病",
+        "onboard_time": 1749199942,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 89001,
+        "num": 378572,
+        "word": "什么都卖的大超市正在被挤出市中心",
+        "onboard_time": 1749200781,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373280,
+        "num": 373280,
+        "word": "孙莉黄多多机场路透",
+        "onboard_time": 1749198321,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269109,
+        "num": 339499,
+        "word": "浪姐 没苦硬吃",
+        "onboard_time": 1749187941,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325763,
+        "num": 325763,
+        "word": "基辅遭俄军大规模袭击",
+        "onboard_time": 1749200480,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284052,
+        "num": 284052,
+        "word": "女子把85万扔在了坟头草丛垃圾桶",
+        "onboard_time": 1749200121,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29545,
+        "num": 275306,
+        "word": "恋与制作人为高考加油",
+        "onboard_time": 1749201621,
+        "rank": 24,
+        "category": "游戏,教育"
+      },
+      {
+        "raw_hot": 273745,
+        "num": 273745,
+        "word": "高考时间",
+        "onboard_time": 1749183503,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 241763,
+        "num": 241763,
+        "word": "女子被咬身亡3个问题待解",
+        "onboard_time": 1749200001,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238764,
+        "num": 238764,
+        "word": "labubu牙套",
+        "onboard_time": 1749191061,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 209597,
+        "num": 223849,
+        "word": "侯佩岑和管乐爸妈聊的不知天地为何物",
+        "onboard_time": 1749195381,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53033,
+        "num": 222972,
+        "word": "爸爸把游戏上升到了不该有的高度",
+        "onboard_time": 1749201080,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222598,
+        "num": 222598,
+        "word": "明天高考",
+        "onboard_time": 1749183442,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201843,
+        "num": 218010,
+        "word": "杨紫曾经高考前的采访好清醒",
+        "onboard_time": 1749200181,
+        "rank": 31,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 192030,
+        "num": 217460,
+        "word": "印度医生被强奸犯家属绑在树上殴打",
+        "onboard_time": 1749166159,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 217046,
+        "num": 217046,
+        "word": "张婧仪美成啥样了",
+        "onboard_time": 1749201381,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211546,
+        "num": 211546,
+        "word": "WTT大满贯取消强制参赛",
+        "onboard_time": 1749195440,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156341,
+        "num": 209924,
+        "word": "两世仇村百余年互不往来不通婚",
+        "onboard_time": 1749201921,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208688,
+        "num": 208688,
+        "word": "谁给迪丽热巴张凌赫递本子就当为了我",
+        "onboard_time": 1749196401,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143996,
+        "num": 205372,
+        "word": "深圳一男童爬上8米高广场横柱玩耍",
+        "onboard_time": 1749200181,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204540,
+        "num": 204540,
+        "word": "丁程鑫减肥减到113斤",
+        "onboard_time": 1749191722,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195499,
+        "num": 195499,
+        "word": "绝区零2.0",
+        "onboard_time": 1749192921,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193947,
+        "num": 193947,
+        "word": "韦神 学海无牙",
+        "onboard_time": 1749199102,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192313,
+        "num": 192313,
+        "word": "骗余景天我是韩国人他真信了",
+        "onboard_time": 1749201561,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187134,
+        "num": 187134,
+        "word": "郑晓龙谈肖战",
+        "onboard_time": 1749201800,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178078,
+        "num": 178078,
+        "word": "总台摄像机器狗探秘哀牢山",
+        "onboard_time": 1749200362,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32174,
+        "num": 172662,
+        "word": "谷爱凌说压力是能量",
+        "onboard_time": 1749201981,
+        "rank": 44,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 73203,
+        "num": 171607,
+        "word": "2025高考必备清单",
+        "onboard_time": 1749200061,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171323,
+        "num": 171323,
+        "word": "临江仙开播",
+        "onboard_time": 1749183022,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154750,
+        "num": 154750,
+        "word": "蔡徐坤回国",
+        "onboard_time": 1749184282,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152929,
+        "num": 152929,
+        "word": "1335万人明天高考",
+        "onboard_time": 1749165860,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151723,
+        "num": 151723,
+        "word": "爱泼斯坦萝莉岛超百政商名人涉案",
+        "onboard_time": 1749196280,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美对话和合作是唯一正确的选择#"
+    }
+  }
+}
