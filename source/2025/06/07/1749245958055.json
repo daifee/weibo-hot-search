@@ -1,0 +1,410 @@
+{
+  "runTime": 1749245958055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 252904,
+        "num": 252904,
+        "word": "第一名掉准考证的学生出现了",
+        "onboard_time": 1749223463,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 211065,
+        "num": 211065,
+        "word": "单依纯疯了",
+        "onboard_time": 1749217108,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13966,
+        "num": 104918,
+        "word": "高考学子给荔高粽",
+        "onboard_time": 1749222924,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 96762,
+        "num": 96762,
+        "word": "警方回应老人捡手机索要1600才肯还",
+        "onboard_time": 1749225202,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 96083,
+        "num": 96083,
+        "word": "马斯克突然改口",
+        "onboard_time": 1749222205,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84743,
+        "num": 84743,
+        "word": "俄大规模轰炸乌克兰军工企业",
+        "onboard_time": 1749224423,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150207,
+        "num": 79867,
+        "word": "单依纯疑似报复李荣浩当年没转身",
+        "onboard_time": 1749224962,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114634,
+        "num": 77247,
+        "word": "范玮琪暴哭",
+        "onboard_time": 1749220886,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57295,
+        "num": 57295,
+        "word": "歌手排名",
+        "onboard_time": 1749218487,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54128,
+        "num": 54128,
+        "word": "特朗普世上无难事只要肯放弃",
+        "onboard_time": 1749236294,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77384,
+        "num": 52164,
+        "word": "浙江女子牙疼切开脓肿发现20多种细菌",
+        "onboard_time": 1749222325,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59546,
+        "num": 48499,
+        "word": "马嘉祺粉底液",
+        "onboard_time": 1749219025,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41706,
+        "num": 41706,
+        "word": "虞书欣丁禹兮宣传黄晓明潜渊",
+        "onboard_time": 1749224065,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40290,
+        "num": 40290,
+        "word": "特朗普说现在不太想和马斯克说话",
+        "onboard_time": 1749223224,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38892,
+        "num": 38892,
+        "word": "巴黎世家推出15500元北京烤鸭包",
+        "onboard_time": 1749204381,
+        "rank": 14,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 37196,
+        "num": 37196,
+        "word": "难听",
+        "onboard_time": 1749215129,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37054,
+        "num": 37054,
+        "word": "范玮琪回应破音",
+        "onboard_time": 1749226702,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33503,
+        "num": 33503,
+        "word": "这居然是牛骏峰",
+        "onboard_time": 1749222744,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32346,
+        "num": 32346,
+        "word": "高考时间",
+        "onboard_time": 1749183503,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30545,
+        "num": 30545,
+        "word": "比赛第一 友谊第十四",
+        "onboard_time": 1749233297,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40686,
+        "num": 30409,
+        "word": "缺爱的人为什么很难进入亲密关系",
+        "onboard_time": 1749231257,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34811,
+        "num": 30382,
+        "word": "白象宣布多半系列产品更名",
+        "onboard_time": 1749240194,
+        "rank": 21,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 32099,
+        "num": 30340,
+        "word": "断眉跑哪去了",
+        "onboard_time": 1749214404,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30132,
+        "num": 30132,
+        "word": "这可能是今年最硬核的招生广告",
+        "onboard_time": 1749221606,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 28276,
+        "num": 28276,
+        "word": "不到铃响不要泄气",
+        "onboard_time": 1749226042,
+        "rank": 24,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 28246,
+        "num": 28246,
+        "word": "歌手直播",
+        "onboard_time": 1749210263,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25162,
+        "num": 25162,
+        "word": "阿尔卡拉斯连续两年进法网决赛",
+        "onboard_time": 1749225563,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23963,
+        "num": 23963,
+        "word": "GAI 大白嗓",
+        "onboard_time": 1749213863,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23765,
+        "num": 23765,
+        "word": "LABUBU是年轻人的茅台",
+        "onboard_time": 1749240493,
+        "rank": 28,
+        "category": "动漫,财经"
+      },
+      {
+        "raw_hot": 22978,
+        "num": 22978,
+        "word": "刘宇宁上海演唱会获批",
+        "onboard_time": 1749226342,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21583,
+        "num": 21583,
+        "word": "广州长隆回应马戏演员从火轮摔下",
+        "onboard_time": 1749228560,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21536,
+        "num": 21536,
+        "word": "陈楚生 好听",
+        "onboard_time": 1749212722,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20621,
+        "num": 20621,
+        "word": "俄罗斯对乌全境实施打击",
+        "onboard_time": 1749216627,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20498,
+        "num": 20498,
+        "word": "李荣浩连续10年高考发8字祝福",
+        "onboard_time": 1749223823,
+        "rank": 33,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 20025,
+        "num": 20025,
+        "word": "武磊苏超首秀需过淘汰赛门槛",
+        "onboard_time": 1749216567,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19327,
+        "num": 19327,
+        "word": "00后的茅台",
+        "onboard_time": 1749228199,
+        "rank": 35,
+        "category": "动漫,财经"
+      },
+      {
+        "raw_hot": 19304,
+        "num": 19304,
+        "word": "跑男",
+        "onboard_time": 1749217767,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18940,
+        "num": 18940,
+        "word": "马嘉祺咬字",
+        "onboard_time": 1749216386,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18606,
+        "num": 18606,
+        "word": "JDG对战TTG",
+        "onboard_time": 1749215787,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18593,
+        "num": 18593,
+        "word": "俄乌局势或出现新变数",
+        "onboard_time": 1749236714,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18147,
+        "num": 18147,
+        "word": "歌手揭榜",
+        "onboard_time": 1749226222,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17193,
+        "num": 18147,
+        "word": "枯萎之花上的眼泪",
+        "onboard_time": 1749225683,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 17119,
+        "num": 18147,
+        "word": "高考好运玄学",
+        "onboard_time": 1749233656,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17022,
+        "num": 18147,
+        "word": "金晨发夹越萌开车越猛",
+        "onboard_time": 1749244754,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16517,
+        "num": 18146,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1749230418,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16477,
+        "num": 18146,
+        "word": "隋文静韩聪复出",
+        "onboard_time": 1749240194,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15138,
+        "num": 18146,
+        "word": "绝区零超话",
+        "onboard_time": 1749239354,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14944,
+        "num": 18145,
+        "word": "Circle上市首日暴涨168.48%",
+        "onboard_time": 1749243914,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14933,
+        "num": 18145,
+        "word": "耳帝",
+        "onboard_time": 1749221364,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14420,
+        "num": 18145,
+        "word": "心疼清融",
+        "onboard_time": 1749221184,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受班禅额尔德尼确吉杰布拜见#"
+    }
+  }
+}

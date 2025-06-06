@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749245082158,
+  "endTime": 1749245958055,
   "band_list": [
     {
       "raw_hot": 2010386,
@@ -507,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 34811,
+      "num": 30382,
+      "word": "白象宣布多半系列产品更名",
+      "onboard_time": 1749240194,
+      "rank": 23,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 33371,
       "num": 64321,
       "word": "翻出了5年前20届高考的前一天",
@@ -531,16 +539,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 30620,
-      "num": 25905,
-      "word": "白象宣布多半系列产品更名",
-      "onboard_time": 1749240194,
-      "rank": 23,
-      "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 27429,
-      "num": 29325,
+      "raw_hot": 30545,
+      "num": 30545,
       "word": "比赛第一 友谊第十四",
       "onboard_time": 1749233297,
       "rank": 49,
@@ -563,20 +563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25162,
+      "num": 29325,
+      "word": "阿尔卡拉斯连续两年进法网决赛",
+      "onboard_time": 1749225563,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24485,
       "num": 30762,
       "word": "高考好运玄学",
       "onboard_time": 1749233656,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 24280,
-      "num": 29325,
-      "word": "阿尔卡拉斯连续两年进法网决赛",
-      "onboard_time": 1749225563,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 24029,
@@ -635,7 +635,7 @@
       "category": "动漫,教育"
     },
     {
-      "raw_hot": 18448,
+      "raw_hot": 18593,
       "num": 29325,
       "word": "俄乌局势或出现新变数",
       "onboard_time": 1749236714,
@@ -643,12 +643,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17022,
+      "num": 18147,
+      "word": "金晨发夹越萌开车越猛",
+      "onboard_time": 1749244754,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 15222,
-      "num": 16783,
+      "num": 18145,
       "word": "Circle上市首日暴涨168.48%",
       "onboard_time": 1749243914,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 15138,
+      "num": 18146,
+      "word": "绝区零超话",
+      "onboard_time": 1749239354,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 14908,
@@ -659,28 +675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14479,
-      "num": 16771,
-      "word": "绝区零超话",
-      "onboard_time": 1749239354,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 13348,
+      "raw_hot": 13966,
       "num": 131047,
       "word": "高考学子给荔高粽",
       "onboard_time": 1749222924,
       "rank": 2,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 12331,
-      "num": 16763,
-      "word": "金晨发夹越萌开车越猛",
-      "onboard_time": 1749244754,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 11612,

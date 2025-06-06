@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749245082158,
+  "endTime": 1749245958055,
   "band_list": [
     {
       "raw_hot": 10666191,
@@ -20107,6 +20107,14 @@
       "category": "体育,教育"
     },
     {
+      "raw_hot": 34811,
+      "num": 30382,
+      "word": "白象宣布多半系列产品更名",
+      "onboard_time": 1749240194,
+      "rank": 23,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 34251,
       "num": 1228544,
       "word": "8组数字看中国消费向新而行",
@@ -20491,14 +20499,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 30620,
-      "num": 25905,
-      "word": "白象宣布多半系列产品更名",
-      "onboard_time": 1749240194,
-      "rank": 23,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 30619,
       "num": 230892,
       "word": "居家锻炼可以改善体型吗",
@@ -20513,6 +20513,14 @@
       "onboard_time": 1748750660,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30545,
+      "num": 30545,
+      "word": "比赛第一 友谊第十四",
+      "onboard_time": 1749233297,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 30476,
@@ -20835,14 +20843,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 27429,
-      "num": 29325,
-      "word": "比赛第一 友谊第十四",
-      "onboard_time": 1749233297,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 27344,
       "num": 170310,
       "word": "女子是否被蛇咬致身亡存争议",
@@ -21059,6 +21059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25162,
+      "num": 29325,
+      "word": "阿尔卡拉斯连续两年进法网决赛",
+      "onboard_time": 1749225563,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25155,
       "num": 25925,
       "word": "张桂源拿粽子自拍",
@@ -21137,14 +21145,6 @@
       "onboard_time": 1748955681,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 24280,
-      "num": 29325,
-      "word": "阿尔卡拉斯连续两年进法网决赛",
-      "onboard_time": 1749225563,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 24250,
@@ -21731,6 +21731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18593,
+      "num": 29325,
+      "word": "俄乌局势或出现新变数",
+      "onboard_time": 1749236714,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18563,
       "num": 298507,
       "word": "高考期间注意防范强降雨和高温",
@@ -21745,14 +21753,6 @@
       "onboard_time": 1748849720,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 18448,
-      "num": 29325,
-      "word": "俄乌局势或出现新变数",
-      "onboard_time": 1749236714,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18318,
@@ -21849,6 +21849,14 @@
       "onboard_time": 1748719155,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17022,
+      "num": 18147,
+      "word": "金晨发夹越萌开车越猛",
+      "onboard_time": 1749244754,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 16880,
@@ -21956,11 +21964,19 @@
     },
     {
       "raw_hot": 15222,
-      "num": 16783,
+      "num": 18145,
       "word": "Circle上市首日暴涨168.48%",
       "onboard_time": 1749243914,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 15138,
+      "num": 18146,
+      "word": "绝区零超话",
+      "onboard_time": 1749239354,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 15082,
@@ -22017,14 +22033,6 @@
       "onboard_time": 1749112340,
       "rank": 33,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 14479,
-      "num": 16771,
-      "word": "绝区零超话",
-      "onboard_time": 1749239354,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 14299,
@@ -22119,14 +22127,6 @@
       "num": 14089,
       "word": "左航闪躲buff叠满",
       "onboard_time": 1748713935,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 12331,
-      "num": 16763,
-      "word": "金晨发夹越萌开车越猛",
-      "onboard_time": 1749244754,
       "rank": 49,
       "category": "综艺"
     },
