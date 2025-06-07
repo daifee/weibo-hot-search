@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749261546898,
+  "endTime": 1749262929229,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1387,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4696166,
+      "num": 4696166,
+      "word": "高考语文",
+      "onboard_time": 1749261200,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 4677462,
       "num": 1120495,
       "word": "陈晓陈妍希 今后各自安好",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1747661785,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3342752,
-      "num": 3342752,
-      "word": "哪吒2全球影史单一市场票房第1",
-      "onboard_time": 1738935684,
-      "rank": 0,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

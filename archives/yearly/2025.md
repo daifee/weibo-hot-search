@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/07 09:59:06
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/07 10:22:09
 </p>
 </blockquote>
 <p>
@@ -1053,6 +1053,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
+高考语文（热度：4696166）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E9%99%88%E5%A6%8D%E5%B8%8C%20%E4%BB%8A%E5%90%8E%E5%90%84%E8%87%AA%E5%AE%89%E5%A5%BD%23" target="weibo">
 陈晓陈妍希 今后各自安好（热度：4677462）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%BF%A0%E8%90%A6%20%E9%99%88%E5%A5%95%E8%BF%85%23" target="weibo">
 徐濠萦 陈奕迅（热度：3348821）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E5%8D%95%E4%B8%80%E5%B8%82%E5%9C%BA%E7%A5%A8%E6%88%BF%E7%AC%AC1%23" target="weibo">
-哪吒2全球影史单一市场票房第1（热度：3342752）
 </a>
 </li>
 

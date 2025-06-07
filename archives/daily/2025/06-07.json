@@ -1,7 +1,15 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749261546898,
+  "endTime": 1749262929229,
   "band_list": [
+    {
+      "raw_hot": 4696166,
+      "num": 4696166,
+      "word": "高考语文",
+      "onboard_time": 1749261200,
+      "rank": 4,
+      "category": "教育"
+    },
     {
       "raw_hot": 2798960,
       "num": 2798960,
@@ -27,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1421778,
+      "num": 1421778,
+      "word": "第一批走错考场的学生出现了",
+      "onboard_time": 1749260002,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1189731,
       "num": 1189731,
       "word": "家属回应韦东奕身体状况",
@@ -41,22 +57,6 @@
       "onboard_time": 1749224962,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1006334,
-      "num": 1006334,
-      "word": "第一批走错考场的学生出现了",
-      "onboard_time": 1749260002,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 905098,
-      "num": 905098,
-      "word": "高考语文",
-      "onboard_time": 1749261200,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 865895,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 452085,
+      "num": 452085,
+      "word": "高考首日高三学生6点半正常跑操",
+      "onboard_time": 1749261142,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442129,
       "num": 442129,
       "word": "马斯克突然改口",
@@ -163,20 +171,20 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 402122,
+      "num": 402122,
+      "word": "赵丽颖阿玛尼春夏高定",
+      "onboard_time": 1749259582,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 391657,
       "num": 536168,
       "word": "高考第一天",
       "onboard_time": 1749254720,
       "rank": 8,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 387154,
-      "num": 387154,
-      "word": "赵丽颖阿玛尼春夏高定",
-      "onboard_time": 1749259582,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 378703,
@@ -219,8 +227,8 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 320185,
-      "num": 320185,
+      "raw_hot": 321626,
+      "num": 321626,
       "word": "无畏 菜",
       "onboard_time": 1749260181,
       "rank": 19,
@@ -249,6 +257,14 @@
       "onboard_time": 1749257841,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 276677,
+      "num": 276677,
+      "word": "李荣浩听了都不知道这是他的歌",
+      "onboard_time": 1749260061,
+      "rank": 21,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 272983,
@@ -283,28 +299,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 248725,
-      "num": 248725,
-      "word": "李荣浩听了都不知道这是他的歌",
-      "onboard_time": 1749260061,
-      "rank": 21,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 238463,
       "num": 128499,
       "word": "陈楚生 好听",
       "onboard_time": 1749212722,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236996,
-      "num": 236996,
-      "word": "高考首日高三学生6点半正常跑操",
-      "onboard_time": 1749261142,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230907,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207272,
+      "num": 207272,
+      "word": "多路直击2025高考现场",
+      "onboard_time": 1749252498,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206660,
       "num": 164627,
       "word": "生化危机9安魂曲",
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195916,
+      "num": 195916,
+      "word": "胡兵送高考生Labubu",
+      "onboard_time": 1749261802,
+      "rank": 26,
+      "category": "时尚,动漫"
+    },
+    {
       "raw_hot": 194703,
       "num": 127069,
       "word": "刘宇宁上海演唱会获批",
@@ -363,11 +379,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191097,
-      "num": 191097,
-      "word": "多路直击2025高考现场",
-      "onboard_time": 1749252498,
-      "rank": 34,
+      "raw_hot": 189619,
+      "num": 223236,
+      "word": "韦东奕社媒这道题并不比数学好解",
+      "onboard_time": 1749260240,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -467,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161772,
-      "num": 161772,
-      "word": "韦东奕社媒这道题并不比数学好解",
-      "onboard_time": 1749260240,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 162914,
+      "num": 162914,
+      "word": "何秋亊方称之前沟通人员为假冒",
+      "onboard_time": 1749260661,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 159099,
@@ -499,20 +515,20 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 157080,
-      "num": 157080,
-      "word": "何秋亊方称之前沟通人员为假冒",
-      "onboard_time": 1749260661,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156318,
       "num": 156318,
       "word": "高考第1天多地大到暴雨",
       "onboard_time": 1749257300,
       "rank": 34,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 153271,
+      "num": 153271,
+      "word": "文韬全员加速中第一个被抓",
+      "onboard_time": 1749262641,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 144074,
@@ -547,8 +563,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136359,
+      "num": 136359,
+      "word": "韦东奕一天涨粉1000万",
+      "onboard_time": 1749262582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134520,
-      "num": 134520,
+      "num": 213464,
       "word": "原来西瓜是一种抗炎水果",
       "onboard_time": 1749254599,
       "rank": 38,
@@ -593,6 +617,14 @@
       "onboard_time": 1749204381,
       "rank": 19,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 127964,
+      "num": 127964,
+      "word": "天官赐福",
+      "onboard_time": 1749255560,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 127873,
@@ -691,14 +723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114852,
-      "num": 114852,
-      "word": "天官赐福",
-      "onboard_time": 1749255560,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114162,
       "num": 114162,
       "word": "00后的茅台",
@@ -721,6 +745,14 @@
       "onboard_time": 1749224184,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110776,
+      "num": 139675,
+      "word": "一首青春探路者为高考生加油",
+      "onboard_time": 1749252199,
+      "rank": 43,
+      "category": "正能量"
     },
     {
       "raw_hot": 108528,
@@ -753,6 +785,22 @@
       "onboard_time": 1749223764,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100834,
+      "num": 100834,
+      "word": "多名国脚出现不同程度伤势",
+      "onboard_time": 1749262522,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100269,
+      "num": 100269,
+      "word": "华晨宝马迎来第一任女CEO",
+      "onboard_time": 1749259882,
+      "rank": 49,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 100189,
@@ -795,6 +843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 88462,
+      "num": 1448172,
+      "word": "高考学子给荔高粽",
+      "onboard_time": 1749222924,
+      "rank": 2,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 87803,
       "num": 76542,
       "word": "水果里的高糖刺客",
@@ -833,14 +889,6 @@
       "onboard_time": 1749225683,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 83714,
-      "num": 1032182,
-      "word": "高考学子给荔高粽",
-      "onboard_time": 1749222924,
-      "rank": 2,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 81373,
@@ -1035,6 +1083,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 41986,
+      "num": 127048,
+      "word": "辛纳阿尔卡拉斯法网争冠",
+      "onboard_time": 1749262822,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41340,
       "num": 41340,
       "word": "陷入我们的热恋",
@@ -1049,14 +1105,6 @@
       "onboard_time": 1749236714,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 39949,
-      "num": 45334,
-      "word": "一首青春探路者为高考生加油",
-      "onboard_time": 1749252199,
-      "rank": 43,
-      "category": "正能量"
     },
     {
       "raw_hot": 35160,
