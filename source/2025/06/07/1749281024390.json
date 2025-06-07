@@ -1,0 +1,410 @@
+{
+  "runTime": 1749281024390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2970931,
+        "num": 2970931,
+        "word": "高考作文",
+        "onboard_time": 1749264742,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1219892,
+        "num": 1219892,
+        "word": "语文默写",
+        "onboard_time": 1749268587,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36121,
+        "num": 1097894,
+        "word": "祝1335万高考生大胜归来",
+        "onboard_time": 1749266424,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1085927,
+        "num": 1085927,
+        "word": "五旬老太守国门 谁来制裁单依纯",
+        "onboard_time": 1749277761,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1023044,
+        "num": 1023044,
+        "word": "开放性默写",
+        "onboard_time": 1749276743,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21070,
+        "num": 845558,
+        "word": "网警护航高考祝学子金榜题名",
+        "onboard_time": 1749265284,
+        "rank": 5,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 739449,
+        "num": 739449,
+        "word": "王俊凯 把时代少年团请过来",
+        "onboard_time": 1749272664,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717389,
+        "num": 717389,
+        "word": "赵丽颖染回黑发了",
+        "onboard_time": 1749278181,
+        "rank": 7,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 575222,
+        "num": 575222,
+        "word": "全国一卷 难",
+        "onboard_time": 1749268289,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 413458,
+        "num": 413458,
+        "word": "邓超 哭一鼻子",
+        "onboard_time": 1749274882,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 871115,
+        "num": 409632,
+        "word": "22届没惹",
+        "onboard_time": 1749273202,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404532,
+        "num": 404532,
+        "word": "韩安冉想让女儿上综艺被拒",
+        "onboard_time": 1749277101,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 379049,
+        "num": 379049,
+        "word": "全国一卷作文 看不懂",
+        "onboard_time": 1749267869,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 373404,
+        "num": 373404,
+        "word": "中国男游客在日本被一男子刺伤",
+        "onboard_time": 1749276561,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37537,
+        "num": 353745,
+        "word": "几十元就能学到抄袭原创技巧",
+        "onboard_time": 1749279982,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353684,
+        "num": 353684,
+        "word": "李惠利跳Whiplash",
+        "onboard_time": 1749276922,
+        "rank": 15,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 302250,
+        "num": 302250,
+        "word": "上海高考作文出处作者发声",
+        "onboard_time": 1749277581,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299279,
+        "num": 299279,
+        "word": "曹骏终于有了自己的名牌",
+        "onboard_time": 1749272603,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11896,
+        "num": 297261,
+        "word": "国产九价HPV疫苗与进口的该如何选择",
+        "onboard_time": 1749280282,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82969,
+        "num": 297174,
+        "word": "送考男子称考分低于预期结果上清华",
+        "onboard_time": 1749280222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338426,
+        "num": 297150,
+        "word": "高考作文 抽象",
+        "onboard_time": 1749269427,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 297098,
+        "num": 297098,
+        "word": "单依纯回应疯了",
+        "onboard_time": 1749265041,
+        "rank": 21,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 278915,
+        "num": 278915,
+        "word": "肖战姜妍蒋奇明 飞刀",
+        "onboard_time": 1749270086,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224906,
+        "num": 224906,
+        "word": "作文 跑题",
+        "onboard_time": 1749271404,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199828,
+        "num": 199828,
+        "word": "店主在凉茶中添加布洛芬",
+        "onboard_time": 1749279862,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88224,
+        "num": 199442,
+        "word": "老舍在武汉抗战事迹进入高考语文",
+        "onboard_time": 1749279682,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199088,
+        "num": 199088,
+        "word": "姜云升 新说唱",
+        "onboard_time": 1749279202,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74554,
+        "num": 195974,
+        "word": "文明网事有了科技buff加持",
+        "onboard_time": 1749280462,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194383,
+        "num": 194383,
+        "word": "鸿蒙版微信安装量超510万",
+        "onboard_time": 1749280762,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189106,
+        "num": 189106,
+        "word": "吉利高管痛批争当卷王以卷为荣",
+        "onboard_time": 1749279802,
+        "rank": 29,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 185859,
+        "num": 185859,
+        "word": "赵丽颖纽约第二套",
+        "onboard_time": 1749277219,
+        "rank": 30,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 181646,
+        "num": 181646,
+        "word": "严浩翔我为什么要考中戏",
+        "onboard_time": 1749278781,
+        "rank": 31,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 178553,
+        "num": 178553,
+        "word": "临江仙",
+        "onboard_time": 1749266064,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175349,
+        "num": 175349,
+        "word": "高考",
+        "onboard_time": 1749251598,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174210,
+        "num": 174210,
+        "word": "丁太升",
+        "onboard_time": 1749280642,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172986,
+        "num": 172986,
+        "word": "侯佩岑救场",
+        "onboard_time": 1749274161,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71696,
+        "num": 171888,
+        "word": "考完一科忘一科",
+        "onboard_time": 1749280882,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171639,
+        "num": 171639,
+        "word": "王俊凯族长发话了",
+        "onboard_time": 1749276681,
+        "rank": 37,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 168984,
+        "num": 168984,
+        "word": "丁程鑫你说你惹谢娜干嘛",
+        "onboard_time": 1749280582,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52299,
+        "num": 167017,
+        "word": "波音恢复对华飞机交付",
+        "onboard_time": 1749275004,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165669,
+        "num": 165669,
+        "word": "陈赫cue鹿晗朱志鑫",
+        "onboard_time": 1749273924,
+        "rank": 40,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 154456,
+        "num": 154456,
+        "word": "易烊千玺以石问心",
+        "onboard_time": 1749280882,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153016,
+        "num": 153016,
+        "word": "高考应援已经进化到这种程度了",
+        "onboard_time": 1749280702,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146593,
+        "num": 152589,
+        "word": "王一珩晒种地吧杀青照",
+        "onboard_time": 1749279621,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34747,
+        "num": 152329,
+        "word": "路易吉日记被曝光",
+        "onboard_time": 1749279082,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152217,
+        "num": 152217,
+        "word": "拜托高考第一个出考场的考生",
+        "onboard_time": 1749265644,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149022,
+        "num": 149022,
+        "word": "一中国游客在日本京都被砍伤",
+        "onboard_time": 1749278602,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148364,
+        "num": 148364,
+        "word": "何秋亊方承认第三方抄袭话筒",
+        "onboard_time": 1749278241,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148302,
+        "num": 148302,
+        "word": "iPhone17标准版或缩小灵动岛",
+        "onboard_time": 1749280102,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120248,
+        "num": 147718,
+        "word": "张本美和缺席乒超第一阶段",
+        "onboard_time": 1749280282,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在奋斗中释放青春激情#"
+    }
+  }
+}
