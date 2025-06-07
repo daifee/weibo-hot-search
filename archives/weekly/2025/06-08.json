@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749336124310,
+  "endTime": 1749338769423,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1092814,
-      "num": 348754,
+      "num": 463895,
       "word": "叶童年度总冠军",
       "onboard_time": 1749315021,
       "rank": 6,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 260097,
-      "num": 115655,
+      "num": 171586,
       "word": "吴宣仪 这是我第三次成团",
       "onboard_time": 1749317477,
       "rank": 12,
@@ -347,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180310,
+      "num": 180310,
+      "word": "高考",
+      "onboard_time": 1749338176,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 180105,
       "num": 180105,
       "word": "GAI和CBLOCK四小只拥抱",
@@ -427,12 +435,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145844,
+      "num": 145844,
+      "word": "2008年故意考0分男子发声",
+      "onboard_time": 1749323235,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141925,
+      "num": 141925,
+      "word": "藏海传里的蛇眉铜鱼真的存在吗",
+      "onboard_time": 1749310042,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140440,
       "num": 140440,
       "word": "长安的荔枝前3集前奏起飞",
       "onboard_time": 1749311062,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138643,
+      "num": 104370,
+      "word": "大脑过度疲劳的8个信号",
+      "onboard_time": 1749319517,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 137999,
@@ -480,14 +512,6 @@
       "word": "巴黎世家烤鸭包三里屯店一周卖十多只",
       "onboard_time": 1749309142,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113968,
-      "num": 113968,
-      "word": "2008年故意考0分男子发声",
-      "onboard_time": 1749323235,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -539,16 +563,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88902,
-      "num": 56785,
-      "word": "大脑过度疲劳的8个信号",
-      "onboard_time": 1749319517,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 89532,
+      "num": 89532,
+      "word": "李晟团说再一再二不能再六",
+      "onboard_time": 1749336737,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 87686,
-      "num": 68190,
+      "num": 74974,
       "word": "侯佩岑 划水",
       "onboard_time": 1749302065,
       "rank": 32,
@@ -563,12 +587,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72583,
-      "num": 72583,
-      "word": "藏海传里的蛇眉铜鱼真的存在吗",
-      "onboard_time": 1749310042,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 71993,
+      "num": 71993,
+      "word": "孙颖莎落地人参果",
+      "onboard_time": 1749337998,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68895,
+      "num": 192973,
+      "word": "山东小钺钺缺席今年高考",
+      "onboard_time": 1749318977,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68554,
@@ -587,6 +619,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61686,
+      "num": 61686,
+      "word": "孟佳晒JYP家族合影",
+      "onboard_time": 1749338176,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 60224,
+      "num": 60224,
+      "word": "谢娜跳舞导播切了陈德容",
+      "onboard_time": 1749338416,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59173,
       "num": 59173,
       "word": "点进片头就退不出去的剧",
@@ -603,11 +651,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57737,
+      "num": 57737,
+      "word": "尔冬升一眼就定了哈妮克孜演薛芳菲",
+      "onboard_time": 1749301102,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 55839,
       "num": 55839,
       "word": "长沙雷声轰隆暴雨泼",
       "onboard_time": 1749318377,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50270,
+      "num": 50270,
+      "word": "萨巴伦卡连续两个大满贯亚军",
+      "onboard_time": 1749338237,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47681,
+      "num": 47681,
+      "word": "动物园回应长臂猿猴高考不对外展出",
+      "onboard_time": 1749331813,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46891,
+      "num": 46891,
+      "word": "山东小钺钺回应缺席今年高考",
+      "onboard_time": 1749334095,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -619,6 +699,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43474,
+      "num": 43474,
+      "word": "6岁男孩被困小区电梯40分钟无人救",
+      "onboard_time": 1749337936,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40552,
+      "num": 40552,
+      "word": "俄军说再次对乌军事目标实施远程打击",
+      "onboard_time": 1749337877,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39917,
       "num": 39917,
       "word": "满级QQ",
@@ -627,15 +723,15 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 37194,
-      "num": 42982,
-      "word": "山东小钺钺缺席今年高考",
-      "onboard_time": 1749318977,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 36751,
+      "num": 40160,
+      "word": "李嘉格心疼妈妈给老公当妈",
+      "onboard_time": 1749336677,
+      "rank": 49,
+      "category": "综艺"
     },
     {
-      "raw_hot": 33423,
+      "raw_hot": 34798,
       "num": 1892312,
       "word": "一个学科一句为高考生加油",
       "onboard_time": 1749302902,
@@ -649,14 +745,6 @@
       "onboard_time": 1749320536,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29653,
-      "num": 32075,
-      "word": "动物园回应长臂猿猴高考不对外展出",
-      "onboard_time": 1749331813,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29327,
@@ -673,14 +761,6 @@
       "onboard_time": 1749319636,
       "rank": 49,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 25644,
-      "num": 31962,
-      "word": "山东小钺钺回应缺席今年高考",
-      "onboard_time": 1749334095,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19834,
