@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749321189695,
+  "endTime": 1749321994292,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -6708,7 +6708,7 @@
     },
     {
       "raw_hot": 262360,
-      "num": 104295,
+      "num": 129797,
       "word": "双黄丹",
       "onboard_time": 1749319816,
       "rank": 10,
@@ -24425,6 +24425,14 @@
       "onboard_time": 1748749222,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29327,
+      "num": 34424,
+      "word": "周笔畅长沙演唱会",
+      "onboard_time": 1749321796,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 29223,
