@@ -1,10 +1,18 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749267147462,
+  "endTime": 1749268749576,
   "band_list": [
     {
-      "raw_hot": 11447170,
-      "num": 11447170,
+      "raw_hot": 26221317,
+      "num": 26221317,
+      "word": "高考作文",
+      "onboard_time": 1749264742,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 14898891,
+      "num": 14898891,
       "word": "高考语文",
       "onboard_time": 1749261200,
       "rank": 4,
@@ -25,14 +33,6 @@
       "onboard_time": 1748956522,
       "rank": 0,
       "category": "网红"
-    },
-    {
-      "raw_hot": 8164316,
-      "num": 8164316,
-      "word": "高考作文",
-      "onboard_time": 1749264742,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 7936216,
@@ -337,6 +337,14 @@
       "onboard_time": 1749166100,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1728651,
+      "num": 1728651,
+      "word": "全国一卷作文 看不懂",
+      "onboard_time": 1749267869,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1726051,
@@ -955,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1020904,
+      "num": 1020904,
+      "word": "今年语文难不难",
+      "onboard_time": 1749267087,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1016120,
       "num": 1016120,
       "word": "张馨予臀桥重量突破100斤",
@@ -1099,6 +1115,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 942638,
+      "num": 942638,
+      "word": "全国一卷 难",
+      "onboard_time": 1749268289,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 936931,
       "num": 936931,
       "word": "云南大理5.0级地震",
@@ -1187,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 898375,
+      "num": 601990,
+      "word": "拜托高考第一个出考场的考生",
+      "onboard_time": 1749265644,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 893801,
       "num": 893801,
       "word": "浪姐 没苦硬吃",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1748844920,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 861712,
+      "num": 861712,
+      "word": "丁太升说单依纯李白念白low爆",
+      "onboard_time": 1749267208,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 860142,
@@ -1705,6 +1745,14 @@
       "onboard_time": 1749026661,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 710020,
+      "num": 592537,
+      "word": "高考首日高三学生6点半正常跑操",
+      "onboard_time": 1749261142,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 702511,
@@ -2467,6 +2515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 560345,
+      "num": 560345,
+      "word": "曝范玮琪临时换歌",
+      "onboard_time": 1749265764,
+      "rank": 13,
+      "category": "综艺,音乐"
+    },
+    {
       "raw_hot": 558235,
       "num": 558235,
       "word": "缺氧离世卡车司机已下葬卡友发声",
@@ -2489,14 +2545,6 @@
       "onboard_time": 1749109581,
       "rank": 21,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 553427,
-      "num": 553427,
-      "word": "高考首日高三学生6点半正常跑操",
-      "onboard_time": 1749261142,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 553094,
@@ -3203,6 +3251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 459810,
+      "num": 459810,
+      "word": "忘不了本手妙手俗手",
+      "onboard_time": 1749265041,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 459729,
       "num": 246435,
       "word": "狗妈护崽将毒蛇断3截中毒不治身亡",
@@ -3291,20 +3347,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445512,
+      "num": 623615,
+      "word": "直播2025河南高考",
+      "onboard_time": 1749256101,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445177,
       "num": 445177,
       "word": "男子被毒蛇咬伤忍痛去抓又来一口",
       "onboard_time": 1749202821,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 443786,
-      "num": 443786,
-      "word": "曝范玮琪临时换歌",
-      "onboard_time": 1749265764,
-      "rank": 13,
-      "category": "综艺,音乐"
     },
     {
       "raw_hot": 441469,
@@ -3851,14 +3907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 384401,
-      "num": 384401,
-      "word": "拜托高考第一个出考场的考生",
-      "onboard_time": 1749265644,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 383328,
       "num": 503255,
       "word": "豆包流浪了两个月还胖了一斤多",
@@ -3873,6 +3921,14 @@
       "onboard_time": 1749015741,
       "rank": 22,
       "category": "海外新闻,时尚"
+    },
+    {
+      "raw_hot": 382379,
+      "num": 382379,
+      "word": "五哈",
+      "onboard_time": 1749267750,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 382148,
@@ -4635,6 +4691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329507,
+      "num": 329507,
+      "word": "语文默写",
+      "onboard_time": 1749268587,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 327904,
       "num": 327904,
       "word": "当韩国人第一次感受到西瓜自由",
@@ -5019,14 +5083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302749,
-      "num": 302749,
-      "word": "忘不了本手妙手俗手",
-      "onboard_time": 1749265041,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
       "raw_hot": 302234,
       "num": 302234,
       "word": "曹公公怎么这么难杀",
@@ -5289,6 +5345,14 @@
       "onboard_time": 1748857701,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 286137,
+      "num": 286137,
+      "word": "女子坐月子吹空调发烧39度进急诊",
+      "onboard_time": 1749267688,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285695,
@@ -6731,6 +6795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224428,
+      "num": 280539,
+      "word": "BTS成员退伍公告",
+      "onboard_time": 1749264502,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224250,
       "num": 294306,
       "word": "电影女足讲述峨嵋队征战亚冠故事",
@@ -6883,20 +6955,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220530,
+      "num": 220530,
+      "word": "全国二卷 将梦赠予他人",
+      "onboard_time": 1749268468,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 220390,
       "num": 220390,
       "word": "骑手离职后突发意外仍获10万救助",
       "onboard_time": 1748944461,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220384,
-      "num": 280539,
-      "word": "BTS成员退伍公告",
-      "onboard_time": 1749264502,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 220229,
@@ -7497,6 +7569,14 @@
       "onboard_time": 1749103760,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207151,
+      "num": 207151,
+      "word": "默读广播剧破两亿",
+      "onboard_time": 1749267869,
+      "rank": 35,
+      "category": "动漫,其它"
     },
     {
       "raw_hot": 207024,
@@ -8259,6 +8339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194733,
+      "num": 224281,
+      "word": "太好了是苏有朋的雨蝶我们有救了",
+      "onboard_time": 1749267809,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194703,
       "num": 127069,
       "word": "刘宇宁上海演唱会获批",
@@ -8691,6 +8779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188298,
+      "num": 212324,
+      "word": "乘风2025",
+      "onboard_time": 1748742501,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188174,
       "num": 188174,
       "word": "俄留学生惊呼战斗民族在广东",
@@ -9033,6 +9129,14 @@
       "onboard_time": 1748830339,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183657,
+      "num": 183657,
+      "word": "听博主的不如听网友的",
+      "onboard_time": 1749267809,
+      "rank": 40,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 183649,
@@ -9571,6 +9675,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174653,
+      "num": 174653,
+      "word": "亡夫赠情人514万被判返还",
+      "onboard_time": 1749267448,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174431,
+      "num": 258883,
+      "word": "京东直播一元起拍labubu送铂金包",
+      "onboard_time": 1749265945,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 174047,
       "num": 159440,
       "word": "王楚钦赵心童成就顶峰相见佳话",
@@ -9673,6 +9793,14 @@
       "onboard_time": 1748688501,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172412,
+      "num": 172412,
+      "word": "北京作文 当数字闪耀时",
+      "onboard_time": 1749268468,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 172257,
@@ -10033,6 +10161,14 @@
       "onboard_time": 1749224124,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167312,
+      "num": 4142443,
+      "word": "祝1335万高考生大胜归来",
+      "onboard_time": 1749266424,
+      "rank": 2,
+      "category": "正能量,教育"
     },
     {
       "raw_hot": 167089,
@@ -10939,6 +11075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154832,
+      "num": 154832,
+      "word": "2025高考作文上海卷",
+      "onboard_time": 1749268648,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154796,
       "num": 154796,
       "word": "原神5.7版本直播",
@@ -11017,6 +11161,14 @@
       "onboard_time": 1749038059,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154148,
+      "num": 154148,
+      "word": "智利北部6.4级地震",
+      "onboard_time": 1749267988,
+      "rank": 48,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 154056,
@@ -11489,14 +11641,6 @@
       "onboard_time": 1749133042,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148250,
-      "num": 148250,
-      "word": "直播2025河南高考",
-      "onboard_time": 1749256101,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148102,
@@ -12753,6 +12897,14 @@
       "onboard_time": 1748867961,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 136002,
+      "num": 260294,
+      "word": "大学生针灸急救晕倒高考女生",
+      "onboard_time": 1749266844,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135862,
@@ -14827,14 +14979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114945,
-      "num": 212324,
-      "word": "乘风2025",
-      "onboard_time": 1748742501,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114853,
       "num": 114853,
       "word": "减少塑料污染不做塑料朋友",
@@ -15907,14 +16051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103666,
-      "num": 258883,
-      "word": "京东直播一元起拍labubu送铂金包",
-      "onboard_time": 1749265945,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 103479,
       "num": 103479,
       "word": "如何利用维生素B甩掉坏情绪",
@@ -16313,14 +16449,6 @@
       "onboard_time": 1748939661,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99514,
-      "num": 99514,
-      "word": "今年语文难不难",
-      "onboard_time": 1749267087,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 99469,
@@ -17675,6 +17803,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 82233,
+      "num": 188986,
+      "word": "金饰克价一夜跌13元",
+      "onboard_time": 1749265284,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81571,
       "num": 148704,
       "word": "天猫蛋仔梦幻联动",
@@ -17761,14 +17897,6 @@
       "onboard_time": 1749093379,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 79869,
-      "num": 97470,
-      "word": "金饰克价一夜跌13元",
-      "onboard_time": 1749265284,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 79835,
@@ -18601,14 +18729,6 @@
       "onboard_time": 1749008961,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 67330,
-      "num": 4142443,
-      "word": "祝1335万高考生大胜归来",
-      "onboard_time": 1749266424,
-      "rank": 2,
-      "category": "正能量,教育"
     },
     {
       "raw_hot": 67307,
@@ -19459,6 +19579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52488,
+      "num": 613399,
+      "word": "张艺兴的京东新舞台",
+      "onboard_time": 1749267630,
+      "rank": 10,
+      "category": "演出,互联网"
+    },
+    {
       "raw_hot": 52453,
       "num": 58387,
       "word": "三位歌手同日上海开唱",
@@ -19931,6 +20059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45847,
+      "num": 977188,
+      "word": "网警护航高考祝学子金榜题名",
+      "onboard_time": 1749265284,
+      "rank": 5,
+      "category": "正能量,教育"
+    },
+    {
       "raw_hot": 45775,
       "num": 175100,
       "word": "夏天到了空调怎么开才省电",
@@ -20185,14 +20321,6 @@
       "onboard_time": 1749142697,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42589,
-      "num": 660361,
-      "word": "网警护航高考祝学子金榜题名",
-      "onboard_time": 1749265284,
-      "rank": 5,
-      "category": "正能量,教育"
     },
     {
       "raw_hot": 42477,
@@ -21313,14 +21441,6 @@
       "onboard_time": 1748738118,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30115,
-      "num": 260294,
-      "word": "大学生针灸急救晕倒高考女生",
-      "onboard_time": 1749266844,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30028,
@@ -23327,6 +23447,9 @@
     },
     {
       "word": "#重温总书记对广大青年的深情寄语#"
+    },
+    {
+      "word": "#在奋斗中释放青春激情#"
     }
   ]
 }

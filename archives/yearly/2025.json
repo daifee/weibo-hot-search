@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749267147462,
+  "endTime": 1749268749576,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -73,6 +73,14 @@
       "onboard_time": 1736007874,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26221317,
+      "num": 26221317,
+      "word": "高考作文",
+      "onboard_time": 1749264742,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 22874452,
@@ -305,6 +313,14 @@
       "onboard_time": 1739857118,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14898891,
+      "num": 14898891,
+      "word": "高考语文",
+      "onboard_time": 1749261200,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 14691299,
@@ -561,14 +577,6 @@
       "onboard_time": 1738050440,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11447170,
-      "num": 11447170,
-      "word": "高考语文",
-      "onboard_time": 1749261200,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 11395470,
@@ -985,14 +993,6 @@
       "onboard_time": 1743422722,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8164316,
-      "num": 8164316,
-      "word": "高考作文",
-      "onboard_time": 1749264742,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 8108051,
