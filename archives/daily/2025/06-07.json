@@ -1,7 +1,15 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749253189122,
+  "endTime": 1749261546898,
   "band_list": [
+    {
+      "raw_hot": 2798960,
+      "num": 2798960,
+      "word": "高考",
+      "onboard_time": 1749251598,
+      "rank": 3,
+      "category": "教育"
+    },
     {
       "raw_hot": 2010386,
       "num": 2010386,
@@ -19,12 +27,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1419751,
-      "num": 1419751,
-      "word": "高考",
-      "onboard_time": 1749251598,
-      "rank": 3,
-      "category": "教育"
+      "raw_hot": 1189731,
+      "num": 1189731,
+      "word": "家属回应韦东奕身体状况",
+      "onboard_time": 1749254299,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1051856,
@@ -33,6 +41,22 @@
       "onboard_time": 1749224962,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1006334,
+      "num": 1006334,
+      "word": "第一批走错考场的学生出现了",
+      "onboard_time": 1749260002,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 905098,
+      "num": 905098,
+      "word": "高考语文",
+      "onboard_time": 1749261200,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 865895,
@@ -44,7 +68,7 @@
     },
     {
       "raw_hot": 848661,
-      "num": 398583,
+      "num": 473327,
       "word": "范玮琪暴哭",
       "onboard_time": 1749220886,
       "rank": 8,
@@ -59,12 +83,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637222,
+      "num": 637222,
+      "word": "首个满级QQ获得金企鹅",
+      "onboard_time": 1749256039,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 622859,
       "num": 227515,
       "word": "难听",
       "onboard_time": 1749215129,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 602860,
+      "num": 602860,
+      "word": "范玮琪问马嘉祺是组合里最红的吗",
+      "onboard_time": 1749256039,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 506521,
+      "num": 506521,
+      "word": "跑男这期收视率好高",
+      "onboard_time": 1749253940,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 495177,
+      "num": 495177,
+      "word": "女子薅国家羊毛被判三年",
+      "onboard_time": 1749259882,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 465642,
@@ -91,6 +147,46 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 434045,
+      "num": 434045,
+      "word": "2008年故意考0分男子第四次参加高考",
+      "onboard_time": 1749252679,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 404475,
+      "num": 404475,
+      "word": "GAI说还得苟一期烦死",
+      "onboard_time": 1749256821,
+      "rank": 14,
+      "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 391657,
+      "num": 536168,
+      "word": "高考第一天",
+      "onboard_time": 1749254720,
+      "rank": 8,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 387154,
+      "num": 387154,
+      "word": "赵丽颖阿玛尼春夏高定",
+      "onboard_time": 1749259582,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 378703,
+      "num": 378703,
+      "word": "10个月宝宝患病父亲不愿被拖累离婚",
+      "onboard_time": 1749254660,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374142,
       "num": 374142,
       "word": "因7月太热高考自2003年起调整至6月",
@@ -105,6 +201,30 @@
       "onboard_time": 1749226702,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335907,
+      "num": 335907,
+      "word": "高考固定npc",
+      "onboard_time": 1749257601,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 322040,
+      "num": 322040,
+      "word": "王者荣耀给单依纯打钱",
+      "onboard_time": 1749216084,
+      "rank": 18,
+      "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 320185,
+      "num": 320185,
+      "word": "无畏 菜",
+      "onboard_time": 1749260181,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 311779,
@@ -123,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277599,
+      "num": 277599,
+      "word": "腾讯回应首个满级QQ诞生",
+      "onboard_time": 1749257841,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 272983,
       "num": 178363,
       "word": "GAI 大白嗓",
@@ -139,12 +267,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 260355,
+      "num": 519183,
+      "word": "中国台湾男子在马来西亚轻轨站坠轨",
+      "onboard_time": 1749255321,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 250880,
       "num": 250880,
       "word": "警方回应老人捡手机索要1600才肯还",
       "onboard_time": 1749225202,
       "rank": 5,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 248725,
+      "num": 248725,
+      "word": "李荣浩听了都不知道这是他的歌",
+      "onboard_time": 1749260061,
+      "rank": 21,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 238463,
@@ -155,12 +299,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236996,
+      "num": 236996,
+      "word": "高考首日高三学生6点半正常跑操",
+      "onboard_time": 1749261142,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230907,
+      "num": 230907,
+      "word": "1335万人今日高考",
+      "onboard_time": 1749259281,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226422,
       "num": 128263,
       "word": "断眉跑哪去了",
       "onboard_time": 1749214404,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224590,
+      "num": 224590,
+      "word": "山东警号985211为考生加油",
+      "onboard_time": 1749259221,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212185,
+      "num": 212185,
+      "word": "老师开来985车牌车被学生摸包浆了",
+      "onboard_time": 1749255138,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206660,
+      "num": 164627,
+      "word": "生化危机9安魂曲",
+      "onboard_time": 1749260422,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 206195,
@@ -179,12 +363,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191097,
+      "num": 191097,
+      "word": "多路直击2025高考现场",
+      "onboard_time": 1749252498,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186809,
+      "num": 186809,
+      "word": "黄金昨夜大跌",
+      "onboard_time": 1749260002,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 184191,
       "num": 126558,
       "word": "歌手直播",
       "onboard_time": 1749210263,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183649,
+      "num": 183649,
+      "word": "赵丽颖亮相纽约翠贝卡电影节",
+      "onboard_time": 1749258861,
+      "rank": 28,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 182261,
@@ -259,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161772,
+      "num": 161772,
+      "word": "韦东奕社媒这道题并不比数学好解",
+      "onboard_time": 1749260240,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159099,
       "num": 116140,
       "word": "VOGUE晚宴",
@@ -275,12 +491,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157306,
+      "num": 157306,
+      "word": "叶童赵雅芝浪姐将合体",
+      "onboard_time": 1749258500,
+      "rank": 32,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 157080,
+      "num": 157080,
+      "word": "何秋亊方称之前沟通人员为假冒",
+      "onboard_time": 1749260661,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156318,
+      "num": 156318,
+      "word": "高考第1天多地大到暴雨",
+      "onboard_time": 1749257300,
+      "rank": 34,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 144074,
       "num": 70583,
       "word": "单依纯李白 高考禁曲",
       "onboard_time": 1749236115,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140919,
+      "num": 140919,
+      "word": "好想活得像labubu一样",
+      "onboard_time": 1749256640,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 139646,
@@ -299,12 +547,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134520,
+      "num": 134520,
+      "word": "原来西瓜是一种抗炎水果",
+      "onboard_time": 1749254599,
+      "rank": 38,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 132696,
       "num": 132696,
       "word": "不到铃响不要泄气",
       "onboard_time": 1749226042,
       "rank": 18,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 131937,
+      "num": 131937,
+      "word": "考生考前丢身份证淡定补办",
+      "onboard_time": 1749259281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131663,
+      "num": 131663,
+      "word": "美国小伙称来中国才吃到鲜荔枝",
+      "onboard_time": 1749253339,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129301,
@@ -323,6 +595,14 @@
       "category": "民生新闻,时尚"
     },
     {
+      "raw_hot": 127873,
+      "num": 127873,
+      "word": "全红婵夸陈梦好漂亮",
+      "onboard_time": 1749255080,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126597,
       "num": 126597,
       "word": "心疼清融",
@@ -337,6 +617,22 @@
       "onboard_time": 1749223284,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121599,
+      "num": 121599,
+      "word": "孟子义被桃花坞做局了",
+      "onboard_time": 1749258500,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121055,
+      "num": 121055,
+      "word": "合肥通报12人违规吃喝被停职检查",
+      "onboard_time": 1749255080,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 118524,
@@ -355,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118320,
+      "num": 118320,
+      "word": "四川27岁男子因家庭矛盾跳桥自杀",
+      "onboard_time": 1749255021,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 118125,
       "num": 99070,
       "word": "种地吧麦田音乐会",
@@ -363,12 +667,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114224,
-      "num": 114224,
+      "raw_hot": 117669,
+      "num": 117669,
+      "word": "近九成的人不知道自己有青光眼",
+      "onboard_time": 1749260901,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117132,
+      "num": 117132,
       "word": "高考时间",
       "onboard_time": 1749183503,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116209,
+      "num": 116209,
+      "word": "王者荣耀",
+      "onboard_time": 1749252858,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 114852,
+      "num": 114852,
+      "word": "天官赐福",
+      "onboard_time": 1749255560,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 114162,
@@ -393,14 +721,6 @@
       "onboard_time": 1749224184,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109123,
-      "num": 109123,
-      "word": "王者荣耀",
-      "onboard_time": 1749252858,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 108528,
@@ -456,14 +776,6 @@
       "word": "高考第一天张桂梅的小喇叭又响了",
       "onboard_time": 1749251237,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95598,
-      "num": 77744,
-      "word": "2008年故意考0分男子第四次参加高考",
-      "onboard_time": 1749252679,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -523,6 +835,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 83714,
+      "num": 1032182,
+      "word": "高考学子给荔高粽",
+      "onboard_time": 1749222924,
+      "rank": 2,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 81373,
       "num": 81373,
       "word": "金晨发夹越萌开车越猛",
@@ -576,14 +896,6 @@
       "word": "广州长隆回应马戏演员从火轮摔下",
       "onboard_time": 1749228560,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72639,
-      "num": 73634,
-      "word": "多路直击2025高考现场",
-      "onboard_time": 1749252498,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -705,14 +1017,6 @@
       "onboard_time": 1749253099,
       "rank": 49,
       "category": "互联网,教育"
-    },
-    {
-      "raw_hot": 47576,
-      "num": 669905,
-      "word": "高考学子给荔高粽",
-      "onboard_time": 1749222924,
-      "rank": 2,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 46625,
