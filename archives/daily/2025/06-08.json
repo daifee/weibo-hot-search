@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749324009605,
+  "endTime": 1749325013316,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -603,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37411,
+      "num": 65049,
+      "word": "2008年故意考0分男子发声",
+      "onboard_time": 1749323235,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35680,
       "num": 42982,
       "word": "山东小钺钺缺席今年高考",
@@ -643,20 +651,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28716,
+      "num": 28716,
+      "word": "满级QQ",
+      "onboard_time": 1749323894,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 28641,
       "num": 42883,
       "word": "高考天气",
       "onboard_time": 1749319636,
       "rank": 49,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 20347,
-      "num": 25315,
-      "word": "满级QQ",
-      "onboard_time": 1749323894,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 19432,
@@ -675,12 +683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14169,
-      "num": 65049,
-      "word": "2008年故意考0分男子发声",
-      "onboard_time": 1749323235,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 13328,
+      "num": 35947,
+      "word": "朱雀玄武敕令说语文考得不理想",
+      "onboard_time": 1749324015,
+      "rank": 25,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 12133,

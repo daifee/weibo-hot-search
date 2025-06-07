@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/08 00:30:01 ~ 2025/06/08 03:20:09
+本榜单时间：2025/06/08 00:30:01 ~ 2025/06/08 03:36:53
 </p>
 </blockquote>
 <p>
@@ -465,6 +465,12 @@ GAI和CBLOCK四小只拥抱（热度：180105）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232008%E5%B9%B4%E6%95%85%E6%84%8F%E8%80%830%E5%88%86%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
+2008年故意考0分男子发声（热度：37411）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B0%8F%E9%92%BA%E9%92%BA%E7%BC%BA%E5%B8%AD%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%23" target="weibo">
 山东小钺钺缺席今年高考（热度：35680）
 </a>
@@ -495,14 +501,14 @@ GBLOCK联名专辑（热度：32552）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%A4%A9%E6%B0%94%23" target="weibo">
-高考天气（热度：28641）
+<a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E7%BA%A7QQ%23" target="weibo">
+满级QQ（热度：28716）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E7%BA%A7QQ%23" target="weibo">
-满级QQ（热度：20347）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%A4%A9%E6%B0%94%23" target="weibo">
+高考天气（热度：28641）
 </a>
 </li>
 
@@ -519,8 +525,8 @@ cubal（热度：15043）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232008%E5%B9%B4%E6%95%85%E6%84%8F%E8%80%830%E5%88%86%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
-2008年故意考0分男子发声（热度：14169）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9B%80%E7%8E%84%E6%AD%A6%E6%95%95%E4%BB%A4%E8%AF%B4%E8%AF%AD%E6%96%87%E8%80%83%E5%BE%97%E4%B8%8D%E7%90%86%E6%83%B3%23" target="weibo">
+朱雀玄武敕令说语文考得不理想（热度：13328）
 </a>
 </li>
 
