@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749273885959,
+  "endTime": 1749274914571,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -2652,7 +2652,7 @@
     },
     {
       "raw_hot": 532361,
-      "num": 362094,
+      "num": 363064,
       "word": "作文 跑题",
       "onboard_time": 1749271404,
       "rank": 35,
@@ -2867,6 +2867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 502289,
+      "num": 469685,
+      "word": "22届没惹",
+      "onboard_time": 1749273202,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 502208,
       "num": 394262,
       "word": "47岁河智苑近照",
@@ -2977,6 +2985,14 @@
       "onboard_time": 1749023120,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 494514,
+      "num": 494514,
+      "word": "曹骏终于有了自己的名牌",
+      "onboard_time": 1749272603,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 492442,
@@ -3355,14 +3371,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 454044,
-      "num": 454044,
-      "word": "曹骏终于有了自己的名牌",
-      "onboard_time": 1749272603,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 451853,
       "num": 451853,
       "word": "女子疑被蛇咬身亡哪个环节出了问题",
@@ -3705,6 +3713,14 @@
       "onboard_time": 1749200480,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 407741,
+      "num": 407741,
+      "word": "孙俪邓超结婚15周年",
+      "onboard_time": 1749273383,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 407067,
@@ -4075,6 +4091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376953,
+      "num": 362958,
+      "word": "韩国小孩是珍稀动物怎么还能弄丢",
+      "onboard_time": 1749273803,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 376868,
       "num": 376868,
       "word": "违规存储涉密文件致重大失泄密",
@@ -4225,6 +4249,14 @@
       "onboard_time": 1749104361,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365311,
+      "num": 365311,
+      "word": "陈赫cue鹿晗朱志鑫",
+      "onboard_time": 1749273924,
+      "rank": 18,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 365310,
@@ -5307,6 +5339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 294921,
+      "num": 484789,
+      "word": "高考第一个走出考场考生发声",
+      "onboard_time": 1749272184,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294854,
       "num": 430981,
       "word": "酱园弄悬案关键证据丢了",
@@ -5385,14 +5425,6 @@
       "onboard_time": 1748757320,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288659,
-      "num": 254286,
-      "word": "韩国小孩是珍稀动物怎么还能弄丢",
-      "onboard_time": 1749273803,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 288469,
@@ -6235,20 +6267,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 251423,
+      "num": 251423,
+      "word": "侯佩岑救场",
+      "onboard_time": 1749274161,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251224,
       "num": 251224,
       "word": "章若楠海边白裙",
       "onboard_time": 1749202162,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250974,
-      "num": 369907,
-      "word": "高考第一个走出考场考生发声",
-      "onboard_time": 1749272184,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250880,
@@ -7347,6 +7379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214881,
+      "num": 214881,
+      "word": "丁真为妹妹出钱上学",
+      "onboard_time": 1749273682,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214760,
       "num": 214760,
       "word": "我国超1700万人在养异宠",
@@ -7531,6 +7571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211223,
+      "num": 211223,
+      "word": "22年考生怎么样了",
+      "onboard_time": 1749273741,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211160,
       "num": 211160,
       "word": "书卷一梦即将接档临江仙",
@@ -7569,14 +7617,6 @@
       "onboard_time": 1749129081,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210733,
-      "num": 210733,
-      "word": "孙俪邓超结婚15周年",
-      "onboard_time": 1749273383,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 210601,
@@ -7632,14 +7672,6 @@
       "word": "高考 下雨",
       "onboard_time": 1749028161,
       "rank": 25,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 209258,
-      "num": 209258,
-      "word": "22年考生怎么样了",
-      "onboard_time": 1749273741,
-      "rank": 38,
       "category": "教育"
     },
     {
@@ -7785,14 +7817,6 @@
       "onboard_time": 1748743460,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206871,
-      "num": 206871,
-      "word": "22届没惹",
-      "onboard_time": 1749273202,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 206786,
@@ -8131,14 +8155,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 202341,
-      "num": 202341,
-      "word": "丁真为妹妹出钱上学",
-      "onboard_time": 1749273682,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202278,
       "num": 202278,
       "word": "肖战东拼西凑的新鲜",
@@ -8347,6 +8363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198442,
+      "num": 198442,
+      "word": "王俊凯山河图rap",
+      "onboard_time": 1749274523,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198430,
       "num": 198430,
       "word": "马斯克称即刻退役龙飞船",
@@ -8529,6 +8553,14 @@
       "onboard_time": 1748734036,
       "rank": 5,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 195744,
+      "num": 195744,
+      "word": "Grace 我来歌手只有一个目的",
+      "onboard_time": 1749273981,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 195640,
@@ -9851,6 +9883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176032,
+      "num": 176032,
+      "word": "邓超 哭一鼻子",
+      "onboard_time": 1749274882,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176024,
       "num": 176024,
       "word": "特朗普回应马克龙被妻子打脸",
@@ -10825,6 +10865,14 @@
       "onboard_time": 1749194002,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162216,
+      "num": 162216,
+      "word": "时代少年团转发支持严浩翔新综艺",
+      "onboard_time": 1749274882,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 162090,
@@ -19555,6 +19603,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 58566,
+      "num": 198672,
+      "word": "无畏契约",
+      "onboard_time": 1749274223,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58516,
       "num": 602618,
       "word": "和院士一起科学过六一",
@@ -19865,6 +19921,14 @@
       "onboard_time": 1749180200,
       "rank": 29,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 53548,
+      "num": 446912,
+      "word": "游客称在泾县停车被饭店人员殴打",
+      "onboard_time": 1749273623,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53375,
@@ -20979,6 +21043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38990,
+      "num": 360437,
+      "word": "曾舜晞白九思可爱多暴击",
+      "onboard_time": 1749272724,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38668,
       "num": 461039,
       "word": "起底员工发烧请假遭HR辱骂涉事公司",
@@ -21571,14 +21643,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 32036,
-      "num": 360437,
-      "word": "曾舜晞白九思可爱多暴击",
-      "onboard_time": 1749272724,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 32035,
       "num": 40849,
       "word": "鞠婧祎COSMO玫瑰猎手大片",
@@ -21612,7 +21676,7 @@
     },
     {
       "raw_hot": 31770,
-      "num": 773465,
+      "num": 1153606,
       "word": "中国时尚产业盛典",
       "onboard_time": 1749196761,
       "rank": 2,
@@ -21721,6 +21785,14 @@
       "onboard_time": 1748960123,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30865,
+      "num": 198464,
+      "word": "胡荷韬无缘世界杯痛哭不止",
+      "onboard_time": 1749274882,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 30833,
@@ -22081,14 +22153,6 @@
       "onboard_time": 1749044663,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 27432,
-      "num": 365255,
-      "word": "游客称在泾县停车被饭店人员殴打",
-      "onboard_time": 1749273623,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27344,

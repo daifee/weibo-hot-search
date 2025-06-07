@@ -1,0 +1,410 @@
+{
+  "runTime": 1749274914571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8115335,
+        "num": 8115335,
+        "word": "高考作文",
+        "onboard_time": 1749264742,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1927315,
+        "num": 1927315,
+        "word": "语文默写",
+        "onboard_time": 1749268587,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2176,
+        "num": 1153606,
+        "word": "中国时尚产业盛典",
+        "onboard_time": 1749196761,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 1117039,
+        "num": 1117039,
+        "word": "王俊凯 把时代少年团请过来",
+        "onboard_time": 1749272664,
+        "rank": 3,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 1055419,
+        "num": 1055419,
+        "word": "全国一卷 难",
+        "onboard_time": 1749268289,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28678,
+        "num": 784709,
+        "word": "网警护航高考祝学子金榜题名",
+        "onboard_time": 1749265284,
+        "rank": 5,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 515533,
+        "num": 515533,
+        "word": "丁太升说单依纯李白念白low爆",
+        "onboard_time": 1749267208,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494514,
+        "num": 494514,
+        "word": "曹骏终于有了自己的名牌",
+        "onboard_time": 1749272603,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147638,
+        "num": 492317,
+        "word": "2025高考作文题汇总",
+        "onboard_time": 1749269186,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294921,
+        "num": 484789,
+        "word": "高考第一个走出考场考生发声",
+        "onboard_time": 1749272184,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1892331,
+        "num": 473891,
+        "word": "全国一卷作文 看不懂",
+        "onboard_time": 1749267869,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 502289,
+        "num": 469685,
+        "word": "22届没惹",
+        "onboard_time": 1749273202,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 692792,
+        "num": 461940,
+        "word": "高考作文 抽象",
+        "onboard_time": 1749269427,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 454159,
+        "num": 454159,
+        "word": "全国二卷 将梦赠予他人",
+        "onboard_time": 1749268468,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53548,
+        "num": 446912,
+        "word": "游客称在泾县停车被饭店人员殴打",
+        "onboard_time": 1749273623,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446467,
+        "num": 446467,
+        "word": "上海卷 专转传",
+        "onboard_time": 1749268768,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 407741,
+        "num": 407741,
+        "word": "孙俪邓超结婚15周年",
+        "onboard_time": 1749273383,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375852,
+        "num": 375852,
+        "word": "肖战姜妍蒋奇明 飞刀",
+        "onboard_time": 1749270086,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365311,
+        "num": 365311,
+        "word": "陈赫cue鹿晗朱志鑫",
+        "onboard_time": 1749273924,
+        "rank": 18,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 50503,
+        "num": 363539,
+        "word": "11城公交站HPV科普喊话考生妈妈",
+        "onboard_time": 1749272784,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518974,
+        "num": 363064,
+        "word": "作文 跑题",
+        "onboard_time": 1749271404,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 376953,
+        "num": 362958,
+        "word": "韩国小孩是珍稀动物怎么还能弄丢",
+        "onboard_time": 1749273803,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 362485,
+        "num": 362485,
+        "word": "单依纯回应疯了",
+        "onboard_time": 1749265041,
+        "rank": 22,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 38990,
+        "num": 321645,
+        "word": "曾舜晞白九思可爱多暴击",
+        "onboard_time": 1749272724,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320654,
+        "num": 320654,
+        "word": "看图默写",
+        "onboard_time": 1749271645,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 306897,
+        "num": 306897,
+        "word": "拜托高考第一个出考场的考生",
+        "onboard_time": 1749265644,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289133,
+        "num": 289133,
+        "word": "曝范玮琪临时换歌",
+        "onboard_time": 1749265764,
+        "rank": 26,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 252132,
+        "num": 252132,
+        "word": "苏醒朋友圈夸马嘉祺",
+        "onboard_time": 1749271883,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251423,
+        "num": 251423,
+        "word": "侯佩岑救场",
+        "onboard_time": 1749274161,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107445,
+        "num": 228254,
+        "word": "多路直击2025高考现场",
+        "onboard_time": 1749252498,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222332,
+        "num": 222332,
+        "word": "高考",
+        "onboard_time": 1749251598,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214881,
+        "num": 214881,
+        "word": "丁真为妹妹出钱上学",
+        "onboard_time": 1749273682,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211223,
+        "num": 211223,
+        "word": "22年考生怎么样了",
+        "onboard_time": 1749273741,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209622,
+        "num": 209622,
+        "word": "女子坐月子吹空调发烧39度进急诊",
+        "onboard_time": 1749267688,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207967,
+        "num": 207967,
+        "word": "高考语文答案",
+        "onboard_time": 1749270264,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207516,
+        "num": 207516,
+        "word": "藏海毒蛇竖瞳",
+        "onboard_time": 1749271944,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199933,
+        "num": 199933,
+        "word": "韦东奕社媒这道题并不比数学好解",
+        "onboard_time": 1749260240,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199080,
+        "num": 199080,
+        "word": "疑似转转植入高考",
+        "onboard_time": 1749271044,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 58566,
+        "num": 198672,
+        "word": "无畏契约",
+        "onboard_time": 1749274223,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30865,
+        "num": 198464,
+        "word": "胡荷韬无缘世界杯痛哭不止",
+        "onboard_time": 1749274882,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198442,
+        "num": 198442,
+        "word": "王俊凯山河图rap",
+        "onboard_time": 1749274523,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197446,
+        "num": 197446,
+        "word": "赵丽颖礼服三毛",
+        "onboard_time": 1749270985,
+        "rank": 41,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 195744,
+        "num": 195744,
+        "word": "Grace 我来歌手只有一个目的",
+        "onboard_time": 1749273981,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182542,
+        "num": 182542,
+        "word": "临江仙",
+        "onboard_time": 1749266064,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178800,
+        "num": 178800,
+        "word": "长安的荔枝今日开播",
+        "onboard_time": 1749271764,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178540,
+        "num": 178540,
+        "word": "高考语文",
+        "onboard_time": 1749261200,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176032,
+        "num": 176032,
+        "word": "邓超 哭一鼻子",
+        "onboard_time": 1749274882,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166071,
+        "num": 166071,
+        "word": "范玮琪ins回应上歌手",
+        "onboard_time": 1749269906,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162397,
+        "num": 162397,
+        "word": "江苏卫视即将承包全国九成笑点",
+        "onboard_time": 1749271645,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162216,
+        "num": 162216,
+        "word": "时代少年团转发支持严浩翔新综艺",
+        "onboard_time": 1749274882,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#在奋斗中释放青春激情#"
+    }
+  }
+}

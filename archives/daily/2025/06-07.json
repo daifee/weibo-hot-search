@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749273885959,
+  "endTime": 1749274914571,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 532361,
-      "num": 362094,
+      "num": 363064,
       "word": "作文 跑题",
       "onboard_time": 1749271404,
       "rank": 35,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502289,
+      "num": 469685,
+      "word": "22届没惹",
+      "onboard_time": 1749273202,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 498074,
       "num": 498074,
       "word": "韦东奕社媒这道题并不比数学好解",
@@ -257,6 +265,14 @@
       "onboard_time": 1749259882,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 494514,
+      "num": 494514,
+      "word": "曹骏终于有了自己的名牌",
+      "onboard_time": 1749272603,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 471270,
@@ -291,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 454044,
-      "num": 454044,
-      "word": "曹骏终于有了自己的名牌",
-      "onboard_time": 1749272603,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445512,
       "num": 623615,
       "word": "直播2025河南高考",
@@ -329,6 +337,14 @@
       "onboard_time": 1749252679,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407741,
+      "num": 407741,
+      "word": "孙俪邓超结婚15周年",
+      "onboard_time": 1749273383,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 407067,
@@ -371,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376953,
+      "num": 362958,
+      "word": "韩国小孩是珍稀动物怎么还能弄丢",
+      "onboard_time": 1749273803,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374142,
       "num": 374142,
       "word": "因7月太热高考自2003年起调整至6月",
@@ -385,6 +409,14 @@
       "onboard_time": 1749252498,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365311,
+      "num": 365311,
+      "word": "陈赫cue鹿晗朱志鑫",
+      "onboard_time": 1749273924,
+      "rank": 18,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 353876,
@@ -475,20 +507,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 294921,
+      "num": 484789,
+      "word": "高考第一个走出考场考生发声",
+      "onboard_time": 1749272184,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293432,
       "num": 175063,
       "word": "马嘉祺咬字",
       "onboard_time": 1749216386,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288659,
-      "num": 254286,
-      "word": "韩国小孩是珍稀动物怎么还能弄丢",
-      "onboard_time": 1749273803,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 286137,
@@ -563,12 +595,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 250974,
-      "num": 369907,
-      "word": "高考第一个走出考场考生发声",
-      "onboard_time": 1749272184,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 251423,
+      "num": 251423,
+      "word": "侯佩岑救场",
+      "onboard_time": 1749274161,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 250880,
@@ -667,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214881,
+      "num": 214881,
+      "word": "丁真为妹妹出钱上学",
+      "onboard_time": 1749273682,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212185,
       "num": 212185,
       "word": "老师开来985车牌车被学生摸包浆了",
@@ -675,16 +715,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210733,
-      "num": 210733,
-      "word": "孙俪邓超结婚15周年",
-      "onboard_time": 1749273383,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 209258,
-      "num": 209258,
+      "raw_hot": 211223,
+      "num": 211223,
       "word": "22年考生怎么样了",
       "onboard_time": 1749273741,
       "rank": 38,
@@ -713,14 +745,6 @@
       "onboard_time": 1749267869,
       "rank": 35,
       "category": "动漫,其它"
-    },
-    {
-      "raw_hot": 206871,
-      "num": 206871,
-      "word": "22届没惹",
-      "onboard_time": 1749273202,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 206706,
@@ -763,11 +787,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 202341,
-      "num": 202341,
-      "word": "丁真为妹妹出钱上学",
-      "onboard_time": 1749273682,
-      "rank": 42,
+      "raw_hot": 198442,
+      "num": 198442,
+      "word": "王俊凯山河图rap",
+      "onboard_time": 1749274523,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -785,6 +809,14 @@
       "onboard_time": 1749261802,
       "rank": 26,
       "category": "时尚,动漫"
+    },
+    {
+      "raw_hot": 195744,
+      "num": 195744,
+      "word": "Grace 我来歌手只有一个目的",
+      "onboard_time": 1749273981,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 194733,
@@ -915,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176032,
+      "num": 176032,
+      "word": "邓超 哭一鼻子",
+      "onboard_time": 1749274882,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176019,
       "num": 176019,
       "word": "老人捡到手机索要1600元才肯归还",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1749219625,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162216,
+      "num": 162216,
+      "word": "时代少年团转发支持严浩翔新综艺",
+      "onboard_time": 1749274882,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 159241,
@@ -1667,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58566,
+      "num": 198672,
+      "word": "无畏契约",
+      "onboard_time": 1749274223,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56681,
       "num": 369093,
       "word": "11城公交站HPV科普喊话考生妈妈",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1749252556,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53548,
+      "num": 446912,
+      "word": "游客称在泾县停车被饭店人员殴打",
+      "onboard_time": 1749273623,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52664,
@@ -1787,6 +1851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38990,
+      "num": 360437,
+      "word": "曾舜晞白九思可爱多暴击",
+      "onboard_time": 1749272724,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37347,
       "num": 146048,
       "word": "我在加沙的病人是孩子和孕妇",
@@ -1851,20 +1923,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 32036,
-      "num": 360437,
-      "word": "曾舜晞白九思可爱多暴击",
-      "onboard_time": 1749272724,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 27432,
-      "num": 365255,
-      "word": "游客称在泾县停车被饭店人员殴打",
-      "onboard_time": 1749273623,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 30865,
+      "num": 198464,
+      "word": "胡荷韬无缘世界杯痛哭不止",
+      "onboard_time": 1749274882,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 27048,
@@ -2009,6 +2073,14 @@
       "onboard_time": 1749248056,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2176,
+      "num": 1153606,
+      "word": "中国时尚产业盛典",
+      "onboard_time": 1749196761,
+      "rank": 2,
+      "category": "民生新闻,财经"
     }
   ],
   "hotgov_list": [
