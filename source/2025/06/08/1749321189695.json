@@ -1,0 +1,410 @@
+{
+  "runTime": 1749321189695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 806409,
+        "num": 806409,
+        "word": "浪姐成团名单",
+        "onboard_time": 1749313102,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511907,
+        "num": 511907,
+        "word": "韦东奕严选账号已改名",
+        "onboard_time": 1749312383,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19187,
+        "num": 222035,
+        "word": "一个学科一句为高考生加油",
+        "onboard_time": 1749302902,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536101,
+        "num": 217405,
+        "word": "李艺彤没成团",
+        "onboard_time": 1749314482,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190379,
+        "num": 190379,
+        "word": "高考数学",
+        "onboard_time": 1749283282,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176517,
+        "num": 176517,
+        "word": "中方要求日方尽快抓捕嫌犯",
+        "onboard_time": 1749312084,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 411263,
+        "num": 153178,
+        "word": "叶童年度总冠军",
+        "onboard_time": 1749315021,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314170,
+        "num": 142005,
+        "word": "吴宣仪第二",
+        "onboard_time": 1749315800,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115318,
+        "num": 115318,
+        "word": "高芙首夺法网冠军",
+        "onboard_time": 1749313823,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19432,
+        "num": 111180,
+        "word": "如果你有梦想就请梦得大胆一点",
+        "onboard_time": 1749319816,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 262360,
+        "num": 104295,
+        "word": "双黄丹",
+        "onboard_time": 1749319816,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177938,
+        "num": 90746,
+        "word": "祝绪丹成团",
+        "onboard_time": 1749316757,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260097,
+        "num": 87207,
+        "word": "吴宣仪 这是我第三次成团",
+        "onboard_time": 1749317477,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154337,
+        "num": 80617,
+        "word": "李晟 我也觉得票数低了",
+        "onboard_time": 1749309264,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73274,
+        "num": 73274,
+        "word": "王楚钦说世乒赛夺冠后全翻篇了",
+        "onboard_time": 1749315322,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71783,
+        "num": 71783,
+        "word": "韦神怎么附试卷上了",
+        "onboard_time": 1749292282,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 68554,
+        "num": 68554,
+        "word": "朱雀玄武敕令高考发声",
+        "onboard_time": 1749317177,
+        "rank": 16,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 64792,
+        "num": 64792,
+        "word": "王楚钦说孙颖莎有她成功的道理",
+        "onboard_time": 1749305302,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63385,
+        "num": 63385,
+        "word": "驻日本大使馆发布提醒",
+        "onboard_time": 1749310762,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62405,
+        "num": 62405,
+        "word": "五胞胎同时参加高考50多万费用被免",
+        "onboard_time": 1749307043,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119932,
+        "num": 62033,
+        "word": "浪姐到底谁在投票",
+        "onboard_time": 1749314302,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112618,
+        "num": 61765,
+        "word": "王珞丹年度队长",
+        "onboard_time": 1749315021,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99273,
+        "num": 61653,
+        "word": "空调一开一关和一直开着哪个费电",
+        "onboard_time": 1749310343,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 60752,
+        "num": 60752,
+        "word": "新一卷数学大题 难",
+        "onboard_time": 1749288745,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87686,
+        "num": 59032,
+        "word": "侯佩岑 划水",
+        "onboard_time": 1749302065,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76000,
+        "num": 58494,
+        "word": "李晟团票数也太低了",
+        "onboard_time": 1749301944,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55839,
+        "num": 55839,
+        "word": "长沙雷声轰隆暴雨泼",
+        "onboard_time": 1749318377,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54467,
+        "num": 54467,
+        "word": "牙医3年前预警韦东奕牙周危机成真",
+        "onboard_time": 1749288145,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52594,
+        "num": 52594,
+        "word": "李艺彤亲友团 被跳过",
+        "onboard_time": 1749298823,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51949,
+        "num": 51949,
+        "word": "赵雅芝美得我不知天地为何物",
+        "onboard_time": 1749301583,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83651,
+        "num": 51869,
+        "word": "大脑过度疲劳的8个信号",
+        "onboard_time": 1749319517,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49740,
+        "num": 49740,
+        "word": "曹颖邓萃雯姐姐值得",
+        "onboard_time": 1749313702,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47645,
+        "num": 47645,
+        "word": "陷入我们的热恋制片人回应",
+        "onboard_time": 1749315560,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46969,
+        "num": 46969,
+        "word": "马斯克和特朗普吵完又改口",
+        "onboard_time": 1749310103,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46216,
+        "num": 46216,
+        "word": "姜云升 也难怪圈外人有刻板印象",
+        "onboard_time": 1749303863,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45925,
+        "num": 45925,
+        "word": "天命小姜",
+        "onboard_time": 1749313102,
+        "rank": 35,
+        "category": "剧集,游戏"
+      },
+      {
+        "raw_hot": 43786,
+        "num": 43786,
+        "word": "全智贤老公炒币亏了150亿",
+        "onboard_time": 1749281120,
+        "rank": 36,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 43085,
+        "num": 43085,
+        "word": "重温关晓彤高考采访太逗了",
+        "onboard_time": 1749306083,
+        "rank": 37,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 39458,
+        "num": 43084,
+        "word": "GAI和CBLOCK四小只拥抱",
+        "onboard_time": 1749313283,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38186,
+        "num": 43051,
+        "word": "国产剧最普通人的女主出现了",
+        "onboard_time": 1749310702,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38140,
+        "num": 43037,
+        "word": "长沙暴雨",
+        "onboard_time": 1749306984,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37438,
+        "num": 43028,
+        "word": "高考数学压轴题",
+        "onboard_time": 1749311902,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 37190,
+        "num": 43014,
+        "word": "危险派对",
+        "onboard_time": 1749314302,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35680,
+        "num": 42982,
+        "word": "山东小钺钺缺席今年高考",
+        "onboard_time": 1749318977,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34035,
+        "num": 42969,
+        "word": "宋妍霏赢了张小婉",
+        "onboard_time": 1749307586,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33254,
+        "num": 42963,
+        "word": "周诗雨宣布与丝芭解约",
+        "onboard_time": 1749299302,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32552,
+        "num": 42933,
+        "word": "GBLOCK联名专辑",
+        "onboard_time": 1749320536,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32544,
+        "num": 42916,
+        "word": "藏海传里的蛇眉铜鱼真的存在吗",
+        "onboard_time": 1749310042,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32285,
+        "num": 42909,
+        "word": "谢娜好美",
+        "onboard_time": 1749307644,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28641,
+        "num": 42883,
+        "word": "高考天气",
+        "onboard_time": 1749319636,
+        "rank": 49,
+        "category": "教育,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#有责任有担当青春才会闪光#"
+    }
+  }
+}
