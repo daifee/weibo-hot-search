@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749289142558,
+  "endTime": 1749292001445,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -121,6 +121,14 @@
       "onboard_time": 1749129922,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3615870,
+      "num": 3615870,
+      "word": "新一卷数学大题 难",
+      "onboard_time": 1749288745,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 3531514,
@@ -825,6 +833,22 @@
       "onboard_time": 1748866222,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1202990,
+      "num": 477025,
+      "word": "数学一卷圆我大专梦",
+      "onboard_time": 1749290425,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1193365,
+      "num": 1193365,
+      "word": "新二卷数学 简单",
+      "onboard_time": 1749288745,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 1189731,
@@ -1899,6 +1923,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 693825,
+      "num": 473137,
+      "word": "数学我恨你",
+      "onboard_time": 1749289763,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 692853,
       "num": 692853,
       "word": "电影恶意全阵容官宣",
@@ -2169,6 +2201,14 @@
       "onboard_time": 1748940561,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 639003,
+      "num": 467767,
+      "word": "陈楚生押中高考作文",
+      "onboard_time": 1749291682,
+      "rank": 13,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 637222,
@@ -2499,14 +2539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 587229,
-      "num": 587229,
-      "word": "新二卷数学 简单",
-      "onboard_time": 1749288745,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 586828,
       "num": 586828,
       "word": "女子效仿转卖蜜雪时薪20元果断放弃",
@@ -2633,6 +2665,14 @@
       "onboard_time": 1749103701,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 568286,
+      "num": 525250,
+      "word": "折腰庆功宴",
+      "onboard_time": 1749287485,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 567446,
@@ -2817,14 +2857,6 @@
       "onboard_time": 1749082400,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 525250,
-      "num": 525250,
-      "word": "折腰庆功宴",
-      "onboard_time": 1749287485,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 524386,
@@ -3587,14 +3619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 439305,
-      "num": 439305,
-      "word": "新一卷数学大题 难",
-      "onboard_time": 1749288745,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 439227,
       "num": 439227,
       "word": "苹果手机 地震预警",
@@ -4209,6 +4233,14 @@
       "onboard_time": 1748696661,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 379988,
+      "num": 379988,
+      "word": "牙医3年前预警韦东奕牙周危机成真",
+      "onboard_time": 1749288145,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 379171,
@@ -5171,14 +5203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 314352,
-      "num": 314352,
-      "word": "牙医3年前预警韦东奕牙周危机成真",
-      "onboard_time": 1749288145,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 313984,
       "num": 251146,
       "word": "迪丽热巴33岁生日短片",
@@ -5969,6 +5993,14 @@
       "onboard_time": 1748936061,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 275198,
+      "num": 275198,
+      "word": "数学 一生之敌",
+      "onboard_time": 1749291622,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 274759,
@@ -7947,6 +7979,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 209703,
+      "num": 209703,
+      "word": "30块钱咖啡买到3000块钱服务",
+      "onboard_time": 1749291383,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209321,
       "num": 209321,
       "word": "王自如感谢董明珠雷军",
@@ -8403,6 +8443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203009,
+      "num": 382733,
+      "word": "范玮琪演唱会门票跌至5.6折",
+      "onboard_time": 1749290903,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202961,
       "num": 202961,
       "word": "酱园弄群星海报",
@@ -8587,6 +8635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200360,
+      "num": 496810,
+      "word": "铂金包绿水鬼一元拍",
+      "onboard_time": 1749288026,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200270,
       "num": 200270,
       "word": "丁太升",
@@ -8644,7 +8700,7 @@
     },
     {
       "raw_hot": 199088,
-      "num": 199088,
+      "num": 337083,
       "word": "姜云升 新说唱",
       "onboard_time": 1749279202,
       "rank": 26,
@@ -8657,6 +8713,14 @@
       "onboard_time": 1749275601,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198971,
+      "num": 198971,
+      "word": "准备复读",
+      "onboard_time": 1749291203,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 198939,
@@ -9883,6 +9947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183204,
+      "num": 183204,
+      "word": "高考数学答案",
+      "onboard_time": 1749289105,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 182890,
       "num": 182890,
       "word": "查理苏正脸",
@@ -10259,6 +10331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176805,
+      "num": 176805,
+      "word": "就算没考好也才十八岁",
+      "onboard_time": 1749291682,
+      "rank": 37,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 176421,
       "num": 176421,
       "word": "宋威龙笑脸baby冷脸daddy",
@@ -10339,6 +10419,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 175563,
+      "num": 175563,
+      "word": "何秋亊公关",
+      "onboard_time": 1749289044,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 175500,
       "num": 175500,
       "word": "赵樱子自曝患抑郁症",
@@ -10385,6 +10473,14 @@
       "onboard_time": 1749054740,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174806,
+      "num": 174806,
+      "word": "李隼嫁女四大奥运乒乓冠军现身搂席",
+      "onboard_time": 1749291742,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 174783,
@@ -11747,6 +11843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156644,
+      "num": 156644,
+      "word": "我和数学离婚了",
+      "onboard_time": 1749290903,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 156440,
       "num": 156440,
       "word": "谁给白鹿找的果盘",
@@ -11761,6 +11865,14 @@
       "onboard_time": 1749257300,
       "rank": 34,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 156073,
+      "num": 314996,
+      "word": "十个勤天被插秧机做局了",
+      "onboard_time": 1749291023,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 155943,
@@ -12145,6 +12257,14 @@
       "onboard_time": 1748774180,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152714,
+      "num": 152714,
+      "word": "天津高考数学",
+      "onboard_time": 1749289583,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 152701,
@@ -12539,6 +12659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147799,
+      "num": 147799,
+      "word": "高考数学 明年今日对我好一点",
+      "onboard_time": 1749289404,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147755,
       "num": 147755,
       "word": "风月不相关",
@@ -12609,6 +12737,14 @@
       "onboard_time": 1749132442,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 146810,
+      "num": 146810,
+      "word": "特朗普说除了我美国离了谁都照样转",
+      "onboard_time": 1749291742,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 146788,
@@ -13363,6 +13499,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 140123,
+      "num": 140123,
+      "word": "九尾女娲真尽力了",
+      "onboard_time": 1749291325,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140044,
       "num": 140044,
       "word": "韩国地铁车厢起火瞬间曝光",
@@ -13489,6 +13633,14 @@
       "onboard_time": 1748836159,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138786,
+      "num": 138786,
+      "word": "meiko 菜",
+      "onboard_time": 1749291982,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 138732,
@@ -14723,14 +14875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128308,
-      "num": 128308,
-      "word": "高考数学答案",
-      "onboard_time": 1749289105,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 128287,
       "num": 128287,
       "word": "金丝楠木为什么这么贵",
@@ -15499,14 +15643,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 119859,
-      "num": 119859,
-      "word": "何秋亊公关",
-      "onboard_time": 1749289044,
-      "rank": 49,
-      "category": "网红"
-    },
-    {
       "raw_hot": 119623,
       "num": 119623,
       "word": "张杰演唱会",
@@ -15761,14 +15897,6 @@
       "onboard_time": 1748932702,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116962,
-      "num": 496810,
-      "word": "铂金包绿水鬼一元拍",
-      "onboard_time": 1749288026,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 116947,
@@ -19675,6 +19803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70292,
+      "num": 498718,
+      "word": "张桂梅一句话让我秒回学生时代",
+      "onboard_time": 1749291443,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70172,
       "num": 175351,
       "word": "李昊支持卫兰",
@@ -20169,6 +20305,14 @@
       "onboard_time": 1748748920,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62066,
+      "num": 414389,
+      "word": "官方通报网传8岁女孩遭长期霸凌",
+      "onboard_time": 1749291443,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 62009,
@@ -22283,6 +22427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34041,
+      "num": 429836,
+      "word": "清明上河园回应被质疑虐待猴子",
+      "onboard_time": 1749291325,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33905,
       "num": 268248,
       "word": "贵州为考生开启身份证办理绿色通道",
@@ -22537,6 +22689,14 @@
       "onboard_time": 1749117680,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 31617,
+      "num": 451923,
+      "word": "苏超出圈是散装江苏真正的阳谋",
+      "onboard_time": 1749291325,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 31481,
@@ -23153,6 +23313,14 @@
       "onboard_time": 1748845940,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 25875,
+      "num": 381228,
+      "word": "2025年湖南高考作文题",
+      "onboard_time": 1749291325,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 25758,
@@ -24233,6 +24401,14 @@
       "onboard_time": 1749112340,
       "rank": 33,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 14336,
+      "num": 417760,
+      "word": "王自如为何在与罗永浩辩论后加入格力",
+      "onboard_time": 1749289943,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14299,

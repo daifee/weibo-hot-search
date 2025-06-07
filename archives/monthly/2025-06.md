@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/07 17:39:02
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/07 18:26:41
 </p>
 </blockquote>
 <p>
@@ -101,6 +101,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E5%8D%B0%E5%B0%BC%23" target="weibo">
 国足vs印尼（热度：3710133）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%8D%B7%E6%95%B0%E5%AD%A6%E5%A4%A7%E9%A2%98%20%E9%9A%BE%23" target="weibo">
+新一卷数学大题 难（热度：3615870）
 </a>
 </li>
 
@@ -629,6 +635,18 @@ GAI是不是想走了（热度：1689581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%A6%E7%BB%A3%E8%8A%B3%E5%8D%8E%23" target="weibo">
 锦绣芳华（热度：1214123）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E4%B8%80%E5%8D%B7%E5%9C%86%E6%88%91%E5%A4%A7%E4%B8%93%E6%A2%A6%23" target="weibo">
+数学一卷圆我大专梦（热度：1202990）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%8C%E5%8D%B7%E6%95%B0%E5%AD%A6%20%E7%AE%80%E5%8D%95%23" target="weibo">
+新二卷数学 简单（热度：1193365）
 </a>
 </li>
 
@@ -1437,6 +1455,12 @@ labubu牙套（热度：696332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E6%88%91%E6%81%A8%E4%BD%A0%23" target="weibo">
+数学我恨你（热度：693825）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%81%B6%E6%84%8F%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
 电影恶意全阵容官宣（热度：692853）
 </a>
@@ -1637,6 +1661,12 @@ labubu牙套（热度：696332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E6%96%8B%23" target="weibo">
 聊斋（热度：641746）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23" target="weibo">
+陈楚生押中高考作文（热度：639003）
 </a>
 </li>
 
@@ -1887,12 +1917,6 @@ labubu牙套（热度：696332）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%8C%E5%8D%B7%E6%95%B0%E5%AD%A6%20%E7%AE%80%E5%8D%95%23" target="weibo">
-新二卷数学 简单（热度：587229）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%95%88%E4%BB%BF%E8%BD%AC%E5%8D%96%E8%9C%9C%E9%9B%AA%E6%97%B6%E8%96%AA20%E5%85%83%E6%9E%9C%E6%96%AD%E6%94%BE%E5%BC%83%23" target="weibo">
 女子效仿转卖蜜雪时薪20元果断放弃（热度：586828）
 </a>
@@ -1985,6 +2009,12 @@ GAI 大白嗓（热度：583445）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D%23" target="weibo">
 范玮琪歌手补位（热度：569927）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E5%BA%86%E5%8A%9F%E5%AE%B4%23" target="weibo">
+折腰庆功宴（热度：568286）
 </a>
 </li>
 
@@ -2123,12 +2153,6 @@ Bin 闹剧结束了（热度：538670）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E8%B8%A9%E8%B8%8F%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B411%E6%AD%BB50%E4%BD%99%E4%BC%A4%23" target="weibo">
 印度踩踏事件已致11死50余伤（热度：525279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E5%BA%86%E5%8A%9F%E5%AE%B4%23" target="weibo">
-折腰庆功宴（热度：525250）
 </a>
 </li>
 
@@ -2703,12 +2727,6 @@ IU车银优双人cha（热度：474153）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%8D%B7%E6%95%B0%E5%AD%A6%E5%A4%A7%E9%A2%98%20%E9%9A%BE%23" target="weibo">
-新一卷数学大题 难（热度：439305）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%20%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6%23" target="weibo">
 苹果手机 地震预警（热度：439227）
 </a>
@@ -3167,6 +3185,12 @@ WE对战JDG（热度：395870）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E8%BF%99%E7%A7%8D%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%84%8F%E4%B9%89%E5%9C%A8%E4%BA%8E%E6%B2%A1%E6%9C%89%E6%84%8F%E4%B9%89%23" target="weibo">
 女装这种设计的意义在于没有意义（热度：380417）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%99%E5%8C%BB3%E5%B9%B4%E5%89%8D%E9%A2%84%E8%AD%A6%E9%9F%A6%E4%B8%9C%E5%A5%95%E7%89%99%E5%91%A8%E5%8D%B1%E6%9C%BA%E6%88%90%E7%9C%9F%23" target="weibo">
+牙医3年前预警韦东奕牙周危机成真（热度：379988）
 </a>
 </li>
 
@@ -3891,12 +3915,6 @@ JDG对战TTG（热度：324205）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%99%E5%8C%BB3%E5%B9%B4%E5%89%8D%E9%A2%84%E8%AD%A6%E9%9F%A6%E4%B8%9C%E5%A5%95%E7%89%99%E5%91%A8%E5%8D%B1%E6%9C%BA%E6%88%90%E7%9C%9F%23" target="weibo">
-牙医3年前预警韦东奕牙周危机成真（热度：314352）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B433%E5%B2%81%E7%94%9F%E6%97%A5%E7%9F%AD%E7%89%87%23" target="weibo">
 迪丽热巴33岁生日短片（热度：313984）
 </a>
@@ -4487,6 +4505,12 @@ VOGUE直播（热度：299123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
 原神（热度：275277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%20%E4%B8%80%E7%94%9F%E4%B9%8B%E6%95%8C%23" target="weibo">
+数学 一生之敌（热度：275198）
 </a>
 </li>
 
@@ -5973,6 +5997,12 @@ MRC对战FPXZQ（热度：211284）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2330%E5%9D%97%E9%92%B1%E5%92%96%E5%95%A1%E4%B9%B0%E5%88%B03000%E5%9D%97%E9%92%B1%E6%9C%8D%E5%8A%A1%23" target="weibo">
+30块钱咖啡买到3000块钱服务（热度：209703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%E6%84%9F%E8%B0%A2%E8%91%A3%E6%98%8E%E7%8F%A0%E9%9B%B7%E5%86%9B%23" target="weibo">
 王自如感谢董明珠雷军（热度：209321）
 </a>
@@ -5981,36 +6011,6 @@ MRC对战FPXZQ（热度：211284）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%20%E4%B8%8B%E9%9B%A8%23" target="weibo">
 高考 下雨（热度：209295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BA%AB%E4%B8%8A%E7%9A%84%E6%96%87%E4%BA%BA%E6%B0%94%E8%B4%A8%23" target="weibo">
-赵丽颖身上的文人气质（热度：209174）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%B0%A2%E6%B7%AE%E5%AE%89%E5%BC%80%E5%90%AF%E5%A4%8D%E4%BB%87%E5%AF%B9%E5%BC%88%23" target="weibo">
-成毅谢淮安开启复仇对弈（热度：209086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E8%BF%AA%E5%81%B6%E9%81%87%E6%9D%8E%E5%85%B0%E8%BF%AA%23" target="weibo">
-港迪偶遇李兰迪（热度：208855）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%B0%8F%E5%A9%B7%E7%94%B7%E5%AE%9D%E6%98%9F%E7%90%832%E5%AF%BC%E5%B8%88%23" target="weibo">
-沈小婷男宝星球2导师（热度：208679）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%92%AC%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%90%E4%BA%B2%E5%B1%9E%E7%A7%B0%E4%B8%80%E5%AE%9A%E8%A6%81%E5%BC%84%E6%B8%85%E6%A5%9A%E6%AD%BB%E5%9B%A0%23" target="weibo">
-被咬身亡女子亲属称一定要弄清楚死因（热度：208613）
 </a>
 </li>
 

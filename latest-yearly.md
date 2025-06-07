@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/07 17:39:02
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/07 18:26:41
 </p>
 </blockquote>
 <p>
@@ -1563,6 +1563,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%8D%B7%E6%95%B0%E5%AD%A6%E5%A4%A7%E9%A2%98%20%E9%9A%BE%23" target="weibo">
+新一卷数学大题 难（热度：3615870）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8F%A3%E5%9E%8B%20%E7%9C%8B%E4%B8%8D%E4%BC%9A%E5%BE%97%23" target="weibo">
 王一博口型 看不会得（热度：3603385）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E8%8F%B2%E7%8E%B0%E4%BB%BB%E5%A6%BB%E5%AD%90mandy%E5%8F%91%E5%A3%B0%23" target="weibo">
 汪小菲现任妻子mandy发声（热度：3385913）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%20%E4%BA%8C%E8%83%8E%23" target="weibo">
-胡歌 二胎（热度：3377057）
 </a>
 </li>
 
