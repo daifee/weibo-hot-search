@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749270667651,
+  "endTime": 1749271536890,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1302071,
-      "num": 470394,
+      "num": 721505,
       "word": "高考作文 抽象",
       "onboard_time": 1749269427,
       "rank": 15,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 898375,
-      "num": 601990,
+      "num": 705501,
       "word": "拜托高考第一个出考场的考生",
       "onboard_time": 1749265644,
       "rank": 22,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 861712,
-      "num": 861712,
+      "num": 1166282,
       "word": "丁太升说单依纯李白念白low爆",
       "onboard_time": 1749267208,
       "rank": 7,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 716539,
-      "num": 716539,
+      "num": 1130137,
       "word": "单依纯回应疯了",
       "onboard_time": 1749265041,
       "rank": 4,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 560345,
-      "num": 560345,
+      "num": 661406,
       "word": "曝范玮琪临时换歌",
       "onboard_time": 1749265764,
       "rank": 13,
@@ -291,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 435825,
+      "num": 435825,
+      "word": "疑似转转植入高考",
+      "onboard_time": 1749271044,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 434045,
       "num": 434045,
       "word": "2008年故意考0分男子第四次参加高考",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 385138,
-      "num": 458393,
+      "num": 605562,
       "word": "五哈",
       "onboard_time": 1749267750,
       "rank": 18,
@@ -353,6 +361,14 @@
       "onboard_time": 1749226702,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352522,
+      "num": 620870,
+      "word": "肖战姜妍蒋奇明 飞刀",
+      "onboard_time": 1749270086,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 335907,
@@ -411,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295127,
+      "num": 295127,
+      "word": "高考语文答案",
+      "onboard_time": 1749270264,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 293432,
       "num": 175063,
       "word": "马嘉祺咬字",
@@ -451,12 +475,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267517,
-      "num": 267517,
+      "raw_hot": 270141,
+      "num": 270141,
       "word": "临江仙",
       "onboard_time": 1749266064,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269837,
+      "num": 269837,
+      "word": "赵丽颖礼服三毛",
+      "onboard_time": 1749270985,
+      "rank": 27,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 260451,
@@ -475,20 +507,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 255793,
-      "num": 255793,
-      "word": "肖战姜妍蒋奇明 飞刀",
-      "onboard_time": 1749270086,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250880,
       "num": 250880,
       "word": "警方回应老人捡手机索要1600才肯还",
       "onboard_time": 1749225202,
       "rank": 5,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 250130,
+      "num": 250130,
+      "word": "范玮琪ins回应上歌手",
+      "onboard_time": 1749269906,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 238463,
@@ -539,6 +571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 221040,
+      "num": 221040,
+      "word": "语文阅读",
+      "onboard_time": 1749270565,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 219987,
       "num": 270702,
       "word": "文韬全员加速中第一个被抓",
@@ -553,6 +593,14 @@
       "onboard_time": 1749255138,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212110,
+      "num": 212110,
+      "word": "作文 跑题",
+      "onboard_time": 1749271404,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 207763,
@@ -603,11 +651,19 @@
       "category": "民生新闻,民生新闻"
     },
     {
-      "raw_hot": 202830,
-      "num": 202830,
-      "word": "高考语文答案",
-      "onboard_time": 1749270264,
-      "rank": 39,
+      "raw_hot": 202423,
+      "num": 202423,
+      "word": "看到题目两眼一黑",
+      "onboard_time": 1749271344,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 197460,
+      "num": 197460,
+      "word": "天津作文 轮毂",
+      "onboard_time": 1749270806,
+      "rank": 41,
       "category": "教育"
     },
     {
@@ -641,6 +697,14 @@
       "onboard_time": 1749268109,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189947,
+      "num": 189947,
+      "word": "鼓书艺人",
+      "onboard_time": 1749270385,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 188718,
@@ -715,6 +779,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 182591,
+      "num": 447753,
+      "word": "亡夫赠情人514万被判返还",
+      "onboard_time": 1749267448,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182261,
       "num": 182261,
       "word": "高考加油",
@@ -729,14 +801,6 @@
       "onboard_time": 1749226222,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177461,
-      "num": 177461,
-      "word": "语文阅读",
-      "onboard_time": 1749270565,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 176019,
@@ -761,14 +825,6 @@
       "onboard_time": 1749218367,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 174653,
-      "num": 447753,
-      "word": "亡夫赠情人514万被判返还",
-      "onboard_time": 1749267448,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174431,
@@ -827,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159241,
+      "num": 198455,
+      "word": "人早晚是会爱上labubu的",
+      "onboard_time": 1749270385,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159099,
       "num": 116140,
       "word": "VOGUE晚宴",
@@ -883,20 +947,20 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 147951,
+      "num": 533357,
+      "word": "特朗普说乌给了普京轰炸的理由",
+      "onboard_time": 1749269727,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144074,
       "num": 70583,
       "word": "单依纯李白 高考禁曲",
       "onboard_time": 1749236115,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142019,
-      "num": 481871,
-      "word": "特朗普说乌给了普京轰炸的理由",
-      "onboard_time": 1749269727,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141042,
@@ -963,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132261,
-      "num": 198455,
-      "word": "人早晚是会爱上labubu的",
-      "onboard_time": 1749270385,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132193,
       "num": 132193,
       "word": "你好星期六开盲盒式选搭子",
@@ -993,6 +1049,14 @@
       "onboard_time": 1749253339,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129386,
+      "num": 1085350,
+      "word": "天津卷作文辐条车轮车辆",
+      "onboard_time": 1749271165,
+      "rank": 9,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 129301,
@@ -1283,6 +1347,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 88206,
+      "num": 182668,
+      "word": "金价",
+      "onboard_time": 1749271224,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87803,
       "num": 76542,
       "word": "水果里的高糖刺客",
@@ -1476,7 +1548,7 @@
     },
     {
       "raw_hot": 52488,
-      "num": 613399,
+      "num": 1033616,
       "word": "张艺兴的京东新舞台",
       "onboard_time": 1749267630,
       "rank": 10,
@@ -1539,6 +1611,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 42512,
+      "num": 721508,
+      "word": "江西2岁肝病男童母亲回应未就医质疑",
+      "onboard_time": 1749270624,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41986,
       "num": 145082,
       "word": "辛纳阿尔卡拉斯法网争冠",
@@ -1548,7 +1628,7 @@
     },
     {
       "raw_hot": 41438,
-      "num": 514517,
+      "num": 979008,
       "word": "京东张艺兴合拍",
       "onboard_time": 1749269126,
       "rank": 11,
@@ -1761,14 +1841,6 @@
       "onboard_time": 1749234435,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 11510,
-      "num": 207836,
-      "word": "江西2岁肝病男童母亲回应未就医质疑",
-      "onboard_time": 1749270624,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10055,
