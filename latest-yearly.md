@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/07 17:25:17
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/07 17:39:02
 </p>
 </blockquote>
 <p>
@@ -153,6 +153,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%23" target="weibo">
+高考数学（热度：18183683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23315%E6%99%9A%E4%BC%9A%23" target="weibo">
 315晚会（热度：17515520）
 </a>
@@ -227,12 +233,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%BE%8E%E6%89%80%E6%9C%89%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81%E5%8A%A0%E5%BE%81125%25%E5%85%B3%E7%A8%8E%23" target="weibo">
 对美所有进口商品加征125%关税（热度：15319037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%23" target="weibo">
-高考数学（热度：15283970）
 </a>
 </li>
 
@@ -1773,6 +1773,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E4%B8%8D%E9%9A%BE%23" target="weibo">
+高考数学难不难（热度：3418087）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8F%E5%92%8C%23" target="weibo">
 协和（热度：3413245）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%20%E4%BA%8C%E8%83%8E%23" target="weibo">
 胡歌 二胎（热度：3377057）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E9%AC%BC%20%E6%88%91%E6%B2%A1%E6%9C%89%E7%BB%93%E5%A9%9A%23" target="weibo">
-鬼鬼 我没有结婚（热度：3376657）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1749289142558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 18183683,
+        "num": 18183683,
+        "word": "高考数学",
+        "onboard_time": 1749283282,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3418087,
+        "num": 3418087,
+        "word": "高考数学难不难",
+        "onboard_time": 1749287786,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 43836,
+        "num": 2560536,
+        "word": "高考首日旗开得胜",
+        "onboard_time": 1749275662,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2214891,
+        "num": 2214891,
+        "word": "我竟然押中了高考作文",
+        "onboard_time": 1749286342,
+        "rank": 3,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 1274424,
+        "num": 1274424,
+        "word": "高考作文",
+        "onboard_time": 1749264742,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1251803,
+        "num": 1251803,
+        "word": "全国一卷 难",
+        "onboard_time": 1749268289,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 703623,
+        "num": 703623,
+        "word": "于小彤 原来得了绝症不会哭",
+        "onboard_time": 1749280942,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518299,
+        "num": 604399,
+        "word": "孙俪邓超的孩子一个14岁一个11岁",
+        "onboard_time": 1749280942,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587229,
+        "num": 587229,
+        "word": "新二卷数学 简单",
+        "onboard_time": 1749288745,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 525250,
+        "num": 525250,
+        "word": "折腰庆功宴",
+        "onboard_time": 1749287485,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288434,
+        "num": 524330,
+        "word": "王俊凯 把时代少年团请过来",
+        "onboard_time": 1749272664,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350218,
+        "num": 517477,
+        "word": "男生高考被单独分到一个教室",
+        "onboard_time": 1749286702,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106253,
+        "num": 515947,
+        "word": "泾县文旅局向蔡某及其家人致歉",
+        "onboard_time": 1749285022,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64913,
+        "num": 511014,
+        "word": "南昌考场现显眼包大喊快采访我",
+        "onboard_time": 1749287906,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106847,
+        "num": 508686,
+        "word": "WBG对战IG",
+        "onboard_time": 1749288386,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 285896,
+        "num": 504727,
+        "word": "五旬老太守国门 谁来制裁单依纯",
+        "onboard_time": 1749277761,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251028,
+        "num": 501318,
+        "word": "赵丽颖染回黑发了",
+        "onboard_time": 1749278181,
+        "rank": 16,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 102653,
+        "num": 496810,
+        "word": "铂金包绿水鬼一元拍",
+        "onboard_time": 1749288026,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17430,
+        "num": 490596,
+        "word": "女性密室NPC该如何保护自己",
+        "onboard_time": 1749287485,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42280,
+        "num": 490095,
+        "word": "律师借款付息向法官行贿超百万",
+        "onboard_time": 1749287725,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548438,
+        "num": 483866,
+        "word": "语文默写",
+        "onboard_time": 1749268587,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84779,
+        "num": 479241,
+        "word": "考生回应高考被单独分到一个教室",
+        "onboard_time": 1749288865,
+        "rank": 21,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 638728,
+        "num": 475838,
+        "word": "全智贤老公炒币亏了150亿",
+        "onboard_time": 1749281120,
+        "rank": 22,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 474654,
+        "num": 474654,
+        "word": "首个走出考场的学霸竟是高二体验生",
+        "onboard_time": 1749285622,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439305,
+        "num": 439305,
+        "word": "新一卷数学大题 难",
+        "onboard_time": 1749288745,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345569,
+        "num": 345569,
+        "word": "高考作文 抽象",
+        "onboard_time": 1749269427,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 314352,
+        "num": 314352,
+        "word": "牙医3年前预警韦东奕牙周危机成真",
+        "onboard_time": 1749288145,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298772,
+        "num": 298772,
+        "word": "没有全国甲乙卷了",
+        "onboard_time": 1749286222,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 285192,
+        "num": 285192,
+        "word": "国乒总教练李隼女儿结婚",
+        "onboard_time": 1749284243,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217929,
+        "num": 247844,
+        "word": "曹骏郑合惠子cp感",
+        "onboard_time": 1749284541,
+        "rank": 29,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 237859,
+        "num": 237859,
+        "word": "退休教授被曝雨夜爬山失足坠崖身亡",
+        "onboard_time": 1749281661,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237647,
+        "num": 237647,
+        "word": "武汉一考点司机疯狂按喇叭被扣",
+        "onboard_time": 1749287786,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220800,
+        "num": 220800,
+        "word": "梁实第29次考完高考语文后说有点悬",
+        "onboard_time": 1749286942,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207149,
+        "num": 207149,
+        "word": "大学生看不懂",
+        "onboard_time": 1749287965,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202724,
+        "num": 202724,
+        "word": "印843名甘蔗女工接受子宫切除",
+        "onboard_time": 1749284002,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202162,
+        "num": 202162,
+        "word": "刘宇宁单人撕拉片",
+        "onboard_time": 1749286342,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196373,
+        "num": 196373,
+        "word": "26届就这样蹲完语文蹲数学",
+        "onboard_time": 1749288565,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196190,
+        "num": 196190,
+        "word": "Yamy质疑诺米晋级",
+        "onboard_time": 1749286582,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186437,
+        "num": 192237,
+        "word": "王勉王俊凯你俩有点暧昧了",
+        "onboard_time": 1749288446,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78206,
+        "num": 189724,
+        "word": "无限暖暖",
+        "onboard_time": 1749288806,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189182,
+        "num": 189182,
+        "word": "九尾 我是阿豆",
+        "onboard_time": 1749288264,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170731,
+        "num": 170731,
+        "word": "陈都灵郑州",
+        "onboard_time": 1749288565,
+        "rank": 41,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 169694,
+        "num": 169694,
+        "word": "向佐怎么瘦成这样了",
+        "onboard_time": 1749282741,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153670,
+        "num": 153670,
+        "word": "开放性默写",
+        "onboard_time": 1749276743,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152495,
+        "num": 152495,
+        "word": "高考",
+        "onboard_time": 1749251598,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150692,
+        "num": 150692,
+        "word": "全国一卷作文 看不懂",
+        "onboard_time": 1749267869,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149040,
+        "num": 149040,
+        "word": "高考语文",
+        "onboard_time": 1749261200,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139034,
+        "num": 139034,
+        "word": "男子喝3斤白酒开智驾上高速",
+        "onboard_time": 1749281484,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128308,
+        "num": 128308,
+        "word": "高考数学答案",
+        "onboard_time": 1749289105,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119859,
+        "num": 119859,
+        "word": "何秋亊公关",
+        "onboard_time": 1749289044,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记建设美丽中国"
+    }
+  }
+}
