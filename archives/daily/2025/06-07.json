@@ -1,13 +1,21 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749262929229,
+  "endTime": 1749266349512,
   "band_list": [
     {
-      "raw_hot": 4696166,
-      "num": 4696166,
+      "raw_hot": 11447170,
+      "num": 11447170,
       "word": "高考语文",
       "onboard_time": 1749261200,
       "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 6908197,
+      "num": 6908197,
+      "word": "高考作文",
+      "onboard_time": 1749264742,
+      "rank": 1,
       "category": "教育"
     },
     {
@@ -35,8 +43,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1421778,
-      "num": 1421778,
+      "raw_hot": 1488888,
+      "num": 1488888,
       "word": "第一批走错考场的学生出现了",
       "onboard_time": 1749260002,
       "rank": 3,
@@ -75,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 716539,
+      "num": 716539,
+      "word": "单依纯回应疯了",
+      "onboard_time": 1749265041,
+      "rank": 4,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 683840,
       "num": 202875,
       "word": "马嘉祺粉底液",
@@ -107,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553427,
+      "num": 553427,
+      "word": "高考首日高三学生6点半正常跑操",
+      "onboard_time": 1749261142,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 506521,
       "num": 506521,
       "word": "跑男这期收视率好高",
@@ -115,12 +139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498074,
+      "num": 498074,
+      "word": "韦东奕社媒这道题并不比数学好解",
+      "onboard_time": 1749260240,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495177,
       "num": 495177,
       "word": "女子薅国家羊毛被判三年",
       "onboard_time": 1749259882,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471270,
+      "num": 553925,
+      "word": "赵丽颖阿玛尼春夏高定",
+      "onboard_time": 1749259582,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 465642,
@@ -139,12 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 452085,
-      "num": 452085,
-      "word": "高考首日高三学生6点半正常跑操",
-      "onboard_time": 1749261142,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 443786,
+      "num": 443786,
+      "word": "曝范玮琪临时换歌",
+      "onboard_time": 1749265764,
+      "rank": 13,
+      "category": "综艺,音乐"
     },
     {
       "raw_hot": 442129,
@@ -171,14 +211,6 @@
       "category": "综艺,音乐"
     },
     {
-      "raw_hot": 402122,
-      "num": 402122,
-      "word": "赵丽颖阿玛尼春夏高定",
-      "onboard_time": 1749259582,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 391657,
       "num": 536168,
       "word": "高考第一天",
@@ -201,6 +233,14 @@
       "onboard_time": 1749248956,
       "rank": 34,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 373477,
+      "num": 373477,
+      "word": "多路直击2025高考现场",
+      "onboard_time": 1749252498,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353452,
@@ -235,12 +275,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 318918,
+      "num": 318918,
+      "word": "韦东奕一天涨粉1000万",
+      "onboard_time": 1749262582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311779,
       "num": 311779,
       "word": "王者荣耀在歌手评论区回复",
       "onboard_time": 1749250996,
       "rank": 8,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 302749,
+      "num": 302749,
+      "word": "忘不了本手妙手俗手",
+      "onboard_time": 1749265041,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 293432,
@@ -251,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280969,
+      "num": 280969,
+      "word": "拜托高考第一个出考场的考生",
+      "onboard_time": 1749265644,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 277599,
       "num": 277599,
       "word": "腾讯回应首个满级QQ诞生",
@@ -259,8 +323,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 276677,
-      "num": 276677,
+      "raw_hot": 277272,
+      "num": 277272,
       "word": "李荣浩听了都不知道这是他的歌",
       "onboard_time": 1749260061,
       "rank": 21,
@@ -273,6 +337,14 @@
       "onboard_time": 1749213863,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270977,
+      "num": 270977,
+      "word": "高考时间",
+      "onboard_time": 1749183503,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 260451,
@@ -331,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219987,
+      "num": 270702,
+      "word": "文韬全员加速中第一个被抓",
+      "onboard_time": 1749262641,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212185,
       "num": 212185,
       "word": "老师开来985车牌车被学生摸包浆了",
@@ -339,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207272,
-      "num": 207272,
-      "word": "多路直击2025高考现场",
-      "onboard_time": 1749252498,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 206706,
+      "num": 206706,
+      "word": "没有父母参与的装修能有多绝",
+      "onboard_time": 1749265945,
+      "rank": 32,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 206660,
@@ -363,6 +443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205951,
+      "num": 205951,
+      "word": "临江仙",
+      "onboard_time": 1749266064,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204611,
+      "num": 204611,
+      "word": "BTS成员退伍公告",
+      "onboard_time": 1749264502,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195916,
       "num": 195916,
       "word": "胡兵送高考生Labubu",
@@ -379,12 +475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 189619,
-      "num": 223236,
-      "word": "韦东奕社媒这道题并不比数学好解",
-      "onboard_time": 1749260240,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 187892,
+      "num": 187892,
+      "word": "何秋亊方称之前沟通人员为假冒",
+      "onboard_time": 1749260661,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 186809,
@@ -483,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162914,
-      "num": 162914,
-      "word": "何秋亊方称之前沟通人员为假冒",
-      "onboard_time": 1749260661,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159099,
       "num": 116140,
       "word": "VOGUE晚宴",
@@ -523,20 +611,20 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 153271,
-      "num": 153271,
-      "word": "文韬全员加速中第一个被抓",
-      "onboard_time": 1749262641,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144074,
       "num": 70583,
       "word": "单依纯李白 高考禁曲",
       "onboard_time": 1749236115,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141042,
+      "num": 248944,
+      "word": "这是张桂梅第15次送考",
+      "onboard_time": 1749252378,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 140919,
@@ -563,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136359,
-      "num": 136359,
-      "word": "韦东奕一天涨粉1000万",
-      "onboard_time": 1749262582,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134520,
       "num": 213464,
       "word": "原来西瓜是一种抗炎水果",
@@ -585,6 +665,14 @@
       "onboard_time": 1749226042,
       "rank": 18,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 132651,
+      "num": 132651,
+      "word": "天官赐福",
+      "onboard_time": 1749255560,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 131937,
@@ -619,14 +707,6 @@
       "category": "民生新闻,时尚"
     },
     {
-      "raw_hot": 127964,
-      "num": 127964,
-      "word": "天官赐福",
-      "onboard_time": 1749255560,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127873,
       "num": 127873,
       "word": "全红婵夸陈梦好漂亮",
@@ -651,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125193,
+      "num": 125193,
+      "word": "谢谢你张老师",
+      "onboard_time": 1749264863,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121599,
       "num": 121599,
       "word": "孟子义被桃花坞做局了",
@@ -665,6 +753,14 @@
       "onboard_time": 1749255080,
       "rank": 44,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 119436,
+      "num": 119436,
+      "word": "猜作文",
+      "onboard_time": 1749263601,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 118524,
@@ -707,20 +803,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 117132,
-      "num": 117132,
-      "word": "高考时间",
-      "onboard_time": 1749183503,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 116209,
       "num": 116209,
       "word": "王者荣耀",
       "onboard_time": 1749252858,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114916,
+      "num": 114916,
+      "word": "种地吧",
+      "onboard_time": 1749265223,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 114162,
@@ -731,20 +827,20 @@
       "category": "动漫,财经"
     },
     {
-      "raw_hot": 113793,
-      "num": 248944,
-      "word": "这是张桂梅第15次送考",
-      "onboard_time": 1749252378,
-      "rank": 9,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 113177,
       "num": 113177,
       "word": "绝意尽力了",
       "onboard_time": 1749224184,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110805,
+      "num": 110805,
+      "word": "马斯克父亲发声",
+      "onboard_time": 1749264863,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110776,
@@ -835,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92466,
+      "num": 258883,
+      "word": "京东直播一元起拍labubu送铂金包",
+      "onboard_time": 1749265945,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 89609,
       "num": 89609,
       "word": "宋茜红毯踢裙摆这一下泰美辣",
@@ -844,7 +948,7 @@
     },
     {
       "raw_hot": 88462,
-      "num": 1448172,
+      "num": 1945270,
       "word": "高考学子给荔高粽",
       "onboard_time": 1749222924,
       "rank": 2,
@@ -1083,8 +1187,16 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 42589,
+      "num": 660361,
+      "word": "网警护航高考祝学子金榜题名",
+      "onboard_time": 1749265284,
+      "rank": 5,
+      "category": "正能量,教育"
+    },
+    {
       "raw_hot": 41986,
-      "num": 127048,
+      "num": 145082,
       "word": "辛纳阿尔卡拉斯法网争冠",
       "onboard_time": 1749262822,
       "rank": 39,
@@ -1105,6 +1217,22 @@
       "onboard_time": 1749236714,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37347,
+      "num": 146048,
+      "word": "我在加沙的病人是孩子和孕妇",
+      "onboard_time": 1749264562,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 35580,
+      "num": 254813,
+      "word": "有球迷欲退国足收官之战门票",
+      "onboard_time": 1749265584,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 35160,
@@ -1145,6 +1273,14 @@
       "onboard_time": 1749234915,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 29515,
+      "num": 506744,
+      "word": "这大概是特朗普精神错乱综合征",
+      "onboard_time": 1749265704,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27048,
@@ -1193,6 +1329,14 @@
       "onboard_time": 1749240493,
       "rank": 38,
       "category": "动漫,财经"
+    },
+    {
+      "raw_hot": 23899,
+      "num": 376673,
+      "word": "瓷娃娃考生与同学合唱海阔天空",
+      "onboard_time": 1749265403,
+      "rank": 14,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 22414,
@@ -1275,6 +1419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 10055,
+      "num": 333999,
+      "word": "为什么每年高考语文作文最受关注",
+      "onboard_time": 1749266064,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 9902,
       "num": 25769,
       "word": "潘展乐说你行的",
@@ -1289,6 +1441,9 @@
     },
     {
       "word": "#习近平向波兰当选总统纳夫罗茨基致贺电#"
+    },
+    {
+      "word": "#重温总书记对广大青年的深情寄语#"
     }
   ]
 }

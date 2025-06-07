@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749262929229,
+  "endTime": 1749266349512,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -561,6 +561,14 @@
       "onboard_time": 1738050440,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11447170,
+      "num": 11447170,
+      "word": "高考语文",
+      "onboard_time": 1749261200,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 11395470,
@@ -1163,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6908197,
+      "num": 6908197,
+      "word": "高考作文",
+      "onboard_time": 1749264742,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 6766123,
       "num": 6766123,
       "word": "阿云嘎秒了",
@@ -1385,14 +1401,6 @@
       "onboard_time": 1742127505,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 4696166,
-      "num": 4696166,
-      "word": "高考语文",
-      "onboard_time": 1749261200,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 4677462,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738068157,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3348821,
-      "num": 557352,
-      "word": "徐濠萦 陈奕迅",
-      "onboard_time": 1747661785,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
