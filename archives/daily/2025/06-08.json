@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749325013316,
+  "endTime": 1749328003188,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -555,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75639,
+      "num": 75639,
+      "word": "2008年故意考0分男子发声",
+      "onboard_time": 1749323235,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68554,
       "num": 214812,
       "word": "朱雀玄武敕令高考发声",
@@ -603,12 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37411,
-      "num": 65049,
-      "word": "2008年故意考0分男子发声",
-      "onboard_time": 1749323235,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 39917,
+      "num": 39917,
+      "word": "满级QQ",
+      "onboard_time": 1749323894,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 35680,
@@ -651,14 +659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28716,
-      "num": 28716,
-      "word": "满级QQ",
-      "onboard_time": 1749323894,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 28641,
       "num": 42883,
       "word": "高考天气",
@@ -673,6 +673,14 @@
       "onboard_time": 1749319816,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 17709,
+      "num": 17709,
+      "word": "奔跑吧",
+      "onboard_time": 1749327554,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 15043,
