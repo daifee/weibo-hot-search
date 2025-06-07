@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749314830757,
+  "endTime": 1749316902627,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -8,6 +8,14 @@
       "word": "浪姐成团名单",
       "onboard_time": 1749313102,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2405502,
+      "num": 464187,
+      "word": "李艺彤没成团",
+      "onboard_time": 1749314482,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -35,10 +43,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1000502,
-      "num": 410768,
-      "word": "李艺彤没成团",
-      "onboard_time": 1749314482,
+      "raw_hot": 1092814,
+      "num": 273540,
+      "word": "叶童年度总冠军",
+      "onboard_time": 1749315021,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 983657,
+      "num": 266051,
+      "word": "吴宣仪第二",
+      "onboard_time": 1749315800,
       "rank": 7,
       "category": "综艺"
     },
@@ -72,6 +88,14 @@
       "word": "张小婉开麦 宋妍霏闭麦",
       "onboard_time": 1749309864,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 561574,
+      "num": 241416,
+      "word": "王珞丹年度队长",
+      "onboard_time": 1749315021,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -171,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266369,
+      "num": 237704,
+      "word": "浪姐到底谁在投票",
+      "onboard_time": 1749314302,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264862,
       "num": 493813,
       "word": "王楚钦再回忆巴黎奥运混双比赛",
@@ -227,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208614,
+      "num": 200572,
+      "word": "吴宣仪 全开麦",
+      "onboard_time": 1749303384,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208528,
       "num": 208528,
       "word": "长沙暴雨",
@@ -235,28 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207168,
-      "num": 200572,
-      "word": "吴宣仪 全开麦",
-      "onboard_time": 1749303384,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 201625,
-      "num": 165780,
-      "word": "浪姐到底谁在投票",
-      "onboard_time": 1749314302,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198639,
       "num": 171383,
       "word": "天命小姜",
       "onboard_time": 1749313102,
       "rank": 34,
       "category": "剧集,游戏"
+    },
+    {
+      "raw_hot": 197444,
+      "num": 59497,
+      "word": "祝绪丹成团",
+      "onboard_time": 1749316757,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 195077,
@@ -281,6 +313,14 @@
       "onboard_time": 1749303984,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186240,
+      "num": 88895,
+      "word": "李艺彤亲友团 被跳过",
+      "onboard_time": 1749298823,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 180105,
@@ -352,6 +392,14 @@
       "word": "王楚钦你做到了",
       "onboard_time": 1749295521,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146171,
+      "num": 244645,
+      "word": "王楚钦说世乒赛夺冠后全翻篇了",
+      "onboard_time": 1749315322,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -451,6 +499,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90177,
+      "num": 90177,
+      "word": "法网女单决赛",
+      "onboard_time": 1749316519,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86615,
+      "num": 86615,
+      "word": "陷入我们的热恋制片人回应",
+      "onboard_time": 1749315560,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62915,
+      "num": 62915,
+      "word": "郑钦文女王杯签表",
+      "onboard_time": 1749315083,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 59173,
+      "num": 59173,
+      "word": "点进片头就退不出去的剧",
+      "onboard_time": 1749315261,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45365,
       "num": 117678,
       "word": "王楚钦回应压力",
@@ -465,6 +545,14 @@
       "onboard_time": 1749302902,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13936,
+      "num": 72587,
+      "word": "cubal",
+      "onboard_time": 1749316698,
+      "rank": 39,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749314830757,
+  "endTime": 1749316902627,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -264,6 +264,14 @@
       "word": "难看",
       "onboard_time": 1749189142,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2405502,
+      "num": 464187,
+      "word": "李艺彤没成团",
+      "onboard_time": 1749314482,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -1067,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1092814,
+      "num": 273540,
+      "word": "叶童年度总冠军",
+      "onboard_time": 1749315021,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1089746,
       "num": 516850,
       "word": "全智贤老公炒币亏了150亿",
@@ -1251,14 +1267,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 1000502,
-      "num": 410768,
-      "word": "李艺彤没成团",
-      "onboard_time": 1749314482,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 996751,
       "num": 996751,
       "word": "WE淘汰JDG",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1749051861,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 983657,
+      "num": 266051,
+      "word": "吴宣仪第二",
+      "onboard_time": 1749315800,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 980789,
@@ -2905,6 +2921,14 @@
       "onboard_time": 1749047122,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 561574,
+      "num": 241416,
+      "word": "王珞丹年度队长",
+      "onboard_time": 1749315021,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 560345,
@@ -6611,6 +6635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266369,
+      "num": 237704,
+      "word": "浪姐到底谁在投票",
+      "onboard_time": 1749314302,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264902,
       "num": 264902,
       "word": "李在明为什么能赢",
@@ -9259,14 +9291,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 201625,
-      "num": 165780,
-      "word": "浪姐到底谁在投票",
-      "onboard_time": 1749314302,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201371,
       "num": 201371,
       "word": "尚雯婕去录浪姐总决赛了",
@@ -9545,6 +9569,14 @@
       "onboard_time": 1749270806,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 197444,
+      "num": 59497,
+      "word": "祝绪丹成团",
+      "onboard_time": 1749316757,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 197126,
@@ -13760,6 +13792,14 @@
       "word": "樊振东说自己是普通球迷",
       "onboard_time": 1749171680,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146171,
+      "num": 244645,
+      "word": "王楚钦说世乒赛夺冠后全翻篇了",
+      "onboard_time": 1749315322,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -19675,6 +19715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90177,
+      "num": 90177,
+      "word": "法网女单决赛",
+      "onboard_time": 1749316519,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90165,
       "num": 90165,
       "word": "港股加密货币概念股拉升",
@@ -19969,6 +20017,14 @@
       "onboard_time": 1748929221,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86615,
+      "num": 86615,
+      "word": "陷入我们的热恋制片人回应",
+      "onboard_time": 1749315560,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 86547,
@@ -21507,6 +21563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62915,
+      "num": 62915,
+      "word": "郑钦文女王杯签表",
+      "onboard_time": 1749315083,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62882,
       "num": 62882,
       "word": "徐明浩赵美延cha",
@@ -21689,6 +21753,14 @@
       "onboard_time": 1748934681,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59173,
+      "num": 59173,
+      "word": "点进片头就退不出去的剧",
+      "onboard_time": 1749315261,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 58989,
@@ -25849,6 +25921,14 @@
       "onboard_time": 1749153494,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13936,
+      "num": 72587,
+      "word": "cubal",
+      "onboard_time": 1749316698,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 13811,
