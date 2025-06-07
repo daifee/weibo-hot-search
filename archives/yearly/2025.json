@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749266349512,
+  "endTime": 1749267147462,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -987,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8164316,
+      "num": 8164316,
+      "word": "高考作文",
+      "onboard_time": 1749264742,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 8108051,
       "num": 8108051,
       "word": "肖战是谁的新郎",
@@ -1169,14 +1177,6 @@
       "onboard_time": 1748090783,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6908197,
-      "num": 6908197,
-      "word": "高考作文",
-      "onboard_time": 1749264742,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 6766123,

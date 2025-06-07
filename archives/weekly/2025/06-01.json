@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749266349512,
+  "endTime": 1749267147462,
   "band_list": [
     {
       "raw_hot": 11447170,
@@ -27,20 +27,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 8164316,
+      "num": 8164316,
+      "word": "高考作文",
+      "onboard_time": 1749264742,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 7936216,
       "num": 9186216,
       "word": "成都3.9级地震",
       "onboard_time": 1748765902,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6908197,
-      "num": 6908197,
-      "word": "高考作文",
-      "onboard_time": 1749264742,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 6694211,
@@ -3851,6 +3851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384401,
+      "num": 384401,
+      "word": "拜托高考第一个出考场的考生",
+      "onboard_time": 1749265644,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 383328,
       "num": 503255,
       "word": "豆包流浪了两个月还胖了一斤多",
@@ -5387,14 +5395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280969,
-      "num": 280969,
-      "word": "拜托高考第一个出考场的考生",
-      "onboard_time": 1749265644,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 280838,
       "num": 280838,
       "word": "常石磊编曲",
@@ -6891,6 +6891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220384,
+      "num": 280539,
+      "word": "BTS成员退伍公告",
+      "onboard_time": 1749264502,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220229,
       "num": 220229,
       "word": "第五人格赛事",
@@ -7697,14 +7705,6 @@
       "onboard_time": 1748749998,
       "rank": 23,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 204611,
-      "num": 204611,
-      "word": "BTS成员退伍公告",
-      "onboard_time": 1749264502,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 204549,
@@ -10915,6 +10915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155158,
+      "num": 155158,
+      "word": "于正坚信临江仙是黑马",
+      "onboard_time": 1749266605,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155132,
       "num": 155132,
       "word": "毛巾少爷哭着回家继承家业",
@@ -11481,6 +11489,14 @@
       "onboard_time": 1749133042,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148250,
+      "num": 148250,
+      "word": "直播2025河南高考",
+      "onboard_time": 1749256101,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148102,
@@ -13147,6 +13163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132193,
+      "num": 132193,
+      "word": "你好星期六开盲盒式选搭子",
+      "onboard_time": 1749266484,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132000,
       "num": 132000,
       "word": "美副总统说美国人靠自己就能干大事",
@@ -14099,6 +14123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122043,
+      "num": 122043,
+      "word": "高考考场外全国统一动作",
+      "onboard_time": 1749266905,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122015,
       "num": 235581,
       "word": "湖南机场集团董事长涉性侵案职务撤下",
@@ -14953,6 +14985,14 @@
       "onboard_time": 1748943379,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113457,
+      "num": 113457,
+      "word": "还真让曾舜晞找到给他剥蟹的人了",
+      "onboard_time": 1749266725,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 113279,
@@ -15867,6 +15907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103666,
+      "num": 258883,
+      "word": "京东直播一元起拍labubu送铂金包",
+      "onboard_time": 1749265945,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103479,
       "num": 103479,
       "word": "如何利用维生素B甩掉坏情绪",
@@ -16265,6 +16313,14 @@
       "onboard_time": 1748939661,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99514,
+      "num": 99514,
+      "word": "今年语文难不难",
+      "onboard_time": 1749267087,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 99469,
@@ -16747,6 +16803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94628,
+      "num": 506744,
+      "word": "这大概是特朗普精神错乱综合征",
+      "onboard_time": 1749265704,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94538,
       "num": 94538,
       "word": "维斯塔潘碰撞",
@@ -16905,14 +16969,6 @@
       "onboard_time": 1748776519,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92466,
-      "num": 258883,
-      "word": "京东直播一元起拍labubu送铂金包",
-      "onboard_time": 1749265945,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 92435,
@@ -17705,6 +17761,14 @@
       "onboard_time": 1749093379,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79869,
+      "num": 97470,
+      "word": "金饰克价一夜跌13元",
+      "onboard_time": 1749265284,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 79835,
@@ -18537,6 +18601,14 @@
       "onboard_time": 1749008961,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 67330,
+      "num": 4142443,
+      "word": "祝1335万高考生大胜归来",
+      "onboard_time": 1749266424,
+      "rank": 2,
+      "category": "正能量,教育"
     },
     {
       "raw_hot": 67307,
@@ -20851,6 +20923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33700,
+      "num": 376673,
+      "word": "瓷娃娃考生与同学合唱海阔天空",
+      "onboard_time": 1749265403,
+      "rank": 14,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 33681,
       "num": 251162,
       "word": "香会现场中国少将强硬回应",
@@ -21235,6 +21315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30115,
+      "num": 260294,
+      "word": "大学生针灸急救晕倒高考女生",
+      "onboard_time": 1749266844,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30028,
       "num": 235349,
       "word": "厦门一男子在线帮判断毒蛇伤口",
@@ -21273,14 +21361,6 @@
       "onboard_time": 1749201621,
       "rank": 24,
       "category": "游戏,教育"
-    },
-    {
-      "raw_hot": 29515,
-      "num": 506744,
-      "word": "这大概是特朗普精神错乱综合征",
-      "onboard_time": 1749265704,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29480,
@@ -21897,14 +21977,6 @@
       "onboard_time": 1748868199,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 23899,
-      "num": 376673,
-      "word": "瓷娃娃考生与同学合唱海阔天空",
-      "onboard_time": 1749265403,
-      "rank": 14,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 23878,
