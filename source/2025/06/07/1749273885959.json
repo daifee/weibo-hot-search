@@ -1,0 +1,410 @@
+{
+  "runTime": 1749273885959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10126423,
+        "num": 10126423,
+        "word": "高考作文",
+        "onboard_time": 1749264742,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2423429,
+        "num": 2423429,
+        "word": "语文默写",
+        "onboard_time": 1749268587,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 76610,
+        "num": 1760809,
+        "word": "祝1335万高考生大胜归来",
+        "onboard_time": 1749266424,
+        "rank": 2,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 1549215,
+        "num": 1549215,
+        "word": "全国一卷 难",
+        "onboard_time": 1749268289,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1221913,
+        "num": 1221913,
+        "word": "王俊凯 把时代少年团请过来",
+        "onboard_time": 1749272664,
+        "rank": 4,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 27937,
+        "num": 896756,
+        "word": "网警护航高考祝学子金榜题名",
+        "onboard_time": 1749265284,
+        "rank": 5,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 660948,
+        "num": 660948,
+        "word": "上海卷 专转传",
+        "onboard_time": 1749268768,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 643191,
+        "num": 643191,
+        "word": "全国二卷 将梦赠予他人",
+        "onboard_time": 1749268468,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 612224,
+        "num": 612224,
+        "word": "丁太升说单依纯李白念白low爆",
+        "onboard_time": 1749267208,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454044,
+        "num": 454044,
+        "word": "曹骏终于有了自己的名牌",
+        "onboard_time": 1749272603,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3295547,
+        "num": 449040,
+        "word": "全国一卷作文 看不懂",
+        "onboard_time": 1749267869,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 409317,
+        "num": 409317,
+        "word": "高考语文",
+        "onboard_time": 1749261200,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1258545,
+        "num": 409026,
+        "word": "高考作文 抽象",
+        "onboard_time": 1749269427,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28027,
+        "num": 407125,
+        "word": "京东张艺兴合拍",
+        "onboard_time": 1749269126,
+        "rank": 13,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 450736,
+        "num": 407117,
+        "word": "单依纯回应疯了",
+        "onboard_time": 1749265041,
+        "rank": 14,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 407067,
+        "num": 407067,
+        "word": "肖战姜妍蒋奇明 飞刀",
+        "onboard_time": 1749270086,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371863,
+        "num": 371863,
+        "word": "拜托高考第一个出考场的考生",
+        "onboard_time": 1749265644,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250974,
+        "num": 369907,
+        "word": "高考第一个走出考场考生发声",
+        "onboard_time": 1749272184,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56681,
+        "num": 369093,
+        "word": "11城公交站HPV科普喊话考生妈妈",
+        "onboard_time": 1749272784,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27432,
+        "num": 365255,
+        "word": "游客称在泾县停车被饭店人员殴打",
+        "onboard_time": 1749273623,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532361,
+        "num": 362094,
+        "word": "作文 跑题",
+        "onboard_time": 1749271404,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32036,
+        "num": 360437,
+        "word": "曾舜晞白九思可爱多暴击",
+        "onboard_time": 1749272724,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359304,
+        "num": 359304,
+        "word": "曝范玮琪临时换歌",
+        "onboard_time": 1749265764,
+        "rank": 22,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 353876,
+        "num": 353876,
+        "word": "看图默写",
+        "onboard_time": 1749271645,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 317267,
+        "num": 317267,
+        "word": "苏醒朋友圈夸马嘉祺",
+        "onboard_time": 1749271883,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280294,
+        "num": 280294,
+        "word": "疑似转转植入高考",
+        "onboard_time": 1749271044,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268089,
+        "num": 268089,
+        "word": "长安的荔枝今日开播",
+        "onboard_time": 1749271764,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266136,
+        "num": 266136,
+        "word": "高考",
+        "onboard_time": 1749251598,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 255967,
+        "num": 255967,
+        "word": "高考语文答案",
+        "onboard_time": 1749270264,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232953,
+        "num": 254309,
+        "word": "2025高考作文题汇总",
+        "onboard_time": 1749269186,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288659,
+        "num": 254286,
+        "word": "韩国小孩是珍稀动物怎么还能弄丢",
+        "onboard_time": 1749273803,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252821,
+        "num": 252821,
+        "word": "赵丽颖礼服三毛",
+        "onboard_time": 1749270985,
+        "rank": 31,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 248487,
+        "num": 248487,
+        "word": "藏海毒蛇竖瞳",
+        "onboard_time": 1749271944,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244685,
+        "num": 244685,
+        "word": "范玮琪ins回应上歌手",
+        "onboard_time": 1749269906,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243075,
+        "num": 243075,
+        "word": "临江仙",
+        "onboard_time": 1749266064,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240800,
+        "num": 240800,
+        "word": "女子坐月子吹空调发烧39度进急诊",
+        "onboard_time": 1749267688,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221778,
+        "num": 221778,
+        "word": "2025高考第一批显眼包出现了",
+        "onboard_time": 1749272241,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210733,
+        "num": 210733,
+        "word": "孙俪邓超结婚15周年",
+        "onboard_time": 1749273383,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209258,
+        "num": 209258,
+        "word": "22年考生怎么样了",
+        "onboard_time": 1749273741,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167626,
+        "num": 208385,
+        "word": "江苏卫视即将承包全国九成笑点",
+        "onboard_time": 1749271645,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208241,
+        "num": 208241,
+        "word": "去年的高考作文",
+        "onboard_time": 1749273083,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206871,
+        "num": 206871,
+        "word": "22届没惹",
+        "onboard_time": 1749273202,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202341,
+        "num": 202341,
+        "word": "丁真为妹妹出钱上学",
+        "onboard_time": 1749273682,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96311,
+        "num": 193385,
+        "word": "张艺兴的京东新舞台",
+        "onboard_time": 1749267630,
+        "rank": 43,
+        "category": "演出,互联网"
+      },
+      {
+        "raw_hot": 189879,
+        "num": 189879,
+        "word": "五哈",
+        "onboard_time": 1749267750,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189296,
+        "num": 189296,
+        "word": "易梦玲审美",
+        "onboard_time": 1749269666,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184336,
+        "num": 184336,
+        "word": "赵丽颖阿玛尼春夏高定",
+        "onboard_time": 1749259582,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97853,
+        "num": 176309,
+        "word": "高考试卷一开始没有选择题",
+        "onboard_time": 1749273561,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119193,
+        "num": 173839,
+        "word": "首个满级QQ获得金企鹅",
+        "onboard_time": 1749256039,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82503,
+        "num": 172198,
+        "word": "金价",
+        "onboard_time": 1749271224,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对广大青年的深情寄语#"
+    }
+  }
+}

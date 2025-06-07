@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749271536890,
+  "endTime": 1749273885959,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -761,6 +761,14 @@
       "onboard_time": 1748838621,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1221913,
+      "num": 1221913,
+      "word": "王俊凯 把时代少年团请过来",
+      "onboard_time": 1749272664,
+      "rank": 4,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 1221850,
@@ -2643,6 +2651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 532361,
+      "num": 362094,
+      "word": "作文 跑题",
+      "onboard_time": 1749271404,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 531499,
       "num": 531499,
       "word": "女足迪丽热巴杀青",
@@ -3339,6 +3355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 454044,
+      "num": 454044,
+      "word": "曹骏终于有了自己的名牌",
+      "onboard_time": 1749272603,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451853,
       "num": 451853,
       "word": "女子疑被蛇咬身亡哪个环节出了问题",
@@ -3681,6 +3705,14 @@
       "onboard_time": 1749200480,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 407067,
+      "num": 620870,
+      "word": "肖战姜妍蒋奇明 飞刀",
+      "onboard_time": 1749270086,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 405400,
@@ -4387,6 +4419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353876,
+      "num": 353876,
+      "word": "看图默写",
+      "onboard_time": 1749271645,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 353452,
       "num": 201725,
       "word": "范玮琪回应破音",
@@ -4401,14 +4441,6 @@
       "onboard_time": 1748768600,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352522,
-      "num": 620870,
-      "word": "肖战姜妍蒋奇明 飞刀",
-      "onboard_time": 1749270086,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 352469,
@@ -4865,6 +4897,14 @@
       "onboard_time": 1749262582,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317267,
+      "num": 317267,
+      "word": "苏醒朋友圈夸马嘉祺",
+      "onboard_time": 1749271883,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 316925,
@@ -5347,6 +5387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288659,
+      "num": 254286,
+      "word": "韩国小孩是珍稀动物怎么还能弄丢",
+      "onboard_time": 1749273803,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288469,
       "num": 231211,
       "word": "李白",
@@ -5803,6 +5851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268089,
+      "num": 268089,
+      "word": "长安的荔枝今日开播",
+      "onboard_time": 1749271764,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268044,
       "num": 268044,
       "word": "陆沉六尺之下",
@@ -6187,6 +6243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250974,
+      "num": 369907,
+      "word": "高考第一个走出考场考生发声",
+      "onboard_time": 1749272184,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250880,
       "num": 250880,
       "word": "警方回应老人捡手机索要1600才肯还",
@@ -6233,6 +6297,14 @@
       "onboard_time": 1748933841,
       "rank": 9,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 248487,
+      "num": 248487,
+      "word": "藏海毒蛇竖瞳",
+      "onboard_time": 1749271944,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 248090,
@@ -7027,6 +7099,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 221778,
+      "num": 221778,
+      "word": "2025高考第一批显眼包出现了",
+      "onboard_time": 1749272241,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221066,
       "num": 221066,
       "word": "李荣浩连续10年高考发8字祝福",
@@ -7403,14 +7483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212110,
-      "num": 212110,
-      "word": "作文 跑题",
-      "onboard_time": 1749271404,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 212091,
       "num": 212091,
       "word": "郎咸平批评孟羽童很短视",
@@ -7499,6 +7571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210733,
+      "num": 210733,
+      "word": "孙俪邓超结婚15周年",
+      "onboard_time": 1749273383,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210601,
       "num": 210601,
       "word": "乘风之夜邀请函",
@@ -7552,6 +7632,14 @@
       "word": "高考 下雨",
       "onboard_time": 1749028161,
       "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 209258,
+      "num": 209258,
+      "word": "22年考生怎么样了",
+      "onboard_time": 1749273741,
+      "rank": 38,
       "category": "教育"
     },
     {
@@ -7651,6 +7739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208241,
+      "num": 208241,
+      "word": "去年的高考作文",
+      "onboard_time": 1749273083,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207839,
       "num": 177929,
       "word": "王楚然为白鹿曾舜晞新剧包场",
@@ -7689,6 +7785,14 @@
       "onboard_time": 1748743460,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206871,
+      "num": 206871,
+      "word": "22届没惹",
+      "onboard_time": 1749273202,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 206786,
@@ -8025,6 +8129,14 @@
       "onboard_time": 1749271344,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202341,
+      "num": 202341,
+      "word": "丁真为妹妹出钱上学",
+      "onboard_time": 1749273682,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 202278,
@@ -10297,6 +10409,14 @@
       "onboard_time": 1749053899,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167626,
+      "num": 208385,
+      "word": "江苏卫视即将承包全国九成笑点",
+      "onboard_time": 1749271645,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 167479,
@@ -16787,6 +16907,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 97853,
+      "num": 176309,
+      "word": "高考试卷一开始没有选择题",
+      "onboard_time": 1749273561,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97780,
       "num": 97780,
       "word": "被童年的回旋镖击中了",
@@ -16937,6 +17065,14 @@
       "onboard_time": 1748839880,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96311,
+      "num": 1033616,
+      "word": "张艺兴的京东新舞台",
+      "onboard_time": 1749267630,
+      "rank": 10,
+      "category": "演出,互联网"
     },
     {
       "raw_hot": 96140,
@@ -19475,6 +19611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56681,
+      "num": 369093,
+      "word": "11城公交站HPV科普喊话考生妈妈",
+      "onboard_time": 1749272784,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56497,
       "num": 109135,
       "word": "郑钦文收视率登顶",
@@ -19769,14 +19913,6 @@
       "onboard_time": 1748766261,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52488,
-      "num": 1033616,
-      "word": "张艺兴的京东新舞台",
-      "onboard_time": 1749267630,
-      "rank": 10,
-      "category": "演出,互联网"
     },
     {
       "raw_hot": 52453,
@@ -21435,6 +21571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 32036,
+      "num": 360437,
+      "word": "曾舜晞白九思可爱多暴击",
+      "onboard_time": 1749272724,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32035,
       "num": 40849,
       "word": "鞠婧祎COSMO玫瑰猎手大片",
@@ -21937,6 +22081,14 @@
       "onboard_time": 1749044663,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 27432,
+      "num": 365255,
+      "word": "游客称在泾县停车被饭店人员殴打",
+      "onboard_time": 1749273623,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27344,
