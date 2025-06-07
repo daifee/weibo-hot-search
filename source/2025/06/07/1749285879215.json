@@ -1,0 +1,410 @@
+{
+  "runTime": 1749285879215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2672736,
+        "num": 2672736,
+        "word": "高考数学",
+        "onboard_time": 1749283282,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1925795,
+        "num": 1925795,
+        "word": "高考作文",
+        "onboard_time": 1749264742,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34294,
+        "num": 1430837,
+        "word": "祝1335万高考生大胜归来",
+        "onboard_time": 1749266424,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1237197,
+        "num": 1237197,
+        "word": "于小彤 原来得了绝症不会哭",
+        "onboard_time": 1749280942,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599807,
+        "num": 599807,
+        "word": "语文默写",
+        "onboard_time": 1749268587,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 575124,
+        "num": 575124,
+        "word": "孙俪邓超的孩子一个14岁一个11岁",
+        "onboard_time": 1749280942,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527890,
+        "num": 527890,
+        "word": "全国一卷 难",
+        "onboard_time": 1749268289,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 478090,
+        "num": 478090,
+        "word": "五旬老太守国门 谁来制裁单依纯",
+        "onboard_time": 1749277761,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457922,
+        "num": 457922,
+        "word": "退休教授被曝雨夜爬山失足坠崖身亡",
+        "onboard_time": 1749281661,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25298,
+        "num": 416800,
+        "word": "印尼将军提到歼10笑得很开心",
+        "onboard_time": 1749285140,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1076089,
+        "num": 416800,
+        "word": "全智贤老公炒币亏了150亿",
+        "onboard_time": 1749281120,
+        "rank": 10,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 586319,
+        "num": 414424,
+        "word": "国乒总教练李隼女儿结婚",
+        "onboard_time": 1749284243,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411069,
+        "num": 411069,
+        "word": "王俊凯 把时代少年团请过来",
+        "onboard_time": 1749272664,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400685,
+        "num": 400685,
+        "word": "印843名甘蔗女工接受子宫切除",
+        "onboard_time": 1749284002,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69296,
+        "num": 380560,
+        "word": "泾县文旅局向蔡某及其家人致歉",
+        "onboard_time": 1749285022,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17761,
+        "num": 369794,
+        "word": "网警护航高考祝学子金榜题名",
+        "onboard_time": 1749265284,
+        "rank": 15,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 368270,
+        "num": 368270,
+        "word": "赵丽颖染回黑发了",
+        "onboard_time": 1749278181,
+        "rank": 16,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 358425,
+        "num": 358425,
+        "word": "男子喝3斤白酒开智驾上高速",
+        "onboard_time": 1749281484,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349447,
+        "num": 349447,
+        "word": "高考作文 抽象",
+        "onboard_time": 1749269427,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17134,
+        "num": 331889,
+        "word": "坐月子期间为何不能吹空调",
+        "onboard_time": 1749285082,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327952,
+        "num": 327952,
+        "word": "高考应援已经进化到这种程度了",
+        "onboard_time": 1749280702,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310577,
+        "num": 310577,
+        "word": "开放性默写",
+        "onboard_time": 1749276743,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 295658,
+        "num": 295658,
+        "word": "向佐怎么瘦成这样了",
+        "onboard_time": 1749282741,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278441,
+        "num": 278441,
+        "word": "曹骏郑合惠子cp感",
+        "onboard_time": 1749284541,
+        "rank": 23,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 242899,
+        "num": 242899,
+        "word": "总统还剩3.5年马斯克会活跃40多年",
+        "onboard_time": 1749282382,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200546,
+        "num": 240099,
+        "word": "邓超 哭一鼻子",
+        "onboard_time": 1749274882,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33748,
+        "num": 237657,
+        "word": "首个走出考场的学霸竟是高二体验生",
+        "onboard_time": 1749285622,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176558,
+        "num": 234662,
+        "word": "肖战姜妍蒋奇明 飞刀",
+        "onboard_time": 1749270086,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45876,
+        "num": 231675,
+        "word": "特朗普暂时不打算和马斯克说话",
+        "onboard_time": 1749285382,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20292,
+        "num": 230113,
+        "word": "特朗普马斯克未来关系会如何变化",
+        "onboard_time": 1749283642,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228087,
+        "num": 228087,
+        "word": "22届没惹",
+        "onboard_time": 1749273202,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216594,
+        "num": 216594,
+        "word": "店主在凉茶中添加布洛芬",
+        "onboard_time": 1749279862,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202835,
+        "num": 202835,
+        "word": "樊振东演绎过第二次呼吸",
+        "onboard_time": 1749282203,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172781,
+        "num": 172781,
+        "word": "韩安冉想让女儿上综艺被拒",
+        "onboard_time": 1749277101,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172567,
+        "num": 172567,
+        "word": "全国一卷作文 看不懂",
+        "onboard_time": 1749267869,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160743,
+        "num": 160743,
+        "word": "高考结束 做美甲",
+        "onboard_time": 1749281842,
+        "rank": 35,
+        "category": "美妆,教育"
+      },
+      {
+        "raw_hot": 156209,
+        "num": 156209,
+        "word": "李惠利跳Whiplash",
+        "onboard_time": 1749276922,
+        "rank": 36,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 151402,
+        "num": 151402,
+        "word": "临江仙",
+        "onboard_time": 1749266064,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24886,
+        "num": 148253,
+        "word": "群众包围洛杉矶联邦拘留中心",
+        "onboard_time": 1749285740,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146535,
+        "num": 146535,
+        "word": "中国男游客在日本被一男子刺伤",
+        "onboard_time": 1749276561,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139720,
+        "num": 146263,
+        "word": "倪萍说来乘风可以 下一辈子",
+        "onboard_time": 1749284424,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146118,
+        "num": 146118,
+        "word": "时间之子结局真的是he",
+        "onboard_time": 1749284903,
+        "rank": 41,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 143986,
+        "num": 143986,
+        "word": "赵普呼吁北大关心干预韦东奕健康",
+        "onboard_time": 1749285202,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 142596,
+        "num": 142596,
+        "word": "七根心简",
+        "onboard_time": 1749279262,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135001,
+        "num": 135001,
+        "word": "权志龙演唱会上座率好高啊",
+        "onboard_time": 1749282562,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131414,
+        "num": 131414,
+        "word": "iPhone17标准版或缩小灵动岛",
+        "onboard_time": 1749280102,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181921,
+        "num": 130294,
+        "word": "丁太升说单依纯李白念白low爆",
+        "onboard_time": 1749267208,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78904,
+        "num": 127684,
+        "word": "迪拜会成为下一个缅北吗",
+        "onboard_time": 1749283341,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126402,
+        "num": 126402,
+        "word": "难哄喜剧版有脸了",
+        "onboard_time": 1749284721,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126354,
+        "num": 126354,
+        "word": "高考",
+        "onboard_time": 1749251598,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对广大青年的深情寄语#"
+    }
+  }
+}
