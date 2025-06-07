@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749303123545,
+  "endTime": 1749303810405,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -35,8 +35,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 3835681,
-      "num": 3835681,
+      "raw_hot": 4161483,
+      "num": 4161483,
       "word": "李晟团票数也太低了",
       "onboard_time": 1749301944,
       "rank": 0,
@@ -491,6 +491,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 519334,
+      "num": 397080,
+      "word": "赵雅芝美得我不知天地为何物",
+      "onboard_time": 1749301583,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513395,
       "num": 513395,
       "word": "曹骏终于有了自己的名牌",
@@ -531,6 +539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 491562,
+      "num": 368343,
+      "word": "吴宣仪 全开麦",
+      "onboard_time": 1749303384,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490710,
       "num": 490710,
       "word": "邓超 哭一鼻子",
@@ -545,14 +561,6 @@
       "onboard_time": 1749259582,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 466047,
-      "num": 397080,
-      "word": "赵雅芝美得我不知天地为何物",
-      "onboard_time": 1749301583,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 465642,
@@ -609,6 +617,14 @@
       "onboard_time": 1749222205,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 440456,
+      "num": 440456,
+      "word": "iG战胜WBG",
+      "onboard_time": 1749303022,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 435825,
@@ -819,12 +835,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 330019,
-      "num": 330019,
-      "word": "iG战胜WBG",
-      "onboard_time": 1749303022,
-      "rank": 24,
-      "category": "电竞"
+      "raw_hot": 330032,
+      "num": 330032,
+      "word": "庐州月",
+      "onboard_time": 1749302184,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 327952,
@@ -963,14 +979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287963,
-      "num": 287963,
-      "word": "庐州月",
-      "onboard_time": 1749302184,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286137,
       "num": 286137,
       "word": "女子坐月子吹空调发烧39度进急诊",
@@ -1051,8 +1059,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 260464,
-      "num": 260464,
+      "raw_hot": 262998,
+      "num": 366884,
       "word": "谢娜有这份心干什么都会成功的",
       "onboard_time": 1749302545,
       "rank": 33,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1749282203,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236965,
+      "num": 236965,
+      "word": "浪姐票数",
+      "onboard_time": 1749302783,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 234079,
@@ -1467,6 +1483,14 @@
       "category": "综艺,电影"
     },
     {
+      "raw_hot": 199249,
+      "num": 199249,
+      "word": "长安的荔枝 搞笑",
+      "onboard_time": 1749303503,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199088,
       "num": 337083,
       "word": "姜云升 新说唱",
@@ -1507,6 +1531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197126,
+      "num": 197126,
+      "word": "中国女排3比0法国",
+      "onboard_time": 1749303022,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196373,
       "num": 196373,
       "word": "26届就这样蹲完语文蹲数学",
@@ -1523,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196052,
+      "num": 196052,
+      "word": "诗情画奕",
+      "onboard_time": 1749303384,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195916,
       "num": 195916,
       "word": "胡兵送高考生Labubu",
@@ -1536,14 +1576,6 @@
       "word": "Grace 我来歌手只有一个目的",
       "onboard_time": 1749273981,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 195393,
-      "num": 195393,
-      "word": "浪姐票数",
-      "onboard_time": 1749302783,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1579,12 +1611,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192932,
+      "num": 192932,
+      "word": "RSG八冠王",
+      "onboard_time": 1749303441,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192572,
       "num": 473474,
       "word": "刘宇助阵吴宣仪",
       "onboard_time": 1749300202,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190705,
+      "num": 190705,
+      "word": "中国女排3比0大胜法国队",
+      "onboard_time": 1749303503,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 190179,
@@ -1601,14 +1649,6 @@
       "onboard_time": 1749270385,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 189500,
-      "num": 189500,
-      "word": "中国女排3比0法国",
-      "onboard_time": 1749303022,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 189182,
@@ -1755,6 +1795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 182999,
+      "num": 182999,
+      "word": "LPL",
+      "onboard_time": 1749302963,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182591,
       "num": 447753,
       "word": "亡夫赠情人514万被判返还",
@@ -1849,14 +1897,6 @@
       "onboard_time": 1749218367,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 174862,
-      "num": 174862,
-      "word": "LPL",
-      "onboard_time": 1749302963,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 174431,
@@ -2131,6 +2171,14 @@
       "category": "休闲,情感"
     },
     {
+      "raw_hot": 155201,
+      "num": 155201,
+      "word": "周深直播",
+      "onboard_time": 1749303682,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155158,
       "num": 155158,
       "word": "于正坚信临江仙是黑马",
@@ -2385,6 +2433,14 @@
       "onboard_time": 1749296002,
       "rank": 35,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 138591,
+      "num": 359019,
+      "word": "数学老师体验高考预估能考140",
+      "onboard_time": 1749303441,
+      "rank": 22,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 136273,
@@ -2947,6 +3003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93211,
+      "num": 206368,
+      "word": "牛冠凯订婚了",
+      "onboard_time": 1749302963,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92045,
       "num": 167685,
       "word": "Lululemon收跌20%",
@@ -3251,6 +3315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57827,
+      "num": 370644,
+      "word": "老人被带到异地看房花掉16万看病钱",
+      "onboard_time": 1749302723,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56681,
       "num": 369093,
       "word": "11城公交站HPV科普喊话考生妈妈",
@@ -3347,14 +3419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49386,
-      "num": 321125,
-      "word": "老人被带到异地看房花掉16万看病钱",
-      "onboard_time": 1749302723,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49303,
       "num": 49303,
       "word": "雷军送高考祝福",
@@ -3393,6 +3457,14 @@
       "onboard_time": 1749265284,
       "rank": 5,
       "category": "正能量,教育"
+    },
+    {
+      "raw_hot": 45821,
+      "num": 1543097,
+      "word": "一个学科一句为高考生加油",
+      "onboard_time": 1749302902,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45209,
@@ -3459,6 +3531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40872,
+      "num": 282911,
+      "word": "官方回应电台替民维权遭嬉笑回怼",
+      "onboard_time": 1749303022,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40786,
       "num": 40786,
       "word": "俄乌局势或出现新变数",
@@ -3481,14 +3561,6 @@
       "onboard_time": 1749272724,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38750,
-      "num": 206368,
-      "word": "牛冠凯订婚了",
-      "onboard_time": 1749302963,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 37744,
@@ -3544,14 +3616,6 @@
       "word": "一中学家委会募捐5.7万激励学生",
       "onboard_time": 1749299961,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33762,
-      "num": 258114,
-      "word": "官方回应电台替民维权遭嬉笑回怼",
-      "onboard_time": 1749303022,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3619,6 +3683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 26889,
+      "num": 393178,
+      "word": "汉魏洛阳故城惊现古代招财猫陶灯",
+      "onboard_time": 1749302184,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26328,
       "num": 30770,
       "word": "我本是辅助今晚来打野",
@@ -3649,14 +3721,6 @@
       "onboard_time": 1749291325,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 25736,
-      "num": 393178,
-      "word": "汉魏洛阳故城惊现古代招财猫陶灯",
-      "onboard_time": 1749302184,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25298,
@@ -3835,14 +3899,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 10105,
-      "num": 1543097,
-      "word": "一个学科一句为高考生加油",
-      "onboard_time": 1749302902,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10055,
       "num": 333999,
       "word": "为什么每年高考语文作文最受关注",
@@ -3893,6 +3949,9 @@
     },
     {
       "word": "#不负青春不负韶华#"
+    },
+    {
+      "word": "#有责任有担当青春才会闪光#"
     }
   ]
 }

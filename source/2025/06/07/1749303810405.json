@@ -1,0 +1,410 @@
+{
+  "runTime": 1749303810405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4161483,
+        "num": 4161483,
+        "word": "李晟团票数也太低了",
+        "onboard_time": 1749301944,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1801602,
+        "num": 1801602,
+        "word": "高考数学",
+        "onboard_time": 1749283282,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45821,
+        "num": 1324103,
+        "word": "一个学科一句为高考生加油",
+        "onboard_time": 1749302902,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1205118,
+        "num": 1205118,
+        "word": "浪姐成团夜",
+        "onboard_time": 1749294802,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 809173,
+        "num": 809173,
+        "word": "新一卷数学大题 难",
+        "onboard_time": 1749288745,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 440456,
+        "num": 440456,
+        "word": "iG战胜WBG",
+        "onboard_time": 1749303022,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 898915,
+        "num": 436665,
+        "word": "侯佩岑 划水",
+        "onboard_time": 1749302065,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637436,
+        "num": 423842,
+        "word": "卡琳娜的婆婆来了",
+        "onboard_time": 1749299001,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381079,
+        "num": 381079,
+        "word": "王楚钦你做到了",
+        "onboard_time": 1749295521,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377399,
+        "num": 377399,
+        "word": "高考作文",
+        "onboard_time": 1749264742,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 881403,
+        "num": 376968,
+        "word": "韦神怎么附试卷上了",
+        "onboard_time": 1749292282,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 768132,
+        "num": 375114,
+        "word": "李晟团被做局了",
+        "onboard_time": 1749301883,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547461,
+        "num": 373753,
+        "word": "周诗雨宣布与丝芭解约",
+        "onboard_time": 1749299302,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519334,
+        "num": 371633,
+        "word": "赵雅芝美得我不知天地为何物",
+        "onboard_time": 1749301583,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57827,
+        "num": 370644,
+        "word": "老人被带到异地看房花掉16万看病钱",
+        "onboard_time": 1749302723,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2164629,
+        "num": 369339,
+        "word": "浪姐直播 假唱",
+        "onboard_time": 1749299722,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491562,
+        "num": 368343,
+        "word": "吴宣仪 全开麦",
+        "onboard_time": 1749303384,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262998,
+        "num": 366884,
+        "word": "谢娜有这份心干什么都会成功的",
+        "onboard_time": 1749302545,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26889,
+        "num": 365124,
+        "word": "汉魏洛阳故城惊现古代招财猫陶灯",
+        "onboard_time": 1749302184,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35531,
+        "num": 363781,
+        "word": "习惯性晚睡与性格特质有哪些关联",
+        "onboard_time": 1749301883,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 452377,
+        "num": 362448,
+        "word": "李艺彤亲友团 被跳过",
+        "onboard_time": 1749298823,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386318,
+        "num": 359719,
+        "word": "浪姐投票",
+        "onboard_time": 1749301343,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138591,
+        "num": 359019,
+        "word": "数学老师体验高考预估能考140",
+        "onboard_time": 1749303441,
+        "rank": 22,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 379520,
+        "num": 357773,
+        "word": "广州高考生喊话樊振东出征三大赛",
+        "onboard_time": 1749300983,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356637,
+        "num": 356637,
+        "word": "四代棉花娃娃",
+        "onboard_time": 1749300924,
+        "rank": 24,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 342710,
+        "num": 342710,
+        "word": "谢娜舞台串烧好牛",
+        "onboard_time": 1749298882,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330032,
+        "num": 330032,
+        "word": "庐州月",
+        "onboard_time": 1749302184,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306740,
+        "num": 306740,
+        "word": "全智贤老公炒币亏了150亿",
+        "onboard_time": 1749281120,
+        "rank": 27,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 286566,
+        "num": 286566,
+        "word": "军人跳水连救5条命后陷入昏迷",
+        "onboard_time": 1749298042,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 40872,
+        "num": 282911,
+        "word": "官方回应电台替民维权遭嬉笑回怼",
+        "onboard_time": 1749303022,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281195,
+        "num": 281195,
+        "word": "牙医3年前预警韦东奕牙周危机成真",
+        "onboard_time": 1749288145,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253930,
+        "num": 253930,
+        "word": "长安的荔枝",
+        "onboard_time": 1749296303,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249531,
+        "num": 249531,
+        "word": "尔冬升一眼就定了哈妮克孜演薛芳菲",
+        "onboard_time": 1749301102,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237360,
+        "num": 237360,
+        "word": "浪姐直播",
+        "onboard_time": 1749294443,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236965,
+        "num": 236965,
+        "word": "浪姐票数",
+        "onboard_time": 1749302783,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229546,
+        "num": 229546,
+        "word": "肖战藏海传收官图",
+        "onboard_time": 1749301703,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221769,
+        "num": 221769,
+        "word": "WBG对战IG",
+        "onboard_time": 1749288386,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215127,
+        "num": 215127,
+        "word": "高考数学难不难",
+        "onboard_time": 1749287786,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199249,
+        "num": 199249,
+        "word": "长安的荔枝 搞笑",
+        "onboard_time": 1749303503,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93211,
+        "num": 197428,
+        "word": "牛冠凯订婚了",
+        "onboard_time": 1749302963,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197126,
+        "num": 197126,
+        "word": "中国女排3比0法国",
+        "onboard_time": 1749303022,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196052,
+        "num": 196052,
+        "word": "诗情画奕",
+        "onboard_time": 1749303384,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192932,
+        "num": 192932,
+        "word": "RSG八冠王",
+        "onboard_time": 1749303441,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192177,
+        "num": 192177,
+        "word": "AG对战RNGM",
+        "onboard_time": 1749302483,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190705,
+        "num": 190705,
+        "word": "中国女排3比0大胜法国队",
+        "onboard_time": 1749303503,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182999,
+        "num": 182999,
+        "word": "LPL",
+        "onboard_time": 1749302963,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176416,
+        "num": 176416,
+        "word": "折腰",
+        "onboard_time": 1749302365,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163519,
+        "num": 163519,
+        "word": "04年男子拒服兵役被罚5.5万",
+        "onboard_time": 1749301583,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155201,
+        "num": 155201,
+        "word": "周深直播",
+        "onboard_time": 1749303682,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153275,
+        "num": 153275,
+        "word": "周鸿祎称准备干掉360整个市场部",
+        "onboard_time": 1749301343,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#有责任有担当青春才会闪光#"
+    }
+  }
+}

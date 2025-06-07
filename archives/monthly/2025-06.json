@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749303123545,
+  "endTime": 1749303810405,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -99,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4161483,
+      "num": 4161483,
+      "word": "李晟团票数也太低了",
+      "onboard_time": 1749301944,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3923701,
       "num": 3923701,
       "word": "国足无缘2026世界杯",
       "onboard_time": 1749138982,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3835681,
-      "num": 3835681,
-      "word": "李晟团票数也太低了",
-      "onboard_time": 1749301944,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3829018,
@@ -3019,6 +3019,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 519334,
+      "num": 397080,
+      "word": "赵雅芝美得我不知天地为何物",
+      "onboard_time": 1749301583,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518835,
       "num": 325980,
       "word": "雷坤也是当上站哥了",
@@ -3257,6 +3265,14 @@
       "onboard_time": 1749292520,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 491562,
+      "num": 368343,
+      "word": "吴宣仪 全开麦",
+      "onboard_time": 1749303384,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 491317,
@@ -3531,14 +3547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 466047,
-      "num": 397080,
-      "word": "赵雅芝美得我不知天地为何物",
-      "onboard_time": 1749301583,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 465072,
       "num": 546236,
       "word": "游客被咬伤身亡相关医生已被停职",
@@ -3729,6 +3737,14 @@
       "onboard_time": 1749128541,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 440456,
+      "num": 440456,
+      "word": "iG战胜WBG",
+      "onboard_time": 1749303022,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 439810,
@@ -5171,12 +5187,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 330019,
-      "num": 330019,
-      "word": "iG战胜WBG",
-      "onboard_time": 1749303022,
-      "rank": 24,
-      "category": "电竞"
+      "raw_hot": 330032,
+      "num": 330032,
+      "word": "庐州月",
+      "onboard_time": 1749302184,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 329884,
@@ -5883,14 +5899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287963,
-      "num": 287963,
-      "word": "庐州月",
-      "onboard_time": 1749302184,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287648,
       "num": 245380,
       "word": "第三人是内阁首辅石一平",
@@ -6443,6 +6451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262998,
+      "num": 366884,
+      "word": "谢娜有这份心干什么都会成功的",
+      "onboard_time": 1749302545,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262935,
       "num": 262935,
       "word": "肯德基原神联动",
@@ -6473,14 +6489,6 @@
       "onboard_time": 1748859319,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260464,
-      "num": 260464,
-      "word": "谢娜有这份心干什么都会成功的",
-      "onboard_time": 1749302545,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 260451,
@@ -7105,6 +7113,14 @@
       "onboard_time": 1748956462,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236965,
+      "num": 236965,
+      "word": "浪姐票数",
+      "onboard_time": 1749302783,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 236840,
@@ -9003,6 +9019,14 @@
       "category": "综艺,电影"
     },
     {
+      "raw_hot": 199249,
+      "num": 199249,
+      "word": "长安的荔枝 搞笑",
+      "onboard_time": 1749303503,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199088,
       "num": 337083,
       "word": "姜云升 新说唱",
@@ -9131,6 +9155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197126,
+      "num": 197126,
+      "word": "中国女排3比0法国",
+      "onboard_time": 1749303022,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196953,
       "num": 242193,
       "word": "郑钦文0比2萨巴伦卡",
@@ -9235,6 +9267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196052,
+      "num": 196052,
+      "word": "诗情画奕",
+      "onboard_time": 1749303384,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195916,
       "num": 195916,
       "word": "胡兵送高考生Labubu",
@@ -9297,14 +9337,6 @@
       "onboard_time": 1749192921,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 195393,
-      "num": 195393,
-      "word": "浪姐票数",
-      "onboard_time": 1749302783,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 195392,
@@ -9449,6 +9481,14 @@
       "onboard_time": 1748949021,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192932,
+      "num": 192932,
+      "word": "RSG八冠王",
+      "onboard_time": 1749303441,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 192919,
@@ -9627,6 +9667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190705,
+      "num": 190705,
+      "word": "中国女排3比0大胜法国队",
+      "onboard_time": 1749303503,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190633,
       "num": 190633,
       "word": "WBG空ban",
@@ -9737,14 +9785,6 @@
       "onboard_time": 1748828360,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189500,
-      "num": 189500,
-      "word": "中国女排3比0法国",
-      "onboard_time": 1749303022,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 189453,
@@ -12411,6 +12451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155201,
+      "num": 155201,
+      "word": "周深直播",
+      "onboard_time": 1749303682,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155158,
       "num": 155158,
       "word": "于正坚信临江仙是黑马",
@@ -14145,6 +14193,14 @@
       "onboard_time": 1749296002,
       "rank": 35,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 138591,
+      "num": 359019,
+      "word": "数学老师体验高考预估能考140",
+      "onboard_time": 1749303441,
+      "rank": 22,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 138475,
@@ -18835,6 +18891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93211,
+      "num": 206368,
+      "word": "牛冠凯订婚了",
+      "onboard_time": 1749302963,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93201,
       "num": 177816,
       "word": "金泽姜贞羽合作的含金量",
@@ -21115,6 +21179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57827,
+      "num": 370644,
+      "word": "老人被带到异地看房花掉16万看病钱",
+      "onboard_time": 1749302723,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57704,
       "num": 57704,
       "word": "00后失传的切菜小技巧",
@@ -21779,14 +21851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49386,
-      "num": 321125,
-      "word": "老人被带到异地看房花掉16万看病钱",
-      "onboard_time": 1749302723,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49364,
       "num": 238049,
       "word": "谁在买巴黎世家高定",
@@ -22009,6 +22073,14 @@
       "onboard_time": 1749265284,
       "rank": 5,
       "category": "正能量,教育"
+    },
+    {
+      "raw_hot": 45821,
+      "num": 1543097,
+      "word": "一个学科一句为高考生加油",
+      "onboard_time": 1749302902,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45775,
@@ -22507,6 +22579,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 40872,
+      "num": 282911,
+      "word": "官方回应电台替民维权遭嬉笑回怼",
+      "onboard_time": 1749303022,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40866,
       "num": 99086,
       "word": "拍完好东西女儿被王茉莉附身了",
@@ -22633,14 +22713,6 @@
       "onboard_time": 1749272724,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38750,
-      "num": 206368,
-      "word": "牛冠凯订婚了",
-      "onboard_time": 1749302963,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 38668,
@@ -23088,14 +23160,6 @@
       "word": "一中学家委会募捐5.7万激励学生",
       "onboard_time": 1749299961,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33762,
-      "num": 258114,
-      "word": "官方回应电台替民维权遭嬉笑回怼",
-      "onboard_time": 1749303022,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -23867,6 +23931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26889,
+      "num": 393178,
+      "word": "汉魏洛阳故城惊现古代招财猫陶灯",
+      "onboard_time": 1749302184,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26719,
       "num": 155225,
       "word": "什么样的投资才是适合你的",
@@ -23969,14 +24041,6 @@
       "onboard_time": 1748873001,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25736,
-      "num": 393178,
-      "word": "汉魏洛阳故城惊现古代招财猫陶灯",
-      "onboard_time": 1749302184,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25717,
@@ -25371,14 +25435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10105,
-      "num": 1543097,
-      "word": "一个学科一句为高考生加油",
-      "onboard_time": 1749302902,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10092,
       "num": 244809,
       "word": "为何深夜刷手机越刷越精神",
@@ -25632,6 +25688,9 @@
     },
     {
       "word": "#不负青春不负韶华#"
+    },
+    {
+      "word": "#有责任有担当青春才会闪光#"
     }
   ]
 }

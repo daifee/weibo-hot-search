@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749303123545,
+  "endTime": 1749303810405,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1643,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 4161483,
+      "num": 4161483,
+      "word": "李晟团票数也太低了",
+      "onboard_time": 1749301944,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4160078,
       "num": 853721,
       "word": "人民日报官博删除赴山海",
@@ -1841,14 +1849,6 @@
       "onboard_time": 1742041168,
       "rank": 4,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 3835681,
-      "num": 3835681,
-      "word": "李晟团票数也太低了",
-      "onboard_time": 1749301944,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3831944,
