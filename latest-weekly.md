@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/08 00:30:01 ~ 2025/06/08 05:23:07
+本榜单时间：2025/06/08 00:30:01 ~ 2025/06/08 05:38:04
 </p>
 </blockquote>
 <p>
@@ -527,6 +527,12 @@ GBLOCK联名专辑（热度：32552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23cubal%23" target="weibo">
 cubal（热度：15043）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%9E%E5%BA%94%E9%95%BF%E8%87%82%E7%8C%BF%E7%8C%B4%E9%AB%98%E8%80%83%E4%B8%8D%E5%AF%B9%E5%A4%96%E5%B1%95%E5%87%BA%23" target="weibo">
+动物园回应长臂猿猴高考不对外展出（热度：13797）
 </a>
 </li>
 

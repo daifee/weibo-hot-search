@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749331387456,
+  "endTime": 1749332284310,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -689,6 +689,14 @@
       "onboard_time": 1749316698,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13797,
+      "num": 19244,
+      "word": "动物园回应长臂猿猴高考不对外展出",
+      "onboard_time": 1749331813,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13328,
