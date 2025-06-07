@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749338769423,
+  "endTime": 1749339613114,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227086,
+      "num": 227086,
+      "word": "高考",
+      "onboard_time": 1749338176,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 227020,
       "num": 227020,
       "word": "马斯克和特朗普吵完又改口",
@@ -345,14 +353,6 @@
       "onboard_time": 1749298823,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180310,
-      "num": 180310,
-      "word": "高考",
-      "onboard_time": 1749338176,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 180105,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 138643,
-      "num": 104370,
+      "num": 111350,
       "word": "大脑过度疲劳的8个信号",
       "onboard_time": 1749319517,
       "rank": 30,
@@ -531,6 +531,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103706,
+      "num": 103706,
+      "word": "谢娜跳舞导播切了陈德容",
+      "onboard_time": 1749338416,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102121,
+      "num": 102121,
+      "word": "李晟团说再一再二不能再六",
+      "onboard_time": 1749336737,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101901,
       "num": 101901,
       "word": "危险派对",
@@ -547,11 +563,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96232,
+      "num": 96232,
+      "word": "孟佳晒JYP家族合影",
+      "onboard_time": 1749338176,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96219,
       "num": 96219,
       "word": "法网2025",
       "onboard_time": 1749314721,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93223,
+      "num": 93223,
+      "word": "孙颖莎落地人参果",
+      "onboard_time": 1749337998,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -563,16 +595,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89532,
-      "num": 89532,
-      "word": "李晟团说再一再二不能再六",
-      "onboard_time": 1749336737,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 88748,
+      "num": 88748,
+      "word": "为什么结婚后男人容易越来越发福",
+      "onboard_time": 1749339378,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 87686,
-      "num": 74974,
+      "num": 80592,
       "word": "侯佩岑 划水",
       "onboard_time": 1749302065,
       "rank": 32,
@@ -587,12 +619,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71993,
-      "num": 71993,
-      "word": "孙颖莎落地人参果",
-      "onboard_time": 1749337998,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 85323,
+      "num": 233234,
+      "word": "6岁男孩被困小区电梯40分钟无人救",
+      "onboard_time": 1749337936,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74578,
+      "num": 74578,
+      "word": "长安的荔枝",
+      "onboard_time": 1749339378,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68910,
+      "num": 68910,
+      "word": "美国召回170万枚鸡蛋",
+      "onboard_time": 1749339378,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68895,
@@ -611,6 +659,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 67426,
+      "num": 67426,
+      "word": "萨巴伦卡连续两个大满贯亚军",
+      "onboard_time": 1749338237,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62915,
       "num": 62915,
       "word": "郑钦文女王杯签表",
@@ -619,19 +675,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61686,
-      "num": 61686,
-      "word": "孟佳晒JYP家族合影",
-      "onboard_time": 1749338176,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 61531,
+      "num": 61531,
+      "word": "家长用9885元做985鲜花送孩子",
+      "onboard_time": 1749339438,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 60224,
-      "num": 60224,
-      "word": "谢娜跳舞导播切了陈德容",
-      "onboard_time": 1749338416,
-      "rank": 32,
+      "raw_hot": 59610,
+      "num": 59610,
+      "word": "尔冬升一眼就定了哈妮克孜演薛芳菲",
+      "onboard_time": 1749301102,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -651,12 +707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57737,
-      "num": 57737,
-      "word": "尔冬升一眼就定了哈妮克孜演薛芳菲",
-      "onboard_time": 1749301102,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 56479,
+      "num": 56479,
+      "word": "高芙回应法网夺冠",
+      "onboard_time": 1749339438,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 55839,
@@ -667,12 +723,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50270,
-      "num": 50270,
-      "word": "萨巴伦卡连续两个大满贯亚军",
-      "onboard_time": 1749338237,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 55211,
+      "num": 55211,
+      "word": "高考第二天",
+      "onboard_time": 1749339497,
+      "rank": 43,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 53633,
+      "num": 53633,
+      "word": "李艺彤这次大家是站着的",
+      "onboard_time": 1749339497,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 53047,
+      "num": 53047,
+      "word": "俄军说再次对乌军事目标实施远程打击",
+      "onboard_time": 1749337877,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 52333,
+      "num": 52333,
+      "word": "山东小钺钺回应缺席今年高考",
+      "onboard_time": 1749334095,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47681,
@@ -683,36 +763,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46891,
-      "num": 46891,
-      "word": "山东小钺钺回应缺席今年高考",
-      "onboard_time": 1749334095,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45365,
       "num": 117678,
       "word": "王楚钦回应压力",
       "onboard_time": 1749314243,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43474,
-      "num": 43474,
-      "word": "6岁男孩被困小区电梯40分钟无人救",
-      "onboard_time": 1749337936,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40552,
-      "num": 40552,
-      "word": "俄军说再次对乌军事目标实施远程打击",
-      "onboard_time": 1749337877,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39917,
@@ -761,6 +817,14 @@
       "onboard_time": 1749319636,
       "rank": 49,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 23469,
+      "num": 60365,
+      "word": "王楚钦蜕变之路",
+      "onboard_time": 1749338477,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 19834,
