@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749306170979,
+  "endTime": 1749307256486,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -115,20 +115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1539390,
+      "num": 1539390,
+      "word": "浪姐成团夜",
+      "onboard_time": 1749294802,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1526061,
       "num": 609741,
       "word": "陈楚生押中高考作文",
       "onboard_time": 1749291682,
       "rank": 13,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 1510315,
-      "num": 1510315,
-      "word": "浪姐成团夜",
-      "onboard_time": 1749294802,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 1488888,
@@ -219,6 +219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1159287,
+      "num": 1159287,
+      "word": "王楚钦说孙颖莎有她成功的道理",
+      "onboard_time": 1749305302,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1089746,
       "num": 516850,
       "word": "全智贤老公炒币亏了150亿",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 974862,
-      "num": 391919,
+      "num": 559417,
       "word": "吴宣仪 全开麦",
       "onboard_time": 1749303384,
       "rank": 16,
@@ -345,6 +353,14 @@
       "onboard_time": 1749265041,
       "rank": 4,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 713898,
+      "num": 555984,
+      "word": "长安的荔枝 搞笑",
+      "onboard_time": 1749303503,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 710020,
@@ -435,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 590225,
-      "num": 363416,
-      "word": "长安的荔枝 搞笑",
-      "onboard_time": 1749303503,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 586319,
       "num": 414424,
       "word": "国乒总教练李隼女儿结婚",
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 519334,
-      "num": 397080,
+      "num": 458984,
       "word": "赵雅芝美得我不知天地为何物",
       "onboard_time": 1749301583,
       "rank": 15,
@@ -651,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420088,
+      "num": 420088,
+      "word": "皮皮朱说主播谈不了恋爱",
+      "onboard_time": 1749305783,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 419704,
       "num": 419704,
       "word": "中国男游客在日本被一男子刺伤",
@@ -777,14 +793,6 @@
       "onboard_time": 1749273924,
       "rank": 18,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 364669,
-      "num": 364669,
-      "word": "王楚钦说孙颖莎有她成功的道理",
-      "onboard_time": 1749305302,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 362150,
@@ -995,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289237,
+      "num": 289237,
+      "word": "重温关晓彤高考采访太逗了",
+      "onboard_time": 1749306083,
+      "rank": 49,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 286137,
       "num": 286137,
       "word": "女子坐月子吹空调发烧39度进急诊",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1749291622,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 278780,
-      "num": 278780,
-      "word": "皮皮朱说主播谈不了恋爱",
-      "onboard_time": 1749305783,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 278441,
@@ -1203,6 +1211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 240126,
+      "num": 240126,
+      "word": "长沙暴雨",
+      "onboard_time": 1749306984,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239796,
       "num": 239796,
       "word": "肖战藏海传收官图",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1749302783,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236938,
+      "num": 359019,
+      "word": "数学老师体验高考预估能考140",
+      "onboard_time": 1749303441,
+      "rank": 22,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 234079,
@@ -1297,6 +1321,14 @@
       "onboard_time": 1749277042,
       "rank": 27,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 224620,
+      "num": 224620,
+      "word": "董力的老底都快被儿子揭光了",
+      "onboard_time": 1749306145,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 224590,
@@ -1371,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217850,
-      "num": 359019,
-      "word": "数学老师体验高考预估能考140",
-      "onboard_time": 1749303441,
-      "rank": 22,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 217656,
       "num": 470428,
       "word": "高考第1天结束",
@@ -1395,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217307,
+      "num": 217307,
+      "word": "萨巴伦卡vs高芙",
+      "onboard_time": 1749305244,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215533,
       "num": 215533,
       "word": "04年男子拒服兵役被罚5.5万",
@@ -1408,6 +1440,22 @@
       "word": "丁真为妹妹出钱上学",
       "onboard_time": 1749273682,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214079,
+      "num": 214079,
+      "word": "五胞胎同时参加高考50多万费用被免",
+      "onboard_time": 1749307043,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214023,
+      "num": 214023,
+      "word": "这场雨就是为红尘客栈下的",
+      "onboard_time": 1749306742,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1441,14 +1489,6 @@
       "onboard_time": 1749273741,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 211163,
-      "num": 211163,
-      "word": "萨巴伦卡vs高芙",
-      "onboard_time": 1749305244,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 209703,
@@ -1539,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203488,
+      "num": 364189,
+      "word": "爱吃香蕉的美国人被关税战打蒙了",
+      "onboard_time": 1749304643,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 203419,
       "num": 420389,
       "word": "北京高考作文题目第二次呼吸",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1749305123,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199502,
+      "num": 199502,
+      "word": "吴宣仪镜头好少",
+      "onboard_time": 1749306864,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 199317,
@@ -1691,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195327,
+      "num": 189985,
+      "word": "权志龙把玫瑰穿在身上了",
+      "onboard_time": 1749307224,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194733,
       "num": 224281,
       "word": "太好了是苏有朋的雨蝶我们有救了",
@@ -1721,14 +1785,6 @@
       "onboard_time": 1749268109,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194196,
-      "num": 364189,
-      "word": "爱吃香蕉的美国人被关税战打蒙了",
-      "onboard_time": 1749304643,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 192932,
@@ -1763,28 +1819,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190528,
-      "num": 190528,
-      "word": "董力的老底都快被儿子揭光了",
-      "onboard_time": 1749306145,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 190364,
-      "num": 190364,
-      "word": "重温关晓彤高考采访太逗了",
-      "onboard_time": 1749306083,
-      "rank": 49,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 190179,
       "num": 190179,
       "word": "周鸿祎称准备干掉360整个市场部",
       "onboard_time": 1749301343,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 190026,
+      "num": 186286,
+      "word": "教你怎么处理小孩子爱玩手机",
+      "onboard_time": 1749306203,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 189947,
@@ -2379,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152449,
+      "num": 546662,
+      "word": "首个出考场的初中生高考完还要中考",
+      "onboard_time": 1749306443,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151632,
       "num": 151632,
       "word": "陈德容抢词",
@@ -2683,6 +2739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130474,
+      "num": 194451,
+      "word": "王楚钦回应世乒赛夺冠后仰头大笑",
+      "onboard_time": 1749307103,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130115,
       "num": 130115,
       "word": "银行称存50000得LABUBU盲盒",
@@ -2881,6 +2945,14 @@
       "onboard_time": 1749204920,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117709,
+      "num": 194019,
+      "word": "猫耳新剧将增加会员功能",
+      "onboard_time": 1749306384,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 117669,
@@ -3139,6 +3211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92667,
+      "num": 352758,
+      "word": "蒋梦婕说嫉妒双丹组合",
+      "onboard_time": 1749305902,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92045,
       "num": 167685,
       "word": "Lululemon收跌20%",
@@ -3236,7 +3316,7 @@
     },
     {
       "raw_hot": 82658,
-      "num": 361279,
+      "num": 362987,
       "word": "75岁董事长秀肌肉带货遭炮轰假药",
       "onboard_time": 1749305423,
       "rank": 14,
@@ -3249,6 +3329,14 @@
       "onboard_time": 1749265284,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82165,
+      "num": 201240,
+      "word": "白象听劝史",
+      "onboard_time": 1749306443,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81373,
@@ -3419,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64730,
+      "num": 371469,
+      "word": "五胞胎参加高考其父发文谈感受",
+      "onboard_time": 1749306624,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62568,
       "num": 62568,
       "word": "梅德韦杰夫确认出战中网",
@@ -3499,6 +3595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53323,
+      "num": 378182,
+      "word": "看姐姐成团夜出神图",
+      "onboard_time": 1749305664,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53009,
       "num": 130825,
       "word": "语文默写为图画配古诗文是新题型",
@@ -3577,6 +3681,14 @@
       "onboard_time": 1749166100,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46606,
+      "num": 376350,
+      "word": "南昌一博物馆建成两年却尘封闲置",
+      "onboard_time": 1749306624,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45876,
@@ -3723,12 +3835,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35914,
-      "num": 352758,
-      "word": "蒋梦婕说嫉妒双丹组合",
-      "onboard_time": 1749305902,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 35691,
+      "num": 369636,
+      "word": "哈佛校长连发两封校内信披露进展",
+      "onboard_time": 1749305542,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35613,
@@ -3745,6 +3857,14 @@
       "onboard_time": 1749265584,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35406,
+      "num": 219763,
+      "word": "22年高考生再次被cue",
+      "onboard_time": 1749307224,
+      "rank": 34,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 35160,
@@ -3817,14 +3937,6 @@
       "onboard_time": 1749234915,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 31479,
-      "num": 358586,
-      "word": "看姐姐成团夜出神图",
-      "onboard_time": 1749305664,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 30865,
@@ -3955,14 +4067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21736,
-      "num": 344647,
-      "word": "哈佛校长连发两封校内信披露进展",
-      "onboard_time": 1749305542,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21593,
       "num": 33578,
       "word": "Circle上市首日暴涨168.48%",
@@ -4064,6 +4168,14 @@
       "word": "王自如为何在与罗永浩辩论后加入格力",
       "onboard_time": 1749289943,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12707,
+      "num": 367108,
+      "word": "醉酒后使用自动驾驶开车是否构成酒驾",
+      "onboard_time": 1749306742,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
