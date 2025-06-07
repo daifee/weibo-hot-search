@@ -1,0 +1,410 @@
+{
+  "runTime": 1749309923543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2514624,
+        "num": 2514624,
+        "word": "浪姐成团夜",
+        "onboard_time": 1749294802,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1624219,
+        "num": 1624219,
+        "word": "高考数学",
+        "onboard_time": 1749283282,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38188,
+        "num": 1155723,
+        "word": "一个学科一句为高考生加油",
+        "onboard_time": 1749302902,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 869992,
+        "num": 869992,
+        "word": "五胞胎同时参加高考50多万费用被免",
+        "onboard_time": 1749307043,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716458,
+        "num": 716458,
+        "word": "王楚钦说孙颖莎有她成功的道理",
+        "onboard_time": 1749305302,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1234330,
+        "num": 713085,
+        "word": "李晟团票数也太低了",
+        "onboard_time": 1749301944,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639862,
+        "num": 639862,
+        "word": "宋妍霏赢了张小婉",
+        "onboard_time": 1749307586,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596328,
+        "num": 596328,
+        "word": "长沙暴雨",
+        "onboard_time": 1749306984,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430787,
+        "num": 430787,
+        "word": "新一卷数学大题 难",
+        "onboard_time": 1749288745,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117340,
+        "num": 430757,
+        "word": "何立峰将访英并举行中美经贸磋商机制首次会议",
+        "onboard_time": 1749308962,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1100126,
+        "num": 430679,
+        "word": "李晟 我也觉得票数低了",
+        "onboard_time": 1749309264,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637557,
+        "num": 430577,
+        "word": "韦神怎么附试卷上了",
+        "onboard_time": 1749292282,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 624660,
+        "num": 430536,
+        "word": "吴宣仪 全开麦",
+        "onboard_time": 1749303384,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532402,
+        "num": 430436,
+        "word": "长安的荔枝 搞笑",
+        "onboard_time": 1749303503,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56269,
+        "num": 430398,
+        "word": "女子称五谷渔粉外卖吃出泡软蜈蚣",
+        "onboard_time": 1749309443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430364,
+        "num": 430364,
+        "word": "谢娜好美",
+        "onboard_time": 1749307644,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359525,
+        "num": 359525,
+        "word": "王楚钦你做到了",
+        "onboard_time": 1749295521,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 607204,
+        "num": 358942,
+        "word": "让吴宣仪开场的人是天才",
+        "onboard_time": 1749309323,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41349,
+        "num": 358436,
+        "word": "广州一高速收费站建成9年未启用",
+        "onboard_time": 1749309563,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19672,
+        "num": 358029,
+        "word": "现代医学是如何治疗毒蛇咬伤的",
+        "onboard_time": 1749309382,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 395048,
+        "num": 357130,
+        "word": "重温关晓彤高考采访太逗了",
+        "onboard_time": 1749306083,
+        "rank": 20,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 356708,
+        "num": 356708,
+        "word": "广州高考生喊话樊振东出征三大赛",
+        "onboard_time": 1749300983,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350038,
+        "num": 350038,
+        "word": "卡琳娜的婆婆来了",
+        "onboard_time": 1749299001,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49183,
+        "num": 340488,
+        "word": "看姐姐成团夜出神图",
+        "onboard_time": 1749305664,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339573,
+        "num": 339573,
+        "word": "皮皮朱说主播谈不了恋爱",
+        "onboard_time": 1749305783,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 323635,
+        "num": 323635,
+        "word": "五胞胎参加高考其父发文谈感受",
+        "onboard_time": 1749306624,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312386,
+        "num": 312386,
+        "word": "赵雅芝美得我不知天地为何物",
+        "onboard_time": 1749301583,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279346,
+        "num": 279346,
+        "word": "牙医3年前预警韦东奕牙周危机成真",
+        "onboard_time": 1749288145,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244837,
+        "num": 244837,
+        "word": "张小婉开麦 宋妍霏闭麦",
+        "onboard_time": 1749309864,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241367,
+        "num": 241367,
+        "word": "权志龙把玫瑰穿在身上了",
+        "onboard_time": 1749307224,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224416,
+        "num": 224416,
+        "word": "周诗雨宣布与丝芭解约",
+        "onboard_time": 1749299302,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218643,
+        "num": 218643,
+        "word": "全智贤老公炒币亏了150亿",
+        "onboard_time": 1749281120,
+        "rank": 31,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 217774,
+        "num": 217774,
+        "word": "首个出考场的初中生高考完还要中考",
+        "onboard_time": 1749306443,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204242,
+        "num": 204242,
+        "word": "萨巴伦卡vs高芙",
+        "onboard_time": 1749305244,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202439,
+        "num": 202439,
+        "word": "折腰庆功宴物料呢",
+        "onboard_time": 1749309082,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193431,
+        "num": 193431,
+        "word": "谢娜舞台串烧好牛",
+        "onboard_time": 1749298882,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193058,
+        "num": 193058,
+        "word": "浪姐直播",
+        "onboard_time": 1749294443,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191248,
+        "num": 191248,
+        "word": "浪姐票数",
+        "onboard_time": 1749302783,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190443,
+        "num": 190443,
+        "word": "法网决赛",
+        "onboard_time": 1749303984,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49127,
+        "num": 179362,
+        "word": "王楚钦回应赢雨果后仰天大笑",
+        "onboard_time": 1749301761,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177711,
+        "num": 177711,
+        "word": "王楚钦面对面",
+        "onboard_time": 1749309502,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175294,
+        "num": 175294,
+        "word": "这场雨就是为红尘客栈下的",
+        "onboard_time": 1749306742,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107121,
+        "num": 165114,
+        "word": "马吟吟好美",
+        "onboard_time": 1749304582,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156776,
+        "num": 156776,
+        "word": "董力的老底都快被儿子揭光了",
+        "onboard_time": 1749306145,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147954,
+        "num": 147954,
+        "word": "勒布伦回应樊振东加盟德甲",
+        "onboard_time": 1749305062,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143274,
+        "num": 143274,
+        "word": "石宇奇无缘决赛",
+        "onboard_time": 1749309082,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142786,
+        "num": 142786,
+        "word": "Ning怒喷Daeny",
+        "onboard_time": 1749307705,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141435,
+        "num": 141435,
+        "word": "宁艺卓国内首场见面会",
+        "onboard_time": 1749307464,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140057,
+        "num": 140057,
+        "word": "上海交大绝杀太原理工",
+        "onboard_time": 1749309264,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139754,
+        "num": 139754,
+        "word": "邓亚萍回复林孝埈",
+        "onboard_time": 1749308423,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记探寻中华文明#"
+    }
+  }
+}
