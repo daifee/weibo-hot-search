@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749332284310,
+  "endTime": 1749335049422,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1092814,
-      "num": 273540,
+      "num": 282937,
       "word": "叶童年度总冠军",
       "onboard_time": 1749315021,
       "rank": 6,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 260097,
-      "num": 87207,
+      "num": 101327,
       "word": "吴宣仪 这是我第三次成团",
       "onboard_time": 1749317477,
       "rank": 12,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105342,
+      "num": 105342,
+      "word": "2008年故意考0分男子发声",
+      "onboard_time": 1749323235,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104101,
       "num": 160440,
       "word": "高芙太能防了",
@@ -555,14 +563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75639,
-      "num": 75639,
-      "word": "2008年故意考0分男子发声",
-      "onboard_time": 1749323235,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68554,
       "num": 214812,
       "word": "朱雀玄武敕令高考发声",
@@ -593,6 +593,14 @@
       "onboard_time": 1749303863,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55868,
+      "num": 55868,
+      "word": "藏海传里的蛇眉铜鱼真的存在吗",
+      "onboard_time": 1749310042,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 55839,
@@ -643,14 +651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 32544,
-      "num": 42916,
-      "word": "藏海传里的蛇眉铜鱼真的存在吗",
-      "onboard_time": 1749310042,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 29327,
       "num": 34424,
       "word": "周笔畅长沙演唱会",
@@ -665,6 +665,14 @@
       "onboard_time": 1749319636,
       "rank": 49,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 27725,
+      "num": 27725,
+      "word": "动物园回应长臂猿猴高考不对外展出",
+      "onboard_time": 1749331813,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19834,
@@ -683,20 +691,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15403,
+      "num": 24421,
+      "word": "山东小钺钺回应缺席今年高考",
+      "onboard_time": 1749334095,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15043,
       "num": 72587,
       "word": "cubal",
       "onboard_time": 1749316698,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13797,
-      "num": 19244,
-      "word": "动物园回应长臂猿猴高考不对外展出",
-      "onboard_time": 1749331813,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13328,
