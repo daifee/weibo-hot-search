@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749295241973,
+  "endTime": 1749296305647,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -99,20 +99,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1526061,
+      "num": 470165,
+      "word": "陈楚生押中高考作文",
+      "onboard_time": 1749291682,
+      "rank": 13,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 1488888,
       "num": 1488888,
       "word": "第一批走错考场的学生出现了",
       "onboard_time": 1749260002,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1399546,
-      "num": 467767,
-      "word": "陈楚生押中高考作文",
-      "onboard_time": 1749291682,
-      "rank": 13,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 1392941,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1083588,
+      "num": 1083588,
+      "word": "韦神怎么附试卷上了",
+      "onboard_time": 1749292282,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1051856,
       "num": 306646,
       "word": "单依纯疑似报复李荣浩当年没转身",
@@ -224,14 +232,6 @@
       "word": "今年语文难不难",
       "onboard_time": 1749267087,
       "rank": 47,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 948820,
-      "num": 948820,
-      "word": "韦神怎么附试卷上了",
-      "onboard_time": 1749292282,
-      "rank": 13,
       "category": "教育"
     },
     {
@@ -265,6 +265,14 @@
       "onboard_time": 1749220886,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 720023,
+      "num": 720023,
+      "word": "王楚钦你做到了",
+      "onboard_time": 1749295521,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 717389,
@@ -345,6 +353,14 @@
       "onboard_time": 1749284243,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 584594,
+      "num": 584594,
+      "word": "浪姐总决赛红毯",
+      "onboard_time": 1749294683,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 575124,
@@ -435,6 +451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 467874,
+      "num": 467874,
+      "word": "导数题不给原函数",
+      "onboard_time": 1749292520,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 465642,
       "num": 241257,
       "word": "浙江女子牙疼切开脓肿发现20多种细菌",
@@ -521,14 +545,6 @@
       "onboard_time": 1749270086,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 405640,
-      "num": 405640,
-      "word": "导数题不给原函数",
-      "onboard_time": 1749292520,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 404532,
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 349032,
-      "num": 266925,
+      "num": 347097,
       "word": "准备复读",
       "onboard_time": 1749291203,
       "rank": 35,
@@ -843,6 +859,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 275871,
+      "num": 275871,
+      "word": "浪姐成团夜",
+      "onboard_time": 1749294802,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272983,
       "num": 178363,
       "word": "GAI 大白嗓",
@@ -889,14 +913,6 @@
       "onboard_time": 1749255321,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 257604,
-      "num": 256494,
-      "word": "浪姐总决赛红毯",
-      "onboard_time": 1749294683,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 256849,
@@ -1068,7 +1084,7 @@
     },
     {
       "raw_hot": 217656,
-      "num": 267463,
+      "num": 470428,
       "word": "高考第1天结束",
       "onboard_time": 1749294562,
       "rank": 9,
@@ -1088,6 +1104,14 @@
       "word": "丁真为妹妹出钱上学",
       "onboard_time": 1749273682,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213047,
+      "num": 238624,
+      "word": "浪姐直播",
+      "onboard_time": 1749294443,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1395,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186598,
+      "num": 186598,
+      "word": "艾福杰尼工作室晒聊天记录",
+      "onboard_time": 1749295822,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186437,
       "num": 192237,
       "word": "王勉王俊凯你俩有点暧昧了",
@@ -1491,6 +1523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180344,
+      "num": 180344,
+      "word": "程潇给陈梦化女团妆",
+      "onboard_time": 1749295942,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180332,
       "num": 255735,
       "word": "优酷凭藏海传实现单季度盈利",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1749292343,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173447,
+      "num": 152232,
+      "word": "高考数学 看不懂难不难",
+      "onboard_time": 1749295102,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 172412,
@@ -1723,14 +1771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160906,
-      "num": 160906,
-      "word": "浪姐直播",
-      "onboard_time": 1749294443,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160066,
       "num": 160066,
       "word": "严浩翔万妮达腹语暗号",
@@ -1883,14 +1923,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 146876,
-      "num": 140557,
-      "word": "高考数学 看不懂难不难",
-      "onboard_time": 1749295102,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 146810,
       "num": 146810,
       "word": "特朗普说除了我美国离了谁都照样转",
@@ -2027,12 +2059,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137297,
-      "num": 137297,
-      "word": "浪姐成团夜",
-      "onboard_time": 1749294802,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 138639,
+      "num": 138639,
+      "word": "梁实第29次高考估分500多",
+      "onboard_time": 1749296002,
+      "rank": 35,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 136273,
@@ -2049,6 +2081,14 @@
       "onboard_time": 1749276861,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136003,
+      "num": 136003,
+      "word": "李诚儒张萌因钟丽丽起争执",
+      "onboard_time": 1749293482,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 136002,
@@ -2115,14 +2155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 130568,
-      "num": 130568,
-      "word": "李诚儒张萌因钟丽丽起争执",
-      "onboard_time": 1749293482,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129386,
       "num": 1085350,
       "word": "天津卷作文辐条车轮车辆",
@@ -2153,6 +2185,14 @@
       "onboard_time": 1749283161,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128702,
+      "num": 414389,
+      "word": "官方通报网传8岁女孩遭长期霸凌",
+      "onboard_time": 1749291443,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 128677,
@@ -2192,6 +2232,14 @@
       "word": "橙光崩了",
       "onboard_time": 1749223284,
       "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 126229,
+      "num": 126229,
+      "word": "斗破苍穹",
+      "onboard_time": 1749295341,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -2361,14 +2409,6 @@
       "onboard_time": 1749224184,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113053,
-      "num": 414389,
-      "word": "官方通报网传8岁女孩遭长期霸凌",
-      "onboard_time": 1749291443,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 110805,
@@ -2867,6 +2907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54626,
+      "num": 136231,
+      "word": "为什么机器人有时聪明有时傻",
+      "onboard_time": 1749295282,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 53548,
       "num": 446912,
       "word": "游客称在泾县停车被饭店人员殴打",
@@ -3339,6 +3387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14455,
+      "num": 254715,
+      "word": "热敷和穴位按摩能缓解干眼症吗",
+      "onboard_time": 1749294683,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14336,
       "num": 417760,
       "word": "王自如为何在与罗永浩辩论后加入格力",
@@ -3369,14 +3425,6 @@
       "onboard_time": 1749248056,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8798,
-      "num": 254715,
-      "word": "热敷和穴位按摩能缓解干眼症吗",
-      "onboard_time": 1749294683,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 8470,

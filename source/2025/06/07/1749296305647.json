@@ -1,0 +1,410 @@
+{
+  "runTime": 1749296305647,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6116036,
+        "num": 6116036,
+        "word": "高考数学",
+        "onboard_time": 1749283282,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1476809,
+        "num": 1476809,
+        "word": "新一卷数学大题 难",
+        "onboard_time": 1749288745,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 8542,
+        "num": 1108860,
+        "word": "网警护航高考祝学子金榜题名",
+        "onboard_time": 1749265284,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1083588,
+        "num": 1083588,
+        "word": "韦神怎么附试卷上了",
+        "onboard_time": 1749292282,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 720023,
+        "num": 720023,
+        "word": "王楚钦你做到了",
+        "onboard_time": 1749295521,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 608879,
+        "num": 608879,
+        "word": "高考作文",
+        "onboard_time": 1749264742,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 584594,
+        "num": 584594,
+        "word": "浪姐总决赛红毯",
+        "onboard_time": 1749294683,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498566,
+        "num": 498566,
+        "word": "新二卷数学 简单",
+        "onboard_time": 1749288745,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 354558,
+        "num": 481590,
+        "word": "于小彤 原来得了绝症不会哭",
+        "onboard_time": 1749280942,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214639,
+        "num": 470428,
+        "word": "高考第1天结束",
+        "onboard_time": 1749294562,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1526061,
+        "num": 470165,
+        "word": "陈楚生押中高考作文",
+        "onboard_time": 1749291682,
+        "rank": 10,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 467874,
+        "num": 467874,
+        "word": "导数题不给原函数",
+        "onboard_time": 1749292520,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 454424,
+        "num": 454424,
+        "word": "数学一卷圆我大专梦",
+        "onboard_time": 1749290425,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 358312,
+        "num": 358312,
+        "word": "全智贤老公炒币亏了150亿",
+        "onboard_time": 1749281120,
+        "rank": 13,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 347097,
+        "num": 347097,
+        "word": "准备复读",
+        "onboard_time": 1749291203,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292719,
+        "num": 292719,
+        "word": "牙医3年前预警韦东奕牙周危机成真",
+        "onboard_time": 1749288145,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275871,
+        "num": 275871,
+        "word": "浪姐成团夜",
+        "onboard_time": 1749294802,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253863,
+        "num": 253863,
+        "word": "范玮琪演唱会门票跌至5.6折",
+        "onboard_time": 1749290903,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213047,
+        "num": 238624,
+        "word": "浪姐直播",
+        "onboard_time": 1749294443,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14455,
+        "num": 235606,
+        "word": "热敷和穴位按摩能缓解干眼症吗",
+        "onboard_time": 1749294683,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 234712,
+        "num": 234712,
+        "word": "数学我恨你",
+        "onboard_time": 1749289763,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227250,
+        "num": 227250,
+        "word": "内娱00花又上新了",
+        "onboard_time": 1749292882,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205106,
+        "num": 205106,
+        "word": "高考数学难不难",
+        "onboard_time": 1749287786,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199272,
+        "num": 199272,
+        "word": "李隼嫁女四大奥运乒乓冠军现身搂席",
+        "onboard_time": 1749291742,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198762,
+        "num": 198762,
+        "word": "高考作文 抽象",
+        "onboard_time": 1749269427,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186598,
+        "num": 186598,
+        "word": "艾福杰尼工作室晒聊天记录",
+        "onboard_time": 1749295822,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180344,
+        "num": 180344,
+        "word": "程潇给陈梦化女团妆",
+        "onboard_time": 1749295942,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174955,
+        "num": 174955,
+        "word": "孙俪邓超的孩子一个14岁一个11岁",
+        "onboard_time": 1749280942,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162392,
+        "num": 162392,
+        "word": "武汉一考点司机疯狂按喇叭被扣",
+        "onboard_time": 1749287786,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147295,
+        "num": 154447,
+        "word": "五旬老太守国门 谁来制裁单依纯",
+        "onboard_time": 1749277761,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173447,
+        "num": 152232,
+        "word": "高考数学 看不懂难不难",
+        "onboard_time": 1749295102,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148439,
+        "num": 148439,
+        "word": "乌克兰称击落俄罗斯苏35战斗机",
+        "onboard_time": 1749294322,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146882,
+        "num": 146882,
+        "word": "数学 一生之敌",
+        "onboard_time": 1749291622,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145710,
+        "num": 145710,
+        "word": "赵丽颖染回黑发了",
+        "onboard_time": 1749278181,
+        "rank": 33,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 142910,
+        "num": 142910,
+        "word": "优酷凭藏海传实现单季度盈利",
+        "onboard_time": 1749294083,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138639,
+        "num": 138639,
+        "word": "梁实第29次高考估分500多",
+        "onboard_time": 1749296002,
+        "rank": 35,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 137817,
+        "num": 137817,
+        "word": "何秋亊公关",
+        "onboard_time": 1749289044,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136494,
+        "num": 136494,
+        "word": "2个月大妹妹穿旗袍为18岁哥哥送考",
+        "onboard_time": 1749292761,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54626,
+        "num": 136231,
+        "word": "为什么机器人有时聪明有时傻",
+        "onboard_time": 1749295282,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136003,
+        "num": 136003,
+        "word": "李诚儒张萌因钟丽丽起争执",
+        "onboard_time": 1749293482,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128702,
+        "num": 128702,
+        "word": "官方通报网传8岁女孩遭长期霸凌",
+        "onboard_time": 1749291443,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 126229,
+        "num": 126229,
+        "word": "斗破苍穹",
+        "onboard_time": 1749295341,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123895,
+        "num": 123895,
+        "word": "今年高考数学有22年难吗",
+        "onboard_time": 1749292582,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122295,
+        "num": 122295,
+        "word": "印843名甘蔗女工接受子宫切除",
+        "onboard_time": 1749284002,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114417,
+        "num": 114417,
+        "word": "俄方称愿给予马斯克政治庇护",
+        "onboard_time": 1749293542,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113442,
+        "num": 113442,
+        "word": "语文默写",
+        "onboard_time": 1749268587,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112908,
+        "num": 112908,
+        "word": "30块钱咖啡买到3000块钱服务",
+        "onboard_time": 1749291383,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100696,
+        "num": 100696,
+        "word": "姜云升 新说唱",
+        "onboard_time": 1749279202,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23142,
+        "num": 100363,
+        "word": "阴阳师",
+        "onboard_time": 1749288085,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100242,
+        "num": 100242,
+        "word": "曹骏郑合惠子cp感",
+        "onboard_time": 1749284541,
+        "rank": 49,
+        "category": "艺人,综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#不负青春不负韶华#"
+    }
+  }
+}
