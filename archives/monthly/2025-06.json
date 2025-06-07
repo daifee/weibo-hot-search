@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749274914571,
+  "endTime": 1749278065427,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -801,6 +801,14 @@
       "onboard_time": 1749254299,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1187798,
+      "num": 469685,
+      "word": "22届没惹",
+      "onboard_time": 1749273202,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 1172032,
@@ -2411,6 +2419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 590781,
+      "num": 363064,
+      "word": "作文 跑题",
+      "onboard_time": 1749271404,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 588595,
       "num": 588595,
       "word": "哪吒婚礼开场",
@@ -2651,14 +2667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 532361,
-      "num": 363064,
-      "word": "作文 跑题",
-      "onboard_time": 1749271404,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 531499,
       "num": 531499,
       "word": "女足迪丽热巴杀青",
@@ -2795,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 513395,
+      "num": 513395,
+      "word": "曹骏终于有了自己的名牌",
+      "onboard_time": 1749272603,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 512494,
       "num": 607467,
       "word": "酱园弄预告赵丽颖戏份",
@@ -2817,6 +2833,14 @@
       "onboard_time": 1748870361,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 508196,
+      "num": 508196,
+      "word": "五旬老太守国门 谁来制裁单依纯",
+      "onboard_time": 1749277761,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 508135,
@@ -2865,14 +2889,6 @@
       "onboard_time": 1748833821,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 502289,
-      "num": 469685,
-      "word": "22届没惹",
-      "onboard_time": 1749273202,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 502208,
@@ -2987,14 +3003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 494514,
-      "num": 494514,
-      "word": "曹骏终于有了自己的名牌",
-      "onboard_time": 1749272603,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 492442,
       "num": 492442,
       "word": "梁伟铿 青岛",
@@ -3017,6 +3025,14 @@
       "onboard_time": 1749183442,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 490710,
+      "num": 490710,
+      "word": "邓超 哭一鼻子",
+      "onboard_time": 1749274882,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 489955,
@@ -4627,6 +4643,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 340714,
+      "num": 340714,
+      "word": "开放性默写",
+      "onboard_time": 1749276743,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 339821,
       "num": 284342,
       "word": "有存款和无存款的区别",
@@ -5083,6 +5107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 310183,
+      "num": 310183,
+      "word": "侯佩岑救场",
+      "onboard_time": 1749274161,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309655,
       "num": 309655,
       "word": "吸引樊振东加盟的德国小城有何魅力",
@@ -5403,6 +5435,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 290858,
+      "num": 290858,
+      "word": "李惠利跳Whiplash",
+      "onboard_time": 1749276922,
+      "rank": 17,
+      "category": "演出,音乐"
+    },
+    {
       "raw_hot": 290580,
       "num": 362187,
       "word": "港科大已取录两位哈佛转校生",
@@ -5673,6 +5713,14 @@
       "onboard_time": 1749184882,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 277916,
+      "num": 277916,
+      "word": "韩安冉想让女儿上综艺被拒",
+      "onboard_time": 1749277101,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 277599,
@@ -5995,6 +6043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262149,
+      "num": 262149,
+      "word": "赵丽颖纽约第二套",
+      "onboard_time": 1749277219,
+      "rank": 23,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 260910,
       "num": 260910,
       "word": "刘亦菲阿布扎比9宫格",
@@ -6267,14 +6323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 251423,
-      "num": 251423,
-      "word": "侯佩岑救场",
-      "onboard_time": 1749274161,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251224,
       "num": 251224,
       "word": "章若楠海边白裙",
@@ -6321,6 +6369,14 @@
       "onboard_time": 1748940322,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249863,
+      "num": 249863,
+      "word": "王俊凯族长发话了",
+      "onboard_time": 1749276681,
+      "rank": 25,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 249301,
@@ -6889,6 +6945,14 @@
       "onboard_time": 1748957303,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226255,
+      "num": 226255,
+      "word": "朴智妍花臂",
+      "onboard_time": 1749277042,
+      "rank": 27,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 226022,
@@ -8107,6 +8171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202990,
+      "num": 318215,
+      "word": "上海高考作文出处作者发声",
+      "onboard_time": 1749277581,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202961,
       "num": 202961,
       "word": "酱园弄群星海报",
@@ -8321,6 +8393,22 @@
       "onboard_time": 1748833821,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199317,
+      "num": 199317,
+      "word": "严浩翔北电人北电魂",
+      "onboard_time": 1749277641,
+      "rank": 31,
+      "category": "综艺,电影"
+    },
+    {
+      "raw_hot": 199042,
+      "num": 199042,
+      "word": "妈妈岗是什么岗",
+      "onboard_time": 1749275601,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198939,
@@ -9139,6 +9227,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 187627,
+      "num": 187627,
+      "word": "刘宇宁折腰收官发文",
+      "onboard_time": 1749276922,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187579,
       "num": 433505,
       "word": "高考作弊将导致所有科目成绩无效",
@@ -9827,6 +9923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177419,
+      "num": 177419,
+      "word": "乘风之夜嘉宾官宣",
+      "onboard_time": 1749276021,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177314,
       "num": 177314,
       "word": "陷入我们的热恋15",
@@ -9881,14 +9985,6 @@
       "onboard_time": 1749101061,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176032,
-      "num": 176032,
-      "word": "邓超 哭一鼻子",
-      "onboard_time": 1749274882,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 176024,
@@ -11651,6 +11747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152701,
+      "num": 152701,
+      "word": "妈妈亲手做985元现金花束等高考孩子",
+      "onboard_time": 1749277881,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152668,
       "num": 152668,
       "word": "直击安徽六安毛坦厂中学送考",
@@ -13337,6 +13441,14 @@
       "onboard_time": 1748769500,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135055,
+      "num": 179432,
+      "word": "特朗普称将公布新任美联储主席",
+      "onboard_time": 1749276861,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135051,
@@ -16067,6 +16179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107507,
+      "num": 202713,
+      "word": "高考首日旗开得胜",
+      "onboard_time": 1749275662,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107445,
       "num": 107445,
       "word": "美一卡车侧翻致2.5亿只蜜蜂飞出",
@@ -16635,6 +16755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101109,
+      "num": 278172,
+      "word": "中国男游客在日本被一男子刺伤",
+      "onboard_time": 1749276561,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101090,
       "num": 285844,
       "word": "00后没毕业就创业种地年赚超20万",
@@ -16921,6 +17049,14 @@
       "onboard_time": 1749134483,
       "rank": 25,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 98551,
+      "num": 143276,
+      "word": "刘冲发的VOGUE合照",
+      "onboard_time": 1749276622,
+      "rank": 47,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 98503,
@@ -23129,6 +23265,14 @@
       "onboard_time": 1748890094,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17355,
+      "num": 199548,
+      "word": "北大的韦东奕与陶哲轩相比如何",
+      "onboard_time": 1749277881,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17337,
