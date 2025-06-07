@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/07 16:44:39
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/07 17:25:17
 </p>
 </blockquote>
 <p>
@@ -227,6 +227,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%BE%8E%E6%89%80%E6%9C%89%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81%E5%8A%A0%E5%BE%81125%25%E5%85%B3%E7%A8%8E%23" target="weibo">
 对美所有进口商品加征125%关税（热度：15319037）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%23" target="weibo">
+高考数学（热度：15283970）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E9%AC%BC%20%E6%88%91%E6%B2%A1%E6%9C%89%E7%BB%93%E5%A9%9A%23" target="weibo">
 鬼鬼 我没有结婚（热度：3376657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E9%87%91%E8%B5%9B%E7%BA%B6%E4%BA%B2%E5%90%BB%E7%85%A7%E5%86%8D%E6%9B%9D%23" target="weibo">
-金秀贤金赛纶亲吻照再曝（热度：3359002）
 </a>
 </li>
 

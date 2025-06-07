@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749285879215,
+  "endTime": 1749288317151,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -289,6 +289,14 @@
       "onboard_time": 1744359084,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15283970,
+      "num": 15283970,
+      "word": "高考数学",
+      "onboard_time": 1749283282,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 15162205,
@@ -2392,14 +2400,6 @@
       "word": "鬼鬼 我没有结婚",
       "onboard_time": 1736484203,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3359002,
-      "num": 336753,
-      "word": "金秀贤金赛纶亲吻照再曝",
-      "onboard_time": 1741774104,
-      "rank": 20,
       "category": "艺人"
     }
   ],

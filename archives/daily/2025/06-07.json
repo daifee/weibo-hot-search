@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749285879215,
+  "endTime": 1749288317151,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -8,6 +8,14 @@
       "word": "高考作文",
       "onboard_time": 1749264742,
       "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 15283970,
+      "num": 15283970,
+      "word": "高考数学",
+      "onboard_time": 1749283282,
+      "rank": 0,
       "category": "教育"
     },
     {
@@ -51,20 +59,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2672736,
-      "num": 2672736,
-      "word": "高考数学",
-      "onboard_time": 1749283282,
-      "rank": 0,
-      "category": "教育"
-    },
-    {
       "raw_hot": 2010386,
       "num": 2010386,
       "word": "第一名掉准考证的学生出现了",
       "onboard_time": 1749223463,
       "rank": 0,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1959363,
+      "num": 1959363,
+      "word": "高考数学难不难",
+      "onboard_time": 1749287786,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1859121,
@@ -81,6 +89,14 @@
       "onboard_time": 1749260002,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1488493,
+      "num": 1488493,
+      "word": "我竟然押中了高考作文",
+      "onboard_time": 1749286342,
+      "rank": 3,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 1392941,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 1089746,
-      "num": 473130,
+      "num": 516850,
       "word": "全智贤老公炒币亏了150亿",
       "onboard_time": 1749281120,
       "rank": 11,
@@ -297,6 +313,14 @@
       "onboard_time": 1749265764,
       "rank": 13,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 549990,
+      "num": 549990,
+      "word": "首个走出考场的学霸竟是高二体验生",
+      "onboard_time": 1749285622,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 529897,
@@ -475,6 +499,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 390894,
+      "num": 390894,
+      "word": "折腰庆功宴",
+      "onboard_time": 1749287485,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385138,
       "num": 605562,
       "word": "五哈",
@@ -569,6 +601,14 @@
       "onboard_time": 1749280702,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325307,
+      "num": 325307,
+      "word": "没有全国甲乙卷了",
+      "onboard_time": 1749286222,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 322040,
@@ -793,6 +833,14 @@
       "onboard_time": 1749271944,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244575,
+      "num": 244575,
+      "word": "男生高考被单独分到一个教室",
+      "onboard_time": 1749286702,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242899,
@@ -1083,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192274,
+      "num": 192274,
+      "word": "刘宇宁单人撕拉片",
+      "onboard_time": 1749286342,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189947,
       "num": 189947,
       "word": "鼓书艺人",
@@ -1219,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178746,
+      "num": 178746,
+      "word": "武汉一考点司机疯狂按喇叭被扣",
+      "onboard_time": 1749287786,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177419,
       "num": 177419,
       "word": "乘风之夜嘉宾官宣",
@@ -1283,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168681,
+      "num": 168681,
+      "word": "牙医3年前预警韦东奕牙周危机成真",
+      "onboard_time": 1749288145,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168478,
       "num": 168478,
       "word": "何秋亊方承认第三方抄袭话筒",
@@ -1311,6 +1383,14 @@
       "num": 166872,
       "word": "倪萍说来乘风可以 下一辈子",
       "onboard_time": 1749284424,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166772,
+      "num": 166772,
+      "word": "Yamy质疑诺米晋级",
+      "onboard_time": 1749286582,
       "rank": 35,
       "category": "综艺"
     },
@@ -1371,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160066,
+      "num": 160066,
+      "word": "严浩翔万妮达腹语暗号",
+      "onboard_time": 1749287123,
+      "rank": 36,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 159241,
       "num": 198455,
       "word": "人早晚是会爱上labubu的",
@@ -1393,6 +1481,14 @@
       "onboard_time": 1749236294,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158224,
+      "num": 158224,
+      "word": "大学生看不懂",
+      "onboard_time": 1749287965,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 157306,
@@ -1515,6 +1611,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 142662,
+      "num": 142662,
+      "word": "保护气血最简单的方法",
+      "onboard_time": 1749285322,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 142596,
       "num": 142596,
       "word": "七根心简",
@@ -1577,6 +1681,14 @@
       "onboard_time": 1749221364,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138662,
+      "num": 138662,
+      "word": "第五人格",
+      "onboard_time": 1749286461,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 136273,
@@ -1659,6 +1771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130022,
+      "num": 130022,
+      "word": "九尾 我是阿豆",
+      "onboard_time": 1749288264,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129386,
       "num": 1085350,
       "word": "天津卷作文辐条车轮车辆",
@@ -1689,6 +1809,14 @@
       "onboard_time": 1749283161,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128677,
+      "num": 128677,
+      "word": "阴阳师",
+      "onboard_time": 1749288085,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 127873,
@@ -1747,6 +1875,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 120665,
+      "num": 120665,
+      "word": "刘浩存宋威龙二搭",
+      "onboard_time": 1749288264,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120248,
       "num": 147718,
       "word": "张本美和缺席乒超第一阶段",
@@ -1803,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116962,
+      "num": 313652,
+      "word": "铂金包绿水鬼一元拍",
+      "onboard_time": 1749288026,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 116209,
       "num": 116209,
       "word": "王者荣耀",
@@ -1851,12 +1995,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110798,
+      "num": 378260,
+      "word": "梁实第29次考完高考语文后说有点悬",
+      "onboard_time": 1749286942,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110776,
       "num": 139675,
       "word": "一首青春探路者为高考生加油",
       "onboard_time": 1749252199,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 108756,
+      "num": 119633,
+      "word": "雷军买YU7也要自己掏钱",
+      "onboard_time": 1749288264,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 108528,
@@ -1868,7 +2028,7 @@
     },
     {
       "raw_hot": 107507,
-      "num": 202713,
+      "num": 1672717,
       "word": "高考首日旗开得胜",
       "onboard_time": 1749275662,
       "rank": 29,
@@ -1972,7 +2132,7 @@
     },
     {
       "raw_hot": 94868,
-      "num": 201264,
+      "num": 517984,
       "word": "朝鲜发生网络中断",
       "onboard_time": 1749284541,
       "rank": 28,
@@ -1993,6 +2153,14 @@
       "onboard_time": 1749265704,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93060,
+      "num": 385482,
+      "word": "泾县文旅局向蔡某及其家人致歉",
+      "onboard_time": 1749285022,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92045,
@@ -2192,14 +2360,6 @@
       "word": "男子玩密室对女鬼NPC摸腿搂腰",
       "onboard_time": 1749278002,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69296,
-      "num": 380560,
-      "word": "泾县文旅局向蔡某及其家人致歉",
-      "onboard_time": 1749285022,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2483,14 +2643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 33748,
-      "num": 237657,
-      "word": "首个走出考场的学霸竟是高二体验生",
-      "onboard_time": 1749285622,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33700,
       "num": 376673,
       "word": "瓷娃娃考生与同学合唱海阔天空",
@@ -2531,12 +2683,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 31837,
+      "num": 311700,
+      "word": "南昌考场现显眼包大喊快采访我",
+      "onboard_time": 1749287906,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30865,
       "num": 198464,
       "word": "胡荷韬无缘世界杯痛哭不止",
       "onboard_time": 1749274882,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30169,
+      "num": 347996,
+      "word": "律师借款付息向法官行贿超百万",
+      "onboard_time": 1749287725,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29929,
+      "num": 148253,
+      "word": "群众包围洛杉矶联邦拘留中心",
+      "onboard_time": 1749285740,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27048,
@@ -2585,14 +2761,6 @@
       "onboard_time": 1749225563,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24886,
-      "num": 148253,
-      "word": "群众包围洛杉矶联邦拘留中心",
-      "onboard_time": 1749285740,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 24485,
@@ -2715,6 +2883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12966,
+      "num": 340265,
+      "word": "女性密室NPC该如何保护自己",
+      "onboard_time": 1749287485,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11612,
       "num": 45056,
       "word": "张桂梅的学生说这身军装我不脱",
@@ -2767,6 +2943,9 @@
     },
     {
       "word": "#在奋斗中释放青春激情#"
+    },
+    {
+      "word": "跟着总书记建设美丽中国"
     }
   ]
 }
