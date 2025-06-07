@@ -1,0 +1,410 @@
+{
+  "runTime": 1749278875673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4473232,
+        "num": 4473232,
+        "word": "高考作文",
+        "onboard_time": 1749264742,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1217235,
+        "num": 1217235,
+        "word": "语文默写",
+        "onboard_time": 1749268587,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34343,
+        "num": 903577,
+        "word": "祝1335万高考生大胜归来",
+        "onboard_time": 1749266424,
+        "rank": 2,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 830348,
+        "num": 830348,
+        "word": "五旬老太守国门 谁来制裁单依纯",
+        "onboard_time": 1749277761,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 790424,
+        "num": 790424,
+        "word": "王俊凯 把时代少年团请过来",
+        "onboard_time": 1749272664,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22684,
+        "num": 624546,
+        "word": "网警护航高考祝学子金榜题名",
+        "onboard_time": 1749265284,
+        "rank": 5,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 617188,
+        "num": 617188,
+        "word": "全国一卷 难",
+        "onboard_time": 1749268289,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 525243,
+        "num": 525243,
+        "word": "开放性默写",
+        "onboard_time": 1749276743,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 427002,
+        "num": 427002,
+        "word": "曹骏终于有了自己的名牌",
+        "onboard_time": 1749272603,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313901,
+        "num": 408999,
+        "word": "上海高考作文出处作者发声",
+        "onboard_time": 1749277581,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 945286,
+        "num": 407461,
+        "word": "22届没惹",
+        "onboard_time": 1749273202,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 400122,
+        "num": 400122,
+        "word": "韩安冉想让女儿上综艺被拒",
+        "onboard_time": 1749277101,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 542896,
+        "num": 397440,
+        "word": "全国一卷作文 看不懂",
+        "onboard_time": 1749267869,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 389418,
+        "num": 389418,
+        "word": "邓超 哭一鼻子",
+        "onboard_time": 1749274882,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40109,
+        "num": 359341,
+        "word": "马斯克父亲称儿子得接受自己不是统帅",
+        "onboard_time": 1749278302,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 349438,
+        "num": 349438,
+        "word": "李惠利跳Whiplash",
+        "onboard_time": 1749276922,
+        "rank": 15,
+        "category": "演出,音乐"
+      },
+      {
+        "raw_hot": 333508,
+        "num": 333508,
+        "word": "丁太升说单依纯李白念白low爆",
+        "onboard_time": 1749267208,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283951,
+        "num": 283951,
+        "word": "赵丽颖纽约第二套",
+        "onboard_time": 1749277219,
+        "rank": 17,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 269183,
+        "num": 269183,
+        "word": "肖战姜妍蒋奇明 飞刀",
+        "onboard_time": 1749270086,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22366,
+        "num": 259947,
+        "word": "北大的韦东奕与陶哲轩相比如何",
+        "onboard_time": 1749277881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404976,
+        "num": 259021,
+        "word": "作文 跑题",
+        "onboard_time": 1749271404,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256611,
+        "num": 256611,
+        "word": "中国男游客在日本被一男子刺伤",
+        "onboard_time": 1749276561,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295998,
+        "num": 251185,
+        "word": "高考作文 抽象",
+        "onboard_time": 1749269427,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240232,
+        "num": 240232,
+        "word": "陈赫cue鹿晗朱志鑫",
+        "onboard_time": 1749273924,
+        "rank": 23,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 26276,
+        "num": 237977,
+        "word": "广播剧集体为高考加油",
+        "onboard_time": 1749278122,
+        "rank": 24,
+        "category": "动漫,教育"
+      },
+      {
+        "raw_hot": 237745,
+        "num": 237745,
+        "word": "侯佩岑救场",
+        "onboard_time": 1749274161,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207953,
+        "num": 207953,
+        "word": "韩国小孩是珍稀动物怎么还能弄丢",
+        "onboard_time": 1749273803,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207415,
+        "num": 207415,
+        "word": "王俊凯族长发话了",
+        "onboard_time": 1749276681,
+        "rank": 27,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 200522,
+        "num": 200522,
+        "word": "朴智妍花臂",
+        "onboard_time": 1749277042,
+        "rank": 28,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 187252,
+        "num": 187252,
+        "word": "严浩翔北电人北电魂",
+        "onboard_time": 1749277641,
+        "rank": 29,
+        "category": "综艺,电影"
+      },
+      {
+        "raw_hot": 184873,
+        "num": 184873,
+        "word": "王老吉 LadyGaga",
+        "onboard_time": 1749278421,
+        "rank": 30,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 184857,
+        "num": 184857,
+        "word": "妈妈岗是什么岗",
+        "onboard_time": 1749275601,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170709,
+        "num": 170709,
+        "word": "高考",
+        "onboard_time": 1749251598,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168478,
+        "num": 168478,
+        "word": "何秋亊方承认第三方抄袭话筒",
+        "onboard_time": 1749278241,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166509,
+        "num": 166509,
+        "word": "一中国游客在日本京都被砍伤",
+        "onboard_time": 1749278602,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165446,
+        "num": 165446,
+        "word": "拜托高考第一个出考场的考生",
+        "onboard_time": 1749265644,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160528,
+        "num": 160528,
+        "word": "孙俪邓超结婚15周年",
+        "onboard_time": 1749273383,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157330,
+        "num": 157330,
+        "word": "丁真为妹妹出钱上学",
+        "onboard_time": 1749273682,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70264,
+        "num": 156752,
+        "word": "男子玩密室对女鬼NPC摸腿搂腰",
+        "onboard_time": 1749278002,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156502,
+        "num": 156502,
+        "word": "乘风之夜嘉宾官宣",
+        "onboard_time": 1749276021,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155397,
+        "num": 155397,
+        "word": "花26万自装了套内99平的家",
+        "onboard_time": 1749278302,
+        "rank": 40,
+        "category": "休闲,情感"
+      },
+      {
+        "raw_hot": 150614,
+        "num": 150614,
+        "word": "女子坐月子吹空调发烧39度进急诊",
+        "onboard_time": 1749267688,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148350,
+        "num": 148350,
+        "word": "严浩翔我为什么要考中戏",
+        "onboard_time": 1749278781,
+        "rank": 42,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 144961,
+        "num": 144961,
+        "word": "妈妈亲手做985元现金花束等高考孩子",
+        "onboard_time": 1749277881,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142517,
+        "num": 142517,
+        "word": "黄子韬成Capper迷弟了",
+        "onboard_time": 1749278724,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140304,
+        "num": 140304,
+        "word": "临江仙",
+        "onboard_time": 1749266064,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139721,
+        "num": 139721,
+        "word": "上海卷 专转传",
+        "onboard_time": 1749268768,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139206,
+        "num": 139206,
+        "word": "曝范玮琪临时换歌",
+        "onboard_time": 1749265764,
+        "rank": 47,
+        "category": "综艺,音乐"
+      },
+      {
+        "raw_hot": 136084,
+        "num": 136084,
+        "word": "特朗普称将公布新任美联储主席",
+        "onboard_time": 1749276861,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91840,
+        "num": 134698,
+        "word": "江苏卫视即将承包全国九成笑点",
+        "onboard_time": 1749271645,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对广大青年的深情寄语#"
+    }
+  }
+}

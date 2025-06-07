@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749278065427,
+  "endTime": 1749278875673,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 830348,
+      "num": 830348,
+      "word": "五旬老太守国门 谁来制裁单依纯",
+      "onboard_time": 1749277761,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 716539,
       "num": 1130137,
       "word": "单依纯回应疯了",
@@ -243,20 +251,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 525243,
+      "num": 525243,
+      "word": "开放性默写",
+      "onboard_time": 1749276743,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 513395,
       "num": 513395,
       "word": "曹骏终于有了自己的名牌",
       "onboard_time": 1749272603,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 508196,
-      "num": 508196,
-      "word": "五旬老太守国门 谁来制裁单依纯",
-      "onboard_time": 1749277761,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 506521,
@@ -379,6 +387,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 400122,
+      "num": 400122,
+      "word": "韩安冉想让女儿上综艺被拒",
+      "onboard_time": 1749277101,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 391657,
       "num": 536168,
       "word": "高考第一天",
@@ -451,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340714,
-      "num": 340714,
-      "word": "开放性默写",
-      "onboard_time": 1749276743,
-      "rank": 11,
-      "category": "教育"
+      "raw_hot": 349438,
+      "num": 349438,
+      "word": "李惠利跳Whiplash",
+      "onboard_time": 1749276922,
+      "rank": 17,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 335907,
@@ -497,6 +513,14 @@
       "onboard_time": 1749271883,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313901,
+      "num": 408999,
+      "word": "上海高考作文出处作者发声",
+      "onboard_time": 1749277581,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311779,
@@ -555,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290858,
-      "num": 290858,
-      "word": "李惠利跳Whiplash",
-      "onboard_time": 1749276922,
-      "rank": 17,
-      "category": "演出,音乐"
-    },
-    {
       "raw_hot": 286137,
       "num": 286137,
       "word": "女子坐月子吹空调发烧39度进急诊",
@@ -571,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277916,
-      "num": 277916,
-      "word": "韩安冉想让女儿上综艺被拒",
-      "onboard_time": 1749277101,
-      "rank": 21,
-      "category": "网红"
+      "raw_hot": 283951,
+      "num": 283951,
+      "word": "赵丽颖纽约第二套",
+      "onboard_time": 1749277219,
+      "rank": 23,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 277599,
@@ -627,14 +643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 262149,
-      "num": 262149,
-      "word": "赵丽颖纽约第二套",
-      "onboard_time": 1749277219,
-      "rank": 23,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 260451,
       "num": 260451,
       "word": "俄大规模轰炸乌克兰军工企业",
@@ -648,6 +656,14 @@
       "word": "中国台湾男子在马来西亚轻轨站坠轨",
       "onboard_time": 1749255321,
       "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 256611,
+      "num": 278172,
+      "word": "中国男游客在日本被一男子刺伤",
+      "onboard_time": 1749276561,
+      "rank": 19,
       "category": "海外新闻"
     },
     {
@@ -843,14 +859,6 @@
       "category": "民生新闻,民生新闻"
     },
     {
-      "raw_hot": 202990,
-      "num": 318215,
-      "word": "上海高考作文出处作者发声",
-      "onboard_time": 1749277581,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202423,
       "num": 202423,
       "word": "看到题目两眼一黑",
@@ -995,6 +1003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184873,
+      "num": 184873,
+      "word": "王老吉 LadyGaga",
+      "onboard_time": 1749278421,
+      "rank": 30,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 184191,
       "num": 126558,
       "word": "歌手直播",
@@ -1099,6 +1115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168478,
+      "num": 168478,
+      "word": "何秋亊方承认第三方抄袭话筒",
+      "onboard_time": 1749278241,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167626,
       "num": 208385,
       "word": "江苏卫视即将承包全国九成笑点",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1749266424,
       "rank": 2,
       "category": "正能量,教育"
+    },
+    {
+      "raw_hot": 166509,
+      "num": 166509,
+      "word": "一中国游客在日本京都被砍伤",
+      "onboard_time": 1749278602,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164443,
@@ -1187,6 +1219,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 155397,
+      "num": 155397,
+      "word": "花26万自装了套内99平的家",
+      "onboard_time": 1749278302,
+      "rank": 40,
+      "category": "休闲,情感"
+    },
+    {
       "raw_hot": 155158,
       "num": 155158,
       "word": "于正坚信临江仙是黑马",
@@ -1219,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148350,
+      "num": 148350,
+      "word": "严浩翔我为什么要考中戏",
+      "onboard_time": 1749278781,
+      "rank": 42,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 147951,
       "num": 533357,
       "word": "特朗普说乌给了普京轰炸的理由",
@@ -1232,6 +1280,14 @@
       "word": "单依纯李白 高考禁曲",
       "onboard_time": 1749236115,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142517,
+      "num": 142517,
+      "word": "黄子韬成Capper迷弟了",
+      "onboard_time": 1749278724,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1267,20 +1323,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136084,
+      "num": 179432,
+      "word": "特朗普称将公布新任美联储主席",
+      "onboard_time": 1749276861,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136002,
       "num": 260294,
       "word": "大学生针灸急救晕倒高考女生",
       "onboard_time": 1749266844,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135055,
-      "num": 179432,
-      "word": "特朗普称将公布新任美联储主席",
-      "onboard_time": 1749276861,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 134520,
@@ -1547,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101109,
-      "num": 278172,
-      "word": "中国男游客在日本被一男子刺伤",
-      "onboard_time": 1749276561,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 101090,
       "num": 101090,
       "word": "00后没毕业就创业种地年赚超20万",
@@ -1795,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70264,
+      "num": 174420,
+      "word": "男子玩密室对女鬼NPC摸腿搂腰",
+      "onboard_time": 1749278002,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69205,
       "num": 69205,
       "word": "谢娜问呼伦贝尔真有这么冷吗",
@@ -1833,14 +1889,6 @@
       "onboard_time": 1749252378,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62298,
-      "num": 174420,
-      "word": "男子玩密室对女鬼NPC摸腿搂腰",
-      "onboard_time": 1749278002,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60542,
@@ -1995,6 +2043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40109,
+      "num": 359341,
+      "word": "马斯克父亲称儿子得接受自己不是统帅",
+      "onboard_time": 1749278302,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38990,
       "num": 360437,
       "word": "曾舜晞白九思可爱多暴击",
@@ -2091,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26276,
+      "num": 237977,
+      "word": "广播剧集体为高考加油",
+      "onboard_time": 1749278122,
+      "rank": 24,
+      "category": "动漫,教育"
+    },
+    {
       "raw_hot": 26215,
       "num": 26215,
       "word": "陈楚生 凡人诀",
@@ -2129,6 +2193,14 @@
       "onboard_time": 1749240194,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22366,
+      "num": 259947,
+      "word": "北大的韦东奕与陶哲轩相比如何",
+      "onboard_time": 1749277881,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22047,
@@ -2177,14 +2249,6 @@
       "onboard_time": 1749228678,
       "rank": 49,
       "category": "动漫,教育"
-    },
-    {
-      "raw_hot": 17355,
-      "num": 199548,
-      "word": "北大的韦东奕与陶哲轩相比如何",
-      "onboard_time": 1749277881,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15138,
