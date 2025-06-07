@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749310787074,
+  "endTime": 1749313801992,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -929,6 +929,14 @@
       "onboard_time": 1744214184,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 8736633,
+      "num": 8736633,
+      "word": "浪姐成团名单",
+      "onboard_time": 1749313102,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 8711179,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736868979,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 3394647,
-      "num": 3394647,
-      "word": "司马南偷税被罚超900万",
-      "onboard_time": 1742523020,
-      "rank": 22,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

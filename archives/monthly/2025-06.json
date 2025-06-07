@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749310787074,
+  "endTime": 1749313801992,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -41,6 +41,14 @@
       "onboard_time": 1748956522,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 8736633,
+      "num": 8736633,
+      "word": "浪姐成团名单",
+      "onboard_time": 1749313102,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 7936216,
@@ -321,6 +329,14 @@
       "onboard_time": 1748921841,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1969145,
+      "num": 1969145,
+      "word": "韦东奕严选账号已改名",
+      "onboard_time": 1749312383,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1966637,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1749050721,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 870548,
+      "num": 525918,
+      "word": "小婉管乐",
+      "onboard_time": 1749309983,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 869992,
@@ -2699,6 +2723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 587510,
+      "num": 493333,
+      "word": "张小婉开麦 宋妍霏闭麦",
+      "onboard_time": 1749309864,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 586828,
       "num": 586828,
       "word": "女子效仿转卖蜜雪时薪20元果断放弃",
@@ -2875,6 +2907,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 559662,
+      "num": 492112,
+      "word": "侯佩岑团",
+      "onboard_time": 1749311843,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 558235,
       "num": 558235,
       "word": "缺氧离世卡车司机已下葬卡友发声",
@@ -2976,6 +3016,14 @@
       "word": "李在明喊出还差三票就赢得大选",
       "onboard_time": 1748875283,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 531672,
+      "num": 531672,
+      "word": "驻日本大使馆发布提醒",
+      "onboard_time": 1749310762,
+      "rank": 33,
       "category": "国际时政"
     },
     {
@@ -3187,6 +3235,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 506808,
+      "num": 506808,
+      "word": "五胞胎参加高考其父发文谈感受",
+      "onboard_time": 1749306624,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 506521,
       "num": 506521,
       "word": "跑男这期收视率好高",
@@ -3305,14 +3361,6 @@
       "onboard_time": 1749022160,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 495577,
-      "num": 495577,
-      "word": "五胞胎参加高考其父发文谈感受",
-      "onboard_time": 1749306624,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 495177,
@@ -3731,6 +3779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 452661,
+      "num": 452661,
+      "word": "年度乘风舞台",
+      "onboard_time": 1749310762,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451853,
       "num": 451853,
       "word": "女子疑被蛇咬身亡哪个环节出了问题",
@@ -4067,14 +4123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 415298,
-      "num": 415298,
-      "word": "小婉管乐",
-      "onboard_time": 1749309983,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 414719,
       "num": 414719,
       "word": "早春晴朗 张晚意",
@@ -4137,14 +4185,6 @@
       "onboard_time": 1749270086,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 405770,
-      "num": 405770,
-      "word": "张小婉开麦 宋妍霏闭麦",
-      "onboard_time": 1749309864,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 405400,
@@ -5995,6 +6035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288576,
+      "num": 217792,
+      "word": "空调一开一关和一直开着哪个费电",
+      "onboard_time": 1749310343,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 288469,
       "num": 231211,
       "word": "李白",
@@ -6537,6 +6585,14 @@
       "onboard_time": 1748999663,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 264862,
+      "num": 493813,
+      "word": "王楚钦再回忆巴黎奥运混双比赛",
+      "onboard_time": 1749311182,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 264392,
@@ -7627,6 +7683,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227020,
+      "num": 460566,
+      "word": "马斯克和特朗普吵完又改口",
+      "onboard_time": 1749310103,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 226728,
+      "num": 204536,
+      "word": "国产剧最普通人的女主出现了",
+      "onboard_time": 1749310702,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226374,
       "num": 226374,
       "word": "王安宇挤不进的圈子别硬融",
@@ -7867,6 +7939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222199,
+      "num": 222199,
+      "word": "萨巴伦卡vs高芙",
+      "onboard_time": 1749305244,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222094,
       "num": 222094,
       "word": "减脂先减内脏脂肪",
@@ -8027,6 +8107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218728,
+      "num": 203023,
+      "word": "蒙娜丽莎",
+      "onboard_time": 1749312743,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218453,
       "num": 218453,
       "word": "应采儿说Jasper在追星戒断状态",
@@ -8049,14 +8137,6 @@
       "onboard_time": 1749166519,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 217792,
-      "num": 217792,
-      "word": "空调一开一关和一直开着哪个费电",
-      "onboard_time": 1749310343,
-      "rank": 28,
-      "category": "科学科普"
     },
     {
       "raw_hot": 217774,
@@ -8097,14 +8177,6 @@
       "onboard_time": 1749279862,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217307,
-      "num": 217307,
-      "word": "萨巴伦卡vs高芙",
-      "onboard_time": 1749305244,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 216976,
@@ -9073,6 +9145,14 @@
       "onboard_time": 1749271344,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202289,
+      "num": 202289,
+      "word": "中方要求日方尽快抓捕嫌犯",
+      "onboard_time": 1749312084,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 202278,
@@ -10307,6 +10387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187293,
+      "num": 187293,
+      "word": "曹颖邓萃雯姐姐值得",
+      "onboard_time": 1749313702,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187162,
       "num": 523817,
       "word": "特斯拉市值一夜蒸发超万亿",
@@ -10433,14 +10521,6 @@
       "onboard_time": 1749184401,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186116,
-      "num": 186116,
-      "word": "驻日本大使馆发布提醒",
-      "onboard_time": 1749310762,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 185769,
@@ -10867,6 +10947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180105,
+      "num": 180105,
+      "word": "GAI和CBLOCK四小只拥抱",
+      "onboard_time": 1749313283,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180095,
       "num": 180095,
       "word": "藏海传出圈梗",
@@ -11227,6 +11315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 174279,
+      "num": 174279,
+      "word": "蒋一侨浪姐决赛十秒rap炸成这样",
+      "onboard_time": 1749310581,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174047,
       "num": 159440,
       "word": "王楚钦赵心童成就顶峰相见佳话",
@@ -11425,6 +11521,14 @@
       "onboard_time": 1749113120,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171383,
+      "num": 171383,
+      "word": "天命小姜",
+      "onboard_time": 1749313102,
+      "rank": 34,
+      "category": "剧集,游戏"
     },
     {
       "raw_hot": 171229,
@@ -14315,6 +14419,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 140440,
+      "num": 140440,
+      "word": "长安的荔枝前3集前奏起飞",
+      "onboard_time": 1749311062,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140379,
       "num": 140379,
       "word": "张真源给自己加台词",
@@ -14547,14 +14659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138648,
-      "num": 138648,
-      "word": "年度乘风舞台",
-      "onboard_time": 1749310762,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138639,
       "num": 138639,
       "word": "梁实第29次高考估分500多",
@@ -14624,6 +14728,14 @@
       "word": "五十公里桃花坞",
       "onboard_time": 1748927122,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137999,
+      "num": 160312,
+      "word": "浪姐成团名单什么时候出",
+      "onboard_time": 1749311182,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -14955,14 +15067,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 135424,
-      "num": 135424,
-      "word": "蒋一侨浪姐决赛十秒rap炸成这样",
-      "onboard_time": 1749310581,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135208,
       "num": 144030,
       "word": "卢昱晓的电影感",
@@ -15024,14 +15128,6 @@
       "word": "于正说临江仙集均打底6000",
       "onboard_time": 1748755100,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 134722,
-      "num": 134722,
-      "word": "国产剧最普通人的女主出现了",
-      "onboard_time": 1749310702,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -15347,14 +15443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132037,
-      "num": 460566,
-      "word": "马斯克和特朗普吵完又改口",
-      "onboard_time": 1749310103,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 132000,
       "num": 132000,
       "word": "美副总统说美国人靠自己就能干大事",
@@ -15577,6 +15665,14 @@
       "onboard_time": 1749095961,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130475,
+      "num": 130475,
+      "word": "高考数学压轴题",
+      "onboard_time": 1749311902,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 130474,
@@ -16169,6 +16265,14 @@
       "onboard_time": 1749036861,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 124566,
+      "num": 427116,
+      "word": "巴黎世家烤鸭包三里屯店一周卖十多只",
+      "onboard_time": 1749309142,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124503,
@@ -17089,14 +17193,6 @@
       "onboard_time": 1749043942,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 115191,
-      "num": 427116,
-      "word": "巴黎世家烤鸭包三里屯店一周卖十多只",
-      "onboard_time": 1749309142,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115137,
@@ -19209,6 +19305,14 @@
       "onboard_time": 1748851222,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94116,
+      "num": 160440,
+      "word": "高芙太能防了",
+      "onboard_time": 1749313043,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 93916,
@@ -22556,7 +22660,7 @@
     },
     {
       "raw_hot": 45821,
-      "num": 1543097,
+      "num": 1892312,
       "word": "一个学科一句为高考生加油",
       "onboard_time": 1749302902,
       "rank": 2,

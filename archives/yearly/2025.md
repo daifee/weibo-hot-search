@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/07 23:39:47
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/08 00:30:01
 </p>
 </blockquote>
 <p>
@@ -707,6 +707,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23" target="weibo">
 美国被加关税后特朗普呼吁冷静（热度：8884094）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95%23" target="weibo">
+浪姐成团名单（热度：8736633）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%23" target="weibo">
 小红书（热度：3396289）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E9%A9%AC%E5%8D%97%E5%81%B7%E7%A8%8E%E8%A2%AB%E7%BD%9A%E8%B6%85900%E4%B8%87%23" target="weibo">
-司马南偷税被罚超900万（热度：3394647）
 </a>
 </li>
 
