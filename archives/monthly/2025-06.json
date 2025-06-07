@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749309923543,
+  "endTime": 1749310787074,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -219,6 +219,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 2600380,
+      "num": 2600380,
+      "word": "浪姐成团夜",
+      "onboard_time": 1749294802,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2598932,
       "num": 2598932,
       "word": "白象食品道歉",
@@ -233,14 +241,6 @@
       "onboard_time": 1749025279,
       "rank": 20,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 2514624,
-      "num": 2514624,
-      "word": "浪姐成团夜",
-      "onboard_time": 1749294802,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 2511180,
@@ -715,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1305175,
+      "num": 1305175,
+      "word": "李晟 我也觉得票数低了",
+      "onboard_time": 1749309264,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1302071,
       "num": 721505,
       "word": "高考作文 抽象",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1748860639,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1100126,
-      "num": 430679,
-      "word": "李晟 我也觉得票数低了",
-      "onboard_time": 1749309264,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1089746,
@@ -2955,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 540934,
+      "num": 540934,
+      "word": "吴宣仪甜妹回归",
+      "onboard_time": 1749309024,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538670,
       "num": 538670,
       "word": "Bin 闹剧结束了",
@@ -3297,6 +3305,14 @@
       "onboard_time": 1749022160,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 495577,
+      "num": 495577,
+      "word": "五胞胎参加高考其父发文谈感受",
+      "onboard_time": 1749306624,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 495177,
@@ -4051,6 +4067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415298,
+      "num": 415298,
+      "word": "小婉管乐",
+      "onboard_time": 1749309983,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414719,
       "num": 414719,
       "word": "早春晴朗 张晚意",
@@ -4113,6 +4137,14 @@
       "onboard_time": 1749270086,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 405770,
+      "num": 405770,
+      "word": "张小婉开麦 宋妍霏闭麦",
+      "onboard_time": 1749309864,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 405400,
@@ -5353,14 +5385,6 @@
       "onboard_time": 1749215787,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 323635,
-      "num": 371469,
-      "word": "五胞胎参加高考其父发文谈感受",
-      "onboard_time": 1749306624,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322423,
@@ -7043,14 +7067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244837,
-      "num": 244837,
-      "word": "张小婉开麦 宋妍霏闭麦",
-      "onboard_time": 1749309864,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244791,
       "num": 244791,
       "word": "上海2000元一个的黑天鹅蛋糕",
@@ -8033,6 +8049,14 @@
       "onboard_time": 1749166519,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 217792,
+      "num": 217792,
+      "word": "空调一开一关和一直开着哪个费电",
+      "onboard_time": 1749310343,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 217774,
@@ -9523,6 +9547,14 @@
       "category": "时尚,动漫"
     },
     {
+      "raw_hot": 195884,
+      "num": 195884,
+      "word": "王楚钦面对面",
+      "onboard_time": 1749309502,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195846,
       "num": 280319,
       "word": "网传范玮琪歌手补位",
@@ -9883,6 +9915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191299,
+      "num": 147857,
+      "word": "罗予彤红衣好美",
+      "onboard_time": 1749310642,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191153,
       "num": 191153,
       "word": "国足最后一个主场已停止退票",
@@ -9897,6 +9937,14 @@
       "onboard_time": 1749186442,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191071,
+      "num": 191071,
+      "word": "萨巴伦卡1比0高芙",
+      "onboard_time": 1749310762,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 190939,
@@ -10385,6 +10433,14 @@
       "onboard_time": 1749184401,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186116,
+      "num": 186116,
+      "word": "驻日本大使馆发布提醒",
+      "onboard_time": 1749310762,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 185769,
@@ -10969,14 +11025,6 @@
       "onboard_time": 1749084141,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 177711,
-      "num": 177711,
-      "word": "王楚钦面对面",
-      "onboard_time": 1749309502,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 177633,
@@ -12435,6 +12483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159155,
+      "num": 159155,
+      "word": "上海交大绝杀太原理工",
+      "onboard_time": 1749309264,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158981,
       "num": 158981,
       "word": "华晨宇是和粉丝连上蓝牙了吗",
@@ -13803,6 +13859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144118,
+      "num": 144118,
+      "word": "藏海传里的蛇眉铜鱼真的存在吗",
+      "onboard_time": 1749310042,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144074,
       "num": 70583,
       "word": "单依纯李白 高考禁曲",
@@ -14299,14 +14363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 140057,
-      "num": 140057,
-      "word": "上海交大绝杀太原理工",
-      "onboard_time": 1749309264,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140044,
       "num": 140044,
       "word": "韩国地铁车厢起火瞬间曝光",
@@ -14489,6 +14545,14 @@
       "onboard_time": 1749008181,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138648,
+      "num": 138648,
+      "word": "年度乘风舞台",
+      "onboard_time": 1749310762,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 138639,
@@ -14891,6 +14955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 135424,
+      "num": 135424,
+      "word": "蒋一侨浪姐决赛十秒rap炸成这样",
+      "onboard_time": 1749310581,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135208,
       "num": 144030,
       "word": "卢昱晓的电影感",
@@ -14952,6 +15024,14 @@
       "word": "于正说临江仙集均打底6000",
       "onboard_time": 1748755100,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134722,
+      "num": 134722,
+      "word": "国产剧最普通人的女主出现了",
+      "onboard_time": 1749310702,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -15265,6 +15345,14 @@
       "onboard_time": 1749266484,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132037,
+      "num": 460566,
+      "word": "马斯克和特朗普吵完又改口",
+      "onboard_time": 1749310103,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132000,
@@ -17001,6 +17089,14 @@
       "onboard_time": 1749043942,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115191,
+      "num": 427116,
+      "word": "巴黎世家烤鸭包三里屯店一周卖十多只",
+      "onboard_time": 1749309142,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115137,
@@ -21251,6 +21347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62964,
+      "num": 430398,
+      "word": "女子称五谷渔粉外卖吃出泡软蜈蚣",
+      "onboard_time": 1749309443,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62882,
       "num": 62882,
       "word": "徐明浩赵美延cha",
@@ -21609,14 +21713,6 @@
       "onboard_time": 1748814675,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 56269,
-      "num": 430398,
-      "word": "女子称五谷渔粉外卖吃出泡软蜈蚣",
-      "onboard_time": 1749309443,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56162,
@@ -22531,6 +22627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44952,
+      "num": 358436,
+      "word": "广州一高速收费站建成9年未启用",
+      "onboard_time": 1749309563,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44936,
       "num": 233836,
       "word": "99个火车站车票起售时间点调整",
@@ -22889,14 +22993,6 @@
       "onboard_time": 1748937680,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 41349,
-      "num": 358436,
-      "word": "广州一高速收费站建成9年未启用",
-      "onboard_time": 1749309563,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41343,

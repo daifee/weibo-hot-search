@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749309923543,
+  "endTime": 1749310787074,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -91,8 +91,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2514624,
-      "num": 2514624,
+      "raw_hot": 2600380,
+      "num": 2600380,
       "word": "浪姐成团夜",
       "onboard_time": 1749294802,
       "rank": 33,
@@ -145,6 +145,14 @@
       "onboard_time": 1749268768,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1305175,
+      "num": 1305175,
+      "word": "李晟 我也觉得票数低了",
+      "onboard_time": 1749309264,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1302071,
@@ -225,14 +233,6 @@
       "onboard_time": 1749305302,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1100126,
-      "num": 430679,
-      "word": "李晟 我也觉得票数低了",
-      "onboard_time": 1749309264,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1089746,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 540934,
+      "num": 540934,
+      "word": "吴宣仪甜妹回归",
+      "onboard_time": 1749309024,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529897,
       "num": 529897,
       "word": "2025高考作文题汇总",
@@ -584,6 +592,14 @@
       "word": "韦东奕社媒这道题并不比数学好解",
       "onboard_time": 1749260240,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495577,
+      "num": 495577,
+      "word": "五胞胎参加高考其父发文谈感受",
+      "onboard_time": 1749306624,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -723,6 +739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 415298,
+      "num": 415298,
+      "word": "小婉管乐",
+      "onboard_time": 1749309983,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407741,
       "num": 407741,
       "word": "孙俪邓超结婚15周年",
@@ -737,6 +761,14 @@
       "onboard_time": 1749270086,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 405770,
+      "num": 405770,
+      "word": "张小婉开麦 宋妍霏闭麦",
+      "onboard_time": 1749309864,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 404532,
@@ -937,14 +969,6 @@
       "onboard_time": 1749286222,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 323635,
-      "num": 371469,
-      "word": "五胞胎参加高考其父发文谈感受",
-      "onboard_time": 1749306624,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322040,
@@ -1251,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244837,
-      "num": 244837,
-      "word": "张小婉开麦 宋妍霏闭麦",
-      "onboard_time": 1749309864,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242943,
       "num": 242943,
       "word": "牛冠凯订婚了",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1749301403,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217792,
+      "num": 217792,
+      "word": "空调一开一关和一直开着哪个费电",
+      "onboard_time": 1749310343,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 217774,
@@ -1811,6 +1835,14 @@
       "category": "时尚,动漫"
     },
     {
+      "raw_hot": 195884,
+      "num": 195884,
+      "word": "王楚钦面对面",
+      "onboard_time": 1749309502,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195744,
       "num": 195744,
       "word": "Grace 我来歌手只有一个目的",
@@ -1873,6 +1905,22 @@
       "onboard_time": 1749304884,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191299,
+      "num": 147857,
+      "word": "罗予彤红衣好美",
+      "onboard_time": 1749310642,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191071,
+      "num": 191071,
+      "word": "萨巴伦卡1比0高芙",
+      "onboard_time": 1749310762,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 190705,
@@ -2003,6 +2051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 186116,
+      "num": 186116,
+      "word": "驻日本大使馆发布提醒",
+      "onboard_time": 1749310762,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 185458,
       "num": 185458,
       "word": "严浩翔我为什么要考中戏",
@@ -2105,14 +2161,6 @@
       "onboard_time": 1749300322,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177711,
-      "num": 177711,
-      "word": "王楚钦面对面",
-      "onboard_time": 1749309502,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 177419,
@@ -2379,6 +2427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159155,
+      "num": 159155,
+      "word": "上海交大绝杀太原理工",
+      "onboard_time": 1749309264,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159099,
       "num": 116140,
       "word": "VOGUE晚宴",
@@ -2571,6 +2627,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 144118,
+      "num": 144118,
+      "word": "藏海传里的蛇眉铜鱼真的存在吗",
+      "onboard_time": 1749310042,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144074,
       "num": 70583,
       "word": "单依纯李白 高考禁曲",
@@ -2667,14 +2731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 140057,
-      "num": 140057,
-      "word": "上海交大绝杀太原理工",
-      "onboard_time": 1749309264,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139912,
       "num": 139912,
       "word": "难哄喜剧版有脸了",
@@ -2731,6 +2787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138648,
+      "num": 138648,
+      "word": "年度乘风舞台",
+      "onboard_time": 1749310762,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138639,
       "num": 138639,
       "word": "梁实第29次高考估分500多",
@@ -2779,6 +2843,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 135424,
+      "num": 135424,
+      "word": "蒋一侨浪姐决赛十秒rap炸成这样",
+      "onboard_time": 1749310581,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134722,
+      "num": 134722,
+      "word": "国产剧最普通人的女主出现了",
+      "onboard_time": 1749310702,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134520,
       "num": 213464,
       "word": "原来西瓜是一种抗炎水果",
@@ -2825,6 +2905,14 @@
       "onboard_time": 1749266484,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132037,
+      "num": 460566,
+      "word": "马斯克和特朗普吵完又改口",
+      "onboard_time": 1749310103,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131937,
@@ -3097,6 +3185,14 @@
       "onboard_time": 1749252858,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115191,
+      "num": 427116,
+      "word": "巴黎世家烤鸭包三里屯店一周卖十多只",
+      "onboard_time": 1749309142,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114916,
@@ -3627,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62964,
+      "num": 430398,
+      "word": "女子称五谷渔粉外卖吃出泡软蜈蚣",
+      "onboard_time": 1749309443,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62568,
       "num": 62568,
       "word": "梅德韦杰夫确认出战中网",
@@ -3680,14 +3784,6 @@
       "word": "11城公交站HPV科普喊话考生妈妈",
       "onboard_time": 1749272784,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56269,
-      "num": 430398,
-      "word": "女子称五谷渔粉外卖吃出泡软蜈蚣",
-      "onboard_time": 1749309443,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3867,6 +3963,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 44952,
+      "num": 358436,
+      "word": "广州一高速收费站建成9年未启用",
+      "onboard_time": 1749309563,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43730,
       "num": 471165,
       "word": "月经状况能否作为妇科健康的自检指标",
@@ -3905,14 +4009,6 @@
       "onboard_time": 1749269126,
       "rank": 11,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 41349,
-      "num": 358436,
-      "word": "广州一高速收费站建成9年未启用",
-      "onboard_time": 1749309563,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41340,
