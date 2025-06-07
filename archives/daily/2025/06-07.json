@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749300413057,
+  "endTime": 1749301360811,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -83,6 +83,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 2068863,
+      "num": 2068863,
+      "word": "浪姐直播 假唱",
+      "onboard_time": 1749299722,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2010386,
       "num": 2010386,
       "word": "第一名掉准考证的学生出现了",
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 1526061,
-      "num": 497100,
+      "num": 609741,
       "word": "陈楚生押中高考作文",
       "onboard_time": 1749291682,
       "rank": 13,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 1510315,
+      "num": 1510315,
+      "word": "浪姐成团夜",
+      "onboard_time": 1749294802,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 1488888,
@@ -144,14 +160,6 @@
       "word": "于小彤 原来得了绝症不会哭",
       "onboard_time": 1749280942,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1227168,
-      "num": 1227168,
-      "word": "浪姐成团夜",
-      "onboard_time": 1749294802,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -267,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 850267,
-      "num": 850267,
-      "word": "浪姐直播 假唱",
-      "onboard_time": 1749299722,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 850000,
       "num": 850000,
       "word": "王楚钦你做到了",
@@ -288,6 +288,14 @@
       "word": "范玮琪暴哭",
       "onboard_time": 1749220886,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 805123,
+      "num": 805123,
+      "word": "卡琳娜的婆婆来了",
+      "onboard_time": 1749299001,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694628,
+      "num": 694628,
+      "word": "周诗雨宣布与丝芭解约",
+      "onboard_time": 1749299302,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 693825,
       "num": 473137,
       "word": "数学我恨你",
@@ -329,14 +345,6 @@
       "onboard_time": 1749219025,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 668032,
-      "num": 668032,
-      "word": "周诗雨宣布与丝芭解约",
-      "onboard_time": 1749299302,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 637222,
@@ -371,11 +379,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 595827,
-      "num": 496915,
-      "word": "卡琳娜的婆婆来了",
-      "onboard_time": 1749299001,
-      "rank": 11,
+      "raw_hot": 591642,
+      "num": 591642,
+      "word": "李艺彤亲友团 被跳过",
+      "onboard_time": 1749298823,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -435,20 +443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 535961,
-      "num": 496013,
-      "word": "李艺彤亲友团 被跳过",
-      "onboard_time": 1749298823,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 529897,
       "num": 529897,
       "word": "2025高考作文题汇总",
       "onboard_time": 1749269186,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 519739,
+      "num": 519739,
+      "word": "军人跳水连救5条命后陷入昏迷",
+      "onboard_time": 1749298042,
+      "rank": 22,
+      "category": "正能量"
     },
     {
       "raw_hot": 513395,
@@ -627,14 +635,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 388095,
-      "num": 388095,
-      "word": "军人跳水连救5条命后陷入昏迷",
-      "onboard_time": 1749298042,
-      "rank": 22,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 385138,
       "num": 605562,
       "word": "五哈",
@@ -681,6 +681,14 @@
       "onboard_time": 1749252498,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370048,
+      "num": 370048,
+      "word": "长安的荔枝",
+      "onboard_time": 1749296303,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 365311,
@@ -739,20 +747,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 339699,
-      "num": 339699,
-      "word": "长安的荔枝",
-      "onboard_time": 1749296303,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 335907,
       "num": 335907,
       "word": "高考固定npc",
       "onboard_time": 1749257601,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 334714,
+      "num": 508686,
+      "word": "WBG对战IG",
+      "onboard_time": 1749288386,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 327952,
@@ -825,6 +833,14 @@
       "onboard_time": 1749250996,
       "rank": 8,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 311173,
+      "num": 311173,
+      "word": "浪姐直播",
+      "onboard_time": 1749294443,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 310183,
@@ -1187,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213204,
-      "num": 238624,
-      "word": "浪姐直播",
-      "onboard_time": 1749294443,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212185,
       "num": 212185,
       "word": "老师开来985车牌车被学生摸包浆了",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1749291383,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208275,
+      "num": 208275,
+      "word": "四代棉花娃娃",
+      "onboard_time": 1749300924,
+      "rank": 27,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 208241,
@@ -1387,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196138,
-      "num": 508686,
-      "word": "WBG对战IG",
-      "onboard_time": 1749288386,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 195916,
       "num": 195916,
       "word": "胡兵送高考生Labubu",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1749268109,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192572,
+      "num": 473474,
+      "word": "刘宇助阵吴宣仪",
+      "onboard_time": 1749300202,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 189947,
@@ -1555,6 +1571,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 184917,
+      "num": 184917,
+      "word": "广州高考生喊话樊振东出征三大赛",
+      "onboard_time": 1749300983,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184873,
       "num": 184873,
       "word": "王老吉 LadyGaga",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1749294083,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179415,
+      "num": 179415,
+      "word": "谢娜回应丁程鑫乘风创始人你也敢惹",
+      "onboard_time": 1749300322,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 177419,
@@ -1755,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168104,
+      "num": 168104,
+      "word": "浪姐投票",
+      "onboard_time": 1749301343,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167773,
       "num": 167773,
       "word": "乌克兰称击落俄罗斯苏35战斗机",
@@ -1844,7 +1884,7 @@
     },
     {
       "raw_hot": 163272,
-      "num": 145405,
+      "num": 146406,
       "word": "沙特王子也为周杰伦着迷",
       "onboard_time": 1749299961,
       "rank": 41,
@@ -1995,14 +2035,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 152970,
-      "num": 152970,
-      "word": "谢娜回应丁程鑫乘风创始人你也敢惹",
-      "onboard_time": 1749300322,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152714,
       "num": 152714,
       "word": "天津高考数学",
@@ -2017,6 +2049,38 @@
       "onboard_time": 1749277881,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151632,
+      "num": 151632,
+      "word": "陈德容抢词",
+      "onboard_time": 1749300683,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151546,
+      "num": 151546,
+      "word": "孙燕姿青岛演唱会抢票",
+      "onboard_time": 1749300383,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 151538,
+      "num": 151538,
+      "word": "尔冬升一眼就定了哈妮克孜演薛芳菲",
+      "onboard_time": 1749301102,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149663,
+      "num": 149663,
+      "word": "赵雅芝来浪姐总决赛了",
+      "onboard_time": 1749296723,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 148302,
@@ -2235,14 +2299,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 135182,
-      "num": 135182,
-      "word": "赵雅芝来浪姐总决赛了",
-      "onboard_time": 1749296723,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134520,
       "num": 213464,
       "word": "原来西瓜是一种抗炎水果",
@@ -2257,6 +2313,14 @@
       "onboard_time": 1749300022,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133229,
+      "num": 133229,
+      "word": "卡方算出来不敢写",
+      "onboard_time": 1749300683,
+      "rank": 46,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 132696,
@@ -2283,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132007,
+      "num": 132007,
+      "word": "周鸿祎称准备干掉360整个市场部",
+      "onboard_time": 1749301343,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 131937,
       "num": 131937,
       "word": "考生考前丢身份证淡定补办",
@@ -2297,6 +2369,14 @@
       "onboard_time": 1749253339,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130115,
+      "num": 130115,
+      "word": "银行称存50000得LABUBU盲盒",
+      "onboard_time": 1749298042,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129386,
@@ -2371,14 +2451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126480,
-      "num": 126480,
-      "word": "孙燕姿青岛演唱会抢票",
-      "onboard_time": 1749300383,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 126393,
       "num": 126393,
       "word": "橙光崩了",
@@ -2388,7 +2460,7 @@
     },
     {
       "raw_hot": 126229,
-      "num": 148552,
+      "num": 151581,
       "word": "斗破苍穹",
       "onboard_time": 1749295341,
       "rank": 41,
@@ -2859,12 +2931,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81041,
-      "num": 473474,
-      "word": "刘宇助阵吴宣仪",
-      "onboard_time": 1749300202,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 81335,
+      "num": 613203,
+      "word": "父亲背女儿进入考场",
+      "onboard_time": 1749300383,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78206,
@@ -3016,14 +3088,6 @@
       "word": "南昌考场现显眼包大喊快采访我",
       "onboard_time": 1749287906,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62645,
-      "num": 144020,
-      "word": "父亲背女儿进入考场",
-      "onboard_time": 1749300383,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -3323,6 +3387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 33798,
+      "num": 488780,
+      "word": "一中学家委会募捐5.7万激励学生",
+      "onboard_time": 1749299961,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33700,
       "num": 376673,
       "word": "瓷娃娃考生与同学合唱海阔天空",
@@ -3544,14 +3616,6 @@
       "word": "坐月子期间为何不能吹空调",
       "onboard_time": 1749285082,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15308,
-      "num": 487861,
-      "word": "一中学家委会募捐5.7万激励学生",
-      "onboard_time": 1749299961,
-      "rank": 14,
       "category": "民生新闻"
     },
     {

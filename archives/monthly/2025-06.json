@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749300413057,
+  "endTime": 1749301360811,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -275,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2068863,
+      "num": 2068863,
+      "word": "浪姐直播 假唱",
+      "onboard_time": 1749299722,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2034551,
       "num": 2034551,
       "word": "关晓彤高考数学131分",
@@ -500,11 +508,19 @@
     },
     {
       "raw_hot": 1526061,
-      "num": 497100,
+      "num": 609741,
       "word": "陈楚生押中高考作文",
       "onboard_time": 1749291682,
       "rank": 13,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 1510315,
+      "num": 1510315,
+      "word": "浪姐成团夜",
+      "onboard_time": 1749294802,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 1509891,
@@ -801,14 +817,6 @@
       "onboard_time": 1748765241,
       "rank": 6,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 1227168,
-      "num": 1227168,
-      "word": "浪姐成团夜",
-      "onboard_time": 1749294802,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 1226395,
@@ -1451,14 +1459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 850267,
-      "num": 850267,
-      "word": "浪姐直播 假唱",
-      "onboard_time": 1749299722,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 850000,
       "num": 850000,
       "word": "王楚钦你做到了",
@@ -1512,6 +1512,14 @@
       "word": "妈妈说陈梦没精力谈恋爱",
       "onboard_time": 1748853919,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 805123,
+      "num": 805123,
+      "word": "卡琳娜的婆婆来了",
+      "onboard_time": 1749299001,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -1963,6 +1971,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 694628,
+      "num": 694628,
+      "word": "周诗雨宣布与丝芭解约",
+      "onboard_time": 1749299302,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 693825,
       "num": 473137,
       "word": "数学我恨你",
@@ -2097,14 +2113,6 @@
       "onboard_time": 1749024020,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 668032,
-      "num": 668032,
-      "word": "周诗雨宣布与丝芭解约",
-      "onboard_time": 1749299302,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 665858,
@@ -2555,20 +2563,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 595827,
-      "num": 496915,
-      "word": "卡琳娜的婆婆来了",
-      "onboard_time": 1749299001,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 593947,
       "num": 593947,
       "word": "罗森将用2023年大米制作饭团售卖",
       "onboard_time": 1749031820,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 591642,
+      "num": 591642,
+      "word": "李艺彤亲友团 被跳过",
+      "onboard_time": 1749298823,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 591258,
@@ -2867,14 +2875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 535961,
-      "num": 496013,
-      "word": "李艺彤亲友团 被跳过",
-      "onboard_time": 1749298823,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 531499,
       "num": 531499,
       "word": "女足迪丽热巴杀青",
@@ -2977,6 +2977,14 @@
       "onboard_time": 1749214104,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 519739,
+      "num": 519739,
+      "word": "军人跳水连救5条命后陷入昏迷",
+      "onboard_time": 1749298042,
+      "rank": 22,
+      "category": "正能量"
     },
     {
       "raw_hot": 518835,
@@ -4211,14 +4219,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 388095,
-      "num": 388095,
-      "word": "军人跳水连救5条命后陷入昏迷",
-      "onboard_time": 1749298042,
-      "rank": 22,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 388079,
       "num": 466295,
       "word": "谁懂卫兰歌手唱大哥",
@@ -4489,6 +4489,14 @@
       "onboard_time": 1749040700,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370048,
+      "num": 370048,
+      "word": "长安的荔枝",
+      "onboard_time": 1749048383,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 367494,
@@ -4939,14 +4947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 339699,
-      "num": 339699,
-      "word": "长安的荔枝",
-      "onboard_time": 1749048383,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 339073,
       "num": 339073,
       "word": "NBA",
@@ -5025,6 +5025,14 @@
       "onboard_time": 1749215668,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334714,
+      "num": 508686,
+      "word": "WBG对战IG",
+      "onboard_time": 1749288386,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 333862,
@@ -5408,6 +5416,14 @@
       "word": "黄子韬这一巴掌",
       "onboard_time": 1749179120,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 311173,
+      "num": 311173,
+      "word": "浪姐直播",
+      "onboard_time": 1749294443,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -7931,14 +7947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213204,
-      "num": 238624,
-      "word": "浪姐直播",
-      "onboard_time": 1749294443,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212855,
       "num": 278320,
       "word": "侯佩岑发文告别浪姐",
@@ -8257,6 +8265,14 @@
       "onboard_time": 1749093739,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208275,
+      "num": 208275,
+      "word": "四代棉花娃娃",
+      "onboard_time": 1749300924,
+      "rank": 27,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 208259,
@@ -9091,14 +9107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196138,
-      "num": 508686,
-      "word": "WBG对战IG",
-      "onboard_time": 1749288386,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 196068,
       "num": 196068,
       "word": "何秋亊将追究妆造手麦方责任",
@@ -9337,6 +9345,14 @@
       "onboard_time": 1748787022,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192572,
+      "num": 473474,
+      "word": "刘宇助阵吴宣仪",
+      "onboard_time": 1749300202,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 192388,
@@ -9987,6 +10003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184917,
+      "num": 184917,
+      "word": "广州高考生喊话樊振东出征三大赛",
+      "onboard_time": 1749300983,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184873,
       "num": 184873,
       "word": "王老吉 LadyGaga",
@@ -10385,6 +10409,14 @@
       "onboard_time": 1748932341,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179415,
+      "num": 179415,
+      "word": "谢娜回应丁程鑫乘风创始人你也敢惹",
+      "onboard_time": 1749300322,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 179290,
@@ -11179,6 +11211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168104,
+      "num": 168104,
+      "word": "浪姐投票",
+      "onboard_time": 1749301343,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167852,
       "num": 432883,
       "word": "余宇涵首次红毯",
@@ -11596,7 +11636,7 @@
     },
     {
       "raw_hot": 163272,
-      "num": 145405,
+      "num": 146406,
       "word": "沙特王子也为周杰伦着迷",
       "onboard_time": 1749299961,
       "rank": 41,
@@ -12491,14 +12531,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 152970,
-      "num": 152970,
-      "word": "谢娜回应丁程鑫乘风创始人你也敢惹",
-      "onboard_time": 1749300322,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152894,
       "num": 152894,
       "word": "中国女排1比3波兰女排",
@@ -12627,6 +12659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 151632,
+      "num": 151632,
+      "word": "陈德容抢词",
+      "onboard_time": 1749300683,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151565,
       "num": 151565,
       "word": "江苏一女子偶遇小狗全身挂满鱼钩",
@@ -12641,6 +12681,22 @@
       "onboard_time": 1749093619,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151546,
+      "num": 151546,
+      "word": "孙燕姿青岛演唱会抢票",
+      "onboard_time": 1749300383,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 151538,
+      "num": 151538,
+      "word": "尔冬升一眼就定了哈妮克孜演薛芳菲",
+      "onboard_time": 1749301102,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 151323,
@@ -12777,6 +12833,14 @@
       "onboard_time": 1748778500,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149663,
+      "num": 149663,
+      "word": "赵雅芝来浪姐总决赛了",
+      "onboard_time": 1749296723,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 149610,
@@ -14379,14 +14443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135182,
-      "num": 135182,
-      "word": "赵雅芝来浪姐总决赛了",
-      "onboard_time": 1749296723,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135103,
       "num": 135103,
       "word": "黄子弘凡探班直播",
@@ -14579,6 +14635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133229,
+      "num": 133229,
+      "word": "卡方算出来不敢写",
+      "onboard_time": 1749300683,
+      "rank": 46,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 133188,
       "num": 133188,
       "word": "苏超梗密到不知道先笑哪个",
@@ -14729,6 +14793,14 @@
       "onboard_time": 1749266484,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132007,
+      "num": 132007,
+      "word": "周鸿祎称准备干掉360整个市场部",
+      "onboard_time": 1749301343,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 132000,
@@ -14977,6 +15049,14 @@
       "onboard_time": 1748944581,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130115,
+      "num": 130115,
+      "word": "银行称存50000得LABUBU盲盒",
+      "onboard_time": 1749298042,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130076,
@@ -15299,14 +15379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126480,
-      "num": 126480,
-      "word": "孙燕姿青岛演唱会抢票",
-      "onboard_time": 1749300383,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 126446,
       "num": 126446,
       "word": "北京WBG对战成都GG",
@@ -15324,7 +15396,7 @@
     },
     {
       "raw_hot": 126229,
-      "num": 148552,
+      "num": 151581,
       "word": "斗破苍穹",
       "onboard_time": 1749295341,
       "rank": 41,
@@ -19475,12 +19547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 81041,
-      "num": 473474,
-      "word": "刘宇助阵吴宣仪",
-      "onboard_time": 1749300202,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 81335,
+      "num": 613203,
+      "word": "父亲背女儿进入考场",
+      "onboard_time": 1749300383,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80738,
@@ -20657,14 +20729,6 @@
       "onboard_time": 1748702001,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 62645,
-      "num": 144020,
-      "word": "父亲背女儿进入考场",
-      "onboard_time": 1749300383,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62568,
@@ -22875,6 +22939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33798,
+      "num": 488780,
+      "word": "一中学家委会募捐5.7万激励学生",
+      "onboard_time": 1749299961,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33700,
       "num": 376673,
       "word": "瓷娃娃考生与同学合唱海阔天空",
@@ -24737,14 +24809,6 @@
       "onboard_time": 1748773880,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 15308,
-      "num": 487861,
-      "word": "一中学家委会募捐5.7万激励学生",
-      "onboard_time": 1749299961,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15288,
