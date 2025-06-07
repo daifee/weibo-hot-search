@@ -1,10 +1,10 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749313801992,
+  "endTime": 1749314830757,
   "band_list": [
     {
-      "raw_hot": 8736633,
-      "num": 8736633,
+      "raw_hot": 8888905,
+      "num": 8888905,
       "word": "浪姐成团名单",
       "onboard_time": 1749313102,
       "rank": 0,
@@ -27,20 +27,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1271990,
+      "num": 1271990,
+      "word": "小婉管乐",
+      "onboard_time": 1749309983,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1000502,
+      "num": 410768,
+      "word": "李艺彤没成团",
+      "onboard_time": 1749314482,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 878015,
       "num": 878015,
       "word": "高考数学",
       "onboard_time": 1749283282,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 870548,
-      "num": 525918,
-      "word": "小婉管乐",
-      "onboard_time": 1749309983,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 724901,
@@ -115,12 +123,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396154,
+      "num": 360418,
+      "word": "王珞丹成团",
+      "onboard_time": 1749314482,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 388870,
+      "num": 388870,
+      "word": "高芙首夺法网冠军",
+      "onboard_time": 1749313823,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311328,
       "num": 207208,
       "word": "吴宣仪甜妹回归",
       "onboard_time": 1749309024,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295204,
+      "num": 388423,
+      "word": "中方要求日方尽快抓捕嫌犯",
+      "onboard_time": 1749312084,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 288576,
@@ -153,6 +185,14 @@
       "onboard_time": 1749292282,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 247452,
+      "num": 187293,
+      "word": "曹颖邓萃雯姐姐值得",
+      "onboard_time": 1749313702,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 227020,
@@ -203,12 +243,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202289,
-      "num": 202289,
-      "word": "中方要求日方尽快抓捕嫌犯",
-      "onboard_time": 1749312084,
-      "rank": 25,
-      "category": "国内时政"
+      "raw_hot": 201625,
+      "num": 165780,
+      "word": "浪姐到底谁在投票",
+      "onboard_time": 1749314302,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198639,
+      "num": 171383,
+      "word": "天命小姜",
+      "onboard_time": 1749313102,
+      "rank": 34,
+      "category": "剧集,游戏"
     },
     {
       "raw_hot": 195077,
@@ -235,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187293,
-      "num": 187293,
-      "word": "曹颖邓萃雯姐姐值得",
-      "onboard_time": 1749313702,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180105,
       "num": 180105,
       "word": "GAI和CBLOCK四小只拥抱",
@@ -265,14 +305,6 @@
       "onboard_time": 1749288145,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171383,
-      "num": 171383,
-      "word": "天命小姜",
-      "onboard_time": 1749313102,
-      "rank": 34,
-      "category": "剧集,游戏"
     },
     {
       "raw_hot": 165620,
@@ -387,10 +419,42 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94116,
+      "raw_hot": 104101,
       "num": 160440,
       "word": "高芙太能防了",
       "onboard_time": 1749313043,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101901,
+      "num": 101901,
+      "word": "危险派对",
+      "onboard_time": 1749314302,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98765,
+      "num": 98765,
+      "word": "陈昊宇王星越跨年后二搭",
+      "onboard_time": 1749314662,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96219,
+      "num": 96219,
+      "word": "法网2025",
+      "onboard_time": 1749314721,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45365,
+      "num": 117678,
+      "word": "王楚钦回应压力",
+      "onboard_time": 1749314243,
       "rank": 39,
       "category": "体育"
     },
@@ -406,6 +470,9 @@
   "hotgov_list": [
     {
       "word": "#跟随总书记探寻中华文明#"
+    },
+    {
+      "word": "#有责任有担当青春才会闪光#"
     }
   ]
 }

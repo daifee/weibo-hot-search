@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749313801992,
+  "endTime": 1749314830757,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -923,20 +923,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8888905,
+      "num": 8888905,
+      "word": "浪姐成团名单",
+      "onboard_time": 1749313102,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8884094,
       "num": 8884094,
       "word": "美国被加关税后特朗普呼吁冷静",
       "onboard_time": 1744214184,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 8736633,
-      "num": 8736633,
-      "word": "浪姐成团名单",
-      "onboard_time": 1749313102,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 8711179,

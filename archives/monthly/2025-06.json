@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749313801992,
+  "endTime": 1749314830757,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -43,8 +43,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 8736633,
-      "num": 8736633,
+      "raw_hot": 8888905,
+      "num": 8888905,
       "word": "浪姐成团名单",
       "onboard_time": 1749313102,
       "rank": 0,
@@ -779,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1271990,
+      "num": 1271990,
+      "word": "小婉管乐",
+      "onboard_time": 1749309983,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1265659,
       "num": 842793,
       "word": "首个满级QQ即将诞生",
@@ -1243,6 +1251,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1000502,
+      "num": 410768,
+      "word": "李艺彤没成团",
+      "onboard_time": 1749314482,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 996751,
       "num": 996751,
       "word": "WE淘汰JDG",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1749050721,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 870548,
-      "num": 525918,
-      "word": "小婉管乐",
-      "onboard_time": 1749309983,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 869992,
@@ -4315,6 +4323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396154,
+      "num": 360418,
+      "word": "王珞丹成团",
+      "onboard_time": 1749314482,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395870,
       "num": 395870,
       "word": "WE对战JDG",
@@ -4441,6 +4457,14 @@
       "onboard_time": 1749146475,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 388870,
+      "num": 388870,
+      "word": "高芙首夺法网冠军",
+      "onboard_time": 1749313823,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 388079,
@@ -5939,6 +5963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295204,
+      "num": 388423,
+      "word": "中方要求日方尽快抓捕嫌犯",
+      "onboard_time": 1749312084,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 295127,
       "num": 295127,
       "word": "高考语文答案",
@@ -7049,6 +7081,14 @@
       "onboard_time": 1748786541,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247452,
+      "num": 187293,
+      "word": "曹颖邓萃雯姐姐值得",
+      "onboard_time": 1749313702,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 247308,
@@ -9147,14 +9187,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 202289,
-      "num": 202289,
-      "word": "中方要求日方尽快抓捕嫌犯",
-      "onboard_time": 1749312084,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 202278,
       "num": 202278,
       "word": "肖战东拼西凑的新鲜",
@@ -9225,6 +9257,14 @@
       "onboard_time": 1749211161,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201625,
+      "num": 165780,
+      "word": "浪姐到底谁在投票",
+      "onboard_time": 1749314302,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 201371,
@@ -9417,6 +9457,14 @@
       "onboard_time": 1748706320,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198639,
+      "num": 171383,
+      "word": "天命小姜",
+      "onboard_time": 1749313102,
+      "rank": 34,
+      "category": "剧集,游戏"
     },
     {
       "raw_hot": 198632,
@@ -10385,14 +10433,6 @@
       "onboard_time": 1749121039,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 187293,
-      "num": 187293,
-      "word": "曹颖邓萃雯姐姐值得",
-      "onboard_time": 1749313702,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 187162,
@@ -11521,14 +11561,6 @@
       "onboard_time": 1749113120,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171383,
-      "num": 171383,
-      "word": "天命小姜",
-      "onboard_time": 1749313102,
-      "rank": 34,
-      "category": "剧集,游戏"
     },
     {
       "raw_hot": 171229,
@@ -18307,6 +18339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104101,
+      "num": 160440,
+      "word": "高芙太能防了",
+      "onboard_time": 1749313043,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104068,
       "num": 104068,
       "word": "小猫骨折后找到了走路的新方法",
@@ -18545,6 +18585,14 @@
       "onboard_time": 1748776701,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101901,
+      "num": 101901,
+      "word": "危险派对",
+      "onboard_time": 1749314302,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 101863,
@@ -18833,6 +18881,14 @@
       "onboard_time": 1748857519,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98765,
+      "num": 98765,
+      "word": "陈昊宇王星越跨年后二搭",
+      "onboard_time": 1749314662,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 98743,
@@ -19305,14 +19361,6 @@
       "onboard_time": 1748851222,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 94116,
-      "num": 160440,
-      "word": "高芙太能防了",
-      "onboard_time": 1749313043,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 93916,
@@ -22705,6 +22753,14 @@
       "onboard_time": 1748766682,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 45365,
+      "num": 117678,
+      "word": "王楚钦回应压力",
+      "onboard_time": 1749314243,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 45209,
