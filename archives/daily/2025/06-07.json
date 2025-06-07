@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749268749576,
+  "endTime": 1749270667651,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -16,6 +16,30 @@
       "word": "高考语文",
       "onboard_time": 1749261200,
       "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 5042946,
+      "num": 1728651,
+      "word": "全国一卷作文 看不懂",
+      "onboard_time": 1749267869,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 3293201,
+      "num": 3293201,
+      "word": "全国一卷 难",
+      "onboard_time": 1749268289,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2999007,
+      "num": 2999007,
+      "word": "语文默写",
+      "onboard_time": 1749268587,
+      "rank": 20,
       "category": "教育"
     },
     {
@@ -43,20 +67,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1728651,
-      "num": 1728651,
-      "word": "全国一卷作文 看不懂",
-      "onboard_time": 1749267869,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1488888,
       "num": 1488888,
       "word": "第一批走错考场的学生出现了",
       "onboard_time": 1749260002,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1392941,
+      "num": 1392941,
+      "word": "上海卷 专转传",
+      "onboard_time": 1749268768,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1302071,
+      "num": 470394,
+      "word": "高考作文 抽象",
+      "onboard_time": 1749269427,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 1189731,
@@ -75,19 +107,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1028260,
+      "num": 1028260,
+      "word": "全国二卷 将梦赠予他人",
+      "onboard_time": 1749268468,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1020904,
       "num": 1020904,
       "word": "今年语文难不难",
       "onboard_time": 1749267087,
       "rank": 47,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 942638,
-      "num": 942638,
-      "word": "全国一卷 难",
-      "onboard_time": 1749268289,
-      "rank": 6,
       "category": "教育"
     },
     {
@@ -177,6 +209,14 @@
       "onboard_time": 1749265764,
       "rank": 13,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 529897,
+      "num": 529897,
+      "word": "2025高考作文题汇总",
+      "onboard_time": 1749269186,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 506521,
@@ -275,8 +315,8 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 382379,
-      "num": 382379,
+      "raw_hot": 385138,
+      "num": 458393,
       "word": "五哈",
       "onboard_time": 1749267750,
       "rank": 18,
@@ -323,14 +363,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 329507,
-      "num": 329507,
-      "word": "语文默写",
-      "onboard_time": 1749268587,
-      "rank": 20,
-      "category": "教育"
-    },
-    {
       "raw_hot": 322040,
       "num": 322040,
       "word": "王者荣耀给单依纯打钱",
@@ -369,6 +401,14 @@
       "onboard_time": 1749183503,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 297634,
+      "num": 435388,
+      "word": "全国二卷高考作文写梦",
+      "onboard_time": 1749269126,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293432,
@@ -411,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267517,
+      "num": 267517,
+      "word": "临江仙",
+      "onboard_time": 1749266064,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260451,
       "num": 260451,
       "word": "俄大规模轰炸乌克兰军工企业",
@@ -425,6 +473,14 @@
       "onboard_time": 1749255321,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 255793,
+      "num": 255793,
+      "word": "肖战姜妍蒋奇明 飞刀",
+      "onboard_time": 1749270086,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 250880,
@@ -475,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220530,
-      "num": 220530,
-      "word": "全国二卷 将梦赠予他人",
-      "onboard_time": 1749268468,
-      "rank": 33,
-      "category": "教育"
+      "raw_hot": 223589,
+      "num": 223589,
+      "word": "易梦玲审美",
+      "onboard_time": 1749269666,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 219987,
@@ -497,6 +553,14 @@
       "onboard_time": 1749255138,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207763,
+      "num": 207763,
+      "word": "高考作文 难写",
+      "onboard_time": 1749269126,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 207151,
@@ -531,12 +595,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205951,
-      "num": 205951,
-      "word": "临江仙",
-      "onboard_time": 1749266064,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 203419,
+      "num": 420389,
+      "word": "北京高考作文题目第二次呼吸",
+      "onboard_time": 1749269546,
+      "rank": 21,
+      "category": "民生新闻,民生新闻"
+    },
+    {
+      "raw_hot": 202830,
+      "num": 202830,
+      "word": "高考语文答案",
+      "onboard_time": 1749270264,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 195916,
@@ -571,6 +643,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188718,
+      "num": 188718,
+      "word": "天津作文 简单",
+      "onboard_time": 1749270445,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 188339,
+      "num": 188339,
+      "word": "陈昊宇cha了万妮达有香气的晚上",
+      "onboard_time": 1749269846,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188298,
       "num": 188298,
       "word": "乘风2025",
@@ -593,6 +681,14 @@
       "onboard_time": 1749260002,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186284,
+      "num": 186284,
+      "word": "北京作文 第二次呼吸",
+      "onboard_time": 1749269785,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 184191,
@@ -635,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177461,
+      "num": 177461,
+      "word": "语文阅读",
+      "onboard_time": 1749270565,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 176019,
       "num": 176019,
       "word": "老人捡到手机索要1600元才肯归还",
@@ -660,7 +764,7 @@
     },
     {
       "raw_hot": 174653,
-      "num": 174653,
+      "num": 447753,
       "word": "亡夫赠情人514万被判返还",
       "onboard_time": 1749267448,
       "rank": 42,
@@ -692,7 +796,7 @@
     },
     {
       "raw_hot": 167312,
-      "num": 4142443,
+      "num": 4169702,
       "word": "祝1335万高考生大胜归来",
       "onboard_time": 1749266424,
       "rank": 2,
@@ -787,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142019,
+      "num": 481871,
+      "word": "特朗普说乌给了普京轰炸的理由",
+      "onboard_time": 1749269727,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141042,
       "num": 248944,
       "word": "这是张桂梅第15次送考",
@@ -849,6 +961,14 @@
       "onboard_time": 1749255560,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132261,
+      "num": 198455,
+      "word": "人早晚是会爱上labubu的",
+      "onboard_time": 1749270385,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 132193,
@@ -1139,6 +1259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92045,
+      "num": 167685,
+      "word": "Lululemon收跌20%",
+      "onboard_time": 1749267688,
+      "rank": 49,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 89609,
       "num": 89609,
       "word": "宋茜红毯踢裙摆这一下泰美辣",
@@ -1396,7 +1524,7 @@
     },
     {
       "raw_hot": 45847,
-      "num": 977188,
+      "num": 2048320,
       "word": "网警护航高考祝学子金榜题名",
       "onboard_time": 1749265284,
       "rank": 5,
@@ -1417,6 +1545,14 @@
       "onboard_time": 1749262822,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41438,
+      "num": 514517,
+      "word": "京东张艺兴合拍",
+      "onboard_time": 1749269126,
+      "rank": 11,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 41340,
@@ -1625,6 +1761,14 @@
       "onboard_time": 1749234435,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 11510,
+      "num": 207836,
+      "word": "江西2岁肝病男童母亲回应未就医质疑",
+      "onboard_time": 1749270624,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10055,

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749268749576,
+  "endTime": 1749270667651,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 5042946,
+      "num": 1728651,
+      "word": "全国一卷作文 看不懂",
+      "onboard_time": 1749267869,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 4878590,
       "num": 484670,
       "word": "难听",
@@ -113,6 +121,22 @@
       "onboard_time": 1749216386,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3293201,
+      "num": 3293201,
+      "word": "全国一卷 难",
+      "onboard_time": 1749268289,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2999007,
+      "num": 2999007,
+      "word": "语文默写",
+      "onboard_time": 1749268587,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 2968440,
@@ -339,14 +363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1728651,
-      "num": 1728651,
-      "word": "全国一卷作文 看不懂",
-      "onboard_time": 1749267869,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1726051,
       "num": 1726051,
       "word": "酱园弄第一部定档",
@@ -507,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1392941,
+      "num": 1392941,
+      "word": "上海卷 专转传",
+      "onboard_time": 1749268768,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1390192,
       "num": 1390192,
       "word": "花少7阵容",
@@ -625,6 +649,14 @@
       "onboard_time": 1748945841,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1302071,
+      "num": 470394,
+      "word": "高考作文 抽象",
+      "onboard_time": 1749269427,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 1293865,
@@ -939,6 +971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1028260,
+      "num": 1028260,
+      "word": "全国二卷 将梦赠予他人",
+      "onboard_time": 1749268468,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1027280,
       "num": 1027280,
       "word": "哈利伯顿绝杀",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1748757740,
       "rank": 3,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 942638,
-      "num": 942638,
-      "word": "全国一卷 难",
-      "onboard_time": 1749268289,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 936931,
@@ -2643,6 +2675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 529897,
+      "num": 529897,
+      "word": "2025高考作文题汇总",
+      "onboard_time": 1749269186,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 526741,
       "num": 465651,
       "word": "孟子义穿了周也姐姐设计的衣服",
@@ -3891,6 +3931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 385138,
+      "num": 458393,
+      "word": "五哈",
+      "onboard_time": 1749267750,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384779,
       "num": 432853,
       "word": "湖南一家6口吃毒蘑菇中毒1人病危",
@@ -3921,14 +3969,6 @@
       "onboard_time": 1749015741,
       "rank": 22,
       "category": "海外新闻,时尚"
-    },
-    {
-      "raw_hot": 382379,
-      "num": 382379,
-      "word": "五哈",
-      "onboard_time": 1749267750,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 382148,
@@ -4691,14 +4731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329507,
-      "num": 329507,
-      "word": "语文默写",
-      "onboard_time": 1749268587,
-      "rank": 20,
-      "category": "教育"
-    },
-    {
       "raw_hot": 327904,
       "num": 327904,
       "word": "当韩国人第一次感受到西瓜自由",
@@ -5169,6 +5201,14 @@
       "onboard_time": 1749172822,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297634,
+      "num": 435388,
+      "word": "全国二卷高考作文写梦",
+      "onboard_time": 1749269126,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296973,
@@ -6001,6 +6041,14 @@
       "onboard_time": 1748733918,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255793,
+      "num": 255793,
+      "word": "肖战姜妍蒋奇明 飞刀",
+      "onboard_time": 1749270086,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 255559,
@@ -6843,6 +6891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223589,
+      "num": 223589,
+      "word": "易梦玲审美",
+      "onboard_time": 1749269666,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 223103,
       "num": 176498,
       "word": "外交部回应美全面限制12国公民入境",
@@ -6953,14 +7009,6 @@
       "onboard_time": 1749125361,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220530,
-      "num": 220530,
-      "word": "全国二卷 将梦赠予他人",
-      "onboard_time": 1749268468,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 220390,
@@ -7563,6 +7611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207763,
+      "num": 207763,
+      "word": "高考作文 难写",
+      "onboard_time": 1749269126,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207275,
       "num": 207275,
       "word": "张凌赫给迪丽热巴吓一激灵",
@@ -7835,6 +7891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203419,
+      "num": 420389,
+      "word": "北京高考作文题目第二次呼吸",
+      "onboard_time": 1749269546,
+      "rank": 21,
+      "category": "民生新闻,民生新闻"
+    },
+    {
       "raw_hot": 203387,
       "num": 203387,
       "word": "藏海传片尾 感谢每一位观众",
@@ -7889,6 +7953,14 @@
       "onboard_time": 1748787201,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202830,
+      "num": 202830,
+      "word": "高考语文答案",
+      "onboard_time": 1749270264,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 202563,
@@ -8771,12 +8843,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188718,
+      "num": 188718,
+      "word": "天津作文 简单",
+      "onboard_time": 1749270445,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188509,
       "num": 188509,
       "word": "三亚身亡女子被咬后脚趾出现点状伤",
       "onboard_time": 1749043462,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188339,
+      "num": 188339,
+      "word": "陈昊宇cha了万妮达有香气的晚上",
+      "onboard_time": 1749269846,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 188298,
@@ -8953,6 +9041,14 @@
       "onboard_time": 1748788100,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186284,
+      "num": 186284,
+      "word": "北京作文 第二次呼吸",
+      "onboard_time": 1749269785,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 186251,
@@ -9515,6 +9611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177461,
+      "num": 177461,
+      "word": "语文阅读",
+      "onboard_time": 1749270565,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177314,
       "num": 177314,
       "word": "陷入我们的热恋15",
@@ -9676,7 +9780,7 @@
     },
     {
       "raw_hot": 174653,
-      "num": 174653,
+      "num": 447753,
       "word": "亡夫赠情人514万被判返还",
       "onboard_time": 1749267448,
       "rank": 42,
@@ -10164,7 +10268,7 @@
     },
     {
       "raw_hot": 167312,
-      "num": 4142443,
+      "num": 4169702,
       "word": "祝1335万高考生大胜归来",
       "onboard_time": 1749266424,
       "rank": 2,
@@ -12203,6 +12307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142019,
+      "num": 481871,
+      "word": "特朗普说乌给了普京轰炸的理由",
+      "onboard_time": 1749269727,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141962,
       "num": 218599,
       "word": "何秋亊方不愿意公开第三方公司信息",
@@ -13297,6 +13409,14 @@
       "onboard_time": 1748924602,
       "rank": 41,
       "category": "军事"
+    },
+    {
+      "raw_hot": 132261,
+      "num": 198455,
+      "word": "人早晚是会爱上labubu的",
+      "onboard_time": 1749270385,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 132249,
@@ -17115,6 +17235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92045,
+      "num": 167685,
+      "word": "Lululemon收跌20%",
+      "onboard_time": 1749267688,
+      "rank": 49,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 92028,
       "num": 142515,
       "word": "怎样的人不适合深交",
@@ -20060,7 +20188,7 @@
     },
     {
       "raw_hot": 45847,
-      "num": 977188,
+      "num": 2048320,
       "word": "网警护航高考祝学子金榜题名",
       "onboard_time": 1749265284,
       "rank": 5,
@@ -20433,6 +20561,14 @@
       "onboard_time": 1748934861,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41438,
+      "num": 514517,
+      "word": "京东张艺兴合拍",
+      "onboard_time": 1749269126,
+      "rank": 11,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 41407,
@@ -23121,6 +23257,14 @@
       "onboard_time": 1749187882,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 11510,
+      "num": 207836,
+      "word": "江西2岁肝病男童母亲回应未就医质疑",
+      "onboard_time": 1749270624,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11497,
