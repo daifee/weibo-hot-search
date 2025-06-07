@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749316902627,
+  "endTime": 1749317971118,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2405502,
-      "num": 464187,
+      "num": 469748,
       "word": "李艺彤没成团",
       "onboard_time": 1749314482,
       "rank": 7,
@@ -195,7 +195,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266369,
+      "raw_hot": 270279,
       "num": 237704,
       "word": "浪姐到底谁在投票",
       "onboard_time": 1749314302,
@@ -224,6 +224,22 @@
       "word": "曹颖邓萃雯姐姐值得",
       "onboard_time": 1749313702,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236734,
+      "num": 81948,
+      "word": "李晟成团",
+      "onboard_time": 1749317717,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229752,
+      "num": 81515,
+      "word": "祝绪丹成团",
+      "onboard_time": 1749316757,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -281,14 +297,6 @@
       "onboard_time": 1749313102,
       "rank": 34,
       "category": "剧集,游戏"
-    },
-    {
-      "raw_hot": 197444,
-      "num": 59497,
-      "word": "祝绪丹成团",
-      "onboard_time": 1749316757,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 195077,
@@ -515,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76270,
+      "num": 68190,
+      "word": "侯佩岑 划水",
+      "onboard_time": 1749302065,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62915,
       "num": 62915,
       "word": "郑钦文女王杯签表",
@@ -531,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58479,
+      "num": 58479,
+      "word": "姜云升 也难怪圈外人有刻板印象",
+      "onboard_time": 1749303863,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45365,
       "num": 117678,
       "word": "王楚钦回应压力",
       "onboard_time": 1749314243,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35908,
+      "num": 214812,
+      "word": "朱雀玄武敕令高考发声",
+      "onboard_time": 1749317177,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 33423,
@@ -547,11 +579,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13936,
+      "raw_hot": 15043,
       "num": 72587,
       "word": "cubal",
       "onboard_time": 1749316698,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12133,
+      "num": 58479,
+      "word": "邓亚萍回复林孝埈",
+      "onboard_time": 1749308423,
+      "rank": 44,
       "category": "体育"
     }
   ],

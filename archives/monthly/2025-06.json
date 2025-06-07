@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749316902627,
+  "endTime": 1749317971118,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 2405502,
-      "num": 464187,
+      "num": 469748,
       "word": "李艺彤没成团",
       "onboard_time": 1749314482,
       "rank": 7,
@@ -6523,6 +6523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270279,
+      "num": 237704,
+      "word": "浪姐到底谁在投票",
+      "onboard_time": 1749314302,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270141,
       "num": 270141,
       "word": "临江仙",
@@ -6633,14 +6641,6 @@
       "onboard_time": 1749018802,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 266369,
-      "num": 237704,
-      "word": "浪姐到底谁在投票",
-      "onboard_time": 1749314302,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 264902,
@@ -7419,6 +7419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236734,
+      "num": 81948,
+      "word": "李晟成团",
+      "onboard_time": 1749317717,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236723,
       "num": 236723,
       "word": "男子被蛇咬想抓蛇又被咬",
@@ -7673,6 +7681,14 @@
       "onboard_time": 1749200362,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229752,
+      "num": 81515,
+      "word": "祝绪丹成团",
+      "onboard_time": 1749316757,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 229402,
@@ -9569,14 +9585,6 @@
       "onboard_time": 1749270806,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 197444,
-      "num": 59497,
-      "word": "祝绪丹成团",
-      "onboard_time": 1749316757,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 197126,
@@ -23715,6 +23723,14 @@
       "category": "幽默,民生新闻"
     },
     {
+      "raw_hot": 35908,
+      "num": 214812,
+      "word": "朱雀玄武敕令高考发声",
+      "onboard_time": 1749317177,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 35876,
       "num": 35876,
       "word": "华科学长李昀锐送高考祝福",
@@ -25819,6 +25835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15043,
+      "num": 72587,
+      "word": "cubal",
+      "onboard_time": 1749316698,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15037,
       "num": 209729,
       "word": "龙舟破浪而出气势如虹",
@@ -25921,14 +25945,6 @@
       "onboard_time": 1749153494,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13936,
-      "num": 72587,
-      "word": "cubal",
-      "onboard_time": 1749316698,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 13811,
