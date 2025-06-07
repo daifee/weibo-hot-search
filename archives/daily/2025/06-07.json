@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749301360811,
+  "endTime": 1749303123545,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -35,6 +35,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3835681,
+      "num": 3835681,
+      "word": "李晟团票数也太低了",
+      "onboard_time": 1749301944,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3615870,
       "num": 3615870,
       "word": "新一卷数学大题 难",
@@ -59,6 +67,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3084675,
+      "num": 2068863,
+      "word": "浪姐直播 假唱",
+      "onboard_time": 1749299722,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2999007,
       "num": 2999007,
       "word": "语文默写",
@@ -81,14 +97,6 @@
       "onboard_time": 1749286342,
       "rank": 3,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 2068863,
-      "num": 2068863,
-      "word": "浪姐直播 假唱",
-      "onboard_time": 1749299722,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 2010386,
@@ -187,6 +195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1191072,
+      "num": 404210,
+      "word": "李晟团被做局了",
+      "onboard_time": 1749301883,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1189731,
       "num": 1189731,
       "word": "家属回应韦东奕身体状况",
@@ -251,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 962652,
+      "num": 962652,
+      "word": "侯佩岑 划水",
+      "onboard_time": 1749302065,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 898375,
       "num": 705501,
       "word": "拜托高考第一个出考场的考生",
@@ -291,8 +315,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 805123,
-      "num": 805123,
+      "raw_hot": 820113,
+      "num": 820113,
       "word": "卡琳娜的婆婆来了",
       "onboard_time": 1749299001,
       "rank": 11,
@@ -393,6 +417,14 @@
       "onboard_time": 1749271404,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 590686,
+      "num": 399795,
+      "word": "浪姐投票",
+      "onboard_time": 1749301343,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 586319,
@@ -515,6 +547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 466047,
+      "num": 397080,
+      "word": "赵雅芝美得我不知天地为何物",
+      "onboard_time": 1749301583,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465642,
       "num": 241257,
       "word": "浙江女子牙疼切开脓肿发现20多种细菌",
@@ -545,6 +585,14 @@
       "onboard_time": 1749281661,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445608,
+      "num": 396524,
+      "word": "广州高考生喊话樊振东出征三大赛",
+      "onboard_time": 1749300983,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 445512,
@@ -625,6 +673,14 @@
       "onboard_time": 1749284002,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 393146,
+      "num": 393146,
+      "word": "四代棉花娃娃",
+      "onboard_time": 1749300924,
+      "rank": 27,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 391657,
@@ -760,6 +816,14 @@
       "word": "WBG对战IG",
       "onboard_time": 1749288386,
       "rank": 14,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 330019,
+      "num": 330019,
+      "word": "iG战胜WBG",
+      "onboard_time": 1749303022,
+      "rank": 24,
       "category": "电竞"
     },
     {
@@ -899,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287963,
+      "num": 287963,
+      "word": "庐州月",
+      "onboard_time": 1749302184,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286137,
       "num": 286137,
       "word": "女子坐月子吹空调发烧39度进急诊",
@@ -979,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 260464,
+      "num": 260464,
+      "word": "谢娜有这份心干什么都会成功的",
+      "onboard_time": 1749302545,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260451,
       "num": 260451,
       "word": "俄大规模轰炸乌克兰军工企业",
@@ -993,6 +1073,14 @@
       "onboard_time": 1749255321,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 257889,
+      "num": 257889,
+      "word": "尔冬升一眼就定了哈妮克孜演薛芳菲",
+      "onboard_time": 1749301102,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 254560,
@@ -1049,6 +1137,14 @@
       "onboard_time": 1749282382,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 239796,
+      "num": 239796,
+      "word": "肖战藏海传收官图",
+      "onboard_time": 1749301703,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 238463,
@@ -1179,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219000,
+      "num": 219000,
+      "word": "谭薇乘风红毯控场力",
+      "onboard_time": 1749301403,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217656,
       "num": 470428,
       "word": "高考第1天结束",
@@ -1192,6 +1296,14 @@
       "word": "店主在凉茶中添加布洛芬",
       "onboard_time": 1749279862,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215533,
+      "num": 215533,
+      "word": "04年男子拒服兵役被罚5.5万",
+      "onboard_time": 1749301583,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1225,14 +1337,6 @@
       "onboard_time": 1749291383,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208275,
-      "num": 208275,
-      "word": "四代棉花娃娃",
-      "onboard_time": 1749300924,
-      "rank": 27,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 208241,
@@ -1307,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205367,
+      "num": 205367,
+      "word": "折腰",
+      "onboard_time": 1749302365,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203419,
       "num": 420389,
       "word": "北京高考作文题目第二次呼吸",
@@ -1379,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197829,
+      "num": 197829,
+      "word": "AG对战RNGM",
+      "onboard_time": 1749302483,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197460,
       "num": 197460,
       "word": "天津作文 轮毂",
@@ -1416,6 +1536,14 @@
       "word": "Grace 我来歌手只有一个目的",
       "onboard_time": 1749273981,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195393,
+      "num": 195393,
+      "word": "浪姐票数",
+      "onboard_time": 1749302783,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1459,12 +1587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190179,
+      "num": 190179,
+      "word": "周鸿祎称准备干掉360整个市场部",
+      "onboard_time": 1749301343,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 189947,
       "num": 189947,
       "word": "鼓书艺人",
       "onboard_time": 1749270385,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 189500,
+      "num": 189500,
+      "word": "中国女排3比0法国",
+      "onboard_time": 1749303022,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 189182,
@@ -1569,14 +1713,6 @@
       "onboard_time": 1749278781,
       "rank": 42,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 184917,
-      "num": 184917,
-      "word": "广州高考生喊话樊振东出征三大赛",
-      "onboard_time": 1749300983,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 184873,
@@ -1715,6 +1851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174862,
+      "num": 174862,
+      "word": "LPL",
+      "onboard_time": 1749302963,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174431,
       "num": 258883,
       "word": "京东直播一元起拍labubu送铂金包",
@@ -1785,14 +1929,6 @@
       "onboard_time": 1749278241,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168104,
-      "num": 168104,
-      "word": "浪姐投票",
-      "onboard_time": 1749301343,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 167773,
@@ -2067,14 +2203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151538,
-      "num": 151538,
-      "word": "尔冬升一眼就定了哈妮克孜演薛芳菲",
-      "onboard_time": 1749301102,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149663,
       "num": 149663,
       "word": "赵雅芝来浪姐总决赛了",
@@ -2345,14 +2473,6 @@
       "onboard_time": 1749266484,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132007,
-      "num": 132007,
-      "word": "周鸿祎称准备干掉360整个市场部",
-      "onboard_time": 1749301343,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 131937,
@@ -3171,6 +3291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52814,
+      "num": 393257,
+      "word": "习惯性晚睡与性格特质有哪些关联",
+      "onboard_time": 1749301883,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52664,
       "num": 99079,
       "word": "日本北海道附近海域连发强震",
@@ -3217,6 +3345,14 @@
       "onboard_time": 1749216567,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49386,
+      "num": 321125,
+      "word": "老人被带到异地看房花掉16万看病钱",
+      "onboard_time": 1749302723,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49303,
@@ -3347,6 +3483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38750,
+      "num": 206368,
+      "word": "牛冠凯订婚了",
+      "onboard_time": 1749302963,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37744,
       "num": 429836,
       "word": "清明上河园回应被质疑虐待猴子",
@@ -3361,6 +3505,14 @@
       "onboard_time": 1749264562,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 35613,
+      "num": 298612,
+      "word": "建议考完不要对答案",
+      "onboard_time": 1749301583,
+      "rank": 29,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 35580,
@@ -3392,6 +3544,14 @@
       "word": "一中学家委会募捐5.7万激励学生",
       "onboard_time": 1749299961,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33762,
+      "num": 258114,
+      "word": "官方回应电台替民维权遭嬉笑回怼",
+      "onboard_time": 1749303022,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3489,6 +3649,14 @@
       "onboard_time": 1749291325,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 25736,
+      "num": 393178,
+      "word": "汉魏洛阳故城惊现古代招财猫陶灯",
+      "onboard_time": 1749302184,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25298,
@@ -3665,6 +3833,14 @@
       "onboard_time": 1749234435,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 10105,
+      "num": 1543097,
+      "word": "一个学科一句为高考生加油",
+      "onboard_time": 1749302902,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10055,

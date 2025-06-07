@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749301360811,
+  "endTime": 1749303123545,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3835681,
+      "num": 3835681,
+      "word": "李晟团票数也太低了",
+      "onboard_time": 1749301944,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3829018,
       "num": 3829018,
       "word": "韩国媒体称李在明当选韩国总统",
@@ -153,6 +161,14 @@
       "onboard_time": 1749268289,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3084675,
+      "num": 2068863,
+      "word": "浪姐直播 假唱",
+      "onboard_time": 1749299722,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 2999007,
@@ -273,14 +289,6 @@
       "onboard_time": 1748921181,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2068863,
-      "num": 2068863,
-      "word": "浪姐直播 假唱",
-      "onboard_time": 1749299722,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 2034551,
@@ -883,6 +891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1191072,
+      "num": 404210,
+      "word": "李晟团被做局了",
+      "onboard_time": 1749301883,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1189731,
       "num": 1189731,
       "word": "家属回应韦东奕身体状况",
@@ -1243,6 +1259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 962652,
+      "num": 962652,
+      "word": "侯佩岑 划水",
+      "onboard_time": 1749302065,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 959623,
       "num": 1115508,
       "word": "Labubu设计师曾失意30年",
@@ -1499,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 820113,
+      "num": 820113,
+      "word": "卡琳娜的婆婆来了",
+      "onboard_time": 1749299001,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 809117,
       "num": 809117,
       "word": "鹿晗怼脸比耶自拍",
@@ -1512,14 +1544,6 @@
       "word": "妈妈说陈梦没精力谈恋爱",
       "onboard_time": 1748853919,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 805123,
-      "num": 805123,
-      "word": "卡琳娜的婆婆来了",
-      "onboard_time": 1749299001,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -2595,6 +2619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 590686,
+      "num": 399795,
+      "word": "浪姐投票",
+      "onboard_time": 1749301343,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588595,
       "num": 588595,
       "word": "哪吒婚礼开场",
@@ -3499,6 +3531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466047,
+      "num": 397080,
+      "word": "赵雅芝美得我不知天地为何物",
+      "onboard_time": 1749301583,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465072,
       "num": 546236,
       "word": "游客被咬伤身亡相关医生已被停职",
@@ -3656,6 +3696,14 @@
       "word": "国足首发",
       "onboard_time": 1749125301,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 445608,
+      "num": 396524,
+      "word": "广州高考生喊话樊振东出征三大赛",
+      "onboard_time": 1749300983,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -4145,6 +4193,14 @@
       "onboard_time": 1748780361,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393146,
+      "num": 393146,
+      "word": "四代棉花娃娃",
+      "onboard_time": 1749300924,
+      "rank": 27,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 392928,
@@ -5115,6 +5171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 330019,
+      "num": 330019,
+      "word": "iG战胜WBG",
+      "onboard_time": 1749303022,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 329884,
       "num": 435259,
       "word": "藏海传超点",
@@ -5819,6 +5883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287963,
+      "num": 287963,
+      "word": "庐州月",
+      "onboard_time": 1749302184,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287648,
       "num": 245380,
       "word": "第三人是内阁首辅石一平",
@@ -6403,6 +6475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260464,
+      "num": 260464,
+      "word": "谢娜有这份心干什么都会成功的",
+      "onboard_time": 1749302545,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260451,
       "num": 260451,
       "word": "俄大规模轰炸乌克兰军工企业",
@@ -6489,6 +6569,14 @@
       "onboard_time": 1749169101,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257889,
+      "num": 257889,
+      "word": "尔冬升一眼就定了哈妮克孜演薛芳菲",
+      "onboard_time": 1749301102,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 257722,
@@ -6953,6 +7041,14 @@
       "onboard_time": 1748835199,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 239796,
+      "num": 239796,
+      "word": "肖战藏海传收官图",
+      "onboard_time": 1749301703,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 239116,
@@ -7715,6 +7811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219000,
+      "num": 219000,
+      "word": "谭薇乘风红毯控场力",
+      "onboard_time": 1749301403,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218804,
       "num": 168387,
       "word": "剑来",
@@ -7857,6 +7961,14 @@
       "onboard_time": 1749093861,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215533,
+      "num": 215533,
+      "word": "04年男子拒服兵役被罚5.5万",
+      "onboard_time": 1749301583,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215286,
@@ -8267,14 +8379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208275,
-      "num": 208275,
-      "word": "四代棉花娃娃",
-      "onboard_time": 1749300924,
-      "rank": 27,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 208259,
       "num": 208259,
       "word": "俄罗斯",
@@ -8497,6 +8601,14 @@
       "onboard_time": 1749137481,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205367,
+      "num": 205367,
+      "word": "折腰",
+      "onboard_time": 1749302365,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 205298,
@@ -8987,6 +9099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197829,
+      "num": 197829,
+      "word": "AG对战RNGM",
+      "onboard_time": 1749302483,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197655,
       "num": 197655,
       "word": "打工人有自己的视力表",
@@ -9177,6 +9297,14 @@
       "onboard_time": 1749192921,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195393,
+      "num": 195393,
+      "word": "浪姐票数",
+      "onboard_time": 1749302783,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 195392,
@@ -9531,6 +9659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190179,
+      "num": 190179,
+      "word": "周鸿祎称准备干掉360整个市场部",
+      "onboard_time": 1749301343,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 190073,
       "num": 190073,
       "word": "钟楚曦湿发泳池照",
@@ -9601,6 +9737,14 @@
       "onboard_time": 1748828360,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189500,
+      "num": 189500,
+      "word": "中国女排3比0法国",
+      "onboard_time": 1749303022,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 189453,
@@ -10001,14 +10145,6 @@
       "onboard_time": 1748956883,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184917,
-      "num": 184917,
-      "word": "广州高考生喊话樊振东出征三大赛",
-      "onboard_time": 1749300983,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 184873,
@@ -11209,14 +11345,6 @@
       "onboard_time": 1748918599,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168104,
-      "num": 168104,
-      "word": "浪姐投票",
-      "onboard_time": 1749301343,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 167852,
@@ -12689,14 +12817,6 @@
       "onboard_time": 1749300383,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 151538,
-      "num": 151538,
-      "word": "尔冬升一眼就定了哈妮克孜演薛芳菲",
-      "onboard_time": 1749301102,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 151323,
@@ -14793,14 +14913,6 @@
       "onboard_time": 1749266484,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132007,
-      "num": 132007,
-      "word": "周鸿祎称准备干掉360整个市场部",
-      "onboard_time": 1749301343,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 132000,
@@ -21363,6 +21475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52814,
+      "num": 393257,
+      "word": "习惯性晚睡与性格特质有哪些关联",
+      "onboard_time": 1749301883,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52700,
       "num": 169608,
       "word": "接住西瓜的那一刻整车都沸腾了",
@@ -21656,6 +21776,14 @@
       "word": "妈妈记录孩子最后一次穿高中校服",
       "onboard_time": 1749191361,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49386,
+      "num": 321125,
+      "word": "老人被带到异地看房花掉16万看病钱",
+      "onboard_time": 1749302723,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -22507,6 +22635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38750,
+      "num": 206368,
+      "word": "牛冠凯订婚了",
+      "onboard_time": 1749302963,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38668,
       "num": 461039,
       "word": "起底员工发烧请假遭HR辱骂涉事公司",
@@ -22803,6 +22939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35613,
+      "num": 298612,
+      "word": "建议考完不要对答案",
+      "onboard_time": 1749301583,
+      "rank": 29,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 35580,
       "num": 254813,
       "word": "有球迷欲退国足收官之战门票",
@@ -22944,6 +23088,14 @@
       "word": "一中学家委会募捐5.7万激励学生",
       "onboard_time": 1749299961,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33762,
+      "num": 258114,
+      "word": "官方回应电台替民维权遭嬉笑回怼",
+      "onboard_time": 1749303022,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -23817,6 +23969,14 @@
       "onboard_time": 1748873001,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25736,
+      "num": 393178,
+      "word": "汉魏洛阳故城惊现古代招财猫陶灯",
+      "onboard_time": 1749302184,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25717,
@@ -25208,6 +25368,14 @@
       "word": "想瘦的年轻人狂炫绿化带",
       "onboard_time": 1748756359,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10105,
+      "num": 1543097,
+      "word": "一个学科一句为高考生加油",
+      "onboard_time": 1749302902,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

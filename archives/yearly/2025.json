@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749301360811,
+  "endTime": 1749303123545,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1843,6 +1843,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 3835681,
+      "num": 3835681,
+      "word": "李晟团票数也太低了",
+      "onboard_time": 1749301944,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3831944,
       "num": 1666574,
       "word": "小英老公出轨",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1742523020,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3385913,
-      "num": 529261,
-      "word": "汪小菲现任妻子mandy发声",
-      "onboard_time": 1738670305,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
