@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749293106433,
+  "endTime": 1749295241973,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1399546,
+      "num": 467767,
+      "word": "陈楚生押中高考作文",
+      "onboard_time": 1749291682,
+      "rank": 13,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 1392941,
       "num": 1392941,
       "word": "上海卷 专转传",
@@ -187,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1054881,
-      "num": 467767,
-      "word": "陈楚生押中高考作文",
-      "onboard_time": 1749291682,
-      "rank": 13,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 1051856,
       "num": 306646,
       "word": "单依纯疑似报复李荣浩当年没转身",
@@ -224,6 +224,14 @@
       "word": "今年语文难不难",
       "onboard_time": 1749267087,
       "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 948820,
+      "num": 948820,
+      "word": "韦神怎么附试卷上了",
+      "onboard_time": 1749292282,
+      "rank": 13,
       "category": "教育"
     },
     {
@@ -313,14 +321,6 @@
       "onboard_time": 1749215129,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 608600,
-      "num": 311313,
-      "word": "韦神怎么附试卷上了",
-      "onboard_time": 1749292282,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 602860,
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405640,
+      "num": 405640,
+      "word": "导数题不给原函数",
+      "onboard_time": 1749292520,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 404532,
       "num": 404532,
       "word": "韩安冉想让女儿上综艺被拒",
@@ -649,6 +657,14 @@
       "onboard_time": 1749286702,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349032,
+      "num": 266925,
+      "word": "准备复读",
+      "onboard_time": 1749291203,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 335907,
@@ -859,14 +875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 266925,
-      "num": 266925,
-      "word": "准备复读",
-      "onboard_time": 1749291203,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 260451,
       "num": 260451,
       "word": "俄大规模轰炸乌克兰军工企业",
@@ -881,6 +889,30 @@
       "onboard_time": 1749255321,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 257604,
+      "num": 256494,
+      "word": "浪姐总决赛红毯",
+      "onboard_time": 1749294683,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 256849,
+      "num": 382733,
+      "word": "范玮琪演唱会门票跌至5.6折",
+      "onboard_time": 1749290903,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 254560,
+      "num": 254560,
+      "word": "内娱00花又上新了",
+      "onboard_time": 1749292882,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 250880,
@@ -1003,14 +1035,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 222415,
-      "num": 382733,
-      "word": "范玮琪演唱会门票跌至5.6折",
-      "onboard_time": 1749290903,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 221778,
       "num": 221778,
       "word": "2025高考第一批显眼包出现了",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1749262641,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217656,
+      "num": 267463,
+      "word": "高考第1天结束",
+      "onboard_time": 1749294562,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 217483,
@@ -1137,14 +1169,6 @@
       "onboard_time": 1749222744,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205336,
-      "num": 205336,
-      "word": "导数题不给原函数",
-      "onboard_time": 1749292520,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 203419,
@@ -1467,6 +1491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 180332,
+      "num": 255735,
+      "word": "优酷凭藏海传实现单季度盈利",
+      "onboard_time": 1749294083,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177419,
       "num": 177419,
       "word": "乘风之夜嘉宾官宣",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1749278241,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167773,
+      "num": 167773,
+      "word": "乌克兰称击落俄罗斯苏35战斗机",
+      "onboard_time": 1749294322,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 167626,
@@ -1683,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160906,
+      "num": 160906,
+      "word": "浪姐直播",
+      "onboard_time": 1749294443,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160066,
       "num": 160066,
       "word": "严浩翔万妮达腹语暗号",
@@ -1713,14 +1761,6 @@
       "onboard_time": 1749236294,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157712,
-      "num": 157712,
-      "word": "内娱00花又上新了",
-      "onboard_time": 1749292882,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 157409,
@@ -1840,6 +1880,14 @@
       "word": "高考数学 明年今日对我好一点",
       "onboard_time": 1749289404,
       "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 146876,
+      "num": 140557,
+      "word": "高考数学 看不懂难不难",
+      "onboard_time": 1749295102,
+      "rank": 31,
       "category": "教育"
     },
     {
@@ -1979,6 +2027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137297,
+      "num": 137297,
+      "word": "浪姐成团夜",
+      "onboard_time": 1749294802,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136273,
       "num": 136273,
       "word": "偶遇张予曦录我家那闺女",
@@ -2059,6 +2115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130568,
+      "num": 130568,
+      "word": "李诚儒张萌因钟丽丽起争执",
+      "onboard_time": 1749293482,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129386,
       "num": 1085350,
       "word": "天津卷作文辐条车轮车辆",
@@ -2131,12 +2195,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126080,
+      "num": 498718,
+      "word": "张桂梅一句话让我秒回学生时代",
+      "onboard_time": 1749291443,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125193,
       "num": 125193,
       "word": "谢谢你张老师",
       "onboard_time": 1749264863,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123547,
+      "num": 123547,
+      "word": "俄方称愿给予马斯克政治庇护",
+      "onboard_time": 1749293542,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122043,
@@ -2227,6 +2307,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 117076,
+      "num": 117076,
+      "word": "短剧3分钟演完长剧40集内容",
+      "onboard_time": 1749293783,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116373,
+      "num": 116373,
+      "word": "丁程鑫快到被剥夺泼水权",
+      "onboard_time": 1749294262,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116209,
       "num": 116209,
       "word": "王者荣耀",
@@ -2267,6 +2363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113053,
+      "num": 414389,
+      "word": "官方通报网传8岁女孩遭长期霸凌",
+      "onboard_time": 1749291443,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 110805,
       "num": 110805,
       "word": "马斯克父亲发声",
@@ -2281,6 +2385,14 @@
       "onboard_time": 1749252199,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 109392,
+      "num": 109392,
+      "word": "全国一卷是复古自然的试卷",
+      "onboard_time": 1749295102,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 108756,
@@ -2313,14 +2425,6 @@
       "onboard_time": 1749288386,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106483,
-      "num": 498718,
-      "word": "张桂梅一句话让我秒回学生时代",
-      "onboard_time": 1749291443,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106253,
@@ -2433,14 +2537,6 @@
       "onboard_time": 1749284541,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 94722,
-      "num": 414389,
-      "word": "官方通报网传8岁女孩遭长期霸凌",
-      "onboard_time": 1749291443,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 94654,
@@ -2776,6 +2872,14 @@
       "word": "游客称在泾县停车被饭店人员殴打",
       "onboard_time": 1749273623,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53009,
+      "num": 130825,
+      "word": "语文默写为图画配古诗文是新题型",
+      "onboard_time": 1749294443,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -3267,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8798,
+      "num": 254715,
+      "word": "热敷和穴位按摩能缓解干眼症吗",
+      "onboard_time": 1749294683,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 8470,
       "num": 237235,
       "word": "胡锡进谈马斯克特朗普关系破裂",
@@ -3298,6 +3410,9 @@
     },
     {
       "word": "跟着总书记建设美丽中国"
+    },
+    {
+      "word": "#不负青春不负韶华#"
     }
   ]
 }
