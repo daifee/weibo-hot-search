@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749321994292,
+  "endTime": 1749324009605,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -651,6 +651,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 20347,
+      "num": 25315,
+      "word": "满级QQ",
+      "onboard_time": 1749323894,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 19432,
       "num": 111180,
       "word": "如果你有梦想就请梦得大胆一点",
@@ -665,6 +673,14 @@
       "onboard_time": 1749316698,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14169,
+      "num": 65049,
+      "word": "2008年故意考0分男子发声",
+      "onboard_time": 1749323235,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12133,
