@@ -1,0 +1,410 @@
+{
+  "runTime": 1749300413057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2405520,
+        "num": 2405520,
+        "word": "高考数学",
+        "onboard_time": 1749283282,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1258149,
+        "num": 1258149,
+        "word": "新一卷数学大题 难",
+        "onboard_time": 1749288745,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 5415,
+        "num": 1236418,
+        "word": "网警护航高考祝学子金榜题名",
+        "onboard_time": 1749265284,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1227168,
+        "num": 1227168,
+        "word": "浪姐成团夜",
+        "onboard_time": 1749294802,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 850267,
+        "num": 850267,
+        "word": "浪姐直播 假唱",
+        "onboard_time": 1749299722,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1296956,
+        "num": 850211,
+        "word": "韦神怎么附试卷上了",
+        "onboard_time": 1749292282,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 850000,
+        "num": 850000,
+        "word": "王楚钦你做到了",
+        "onboard_time": 1749295521,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668032,
+        "num": 668032,
+        "word": "周诗雨宣布与丝芭解约",
+        "onboard_time": 1749299302,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605881,
+        "num": 605881,
+        "word": "谢娜舞台串烧好牛",
+        "onboard_time": 1749298882,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497479,
+        "num": 497479,
+        "word": "高考作文",
+        "onboard_time": 1749264742,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1402904,
+        "num": 497100,
+        "word": "陈楚生押中高考作文",
+        "onboard_time": 1749291682,
+        "rank": 10,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 595827,
+        "num": 496915,
+        "word": "卡琳娜的婆婆来了",
+        "onboard_time": 1749299001,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535961,
+        "num": 496013,
+        "word": "李艺彤亲友团 被跳过",
+        "onboard_time": 1749298823,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492305,
+        "num": 492305,
+        "word": "导数题不给原函数",
+        "onboard_time": 1749292520,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15308,
+        "num": 487861,
+        "word": "一中学家委会募捐5.7万激励学生",
+        "onboard_time": 1749299961,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94851,
+        "num": 484934,
+        "word": "大学生开始挑战高考作文了",
+        "onboard_time": 1749299183,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247861,
+        "num": 480145,
+        "word": "白象的诚恳印在包装上",
+        "onboard_time": 1749298582,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81041,
+        "num": 473474,
+        "word": "刘宇助阵吴宣仪",
+        "onboard_time": 1749300202,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43730,
+        "num": 471165,
+        "word": "月经状况能否作为妇科健康的自检指标",
+        "onboard_time": 1749299481,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108413,
+        "num": 464820,
+        "word": "00后老师都开始送考了",
+        "onboard_time": 1749298762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464028,
+        "num": 464028,
+        "word": "浪姐总决赛红毯",
+        "onboard_time": 1749294683,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419596,
+        "num": 419596,
+        "word": "全智贤老公炒币亏了150亿",
+        "onboard_time": 1749281120,
+        "rank": 21,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 388095,
+        "num": 388095,
+        "word": "军人跳水连救5条命后陷入昏迷",
+        "onboard_time": 1749298042,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 381034,
+        "num": 381034,
+        "word": "牙医3年前预警韦东奕牙周危机成真",
+        "onboard_time": 1749288145,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339699,
+        "num": 339699,
+        "word": "长安的荔枝",
+        "onboard_time": 1749296303,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316112,
+        "num": 316112,
+        "word": "范玮琪演唱会门票跌至5.6折",
+        "onboard_time": 1749290903,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241703,
+        "num": 241703,
+        "word": "高考数学难不难",
+        "onboard_time": 1749287786,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234198,
+        "num": 234198,
+        "word": "新二卷数学 简单",
+        "onboard_time": 1749288745,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234079,
+        "num": 234079,
+        "word": "艾福杰尼工作室晒聊天记录",
+        "onboard_time": 1749295822,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221855,
+        "num": 221855,
+        "word": "王楚钦谈三大赛另2块单打金牌",
+        "onboard_time": 1749299722,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213204,
+        "num": 213204,
+        "word": "浪姐直播",
+        "onboard_time": 1749294443,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207289,
+        "num": 207289,
+        "word": "程潇给陈梦化女团妆",
+        "onboard_time": 1749295942,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205557,
+        "num": 205557,
+        "word": "王楚钦一号主力备战乒超",
+        "onboard_time": 1749298703,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196138,
+        "num": 196138,
+        "word": "WBG对战IG",
+        "onboard_time": 1749288386,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193723,
+        "num": 193723,
+        "word": "于小彤 原来得了绝症不会哭",
+        "onboard_time": 1749280942,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187638,
+        "num": 187638,
+        "word": "李艺彤太帅了",
+        "onboard_time": 1749297262,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170938,
+        "num": 170938,
+        "word": "周杰伦知道你急但你先别急",
+        "onboard_time": 1749298342,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169889,
+        "num": 169889,
+        "word": "数学我恨你",
+        "onboard_time": 1749289763,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152970,
+        "num": 152970,
+        "word": "谢娜回应丁程鑫乘风创始人你也敢惹",
+        "onboard_time": 1749300322,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78927,
+        "num": 148552,
+        "word": "斗破苍穹",
+        "onboard_time": 1749295341,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146982,
+        "num": 146982,
+        "word": "内娱00花又上新了",
+        "onboard_time": 1749292882,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163272,
+        "num": 145405,
+        "word": "沙特王子也为周杰伦着迷",
+        "onboard_time": 1749299961,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62645,
+        "num": 144020,
+        "word": "父亲背女儿进入考场",
+        "onboard_time": 1749300383,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143175,
+        "num": 143175,
+        "word": "李隼嫁女四大奥运乒乓冠军现身搂席",
+        "onboard_time": 1749291742,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142286,
+        "num": 142286,
+        "word": "优酷凭藏海传实现单季度盈利",
+        "onboard_time": 1749294083,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138805,
+        "num": 138805,
+        "word": "临江仙开播24小时热度破9000",
+        "onboard_time": 1749299421,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135182,
+        "num": 135182,
+        "word": "赵雅芝来浪姐总决赛了",
+        "onboard_time": 1749296723,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133961,
+        "num": 133961,
+        "word": "浪姐亲友团",
+        "onboard_time": 1749300022,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128112,
+        "num": 128112,
+        "word": "高考第1天结束",
+        "onboard_time": 1749294562,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126480,
+        "num": 126480,
+        "word": "孙燕姿青岛演唱会抢票",
+        "onboard_time": 1749300383,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记建设美丽中国"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749296305647,
+  "endTime": 1749300413057,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 1526061,
-      "num": 470165,
+      "num": 497100,
       "word": "陈楚生押中高考作文",
       "onboard_time": 1749291682,
       "rank": 13,
@@ -699,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1296956,
+      "num": 1083588,
+      "word": "韦神怎么附试卷上了",
+      "onboard_time": 1749292282,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1293865,
       "num": 1293865,
       "word": "警方通报武汉大学伤人事件",
@@ -793,6 +801,14 @@
       "onboard_time": 1748765241,
       "rank": 6,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1227168,
+      "num": 1227168,
+      "word": "浪姐成团夜",
+      "onboard_time": 1749294802,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 1226395,
@@ -1009,14 +1025,6 @@
       "onboard_time": 1748873722,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1083588,
-      "num": 1083588,
-      "word": "韦神怎么附试卷上了",
-      "onboard_time": 1749292282,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 1078006,
@@ -1443,6 +1451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 850267,
+      "num": 850267,
+      "word": "浪姐直播 假唱",
+      "onboard_time": 1749299722,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 850000,
+      "num": 850000,
+      "word": "王楚钦你做到了",
+      "onboard_time": 1749295521,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 843300,
       "num": 843300,
       "word": "小众但是很烧钱的爱好",
@@ -1859,14 +1883,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 720023,
-      "num": 720023,
-      "word": "王楚钦你做到了",
-      "onboard_time": 1749295521,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 718256,
       "num": 718256,
       "word": "酱园弄悬案全员亮相",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1749024020,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 668032,
+      "num": 668032,
+      "word": "周诗雨宣布与丝芭解约",
+      "onboard_time": 1749299302,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 665858,
@@ -2427,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 605881,
+      "num": 605881,
+      "word": "谢娜舞台串烧好牛",
+      "onboard_time": 1749298882,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605629,
       "num": 605629,
       "word": "广西4.1级地震",
@@ -2521,6 +2553,14 @@
       "onboard_time": 1749168080,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 595827,
+      "num": 496915,
+      "word": "卡琳娜的婆婆来了",
+      "onboard_time": 1749299001,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 593947,
@@ -2825,6 +2865,14 @@
       "onboard_time": 1748875283,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 535961,
+      "num": 496013,
+      "word": "李艺彤亲友团 被跳过",
+      "onboard_time": 1749298823,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 531499,
@@ -3163,6 +3211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 492305,
+      "num": 492305,
+      "word": "导数题不给原函数",
+      "onboard_time": 1749292520,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 491317,
       "num": 538400,
       "word": "何秋亊将直播回应争议",
@@ -3409,14 +3465,6 @@
       "onboard_time": 1748870722,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 467874,
-      "num": 467874,
-      "word": "导数题不给原函数",
-      "onboard_time": 1749292520,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 467159,
@@ -4163,6 +4211,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 388095,
+      "num": 388095,
+      "word": "军人跳水连救5条命后陷入昏迷",
+      "onboard_time": 1749298042,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 388079,
       "num": 466295,
       "word": "谁懂卫兰歌手唱大哥",
@@ -4259,20 +4315,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 381034,
+      "num": 381034,
+      "word": "牙医3年前预警韦东奕牙周危机成真",
+      "onboard_time": 1749288145,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380417,
       "num": 172196,
       "word": "女装这种设计的意义在于没有意义",
       "onboard_time": 1748696661,
       "rank": 12,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 379988,
-      "num": 379988,
-      "word": "牙医3年前预警韦东奕牙周危机成真",
-      "onboard_time": 1749288145,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 379171,
@@ -4883,6 +4939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 339699,
+      "num": 339699,
+      "word": "长安的荔枝",
+      "onboard_time": 1749048383,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339073,
       "num": 339073,
       "word": "NBA",
@@ -5225,6 +5289,14 @@
       "onboard_time": 1748773040,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316112,
+      "num": 382733,
+      "word": "范玮琪演唱会门票跌至5.6折",
+      "onboard_time": 1749290903,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 315650,
@@ -6035,14 +6107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275871,
-      "num": 275871,
-      "word": "浪姐成团夜",
-      "onboard_time": 1749294802,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275277,
       "num": 337082,
       "word": "原神",
@@ -6451,14 +6515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256849,
-      "num": 382733,
-      "word": "范玮琪演唱会门票跌至5.6折",
-      "onboard_time": 1749290903,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 256777,
       "num": 468406,
       "word": "陷入我们的热恋吻戏 借位",
@@ -6681,6 +6737,14 @@
       "onboard_time": 1749101901,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247861,
+      "num": 480145,
+      "word": "白象的诚恳印在包装上",
+      "onboard_time": 1749298582,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247791,
@@ -7008,6 +7072,14 @@
       "word": "宋昕冉卡点祝迪丽热巴生日快乐",
       "onboard_time": 1748927781,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 234079,
+      "num": 234079,
+      "word": "艾福杰尼工作室晒聊天记录",
+      "onboard_time": 1749295822,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -7491,6 +7563,14 @@
       "category": "运动健身,民生新闻"
     },
     {
+      "raw_hot": 221855,
+      "num": 221855,
+      "word": "王楚钦谈三大赛另2块单打金牌",
+      "onboard_time": 1749299722,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221836,
       "num": 221836,
       "word": "临江仙包场",
@@ -7851,7 +7931,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213047,
+      "raw_hot": 213204,
       "num": 238624,
       "word": "浪姐直播",
       "onboard_time": 1749294443,
@@ -8211,6 +8291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207289,
+      "num": 207289,
+      "word": "程潇给陈梦化女团妆",
+      "onboard_time": 1749295942,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207275,
       "num": 207275,
       "word": "张凌赫给迪丽热巴吓一激灵",
@@ -8369,6 +8457,14 @@
       "onboard_time": 1749201800,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205557,
+      "num": 205557,
+      "word": "王楚钦一号主力备战乒超",
+      "onboard_time": 1749298703,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 205522,
@@ -8993,6 +9089,14 @@
       "onboard_time": 1749286582,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196138,
+      "num": 508686,
+      "word": "WBG对战IG",
+      "onboard_time": 1749288386,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 196068,
@@ -9651,6 +9755,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 187638,
+      "num": 187638,
+      "word": "李艺彤太帅了",
+      "onboard_time": 1749297262,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187627,
       "num": 187627,
       "word": "刘宇宁折腰收官发文",
@@ -9744,14 +9856,6 @@
       "word": "张峻豪粉发",
       "onboard_time": 1749292161,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 186598,
-      "num": 186598,
-      "word": "艾福杰尼工作室晒聊天记录",
-      "onboard_time": 1749295822,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -10233,14 +10337,6 @@
       "onboard_time": 1749190162,
       "rank": 31,
       "category": "艺人,剧集"
-    },
-    {
-      "raw_hot": 180344,
-      "num": 180344,
-      "word": "程潇给陈梦化女团妆",
-      "onboard_time": 1749295942,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 180332,
@@ -10819,6 +10915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170938,
+      "num": 170938,
+      "word": "周杰伦知道你急但你先别急",
+      "onboard_time": 1749298342,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170780,
       "num": 170780,
       "word": "曹骏VOGUE盛典活动",
@@ -11049,14 +11153,6 @@
       "onboard_time": 1749278241,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168469,
-      "num": 168469,
-      "word": "长安的荔枝",
-      "onboard_time": 1749048383,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 168461,
@@ -11497,6 +11593,14 @@
       "onboard_time": 1749223284,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163272,
+      "num": 145405,
+      "word": "沙特王子也为周杰伦着迷",
+      "onboard_time": 1749299961,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 163214,
@@ -12385,6 +12489,14 @@
       "onboard_time": 1749177080,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152970,
+      "num": 152970,
+      "word": "谢娜回应丁程鑫乘风创始人你也敢惹",
+      "onboard_time": 1749300322,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 152894,
@@ -13787,6 +13899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138805,
+      "num": 138805,
+      "word": "临江仙开播24小时热度破9000",
+      "onboard_time": 1749299421,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138788,
       "num": 138788,
       "word": "万妮达 新说唱",
@@ -14259,6 +14379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135182,
+      "num": 135182,
+      "word": "赵雅芝来浪姐总决赛了",
+      "onboard_time": 1749296723,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135103,
       "num": 135103,
       "word": "黄子弘凡探班直播",
@@ -14393,6 +14521,14 @@
       "onboard_time": 1749198501,
       "rank": 39,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 133961,
+      "num": 133961,
+      "word": "浪姐亲友团",
+      "onboard_time": 1749300022,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 133923,
@@ -15163,6 +15299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126480,
+      "num": 126480,
+      "word": "孙燕姿青岛演唱会抢票",
+      "onboard_time": 1749300383,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126446,
       "num": 126446,
       "word": "北京WBG对战成都GG",
@@ -15180,7 +15324,7 @@
     },
     {
       "raw_hot": 126229,
-      "num": 126229,
+      "num": 148552,
       "word": "斗破苍穹",
       "onboard_time": 1749295341,
       "rank": 41,
@@ -17011,6 +17155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108413,
+      "num": 464820,
+      "word": "00后老师都开始送考了",
+      "onboard_time": 1749298762,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108393,
       "num": 108393,
       "word": "魏晨玫瑰音乐节",
@@ -17161,14 +17313,6 @@
       "onboard_time": 1748915600,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 106847,
-      "num": 508686,
-      "word": "WBG对战IG",
-      "onboard_time": 1749288386,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 106827,
@@ -18355,6 +18499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94851,
+      "num": 484934,
+      "word": "大学生开始挑战高考作文了",
+      "onboard_time": 1749299183,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 94827,
       "num": 94827,
       "word": "被正式确诊为夏人",
@@ -19320,6 +19472,14 @@
       "word": "金晨发夹越萌开车越猛",
       "onboard_time": 1749244754,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81041,
+      "num": 473474,
+      "word": "刘宇助阵吴宣仪",
+      "onboard_time": 1749300202,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -20497,6 +20657,14 @@
       "onboard_time": 1748702001,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 62645,
+      "num": 144020,
+      "word": "父亲背女儿进入考场",
+      "onboard_time": 1749300383,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62568,
@@ -21824,6 +21992,14 @@
       "word": "为什么原来不过敏现在却过敏了",
       "onboard_time": 1749078798,
       "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43730,
+      "num": 471165,
+      "word": "月经状况能否作为妇科健康的自检指标",
+      "onboard_time": 1749299481,
+      "rank": 18,
       "category": "健康医疗"
     },
     {
@@ -24561,6 +24737,14 @@
       "onboard_time": 1748773880,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 15308,
+      "num": 487861,
+      "word": "一中学家委会募捐5.7万激励学生",
+      "onboard_time": 1749299961,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15288,
