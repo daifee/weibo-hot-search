@@ -1,0 +1,410 @@
+{
+  "runTime": 1749293106433,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9328526,
+        "num": 9328526,
+        "word": "高考数学",
+        "onboard_time": 1749283282,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2535506,
+        "num": 2535506,
+        "word": "新一卷数学大题 难",
+        "onboard_time": 1749288745,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13530,
+        "num": 1073364,
+        "word": "网警护航高考祝学子金榜题名",
+        "onboard_time": 1749265284,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1035047,
+        "num": 1035047,
+        "word": "新二卷数学 简单",
+        "onboard_time": 1749288745,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 807196,
+        "num": 807196,
+        "word": "高考作文",
+        "onboard_time": 1749264742,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 494173,
+        "num": 494173,
+        "word": "高考数学难不难",
+        "onboard_time": 1749287786,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 426401,
+        "num": 426401,
+        "word": "于小彤 原来得了绝症不会哭",
+        "onboard_time": 1749280942,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311949,
+        "num": 311949,
+        "word": "全国一卷 难",
+        "onboard_time": 1749268289,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236265,
+        "num": 311919,
+        "word": "孙俪邓超的孩子一个14岁一个11岁",
+        "onboard_time": 1749280942,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106483,
+        "num": 311775,
+        "word": "张桂梅一句话让我秒回学生时代",
+        "onboard_time": 1749291443,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1847505,
+        "num": 311684,
+        "word": "我竟然押中了高考作文",
+        "onboard_time": 1749286342,
+        "rank": 10,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 1054881,
+        "num": 311507,
+        "word": "陈楚生押中高考作文",
+        "onboard_time": 1749291682,
+        "rank": 11,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 780498,
+        "num": 311378,
+        "word": "数学一卷圆我大专梦",
+        "onboard_time": 1749290425,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 608600,
+        "num": 311313,
+        "word": "韦神怎么附试卷上了",
+        "onboard_time": 1749292282,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45209,
+        "num": 311138,
+        "word": "苏超出圈是散装江苏真正的阳谋",
+        "onboard_time": 1749291325,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 222415,
+        "num": 311101,
+        "word": "范玮琪演唱会门票跌至5.6折",
+        "onboard_time": 1749290903,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179069,
+        "num": 310960,
+        "word": "五旬老太守国门 谁来制裁单依纯",
+        "onboard_time": 1749277761,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19287,
+        "num": 310747,
+        "word": "长白头发暗示着哪些健康问题",
+        "onboard_time": 1749286823,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37744,
+        "num": 310677,
+        "word": "清明上河园回应被质疑虐待猴子",
+        "onboard_time": 1749291325,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94722,
+        "num": 310556,
+        "word": "官方通报网传8岁女孩遭长期霸凌",
+        "onboard_time": 1749291443,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 310505,
+        "num": 310505,
+        "word": "牙医3年前预警韦东奕牙周危机成真",
+        "onboard_time": 1749288145,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537491,
+        "num": 310444,
+        "word": "数学我恨你",
+        "onboard_time": 1749289763,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 361974,
+        "num": 301723,
+        "word": "全智贤老公炒币亏了150亿",
+        "onboard_time": 1749281120,
+        "rank": 22,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 283898,
+        "num": 283898,
+        "word": "高考作文 抽象",
+        "onboard_time": 1749269427,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283671,
+        "num": 283671,
+        "word": "数学 一生之敌",
+        "onboard_time": 1749291622,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173771,
+        "num": 283425,
+        "word": "刘畊宏是来帮周杰伦找场地的",
+        "onboard_time": 1749292343,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165140,
+        "num": 278419,
+        "word": "赵丽颖染回黑发了",
+        "onboard_time": 1749278181,
+        "rank": 26,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 132185,
+        "num": 277464,
+        "word": "就算没考好也才十八岁",
+        "onboard_time": 1749291682,
+        "rank": 27,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 165027,
+        "num": 275278,
+        "word": "新说唱",
+        "onboard_time": 1749292103,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65720,
+        "num": 272163,
+        "word": "泾县文旅局向蔡某及其家人致歉",
+        "onboard_time": 1749285022,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513493,
+        "num": 267085,
+        "word": "折腰庆功宴",
+        "onboard_time": 1749287485,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266925,
+        "num": 266925,
+        "word": "准备复读",
+        "onboard_time": 1749291203,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 235769,
+        "num": 235769,
+        "word": "武汉一考点司机疯狂按喇叭被扣",
+        "onboard_time": 1749287786,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229347,
+        "num": 229347,
+        "word": "李隼嫁女四大奥运乒乓冠军现身搂席",
+        "onboard_time": 1749291742,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205336,
+        "num": 205336,
+        "word": "导数题不给原函数",
+        "onboard_time": 1749292520,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186599,
+        "num": 186599,
+        "word": "张峻豪粉发",
+        "onboard_time": 1749292161,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180399,
+        "num": 180399,
+        "word": "今年高考数学有22年难吗",
+        "onboard_time": 1749292582,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171580,
+        "num": 171580,
+        "word": "语文默写",
+        "onboard_time": 1749268587,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164251,
+        "num": 164251,
+        "word": "这些居然都是周奇",
+        "onboard_time": 1749292461,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163997,
+        "num": 163997,
+        "word": "30块钱咖啡买到3000块钱服务",
+        "onboard_time": 1749291383,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161289,
+        "num": 161289,
+        "word": "北京高考数学 难",
+        "onboard_time": 1749289524,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161036,
+        "num": 161036,
+        "word": "2个月大妹妹穿旗袍为18岁哥哥送考",
+        "onboard_time": 1749292761,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157712,
+        "num": 157712,
+        "word": "内娱00花又上新了",
+        "onboard_time": 1749292882,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157409,
+        "num": 157409,
+        "word": "我和数学离婚了",
+        "onboard_time": 1749290903,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154669,
+        "num": 154669,
+        "word": "何秋亊公关",
+        "onboard_time": 1749289044,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149342,
+        "num": 149342,
+        "word": "王俊凯 把时代少年团请过来",
+        "onboard_time": 1749272664,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143788,
+        "num": 143788,
+        "word": "曹骏郑合惠子cp感",
+        "onboard_time": 1749284541,
+        "rank": 46,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 135023,
+        "num": 135023,
+        "word": "姜云升 新说唱",
+        "onboard_time": 1749279202,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128927,
+        "num": 128927,
+        "word": "男生高考被单独分到一个教室",
+        "onboard_time": 1749286702,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128490,
+        "num": 128490,
+        "word": "数学出题人你出来",
+        "onboard_time": 1749293062,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "跟着总书记建设美丽中国"
+    }
+  }
+}

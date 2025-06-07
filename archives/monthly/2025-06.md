@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/07 18:26:41
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/07 18:45:06
 </p>
 </blockquote>
 <p>
@@ -779,6 +779,12 @@ GAI是不是想走了（热度：1689581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A52%E5%90%8D%E6%97%A5%E7%B1%8D%E7%94%B7%E5%AD%90%E8%A2%AB%E5%AE%B3%23" target="weibo">
 大连警方通报2名日籍男子被害（热度：1057143）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23" target="weibo">
+陈楚生押中高考作文（热度：1054881）
 </a>
 </li>
 
@@ -1665,12 +1671,6 @@ labubu牙套（热度：696332）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E6%8A%BC%E4%B8%AD%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23" target="weibo">
-陈楚生押中高考作文（热度：639003）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E6%BB%A1%E7%BA%A7QQ%E8%8E%B7%E5%BE%97%E9%87%91%E4%BC%81%E9%B9%85%23" target="weibo">
 首个满级QQ获得金企鹅（热度：637222）
 </a>
@@ -1811,6 +1811,12 @@ labubu牙套（热度：696332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E6%89%A7%E5%AF%BC%E7%94%B5%E5%BD%B1%E5%A5%B3%E8%B6%B3%E6%9D%80%E9%9D%92%23" target="weibo">
 周星驰执导电影女足杀青（热度：611174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E7%A5%9E%E6%80%8E%E4%B9%88%E9%99%84%E8%AF%95%E5%8D%B7%E4%B8%8A%E4%BA%86%23" target="weibo">
+韦神怎么附试卷上了（热度：608600）
 </a>
 </li>
 
@@ -4365,6 +4371,12 @@ VOGUE直播（热度：299123）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%20%E4%B8%80%E7%94%9F%E4%B9%8B%E6%95%8C%23" target="weibo">
+数学 一生之敌（热度：283671）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E9%A9%B1%E9%80%90%E8%88%B0%E5%B7%B2%E8%A2%AB%E6%89%B6%E6%AD%A3%23" target="weibo">
 朝鲜驱逐舰已被扶正（热度：283457）
 </a>
@@ -4505,12 +4517,6 @@ VOGUE直播（热度：299123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
 原神（热度：275277）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%20%E4%B8%80%E7%94%9F%E4%B9%8B%E6%95%8C%23" target="weibo">
-数学 一生之敌（热度：275198）
 </a>
 </li>
 
@@ -4667,6 +4673,12 @@ VOGUE直播（热度：299123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%96%91%E8%A2%AB%E8%9B%87%E5%92%AC%E8%BA%AB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%9A%82%E6%97%A0%E7%BB%93%E6%9E%9C%23" target="weibo">
 女子疑被蛇咬身亡家属称暂无结果（热度：267428）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%86%E5%A4%87%E5%A4%8D%E8%AF%BB%23" target="weibo">
+准备复读（热度：266925）
 </a>
 </li>
 
@@ -5355,6 +5367,12 @@ VOGUE晚宴（热度：232444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9A%BC%E5%AB%81%E5%A5%B3%E5%9B%9B%E5%A4%A7%E5%A5%A5%E8%BF%90%E4%B9%92%E4%B9%93%E5%86%A0%E5%86%9B%E7%8E%B0%E8%BA%AB%E6%90%82%E5%B8%AD%23" target="weibo">
+李隼嫁女四大奥运乒乓冠军现身搂席（热度：229347）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%A8%E5%B0%94%E5%B8%83%E5%90%95%E8%82%AF%E7%90%83%E5%91%98%E6%B5%B7%E6%8A%A5%E6%A8%8A%E6%8C%AF%E4%B8%9CC%E4%BD%8D%23" target="weibo">
 萨尔布吕肯球员海报樊振东C位（热度：229217）
 </a>
@@ -5561,6 +5579,12 @@ GAI 文旅型歌手（热度：223709）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%B1%B1%E5%8D%97%E7%BD%95%E8%A7%81%E7%BA%A2%E8%89%B2%E7%B2%BE%E7%81%B5%E9%97%AA%E7%94%B5%23" target="weibo">
 西藏山南罕见红色精灵闪电（热度：222423）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%E8%B7%8C%E8%87%B35.6%E6%8A%98%23" target="weibo">
+范玮琪演唱会门票跌至5.6折（热度：222415）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ MRC对战FPXZQ（热度：211284）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E9%BB%84%E7%89%9B%E5%90%8ESwitch2%E4%BB%B7%E6%A0%BC%E4%B8%8D%E5%88%B04%E5%8D%83%23" target="weibo">
 反黄牛后Switch2价格不到4千（热度：209802）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E4%BB%8E28%E5%88%86%E5%88%B0%E4%B8%80%E7%99%BE%E5%A4%9A%E5%88%86%23" target="weibo">
-李现高考数学从28分到一百多分（热度：209770）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2330%E5%9D%97%E9%92%B1%E5%92%96%E5%95%A1%E4%B9%B0%E5%88%B03000%E5%9D%97%E9%92%B1%E6%9C%8D%E5%8A%A1%23" target="weibo">
-30块钱咖啡买到3000块钱服务（热度：209703）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%E6%84%9F%E8%B0%A2%E8%91%A3%E6%98%8E%E7%8F%A0%E9%9B%B7%E5%86%9B%23" target="weibo">
-王自如感谢董明珠雷军（热度：209321）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%20%E4%B8%8B%E9%9B%A8%23" target="weibo">
-高考 下雨（热度：209295）
 </a>
 </li>
 

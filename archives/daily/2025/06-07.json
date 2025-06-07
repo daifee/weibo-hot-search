@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749292001445,
+  "endTime": 1749293106433,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1054881,
+      "num": 467767,
+      "word": "陈楚生押中高考作文",
+      "onboard_time": 1749291682,
+      "rank": 13,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 1051856,
       "num": 306646,
       "word": "单依纯疑似报复李荣浩当年没转身",
@@ -291,14 +299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 639003,
-      "num": 467767,
-      "word": "陈楚生押中高考作文",
-      "onboard_time": 1749291682,
-      "rank": 13,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 637222,
       "num": 637222,
       "word": "首个满级QQ获得金企鹅",
@@ -313,6 +313,14 @@
       "onboard_time": 1749215129,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 608600,
+      "num": 311313,
+      "word": "韦神怎么附试卷上了",
+      "onboard_time": 1749292282,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 602860,
@@ -787,6 +795,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 283671,
+      "num": 283671,
+      "word": "数学 一生之敌",
+      "onboard_time": 1749291622,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 278441,
       "num": 278441,
       "word": "曹骏郑合惠子cp感",
@@ -809,14 +825,6 @@
       "onboard_time": 1749260061,
       "rank": 21,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 275198,
-      "num": 275198,
-      "word": "数学 一生之敌",
-      "onboard_time": 1749291622,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 272983,
@@ -849,6 +857,14 @@
       "onboard_time": 1749271764,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 266925,
+      "num": 266925,
+      "word": "准备复读",
+      "onboard_time": 1749291203,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 260451,
@@ -939,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229347,
+      "num": 229347,
+      "word": "李隼嫁女四大奥运乒乓冠军现身搂席",
+      "onboard_time": 1749291742,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226422,
       "num": 128263,
       "word": "断眉跑哪去了",
@@ -977,6 +1001,14 @@
       "onboard_time": 1749269666,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 222415,
+      "num": 382733,
+      "word": "范玮琪演唱会门票跌至5.6折",
+      "onboard_time": 1749290903,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 221778,
@@ -1107,20 +1139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205336,
+      "num": 205336,
+      "word": "导数题不给原函数",
+      "onboard_time": 1749292520,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 203419,
       "num": 420389,
       "word": "北京高考作文题目第二次呼吸",
       "onboard_time": 1749269546,
       "rank": 21,
       "category": "民生新闻,民生新闻"
-    },
-    {
-      "raw_hot": 203009,
-      "num": 382733,
-      "word": "范玮琪演唱会门票跌至5.6折",
-      "onboard_time": 1749290903,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 202423,
@@ -1177,14 +1209,6 @@
       "onboard_time": 1749275601,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198971,
-      "num": 198971,
-      "word": "准备复读",
-      "onboard_time": 1749291203,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 198442,
@@ -1339,6 +1363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186599,
+      "num": 186599,
+      "word": "张峻豪粉发",
+      "onboard_time": 1749292161,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186437,
       "num": 192237,
       "word": "王勉王俊凯你俩有点暧昧了",
@@ -1427,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180399,
+      "num": 180399,
+      "word": "今年高考数学有22年难吗",
+      "onboard_time": 1749292582,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177419,
       "num": 177419,
       "word": "乘风之夜嘉宾官宣",
@@ -1436,7 +1476,7 @@
     },
     {
       "raw_hot": 176805,
-      "num": 176805,
+      "num": 277464,
       "word": "就算没考好也才十八岁",
       "onboard_time": 1749291682,
       "rank": 37,
@@ -1475,20 +1515,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 174806,
-      "num": 174806,
-      "word": "李隼嫁女四大奥运乒乓冠军现身搂席",
-      "onboard_time": 1749291742,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174431,
       "num": 258883,
       "word": "京东直播一元起拍labubu送铂金包",
       "onboard_time": 1749265945,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 173771,
+      "num": 283425,
+      "word": "刘畊宏是来帮周杰伦找场地的",
+      "onboard_time": 1749292343,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 172412,
@@ -1563,6 +1603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165027,
+      "num": 275278,
+      "word": "新说唱",
+      "onboard_time": 1749292103,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164443,
       "num": 115659,
       "word": "虞书欣丁禹兮宣传黄晓明潜渊",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1749280882,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164251,
+      "num": 164251,
+      "word": "这些居然都是周奇",
+      "onboard_time": 1749292461,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 163895,
@@ -1611,6 +1667,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161289,
+      "num": 161289,
+      "word": "北京高考数学 难",
+      "onboard_time": 1749289524,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 161036,
+      "num": 161036,
+      "word": "2个月大妹妹穿旗袍为18岁哥哥送考",
+      "onboard_time": 1749292761,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160066,
       "num": 160066,
       "word": "严浩翔万妮达腹语暗号",
@@ -1643,20 +1715,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157712,
+      "num": 157712,
+      "word": "内娱00花又上新了",
+      "onboard_time": 1749292882,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157409,
+      "num": 157409,
+      "word": "我和数学离婚了",
+      "onboard_time": 1749290903,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 157306,
       "num": 157306,
       "word": "叶童赵雅芝浪姐将合体",
       "onboard_time": 1749258500,
       "rank": 32,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 156644,
-      "num": 156644,
-      "word": "我和数学离婚了",
-      "onboard_time": 1749290903,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 156318,
@@ -2019,6 +2099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128490,
+      "num": 128490,
+      "word": "数学出题人你出来",
+      "onboard_time": 1749293062,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 127873,
       "num": 127873,
       "word": "全红婵夸陈梦好漂亮",
@@ -2227,6 +2315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106483,
+      "num": 498718,
+      "word": "张桂梅一句话让我秒回学生时代",
+      "onboard_time": 1749291443,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106253,
       "num": 515947,
       "word": "泾县文旅局向蔡某及其家人致歉",
@@ -2337,6 +2433,14 @@
       "onboard_time": 1749284541,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94722,
+      "num": 414389,
+      "word": "官方通报网传8岁女孩遭长期霸凌",
+      "onboard_time": 1749291443,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 94654,
@@ -2563,14 +2667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70292,
-      "num": 498718,
-      "word": "张桂梅一句话让我秒回学生时代",
-      "onboard_time": 1749291443,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70264,
       "num": 174420,
       "word": "男子玩密室对女鬼NPC摸腿搂腰",
@@ -2625,14 +2721,6 @@
       "onboard_time": 1749252378,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62066,
-      "num": 414389,
-      "word": "官方通报网传8岁女孩遭长期霸凌",
-      "onboard_time": 1749291443,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 60542,
@@ -2779,6 +2867,14 @@
       "category": "正能量,教育"
     },
     {
+      "raw_hot": 45209,
+      "num": 451923,
+      "word": "苏超出圈是散装江苏真正的阳谋",
+      "onboard_time": 1749291325,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 45146,
       "num": 45146,
       "word": "这个早安送给高考生",
@@ -2851,6 +2947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37744,
+      "num": 429836,
+      "word": "清明上河园回应被质疑虐待猴子",
+      "onboard_time": 1749291325,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37347,
       "num": 146048,
       "word": "我在加沙的病人是孩子和孕妇",
@@ -2881,14 +2985,6 @@
       "onboard_time": 1749279082,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 34041,
-      "num": 429836,
-      "word": "清明上河园回应被质疑虐待猴子",
-      "onboard_time": 1749291325,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33700,
@@ -2929,14 +3025,6 @@
       "onboard_time": 1749234915,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 31617,
-      "num": 451923,
-      "word": "苏超出圈是散装江苏真正的阳谋",
-      "onboard_time": 1749291325,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 30865,
@@ -3089,6 +3177,14 @@
       "onboard_time": 1749283642,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19287,
+      "num": 310747,
+      "word": "长白头发暗示着哪些健康问题",
+      "onboard_time": 1749286823,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 19022,
