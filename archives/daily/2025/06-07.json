@@ -1,6 +1,6 @@
 {
   "startTime": 1749227608655,
-  "endTime": 1749303810405,
+  "endTime": 1749306170979,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -267,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 974862,
+      "num": 391919,
+      "word": "吴宣仪 全开麦",
+      "onboard_time": 1749303384,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 962652,
       "num": 962652,
       "word": "侯佩岑 划水",
@@ -427,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590225,
+      "num": 363416,
+      "word": "长安的荔枝 搞笑",
+      "onboard_time": 1749303503,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 586319,
       "num": 414424,
       "word": "国乒总教练李隼女儿结婚",
@@ -537,14 +553,6 @@
       "onboard_time": 1749292520,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 491562,
-      "num": 368343,
-      "word": "吴宣仪 全开麦",
-      "onboard_time": 1749303384,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 490710,
@@ -769,6 +777,14 @@
       "onboard_time": 1749273924,
       "rank": 18,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 364669,
+      "num": 364669,
+      "word": "王楚钦说孙颖莎有她成功的道理",
+      "onboard_time": 1749305302,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 362150,
@@ -1003,6 +1019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 278780,
+      "num": 278780,
+      "word": "皮皮朱说主播谈不了恋爱",
+      "onboard_time": 1749305783,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 278441,
       "num": 278441,
       "word": "曹骏郑合惠子cp感",
@@ -1099,6 +1123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254221,
+      "num": 254221,
+      "word": "谢娜回应了热搜",
+      "onboard_time": 1749305542,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 252335,
+      "num": 252335,
+      "word": "400位小米SU7车主调研报告",
+      "onboard_time": 1749304763,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 250880,
       "num": 250880,
       "word": "警方回应老人捡手机索要1600才肯还",
@@ -1137,6 +1177,22 @@
       "onboard_time": 1749298582,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246914,
+      "num": 246914,
+      "word": "勒布伦回应樊振东加盟德甲",
+      "onboard_time": 1749305062,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 242943,
+      "num": 242943,
+      "word": "牛冠凯订婚了",
+      "onboard_time": 1749302963,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 242899,
@@ -1203,11 +1259,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229402,
+      "num": 229402,
+      "word": "叶童赵雅芝拥抱",
+      "onboard_time": 1749304162,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229347,
       "num": 229347,
       "word": "李隼嫁女四大奥运乒乓冠军现身搂席",
       "onboard_time": 1749291742,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228003,
+      "num": 228003,
+      "word": "法网决赛",
+      "onboard_time": 1749303984,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1299,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217850,
+      "num": 359019,
+      "word": "数学老师体验高考预估能考140",
+      "onboard_time": 1749303441,
+      "rank": 22,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 217656,
       "num": 470428,
       "word": "高考第1天结束",
@@ -1331,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212911,
+      "num": 212911,
+      "word": "姜云升 也难怪圈外人有刻板印象",
+      "onboard_time": 1749303863,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212185,
       "num": 212185,
       "word": "老师开来985车牌车被学生摸包浆了",
@@ -1339,12 +1427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211385,
+      "num": 211385,
+      "word": "林俊杰 台北站",
+      "onboard_time": 1749306145,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211223,
       "num": 211223,
       "word": "22年考生怎么样了",
       "onboard_time": 1749273741,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 211163,
+      "num": 211163,
+      "word": "萨巴伦卡vs高芙",
+      "onboard_time": 1749305244,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 209703,
@@ -1443,6 +1547,14 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 203312,
+      "num": 203312,
+      "word": "王楚钦真是人间清醒",
+      "onboard_time": 1749305123,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202423,
       "num": 202423,
       "word": "看到题目两眼一黑",
@@ -1475,20 +1587,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200224,
+      "num": 200224,
+      "word": "SNH48",
+      "onboard_time": 1749305123,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199317,
       "num": 199317,
       "word": "严浩翔北电人北电魂",
       "onboard_time": 1749277641,
       "rank": 31,
       "category": "综艺,电影"
-    },
-    {
-      "raw_hot": 199249,
-      "num": 199249,
-      "word": "长安的荔枝 搞笑",
-      "onboard_time": 1749303503,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 199088,
@@ -1611,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194196,
+      "num": 364189,
+      "word": "爱吃香蕉的美国人被关税战打蒙了",
+      "onboard_time": 1749304643,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 192932,
       "num": 192932,
       "word": "RSG八冠王",
@@ -1627,12 +1747,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191594,
+      "num": 200564,
+      "word": "林一 友谊第一比赛第七",
+      "onboard_time": 1749304884,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190705,
       "num": 190705,
       "word": "中国女排3比0大胜法国队",
       "onboard_time": 1749303503,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190528,
+      "num": 190528,
+      "word": "董力的老底都快被儿子揭光了",
+      "onboard_time": 1749306145,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190364,
+      "num": 190364,
+      "word": "重温关晓彤高考采访太逗了",
+      "onboard_time": 1749306083,
+      "rank": 49,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 190179,
@@ -2435,14 +2579,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 138591,
-      "num": 359019,
-      "word": "数学老师体验高考预估能考140",
-      "onboard_time": 1749303441,
-      "rank": 22,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 136273,
       "num": 136273,
       "word": "偶遇张予曦录我家那闺女",
@@ -3003,20 +3139,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93211,
-      "num": 206368,
-      "word": "牛冠凯订婚了",
-      "onboard_time": 1749302963,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92045,
       "num": 167685,
       "word": "Lululemon收跌20%",
       "onboard_time": 1749267688,
       "rank": 49,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 89960,
+      "num": 211199,
+      "word": "认识铠理解铠爱上铠",
+      "onboard_time": 1749304044,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 89609,
@@ -3097,6 +3233,14 @@
       "onboard_time": 1749225683,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 82658,
+      "num": 361279,
+      "word": "75岁董事长秀肌肉带货遭炮轰假药",
+      "onboard_time": 1749305423,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82233,
@@ -3579,6 +3723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35914,
+      "num": 352758,
+      "word": "蒋梦婕说嫉妒双丹组合",
+      "onboard_time": 1749305902,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35613,
       "num": 298612,
       "word": "建议考完不要对答案",
@@ -3635,6 +3787,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 33342,
+      "num": 338625,
+      "word": "杨梅怎么洗比较好",
+      "onboard_time": 1749304283,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 32590,
       "num": 722810,
       "word": "六六给荔节",
@@ -3657,6 +3817,14 @@
       "onboard_time": 1749234915,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 31479,
+      "num": 358586,
+      "word": "看姐姐成团夜出神图",
+      "onboard_time": 1749305664,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 30865,
@@ -3785,6 +3953,14 @@
       "onboard_time": 1749237315,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21736,
+      "num": 344647,
+      "word": "哈佛校长连发两封校内信披露进展",
+      "onboard_time": 1749305542,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21593,

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749303810405,
+  "endTime": 1749306170979,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1748746100,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 974862,
+      "num": 391919,
+      "word": "吴宣仪 全开麦",
+      "onboard_time": 1749303384,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 967332,
@@ -2627,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 590225,
+      "num": 363416,
+      "word": "长安的荔枝 搞笑",
+      "onboard_time": 1749303503,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588595,
       "num": 588595,
       "word": "哪吒婚礼开场",
@@ -3265,14 +3281,6 @@
       "onboard_time": 1749292520,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 491562,
-      "num": 368343,
-      "word": "吴宣仪 全开麦",
-      "onboard_time": 1749303384,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 491317,
@@ -4617,6 +4625,14 @@
       "onboard_time": 1749048262,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 364669,
+      "num": 364669,
+      "word": "王楚钦说孙颖莎有她成功的道理",
+      "onboard_time": 1749305302,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 364353,
@@ -6131,6 +6147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 278780,
+      "num": 278780,
+      "word": "皮皮朱说主播谈不了恋爱",
+      "onboard_time": 1749305783,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 278441,
       "num": 278441,
       "word": "曹骏郑合惠子cp感",
@@ -6699,6 +6723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254221,
+      "num": 254221,
+      "word": "谢娜回应了热搜",
+      "onboard_time": 1749305542,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254104,
       "num": 258783,
       "word": "尹正隔空跟冯小刚道歉",
@@ -6729,6 +6761,14 @@
       "onboard_time": 1749041062,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252335,
+      "num": 252335,
+      "word": "400位小米SU7车主调研报告",
+      "onboard_time": 1749304763,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 252325,
@@ -6875,6 +6915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246914,
+      "num": 246914,
+      "word": "勒布伦回应樊振东加盟德甲",
+      "onboard_time": 1749305062,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246577,
       "num": 246577,
       "word": "陈伟霆赞助九门组服",
@@ -6969,6 +7017,14 @@
       "onboard_time": 1748961564,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242943,
+      "num": 242943,
+      "word": "牛冠凯订婚了",
+      "onboard_time": 1749302963,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 242899,
@@ -7387,6 +7443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229402,
+      "num": 229402,
+      "word": "叶童赵雅芝拥抱",
+      "onboard_time": 1749304162,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229347,
       "num": 229347,
       "word": "李隼嫁女四大奥运乒乓冠军现身搂席",
@@ -7409,6 +7473,14 @@
       "onboard_time": 1749177739,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 228003,
+      "num": 228003,
+      "word": "法网决赛",
+      "onboard_time": 1749303984,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 227420,
@@ -7867,6 +7939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 217850,
+      "num": 359019,
+      "word": "数学老师体验高考预估能考140",
+      "onboard_time": 1749303441,
+      "rank": 22,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 217656,
       "num": 470428,
       "word": "高考第1天结束",
@@ -8075,6 +8155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212911,
+      "num": 212911,
+      "word": "姜云升 也难怪圈外人有刻板印象",
+      "onboard_time": 1749303863,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212855,
       "num": 278320,
       "word": "侯佩岑发文告别浪姐",
@@ -8179,6 +8267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211385,
+      "num": 211385,
+      "word": "林俊杰 台北站",
+      "onboard_time": 1749306145,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211284,
       "num": 211284,
       "word": "MRC对战FPXZQ",
@@ -8201,6 +8297,14 @@
       "onboard_time": 1749273741,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 211163,
+      "num": 211163,
+      "word": "萨巴伦卡vs高芙",
+      "onboard_time": 1749305244,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 211160,
@@ -8747,6 +8851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203312,
+      "num": 203312,
+      "word": "王楚钦真是人间清醒",
+      "onboard_time": 1749305123,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203190,
       "num": 494711,
       "word": "砖厂涉嫌用智障者务工负责人被控制",
@@ -8979,6 +9091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200224,
+      "num": 200224,
+      "word": "SNH48",
+      "onboard_time": 1749305123,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200203,
       "num": 200203,
       "word": "肖战夜游大雍又未寝",
@@ -9017,14 +9137,6 @@
       "onboard_time": 1749277641,
       "rank": 31,
       "category": "综艺,电影"
-    },
-    {
-      "raw_hot": 199249,
-      "num": 199249,
-      "word": "长安的荔枝 搞笑",
-      "onboard_time": 1749303503,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 199088,
@@ -9411,6 +9523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194196,
+      "num": 364189,
+      "word": "爱吃香蕉的美国人被关税战打蒙了",
+      "onboard_time": 1749304643,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 193925,
       "num": 193925,
       "word": "IG野辅 别越",
@@ -9611,6 +9731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191594,
+      "num": 200564,
+      "word": "林一 友谊第一比赛第七",
+      "onboard_time": 1749304884,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191495,
       "num": 191495,
       "word": "瑞典环保少女搭乘援助船前往加沙",
@@ -9691,12 +9819,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 190528,
+      "num": 190528,
+      "word": "董力的老底都快被儿子揭光了",
+      "onboard_time": 1749306145,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190427,
       "num": 222059,
       "word": "井胧说好的一起住怎么都搬家了",
       "onboard_time": 1748776881,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190364,
+      "num": 190364,
+      "word": "重温关晓彤高考采访太逗了",
+      "onboard_time": 1749306083,
+      "rank": 49,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 190183,
@@ -14193,14 +14337,6 @@
       "onboard_time": 1749296002,
       "rank": 35,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 138591,
-      "num": 359019,
-      "word": "数学老师体验高考预估能考140",
-      "onboard_time": 1749303441,
-      "rank": 22,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 138475,
@@ -18891,14 +19027,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93211,
-      "num": 206368,
-      "word": "牛冠凯订婚了",
-      "onboard_time": 1749302963,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93201,
       "num": 177816,
       "word": "金泽姜贞羽合作的含金量",
@@ -19121,6 +19249,14 @@
       "onboard_time": 1748826439,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89960,
+      "num": 211199,
+      "word": "认识铠理解铠爱上铠",
+      "onboard_time": 1749304044,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 89946,
@@ -19657,6 +19793,14 @@
       "onboard_time": 1749053899,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82658,
+      "num": 361279,
+      "word": "75岁董事长秀肌肉带货遭炮轰假药",
+      "onboard_time": 1749305423,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82322,
@@ -22979,6 +23123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35914,
+      "num": 352758,
+      "word": "蒋梦婕说嫉妒双丹组合",
+      "onboard_time": 1749305902,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35911,
       "num": 165727,
       "word": "搜狐极限探索者大会",
@@ -23211,6 +23363,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 33342,
+      "num": 338625,
+      "word": "杨梅怎么洗比较好",
+      "onboard_time": 1749304283,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 33178,
       "num": 81209,
       "word": "巴林vs沙特",
@@ -23409,6 +23569,14 @@
       "onboard_time": 1748847800,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 31479,
+      "num": 358586,
+      "word": "看姐姐成团夜出神图",
+      "onboard_time": 1749305664,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 31475,
@@ -24521,6 +24689,14 @@
       "onboard_time": 1749197421,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21736,
+      "num": 344647,
+      "word": "哈佛校长连发两封校内信披露进展",
+      "onboard_time": 1749305542,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21593,

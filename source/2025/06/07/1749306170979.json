@@ -1,0 +1,410 @@
+{
+  "runTime": 1749306170979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2804303,
+        "num": 2804303,
+        "word": "李晟团票数也太低了",
+        "onboard_time": 1749301944,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1775196,
+        "num": 1775196,
+        "word": "高考数学",
+        "onboard_time": 1749283282,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45363,
+        "num": 1423883,
+        "word": "一个学科一句为高考生加油",
+        "onboard_time": 1749302902,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1289549,
+        "num": 1289549,
+        "word": "浪姐成团夜",
+        "onboard_time": 1749294802,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669452,
+        "num": 669452,
+        "word": "新一卷数学大题 难",
+        "onboard_time": 1749288745,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 409693,
+        "num": 409693,
+        "word": "王楚钦你做到了",
+        "onboard_time": 1749295521,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 974862,
+        "num": 391919,
+        "word": "吴宣仪 全开麦",
+        "onboard_time": 1749303384,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680957,
+        "num": 388436,
+        "word": "侯佩岑 划水",
+        "onboard_time": 1749302065,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364669,
+        "num": 364669,
+        "word": "王楚钦说孙颖莎有她成功的道理",
+        "onboard_time": 1749305302,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194196,
+        "num": 364189,
+        "word": "爱吃香蕉的美国人被关税战打蒙了",
+        "onboard_time": 1749304643,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 980909,
+        "num": 363533,
+        "word": "韦神怎么附试卷上了",
+        "onboard_time": 1749292282,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 590225,
+        "num": 363416,
+        "word": "长安的荔枝 搞笑",
+        "onboard_time": 1749303503,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504256,
+        "num": 362750,
+        "word": "李晟团被做局了",
+        "onboard_time": 1749301883,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498537,
+        "num": 361867,
+        "word": "赵雅芝美得我不知天地为何物",
+        "onboard_time": 1749301583,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82658,
+        "num": 361279,
+        "word": "75岁董事长秀肌肉带货遭炮轰假药",
+        "onboard_time": 1749305423,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361152,
+        "num": 361152,
+        "word": "四代棉花娃娃",
+        "onboard_time": 1749300924,
+        "rank": 15,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 31479,
+        "num": 358586,
+        "word": "看姐姐成团夜出神图",
+        "onboard_time": 1749305664,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35914,
+        "num": 352758,
+        "word": "蒋梦婕说嫉妒双丹组合",
+        "onboard_time": 1749305902,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21736,
+        "num": 344647,
+        "word": "哈佛校长连发两封校内信披露进展",
+        "onboard_time": 1749305542,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33342,
+        "num": 338625,
+        "word": "杨梅怎么洗比较好",
+        "onboard_time": 1749304283,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 413692,
+        "num": 334595,
+        "word": "卡琳娜的婆婆来了",
+        "onboard_time": 1749299001,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329845,
+        "num": 329845,
+        "word": "高考作文",
+        "onboard_time": 1749264742,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 327063,
+        "num": 327063,
+        "word": "周诗雨宣布与丝芭解约",
+        "onboard_time": 1749299302,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305222,
+        "num": 305222,
+        "word": "牙医3年前预警韦东奕牙周危机成真",
+        "onboard_time": 1749288145,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278780,
+        "num": 278780,
+        "word": "皮皮朱说主播谈不了恋爱",
+        "onboard_time": 1749305783,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 268225,
+        "num": 268225,
+        "word": "广州高考生喊话樊振东出征三大赛",
+        "onboard_time": 1749300983,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259774,
+        "num": 259774,
+        "word": "庐州月",
+        "onboard_time": 1749302184,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254221,
+        "num": 254221,
+        "word": "谢娜回应了热搜",
+        "onboard_time": 1749305542,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252335,
+        "num": 252335,
+        "word": "400位小米SU7车主调研报告",
+        "onboard_time": 1749304763,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 249280,
+        "num": 249280,
+        "word": "全智贤老公炒币亏了150亿",
+        "onboard_time": 1749281120,
+        "rank": 29,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 246914,
+        "num": 246914,
+        "word": "勒布伦回应樊振东加盟德甲",
+        "onboard_time": 1749305062,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242943,
+        "num": 242943,
+        "word": "牛冠凯订婚了",
+        "onboard_time": 1749302963,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236349,
+        "num": 236349,
+        "word": "李艺彤亲友团 被跳过",
+        "onboard_time": 1749298823,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235730,
+        "num": 235730,
+        "word": "iG战胜WBG",
+        "onboard_time": 1749303022,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229402,
+        "num": 229402,
+        "word": "叶童赵雅芝拥抱",
+        "onboard_time": 1749304162,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228003,
+        "num": 228003,
+        "word": "法网决赛",
+        "onboard_time": 1749303984,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217850,
+        "num": 217850,
+        "word": "数学老师体验高考预估能考140",
+        "onboard_time": 1749303441,
+        "rank": 36,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 212911,
+        "num": 212911,
+        "word": "姜云升 也难怪圈外人有刻板印象",
+        "onboard_time": 1749303863,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211385,
+        "num": 211385,
+        "word": "林俊杰 台北站",
+        "onboard_time": 1749306145,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89960,
+        "num": 211199,
+        "word": "认识铠理解铠爱上铠",
+        "onboard_time": 1749304044,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 211163,
+        "num": 211163,
+        "word": "萨巴伦卡vs高芙",
+        "onboard_time": 1749305244,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209025,
+        "num": 209025,
+        "word": "谢娜舞台串烧好牛",
+        "onboard_time": 1749298882,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203966,
+        "num": 203966,
+        "word": "浪姐直播",
+        "onboard_time": 1749294443,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203312,
+        "num": 203312,
+        "word": "王楚钦真是人间清醒",
+        "onboard_time": 1749305123,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191594,
+        "num": 200564,
+        "word": "林一 友谊第一比赛第七",
+        "onboard_time": 1749304884,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200224,
+        "num": 200224,
+        "word": "SNH48",
+        "onboard_time": 1749305123,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194470,
+        "num": 194470,
+        "word": "肖战藏海传收官图",
+        "onboard_time": 1749301703,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190994,
+        "num": 190994,
+        "word": "高考数学难不难",
+        "onboard_time": 1749287786,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190528,
+        "num": 190528,
+        "word": "董力的老底都快被儿子揭光了",
+        "onboard_time": 1749306145,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190364,
+        "num": 190364,
+        "word": "重温关晓彤高考采访太逗了",
+        "onboard_time": 1749306083,
+        "rank": 49,
+        "category": "艺人,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#有责任有担当青春才会闪光#"
+    }
+  }
+}
