@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749368234245,
+  "endTime": 1749371437804,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -369,6 +369,14 @@
       "onboard_time": 1749312383,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1967021,
+      "num": 414447,
+      "word": "贾乃亮是黄圣依大学初恋",
+      "onboard_time": 1749369081,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1966637,
@@ -1659,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 844970,
+      "num": 844970,
+      "word": "益禾堂薄荷奶绿",
+      "onboard_time": 1749368900,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 843300,
       "num": 843300,
       "word": "小众但是很烧钱的爱好",
@@ -2249,6 +2265,14 @@
       "onboard_time": 1749044364,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 681596,
+      "num": 681596,
+      "word": "高考英语",
+      "onboard_time": 1749369980,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 678956,
@@ -2843,6 +2867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 589357,
+      "num": 589357,
+      "word": "王俊凯回复陈赫",
+      "onboard_time": 1749367221,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588595,
       "num": 588595,
       "word": "哪吒婚礼开场",
@@ -3116,7 +3148,7 @@
     },
     {
       "raw_hot": 549740,
-      "num": 353407,
+      "num": 380621,
       "word": "韦雪跟前任谈了9年",
       "onboard_time": 1749365541,
       "rank": 11,
@@ -4331,14 +4363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 416451,
-      "num": 329238,
-      "word": "王俊凯回复陈赫",
-      "onboard_time": 1749367221,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 414719,
       "num": 414719,
       "word": "早春晴朗 张晚意",
@@ -5156,7 +5180,7 @@
     },
     {
       "raw_hot": 357368,
-      "num": 357368,
+      "num": 397247,
       "word": "孙茜说肖战的戏演的是很好的",
       "onboard_time": 1749362840,
       "rank": 16,
@@ -6203,6 +6227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 298855,
+      "num": 298855,
+      "word": "美国加州街头变战场",
+      "onboard_time": 1749367880,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 298359,
       "num": 298359,
       "word": "樊振东说期待新挑战新环境新胜利",
@@ -6899,6 +6931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269253,
+      "num": 410862,
+      "word": "程潇妈妈的话让李嘉格释怀妈妈收彩礼",
+      "onboard_time": 1749366801,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269027,
       "num": 269027,
       "word": "严浩翔daddy级别",
@@ -7057,6 +7097,14 @@
       "onboard_time": 1749222744,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261670,
+      "num": 408545,
+      "word": "侯佩岑全英文宣扬浪姐精神",
+      "onboard_time": 1749370341,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 260910,
@@ -7235,6 +7283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256464,
+      "num": 401853,
+      "word": "沈阳飞上海客机起飞绕8圈后返航",
+      "onboard_time": 1749370040,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256136,
       "num": 237297,
       "word": "云合",
@@ -7249,6 +7305,14 @@
       "onboard_time": 1748733918,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255774,
+      "num": 255774,
+      "word": "四面佛开机",
+      "onboard_time": 1749367880,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 255559,
@@ -7371,14 +7435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251641,
-      "num": 185505,
-      "word": "程潇妈妈的话让李嘉格释怀妈妈收彩礼",
-      "onboard_time": 1749366801,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251573,
       "num": 300547,
       "word": "赵丽颖尹昉合照",
@@ -7457,6 +7513,14 @@
       "onboard_time": 1748933841,
       "rank": 9,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 248929,
+      "num": 423337,
+      "word": "800元瘦身咖啡成本1元",
+      "onboard_time": 1749367700,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248487,
@@ -8345,6 +8409,14 @@
       "onboard_time": 1749269666,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 223423,
+      "num": 420477,
+      "word": "让员工一天打卡6次不愿意就离职",
+      "onboard_time": 1749368060,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223103,
@@ -9473,6 +9545,14 @@
       "onboard_time": 1748824999,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205142,
+      "num": 205142,
+      "word": "游客被打事件泾县公安局多人被追责",
+      "onboard_time": 1749368001,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205084,
@@ -11187,6 +11267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185248,
+      "num": 185248,
+      "word": "亚朵集团回应近期争议",
+      "onboard_time": 1749370940,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184965,
       "num": 184965,
       "word": "十个勤天深圳站官宣",
@@ -11291,12 +11379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183930,
+      "num": 393602,
+      "word": "同学说你像马嘉祺你还真当真了",
+      "onboard_time": 1749368423,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183908,
       "num": 183908,
       "word": "成毅徐璐首次合作",
       "onboard_time": 1749107182,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183840,
+      "num": 222403,
+      "word": "王楚钦希望把大家团结在一起",
+      "onboard_time": 1749369322,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 183745,
@@ -11545,6 +11649,14 @@
       "onboard_time": 1748921001,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180457,
+      "num": 180457,
+      "word": "当我告诉自己买iPad是为了提高效率",
+      "onboard_time": 1749369500,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 180431,
@@ -13459,14 +13571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 158621,
-      "num": 158621,
-      "word": "四面佛开机",
-      "onboard_time": 1749367880,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158600,
       "num": 249531,
       "word": "殴打未成年人7名涉案人全部被抓",
@@ -14323,6 +14427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149658,
+      "num": 149658,
+      "word": "亚朵发布枕套事件说明",
+      "onboard_time": 1749371000,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149610,
       "num": 149610,
       "word": "严浩翔卷毛玫瑰衬衫",
@@ -14361,6 +14473,14 @@
       "onboard_time": 1749223104,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149176,
+      "num": 149176,
+      "word": "游客被围殴文旅局背锅不如严打暴行",
+      "onboard_time": 1749370520,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149138,
@@ -14521,14 +14641,6 @@
       "onboard_time": 1749356061,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 147725,
-      "num": 147725,
-      "word": "游客被打事件泾县公安局多人被追责",
-      "onboard_time": 1749368001,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147707,
@@ -14977,6 +15089,14 @@
       "onboard_time": 1749285202,
       "rank": 42,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 143901,
+      "num": 143901,
+      "word": "Capper和creamd置换的6年",
+      "onboard_time": 1749370761,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 143841,
@@ -16011,6 +16131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136270,
+      "num": 338741,
+      "word": "多名游客隔铁网薅老虎毛镇宅避邪",
+      "onboard_time": 1749367280,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136189,
       "num": 136189,
       "word": "旺中集团声明称台湾人就是中国人",
@@ -16211,6 +16339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 134836,
+      "num": 134836,
+      "word": "韦东奕未参加高考保送到北大",
+      "onboard_time": 1749369861,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 134791,
       "num": 213039,
       "word": "于正说临江仙集均打底6000",
@@ -16289,14 +16425,6 @@
       "onboard_time": 1748776400,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134323,
-      "num": 147417,
-      "word": "800元瘦身咖啡成本1元",
-      "onboard_time": 1749367700,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134311,
@@ -17203,14 +17331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126875,
-      "num": 126875,
-      "word": "让员工一天打卡6次不愿意就离职",
-      "onboard_time": 1749368060,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126806,
       "num": 126806,
       "word": "六月好运星座",
@@ -17745,6 +17865,14 @@
       "onboard_time": 1749122959,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 121817,
+      "num": 121817,
+      "word": "谁说内娱没有好的一镜到底",
+      "onboard_time": 1749371121,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 121630,
@@ -18755,6 +18883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112658,
+      "num": 112658,
+      "word": "央视镜头下的张新成",
+      "onboard_time": 1749371360,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112489,
       "num": 112489,
       "word": "建议女性每个月做一次乳房自检",
@@ -18825,6 +18961,14 @@
       "onboard_time": 1749361341,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111948,
+      "num": 111948,
+      "word": "严浩翔你也没放过黄子韬",
+      "onboard_time": 1749368239,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 111903,
@@ -18913,14 +19057,6 @@
       "onboard_time": 1748749821,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 111106,
-      "num": 338741,
-      "word": "多名游客隔铁网薅老虎毛镇宅避邪",
-      "onboard_time": 1749367280,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111065,
@@ -19177,6 +19313,14 @@
       "onboard_time": 1748863881,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108892,
+      "num": 121785,
+      "word": "比亚迪李云飞发文再次回应质疑",
+      "onboard_time": 1749370341,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 108882,
@@ -20673,6 +20817,14 @@
       "onboard_time": 1748846061,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94732,
+      "num": 388732,
+      "word": "贝克汉姆班味太浓了",
+      "onboard_time": 1749368782,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 94628,
@@ -22579,6 +22731,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 68544,
+      "num": 406135,
+      "word": "游客停车被围殴5天后等来道歉",
+      "onboard_time": 1749366261,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68530,
       "num": 71938,
       "word": "边界感是一个人很重要的修养",
@@ -22633,14 +22793,6 @@
       "onboard_time": 1748880440,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 67695,
-      "num": 344976,
-      "word": "游客停车被围殴5天后等来道歉",
-      "onboard_time": 1749366261,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67426,
@@ -22777,6 +22929,14 @@
       "onboard_time": 1749250817,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65260,
+      "num": 384591,
+      "word": "校方称安徽五胞胎有几个能冲一本",
+      "onboard_time": 1749369861,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65067,
@@ -23939,14 +24099,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 49664,
-      "num": 187378,
-      "word": "美国加州街头变战场",
-      "onboard_time": 1749367880,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 49654,
       "num": 49654,
       "word": "用0秒接受曾舜晞演吴老狗",
@@ -25049,6 +25201,14 @@
       "onboard_time": 1748955681,
       "rank": 29,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 37410,
+      "num": 303033,
+      "word": "微博电影之夜第四波阵容",
+      "onboard_time": 1749371000,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 37385,
@@ -27313,6 +27473,14 @@
       "onboard_time": 1749029720,
       "rank": 14,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 16450,
+      "num": 384112,
+      "word": "登革热和流感怎么区分",
+      "onboard_time": 1749369081,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16189,
