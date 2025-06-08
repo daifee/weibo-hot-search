@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749374735485,
+  "endTime": 1749375560355,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -707,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10433504,
+      "num": 10433504,
+      "word": "高考英语",
+      "onboard_time": 1749369980,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 10416594,
       "num": 11054501,
       "word": "贵州黔西游船侧翻事故约70人落水",
@@ -1337,14 +1345,6 @@
       "onboard_time": 1738577307,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5066940,
-      "num": 5066940,
-      "word": "高考英语",
-      "onboard_time": 1749369980,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 5050675,

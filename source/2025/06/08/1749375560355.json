@@ -1,0 +1,410 @@
+{
+  "runTime": 1749375560355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10433504,
+        "num": 10433504,
+        "word": "高考英语",
+        "onboard_time": 1749369980,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1392142,
+        "num": 1392142,
+        "word": "历史 高考顶流",
+        "onboard_time": 1749356241,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17849,
+        "num": 1341888,
+        "word": "9图看海洋治理的中国方案",
+        "onboard_time": 1749374722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1336581,
+        "num": 1336581,
+        "word": "高考英语作文",
+        "onboard_time": 1749373101,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 695199,
+        "num": 695199,
+        "word": "高考历史",
+        "onboard_time": 1749349820,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 692622,
+        "num": 692622,
+        "word": "益禾堂薄荷奶绿",
+        "onboard_time": 1749368900,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 621868,
+        "num": 621868,
+        "word": "高考日语",
+        "onboard_time": 1749374423,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 397890,
+        "num": 593296,
+        "word": "王俊凯回复陈赫",
+        "onboard_time": 1749367221,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310194,
+        "num": 568503,
+        "word": "侯佩岑全英文宣扬浪姐精神",
+        "onboard_time": 1749370341,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256778,
+        "num": 540944,
+        "word": "浙江一村40多户养了上百万条蛇",
+        "onboard_time": 1749374902,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1004676,
+        "num": 501653,
+        "word": "贾乃亮是黄圣依大学初恋",
+        "onboard_time": 1749369081,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 878404,
+        "num": 470679,
+        "word": "曝井柏然刘雯领证",
+        "onboard_time": 1749374841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458170,
+        "num": 458170,
+        "word": "新一卷英语难不难",
+        "onboard_time": 1749375023,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 392197,
+        "num": 392197,
+        "word": "樊振东马龙孙颖莎原声祝福",
+        "onboard_time": 1749372860,
+        "rank": 13,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 79732,
+        "num": 367480,
+        "word": "被摸腿脱口秀女演员发声",
+        "onboard_time": 1749374361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362531,
+        "num": 362531,
+        "word": "游客被打事件泾县公安局多人被追责",
+        "onboard_time": 1749368001,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279126,
+        "num": 362464,
+        "word": "00花撕拉片",
+        "onboard_time": 1749371540,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229075,
+        "num": 361842,
+        "word": "许佳琪是章子怡的心选妲己",
+        "onboard_time": 1749372740,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229030,
+        "num": 361380,
+        "word": "同学说你像马嘉祺你还真当真了",
+        "onboard_time": 1749368423,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18146,
+        "num": 360956,
+        "word": "怎样找到适合自己的输出型爱好",
+        "onboard_time": 1749373881,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 360757,
+        "num": 360757,
+        "word": "沈阳飞上海客机起飞绕8圈后返航",
+        "onboard_time": 1749370040,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333995,
+        "num": 333995,
+        "word": "游客被围殴文旅局背锅不如严打暴行",
+        "onboard_time": 1749370520,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267646,
+        "num": 267646,
+        "word": "美国加州街头变战场",
+        "onboard_time": 1749367880,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 241031,
+        "num": 241031,
+        "word": "国贸偶遇井柏然刘雯",
+        "onboard_time": 1749373402,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229645,
+        "num": 229645,
+        "word": "被摸腿女演员讲述从业初衷",
+        "onboard_time": 1749358461,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222368,
+        "num": 222368,
+        "word": "韦东奕未参加高考保送到北大",
+        "onboard_time": 1749369861,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214066,
+        "num": 222364,
+        "word": "原来饶雪漫全网找的是柯淳搭档",
+        "onboard_time": 1749374541,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94234,
+        "num": 222231,
+        "word": "比亚迪李云飞直面质疑",
+        "onboard_time": 1749372141,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175186,
+        "num": 222122,
+        "word": "四面佛开机",
+        "onboard_time": 1749367880,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162267,
+        "num": 222115,
+        "word": "浪姐奖杯 丑",
+        "onboard_time": 1749361040,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222032,
+        "num": 222032,
+        "word": "高考物理",
+        "onboard_time": 1749348800,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214393,
+        "num": 214393,
+        "word": "当我告诉自己买iPad是为了提高效率",
+        "onboard_time": 1749369500,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204410,
+        "num": 204410,
+        "word": "文科生赢过理科生",
+        "onboard_time": 1749354741,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202476,
+        "num": 202476,
+        "word": "让员工一天打卡6次不愿意就离职",
+        "onboard_time": 1749368060,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177439,
+        "num": 177439,
+        "word": "男子刷视频发现失踪半年妻子在结婚",
+        "onboard_time": 1749365241,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164302,
+        "num": 164302,
+        "word": "身体好的人肚子大多软软的",
+        "onboard_time": 1749361522,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162057,
+        "num": 162057,
+        "word": "韦雪跟前任谈了9年",
+        "onboard_time": 1749365541,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159562,
+        "num": 159562,
+        "word": "读后续写",
+        "onboard_time": 1749375322,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151254,
+        "num": 151254,
+        "word": "樊振东乒超赛前热身训练",
+        "onboard_time": 1749375082,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115983,
+        "num": 137594,
+        "word": "铠动画有哪些没看懂的细节",
+        "onboard_time": 1749374902,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136447,
+        "num": 136447,
+        "word": "苏晓彤代高政吻戏给我看傻了",
+        "onboard_time": 1749372919,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136162,
+        "num": 136162,
+        "word": "特朗普将向加州派遣两千国民警卫队",
+        "onboard_time": 1749355641,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132262,
+        "num": 132262,
+        "word": "王楚钦林孝埈潘展乐原声祝福",
+        "onboard_time": 1749374841,
+        "rank": 42,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 132239,
+        "num": 132239,
+        "word": "多地公布2025高考查分时间",
+        "onboard_time": 1749372682,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121283,
+        "num": 121283,
+        "word": "高考最大受益者出现了",
+        "onboard_time": 1749374181,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120612,
+        "num": 120612,
+        "word": "亚朵集团回应近期争议",
+        "onboard_time": 1749370940,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119201,
+        "num": 119201,
+        "word": "藏海传特别栏目",
+        "onboard_time": 1749375261,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114426,
+        "num": 114426,
+        "word": "成毅赴山海预约破400万海报",
+        "onboard_time": 1749373640,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114393,
+        "num": 114393,
+        "word": "高考倒计时365天",
+        "onboard_time": 1749372621,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112098,
+        "num": 112098,
+        "word": "男生第1个出考场狂拍家长",
+        "onboard_time": 1749372982,
+        "rank": 49,
+        "category": "民生新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设海洋强国总书记这样强调#"
+    }
+  }
+}
