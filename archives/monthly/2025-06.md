@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/08 22:40:36
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/08 23:27:27
 </p>
 </blockquote>
 <p>
@@ -257,6 +257,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%AD%A2%E6%AD%A5%E6%B3%95%E7%BD%918%E5%BC%BA%23" target="weibo">
 郑钦文止步法网8强（热度：2145663）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%8D%E9%98%B2%E6%99%92%E7%9A%84%E9%98%B2%E6%99%92%E8%A1%A3%23" target="weibo">
+央视曝光不防晒的防晒衣（热度：2102829）
 </a>
 </li>
 
@@ -3333,6 +3339,12 @@ iG战胜WBG（热度：440456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Labubu%E8%81%94%E5%90%8D%E6%AC%BE%E8%A2%AB%E7%82%92%E8%87%B32.8%E4%B8%87%23" target="weibo">
+Labubu联名款被炒至2.8万（热度：432471）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%9D%A6%E8%A8%80%E6%B8%B4%E6%9C%9B%E6%9C%89%E5%AE%8C%E6%95%B4%E5%AE%B6%E5%BA%AD%23" target="weibo">
 陈梦坦言渴望有完整家庭（热度：432200）
 </a>
@@ -3527,6 +3539,12 @@ iG战胜WBG（热度：440456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%9C%B0%E4%B8%8B%E5%AE%A4%E6%83%8A%E7%8E%B0%E5%A4%A7%E9%B1%BC%E6%B1%A0%23" target="weibo">
 北京一地下室惊现大鱼池（热度：407042）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%9F%A5%E5%8B%8B%E6%9A%82%E6%97%B6%E9%80%80%E5%87%BA%23" target="weibo">
+李知勋暂时退出（热度：406066）
 </a>
 </li>
 
@@ -4491,6 +4509,12 @@ WBG对战IG（热度：334714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%85%83%E6%9D%A8%E9%9B%A8%E6%BD%BC%E5%90%BB%E6%88%8F%23" target="weibo">
+张嘉元杨雨潼吻戏（热度：334482）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%9B%B4%E6%AE%B4%E6%96%87%E6%97%85%E5%B1%80%E8%83%8C%E9%94%85%E4%B8%8D%E5%A6%82%E4%B8%A5%E6%89%93%E6%9A%B4%E8%A1%8C%23" target="weibo">
 游客被围殴文旅局背锅不如严打暴行（热度：333995）
 </a>
@@ -4817,12 +4841,6 @@ JDG对战TTG（热度：324205）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%23" target="weibo">
 种地吧（热度：311162）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%85%83%E6%9D%A8%E9%9B%A8%E6%BD%BC%E5%90%BB%E6%88%8F%23" target="weibo">
-张嘉元杨雨潼吻戏（热度：310938）
 </a>
 </li>
 
@@ -5297,6 +5315,12 @@ VOGUE直播（热度：299123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%20%E7%AE%80%E9%99%8B%23" target="weibo">
 浪姐 简陋（热度：283066）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23JackeyLove%E8%B5%9B%E5%90%8E%E8%87%B4%E6%AD%89%23" target="weibo">
+JackeyLove赛后致歉（热度：282026）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ Meiko 菜（热度：252780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AAins%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%AD%8C%E6%89%8B%23" target="weibo">
 范玮琪ins回应上歌手（热度：250130）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%BB%E7%95%99%E5%AD%A6%23" target="weibo">
-杨天真为什么去留学（热度：250089）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232025%E4%B9%92%E8%B6%85%E8%81%94%E8%B5%9B%23" target="weibo">
-2025乒超联赛（热度：250060）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%9C%A8%E4%B8%89%E4%BA%9A%E8%A2%AB%E6%AF%92%E8%9B%87%E5%92%AC%E4%BC%A4%E8%BA%AB%E4%BA%A1%23" target="weibo">
-卫健局回应女子在三亚被毒蛇咬伤身亡（热度：249914）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%97%8F%E9%95%BF%E5%8F%91%E8%AF%9D%E4%BA%86%23" target="weibo">
-王俊凯族长发话了（热度：249863）
 </a>
 </li>
 

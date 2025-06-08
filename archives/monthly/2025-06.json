@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749393636361,
+  "endTime": 1749396447339,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -329,6 +329,14 @@
       "onboard_time": 1748949441,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2102829,
+      "num": 2102829,
+      "word": "央视曝光不防晒的防晒衣",
+      "onboard_time": 1749395063,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2085610,
@@ -4427,6 +4435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 432471,
+      "num": 432471,
+      "word": "Labubu联名款被炒至2.8万",
+      "onboard_time": 1749393983,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 432200,
       "num": 432200,
       "word": "陈梦坦言渴望有完整家庭",
@@ -4689,6 +4705,14 @@
       "onboard_time": 1749342558,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406066,
+      "num": 406066,
+      "word": "李知勋暂时退出",
+      "onboard_time": 1749395783,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 405400,
@@ -5971,6 +5995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 334482,
+      "num": 334482,
+      "word": "张嘉元杨雨潼吻戏",
+      "onboard_time": 1749392123,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333995,
       "num": 525596,
       "word": "游客被围殴文旅局背锅不如严打暴行",
@@ -6408,14 +6440,6 @@
       "word": "种地吧",
       "onboard_time": 1749117262,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 310938,
-      "num": 310938,
-      "word": "张嘉元杨雨潼吻戏",
-      "onboard_time": 1749392123,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -7049,6 +7073,14 @@
       "onboard_time": 1749188121,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282026,
+      "num": 282026,
+      "word": "JackeyLove赛后致歉",
+      "onboard_time": 1749394703,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 281886,
@@ -9651,6 +9683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211148,
+      "num": 287006,
+      "word": "突然间明白了追星的意义",
+      "onboard_time": 1749395963,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211102,
       "num": 399141,
       "word": "江苏景区预订暴涨超300%",
@@ -9921,6 +9961,14 @@
       "onboard_time": 1748743460,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206933,
+      "num": 413443,
+      "word": "印甘蔗女工担心月经影响工作摘除子宫",
+      "onboard_time": 1749395182,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 206794,
@@ -10307,6 +10355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203140,
+      "num": 284702,
+      "word": "权志龙唱月亮代表我的心",
+      "onboard_time": 1749395543,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203052,
       "num": 203052,
       "word": "张凌赫胶片",
@@ -10657,6 +10713,14 @@
       "onboard_time": 1748706320,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198830,
+      "num": 198830,
+      "word": "TES郭浩",
+      "onboard_time": 1749394763,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 198639,
@@ -11395,6 +11459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190262,
+      "num": 190262,
+      "word": "桃子是一种很善良的水果",
+      "onboard_time": 1749395063,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190183,
       "num": 190183,
       "word": "藏海传会有第二部吗",
@@ -11665,6 +11737,14 @@
       "onboard_time": 1749260661,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187884,
+      "num": 187884,
+      "word": "折腰卫视收视率第一",
+      "onboard_time": 1749395303,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 187720,
@@ -13827,6 +13907,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 164333,
+      "num": 164333,
+      "word": "强烈建议明天提前出门",
+      "onboard_time": 1749395182,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164312,
       "num": 164312,
       "word": "易烊千玺以石问心",
@@ -14243,6 +14331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160030,
+      "num": 160030,
+      "word": "WE晋级败者组半决赛",
+      "onboard_time": 1749395543,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160024,
       "num": 154472,
       "word": "肖战演藏海是剧方最明智的选择",
@@ -14508,7 +14604,7 @@
     },
     {
       "raw_hot": 157150,
-      "num": 157150,
+      "num": 188063,
       "word": "董倩回忆第一次见王楚钦",
       "onboard_time": 1749391524,
       "rank": 49,
@@ -15035,6 +15131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152441,
+      "num": 416231,
+      "word": "三无防晒衣一年卖出超30万件",
+      "onboard_time": 1749395362,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152322,
       "num": 152322,
       "word": "蔡徐坤金发直拍",
@@ -15427,6 +15531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 148205,
+      "num": 148205,
+      "word": "原来这就是天然味精",
+      "onboard_time": 1749396142,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148102,
       "num": 148102,
       "word": "十个勤天演唱会抢票",
@@ -15553,6 +15665,14 @@
       "onboard_time": 1749119900,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147221,
+      "num": 147221,
+      "word": "近视手术并不是治好了近视眼",
+      "onboard_time": 1749395182,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 147116,
@@ -15920,6 +16040,14 @@
       "word": "医生称被蛇咬后拍照有助于辨认救治",
       "onboard_time": 1749112702,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144356,
+      "num": 282162,
+      "word": "消防员帮考生剪断手镯",
+      "onboard_time": 1749394882,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -18433,6 +18561,14 @@
       "onboard_time": 1749035001,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 125489,
+      "num": 284078,
+      "word": "江西回应投资3.5亿博物馆闲置2年",
+      "onboard_time": 1749396323,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125407,
@@ -24555,6 +24691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58711,
+      "num": 292092,
+      "word": "特朗普为啥和加州过不去",
+      "onboard_time": 1749395002,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 58675,
       "num": 290745,
       "word": "高考关键事项清单",
@@ -26553,6 +26697,14 @@
       "onboard_time": 1748932940,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36894,
+      "num": 188713,
+      "word": "洛杉矶警察局发表声明",
+      "onboard_time": 1749395844,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 36887,
@@ -29041,6 +29193,14 @@
       "onboard_time": 1749153494,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13857,
+      "num": 296380,
+      "word": "labubu能有多少装扮",
+      "onboard_time": 1749395543,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 13811,
