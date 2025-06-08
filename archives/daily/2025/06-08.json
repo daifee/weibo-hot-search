@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749378356555,
+  "endTime": 1749379441384,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -112,6 +112,14 @@
       "word": "文科生赢过理科生",
       "onboard_time": 1749354741,
       "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1248150,
+      "num": 1248150,
+      "word": "afternoon怎么变形",
+      "onboard_time": 1749377061,
+      "rank": 5,
       "category": "教育"
     },
     {
@@ -267,20 +275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 573591,
+      "num": 573591,
+      "word": "李马克 北京卷",
+      "onboard_time": 1749377422,
+      "rank": 8,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 566569,
       "num": 566569,
       "word": "男子刷视频发现失踪半年妻子在结婚",
       "onboard_time": 1749365241,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 561642,
-      "num": 561642,
-      "word": "afternoon怎么变形",
-      "onboard_time": 1749377061,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 561574,
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 398287,
+      "num": 550468,
+      "word": "网传赴山海找了杨肸子换脸",
+      "onboard_time": 1749376282,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396154,
       "num": 360418,
       "word": "王珞丹成团",
@@ -459,22 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 376972,
-      "num": 550468,
-      "word": "网传赴山海找了杨肸子换脸",
-      "onboard_time": 1749376282,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 373245,
-      "num": 535722,
-      "word": "李马克 北京卷",
-      "onboard_time": 1749377422,
-      "rank": 8,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 365518,
       "num": 365518,
       "word": "高考",
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362335,
+      "num": 362335,
+      "word": "英语听力像个rapper",
+      "onboard_time": 1749377183,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 361649,
       "num": 361649,
       "word": "历史出道五千年 考久一",
@@ -513,6 +521,14 @@
       "onboard_time": 1749347901,
       "rank": 24,
       "category": "网红,剧集"
+    },
+    {
+      "raw_hot": 358051,
+      "num": 358051,
+      "word": "完形填空给我道歉",
+      "onboard_time": 1749376642,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 357368,
@@ -563,12 +579,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 340424,
-      "num": 262304,
-      "word": "完形填空给我道歉",
-      "onboard_time": 1749376642,
-      "rank": 20,
-      "category": "教育"
+      "raw_hot": 340286,
+      "num": 340286,
+      "word": "考生仅剩12分钟就要错过高考",
+      "onboard_time": 1749378081,
+      "rank": 27,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 333995,
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 298573,
-      "num": 298573,
+      "num": 370716,
       "word": "黄圣依向往进入下一段婚姻",
       "onboard_time": 1749376043,
       "rank": 15,
@@ -769,14 +785,6 @@
       "onboard_time": 1749319816,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260249,
-      "num": 260249,
-      "word": "英语听力像个rapper",
-      "onboard_time": 1749377183,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 260129,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 214066,
-      "num": 296254,
+      "num": 364532,
       "word": "原来饶雪漫全网找的是柯淳搭档",
       "onboard_time": 1749374541,
       "rank": 38,
@@ -987,12 +995,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207771,
+      "num": 368550,
+      "word": "虞书欣收藏牵手视频",
+      "onboard_time": 1749379282,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206742,
       "num": 206742,
       "word": "蔡徐坤Deadman",
       "onboard_time": 1749359421,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206281,
+      "num": 367020,
+      "word": "何瑞贤新剧是白鹿梦女",
+      "onboard_time": 1749378682,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205992,
+      "num": 434082,
+      "word": "花5000多找收纳师效果一言难尽",
+      "onboard_time": 1749375861,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205775,
@@ -1035,6 +1067,14 @@
       "category": "剧集,游戏"
     },
     {
+      "raw_hot": 197885,
+      "num": 197885,
+      "word": "仙逆",
+      "onboard_time": 1749378742,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 196585,
       "num": 247786,
       "word": "成毅赴山海预约破400万海报",
@@ -1057,14 +1097,6 @@
       "onboard_time": 1749288745,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 193802,
-      "num": 193802,
-      "word": "考生仅剩12分钟就要错过高考",
-      "onboard_time": 1749378081,
-      "rank": 27,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 193000,
@@ -1107,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189157,
+      "num": 189157,
+      "word": "高考几天",
+      "onboard_time": 1749378622,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 187691,
       "num": 187691,
       "word": "王勉过的全是我羡慕的生活",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1749367339,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186828,
+      "num": 186828,
+      "word": "被英语做局了",
+      "onboard_time": 1749377301,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 186386,
@@ -1171,6 +1219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185008,
+      "num": 185008,
+      "word": "TES对战WE",
+      "onboard_time": 1749379042,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183840,
       "num": 222403,
       "word": "王楚钦希望把大家团结在一起",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1749339378,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176397,
+      "num": 176397,
+      "word": "武艺你看清楚这不是录综艺",
+      "onboard_time": 1749378801,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 174291,
@@ -1395,14 +1459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164932,
-      "num": 164932,
-      "word": "花5000多找收纳师效果一言难尽",
-      "onboard_time": 1749375861,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164847,
       "num": 164847,
       "word": "魏大勋把草原沙漠洞窟去了个遍",
@@ -1529,14 +1585,6 @@
       "onboard_time": 1749355221,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157854,
-      "num": 157854,
-      "word": "被英语做局了",
-      "onboard_time": 1749377301,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 157290,
@@ -1947,6 +1995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131128,
+      "num": 131128,
+      "word": "对吴宣仪翟潇闻他又争又抢",
+      "onboard_time": 1749379282,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130631,
       "num": 130631,
       "word": "洪尧演上了薛芳菲的前夫哥",
@@ -2123,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119175,
+      "num": 134355,
+      "word": "今屿大司命好C",
+      "onboard_time": 1749378801,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119108,
       "num": 119108,
       "word": "五代小米Ultra都升级了什么",
@@ -2169,6 +2233,14 @@
       "onboard_time": 1749374902,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 115919,
+      "num": 115919,
+      "word": "周扬青阿娇吴艳妮合照",
+      "onboard_time": 1749379162,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 115369,
@@ -2315,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104028,
+      "num": 280597,
+      "word": "威胁拍天坑垃圾要打村支书被停职",
+      "onboard_time": 1749377301,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103969,
       "num": 103969,
       "word": "苏州打雷",
@@ -2395,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93930,
+      "num": 362791,
+      "word": "许昌某超市要被这车搬空了",
+      "onboard_time": 1749378081,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92607,
       "num": 322204,
       "word": "野生大熊猫用爪子给红外相机擦镜头",
@@ -2419,28 +2507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86880,
-      "num": 194346,
-      "word": "许昌某超市要被这车搬空了",
-      "onboard_time": 1749378081,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86615,
       "num": 86615,
       "word": "陷入我们的热恋制片人回应",
       "onboard_time": 1749315560,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85649,
-      "num": 280597,
-      "word": "威胁拍天坑垃圾要打村支书被停职",
-      "onboard_time": 1749377301,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79732,
@@ -2667,6 +2739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42825,
+      "num": 371945,
+      "word": "长沙一高校宿舍积水学生称两年三淹",
+      "onboard_time": 1749378502,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42611,
       "num": 356762,
       "word": "特朗普与马斯克的翻脸时间线",
@@ -2747,7 +2827,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 32202,
+      "raw_hot": 32227,
       "num": 1558138,
       "word": "9图看海洋治理的中国方案",
       "onboard_time": 1749374722,

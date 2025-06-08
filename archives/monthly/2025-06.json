@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749378356555,
+  "endTime": 1749379441384,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -905,6 +905,14 @@
       "onboard_time": 1748843300,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1248150,
+      "num": 1248150,
+      "word": "afternoon怎么变形",
+      "onboard_time": 1749377061,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 1241877,
@@ -3051,6 +3059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573591,
+      "num": 573591,
+      "word": "李马克 北京卷",
+      "onboard_time": 1749377422,
+      "rank": 8,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 571992,
       "num": 571992,
       "word": "刘医生返乡记 肖战",
@@ -3105,14 +3121,6 @@
       "onboard_time": 1749047122,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 561642,
-      "num": 561642,
-      "word": "afternoon怎么变形",
-      "onboard_time": 1749377061,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 561574,
@@ -4611,6 +4619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398287,
+      "num": 550468,
+      "word": "网传赴山海找了杨肸子换脸",
+      "onboard_time": 1749376282,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396550,
       "num": 435517,
       "word": "歌手2025总监回应马嘉祺晋级争议",
@@ -4931,14 +4947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376972,
-      "num": 550468,
-      "word": "网传赴山海找了杨肸子换脸",
-      "onboard_time": 1749376282,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 376953,
       "num": 362958,
       "word": "韩国小孩是珍稀动物怎么还能弄丢",
@@ -5041,14 +5049,6 @@
       "onboard_time": 1749198321,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373245,
-      "num": 535722,
-      "word": "李马克 北京卷",
-      "onboard_time": 1749377422,
-      "rank": 8,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 373023,
@@ -5171,6 +5171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362335,
+      "num": 362335,
+      "word": "英语听力像个rapper",
+      "onboard_time": 1749377183,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 362150,
       "num": 362150,
       "word": "男子喝3斤白酒开智驾上高速",
@@ -5265,6 +5273,14 @@
       "onboard_time": 1749195381,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358051,
+      "num": 358051,
+      "word": "完形填空给我道歉",
+      "onboard_time": 1749376642,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 357806,
@@ -5603,12 +5619,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 340424,
-      "num": 262304,
-      "word": "完形填空给我道歉",
-      "onboard_time": 1749376642,
-      "rank": 20,
-      "category": "教育"
+      "raw_hot": 340286,
+      "num": 340286,
+      "word": "考生仅剩12分钟就要错过高考",
+      "onboard_time": 1749378081,
+      "rank": 27,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 339821,
@@ -6364,7 +6380,7 @@
     },
     {
       "raw_hot": 298573,
-      "num": 298573,
+      "num": 370716,
       "word": "黄圣依向往进入下一段婚姻",
       "onboard_time": 1749376043,
       "rank": 15,
@@ -7281,14 +7297,6 @@
       "onboard_time": 1749255321,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 260249,
-      "num": 260249,
-      "word": "英语听力像个rapper",
-      "onboard_time": 1749377183,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 260129,
@@ -9092,7 +9100,7 @@
     },
     {
       "raw_hot": 214066,
-      "num": 296254,
+      "num": 364532,
       "word": "原来饶雪漫全网找的是柯淳搭档",
       "onboard_time": 1749374541,
       "rank": 38,
@@ -9499,6 +9507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207771,
+      "num": 368550,
+      "word": "虞书欣收藏牵手视频",
+      "onboard_time": 1749379282,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207763,
       "num": 207763,
       "word": "高考作文 难写",
@@ -9611,6 +9627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206281,
+      "num": 367020,
+      "word": "何瑞贤新剧是白鹿梦女",
+      "onboard_time": 1749378682,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206114,
       "num": 206114,
       "word": "肖战藏海传第三周追剧日历",
@@ -9641,6 +9665,14 @@
       "onboard_time": 1748783781,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205992,
+      "num": 434082,
+      "word": "花5000多找收纳师效果一言难尽",
+      "onboard_time": 1749375861,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205955,
@@ -10275,6 +10307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197885,
+      "num": 197885,
+      "word": "仙逆",
+      "onboard_time": 1748775200,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 197844,
       "num": 378337,
       "word": "西藏丁青县山体滑坡3死7失联",
@@ -10609,14 +10649,6 @@
       "onboard_time": 1748777179,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 193802,
-      "num": 193802,
-      "word": "考生仅剩12分钟就要错过高考",
-      "onboard_time": 1749378081,
-      "rank": 27,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 193746,
@@ -11083,6 +11115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189157,
+      "num": 189157,
+      "word": "高考几天",
+      "onboard_time": 1749378622,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 189106,
       "num": 189106,
       "word": "吉利高管痛批争当卷王以卷为荣",
@@ -11299,6 +11339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 186828,
+      "num": 186828,
+      "word": "被英语做局了",
+      "onboard_time": 1749377301,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186809,
       "num": 186809,
       "word": "黄金昨夜大跌",
@@ -11481,6 +11529,14 @@
       "onboard_time": 1748910201,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 185008,
+      "num": 185008,
+      "word": "TES对战WE",
+      "onboard_time": 1749379042,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 184965,
@@ -12112,6 +12168,14 @@
       "word": "宋威龙笑脸baby冷脸daddy",
       "onboard_time": 1748784561,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 176397,
+      "num": 176397,
+      "word": "武艺你看清楚这不是录综艺",
+      "onboard_time": 1749378801,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -13179,14 +13243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164932,
-      "num": 164932,
-      "word": "花5000多找收纳师效果一言难尽",
-      "onboard_time": 1749375861,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164847,
       "num": 164847,
       "word": "魏大勋把草原沙漠洞窟去了个遍",
@@ -13523,14 +13579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161138,
-      "num": 161138,
-      "word": "仙逆",
-      "onboard_time": 1748775200,
-      "rank": 19,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 161038,
       "num": 161038,
       "word": "苏超南京队上强度了",
@@ -13857,14 +13905,6 @@
       "onboard_time": 1748860701,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 157854,
-      "num": 157854,
-      "word": "被英语做局了",
-      "onboard_time": 1749377301,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 157699,
@@ -17131,6 +17171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131128,
+      "num": 131128,
+      "word": "对吴宣仪翟潇闻他又争又抢",
+      "onboard_time": 1749379282,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131058,
       "num": 131058,
       "word": "这可能是今年最硬核的招生广告",
@@ -18507,6 +18555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119175,
+      "num": 134355,
+      "word": "今屿大司命好C",
+      "onboard_time": 1749378801,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119108,
       "num": 119108,
       "word": "五代小米Ultra都升级了什么",
@@ -18881,6 +18937,14 @@
       "onboard_time": 1749374902,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 115919,
+      "num": 115919,
+      "word": "周扬青阿娇吴艳妮合照",
+      "onboard_time": 1749379162,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 115878,
@@ -20203,6 +20267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104028,
+      "num": 280597,
+      "word": "威胁拍天坑垃圾要打村支书被停职",
+      "onboard_time": 1749377301,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103981,
       "num": 109046,
       "word": "皮筋猴男团出道曲皮筋斩棘",
@@ -21267,6 +21339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93930,
+      "num": 362791,
+      "word": "许昌某超市要被这车搬空了",
+      "onboard_time": 1749378081,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93916,
       "num": 93916,
       "word": "剧播两年又被肖战笑容暖到了",
@@ -21875,14 +21955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86880,
-      "num": 194346,
-      "word": "许昌某超市要被这车搬空了",
-      "onboard_time": 1749378081,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86730,
       "num": 86730,
       "word": "守护甜心帅哥月咏几斗",
@@ -21961,14 +22033,6 @@
       "onboard_time": 1748794580,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 85649,
-      "num": 280597,
-      "word": "威胁拍天坑垃圾要打村支书被停职",
-      "onboard_time": 1749377301,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85602,
@@ -25115,6 +25179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42825,
+      "num": 371945,
+      "word": "长沙一高校宿舍积水学生称两年三淹",
+      "onboard_time": 1749378502,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42696,
       "num": 45600,
       "word": "端午假期预计6.57亿人次跨区域流动",
@@ -26171,20 +26243,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 32227,
+      "num": 1558138,
+      "word": "9图看海洋治理的中国方案",
+      "onboard_time": 1749374722,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32214,
       "num": 39703,
       "word": "面试中要戒掉弱者气息",
       "onboard_time": 1749057437,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 32202,
-      "num": 1558138,
-      "word": "9图看海洋治理的中国方案",
-      "onboard_time": 1749374722,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32192,
