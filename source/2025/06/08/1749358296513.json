@@ -1,0 +1,410 @@
+{
+  "runTime": 1749358296513,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7744434,
+        "num": 7744434,
+        "word": "高考历史",
+        "onboard_time": 1749349820,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1818910,
+        "num": 1818910,
+        "word": "高考物理",
+        "onboard_time": 1749348800,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32243,
+        "num": 826218,
+        "word": "我国服务贸易跑出加速度",
+        "onboard_time": 1749356781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 764825,
+        "num": 764825,
+        "word": "领衔主演关晓彤李昀锐",
+        "onboard_time": 1749348201,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 756237,
+        "num": 756237,
+        "word": "文科生赢过理科生",
+        "onboard_time": 1749354741,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 656270,
+        "num": 656270,
+        "word": "马嘉祺歌手 唱王源的歌",
+        "onboard_time": 1749353182,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419806,
+        "num": 419806,
+        "word": "浪姐成团名单",
+        "onboard_time": 1749313102,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356132,
+        "num": 356132,
+        "word": "垫底辣孩cos藏海",
+        "onboard_time": 1749347901,
+        "rank": 7,
+        "category": "网红,剧集"
+      },
+      {
+        "raw_hot": 342511,
+        "num": 342511,
+        "word": "高考历史文言文",
+        "onboard_time": 1749351620,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177984,
+        "num": 341147,
+        "word": "曝马斯克与美财长曾在白宫大打出手",
+        "onboard_time": 1749353781,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 817844,
+        "num": 338529,
+        "word": "我的物理成为了我的败笔",
+        "onboard_time": 1749352040,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 470172,
+        "num": 337605,
+        "word": "韦东奕严选账号已改名",
+        "onboard_time": 1749312383,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653252,
+        "num": 336018,
+        "word": "历史给我道歉",
+        "onboard_time": 1749351201,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 65905,
+        "num": 332791,
+        "word": "宣纸的诞生竟充满诗意",
+        "onboard_time": 1749355521,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43208,
+        "num": 332222,
+        "word": "花1169元买3瓶减肥药吃进了医院",
+        "onboard_time": 1749357080,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369235,
+        "num": 328675,
+        "word": "考生开考前25分钟因锁故障被困家中",
+        "onboard_time": 1749346700,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328502,
+        "num": 328502,
+        "word": "北京一地下室惊现大鱼池",
+        "onboard_time": 1749342558,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267453,
+        "num": 267453,
+        "word": "历史 高考顶流",
+        "onboard_time": 1749356241,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209550,
+        "num": 243701,
+        "word": "李晟回应只成团2人",
+        "onboard_time": 1749345740,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185719,
+        "num": 226541,
+        "word": "新说唱2025热度破9300",
+        "onboard_time": 1749357622,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283894,
+        "num": 226445,
+        "word": "谁家古风小生出的试卷",
+        "onboard_time": 1749352761,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220740,
+        "num": 220740,
+        "word": "四川历史难死了",
+        "onboard_time": 1749355101,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262952,
+        "num": 220562,
+        "word": "被高考历史做局了",
+        "onboard_time": 1749351921,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218683,
+        "num": 218683,
+        "word": "樊振东许昕同框",
+        "onboard_time": 1749356542,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208232,
+        "num": 208232,
+        "word": "文科生站起来了",
+        "onboard_time": 1749356781,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207492,
+        "num": 207492,
+        "word": "王楚钦回应19岁摔拍子",
+        "onboard_time": 1749350120,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193311,
+        "num": 193311,
+        "word": "历史出道五千年 考久一",
+        "onboard_time": 1749356961,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192017,
+        "num": 192017,
+        "word": "高考历史力压高考物理",
+        "onboard_time": 1749356061,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156967,
+        "num": 185812,
+        "word": "严浩翔rapeter帅哥间的惺惺相惜",
+        "onboard_time": 1749355820,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149109,
+        "num": 185795,
+        "word": "喻言 韩红夸你呢",
+        "onboard_time": 1749356660,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140742,
+        "num": 185789,
+        "word": "临江仙的伏笔像线面一样繁殖了",
+        "onboard_time": 1749356900,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185787,
+        "num": 185787,
+        "word": "文科生动了谁的蛋糕",
+        "onboard_time": 1749356121,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176866,
+        "num": 176866,
+        "word": "23岁女健身教练身上紫纹越长越多",
+        "onboard_time": 1749346640,
+        "rank": 32,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 162755,
+        "num": 162755,
+        "word": "救女童大爷被威胁后求购护家狗",
+        "onboard_time": 1749356301,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153731,
+        "num": 158239,
+        "word": "何瑞贤新剧邪恶紫水晶",
+        "onboard_time": 1749357561,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131220,
+        "num": 157730,
+        "word": "王一博又双叒解锁新技能",
+        "onboard_time": 1749352340,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157474,
+        "num": 157474,
+        "word": "高考",
+        "onboard_time": 1749338176,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156796,
+        "num": 156796,
+        "word": "特朗普将向加州派遣两千国民警卫队",
+        "onboard_time": 1749355641,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150196,
+        "num": 150196,
+        "word": "韦东奕曾回应什么样的孩子适合学数学",
+        "onboard_time": 1749353421,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143727,
+        "num": 143727,
+        "word": "李青月骗我就骗我了",
+        "onboard_time": 1749357740,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142825,
+        "num": 142825,
+        "word": "耀眼官宣",
+        "onboard_time": 1749355943,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141386,
+        "num": 141386,
+        "word": "宋威龙带着现代剧杀回来了",
+        "onboard_time": 1749358101,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140883,
+        "num": 140883,
+        "word": "新说唱2025",
+        "onboard_time": 1749357981,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131134,
+        "num": 131134,
+        "word": "侯佩岑在线找工作",
+        "onboard_time": 1749349519,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130401,
+        "num": 130401,
+        "word": "广东历史",
+        "onboard_time": 1749355221,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124253,
+        "num": 124253,
+        "word": "四川一社区被指发种子要艾滋病筛查",
+        "onboard_time": 1749357561,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123711,
+        "num": 123711,
+        "word": "高考陪考家长们也被关心着",
+        "onboard_time": 1749358160,
+        "rank": 46,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 120515,
+        "num": 120515,
+        "word": "美国洛杉矶发生警民冲突",
+        "onboard_time": 1749355641,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119108,
+        "num": 119108,
+        "word": "五代小米Ultra都升级了什么",
+        "onboard_time": 1749358280,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119042,
+        "num": 119042,
+        "word": "新说唱热度",
+        "onboard_time": 1749358221,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让勤奋学习成为青春远航的动力#"
+    }
+  }
+}

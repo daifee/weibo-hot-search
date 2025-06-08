@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/08 12:36:07
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/08 12:51:36
 </p>
 </blockquote>
 <p>
@@ -1455,6 +1455,12 @@ aespa回归预告（热度：882775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%94%9F%E8%B5%A2%E8%BF%87%E7%90%86%E7%A7%91%E7%94%9F%23" target="weibo">
+文科生赢过理科生（热度：756237）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2340%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%9F%93%E5%8F%91%E5%85%BB%E4%BA%8616%E4%B8%AA%E6%9C%88%E7%9A%84%E7%99%BD%E5%8F%91%23" target="weibo">
 40岁女子不染发养了16个月的白发（热度：752538）
 </a>
@@ -1919,12 +1925,6 @@ labubu牙套（热度：696332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%A5%B3%E5%AD%A9%E4%B9%98%E6%BB%91%E7%BF%94%E4%BC%9E%E7%96%91%E7%AA%81%E5%8F%91%E6%81%90%E6%85%8C%E5%9D%A0%E4%BA%A1%23" target="weibo">
 塞尔维亚女孩乘滑翔伞疑突发恐慌坠亡（热度：621751）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%94%9F%E8%B5%A2%E8%BF%87%E7%90%86%E7%A7%91%E7%94%9F%23" target="weibo">
-文科生赢过理科生（热度：621406）
 </a>
 </li>
 
@@ -3843,6 +3843,12 @@ Sunnee母亲病重（热度：357759）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9cos%E8%97%8F%E6%B5%B7%23" target="weibo">
+垫底辣孩cos藏海（热度：356132）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%94%AF%E4%B8%80%E7%9C%9F%E5%8D%97%E5%93%A5%E4%B9%8B%E4%BA%89%E5%B7%B2%E7%99%BD%E7%83%AD%E5%8C%96%23" target="weibo">
 江苏唯一真南哥之争已白热化（热度：356081）
 </a>
@@ -4671,12 +4677,6 @@ VOGUE直播（热度：299123）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9cos%E8%97%8F%E6%B5%B7%23" target="weibo">
-垫底辣孩cos藏海（热度：291880）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E5%BE%81%E5%A9%9A%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%BE%AE%E4%BF%A1%E8%A2%AB%E5%8A%A0%E7%88%86%23" target="weibo">
 龙舟征婚小伙称微信被加爆（热度：291410）
 </a>
@@ -4811,6 +4811,12 @@ VOGUE直播（热度：299123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%BA%BD%E7%BA%A6%E7%AC%AC%E4%BA%8C%E5%A5%97%23" target="weibo">
 赵丽颖纽约第二套（热度：283951）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E5%8F%A4%E9%A3%8E%E5%B0%8F%E7%94%9F%E5%87%BA%E7%9A%84%E8%AF%95%E5%8D%B7%23" target="weibo">
+谁家古风小生出的试卷（热度：283894）
 </a>
 </li>
 
@@ -5127,6 +5133,12 @@ VOGUE直播（热度：299123）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%8F%B2%20%E9%AB%98%E8%80%83%E9%A1%B6%E6%B5%81%23" target="weibo">
+历史 高考顶流（热度：267453）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%96%91%E8%A2%AB%E8%9B%87%E5%92%AC%E8%BA%AB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%9A%82%E6%97%A0%E7%BB%93%E6%9E%9C%23" target="weibo">
 女子疑被蛇咬身亡家属称暂无结果（热度：267428）
 </a>
@@ -5381,12 +5393,6 @@ VOGUE直播（热度：299123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E9%AB%98%E6%98%8E%E7%BB%93%E5%B1%80%23" target="weibo">
 这才是高明结局（热度：253985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E5%8F%A4%E9%A3%8E%E5%B0%8F%E7%94%9F%E5%87%BA%E7%9A%84%E8%AF%95%E5%8D%B7%23" target="weibo">
-谁家古风小生出的试卷（热度：253091）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ ENHYPEN回归（热度：227420）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E6%80%AA%E7%89%A9%E5%BE%81%E5%90%8D%23" target="weibo">
 汪苏泷演唱会怪物征名（热度：227181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%9D%E7%BB%92%E9%97%AA%E9%92%BB%E5%90%8A%E5%B8%A6%E8%A3%99%23" target="weibo">
-赵丽颖丝绒闪钻吊带裙（热度：227170）
 </a>
 </li>
 
