@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749415276820,
+  "endTime": 1749417762316,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -4195,6 +4195,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 13169,
+      "num": 16238,
+      "word": "刘冲回应VOGUE争议",
+      "onboard_time": 1749414074,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13134,
       "num": 308193,
       "word": "mbti的气质会随时间改变吗",
@@ -4203,20 +4211,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 13126,
+      "num": 16228,
+      "word": "警惕手机卡被他人偷拔搞诈骗",
+      "onboard_time": 1749416113,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12377,
       "num": 18556,
       "word": "棒棒父亲对高考儿子说加油加油加油",
       "onboard_time": 1749328873,
       "rank": 49,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 12316,
-      "num": 16112,
-      "word": "刘冲回应VOGUE争议",
-      "onboard_time": 1749414074,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 12200,
@@ -4243,7 +4251,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10533,
+      "raw_hot": 11138,
       "num": 20649,
       "word": "送考这一幕太暖了",
       "onboard_time": 1749410894,

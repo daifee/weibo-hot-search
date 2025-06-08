@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749415276820,
+  "endTime": 1749417762316,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -29491,12 +29491,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 13169,
+      "num": 16238,
+      "word": "刘冲回应VOGUE争议",
+      "onboard_time": 1749414074,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13134,
       "num": 308193,
       "word": "mbti的气质会随时间改变吗",
       "onboard_time": 1749388342,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13126,
+      "num": 16228,
+      "word": "警惕手机卡被他人偷拔搞诈骗",
+      "onboard_time": 1749416113,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12975,
@@ -29545,14 +29561,6 @@
       "onboard_time": 1748713935,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12316,
-      "num": 16112,
-      "word": "刘冲回应VOGUE争议",
-      "onboard_time": 1749414074,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 12200,
@@ -29723,6 +29731,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 11138,
+      "num": 20649,
+      "word": "送考这一幕太暖了",
+      "onboard_time": 1749410894,
+      "rank": 35,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 10827,
       "num": 96050,
       "word": "拉撒路现象",
@@ -29745,14 +29761,6 @@
       "onboard_time": 1749151754,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10533,
-      "num": 20649,
-      "word": "送考这一幕太暖了",
-      "onboard_time": 1749410894,
-      "rank": 35,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 10293,

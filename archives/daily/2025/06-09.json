@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749415276820,
+  "endTime": 1749417762316,
   "band_list": [
     {
       "raw_hot": 1305304,
@@ -531,12 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12316,
-      "num": 16112,
+      "raw_hot": 13169,
+      "num": 16238,
       "word": "刘冲回应VOGUE争议",
       "onboard_time": 1749414074,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13126,
+      "num": 16228,
+      "word": "警惕手机卡被他人偷拔搞诈骗",
+      "onboard_time": 1749416113,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12200,
@@ -547,7 +555,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10533,
+      "raw_hot": 11138,
       "num": 20649,
       "word": "送考这一幕太暖了",
       "onboard_time": 1749410894,
