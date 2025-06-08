@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749358296513,
+  "endTime": 1749360362441,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -891,6 +891,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 1231715,
+      "num": 1231715,
+      "word": "文科生赢过理科生",
+      "onboard_time": 1749354741,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1226395,
       "num": 655871,
       "word": "女子临床死亡后父亲要求继续抢救",
@@ -1531,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 883228,
+      "num": 883228,
+      "word": "历史 高考顶流",
+      "onboard_time": 1749356241,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 882775,
       "num": 882775,
       "word": "aespa回归预告",
@@ -1540,7 +1556,7 @@
     },
     {
       "raw_hot": 871019,
-      "num": 378621,
+      "num": 403463,
       "word": "我的物理成为了我的败笔",
       "onboard_time": 1749352040,
       "rank": 20,
@@ -1921,14 +1937,6 @@
       "onboard_time": 1749013222,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 756237,
-      "num": 756237,
-      "word": "文科生赢过理科生",
-      "onboard_time": 1749354741,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 752538,
@@ -3707,6 +3715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474381,
+      "num": 408619,
+      "word": "被摸腿女演员讲述从业初衷",
+      "onboard_time": 1749358461,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 474153,
       "num": 474153,
       "word": "IU车银优双人cha",
@@ -4129,6 +4145,14 @@
       "onboard_time": 1749036380,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429281,
+      "num": 429281,
+      "word": "文科生站起来了",
+      "onboard_time": 1749356781,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 428853,
@@ -4987,6 +5011,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 361391,
+      "num": 361391,
+      "word": "垫底辣孩cos藏海",
+      "onboard_time": 1749347901,
+      "rank": 24,
+      "category": "网红,剧集"
+    },
+    {
       "raw_hot": 361329,
       "num": 361329,
       "word": "杨幂酱园弄镜头",
@@ -5107,14 +5139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 356132,
-      "num": 356132,
-      "word": "垫底辣孩cos藏海",
-      "onboard_time": 1749347901,
-      "rank": 24,
-      "category": "网红,剧集"
-    },
-    {
       "raw_hot": 356081,
       "num": 356081,
       "word": "江苏唯一真南哥之争已白热化",
@@ -5153,6 +5177,14 @@
       "onboard_time": 1748877861,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355062,
+      "num": 355062,
+      "word": "宁静直接封神的存在",
+      "onboard_time": 1749358880,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 353876,
@@ -6555,6 +6587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 277868,
+      "num": 277868,
+      "word": "历史出道五千年 考久一",
+      "onboard_time": 1749356961,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 277599,
       "num": 277599,
       "word": "腾讯回应首个满级QQ诞生",
@@ -6779,6 +6819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268194,
+      "num": 268194,
+      "word": "裴秀智没去Min的婚礼",
+      "onboard_time": 1749359421,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268089,
       "num": 268089,
       "word": "长安的荔枝今日开播",
@@ -6825,14 +6873,6 @@
       "onboard_time": 1749129262,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267453,
-      "num": 267453,
-      "word": "历史 高考顶流",
-      "onboard_time": 1749356241,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 267428,
@@ -6889,6 +6929,14 @@
       "onboard_time": 1749095961,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263587,
+      "num": 263587,
+      "word": "樊振东许昕同框",
+      "onboard_time": 1749356542,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 262998,
@@ -8387,6 +8435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219962,
+      "num": 418107,
+      "word": "曝马斯克与美财长曾在白宫大打出手",
+      "onboard_time": 1749353781,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 219913,
       "num": 219913,
       "word": "藏海把庄二当侯府天降紫微星整",
@@ -8441,14 +8497,6 @@
       "onboard_time": 1749312743,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218683,
-      "num": 218683,
-      "word": "樊振东许昕同框",
-      "onboard_time": 1749356542,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 218453,
@@ -8899,6 +8947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210192,
+      "num": 210192,
+      "word": "妈妈岗",
+      "onboard_time": 1749359541,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210043,
       "num": 254983,
       "word": "肖战藏海传超18种非遗技艺",
@@ -9059,14 +9115,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 208232,
-      "num": 208232,
-      "word": "文科生站起来了",
-      "onboard_time": 1749356781,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 207839,
       "num": 177929,
       "word": "王楚然为白鹿曾舜晞新剧包场",
@@ -9137,6 +9185,14 @@
       "onboard_time": 1748941100,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206742,
+      "num": 206742,
+      "word": "蔡徐坤Deadman",
+      "onboard_time": 1749359421,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 206706,
@@ -9355,6 +9411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204329,
+      "num": 204329,
+      "word": "王俊凯魔性舞蹈零帧起跳",
+      "onboard_time": 1749359541,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204020,
       "num": 270724,
       "word": "折腰收官",
@@ -9473,6 +9537,14 @@
       "onboard_time": 1748787201,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202689,
+      "num": 202689,
+      "word": "宋妍霏光脚领奖",
+      "onboard_time": 1749359242,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 202563,
@@ -10171,14 +10243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193311,
-      "num": 193311,
-      "word": "历史出道五千年 考久一",
-      "onboard_time": 1749356961,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 193282,
       "num": 193282,
       "word": "以为是古偶仙侠结果是离婚大战",
@@ -10441,6 +10505,14 @@
       "onboard_time": 1749179240,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 190584,
+      "num": 190584,
+      "word": "七根心简开播",
+      "onboard_time": 1749358640,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 190427,
@@ -10843,6 +10915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186386,
+      "num": 186386,
+      "word": "代高政 我演不了渣男",
+      "onboard_time": 1749359181,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186336,
       "num": 169708,
       "word": "李现酱园弄演反派",
@@ -10897,6 +10977,14 @@
       "onboard_time": 1749184401,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185968,
+      "num": 185968,
+      "word": "郎咸平为韦东奕发声",
+      "onboard_time": 1749359061,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 185769,
@@ -11499,14 +11587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177984,
-      "num": 341147,
-      "word": "曝马斯克与美财长曾在白宫大打出手",
-      "onboard_time": 1749353781,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 177977,
       "num": 177977,
       "word": "李在明就职典礼上两警卫肢体冲突",
@@ -12059,6 +12139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170351,
+      "num": 170351,
+      "word": "宋亚轩是懂得只有严浩翔能让张真源破防",
+      "onboard_time": 1749359120,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170247,
       "num": 170247,
       "word": "广东历史",
@@ -12321,6 +12409,14 @@
       "onboard_time": 1749355820,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167827,
+      "num": 167827,
+      "word": "令人心死的offer出现了",
+      "onboard_time": 1749359601,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 167773,
@@ -13024,6 +13120,14 @@
       "word": "长沙暴雨居民楼楼梯变瀑布",
       "onboard_time": 1749353182,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160090,
+      "num": 160090,
+      "word": "蛇从天降硬核大爷抓起一顿狂摔",
+      "onboard_time": 1749359601,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -15025,6 +15129,14 @@
       "onboard_time": 1748926284,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140927,
+      "num": 140927,
+      "word": "北大数学系学生眼中的韦老师",
+      "onboard_time": 1749359901,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 140919,
@@ -22723,6 +22835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 57542,
+      "num": 408973,
+      "word": "宁波一家企业内部号召员工当卧底",
+      "onboard_time": 1749358941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57484,
       "num": 207542,
       "word": "四川婚假最长或达25天",
@@ -23579,6 +23699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47360,
+      "num": 1233448,
+      "word": "我国服务贸易跑出加速度",
+      "onboard_time": 1749356781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47255,
       "num": 137863,
       "word": "克服讨好型人格的有效方法有哪些",
@@ -23969,6 +24097,14 @@
       "onboard_time": 1748834061,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42611,
+      "num": 356762,
+      "word": "特朗普与马斯克的翻脸时间线",
+      "onboard_time": 1749359001,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 42592,
@@ -24651,6 +24787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35792,
+      "num": 286683,
+      "word": "特朗普自大言论暴露4大问题",
+      "onboard_time": 1749359120,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35691,
       "num": 369636,
       "word": "哈佛校长连发两封校内信披露进展",
@@ -24961,14 +25105,6 @@
       "onboard_time": 1748750660,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 32243,
-      "num": 939504,
-      "word": "我国服务贸易跑出加速度",
-      "onboard_time": 1749356781,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32214,

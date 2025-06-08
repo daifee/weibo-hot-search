@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749358296513,
+  "endTime": 1749360362441,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1231715,
+      "num": 1231715,
+      "word": "文科生赢过理科生",
+      "onboard_time": 1749354741,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1114074,
       "num": 354170,
       "word": "历史给我道歉",
@@ -107,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 883228,
+      "num": 883228,
+      "word": "历史 高考顶流",
+      "onboard_time": 1749356241,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 878015,
       "num": 878015,
       "word": "高考数学",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 871019,
-      "num": 378621,
+      "num": 403463,
       "word": "我的物理成为了我的败笔",
       "onboard_time": 1749352040,
       "rank": 20,
@@ -137,14 +153,6 @@
       "onboard_time": 1749344600,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 756237,
-      "num": 756237,
-      "word": "文科生赢过理科生",
-      "onboard_time": 1749354741,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 724901,
@@ -235,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 474381,
+      "num": 408619,
+      "word": "被摸腿女演员讲述从业初衷",
+      "onboard_time": 1749358461,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 452661,
       "num": 452661,
       "word": "年度乘风舞台",
       "onboard_time": 1749310762,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429281,
+      "num": 429281,
+      "word": "文科生站起来了",
+      "onboard_time": 1749356781,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 424820,
@@ -299,8 +323,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 356132,
-      "num": 356132,
+      "raw_hot": 361391,
+      "num": 361391,
       "word": "垫底辣孩cos藏海",
       "onboard_time": 1749347901,
       "rank": 24,
@@ -313,6 +337,14 @@
       "onboard_time": 1749343879,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355062,
+      "num": 355062,
+      "word": "宁静直接封神的存在",
+      "onboard_time": 1749358880,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 348097,
@@ -379,6 +411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 277868,
+      "num": 277868,
+      "word": "历史出道五千年 考久一",
+      "onboard_time": 1749356961,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 276495,
       "num": 276495,
       "word": "马斯克和特朗普吵完又改口",
@@ -403,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267453,
-      "num": 267453,
-      "word": "历史 高考顶流",
-      "onboard_time": 1749356241,
-      "rank": 26,
-      "category": "教育"
+      "raw_hot": 268194,
+      "num": 268194,
+      "word": "裴秀智没去Min的婚礼",
+      "onboard_time": 1749359421,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 266898,
@@ -433,6 +473,14 @@
       "onboard_time": 1749292282,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 263587,
+      "num": 263587,
+      "word": "樊振东许昕同框",
+      "onboard_time": 1749356542,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 262360,
@@ -515,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219962,
+      "num": 418107,
+      "word": "曝马斯克与美财长曾在白宫大打出手",
+      "onboard_time": 1749353781,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 218728,
       "num": 203023,
       "word": "蒙娜丽莎",
@@ -523,12 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218683,
-      "num": 218683,
-      "word": "樊振东许昕同框",
-      "onboard_time": 1749356542,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 210192,
+      "num": 210192,
+      "word": "妈妈岗",
+      "onboard_time": 1749359541,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 209557,
@@ -555,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208232,
-      "num": 208232,
-      "word": "文科生站起来了",
-      "onboard_time": 1749356781,
-      "rank": 30,
-      "category": "教育"
+      "raw_hot": 206742,
+      "num": 206742,
+      "word": "蔡徐坤Deadman",
+      "onboard_time": 1749359421,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 205775,
@@ -569,6 +625,22 @@
       "onboard_time": 1749356061,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 204329,
+      "num": 204329,
+      "word": "王俊凯魔性舞蹈零帧起跳",
+      "onboard_time": 1749359541,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202689,
+      "num": 202689,
+      "word": "宋妍霏光脚领奖",
+      "onboard_time": 1749359242,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 200315,
@@ -595,14 +667,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 193311,
-      "num": 193311,
-      "word": "历史出道五千年 考久一",
-      "onboard_time": 1749356961,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 193000,
       "num": 193000,
       "word": "浪姐直播",
@@ -611,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190584,
+      "num": 190584,
+      "word": "七根心简开播",
+      "onboard_time": 1749358640,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189763,
       "num": 189763,
       "word": "法网决赛",
       "onboard_time": 1749303984,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186386,
+      "num": 186386,
+      "word": "代高政 我演不了渣男",
+      "onboard_time": 1749359181,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 186311,
@@ -633,6 +713,14 @@
       "onboard_time": 1749298823,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185968,
+      "num": 185968,
+      "word": "郎咸平为韦东奕发声",
+      "onboard_time": 1749359061,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 185719,
@@ -665,14 +753,6 @@
       "onboard_time": 1749313283,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 177984,
-      "num": 341147,
-      "word": "曝马斯克与美财长曾在白宫大打出手",
-      "onboard_time": 1749353781,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 176777,
@@ -763,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170351,
+      "num": 170351,
+      "word": "宋亚轩是懂得只有严浩翔能让张真源破防",
+      "onboard_time": 1749359120,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170247,
       "num": 170247,
       "word": "广东历史",
@@ -801,6 +889,14 @@
       "onboard_time": 1749355820,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167827,
+      "num": 167827,
+      "word": "令人心死的offer出现了",
+      "onboard_time": 1749359601,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 165620,
@@ -864,6 +960,14 @@
       "word": "长沙暴雨居民楼楼梯变瀑布",
       "onboard_time": 1749353182,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160090,
+      "num": 160090,
+      "word": "蛇从天降硬核大爷抓起一顿狂摔",
+      "onboard_time": 1749359601,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1017,6 +1121,14 @@
       "onboard_time": 1749358101,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140927,
+      "num": 140927,
+      "word": "北大数学系学生眼中的韦老师",
+      "onboard_time": 1749359901,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 140883,
@@ -1443,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57542,
+      "num": 408973,
+      "word": "宁波一家企业内部号召员工当卧底",
+      "onboard_time": 1749358941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56479,
       "num": 56479,
       "word": "高芙回应法网夺冠",
@@ -1491,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47360,
+      "num": 1233448,
+      "word": "我国服务贸易跑出加速度",
+      "onboard_time": 1749356781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45365,
       "num": 117678,
       "word": "王楚钦回应压力",
@@ -1505,6 +1633,14 @@
       "onboard_time": 1749357080,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42611,
+      "num": 356762,
+      "word": "特朗普与马斯克的翻脸时间线",
+      "onboard_time": 1749359001,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39917,
@@ -1523,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35792,
+      "num": 286683,
+      "word": "特朗普自大言论暴露4大问题",
+      "onboard_time": 1749359120,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34798,
       "num": 1892312,
       "word": "一个学科一句为高考生加油",
@@ -1537,14 +1681,6 @@
       "onboard_time": 1749320536,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 32243,
-      "num": 939504,
-      "word": "我国服务贸易跑出加速度",
-      "onboard_time": 1749356781,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29327,
