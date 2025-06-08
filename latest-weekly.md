@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/08 00:30:01 ~ 2025/06/09 00:45:50
+本榜单时间：2025/06/08 00:30:01 ~ 2025/06/09 01:21:31
 </p>
 </blockquote>
 <p>
@@ -1845,6 +1845,12 @@ JDG对战DYG（热度：157290）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%89%93%E5%89%AF%E6%89%80%E9%95%BF%E6%8B%89%E5%81%8F%E6%9E%B6%E8%A2%AB%E5%85%8D%E8%81%8C%E4%B8%8D%E5%86%A4%23" target="weibo">
+游客被打副所长拉偏架被免职不冤（热度：147640）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E4%B9%92%E8%B6%85%E8%81%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5%E7%AB%9E%E8%B5%9B%E6%97%A5%E7%A8%8B%E8%A1%A8%23" target="weibo">
 2025乒超联赛第一阶段竞赛日程表（热度：147505）
 </a>
@@ -2175,6 +2181,12 @@ KPL（热度：140005）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E5%95%86%E5%9C%BA%E6%94%80%E5%B2%A9%E8%A2%AB%E7%BB%B3%E7%B4%A2%E5%8B%92%E8%84%9620%E5%88%86%E9%92%9F%23" target="weibo">
+男童商场攀岩被绳索勒脖20分钟（热度：129203）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8F%A3%E4%B8%80%E5%B0%8F%E5%8C%BA%E6%A5%BC%E4%BD%93%E9%9B%86%E4%BD%93%E5%BC%80%E8%A3%82%23" target="weibo">
 海口一小区楼体集体开裂（热度：128984）
 </a>
@@ -2265,12 +2277,6 @@ KPL（热度：140005）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%89%93%E5%89%AF%E6%89%80%E9%95%BF%E6%8B%89%E5%81%8F%E6%9E%B6%E8%A2%AB%E5%85%8D%E8%81%8C%E4%B8%8D%E5%86%A4%23" target="weibo">
-游客被打副所长拉偏架被免职不冤（热度：121218）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%BA%E5%A4%96%E9%99%AA%E8%80%83%E5%8D%B7%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6%23" target="weibo">
 场外陪考卷出新高度（热度：120447）
 </a>
@@ -2279,12 +2285,6 @@ KPL（热度：140005）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%AD%A6%E5%AF%9F%E4%B8%8E%E4%BD%8F%E6%8C%81%E6%80%A7%E4%BE%B5%E5%A5%B3%E9%AB%98%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%8D%95%23" target="weibo">
 日本警察与住持性侵女高中生被捕（热度：119797）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E5%95%86%E5%9C%BA%E6%94%80%E5%B2%A9%E8%A2%AB%E7%BB%B3%E7%B4%A2%E5%8B%92%E8%84%9620%E5%88%86%E9%92%9F%23" target="weibo">
-男童商场攀岩被绳索勒脖20分钟（热度：119751）
 </a>
 </li>
 
@@ -2447,6 +2447,12 @@ KPL（热度：140005）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%BA%E8%85%B9%E5%90%83%E8%A5%BF%E7%93%9C%E6%9C%89%E4%BB%80%E4%B9%88%E5%8D%B1%E5%AE%B3%23" target="weibo">
 空腹吃西瓜有什么危害（热度：107906）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8D%97%E5%AE%81%E5%9C%B0%E9%93%81%E5%AE%A3%E4%BC%A0%E7%89%87%E7%96%91%E4%BC%BC%E6%93%A6%E8%BE%B9%23" target="weibo">
+官方回应南宁地铁宣传片疑似擦边（热度：107700）
 </a>
 </li>
 
@@ -3009,8 +3015,20 @@ GBLOCK联名专辑（热度：32552）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+哥伦比亚6.6级地震（热度：23485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%9C%95%E5%8F%98%E4%B9%8B%E8%B7%AF%23" target="weibo">
 王楚钦蜕变之路（热度：23469）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E9%AA%9A%E4%B9%B1%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%A3%B0%23" target="weibo">
+洛杉矶骚乱后特朗普发声（热度：21547）
 </a>
 </li>
 
@@ -3065,6 +3083,12 @@ labubu能有多少装扮（热度：20526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94%E5%A6%82%E4%BD%95%E7%A5%9B%E6%9A%91%E8%B4%A5%E7%81%AB%23" target="weibo">
 高温天气如何祛暑败火（热度：17206）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%B0%B4%E6%9E%9C%E5%B8%82%E5%9C%BA%E6%B5%8B%E9%AC%BC%E7%A7%A4%23" target="weibo">
+新疆水果市场测鬼秤（热度：17097）
 </a>
 </li>
 

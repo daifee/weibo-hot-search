@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749401150771,
+  "endTime": 1749403291962,
   "band_list": [
     {
       "raw_hot": 1305304,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147640,
+      "num": 147640,
+      "word": "游客被打副所长拉偏架被免职不冤",
+      "onboard_time": 1749399979,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140277,
       "num": 135227,
       "word": "贾乃亮是黄圣依大学初恋",
@@ -235,15 +243,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121218,
-      "num": 121218,
-      "word": "游客被打副所长拉偏架被免职不冤",
-      "onboard_time": 1749399979,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119751,
+      "raw_hot": 129203,
       "num": 194720,
       "word": "男童商场攀岩被绳索勒脖20分钟",
       "onboard_time": 1749397102,
@@ -281,6 +281,14 @@
       "onboard_time": 1749379042,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107700,
+      "num": 107700,
+      "word": "官方回应南宁地铁宣传片疑似擦边",
+      "onboard_time": 1749401178,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106631,
@@ -363,8 +371,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76085,
-      "num": 76085,
+      "raw_hot": 76159,
+      "num": 76159,
       "word": "法网男单决赛",
       "onboard_time": 1749392544,
       "rank": 47,
@@ -435,12 +443,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23485,
+      "num": 69937,
+      "word": "哥伦比亚6.6级地震",
+      "onboard_time": 1749394763,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 21547,
+      "num": 54745,
+      "word": "洛杉矶骚乱后特朗普发声",
+      "onboard_time": 1749403219,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21526,
       "num": 92858,
       "word": "狼队小胖控龙高手",
       "onboard_time": 1749399500,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17097,
+      "num": 64845,
+      "word": "新疆水果市场测鬼秤",
+      "onboard_time": 1749401897,
+      "rank": 38,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
