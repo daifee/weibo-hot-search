@@ -1,14 +1,22 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749425043820,
+  "endTime": 1749425922430,
   "band_list": [
     {
-      "raw_hot": 1305304,
-      "num": 1305304,
+      "raw_hot": 1477349,
+      "num": 1477349,
       "word": "央视曝光不防晒的防晒衣",
       "onboard_time": 1749395063,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1177210,
+      "num": 167095,
+      "word": "高考历史上3次启用备用卷",
+      "onboard_time": 1749424279,
+      "rank": 20,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 996030,
@@ -17,14 +25,6 @@
       "onboard_time": 1749397222,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 764228,
-      "num": 138665,
-      "word": "高考历史上3次启用备用卷",
-      "onboard_time": 1749424279,
-      "rank": 20,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 645437,
@@ -91,20 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398200,
+      "num": 398200,
+      "word": "葡萄牙夺得欧国联冠军",
+      "onboard_time": 1749423556,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 384018,
+      "num": 188689,
+      "word": "女孩试裤子店员提醒肚子大查出肿瘤",
+      "onboard_time": 1749393382,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337285,
       "num": 255498,
       "word": "韦神的牙齿不是他一个人的事",
       "onboard_time": 1749385102,
       "rank": 13,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 330319,
-      "num": 188689,
-      "word": "女孩试裤子店员提醒肚子大查出肿瘤",
-      "onboard_time": 1749393382,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322948,
@@ -115,20 +123,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 322008,
-      "num": 322008,
-      "word": "葡萄牙夺得欧国联冠军",
-      "onboard_time": 1749423556,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282668,
       "num": 255037,
       "word": "那尔那茜",
       "onboard_time": 1749387561,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281068,
+      "num": 281068,
+      "word": "印甘蔗女工担心月经影响工作摘除子宫",
+      "onboard_time": 1749395182,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 275199,
+      "num": 275199,
+      "word": "洛杉矶骚乱后纽约也乱了",
+      "onboard_time": 1749390803,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 273513,
@@ -147,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 256273,
-      "num": 256273,
-      "word": "印甘蔗女工担心月经影响工作摘除子宫",
-      "onboard_time": 1749395182,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 254910,
       "num": 254910,
       "word": "江西回应投资3.5亿博物馆闲置2年",
@@ -171,12 +179,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 243222,
-      "num": 243222,
-      "word": "洛杉矶骚乱后纽约也乱了",
-      "onboard_time": 1749390803,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 227506,
+      "num": 277708,
+      "word": "侯明昊黄杨钿甜雀骨七月开机",
+      "onboard_time": 1749424879,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214619,
+      "num": 275290,
+      "word": "潘虹打败单依纯赢在破碎感",
+      "onboard_time": 1749389123,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 212285,
@@ -195,12 +211,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193968,
+      "num": 193968,
+      "word": "1米97小伙用身体帮警察拦截逃窜男子",
+      "onboard_time": 1749385762,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193707,
+      "num": 193707,
+      "word": "C罗生涯第36冠",
+      "onboard_time": 1749424641,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190103,
+      "num": 194720,
+      "word": "男童商场攀岩被绳索勒脖20分钟",
+      "onboard_time": 1749397102,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186917,
       "num": 186917,
       "word": "张嘉元杨雨潼吻戏",
       "onboard_time": 1749392123,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182941,
+      "num": 182941,
+      "word": "C罗哭了",
+      "onboard_time": 1749425298,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 178476,
@@ -211,12 +259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169979,
-      "num": 194720,
-      "word": "男童商场攀岩被绳索勒脖20分钟",
-      "onboard_time": 1749397102,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 167344,
+      "num": 167344,
+      "word": "原来古代荔枝运输比西天取经还难",
+      "onboard_time": 1749422656,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166829,
+      "num": 166829,
+      "word": "中医说身体好不好看眼睛就知道",
+      "onboard_time": 1749393563,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163336,
@@ -227,36 +283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162809,
-      "num": 162809,
-      "word": "1米97小伙用身体帮警察拦截逃窜男子",
-      "onboard_time": 1749385762,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151556,
-      "num": 162827,
-      "word": "潘虹打败单依纯赢在破碎感",
-      "onboard_time": 1749389123,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148957,
       "num": 148957,
       "word": "临江仙",
       "onboard_time": 1749379763,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144774,
-      "num": 135242,
-      "word": "中医说身体好不好看眼睛就知道",
-      "onboard_time": 1749393563,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140277,
@@ -291,12 +323,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134596,
+      "num": 142167,
+      "word": "韦东奕家属称开号是为打假",
+      "onboard_time": 1749399858,
+      "rank": 27,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 134177,
       "num": 137036,
       "word": "权志龙唱月亮代表我的心",
       "onboard_time": 1749395543,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128784,
+      "num": 204304,
+      "word": "俄首次攻入第聂伯罗彼得罗夫斯克",
+      "onboard_time": 1749423858,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 122872,
+      "num": 122872,
+      "word": "辛纳大满贯20连胜遭终结",
+      "onboard_time": 1749424457,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 122139,
@@ -307,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118395,
+      "num": 118395,
+      "word": "为什么不建议周末久躺",
+      "onboard_time": 1749425780,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 117391,
       "num": 136612,
       "word": "谁给陈昊宇王星越递本子就当为了我",
@@ -315,20 +379,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116903,
+      "num": 208727,
+      "word": "特朗普抨击加州州长和洛杉矶市长无能",
+      "onboard_time": 1749423858,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116088,
       "num": 116088,
       "word": "Monki好强",
       "onboard_time": 1749390084,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113947,
-      "num": 139096,
-      "word": "原来古代荔枝运输比西天取经还难",
-      "onboard_time": 1749422656,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 113271,
@@ -347,8 +411,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 106958,
-      "num": 106958,
+      "raw_hot": 108171,
+      "num": 129200,
       "word": "折腰卫视收视率第一",
       "onboard_time": 1749395303,
       "rank": 48,
@@ -361,22 +425,6 @@
       "onboard_time": 1749395963,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103662,
-      "num": 142167,
-      "word": "韦东奕家属称开号是为打假",
-      "onboard_time": 1749399858,
-      "rank": 27,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 100381,
-      "num": 204304,
-      "word": "俄首次攻入第聂伯罗彼得罗夫斯克",
-      "onboard_time": 1749423858,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 100143,
@@ -419,14 +467,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 85857,
-      "num": 85857,
-      "word": "侯明昊黄杨钿甜雀骨七月开机",
-      "onboard_time": 1749424879,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84966,
       "num": 138472,
       "word": "洛杉矶骚乱后特朗普发声",
@@ -435,12 +475,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 81893,
-      "num": 81893,
-      "word": "辛纳大满贯20连胜遭终结",
-      "onboard_time": 1749424457,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 83986,
+      "num": 83986,
+      "word": "在寺院当了二十天的义工",
+      "onboard_time": 1749424997,
+      "rank": 37,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 80698,
@@ -459,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77196,
-      "num": 77196,
-      "word": "特朗普抨击加州州长和洛杉矶市长无能",
-      "onboard_time": 1749423858,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 76199,
+      "num": 76199,
+      "word": "管泽元 还没推掉水晶腿哥已经泪目了",
+      "onboard_time": 1749419714,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 72448,
@@ -475,20 +515,20 @@
       "category": "正能量,教育"
     },
     {
-      "raw_hot": 69284,
-      "num": 69284,
-      "word": "C罗生涯第36冠",
-      "onboard_time": 1749424641,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 69678,
+      "num": 69678,
+      "word": "特朗普上台后日均抓656名非法移民",
+      "onboard_time": 1749425719,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 68138,
-      "num": 68138,
-      "word": "在寺院当了二十天的义工",
-      "onboard_time": 1749424997,
-      "rank": 37,
-      "category": "情感,民生新闻"
+      "raw_hot": 69386,
+      "num": 69386,
+      "word": "朱志鑫披荆斩棘友好沟通函",
+      "onboard_time": 1749424879,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 66236,
@@ -497,14 +537,6 @@
       "onboard_time": 1749400101,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66130,
-      "num": 62137,
-      "word": "管泽元 还没推掉水晶腿哥已经泪目了",
-      "onboard_time": 1749419714,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 62507,
@@ -555,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36019,
+      "num": 522616,
+      "word": "我国海洋经济登上新台阶",
+      "onboard_time": 1749391584,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33129,
       "num": 108919,
       "word": "加州蒙面人敲碎砖头攻击警察",
@@ -571,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30265,
+      "num": 84917,
+      "word": "吴梦洁赛后采访落泪",
+      "onboard_time": 1749424938,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29809,
       "num": 29809,
       "word": "阿Sa刘维cha了LikeJennie",
@@ -585,22 +633,6 @@
       "onboard_time": 1749406695,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28209,
-      "num": 522616,
-      "word": "我国海洋经济登上新台阶",
-      "onboard_time": 1749391584,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 25361,
-      "num": 63261,
-      "word": "吴梦洁赛后采访落泪",
-      "onboard_time": 1749424938,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 23485,
