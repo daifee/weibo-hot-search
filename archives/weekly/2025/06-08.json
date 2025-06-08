@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749379441384,
+  "endTime": 1749381631808,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -161,6 +161,14 @@
       "onboard_time": 1749358461,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 946695,
+      "num": 340286,
+      "word": "考生仅剩12分钟就要错过高考",
+      "onboard_time": 1749378081,
+      "rank": 27,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 940563,
@@ -475,6 +483,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376212,
+      "num": 376212,
+      "word": "虞书欣收藏牵手视频",
+      "onboard_time": 1749379282,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 374205,
+      "num": 374205,
+      "word": "霉霉姐真的救了我的英语",
+      "onboard_time": 1749380662,
+      "rank": 7,
+      "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 368263,
+      "num": 317803,
+      "word": "泡泡玛特创始人成河南新首富",
+      "onboard_time": 1749380603,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 365518,
       "num": 365518,
       "word": "高考",
@@ -579,14 +611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 340286,
-      "num": 340286,
-      "word": "考生仅剩12分钟就要错过高考",
-      "onboard_time": 1749378081,
-      "rank": 27,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 333995,
       "num": 525596,
       "word": "游客被围殴文旅局背锅不如严打暴行",
@@ -649,6 +673,14 @@
       "onboard_time": 1749376043,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297182,
+      "num": 325928,
+      "word": "3人吃烧烤花780元商家被十倍罚款",
+      "onboard_time": 1749380062,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295204,
@@ -859,6 +891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 236986,
+      "num": 162813,
+      "word": "张小婉后悔领奖发言穿了个袄",
+      "onboard_time": 1749380603,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236734,
       "num": 81948,
       "word": "李晟成团",
@@ -995,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207771,
-      "num": 368550,
-      "word": "虞书欣收藏牵手视频",
-      "onboard_time": 1749379282,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206742,
       "num": 206742,
       "word": "蔡徐坤Deadman",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1749376402,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 191924,
+      "num": 313191,
+      "word": "临江仙",
+      "onboard_time": 1749379763,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 191618,
@@ -1265,6 +1305,14 @@
       "onboard_time": 1749313283,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177343,
+      "num": 177343,
+      "word": "马柏全vogue视频",
+      "onboard_time": 1749381200,
+      "rank": 26,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 176777,
@@ -1611,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154291,
+      "num": 154291,
+      "word": "吴宣仪千字长文",
+      "onboard_time": 1749381503,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154135,
       "num": 150201,
       "word": "李艺彤这次大家是站着的",
@@ -1699,6 +1755,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147505,
+      "num": 147505,
+      "word": "2025乒超联赛第一阶段竞赛日程表",
+      "onboard_time": 1749381141,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147336,
       "num": 147336,
       "word": "尚雯婕上完歌手后变拧巴了",
@@ -1768,6 +1832,14 @@
       "word": "陈梦希望遇到势均力敌的爱情",
       "onboard_time": 1749367160,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144236,
+      "num": 137724,
+      "word": "吴宣仪浪姐告别长文",
+      "onboard_time": 1749381261,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1913,6 +1985,14 @@
       "onboard_time": 1749365420,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138246,
+      "num": 138246,
+      "word": "无畏状态",
+      "onboard_time": 1749379702,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 137999,
@@ -2323,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109722,
+      "num": 109722,
+      "word": "爱长结节的人都有什么特点",
+      "onboard_time": 1749380962,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 109151,
       "num": 233234,
       "word": "6岁男孩被困小区电梯40分钟无人救",
@@ -2699,6 +2787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50432,
+      "num": 128274,
+      "word": "高薪雇佣00后保姆",
+      "onboard_time": 1749381381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50002,
       "num": 347913,
       "word": "日本议员称政府把给鸡吃的米给人吃",
@@ -2787,12 +2883,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 38128,
+      "num": 128209,
+      "word": "国乒众将抵达雄安备战乒超",
+      "onboard_time": 1749380122,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36751,
       "num": 40160,
       "word": "李嘉格心疼妈妈给老公当妈",
       "onboard_time": 1749336677,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36715,
+      "num": 108012,
+      "word": "王祉怡印尼赛女单亚军",
+      "onboard_time": 1749381081,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 35792,
@@ -2913,6 +3025,14 @@
       "onboard_time": 1749327554,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16919,
+      "num": 316608,
+      "word": "我领馆视频探视遭起诉中国学者",
+      "onboard_time": 1749380842,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16450,
