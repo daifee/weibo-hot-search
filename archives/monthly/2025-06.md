@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/09 06:23:41
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/09 06:41:40
 </p>
 </blockquote>
 <p>
@@ -5187,6 +5187,12 @@ VOGUE直播（热度：299123）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%89%93%E5%89%AF%E6%89%80%E9%95%BF%E6%8B%89%E5%81%8F%E6%9E%B6%E8%A2%AB%E5%85%8D%E8%81%8C%E4%B8%8D%E5%86%A4%23" target="weibo">
+游客被打副所长拉偏架被免职不冤（热度：289838）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A1%AE%E8%AE%A4%E5%8F%82%E5%8A%A02025%E4%B9%92%E8%B6%85%E8%81%94%E8%B5%9B%23" target="weibo">
 樊振东确认参加2025乒超联赛（热度：289671）
 </a>
@@ -6005,12 +6011,6 @@ Meiko 菜（热度：252780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%238%E6%97%AC%E8%80%81%E4%BA%BA%E7%A0%8D%E6%8E%89%E5%B0%8F%E5%8C%BA20%E5%B9%B4%E9%A6%99%E6%A8%9F%E6%A0%91%23" target="weibo">
 8旬老人砍掉小区20年香樟树（热度：251949）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%A0%94%E7%A4%BE%E5%9B%9E%E5%BA%94%E5%AD%99%E9%A2%96%E8%8E%8E%E5%87%BA%E7%8E%B0%E5%9C%A8%E5%B0%8F%E5%AD%A6%E8%8B%B1%E8%AF%AD%E6%95%99%E6%9D%90%23" target="weibo">
-外研社回应孙颖莎出现在小学英语教材（热度：251713）
 </a>
 </li>
 
