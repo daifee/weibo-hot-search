@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749339613114,
+  "endTime": 1749348609262,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1391675,
+      "num": 313202,
+      "word": "考生开考前25分钟因锁故障被困家中",
+      "onboard_time": 1749346700,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1271990,
       "num": 1271990,
       "word": "小婉管乐",
@@ -67,6 +75,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 779738,
+      "num": 779738,
+      "word": "浙江多位家长把车标改为985",
+      "onboard_time": 1749344600,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 724901,
       "num": 520882,
       "word": "李晟 我也觉得票数低了",
@@ -88,6 +104,14 @@
       "word": "张小婉开麦 宋妍霏闭麦",
       "onboard_time": 1749309864,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 584299,
+      "num": 584299,
+      "word": "李晟团看到票数表情管理都没了",
+      "onboard_time": 1749341838,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -115,12 +139,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 517904,
+      "num": 337522,
+      "word": "李晟回应只成团2人",
+      "onboard_time": 1749345740,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506808,
       "num": 506808,
       "word": "五胞胎参加高考其父发文谈感受",
       "onboard_time": 1749306624,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 497410,
+      "num": 232424,
+      "word": "23岁女健身教练身上紫纹越长越多",
+      "onboard_time": 1749346640,
+      "rank": 20,
+      "category": "运动健身,民生新闻"
     },
     {
       "raw_hot": 486724,
@@ -147,6 +187,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413871,
+      "num": 413871,
+      "word": "特朗普称与马斯克关系已结束",
+      "onboard_time": 1749345079,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 407042,
+      "num": 228464,
+      "word": "北京一地下室惊现大鱼池",
+      "onboard_time": 1749342558,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396154,
       "num": 360418,
       "word": "王珞丹成团",
@@ -163,12 +219,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365518,
+      "num": 365518,
+      "word": "高考",
+      "onboard_time": 1749338176,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 355920,
+      "num": 309785,
+      "word": "耀眼开机",
+      "onboard_time": 1749343879,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 344337,
+      "num": 344337,
+      "word": "美国恢复处理哈佛国际学生签证",
+      "onboard_time": 1749346340,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 311328,
       "num": 207208,
       "word": "吴宣仪甜妹回归",
       "onboard_time": 1749309024,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305162,
+      "num": 305162,
+      "word": "05后高考生即将迎接新生活",
+      "onboard_time": 1749346820,
+      "rank": 15,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 295204,
@@ -187,6 +275,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 276495,
+      "num": 276495,
+      "word": "马斯克和特朗普吵完又改口",
+      "onboard_time": 1749310103,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 275105,
       "num": 275105,
       "word": "王楚钦说孙颖莎有她成功的道理",
@@ -200,6 +296,14 @@
       "word": "浪姐到底谁在投票",
       "onboard_time": 1749314302,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266898,
+      "num": 266898,
+      "word": "吴宣仪回应第二",
+      "onboard_time": 1749340758,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -251,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236625,
+      "num": 236625,
+      "word": "领衔主演关晓彤李昀锐",
+      "onboard_time": 1749348201,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229752,
       "num": 90746,
       "word": "祝绪丹成团",
@@ -259,28 +371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227086,
-      "num": 227086,
-      "word": "高考",
-      "onboard_time": 1749338176,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 227020,
-      "num": 227020,
-      "word": "马斯克和特朗普吵完又改口",
-      "onboard_time": 1749310103,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 226728,
       "num": 204536,
       "word": "国产剧最普通人的女主出现了",
       "onboard_time": 1749310702,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222854,
+      "num": 222854,
+      "word": "高考第二天",
+      "onboard_time": 1749339497,
+      "rank": 43,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 222199,
@@ -297,6 +401,14 @@
       "onboard_time": 1749312743,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208761,
+      "num": 208761,
+      "word": "垫底辣孩cos藏海",
+      "onboard_time": 1749347901,
+      "rank": 24,
+      "category": "网红,剧集"
     },
     {
       "raw_hot": 208614,
@@ -363,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176777,
+      "num": 176777,
+      "word": "为什么结婚后男人容易越来越发福",
+      "onboard_time": 1749339378,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174279,
       "num": 174279,
       "word": "蒋一侨浪姐决赛十秒rap炸成这样",
@@ -379,6 +499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170759,
+      "num": 170759,
+      "word": "孙颖莎落地人参果",
+      "onboard_time": 1749337998,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169557,
+      "num": 223122,
+      "word": "特朗普对马斯克发警告",
+      "onboard_time": 1749347660,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165620,
       "num": 165620,
       "word": "宋妍霏赢了张小婉",
@@ -393,6 +529,14 @@
       "onboard_time": 1749299001,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163693,
+      "num": 163693,
+      "word": "藏海传演唱会",
+      "onboard_time": 1749345021,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 162529,
@@ -419,6 +563,30 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 154135,
+      "num": 150201,
+      "word": "李艺彤这次大家是站着的",
+      "onboard_time": 1749339497,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153048,
+      "num": 308553,
+      "word": "南方出现焖蒸型高温",
+      "onboard_time": 1749345381,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152103,
+      "num": 152103,
+      "word": "祝绪丹回应浪姐没苦硬吃",
+      "onboard_time": 1749343520,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150715,
       "num": 150715,
       "word": "王楚钦你做到了",
@@ -433,6 +601,14 @@
       "onboard_time": 1749315322,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145904,
+      "num": 145904,
+      "word": "衡水中学高三学生高考期间坚持晨跑",
+      "onboard_time": 1749346580,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 145844,
@@ -451,6 +627,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141822,
+      "num": 141822,
+      "word": "浪姐排名",
+      "onboard_time": 1749342739,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141552,
+      "num": 141552,
+      "word": "孟佳晒JYP家族合影",
+      "onboard_time": 1749338176,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140472,
+      "num": 140472,
+      "word": "萨巴伦卡泪洒颁奖典礼",
+      "onboard_time": 1749341600,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140440,
       "num": 140440,
       "word": "长安的荔枝前3集前奏起飞",
@@ -460,7 +660,7 @@
     },
     {
       "raw_hot": 138643,
-      "num": 111350,
+      "num": 130557,
       "word": "大脑过度疲劳的8个信号",
       "onboard_time": 1749319517,
       "rank": 30,
@@ -481,6 +681,22 @@
       "onboard_time": 1749303503,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135110,
+      "num": 135110,
+      "word": "高考 晨跑",
+      "onboard_time": 1749347839,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 130631,
+      "num": 130631,
+      "word": "洪尧演上了薛芳菲的前夫哥",
+      "onboard_time": 1749343040,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 130475,
@@ -515,6 +731,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122153,
+      "num": 122153,
+      "word": "谢娜跳舞导播切了陈德容",
+      "onboard_time": 1749338416,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115369,
+      "num": 115369,
+      "word": "张镇麟婚礼",
+      "onboard_time": 1749341358,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115079,
+      "num": 115079,
+      "word": "单依纯这盛世如你所愿",
+      "onboard_time": 1749344480,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112601,
       "num": 112601,
       "word": "周诗雨宣布与丝芭解约",
@@ -523,20 +763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109151,
+      "num": 233234,
+      "word": "6岁男孩被困小区电梯40分钟无人救",
+      "onboard_time": 1749337936,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105022,
+      "num": 105022,
+      "word": "被王传君酱园弄这个危笑吓到",
+      "onboard_time": 1749342558,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 104101,
       "num": 160440,
       "word": "高芙太能防了",
       "onboard_time": 1749313043,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103706,
-      "num": 103706,
-      "word": "谢娜跳舞导播切了陈德容",
-      "onboard_time": 1749338416,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 102121,
@@ -563,27 +811,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96232,
-      "num": 96232,
-      "word": "孟佳晒JYP家族合影",
-      "onboard_time": 1749338176,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96219,
       "num": 96219,
       "word": "法网2025",
       "onboard_time": 1749314721,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 93223,
-      "num": 93223,
-      "word": "孙颖莎落地人参果",
-      "onboard_time": 1749337998,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -593,14 +825,6 @@
       "onboard_time": 1749316519,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88748,
-      "num": 88748,
-      "word": "为什么结婚后男人容易越来越发福",
-      "onboard_time": 1749339378,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 87686,
@@ -617,14 +841,6 @@
       "onboard_time": 1749315560,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85323,
-      "num": 233234,
-      "word": "6岁男孩被困小区电梯40分钟无人救",
-      "onboard_time": 1749337936,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74578,
@@ -721,22 +937,6 @@
       "onboard_time": 1749318377,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55211,
-      "num": 55211,
-      "word": "高考第二天",
-      "onboard_time": 1749339497,
-      "rank": 43,
-      "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 53633,
-      "num": 53633,
-      "word": "李艺彤这次大家是站着的",
-      "onboard_time": 1749339497,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 53047,
