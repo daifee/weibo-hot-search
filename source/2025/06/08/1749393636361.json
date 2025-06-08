@@ -1,0 +1,410 @@
+{
+  "runTime": 1749393636361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510169,
+        "num": 1510169,
+        "word": "高考英语",
+        "onboard_time": 1749369980,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 955203,
+        "num": 955203,
+        "word": "面对面专访王楚钦",
+        "onboard_time": 1749392544,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57336,
+        "num": 888153,
+        "word": "我国海洋经济登上新台阶",
+        "onboard_time": 1749391584,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1214373,
+        "num": 871492,
+        "word": "金靖曝舒奕橙家庭地位",
+        "onboard_time": 1749389784,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851606,
+        "num": 851606,
+        "word": "高考生作弊家长用钱摆平系摆拍",
+        "onboard_time": 1749383901,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1394878,
+        "num": 850859,
+        "word": "女孩试裤子店员提醒肚子大查出肿瘤",
+        "onboard_time": 1749393382,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711017,
+        "num": 711017,
+        "word": "韦神的牙齿不是他一个人的事",
+        "onboard_time": 1749385102,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 695870,
+        "num": 695870,
+        "word": "泡泡玛特创始人成河南新首富",
+        "onboard_time": 1749380603,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 577126,
+        "num": 680997,
+        "word": "李昀锐孟子义再去演一遍微微一笑很倾城",
+        "onboard_time": 1749386001,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133716,
+        "num": 667949,
+        "word": "街道办副科长假卖拆迁房骗4.28亿",
+        "onboard_time": 1749392964,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 971568,
+        "num": 618935,
+        "word": "曝井柏然刘雯领证",
+        "onboard_time": 1749374841,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804586,
+        "num": 593405,
+        "word": "那尔那茜",
+        "onboard_time": 1749387561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584465,
+        "num": 584465,
+        "word": "ally车银优合照",
+        "onboard_time": 1749391043,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583721,
+        "num": 583721,
+        "word": "TES对战WE",
+        "onboard_time": 1749379042,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 463130,
+        "num": 463130,
+        "word": "WE战胜TES",
+        "onboard_time": 1749392544,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 437814,
+        "num": 437814,
+        "word": "洛杉矶骚乱后纽约也乱了",
+        "onboard_time": 1749390803,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 384121,
+        "num": 384121,
+        "word": "贾乃亮是黄圣依大学初恋",
+        "onboard_time": 1749369081,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349362,
+        "num": 368891,
+        "word": "黄子韬真听不下去了",
+        "onboard_time": 1749387143,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343130,
+        "num": 368220,
+        "word": "王安宇的眼睛",
+        "onboard_time": 1749384321,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8378,
+        "num": 367856,
+        "word": "经常熬夜不利于降低体脂吗",
+        "onboard_time": 1749393144,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 367733,
+        "num": 367733,
+        "word": "花1.5万办年卡男子健身房狂盗60万财物",
+        "onboard_time": 1749391464,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360345,
+        "num": 360345,
+        "word": "957哭了",
+        "onboard_time": 1749392724,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 358711,
+        "num": 358711,
+        "word": "中医说身体好不好看眼睛就知道",
+        "onboard_time": 1749393563,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 338782,
+        "num": 338782,
+        "word": "高考历史",
+        "onboard_time": 1749349820,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 337902,
+        "num": 337902,
+        "word": "Monki好强",
+        "onboard_time": 1749390084,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 306271,
+        "num": 336756,
+        "word": "白鹿直播",
+        "onboard_time": 1749389183,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272804,
+        "num": 334652,
+        "word": "时代峰峻要做潮玩了",
+        "onboard_time": 1749390923,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252638,
+        "num": 332025,
+        "word": "临江仙热度",
+        "onboard_time": 1749384921,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35526,
+        "num": 328497,
+        "word": "主持人帮打维权电话遭嬉笑挂掉",
+        "onboard_time": 1749392482,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17206,
+        "num": 325496,
+        "word": "高温天气如何祛暑败火",
+        "onboard_time": 1749391344,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 325131,
+        "num": 325131,
+        "word": "考生仅剩12分钟就要错过高考",
+        "onboard_time": 1749378081,
+        "rank": 30,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 310938,
+        "num": 310938,
+        "word": "张嘉元杨雨潼吻戏",
+        "onboard_time": 1749392123,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303790,
+        "num": 303790,
+        "word": "1米97小伙用身体帮警察拦截逃窜男子",
+        "onboard_time": 1749385762,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268229,
+        "num": 268229,
+        "word": "法网男单决赛",
+        "onboard_time": 1749392544,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201705,
+        "num": 258730,
+        "word": "付辛博去看张新成音乐剧",
+        "onboard_time": 1749389544,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256321,
+        "num": 256321,
+        "word": "中国女排vs土耳其女排",
+        "onboard_time": 1749384681,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235646,
+        "num": 235646,
+        "word": "买Labubu比买黄金还赚钱",
+        "onboard_time": 1749382643,
+        "rank": 36,
+        "category": "动漫,财经"
+      },
+      {
+        "raw_hot": 219982,
+        "num": 219982,
+        "word": "建议大家练一练盆底肌",
+        "onboard_time": 1749390504,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 35230,
+        "num": 208334,
+        "word": "洛杉矶某些街道跟战区一样",
+        "onboard_time": 1749393442,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54364,
+        "num": 208097,
+        "word": "郑钦文全红婵梁王组合原声祝福",
+        "onboard_time": 1749388942,
+        "rank": 39,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 197721,
+        "num": 207899,
+        "word": "张碧晨出场眼前一亮又一亮",
+        "onboard_time": 1749392783,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207873,
+        "num": 207873,
+        "word": "酒店矿泉水瓶被灌洗发水致顾客误饮",
+        "onboard_time": 1749389303,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188288,
+        "num": 188288,
+        "word": "5种亲密关系是慢性消耗",
+        "onboard_time": 1749389845,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185215,
+        "num": 185215,
+        "word": "afternoon怎么变形",
+        "onboard_time": 1749377061,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182237,
+        "num": 182237,
+        "word": "文班亚马去少林寺把头剃了",
+        "onboard_time": 1749388402,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180477,
+        "num": 180477,
+        "word": "孙颖莎乒超代表运动员宣誓",
+        "onboard_time": 1749387143,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178820,
+        "num": 178820,
+        "word": "德国vs法国",
+        "onboard_time": 1749390803,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175760,
+        "num": 175760,
+        "word": "临江仙",
+        "onboard_time": 1749379763,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176987,
+        "num": 174359,
+        "word": "考生因金属纽扣无法进考场大哥脱衣解围",
+        "onboard_time": 1749392184,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 167047,
+        "num": 167047,
+        "word": "3人吃烧烤花780元商家被十倍罚款",
+        "onboard_time": 1749380062,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让勤奋学习成为青春远航的动力#"
+    }
+  }
+}
