@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749390217800,
+  "endTime": 1749392547727,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -107,7 +107,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1354633,
+      "raw_hot": 1406200,
       "num": 1354633,
       "word": "金靖曝舒奕橙家庭地位",
       "onboard_time": 1749389784,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535767,
+      "num": 417865,
+      "word": "ally车银优合照",
+      "onboard_time": 1749391043,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531672,
       "num": 531672,
       "word": "驻日本大使馆发布提醒",
@@ -513,6 +521,14 @@
       "onboard_time": 1749381503,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 468905,
+      "num": 468905,
+      "word": "Monki好强",
+      "onboard_time": 1749390084,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 452661,
@@ -811,6 +827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 305659,
+      "num": 504864,
+      "word": "酒店矿泉水瓶被灌洗发水致顾客误饮",
+      "onboard_time": 1749389303,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305600,
       "num": 362464,
       "word": "00花撕拉片",
@@ -827,6 +851,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 302906,
+      "num": 467342,
+      "word": "洛杉矶骚乱后纽约也乱了",
+      "onboard_time": 1749390803,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 298573,
       "num": 370716,
       "word": "黄圣依向往进入下一段婚姻",
@@ -841,6 +873,14 @@
       "onboard_time": 1749312084,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 295007,
+      "num": 295007,
+      "word": "时代峰峻要做潮玩了",
+      "onboard_time": 1749390923,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 293297,
@@ -1083,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244633,
+      "num": 244633,
+      "word": "德国vs法国",
+      "onboard_time": 1749390803,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242760,
       "num": 358698,
       "word": "日警方公布对中国游客行凶者形象",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1749384380,
       "rank": 25,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 240622,
+      "num": 240622,
+      "word": "张嘉元杨雨潼吻戏",
+      "onboard_time": 1749392123,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 236734,
@@ -1227,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209039,
+      "num": 409597,
+      "word": "花1.5万办年卡男子健身房狂盗60万财物",
+      "onboard_time": 1749391464,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208614,
       "num": 200572,
       "word": "吴宣仪 全开麦",
@@ -1267,20 +1331,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206099,
+      "num": 212335,
+      "word": "重庆狼队",
+      "onboard_time": 1749391644,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205992,
       "num": 434082,
       "word": "花5000多找收纳师效果一言难尽",
       "onboard_time": 1749375861,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205981,
-      "num": 204405,
-      "word": "Monki好强",
-      "onboard_time": 1749390084,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 205775,
@@ -1315,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203728,
+      "num": 203728,
+      "word": "5种亲密关系是慢性消耗",
+      "onboard_time": 1749389845,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202875,
       "num": 202875,
       "word": "Labubu为啥能全球爆火",
@@ -1331,12 +1403,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199810,
+      "num": 199810,
+      "word": "付辛博去看张新成音乐剧",
+      "onboard_time": 1749389544,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198639,
       "num": 171383,
       "word": "天命小姜",
       "onboard_time": 1749313102,
       "rank": 34,
       "category": "剧集,游戏"
+    },
+    {
+      "raw_hot": 198405,
+      "num": 206707,
+      "word": "建议大家练一练盆底肌",
+      "onboard_time": 1749390504,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 197885,
@@ -1377,14 +1465,6 @@
       "onboard_time": 1749385942,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 194060,
-      "num": 194898,
-      "word": "付辛博去看张新成音乐剧",
-      "onboard_time": 1749389544,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 193000,
@@ -1531,6 +1611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185458,
+      "num": 210802,
+      "word": "临江仙爱奇艺热度破9500",
+      "onboard_time": 1749391884,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183840,
       "num": 222403,
       "word": "王楚钦希望把大家团结在一起",
@@ -1585,6 +1673,14 @@
       "onboard_time": 1749313283,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178847,
+      "num": 178847,
+      "word": "林芊妤官宣怀二胎",
+      "onboard_time": 1749392243,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 177343,
@@ -1753,14 +1849,6 @@
       "onboard_time": 1749356781,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168019,
-      "num": 168019,
-      "word": "5种亲密关系是慢性消耗",
-      "onboard_time": 1749389845,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 167867,
@@ -1971,6 +2059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157150,
+      "num": 157150,
+      "word": "董倩回忆第一次见王楚钦",
+      "onboard_time": 1749391524,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156490,
       "num": 156490,
       "word": "加州上千人围攻美国联邦大楼",
@@ -1992,6 +2088,14 @@
       "word": "清理张家界溶洞垃圾只是第一步",
       "onboard_time": 1749386182,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154290,
+      "num": 556149,
+      "word": "36个号码12小时打7000多个诈骗电话",
+      "onboard_time": 1749389363,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2675,6 +2779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116981,
+      "num": 210885,
+      "word": "樊振东王楚钦孙颖莎全红婵高考祝福",
+      "onboard_time": 1749390864,
+      "rank": 39,
+      "category": "体育,教育"
+    },
+    {
       "raw_hot": 116957,
       "num": 116957,
       "word": "开心果椰子水",
@@ -3035,22 +3147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73036,
-      "num": 504864,
-      "word": "酒店矿泉水瓶被灌洗发水致顾客误饮",
-      "onboard_time": 1749389303,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71650,
-      "num": 556149,
-      "word": "36个号码12小时打7000多个诈骗电话",
-      "onboard_time": 1749389363,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70485,
       "num": 146158,
       "word": "小区频繁高空抛物有人被砸到脑震荡",
@@ -3275,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45056,
+      "num": 893165,
+      "word": "我国海洋经济登上新台阶",
+      "onboard_time": 1749391584,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43208,
       "num": 332222,
       "word": "花1169元买3瓶减肥药吃进了医院",
@@ -3288,6 +3392,14 @@
       "word": "长沙一高校宿舍积水学生称两年三淹",
       "onboard_time": 1749378502,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42690,
+      "num": 212565,
+      "word": "洛杉矶黑衣人袭击执法总部",
+      "onboard_time": 1749390563,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -3395,6 +3507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 32672,
+      "num": 211371,
+      "word": "美国黑衣人街头制作燃烧弹",
+      "onboard_time": 1749390683,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 32552,
       "num": 42933,
       "word": "GBLOCK联名专辑",
@@ -3465,6 +3585,14 @@
       "onboard_time": 1749338477,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21402,
+      "num": 213472,
+      "word": "主持人帮打维权电话遭嬉笑挂掉",
+      "onboard_time": 1749392482,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19961,
@@ -3577,6 +3705,22 @@
       "onboard_time": 1749308423,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11487,
+      "num": 240806,
+      "word": "高温天气如何祛暑败火",
+      "onboard_time": 1749391344,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 6945,
+      "num": 350522,
+      "word": "蜡笔小新哪部剧场版最受喜爱",
+      "onboard_time": 1749391943,
+      "rank": 19,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
