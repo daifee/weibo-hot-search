@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749375560355,
+  "endTime": 1749378356555,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1967021,
-      "num": 501653,
+      "num": 507757,
       "word": "贾乃亮是黄圣依大学初恋",
       "onboard_time": 1749369081,
       "rank": 10,
@@ -73,6 +73,14 @@
       "onboard_time": 1749294802,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1635358,
+      "num": 509933,
+      "word": "曝井柏然刘雯领证",
+      "onboard_time": 1749374841,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1515488,
@@ -163,14 +171,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 878404,
-      "num": 470679,
-      "word": "曝井柏然刘雯领证",
-      "onboard_time": 1749374841,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 878015,
       "num": 878015,
       "word": "高考数学",
@@ -184,6 +184,14 @@
       "word": "我的物理成为了我的败笔",
       "onboard_time": 1749352040,
       "rank": 20,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 853256,
+      "num": 853256,
+      "word": "新一卷英语难不难",
+      "onboard_time": 1749375023,
+      "rank": 12,
       "category": "教育"
     },
     {
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 561642,
+      "num": 561642,
+      "word": "afternoon怎么变形",
+      "onboard_time": 1749377061,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 561574,
       "num": 241416,
       "word": "王珞丹年度队长",
@@ -347,20 +363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473580,
+      "num": 540944,
+      "word": "浙江一村40多户养了上百万条蛇",
+      "onboard_time": 1749374902,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473424,
       "num": 473424,
       "word": "沈阳飞上海客机起飞绕8圈后返航",
       "onboard_time": 1749370040,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 458170,
-      "num": 458170,
-      "word": "新一卷英语难不难",
-      "onboard_time": 1749375023,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 452661,
@@ -419,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393650,
+      "num": 393650,
+      "word": "周一周二高考继续",
+      "onboard_time": 1749377361,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 388870,
       "num": 388870,
       "word": "高芙首夺法网冠军",
@@ -433,6 +457,22 @@
       "onboard_time": 1749370341,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376972,
+      "num": 550468,
+      "word": "网传赴山海找了杨肸子换脸",
+      "onboard_time": 1749376282,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 373245,
+      "num": 535722,
+      "word": "李马克 北京卷",
+      "onboard_time": 1749377422,
+      "rank": 8,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 365518,
@@ -523,8 +563,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 340424,
+      "num": 262304,
+      "word": "完形填空给我道歉",
+      "onboard_time": 1749376642,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 333995,
-      "num": 333995,
+      "num": 525596,
       "word": "游客被围殴文旅局背锅不如严打暴行",
       "onboard_time": 1749370520,
       "rank": 36,
@@ -577,6 +625,14 @@
       "onboard_time": 1749346820,
       "rank": 15,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 298573,
+      "num": 298573,
+      "word": "黄圣依向往进入下一段婚姻",
+      "onboard_time": 1749376043,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 295204,
@@ -715,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260249,
+      "num": 260249,
+      "word": "英语听力像个rapper",
+      "onboard_time": 1749377183,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 260129,
       "num": 303311,
       "word": "邓超用英文表白孙俪",
@@ -731,20 +795,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256778,
-      "num": 540944,
-      "word": "浙江一村40多户养了上百万条蛇",
-      "onboard_time": 1749374902,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255774,
       "num": 255774,
       "word": "四面佛开机",
       "onboard_time": 1749367880,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255010,
+      "num": 255010,
+      "word": "国足包下整座酒店备战末轮世预赛",
+      "onboard_time": 1749376163,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 251573,
@@ -892,7 +956,7 @@
     },
     {
       "raw_hot": 214066,
-      "num": 222364,
+      "num": 296254,
       "word": "原来饶雪漫全网找的是柯淳搭档",
       "onboard_time": 1749374541,
       "rank": 38,
@@ -979,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195643,
+      "num": 195643,
+      "word": "程潇 怀胎井离我远点",
+      "onboard_time": 1749377061,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195077,
       "num": 195077,
       "word": "新一卷数学大题 难",
@@ -987,12 +1059,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 193802,
+      "num": 193802,
+      "word": "考生仅剩12分钟就要错过高考",
+      "onboard_time": 1749378081,
+      "rank": 27,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 193000,
       "num": 193000,
       "word": "浪姐直播",
       "onboard_time": 1749294443,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192571,
+      "num": 192571,
+      "word": "高考英语二卷",
+      "onboard_time": 1749376402,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 191618,
@@ -1307,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164932,
+      "num": 164932,
+      "word": "花5000多找收纳师效果一言难尽",
+      "onboard_time": 1749375861,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164847,
       "num": 164847,
       "word": "魏大勋把草原沙漠洞窟去了个遍",
@@ -1411,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159261,
+      "num": 159261,
+      "word": "李华催稿",
+      "onboard_time": 1749375921,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 159197,
       "num": 159197,
       "word": "苏晓彤代高政吻戏给我看傻了",
@@ -1425,6 +1529,22 @@
       "onboard_time": 1749355221,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157854,
+      "num": 157854,
+      "word": "被英语做局了",
+      "onboard_time": 1749377301,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 157290,
+      "num": 157290,
+      "word": "JDG对战DYG",
+      "onboard_time": 1749376462,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 156490,
@@ -1537,6 +1657,14 @@
       "onboard_time": 1749367940,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146601,
+      "num": 146601,
+      "word": "北京高考英语作文",
+      "onboard_time": 1749377961,
+      "rank": 40,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 146523,
@@ -1673,6 +1801,14 @@
       "onboard_time": 1749311062,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140005,
+      "num": 140005,
+      "word": "KPL",
+      "onboard_time": 1749377122,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 139769,
@@ -1843,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129462,
+      "num": 129462,
+      "word": "钟欣潼周扬青吴艳妮聚餐",
+      "onboard_time": 1749377661,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129368,
       "num": 129368,
       "word": "济南一烤鸭店幽默陪考停业告示火了",
@@ -1987,6 +2131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 119101,
+      "num": 119101,
+      "word": "谁懂白鹿泪眼的杀伤力",
+      "onboard_time": 1749378141,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119042,
       "num": 119042,
       "word": "新说唱热度",
@@ -2121,6 +2273,14 @@
       "onboard_time": 1749373582,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108550,
+      "num": 108550,
+      "word": "柯淳第一次感受电影式拍摄方法",
+      "onboard_time": 1749377661,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 106774,
@@ -2259,12 +2419,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86880,
+      "num": 194346,
+      "word": "许昌某超市要被这车搬空了",
+      "onboard_time": 1749378081,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86615,
       "num": 86615,
       "word": "陷入我们的热恋制片人回应",
       "onboard_time": 1749315560,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85649,
+      "num": 280597,
+      "word": "威胁拍天坑垃圾要打村支书被停职",
+      "onboard_time": 1749377301,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79732,
@@ -2571,6 +2747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32202,
+      "num": 1558138,
+      "word": "9图看海洋治理的中国方案",
+      "onboard_time": 1749374722,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29327,
       "num": 34424,
       "word": "周笔畅长沙演唱会",
@@ -2619,6 +2803,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 18623,
+      "num": 271892,
+      "word": "肚子软软的代表身体更好吗",
+      "onboard_time": 1749376341,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 18146,
       "num": 360956,
       "word": "怎样找到适合自己的输出型爱好",
@@ -2633,14 +2825,6 @@
       "onboard_time": 1749335955,
       "rank": 49,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 17849,
-      "num": 1558138,
-      "word": "9图看海洋治理的中国方案",
-      "onboard_time": 1749374722,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17709,
