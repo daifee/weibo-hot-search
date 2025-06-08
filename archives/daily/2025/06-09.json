@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749414410462,
+  "endTime": 1749415276820,
   "band_list": [
     {
       "raw_hot": 1305304,
@@ -507,6 +507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 21423,
+      "num": 37036,
+      "word": "美防长称海军陆战队正高度戒备",
+      "onboard_time": 1749413293,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18603,
       "num": 64845,
       "word": "新疆水果市场测鬼秤",
@@ -523,16 +531,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13781,
-      "num": 37036,
-      "word": "美防长称海军陆战队正高度戒备",
-      "onboard_time": 1749413293,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 12291,
-      "num": 15249,
+      "raw_hot": 12316,
+      "num": 16112,
       "word": "刘冲回应VOGUE争议",
       "onboard_time": 1749414074,
       "rank": 48,

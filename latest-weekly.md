@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/08 00:30:01 ~ 2025/06/09 04:26:50
+本榜单时间：2025/06/08 00:30:01 ~ 2025/06/09 04:41:16
 </p>
 </blockquote>
 <p>
@@ -3069,6 +3069,12 @@ GBLOCK联名专辑（热度：32552）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E6%AD%A3%E9%AB%98%E5%BA%A6%E6%88%92%E5%A4%87%23" target="weibo">
+美防长称海军陆战队正高度戒备（热度：21423）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23labubu%E8%83%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E8%A3%85%E6%89%AE%23" target="weibo">
 labubu能有多少装扮（热度：20526）
 </a>
@@ -3147,12 +3153,6 @@ cubal（热度：15043）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E6%AD%A3%E9%AB%98%E5%BA%A6%E6%88%92%E5%A4%87%23" target="weibo">
-美防长称海军陆战队正高度戒备（热度：13781）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9B%80%E7%8E%84%E6%AD%A6%E6%95%95%E4%BB%A4%E8%AF%B4%E8%AF%AD%E6%96%87%E8%80%83%E5%BE%97%E4%B8%8D%E7%90%86%E6%83%B3%23" target="weibo">
 朱雀玄武敕令说语文考得不理想（热度：13328）
 </a>
@@ -3172,7 +3172,7 @@ mbti的气质会随时间改变吗（热度：13134）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%86%B2%E5%9B%9E%E5%BA%94VOGUE%E4%BA%89%E8%AE%AE%23" target="weibo">
-刘冲回应VOGUE争议（热度：12291）
+刘冲回应VOGUE争议（热度：12316）
 </a>
 </li>
 
