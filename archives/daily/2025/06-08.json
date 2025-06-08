@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749355590697,
+  "endTime": 1749357367653,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1480550,
-      "num": 313202,
+      "num": 339833,
       "word": "考生开考前25分钟因锁故障被困家中",
       "onboard_time": 1749346700,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1114074,
-      "num": 287364,
+      "num": 354170,
       "word": "历史给我道歉",
       "onboard_time": 1749351201,
       "rank": 11,
@@ -115,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 871019,
+      "num": 378621,
+      "word": "我的物理成为了我的败笔",
+      "onboard_time": 1749352040,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 798263,
       "num": 798263,
       "word": "马嘉祺歌手 唱王源的歌",
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 621406,
+      "num": 621406,
+      "word": "文科生赢过理科生",
+      "onboard_time": 1749354741,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 600907,
       "num": 208051,
       "word": "李晟团票数也太低了",
@@ -161,14 +177,6 @@
       "onboard_time": 1749341838,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 583432,
-      "num": 281355,
-      "word": "我的物理成为了我的败笔",
-      "onboard_time": 1749352040,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 561574,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 407042,
-      "num": 230071,
+      "num": 390041,
       "word": "北京一地下室惊现大鱼池",
       "onboard_time": 1749342558,
       "rank": 21,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 348097,
-      "num": 348097,
+      "num": 406649,
       "word": "王楚钦回应19岁摔拍子",
       "onboard_time": 1749350120,
       "rank": 7,
@@ -313,14 +321,6 @@
       "onboard_time": 1749346340,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 342956,
-      "num": 342956,
-      "word": "文科生赢过理科生",
-      "onboard_time": 1749354741,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 311328,
@@ -347,8 +347,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 289697,
-      "num": 289697,
+      "raw_hot": 291880,
+      "num": 291880,
       "word": "垫底辣孩cos藏海",
       "onboard_time": 1749347901,
       "rank": 24,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253091,
+      "num": 208113,
+      "word": "谁家古风小生出的试卷",
+      "onboard_time": 1749352761,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 247452,
       "num": 187293,
       "word": "曹颖邓萃雯姐姐值得",
@@ -449,6 +457,14 @@
       "onboard_time": 1749317717,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232769,
+      "num": 232769,
+      "word": "四川历史难死了",
+      "onboard_time": 1749355101,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 230247,
@@ -491,19 +507,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219957,
-      "num": 176907,
-      "word": "谁家古风小生出的试卷",
-      "onboard_time": 1749352761,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 218728,
       "num": 203023,
       "word": "蒙娜丽莎",
       "onboard_time": 1749312743,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209557,
+      "num": 209557,
+      "word": "喻言 韩红夸你呢",
+      "onboard_time": 1749356660,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -521,6 +537,22 @@
       "onboard_time": 1749306984,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205775,
+      "num": 205775,
+      "word": "高考历史力压高考物理",
+      "onboard_time": 1749356061,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 200315,
+      "num": 167997,
+      "word": "文科生动了谁的蛋糕",
+      "onboard_time": 1749356121,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 198639,
@@ -547,11 +579,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190349,
-      "num": 154961,
-      "word": "四川历史难死了",
-      "onboard_time": 1749355101,
-      "rank": 30,
+      "raw_hot": 192927,
+      "num": 192927,
+      "word": "历史 高考顶流",
+      "onboard_time": 1749356241,
+      "rank": 26,
       "category": "教育"
     },
     {
@@ -561,6 +593,14 @@
       "onboard_time": 1749303984,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188333,
+      "num": 168018,
+      "word": "文科生站起来了",
+      "onboard_time": 1749356781,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 186311,
@@ -585,6 +625,14 @@
       "onboard_time": 1749349519,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181316,
+      "num": 220140,
+      "word": "耀眼官宣",
+      "onboard_time": 1749355943,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 180105,
@@ -651,6 +699,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171603,
+      "num": 167930,
+      "word": "特朗普将向加州派遣两千国民警卫队",
+      "onboard_time": 1749355641,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 171583,
+      "num": 171583,
+      "word": "临江仙的伏笔像线面一样繁殖了",
+      "onboard_time": 1749356900,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170759,
       "num": 170759,
       "word": "孙颖莎落地人参果",
@@ -683,12 +747,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168051,
+      "num": 168051,
+      "word": "关晓彤李昀锐押韵式官宣",
+      "onboard_time": 1749356781,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167867,
       "num": 151740,
       "word": "瓦格纳集团宣布撤军",
       "onboard_time": 1749353001,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167842,
+      "num": 167842,
+      "word": "严浩翔rapeter帅哥间的惺惺相惜",
+      "onboard_time": 1749355820,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 165620,
@@ -720,6 +800,14 @@
       "word": "广州高考生喊话樊振东出征三大赛",
       "onboard_time": 1749300983,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162348,
+      "num": 162348,
+      "word": "樊振东许昕同框",
+      "onboard_time": 1749356542,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -755,6 +843,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156723,
+      "num": 156723,
+      "word": "历史出道五千年 考久一",
+      "onboard_time": 1749356961,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 155848,
+      "num": 155848,
+      "word": "救女童大爷被威胁后求购护家狗",
+      "onboard_time": 1749356301,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155031,
       "num": 155031,
       "word": "洪尧在家的时候就帮吴谨言搭过词",
@@ -787,11 +891,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150372,
+      "num": 150372,
+      "word": "美国洛杉矶发生警民冲突",
+      "onboard_time": 1749355641,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149610,
       "num": 149610,
       "word": "广东物理大题",
       "onboard_time": 1749352101,
       "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 147725,
+      "num": 147725,
+      "word": "高考历史答案",
+      "onboard_time": 1749356061,
+      "rank": 41,
       "category": "教育"
     },
     {
@@ -801,6 +921,14 @@
       "onboard_time": 1749355340,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146313,
+      "num": 146313,
+      "word": "浪姐",
+      "onboard_time": 1749356121,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 146171,
@@ -883,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138824,
+      "num": 138824,
+      "word": "被余华夸过的rapper",
+      "onboard_time": 1749356840,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138643,
       "num": 130557,
       "word": "大脑过度疲劳的8个信号",
@@ -897,6 +1033,14 @@
       "onboard_time": 1749311182,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136893,
+      "num": 260473,
+      "word": "曝马斯克与美财长曾在白宫大打出手",
+      "onboard_time": 1749353781,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135448,
@@ -988,7 +1132,7 @@
     },
     {
       "raw_hot": 122906,
-      "num": 122906,
+      "num": 148675,
       "word": "高芙法网夺冠后让球童捧奖杯",
       "onboard_time": 1749354082,
       "rank": 45,
@@ -1035,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112187,
+      "num": 283617,
+      "word": "王一博又双叒解锁新技能",
+      "onboard_time": 1749352340,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109151,
       "num": 233234,
       "word": "6岁男孩被困小区电梯40分钟无人救",
@@ -1049,6 +1201,14 @@
       "onboard_time": 1749342558,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104623,
+      "num": 342855,
+      "word": "宣纸的诞生竟充满诗意",
+      "onboard_time": 1749355521,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104101,
@@ -1123,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76397,
-      "num": 283617,
-      "word": "王一博又双叒解锁新技能",
-      "onboard_time": 1749352340,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 74578,
       "num": 74578,
       "word": "长安的荔枝",
@@ -1161,14 +1313,6 @@
       "onboard_time": 1749317177,
       "rank": 9,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 68463,
-      "num": 133067,
-      "word": "宣纸的诞生竟充满诗意",
-      "onboard_time": 1749355521,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68253,
@@ -1363,6 +1507,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15582,
+      "num": 169611,
+      "word": "花1169元买3瓶减肥药吃进了医院",
+      "onboard_time": 1749357080,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15568,
+      "num": 939504,
+      "word": "我国服务贸易跑出加速度",
+      "onboard_time": 1749356781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15043,
       "num": 72587,
       "word": "cubal",
@@ -1401,6 +1561,9 @@
     },
     {
       "word": "#有责任有担当青春才会闪光#"
+    },
+    {
+      "word": "#让勤奋学习成为青春远航的动力#"
     }
   ]
 }
