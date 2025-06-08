@@ -1,0 +1,410 @@
+{
+  "runTime": 1749372267464,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1485759,
+        "num": 1485759,
+        "word": "历史 高考顶流",
+        "onboard_time": 1749356241,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1038123,
+        "num": 1038123,
+        "word": "益禾堂薄荷奶绿",
+        "onboard_time": 1749368900,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34219,
+        "num": 926775,
+        "word": "我国服务贸易跑出加速度",
+        "onboard_time": 1749356781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 875243,
+        "num": 875243,
+        "word": "高考英语",
+        "onboard_time": 1749369980,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 671556,
+        "num": 671556,
+        "word": "高考历史",
+        "onboard_time": 1749349820,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 490914,
+        "num": 490914,
+        "word": "王俊凯回复陈赫",
+        "onboard_time": 1749367221,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416750,
+        "num": 416750,
+        "word": "沈阳飞上海客机起飞绕8圈后返航",
+        "onboard_time": 1749370040,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383407,
+        "num": 383407,
+        "word": "侯佩岑全英文宣扬浪姐精神",
+        "onboard_time": 1749370341,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199190,
+        "num": 380039,
+        "word": "800元瘦身咖啡成本1元",
+        "onboard_time": 1749367700,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218330,
+        "num": 378746,
+        "word": "亚朵集团回应近期争议",
+        "onboard_time": 1749370940,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1814680,
+        "num": 378352,
+        "word": "贾乃亮是黄圣依大学初恋",
+        "onboard_time": 1749369081,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377763,
+        "num": 377763,
+        "word": "男子刷视频发现失踪半年妻子在结婚",
+        "onboard_time": 1749365241,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309620,
+        "num": 309620,
+        "word": "美国加州街头变战场",
+        "onboard_time": 1749367880,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232834,
+        "num": 308853,
+        "word": "浪姐奖杯 丑",
+        "onboard_time": 1749361040,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228030,
+        "num": 308591,
+        "word": "同学说你像马嘉祺你还真当真了",
+        "onboard_time": 1749368423,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208761,
+        "num": 308490,
+        "word": "程潇妈妈的话让李嘉格释怀妈妈收彩礼",
+        "onboard_time": 1749366801,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308389,
+        "num": 308389,
+        "word": "韦雪跟前任谈了9年",
+        "onboard_time": 1749365541,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74610,
+        "num": 273894,
+        "word": "贝克汉姆班味太浓了",
+        "onboard_time": 1749368782,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59760,
+        "num": 262099,
+        "word": "微博电影之夜第四波阵容",
+        "onboard_time": 1749371000,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40739,
+        "num": 260622,
+        "word": "工作能力强的人会坚持哪些职场习惯",
+        "onboard_time": 1749371481,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260303,
+        "num": 260303,
+        "word": "高考物理",
+        "onboard_time": 1749348800,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 249436,
+        "num": 249436,
+        "word": "被摸腿女演员讲述从业初衷",
+        "onboard_time": 1749358461,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239990,
+        "num": 239990,
+        "word": "让员工一天打卡6次不愿意就离职",
+        "onboard_time": 1749368060,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230142,
+        "num": 230142,
+        "word": "四面佛开机",
+        "onboard_time": 1749367880,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213354,
+        "num": 213354,
+        "word": "游客被打事件泾县公安局多人被追责",
+        "onboard_time": 1749368001,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206772,
+        "num": 206772,
+        "word": "身体好的人肚子大多软软的",
+        "onboard_time": 1749361522,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196882,
+        "num": 196882,
+        "word": "00花撕拉片",
+        "onboard_time": 1749371540,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172618,
+        "num": 172618,
+        "word": "校方称安徽五胞胎有几个能冲一本",
+        "onboard_time": 1749369861,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170142,
+        "num": 170142,
+        "word": "游客被围殴文旅局背锅不如严打暴行",
+        "onboard_time": 1749370520,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158089,
+        "num": 167465,
+        "word": "王楚钦希望把大家团结在一起",
+        "onboard_time": 1749369322,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92042,
+        "num": 167259,
+        "word": "比亚迪李云飞直面质疑",
+        "onboard_time": 1749372141,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167195,
+        "num": 167195,
+        "word": "韦东奕未参加高考保送到北大",
+        "onboard_time": 1749369861,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160358,
+        "num": 165374,
+        "word": "谁说内娱没有好的一镜到底",
+        "onboard_time": 1749371121,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168918,
+        "num": 165346,
+        "word": "韦东奕严选账号已改名",
+        "onboard_time": 1749312383,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164847,
+        "num": 164847,
+        "word": "魏大勋把草原沙漠洞窟去了个遍",
+        "onboard_time": 1749371661,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162918,
+        "num": 162918,
+        "word": "裴秀智没去Min的婚礼",
+        "onboard_time": 1749359421,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159786,
+        "num": 159786,
+        "word": "孙茜说肖战的戏演的是很好的",
+        "onboard_time": 1749362840,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150501,
+        "num": 150501,
+        "word": "文科生赢过理科生",
+        "onboard_time": 1749354741,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150411,
+        "num": 150411,
+        "word": "亚朵发布枕套事件说明",
+        "onboard_time": 1749371000,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146806,
+        "num": 146806,
+        "word": "当我告诉自己买iPad是为了提高效率",
+        "onboard_time": 1749369500,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139769,
+        "num": 139769,
+        "word": "央视镜头下的张新成",
+        "onboard_time": 1749371360,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127753,
+        "num": 127753,
+        "word": "特朗普将向加州派遣两千国民警卫队",
+        "onboard_time": 1749355641,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118827,
+        "num": 118827,
+        "word": "金巧巧30年前就做过医美",
+        "onboard_time": 1749361522,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101498,
+        "num": 111659,
+        "word": "比亚迪李云飞发文再次回应质疑",
+        "onboard_time": 1749370341,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110100,
+        "num": 110100,
+        "word": "七根心简一万三辣评塌房艺人",
+        "onboard_time": 1749370881,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109726,
+        "num": 109726,
+        "word": "白九思我们真的被人做局了",
+        "onboard_time": 1749372081,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107417,
+        "num": 107417,
+        "word": "加州上千人围攻美国联邦大楼",
+        "onboard_time": 1749365840,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106774,
+        "num": 106774,
+        "word": "许其亮同志永垂不朽",
+        "onboard_time": 1749370040,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100228,
+        "num": 100228,
+        "word": "孙丞潇演庄国栋把章子怡膈应住了",
+        "onboard_time": 1749372141,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95741,
+        "num": 95741,
+        "word": "Capper和creamd置换的6年",
+        "onboard_time": 1749370761,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让勤奋学习成为青春远航的动力#"
+    }
+  }
+}

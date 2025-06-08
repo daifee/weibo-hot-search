@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749371437804,
+  "endTime": 1749372267464,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1038123,
+      "num": 1038123,
+      "word": "益禾堂薄荷奶绿",
+      "onboard_time": 1749368900,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 983657,
       "num": 266051,
       "word": "吴宣仪第二",
@@ -147,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 875243,
+      "num": 875243,
+      "word": "高考英语",
+      "onboard_time": 1749369980,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 871019,
       "num": 403463,
       "word": "我的物理成为了我的败笔",
@@ -161,14 +177,6 @@
       "onboard_time": 1749356781,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 844970,
-      "num": 844970,
-      "word": "益禾堂薄荷奶绿",
-      "onboard_time": 1749368900,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 798263,
@@ -193,14 +201,6 @@
       "onboard_time": 1749309264,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 681596,
-      "num": 681596,
-      "word": "高考英语",
-      "onboard_time": 1749369980,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 600907,
@@ -355,6 +355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 416750,
+      "num": 416750,
+      "word": "沈阳飞上海客机起飞绕8圈后返航",
+      "onboard_time": 1749370040,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407042,
       "num": 390041,
       "word": "北京一地下室惊现大鱼池",
@@ -377,6 +385,14 @@
       "onboard_time": 1749313823,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 383407,
+      "num": 408545,
+      "word": "侯佩岑全英文宣扬浪姐精神",
+      "onboard_time": 1749370341,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 365518,
@@ -483,20 +499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309620,
+      "num": 309620,
+      "word": "美国加州街头变战场",
+      "onboard_time": 1749367880,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 305162,
       "num": 305162,
       "word": "05后高考生即将迎接新生活",
       "onboard_time": 1749346820,
       "rank": 15,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 298855,
-      "num": 298855,
-      "word": "美国加州街头变战场",
-      "onboard_time": 1749367880,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 295204,
@@ -611,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261670,
-      "num": 408545,
-      "word": "侯佩岑全英文宣扬浪姐精神",
-      "onboard_time": 1749370341,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260129,
       "num": 303311,
       "word": "邓超用英文表白孙俪",
@@ -633,14 +641,6 @@
       "onboard_time": 1749317477,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256464,
-      "num": 401853,
-      "word": "沈阳飞上海客机起飞绕8圈后返航",
-      "onboard_time": 1749370040,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255774,
@@ -683,6 +683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 239990,
+      "num": 420477,
+      "word": "让员工一天打卡6次不愿意就离职",
+      "onboard_time": 1749368060,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236734,
       "num": 81948,
       "word": "李晟成团",
@@ -715,20 +723,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228030,
+      "num": 393602,
+      "word": "同学说你像马嘉祺你还真当真了",
+      "onboard_time": 1749368423,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226728,
       "num": 204536,
       "word": "国产剧最普通人的女主出现了",
       "onboard_time": 1749310702,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223423,
-      "num": 420477,
-      "word": "让员工一天打卡6次不愿意就离职",
-      "onboard_time": 1749368060,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222854,
@@ -763,12 +771,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218330,
+      "num": 378746,
+      "word": "亚朵集团回应近期争议",
+      "onboard_time": 1749370940,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217898,
       "num": 217898,
       "word": "妈妈岗",
       "onboard_time": 1749359541,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213354,
+      "num": 213354,
+      "word": "游客被打事件泾县公安局多人被追责",
+      "onboard_time": 1749368001,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209557,
@@ -811,14 +835,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 205142,
-      "num": 205142,
-      "word": "游客被打事件泾县公安局多人被追责",
-      "onboard_time": 1749368001,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205084,
       "num": 331267,
       "word": "刘宇宁给金靖发时间之子宣传视频",
@@ -849,6 +865,14 @@
       "onboard_time": 1749313102,
       "rank": 34,
       "category": "剧集,游戏"
+    },
+    {
+      "raw_hot": 196882,
+      "num": 196882,
+      "word": "00花撕拉片",
+      "onboard_time": 1749371540,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 195077,
@@ -955,22 +979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 185248,
-      "num": 185248,
-      "word": "亚朵集团回应近期争议",
-      "onboard_time": 1749370940,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183930,
-      "num": 393602,
-      "word": "同学说你像马嘉祺你还真当真了",
-      "onboard_time": 1749368423,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183840,
       "num": 222403,
       "word": "王楚钦希望把大家团结在一起",
@@ -1059,6 +1067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172618,
+      "num": 384591,
+      "word": "校方称安徽五胞胎有几个能冲一本",
+      "onboard_time": 1749369861,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172267,
       "num": 172267,
       "word": "韦东奕曾回应什么样的孩子适合学数学",
@@ -1139,6 +1155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170142,
+      "num": 170142,
+      "word": "游客被围殴文旅局背锅不如严打暴行",
+      "onboard_time": 1749370520,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169807,
       "num": 169807,
       "word": "尔冬升说柯淳哭戏果然厉害",
@@ -1187,11 +1211,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167195,
+      "num": 167195,
+      "word": "韦东奕未参加高考保送到北大",
+      "onboard_time": 1749369861,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 165620,
       "num": 165620,
       "word": "宋妍霏赢了张小婉",
       "onboard_time": 1749307586,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164847,
+      "num": 164847,
+      "word": "魏大勋把草原沙漠洞窟去了个遍",
+      "onboard_time": 1749371661,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1241,6 +1281,14 @@
       "onboard_time": 1749301583,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160358,
+      "num": 165374,
+      "word": "谁说内娱没有好的一镜到底",
+      "onboard_time": 1749371121,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 160258,
@@ -1323,20 +1371,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150411,
+      "num": 150411,
+      "word": "亚朵发布枕套事件说明",
+      "onboard_time": 1749371000,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "美国洛杉矶发生警民冲突",
       "onboard_time": 1749355641,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 149658,
-      "num": 149658,
-      "word": "亚朵发布枕套事件说明",
-      "onboard_time": 1749371000,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149610,
@@ -1353,14 +1401,6 @@
       "onboard_time": 1749366080,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149176,
-      "num": 149176,
-      "word": "游客被围殴文旅局背锅不如严打暴行",
-      "onboard_time": 1749370520,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147725,
@@ -1515,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139769,
+      "num": 139769,
+      "word": "央视镜头下的张新成",
+      "onboard_time": 1749371360,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139502,
       "num": 139502,
       "word": "第一次看到陈赫对美食不感兴趣",
@@ -1599,14 +1647,6 @@
       "num": 135110,
       "word": "高考 晨跑",
       "onboard_time": 1749347839,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 134836,
-      "num": 134836,
-      "word": "韦东奕未参加高考保送到北大",
-      "onboard_time": 1749369861,
       "rank": 39,
       "category": "教育"
     },
@@ -1763,14 +1803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121817,
-      "num": 121817,
-      "word": "谁说内娱没有好的一镜到底",
-      "onboard_time": 1749371121,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120447,
       "num": 355988,
       "word": "场外陪考卷出新高度",
@@ -1835,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112658,
-      "num": 112658,
-      "word": "央视镜头下的张新成",
-      "onboard_time": 1749371360,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 112601,
       "num": 112601,
       "word": "周诗雨宣布与丝芭解约",
@@ -1867,6 +1891,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110100,
+      "num": 110100,
+      "word": "七根心简一万三辣评塌房艺人",
+      "onboard_time": 1749370881,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109726,
+      "num": 109726,
+      "word": "白九思我们真的被人做局了",
+      "onboard_time": 1749372081,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109151,
       "num": 233234,
       "word": "6岁男孩被困小区电梯40分钟无人救",
@@ -1881,6 +1921,14 @@
       "onboard_time": 1749370341,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 106774,
+      "num": 106774,
+      "word": "许其亮同志永垂不朽",
+      "onboard_time": 1749370040,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105022,
@@ -1947,6 +1995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100228,
+      "num": 100228,
+      "word": "孙丞潇演庄国栋把章子怡膈应住了",
+      "onboard_time": 1749372141,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98765,
       "num": 98765,
       "word": "陈昊宇王星越跨年后二搭",
@@ -1985,6 +2041,14 @@
       "onboard_time": 1749361461,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92042,
+      "num": 167259,
+      "word": "比亚迪李云飞直面质疑",
+      "onboard_time": 1749372141,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 90177,
@@ -2083,14 +2147,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 65260,
-      "num": 384591,
-      "word": "校方称安徽五胞胎有几个能冲一本",
-      "onboard_time": 1749369861,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64067,
       "num": 312409,
       "word": "河南一爸爸身穿旗袍为儿子霸气应援",
@@ -2113,6 +2169,14 @@
       "onboard_time": 1749339438,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59760,
+      "num": 303033,
+      "word": "微博电影之夜第四波阵容",
+      "onboard_time": 1749371000,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 59610,
@@ -2243,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40739,
+      "num": 260622,
+      "word": "工作能力强的人会坚持哪些职场习惯",
+      "onboard_time": 1749371481,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39917,
       "num": 39917,
       "word": "满级QQ",
@@ -2257,14 +2329,6 @@
       "onboard_time": 1749363140,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 37410,
-      "num": 303033,
-      "word": "微博电影之夜第四波阵容",
-      "onboard_time": 1749371000,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 36751,
