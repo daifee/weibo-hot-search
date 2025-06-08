@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749404373276,
+  "endTime": 1749407559857,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -22971,6 +22971,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84966,
+      "num": 138472,
+      "word": "洛杉矶骚乱后特朗普发声",
+      "onboard_time": 1749403219,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84825,
       "num": 84825,
       "word": "乌希望停火30天俄只同意2到3天",
@@ -26635,14 +26643,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 39096,
-      "num": 138472,
-      "word": "洛杉矶骚乱后特朗普发声",
-      "onboard_time": 1749403219,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 38990,
       "num": 360437,
       "word": "曾舜晞白九思可爱多暴击",
@@ -26936,6 +26936,14 @@
       "word": "为啥高考英语作文总要帮李华写信",
       "onboard_time": 1749398420,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36649,
+      "num": 36649,
+      "word": "官方通报村支书威胁拍天坑垃圾要打",
+      "onboard_time": 1749405737,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -27651,6 +27659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29809,
+      "num": 29809,
+      "word": "阿Sa刘维cha了LikeJennie",
+      "onboard_time": 1749405017,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29751,
       "num": 513958,
       "word": "各科老师的高考祝福语",
@@ -27817,6 +27833,14 @@
       "onboard_time": 1749151514,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28561,
+      "num": 28561,
+      "word": "第17个世界海洋日",
+      "onboard_time": 1749406695,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28515,

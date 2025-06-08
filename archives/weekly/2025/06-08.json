@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749404373276,
+  "endTime": 1749407559857,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -3443,6 +3443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84966,
+      "num": 138472,
+      "word": "洛杉矶骚乱后特朗普发声",
+      "onboard_time": 1749403219,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82530,
       "num": 383059,
       "word": "爸爸充值游戏后想退款嫁祸给2岁娃",
@@ -3811,6 +3819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40832,
+      "num": 40832,
+      "word": "未知的首尔",
+      "onboard_time": 1749404296,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40739,
       "num": 260622,
       "word": "工作能力强的人会坚持哪些职场习惯",
@@ -3833,14 +3849,6 @@
       "onboard_time": 1749363140,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 39096,
-      "num": 138472,
-      "word": "洛杉矶骚乱后特朗普发声",
-      "onboard_time": 1749403219,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38128,
@@ -3880,6 +3888,14 @@
       "word": "为啥高考英语作文总要帮李华写信",
       "onboard_time": 1749398420,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36649,
+      "num": 36649,
+      "word": "官方通报村支书威胁拍天坑垃圾要打",
+      "onboard_time": 1749405737,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -3955,6 +3971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29809,
+      "num": 29809,
+      "word": "阿Sa刘维cha了LikeJennie",
+      "onboard_time": 1749405017,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29327,
       "num": 34424,
       "word": "周笔畅长沙演唱会",
@@ -3977,6 +4001,14 @@
       "onboard_time": 1749319636,
       "rank": 49,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 28561,
+      "num": 28561,
+      "word": "第17个世界海洋日",
+      "onboard_time": 1749406695,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27540,
