@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749396447339,
+  "endTime": 1749397304652,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651029,
+      "num": 651029,
+      "word": "李知勋暂时退出",
+      "onboard_time": 1749395783,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644913,
       "num": 644913,
       "word": "霉霉姐真的救了我的英语",
@@ -635,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 406066,
-      "num": 406066,
-      "word": "李知勋暂时退出",
-      "onboard_time": 1749395783,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 398287,
       "num": 550468,
       "word": "网传赴山海找了杨肸子换脸",
@@ -851,12 +851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346187,
+      "num": 413443,
+      "word": "印甘蔗女工担心月经影响工作摘除子宫",
+      "onboard_time": 1749395182,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 344337,
       "num": 344337,
       "word": "美国恢复处理哈佛国际学生签证",
       "onboard_time": 1749346340,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 343958,
+      "num": 343958,
+      "word": "twice",
+      "onboard_time": 1749397222,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 334482,
@@ -1387,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208886,
+      "num": 189721,
+      "word": "aespa",
+      "onboard_time": 1749397222,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208614,
       "num": 200572,
       "word": "吴宣仪 全开麦",
@@ -1409,14 +1433,6 @@
       "onboard_time": 1749378682,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206933,
-      "num": 413443,
-      "word": "印甘蔗女工担心月经影响工作摘除子宫",
-      "onboard_time": 1749395182,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 206794,
@@ -1539,6 +1555,14 @@
       "category": "剧集,游戏"
     },
     {
+      "raw_hot": 198630,
+      "num": 416231,
+      "word": "三无防晒衣一年卖出超30万件",
+      "onboard_time": 1749395362,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197885,
       "num": 197885,
       "word": "仙逆",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1749364761,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 190834,
+      "num": 190834,
+      "word": "谁给陈昊宇王星越递本子就当为了我",
+      "onboard_time": 1749396623,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 190584,
@@ -1811,6 +1843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180070,
+      "num": 359566,
+      "word": "江西回应投资3.5亿博物馆闲置2年",
+      "onboard_time": 1749396323,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178847,
       "num": 178847,
       "word": "林芊妤官宣怀二胎",
@@ -1969,6 +2009,14 @@
       "onboard_time": 1749355221,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 170053,
+      "num": 170053,
+      "word": "谢可寅赖美云唱到一半发现没会员",
+      "onboard_time": 1749396801,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 169807,
@@ -2211,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157387,
+      "num": 157387,
+      "word": "中国女排2比3负于土耳其队",
+      "onboard_time": 1749393923,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157290,
       "num": 157290,
       "word": "JDG对战DYG",
@@ -2281,14 +2337,6 @@
       "onboard_time": 1749357561,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152441,
-      "num": 416231,
-      "word": "三无防晒衣一年卖出超30万件",
-      "onboard_time": 1749395362,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152103,
@@ -2505,6 +2553,14 @@
       "onboard_time": 1749385582,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142513,
+      "num": 292092,
+      "word": "特朗普为啥和加州过不去",
+      "onboard_time": 1749395002,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141925,
@@ -2841,14 +2897,6 @@
       "onboard_time": 1749281120,
       "rank": 47,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 125489,
-      "num": 284078,
-      "word": "江西回应投资3.5亿博物馆闲置2年",
-      "onboard_time": 1749396323,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124566,
@@ -3331,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80483,
+      "num": 163598,
+      "word": "中国女排要在主场拼尽全力",
+      "onboard_time": 1749397041,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79732,
       "num": 367480,
       "word": "被摸腿脱口秀女演员发声",
@@ -3483,14 +3539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58711,
-      "num": 292092,
-      "word": "特朗普为啥和加州过不去",
-      "onboard_time": 1749395002,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 58479,
       "num": 58479,
       "word": "姜云升 也难怪圈外人有刻板印象",
@@ -3553,6 +3601,14 @@
       "onboard_time": 1749388942,
       "rank": 39,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 54344,
+      "num": 356458,
+      "word": "12国公民周一起被禁入美国",
+      "onboard_time": 1749396623,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53047,
@@ -3819,6 +3875,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 25592,
+      "num": 315003,
+      "word": "高考生说感谢李华3年的陪伴",
+      "onboard_time": 1749396563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24661,
       "num": 146436,
       "word": "歌迷找3人同时抢演唱会票才成功",
@@ -3833,6 +3897,14 @@
       "onboard_time": 1749338477,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20526,
+      "num": 322925,
+      "word": "labubu能有多少装扮",
+      "onboard_time": 1749395543,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 19961,
@@ -3913,14 +3985,6 @@
       "onboard_time": 1749387681,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13857,
-      "num": 296380,
-      "word": "labubu能有多少装扮",
-      "onboard_time": 1749395543,
-      "rank": 18,
-      "category": "时尚"
     },
     {
       "raw_hot": 13328,
