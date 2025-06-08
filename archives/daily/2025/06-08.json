@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749389546308,
+  "endTime": 1749390217800,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1635358,
-      "num": 544569,
+      "num": 555478,
       "word": "曝井柏然刘雯领证",
       "onboard_time": 1749374841,
       "rank": 11,
@@ -99,20 +99,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1476923,
+      "num": 1476923,
+      "word": "TES对战WE",
+      "onboard_time": 1749379042,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 1354633,
+      "num": 1354633,
+      "word": "金靖曝舒奕橙家庭地位",
+      "onboard_time": 1749389784,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1345428,
+      "num": 1345428,
+      "word": "高考生作弊家长用钱摆平系摆拍",
+      "onboard_time": 1749383901,
+      "rank": 3,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 1271990,
       "num": 1271990,
       "word": "小婉管乐",
       "onboard_time": 1749309983,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1266488,
-      "num": 1266488,
-      "word": "高考生作弊家长用钱摆平系摆拍",
-      "onboard_time": 1749383901,
-      "rank": 3,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 1265531,
@@ -211,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 916490,
+      "num": 553472,
+      "word": "那尔那茜",
+      "onboard_time": 1749387561,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 878015,
       "num": 878015,
       "word": "高考数学",
@@ -225,14 +249,6 @@
       "onboard_time": 1749352040,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 855834,
-      "num": 482421,
-      "word": "那尔那茜",
-      "onboard_time": 1749387561,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 853256,
@@ -251,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 803272,
+      "num": 803272,
+      "word": "韦神的牙齿不是他一个人的事",
+      "onboard_time": 1749385102,
+      "rank": 12,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 798263,
       "num": 798263,
       "word": "马嘉祺歌手 唱王源的歌",
@@ -265,14 +289,6 @@
       "onboard_time": 1749344600,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 750340,
-      "num": 750340,
-      "word": "韦神的牙齿不是他一个人的事",
-      "onboard_time": 1749385102,
-      "rank": 12,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 724901,
@@ -411,8 +427,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 524055,
-      "num": 524055,
+      "raw_hot": 525370,
+      "num": 525370,
       "word": "临江仙热度",
       "onboard_time": 1749384921,
       "rank": 23,
@@ -443,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 504363,
+      "num": 504363,
+      "word": "黄子韬真听不下去了",
+      "onboard_time": 1749387143,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 497410,
       "num": 232424,
       "word": "23岁女健身教练身上紫纹越长越多",
@@ -457,14 +481,6 @@
       "onboard_time": 1749307043,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 486003,
-      "num": 486003,
-      "word": "黄子韬真听不下去了",
-      "onboard_time": 1749387143,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 484179,
@@ -595,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385537,
+      "num": 385537,
+      "word": "白鹿直播",
+      "onboard_time": 1749389183,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383407,
       "num": 568503,
       "word": "侯佩岑全英文宣扬浪姐精神",
@@ -609,6 +633,14 @@
       "onboard_time": 1749383243,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 379182,
+      "num": 379182,
+      "word": "中国女排vs土耳其女排",
+      "onboard_time": 1749384681,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 365518,
@@ -859,8 +891,16 @@
       "category": "教育"
     },
     {
-      "raw_hot": 276614,
-      "num": 276614,
+      "raw_hot": 281649,
+      "num": 266008,
+      "word": "文班亚马去少林寺把头剃了",
+      "onboard_time": 1749388402,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 277001,
+      "num": 277001,
       "word": "申源 马柏全",
       "onboard_time": 1749386301,
       "rank": 26,
@@ -907,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268516,
+      "num": 268516,
+      "word": "潘虹打败单依纯赢在破碎感",
+      "onboard_time": 1749389123,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267493,
       "num": 313191,
       "word": "临江仙",
@@ -923,14 +971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266008,
-      "num": 266008,
-      "word": "文班亚马去少林寺把头剃了",
-      "onboard_time": 1749388402,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 264862,
       "num": 493813,
       "word": "王楚钦再回忆巴黎奥运混双比赛",
@@ -945,6 +985,14 @@
       "onboard_time": 1749292282,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 263745,
+      "num": 403819,
+      "word": "南宁地铁一宣传片被指低俗",
+      "onboard_time": 1749386902,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263587,
@@ -977,14 +1025,6 @@
       "onboard_time": 1749317477,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257982,
-      "num": 257982,
-      "word": "TES对战WE",
-      "onboard_time": 1749379042,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 255774,
@@ -1025,14 +1065,6 @@
       "onboard_time": 1749367700,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248203,
-      "num": 265352,
-      "word": "白鹿直播",
-      "onboard_time": 1749389183,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 247452,
@@ -1083,14 +1115,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 231929,
-      "num": 231929,
-      "word": "中国女排vs土耳其女排",
-      "onboard_time": 1749384681,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231234,
       "num": 231234,
       "word": "蔡依林直播",
@@ -1129,22 +1153,6 @@
       "onboard_time": 1749310702,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226514,
-      "num": 226514,
-      "word": "潘虹打败单依纯赢在破碎感",
-      "onboard_time": 1749389123,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 223065,
-      "num": 403819,
-      "word": "南宁地铁一宣传片被指低俗",
-      "onboard_time": 1749386902,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222854,
@@ -1267,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205981,
+      "num": 204405,
+      "word": "Monki好强",
+      "onboard_time": 1749390084,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205775,
       "num": 205775,
       "word": "高考历史力压高考物理",
@@ -1283,12 +1299,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204566,
+      "num": 222600,
+      "word": "辛纳vs阿尔卡拉斯",
+      "onboard_time": 1749389002,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204329,
       "num": 204329,
       "word": "王俊凯魔性舞蹈零帧起跳",
       "onboard_time": 1749359541,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202875,
+      "num": 202875,
+      "word": "Labubu为啥能全球爆火",
+      "onboard_time": 1749385342,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 200315,
@@ -1339,20 +1371,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 195012,
-      "num": 195012,
-      "word": "Labubu为啥能全球爆火",
-      "onboard_time": 1749385342,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 194733,
       "num": 194733,
       "word": "JDG战胜DYG",
       "onboard_time": 1749385942,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194060,
+      "num": 194898,
+      "word": "付辛博去看张新成音乐剧",
+      "onboard_time": 1749389544,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 193000,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1749358640,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190143,
+      "num": 190143,
+      "word": "新说唱主题曲押中高考作文",
+      "onboard_time": 1749387983,
+      "rank": 45,
+      "category": "电影,教育"
     },
     {
       "raw_hot": 189763,
@@ -1489,14 +1529,6 @@
       "onboard_time": 1749367759,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185432,
-      "num": 185432,
-      "word": "新说唱主题曲押中高考作文",
-      "onboard_time": 1749387983,
-      "rank": 45,
-      "category": "电影,教育"
     },
     {
       "raw_hot": 183840,
@@ -1723,12 +1755,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168019,
+      "num": 168019,
+      "word": "5种亲密关系是慢性消耗",
+      "onboard_time": 1749389845,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167867,
       "num": 151740,
       "word": "瓦格纳集团宣布撤军",
       "onboard_time": 1749353001,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167854,
+      "num": 167854,
+      "word": "EDGM对战狼队",
+      "onboard_time": 1749390144,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 167842,
@@ -1793,14 +1841,6 @@
       "onboard_time": 1749299001,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164226,
-      "num": 222600,
-      "word": "辛纳vs阿尔卡拉斯",
-      "onboard_time": 1749389002,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 162755,
@@ -2787,6 +2827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107906,
+      "num": 383541,
+      "word": "空腹吃西瓜有什么危害",
+      "onboard_time": 1749389483,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 106774,
       "num": 106774,
       "word": "许其亮同志永垂不朽",
@@ -2955,6 +3003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82530,
+      "num": 383059,
+      "word": "爸爸充值游戏后想退款嫁祸给2岁娃",
+      "onboard_time": 1749389363,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79732,
       "num": 367480,
       "word": "被摸腿脱口秀女演员发声",
@@ -2964,7 +3020,7 @@
     },
     {
       "raw_hot": 77286,
-      "num": 260876,
+      "num": 265735,
       "word": "眼睛越亮证明气血越足吗",
       "onboard_time": 1749388883,
       "rank": 29,
@@ -2977,6 +3033,22 @@
       "onboard_time": 1749339378,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73036,
+      "num": 504864,
+      "word": "酒店矿泉水瓶被灌洗发水致顾客误饮",
+      "onboard_time": 1749389303,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71650,
+      "num": 556149,
+      "word": "36个号码12小时打7000多个诈骗电话",
+      "onboard_time": 1749389363,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70485,
@@ -3041,14 +3113,6 @@
       "onboard_time": 1749355101,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 68220,
-      "num": 227626,
-      "word": "空腹吃西瓜有什么危害",
-      "onboard_time": 1749389483,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 67426,
@@ -3179,14 +3243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51323,
-      "num": 222251,
-      "word": "36个号码12小时打7000多个诈骗电话",
-      "onboard_time": 1749389363,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50002,
       "num": 347913,
       "word": "日本议员称政府把给鸡吃的米给人吃",
@@ -3208,14 +3264,6 @@
       "word": "我国服务贸易跑出加速度",
       "onboard_time": 1749356781,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46455,
-      "num": 262593,
-      "word": "酒店矿泉水瓶被灌洗发水致顾客误饮",
-      "onboard_time": 1749389303,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -3361,14 +3409,6 @@
       "onboard_time": 1749374722,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30208,
-      "num": 226832,
-      "word": "爸爸充值游戏后想退款嫁祸给2岁娃",
-      "onboard_time": 1749389363,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29327,

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749389546308,
+  "endTime": 1749390217800,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 1635358,
-      "num": 544569,
+      "num": 555478,
       "word": "曝井柏然刘雯领证",
       "onboard_time": 1749374841,
       "rank": 11,
@@ -651,6 +651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1476923,
+      "num": 1476923,
+      "word": "TES对战WE",
+      "onboard_time": 1749379042,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1467750,
       "num": 623598,
       "word": "雷军删掉诋毁原文",
@@ -747,12 +755,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1354633,
+      "num": 1354633,
+      "word": "金靖曝舒奕橙家庭地位",
+      "onboard_time": 1749389784,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1348148,
       "num": 1348148,
       "word": "眼睛度数降了100度",
       "onboard_time": 1748907257,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1345428,
+      "num": 1345428,
+      "word": "高考生作弊家长用钱摆平系摆拍",
+      "onboard_time": 1749383901,
+      "rank": 3,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 1336827,
@@ -857,14 +881,6 @@
       "onboard_time": 1749309983,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1266488,
-      "num": 1266488,
-      "word": "高考生作弊家长用钱摆平系摆拍",
-      "onboard_time": 1749383901,
-      "rank": 3,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 1265659,
@@ -1579,6 +1595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 916490,
+      "num": 553472,
+      "word": "那尔那茜",
+      "onboard_time": 1749387561,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 915038,
       "num": 915038,
       "word": "义乌女老板卖labubu娃衣3个月开3家店",
@@ -1715,14 +1739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 855834,
-      "num": 482421,
-      "word": "那尔那茜",
-      "onboard_time": 1749387561,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 853256,
       "num": 853256,
       "word": "新一卷英语难不难",
@@ -1833,6 +1849,14 @@
       "onboard_time": 1748942241,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 803272,
+      "num": 803272,
+      "word": "韦神的牙齿不是他一个人的事",
+      "onboard_time": 1749385102,
+      "rank": 12,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 801874,
@@ -2073,14 +2097,6 @@
       "onboard_time": 1748752101,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 750340,
-      "num": 750340,
-      "word": "韦神的牙齿不是他一个人的事",
-      "onboard_time": 1749385102,
-      "rank": 12,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 749200,
@@ -3403,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 525370,
+      "num": 525370,
+      "word": "临江仙热度",
+      "onboard_time": 1749384921,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 525279,
       "num": 525279,
       "word": "印度踩踏事件已致11死50余伤",
@@ -3417,14 +3441,6 @@
       "onboard_time": 1749217349,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 524055,
-      "num": 524055,
-      "word": "临江仙热度",
-      "onboard_time": 1749384921,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 521971,
@@ -3609,6 +3625,14 @@
       "onboard_time": 1749049164,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 504363,
+      "num": 504363,
+      "word": "黄子韬真听不下去了",
+      "onboard_time": 1749387143,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 504276,
@@ -3800,14 +3824,6 @@
       "word": "徐艺洋给黄子韬打电话哭了",
       "onboard_time": 1749106641,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 486003,
-      "num": 486003,
-      "word": "黄子韬真听不下去了",
-      "onboard_time": 1749387143,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -4955,6 +4971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 385537,
+      "num": 385537,
+      "word": "白鹿直播",
+      "onboard_time": 1749389183,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385138,
       "num": 605562,
       "word": "五哈",
@@ -5049,6 +5073,14 @@
       "onboard_time": 1748696661,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 379182,
+      "num": 379182,
+      "word": "中国女排vs土耳其女排",
+      "onboard_time": 1749384681,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 379171,
@@ -6939,6 +6971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281649,
+      "num": 266008,
+      "word": "文班亚马去少林寺把头剃了",
+      "onboard_time": 1749388402,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281538,
       "num": 281538,
       "word": "美国民众开始不愿花钱了",
@@ -7075,8 +7115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276614,
-      "num": 276614,
+      "raw_hot": 277001,
+      "num": 277001,
       "word": "申源 马柏全",
       "onboard_time": 1749386301,
       "rank": 26,
@@ -7283,6 +7323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268516,
+      "num": 268516,
+      "word": "潘虹打败单依纯赢在破碎感",
+      "onboard_time": 1749389123,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268089,
       "num": 268089,
       "word": "长安的荔枝今日开播",
@@ -7347,14 +7395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266008,
-      "num": 266008,
-      "word": "文班亚马去少林寺把头剃了",
-      "onboard_time": 1749388402,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 264902,
       "num": 264902,
       "word": "李在明为什么能赢",
@@ -7392,6 +7432,14 @@
       "word": "一家三口被害但嫌犯被鉴定精神分裂",
       "onboard_time": 1749095961,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263745,
+      "num": 403819,
+      "word": "南宁地铁一宣传片被指低俗",
+      "onboard_time": 1749386902,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -7553,14 +7601,6 @@
       "onboard_time": 1749169101,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 257982,
-      "num": 257982,
-      "word": "TES对战WE",
-      "onboard_time": 1749379042,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 257889,
@@ -7881,14 +7921,6 @@
       "onboard_time": 1749271944,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248203,
-      "num": 265352,
-      "word": "白鹿直播",
-      "onboard_time": 1749389183,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 248090,
@@ -8411,14 +8443,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 231929,
-      "num": 231929,
-      "word": "中国女排vs土耳其女排",
-      "onboard_time": 1749384681,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231790,
       "num": 231790,
       "word": "马龙不参加2025乒超",
@@ -8643,14 +8667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226514,
-      "num": 226514,
-      "word": "潘虹打败单依纯赢在破碎感",
-      "onboard_time": 1749389123,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226374,
       "num": 226374,
       "word": "王安宇挤不进的圈子别硬融",
@@ -8840,14 +8856,6 @@
       "word": "250只幼鸟被抓大鸟愤怒出击",
       "onboard_time": 1749042440,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223065,
-      "num": 403819,
-      "word": "南宁地铁一宣传片被指低俗",
-      "onboard_time": 1749386902,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -9907,6 +9915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205981,
+      "num": 204405,
+      "word": "Monki好强",
+      "onboard_time": 1749390084,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205955,
       "num": 205955,
       "word": "从小在女生宿舍长大的男孩",
@@ -10051,6 +10067,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 204566,
+      "num": 222600,
+      "word": "辛纳vs阿尔卡拉斯",
+      "onboard_time": 1749389002,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204549,
       "num": 204549,
       "word": "酒店回应上午11点退房下午4点入住",
@@ -10185,6 +10209,14 @@
       "onboard_time": 1748787201,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202875,
+      "num": 202875,
+      "word": "Labubu为啥能全球爆火",
+      "onboard_time": 1749385342,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 202563,
@@ -10819,14 +10851,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 195012,
-      "num": 195012,
-      "word": "Labubu为啥能全球爆火",
-      "onboard_time": 1749385342,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 194872,
       "num": 194872,
       "word": "丁禹兮为姜妍开门护头",
@@ -10881,6 +10905,14 @@
       "onboard_time": 1749140239,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194060,
+      "num": 194898,
+      "word": "付辛博去看张新成音乐剧",
+      "onboard_time": 1749389544,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 193925,
@@ -11241,6 +11273,14 @@
       "onboard_time": 1749301343,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 190143,
+      "num": 190143,
+      "word": "新说唱主题曲押中高考作文",
+      "onboard_time": 1749387983,
+      "rank": 45,
+      "category": "电影,教育"
     },
     {
       "raw_hot": 190073,
@@ -11793,14 +11833,6 @@
       "onboard_time": 1748910201,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 185432,
-      "num": 185432,
-      "word": "新说唱主题曲押中高考作文",
-      "onboard_time": 1749387983,
-      "rank": 45,
-      "category": "电影,教育"
     },
     {
       "raw_hot": 184965,
@@ -13227,12 +13259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168019,
+      "num": 168019,
+      "word": "5种亲密关系是慢性消耗",
+      "onboard_time": 1749389845,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167867,
       "num": 151740,
       "word": "瓦格纳集团宣布撤军",
       "onboard_time": 1749353001,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167854,
+      "num": 167854,
+      "word": "EDGM对战狼队",
+      "onboard_time": 1749390144,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 167852,
@@ -13649,14 +13697,6 @@
       "onboard_time": 1748924602,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 164226,
-      "num": 222600,
-      "word": "辛纳vs阿尔卡拉斯",
-      "onboard_time": 1749389002,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 164221,
@@ -20299,6 +20339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107906,
+      "num": 383541,
+      "word": "空腹吃西瓜有什么危害",
+      "onboard_time": 1749389483,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 107803,
       "num": 107803,
       "word": "国足 四年后",
@@ -22683,6 +22731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82530,
+      "num": 383059,
+      "word": "爸爸充值游戏后想退款嫁祸给2岁娃",
+      "onboard_time": 1749389363,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82322,
       "num": 186215,
       "word": "自己烧水喝是否比买桶装水更健康",
@@ -22980,7 +23036,7 @@
     },
     {
       "raw_hot": 77286,
-      "num": 260876,
+      "num": 265735,
       "word": "眼睛越亮证明气血越足吗",
       "onboard_time": 1749388883,
       "rank": 29,
@@ -23291,6 +23347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 73036,
+      "num": 504864,
+      "word": "酒店矿泉水瓶被灌洗发水致顾客误饮",
+      "onboard_time": 1749389303,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73006,
       "num": 203409,
       "word": "刘诚宇替补上演国足首秀",
@@ -23417,6 +23481,14 @@
       "onboard_time": 1749174500,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 71650,
+      "num": 556149,
+      "word": "36个号码12小时打7000多个诈骗电话",
+      "onboard_time": 1749389363,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71598,
@@ -23721,14 +23793,6 @@
       "onboard_time": 1749355101,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 68220,
-      "num": 227626,
-      "word": "空腹吃西瓜有什么危害",
-      "onboard_time": 1749389483,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 68180,
@@ -24955,14 +25019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51323,
-      "num": 222251,
-      "word": "36个号码12小时打7000多个诈骗电话",
-      "onboard_time": 1749389363,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51220,
       "num": 485519,
       "word": "顺风车司机展示外挂软件1秒抢单",
@@ -25305,14 +25361,6 @@
       "onboard_time": 1748838981,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 46455,
-      "num": 262593,
-      "word": "酒店矿泉水瓶被灌洗发水致顾客误饮",
-      "onboard_time": 1749389303,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46405,
@@ -27033,14 +27081,6 @@
       "onboard_time": 1748738118,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30208,
-      "num": 226832,
-      "word": "爸爸充值游戏后想退款嫁祸给2岁娃",
-      "onboard_time": 1749389363,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30028,
