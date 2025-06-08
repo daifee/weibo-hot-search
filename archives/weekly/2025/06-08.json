@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749397304652,
+  "endTime": 1749400189574,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 996030,
+      "num": 256048,
+      "word": "aespa",
+      "onboard_time": 1749397222,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 983657,
       "num": 266051,
       "word": "吴宣仪第二",
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 611330,
+      "num": 343958,
+      "word": "twice",
+      "onboard_time": 1749397222,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 605119,
       "num": 605119,
       "word": "买Labubu比买黄金还赚钱",
@@ -457,6 +473,14 @@
       "onboard_time": 1749365541,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 548305,
+      "num": 548305,
+      "word": "王楚钦谈输给伊朗14岁小将",
+      "onboard_time": 1749398242,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 531672,
@@ -867,14 +891,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 343958,
-      "num": 343958,
-      "word": "twice",
-      "onboard_time": 1749397222,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334482,
       "num": 334482,
       "word": "张嘉元杨雨潼吻戏",
@@ -1195,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254910,
+      "num": 359566,
+      "word": "江西回应投资3.5亿博物馆闲置2年",
+      "onboard_time": 1749396323,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251713,
       "num": 251713,
       "word": "外研社回应孙颖莎出现在小学英语教材",
@@ -1403,14 +1427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208886,
-      "num": 189721,
-      "word": "aespa",
-      "onboard_time": 1749397222,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208614,
       "num": 200572,
       "word": "吴宣仪 全开麦",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1749389544,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201316,
+      "num": 201316,
+      "word": "肖战不舍往日之景",
+      "onboard_time": 1749399200,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 200315,
@@ -1843,14 +1867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 180070,
-      "num": 359566,
-      "word": "江西回应投资3.5亿博物馆闲置2年",
-      "onboard_time": 1749396323,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178847,
       "num": 178847,
       "word": "林芊妤官宣怀二胎",
@@ -2129,6 +2145,14 @@
       "onboard_time": 1749299001,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163336,
+      "num": 135565,
+      "word": "王楚钦谈大头外号",
+      "onboard_time": 1749398660,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 162755,
@@ -3107,6 +3131,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 113271,
+      "num": 113271,
+      "word": "德国0比2法国",
+      "onboard_time": 1749397404,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112847,
       "num": 112847,
       "word": "花如月回归",
@@ -3177,6 +3209,14 @@
       "onboard_time": 1749370341,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108843,
+      "num": 108843,
+      "word": "游客被打副所长拉偏架被免职不冤",
+      "onboard_time": 1749399979,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108625,
@@ -3267,6 +3307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101174,
+      "num": 136320,
+      "word": "男童商场攀岩被绳索勒脖20分钟",
+      "onboard_time": 1749397102,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100712,
       "num": 100712,
       "word": "吻戏还是得看短剧",
@@ -3347,6 +3395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92120,
+      "num": 92120,
+      "word": "TES郭皓",
+      "onboard_time": 1749394763,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90177,
       "num": 90177,
       "word": "法网女单决赛",
@@ -3409,6 +3465,14 @@
       "onboard_time": 1749339378,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72448,
+      "num": 96406,
+      "word": "高考背后有多少人在守护",
+      "onboard_time": 1749398604,
+      "rank": 44,
+      "category": "正能量,教育"
     },
     {
       "raw_hot": 70485,
@@ -3491,6 +3555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 65413,
+      "num": 137306,
+      "word": "韦东奕家属称开号是为打假",
+      "onboard_time": 1749399858,
+      "rank": 27,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 64067,
       "num": 312409,
       "word": "河南一爸爸身穿旗袍为儿子霸气应援",
@@ -3539,12 +3611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58815,
+      "num": 108859,
+      "word": "董倩谈王楚钦巴黎奥运止步32强",
+      "onboard_time": 1749400101,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58479,
       "num": 58479,
       "word": "姜云升 也难怪圈外人有刻板印象",
       "onboard_time": 1749303863,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58201,
+      "num": 189771,
+      "word": "招财猫文物实为古人用的熨斗",
+      "onboard_time": 1749398420,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57542,
@@ -3771,6 +3859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36674,
+      "num": 255326,
+      "word": "为啥高考英语作文总要帮李华写信",
+      "onboard_time": 1749398420,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35792,
       "num": 286683,
       "word": "特朗普自大言论暴露4大问题",
@@ -3809,6 +3905,14 @@
       "onboard_time": 1749361880,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33129,
+      "num": 108919,
+      "word": "加州蒙面人敲碎砖头攻击警察",
+      "onboard_time": 1749398604,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 32672,
@@ -3897,6 +4001,14 @@
       "onboard_time": 1749338477,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21526,
+      "num": 92858,
+      "word": "狼队小胖控龙高手",
+      "onboard_time": 1749399500,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 20526,
