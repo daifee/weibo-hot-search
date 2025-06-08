@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/08 00:30:01 ~ 2025/06/08 11:56:39
+本榜单时间：2025/06/08 00:30:01 ~ 2025/06/08 12:06:30
 </p>
 </blockquote>
 <p>
@@ -28,7 +28,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86%23" target="weibo">
-高考物理（热度：2497436）
+高考物理（热度：2655355）
 </a>
 </li>
 
@@ -99,6 +99,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%AD%8C%E6%89%8B%20%E5%94%B1%E7%8E%8B%E6%BA%90%E7%9A%84%E6%AD%8C%23" target="weibo">
+马嘉祺歌手 唱王源的歌（热度：798263）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%A4%9A%E4%BD%8D%E5%AE%B6%E9%95%BF%E6%8A%8A%E8%BD%A6%E6%A0%87%E6%94%B9%E4%B8%BA985%23" target="weibo">
 浙江多位家长把车标改为985（热度：779738）
 </a>
@@ -107,12 +113,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%20%E6%88%91%E4%B9%9F%E8%A7%89%E5%BE%97%E7%A5%A8%E6%95%B0%E4%BD%8E%E4%BA%86%23" target="weibo">
 李晟 我也觉得票数低了（热度：724901）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%AD%8C%E6%89%8B%20%E5%94%B1%E7%8E%8B%E6%BA%90%E7%9A%84%E6%AD%8C%23" target="weibo">
-马嘉祺歌手 唱王源的歌（热度：620194）
 </a>
 </li>
 
@@ -131,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%E5%9B%A2%E7%9C%8B%E5%88%B0%E7%A5%A8%E6%95%B0%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86%E9%83%BD%E6%B2%A1%E4%BA%86%23" target="weibo">
 李晟团看到票数表情管理都没了（热度：584299）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E7%89%A9%E7%90%86%E6%88%90%E4%B8%BA%E4%BA%86%E6%88%91%E7%9A%84%E8%B4%A5%E7%AC%94%23" target="weibo">
+我的物理成为了我的败笔（热度：583432）
 </a>
 </li>
 
@@ -231,12 +237,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E7%89%A9%E7%90%86%E6%88%90%E4%B8%BA%E4%BA%86%E6%88%91%E7%9A%84%E8%B4%A5%E7%AC%94%23" target="weibo">
-我的物理成为了我的败笔（热度：354348）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%9419%E5%B2%81%E6%91%94%E6%8B%8D%E5%AD%90%23" target="weibo">
 王楚钦回应19岁摔拍子（热度：348097）
 </a>
@@ -245,6 +245,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%81%A2%E5%A4%8D%E5%A4%84%E7%90%86%E5%93%88%E4%BD%9B%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%AD%BE%E8%AF%81%23" target="weibo">
 美国恢复处理哈佛国际学生签证（热度：344337）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%94%9F%E8%B5%A2%E8%BF%87%E7%90%86%E7%A7%91%E7%94%9F%23" target="weibo">
+文科生赢过理科生（热度：342956）
 </a>
 </li>
 
@@ -267,6 +273,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9cos%E8%97%8F%E6%B5%B7%23" target="weibo">
+垫底辣孩cos藏海（热度：289697）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E8%AD%A6%E5%91%8A%23" target="weibo">
 特朗普对马斯克发警告（热度：289456）
 </a>
@@ -281,12 +293,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%B5%E5%AE%8C%E5%8F%88%E6%94%B9%E5%8F%A3%23" target="weibo">
 马斯克和特朗普吵完又改口（热度：276495）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9cos%E8%97%8F%E6%B5%B7%23" target="weibo">
-垫底辣孩cos藏海（热度：275594）
 </a>
 </li>
 
@@ -387,12 +393,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%94%9F%E8%B5%A2%E8%BF%87%E7%90%86%E7%A7%91%E7%94%9F%23" target="weibo">
-文科生赢过理科生（热度：210322）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%20%E5%85%A8%E5%BC%80%E9%BA%A6%23" target="weibo">
 吴宣仪 全开麦（热度：208614）
 </a>
@@ -419,6 +419,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E7%9B%B4%E6%92%AD%23" target="weibo">
 浪姐直播（热度：193000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8E%86%E5%8F%B2%E9%9A%BE%E6%AD%BB%E4%BA%86%23" target="weibo">
+四川历史难死了（热度：190349）
 </a>
 </li>
 
@@ -507,6 +513,12 @@ GAI和CBLOCK四小只拥抱（热度：180105）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%8E%86%E5%8F%B2%23" target="weibo">
+广东历史（热度：170247）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E8%AF%B4%E6%9F%AF%E6%B7%B3%E5%93%AD%E6%88%8F%E6%9E%9C%E7%84%B6%E5%8E%89%E5%AE%B3%23" target="weibo">
 尔冬升说柯淳哭戏果然厉害（热度：169807）
 </a>
@@ -561,6 +573,18 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%B8%85%E5%BE%97%E5%BE%88%E6%B8%85%E7%88%BD%23" target="weibo">
+李昀锐帅得很清爽（热度：159189）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E5%B0%A7%E5%9C%A8%E5%AE%B6%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E5%B8%AE%E5%90%B4%E8%B0%A8%E8%A8%80%E6%90%AD%E8%BF%87%E8%AF%8D%23" target="weibo">
+洪尧在家的时候就帮吴谨言搭过词（热度：155031）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%89%BA%E5%BD%A4%E8%BF%99%E6%AC%A1%E5%A4%A7%E5%AE%B6%E6%98%AF%E7%AB%99%E7%9D%80%E7%9A%84%23" target="weibo">
 李艺彤这次大家是站着的（热度：154135）
 </a>
@@ -579,6 +603,18 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%89%A9%E7%90%86%E5%A4%A7%E9%A2%98%23" target="weibo">
+广东物理大题（热度：149610）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E5%9B%BD%E4%BA%A7%E5%89%A7%E5%87%B6%E6%89%8B%E6%98%AF%E5%9D%97%E5%9F%B9%E6%A0%B9%23" target="weibo">
+谁家国产剧凶手是块培根（热度：146523）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E4%B8%96%E4%B9%92%E8%B5%9B%E5%A4%BA%E5%86%A0%E5%90%8E%E5%85%A8%E7%BF%BB%E7%AF%87%E4%BA%86%23" target="weibo">
 王楚钦说世乒赛夺冠后全翻篇了（热度：146171）
 </a>
@@ -593,12 +629,6 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232008%E5%B9%B4%E6%95%85%E6%84%8F%E8%80%830%E5%88%86%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 2008年故意考0分男子发声（热度：145844）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%89%A9%E7%90%86%E5%A4%A7%E9%A2%98%23" target="weibo">
-广东物理大题（热度：144654）
 </a>
 </li>
 
@@ -639,6 +669,12 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%80%80%E7%9C%BC%E5%AE%98%E5%AE%A3%E5%89%A7%E7%85%A7%23" target="weibo">
+关晓彤耀眼官宣剧照（热度：138922）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%84%91%E8%BF%87%E5%BA%A6%E7%96%B2%E5%8A%B3%E7%9A%848%E4%B8%AA%E4%BF%A1%E5%8F%B7%23" target="weibo">
 大脑过度疲劳的8个信号（热度：138643）
 </a>
@@ -663,14 +699,8 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E5%B0%A7%E5%9C%A8%E5%AE%B6%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E5%B8%AE%E5%90%B4%E8%B0%A8%E8%A8%80%E6%90%AD%E8%BF%87%E8%AF%8D%23" target="weibo">
-洪尧在家的时候就帮吴谨言搭过词（热度：131498）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%80%80%E7%9C%BC%E5%AE%98%E5%AE%A3%E5%89%A7%E7%85%A7%23" target="weibo">
-关晓彤耀眼官宣剧照（热度：130634）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E7%89%A9%E7%90%86%20%E7%AE%80%E5%8D%95%23" target="weibo">
+安徽物理 简单（热度：134504）
 </a>
 </li>
 
@@ -701,12 +731,6 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8F%A3%E4%B8%80%E5%B0%8F%E5%8C%BA%E6%A5%BC%E4%BD%93%E9%9B%86%E4%BD%93%E5%BC%80%E8%A3%82%23" target="weibo">
 海口一小区楼体集体开裂（热度：128984）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E7%89%A9%E7%90%86%20%E7%AE%80%E5%8D%95%23" target="weibo">
-安徽物理 简单（热度：127756）
 </a>
 </li>
 
@@ -831,6 +855,12 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8F%88%E5%8F%8C%E5%8F%92%E8%A7%A3%E9%94%81%E6%96%B0%E6%8A%80%E8%83%BD%23" target="weibo">
+王一博又双叒解锁新技能（热度：76397）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%23" target="weibo">
 长安的荔枝（热度：74578）
 </a>
@@ -855,8 +885,14 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%8F%88%E5%8F%8C%E5%8F%92%E8%A7%A3%E9%94%81%E6%96%B0%E6%8A%80%E8%83%BD%23" target="weibo">
-王一博又双叒解锁新技能（热度：67428）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A3%E7%BA%B8%E7%9A%84%E8%AF%9E%E7%94%9F%E7%AB%9F%E5%85%85%E6%BB%A1%E8%AF%97%E6%84%8F%23" target="weibo">
+宣纸的诞生竟充满诗意（热度：68463）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%8F%B3%E7%BF%BC%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E9%81%AD%E6%9E%AA%E5%87%BB%23" target="weibo">
+哥伦比亚右翼总统候选人遭枪击（热度：68253）
 </a>
 </li>
 

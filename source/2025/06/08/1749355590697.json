@@ -1,0 +1,410 @@
+{
+  "runTime": 1749355590697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8085968,
+        "num": 8085968,
+        "word": "高考历史",
+        "onboard_time": 1749349820,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2655355,
+        "num": 2655355,
+        "word": "高考物理",
+        "onboard_time": 1749348800,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21962,
+        "num": 1318282,
+        "word": "一个学科一句为高考生加油",
+        "onboard_time": 1749302902,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897172,
+        "num": 897172,
+        "word": "领衔主演关晓彤李昀锐",
+        "onboard_time": 1749348201,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 798263,
+        "num": 798263,
+        "word": "马嘉祺歌手 唱王源的歌",
+        "onboard_time": 1749353182,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 719892,
+        "num": 719892,
+        "word": "高考历史文言文",
+        "onboard_time": 1749351620,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 501530,
+        "num": 501530,
+        "word": "浪姐成团名单",
+        "onboard_time": 1749313102,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345512,
+        "num": 345512,
+        "word": "王楚钦回应19岁摔拍子",
+        "onboard_time": 1749350120,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342956,
+        "num": 342956,
+        "word": "文科生赢过理科生",
+        "onboard_time": 1749354741,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289697,
+        "num": 289697,
+        "word": "垫底辣孩cos藏海",
+        "onboard_time": 1749347901,
+        "rank": 9,
+        "category": "网红,剧集"
+      },
+      {
+        "raw_hot": 944396,
+        "num": 287364,
+        "word": "历史给我道歉",
+        "onboard_time": 1749351201,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 415493,
+        "num": 284934,
+        "word": "韦东奕严选账号已改名",
+        "onboard_time": 1749312383,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76397,
+        "num": 283617,
+        "word": "王一博又双叒解锁新技能",
+        "onboard_time": 1749352340,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583432,
+        "num": 281355,
+        "word": "我的物理成为了我的败笔",
+        "onboard_time": 1749352040,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 392139,
+        "num": 277726,
+        "word": "考生开考前25分钟因锁故障被困家中",
+        "onboard_time": 1749346700,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68253,
+        "num": 274223,
+        "word": "哥伦比亚右翼总统候选人遭枪击",
+        "onboard_time": 1749355101,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274016,
+        "num": 274016,
+        "word": "李晟回应只成团2人",
+        "onboard_time": 1749345740,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172536,
+        "num": 172536,
+        "word": "特朗普称与马斯克关系已结束",
+        "onboard_time": 1749345079,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170247,
+        "num": 170247,
+        "word": "广东历史",
+        "onboard_time": 1749355221,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160390,
+        "num": 160390,
+        "word": "侯佩岑在线找工作",
+        "onboard_time": 1749349519,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364331,
+        "num": 160387,
+        "word": "被高考历史做局了",
+        "onboard_time": 1749351921,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229994,
+        "num": 160234,
+        "word": "23岁女健身教练身上紫纹越长越多",
+        "onboard_time": 1749346640,
+        "rank": 21,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 216693,
+        "num": 160082,
+        "word": "谁家古风小生出的试卷",
+        "onboard_time": 1749352761,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206383,
+        "num": 160036,
+        "word": "北京一地下室惊现大鱼池",
+        "onboard_time": 1749342558,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180358,
+        "num": 159881,
+        "word": "李晟团看到票数表情管理都没了",
+        "onboard_time": 1749341838,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159808,
+        "num": 159808,
+        "word": "新一卷历史 难",
+        "onboard_time": 1749351681,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146523,
+        "num": 159472,
+        "word": "谁家国产剧凶手是块培根",
+        "onboard_time": 1749355340,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159189,
+        "num": 159189,
+        "word": "李昀锐帅得很清爽",
+        "onboard_time": 1749355221,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158432,
+        "num": 158432,
+        "word": "叶童年度总冠军",
+        "onboard_time": 1749315021,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155031,
+        "num": 155031,
+        "word": "洪尧在家的时候就帮吴谨言搭过词",
+        "onboard_time": 1749354261,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190349,
+        "num": 154961,
+        "word": "四川历史难死了",
+        "onboard_time": 1749355101,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153087,
+        "num": 153087,
+        "word": "大爷被蛇咬伤反抓蛇再遭咬",
+        "onboard_time": 1749348740,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151740,
+        "num": 151740,
+        "word": "瓦格纳集团宣布撤军",
+        "onboard_time": 1749353001,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151676,
+        "num": 151676,
+        "word": "店名像粗话螺蛳粉店将关店",
+        "onboard_time": 1749353360,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149610,
+        "num": 149610,
+        "word": "广东物理大题",
+        "onboard_time": 1749352101,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147197,
+        "num": 147197,
+        "word": "长沙暴雨居民楼楼梯变瀑布",
+        "onboard_time": 1749353182,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145737,
+        "num": 145737,
+        "word": "福建物理 难",
+        "onboard_time": 1749354082,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144667,
+        "num": 144667,
+        "word": "韦东奕曾回应什么样的孩子适合学数学",
+        "onboard_time": 1749353421,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143917,
+        "num": 143917,
+        "word": "高考",
+        "onboard_time": 1749338176,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138922,
+        "num": 138922,
+        "word": "关晓彤耀眼官宣剧照",
+        "onboard_time": 1749354619,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134504,
+        "num": 134504,
+        "word": "安徽物理 简单",
+        "onboard_time": 1749354141,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 68463,
+        "num": 133067,
+        "word": "宣纸的诞生竟充满诗意",
+        "onboard_time": 1749355521,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132992,
+        "num": 132992,
+        "word": "马斯克和特朗普吵完又改口",
+        "onboard_time": 1749310103,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131366,
+        "num": 131366,
+        "word": "吴宣仪回应第二",
+        "onboard_time": 1749340758,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122851,
+        "num": 122851,
+        "word": "美国恢复处理哈佛国际学生签证",
+        "onboard_time": 1749346340,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119209,
+        "num": 119209,
+        "word": "济南一烤鸭店幽默陪考停业告示火了",
+        "onboard_time": 1749352401,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118771,
+        "num": 118771,
+        "word": "耀眼开机",
+        "onboard_time": 1749343879,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100953,
+        "num": 116385,
+        "word": "高芙法网夺冠后让球童捧奖杯",
+        "onboard_time": 1749354082,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115793,
+        "num": 115793,
+        "word": "四川物理",
+        "onboard_time": 1749354861,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114953,
+        "num": 114953,
+        "word": "我们与恶的距离2",
+        "onboard_time": 1749349701,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记探寻中华文明#"
+    }
+  }
+}
