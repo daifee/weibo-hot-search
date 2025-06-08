@@ -1,0 +1,410 @@
+{
+  "runTime": 1749350044575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1515350,
+        "num": 1515350,
+        "word": "高考物理",
+        "onboard_time": 1749348800,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1022771,
+        "num": 1022771,
+        "word": "浪姐成团名单",
+        "onboard_time": 1749313102,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30758,
+        "num": 913145,
+        "word": "一个学科一句为高考生加油",
+        "onboard_time": 1749302902,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 822242,
+        "num": 822242,
+        "word": "领衔主演关晓彤李昀锐",
+        "onboard_time": 1749348201,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526321,
+        "num": 526321,
+        "word": "浙江多位家长把车标改为985",
+        "onboard_time": 1749344600,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417258,
+        "num": 417258,
+        "word": "特朗普称与马斯克关系已结束",
+        "onboard_time": 1749345079,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 484348,
+        "num": 366107,
+        "word": "李晟回应只成团2人",
+        "onboard_time": 1749345740,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290090,
+        "num": 290090,
+        "word": "美国恢复处理哈佛国际学生签证",
+        "onboard_time": 1749346340,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289456,
+        "num": 289456,
+        "word": "特朗普对马斯克发警告",
+        "onboard_time": 1749347660,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261694,
+        "num": 261694,
+        "word": "高考历史",
+        "onboard_time": 1749349820,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1480550,
+        "num": 261671,
+        "word": "考生开考前25分钟因锁故障被困家中",
+        "onboard_time": 1749346700,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808449,
+        "num": 258127,
+        "word": "韦东奕严选账号已改名",
+        "onboard_time": 1749312383,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442069,
+        "num": 257020,
+        "word": "李晟团看到票数表情管理都没了",
+        "onboard_time": 1749341838,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241659,
+        "num": 253937,
+        "word": "05后高考生即将迎接新生活",
+        "onboard_time": 1749346820,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 304746,
+        "num": 251952,
+        "word": "叶童年度总冠军",
+        "onboard_time": 1749315021,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250386,
+        "num": 250386,
+        "word": "耀眼开机",
+        "onboard_time": 1749343879,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248524,
+        "num": 248524,
+        "word": "马斯克和特朗普吵完又改口",
+        "onboard_time": 1749310103,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245504,
+        "num": 245504,
+        "word": "高考数学",
+        "onboard_time": 1749283282,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232149,
+        "num": 232149,
+        "word": "垫底辣孩cos藏海",
+        "onboard_time": 1749347901,
+        "rank": 18,
+        "category": "网红,剧集"
+      },
+      {
+        "raw_hot": 230247,
+        "num": 230247,
+        "word": "南方出现焖蒸型高温",
+        "onboard_time": 1749345381,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368101,
+        "num": 230090,
+        "word": "23岁女健身教练身上紫纹越长越多",
+        "onboard_time": 1749346640,
+        "rank": 20,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 312863,
+        "num": 230071,
+        "word": "北京一地下室惊现大鱼池",
+        "onboard_time": 1749342558,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229530,
+        "num": 229530,
+        "word": "高考",
+        "onboard_time": 1749338176,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224359,
+        "num": 224359,
+        "word": "五胞胎同时参加高考50多万费用被免",
+        "onboard_time": 1749307043,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220826,
+        "num": 220826,
+        "word": "小婉管乐",
+        "onboard_time": 1749309983,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199174,
+        "num": 199174,
+        "word": "吴宣仪回应第二",
+        "onboard_time": 1749340758,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171676,
+        "num": 171676,
+        "word": "藏海传演唱会",
+        "onboard_time": 1749345021,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169807,
+        "num": 169807,
+        "word": "尔冬升说柯淳哭戏果然厉害",
+        "onboard_time": 1749348621,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162793,
+        "num": 162793,
+        "word": "高考第二天",
+        "onboard_time": 1749339497,
+        "rank": 28,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 161194,
+        "num": 161194,
+        "word": "空调一开一关和一直开着哪个费电",
+        "onboard_time": 1749310343,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 152440,
+        "num": 152440,
+        "word": "李艺彤没成团",
+        "onboard_time": 1749314482,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151596,
+        "num": 151596,
+        "word": "侯佩岑在线找工作",
+        "onboard_time": 1749349519,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137708,
+        "num": 137708,
+        "word": "新一卷数学大题 难",
+        "onboard_time": 1749288745,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136943,
+        "num": 136943,
+        "word": "孙颖莎落地人参果",
+        "onboard_time": 1749337998,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131349,
+        "num": 131349,
+        "word": "孟佳晒JYP家族合影",
+        "onboard_time": 1749338176,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129747,
+        "num": 129747,
+        "word": "为什么结婚后男人容易越来越发福",
+        "onboard_time": 1749339378,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126858,
+        "num": 126858,
+        "word": "中方要求日方尽快抓捕嫌犯",
+        "onboard_time": 1749312084,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124290,
+        "num": 124290,
+        "word": "国产剧最普通人的女主出现了",
+        "onboard_time": 1749310702,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121137,
+        "num": 121137,
+        "word": "我们与恶的距离2",
+        "onboard_time": 1749349701,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54937,
+        "num": 120225,
+        "word": "郭艾伦郭士强参加张镇麟婚礼",
+        "onboard_time": 1749349101,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119945,
+        "num": 119945,
+        "word": "祝绪丹回应浪姐没苦硬吃",
+        "onboard_time": 1749343520,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117081,
+        "num": 117081,
+        "word": "李艺彤这次大家是站着的",
+        "onboard_time": 1749339497,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116577,
+        "num": 116577,
+        "word": "萨巴伦卡泪洒颁奖典礼",
+        "onboard_time": 1749341600,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113449,
+        "num": 113449,
+        "word": "藏海传里的蛇眉铜鱼真的存在吗",
+        "onboard_time": 1749310042,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111820,
+        "num": 111820,
+        "word": "大爷被蛇咬伤反抓蛇再遭咬",
+        "onboard_time": 1749348740,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111653,
+        "num": 111653,
+        "word": "大脑过度疲劳的8个信号",
+        "onboard_time": 1749319517,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110062,
+        "num": 110062,
+        "word": "高考 晨跑",
+        "onboard_time": 1749347839,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109440,
+        "num": 109440,
+        "word": "洪尧演上了薛芳菲的前夫哥",
+        "onboard_time": 1749343040,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105365,
+        "num": 105365,
+        "word": "衡水中学高三学生高考期间坚持晨跑",
+        "onboard_time": 1749346580,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103969,
+        "num": 103969,
+        "word": "苏州打雷",
+        "onboard_time": 1749349701,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记探寻中华文明#"
+    }
+  }
+}

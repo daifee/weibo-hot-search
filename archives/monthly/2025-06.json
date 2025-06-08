@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749348609262,
+  "endTime": 1749350044575,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -555,6 +555,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 1515350,
+      "num": 1515350,
+      "word": "高考物理",
+      "onboard_time": 1749348800,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1509891,
       "num": 878438,
       "word": "许其亮同志逝世",
@@ -577,6 +585,14 @@
       "onboard_time": 1748918541,
       "rank": 3,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1480550,
+      "num": 313202,
+      "word": "考生开考前25分钟因锁故障被困家中",
+      "onboard_time": 1749346700,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1477629,
@@ -617,14 +633,6 @@
       "onboard_time": 1749268768,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1391675,
-      "num": 313202,
-      "word": "考生开考前25分钟因锁故障被困家中",
-      "onboard_time": 1749346700,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1390192,
@@ -1609,6 +1617,14 @@
       "onboard_time": 1748742140,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 822242,
+      "num": 822242,
+      "word": "领衔主演关晓彤李昀锐",
+      "onboard_time": 1749348201,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 820113,
@@ -3212,7 +3228,7 @@
     },
     {
       "raw_hot": 517904,
-      "num": 337522,
+      "num": 366107,
       "word": "李晟回应只成团2人",
       "onboard_time": 1749345740,
       "rank": 8,
@@ -4187,6 +4203,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 417258,
+      "num": 417258,
+      "word": "特朗普称与马斯克关系已结束",
+      "onboard_time": 1749345079,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 416753,
       "num": 453802,
       "word": "女子把85万扔在了坟头草丛垃圾桶",
@@ -4217,14 +4241,6 @@
       "onboard_time": 1749001280,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413871,
-      "num": 413871,
-      "word": "特朗普称与马斯克关系已结束",
-      "onboard_time": 1749345079,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 411888,
@@ -4268,7 +4284,7 @@
     },
     {
       "raw_hot": 407042,
-      "num": 228464,
+      "num": 230071,
       "word": "北京一地下室惊现大鱼池",
       "onboard_time": 1749342558,
       "rank": 21,
@@ -6171,6 +6187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289456,
+      "num": 289456,
+      "word": "特朗普对马斯克发警告",
+      "onboard_time": 1749347660,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 288576,
       "num": 217792,
       "word": "空调一开一关和一直开着哪个费电",
@@ -6817,6 +6841,14 @@
       "onboard_time": 1749222744,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261694,
+      "num": 261694,
+      "word": "高考历史",
+      "onboard_time": 1749349820,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 260910,
@@ -7547,14 +7579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236625,
-      "num": 236625,
-      "word": "领衔主演关晓彤李昀锐",
-      "onboard_time": 1749348201,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236375,
       "num": 236375,
       "word": "跑男",
@@ -7683,6 +7707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 232149,
+      "num": 232149,
+      "word": "垫底辣孩cos藏海",
+      "onboard_time": 1749347901,
+      "rank": 24,
+      "category": "网红,剧集"
+    },
+    {
       "raw_hot": 232132,
       "num": 232132,
       "word": "早睡1小时变化能有多惊人",
@@ -7793,6 +7825,14 @@
       "onboard_time": 1749107001,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 230247,
+      "num": 308553,
+      "word": "南方出现焖蒸型高温",
+      "onboard_time": 1749345381,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230129,
@@ -8841,14 +8881,6 @@
       "onboard_time": 1748869583,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208761,
-      "num": 208761,
-      "word": "垫底辣孩cos藏海",
-      "onboard_time": 1749347901,
-      "rank": 24,
-      "category": "网红,剧集"
     },
     {
       "raw_hot": 208679,
@@ -11699,6 +11731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171676,
+      "num": 171676,
+      "word": "藏海传演唱会",
+      "onboard_time": 1749345021,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171657,
       "num": 171657,
       "word": "俄乌第二轮直接谈判今天举行",
@@ -11819,6 +11859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169807,
+      "num": 169807,
+      "word": "尔冬升说柯淳哭戏果然厉害",
+      "onboard_time": 1749348621,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169757,
       "num": 169757,
       "word": "时代少年团 芭莎",
@@ -11841,14 +11889,6 @@
       "onboard_time": 1748947942,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169557,
-      "num": 223122,
-      "word": "特朗普对马斯克发警告",
-      "onboard_time": 1749347660,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 169442,
@@ -12433,14 +12473,6 @@
       "onboard_time": 1748833340,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163693,
-      "num": 163693,
-      "word": "藏海传演唱会",
-      "onboard_time": 1749345021,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 163653,
@@ -13363,14 +13395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153048,
-      "num": 308553,
-      "word": "南方出现焖蒸型高温",
-      "onboard_time": 1749345381,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153016,
       "num": 153016,
       "word": "安东尼祝贺Uzi入选名人堂",
@@ -13520,6 +13544,14 @@
       "word": "陈德容抢词",
       "onboard_time": 1749300683,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151596,
+      "num": 151596,
+      "word": "侯佩岑在线找工作",
+      "onboard_time": 1749349519,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -16931,6 +16963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121137,
+      "num": 121137,
+      "word": "我们与恶的距离2",
+      "onboard_time": 1749349701,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121055,
       "num": 121055,
       "word": "合肥通报12人违规吃喝被停职检查",
@@ -17899,6 +17939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111820,
+      "num": 111820,
+      "word": "大爷被蛇咬伤反抓蛇再遭咬",
+      "onboard_time": 1749348740,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111799,
       "num": 111799,
       "word": "国足世预赛出局",
@@ -18697,6 +18745,14 @@
       "onboard_time": 1748840481,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103969,
+      "num": 103969,
+      "word": "苏州打雷",
+      "onboard_time": 1749349701,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103859,
@@ -22433,6 +22489,14 @@
       "onboard_time": 1749041660,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 54937,
+      "num": 120225,
+      "word": "郭艾伦郭士强参加张镇麟婚礼",
+      "onboard_time": 1749349101,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 54626,

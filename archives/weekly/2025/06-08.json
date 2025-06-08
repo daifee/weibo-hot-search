@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749348609262,
+  "endTime": 1749350044575,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -35,7 +35,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1391675,
+      "raw_hot": 1515350,
+      "num": 1515350,
+      "word": "高考物理",
+      "onboard_time": 1749348800,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1480550,
       "num": 313202,
       "word": "考生开考前25分钟因锁故障被困家中",
       "onboard_time": 1749346700,
@@ -73,6 +81,14 @@
       "onboard_time": 1749283282,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 822242,
+      "num": 822242,
+      "word": "领衔主演关晓彤李昀锐",
+      "onboard_time": 1749348201,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 779738,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 517904,
-      "num": 337522,
+      "num": 366107,
       "word": "李晟回应只成团2人",
       "onboard_time": 1749345740,
       "rank": 8,
@@ -187,8 +203,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413871,
-      "num": 413871,
+      "raw_hot": 417258,
+      "num": 417258,
       "word": "特朗普称与马斯克关系已结束",
       "onboard_time": 1749345079,
       "rank": 4,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 407042,
-      "num": 228464,
+      "num": 230071,
       "word": "北京一地下室惊现大鱼池",
       "onboard_time": 1749342558,
       "rank": 21,
@@ -267,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 289456,
+      "num": 289456,
+      "word": "特朗普对马斯克发警告",
+      "onboard_time": 1749347660,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 288576,
       "num": 205180,
       "word": "空调一开一关和一直开着哪个费电",
@@ -331,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261694,
+      "num": 261694,
+      "word": "高考历史",
+      "onboard_time": 1749349820,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 260097,
       "num": 171586,
       "word": "吴宣仪 这是我第三次成团",
@@ -355,12 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236625,
-      "num": 236625,
-      "word": "领衔主演关晓彤李昀锐",
-      "onboard_time": 1749348201,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 232149,
+      "num": 232149,
+      "word": "垫底辣孩cos藏海",
+      "onboard_time": 1749347901,
+      "rank": 24,
+      "category": "网红,剧集"
+    },
+    {
+      "raw_hot": 230247,
+      "num": 308553,
+      "word": "南方出现焖蒸型高温",
+      "onboard_time": 1749345381,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229752,
@@ -401,14 +441,6 @@
       "onboard_time": 1749312743,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208761,
-      "num": 208761,
-      "word": "垫底辣孩cos藏海",
-      "onboard_time": 1749347901,
-      "rank": 24,
-      "category": "网红,剧集"
     },
     {
       "raw_hot": 208614,
@@ -499,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171676,
+      "num": 171676,
+      "word": "藏海传演唱会",
+      "onboard_time": 1749345021,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170759,
       "num": 170759,
       "word": "孙颖莎落地人参果",
@@ -507,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169557,
-      "num": 223122,
-      "word": "特朗普对马斯克发警告",
-      "onboard_time": 1749347660,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 169807,
+      "num": 169807,
+      "word": "尔冬升说柯淳哭戏果然厉害",
+      "onboard_time": 1749348621,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 165620,
@@ -529,14 +569,6 @@
       "onboard_time": 1749299001,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163693,
-      "num": 163693,
-      "word": "藏海传演唱会",
-      "onboard_time": 1749345021,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 162529,
@@ -571,18 +603,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153048,
-      "num": 308553,
-      "word": "南方出现焖蒸型高温",
-      "onboard_time": 1749345381,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152103,
       "num": 152103,
       "word": "祝绪丹回应浪姐没苦硬吃",
       "onboard_time": 1749343520,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151596,
+      "num": 151596,
+      "word": "侯佩岑在线找工作",
+      "onboard_time": 1749349519,
       "rank": 31,
       "category": "综艺"
     },
@@ -739,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121137,
+      "num": 121137,
+      "word": "我们与恶的距离2",
+      "onboard_time": 1749349701,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115369,
       "num": 115369,
       "word": "张镇麟婚礼",
@@ -763,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111820,
+      "num": 111820,
+      "word": "大爷被蛇咬伤反抓蛇再遭咬",
+      "onboard_time": 1749348740,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109151,
       "num": 233234,
       "word": "6岁男孩被困小区电梯40分钟无人救",
@@ -785,6 +833,14 @@
       "onboard_time": 1749313043,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103969,
+      "num": 103969,
+      "word": "苏州打雷",
+      "onboard_time": 1749349701,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102121,
@@ -937,6 +993,14 @@
       "onboard_time": 1749318377,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54937,
+      "num": 120225,
+      "word": "郭艾伦郭士强参加张镇麟婚礼",
+      "onboard_time": 1749349101,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 53047,
