@@ -1,0 +1,410 @@
+{
+  "runTime": 1749364537907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1489409,
+        "num": 1489409,
+        "word": "高考历史",
+        "onboard_time": 1749349820,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1422994,
+        "num": 1422994,
+        "word": "历史 高考顶流",
+        "onboard_time": 1749356241,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35553,
+        "num": 818366,
+        "word": "我国服务贸易跑出加速度",
+        "onboard_time": 1749356781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 720154,
+        "num": 720154,
+        "word": "文科生赢过理科生",
+        "onboard_time": 1749354741,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 556779,
+        "num": 556779,
+        "word": "浪姐奖杯 丑",
+        "onboard_time": 1749361040,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534643,
+        "num": 534643,
+        "word": "高考物理",
+        "onboard_time": 1749348800,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 509345,
+        "num": 509345,
+        "word": "文科生站起来了",
+        "onboard_time": 1749356781,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 495410,
+        "num": 495410,
+        "word": "金巧巧30年前就做过医美",
+        "onboard_time": 1749361522,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317598,
+        "num": 317598,
+        "word": "蛇从天降硬核大爷抓起一顿狂摔",
+        "onboard_time": 1749359601,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207022,
+        "num": 316734,
+        "word": "曝马斯克与美财长曾在白宫大打出手",
+        "onboard_time": 1749353781,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 963743,
+        "num": 315759,
+        "word": "被摸腿女演员讲述从业初衷",
+        "onboard_time": 1749358461,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94488,
+        "num": 313719,
+        "word": "场外陪考卷出新高度",
+        "onboard_time": 1749360982,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422794,
+        "num": 311899,
+        "word": "裴秀智没去Min的婚礼",
+        "onboard_time": 1749359421,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325873,
+        "num": 308740,
+        "word": "韦东奕严选账号已改名",
+        "onboard_time": 1749312383,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217215,
+        "num": 308155,
+        "word": "抗癌患者一条评论救活面包店",
+        "onboard_time": 1749362360,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81261,
+        "num": 305845,
+        "word": "日警方公布对中国游客行凶者形象",
+        "onboard_time": 1749361281,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 277583,
+        "num": 304998,
+        "word": "孙茜说肖战的戏演的是很好的",
+        "onboard_time": 1749362840,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260129,
+        "num": 303311,
+        "word": "邓超用英文表白孙俪",
+        "onboard_time": 1749360621,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251573,
+        "num": 300547,
+        "word": "赵丽颖尹昉合照",
+        "onboard_time": 1749362600,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250008,
+        "num": 298693,
+        "word": "宋妍霏光脚领奖",
+        "onboard_time": 1749359242,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67270,
+        "num": 296777,
+        "word": "吃西瓜能抗炎和延缓衰老吗",
+        "onboard_time": 1749364281,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 329541,
+        "num": 295906,
+        "word": "身体好的人肚子大多软软的",
+        "onboard_time": 1749361522,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 294404,
+        "num": 294404,
+        "word": "历史出道五千年 考久一",
+        "onboard_time": 1749356961,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 226810,
+        "num": 226810,
+        "word": "宁静直接封神的存在",
+        "onboard_time": 1749358880,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203860,
+        "num": 203860,
+        "word": "马嘉祺歌手 唱王源的歌",
+        "onboard_time": 1749353182,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171544,
+        "num": 171544,
+        "word": "不一定有王子但肯定有黄子",
+        "onboard_time": 1749364281,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193798,
+        "num": 170994,
+        "word": "领衔主演关晓彤李昀锐",
+        "onboard_time": 1749348201,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169437,
+        "num": 169437,
+        "word": "王润泽和院人的命运齿轮转飞了",
+        "onboard_time": 1749363382,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157189,
+        "num": 157189,
+        "word": "王俊凯一怒之下怒了一下",
+        "onboard_time": 1749363800,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154512,
+        "num": 154512,
+        "word": "浪姐成团名单",
+        "onboard_time": 1749313102,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149945,
+        "num": 149945,
+        "word": "妈妈岗",
+        "onboard_time": 1749359541,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24661,
+        "num": 146436,
+        "word": "歌迷找3人同时抢演唱会票才成功",
+        "onboard_time": 1749362661,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70485,
+        "num": 146158,
+        "word": "小区频繁高空抛物有人被砸到脑震荡",
+        "onboard_time": 1749362600,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145957,
+        "num": 145957,
+        "word": "李昀锐衣服上的小森林",
+        "onboard_time": 1749363500,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145873,
+        "num": 145873,
+        "word": "特朗普将向加州派遣两千国民警卫队",
+        "onboard_time": 1749355641,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140041,
+        "num": 140041,
+        "word": "七根心简开播",
+        "onboard_time": 1749358640,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138186,
+        "num": 138186,
+        "word": "樊振东许昕同框",
+        "onboard_time": 1749356542,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137645,
+        "num": 137645,
+        "word": "北京一地下室惊现大鱼池",
+        "onboard_time": 1749342558,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132383,
+        "num": 132383,
+        "word": "垫底辣孩cos藏海",
+        "onboard_time": 1749347901,
+        "rank": 38,
+        "category": "网红,剧集"
+      },
+      {
+        "raw_hot": 130187,
+        "num": 130187,
+        "word": "考生开考前25分钟因锁故障被困家中",
+        "onboard_time": 1749346700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126406,
+        "num": 126406,
+        "word": "23岁女健身教练身上紫纹越长越多",
+        "onboard_time": 1749346640,
+        "rank": 40,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 115320,
+        "num": 115320,
+        "word": "店员钉收据扎坏上百台Switch2",
+        "onboard_time": 1749364401,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39346,
+        "num": 112884,
+        "word": "高考作文大赛",
+        "onboard_time": 1749363140,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112847,
+        "num": 112847,
+        "word": "花如月回归",
+        "onboard_time": 1749363260,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112675,
+        "num": 112675,
+        "word": "救女童大爷被威胁后求购护家狗",
+        "onboard_time": 1749356301,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33578,
+        "num": 110058,
+        "word": "手机看得越多大脑越疲劳吗",
+        "onboard_time": 1749361880,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109914,
+        "num": 109914,
+        "word": "蔡徐坤Deadman",
+        "onboard_time": 1749359421,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109193,
+        "num": 109193,
+        "word": "北大数学系学生眼中的韦老师",
+        "onboard_time": 1749359901,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107127,
+        "num": 107127,
+        "word": "王楚钦回应19岁摔拍子",
+        "onboard_time": 1749350120,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98013,
+        "num": 98013,
+        "word": "古风考生",
+        "onboard_time": 1749362540,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让勤奋学习成为青春远航的动力#"
+    }
+  }
+}

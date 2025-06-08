@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749361394358,
+  "endTime": 1749364537907,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1422994,
+      "num": 1422994,
+      "word": "历史 高考顶流",
+      "onboard_time": 1749356241,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1271990,
       "num": 1271990,
       "word": "小婉管乐",
@@ -72,14 +80,6 @@
       "word": "文科生赢过理科生",
       "onboard_time": 1749354741,
       "rank": 30,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 1213209,
-      "num": 1213209,
-      "word": "历史 高考顶流",
-      "onboard_time": 1749356241,
-      "rank": 26,
       "category": "教育"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1749315800,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 963743,
+      "num": 408619,
+      "word": "被摸腿女演员讲述从业初衷",
+      "onboard_time": 1749358461,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 940563,
@@ -171,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 647122,
-      "num": 408619,
-      "word": "被摸腿女演员讲述从业初衷",
-      "onboard_time": 1749358461,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 600907,
       "num": 208051,
       "word": "李晟团票数也太低了",
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556779,
+      "num": 556779,
+      "word": "浪姐奖杯 丑",
+      "onboard_time": 1749361040,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531672,
       "num": 531672,
       "word": "驻日本大使馆发布提醒",
@@ -251,6 +259,14 @@
       "category": "运动健身,民生新闻"
     },
     {
+      "raw_hot": 495410,
+      "num": 495410,
+      "word": "金巧巧30年前就做过医美",
+      "onboard_time": 1749361522,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486724,
       "num": 486724,
       "word": "五胞胎同时参加高考50多万费用被免",
@@ -273,6 +289,14 @@
       "onboard_time": 1749307644,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 422794,
+      "num": 355491,
+      "word": "裴秀智没去Min的婚礼",
+      "onboard_time": 1749359421,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 417258,
@@ -355,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355491,
-      "num": 355491,
-      "word": "裴秀智没去Min的婚礼",
-      "onboard_time": 1749359421,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 348097,
       "num": 406649,
       "word": "王楚钦回应19岁摔拍子",
@@ -377,6 +393,22 @@
       "onboard_time": 1749346340,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 329541,
+      "num": 295906,
+      "word": "身体好的人肚子大多软软的",
+      "onboard_time": 1749361522,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 317598,
+      "num": 463463,
+      "word": "蛇从天降硬核大爷抓起一顿狂摔",
+      "onboard_time": 1749359601,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311328,
@@ -425,6 +457,14 @@
       "onboard_time": 1749352761,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 277583,
+      "num": 304998,
+      "word": "孙茜说肖战的戏演的是很好的",
+      "onboard_time": 1749362840,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 276495,
@@ -491,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260129,
+      "num": 303311,
+      "word": "邓超用英文表白孙俪",
+      "onboard_time": 1749360621,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260097,
       "num": 171586,
       "word": "吴宣仪 这是我第三次成团",
@@ -499,8 +547,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248567,
-      "num": 248567,
+      "raw_hot": 251573,
+      "num": 300547,
+      "word": "赵丽颖尹昉合照",
+      "onboard_time": 1749362600,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250008,
+      "num": 298693,
       "word": "宋妍霏光脚领奖",
       "onboard_time": 1749359242,
       "rank": 27,
@@ -585,6 +641,14 @@
       "onboard_time": 1749312743,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217215,
+      "num": 308155,
+      "word": "抗癌患者一条评论救活面包店",
+      "onboard_time": 1749362360,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210192,
@@ -747,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180448,
-      "num": 180448,
-      "word": "浪姐奖杯 丑",
-      "onboard_time": 1749361040,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180105,
       "num": 180105,
       "word": "GAI和CBLOCK四小只拥抱",
@@ -835,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171544,
+      "num": 171544,
+      "word": "不一定有王子但肯定有黄子",
+      "onboard_time": 1749364281,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170759,
       "num": 170759,
       "word": "孙颖莎落地人参果",
@@ -848,14 +912,6 @@
       "word": "大爷被蛇咬伤反抓蛇再遭咬",
       "onboard_time": 1749348740,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170431,
-      "num": 463463,
-      "word": "蛇从天降硬核大爷抓起一顿狂摔",
-      "onboard_time": 1749359601,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -883,10 +939,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168342,
-      "num": 168342,
-      "word": "邓超用英文表白孙俪",
-      "onboard_time": 1749360621,
+      "raw_hot": 169437,
+      "num": 169437,
+      "word": "王润泽和院人的命运齿轮转飞了",
+      "onboard_time": 1749363382,
       "rank": 27,
       "category": "综艺"
     },
@@ -995,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157189,
+      "num": 157189,
+      "word": "王俊凯一怒之下怒了一下",
+      "onboard_time": 1749363800,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155031,
       "num": 155031,
       "word": "洪尧在家的时候就帮吴谨言搭过词",
@@ -1081,6 +1145,14 @@
       "onboard_time": 1749315322,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145957,
+      "num": 145957,
+      "word": "李昀锐衣服上的小森林",
+      "onboard_time": 1749363500,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 145904,
@@ -1371,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115320,
+      "num": 115320,
+      "word": "店员钉收据扎坏上百台Switch2",
+      "onboard_time": 1749364401,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115079,
       "num": 115079,
       "word": "单依纯这盛世如你所愿",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1749353961,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 112847,
+      "num": 112847,
+      "word": "花如月回归",
+      "onboard_time": 1749363260,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 112601,
@@ -1404,7 +1492,7 @@
     },
     {
       "raw_hot": 109653,
-      "num": 109653,
+      "num": 305845,
       "word": "日警方公布对中国游客行凶者形象",
       "onboard_time": 1749361281,
       "rank": 49,
@@ -1475,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98013,
+      "num": 98013,
+      "word": "古风考生",
+      "onboard_time": 1749362540,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 96219,
       "num": 96219,
       "word": "法网2025",
@@ -1483,20 +1579,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94488,
+      "num": 355988,
+      "word": "场外陪考卷出新高度",
+      "onboard_time": 1749360982,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90177,
       "num": 90177,
       "word": "法网女单决赛",
       "onboard_time": 1749316519,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89052,
-      "num": 355988,
-      "word": "场外陪考卷出新高度",
-      "onboard_time": 1749360982,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87686,
@@ -1521,6 +1617,14 @@
       "onboard_time": 1749339378,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 70485,
+      "num": 146158,
+      "word": "小区频繁高空抛物有人被砸到脑震荡",
+      "onboard_time": 1749362600,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68910,
@@ -1561,6 +1665,14 @@
       "onboard_time": 1749338237,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67270,
+      "num": 296777,
+      "word": "吃西瓜能抗炎和延缓衰老吗",
+      "onboard_time": 1749364281,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 62915,
@@ -1707,6 +1819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 39346,
+      "num": 112884,
+      "word": "高考作文大赛",
+      "onboard_time": 1749363140,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 36751,
       "num": 40160,
       "word": "李嘉格心疼妈妈给老公当妈",
@@ -1731,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33578,
+      "num": 110058,
+      "word": "手机看得越多大脑越疲劳吗",
+      "onboard_time": 1749361880,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 32552,
       "num": 42933,
       "word": "GBLOCK联名专辑",
@@ -1753,6 +1881,14 @@
       "onboard_time": 1749319636,
       "rank": 49,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 24661,
+      "num": 146436,
+      "word": "歌迷找3人同时抢演唱会票才成功",
+      "onboard_time": 1749362661,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23469,
