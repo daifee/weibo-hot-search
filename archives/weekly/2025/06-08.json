@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749364537907,
+  "endTime": 1749365353200,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -51,20 +51,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1637279,
+      "num": 1637279,
+      "word": "历史 高考顶流",
+      "onboard_time": 1749356241,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1480550,
       "num": 339833,
       "word": "考生开考前25分钟因锁故障被困家中",
       "onboard_time": 1749346700,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1422994,
-      "num": 1422994,
-      "word": "历史 高考顶流",
-      "onboard_time": 1749356241,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 1271990,
@@ -235,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 521971,
+      "num": 521971,
+      "word": "金巧巧30年前就做过医美",
+      "onboard_time": 1749361522,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 517904,
       "num": 366107,
       "word": "李晟回应只成团2人",
@@ -257,14 +265,6 @@
       "onboard_time": 1749346640,
       "rank": 20,
       "category": "运动健身,民生新闻"
-    },
-    {
-      "raw_hot": 495410,
-      "num": 495410,
-      "word": "金巧巧30年前就做过医美",
-      "onboard_time": 1749361522,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 486724,
@@ -403,12 +403,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 317598,
+      "raw_hot": 323116,
       "num": 463463,
       "word": "蛇从天降硬核大爷抓起一顿狂摔",
       "onboard_time": 1749359601,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318547,
+      "num": 318547,
+      "word": "孙茜说肖战的戏演的是很好的",
+      "onboard_time": 1749362840,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 311328,
@@ -459,14 +467,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 277583,
-      "num": 304998,
-      "word": "孙茜说肖战的戏演的是很好的",
-      "onboard_time": 1749362840,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 276495,
       "num": 276495,
       "word": "马斯克和特朗普吵完又改口",
@@ -496,6 +496,14 @@
       "word": "吴宣仪回应第二",
       "onboard_time": 1749340758,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266390,
+      "num": 298693,
+      "word": "宋妍霏光脚领奖",
+      "onboard_time": 1749359242,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -547,20 +555,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254185,
+      "num": 308155,
+      "word": "抗癌患者一条评论救活面包店",
+      "onboard_time": 1749362360,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251573,
       "num": 300547,
       "word": "赵丽颖尹昉合照",
       "onboard_time": 1749362600,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250008,
-      "num": 298693,
-      "word": "宋妍霏光脚领奖",
-      "onboard_time": 1749359242,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 247452,
@@ -643,16 +651,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217215,
-      "num": 308155,
-      "word": "抗癌患者一条评论救活面包店",
-      "onboard_time": 1749362360,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210192,
-      "num": 210192,
+      "raw_hot": 217898,
+      "num": 217898,
       "word": "妈妈岗",
       "onboard_time": 1749359541,
       "rank": 24,
@@ -737,6 +737,14 @@
       "onboard_time": 1749294443,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191618,
+      "num": 191618,
+      "word": "比亚迪李云飞回应常压油箱和车圈恒大",
+      "onboard_time": 1749364761,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 190584,
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 171544,
-      "num": 171544,
+      "num": 260036,
       "word": "不一定有王子但肯定有黄子",
       "onboard_time": 1749364281,
       "rank": 25,
@@ -1043,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159370,
+      "num": 159370,
+      "word": "那阴暗爬行的是我古装白月光",
+      "onboard_time": 1749364819,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159189,
       "num": 159189,
       "word": "李昀锐帅得很清爽",
@@ -1051,8 +1067,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157189,
-      "num": 157189,
+      "raw_hot": 159164,
+      "num": 159164,
       "word": "王俊凯一怒之下怒了一下",
       "onboard_time": 1749363800,
       "rank": 28,
@@ -1168,6 +1184,14 @@
       "word": "2008年故意考0分男子发声",
       "onboard_time": 1749323235,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144976,
+      "num": 144976,
+      "word": "男子刷视频发现失踪半年妻子在结婚",
+      "onboard_time": 1749365241,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1363,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127763,
+      "num": 127763,
+      "word": "店员钉收据扎坏上百台Switch2",
+      "onboard_time": 1749364401,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 127439,
       "num": 127439,
       "word": "皮皮朱说主播谈不了恋爱",
@@ -1419,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120447,
+      "num": 355988,
+      "word": "场外陪考卷出新高度",
+      "onboard_time": 1749360982,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119108,
       "num": 119108,
       "word": "五代小米Ultra都升级了什么",
@@ -1441,14 +1481,6 @@
       "onboard_time": 1749341358,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115320,
-      "num": 115320,
-      "word": "店员钉收据扎坏上百台Switch2",
-      "onboard_time": 1749364401,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 115079,
@@ -1492,7 +1524,7 @@
     },
     {
       "raw_hot": 109653,
-      "num": 305845,
+      "num": 358698,
       "word": "日警方公布对中国游客行凶者形象",
       "onboard_time": 1749361281,
       "rank": 49,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1749337936,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105054,
+      "num": 105054,
+      "word": "日本警察与住持性侵女高中生被捕",
+      "onboard_time": 1749365241,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105022,
@@ -1555,6 +1595,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100712,
+      "num": 100712,
+      "word": "吻戏还是得看短剧",
+      "onboard_time": 1749365000,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100487,
+      "num": 100487,
+      "word": "陈赫导演的MV",
+      "onboard_time": 1749365121,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98765,
       "num": 98765,
       "word": "陈昊宇王星越跨年后二搭",
@@ -1564,7 +1620,7 @@
     },
     {
       "raw_hot": 98013,
-      "num": 98013,
+      "num": 100593,
       "word": "古风考生",
       "onboard_time": 1749362540,
       "rank": 49,
@@ -1577,14 +1633,6 @@
       "onboard_time": 1749314721,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94488,
-      "num": 355988,
-      "word": "场外陪考卷出新高度",
-      "onboard_time": 1749360982,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90177,
