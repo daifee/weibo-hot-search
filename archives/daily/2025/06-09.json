@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749407559857,
+  "endTime": 1749408418557,
   "band_list": [
     {
       "raw_hot": 1305304,
@@ -489,6 +489,14 @@
       "onboard_time": 1749394763,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 21861,
+      "num": 24138,
+      "word": "全员加速中",
+      "onboard_time": 1749407655,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 21526,

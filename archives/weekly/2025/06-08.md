@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/08 00:30:01 ~ 2025/06/09 02:32:39
+本榜单时间：2025/06/08 00:30:01 ~ 2025/06/09 02:46:58
 </p>
 </blockquote>
 <p>
@@ -3053,6 +3053,12 @@ GBLOCK联名专辑（热度：32552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%9C%95%E5%8F%98%E4%B9%8B%E8%B7%AF%23" target="weibo">
 王楚钦蜕变之路（热度：23469）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%23" target="weibo">
+全员加速中（热度：21861）
 </a>
 </li>
 

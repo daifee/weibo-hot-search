@@ -1,0 +1,410 @@
+{
+  "runTime": 1749408418557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 231099,
+        "num": 231099,
+        "word": "央视曝光不防晒的防晒衣",
+        "onboard_time": 1749395063,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129606,
+        "num": 129606,
+        "word": "王楚钦谈输给伊朗14岁小将",
+        "onboard_time": 1749398242,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14664,
+        "num": 94712,
+        "word": "我国海洋经济登上新台阶",
+        "onboard_time": 1749391584,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91686,
+        "num": 91686,
+        "word": "泡泡玛特创始人成河南新首富",
+        "onboard_time": 1749380603,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89092,
+        "num": 89092,
+        "word": "游客被打副所长拉偏架被免职不冤",
+        "onboard_time": 1749399979,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89019,
+        "num": 89019,
+        "word": "高考英语",
+        "onboard_time": 1749369980,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88103,
+        "num": 88103,
+        "word": "李昀锐孟子义再去演一遍微微一笑很倾城",
+        "onboard_time": 1749386001,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82342,
+        "num": 82342,
+        "word": "官方回应南宁地铁宣传片疑似擦边",
+        "onboard_time": 1749401178,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82201,
+        "num": 82201,
+        "word": "洛杉矶骚乱后特朗普发声",
+        "onboard_time": 1749403219,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77632,
+        "num": 77632,
+        "word": "李知勋暂时退出",
+        "onboard_time": 1749395783,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201668,
+        "num": 76869,
+        "word": "aespa",
+        "onboard_time": 1749397222,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123091,
+        "num": 74248,
+        "word": "twice",
+        "onboard_time": 1749397222,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114993,
+        "num": 72096,
+        "word": "曝井柏然刘雯领证",
+        "onboard_time": 1749374841,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90282,
+        "num": 71213,
+        "word": "韦神的牙齿不是他一个人的事",
+        "onboard_time": 1749385102,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 70157,
+        "num": 70157,
+        "word": "法网男单决赛",
+        "onboard_time": 1749392544,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60058,
+        "num": 60058,
+        "word": "金靖曝舒奕橙家庭地位",
+        "onboard_time": 1749389784,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54876,
+        "num": 54876,
+        "word": "面对面专访王楚钦",
+        "onboard_time": 1749392544,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54046,
+        "num": 54046,
+        "word": "ally车银优合照",
+        "onboard_time": 1749391043,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52171,
+        "num": 52171,
+        "word": "张嘉元杨雨潼吻戏",
+        "onboard_time": 1749392123,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51981,
+        "num": 51981,
+        "word": "临江仙",
+        "onboard_time": 1749379763,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116193,
+        "num": 49595,
+        "word": "高考生作弊家长用钱摆平系摆拍",
+        "onboard_time": 1749383901,
+        "rank": 20,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 79108,
+        "num": 47735,
+        "word": "女孩试裤子店员提醒肚子大查出肿瘤",
+        "onboard_time": 1749393382,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45727,
+        "num": 45727,
+        "word": "黄子韬真听不下去了",
+        "onboard_time": 1749387143,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44818,
+        "num": 44818,
+        "word": "那尔那茜",
+        "onboard_time": 1749387561,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42271,
+        "num": 42271,
+        "word": "洛杉矶骚乱后纽约也乱了",
+        "onboard_time": 1749390803,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40771,
+        "num": 40771,
+        "word": "Monki好强",
+        "onboard_time": 1749390084,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40537,
+        "num": 40537,
+        "word": "鹿晗巡演四站定档",
+        "onboard_time": 1749383243,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37895,
+        "num": 37895,
+        "word": "肖战不舍往日之景",
+        "onboard_time": 1749399200,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36074,
+        "num": 36074,
+        "word": "TES对战WE",
+        "onboard_time": 1749379042,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35204,
+        "num": 35204,
+        "word": "未知的首尔",
+        "onboard_time": 1749404296,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34881,
+        "num": 34881,
+        "word": "贾乃亮是黄圣依大学初恋",
+        "onboard_time": 1749369081,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33905,
+        "num": 33905,
+        "word": "1米97小伙用身体帮警察拦截逃窜男子",
+        "onboard_time": 1749385762,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33881,
+        "num": 33881,
+        "word": "JackeyLove赛后致歉",
+        "onboard_time": 1749394703,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33740,
+        "num": 33740,
+        "word": "男童商场攀岩被绳索勒脖20分钟",
+        "onboard_time": 1749397102,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32819,
+        "num": 32819,
+        "word": "买Labubu比买黄金还赚钱",
+        "onboard_time": 1749382643,
+        "rank": 34,
+        "category": "动漫,财经"
+      },
+      {
+        "raw_hot": 31193,
+        "num": 31193,
+        "word": "印甘蔗女工担心月经影响工作摘除子宫",
+        "onboard_time": 1749395182,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30918,
+        "num": 30918,
+        "word": "中医说身体好不好看眼睛就知道",
+        "onboard_time": 1749393563,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30343,
+        "num": 30343,
+        "word": "王安宇的眼睛",
+        "onboard_time": 1749384321,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30229,
+        "num": 30229,
+        "word": "Labubu联名款被炒至2.8万",
+        "onboard_time": 1749393983,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 28663,
+        "num": 28663,
+        "word": "权志龙唱月亮代表我的心",
+        "onboard_time": 1749395543,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28069,
+        "num": 28069,
+        "word": "TES郭皓",
+        "onboard_time": 1749394763,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28052,
+        "num": 28052,
+        "word": "官方通报村支书威胁拍天坑垃圾要打",
+        "onboard_time": 1749405737,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27399,
+        "num": 27399,
+        "word": "江西回应投资3.5亿博物馆闲置2年",
+        "onboard_time": 1749396323,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26922,
+        "num": 26922,
+        "word": "折腰卫视收视率第一",
+        "onboard_time": 1749395303,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26086,
+        "num": 26086,
+        "word": "阿Sa刘维cha了LikeJennie",
+        "onboard_time": 1749405017,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25783,
+        "num": 25783,
+        "word": "时代峰峻要做潮玩了",
+        "onboard_time": 1749390923,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25347,
+        "num": 25347,
+        "word": "白鹿直播",
+        "onboard_time": 1749389183,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24375,
+        "num": 24375,
+        "word": "韦东奕家属称开号是为打假",
+        "onboard_time": 1749399858,
+        "rank": 47,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 24139,
+        "num": 24139,
+        "word": "突然间明白了追星的意义",
+        "onboard_time": 1749395963,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21861,
+        "num": 24138,
+        "word": "全员加速中",
+        "onboard_time": 1749407655,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#让勤奋学习成为青春远航的动力#"
+    }
+  }
+}

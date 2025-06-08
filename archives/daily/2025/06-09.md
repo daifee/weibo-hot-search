@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/09 00:29:49 ~ 2025/06/09 02:32:39
+本榜单时间：2025/06/09 00:29:49 ~ 2025/06/09 02:46:58
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ TES郭皓（热度：92120）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 哥伦比亚6.6级地震（热度：23485）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%23" target="weibo">
+全员加速中（热度：21861）
 </a>
 </li>
 
