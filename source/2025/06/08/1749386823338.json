@@ -1,0 +1,410 @@
+{
+  "runTime": 1749386823338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1893829,
+        "num": 1893829,
+        "word": "高考英语",
+        "onboard_time": 1749369980,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1240079,
+        "num": 1240079,
+        "word": "泡泡玛特创始人成河南新首富",
+        "onboard_time": 1749380603,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18794,
+        "num": 830658,
+        "word": "9图看海洋治理的中国方案",
+        "onboard_time": 1749374722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 826174,
+        "num": 826174,
+        "word": "高考生作弊家长用钱摆平系摆拍",
+        "onboard_time": 1749383901,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 573630,
+        "num": 573630,
+        "word": "买Labubu比买黄金还赚钱",
+        "onboard_time": 1749382643,
+        "rank": 4,
+        "category": "动漫,财经"
+      },
+      {
+        "raw_hot": 484179,
+        "num": 484179,
+        "word": "3人吃烧烤花780元商家被十倍罚款",
+        "onboard_time": 1749380062,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483545,
+        "num": 483545,
+        "word": "王安宇的眼睛",
+        "onboard_time": 1749384321,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471620,
+        "num": 471620,
+        "word": "吴宣仪千字长文",
+        "onboard_time": 1749381503,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438830,
+        "num": 438830,
+        "word": "afternoon怎么变形",
+        "onboard_time": 1749377061,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 42940,
+        "num": 423479,
+        "word": "千里背母求学当事人现状",
+        "onboard_time": 1749385821,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 966819,
+        "num": 423238,
+        "word": "曝井柏然刘雯领证",
+        "onboard_time": 1749374841,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686606,
+        "num": 423126,
+        "word": "考生仅剩12分钟就要错过高考",
+        "onboard_time": 1749378081,
+        "rank": 11,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 421657,
+        "num": 421657,
+        "word": "韦神的牙齿不是他一个人的事",
+        "onboard_time": 1749385102,
+        "rank": 12,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 405214,
+        "num": 405214,
+        "word": "男子为求爱花3万旅游后要求女生AA",
+        "onboard_time": 1749382401,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156424,
+        "num": 396635,
+        "word": "1米97小伙用身体帮警察拦截逃窜男子",
+        "onboard_time": 1749385762,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389674,
+        "num": 389674,
+        "word": "霉霉姐真的救了我的英语",
+        "onboard_time": 1749380662,
+        "rank": 15,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 385292,
+        "num": 385292,
+        "word": "李昀锐孟子义再去演一遍微微一笑很倾城",
+        "onboard_time": 1749386001,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382947,
+        "num": 382947,
+        "word": "鹿晗巡演四站定档",
+        "onboard_time": 1749383243,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 359799,
+        "num": 359799,
+        "word": "贾乃亮是黄圣依大学初恋",
+        "onboard_time": 1749369081,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7976,
+        "num": 346738,
+        "word": "有效安慰就是持续输出吗",
+        "onboard_time": 1749385881,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334816,
+        "num": 334816,
+        "word": "历史 高考顶流",
+        "onboard_time": 1749356241,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 318135,
+        "num": 318135,
+        "word": "孙颖莎上了小学英语教材书稿",
+        "onboard_time": 1749385942,
+        "rank": 21,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 300307,
+        "num": 300307,
+        "word": "高考历史",
+        "onboard_time": 1749349820,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 288678,
+        "num": 288678,
+        "word": "临江仙热度",
+        "onboard_time": 1749384921,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267111,
+        "num": 267111,
+        "word": "李马克 北京卷",
+        "onboard_time": 1749377422,
+        "rank": 24,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 242070,
+        "num": 242070,
+        "word": "全网都在喊张凌赫做物理题",
+        "onboard_time": 1749384380,
+        "rank": 25,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 201485,
+        "num": 239204,
+        "word": "申源 马柏全",
+        "onboard_time": 1749386301,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200275,
+        "num": 231274,
+        "word": "周一周二高考继续",
+        "onboard_time": 1749377361,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 69204,
+        "num": 223479,
+        "word": "低成本瘦身咖啡有什么健康风险",
+        "onboard_time": 1749386481,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28843,
+        "num": 211458,
+        "word": "日本对烟民有多残忍",
+        "onboard_time": 1749385282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211335,
+        "num": 211335,
+        "word": "TES对战WE",
+        "onboard_time": 1749379042,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205817,
+        "num": 205817,
+        "word": "中国女排vs土耳其女排",
+        "onboard_time": 1749384681,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200946,
+        "num": 200946,
+        "word": "浙江一村40多户养了上百万条蛇",
+        "onboard_time": 1749374902,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196486,
+        "num": 196486,
+        "word": "临江仙",
+        "onboard_time": 1749379763,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194733,
+        "num": 194733,
+        "word": "JDG战胜DYG",
+        "onboard_time": 1749385942,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82263,
+        "num": 191986,
+        "word": "张家界溶洞垃圾问题4人被停职",
+        "onboard_time": 1749386722,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 191755,
+        "num": 191755,
+        "word": "神农架景区急招16名野人日薪达500",
+        "onboard_time": 1749380180,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188992,
+        "num": 188992,
+        "word": "ZM组合",
+        "onboard_time": 1749386301,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172073,
+        "num": 172073,
+        "word": "虞书欣收藏牵手视频",
+        "onboard_time": 1749379282,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100257,
+        "num": 166558,
+        "word": "欧国联决赛",
+        "onboard_time": 1749386662,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163860,
+        "num": 163860,
+        "word": "何瑞贤新剧是白鹿梦女",
+        "onboard_time": 1749378682,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158926,
+        "num": 158926,
+        "word": "张小婉后悔领奖发言穿了个袄",
+        "onboard_time": 1749380603,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154886,
+        "num": 154886,
+        "word": "清理张家界溶洞垃圾只是第一步",
+        "onboard_time": 1749386182,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152936,
+        "num": 152936,
+        "word": "Labubu为啥能全球爆火",
+        "onboard_time": 1749385342,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143242,
+        "num": 143242,
+        "word": "长安的荔枝好绝一长镜头",
+        "onboard_time": 1749385582,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140137,
+        "num": 140137,
+        "word": "湖南卫视官博连发22条张远",
+        "onboard_time": 1749386601,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137529,
+        "num": 137529,
+        "word": "美国加州街头变战场",
+        "onboard_time": 1749367880,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133514,
+        "num": 133514,
+        "word": "张碧晨变装完全是仙女级别",
+        "onboard_time": 1749382163,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127632,
+        "num": 127632,
+        "word": "侯佩岑全英文宣扬浪姐精神",
+        "onboard_time": 1749370341,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125133,
+        "num": 125133,
+        "word": "樊振东马龙孙颖莎原声祝福",
+        "onboard_time": 1749372860,
+        "rank": 49,
+        "category": "体育,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设海洋强国总书记这样强调#"
+    }
+  }
+}
