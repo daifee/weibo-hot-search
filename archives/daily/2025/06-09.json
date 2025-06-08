@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749403291962,
+  "endTime": 1749404373276,
   "band_list": [
     {
       "raw_hot": 1305304,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220632,
+      "num": 220632,
+      "word": "游客被打副所长拉偏架被免职不冤",
+      "onboard_time": 1749399979,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212285,
       "num": 212285,
       "word": "Labubu联名款被炒至2.8万",
@@ -195,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147640,
-      "num": 147640,
-      "word": "游客被打副所长拉偏架被免职不冤",
-      "onboard_time": 1749399979,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140277,
       "num": 135227,
       "word": "贾乃亮是黄圣依大学初恋",
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122139,
+      "num": 122139,
+      "word": "官方回应南宁地铁宣传片疑似擦边",
+      "onboard_time": 1749401178,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117391,
       "num": 136612,
       "word": "谁给陈昊宇王星越递本子就当为了我",
@@ -281,14 +289,6 @@
       "onboard_time": 1749379042,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 107700,
-      "num": 107700,
-      "word": "官方回应南宁地铁宣传片疑似擦边",
-      "onboard_time": 1749401178,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106631,
@@ -355,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81187,
+      "num": 81187,
+      "word": "法网男单决赛",
+      "onboard_time": 1749392544,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80698,
       "num": 80698,
       "word": "近视手术并不是治好了近视眼",
@@ -369,14 +377,6 @@
       "onboard_time": 1749389183,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76159,
-      "num": 76159,
-      "word": "法网男单决赛",
-      "onboard_time": 1749392544,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 72448,
@@ -409,6 +409,14 @@
       "onboard_time": 1749398420,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39096,
+      "num": 138472,
+      "word": "洛杉矶骚乱后特朗普发声",
+      "onboard_time": 1749403219,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36674,
@@ -451,14 +459,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 21547,
-      "num": 54745,
-      "word": "洛杉矶骚乱后特朗普发声",
-      "onboard_time": 1749403219,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21526,
       "num": 92858,
       "word": "狼队小胖控龙高手",
@@ -467,7 +467,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17097,
+      "raw_hot": 18603,
       "num": 64845,
       "word": "新疆水果市场测鬼秤",
       "onboard_time": 1749401897,
