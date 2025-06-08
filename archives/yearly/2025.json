@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749372267464,
+  "endTime": 1749374735485,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1339,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5066940,
+      "num": 5066940,
+      "word": "高考英语",
+      "onboard_time": 1749369980,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 5050675,
       "num": 6300675,
       "word": "成都震感",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1745886801,
       "rank": 10,
       "category": "教育"
-    },
-    {
-      "raw_hot": 3406269,
-      "num": 3406269,
-      "word": "蛟龙行动撤档",
-      "onboard_time": 1739520383,
-      "rank": 0,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

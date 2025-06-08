@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749372267464,
+  "endTime": 1749374735485,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -16,6 +16,14 @@
       "word": "高考历史",
       "onboard_time": 1749349820,
       "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 5066940,
+      "num": 5066940,
+      "word": "高考英语",
+      "onboard_time": 1749369980,
+      "rank": 4,
       "category": "教育"
     },
     {
@@ -65,6 +73,14 @@
       "onboard_time": 1749294802,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1515488,
+      "num": 1515488,
+      "word": "高考英语作文",
+      "onboard_time": 1749373101,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1480550,
@@ -151,14 +167,6 @@
       "num": 878015,
       "word": "高考数学",
       "onboard_time": 1749283282,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 875243,
-      "num": 875243,
-      "word": "高考英语",
-      "onboard_time": 1749369980,
       "rank": 4,
       "category": "教育"
     },
@@ -323,12 +331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473424,
+      "num": 473424,
+      "word": "沈阳飞上海客机起飞绕8圈后返航",
+      "onboard_time": 1749370040,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 452661,
       "num": 452661,
       "word": "年度乘风舞台",
       "onboard_time": 1749310762,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 434441,
+      "num": 362364,
+      "word": "樊振东马龙孙颖莎原声祝福",
+      "onboard_time": 1749372860,
+      "rank": 9,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 424820,
@@ -353,14 +377,6 @@
       "onboard_time": 1749345079,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 416750,
-      "num": 416750,
-      "word": "沈阳飞上海客机起飞绕8圈后返航",
-      "onboard_time": 1749370040,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 407042,
@@ -443,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356599,
+      "num": 356599,
+      "word": "游客被打事件泾县公安局多人被追责",
+      "onboard_time": 1749368001,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355920,
       "num": 309785,
       "word": "耀眼开机",
@@ -491,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319137,
+      "num": 319137,
+      "word": "游客被围殴文旅局背锅不如严打暴行",
+      "onboard_time": 1749370520,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311328,
       "num": 207208,
       "word": "吴宣仪甜妹回归",
@@ -505,6 +537,14 @@
       "onboard_time": 1749367880,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 305600,
+      "num": 305600,
+      "word": "00花撕拉片",
+      "onboard_time": 1749371540,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 305162,
@@ -531,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291084,
+      "num": 393602,
+      "word": "同学说你像马嘉祺你还真当真了",
+      "onboard_time": 1749368423,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289456,
       "num": 289456,
       "word": "特朗普对马斯克发警告",
@@ -545,6 +593,14 @@
       "onboard_time": 1749310343,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 285629,
+      "num": 285629,
+      "word": "国贸偶遇井柏然刘雯",
+      "onboard_time": 1749373402,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 283894,
@@ -571,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273475,
+      "num": 273475,
+      "word": "当我告诉自己买iPad是为了提高效率",
+      "onboard_time": 1749369500,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 270279,
       "num": 237704,
       "word": "浪姐到底谁在投票",
@@ -585,6 +649,14 @@
       "onboard_time": 1749366801,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269119,
+      "num": 269119,
+      "word": "高考日语",
+      "onboard_time": 1749374423,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 266898,
@@ -675,20 +747,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246779,
+      "num": 420477,
+      "word": "让员工一天打卡6次不愿意就离职",
+      "onboard_time": 1749368060,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242760,
       "num": 358698,
       "word": "日警方公布对中国游客行凶者形象",
       "onboard_time": 1749361281,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 239990,
-      "num": 420477,
-      "word": "让员工一天打卡6次不愿意就离职",
-      "onboard_time": 1749368060,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236734,
@@ -720,14 +792,6 @@
       "word": "祝绪丹成团",
       "onboard_time": 1749316757,
       "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 228030,
-      "num": 393602,
-      "word": "同学说你像马嘉祺你还真当真了",
-      "onboard_time": 1749368423,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -785,14 +849,6 @@
       "onboard_time": 1749359541,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213354,
-      "num": 213354,
-      "word": "游客被打事件泾县公安局多人被追责",
-      "onboard_time": 1749368001,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209557,
@@ -867,12 +923,12 @@
       "category": "剧集,游戏"
     },
     {
-      "raw_hot": 196882,
-      "num": 196882,
-      "word": "00花撕拉片",
-      "onboard_time": 1749371540,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 196585,
+      "num": 247786,
+      "word": "成毅赴山海预约破400万海报",
+      "onboard_time": 1749373640,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 195077,
@@ -881,6 +937,14 @@
       "onboard_time": 1749288745,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 193746,
+      "num": 257099,
+      "word": "许佳琪是章子怡的心选妲己",
+      "onboard_time": 1749372740,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 193000,
@@ -929,6 +993,14 @@
       "onboard_time": 1749367339,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187214,
+      "num": 187214,
+      "word": "韦东奕未参加高考保送到北大",
+      "onboard_time": 1749369861,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 186386,
@@ -1009,14 +1081,6 @@
       "onboard_time": 1749355943,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180457,
-      "num": 180457,
-      "word": "当我告诉自己买iPad是为了提高效率",
-      "onboard_time": 1749369500,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 180105,
@@ -1155,14 +1219,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 170142,
-      "num": 170142,
-      "word": "游客被围殴文旅局背锅不如严打暴行",
-      "onboard_time": 1749370520,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169807,
       "num": 169807,
       "word": "尔冬升说柯淳哭戏果然厉害",
@@ -1209,14 +1265,6 @@
       "onboard_time": 1749359601,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167195,
-      "num": 167195,
-      "word": "韦东奕未参加高考保送到北大",
-      "onboard_time": 1749369861,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 165620,
@@ -1267,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161648,
+      "num": 161648,
+      "word": "多地公布2025高考查分时间",
+      "onboard_time": 1749372682,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 160969,
       "num": 160969,
       "word": "李昀锐你到底在为谁等待",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1749364819,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159197,
+      "num": 159197,
+      "word": "苏晓彤代高政吻戏给我看傻了",
+      "onboard_time": 1749372919,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 159189,
@@ -1369,6 +1433,14 @@
       "onboard_time": 1749295521,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150662,
+      "num": 249526,
+      "word": "比亚迪李云飞直面质疑",
+      "onboard_time": 1749372141,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 150411,
@@ -1472,6 +1544,14 @@
       "word": "陈梦希望遇到势均力敌的爱情",
       "onboard_time": 1749367160,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144738,
+      "num": 144738,
+      "word": "原来饶雪漫全网找的是柯淳搭档",
+      "onboard_time": 1749374541,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1667,6 +1747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131237,
+      "num": 131237,
+      "word": "男生第1个出考场狂拍家长",
+      "onboard_time": 1749372982,
+      "rank": 40,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 131220,
       "num": 283617,
       "word": "王一博又双叒解锁新技能",
@@ -1803,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121460,
+      "num": 121460,
+      "word": "一句免费收麦让老人几乎落泪",
+      "onboard_time": 1749372561,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120447,
       "num": 355988,
       "word": "场外陪考卷出新高度",
@@ -1833,6 +1929,22 @@
       "onboard_time": 1749358221,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116957,
+      "num": 116957,
+      "word": "开心果椰子水",
+      "onboard_time": 1749374601,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 116475,
+      "num": 116475,
+      "word": "杨幂演最狠的角色说最狠的话",
+      "onboard_time": 1749373282,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 115369,
@@ -1921,6 +2033,14 @@
       "onboard_time": 1749370341,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108625,
+      "num": 108625,
+      "word": "又一公司发布坐牢式上班规定",
+      "onboard_time": 1749373582,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106774,
@@ -2041,14 +2161,6 @@
       "onboard_time": 1749361461,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92042,
-      "num": 167259,
-      "word": "比亚迪李云飞直面质疑",
-      "onboard_time": 1749372141,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 90177,
@@ -2259,6 +2371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 48601,
+      "num": 306633,
+      "word": "被摸腿脱口秀女演员发声",
+      "onboard_time": 1749374361,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47681,
       "num": 47681,
       "word": "动物园回应长臂猿猴高考不对外展出",
@@ -2449,6 +2569,22 @@
       "onboard_time": 1749316698,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14994,
+      "num": 279252,
+      "word": "怎样找到适合自己的输出型爱好",
+      "onboard_time": 1749373881,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 14247,
+      "num": 1558138,
+      "word": "9图看海洋治理的中国方案",
+      "onboard_time": 1749374722,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13328,

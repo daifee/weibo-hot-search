@@ -1,0 +1,410 @@
+{
+  "runTime": 1749374735485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5066940,
+        "num": 5066940,
+        "word": "高考英语",
+        "onboard_time": 1749369980,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1616465,
+        "num": 1616465,
+        "word": "历史 高考顶流",
+        "onboard_time": 1749356241,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 14247,
+        "num": 1558138,
+        "word": "9图看海洋治理的中国方案",
+        "onboard_time": 1749374722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1515488,
+        "num": 1515488,
+        "word": "高考英语作文",
+        "onboard_time": 1749373101,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 743982,
+        "num": 743982,
+        "word": "益禾堂薄荷奶绿",
+        "onboard_time": 1749368900,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 683506,
+        "num": 683506,
+        "word": "高考历史",
+        "onboard_time": 1749349820,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 473424,
+        "num": 473424,
+        "word": "沈阳飞上海客机起飞绕8圈后返航",
+        "onboard_time": 1749370040,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444185,
+        "num": 444185,
+        "word": "王俊凯回复陈赫",
+        "onboard_time": 1749367221,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367083,
+        "num": 367083,
+        "word": "侯佩岑全英文宣扬浪姐精神",
+        "onboard_time": 1749370341,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434441,
+        "num": 362364,
+        "word": "樊振东马龙孙颖莎原声祝福",
+        "onboard_time": 1749372860,
+        "rank": 9,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 28923,
+        "num": 357727,
+        "word": "我国服务贸易跑出加速度",
+        "onboard_time": 1749356781,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1202585,
+        "num": 357271,
+        "word": "贾乃亮是黄圣依大学初恋",
+        "onboard_time": 1749369081,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356599,
+        "num": 356599,
+        "word": "游客被打事件泾县公安局多人被追责",
+        "onboard_time": 1749368001,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319137,
+        "num": 319137,
+        "word": "游客被围殴文旅局背锅不如严打暴行",
+        "onboard_time": 1749370520,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48601,
+        "num": 306633,
+        "word": "被摸腿脱口秀女演员发声",
+        "onboard_time": 1749374361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305600,
+        "num": 305600,
+        "word": "00花撕拉片",
+        "onboard_time": 1749371540,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291084,
+        "num": 291084,
+        "word": "同学说你像马嘉祺你还真当真了",
+        "onboard_time": 1749368423,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289973,
+        "num": 289973,
+        "word": "美国加州街头变战场",
+        "onboard_time": 1749367880,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285629,
+        "num": 285629,
+        "word": "国贸偶遇井柏然刘雯",
+        "onboard_time": 1749373402,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14994,
+        "num": 279252,
+        "word": "怎样找到适合自己的输出型爱好",
+        "onboard_time": 1749373881,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273475,
+        "num": 273475,
+        "word": "当我告诉自己买iPad是为了提高效率",
+        "onboard_time": 1749369500,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 269119,
+        "num": 269119,
+        "word": "高考日语",
+        "onboard_time": 1749374423,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193746,
+        "num": 257099,
+        "word": "许佳琪是章子怡的心选妲己",
+        "onboard_time": 1749372740,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150662,
+        "num": 249526,
+        "word": "比亚迪李云飞直面质疑",
+        "onboard_time": 1749372141,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 196585,
+        "num": 247786,
+        "word": "成毅赴山海预约破400万海报",
+        "onboard_time": 1749373640,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246779,
+        "num": 246779,
+        "word": "让员工一天打卡6次不愿意就离职",
+        "onboard_time": 1749368060,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245748,
+        "num": 245748,
+        "word": "被摸腿女演员讲述从业初衷",
+        "onboard_time": 1749358461,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215167,
+        "num": 215167,
+        "word": "高考物理",
+        "onboard_time": 1749348800,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177035,
+        "num": 215110,
+        "word": "浪姐奖杯 丑",
+        "onboard_time": 1749361040,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168767,
+        "num": 215077,
+        "word": "四面佛开机",
+        "onboard_time": 1749367880,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215076,
+        "num": 215076,
+        "word": "男子刷视频发现失踪半年妻子在结婚",
+        "onboard_time": 1749365241,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187214,
+        "num": 187214,
+        "word": "韦东奕未参加高考保送到北大",
+        "onboard_time": 1749369861,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184182,
+        "num": 184182,
+        "word": "韦雪跟前任谈了9年",
+        "onboard_time": 1749365541,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182209,
+        "num": 182209,
+        "word": "身体好的人肚子大多软软的",
+        "onboard_time": 1749361522,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158774,
+        "num": 164282,
+        "word": "特朗普将向加州派遣两千国民警卫队",
+        "onboard_time": 1749355641,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161648,
+        "num": 161648,
+        "word": "多地公布2025高考查分时间",
+        "onboard_time": 1749372682,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159197,
+        "num": 159197,
+        "word": "苏晓彤代高政吻戏给我看傻了",
+        "onboard_time": 1749372919,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150633,
+        "num": 150633,
+        "word": "文科生赢过理科生",
+        "onboard_time": 1749354741,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144738,
+        "num": 144738,
+        "word": "原来饶雪漫全网找的是柯淳搭档",
+        "onboard_time": 1749374541,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141689,
+        "num": 141689,
+        "word": "亚朵集团回应近期争议",
+        "onboard_time": 1749370940,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131237,
+        "num": 131237,
+        "word": "男生第1个出考场狂拍家长",
+        "onboard_time": 1749372982,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 129016,
+        "num": 129016,
+        "word": "800元瘦身咖啡成本1元",
+        "onboard_time": 1749367700,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126192,
+        "num": 126192,
+        "word": "程潇妈妈的话让李嘉格释怀妈妈收彩礼",
+        "onboard_time": 1749366801,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121460,
+        "num": 121460,
+        "word": "一句免费收麦让老人几乎落泪",
+        "onboard_time": 1749372561,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116957,
+        "num": 116957,
+        "word": "开心果椰子水",
+        "onboard_time": 1749374601,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116475,
+        "num": 116475,
+        "word": "杨幂演最狠的角色说最狠的话",
+        "onboard_time": 1749373282,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115857,
+        "num": 115857,
+        "word": "裴秀智没去Min的婚礼",
+        "onboard_time": 1749359421,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114918,
+        "num": 114918,
+        "word": "孙茜说肖战的戏演的是很好的",
+        "onboard_time": 1749362840,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109449,
+        "num": 109449,
+        "word": "加州上千人围攻美国联邦大楼",
+        "onboard_time": 1749365840,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108625,
+        "num": 108625,
+        "word": "又一公司发布坐牢式上班规定",
+        "onboard_time": 1749373582,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让勤奋学习成为青春远航的动力#"
+    }
+  }
+}
