@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749411379326,
+  "endTime": 1749414410462,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -4163,12 +4163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14843,
+      "num": 20627,
+      "word": "刺客烧烤摊修改结算单欺诈消费者",
+      "onboard_time": 1749411194,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14117,
       "num": 261672,
       "word": "网友称婚检有严重疾病必须告知",
       "onboard_time": 1749387681,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13781,
+      "num": 37036,
+      "word": "美防长称海军陆战队正高度戒备",
+      "onboard_time": 1749413293,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13328,
@@ -4193,6 +4209,14 @@
       "onboard_time": 1749328873,
       "rank": 49,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 12291,
+      "num": 15249,
+      "word": "刘冲回应VOGUE争议",
+      "onboard_time": 1749414074,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 12200,
@@ -4225,14 +4249,6 @@
       "onboard_time": 1749410894,
       "rank": 35,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 10375,
-      "num": 20627,
-      "word": "刺客烧烤摊修改结算单欺诈消费者",
-      "onboard_time": 1749411194,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8378,

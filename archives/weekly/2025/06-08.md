@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/08 00:30:01 ~ 2025/06/09 03:36:19
+本榜单时间：2025/06/08 00:30:01 ~ 2025/06/09 04:26:50
 </p>
 </blockquote>
 <p>
@@ -3135,8 +3135,20 @@ cubal（热度：15043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%BA%E5%AE%A2%E7%83%A7%E7%83%A4%E6%91%8A%E4%BF%AE%E6%94%B9%E7%BB%93%E7%AE%97%E5%8D%95%E6%AC%BA%E8%AF%88%E6%B6%88%E8%B4%B9%E8%80%85%23" target="weibo">
+刺客烧烤摊修改结算单欺诈消费者（热度：14843）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%A9%9A%E6%A3%80%E6%9C%89%E4%B8%A5%E9%87%8D%E7%96%BE%E7%97%85%E5%BF%85%E9%A1%BB%E5%91%8A%E7%9F%A5%23" target="weibo">
 网友称婚检有严重疾病必须告知（热度：14117）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E7%A7%B0%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E6%AD%A3%E9%AB%98%E5%BA%A6%E6%88%92%E5%A4%87%23" target="weibo">
+美防长称海军陆战队正高度戒备（热度：13781）
 </a>
 </li>
 
@@ -3155,6 +3167,12 @@ mbti的气质会随时间改变吗（热度：13134）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A3%92%E6%A3%92%E7%88%B6%E4%BA%B2%E5%AF%B9%E9%AB%98%E8%80%83%E5%84%BF%E5%AD%90%E8%AF%B4%E5%8A%A0%E6%B2%B9%E5%8A%A0%E6%B2%B9%E5%8A%A0%E6%B2%B9%23" target="weibo">
 棒棒父亲对高考儿子说加油加油加油（热度：12377）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%86%B2%E5%9B%9E%E5%BA%94VOGUE%E4%BA%89%E8%AE%AE%23" target="weibo">
+刘冲回应VOGUE争议（热度：12291）
 </a>
 </li>
 
@@ -3179,12 +3197,6 @@ mbti的气质会随时间改变吗（热度：13134）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%81%E8%80%83%E8%BF%99%E4%B8%80%E5%B9%95%E5%A4%AA%E6%9A%96%E4%BA%86%23" target="weibo">
 送考这一幕太暖了（热度：10533）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%BA%E5%AE%A2%E7%83%A7%E7%83%A4%E6%91%8A%E4%BF%AE%E6%94%B9%E7%BB%93%E7%AE%97%E5%8D%95%E6%AC%BA%E8%AF%88%E6%B6%88%E8%B4%B9%E8%80%85%23" target="weibo">
-刺客烧烤摊修改结算单欺诈消费者（热度：10375）
 </a>
 </li>
 
