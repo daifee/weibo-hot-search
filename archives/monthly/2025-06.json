@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749408418557,
+  "endTime": 1749410441158,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -29529,6 +29529,14 @@
       "onboard_time": 1748713935,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12200,
+      "num": 59780,
+      "word": "男子专挑高档健身房更衣箱偷窃被刑拘",
+      "onboard_time": 1749409635,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12162,
