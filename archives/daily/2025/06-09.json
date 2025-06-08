@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749400189574,
+  "endTime": 1749401150771,
   "band_list": [
     {
       "raw_hot": 1305304,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 645437,
+      "num": 645437,
+      "word": "王楚钦谈输给伊朗14岁小将",
+      "onboard_time": 1749398242,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 611330,
       "num": 256026,
       "word": "twice",
@@ -33,14 +41,6 @@
       "onboard_time": 1749383901,
       "rank": 20,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 548305,
-      "num": 548305,
-      "word": "王楚钦谈输给伊朗14岁小将",
-      "onboard_time": 1749398242,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 507578,
@@ -235,6 +235,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121218,
+      "num": 121218,
+      "word": "游客被打副所长拉偏架被免职不冤",
+      "onboard_time": 1749399979,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119751,
+      "num": 194720,
+      "word": "男童商场攀岩被绳索勒脖20分钟",
+      "onboard_time": 1749397102,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117391,
       "num": 136612,
       "word": "谁给陈昊宇王星越递本子就当为了我",
@@ -267,28 +283,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108843,
-      "num": 108843,
-      "word": "游客被打副所长拉偏架被免职不冤",
-      "onboard_time": 1749399979,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106631,
-      "num": 106631,
+      "num": 121223,
       "word": "突然间明白了追星的意义",
       "onboard_time": 1749395963,
       "rank": 41,
       "category": "综艺"
     },
     {
-      "raw_hot": 101174,
-      "num": 136320,
-      "word": "男童商场攀岩被绳索勒脖20分钟",
-      "onboard_time": 1749397102,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 103662,
+      "num": 142167,
+      "word": "韦东奕家属称开号是为打假",
+      "onboard_time": 1749399858,
+      "rank": 27,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 100143,
@@ -339,6 +347,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80698,
+      "num": 80698,
+      "word": "近视手术并不是治好了近视眼",
+      "onboard_time": 1749395182,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 78631,
+      "num": 78631,
+      "word": "白鹿直播",
+      "onboard_time": 1749389183,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76085,
+      "num": 76085,
+      "word": "法网男单决赛",
+      "onboard_time": 1749392544,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72448,
       "num": 96406,
       "word": "高考背后有多少人在守护",
@@ -347,20 +379,20 @@
       "category": "正能量,教育"
     },
     {
-      "raw_hot": 65413,
-      "num": 137306,
-      "word": "韦东奕家属称开号是为打假",
-      "onboard_time": 1749399858,
-      "rank": 27,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 58815,
+      "raw_hot": 66236,
       "num": 108859,
       "word": "董倩谈王楚钦巴黎奥运止步32强",
       "onboard_time": 1749400101,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62027,
+      "num": 75580,
+      "word": "1米97小伙用身体帮警察拦截逃窜男子",
+      "onboard_time": 1749385762,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58201,
@@ -385,6 +417,14 @@
       "onboard_time": 1749398604,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 32157,
+      "num": 91554,
+      "word": "清理张家界溶洞垃圾只是第一步",
+      "onboard_time": 1749386182,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26867,
