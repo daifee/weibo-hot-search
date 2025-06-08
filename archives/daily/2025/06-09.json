@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749418655231,
+  "endTime": 1749421421316,
   "band_list": [
     {
       "raw_hot": 1305304,
@@ -395,20 +395,20 @@
       "category": "正能量,教育"
     },
     {
+      "raw_hot": 72131,
+      "num": 75580,
+      "word": "1米97小伙用身体帮警察拦截逃窜男子",
+      "onboard_time": 1749385762,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66236,
       "num": 108859,
       "word": "董倩谈王楚钦巴黎奥运止步32强",
       "onboard_time": 1749400101,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62027,
-      "num": 75580,
-      "word": "1米97小伙用身体帮警察拦截逃窜男子",
-      "onboard_time": 1749385762,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58201,
@@ -483,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25104,
+      "num": 26204,
+      "word": "管泽元 还没推掉水晶腿哥已经泪目了",
+      "onboard_time": 1749419714,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 23485,
       "num": 69937,
       "word": "哥伦比亚6.6级地震",
@@ -524,11 +532,27 @@
     },
     {
       "raw_hot": 17820,
-      "num": 17820,
+      "num": 26199,
       "word": "警惕手机卡被他人偷拔搞诈骗",
       "onboard_time": 1749416113,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16084,
+      "num": 26190,
+      "word": "游客因停车纠纷被打泾县多人被行拘",
+      "onboard_time": 1749418574,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15647,
+      "num": 26189,
+      "word": "刘冲回应VOGUE争议",
+      "onboard_time": 1749414074,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 14843,
@@ -539,27 +563,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13418,
-      "num": 16238,
-      "word": "刘冲回应VOGUE争议",
-      "onboard_time": 1749414074,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 12200,
       "num": 59780,
       "word": "男子专挑高档健身房更衣箱偷窃被刑拘",
       "onboard_time": 1749409635,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11811,
-      "num": 15990,
-      "word": "游客因停车纠纷被打泾县多人被行拘",
-      "onboard_time": 1749418574,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
