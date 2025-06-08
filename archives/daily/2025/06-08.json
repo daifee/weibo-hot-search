@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749381631808,
+  "endTime": 1749382603621,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -115,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1265215,
+      "num": 1265215,
+      "word": "泡泡玛特创始人成河南新首富",
+      "onboard_time": 1749380603,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1248150,
       "num": 1248150,
       "word": "afternoon怎么变形",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 946695,
-      "num": 340286,
+      "num": 392276,
       "word": "考生仅剩12分钟就要错过高考",
       "onboard_time": 1749378081,
       "rank": 27,
@@ -241,6 +249,14 @@
       "onboard_time": 1749309264,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 644913,
+      "num": 644913,
+      "word": "霉霉姐真的救了我的英语",
+      "onboard_time": 1749380662,
+      "rank": 7,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 621868,
@@ -459,6 +475,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395572,
+      "num": 395572,
+      "word": "3人吃烧烤花780元商家被十倍罚款",
+      "onboard_time": 1749380062,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 394159,
+      "num": 394159,
+      "word": "虞书欣收藏牵手视频",
+      "onboard_time": 1749379282,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 393650,
       "num": 393650,
       "word": "周一周二高考继续",
@@ -481,30 +513,6 @@
       "onboard_time": 1749370341,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376212,
-      "num": 376212,
-      "word": "虞书欣收藏牵手视频",
-      "onboard_time": 1749379282,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 374205,
-      "num": 374205,
-      "word": "霉霉姐真的救了我的英语",
-      "onboard_time": 1749380662,
-      "rank": 7,
-      "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 368263,
-      "num": 317803,
-      "word": "泡泡玛特创始人成河南新首富",
-      "onboard_time": 1749380603,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 365518,
@@ -603,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346577,
+      "num": 162813,
+      "word": "张小婉后悔领奖发言穿了个袄",
+      "onboard_time": 1749380603,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344337,
       "num": 344337,
       "word": "美国恢复处理哈佛国际学生签证",
@@ -673,14 +689,6 @@
       "onboard_time": 1749376043,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297182,
-      "num": 325928,
-      "word": "3人吃烧烤花780元商家被十倍罚款",
-      "onboard_time": 1749380062,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 295204,
@@ -891,14 +899,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 236986,
-      "num": 162813,
-      "word": "张小婉后悔领奖发言穿了个袄",
-      "onboard_time": 1749380603,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236734,
       "num": 81948,
       "word": "李晟成团",
@@ -995,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218249,
+      "num": 260115,
+      "word": "吴宣仪千字长文",
+      "onboard_time": 1749381503,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217898,
       "num": 217898,
       "word": "妈妈岗",
@@ -1035,20 +1043,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207814,
+      "num": 367020,
+      "word": "何瑞贤新剧是白鹿梦女",
+      "onboard_time": 1749378682,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206742,
       "num": 206742,
       "word": "蔡徐坤Deadman",
       "onboard_time": 1749359421,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206281,
-      "num": 367020,
-      "word": "何瑞贤新剧是白鹿梦女",
-      "onboard_time": 1749378682,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 205992,
@@ -1507,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165447,
+      "num": 165447,
+      "word": "张碧晨变装完全是仙女级别",
+      "onboard_time": 1749382163,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164847,
       "num": 164847,
       "word": "魏大勋把草原沙漠洞窟去了个遍",
@@ -1659,20 +1675,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154291,
-      "num": 154291,
-      "word": "吴宣仪千字长文",
-      "onboard_time": 1749381503,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154135,
       "num": 150201,
       "word": "李艺彤这次大家是站着的",
       "onboard_time": 1749339497,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153852,
+      "num": 153852,
+      "word": "无畏状态",
+      "onboard_time": 1749379702,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 153731,
@@ -1825,6 +1841,14 @@
       "onboard_time": 1749323235,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145652,
+      "num": 145652,
+      "word": "侯佩岑发长文总结浪姐",
+      "onboard_time": 1749381802,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 144816,
@@ -1987,14 +2011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138246,
-      "num": 138246,
-      "word": "无畏状态",
-      "onboard_time": 1749379702,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 137999,
       "num": 160312,
       "word": "浪姐成团名单什么时候出",
@@ -2051,8 +2067,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133801,
+      "num": 133801,
+      "word": "男子为求爱花3万旅游后要求女生AA",
+      "onboard_time": 1749382401,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132262,
-      "num": 132262,
+      "num": 144549,
       "word": "王楚钦林孝埈潘展乐原声祝福",
       "onboard_time": 1749374841,
       "rank": 42,
@@ -2195,6 +2219,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 122980,
+      "num": 122980,
+      "word": "重庆江苏回应国补暂停",
+      "onboard_time": 1749382041,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122906,
       "num": 148675,
       "word": "高芙法网夺冠后让球童捧奖杯",
@@ -2217,6 +2249,14 @@
       "onboard_time": 1749338416,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121924,
+      "num": 121924,
+      "word": "韩国霸总来中国真没闲着",
+      "onboard_time": 1749381923,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 121460,
@@ -2404,7 +2444,7 @@
     },
     {
       "raw_hot": 109722,
-      "num": 109722,
+      "num": 171074,
       "word": "爱长结节的人都有什么特点",
       "onboard_time": 1749380962,
       "rank": 48,
@@ -2747,6 +2787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57323,
+      "num": 137921,
+      "word": "高薪雇佣00后保姆",
+      "onboard_time": 1749381381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56479,
       "num": 56479,
       "word": "高芙回应法网夺冠",
@@ -2784,14 +2832,6 @@
       "word": "山东小钺钺回应缺席今年高考",
       "onboard_time": 1749334095,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50432,
-      "num": 128274,
-      "word": "高薪雇佣00后保姆",
-      "onboard_time": 1749381381,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2849,6 +2889,22 @@
       "onboard_time": 1749359001,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42344,
+      "num": 290353,
+      "word": "高考作文题上海最难",
+      "onboard_time": 1749382222,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42318,
+      "num": 135593,
+      "word": "圣坛组合印尼赛女双冠军",
+      "onboard_time": 1749381682,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 41827,
@@ -2963,6 +3019,22 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 27540,
+      "num": 323640,
+      "word": "我领馆视频探视遭起诉中国学者",
+      "onboard_time": 1749380842,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 25675,
+      "num": 154978,
+      "word": "沟通能力和表达能力有什么区别",
+      "onboard_time": 1749381741,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 24661,
       "num": 146436,
       "word": "歌迷找3人同时抢演唱会票才成功",
@@ -3025,14 +3097,6 @@
       "onboard_time": 1749327554,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16919,
-      "num": 316608,
-      "word": "我领馆视频探视遭起诉中国学者",
-      "onboard_time": 1749380842,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16450,

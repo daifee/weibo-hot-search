@@ -1,0 +1,410 @@
+{
+  "runTime": 1749382603621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3412427,
+        "num": 3412427,
+        "word": "高考英语",
+        "onboard_time": 1749369980,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1265215,
+        "num": 1265215,
+        "word": "泡泡玛特创始人成河南新首富",
+        "onboard_time": 1749380603,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27475,
+        "num": 1135541,
+        "word": "9图看海洋治理的中国方案",
+        "onboard_time": 1749374722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1046013,
+        "num": 1046013,
+        "word": "afternoon怎么变形",
+        "onboard_time": 1749377061,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 644913,
+        "num": 644913,
+        "word": "霉霉姐真的救了我的英语",
+        "onboard_time": 1749380662,
+        "rank": 4,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 550914,
+        "num": 550914,
+        "word": "李马克 北京卷",
+        "onboard_time": 1749377422,
+        "rank": 5,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 503637,
+        "num": 503637,
+        "word": "历史 高考顶流",
+        "onboard_time": 1749356241,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 395572,
+        "num": 395572,
+        "word": "3人吃烧烤花780元商家被十倍罚款",
+        "onboard_time": 1749380062,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394464,
+        "num": 394464,
+        "word": "高考历史",
+        "onboard_time": 1749349820,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 394159,
+        "num": 394159,
+        "word": "虞书欣收藏牵手视频",
+        "onboard_time": 1749379282,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 952099,
+        "num": 393159,
+        "word": "曝井柏然刘雯领证",
+        "onboard_time": 1749374841,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859391,
+        "num": 392276,
+        "word": "考生仅剩12分钟就要错过高考",
+        "onboard_time": 1749378081,
+        "rank": 11,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 408480,
+        "num": 392075,
+        "word": "贾乃亮是黄圣依大学初恋",
+        "onboard_time": 1749369081,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390323,
+        "num": 390323,
+        "word": "周一周二高考继续",
+        "onboard_time": 1749377361,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27540,
+        "num": 323640,
+        "word": "我领馆视频探视遭起诉中国学者",
+        "onboard_time": 1749380842,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42344,
+        "num": 290353,
+        "word": "高考作文题上海最难",
+        "onboard_time": 1749382222,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273717,
+        "num": 273717,
+        "word": "英语听力像个rapper",
+        "onboard_time": 1749377183,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 235170,
+        "num": 260925,
+        "word": "网传赴山海找了杨肸子换脸",
+        "onboard_time": 1749376282,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218249,
+        "num": 260115,
+        "word": "吴宣仪千字长文",
+        "onboard_time": 1749381503,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207814,
+        "num": 260008,
+        "word": "何瑞贤新剧是白鹿梦女",
+        "onboard_time": 1749378682,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259997,
+        "num": 259997,
+        "word": "浙江一村40多户养了上百万条蛇",
+        "onboard_time": 1749374902,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231120,
+        "num": 231120,
+        "word": "新一卷英语难不难",
+        "onboard_time": 1749375023,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181024,
+        "num": 181024,
+        "word": "黄圣依向往进入下一段婚姻",
+        "onboard_time": 1749376043,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175843,
+        "num": 175843,
+        "word": "临江仙",
+        "onboard_time": 1749379763,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92061,
+        "num": 171074,
+        "word": "爱长结节的人都有什么特点",
+        "onboard_time": 1749380962,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169649,
+        "num": 169649,
+        "word": "完形填空给我道歉",
+        "onboard_time": 1749376642,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165447,
+        "num": 165447,
+        "word": "张碧晨变装完全是仙女级别",
+        "onboard_time": 1749382163,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158301,
+        "num": 158301,
+        "word": "仙逆",
+        "onboard_time": 1749378742,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 157697,
+        "num": 157697,
+        "word": "TES对战WE",
+        "onboard_time": 1749379042,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25675,
+        "num": 154978,
+        "word": "沟通能力和表达能力有什么区别",
+        "onboard_time": 1749381741,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 346577,
+        "num": 154611,
+        "word": "张小婉后悔领奖发言穿了个袄",
+        "onboard_time": 1749380603,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153852,
+        "num": 153852,
+        "word": "无畏状态",
+        "onboard_time": 1749379702,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151865,
+        "num": 151865,
+        "word": "花5000多找收纳师效果一言难尽",
+        "onboard_time": 1749375861,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151312,
+        "num": 151312,
+        "word": "JDG对战DYG",
+        "onboard_time": 1749376462,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145652,
+        "num": 145652,
+        "word": "侯佩岑发长文总结浪姐",
+        "onboard_time": 1749381802,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89515,
+        "num": 144549,
+        "word": "王楚钦林孝埈潘展乐原声祝福",
+        "onboard_time": 1749374841,
+        "rank": 35,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 137309,
+        "num": 144122,
+        "word": "马柏全vogue视频",
+        "onboard_time": 1749381200,
+        "rank": 36,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 143886,
+        "num": 143886,
+        "word": "美国加州街头变战场",
+        "onboard_time": 1749367880,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57323,
+        "num": 137921,
+        "word": "高薪雇佣00后保姆",
+        "onboard_time": 1749381381,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42318,
+        "num": 135593,
+        "word": "圣坛组合印尼赛女双冠军",
+        "onboard_time": 1749381682,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133801,
+        "num": 133801,
+        "word": "男子为求爱花3万旅游后要求女生AA",
+        "onboard_time": 1749382401,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131004,
+        "num": 131004,
+        "word": "侯佩岑全英文宣扬浪姐精神",
+        "onboard_time": 1749370341,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129262,
+        "num": 129262,
+        "word": "游客被打事件泾县公安局多人被追责",
+        "onboard_time": 1749368001,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126238,
+        "num": 126238,
+        "word": "樊振东马龙孙颖莎原声祝福",
+        "onboard_time": 1749372860,
+        "rank": 43,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 122980,
+        "num": 122980,
+        "word": "重庆江苏回应国补暂停",
+        "onboard_time": 1749382041,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121924,
+        "num": 121924,
+        "word": "韩国霸总来中国真没闲着",
+        "onboard_time": 1749381923,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106780,
+        "num": 119903,
+        "word": "吴宣仪浪姐告别长文",
+        "onboard_time": 1749381261,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68070,
+        "num": 119370,
+        "word": "许昌某超市要被这车搬空了",
+        "onboard_time": 1749378081,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119294,
+        "num": 119294,
+        "word": "高考日语",
+        "onboard_time": 1749374423,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119023,
+        "num": 119023,
+        "word": "国足包下整座酒店备战末轮世预赛",
+        "onboard_time": 1749376163,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设海洋强国总书记这样强调#"
+    }
+  }
+}
