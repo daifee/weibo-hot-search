@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749417762316,
+  "endTime": 1749418655231,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -4139,6 +4139,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 17820,
+      "num": 17820,
+      "word": "警惕手机卡被他人偷拔搞诈骗",
+      "onboard_time": 1749416113,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17709,
       "num": 17709,
       "word": "奔跑吧",
@@ -4187,6 +4195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13418,
+      "num": 16238,
+      "word": "刘冲回应VOGUE争议",
+      "onboard_time": 1749414074,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13328,
       "num": 35947,
       "word": "朱雀玄武敕令说语文考得不理想",
@@ -4195,28 +4211,12 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 13169,
-      "num": 16238,
-      "word": "刘冲回应VOGUE争议",
-      "onboard_time": 1749414074,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 13134,
       "num": 308193,
       "word": "mbti的气质会随时间改变吗",
       "onboard_time": 1749388342,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 13126,
-      "num": 16228,
-      "word": "警惕手机卡被他人偷拔搞诈骗",
-      "onboard_time": 1749416113,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12377,
@@ -4249,6 +4249,14 @@
       "onboard_time": 1749308423,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11811,
+      "num": 15990,
+      "word": "游客因停车纠纷被打泾县多人被行拘",
+      "onboard_time": 1749418574,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11138,
