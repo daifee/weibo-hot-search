@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749350044575,
+  "endTime": 1749354999385,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1736589629,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8098642,
+      "num": 8098642,
+      "word": "高考历史",
+      "onboard_time": 1749349820,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 8048944,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739520383,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3396289,
-      "num": 3396289,
-      "word": "小红书",
-      "onboard_time": 1736868979,
-      "rank": 36,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

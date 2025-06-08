@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749350044575,
+  "endTime": 1749354999385,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -49,6 +49,14 @@
       "onboard_time": 1749313102,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8098642,
+      "num": 8098642,
+      "word": "高考历史",
+      "onboard_time": 1749349820,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 7936216,
@@ -257,6 +265,14 @@
       "onboard_time": 1749013700,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2497436,
+      "num": 2497436,
+      "word": "高考物理",
+      "onboard_time": 1749348800,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 2422025,
@@ -553,14 +569,6 @@
       "onboard_time": 1749291682,
       "rank": 13,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 1515350,
-      "num": 1515350,
-      "word": "高考物理",
-      "onboard_time": 1749348800,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1509891,
@@ -1067,6 +1075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1114074,
+      "num": 275598,
+      "word": "历史给我道歉",
+      "onboard_time": 1749351201,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1113889,
       "num": 1001515,
       "word": "外交部回应大连杀害2日本人案件",
@@ -1395,6 +1411,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 940563,
+      "num": 940563,
+      "word": "领衔主演关晓彤李昀锐",
+      "onboard_time": 1749348201,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 936931,
       "num": 936931,
       "word": "云南大理5.0级地震",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1748872761,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 919134,
+      "num": 919134,
+      "word": "高考历史文言文",
+      "onboard_time": 1749351620,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 915038,
@@ -1617,14 +1649,6 @@
       "onboard_time": 1748742140,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 822242,
-      "num": 822242,
-      "word": "领衔主演关晓彤李昀锐",
-      "onboard_time": 1749348201,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 820113,
@@ -2505,6 +2529,14 @@
       "onboard_time": 1748747121,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 620194,
+      "num": 620194,
+      "word": "马嘉祺歌手 唱王源的歌",
+      "onboard_time": 1749353182,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 618708,
@@ -4891,6 +4923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364506,
+      "num": 275595,
+      "word": "被高考历史做局了",
+      "onboard_time": 1749351921,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 364353,
       "num": 364353,
       "word": "特朗普称马斯克疯了",
@@ -5091,6 +5131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354348,
+      "num": 180056,
+      "word": "我的物理成为了我的败笔",
+      "onboard_time": 1749352040,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 353876,
       "num": 353876,
       "word": "看图默写",
@@ -5192,6 +5240,14 @@
       "word": "斯瓦泰克vs莱巴金娜",
       "onboard_time": 1748783121,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 348097,
+      "num": 348097,
+      "word": "王楚钦回应19岁摔拍子",
+      "onboard_time": 1749350120,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -6531,6 +6587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275594,
+      "num": 275594,
+      "word": "垫底辣孩cos藏海",
+      "onboard_time": 1749347901,
+      "rank": 24,
+      "category": "网红,剧集"
+    },
+    {
       "raw_hot": 275277,
       "num": 337082,
       "word": "原神",
@@ -6841,14 +6905,6 @@
       "onboard_time": 1749222744,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261694,
-      "num": 261694,
-      "word": "高考历史",
-      "onboard_time": 1749349820,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 260910,
@@ -7707,14 +7763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 232149,
-      "num": 232149,
-      "word": "垫底辣孩cos藏海",
-      "onboard_time": 1749347901,
-      "rank": 24,
-      "category": "网红,剧集"
-    },
-    {
       "raw_hot": 232132,
       "num": 232132,
       "word": "早睡1小时变化能有多惊人",
@@ -8307,6 +8355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219957,
+      "num": 176907,
+      "word": "谁家古风小生出的试卷",
+      "onboard_time": 1749352761,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 219913,
       "num": 219913,
       "word": "藏海把庄二当侯府天降紫微星整",
@@ -8809,6 +8865,14 @@
       "onboard_time": 1748740219,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210322,
+      "num": 152434,
+      "word": "文科生赢过理科生",
+      "onboard_time": 1749354741,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 210043,
@@ -10731,6 +10795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186311,
+      "num": 151160,
+      "word": "新一卷历史 难",
+      "onboard_time": 1749351681,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186284,
       "num": 186284,
       "word": "北京作文 第二次呼吸",
@@ -11105,6 +11177,14 @@
       "onboard_time": 1748856800,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181470,
+      "num": 181470,
+      "word": "侯佩岑在线找工作",
+      "onboard_time": 1749349519,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 181366,
@@ -11675,6 +11755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 172743,
+      "num": 131377,
+      "word": "福建物理 难",
+      "onboard_time": 1749354082,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 172712,
       "num": 167508,
       "word": "这下真的买到早鸟票了",
@@ -11696,6 +11784,14 @@
       "word": "北京作文 当数字闪耀时",
       "onboard_time": 1749268468,
       "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 172267,
+      "num": 172267,
+      "word": "韦东奕曾回应什么样的孩子适合学数学",
+      "onboard_time": 1749353421,
+      "rank": 26,
       "category": "教育"
     },
     {
@@ -11728,6 +11824,14 @@
       "word": "老人给恋人20万后离世子女要对方返还",
       "onboard_time": 1749211881,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171855,
+      "num": 275596,
+      "word": "店名像粗话螺蛳粉店将关店",
+      "onboard_time": 1749353360,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -11833,6 +11937,14 @@
       "onboard_time": 1748752460,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 170564,
+      "num": 170564,
+      "word": "大爷被蛇咬伤反抓蛇再遭咬",
+      "onboard_time": 1749348740,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170514,
@@ -12065,6 +12177,14 @@
       "onboard_time": 1748918599,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167867,
+      "num": 146849,
+      "word": "瓦格纳集团宣布撤军",
+      "onboard_time": 1749353001,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 167852,
@@ -12393,6 +12513,14 @@
       "onboard_time": 1748761220,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164604,
+      "num": 173127,
+      "word": "SU7Ultra是GT赛车首款中国车",
+      "onboard_time": 1749353662,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 164554,
@@ -12753,6 +12881,14 @@
       "onboard_time": 1748942422,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160175,
+      "num": 275602,
+      "word": "长沙暴雨居民楼楼梯变瀑布",
+      "onboard_time": 1749353182,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160082,
@@ -13547,14 +13683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151596,
-      "num": 151596,
-      "word": "侯佩岑在线找工作",
-      "onboard_time": 1749349519,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151565,
       "num": 151565,
       "word": "江苏一女子偶遇小狗全身挂满鱼钩",
@@ -14225,6 +14353,14 @@
       "onboard_time": 1748927781,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144654,
+      "num": 144654,
+      "word": "广东物理大题",
+      "onboard_time": 1749352101,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 144546,
@@ -14937,6 +15073,14 @@
       "onboard_time": 1749034760,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138927,
+      "num": 138927,
+      "word": "四川物理",
+      "onboard_time": 1749354861,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 138805,
@@ -15891,6 +16035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131498,
+      "num": 131498,
+      "word": "洪尧在家的时候就帮吴谨言搭过词",
+      "onboard_time": 1749354261,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131378,
       "num": 131378,
       "word": "这居然是李现",
@@ -16003,6 +16155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130634,
+      "num": 130634,
+      "word": "关晓彤耀眼官宣剧照",
+      "onboard_time": 1749354619,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130631,
       "num": 130631,
       "word": "洪尧演上了薛芳菲的前夫哥",
@@ -16025,6 +16185,14 @@
       "onboard_time": 1749095961,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130534,
+      "num": 130534,
+      "word": "我们与恶的距离2",
+      "onboard_time": 1749349701,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 130475,
@@ -16155,6 +16323,14 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 129368,
+      "num": 129368,
+      "word": "济南一烤鸭店幽默陪考停业告示火了",
+      "onboard_time": 1749352401,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129351,
       "num": 129351,
       "word": "郑钦文明天17点再战萨巴伦卡",
@@ -16209,6 +16385,14 @@
       "onboard_time": 1748736138,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128984,
+      "num": 128984,
+      "word": "海口一小区楼体集体开裂",
+      "onboard_time": 1749354801,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128942,
@@ -16345,6 +16529,14 @@
       "onboard_time": 1748772199,
       "rank": 17,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 127756,
+      "num": 127756,
+      "word": "安徽物理 简单",
+      "onboard_time": 1749354141,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 127552,
@@ -16763,6 +16955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122906,
+      "num": 122906,
+      "word": "高芙法网夺冠后让球童捧奖杯",
+      "onboard_time": 1749354082,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122839,
       "num": 122839,
       "word": "韩国民调显示候选人李在明领跑",
@@ -16961,14 +17161,6 @@
       "onboard_time": 1749119302,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121137,
-      "num": 121137,
-      "word": "我们与恶的距离2",
-      "onboard_time": 1749349701,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 121055,
@@ -17723,6 +17915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114077,
+      "num": 114077,
+      "word": "自己在家怎么清洗空调",
+      "onboard_time": 1749353961,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 113897,
       "num": 113897,
       "word": "10后女儿用压岁钱带妈妈过儿童节",
@@ -17936,14 +18136,6 @@
       "word": "全球好感度调查中国超越美国",
       "onboard_time": 1748916019,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111820,
-      "num": 111820,
-      "word": "大爷被蛇咬伤反抓蛇再遭咬",
-      "onboard_time": 1749348740,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -21673,6 +21865,14 @@
       "onboard_time": 1748880440,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 67428,
+      "num": 275599,
+      "word": "王一博又双叒解锁新技能",
+      "onboard_time": 1749352340,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 67426,

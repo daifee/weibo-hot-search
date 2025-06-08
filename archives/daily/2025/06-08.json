@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749350044575,
+  "endTime": 1749354999385,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -9,6 +9,22 @@
       "onboard_time": 1749313102,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8098642,
+      "num": 8098642,
+      "word": "高考历史",
+      "onboard_time": 1749349820,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2497436,
+      "num": 2497436,
+      "word": "高考物理",
+      "onboard_time": 1749348800,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 2405502,
@@ -35,14 +51,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1515350,
-      "num": 1515350,
-      "word": "高考物理",
-      "onboard_time": 1749348800,
-      "rank": 0,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1480550,
       "num": 313202,
       "word": "考生开考前25分钟因锁故障被困家中",
@@ -57,6 +65,14 @@
       "onboard_time": 1749309983,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1114074,
+      "num": 275598,
+      "word": "历史给我道歉",
+      "onboard_time": 1749351201,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 1092814,
@@ -75,20 +91,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 940563,
+      "num": 940563,
+      "word": "领衔主演关晓彤李昀锐",
+      "onboard_time": 1749348201,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 919134,
+      "num": 919134,
+      "word": "高考历史文言文",
+      "onboard_time": 1749351620,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 878015,
       "num": 878015,
       "word": "高考数学",
       "onboard_time": 1749283282,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 822242,
-      "num": 822242,
-      "word": "领衔主演关晓彤李昀锐",
-      "onboard_time": 1749348201,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 779738,
@@ -104,6 +128,14 @@
       "word": "李晟 我也觉得票数低了",
       "onboard_time": 1749309264,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 620194,
+      "num": 620194,
+      "word": "马嘉祺歌手 唱王源的歌",
+      "onboard_time": 1749353182,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -243,12 +275,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 364506,
+      "num": 275595,
+      "word": "被高考历史做局了",
+      "onboard_time": 1749351921,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 355920,
       "num": 309785,
       "word": "耀眼开机",
       "onboard_time": 1749343879,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354348,
+      "num": 180056,
+      "word": "我的物理成为了我的败笔",
+      "onboard_time": 1749352040,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 348097,
+      "num": 348097,
+      "word": "王楚钦回应19岁摔拍子",
+      "onboard_time": 1749350120,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 344337,
@@ -307,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 275594,
+      "num": 275594,
+      "word": "垫底辣孩cos藏海",
+      "onboard_time": 1749347901,
+      "rank": 24,
+      "category": "网红,剧集"
+    },
+    {
       "raw_hot": 275105,
       "num": 275105,
       "word": "王楚钦说孙颖莎有她成功的道理",
@@ -355,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261694,
-      "num": 261694,
-      "word": "高考历史",
-      "onboard_time": 1749349820,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 260097,
       "num": 171586,
       "word": "吴宣仪 这是我第三次成团",
@@ -385,14 +441,6 @@
       "onboard_time": 1749317717,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232149,
-      "num": 232149,
-      "word": "垫底辣孩cos藏海",
-      "onboard_time": 1749347901,
-      "rank": 24,
-      "category": "网红,剧集"
     },
     {
       "raw_hot": 230247,
@@ -435,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219957,
+      "num": 176907,
+      "word": "谁家古风小生出的试卷",
+      "onboard_time": 1749352761,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 218728,
       "num": 203023,
       "word": "蒙娜丽莎",
       "onboard_time": 1749312743,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210322,
+      "num": 152434,
+      "word": "文科生赢过理科生",
+      "onboard_time": 1749354741,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 208614,
@@ -491,11 +555,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186311,
+      "num": 151160,
+      "word": "新一卷历史 难",
+      "onboard_time": 1749351681,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186240,
       "num": 88895,
       "word": "李艺彤亲友团 被跳过",
       "onboard_time": 1749298823,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181470,
+      "num": 181470,
+      "word": "侯佩岑在线找工作",
+      "onboard_time": 1749349519,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -531,6 +611,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172743,
+      "num": 131377,
+      "word": "福建物理 难",
+      "onboard_time": 1749354082,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 172267,
+      "num": 172267,
+      "word": "韦东奕曾回应什么样的孩子适合学数学",
+      "onboard_time": 1749353421,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 171855,
+      "num": 275596,
+      "word": "店名像粗话螺蛳粉店将关店",
+      "onboard_time": 1749353360,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171676,
       "num": 171676,
       "word": "藏海传演唱会",
@@ -547,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170564,
+      "num": 170564,
+      "word": "大爷被蛇咬伤反抓蛇再遭咬",
+      "onboard_time": 1749348740,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169807,
       "num": 169807,
       "word": "尔冬升说柯淳哭戏果然厉害",
@@ -555,12 +667,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167867,
+      "num": 146849,
+      "word": "瓦格纳集团宣布撤军",
+      "onboard_time": 1749353001,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165620,
       "num": 165620,
       "word": "宋妍霏赢了张小婉",
       "onboard_time": 1749307586,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164604,
+      "num": 173127,
+      "word": "SU7Ultra是GT赛车首款中国车",
+      "onboard_time": 1749353662,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 164303,
@@ -595,6 +723,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 160175,
+      "num": 275602,
+      "word": "长沙暴雨居民楼楼梯变瀑布",
+      "onboard_time": 1749353182,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154135,
       "num": 150201,
       "word": "李艺彤这次大家是站着的",
@@ -607,14 +743,6 @@
       "num": 152103,
       "word": "祝绪丹回应浪姐没苦硬吃",
       "onboard_time": 1749343520,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 151596,
-      "num": 151596,
-      "word": "侯佩岑在线找工作",
-      "onboard_time": 1749349519,
       "rank": 31,
       "category": "综艺"
     },
@@ -649,6 +777,14 @@
       "onboard_time": 1749323235,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144654,
+      "num": 144654,
+      "word": "广东物理大题",
+      "onboard_time": 1749352101,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 141925,
@@ -691,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138927,
+      "num": 138927,
+      "word": "四川物理",
+      "onboard_time": 1749354861,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138643,
       "num": 130557,
       "word": "大脑过度疲劳的8个信号",
@@ -723,6 +867,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131498,
+      "num": 131498,
+      "word": "洪尧在家的时候就帮吴谨言搭过词",
+      "onboard_time": 1749354261,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130634,
+      "num": 130634,
+      "word": "关晓彤耀眼官宣剧照",
+      "onboard_time": 1749354619,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130631,
       "num": 130631,
       "word": "洪尧演上了薛芳菲的前夫哥",
@@ -731,10 +891,42 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130534,
+      "num": 130534,
+      "word": "我们与恶的距离2",
+      "onboard_time": 1749349701,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130475,
       "num": 130475,
       "word": "高考数学压轴题",
       "onboard_time": 1749311902,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 129368,
+      "num": 129368,
+      "word": "济南一烤鸭店幽默陪考停业告示火了",
+      "onboard_time": 1749352401,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128984,
+      "num": 128984,
+      "word": "海口一小区楼体集体开裂",
+      "onboard_time": 1749354801,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127756,
+      "num": 127756,
+      "word": "安徽物理 简单",
+      "onboard_time": 1749354141,
       "rank": 44,
       "category": "教育"
     },
@@ -763,20 +955,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122906,
+      "num": 122906,
+      "word": "高芙法网夺冠后让球童捧奖杯",
+      "onboard_time": 1749354082,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122153,
       "num": 122153,
       "word": "谢娜跳舞导播切了陈德容",
       "onboard_time": 1749338416,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121137,
-      "num": 121137,
-      "word": "我们与恶的距离2",
-      "onboard_time": 1749349701,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 115369,
@@ -795,20 +987,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114077,
+      "num": 114077,
+      "word": "自己在家怎么清洗空调",
+      "onboard_time": 1749353961,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 112601,
       "num": 112601,
       "word": "周诗雨宣布与丝芭解约",
       "onboard_time": 1749299302,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111820,
-      "num": 111820,
-      "word": "大爷被蛇咬伤反抓蛇再遭咬",
-      "onboard_time": 1749348740,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109151,
@@ -929,6 +1121,14 @@
       "onboard_time": 1749317177,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 67428,
+      "num": 275599,
+      "word": "王一博又双叒解锁新技能",
+      "onboard_time": 1749352340,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 67426,
