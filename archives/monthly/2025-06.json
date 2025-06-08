@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749360362441,
+  "endTime": 1749361394358,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -827,6 +827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1265531,
+      "num": 1265531,
+      "word": "文科生赢过理科生",
+      "onboard_time": 1749354741,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1265041,
       "num": 1265041,
       "word": "印度医生被强奸犯家属绑在树上殴打",
@@ -891,14 +899,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 1231715,
-      "num": 1231715,
-      "word": "文科生赢过理科生",
-      "onboard_time": 1749354741,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1226395,
       "num": 655871,
       "word": "女子临床死亡后父亲要求继续抢救",
@@ -945,6 +945,14 @@
       "onboard_time": 1748866222,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1213209,
+      "num": 1213209,
+      "word": "历史 高考顶流",
+      "onboard_time": 1749356241,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 1202990,
@@ -1539,14 +1547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 883228,
-      "num": 883228,
-      "word": "历史 高考顶流",
-      "onboard_time": 1749356241,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 882775,
       "num": 882775,
       "word": "aespa回归预告",
@@ -1633,6 +1633,14 @@
       "onboard_time": 1749121399,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 851418,
+      "num": 851418,
+      "word": "文科生站起来了",
+      "onboard_time": 1749356781,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 850000,
@@ -2393,6 +2401,14 @@
       "onboard_time": 1749029361,
       "rank": 32,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 647122,
+      "num": 408619,
+      "word": "被摸腿女演员讲述从业初衷",
+      "onboard_time": 1749358461,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 647115,
@@ -3715,14 +3731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 474381,
-      "num": 408619,
-      "word": "被摸腿女演员讲述从业初衷",
-      "onboard_time": 1749358461,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 474153,
       "num": 474153,
       "word": "IU车银优双人cha",
@@ -4145,14 +4153,6 @@
       "onboard_time": 1749036380,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 429281,
-      "num": 429281,
-      "word": "文科生站起来了",
-      "onboard_time": 1749356781,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 428853,
@@ -5003,6 +5003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361649,
+      "num": 361649,
+      "word": "历史出道五千年 考久一",
+      "onboard_time": 1749356961,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 361591,
       "num": 326145,
       "word": "何秋亊 给哪吒道歉",
@@ -5099,6 +5107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356960,
+      "num": 356960,
+      "word": "宁静直接封神的存在",
+      "onboard_time": 1749358880,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356845,
       "num": 279669,
       "word": "43岁上海男子失业后逆袭",
@@ -5163,6 +5179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355491,
+      "num": 355491,
+      "word": "裴秀智没去Min的婚礼",
+      "onboard_time": 1749359421,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 355296,
       "num": 604309,
       "word": "李在明说若胜选将稳定处理韩中关系",
@@ -5177,14 +5201,6 @@
       "onboard_time": 1748877861,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 355062,
-      "num": 355062,
-      "word": "宁静直接封神的存在",
-      "onboard_time": 1749358880,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 353876,
@@ -6587,14 +6603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 277868,
-      "num": 277868,
-      "word": "历史出道五千年 考久一",
-      "onboard_time": 1749356961,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 277599,
       "num": 277599,
       "word": "腾讯回应首个满级QQ诞生",
@@ -6817,14 +6825,6 @@
       "onboard_time": 1748946862,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268194,
-      "num": 268194,
-      "word": "裴秀智没去Min的婚礼",
-      "onboard_time": 1749359421,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 268089,
@@ -7353,6 +7353,14 @@
       "onboard_time": 1748933841,
       "rank": 9,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 248567,
+      "num": 248567,
+      "word": "宋妍霏光脚领奖",
+      "onboard_time": 1749359242,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 248487,
@@ -8436,7 +8444,7 @@
     },
     {
       "raw_hot": 219962,
-      "num": 418107,
+      "num": 483028,
       "word": "曝马斯克与美财长曾在白宫大打出手",
       "onboard_time": 1749353781,
       "rank": 16,
@@ -9537,14 +9545,6 @@
       "onboard_time": 1748787201,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202689,
-      "num": 202689,
-      "word": "宋妍霏光脚领奖",
-      "onboard_time": 1749359242,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 202563,
@@ -11395,6 +11395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180448,
+      "num": 180448,
+      "word": "浪姐奖杯 丑",
+      "onboard_time": 1749361040,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180431,
       "num": 180431,
       "word": "48岁再婚女子超快顺产生子",
@@ -12139,6 +12147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170431,
+      "num": 463463,
+      "word": "蛇从天降硬核大爷抓起一顿狂摔",
+      "onboard_time": 1749359601,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170351,
       "num": 170351,
       "word": "宋亚轩是懂得只有严浩翔能让张真源破防",
@@ -12369,6 +12385,14 @@
       "onboard_time": 1749131241,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 168342,
+      "num": 168342,
+      "word": "邓超用英文表白孙俪",
+      "onboard_time": 1749360621,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 168323,
@@ -13120,14 +13144,6 @@
       "word": "长沙暴雨居民楼楼梯变瀑布",
       "onboard_time": 1749353182,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160090,
-      "num": 160090,
-      "word": "蛇从天降硬核大爷抓起一顿狂摔",
-      "onboard_time": 1749359601,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -15875,6 +15891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135482,
+      "num": 135482,
+      "word": "张镐濂无限超越班探班张丹峰",
+      "onboard_time": 1749361161,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135479,
       "num": 135479,
       "word": "谁懂考试前一晚的含金量",
@@ -18475,6 +18499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112055,
+      "num": 110803,
+      "word": "海来阿木演唱会上座率",
+      "onboard_time": 1749361341,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111903,
       "num": 111903,
       "word": "石家庄一施工现场发生坍塌致3人死亡",
@@ -18729,6 +18761,14 @@
       "onboard_time": 1748848881,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109653,
+      "num": 109653,
+      "word": "日警方公布对中国游客行凶者形象",
+      "onboard_time": 1749361281,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 109575,
@@ -20745,6 +20785,14 @@
       "onboard_time": 1748830220,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89052,
+      "num": 355988,
+      "word": "场外陪考卷出新高度",
+      "onboard_time": 1749360982,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89001,
@@ -24201,6 +24249,14 @@
       "onboard_time": 1749021141,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 41827,
+      "num": 355662,
+      "word": "当地回应水污染致大量秧苗死亡",
+      "onboard_time": 1749360500,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41777,

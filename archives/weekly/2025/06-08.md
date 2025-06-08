@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/08 00:30:01 ~ 2025/06/08 13:26:02
+本榜单时间：2025/06/08 00:30:01 ~ 2025/06/08 13:43:14
 </p>
 </blockquote>
 <p>
@@ -64,7 +64,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%94%9F%E8%B5%A2%E8%BF%87%E7%90%86%E7%A7%91%E7%94%9F%23" target="weibo">
-文科生赢过理科生（热度：1231715）
+文科生赢过理科生（热度：1265531）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%8F%B2%20%E9%AB%98%E8%80%83%E9%A1%B6%E6%B5%81%23" target="weibo">
+历史 高考顶流（热度：1213209）
 </a>
 </li>
 
@@ -99,12 +105,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%8F%B2%20%E9%AB%98%E8%80%83%E9%A1%B6%E6%B5%81%23" target="weibo">
-历史 高考顶流（热度：883228）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%23" target="weibo">
 高考数学（热度：878015）
 </a>
@@ -113,6 +113,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E7%89%A9%E7%90%86%E6%88%90%E4%B8%BA%E4%BA%86%E6%88%91%E7%9A%84%E8%B4%A5%E7%AC%94%23" target="weibo">
 我的物理成为了我的败笔（热度：871019）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%94%9F%E7%AB%99%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
+文科生站起来了（热度：851418）
 </a>
 </li>
 
@@ -131,6 +137,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%20%E6%88%91%E4%B9%9F%E8%A7%89%E5%BE%97%E7%A5%A8%E6%95%B0%E4%BD%8E%E4%BA%86%23" target="weibo">
 李晟 我也觉得票数低了（热度：724901）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%91%B8%E8%85%BF%E5%A5%B3%E6%BC%94%E5%91%98%E8%AE%B2%E8%BF%B0%E4%BB%8E%E4%B8%9A%E5%88%9D%E8%A1%B7%23" target="weibo">
+被摸腿女演员讲述从业初衷（热度：647122）
 </a>
 </li>
 
@@ -195,20 +207,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%91%B8%E8%85%BF%E5%A5%B3%E6%BC%94%E5%91%98%E8%AE%B2%E8%BF%B0%E4%BB%8E%E4%B8%9A%E5%88%9D%E8%A1%B7%23" target="weibo">
-被摸腿女演员讲述从业初衷（热度：474381）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%A6%E4%B9%98%E9%A3%8E%E8%88%9E%E5%8F%B0%23" target="weibo">
 年度乘风舞台（热度：452661）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%94%9F%E7%AB%99%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
-文科生站起来了（热度：429281）
 </a>
 </li>
 
@@ -255,8 +255,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%8F%B2%E5%87%BA%E9%81%93%E4%BA%94%E5%8D%83%E5%B9%B4%20%E8%80%83%E4%B9%85%E4%B8%80%23" target="weibo">
+历史出道五千年 考久一（热度：361649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9cos%E8%97%8F%E6%B5%B7%23" target="weibo">
 垫底辣孩cos藏海（热度：361391）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E7%9B%B4%E6%8E%A5%E5%B0%81%E7%A5%9E%E7%9A%84%E5%AD%98%E5%9C%A8%23" target="weibo">
+宁静直接封神的存在（热度：356960）
 </a>
 </li>
 
@@ -267,8 +279,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E7%9B%B4%E6%8E%A5%E5%B0%81%E7%A5%9E%E7%9A%84%E5%AD%98%E5%9C%A8%23" target="weibo">
-宁静直接封神的存在（热度：355062）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%A7%80%E6%99%BA%E6%B2%A1%E5%8E%BBMin%E7%9A%84%E5%A9%9A%E7%A4%BC%23" target="weibo">
+裴秀智没去Min的婚礼（热度：355491）
 </a>
 </li>
 
@@ -321,12 +333,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%8F%B2%E5%87%BA%E9%81%93%E4%BA%94%E5%8D%83%E5%B9%B4%20%E8%80%83%E4%B9%85%E4%B8%80%23" target="weibo">
-历史出道五千年 考久一（热度：277868）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%B5%E5%AE%8C%E5%8F%88%E6%94%B9%E5%8F%A3%23" target="weibo">
 马斯克和特朗普吵完又改口（热度：276495）
 </a>
@@ -341,12 +347,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E6%8A%95%E7%A5%A8%23" target="weibo">
 浪姐到底谁在投票（热度：270279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%A7%80%E6%99%BA%E6%B2%A1%E5%8E%BBMin%E7%9A%84%E5%A9%9A%E7%A4%BC%23" target="weibo">
-裴秀智没去Min的婚礼（热度：268194）
 </a>
 </li>
 
@@ -383,6 +383,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%20%E8%BF%99%E6%98%AF%E6%88%91%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%88%90%E5%9B%A2%23" target="weibo">
 吴宣仪 这是我第三次成团（热度：260097）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%85%89%E8%84%9A%E9%A2%86%E5%A5%96%23" target="weibo">
+宋妍霏光脚领奖（热度：248567）
 </a>
 </li>
 
@@ -489,12 +495,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%85%89%E8%84%9A%E9%A2%86%E5%A5%96%23" target="weibo">
-宋妍霏光脚领奖（热度：202689）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%A7%91%E7%94%9F%E5%8A%A8%E4%BA%86%E8%B0%81%E7%9A%84%E8%9B%8B%E7%B3%95%23" target="weibo">
 文科生动了谁的蛋糕（热度：200315）
 </a>
@@ -573,6 +573,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E5%A5%96%E6%9D%AF%20%E4%B8%91%23" target="weibo">
+浪姐奖杯 丑（热度：180448）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23GAI%E5%92%8CCBLOCK%E5%9B%9B%E5%B0%8F%E5%8F%AA%E6%8B%A5%E6%8A%B1%23" target="weibo">
 GAI和CBLOCK四小只拥抱（热度：180105）
 </a>
@@ -645,6 +651,12 @@ GAI和CBLOCK四小只拥抱（热度：180105）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9B%87%E4%BB%8E%E5%A4%A9%E9%99%8D%E7%A1%AC%E6%A0%B8%E5%A4%A7%E7%88%B7%E6%8A%93%E8%B5%B7%E4%B8%80%E9%A1%BF%E7%8B%82%E6%91%94%23" target="weibo">
+蛇从天降硬核大爷抓起一顿狂摔（热度：170431）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%98%AF%E6%87%82%E5%BE%97%E5%8F%AA%E6%9C%89%E4%B8%A5%E6%B5%A9%E7%BF%94%E8%83%BD%E8%AE%A9%E5%BC%A0%E7%9C%9F%E6%BA%90%E7%A0%B4%E9%98%B2%23" target="weibo">
 宋亚轩是懂得只有严浩翔能让张真源破防（热度：170351）
 </a>
@@ -659,6 +671,12 @@ GAI和CBLOCK四小只拥抱（热度：180105）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E8%AF%B4%E6%9F%AF%E6%B7%B3%E5%93%AD%E6%88%8F%E6%9E%9C%E7%84%B6%E5%8E%89%E5%AE%B3%23" target="weibo">
 尔冬升说柯淳哭戏果然厉害（热度：169807）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%94%A8%E8%8B%B1%E6%96%87%E8%A1%A8%E7%99%BD%E5%AD%99%E4%BF%AA%23" target="weibo">
+邓超用英文表白孙俪（热度：168342）
 </a>
 </li>
 
@@ -731,12 +749,6 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E6%9A%B4%E9%9B%A8%E5%B1%85%E6%B0%91%E6%A5%BC%E6%A5%BC%E6%A2%AF%E5%8F%98%E7%80%91%E5%B8%83%23" target="weibo">
 长沙暴雨居民楼楼梯变瀑布（热度：160175）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9B%87%E4%BB%8E%E5%A4%A9%E9%99%8D%E7%A1%AC%E6%A0%B8%E5%A4%A7%E7%88%B7%E6%8A%93%E8%B5%B7%E4%B8%80%E9%A1%BF%E7%8B%82%E6%91%94%23" target="weibo">
-蛇从天降硬核大爷抓起一顿狂摔（热度：160090）
 </a>
 </li>
 
@@ -909,6 +921,12 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%95%90%E6%BF%82%E6%97%A0%E9%99%90%E8%B6%85%E8%B6%8A%E7%8F%AD%E6%8E%A2%E7%8F%AD%E5%BC%A0%E4%B8%B9%E5%B3%B0%23" target="weibo">
+张镐濂无限超越班探班张丹峰（热度：135482）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%20%E6%90%9E%E7%AC%91%23" target="weibo">
 长安的荔枝 搞笑（热度：135448）
 </a>
@@ -1041,6 +1059,18 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87%23" target="weibo">
+海来阿木演唱会上座率（热度：112055）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E8%AD%A6%E6%96%B9%E5%85%AC%E5%B8%83%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A1%8C%E5%87%B6%E8%80%85%E5%BD%A2%E8%B1%A1%23" target="weibo">
+日警方公布对中国游客行凶者形象（热度：109653）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%236%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%9B%B0%E5%B0%8F%E5%8C%BA%E7%94%B5%E6%A2%AF40%E5%88%86%E9%92%9F%E6%97%A0%E4%BA%BA%E6%95%91%23" target="weibo">
 6岁男孩被困小区电梯40分钟无人救（热度：109151）
 </a>
@@ -1097,6 +1127,12 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
 法网女单决赛（热度：90177）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%BA%E5%A4%96%E9%99%AA%E8%80%83%E5%8D%B7%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6%23" target="weibo">
+场外陪考卷出新高度（热度：89052）
 </a>
 </li>
 
@@ -1241,6 +1277,12 @@ SU7Ultra是GT赛车首款中国车（热度：164604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E7%BF%BB%E8%84%B8%E6%97%B6%E9%97%B4%E7%BA%BF%23" target="weibo">
 特朗普与马斯克的翻脸时间线（热度：42611）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%B0%B4%E6%B1%A1%E6%9F%93%E8%87%B4%E5%A4%A7%E9%87%8F%E7%A7%A7%E8%8B%97%E6%AD%BB%E4%BA%A1%23" target="weibo">
+当地回应水污染致大量秧苗死亡（热度：41827）
 </a>
 </li>
 

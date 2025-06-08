@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749360362441,
+  "endTime": 1749361394358,
   "band_list": [
     {
       "raw_hot": 8888905,
@@ -67,11 +67,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1231715,
-      "num": 1231715,
+      "raw_hot": 1265531,
+      "num": 1265531,
       "word": "文科生赢过理科生",
       "onboard_time": 1749354741,
       "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1213209,
+      "num": 1213209,
+      "word": "历史 高考顶流",
+      "onboard_time": 1749356241,
+      "rank": 26,
       "category": "教育"
     },
     {
@@ -115,14 +123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 883228,
-      "num": 883228,
-      "word": "历史 高考顶流",
-      "onboard_time": 1749356241,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 878015,
       "num": 878015,
       "word": "高考数学",
@@ -136,6 +136,14 @@
       "word": "我的物理成为了我的败笔",
       "onboard_time": 1749352040,
       "rank": 20,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 851418,
+      "num": 851418,
+      "word": "文科生站起来了",
+      "onboard_time": 1749356781,
+      "rank": 30,
       "category": "教育"
     },
     {
@@ -161,6 +169,14 @@
       "onboard_time": 1749309264,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 647122,
+      "num": 408619,
+      "word": "被摸腿女演员讲述从业初衷",
+      "onboard_time": 1749358461,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600907,
@@ -243,28 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 474381,
-      "num": 408619,
-      "word": "被摸腿女演员讲述从业初衷",
-      "onboard_time": 1749358461,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 452661,
       "num": 452661,
       "word": "年度乘风舞台",
       "onboard_time": 1749310762,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 429281,
-      "num": 429281,
-      "word": "文科生站起来了",
-      "onboard_time": 1749356781,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 424820,
@@ -323,12 +323,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 361649,
+      "num": 361649,
+      "word": "历史出道五千年 考久一",
+      "onboard_time": 1749356961,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 361391,
       "num": 361391,
       "word": "垫底辣孩cos藏海",
       "onboard_time": 1749347901,
       "rank": 24,
       "category": "网红,剧集"
+    },
+    {
+      "raw_hot": 356960,
+      "num": 356960,
+      "word": "宁静直接封神的存在",
+      "onboard_time": 1749358880,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 355920,
@@ -339,12 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355062,
-      "num": 355062,
-      "word": "宁静直接封神的存在",
-      "onboard_time": 1749358880,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 355491,
+      "num": 355491,
+      "word": "裴秀智没去Min的婚礼",
+      "onboard_time": 1749359421,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 348097,
@@ -411,14 +427,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 277868,
-      "num": 277868,
-      "word": "历史出道五千年 考久一",
-      "onboard_time": 1749356961,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 276495,
       "num": 276495,
       "word": "马斯克和特朗普吵完又改口",
@@ -441,14 +449,6 @@
       "onboard_time": 1749314302,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268194,
-      "num": 268194,
-      "word": "裴秀智没去Min的婚礼",
-      "onboard_time": 1749359421,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 266898,
@@ -496,6 +496,14 @@
       "word": "吴宣仪 这是我第三次成团",
       "onboard_time": 1749317477,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248567,
+      "num": 248567,
+      "word": "宋妍霏光脚领奖",
+      "onboard_time": 1749359242,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 219962,
-      "num": 418107,
+      "num": 483028,
       "word": "曝马斯克与美财长曾在白宫大打出手",
       "onboard_time": 1749353781,
       "rank": 16,
@@ -632,14 +640,6 @@
       "word": "王俊凯魔性舞蹈零帧起跳",
       "onboard_time": 1749359541,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 202689,
-      "num": 202689,
-      "word": "宋妍霏光脚领奖",
-      "onboard_time": 1749359242,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -747,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180448,
+      "num": 180448,
+      "word": "浪姐奖杯 丑",
+      "onboard_time": 1749361040,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180105,
       "num": 180105,
       "word": "GAI和CBLOCK四小只拥抱",
@@ -843,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170431,
+      "num": 463463,
+      "word": "蛇从天降硬核大爷抓起一顿狂摔",
+      "onboard_time": 1749359601,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170351,
       "num": 170351,
       "word": "宋亚轩是懂得只有严浩翔能让张真源破防",
@@ -863,6 +879,14 @@
       "num": 169807,
       "word": "尔冬升说柯淳哭戏果然厉害",
       "onboard_time": 1749348621,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 168342,
+      "num": 168342,
+      "word": "邓超用英文表白孙俪",
+      "onboard_time": 1749360621,
       "rank": 27,
       "category": "综艺"
     },
@@ -960,14 +984,6 @@
       "word": "长沙暴雨居民楼楼梯变瀑布",
       "onboard_time": 1749353182,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160090,
-      "num": 160090,
-      "word": "蛇从天降硬核大爷抓起一顿狂摔",
-      "onboard_time": 1749359601,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1195,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135482,
+      "num": 135482,
+      "word": "张镐濂无限超越班探班张丹峰",
+      "onboard_time": 1749361161,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135448,
       "num": 129692,
       "word": "长安的荔枝 搞笑",
@@ -1371,6 +1395,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112055,
+      "num": 110803,
+      "word": "海来阿木演唱会上座率",
+      "onboard_time": 1749361341,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 109653,
+      "num": 109653,
+      "word": "日警方公布对中国游客行凶者形象",
+      "onboard_time": 1749361281,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109151,
       "num": 233234,
       "word": "6岁男孩被困小区电梯40分钟无人救",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1749316519,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89052,
+      "num": 355988,
+      "word": "场外陪考卷出新高度",
+      "onboard_time": 1749360982,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87686,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1749359001,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 41827,
+      "num": 355662,
+      "word": "当地回应水污染致大量秧苗死亡",
+      "onboard_time": 1749360500,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39917,

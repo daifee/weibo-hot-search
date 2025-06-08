@@ -1,0 +1,410 @@
+{
+  "runTime": 1749361394358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4458380,
+        "num": 4458380,
+        "word": "高考历史",
+        "onboard_time": 1749349820,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1265531,
+        "num": 1265531,
+        "word": "文科生赢过理科生",
+        "onboard_time": 1749354741,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40605,
+        "num": 1220375,
+        "word": "我国服务贸易跑出加速度",
+        "onboard_time": 1749356781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1213209,
+        "num": 1213209,
+        "word": "历史 高考顶流",
+        "onboard_time": 1749356241,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 851515,
+        "num": 851515,
+        "word": "高考物理",
+        "onboard_time": 1749348800,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 851418,
+        "num": 851418,
+        "word": "文科生站起来了",
+        "onboard_time": 1749356781,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 576461,
+        "num": 576461,
+        "word": "领衔主演关晓彤李昀锐",
+        "onboard_time": 1749348201,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358788,
+        "num": 574223,
+        "word": "马嘉祺歌手 唱王源的歌",
+        "onboard_time": 1749353182,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178311,
+        "num": 483028,
+        "word": "曝马斯克与美财长曾在白宫大打出手",
+        "onboard_time": 1749353781,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170431,
+        "num": 463463,
+        "word": "蛇从天降硬核大爷抓起一顿狂摔",
+        "onboard_time": 1749359601,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647122,
+        "num": 385968,
+        "word": "被摸腿女演员讲述从业初衷",
+        "onboard_time": 1749358461,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361649,
+        "num": 361649,
+        "word": "历史出道五千年 考久一",
+        "onboard_time": 1749356961,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 356960,
+        "num": 356960,
+        "word": "宁静直接封神的存在",
+        "onboard_time": 1749358880,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89052,
+        "num": 355988,
+        "word": "场外陪考卷出新高度",
+        "onboard_time": 1749360982,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41827,
+        "num": 355662,
+        "word": "当地回应水污染致大量秧苗死亡",
+        "onboard_time": 1749360500,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355491,
+        "num": 355491,
+        "word": "裴秀智没去Min的婚礼",
+        "onboard_time": 1749359421,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340496,
+        "num": 340496,
+        "word": "韦东奕严选账号已改名",
+        "onboard_time": 1749312383,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286715,
+        "num": 286715,
+        "word": "浪姐成团名单",
+        "onboard_time": 1749313102,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255617,
+        "num": 255617,
+        "word": "北京一地下室惊现大鱼池",
+        "onboard_time": 1749342558,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248567,
+        "num": 248567,
+        "word": "宋妍霏光脚领奖",
+        "onboard_time": 1749359242,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246186,
+        "num": 246186,
+        "word": "我的物理成为了我的败笔",
+        "onboard_time": 1749352040,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244595,
+        "num": 244595,
+        "word": "垫底辣孩cos藏海",
+        "onboard_time": 1749347901,
+        "rank": 21,
+        "category": "网红,剧集"
+      },
+      {
+        "raw_hot": 236229,
+        "num": 236229,
+        "word": "考生开考前25分钟因锁故障被困家中",
+        "onboard_time": 1749346700,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206110,
+        "num": 206110,
+        "word": "樊振东许昕同框",
+        "onboard_time": 1749356542,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180448,
+        "num": 180448,
+        "word": "浪姐奖杯 丑",
+        "onboard_time": 1749361040,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179719,
+        "num": 179719,
+        "word": "七根心简开播",
+        "onboard_time": 1749358640,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168779,
+        "num": 168779,
+        "word": "23岁女健身教练身上紫纹越长越多",
+        "onboard_time": 1749346640,
+        "rank": 26,
+        "category": "运动健身,民生新闻"
+      },
+      {
+        "raw_hot": 168342,
+        "num": 168342,
+        "word": "邓超用英文表白孙俪",
+        "onboard_time": 1749360621,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162011,
+        "num": 162011,
+        "word": "历史给我道歉",
+        "onboard_time": 1749351201,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143749,
+        "num": 143749,
+        "word": "高考历史力压高考物理",
+        "onboard_time": 1749356061,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142604,
+        "num": 142604,
+        "word": "谁家古风小生出的试卷",
+        "onboard_time": 1749352761,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142369,
+        "num": 142369,
+        "word": "救女童大爷被威胁后求购护家狗",
+        "onboard_time": 1749356301,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141903,
+        "num": 141903,
+        "word": "王楚钦回应19岁摔拍子",
+        "onboard_time": 1749350120,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138636,
+        "num": 138636,
+        "word": "王俊凯魔性舞蹈零帧起跳",
+        "onboard_time": 1749359541,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135482,
+        "num": 135482,
+        "word": "张镐濂无限超越班探班张丹峰",
+        "onboard_time": 1749361161,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134713,
+        "num": 134713,
+        "word": "郎咸平为韦东奕发声",
+        "onboard_time": 1749359061,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132153,
+        "num": 132153,
+        "word": "特朗普将向加州派遣两千国民警卫队",
+        "onboard_time": 1749355641,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128625,
+        "num": 128625,
+        "word": "蔡徐坤Deadman",
+        "onboard_time": 1749359421,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64345,
+        "num": 126202,
+        "word": "宣纸的诞生竟充满诗意",
+        "onboard_time": 1749355521,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124862,
+        "num": 124862,
+        "word": "高考",
+        "onboard_time": 1749338176,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117587,
+        "num": 117587,
+        "word": "北大数学系学生眼中的韦老师",
+        "onboard_time": 1749359901,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116677,
+        "num": 116677,
+        "word": "宋亚轩是懂得只有严浩翔能让张真源破防",
+        "onboard_time": 1749359120,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116501,
+        "num": 116501,
+        "word": "妈妈岗",
+        "onboard_time": 1749359541,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116087,
+        "num": 116087,
+        "word": "代高政 我演不了渣男",
+        "onboard_time": 1749359181,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115909,
+        "num": 115909,
+        "word": "李晟回应只成团2人",
+        "onboard_time": 1749345740,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115716,
+        "num": 115716,
+        "word": "韦东奕曾回应什么样的孩子适合学数学",
+        "onboard_time": 1749353421,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113510,
+        "num": 113510,
+        "word": "被高考历史做局了",
+        "onboard_time": 1749351921,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111737,
+        "num": 111737,
+        "word": "喻言 韩红夸你呢",
+        "onboard_time": 1749356660,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112055,
+        "num": 110803,
+        "word": "海来阿木演唱会上座率",
+        "onboard_time": 1749361341,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109653,
+        "num": 109653,
+        "word": "日警方公布对中国游客行凶者形象",
+        "onboard_time": 1749361281,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让勤奋学习成为青春远航的动力#"
+    }
+  }
+}
