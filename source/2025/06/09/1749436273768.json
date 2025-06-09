@@ -1,0 +1,410 @@
+{
+  "runTime": 1749436273768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1704507,
+        "num": 1704507,
+        "word": "高考化学",
+        "onboard_time": 1749432801,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 963702,
+        "num": 963702,
+        "word": "央视曝光不防晒的防晒衣",
+        "onboard_time": 1749395063,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41109,
+        "num": 777053,
+        "word": "我国海洋经济登上新台阶",
+        "onboard_time": 1749391584,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 705801,
+        "num": 705801,
+        "word": "labubu",
+        "onboard_time": 1749428541,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 689267,
+        "num": 689267,
+        "word": "花1.3万买了2000平米的乡下小院",
+        "onboard_time": 1749426739,
+        "rank": 4,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 662693,
+        "num": 662693,
+        "word": "山东物理",
+        "onboard_time": 1749434300,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 642299,
+        "num": 642299,
+        "word": "特朗普下令解放洛杉矶",
+        "onboard_time": 1749427101,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 568109,
+        "num": 615632,
+        "word": "藏海传逆跌",
+        "onboard_time": 1749434601,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 600340,
+        "num": 600340,
+        "word": "婚检查出艾滋医生未告知伴侣致感染",
+        "onboard_time": 1749434779,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74903,
+        "num": 551531,
+        "word": "联邦政府和加州陷入骂战",
+        "onboard_time": 1749435801,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 999128,
+        "num": 551180,
+        "word": "真情侣在综艺里吻上了",
+        "onboard_time": 1749426020,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 752465,
+        "num": 550090,
+        "word": "彭冠英开车送朱一龙回家",
+        "onboard_time": 1749434779,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547518,
+        "num": 547518,
+        "word": "特朗普上飞机时差点跌倒",
+        "onboard_time": 1749430222,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 444825,
+        "num": 444825,
+        "word": "李昀锐不躲孟子义",
+        "onboard_time": 1749429142,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305937,
+        "num": 414241,
+        "word": "BLACKPINK将于今年下半年正式回归",
+        "onboard_time": 1749434242,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303217,
+        "num": 408090,
+        "word": "刘浩存演技",
+        "onboard_time": 1749430102,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406372,
+        "num": 406372,
+        "word": "洛杉矶全市进入战术警戒状态",
+        "onboard_time": 1749427101,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255716,
+        "num": 360114,
+        "word": "迪丽热巴高雯差点被换掉",
+        "onboard_time": 1749428063,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156612,
+        "num": 354340,
+        "word": "黄霄雲新歌文案",
+        "onboard_time": 1749432261,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151541,
+        "num": 349394,
+        "word": "镖人",
+        "onboard_time": 1749428842,
+        "rank": 19,
+        "category": "电影,民生新闻"
+      },
+      {
+        "raw_hot": 348870,
+        "num": 348870,
+        "word": "乒超",
+        "onboard_time": 1749434359,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247358,
+        "num": 247358,
+        "word": "女孩试裤子店员提醒肚子大查出肿瘤",
+        "onboard_time": 1749393382,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222113,
+        "num": 222113,
+        "word": "C罗哭了",
+        "onboard_time": 1749425298,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195779,
+        "num": 195779,
+        "word": "高考英语",
+        "onboard_time": 1749369980,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179148,
+        "num": 179148,
+        "word": "男子胳膊上长刺猴自己用钳子拔掉",
+        "onboard_time": 1749427881,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177774,
+        "num": 177774,
+        "word": "王楚钦谈输给伊朗14岁小将",
+        "onboard_time": 1749398242,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174125,
+        "num": 174125,
+        "word": "特朗普上台后日均抓656名非法移民",
+        "onboard_time": 1749425719,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167310,
+        "num": 167310,
+        "word": "拉塞尔好帅",
+        "onboard_time": 1749432081,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130834,
+        "num": 167207,
+        "word": "登陆少年出发录制披哥",
+        "onboard_time": 1749433640,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91482,
+        "num": 166889,
+        "word": "五哈",
+        "onboard_time": 1749430762,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257977,
+        "num": 166288,
+        "word": "终于知道东北为什么不宣传景区了",
+        "onboard_time": 1749436159,
+        "rank": 30,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 206006,
+        "num": 165976,
+        "word": "原来正品质量这么差",
+        "onboard_time": 1749435921,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165940,
+        "num": 165940,
+        "word": "以军称发现哈马斯领导人遗体",
+        "onboard_time": 1749433279,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159020,
+        "num": 159020,
+        "word": "游客被打副所长拉偏架被免职不冤",
+        "onboard_time": 1749399979,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151296,
+        "num": 151296,
+        "word": "多地发文鼓励2.5天休假",
+        "onboard_time": 1749435921,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147392,
+        "num": 147392,
+        "word": "黑鹰直升机突降洛杉矶卸下弹药",
+        "onboard_time": 1749435560,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137621,
+        "num": 137621,
+        "word": "白宫官员警告加州州长",
+        "onboard_time": 1749429802,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137176,
+        "num": 137176,
+        "word": "阿云嘎基督山伯爵妆造撕拉片",
+        "onboard_time": 1749436101,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15325,
+        "num": 136516,
+        "word": "跨越时代的神奇工具",
+        "onboard_time": 1749435801,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96743,
+        "num": 136338,
+        "word": "2025乒超今日开战",
+        "onboard_time": 1749434719,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61188,
+        "num": 136261,
+        "word": "洛杉矶冲突现场催泪弹橡皮子弹横飞",
+        "onboard_time": 1749436225,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136255,
+        "num": 136255,
+        "word": "北京河北山东河南局地最高温超37",
+        "onboard_time": 1749434359,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129744,
+        "num": 129744,
+        "word": "300位国民警卫队人员进驻洛杉矶",
+        "onboard_time": 1749426319,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127217,
+        "num": 127217,
+        "word": "拒绝腿粗焦虑",
+        "onboard_time": 1749427221,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125379,
+        "num": 125379,
+        "word": "5月份CPI同比下降0.1%",
+        "onboard_time": 1749435921,
+        "rank": 44,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 124445,
+        "num": 124445,
+        "word": "推广2.5天休假模式还需劳动法律支持",
+        "onboard_time": 1749435560,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124392,
+        "num": 124392,
+        "word": "为什么不建议周末久躺",
+        "onboard_time": 1749425780,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124333,
+        "num": 124333,
+        "word": "高考",
+        "onboard_time": 1749426201,
+        "rank": 47,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 114198,
+        "num": 114198,
+        "word": "洛杉矶骚乱后纽约也乱了",
+        "onboard_time": 1749390803,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114037,
+        "num": 114037,
+        "word": "王自如谈在格力的年薪",
+        "onboard_time": 1749435860,
+        "rank": 49,
+        "category": "互联网,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让勤奋学习成为青春远航的动力#"
+    }
+  }
+}

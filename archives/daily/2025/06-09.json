@@ -1,7 +1,15 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749434829456,
+  "endTime": 1749436273768,
   "band_list": [
+    {
+      "raw_hot": 1704507,
+      "num": 1704507,
+      "word": "高考化学",
+      "onboard_time": 1749432801,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 1477349,
       "num": 1477349,
@@ -9,14 +17,6 @@
       "onboard_time": 1749395063,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1240640,
-      "num": 1240640,
-      "word": "高考化学",
-      "onboard_time": 1749432801,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1177210,
@@ -67,6 +67,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 752465,
+      "num": 550090,
+      "word": "彭冠英开车送朱一龙回家",
+      "onboard_time": 1749434779,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 662693,
+      "num": 662693,
+      "word": "山东物理",
+      "onboard_time": 1749434300,
+      "rank": 13,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 645437,
       "num": 645437,
       "word": "王楚钦谈输给伊朗14岁小将",
@@ -97,6 +113,22 @@
       "onboard_time": 1749383901,
       "rank": 20,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 600340,
+      "num": 600340,
+      "word": "婚检查出艾滋医生未告知伴侣致感染",
+      "onboard_time": 1749434779,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568109,
+      "num": 615632,
+      "word": "藏海传逆跌",
+      "onboard_time": 1749434601,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 543650,
@@ -172,11 +204,19 @@
     },
     {
       "raw_hot": 384018,
-      "num": 234722,
+      "num": 247358,
       "word": "女孩试裤子店员提醒肚子大查出肿瘤",
       "onboard_time": 1749393382,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348870,
+      "num": 348870,
+      "word": "乒超",
+      "onboard_time": 1749434359,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 337285,
@@ -195,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327024,
-      "num": 327024,
-      "word": "山东物理",
-      "onboard_time": 1749434300,
-      "rank": 13,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 322948,
       "num": 322948,
       "word": "泡泡玛特创始人成河南新首富",
@@ -211,12 +243,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 308802,
-      "num": 308802,
-      "word": "乒超",
-      "onboard_time": 1749434359,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 305937,
+      "num": 414241,
+      "word": "BLACKPINK将于今年下半年正式回归",
+      "onboard_time": 1749434242,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 285579,
@@ -267,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257977,
+      "num": 166288,
+      "word": "终于知道东北为什么不宣传景区了",
+      "onboard_time": 1749436159,
+      "rank": 30,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 254910,
       "num": 254910,
       "word": "江西回应投资3.5亿博物馆闲置2年",
@@ -307,8 +347,16 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 206006,
+      "num": 165976,
+      "word": "原来正品质量这么差",
+      "onboard_time": 1749435921,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205037,
-      "num": 239949,
+      "num": 349394,
       "word": "镖人",
       "onboard_time": 1749428842,
       "rank": 17,
@@ -321,14 +369,6 @@
       "onboard_time": 1749399200,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199302,
-      "num": 237354,
-      "word": "BLACKPINK将于今年下半年正式回归",
-      "onboard_time": 1749434242,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 193968,
@@ -395,12 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167310,
+      "num": 167310,
+      "word": "拉塞尔好帅",
+      "onboard_time": 1749432081,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166829,
       "num": 166829,
       "word": "中医说身体好不好看眼睛就知道",
       "onboard_time": 1749393563,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 165940,
+      "num": 588174,
+      "word": "以军称发现哈马斯领导人遗体",
+      "onboard_time": 1749433279,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 165533,
@@ -435,20 +491,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 156612,
+      "num": 354340,
+      "word": "黄霄雲新歌文案",
+      "onboard_time": 1749432261,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 151296,
+      "num": 151296,
+      "word": "多地发文鼓励2.5天休假",
+      "onboard_time": 1749435921,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150734,
       "num": 150734,
       "word": "为什么不建议周末久躺",
       "onboard_time": 1749425780,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 149285,
-      "num": 588174,
-      "word": "以军称发现哈马斯领导人遗体",
-      "onboard_time": 1749433279,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 148957,
@@ -459,28 +523,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147392,
+      "num": 147392,
+      "word": "黑鹰直升机突降洛杉矶卸下弹药",
+      "onboard_time": 1749435560,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146949,
       "num": 146949,
       "word": "300位国民警卫队人员进驻洛杉矶",
       "onboard_time": 1749426319,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 146562,
-      "num": 146562,
-      "word": "拉塞尔好帅",
-      "onboard_time": 1749432081,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 145056,
-      "num": 163470,
-      "word": "藏海传逆跌",
-      "onboard_time": 1749434601,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 140277,
@@ -500,11 +556,27 @@
     },
     {
       "raw_hot": 137241,
-      "num": 163325,
+      "num": 166889,
       "word": "五哈",
       "onboard_time": 1749430762,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137176,
+      "num": 137176,
+      "word": "阿云嘎基督山伯爵妆造撕拉片",
+      "onboard_time": 1749436101,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136255,
+      "num": 136255,
+      "word": "北京河北山东河南局地最高温超37",
+      "onboard_time": 1749434359,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135171,
@@ -555,20 +627,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131563,
-      "num": 131563,
-      "word": "北京河北山东河南局地最高温超37",
-      "onboard_time": 1749434359,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128784,
       "num": 204304,
       "word": "俄首次攻入第聂伯罗彼得罗夫斯克",
       "onboard_time": 1749423858,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125379,
+      "num": 125379,
+      "word": "5月份CPI同比下降0.1%",
+      "onboard_time": 1749435921,
+      "rank": 44,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 124445,
+      "num": 124445,
+      "word": "推广2.5天休假模式还需劳动法律支持",
+      "onboard_time": 1749435560,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124333,
+      "num": 124333,
+      "word": "高考",
+      "onboard_time": 1749426201,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 122872,
@@ -651,20 +739,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114037,
+      "num": 114037,
+      "word": "王自如谈在格力的年薪",
+      "onboard_time": 1749435860,
+      "rank": 49,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 113271,
       "num": 113271,
       "word": "德国0比2法国",
       "onboard_time": 1749397404,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113248,
-      "num": 162095,
-      "word": "黄霄雲新歌文案",
-      "onboard_time": 1749432261,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 109588,
@@ -691,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103697,
-      "num": 103697,
-      "word": "彭冠英开车送朱一龙回家",
-      "onboard_time": 1749434779,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100143,
       "num": 100143,
       "word": "王安宇的眼睛",
@@ -713,6 +793,14 @@
       "onboard_time": 1749390923,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96743,
+      "num": 136338,
+      "word": "2025乒超今日开战",
+      "onboard_time": 1749434719,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 95931,
@@ -779,6 +867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74903,
+      "num": 551531,
+      "word": "联邦政府和加州陷入骂战",
+      "onboard_time": 1749435801,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72448,
       "num": 96406,
       "word": "高考背后有多少人在守护",
@@ -811,12 +907,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61653,
-      "num": 116930,
-      "word": "2025乒超今日开战",
-      "onboard_time": 1749434719,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 61188,
+      "num": 136261,
+      "word": "洛杉矶冲突现场催泪弹橡皮子弹横飞",
+      "onboard_time": 1749436225,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58201,
@@ -987,11 +1083,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17830,
-      "num": 115871,
-      "word": "婚检查出艾滋医生未告知伴侣致感染",
-      "onboard_time": 1749434779,
-      "rank": 44,
+      "raw_hot": 15325,
+      "num": 136516,
+      "word": "跨越时代的神奇工具",
+      "onboard_time": 1749435801,
+      "rank": 38,
       "category": "民生新闻"
     },
     {

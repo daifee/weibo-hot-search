@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749434829456,
+  "endTime": 1749436273768,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -81,6 +81,14 @@
       "onboard_time": 1749294802,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1704507,
+      "num": 1704507,
+      "word": "高考化学",
+      "onboard_time": 1749432801,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1635358,
@@ -168,14 +176,6 @@
       "word": "afternoon怎么变形",
       "onboard_time": 1749377061,
       "rank": 5,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 1240640,
-      "num": 1240640,
-      "word": "高考化学",
-      "onboard_time": 1749432801,
-      "rank": 0,
       "category": "教育"
     },
     {
@@ -371,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 752465,
+      "num": 550090,
+      "word": "彭冠英开车送朱一龙回家",
+      "onboard_time": 1749434779,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 724901,
       "num": 520882,
       "word": "李晟 我也觉得票数低了",
@@ -385,6 +393,14 @@
       "onboard_time": 1749385762,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 662693,
+      "num": 662693,
+      "word": "山东物理",
+      "onboard_time": 1749434300,
+      "rank": 13,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 651029,
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 600340,
+      "num": 600340,
+      "word": "婚检查出艾滋医生未告知伴侣致感染",
+      "onboard_time": 1749434779,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 589357,
       "num": 593296,
       "word": "王俊凯回复陈赫",
@@ -497,6 +521,14 @@
       "onboard_time": 1749377422,
       "rank": 8,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 568109,
+      "num": 615632,
+      "word": "藏海传逆跌",
+      "onboard_time": 1749434601,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 566569,
@@ -955,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 348870,
+      "num": 348870,
+      "word": "乒超",
+      "onboard_time": 1749434359,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348097,
       "num": 406649,
       "word": "王楚钦回应19岁摔拍子",
@@ -1019,14 +1059,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 327024,
-      "num": 327024,
-      "word": "山东物理",
-      "onboard_time": 1749434300,
-      "rank": 13,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 323872,
       "num": 323872,
       "word": "孙颖莎上了小学英语教材书稿",
@@ -1059,12 +1091,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 308802,
-      "num": 308802,
-      "word": "乒超",
-      "onboard_time": 1749434359,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 305937,
+      "num": 414241,
+      "word": "BLACKPINK将于今年下半年正式回归",
+      "onboard_time": 1749434242,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 305659,
@@ -1321,6 +1353,14 @@
       "onboard_time": 1749317477,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257977,
+      "num": 166288,
+      "word": "终于知道东北为什么不宣传景区了",
+      "onboard_time": 1749436159,
+      "rank": 30,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 255774,
@@ -1619,6 +1659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206006,
+      "num": 165976,
+      "word": "原来正品质量这么差",
+      "onboard_time": 1749435921,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205992,
       "num": 434082,
       "word": "花5000多找收纳师效果一言难尽",
@@ -1644,7 +1692,7 @@
     },
     {
       "raw_hot": 205037,
-      "num": 239949,
+      "num": 349394,
       "word": "镖人",
       "onboard_time": 1749428842,
       "rank": 17,
@@ -1713,14 +1761,6 @@
       "onboard_time": 1749356121,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 199302,
-      "num": 237354,
-      "word": "BLACKPINK将于今年下半年正式回归",
-      "onboard_time": 1749434242,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 198830,
@@ -2291,6 +2331,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167310,
+      "num": 167310,
+      "word": "拉塞尔好帅",
+      "onboard_time": 1749432081,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165940,
+      "num": 588174,
+      "word": "以军称发现哈马斯领导人遗体",
+      "onboard_time": 1749433279,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165620,
       "num": 165620,
       "word": "宋妍霏赢了张小婉",
@@ -2531,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156612,
+      "num": 354340,
+      "word": "黄霄雲新歌文案",
+      "onboard_time": 1749432261,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 156490,
       "num": 156490,
       "word": "加州上千人围攻美国联邦大楼",
@@ -2593,6 +2657,14 @@
       "onboard_time": 1749343520,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151296,
+      "num": 151296,
+      "word": "多地发文鼓励2.5天休假",
+      "onboard_time": 1749435921,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151254,
@@ -2659,14 +2731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149285,
-      "num": 588174,
-      "word": "以军称发现哈马斯领导人遗体",
-      "onboard_time": 1749433279,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 148205,
       "num": 148205,
       "word": "原来这就是天然味精",
@@ -2689,6 +2753,14 @@
       "onboard_time": 1749381141,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147392,
+      "num": 147392,
+      "word": "黑鹰直升机突降洛杉矶卸下弹药",
+      "onboard_time": 1749435560,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147336,
@@ -2721,14 +2793,6 @@
       "onboard_time": 1749377961,
       "rank": 40,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 146562,
-      "num": 146562,
-      "word": "拉塞尔好帅",
-      "onboard_time": 1749432081,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 146523,
@@ -2785,14 +2849,6 @@
       "onboard_time": 1749381802,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145056,
-      "num": 163470,
-      "word": "藏海传逆跌",
-      "onboard_time": 1749434601,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 144816,
@@ -2988,11 +3044,19 @@
     },
     {
       "raw_hot": 137241,
-      "num": 163325,
+      "num": 166889,
       "word": "五哈",
       "onboard_time": 1749430762,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137176,
+      "num": 137176,
+      "word": "阿云嘎基督山伯爵妆造撕拉片",
+      "onboard_time": 1749436101,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136936,
@@ -3008,6 +3072,14 @@
       "word": "多名游客隔铁网薅老虎毛镇宅避邪",
       "onboard_time": 1749367280,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136255,
+      "num": 136255,
+      "word": "北京河北山东河南局地最高温超37",
+      "onboard_time": 1749434359,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3097,14 +3169,6 @@
       "onboard_time": 1749374841,
       "rank": 42,
       "category": "体育,教育"
-    },
-    {
-      "raw_hot": 131563,
-      "num": 131563,
-      "word": "北京河北山东河南局地最高温超37",
-      "onboard_time": 1749434359,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131237,
@@ -3235,11 +3299,27 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 125379,
+      "num": 125379,
+      "word": "5月份CPI同比下降0.1%",
+      "onboard_time": 1749435921,
+      "rank": 44,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 124566,
       "num": 124566,
       "word": "巴黎世家烤鸭包三里屯店一周卖十多只",
       "onboard_time": 1749309142,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124445,
+      "num": 124445,
+      "word": "推广2.5天休假模式还需劳动法律支持",
+      "onboard_time": 1749435560,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -3507,20 +3587,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 114037,
+      "num": 114037,
+      "word": "王自如谈在格力的年薪",
+      "onboard_time": 1749435860,
+      "rank": 49,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 113271,
       "num": 113271,
       "word": "德国0比2法国",
       "onboard_time": 1749397404,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113248,
-      "num": 162095,
-      "word": "黄霄雲新歌文案",
-      "onboard_time": 1749432261,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 112847,
@@ -3667,14 +3747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103697,
-      "num": 103697,
-      "word": "彭冠英开车送朱一龙回家",
-      "onboard_time": 1749434779,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102121,
       "num": 102121,
       "word": "李晟团说再一再二不能再六",
@@ -3737,6 +3809,14 @@
       "onboard_time": 1749362540,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96743,
+      "num": 136338,
+      "word": "2025乒超今日开战",
+      "onboard_time": 1749434719,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 96219,
@@ -3857,6 +3937,14 @@
       "onboard_time": 1749419714,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74903,
+      "num": 551531,
+      "word": "联邦政府和加州陷入骂战",
+      "onboard_time": 1749435801,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74578,
@@ -3995,20 +4083,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61653,
-      "num": 116930,
-      "word": "2025乒超今日开战",
-      "onboard_time": 1749434719,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 61531,
       "num": 61531,
       "word": "家长用9885元做985鲜花送孩子",
       "onboard_time": 1749339438,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61188,
+      "num": 136261,
+      "word": "洛杉矶冲突现场催泪弹橡皮子弹横飞",
+      "onboard_time": 1749436225,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59760,
@@ -4587,14 +4675,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 17830,
-      "num": 115871,
-      "word": "婚检查出艾滋医生未告知伴侣致感染",
-      "onboard_time": 1749434779,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17709,
       "num": 17709,
       "word": "奔跑吧",
@@ -4617,6 +4697,14 @@
       "onboard_time": 1749369081,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15325,
+      "num": 136516,
+      "word": "跨越时代的神奇工具",
+      "onboard_time": 1749435801,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15043,
