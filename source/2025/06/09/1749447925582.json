@@ -1,0 +1,410 @@
+{
+  "runTime": 1749447925582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1916030,
+        "num": 1916030,
+        "word": "刘品言宣布怀孕",
+        "onboard_time": 1749444863,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 922443,
+        "num": 922443,
+        "word": "北大回应韦东奕健康问题",
+        "onboard_time": 1749445822,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42982,
+        "num": 867078,
+        "word": "祝高考生的梦想破土生花",
+        "onboard_time": 1749442762,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 861327,
+        "num": 861327,
+        "word": "高考地理",
+        "onboard_time": 1749441681,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 654444,
+        "num": 654444,
+        "word": "洛杉矶乱成一锅粥",
+        "onboard_time": 1749442762,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 808266,
+        "num": 643019,
+        "word": "刘品言连晨翔结婚",
+        "onboard_time": 1749444924,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627177,
+        "num": 627177,
+        "word": "山东政治",
+        "onboard_time": 1749444564,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 585700,
+        "num": 585700,
+        "word": "樊振东vs徐瑛彬",
+        "onboard_time": 1749439942,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567672,
+        "num": 567672,
+        "word": "新中式还得是张柏芝",
+        "onboard_time": 1749442644,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192499,
+        "num": 552048,
+        "word": "已被浙大录取女孩考场外为同学加油",
+        "onboard_time": 1749445164,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738392,
+        "num": 550357,
+        "word": "高考地理 玄学",
+        "onboard_time": 1749444564,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 541428,
+        "num": 541428,
+        "word": "每天吃鸡蛋和从不吃鸡蛋的区别",
+        "onboard_time": 1749445164,
+        "rank": 11,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 422441,
+        "num": 422441,
+        "word": "日本火箭发射5秒后爆炸",
+        "onboard_time": 1749441742,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 422173,
+        "num": 422173,
+        "word": "樊振东3比2徐瑛彬",
+        "onboard_time": 1749445942,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420592,
+        "num": 420592,
+        "word": "特朗普下令解放洛杉矶",
+        "onboard_time": 1749427101,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 419260,
+        "num": 419260,
+        "word": "真情侣在综艺里吻上了",
+        "onboard_time": 1749426020,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416451,
+        "num": 416451,
+        "word": "男子住酒店打开柜子竟发现大蛇",
+        "onboard_time": 1749445763,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399371,
+        "num": 399371,
+        "word": "肖战说爸妈生的好",
+        "onboard_time": 1749443843,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376105,
+        "num": 376105,
+        "word": "TFBOYS为易烊千玺楔石打call",
+        "onboard_time": 1749444262,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168223,
+        "num": 331607,
+        "word": "京东拍卖的家具值北京一套房",
+        "onboard_time": 1749444202,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328546,
+        "num": 328546,
+        "word": "银临",
+        "onboard_time": 1749444984,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321818,
+        "num": 321818,
+        "word": "章子怡拒绝白凯南演纣王",
+        "onboard_time": 1749443303,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321596,
+        "num": 321596,
+        "word": "藏海传逆跌",
+        "onboard_time": 1749434601,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293284,
+        "num": 293284,
+        "word": "韦东奕每年参加北大组织体检",
+        "onboard_time": 1749446063,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152534,
+        "num": 291500,
+        "word": "余承东秀Pura80拍火视频",
+        "onboard_time": 1749447442,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289880,
+        "num": 289880,
+        "word": "特朗普称决不允许国家撕裂",
+        "onboard_time": 1749442402,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232623,
+        "num": 232623,
+        "word": "解说称樊振东的战场不应只在排名榜上",
+        "onboard_time": 1749446782,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228472,
+        "num": 228472,
+        "word": "孙颖莎好萌",
+        "onboard_time": 1749441141,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226602,
+        "num": 226602,
+        "word": "中餐厅9收官",
+        "onboard_time": 1749439401,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225281,
+        "num": 225281,
+        "word": "尹正说快四十了一事无成",
+        "onboard_time": 1749446902,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219509,
+        "num": 219509,
+        "word": "广东地理你还实验题上了",
+        "onboard_time": 1749446661,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 213752,
+        "num": 213752,
+        "word": "长沙一考生穿睡衣淡定进场考试",
+        "onboard_time": 1749447141,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205627,
+        "num": 205627,
+        "word": "央视曝光不防晒的防晒衣",
+        "onboard_time": 1749395063,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201971,
+        "num": 201971,
+        "word": "七根心简一条肉vs五条人",
+        "onboard_time": 1749447081,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198279,
+        "num": 198279,
+        "word": "被临江仙做局做怕了",
+        "onboard_time": 1749447202,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197488,
+        "num": 197488,
+        "word": "王楚钦腰腹力量太强了",
+        "onboard_time": 1749444924,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192813,
+        "num": 192813,
+        "word": "WayV二巡",
+        "onboard_time": 1749447023,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191988,
+        "num": 191988,
+        "word": "李艾主持的嘴问出好多瓜",
+        "onboard_time": 1749445942,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36450,
+        "num": 188996,
+        "word": "俄方让记者参观乌兵遗体冷藏车",
+        "onboard_time": 1749447680,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89469,
+        "num": 188263,
+        "word": "林高远陈垣宇vs黄镇廷陈俊菘",
+        "onboard_time": 1749447801,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188096,
+        "num": 188096,
+        "word": "建议工资每周发一次",
+        "onboard_time": 1749445642,
+        "rank": 40,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 185908,
+        "num": 186744,
+        "word": "蒯曼3比0何卓佳",
+        "onboard_time": 1749447622,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186438,
+        "num": 186438,
+        "word": "闫安袁励岑3比2许昕周恺",
+        "onboard_time": 1749444803,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186282,
+        "num": 186282,
+        "word": "有些Labubu一出生就在罗马",
+        "onboard_time": 1749443962,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 182190,
+        "num": 182190,
+        "word": "男子称恋爱3个月花10万后被抛弃",
+        "onboard_time": 1749445704,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178970,
+        "num": 178970,
+        "word": "江西卷是要选拔门捷列夫吗",
+        "onboard_time": 1749438982,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164051,
+        "num": 164051,
+        "word": "爸爸当家",
+        "onboard_time": 1749447860,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161692,
+        "num": 161692,
+        "word": "政治的花语是手慢无",
+        "onboard_time": 1749447141,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160707,
+        "num": 160707,
+        "word": "高考",
+        "onboard_time": 1749426201,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 160385,
+        "num": 160385,
+        "word": "蒯曼平野美宇3比1刘炜珊何卓佳",
+        "onboard_time": 1749444024,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记探寻中华文明#"
+    }
+  }
+}

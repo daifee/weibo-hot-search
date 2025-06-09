@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749446862613,
+  "endTime": 1749447925582,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -91,20 +91,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1916030,
+      "num": 1916030,
+      "word": "刘品言宣布怀孕",
+      "onboard_time": 1749444863,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1883304,
       "num": 1883304,
       "word": "浪姐成团夜",
       "onboard_time": 1749294802,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1868254,
-      "num": 1868254,
-      "word": "刘品言宣布怀孕",
-      "onboard_time": 1749444863,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1704507,
@@ -315,6 +315,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 922443,
+      "num": 922443,
+      "word": "北大回应韦东奕健康问题",
+      "onboard_time": 1749445822,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 919134,
       "num": 919134,
       "word": "高考历史文言文",
@@ -379,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 808266,
+      "num": 665869,
+      "word": "刘品言连晨翔结婚",
+      "onboard_time": 1749444924,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803272,
       "num": 803272,
       "word": "韦神的牙齿不是他一个人的事",
@@ -393,14 +409,6 @@
       "onboard_time": 1749353182,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 798135,
-      "num": 665869,
-      "word": "刘品言连晨翔结婚",
-      "onboard_time": 1749444924,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 782687,
@@ -433,6 +441,14 @@
       "onboard_time": 1749434779,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 738392,
+      "num": 550357,
+      "word": "高考地理 玄学",
+      "onboard_time": 1749444564,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 724901,
@@ -497,6 +513,14 @@
       "onboard_time": 1749430222,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 627177,
+      "num": 627177,
+      "word": "山东政治",
+      "onboard_time": 1749444564,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 622083,
@@ -579,20 +603,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 580527,
-      "num": 505230,
-      "word": "高考地理 玄学",
-      "onboard_time": 1749444564,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 573591,
       "num": 573591,
       "word": "李马克 北京卷",
       "onboard_time": 1749377422,
       "rank": 8,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 567672,
+      "num": 567672,
+      "word": "新中式还得是张柏芝",
+      "onboard_time": 1749442644,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 566569,
@@ -617,14 +641,6 @@
       "onboard_time": 1749311843,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 558927,
-      "num": 558927,
-      "word": "新中式还得是张柏芝",
-      "onboard_time": 1749442644,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 556779,
@@ -657,6 +673,14 @@
       "onboard_time": 1749429142,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 541428,
+      "num": 541428,
+      "word": "每天吃鸡蛋和从不吃鸡蛋的区别",
+      "onboard_time": 1749445164,
+      "rank": 21,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 531672,
@@ -704,14 +728,6 @@
       "word": "江西卷是要选拔门捷列夫吗",
       "onboard_time": 1749438982,
       "rank": 17,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 512065,
-      "num": 512065,
-      "word": "山东政治",
-      "onboard_time": 1749444564,
-      "rank": 25,
       "category": "教育"
     },
     {
@@ -883,12 +899,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422173,
+      "num": 422173,
+      "word": "樊振东3比2徐瑛彬",
+      "onboard_time": 1749445942,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417258,
       "num": 417258,
       "word": "特朗普称与马斯克关系已结束",
       "onboard_time": 1749345079,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 416451,
+      "num": 416451,
+      "word": "男子住酒店打开柜子竟发现大蛇",
+      "onboard_time": 1749445763,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 408718,
@@ -905,6 +937,14 @@
       "onboard_time": 1749342558,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399371,
+      "num": 492924,
+      "word": "肖战说爸妈生的好",
+      "onboard_time": 1749443843,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 398287,
@@ -995,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376105,
+      "num": 376105,
+      "word": "TFBOYS为易烊千玺楔石打call",
+      "onboard_time": 1749444262,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 367733,
       "num": 409597,
       "word": "花1.5万办年卡男子健身房狂盗60万财物",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1749351921,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 363633,
-      "num": 492924,
-      "word": "肖战说爸妈生的好",
-      "onboard_time": 1749443843,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 362531,
@@ -1073,14 +1113,6 @@
       "onboard_time": 1749392724,
       "rank": 21,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 359559,
-      "num": 359559,
-      "word": "每天吃鸡蛋和从不吃鸡蛋的区别",
-      "onboard_time": 1749445164,
-      "rank": 21,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 358711,
@@ -1169,14 +1201,6 @@
       "onboard_time": 1749346340,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 339869,
-      "num": 339869,
-      "word": "TFBOYS为易烊千玺楔石打call",
-      "onboard_time": 1749444262,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 339505,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1749359242,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293284,
+      "num": 293284,
+      "word": "韦东奕每年参加北大组织体检",
+      "onboard_time": 1749446063,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292155,
@@ -1707,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251410,
-      "num": 251410,
-      "word": "樊振东3比2徐瑛彬",
-      "onboard_time": 1749445942,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248929,
       "num": 423337,
       "word": "800元瘦身咖啡成本1元",
@@ -1764,7 +1788,7 @@
     },
     {
       "raw_hot": 241885,
-      "num": 241885,
+      "num": 552048,
       "word": "已被浙大录取女孩考场外为同学加油",
       "onboard_time": 1749445164,
       "rank": 33,
@@ -1801,6 +1825,14 @@
       "onboard_time": 1749355101,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 232623,
+      "num": 232623,
+      "word": "解说称樊振东的战场不应只在排名榜上",
+      "onboard_time": 1749446782,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 231234,
@@ -1859,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225281,
+      "num": 225281,
+      "word": "尹正说快四十了一事无成",
+      "onboard_time": 1749446902,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225196,
       "num": 225196,
       "word": "黄金",
@@ -1907,6 +1947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 219509,
+      "num": 219509,
+      "word": "广东地理你还实验题上了",
+      "onboard_time": 1749446661,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 218728,
       "num": 203023,
       "word": "蒙娜丽莎",
@@ -1931,20 +1979,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 215610,
-      "num": 506242,
-      "word": "北大回应韦东奕健康问题",
-      "onboard_time": 1749445822,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214066,
       "num": 364532,
       "word": "原来饶雪漫全网找的是柯淳搭档",
       "onboard_time": 1749374541,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213752,
+      "num": 213752,
+      "word": "长沙一考生穿睡衣淡定进场考试",
+      "onboard_time": 1749447141,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211148,
@@ -2099,6 +2147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201971,
+      "num": 201971,
+      "word": "七根心简一条肉vs五条人",
+      "onboard_time": 1749447081,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201705,
       "num": 258730,
       "word": "付辛博去看张新成音乐剧",
@@ -2145,6 +2201,14 @@
       "onboard_time": 1749395362,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198279,
+      "num": 198279,
+      "word": "被临江仙做局做怕了",
+      "onboard_time": 1749447202,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 197885,
@@ -2195,14 +2259,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194187,
-      "num": 194187,
-      "word": "广东地理你还实验题上了",
-      "onboard_time": 1749446661,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
       "raw_hot": 193980,
       "num": 231342,
       "word": "披荆斩棘",
@@ -2219,20 +2275,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193572,
-      "num": 193572,
-      "word": "韦东奕每年参加北大组织体检",
-      "onboard_time": 1749446063,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193000,
       "num": 193000,
       "word": "浪姐直播",
       "onboard_time": 1749294443,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192813,
+      "num": 192813,
+      "word": "WayV二巡",
+      "onboard_time": 1749447023,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 192571,
@@ -2379,6 +2435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 186438,
+      "num": 186438,
+      "word": "闫安袁励岑3比2许昕周恺",
+      "onboard_time": 1749444803,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186386,
       "num": 186386,
       "word": "代高政 我演不了渣男",
@@ -2409,6 +2473,14 @@
       "onboard_time": 1749359061,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 185908,
+      "num": 186744,
+      "word": "蒯曼3比0何卓佳",
+      "onboard_time": 1749447622,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 185719,
@@ -2465,6 +2537,14 @@
       "onboard_time": 1749444024,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182190,
+      "num": 395432,
+      "word": "男子称恋爱3个月花10万后被抛弃",
+      "onboard_time": 1749445704,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181470,
@@ -2715,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168223,
+      "num": 479525,
+      "word": "京东拍卖的家具值北京一套房",
+      "onboard_time": 1749444202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168051,
       "num": 168051,
       "word": "关晓彤李昀锐押韵式官宣",
@@ -2851,6 +2939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164051,
+      "num": 164051,
+      "word": "爸爸当家",
+      "onboard_time": 1749447860,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163807,
       "num": 163807,
       "word": "拒绝腿粗焦虑",
@@ -2905,6 +3001,14 @@
       "onboard_time": 1749429802,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161692,
+      "num": 161692,
+      "word": "政治的花语是手慢无",
+      "onboard_time": 1749447141,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 161648,
@@ -3105,6 +3209,14 @@
       "onboard_time": 1749438741,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 152534,
+      "num": 291500,
+      "word": "余承东秀Pura80拍火视频",
+      "onboard_time": 1749447442,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 152103,
@@ -3771,14 +3883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128225,
-      "num": 479525,
-      "word": "京东拍卖的家具值北京一套房",
-      "onboard_time": 1749444202,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128045,
       "num": 128045,
       "word": "王楚钦vs费浚航",
@@ -3817,14 +3921,6 @@
       "onboard_time": 1749305783,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 127176,
-      "num": 205892,
-      "word": "解说称樊振东的战场不应只在排名榜上",
-      "onboard_time": 1749446782,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 125808,
@@ -4251,14 +4347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105447,
-      "num": 361131,
-      "word": "男子住酒店打开柜子竟发现大蛇",
-      "onboard_time": 1749445763,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105022,
       "num": 105022,
       "word": "被王传君酱园弄这个危笑吓到",
@@ -4296,14 +4384,6 @@
       "word": "苏州打雷",
       "onboard_time": 1749349701,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102485,
-      "num": 395432,
-      "word": "男子称恋爱3个月花10万后被抛弃",
-      "onboard_time": 1749445704,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -4424,6 +4504,14 @@
       "word": "法网女单决赛",
       "onboard_time": 1749316519,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 89469,
+      "num": 188263,
+      "word": "林高远陈垣宇vs黄镇廷陈俊菘",
+      "onboard_time": 1749447801,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -5065,6 +5153,14 @@
       "onboard_time": 1749405737,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36450,
+      "num": 188996,
+      "word": "俄方让记者参观乌兵遗体冷藏车",
+      "onboard_time": 1749447680,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 35792,
