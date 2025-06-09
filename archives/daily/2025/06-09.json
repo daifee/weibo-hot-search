@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749464975886,
+  "endTime": 1749466021938,
   "band_list": [
     {
       "raw_hot": 2750380,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1812900,
+      "num": 1812900,
+      "word": "高考结束",
+      "onboard_time": 1749461781,
+      "rank": 26,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 1707096,
       "num": 1707096,
       "word": "央视删除那尔那茜高考祝福视频",
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1444041,
+      "num": 1444041,
+      "word": "高考生物",
+      "onboard_time": 1749462442,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1397153,
       "num": 1397153,
       "word": "樊振东vs徐瑛彬",
@@ -89,14 +105,6 @@
       "onboard_time": 1749424279,
       "rank": 20,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 1125258,
-      "num": 1180041,
-      "word": "高考结束",
-      "onboard_time": 1749461781,
-      "rank": 26,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 1112730,
@@ -129,14 +137,6 @@
       "onboard_time": 1749397222,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 993191,
-      "num": 993191,
-      "word": "高考生物",
-      "onboard_time": 1749462442,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 941796,
@@ -177,6 +177,14 @@
       "onboard_time": 1749442762,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 812564,
+      "num": 412515,
+      "word": "洛杉矶",
+      "onboard_time": 1749460280,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 808266,
@@ -299,14 +307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 632143,
-      "num": 388612,
-      "word": "洛杉矶",
-      "onboard_time": 1749460280,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 627177,
       "num": 627177,
       "word": "山东政治",
@@ -347,6 +347,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 577393,
+      "num": 577393,
+      "word": "山东考生说高考结束该让爹妈歇歇了",
+      "onboard_time": 1749459921,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 567672,
       "num": 567672,
       "word": "新中式还得是张柏芝",
@@ -361,6 +369,14 @@
       "onboard_time": 1749441141,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 546891,
+      "num": 390899,
+      "word": "路人抓拍Angelababy",
+      "onboard_time": 1749464000,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 543650,
@@ -401,14 +417,6 @@
       "onboard_time": 1749437361,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 508323,
-      "num": 508323,
-      "word": "山东考生说高考结束该让爹妈歇歇了",
-      "onboard_time": 1749459921,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 507578,
@@ -563,8 +571,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 384353,
-      "num": 384353,
+      "raw_hot": 389338,
+      "num": 389338,
       "word": "王楚钦樊振东上次交手还是在去年乒超",
       "onboard_time": 1749461361,
       "rank": 47,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360809,
+      "num": 460473,
+      "word": "张凌赫正式确诊为上头男",
+      "onboard_time": 1749462142,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 348870,
       "num": 348870,
       "word": "乒超",
@@ -619,20 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 343113,
-      "num": 460473,
-      "word": "张凌赫正式确诊为上头男",
-      "onboard_time": 1749462142,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 340553,
-      "num": 287473,
-      "word": "路人抓拍Angelababy",
+      "raw_hot": 344568,
+      "num": 409649,
+      "word": "北大工会称无给员工派生活助理先例",
       "onboard_time": 1749464000,
-      "rank": 25,
-      "category": "艺人"
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339505,
@@ -779,6 +787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 305533,
+      "num": 415791,
+      "word": "发工资不让干活是一种新型诈骗",
+      "onboard_time": 1749463460,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303365,
       "num": 454329,
       "word": "马斯克的星链卫星接连坠落",
@@ -889,6 +905,14 @@
       "onboard_time": 1749395182,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 280503,
+      "num": 398339,
+      "word": "煮粽子没开抽油烟机夫妻俩均中毒",
+      "onboard_time": 1749464722,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276193,
@@ -1011,6 +1035,22 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 247549,
+      "num": 434724,
+      "word": "让王安宇曾黎演母子的简直是天才",
+      "onboard_time": 1749462501,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 246278,
+      "num": 246278,
+      "word": "父亲举张凌赫立牌接高考女儿",
+      "onboard_time": 1749464480,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239183,
       "num": 239183,
       "word": "HYBE大楼迎接BTS回归",
@@ -1033,14 +1073,6 @@
       "onboard_time": 1749448762,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234739,
-      "num": 434724,
-      "word": "让王安宇曾黎演母子的简直是天才",
-      "onboard_time": 1749462501,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 233638,
@@ -1147,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215485,
+      "num": 402678,
+      "word": "临江仙",
+      "onboard_time": 1749379763,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214619,
       "num": 275290,
       "word": "潘虹打败单依纯赢在破碎感",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1749393983,
       "rank": 17,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 211485,
-      "num": 283467,
-      "word": "发工资不让干活是一种新型诈骗",
-      "onboard_time": 1749463460,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205332,
@@ -1347,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188765,
+      "num": 188765,
+      "word": "SMTR25墨西哥旅行照",
+      "onboard_time": 1749464902,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187492,
       "num": 383437,
       "word": "北大呼吁保护学者让其专心治学",
@@ -1395,12 +1435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183208,
-      "num": 183208,
-      "word": "煮粽子没开抽油烟机夫妻俩均中毒",
-      "onboard_time": 1749464722,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 183167,
+      "num": 281768,
+      "word": "祝绪丹回应成团",
+      "onboard_time": 1749463700,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 183162,
@@ -1427,14 +1467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 181121,
-      "num": 281768,
-      "word": "祝绪丹回应成团",
-      "onboard_time": 1749463700,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180987,
       "num": 180987,
       "word": "易烊千玺楔木上线",
@@ -1443,12 +1475,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179999,
-      "num": 179999,
-      "word": "父亲举张凌赫立牌接高考女儿",
-      "onboard_time": 1749464480,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 180578,
+      "num": 180578,
+      "word": "特朗普说要结束洛杉矶移民暴乱",
+      "onboard_time": 1749465201,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178745,
@@ -1675,6 +1707,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 160785,
+      "num": 160785,
+      "word": "BLG对战AL",
+      "onboard_time": 1749465500,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160178,
       "num": 160178,
       "word": "谁家男女主一个小萝卜一个小口袋",
@@ -1696,6 +1736,14 @@
       "word": "李晟浪姐意难平",
       "onboard_time": 1749464361,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158926,
+      "num": 158926,
+      "word": "我吃同事的瓜就范丞丞这样",
+      "onboard_time": 1749465741,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1771,14 +1819,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 148957,
-      "num": 148957,
-      "word": "临江仙",
-      "onboard_time": 1749379763,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148895,
       "num": 148895,
       "word": "偶遇郭碧婷张予曦刘忻夜爬长城",
@@ -1801,14 +1841,6 @@
       "onboard_time": 1749435560,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 147305,
-      "num": 147305,
-      "word": "SMTR25墨西哥旅行照",
-      "onboard_time": 1749464902,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 147038,
@@ -1889,6 +1921,22 @@
       "onboard_time": 1749463460,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140984,
+      "num": 140984,
+      "word": "灵笼2挤痘痘",
+      "onboard_time": 1749462921,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 140924,
+      "num": 140924,
+      "word": "文科生碎了",
+      "onboard_time": 1749465260,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 140313,
@@ -1985,6 +2033,14 @@
       "onboard_time": 1749434359,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136228,
+      "num": 136228,
+      "word": "小铜宝",
+      "onboard_time": 1749465621,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 135521,
@@ -2179,6 +2235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118150,
+      "num": 150978,
+      "word": "将农民工网约车司机纳入社保范围",
+      "onboard_time": 1749465920,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117391,
       "num": 136612,
       "word": "谁给陈昊宇王星越递本子就当为了我",
@@ -2364,7 +2428,7 @@
     },
     {
       "raw_hot": 86522,
-      "num": 397414,
+      "num": 410104,
       "word": "中国汽车文化走向全球",
       "onboard_time": 1749464660,
       "rank": 20,
@@ -2539,14 +2603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62170,
-      "num": 409649,
-      "word": "北大工会称无给员工派生活助理先例",
-      "onboard_time": 1749464000,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61683,
       "num": 159901,
       "word": "以军突袭格蕾塔所乘船只",
@@ -2691,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42488,
+      "num": 1039660,
+      "word": "大国工程交出亮眼成绩单",
+      "onboard_time": 1749462142,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40832,
       "num": 40832,
       "word": "未知的首尔",
@@ -2761,14 +2825,6 @@
       "onboard_time": 1749453982,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38209,
-      "num": 1025027,
-      "word": "大国工程交出亮眼成绩单",
-      "onboard_time": 1749462142,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37756,
@@ -2899,6 +2955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 28008,
+      "num": 411124,
+      "word": "筷子多久换一次",
+      "onboard_time": 1749463881,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 23485,
       "num": 69937,
       "word": "哥伦比亚6.6级地震",
@@ -2979,6 +3043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19486,
+      "num": 246367,
+      "word": "被57岁农机手的硬核浪漫暖化了",
+      "onboard_time": 1749465680,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19260,
       "num": 35347,
       "word": "江西回应投资3.5亿博物馆闲置两年",
@@ -3025,14 +3097,6 @@
       "onboard_time": 1749401897,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17513,
-      "num": 411124,
-      "word": "筷子多久换一次",
-      "onboard_time": 1749463881,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16203,

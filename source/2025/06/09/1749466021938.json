@@ -1,0 +1,410 @@
+{
+  "runTime": 1749466021938,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1812900,
+        "num": 1812900,
+        "word": "高考结束",
+        "onboard_time": 1749461781,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1444041,
+        "num": 1444041,
+        "word": "高考生物",
+        "onboard_time": 1749462442,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 42488,
+        "num": 1039660,
+        "word": "大国工程交出亮眼成绩单",
+        "onboard_time": 1749462142,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 936294,
+        "num": 936294,
+        "word": "尚公主 孟子义李昀锐",
+        "onboard_time": 1749461540,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 810784,
+        "num": 810784,
+        "word": "高考政治",
+        "onboard_time": 1749458182,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 739338,
+        "num": 739338,
+        "word": "星巴克降价",
+        "onboard_time": 1749458602,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 577393,
+        "num": 577393,
+        "word": "山东考生说高考结束该让爹妈歇歇了",
+        "onboard_time": 1749459921,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360809,
+        "num": 420278,
+        "word": "张凌赫正式确诊为上头男",
+        "onboard_time": 1749462142,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416183,
+        "num": 416183,
+        "word": "高考被AI发现作弊记0分系诈骗",
+        "onboard_time": 1749453741,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305533,
+        "num": 415791,
+        "word": "发工资不让干活是一种新型诈骗",
+        "onboard_time": 1749463460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 812564,
+        "num": 412515,
+        "word": "洛杉矶",
+        "onboard_time": 1749460280,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193890,
+        "num": 411718,
+        "word": "红的直接免单",
+        "onboard_time": 1749463581,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63116,
+        "num": 410104,
+        "word": "中国汽车文化走向全球",
+        "onboard_time": 1749464660,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 640742,
+        "num": 406784,
+        "word": "婚检",
+        "onboard_time": 1749457822,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272385,
+        "num": 405167,
+        "word": "肖战贴加官手抖了",
+        "onboard_time": 1749461182,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247549,
+        "num": 404174,
+        "word": "让王安宇曾黎演母子的简直是天才",
+        "onboard_time": 1749462501,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215485,
+        "num": 402678,
+        "word": "临江仙",
+        "onboard_time": 1749465260,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21334,
+        "num": 399386,
+        "word": "慕思金管家创除螨世界纪录",
+        "onboard_time": 1749464060,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280503,
+        "num": 398339,
+        "word": "煮粽子没开抽油烟机夫妻俩均中毒",
+        "onboard_time": 1749464722,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28008,
+        "num": 396965,
+        "word": "筷子多久换一次",
+        "onboard_time": 1749463881,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 852819,
+        "num": 394231,
+        "word": "尹正发长文道歉",
+        "onboard_time": 1749449662,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187917,
+        "num": 391542,
+        "word": "宋佳宁泽涛合照",
+        "onboard_time": 1749462682,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 546891,
+        "num": 390899,
+        "word": "路人抓拍Angelababy",
+        "onboard_time": 1749464000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389338,
+        "num": 389338,
+        "word": "王楚钦樊振东上次交手还是在去年乒超",
+        "onboard_time": 1749461361,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344568,
+        "num": 344568,
+        "word": "北大工会称无给员工派生活助理先例",
+        "onboard_time": 1749464000,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301251,
+        "num": 301251,
+        "word": "马斯克的星链卫星接连坠落",
+        "onboard_time": 1749460641,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 264594,
+        "num": 264594,
+        "word": "甲状腺好的3个常见表现",
+        "onboard_time": 1749461361,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247929,
+        "num": 247929,
+        "word": "刘品言宣布怀孕",
+        "onboard_time": 1749444863,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187126,
+        "num": 246521,
+        "word": "杨幂非遗封面",
+        "onboard_time": 1749458780,
+        "rank": 28,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 19486,
+        "num": 246367,
+        "word": "被57岁农机手的硬核浪漫暖化了",
+        "onboard_time": 1749465680,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246278,
+        "num": 246278,
+        "word": "父亲举张凌赫立牌接高考女儿",
+        "onboard_time": 1749464480,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239653,
+        "num": 239653,
+        "word": "洛杉矶乱成一锅粥",
+        "onboard_time": 1749442762,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188765,
+        "num": 188765,
+        "word": "SMTR25墨西哥旅行照",
+        "onboard_time": 1749464902,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183661,
+        "num": 183661,
+        "word": "肖战我都33了",
+        "onboard_time": 1749457461,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183167,
+        "num": 183167,
+        "word": "祝绪丹回应成团",
+        "onboard_time": 1749463700,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180578,
+        "num": 180578,
+        "word": "特朗普说要结束洛杉矶移民暴乱",
+        "onboard_time": 1749465201,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177628,
+        "num": 177628,
+        "word": "泡泡玛特股价2024年至今涨幅超11倍",
+        "onboard_time": 1749464060,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160785,
+        "num": 160785,
+        "word": "BLG对战AL",
+        "onboard_time": 1749465500,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158926,
+        "num": 158926,
+        "word": "我吃同事的瓜就范丞丞这样",
+        "onboard_time": 1749465741,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31756,
+        "num": 152386,
+        "word": "光遇",
+        "onboard_time": 1749464122,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118150,
+        "num": 150978,
+        "word": "将农民工网约车司机纳入社保范围",
+        "onboard_time": 1749465920,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150967,
+        "num": 150967,
+        "word": "严浩翔演唱会不提受伤的原因",
+        "onboard_time": 1749464601,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146583,
+        "num": 146583,
+        "word": "这居然是阮经天",
+        "onboard_time": 1749448402,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140984,
+        "num": 140984,
+        "word": "灵笼2挤痘痘",
+        "onboard_time": 1749462921,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 140924,
+        "num": 140924,
+        "word": "文科生碎了",
+        "onboard_time": 1749465260,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139538,
+        "num": 139538,
+        "word": "ITZY与JYP协商续约",
+        "onboard_time": 1749457581,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138587,
+        "num": 138587,
+        "word": "李晟浪姐意难平",
+        "onboard_time": 1749464361,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136228,
+        "num": 136228,
+        "word": "小铜宝",
+        "onboard_time": 1749465621,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135244,
+        "num": 135244,
+        "word": "爸爸举孙颖莎立牌鼓励女儿高考",
+        "onboard_time": 1749461182,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134241,
+        "num": 134241,
+        "word": "父亲无票闯景区接生病儿子遭阻拦",
+        "onboard_time": 1749455183,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设海洋强国总书记这样强调#"
+    }
+  }
+}
