@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749505237208,
+  "endTime": 1749507941682,
   "band_list": [
     {
       "raw_hot": 970316,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166968,
+      "num": 166968,
+      "word": "大爷5块钱买折叠沙发到手竟是支笔",
+      "onboard_time": 1749486140,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164847,
       "num": 164847,
       "word": "大学生网购10套古装表演后集体退货",
@@ -155,19 +163,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156657,
+      "num": 156657,
+      "word": "56岁男子停车失误致1死2伤",
+      "onboard_time": 1749503834,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 148240,
       "num": 148240,
       "word": "新房在小姑子名下准新娘直接退婚",
       "onboard_time": 1749469940,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128118,
-      "num": 128118,
-      "word": "大爷5块钱买折叠沙发到手竟是支笔",
-      "onboard_time": 1749486140,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -187,6 +195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 119386,
+      "num": 119386,
+      "word": "女子贷款4万花10万做医美崩溃",
+      "onboard_time": 1749487939,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118080,
       "num": 118080,
       "word": "樊振东小咚咚史诗级同框",
@@ -201,14 +217,6 @@
       "onboard_time": 1749478942,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112365,
-      "num": 112365,
-      "word": "女子贷款4万花10万做医美崩溃",
-      "onboard_time": 1749487939,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108150,
@@ -283,6 +291,22 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 92880,
+      "num": 92880,
+      "word": "乌无人机袭击俄军用机场和导弹工厂",
+      "onboard_time": 1749486379,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91886,
+      "num": 36508,
+      "word": "樊振东回应战胜林高远",
+      "onboard_time": 1749504914,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89903,
       "num": 89903,
       "word": "Shanks成角了",
@@ -307,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85723,
+      "num": 101238,
+      "word": "燃气公司招北大毕业生当抄表工",
+      "onboard_time": 1749489377,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84506,
       "num": 84506,
       "word": "197帅哥被浙大提前录取仍参加高考",
@@ -321,14 +353,6 @@
       "onboard_time": 1749490037,
       "rank": 21,
       "category": "数码"
-    },
-    {
-      "raw_hot": 82447,
-      "num": 82447,
-      "word": "乌无人机袭击俄军用机场和导弹工厂",
-      "onboard_time": 1749486379,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 81994,
@@ -419,6 +443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 68610,
+      "num": 68610,
+      "word": "肖战感谢大家陪藏海走过一程",
+      "onboard_time": 1749490936,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66122,
       "num": 66122,
       "word": "AL战胜BLG",
@@ -459,11 +491,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 49213,
-      "num": 101238,
-      "word": "燃气公司招北大毕业生当抄表工",
-      "onboard_time": 1749489377,
-      "rank": 20,
+      "raw_hot": 54065,
+      "num": 54065,
+      "word": "杀害情人丈夫的谢光明被执行死刑",
+      "onboard_time": 1749498314,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -483,22 +515,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 37920,
-      "num": 42185,
-      "word": "肖战感谢大家陪藏海走过一程",
-      "onboard_time": 1749490936,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 37380,
-      "num": 40524,
-      "word": "56岁男子停车失误致1死2伤",
-      "onboard_time": 1749503834,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 36683,
       "num": 36683,
       "word": "路人抓拍Angelababy",
@@ -507,12 +523,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35924,
+      "num": 35924,
+      "word": "多方回应制止男子拖拽女童大爷情况",
+      "onboard_time": 1749494715,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33285,
       "num": 33285,
       "word": "高考生喊话陈楚生演唱会唱将进酒",
       "onboard_time": 1749491656,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33221,
+      "num": 33221,
+      "word": "高考语文40分钟前被马蜂蛰了",
+      "onboard_time": 1749497534,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27364,
+      "num": 27364,
+      "word": "给母亲磕头后他又跳湖救出第5人",
+      "onboard_time": 1749503113,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 26363,
+      "num": 24926,
+      "word": "长安的荔枝这段高考生别看",
+      "onboard_time": 1749507374,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 25690,
@@ -539,20 +587,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 22865,
-      "num": 22865,
-      "word": "杀害情人丈夫的谢光明被执行死刑",
-      "onboard_time": 1749498314,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22707,
       "num": 89256,
       "word": "美抗议者遭警方马匹暴力踩踏",
       "onboard_time": 1749488657,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22268,
+      "num": 24922,
+      "word": "澳记者在洛杉矶遭橡皮子弹击中",
+      "onboard_time": 1749497893,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22211,
@@ -563,14 +611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22069,
-      "num": 24498,
-      "word": "多方回应制止男子拖拽女童大爷情况",
-      "onboard_time": 1749494715,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20555,
       "num": 587290,
       "word": "万千气象看安徽",
@@ -579,36 +619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18916,
-      "num": 18916,
-      "word": "高考语文40分钟前被马蜂蛰了",
-      "onboard_time": 1749497534,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18666,
-      "num": 18666,
-      "word": "樊振东回应战胜林高远",
-      "onboard_time": 1749504914,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 16802,
       "num": 165561,
       "word": "知名语音直播平台上市前被控涉赌",
       "onboard_time": 1749485542,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16686,
-      "num": 16686,
-      "word": "澳记者在洛杉矶遭橡皮子弹击中",
-      "onboard_time": 1749497893,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 16608,
@@ -641,14 +657,6 @@
       "onboard_time": 1749497594,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 14443,
-      "num": 18620,
-      "word": "给母亲磕头后他又跳湖救出第5人",
-      "onboard_time": 1749503113,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 13255,
@@ -697,6 +705,14 @@
       "onboard_time": 1749490575,
       "rank": 23,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 11027,
+      "num": 26710,
+      "word": "燃气公司回应招北大毕业生当抄表工",
+      "onboard_time": 1749507856,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10397,
