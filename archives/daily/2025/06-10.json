@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749500962589,
+  "endTime": 1749501755476,
   "band_list": [
     {
       "raw_hot": 970316,
@@ -571,8 +571,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17771,
-      "num": 17771,
+      "raw_hot": 18423,
+      "num": 18423,
       "word": "杀害情人丈夫的谢光明被执行死刑",
       "onboard_time": 1749498314,
       "rank": 38,
@@ -643,7 +643,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 11631,
+      "raw_hot": 12177,
       "num": 21560,
       "word": "不打扰是真正呵护",
       "onboard_time": 1749498974,
@@ -657,6 +657,14 @@
       "onboard_time": 1749490575,
       "rank": 23,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 10397,
+      "num": 30650,
+      "word": "两部门印发重磅民生文件",
+      "onboard_time": 1749501374,
+      "rank": 12,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
