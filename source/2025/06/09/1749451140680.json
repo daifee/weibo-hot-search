@@ -1,0 +1,410 @@
+{
+  "runTime": 1749451140680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2170449,
+        "num": 2170449,
+        "word": "尹正发长文道歉",
+        "onboard_time": 1749449662,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1507951,
+        "num": 1507951,
+        "word": "北大回应韦东奕健康问题",
+        "onboard_time": 1749445822,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37258,
+        "num": 1273022,
+        "word": "祝高考生的梦想破土生花",
+        "onboard_time": 1749442762,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1057204,
+        "num": 1057204,
+        "word": "刘品言宣布怀孕",
+        "onboard_time": 1749444863,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588094,
+        "num": 588094,
+        "word": "章莹颖遇害8年父母边治病边还债",
+        "onboard_time": 1749450080,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581040,
+        "num": 581040,
+        "word": "每天吃鸡蛋和从不吃鸡蛋的区别",
+        "onboard_time": 1749445164,
+        "rank": 5,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 537444,
+        "num": 537444,
+        "word": "已被浙大录取女孩考场外为同学加油",
+        "onboard_time": 1749445164,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484337,
+        "num": 484337,
+        "word": "男子住酒店打开柜子竟发现大蛇",
+        "onboard_time": 1749445763,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477601,
+        "num": 477601,
+        "word": "刘品言连晨翔结婚",
+        "onboard_time": 1749444924,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416692,
+        "num": 416692,
+        "word": "樊振东对阵闫安",
+        "onboard_time": 1749449960,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 675133,
+        "num": 414209,
+        "word": "高考地理 玄学",
+        "onboard_time": 1749444564,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 409462,
+        "num": 409462,
+        "word": "樊振东3比2徐瑛彬",
+        "onboard_time": 1749445942,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373532,
+        "num": 373532,
+        "word": "樊振东状态",
+        "onboard_time": 1749450442,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348506,
+        "num": 348506,
+        "word": "洛杉矶乱成一锅粥",
+        "onboard_time": 1749442762,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313652,
+        "num": 313652,
+        "word": "特朗普下令解放洛杉矶",
+        "onboard_time": 1749427101,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 293284,
+        "num": 293284,
+        "word": "赵雅芝 一辈子流量花",
+        "onboard_time": 1749449662,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283295,
+        "num": 283295,
+        "word": "鬼鬼和女儿泳装照",
+        "onboard_time": 1749450863,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41804,
+        "num": 282622,
+        "word": "微博电影之夜第五波阵容",
+        "onboard_time": 1749450743,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40645,
+        "num": 279200,
+        "word": "偶遇现实版九又四分之三站台",
+        "onboard_time": 1749448461,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46197,
+        "num": 277794,
+        "word": "牙齿矫正会导致牙龈萎缩吗",
+        "onboard_time": 1749449542,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 334322,
+        "num": 275570,
+        "word": "这居然是阮经天",
+        "onboard_time": 1749448402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324288,
+        "num": 273349,
+        "word": "余承东秀Pura80拍火视频",
+        "onboard_time": 1749447442,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 271309,
+        "num": 271309,
+        "word": "陈都灵 不让女孩子的手落空",
+        "onboard_time": 1749450201,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265083,
+        "num": 265083,
+        "word": "新中式还得是张柏芝",
+        "onboard_time": 1749442644,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253530,
+        "num": 253530,
+        "word": "许昕3比1徐瑛彬",
+        "onboard_time": 1749449781,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135861,
+        "num": 244509,
+        "word": "北大呼吁保护学者让其专心治学",
+        "onboard_time": 1749449361,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239183,
+        "num": 239183,
+        "word": "HYBE大楼迎接BTS回归",
+        "onboard_time": 1749450381,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235456,
+        "num": 235456,
+        "word": "刘美含演到章子怡心里去了",
+        "onboard_time": 1749448762,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229905,
+        "num": 229905,
+        "word": "TFBOYS为易烊千玺楔石打call",
+        "onboard_time": 1749444262,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222322,
+        "num": 222322,
+        "word": "肖战说爸妈生的好",
+        "onboard_time": 1749443843,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215288,
+        "num": 215288,
+        "word": "尹正说快四十了一事无成",
+        "onboard_time": 1749446902,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214273,
+        "num": 214273,
+        "word": "樊振东11比7闫安",
+        "onboard_time": 1749450802,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212832,
+        "num": 212832,
+        "word": "银临",
+        "onboard_time": 1749444984,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202450,
+        "num": 202450,
+        "word": "真情侣在综艺里吻上了",
+        "onboard_time": 1749426020,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197007,
+        "num": 197007,
+        "word": "韦东奕",
+        "onboard_time": 1749450021,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190637,
+        "num": 190637,
+        "word": "赵今麦张凌赫站姐有点东西",
+        "onboard_time": 1749450681,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188179,
+        "num": 188179,
+        "word": "斯尔教育通报刘阳事件仲裁结果",
+        "onboard_time": 1749450262,
+        "rank": 36,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 173879,
+        "num": 173879,
+        "word": "山东政治 写不完",
+        "onboard_time": 1749450502,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86298,
+        "num": 167864,
+        "word": "小车送去保养店家开上路撞报废",
+        "onboard_time": 1749449120,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62297,
+        "num": 167858,
+        "word": "公司高管规定上班照镜子罚款",
+        "onboard_time": 1749449063,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167852,
+        "num": 167852,
+        "word": "山东政治",
+        "onboard_time": 1749444564,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163559,
+        "num": 163559,
+        "word": "双胞胎姐妹互换身份被凶手误杀",
+        "onboard_time": 1749450982,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162171,
+        "num": 162171,
+        "word": "长沙一考生穿睡衣淡定进场考试",
+        "onboard_time": 1749447141,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157324,
+        "num": 157324,
+        "word": "高考",
+        "onboard_time": 1749426201,
+        "rank": 43,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 104545,
+        "num": 154984,
+        "word": "仙逆新插曲286秒全是飞刀",
+        "onboard_time": 1749451101,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154742,
+        "num": 154742,
+        "word": "藏海传逆跌",
+        "onboard_time": 1749434601,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143213,
+        "num": 151312,
+        "word": "女子说花2千相亲红娘没兑现承诺",
+        "onboard_time": 1749449002,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148646,
+        "num": 148646,
+        "word": "星巴克回应大降价",
+        "onboard_time": 1749448942,
+        "rank": 47,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 146539,
+        "num": 146539,
+        "word": "高考地理",
+        "onboard_time": 1749441681,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145211,
+        "num": 145211,
+        "word": "解说称樊振东的战场不应只在排名榜上",
+        "onboard_time": 1749446782,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记探寻中华文明#"
+    }
+  }
+}
