@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749477014177,
+  "endTime": 1749479237146,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -211,6 +211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1419731,
+      "num": 431326,
+      "word": "赵丽颖赵德胤疑似海外电影节约会",
+      "onboard_time": 1749475463,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1406200,
       "num": 1354633,
       "word": "金靖曝舒奕橙家庭地位",
@@ -241,6 +249,14 @@
       "onboard_time": 1749383901,
       "rank": 3,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1324107,
+      "num": 434076,
+      "word": "程潇前任",
+      "onboard_time": 1749476543,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1271990,
@@ -289,14 +305,6 @@
       "onboard_time": 1749424279,
       "rank": 20,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 1171019,
-      "num": 407744,
-      "word": "赵丽颖赵德胤疑似海外电影节约会",
-      "onboard_time": 1749475463,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1114074,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 806211,
-      "num": 416491,
+      "num": 427917,
       "word": "张若昀拍的唐艺昕与女儿",
       "onboard_time": 1749473001,
       "rank": 13,
@@ -699,6 +707,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 638394,
+      "num": 638394,
+      "word": "Bin 闹剧结束了",
+      "onboard_time": 1749476723,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 638258,
       "num": 638258,
       "word": "特朗普上飞机时差点跌倒",
@@ -795,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 585694,
+      "num": 585694,
+      "word": "樊振东3比1林高远",
+      "onboard_time": 1749475161,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 584465,
       "num": 584465,
       "word": "ally车银优合照",
@@ -859,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 563208,
+      "num": 563208,
+      "word": "考好了你养王源考不好老爸养你",
+      "onboard_time": 1749477203,
+      "rank": 6,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 561574,
       "num": 241416,
       "word": "王珞丹年度队长",
@@ -891,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 551054,
-      "num": 551054,
-      "word": "樊振东3比1林高远",
-      "onboard_time": 1749475161,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 550536,
       "num": 550536,
       "word": "孙颖莎好萌",
@@ -920,6 +944,14 @@
       "word": "李昀锐不躲孟子义",
       "onboard_time": 1749429142,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 542540,
+      "num": 423020,
+      "word": "宁艺卓撕拉片",
+      "onboard_time": 1749476364,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1163,6 +1195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 436418,
+      "num": 436418,
+      "word": "众星鼓励尹正",
+      "onboard_time": 1749474860,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434441,
       "num": 392197,
       "word": "樊振东马龙孙颖莎原声祝福",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1749449960,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 412563,
+      "num": 412563,
+      "word": "Shanks成角了",
+      "onboard_time": 1749478463,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 412187,
@@ -1411,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378147,
+      "num": 414949,
+      "word": "弟弟陪姐姐提新车上高速被姐姐追尾",
+      "onboard_time": 1749477083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376416,
       "num": 376416,
       "word": "BLG对战AL",
@@ -1571,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351334,
+      "num": 425480,
+      "word": "高额彩礼成为影响结婚率重要因素之一",
+      "onboard_time": 1749477623,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348870,
       "num": 348870,
       "word": "乒超",
@@ -1691,14 +1755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333903,
-      "num": 282541,
-      "word": "程潇前任",
-      "onboard_time": 1749476543,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 332782,
       "num": 428594,
       "word": "美国正向台湾运送新一批M1A2坦克",
@@ -1769,14 +1825,6 @@
       "onboard_time": 1749437302,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 321204,
-      "num": 321204,
-      "word": "众星鼓励尹正",
-      "onboard_time": 1749474860,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 321053,
@@ -1868,7 +1916,7 @@
     },
     {
       "raw_hot": 305014,
-      "num": 305014,
+      "num": 421954,
       "word": "迪丽热巴满眼都是对身高的渴望",
       "onboard_time": 1749475402,
       "rank": 16,
@@ -2251,6 +2299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 260334,
+      "num": 260334,
+      "word": "BLG",
+      "onboard_time": 1749478103,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 260129,
       "num": 303311,
       "word": "邓超用英文表白孙俪",
@@ -2539,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229681,
+      "num": 229681,
+      "word": "小米汽车公布YU7设计手稿",
+      "onboard_time": 1749478522,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 229075,
       "num": 361842,
       "word": "许佳琪是章子怡的心选妲己",
@@ -2603,14 +2667,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 224217,
-      "num": 224217,
-      "word": "宁艺卓撕拉片",
-      "onboard_time": 1749476364,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223625,
       "num": 282869,
       "word": "李晟给姐姐们的情书",
@@ -2633,6 +2689,14 @@
       "onboard_time": 1749369861,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 222298,
+      "num": 222298,
+      "word": "南通队队长父亲卖上海4套房搞青训",
+      "onboard_time": 1749476245,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 222199,
@@ -2875,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203653,
+      "num": 203653,
+      "word": "双胞胎姐妹拿错准考证",
+      "onboard_time": 1749476903,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203140,
       "num": 284702,
       "word": "权志龙唱月亮代表我的心",
@@ -2905,6 +2977,14 @@
       "onboard_time": 1749441501,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202445,
+      "num": 227108,
+      "word": "歌手",
+      "onboard_time": 1749478042,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 202226,
@@ -2961,14 +3041,6 @@
       "onboard_time": 1749463581,
       "rank": 10,
       "category": "数码"
-    },
-    {
-      "raw_hot": 199112,
-      "num": 199112,
-      "word": "Bin 闹剧结束了",
-      "onboard_time": 1749476723,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 199036,
@@ -3403,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183909,
+      "num": 434648,
+      "word": "人民日报评韦东奕开通账号引热议",
+      "onboard_time": 1749475822,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183840,
       "num": 222403,
       "word": "王楚钦希望把大家团结在一起",
@@ -3489,6 +3569,14 @@
       "onboard_time": 1749425719,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 181095,
+      "num": 181095,
+      "word": "樊振东说关键球上可能运气好点",
+      "onboard_time": 1749478161,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 180987,
@@ -3633,6 +3721,14 @@
       "onboard_time": 1749450502,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 173130,
+      "num": 173130,
+      "word": "何猷亨前女友陈可欣再婚",
+      "onboard_time": 1749476964,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 172790,
@@ -4115,6 +4211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161413,
+      "num": 161413,
+      "word": "AL晋级MSI",
+      "onboard_time": 1749477443,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160972,
       "num": 160972,
       "word": "文科生登顶 祯是构了",
@@ -4139,6 +4243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160483,
+      "num": 160483,
+      "word": "韦东奕身体状况",
+      "onboard_time": 1749478762,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160358,
       "num": 165374,
       "word": "谁说内娱没有好的一镜到底",
@@ -4153,14 +4265,6 @@
       "onboard_time": 1749306083,
       "rank": 41,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 160205,
-      "num": 160205,
-      "word": "南通队队长父亲卖上海4套房搞青训",
-      "onboard_time": 1749476245,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 160178,
@@ -4299,14 +4403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156668,
-      "num": 156668,
-      "word": "双胞胎姐妹拿错准考证",
-      "onboard_time": 1749476903,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156612,
       "num": 354340,
       "word": "黄霄雲新歌文案",
@@ -4321,6 +4417,14 @@
       "onboard_time": 1749365840,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156390,
+      "num": 156390,
+      "word": "白鹿何瑞贤一不小心成了大势",
+      "onboard_time": 1749478161,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 155031,
@@ -4385,14 +4489,6 @@
       "onboard_time": 1749457461,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 152768,
-      "num": 152768,
-      "word": "何猷亨前女友陈可欣再婚",
-      "onboard_time": 1749476964,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 152180,
@@ -5088,6 +5184,14 @@
       "word": "汪峰带两个孩子逛街",
       "onboard_time": 1749366739,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134609,
+      "num": 241804,
+      "word": "刘宇回家乡唱出徽风皖韵",
+      "onboard_time": 1749478103,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -6148,7 +6252,7 @@
     },
     {
       "raw_hot": 75064,
-      "num": 278479,
+      "num": 428940,
       "word": "六尺巷张英十二世孙讲述百年传承",
       "onboard_time": 1749476663,
       "rank": 24,
@@ -6185,6 +6289,14 @@
       "onboard_time": 1749398604,
       "rank": 44,
       "category": "正能量,教育"
+    },
+    {
+      "raw_hot": 72119,
+      "num": 225783,
+      "word": "男子车里开空调睡觉中毒",
+      "onboard_time": 1749479123,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70485,
@@ -6531,6 +6643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51988,
+      "num": 164016,
+      "word": "伴侣患艾滋病医生未告知非医生责任",
+      "onboard_time": 1749479182,
+      "rank": 44,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 51880,
       "num": 505248,
       "word": "火车经山西一隧道乘客被煤灰吹黑",
@@ -6772,7 +6892,7 @@
     },
     {
       "raw_hot": 39682,
-      "num": 581814,
+      "num": 651241,
       "word": "这份文明上网攻略请收好",
       "onboard_time": 1749460581,
       "rank": 2,
@@ -6889,6 +7009,14 @@
       "onboard_time": 1749405737,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36550,
+      "num": 232992,
+      "word": "洛杉矶示威者用U型锁砸车",
+      "onboard_time": 1749478103,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36450,
@@ -7065,6 +7193,14 @@
       "onboard_time": 1749405017,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29389,
+      "num": 413066,
+      "word": "3分钟看懂民生建设重点任务",
+      "onboard_time": 1749477143,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29327,
@@ -7609,6 +7745,14 @@
       "onboard_time": 1749454762,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5140,
+      "num": 418373,
+      "word": "雷霆能否在步行者主场再胜一场",
+      "onboard_time": 1749478285,
+      "rank": 18,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
