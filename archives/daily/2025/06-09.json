@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749480359175,
+  "endTime": 1749482950154,
   "band_list": [
     {
       "raw_hot": 2750380,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2393829,
-      "num": 663695,
+      "num": 741638,
       "word": "程潇给前任发信息被秒回",
       "onboard_time": 1749472281,
       "rank": 3,
@@ -57,6 +57,14 @@
       "onboard_time": 1749461781,
       "rank": 26,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1751869,
+      "num": 1751869,
+      "word": "美国发现13具尸体疑连环杀手作案",
+      "onboard_time": 1749480802,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1707096,
@@ -403,6 +411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 622619,
+      "num": 622619,
+      "word": "小孩被天降乌龟砸死饲主判赔128万",
+      "onboard_time": 1749480082,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 622083,
       "num": 622083,
       "word": "留几手发长文谈韦东奕",
@@ -417,6 +433,14 @@
       "onboard_time": 1749397222,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 602080,
+      "num": 359847,
+      "word": "高考忘缴费了",
+      "onboard_time": 1749480982,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 601137,
@@ -667,12 +691,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422507,
+      "num": 422507,
+      "word": "李梦回应与刘亦菲李沁合照",
+      "onboard_time": 1749479482,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422173,
       "num": 422173,
       "word": "樊振东3比2徐瑛彬",
       "onboard_time": 1749445942,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 421422,
+      "num": 425480,
+      "word": "高额彩礼成为影响结婚率重要因素之一",
+      "onboard_time": 1749477623,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421263,
@@ -763,14 +803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 398055,
-      "num": 425480,
-      "word": "高额彩礼成为影响结婚率重要因素之一",
-      "onboard_time": 1749477623,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 394598,
       "num": 394598,
       "word": "政治的花语是手慢无",
@@ -825,6 +857,14 @@
       "onboard_time": 1749462142,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380196,
+      "num": 392231,
+      "word": "伴侣患艾滋病医生未告知非医生责任",
+      "onboard_time": 1749479182,
+      "rank": 44,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 378147,
@@ -1235,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271908,
+      "num": 315814,
+      "word": "者来女 歌手揭榜",
+      "onboard_time": 1749480143,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270928,
       "num": 270928,
       "word": "李昀锐孟子义再去演一遍微微一笑很倾城",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1749448762,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234490,
-      "num": 387205,
-      "word": "李梦回应与刘亦菲李沁合照",
-      "onboard_time": 1749479482,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 233638,
@@ -1683,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200098,
+      "num": 200098,
+      "word": "贺峻霖的人形立牌让女儿满眼放光",
+      "onboard_time": 1749482123,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200076,
       "num": 200076,
       "word": "特朗普说要结束洛杉矶移民暴乱",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1749424641,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193219,
+      "num": 292709,
+      "word": "李嘉鑫说肖战在片场很搞笑",
+      "onboard_time": 1749481943,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 192813,
@@ -2203,14 +2259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165473,
-      "num": 165473,
-      "word": "者来女 歌手揭榜",
-      "onboard_time": 1749480143,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165358,
       "num": 165358,
       "word": "秦始皇遣使昆仑山采仙药石锤证据来了",
@@ -2291,6 +2339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161649,
+      "num": 161649,
+      "word": "AG赵腾辟谣",
+      "onboard_time": 1749481943,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161413,
       "num": 161413,
       "word": "AL晋级MSI",
@@ -2313,6 +2369,14 @@
       "onboard_time": 1749453982,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159985,
+      "num": 159985,
+      "word": "nana民宿",
+      "onboard_time": 1749482422,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 159602,
@@ -2345,6 +2409,14 @@
       "onboard_time": 1749454701,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 158228,
+      "num": 158228,
+      "word": "故宫1200栋古建筑上没有1根草",
+      "onboard_time": 1749481161,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157853,
@@ -2409,6 +2481,14 @@
       "onboard_time": 1749435921,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151135,
+      "num": 151135,
+      "word": "马嘉祺重启星期五2",
+      "onboard_time": 1749482722,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 150734,
@@ -2715,6 +2795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135090,
+      "num": 308075,
+      "word": "洛杉矶发生骚乱当地华人发声",
+      "onboard_time": 1749481823,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 134911,
       "num": 162709,
       "word": "谁的青春不想有一个肖奈啊",
@@ -2857,14 +2945,6 @@
       "onboard_time": 1749435560,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124044,
-      "num": 392231,
-      "word": "伴侣患艾滋病医生未告知非医生责任",
-      "onboard_time": 1749479182,
-      "rank": 44,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 123853,
@@ -3147,6 +3227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 86327,
+      "num": 291758,
+      "word": "见证高考这场青春逐梦盛大收官",
+      "onboard_time": 1749482661,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86298,
       "num": 167864,
       "word": "小车送去保养店家开上路撞报废",
@@ -3171,12 +3259,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84311,
-      "num": 375474,
-      "word": "小孩被天降乌龟砸死饲主判赔128万",
-      "onboard_time": 1749480082,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 84940,
+      "num": 161670,
+      "word": "樊振东超绝反应球",
+      "onboard_time": 1749481044,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84940,
+      "num": 161657,
+      "word": "樊振东球迷高考后唱海阔天空",
+      "onboard_time": 1749481704,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 83986,
@@ -3347,6 +3443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 64661,
+      "num": 279347,
+      "word": "意大利人凌晨3点排队买LABUBU",
+      "onboard_time": 1749481403,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 62507,
       "num": 62212,
       "word": "张家界一溶洞垃圾基本清理完毕",
@@ -3387,6 +3491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58197,
+      "num": 293574,
+      "word": "泡泡玛特涨超3%",
+      "onboard_time": 1749482123,
+      "rank": 24,
+      "category": "财经,动漫"
+    },
+    {
       "raw_hot": 58023,
       "num": 181002,
       "word": "胡润与王宁交换绝版labubu",
@@ -3401,6 +3513,14 @@
       "onboard_time": 1749442762,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57215,
+      "num": 160139,
+      "word": "大学生网购10套古装表演后集体退货",
+      "onboard_time": 1749482902,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56997,
@@ -3425,6 +3545,14 @@
       "onboard_time": 1749458961,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53199,
+      "num": 161164,
+      "word": "美警方在旧金山抗议活动中逮捕约60人",
+      "onboard_time": 1749480863,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53027,
@@ -3563,6 +3691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40711,
+      "num": 310054,
+      "word": "张家界景区多名游客被猴子抓伤",
+      "onboard_time": 1749481523,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40645,
       "num": 286504,
       "word": "偶遇现实版九又四分之三站台",
@@ -3596,7 +3732,7 @@
     },
     {
       "raw_hot": 39682,
-      "num": 651241,
+      "num": 758394,
       "word": "这份文明上网攻略请收好",
       "onboard_time": 1749460581,
       "rank": 2,
@@ -3617,6 +3753,22 @@
       "onboard_time": 1749456682,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 38980,
+      "num": 280463,
+      "word": "这届20后国乐血脉觉醒了",
+      "onboard_time": 1749481643,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 38536,
+      "num": 161698,
+      "word": "日本米价为何连涨15个月",
+      "onboard_time": 1749480923,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 38396,
@@ -3915,6 +4067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21626,
+      "num": 295577,
+      "word": "北约拟将防空导弹能力提升400%",
+      "onboard_time": 1749482603,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21526,
       "num": 92858,
       "word": "狼队小胖控龙高手",
@@ -4137,6 +4297,14 @@
       "onboard_time": 1749479243,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 8482,
+      "num": 306558,
+      "word": "常看绿色能预防近视吗",
+      "onboard_time": 1749482482,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 8180,

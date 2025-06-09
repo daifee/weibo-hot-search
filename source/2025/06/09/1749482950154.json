@@ -1,0 +1,410 @@
+{
+  "runTime": 1749482950154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1751869,
+        "num": 1751869,
+        "word": "美国发现13具尸体疑连环杀手作案",
+        "onboard_time": 1749480802,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 931899,
+        "num": 931899,
+        "word": "文科生碎了",
+        "onboard_time": 1749465260,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30632,
+        "num": 758394,
+        "word": "这份文明上网攻略请收好",
+        "onboard_time": 1749460581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1493683,
+        "num": 741638,
+        "word": "程潇给前任发信息被秒回",
+        "onboard_time": 1749472281,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622619,
+        "num": 622619,
+        "word": "小孩被天降乌龟砸死饲主判赔128万",
+        "onboard_time": 1749480082,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439489,
+        "num": 439489,
+        "word": "考好了你养王源考不好老爸养你",
+        "onboard_time": 1749477203,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 422507,
+        "num": 422507,
+        "word": "李梦回应与刘亦菲李沁合照",
+        "onboard_time": 1749479482,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421422,
+        "num": 421422,
+        "word": "高额彩礼成为影响结婚率重要因素之一",
+        "onboard_time": 1749477623,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389120,
+        "num": 389120,
+        "word": "黄觉转发",
+        "onboard_time": 1749478942,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380196,
+        "num": 380196,
+        "word": "伴侣患艾滋病医生未告知非医生责任",
+        "onboard_time": 1749479182,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 872682,
+        "num": 378882,
+        "word": "程潇前任",
+        "onboard_time": 1749476543,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646747,
+        "num": 366823,
+        "word": "张若昀拍的唐艺昕与女儿",
+        "onboard_time": 1749473001,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602080,
+        "num": 359847,
+        "word": "高考忘缴费了",
+        "onboard_time": 1749480982,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 316503,
+        "num": 316503,
+        "word": "宁艺卓撕拉片",
+        "onboard_time": 1749476364,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271908,
+        "num": 315814,
+        "word": "者来女 歌手揭榜",
+        "onboard_time": 1749480143,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271110,
+        "num": 314446,
+        "word": "刘亦菲李沁中间这位女士",
+        "onboard_time": 1749473361,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264188,
+        "num": 311868,
+        "word": "众星鼓励尹正",
+        "onboard_time": 1749474860,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40711,
+        "num": 310054,
+        "word": "张家界景区多名游客被猴子抓伤",
+        "onboard_time": 1749481523,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135090,
+        "num": 308075,
+        "word": "洛杉矶发生骚乱当地华人发声",
+        "onboard_time": 1749481823,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 8482,
+        "num": 306558,
+        "word": "常看绿色能预防近视吗",
+        "onboard_time": 1749482482,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 306343,
+        "num": 306343,
+        "word": "樊振东3比1林高远",
+        "onboard_time": 1749475161,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21626,
+        "num": 295577,
+        "word": "北约拟将防空导弹能力提升400%",
+        "onboard_time": 1749482603,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295015,
+        "num": 295015,
+        "word": "新房在小姑子名下准新娘直接退婚",
+        "onboard_time": 1749469940,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212749,
+        "num": 294446,
+        "word": "迪丽热巴满眼都是对身高的渴望",
+        "onboard_time": 1749475402,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58197,
+        "num": 293574,
+        "word": "泡泡玛特涨超3%",
+        "onboard_time": 1749482123,
+        "rank": 24,
+        "category": "财经,动漫"
+      },
+      {
+        "raw_hot": 193219,
+        "num": 292709,
+        "word": "李嘉鑫说肖战在片场很搞笑",
+        "onboard_time": 1749481943,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86327,
+        "num": 291758,
+        "word": "见证高考这场青春逐梦盛大收官",
+        "onboard_time": 1749482661,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290908,
+        "num": 290908,
+        "word": "197帅哥被浙大提前录取仍参加高考",
+        "onboard_time": 1749472281,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 38980,
+        "num": 280463,
+        "word": "这届20后国乐血脉觉醒了",
+        "onboard_time": 1749481643,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64661,
+        "num": 279347,
+        "word": "意大利人凌晨3点排队买LABUBU",
+        "onboard_time": 1749481403,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 278396,
+        "num": 278396,
+        "word": "人民日报评韦东奕开通账号引热议",
+        "onboard_time": 1749475822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250228,
+        "num": 250228,
+        "word": "Bin 闹剧结束了",
+        "onboard_time": 1749476723,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200098,
+        "num": 200098,
+        "word": "贺峻霖的人形立牌让女儿满眼放光",
+        "onboard_time": 1749482123,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193227,
+        "num": 193227,
+        "word": "弟弟陪姐姐提新车上高速被姐姐追尾",
+        "onboard_time": 1749477083,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186145,
+        "num": 186145,
+        "word": "山东考生说高考结束该让爹妈歇歇了",
+        "onboard_time": 1749459921,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179181,
+        "num": 179181,
+        "word": "Shanks成角了",
+        "onboard_time": 1749478463,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162767,
+        "num": 162767,
+        "word": "宋亚轩 LV",
+        "onboard_time": 1749469401,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 38536,
+        "num": 161698,
+        "word": "日本米价为何连涨15个月",
+        "onboard_time": 1749480923,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84940,
+        "num": 161670,
+        "word": "樊振东超绝反应球",
+        "onboard_time": 1749481044,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84940,
+        "num": 161657,
+        "word": "樊振东球迷高考后唱海阔天空",
+        "onboard_time": 1749481704,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161649,
+        "num": 161649,
+        "word": "AG赵腾辟谣",
+        "onboard_time": 1749481943,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53199,
+        "num": 161164,
+        "word": "美警方在旧金山抗议活动中逮捕约60人",
+        "onboard_time": 1749480863,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160780,
+        "num": 160780,
+        "word": "小米汽车公布YU7设计手稿",
+        "onboard_time": 1749478522,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160728,
+        "num": 160728,
+        "word": "AL战胜BLG",
+        "onboard_time": 1749476423,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57215,
+        "num": 160139,
+        "word": "大学生网购10套古装表演后集体退货",
+        "onboard_time": 1749482902,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159985,
+        "num": 159985,
+        "word": "nana民宿",
+        "onboard_time": 1749482422,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158228,
+        "num": 158228,
+        "word": "故宫1200栋古建筑上没有1根草",
+        "onboard_time": 1749481161,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151135,
+        "num": 151135,
+        "word": "马嘉祺重启星期五2",
+        "onboard_time": 1749482722,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154673,
+        "num": 148989,
+        "word": "尹正发长文道歉",
+        "onboard_time": 1749449662,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146554,
+        "num": 146554,
+        "word": "临江仙",
+        "onboard_time": 1749465260,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步关心海洋认识海洋经略海洋#"
+    }
+  }
+}
