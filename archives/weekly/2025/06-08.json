@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749494123478,
+  "endTime": 1749494956952,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -6795,6 +6795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 64463,
+      "num": 64463,
+      "word": "张极披荆斩棘",
+      "onboard_time": 1749493455,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64067,
       "num": 312409,
       "word": "河南一爸爸身穿旗袍为儿子霸气应援",
@@ -6841,14 +6849,6 @@
       "onboard_time": 1749455423,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 61560,
-      "num": 61560,
-      "word": "张极披荆斩棘",
-      "onboard_time": 1749493455,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 61531,
@@ -7811,6 +7811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24125,
+      "num": 24520,
+      "word": "男宝星球",
+      "onboard_time": 1749494175,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24044,
       "num": 24044,
       "word": "高考采访",
@@ -7945,6 +7953,14 @@
       "onboard_time": 1749395543,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 20249,
+      "num": 24498,
+      "word": "多方回应制止男子拖拽女童大爷情况",
+      "onboard_time": 1749494715,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19961,

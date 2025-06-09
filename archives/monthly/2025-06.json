@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749494123478,
+  "endTime": 1749494956952,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -27571,6 +27571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64463,
+      "num": 64463,
+      "word": "张极披荆斩棘",
+      "onboard_time": 1749493455,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64383,
       "num": 210754,
       "word": "小伙漂流7小时想着钱没花完好可惜",
@@ -27801,14 +27809,6 @@
       "onboard_time": 1748691441,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61560,
-      "num": 61560,
-      "word": "张极披荆斩棘",
-      "onboard_time": 1749493455,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 61531,
@@ -32027,6 +32027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24125,
+      "num": 24520,
+      "word": "男宝星球",
+      "onboard_time": 1749494175,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24053,
       "num": 27042,
       "word": "北京奇遇海音乐节",
@@ -32601,6 +32609,14 @@
       "onboard_time": 1749283642,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20249,
+      "num": 24498,
+      "word": "多方回应制止男子拖拽女童大爷情况",
+      "onboard_time": 1749494715,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20188,
