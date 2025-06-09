@@ -1,0 +1,410 @@
+{
+  "runTime": 1749461372501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2750380,
+        "num": 2750380,
+        "word": "高考政治",
+        "onboard_time": 1749458182,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 738531,
+        "num": 738531,
+        "word": "高考被AI发现作弊记0分系诈骗",
+        "onboard_time": 1749453741,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26821,
+        "num": 581814,
+        "word": "这份文明上网攻略请收好",
+        "onboard_time": 1749460581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552927,
+        "num": 552927,
+        "word": "星巴克降价",
+        "onboard_time": 1749458602,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 394692,
+        "num": 394692,
+        "word": "父亲无票闯景区接生病儿子遭阻拦",
+        "onboard_time": 1749455183,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642479,
+        "num": 379151,
+        "word": "北大称已多次派人陪同韦东奕就诊",
+        "onboard_time": 1749453982,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337587,
+        "num": 337587,
+        "word": "杨幂非遗封面",
+        "onboard_time": 1749458780,
+        "rank": 6,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 256300,
+        "num": 328762,
+        "word": "ITZY与JYP协商续约",
+        "onboard_time": 1749457581,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205398,
+        "num": 313558,
+        "word": "马斯克的星链卫星接连坠落",
+        "onboard_time": 1749460641,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28390,
+        "num": 300499,
+        "word": "我国货物贸易跑出加速度",
+        "onboard_time": 1749460341,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 556557,
+        "num": 294658,
+        "word": "婚检",
+        "onboard_time": 1749457822,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287662,
+        "num": 287662,
+        "word": "台风",
+        "onboard_time": 1749459262,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221652,
+        "num": 286280,
+        "word": "这居然是阮经天",
+        "onboard_time": 1749448402,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45435,
+        "num": 285472,
+        "word": "FBI称已在洛杉矶纽约实施多起逮捕",
+        "onboard_time": 1749459860,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49895,
+        "num": 285056,
+        "word": "被控杀妻灭子男子律师回应争议",
+        "onboard_time": 1749459801,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284975,
+        "num": 284975,
+        "word": "山东考生说高考结束该让爹妈歇歇了",
+        "onboard_time": 1749459921,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138485,
+        "num": 284823,
+        "word": "王一博航海系穿搭",
+        "onboard_time": 1749457402,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34937,
+        "num": 284491,
+        "word": "郭晶晶说跳水给予了我成就了我",
+        "onboard_time": 1749457402,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53868,
+        "num": 283918,
+        "word": "10万阿福头召唤传奇本尊",
+        "onboard_time": 1749458961,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21430,
+        "num": 283796,
+        "word": "上班族如何选择优质减脂餐",
+        "onboard_time": 1749459081,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304526,
+        "num": 283473,
+        "word": "章莹颖遇害8年父母边治病边还债",
+        "onboard_time": 1749450080,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191234,
+        "num": 282869,
+        "word": "李晟给姐姐们的情书",
+        "onboard_time": 1749458423,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 930869,
+        "num": 282692,
+        "word": "尹正发长文道歉",
+        "onboard_time": 1749449662,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435506,
+        "num": 282402,
+        "word": "刘品言宣布怀孕",
+        "onboard_time": 1749444863,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198145,
+        "num": 282073,
+        "word": "肖战贴加官手抖了",
+        "onboard_time": 1749461182,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286337,
+        "num": 281694,
+        "word": "洛杉矶",
+        "onboard_time": 1749460280,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281428,
+        "num": 281428,
+        "word": "高考地理 玄学",
+        "onboard_time": 1749444564,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 259848,
+        "num": 259848,
+        "word": "汪海林说的是谁",
+        "onboard_time": 1749454581,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328289,
+        "num": 258286,
+        "word": "肖战我都33了",
+        "onboard_time": 1749457461,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21771,
+        "num": 256972,
+        "word": "日本小学生午饭",
+        "onboard_time": 1749460820,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 256442,
+        "num": 256442,
+        "word": "洛杉矶乱成一锅粥",
+        "onboard_time": 1749442762,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232127,
+        "num": 232127,
+        "word": "27岁女生失业躺出租屋一天的花销",
+        "onboard_time": 1749452062,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226944,
+        "num": 226944,
+        "word": "陈都灵 不让女孩子的手落空",
+        "onboard_time": 1749450201,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211085,
+        "num": 211085,
+        "word": "王楚钦说拿了2块金牌依旧被诟病",
+        "onboard_time": 1749455723,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209991,
+        "num": 209991,
+        "word": "北大回应韦东奕健康问题",
+        "onboard_time": 1749445822,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196218,
+        "num": 196218,
+        "word": "高以忱被查",
+        "onboard_time": 1749457941,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186710,
+        "num": 186710,
+        "word": "樊振东状态",
+        "onboard_time": 1749450442,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183113,
+        "num": 183113,
+        "word": "李雪琴免费听了半年陈昊宇演唱会",
+        "onboard_time": 1749456921,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172790,
+        "num": 172790,
+        "word": "易烊千玺快时代下的慢创作",
+        "onboard_time": 1749460820,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44945,
+        "num": 170418,
+        "word": "樊振东许昕王楚钦亮相乒超",
+        "onboard_time": 1749459981,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169529,
+        "num": 169529,
+        "word": "星巴克回应大降价",
+        "onboard_time": 1749448942,
+        "rank": 40,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 168092,
+        "num": 168092,
+        "word": "苏醒安慰尹正",
+        "onboard_time": 1749460102,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162939,
+        "num": 162939,
+        "word": "高考",
+        "onboard_time": 1749426201,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 146982,
+        "num": 146982,
+        "word": "年轻人社交运动三件套又出新版本了",
+        "onboard_time": 1749458541,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141774,
+        "num": 141774,
+        "word": "aespa与Apple合作",
+        "onboard_time": 1749453443,
+        "rank": 44,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 138425,
+        "num": 138425,
+        "word": "文科生登顶 祯是构了",
+        "onboard_time": 1749460581,
+        "rank": 45,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 130493,
+        "num": 130493,
+        "word": "爸爸举孙颖莎立牌鼓励女儿高考",
+        "onboard_time": 1749461182,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117376,
+        "num": 117376,
+        "word": "王楚钦樊振东上次交手还是在去年乒超",
+        "onboard_time": 1749461361,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117070,
+        "num": 117070,
+        "word": "偶遇郭碧婷张予曦刘忻夜爬长城",
+        "onboard_time": 1749456621,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116667,
+        "num": 116667,
+        "word": "甲状腺好的3个常见表现",
+        "onboard_time": 1749461361,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设海洋强国总书记这样强调#"
+    }
+  }
+}

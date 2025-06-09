@@ -1,7 +1,15 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749459013914,
+  "endTime": 1749461372501,
   "band_list": [
+    {
+      "raw_hot": 2750380,
+      "num": 2750380,
+      "word": "高考政治",
+      "onboard_time": 1749458182,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 2737887,
       "num": 2737887,
@@ -25,14 +33,6 @@
       "onboard_time": 1749449662,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2138820,
-      "num": 2138820,
-      "word": "高考政治",
-      "onboard_time": 1749458182,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1916030,
@@ -307,6 +307,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556557,
+      "num": 294658,
+      "word": "婚检",
+      "onboard_time": 1749457822,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 552927,
+      "num": 552927,
+      "word": "星巴克降价",
+      "onboard_time": 1749458602,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 550536,
       "num": 550536,
       "word": "孙颖莎好萌",
@@ -555,6 +571,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 337587,
+      "num": 337587,
+      "word": "杨幂非遗封面",
+      "onboard_time": 1749458780,
+      "rank": 35,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 337319,
       "num": 406695,
       "word": "特朗普称决不允许国家撕裂",
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 334322,
-      "num": 284786,
+      "num": 286280,
       "word": "这居然是阮经天",
       "onboard_time": 1749448402,
       "rank": 20,
@@ -601,6 +625,14 @@
       "onboard_time": 1749428063,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328289,
+      "num": 284438,
+      "word": "肖战我都33了",
+      "onboard_time": 1749457461,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 324288,
@@ -641,14 +673,6 @@
       "onboard_time": 1749437061,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 311687,
-      "num": 284438,
-      "word": "肖战我都33了",
-      "onboard_time": 1749457461,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 311291,
@@ -723,6 +747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 287662,
+      "num": 287662,
+      "word": "台风",
+      "onboard_time": 1749459262,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286941,
       "num": 286941,
       "word": "美海军陆战队待命或被派往洛杉矶",
@@ -731,12 +763,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286337,
+      "num": 281694,
+      "word": "洛杉矶",
+      "onboard_time": 1749460280,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 285579,
       "num": 285579,
       "word": "C罗哭了",
       "onboard_time": 1749425298,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284975,
+      "num": 284975,
+      "word": "山东考生说高考结束该让爹妈歇歇了",
+      "onboard_time": 1749459921,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284425,
@@ -811,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266766,
-      "num": 241490,
-      "word": "婚检",
-      "onboard_time": 1749457822,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 259124,
       "num": 284572,
       "word": "李雪琴免费听了半年陈昊宇演唱会",
@@ -841,6 +881,14 @@
       "onboard_time": 1749443303,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 256300,
+      "num": 328762,
+      "word": "ITZY与JYP协商续约",
+      "onboard_time": 1749457581,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 254910,
@@ -972,19 +1020,11 @@
     },
     {
       "raw_hot": 223625,
-      "num": 259069,
+      "num": 282869,
       "word": "李晟给姐姐们的情书",
       "onboard_time": 1749458423,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223157,
-      "num": 301754,
-      "word": "ITZY与JYP协商续约",
-      "onboard_time": 1749457581,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 222172,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1749393983,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 205398,
+      "num": 313558,
+      "word": "马斯克的星链卫星接连坠落",
+      "onboard_time": 1749460641,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 205332,
@@ -1099,12 +1147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198145,
+      "num": 282073,
+      "word": "肖战贴加官手抖了",
+      "onboard_time": 1749461182,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197007,
       "num": 197007,
       "word": "韦东奕",
       "onboard_time": 1749450021,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196218,
+      "num": 221694,
+      "word": "高以忱被查",
+      "onboard_time": 1749457941,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194182,
@@ -1137,14 +1201,6 @@
       "onboard_time": 1749424641,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192851,
-      "num": 192850,
-      "word": "星巴克降价",
-      "onboard_time": 1749458602,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 192813,
@@ -1299,12 +1355,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 171668,
-      "num": 193934,
-      "word": "杨幂非遗封面",
-      "onboard_time": 1749458780,
-      "rank": 35,
-      "category": "作品衍生,艺人"
+      "raw_hot": 172790,
+      "num": 172790,
+      "word": "易烊千玺快时代下的慢创作",
+      "onboard_time": 1749460820,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 170223,
@@ -1329,6 +1385,14 @@
       "onboard_time": 1749444202,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168092,
+      "num": 168092,
+      "word": "苏醒安慰尹正",
+      "onboard_time": 1749460102,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 167344,
@@ -1457,14 +1521,6 @@
       "onboard_time": 1749458423,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158799,
-      "num": 221694,
-      "word": "高以忱被查",
-      "onboard_time": 1749457941,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 158387,
@@ -1659,6 +1715,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138485,
+      "num": 292655,
+      "word": "王一博航海系穿搭",
+      "onboard_time": 1749457402,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138425,
+      "num": 138425,
+      "word": "文科生登顶 祯是构了",
+      "onboard_time": 1749460581,
+      "rank": 45,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 138421,
       "num": 138421,
       "word": "洛杉矶大骚乱背后的4个问题",
@@ -1811,6 +1883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130493,
+      "num": 130493,
+      "word": "爸爸举孙颖莎立牌鼓励女儿高考",
+      "onboard_time": 1749461182,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128784,
       "num": 204304,
       "word": "俄首次攻入第聂伯罗彼得罗夫斯克",
@@ -1899,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117376,
+      "num": 117376,
+      "word": "王楚钦樊振东上次交手还是在去年乒超",
+      "onboard_time": 1749461361,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116979,
       "num": 116979,
       "word": "高考时间",
@@ -1921,6 +2009,14 @@
       "onboard_time": 1749423858,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116667,
+      "num": 116667,
+      "word": "甲状腺好的3个常见表现",
+      "onboard_time": 1749461361,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116088,
@@ -2275,19 +2371,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56795,
-      "num": 292655,
-      "word": "王一博航海系穿搭",
-      "onboard_time": 1749457402,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 55710,
       "num": 55710,
       "word": "辛纳vs阿尔卡拉斯",
       "onboard_time": 1749389002,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53868,
+      "num": 283918,
+      "word": "10万阿福头召唤传奇本尊",
+      "onboard_time": 1749458961,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -2315,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49895,
+      "num": 285056,
+      "word": "被控杀妻灭子男子律师回应争议",
+      "onboard_time": 1749459801,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47219,
       "num": 1003339,
       "word": "我国海洋经济登上新台阶",
@@ -2331,12 +2435,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 46103,
-      "num": 193575,
-      "word": "10万阿福头召唤传奇本尊",
-      "onboard_time": 1749458961,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 45435,
+      "num": 285472,
+      "word": "FBI称已在洛杉矶纽约实施多起逮捕",
+      "onboard_time": 1749459860,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45207,
@@ -2345,6 +2449,14 @@
       "onboard_time": 1749439101,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44945,
+      "num": 170418,
+      "word": "樊振东许昕王楚钦亮相乒超",
+      "onboard_time": 1749459981,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 43324,
@@ -2523,6 +2635,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 28390,
+      "num": 300499,
+      "word": "我国货物贸易跑出加速度",
+      "onboard_time": 1749460341,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 26821,
+      "num": 581814,
+      "word": "这份文明上网攻略请收好",
+      "onboard_time": 1749460581,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23485,
       "num": 69937,
       "word": "哥伦比亚6.6级地震",
@@ -2547,12 +2675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21771,
+      "num": 256972,
+      "word": "日本小学生午饭",
+      "onboard_time": 1749460820,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21526,
       "num": 92858,
       "word": "狼队小胖控龙高手",
       "onboard_time": 1749399500,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 21430,
+      "num": 283796,
+      "word": "上班族如何选择优质减脂餐",
+      "onboard_time": 1749459081,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 21423,
@@ -2689,6 +2833,9 @@
     },
     {
       "word": "#跟随总书记探寻中华文明#"
+    },
+    {
+      "word": "#建设海洋强国总书记这样强调#"
     }
   ]
 }
