@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749469158479,
+  "endTime": 1749473588142,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -603,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1659274,
+      "num": 397469,
+      "word": "程潇给前任发信息被秒回",
+      "onboard_time": 1749472281,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1635358,
       "num": 618935,
       "word": "曝井柏然刘雯领证",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1749166159,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1259716,
+      "num": 330063,
+      "word": "新房在小姑子名下准新娘直接退婚",
+      "onboard_time": 1749469940,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1259489,
@@ -1776,6 +1792,14 @@
       "word": "那尔那茜",
       "onboard_time": 1749387561,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 915832,
+      "num": 344505,
+      "word": "那尔那茜是否违规建议彻查",
+      "onboard_time": 1749469102,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -3649,6 +3673,14 @@
       "onboard_time": 1748837299,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557846,
+      "num": 557846,
+      "word": "李晟回应拒演短剧还珠",
+      "onboard_time": 1749471021,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 556779,
@@ -5859,6 +5891,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 373678,
+      "num": 370048,
+      "word": "长安的荔枝",
+      "onboard_time": 1749048383,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373477,
       "num": 373477,
       "word": "多路直击2025高考现场",
@@ -5905,14 +5945,6 @@
       "onboard_time": 1749040700,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 370048,
-      "num": 370048,
-      "word": "长安的荔枝",
-      "onboard_time": 1749048383,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 368294,
@@ -6113,6 +6145,14 @@
       "onboard_time": 1749218367,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 359540,
+      "num": 323877,
+      "word": "张若昀拍的唐艺昕与女儿",
+      "onboard_time": 1749473001,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 359521,
@@ -6347,6 +6387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349755,
+      "num": 349755,
+      "word": "樊振东vs林高远",
+      "onboard_time": 1749472460,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349337,
       "num": 452744,
       "word": "严浩翔回应自己是daddy级别",
@@ -6377,6 +6425,14 @@
       "onboard_time": 1749434359,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 348688,
+      "num": 348688,
+      "word": "女骗子半年嫁5人骗彩礼190万",
+      "onboard_time": 1749469761,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 348269,
@@ -6521,6 +6577,14 @@
       "onboard_time": 1748759720,
       "rank": 18,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 341720,
+      "num": 324635,
+      "word": "197帅哥被浙大提前录取仍参加高考",
+      "onboard_time": 1749472281,
+      "rank": 12,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 340904,
@@ -6713,6 +6777,14 @@
       "onboard_time": 1748754381,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332782,
+      "num": 391850,
+      "word": "美国正向台湾运送新一批M1A2坦克",
+      "onboard_time": 1749466641,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 332320,
@@ -6977,6 +7049,14 @@
       "onboard_time": 1748771000,
       "rank": 15,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 319694,
+      "num": 319694,
+      "word": "金泰亨状态",
+      "onboard_time": 1749469162,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 319414,
@@ -7456,6 +7536,14 @@
       "word": "樊振东说期待新挑战新环境新胜利",
       "onboard_time": 1748743460,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 297765,
+      "num": 297765,
+      "word": "王楚钦看鹰眼挑战看乐了",
+      "onboard_time": 1749470961,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -8411,12 +8499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266019,
-      "num": 391850,
-      "word": "美国正向台湾运送新一批M1A2坦克",
-      "onboard_time": 1749466641,
-      "rank": 37,
-      "category": "军事"
+      "raw_hot": 266587,
+      "num": 266587,
+      "word": "美臀羊",
+      "onboard_time": 1749469102,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 264902,
@@ -8457,6 +8545,14 @@
       "onboard_time": 1749095961,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263829,
+      "num": 263829,
+      "word": "宋亚轩 LV",
+      "onboard_time": 1749469401,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 263745,
@@ -8561,6 +8657,14 @@
       "onboard_time": 1749317477,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260048,
+      "num": 311041,
+      "word": "12800买时团内场票帮女儿圆梦被骗",
+      "onboard_time": 1749471442,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259958,
@@ -9243,6 +9347,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 241793,
+      "num": 241793,
+      "word": "拉布布带飞泡泡玛特创始人",
+      "onboard_time": 1749469880,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 241763,
       "num": 241763,
       "word": "女子被咬身亡3个问题待解",
@@ -9881,6 +9993,14 @@
       "onboard_time": 1749277042,
       "rank": 27,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 226200,
+      "num": 226200,
+      "word": "初次性生活前要检测HIV",
+      "onboard_time": 1749470722,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226022,
@@ -11579,6 +11699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202226,
+      "num": 227639,
+      "word": "肖战热度指数99.45",
+      "onboard_time": 1749472460,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202162,
       "num": 202162,
       "word": "刘宇宁单人撕拉片",
@@ -11657,6 +11785,14 @@
       "onboard_time": 1749211161,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201499,
+      "num": 182308,
+      "word": "刘亦菲李沁中间这位女士",
+      "onboard_time": 1749473361,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 201371,
@@ -13435,6 +13571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184382,
+      "num": 184382,
+      "word": "金泰亨宋江拍了人生四格",
+      "onboard_time": 1749473121,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184352,
       "num": 184352,
       "word": "BLG距离MSI只差一步",
@@ -14041,6 +14185,14 @@
       "onboard_time": 1749189861,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177985,
+      "num": 177985,
+      "word": "长安的荔枝收视登顶",
+      "onboard_time": 1749472881,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 177977,
@@ -14763,6 +14915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169433,
+      "num": 169433,
+      "word": "国足世界排名历史首次被泰国超越",
+      "onboard_time": 1749471501,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169429,
       "num": 293434,
       "word": "特朗普说现在不太想和马斯克说话",
@@ -15097,6 +15257,14 @@
       "onboard_time": 1749021080,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167058,
+      "num": 167058,
+      "word": "蔡依林发了直播答应的暴食自拍",
+      "onboard_time": 1749473183,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 166967,
@@ -15809,6 +15977,14 @@
       "onboard_time": 1749366921,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160807,
+      "num": 331466,
+      "word": "中美经贸磋商机制首次会议举行",
+      "onboard_time": 1749473001,
+      "rank": 9,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 160787,
@@ -16625,14 +16801,6 @@
       "onboard_time": 1748762120,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153858,
-      "num": 153858,
-      "word": "那尔那茜是否违规建议彻查",
-      "onboard_time": 1749469102,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 153813,
@@ -18785,14 +18953,6 @@
       "onboard_time": 1748852239,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138473,
-      "num": 138473,
-      "word": "美臀羊",
-      "onboard_time": 1749469102,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 138427,
@@ -23451,6 +23611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101994,
+      "num": 312025,
+      "word": "地铁上劝阻他人饮食被索赔3万",
+      "onboard_time": 1749473001,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101953,
       "num": 101953,
       "word": "年轻人开始买儿童用品富养自己了",
@@ -24305,6 +24473,14 @@
       "onboard_time": 1748851222,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94195,
+      "num": 260392,
+      "word": "天猫618补贴高考生4000元",
+      "onboard_time": 1749470661,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 94156,
@@ -26195,6 +26371,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 70429,
+      "num": 312717,
+      "word": "考后接种HPV疫苗是预防也是保护",
+      "onboard_time": 1749470661,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 70402,
       "num": 83415,
       "word": "藏海flag开虐预警",
@@ -26483,6 +26667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67298,
+      "num": 182802,
+      "word": "杨鸣晒合影没忘把韩德君P上",
+      "onboard_time": 1749472943,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67280,
       "num": 471205,
       "word": "香酥鸭售价25元鸭坯成本不足10元",
@@ -26529,6 +26721,14 @@
       "onboard_time": 1749009202,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 66943,
+      "num": 214038,
+      "word": "江苏十三太保开启斗歌模式",
+      "onboard_time": 1749473482,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 66656,
@@ -29387,6 +29587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36668,
+      "num": 320884,
+      "word": "加州州长硬刚白宫称将起诉特朗普",
+      "onboard_time": 1749472341,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36649,
       "num": 36649,
       "word": "官方通报村支书威胁拍天坑垃圾要打",
@@ -30187,6 +30395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 29687,
+      "num": 196057,
+      "word": "高考结束后人生是这样的",
+      "onboard_time": 1749472701,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 29569,
       "num": 29569,
       "word": "无限超越班",
@@ -30835,6 +31051,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 24965,
+      "num": 243609,
+      "word": "久坐也会引起妇科炎症吗",
+      "onboard_time": 1749471081,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 24661,
       "num": 146436,
       "word": "歌迷找3人同时抢演唱会票才成功",
@@ -31033,6 +31257,14 @@
       "onboard_time": 1749011483,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22976,
+      "num": 226355,
+      "word": "冷酸灵牙膏即速60s是注册商标",
+      "onboard_time": 1749473422,
+      "rank": 34,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 22969,
@@ -31249,6 +31481,14 @@
       "onboard_time": 1749460820,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 21719,
+      "num": 247434,
+      "word": "洛杉矶示威者抢劫焚烧加油站",
+      "onboard_time": 1749472581,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21593,
@@ -32625,6 +32865,14 @@
       "onboard_time": 1749468681,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 7368,
+      "num": 226624,
+      "word": "汉堡作为减脂餐真的科学吗",
+      "onboard_time": 1749473542,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 7312,

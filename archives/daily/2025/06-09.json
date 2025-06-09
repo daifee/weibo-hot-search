@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749469158479,
+  "endTime": 1749473588142,
   "band_list": [
     {
       "raw_hot": 2750380,
@@ -67,6 +67,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1659274,
+      "num": 397469,
+      "word": "程潇给前任发信息被秒回",
+      "onboard_time": 1749472281,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1507951,
       "num": 1507951,
       "word": "北大回应韦东奕健康问题",
@@ -105,6 +113,14 @@
       "onboard_time": 1749439942,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1259716,
+      "num": 330063,
+      "word": "新房在小姑子名下准新娘直接退婚",
+      "onboard_time": 1749469940,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1177210,
@@ -161,6 +177,14 @@
       "onboard_time": 1749428541,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 915832,
+      "num": 344505,
+      "word": "那尔那茜是否违规建议彻查",
+      "onboard_time": 1749469102,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 890368,
@@ -385,6 +409,14 @@
       "onboard_time": 1749442644,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557846,
+      "num": 557846,
+      "word": "李晟回应拒演短剧还珠",
+      "onboard_time": 1749471021,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 550536,
@@ -659,6 +691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 373678,
+      "num": 339347,
+      "word": "长安的荔枝",
+      "onboard_time": 1749469701,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368294,
       "num": 368294,
       "word": "赵雅芝 一辈子流量花",
@@ -667,12 +707,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359540,
+      "num": 323877,
+      "word": "张若昀拍的唐艺昕与女儿",
+      "onboard_time": 1749473001,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 349755,
+      "num": 349755,
+      "word": "樊振东vs林高远",
+      "onboard_time": 1749472460,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348870,
       "num": 348870,
       "word": "乒超",
       "onboard_time": 1749434359,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 348688,
+      "num": 348688,
+      "word": "女骗子半年嫁5人骗彩礼190万",
+      "onboard_time": 1749469761,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 344839,
@@ -689,6 +753,14 @@
       "onboard_time": 1749464000,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341720,
+      "num": 324635,
+      "word": "197帅哥被浙大提前录取仍参加高考",
+      "onboard_time": 1749472281,
+      "rank": 12,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 339505,
@@ -747,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332782,
+      "num": 391850,
+      "word": "美国正向台湾运送新一批M1A2坦克",
+      "onboard_time": 1749466641,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 330940,
       "num": 593365,
       "word": "迪丽热巴高雯差点被换掉",
@@ -803,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 319694,
+      "num": 319694,
+      "word": "金泰亨状态",
+      "onboard_time": 1749469162,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311291,
       "num": 459887,
       "word": "多地国补暂停或因618活动本身存在折扣",
@@ -841,6 +929,14 @@
       "onboard_time": 1749460641,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 297765,
+      "num": 297765,
+      "word": "王楚钦看鹰眼挑战看乐了",
+      "onboard_time": 1749470961,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 295484,
@@ -1003,12 +1099,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266019,
-      "num": 391850,
-      "word": "美国正向台湾运送新一批M1A2坦克",
-      "onboard_time": 1749466641,
-      "rank": 37,
-      "category": "军事"
+      "raw_hot": 266587,
+      "num": 266587,
+      "word": "美臀羊",
+      "onboard_time": 1749469102,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 263829,
+      "num": 263829,
+      "word": "宋亚轩 LV",
+      "onboard_time": 1749469401,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 263220,
@@ -1017,6 +1121,14 @@
       "onboard_time": 1749468201,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 260048,
+      "num": 311041,
+      "word": "12800买时团内场票帮女儿圆梦被骗",
+      "onboard_time": 1749471442,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259124,
@@ -1097,6 +1209,14 @@
       "onboard_time": 1749450262,
       "rank": 36,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 241793,
+      "num": 241793,
+      "word": "拉布布带飞泡泡玛特创始人",
+      "onboard_time": 1749469880,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 239928,
@@ -1193,6 +1313,14 @@
       "onboard_time": 1749468620,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226200,
+      "num": 226200,
+      "word": "初次性生活前要检测HIV",
+      "onboard_time": 1749470722,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 225281,
@@ -1307,12 +1435,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202226,
+      "num": 227639,
+      "word": "肖战热度指数99.45",
+      "onboard_time": 1749472460,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201971,
       "num": 201971,
       "word": "七根心简一条肉vs五条人",
       "onboard_time": 1749447081,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201499,
+      "num": 182308,
+      "word": "刘亦菲李沁中间这位女士",
+      "onboard_time": 1749473361,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 201316,
@@ -1507,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184382,
+      "num": 184382,
+      "word": "金泰亨宋江拍了人生四格",
+      "onboard_time": 1749473121,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183167,
       "num": 281768,
       "word": "祝绪丹回应成团",
@@ -1587,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177985,
+      "num": 177985,
+      "word": "长安的荔枝收视登顶",
+      "onboard_time": 1749472881,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177942,
       "num": 177942,
       "word": "白鹿观众缘",
@@ -1616,6 +1776,14 @@
       "word": "乒超直播",
       "onboard_time": 1749440063,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169433,
+      "num": 169433,
+      "word": "国足世界排名历史首次被泰国超越",
+      "onboard_time": 1749471501,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1673,6 +1841,14 @@
       "onboard_time": 1749432081,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167058,
+      "num": 167058,
+      "word": "蔡依林发了直播答应的暴食自拍",
+      "onboard_time": 1749473183,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 166829,
@@ -1787,6 +1963,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 160807,
+      "num": 331466,
+      "word": "中美经贸磋商机制首次会议举行",
+      "onboard_time": 1749473001,
+      "rank": 9,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 160785,
       "num": 160785,
       "word": "BLG对战AL",
@@ -1857,14 +2041,6 @@
       "onboard_time": 1749432261,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153858,
-      "num": 153858,
-      "word": "那尔那茜是否违规建议彻查",
-      "onboard_time": 1749469102,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 153234,
@@ -2057,14 +2233,6 @@
       "onboard_time": 1749457402,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138473,
-      "num": 138473,
-      "word": "美臀羊",
-      "onboard_time": 1749469102,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 138421,
@@ -2443,6 +2611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101994,
+      "num": 312025,
+      "word": "地铁上劝阻他人饮食被索赔3万",
+      "onboard_time": 1749473001,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100143,
       "num": 100143,
       "word": "王安宇的眼睛",
@@ -2489,6 +2665,14 @@
       "onboard_time": 1749458242,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94195,
+      "num": 260392,
+      "word": "天猫618补贴高考生4000元",
+      "onboard_time": 1749470661,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 94156,
@@ -2675,12 +2859,36 @@
       "category": "正能量,教育"
     },
     {
+      "raw_hot": 70429,
+      "num": 312717,
+      "word": "考后接种HPV疫苗是预防也是保护",
+      "onboard_time": 1749470661,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 69386,
       "num": 69386,
       "word": "朱志鑫披荆斩棘友好沟通函",
       "onboard_time": 1749424879,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67298,
+      "num": 182802,
+      "word": "杨鸣晒合影没忘把韩德君P上",
+      "onboard_time": 1749472943,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66943,
+      "num": 214038,
+      "word": "江苏十三太保开启斗歌模式",
+      "onboard_time": 1749473482,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 66236,
@@ -2987,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36668,
+      "num": 320884,
+      "word": "加州州长硬刚白宫称将起诉特朗普",
+      "onboard_time": 1749472341,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36649,
       "num": 36649,
       "word": "官方通报村支书威胁拍天坑垃圾要打",
@@ -3083,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29687,
+      "num": 196057,
+      "word": "高考结束后人生是这样的",
+      "onboard_time": 1749472701,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 29270,
       "num": 194180,
       "word": "石家庄一护士用无人机运送血样",
@@ -3123,12 +3347,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 24965,
+      "num": 243609,
+      "word": "久坐也会引起妇科炎症吗",
+      "onboard_time": 1749471081,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 23485,
       "num": 69937,
       "word": "哥伦比亚6.6级地震",
       "onboard_time": 1749394763,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22976,
+      "num": 226355,
+      "word": "冷酸灵牙膏即速60s是注册商标",
+      "onboard_time": 1749473422,
+      "rank": 34,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 22040,
@@ -3161,6 +3401,14 @@
       "onboard_time": 1749460820,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 21719,
+      "num": 247434,
+      "word": "洛杉矶示威者抢劫焚烧加油站",
+      "onboard_time": 1749472581,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21526,
@@ -3369,6 +3617,14 @@
       "onboard_time": 1749468681,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 7368,
+      "num": 226624,
+      "word": "汉堡作为减脂餐真的科学吗",
+      "onboard_time": 1749473542,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 6442,
