@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749497835196,
+  "endTime": 1749500962589,
   "band_list": [
     {
       "raw_hot": 970316,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 37516,
-      "num": 37516,
+      "num": 42185,
       "word": "肖战感谢大家陪藏海走过一程",
       "onboard_time": 1749490936,
       "rank": 28,
@@ -563,12 +563,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18916,
+      "num": 18916,
+      "word": "高考语文40分钟前被马蜂蛰了",
+      "onboard_time": 1749497534,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17771,
+      "num": 17771,
+      "word": "杀害情人丈夫的谢光明被执行死刑",
+      "onboard_time": 1749498314,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16802,
       "num": 165561,
       "word": "知名语音直播平台上市前被控涉赌",
       "onboard_time": 1749485542,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16686,
+      "num": 16686,
+      "word": "澳记者在洛杉矶遭橡皮子弹击中",
+      "onboard_time": 1749497893,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 16608,
@@ -595,18 +619,18 @@
       "category": "教育"
     },
     {
-      "raw_hot": 14913,
-      "num": 18002,
-      "word": "高考语文40分钟前被马蜂蛰了",
-      "onboard_time": 1749497534,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14717,
       "num": 18002,
       "word": "喜报 我下高三了",
       "onboard_time": 1749497594,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 12684,
+      "num": 15040,
+      "word": "第29次高考梁实估分400至420",
+      "onboard_time": 1749500894,
       "rank": 49,
       "category": "教育"
     },
@@ -617,6 +641,14 @@
       "onboard_time": 1749492676,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 11631,
+      "num": 21560,
+      "word": "不打扰是真正呵护",
+      "onboard_time": 1749498974,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11360,

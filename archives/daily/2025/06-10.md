@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/10 00:34:09 ~ 2025/06/10 03:37:15
+本榜单时间：2025/06/10 00:34:09 ~ 2025/06/10 04:29:22
 </p>
 </blockquote>
 <p>
@@ -435,8 +435,26 @@ AL战胜BLG（热度：66122）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%8740%E5%88%86%E9%92%9F%E5%89%8D%E8%A2%AB%E9%A9%AC%E8%9C%82%E8%9B%B0%E4%BA%86%23" target="weibo">
+高考语文40分钟前被马蜂蛰了（热度：18916）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E6%83%85%E4%BA%BA%E4%B8%88%E5%A4%AB%E7%9A%84%E8%B0%A2%E5%85%89%E6%98%8E%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+杀害情人丈夫的谢光明被执行死刑（热度：17771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E8%AF%AD%E9%9F%B3%E7%9B%B4%E6%92%AD%E5%B9%B3%E5%8F%B0%E4%B8%8A%E5%B8%82%E5%89%8D%E8%A2%AB%E6%8E%A7%E6%B6%89%E8%B5%8C%23" target="weibo">
 知名语音直播平台上市前被控涉赌（热度：16802）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E8%AE%B0%E8%80%85%E5%9C%A8%E6%B4%9B%E6%9D%89%E7%9F%B6%E9%81%AD%E6%A9%A1%E7%9A%AE%E5%AD%90%E5%BC%B9%E5%87%BB%E4%B8%AD%23" target="weibo">
+澳记者在洛杉矶遭橡皮子弹击中（热度：16686）
 </a>
 </li>
 
@@ -459,20 +477,26 @@ AL战胜BLG（热度：66122）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%8740%E5%88%86%E9%92%9F%E5%89%8D%E8%A2%AB%E9%A9%AC%E8%9C%82%E8%9B%B0%E4%BA%86%23" target="weibo">
-高考语文40分钟前被马蜂蛰了（热度：14913）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%8A%A5%20%E6%88%91%E4%B8%8B%E9%AB%98%E4%B8%89%E4%BA%86%23" target="weibo">
 喜报 我下高三了（热度：14717）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC29%E6%AC%A1%E9%AB%98%E8%80%83%E6%A2%81%E5%AE%9E%E4%BC%B0%E5%88%86400%E8%87%B3420%23" target="weibo">
+第29次高考梁实估分400至420（热度：12684）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E4%B8%80%E7%9C%A8%E7%9C%BC%E5%B0%B1%E6%AF%95%E4%B8%9A%E4%BA%86%23" target="weibo">
 怎么一眨眼就毕业了（热度：12570）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%89%93%E6%89%B0%E6%98%AF%E7%9C%9F%E6%AD%A3%E5%91%B5%E6%8A%A4%23" target="weibo">
+不打扰是真正呵护（热度：11631）
 </a>
 </li>
 
