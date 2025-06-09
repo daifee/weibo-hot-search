@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749441350384,
+  "endTime": 1749443877554,
   "band_list": [
     {
       "raw_hot": 2737887,
@@ -9,6 +9,14 @@
       "onboard_time": 1749434779,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2059912,
+      "num": 2059912,
+      "word": "高考地理",
+      "onboard_time": 1749441681,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1704507,
@@ -33,6 +41,14 @@
       "onboard_time": 1749424279,
       "rank": 20,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 1158311,
+      "num": 1158311,
+      "word": "樊振东vs徐瑛彬",
+      "onboard_time": 1749439942,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1112730,
@@ -67,8 +83,8 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 759402,
-      "num": 759402,
+      "raw_hot": 780968,
+      "num": 780968,
       "word": "特朗普下令解放洛杉矶",
       "onboard_time": 1749427101,
       "rank": 5,
@@ -83,12 +99,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 735628,
-      "num": 735628,
+      "raw_hot": 744832,
+      "num": 744832,
       "word": "藏海传逆跌",
       "onboard_time": 1749434601,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 697621,
+      "num": 697621,
+      "word": "中餐厅9收官",
+      "onboard_time": 1749439401,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 662693,
@@ -99,28 +123,12 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 645645,
-      "num": 645645,
-      "word": "樊振东vs徐瑛彬",
-      "onboard_time": 1749439942,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 645437,
       "num": 645437,
       "word": "王楚钦谈输给伊朗14岁小将",
       "onboard_time": 1749398242,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 644378,
-      "num": 644378,
-      "word": "中餐厅9收官",
-      "onboard_time": 1749439401,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 638258,
@@ -147,12 +155,36 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 550536,
+      "num": 550536,
+      "word": "孙颖莎好萌",
+      "onboard_time": 1749441141,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 546984,
+      "num": 546984,
+      "word": "留几手发长文谈韦东奕",
+      "onboard_time": 1749439161,
+      "rank": 35,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 543650,
       "num": 543650,
       "word": "李昀锐不躲孟子义",
       "onboard_time": 1749429142,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513033,
+      "num": 513033,
+      "word": "江西卷是要选拔门捷列夫吗",
+      "onboard_time": 1749438982,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 511623,
@@ -195,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436270,
-      "num": 436270,
-      "word": "江西卷是要选拔门捷列夫吗",
-      "onboard_time": 1749438982,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 421263,
       "num": 421263,
       "word": "高考英语",
@@ -227,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402200,
+      "num": 503861,
+      "word": "洛杉矶乱成一锅粥",
+      "onboard_time": 1749442762,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 398200,
       "num": 398200,
       "word": "葡萄牙夺得欧国联冠军",
       "onboard_time": 1749423556,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 388362,
+      "num": 494571,
+      "word": "新中式还得是张柏芝",
+      "onboard_time": 1749442644,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 384243,
@@ -249,6 +289,14 @@
       "onboard_time": 1749393382,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355601,
+      "num": 355601,
+      "word": "日本火箭发射5秒后爆炸",
+      "onboard_time": 1749441742,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 348870,
@@ -275,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323233,
+      "num": 323233,
+      "word": "澳门偶遇金莎孙丞潇牵手",
+      "onboard_time": 1749440662,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322948,
       "num": 322948,
       "word": "泡泡玛特创始人成河南新首富",
@@ -284,7 +340,7 @@
     },
     {
       "raw_hot": 321816,
-      "num": 321816,
+      "num": 487421,
       "word": "临江仙播的好不好白月梵星最清楚",
       "onboard_time": 1749437302,
       "rank": 13,
@@ -307,12 +363,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310988,
+      "num": 494465,
+      "word": "章子怡李现酱园弄演情人",
+      "onboard_time": 1749439882,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 306559,
+      "num": 306559,
+      "word": "无限暖暖",
+      "onboard_time": 1749442402,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305937,
       "num": 414241,
       "word": "BLACKPINK将于今年下半年正式回归",
       "onboard_time": 1749434242,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 295484,
+      "num": 507525,
+      "word": "冲绳美军基地发生爆炸",
+      "onboard_time": 1749441442,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 292155,
@@ -331,6 +411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 286941,
+      "num": 286941,
+      "word": "美海军陆战队待命或被派往洛杉矶",
+      "onboard_time": 1749441501,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 285579,
       "num": 285579,
       "word": "C罗哭了",
@@ -347,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282030,
+      "num": 282030,
+      "word": "C罗发六个感叹号庆祝夺冠",
+      "onboard_time": 1749441261,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281068,
       "num": 281068,
       "word": "印甘蔗女工担心月经影响工作摘除子宫",
@@ -361,6 +457,14 @@
       "onboard_time": 1749390803,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 275105,
+      "num": 275105,
+      "word": "王楚钦或将对阵樊振东",
+      "onboard_time": 1749440843,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 273513,
@@ -387,12 +491,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256330,
+      "num": 256330,
+      "word": "物化地 高考极速版",
+      "onboard_time": 1749443303,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 254910,
       "num": 254910,
       "word": "江西回应投资3.5亿博物馆闲置2年",
       "onboard_time": 1749396323,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254674,
+      "num": 254674,
+      "word": "王楚钦3比0费浚航",
+      "onboard_time": 1749443184,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 252266,
@@ -403,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247550,
-      "num": 247550,
-      "word": "留几手发长文谈韦东奕",
-      "onboard_time": 1749439161,
-      "rank": 35,
-      "category": "民生新闻,艺人"
+      "raw_hot": 242193,
+      "num": 242193,
+      "word": "高考",
+      "onboard_time": 1749426201,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 227506,
@@ -419,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226888,
-      "num": 241065,
-      "word": "章子怡李现酱园弄演情人",
-      "onboard_time": 1749439882,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 225196,
       "num": 225196,
       "word": "黄金",
@@ -435,12 +547,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 217304,
-      "num": 217304,
-      "word": "澳门偶遇金莎孙丞潇牵手",
-      "onboard_time": 1749440662,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 223010,
+      "num": 223010,
+      "word": "特朗普称决不允许国家撕裂",
+      "onboard_time": 1749442402,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 214619,
@@ -449,6 +561,14 @@
       "onboard_time": 1749389123,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213594,
+      "num": 292043,
+      "word": "章子怡拒绝白凯南演纣王",
+      "onboard_time": 1749443303,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 212285,
@@ -467,20 +587,20 @@
       "category": "电影,民生新闻"
     },
     {
+      "raw_hot": 202587,
+      "num": 202587,
+      "word": "原来汉堡一直都在被误解",
+      "onboard_time": 1749441501,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201316,
       "num": 201316,
       "word": "肖战不舍往日之景",
       "onboard_time": 1749399200,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198949,
-      "num": 198949,
-      "word": "高考",
-      "onboard_time": 1749426201,
-      "rank": 47,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 193968,
@@ -505,14 +625,6 @@
       "onboard_time": 1749397102,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188790,
-      "num": 188790,
-      "word": "王楚钦或将对阵樊振东",
-      "onboard_time": 1749440843,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 187463,
@@ -547,11 +659,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 180987,
+      "num": 180987,
+      "word": "易烊千玺楔木上线",
+      "onboard_time": 1749441921,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178476,
       "num": 178476,
       "word": "ally车银优合照",
       "onboard_time": 1749391043,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172681,
+      "num": 172681,
+      "word": "肖战说爸妈生的好",
+      "onboard_time": 1749443843,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -564,7 +692,7 @@
     },
     {
       "raw_hot": 168896,
-      "num": 168896,
+      "num": 225199,
       "word": "蒯曼平野美宇vs刘炜珊何卓佳",
       "onboard_time": 1749441261,
       "rank": 36,
@@ -635,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162673,
+      "num": 224455,
+      "word": "美国加州和特朗普政府之间怎么了",
+      "onboard_time": 1749441803,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161776,
       "num": 161776,
       "word": "白宫官员警告加州州长",
@@ -649,14 +785,6 @@
       "onboard_time": 1749432261,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153252,
-      "num": 153252,
-      "word": "孙颖莎好萌",
-      "onboard_time": 1749441141,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 153234,
@@ -713,14 +841,6 @@
       "onboard_time": 1749441261,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 144271,
-      "num": 144271,
-      "word": "C罗发六个感叹号庆祝夺冠",
-      "onboard_time": 1749441261,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 140277,
@@ -1099,6 +1219,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 78935,
+      "num": 282049,
+      "word": "婚检中艾滋感染者配偶与医生如何自保",
+      "onboard_time": 1749442223,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78631,
       "num": 78631,
       "word": "白鹿直播",
@@ -1129,6 +1257,22 @@
       "onboard_time": 1749435801,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74029,
+      "num": 227361,
+      "word": "美国骚乱或成加州州长的机会",
+      "onboard_time": 1749442882,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 73506,
+      "num": 480797,
+      "word": "违规防晒衣网店儿童产品月销最高",
+      "onboard_time": 1749442223,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 72448,
@@ -1195,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54093,
+      "num": 1014336,
+      "word": "祝高考生的梦想破土生花",
+      "onboard_time": 1749442762,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51494,
       "num": 101934,
       "word": "萨巴伦卡回应发布会争议",
@@ -1236,11 +1388,19 @@
     },
     {
       "raw_hot": 39503,
-      "num": 230371,
+      "num": 282327,
       "word": "陆柯燃今日高考气象播报",
       "onboard_time": 1749440362,
       "rank": 31,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 37756,
+      "num": 472685,
+      "word": "情绪不稳定的人更爱长结节吗",
+      "onboard_time": 1749442282,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 36674,
@@ -1406,6 +1566,9 @@
   "hotgov_list": [
     {
       "word": "#让勤奋学习成为青春远航的动力#"
+    },
+    {
+      "word": "#跟随总书记探寻中华文明#"
     }
   ]
 }

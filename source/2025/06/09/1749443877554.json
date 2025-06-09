@@ -1,0 +1,410 @@
+{
+  "runTime": 1749443877554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2059912,
+        "num": 2059912,
+        "word": "高考地理",
+        "onboard_time": 1749441681,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1158311,
+        "num": 1158311,
+        "word": "樊振东vs徐瑛彬",
+        "onboard_time": 1749439942,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54093,
+        "num": 1014336,
+        "word": "祝高考生的梦想破土生花",
+        "onboard_time": 1749442762,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 892880,
+        "num": 892880,
+        "word": "高考化学",
+        "onboard_time": 1749432801,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 780968,
+        "num": 780968,
+        "word": "特朗普下令解放洛杉矶",
+        "onboard_time": 1749427101,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 744832,
+        "num": 744832,
+        "word": "藏海传逆跌",
+        "onboard_time": 1749434601,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 697621,
+        "num": 697621,
+        "word": "中餐厅9收官",
+        "onboard_time": 1749439401,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550536,
+        "num": 550536,
+        "word": "孙颖莎好萌",
+        "onboard_time": 1749441141,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546984,
+        "num": 546984,
+        "word": "留几手发长文谈韦东奕",
+        "onboard_time": 1749439161,
+        "rank": 8,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 513033,
+        "num": 513033,
+        "word": "江西卷是要选拔门捷列夫吗",
+        "onboard_time": 1749438982,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2264004,
+        "num": 511614,
+        "word": "婚检查出艾滋医生未告知伴侣致感染",
+        "onboard_time": 1749434779,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295484,
+        "num": 507525,
+        "word": "冲绳美军基地发生爆炸",
+        "onboard_time": 1749441442,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 402200,
+        "num": 503861,
+        "word": "洛杉矶乱成一锅粥",
+        "onboard_time": 1749442762,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 718131,
+        "num": 501622,
+        "word": "真情侣在综艺里吻上了",
+        "onboard_time": 1749426020,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500198,
+        "num": 500198,
+        "word": "央视曝光不防晒的防晒衣",
+        "onboard_time": 1749395063,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388362,
+        "num": 494571,
+        "word": "新中式还得是张柏芝",
+        "onboard_time": 1749442644,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310988,
+        "num": 494465,
+        "word": "章子怡李现酱园弄演情人",
+        "onboard_time": 1749439882,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 306140,
+        "num": 487421,
+        "word": "临江仙播的好不好白月梵星最清楚",
+        "onboard_time": 1749437302,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73506,
+        "num": 480797,
+        "word": "违规防晒衣网店儿童产品月销最高",
+        "onboard_time": 1749442223,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37756,
+        "num": 472685,
+        "word": "情绪不稳定的人更爱长结节吗",
+        "onboard_time": 1749442282,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 471867,
+        "num": 471867,
+        "word": "好想活得像labubu一样啊",
+        "onboard_time": 1749437361,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 416852,
+        "num": 416852,
+        "word": "花1.3万买了2000平米的乡下小院",
+        "onboard_time": 1749426739,
+        "rank": 21,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 355601,
+        "num": 355601,
+        "word": "日本火箭发射5秒后爆炸",
+        "onboard_time": 1749441742,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 339824,
+        "num": 339824,
+        "word": "终于知道东北为什么不宣传景区了",
+        "onboard_time": 1749436159,
+        "rank": 23,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 323233,
+        "num": 323233,
+        "word": "澳门偶遇金莎孙丞潇牵手",
+        "onboard_time": 1749440662,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306559,
+        "num": 306559,
+        "word": "无限暖暖",
+        "onboard_time": 1749442402,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213594,
+        "num": 292043,
+        "word": "章子怡拒绝白凯南演纣王",
+        "onboard_time": 1749443303,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286941,
+        "num": 286941,
+        "word": "美海军陆战队待命或被派往洛杉矶",
+        "onboard_time": 1749441501,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37526,
+        "num": 282327,
+        "word": "陆柯燃今日高考气象播报",
+        "onboard_time": 1749440362,
+        "rank": 28,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 78935,
+        "num": 282049,
+        "word": "婚检中艾滋感染者配偶与医生如何自保",
+        "onboard_time": 1749442223,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282030,
+        "num": 282030,
+        "word": "C罗发六个感叹号庆祝夺冠",
+        "onboard_time": 1749441261,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275105,
+        "num": 275105,
+        "word": "王楚钦或将对阵樊振东",
+        "onboard_time": 1749440843,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256330,
+        "num": 256330,
+        "word": "物化地 高考极速版",
+        "onboard_time": 1749443303,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254674,
+        "num": 254674,
+        "word": "王楚钦3比0费浚航",
+        "onboard_time": 1749443184,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253137,
+        "num": 253137,
+        "word": "山东小六科开始发力了",
+        "onboard_time": 1749439040,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250537,
+        "num": 250537,
+        "word": "新华社记者在洛杉矶中催泪弹",
+        "onboard_time": 1749437061,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245137,
+        "num": 245137,
+        "word": "原来正品质量这么差",
+        "onboard_time": 1749435921,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242193,
+        "num": 242193,
+        "word": "高考",
+        "onboard_time": 1749426201,
+        "rank": 37,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 74029,
+        "num": 227361,
+        "word": "美国骚乱或成加州州长的机会",
+        "onboard_time": 1749442882,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134464,
+        "num": 225199,
+        "word": "蒯曼平野美宇vs刘炜珊何卓佳",
+        "onboard_time": 1749441261,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162673,
+        "num": 224455,
+        "word": "美国加州和特朗普政府之间怎么了",
+        "onboard_time": 1749441803,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223988,
+        "num": 223988,
+        "word": "彭冠英开车送朱一龙回家",
+        "onboard_time": 1749434779,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223010,
+        "num": 223010,
+        "word": "特朗普称决不允许国家撕裂",
+        "onboard_time": 1749442402,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211981,
+        "num": 211981,
+        "word": "洛杉矶全市进入战术警戒状态",
+        "onboard_time": 1749427101,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211061,
+        "num": 211061,
+        "word": "黄金",
+        "onboard_time": 1749436822,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202587,
+        "num": 202587,
+        "word": "原来汉堡一直都在被误解",
+        "onboard_time": 1749441501,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194554,
+        "num": 194554,
+        "word": "李昀锐不躲孟子义",
+        "onboard_time": 1749429142,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194358,
+        "num": 194358,
+        "word": "迪丽热巴高雯差点被换掉",
+        "onboard_time": 1749428063,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180987,
+        "num": 180987,
+        "word": "易烊千玺楔木上线",
+        "onboard_time": 1749441921,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172681,
+        "num": 172681,
+        "word": "肖战说爸妈生的好",
+        "onboard_time": 1749443843,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记探寻中华文明#"
+    }
+  }
+}
