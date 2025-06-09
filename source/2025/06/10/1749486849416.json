@@ -1,0 +1,410 @@
+{
+  "runTime": 1749486849416,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 970316,
+        "num": 970316,
+        "word": "美国发现13具尸体疑连环杀手作案",
+        "onboard_time": 1749480802,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 620281,
+        "num": 620281,
+        "word": "李昀锐工作室致粉丝的一封信",
+        "onboard_time": 1749484340,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16655,
+        "num": 498470,
+        "word": "万千气象看安徽",
+        "onboard_time": 1749475463,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 800123,
+        "num": 464589,
+        "word": "程潇给前任发信息被秒回",
+        "onboard_time": 1749472281,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409186,
+        "num": 409186,
+        "word": "易烊千玺被湖南高考家长安排得明明白白",
+        "onboard_time": 1749484161,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352301,
+        "num": 352301,
+        "word": "文科生碎了",
+        "onboard_time": 1749465260,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336972,
+        "num": 336972,
+        "word": "北大将帮韦东奕积极治疗",
+        "onboard_time": 1749483682,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300878,
+        "num": 300878,
+        "word": "小孩被天降乌龟砸死饲主判赔128万",
+        "onboard_time": 1749480082,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279936,
+        "num": 279936,
+        "word": "高额彩礼成为影响结婚率重要因素之一",
+        "onboard_time": 1749477623,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272865,
+        "num": 272865,
+        "word": "李梦回应与刘亦菲李沁合照",
+        "onboard_time": 1749479482,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675614,
+        "num": 267887,
+        "word": "余庆伟道歉",
+        "onboard_time": 1749483142,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 476073,
+        "num": 265036,
+        "word": "高考忘缴费了",
+        "onboard_time": 1749480982,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 306951,
+        "num": 250790,
+        "word": "张若昀拍的唐艺昕与女儿",
+        "onboard_time": 1749473001,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234213,
+        "num": 234213,
+        "word": "程潇前任",
+        "onboard_time": 1749476543,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227998,
+        "num": 227998,
+        "word": "贺峻霖的人形立牌让女儿满眼放光",
+        "onboard_time": 1749482123,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196464,
+        "num": 196464,
+        "word": "者来女 歌手揭榜",
+        "onboard_time": 1749480143,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171512,
+        "num": 171512,
+        "word": "宁艺卓撕拉片",
+        "onboard_time": 1749476364,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115494,
+        "num": 168075,
+        "word": "黄觉转发",
+        "onboard_time": 1749478942,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16608,
+        "num": 166346,
+        "word": "如何判断甲状腺的健康情况",
+        "onboard_time": 1749484882,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16802,
+        "num": 165561,
+        "word": "知名语音直播平台上市前被控涉赌",
+        "onboard_time": 1749485542,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164847,
+        "num": 164847,
+        "word": "大学生网购10套古装表演后集体退货",
+        "onboard_time": 1749482902,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160320,
+        "num": 160320,
+        "word": "原来父母的装修审美才是顶奢",
+        "onboard_time": 1749484101,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157748,
+        "num": 157748,
+        "word": "Bin 闹剧结束了",
+        "onboard_time": 1749476723,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148240,
+        "num": 148240,
+        "word": "新房在小姑子名下准新娘直接退婚",
+        "onboard_time": 1749469940,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103444,
+        "num": 134607,
+        "word": "家长带马嘉祺人形立牌接考生",
+        "onboard_time": 1749483501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124238,
+        "num": 124238,
+        "word": "樊振东3比1林高远",
+        "onboard_time": 1749475161,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107299,
+        "num": 124201,
+        "word": "众星鼓励尹正",
+        "onboard_time": 1749474860,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102435,
+        "num": 121195,
+        "word": "唐汉霄 揭榜",
+        "onboard_time": 1749483082,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94855,
+        "num": 121050,
+        "word": "宋亚轩 LV",
+        "onboard_time": 1749469401,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 42428,
+        "num": 118485,
+        "word": "拉斯维加斯一博主直播时遭男子枪杀",
+        "onboard_time": 1749485480,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118080,
+        "num": 118080,
+        "word": "樊振东小咚咚史诗级同框",
+        "onboard_time": 1749483201,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108150,
+        "num": 108150,
+        "word": "山东考生说高考结束该让爹妈歇歇了",
+        "onboard_time": 1749459921,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106664,
+        "num": 106664,
+        "word": "曝iOS26是半成品",
+        "onboard_time": 1749484761,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100179,
+        "num": 100179,
+        "word": "华为广告 黑尾蜡嘴雀",
+        "onboard_time": 1749485840,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86133,
+        "num": 98339,
+        "word": "张远与大学生合唱仰望星云",
+        "onboard_time": 1749482961,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36542,
+        "num": 98232,
+        "word": "骨科妇科医生推荐咳嗽药",
+        "onboard_time": 1749486739,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 98187,
+        "num": 98187,
+        "word": "方媛穿宽松连衣裙陪郭富城看赛马",
+        "onboard_time": 1749485302,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93535,
+        "num": 93535,
+        "word": "大爷5块钱买折叠沙发到手竟是支笔",
+        "onboard_time": 1749486140,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93103,
+        "num": 93103,
+        "word": "考好了你养王源考不好老爸养你",
+        "onboard_time": 1749477203,
+        "rank": 38,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 89903,
+        "num": 89903,
+        "word": "Shanks成角了",
+        "onboard_time": 1749478463,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87932,
+        "num": 87932,
+        "word": "洛杉矶冲突现场随处可见防暴弹",
+        "onboard_time": 1749483682,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84506,
+        "num": 84506,
+        "word": "197帅哥被浙大提前录取仍参加高考",
+        "onboard_time": 1749472281,
+        "rank": 41,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 82447,
+        "num": 82447,
+        "word": "乌无人机袭击俄军用机场和导弹工厂",
+        "onboard_time": 1749486379,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81994,
+        "num": 81994,
+        "word": "迪丽热巴满眼都是对身高的渴望",
+        "onboard_time": 1749475402,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81960,
+        "num": 81960,
+        "word": "进击的巨人地下室的真相",
+        "onboard_time": 1749484161,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 77083,
+        "num": 77083,
+        "word": "刘亦菲李沁中间这位女士",
+        "onboard_time": 1749473361,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77025,
+        "num": 77025,
+        "word": "Labubu99元挂件二手市场炒至3000元",
+        "onboard_time": 1749479604,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60719,
+        "num": 76994,
+        "word": "央视起底陌生快递中奖骗局",
+        "onboard_time": 1749484700,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 76972,
+        "num": 76972,
+        "word": "平野美宇眼里全是对孙颖莎的崇拜",
+        "onboard_time": 1749486559,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76638,
+        "num": 76638,
+        "word": "中国男篮23人集训名单",
+        "onboard_time": 1749484521,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步关心海洋认识海洋经略海洋#"
+    }
+  }
+}
