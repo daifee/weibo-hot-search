@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749425922430,
+  "endTime": 1749434829456,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -171,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1240640,
+      "num": 1240640,
+      "word": "高考化学",
+      "onboard_time": 1749432801,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1177210,
       "num": 167095,
       "word": "高考历史上3次启用备用卷",
@@ -185,6 +193,14 @@
       "onboard_time": 1749351201,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1112730,
+      "num": 566598,
+      "word": "真情侣在综艺里吻上了",
+      "onboard_time": 1749426020,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1092814,
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 930311,
+      "num": 930311,
+      "word": "labubu",
+      "onboard_time": 1749428541,
+      "rank": 3,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 919134,
       "num": 919134,
       "word": "高考历史文言文",
@@ -307,6 +331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 836765,
+      "num": 836765,
+      "word": "花1.3万买了2000平米的乡下小院",
+      "onboard_time": 1749426739,
+      "rank": 4,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 803272,
       "num": 803272,
       "word": "韦神的牙齿不是他一个人的事",
@@ -329,6 +361,14 @@
       "onboard_time": 1749344600,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 759402,
+      "num": 759402,
+      "word": "特朗普下令解放洛杉矶",
+      "onboard_time": 1749427101,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 724901,
@@ -369,6 +409,14 @@
       "onboard_time": 1749380662,
       "rank": 7,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 638258,
+      "num": 638258,
+      "word": "特朗普上飞机时差点跌倒",
+      "onboard_time": 1749430222,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 621868,
@@ -491,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543650,
+      "num": 543650,
+      "word": "李昀锐不躲孟子义",
+      "onboard_time": 1749429142,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531672,
       "num": 531672,
       "word": "驻日本大使馆发布提醒",
@@ -593,6 +649,14 @@
       "onboard_time": 1749390084,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 463615,
+      "num": 463615,
+      "word": "洛杉矶全市进入战术警戒状态",
+      "onboard_time": 1749427101,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 463130,
@@ -737,6 +801,14 @@
       "onboard_time": 1749389183,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384243,
+      "num": 635451,
+      "word": "刘浩存演技",
+      "onboard_time": 1749430102,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 383407,
@@ -931,12 +1003,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330940,
+      "num": 593365,
+      "word": "迪丽热巴高雯差点被换掉",
+      "onboard_time": 1749428063,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329541,
       "num": 305809,
       "word": "身体好的人肚子大多软软的",
       "onboard_time": 1749361522,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 327024,
+      "num": 327024,
+      "word": "山东物理",
+      "onboard_time": 1749434300,
+      "rank": 13,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 323872,
@@ -969,6 +1057,14 @@
       "onboard_time": 1749367880,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 308802,
+      "num": 308802,
+      "word": "乒超",
+      "onboard_time": 1749434359,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 305659,
@@ -1057,6 +1153,14 @@
       "onboard_time": 1749373402,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285579,
+      "num": 285579,
+      "word": "C罗哭了",
+      "onboard_time": 1749425298,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 283894,
@@ -1539,6 +1643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205037,
+      "num": 239949,
+      "word": "镖人",
+      "onboard_time": 1749428842,
+      "rank": 17,
+      "category": "电影,民生新闻"
+    },
+    {
       "raw_hot": 204566,
       "num": 222600,
       "word": "辛纳vs阿尔卡拉斯",
@@ -1601,6 +1713,14 @@
       "onboard_time": 1749356121,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199302,
+      "num": 237354,
+      "word": "BLACKPINK将于今年下半年正式回归",
+      "onboard_time": 1749434242,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 198830,
@@ -1795,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187463,
+      "num": 187463,
+      "word": "男子胳膊上长刺猴自己用钳子拔掉",
+      "onboard_time": 1749427881,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187352,
       "num": 187352,
       "word": "导演说肖战是非常正确的选择",
@@ -1891,14 +2019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182941,
-      "num": 182941,
-      "word": "C罗哭了",
-      "onboard_time": 1749425298,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181470,
       "num": 181470,
       "word": "侯佩岑在线找工作",
@@ -1913,6 +2033,14 @@
       "onboard_time": 1749355943,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181215,
+      "num": 181215,
+      "word": "特朗普上台后日均抓656名非法移民",
+      "onboard_time": 1749425719,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180967,
@@ -2171,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165533,
+      "num": 235547,
+      "word": "登陆少年出发录制披哥",
+      "onboard_time": 1749433640,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165447,
       "num": 165447,
       "word": "张碧晨变装完全是仙女级别",
@@ -2219,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163807,
+      "num": 163807,
+      "word": "拒绝腿粗焦虑",
+      "onboard_time": 1749427221,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163336,
       "num": 135565,
       "word": "王楚钦谈大头外号",
@@ -2249,6 +2393,14 @@
       "onboard_time": 1749388583,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161776,
+      "num": 161776,
+      "word": "白宫官员警告加州州长",
+      "onboard_time": 1749429802,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161648,
@@ -2451,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150734,
+      "num": 150734,
+      "word": "为什么不建议周末久躺",
+      "onboard_time": 1749425780,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 150715,
       "num": 150715,
       "word": "王楚钦你做到了",
@@ -2499,6 +2659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149285,
+      "num": 588174,
+      "word": "以军称发现哈马斯领导人遗体",
+      "onboard_time": 1749433279,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148205,
       "num": 148205,
       "word": "原来这就是天然味精",
@@ -2539,12 +2707,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 146949,
+      "num": 146949,
+      "word": "300位国民警卫队人员进驻洛杉矶",
+      "onboard_time": 1749426319,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146601,
       "num": 146601,
       "word": "北京高考英语作文",
       "onboard_time": 1749377961,
       "rank": 40,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 146562,
+      "num": 146562,
+      "word": "拉塞尔好帅",
+      "onboard_time": 1749432081,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 146523,
@@ -2601,6 +2785,14 @@
       "onboard_time": 1749381802,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145056,
+      "num": 163470,
+      "word": "藏海传逆跌",
+      "onboard_time": 1749434601,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 144816,
@@ -2795,6 +2987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137241,
+      "num": 163325,
+      "word": "五哈",
+      "onboard_time": 1749430762,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136936,
       "num": 136936,
       "word": "左小青一人饰两角横跨20年",
@@ -2843,6 +3043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134911,
+      "num": 162709,
+      "word": "谁的青春不想有一个肖奈啊",
+      "onboard_time": 1749432980,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134614,
       "num": 134614,
       "word": "汪峰带两个孩子逛街",
@@ -2875,12 +3083,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133661,
+      "num": 133661,
+      "word": "阿卡高芙故宫合影含金量还在上升",
+      "onboard_time": 1749434420,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132262,
       "num": 144549,
       "word": "王楚钦林孝埈潘展乐原声祝福",
       "onboard_time": 1749374841,
       "rank": 42,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 131563,
+      "num": 131563,
+      "word": "北京河北山东河南局地最高温超37",
+      "onboard_time": 1749434359,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131237,
@@ -3091,6 +3315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 121563,
+      "num": 121563,
+      "word": "美国一架飞机坠毁多人受伤",
+      "onboard_time": 1749434242,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121460,
       "num": 121460,
       "word": "一句免费收麦让老人几乎落泪",
@@ -3163,14 +3395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118395,
-      "num": 118395,
-      "word": "为什么不建议周末久躺",
-      "onboard_time": 1749425780,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 116981,
       "num": 210885,
       "word": "樊振东王楚钦孙颖莎全红婵高考祝福",
@@ -3179,12 +3403,28 @@
       "category": "体育,教育"
     },
     {
+      "raw_hot": 116979,
+      "num": 116979,
+      "word": "高考时间",
+      "onboard_time": 1749427521,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116957,
       "num": 116957,
       "word": "开心果椰子水",
       "onboard_time": 1749374601,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116917,
+      "num": 116917,
+      "word": "提醒洛杉矶地区中国公民切实加强安全防范",
+      "onboard_time": 1749429323,
+      "rank": 42,
+      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 116903,
@@ -3217,6 +3457,22 @@
       "onboard_time": 1749379162,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115897,
+      "num": 115897,
+      "word": "猫为什么怕黄瓜",
+      "onboard_time": 1749428301,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115871,
+      "num": 115870,
+      "word": "藏海传登顶年度畅销榜",
+      "onboard_time": 1749429742,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 115369,
@@ -3257,6 +3513,14 @@
       "onboard_time": 1749397404,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113248,
+      "num": 162095,
+      "word": "黄霄雲新歌文案",
+      "onboard_time": 1749432261,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 112847,
@@ -3401,6 +3665,14 @@
       "onboard_time": 1749349701,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103697,
+      "num": 103697,
+      "word": "彭冠英开车送朱一龙回家",
+      "onboard_time": 1749434779,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 102121,
@@ -3611,14 +3883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69678,
-      "num": 69678,
-      "word": "特朗普上台后日均抓656名非法移民",
-      "onboard_time": 1749425719,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 69484,
       "num": 433449,
       "word": "张家界两溶洞清理垃圾51吨",
@@ -3731,6 +3995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61653,
+      "num": 116930,
+      "word": "2025乒超今日开战",
+      "onboard_time": 1749434719,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61531,
       "num": 61531,
       "word": "家长用9885元做985鲜花送孩子",
@@ -3788,7 +4060,7 @@
     },
     {
       "raw_hot": 57336,
-      "num": 893165,
+      "num": 1003339,
       "word": "我国海洋经济登上新台阶",
       "onboard_time": 1749391584,
       "rank": 2,
@@ -3857,6 +4129,14 @@
       "onboard_time": 1749334095,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51494,
+      "num": 101934,
+      "word": "萨巴伦卡回应发布会争议",
+      "onboard_time": 1749431361,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 50002,
@@ -4305,6 +4585,14 @@
       "onboard_time": 1749335955,
       "rank": 49,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 17830,
+      "num": 115871,
+      "word": "婚检查出艾滋医生未告知伴侣致感染",
+      "onboard_time": 1749434779,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17709,
