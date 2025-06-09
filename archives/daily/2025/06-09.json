@@ -1,7 +1,15 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749436273768,
+  "endTime": 1749440456110,
   "band_list": [
+    {
+      "raw_hot": 2737887,
+      "num": 2737887,
+      "word": "婚检查出艾滋医生未告知伴侣致感染",
+      "onboard_time": 1749434779,
+      "rank": 44,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1704507,
       "num": 1704507,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 735628,
+      "num": 735628,
+      "word": "藏海传逆跌",
+      "onboard_time": 1749434601,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 662693,
       "num": 662693,
       "word": "山东物理",
@@ -115,22 +131,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 600340,
-      "num": 600340,
-      "word": "婚检查出艾滋医生未告知伴侣致感染",
-      "onboard_time": 1749434779,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 568109,
-      "num": 615632,
-      "word": "藏海传逆跌",
-      "onboard_time": 1749434601,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 543650,
       "num": 543650,
       "word": "李昀锐不躲孟子义",
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479466,
+      "num": 479466,
+      "word": "中餐厅9收官",
+      "onboard_time": 1749439401,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463615,
       "num": 463615,
       "word": "洛杉矶全市进入战术警戒状态",
@@ -155,12 +163,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 452258,
+      "num": 452258,
+      "word": "终于知道东北为什么不宣传景区了",
+      "onboard_time": 1749436159,
+      "rank": 30,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 443898,
       "num": 255704,
       "word": "曝井柏然刘雯领证",
       "onboard_time": 1749374841,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427778,
+      "num": 427778,
+      "word": "好想活得像labubu一样啊",
+      "onboard_time": 1749437361,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 421263,
@@ -243,6 +267,38 @@
       "category": "财经"
     },
     {
+      "raw_hot": 321816,
+      "num": 321816,
+      "word": "临江仙播的好不好白月梵星最清楚",
+      "onboard_time": 1749437302,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314969,
+      "num": 314969,
+      "word": "新华社记者在洛杉矶中催泪弹",
+      "onboard_time": 1749437061,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 313887,
+      "num": 313887,
+      "word": "江西卷是要选拔门捷列夫吗",
+      "onboard_time": 1749438982,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 311291,
+      "num": 311291,
+      "word": "多地国补暂停或因618活动本身存在折扣",
+      "onboard_time": 1749437120,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305937,
       "num": 414241,
       "word": "BLACKPINK将于今年下半年正式回归",
@@ -283,6 +339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 273604,
+      "num": 314373,
+      "word": "男宝2",
+      "onboard_time": 1749436941,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273513,
       "num": 273513,
       "word": "面对面专访王楚钦",
@@ -299,12 +363,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257977,
-      "num": 166288,
-      "word": "终于知道东北为什么不宣传景区了",
-      "onboard_time": 1749436159,
+      "raw_hot": 267284,
+      "num": 267284,
+      "word": "山东小六科开始发力了",
+      "onboard_time": 1749439040,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 255096,
+      "num": 211808,
+      "word": "樊振东vs徐瑛彬",
+      "onboard_time": 1749439942,
       "rank": 30,
-      "category": "幽默,旅游"
+      "category": "体育"
     },
     {
       "raw_hot": 254910,
@@ -323,12 +395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235391,
+      "num": 200901,
+      "word": "原来正品质量这么差",
+      "onboard_time": 1749435921,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227506,
       "num": 277708,
       "word": "侯明昊黄杨钿甜雀骨七月开机",
       "onboard_time": 1749424879,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226888,
+      "num": 226888,
+      "word": "章子怡李现酱园弄演情人",
+      "onboard_time": 1749439882,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 214619,
@@ -347,14 +435,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 206006,
-      "num": 165976,
-      "word": "原来正品质量这么差",
-      "onboard_time": 1749435921,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 205037,
       "num": 349394,
       "word": "镖人",
@@ -371,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198949,
+      "num": 198949,
+      "word": "高考",
+      "onboard_time": 1749426201,
+      "rank": 47,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 193968,
       "num": 193968,
       "word": "1米97小伙用身体帮警察拦截逃窜男子",
@@ -385,6 +473,14 @@
       "onboard_time": 1749424641,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193253,
+      "num": 193253,
+      "word": "留几手发长文谈韦东奕",
+      "onboard_time": 1749439161,
+      "rank": 35,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 190103,
@@ -409,6 +505,14 @@
       "onboard_time": 1749392123,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186898,
+      "num": 226356,
+      "word": "酱园弄",
+      "onboard_time": 1749439582,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 181215,
@@ -491,12 +595,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160169,
+      "num": 160169,
+      "word": "秦始皇遣使昆仑山采仙药石锤证据来了",
+      "onboard_time": 1749437120,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156612,
       "num": 354340,
       "word": "黄霄雲新歌文案",
       "onboard_time": 1749432261,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154430,
+      "num": 163457,
+      "word": "乒超直播",
+      "onboard_time": 1749440063,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153234,
+      "num": 153234,
+      "word": "A股",
+      "onboard_time": 1749438741,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 151296,
@@ -547,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138627,
+      "num": 138627,
+      "word": "雷霆1比1步行者",
+      "onboard_time": 1749438141,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137560,
       "num": 137560,
       "word": "黄子韬真听不下去了",
@@ -569,6 +705,14 @@
       "onboard_time": 1749436101,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136590,
+      "num": 136590,
+      "word": "高考时间折磨我们学物化生的",
+      "onboard_time": 1749440421,
+      "rank": 43,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 136255,
@@ -627,11 +771,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131075,
+      "num": 131075,
+      "word": "东三省化学你要干嘛",
+      "onboard_time": 1749439281,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 128784,
       "num": 204304,
       "word": "俄首次攻入第聂伯罗彼得罗夫斯克",
       "onboard_time": 1749423858,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 128045,
+      "num": 128045,
+      "word": "王楚钦vs费浚航",
+      "onboard_time": 1749438741,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127767,
+      "num": 127767,
+      "word": "美22个民主党州长指责特朗普滥权",
+      "onboard_time": 1749437720,
+      "rank": 49,
       "category": "国际时政"
     },
     {
@@ -651,12 +819,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124333,
-      "num": 124333,
-      "word": "高考",
-      "onboard_time": 1749426201,
-      "rank": 47,
-      "category": "民生新闻,教育"
+      "raw_hot": 123431,
+      "num": 127810,
+      "word": "广东化学第一题有哪吒",
+      "onboard_time": 1749439221,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 122872,
@@ -867,6 +1035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75811,
+      "num": 312481,
+      "word": "贝克汉姆早C晚A",
+      "onboard_time": 1749438380,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74903,
       "num": 551531,
       "word": "联邦政府和加州陷入骂战",
@@ -905,6 +1081,14 @@
       "onboard_time": 1749422536,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62371,
+      "num": 166898,
+      "word": "这一幕吓坏美国记者",
+      "onboard_time": 1749439641,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61188,
@@ -947,12 +1131,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45207,
+      "num": 217846,
+      "word": "十秒钟学会落水自救方法",
+      "onboard_time": 1749439101,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40832,
       "num": 40832,
       "word": "未知的首尔",
       "onboard_time": 1749404296,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39423,
+      "num": 408523,
+      "word": "美洛杉矶抗议者与国民警卫队冲突现场",
+      "onboard_time": 1749439281,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36674,
@@ -1003,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29349,
+      "num": 311880,
+      "word": "近视手术能真正治愈近视吗",
+      "onboard_time": 1749439942,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 28561,
       "num": 28561,
       "word": "第17个世界海洋日",
@@ -1017,6 +1225,14 @@
       "onboard_time": 1749394763,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22075,
+      "num": 209042,
+      "word": "陆柯燃今日高考气象播报",
+      "onboard_time": 1749440362,
+      "rank": 31,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 21861,
