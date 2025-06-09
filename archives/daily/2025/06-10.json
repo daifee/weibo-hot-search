@@ -1,26 +1,26 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749511511213,
+  "endTime": 1749512387875,
   "band_list": [
     {
-      "raw_hot": 970316,
-      "num": 970316,
-      "word": "美国发现13具尸体疑连环杀手作案",
-      "onboard_time": 1749480802,
-      "rank": 0,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 963278,
-      "num": 963278,
+      "raw_hot": 1121291,
+      "num": 965526,
       "word": "北大将帮韦东奕积极治疗",
       "onboard_time": 1749483682,
       "rank": 6,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 990026,
+      "num": 991060,
+      "word": "美国发现13具尸体疑连环杀手作案",
+      "onboard_time": 1749480802,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 800123,
-      "num": 586508,
+      "num": 646343,
       "word": "程潇给前任发信息被秒回",
       "onboard_time": 1749472281,
       "rank": 3,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527450,
+      "num": 527450,
+      "word": "56岁男子停车失误致1死2伤",
+      "onboard_time": 1749503834,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 476073,
       "num": 265036,
       "word": "高考忘缴费了",
@@ -51,19 +59,27 @@
       "category": "教育"
     },
     {
-      "raw_hot": 456964,
-      "num": 456964,
-      "word": "56岁男子停车失误致1死2伤",
-      "onboard_time": 1749503834,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 440161,
       "num": 440161,
       "word": "易烊千玺被湖南高考家长安排得明明白白",
       "onboard_time": 1749484161,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361385,
+      "num": 361385,
+      "word": "小孩被天降乌龟砸死饲主判赔128万",
+      "onboard_time": 1749480082,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356838,
+      "num": 241394,
+      "word": "新房在小姑子名下准新娘直接退婚",
+      "onboard_time": 1749469940,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -83,14 +99,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 309911,
-      "num": 309911,
-      "word": "小孩被天降乌龟砸死饲主判赔128万",
-      "onboard_time": 1749480082,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306951,
       "num": 250790,
       "word": "张若昀拍的唐艺昕与女儿",
@@ -99,19 +107,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293099,
-      "num": 233918,
-      "word": "新房在小姑子名下准新娘直接退婚",
-      "onboard_time": 1749469940,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 279936,
       "num": 279936,
       "word": "高额彩礼成为影响结婚率重要因素之一",
       "onboard_time": 1749477623,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275545,
+      "num": 275545,
+      "word": "燃气公司招北大毕业生当抄表工",
+      "onboard_time": 1749489377,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -123,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245239,
-      "num": 245239,
-      "word": "燃气公司招北大毕业生当抄表工",
-      "onboard_time": 1749489377,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 268674,
+      "num": 268674,
+      "word": "苹果迄今规模最大设计更新",
+      "onboard_time": 1749512119,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 234213,
@@ -195,12 +203,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152439,
+      "num": 152439,
+      "word": "迪丽热巴满眼都是对身高的渴望",
+      "onboard_time": 1749475402,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152018,
       "num": 152018,
       "word": "乌无人机袭击俄军用机场和导弹工厂",
       "onboard_time": 1749486379,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144097,
+      "num": 144097,
+      "word": "众星鼓励尹正",
+      "onboard_time": 1749474860,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 139385,
@@ -211,28 +235,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135670,
+      "num": 113688,
+      "word": "197帅哥被浙大提前录取仍参加高考",
+      "onboard_time": 1749472281,
+      "rank": 41,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 124238,
       "num": 124238,
       "word": "樊振东3比1林高远",
       "onboard_time": 1749475161,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124059,
-      "num": 124201,
-      "word": "众星鼓励尹正",
-      "onboard_time": 1749474860,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 123278,
-      "num": 123278,
-      "word": "迪丽热巴满眼都是对身高的渴望",
-      "onboard_time": 1749475402,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 120075,
@@ -257,14 +273,6 @@
       "onboard_time": 1749478942,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109446,
-      "num": 109446,
-      "word": "197帅哥被浙大提前录取仍参加高考",
-      "onboard_time": 1749472281,
-      "rank": 41,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 108150,
@@ -315,12 +323,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101208,
+      "num": 233961,
+      "word": "给母亲磕头后他又跳湖救出第5人",
+      "onboard_time": 1749503113,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 98187,
       "num": 98187,
       "word": "方媛穿宽松连衣裙陪郭富城看赛马",
       "onboard_time": 1749485302,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98156,
+      "num": 98156,
+      "word": "洛杉矶",
+      "onboard_time": 1749460280,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94855,
@@ -337,6 +361,14 @@
       "onboard_time": 1749477203,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 90865,
+      "num": 90865,
+      "word": "Labubu99元挂件二手市场炒至3000元",
+      "onboard_time": 1749479604,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90767,
@@ -363,14 +395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87238,
-      "num": 87238,
-      "word": "洛杉矶",
-      "onboard_time": 1749460280,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 86133,
       "num": 98339,
       "word": "张远与大学生合唱仰望星云",
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 83263,
-      "num": 83263,
+      "num": 97893,
       "word": "肖战感谢大家陪藏海走过一程",
       "onboard_time": 1749490936,
       "rank": 28,
@@ -411,6 +435,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 81547,
+      "num": 81547,
+      "word": "杀害情人丈夫的谢光明被执行死刑",
+      "onboard_time": 1749498314,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80841,
+      "num": 80841,
+      "word": "多方回应制止男子拖拽女童大爷情况",
+      "onboard_time": 1749494715,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77083,
       "num": 77083,
       "word": "刘亦菲李沁中间这位女士",
@@ -419,28 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77025,
-      "num": 82738,
-      "word": "Labubu99元挂件二手市场炒至3000元",
-      "onboard_time": 1749479604,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76972,
       "num": 76972,
       "word": "平野美宇眼里全是对孙颖莎的崇拜",
       "onboard_time": 1749486559,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76900,
-      "num": 76900,
-      "word": "多方回应制止男子拖拽女童大爷情况",
-      "onboard_time": 1749494715,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76638,
@@ -459,11 +483,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72306,
-      "num": 72306,
-      "word": "杀害情人丈夫的谢光明被执行死刑",
-      "onboard_time": 1749498314,
-      "rank": 38,
+      "raw_hot": 72466,
+      "num": 72466,
+      "word": "作者回应外卖袋毕设走红",
+      "onboard_time": 1749509236,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -483,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66223,
-      "num": 233961,
-      "word": "给母亲磕头后他又跳湖救出第5人",
-      "onboard_time": 1749503113,
+      "raw_hot": 66798,
+      "num": 66798,
+      "word": "高考语文40分钟前被马蜂蛰了",
+      "onboard_time": 1749497534,
       "rank": 48,
-      "category": "正能量"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66122,
@@ -507,16 +531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61728,
-      "num": 61728,
-      "word": "作者回应外卖袋毕设走红",
-      "onboard_time": 1749509236,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61304,
-      "num": 61304,
+      "num": 81175,
       "word": "黄晓明说尹正特别好特别好特别好",
       "onboard_time": 1749487818,
       "rank": 49,
@@ -531,6 +547,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 55845,
+      "num": 56767,
+      "word": "Bin说能赢iG或WE",
+      "onboard_time": 1749512119,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 54471,
+      "num": 67200,
+      "word": "潜渊首播收视率",
+      "onboard_time": 1749512300,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53887,
       "num": 77667,
       "word": "长安的荔枝这段高考生别看",
@@ -539,12 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48328,
-      "num": 48328,
-      "word": "高考语文40分钟前被马蜂蛰了",
-      "onboard_time": 1749497534,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 48482,
+      "num": 101236,
+      "word": "直击中美经贸磋商机制首次会议",
+      "onboard_time": 1749511458,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 44773,
@@ -564,7 +596,7 @@
     },
     {
       "raw_hot": 42696,
-      "num": 50005,
+      "num": 56754,
       "word": "路人抓拍Angelababy",
       "onboard_time": 1749464000,
       "rank": 48,
@@ -585,14 +617,6 @@
       "onboard_time": 1749491656,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26965,
-      "num": 50005,
-      "word": "直击中美经贸磋商机制首次会议",
-      "onboard_time": 1749511458,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25690,
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 20555,
-      "num": 620711,
+      "num": 772023,
       "word": "万千气象看安徽",
       "onboard_time": 1749475463,
       "rank": 2,

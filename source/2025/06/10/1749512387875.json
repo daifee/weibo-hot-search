@@ -1,0 +1,410 @@
+{
+  "runTime": 1749512387875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 990026,
+        "num": 991060,
+        "word": "美国发现13具尸体疑连环杀手作案",
+        "onboard_time": 1749480802,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1121291,
+        "num": 965526,
+        "word": "北大将帮韦东奕积极治疗",
+        "onboard_time": 1749483682,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16890,
+        "num": 772023,
+        "word": "万千气象看安徽",
+        "onboard_time": 1749475463,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646343,
+        "num": 646343,
+        "word": "程潇给前任发信息被秒回",
+        "onboard_time": 1749472281,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527450,
+        "num": 527450,
+        "word": "56岁男子停车失误致1死2伤",
+        "onboard_time": 1749503834,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 361385,
+        "num": 361385,
+        "word": "小孩被天降乌龟砸死饲主判赔128万",
+        "onboard_time": 1749480082,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339230,
+        "num": 339230,
+        "word": "大爷5块钱买折叠沙发到手竟是支笔",
+        "onboard_time": 1749486140,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275545,
+        "num": 275545,
+        "word": "燃气公司招北大毕业生当抄表工",
+        "onboard_time": 1749489377,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268674,
+        "num": 268674,
+        "word": "苹果迄今规模最大设计更新",
+        "onboard_time": 1749512119,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171006,
+        "num": 245059,
+        "word": "李昀锐工作室致粉丝的一封信",
+        "onboard_time": 1749484340,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356838,
+        "num": 241394,
+        "word": "新房在小姑子名下准新娘直接退婚",
+        "onboard_time": 1749469940,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235745,
+        "num": 235745,
+        "word": "高考忘缴费了",
+        "onboard_time": 1749480982,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217042,
+        "num": 217042,
+        "word": "高额彩礼成为影响结婚率重要因素之一",
+        "onboard_time": 1749477623,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181633,
+        "num": 181633,
+        "word": "张若昀拍的唐艺昕与女儿",
+        "onboard_time": 1749473001,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159759,
+        "num": 159759,
+        "word": "樊振东回应战胜林高远",
+        "onboard_time": 1749504914,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152439,
+        "num": 152439,
+        "word": "迪丽热巴满眼都是对身高的渴望",
+        "onboard_time": 1749475402,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149813,
+        "num": 149813,
+        "word": "程潇前任",
+        "onboard_time": 1749476543,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144097,
+        "num": 144097,
+        "word": "众星鼓励尹正",
+        "onboard_time": 1749474860,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134036,
+        "num": 134036,
+        "word": "乌无人机袭击俄军用机场和导弹工厂",
+        "onboard_time": 1749486379,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115969,
+        "num": 115969,
+        "word": "李梦回应与刘亦菲李沁合照",
+        "onboard_time": 1749479482,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135670,
+        "num": 113688,
+        "word": "197帅哥被浙大提前录取仍参加高考",
+        "onboard_time": 1749472281,
+        "rank": 20,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 109100,
+        "num": 109100,
+        "word": "女子贷款4万花10万做医美崩溃",
+        "onboard_time": 1749487939,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102997,
+        "num": 102997,
+        "word": "骨科妇科医生推荐咳嗽药",
+        "onboard_time": 1749486739,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 101888,
+        "num": 101888,
+        "word": "Bin 闹剧结束了",
+        "onboard_time": 1749476723,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48482,
+        "num": 101236,
+        "word": "直击中美经贸磋商机制首次会议",
+        "onboard_time": 1749511458,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101208,
+        "num": 101208,
+        "word": "给母亲磕头后他又跳湖救出第5人",
+        "onboard_time": 1749503113,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 98156,
+        "num": 98156,
+        "word": "洛杉矶",
+        "onboard_time": 1749460280,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98045,
+        "num": 98045,
+        "word": "大学生网购10套古装表演后集体退货",
+        "onboard_time": 1749482902,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77836,
+        "num": 97893,
+        "word": "肖战感谢大家陪藏海走过一程",
+        "onboard_time": 1749490936,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65369,
+        "num": 97890,
+        "word": "者来女 歌手揭榜",
+        "onboard_time": 1749480143,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97887,
+        "num": 97887,
+        "word": "易烊千玺被湖南高考家长安排得明明白白",
+        "onboard_time": 1749484161,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90865,
+        "num": 90865,
+        "word": "Labubu99元挂件二手市场炒至3000元",
+        "onboard_time": 1749479604,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81580,
+        "num": 81580,
+        "word": "燃气公司回应招北大毕业生当抄表工",
+        "onboard_time": 1749507856,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81547,
+        "num": 81547,
+        "word": "杀害情人丈夫的谢光明被执行死刑",
+        "onboard_time": 1749498314,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51279,
+        "num": 81175,
+        "word": "黄晓明说尹正特别好特别好特别好",
+        "onboard_time": 1749487818,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80841,
+        "num": 80841,
+        "word": "多方回应制止男子拖拽女童大爷情况",
+        "onboard_time": 1749494715,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74423,
+        "num": 74423,
+        "word": "WWDC25有哪些看点",
+        "onboard_time": 1749489016,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72466,
+        "num": 72466,
+        "word": "作者回应外卖袋毕设走红",
+        "onboard_time": 1749509236,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69708,
+        "num": 69708,
+        "word": "余庆伟道歉",
+        "onboard_time": 1749483142,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 54471,
+        "num": 67200,
+        "word": "潜渊首播收视率",
+        "onboard_time": 1749512300,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66798,
+        "num": 66798,
+        "word": "高考语文40分钟前被马蜂蛰了",
+        "onboard_time": 1749497534,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66601,
+        "num": 66601,
+        "word": "iOS26或引入液态玻璃设计",
+        "onboard_time": 1749490037,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65185,
+        "num": 65185,
+        "word": "曝iOS26是半成品",
+        "onboard_time": 1749484761,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 57635,
+        "num": 57635,
+        "word": "山东考生说高考结束该让爹妈歇歇了",
+        "onboard_time": 1749459921,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56767,
+        "num": 56767,
+        "word": "华为广告 黑尾蜡嘴雀",
+        "onboard_time": 1749485840,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55845,
+        "num": 56767,
+        "word": "Bin说能赢iG或WE",
+        "onboard_time": 1749512119,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52149,
+        "num": 56763,
+        "word": "长安的荔枝这段高考生别看",
+        "onboard_time": 1749507374,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45524,
+        "num": 56757,
+        "word": "宋亚轩 LV",
+        "onboard_time": 1749469401,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 42110,
+        "num": 56755,
+        "word": "樊振东3比1林高远",
+        "onboard_time": 1749475161,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39809,
+        "num": 56754,
+        "word": "路人抓拍Angelababy",
+        "onboard_time": 1749464000,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步关心海洋认识海洋经略海洋#"
+    }
+  }
+}
