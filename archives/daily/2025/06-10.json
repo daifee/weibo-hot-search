@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749494956952,
+  "endTime": 1749496904864,
   "band_list": [
     {
       "raw_hot": 970316,
@@ -585,6 +585,14 @@
       "onboard_time": 1749487158,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16039,
+      "num": 20123,
+      "word": "高考政治逻辑题",
+      "onboard_time": 1749496694,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 12570,

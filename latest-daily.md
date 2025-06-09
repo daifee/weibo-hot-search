@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/10 00:34:09 ~ 2025/06/10 02:49:16
+本榜单时间：2025/06/10 00:34:09 ~ 2025/06/10 03:21:44
 </p>
 </blockquote>
 <p>
@@ -449,6 +449,12 @@ AL战胜BLG（热度：66122）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%A7%B0%E9%98%BB%E6%8B%A6%E6%97%A0%E7%A5%A8%E7%88%B6%E4%BA%B2%E5%85%A5%E5%9B%AD%E6%B2%A1%E6%9C%89%E9%94%99%23" target="weibo">
 景区称阻拦无票父亲入园没有错（热度：16241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%94%BF%E6%B2%BB%E9%80%BB%E8%BE%91%E9%A2%98%23" target="weibo">
+高考政治逻辑题（热度：16039）
 </a>
 </li>
 
