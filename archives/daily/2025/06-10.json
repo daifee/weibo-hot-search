@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749504308413,
+  "endTime": 1749505237208,
   "band_list": [
     {
       "raw_hot": 970316,
@@ -483,12 +483,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 37516,
+      "raw_hot": 37920,
       "num": 42185,
       "word": "肖战感谢大家陪藏海走过一程",
       "onboard_time": 1749490936,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37380,
+      "num": 40524,
+      "word": "56岁男子停车失误致1死2伤",
+      "onboard_time": 1749503834,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 36683,
@@ -571,20 +579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20002,
-      "num": 40524,
-      "word": "56岁男子停车失误致1死2伤",
-      "onboard_time": 1749503834,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 18916,
       "num": 18916,
       "word": "高考语文40分钟前被马蜂蛰了",
       "onboard_time": 1749497534,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18666,
+      "num": 18666,
+      "word": "樊振东回应战胜林高远",
+      "onboard_time": 1749504914,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 16802,
@@ -635,20 +643,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 13255,
-      "num": 15706,
-      "word": "抗议者说派军队对付我们有必要吗",
-      "onboard_time": 1749503054,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 13237,
-      "num": 15706,
+      "raw_hot": 14443,
+      "num": 18620,
       "word": "给母亲磕头后他又跳湖救出第5人",
       "onboard_time": 1749503113,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 13255,
+      "num": 18602,
+      "word": "抗议者说派军队对付我们有必要吗",
+      "onboard_time": 1749503054,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13030,
