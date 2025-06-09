@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749462203267,
+  "endTime": 1749464975886,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -251,6 +251,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 1125258,
+      "num": 1180041,
+      "word": "高考结束",
+      "onboard_time": 1749461781,
+      "rank": 26,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 1114074,
       "num": 354170,
       "word": "历史给我道歉",
@@ -291,6 +299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1017804,
+      "num": 1017804,
+      "word": "尚公主 孟子义李昀锐",
+      "onboard_time": 1749461540,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 997160,
       "num": 997160,
       "word": "李昀锐孟子义再去演一遍微微一笑很倾城",
@@ -305,6 +321,14 @@
       "onboard_time": 1749397222,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 993191,
+      "num": 993191,
+      "word": "高考生物",
+      "onboard_time": 1749462442,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 983657,
@@ -377,6 +401,14 @@
       "onboard_time": 1749387561,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 890368,
+      "num": 890368,
+      "word": "星巴克降价",
+      "onboard_time": 1749458602,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 878015,
@@ -500,7 +532,7 @@
     },
     {
       "raw_hot": 744456,
-      "num": 294658,
+      "num": 442319,
       "word": "婚检",
       "onboard_time": 1749457822,
       "rank": 32,
@@ -601,6 +633,14 @@
       "onboard_time": 1749430222,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 632143,
+      "num": 388612,
+      "word": "洛杉矶",
+      "onboard_time": 1749460280,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 627177,
@@ -707,14 +747,6 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 572569,
-      "num": 287142,
-      "word": "洛杉矶",
-      "onboard_time": 1749460280,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 567672,
       "num": 567672,
       "word": "新中式还得是张柏芝",
@@ -753,14 +785,6 @@
       "onboard_time": 1749361040,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 552927,
-      "num": 552927,
-      "word": "星巴克降价",
-      "onboard_time": 1749458602,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 550536,
@@ -849,6 +873,14 @@
       "onboard_time": 1749437361,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 508323,
+      "num": 508323,
+      "word": "山东考生说高考结束该让爹妈歇歇了",
+      "onboard_time": 1749459921,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 506808,
@@ -1099,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 402463,
-      "num": 402463,
-      "word": "尚公主 孟子义李昀锐",
-      "onboard_time": 1749461540,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 399371,
       "num": 492924,
       "word": "肖战说爸妈生的好",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1749389183,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384353,
+      "num": 384353,
+      "word": "王楚钦樊振东上次交手还是在去年乒超",
+      "onboard_time": 1749461361,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 384243,
@@ -1395,12 +1427,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 343299,
-      "num": 291842,
-      "word": "山东考生说高考结束该让爹妈歇歇了",
-      "onboard_time": 1749459921,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 343113,
+      "num": 460473,
+      "word": "张凌赫正式确诊为上头男",
+      "onboard_time": 1749462142,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 340553,
+      "num": 287473,
+      "word": "路人抓拍Angelababy",
+      "onboard_time": 1749464000,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 339505,
@@ -1412,7 +1452,7 @@
     },
     {
       "raw_hot": 337587,
-      "num": 337587,
+      "num": 426758,
       "word": "杨幂非遗封面",
       "onboard_time": 1749458780,
       "rank": 35,
@@ -1484,7 +1524,7 @@
     },
     {
       "raw_hot": 328289,
-      "num": 284438,
+      "num": 285391,
       "word": "肖战我都33了",
       "onboard_time": 1749457461,
       "rank": 28,
@@ -1611,6 +1651,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 303365,
+      "num": 454329,
+      "word": "马斯克的星链卫星接连坠落",
+      "onboard_time": 1749460641,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 298573,
       "num": 370716,
       "word": "黄圣依向往进入下一段婚姻",
@@ -1657,14 +1705,6 @@
       "onboard_time": 1749446063,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292279,
-      "num": 313558,
-      "word": "马斯克的星链卫星接连坠落",
-      "onboard_time": 1749460641,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 292155,
@@ -1715,12 +1755,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 288087,
+      "num": 288087,
+      "word": "甲状腺好的3个常见表现",
+      "onboard_time": 1749461361,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 286941,
       "num": 286941,
       "word": "美海军陆战队待命或被派往洛杉矶",
       "onboard_time": 1749441501,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 286617,
+      "num": 436555,
+      "word": "肖战贴加官手抖了",
+      "onboard_time": 1749461182,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 285629,
@@ -1809,6 +1865,14 @@
       "onboard_time": 1749440843,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273531,
+      "num": 273531,
+      "word": "泡泡玛特股价2024年至今涨幅超11倍",
+      "onboard_time": 1749464060,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 273475,
@@ -1987,14 +2051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254469,
-      "num": 254469,
-      "word": "高考结束",
-      "onboard_time": 1749461781,
-      "rank": 26,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 253530,
       "num": 253530,
       "word": "许昕3比1徐瑛彬",
@@ -2115,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234739,
+      "num": 434724,
+      "word": "让王安宇曾黎演母子的简直是天才",
+      "onboard_time": 1749462501,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233638,
       "num": 233638,
       "word": "樊振东11比7闫安",
@@ -2225,14 +2289,6 @@
       "onboard_time": 1749436822,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 223789,
-      "num": 282073,
-      "word": "肖战贴加官手抖了",
-      "onboard_time": 1749461182,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 223625,
@@ -2355,12 +2411,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212003,
-      "num": 212003,
-      "word": "王楚钦樊振东上次交手还是在去年乒超",
-      "onboard_time": 1749461361,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 212479,
+      "num": 424406,
+      "word": "宋佳宁泽涛合照",
+      "onboard_time": 1749462682,
+      "rank": 15,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 211485,
+      "num": 283467,
+      "word": "发工资不让干活是一种新型诈骗",
+      "onboard_time": 1749463460,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211148,
@@ -2547,6 +2611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199932,
+      "num": 450107,
+      "word": "红的直接免单",
+      "onboard_time": 1749463581,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199036,
       "num": 199036,
       "word": "白鹿扛剧能力",
@@ -2617,6 +2689,14 @@
       "onboard_time": 1749450021,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196657,
+      "num": 196657,
+      "word": "严浩翔演唱会不提受伤的原因",
+      "onboard_time": 1749464601,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 196585,
@@ -2955,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183208,
+      "num": 183208,
+      "word": "煮粽子没开抽油烟机夫妻俩均中毒",
+      "onboard_time": 1749464722,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183162,
       "num": 234817,
       "word": "蒯曼平野美宇3比1刘炜珊何卓佳",
@@ -2995,6 +3083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181121,
+      "num": 281768,
+      "word": "祝绪丹回应成团",
+      "onboard_time": 1749463700,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180987,
       "num": 180987,
       "word": "易烊千玺楔木上线",
@@ -3017,6 +3113,14 @@
       "onboard_time": 1749313283,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179999,
+      "num": 179999,
+      "word": "父亲举张凌赫立牌接高考女儿",
+      "onboard_time": 1749464480,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178847,
@@ -3252,7 +3356,7 @@
     },
     {
       "raw_hot": 169140,
-      "num": 163967,
+      "num": 275829,
       "word": "新建改扩建1000所以上优质普通高中",
       "onboard_time": 1749461902,
       "rank": 42,
@@ -3347,12 +3451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166640,
-      "num": 166640,
-      "word": "甲状腺好的3个常见表现",
-      "onboard_time": 1749461361,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 166064,
+      "num": 166064,
+      "word": "毛利小五郎时隔20年再当主役",
+      "onboard_time": 1749462682,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 165940,
@@ -3441,6 +3545,14 @@
       "onboard_time": 1749453560,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164087,
+      "num": 212518,
+      "word": "瑞典环保少女称遭以军绑架",
+      "onboard_time": 1749461902,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164051,
@@ -3617,6 +3729,14 @@
       "onboard_time": 1749364819,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159274,
+      "num": 159274,
+      "word": "李晟浪姐意难平",
+      "onboard_time": 1749464361,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 159261,
@@ -3835,6 +3955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150248,
+      "num": 150248,
+      "word": "谁把江西自主命题权收了",
+      "onboard_time": 1749463161,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 149610,
       "num": 149610,
       "word": "广东物理大题",
@@ -3849,14 +3977,6 @@
       "onboard_time": 1749366080,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149139,
-      "num": 212518,
-      "word": "瑞典环保少女称遭以军绑架",
-      "onboard_time": 1749461902,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 148895,
@@ -3913,6 +4033,14 @@
       "onboard_time": 1749367940,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147305,
+      "num": 147305,
+      "word": "SMTR25墨西哥旅行照",
+      "onboard_time": 1749464902,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 147221,
@@ -4107,11 +4235,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 142331,
+      "num": 142331,
+      "word": "女生被高考题目难出苦瓜脸",
+      "onboard_time": 1749464000,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141925,
       "num": 141925,
       "word": "藏海传里的蛇眉铜鱼真的存在吗",
       "onboard_time": 1749310042,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141896,
+      "num": 156247,
+      "word": "雀骨 侯明昊代露娃",
+      "onboard_time": 1749463460,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -4675,14 +4819,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 123666,
-      "num": 123666,
-      "word": "张凌赫正式确诊为上头男",
-      "onboard_time": 1749462142,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123431,
       "num": 127810,
       "word": "广东化学第一题有哪吒",
@@ -4777,6 +4913,14 @@
       "onboard_time": 1749360982,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119854,
+      "num": 403514,
+      "word": "加大保障性住房供给",
+      "onboard_time": 1749463460,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 119797,
@@ -5275,6 +5419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86522,
+      "num": 397414,
+      "word": "中国汽车文化走向全球",
+      "onboard_time": 1749464660,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 86298,
       "num": 167864,
       "word": "小车送去保养店家开上路撞报废",
@@ -5409,6 +5561,14 @@
       "onboard_time": 1749442223,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 72469,
+      "num": 274561,
+      "word": "对符合条件高校毕业生予以社保补贴",
+      "onboard_time": 1749463101,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72448,
@@ -5552,6 +5712,14 @@
       "word": "公司高管规定上班照镜子罚款",
       "onboard_time": 1749449063,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62170,
+      "num": 409649,
+      "word": "北大工会称无给员工派生活助理先例",
+      "onboard_time": 1749464000,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -5987,6 +6155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38209,
+      "num": 1025027,
+      "word": "大国工程交出亮眼成绩单",
+      "onboard_time": 1749462142,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38128,
       "num": 128209,
       "word": "国乒众将抵达雄安备战乒超",
@@ -6107,6 +6283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 33131,
+      "num": 172138,
+      "word": "光遇",
+      "onboard_time": 1749464122,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33129,
       "num": 108919,
       "word": "加州蒙面人敲碎砖头攻击警察",
@@ -6129,6 +6313,14 @@
       "onboard_time": 1749390683,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 32617,
+      "num": 419810,
+      "word": "慕思金管家创除螨世界纪录",
+      "onboard_time": 1749464060,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32552,
@@ -6273,6 +6465,14 @@
       "onboard_time": 1749407655,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21836,
+      "num": 280167,
+      "word": "当古代文科学霸穿越回高考",
+      "onboard_time": 1749464541,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21771,
@@ -6425,6 +6625,14 @@
       "onboard_time": 1749327554,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17513,
+      "num": 411124,
+      "word": "筷子多久换一次",
+      "onboard_time": 1749463881,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17206,
@@ -6592,14 +6800,6 @@
       "word": "家族第四代护边人",
       "onboard_time": 1749454762,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5828,
-      "num": 572178,
-      "word": "大国工程交出亮眼成绩单",
-      "onboard_time": 1749462142,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],
