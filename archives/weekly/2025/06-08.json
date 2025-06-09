@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749487834849,
+  "endTime": 1749489799148,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -843,6 +843,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 587913,
+      "num": 587913,
+      "word": "北大将帮韦东奕积极治疗",
+      "onboard_time": 1749483682,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587510,
       "num": 493333,
       "word": "张小婉开麦 宋妍霏闭麦",
@@ -913,14 +921,6 @@
       "onboard_time": 1749377422,
       "rank": 8,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 570042,
-      "num": 570042,
-      "word": "北大将帮韦东奕积极治疗",
-      "onboard_time": 1749483682,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 567672,
@@ -6035,6 +6035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112365,
+      "num": 112365,
+      "word": "女子贷款4万花10万做医美崩溃",
+      "onboard_time": 1749487939,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112069,
       "num": 233842,
       "word": "家长带马嘉祺人形立牌接考生",
@@ -6145,6 +6153,14 @@
       "onboard_time": 1749342558,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104751,
+      "num": 104751,
+      "word": "黄霄雲新歌文案争议是谁的锅",
+      "onboard_time": 1749488178,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 104623,
@@ -6491,6 +6507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 81723,
+      "num": 81723,
+      "word": "WWDC25有哪些看点",
+      "onboard_time": 1749489016,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 80873,
       "num": 377680,
       "word": "涉不防晒的防晒衣企业多年0人参保",
@@ -6617,6 +6641,14 @@
       "onboard_time": 1749398604,
       "rank": 44,
       "category": "正能量,教育"
+    },
+    {
+      "raw_hot": 71926,
+      "num": 89596,
+      "word": "李昀锐就是言尚本尚",
+      "onboard_time": 1749489197,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 70485,
@@ -6785,6 +6817,14 @@
       "onboard_time": 1749449063,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61829,
+      "num": 149156,
+      "word": "骨科妇科医生推荐咳嗽药",
+      "onboard_time": 1749486739,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 61683,
@@ -7017,14 +7057,6 @@
       "onboard_time": 1749431361,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50418,
-      "num": 149156,
-      "word": "骨科妇科医生推荐咳嗽药",
-      "onboard_time": 1749486739,
-      "rank": 35,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 50002,
@@ -7435,6 +7467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36321,
+      "num": 101238,
+      "word": "燃气公司招北大毕业生当抄表工",
+      "onboard_time": 1749489377,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35992,
       "num": 681051,
       "word": "万千气象看安徽",
@@ -7747,6 +7787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22707,
+      "num": 89256,
+      "word": "美抗议者遭警方马匹暴力踩踏",
+      "onboard_time": 1749488657,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22211,
       "num": 120110,
       "word": "特朗普马斯克分手NASA躺枪",
@@ -7945,6 +7993,14 @@
       "onboard_time": 1749373881,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18044,
+      "num": 112672,
+      "word": "曲沃县一货车发生交通事故致3死6伤",
+      "onboard_time": 1749489077,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17862,

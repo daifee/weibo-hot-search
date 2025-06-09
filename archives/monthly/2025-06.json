@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749487834849,
+  "endTime": 1749489799148,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -3499,6 +3499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 587913,
+      "num": 587913,
+      "word": "北大将帮韦东奕积极治疗",
+      "onboard_time": 1749483682,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587510,
       "num": 493333,
       "word": "张小婉开麦 宋妍霏闭麦",
@@ -3697,14 +3705,6 @@
       "onboard_time": 1749044783,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 570042,
-      "num": 570042,
-      "word": "北大将帮韦东奕积极治疗",
-      "onboard_time": 1749483682,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 569927,
@@ -22979,6 +22979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112365,
+      "num": 112365,
+      "word": "女子贷款4万花10万做医美崩溃",
+      "onboard_time": 1749487939,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112331,
       "num": 112331,
       "word": "王钰栋 国足希望",
@@ -23881,6 +23889,14 @@
       "onboard_time": 1748759481,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104751,
+      "num": 104751,
+      "word": "黄霄雲新歌文案争议是谁的锅",
+      "onboard_time": 1749488178,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 104713,
@@ -26147,6 +26163,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 81723,
+      "num": 81723,
+      "word": "WWDC25有哪些看点",
+      "onboard_time": 1749489016,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 81571,
       "num": 148704,
       "word": "天猫蛋仔梦幻联动",
@@ -26920,6 +26944,14 @@
       "word": "未可别太宠白鹿了",
       "onboard_time": 1749197122,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71926,
+      "num": 89596,
+      "word": "李昀锐就是言尚本尚",
+      "onboard_time": 1749489197,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -27737,6 +27769,14 @@
       "onboard_time": 1748968459,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61829,
+      "num": 149156,
+      "word": "骨科妇科医生推荐咳嗽药",
+      "onboard_time": 1749486739,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 61683,
@@ -28753,14 +28793,6 @@
       "onboard_time": 1749096141,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 50418,
-      "num": 149156,
-      "word": "骨科妇科医生推荐咳嗽药",
-      "onboard_time": 1749486739,
-      "rank": 35,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 50402,
@@ -30385,6 +30417,14 @@
       "onboard_time": 1749447680,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 36321,
+      "num": 101238,
+      "word": "燃气公司招北大毕业生当抄表工",
+      "onboard_time": 1749489377,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36076,
@@ -32107,6 +32147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 22707,
+      "num": 89256,
+      "word": "美抗议者遭警方马匹暴力踩踏",
+      "onboard_time": 1749488657,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22636,
       "num": 139477,
       "word": "全校为高三生准备了场停电惊喜",
@@ -32801,6 +32849,14 @@
       "onboard_time": 1749199942,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 18044,
+      "num": 112672,
+      "word": "曲沃县一货车发生交通事故致3死6伤",
+      "onboard_time": 1749489077,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17996,

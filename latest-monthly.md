@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/10 00:50:34
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/10 01:23:19
 </p>
 </blockquote>
 <p>
@@ -2637,6 +2637,12 @@ twice（热度：611330）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%B0%86%E5%B8%AE%E9%9F%A6%E4%B8%9C%E5%A5%95%E7%A7%AF%E6%9E%81%E6%B2%BB%E7%96%97%23" target="weibo">
+北大将帮韦东奕积极治疗（热度：587913）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E5%A9%89%E5%BC%80%E9%BA%A6%20%E5%AE%8B%E5%A6%8D%E9%9C%8F%E9%97%AD%E9%BA%A6%23" target="weibo">
 张小婉开麦 宋妍霏闭麦（热度：587510）
 </a>
@@ -2783,12 +2789,6 @@ GAI 大白嗓（热度：583445）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%8C%BB%E7%94%9F%E8%BF%94%E4%B9%A1%E8%AE%B0%20%E8%82%96%E6%88%98%23" target="weibo">
 刘医生返乡记 肖战（热度：571992）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%B0%86%E5%B8%AE%E9%9F%A6%E4%B8%9C%E5%A5%95%E7%A7%AF%E6%9E%81%E6%B2%BB%E7%96%97%23" target="weibo">
-北大将帮韦东奕积极治疗（热度：570042）
 </a>
 </li>
 
