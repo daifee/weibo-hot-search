@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749443877554,
+  "endTime": 1749444753617,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -43,6 +43,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2532489,
+      "num": 2532489,
+      "word": "高考地理",
+      "onboard_time": 1749441681,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2405502,
       "num": 469748,
       "word": "李艺彤没成团",
@@ -57,14 +65,6 @@
       "onboard_time": 1749395063,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2059912,
-      "num": 2059912,
-      "word": "高考地理",
-      "onboard_time": 1749441681,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 2059868,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1397153,
+      "num": 1397153,
+      "word": "樊振东vs徐瑛彬",
+      "onboard_time": 1749439942,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1394878,
       "num": 850859,
       "word": "女孩试裤子店员提醒肚子大查出肿瘤",
@@ -201,14 +209,6 @@
       "onboard_time": 1749424279,
       "rank": 20,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 1158311,
-      "num": 1158311,
-      "word": "樊振东vs徐瑛彬",
-      "onboard_time": 1749439942,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1114074,
@@ -363,6 +363,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 827456,
+      "num": 827456,
+      "word": "洛杉矶乱成一锅粥",
+      "onboard_time": 1749442762,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 803272,
       "num": 803272,
       "word": "韦神的牙齿不是他一个人的事",
@@ -377,6 +385,14 @@
       "onboard_time": 1749353182,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 782687,
+      "num": 782687,
+      "word": "藏海传逆跌",
+      "onboard_time": 1749434601,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 780968,
@@ -401,14 +417,6 @@
       "onboard_time": 1749434779,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 744832,
-      "num": 744832,
-      "word": "藏海传逆跌",
-      "onboard_time": 1749434601,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 724901,
@@ -473,6 +481,14 @@
       "onboard_time": 1749430222,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 622083,
+      "num": 622083,
+      "word": "留几手发长文谈韦东奕",
+      "onboard_time": 1749439161,
+      "rank": 35,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 621868,
@@ -579,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 558927,
+      "num": 558927,
+      "word": "新中式还得是张柏芝",
+      "onboard_time": 1749442644,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556779,
       "num": 556779,
       "word": "浪姐奖杯 丑",
@@ -601,14 +625,6 @@
       "onboard_time": 1749365541,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 546984,
-      "num": 546984,
-      "word": "留几手发长文谈韦东奕",
-      "onboard_time": 1749439161,
-      "rank": 35,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 543650,
@@ -651,8 +667,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 513033,
-      "num": 513033,
+      "raw_hot": 517843,
+      "num": 517843,
+      "word": "日本火箭发射5秒后爆炸",
+      "onboard_time": 1749441742,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 515858,
+      "num": 515858,
       "word": "江西卷是要选拔门捷列夫吗",
       "onboard_time": 1749438982,
       "rank": 17,
@@ -771,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 445403,
+      "num": 506096,
+      "word": "章子怡拒绝白凯南演纣王",
+      "onboard_time": 1749443303,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437814,
       "num": 467342,
       "word": "洛杉矶骚乱后纽约也乱了",
@@ -843,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 402200,
-      "num": 503861,
-      "word": "洛杉矶乱成一锅粥",
-      "onboard_time": 1749442762,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 398287,
       "num": 550468,
       "word": "网传赴山海找了杨肸子换脸",
@@ -897,14 +921,6 @@
       "onboard_time": 1749313823,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 388362,
-      "num": 494571,
-      "word": "新中式还得是张柏芝",
-      "onboard_time": 1749442644,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 385537,
@@ -1059,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355601,
-      "num": 355601,
-      "word": "日本火箭发射5秒后爆炸",
-      "onboard_time": 1749441742,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 352893,
       "num": 352893,
       "word": "抗癌患者一条评论救活面包店",
@@ -1115,6 +1123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 339505,
+      "num": 339505,
+      "word": "有些Labubu一出生就在罗马",
+      "onboard_time": 1749443962,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 334482,
       "num": 334482,
       "word": "张嘉元杨雨潼吻戏",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1749361522,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 325636,
+      "num": 325636,
+      "word": "山东政治",
+      "onboard_time": 1749444564,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 323872,
@@ -1204,7 +1228,7 @@
     },
     {
       "raw_hot": 310988,
-      "num": 494465,
+      "num": 502601,
       "word": "章子怡李现酱园弄演情人",
       "onboard_time": 1749439882,
       "rank": 26,
@@ -1268,7 +1292,7 @@
     },
     {
       "raw_hot": 295484,
-      "num": 507525,
+      "num": 570746,
       "word": "冲绳美军基地发生爆炸",
       "onboard_time": 1749441442,
       "rank": 11,
@@ -1313,6 +1337,14 @@
       "onboard_time": 1749368423,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290283,
+      "num": 290283,
+      "word": "BW",
+      "onboard_time": 1749444083,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 289456,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1749392544,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267906,
+      "num": 492924,
+      "word": "肖战说爸妈生的好",
+      "onboard_time": 1749443843,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 267493,
@@ -1659,6 +1699,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 236916,
+      "num": 236916,
+      "word": "恋与深空",
+      "onboard_time": 1749444262,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 236734,
       "num": 81948,
       "word": "李晟成团",
@@ -1681,6 +1729,14 @@
       "onboard_time": 1749387264,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230475,
+      "num": 406695,
+      "word": "特朗普称决不允许国家撕裂",
+      "onboard_time": 1749442402,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 230247,
@@ -1731,14 +1787,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 223010,
-      "num": 223010,
-      "word": "特朗普称决不允许国家撕裂",
-      "onboard_time": 1749442402,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 222854,
       "num": 222854,
       "word": "高考第二天",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1749305244,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221177,
+      "num": 246010,
+      "word": "TFBOYS为易烊千玺楔石打call",
+      "onboard_time": 1749444262,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 219982,
@@ -1809,14 +1865,6 @@
       "onboard_time": 1749374541,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213594,
-      "num": 292043,
-      "word": "章子怡拒绝白凯南演纣王",
-      "onboard_time": 1749443303,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 211148,
@@ -1963,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202136,
+      "num": 202136,
+      "word": "高考地理 玄学",
+      "onboard_time": 1749444564,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201705,
       "num": 258730,
       "word": "付辛博去看张新成音乐剧",
@@ -2057,6 +2113,14 @@
       "onboard_time": 1749385942,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193980,
+      "num": 231342,
+      "word": "披荆斩棘",
+      "onboard_time": 1749444564,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 193707,
@@ -2291,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183162,
+      "num": 234817,
+      "word": "蒯曼平野美宇3比1刘炜珊何卓佳",
+      "onboard_time": 1749444024,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181470,
       "num": 181470,
       "word": "侯佩岑在线找工作",
@@ -2409,14 +2481,6 @@
       "onboard_time": 1749354082,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 172681,
-      "num": 172681,
-      "word": "肖战说爸妈生的好",
-      "onboard_time": 1749443843,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 172618,
@@ -3603,6 +3667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128225,
+      "num": 479525,
+      "word": "京东拍卖的家具值北京一套房",
+      "onboard_time": 1749444202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128045,
       "num": 128045,
       "word": "王楚钦vs费浚航",
@@ -4243,6 +4315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86065,
+      "num": 235068,
+      "word": "美国骚乱或成加州州长的机会",
+      "onboard_time": 1749442882,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84966,
       "num": 138472,
       "word": "洛杉矶骚乱后特朗普发声",
@@ -4337,14 +4417,6 @@
       "onboard_time": 1749339378,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74029,
-      "num": 227361,
-      "word": "美国骚乱或成加州州长的机会",
-      "onboard_time": 1749442882,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 73506,
@@ -4547,6 +4619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57351,
+      "num": 1084922,
+      "word": "祝高考生的梦想破土生花",
+      "onboard_time": 1749442762,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57336,
       "num": 1003339,
       "word": "我国海洋经济登上新台阶",
@@ -4609,14 +4689,6 @@
       "onboard_time": 1749396623,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 54093,
-      "num": 1014336,
-      "word": "祝高考生的梦想破土生花",
-      "onboard_time": 1749442762,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 53047,
@@ -5171,6 +5243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14520,
+      "num": 282626,
+      "word": "女性遭遇职场性骚扰后可认定工伤",
+      "onboard_time": 1749444683,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14117,
       "num": 261672,
       "word": "网友称婚检有严重疾病必须告知",
@@ -5240,6 +5320,14 @@
       "word": "经常熬夜不利于降低体脂吗",
       "onboard_time": 1749393144,
       "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 8218,
+      "num": 285895,
+      "word": "劣质防晒衣会损伤皮肤吗",
+      "onboard_time": 1749444683,
+      "rank": 29,
       "category": "健康医疗"
     },
     {

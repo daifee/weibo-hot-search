@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749443877554,
+  "endTime": 1749444753617,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -283,6 +283,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 2532489,
+      "num": 2532489,
+      "word": "高考地理",
+      "onboard_time": 1749441681,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2511180,
       "num": 2511180,
       "word": "男友哽咽还原女友三亚被咬身亡过程",
@@ -353,14 +361,6 @@
       "onboard_time": 1748921181,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2059912,
-      "num": 2059912,
-      "word": "高考地理",
-      "onboard_time": 1749441681,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 2059868,
@@ -721,6 +721,14 @@
       "onboard_time": 1749389784,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1397153,
+      "num": 1397153,
+      "word": "樊振东vs徐瑛彬",
+      "onboard_time": 1749439942,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1394878,
@@ -1144,14 +1152,6 @@
       "word": "王楚钦说孙颖莎有她成功的道理",
       "onboard_time": 1749305302,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1158311,
-      "num": 1158311,
-      "word": "樊振东vs徐瑛彬",
-      "onboard_time": 1749439942,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -1899,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 827456,
+      "num": 827456,
+      "word": "洛杉矶乱成一锅粥",
+      "onboard_time": 1749442762,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 820113,
       "num": 820113,
       "word": "卡琳娜的婆婆来了",
@@ -2091,6 +2099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 782687,
+      "num": 782687,
+      "word": "藏海传逆跌",
+      "onboard_time": 1749434601,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 782316,
       "num": 519185,
       "word": "陈乔恩全身针雕保养法引热议",
@@ -2225,14 +2241,6 @@
       "onboard_time": 1748785761,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 744832,
-      "num": 744832,
-      "word": "藏海传逆跌",
-      "onboard_time": 1749434601,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 740238,
@@ -2851,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 622083,
+      "num": 622083,
+      "word": "留几手发长文谈韦东奕",
+      "onboard_time": 1749439161,
+      "rank": 35,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 622003,
       "num": 546081,
       "word": "皇上藏海 我们好像在哪儿见过",
@@ -3411,6 +3427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 558927,
+      "num": 558927,
+      "word": "新中式还得是张柏芝",
+      "onboard_time": 1749442644,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 558235,
       "num": 558235,
       "word": "缺氧离世卡车司机已下葬卡友发声",
@@ -3497,14 +3521,6 @@
       "onboard_time": 1749183861,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 546984,
-      "num": 546984,
-      "word": "留几手发长文谈韦东奕",
-      "onboard_time": 1749439161,
-      "rank": 35,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 545255,
@@ -3715,6 +3731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 517843,
+      "num": 517843,
+      "word": "日本火箭发射5秒后爆炸",
+      "onboard_time": 1749441742,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 517819,
       "num": 517819,
       "word": "步行者vs雷霆",
@@ -3731,6 +3755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 515858,
+      "num": 515858,
+      "word": "江西卷是要选拔门捷列夫吗",
+      "onboard_time": 1749438982,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 514024,
       "num": 288959,
       "word": "在哈佛演讲中国女生陷入两难",
@@ -3745,14 +3777,6 @@
       "onboard_time": 1749272603,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 513033,
-      "num": 513033,
-      "word": "江西卷是要选拔门捷列夫吗",
-      "onboard_time": 1749438982,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 512494,
@@ -4507,6 +4531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445403,
+      "num": 506096,
+      "word": "章子怡拒绝白凯南演纣王",
+      "onboard_time": 1749443303,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445177,
       "num": 445177,
       "word": "男子被毒蛇咬伤忍痛去抓又来一口",
@@ -4963,14 +4995,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 402200,
-      "num": 503861,
-      "word": "洛杉矶乱成一锅粥",
-      "onboard_time": 1749442762,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 402193,
       "num": 477758,
       "word": "俄罗斯对乌全境实施打击",
@@ -5217,14 +5241,6 @@
       "onboard_time": 1749313823,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 388362,
-      "num": 494571,
-      "word": "新中式还得是张柏芝",
-      "onboard_time": 1749442644,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 388079,
@@ -5875,14 +5891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355601,
-      "num": 355601,
-      "word": "日本火箭发射5秒后爆炸",
-      "onboard_time": 1749441742,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 355296,
       "num": 604309,
       "word": "李在明说若胜选将稳定处理韩中关系",
@@ -6155,6 +6163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 339505,
+      "num": 339505,
+      "word": "有些Labubu一出生就在罗马",
+      "onboard_time": 1749443962,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 339073,
       "num": 339073,
       "word": "NBA",
@@ -6425,6 +6441,14 @@
       "onboard_time": 1749015741,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325636,
+      "num": 325636,
+      "word": "山东政治",
+      "onboard_time": 1749444564,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 325307,
@@ -6732,7 +6756,7 @@
     },
     {
       "raw_hot": 310988,
-      "num": 494465,
+      "num": 502601,
       "word": "章子怡李现酱园弄演情人",
       "onboard_time": 1749439882,
       "rank": 26,
@@ -7068,7 +7092,7 @@
     },
     {
       "raw_hot": 295484,
-      "num": 507525,
+      "num": 570746,
       "word": "冲绳美军基地发生爆炸",
       "onboard_time": 1749441442,
       "rank": 11,
@@ -7193,6 +7217,14 @@
       "onboard_time": 1749203001,
       "rank": 49,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 290283,
+      "num": 290283,
+      "word": "BW",
+      "onboard_time": 1749444083,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 289671,
@@ -7865,6 +7897,14 @@
       "onboard_time": 1749081260,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267906,
+      "num": 492924,
+      "word": "肖战说爸妈生的好",
+      "onboard_time": 1749443843,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 267857,
@@ -9099,6 +9139,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 230475,
+      "num": 406695,
+      "word": "特朗普称决不允许国家撕裂",
+      "onboard_time": 1749442402,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 230247,
       "num": 308553,
       "word": "南方出现焖蒸型高温",
@@ -9419,14 +9467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223010,
-      "num": 223010,
-      "word": "特朗普称决不允许国家撕裂",
-      "onboard_time": 1749442402,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 222880,
       "num": 222880,
       "word": "藏海辞官了",
@@ -9537,6 +9577,14 @@
       "onboard_time": 1749272241,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221177,
+      "num": 246010,
+      "word": "TFBOYS为易烊千玺楔石打call",
+      "onboard_time": 1749444262,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 221066,
@@ -9936,14 +9984,6 @@
       "word": "aespa将6月27日回归",
       "onboard_time": 1749000681,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 213594,
-      "num": 292043,
-      "word": "章子怡拒绝白凯南演纣王",
-      "onboard_time": 1749443303,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -10891,6 +10931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202136,
+      "num": 202136,
+      "word": "高考地理 玄学",
+      "onboard_time": 1749444564,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202130,
       "num": 202130,
       "word": "宁艺卓将出席VOGUE盛典",
@@ -11569,6 +11617,14 @@
       "onboard_time": 1749140239,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193980,
+      "num": 231342,
+      "word": "披荆斩棘",
+      "onboard_time": 1749444564,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 193925,
@@ -12739,6 +12795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 183162,
+      "num": 234817,
+      "word": "蒯曼平野美宇3比1刘炜珊何卓佳",
+      "onboard_time": 1749444024,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182890,
       "num": 182890,
       "word": "查理苏正脸",
@@ -13529,14 +13593,6 @@
       "onboard_time": 1749179180,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172681,
-      "num": 172681,
-      "word": "肖战说爸妈生的好",
-      "onboard_time": 1749443843,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 172618,
@@ -19099,6 +19155,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 128225,
+      "num": 479525,
+      "word": "京东拍卖的家具值北京一套房",
+      "onboard_time": 1749444202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128147,
       "num": 204004,
       "word": "关之琳62岁状态",
@@ -23683,6 +23747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86065,
+      "num": 235068,
+      "word": "美国骚乱或成加州州长的机会",
+      "onboard_time": 1749442882,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86046,
       "num": 86046,
       "word": "这家充满烟火气的幼儿园火到国外",
@@ -24521,14 +24593,6 @@
       "onboard_time": 1749106340,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 74029,
-      "num": 227361,
-      "word": "美国骚乱或成加州州长的机会",
-      "onboard_time": 1749442882,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 74009,
@@ -25771,6 +25835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57351,
+      "num": 1084922,
+      "word": "祝高考生的梦想破土生花",
+      "onboard_time": 1749442762,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57336,
       "num": 1003339,
       "word": "我国海洋经济登上新台阶",
@@ -26065,14 +26137,6 @@
       "onboard_time": 1749396623,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 54093,
-      "num": 1014336,
-      "word": "祝高考生的梦想破土生花",
-      "onboard_time": 1749442762,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 54078,
@@ -30339,6 +30403,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 14520,
+      "num": 282626,
+      "word": "女性遭遇职场性骚扰后可认定工伤",
+      "onboard_time": 1749444683,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14455,
       "num": 254715,
       "word": "热敷和穴位按摩能缓解干眼症吗",
@@ -30824,6 +30896,14 @@
       "word": "经常熬夜不利于降低体脂吗",
       "onboard_time": 1749393144,
       "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 8218,
+      "num": 285895,
+      "word": "劣质防晒衣会损伤皮肤吗",
+      "onboard_time": 1749444683,
+      "rank": 29,
       "category": "健康医疗"
     },
     {
