@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/10 00:34:09
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/10 00:50:34
 </p>
 </blockquote>
 <p>
@@ -2787,6 +2787,12 @@ GAI 大白嗓（热度：583445）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%B0%86%E5%B8%AE%E9%9F%A6%E4%B8%9C%E5%A5%95%E7%A7%AF%E6%9E%81%E6%B2%BB%E7%96%97%23" target="weibo">
+北大将帮韦东奕积极治疗（热度：570042）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D%23" target="weibo">
 范玮琪歌手补位（热度：569927）
 </a>
@@ -3753,6 +3759,12 @@ iG战胜WBG（热度：440456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%A2%AB%E6%B9%96%E5%8D%97%E9%AB%98%E8%80%83%E5%AE%B6%E9%95%BF%E5%AE%89%E6%8E%92%E5%BE%97%E6%98%8E%E6%98%8E%E7%99%BD%E7%99%BD%23" target="weibo">
+易烊千玺被湖南高考家长安排得明明白白（热度：440161）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E4%B8%80%E8%80%81%E4%BA%BA%E8%A2%AB%E7%97%85%E5%8F%8B%E6%8A%A0%E5%87%BA%E7%9C%BC%E7%90%83%23" target="weibo">
 精神病院一老人被病友抠出眼球（热度：439810）
 </a>
@@ -4067,12 +4079,6 @@ Shanks成角了（热度：412563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E6%8B%BF%E4%BA%862%E5%9D%97%E9%87%91%E7%89%8C%E4%BE%9D%E6%97%A7%E8%A2%AB%E8%AF%9F%E7%97%85%23" target="weibo">
 王楚钦说拿了2块金牌依旧被诟病（热度：410139）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%A2%AB%E6%B9%96%E5%8D%97%E9%AB%98%E8%80%83%E5%AE%B6%E9%95%BF%E5%AE%89%E6%8E%92%E5%BE%97%E6%98%8E%E6%98%8E%E7%99%BD%E7%99%BD%23" target="weibo">
-易烊千玺被湖南高考家长安排得明明白白（热度：409186）
 </a>
 </li>
 
@@ -5159,12 +5165,6 @@ NBA（热度：339073）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E5%8F%91%E9%95%BF%E6%96%87%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%87%E4%B8%89%E7%9A%84%E6%95%85%E4%BA%8B%23" target="weibo">
 敖瑞鹏发长文分享一万三的故事（热度：337176）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%B0%86%E5%B8%AE%E9%9F%A6%E4%B8%9C%E5%A5%95%E7%A7%AF%E6%9E%81%E6%B2%BB%E7%96%97%23" target="weibo">
-北大将帮韦东奕积极治疗（热度：336972）
 </a>
 </li>
 

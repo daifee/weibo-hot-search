@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749486849416,
+  "endTime": 1749487834849,
   "band_list": [
     {
       "raw_hot": 970316,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 800123,
-      "num": 464589,
+      "num": 586508,
       "word": "程潇给前任发信息被秒回",
       "onboard_time": 1749472281,
       "rank": 3,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570042,
+      "num": 570042,
+      "word": "北大将帮韦东奕积极治疗",
+      "onboard_time": 1749483682,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476073,
       "num": 265036,
       "word": "高考忘缴费了",
@@ -43,8 +51,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 409186,
-      "num": 409186,
+      "raw_hot": 440161,
+      "num": 440161,
       "word": "易烊千玺被湖南高考家长安排得明明白白",
       "onboard_time": 1749484161,
       "rank": 4,
@@ -57,14 +65,6 @@
       "onboard_time": 1749465260,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 336972,
-      "num": 336972,
-      "word": "北大将帮韦东奕积极治疗",
-      "onboard_time": 1749483682,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306951,
@@ -171,6 +171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120268,
+      "num": 120268,
+      "word": "大爷5块钱买折叠沙发到手竟是支笔",
+      "onboard_time": 1749486140,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120075,
+      "num": 120075,
+      "word": "华为广告 黑尾蜡嘴雀",
+      "onboard_time": 1749485840,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118080,
       "num": 118080,
       "word": "樊振东小咚咚史诗级同框",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 103444,
-      "num": 134607,
+      "num": 233842,
       "word": "家长带马嘉祺人形立牌接考生",
       "onboard_time": 1749483501,
       "rank": 24,
@@ -225,14 +241,6 @@
       "onboard_time": 1749483082,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100179,
-      "num": 100179,
-      "word": "华为广告 黑尾蜡嘴雀",
-      "onboard_time": 1749485840,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 98187,
@@ -249,14 +257,6 @@
       "onboard_time": 1749469401,
       "rank": 28,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 93535,
-      "num": 93535,
-      "word": "大爷5块钱买折叠沙发到手竟是支笔",
-      "onboard_time": 1749486140,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93103,
@@ -355,11 +355,59 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74487,
+      "num": 74487,
+      "word": "见证高考这场青春逐梦盛大收官",
+      "onboard_time": 1749482661,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71884,
+      "num": 71884,
+      "word": "尚公主 孟子义李昀锐",
+      "onboard_time": 1749461540,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71372,
+      "num": 71372,
+      "word": "洛杉矶",
+      "onboard_time": 1749460280,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66122,
+      "num": 66122,
+      "word": "AL战胜BLG",
+      "onboard_time": 1749476423,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 61304,
+      "num": 61304,
+      "word": "黄晓明说尹正特别好特别好特别好",
+      "onboard_time": 1749487818,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60719,
       "num": 76994,
       "word": "央视起底陌生快递中奖骗局",
       "onboard_time": 1749484700,
       "rank": 47,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 50418,
+      "num": 149156,
+      "word": "骨科妇科医生推荐咳嗽药",
+      "onboard_time": 1749486739,
+      "rank": 35,
       "category": "舆论监督"
     },
     {
@@ -371,12 +419,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 36542,
-      "num": 98232,
-      "word": "骨科妇科医生推荐咳嗽药",
-      "onboard_time": 1749486739,
-      "rank": 35,
-      "category": "舆论监督"
+      "raw_hot": 22211,
+      "num": 120110,
+      "word": "特朗普马斯克分手NASA躺枪",
+      "onboard_time": 1749487339,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 20555,
+      "num": 587290,
+      "word": "万千气象看安徽",
+      "onboard_time": 1749475463,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16802,
@@ -387,20 +443,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16655,
-      "num": 498470,
-      "word": "万千气象看安徽",
-      "onboard_time": 1749475463,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16608,
       "num": 166346,
       "word": "如何判断甲状腺的健康情况",
       "onboard_time": 1749484882,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 16241,
+      "num": 191531,
+      "word": "景区称阻拦无票父亲入园没有错",
+      "onboard_time": 1749487158,
+      "rank": 14,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
