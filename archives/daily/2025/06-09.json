@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749458188834,
+  "endTime": 1749459013914,
   "band_list": [
     {
       "raw_hot": 2737887,
@@ -25,6 +25,14 @@
       "onboard_time": 1749449662,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2138820,
+      "num": 2138820,
+      "word": "高考政治",
+      "onboard_time": 1749458182,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1916030,
@@ -371,20 +379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 466297,
+      "num": 466297,
+      "word": "父亲无票闯景区接生病儿子遭阻拦",
+      "onboard_time": 1749455183,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463615,
       "num": 463615,
       "word": "洛杉矶全市进入战术警戒状态",
       "onboard_time": 1749427101,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 455289,
-      "num": 455289,
-      "word": "父亲无票闯景区接生病儿子遭阻拦",
-      "onboard_time": 1749455183,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 452941,
@@ -635,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 311687,
+      "num": 284438,
+      "word": "肖战我都33了",
+      "onboard_time": 1749457461,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311291,
       "num": 459887,
       "word": "多地国补暂停或因618活动本身存在折扣",
@@ -795,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266766,
+      "num": 241490,
+      "word": "婚检",
+      "onboard_time": 1749457822,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 259124,
       "num": 284572,
       "word": "李雪琴免费听了半年陈昊宇演唱会",
@@ -835,14 +859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254184,
-      "num": 284438,
-      "word": "肖战我都33了",
-      "onboard_time": 1749457461,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253530,
       "num": 253530,
       "word": "许昕3比1徐瑛彬",
@@ -865,14 +881,6 @@
       "onboard_time": 1749450262,
       "rank": 36,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 241490,
-      "num": 241490,
-      "word": "婚检",
-      "onboard_time": 1749457822,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 239183,
@@ -961,6 +969,14 @@
       "onboard_time": 1749436822,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 223625,
+      "num": 259069,
+      "word": "李晟给姐姐们的情书",
+      "onboard_time": 1749458423,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 223157,
@@ -1091,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194182,
+      "num": 194182,
+      "word": "年轻人社交运动三件套又出新版本了",
+      "onboard_time": 1749458541,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193980,
       "num": 231342,
       "word": "披荆斩棘",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1749424641,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192851,
+      "num": 192850,
+      "word": "星巴克降价",
+      "onboard_time": 1749458602,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 192813,
@@ -1267,6 +1299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 171668,
+      "num": 193934,
+      "word": "杨幂非遗封面",
+      "onboard_time": 1749458780,
+      "rank": 35,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 170223,
       "num": 170223,
       "word": "乒超直播",
@@ -1411,12 +1451,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159602,
+      "num": 192880,
+      "word": "云合",
+      "onboard_time": 1749458423,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158799,
+      "num": 221694,
+      "word": "高以忱被查",
+      "onboard_time": 1749457941,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 158387,
       "num": 192484,
       "word": "央视记者直击洛杉矶冲突现场",
       "onboard_time": 1749454701,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157853,
+      "num": 192893,
+      "word": "范丞丞孟子义迷迷糊糊撒出可爱",
+      "onboard_time": 1749458541,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 157652,
@@ -1433,14 +1497,6 @@
       "onboard_time": 1749432261,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 154868,
-      "num": 154868,
-      "word": "高以忱被查",
-      "onboard_time": 1749457941,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 153234,
@@ -1491,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148620,
+      "num": 233773,
+      "word": "王曼昱陈幸同互动太有爱了",
+      "onboard_time": 1749458602,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147392,
       "num": 147392,
       "word": "黑鹰直升机突降洛杉矶卸下弹药",
@@ -1521,6 +1585,14 @@
       "onboard_time": 1749441261,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 145644,
+      "num": 368613,
+      "word": "美国急寻SpaceX公司替代者",
+      "onboard_time": 1749456802,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144732,
@@ -1641,14 +1713,6 @@
       "onboard_time": 1749434359,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136093,
-      "num": 368613,
-      "word": "美国急寻SpaceX公司替代者",
-      "onboard_time": 1749456802,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 135521,
@@ -1963,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94627,
+      "num": 192851,
+      "word": "樊振东闫安表演球好欢乐",
+      "onboard_time": 1749458242,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94156,
       "num": 135479,
       "word": "高芙称必须和阿尔卡拉斯重返北京",
@@ -1993,6 +2065,14 @@
       "onboard_time": 1749447801,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88989,
+      "num": 192872,
+      "word": "崀山景区回应父亲无票接生病儿子遇阻",
+      "onboard_time": 1749458661,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86298,
@@ -2195,6 +2275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56795,
+      "num": 292655,
+      "word": "王一博航海系穿搭",
+      "onboard_time": 1749457402,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55710,
       "num": 55710,
       "word": "辛纳vs阿尔卡拉斯",
@@ -2243,6 +2331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46103,
+      "num": 193575,
+      "word": "10万阿福头召唤传奇本尊",
+      "onboard_time": 1749458961,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45207,
       "num": 217846,
       "word": "十秒钟学会落水自救方法",
@@ -2252,7 +2348,7 @@
     },
     {
       "raw_hot": 43324,
-      "num": 167016,
+      "num": 193279,
       "word": "美国上演真实版GTA",
       "onboard_time": 1749458122,
       "rank": 40,
@@ -2280,6 +2376,14 @@
       "word": "偶遇现实版九又四分之三站台",
       "onboard_time": 1749448461,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40290,
+      "num": 193079,
+      "word": "贵州杀妻灭子案明日开庭",
+      "onboard_time": 1749458961,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2361,14 +2465,6 @@
       "onboard_time": 1749452783,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33319,
-      "num": 292655,
-      "word": "王一博航海系穿搭",
-      "onboard_time": 1749457402,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 33129,
@@ -2507,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18786,
+      "num": 240949,
+      "word": "马伯庸谈长安的荔枝改编幕后",
+      "onboard_time": 1749458242,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18603,
       "num": 64845,
       "word": "新疆水果市场测鬼秤",
@@ -2521,6 +2625,14 @@
       "onboard_time": 1749435801,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15292,
+      "num": 238821,
+      "word": "路透社镜头下的美国暴乱街头",
+      "onboard_time": 1749458302,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14843,

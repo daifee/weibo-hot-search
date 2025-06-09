@@ -1,0 +1,410 @@
+{
+  "runTime": 1749459013914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2138820,
+        "num": 2138820,
+        "word": "高考政治",
+        "onboard_time": 1749458182,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 998015,
+        "num": 998015,
+        "word": "高考被AI发现作弊记0分系诈骗",
+        "onboard_time": 1749453741,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35926,
+        "num": 823732,
+        "word": "祝高考生的梦想破土生花",
+        "onboard_time": 1749442762,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 800988,
+        "num": 800988,
+        "word": "北大称已多次派人陪同韦东奕就诊",
+        "onboard_time": 1749453982,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466297,
+        "num": 466297,
+        "word": "父亲无票闯景区接生病儿子遭阻拦",
+        "onboard_time": 1749455183,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454490,
+        "num": 454490,
+        "word": "章莹颖遇害8年父母边治病边还债",
+        "onboard_time": 1749450080,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330256,
+        "num": 330256,
+        "word": "樊振东状态",
+        "onboard_time": 1749450442,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259079,
+        "num": 259079,
+        "word": "政治的花语是手慢无",
+        "onboard_time": 1749447141,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223625,
+        "num": 259069,
+        "word": "李晟给姐姐们的情书",
+        "onboard_time": 1749458423,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191589,
+        "num": 259011,
+        "word": "aespa与Apple合作",
+        "onboard_time": 1749453443,
+        "rank": 9,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 953133,
+        "num": 258973,
+        "word": "尹正发长文道歉",
+        "onboard_time": 1749449662,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534647,
+        "num": 258943,
+        "word": "孙颖莎左看樊振东右看深圳队",
+        "onboard_time": 1749451882,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443608,
+        "num": 258899,
+        "word": "刘品言宣布怀孕",
+        "onboard_time": 1749444863,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390865,
+        "num": 258878,
+        "word": "北大回应韦东奕健康问题",
+        "onboard_time": 1749445822,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170345,
+        "num": 258820,
+        "word": "赵雅芝 一辈子流量花",
+        "onboard_time": 1749449662,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163592,
+        "num": 258790,
+        "word": "ITZY与JYP协商续约",
+        "onboard_time": 1749457581,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368984,
+        "num": 258723,
+        "word": "汪海林说的是谁",
+        "onboard_time": 1749454581,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98404,
+        "num": 258713,
+        "word": "郭晶晶说跳水给予了我成就了我",
+        "onboard_time": 1749457402,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56795,
+        "num": 258652,
+        "word": "王一博航海系穿搭",
+        "onboard_time": 1749457402,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35790,
+        "num": 258605,
+        "word": "哪些食物容易导致腹部脂肪堆积",
+        "onboard_time": 1749456682,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258595,
+        "num": 258595,
+        "word": "星巴克回应大降价",
+        "onboard_time": 1749448942,
+        "rank": 20,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 450666,
+        "num": 257603,
+        "word": "27岁女生失业躺出租屋一天的花销",
+        "onboard_time": 1749452062,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362624,
+        "num": 256720,
+        "word": "王楚钦说拿了2块金牌依旧被诟病",
+        "onboard_time": 1749455723,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336468,
+        "num": 256635,
+        "word": "高考地理 玄学",
+        "onboard_time": 1749444564,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254585,
+        "num": 254585,
+        "word": "洛杉矶乱成一锅粥",
+        "onboard_time": 1749442762,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199131,
+        "num": 253564,
+        "word": "李雪琴免费听了半年陈昊宇演唱会",
+        "onboard_time": 1749456921,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313260,
+        "num": 247556,
+        "word": "陈都灵 不让女孩子的手落空",
+        "onboard_time": 1749450201,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18786,
+        "num": 240949,
+        "word": "马伯庸谈长安的荔枝改编幕后",
+        "onboard_time": 1749458242,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15292,
+        "num": 238821,
+        "word": "路透社镜头下的美国暴乱街头",
+        "onboard_time": 1749458302,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148620,
+        "num": 233773,
+        "word": "王曼昱陈幸同互动太有爱了",
+        "onboard_time": 1749458602,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311687,
+        "num": 228654,
+        "word": "肖战我都33了",
+        "onboard_time": 1749457461,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158799,
+        "num": 221694,
+        "word": "高以忱被查",
+        "onboard_time": 1749457941,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266766,
+        "num": 217640,
+        "word": "婚检",
+        "onboard_time": 1749457822,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215152,
+        "num": 215152,
+        "word": "高考",
+        "onboard_time": 1749426201,
+        "rank": 33,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 194182,
+        "num": 194182,
+        "word": "年轻人社交运动三件套又出新版本了",
+        "onboard_time": 1749458541,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171668,
+        "num": 193934,
+        "word": "杨幂非遗封面",
+        "onboard_time": 1749458780,
+        "rank": 35,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 46103,
+        "num": 193575,
+        "word": "10万阿福头召唤传奇本尊",
+        "onboard_time": 1749458961,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34970,
+        "num": 193279,
+        "word": "美国上演真实版GTA",
+        "onboard_time": 1749458122,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40290,
+        "num": 193079,
+        "word": "贵州杀妻灭子案明日开庭",
+        "onboard_time": 1749458961,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192898,
+        "num": 192898,
+        "word": "只差1分钟进不去考场了",
+        "onboard_time": 1749451641,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157853,
+        "num": 192893,
+        "word": "范丞丞孟子义迷迷糊糊撒出可爱",
+        "onboard_time": 1749458541,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159602,
+        "num": 192880,
+        "word": "云合",
+        "onboard_time": 1749458423,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88989,
+        "num": 192872,
+        "word": "崀山景区回应父亲无票接生病儿子遇阻",
+        "onboard_time": 1749458661,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94627,
+        "num": 192851,
+        "word": "樊振东闫安表演球好欢乐",
+        "onboard_time": 1749458242,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192851,
+        "num": 192850,
+        "word": "星巴克降价",
+        "onboard_time": 1749458602,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164775,
+        "num": 164775,
+        "word": "樊振东比赛间隙霉霉限时返场",
+        "onboard_time": 1749457042,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145644,
+        "num": 145644,
+        "word": "美国急寻SpaceX公司替代者",
+        "onboard_time": 1749456802,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145619,
+        "num": 145619,
+        "word": "专家称农村生活可释放人们的情绪价值",
+        "onboard_time": 1749456442,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140567,
+        "num": 140567,
+        "word": "男子住酒店打开柜子竟发现大蛇",
+        "onboard_time": 1749445763,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139722,
+        "num": 139722,
+        "word": "特朗普下令解放洛杉矶",
+        "onboard_time": 1749427101,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记探寻中华文明#"
+    }
+  }
+}
