@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749444753617,
+  "endTime": 1749446862613,
   "band_list": [
     {
       "raw_hot": 2737887,
@@ -17,6 +17,14 @@
       "onboard_time": 1749441681,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1868254,
+      "num": 1868254,
+      "word": "刘品言宣布怀孕",
+      "onboard_time": 1749444863,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1704507,
@@ -89,6 +97,14 @@
       "onboard_time": 1749442762,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 798135,
+      "num": 665869,
+      "word": "刘品言连晨翔结婚",
+      "onboard_time": 1749444924,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 782687,
@@ -171,6 +187,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 580527,
+      "num": 505230,
+      "word": "高考地理 玄学",
+      "onboard_time": 1749444564,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 558927,
       "num": 558927,
       "word": "新中式还得是张柏芝",
@@ -208,6 +232,14 @@
       "word": "江西卷是要选拔门捷列夫吗",
       "onboard_time": 1749438982,
       "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 512065,
+      "num": 512065,
+      "word": "山东政治",
+      "onboard_time": 1749444564,
+      "rank": 25,
       "category": "教育"
     },
     {
@@ -307,12 +339,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363633,
+      "num": 492924,
+      "word": "肖战说爸妈生的好",
+      "onboard_time": 1749443843,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 359559,
+      "num": 359559,
+      "word": "每天吃鸡蛋和从不吃鸡蛋的区别",
+      "onboard_time": 1749445164,
+      "rank": 21,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 348870,
       "num": 348870,
       "word": "乒超",
       "onboard_time": 1749434359,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339869,
+      "num": 339869,
+      "word": "TFBOYS为易烊千玺楔石打call",
+      "onboard_time": 1749444262,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 339505,
@@ -323,6 +379,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 337319,
+      "num": 406695,
+      "word": "特朗普称决不允许国家撕裂",
+      "onboard_time": 1749442402,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 337285,
       "num": 255498,
       "word": "韦神的牙齿不是他一个人的事",
@@ -331,20 +395,20 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 335649,
+      "num": 335649,
+      "word": "银临",
+      "onboard_time": 1749444984,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 330940,
       "num": 593365,
       "word": "迪丽热巴高雯差点被换掉",
       "onboard_time": 1749428063,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 325636,
-      "num": 325636,
-      "word": "山东政治",
-      "onboard_time": 1749444564,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 323233,
@@ -515,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267906,
-      "num": 492924,
-      "word": "肖战说爸妈生的好",
-      "onboard_time": 1749443843,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258163,
       "num": 258163,
       "word": "原来正品质量这么差",
@@ -563,12 +619,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251410,
+      "num": 251410,
+      "word": "樊振东3比2徐瑛彬",
+      "onboard_time": 1749445942,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242193,
       "num": 242193,
       "word": "高考",
       "onboard_time": 1749426201,
       "rank": 47,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 241885,
+      "num": 241885,
+      "word": "已被浙大录取女孩考场外为同学加油",
+      "onboard_time": 1749445164,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236916,
@@ -579,12 +651,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230475,
-      "num": 406695,
-      "word": "特朗普称决不允许国家撕裂",
-      "onboard_time": 1749442402,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 233060,
+      "num": 233060,
+      "word": "王楚钦腰腹力量太强了",
+      "onboard_time": 1749444924,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227732,
+      "num": 227732,
+      "word": "建议工资每周发一次",
+      "onboard_time": 1749445642,
+      "rank": 35,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 227506,
@@ -603,12 +683,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 221177,
-      "num": 246010,
-      "word": "TFBOYS为易烊千玺楔石打call",
-      "onboard_time": 1749444262,
-      "rank": 34,
-      "category": "音乐"
+      "raw_hot": 215610,
+      "num": 506242,
+      "word": "北大回应韦东奕健康问题",
+      "onboard_time": 1749445822,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214619,
@@ -627,6 +707,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205332,
+      "num": 257062,
+      "word": "李艾主持的嘴问出好多瓜",
+      "onboard_time": 1749445942,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205037,
       "num": 349394,
       "word": "镖人",
@@ -643,20 +731,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202136,
-      "num": 202136,
-      "word": "高考地理 玄学",
-      "onboard_time": 1749444564,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 201316,
       "num": 201316,
       "word": "肖战不舍往日之景",
       "onboard_time": 1749399200,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194187,
+      "num": 194187,
+      "word": "广东地理你还实验题上了",
+      "onboard_time": 1749446661,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 193980,
@@ -680,6 +768,22 @@
       "word": "C罗生涯第36冠",
       "onboard_time": 1749424641,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193572,
+      "num": 193572,
+      "word": "韦东奕每年参加北大组织体检",
+      "onboard_time": 1749446063,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190320,
+      "num": 190320,
+      "word": "林昀儒3比0敖华磊",
+      "onboard_time": 1749445343,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1067,6 +1171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127176,
+      "num": 205892,
+      "word": "解说称樊振东的战场不应只在排名榜上",
+      "onboard_time": 1749446782,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125379,
       "num": 125379,
       "word": "5月份CPI同比下降0.1%",
@@ -1209,6 +1321,22 @@
       "onboard_time": 1749395963,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105447,
+      "num": 361131,
+      "word": "男子住酒店打开柜子竟发现大蛇",
+      "onboard_time": 1749445763,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102485,
+      "num": 395432,
+      "word": "男子称恋爱3个月花10万后被抛弃",
+      "onboard_time": 1749445704,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100143,
@@ -1419,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51880,
+      "num": 505248,
+      "word": "火车经山西一隧道乘客被煤灰吹黑",
+      "onboard_time": 1749445763,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51494,
       "num": 101934,
       "word": "萨巴伦卡回应发布会争议",
@@ -1433,6 +1569,14 @@
       "onboard_time": 1749391584,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46121,
+      "num": 207165,
+      "word": "澳媒记者在洛杉矶直播时中橡皮弹",
+      "onboard_time": 1749445283,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45207,
@@ -1472,6 +1616,14 @@
       "word": "情绪不稳定的人更爱长结节吗",
       "onboard_time": 1749442282,
       "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 37302,
+      "num": 336216,
+      "word": "日常行为暴漏出来的病",
+      "onboard_time": 1749446302,
+      "rank": 24,
       "category": "健康医疗"
     },
     {
@@ -1537,6 +1689,14 @@
       "onboard_time": 1749394763,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22040,
+      "num": 362513,
+      "word": "劣质防晒衣会损伤皮肤吗",
+      "onboard_time": 1749444683,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 21861,
@@ -1641,14 +1801,6 @@
       "onboard_time": 1749410894,
       "rank": 35,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 8218,
-      "num": 285895,
-      "word": "劣质防晒衣会损伤皮肤吗",
-      "onboard_time": 1749444683,
-      "rank": 29,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
