@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749479237146,
+  "endTime": 1749480359175,
   "band_list": [
     {
       "raw_hot": 2750380,
@@ -427,6 +427,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 589072,
+      "num": 589072,
+      "word": "考好了你养王源考不好老爸养你",
+      "onboard_time": 1749477203,
+      "rank": 6,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 587146,
       "num": 587146,
       "word": "刘亦菲李沁中间这位女士",
@@ -473,14 +481,6 @@
       "onboard_time": 1749442644,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 563208,
-      "num": 563208,
-      "word": "考好了你养王源考不好老爸养你",
-      "onboard_time": 1749477203,
-      "rank": 6,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 557846,
@@ -584,6 +584,14 @@
       "word": "男子住酒店打开柜子竟发现大蛇",
       "onboard_time": 1749445763,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 484087,
+      "num": 484087,
+      "word": "人民日报评韦东奕开通账号引热议",
+      "onboard_time": 1749475822,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -731,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402278,
+      "num": 402278,
+      "word": "黄觉转发",
+      "onboard_time": 1749478942,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399371,
       "num": 492924,
       "word": "肖战说爸妈生的好",
@@ -745,6 +761,14 @@
       "onboard_time": 1749423556,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398055,
+      "num": 425480,
+      "word": "高额彩礼成为影响结婚率重要因素之一",
+      "onboard_time": 1749477623,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394598,
@@ -849,14 +873,6 @@
       "onboard_time": 1749474563,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351334,
-      "num": 425480,
-      "word": "高额彩礼成为影响结婚率重要因素之一",
-      "onboard_time": 1749477623,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 348870,
@@ -1244,7 +1260,7 @@
     },
     {
       "raw_hot": 263829,
-      "num": 263829,
+      "num": 323557,
       "word": "宋亚轩 LV",
       "onboard_time": 1749469401,
       "rank": 26,
@@ -1403,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234490,
+      "num": 387205,
+      "word": "李梦回应与刘亦菲李沁合照",
+      "onboard_time": 1749479482,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233638,
       "num": 233638,
       "word": "樊振东11比7闫安",
@@ -1427,20 +1451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230256,
+      "num": 230256,
+      "word": "小米汽车公布YU7设计手稿",
+      "onboard_time": 1749478522,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 229965,
       "num": 229965,
       "word": "高考采访重庆女生撞脸好几个女明星",
       "onboard_time": 1749467062,
       "rank": 35,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 229681,
-      "num": 229681,
-      "word": "小米汽车公布YU7设计手稿",
-      "onboard_time": 1749478522,
-      "rank": 31,
-      "category": "汽车"
     },
     {
       "raw_hot": 227732,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1749447141,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213708,
+      "num": 213708,
+      "word": "樊振东说关键球上可能运气好点",
+      "onboard_time": 1749478161,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 212479,
@@ -1867,14 +1899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183909,
-      "num": 434648,
-      "word": "人民日报评韦东奕开通账号引热议",
-      "onboard_time": 1749475822,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183167,
       "num": 281768,
       "word": "祝绪丹回应成团",
@@ -1923,20 +1947,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 181095,
-      "num": 181095,
-      "word": "樊振东说关键球上可能运气好点",
-      "onboard_time": 1749478161,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180987,
       "num": 180987,
       "word": "易烊千玺楔木上线",
       "onboard_time": 1749441921,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 180513,
+      "num": 180513,
+      "word": "韦东奕身体状况",
+      "onboard_time": 1749478762,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179992,
@@ -1968,6 +1992,14 @@
       "word": "王安宇广东版",
       "onboard_time": 1749476002,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178057,
+      "num": 178057,
+      "word": "蒋勤勤满50减20",
+      "onboard_time": 1749479903,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -2083,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168158,
+      "num": 168158,
+      "word": "Labubu99元挂件二手市场炒至3000元",
+      "onboard_time": 1749479604,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168092,
       "num": 168092,
       "word": "苏醒安慰尹正",
@@ -2160,6 +2200,14 @@
       "word": "登陆少年出发录制披哥",
       "onboard_time": 1749433640,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165473,
+      "num": 165473,
+      "word": "者来女 歌手揭榜",
+      "onboard_time": 1749480143,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -2257,14 +2305,6 @@
       "onboard_time": 1749460581,
       "rank": 45,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 160483,
-      "num": 160483,
-      "word": "韦东奕身体状况",
-      "onboard_time": 1749478762,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160178,
@@ -2443,6 +2483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145205,
+      "num": 397074,
+      "word": "国之重器不断潜呀潜呀潜",
+      "onboard_time": 1749479964,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144732,
       "num": 298898,
       "word": "郭晶晶说跳水给予了我成就了我",
@@ -2529,6 +2577,14 @@
       "onboard_time": 1749369081,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139997,
+      "num": 139997,
+      "word": "王楚钦说黄友政生日为大",
+      "onboard_time": 1749479604,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 138627,
@@ -2803,6 +2859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124044,
+      "num": 392231,
+      "word": "伴侣患艾滋病医生未告知非医生责任",
+      "onboard_time": 1749479182,
+      "rank": 44,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 123853,
       "num": 290883,
       "word": "广东一老板往凉茶里放布洛芬被判刑",
@@ -3059,6 +3123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89382,
+      "num": 317747,
+      "word": "男子车里开空调睡觉中毒",
+      "onboard_time": 1749479123,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88989,
       "num": 192872,
       "word": "崀山景区回应父亲无票接生病儿子遇阻",
@@ -3097,6 +3169,14 @@
       "onboard_time": 1749403219,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84311,
+      "num": 375474,
+      "word": "小孩被天降乌龟砸死饲主判赔128万",
+      "onboard_time": 1749480082,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83986,
@@ -3217,14 +3297,6 @@
       "onboard_time": 1749398604,
       "rank": 44,
       "category": "正能量,教育"
-    },
-    {
-      "raw_hot": 72119,
-      "num": 225783,
-      "word": "男子车里开空调睡觉中毒",
-      "onboard_time": 1749479123,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70429,
@@ -3363,14 +3435,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 51988,
-      "num": 164016,
-      "word": "伴侣患艾滋病医生未告知非医生责任",
-      "onboard_time": 1749479182,
-      "rank": 44,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 51880,
       "num": 505248,
       "word": "火车经山西一隧道乘客被煤灰吹黑",
@@ -3392,6 +3456,14 @@
       "word": "被控杀妻灭子男子律师回应争议",
       "onboard_time": 1749459801,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48061,
+      "num": 383706,
+      "word": "Labubu仿冒工厂称加钱调货都没货",
+      "onboard_time": 1749479722,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3449,6 +3521,14 @@
       "onboard_time": 1749468381,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43935,
+      "num": 190417,
+      "word": "第五人格",
+      "onboard_time": 1749475642,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 43324,
@@ -3963,6 +4043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15591,
+      "num": 322043,
+      "word": "马斯克和特朗普到底为什么分手",
+      "onboard_time": 1749480082,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15325,
       "num": 136516,
       "word": "跨越时代的神奇工具",
@@ -4043,6 +4131,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 10902,
+      "num": 378969,
+      "word": "智搜求证功能开放内测",
+      "onboard_time": 1749479243,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 8180,
       "num": 212049,
       "word": "加州街头抗议者洗劫商店",
@@ -4059,20 +4155,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 7237,
+      "num": 371513,
+      "word": "长期横向刷牙会导致哪些牙齿问题",
+      "onboard_time": 1749480082,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 7233,
+      "num": 418373,
+      "word": "雷霆能否在步行者主场再胜一场",
+      "onboard_time": 1749478285,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6442,
       "num": 165792,
       "word": "家族第四代护边人",
       "onboard_time": 1749454762,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5140,
-      "num": 418373,
-      "word": "雷霆能否在步行者主场再胜一场",
-      "onboard_time": 1749478285,
-      "rank": 18,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

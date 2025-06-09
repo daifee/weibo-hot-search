@@ -1,0 +1,410 @@
+{
+  "runTime": 1749480359175,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1094876,
+        "num": 1175180,
+        "word": "文科生碎了",
+        "onboard_time": 1749465260,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 589072,
+        "num": 589072,
+        "word": "考好了你养王源考不好老爸养你",
+        "onboard_time": 1749477203,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 29309,
+        "num": 485725,
+        "word": "这份文明上网攻略请收好",
+        "onboard_time": 1749460581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1665419,
+        "num": 485040,
+        "word": "程潇给前任发信息被秒回",
+        "onboard_time": 1749472281,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484087,
+        "num": 484087,
+        "word": "人民日报评韦东奕开通账号引热议",
+        "onboard_time": 1749475822,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443207,
+        "num": 443207,
+        "word": "樊振东3比1林高远",
+        "onboard_time": 1749475161,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435125,
+        "num": 435125,
+        "word": "AL战胜BLG",
+        "onboard_time": 1749476423,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 429716,
+        "num": 429716,
+        "word": "Bin 闹剧结束了",
+        "onboard_time": 1749476723,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 402278,
+        "num": 402278,
+        "word": "黄觉转发",
+        "onboard_time": 1749478942,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145205,
+        "num": 397074,
+        "word": "国之重器不断潜呀潜呀潜",
+        "onboard_time": 1749479964,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1101203,
+        "num": 396409,
+        "word": "程潇前任",
+        "onboard_time": 1749476543,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63309,
+        "num": 394084,
+        "word": "六尺巷张英十二世孙讲述百年传承",
+        "onboard_time": 1749476663,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 393421,
+        "num": 393421,
+        "word": "刘亦菲李沁中间这位女士",
+        "onboard_time": 1749473361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398055,
+        "num": 393260,
+        "word": "高额彩礼成为影响结婚率重要因素之一",
+        "onboard_time": 1749477623,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124044,
+        "num": 392231,
+        "word": "伴侣患艾滋病医生未告知非医生责任",
+        "onboard_time": 1749479182,
+        "rank": 14,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 391814,
+        "num": 391814,
+        "word": "众星鼓励尹正",
+        "onboard_time": 1749474860,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273447,
+        "num": 389413,
+        "word": "迪丽热巴满眼都是对身高的渴望",
+        "onboard_time": 1749475402,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234490,
+        "num": 387205,
+        "word": "李梦回应与刘亦菲李沁合照",
+        "onboard_time": 1749479482,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48061,
+        "num": 383706,
+        "word": "Labubu仿冒工厂称加钱调货都没货",
+        "onboard_time": 1749479722,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10902,
+        "num": 378969,
+        "word": "智搜求证功能开放内测",
+        "onboard_time": 1749479243,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84311,
+        "num": 375474,
+        "word": "小孩被天降乌龟砸死饲主判赔128万",
+        "onboard_time": 1749480082,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7237,
+        "num": 371513,
+        "word": "长期横向刷牙会导致哪些牙齿问题",
+        "onboard_time": 1749480082,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 658834,
+        "num": 367540,
+        "word": "张若昀拍的唐艺昕与女儿",
+        "onboard_time": 1749473001,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453206,
+        "num": 364755,
+        "word": "宁艺卓撕拉片",
+        "onboard_time": 1749476364,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363116,
+        "num": 363116,
+        "word": "197帅哥被浙大提前录取仍参加高考",
+        "onboard_time": 1749472281,
+        "rank": 24,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 328227,
+        "num": 328227,
+        "word": "新房在小姑子名下准新娘直接退婚",
+        "onboard_time": 1749469940,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198207,
+        "num": 326819,
+        "word": "那尔那茜是否违规建议彻查",
+        "onboard_time": 1749469102,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187669,
+        "num": 323557,
+        "word": "宋亚轩 LV",
+        "onboard_time": 1749469401,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 15591,
+        "num": 322043,
+        "word": "马斯克和特朗普到底为什么分手",
+        "onboard_time": 1749480082,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89382,
+        "num": 317747,
+        "word": "男子车里开空调睡觉中毒",
+        "onboard_time": 1749479123,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317293,
+        "num": 317293,
+        "word": "弟弟陪姐姐提新车上高速被姐姐追尾",
+        "onboard_time": 1749477083,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284122,
+        "num": 284122,
+        "word": "尹正发长文道歉",
+        "onboard_time": 1749449662,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274269,
+        "num": 274269,
+        "word": "Shanks成角了",
+        "onboard_time": 1749478463,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230256,
+        "num": 230256,
+        "word": "小米汽车公布YU7设计手稿",
+        "onboard_time": 1749478522,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174775,
+        "num": 221814,
+        "word": "送荣耀祝你未来一路荣耀",
+        "onboard_time": 1749474443,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213708,
+        "num": 213708,
+        "word": "樊振东说关键球上可能运气好点",
+        "onboard_time": 1749478161,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207822,
+        "num": 207822,
+        "word": "12800买时团内场票帮女儿圆梦被骗",
+        "onboard_time": 1749471442,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204886,
+        "num": 204886,
+        "word": "山东考生说高考结束该让爹妈歇歇了",
+        "onboard_time": 1749459921,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203759,
+        "num": 203759,
+        "word": "南通队队长父亲卖上海4套房搞青训",
+        "onboard_time": 1749476245,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43935,
+        "num": 190417,
+        "word": "第五人格",
+        "onboard_time": 1749475642,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180513,
+        "num": 180513,
+        "word": "韦东奕身体状况",
+        "onboard_time": 1749478762,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178057,
+        "num": 178057,
+        "word": "蒋勤勤满50减20",
+        "onboard_time": 1749479903,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177441,
+        "num": 177441,
+        "word": "尚公主 孟子义李昀锐",
+        "onboard_time": 1749461540,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168158,
+        "num": 168158,
+        "word": "Labubu99元挂件二手市场炒至3000元",
+        "onboard_time": 1749479604,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165473,
+        "num": 165473,
+        "word": "者来女 歌手揭榜",
+        "onboard_time": 1749480143,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154216,
+        "num": 154216,
+        "word": "曹颖14岁儿子",
+        "onboard_time": 1749474563,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7233,
+        "num": 153985,
+        "word": "雷霆能否在步行者主场再胜一场",
+        "onboard_time": 1749478285,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153852,
+        "num": 153852,
+        "word": "临江仙",
+        "onboard_time": 1749465260,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150209,
+        "num": 150209,
+        "word": "路人抓拍Angelababy",
+        "onboard_time": 1749464000,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139997,
+        "num": 139997,
+        "word": "王楚钦说黄友政生日为大",
+        "onboard_time": 1749479604,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步关心海洋认识海洋经略海洋#"
+    }
+  }
+}
