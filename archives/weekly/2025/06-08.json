@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749451982748,
+  "endTime": 1749454027610,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -168,6 +168,14 @@
       "word": "金靖曝舒奕橙家庭地位",
       "onboard_time": 1749389784,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1399073,
+      "num": 705889,
+      "word": "央视删除那尔那茜高考祝福视频",
+      "onboard_time": 1749451221,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -443,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 761440,
-      "num": 626340,
-      "word": "央视删除那尔那茜高考祝福视频",
-      "onboard_time": 1749451221,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 763908,
+      "num": 763908,
+      "word": "樊振东状态",
+      "onboard_time": 1749450442,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 752465,
@@ -459,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 742133,
+      "num": 195445,
+      "word": "27岁女生失业躺出租屋一天的花销",
+      "onboard_time": 1749452062,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 738392,
       "num": 550357,
       "word": "高考地理 玄学",
       "onboard_time": 1749444564,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 734037,
-      "num": 734037,
-      "word": "樊振东状态",
-      "onboard_time": 1749450442,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 724901,
@@ -483,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 713973,
+      "num": 381573,
+      "word": "鬼鬼和女儿泳装照",
+      "onboard_time": 1749450863,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697621,
       "num": 697621,
       "word": "中餐厅9收官",
@@ -491,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 668814,
-      "num": 381573,
-      "word": "鬼鬼和女儿泳装照",
-      "onboard_time": 1749450863,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 673097,
+      "num": 673097,
+      "word": "孙颖莎左看樊振东右看深圳队",
+      "onboard_time": 1749451882,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 664236,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1749314482,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394913,
+      "num": 394913,
+      "word": "陈都灵 不让女孩子的手落空",
+      "onboard_time": 1749450201,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 394159,
@@ -1619,6 +1643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 276193,
+      "num": 226886,
+      "word": "双胞胎姐妹互换身份被凶手误杀",
+      "onboard_time": 1749450982,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275105,
       "num": 275105,
       "word": "王楚钦说孙颖莎有她成功的道理",
@@ -1633,14 +1665,6 @@
       "onboard_time": 1749440843,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274168,
-      "num": 288336,
-      "word": "陈都灵 不让女孩子的手落空",
-      "onboard_time": 1749450201,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 273475,
@@ -1867,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246055,
+      "num": 246055,
+      "word": "星巴克回应大降价",
+      "onboard_time": 1749448942,
+      "rank": 47,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 244633,
       "num": 244633,
       "word": "德国vs法国",
@@ -2003,14 +2035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226886,
-      "num": 226886,
-      "word": "双胞胎姐妹互换身份被凶手误杀",
-      "onboard_time": 1749450982,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226728,
       "num": 204536,
       "word": "国产剧最普通人的女主出现了",
@@ -2033,6 +2057,14 @@
       "onboard_time": 1749436822,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 223485,
+      "num": 193230,
+      "word": "只差1分钟进不去考场了",
+      "onboard_time": 1749451641,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222854,
@@ -2425,6 +2457,14 @@
       "onboard_time": 1749294443,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192931,
+      "num": 192931,
+      "word": "樊振东3比0闫安",
+      "onboard_time": 1749451941,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 192813,
@@ -2955,6 +2995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169084,
+      "num": 169084,
+      "word": "白鹿观众缘",
+      "onboard_time": 1749452482,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168896,
       "num": 225199,
       "word": "蒯曼平野美宇vs刘炜珊何卓佳",
@@ -3033,14 +3081,6 @@
       "onboard_time": 1749433279,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 165649,
-      "num": 165649,
-      "word": "只差1分钟进不去考场了",
-      "onboard_time": 1749451641,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165620,
@@ -3251,6 +3291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160022,
+      "num": 146642,
+      "word": "白鹿扛剧能力",
+      "onboard_time": 1749453861,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159562,
       "num": 159562,
       "word": "读后续写",
@@ -3312,14 +3360,6 @@
       "word": "董倩回忆第一次见王楚钦",
       "onboard_time": 1749391524,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 156739,
-      "num": 156739,
-      "word": "孙颖莎左看樊振东右看深圳队",
-      "onboard_time": 1749451882,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -3475,14 +3515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148646,
-      "num": 148646,
-      "word": "星巴克回应大降价",
-      "onboard_time": 1749448942,
-      "rank": 47,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 148205,
       "num": 148205,
       "word": "原来这就是天然味精",
@@ -3627,6 +3659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144461,
+      "num": 144461,
+      "word": "逆水寒手游",
+      "onboard_time": 1749451762,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144356,
       "num": 282162,
       "word": "消防员帮考生剪断手镯",
@@ -3643,14 +3683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143943,
-      "num": 143943,
-      "word": "樊振东3比0闫安",
-      "onboard_time": 1749451941,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 143901,
       "num": 143901,
       "word": "Capper和creamd置换的6年",
@@ -3665,6 +3697,14 @@
       "onboard_time": 1749357740,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143362,
+      "num": 143362,
+      "word": "北大称已多次派人陪同韦东奕就诊",
+      "onboard_time": 1749453982,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143242,
@@ -3755,6 +3795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140313,
+      "num": 140313,
+      "word": "敖瑞鹏一万三偏偏你最心软",
+      "onboard_time": 1749453141,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140005,
       "num": 140005,
       "word": "KPL",
@@ -3835,6 +3883,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138421,
+      "num": 138421,
+      "word": "洛杉矶大骚乱背后的4个问题",
+      "onboard_time": 1749453081,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 138093,
+      "num": 138093,
+      "word": "邋邋遢遢也行的肖战",
+      "onboard_time": 1749453560,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137999,
       "num": 160312,
       "word": "浪姐成团名单什么时候出",
@@ -3881,6 +3945,14 @@
       "onboard_time": 1749440421,
       "rank": 43,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 136366,
+      "num": 136366,
+      "word": "南宁一瓜园遭村民哄抢瓜农报警求助",
+      "onboard_time": 1749453322,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136270,
@@ -3969,6 +4041,14 @@
       "onboard_time": 1749392964,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133662,
+      "num": 129292,
+      "word": "张泉灵说吴宣仪在乘风里赢了",
+      "onboard_time": 1749453621,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 133661,
@@ -4139,6 +4219,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126780,
+      "num": 126780,
+      "word": "庞博 我现在赢小学生都有悬念了吗",
+      "onboard_time": 1749453741,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126685,
+      "num": 126685,
+      "word": "谁家男女主一个小萝卜一个小口袋",
+      "onboard_time": 1749453982,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126506,
+      "num": 126506,
+      "word": "威神V 全员加速中",
+      "onboard_time": 1749453802,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125808,
       "num": 125808,
       "word": "全智贤老公炒币亏了150亿",
@@ -4193,6 +4297,14 @@
       "onboard_time": 1749439221,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123135,
+      "num": 147179,
+      "word": "高考被AI发现作弊记0分系诈骗",
+      "onboard_time": 1749453741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122980,
@@ -5027,6 +5139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60072,
+      "num": 377680,
+      "word": "涉不防晒的防晒衣企业多年0人参保",
+      "onboard_time": 1749452842,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 59760,
       "num": 303033,
       "word": "微博电影之夜第四波阵容",
@@ -5347,6 +5467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 38365,
+      "num": 138214,
+      "word": "阿尔卡拉斯惊天大逆转",
+      "onboard_time": 1749453982,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38128,
       "num": 128209,
       "word": "国乒众将抵达雄安备战乒超",
@@ -5539,6 +5667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28544,
+      "num": 196486,
+      "word": "人字拖穿久了会变成扁平足吗",
+      "onboard_time": 1749451941,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 27540,
       "num": 323640,
       "word": "我领馆视频探视遭起诉中国学者",
@@ -5568,6 +5704,14 @@
       "word": "歌迷找3人同时抢演唱会票才成功",
       "onboard_time": 1749362661,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23862,
+      "num": 196930,
+      "word": "免费艾灸馆卖给老人千元蜂胶",
+      "onboard_time": 1749452783,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -5769,14 +5913,6 @@
       "onboard_time": 1749387681,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13764,
-      "num": 147040,
-      "word": "人字拖穿久了会变成扁平足吗",
-      "onboard_time": 1749451941,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13328,

@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749451982748,
+  "endTime": 1749454027610,
   "band_list": [
     {
       "raw_hot": 2737887,
@@ -57,6 +57,14 @@
       "onboard_time": 1749395063,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1399073,
+      "num": 705889,
+      "word": "央视删除那尔那茜高考祝福视频",
+      "onboard_time": 1749451221,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1397153,
@@ -139,12 +147,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 761440,
-      "num": 626340,
-      "word": "央视删除那尔那茜高考祝福视频",
-      "onboard_time": 1749451221,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 763908,
+      "num": 763908,
+      "word": "樊振东状态",
+      "onboard_time": 1749450442,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 752465,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 742133,
+      "num": 195445,
+      "word": "27岁女生失业躺出租屋一天的花销",
+      "onboard_time": 1749452062,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 738392,
       "num": 550357,
       "word": "高考地理 玄学",
@@ -163,12 +179,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 734037,
-      "num": 734037,
-      "word": "樊振东状态",
-      "onboard_time": 1749450442,
-      "rank": 12,
-      "category": "体育"
+      "raw_hot": 713973,
+      "num": 381573,
+      "word": "鬼鬼和女儿泳装照",
+      "onboard_time": 1749450863,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 697621,
@@ -179,12 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 668814,
-      "num": 381573,
-      "word": "鬼鬼和女儿泳装照",
-      "onboard_time": 1749450863,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 673097,
+      "num": 673097,
+      "word": "孙颖莎左看樊振东右看深圳队",
+      "onboard_time": 1749451882,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 662693,
@@ -417,6 +433,14 @@
       "onboard_time": 1749423556,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394913,
+      "num": 394913,
+      "word": "陈都灵 不让女孩子的手落空",
+      "onboard_time": 1749450201,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 384243,
@@ -659,6 +683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 276193,
+      "num": 226886,
+      "word": "双胞胎姐妹互换身份被凶手误杀",
+      "onboard_time": 1749450982,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275199,
       "num": 275199,
       "word": "洛杉矶骚乱后纽约也乱了",
@@ -673,14 +705,6 @@
       "onboard_time": 1749440843,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274168,
-      "num": 288336,
-      "word": "陈都灵 不让女孩子的手落空",
-      "onboard_time": 1749450201,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 273513,
@@ -755,6 +779,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 246055,
+      "num": 246055,
+      "word": "星巴克回应大降价",
+      "onboard_time": 1749448942,
+      "rank": 47,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 242193,
       "num": 242193,
       "word": "高考",
@@ -827,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226886,
-      "num": 226886,
-      "word": "双胞胎姐妹互换身份被凶手误杀",
-      "onboard_time": 1749450982,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225281,
       "num": 225281,
       "word": "尹正说快四十了一事无成",
@@ -849,6 +873,14 @@
       "onboard_time": 1749436822,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 223485,
+      "num": 193230,
+      "word": "只差1分钟进不去考场了",
+      "onboard_time": 1749451641,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219509,
@@ -968,6 +1000,14 @@
       "word": "C罗生涯第36冠",
       "onboard_time": 1749424641,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192931,
+      "num": 192931,
+      "word": "樊振东3比0闫安",
+      "onboard_time": 1749451941,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1107,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169084,
+      "num": 169084,
+      "word": "白鹿观众缘",
+      "onboard_time": 1749452482,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168896,
       "num": 225199,
       "word": "蒯曼平野美宇vs刘炜珊何卓佳",
@@ -1153,14 +1201,6 @@
       "onboard_time": 1749433279,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 165649,
-      "num": 165649,
-      "word": "只差1分钟进不去考场了",
-      "onboard_time": 1749451641,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165533,
@@ -1227,12 +1267,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 156739,
-      "num": 156739,
-      "word": "孙颖莎左看樊振东右看深圳队",
-      "onboard_time": 1749451882,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 160022,
+      "num": 146642,
+      "word": "白鹿扛剧能力",
+      "onboard_time": 1749453861,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 156612,
@@ -1275,14 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148646,
-      "num": 148646,
-      "word": "星巴克回应大降价",
-      "onboard_time": 1749448942,
-      "rank": 47,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 147392,
       "num": 147392,
       "word": "黑鹰直升机突降洛杉矶卸下弹药",
@@ -1315,12 +1347,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 143943,
-      "num": 143943,
-      "word": "樊振东3比0闫安",
-      "onboard_time": 1749451941,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 144461,
+      "num": 144461,
+      "word": "逆水寒手游",
+      "onboard_time": 1749451762,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143362,
+      "num": 143362,
+      "word": "北大称已多次派人陪同韦东奕就诊",
+      "onboard_time": 1749453982,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143213,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1749449002,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140313,
+      "num": 140313,
+      "word": "敖瑞鹏一万三偏偏你最心软",
+      "onboard_time": 1749453141,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 140277,
@@ -1352,6 +1400,22 @@
       "word": "张佳宁杀回民国谍战剧赛道",
       "onboard_time": 1749440962,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138421,
+      "num": 138421,
+      "word": "洛杉矶大骚乱背后的4个问题",
+      "onboard_time": 1749453081,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 138093,
+      "num": 138093,
+      "word": "邋邋遢遢也行的肖战",
+      "onboard_time": 1749453560,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1393,6 +1457,14 @@
       "onboard_time": 1749440421,
       "rank": 43,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 136366,
+      "num": 136366,
+      "word": "南宁一瓜园遭村民哄抢瓜农报警求助",
+      "onboard_time": 1749453322,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136255,
@@ -1443,6 +1515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133662,
+      "num": 129292,
+      "word": "张泉灵说吴宣仪在乘风里赢了",
+      "onboard_time": 1749453621,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133661,
       "num": 133661,
       "word": "阿卡高芙故宫合影含金量还在上升",
@@ -1491,6 +1571,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126780,
+      "num": 126780,
+      "word": "庞博 我现在赢小学生都有悬念了吗",
+      "onboard_time": 1749453741,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126685,
+      "num": 126685,
+      "word": "谁家男女主一个小萝卜一个小口袋",
+      "onboard_time": 1749453982,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126506,
+      "num": 126506,
+      "word": "威神V 全员加速中",
+      "onboard_time": 1749453802,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125379,
       "num": 125379,
       "word": "5月份CPI同比下降0.1%",
@@ -1513,6 +1617,14 @@
       "onboard_time": 1749439221,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123135,
+      "num": 147179,
+      "word": "高考被AI发现作弊记0分系诈骗",
+      "onboard_time": 1749453741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122872,
@@ -1843,6 +1955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60072,
+      "num": 377680,
+      "word": "涉不防晒的防晒衣企业多年0人参保",
+      "onboard_time": 1749452842,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 58201,
       "num": 189771,
       "word": "招财猫文物实为古人用的熨斗",
@@ -1955,6 +2075,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 38365,
+      "num": 138214,
+      "word": "阿尔卡拉斯惊天大逆转",
+      "onboard_time": 1749453982,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37756,
       "num": 472685,
       "word": "情绪不稳定的人更爱长结节吗",
@@ -2032,6 +2160,22 @@
       "word": "第17个世界海洋日",
       "onboard_time": 1749406695,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28544,
+      "num": 196486,
+      "word": "人字拖穿久了会变成扁平足吗",
+      "onboard_time": 1749451941,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23862,
+      "num": 196930,
+      "word": "免费艾灸馆卖给老人千元蜂胶",
+      "onboard_time": 1749452783,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2137,14 +2281,6 @@
       "onboard_time": 1749444683,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13764,
-      "num": 147040,
-      "word": "人字拖穿久了会变成扁平足吗",
-      "onboard_time": 1749451941,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 12200,
