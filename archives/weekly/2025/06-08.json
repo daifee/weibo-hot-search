@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749440456110,
+  "endTime": 1749441350384,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 645645,
+      "num": 645645,
+      "word": "樊振东vs徐瑛彬",
+      "onboard_time": 1749439942,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 645437,
       "num": 645437,
       "word": "王楚钦谈输给伊朗14岁小将",
@@ -441,6 +449,14 @@
       "onboard_time": 1749380662,
       "rank": 7,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 644378,
+      "num": 644378,
+      "word": "中餐厅9收官",
+      "onboard_time": 1749439401,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 638258,
@@ -611,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511623,
+      "num": 511623,
+      "word": "好想活得像labubu一样啊",
+      "onboard_time": 1749437361,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 506808,
       "num": 506808,
       "word": "五胞胎参加高考其父发文谈感受",
@@ -649,14 +673,6 @@
       "onboard_time": 1749380062,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 479466,
-      "num": 479466,
-      "word": "中餐厅9收官",
-      "onboard_time": 1749439401,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 473580,
@@ -707,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 452941,
+      "num": 452941,
+      "word": "终于知道东北为什么不宣传景区了",
+      "onboard_time": 1749436159,
+      "rank": 30,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 452661,
       "num": 452661,
       "word": "年度乘风舞台",
@@ -715,20 +739,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 452258,
-      "num": 452258,
-      "word": "终于知道东北为什么不宣传景区了",
-      "onboard_time": 1749436159,
-      "rank": 30,
-      "category": "幽默,旅游"
-    },
-    {
       "raw_hot": 437814,
       "num": 467342,
       "word": "洛杉矶骚乱后纽约也乱了",
       "onboard_time": 1749390803,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 436270,
+      "num": 436270,
+      "word": "江西卷是要选拔门捷列夫吗",
+      "onboard_time": 1749438982,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 434441,
@@ -753,14 +777,6 @@
       "onboard_time": 1749382401,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 427778,
-      "num": 427778,
-      "word": "好想活得像labubu一样啊",
-      "onboard_time": 1749437361,
-      "rank": 8,
-      "category": "动漫"
     },
     {
       "raw_hot": 424820,
@@ -1107,20 +1123,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314969,
-      "num": 314969,
+      "raw_hot": 321053,
+      "num": 321053,
       "word": "新华社记者在洛杉矶中催泪弹",
       "onboard_time": 1749437061,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 313887,
-      "num": 313887,
-      "word": "江西卷是要选拔门捷列夫吗",
-      "onboard_time": 1749438982,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 311328,
@@ -1132,7 +1140,7 @@
     },
     {
       "raw_hot": 311291,
-      "num": 311291,
+      "num": 459887,
       "word": "多地国补暂停或因618活动本身存在折扣",
       "onboard_time": 1749437120,
       "rank": 20,
@@ -1211,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292155,
+      "num": 314373,
+      "word": "男宝2",
+      "onboard_time": 1749436941,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291084,
       "num": 393602,
       "word": "同学说你像马嘉祺你还真当真了",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1749347660,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 288587,
+      "num": 288587,
+      "word": "山东小六科开始发力了",
+      "onboard_time": 1749439040,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 288576,
@@ -1299,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273604,
-      "num": 314373,
-      "word": "男宝2",
-      "onboard_time": 1749436941,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 273475,
       "num": 273475,
       "word": "当我告诉自己买iPad是为了提高效率",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1749379763,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267284,
-      "num": 267284,
-      "word": "山东小六科开始发力了",
-      "onboard_time": 1749439040,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 266898,
@@ -1427,20 +1435,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258163,
+      "num": 258163,
+      "word": "原来正品质量这么差",
+      "onboard_time": 1749435921,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 255774,
       "num": 255774,
       "word": "四面佛开机",
       "onboard_time": 1749367880,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255096,
-      "num": 211808,
-      "word": "樊振东vs徐瑛彬",
-      "onboard_time": 1749439942,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 255010,
@@ -1491,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247550,
+      "num": 247550,
+      "word": "留几手发长文谈韦东奕",
+      "onboard_time": 1749439161,
+      "rank": 35,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 247452,
       "num": 187293,
       "word": "曹颖邓萃雯姐姐值得",
@@ -1537,14 +1553,6 @@
       "onboard_time": 1749317717,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235391,
-      "num": 200901,
-      "word": "原来正品质量这么差",
-      "onboard_time": 1749435921,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 232769,
@@ -1596,7 +1604,7 @@
     },
     {
       "raw_hot": 226888,
-      "num": 226888,
+      "num": 241065,
       "word": "章子怡李现酱园弄演情人",
       "onboard_time": 1749439882,
       "rank": 26,
@@ -1609,6 +1617,14 @@
       "onboard_time": 1749310702,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225196,
+      "num": 225196,
+      "word": "黄金",
+      "onboard_time": 1749436822,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 222854,
@@ -1673,6 +1689,14 @@
       "onboard_time": 1749359541,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217304,
+      "num": 217304,
+      "word": "澳门偶遇金莎孙丞潇牵手",
+      "onboard_time": 1749440662,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 214066,
@@ -1923,14 +1947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193253,
-      "num": 193253,
-      "word": "留几手发长文谈韦东奕",
-      "onboard_time": 1749439161,
-      "rank": 35,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 193000,
       "num": 193000,
       "word": "浪姐直播",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1749386301,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188790,
+      "num": 188790,
+      "word": "王楚钦或将对阵樊振东",
+      "onboard_time": 1749440843,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 187884,
@@ -2355,6 +2379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170223,
+      "num": 170223,
+      "word": "乒超直播",
+      "onboard_time": 1749440063,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170053,
       "num": 170053,
       "word": "谢可寅赖美云唱到一半发现没会员",
@@ -2377,6 +2409,14 @@
       "onboard_time": 1749363382,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168896,
+      "num": 168896,
+      "word": "蒯曼平野美宇vs刘炜珊何卓佳",
+      "onboard_time": 1749441261,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 168051,
@@ -2473,6 +2513,14 @@
       "onboard_time": 1749388222,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165358,
+      "num": 165358,
+      "word": "秦始皇遣使昆仑山采仙药石锤证据来了",
+      "onboard_time": 1749437120,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164847,
@@ -2611,14 +2659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160169,
-      "num": 160169,
-      "word": "秦始皇遣使昆仑山采仙药石锤证据来了",
-      "onboard_time": 1749437120,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160030,
       "num": 160030,
       "word": "WE晋级败者组半决赛",
@@ -2723,14 +2763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154430,
-      "num": 163457,
-      "word": "乒超直播",
-      "onboard_time": 1749440063,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154290,
       "num": 556149,
       "word": "36个号码12小时打7000多个诈骗电话",
@@ -2761,6 +2793,14 @@
       "onboard_time": 1749357561,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153252,
+      "num": 153252,
+      "word": "孙颖莎好萌",
+      "onboard_time": 1749441141,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 153234,
@@ -2963,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145834,
+      "num": 145834,
+      "word": "适合上班族的优质减脂餐",
+      "onboard_time": 1749441261,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 145652,
       "num": 145652,
       "word": "侯佩岑发长文总结浪姐",
@@ -2985,6 +3033,14 @@
       "onboard_time": 1749394882,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144271,
+      "num": 144271,
+      "word": "C罗发六个感叹号庆祝夺冠",
+      "onboard_time": 1749441261,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 144236,
@@ -3163,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138566,
+      "num": 138566,
+      "word": "张佳宁杀回民国谍战剧赛道",
+      "onboard_time": 1749440962,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137999,
       "num": 160312,
       "word": "浪姐成团名单什么时候出",
@@ -3297,6 +3361,14 @@
       "onboard_time": 1749434420,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133247,
+      "num": 133247,
+      "word": "陕西命题组要不你赔我点钱吧",
+      "onboard_time": 1749441321,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 132262,
@@ -4067,6 +4139,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 82593,
+      "num": 166898,
+      "word": "这一幕吓坏美国记者",
+      "onboard_time": 1749439641,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82530,
       "num": 383059,
       "word": "爸爸充值游戏后想退款嫁祸给2岁娃",
@@ -4259,14 +4339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62371,
-      "num": 166898,
-      "word": "这一幕吓坏美国记者",
-      "onboard_time": 1749439641,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 61531,
       "num": 61531,
       "word": "家长用9885元做985鲜花送孩子",
@@ -4345,6 +4417,14 @@
       "onboard_time": 1749381381,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56997,
+      "num": 408523,
+      "word": "美洛杉矶抗议者与国民警卫队冲突现场",
+      "onboard_time": 1749439281,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56479,
@@ -4523,6 +4603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40241,
+      "num": 311880,
+      "word": "近视手术能真正治愈近视吗",
+      "onboard_time": 1749439942,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 39917,
       "num": 39917,
       "word": "满级QQ",
@@ -4531,12 +4619,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 39423,
-      "num": 408523,
-      "word": "美洛杉矶抗议者与国民警卫队冲突现场",
-      "onboard_time": 1749439281,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 39503,
+      "num": 230371,
+      "word": "陆柯燃今日高考气象播报",
+      "onboard_time": 1749440362,
+      "rank": 31,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 39346,
@@ -4683,14 +4771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29349,
-      "num": 311880,
-      "word": "近视手术能真正治愈近视吗",
-      "onboard_time": 1749439942,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 29327,
       "num": 34424,
       "word": "周笔畅长沙演唱会",
@@ -4769,14 +4849,6 @@
       "onboard_time": 1749338477,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22075,
-      "num": 209042,
-      "word": "陆柯燃今日高考气象播报",
-      "onboard_time": 1749440362,
-      "rank": 31,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 21861,

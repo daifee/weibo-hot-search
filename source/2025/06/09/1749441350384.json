@@ -1,0 +1,410 @@
+{
+  "runTime": 1749441350384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2528628,
+        "num": 2528628,
+        "word": "婚检查出艾滋医生未告知伴侣致感染",
+        "onboard_time": 1749434779,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1000892,
+        "num": 1000892,
+        "word": "高考化学",
+        "onboard_time": 1749432801,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31093,
+        "num": 829255,
+        "word": "我国海洋经济登上新台阶",
+        "onboard_time": 1749391584,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 697260,
+        "num": 697260,
+        "word": "藏海传逆跌",
+        "onboard_time": 1749434601,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 645645,
+        "num": 645645,
+        "word": "樊振东vs徐瑛彬",
+        "onboard_time": 1749439942,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644378,
+        "num": 644378,
+        "word": "中餐厅9收官",
+        "onboard_time": 1749439401,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613797,
+        "num": 613797,
+        "word": "央视曝光不防晒的防晒衣",
+        "onboard_time": 1749395063,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543149,
+        "num": 543149,
+        "word": "特朗普下令解放洛杉矶",
+        "onboard_time": 1749427101,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 511623,
+        "num": 511623,
+        "word": "好想活得像labubu一样啊",
+        "onboard_time": 1749437361,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 257074,
+        "num": 459887,
+        "word": "多地国补暂停或因618活动本身存在折扣",
+        "onboard_time": 1749437120,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695679,
+        "num": 457862,
+        "word": "真情侣在综艺里吻上了",
+        "onboard_time": 1749426020,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452941,
+        "num": 452941,
+        "word": "终于知道东北为什么不宣传景区了",
+        "onboard_time": 1749436159,
+        "rank": 11,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 436270,
+        "num": 436270,
+        "word": "江西卷是要选拔门捷列夫吗",
+        "onboard_time": 1749438982,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 397290,
+        "num": 397290,
+        "word": "花1.3万买了2000平米的乡下小院",
+        "onboard_time": 1749426739,
+        "rank": 13,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 321053,
+        "num": 321053,
+        "word": "新华社记者在洛杉矶中催泪弹",
+        "onboard_time": 1749437061,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 320610,
+        "num": 320610,
+        "word": "彭冠英开车送朱一龙回家",
+        "onboard_time": 1749434779,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292155,
+        "num": 292155,
+        "word": "男宝2",
+        "onboard_time": 1749436941,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255513,
+        "num": 289556,
+        "word": "临江仙播的好不好白月梵星最清楚",
+        "onboard_time": 1749437302,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70239,
+        "num": 288822,
+        "word": "贝克汉姆早C晚A",
+        "onboard_time": 1749438380,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40241,
+        "num": 288604,
+        "word": "近视手术能真正治愈近视吗",
+        "onboard_time": 1749439942,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288587,
+        "num": 288587,
+        "word": "山东小六科开始发力了",
+        "onboard_time": 1749439040,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258163,
+        "num": 258163,
+        "word": "原来正品质量这么差",
+        "onboard_time": 1749435921,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253400,
+        "num": 253400,
+        "word": "李昀锐不躲孟子义",
+        "onboard_time": 1749429142,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247550,
+        "num": 247550,
+        "word": "留几手发长文谈韦东奕",
+        "onboard_time": 1749439161,
+        "rank": 23,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 241923,
+        "num": 241923,
+        "word": "洛杉矶全市进入战术警戒状态",
+        "onboard_time": 1749427101,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217708,
+        "num": 241065,
+        "word": "章子怡李现酱园弄演情人",
+        "onboard_time": 1749439882,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217415,
+        "num": 236314,
+        "word": "迪丽热巴高雯差点被换掉",
+        "onboard_time": 1749428063,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39503,
+        "num": 230371,
+        "word": "陆柯燃今日高考气象播报",
+        "onboard_time": 1749440362,
+        "rank": 27,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 194569,
+        "num": 229209,
+        "word": "BLACKPINK将于今年下半年正式回归",
+        "onboard_time": 1749434242,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225196,
+        "num": 225196,
+        "word": "黄金",
+        "onboard_time": 1749436822,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217304,
+        "num": 217304,
+        "word": "澳门偶遇金莎孙丞潇牵手",
+        "onboard_time": 1749440662,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199892,
+        "num": 199892,
+        "word": "女孩试裤子店员提醒肚子大查出肿瘤",
+        "onboard_time": 1749393382,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198345,
+        "num": 198345,
+        "word": "高考",
+        "onboard_time": 1749426201,
+        "rank": 32,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 188790,
+        "num": 188790,
+        "word": "王楚钦或将对阵樊振东",
+        "onboard_time": 1749440843,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174557,
+        "num": 174557,
+        "word": "乒超",
+        "onboard_time": 1749434359,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170223,
+        "num": 170223,
+        "word": "乒超直播",
+        "onboard_time": 1749440063,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168896,
+        "num": 168896,
+        "word": "蒯曼平野美宇vs刘炜珊何卓佳",
+        "onboard_time": 1749441261,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168001,
+        "num": 168001,
+        "word": "labubu",
+        "onboard_time": 1749428541,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 82593,
+        "num": 166526,
+        "word": "这一幕吓坏美国记者",
+        "onboard_time": 1749439641,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166451,
+        "num": 166451,
+        "word": "酱园弄",
+        "onboard_time": 1749439582,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165358,
+        "num": 165358,
+        "word": "秦始皇遣使昆仑山采仙药石锤证据来了",
+        "onboard_time": 1749437120,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56997,
+        "num": 162177,
+        "word": "美洛杉矶抗议者与国民警卫队冲突现场",
+        "onboard_time": 1749439281,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160832,
+        "num": 160832,
+        "word": "刘浩存演技",
+        "onboard_time": 1749430102,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153252,
+        "num": 153252,
+        "word": "孙颖莎好萌",
+        "onboard_time": 1749441141,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145834,
+        "num": 145834,
+        "word": "适合上班族的优质减脂餐",
+        "onboard_time": 1749441261,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144271,
+        "num": 144271,
+        "word": "C罗发六个感叹号庆祝夺冠",
+        "onboard_time": 1749441261,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140007,
+        "num": 140007,
+        "word": "A股",
+        "onboard_time": 1749438741,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138566,
+        "num": 138566,
+        "word": "张佳宁杀回民国谍战剧赛道",
+        "onboard_time": 1749440962,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133247,
+        "num": 133247,
+        "word": "陕西命题组要不你赔我点钱吧",
+        "onboard_time": 1749441321,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131887,
+        "num": 131887,
+        "word": "男子胳膊上长刺猴自己用钳子拔掉",
+        "onboard_time": 1749427881,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让勤奋学习成为青春远航的动力#"
+    }
+  }
+}
