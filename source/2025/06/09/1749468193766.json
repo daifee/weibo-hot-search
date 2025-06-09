@@ -1,0 +1,410 @@
+{
+  "runTime": 1749468193766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1329660,
+        "num": 1329660,
+        "word": "高考结束",
+        "onboard_time": 1749461781,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 825790,
+        "num": 825790,
+        "word": "高考生物",
+        "onboard_time": 1749462442,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45593,
+        "num": 762908,
+        "word": "科技点亮网络文明时空",
+        "onboard_time": 1749466821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 721272,
+        "num": 721272,
+        "word": "文科生碎了",
+        "onboard_time": 1749465260,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 576887,
+        "num": 576887,
+        "word": "发工资不让干活是一种新型诈骗",
+        "onboard_time": 1749463460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677735,
+        "num": 572625,
+        "word": "尚公主 孟子义李昀锐",
+        "onboard_time": 1749461540,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497580,
+        "num": 497580,
+        "word": "星巴克降价",
+        "onboard_time": 1749458602,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 453320,
+        "num": 453320,
+        "word": "山东考生说高考结束该让爹妈歇歇了",
+        "onboard_time": 1749459921,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383857,
+        "num": 453264,
+        "word": "张凌赫正式确诊为上头男",
+        "onboard_time": 1749462142,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294684,
+        "num": 451581,
+        "word": "父亲举张凌赫立牌接高考女儿",
+        "onboard_time": 1749464480,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372429,
+        "num": 448707,
+        "word": "张靓颖工作室道歉",
+        "onboard_time": 1749467960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34569,
+        "num": 447452,
+        "word": "中国汽车文化走向全球",
+        "onboard_time": 1749464660,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 291545,
+        "num": 445226,
+        "word": "让王安宇曾黎演母子的简直是天才",
+        "onboard_time": 1749462501,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205487,
+        "num": 443880,
+        "word": "临江仙",
+        "onboard_time": 1749465260,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35382,
+        "num": 442472,
+        "word": "民警10年前守护的女孩成了同事",
+        "onboard_time": 1749466641,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 140573,
+        "num": 441078,
+        "word": "红的直接免单",
+        "onboard_time": 1749463581,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196443,
+        "num": 439124,
+        "word": "肖战贴加官手抖了",
+        "onboard_time": 1749461182,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5574,
+        "num": 436795,
+        "word": "慕思金管家创除螨世界纪录",
+        "onboard_time": 1749464060,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179992,
+        "num": 436018,
+        "word": "王楚钦3比0牛冠凯",
+        "onboard_time": 1749467600,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21366,
+        "num": 433020,
+        "word": "每天吃鸡蛋能降低患癌率吗",
+        "onboard_time": 1749466341,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 576038,
+        "num": 432663,
+        "word": "路人抓拍Angelababy",
+        "onboard_time": 1749464000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431323,
+        "num": 431323,
+        "word": "高考政治",
+        "onboard_time": 1749458182,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 746395,
+        "num": 429034,
+        "word": "尹正发长文道歉",
+        "onboard_time": 1749449662,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437565,
+        "num": 421025,
+        "word": "洛杉矶",
+        "onboard_time": 1749460280,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147585,
+        "num": 414750,
+        "word": "泡泡玛特股价2024年至今涨幅超11倍",
+        "onboard_time": 1749464060,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 412187,
+        "num": 412187,
+        "word": "煮粽子没开抽油烟机夫妻俩均中毒",
+        "onboard_time": 1749464722,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375869,
+        "num": 375869,
+        "word": "樊振东vs徐海东",
+        "onboard_time": 1749466281,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178086,
+        "num": 362747,
+        "word": "ITZY回归",
+        "onboard_time": 1749466461,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161971,
+        "num": 355501,
+        "word": "肖战我都33了",
+        "onboard_time": 1749457461,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14544,
+        "num": 352671,
+        "word": "俄罗斯战略轰炸机全都露天停放",
+        "onboard_time": 1749467481,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352070,
+        "num": 352070,
+        "word": "婚检",
+        "onboard_time": 1749457822,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286575,
+        "num": 286575,
+        "word": "高考被AI发现作弊记0分系诈骗",
+        "onboard_time": 1749453741,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255823,
+        "num": 255823,
+        "word": "北大工会称无给员工派生活助理先例",
+        "onboard_time": 1749464000,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254615,
+        "num": 254615,
+        "word": "王楚钦vs牛冠凯",
+        "onboard_time": 1749466461,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230722,
+        "num": 230722,
+        "word": "甲状腺好的3个常见表现",
+        "onboard_time": 1749461361,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227510,
+        "num": 227510,
+        "word": "高考采访重庆女生撞脸好几个女明星",
+        "onboard_time": 1749467062,
+        "rank": 35,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 204396,
+        "num": 204396,
+        "word": "王楚钦樊振东上次交手还是在去年乒超",
+        "onboard_time": 1749461361,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187821,
+        "num": 187821,
+        "word": "美国正向台湾运送新一批M1A2坦克",
+        "onboard_time": 1749466641,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 185534,
+        "num": 185534,
+        "word": "洛杉矶乱成一锅粥",
+        "onboard_time": 1749442762,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58023,
+        "num": 181002,
+        "word": "胡润与王宁交换绝版labubu",
+        "onboard_time": 1749467000,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 179015,
+        "num": 179015,
+        "word": "刘品言宣布怀孕",
+        "onboard_time": 1749444863,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156935,
+        "num": 156935,
+        "word": "祝绪丹回应成团",
+        "onboard_time": 1749463700,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154923,
+        "num": 154923,
+        "word": "马斯克的星链卫星接连坠落",
+        "onboard_time": 1749460641,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147674,
+        "num": 147674,
+        "word": "特朗普说要结束洛杉矶移民暴乱",
+        "onboard_time": 1749465201,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136048,
+        "num": 136048,
+        "word": "宁夏一县招聘0彩礼新婚夫妇可加分",
+        "onboard_time": 1749467241,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134144,
+        "num": 134144,
+        "word": "樊振东状态",
+        "onboard_time": 1749450442,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132735,
+        "num": 132735,
+        "word": "小铜宝",
+        "onboard_time": 1749465621,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125279,
+        "num": 131841,
+        "word": "李晟浪姐意难平",
+        "onboard_time": 1749464361,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130957,
+        "num": 130957,
+        "word": "物化生 早出晚归",
+        "onboard_time": 1749466881,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130632,
+        "num": 130632,
+        "word": "将农民工网约车司机纳入社保范围",
+        "onboard_time": 1749465920,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设海洋强国总书记这样强调#"
+    }
+  }
+}
