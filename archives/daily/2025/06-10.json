@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749507941682,
+  "endTime": 1749509039134,
   "band_list": [
     {
       "raw_hot": 970316,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 718479,
+      "num": 718479,
+      "word": "北大将帮韦东奕积极治疗",
+      "onboard_time": 1749483682,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 675614,
       "num": 267887,
       "word": "余庆伟道歉",
@@ -33,14 +41,6 @@
       "onboard_time": 1749484340,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 587913,
-      "num": 587913,
-      "word": "北大将帮韦东奕积极治疗",
-      "onboard_time": 1749483682,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 476073,
@@ -99,6 +99,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250303,
+      "num": 250303,
+      "word": "56岁男子停车失误致1死2伤",
+      "onboard_time": 1749503834,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 244726,
+      "num": 244726,
+      "word": "大爷5块钱买折叠沙发到手竟是支笔",
+      "onboard_time": 1749486140,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234213,
       "num": 234213,
       "word": "程潇前任",
@@ -131,11 +147,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166968,
-      "num": 166968,
-      "word": "大爷5块钱买折叠沙发到手竟是支笔",
-      "onboard_time": 1749486140,
-      "rank": 37,
+      "raw_hot": 165849,
+      "num": 148240,
+      "word": "新房在小姑子名下准新娘直接退婚",
+      "onboard_time": 1749469940,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -163,19 +179,27 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 156657,
-      "num": 156657,
-      "word": "56岁男子停车失误致1死2伤",
-      "onboard_time": 1749503834,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 139385,
+      "num": 139385,
+      "word": "女子贷款4万花10万做医美崩溃",
+      "onboard_time": 1749487939,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 148240,
-      "num": 148240,
-      "word": "新房在小姑子名下准新娘直接退婚",
-      "onboard_time": 1749469940,
-      "rank": 23,
+      "raw_hot": 133165,
+      "num": 51959,
+      "word": "樊振东回应战胜林高远",
+      "onboard_time": 1749504914,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132051,
+      "num": 132051,
+      "word": "燃气公司招北大毕业生当抄表工",
+      "onboard_time": 1749489377,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -187,20 +211,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120148,
+      "num": 120148,
+      "word": "乌无人机袭击俄军用机场和导弹工厂",
+      "onboard_time": 1749486379,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120075,
       "num": 120075,
       "word": "华为广告 黑尾蜡嘴雀",
       "onboard_time": 1749485840,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 119386,
-      "num": 119386,
-      "word": "女子贷款4万花10万做医美崩溃",
-      "onboard_time": 1749487939,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118080,
@@ -291,22 +315,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 92880,
-      "num": 92880,
-      "word": "乌无人机袭击俄军用机场和导弹工厂",
-      "onboard_time": 1749486379,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 91886,
-      "num": 36508,
-      "word": "樊振东回应战胜林高远",
-      "onboard_time": 1749504914,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89903,
       "num": 89903,
       "word": "Shanks成角了",
@@ -323,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87776,
+      "num": 149156,
+      "word": "骨科妇科医生推荐咳嗽药",
+      "onboard_time": 1749486739,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 86133,
       "num": 98339,
       "word": "张远与大学生合唱仰望星云",
@@ -331,20 +347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85723,
-      "num": 101238,
-      "word": "燃气公司招北大毕业生当抄表工",
-      "onboard_time": 1749489377,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84506,
       "num": 84506,
       "word": "197帅哥被浙大提前录取仍参加高考",
       "onboard_time": 1749472281,
       "rank": 41,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 83263,
+      "num": 83263,
+      "word": "肖战感谢大家陪藏海走过一程",
+      "onboard_time": 1749490936,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 82842,
@@ -443,12 +459,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 68610,
-      "num": 68610,
-      "word": "肖战感谢大家陪藏海走过一程",
-      "onboard_time": 1749490936,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 69789,
+      "num": 69789,
+      "word": "杀害情人丈夫的谢光明被执行死刑",
+      "onboard_time": 1749498314,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66122,
@@ -467,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61829,
-      "num": 149156,
-      "word": "骨科妇科医生推荐咳嗽药",
-      "onboard_time": 1749486739,
-      "rank": 35,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 61304,
       "num": 61304,
       "word": "黄晓明说尹正特别好特别好特别好",
@@ -491,11 +499,27 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 54065,
-      "num": 54065,
-      "word": "杀害情人丈夫的谢光明被执行死刑",
-      "onboard_time": 1749498314,
-      "rank": 38,
+      "raw_hot": 53887,
+      "num": 53887,
+      "word": "长安的荔枝这段高考生别看",
+      "onboard_time": 1749507374,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 49026,
+      "num": 49026,
+      "word": "多方回应制止男子拖拽女童大爷情况",
+      "onboard_time": 1749494715,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48328,
+      "num": 48328,
+      "word": "高考语文40分钟前被马蜂蛰了",
+      "onboard_time": 1749497534,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -515,20 +539,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39591,
+      "num": 132173,
+      "word": "燃气公司回应招北大毕业生当抄表工",
+      "onboard_time": 1749507856,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36683,
       "num": 36683,
       "word": "路人抓拍Angelababy",
       "onboard_time": 1749464000,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35924,
-      "num": 35924,
-      "word": "多方回应制止男子拖拽女童大爷情况",
-      "onboard_time": 1749494715,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33285,
@@ -539,28 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33221,
-      "num": 33221,
-      "word": "高考语文40分钟前被马蜂蛰了",
-      "onboard_time": 1749497534,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27364,
-      "num": 27364,
+      "raw_hot": 32784,
+      "num": 32784,
       "word": "给母亲磕头后他又跳湖救出第5人",
       "onboard_time": 1749503113,
       "rank": 48,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 26363,
-      "num": 24926,
-      "word": "长安的荔枝这段高考生别看",
-      "onboard_time": 1749507374,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 25690,
@@ -705,14 +713,6 @@
       "onboard_time": 1749490575,
       "rank": 23,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 11027,
-      "num": 26710,
-      "word": "燃气公司回应招北大毕业生当抄表工",
-      "onboard_time": 1749507856,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10397,
