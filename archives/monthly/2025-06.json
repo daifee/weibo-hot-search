@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749490844864,
+  "endTime": 1749494123478,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -27803,6 +27803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61560,
+      "num": 61560,
+      "word": "张极披荆斩棘",
+      "onboard_time": 1749493455,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61531,
       "num": 61531,
       "word": "家长用9885元做985鲜花送孩子",
@@ -30211,6 +30219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37516,
+      "num": 37516,
+      "word": "肖战感谢大家陪藏海走过一程",
+      "onboard_time": 1749490936,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37464,
       "num": 167542,
       "word": "单双休对心理有什么影响",
@@ -30769,6 +30785,14 @@
       "onboard_time": 1749304283,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 33285,
+      "num": 33285,
+      "word": "高考生喊话陈楚生演唱会唱将进酒",
+      "onboard_time": 1749491656,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33178,
@@ -31803,6 +31827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25690,
+      "num": 25690,
+      "word": "马嘉祺歌手彩排vlog",
+      "onboard_time": 1749492795,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25675,
       "num": 154978,
       "word": "沟通能力和表达能力有什么区别",
@@ -32001,6 +32033,14 @@
       "onboard_time": 1748802376,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24044,
+      "num": 24044,
+      "word": "高考采访",
+      "onboard_time": 1749493095,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 24030,
@@ -33393,6 +33433,14 @@
       "onboard_time": 1749482482,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 12570,
+      "num": 24212,
+      "word": "怎么一眨眼就毕业了",
+      "onboard_time": 1749492676,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 12377,

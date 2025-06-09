@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749490844864,
+  "endTime": 1749494123478,
   "band_list": [
     {
       "raw_hot": 970316,
@@ -435,6 +435,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 61560,
+      "num": 61560,
+      "word": "张极披荆斩棘",
+      "onboard_time": 1749493455,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61304,
       "num": 61304,
       "word": "黄晓明说尹正特别好特别好特别好",
@@ -475,12 +483,44 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 37516,
+      "num": 37516,
+      "word": "肖战感谢大家陪藏海走过一程",
+      "onboard_time": 1749490936,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36683,
       "num": 36683,
       "word": "路人抓拍Angelababy",
       "onboard_time": 1749464000,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33285,
+      "num": 33285,
+      "word": "高考生喊话陈楚生演唱会唱将进酒",
+      "onboard_time": 1749491656,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25690,
+      "num": 25690,
+      "word": "马嘉祺歌手彩排vlog",
+      "onboard_time": 1749492795,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24044,
+      "num": 24044,
+      "word": "高考采访",
+      "onboard_time": 1749493095,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 22707,
@@ -529,6 +569,14 @@
       "onboard_time": 1749487158,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12570,
+      "num": 24212,
+      "word": "怎么一眨眼就毕业了",
+      "onboard_time": 1749492676,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 11360,
