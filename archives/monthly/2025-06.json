@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749468193766,
+  "endTime": 1749469158479,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -761,6 +761,14 @@
       "onboard_time": 1748857701,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1424503,
+      "num": 1424503,
+      "word": "文科生碎了",
+      "onboard_time": 1749465260,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 1421747,
@@ -2387,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 740232,
+      "num": 740232,
+      "word": "发工资不让干活是一种新型诈骗",
+      "onboard_time": 1749463460,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 739611,
       "num": 739611,
       "word": "歌手本周双补位",
@@ -2481,14 +2497,6 @@
       "onboard_time": 1749206420,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 721272,
-      "num": 721272,
-      "word": "文科生碎了",
-      "onboard_time": 1749465260,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 718256,
@@ -3523,14 +3531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 576887,
-      "num": 576887,
-      "word": "发工资不让干活是一种新型诈骗",
-      "onboard_time": 1749463460,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 576038,
       "num": 432663,
       "word": "路人抓拍Angelababy",
@@ -3865,6 +3865,14 @@
       "onboard_time": 1749217349,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524155,
+      "num": 524155,
+      "word": "张靓颖工作室道歉",
+      "onboard_time": 1749467960,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 521971,
@@ -4665,6 +4673,14 @@
       "onboard_time": 1749099022,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 456836,
+      "num": 456836,
+      "word": "樊振东vs徐海东",
+      "onboard_time": 1749466281,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 456540,
@@ -5523,6 +5539,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 391277,
+      "num": 451581,
+      "word": "父亲举张凌赫立牌接高考女儿",
+      "onboard_time": 1749464480,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389745,
       "num": 240321,
       "word": "因闹矛盾1人扔烧烤签扎进同事脖子",
@@ -5771,14 +5795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 375869,
-      "num": 375869,
-      "word": "樊振东vs徐海东",
-      "onboard_time": 1749466281,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 375378,
       "num": 375378,
       "word": "杨丞琳陈妍希生日合照",
@@ -5873,14 +5889,6 @@
       "onboard_time": 1748920460,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 372429,
-      "num": 448707,
-      "word": "张靓颖工作室道歉",
-      "onboard_time": 1749467960,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 370290,
@@ -7571,14 +7579,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 294684,
-      "num": 451581,
-      "word": "父亲举张凌赫立牌接高考女儿",
-      "onboard_time": 1749464480,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294239,
       "num": 294239,
       "word": "中美元首通话内容",
@@ -8411,6 +8411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266019,
+      "num": 391850,
+      "word": "美国正向台湾运送新一批M1A2坦克",
+      "onboard_time": 1749466641,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 264902,
       "num": 264902,
       "word": "李在明为什么能赢",
@@ -8465,6 +8473,14 @@
       "onboard_time": 1749356542,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263220,
+      "num": 263220,
+      "word": "广东生物好难",
+      "onboard_time": 1749468201,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 262998,
@@ -9707,6 +9723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229965,
+      "num": 229965,
+      "word": "高考采访重庆女生撞脸好几个女明星",
+      "onboard_time": 1749467062,
+      "rank": 35,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 229752,
       "num": 90746,
       "word": "祝绪丹成团",
@@ -9771,14 +9795,6 @@
       "category": "幽默,民生新闻"
     },
     {
-      "raw_hot": 227510,
-      "num": 227510,
-      "word": "高考采访重庆女生撞脸好几个女明星",
-      "onboard_time": 1749467062,
-      "rank": 35,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 227506,
       "num": 277708,
       "word": "侯明昊黄杨钿甜雀骨七月开机",
@@ -9841,6 +9857,14 @@
       "onboard_time": 1749310702,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226550,
+      "num": 257136,
+      "word": "樊振东3比1胜徐海东",
+      "onboard_time": 1749468620,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 226374,
@@ -11755,6 +11779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200076,
+      "num": 200076,
+      "word": "特朗普说要结束洛杉矶移民暴乱",
+      "onboard_time": 1749465201,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200051,
       "num": 200051,
       "word": "看苏超",
@@ -13011,14 +13043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187821,
-      "num": 187821,
-      "word": "美国正向台湾运送新一批M1A2坦克",
-      "onboard_time": 1749466641,
-      "rank": 37,
-      "category": "军事"
-    },
-    {
       "raw_hot": 187720,
       "num": 295624,
       "word": "恒生银行抢劫案嫌疑人在深圳落网",
@@ -13571,6 +13595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182960,
+      "num": 362806,
+      "word": "ITZY回归",
+      "onboard_time": 1749466461,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182890,
       "num": 182890,
       "word": "查理苏正脸",
@@ -13787,14 +13819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180578,
-      "num": 180578,
-      "word": "特朗普说要结束洛杉矶移民暴乱",
-      "onboard_time": 1749465201,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 180431,
       "num": 180431,
       "word": "48岁再婚女子超快顺产生子",
@@ -14001,14 +14025,6 @@
       "onboard_time": 1749106160,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 178086,
-      "num": 362747,
-      "word": "ITZY回归",
-      "onboard_time": 1749466461,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 178052,
@@ -16611,6 +16627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153858,
+      "num": 153858,
+      "word": "那尔那茜是否违规建议彻查",
+      "onboard_time": 1749469102,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153813,
       "num": 153813,
       "word": "白鹿祝小酒窝生日快乐",
@@ -18761,6 +18785,14 @@
       "onboard_time": 1748852239,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138473,
+      "num": 138473,
+      "word": "美臀羊",
+      "onboard_time": 1749469102,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 138427,
@@ -25443,6 +25475,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 79608,
+      "num": 262771,
+      "word": "王楚钦乒超两连胜",
+      "onboard_time": 1749468681,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79563,
       "num": 1467437,
       "word": "端午经济成为消费活力新引擎",
@@ -28212,7 +28252,7 @@
     },
     {
       "raw_hot": 45593,
-      "num": 762908,
+      "num": 836237,
       "word": "科技点亮网络文明时空",
       "onboard_time": 1749466821,
       "rank": 2,
@@ -28313,6 +28353,14 @@
       "onboard_time": 1749139161,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44875,
+      "num": 153837,
+      "word": "伊万说要把胜利献给球迷",
+      "onboard_time": 1749468381,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 44747,
@@ -30171,6 +30219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29270,
+      "num": 194180,
+      "word": "石家庄一护士用无人机运送血样",
+      "onboard_time": 1749469042,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29223,
       "num": 127911,
       "word": "隔夜西瓜可以用大蒜保鲜吗",
@@ -30337,6 +30393,14 @@
       "onboard_time": 1748972176,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 28449,
+      "num": 153823,
+      "word": "智利游客遭纽约警察逮捕",
+      "onboard_time": 1749468500,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28194,
@@ -31627,6 +31691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18573,
+      "num": 350079,
+      "word": "国内小区业主自治为何总是一地鸡毛",
+      "onboard_time": 1749468923,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18563,
       "num": 298507,
       "word": "高考期间注意防范强降雨和高温",
@@ -31849,6 +31921,14 @@
       "onboard_time": 1748885955,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15776,
+      "num": 254748,
+      "word": "美群众自制燃烧弹与执法机构对抗",
+      "onboard_time": 1749468923,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15773,
@@ -32537,6 +32617,14 @@
       "onboard_time": 1749202282,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7397,
+      "num": 358305,
+      "word": "防晒衣的效果和材质有关吗",
+      "onboard_time": 1749468681,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 7312,

@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749468193766,
+  "endTime": 1749469158479,
   "band_list": [
     {
       "raw_hot": 2750380,
@@ -88,6 +88,14 @@
       "word": "高考生物",
       "onboard_time": 1749462442,
       "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1424503,
+      "num": 1424503,
+      "word": "文科生碎了",
+      "onboard_time": 1749465260,
+      "rank": 44,
       "category": "教育"
     },
     {
@@ -251,19 +259,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 740232,
+      "num": 740232,
+      "word": "发工资不让干活是一种新型诈骗",
+      "onboard_time": 1749463460,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 738392,
       "num": 550357,
       "word": "高考地理 玄学",
       "onboard_time": 1749444564,
       "rank": 47,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 721272,
-      "num": 721272,
-      "word": "文科生碎了",
-      "onboard_time": 1749465260,
-      "rank": 44,
       "category": "教育"
     },
     {
@@ -363,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 576887,
-      "num": 576887,
-      "word": "发工资不让干活是一种新型诈骗",
-      "onboard_time": 1749463460,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 576038,
       "num": 432663,
       "word": "路人抓拍Angelababy",
@@ -409,6 +409,14 @@
       "onboard_time": 1749445164,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524155,
+      "num": 524155,
+      "word": "张靓颖工作室道歉",
+      "onboard_time": 1749467960,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 517843,
@@ -473,6 +481,14 @@
       "onboard_time": 1749427101,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 456836,
+      "num": 456836,
+      "word": "樊振东vs徐海东",
+      "onboard_time": 1749466281,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 452941,
@@ -595,6 +611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 391277,
+      "num": 451581,
+      "word": "父亲举张凌赫立牌接高考女儿",
+      "onboard_time": 1749464480,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389338,
       "num": 389338,
       "word": "王楚钦樊振东上次交手还是在去年乒超",
@@ -633,22 +657,6 @@
       "onboard_time": 1749444262,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 375869,
-      "num": 375869,
-      "word": "樊振东vs徐海东",
-      "onboard_time": 1749466281,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 372429,
-      "num": 448707,
-      "word": "张靓颖工作室道歉",
-      "onboard_time": 1749467960,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 368294,
@@ -843,14 +851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 294684,
-      "num": 451581,
-      "word": "父亲举张凌赫立牌接高考女儿",
-      "onboard_time": 1749464480,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293284,
       "num": 293284,
       "word": "韦东奕每年参加北大组织体检",
@@ -1003,6 +1003,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266019,
+      "num": 391850,
+      "word": "美国正向台湾运送新一批M1A2坦克",
+      "onboard_time": 1749466641,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 263220,
+      "num": 263220,
+      "word": "广东生物好难",
+      "onboard_time": 1749468201,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 259124,
       "num": 284572,
       "word": "李雪琴免费听了半年陈昊宇演唱会",
@@ -1083,6 +1099,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 239928,
+      "num": 443880,
+      "word": "临江仙",
+      "onboard_time": 1749379763,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239183,
       "num": 239183,
       "word": "HYBE大楼迎接BTS回归",
@@ -1131,20 +1155,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229965,
+      "num": 229965,
+      "word": "高考采访重庆女生撞脸好几个女明星",
+      "onboard_time": 1749467062,
+      "rank": 35,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 227732,
       "num": 227732,
       "word": "建议工资每周发一次",
       "onboard_time": 1749445642,
       "rank": 35,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 227510,
-      "num": 227510,
-      "word": "高考采访重庆女生撞脸好几个女明星",
-      "onboard_time": 1749467062,
-      "rank": 35,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 227506,
@@ -1161,6 +1185,14 @@
       "onboard_time": 1749453443,
       "rank": 8,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 226550,
+      "num": 257136,
+      "word": "樊振东3比1胜徐海东",
+      "onboard_time": 1749468620,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 225281,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1749461182,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215485,
-      "num": 443880,
-      "word": "临江仙",
-      "onboard_time": 1749379763,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 214619,
@@ -1297,6 +1321,14 @@
       "onboard_time": 1749399200,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200076,
+      "num": 200076,
+      "word": "特朗普说要结束洛杉矶移民暴乱",
+      "onboard_time": 1749465201,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199932,
@@ -1427,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187821,
-      "num": 187821,
-      "word": "美国正向台湾运送新一批M1A2坦克",
-      "onboard_time": 1749466641,
-      "rank": 37,
-      "category": "军事"
-    },
-    {
       "raw_hot": 187492,
       "num": 383437,
       "word": "北大呼吁保护学者让其专心治学",
@@ -1499,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182960,
+      "num": 362806,
+      "word": "ITZY回归",
+      "onboard_time": 1749466461,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182190,
       "num": 395432,
       "word": "男子称恋爱3个月花10万后被抛弃",
@@ -1523,14 +1555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180578,
-      "num": 180578,
-      "word": "特朗普说要结束洛杉矶移民暴乱",
-      "onboard_time": 1749465201,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 179992,
       "num": 436018,
       "word": "王楚钦3比0牛冠凯",
@@ -1553,14 +1577,6 @@
       "onboard_time": 1749391043,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178086,
-      "num": 362747,
-      "word": "ITZY回归",
-      "onboard_time": 1749466461,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 178052,
@@ -1843,6 +1859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153858,
+      "num": 153858,
+      "word": "那尔那茜是否违规建议彻查",
+      "onboard_time": 1749469102,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153234,
       "num": 153234,
       "word": "A股",
@@ -2033,6 +2057,14 @@
       "onboard_time": 1749457402,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138473,
+      "num": 138473,
+      "word": "美臀羊",
+      "onboard_time": 1749469102,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 138421,
@@ -2563,6 +2595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 79608,
+      "num": 262771,
+      "word": "王楚钦乒超两连胜",
+      "onboard_time": 1749468681,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79198,
       "num": 284431,
       "word": "抓到一只憋笑失败的樊振东",
@@ -2788,7 +2828,7 @@
     },
     {
       "raw_hot": 45593,
-      "num": 762908,
+      "num": 836237,
       "word": "科技点亮网络文明时空",
       "onboard_time": 1749466821,
       "rank": 2,
@@ -2816,6 +2856,14 @@
       "word": "樊振东许昕王楚钦亮相乒超",
       "onboard_time": 1749459981,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 44875,
+      "num": 153837,
+      "word": "伊万说要把胜利献给球迷",
+      "onboard_time": 1749468381,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -3035,6 +3083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29270,
+      "num": 194180,
+      "word": "石家庄一护士用无人机运送血样",
+      "onboard_time": 1749469042,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28561,
       "num": 28561,
       "word": "第17个世界海洋日",
@@ -3049,6 +3105,14 @@
       "onboard_time": 1749451941,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 28449,
+      "num": 153823,
+      "word": "智利游客遭纽约警察逮捕",
+      "onboard_time": 1749468500,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28008,
@@ -3203,12 +3267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18573,
+      "num": 350079,
+      "word": "国内小区业主自治为何总是一地鸡毛",
+      "onboard_time": 1749468923,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16203,
       "num": 267552,
       "word": "婚检前需要做什么准备",
       "onboard_time": 1749461481,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15776,
+      "num": 254748,
+      "word": "美群众自制燃烧弹与执法机构对抗",
+      "onboard_time": 1749468923,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15325,
@@ -3281,6 +3361,14 @@
       "onboard_time": 1749462021,
       "rank": 33,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 7397,
+      "num": 358305,
+      "word": "防晒衣的效果和材质有关吗",
+      "onboard_time": 1749468681,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 6442,
