@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749476304762,
+  "endTime": 1749477014177,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 2393829,
-      "num": 593890,
+      "num": 663695,
       "word": "程潇给前任发信息被秒回",
       "onboard_time": 1749472281,
       "rank": 3,
@@ -291,6 +291,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 1171019,
+      "num": 407744,
+      "word": "赵丽颖赵德胤疑似海外电影节约会",
+      "onboard_time": 1749475463,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1114074,
       "num": 354170,
       "word": "历史给我道歉",
@@ -457,6 +465,14 @@
       "onboard_time": 1749352040,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 859667,
+      "num": 859667,
+      "word": "AL战胜BLG",
+      "onboard_time": 1749476423,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 853256,
@@ -699,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 628684,
-      "num": 407744,
-      "word": "赵丽颖赵德胤疑似海外电影节约会",
-      "onboard_time": 1749475463,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 627177,
       "num": 627177,
       "word": "山东政治",
@@ -883,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 551054,
+      "num": 551054,
+      "word": "樊振东3比1林高远",
+      "onboard_time": 1749475161,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 550536,
       "num": 550536,
       "word": "孙颖莎好萌",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1749370040,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 472478,
-      "num": 472478,
-      "word": "樊振东3比1林高远",
-      "onboard_time": 1749475161,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 471620,
@@ -1683,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333903,
+      "num": 282541,
+      "word": "程潇前任",
+      "onboard_time": 1749476543,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332782,
       "num": 428594,
       "word": "美国正向台湾运送新一批M1A2坦克",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1749437302,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 321204,
+      "num": 321204,
+      "word": "众星鼓励尹正",
+      "onboard_time": 1749474860,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 321053,
@@ -2156,7 +2180,7 @@
     },
     {
       "raw_hot": 265790,
-      "num": 265789,
+      "num": 284756,
       "word": "送荣耀祝你未来一路荣耀",
       "onboard_time": 1749474443,
       "rank": 32,
@@ -2169,14 +2193,6 @@
       "onboard_time": 1749311182,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 264704,
-      "num": 264704,
-      "word": "众星鼓励尹正",
-      "onboard_time": 1749474860,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 264187,
@@ -2320,6 +2336,14 @@
       "word": "王楚钦vs牛冠凯",
       "onboard_time": 1749466461,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 254023,
+      "num": 254023,
+      "word": "乒超看台现樊振东中国之壁巨幅tifo",
+      "onboard_time": 1749476483,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -2577,6 +2601,14 @@
       "onboard_time": 1749436822,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 224217,
+      "num": 224217,
+      "word": "宁艺卓撕拉片",
+      "onboard_time": 1749476364,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 223625,
@@ -2859,6 +2891,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 202763,
+      "num": 202763,
+      "word": "樊振东一日四战全胜",
+      "onboard_time": 1749476783,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202587,
       "num": 202587,
       "word": "原来汉堡一直都在被误解",
@@ -2921,6 +2961,14 @@
       "onboard_time": 1749463581,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 199112,
+      "num": 199112,
+      "word": "Bin 闹剧结束了",
+      "onboard_time": 1749476723,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 199036,
@@ -3489,6 +3537,14 @@
       "onboard_time": 1749456562,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178094,
+      "num": 178094,
+      "word": "王安宇广东版",
+      "onboard_time": 1749476002,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 178052,
@@ -4099,6 +4155,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 160205,
+      "num": 160205,
+      "word": "南通队队长父亲卖上海4套房搞青训",
+      "onboard_time": 1749476245,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160178,
       "num": 160178,
       "word": "谁家男女主一个小萝卜一个小口袋",
@@ -4235,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156668,
+      "num": 156668,
+      "word": "双胞胎姐妹拿错准考证",
+      "onboard_time": 1749476903,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156612,
       "num": 354340,
       "word": "黄霄雲新歌文案",
@@ -4299,14 +4371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153365,
-      "num": 153365,
-      "word": "王安宇广东版",
-      "onboard_time": 1749476002,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153234,
       "num": 153234,
       "word": "A股",
@@ -4321,6 +4385,14 @@
       "onboard_time": 1749457461,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 152768,
+      "num": 152768,
+      "word": "何猷亨前女友陈可欣再婚",
+      "onboard_time": 1749476964,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 152180,
@@ -5035,14 +5107,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 134171,
-      "num": 134171,
-      "word": "南通队队长父亲卖上海4套房搞青训",
-      "onboard_time": 1749476245,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133717,
       "num": 133717,
       "word": "威神V 全员加速中",
@@ -5307,6 +5371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123853,
+      "num": 290883,
+      "word": "广东一老板往凉茶里放布洛芬被判刑",
+      "onboard_time": 1749475703,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123711,
       "num": 123711,
       "word": "高考陪考家长们也被关心着",
@@ -5436,7 +5508,7 @@
     },
     {
       "raw_hot": 119202,
-      "num": 169178,
+      "num": 180517,
       "word": "樊振东林高远高质量对攻",
       "onboard_time": 1749476064,
       "rank": 38,
@@ -5617,14 +5689,6 @@
       "onboard_time": 1749397404,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112945,
-      "num": 265811,
-      "word": "广东一老板往凉茶里放布洛芬被判刑",
-      "onboard_time": 1749475703,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112847,
@@ -6081,6 +6145,14 @@
       "onboard_time": 1749438380,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75064,
+      "num": 278479,
+      "word": "六尺巷张英十二世孙讲述百年传承",
+      "onboard_time": 1749476663,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74903,
@@ -6827,6 +6899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 35992,
+      "num": 681051,
+      "word": "万千气象看安徽",
+      "onboard_time": 1749475463,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35807,
       "num": 196930,
       "word": "免费艾灸馆卖给老人千元蜂胶",
@@ -6963,6 +7043,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 31041,
+      "num": 336246,
+      "word": "了解4类针对考生骗局",
+      "onboard_time": 1749476125,
+      "rank": 33,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 30265,
       "num": 84917,
       "word": "吴梦洁赛后采访落泪",
@@ -7035,6 +7123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28269,
+      "num": 286813,
+      "word": "当地回应云冈石窟彩绘佛像被刻字",
+      "onboard_time": 1749475883,
+      "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 28008,
       "num": 411124,
       "word": "筷子多久换一次",
@@ -7083,14 +7179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24633,
-      "num": 198156,
-      "word": "了解4类针对考生骗局",
-      "onboard_time": 1749476125,
-      "rank": 33,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 23485,
       "num": 69937,
       "word": "哥伦比亚6.6级地震",
@@ -7112,6 +7200,14 @@
       "word": "劣质防晒衣会损伤皮肤吗",
       "onboard_time": 1749444683,
       "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21914,
+      "num": 289403,
+      "word": "怎么吃冰激淋不长肉",
+      "onboard_time": 1749475883,
+      "rank": 19,
       "category": "健康医疗"
     },
     {
@@ -7177,14 +7273,6 @@
       "onboard_time": 1749462081,
       "rank": 34,
       "category": "体育,民生新闻"
-    },
-    {
-      "raw_hot": 21074,
-      "num": 597538,
-      "word": "万千气象看安徽",
-      "onboard_time": 1749475463,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20526,
@@ -7289,14 +7377,6 @@
       "onboard_time": 1749468923,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18198,
-      "num": 229761,
-      "word": "当地回应云冈石窟彩绘佛像被刻字",
-      "onboard_time": 1749475883,
-      "rank": 26,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 18146,
@@ -7475,6 +7555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11350,
+      "num": 233514,
+      "word": "马德琳号的最后时刻",
+      "onboard_time": 1749476303,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 11138,
       "num": 20649,
       "word": "送考这一幕太暖了",
@@ -7487,14 +7575,6 @@
       "num": 367856,
       "word": "经常熬夜不利于降低体脂吗",
       "onboard_time": 1749393144,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 8249,
-      "num": 265790,
-      "word": "怎么吃冰激淋不长肉",
-      "onboard_time": 1749475883,
       "rank": 19,
       "category": "健康医疗"
     },
