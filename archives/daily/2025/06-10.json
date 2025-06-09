@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749509039134,
+  "endTime": 1749511511213,
   "band_list": [
     {
       "raw_hot": 970316,
@@ -11,20 +11,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 963278,
+      "num": 963278,
+      "word": "北大将帮韦东奕积极治疗",
+      "onboard_time": 1749483682,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 800123,
       "num": 586508,
       "word": "程潇给前任发信息被秒回",
       "onboard_time": 1749472281,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 718479,
-      "num": 718479,
-      "word": "北大将帮韦东奕积极治疗",
-      "onboard_time": 1749483682,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 675614,
@@ -51,11 +51,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 456964,
+      "num": 456964,
+      "word": "56岁男子停车失误致1死2伤",
+      "onboard_time": 1749503834,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 440161,
       "num": 440161,
       "word": "易烊千玺被湖南高考家长安排得明明白白",
       "onboard_time": 1749484161,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 356407,
+      "num": 356407,
+      "word": "大爷5块钱买折叠沙发到手竟是支笔",
+      "onboard_time": 1749486140,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -67,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 309911,
+      "num": 309911,
+      "word": "小孩被天降乌龟砸死饲主判赔128万",
+      "onboard_time": 1749480082,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306951,
       "num": 250790,
       "word": "张若昀拍的唐艺昕与女儿",
@@ -75,11 +99,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300878,
-      "num": 300878,
-      "word": "小孩被天降乌龟砸死饲主判赔128万",
-      "onboard_time": 1749480082,
-      "rank": 7,
+      "raw_hot": 293099,
+      "num": 233918,
+      "word": "新房在小姑子名下准新娘直接退婚",
+      "onboard_time": 1749469940,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -99,19 +123,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250303,
-      "num": 250303,
-      "word": "56岁男子停车失误致1死2伤",
-      "onboard_time": 1749503834,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 244726,
-      "num": 244726,
-      "word": "大爷5块钱买折叠沙发到手竟是支笔",
-      "onboard_time": 1749486140,
-      "rank": 37,
+      "raw_hot": 245239,
+      "num": 245239,
+      "word": "燃气公司招北大毕业生当抄表工",
+      "onboard_time": 1749489377,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -147,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165849,
-      "num": 148240,
-      "word": "新房在小姑子名下准新娘直接退婚",
-      "onboard_time": 1749469940,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 167147,
+      "num": 167147,
+      "word": "樊振东回应战胜林高远",
+      "onboard_time": 1749504914,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 164847,
@@ -179,27 +195,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152018,
+      "num": 152018,
+      "word": "乌无人机袭击俄军用机场和导弹工厂",
+      "onboard_time": 1749486379,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139385,
       "num": 139385,
       "word": "女子贷款4万花10万做医美崩溃",
       "onboard_time": 1749487939,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133165,
-      "num": 51959,
-      "word": "樊振东回应战胜林高远",
-      "onboard_time": 1749504914,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 132051,
-      "num": 132051,
-      "word": "燃气公司招北大毕业生当抄表工",
-      "onboard_time": 1749489377,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -211,12 +219,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120148,
-      "num": 120148,
-      "word": "乌无人机袭击俄军用机场和导弹工厂",
-      "onboard_time": 1749486379,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 124059,
+      "num": 124201,
+      "word": "众星鼓励尹正",
+      "onboard_time": 1749474860,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123278,
+      "num": 123278,
+      "word": "迪丽热巴满眼都是对身高的渴望",
+      "onboard_time": 1749475402,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 120075,
@@ -243,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109446,
+      "num": 109446,
+      "word": "197帅哥被浙大提前录取仍参加高考",
+      "onboard_time": 1749472281,
+      "rank": 41,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 108150,
       "num": 108150,
       "word": "山东考生说高考结束该让爹妈歇歇了",
@@ -251,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107299,
-      "num": 124201,
-      "word": "众星鼓励尹正",
-      "onboard_time": 1749474860,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 107387,
+      "num": 149156,
+      "word": "骨科妇科医生推荐咳嗽药",
+      "onboard_time": 1749486739,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 106664,
@@ -315,6 +339,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 90767,
+      "num": 132173,
+      "word": "燃气公司回应招北大毕业生当抄表工",
+      "onboard_time": 1749507856,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89903,
       "num": 89903,
       "word": "Shanks成角了",
@@ -331,12 +363,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87776,
-      "num": 149156,
-      "word": "骨科妇科医生推荐咳嗽药",
-      "onboard_time": 1749486739,
-      "rank": 35,
-      "category": "舆论监督"
+      "raw_hot": 87238,
+      "num": 87238,
+      "word": "洛杉矶",
+      "onboard_time": 1749460280,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86133,
@@ -345,14 +377,6 @@
       "onboard_time": 1749482961,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84506,
-      "num": 84506,
-      "word": "197帅哥被浙大提前录取仍参加高考",
-      "onboard_time": 1749472281,
-      "rank": 41,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 83263,
@@ -369,14 +393,6 @@
       "onboard_time": 1749490037,
       "rank": 21,
       "category": "数码"
-    },
-    {
-      "raw_hot": 81994,
-      "num": 89394,
-      "word": "迪丽热巴满眼都是对身高的渴望",
-      "onboard_time": 1749475402,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 81960,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76900,
+      "num": 76900,
+      "word": "多方回应制止男子拖拽女童大爷情况",
+      "onboard_time": 1749494715,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76638,
       "num": 76638,
       "word": "中国男篮23人集训名单",
@@ -432,6 +456,14 @@
       "word": "见证高考这场青春逐梦盛大收官",
       "onboard_time": 1749482661,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72306,
+      "num": 72306,
+      "word": "杀害情人丈夫的谢光明被执行死刑",
+      "onboard_time": 1749498314,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -451,20 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71372,
-      "num": 71372,
-      "word": "洛杉矶",
-      "onboard_time": 1749460280,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 69789,
-      "num": 69789,
-      "word": "杀害情人丈夫的谢光明被执行死刑",
-      "onboard_time": 1749498314,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 66223,
+      "num": 233961,
+      "word": "给母亲磕头后他又跳湖救出第5人",
+      "onboard_time": 1749503113,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 66122,
@@ -481,6 +505,14 @@
       "onboard_time": 1749493455,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61728,
+      "num": 61728,
+      "word": "作者回应外卖袋毕设走红",
+      "onboard_time": 1749509236,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61304,
@@ -500,19 +532,11 @@
     },
     {
       "raw_hot": 53887,
-      "num": 53887,
+      "num": 77667,
       "word": "长安的荔枝这段高考生别看",
       "onboard_time": 1749507374,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49026,
-      "num": 49026,
-      "word": "多方回应制止男子拖拽女童大爷情况",
-      "onboard_time": 1749494715,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48328,
@@ -531,28 +555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42783,
+      "num": 50006,
+      "word": "梁靖崑说优势是有王楚钦",
+      "onboard_time": 1749510017,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42696,
+      "num": 50005,
+      "word": "路人抓拍Angelababy",
+      "onboard_time": 1749464000,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42428,
       "num": 118485,
       "word": "拉斯维加斯一博主直播时遭男子枪杀",
       "onboard_time": 1749485480,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 39591,
-      "num": 132173,
-      "word": "燃气公司回应招北大毕业生当抄表工",
-      "onboard_time": 1749507856,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36683,
-      "num": 36683,
-      "word": "路人抓拍Angelababy",
-      "onboard_time": 1749464000,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 33285,
@@ -563,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32784,
-      "num": 32784,
-      "word": "给母亲磕头后他又跳湖救出第5人",
-      "onboard_time": 1749503113,
-      "rank": 48,
-      "category": "正能量"
+      "raw_hot": 26965,
+      "num": 50005,
+      "word": "直击中美经贸磋商机制首次会议",
+      "onboard_time": 1749511458,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25690,
@@ -620,7 +644,7 @@
     },
     {
       "raw_hot": 20555,
-      "num": 587290,
+      "num": 620711,
       "word": "万千气象看安徽",
       "onboard_time": 1749475463,
       "rank": 2,
