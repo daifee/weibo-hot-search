@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/10 00:34:09 ~ 2025/06/10 04:42:35
+本榜单时间：2025/06/10 00:34:09 ~ 2025/06/10 05:25:08
 </p>
 </blockquote>
 <p>
@@ -411,6 +411,12 @@ AL战胜BLG（热度：66122）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E6%83%85%E4%BA%BA%E4%B8%88%E5%A4%AB%E7%9A%84%E8%B0%A2%E5%85%89%E6%98%8E%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+杀害情人丈夫的谢光明被执行死刑（热度：22865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%8A%97%E8%AE%AE%E8%80%85%E9%81%AD%E8%AD%A6%E6%96%B9%E9%A9%AC%E5%8C%B9%E6%9A%B4%E5%8A%9B%E8%B8%A9%E8%B8%8F%23" target="weibo">
 美抗议者遭警方马匹暴力踩踏（热度：22707）
 </a>
@@ -435,14 +441,14 @@ AL战胜BLG（热度：66122）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%8740%E5%88%86%E9%92%9F%E5%89%8D%E8%A2%AB%E9%A9%AC%E8%9C%82%E8%9B%B0%E4%BA%86%23" target="weibo">
-高考语文40分钟前被马蜂蛰了（热度：18916）
+<a href="https://s.weibo.com/weibo?q=%2356%E5%B2%81%E7%94%B7%E5%AD%90%E5%81%9C%E8%BD%A6%E5%A4%B1%E8%AF%AF%E8%87%B41%E6%AD%BB2%E4%BC%A4%23" target="weibo">
+56岁男子停车失误致1死2伤（热度：20002）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E6%83%85%E4%BA%BA%E4%B8%88%E5%A4%AB%E7%9A%84%E8%B0%A2%E5%85%89%E6%98%8E%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-杀害情人丈夫的谢光明被执行死刑（热度：18423）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%8740%E5%88%86%E9%92%9F%E5%89%8D%E8%A2%AB%E9%A9%AC%E8%9C%82%E8%9B%B0%E4%BA%86%23" target="weibo">
+高考语文40分钟前被马蜂蛰了（热度：18916）
 </a>
 </li>
 
@@ -479,6 +485,24 @@ AL战胜BLG（热度：66122）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%8A%A5%20%E6%88%91%E4%B8%8B%E9%AB%98%E4%B8%89%E4%BA%86%23" target="weibo">
 喜报 我下高三了（热度：14717）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E8%AE%AE%E8%80%85%E8%AF%B4%E6%B4%BE%E5%86%9B%E9%98%9F%E5%AF%B9%E4%BB%98%E6%88%91%E4%BB%AC%E6%9C%89%E5%BF%85%E8%A6%81%E5%90%97%23" target="weibo">
+抗议者说派军队对付我们有必要吗（热度：13255）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%AF%8D%E4%BA%B2%E7%A3%95%E5%A4%B4%E5%90%8E%E4%BB%96%E5%8F%88%E8%B7%B3%E6%B9%96%E6%95%91%E5%87%BA%E7%AC%AC5%E4%BA%BA%23" target="weibo">
+给母亲磕头后他又跳湖救出第5人（热度：13237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%86%9B%E6%8B%9B%E7%94%9F%E5%AE%A3%E4%BC%A0%E7%89%87%E7%9C%8B%E5%BE%97%E4%BA%BA%E5%BF%83%E6%BD%AE%E6%BE%8E%E6%B9%83%23" target="weibo">
+海军招生宣传片看得人心潮澎湃（热度：13030）
 </a>
 </li>
 

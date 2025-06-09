@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749501755476,
+  "endTime": 1749504308413,
   "band_list": [
     {
       "raw_hot": 970316,
@@ -531,6 +531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 22865,
+      "num": 22865,
+      "word": "杀害情人丈夫的谢光明被执行死刑",
+      "onboard_time": 1749498314,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22707,
       "num": 89256,
       "word": "美抗议者遭警方马匹暴力踩踏",
@@ -563,19 +571,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20002,
+      "num": 40524,
+      "word": "56岁男子停车失误致1死2伤",
+      "onboard_time": 1749503834,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 18916,
       "num": 18916,
       "word": "高考语文40分钟前被马蜂蛰了",
       "onboard_time": 1749497534,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18423,
-      "num": 18423,
-      "word": "杀害情人丈夫的谢光明被执行死刑",
-      "onboard_time": 1749498314,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -625,6 +633,30 @@
       "onboard_time": 1749497594,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13255,
+      "num": 15706,
+      "word": "抗议者说派军队对付我们有必要吗",
+      "onboard_time": 1749503054,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13237,
+      "num": 15706,
+      "word": "给母亲磕头后他又跳湖救出第5人",
+      "onboard_time": 1749503113,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 13030,
+      "num": 15705,
+      "word": "海军招生宣传片看得人心潮澎湃",
+      "onboard_time": 1749502093,
+      "rank": 49,
+      "category": "军事,教育"
     },
     {
       "raw_hot": 12684,
