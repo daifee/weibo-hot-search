@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749454860362,
+  "endTime": 1749458188834,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1041523,
+      "num": 1166643,
+      "word": "高考被AI发现作弊记0分系诈骗",
+      "onboard_time": 1749453741,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1038123,
       "num": 1038123,
       "word": "益禾堂薄荷奶绿",
@@ -321,6 +329,14 @@
       "onboard_time": 1749378081,
       "rank": 27,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 941796,
+      "num": 941796,
+      "word": "北大称已多次派人陪同韦东奕就诊",
+      "onboard_time": 1749453982,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 940563,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 742133,
-      "num": 197599,
+      "num": 296763,
       "word": "27岁女生失业躺出租屋一天的花销",
       "onboard_time": 1749452062,
       "rank": 20,
@@ -907,6 +923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 455289,
+      "num": 455289,
+      "word": "父亲无票闯景区接生病儿子遭阻拦",
+      "onboard_time": 1749455183,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 452941,
       "num": 452941,
       "word": "终于知道东北为什么不宣传景区了",
@@ -928,6 +952,14 @@
       "word": "章子怡拒绝白凯南演纣王",
       "onboard_time": 1749443303,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 442022,
+      "num": 442022,
+      "word": "汪海林说的是谁",
+      "onboard_time": 1749454581,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -988,7 +1020,7 @@
     },
     {
       "raw_hot": 418383,
-      "num": 195816,
+      "num": 290827,
       "word": "只差1分钟进不去考场了",
       "onboard_time": 1749451641,
       "rank": 36,
@@ -1008,6 +1040,14 @@
       "word": "樊振东对阵闫安",
       "onboard_time": 1749449960,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 410139,
+      "num": 291190,
+      "word": "王楚钦说拿了2块金牌依旧被诟病",
+      "onboard_time": 1749455723,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1057,6 +1097,14 @@
       "onboard_time": 1749314482,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394598,
+      "num": 394598,
+      "word": "政治的花语是手慢无",
+      "onboard_time": 1749447141,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 394159,
@@ -1459,14 +1507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 305995,
-      "num": 419854,
-      "word": "高考被AI发现作弊记0分系诈骗",
-      "onboard_time": 1749453741,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 305937,
       "num": 414241,
       "word": "BLACKPINK将于今年下半年正式回归",
@@ -1803,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259124,
+      "num": 284572,
+      "word": "李雪琴免费听了半年陈昊宇演唱会",
+      "onboard_time": 1749456921,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258163,
       "num": 258163,
       "word": "原来正品质量这么差",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1749443184,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254184,
+      "num": 284438,
+      "word": "肖战我都33了",
+      "onboard_time": 1749457461,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 253530,
@@ -1937,6 +1993,14 @@
       "onboard_time": 1749384380,
       "rank": 25,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 241490,
+      "num": 241490,
+      "word": "婚检",
+      "onboard_time": 1749457822,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239183,
@@ -2051,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227336,
+      "num": 369270,
+      "word": "aespa与Apple合作",
+      "onboard_time": 1749453443,
+      "rank": 8,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 226728,
       "num": 204536,
       "word": "国产剧最普通人的女主出现了",
@@ -2075,6 +2147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 223157,
+      "num": 301754,
+      "word": "ITZY与JYP协商续约",
+      "onboard_time": 1749457581,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222854,
       "num": 222854,
       "word": "高考第二天",
@@ -2096,6 +2176,14 @@
       "word": "萨巴伦卡vs高芙",
       "onboard_time": 1749305244,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222172,
+      "num": 222172,
+      "word": "樊振东比赛间隙霉霉限时返场",
+      "onboard_time": 1749457042,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -2819,6 +2907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178745,
+      "num": 178745,
+      "word": "孙颖莎说两项大赛消耗很大",
+      "onboard_time": 1749456562,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178052,
       "num": 166996,
       "word": "宋佳马柏全豪门姐弟",
@@ -2865,22 +2961,6 @@
       "onboard_time": 1749378801,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175862,
-      "num": 175862,
-      "word": "汪海林说的是谁",
-      "onboard_time": 1749454581,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 175621,
-      "num": 166373,
-      "word": "北大称已多次派人陪同韦东奕就诊",
-      "onboard_time": 1749453982,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174291,
@@ -3107,6 +3187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167339,
+      "num": 298488,
+      "word": "专家称农村生活可释放人们的情绪价值",
+      "onboard_time": 1749456442,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167310,
       "num": 167310,
       "word": "拉塞尔好帅",
@@ -3227,6 +3315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162900,
+      "num": 162900,
+      "word": "让严屹宽来演男鬼的简直是天才",
+      "onboard_time": 1749457042,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162755,
       "num": 162755,
       "word": "救女童大爷被威胁后求购护家狗",
@@ -3265,14 +3361,6 @@
       "onboard_time": 1749429802,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 161692,
-      "num": 161692,
-      "word": "政治的花语是手慢无",
-      "onboard_time": 1749447141,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 161648,
@@ -3387,6 +3475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158387,
+      "num": 192484,
+      "word": "央视记者直击洛杉矶冲突现场",
+      "onboard_time": 1749454701,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 157652,
+      "num": 294658,
+      "word": "肖战5月微博演员热度TOP1",
+      "onboard_time": 1749456861,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157387,
       "num": 157387,
       "word": "中国女排2比3负于土耳其队",
@@ -3443,6 +3547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154868,
+      "num": 154868,
+      "word": "高以忱被查",
+      "onboard_time": 1749457941,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154290,
       "num": 556149,
       "word": "36个号码12小时打7000多个诈骗电话",
@@ -3481,6 +3593,14 @@
       "onboard_time": 1749438741,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 152893,
+      "num": 152893,
+      "word": "只有100g的洞洞鞋",
+      "onboard_time": 1749457461,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 152103,
@@ -3560,6 +3680,14 @@
       "word": "何婧婧否认出轨",
       "onboard_time": 1749366080,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148895,
+      "num": 148895,
+      "word": "偶遇郭碧婷张予曦刘忻夜爬长城",
+      "onboard_time": 1749456621,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -3705,6 +3833,14 @@
       "onboard_time": 1749367160,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144732,
+      "num": 298898,
+      "word": "郭晶晶说跳水给予了我成就了我",
+      "onboard_time": 1749457402,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 144553,
@@ -4009,6 +4145,14 @@
       "onboard_time": 1749384561,
       "rank": 49,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 136093,
+      "num": 368613,
+      "word": "美国急寻SpaceX公司替代者",
+      "onboard_time": 1749456802,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135521,
@@ -4979,6 +5123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79198,
+      "num": 284431,
+      "word": "抓到一只憋笑失败的樊振东",
+      "onboard_time": 1749455361,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78935,
       "num": 282049,
       "word": "婚检中艾滋感染者配偶与医生如何自保",
@@ -5177,6 +5329,14 @@
       "onboard_time": 1749449063,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61683,
+      "num": 159901,
+      "word": "以军突袭格蕾塔所乘船只",
+      "onboard_time": 1749455423,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61531,
@@ -5403,6 +5563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43324,
+      "num": 167016,
+      "word": "美国上演真实版GTA",
+      "onboard_time": 1749458122,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43208,
       "num": 332222,
       "word": "花1169元买3瓶减肥药吃进了医院",
@@ -5417,6 +5585,14 @@
       "onboard_time": 1749378502,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42799,
+      "num": 168483,
+      "word": "孙颖莎回应深大开门红",
+      "onboard_time": 1749457161,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 42690,
@@ -5513,6 +5689,14 @@
       "onboard_time": 1749363140,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 39166,
+      "num": 297332,
+      "word": "哪些食物容易导致腹部脂肪堆积",
+      "onboard_time": 1749456682,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 38365,
@@ -5643,6 +5827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 33319,
+      "num": 292655,
+      "word": "王一博航海系穿搭",
+      "onboard_time": 1749457402,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33129,
       "num": 108919,
       "word": "加州蒙面人敲碎砖头攻击警察",
@@ -5673,6 +5865,14 @@
       "onboard_time": 1749374722,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31923,
+      "num": 186560,
+      "word": "美政府用水枪喷射群众",
+      "onboard_time": 1749456322,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30265,
@@ -5761,14 +5961,6 @@
       "onboard_time": 1749362661,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23818,
-      "num": 192484,
-      "word": "央视记者直击洛杉矶冲突现场",
-      "onboard_time": 1749454701,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23485,

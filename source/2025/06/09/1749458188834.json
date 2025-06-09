@@ -1,0 +1,410 @@
+{
+  "runTime": 1749458188834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1041523,
+        "num": 1166643,
+        "word": "高考被AI发现作弊记0分系诈骗",
+        "onboard_time": 1749453741,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 941796,
+        "num": 941796,
+        "word": "北大称已多次派人陪同韦东奕就诊",
+        "onboard_time": 1749453982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43775,
+        "num": 593820,
+        "word": "祝高考生的梦想破土生花",
+        "onboard_time": 1749442762,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 455289,
+        "num": 455289,
+        "word": "父亲无票闯景区接生病儿子遭阻拦",
+        "onboard_time": 1749455183,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442022,
+        "num": 442022,
+        "word": "汪海林说的是谁",
+        "onboard_time": 1749454581,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509057,
+        "num": 430213,
+        "word": "章莹颖遇害8年父母边治病边还债",
+        "onboard_time": 1749450080,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394598,
+        "num": 394598,
+        "word": "政治的花语是手慢无",
+        "onboard_time": 1749447141,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 382694,
+        "num": 382694,
+        "word": "樊振东状态",
+        "onboard_time": 1749450442,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227336,
+        "num": 369270,
+        "word": "aespa与Apple合作",
+        "onboard_time": 1749453443,
+        "rank": 8,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 136093,
+        "num": 368613,
+        "word": "美国急寻SpaceX公司替代者",
+        "onboard_time": 1749456802,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1070583,
+        "num": 346328,
+        "word": "尹正发长文道歉",
+        "onboard_time": 1749449662,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759033,
+        "num": 339216,
+        "word": "孙颖莎左看樊振东右看深圳队",
+        "onboard_time": 1749451882,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481941,
+        "num": 320361,
+        "word": "北大回应韦东奕健康问题",
+        "onboard_time": 1749445822,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459989,
+        "num": 313323,
+        "word": "刘品言宣布怀孕",
+        "onboard_time": 1749444863,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301895,
+        "num": 301895,
+        "word": "星巴克回应大降价",
+        "onboard_time": 1749448942,
+        "rank": 14,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 223157,
+        "num": 301754,
+        "word": "ITZY与JYP协商续约",
+        "onboard_time": 1749457581,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218646,
+        "num": 300133,
+        "word": "赵雅芝 一辈子流量花",
+        "onboard_time": 1749449662,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144732,
+        "num": 298898,
+        "word": "郭晶晶说跳水给予了我成就了我",
+        "onboard_time": 1749457402,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167339,
+        "num": 298488,
+        "word": "专家称农村生活可释放人们的情绪价值",
+        "onboard_time": 1749456442,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39166,
+        "num": 297332,
+        "word": "哪些食物容易导致腹部脂肪堆积",
+        "onboard_time": 1749456682,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 583973,
+        "num": 296763,
+        "word": "27岁女生失业躺出租屋一天的花销",
+        "onboard_time": 1749452062,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454229,
+        "num": 295381,
+        "word": "高考地理 玄学",
+        "onboard_time": 1749444564,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157652,
+        "num": 294658,
+        "word": "肖战5月微博演员热度TOP1",
+        "onboard_time": 1749456861,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419123,
+        "num": 293307,
+        "word": "陈都灵 不让女孩子的手落空",
+        "onboard_time": 1749450201,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33319,
+        "num": 292655,
+        "word": "王一博航海系穿搭",
+        "onboard_time": 1749457402,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410139,
+        "num": 291190,
+        "word": "王楚钦说拿了2块金牌依旧被诟病",
+        "onboard_time": 1749455723,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290827,
+        "num": 290827,
+        "word": "只差1分钟进不去考场了",
+        "onboard_time": 1749451641,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259124,
+        "num": 284572,
+        "word": "李雪琴免费听了半年陈昊宇演唱会",
+        "onboard_time": 1749456921,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254184,
+        "num": 284438,
+        "word": "肖战我都33了",
+        "onboard_time": 1749457461,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79198,
+        "num": 284431,
+        "word": "抓到一只憋笑失败的樊振东",
+        "onboard_time": 1749455361,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284425,
+        "num": 284425,
+        "word": "高考",
+        "onboard_time": 1749426201,
+        "rank": 30,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 261467,
+        "num": 261467,
+        "word": "洛杉矶乱成一锅粥",
+        "onboard_time": 1749442762,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241490,
+        "num": 241490,
+        "word": "婚检",
+        "onboard_time": 1749457822,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222172,
+        "num": 222172,
+        "word": "樊振东比赛间隙霉霉限时返场",
+        "onboard_time": 1749457042,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31923,
+        "num": 186560,
+        "word": "美政府用水枪喷射群众",
+        "onboard_time": 1749456322,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181390,
+        "num": 181390,
+        "word": "双胞胎姐妹互换身份被凶手误杀",
+        "onboard_time": 1749450982,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180990,
+        "num": 180990,
+        "word": "男子住酒店打开柜子竟发现大蛇",
+        "onboard_time": 1749445763,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178745,
+        "num": 178745,
+        "word": "孙颖莎说两项大赛消耗很大",
+        "onboard_time": 1749456562,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173906,
+        "num": 173906,
+        "word": "山东政治",
+        "onboard_time": 1749444564,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 42799,
+        "num": 168483,
+        "word": "孙颖莎回应深大开门红",
+        "onboard_time": 1749457161,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43324,
+        "num": 167016,
+        "word": "美国上演真实版GTA",
+        "onboard_time": 1749458122,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166653,
+        "num": 166653,
+        "word": "宋佳马柏全豪门姐弟",
+        "onboard_time": 1749454642,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162900,
+        "num": 162900,
+        "word": "让严屹宽来演男鬼的简直是天才",
+        "onboard_time": 1749457042,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161251,
+        "num": 161251,
+        "word": "特朗普下令解放洛杉矶",
+        "onboard_time": 1749427101,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61683,
+        "num": 159901,
+        "word": "以军突袭格蕾塔所乘船只",
+        "onboard_time": 1749455423,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159876,
+        "num": 159876,
+        "word": "樊振东3比0闫安",
+        "onboard_time": 1749451941,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158387,
+        "num": 158387,
+        "word": "央视记者直击洛杉矶冲突现场",
+        "onboard_time": 1749454701,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154868,
+        "num": 154868,
+        "word": "高以忱被查",
+        "onboard_time": 1749457941,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152893,
+        "num": 152893,
+        "word": "只有100g的洞洞鞋",
+        "onboard_time": 1749457461,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 148895,
+        "num": 148895,
+        "word": "偶遇郭碧婷张予曦刘忻夜爬长城",
+        "onboard_time": 1749456621,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记探寻中华文明#"
+    }
+  }
+}
