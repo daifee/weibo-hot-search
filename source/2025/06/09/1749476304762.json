@@ -1,0 +1,410 @@
+{
+  "runTime": 1749476304762,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1042302,
+        "num": 1166768,
+        "word": "文科生碎了",
+        "onboard_time": 1749465260,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 635662,
+        "num": 635662,
+        "word": "樊振东vs林高远",
+        "onboard_time": 1749472460,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21074,
+        "num": 597538,
+        "word": "万千气象看安徽",
+        "onboard_time": 1749475463,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2393829,
+        "num": 593890,
+        "word": "程潇给前任发信息被秒回",
+        "onboard_time": 1749472281,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587146,
+        "num": 587146,
+        "word": "刘亦菲李沁中间这位女士",
+        "onboard_time": 1749473361,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517176,
+        "num": 517176,
+        "word": "197帅哥被浙大提前录取仍参加高考",
+        "onboard_time": 1749472281,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 472478,
+        "num": 472478,
+        "word": "樊振东3比1林高远",
+        "onboard_time": 1749475161,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438316,
+        "num": 438316,
+        "word": "那尔那茜是否违规建议彻查",
+        "onboard_time": 1749469102,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430105,
+        "num": 430105,
+        "word": "12800买时团内场票帮女儿圆梦被骗",
+        "onboard_time": 1749471442,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195135,
+        "num": 428594,
+        "word": "美国正向台湾运送新一批M1A2坦克",
+        "onboard_time": 1749466641,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 806211,
+        "num": 416491,
+        "word": "张若昀拍的唐艺昕与女儿",
+        "onboard_time": 1749473001,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628684,
+        "num": 407744,
+        "word": "赵丽颖赵德胤疑似海外电影节约会",
+        "onboard_time": 1749475463,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471236,
+        "num": 387257,
+        "word": "新房在小姑子名下准新娘直接退婚",
+        "onboard_time": 1749469940,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386209,
+        "num": 386209,
+        "word": "李晟回应拒演短剧还珠",
+        "onboard_time": 1749471021,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376416,
+        "num": 376416,
+        "word": "BLG对战AL",
+        "onboard_time": 1749465500,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 368242,
+        "num": 368242,
+        "word": "曹颖14岁儿子",
+        "onboard_time": 1749474563,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305014,
+        "num": 305014,
+        "word": "迪丽热巴满眼都是对身高的渴望",
+        "onboard_time": 1749475402,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291675,
+        "num": 291675,
+        "word": "女骗子半年嫁5人骗彩礼190万",
+        "onboard_time": 1749469761,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112945,
+        "num": 265811,
+        "word": "广东一老板往凉茶里放布洛芬被判刑",
+        "onboard_time": 1749475703,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8249,
+        "num": 265790,
+        "word": "怎么吃冰激淋不长肉",
+        "onboard_time": 1749475883,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 265790,
+        "num": 265789,
+        "word": "送荣耀祝你未来一路荣耀",
+        "onboard_time": 1749474443,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264704,
+        "num": 264704,
+        "word": "众星鼓励尹正",
+        "onboard_time": 1749474860,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287446,
+        "num": 263843,
+        "word": "尚公主 孟子义李昀锐",
+        "onboard_time": 1749461540,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260484,
+        "num": 260484,
+        "word": "初次性生活前要检测HIV",
+        "onboard_time": 1749470722,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258137,
+        "num": 258137,
+        "word": "山东考生说高考结束该让爹妈歇歇了",
+        "onboard_time": 1749459921,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122824,
+        "num": 232034,
+        "word": "男生称已全部考完目标是浙大",
+        "onboard_time": 1749475043,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18198,
+        "num": 229761,
+        "word": "当地回应云冈石窟彩绘佛像被刻字",
+        "onboard_time": 1749475883,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 229585,
+        "num": 229585,
+        "word": "张凌赫正式确诊为上头男",
+        "onboard_time": 1749462142,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198372,
+        "num": 198372,
+        "word": "何秋亊回应假唱质疑",
+        "onboard_time": 1749473842,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144708,
+        "num": 198358,
+        "word": "中美经贸磋商机制首次会议举行",
+        "onboard_time": 1749473001,
+        "rank": 29,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 354002,
+        "num": 198299,
+        "word": "尹正发长文道歉",
+        "onboard_time": 1749449662,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251120,
+        "num": 198269,
+        "word": "路人抓拍Angelababy",
+        "onboard_time": 1749464000,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203689,
+        "num": 198216,
+        "word": "许昕1比3徐海东",
+        "onboard_time": 1749474322,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24633,
+        "num": 198156,
+        "word": "了解4类针对考生骗局",
+        "onboard_time": 1749476125,
+        "rank": 33,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 198150,
+        "num": 198150,
+        "word": "王楚钦看鹰眼挑战看乐了",
+        "onboard_time": 1749470961,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190689,
+        "num": 190689,
+        "word": "肖战我都33了",
+        "onboard_time": 1749457461,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188562,
+        "num": 188562,
+        "word": "宋亚轩 LV",
+        "onboard_time": 1749469401,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 169776,
+        "num": 169776,
+        "word": "泡泡玛特王宁进入中国富豪前10",
+        "onboard_time": 1749469701,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119202,
+        "num": 169178,
+        "word": "樊振东林高远高质量对攻",
+        "onboard_time": 1749476064,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168824,
+        "num": 168824,
+        "word": "王楚钦为腼腆黄友政解围",
+        "onboard_time": 1749475103,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96875,
+        "num": 167670,
+        "word": "洛杉矶屋顶上的韩国人在哪",
+        "onboard_time": 1749474383,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166926,
+        "num": 166926,
+        "word": "樊振东重返赛场全场欢呼人气未减",
+        "onboard_time": 1749475282,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153365,
+        "num": 153365,
+        "word": "王安宇广东版",
+        "onboard_time": 1749476002,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149556,
+        "num": 149556,
+        "word": "临江仙",
+        "onboard_time": 1749465260,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142343,
+        "num": 142343,
+        "word": "洛杉矶",
+        "onboard_time": 1749460280,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140727,
+        "num": 140727,
+        "word": "檀健次加绒摇",
+        "onboard_time": 1749474804,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139502,
+        "num": 139502,
+        "word": "金泰亨状态",
+        "onboard_time": 1749469162,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139249,
+        "num": 139249,
+        "word": "河北也太宠樊振东了",
+        "onboard_time": 1749471322,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134171,
+        "num": 134171,
+        "word": "南通队队长父亲卖上海4套房搞青训",
+        "onboard_time": 1749476245,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132368,
+        "num": 132368,
+        "word": "樊振东3比1胜徐海东",
+        "onboard_time": 1749468620,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步关心海洋认识海洋经略海洋#"
+    }
+  }
+}
