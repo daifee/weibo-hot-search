@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749482950154,
+  "endTime": 1749483797685,
   "band_list": [
     {
       "raw_hot": 2750380,
@@ -283,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 774509,
+      "num": 359847,
+      "word": "高考忘缴费了",
+      "onboard_time": 1749480982,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 767931,
       "num": 767931,
       "word": "孙颖莎左看樊振东右看深圳队",
@@ -433,14 +441,6 @@
       "onboard_time": 1749397222,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 602080,
-      "num": 359847,
-      "word": "高考忘缴费了",
-      "onboard_time": 1749480982,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 601137,
@@ -1115,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 299173,
+      "num": 282547,
+      "word": "余庆伟道歉",
+      "onboard_time": 1749483142,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 297765,
       "num": 297765,
       "word": "王楚钦看鹰眼挑战看乐了",
@@ -1235,6 +1243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 280175,
+      "num": 315814,
+      "word": "者来女 歌手揭榜",
+      "onboard_time": 1749480143,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276193,
       "num": 226886,
       "word": "双胞胎姐妹互换身份被凶手误杀",
@@ -1273,14 +1289,6 @@
       "onboard_time": 1749392544,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 271908,
-      "num": 315814,
-      "word": "者来女 歌手揭榜",
-      "onboard_time": 1749480143,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 270928,
@@ -1473,6 +1481,14 @@
       "onboard_time": 1749450802,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233583,
+      "num": 233583,
+      "word": "贺峻霖的人形立牌让女儿满眼放光",
+      "onboard_time": 1749482123,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233060,
@@ -1723,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200098,
-      "num": 200098,
-      "word": "贺峻霖的人形立牌让女儿满眼放光",
-      "onboard_time": 1749482123,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200076,
       "num": 200076,
       "word": "特朗普说要结束洛杉矶移民暴乱",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1749457941,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 194650,
+      "num": 194650,
+      "word": "樊振东小咚咚史诗级同框",
+      "onboard_time": 1749483201,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 194182,
@@ -2273,6 +2289,14 @@
       "onboard_time": 1749473001,
       "rank": 9,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 164382,
+      "num": 308075,
+      "word": "洛杉矶发生骚乱当地华人发声",
+      "onboard_time": 1749481823,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164163,
@@ -2795,14 +2819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135090,
-      "num": 308075,
-      "word": "洛杉矶发生骚乱当地华人发声",
-      "onboard_time": 1749481823,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 134911,
       "num": 162709,
       "word": "谁的青春不想有一个肖奈啊",
@@ -2889,6 +2905,14 @@
       "onboard_time": 1749465920,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129748,
+      "num": 129748,
+      "word": "唐汉霄 揭榜",
+      "onboard_time": 1749483082,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 128784,
@@ -3091,6 +3115,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112776,
+      "num": 112776,
+      "word": "北大将帮韦东奕积极治疗",
+      "onboard_time": 1749483682,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112069,
+      "num": 112069,
+      "word": "家长带马嘉祺人形立牌接考生",
+      "onboard_time": 1749483501,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109588,
       "num": 109588,
       "word": "TES对战WE",
@@ -3137,6 +3177,14 @@
       "onboard_time": 1749390923,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96988,
+      "num": 291758,
+      "word": "见证高考这场青春逐梦盛大收官",
+      "onboard_time": 1749482661,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96875,
@@ -3225,14 +3273,6 @@
       "onboard_time": 1749464660,
       "rank": 20,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 86327,
-      "num": 291758,
-      "word": "见证高考这场青春逐梦盛大收官",
-      "onboard_time": 1749482661,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86298,
@@ -3369,6 +3409,14 @@
       "onboard_time": 1749435801,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74539,
+      "num": 281002,
+      "word": "大学生网购10套古装表演后集体退货",
+      "onboard_time": 1749482902,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73506,
@@ -3515,14 +3563,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 57215,
-      "num": 160139,
-      "word": "大学生网购10套古装表演后集体退货",
-      "onboard_time": 1749482902,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56997,
       "num": 408523,
       "word": "美洛杉矶抗议者与国民警卫队冲突现场",
@@ -3593,6 +3633,14 @@
       "onboard_time": 1749479722,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47590,
+      "num": 206390,
+      "word": "张远与大学生合唱仰望星云",
+      "onboard_time": 1749482961,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 47219,
@@ -4019,6 +4067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23899,
+      "num": 295577,
+      "word": "北约拟将防空导弹能力提升400%",
+      "onboard_time": 1749482603,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23485,
       "num": 69937,
       "word": "哥伦比亚6.6级地震",
@@ -4065,14 +4121,6 @@
       "onboard_time": 1749460820,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 21626,
-      "num": 295577,
-      "word": "北约拟将防空导弹能力提升400%",
-      "onboard_time": 1749482603,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21526,
@@ -4187,6 +4235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18196,
+      "num": 125788,
+      "word": "洛杉矶冲突现场随处可见防暴弹",
+      "onboard_time": 1749483682,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16203,
       "num": 267552,
       "word": "婚检前需要做什么准备",
@@ -4267,6 +4323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12579,
+      "num": 306558,
+      "word": "常看绿色能预防近视吗",
+      "onboard_time": 1749482482,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 12200,
       "num": 59780,
       "word": "男子专挑高档健身房更衣箱偷窃被刑拘",
@@ -4297,14 +4361,6 @@
       "onboard_time": 1749479243,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 8482,
-      "num": 306558,
-      "word": "常看绿色能预防近视吗",
-      "onboard_time": 1749482482,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 8180,
