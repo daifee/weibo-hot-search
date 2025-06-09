@@ -1,0 +1,410 @@
+{
+  "runTime": 1749474520820,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1171960,
+        "num": 1187513,
+        "word": "文科生碎了",
+        "onboard_time": 1749465260,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 558337,
+        "num": 558337,
+        "word": "樊振东vs林高远",
+        "onboard_time": 1749472460,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10430,
+        "num": 480523,
+        "word": "这份文明上网攻略请收好",
+        "onboard_time": 1749460581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2209443,
+        "num": 479036,
+        "word": "程潇给前任发信息被秒回",
+        "onboard_time": 1749472281,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454485,
+        "num": 454485,
+        "word": "197帅哥被浙大提前录取仍参加高考",
+        "onboard_time": 1749472281,
+        "rank": 4,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 688647,
+        "num": 435948,
+        "word": "那尔那茜是否违规建议彻查",
+        "onboard_time": 1749469102,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507376,
+        "num": 415163,
+        "word": "李晟回应拒演短剧还珠",
+        "onboard_time": 1749471021,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384963,
+        "num": 384963,
+        "word": "女骗子半年嫁5人骗彩礼190万",
+        "onboard_time": 1749469761,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305852,
+        "num": 305852,
+        "word": "12800买时团内场票帮女儿圆梦被骗",
+        "onboard_time": 1749471442,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164497,
+        "num": 305169,
+        "word": "中美经贸磋商机制首次会议举行",
+        "onboard_time": 1749473001,
+        "rank": 9,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 805739,
+        "num": 302296,
+        "word": "新房在小姑子名下准新娘直接退婚",
+        "onboard_time": 1749469940,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725604,
+        "num": 301405,
+        "word": "张若昀拍的唐艺昕与女儿",
+        "onboard_time": 1749473001,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364247,
+        "num": 297254,
+        "word": "刘亦菲李沁中间这位女士",
+        "onboard_time": 1749473361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297134,
+        "num": 297134,
+        "word": "路人抓拍Angelababy",
+        "onboard_time": 1749464000,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39692,
+        "num": 292859,
+        "word": "冷酸灵牙膏即速60s是注册商标",
+        "onboard_time": 1749473422,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 291715,
+        "num": 291715,
+        "word": "长安的荔枝",
+        "onboard_time": 1749469701,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277865,
+        "num": 277865,
+        "word": "张凌赫正式确诊为上头男",
+        "onboard_time": 1749462142,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48920,
+        "num": 274903,
+        "word": "考后接种HPV疫苗是预防也是保护",
+        "onboard_time": 1749470661,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141220,
+        "num": 273801,
+        "word": "地铁上劝阻他人饮食被索赔3万",
+        "onboard_time": 1749473001,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14085,
+        "num": 269546,
+        "word": "汉堡作为减脂餐真的科学吗",
+        "onboard_time": 1749473542,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 408795,
+        "num": 266491,
+        "word": "尚公主 孟子义李昀锐",
+        "onboard_time": 1749461540,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360305,
+        "num": 262667,
+        "word": "尹正发长文道歉",
+        "onboard_time": 1749449662,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261195,
+        "num": 261195,
+        "word": "金泰亨状态",
+        "onboard_time": 1749469162,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257579,
+        "num": 257579,
+        "word": "美国正向台湾运送新一批M1A2坦克",
+        "onboard_time": 1749466641,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 256599,
+        "num": 256599,
+        "word": "王楚钦看鹰眼挑战看乐了",
+        "onboard_time": 1749470961,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255817,
+        "num": 255817,
+        "word": "山东考生说高考结束该让爹妈歇歇了",
+        "onboard_time": 1749459921,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115684,
+        "num": 229303,
+        "word": "天猫618补贴高考生4000元",
+        "onboard_time": 1749470661,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 222665,
+        "num": 222665,
+        "word": "宋亚轩 LV",
+        "onboard_time": 1749469401,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 198729,
+        "num": 198729,
+        "word": "蒋一侨对侯佩岑的爱太实在了",
+        "onboard_time": 1749474083,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49675,
+        "num": 198645,
+        "word": "江苏十三太保开启斗歌模式",
+        "onboard_time": 1749473482,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250394,
+        "num": 198565,
+        "word": "美臀羊",
+        "onboard_time": 1749469102,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234004,
+        "num": 198478,
+        "word": "初次性生活前要检测HIV",
+        "onboard_time": 1749470722,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110779,
+        "num": 198390,
+        "word": "送荣耀祝你未来一路荣耀",
+        "onboard_time": 1749474443,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57664,
+        "num": 198312,
+        "word": "洛杉矶屋顶上的韩国人在哪",
+        "onboard_time": 1749474383,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198299,
+        "num": 198299,
+        "word": "何秋亊回应假唱质疑",
+        "onboard_time": 1749473842,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192612,
+        "num": 192612,
+        "word": "拉布布带飞泡泡玛特创始人",
+        "onboard_time": 1749469880,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184507,
+        "num": 184507,
+        "word": "刘宇宁折腰收官战报",
+        "onboard_time": 1749474262,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181853,
+        "num": 181853,
+        "word": "魏大勋这个捂脸包含了好多情绪",
+        "onboard_time": 1749474142,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31539,
+        "num": 181020,
+        "word": "高考结束后人生是这样的",
+        "onboard_time": 1749472701,
+        "rank": 38,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 140448,
+        "num": 180503,
+        "word": "许昕1比3徐海东",
+        "onboard_time": 1749474322,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180210,
+        "num": 180210,
+        "word": "临江仙",
+        "onboard_time": 1749465260,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178391,
+        "num": 178391,
+        "word": "高考结束",
+        "onboard_time": 1749461781,
+        "rank": 41,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 171794,
+        "num": 171794,
+        "word": "蔡依林发了直播答应的暴食自拍",
+        "onboard_time": 1749473183,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171473,
+        "num": 171473,
+        "word": "樊振东3比1胜徐海东",
+        "onboard_time": 1749468620,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167765,
+        "num": 167765,
+        "word": "肖战我都33了",
+        "onboard_time": 1749457461,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165563,
+        "num": 165563,
+        "word": "杨洋发了18宫格",
+        "onboard_time": 1749474083,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33972,
+        "num": 156703,
+        "word": "洛杉矶示威者抢劫焚烧加油站",
+        "onboard_time": 1749472581,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152180,
+        "num": 152180,
+        "word": "河北也太宠樊振东了",
+        "onboard_time": 1749471322,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149506,
+        "num": 149506,
+        "word": "甲状腺好的3个常见表现",
+        "onboard_time": 1749461361,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148492,
+        "num": 148492,
+        "word": "洛杉矶",
+        "onboard_time": 1749460280,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设海洋强国总书记这样强调#"
+    }
+  }
+}

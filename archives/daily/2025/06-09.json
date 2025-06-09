@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749473588142,
+  "endTime": 1749474520820,
   "band_list": [
     {
       "raw_hot": 2750380,
@@ -25,6 +25,14 @@
       "onboard_time": 1749441681,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2209443,
+      "num": 479036,
+      "word": "程潇给前任发信息被秒回",
+      "onboard_time": 1749472281,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2170449,
@@ -65,14 +73,6 @@
       "onboard_time": 1749432801,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1659274,
-      "num": 397469,
-      "word": "程潇给前任发信息被秒回",
-      "onboard_time": 1749472281,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1507951,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 915832,
-      "num": 344505,
+      "num": 435948,
       "word": "那尔那茜是否违规建议彻查",
       "onboard_time": 1749469102,
       "rank": 44,
@@ -299,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 725604,
+      "num": 323877,
+      "word": "张若昀拍的唐艺昕与女儿",
+      "onboard_time": 1749473001,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713973,
       "num": 419266,
       "word": "鬼鬼和女儿泳装照",
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558337,
+      "num": 558337,
+      "word": "樊振东vs林高远",
+      "onboard_time": 1749472460,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 557846,
       "num": 557846,
       "word": "李晟回应拒演短剧还珠",
@@ -521,6 +537,14 @@
       "onboard_time": 1749466281,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 454485,
+      "num": 454485,
+      "word": "197帅哥被浙大提前录取仍参加高考",
+      "onboard_time": 1749472281,
+      "rank": 12,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 452941,
@@ -659,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384963,
+      "num": 384963,
+      "word": "女骗子半年嫁5人骗彩礼190万",
+      "onboard_time": 1749469761,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384243,
       "num": 635451,
       "word": "刘浩存演技",
@@ -707,20 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359540,
-      "num": 323877,
-      "word": "张若昀拍的唐艺昕与女儿",
-      "onboard_time": 1749473001,
-      "rank": 13,
+      "raw_hot": 364247,
+      "num": 297254,
+      "word": "刘亦菲李沁中间这位女士",
+      "onboard_time": 1749473361,
+      "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349755,
-      "num": 349755,
-      "word": "樊振东vs林高远",
-      "onboard_time": 1749472460,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 348870,
@@ -729,14 +753,6 @@
       "onboard_time": 1749434359,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 348688,
-      "num": 348688,
-      "word": "女骗子半年嫁5人骗彩礼190万",
-      "onboard_time": 1749469761,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 344839,
@@ -753,14 +769,6 @@
       "onboard_time": 1749464000,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 341720,
-      "num": 324635,
-      "word": "197帅哥被浙大提前录取仍参加高考",
-      "onboard_time": 1749472281,
-      "rank": 12,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 339505,
@@ -921,6 +929,14 @@
       "onboard_time": 1749434242,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 305852,
+      "num": 311041,
+      "word": "12800买时团内场票帮女儿圆梦被骗",
+      "onboard_time": 1749471442,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303365,
@@ -1123,14 +1139,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 260048,
-      "num": 311041,
-      "word": "12800买时团内场票帮女儿圆梦被骗",
-      "onboard_time": 1749471442,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 259124,
       "num": 284572,
       "word": "李雪琴免费听了半年陈昊宇演唱会",
@@ -1251,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234004,
+      "num": 226200,
+      "word": "初次性生活前要检测HIV",
+      "onboard_time": 1749470722,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 233638,
       "num": 233638,
       "word": "樊振东11比7闫安",
@@ -1313,14 +1329,6 @@
       "onboard_time": 1749468620,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226200,
-      "num": 226200,
-      "word": "初次性生活前要检测HIV",
-      "onboard_time": 1749470722,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 225281,
@@ -1451,14 +1459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201499,
-      "num": 182308,
-      "word": "刘亦菲李沁中间这位女士",
-      "onboard_time": 1749473361,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201316,
       "num": 201316,
       "word": "肖战不舍往日之景",
@@ -1491,12 +1491,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198729,
+      "num": 198729,
+      "word": "蒋一侨对侯佩岑的爱太实在了",
+      "onboard_time": 1749474083,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198583,
       "num": 198583,
       "word": "上海地产集团3比2山东鲁能",
       "onboard_time": 1749451342,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198299,
+      "num": 198299,
+      "word": "何秋亊回应假唱质疑",
+      "onboard_time": 1749473842,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 198279,
@@ -1651,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184507,
+      "num": 184507,
+      "word": "刘宇宁折腰收官战报",
+      "onboard_time": 1749474262,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184382,
       "num": 184382,
       "word": "金泰亨宋江拍了人生四格",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1749445704,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181853,
+      "num": 181853,
+      "word": "魏大勋这个捂脸包含了好多情绪",
+      "onboard_time": 1749474142,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 181215,
@@ -1771,6 +1803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171794,
+      "num": 171794,
+      "word": "蔡依林发了直播答应的暴食自拍",
+      "onboard_time": 1749473183,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170223,
       "num": 170223,
       "word": "乒超直播",
@@ -1843,14 +1883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167058,
-      "num": 167058,
-      "word": "蔡依林发了直播答应的暴食自拍",
-      "onboard_time": 1749473183,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166829,
       "num": 166829,
       "word": "中医说身体好不好看眼睛就知道",
@@ -1875,6 +1907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 165563,
+      "num": 165563,
+      "word": "杨洋发了18宫格",
+      "onboard_time": 1749474083,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165533,
       "num": 235547,
       "word": "登陆少年出发录制披哥",
@@ -1889,6 +1929,14 @@
       "onboard_time": 1749437120,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164497,
+      "num": 331466,
+      "word": "中美经贸磋商机制首次会议举行",
+      "onboard_time": 1749473001,
+      "rank": 9,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 164163,
@@ -1961,14 +2009,6 @@
       "onboard_time": 1749460581,
       "rank": 45,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 160807,
-      "num": 331466,
-      "word": "中美经贸磋商机制首次会议举行",
-      "onboard_time": 1749473001,
-      "rank": 9,
-      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 160785,
@@ -2057,6 +2097,14 @@
       "onboard_time": 1749457461,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 152180,
+      "num": 152180,
+      "word": "河北也太宠樊振东了",
+      "onboard_time": 1749471322,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 151296,
@@ -2187,12 +2235,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141220,
+      "num": 312025,
+      "word": "地铁上劝阻他人饮食被索赔3万",
+      "onboard_time": 1749473001,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140984,
       "num": 140984,
       "word": "灵笼2挤痘痘",
       "onboard_time": 1749462921,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 140448,
+      "num": 180503,
+      "word": "许昕1比3徐海东",
+      "onboard_time": 1749474322,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 140313,
@@ -2571,6 +2635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115684,
+      "num": 260392,
+      "word": "天猫618补贴高考生4000元",
+      "onboard_time": 1749470661,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 114037,
       "num": 114037,
       "word": "王自如谈在格力的年薪",
@@ -2585,6 +2657,14 @@
       "onboard_time": 1749397404,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110779,
+      "num": 198390,
+      "word": "送荣耀祝你未来一路荣耀",
+      "onboard_time": 1749474443,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109588,
@@ -2609,14 +2689,6 @@
       "onboard_time": 1749395963,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101994,
-      "num": 312025,
-      "word": "地铁上劝阻他人饮食被索赔3万",
-      "onboard_time": 1749473001,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100143,
@@ -2665,14 +2737,6 @@
       "onboard_time": 1749458242,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94195,
-      "num": 260392,
-      "word": "天猫618补贴高考生4000元",
-      "onboard_time": 1749470661,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 94156,
@@ -2955,6 +3019,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 57664,
+      "num": 198312,
+      "word": "洛杉矶屋顶上的韩国人在哪",
+      "onboard_time": 1749474383,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57351,
       "num": 1273022,
       "word": "祝高考生的梦想破土生花",
@@ -3131,6 +3203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 39692,
+      "num": 292859,
+      "word": "冷酸灵牙膏即速60s是注册商标",
+      "onboard_time": 1749473422,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 39682,
       "num": 581814,
       "word": "这份文明上网攻略请收好",
@@ -3235,6 +3315,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 33972,
+      "num": 247434,
+      "word": "洛杉矶示威者抢劫焚烧加油站",
+      "onboard_time": 1749472581,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33131,
       "num": 172138,
       "word": "光遇",
@@ -3283,6 +3371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31539,
+      "num": 196057,
+      "word": "高考结束后人生是这样的",
+      "onboard_time": 1749472701,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 30265,
       "num": 84917,
       "word": "吴梦洁赛后采访落泪",
@@ -3297,14 +3393,6 @@
       "onboard_time": 1749405017,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29687,
-      "num": 196057,
-      "word": "高考结束后人生是这样的",
-      "onboard_time": 1749472701,
-      "rank": 38,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 29270,
@@ -3363,14 +3451,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 22976,
-      "num": 226355,
-      "word": "冷酸灵牙膏即速60s是注册商标",
-      "onboard_time": 1749473422,
-      "rank": 34,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 22040,
       "num": 362513,
       "word": "劣质防晒衣会损伤皮肤吗",
@@ -3401,14 +3481,6 @@
       "onboard_time": 1749460820,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 21719,
-      "num": 247434,
-      "word": "洛杉矶示威者抢劫焚烧加油站",
-      "onboard_time": 1749472581,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21526,
@@ -3579,6 +3651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14085,
+      "num": 269546,
+      "word": "汉堡作为减脂餐真的科学吗",
+      "onboard_time": 1749473542,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14019,
       "num": 165958,
       "word": "银行揽储礼品从米面粮油到LABUBU",
@@ -3617,14 +3697,6 @@
       "onboard_time": 1749468681,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 7368,
-      "num": 226624,
-      "word": "汉堡作为减脂餐真的科学吗",
-      "onboard_time": 1749473542,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 6442,
