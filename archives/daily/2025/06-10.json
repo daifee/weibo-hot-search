@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749496904864,
+  "endTime": 1749497835196,
   "band_list": [
     {
       "raw_hot": 970316,
@@ -547,19 +547,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22069,
+      "num": 24498,
+      "word": "多方回应制止男子拖拽女童大爷情况",
+      "onboard_time": 1749494715,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20555,
       "num": 587290,
       "word": "万千气象看安徽",
       "onboard_time": 1749475463,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20249,
-      "num": 24498,
-      "word": "多方回应制止男子拖拽女童大爷情况",
-      "onboard_time": 1749494715,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -592,6 +592,22 @@
       "word": "高考政治逻辑题",
       "onboard_time": 1749496694,
       "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 14913,
+      "num": 18002,
+      "word": "高考语文40分钟前被马蜂蛰了",
+      "onboard_time": 1749497534,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14717,
+      "num": 18002,
+      "word": "喜报 我下高三了",
+      "onboard_time": 1749497594,
+      "rank": 49,
       "category": "教育"
     },
     {

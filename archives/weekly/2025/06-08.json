@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749496904864,
+  "endTime": 1749497835196,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -7867,6 +7867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22069,
+      "num": 24498,
+      "word": "多方回应制止男子拖拽女童大爷情况",
+      "onboard_time": 1749494715,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22040,
       "num": 362513,
       "word": "劣质防晒衣会损伤皮肤吗",
@@ -7953,14 +7961,6 @@
       "onboard_time": 1749395543,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 20249,
-      "num": 24498,
-      "word": "多方回应制止男子拖拽女童大爷情况",
-      "onboard_time": 1749494715,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19961,
@@ -8179,12 +8179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14913,
+      "num": 18002,
+      "word": "高考语文40分钟前被马蜂蛰了",
+      "onboard_time": 1749497534,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14843,
       "num": 20627,
       "word": "刺客烧烤摊修改结算单欺诈消费者",
       "onboard_time": 1749411194,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14717,
+      "num": 18002,
+      "word": "喜报 我下高三了",
+      "onboard_time": 1749497594,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 14544,
