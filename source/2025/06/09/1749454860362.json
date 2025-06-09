@@ -1,0 +1,410 @@
+{
+  "runTime": 1749454860362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1707096,
+        "num": 1707096,
+        "word": "央视删除那尔那茜高考祝福视频",
+        "onboard_time": 1749451221,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767931,
+        "num": 767931,
+        "word": "孙颖莎左看樊振东右看深圳队",
+        "onboard_time": 1749451882,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40199,
+        "num": 679861,
+        "word": "祝高考生的梦想破土生花",
+        "onboard_time": 1749442762,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1563795,
+        "num": 679740,
+        "word": "尹正发长文道歉",
+        "onboard_time": 1749449662,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679234,
+        "num": 679234,
+        "word": "樊振东状态",
+        "onboard_time": 1749450442,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538546,
+        "num": 538546,
+        "word": "章莹颖遇害8年父母边治病边还债",
+        "onboard_time": 1749450080,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 747484,
+        "num": 535018,
+        "word": "北大回应韦东奕健康问题",
+        "onboard_time": 1749445822,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521623,
+        "num": 521623,
+        "word": "刘品言宣布怀孕",
+        "onboard_time": 1749444863,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489576,
+        "num": 489576,
+        "word": "陈都灵 不让女孩子的手落空",
+        "onboard_time": 1749450201,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305995,
+        "num": 419854,
+        "word": "高考被AI发现作弊记0分系诈骗",
+        "onboard_time": 1749453741,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574500,
+        "num": 419266,
+        "word": "鬼鬼和女儿泳装照",
+        "onboard_time": 1749450863,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408967,
+        "num": 408967,
+        "word": "高考地理 玄学",
+        "onboard_time": 1749444564,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335365,
+        "num": 335365,
+        "word": "星巴克回应大降价",
+        "onboard_time": 1749448942,
+        "rank": 12,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 321176,
+        "num": 321176,
+        "word": "洛杉矶乱成一锅粥",
+        "onboard_time": 1749442762,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 278087,
+        "num": 278087,
+        "word": "男子住酒店打开柜子竟发现大蛇",
+        "onboard_time": 1749445763,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275919,
+        "num": 275919,
+        "word": "赵雅芝 一辈子流量花",
+        "onboard_time": 1749449662,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230344,
+        "num": 230344,
+        "word": "特朗普下令解放洛杉矶",
+        "onboard_time": 1749427101,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218977,
+        "num": 218977,
+        "word": "樊振东3比0闫安",
+        "onboard_time": 1749451941,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199036,
+        "num": 199036,
+        "word": "白鹿扛剧能力",
+        "onboard_time": 1749453861,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18830,
+        "num": 198754,
+        "word": "怎么远离主仆式友谊",
+        "onboard_time": 1749454343,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 659169,
+        "num": 197599,
+        "word": "27岁女生失业躺出租屋一天的花销",
+        "onboard_time": 1749452062,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418383,
+        "num": 195816,
+        "word": "只差1分钟进不去考场了",
+        "onboard_time": 1749451641,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239522,
+        "num": 195197,
+        "word": "双胞胎姐妹互换身份被凶手误杀",
+        "onboard_time": 1749450982,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46069,
+        "num": 193108,
+        "word": "物化地 高考极速版",
+        "onboard_time": 1749443303,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23818,
+        "num": 192484,
+        "word": "央视记者直击洛杉矶冲突现场",
+        "onboard_time": 1749454701,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80873,
+        "num": 191440,
+        "word": "涉不防晒的防晒衣企业多年0人参保",
+        "onboard_time": 1749452842,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 190527,
+        "num": 190527,
+        "word": "高考",
+        "onboard_time": 1749426201,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 177942,
+        "num": 177942,
+        "word": "白鹿观众缘",
+        "onboard_time": 1749452482,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175862,
+        "num": 175862,
+        "word": "汪海林说的是谁",
+        "onboard_time": 1749454581,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167599,
+        "num": 167599,
+        "word": "刘品言连晨翔结婚",
+        "onboard_time": 1749444924,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164163,
+        "num": 167497,
+        "word": "邋邋遢遢也行的肖战",
+        "onboard_time": 1749453560,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178052,
+        "num": 166996,
+        "word": "宋佳马柏全豪门姐弟",
+        "onboard_time": 1749454642,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175621,
+        "num": 166373,
+        "word": "北大称已多次派人陪同韦东奕就诊",
+        "onboard_time": 1749453982,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14019,
+        "num": 165958,
+        "word": "银行揽储礼品从米面粮油到LABUBU",
+        "onboard_time": 1749454701,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165914,
+        "num": 165914,
+        "word": "北大呼吁保护学者让其专心治学",
+        "onboard_time": 1749449361,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6442,
+        "num": 165792,
+        "word": "家族第四代护边人",
+        "onboard_time": 1749454762,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165700,
+        "num": 165700,
+        "word": "HYBE大楼迎接BTS回归",
+        "onboard_time": 1749450381,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162399,
+        "num": 162399,
+        "word": "刘美含演到章子怡心里去了",
+        "onboard_time": 1749448762,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160178,
+        "num": 160178,
+        "word": "谁家男女主一个小萝卜一个小口袋",
+        "onboard_time": 1749453982,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144553,
+        "num": 144553,
+        "word": "南宁一瓜园遭村民哄抢瓜农报警求助",
+        "onboard_time": 1749453322,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143146,
+        "num": 143146,
+        "word": "黄金",
+        "onboard_time": 1749436822,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135521,
+        "num": 135521,
+        "word": "庞博 我现在赢小学生都有悬念了吗",
+        "onboard_time": 1749453741,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98971,
+        "num": 135483,
+        "word": "孙颖莎说乒超在家乡举办非常开心",
+        "onboard_time": 1749454043,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94156,
+        "num": 135479,
+        "word": "高芙称必须和阿尔卡拉斯重返北京",
+        "onboard_time": 1749454762,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135478,
+        "num": 135478,
+        "word": "宋佳晒VOGUE合照",
+        "onboard_time": 1749454762,
+        "rank": 44,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 133717,
+        "num": 133717,
+        "word": "威神V 全员加速中",
+        "onboard_time": 1749453802,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35807,
+        "num": 130772,
+        "word": "免费艾灸馆卖给老人千元蜂胶",
+        "onboard_time": 1749452783,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129255,
+        "num": 129255,
+        "word": "冲绳美军基地发生爆炸",
+        "onboard_time": 1749441442,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128702,
+        "num": 128702,
+        "word": "樊振东11比7闫安",
+        "onboard_time": 1749450802,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128660,
+        "num": 128660,
+        "word": "不同角色对藏海的影响",
+        "onboard_time": 1749454402,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟随总书记探寻中华文明#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1749400189574,
-  "endTime": 1749454027610,
+  "endTime": 1749454860362,
   "band_list": [
     {
       "raw_hot": 2737887,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1707096,
+      "num": 1707096,
+      "word": "央视删除那尔那茜高考祝福视频",
+      "onboard_time": 1749451221,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1704507,
       "num": 1704507,
       "word": "高考化学",
@@ -57,14 +65,6 @@
       "onboard_time": 1749395063,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1399073,
-      "num": 705889,
-      "word": "央视删除那尔那茜高考祝福视频",
-      "onboard_time": 1749451221,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1397153,
@@ -147,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 767931,
+      "num": 767931,
+      "word": "孙颖莎左看樊振东右看深圳队",
+      "onboard_time": 1749451882,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 763908,
       "num": 763908,
       "word": "樊振东状态",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 742133,
-      "num": 195445,
+      "num": 197599,
       "word": "27岁女生失业躺出租屋一天的花销",
       "onboard_time": 1749452062,
       "rank": 20,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 713973,
-      "num": 381573,
+      "num": 419266,
       "word": "鬼鬼和女儿泳装照",
       "onboard_time": 1749450863,
       "rank": 16,
@@ -193,14 +201,6 @@
       "onboard_time": 1749439401,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 673097,
-      "num": 673097,
-      "word": "孙颖莎左看樊振东右看深圳队",
-      "onboard_time": 1749451882,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 662693,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489576,
+      "num": 489576,
+      "word": "陈都灵 不让女孩子的手落空",
+      "onboard_time": 1749450201,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484337,
       "num": 484337,
       "word": "男子住酒店打开柜子竟发现大蛇",
@@ -395,6 +403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 418383,
+      "num": 195816,
+      "word": "只差1分钟进不去考场了",
+      "onboard_time": 1749451641,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416692,
       "num": 416692,
       "word": "樊振东对阵闫安",
@@ -433,14 +449,6 @@
       "onboard_time": 1749423556,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 394913,
-      "num": 394913,
-      "word": "陈都灵 不让女孩子的手落空",
-      "onboard_time": 1749450201,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 384243,
@@ -513,6 +521,14 @@
       "onboard_time": 1749444984,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 335365,
+      "num": 335365,
+      "word": "星巴克回应大降价",
+      "onboard_time": 1749448942,
+      "rank": 47,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 334322,
@@ -593,6 +609,14 @@
       "onboard_time": 1749442402,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305995,
+      "num": 419854,
+      "word": "高考被AI发现作弊记0分系诈骗",
+      "onboard_time": 1749453741,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305937,
@@ -779,14 +803,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 246055,
-      "num": 246055,
-      "word": "星巴克回应大降价",
-      "onboard_time": 1749448942,
-      "rank": 47,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 242193,
       "num": 242193,
       "word": "高考",
@@ -875,20 +891,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 223485,
-      "num": 193230,
-      "word": "只差1分钟进不去考场了",
-      "onboard_time": 1749451641,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219509,
       "num": 219509,
       "word": "广东地理你还实验题上了",
       "onboard_time": 1749446661,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 218977,
+      "num": 218977,
+      "word": "樊振东3比0闫安",
+      "onboard_time": 1749451941,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 214619,
@@ -955,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199036,
+      "num": 199036,
+      "word": "白鹿扛剧能力",
+      "onboard_time": 1749453861,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198583,
       "num": 198583,
       "word": "上海地产集团3比2山东鲁能",
@@ -1000,14 +1024,6 @@
       "word": "C罗生涯第36冠",
       "onboard_time": 1749424641,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 192931,
-      "num": 192931,
-      "word": "樊振东3比0闫安",
-      "onboard_time": 1749451941,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -1131,6 +1147,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178052,
+      "num": 166996,
+      "word": "宋佳马柏全豪门姐弟",
+      "onboard_time": 1749454642,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177942,
+      "num": 177942,
+      "word": "白鹿观众缘",
+      "onboard_time": 1749452482,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175862,
+      "num": 175862,
+      "word": "汪海林说的是谁",
+      "onboard_time": 1749454581,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175621,
+      "num": 166373,
+      "word": "北大称已多次派人陪同韦东奕就诊",
+      "onboard_time": 1749453982,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173879,
       "num": 173879,
       "word": "山东政治 写不完",
@@ -1145,14 +1193,6 @@
       "onboard_time": 1749440063,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169084,
-      "num": 169084,
-      "word": "白鹿观众缘",
-      "onboard_time": 1749452482,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 168896,
@@ -1219,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164163,
+      "num": 167497,
+      "word": "邋邋遢遢也行的肖战",
+      "onboard_time": 1749453560,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164051,
       "num": 164051,
       "word": "爸爸当家",
@@ -1267,11 +1315,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 160022,
-      "num": 146642,
-      "word": "白鹿扛剧能力",
-      "onboard_time": 1749453861,
-      "rank": 33,
+      "raw_hot": 160178,
+      "num": 160178,
+      "word": "谁家男女主一个小萝卜一个小口袋",
+      "onboard_time": 1749453982,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1347,20 +1395,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 144553,
+      "num": 144553,
+      "word": "南宁一瓜园遭村民哄抢瓜农报警求助",
+      "onboard_time": 1749453322,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144461,
       "num": 144461,
       "word": "逆水寒手游",
       "onboard_time": 1749451762,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143362,
-      "num": 143362,
-      "word": "北大称已多次派人陪同韦东奕就诊",
-      "onboard_time": 1749453982,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143213,
@@ -1411,14 +1459,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 138093,
-      "num": 138093,
-      "word": "邋邋遢遢也行的肖战",
-      "onboard_time": 1749453560,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137560,
       "num": 137560,
       "word": "黄子韬真听不下去了",
@@ -1459,20 +1499,28 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 136366,
-      "num": 136366,
-      "word": "南宁一瓜园遭村民哄抢瓜农报警求助",
-      "onboard_time": 1749453322,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136255,
       "num": 136255,
       "word": "北京河北山东河南局地最高温超37",
       "onboard_time": 1749434359,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135521,
+      "num": 135521,
+      "word": "庞博 我现在赢小学生都有悬念了吗",
+      "onboard_time": 1749453741,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135478,
+      "num": 135478,
+      "word": "宋佳晒VOGUE合照",
+      "onboard_time": 1749454762,
+      "rank": 44,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 135171,
@@ -1515,6 +1563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133717,
+      "num": 133717,
+      "word": "威神V 全员加速中",
+      "onboard_time": 1749453802,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133662,
       "num": 129292,
       "word": "张泉灵说吴宣仪在乘风里赢了",
@@ -1555,6 +1611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128660,
+      "num": 128660,
+      "word": "不同角色对藏海的影响",
+      "onboard_time": 1749454402,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128045,
       "num": 128045,
       "word": "王楚钦vs费浚航",
@@ -1569,30 +1633,6 @@
       "onboard_time": 1749437720,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126780,
-      "num": 126780,
-      "word": "庞博 我现在赢小学生都有悬念了吗",
-      "onboard_time": 1749453741,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 126685,
-      "num": 126685,
-      "word": "谁家男女主一个小萝卜一个小口袋",
-      "onboard_time": 1749453982,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 126506,
-      "num": 126506,
-      "word": "威神V 全员加速中",
-      "onboard_time": 1749453802,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 125379,
@@ -1617,14 +1657,6 @@
       "onboard_time": 1749439221,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 123135,
-      "num": 147179,
-      "word": "高考被AI发现作弊记0分系诈骗",
-      "onboard_time": 1749453741,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122872,
@@ -1755,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98971,
+      "num": 135483,
+      "word": "孙颖莎说乒超在家乡举办非常开心",
+      "onboard_time": 1749454043,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97498,
       "num": 97498,
       "word": "时代峰峻要做潮玩了",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1749383243,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94156,
+      "num": 135479,
+      "word": "高芙称必须和阿尔卡拉斯重返北京",
+      "onboard_time": 1749454762,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 93328,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1749439641,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 80873,
+      "num": 377680,
+      "word": "涉不防晒的防晒衣企业多年0人参保",
+      "onboard_time": 1749452842,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 80698,
@@ -1953,14 +2009,6 @@
       "onboard_time": 1749436225,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 60072,
-      "num": 377680,
-      "word": "涉不防晒的防晒衣企业多年0人参保",
-      "onboard_time": 1749452842,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 58201,
@@ -2123,6 +2171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 35807,
+      "num": 196930,
+      "word": "免费艾灸馆卖给老人千元蜂胶",
+      "onboard_time": 1749452783,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33129,
       "num": 108919,
       "word": "加州蒙面人敲碎砖头攻击警察",
@@ -2171,12 +2227,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 23862,
-      "num": 196930,
-      "word": "免费艾灸馆卖给老人千元蜂胶",
-      "onboard_time": 1749452783,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 23818,
+      "num": 192484,
+      "word": "央视记者直击洛杉矶冲突现场",
+      "onboard_time": 1749454701,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23485,
@@ -2243,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18830,
+      "num": 198754,
+      "word": "怎么远离主仆式友谊",
+      "onboard_time": 1749454343,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18795,
       "num": 35313,
       "word": "游客因停车纠纷被打泾县多人被行拘",
@@ -2283,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14019,
+      "num": 165958,
+      "word": "银行揽储礼品从米面粮油到LABUBU",
+      "onboard_time": 1749454701,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12200,
       "num": 59780,
       "word": "男子专挑高档健身房更衣箱偷窃被刑拘",
@@ -2297,6 +2369,14 @@
       "onboard_time": 1749410894,
       "rank": 35,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 6442,
+      "num": 165792,
+      "word": "家族第四代护边人",
+      "onboard_time": 1749454762,
+      "rank": 35,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
