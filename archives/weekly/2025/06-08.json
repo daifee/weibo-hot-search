@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749565612944,
+  "endTime": 1749566722862,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1103013,
+      "num": 1176482,
+      "word": "孟子义李昀锐 二搭",
+      "onboard_time": 1749561862,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1092814,
       "num": 463895,
       "word": "叶童年度总冠军",
@@ -449,14 +457,6 @@
       "onboard_time": 1749534201,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1082579,
-      "num": 1173212,
-      "word": "孟子义李昀锐 二搭",
-      "onboard_time": 1749561862,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1065163,
@@ -635,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 903105,
+      "num": 494889,
+      "word": "宋江谁允许你变成这样了",
+      "onboard_time": 1749562162,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 890368,
       "num": 890368,
       "word": "星巴克降价",
@@ -673,14 +681,6 @@
       "onboard_time": 1749352040,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 869701,
-      "num": 494889,
-      "word": "宋江谁允许你变成这样了",
-      "onboard_time": 1749562162,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 859667,
@@ -777,6 +777,14 @@
       "onboard_time": 1749385102,
       "rank": 12,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 799809,
+      "num": 799809,
+      "word": "男童蘑菇中毒去世前说爸爸别担心我",
+      "onboard_time": 1749564803,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 798263,
@@ -1731,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441306,
+      "num": 441306,
+      "word": "Labubu全球爆火一娃难求",
+      "onboard_time": 1749562822,
+      "rank": 16,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 441053,
       "num": 441053,
       "word": "95后女子为求死砍死邻居已被执行死刑",
@@ -1891,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415727,
+      "num": 415727,
+      "word": "章若楠 虎扑扫楼",
+      "onboard_time": 1749563062,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412563,
       "num": 412563,
       "word": "Shanks成角了",
@@ -1960,14 +1984,6 @@
       "word": "肖战说爸妈生的好",
       "onboard_time": 1749443843,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 398905,
-      "num": 398905,
-      "word": "章若楠 虎扑扫楼",
-      "onboard_time": 1749563062,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -2393,6 +2409,14 @@
       "onboard_time": 1749533782,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344924,
+      "num": 344924,
+      "word": "国足不是最后一名",
+      "onboard_time": 1749565043,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 344839,
@@ -3379,14 +3403,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 249333,
-      "num": 249333,
-      "word": "Labubu全球爆火一娃难求",
-      "onboard_time": 1749562822,
-      "rank": 16,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 249331,
       "num": 249331,
       "word": "筷子兄弟变筷子父子",
@@ -3489,14 +3505,6 @@
       "onboard_time": 1749469880,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 240776,
-      "num": 240776,
-      "word": "男童蘑菇中毒去世前说爸爸别担心我",
-      "onboard_time": 1749564803,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239183,
@@ -3651,6 +3659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229130,
+      "num": 229130,
+      "word": "泰方回应军官在国防部宴请中国VVVIP",
+      "onboard_time": 1749565641,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 229075,
       "num": 361842,
       "word": "许佳琪是章子怡的心选妲己",
@@ -3713,6 +3729,14 @@
       "onboard_time": 1749541880,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225385,
+      "num": 225385,
+      "word": "女子给自己签字开了50小时无痛",
+      "onboard_time": 1749565702,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225281,
@@ -3801,6 +3825,14 @@
       "onboard_time": 1749529342,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220355,
+      "num": 285252,
+      "word": "为救女儿生下的儿子也患罕见遗传病",
+      "onboard_time": 1749565403,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219982,
@@ -4139,14 +4171,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 204079,
-      "num": 204079,
-      "word": "国足不是最后一名",
-      "onboard_time": 1749565043,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203728,
       "num": 203728,
       "word": "5种亲密关系是慢性消耗",
@@ -4433,6 +4457,14 @@
       "onboard_time": 1749565462,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197150,
+      "num": 185822,
+      "word": "赵子豪回应学樊振东转圈圈演砸了",
+      "onboard_time": 1749565702,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 197007,
@@ -5361,6 +5393,14 @@
       "onboard_time": 1749354082,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172740,
+      "num": 186226,
+      "word": "ENHYPEN直播",
+      "onboard_time": 1749566303,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 172631,
@@ -6459,6 +6499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153892,
+      "num": 153892,
+      "word": "克拉恋人幕后争议",
+      "onboard_time": 1749563242,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153852,
       "num": 153852,
       "word": "无畏状态",
@@ -6529,14 +6577,6 @@
       "onboard_time": 1749560302,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151623,
-      "num": 151623,
-      "word": "为救女儿生下的儿子也患罕见遗传病",
-      "onboard_time": 1749565403,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151296,
@@ -6777,6 +6817,14 @@
       "onboard_time": 1749355340,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146389,
+      "num": 248303,
+      "word": "永州一男子被错录为吸毒人员",
+      "onboard_time": 1749564502,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146313,
@@ -7145,14 +7193,6 @@
       "onboard_time": 1749371360,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139762,
-      "num": 139762,
-      "word": "克拉恋人幕后争议",
-      "onboard_time": 1749563242,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 139502,
@@ -7860,7 +7900,7 @@
     },
     {
       "raw_hot": 126617,
-      "num": 152736,
+      "num": 416265,
       "word": "中美经贸磋商在午餐后继续进行",
       "onboard_time": 1749564803,
       "rank": 38,
@@ -7961,6 +8001,14 @@
       "onboard_time": 1749358160,
       "rank": 46,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 123498,
+      "num": 123498,
+      "word": "爸妈偷偷买小狗送给熟睡的儿子",
+      "onboard_time": 1749566123,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123460,
@@ -8723,6 +8771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102873,
+      "num": 102873,
+      "word": "进击的巨人令人震撼的宣传",
+      "onboard_time": 1749564022,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102468,
       "num": 102468,
       "word": "高考的是我 想出片的是我妈",
@@ -8753,6 +8809,14 @@
       "onboard_time": 1749314302,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101810,
+      "num": 101810,
+      "word": "腾讯音乐拟收购喜马拉雅控股",
+      "onboard_time": 1749566602,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 101169,
@@ -8889,6 +8953,14 @@
       "onboard_time": 1749553641,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 96609,
+      "num": 96609,
+      "word": "葛夕买labubu送朋友",
+      "onboard_time": 1749566062,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 96219,
@@ -9169,14 +9241,6 @@
       "onboard_time": 1749424997,
       "rank": 37,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 83613,
-      "num": 248303,
-      "word": "永州一男子被错录为吸毒人员",
-      "onboard_time": 1749564502,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83302,
@@ -11865,6 +11929,14 @@
       "onboard_time": 1749462021,
       "rank": 33,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 7579,
+      "num": 272284,
+      "word": "微博探班追光动画有哪些看点",
+      "onboard_time": 1749565882,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 7397,
