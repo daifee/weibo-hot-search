@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/08 00:30:01 ~ 2025/06/11 04:29:19
+本榜单时间：2025/06/08 00:30:01 ~ 2025/06/11 04:42:48
 </p>
 </blockquote>
 <p>
@@ -9057,6 +9057,12 @@ cubal（热度：15043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9A%8C%E5%9F%A0%E5%86%8D%E9%80%9A%E6%8A%A5%E6%B1%A1%E6%9F%93%E8%87%B4%E4%B8%8A%E4%B8%87%E4%BA%A9%E6%B0%B4%E7%A8%BB%E6%97%A0%E6%B0%B4%23" target="weibo">
+蚌埠再通报污染致上万亩水稻无水（热度：14485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E8%AE%AE%E8%80%85%E5%9C%A8%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%B8%82%E6%94%BF%E5%8E%85%E5%A4%96%E8%AE%BE%E8%B7%AF%E9%9A%9C%23" target="weibo">
 抗议者在洛杉矶市政厅外设路障（热度：14413）
 </a>
@@ -9075,14 +9081,14 @@ cubal（热度：15043）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E6%8F%BD%E5%82%A8%E7%A4%BC%E5%93%81%E4%BB%8E%E7%B1%B3%E9%9D%A2%E7%B2%AE%E6%B2%B9%E5%88%B0LABUBU%23" target="weibo">
-银行揽储礼品从米面粮油到LABUBU（热度：14019）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%9B%B4%E6%92%AD%23" target="weibo">
+微博电影之夜直播（热度：14056）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%9B%B4%E6%92%AD%23" target="weibo">
-微博电影之夜直播（热度：13686）
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E6%8F%BD%E5%82%A8%E7%A4%BC%E5%93%81%E4%BB%8E%E7%B1%B3%E9%9D%A2%E7%B2%AE%E6%B2%B9%E5%88%B0LABUBU%23" target="weibo">
+银行揽储礼品从米面粮油到LABUBU（热度：14019）
 </a>
 </li>
 
@@ -9143,6 +9149,12 @@ mbti的气质会随时间改变吗（热度：13134）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E4%B8%80%E7%9C%A8%E7%9C%BC%E5%B0%B1%E6%AF%95%E4%B8%9A%E4%BA%86%23" target="weibo">
 怎么一眨眼就毕业了（热度：12570）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A6700%E5%90%8D%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E5%B0%86%E9%83%A8%E7%BD%B2%E6%B4%9B%E6%9D%89%E7%9F%B6%23" target="weibo">
+约700名海军陆战队将部署洛杉矶（热度：12491）
 </a>
 </li>
 

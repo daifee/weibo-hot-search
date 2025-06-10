@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749587359840,
+  "endTime": 1749588168150,
   "band_list": [
     {
       "raw_hot": 525352,
@@ -515,12 +515,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13686,
+      "raw_hot": 14485,
+      "num": 14485,
+      "word": "蚌埠再通报污染致上万亩水稻无水",
+      "onboard_time": 1749587654,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14056,
       "num": 15595,
       "word": "微博电影之夜直播",
       "onboard_time": 1749579555,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 12491,
+      "num": 30138,
+      "word": "约700名海军陆战队将部署洛杉矶",
+      "onboard_time": 1749587414,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11081,
