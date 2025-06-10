@@ -1,0 +1,410 @@
+{
+  "runTime": 1749527528818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2232988,
+        "num": 2232988,
+        "word": "洛杉矶冲突",
+        "onboard_time": 1749525681,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 975524,
+        "num": 975524,
+        "word": "Labubu 魔童",
+        "onboard_time": 1749523821,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 35884,
+        "num": 948865,
+        "word": "文明上网我们共同约定",
+        "onboard_time": 1749519441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 931261,
+        "num": 931261,
+        "word": "洛杉矶警方承认局面已失控",
+        "onboard_time": 1749519441,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 605783,
+        "num": 817165,
+        "word": "龙骨焚箱",
+        "onboard_time": 1749522740,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 766737,
+        "num": 766737,
+        "word": "男子怕兄弟耽误婚礼报警谎称嫖娼",
+        "onboard_time": 1749525022,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465188,
+        "num": 710127,
+        "word": "蒋一侨回应香飘飘千金标签",
+        "onboard_time": 1749523701,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692477,
+        "num": 692477,
+        "word": "iOS26 丑",
+        "onboard_time": 1749526461,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122027,
+        "num": 568949,
+        "word": "人民日报记者对话任正非",
+        "onboard_time": 1749525740,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82807,
+        "num": 529322,
+        "word": "邻居称因爆炸被困高考生和奶奶去世",
+        "onboard_time": 1749527000,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459656,
+        "num": 523195,
+        "word": "景甜张彬彬二搭龙骨焚箱",
+        "onboard_time": 1749523220,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521210,
+        "num": 521210,
+        "word": "苹果用户截图更完整了",
+        "onboard_time": 1749522441,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 448486,
+        "num": 448486,
+        "word": "95后情侣月入3万每月只花3000",
+        "onboard_time": 1749524540,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425323,
+        "num": 425323,
+        "word": "那尔那茜初高中就读北京名校",
+        "onboard_time": 1749523459,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420183,
+        "num": 420183,
+        "word": "95后女子为求死砍死邻居已被执行死刑",
+        "onboard_time": 1749522441,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381386,
+        "num": 404816,
+        "word": "克拉恋人制片人转发迪丽热巴",
+        "onboard_time": 1749519321,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398436,
+        "num": 398436,
+        "word": "韩民众感叹泡面加蛋太奢侈",
+        "onboard_time": 1749522020,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33959,
+        "num": 388381,
+        "word": "陈建斌蒋勤勤官宣微博电影之夜",
+        "onboard_time": 1749526820,
+        "rank": 17,
+        "category": "电影,作品衍生"
+      },
+      {
+        "raw_hot": 13434,
+        "num": 384333,
+        "word": "感到无聊对心理健康是否是件好事",
+        "onboard_time": 1749526642,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382007,
+        "num": 382007,
+        "word": "日本居民凌晨1点排队买米",
+        "onboard_time": 1749518361,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 467709,
+        "num": 376013,
+        "word": "程潇给前任发信息被秒回",
+        "onboard_time": 1749472281,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362099,
+        "num": 362099,
+        "word": "美国发现13具尸体疑连环杀手作案",
+        "onboard_time": 1749480802,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 274918,
+        "num": 274918,
+        "word": "网红咖啡店老板厕所偷拍长达13年",
+        "onboard_time": 1749524959,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265793,
+        "num": 265793,
+        "word": "两夫妻各住一套房是什么体验",
+        "onboard_time": 1749526101,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38592,
+        "num": 255552,
+        "word": "这几个动作每天坚持保护心脏",
+        "onboard_time": 1749527000,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246262,
+        "num": 246262,
+        "word": "三款机型无缘iOS26",
+        "onboard_time": 1749522501,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224933,
+        "num": 224933,
+        "word": "iOS26 安卓主题",
+        "onboard_time": 1749525501,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202827,
+        "num": 202827,
+        "word": "桃花映江山",
+        "onboard_time": 1749526880,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202203,
+        "num": 202203,
+        "word": "临江仙12集",
+        "onboard_time": 1749526341,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190703,
+        "num": 190703,
+        "word": "舒淇晒labubu哭娃",
+        "onboard_time": 1749515962,
+        "rank": 29,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 188070,
+        "num": 188070,
+        "word": "麻花特开心团建式官宣",
+        "onboard_time": 1749526461,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187073,
+        "num": 187073,
+        "word": "金泰亨退伍",
+        "onboard_time": 1749514461,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175789,
+        "num": 175789,
+        "word": "川美爆火毕业作品祷已售出",
+        "onboard_time": 1749517701,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174773,
+        "num": 174773,
+        "word": "樊振东说面对没准备到的困难多想想办法",
+        "onboard_time": 1749521000,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169158,
+        "num": 169158,
+        "word": "接送高考生车辆侧翻多人受伤",
+        "onboard_time": 1749526762,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163003,
+        "num": 163003,
+        "word": "美媒记者在加州被警察开枪击中脑门",
+        "onboard_time": 1749522801,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161190,
+        "num": 161190,
+        "word": "姐姐带顶流labubu花束接高考妹妹",
+        "onboard_time": 1749516921,
+        "rank": 36,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 159982,
+        "num": 159982,
+        "word": "肖战张婧仪烟花神级镜头",
+        "onboard_time": 1749525560,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150780,
+        "num": 150780,
+        "word": "iOS26壁纸",
+        "onboard_time": 1749526041,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33539,
+        "num": 146205,
+        "word": "三个动作强肾固发",
+        "onboard_time": 1749527422,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145108,
+        "num": 145108,
+        "word": "黄圣依白月光的杀伤力",
+        "onboard_time": 1749527000,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144797,
+        "num": 144797,
+        "word": "早知道我就不整牙了",
+        "onboard_time": 1749525560,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141742,
+        "num": 141742,
+        "word": "70岁任达华回山东老家收麦子",
+        "onboard_time": 1749516561,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140090,
+        "num": 140090,
+        "word": "高额彩礼成为影响结婚率重要因素之一",
+        "onboard_time": 1749477623,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138461,
+        "num": 138461,
+        "word": "特朗普祝一切顺利马斯克回复红色爱心",
+        "onboard_time": 1749522622,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132887,
+        "num": 132887,
+        "word": "六旬男子列车上猥亵3名女旅客被拘",
+        "onboard_time": 1749527302,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128727,
+        "num": 128727,
+        "word": "加州州长硬刚",
+        "onboard_time": 1749526762,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127045,
+        "num": 127045,
+        "word": "男子打车面试被女司机送进湖里",
+        "onboard_time": 1749517461,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125272,
+        "num": 125272,
+        "word": "九尾恋爱分手",
+        "onboard_time": 1749512779,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122263,
+        "num": 122263,
+        "word": "高考考生考完可以准备微博账号了",
+        "onboard_time": 1749527481,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步关心海洋认识海洋经略海洋#"
+    }
+  }
+}
