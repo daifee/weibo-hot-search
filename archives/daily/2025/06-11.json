@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749588168150,
+  "endTime": 1749590707400,
   "band_list": [
     {
       "raw_hot": 525352,
@@ -459,12 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37947,
+      "raw_hot": 38887,
       "num": 45371,
       "word": "美国加州街头变战场",
       "onboard_time": 1749580395,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36511,
+      "num": 33788,
+      "word": "韩乔生说国足在狼藉中翻出一粒金子",
+      "onboard_time": 1749580994,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 36125,
@@ -475,12 +483,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32832,
-      "num": 31457,
-      "word": "韩乔生说国足在狼藉中翻出一粒金子",
-      "onboard_time": 1749580994,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 34565,
+      "num": 34565,
+      "word": "特朗普早就看不惯加州州长",
+      "onboard_time": 1749588855,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25472,
@@ -507,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19325,
+      "num": 30138,
+      "word": "约700名海军陆战队将部署洛杉矶",
+      "onboard_time": 1749587414,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18321,
       "num": 34060,
       "word": "航母上的起飞瞬间",
@@ -515,8 +531,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14485,
-      "num": 14485,
+      "raw_hot": 15078,
+      "num": 15078,
       "word": "蚌埠再通报污染致上万亩水稻无水",
       "onboard_time": 1749587654,
       "rank": 46,
@@ -531,12 +547,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 12491,
-      "num": 30138,
-      "word": "约700名海军陆战队将部署洛杉矶",
-      "onboard_time": 1749587414,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 12458,
+      "num": 30599,
+      "word": "奥地利校园枪击致至少10死",
+      "onboard_time": 1749586993,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11081,
@@ -555,12 +571,12 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 10654,
-      "num": 26431,
-      "word": "奥地利校园枪击致至少10死",
-      "onboard_time": 1749586993,
-      "rank": 15,
-      "category": "海外新闻"
+      "raw_hot": 10270,
+      "num": 23997,
+      "word": "深入推进深圳综合改革试点",
+      "onboard_time": 1749590595,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10207,
