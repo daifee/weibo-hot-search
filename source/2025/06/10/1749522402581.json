@@ -1,0 +1,410 @@
+{
+  "runTime": 1749522402581,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1477044,
+        "num": 1477044,
+        "word": "妈妈带顶流labubu花束接高考女儿",
+        "onboard_time": 1749516921,
+        "rank": 0,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 1065163,
+        "num": 1065163,
+        "word": "洛杉矶警方承认局面已失控",
+        "onboard_time": 1749519441,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32751,
+        "num": 853194,
+        "word": "文明上网我们共同约定",
+        "onboard_time": 1749519441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716351,
+        "num": 716351,
+        "word": "程潇给前任发信息被秒回",
+        "onboard_time": 1749472281,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 614436,
+        "num": 614436,
+        "word": "山东历史",
+        "onboard_time": 1749520820,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 611340,
+        "num": 611340,
+        "word": "克拉恋人制片人转发迪丽热巴",
+        "onboard_time": 1749519321,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 609101,
+        "num": 609101,
+        "word": "美国发现13具尸体疑连环杀手作案",
+        "onboard_time": 1749480802,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 582392,
+        "num": 582392,
+        "word": "川美爆火毕业作品祷已售出",
+        "onboard_time": 1749517701,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561431,
+        "num": 561431,
+        "word": "日本居民凌晨1点排队买米",
+        "onboard_time": 1749518361,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58017,
+        "num": 550341,
+        "word": "中美经贸磋商机制首次会议将继续进行",
+        "onboard_time": 1749521000,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84545,
+        "num": 542921,
+        "word": "原来榫卯也能当游戏通关密语",
+        "onboard_time": 1749521541,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540780,
+        "num": 540780,
+        "word": "杨天真晒美国留学生活照",
+        "onboard_time": 1749518061,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448239,
+        "num": 448239,
+        "word": "男子打车面试被女司机送进湖里",
+        "onboard_time": 1749517461,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335298,
+        "num": 335298,
+        "word": "俄罗斯发动最大规模夜袭",
+        "onboard_time": 1749515301,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76330,
+        "num": 331635,
+        "word": "约700名士兵将部署至洛杉矶地区",
+        "onboard_time": 1749521180,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328750,
+        "num": 328750,
+        "word": "舒淇晒labubu哭娃",
+        "onboard_time": 1749515962,
+        "rank": 15,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 309227,
+        "num": 309227,
+        "word": "樊振东说面对没准备到的困难多想想办法",
+        "onboard_time": 1749521000,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301229,
+        "num": 301229,
+        "word": "蒋一侨光速帮侯佩岑找到工作",
+        "onboard_time": 1749517401,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290896,
+        "num": 290896,
+        "word": "70岁任达华回山东老家收麦子",
+        "onboard_time": 1749516561,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132277,
+        "num": 283729,
+        "word": "郭晶晶不止步的人生态度",
+        "onboard_time": 1749521000,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415470,
+        "num": 282073,
+        "word": "北大将帮韦东奕积极治疗",
+        "onboard_time": 1749483682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279293,
+        "num": 279293,
+        "word": "高额彩礼成为影响结婚率重要因素之一",
+        "onboard_time": 1749477623,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251311,
+        "num": 251311,
+        "word": "金泰亨退伍",
+        "onboard_time": 1749514461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221573,
+        "num": 221573,
+        "word": "特朗普称支持逮捕加州州长",
+        "onboard_time": 1749513020,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212881,
+        "num": 212881,
+        "word": "福建南安发生疑似燃气爆燃致2死5伤",
+        "onboard_time": 1749519680,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 209235,
+        "num": 209235,
+        "word": "小孩被天降乌龟砸死饲主判赔128万",
+        "onboard_time": 1749480082,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205805,
+        "num": 205805,
+        "word": "iOS26相机",
+        "onboard_time": 1749512661,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171085,
+        "num": 171085,
+        "word": "汪苏泷首部演唱会设定集",
+        "onboard_time": 1749522080,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167632,
+        "num": 169803,
+        "word": "李梦回应与刘亦菲李沁合照",
+        "onboard_time": 1749479482,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161920,
+        "num": 169512,
+        "word": "李昀锐工作室致粉丝的一封信",
+        "onboard_time": 1749484340,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169508,
+        "num": 169508,
+        "word": "九尾恋爱分手",
+        "onboard_time": 1749512779,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160752,
+        "num": 160752,
+        "word": "韩民众感叹泡面加蛋太奢侈",
+        "onboard_time": 1749522020,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159564,
+        "num": 159564,
+        "word": "61岁阿姨家中用锤子打蛇被咬伤",
+        "onboard_time": 1749513559,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157299,
+        "num": 157299,
+        "word": "新房在小姑子名下准新娘直接退婚",
+        "onboard_time": 1749469940,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143475,
+        "num": 143475,
+        "word": "折腰回门宴全记录",
+        "onboard_time": 1749519021,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132455,
+        "num": 132455,
+        "word": "上班后发现同事并不是那么善良",
+        "onboard_time": 1749513681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128420,
+        "num": 128420,
+        "word": "车澈在周深生日会上表白李嘉格",
+        "onboard_time": 1749517281,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125954,
+        "num": 125954,
+        "word": "加州州长说来抓我吧我才不怕",
+        "onboard_time": 1749518420,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125369,
+        "num": 125369,
+        "word": "iPhone将提醒相机镜头脏了",
+        "onboard_time": 1749520580,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118668,
+        "num": 118668,
+        "word": "王安宇壁纸",
+        "onboard_time": 1749520401,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118234,
+        "num": 118234,
+        "word": "魏大勋新综开头就这么刺激",
+        "onboard_time": 1749521780,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28450,
+        "num": 118132,
+        "word": "樊振东说斗志为自己赢得空间",
+        "onboard_time": 1749522379,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118121,
+        "num": 118121,
+        "word": "苹果迄今规模最大设计更新",
+        "onboard_time": 1749512119,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116351,
+        "num": 116351,
+        "word": "任天堂发明了永动机",
+        "onboard_time": 1749513740,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24701,
+        "num": 115931,
+        "word": "意大利2比0摩尔多瓦",
+        "onboard_time": 1749520222,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115891,
+        "num": 115891,
+        "word": "终于知道Labubu长得像谁了",
+        "onboard_time": 1749522020,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 110443,
+        "num": 110443,
+        "word": "给母亲磕头后他又跳湖救出第5人",
+        "onboard_time": 1749503113,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 109242,
+        "num": 109242,
+        "word": "福建南安一楼房发生爆炸",
+        "onboard_time": 1749519321,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 108981,
+        "num": 108981,
+        "word": "字母哥力挺詹姆斯",
+        "onboard_time": 1749520580,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103651,
+        "num": 103651,
+        "word": "严浩翔给链子 南宫问雅摸头",
+        "onboard_time": 1749514521,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步关心海洋认识海洋经略海洋#"
+    }
+  }
+}

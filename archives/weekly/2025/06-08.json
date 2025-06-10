@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749520997753,
+  "endTime": 1749522402581,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -353,6 +353,14 @@
       "onboard_time": 1749315021,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1065163,
+      "num": 1065163,
+      "word": "洛杉矶警方承认局面已失控",
+      "onboard_time": 1749519441,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1041523,
@@ -827,6 +835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614436,
+      "num": 614436,
+      "word": "山东历史",
+      "onboard_time": 1749520820,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 611340,
+      "num": 611340,
+      "word": "克拉恋人制片人转发迪丽热巴",
+      "onboard_time": 1749519321,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 611330,
       "num": 343958,
       "word": "twice",
@@ -907,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 582392,
+      "num": 582392,
+      "word": "川美爆火毕业作品祷已售出",
+      "onboard_time": 1749517701,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 581040,
       "num": 581040,
       "word": "每天吃鸡蛋和从不吃鸡蛋的区别",
@@ -961,6 +993,14 @@
       "onboard_time": 1749315021,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 561431,
+      "num": 561431,
+      "word": "日本居民凌晨1点排队买米",
+      "onboard_time": 1749518361,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 559662,
@@ -1025,14 +1065,6 @@
       "onboard_time": 1749445164,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 531802,
-      "num": 531802,
-      "word": "洛杉矶警方承认局面已失控",
-      "onboard_time": 1749519441,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 531672,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1749387143,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 503043,
-      "num": 503043,
-      "word": "川美爆火毕业作品祷已售出",
-      "onboard_time": 1749517701,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 497410,
@@ -1603,14 +1627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 380550,
-      "num": 380550,
-      "word": "克拉恋人制片人转发迪丽热巴",
-      "onboard_time": 1749519321,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 380196,
       "num": 392231,
       "word": "伴侣患艾滋病医生未告知非医生责任",
@@ -2043,6 +2059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 309227,
+      "num": 309227,
+      "word": "樊振东说面对没准备到的困难多想想办法",
+      "onboard_time": 1749521000,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309196,
       "num": 309196,
       "word": "金泰亨退伍",
@@ -2113,6 +2137,14 @@
       "onboard_time": 1749460641,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 301229,
+      "num": 301229,
+      "word": "蒋一侨光速帮侯佩岑找到工作",
+      "onboard_time": 1749517401,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 298573,
@@ -2201,14 +2233,6 @@
       "onboard_time": 1749444083,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 289878,
-      "num": 289878,
-      "word": "日本居民凌晨1点排队买米",
-      "onboard_time": 1749518361,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 289456,
@@ -2723,14 +2747,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 240092,
-      "num": 240092,
-      "word": "蒋一侨光速帮侯佩岑找到工作",
-      "onboard_time": 1749517401,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 239183,
       "num": 239183,
       "word": "HYBE大楼迎接BTS回归",
@@ -3051,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212881,
+      "num": 472587,
+      "word": "福建南安发生疑似燃气爆燃致2死5伤",
+      "onboard_time": 1749519680,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 212479,
       "num": 424406,
       "word": "宋佳宁泽涛合照",
@@ -3289,14 +3313,6 @@
       "onboard_time": 1749399200,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201175,
-      "num": 201175,
-      "word": "山东历史",
-      "onboard_time": 1749520820,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 200315,
@@ -3915,14 +3931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179674,
-      "num": 472587,
-      "word": "福建南安发生疑似燃气爆燃致2死5伤",
-      "onboard_time": 1749519680,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 178847,
       "num": 178847,
       "word": "林芊妤官宣怀二胎",
@@ -4137,6 +4145,14 @@
       "onboard_time": 1749364281,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171085,
+      "num": 171085,
+      "word": "汪苏泷首部演唱会设定集",
+      "onboard_time": 1749522080,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 170759,
@@ -4649,6 +4665,14 @@
       "onboard_time": 1749301583,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160752,
+      "num": 160752,
+      "word": "韩民众感叹泡面加蛋太奢侈",
+      "onboard_time": 1749522020,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 160424,
@@ -5755,6 +5779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132277,
+      "num": 283729,
+      "word": "郭晶晶不止步的人生态度",
+      "onboard_time": 1749521000,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132262,
       "num": 144549,
       "word": "王楚钦林孝埈潘展乐原声祝福",
@@ -6211,6 +6243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118234,
+      "num": 118234,
+      "word": "魏大勋新综开头就这么刺激",
+      "onboard_time": 1749521780,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116981,
       "num": 210885,
       "word": "樊振东王楚钦孙颖莎全红婵高考祝福",
@@ -6281,6 +6321,14 @@
       "onboard_time": 1749428301,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115891,
+      "num": 115891,
+      "word": "终于知道Labubu长得像谁了",
+      "onboard_time": 1749522020,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 115871,
@@ -6537,6 +6585,14 @@
       "onboard_time": 1749349701,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103651,
+      "num": 103651,
+      "word": "严浩翔给链子 南宫问雅摸头",
+      "onboard_time": 1749514521,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 102121,
@@ -6819,6 +6875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84545,
+      "num": 542921,
+      "word": "原来榫卯也能当游戏通关密语",
+      "onboard_time": 1749521541,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83986,
       "num": 83986,
       "word": "在寺院当了二十天的义工",
@@ -6969,6 +7033,14 @@
       "onboard_time": 1749484521,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76330,
+      "num": 331635,
+      "word": "约700名士兵将部署至洛杉矶地区",
+      "onboard_time": 1749521180,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76199,
@@ -7321,6 +7393,14 @@
       "onboard_time": 1749467000,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 58017,
+      "num": 550341,
+      "word": "中美经贸磋商机制首次会议将继续进行",
+      "onboard_time": 1749521000,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57542,
@@ -7732,7 +7812,7 @@
     },
     {
       "raw_hot": 40433,
-      "num": 671838,
+      "num": 853194,
       "word": "文明上网我们共同约定",
       "onboard_time": 1749519441,
       "rank": 2,
@@ -8155,6 +8235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 28450,
+      "num": 118132,
+      "word": "樊振东说斗志为自己赢得空间",
+      "onboard_time": 1749522379,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28449,
       "num": 153823,
       "word": "智利游客遭纽约警察逮捕",
@@ -8217,6 +8305,14 @@
       "onboard_time": 1749471081,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24701,
+      "num": 115931,
+      "word": "意大利2比0摩尔多瓦",
+      "onboard_time": 1749520222,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 24661,
