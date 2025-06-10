@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749548582918,
+  "endTime": 1749551333498,
   "band_list": [
     {
       "raw_hot": 2810225,
@@ -57,6 +57,14 @@
       "onboard_time": 1749533841,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1256479,
+      "num": 1256479,
+      "word": "唐嫣方曾回应迟到一个月未进组",
+      "onboard_time": 1749549142,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1121291,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 922974,
-      "num": 280217,
+      "num": 280224,
       "word": "上海月薪27000一天的花销",
       "onboard_time": 1749545362,
       "rank": 42,
@@ -339,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 481676,
+      "num": 272256,
+      "word": "全红婵推荐了单依纯李白",
+      "onboard_time": 1749550160,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 478977,
       "num": 478977,
       "word": "男子打车面试被女司机送进湖里",
@@ -395,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456673,
+      "num": 456673,
+      "word": "王安宇请立刻离开广东",
+      "onboard_time": 1749546383,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441053,
       "num": 441053,
       "word": "95后女子为求死砍死邻居已被执行死刑",
@@ -408,6 +432,14 @@
       "word": "易烊千玺被湖南高考家长安排得明明白白",
       "onboard_time": 1749484161,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407687,
+      "num": 407687,
+      "word": "杀妻灭子案当事人服刑完毕仍是被告",
+      "onboard_time": 1749547822,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -425,6 +457,14 @@
       "onboard_time": 1749522020,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 386282,
+      "num": 386282,
+      "word": "只有减肥的人才知道她有多真诚",
+      "onboard_time": 1749545421,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 378173,
@@ -545,14 +585,6 @@
       "onboard_time": 1749536539,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312219,
-      "num": 279195,
-      "word": "只有减肥的人才知道她有多真诚",
-      "onboard_time": 1749545421,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 311728,
@@ -731,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237012,
+      "num": 237012,
+      "word": "中国双航母首次同时现身太平洋",
+      "onboard_time": 1749548241,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 235800,
       "num": 413853,
       "word": "杨紫2025微博瞩目影人",
@@ -785,6 +825,14 @@
       "onboard_time": 1749528443,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 222819,
+      "num": 266943,
+      "word": "男子毒杀年幼子女后自杀未遂被刑拘",
+      "onboard_time": 1749546562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220404,
@@ -867,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207770,
+      "num": 207770,
+      "word": "空调开一天要多少电钱",
+      "onboard_time": 1749550281,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206595,
       "num": 206595,
       "word": "为什么恋爱谈久了很难结婚",
@@ -889,14 +945,6 @@
       "onboard_time": 1749526041,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 203953,
-      "num": 203953,
-      "word": "王安宇请立刻离开广东",
-      "onboard_time": 1749546383,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 202827,
@@ -1027,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190116,
+      "num": 170083,
+      "word": "王楚钦vs全开源",
+      "onboard_time": 1749551241,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189935,
       "num": 189935,
       "word": "高考生物",
@@ -1041,6 +1097,14 @@
       "onboard_time": 1749547101,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188181,
+      "num": 188181,
+      "word": "泡泡玛特",
+      "onboard_time": 1749544640,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 188070,
@@ -1155,14 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180071,
-      "num": 180071,
-      "word": "泡泡玛特",
-      "onboard_time": 1749544640,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 179790,
       "num": 179790,
       "word": "光与夜之恋",
@@ -1177,14 +1233,6 @@
       "onboard_time": 1749537319,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176294,
-      "num": 266943,
-      "word": "男子毒杀年幼子女后自杀未遂被刑拘",
-      "onboard_time": 1749546562,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173983,
@@ -1299,6 +1347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 165607,
+      "num": 165607,
+      "word": "台独分子被曝把台独当成一门生意",
+      "onboard_time": 1749549921,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 165232,
       "num": 165232,
       "word": "字母哥力挺詹姆斯",
@@ -1369,6 +1425,14 @@
       "onboard_time": 1749517281,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160367,
+      "num": 160367,
+      "word": "央音保安22岁考上南艺",
+      "onboard_time": 1749551241,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160320,
@@ -1467,14 +1531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156998,
-      "num": 156998,
-      "word": "中国双航母首次同时现身太平洋",
-      "onboard_time": 1749548241,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 156143,
       "num": 457744,
       "word": "铁路施工填垃圾致鱼塘10万斤鱼死亡",
@@ -1489,6 +1545,14 @@
       "onboard_time": 1749547582,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155304,
+      "num": 155304,
+      "word": "因为工作太认真被改名了",
+      "onboard_time": 1749549800,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 154597,
@@ -1537,6 +1601,14 @@
       "onboard_time": 1749543562,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149320,
+      "num": 149320,
+      "word": "国足vs巴林首发",
+      "onboard_time": 1749550580,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 146810,
@@ -1779,6 +1851,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130699,
+      "num": 228859,
+      "word": "香飘飘八年陈奶茶还能喝吗",
+      "onboard_time": 1749549261,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 130190,
+      "num": 186618,
+      "word": "朱丹选人被连续拒绝急眼了",
+      "onboard_time": 1749548841,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129096,
       "num": 129096,
       "word": "范丞丞害怕玩梗玩不过沈腾",
@@ -1859,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121332,
+      "num": 121332,
+      "word": "朱志鑫披荆斩棘5上班",
+      "onboard_time": 1749550340,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120099,
       "num": 120099,
       "word": "特朗普称不想发生内战",
@@ -1937,6 +2033,14 @@
       "onboard_time": 1749537980,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117382,
+      "num": 117382,
+      "word": "洛杉矶纽约之后得州也乱了",
+      "onboard_time": 1749549081,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117210,
@@ -2059,6 +2163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 104321,
+      "num": 146279,
+      "word": "洛杉矶当地华人",
+      "onboard_time": 1749545841,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104296,
       "num": 151208,
       "word": "台湾网红馆长陈之汉将到上海",
@@ -2083,14 +2195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102686,
-      "num": 146279,
-      "word": "洛杉矶当地华人",
-      "onboard_time": 1749545841,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 102435,
       "num": 121195,
       "word": "唐汉霄 揭榜",
@@ -2099,19 +2203,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102304,
+      "num": 179508,
+      "word": "儿子带已故妈妈照片一起参加高考",
+      "onboard_time": 1749550281,
+      "rank": 28,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 100059,
       "num": 335814,
       "word": "神农架20个野人招聘群满员了",
       "onboard_time": 1749533181,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99486,
-      "num": 237535,
-      "word": "杀妻灭子案当事人服刑完毕仍是被告",
-      "onboard_time": 1749547822,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2233,6 +2337,14 @@
       "onboard_time": 1749539482,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83302,
+      "num": 168354,
+      "word": "号称堂食餐厅门店却一张餐桌都没有",
+      "onboard_time": 1749549381,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 83263,
@@ -2475,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63297,
+      "num": 233154,
+      "word": "景区回应女孩遭男子水枪攻击致失明",
+      "onboard_time": 1749546562,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62401,
       "num": 151210,
       "word": "牛冠凯独得两分",
@@ -2627,12 +2747,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51035,
+      "num": 227113,
+      "word": "长期持有银行股分红是否比存款更划算",
+      "onboard_time": 1749549081,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 49902,
       "num": 134502,
       "word": "胡锡进称特朗普打响最狠战争",
       "onboard_time": 1749537319,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 49824,
+      "num": 189201,
+      "word": "为什么推荐报考汕头大学",
+      "onboard_time": 1749550221,
+      "rank": 24,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 48593,
@@ -2664,6 +2800,14 @@
       "word": "曲沃县一货车发生交通事故致3死6伤",
       "onboard_time": 1749489077,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44081,
+      "num": 121869,
+      "word": "山姆客服称坚果有蠕虫不是个例",
+      "onboard_time": 1749551301,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -2777,6 +2921,14 @@
       "onboard_time": 1749533360,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31982,
+      "num": 122879,
+      "word": "祛湿不伤身小方法",
+      "onboard_time": 1749551301,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 31212,
@@ -3001,6 +3153,14 @@
       "onboard_time": 1749497594,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 14413,
+      "num": 173297,
+      "word": "抗议者在洛杉矶市政厅外设路障",
+      "onboard_time": 1749550221,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13503,
