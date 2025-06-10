@@ -1,0 +1,410 @@
+{
+  "runTime": 1749554571720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 800400,
+        "num": 1128064,
+        "word": "鹿晗抢票",
+        "onboard_time": 1749553820,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 536885,
+        "num": 536885,
+        "word": "女孩漂流遭男子高压水枪攻击致失明",
+        "onboard_time": 1749540380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64505,
+        "num": 449166,
+        "word": "走好网上群众路线百个成绩突出账号",
+        "onboard_time": 1749546920,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 792999,
+        "num": 448650,
+        "word": "唐嫣方曾回应迟到一个月未进组",
+        "onboard_time": 1749549142,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439103,
+        "num": 439103,
+        "word": "山姆客服称坚果有蠕虫不是个例",
+        "onboard_time": 1749551301,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413925,
+        "num": 413925,
+        "word": "陈梦回应400亿传闻",
+        "onboard_time": 1749546741,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392123,
+        "num": 392123,
+        "word": "全红婵推荐了单依纯李白",
+        "onboard_time": 1749550160,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352545,
+        "num": 352545,
+        "word": "台独分子被曝把台独当成一门生意",
+        "onboard_time": 1749549921,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331464,
+        "num": 331464,
+        "word": "杀妻灭子案当事人服刑完毕仍是被告",
+        "onboard_time": 1749547822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278754,
+        "num": 278754,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1749540922,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765717,
+        "num": 265184,
+        "word": "王安宇请立刻离开广东",
+        "onboard_time": 1749546383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453418,
+        "num": 260115,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1749545362,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293505,
+        "num": 259661,
+        "word": "洛杉矶市中心彻底疯了",
+        "onboard_time": 1749541761,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 251160,
+        "num": 251160,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236405,
+        "num": 236405,
+        "word": "只有减肥的人才知道她有多真诚",
+        "onboard_time": 1749545421,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233993,
+        "num": 233993,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188884,
+        "num": 188884,
+        "word": "汪藏海人设天花板再进化",
+        "onboard_time": 1749552082,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112135,
+        "num": 188652,
+        "word": "郭晶晶说最好就是做好当下",
+        "onboard_time": 1749553760,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57111,
+        "num": 186663,
+        "word": "老爸用易拉罐为女儿再造故宫凤冠",
+        "onboard_time": 1749553641,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 62180,
+        "num": 184933,
+        "word": "为什么存款越多却越不舍得花钱",
+        "onboard_time": 1749546261,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42815,
+        "num": 182953,
+        "word": "袁记云饺门店回应肉馅有小虫爬",
+        "onboard_time": 1749554301,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 578332,
+        "num": 182092,
+        "word": "原来排卵期一直都在被误解",
+        "onboard_time": 1749541822,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212966,
+        "num": 179974,
+        "word": "桐心薇泯",
+        "onboard_time": 1749552321,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178834,
+        "num": 178834,
+        "word": "空调开一天要多少电钱",
+        "onboard_time": 1749550281,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175978,
+        "num": 175978,
+        "word": "央音保安22岁考上南艺",
+        "onboard_time": 1749551241,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171362,
+        "num": 171362,
+        "word": "连救5人小伙说以为再也没法尽孝了",
+        "onboard_time": 1749552200,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169795,
+        "num": 169795,
+        "word": "彭锦煜吐槽过田柾国",
+        "onboard_time": 1749554061,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131285,
+        "num": 168972,
+        "word": "王一博蓝色毛衣造型",
+        "onboard_time": 1749551600,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129710,
+        "num": 168861,
+        "word": "临江仙",
+        "onboard_time": 1749551839,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120083,
+        "num": 167294,
+        "word": "美国已经进入体制死胡同",
+        "onboard_time": 1749552082,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72359,
+        "num": 166385,
+        "word": "周奇再见藏海开心比恨长久",
+        "onboard_time": 1749553162,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170262,
+        "num": 165620,
+        "word": "因为工作太认真被改名了",
+        "onboard_time": 1749549800,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165449,
+        "num": 165449,
+        "word": "王楚钦连跳了4个wave",
+        "onboard_time": 1749553820,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160643,
+        "num": 160643,
+        "word": "Labubu 张飞",
+        "onboard_time": 1749538582,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154365,
+        "num": 154365,
+        "word": "高考前一天艺考生被撞病危家属发声",
+        "onboard_time": 1749552860,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105792,
+        "num": 153355,
+        "word": "THEBOYZ抽烟",
+        "onboard_time": 1749547582,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152992,
+        "num": 152992,
+        "word": "王楚钦vs全开源",
+        "onboard_time": 1749551241,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146572,
+        "num": 146572,
+        "word": "iOS26 丑",
+        "onboard_time": 1749526461,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145670,
+        "num": 145670,
+        "word": "罗意威2025早秋系列",
+        "onboard_time": 1749553101,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 128591,
+        "num": 128591,
+        "word": "中国双航母首次同时现身太平洋",
+        "onboard_time": 1749548241,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128556,
+        "num": 128556,
+        "word": "李昀锐方告黑声明",
+        "onboard_time": 1749554061,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127221,
+        "num": 127221,
+        "word": "刘亦菲陈晓 咸雪",
+        "onboard_time": 1749534201,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124808,
+        "num": 124808,
+        "word": "爸爸的朋友不知道他去世提排骨找他",
+        "onboard_time": 1749554421,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104815,
+        "num": 123478,
+        "word": "山东魏桥2比0江苏中超电缆",
+        "onboard_time": 1749554480,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123102,
+        "num": 123102,
+        "word": "男子毒杀年幼子女后自杀未遂被刑拘",
+        "onboard_time": 1749546562,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118422,
+        "num": 118422,
+        "word": "重庆一男子小区内尾随女童进电梯",
+        "onboard_time": 1749545542,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115275,
+        "num": 115275,
+        "word": "克拉恋人",
+        "onboard_time": 1749539302,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109339,
+        "num": 109339,
+        "word": "苹果 卓里卓气",
+        "onboard_time": 1749535159,
+        "rank": 47,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 47072,
+        "num": 106459,
+        "word": "山东魏桥1比0江苏中超电缆",
+        "onboard_time": 1749554061,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105939,
+        "num": 105939,
+        "word": "母亲含泪回应儿子连救5人后昏迷",
+        "onboard_time": 1749547641,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建更加普惠繁荣的网络空间#"
+    }
+  }
+}
