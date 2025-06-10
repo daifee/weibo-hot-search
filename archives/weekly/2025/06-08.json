@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749563455567,
+  "endTime": 1749565612944,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1082579,
+      "num": 1173212,
+      "word": "孟子义李昀锐 二搭",
+      "onboard_time": 1749561862,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1065163,
       "num": 1160659,
       "word": "洛杉矶警方承认局面已失控",
@@ -579,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 937488,
+      "num": 937488,
+      "word": "专家称韦东奕研究员应不是正高职称",
+      "onboard_time": 1749560962,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 930311,
       "num": 930311,
       "word": "labubu",
@@ -657,6 +673,14 @@
       "onboard_time": 1749352040,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 869701,
+      "num": 494889,
+      "word": "宋江谁允许你变成这样了",
+      "onboard_time": 1749562162,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 859667,
@@ -785,14 +809,6 @@
       "onboard_time": 1749344600,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 776566,
-      "num": 776566,
-      "word": "孟子义李昀锐 二搭",
-      "onboard_time": 1749561862,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 774509,
@@ -1515,22 +1531,6 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 494889,
-      "num": 494889,
-      "word": "宋江谁允许你变成这样了",
-      "onboard_time": 1749562162,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 492667,
-      "num": 492667,
-      "word": "专家称韦东奕研究员应不是正高职称",
-      "onboard_time": 1749560962,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 489576,
       "num": 489576,
       "word": "陈都灵 不让女孩子的手落空",
@@ -1960,6 +1960,14 @@
       "word": "肖战说爸妈生的好",
       "onboard_time": 1749443843,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 398905,
+      "num": 398905,
+      "word": "章若楠 虎扑扫楼",
+      "onboard_time": 1749563062,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -3371,6 +3379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 249333,
+      "num": 249333,
+      "word": "Labubu全球爆火一娃难求",
+      "onboard_time": 1749562822,
+      "rank": 16,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 249331,
       "num": 249331,
       "word": "筷子兄弟变筷子父子",
@@ -3409,6 +3425,14 @@
       "onboard_time": 1749313702,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247393,
+      "num": 247393,
+      "word": "上过班的人才懂的精神状态",
+      "onboard_time": 1749565403,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 246779,
@@ -3465,6 +3489,14 @@
       "onboard_time": 1749469880,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 240776,
+      "num": 240776,
+      "word": "男童蘑菇中毒去世前说爸爸别担心我",
+      "onboard_time": 1749564803,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239183,
@@ -4107,6 +4139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 204079,
+      "num": 204079,
+      "word": "国足不是最后一名",
+      "onboard_time": 1749565043,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203728,
       "num": 203728,
       "word": "5种亲密关系是慢性消耗",
@@ -4385,6 +4425,14 @@
       "onboard_time": 1749543261,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197416,
+      "num": 197416,
+      "word": "月亮",
+      "onboard_time": 1749565462,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197007,
@@ -4769,14 +4817,6 @@
       "onboard_time": 1749427881,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187423,
-      "num": 187423,
-      "word": "章若楠 虎扑扫楼",
-      "onboard_time": 1749563062,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 187352,
@@ -5321,6 +5361,14 @@
       "onboard_time": 1749354082,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172631,
+      "num": 255343,
+      "word": "1岁女童误服蚊香液奶奶倒立催吐",
+      "onboard_time": 1749561982,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172618,
@@ -6251,6 +6299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157616,
+      "num": 157616,
+      "word": "国足一届球员将告别世界杯",
+      "onboard_time": 1749564982,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157477,
       "num": 157477,
       "word": "景甜张彬彬平番二搭",
@@ -6475,6 +6531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151623,
+      "num": 151623,
+      "word": "为救女儿生下的儿子也患罕见遗传病",
+      "onboard_time": 1749565403,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151296,
       "num": 151296,
       "word": "多地发文鼓励2.5天休假",
@@ -6489,14 +6553,6 @@
       "onboard_time": 1749375082,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151142,
-      "num": 255343,
-      "word": "1岁女童误服蚊香液奶奶倒立催吐",
-      "onboard_time": 1749561982,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151135,
@@ -7089,6 +7145,14 @@
       "onboard_time": 1749371360,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139762,
+      "num": 139762,
+      "word": "克拉恋人幕后争议",
+      "onboard_time": 1749563242,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 139502,
@@ -7793,6 +7857,14 @@
       "onboard_time": 1749305783,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126617,
+      "num": 152736,
+      "word": "中美经贸磋商在午餐后继续进行",
+      "onboard_time": 1749564803,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126255,
@@ -8731,6 +8803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99380,
+      "num": 145687,
+      "word": "国足赢得荣誉之战",
+      "onboard_time": 1749564563,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98971,
       "num": 135483,
       "word": "孙颖莎说乒超在家乡举办非常开心",
@@ -8817,6 +8897,14 @@
       "onboard_time": 1749314721,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95414,
+      "num": 347303,
+      "word": "专家解读韦东奕33岁任职助理教授",
+      "onboard_time": 1749564443,
+      "rank": 14,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 94732,
@@ -9051,12 +9139,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84538,
+      "num": 151953,
+      "word": "王楚钦回应体力不支",
+      "onboard_time": 1749562883,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84515,
+      "num": 224753,
+      "word": "姜大声开通微博",
+      "onboard_time": 1749564022,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84112,
+      "num": 139250,
+      "word": "国足小组倒数第二收官",
+      "onboard_time": 1749565462,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83986,
       "num": 83986,
       "word": "在寺院当了二十天的义工",
       "onboard_time": 1749424997,
       "rank": 37,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 83613,
+      "num": 248303,
+      "word": "永州一男子被错录为吸毒人员",
+      "onboard_time": 1749564502,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83302,
@@ -9140,7 +9260,7 @@
     },
     {
       "raw_hot": 81511,
-      "num": 752071,
+      "num": 948582,
       "word": "走好网上群众路线百个成绩突出账号",
       "onboard_time": 1749546920,
       "rank": 2,
@@ -9851,6 +9971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56659,
+      "num": 248985,
+      "word": "七根心简二创大赛",
+      "onboard_time": 1749565161,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56561,
       "num": 122248,
       "word": "徐奕钱天一3比2李雅可王晓彤",
@@ -10025,6 +10153,14 @@
       "onboard_time": 1749549081,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 50861,
+      "num": 224829,
+      "word": "一社区医院就医使用电梯需付费5元",
+      "onboard_time": 1749564382,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50002,
@@ -10555,6 +10691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36215,
+      "num": 139959,
+      "word": "反内耗达人大张伟",
+      "onboard_time": 1749563723,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35992,
       "num": 772023,
       "word": "万千气象看安徽",
@@ -10729,6 +10873,14 @@
       "onboard_time": 1749320536,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 32403,
+      "num": 248626,
+      "word": "配偶间对婚检结果有没有知情权",
+      "onboard_time": 1749563542,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32227,
@@ -11033,6 +11185,14 @@
       "onboard_time": 1749520222,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24677,
+      "num": 407457,
+      "word": "良法善治共筑网络精神家园",
+      "onboard_time": 1749563601,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24661,
@@ -11774,6 +11934,9 @@
     },
     {
       "word": "#构建更加普惠繁荣的网络空间#"
+    },
+    {
+      "word": "#总书记高度重视网络文明建设#"
     }
   ]
 }
