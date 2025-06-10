@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749533199508,
+  "endTime": 1749534239784,
   "band_list": [
     {
       "raw_hot": 2232988,
@@ -25,6 +25,14 @@
       "onboard_time": 1749516921,
       "rank": 0,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 1454990,
+      "num": 1454990,
+      "word": "A股跳水",
+      "onboard_time": 1749533841,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 1121291,
@@ -107,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 630019,
+      "num": 630019,
+      "word": "两夫妻各住一套房是什么体验",
+      "onboard_time": 1749526101,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 620281,
       "num": 620281,
       "word": "李昀锐工作室致粉丝的一封信",
@@ -139,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 583054,
-      "num": 583054,
-      "word": "两夫妻各住一套房是什么体验",
-      "onboard_time": 1749526101,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 582392,
       "num": 582392,
       "word": "川美爆火毕业作品祷已售出",
@@ -169,6 +177,14 @@
       "onboard_time": 1749522441,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 536760,
+      "num": 536760,
+      "word": "导演回应藏海传第二季",
+      "onboard_time": 1749532520,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 527450,
@@ -259,6 +275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 378173,
+      "num": 337562,
+      "word": "labubu芭莎盛典表演嘉宾",
+      "onboard_time": 1749531082,
+      "rank": 24,
+      "category": "时尚,动漫"
+    },
+    {
       "raw_hot": 376892,
       "num": 376892,
       "word": "高额彩礼成为影响结婚率重要因素之一",
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 362021,
-      "num": 334813,
+      "num": 340854,
       "word": "苹果系统大一统",
       "onboard_time": 1749527662,
       "rank": 35,
@@ -323,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 311728,
+      "num": 342536,
+      "word": "李木戈景甜张彬彬开机同框",
+      "onboard_time": 1749530542,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311575,
       "num": 311575,
       "word": "iOS26 安卓主题",
@@ -369,14 +401,6 @@
       "onboard_time": 1749516561,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301959,
-      "num": 301959,
-      "word": "labubu芭莎盛典表演嘉宾",
-      "onboard_time": 1749531082,
-      "rank": 24,
-      "category": "时尚,动漫"
     },
     {
       "raw_hot": 301229,
@@ -435,6 +459,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 263936,
+      "num": 263936,
+      "word": "中美经贸磋商",
+      "onboard_time": 1749534141,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 262971,
       "num": 262971,
       "word": "三款机型无缘iOS26",
@@ -451,12 +483,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 251801,
-      "num": 346701,
-      "word": "导演回应藏海传第二季",
-      "onboard_time": 1749532520,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 258000,
+      "num": 340555,
+      "word": "高考后张桂梅又一次躲到门后",
+      "onboard_time": 1749532881,
+      "rank": 16,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 252090,
+      "num": 334139,
+      "word": "披荆斩棘5首期录制",
+      "onboard_time": 1749533782,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 250385,
@@ -483,12 +523,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 244266,
-      "num": 337633,
-      "word": "李木戈景甜张彬彬开机同框",
-      "onboard_time": 1749530542,
+      "raw_hot": 242798,
+      "num": 242798,
+      "word": "中国首次试采就破纪录彩虹也来祝贺",
+      "onboard_time": 1749532701,
       "rank": 29,
-      "category": "剧集"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235800,
@@ -531,12 +571,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 224563,
+      "num": 168709,
+      "word": "iOS26 液态玻璃",
+      "onboard_time": 1749528443,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 220404,
       "num": 404093,
       "word": "檀健次微博瞩目影人",
       "onboard_time": 1749529342,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218825,
+      "num": 168689,
+      "word": "王晓彤3比0钱天一",
+      "onboard_time": 1749533841,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 213214,
@@ -561,14 +617,6 @@
       "onboard_time": 1749530122,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208650,
-      "num": 208650,
-      "word": "中国首次试采就破纪录彩虹也来祝贺",
-      "onboard_time": 1749532701,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204328,
@@ -651,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192797,
+      "num": 192797,
+      "word": "赴山海双轨书卷一梦上线通知",
+      "onboard_time": 1749533300,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189935,
       "num": 189935,
       "word": "高考生物",
@@ -689,6 +745,14 @@
       "onboard_time": 1749525560,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181667,
+      "num": 168675,
+      "word": "王楚钦3比0胜黄镇廷",
+      "onboard_time": 1749533962,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 181475,
@@ -779,6 +843,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 168721,
+      "num": 168721,
+      "word": "宋威龙这个不可以真的很可以",
+      "onboard_time": 1749533600,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167676,
       "num": 167676,
       "word": "福建南安一楼房发生爆炸",
@@ -825,14 +897,6 @@
       "onboard_time": 1749482902,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164647,
-      "num": 164647,
-      "word": "iOS26 液态玻璃",
-      "onboard_time": 1749528443,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 163779,
@@ -883,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159137,
+      "num": 159137,
+      "word": "马嘉祺自爆也有发疯时刻",
+      "onboard_time": 1749533181,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158009,
       "num": 158009,
       "word": "原来胎教是真的有用",
@@ -913,6 +985,14 @@
       "onboard_time": 1749528381,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153566,
+      "num": 153566,
+      "word": "刘亦菲陈晓 咸雪",
+      "onboard_time": 1749534201,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 152439,
@@ -977,6 +1057,22 @@
       "onboard_time": 1749515661,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143077,
+      "num": 143077,
+      "word": "KPL",
+      "onboard_time": 1749533119,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 143071,
+      "num": 143071,
+      "word": "旷野星球",
+      "onboard_time": 1749533360,
+      "rank": 45,
+      "category": "旅游,游戏"
     },
     {
       "raw_hot": 142254,
@@ -1059,14 +1155,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 124626,
-      "num": 334496,
-      "word": "高考后张桂梅又一次躲到门后",
-      "onboard_time": 1749532881,
-      "rank": 16,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 124238,
       "num": 124238,
       "word": "樊振东3比1林高远",
@@ -1099,14 +1187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120392,
-      "num": 120392,
-      "word": "马嘉祺自爆也有发疯时刻",
-      "onboard_time": 1749533181,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120099,
       "num": 120099,
       "word": "特朗普称不想发生内战",
@@ -1129,14 +1209,6 @@
       "onboard_time": 1749532042,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 119131,
-      "num": 119131,
-      "word": "KPL",
-      "onboard_time": 1749533119,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 118234,
@@ -1257,6 +1329,22 @@
       "onboard_time": 1749483082,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100059,
+      "num": 335814,
+      "word": "神农架20个野人招聘群满员了",
+      "onboard_time": 1749533181,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98727,
+      "num": 156033,
+      "word": "王楚钦这个救球太精彩了",
+      "onboard_time": 1749534081,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 98187,
@@ -1419,14 +1507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78401,
-      "num": 174380,
-      "word": "神农架20个野人招聘群满员了",
-      "onboard_time": 1749533181,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77083,
       "num": 77083,
       "word": "刘亦菲李沁中间这位女士",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1749493455,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64258,
+      "num": 333532,
+      "word": "被司机送进湖里男生已顺利面试",
+      "onboard_time": 1749532940,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61304,
@@ -1681,6 +1769,22 @@
       "onboard_time": 1749491656,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32566,
+      "num": 331291,
+      "word": "多方回应广西灵山建风电项目挖山",
+      "onboard_time": 1749533360,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28871,
+      "num": 168720,
+      "word": "有人为洛杉矶抗议者送物资",
+      "onboard_time": 1749533782,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 28594,
@@ -1889,14 +1993,6 @@
       "onboard_time": 1749501374,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9640,
-      "num": 333532,
-      "word": "被司机送进湖里男生已顺利面试",
-      "onboard_time": 1749532940,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 5524,

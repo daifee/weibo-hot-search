@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749533199508,
+  "endTime": 1749534239784,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -785,6 +785,14 @@
       "onboard_time": 1748763499,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1454990,
+      "num": 1454990,
+      "word": "A股跳水",
+      "onboard_time": 1749533841,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 1444041,
@@ -3171,6 +3179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 630019,
+      "num": 630019,
+      "word": "两夫妻各住一套房是什么体验",
+      "onboard_time": 1749526101,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 627177,
       "num": 627177,
       "word": "山东政治",
@@ -3699,14 +3715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 583054,
-      "num": 583054,
-      "word": "两夫妻各住一套房是什么体验",
-      "onboard_time": 1749526101,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 582683,
       "num": 582683,
       "word": "张小斐电影尺度",
@@ -4057,6 +4065,14 @@
       "onboard_time": 1749445164,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536760,
+      "num": 536760,
+      "word": "导演回应藏海传第二季",
+      "onboard_time": 1749532520,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 536102,
@@ -6195,6 +6211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378173,
+      "num": 337562,
+      "word": "labubu芭莎盛典表演嘉宾",
+      "onboard_time": 1749531082,
+      "rank": 24,
+      "category": "时尚,动漫"
+    },
+    {
       "raw_hot": 378147,
       "num": 414949,
       "word": "弟弟陪姐姐提新车上高速被姐姐追尾",
@@ -6508,7 +6532,7 @@
     },
     {
       "raw_hot": 362021,
-      "num": 334813,
+      "num": 340854,
       "word": "苹果系统大一统",
       "onboard_time": 1749527662,
       "rank": 35,
@@ -7651,6 +7675,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 311728,
+      "num": 342536,
+      "word": "李木戈景甜张彬彬开机同框",
+      "onboard_time": 1749530542,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311692,
       "num": 311692,
       "word": "何秋亊单日掉粉超17.5万",
@@ -7953,14 +7985,6 @@
       "onboard_time": 1749090859,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 301959,
-      "num": 301959,
-      "word": "labubu芭莎盛典表演嘉宾",
-      "onboard_time": 1749531082,
-      "rank": 24,
-      "category": "时尚,动漫"
     },
     {
       "raw_hot": 301534,
@@ -9091,6 +9115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263936,
+      "num": 263936,
+      "word": "中美经贸磋商",
+      "onboard_time": 1749534141,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 263877,
       "num": 596085,
       "word": "一家三口被害但嫌犯被鉴定精神分裂",
@@ -9329,6 +9361,14 @@
       "onboard_time": 1749435921,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258000,
+      "num": 340555,
+      "word": "高考后张桂梅又一次躲到门后",
+      "onboard_time": 1749532881,
+      "rank": 16,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 257889,
@@ -9603,20 +9643,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252090,
+      "num": 334139,
+      "word": "披荆斩棘5首期录制",
+      "onboard_time": 1749533782,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251949,
       "num": 169974,
       "word": "8旬老人砍掉小区20年香樟树",
       "onboard_time": 1748691861,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251801,
-      "num": 346701,
-      "word": "导演回应藏海传第二季",
-      "onboard_time": 1749532520,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 251713,
@@ -9891,14 +9931,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 244266,
-      "num": 337633,
-      "word": "李木戈景甜张彬彬开机同框",
-      "onboard_time": 1749530542,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 243730,
       "num": 291223,
       "word": "藏海传云合33.6%",
@@ -9937,6 +9969,14 @@
       "onboard_time": 1749282382,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 242798,
+      "num": 242798,
+      "word": "中国首次试采就破纪录彩虹也来祝贺",
+      "onboard_time": 1749532701,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242760,
@@ -10755,6 +10795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224563,
+      "num": 168709,
+      "word": "iOS26 液态玻璃",
+      "onboard_time": 1749528443,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 224473,
       "num": 224473,
       "word": "宁艺卓完全是刚上岸的美人鱼",
@@ -11128,6 +11176,14 @@
       "word": "樊振东3比0闫安",
       "onboard_time": 1749451941,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218825,
+      "num": 168689,
+      "word": "王晓彤3比0钱天一",
+      "onboard_time": 1749533841,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -11769,14 +11825,6 @@
       "onboard_time": 1749094700,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208650,
-      "num": 208650,
-      "word": "中国首次试采就破纪录彩虹也来祝贺",
-      "onboard_time": 1749532701,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208613,
@@ -13443,6 +13491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192797,
+      "num": 192797,
+      "word": "赴山海双轨书卷一梦上线通知",
+      "onboard_time": 1749533300,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192580,
       "num": 192580,
       "word": "肖战一款很新的恶童型男主",
@@ -14747,6 +14803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181667,
+      "num": 168675,
+      "word": "王楚钦3比0胜黄镇廷",
+      "onboard_time": 1749533962,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181569,
       "num": 237611,
       "word": "发条微博祝自己节日快乐",
@@ -16043,6 +16107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168721,
+      "num": 168721,
+      "word": "宋威龙这个不可以真的很可以",
+      "onboard_time": 1749533600,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168663,
       "num": 168663,
       "word": "印度的流水席",
@@ -16641,14 +16713,6 @@
       "onboard_time": 1748861420,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164647,
-      "num": 164647,
-      "word": "iOS26 液态玻璃",
-      "onboard_time": 1749528443,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 164634,
@@ -17411,6 +17475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159137,
+      "num": 159137,
+      "word": "马嘉祺自爆也有发疯时刻",
+      "onboard_time": 1749533181,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158981,
       "num": 158981,
       "word": "华晨宇是和粉丝连上蓝牙了吗",
@@ -18017,6 +18089,14 @@
       "onboard_time": 1749281420,
       "rank": 44,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 153566,
+      "num": 153566,
+      "word": "刘亦菲陈晓 咸雪",
+      "onboard_time": 1749534201,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 153539,
@@ -19419,6 +19499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143077,
+      "num": 143077,
+      "word": "KPL",
+      "onboard_time": 1749377122,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 143071,
+      "num": 143071,
+      "word": "旷野星球",
+      "onboard_time": 1749533360,
+      "rank": 45,
+      "category": "旅游,游戏"
+    },
+    {
       "raw_hot": 143068,
       "num": 147594,
       "word": "肖战为考生加油适配度好高",
@@ -19953,14 +20049,6 @@
       "onboard_time": 1749185062,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 140005,
-      "num": 140005,
-      "word": "KPL",
-      "onboard_time": 1749377122,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 140004,
@@ -22251,14 +22339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124626,
-      "num": 334496,
-      "word": "高考后张桂梅又一次躲到门后",
-      "onboard_time": 1749532881,
-      "rank": 16,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 124593,
       "num": 124593,
       "word": "教师的意义这一瞬间达到了顶峰",
@@ -22849,14 +22929,6 @@
       "onboard_time": 1749008422,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 120392,
-      "num": 120392,
-      "word": "马嘉祺自爆也有发疯时刻",
-      "onboard_time": 1749533181,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 120358,
@@ -25339,6 +25411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100059,
+      "num": 335814,
+      "word": "神农架20个野人招聘群满员了",
+      "onboard_time": 1749533181,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100009,
       "num": 423479,
       "word": "千里背母求学当事人现状",
@@ -25512,6 +25592,14 @@
       "word": "苏超的梗密得不知道先笑哪个",
       "onboard_time": 1749035360,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98727,
+      "num": 156033,
+      "word": "王楚钦这个救球太精彩了",
+      "onboard_time": 1749534081,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -27435,14 +27523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78401,
-      "num": 174380,
-      "word": "神农架20个野人招聘群满员了",
-      "onboard_time": 1749533181,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78306,
       "num": 78306,
       "word": "佟丽娅去了凤凰传奇演唱会",
@@ -28657,6 +28737,14 @@
       "onboard_time": 1749201080,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 64258,
+      "num": 333532,
+      "word": "被司机送进湖里男生已顺利面试",
+      "onboard_time": 1749532940,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64239,
@@ -32043,6 +32131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32566,
+      "num": 331291,
+      "word": "多方回应广西灵山建风电项目挖山",
+      "onboard_time": 1749533360,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32552,
       "num": 42933,
       "word": "GBLOCK联名专辑",
@@ -32537,6 +32633,14 @@
       "onboard_time": 1749034939,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 28871,
+      "num": 168720,
+      "word": "有人为洛杉矶抗议者送物资",
+      "onboard_time": 1749533782,
+      "rank": 29,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 28843,
@@ -35025,14 +35129,6 @@
       "onboard_time": 1749248056,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9640,
-      "num": 333532,
-      "word": "被司机送进湖里男生已顺利面试",
-      "onboard_time": 1749532940,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9558,
