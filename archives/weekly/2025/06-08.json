@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749538286851,
+  "endTime": 1749540344403,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -41,6 +41,14 @@
       "onboard_time": 1749434779,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2679052,
+      "num": 647283,
+      "word": "制片人曝唐嫣迟到一个月未进组",
+      "onboard_time": 1749537740,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2655355,
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1005856,
+      "num": 878426,
+      "word": "黄杨钿甜删除多条内容",
+      "onboard_time": 1749537080,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 997160,
       "num": 997160,
       "word": "李昀锐孟子义再去演一遍微微一笑很倾城",
@@ -537,14 +553,6 @@
       "onboard_time": 1749458602,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 878426,
-      "num": 878426,
-      "word": "黄杨钿甜删除多条内容",
-      "onboard_time": 1749537080,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 878015,
@@ -899,6 +907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 623797,
+      "num": 623797,
+      "word": "苹果 卓里卓气",
+      "onboard_time": 1749535159,
+      "rank": 6,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 622619,
       "num": 622619,
       "word": "小孩被天降乌龟砸死饲主判赔128万",
@@ -977,14 +993,6 @@
       "onboard_time": 1749382643,
       "rank": 4,
       "category": "动漫,财经"
-    },
-    {
-      "raw_hot": 602415,
-      "num": 602415,
-      "word": "苹果 卓里卓气",
-      "onboard_time": 1749535159,
-      "rank": 6,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 600907,
@@ -1563,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428798,
+      "num": 428798,
+      "word": "Labubu 张飞",
+      "onboard_time": 1749538582,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 424820,
       "num": 424820,
       "word": "谢娜好美",
@@ -1737,14 +1753,6 @@
       "onboard_time": 1749379282,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 394056,
-      "num": 394056,
-      "word": "制片人曝唐嫣迟到一个月未进组",
-      "onboard_time": 1749537740,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 393650,
@@ -2099,6 +2107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 340629,
+      "num": 340629,
+      "word": "李诚儒撕掉节目组规则不淘汰学员",
+      "onboard_time": 1749537261,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339505,
       "num": 339505,
       "word": "有些Labubu一出生就在罗马",
@@ -2281,6 +2297,14 @@
       "onboard_time": 1749525501,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 311529,
+      "num": 311529,
+      "word": "马頔给北京孩子争光了",
+      "onboard_time": 1749538341,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 311328,
@@ -2683,14 +2707,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 271612,
-      "num": 271612,
-      "word": "李诚儒撕掉节目组规则不淘汰学员",
-      "onboard_time": 1749537261,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270279,
       "num": 237704,
       "word": "浪姐到底谁在投票",
@@ -3060,7 +3076,7 @@
     },
     {
       "raw_hot": 242798,
-      "num": 242798,
+      "num": 268763,
       "word": "中国首次试采就破纪录彩虹也来祝贺",
       "onboard_time": 1749532701,
       "rank": 29,
@@ -3305,6 +3321,14 @@
       "onboard_time": 1749458423,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222963,
+      "num": 222963,
+      "word": "克拉恋人",
+      "onboard_time": 1749539302,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 222854,
@@ -3601,6 +3625,14 @@
       "onboard_time": 1749428842,
       "rank": 17,
       "category": "电影,民生新闻"
+    },
+    {
+      "raw_hot": 204709,
+      "num": 204709,
+      "word": "陈梦亲了黄圣依",
+      "onboard_time": 1749539060,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 204566,
@@ -4059,6 +4091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 191037,
+      "num": 191037,
+      "word": "黄景瑜想演39集半才被抓到的反派",
+      "onboard_time": 1749539841,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190834,
       "num": 190834,
       "word": "谁给陈昊宇王星越递本子就当为了我",
@@ -4312,6 +4352,14 @@
       "word": "燃气公司通报招北大毕业生当抄表工",
       "onboard_time": 1749528561,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183979,
+      "num": 424577,
+      "word": "多个商家售卖北京大学未名湖湖水",
+      "onboard_time": 1749536539,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -4665,6 +4713,14 @@
       "onboard_time": 1749354082,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172666,
+      "num": 172666,
+      "word": "陈乔恩阮经天雨中撑伞",
+      "onboard_time": 1749540081,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 172618,
@@ -6115,14 +6171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141328,
-      "num": 423174,
-      "word": "多个商家售卖北京大学未名湖湖水",
-      "onboard_time": 1749536539,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141220,
       "num": 312025,
       "word": "地铁上劝阻他人饮食被索赔3万",
@@ -6507,6 +6555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134269,
+      "num": 134269,
+      "word": "BLACKPINK香港",
+      "onboard_time": 1749539661,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133717,
       "num": 133717,
       "word": "威神V 全员加速中",
@@ -6577,6 +6633,14 @@
       "onboard_time": 1749374841,
       "rank": 42,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 131975,
+      "num": 131975,
+      "word": "iOS26 立体照片",
+      "onboard_time": 1749538100,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 131583,
@@ -6811,6 +6875,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 124812,
+      "num": 345290,
+      "word": "72岁老人家中清出近1吨废品",
+      "onboard_time": 1749537080,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124566,
       "num": 124566,
       "word": "巴黎世家烤鸭包三里屯店一周卖十多只",
@@ -7019,6 +7091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119299,
+      "num": 119299,
+      "word": "单依纯时尚芭莎演唱嘉宾",
+      "onboard_time": 1749539541,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119202,
       "num": 180517,
       "word": "樊振东林高远高质量对攻",
@@ -7139,12 +7219,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116681,
+      "num": 116681,
+      "word": "张杰用就是哪吒给高考生应援",
+      "onboard_time": 1749540262,
+      "rank": 44,
+      "category": "音乐,教育"
+    },
+    {
       "raw_hot": 116475,
       "num": 116475,
       "word": "杨幂演最狠的角色说最狠的话",
       "onboard_time": 1749373282,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116109,
+      "num": 116109,
+      "word": "时代少年团团建出发",
+      "onboard_time": 1749540262,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 115983,
@@ -7243,20 +7339,20 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 113827,
-      "num": 345290,
-      "word": "72岁老人家中清出近1吨废品",
-      "onboard_time": 1749537080,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113613,
       "num": 113613,
       "word": "50岁高能量女生凌晨5点出门搞运动",
       "onboard_time": 1749519921,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113319,
+      "num": 135519,
+      "word": "推动中美经贸关系稳定健康发展",
+      "onboard_time": 1749538880,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113271,
@@ -7289,6 +7385,14 @@
       "onboard_time": 1749299302,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112499,
+      "num": 112499,
+      "word": "章若楠芭莎之夜官宣",
+      "onboard_time": 1749539901,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 112069,
@@ -7465,14 +7569,6 @@
       "onboard_time": 1749514521,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102738,
-      "num": 102738,
-      "word": "iOS26 立体照片",
-      "onboard_time": 1749538100,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 102121,
@@ -7833,6 +7929,14 @@
       "onboard_time": 1749389363,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82341,
+      "num": 238014,
+      "word": "分房睡会影响夫妻感情吗",
+      "onboard_time": 1749539482,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 81960,
@@ -8307,6 +8411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59860,
+      "num": 134780,
+      "word": "马斯克有意修复与特朗普的关系",
+      "onboard_time": 1749538161,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59760,
       "num": 303033,
       "word": "微博电影之夜第四波阵容",
@@ -8433,6 +8545,14 @@
       "onboard_time": 1749339438,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56090,
+      "num": 120740,
+      "word": "守护甜心还是太权威了",
+      "onboard_time": 1749540140,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 55845,
@@ -8609,6 +8729,14 @@
       "onboard_time": 1749445283,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 45826,
+      "num": 263656,
+      "word": "皖美科技点亮文明新纪元",
+      "onboard_time": 1749539721,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45593,
@@ -8929,6 +9057,14 @@
       "onboard_time": 1749442282,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 37633,
+      "num": 122036,
+      "word": "洛杉矶移民称这本就是墨西哥领土",
+      "onboard_time": 1749539721,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37302,
@@ -9856,14 +9992,6 @@
       "word": "抗议者说派军队对付我们有必要吗",
       "onboard_time": 1749503054,
       "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 13194,
-      "num": 134780,
-      "word": "马斯克有意修复与特朗普的关系",
-      "onboard_time": 1749538161,
-      "rank": 36,
       "category": "国际时政"
     },
     {
