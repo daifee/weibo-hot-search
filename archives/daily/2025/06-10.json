@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749530084941,
+  "endTime": 1749530959671,
   "band_list": [
     {
       "raw_hot": 2232988,
@@ -11,8 +11,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 2086109,
-      "num": 2086109,
+      "raw_hot": 2160228,
+      "num": 2160228,
       "word": "iOS26 丑",
       "onboard_time": 1749526461,
       "rank": 44,
@@ -59,6 +59,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 844001,
+      "num": 539860,
+      "word": "林峯老婆晒满柜labubu",
+      "onboard_time": 1749528322,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 800123,
       "num": 716351,
       "word": "程潇给前任发信息被秒回",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 644084,
-      "num": 817165,
+      "num": 1173909,
       "word": "龙骨焚箱",
       "onboard_time": 1749522740,
       "rank": 4,
@@ -131,14 +139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 603592,
-      "num": 539860,
-      "word": "林峯老婆晒满柜labubu",
-      "onboard_time": 1749528322,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 582392,
       "num": 582392,
       "word": "川美爆火毕业作品祷已售出",
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 499618,
-      "num": 591035,
+      "num": 985426,
       "word": "那尔那茜初高中就读北京名校",
       "onboard_time": 1749523459,
       "rank": 16,
@@ -225,6 +225,14 @@
       "onboard_time": 1749523220,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444212,
+      "num": 444212,
+      "word": "两夫妻各住一套房是什么体验",
+      "onboard_time": 1749526101,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 441053,
@@ -291,12 +299,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 312382,
-      "num": 312382,
-      "word": "两夫妻各住一套房是什么体验",
-      "onboard_time": 1749526101,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 311575,
+      "num": 311575,
+      "word": "iOS26 安卓主题",
+      "onboard_time": 1749525501,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 309227,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272505,
+      "num": 561947,
+      "word": "游行抗议已扩散到美国多地",
+      "onboard_time": 1749529221,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 268674,
       "num": 268674,
       "word": "苹果迄今规模最大设计更新",
@@ -403,12 +419,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 247698,
-      "num": 247698,
+      "raw_hot": 252685,
+      "num": 252685,
+      "word": "苹果系统大一统",
+      "onboard_time": 1749527662,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 250385,
+      "num": 250385,
       "word": "雷军将启动法律程序",
       "onboard_time": 1749528082,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 244287,
+      "num": 244287,
+      "word": "柯南M28角色没一个废的",
+      "onboard_time": 1749529702,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 235800,
@@ -427,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229192,
-      "num": 229192,
-      "word": "iOS26 安卓主题",
-      "onboard_time": 1749525501,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 227998,
       "num": 227998,
       "word": "贺峻霖的人形立牌让女儿满眼放光",
@@ -451,12 +475,44 @@
       "category": "数码"
     },
     {
+      "raw_hot": 220404,
+      "num": 404093,
+      "word": "檀健次微博瞩目影人",
+      "onboard_time": 1749529342,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 216645,
+      "num": 216645,
+      "word": "中韩元首通电话",
+      "onboard_time": 1749530601,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 213214,
+      "num": 213214,
+      "word": "加州州长硬刚",
+      "onboard_time": 1749526762,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 212881,
       "num": 472587,
       "word": "福建南安发生疑似燃气爆燃致2死5伤",
       "onboard_time": 1749519680,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 209252,
+      "num": 209252,
+      "word": "周启豪林昀儒3比2陈俊菘严升",
+      "onboard_time": 1749530122,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 204328,
@@ -499,20 +555,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201681,
+      "num": 250427,
+      "word": "时尚芭莎阵容",
+      "onboard_time": 1749529642,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198897,
+      "num": 250401,
+      "word": "李木戈景甜张彬彬开机同框",
+      "onboard_time": 1749530542,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197725,
       "num": 197725,
       "word": "iPhone将提醒相机镜头脏了",
       "onboard_time": 1749520580,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 197395,
-      "num": 251425,
-      "word": "檀健次微博瞩目影人",
-      "onboard_time": 1749529342,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 196464,
@@ -531,28 +595,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190843,
-      "num": 190843,
-      "word": "苹果系统大一统",
-      "onboard_time": 1749527662,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 190040,
-      "num": 190040,
-      "word": "柯南M28角色没一个废的",
-      "onboard_time": 1749529702,
-      "rank": 36,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 189033,
-      "num": 189033,
-      "word": "时尚芭莎阵容",
-      "onboard_time": 1749529642,
-      "rank": 37,
-      "category": "作品衍生,时尚"
+      "raw_hot": 189935,
+      "num": 189935,
+      "word": "高考生物",
+      "onboard_time": 1749530182,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 188070,
@@ -571,19 +619,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184013,
+      "num": 382237,
+      "word": "燃气公司通报招北大毕业生当抄表工",
+      "onboard_time": 1749528561,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181668,
+      "num": 181668,
+      "word": "肖战张婧仪烟花神级镜头",
+      "onboard_time": 1749525560,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181475,
       "num": 181475,
       "word": "美媒记者在加州被警察开枪击中脑门",
       "onboard_time": 1749522801,
       "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 178140,
-      "num": 178140,
-      "word": "加州州长硬刚",
-      "onboard_time": 1749526762,
-      "rank": 46,
       "category": "国际时政"
     },
     {
@@ -593,6 +649,22 @@
       "onboard_time": 1749518241,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173036,
+      "num": 173036,
+      "word": "领衔主演杨皓宇",
+      "onboard_time": 1749530182,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172808,
+      "num": 172808,
+      "word": "黄圣依白月光的杀伤力",
+      "onboard_time": 1749527000,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 171512,
@@ -643,12 +715,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165274,
-      "num": 176702,
-      "word": "肖战张婧仪烟花神级镜头",
-      "onboard_time": 1749525560,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 165632,
+      "num": 446278,
+      "word": "京东10000件家电1元捡漏拍",
+      "onboard_time": 1749528561,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 165232,
@@ -689,6 +761,14 @@
       "onboard_time": 1749520580,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161579,
+      "num": 161579,
+      "word": "我将守着我的iOS17过一辈子",
+      "onboard_time": 1749530782,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 161096,
@@ -747,12 +827,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154127,
-      "num": 154127,
-      "word": "黄圣依白月光的杀伤力",
-      "onboard_time": 1749527000,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 154315,
+      "num": 154315,
+      "word": "原来胎教是真的有用",
+      "onboard_time": 1749530842,
+      "rank": 49,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 152439,
@@ -761,14 +841,6 @@
       "onboard_time": 1749475402,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152094,
-      "num": 382237,
-      "word": "燃气公司通报招北大毕业生当抄表工",
-      "onboard_time": 1749528561,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152018,
@@ -793,14 +865,6 @@
       "onboard_time": 1749513681,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145454,
-      "num": 446278,
-      "word": "京东10000件家电1元捡漏拍",
-      "onboard_time": 1749528561,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 144797,
@@ -915,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122864,
+      "num": 193266,
+      "word": "一老人带两个女娃去挖甘薯",
+      "onboard_time": 1749528742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122263,
       "num": 122263,
       "word": "高考考生考完可以准备微博账号了",
@@ -939,12 +1011,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 119143,
-      "num": 552271,
-      "word": "游行抗议已扩散到美国多地",
-      "onboard_time": 1749529221,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 118354,
+      "num": 535865,
+      "word": "高考生在爆燃事故中遇难是谣言",
+      "onboard_time": 1749529584,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118234,
@@ -1017,14 +1089,6 @@
       "onboard_time": 1749486739,
       "rank": 35,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 107284,
-      "num": 185736,
-      "word": "一老人带两个女娃去挖甘薯",
-      "onboard_time": 1749528742,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106664,
@@ -1267,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73197,
+      "num": 323523,
+      "word": "赵丽颖2025瞩目影人",
+      "onboard_time": 1749530482,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 72466,
       "num": 72466,
       "word": "作者回应外卖袋毕设走红",
@@ -1339,6 +1411,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 60547,
+      "num": 192506,
+      "word": "苏州自己的小苏超火药味拉满",
+      "onboard_time": 1749529881,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58017,
       "num": 550341,
       "word": "中美经贸磋商机制首次会议将继续进行",
@@ -1369,14 +1449,6 @@
       "onboard_time": 1749507374,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52423,
-      "num": 184701,
-      "word": "苏州自己的小苏超火药味拉满",
-      "onboard_time": 1749529881,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 48482,
@@ -1417,14 +1489,6 @@
       "onboard_time": 1749485480,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 42176,
-      "num": 495447,
-      "word": "高考生在爆燃事故中遇难是谣言",
-      "onboard_time": 1749529584,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40433,
@@ -1483,8 +1547,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27141,
-      "num": 937575,
+      "raw_hot": 28306,
+      "num": 1481443,
       "word": "2025中国网络文明大会来了",
       "onboard_time": 1749518781,
       "rank": 2,
@@ -1497,6 +1561,14 @@
       "onboard_time": 1749492795,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25427,
+      "num": 399478,
+      "word": "高考结束民辅警向考生比心击掌",
+      "onboard_time": 1749529823,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24701,
@@ -1587,12 +1659,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 15556,
-      "num": 249546,
-      "word": "高考结束民辅警向考生比心击掌",
-      "onboard_time": 1749529823,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 15033,
+      "num": 576408,
+      "word": "8组数据看我国外贸亮点",
+      "onboard_time": 1749530243,
+      "rank": 7,
+      "category": "正能量"
     },
     {
       "raw_hot": 14717,
@@ -1681,6 +1753,9 @@
     },
     {
       "word": "#总书记指引网络文明建设#"
+    },
+    {
+      "word": "#首个文明对话国际日#"
     }
   ]
 }
