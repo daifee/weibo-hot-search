@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749541219915,
+  "endTime": 1749544526267,
   "band_list": [
     {
       "raw_hot": 2810225,
@@ -9,6 +9,14 @@
       "onboard_time": 1749537740,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2416431,
+      "num": 244942,
+      "word": "原来排卵期一直都在被误解",
+      "onboard_time": 1749541822,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2232988,
@@ -59,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1095485,
+      "num": 1175277,
+      "word": "女孩漂流遭男子高压水枪攻击致失明",
+      "onboard_time": 1749540380,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1083717,
       "num": 1083717,
       "word": "刘亦菲陈晓 咸雪",
@@ -104,6 +120,14 @@
       "word": "林峯老婆晒满柜labubu",
       "onboard_time": 1749528322,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 804317,
+      "num": 420875,
+      "word": "三毛 赵丽颖裙子",
+      "onboard_time": 1749540922,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -291,6 +315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 475155,
+      "num": 405187,
+      "word": "克拉恋人",
+      "onboard_time": 1749539302,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471748,
       "num": 471748,
       "word": "舒淇晒labubu哭娃",
@@ -355,6 +387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 397071,
+      "num": 249918,
+      "word": "洛杉矶市中心彻底疯了",
+      "onboard_time": 1749541761,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 378173,
       "num": 337562,
       "word": "labubu芭莎盛典表演嘉宾",
@@ -371,12 +411,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 373894,
-      "num": 514722,
-      "word": "女孩漂流遭男子高压水枪攻击致失明",
-      "onboard_time": 1749540380,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 371408,
+      "num": 249842,
+      "word": "杜淳妻子晒整柜labubu",
+      "onboard_time": 1749541941,
+      "rank": 12,
+      "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 370919,
+      "num": 249348,
+      "word": "向太 你在讲屁话对不对",
+      "onboard_time": 1749542302,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 362021,
@@ -465,14 +513,6 @@
       "onboard_time": 1749536539,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323914,
-      "num": 323914,
-      "word": "克拉恋人",
-      "onboard_time": 1749539302,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 311728,
@@ -619,6 +659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 249197,
+      "num": 249197,
+      "word": "重庆一学生街头被老大爷用手铐铐住",
+      "onboard_time": 1749543022,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248142,
       "num": 248142,
       "word": "圣枪哥 打了十年第一次要去MSI了",
@@ -747,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208969,
-      "num": 208969,
-      "word": "三毛 赵丽颖裙子",
-      "onboard_time": 1749540922,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208064,
       "num": 208064,
       "word": "赴山海双轨书卷一梦上线通知",
@@ -819,6 +859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 198573,
+      "num": 198573,
+      "word": "中国夏季最凉快的城市",
+      "onboard_time": 1749541401,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198174,
       "num": 198174,
       "word": "李晟成团后芒果台首秀",
@@ -833,6 +881,14 @@
       "onboard_time": 1749520580,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 197572,
+      "num": 185075,
+      "word": "田曦薇双马尾蓬蓬裙",
+      "onboard_time": 1749543261,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 196464,
@@ -915,12 +971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185483,
+      "num": 185483,
+      "word": "王楚钦收到棒棒糖秒开心",
+      "onboard_time": 1749541761,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184013,
       "num": 382237,
       "word": "燃气公司通报招北大毕业生当抄表工",
       "onboard_time": 1749528561,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183595,
+      "num": 249281,
+      "word": "敖瑞鹏私闯周奇民宅",
+      "onboard_time": 1749541880,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 183516,
@@ -945,6 +1017,14 @@
       "onboard_time": 1749533962,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181616,
+      "num": 181616,
+      "word": "给Labubu簪花",
+      "onboard_time": 1749541282,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 181475,
@@ -1067,6 +1147,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167063,
+      "num": 167063,
+      "word": "洛杉矶中国城响起爆炸声",
+      "onboard_time": 1749541041,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 166208,
+      "num": 166208,
+      "word": "李沁羊毛卷斜扎高马尾",
+      "onboard_time": 1749543202,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165632,
       "num": 446278,
       "word": "京东10000件家电1元捡漏拍",
@@ -1171,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158933,
+      "num": 158933,
+      "word": "周杰伦厦门",
+      "onboard_time": 1749542183,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158586,
       "num": 165885,
       "word": "北大回应商家售卖未名湖湖水",
@@ -1251,6 +1355,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151337,
+      "num": 151337,
+      "word": "赵丽颖浪琴成都活动",
+      "onboard_time": 1749544223,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149616,
+      "num": 149616,
+      "word": "临江仙是白鹿今年播的最后一部剧",
+      "onboard_time": 1749543562,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146810,
       "num": 146810,
       "word": "全运会奖牌名为同心跃",
@@ -1321,6 +1441,14 @@
       "onboard_time": 1749503113,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 142079,
+      "num": 142079,
+      "word": "何老师18年后还是怕张远抢话筒",
+      "onboard_time": 1749543381,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 141531,
@@ -1475,12 +1603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129039,
+      "num": 250217,
+      "word": "跳水连救5人的英雄叫张伟",
+      "onboard_time": 1749543321,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 128990,
       "num": 128990,
       "word": "任正非说不去想困难干就完了",
       "onboard_time": 1749520101,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 125673,
+      "num": 125673,
+      "word": "上午咖啡 下午非咖",
+      "onboard_time": 1749542601,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 124812,
@@ -1537,6 +1681,14 @@
       "onboard_time": 1749485840,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 120042,
+      "num": 120042,
+      "word": "双轨要排播了",
+      "onboard_time": 1749542302,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 119862,
@@ -1601,14 +1753,6 @@
       "onboard_time": 1749540262,
       "rank": 44,
       "category": "音乐,教育"
-    },
-    {
-      "raw_hot": 116064,
-      "num": 116064,
-      "word": "洛杉矶中国城响起爆炸声",
-      "onboard_time": 1749541041,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 115891,
@@ -1737,6 +1881,14 @@
       "onboard_time": 1749533181,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98759,
+      "num": 138129,
+      "word": "周雨给王楚钦发糖",
+      "onboard_time": 1749544223,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 98187,
@@ -1875,6 +2027,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 81788,
+      "num": 187148,
+      "word": "故宫的屋顶上为什么没有杂草",
+      "onboard_time": 1749544281,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 81723,
       "num": 81723,
       "word": "WWDC25有哪些看点",
@@ -2011,6 +2171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68453,
+      "num": 249608,
+      "word": "因一则广告做跨境电商被骗走15.4万",
+      "onboard_time": 1749542842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66798,
       "num": 66798,
       "word": "高考语文40分钟前被马蜂蛰了",
@@ -2041,6 +2209,14 @@
       "onboard_time": 1749532940,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62401,
+      "num": 151210,
+      "word": "牛冠凯独得两分",
+      "onboard_time": 1749543681,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 61304,
@@ -2075,12 +2251,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59118,
+      "num": 139220,
+      "word": "矫正会导致牙齿寿命变短",
+      "onboard_time": 1749541880,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 58017,
       "num": 550341,
       "word": "中美经贸磋商机制首次会议将继续进行",
       "onboard_time": 1749521000,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57998,
+      "num": 231447,
+      "word": "马吟吟说参加乘风是有效演出",
+      "onboard_time": 1749543562,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 57775,
@@ -2139,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52691,
+      "num": 249479,
+      "word": "火锅店偷用顾客手机给同行刷差评",
+      "onboard_time": 1749544162,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49902,
       "num": 134502,
       "word": "胡锡进称特朗普打响最狠战争",
@@ -2171,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44378,
+      "num": 151208,
+      "word": "台湾网红馆长陈之汉将到上海",
+      "onboard_time": 1749543381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42783,
       "num": 50006,
       "word": "梁靖崑说优势是有王楚钦",
@@ -2185,6 +2393,14 @@
       "onboard_time": 1749464000,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42635,
+      "num": 132396,
+      "word": "周奇直播",
+      "onboard_time": 1749544401,
+      "rank": 45,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 42428,
@@ -2459,6 +2675,14 @@
       "category": "军事,教育"
     },
     {
+      "raw_hot": 12838,
+      "num": 245620,
+      "word": "对话北大保安成人高考第一人",
+      "onboard_time": 1749544162,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12684,
       "num": 15040,
       "word": "第29次高考梁实估分400至420",
@@ -2499,6 +2723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 7288,
+      "num": 151218,
+      "word": "樊振东说自己在关键球上运气好点",
+      "onboard_time": 1749544401,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5524,
       "num": 574566,
       "word": "这份文明上网攻略请收好",
@@ -2516,6 +2748,9 @@
     },
     {
       "word": "#首个文明对话国际日#"
+    },
+    {
+      "word": "#习近平同韩国总统李在明通电话#"
     }
   ]
 }

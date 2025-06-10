@@ -1,0 +1,410 @@
+{
+  "runTime": 1749544526267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1095485,
+        "num": 1175277,
+        "word": "女孩漂流遭男子高压水枪攻击致失明",
+        "onboard_time": 1749540380,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605838,
+        "num": 605838,
+        "word": "iOS26 丑",
+        "onboard_time": 1749526461,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27957,
+        "num": 426782,
+        "word": "文明上网我们共同约定",
+        "onboard_time": 1749519441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1849759,
+        "num": 421555,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804317,
+        "num": 420875,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1749540922,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416056,
+        "num": 416056,
+        "word": "Labubu 张飞",
+        "onboard_time": 1749538582,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 475155,
+        "num": 405187,
+        "word": "克拉恋人",
+        "onboard_time": 1749539302,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333399,
+        "num": 333399,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250226,
+        "num": 250226,
+        "word": "苹果 卓里卓气",
+        "onboard_time": 1749535159,
+        "rank": 8,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 129039,
+        "num": 250217,
+        "word": "跳水连救5人的英雄叫张伟",
+        "onboard_time": 1749543321,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 680003,
+        "num": 250107,
+        "word": "黄杨钿甜删除多条内容",
+        "onboard_time": 1749537080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397071,
+        "num": 249918,
+        "word": "洛杉矶市中心彻底疯了",
+        "onboard_time": 1749541761,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 371408,
+        "num": 249842,
+        "word": "杜淳妻子晒整柜labubu",
+        "onboard_time": 1749541941,
+        "rank": 12,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 230872,
+        "num": 249702,
+        "word": "导演回应藏海传第二季",
+        "onboard_time": 1749532520,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68453,
+        "num": 249608,
+        "word": "因一则广告做跨境电商被骗走15.4万",
+        "onboard_time": 1749542842,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52691,
+        "num": 249479,
+        "word": "火锅店偷用顾客手机给同行刷差评",
+        "onboard_time": 1749544162,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370919,
+        "num": 249348,
+        "word": "向太 你在讲屁话对不对",
+        "onboard_time": 1749542302,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183595,
+        "num": 249281,
+        "word": "敖瑞鹏私闯周奇民宅",
+        "onboard_time": 1749541880,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249197,
+        "num": 249197,
+        "word": "重庆一学生街头被老大爷用手铐铐住",
+        "onboard_time": 1749543022,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12838,
+        "num": 245620,
+        "word": "对话北大保安成人高考第一人",
+        "onboard_time": 1749544162,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2416431,
+        "num": 244942,
+        "word": "原来排卵期一直都在被误解",
+        "onboard_time": 1749541822,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244084,
+        "num": 244084,
+        "word": "月薪3700三年存了6万块",
+        "onboard_time": 1749537022,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57998,
+        "num": 231447,
+        "word": "马吟吟说参加乘风是有效演出",
+        "onboard_time": 1749543562,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226195,
+        "num": 226195,
+        "word": "刘亦菲陈晓 咸雪",
+        "onboard_time": 1749534201,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201696,
+        "num": 201696,
+        "word": "马頔给北京孩子争光了",
+        "onboard_time": 1749538341,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198573,
+        "num": 198573,
+        "word": "中国夏季最凉快的城市",
+        "onboard_time": 1749541401,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81788,
+        "num": 187148,
+        "word": "故宫的屋顶上为什么没有杂草",
+        "onboard_time": 1749544281,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 185483,
+        "num": 185483,
+        "word": "王楚钦收到棒棒糖秒开心",
+        "onboard_time": 1749541761,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197572,
+        "num": 185075,
+        "word": "田曦薇双马尾蓬蓬裙",
+        "onboard_time": 1749543261,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181616,
+        "num": 181616,
+        "word": "给Labubu簪花",
+        "onboard_time": 1749541282,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 167063,
+        "num": 167063,
+        "word": "洛杉矶中国城响起爆炸声",
+        "onboard_time": 1749541041,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166208,
+        "num": 166208,
+        "word": "李沁羊毛卷斜扎高马尾",
+        "onboard_time": 1749543202,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165173,
+        "num": 165173,
+        "word": "韦雪自曝经济紧张",
+        "onboard_time": 1749534980,
+        "rank": 32,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 161084,
+        "num": 161084,
+        "word": "陈乔恩阮经天雨中撑伞",
+        "onboard_time": 1749540081,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158933,
+        "num": 158933,
+        "word": "周杰伦厦门",
+        "onboard_time": 1749542183,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151337,
+        "num": 151337,
+        "word": "赵丽颖浪琴成都活动",
+        "onboard_time": 1749544223,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7288,
+        "num": 151218,
+        "word": "樊振东说自己在关键球上运气好点",
+        "onboard_time": 1749544401,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62401,
+        "num": 151210,
+        "word": "牛冠凯独得两分",
+        "onboard_time": 1749543681,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44378,
+        "num": 151208,
+        "word": "台湾网红馆长陈之汉将到上海",
+        "onboard_time": 1749543381,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151207,
+        "num": 151207,
+        "word": "多个商家售卖北京大学未名湖湖水",
+        "onboard_time": 1749536539,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149616,
+        "num": 149616,
+        "word": "临江仙是白鹿今年播的最后一部剧",
+        "onboard_time": 1749543562,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142079,
+        "num": 142079,
+        "word": "何老师18年后还是怕张远抢话筒",
+        "onboard_time": 1749543381,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59118,
+        "num": 139220,
+        "word": "矫正会导致牙齿寿命变短",
+        "onboard_time": 1749541880,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98759,
+        "num": 138129,
+        "word": "周雨给王楚钦发糖",
+        "onboard_time": 1749544223,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137104,
+        "num": 137104,
+        "word": "A股",
+        "onboard_time": 1749533841,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 42635,
+        "num": 132396,
+        "word": "周奇直播",
+        "onboard_time": 1749544401,
+        "rank": 45,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 131825,
+        "num": 131825,
+        "word": "高考后张桂梅又一次躲到门后",
+        "onboard_time": 1749532881,
+        "rank": 46,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 127776,
+        "num": 127776,
+        "word": "披荆斩棘5首期录制",
+        "onboard_time": 1749533782,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125673,
+        "num": 125673,
+        "word": "上午咖啡 下午非咖",
+        "onboard_time": 1749542601,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120042,
+        "num": 120042,
+        "word": "双轨要排播了",
+        "onboard_time": 1749542302,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同韩国总统李在明通电话#"
+    }
+  }
+}
