@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749544526267,
+  "endTime": 1749545380291,
   "band_list": [
     {
       "raw_hot": 2810225,
@@ -67,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1095485,
-      "num": 1175277,
+      "raw_hot": 1117438,
+      "num": 1178790,
       "word": "女孩漂流遭男子高压水枪攻击致失明",
       "onboard_time": 1749540380,
       "rank": 5,
@@ -115,19 +115,19 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 847671,
+      "num": 420875,
+      "word": "三毛 赵丽颖裙子",
+      "onboard_time": 1749540922,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 844001,
       "num": 539860,
       "word": "林峯老婆晒满柜labubu",
       "onboard_time": 1749528322,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 804317,
-      "num": 420875,
-      "word": "三毛 赵丽颖裙子",
-      "onboard_time": 1749540922,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 536511,
+      "num": 345613,
+      "word": "洛杉矶市中心彻底疯了",
+      "onboard_time": 1749541761,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 527450,
       "num": 527450,
       "word": "56岁男子停车失误致1死2伤",
@@ -289,6 +297,14 @@
       "onboard_time": 1749523459,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494991,
+      "num": 353258,
+      "word": "杜淳妻子晒整柜labubu",
+      "onboard_time": 1749541941,
+      "rank": 12,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 486490,
@@ -387,14 +403,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 397071,
-      "num": 249918,
-      "word": "洛杉矶市中心彻底疯了",
-      "onboard_time": 1749541761,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 378173,
       "num": 337562,
       "word": "labubu芭莎盛典表演嘉宾",
@@ -411,16 +419,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 371408,
-      "num": 249842,
-      "word": "杜淳妻子晒整柜labubu",
-      "onboard_time": 1749541941,
-      "rank": 12,
-      "category": "艺人,动漫"
-    },
-    {
       "raw_hot": 370919,
-      "num": 249348,
+      "num": 302687,
       "word": "向太 你在讲屁话对不对",
       "onboard_time": 1749542302,
       "rank": 16,
@@ -497,6 +497,14 @@
       "onboard_time": 1749531141,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333378,
+      "num": 333378,
+      "word": "重庆一学生街头被老大爷用手铐铐住",
+      "onboard_time": 1749543022,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330944,
@@ -659,14 +667,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 249197,
-      "num": 249197,
-      "word": "重庆一学生街头被老大爷用手铐铐住",
-      "onboard_time": 1749543022,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248142,
       "num": 248142,
       "word": "圣枪哥 打了十年第一次要去MSI了",
@@ -731,6 +731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 225675,
+      "num": 249281,
+      "word": "敖瑞鹏私闯周奇民宅",
+      "onboard_time": 1749541880,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224563,
       "num": 168709,
       "word": "iOS26 液态玻璃",
@@ -753,6 +761,14 @@
       "onboard_time": 1749533841,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217456,
+      "num": 217456,
+      "word": "中国夏季最凉快的城市",
+      "onboard_time": 1749541401,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214070,
@@ -787,6 +803,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 211467,
+      "num": 211467,
+      "word": "给Labubu簪花",
+      "onboard_time": 1749541282,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 209252,
       "num": 209252,
       "word": "周启豪林昀儒3比2陈俊菘严升",
@@ -809,6 +833,14 @@
       "onboard_time": 1749534679,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206411,
+      "num": 206411,
+      "word": "洛杉矶中国城响起爆炸声",
+      "onboard_time": 1749541041,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 204328,
@@ -859,14 +891,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 198573,
-      "num": 198573,
-      "word": "中国夏季最凉快的城市",
-      "onboard_time": 1749541401,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198174,
       "num": 198174,
       "word": "李晟成团后芒果台首秀",
@@ -905,6 +929,14 @@
       "onboard_time": 1749532400,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193471,
+      "num": 221430,
+      "word": "筷子兄弟变筷子父子",
+      "onboard_time": 1749544940,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 192861,
@@ -979,20 +1011,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184216,
+      "num": 184216,
+      "word": "赵丽颖浪琴成都活动",
+      "onboard_time": 1749544223,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184013,
       "num": 382237,
       "word": "燃气公司通报招北大毕业生当抄表工",
       "onboard_time": 1749528561,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183595,
-      "num": 249281,
-      "word": "敖瑞鹏私闯周奇民宅",
-      "onboard_time": 1749541880,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 183516,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1749533962,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181616,
-      "num": 181616,
-      "word": "给Labubu簪花",
-      "onboard_time": 1749541282,
-      "rank": 29,
-      "category": "动漫"
     },
     {
       "raw_hot": 181475,
@@ -1145,14 +1169,6 @@
       "onboard_time": 1749504914,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167063,
-      "num": 167063,
-      "word": "洛杉矶中国城响起爆炸声",
-      "onboard_time": 1749541041,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 166208,
@@ -1347,20 +1363,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152069,
+      "num": 152069,
+      "word": "何老师18年后还是怕张远抢话筒",
+      "onboard_time": 1749543381,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152018,
       "num": 152018,
       "word": "乌无人机袭击俄军用机场和导弹工厂",
       "onboard_time": 1749486379,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 151337,
-      "num": 151337,
-      "word": "赵丽颖浪琴成都活动",
-      "onboard_time": 1749544223,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 149616,
@@ -1443,14 +1459,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 142079,
-      "num": 142079,
-      "word": "何老师18年后还是怕张远抢话筒",
-      "onboard_time": 1749543381,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141531,
       "num": 323523,
       "word": "赵丽颖2025瞩目影人",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1749536000,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135917,
+      "num": 250217,
+      "word": "跳水连救5人的英雄叫张伟",
+      "onboard_time": 1749543321,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 135670,
@@ -1571,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132173,
+      "num": 132173,
+      "word": "上海月薪27000一天的花销",
+      "onboard_time": 1749545362,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131975,
       "num": 131975,
       "word": "iOS26 立体照片",
@@ -1595,20 +1619,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131021,
+      "num": 131021,
+      "word": "泡泡玛特",
+      "onboard_time": 1749544640,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 129096,
       "num": 129096,
       "word": "范丞丞害怕玩梗玩不过沈腾",
       "onboard_time": 1749534860,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129039,
-      "num": 250217,
-      "word": "跳水连救5人的英雄叫张伟",
-      "onboard_time": 1749543321,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 128990,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1749527481,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121867,
+      "num": 121867,
+      "word": "军书十二卷 卷卷有泽名",
+      "onboard_time": 1749545061,
+      "rank": 46,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 121445,
@@ -1732,7 +1764,7 @@
     },
     {
       "raw_hot": 117989,
-      "num": 117989,
+      "num": 131037,
       "word": "金泰亨直播状态",
       "onboard_time": 1749537980,
       "rank": 44,
@@ -1851,6 +1883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 104296,
+      "num": 151208,
+      "word": "台湾网红馆长陈之汉将到上海",
+      "onboard_time": 1749543381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103651,
       "num": 103651,
       "word": "严浩翔给链子 南宫问雅摸头",
@@ -1955,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90020,
+      "num": 304745,
+      "word": "火锅店偷用顾客手机给同行刷差评",
+      "onboard_time": 1749544162,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89903,
       "num": 89903,
       "word": "Shanks成角了",
@@ -2028,7 +2076,7 @@
     },
     {
       "raw_hot": 81788,
-      "num": 187148,
+      "num": 225067,
       "word": "故宫的屋顶上为什么没有杂草",
       "onboard_time": 1749544281,
       "rank": 26,
@@ -2331,19 +2379,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52691,
-      "num": 249479,
-      "word": "火锅店偷用顾客手机给同行刷差评",
-      "onboard_time": 1749544162,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49902,
       "num": 134502,
       "word": "胡锡进称特朗普打响最狠战争",
       "onboard_time": 1749537319,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48593,
+      "num": 143044,
+      "word": "加州公民选的民主党站了外国人",
+      "onboard_time": 1749544582,
+      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -2368,14 +2416,6 @@
       "word": "曲沃县一货车发生交通事故致3死6伤",
       "onboard_time": 1749489077,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44378,
-      "num": 151208,
-      "word": "台湾网红馆长陈之汉将到上海",
-      "onboard_time": 1749543381,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2417,6 +2457,14 @@
       "onboard_time": 1749519441,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38610,
+      "num": 336501,
+      "word": "白雪公主好气色的秘密",
+      "onboard_time": 1749544523,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 38592,
@@ -2489,6 +2537,14 @@
       "onboard_time": 1749522379,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28308,
+      "num": 245620,
+      "word": "对话北大保安成人高考第一人",
+      "onboard_time": 1749544162,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28306,
@@ -2651,6 +2707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 13503,
+      "num": 151218,
+      "word": "樊振东说自己在关键球上运气好点",
+      "onboard_time": 1749544401,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13434,
       "num": 384333,
       "word": "感到无聊对心理健康是否是件好事",
@@ -2675,12 +2739,12 @@
       "category": "军事,教育"
     },
     {
-      "raw_hot": 12838,
-      "num": 245620,
-      "word": "对话北大保安成人高考第一人",
-      "onboard_time": 1749544162,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 12845,
+      "num": 328846,
+      "word": "全国花式消暑大赏",
+      "onboard_time": 1749545061,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12684,
@@ -2723,14 +2787,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7288,
-      "num": 151218,
-      "word": "樊振东说自己在关键球上运气好点",
-      "onboard_time": 1749544401,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 5524,
       "num": 574566,
       "word": "这份文明上网攻略请收好",
@@ -2751,6 +2807,9 @@
     },
     {
       "word": "#习近平同韩国总统李在明通电话#"
+    },
+    {
+      "word": "#构建更加普惠繁荣的网络空间#"
     }
   ]
 }

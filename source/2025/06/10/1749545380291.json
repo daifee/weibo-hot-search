@@ -1,0 +1,410 @@
+{
+  "runTime": 1749545380291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1117438,
+        "num": 1178790,
+        "word": "女孩漂流遭男子高压水枪攻击致失明",
+        "onboard_time": 1749540380,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580457,
+        "num": 580457,
+        "word": "iOS26 丑",
+        "onboard_time": 1749526461,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28031,
+        "num": 461056,
+        "word": "文明上网我们共同约定",
+        "onboard_time": 1749519441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1516807,
+        "num": 429559,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 847671,
+        "num": 398640,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1749540922,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356729,
+        "num": 356729,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 494991,
+        "num": 353258,
+        "word": "杜淳妻子晒整柜labubu",
+        "onboard_time": 1749541941,
+        "rank": 6,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 469627,
+        "num": 351799,
+        "word": "克拉恋人",
+        "onboard_time": 1749539302,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536511,
+        "num": 345613,
+        "word": "洛杉矶市中心彻底疯了",
+        "onboard_time": 1749541761,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 4541,
+        "num": 338654,
+        "word": "这份文明上网攻略请收好",
+        "onboard_time": 1749460581,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38610,
+        "num": 336501,
+        "word": "白雪公主好气色的秘密",
+        "onboard_time": 1749544523,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 333378,
+        "num": 333378,
+        "word": "重庆一学生街头被老大爷用手铐铐住",
+        "onboard_time": 1749543022,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12845,
+        "num": 328846,
+        "word": "全国花式消暑大赏",
+        "onboard_time": 1749545061,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328774,
+        "num": 328774,
+        "word": "Labubu 张飞",
+        "onboard_time": 1749538582,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 90020,
+        "num": 304745,
+        "word": "火锅店偷用顾客手机给同行刷差评",
+        "onboard_time": 1749544162,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218459,
+        "num": 303154,
+        "word": "导演回应藏海传第二季",
+        "onboard_time": 1749532520,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302687,
+        "num": 302687,
+        "word": "向太 你在讲屁话对不对",
+        "onboard_time": 1749542302,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225675,
+        "num": 225675,
+        "word": "敖瑞鹏私闯周奇民宅",
+        "onboard_time": 1749541880,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64190,
+        "num": 225067,
+        "word": "故宫的屋顶上为什么没有杂草",
+        "onboard_time": 1749544281,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 28308,
+        "num": 222469,
+        "word": "对话北大保安成人高考第一人",
+        "onboard_time": 1749544162,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193471,
+        "num": 221430,
+        "word": "筷子兄弟变筷子父子",
+        "onboard_time": 1749544940,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2297462,
+        "num": 219844,
+        "word": "原来排卵期一直都在被误解",
+        "onboard_time": 1749541822,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231358,
+        "num": 218031,
+        "word": "月薪3700三年存了6万块",
+        "onboard_time": 1749537022,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217456,
+        "num": 217456,
+        "word": "中国夏季最凉快的城市",
+        "onboard_time": 1749541401,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215429,
+        "num": 215429,
+        "word": "苹果 卓里卓气",
+        "onboard_time": 1749535159,
+        "rank": 24,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 669945,
+        "num": 214375,
+        "word": "黄杨钿甜删除多条内容",
+        "onboard_time": 1749537080,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211467,
+        "num": 211467,
+        "word": "给Labubu簪花",
+        "onboard_time": 1749541282,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 206411,
+        "num": 206411,
+        "word": "洛杉矶中国城响起爆炸声",
+        "onboard_time": 1749541041,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192097,
+        "num": 192097,
+        "word": "刘亦菲陈晓 咸雪",
+        "onboard_time": 1749534201,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184216,
+        "num": 184216,
+        "word": "赵丽颖浪琴成都活动",
+        "onboard_time": 1749544223,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172639,
+        "num": 172639,
+        "word": "田曦薇双马尾蓬蓬裙",
+        "onboard_time": 1749543261,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57016,
+        "num": 159181,
+        "word": "马吟吟说参加乘风是有效演出",
+        "onboard_time": 1749543562,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155652,
+        "num": 155652,
+        "word": "王楚钦收到棒棒糖秒开心",
+        "onboard_time": 1749541761,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135917,
+        "num": 152770,
+        "word": "跳水连救5人的英雄叫张伟",
+        "onboard_time": 1749543321,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 152069,
+        "num": 152069,
+        "word": "何老师18年后还是怕张远抢话筒",
+        "onboard_time": 1749543381,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13503,
+        "num": 147844,
+        "word": "樊振东说自己在关键球上运气好点",
+        "onboard_time": 1749544401,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147838,
+        "num": 147838,
+        "word": "陈乔恩阮经天雨中撑伞",
+        "onboard_time": 1749540081,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49436,
+        "num": 143536,
+        "word": "牛冠凯独得两分",
+        "onboard_time": 1749543681,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104296,
+        "num": 143049,
+        "word": "台湾网红馆长陈之汉将到上海",
+        "onboard_time": 1749543381,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48593,
+        "num": 143044,
+        "word": "加州公民选的民主党站了外国人",
+        "onboard_time": 1749544582,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143043,
+        "num": 143043,
+        "word": "马頔给北京孩子争光了",
+        "onboard_time": 1749538341,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89357,
+        "num": 135367,
+        "word": "周雨给王楚钦发糖",
+        "onboard_time": 1749544223,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132173,
+        "num": 132173,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1749545362,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54281,
+        "num": 131037,
+        "word": "金泰亨直播状态",
+        "onboard_time": 1749537980,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131021,
+        "num": 131021,
+        "word": "泡泡玛特",
+        "onboard_time": 1749544640,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 130218,
+        "num": 130218,
+        "word": "韦雪自曝经济紧张",
+        "onboard_time": 1749534980,
+        "rank": 45,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 121867,
+        "num": 121867,
+        "word": "军书十二卷 卷卷有泽名",
+        "onboard_time": 1749545061,
+        "rank": 46,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 121849,
+        "num": 121849,
+        "word": "披荆斩棘5首期录制",
+        "onboard_time": 1749533782,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118998,
+        "num": 118998,
+        "word": "高考后张桂梅又一次躲到门后",
+        "onboard_time": 1749532881,
+        "rank": 48,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 116678,
+        "num": 116678,
+        "word": "多个商家售卖北京大学未名湖湖水",
+        "onboard_time": 1749536539,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建更加普惠繁荣的网络空间#"
+    }
+  }
+}
