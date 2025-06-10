@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749595424024,
+  "endTime": 1749597873702,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -3179,6 +3179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 654494,
+      "num": 827219,
+      "word": "面瘫哥被捕",
+      "onboard_time": 1749578836,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 651029,
       "num": 651029,
       "word": "李知勋暂时退出",
@@ -4843,6 +4851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 492264,
+      "num": 516298,
+      "word": "那尔那茜本科毕业后留学3年",
+      "onboard_time": 1749571820,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491317,
       "num": 538400,
       "word": "何秋亊将直播回应争议",
@@ -4897,6 +4913,14 @@
       "onboard_time": 1749106641,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 487585,
+      "num": 487585,
+      "word": "鹿晗归来和鼎盛时期一样能打",
+      "onboard_time": 1749597017,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 486490,
@@ -5265,6 +5289,14 @@
       "onboard_time": 1749111562,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 464117,
+      "num": 207936,
+      "word": "黄圣依称不接受婚前同居",
+      "onboard_time": 1749597138,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 463882,
@@ -7467,14 +7499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 343943,
-      "num": 516298,
-      "word": "那尔那茜本科毕业后留学3年",
-      "onboard_time": 1749571820,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 343492,
       "num": 343492,
       "word": "小米王化疑似回应余承东",
@@ -8835,6 +8859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 289437,
+      "num": 289437,
+      "word": "为救女儿生下的儿子也患罕见遗传病",
+      "onboard_time": 1749565403,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288587,
       "num": 288587,
       "word": "山东小六科开始发力了",
@@ -9129,14 +9161,6 @@
       "onboard_time": 1749191421,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 280487,
-      "num": 280487,
-      "word": "面瘫哥被捕",
-      "onboard_time": 1749578836,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 280409,
@@ -10723,6 +10747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237106,
+      "num": 84268,
+      "word": "银行柜员拿放大镜办业务被吐槽效率低",
+      "onboard_time": 1749597619,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237069,
       "num": 237069,
       "word": "时全竟然是赵秉文的人",
@@ -11481,14 +11513,6 @@
       "onboard_time": 1749113662,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 223102,
-      "num": 285252,
-      "word": "为救女儿生下的儿子也患罕见遗传病",
-      "onboard_time": 1749565403,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223099,
@@ -13875,6 +13899,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 196492,
+      "num": 196492,
+      "word": "文旅局回应女孩遭男子水枪攻击失明",
+      "onboard_time": 1749575296,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196423,
       "num": 196423,
       "word": "何秋亊工作室",
@@ -14505,14 +14537,6 @@
       "onboard_time": 1749396623,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190815,
-      "num": 190815,
-      "word": "文旅局回应女孩遭男子水枪攻击失明",
-      "onboard_time": 1749575296,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190796,
@@ -15803,6 +15827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181126,
+      "num": 181126,
+      "word": "特朗普早就看不惯加州州长",
+      "onboard_time": 1749588855,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 181047,
       "num": 535865,
       "word": "高考生在爆燃事故中遇难是谣言",
@@ -15945,6 +15977,14 @@
       "onboard_time": 1748786901,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179771,
+      "num": 179771,
+      "word": "村民用来测水质的玉米苗被连夜拔掉",
+      "onboard_time": 1749569781,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179753,
@@ -16217,14 +16257,6 @@
       "onboard_time": 1749339378,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176539,
-      "num": 176539,
-      "word": "特朗普早就看不惯加州州长",
-      "onboard_time": 1749588855,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 176421,
@@ -17297,6 +17329,14 @@
       "onboard_time": 1749519321,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 167662,
+      "num": 167662,
+      "word": "韩乔生说国足在狼藉中翻出一粒金子",
+      "onboard_time": 1749580994,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 167654,
@@ -23619,14 +23659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126157,
-      "num": 126157,
-      "word": "村民用来测水质的玉米苗被连夜拔掉",
-      "onboard_time": 1749569781,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126114,
       "num": 126114,
       "word": "送考",
@@ -27779,14 +27811,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95208,
-      "num": 95208,
-      "word": "韩乔生说国足在狼藉中翻出一粒金子",
-      "onboard_time": 1749580994,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95198,
       "num": 281269,
       "word": "村干部回应有人上山放生五步蛇",
@@ -28027,6 +28051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93310,
+      "num": 75102,
+      "word": "她一上午做了我一年的运动量",
+      "onboard_time": 1749597017,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93300,
       "num": 93300,
       "word": "苏超",
@@ -28241,6 +28273,14 @@
       "onboard_time": 1748964083,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91064,
+      "num": 73906,
+      "word": "车企60天付款计划",
+      "onboard_time": 1749597017,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 90994,
@@ -28705,6 +28745,14 @@
       "onboard_time": 1749226582,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 86300,
+      "num": 86300,
+      "word": "黄圣依程潇谈是否接受婚前同居",
+      "onboard_time": 1749575957,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 86298,
@@ -30179,6 +30227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70529,
+      "num": 70529,
+      "word": "影帝回老家也得割麦子",
+      "onboard_time": 1749592575,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70485,
       "num": 146158,
       "word": "小区频繁高空抛物有人被砸到脑震荡",
@@ -30289,14 +30345,6 @@
       "onboard_time": 1749544523,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 69509,
-      "num": 75210,
-      "word": "黄圣依程潇谈是否接受婚前同居",
-      "onboard_time": 1749575957,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 69484,
@@ -30507,6 +30555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67539,
+      "num": 67539,
+      "word": "lvg",
+      "onboard_time": 1749594796,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67426,
       "num": 67426,
       "word": "萨巴伦卡连续两个大满贯亚军",
@@ -30689,14 +30745,6 @@
       "onboard_time": 1749250817,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 65386,
-      "num": 65386,
-      "word": "影帝回老家也得割麦子",
-      "onboard_time": 1749592575,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 65067,
@@ -31795,14 +31843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53873,
-      "num": 53873,
-      "word": "lvg",
-      "onboard_time": 1749594796,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 53868,
       "num": 283918,
       "word": "10万阿福头召唤传奇本尊",
@@ -32219,6 +32259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50192,
+      "num": 50192,
+      "word": "美抗议者问难道这就是MAGA",
+      "onboard_time": 1749574458,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50146,
       "num": 212385,
       "word": "愿景娱乐HR辱骂发烧请假员工",
@@ -32497,14 +32545,6 @@
       "onboard_time": 1749479722,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47897,
-      "num": 47897,
-      "word": "美抗议者问难道这就是MAGA",
-      "onboard_time": 1749574458,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 47681,
@@ -37184,6 +37224,14 @@
       "word": "俄罗斯战略轰炸机全都露天停放",
       "onboard_time": 1749467481,
       "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 14528,
+      "num": 79248,
+      "word": "洛杉矶遭遇冰火夹击",
+      "onboard_time": 1749597739,
+      "rank": 31,
       "category": "国际时政"
     },
     {

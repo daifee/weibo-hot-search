@@ -1,7 +1,15 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749595424024,
+  "endTime": 1749597873702,
   "band_list": [
+    {
+      "raw_hot": 654494,
+      "num": 827219,
+      "word": "面瘫哥被捕",
+      "onboard_time": 1749578836,
+      "rank": 30,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 525352,
       "num": 827962,
@@ -9,6 +17,22 @@
       "onboard_time": 1749561862,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 492264,
+      "num": 516298,
+      "word": "那尔那茜本科毕业后留学3年",
+      "onboard_time": 1749571820,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 487585,
+      "num": 487585,
+      "word": "鹿晗归来和鼎盛时期一样能打",
+      "onboard_time": 1749597017,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 482451,
@@ -27,7 +51,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417171,
+      "raw_hot": 464117,
+      "num": 207936,
+      "word": "黄圣依称不接受婚前同居",
+      "onboard_time": 1749597138,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 425517,
       "num": 206579,
       "word": "女子给自己签字开了50小时无痛",
       "onboard_time": 1749565702,
@@ -59,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343943,
-      "num": 516298,
-      "word": "那尔那茜本科毕业后留学3年",
-      "onboard_time": 1749571820,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331691,
       "num": 205585,
       "word": "王皓已通过考编笔试",
@@ -83,12 +107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280487,
-      "num": 280487,
-      "word": "面瘫哥被捕",
-      "onboard_time": 1749578836,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 289437,
+      "num": 289437,
+      "word": "为救女儿生下的儿子也患罕见遗传病",
+      "onboard_time": 1749565403,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251971,
@@ -112,6 +136,22 @@
       "word": "银行存5万送Labubu真的值吗",
       "onboard_time": 1749569120,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237106,
+      "num": 84268,
+      "word": "银行柜员拿放大镜办业务被吐槽效率低",
+      "onboard_time": 1749597619,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210833,
+      "num": 210833,
+      "word": "温州大桥车祸19岁摩托车手坠海身亡",
+      "onboard_time": 1749557481,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -139,12 +179,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190815,
-      "num": 190815,
+      "raw_hot": 196492,
+      "num": 196492,
       "word": "文旅局回应女孩遭男子水枪攻击失明",
       "onboard_time": 1749575296,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181126,
+      "num": 181126,
+      "word": "特朗普早就看不惯加州州长",
+      "onboard_time": 1749588855,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 181017,
@@ -155,12 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176539,
-      "num": 176539,
-      "word": "特朗普早就看不惯加州州长",
-      "onboard_time": 1749588855,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 179771,
+      "num": 179771,
+      "word": "村民用来测水质的玉米苗被连夜拔掉",
+      "onboard_time": 1749569781,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168073,
@@ -171,12 +219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166050,
-      "num": 166050,
-      "word": "温州大桥车祸19岁摩托车手坠海身亡",
-      "onboard_time": 1749557481,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 167662,
+      "num": 167662,
+      "word": "韩乔生说国足在狼藉中翻出一粒金子",
+      "onboard_time": 1749580994,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165067,
+      "num": 165067,
+      "word": "中美经贸磋商",
+      "onboard_time": 1749534141,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162067,
@@ -211,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134256,
+      "num": 134256,
+      "word": "男子吃见手青中毒一直帮凤凰捋毛",
+      "onboard_time": 1749559402,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130386,
       "num": 130386,
       "word": "国足积9分小组第5",
@@ -233,30 +297,6 @@
       "onboard_time": 1749562822,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 128572,
-      "num": 128572,
-      "word": "为救女儿生下的儿子也患罕见遗传病",
-      "onboard_time": 1749565403,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126157,
-      "num": 126157,
-      "word": "村民用来测水质的玉米苗被连夜拔掉",
-      "onboard_time": 1749569781,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120726,
-      "num": 120726,
-      "word": "中美经贸磋商",
-      "onboard_time": 1749534141,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118982,
@@ -307,12 +347,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 95208,
-      "num": 95208,
-      "word": "韩乔生说国足在狼藉中翻出一粒金子",
-      "onboard_time": 1749580994,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 94585,
+      "num": 94585,
+      "word": "美国加州街头变战场",
+      "onboard_time": 1749580395,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94050,
@@ -323,12 +363,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93310,
+      "num": 75102,
+      "word": "她一上午做了我一年的运动量",
+      "onboard_time": 1749597017,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 91064,
+      "num": 73906,
+      "word": "车企60天付款计划",
+      "onboard_time": 1749597017,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90662,
       "num": 90662,
       "word": "张新成在迪拜海滩边倒立爬行",
       "onboard_time": 1749571881,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86300,
+      "num": 86300,
+      "word": "黄圣依程潇谈是否接受婚前同居",
+      "onboard_time": 1749575957,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 85281,
@@ -339,28 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84915,
-      "num": 84915,
-      "word": "美国加州街头变战场",
-      "onboard_time": 1749580395,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 82279,
       "num": 82279,
       "word": "苏醒说还不知道披荆斩棘即将面对什么",
       "onboard_time": 1749560062,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78052,
-      "num": 78052,
-      "word": "男子吃见手青中毒一直帮凤凰捋毛",
-      "onboard_time": 1749559402,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75300,
@@ -403,12 +451,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 69509,
-      "num": 75210,
-      "word": "黄圣依程潇谈是否接受婚前同居",
-      "onboard_time": 1749575957,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 70529,
+      "num": 70529,
+      "word": "影帝回老家也得割麦子",
+      "onboard_time": 1749592575,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69364,
+      "num": 106479,
+      "word": "泡泡玛特创始人成河南新首富",
+      "onboard_time": 1749570740,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 67540,
@@ -419,12 +475,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 65386,
-      "num": 65386,
-      "word": "影帝回老家也得割麦子",
-      "onboard_time": 1749592575,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 67539,
+      "num": 67539,
+      "word": "lvg",
+      "onboard_time": 1749594796,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 65690,
+      "num": 65690,
+      "word": "男子借15万以贷养贷担保费高达6万",
+      "onboard_time": 1749560662,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 63368,
@@ -451,36 +515,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 58374,
-      "num": 58374,
-      "word": "男子借15万以贷养贷担保费高达6万",
-      "onboard_time": 1749560662,
-      "rank": 46,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 53873,
-      "num": 53873,
-      "word": "lvg",
-      "onboard_time": 1749594796,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 47897,
-      "num": 47897,
+      "raw_hot": 50192,
+      "num": 50192,
       "word": "美抗议者问难道这就是MAGA",
       "onboard_time": 1749574458,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 44142,
-      "num": 106479,
-      "word": "泡泡玛特创始人成河南新首富",
-      "onboard_time": 1749570740,
-      "rank": 9,
-      "category": "动漫"
     },
     {
       "raw_hot": 43889,
@@ -539,20 +579,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 22291,
+      "num": 371822,
+      "word": "走好网上群众路线百个成绩突出账号",
+      "onboard_time": 1749546920,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21668,
       "num": 25241,
       "word": "麻花特开心",
       "onboard_time": 1749579494,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21213,
-      "num": 305405,
-      "word": "走好网上群众路线百个成绩突出账号",
-      "onboard_time": 1749546920,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18321,
@@ -569,6 +609,14 @@
       "onboard_time": 1749586993,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 14528,
+      "num": 79248,
+      "word": "洛杉矶遭遇冰火夹击",
+      "onboard_time": 1749597739,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14056,
