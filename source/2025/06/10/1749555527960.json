@@ -1,0 +1,410 @@
+{
+  "runTime": 1749555527960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1362574,
+        "num": 1362574,
+        "word": "鹿晗抢票",
+        "onboard_time": 1749553820,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 546647,
+        "num": 546647,
+        "word": "山姆客服称坚果有蠕虫不是个例",
+        "onboard_time": 1749551301,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64290,
+        "num": 517129,
+        "word": "走好网上群众路线百个成绩突出账号",
+        "onboard_time": 1749546920,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 624012,
+        "num": 509984,
+        "word": "唐嫣方曾回应迟到一个月未进组",
+        "onboard_time": 1749549142,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500489,
+        "num": 500489,
+        "word": "女孩漂流遭男子高压水枪攻击致失明",
+        "onboard_time": 1749540380,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349052,
+        "num": 349052,
+        "word": "全红婵推荐了单依纯李白",
+        "onboard_time": 1749550160,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285907,
+        "num": 285907,
+        "word": "陈梦回应400亿传闻",
+        "onboard_time": 1749546741,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267858,
+        "num": 267858,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 267199,
+        "num": 267199,
+        "word": "杀妻灭子案当事人服刑完毕仍是被告",
+        "onboard_time": 1749547822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117272,
+        "num": 266135,
+        "word": "袁记云饺门店回应肉馅有小虫爬",
+        "onboard_time": 1749554301,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 631271,
+        "num": 266052,
+        "word": "王安宇请立刻离开广东",
+        "onboard_time": 1749546383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364855,
+        "num": 265974,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1749545362,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265822,
+        "num": 265822,
+        "word": "洛杉矶市中心彻底疯了",
+        "onboard_time": 1749541761,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258677,
+        "num": 258677,
+        "word": "台独分子被曝把台独当成一门生意",
+        "onboard_time": 1749549921,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40665,
+        "num": 250214,
+        "word": "韦东奕爆火是一场盛大的网络拜神仪式",
+        "onboard_time": 1749555020,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 248145,
+        "num": 248145,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1749540922,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218510,
+        "num": 218510,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74303,
+        "num": 216173,
+        "word": "郭晶晶说最好就是做好当下",
+        "onboard_time": 1749553760,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80530,
+        "num": 210386,
+        "word": "为什么存款越多却越不舍得花钱",
+        "onboard_time": 1749546261,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88771,
+        "num": 208293,
+        "word": "3人偷上百斤大蒜只为做糖蒜吃",
+        "onboard_time": 1749554840,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560436,
+        "num": 202565,
+        "word": "原来排卵期一直都在被误解",
+        "onboard_time": 1749541822,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200722,
+        "num": 200722,
+        "word": "桐心薇泯",
+        "onboard_time": 1749552321,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189242,
+        "num": 189242,
+        "word": "只有减肥的人才知道她有多真诚",
+        "onboard_time": 1749545421,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91751,
+        "num": 188487,
+        "word": "THEBOYZ抽烟",
+        "onboard_time": 1749547582,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188302,
+        "num": 188302,
+        "word": "猫耳娱乐告别信",
+        "onboard_time": 1749554661,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150407,
+        "num": 187995,
+        "word": "汪藏海人设天花板再进化",
+        "onboard_time": 1749552082,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132041,
+        "num": 186549,
+        "word": "王一博蓝色毛衣造型",
+        "onboard_time": 1749551600,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108684,
+        "num": 185792,
+        "word": "刘亦菲陈晓 咸雪",
+        "onboard_time": 1749534201,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30626,
+        "num": 185070,
+        "word": "三亚网约车司机被指与餐馆勾连诱导消费",
+        "onboard_time": 1749554960,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 131487,
+        "num": 184530,
+        "word": "美国已经进入体制死胡同",
+        "onboard_time": 1749552082,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96617,
+        "num": 183276,
+        "word": "老爸用易拉罐为女儿再造故宫凤冠",
+        "onboard_time": 1749553641,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 203334,
+        "num": 182288,
+        "word": "爸爸的朋友不知道他去世提排骨找他",
+        "onboard_time": 1749554421,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80275,
+        "num": 181170,
+        "word": "陈垣宇1比3林诗栋",
+        "onboard_time": 1749555380,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97367,
+        "num": 180736,
+        "word": "王楚钦3比0全开源",
+        "onboard_time": 1749555440,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179842,
+        "num": 179842,
+        "word": "连救5人小伙说以为再也没法尽孝了",
+        "onboard_time": 1749552200,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162808,
+        "num": 162808,
+        "word": "山姆会员说坚果里有活体虫子",
+        "onboard_time": 1749554780,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157383,
+        "num": 157383,
+        "word": "央音保安22岁考上南艺",
+        "onboard_time": 1749551241,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102217,
+        "num": 153847,
+        "word": "彭锦煜吐槽过田柾国",
+        "onboard_time": 1749554061,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109599,
+        "num": 151684,
+        "word": "临江仙",
+        "onboard_time": 1749551839,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115878,
+        "num": 151068,
+        "word": "国足今晚赢球世排反超泰国",
+        "onboard_time": 1749553820,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150996,
+        "num": 150996,
+        "word": "国足vs巴林",
+        "onboard_time": 1749552920,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150796,
+        "num": 150796,
+        "word": "Labubu 张飞",
+        "onboard_time": 1749538582,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144543,
+        "num": 144543,
+        "word": "王楚钦连跳了4个wave",
+        "onboard_time": 1749553820,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108647,
+        "num": 139595,
+        "word": "克拉恋人",
+        "onboard_time": 1749539302,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136673,
+        "num": 136673,
+        "word": "因为工作太认真被改名了",
+        "onboard_time": 1749549800,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134039,
+        "num": 134039,
+        "word": "王楚钦vs全开源",
+        "onboard_time": 1749551241,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128333,
+        "num": 128333,
+        "word": "iOS26 丑",
+        "onboard_time": 1749526461,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123460,
+        "num": 123460,
+        "word": "母亲含泪回应儿子连救5人后昏迷",
+        "onboard_time": 1749547641,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 118022,
+        "num": 118022,
+        "word": "高考前一天艺考生被撞病危家属发声",
+        "onboard_time": 1749552860,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111687,
+        "num": 111687,
+        "word": "韦东奕近期在数学顶级期刊发文",
+        "onboard_time": 1749555440,
+        "rank": 49,
+        "category": "教育,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建更加普惠繁荣的网络空间#"
+    }
+  }
+}
