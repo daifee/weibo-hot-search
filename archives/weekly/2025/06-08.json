@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749527528818,
+  "endTime": 1749530084941,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -97,6 +97,14 @@
       "onboard_time": 1749395063,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2086109,
+      "num": 2086109,
+      "word": "iOS26 丑",
+      "onboard_time": 1749526461,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 2059868,
@@ -723,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 692477,
-      "num": 692477,
-      "word": "iOS26 丑",
-      "onboard_time": 1749526461,
-      "rank": 44,
-      "category": "数码"
-    },
-    {
       "raw_hot": 675614,
       "num": 282547,
       "word": "余庆伟道歉",
@@ -913,6 +913,14 @@
       "onboard_time": 1749382643,
       "rank": 4,
       "category": "动漫,财经"
+    },
+    {
+      "raw_hot": 603592,
+      "num": 539860,
+      "word": "林峯老婆晒满柜labubu",
+      "onboard_time": 1749528322,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 600907,
@@ -1219,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499618,
+      "num": 591035,
+      "word": "那尔那茜初高中就读北京名校",
+      "onboard_time": 1749523459,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497410,
       "num": 232424,
       "word": "23岁女健身教练身上紫纹越长越多",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1749382401,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 425323,
-      "num": 425323,
-      "word": "那尔那茜初高中就读北京名校",
-      "onboard_time": 1749523459,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 424820,
@@ -2123,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312382,
+      "num": 312382,
+      "word": "两夫妻各住一套房是什么体验",
+      "onboard_time": 1749526101,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 311328,
       "num": 207208,
       "word": "吴宣仪甜妹回归",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1749442402,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306488,
+      "num": 306488,
+      "word": "接送高考生车辆侧翻多人受伤",
+      "onboard_time": 1749526762,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305937,
@@ -2484,7 +2508,7 @@
     },
     {
       "raw_hot": 274918,
-      "num": 274918,
+      "num": 481757,
       "word": "网红咖啡店老板厕所偷拍长达13年",
       "onboard_time": 1749524959,
       "rank": 22,
@@ -2569,14 +2593,6 @@
       "onboard_time": 1749469102,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 265793,
-      "num": 265793,
-      "word": "两夫妻各住一套房是什么体验",
-      "onboard_time": 1749526101,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 265790,
@@ -2827,6 +2843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247698,
+      "num": 247698,
+      "word": "雷军将启动法律程序",
+      "onboard_time": 1749528082,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 247452,
       "num": 187293,
       "word": "曹颖邓萃雯姐姐值得",
@@ -2897,6 +2921,14 @@
       "onboard_time": 1749317717,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235800,
+      "num": 413853,
+      "word": "杨紫2025微博瞩目影人",
+      "onboard_time": 1749528742,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 235456,
@@ -2987,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229192,
+      "num": 229192,
+      "word": "iOS26 安卓主题",
+      "onboard_time": 1749525501,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 229075,
       "num": 361842,
       "word": "许佳琪是章子怡的心选妲己",
@@ -3057,14 +3097,6 @@
       "onboard_time": 1749436822,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 224933,
-      "num": 224933,
-      "word": "iOS26 安卓主题",
-      "onboard_time": 1749525501,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 223625,
@@ -3339,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204328,
+      "num": 204328,
+      "word": "iOS26壁纸",
+      "onboard_time": 1749526041,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 203728,
       "num": 203728,
       "word": "5种亲密关系是慢性消耗",
@@ -3579,6 +3619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197395,
+      "num": 251425,
+      "word": "檀健次微博瞩目影人",
+      "onboard_time": 1749529342,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197007,
       "num": 197007,
       "word": "韦东奕",
@@ -3723,6 +3771,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 190843,
+      "num": 190843,
+      "word": "苹果系统大一统",
+      "onboard_time": 1749527662,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 190834,
       "num": 190834,
       "word": "谁给陈昊宇王星越递本子就当为了我",
@@ -3779,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190040,
+      "num": 190040,
+      "word": "柯南M28角色没一个废的",
+      "onboard_time": 1749529702,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 189763,
       "num": 189763,
       "word": "法网决赛",
@@ -3793,6 +3857,14 @@
       "onboard_time": 1749378622,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 189033,
+      "num": 189033,
+      "word": "时尚芭莎阵容",
+      "onboard_time": 1749529642,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188992,
@@ -4123,6 +4195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178140,
+      "num": 178140,
+      "word": "加州州长硬刚",
+      "onboard_time": 1749526762,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178094,
       "num": 178094,
       "word": "王安宇广东版",
@@ -4323,6 +4403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171479,
+      "num": 171479,
+      "word": "第一次见给鸡办葬礼",
+      "onboard_time": 1749528862,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171085,
       "num": 171085,
       "word": "汪苏泷首部演唱会设定集",
@@ -4353,6 +4441,14 @@
       "onboard_time": 1749359120,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170280,
+      "num": 170280,
+      "word": "时代少年团互谈西游惊艳造型",
+      "onboard_time": 1749529642,
+      "rank": 43,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 170247,
@@ -4409,14 +4505,6 @@
       "onboard_time": 1749471501,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169158,
-      "num": 169158,
-      "word": "接送高考生车辆侧翻多人受伤",
-      "onboard_time": 1749526762,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169140,
@@ -4619,6 +4707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165274,
+      "num": 176702,
+      "word": "肖战张婧仪烟花神级镜头",
+      "onboard_time": 1749525560,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165232,
       "num": 165232,
       "word": "字母哥力挺詹姆斯",
@@ -4649,6 +4745,14 @@
       "onboard_time": 1749482902,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164647,
+      "num": 164647,
+      "word": "iOS26 液态玻璃",
+      "onboard_time": 1749528443,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 164604,
@@ -4915,14 +5019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159982,
-      "num": 176702,
-      "word": "肖战张婧仪烟花神级镜头",
-      "onboard_time": 1749525560,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159903,
       "num": 568949,
       "word": "人民日报记者对话任正非",
@@ -5083,6 +5179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156143,
+      "num": 457744,
+      "word": "铁路施工填垃圾致鱼塘10万斤鱼死亡",
+      "onboard_time": 1749528381,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155031,
       "num": 155031,
       "word": "洪尧在家的时候就帮吴谨言搭过词",
@@ -5107,19 +5211,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154253,
-      "num": 154253,
-      "word": "iOS26壁纸",
-      "onboard_time": 1749526041,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 154135,
       "num": 150201,
       "word": "李艺彤这次大家是站着的",
       "onboard_time": 1749339497,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154127,
+      "num": 154127,
+      "word": "黄圣依白月光的杀伤力",
+      "onboard_time": 1749527000,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -5169,6 +5273,14 @@
       "onboard_time": 1749343520,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152094,
+      "num": 382237,
+      "word": "燃气公司通报招北大毕业生当抄表工",
+      "onboard_time": 1749528561,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152018,
@@ -5347,6 +5459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146810,
+      "num": 146810,
+      "word": "全运会奖牌名为同心跃",
+      "onboard_time": 1749527722,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146601,
       "num": 146601,
       "word": "北京高考英语作文",
@@ -5435,20 +5555,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145454,
+      "num": 446278,
+      "word": "京东10000件家电1元捡漏拍",
+      "onboard_time": 1749528561,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145205,
       "num": 397074,
       "word": "国之重器不断潜呀潜呀潜",
       "onboard_time": 1749479964,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 145108,
-      "num": 145108,
-      "word": "黄圣依白月光的杀伤力",
-      "onboard_time": 1749527000,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 144816,
@@ -6187,14 +6307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128727,
-      "num": 128727,
-      "word": "加州州长硬刚",
-      "onboard_time": 1749526762,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 128660,
       "num": 128660,
       "word": "不同角色对藏海的影响",
@@ -6473,6 +6585,14 @@
       "onboard_time": 1749378801,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119143,
+      "num": 552271,
+      "word": "游行抗议已扩散到美国多地",
+      "onboard_time": 1749529221,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 119108,
@@ -6785,6 +6905,14 @@
       "onboard_time": 1749486739,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 107284,
+      "num": 185736,
+      "word": "一老人带两个女娃去挖甘薯",
+      "onboard_time": 1749528742,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106774,
@@ -7403,6 +7531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71462,
+      "num": 192454,
+      "word": "亚裔妇女在抗议现场捡矿泉水瓶",
+      "onboard_time": 1749528561,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70485,
       "num": 146158,
       "word": "小区频繁高空抛物有人被砸到脑震荡",
@@ -7827,6 +7963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 52423,
+      "num": 184701,
+      "word": "苏州自己的小苏超火药味拉满",
+      "onboard_time": 1749529881,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52333,
       "num": 52333,
       "word": "山东小钺钺回应缺席今年高考",
@@ -8057,6 +8201,14 @@
       "onboard_time": 1749381682,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42176,
+      "num": 495447,
+      "word": "高考生在爆燃事故中遇难是谣言",
+      "onboard_time": 1749529584,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41827,
@@ -8595,6 +8747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27141,
+      "num": 937575,
+      "word": "2025中国网络文明大会来了",
+      "onboard_time": 1749518781,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25690,
       "num": 25690,
       "word": "马嘉祺歌手彩排vlog",
@@ -8987,6 +9147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15556,
+      "num": 249546,
+      "word": "高考结束民辅警向考生比心击掌",
+      "onboard_time": 1749529823,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15325,
       "num": 136516,
       "word": "跨越时代的神奇工具",
@@ -9282,6 +9450,9 @@
     },
     {
       "word": "#进一步关心海洋认识海洋经略海洋#"
+    },
+    {
+      "word": "#总书记指引网络文明建设#"
     }
   ]
 }
