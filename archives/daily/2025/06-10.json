@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749566722862,
+  "endTime": 1749569287009,
   "band_list": [
     {
       "raw_hot": 2810225,
@@ -41,6 +41,14 @@
       "onboard_time": 1749516921,
       "rank": 0,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 1500405,
+      "num": 1500405,
+      "word": "男童蘑菇中毒去世前说爸爸别担心我",
+      "onboard_time": 1749564803,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1454990,
@@ -243,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 799809,
-      "num": 799809,
-      "word": "男童蘑菇中毒去世前说爸爸别担心我",
-      "onboard_time": 1749564803,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 766737,
       "num": 766737,
       "word": "男子怕兄弟耽误婚礼报警谎称嫖娼",
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545084,
+      "num": 545084,
+      "word": "Labubu全球爆火一娃难求",
+      "onboard_time": 1749562822,
+      "rank": 16,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 544379,
       "num": 544379,
       "word": "苹果用户截图更完整了",
@@ -491,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 480996,
+      "num": 480996,
+      "word": "国足不是最后一名",
+      "onboard_time": 1749565043,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 478977,
       "num": 478977,
       "word": "男子打车面试被女司机送进湖里",
@@ -513,6 +529,14 @@
       "onboard_time": 1749539302,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 471818,
+      "num": 295828,
+      "word": "女子给自己签字开了50小时无痛",
+      "onboard_time": 1749565702,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471748,
@@ -545,14 +569,6 @@
       "onboard_time": 1749523220,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 441306,
-      "num": 441306,
-      "word": "Labubu全球爆火一娃难求",
-      "onboard_time": 1749562822,
-      "rank": 16,
-      "category": "动漫"
     },
     {
       "raw_hot": 441053,
@@ -747,20 +763,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344924,
-      "num": 344924,
-      "word": "国足不是最后一名",
-      "onboard_time": 1749565043,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 340629,
       "num": 340629,
       "word": "李诚儒撕掉节目组规则不淘汰学员",
       "onboard_time": 1749537261,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339661,
+      "num": 339661,
+      "word": "泰方回应军官在国防部宴请中国VVVIP",
+      "onboard_time": 1749565641,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 338754,
@@ -1019,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240906,
+      "num": 228554,
+      "word": "葛夕买labubu送朋友",
+      "onboard_time": 1749566062,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 238631,
       "num": 474356,
       "word": "球迷场外喊话王钰栋2030一定进",
@@ -1067,14 +1091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229130,
-      "num": 229130,
-      "word": "泰方回应军官在国防部宴请中国VVVIP",
-      "onboard_time": 1749565641,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 227998,
       "num": 227998,
       "word": "贺峻霖的人形立牌让女儿满眼放光",
@@ -1099,20 +1115,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225385,
-      "num": 225385,
-      "word": "女子给自己签字开了50小时无痛",
-      "onboard_time": 1749565702,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224563,
       "num": 168709,
       "word": "iOS26 液态玻璃",
       "onboard_time": 1749528443,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 223102,
+      "num": 285252,
+      "word": "为救女儿生下的儿子也患罕见遗传病",
+      "onboard_time": 1749565403,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222819,
@@ -1129,14 +1145,6 @@
       "onboard_time": 1749529342,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 220355,
-      "num": 285252,
-      "word": "为救女儿生下的儿子也患罕见遗传病",
-      "onboard_time": 1749565403,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218825,
@@ -1273,6 +1281,14 @@
       "onboard_time": 1749518420,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202492,
+      "num": 202492,
+      "word": "文俊辉直播",
+      "onboard_time": 1749568820,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 202203,
@@ -1595,12 +1611,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181218,
+      "num": 181218,
+      "word": "银行存5万送Labubu真的值吗",
+      "onboard_time": 1749569120,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181047,
       "num": 535865,
       "word": "高考生在爆燃事故中遇难是谣言",
       "onboard_time": 1749529584,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180560,
+      "num": 184877,
+      "word": "克拉恋人幕后争议",
+      "onboard_time": 1749563242,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 179842,
@@ -1737,6 +1769,14 @@
       "onboard_time": 1749549800,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169994,
+      "num": 169994,
+      "word": "国足积9分小组第5",
+      "onboard_time": 1749569000,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 169795,
@@ -2041,14 +2081,6 @@
       "onboard_time": 1749552860,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153892,
-      "num": 153892,
-      "word": "克拉恋人幕后争议",
-      "onboard_time": 1749563242,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 153438,
@@ -2555,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122766,
+      "num": 122766,
+      "word": "高中班主任展示自己没收的学生物件",
+      "onboard_time": 1749569000,
+      "rank": 41,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 122592,
       "num": 172343,
       "word": "林高远3比0薛飞",
@@ -2731,6 +2771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113801,
+      "num": 182534,
+      "word": "景甜第二次演尾鱼女主了",
+      "onboard_time": 1749567682,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113613,
       "num": 113613,
       "word": "50岁高能量女生凌晨5点出门搞运动",
@@ -2777,6 +2825,22 @@
       "onboard_time": 1749553760,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108574,
+      "num": 108574,
+      "word": "王钰栋赛后致歉",
+      "onboard_time": 1749566842,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108567,
+      "num": 108567,
+      "word": "刘宇宁九万字百万点赞",
+      "onboard_time": 1749568941,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 108150,
@@ -2977,14 +3041,6 @@
       "onboard_time": 1749553641,
       "rank": 18,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 96609,
-      "num": 96609,
-      "word": "葛夕买labubu送朋友",
-      "onboard_time": 1749566062,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 95414,
@@ -3403,6 +3459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67548,
+      "num": 181593,
+      "word": "打碎酒店台灯被凌晨敲门要求赔3000",
+      "onboard_time": 1749567922,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67359,
       "num": 298911,
       "word": "为何越来越多人聊天时不喜欢用标点",
@@ -3587,6 +3651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55800,
+      "num": 326336,
+      "word": "高考生收到半年前的信哭成泪人",
+      "onboard_time": 1749568042,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 54471,
       "num": 67200,
       "word": "潜渊首播收视率",
@@ -3691,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45843,
+      "num": 243496,
+      "word": "伤眼女孩称景区没阻拦没呼叫救援",
+      "onboard_time": 1749568161,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45826,
       "num": 300887,
       "word": "皖美科技点亮文明新纪元",
@@ -3745,6 +3825,14 @@
       "onboard_time": 1749485480,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42153,
+      "num": 123553,
+      "word": "好身体计划",
+      "onboard_time": 1749569120,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 40665,
@@ -3881,6 +3969,14 @@
       "onboard_time": 1749546441,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31054,
+      "num": 231119,
+      "word": "景区回应高压水枪不能带上船",
+      "onboard_time": 1749568282,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30626,
@@ -4219,6 +4315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 10713,
+      "num": 230109,
+      "word": "AI会是iPhone的短板吗",
+      "onboard_time": 1749568342,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 10397,
       "num": 30650,
       "word": "两部门印发重磅民生文件",
@@ -4269,6 +4373,9 @@
     },
     {
       "word": "#总书记高度重视网络文明建设#"
+    },
+    {
+      "word": "#中韩应坚定睦邻友好方向#"
     }
   ]
 }
