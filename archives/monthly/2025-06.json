@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749570165997,
+  "endTime": 1749573214583,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -5123,6 +5123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472777,
+      "num": 295703,
+      "word": "于正拍的古力娜扎",
+      "onboard_time": 1749570201,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471749,
       "num": 471749,
       "word": "饶雪漫选角求助",
@@ -7619,6 +7627,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 335108,
+      "num": 205769,
+      "word": "侯明昊去医院前给粉丝鞠躬道歉",
+      "onboard_time": 1749570440,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334714,
       "num": 508686,
       "word": "WBG对战IG",
@@ -7721,6 +7737,14 @@
       "onboard_time": 1748840060,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331691,
+      "num": 205585,
+      "word": "王皓已通过考编笔试",
+      "onboard_time": 1749569721,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 331094,
@@ -8369,6 +8393,14 @@
       "onboard_time": 1749371540,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305267,
+      "num": 236445,
+      "word": "刘宇宁九万字百万点赞",
+      "onboard_time": 1749568941,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 305245,
@@ -10403,6 +10435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244821,
+      "num": 244821,
+      "word": "银行存5万送Labubu真的值吗",
+      "onboard_time": 1749569120,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244791,
       "num": 244791,
       "word": "上海2000元一个的黑天鹅蛋糕",
@@ -10825,14 +10865,6 @@
       "onboard_time": 1749047601,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 233840,
-      "num": 219236,
-      "word": "银行存5万送Labubu真的值吗",
-      "onboard_time": 1749569120,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 233638,
@@ -15851,14 +15883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180086,
-      "num": 153650,
-      "word": "王皓已通过考编笔试",
-      "onboard_time": 1749569721,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179992,
       "num": 436018,
       "word": "王楚钦3比0牛冠凯",
@@ -15904,6 +15928,14 @@
       "word": "谢娜回应丁程鑫乘风创始人你也敢惹",
       "onboard_time": 1749300322,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179371,
+      "num": 179371,
+      "word": "王俊凯说五哈太草率了",
+      "onboard_time": 1749571160,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -16104,14 +16136,6 @@
       "word": "乘风之夜嘉宾官宣",
       "onboard_time": 1749276021,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 177359,
-      "num": 177359,
-      "word": "刘宇宁九万字百万点赞",
-      "onboard_time": 1749568941,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -17161,6 +17185,14 @@
       "onboard_time": 1749460102,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168073,
+      "num": 168073,
+      "word": "黄晓明47岁身材管理",
+      "onboard_time": 1749570919,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 168051,
@@ -19099,6 +19131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154207,
+      "num": 154207,
+      "word": "坠湖女司机独自抚养2个大学生",
+      "onboard_time": 1749570079,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154148,
       "num": 154148,
       "word": "吴宣仪在变了在72变了",
@@ -19473,6 +19513,14 @@
       "onboard_time": 1749300383,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151374,
+      "num": 227284,
+      "word": "女子称丈夫因离婚纠纷毒死2亲生儿女",
+      "onboard_time": 1749569481,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151323,
@@ -21843,6 +21891,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 136395,
+      "num": 136395,
+      "word": "那尔那茜本科毕业后留学3年",
+      "onboard_time": 1749571820,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136357,
       "num": 136357,
       "word": "曹公公叫陆悯",
@@ -23057,6 +23113,14 @@
       "onboard_time": 1749104721,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129928,
+      "num": 129928,
+      "word": "是谁把我们单依纯逼成ACE了",
+      "onboard_time": 1749570320,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 129748,
@@ -26563,14 +26627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 104124,
-      "num": 104124,
-      "word": "坠湖女司机独自抚养2个大学生",
-      "onboard_time": 1749570079,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104101,
       "num": 160440,
       "word": "高芙太能防了",
@@ -26779,6 +26835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102809,
+      "num": 102809,
+      "word": "村民用来测水质的玉米苗被连夜拔掉",
+      "onboard_time": 1749569781,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102659,
       "num": 102659,
       "word": "为什么逛街什么都没买",
@@ -26897,6 +26961,14 @@
       "onboard_time": 1749566602,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 101751,
+      "num": 101751,
+      "word": "王一博新歌愿爱",
+      "onboard_time": 1749572360,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 101619,
@@ -27025,14 +27097,6 @@
       "onboard_time": 1748866941,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 100527,
-      "num": 100527,
-      "word": "村民用来测水质的玉米苗被连夜拔掉",
-      "onboard_time": 1749569781,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100487,
@@ -28163,6 +28227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90662,
+      "num": 90662,
+      "word": "张新成在迪拜海滩边倒立爬行",
+      "onboard_time": 1749571881,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90565,
       "num": 165463,
       "word": "买房就等于一次性租70年房子吗",
@@ -28681,14 +28753,6 @@
       "onboard_time": 1748735538,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 85092,
-      "num": 227284,
-      "word": "女子称丈夫因离婚纠纷毒死2亲生儿女",
-      "onboard_time": 1749569481,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84966,
@@ -29665,6 +29729,14 @@
       "onboard_time": 1748707280,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74725,
+      "num": 74725,
+      "word": "皮肤不好可能是身体缺营养了",
+      "onboard_time": 1749570320,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 74576,
@@ -30841,6 +30913,14 @@
       "onboard_time": 1748748920,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62163,
+      "num": 67515,
+      "word": "鹿晗首站上海秒罄",
+      "onboard_time": 1749559041,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 62009,
@@ -33883,6 +33963,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 35864,
+      "num": 208839,
+      "word": "在泰国防部受接待2男子为网红",
+      "onboard_time": 1749572599,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35807,
       "num": 196930,
       "word": "免费艾灸馆卖给老人千元蜂胶",
@@ -35417,6 +35505,14 @@
       "onboard_time": 1748773701,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25472,
+      "num": 74568,
+      "word": "毕业礼物",
+      "onboard_time": 1749571999,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 25427,
