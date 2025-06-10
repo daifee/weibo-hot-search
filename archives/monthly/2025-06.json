@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749540344403,
+  "endTime": 1749541219915,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2810225,
+      "num": 647283,
+      "word": "制片人曝唐嫣迟到一个月未进组",
+      "onboard_time": 1749537740,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2798960,
       "num": 2798960,
       "word": "高考",
@@ -257,14 +265,6 @@
       "onboard_time": 1749434779,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2679052,
-      "num": 647283,
-      "word": "制片人曝唐嫣迟到一个月未进组",
-      "onboard_time": 1749537740,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 2655355,
@@ -2763,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 700451,
+      "num": 700451,
+      "word": "苹果 卓里卓气",
+      "onboard_time": 1749535159,
+      "rank": 6,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 698578,
       "num": 698578,
       "word": "张萌签约王星",
@@ -3265,14 +3273,6 @@
       "onboard_time": 1749115402,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 623797,
-      "num": 623797,
-      "word": "苹果 卓里卓气",
-      "onboard_time": 1749535159,
-      "rank": 6,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 623712,
@@ -4475,6 +4475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 501775,
+      "num": 501775,
+      "word": "Labubu 张飞",
+      "onboard_time": 1749538582,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 501769,
       "num": 501769,
       "word": "医生称孕反突然消失或和胎停有关",
@@ -5451,14 +5459,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 428798,
-      "num": 428798,
-      "word": "Labubu 张飞",
-      "onboard_time": 1749538582,
-      "rank": 8,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 428586,
       "num": 428586,
       "word": "江苏足协副主席电话被打爆",
@@ -5836,7 +5836,7 @@
     },
     {
       "raw_hot": 400382,
-      "num": 250705,
+      "num": 283562,
       "word": "月薪3700三年存了6万块",
       "onboard_time": 1749537022,
       "rank": 22,
@@ -6419,6 +6419,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 373894,
+      "num": 514722,
+      "word": "女孩漂流遭男子高压水枪攻击致失明",
+      "onboard_time": 1749540380,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373678,
       "num": 370048,
       "word": "长安的荔枝",
@@ -6729,6 +6737,14 @@
       "onboard_time": 1749376642,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 357864,
+      "num": 357864,
+      "word": "马頔给北京孩子争光了",
+      "onboard_time": 1749538341,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 357806,
@@ -7515,6 +7531,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 323986,
+      "num": 466671,
+      "word": "多个商家售卖北京大学未名湖湖水",
+      "onboard_time": 1749536539,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323914,
+      "num": 323914,
+      "word": "克拉恋人",
+      "onboard_time": 1749539302,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323872,
       "num": 323872,
       "word": "孙颖莎上了小学英语教材书稿",
@@ -7793,14 +7825,6 @@
       "onboard_time": 1749525501,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 311529,
-      "num": 311529,
-      "word": "马頔给北京孩子争光了",
-      "onboard_time": 1749538341,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 311291,
@@ -10987,14 +11011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222963,
-      "num": 222963,
-      "word": "克拉恋人",
-      "onboard_time": 1749539302,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222880,
       "num": 222880,
       "word": "藏海辞官了",
@@ -11539,6 +11555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214070,
+      "num": 214070,
+      "word": "陈奕迅北京",
+      "onboard_time": 1749540741,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214066,
       "num": 364532,
       "word": "原来饶雪漫全网找的是柯淳搭档",
@@ -11601,6 +11625,14 @@
       "onboard_time": 1748843421,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213120,
+      "num": 213120,
+      "word": "陈梦亲了黄圣依",
+      "onboard_time": 1749539060,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 212911,
@@ -11905,6 +11937,14 @@
       "onboard_time": 1749104420,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208969,
+      "num": 208969,
+      "word": "三毛 赵丽颖裙子",
+      "onboard_time": 1749540922,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 208855,
@@ -12345,14 +12385,6 @@
       "onboard_time": 1749021621,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 204709,
-      "num": 204709,
-      "word": "陈梦亲了黄圣依",
-      "onboard_time": 1749539060,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 204661,
@@ -14707,14 +14739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183979,
-      "num": 424577,
-      "word": "多个商家售卖北京大学未名湖湖水",
-      "onboard_time": 1749536539,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183908,
       "num": 183908,
       "word": "成毅徐璐首次合作",
@@ -14777,6 +14801,14 @@
       "onboard_time": 1748744841,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183516,
+      "num": 183516,
+      "word": "陈乔恩阮经天雨中撑伞",
+      "onboard_time": 1749540081,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 183303,
@@ -15793,14 +15825,6 @@
       "onboard_time": 1749179180,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172666,
-      "num": 172666,
-      "word": "陈乔恩阮经天雨中撑伞",
-      "onboard_time": 1749540081,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 172618,
@@ -17795,11 +17819,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157657,
+      "num": 157657,
+      "word": "BLACKPINK香港",
+      "onboard_time": 1749539661,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157652,
       "num": 294658,
       "word": "肖战5月微博演员热度TOP1",
       "onboard_time": 1749456861,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157477,
+      "num": 157477,
+      "word": "景甜张彬彬平番二搭",
+      "onboard_time": 1749540502,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -20347,6 +20387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139270,
+      "num": 139270,
+      "word": "内娱最权威的六个反派养子",
+      "onboard_time": 1749540861,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139151,
       "num": 139151,
       "word": "Gr对战Wolves",
@@ -20369,6 +20417,14 @@
       "onboard_time": 1749195502,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139100,
+      "num": 139100,
+      "word": "张远录制披荆斩棘路透",
+      "onboard_time": 1749540741,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 139087,
@@ -21243,14 +21299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134269,
-      "num": 134269,
-      "word": "BLACKPINK香港",
-      "onboard_time": 1749539661,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 134231,
       "num": 1296096,
       "word": "有一种震撼叫祖国山河如画",
@@ -21537,6 +21585,14 @@
       "onboard_time": 1749521000,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132273,
+      "num": 132273,
+      "word": "时代少年团团建出发",
+      "onboard_time": 1749540262,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 132262,
@@ -23795,20 +23851,20 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 116109,
-      "num": 116109,
-      "word": "时代少年团团建出发",
-      "onboard_time": 1749540262,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116069,
       "num": 106792,
       "word": "肖战留存片场百态",
       "onboard_time": 1748967441,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116064,
+      "num": 116064,
+      "word": "洛杉矶中国城响起爆炸声",
+      "onboard_time": 1749541041,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 116049,
@@ -24195,6 +24251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113361,
+      "num": 113361,
+      "word": "章若楠芭莎之夜官宣",
+      "onboard_time": 1749539901,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113319,
       "num": 135519,
       "word": "推动中美经贸关系稳定健康发展",
@@ -24297,14 +24361,6 @@
       "onboard_time": 1749015741,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 112499,
-      "num": 112499,
-      "word": "章若楠芭莎之夜官宣",
-      "onboard_time": 1749539901,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 112489,
@@ -27235,6 +27291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85993,
+      "num": 288446,
+      "word": "分房睡会影响夫妻感情吗",
+      "onboard_time": 1749539482,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85767,
       "num": 85767,
       "word": "丞磊一本正经的幽默",
@@ -27545,14 +27609,6 @@
       "onboard_time": 1749389363,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82341,
-      "num": 238014,
-      "word": "分房睡会影响夫妻感情吗",
-      "onboard_time": 1749539482,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 82322,
@@ -29619,6 +29675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57775,
+      "num": 125725,
+      "word": "洛杉矶移民称这本就是墨西哥领土",
+      "onboard_time": 1749539721,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 57704,
       "num": 57704,
       "word": "00后失传的切菜小技巧",
@@ -29764,7 +29828,7 @@
     },
     {
       "raw_hot": 56090,
-      "num": 120740,
+      "num": 122687,
       "word": "守护甜心还是太权威了",
       "onboard_time": 1749540140,
       "rank": 39,
@@ -30780,7 +30844,7 @@
     },
     {
       "raw_hot": 45826,
-      "num": 263656,
+      "num": 300887,
       "word": "皖美科技点亮文明新纪元",
       "onboard_time": 1749539721,
       "rank": 17,
@@ -31825,14 +31889,6 @@
       "onboard_time": 1748748979,
       "rank": 18,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 37633,
-      "num": 122036,
-      "word": "洛杉矶移民称这本就是墨西哥领土",
-      "onboard_time": 1749539721,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 37561,
@@ -34131,6 +34187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21665,
+      "num": 309713,
+      "word": "新内战成美国舆论热词",
+      "onboard_time": 1749540621,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21593,
       "num": 33578,
       "word": "Circle上市首日暴涨168.48%",
@@ -34369,6 +34433,14 @@
       "onboard_time": 1748773580,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 19849,
+      "num": 295856,
+      "word": "洛杉矶抗议者和政府派兵支持者打斗",
+      "onboard_time": 1749540861,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19834,

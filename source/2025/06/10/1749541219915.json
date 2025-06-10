@@ -1,0 +1,410 @@
+{
+  "runTime": 1749541219915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 849288,
+        "num": 1135886,
+        "word": "iOS26 丑",
+        "onboard_time": 1749526461,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 700451,
+        "num": 700451,
+        "word": "苹果 卓里卓气",
+        "onboard_time": 1749535159,
+        "rank": 1,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 21458,
+        "num": 658240,
+        "word": "2025中国网络文明大会来了",
+        "onboard_time": 1749518781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2810225,
+        "num": 608192,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 872704,
+        "num": 573033,
+        "word": "黄杨钿甜删除多条内容",
+        "onboard_time": 1749537080,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373894,
+        "num": 514722,
+        "word": "女孩漂流遭男子高压水枪攻击致失明",
+        "onboard_time": 1749540380,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501775,
+        "num": 501775,
+        "word": "Labubu 张飞",
+        "onboard_time": 1749538582,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 490527,
+        "num": 490527,
+        "word": "刘亦菲陈晓 咸雪",
+        "onboard_time": 1749534201,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323986,
+        "num": 466671,
+        "word": "多个商家售卖北京大学未名湖湖水",
+        "onboard_time": 1749536539,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456858,
+        "num": 456858,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357864,
+        "num": 357864,
+        "word": "马頔给北京孩子争光了",
+        "onboard_time": 1749538341,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330308,
+        "num": 330308,
+        "word": "韦雪自曝经济紧张",
+        "onboard_time": 1749534980,
+        "rank": 11,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 323914,
+        "num": 323914,
+        "word": "克拉恋人",
+        "onboard_time": 1749539302,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318417,
+        "num": 318417,
+        "word": "A股",
+        "onboard_time": 1749533841,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21665,
+        "num": 309713,
+        "word": "新内战成美国舆论热词",
+        "onboard_time": 1749540621,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274880,
+        "num": 308210,
+        "word": "高考后张桂梅又一次躲到门后",
+        "onboard_time": 1749532881,
+        "rank": 15,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 307037,
+        "num": 307037,
+        "word": "导演回应藏海传第二季",
+        "onboard_time": 1749532520,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40328,
+        "num": 300887,
+        "word": "皖美科技点亮文明新纪元",
+        "onboard_time": 1749539721,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19849,
+        "num": 295856,
+        "word": "洛杉矶抗议者和政府派兵支持者打斗",
+        "onboard_time": 1749540861,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85993,
+        "num": 288446,
+        "word": "分房睡会影响夫妻感情吗",
+        "onboard_time": 1749539482,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339419,
+        "num": 283562,
+        "word": "月薪3700三年存了6万块",
+        "onboard_time": 1749537022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279340,
+        "num": 279340,
+        "word": "洛杉矶冲突",
+        "onboard_time": 1749525681,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218261,
+        "num": 218261,
+        "word": "披荆斩棘5首期录制",
+        "onboard_time": 1749533782,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215085,
+        "num": 215085,
+        "word": "李诚儒撕掉节目组规则不淘汰学员",
+        "onboard_time": 1749537261,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214070,
+        "num": 214070,
+        "word": "陈奕迅北京",
+        "onboard_time": 1749540741,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213120,
+        "num": 213120,
+        "word": "陈梦亲了黄圣依",
+        "onboard_time": 1749539060,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208969,
+        "num": 208969,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1749540922,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183516,
+        "num": 183516,
+        "word": "陈乔恩阮经天雨中撑伞",
+        "onboard_time": 1749540081,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174885,
+        "num": 174885,
+        "word": "林峯老婆晒满柜labubu",
+        "onboard_time": 1749528322,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138581,
+        "num": 165045,
+        "word": "美国发现13具尸体疑连环杀手作案",
+        "onboard_time": 1749480802,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162625,
+        "num": 162625,
+        "word": "洛杉矶警方承认局面已失控",
+        "onboard_time": 1749519441,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157657,
+        "num": 157657,
+        "word": "BLACKPINK香港",
+        "onboard_time": 1749539661,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157477,
+        "num": 157477,
+        "word": "景甜张彬彬平番二搭",
+        "onboard_time": 1749540502,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145869,
+        "num": 145869,
+        "word": "黄景瑜想演39集半才被抓到的反派",
+        "onboard_time": 1749539841,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139270,
+        "num": 139270,
+        "word": "内娱最权威的六个反派养子",
+        "onboard_time": 1749540861,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139100,
+        "num": 139100,
+        "word": "张远录制披荆斩棘路透",
+        "onboard_time": 1749540741,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134126,
+        "num": 134126,
+        "word": "王楚钦说林昀儒尽力了",
+        "onboard_time": 1749536720,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132273,
+        "num": 132273,
+        "word": "时代少年团团建出发",
+        "onboard_time": 1749540262,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57775,
+        "num": 125725,
+        "word": "洛杉矶移民称这本就是墨西哥领土",
+        "onboard_time": 1749539721,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50194,
+        "num": 122687,
+        "word": "守护甜心还是太权威了",
+        "onboard_time": 1749540140,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122323,
+        "num": 122323,
+        "word": "中韩元首通电话",
+        "onboard_time": 1749530601,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122114,
+        "num": 122114,
+        "word": "iOS26 立体照片",
+        "onboard_time": 1749538100,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120157,
+        "num": 120157,
+        "word": "72岁老人家中清出近1吨废品",
+        "onboard_time": 1749537080,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119253,
+        "num": 119253,
+        "word": "为什么恋爱谈久了很难结婚",
+        "onboard_time": 1749534679,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116064,
+        "num": 116064,
+        "word": "洛杉矶中国城响起爆炸声",
+        "onboard_time": 1749541041,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113361,
+        "num": 113361,
+        "word": "章若楠芭莎之夜官宣",
+        "onboard_time": 1749539901,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110408,
+        "num": 110408,
+        "word": "Labubu 魔童",
+        "onboard_time": 1749523821,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 107943,
+        "num": 107943,
+        "word": "圣枪哥 打了十年第一次要去MSI了",
+        "onboard_time": 1749531803,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107038,
+        "num": 107038,
+        "word": "导演说肖战真的很爱藏海",
+        "onboard_time": 1749535701,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105955,
+        "num": 105955,
+        "word": "张杰用就是哪吒给高考生应援",
+        "onboard_time": 1749540262,
+        "rank": 49,
+        "category": "音乐,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指引网络文明建设#"
+    }
+  }
+}
