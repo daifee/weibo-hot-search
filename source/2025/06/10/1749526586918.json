@@ -1,0 +1,410 @@
+{
+  "runTime": 1749526586918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1004123,
+        "num": 1160659,
+        "word": "洛杉矶警方承认局面已失控",
+        "onboard_time": 1749519441,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 954075,
+        "num": 954075,
+        "word": "洛杉矶冲突",
+        "onboard_time": 1749525681,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36775,
+        "num": 922613,
+        "word": "文明上网我们共同约定",
+        "onboard_time": 1749519441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 891497,
+        "num": 891497,
+        "word": "Labubu 魔童",
+        "onboard_time": 1749523821,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 644084,
+        "num": 644084,
+        "word": "龙骨焚箱",
+        "onboard_time": 1749522740,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530545,
+        "num": 627921,
+        "word": "男子怕兄弟耽误婚礼报警谎称嫖娼",
+        "onboard_time": 1749525022,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613976,
+        "num": 613976,
+        "word": "95后情侣月入3万每月只花3000",
+        "onboard_time": 1749524540,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 521907,
+        "num": 561937,
+        "word": "日本居民凌晨1点排队买米",
+        "onboard_time": 1749518361,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 446205,
+        "num": 545652,
+        "word": "景甜张彬彬二搭龙骨焚箱",
+        "onboard_time": 1749523220,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92599,
+        "num": 544702,
+        "word": "直击洛杉矶冲突",
+        "onboard_time": 1749524959,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 544379,
+        "num": 544379,
+        "word": "苹果用户截图更完整了",
+        "onboard_time": 1749522441,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 508487,
+        "num": 508487,
+        "word": "程潇给前任发信息被秒回",
+        "onboard_time": 1749472281,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441053,
+        "num": 441053,
+        "word": "95后女子为求死砍死邻居已被执行死刑",
+        "onboard_time": 1749522441,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91498,
+        "num": 439112,
+        "word": "原来榫卯也能当游戏通关密语",
+        "onboard_time": 1749521541,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438274,
+        "num": 438274,
+        "word": "克拉恋人制片人转发迪丽热巴",
+        "onboard_time": 1749519321,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374157,
+        "num": 374157,
+        "word": "蒋一侨回应香飘飘千金标签",
+        "onboard_time": 1749523701,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356302,
+        "num": 356302,
+        "word": "那尔那茜初高中就读北京名校",
+        "onboard_time": 1749523459,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349723,
+        "num": 349723,
+        "word": "美国发现13具尸体疑连环杀手作案",
+        "onboard_time": 1749480802,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205854,
+        "num": 305808,
+        "word": "舒淇晒labubu哭娃",
+        "onboard_time": 1749515962,
+        "rank": 18,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 287299,
+        "num": 287299,
+        "word": "韩民众感叹泡面加蛋太奢侈",
+        "onboard_time": 1749522020,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 264923,
+        "num": 264923,
+        "word": "姐姐带顶流labubu花束接高考妹妹",
+        "onboard_time": 1749516921,
+        "rank": 20,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 262971,
+        "num": 262971,
+        "word": "三款机型无缘iOS26",
+        "onboard_time": 1749522501,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 258178,
+        "num": 258178,
+        "word": "网红咖啡店老板厕所偷拍长达13年",
+        "onboard_time": 1749524959,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232954,
+        "num": 232954,
+        "word": "川美爆火毕业作品祷已售出",
+        "onboard_time": 1749517701,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219404,
+        "num": 219404,
+        "word": "樊振东说面对没准备到的困难多想想办法",
+        "onboard_time": 1749521000,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194750,
+        "num": 194750,
+        "word": "iOS26 安卓主题",
+        "onboard_time": 1749525501,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159903,
+        "num": 194337,
+        "word": "人民日报记者对话任正非",
+        "onboard_time": 1749525740,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157281,
+        "num": 193949,
+        "word": "王安宇壁纸",
+        "onboard_time": 1749520401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105463,
+        "num": 193405,
+        "word": "京东上线多款618元家电空调",
+        "onboard_time": 1749523041,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28594,
+        "num": 192763,
+        "word": "洛杉矶该如何破局",
+        "onboard_time": 1749525382,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192543,
+        "num": 192543,
+        "word": "山东历史",
+        "onboard_time": 1749520820,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192844,
+        "num": 187963,
+        "word": "90后月入过万的生活花销",
+        "onboard_time": 1749525859,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152626,
+        "num": 184591,
+        "word": "70岁任达华回山东老家收麦子",
+        "onboard_time": 1749516561,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181475,
+        "num": 181475,
+        "word": "美媒记者在加州被警察开枪击中脑门",
+        "onboard_time": 1749522801,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156156,
+        "num": 176702,
+        "word": "肖战张婧仪烟花神级镜头",
+        "onboard_time": 1749525560,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174287,
+        "num": 174287,
+        "word": "金泰亨退伍",
+        "onboard_time": 1749514461,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172855,
+        "num": 172855,
+        "word": "两夫妻各住一套房是什么体验",
+        "onboard_time": 1749526101,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168056,
+        "num": 168056,
+        "word": "高额彩礼成为影响结婚率重要因素之一",
+        "onboard_time": 1749477623,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154253,
+        "num": 154253,
+        "word": "iOS26壁纸",
+        "onboard_time": 1749526041,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150468,
+        "num": 150468,
+        "word": "临江仙12集",
+        "onboard_time": 1749526341,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144674,
+        "num": 144674,
+        "word": "电影捕风追影定档",
+        "onboard_time": 1749525382,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141105,
+        "num": 141105,
+        "word": "男子打车面试被女司机送进湖里",
+        "onboard_time": 1749517461,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137187,
+        "num": 137187,
+        "word": "特朗普祝一切顺利马斯克回复红色爱心",
+        "onboard_time": 1749522622,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132550,
+        "num": 132550,
+        "word": "九尾恋爱分手",
+        "onboard_time": 1749512779,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131349,
+        "num": 131349,
+        "word": "iOS26 丑",
+        "onboard_time": 1749526461,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128527,
+        "num": 128527,
+        "word": "蒋一侨光速帮侯佩岑找到工作",
+        "onboard_time": 1749517401,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119277,
+        "num": 119277,
+        "word": "麻花特开心团建式官宣",
+        "onboard_time": 1749526461,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115709,
+        "num": 115709,
+        "word": "俄罗斯发动最大规模夜袭",
+        "onboard_time": 1749515301,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114985,
+        "num": 114985,
+        "word": "杨天真晒美国留学生活照",
+        "onboard_time": 1749518061,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114421,
+        "num": 114421,
+        "word": "山东历史五道大题",
+        "onboard_time": 1749523281,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#进一步关心海洋认识海洋经略海洋#"
+    }
+  }
+}
