@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749512387875,
+  "endTime": 1749520997753,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -161,6 +161,14 @@
       "onboard_time": 1749432801,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1648053,
+      "num": 1648053,
+      "word": "妈妈带顶流labubu花束接高考女儿",
+      "onboard_time": 1749516921,
+      "rank": 0,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 1635358,
@@ -723,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 650364,
+      "num": 650364,
+      "word": "杨天真晒美国留学生活照",
+      "onboard_time": 1749518061,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 645437,
       "num": 645437,
       "word": "王楚钦谈输给伊朗14岁小将",
@@ -1011,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531802,
+      "num": 531802,
+      "word": "洛杉矶警方承认局面已失控",
+      "onboard_time": 1749519441,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 531672,
       "num": 531672,
       "word": "驻日本大使馆发布提醒",
@@ -1107,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 503043,
+      "num": 503043,
+      "word": "川美爆火毕业作品祷已售出",
+      "onboard_time": 1749517701,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 497410,
       "num": 232424,
       "word": "23岁女健身教练身上紫纹越长越多",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1749307043,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 486490,
+      "num": 486490,
+      "word": "俄罗斯发动最大规模夜袭",
+      "onboard_time": 1749515301,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 484337,
@@ -1155,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478977,
+      "num": 478977,
+      "word": "男子打车面试被女司机送进湖里",
+      "onboard_time": 1749517461,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473580,
       "num": 540944,
       "word": "浙江一村40多户养了上百万条蛇",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1749370040,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471748,
+      "num": 471748,
+      "word": "舒淇晒labubu哭娃",
+      "onboard_time": 1749515962,
+      "rank": 10,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 471620,
@@ -1545,6 +1601,14 @@
       "onboard_time": 1749383243,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 380550,
+      "num": 380550,
+      "word": "克拉恋人制片人转发迪丽热巴",
+      "onboard_time": 1749519321,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 380196,
@@ -1979,6 +2043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 309196,
+      "num": 309196,
+      "word": "金泰亨退伍",
+      "onboard_time": 1749514461,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306559,
       "num": 306559,
       "word": "无限暖暖",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1749475402,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303815,
+      "num": 303815,
+      "word": "70岁任达华回山东老家收麦子",
+      "onboard_time": 1749516561,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 303365,
@@ -2121,6 +2201,14 @@
       "onboard_time": 1749444083,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289878,
+      "num": 289878,
+      "word": "日本居民凌晨1点排队买米",
+      "onboard_time": 1749518361,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 289456,
@@ -2435,6 +2523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 260151,
+      "num": 260151,
+      "word": "特朗普称支持逮捕加州州长",
+      "onboard_time": 1749513020,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 260129,
       "num": 303311,
       "word": "邓超用英文表白孙俪",
@@ -2627,6 +2723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 240092,
+      "num": 240092,
+      "word": "蒋一侨光速帮侯佩岑找到工作",
+      "onboard_time": 1749517401,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239183,
       "num": 239183,
       "word": "HYBE大楼迎接BTS回归",
@@ -2753,6 +2857,14 @@
       "onboard_time": 1749445642,
       "rank": 35,
       "category": "幽默,民生新闻"
+    },
+    {
+      "raw_hot": 227543,
+      "num": 227543,
+      "word": "iOS26相机",
+      "onboard_time": 1749512661,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 227506,
@@ -3115,6 +3227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202613,
+      "num": 202613,
+      "word": "加州州长说来抓我吧我才不怕",
+      "onboard_time": 1749518420,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 202587,
       "num": 202587,
       "word": "原来汉堡一直都在被误解",
@@ -3147,6 +3267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201808,
+      "num": 201808,
+      "word": "九尾恋爱分手",
+      "onboard_time": 1749512779,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201705,
       "num": 258730,
       "word": "付辛博去看张新成音乐剧",
@@ -3161,6 +3289,14 @@
       "onboard_time": 1749399200,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201175,
+      "num": 201175,
+      "word": "山东历史",
+      "onboard_time": 1749520820,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 200315,
@@ -3257,6 +3393,14 @@
       "onboard_time": 1749378742,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 197725,
+      "num": 197725,
+      "word": "iPhone将提醒相机镜头脏了",
+      "onboard_time": 1749520580,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 197721,
@@ -3489,6 +3633,14 @@
       "onboard_time": 1749464902,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188002,
+      "num": 188002,
+      "word": "61岁阿姨家中用锤子打蛇被咬伤",
+      "onboard_time": 1749513559,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187884,
@@ -3763,6 +3915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179674,
+      "num": 472587,
+      "word": "福建南安发生疑似燃气爆燃致2死5伤",
+      "onboard_time": 1749519680,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 178847,
       "num": 178847,
       "word": "林芊妤官宣怀二胎",
@@ -3881,6 +4041,14 @@
       "onboard_time": 1749450502,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 173555,
+      "num": 173555,
+      "word": "加州再起诉特朗普政府",
+      "onboard_time": 1749518241,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173130,
@@ -4139,6 +4307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167676,
+      "num": 167676,
+      "word": "福建南安一楼房发生爆炸",
+      "onboard_time": 1749519321,
+      "rank": 30,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 167344,
       "num": 167344,
       "word": "原来古代荔枝运输比西天取经还难",
@@ -4243,6 +4419,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165232,
+      "num": 165232,
+      "word": "字母哥力挺詹姆斯",
+      "onboard_time": 1749520580,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164884,
+      "num": 164884,
+      "word": "任天堂发明了永动机",
+      "onboard_time": 1749513740,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164847,
       "num": 164847,
       "word": "魏大勋把草原沙漠洞窟去了个遍",
@@ -4329,6 +4521,14 @@
       "onboard_time": 1749427221,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163779,
+      "num": 163779,
+      "word": "没有人能拒绝五分臭的小狗",
+      "onboard_time": 1749520580,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 163336,
@@ -4419,6 +4619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161096,
+      "num": 161096,
+      "word": "折腰回门宴全记录",
+      "onboard_time": 1749519021,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160972,
       "num": 160972,
       "word": "文科生登顶 祯是构了",
@@ -4440,6 +4648,14 @@
       "word": "赵雅芝美得我不知天地为何物",
       "onboard_time": 1749301583,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160424,
+      "num": 160424,
+      "word": "车澈在周深生日会上表白李嘉格",
+      "onboard_time": 1749517281,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -4923,6 +5139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146312,
+      "num": 146312,
+      "word": "上班后发现同事并不是那么善良",
+      "onboard_time": 1749513681,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146171,
       "num": 244645,
       "word": "王楚钦说世乒赛夺冠后全翻篇了",
@@ -5043,6 +5267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143800,
+      "num": 143800,
+      "word": "汉代遗址发现2000多年前瓜皮",
+      "onboard_time": 1749515661,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143727,
       "num": 143727,
       "word": "李青月骗我就骗我了",
@@ -5081,6 +5313,14 @@
       "onboard_time": 1749464000,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142254,
+      "num": 233961,
+      "word": "给母亲磕头后他又跳湖救出第5人",
+      "onboard_time": 1749503113,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 141925,
@@ -5499,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133417,
+      "num": 133417,
+      "word": "王宁说不愿过度消耗Labubu的IP",
+      "onboard_time": 1749512718,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 133247,
       "num": 133247,
       "word": "陕西命题组要不你赔我点钱吧",
@@ -5513,6 +5761,14 @@
       "onboard_time": 1749374841,
       "rank": 42,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 131546,
+      "num": 131546,
+      "word": "这么抽象的女儿她居然拥有三个",
+      "onboard_time": 1749512718,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 131237,
@@ -5627,6 +5883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128990,
+      "num": 128990,
+      "word": "任正非说不去想困难干就完了",
+      "onboard_time": 1749520101,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 128984,
       "num": 128984,
       "word": "海口一小区楼体集体开裂",
@@ -5697,6 +5961,14 @@
       "onboard_time": 1749461961,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126204,
+      "num": 126204,
+      "word": "王安宇壁纸",
+      "onboard_time": 1749520401,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 125808,
@@ -5857,6 +6129,14 @@
       "onboard_time": 1749360982,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120099,
+      "num": 120099,
+      "word": "特朗普称不想发生内战",
+      "onboard_time": 1749518720,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120075,
@@ -6059,11 +6339,27 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 113613,
+      "num": 113613,
+      "word": "50岁高能量女生凌晨5点出门搞运动",
+      "onboard_time": 1749519921,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113271,
       "num": 113271,
       "word": "德国0比2法国",
       "onboard_time": 1749397404,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113015,
+      "num": 113015,
+      "word": "NBA球星要在少林寺剃发修行10天",
+      "onboard_time": 1749516620,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -6257,14 +6553,6 @@
       "onboard_time": 1749314302,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101208,
-      "num": 233961,
-      "word": "给母亲磕头后他又跳湖救出第5人",
-      "onboard_time": 1749503113,
-      "rank": 48,
-      "category": "正能量"
     },
     {
       "raw_hot": 100712,
@@ -6615,6 +6903,14 @@
       "num": 163598,
       "word": "中国女排要在主场拼尽全力",
       "onboard_time": 1749397041,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80053,
+      "num": 142763,
+      "word": "王大雷哽咽称进队20年没成功过",
+      "onboard_time": 1749520280,
       "rank": 39,
       "category": "体育"
     },
@@ -7432,6 +7728,14 @@
       "word": "偶遇现实版九又四分之三站台",
       "onboard_time": 1749448461,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40433,
+      "num": 671838,
+      "word": "文明上网我们共同约定",
+      "onboard_time": 1749519441,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

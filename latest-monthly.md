@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/10 07:39:47
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/10 10:03:17
 </p>
 </blockquote>
 <p>
@@ -473,6 +473,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GAI%E6%98%AF%E4%B8%8D%E6%98%AF%E6%83%B3%E8%B5%B0%E4%BA%86%23" target="weibo">
 GAI是不是想走了（热度：1689581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%B8%A6%E9%A1%B6%E6%B5%81labubu%E8%8A%B1%E6%9D%9F%E6%8E%A5%E9%AB%98%E8%80%83%E5%A5%B3%E5%84%BF%23" target="weibo">
+妈妈带顶流labubu花束接高考女儿（热度：1648053）
 </a>
 </li>
 
@@ -2211,6 +2217,12 @@ labubu牙套（热度：696332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E6%99%92%E7%BE%8E%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%B4%BB%E7%85%A7%23" target="weibo">
+杨天真晒美国留学生活照（热度：650364）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
 枭起青壤（热度：650011）
 </a>
@@ -2967,6 +2979,12 @@ labubu医美（热度：554444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E6%96%B9%E6%89%BF%E8%AE%A4%E5%B1%80%E9%9D%A2%E5%B7%B2%E5%A4%B1%E6%8E%A7%23" target="weibo">
+洛杉矶警方承认局面已失控（热度：531802）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%BB%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E6%8F%90%E9%86%92%23" target="weibo">
 驻日本大使馆发布提醒（热度：531672）
 </a>
@@ -3213,6 +3231,12 @@ labubu医美（热度：554444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%9D%E7%BE%8E%E7%88%86%E7%81%AB%E6%AF%95%E4%B8%9A%E4%BD%9C%E5%93%81%E7%A5%B7%E5%B7%B2%E5%94%AE%E5%87%BA%23" target="weibo">
+川美爆火毕业作品祷已售出（热度：503043）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2347%E5%B2%81%E6%B2%B3%E6%99%BA%E8%8B%91%E8%BF%91%E7%85%A7%23" target="weibo">
 47岁河智苑近照（热度：502208）
 </a>
@@ -3357,6 +3381,12 @@ WTT大满贯取消强制参赛（热度：498839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%91%E5%8A%A8%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%A4%9C%E8%A2%AD%23" target="weibo">
+俄罗斯发动最大规模夜袭（热度：486490）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%96%E4%BB%87%E6%9D%91%E7%99%BE%E4%BD%99%E5%B9%B4%E4%BA%92%E4%B8%8D%E5%BE%80%E6%9D%A5%E4%B8%8D%E9%80%9A%E5%A9%9A%23" target="weibo">
 两世仇村百余年互不往来不通婚（热度：485743）
 </a>
@@ -3435,6 +3465,12 @@ WTT大满贯取消强制参赛（热度：498839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E8%BD%A6%E9%9D%A2%E8%AF%95%E8%A2%AB%E5%A5%B3%E5%8F%B8%E6%9C%BA%E9%80%81%E8%BF%9B%E6%B9%96%E9%87%8C%23" target="weibo">
+男子打车面试被女司机送进湖里（热度：478977）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E5%8F%A3%E7%A2%91%E6%81%90%E6%80%96%E5%A6%82%E6%96%AF%23" target="weibo">
 藏海口碑恐怖如斯（热度：477231）
 </a>
@@ -3497,6 +3533,12 @@ IU车银优双人cha（热度：474153）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%B6%E9%9B%AA%E6%BC%AB%E9%80%89%E8%A7%92%E6%B1%82%E5%8A%A9%23" target="weibo">
 饶雪漫选角求助（热度：471749）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E6%99%92labubu%E5%93%AD%E5%A8%83%23" target="weibo">
+舒淇晒labubu哭娃（热度：471748）
 </a>
 </li>
 
@@ -4481,6 +4523,12 @@ WE对战JDG（热度：395870）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%99%E5%8C%BB3%E5%B9%B4%E5%89%8D%E9%A2%84%E8%AD%A6%E9%9F%A6%E4%B8%9C%E5%A5%95%E7%89%99%E5%91%A8%E5%8D%B1%E6%9C%BA%E6%88%90%E7%9C%9F%23" target="weibo">
 牙医3年前预警韦东奕牙周危机成真（热度：381034）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%8B%E6%8B%89%E6%81%8B%E4%BA%BA%E5%88%B6%E7%89%87%E4%BA%BA%E8%BD%AC%E5%8F%91%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
+克拉恋人制片人转发迪丽热巴（热度：380550）
 </a>
 </li>
 
@@ -5661,6 +5709,12 @@ JDG对战TTG（热度：324205）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E4%BA%A8%E9%80%80%E4%BC%8D%23" target="weibo">
+金泰亨退伍（热度：309196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23F4%E5%B0%86%E5%90%88%E4%BD%93%23" target="weibo">
 F4将合体（热度：309122）
 </a>
@@ -5747,6 +5801,12 @@ BLACKPINK将于今年下半年正式回归（热度：305937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AE%9A%E5%9C%A86%E6%9C%887%E6%97%A5%E5%92%8C8%E6%97%A5%23" target="weibo">
 高考为什么要定在6月7日和8日（热度：304240）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2370%E5%B2%81%E4%BB%BB%E8%BE%BE%E5%8D%8E%E5%9B%9E%E5%B1%B1%E4%B8%9C%E8%80%81%E5%AE%B6%E6%94%B6%E9%BA%A6%E5%AD%90%23" target="weibo">
+70岁任达华回山东老家收麦子（热度：303815）
 </a>
 </li>
 
@@ -5951,66 +6011,6 @@ VOGUE直播（热度：299123）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9A%84%E5%8F%A3%E7%A2%91%23" target="weibo">
 肖战的口碑（热度：293076）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E7%89%B9%E6%9C%97%E6%99%AE%E5%BA%94%E8%AF%A5%E8%A2%AB%E5%BC%B9%E5%8A%BE%23" target="weibo">
-马斯克说特朗普应该被弹劾（热度：292767）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AE%9D2%23" target="weibo">
-男宝2（热度：292155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%8E%8B%E5%AE%89%E5%AE%87%E6%9B%BE%E9%BB%8E%E6%BC%94%E6%AF%8D%E5%AD%90%E7%9A%84%E7%AE%80%E7%9B%B4%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
-让王安宇曾黎演母子的简直是天才（热度：291545）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E5%BE%81%E5%A9%9A%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%BE%AE%E4%BF%A1%E8%A2%AB%E5%8A%A0%E7%88%86%23" target="weibo">
-龙舟征婚小伙称微信被加爆（热度：291410）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%93%B6%E9%82%AA%23" target="weibo">
-瓶邪（热度：291250）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AD%A6%E8%AF%B4%E4%BD%A0%E5%83%8F%E9%A9%AC%E5%98%89%E7%A5%BA%E4%BD%A0%E8%BF%98%E7%9C%9F%E5%BD%93%E7%9C%9F%E4%BA%86%23" target="weibo">
-同学说你像马嘉祺你还真当真了（热度：291084）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E7%A7%91%E5%A4%A7%E5%B7%B2%E5%8F%96%E5%BD%95%E4%B8%A4%E4%BD%8D%E5%93%88%E4%BD%9B%E8%BD%AC%E6%A0%A1%E7%94%9F%23" target="weibo">
-港科大已取录两位哈佛转校生（热度：290580）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BW%23" target="weibo">
-BW（热度：290283）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A1%AE%E8%AE%A4%E5%8F%82%E5%8A%A02025%E4%B9%92%E8%B6%85%E8%81%94%E8%B5%9B%23" target="weibo">
-樊振东确认参加2025乒超联赛（热度：289671）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%BB%84%E5%AD%90%E9%9F%AC%20%E8%8A%92%E6%9E%9C%E5%90%8C%E5%8F%B0%23" target="weibo">
-张艺兴黄子韬 芒果同台（热度：289471）
 </a>
 </li>
 
