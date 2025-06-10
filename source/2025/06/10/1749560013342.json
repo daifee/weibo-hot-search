@@ -1,0 +1,410 @@
+{
+  "runTime": 1749560013342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1107305,
+        "num": 1177168,
+        "word": "温州大桥车祸19岁摩托车手坠海身亡",
+        "onboard_time": 1749557481,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723855,
+        "num": 723855,
+        "word": "袁记云饺门店回应肉馅有小虫爬",
+        "onboard_time": 1749554301,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37017,
+        "num": 716095,
+        "word": "中国时尚产业盛典",
+        "onboard_time": 1749556760,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 714316,
+        "num": 714316,
+        "word": "百万网红大头突发疾病离世",
+        "onboard_time": 1749555922,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 672753,
+        "num": 672753,
+        "word": "鹿晗抢票",
+        "onboard_time": 1749553820,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 509997,
+        "num": 509997,
+        "word": "韦东奕近期在数学顶级期刊发文",
+        "onboard_time": 1749555440,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 430753,
+        "num": 430753,
+        "word": "女孩荡秋千坠河去世秋千安装者被判担责",
+        "onboard_time": 1749557180,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364138,
+        "num": 424101,
+        "word": "唐嫣方曾回应迟到一个月未进组",
+        "onboard_time": 1749549142,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222769,
+        "num": 421428,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76211,
+        "num": 420044,
+        "word": "韦东奕舆论喧嚣之外其实专注学术",
+        "onboard_time": 1749559402,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 419783,
+        "num": 419783,
+        "word": "爸爸的朋友不知道他去世提排骨找他",
+        "onboard_time": 1749554421,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390588,
+        "num": 390588,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1749545362,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306928,
+        "num": 306928,
+        "word": "Red女团韩国初舞台",
+        "onboard_time": 1749556401,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91182,
+        "num": 306692,
+        "word": "王楚钦2天4场全部3比0",
+        "onboard_time": 1749559582,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33603,
+        "num": 306658,
+        "word": "有商家卖清华空气北大校内土",
+        "onboard_time": 1749559101,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306624,
+        "num": 306624,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224843,
+        "num": 304874,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1749540922,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62149,
+        "num": 298911,
+        "word": "为何越来越多人聊天时不喜欢用标点",
+        "onboard_time": 1749558681,
+        "rank": 17,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 81177,
+        "num": 296772,
+        "word": "尾随女童进出电梯男子已被抓获",
+        "onboard_time": 1749558201,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89357,
+        "num": 293449,
+        "word": "一斤小龙虾从40元跌到15元",
+        "onboard_time": 1749559041,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233699,
+        "num": 285815,
+        "word": "国足半场0比0巴林",
+        "onboard_time": 1749558621,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217645,
+        "num": 285124,
+        "word": "18位待爆生",
+        "onboard_time": 1749558921,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204155,
+        "num": 280233,
+        "word": "王安宇请立刻离开广东",
+        "onboard_time": 1749546383,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204934,
+        "num": 276816,
+        "word": "李一桐有自己的Gaga扇子",
+        "onboard_time": 1749559702,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54452,
+        "num": 268928,
+        "word": "浙大教授谈心理学文理交融",
+        "onboard_time": 1749559402,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104463,
+        "num": 265731,
+        "word": "男子玩密室逃脱撞上桌子十级伤残",
+        "onboard_time": 1749557662,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615737,
+        "num": 263031,
+        "word": "原来排卵期一直都在被误解",
+        "onboard_time": 1749541822,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70820,
+        "num": 255857,
+        "word": "一汽丰田董修惠谈bZ5合资新力量",
+        "onboard_time": 1749557781,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 13913,
+        "num": 251954,
+        "word": "美国派更多军警镇压洛杉矶骚乱",
+        "onboard_time": 1749559402,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26403,
+        "num": 247535,
+        "word": "医生回应女子质疑拆线器械未消毒",
+        "onboard_time": 1749559462,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201454,
+        "num": 245573,
+        "word": "鹿晗抢票难度地狱级别",
+        "onboard_time": 1749559521,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341598,
+        "num": 242513,
+        "word": "初代Labubu被108万拍卖成交",
+        "onboard_time": 1749557001,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 238631,
+        "num": 238631,
+        "word": "球迷场外喊话王钰栋2030一定进",
+        "onboard_time": 1749558861,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215422,
+        "num": 215422,
+        "word": "女孩漂流遭男子高压水枪攻击致失明",
+        "onboard_time": 1749540380,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19581,
+        "num": 206277,
+        "word": "律师称高压水枪伤眼景区或需担责",
+        "onboard_time": 1749559881,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205302,
+        "num": 205302,
+        "word": "山姆客服称坚果有蠕虫不是个例",
+        "onboard_time": 1749551301,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177150,
+        "num": 177150,
+        "word": "男子吃见手青中毒一直帮凤凰捋毛",
+        "onboard_time": 1749559402,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173946,
+        "num": 173946,
+        "word": "女孩遭高压水枪击伤眼睛涉事男子已找到",
+        "onboard_time": 1749558021,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162350,
+        "num": 162350,
+        "word": "洛杉矶市中心彻底疯了",
+        "onboard_time": 1749541761,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148965,
+        "num": 148965,
+        "word": "JOY朴秀荣开球",
+        "onboard_time": 1749558981,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148530,
+        "num": 148530,
+        "word": "星穹铁道悼亡",
+        "onboard_time": 1749558801,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122592,
+        "num": 141984,
+        "word": "林高远3比0薛飞",
+        "onboard_time": 1749558320,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138538,
+        "num": 138538,
+        "word": "有我微信和微博的女孩",
+        "onboard_time": 1749559702,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132026,
+        "num": 132026,
+        "word": "山姆会员说坚果里有活体虫子",
+        "onboard_time": 1749554780,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125697,
+        "num": 125697,
+        "word": "台网红馆长说看看谁在说谎",
+        "onboard_time": 1749559702,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80743,
+        "num": 120708,
+        "word": "徐海东vs林诗栋",
+        "onboard_time": 1749559582,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118287,
+        "num": 118287,
+        "word": "10岁女孩公园荡网红秋千坠河去世",
+        "onboard_time": 1749559941,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117160,
+        "num": 117160,
+        "word": "舒淇也在追长安的荔枝",
+        "onboard_time": 1749559822,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114108,
+        "num": 114108,
+        "word": "樊振东沉浸式观战队友",
+        "onboard_time": 1749559822,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113729,
+        "num": 113729,
+        "word": "王楚钦连跳了4个wave",
+        "onboard_time": 1749553820,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同韩国总统李在明通电话#"
+    }
+  }
+}
