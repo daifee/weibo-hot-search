@@ -1,0 +1,410 @@
+{
+  "runTime": 1749538286851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1219082,
+        "num": 1219082,
+        "word": "iOS26 丑",
+        "onboard_time": 1749526461,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 985195,
+        "num": 985195,
+        "word": "刘亦菲陈晓 咸雪",
+        "onboard_time": 1749534201,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21787,
+        "num": 918188,
+        "word": "2025中国网络文明大会来了",
+        "onboard_time": 1749518781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 878426,
+        "num": 878426,
+        "word": "黄杨钿甜删除多条内容",
+        "onboard_time": 1749537080,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668447,
+        "num": 668447,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 465384,
+        "num": 622722,
+        "word": "高考后张桂梅又一次躲到门后",
+        "onboard_time": 1749532881,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 704171,
+        "num": 621657,
+        "word": "韦雪自曝经济紧张",
+        "onboard_time": 1749534980,
+        "rank": 6,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 602415,
+        "num": 602415,
+        "word": "苹果 卓里卓气",
+        "onboard_time": 1749535159,
+        "rank": 7,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 474335,
+        "num": 474335,
+        "word": "导演回应藏海传第二季",
+        "onboard_time": 1749532520,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139032,
+        "num": 423174,
+        "word": "多个商家售卖北京大学未名湖湖水",
+        "onboard_time": 1749536539,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709425,
+        "num": 414919,
+        "word": "A股",
+        "onboard_time": 1749533841,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 394056,
+        "num": 394056,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349130,
+        "num": 349130,
+        "word": "洛杉矶警方承认局面已失控",
+        "onboard_time": 1749519441,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18079,
+        "num": 345509,
+        "word": "加州高铁17年花160亿一条轨道没铺",
+        "onboard_time": 1749537862,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113827,
+        "num": 345290,
+        "word": "72岁老人家中清出近1吨废品",
+        "onboard_time": 1749537080,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345088,
+        "num": 345088,
+        "word": "披荆斩棘5首期录制",
+        "onboard_time": 1749533782,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317140,
+        "num": 317140,
+        "word": "洛杉矶冲突",
+        "onboard_time": 1749525681,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 293580,
+        "num": 293580,
+        "word": "林峯老婆晒满柜labubu",
+        "onboard_time": 1749528322,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271612,
+        "num": 271612,
+        "word": "李诚儒撕掉节目组规则不淘汰学员",
+        "onboard_time": 1749537261,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29885,
+        "num": 251561,
+        "word": "出现感冒症状何时该去医院",
+        "onboard_time": 1749537080,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 400382,
+        "num": 250705,
+        "word": "月薪3700三年存了6万块",
+        "onboard_time": 1749537022,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245774,
+        "num": 245774,
+        "word": "美国发现13具尸体疑连环杀手作案",
+        "onboard_time": 1749480802,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226298,
+        "num": 226298,
+        "word": "两夫妻各住一套房是什么体验",
+        "onboard_time": 1749526101,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217929,
+        "num": 217929,
+        "word": "Labubu 魔童",
+        "onboard_time": 1749523821,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 214851,
+        "num": 214851,
+        "word": "中韩元首通电话",
+        "onboard_time": 1749530601,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196502,
+        "num": 196502,
+        "word": "为什么恋爱谈久了很难结婚",
+        "onboard_time": 1749534679,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192748,
+        "num": 192748,
+        "word": "刘宇宁出发罗马",
+        "onboard_time": 1749537862,
+        "rank": 26,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 183537,
+        "num": 183537,
+        "word": "光与夜之恋万达",
+        "onboard_time": 1749536301,
+        "rank": 27,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 177836,
+        "num": 177836,
+        "word": "麻花特开心一看全是沈腾的兵",
+        "onboard_time": 1749537319,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176729,
+        "num": 176729,
+        "word": "导演说肖战真的很爱藏海",
+        "onboard_time": 1749535701,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161270,
+        "num": 161270,
+        "word": "王楚钦说林昀儒尽力了",
+        "onboard_time": 1749536720,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159431,
+        "num": 159431,
+        "word": "李晟成团后芒果台首秀",
+        "onboard_time": 1749536180,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158847,
+        "num": 158847,
+        "word": "赴山海双轨书卷一梦上线通知",
+        "onboard_time": 1749533300,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154597,
+        "num": 154597,
+        "word": "悟出了面试通过的一个底层逻辑",
+        "onboard_time": 1749534380,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149854,
+        "num": 149854,
+        "word": "北大回应商家售卖未名湖湖水",
+        "onboard_time": 1749534560,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135563,
+        "num": 135563,
+        "word": "考辛斯与球迷发生冲突",
+        "onboard_time": 1749537621,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13194,
+        "num": 134780,
+        "word": "马斯克有意修复与特朗普的关系",
+        "onboard_time": 1749538161,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134711,
+        "num": 134711,
+        "word": "当爸爸过父亲节",
+        "onboard_time": 1749537681,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49902,
+        "num": 129918,
+        "word": "胡锡进称特朗普打响最狠战争",
+        "onboard_time": 1749537319,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74036,
+        "num": 127346,
+        "word": "王楚钦vs黄镇廷",
+        "onboard_time": 1749537441,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126667,
+        "num": 126667,
+        "word": "上海地产vs安徽中程",
+        "onboard_time": 1749536720,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125672,
+        "num": 125672,
+        "word": "王晓彤3比0钱天一",
+        "onboard_time": 1749533841,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121683,
+        "num": 121683,
+        "word": "李木戈景甜张彬彬开机同框",
+        "onboard_time": 1749530542,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118546,
+        "num": 118546,
+        "word": "iOS26",
+        "onboard_time": 1749534921,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117989,
+        "num": 117989,
+        "word": "金泰亨直播状态",
+        "onboard_time": 1749537980,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117535,
+        "num": 117535,
+        "word": "克拉恋人制片人转发迪丽热巴",
+        "onboard_time": 1749519321,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113449,
+        "num": 113449,
+        "word": "圣枪哥 打了十年第一次要去MSI了",
+        "onboard_time": 1749531803,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111771,
+        "num": 111771,
+        "word": "王楚钦这个救球太精彩了",
+        "onboard_time": 1749534081,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104415,
+        "num": 104415,
+        "word": "范丞丞害怕玩梗玩不过沈腾",
+        "onboard_time": 1749534860,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102738,
+        "num": 102738,
+        "word": "iOS26 立体照片",
+        "onboard_time": 1749538100,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#首个文明对话国际日#"
+    }
+  }
+}

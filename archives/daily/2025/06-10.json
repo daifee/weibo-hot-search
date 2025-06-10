@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749537434532,
+  "endTime": 1749538286851,
   "band_list": [
     {
       "raw_hot": 2232988,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1322395,
-      "num": 232334,
+      "num": 414919,
       "word": "A股",
       "onboard_time": 1749533841,
       "rank": 11,
@@ -81,6 +81,14 @@
       "onboard_time": 1749523821,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 878426,
+      "num": 878426,
+      "word": "黄杨钿甜删除多条内容",
+      "onboard_time": 1749537080,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 844001,
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 602415,
+      "num": 602415,
+      "word": "苹果 卓里卓气",
+      "onboard_time": 1749535159,
+      "rank": 6,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 582392,
       "num": 582392,
       "word": "川美爆火毕业作品祷已售出",
@@ -225,14 +241,6 @@
       "onboard_time": 1749503834,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 505171,
-      "num": 505171,
-      "word": "苹果 卓里卓气",
-      "onboard_time": 1749535159,
-      "rank": 6,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 499618,
@@ -275,6 +283,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 465384,
+      "num": 622722,
+      "word": "高考后张桂梅又一次躲到门后",
+      "onboard_time": 1749532881,
+      "rank": 16,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 465188,
       "num": 710127,
       "word": "蒋一侨回应香飘飘千金标签",
@@ -307,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 431227,
-      "num": 563614,
-      "word": "高考后张桂梅又一次躲到门后",
-      "onboard_time": 1749532881,
-      "rank": 16,
-      "category": "民生新闻,教育"
+      "raw_hot": 400382,
+      "num": 250705,
+      "word": "月薪3700三年存了6万块",
+      "onboard_time": 1749537022,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 398436,
@@ -321,6 +337,14 @@
       "onboard_time": 1749522020,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 394056,
+      "num": 394056,
+      "word": "制片人曝唐嫣迟到一个月未进组",
+      "onboard_time": 1749537740,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 378173,
@@ -379,6 +403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345088,
+      "num": 345088,
+      "word": "披荆斩棘5首期录制",
+      "onboard_time": 1749533782,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338754,
       "num": 338754,
       "word": "马丽问沈腾是不是想换搭档",
@@ -409,14 +441,6 @@
       "onboard_time": 1749525501,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 310462,
-      "num": 206748,
-      "word": "月薪3700三年存了6万块",
-      "onboard_time": 1749537022,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309227,
@@ -467,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 276886,
-      "num": 334139,
-      "word": "披荆斩棘5首期录制",
-      "onboard_time": 1749533782,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275545,
       "num": 275545,
       "word": "燃气公司招北大毕业生当抄表工",
@@ -505,6 +521,14 @@
       "onboard_time": 1749529221,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 271612,
+      "num": 271612,
+      "word": "李诚儒撕掉节目组规则不淘汰学员",
+      "onboard_time": 1749537261,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 268674,
@@ -617,14 +641,6 @@
       "onboard_time": 1749512661,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 227059,
-      "num": 227059,
-      "word": "黄杨钿甜删除多条内容",
-      "onboard_time": 1749537080,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 224563,
@@ -787,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192748,
+      "num": 192748,
+      "word": "刘宇宁出发罗马",
+      "onboard_time": 1749537862,
+      "rank": 26,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 191625,
       "num": 191625,
       "word": "导演说肖战真的很爱藏海",
@@ -865,6 +889,14 @@
       "onboard_time": 1749532881,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177836,
+      "num": 177836,
+      "word": "麻花特开心一看全是沈腾的兵",
+      "onboard_time": 1749537319,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 173983,
@@ -1011,6 +1043,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 161270,
+      "num": 161270,
+      "word": "王楚钦说林昀儒尽力了",
+      "onboard_time": 1749536720,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161096,
       "num": 161096,
       "word": "折腰回门宴全记录",
@@ -1091,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154597,
+      "num": 154597,
+      "word": "悟出了面试通过的一个底层逻辑",
+      "onboard_time": 1749534380,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152439,
       "num": 152439,
       "word": "迪丽热巴满眼都是对身高的渴望",
@@ -1105,22 +1153,6 @@
       "onboard_time": 1749486379,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 151217,
-      "num": 151217,
-      "word": "王楚钦说林昀儒尽力了",
-      "onboard_time": 1749536720,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 148538,
-      "num": 148538,
-      "word": "李诚儒撕掉节目组规则不淘汰学员",
-      "onboard_time": 1749537261,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 146810,
@@ -1204,7 +1236,7 @@
     },
     {
       "raw_hot": 141328,
-      "num": 141328,
+      "num": 423174,
       "word": "多个商家售卖北京大学未名湖湖水",
       "onboard_time": 1749536539,
       "rank": 34,
@@ -1243,20 +1275,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 135563,
+      "num": 135563,
+      "word": "考辛斯与球迷发生冲突",
+      "onboard_time": 1749537621,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134711,
+      "num": 134711,
+      "word": "当爸爸过父亲节",
+      "onboard_time": 1749537681,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134638,
       "num": 134638,
       "word": "梁家辉60多岁了气血咋还这么足",
       "onboard_time": 1749535941,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134616,
-      "num": 133711,
-      "word": "悟出了面试通过的一个底层逻辑",
-      "onboard_time": 1749534380,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 134484,
@@ -1403,20 +1443,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117989,
+      "num": 117989,
+      "word": "金泰亨直播状态",
+      "onboard_time": 1749537980,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117210,
       "num": 156033,
       "word": "王楚钦这个救球太精彩了",
       "onboard_time": 1749534081,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117127,
-      "num": 117127,
-      "word": "麻花特开心一看全是沈腾的兵",
-      "onboard_time": 1749537319,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 115891,
@@ -1441,6 +1481,14 @@
       "onboard_time": 1749523281,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 113827,
+      "num": 345290,
+      "word": "72岁老人家中清出近1吨废品",
+      "onboard_time": 1749537080,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113613,
@@ -1513,6 +1561,14 @@
       "onboard_time": 1749483501,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102738,
+      "num": 102738,
+      "word": "iOS26 立体照片",
+      "onboard_time": 1749538100,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 102435,
@@ -1691,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77792,
-      "num": 207578,
-      "word": "72岁老人家中清出近1吨废品",
-      "onboard_time": 1749537080,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77083,
       "num": 77083,
       "word": "刘亦菲李沁中间这位女士",
@@ -1745,6 +1793,14 @@
       "onboard_time": 1749482661,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74036,
+      "num": 127346,
+      "word": "王楚钦vs黄镇廷",
+      "onboard_time": 1749537441,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 72886,
@@ -1899,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49902,
+      "num": 134502,
+      "word": "胡锡进称特朗普打响最狠战争",
+      "onboard_time": 1749537319,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48482,
       "num": 101236,
       "word": "直击中美经贸磋商机制首次会议",
@@ -1955,14 +2019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 36064,
-      "num": 134502,
-      "word": "胡锡进称特朗普打响最狠战争",
-      "onboard_time": 1749537319,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33959,
       "num": 388381,
       "word": "陈建斌蒋勤勤官宣微博电影之夜",
@@ -1993,6 +2049,14 @@
       "onboard_time": 1749533360,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29885,
+      "num": 251561,
+      "word": "出现感冒症状何时该去医院",
+      "onboard_time": 1749537080,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 28871,
@@ -2033,14 +2097,6 @@
       "onboard_time": 1749534860,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 26897,
-      "num": 207349,
-      "word": "出现感冒症状何时该去医院",
-      "onboard_time": 1749537080,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 25690,
@@ -2115,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18079,
+      "num": 345509,
+      "word": "加州高铁17年花160亿一条轨道没铺",
+      "onboard_time": 1749537862,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16802,
       "num": 165561,
       "word": "知名语音直播平台上市前被控涉赌",
@@ -2176,6 +2240,14 @@
       "word": "抗议者说派军队对付我们有必要吗",
       "onboard_time": 1749503054,
       "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13194,
+      "num": 134780,
+      "word": "马斯克有意修复与特朗普的关系",
+      "onboard_time": 1749538161,
+      "rank": 36,
       "category": "国际时政"
     },
     {
