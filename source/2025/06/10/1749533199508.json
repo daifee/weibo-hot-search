@@ -1,0 +1,410 @@
+{
+  "runTime": 1749533199508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1588495,
+        "num": 1588495,
+        "word": "iOS26 丑",
+        "onboard_time": 1749526461,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 733818,
+        "num": 733818,
+        "word": "洛杉矶冲突",
+        "onboard_time": 1749525681,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23025,
+        "num": 606322,
+        "word": "2025中国网络文明大会来了",
+        "onboard_time": 1749518781,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583054,
+        "num": 583054,
+        "word": "两夫妻各住一套房是什么体验",
+        "onboard_time": 1749526101,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 367068,
+        "num": 367068,
+        "word": "Labubu 魔童",
+        "onboard_time": 1749523821,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 356103,
+        "num": 356103,
+        "word": "美国发现13具尸体疑连环杀手作案",
+        "onboard_time": 1749480802,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251801,
+        "num": 346701,
+        "word": "导演回应藏海传第二季",
+        "onboard_time": 1749532520,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338754,
+        "num": 338754,
+        "word": "马丽问沈腾是不是想换搭档",
+        "onboard_time": 1749531141,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324371,
+        "num": 338260,
+        "word": "男子怕兄弟耽误婚礼报警谎称嫖娼",
+        "onboard_time": 1749525022,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255854,
+        "num": 337728,
+        "word": "蒋一侨回应香飘飘千金标签",
+        "onboard_time": 1749523701,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244266,
+        "num": 337633,
+        "word": "李木戈景甜张彬彬开机同框",
+        "onboard_time": 1749530542,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242129,
+        "num": 336924,
+        "word": "克拉恋人制片人转发迪丽热巴",
+        "onboard_time": 1749519321,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219591,
+        "num": 336590,
+        "word": "龙骨焚箱",
+        "onboard_time": 1749522740,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162859,
+        "num": 336026,
+        "word": "京东10000件家电1元捡漏拍",
+        "onboard_time": 1749528561,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68854,
+        "num": 335121,
+        "word": "洛杉矶警察向澳媒女记者开枪",
+        "onboard_time": 1749531442,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 362021,
+        "num": 334813,
+        "word": "苹果系统大一统",
+        "onboard_time": 1749527662,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124626,
+        "num": 334496,
+        "word": "高考后张桂梅又一次躲到门后",
+        "onboard_time": 1749532881,
+        "rank": 16,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 257263,
+        "num": 333547,
+        "word": "游行抗议已扩散到美国多地",
+        "onboard_time": 1749529221,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9640,
+        "num": 333532,
+        "word": "被司机送进湖里男生已顺利面试",
+        "onboard_time": 1749532940,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87990,
+        "num": 332952,
+        "word": "印度汽车业催政府申请中国稀土",
+        "onboard_time": 1749531981,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 737077,
+        "num": 332473,
+        "word": "林峯老婆晒满柜labubu",
+        "onboard_time": 1749528322,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419154,
+        "num": 331750,
+        "word": "洛杉矶警方承认局面已失控",
+        "onboard_time": 1749519441,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356036,
+        "num": 331040,
+        "word": "95后女子为求死砍死邻居已被执行死刑",
+        "onboard_time": 1749522441,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330944,
+        "num": 330944,
+        "word": "中韩元首通电话",
+        "onboard_time": 1749530601,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301959,
+        "num": 301959,
+        "word": "labubu芭莎盛典表演嘉宾",
+        "onboard_time": 1749531082,
+        "rank": 24,
+        "category": "时尚,动漫"
+      },
+      {
+        "raw_hot": 248142,
+        "num": 248142,
+        "word": "圣枪哥 打了十年第一次要去MSI了",
+        "onboard_time": 1749531803,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195200,
+        "num": 239598,
+        "word": "aespa三巡",
+        "onboard_time": 1749532400,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145960,
+        "num": 234619,
+        "word": "景甜张彬彬二搭龙骨焚箱",
+        "onboard_time": 1749523220,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233345,
+        "num": 233345,
+        "word": "王楚钦乒超第三个3比0",
+        "onboard_time": 1749532282,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208650,
+        "num": 208650,
+        "word": "中国首次试采就破纪录彩虹也来祝贺",
+        "onboard_time": 1749532701,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190074,
+        "num": 190074,
+        "word": "网红咖啡店老板厕所偷拍长达13年",
+        "onboard_time": 1749524959,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181047,
+        "num": 181047,
+        "word": "高考生在爆燃事故中遇难是谣言",
+        "onboard_time": 1749529584,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179790,
+        "num": 179790,
+        "word": "光与夜之恋",
+        "onboard_time": 1749532881,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141531,
+        "num": 175730,
+        "word": "赵丽颖2025瞩目影人",
+        "onboard_time": 1749530482,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78401,
+        "num": 174380,
+        "word": "神农架20个野人招聘群满员了",
+        "onboard_time": 1749533181,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173983,
+        "num": 173983,
+        "word": "山东生物",
+        "onboard_time": 1749531262,
+        "rank": 35,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 169927,
+        "num": 169927,
+        "word": "雷军将启动法律程序",
+        "onboard_time": 1749528082,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158204,
+        "num": 158204,
+        "word": "iOS26 液态玻璃",
+        "onboard_time": 1749528443,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158009,
+        "num": 158009,
+        "word": "原来胎教是真的有用",
+        "onboard_time": 1749530842,
+        "rank": 38,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 139701,
+        "num": 139701,
+        "word": "时尚芭莎阵容",
+        "onboard_time": 1749529642,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139378,
+        "num": 139378,
+        "word": "程潇给前任发信息被秒回",
+        "onboard_time": 1749472281,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129210,
+        "num": 129210,
+        "word": "苹果用户截图更完整了",
+        "onboard_time": 1749522441,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127917,
+        "num": 127917,
+        "word": "我将守着我的iOS17过一辈子",
+        "onboard_time": 1749530782,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56561,
+        "num": 122248,
+        "word": "徐奕钱天一3比2李雅可王晓彤",
+        "onboard_time": 1749532341,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121445,
+        "num": 121445,
+        "word": "尾鱼 龙骨焚箱",
+        "onboard_time": 1749532222,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120392,
+        "num": 120392,
+        "word": "马嘉祺自爆也有发疯时刻",
+        "onboard_time": 1749533181,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119862,
+        "num": 119862,
+        "word": "高考完染头",
+        "onboard_time": 1749532042,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119131,
+        "num": 119131,
+        "word": "KPL",
+        "onboard_time": 1749533119,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114506,
+        "num": 116402,
+        "word": "iOS26 安卓主题",
+        "onboard_time": 1749525501,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 57304,
+        "num": 116167,
+        "word": "汕头明润2比0先锋乒羽",
+        "onboard_time": 1749532400,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#首个文明对话国际日#"
+    }
+  }
+}
