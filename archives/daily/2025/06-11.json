@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749581423150,
+  "endTime": 1749583270331,
   "band_list": [
     {
       "raw_hot": 525352,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 252241,
-      "num": 31215,
+      "num": 39169,
       "word": "面瘫哥被捕",
       "onboard_time": 1749578836,
       "rank": 30,
@@ -451,6 +451,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41620,
+      "num": 41620,
+      "word": "校方回应高考前一天艺考生被撞病危",
+      "onboard_time": 1749581114,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37947,
+      "num": 45371,
+      "word": "美国加州街头变战场",
+      "onboard_time": 1749580395,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36125,
       "num": 36125,
       "word": "星穹铁道赛飞儿",
@@ -489,14 +505,6 @@
       "onboard_time": 1749546920,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20488,
-      "num": 45371,
-      "word": "美国加州街头变战场",
-      "onboard_time": 1749580395,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18321,

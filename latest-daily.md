@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/11 00:33:34 ~ 2025/06/11 02:50:23
+本榜单时间：2025/06/11 00:33:34 ~ 2025/06/11 03:21:10
 </p>
 </blockquote>
 <p>
@@ -351,6 +351,18 @@ Red女团韩国初舞台（热度：67540）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83%E5%89%8D%E4%B8%80%E5%A4%A9%E8%89%BA%E8%80%83%E7%94%9F%E8%A2%AB%E6%92%9E%E7%97%85%E5%8D%B1%23" target="weibo">
+校方回应高考前一天艺考生被撞病危（热度：41620）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E8%A1%97%E5%A4%B4%E5%8F%98%E6%88%98%E5%9C%BA%23" target="weibo">
+美国加州街头变战场（热度：37947）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E8%B5%9B%E9%A3%9E%E5%84%BF%23" target="weibo">
 星穹铁道赛飞儿（热度：36125）
 </a>
@@ -377,12 +389,6 @@ Red女团韩国初舞台（热度：67540）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B0%E5%A5%BD%E7%BD%91%E4%B8%8A%E7%BE%A4%E4%BC%97%E8%B7%AF%E7%BA%BF%E7%99%BE%E4%B8%AA%E6%88%90%E7%BB%A9%E7%AA%81%E5%87%BA%E8%B4%A6%E5%8F%B7%23" target="weibo">
 走好网上群众路线百个成绩突出账号（热度：21213）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E8%A1%97%E5%A4%B4%E5%8F%98%E6%88%98%E5%9C%BA%23" target="weibo">
-美国加州街头变战场（热度：20488）
 </a>
 </li>
 
