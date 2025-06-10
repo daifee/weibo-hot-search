@@ -1,0 +1,410 @@
+{
+  "runTime": 1749552386913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1017946,
+        "num": 1162871,
+        "word": "唐嫣方曾回应迟到一个月未进组",
+        "onboard_time": 1749549142,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619872,
+        "num": 619872,
+        "word": "女孩漂流遭男子高压水枪攻击致失明",
+        "onboard_time": 1749540380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59045,
+        "num": 596964,
+        "word": "走好网上群众路线百个成绩突出账号",
+        "onboard_time": 1749546920,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 577477,
+        "num": 577477,
+        "word": "陈梦回应400亿传闻",
+        "onboard_time": 1749546741,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400101,
+        "num": 400101,
+        "word": "全红婵推荐了单依纯李白",
+        "onboard_time": 1749550160,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340139,
+        "num": 340139,
+        "word": "杀妻灭子案当事人服刑完毕仍是被告",
+        "onboard_time": 1749547822,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337952,
+        "num": 337952,
+        "word": "只有减肥的人才知道她有多真诚",
+        "onboard_time": 1749545421,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322833,
+        "num": 322833,
+        "word": "台独分子被曝把台独当成一门生意",
+        "onboard_time": 1749549921,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316574,
+        "num": 316574,
+        "word": "空调开一天要多少电钱",
+        "onboard_time": 1749550281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595081,
+        "num": 316284,
+        "word": "王安宇请立刻离开广东",
+        "onboard_time": 1749546383,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291536,
+        "num": 315143,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1749540922,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229981,
+        "num": 312828,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185941,
+        "num": 312501,
+        "word": "临江仙",
+        "onboard_time": 1749551839,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90896,
+        "num": 311212,
+        "word": "重庆一男子小区内尾随女童进电梯",
+        "onboard_time": 1749545542,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143447,
+        "num": 309460,
+        "word": "王楚钦vs全开源",
+        "onboard_time": 1749551241,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148803,
+        "num": 307863,
+        "word": "王一博蓝色毛衣造型",
+        "onboard_time": 1749551600,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206618,
+        "num": 306687,
+        "word": "央音保安22岁考上南艺",
+        "onboard_time": 1749551241,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117750,
+        "num": 305753,
+        "word": "香飘飘八年陈奶茶还能喝吗",
+        "onboard_time": 1749549261,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184038,
+        "num": 304006,
+        "word": "山姆客服称坚果有蠕虫不是个例",
+        "onboard_time": 1749551301,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10958,
+        "num": 303456,
+        "word": "爱与被爱水象星座该如何选择",
+        "onboard_time": 1749551481,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 657347,
+        "num": 302187,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1749545362,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139953,
+        "num": 299987,
+        "word": "克拉恋人",
+        "onboard_time": 1749539302,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577671,
+        "num": 299054,
+        "word": "原来排卵期一直都在被误解",
+        "onboard_time": 1749541822,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 298306,
+        "num": 298306,
+        "word": "洛杉矶市中心彻底疯了",
+        "onboard_time": 1749541761,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292157,
+        "num": 292157,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207329,
+        "num": 207329,
+        "word": "Labubu 张飞",
+        "onboard_time": 1749538582,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148661,
+        "num": 206744,
+        "word": "汪藏海人设天花板再进化",
+        "onboard_time": 1749552082,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143163,
+        "num": 206594,
+        "word": "刘亦菲陈晓 咸雪",
+        "onboard_time": 1749534201,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206512,
+        "num": 206512,
+        "word": "男子毒杀年幼子女后自杀未遂被刑拘",
+        "onboard_time": 1749546562,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23580,
+        "num": 202115,
+        "word": "一辆皮卡为抗议者拉来大批装备",
+        "onboard_time": 1749552021,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201894,
+        "num": 201894,
+        "word": "中国双航母首次同时现身太平洋",
+        "onboard_time": 1749548241,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180392,
+        "num": 180392,
+        "word": "iOS26 丑",
+        "onboard_time": 1749526461,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159336,
+        "num": 159336,
+        "word": "因为工作太认真被改名了",
+        "onboard_time": 1749549800,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154112,
+        "num": 154112,
+        "word": "泡泡玛特",
+        "onboard_time": 1749544640,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148590,
+        "num": 148590,
+        "word": "儿子带已故妈妈照片一起参加高考",
+        "onboard_time": 1749550281,
+        "rank": 34,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 136549,
+        "num": 136549,
+        "word": "苹果 卓里卓气",
+        "onboard_time": 1749535159,
+        "rank": 35,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 133352,
+        "num": 133352,
+        "word": "国足vs巴林首发",
+        "onboard_time": 1749550580,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132282,
+        "num": 132282,
+        "word": "洛杉矶纽约之后得州也乱了",
+        "onboard_time": 1749549081,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128114,
+        "num": 128114,
+        "word": "THEBOYZ抽烟",
+        "onboard_time": 1749547582,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31053,
+        "num": 123704,
+        "word": "祛湿不伤身小方法",
+        "onboard_time": 1749551301,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120338,
+        "num": 120338,
+        "word": "筷子兄弟变筷子父子",
+        "onboard_time": 1749544940,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115646,
+        "num": 115646,
+        "word": "朱丹选人被连续拒绝急眼了",
+        "onboard_time": 1749548841,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109899,
+        "num": 109899,
+        "word": "日啖荔枝三百颗可能会丧命",
+        "onboard_time": 1749546682,
+        "rank": 42,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 109383,
+        "num": 109383,
+        "word": "连救5人小伙说以为再也没法尽孝了",
+        "onboard_time": 1749552200,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109204,
+        "num": 109204,
+        "word": "为什么存款越多却越不舍得花钱",
+        "onboard_time": 1749546261,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106513,
+        "num": 106513,
+        "word": "林里回应高考生买奶茶收到59分鸭子",
+        "onboard_time": 1749548421,
+        "rank": 45,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 104099,
+        "num": 104099,
+        "word": "让宋雨琦叶舒华穿汉服的简直是天才",
+        "onboard_time": 1749545481,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101169,
+        "num": 101169,
+        "word": "再好的情侣三观不合也不行",
+        "onboard_time": 1749552321,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100586,
+        "num": 100586,
+        "word": "桐心薇泯",
+        "onboard_time": 1749552321,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97480,
+        "num": 97480,
+        "word": "山东地理",
+        "onboard_time": 1749547880,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同韩国总统李在明通电话#"
+    }
+  }
+}
