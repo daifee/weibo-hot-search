@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749574178596,
+  "endTime": 1749576204310,
   "band_list": [
     {
       "raw_hot": 525352,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272571,
+      "num": 182428,
+      "word": "那尔那茜本科毕业后留学3年",
+      "onboard_time": 1749571820,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251971,
       "num": 251971,
       "word": "国足不是最后一名",
@@ -131,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168283,
-      "num": 155928,
-      "word": "那尔那茜本科毕业后留学3年",
-      "onboard_time": 1749571820,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168073,
       "num": 168073,
       "word": "黄晓明47岁身材管理",
@@ -153,6 +153,14 @@
       "onboard_time": 1749557481,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153152,
+      "num": 131202,
+      "word": "程潇自曝经常拉黑别人",
+      "onboard_time": 1749573858,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 151375,
@@ -265,14 +273,6 @@
       "onboard_time": 1749569781,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98953,
-      "num": 98953,
-      "word": "程潇自曝经常拉黑别人",
-      "onboard_time": 1749573858,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 97658,
@@ -403,10 +403,34 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 45097,
+      "num": 45097,
+      "word": "美抗议者问难道这就是MAGA",
+      "onboard_time": 1749574458,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43889,
       "num": 208839,
       "word": "在泰国防部受接待2男子为网红",
       "onboard_time": 1749572599,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38983,
+      "num": 42127,
+      "word": "黄圣依程潇谈是否接受婚前同居",
+      "onboard_time": 1749575957,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 27977,
+      "num": 110238,
+      "word": "文旅局回应女孩遭男子水枪攻击失明",
+      "onboard_time": 1749575296,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -430,6 +454,9 @@
   "hotgov_list": [
     {
       "word": "#总书记高度重视网络文明建设#"
+    },
+    {
+      "word": "#中韩应坚定睦邻友好方向#"
     }
   ]
 }
