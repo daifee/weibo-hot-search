@@ -1,0 +1,410 @@
+{
+  "runTime": 1749548582918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 957599,
+        "num": 1153215,
+        "word": "陈梦回应400亿传闻",
+        "onboard_time": 1749546741,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 887913,
+        "num": 887913,
+        "word": "女孩漂流遭男子高压水枪攻击致失明",
+        "onboard_time": 1749540380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81511,
+        "num": 752071,
+        "word": "走好网上群众路线百个成绩突出账号",
+        "onboard_time": 1749546920,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 749696,
+        "num": 749696,
+        "word": "唐嫣方发律师声明",
+        "onboard_time": 1749546081,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361670,
+        "num": 361670,
+        "word": "iOS26 丑",
+        "onboard_time": 1749526461,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 250580,
+        "num": 250580,
+        "word": "Labubu 张飞",
+        "onboard_time": 1749538582,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 471663,
+        "num": 250362,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1749540922,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249331,
+        "num": 249331,
+        "word": "筷子兄弟变筷子父子",
+        "onboard_time": 1749544940,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 628319,
+        "num": 248718,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31212,
+        "num": 246572,
+        "word": "失控的高压水枪玩具有多危险",
+        "onboard_time": 1749547701,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210472,
+        "num": 245740,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48361,
+        "num": 242423,
+        "word": "白雪公主好气色的秘密",
+        "onboard_time": 1749544523,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34271,
+        "num": 242229,
+        "word": "6块钱干扣面算不算宴请需权威解答",
+        "onboard_time": 1749548122,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35624,
+        "num": 239791,
+        "word": "医生建议玩漂流时戴护目镜",
+        "onboard_time": 1749548122,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99486,
+        "num": 237535,
+        "word": "杀妻灭子案当事人服刑完毕仍是被告",
+        "onboard_time": 1749547822,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 851749,
+        "num": 236374,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1749545362,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 671874,
+        "num": 233882,
+        "word": "洛杉矶市中心彻底疯了",
+        "onboard_time": 1749541761,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304591,
+        "num": 233405,
+        "word": "只有减肥的人才知道她有多真诚",
+        "onboard_time": 1749545421,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85521,
+        "num": 231311,
+        "word": "近视手术后的视力可以维持多久",
+        "onboard_time": 1749546682,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36863,
+        "num": 228556,
+        "word": "母亲含泪回应儿子连救5人后昏迷",
+        "onboard_time": 1749547641,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 185449,
+        "num": 228415,
+        "word": "用藏海传打开高校招生简章",
+        "onboard_time": 1749548061,
+        "rank": 20,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 181718,
+        "num": 226678,
+        "word": "日啖荔枝三百颗可能会丧命",
+        "onboard_time": 1749546682,
+        "rank": 21,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 1241085,
+        "num": 223360,
+        "word": "原来排卵期一直都在被误解",
+        "onboard_time": 1749541822,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223339,
+        "num": 223339,
+        "word": "克拉恋人",
+        "onboard_time": 1749539302,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215019,
+        "num": 215019,
+        "word": "重庆一学生街头被老大爷用手铐铐住",
+        "onboard_time": 1749543022,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53056,
+        "num": 206417,
+        "word": "全国花式消暑大赏",
+        "onboard_time": 1749545061,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203953,
+        "num": 203953,
+        "word": "王安宇请立刻离开广东",
+        "onboard_time": 1749546383,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183856,
+        "num": 194796,
+        "word": "范玮琪合伙人肖然心曾是歌手观众",
+        "onboard_time": 1749547941,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51129,
+        "num": 192718,
+        "word": "记者直击洛杉矶中国城响起爆炸声",
+        "onboard_time": 1749546982,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38776,
+        "num": 191646,
+        "word": "激进分子将婴儿带到骚乱现场",
+        "onboard_time": 1749548361,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191287,
+        "num": 191287,
+        "word": "山东地理",
+        "onboard_time": 1749547880,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175620,
+        "num": 181881,
+        "word": "敖瑞鹏私闯周奇民宅",
+        "onboard_time": 1749541880,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180071,
+        "num": 180071,
+        "word": "泡泡玛特",
+        "onboard_time": 1749544640,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 176294,
+        "num": 176294,
+        "word": "男子毒杀年幼子女后自杀未遂被刑拘",
+        "onboard_time": 1749546562,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165087,
+        "num": 165087,
+        "word": "杜淳妻子晒整柜labubu",
+        "onboard_time": 1749541941,
+        "rank": 34,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 157391,
+        "num": 157391,
+        "word": "惊封广播剧破亿",
+        "onboard_time": 1749548122,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156998,
+        "num": 156998,
+        "word": "中国双航母首次同时现身太平洋",
+        "onboard_time": 1749548241,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155992,
+        "num": 155992,
+        "word": "THEBOYZ抽烟",
+        "onboard_time": 1749547582,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26154,
+        "num": 153119,
+        "word": "双胞胎男生走出考场朝老人磕头",
+        "onboard_time": 1749548241,
+        "rank": 38,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 59386,
+        "num": 152734,
+        "word": "职业选手的护照是一本写满遗憾的书",
+        "onboard_time": 1749548000,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152680,
+        "num": 152680,
+        "word": "为什么存款越多却越不舍得花钱",
+        "onboard_time": 1749546261,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153438,
+        "num": 151508,
+        "word": "面试保镖却和雇主成为姐妹",
+        "onboard_time": 1749547461,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145988,
+        "num": 145988,
+        "word": "导演回应藏海传第二季",
+        "onboard_time": 1749532520,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140168,
+        "num": 140168,
+        "word": "苹果 卓里卓气",
+        "onboard_time": 1749535159,
+        "rank": 43,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 138689,
+        "num": 138689,
+        "word": "林里回应高考生买奶茶收到59分鸭子",
+        "onboard_time": 1749548421,
+        "rank": 44,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 136737,
+        "num": 136737,
+        "word": "重庆一男子小区内尾随女童进电梯",
+        "onboard_time": 1749545542,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135408,
+        "num": 135408,
+        "word": "军书十二卷 卷卷有泽名",
+        "onboard_time": 1749545061,
+        "rank": 46,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 135277,
+        "num": 135277,
+        "word": "田曦薇双马尾蓬蓬裙",
+        "onboard_time": 1749543261,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128406,
+        "num": 128406,
+        "word": "69岁奶奶现场观看樊振东比赛",
+        "onboard_time": 1749548000,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118448,
+        "num": 118448,
+        "word": "火锅店偷用顾客手机给同行刷差评",
+        "onboard_time": 1749544162,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同韩国总统李在明通电话#"
+    }
+  }
+}

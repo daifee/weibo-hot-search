@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749547739989,
+  "endTime": 1749548582918,
   "band_list": [
     {
       "raw_hot": 2810225,
@@ -113,6 +113,14 @@
       "onboard_time": 1749523821,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 957599,
+      "num": 1153215,
+      "word": "陈梦回应400亿传闻",
+      "onboard_time": 1749546741,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 922974,
@@ -273,14 +281,6 @@
       "onboard_time": 1749518361,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 545379,
-      "num": 545379,
-      "word": "陈梦回应400亿传闻",
-      "onboard_time": 1749546741,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 544379,
@@ -699,6 +699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 249331,
+      "num": 249331,
+      "word": "筷子兄弟变筷子父子",
+      "onboard_time": 1749544940,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248142,
       "num": 248142,
       "word": "圣枪哥 打了十年第一次要去MSI了",
@@ -867,14 +875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206486,
-      "num": 221430,
-      "word": "筷子兄弟变筷子父子",
-      "onboard_time": 1749544940,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 206411,
       "num": 206411,
       "word": "洛杉矶中国城响起爆炸声",
@@ -889,6 +889,14 @@
       "onboard_time": 1749526041,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 203953,
+      "num": 203953,
+      "word": "王安宇请立刻离开广东",
+      "onboard_time": 1749546383,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 202827,
@@ -1003,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191287,
+      "num": 191287,
+      "word": "山东地理",
+      "onboard_time": 1749547880,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 191037,
       "num": 191037,
       "word": "黄景瑜想演39集半才被抓到的反派",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1749530182,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 189844,
-      "num": 189844,
-      "word": "王安宇请立刻离开广东",
-      "onboard_time": 1749546383,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 189657,
@@ -1067,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185449,
+      "num": 228415,
+      "word": "用藏海传打开高校招生简章",
+      "onboard_time": 1749548061,
+      "rank": 20,
+      "category": "剧集,教育"
+    },
+    {
       "raw_hot": 184216,
       "num": 184216,
       "word": "赵丽颖浪琴成都活动",
@@ -1083,12 +1099,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183856,
+      "num": 194796,
+      "word": "范玮琪合伙人肖然心曾是歌手观众",
+      "onboard_time": 1749547941,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183516,
       "num": 183516,
       "word": "陈乔恩阮经天雨中撑伞",
       "onboard_time": 1749540081,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181718,
+      "num": 280705,
+      "word": "日啖荔枝三百颗可能会丧命",
+      "onboard_time": 1749546682,
+      "rank": 9,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 181668,
@@ -1123,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180071,
+      "num": 180071,
+      "word": "泡泡玛特",
+      "onboard_time": 1749544640,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 179790,
       "num": 179790,
       "word": "光与夜之恋",
@@ -1137,6 +1177,14 @@
       "onboard_time": 1749537319,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176294,
+      "num": 266943,
+      "word": "男子毒杀年幼子女后自杀未遂被刑拘",
+      "onboard_time": 1749546562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173983,
@@ -1403,12 +1451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157391,
+      "num": 157391,
+      "word": "惊封广播剧破亿",
+      "onboard_time": 1749548122,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 157281,
       "num": 193949,
       "word": "王安宇壁纸",
       "onboard_time": 1749520401,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156998,
+      "num": 156998,
+      "word": "中国双航母首次同时现身太平洋",
+      "onboard_time": 1749548241,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156143,
@@ -1419,12 +1483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155992,
+      "num": 155992,
+      "word": "THEBOYZ抽烟",
+      "onboard_time": 1749547582,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154597,
       "num": 154597,
       "word": "悟出了面试通过的一个底层逻辑",
       "onboard_time": 1749534380,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153438,
+      "num": 151508,
+      "word": "面试保镖却和雇主成为姐妹",
+      "onboard_time": 1749547461,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 152439,
@@ -1457,14 +1537,6 @@
       "onboard_time": 1749543562,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148220,
-      "num": 148220,
-      "word": "泡泡玛特",
-      "onboard_time": 1749544640,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 146810,
@@ -1571,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138689,
+      "num": 138689,
+      "word": "林里回应高考生买奶茶收到59分鸭子",
+      "onboard_time": 1749548421,
+      "rank": 44,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 138461,
       "num": 138461,
       "word": "特朗普祝一切顺利马斯克回复红色爱心",
@@ -1611,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135408,
+      "num": 135408,
+      "word": "军书十二卷 卷卷有泽名",
+      "onboard_time": 1749545061,
+      "rank": 46,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 134711,
       "num": 134711,
       "word": "当爸爸过父亲节",
@@ -1633,14 +1721,6 @@
       "onboard_time": 1749536779,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134402,
-      "num": 280705,
-      "word": "日啖荔枝三百颗可能会丧命",
-      "onboard_time": 1749546682,
-      "rank": 9,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 133417,
@@ -1715,12 +1795,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 127411,
-      "num": 127411,
-      "word": "面试保镖却和雇主成为姐妹",
-      "onboard_time": 1749547461,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 128406,
+      "num": 128406,
+      "word": "69岁奶奶现场观看樊振东比赛",
+      "onboard_time": 1749548000,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 125673,
@@ -1771,14 +1851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121867,
-      "num": 121867,
-      "word": "军书十二卷 卷卷有泽名",
-      "onboard_time": 1749545061,
-      "rank": 46,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 121445,
       "num": 121445,
       "word": "尾鱼 龙骨焚箱",
@@ -1825,14 +1897,6 @@
       "onboard_time": 1749539541,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 119186,
-      "num": 119186,
-      "word": "THEBOYZ抽烟",
-      "onboard_time": 1749547582,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 119090,
@@ -2043,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99486,
+      "num": 237535,
+      "word": "杀妻灭子案当事人服刑完毕仍是被告",
+      "onboard_time": 1749547822,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98759,
       "num": 138129,
       "word": "周雨给王楚钦发糖",
@@ -2163,14 +2235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85755,
-      "num": 266943,
-      "word": "男子毒杀年幼子女后自杀未遂被刑拘",
-      "onboard_time": 1749546562,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83263,
       "num": 97893,
       "word": "肖战感谢大家陪藏海走过一程",
@@ -2225,6 +2289,14 @@
       "onboard_time": 1749498314,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81511,
+      "num": 752071,
+      "word": "走好网上群众路线百个成绩突出账号",
+      "onboard_time": 1749546920,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80841,
@@ -2387,14 +2459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 65709,
-      "num": 646140,
-      "word": "走好网上群众路线百个成绩突出账号",
-      "onboard_time": 1749546920,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 64463,
       "num": 64463,
       "word": "张极披荆斩棘",
@@ -2449,6 +2513,14 @@
       "onboard_time": 1749538161,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59386,
+      "num": 152734,
+      "word": "职业选手的护照是一本写满遗憾的书",
+      "onboard_time": 1749548000,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 59118,
@@ -2539,8 +2611,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53056,
+      "num": 328846,
+      "word": "全国花式消暑大赏",
+      "onboard_time": 1749545061,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51498,
-      "num": 171223,
+      "num": 192718,
       "word": "记者直击洛杉矶中国城响起爆炸声",
       "onboard_time": 1749546982,
       "rank": 28,
@@ -2619,14 +2699,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 42198,
-      "num": 328846,
-      "word": "全国花式消暑大赏",
-      "onboard_time": 1749545061,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 40433,
       "num": 948865,
       "word": "文明上网我们共同约定",
@@ -2635,12 +2707,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38776,
+      "num": 191646,
+      "word": "激进分子将婴儿带到骚乱现场",
+      "onboard_time": 1749548361,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38592,
       "num": 255552,
       "word": "这几个动作每天坚持保护心脏",
       "onboard_time": 1749527000,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36863,
+      "num": 228556,
+      "word": "母亲含泪回应儿子连救5人后昏迷",
+      "onboard_time": 1749547641,
+      "rank": 36,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 35624,
+      "num": 239791,
+      "word": "医生建议玩漂流时戴护目镜",
+      "onboard_time": 1749548122,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34271,
+      "num": 242229,
+      "word": "6块钱干扣面算不算宴请需权威解答",
+      "onboard_time": 1749548122,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 33959,
@@ -2672,6 +2776,14 @@
       "word": "多方回应广西灵山建风电项目挖山",
       "onboard_time": 1749533360,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31212,
+      "num": 246572,
+      "word": "失控的高压水枪玩具有多危险",
+      "onboard_time": 1749547701,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2739,20 +2851,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 27609,
-      "num": 147122,
-      "word": "失控的高压水枪玩具有多危险",
-      "onboard_time": 1749547701,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27401,
-      "num": 147601,
-      "word": "母亲含泪回应儿子连救5人后昏迷",
-      "onboard_time": 1749547641,
-      "rank": 36,
-      "category": "正能量"
+      "raw_hot": 26154,
+      "num": 153119,
+      "word": "双胞胎男生走出考场朝老人磕头",
+      "onboard_time": 1749548241,
+      "rank": 38,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 25690,
