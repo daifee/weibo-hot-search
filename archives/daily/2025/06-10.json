@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749560948529,
+  "endTime": 1749562722936,
   "band_list": [
     {
       "raw_hot": 2810225,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2416431,
-      "num": 299054,
+      "num": 399423,
       "word": "原来排卵期一直都在被误解",
       "onboard_time": 1749541822,
       "rank": 20,
@@ -81,6 +81,14 @@
       "onboard_time": 1749549142,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1178127,
+      "num": 1178127,
+      "word": "王楚钦突发低血糖",
+      "onboard_time": 1749561142,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1121291,
@@ -163,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 884921,
+      "num": 884921,
+      "word": "国足1比0巴林",
+      "onboard_time": 1749560841,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 871229,
       "num": 871229,
       "word": "唐嫣方发律师声明",
@@ -233,6 +249,14 @@
       "onboard_time": 1749535159,
       "rank": 6,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 697768,
+      "num": 697768,
+      "word": "初代Labubu被108万拍卖成交",
+      "onboard_time": 1749557001,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 692104,
@@ -371,6 +395,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 526190,
+      "num": 526190,
+      "word": "宁静快哭了",
+      "onboard_time": 1749561382,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 507652,
+      "num": 507652,
+      "word": "日本6比0印尼",
+      "onboard_time": 1749560783,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501775,
       "num": 501775,
       "word": "Labubu 张飞",
@@ -425,6 +465,14 @@
       "onboard_time": 1749517461,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477735,
+      "num": 477735,
+      "word": "孟子义李昀锐 二搭",
+      "onboard_time": 1749561862,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 476073,
@@ -491,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422124,
+      "num": 391190,
+      "word": "王楚钦labubu",
+      "onboard_time": 1749560122,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 419783,
       "num": 419783,
       "word": "爸爸的朋友不知道他去世提排骨找他",
@@ -499,11 +555,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419495,
+      "num": 419495,
+      "word": "男子借15万以贷养贷担保费高达6万",
+      "onboard_time": 1749560662,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 407687,
       "num": 407687,
       "word": "杀妻灭子案当事人服刑完毕仍是被告",
       "onboard_time": 1749547822,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403741,
+      "num": 527727,
+      "word": "10岁女孩公园荡网红秋千坠河去世",
+      "onboard_time": 1749559941,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -627,28 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341598,
-      "num": 315637,
-      "word": "初代Labubu被108万拍卖成交",
-      "onboard_time": 1749557001,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 340629,
       "num": 340629,
       "word": "李诚儒撕掉节目组规则不淘汰学员",
       "onboard_time": 1749537261,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340265,
-      "num": 340265,
-      "word": "日本6比0印尼",
-      "onboard_time": 1749560783,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 338754,
@@ -681,6 +737,14 @@
       "onboard_time": 1749536539,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317200,
+      "num": 413470,
+      "word": "18位待爆生",
+      "onboard_time": 1749558921,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 316574,
@@ -763,12 +827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280394,
-      "num": 237611,
-      "word": "王楚钦labubu",
-      "onboard_time": 1749560122,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 284471,
+      "num": 284471,
+      "word": "男子吃见手青中毒一直帮凤凰捋毛",
+      "onboard_time": 1749559402,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279909,
+      "num": 485267,
+      "word": "专家称韦东奕研究员应不是正高职称",
+      "onboard_time": 1749560962,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275545,
@@ -811,6 +883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 265295,
+      "num": 265295,
+      "word": "苏醒说还不知道披荆斩棘即将面对什么",
+      "onboard_time": 1749560062,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264923,
       "num": 264923,
       "word": "姐姐带顶流labubu花束接高考妹妹",
@@ -835,12 +915,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 256766,
-      "num": 256766,
-      "word": "男子吃见手青中毒一直帮凤凰捋毛",
-      "onboard_time": 1749559402,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 258453,
+      "num": 258453,
+      "word": "国足vs巴林",
+      "onboard_time": 1749552920,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 254359,
@@ -849,6 +929,14 @@
       "onboard_time": 1749536301,
       "rank": 12,
       "category": "游戏,电影"
+    },
+    {
+      "raw_hot": 254350,
+      "num": 254350,
+      "word": "宋江谁允许你变成这样了",
+      "onboard_time": 1749562162,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 250385,
@@ -995,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217645,
-      "num": 285124,
-      "word": "18位待爆生",
-      "onboard_time": 1749558921,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217456,
       "num": 217456,
       "word": "中国夏季最凉快的城市",
@@ -1131,14 +1211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 202572,
-      "num": 237181,
-      "word": "苏醒说还不知道披荆斩棘即将面对什么",
-      "onboard_time": 1749560062,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202203,
       "num": 202203,
       "word": "临江仙12集",
@@ -1259,12 +1331,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 191200,
+      "num": 191200,
+      "word": "国足点球破门",
+      "onboard_time": 1749561682,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191037,
       "num": 191037,
       "word": "黄景瑜想演39集半才被抓到的反派",
       "onboard_time": 1749539841,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190344,
+      "num": 190344,
+      "word": "王钰栋国足首球",
+      "onboard_time": 1749561741,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 190116,
@@ -1627,14 +1715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165047,
-      "num": 165047,
-      "word": "10岁女孩公园荡网红秋千坠河去世",
-      "onboard_time": 1749559941,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164884,
       "num": 164884,
       "word": "任天堂发明了永动机",
@@ -1747,6 +1827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158662,
+      "num": 158662,
+      "word": "点球",
+      "onboard_time": 1749561982,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158586,
       "num": 165885,
       "word": "北大回应商家售卖未名湖湖水",
@@ -1787,12 +1875,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157420,
-      "num": 157420,
-      "word": "国足vs巴林",
-      "onboard_time": 1749552920,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 157455,
+      "num": 157455,
+      "word": "东极岛明日定档",
+      "onboard_time": 1749560783,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 157391,
@@ -1817,6 +1905,14 @@
       "onboard_time": 1749528381,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156026,
+      "num": 156026,
+      "word": "王钰栋点球破门",
+      "onboard_time": 1749561741,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 155992,
@@ -1881,14 +1977,6 @@
       "onboard_time": 1749560302,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150799,
-      "num": 150799,
-      "word": "东极岛明日定档",
-      "onboard_time": 1749560783,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 150003,
@@ -2017,6 +2105,14 @@
       "onboard_time": 1749503113,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 141590,
+      "num": 141590,
+      "word": "咸鱼飞升王鹤棣宋潜机",
+      "onboard_time": 1749561202,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 141531,
@@ -2299,6 +2395,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124154,
+      "num": 124154,
+      "word": "阴阳师 荒骷髅",
+      "onboard_time": 1749561621,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 124063,
+      "num": 255343,
+      "word": "1岁女童误服蚊香液奶奶倒立催吐",
+      "onboard_time": 1749561982,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123460,
       "num": 228556,
       "word": "母亲含泪回应儿子连救5人后昏迷",
@@ -2321,6 +2433,14 @@
       "onboard_time": 1749558320,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122510,
+      "num": 122510,
+      "word": "广东人最怕的高温暴雨套餐来了",
+      "onboard_time": 1749561682,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122263,
@@ -2377,14 +2497,6 @@
       "onboard_time": 1749532042,
       "rank": 46,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 119693,
-      "num": 176352,
-      "word": "国足1比0巴林",
-      "onboard_time": 1749560841,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 119299,
@@ -2523,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112540,
+      "num": 156571,
+      "word": "赵子豪自嘲打丢超级简单球",
+      "onboard_time": 1749562283,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112135,
       "num": 216173,
       "word": "郭晶晶说最好就是做好当下",
@@ -2633,6 +2753,14 @@
       "onboard_time": 1749483082,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101931,
+      "num": 135691,
+      "word": "没打码时别晒高考准考证",
+      "onboard_time": 1749561142,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 101169,
@@ -3091,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66609,
+      "num": 518499,
+      "word": "国足近4场比赛中的首粒进球",
+      "onboard_time": 1749562402,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66122,
       "num": 66122,
       "word": "AL战胜BLG",
@@ -3275,14 +3411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52347,
-      "num": 247646,
-      "word": "男子借15万以贷养贷担保费高达6万",
-      "onboard_time": 1749560662,
-      "rank": 23,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 51498,
       "num": 192718,
       "word": "记者直击洛杉矶中国城响起爆炸声",
@@ -3355,6 +3483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45570,
+      "num": 897716,
+      "word": "中国时尚产业盛典",
+      "onboard_time": 1749556760,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44773,
       "num": 112672,
       "word": "曲沃县一货车发生交通事故致3死6伤",
@@ -3425,14 +3561,6 @@
       "onboard_time": 1749527000,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 38209,
-      "num": 784775,
-      "word": "中国时尚产业盛典",
-      "onboard_time": 1749556760,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35624,
@@ -3675,6 +3803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22158,
+      "num": 254625,
+      "word": "非洲裔在墨西哥裔后方0元购",
+      "onboard_time": 1749561262,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21665,
       "num": 309713,
       "word": "新内战成美国舆论热词",
@@ -3697,6 +3833,14 @@
       "onboard_time": 1749540861,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19848,
+      "num": 404663,
+      "word": "大学生要选择暑期兼职吗",
+      "onboard_time": 1749561082,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 18079,

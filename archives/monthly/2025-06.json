@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749560948529,
+  "endTime": 1749562722936,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 2416431,
-      "num": 299054,
+      "num": 399423,
       "word": "原来排卵期一直都在被误解",
       "onboard_time": 1749541822,
       "rank": 20,
@@ -1299,6 +1299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1178127,
+      "num": 1178127,
+      "word": "王楚钦突发低血糖",
+      "onboard_time": 1749561142,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1177210,
       "num": 167095,
       "word": "高考历史上3次启用备用卷",
@@ -2041,6 +2049,14 @@
       "onboard_time": 1749458602,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 884921,
+      "num": 884921,
+      "word": "国足1比0巴林",
+      "onboard_time": 1749560841,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 882775,
@@ -2873,6 +2889,14 @@
       "onboard_time": 1748753901,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 697768,
+      "num": 697768,
+      "word": "初代Labubu被108万拍卖成交",
+      "onboard_time": 1749557001,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 697621,
@@ -4323,6 +4347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526190,
+      "num": 526190,
+      "word": "宁静快哭了",
+      "onboard_time": 1749561382,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525370,
       "num": 525370,
       "word": "临江仙热度",
@@ -4537,6 +4569,14 @@
       "onboard_time": 1749196761,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 507652,
+      "num": 507652,
+      "word": "日本6比0印尼",
+      "onboard_time": 1749560783,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 507361,
@@ -4937,6 +4977,14 @@
       "onboard_time": 1749517461,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477735,
+      "num": 477735,
+      "word": "孟子义李昀锐 二搭",
+      "onboard_time": 1749561862,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 477231,
@@ -5691,6 +5739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 422124,
+      "num": 391190,
+      "word": "王楚钦labubu",
+      "onboard_time": 1749560122,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422118,
       "num": 299643,
       "word": "湖南一老师从学生成人仪式舞台坠落",
@@ -5753,6 +5809,14 @@
       "onboard_time": 1749276561,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 419495,
+      "num": 419495,
+      "word": "男子借15万以贷养贷担保费高达6万",
+      "onboard_time": 1749560662,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 418943,
@@ -5961,6 +6025,14 @@
       "onboard_time": 1749208761,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 403741,
+      "num": 527727,
+      "word": "10岁女孩公园荡网红秋千坠河去世",
+      "onboard_time": 1749559941,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 402278,
@@ -7323,14 +7395,6 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 341598,
-      "num": 315637,
-      "word": "初代Labubu被108万拍卖成交",
-      "onboard_time": 1749557001,
-      "rank": 31,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 340904,
       "num": 340904,
       "word": "芭莎之夜阵容",
@@ -7345,14 +7409,6 @@
       "onboard_time": 1749537261,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340265,
-      "num": 340265,
-      "word": "日本6比0印尼",
-      "onboard_time": 1749560783,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 339821,
@@ -7880,6 +7936,14 @@
       "word": "苏醒朋友圈夸马嘉祺",
       "onboard_time": 1749271883,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 317200,
+      "num": 413470,
+      "word": "18位待爆生",
+      "onboard_time": 1749558921,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -8819,6 +8883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 284471,
+      "num": 284471,
+      "word": "男子吃见手青中毒一直帮凤凰捋毛",
+      "onboard_time": 1749559402,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284446,
       "num": 320099,
       "word": "杨幂祝热巴生日快乐",
@@ -8963,20 +9035,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280394,
-      "num": 237611,
-      "word": "王楚钦labubu",
-      "onboard_time": 1749560122,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280175,
       "num": 315814,
       "word": "者来女 歌手揭榜",
       "onboard_time": 1749480143,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279909,
+      "num": 485267,
+      "word": "专家称韦东奕研究员应不是正高职称",
+      "onboard_time": 1749560962,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279819,
@@ -9435,6 +9507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265295,
+      "num": 265295,
+      "word": "苏醒说还不知道披荆斩棘即将面对什么",
+      "onboard_time": 1749560062,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264923,
       "num": 264923,
       "word": "姐姐带顶流labubu花束接高考妹妹",
@@ -9707,6 +9787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258453,
+      "num": 258453,
+      "word": "国足vs巴林",
+      "onboard_time": 1749552920,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258163,
       "num": 258163,
       "word": "原来正品质量这么差",
@@ -9769,14 +9857,6 @@
       "onboard_time": 1748689221,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256766,
-      "num": 256766,
-      "word": "男子吃见手青中毒一直帮凤凰捋毛",
-      "onboard_time": 1749559402,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 256577,
@@ -9905,6 +9985,14 @@
       "onboard_time": 1749536301,
       "rank": 12,
       "category": "游戏,电影"
+    },
+    {
+      "raw_hot": 254350,
+      "num": 254350,
+      "word": "宋江谁允许你变成这样了",
+      "onboard_time": 1749562162,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 254221,
@@ -11659,14 +11747,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 217645,
-      "num": 285124,
-      "word": "18位待爆生",
-      "onboard_time": 1749558921,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217593,
       "num": 217593,
       "word": "男子赌博欠债倒卖千年裹尸布被抓",
@@ -12955,14 +13035,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202572,
-      "num": 237181,
-      "word": "苏醒说还不知道披荆斩棘即将面对什么",
-      "onboard_time": 1749560062,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202563,
       "num": 202563,
       "word": "芒种",
@@ -14211,6 +14283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 191200,
+      "num": 191200,
+      "word": "国足点球破门",
+      "onboard_time": 1749561682,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191153,
       "num": 191153,
       "word": "国足最后一个主场已停止退票",
@@ -14313,6 +14393,14 @@
       "onboard_time": 1748776881,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190344,
+      "num": 190344,
+      "word": "王钰栋国足首球",
+      "onboard_time": 1749561741,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 190320,
@@ -17347,14 +17435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165047,
-      "num": 165047,
-      "word": "10岁女孩公园荡网红秋千坠河去世",
-      "onboard_time": 1749559941,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165027,
       "num": 275278,
       "word": "新说唱",
@@ -18299,6 +18379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158662,
+      "num": 158662,
+      "word": "点球",
+      "onboard_time": 1749561982,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158600,
       "num": 249531,
       "word": "殴打未成年人7名涉案人全部被抓",
@@ -18411,6 +18499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157455,
+      "num": 157455,
+      "word": "东极岛明日定档",
+      "onboard_time": 1749560783,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157453,
       "num": 221022,
       "word": "NewJeans无意达成和解",
@@ -18425,14 +18521,6 @@
       "onboard_time": 1749221606,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157420,
-      "num": 157420,
-      "word": "国足vs巴林",
-      "onboard_time": 1749552920,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 157409,
@@ -18577,6 +18665,14 @@
       "onboard_time": 1749291023,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156026,
+      "num": 156026,
+      "word": "王钰栋点球破门",
+      "onboard_time": 1749561741,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 155992,
@@ -19281,14 +19377,6 @@
       "onboard_time": 1748790861,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150799,
-      "num": 150799,
-      "word": "东极岛明日定档",
-      "onboard_time": 1749560783,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 150746,
@@ -20673,6 +20761,14 @@
       "onboard_time": 1749204140,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 141590,
+      "num": 141590,
+      "word": "咸鱼飞升王鹤棣宋潜机",
+      "onboard_time": 1749561202,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 141589,
@@ -23539,6 +23635,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124154,
+      "num": 124154,
+      "word": "阴阳师 荒骷髅",
+      "onboard_time": 1749561621,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 124063,
+      "num": 255343,
+      "word": "1岁女童误服蚊香液奶奶倒立催吐",
+      "onboard_time": 1749561982,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123936,
       "num": 123936,
       "word": "连续跑步3年的面部变化",
@@ -23745,6 +23857,14 @@
       "onboard_time": 1748848400,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122510,
+      "num": 122510,
+      "word": "广东人最怕的高温暴雨套餐来了",
+      "onboard_time": 1749561682,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122392,
@@ -24161,14 +24281,6 @@
       "onboard_time": 1749365241,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119693,
-      "num": 176352,
-      "word": "国足1比0巴林",
-      "onboard_time": 1749560841,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 119623,
@@ -25201,6 +25313,14 @@
       "onboard_time": 1749015741,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112540,
+      "num": 156571,
+      "word": "赵子豪自嘲打丢超级简单球",
+      "onboard_time": 1749562283,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 112489,
@@ -26513,6 +26633,14 @@
       "onboard_time": 1748776701,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101931,
+      "num": 135691,
+      "word": "没打码时别晒高考准考证",
+      "onboard_time": 1749561142,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 101901,
@@ -30059,6 +30187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66609,
+      "num": 518499,
+      "word": "国足近4场比赛中的首粒进球",
+      "onboard_time": 1749562402,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66512,
       "num": 66512,
       "word": "许嵩说把手伸五指合影叫端午",
@@ -31379,14 +31515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52347,
-      "num": 247646,
-      "word": "男子借15万以贷养贷担保费高达6万",
-      "onboard_time": 1749560662,
-      "rank": 23,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 52333,
       "num": 52333,
       "word": "山东小钺钺回应缺席今年高考",
@@ -32063,6 +32191,14 @@
       "num": 836237,
       "word": "科技点亮网络文明时空",
       "onboard_time": 1749466821,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45570,
+      "num": 1153606,
+      "word": "中国时尚产业盛典",
+      "onboard_time": 1749196761,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -33033,14 +33169,6 @@
       "onboard_time": 1748997022,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38209,
-      "num": 1153606,
-      "word": "中国时尚产业盛典",
-      "onboard_time": 1749196761,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38187,
@@ -35363,6 +35491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22158,
+      "num": 254625,
+      "word": "非洲裔在墨西哥裔后方0元购",
+      "onboard_time": 1749561262,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22047,
       "num": 29325,
       "word": "马柏全捏捏手打招呼",
@@ -35737,6 +35873,14 @@
       "onboard_time": 1749540861,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19848,
+      "num": 404663,
+      "word": "大学生要选择暑期兼职吗",
+      "onboard_time": 1749561082,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 19834,
