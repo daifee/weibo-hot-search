@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749591597610,
+  "endTime": 1749594314470,
   "band_list": [
     {
       "raw_hot": 525352,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 272571,
-      "num": 182428,
+      "num": 400364,
       "word": "那尔那茜本科毕业后留学3年",
       "onboard_time": 1749571820,
       "rank": 23,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 252241,
-      "num": 39169,
+      "num": 198959,
       "word": "面瘫哥被捕",
       "onboard_time": 1749578836,
       "rank": 30,
@@ -139,12 +139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190815,
+      "num": 190815,
+      "word": "文旅局回应女孩遭男子水枪攻击失明",
+      "onboard_time": 1749575296,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181017,
       "num": 179371,
       "word": "王俊凯说五哈太草率了",
       "onboard_time": 1749571160,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172490,
+      "num": 172490,
+      "word": "特朗普早就看不惯加州州长",
+      "onboard_time": 1749588855,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168073,
@@ -184,14 +200,6 @@
       "word": "女子称丈夫因离婚纠纷毒死2亲生儿女",
       "onboard_time": 1749569481,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150951,
-      "num": 185438,
-      "word": "文旅局回应女孩遭男子水枪攻击失明",
-      "onboard_time": 1749575296,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -379,12 +387,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 70389,
+      "num": 70389,
+      "word": "美国加州街头变战场",
+      "onboard_time": 1749580395,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67540,
       "num": 67540,
       "word": "Red女团韩国初舞台",
       "onboard_time": 1749556401,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 67173,
+      "num": 67173,
+      "word": "韩乔生说国足在狼藉中翻出一粒金子",
+      "onboard_time": 1749580994,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 63368,
@@ -420,23 +444,15 @@
     },
     {
       "raw_hot": 51225,
-      "num": 51225,
+      "num": 58824,
       "word": "黄圣依程潇谈是否接受婚前同居",
       "onboard_time": 1749575957,
       "rank": 46,
       "category": "综艺"
     },
     {
-      "raw_hot": 48485,
-      "num": 48485,
-      "word": "特朗普早就看不惯加州州长",
-      "onboard_time": 1749588855,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45097,
-      "num": 45097,
+      "num": 46106,
       "word": "美抗议者问难道这就是MAGA",
       "onboard_time": 1749574458,
       "rank": 42,
@@ -459,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43057,
-      "num": 45371,
-      "word": "美国加州街头变战场",
-      "onboard_time": 1749580395,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 41620,
       "num": 41620,
       "word": "校方回应高考前一天艺考生被撞病危",
@@ -475,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36511,
-      "num": 34329,
-      "word": "韩乔生说国足在狼藉中翻出一粒金子",
-      "onboard_time": 1749580994,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 38878,
+      "num": 38878,
+      "word": "影帝回老家也得割麦子",
+      "onboard_time": 1749592575,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 36125,
@@ -499,6 +507,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24670,
+      "num": 30138,
+      "word": "约700名海军陆战队将部署洛杉矶",
+      "onboard_time": 1749587414,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23294,
+      "num": 23294,
+      "word": "蚌埠再通报污染致上万亩水稻无水",
+      "onboard_time": 1749587654,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21668,
       "num": 25241,
       "word": "麻花特开心",
@@ -515,12 +539,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19325,
-      "num": 30138,
-      "word": "约700名海军陆战队将部署洛杉矶",
-      "onboard_time": 1749587414,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 20033,
+      "num": 23081,
+      "word": "南通队应援摇人摇来了石宇奇黄旭",
+      "onboard_time": 1749591794,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 18321,
@@ -537,14 +561,6 @@
       "onboard_time": 1749586993,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15104,
-      "num": 16489,
-      "word": "蚌埠再通报污染致上万亩水稻无水",
-      "onboard_time": 1749587654,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14056,
