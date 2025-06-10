@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749545380291,
+  "endTime": 1749547739989,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 2416431,
-      "num": 244942,
+      "num": 252202,
       "word": "原来排卵期一直都在被误解",
       "onboard_time": 1749541822,
       "rank": 20,
@@ -1907,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 922974,
+      "num": 280217,
+      "word": "上海月薪27000一天的花销",
+      "onboard_time": 1749545362,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 919134,
       "num": 919134,
       "word": "高考历史文言文",
@@ -2001,6 +2009,14 @@
       "onboard_time": 1749050721,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 871229,
+      "num": 871229,
+      "word": "唐嫣方发律师声明",
+      "onboard_time": 1749546081,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 871019,
@@ -2849,6 +2865,14 @@
       "onboard_time": 1749191421,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 692104,
+      "num": 345613,
+      "word": "洛杉矶市中心彻底疯了",
+      "onboard_time": 1749541761,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 687819,
@@ -4091,6 +4115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545379,
+      "num": 545379,
+      "word": "陈梦回应400亿传闻",
+      "onboard_time": 1749546741,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 545255,
       "num": 545255,
       "word": "女子欠款1700万法院悬赏170万寻人",
@@ -4153,14 +4185,6 @@
       "onboard_time": 1749532520,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 536511,
-      "num": 345613,
-      "word": "洛杉矶市中心彻底疯了",
-      "onboard_time": 1749541761,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 536102,
@@ -7825,6 +7849,14 @@
       "onboard_time": 1748858900,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312219,
+      "num": 279195,
+      "word": "只有减肥的人才知道她有多真诚",
+      "onboard_time": 1749545421,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 312154,
@@ -12235,6 +12267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 206486,
+      "num": 221430,
+      "word": "筷子兄弟变筷子父子",
+      "onboard_time": 1749544940,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206411,
       "num": 206411,
       "word": "洛杉矶中国城响起爆炸声",
@@ -13643,14 +13683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193471,
-      "num": 221430,
-      "word": "筷子兄弟变筷子父子",
-      "onboard_time": 1749544940,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 193336,
       "num": 193336,
       "word": "庄二反水",
@@ -14115,6 +14147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189844,
+      "num": 189844,
+      "word": "王安宇请立刻离开广东",
+      "onboard_time": 1749546383,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189817,
       "num": 325116,
       "word": "肖战为拍好甬道戏消化了很多",
@@ -14137,6 +14177,14 @@
       "onboard_time": 1749029540,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189657,
+      "num": 189657,
+      "word": "真假杨迪相遇",
+      "onboard_time": 1749547101,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 189517,
@@ -14497,6 +14545,14 @@
       "onboard_time": 1749260002,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186771,
+      "num": 304745,
+      "word": "火锅店偷用顾客手机给同行刷差评",
+      "onboard_time": 1749544162,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186703,
@@ -16155,6 +16211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 170653,
+      "num": 170653,
+      "word": "为什么存款越多却越不舍得花钱",
+      "onboard_time": 1749546261,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170564,
       "num": 170564,
       "word": "大爷被蛇咬伤反抓蛇再遭咬",
@@ -17761,6 +17825,14 @@
       "onboard_time": 1749464361,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159262,
+      "num": 159262,
+      "word": "重庆一男子小区内尾随女童进电梯",
+      "onboard_time": 1749545542,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159261,
@@ -21435,6 +21507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134402,
+      "num": 280705,
+      "word": "日啖荔枝三百颗可能会丧命",
+      "onboard_time": 1749546682,
+      "rank": 9,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 134311,
       "num": 134311,
       "word": "藏海石一平对峙",
@@ -21769,14 +21849,6 @@
       "onboard_time": 1749266484,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132173,
-      "num": 132173,
-      "word": "上海月薪27000一天的花销",
-      "onboard_time": 1749545362,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 132000,
@@ -22539,6 +22611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127411,
+      "num": 127411,
+      "word": "面试保镖却和雇主成为姐妹",
+      "onboard_time": 1749547461,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127279,
       "num": 319475,
       "word": "广州长隆马戏表演时一演员从火轮摔下",
@@ -22865,6 +22945,14 @@
       "onboard_time": 1749199582,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124399,
+      "num": 124399,
+      "word": "让宋雨琦叶舒华穿汉服的简直是天才",
+      "onboard_time": 1749545481,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 124302,
@@ -23611,6 +23699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119186,
+      "num": 119186,
+      "word": "THEBOYZ抽烟",
+      "onboard_time": 1749547582,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119175,
       "num": 134355,
       "word": "今屿大司命好C",
@@ -23745,6 +23841,14 @@
       "onboard_time": 1748935460,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118029,
+      "num": 118029,
+      "word": "章昊丁真为张俊打call",
+      "onboard_time": 1749547582,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 117989,
@@ -25179,6 +25283,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 107141,
+      "num": 271507,
+      "word": "范丞丞要参加团体战了",
+      "onboard_time": 1749546383,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107121,
       "num": 165114,
       "word": "马吟吟好美",
@@ -25721,6 +25833,14 @@
       "onboard_time": 1749141978,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102686,
+      "num": 146279,
+      "word": "洛杉矶当地华人",
+      "onboard_time": 1749545841,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102659,
@@ -27075,14 +27195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90020,
-      "num": 304745,
-      "word": "火锅店偷用顾客手机给同行刷差评",
-      "onboard_time": 1749544162,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89960,
       "num": 89960,
       "word": "周深回应发型",
@@ -27307,6 +27419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87854,
+      "num": 268295,
+      "word": "近视手术后的视力可以维持多久",
+      "onboard_time": 1749546682,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 87836,
       "num": 87836,
       "word": "藏海最倒霉的一集",
@@ -27505,6 +27625,14 @@
       "onboard_time": 1748794580,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85755,
+      "num": 266943,
+      "word": "男子毒杀年幼子女后自杀未遂被刑拘",
+      "onboard_time": 1749546562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85602,
@@ -28193,6 +28321,14 @@
       "onboard_time": 1749240194,
       "rank": 23,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 77259,
+      "num": 278862,
+      "word": "69岁奶奶粉现场看樊振东演我本人",
+      "onboard_time": 1749545961,
+      "rank": 14,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 77155,
@@ -28907,6 +29043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 69690,
+      "num": 336501,
+      "word": "白雪公主好气色的秘密",
+      "onboard_time": 1749544523,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69484,
       "num": 433449,
       "word": "张家界两溶洞清理垃圾51吨",
@@ -29257,6 +29401,14 @@
       "onboard_time": 1749245714,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65709,
+      "num": 646140,
+      "word": "走好网上群众路线百个成绩突出账号",
+      "onboard_time": 1749546920,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65650,
@@ -30083,6 +30235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 55849,
+      "num": 145619,
+      "word": "王者蓝紫星币升级",
+      "onboard_time": 1749547401,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55845,
       "num": 56767,
       "word": "Bin说能赢iG或WE",
@@ -30585,6 +30745,14 @@
       "onboard_time": 1749107540,
       "rank": 28,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 51498,
+      "num": 171223,
+      "word": "记者直击洛杉矶中国城响起爆炸声",
+      "onboard_time": 1749546982,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51494,
@@ -31587,6 +31755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42198,
+      "num": 328846,
+      "word": "全国花式消暑大赏",
+      "onboard_time": 1749545061,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42062,
       "num": 326326,
       "word": "被炸桥梁是俄军后勤关键节点",
@@ -32017,14 +32193,6 @@
       "onboard_time": 1748953881,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 38610,
-      "num": 336501,
-      "word": "白雪公主好气色的秘密",
-      "onboard_time": 1749544523,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 38592,
@@ -33059,6 +33227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31174,
+      "num": 170801,
+      "word": "美国的回旋镖",
+      "onboard_time": 1749546441,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31173,
       "num": 267790,
       "word": "被害哥嫂家属现场还原凶手作案过程",
@@ -33627,12 +33803,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 27609,
+      "num": 147122,
+      "word": "失控的高压水枪玩具有多危险",
+      "onboard_time": 1749547701,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27540,
       "num": 323640,
       "word": "我领馆视频探视遭起诉中国学者",
       "onboard_time": 1749380842,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27401,
+      "num": 147601,
+      "word": "母亲含泪回应儿子连救5人后昏迷",
+      "onboard_time": 1749547641,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 27344,
@@ -35537,14 +35729,6 @@
       "onboard_time": 1749033441,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 12845,
-      "num": 328846,
-      "word": "全国花式消暑大赏",
-      "onboard_time": 1749545061,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12707,
