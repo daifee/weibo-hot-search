@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749577375380,
+  "endTime": 1749580578445,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -3611,6 +3611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236771,
+      "num": 31215,
+      "word": "面瘫哥被捕",
+      "onboard_time": 1749578836,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 236734,
       "num": 81948,
       "word": "李晟成团",
@@ -7203,6 +7211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141755,
+      "num": 148114,
+      "word": "文旅局回应女孩遭男子水枪攻击失明",
+      "onboard_time": 1749575296,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141590,
       "num": 141590,
       "word": "咸鱼飞升王鹤棣宋潜机",
@@ -8833,14 +8849,6 @@
       "onboard_time": 1749484761,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 106644,
-      "num": 110238,
-      "word": "文旅局回应女孩遭男子水枪攻击失明",
-      "onboard_time": 1749575296,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105463,
@@ -11691,6 +11699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21668,
+      "num": 25241,
+      "word": "麻花特开心",
+      "onboard_time": 1749579494,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21665,
       "num": 309713,
       "word": "新内战成美国舆论热词",
@@ -11889,6 +11905,14 @@
       "onboard_time": 1749391344,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 16895,
+      "num": 34060,
+      "word": "航母上的起飞瞬间",
+      "onboard_time": 1749577936,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16802,

@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749577375380,
+  "endTime": 1749580578445,
   "band_list": [
     {
       "raw_hot": 525352,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236771,
+      "num": 31215,
+      "word": "面瘫哥被捕",
+      "onboard_time": 1749578836,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 208918,
       "num": 208918,
       "word": "泰方回应军官在国防部宴请中国VVVIP",
@@ -184,6 +192,14 @@
       "word": "10岁女孩公园荡网红秋千坠河去世",
       "onboard_time": 1749559941,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141755,
+      "num": 148114,
+      "word": "文旅局回应女孩遭男子水枪攻击失明",
+      "onboard_time": 1749575296,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -265,14 +281,6 @@
       "onboard_time": 1749555922,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 106644,
-      "num": 110238,
-      "word": "文旅局回应女孩遭男子水枪攻击失明",
-      "onboard_time": 1749575296,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102809,
@@ -459,12 +467,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21668,
+      "num": 25241,
+      "word": "麻花特开心",
+      "onboard_time": 1749579494,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21213,
       "num": 305405,
       "word": "走好网上群众路线百个成绩突出账号",
       "onboard_time": 1749546920,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16895,
+      "num": 34060,
+      "word": "航母上的起飞瞬间",
+      "onboard_time": 1749577936,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12779,
+      "num": 31246,
+      "word": "美国加州街头变战场",
+      "onboard_time": 1749580395,
+      "rank": 29,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
