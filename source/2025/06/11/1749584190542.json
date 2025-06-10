@@ -1,0 +1,410 @@
+{
+  "runTime": 1749584190542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 82528,
+        "num": 82528,
+        "word": "文旅局回应女孩遭男子水枪攻击失明",
+        "onboard_time": 1749575296,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69166,
+        "num": 69166,
+        "word": "于正拍的古力娜扎",
+        "onboard_time": 1749570201,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8509,
+        "num": 58972,
+        "word": "走好网上群众路线百个成绩突出账号",
+        "onboard_time": 1749546920,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49692,
+        "num": 49692,
+        "word": "初代Labubu被108万拍卖成交",
+        "onboard_time": 1749557001,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 45354,
+        "num": 45354,
+        "word": "程潇自曝经常拉黑别人",
+        "onboard_time": 1749573858,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41551,
+        "num": 41551,
+        "word": "国足不是最后一名",
+        "onboard_time": 1749565043,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42811,
+        "num": 41476,
+        "word": "那尔那茜本科毕业后留学3年",
+        "onboard_time": 1749571820,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41185,
+        "num": 41185,
+        "word": "校方回应高考前一天艺考生被撞病危",
+        "onboard_time": 1749581114,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37606,
+        "num": 37606,
+        "word": "温州大桥车祸19岁摩托车手坠海身亡",
+        "onboard_time": 1749557481,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36388,
+        "num": 36388,
+        "word": "美国加州街头变战场",
+        "onboard_time": 1749580395,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129889,
+        "num": 35292,
+        "word": "面瘫哥被捕",
+        "onboard_time": 1749578836,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61183,
+        "num": 34975,
+        "word": "女子给自己签字开了50小时无痛",
+        "onboard_time": 1749565702,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47706,
+        "num": 34590,
+        "word": "宋江谁允许你变成这样了",
+        "onboard_time": 1749562162,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33615,
+        "num": 33615,
+        "word": "孟子义李昀锐 二搭",
+        "onboard_time": 1749561862,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31932,
+        "num": 31932,
+        "word": "10岁女孩公园荡网红秋千坠河去世",
+        "onboard_time": 1749559941,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30011,
+        "num": 30011,
+        "word": "坠湖女司机独自抚养2个大学生",
+        "onboard_time": 1749570079,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29131,
+        "num": 29131,
+        "word": "克拉恋人幕后争议",
+        "onboard_time": 1749563242,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28534,
+        "num": 28534,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26038,
+        "num": 26038,
+        "word": "鹿晗抢票",
+        "onboard_time": 1749553820,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25807,
+        "num": 25807,
+        "word": "王俊凯说五哈太草率了",
+        "onboard_time": 1749571160,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53426,
+        "num": 25628,
+        "word": "原来排卵期一直都在被误解",
+        "onboard_time": 1749541822,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28554,
+        "num": 25572,
+        "word": "黄圣依程潇谈是否接受婚前同居",
+        "onboard_time": 1749575957,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28118,
+        "num": 25559,
+        "word": "韩乔生说国足在狼藉中翻出一粒金子",
+        "onboard_time": 1749580994,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25430,
+        "num": 25430,
+        "word": "泡泡玛特创始人成河南新首富",
+        "onboard_time": 1749570740,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 24729,
+        "num": 24729,
+        "word": "刘宇宁九万字百万点赞",
+        "onboard_time": 1749568941,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24368,
+        "num": 24368,
+        "word": "王皓已通过考编笔试",
+        "onboard_time": 1749569721,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23654,
+        "num": 23654,
+        "word": "为救女儿生下的儿子也患罕见遗传病",
+        "onboard_time": 1749565403,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11081,
+        "num": 23595,
+        "word": "预计6月23日起高考成绩陆续公布",
+        "onboard_time": 1749583333,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23585,
+        "num": 23585,
+        "word": "百万网红大头突发疾病离世",
+        "onboard_time": 1749555922,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23438,
+        "num": 23438,
+        "word": "王楚钦突发低血糖",
+        "onboard_time": 1749561142,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23239,
+        "num": 23239,
+        "word": "泰方回应军官在国防部宴请中国VVVIP",
+        "onboard_time": 1749565641,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23213,
+        "num": 23213,
+        "word": "国足积9分小组第5",
+        "onboard_time": 1749569000,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22619,
+        "num": 22619,
+        "word": "男子吃见手青中毒一直帮凤凰捋毛",
+        "onboard_time": 1749559402,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22402,
+        "num": 22402,
+        "word": "男子借15万以贷养贷担保费高达6万",
+        "onboard_time": 1749560662,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 21878,
+        "num": 21878,
+        "word": "108万天价拉布布成交",
+        "onboard_time": 1749573918,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 20896,
+        "num": 20896,
+        "word": "银行存5万送Labubu真的值吗",
+        "onboard_time": 1749569120,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20716,
+        "num": 20716,
+        "word": "村民用来测水质的玉米苗被连夜拔掉",
+        "onboard_time": 1749569781,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20125,
+        "num": 20125,
+        "word": "女子称丈夫因离婚纠纷毒死2亲生儿女",
+        "onboard_time": 1749569481,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10683,
+        "num": 19897,
+        "word": "出考场花式整活名场面",
+        "onboard_time": 1749584054,
+        "rank": 38,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 18553,
+        "num": 19833,
+        "word": "是谁把我们单依纯逼成ACE了",
+        "onboard_time": 1749570320,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19829,
+        "num": 19829,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19623,
+        "num": 19623,
+        "word": "王一博新歌愿爱",
+        "onboard_time": 1749572360,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19524,
+        "num": 19524,
+        "word": "王楚钦labubu",
+        "onboard_time": 1749560122,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19169,
+        "num": 19169,
+        "word": "美抗议者问难道这就是MAGA",
+        "onboard_time": 1749574458,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18412,
+        "num": 18412,
+        "word": "Red女团韩国初舞台",
+        "onboard_time": 1749556401,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18363,
+        "num": 18363,
+        "word": "侯明昊去医院前给粉丝鞠躬道歉",
+        "onboard_time": 1749570440,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17859,
+        "num": 17859,
+        "word": "陈赫炫耀labubu衣服",
+        "onboard_time": 1749569301,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17508,
+        "num": 17857,
+        "word": "Labubu全球爆火一娃难求",
+        "onboard_time": 1749562822,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 16529,
+        "num": 17854,
+        "word": "章若楠 虎扑扫楼",
+        "onboard_time": 1749563062,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10207,
+        "num": 17850,
+        "word": "2025最低满月明天现身天际",
+        "onboard_time": 1749583934,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应坚定睦邻友好方向#"
+    }
+  }
+}

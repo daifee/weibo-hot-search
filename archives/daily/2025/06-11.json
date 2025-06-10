@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749583270331,
+  "endTime": 1749584190542,
   "band_list": [
     {
       "raw_hot": 525352,
@@ -513,6 +513,30 @@
       "onboard_time": 1749577936,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11081,
+      "num": 23595,
+      "word": "预计6月23日起高考成绩陆续公布",
+      "onboard_time": 1749583333,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 10683,
+      "num": 19897,
+      "word": "出考场花式整活名场面",
+      "onboard_time": 1749584054,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 10207,
+      "num": 17850,
+      "word": "2025最低满月明天现身天际",
+      "onboard_time": 1749583934,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
