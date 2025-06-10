@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749597873702,
+  "endTime": 1749598753880,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -739,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 840827,
+      "num": 959601,
+      "word": "面瘫哥被捕",
+      "onboard_time": 1749578836,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 836765,
       "num": 836765,
       "word": "花1.3万买了2000平米的乡下小院",
@@ -792,6 +800,14 @@
       "word": "马嘉祺歌手 唱王源的歌",
       "onboard_time": 1749353182,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 792543,
+      "num": 792543,
+      "word": "黄圣依称不接受婚前同居",
+      "onboard_time": 1749597138,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -993,14 +1009,6 @@
       "onboard_time": 1749450080,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 654494,
-      "num": 827219,
-      "word": "面瘫哥被捕",
-      "onboard_time": 1749578836,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 651029,
@@ -1273,6 +1281,14 @@
       "onboard_time": 1749442644,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 567189,
+      "num": 567189,
+      "word": "鹿晗归来和鼎盛时期一样能打",
+      "onboard_time": 1749597017,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 566569,
@@ -1579,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487585,
-      "num": 487585,
-      "word": "鹿晗归来和鼎盛时期一样能打",
-      "onboard_time": 1749597017,
-      "rank": 1,
-      "category": "演出"
-    },
-    {
       "raw_hot": 486724,
       "num": 486724,
       "word": "五胞胎同时参加高考50多万费用被免",
@@ -1731,14 +1739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464117,
-      "num": 207936,
-      "word": "黄圣依称不接受婚前同居",
-      "onboard_time": 1749597138,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 463615,
       "num": 463615,
       "word": "洛杉矶全市进入战术警戒状态",
@@ -1761,6 +1761,14 @@
       "onboard_time": 1749523220,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 458979,
+      "num": 206093,
+      "word": "银行柜员拿放大镜办业务被吐槽效率低",
+      "onboard_time": 1749597619,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 456836,
@@ -2643,6 +2651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324571,
+      "num": 324571,
+      "word": "为救女儿生下的儿子也患罕见遗传病",
+      "onboard_time": 1749565403,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324288,
       "num": 291500,
       "word": "余承东秀Pura80拍火视频",
@@ -2977,14 +2993,6 @@
       "onboard_time": 1749347660,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 289437,
-      "num": 289437,
-      "word": "为救女儿生下的儿子也患罕见遗传病",
-      "onboard_time": 1749565403,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288587,
@@ -3627,14 +3635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237106,
-      "num": 84268,
-      "word": "银行柜员拿放大镜办业务被吐槽效率低",
-      "onboard_time": 1749597619,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237012,
       "num": 237012,
       "word": "中国双航母首次同时现身太平洋",
@@ -4003,6 +4003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216984,
+      "num": 216984,
+      "word": "文旅局回应女孩遭男子水枪攻击失明",
+      "onboard_time": 1749575296,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216449,
       "num": 216449,
       "word": "爸爸举孙颖莎立牌鼓励女儿高考",
@@ -4129,6 +4137,14 @@
       "onboard_time": 1749306984,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208504,
+      "num": 208504,
+      "word": "田柾国退伍",
+      "onboard_time": 1749598339,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 208064,
@@ -4603,14 +4619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196492,
-      "num": 196492,
-      "word": "文旅局回应女孩遭男子水枪攻击失明",
-      "onboard_time": 1749575296,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 196218,
       "num": 221694,
       "word": "高以忱被查",
@@ -4657,6 +4665,14 @@
       "onboard_time": 1749483201,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194273,
+      "num": 194273,
+      "word": "村民用来测水质的玉米苗被连夜拔掉",
+      "onboard_time": 1749569781,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194182,
@@ -5195,6 +5211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182188,
+      "num": 182188,
+      "word": "特朗普早就看不惯加州州长",
+      "onboard_time": 1749588855,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 181853,
       "num": 181853,
       "word": "魏大勋这个捂脸包含了好多情绪",
@@ -5256,14 +5280,6 @@
       "word": "特朗普上台后日均抓656名非法移民",
       "onboard_time": 1749425719,
       "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 181126,
-      "num": 181126,
-      "word": "特朗普早就看不惯加州州长",
-      "onboard_time": 1749588855,
-      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -5345,14 +5361,6 @@
       "onboard_time": 1749532881,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179771,
-      "num": 179771,
-      "word": "村民用来测水质的玉米苗被连夜拔掉",
-      "onboard_time": 1749569781,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178847,
@@ -6859,6 +6867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149602,
+      "num": 149602,
+      "word": "朴智旻退伍",
+      "onboard_time": 1749598339,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149543,
       "num": 149543,
       "word": "何婧婧否认出轨",
@@ -7897,6 +7913,14 @@
       "onboard_time": 1749466881,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130794,
+      "num": 130794,
+      "word": "她一上午做了我一年的运动量",
+      "onboard_time": 1749597017,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 130699,
@@ -9139,6 +9163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 97768,
+      "num": 112702,
+      "word": "折腰庆功宴座位图",
+      "onboard_time": 1749598639,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97367,
       "num": 180736,
       "word": "王楚钦3比0全开源",
@@ -9225,14 +9257,6 @@
       "onboard_time": 1749378081,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93310,
-      "num": 75102,
-      "word": "她一上午做了我一年的运动量",
-      "onboard_time": 1749597017,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 92607,
@@ -9433,6 +9457,14 @@
       "onboard_time": 1749539482,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85318,
+      "num": 85318,
+      "word": "影帝回老家也得割麦子",
+      "onboard_time": 1749592575,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 84966,
@@ -9851,14 +9883,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 70529,
-      "num": 70529,
-      "word": "影帝回老家也得割麦子",
-      "onboard_time": 1749592575,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70485,
       "num": 146158,
       "word": "小区频繁高空抛物有人被砸到脑震荡",
@@ -9897,6 +9921,14 @@
       "onboard_time": 1749424879,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69269,
+      "num": 69269,
+      "word": "lvg",
+      "onboard_time": 1749594796,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 69204,
@@ -9969,14 +10001,6 @@
       "onboard_time": 1749567922,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67539,
-      "num": 67539,
-      "word": "lvg",
-      "onboard_time": 1749594796,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 67426,
@@ -11595,6 +11619,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 27596,
+      "num": 112690,
+      "word": "郑钦文草地赛季首战对阵凯斯勒",
+      "onboard_time": 1749598279,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27540,
       "num": 323640,
       "word": "我领馆视频探视遭起诉中国学者",
@@ -11609,6 +11641,14 @@
       "onboard_time": 1749548241,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 26107,
+      "num": 206144,
+      "word": "洛杉矶遭遇冰火夹击",
+      "onboard_time": 1749597739,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25690,
@@ -12144,14 +12184,6 @@
       "word": "俄罗斯战略轰炸机全都露天停放",
       "onboard_time": 1749467481,
       "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 14528,
-      "num": 79248,
-      "word": "洛杉矶遭遇冰火夹击",
-      "onboard_time": 1749597739,
-      "rank": 31,
       "category": "国际时政"
     },
     {

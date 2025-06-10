@@ -1,14 +1,30 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749597873702,
+  "endTime": 1749598753880,
   "band_list": [
     {
-      "raw_hot": 654494,
-      "num": 827219,
+      "raw_hot": 840827,
+      "num": 959601,
       "word": "面瘫哥被捕",
       "onboard_time": 1749578836,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 792543,
+      "num": 792543,
+      "word": "黄圣依称不接受婚前同居",
+      "onboard_time": 1749597138,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 567189,
+      "num": 567189,
+      "word": "鹿晗归来和鼎盛时期一样能打",
+      "onboard_time": 1749597017,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 525352,
@@ -27,14 +43,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 487585,
-      "num": 487585,
-      "word": "鹿晗归来和鼎盛时期一样能打",
-      "onboard_time": 1749597017,
-      "rank": 1,
-      "category": "演出"
-    },
-    {
       "raw_hot": 482451,
       "num": 207893,
       "word": "宋江谁允许你变成这样了",
@@ -51,12 +59,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 464117,
-      "num": 207936,
-      "word": "黄圣依称不接受婚前同居",
-      "onboard_time": 1749597138,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 458979,
+      "num": 206093,
+      "word": "银行柜员拿放大镜办业务被吐槽效率低",
+      "onboard_time": 1749597619,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425517,
@@ -99,20 +107,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324571,
+      "num": 324571,
+      "word": "为救女儿生下的儿子也患罕见遗传病",
+      "onboard_time": 1749565403,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305267,
       "num": 236445,
       "word": "刘宇宁九万字百万点赞",
       "onboard_time": 1749568941,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289437,
-      "num": 289437,
-      "word": "为救女儿生下的儿子也患罕见遗传病",
-      "onboard_time": 1749565403,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 251971,
@@ -139,16 +147,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237106,
-      "num": 84268,
-      "word": "银行柜员拿放大镜办业务被吐槽效率低",
-      "onboard_time": 1749597619,
-      "rank": 30,
+      "raw_hot": 216984,
+      "num": 216984,
+      "word": "文旅局回应女孩遭男子水枪攻击失明",
+      "onboard_time": 1749575296,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210833,
-      "num": 210833,
+      "raw_hot": 213459,
+      "num": 213459,
       "word": "温州大桥车祸19岁摩托车手坠海身亡",
       "onboard_time": 1749557481,
       "rank": 17,
@@ -161,6 +169,14 @@
       "onboard_time": 1749565641,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 208504,
+      "num": 208504,
+      "word": "田柾国退伍",
+      "onboard_time": 1749598339,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 205168,
@@ -179,16 +195,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196492,
-      "num": 196492,
-      "word": "文旅局回应女孩遭男子水枪攻击失明",
-      "onboard_time": 1749575296,
-      "rank": 9,
+      "raw_hot": 194273,
+      "num": 194273,
+      "word": "村民用来测水质的玉米苗被连夜拔掉",
+      "onboard_time": 1749569781,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181126,
-      "num": 181126,
+      "raw_hot": 189312,
+      "num": 189312,
+      "word": "中美经贸磋商",
+      "onboard_time": 1749534141,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 182188,
+      "num": 182188,
       "word": "特朗普早就看不惯加州州长",
       "onboard_time": 1749588855,
       "rank": 8,
@@ -201,14 +225,6 @@
       "onboard_time": 1749571160,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179771,
-      "num": 179771,
-      "word": "村民用来测水质的玉米苗被连夜拔掉",
-      "onboard_time": 1749569781,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168073,
@@ -227,20 +243,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165067,
-      "num": 165067,
-      "word": "中美经贸磋商",
-      "onboard_time": 1749534141,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162067,
       "num": 131202,
       "word": "程潇自曝经常拉黑别人",
       "onboard_time": 1749573858,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161262,
+      "num": 161262,
+      "word": "10岁女孩公园荡网红秋千坠河去世",
+      "onboard_time": 1749559941,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151375,
@@ -259,20 +275,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150507,
-      "num": 150507,
-      "word": "10岁女孩公园荡网红秋千坠河去世",
-      "onboard_time": 1749559941,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 149602,
+      "num": 149602,
+      "word": "朴智旻退伍",
+      "onboard_time": 1749598339,
+      "rank": 19,
+      "category": "艺人"
     },
     {
-      "raw_hot": 134256,
-      "num": 134256,
+      "raw_hot": 138833,
+      "num": 138833,
       "word": "男子吃见手青中毒一直帮凤凰捋毛",
       "onboard_time": 1749559402,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133877,
+      "num": 133877,
+      "word": "labubu",
+      "onboard_time": 1749598159,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 130794,
+      "num": 130794,
+      "word": "她一上午做了我一年的运动量",
+      "onboard_time": 1749597017,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 130386,
@@ -347,8 +379,16 @@
       "category": "网红"
     },
     {
-      "raw_hot": 94585,
-      "num": 94585,
+      "raw_hot": 97768,
+      "num": 112702,
+      "word": "折腰庆功宴座位图",
+      "onboard_time": 1749598639,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95689,
+      "num": 95689,
       "word": "美国加州街头变战场",
       "onboard_time": 1749580395,
       "rank": 29,
@@ -361,14 +401,6 @@
       "onboard_time": 1749560783,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93310,
-      "num": 75102,
-      "word": "她一上午做了我一年的运动量",
-      "onboard_time": 1749597017,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 91064,
@@ -393,6 +425,14 @@
       "onboard_time": 1749575957,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85318,
+      "num": 85318,
+      "word": "影帝回老家也得割麦子",
+      "onboard_time": 1749592575,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 85281,
@@ -451,14 +491,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 70529,
-      "num": 70529,
-      "word": "影帝回老家也得割麦子",
-      "onboard_time": 1749592575,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69364,
       "num": 106479,
       "word": "泡泡玛特创始人成河南新首富",
@@ -467,28 +499,28 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 67540,
-      "num": 67540,
-      "word": "Red女团韩国初舞台",
-      "onboard_time": 1749556401,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 67539,
-      "num": 67539,
+      "raw_hot": 69269,
+      "num": 69269,
       "word": "lvg",
       "onboard_time": 1749594796,
       "rank": 31,
       "category": "电竞"
     },
     {
-      "raw_hot": 65690,
-      "num": 65690,
+      "raw_hot": 68729,
+      "num": 68729,
       "word": "男子借15万以贷养贷担保费高达6万",
       "onboard_time": 1749560662,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 67540,
+      "num": 67540,
+      "word": "Red女团韩国初舞台",
+      "onboard_time": 1749556401,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 63368,
@@ -571,6 +603,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27596,
+      "num": 112690,
+      "word": "郑钦文草地赛季首战对阵凯斯勒",
+      "onboard_time": 1749598279,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26107,
+      "num": 206144,
+      "word": "洛杉矶遭遇冰火夹击",
+      "onboard_time": 1749597739,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25472,
       "num": 74568,
       "word": "毕业礼物",
@@ -580,7 +628,7 @@
     },
     {
       "raw_hot": 22291,
-      "num": 371822,
+      "num": 586203,
       "word": "走好网上群众路线百个成绩突出账号",
       "onboard_time": 1749546920,
       "rank": 2,
@@ -609,14 +657,6 @@
       "onboard_time": 1749586993,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 14528,
-      "num": 79248,
-      "word": "洛杉矶遭遇冰火夹击",
-      "onboard_time": 1749597739,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14056,
