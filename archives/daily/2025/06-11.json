@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749580578445,
+  "endTime": 1749581423150,
   "band_list": [
     {
       "raw_hot": 525352,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252241,
+      "num": 31215,
+      "word": "面瘫哥被捕",
+      "onboard_time": 1749578836,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 251971,
       "num": 251971,
       "word": "国足不是最后一名",
@@ -105,14 +113,6 @@
       "onboard_time": 1749569120,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 236771,
-      "num": 31215,
-      "word": "面瘫哥被捕",
-      "onboard_time": 1749578836,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 208918,
@@ -187,19 +187,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150951,
+      "num": 150951,
+      "word": "文旅局回应女孩遭男子水枪攻击失明",
+      "onboard_time": 1749575296,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150507,
       "num": 150507,
       "word": "10岁女孩公园荡网红秋千坠河去世",
       "onboard_time": 1749559941,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141755,
-      "num": 148114,
-      "word": "文旅局回应女孩遭男子水枪攻击失明",
-      "onboard_time": 1749575296,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -459,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31457,
+      "num": 31457,
+      "word": "韩乔生说国足在狼藉中翻出一粒金子",
+      "onboard_time": 1749580994,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25472,
       "num": 74568,
       "word": "毕业礼物",
@@ -483,20 +491,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16895,
+      "raw_hot": 20488,
+      "num": 45371,
+      "word": "美国加州街头变战场",
+      "onboard_time": 1749580395,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18321,
       "num": 34060,
       "word": "航母上的起飞瞬间",
       "onboard_time": 1749577936,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12779,
-      "num": 31246,
-      "word": "美国加州街头变战场",
-      "onboard_time": 1749580395,
-      "rank": 29,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
