@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749594314470,
+  "endTime": 1749595424024,
   "band_list": [
     {
       "raw_hot": 525352,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343943,
+      "num": 516298,
+      "word": "那尔那茜本科毕业后留学3年",
+      "onboard_time": 1749571820,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331691,
       "num": 205585,
       "word": "王皓已通过考编笔试",
@@ -75,16 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272571,
-      "num": 400364,
-      "word": "那尔那茜本科毕业后留学3年",
-      "onboard_time": 1749571820,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 252241,
-      "num": 198959,
+      "raw_hot": 280487,
+      "num": 280487,
       "word": "面瘫哥被捕",
       "onboard_time": 1749578836,
       "rank": 30,
@@ -155,8 +155,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172490,
-      "num": 172490,
+      "raw_hot": 176539,
+      "num": 176539,
       "word": "特朗普早就看不惯加州州长",
       "onboard_time": 1749588855,
       "rank": 8,
@@ -235,6 +235,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 128572,
+      "num": 128572,
+      "word": "为救女儿生下的儿子也患罕见遗传病",
+      "onboard_time": 1749565403,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126157,
+      "num": 126157,
+      "word": "村民用来测水质的玉米苗被连夜拔掉",
+      "onboard_time": 1749569781,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120726,
       "num": 120726,
       "word": "中美经贸磋商",
@@ -291,20 +307,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 102809,
-      "num": 102809,
-      "word": "村民用来测水质的玉米苗被连夜拔掉",
-      "onboard_time": 1749569781,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97658,
-      "num": 97658,
-      "word": "为救女儿生下的儿子也患罕见遗传病",
-      "onboard_time": 1749565403,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 95208,
+      "num": 95208,
+      "word": "韩乔生说国足在狼藉中翻出一粒金子",
+      "onboard_time": 1749580994,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 94050,
@@ -329,6 +337,14 @@
       "onboard_time": 1749537740,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84915,
+      "num": 84915,
+      "word": "美国加州街头变战场",
+      "onboard_time": 1749580395,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82279,
@@ -387,12 +403,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 70389,
-      "num": 70389,
-      "word": "美国加州街头变战场",
-      "onboard_time": 1749580395,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 69509,
+      "num": 75210,
+      "word": "黄圣依程潇谈是否接受婚前同居",
+      "onboard_time": 1749575957,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 67540,
@@ -403,12 +419,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 67173,
-      "num": 67173,
-      "word": "韩乔生说国足在狼藉中翻出一粒金子",
-      "onboard_time": 1749580994,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 65386,
+      "num": 65386,
+      "word": "影帝回老家也得割麦子",
+      "onboard_time": 1749592575,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 63368,
@@ -443,16 +459,16 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 51225,
-      "num": 58824,
-      "word": "黄圣依程潇谈是否接受婚前同居",
-      "onboard_time": 1749575957,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 53873,
+      "num": 53873,
+      "word": "lvg",
+      "onboard_time": 1749594796,
+      "rank": 31,
+      "category": "电竞"
     },
     {
-      "raw_hot": 45097,
-      "num": 46106,
+      "raw_hot": 47897,
+      "num": 47897,
       "word": "美抗议者问难道这就是MAGA",
       "onboard_time": 1749574458,
       "rank": 42,
@@ -483,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38878,
-      "num": 38878,
-      "word": "影帝回老家也得割麦子",
-      "onboard_time": 1749592575,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36125,
       "num": 36125,
       "word": "星穹铁道赛飞儿",
@@ -499,28 +507,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25472,
-      "num": 74568,
-      "word": "毕业礼物",
-      "onboard_time": 1749571999,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 33449,
+      "num": 33449,
+      "word": "南通队应援摇人摇来了石宇奇黄旭",
+      "onboard_time": 1749591794,
+      "rank": 49,
+      "category": "体育"
     },
     {
-      "raw_hot": 24670,
-      "num": 30138,
+      "raw_hot": 31385,
+      "num": 31385,
       "word": "约700名海军陆战队将部署洛杉矶",
       "onboard_time": 1749587414,
       "rank": 9,
       "category": "国际时政"
     },
     {
-      "raw_hot": 23294,
-      "num": 23294,
+      "raw_hot": 29183,
+      "num": 119545,
       "word": "蚌埠再通报污染致上万亩水稻无水",
       "onboard_time": 1749587654,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25472,
+      "num": 74568,
+      "word": "毕业礼物",
+      "onboard_time": 1749571999,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 21668,
@@ -537,14 +553,6 @@
       "onboard_time": 1749546920,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20033,
-      "num": 23081,
-      "word": "南通队应援摇人摇来了石宇奇黄旭",
-      "onboard_time": 1749591794,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 18321,
