@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749576204310,
+  "endTime": 1749577375380,
   "band_list": [
     {
       "raw_hot": 525352,
@@ -155,7 +155,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153152,
+      "raw_hot": 162067,
       "num": 131202,
       "word": "程潇自曝经常拉黑别人",
       "onboard_time": 1749573858,
@@ -267,6 +267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 106644,
+      "num": 110238,
+      "word": "文旅局回应女孩遭男子水枪攻击失明",
+      "onboard_time": 1749575296,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102809,
       "num": 102809,
       "word": "村民用来测水质的玉米苗被连夜拔掉",
@@ -355,7 +363,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70159,
+      "raw_hot": 70877,
       "num": 112051,
       "word": "108万天价拉布布成交",
       "onboard_time": 1749573918,
@@ -403,12 +411,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 51225,
+      "num": 51225,
+      "word": "黄圣依程潇谈是否接受婚前同居",
+      "onboard_time": 1749575957,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45097,
       "num": 45097,
       "word": "美抗议者问难道这就是MAGA",
       "onboard_time": 1749574458,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44142,
+      "num": 106479,
+      "word": "泡泡玛特创始人成河南新首富",
+      "onboard_time": 1749570740,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 43889,
@@ -419,20 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38983,
-      "num": 42127,
-      "word": "黄圣依程潇谈是否接受婚前同居",
-      "onboard_time": 1749575957,
+      "raw_hot": 36125,
+      "num": 36125,
+      "word": "星穹铁道赛飞儿",
+      "onboard_time": 1749576677,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 27977,
-      "num": 110238,
-      "word": "文旅局回应女孩遭男子水枪攻击失明",
-      "onboard_time": 1749575296,
-      "rank": 9,
-      "category": "民生新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 25472,
