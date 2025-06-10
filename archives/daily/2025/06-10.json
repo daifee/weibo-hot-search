@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749560013342,
+  "endTime": 1749560948529,
   "band_list": [
     {
       "raw_hot": 2810225,
@@ -67,6 +67,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1256725,
+      "num": 1256725,
+      "word": "温州大桥车祸19岁摩托车手坠海身亡",
+      "onboard_time": 1749557481,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1256479,
       "num": 1256479,
       "word": "唐嫣方曾回应迟到一个月未进组",
@@ -88,14 +96,6 @@
       "word": "女孩漂流遭男子高压水枪攻击致失明",
       "onboard_time": 1749540380,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1107305,
-      "num": 1177168,
-      "word": "温州大桥车祸19岁摩托车手坠海身亡",
-      "onboard_time": 1749557481,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -137,6 +137,14 @@
       "onboard_time": 1749523821,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 964530,
+      "num": 964530,
+      "word": "袁记云饺门店回应肉馅有小虫爬",
+      "onboard_time": 1749554301,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 957599,
@@ -209,14 +217,6 @@
       "onboard_time": 1749534980,
       "rank": 3,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 723855,
-      "num": 723855,
-      "word": "袁记云饺门店回应肉馅有小虫爬",
-      "onboard_time": 1749554301,
-      "rank": 20,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 714316,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 561469,
+      "num": 561469,
+      "word": "韦东奕近期在数学顶级期刊发文",
+      "onboard_time": 1749555440,
+      "rank": 49,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 561431,
       "num": 561937,
       "word": "日本居民凌晨1点排队买米",
@@ -363,20 +371,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 509997,
-      "num": 509997,
-      "word": "韦东奕近期在数学顶级期刊发文",
-      "onboard_time": 1749555440,
-      "rank": 49,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 501775,
       "num": 501775,
       "word": "Labubu 张飞",
       "onboard_time": 1749538582,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 500195,
+      "num": 500195,
+      "word": "女孩荡秋千坠河去世秋千安装者被判担责",
+      "onboard_time": 1749557180,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 499618,
@@ -483,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 430753,
-      "num": 430753,
-      "word": "女孩荡秋千坠河去世秋千安装者被判担责",
-      "onboard_time": 1749557180,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 419783,
       "num": 419783,
       "word": "爸爸的朋友不知道他去世提排骨找他",
@@ -529,6 +529,14 @@
       "onboard_time": 1749545421,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 381284,
+      "num": 381284,
+      "word": "国足半场0比0巴林",
+      "onboard_time": 1749558621,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 378173,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 341598,
-      "num": 242513,
+      "num": 315637,
       "word": "初代Labubu被108万拍卖成交",
       "onboard_time": 1749557001,
       "rank": 31,
@@ -633,6 +641,14 @@
       "onboard_time": 1749537261,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340265,
+      "num": 340265,
+      "word": "日本6比0印尼",
+      "onboard_time": 1749560783,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 338754,
@@ -747,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280394,
+      "num": 237611,
+      "word": "王楚钦labubu",
+      "onboard_time": 1749560122,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275545,
       "num": 275545,
       "word": "燃气公司招北大毕业生当抄表工",
@@ -809,6 +833,14 @@
       "onboard_time": 1749513020,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 256766,
+      "num": 256766,
+      "word": "男子吃见手青中毒一直帮凤凰捋毛",
+      "onboard_time": 1749559402,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254359,
@@ -875,6 +907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 236003,
+      "num": 236003,
+      "word": "日本vs印尼",
+      "onboard_time": 1749560783,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235800,
       "num": 413853,
       "word": "杨紫2025微博瞩目影人",
@@ -889,14 +929,6 @@
       "onboard_time": 1749476543,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233699,
-      "num": 285815,
-      "word": "国足半场0比0巴林",
-      "onboard_time": 1749558621,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 233345,
@@ -1099,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 202572,
+      "num": 237181,
+      "word": "苏醒说还不知道披荆斩棘即将面对什么",
+      "onboard_time": 1749560062,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202203,
       "num": 202203,
       "word": "临江仙12集",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1749520580,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 197617,
+      "num": 249807,
+      "word": "郑晓龙说藏海传最重要是填坑",
+      "onboard_time": 1749560361,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 197572,
@@ -1411,14 +1459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177150,
-      "num": 177150,
-      "word": "男子吃见手青中毒一直帮凤凰捋毛",
-      "onboard_time": 1749559402,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173983,
       "num": 173983,
       "word": "山东生物",
@@ -1491,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170425,
+      "num": 170424,
+      "word": "舒淇也在追长安的荔枝",
+      "onboard_time": 1749559822,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170280,
       "num": 170280,
       "word": "时代少年团互谈西游惊艳造型",
@@ -1531,6 +1579,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 167582,
+      "num": 293449,
+      "word": "一斤小龙虾从40元跌到15元",
+      "onboard_time": 1749559041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167147,
       "num": 167147,
       "word": "樊振东回应战胜林高远",
@@ -1569,6 +1625,14 @@
       "onboard_time": 1749520580,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165047,
+      "num": 165047,
+      "word": "10岁女孩公园荡网红秋千坠河去世",
+      "onboard_time": 1749559941,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164884,
@@ -1723,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157420,
+      "num": 157420,
+      "word": "国足vs巴林",
+      "onboard_time": 1749552920,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157391,
       "num": 157391,
       "word": "惊封广播剧破亿",
@@ -1803,12 +1875,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 150996,
-      "num": 150996,
-      "word": "国足vs巴林",
-      "onboard_time": 1749552920,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 151657,
+      "num": 151657,
+      "word": "田曦薇姐姐妹妹抓娃娃上班",
+      "onboard_time": 1749560302,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 150799,
+      "num": 150799,
+      "word": "东极岛明日定档",
+      "onboard_time": 1749560783,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150003,
+      "num": 175104,
+      "word": "JOY朴秀荣开球",
+      "onboard_time": 1749558981,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 149616,
@@ -1825,14 +1913,6 @@
       "onboard_time": 1749550580,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148965,
-      "num": 148965,
-      "word": "JOY朴秀荣开球",
-      "onboard_time": 1749558981,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 148803,
@@ -2236,7 +2316,7 @@
     },
     {
       "raw_hot": 122592,
-      "num": 141984,
+      "num": 172343,
       "word": "林高远3比0薛飞",
       "onboard_time": 1749558320,
       "rank": 41,
@@ -2299,6 +2379,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 119693,
+      "num": 176352,
+      "word": "国足1比0巴林",
+      "onboard_time": 1749560841,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119299,
       "num": 119299,
       "word": "单依纯时尚芭莎演唱嘉宾",
@@ -2313,14 +2401,6 @@
       "onboard_time": 1749534921,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 118287,
-      "num": 118287,
-      "word": "10岁女孩公园荡网红秋千坠河去世",
-      "onboard_time": 1749559941,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118234,
@@ -2361,14 +2441,6 @@
       "onboard_time": 1749534081,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117160,
-      "num": 117160,
-      "word": "舒淇也在追长安的荔枝",
-      "onboard_time": 1749559822,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 116681,
@@ -2683,14 +2755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89357,
-      "num": 293449,
-      "word": "一斤小龙虾从40元跌到15元",
-      "onboard_time": 1749559041,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88771,
       "num": 208293,
       "word": "3人偷上百斤大蒜只为做糖蒜吃",
@@ -2721,6 +2785,14 @@
       "onboard_time": 1749546682,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86831,
+      "num": 420044,
+      "word": "韦东奕舆论喧嚣之外其实专注学术",
+      "onboard_time": 1749559402,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 86133,
@@ -2891,12 +2963,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 76211,
-      "num": 420044,
-      "word": "韦东奕舆论喧嚣之外其实专注学术",
-      "onboard_time": 1749559402,
-      "rank": 9,
-      "category": "教育"
+      "raw_hot": 76197,
+      "num": 242621,
+      "word": "网友质疑袁记云饺肉馅有小虫爬",
+      "onboard_time": 1749560662,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75412,
@@ -3003,6 +3075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67359,
+      "num": 298911,
+      "word": "为何越来越多人聊天时不喜欢用标点",
+      "onboard_time": 1749558681,
+      "rank": 17,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 66798,
       "num": 66798,
       "word": "高考语文40分钟前被马蜂蛰了",
@@ -3049,14 +3129,6 @@
       "onboard_time": 1749543681,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62149,
-      "num": 298911,
-      "word": "为何越来越多人聊天时不喜欢用标点",
-      "onboard_time": 1749558681,
-      "rank": 17,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 61304,
@@ -3203,6 +3275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 52347,
+      "num": 247646,
+      "word": "男子借15万以贷养贷担保费高达6万",
+      "onboard_time": 1749560662,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 51498,
       "num": 192718,
       "word": "记者直击洛杉矶中国城响起爆炸声",
@@ -3233,6 +3313,14 @@
       "onboard_time": 1749550221,
       "rank": 24,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 48942,
+      "num": 306658,
+      "word": "有商家卖清华空气北大校内土",
+      "onboard_time": 1749559101,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48593,
@@ -3339,8 +3427,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 37017,
-      "num": 716095,
+      "raw_hot": 38209,
+      "num": 784775,
       "word": "中国时尚产业盛典",
       "onboard_time": 1749556760,
       "rank": 2,
@@ -3352,6 +3440,14 @@
       "word": "医生建议玩漂流时戴护目镜",
       "onboard_time": 1749548122,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34550,
+      "num": 247535,
+      "word": "医生回应女子质疑拆线器械未消毒",
+      "onboard_time": 1749559462,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3369,14 +3465,6 @@
       "onboard_time": 1749526820,
       "rank": 17,
       "category": "电影,作品衍生"
-    },
-    {
-      "raw_hot": 33603,
-      "num": 306658,
-      "word": "有商家卖清华空气北大校内土",
-      "onboard_time": 1749559101,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33539,
@@ -3409,6 +3497,14 @@
       "onboard_time": 1749551301,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 31411,
+      "num": 251954,
+      "word": "美国派更多军警镇压洛杉矶骚乱",
+      "onboard_time": 1749559402,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31212,
@@ -3483,20 +3579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27706,
+      "num": 295938,
+      "word": "律师称高压水枪伤眼景区或需担责",
+      "onboard_time": 1749559881,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27645,
       "num": 118825,
       "word": "iOS26都有哪些更新",
       "onboard_time": 1749534860,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 26403,
-      "num": 247535,
-      "word": "医生回应女子质疑拆线器械未消毒",
-      "onboard_time": 1749559462,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26154,
@@ -3603,14 +3699,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19581,
-      "num": 206277,
-      "word": "律师称高压水枪伤眼景区或需担责",
-      "onboard_time": 1749559881,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18079,
       "num": 345509,
       "word": "加州高铁17年花160亿一条轨道没铺",
@@ -3672,14 +3760,6 @@
       "word": "抗议者在洛杉矶市政厅外设路障",
       "onboard_time": 1749550221,
       "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 13913,
-      "num": 251954,
-      "word": "美国派更多军警镇压洛杉矶骚乱",
-      "onboard_time": 1749559402,
-      "rank": 28,
       "category": "国际时政"
     },
     {

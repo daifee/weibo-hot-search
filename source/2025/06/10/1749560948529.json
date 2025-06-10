@@ -1,0 +1,410 @@
+{
+  "runTime": 1749560948529,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1256725,
+        "num": 1256725,
+        "word": "温州大桥车祸19岁摩托车手坠海身亡",
+        "onboard_time": 1749557481,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 964530,
+        "num": 964530,
+        "word": "袁记云饺门店回应肉馅有小虫爬",
+        "onboard_time": 1749554301,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 38209,
+        "num": 784775,
+        "word": "中国时尚产业盛典",
+        "onboard_time": 1749556760,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 674197,
+        "num": 674197,
+        "word": "百万网红大头突发疾病离世",
+        "onboard_time": 1749555922,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 624056,
+        "num": 624056,
+        "word": "鹿晗抢票",
+        "onboard_time": 1749553820,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 561469,
+        "num": 561469,
+        "word": "韦东奕近期在数学顶级期刊发文",
+        "onboard_time": 1749555440,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 500195,
+        "num": 500195,
+        "word": "女孩荡秋千坠河去世秋千安装者被判担责",
+        "onboard_time": 1749557180,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386881,
+        "num": 386881,
+        "word": "爸爸的朋友不知道他去世提排骨找他",
+        "onboard_time": 1749554421,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381284,
+        "num": 381284,
+        "word": "国足半场0比0巴林",
+        "onboard_time": 1749558621,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215336,
+        "num": 355250,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398947,
+        "num": 354365,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1749545362,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340265,
+        "num": 340265,
+        "word": "日本6比0印尼",
+        "onboard_time": 1749560783,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332142,
+        "num": 332142,
+        "word": "唐嫣方曾回应迟到一个月未进组",
+        "onboard_time": 1749549142,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315637,
+        "num": 315637,
+        "word": "初代Labubu被108万拍卖成交",
+        "onboard_time": 1749557001,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 27706,
+        "num": 295938,
+        "word": "律师称高压水枪伤眼景区或需担责",
+        "onboard_time": 1749559881,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292853,
+        "num": 292853,
+        "word": "Red女团韩国初舞台",
+        "onboard_time": 1749556401,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256766,
+        "num": 256766,
+        "word": "男子吃见手青中毒一直帮凤凰捋毛",
+        "onboard_time": 1749559402,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306199,
+        "num": 256579,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219637,
+        "num": 254991,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1749540922,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67359,
+        "num": 253937,
+        "word": "为何越来越多人聊天时不喜欢用标点",
+        "onboard_time": 1749558681,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 188167,
+        "num": 251361,
+        "word": "李一桐有自己的Gaga扇子",
+        "onboard_time": 1749559702,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48942,
+        "num": 249852,
+        "word": "有商家卖清华空气北大校内土",
+        "onboard_time": 1749559101,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197617,
+        "num": 249807,
+        "word": "郑晓龙说藏海传最重要是填坑",
+        "onboard_time": 1749560361,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52347,
+        "num": 247646,
+        "word": "男子借15万以贷养贷担保费高达6万",
+        "onboard_time": 1749560662,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 622596,
+        "num": 246012,
+        "word": "原来排卵期一直都在被误解",
+        "onboard_time": 1749541822,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87161,
+        "num": 244798,
+        "word": "男子玩密室逃脱撞上桌子十级伤残",
+        "onboard_time": 1749557662,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53191,
+        "num": 243669,
+        "word": "一汽丰田董修惠谈bZ5合资新力量",
+        "onboard_time": 1749557781,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 76197,
+        "num": 242621,
+        "word": "网友质疑袁记云饺肉馅有小虫爬",
+        "onboard_time": 1749560662,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34550,
+        "num": 240536,
+        "word": "医生回应女子质疑拆线器械未消毒",
+        "onboard_time": 1749559462,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31411,
+        "num": 240134,
+        "word": "美国派更多军警镇压洛杉矶骚乱",
+        "onboard_time": 1749559402,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280394,
+        "num": 237611,
+        "word": "王楚钦labubu",
+        "onboard_time": 1749560122,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202572,
+        "num": 237181,
+        "word": "苏醒说还不知道披荆斩棘即将面对什么",
+        "onboard_time": 1749560062,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236003,
+        "num": 236003,
+        "word": "日本vs印尼",
+        "onboard_time": 1749560783,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187405,
+        "num": 187405,
+        "word": "球迷场外喊话王钰栋2030一定进",
+        "onboard_time": 1749558861,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184442,
+        "num": 184442,
+        "word": "18位待爆生",
+        "onboard_time": 1749558921,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119693,
+        "num": 176352,
+        "word": "国足1比0巴林",
+        "onboard_time": 1749560841,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167582,
+        "num": 175392,
+        "word": "一斤小龙虾从40元跌到15元",
+        "onboard_time": 1749559041,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150003,
+        "num": 175104,
+        "word": "JOY朴秀荣开球",
+        "onboard_time": 1749558981,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175102,
+        "num": 175102,
+        "word": "女孩漂流遭男子高压水枪攻击致失明",
+        "onboard_time": 1749540380,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119075,
+        "num": 172343,
+        "word": "林高远3比0薛飞",
+        "onboard_time": 1749558320,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86831,
+        "num": 170425,
+        "word": "韦东奕舆论喧嚣之外其实专注学术",
+        "onboard_time": 1749559402,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170425,
+        "num": 170424,
+        "word": "舒淇也在追长安的荔枝",
+        "onboard_time": 1749559822,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169141,
+        "num": 169141,
+        "word": "王安宇请立刻离开广东",
+        "onboard_time": 1749546383,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165047,
+        "num": 165047,
+        "word": "10岁女孩公园荡网红秋千坠河去世",
+        "onboard_time": 1749559941,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164361,
+        "num": 164361,
+        "word": "鹿晗抢票难度地狱级别",
+        "onboard_time": 1749559521,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157420,
+        "num": 157420,
+        "word": "国足vs巴林",
+        "onboard_time": 1749552920,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151657,
+        "num": 151657,
+        "word": "田曦薇姐姐妹妹抓娃娃上班",
+        "onboard_time": 1749560302,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150799,
+        "num": 150799,
+        "word": "东极岛明日定档",
+        "onboard_time": 1749560783,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149276,
+        "num": 149276,
+        "word": "女孩遭高压水枪击伤眼睛涉事男子已找到",
+        "onboard_time": 1749558021,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145399,
+        "num": 145399,
+        "word": "洛杉矶市中心彻底疯了",
+        "onboard_time": 1749541761,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同韩国总统李在明通电话#"
+    }
+  }
+}
