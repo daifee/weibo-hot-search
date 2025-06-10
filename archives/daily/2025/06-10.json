@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749534239784,
+  "endTime": 1749537434532,
   "band_list": [
     {
       "raw_hot": 2232988,
@@ -35,12 +35,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1322395,
+      "num": 232334,
+      "word": "A股",
+      "onboard_time": 1749533841,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1121291,
       "num": 965526,
       "word": "北大将帮韦东奕积极治疗",
       "onboard_time": 1749483682,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1083717,
+      "num": 1083717,
+      "word": "刘亦菲陈晓 咸雪",
+      "onboard_time": 1749534201,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 1065163,
@@ -89,6 +105,22 @@
       "onboard_time": 1749525022,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 750105,
+      "num": 750105,
+      "word": "韦雪自曝经济紧张",
+      "onboard_time": 1749534980,
+      "rank": 3,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 680926,
+      "num": 680926,
+      "word": "中美经贸磋商",
+      "onboard_time": 1749534141,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 675614,
@@ -195,6 +227,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 505171,
+      "num": 505171,
+      "word": "苹果 卓里卓气",
+      "onboard_time": 1749535159,
+      "rank": 6,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 499618,
       "num": 985426,
       "word": "那尔那茜初高中就读北京名校",
@@ -265,6 +305,14 @@
       "onboard_time": 1749484161,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431227,
+      "num": 563614,
+      "word": "高考后张桂梅又一次躲到门后",
+      "onboard_time": 1749532881,
+      "rank": 16,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 398436,
@@ -363,6 +411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 310462,
+      "num": 206748,
+      "word": "月薪3700三年存了6万块",
+      "onboard_time": 1749537022,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309227,
       "num": 309227,
       "word": "樊振东说面对没准备到的困难多想想办法",
@@ -408,6 +464,14 @@
       "word": "蒋一侨光速帮侯佩岑找到工作",
       "onboard_time": 1749517401,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 276886,
+      "num": 334139,
+      "word": "披荆斩棘5首期录制",
+      "onboard_time": 1749533782,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -459,14 +523,6 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 263936,
-      "num": 263936,
-      "word": "中美经贸磋商",
-      "onboard_time": 1749534141,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 262971,
       "num": 262971,
       "word": "三款机型无缘iOS26",
@@ -483,20 +539,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 258000,
-      "num": 340555,
-      "word": "高考后张桂梅又一次躲到门后",
-      "onboard_time": 1749532881,
-      "rank": 16,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 252090,
-      "num": 334139,
-      "word": "披荆斩棘5首期录制",
-      "onboard_time": 1749533782,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 254359,
+      "num": 231564,
+      "word": "光与夜之恋万达",
+      "onboard_time": 1749536301,
+      "rank": 12,
+      "category": "游戏,电影"
     },
     {
       "raw_hot": 250385,
@@ -571,6 +619,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 227059,
+      "num": 227059,
+      "word": "黄杨钿甜删除多条内容",
+      "onboard_time": 1749537080,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224563,
       "num": 168709,
       "word": "iOS26 液态玻璃",
@@ -617,6 +673,22 @@
       "onboard_time": 1749530122,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208064,
+      "num": 208064,
+      "word": "赴山海双轨书卷一梦上线通知",
+      "onboard_time": 1749533300,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206595,
+      "num": 206595,
+      "word": "为什么恋爱谈久了很难结婚",
+      "onboard_time": 1749534679,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 204328,
@@ -667,6 +739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 198174,
+      "num": 198174,
+      "word": "李晟成团后芒果台首秀",
+      "onboard_time": 1749536180,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197725,
       "num": 197725,
       "word": "iPhone将提醒相机镜头脏了",
@@ -691,6 +771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192861,
+      "num": 208034,
+      "word": "牛冠凯3比2赵子豪",
+      "onboard_time": 1749536240,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192844,
       "num": 187963,
       "word": "90后月入过万的生活花销",
@@ -699,11 +787,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192797,
-      "num": 192797,
-      "word": "赴山海双轨书卷一梦上线通知",
-      "onboard_time": 1749533300,
-      "rank": 26,
+      "raw_hot": 191625,
+      "num": 191625,
+      "word": "导演说肖战真的很爱藏海",
+      "onboard_time": 1749535701,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -907,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162533,
+      "num": 162533,
+      "word": "咸雪",
+      "onboard_time": 1749536539,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161579,
       "num": 161579,
       "word": "我将守着我的iOS17过一辈子",
@@ -955,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158586,
+      "num": 165885,
+      "word": "北大回应商家售卖未名湖湖水",
+      "onboard_time": 1749534560,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158009,
       "num": 158009,
       "word": "原来胎教是真的有用",
@@ -987,14 +1091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153566,
-      "num": 153566,
-      "word": "刘亦菲陈晓 咸雪",
-      "onboard_time": 1749534201,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152439,
       "num": 152439,
       "word": "迪丽热巴满眼都是对身高的渴望",
@@ -1009,6 +1105,22 @@
       "onboard_time": 1749486379,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 151217,
+      "num": 151217,
+      "word": "王楚钦说林昀儒尽力了",
+      "onboard_time": 1749536720,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148538,
+      "num": 148538,
+      "word": "李诚儒撕掉节目组规则不淘汰学员",
+      "onboard_time": 1749537261,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 146810,
@@ -1091,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141328,
+      "num": 141328,
+      "word": "多个商家售卖北京大学未名湖湖水",
+      "onboard_time": 1749536539,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139385,
       "num": 139385,
       "word": "女子贷款4万花10万做医美崩溃",
@@ -1107,12 +1227,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136934,
+      "num": 134630,
+      "word": "刘浩存抬手不是OK是还能救仨",
+      "onboard_time": 1749536000,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135670,
       "num": 113688,
       "word": "197帅哥被浙大提前录取仍参加高考",
       "onboard_time": 1749472281,
       "rank": 41,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 134638,
+      "num": 134638,
+      "word": "梁家辉60多岁了气血咋还这么足",
+      "onboard_time": 1749535941,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 134616,
+      "num": 133711,
+      "word": "悟出了面试通过的一个底层逻辑",
+      "onboard_time": 1749534380,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 134484,
+      "num": 134484,
+      "word": "刘浩存我也有一个朋友",
+      "onboard_time": 1749536779,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 133417,
@@ -1139,12 +1291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131583,
+      "num": 131583,
+      "word": "上海地产vs安徽中程",
+      "onboard_time": 1749536720,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131546,
       "num": 131546,
       "word": "这么抽象的女儿她居然拥有三个",
       "onboard_time": 1749512718,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129096,
+      "num": 129096,
+      "word": "范丞丞害怕玩梗玩不过沈腾",
+      "onboard_time": 1749534860,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 128990,
@@ -1211,6 +1379,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 119090,
+      "num": 119090,
+      "word": "iOS26",
+      "onboard_time": 1749534921,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118234,
       "num": 118234,
       "word": "魏大勋新综开头就这么刺激",
@@ -1225,6 +1401,22 @@
       "onboard_time": 1749483201,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117210,
+      "num": 156033,
+      "word": "王楚钦这个救球太精彩了",
+      "onboard_time": 1749534081,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117127,
+      "num": 117127,
+      "word": "麻花特开心一看全是沈腾的兵",
+      "onboard_time": 1749537319,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115891,
@@ -1337,14 +1529,6 @@
       "onboard_time": 1749533181,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98727,
-      "num": 156033,
-      "word": "王楚钦这个救球太精彩了",
-      "onboard_time": 1749534081,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 98187,
@@ -1507,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77792,
+      "num": 207578,
+      "word": "72岁老人家中清出近1吨废品",
+      "onboard_time": 1749537080,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77083,
       "num": 77083,
       "word": "刘亦菲李沁中间这位女士",
@@ -1539,12 +1731,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75412,
+      "num": 134491,
+      "word": "华东理工3比1山东鲁能",
+      "onboard_time": 1749535880,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74487,
       "num": 74487,
       "word": "见证高考这场青春逐梦盛大收官",
       "onboard_time": 1749482661,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72886,
+      "num": 198852,
+      "word": "洛杉矶街头随处可见防暴弹",
+      "onboard_time": 1749535460,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72466,
@@ -1747,6 +1955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36064,
+      "num": 134502,
+      "word": "胡锡进称特朗普打响最狠战争",
+      "onboard_time": 1749537319,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33959,
       "num": 388381,
       "word": "陈建斌蒋勤勤官宣微博电影之夜",
@@ -1809,6 +2025,22 @@
       "onboard_time": 1749518781,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27645,
+      "num": 118825,
+      "word": "iOS26都有哪些更新",
+      "onboard_time": 1749534860,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 26897,
+      "num": 207349,
+      "word": "出现感冒症状何时该去医院",
+      "onboard_time": 1749537080,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 25690,
