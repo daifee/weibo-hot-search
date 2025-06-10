@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/10 23:28:07
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/10 23:42:45
 </p>
 </blockquote>
 <p>
@@ -3423,6 +3423,12 @@ Labubu全球爆火一娃难求（热度：545084）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%99%E8%87%AA%E5%B7%B1%E7%AD%BE%E5%AD%97%E5%BC%80%E4%BA%8650%E5%B0%8F%E6%97%B6%E6%97%A0%E7%97%9B%23" target="weibo">
+女子给自己签字开了50小时无痛（热度：514597）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%93%88%E4%BD%9B%E6%BC%94%E8%AE%B2%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E9%99%B7%E5%85%A5%E4%B8%A4%E9%9A%BE%23" target="weibo">
 在哈佛演讲中国女生陷入两难（热度：514024）
 </a>
@@ -3845,12 +3851,6 @@ IU车银优双人cha（热度：474153）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E9%A3%9E%E4%B8%8A%E6%B5%B7%E5%AE%A2%E6%9C%BA%E8%B5%B7%E9%A3%9E%E7%BB%958%E5%9C%88%E5%90%8E%E8%BF%94%E8%88%AA%23" target="weibo">
 沈阳飞上海客机起飞绕8圈后返航（热度：473424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%99%E8%87%AA%E5%B7%B1%E7%AD%BE%E5%AD%97%E5%BC%80%E4%BA%8650%E5%B0%8F%E6%97%B6%E6%97%A0%E7%97%9B%23" target="weibo">
-女子给自己签字开了50小时无痛（热度：471818）
 </a>
 </li>
 

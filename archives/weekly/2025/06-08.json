@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749569287009,
+  "endTime": 1749570165997,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -1475,6 +1475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 514597,
+      "num": 295828,
+      "word": "女子给自己签字开了50小时无痛",
+      "onboard_time": 1749565702,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 511623,
       "num": 511623,
       "word": "好想活得像labubu一样啊",
@@ -1640,14 +1648,6 @@
       "word": "沈阳飞上海客机起飞绕8圈后返航",
       "onboard_time": 1749370040,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471818,
-      "num": 295828,
-      "word": "女子给自己签字开了50小时无痛",
-      "onboard_time": 1749565702,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -3595,6 +3595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233840,
+      "num": 219236,
+      "word": "银行存5万送Labubu真的值吗",
+      "onboard_time": 1749569120,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233638,
       "num": 233638,
       "word": "樊振东11比7闫安",
@@ -3835,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220407,
+      "num": 220407,
+      "word": "文俊辉直播",
+      "onboard_time": 1749568820,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220404,
       "num": 404093,
       "word": "檀健次微博瞩目影人",
@@ -4051,6 +4067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208025,
+      "num": 224415,
+      "word": "陈赫炫耀labubu衣服",
+      "onboard_time": 1749569301,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207814,
       "num": 367020,
       "word": "何瑞贤新剧是白鹿梦女",
@@ -4249,14 +4273,6 @@
       "onboard_time": 1749441501,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202492,
-      "num": 202492,
-      "word": "文俊辉直播",
-      "onboard_time": 1749568820,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 202445,
@@ -5147,14 +5163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181218,
-      "num": 181218,
-      "word": "银行存5万送Labubu真的值吗",
-      "onboard_time": 1749569120,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181215,
       "num": 181215,
       "word": "特朗普上台后日均抓656名非法移民",
@@ -5209,6 +5217,14 @@
       "onboard_time": 1749313283,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180086,
+      "num": 153650,
+      "word": "王皓已通过考编笔试",
+      "onboard_time": 1749569721,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 179992,
@@ -5296,6 +5312,14 @@
       "word": "麻花特开心一看全是沈腾的兵",
       "onboard_time": 1749537319,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177359,
+      "num": 177359,
+      "word": "刘宇宁九万字百万点赞",
+      "onboard_time": 1749568941,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -8203,6 +8227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120910,
+      "num": 182534,
+      "word": "景甜第二次演尾鱼女主了",
+      "onboard_time": 1749567682,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120447,
       "num": 355988,
       "word": "场外陪考卷出新高度",
@@ -8499,6 +8531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 114209,
+      "num": 114209,
+      "word": "王钰栋赛后致歉",
+      "onboard_time": 1749566842,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114108,
       "num": 118479,
       "word": "樊振东沉浸式观战队友",
@@ -8521,14 +8561,6 @@
       "onboard_time": 1749435860,
       "rank": 49,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 113801,
-      "num": 182534,
-      "word": "景甜第二次演尾鱼女主了",
-      "onboard_time": 1749567682,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 113613,
@@ -8675,22 +8707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108574,
-      "num": 108574,
-      "word": "王钰栋赛后致歉",
-      "onboard_time": 1749566842,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 108567,
-      "num": 108567,
-      "word": "刘宇宁九万字百万点赞",
-      "onboard_time": 1749568941,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108550,
       "num": 108550,
       "word": "柯淳第一次感受电影式拍摄方法",
@@ -8803,6 +8819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104124,
+      "num": 104124,
+      "word": "坠湖女司机独自抚养2个大学生",
+      "onboard_time": 1749570079,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104101,
       "num": 160440,
       "word": "高芙太能防了",
@@ -8897,6 +8921,14 @@
       "onboard_time": 1749365000,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100527,
+      "num": 100527,
+      "word": "村民用来测水质的玉米苗被连夜拔掉",
+      "onboard_time": 1749569781,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100487,
@@ -9241,6 +9273,14 @@
       "onboard_time": 1749539482,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85092,
+      "num": 227284,
+      "word": "女子称丈夫因离婚纠纷毒死2亲生儿女",
+      "onboard_time": 1749569481,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84966,
@@ -10171,6 +10211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54908,
+      "num": 243496,
+      "word": "伤眼女孩称景区没阻拦没呼叫救援",
+      "onboard_time": 1749568161,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54471,
       "num": 67200,
       "word": "潜渊首播收视率",
@@ -10393,14 +10441,6 @@
       "onboard_time": 1749445283,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 45843,
-      "num": 243496,
-      "word": "伤眼女孩称景区没阻拦没呼叫救援",
-      "onboard_time": 1749568161,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45826,
@@ -10779,6 +10819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 37226,
+      "num": 122395,
+      "word": "夏以昼高能量执舰官的一天",
+      "onboard_time": 1749569841,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 36894,
       "num": 188713,
       "word": "洛杉矶警察局发表声明",
@@ -10819,6 +10867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36652,
+      "num": 175706,
+      "word": "上海U16女足夺全运会金牌",
+      "onboard_time": 1749569301,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36649,
       "num": 36649,
       "word": "官方通报村支书威胁拍天坑垃圾要打",
@@ -10849,6 +10905,14 @@
       "onboard_time": 1749563723,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36195,
+      "num": 231119,
+      "word": "景区回应高压水枪不能带上船",
+      "onboard_time": 1749568282,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35992,
@@ -11091,14 +11155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 31054,
-      "num": 231119,
-      "word": "景区回应高压水枪不能带上船",
-      "onboard_time": 1749568282,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31041,
       "num": 336246,
       "word": "了解4类针对考生骗局",
@@ -11121,6 +11177,14 @@
       "onboard_time": 1749424938,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29990,
+      "num": 219938,
+      "word": "女子为逃收监装瘫痪被发现行动自如",
+      "onboard_time": 1749569421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29885,
@@ -11843,6 +11907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13563,
+      "num": 230109,
+      "word": "AI会是iPhone的短板吗",
+      "onboard_time": 1749568342,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 13503,
       "num": 151218,
       "word": "樊振东说自己在关键球上运气好点",
@@ -11993,14 +12065,6 @@
       "onboard_time": 1749479243,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 10713,
-      "num": 230109,
-      "word": "AI会是iPhone的短板吗",
-      "onboard_time": 1749568342,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 10397,
