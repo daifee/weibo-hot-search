@@ -1,6 +1,6 @@
 {
   "startTime": 1749486849416,
-  "endTime": 1749562722936,
+  "endTime": 1749563455567,
   "band_list": [
     {
       "raw_hot": 2810225,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2416431,
-      "num": 399423,
+      "num": 418709,
       "word": "原来排卵期一直都在被误解",
       "onboard_time": 1749541822,
       "rank": 20,
@@ -67,6 +67,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1268426,
+      "num": 1268426,
+      "word": "王楚钦突发低血糖",
+      "onboard_time": 1749561142,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1256725,
       "num": 1256725,
       "word": "温州大桥车祸19岁摩托车手坠海身亡",
@@ -81,14 +89,6 @@
       "onboard_time": 1749549142,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1178127,
-      "num": 1178127,
-      "word": "王楚钦突发低血糖",
-      "onboard_time": 1749561142,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1121291,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 857352,
+      "num": 857352,
+      "word": "初代Labubu被108万拍卖成交",
+      "onboard_time": 1749557001,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 847671,
       "num": 420875,
       "word": "三毛 赵丽颖裙子",
@@ -209,6 +217,14 @@
       "onboard_time": 1749472281,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 776566,
+      "num": 776566,
+      "word": "孟子义李昀锐 二搭",
+      "onboard_time": 1749561862,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 766737,
@@ -249,14 +265,6 @@
       "onboard_time": 1749535159,
       "rank": 6,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 697768,
-      "num": 697768,
-      "word": "初代Labubu被108万拍卖成交",
-      "onboard_time": 1749557001,
-      "rank": 31,
-      "category": "动漫"
     },
     {
       "raw_hot": 692104,
@@ -443,6 +451,22 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 494889,
+      "num": 494889,
+      "word": "宋江谁允许你变成这样了",
+      "onboard_time": 1749562162,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 492667,
+      "num": 492667,
+      "word": "专家称韦东奕研究员应不是正高职称",
+      "onboard_time": 1749560962,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486490,
       "num": 486490,
       "word": "俄罗斯发动最大规模夜袭",
@@ -465,14 +489,6 @@
       "onboard_time": 1749517461,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 477735,
-      "num": 477735,
-      "word": "孟子义李昀锐 二搭",
-      "onboard_time": 1749561862,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 476073,
@@ -539,8 +555,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 436256,
+      "num": 527727,
+      "word": "10岁女孩公园荡网红秋千坠河去世",
+      "onboard_time": 1749559941,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 422124,
-      "num": 391190,
+      "num": 410742,
       "word": "王楚钦labubu",
       "onboard_time": 1749560122,
       "rank": 30,
@@ -568,14 +592,6 @@
       "word": "杀妻灭子案当事人服刑完毕仍是被告",
       "onboard_time": 1749547822,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 403741,
-      "num": 527727,
-      "word": "10岁女孩公园荡网红秋千坠河去世",
-      "onboard_time": 1749559941,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -691,6 +707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345095,
+      "num": 423471,
+      "word": "18位待爆生",
+      "onboard_time": 1749558921,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345088,
       "num": 345088,
       "word": "披荆斩棘5首期录制",
@@ -737,14 +761,6 @@
       "onboard_time": 1749536539,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 317200,
-      "num": 413470,
-      "word": "18位待爆生",
-      "onboard_time": 1749558921,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 316574,
@@ -827,19 +843,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284471,
-      "num": 284471,
+      "raw_hot": 292102,
+      "num": 474228,
       "word": "男子吃见手青中毒一直帮凤凰捋毛",
       "onboard_time": 1749559402,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279909,
-      "num": 485267,
-      "word": "专家称韦东奕研究员应不是正高职称",
-      "onboard_time": 1749560962,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -884,7 +892,7 @@
     },
     {
       "raw_hot": 265295,
-      "num": 265295,
+      "num": 290939,
       "word": "苏醒说还不知道披荆斩棘即将面对什么",
       "onboard_time": 1749560062,
       "rank": 31,
@@ -931,14 +939,6 @@
       "category": "游戏,电影"
     },
     {
-      "raw_hot": 254350,
-      "num": 254350,
-      "word": "宋江谁允许你变成这样了",
-      "onboard_time": 1749562162,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250385,
       "num": 250385,
       "word": "雷军将启动法律程序",
@@ -980,7 +980,7 @@
     },
     {
       "raw_hot": 238631,
-      "num": 238631,
+      "num": 474356,
       "word": "球迷场外喊话王钰栋2030一定进",
       "onboard_time": 1749558861,
       "rank": 32,
@@ -1417,6 +1417,14 @@
       "onboard_time": 1749513559,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187423,
+      "num": 187423,
+      "word": "章若楠 虎扑扫楼",
+      "onboard_time": 1749563062,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 186771,
@@ -1979,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151142,
+      "num": 255343,
+      "word": "1岁女童误服蚊香液奶奶倒立催吐",
+      "onboard_time": 1749561982,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150003,
       "num": 175104,
       "word": "JOY朴秀荣开球",
@@ -2323,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129568,
+      "num": 218148,
+      "word": "台网红馆长说看看谁在说谎",
+      "onboard_time": 1749559702,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129096,
       "num": 129096,
       "word": "范丞丞害怕玩梗玩不过沈腾",
@@ -2353,14 +2377,6 @@
       "onboard_time": 1749548000,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125697,
-      "num": 125697,
-      "word": "台网红馆长说看看谁在说谎",
-      "onboard_time": 1749559702,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125673,
@@ -2401,14 +2417,6 @@
       "onboard_time": 1749561621,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124063,
-      "num": 255343,
-      "word": "1岁女童误服蚊香液奶奶倒立催吐",
-      "onboard_time": 1749561982,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123460,
@@ -2596,7 +2604,7 @@
     },
     {
       "raw_hot": 114108,
-      "num": 114108,
+      "num": 118479,
       "word": "樊振东沉浸式观战队友",
       "onboard_time": 1749559822,
       "rank": 48,
@@ -2745,6 +2753,14 @@
       "onboard_time": 1749483501,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102468,
+      "num": 102468,
+      "word": "高考的是我 想出片的是我妈",
+      "onboard_time": 1749562162,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 102435,
@@ -3707,6 +3723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27973,
+      "num": 420190,
+      "word": "大学生要选择暑期兼职吗",
+      "onboard_time": 1749561082,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 27706,
       "num": 295938,
       "word": "律师称高压水枪伤眼景区或需担责",
@@ -3833,14 +3857,6 @@
       "onboard_time": 1749540861,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19848,
-      "num": 404663,
-      "word": "大学生要选择暑期兼职吗",
-      "onboard_time": 1749561082,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 18079,
@@ -3985,6 +4001,14 @@
       "onboard_time": 1749501374,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10032,
+      "num": 129814,
+      "word": "中国游正在从各维度持续进阶",
+      "onboard_time": 1749563422,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5524,

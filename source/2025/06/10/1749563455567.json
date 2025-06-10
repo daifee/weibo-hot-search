@@ -1,0 +1,410 @@
+{
+  "runTime": 1749563455567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1268426,
+        "num": 1268426,
+        "word": "王楚钦突发低血糖",
+        "onboard_time": 1749561142,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1048747,
+        "num": 1048747,
+        "word": "温州大桥车祸19岁摩托车手坠海身亡",
+        "onboard_time": 1749557481,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5112,
+        "num": 897136,
+        "word": "2025中国网络文明大会来了",
+        "onboard_time": 1749518781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 857352,
+        "num": 857352,
+        "word": "初代Labubu被108万拍卖成交",
+        "onboard_time": 1749557001,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 793059,
+        "num": 793059,
+        "word": "国足1比0巴林",
+        "onboard_time": 1749560841,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 776566,
+        "num": 776566,
+        "word": "孟子义李昀锐 二搭",
+        "onboard_time": 1749561862,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619599,
+        "num": 619599,
+        "word": "鹿晗抢票",
+        "onboard_time": 1749553820,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35994,
+        "num": 554874,
+        "word": "中国时尚产业盛典",
+        "onboard_time": 1749556760,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 528779,
+        "num": 528779,
+        "word": "百万网红大头突发疾病离世",
+        "onboard_time": 1749555922,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 496255,
+        "num": 496255,
+        "word": "宁静快哭了",
+        "onboard_time": 1749561382,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494889,
+        "num": 494889,
+        "word": "宋江谁允许你变成这样了",
+        "onboard_time": 1749562162,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492667,
+        "num": 492667,
+        "word": "专家称韦东奕研究员应不是正高职称",
+        "onboard_time": 1749560962,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194188,
+        "num": 475700,
+        "word": "中美经贸磋商",
+        "onboard_time": 1749534141,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179186,
+        "num": 474356,
+        "word": "球迷场外喊话王钰栋2030一定进",
+        "onboard_time": 1749558861,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292102,
+        "num": 474228,
+        "word": "男子吃见手青中毒一直帮凤凰捋毛",
+        "onboard_time": 1749559402,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474206,
+        "num": 474206,
+        "word": "袁记云饺门店回应肉馅有小虫爬",
+        "onboard_time": 1749554301,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 436256,
+        "num": 436256,
+        "word": "10岁女孩公园荡网红秋千坠河去世",
+        "onboard_time": 1749559941,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345095,
+        "num": 423471,
+        "word": "18位待爆生",
+        "onboard_time": 1749558921,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254216,
+        "num": 420467,
+        "word": "唐嫣方曾回应迟到一个月未进组",
+        "onboard_time": 1749549142,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27973,
+        "num": 420190,
+        "word": "大学生要选择暑期兼职吗",
+        "onboard_time": 1749561082,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 420130,
+        "num": 420130,
+        "word": "韦东奕近期在数学顶级期刊发文",
+        "onboard_time": 1749555440,
+        "rank": 20,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 758543,
+        "num": 418709,
+        "word": "原来排卵期一直都在被误解",
+        "onboard_time": 1749541822,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 410742,
+        "num": 410742,
+        "word": "王楚钦labubu",
+        "onboard_time": 1749560122,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385346,
+        "num": 385346,
+        "word": "日本6比0印尼",
+        "onboard_time": 1749560783,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335685,
+        "num": 335685,
+        "word": "男子借15万以贷养贷担保费高达6万",
+        "onboard_time": 1749560662,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 295519,
+        "num": 295519,
+        "word": "女孩荡秋千坠河去世秋千安装者被判担责",
+        "onboard_time": 1749557180,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239176,
+        "num": 290939,
+        "word": "苏醒说还不知道披荆斩棘即将面对什么",
+        "onboard_time": 1749560062,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289678,
+        "num": 289678,
+        "word": "上海月薪27000一天的花销",
+        "onboard_time": 1749545362,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191132,
+        "num": 244270,
+        "word": "Red女团韩国初舞台",
+        "onboard_time": 1749556401,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151142,
+        "num": 243813,
+        "word": "1岁女童误服蚊香液奶奶倒立催吐",
+        "onboard_time": 1749561982,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243563,
+        "num": 243563,
+        "word": "国足vs巴林",
+        "onboard_time": 1749552920,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189155,
+        "num": 227194,
+        "word": "郑晓龙说藏海传最重要是填坑",
+        "onboard_time": 1749560361,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129568,
+        "num": 218148,
+        "word": "台网红馆长说看看谁在说谎",
+        "onboard_time": 1749559702,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213684,
+        "num": 213684,
+        "word": "制片人曝唐嫣迟到一个月未进组",
+        "onboard_time": 1749537740,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195299,
+        "num": 195299,
+        "word": "爸爸的朋友不知道他去世提排骨找他",
+        "onboard_time": 1749554421,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187423,
+        "num": 187423,
+        "word": "章若楠 虎扑扫楼",
+        "onboard_time": 1749563062,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146861,
+        "num": 146861,
+        "word": "三毛 赵丽颖裙子",
+        "onboard_time": 1749540922,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138755,
+        "num": 138755,
+        "word": "王钰栋点球破门",
+        "onboard_time": 1749561741,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134009,
+        "num": 134009,
+        "word": "东极岛明日定档",
+        "onboard_time": 1749560783,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133802,
+        "num": 133802,
+        "word": "一斤小龙虾从40元跌到15元",
+        "onboard_time": 1749559041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10032,
+        "num": 129814,
+        "word": "中国游正在从各维度持续进阶",
+        "onboard_time": 1749563422,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129301,
+        "num": 129301,
+        "word": "有我微信和微博的女孩",
+        "onboard_time": 1749559702,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120864,
+        "num": 120864,
+        "word": "广东人最怕的高温暴雨套餐来了",
+        "onboard_time": 1749561682,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89479,
+        "num": 118479,
+        "word": "樊振东沉浸式观战队友",
+        "onboard_time": 1749559822,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117073,
+        "num": 117073,
+        "word": "咸鱼飞升王鹤棣宋潜机",
+        "onboard_time": 1749561202,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111853,
+        "num": 111853,
+        "word": "阴阳师 荒骷髅",
+        "onboard_time": 1749561621,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110817,
+        "num": 110817,
+        "word": "女孩漂流遭男子高压水枪攻击致失明",
+        "onboard_time": 1749540380,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105677,
+        "num": 105677,
+        "word": "JOY朴秀荣开球",
+        "onboard_time": 1749558981,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102468,
+        "num": 102468,
+        "word": "高考的是我 想出片的是我妈",
+        "onboard_time": 1749562162,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98773,
+        "num": 98773,
+        "word": "王钰栋国足首球",
+        "onboard_time": 1749561741,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同韩国总统李在明通电话#"
+    }
+  }
+}
