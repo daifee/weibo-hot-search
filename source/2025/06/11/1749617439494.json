@@ -1,0 +1,410 @@
+{
+  "runTime": 1749617439494,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2302167,
+        "num": 2302167,
+        "word": "小沈阳女儿韩国出道",
+        "onboard_time": 1749612441,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1079484,
+        "num": 1079484,
+        "word": "樊振东3比2林诗栋",
+        "onboard_time": 1749616284,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37270,
+        "num": 1039820,
+        "word": "听听青年的网络文明关键词",
+        "onboard_time": 1749614903,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1017718,
+        "num": 1017718,
+        "word": "这居然是倪妮",
+        "onboard_time": 1749615682,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 804941,
+        "num": 804941,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1749611781,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439150,
+        "num": 439150,
+        "word": "亲妈后爸把娃埋别人坟里拍视频寻子",
+        "onboard_time": 1749615622,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 956957,
+        "num": 438152,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1749609560,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 739780,
+        "num": 437798,
+        "word": "迪丽热巴因一句台词一夜涨粉200万",
+        "onboard_time": 1749609799,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 702587,
+        "num": 435408,
+        "word": "国台办回应藏海传台湾热播",
+        "onboard_time": 1749614122,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37206,
+        "num": 434810,
+        "word": "这届高考生开启暑期游了",
+        "onboard_time": 1749617063,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1119017,
+        "num": 434029,
+        "word": "6块钱一碗的面被通报宴请",
+        "onboard_time": 1749611960,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 894899,
+        "num": 431805,
+        "word": "工资4800三年存下12万",
+        "onboard_time": 1749615622,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 753305,
+        "num": 431235,
+        "word": "网红解释问黄子韬离婚",
+        "onboard_time": 1749611721,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663359,
+        "num": 429950,
+        "word": "范丞丞叫千玺玺子哥",
+        "onboard_time": 1749615863,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66477,
+        "num": 428633,
+        "word": "抢注Labubu创作者姓名商标被驳回",
+        "onboard_time": 1749616284,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358660,
+        "num": 427252,
+        "word": "桂林通报一名6年级男生坠楼",
+        "onboard_time": 1749606740,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 566833,
+        "num": 425363,
+        "word": "王一博更新ins",
+        "onboard_time": 1749614721,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110073,
+        "num": 424345,
+        "word": "产妇有自行签字的权力吗",
+        "onboard_time": 1749615142,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76243,
+        "num": 422754,
+        "word": "爸爸帮抢不到货的女儿复刻Labubu",
+        "onboard_time": 1749615983,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490403,
+        "num": 422206,
+        "word": "4位浪姐自己组团出道",
+        "onboard_time": 1749610460,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492062,
+        "num": 420176,
+        "word": "向佐 这不是我老婆好吗",
+        "onboard_time": 1749616163,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347342,
+        "num": 419484,
+        "word": "东极岛没认出这是吴磊",
+        "onboard_time": 1749616102,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 418704,
+        "num": 418704,
+        "word": "丈夫送情妇千万财物妻子本利全追回",
+        "onboard_time": 1749613881,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407855,
+        "num": 407855,
+        "word": "父亲和女儿总共99岁 女儿多少岁",
+        "onboard_time": 1749615682,
+        "rank": 23,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 383442,
+        "num": 383442,
+        "word": "鹿晗有隐藏款labubu",
+        "onboard_time": 1749601281,
+        "rank": 24,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 330926,
+        "num": 330926,
+        "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
+        "onboard_time": 1749616522,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377480,
+        "num": 323378,
+        "word": "东极岛致敬不该被忘记的中国人",
+        "onboard_time": 1749615263,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299841,
+        "num": 299841,
+        "word": "樊振东樊指导上线了",
+        "onboard_time": 1749616643,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213615,
+        "num": 266717,
+        "word": "内娱没喝中药的姐一下要来四个",
+        "onboard_time": 1749615443,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72700,
+        "num": 262936,
+        "word": "洛杉矶海军陆战队人数是山火时的4倍",
+        "onboard_time": 1749616102,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261858,
+        "num": 261858,
+        "word": "兰香如故官宣",
+        "onboard_time": 1749611120,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257842,
+        "num": 257842,
+        "word": "王一博王安宇爆改王安全",
+        "onboard_time": 1749604341,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256706,
+        "num": 256706,
+        "word": "女孩高考完独自挑行李回家班主任发声",
+        "onboard_time": 1749610702,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238127,
+        "num": 238127,
+        "word": "韩网热议宋茜近照",
+        "onboard_time": 1749604041,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230458,
+        "num": 230458,
+        "word": "沙溢不想删除的照片又多了一张",
+        "onboard_time": 1749615802,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225850,
+        "num": 225850,
+        "word": "王俊凯你的演唱会呢",
+        "onboard_time": 1749612141,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210643,
+        "num": 210643,
+        "word": "王楚钦领衔山东魏桥乒超四连胜",
+        "onboard_time": 1749616703,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186631,
+        "num": 186631,
+        "word": "馆长",
+        "onboard_time": 1749600503,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26655,
+        "num": 184045,
+        "word": "看馆长直播感受到大陆人民的热情",
+        "onboard_time": 1749616764,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130500,
+        "num": 182745,
+        "word": "广东热的要死碎碎念几则",
+        "onboard_time": 1749617423,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 182171,
+        "num": 182171,
+        "word": "赵子豪周恺0比3薛飞向鹏",
+        "onboard_time": 1749616942,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176025,
+        "num": 176025,
+        "word": "今年豆瓣7分以上国产剧",
+        "onboard_time": 1749615743,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175136,
+        "num": 175136,
+        "word": "台网红说去看看大陆高铁有没有靠背",
+        "onboard_time": 1749612202,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165259,
+        "num": 165259,
+        "word": "84元的锅国外要卖3000元",
+        "onboard_time": 1749614842,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165040,
+        "num": 165040,
+        "word": "王源应援棒",
+        "onboard_time": 1749615322,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157036,
+        "num": 157036,
+        "word": "把147平米的家装出了别墅感",
+        "onboard_time": 1749616464,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148515,
+        "num": 148515,
+        "word": "沈腾逮着范丞丞一顿踢",
+        "onboard_time": 1749616043,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70263,
+        "num": 148513,
+        "word": "小鹏G7后排空间大到顶瓜瓜",
+        "onboard_time": 1749611601,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148512,
+        "num": 148512,
+        "word": "朱一龙吴磊倪妮东极岛不忍了",
+        "onboard_time": 1749617124,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143096,
+        "num": 143096,
+        "word": "华为Pura80系列预约破27万",
+        "onboard_time": 1749614241,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应坚定睦邻友好方向#"
+    }
+  }
+}
