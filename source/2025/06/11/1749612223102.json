@@ -1,0 +1,410 @@
+{
+  "runTime": 1749612223102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1961761,
+        "num": 1961761,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1749609560,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 502622,
+        "num": 502622,
+        "word": "桂林通报一名6年级男生坠楼",
+        "onboard_time": 1749606740,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 100257,
+        "num": 435369,
+        "word": "网警提醒当心你的隐私被共享",
+        "onboard_time": 1749604162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1132157,
+        "num": 435313,
+        "word": "迪丽热巴因一句台词一夜涨粉200万",
+        "onboard_time": 1749609799,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 944542,
+        "num": 435280,
+        "word": "丈夫回应妻子发视频求交房被指擦边",
+        "onboard_time": 1749609260,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435128,
+        "num": 435128,
+        "word": "Labubu都火了 方圆脸时代怎么还没来",
+        "onboard_time": 1749602421,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1007913,
+        "num": 433763,
+        "word": "4位浪姐自己组团出道",
+        "onboard_time": 1749610460,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650874,
+        "num": 433411,
+        "word": "黄子韬被问有想过跟徐艺洋离婚吗",
+        "onboard_time": 1749606740,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432167,
+        "num": 432167,
+        "word": "教资面试成绩",
+        "onboard_time": 1749606379,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 55178,
+        "num": 426382,
+        "word": "美国版我说城门楼子你说胯骨轴子",
+        "onboard_time": 1749611421,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 605500,
+        "num": 422913,
+        "word": "鹿晗有隐藏款labubu",
+        "onboard_time": 1749601281,
+        "rank": 10,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 507508,
+        "num": 408125,
+        "word": "女装裤子我真的没空陪你闹了",
+        "onboard_time": 1749608599,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90573,
+        "num": 403232,
+        "word": "女孩考试后独自挑行李回家",
+        "onboard_time": 1749611661,
+        "rank": 12,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 399425,
+        "num": 399425,
+        "word": "韩网热议宋茜近照",
+        "onboard_time": 1749604041,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130851,
+        "num": 389267,
+        "word": "遭男子水枪攻击失明女孩发声",
+        "onboard_time": 1749611241,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388988,
+        "num": 388988,
+        "word": "王一博王安宇爆改王安全",
+        "onboard_time": 1749604341,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313047,
+        "num": 313047,
+        "word": "孙颖莎打羽毛球",
+        "onboard_time": 1749609680,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312235,
+        "num": 312235,
+        "word": "东极岛",
+        "onboard_time": 1749606562,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300281,
+        "num": 300281,
+        "word": "五角大楼披露美军进驻洛杉矶成本",
+        "onboard_time": 1749607400,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280180,
+        "num": 280180,
+        "word": "海外网友晒出最丑盗版LABUBU",
+        "onboard_time": 1749609140,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 339881,
+        "num": 279874,
+        "word": "黄圣依称不接受婚前同居",
+        "onboard_time": 1749597138,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264118,
+        "num": 279391,
+        "word": "女孩高考完独自挑行李回家班主任发声",
+        "onboard_time": 1749610702,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279057,
+        "num": 279057,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1749611781,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273767,
+        "num": 273767,
+        "word": "兰香如故官宣",
+        "onboard_time": 1749611120,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259403,
+        "num": 259403,
+        "word": "城乡居民医保补助提至每人每年700元",
+        "onboard_time": 1749605720,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257920,
+        "num": 257920,
+        "word": "杜兰特 交易",
+        "onboard_time": 1749610161,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192189,
+        "num": 245312,
+        "word": "小鹏G7后排空间大到顶瓜瓜",
+        "onboard_time": 1749611601,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 240761,
+        "num": 240761,
+        "word": "孙颖莎王楚钦樊振东队伍分团对决",
+        "onboard_time": 1749609560,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219067,
+        "num": 235761,
+        "word": "网红解释问黄子韬离婚",
+        "onboard_time": 1749611721,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34065,
+        "num": 235262,
+        "word": "Labubu为何成全球顶流",
+        "onboard_time": 1749611362,
+        "rank": 29,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 235092,
+        "num": 235092,
+        "word": "霸王茶姬口令",
+        "onboard_time": 1749611421,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217908,
+        "num": 217908,
+        "word": "侃爷改名为YeYe",
+        "onboard_time": 1749612202,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212886,
+        "num": 212886,
+        "word": "6块钱一碗的面被通报宴请",
+        "onboard_time": 1749611960,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201999,
+        "num": 201999,
+        "word": "王楚钦vs徐海东",
+        "onboard_time": 1749611960,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199691,
+        "num": 199691,
+        "word": "什么是摆脱路人感的穿搭",
+        "onboard_time": 1749612021,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 186557,
+        "num": 186557,
+        "word": "美国联邦vs加州政府",
+        "onboard_time": 1749600741,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182411,
+        "num": 182411,
+        "word": "一号台风来了",
+        "onboard_time": 1749611781,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55116,
+        "num": 180669,
+        "word": "台网红说去看看大陆高铁有没有靠背",
+        "onboard_time": 1749612202,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83785,
+        "num": 180057,
+        "word": "今天2000元实现电竞房自由",
+        "onboard_time": 1749611541,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118296,
+        "num": 176949,
+        "word": "江苏足协回应举办苏超初衷",
+        "onboard_time": 1749612021,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42536,
+        "num": 173863,
+        "word": "汽车零部件概念股走高",
+        "onboard_time": 1749609621,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173447,
+        "num": 173447,
+        "word": "肖战爸妈让他好好演别丢人",
+        "onboard_time": 1749608901,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170694,
+        "num": 170694,
+        "word": "今年第1号台风蝴蝶直扑华南",
+        "onboard_time": 1749604460,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168291,
+        "num": 168291,
+        "word": "李一桐如何呢又能怎",
+        "onboard_time": 1749607819,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165033,
+        "num": 165033,
+        "word": "易烊千玺广州站过审",
+        "onboard_time": 1749610100,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163969,
+        "num": 163969,
+        "word": "馆长",
+        "onboard_time": 1749600503,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157837,
+        "num": 157837,
+        "word": "荔枝那么甜为什么吃出了低血糖",
+        "onboard_time": 1749601101,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 156136,
+        "num": 156136,
+        "word": "田柾国退伍",
+        "onboard_time": 1749598339,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152173,
+        "num": 152173,
+        "word": "王俊凯你的演唱会呢",
+        "onboard_time": 1749612141,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150486,
+        "num": 150486,
+        "word": "INTO1披荆斩棘路透",
+        "onboard_time": 1749612141,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应坚定睦邻友好方向#"
+    }
+  }
+}
