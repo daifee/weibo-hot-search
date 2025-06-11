@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749624682133,
+  "endTime": 1749626748184,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -827,6 +827,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 856173,
+      "num": 416615,
+      "word": "石桥铺火灾",
+      "onboard_time": 1749625101,
+      "rank": 10,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 853256,
       "num": 853256,
       "word": "新一卷英语难不难",
@@ -1259,6 +1267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 626242,
+      "num": 626242,
+      "word": "华为Pura80",
+      "onboard_time": 1749625161,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 622619,
       "num": 622619,
       "word": "小孩被天降乌龟砸死饲主判赔128万",
@@ -1324,7 +1340,7 @@
     },
     {
       "raw_hot": 613657,
-      "num": 335278,
+      "num": 504803,
       "word": "京东真的找了惠英红",
       "onboard_time": 1749621982,
       "rank": 14,
@@ -1361,6 +1377,14 @@
       "onboard_time": 1749301944,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 596875,
+      "num": 596875,
+      "word": "台湾网红馆长直播游大陆吓坏了谁",
+      "onboard_time": 1749622881,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 589357,
@@ -2035,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 449882,
+      "num": 449882,
+      "word": "蜜雪冰城含菌量超标被通报",
+      "onboard_time": 1749625820,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445403,
       "num": 506096,
       "word": "章子怡拒绝白凯南演纣王",
@@ -2096,6 +2128,14 @@
       "word": "Labubu都火了 方圆脸时代怎么还没来",
       "onboard_time": 1749602421,
       "rank": 8,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 435071,
+      "num": 435071,
+      "word": "盗版LABUBU丑得很抽象",
+      "onboard_time": 1749621561,
+      "rank": 33,
       "category": "动漫"
     },
     {
@@ -2273,14 +2313,6 @@
       "onboard_time": 1749455723,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 410021,
-      "num": 410021,
-      "word": "台湾网红馆长直播游大陆吓坏了谁",
-      "onboard_time": 1749622881,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 408718,
@@ -4427,6 +4459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221093,
+      "num": 221093,
+      "word": "教育部拟同意设置10所高校",
+      "onboard_time": 1749623302,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 220407,
       "num": 220407,
       "word": "文俊辉直播",
@@ -4649,14 +4689,6 @@
       "onboard_time": 1749616703,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210038,
-      "num": 210038,
-      "word": "盗版LABUBU丑得很抽象",
-      "onboard_time": 1749621561,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 209557,
@@ -5707,6 +5739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187033,
+      "num": 187033,
+      "word": "加州州长含泪喊话加州民众",
+      "onboard_time": 1749626241,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186898,
       "num": 226356,
       "word": "酱园弄",
@@ -6227,6 +6267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175224,
+      "num": 175224,
+      "word": "王楚钦说还没达到孙颖莎的境界",
+      "onboard_time": 1749621741,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174929,
       "num": 174929,
       "word": "长安的荔枝原著",
@@ -6313,6 +6361,14 @@
       "onboard_time": 1749530182,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172864,
+      "num": 425039,
+      "word": "韩国军方停止对朝扩音广播",
+      "onboard_time": 1749625521,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172808,
@@ -6768,14 +6824,6 @@
       "word": "樊振东重返赛场全场欢呼人气未减",
       "onboard_time": 1749475282,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 166916,
-      "num": 166916,
-      "word": "王楚钦说还没达到孙颖莎的境界",
-      "onboard_time": 1749621741,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -7587,6 +7635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154183,
+      "num": 154183,
+      "word": "王一博什么时候回来",
+      "onboard_time": 1749626181,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154135,
       "num": 150201,
       "word": "李艺彤这次大家是站着的",
@@ -7617,6 +7673,14 @@
       "onboard_time": 1749547461,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153389,
+      "num": 264100,
+      "word": "惠英红说红的会赢",
+      "onboard_time": 1749626361,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 152893,
@@ -7665,6 +7729,14 @@
       "onboard_time": 1749560302,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151654,
+      "num": 151654,
+      "word": "刘宇宁要送李雪琴晚礼服",
+      "onboard_time": 1749626361,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 151619,
@@ -7931,6 +8003,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 147127,
+      "num": 147127,
+      "word": "小鬼朱星杰听到eiei就想跳",
+      "onboard_time": 1749626241,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147038,
       "num": 147038,
       "word": "用久的工具逐渐长出血肉",
@@ -8009,6 +8089,14 @@
       "onboard_time": 1749315322,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146050,
+      "num": 268038,
+      "word": "李雪琴徐志胜总有个人懂你的浪漫",
+      "onboard_time": 1749625161,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 145957,
@@ -8179,6 +8267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143563,
+      "num": 143563,
+      "word": "这红毯走的简直是在演宫斗剧",
+      "onboard_time": 1749626421,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143242,
       "num": 143242,
       "word": "长安的荔枝好绝一长镜头",
@@ -8217,6 +8313,14 @@
       "onboard_time": 1749533360,
       "rank": 45,
       "category": "旅游,游戏"
+    },
+    {
+      "raw_hot": 142854,
+      "num": 142854,
+      "word": "卢昱晓飞机延误也不忘录vlog",
+      "onboard_time": 1749626600,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 142513,
@@ -8361,6 +8465,14 @@
       "onboard_time": 1749453141,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140023,
+      "num": 140023,
+      "word": "樊振东这球太帅了",
+      "onboard_time": 1749624801,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 139997,
@@ -9131,14 +9243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128117,
-      "num": 128117,
-      "word": "教育部拟同意设置10所高校",
-      "onboard_time": 1749623302,
-      "rank": 38,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 128045,
       "num": 128045,
       "word": "王楚钦vs费浚航",
@@ -9313,6 +9417,14 @@
       "onboard_time": 1749566123,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123487,
+      "num": 123487,
+      "word": "A股放量19.1亿",
+      "onboard_time": 1749626600,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 123460,
@@ -10137,6 +10249,14 @@
       "onboard_time": 1749546383,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107076,
+      "num": 209681,
+      "word": "田柾国听到要减肥的反应",
+      "onboard_time": 1749626361,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 106774,
@@ -11051,6 +11171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76110,
+      "num": 142998,
+      "word": "樊振东向球迷挥手",
+      "onboard_time": 1749626660,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75811,
       "num": 312481,
       "word": "贝克汉姆早C晚A",
@@ -11089,6 +11217,14 @@
       "onboard_time": 1749570320,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 74598,
+      "num": 115992,
+      "word": "中国男乒对决都是世界级的",
+      "onboard_time": 1749624980,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 74036,
@@ -11161,6 +11297,14 @@
       "onboard_time": 1749489197,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71888,
+      "num": 379058,
+      "word": "男生高考后带着鲜花直奔妈妈墓地",
+      "onboard_time": 1749625401,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71462,
@@ -13243,6 +13387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23359,
+      "num": 264975,
+      "word": "以为很长肉但减肥的食物有哪些",
+      "onboard_time": 1749625881,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22707,
       "num": 89256,
       "word": "美抗议者遭警方马匹暴力踩踏",
@@ -14039,6 +14191,9 @@
     },
     {
       "word": "#文明只有姹紫嫣红之别#"
+    },
+    {
+      "word": "#让中韩友好在两国人民心中扎根#"
     }
   ]
 }

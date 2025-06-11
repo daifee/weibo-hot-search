@@ -1,0 +1,410 @@
+{
+  "runTime": 1749626748184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1051951,
+        "num": 1168312,
+        "word": "小沈阳女儿韩国出道",
+        "onboard_time": 1749612441,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626242,
+        "num": 626242,
+        "word": "华为Pura80",
+        "onboard_time": 1749625161,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34837,
+        "num": 599238,
+        "word": "听听青年的网络文明关键词",
+        "onboard_time": 1749614903,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 912421,
+        "num": 598696,
+        "word": "礐嶨怎么读",
+        "onboard_time": 1749619520,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 596875,
+        "num": 596875,
+        "word": "台湾网红馆长直播游大陆吓坏了谁",
+        "onboard_time": 1749622881,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1145872,
+        "num": 581121,
+        "word": "三姐妹上坟被炸身亡案二审维持原判",
+        "onboard_time": 1749621441,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504803,
+        "num": 504803,
+        "word": "京东真的找了惠英红",
+        "onboard_time": 1749621982,
+        "rank": 6,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 449882,
+        "num": 449882,
+        "word": "蜜雪冰城含菌量超标被通报",
+        "onboard_time": 1749625820,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435071,
+        "num": 435071,
+        "word": "盗版LABUBU丑得很抽象",
+        "onboard_time": 1749621561,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 172864,
+        "num": 425039,
+        "word": "韩国军方停止对朝扩音广播",
+        "onboard_time": 1749625521,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 856173,
+        "num": 416615,
+        "word": "石桥铺火灾",
+        "onboard_time": 1749625101,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 307885,
+        "num": 404263,
+        "word": "国台办回应藏海传台湾热播",
+        "onboard_time": 1749614122,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490935,
+        "num": 386567,
+        "word": "工资4800三年存下12万",
+        "onboard_time": 1749615622,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386213,
+        "num": 386213,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1749609560,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71888,
+        "num": 379058,
+        "word": "男生高考后带着鲜花直奔妈妈墓地",
+        "onboard_time": 1749625401,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372758,
+        "num": 372758,
+        "word": "向佐 这不是我老婆好吗",
+        "onboard_time": 1749616163,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355152,
+        "num": 355152,
+        "word": "网红解释问黄子韬离婚",
+        "onboard_time": 1749611721,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272236,
+        "num": 272236,
+        "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
+        "onboard_time": 1749616522,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146050,
+        "num": 268038,
+        "word": "李雪琴徐志胜总有个人懂你的浪漫",
+        "onboard_time": 1749625161,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23359,
+        "num": 264975,
+        "word": "以为很长肉但减肥的食物有哪些",
+        "onboard_time": 1749625881,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153389,
+        "num": 264100,
+        "word": "惠英红说红的会赢",
+        "onboard_time": 1749626361,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263854,
+        "num": 263854,
+        "word": "范丞丞叫千玺玺子哥",
+        "onboard_time": 1749615863,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251207,
+        "num": 251207,
+        "word": "华为发布会",
+        "onboard_time": 1749622941,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245494,
+        "num": 245494,
+        "word": "樊振东3比2林诗栋",
+        "onboard_time": 1749616284,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222953,
+        "num": 222953,
+        "word": "迪丽热巴因一句台词一夜涨粉200万",
+        "onboard_time": 1749609799,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221093,
+        "num": 221093,
+        "word": "教育部拟同意设置10所高校",
+        "onboard_time": 1749623302,
+        "rank": 25,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 210199,
+        "num": 210199,
+        "word": "解说称樊振东预判了林诗栋的预判",
+        "onboard_time": 1749622340,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107076,
+        "num": 209681,
+        "word": "田柾国听到要减肥的反应",
+        "onboard_time": 1749626361,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209662,
+        "num": 209662,
+        "word": "王一博更新ins",
+        "onboard_time": 1749614721,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202513,
+        "num": 202513,
+        "word": "父亲和女儿总共99岁 女儿多少岁",
+        "onboard_time": 1749615682,
+        "rank": 29,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 189714,
+        "num": 189714,
+        "word": "这居然是倪妮",
+        "onboard_time": 1749615682,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187033,
+        "num": 187033,
+        "word": "加州州长含泪喊话加州民众",
+        "onboard_time": 1749626241,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186524,
+        "num": 186524,
+        "word": "4位浪姐自己组团出道",
+        "onboard_time": 1749610460,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175224,
+        "num": 175224,
+        "word": "王楚钦说还没达到孙颖莎的境界",
+        "onboard_time": 1749621741,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244835,
+        "num": 172864,
+        "word": "亲妈后爸把娃埋别人坟里拍视频寻子",
+        "onboard_time": 1749615622,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154183,
+        "num": 154183,
+        "word": "王一博什么时候回来",
+        "onboard_time": 1749626181,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151654,
+        "num": 151654,
+        "word": "刘宇宁要送李雪琴晚礼服",
+        "onboard_time": 1749626361,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147127,
+        "num": 147127,
+        "word": "小鬼朱星杰听到eiei就想跳",
+        "onboard_time": 1749626241,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143563,
+        "num": 143563,
+        "word": "这红毯走的简直是在演宫斗剧",
+        "onboard_time": 1749626421,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76110,
+        "num": 142998,
+        "word": "樊振东向球迷挥手",
+        "onboard_time": 1749626660,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142854,
+        "num": 142854,
+        "word": "卢昱晓飞机延误也不忘录vlog",
+        "onboard_time": 1749626600,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140023,
+        "num": 140023,
+        "word": "樊振东这球太帅了",
+        "onboard_time": 1749624801,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136781,
+        "num": 136781,
+        "word": "鹿晗有隐藏款labubu",
+        "onboard_time": 1749601281,
+        "rank": 42,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 131944,
+        "num": 131944,
+        "word": "怪不得向太觉得周星驰不搞笑",
+        "onboard_time": 1749622401,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127607,
+        "num": 127607,
+        "word": "14岁等等和邓超一样高了",
+        "onboard_time": 1749619762,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124676,
+        "num": 124676,
+        "word": "今年第1号台风蝴蝶最新情况",
+        "onboard_time": 1749622520,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123487,
+        "num": 123487,
+        "word": "A股放量19.1亿",
+        "onboard_time": 1749626600,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 74598,
+        "num": 115992,
+        "word": "中国男乒对决都是世界级的",
+        "onboard_time": 1749624980,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113604,
+        "num": 113604,
+        "word": "朱一龙吴磊身体覆盖率",
+        "onboard_time": 1749622401,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113332,
+        "num": 113332,
+        "word": "6块钱一碗的面被通报宴请",
+        "onboard_time": 1749611960,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中韩友好在两国人民心中扎根#"
+    }
+  }
+}
