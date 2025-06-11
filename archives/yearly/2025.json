@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749640999070,
+  "endTime": 1749641930097,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1275,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6419842,
+      "num": 7669842,
+      "word": "台湾台东5.8级地震",
+      "onboard_time": 1749640463,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 6171526,
       "num": 6171526,
       "word": "李明德因酒后砸车被刑拘",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1745596762,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3418087,
-      "num": 3418087,
-      "word": "高考数学难不难",
-      "onboard_time": 1749287786,
-      "rank": 1,
-      "category": "教育"
     }
   ],
   "hotgov_list": [

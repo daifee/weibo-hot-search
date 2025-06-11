@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/11 19:23:19
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/11 19:38:50
 </p>
 </blockquote>
 <p>
@@ -969,6 +969,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%9C5.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+台湾台东5.8级地震（热度：6419842）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8E%E5%BE%B7%E5%9B%A0%E9%85%92%E5%90%8E%E7%A0%B8%E8%BD%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
 李明德因酒后砸车被刑拘（热度：6171526）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9B%B4%E6%92%AD%E7%AA%81%E7%84%B6%E8%A2%AB%E5%B0%81%23" target="weibo">
 蔡徐坤直播突然被封（热度：3420165）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E4%B8%8D%E9%9A%BE%23" target="weibo">
-高考数学难不难（热度：3418087）
 </a>
 </li>
 

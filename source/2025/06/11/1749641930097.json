@@ -1,0 +1,410 @@
+{
+  "runTime": 1749641930097,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6419842,
+        "num": 7669842,
+        "word": "台湾台东5.8级地震",
+        "onboard_time": 1749640463,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2741757,
+        "num": 2741757,
+        "word": "英国水煮遗体排入下水道或将合法化",
+        "onboard_time": 1749640223,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31673,
+        "num": 1099894,
+        "word": "精彩安徽AI有数",
+        "onboard_time": 1749634281,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1000806,
+        "num": 1000806,
+        "word": "福州震感",
+        "onboard_time": 1749640522,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 766836,
+        "num": 766836,
+        "word": "刘诗诗用心在养labubu",
+        "onboard_time": 1749639981,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669299,
+        "num": 669299,
+        "word": "樊振东王楚钦今晚无缘交手",
+        "onboard_time": 1749635722,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532680,
+        "num": 532680,
+        "word": "樊振东无世排后击败世排第一",
+        "onboard_time": 1749633264,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530645,
+        "num": 530645,
+        "word": "福建震感",
+        "onboard_time": 1749641125,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 399941,
+        "num": 399941,
+        "word": "复读7年考上清华的真实感受",
+        "onboard_time": 1749635241,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237043,
+        "num": 378159,
+        "word": "撕掉小沈阳女儿标签要靠实力",
+        "onboard_time": 1749638302,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364790,
+        "num": 364790,
+        "word": "黄友政vs樊振东",
+        "onboard_time": 1749639202,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358551,
+        "num": 358551,
+        "word": "钟汉良 泪沟",
+        "onboard_time": 1749630621,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340720,
+        "num": 340720,
+        "word": "王楚钦说没人敢说有信心战胜樊振东",
+        "onboard_time": 1749632722,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199130,
+        "num": 329458,
+        "word": "马斯克后悔发布一些关于特朗普的帖子",
+        "onboard_time": 1749628221,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 325703,
+        "num": 325703,
+        "word": "蜜雪冰城含菌量超标被通报",
+        "onboard_time": 1749625820,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312588,
+        "num": 312588,
+        "word": "新疆3.3级地震",
+        "onboard_time": 1749639863,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 234785,
+        "num": 310269,
+        "word": "张国强夸肖战",
+        "onboard_time": 1749640282,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206848,
+        "num": 308782,
+        "word": "邓超 你把笔还我",
+        "onboard_time": 1749640883,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22379,
+        "num": 306573,
+        "word": "晚上空调开多少度最适合",
+        "onboard_time": 1749640282,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38643,
+        "num": 303620,
+        "word": "台湾网红馆长称上海漂亮得夸张",
+        "onboard_time": 1749641243,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85449,
+        "num": 300980,
+        "word": "台网红抵达上海被投喂茶叶蛋",
+        "onboard_time": 1749640463,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300726,
+        "num": 300726,
+        "word": "乒超停电",
+        "onboard_time": 1749640644,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267286,
+        "num": 267286,
+        "word": "厦门震感",
+        "onboard_time": 1749641125,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 240456,
+        "num": 240456,
+        "word": "女子因发量太多剃掉五分之四头发",
+        "onboard_time": 1749632421,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234276,
+        "num": 234276,
+        "word": "小沈阳女儿韩国出道",
+        "onboard_time": 1749612441,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144954,
+        "num": 231410,
+        "word": "高考试卷真的在监狱印刷吗",
+        "onboard_time": 1749640103,
+        "rank": 25,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 198179,
+        "num": 230309,
+        "word": "京东真的找了惠英红",
+        "onboard_time": 1749621982,
+        "rank": 26,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 230290,
+        "num": 230290,
+        "word": "王楚钦和樊振东职业生涯中交手超30次",
+        "onboard_time": 1749641423,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75958,
+        "num": 229775,
+        "word": "被吴磊的AI手表秀到了",
+        "onboard_time": 1749640223,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64040,
+        "num": 229329,
+        "word": "四脚着地的Lagogo卖了9000多个",
+        "onboard_time": 1749640463,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229307,
+        "num": 229307,
+        "word": "虞书欣父母公司合同纠纷判决书公开",
+        "onboard_time": 1749636922,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224559,
+        "num": 224559,
+        "word": "钟楚曦身材",
+        "onboard_time": 1749639022,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205312,
+        "num": 205312,
+        "word": "蜜雪冰城",
+        "onboard_time": 1749641002,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 201357,
+        "num": 201357,
+        "word": "山东魏桥vs上海地产集团",
+        "onboard_time": 1749640764,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136291,
+        "num": 200806,
+        "word": "3名小学生被高空坠物砸伤致1死",
+        "onboard_time": 1749639561,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 200432,
+        "num": 200432,
+        "word": "张朝阳后悔送回绝版Labubu",
+        "onboard_time": 1749633264,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195092,
+        "num": 195092,
+        "word": "全球唯一薄荷色labubu108万成交",
+        "onboard_time": 1749640583,
+        "rank": 36,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 46358,
+        "num": 190893,
+        "word": "佛罗里达旧金山开始响应洛杉矶",
+        "onboard_time": 1749640764,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189779,
+        "num": 189779,
+        "word": "从哪里开始是爱豆",
+        "onboard_time": 1749638001,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86439,
+        "num": 185291,
+        "word": "动漫四大魔女",
+        "onboard_time": 1749641423,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 182504,
+        "num": 182504,
+        "word": "labubu 紫薇星",
+        "onboard_time": 1749634762,
+        "rank": 40,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 172200,
+        "num": 172200,
+        "word": "藏海传2权威回应提前看版",
+        "onboard_time": 1749638601,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158818,
+        "num": 158818,
+        "word": "Labubu是下一个HelloKitty吗",
+        "onboard_time": 1749638842,
+        "rank": 42,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 153279,
+        "num": 153279,
+        "word": "樊振东3比1黄友政",
+        "onboard_time": 1749641902,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88951,
+        "num": 152896,
+        "word": "台风蝴蝶或将两次登陆我国沿海",
+        "onboard_time": 1749639863,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152861,
+        "num": 152861,
+        "word": "苏超",
+        "onboard_time": 1749641482,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143070,
+        "num": 143070,
+        "word": "Labubu最火隐藏款抽中赚一瓶茅台",
+        "onboard_time": 1749639923,
+        "rank": 46,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 134462,
+        "num": 134462,
+        "word": "小猫心虚的样子也太明显了",
+        "onboard_time": 1749641482,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134268,
+        "num": 134268,
+        "word": "杭州震感",
+        "onboard_time": 1749641842,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 133678,
+        "num": 133678,
+        "word": "特朗普宣称谁敢破坏阅兵将遭到强大武力",
+        "onboard_time": 1749631402,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈文明交流互鉴#"
+    }
+  }
+}
