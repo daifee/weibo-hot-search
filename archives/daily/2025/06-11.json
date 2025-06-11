@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749627612129,
+  "endTime": 1749630904804,
   "band_list": [
     {
       "raw_hot": 2581554,
@@ -19,6 +19,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1613067,
+      "num": 1613067,
+      "word": "蜜雪冰城含菌量超标被通报",
+      "onboard_time": 1749625820,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1346628,
       "num": 1177404,
       "word": "三姐妹上坟被炸身亡案二审维持原判",
@@ -32,14 +40,6 @@
       "word": "6块钱一碗的面被通报宴请",
       "onboard_time": 1749611960,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1208480,
-      "num": 1208480,
-      "word": "蜜雪冰城含菌量超标被通报",
-      "onboard_time": 1749625820,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -195,12 +195,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 723136,
+      "num": 723136,
+      "word": "华为Pura80价格",
+      "onboard_time": 1749628161,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 715058,
       "num": 715058,
       "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
       "onboard_time": 1749616522,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 655876,
+      "num": 655876,
+      "word": "华为发布会 单依纯",
+      "onboard_time": 1749626781,
+      "rank": 13,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 650395,
+      "num": 650395,
+      "word": "爷爷不泡茶",
+      "onboard_time": 1749627801,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 636808,
+      "num": 636808,
+      "word": "马斯克后悔发布一些关于特朗普的帖子",
+      "onboard_time": 1749628221,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 626242,
@@ -225,6 +257,14 @@
       "onboard_time": 1749621982,
       "rank": 14,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 597835,
+      "num": 597835,
+      "word": "加州州长含泪喊话加州民众",
+      "onboard_time": 1749626241,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 596875,
@@ -257,6 +297,14 @@
       "onboard_time": 1749605720,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 529396,
+      "num": 529396,
+      "word": "台湾网红馆长承认曾受影响骂过大陆",
+      "onboard_time": 1749627201,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 525352,
@@ -371,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 422895,
-      "num": 422895,
-      "word": "加州州长含泪喊话加州民众",
-      "onboard_time": 1749626241,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 416871,
       "num": 416871,
       "word": "馆长",
@@ -443,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 366349,
+      "num": 366349,
+      "word": "樊振东今晚或与王楚钦对决",
+      "onboard_time": 1749629182,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 347342,
       "num": 419484,
       "word": "东极岛没认出这是吴磊",
@@ -473,14 +521,6 @@
       "onboard_time": 1749610702,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 333197,
-      "num": 333197,
-      "word": "华为发布会 单依纯",
-      "onboard_time": 1749626781,
-      "rank": 13,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 331691,
@@ -579,6 +619,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 278684,
+      "num": 278684,
+      "word": "labubu炸虾",
+      "onboard_time": 1749629182,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 271900,
+      "num": 271900,
+      "word": "Pura80设计灵感来源于单色釉",
+      "onboard_time": 1749629060,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 271476,
       "num": 271476,
       "word": "华为发布会",
@@ -641,6 +697,14 @@
       "onboard_time": 1749569120,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243406,
+      "num": 243406,
+      "word": "钟汉良 泪沟",
+      "onboard_time": 1749630621,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 240761,
@@ -707,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226336,
+      "num": 226336,
+      "word": "吴磊 我的屁股变得开朗了",
+      "onboard_time": 1749628701,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225935,
       "num": 225935,
       "word": "朱一龙东极岛预告浑身是血",
@@ -721,6 +793,14 @@
       "onboard_time": 1749608599,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 221331,
+      "num": 264115,
+      "word": "10所新大学来了",
+      "onboard_time": 1749628221,
+      "rank": 20,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 219220,
@@ -753,6 +833,14 @@
       "onboard_time": 1749612202,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213843,
+      "num": 213843,
+      "word": "周一围看了桃花坞半夜被朱丹气醒",
+      "onboard_time": 1749629722,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 213459,
@@ -883,6 +971,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199164,
+      "num": 199164,
+      "word": "披哥在白举纲评论区团建",
+      "onboard_time": 1749630381,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 198431,
+      "num": 198431,
+      "word": "童年富裕症",
+      "onboard_time": 1749628761,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198030,
       "num": 198030,
       "word": "刘宇宁怎么这么会送礼",
@@ -1011,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186036,
+      "num": 186036,
+      "word": "淬火年代定档",
+      "onboard_time": 1749629962,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185683,
       "num": 189987,
       "word": "王一博泡面头",
@@ -1081,6 +1193,14 @@
       "onboard_time": 1749617423,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178432,
+      "num": 178432,
+      "word": "华为Pura80芯片",
+      "onboard_time": 1749630381,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 175224,
@@ -1227,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159200,
+      "num": 159200,
+      "word": "正确走路姿势 臀部发力",
+      "onboard_time": 1749628460,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 158469,
       "num": 158469,
       "word": "易烊千玺广州演唱会预计两场",
@@ -1235,20 +1363,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158252,
+      "num": 158252,
+      "word": "今年第1号台风蝴蝶最新情况",
+      "onboard_time": 1749622520,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157583,
       "num": 157583,
       "word": "小鬼朱星杰听到eiei就想跳",
       "onboard_time": 1749626241,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157288,
-      "num": 157288,
-      "word": "台湾网红馆长承认曾受影响骂过大陆",
-      "onboard_time": 1749627201,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157127,
@@ -1337,6 +1465,14 @@
       "onboard_time": 1749618502,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148580,
+      "num": 232082,
+      "word": "皮肤不好的人最该戒掉哪类食物",
+      "onboard_time": 1749627921,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148512,
@@ -1475,14 +1611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135315,
-      "num": 135315,
-      "word": "今年第1号台风蝴蝶最新情况",
-      "onboard_time": 1749622520,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135169,
       "num": 170836,
       "word": "小石头又要和他的偶像打球了",
@@ -1513,6 +1641,14 @@
       "onboard_time": 1749619341,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131977,
+      "num": 131977,
+      "word": "足协主席宋凯评价中国足球现状",
+      "onboard_time": 1749628041,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 131948,
@@ -1553,6 +1689,14 @@
       "onboard_time": 1749604820,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126689,
+      "num": 266189,
+      "word": "韩团来大厂也离不开汇报",
+      "onboard_time": 1749629481,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 125587,
@@ -1689,6 +1833,14 @@
       "onboard_time": 1749627440,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112983,
+      "num": 159206,
+      "word": "跟冠军一起写下暑假计划",
+      "onboard_time": 1749630741,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 112777,
@@ -1857,6 +2009,14 @@
       "onboard_time": 1749623361,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89154,
+      "num": 198731,
+      "word": "Pura80一英寸超高动态主摄",
+      "onboard_time": 1749630801,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 88757,
@@ -2171,6 +2331,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 41086,
+      "num": 226920,
+      "word": "揭秘高考志愿填报服务乱象",
+      "onboard_time": 1749629002,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 40136,
       "num": 375601,
       "word": "吃猪油能改善肠道健康吗",
@@ -2267,6 +2435,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 28745,
+      "num": 159212,
+      "word": "考完的文科生遇到了刚出发的理科生",
+      "onboard_time": 1749630081,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 27596,
       "num": 112690,
       "word": "郑钦文草地赛季首战对阵凯斯勒",
@@ -2336,6 +2512,14 @@
       "word": "陈之汉被粉丝送茅台",
       "onboard_time": 1749619162,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19344,
+      "num": 159933,
+      "word": "日常哪些共享行为可能泄露隐私",
+      "onboard_time": 1749628340,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
