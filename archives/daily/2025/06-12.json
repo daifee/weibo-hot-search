@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749660581565,
+  "endTime": 1749662626264,
   "band_list": [
     {
       "raw_hot": 704399,
@@ -211,8 +211,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100186,
-      "num": 100186,
+      "raw_hot": 107451,
+      "num": 107451,
       "word": "岳云鹏回应没歌唱",
       "onboard_time": 1749658939,
       "rank": 37,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77651,
+      "num": 142015,
+      "word": "台湾网红馆长大陆直播游感受人情味",
+      "onboard_time": 1749658579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77303,
       "num": 77303,
       "word": "自由女神见了川普都想安个防护窗",
@@ -345,14 +353,6 @@
       "onboard_time": 1749654741,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 76253,
-      "num": 142015,
-      "word": "台湾网红馆长大陆直播游感受人情味",
-      "onboard_time": 1749658579,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75115,
@@ -411,7 +411,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 53856,
+      "raw_hot": 62086,
       "num": 109548,
       "word": "东莞一学校化学实验课6名学生烧伤",
       "onboard_time": 1749660259,
@@ -425,6 +425,46 @@
       "onboard_time": 1749658220,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43827,
+      "num": 43827,
+      "word": "刘宇宁歌声和长城满月适配度拉满",
+      "onboard_time": 1749661036,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 43693,
+      "num": 43693,
+      "word": "郑平安人设",
+      "onboard_time": 1749660678,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40356,
+      "num": 40356,
+      "word": "又有两位艺术家不能体面的老去了",
+      "onboard_time": 1749642321,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38883,
+      "num": 38883,
+      "word": "鸿蒙5全面覆盖华为全场景新品",
+      "onboard_time": 1749661636,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 38438,
+      "num": 38438,
+      "word": "碎叫叫626分手",
+      "onboard_time": 1749649223,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 38237,
@@ -449,6 +489,14 @@
       "onboard_time": 1749658640,
       "rank": 29,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 23254,
+      "num": 112703,
+      "word": "眼见为实打破台湾民众对大陆的信息壁垒",
+      "onboard_time": 1749661817,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21865,
