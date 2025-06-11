@@ -1,0 +1,410 @@
+{
+  "runTime": 1749616511235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2581554,
+        "num": 2581554,
+        "word": "小沈阳女儿韩国出道",
+        "onboard_time": 1749612441,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1207400,
+        "num": 1207400,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1749611781,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29778,
+        "num": 1168518,
+        "word": "听听青年的网络文明关键词",
+        "onboard_time": 1749614903,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1156915,
+        "num": 1156915,
+        "word": "这居然是倪妮",
+        "onboard_time": 1749615682,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 350620,
+        "num": 350620,
+        "word": "桂林通报一名6年级男生坠楼",
+        "onboard_time": 1749606740,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 330114,
+        "num": 330114,
+        "word": "女孩高考完独自挑行李回家班主任发声",
+        "onboard_time": 1749610702,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1098584,
+        "num": 329886,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1749609560,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 803380,
+        "num": 329686,
+        "word": "迪丽热巴因一句台词一夜涨粉200万",
+        "onboard_time": 1749609799,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 726894,
+        "num": 329384,
+        "word": "国台办回应藏海传台湾热播",
+        "onboard_time": 1749614122,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24972,
+        "num": 329319,
+        "word": "中国潮玩点亮外贸成绩单",
+        "onboard_time": 1749615502,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1277447,
+        "num": 329011,
+        "word": "6块钱一碗的面被通报宴请",
+        "onboard_time": 1749611960,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 769219,
+        "num": 328649,
+        "word": "网红解释问黄子韬离婚",
+        "onboard_time": 1749611721,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495608,
+        "num": 328462,
+        "word": "丈夫送情妇千万财物妻子本利全追回",
+        "onboard_time": 1749613881,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620608,
+        "num": 328253,
+        "word": "王一博更新ins",
+        "onboard_time": 1749614721,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69960,
+        "num": 328013,
+        "word": "学校回应保安将学生外卖丢垃圾桶",
+        "onboard_time": 1749614842,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 570821,
+        "num": 327656,
+        "word": "4位浪姐自己组团出道",
+        "onboard_time": 1749610460,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231113,
+        "num": 327274,
+        "word": "东极岛没认出这是吴磊",
+        "onboard_time": 1749616102,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55044,
+        "num": 327078,
+        "word": "爸爸帮抢不到货的女儿复刻Labubu",
+        "onboard_time": 1749615983,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99812,
+        "num": 326756,
+        "word": "产妇有自行签字的权力吗",
+        "onboard_time": 1749615142,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160925,
+        "num": 326712,
+        "word": "亲妈后爸把娃埋别人坟里拍视频寻子",
+        "onboard_time": 1749615622,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541292,
+        "num": 326359,
+        "word": "工资4800三年存下12万",
+        "onboard_time": 1749615622,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123054,
+        "num": 326089,
+        "word": "谭维维和太乙真人配音认识27年了",
+        "onboard_time": 1749615983,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426275,
+        "num": 325839,
+        "word": "鹿晗有隐藏款labubu",
+        "onboard_time": 1749601281,
+        "rank": 22,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 49153,
+        "num": 325491,
+        "word": "抢注Labubu创作者姓名商标被驳回",
+        "onboard_time": 1749616284,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426040,
+        "num": 325211,
+        "word": "范丞丞叫千玺玺子哥",
+        "onboard_time": 1749615863,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354917,
+        "num": 325067,
+        "word": "东极岛致敬不该被忘记的中国人",
+        "onboard_time": 1749615263,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324918,
+        "num": 324918,
+        "word": "向佐 这不是我老婆好吗",
+        "onboard_time": 1749616163,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299807,
+        "num": 299807,
+        "word": "兰香如故官宣",
+        "onboard_time": 1749611120,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50150,
+        "num": 299351,
+        "word": "洛杉矶海军陆战队人数是山火时的4倍",
+        "onboard_time": 1749616102,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46311,
+        "num": 296597,
+        "word": "产销盗版LABUBU最高可判无期",
+        "onboard_time": 1749615023,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200788,
+        "num": 294541,
+        "word": "樊振东3比2林诗栋",
+        "onboard_time": 1749616284,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109453,
+        "num": 291539,
+        "word": "小鹏G7后排空间大到顶瓜瓜",
+        "onboard_time": 1749611601,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 231060,
+        "num": 289697,
+        "word": "内娱没喝中药的姐一下要来四个",
+        "onboard_time": 1749615443,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323145,
+        "num": 287838,
+        "word": "父亲和女儿总共99岁 女儿多少岁",
+        "onboard_time": 1749615682,
+        "rank": 33,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 287238,
+        "num": 287238,
+        "word": "王俊凯你的演唱会呢",
+        "onboard_time": 1749612141,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286756,
+        "num": 286756,
+        "word": "王一博王安宇爆改王安全",
+        "onboard_time": 1749604341,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184090,
+        "num": 283288,
+        "word": "今年豆瓣7分以上国产剧",
+        "onboard_time": 1749615743,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281570,
+        "num": 281570,
+        "word": "沙溢不想删除的照片又多了一张",
+        "onboard_time": 1749615802,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259342,
+        "num": 259342,
+        "word": "韩网热议宋茜近照",
+        "onboard_time": 1749604041,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199708,
+        "num": 232836,
+        "word": "王楚钦3比0徐海东",
+        "onboard_time": 1749615322,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232310,
+        "num": 232310,
+        "word": "王源应援棒",
+        "onboard_time": 1749615322,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226814,
+        "num": 226814,
+        "word": "84元的锅国外要卖3000元",
+        "onboard_time": 1749614842,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215276,
+        "num": 215276,
+        "word": "台网红说去看看大陆高铁有没有靠背",
+        "onboard_time": 1749612202,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200841,
+        "num": 200841,
+        "word": "易烊千玺新歌山花",
+        "onboard_time": 1749615743,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195624,
+        "num": 195624,
+        "word": "海外网友晒出最丑盗版LABUBU",
+        "onboard_time": 1749609140,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190100,
+        "num": 190100,
+        "word": "沈腾逮着范丞丞一顿踢",
+        "onboard_time": 1749616043,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169819,
+        "num": 169819,
+        "word": "把147平米的家装出了别墅感",
+        "onboard_time": 1749616464,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165937,
+        "num": 165937,
+        "word": "黄子韬被问有想过跟徐艺洋离婚吗",
+        "onboard_time": 1749606740,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165825,
+        "num": 165825,
+        "word": "馆长",
+        "onboard_time": 1749600503,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163171,
+        "num": 163171,
+        "word": "小米汽车供应商支付账期新规",
+        "onboard_time": 1749612381,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视网络文明建设#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749612967396,
+  "endTime": 1749616511235,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -297,6 +297,14 @@
       "onboard_time": 1749025279,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2581554,
+      "num": 2581554,
+      "word": "小沈阳女儿韩国出道",
+      "onboard_time": 1749612441,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2532489,
@@ -1099,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1277447,
+      "num": 380794,
+      "word": "6块钱一碗的面被通报宴请",
+      "onboard_time": 1749611960,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1271990,
       "num": 1271990,
       "word": "小婉管乐",
@@ -1283,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1207400,
+      "num": 1207400,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1749611781,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1202990,
       "num": 477025,
       "word": "数学一卷圆我大专梦",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1749305302,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1156915,
+      "num": 1156915,
+      "word": "这居然是倪妮",
+      "onboard_time": 1749615682,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1155456,
@@ -2635,6 +2667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 769219,
+      "num": 386658,
+      "word": "网红解释问黄子韬离婚",
+      "onboard_time": 1749611721,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 767931,
       "num": 767931,
       "word": "孙颖莎左看樊振东右看深圳队",
@@ -2881,6 +2921,14 @@
       "onboard_time": 1749207741,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 726894,
+      "num": 329384,
+      "word": "国台办回应藏海传台湾热播",
+      "onboard_time": 1749614122,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 725361,
@@ -3225,14 +3273,6 @@
       "onboard_time": 1749434300,
       "rank": 13,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 662332,
-      "num": 457060,
-      "word": "小沈阳女儿韩国出道",
-      "onboard_time": 1749612441,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 661611,
@@ -3584,6 +3624,14 @@
       "word": "王安宇的眼睛",
       "onboard_time": 1749384321,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 620608,
+      "num": 328253,
+      "word": "王一博更新ins",
+      "onboard_time": 1749614721,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -4395,6 +4443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541292,
+      "num": 326359,
+      "word": "工资4800三年存下12万",
+      "onboard_time": 1749615622,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540934,
       "num": 540934,
       "word": "吴宣仪甜妹回归",
@@ -4923,6 +4979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 495608,
+      "num": 328462,
+      "word": "丈夫送情妇千万财物妻子本利全追回",
+      "onboard_time": 1749613881,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495177,
       "num": 495177,
       "word": "女子薅国家羊毛被判三年",
@@ -5313,14 +5377,6 @@
       "onboard_time": 1749006080,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 470541,
-      "num": 470541,
-      "word": "樊振东vs林诗栋",
-      "onboard_time": 1749611781,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 469977,
@@ -5921,6 +5977,14 @@
       "onboard_time": 1748819836,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426040,
+      "num": 325211,
+      "word": "范丞丞叫千玺玺子哥",
+      "onboard_time": 1749615863,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 425928,
@@ -6611,14 +6675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386658,
-      "num": 386658,
-      "word": "网红解释问黄子韬离婚",
-      "onboard_time": 1749611721,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386358,
       "num": 386358,
       "word": "以为没事可能是糖尿病的早期症状",
@@ -6768,14 +6824,6 @@
       "word": "牙医3年前预警韦东奕牙周危机成真",
       "onboard_time": 1749288145,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 380794,
-      "num": 380794,
-      "word": "6块钱一碗的面被通报宴请",
-      "onboard_time": 1749611960,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -7393,6 +7441,14 @@
       "onboard_time": 1748877861,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354917,
+      "num": 325067,
+      "word": "东极岛致敬不该被忘记的中国人",
+      "onboard_time": 1749615263,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 353876,
@@ -8107,6 +8163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 324918,
+      "num": 324918,
+      "word": "向佐 这不是我老婆好吗",
+      "onboard_time": 1749616163,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324571,
       "num": 324571,
       "word": "为救女儿生下的儿子也患罕见遗传病",
@@ -8153,6 +8217,14 @@
       "onboard_time": 1749440662,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323145,
+      "num": 287838,
+      "word": "父亲和女儿总共99岁 女儿多少岁",
+      "onboard_time": 1749615682,
+      "rank": 33,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 323116,
@@ -9163,6 +9235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287238,
+      "num": 287238,
+      "word": "王俊凯你的演唱会呢",
+      "onboard_time": 1749612141,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 287212,
       "num": 287212,
       "word": "丁禹兮儿童节cos尼克狐",
@@ -9361,6 +9441,14 @@
       "onboard_time": 1749388402,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281570,
+      "num": 281570,
+      "word": "沙溢不想删除的照片又多了一张",
+      "onboard_time": 1749615802,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 281538,
@@ -10939,14 +11027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240409,
-      "num": 240409,
-      "word": "王俊凯你的演唱会呢",
-      "onboard_time": 1749612141,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 240255,
       "num": 240255,
       "word": "川菜是抗炎作用最强的菜系",
@@ -11291,6 +11371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232310,
+      "num": 232310,
+      "word": "王源应援棒",
+      "onboard_time": 1749615322,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 232284,
       "num": 265195,
       "word": "一诺金发白衬衫",
@@ -11361,6 +11449,22 @@
       "onboard_time": 1749042922,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231113,
+      "num": 327274,
+      "word": "东极岛没认出这是吴磊",
+      "onboard_time": 1749616102,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 231060,
+      "num": 289697,
+      "word": "内娱没喝中药的姐一下要来四个",
+      "onboard_time": 1749615443,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 231034,
@@ -11577,6 +11681,14 @@
       "onboard_time": 1748957662,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226814,
+      "num": 226814,
+      "word": "84元的锅国外要卖3000元",
+      "onboard_time": 1749614842,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226728,
@@ -12353,6 +12465,14 @@
       "onboard_time": 1749132803,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215276,
+      "num": 459452,
+      "word": "台网红说去看看大陆高铁有没有靠背",
+      "onboard_time": 1749612202,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215151,
@@ -13755,12 +13875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200841,
+      "num": 200841,
+      "word": "易烊千玺新歌山花",
+      "onboard_time": 1749615743,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200823,
       "num": 200823,
       "word": "女子吃剩菜后意识模糊被送医抢救",
       "onboard_time": 1749001160,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200788,
+      "num": 294541,
+      "word": "樊振东3比2林诗栋",
+      "onboard_time": 1749616284,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 200767,
@@ -13897,6 +14033,14 @@
       "onboard_time": 1748833821,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199708,
+      "num": 232836,
+      "word": "王楚钦3比0徐海东",
+      "onboard_time": 1749615322,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 199502,
@@ -15051,6 +15195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190100,
+      "num": 190100,
+      "word": "沈腾逮着范丞丞一顿踢",
+      "onboard_time": 1749616043,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190073,
       "num": 190073,
       "word": "钟楚曦湿发泳池照",
@@ -15881,6 +16033,14 @@
       "onboard_time": 1748936660,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184090,
+      "num": 283288,
+      "word": "今年豆瓣7分以上国产剧",
+      "onboard_time": 1749615743,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 184013,
@@ -17411,6 +17571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169819,
+      "num": 169819,
+      "word": "把147平米的家装出了别墅感",
+      "onboard_time": 1749616464,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169807,
       "num": 169807,
       "word": "尔冬升说柯淳哭戏果然厉害",
@@ -18761,6 +18929,14 @@
       "onboard_time": 1749366921,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160925,
+      "num": 326712,
+      "word": "亲妈后爸把娃埋别人坟里拍视频寻子",
+      "onboard_time": 1749615622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160787,
@@ -24627,6 +24803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123054,
+      "num": 326089,
+      "word": "谭维维和太乙真人配音认识27年了",
+      "onboard_time": 1749615983,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122996,
       "num": 122996,
       "word": "章若楠被重庆小面香迷糊了",
@@ -26875,14 +27059,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 108199,
-      "num": 459452,
-      "word": "台网红说去看看大陆高铁有没有靠背",
-      "onboard_time": 1749612202,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108116,
       "num": 156882,
       "word": "藏海传年度爆款剧集",
@@ -27881,6 +28057,14 @@
       "onboard_time": 1749018622,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99812,
+      "num": 326756,
+      "word": "产妇有自行签字的权力吗",
+      "onboard_time": 1749615142,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99805,
@@ -30971,6 +31155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69960,
+      "num": 328013,
+      "word": "学校回应保安将学生外卖丢垃圾桶",
+      "onboard_time": 1749614842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69950,
       "num": 146401,
       "word": "覃海洋晒童年泳照",
@@ -32379,6 +32571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55044,
+      "num": 327078,
+      "word": "爸爸帮抢不到货的女儿复刻Labubu",
+      "onboard_time": 1749615983,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55002,
       "num": 55002,
       "word": "医院回应医生误将腹超做成阴超",
@@ -32931,6 +33131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50150,
+      "num": 299351,
+      "word": "洛杉矶海军陆战队人数是山火时的4倍",
+      "onboard_time": 1749616102,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50146,
       "num": 212385,
       "word": "愿景娱乐HR辱骂发烧请假员工",
@@ -33097,6 +33305,14 @@
       "onboard_time": 1749176120,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 49153,
+      "num": 325491,
+      "word": "抢注Labubu创作者姓名商标被驳回",
+      "onboard_time": 1749616284,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49144,
@@ -33289,6 +33505,14 @@
       "onboard_time": 1748787742,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46311,
+      "num": 296597,
+      "word": "产销盗版LABUBU最高可判无期",
+      "onboard_time": 1749615023,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46280,
@@ -35699,6 +35923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29778,
+      "num": 1168518,
+      "word": "听听青年的网络文明关键词",
+      "onboard_time": 1749614903,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29751,
       "num": 513958,
       "word": "各科老师的高考祝福语",
@@ -36489,6 +36721,14 @@
       "onboard_time": 1749020901,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 24972,
+      "num": 329319,
+      "word": "中国潮玩点亮外贸成绩单",
+      "onboard_time": 1749615502,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 24965,
