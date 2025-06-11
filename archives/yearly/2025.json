@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749638780597,
+  "endTime": 1749640999070,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1177,6 +1177,14 @@
       "onboard_time": 1740401241,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7048374,
+      "num": 8298374,
+      "word": "台湾附近5.9级左右地震",
+      "onboard_time": 1749640463,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 7020821,
@@ -2392,14 +2400,6 @@
       "word": "高考数学难不难",
       "onboard_time": 1749287786,
       "rank": 1,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 3413245,
-      "num": 3413245,
-      "word": "协和",
-      "onboard_time": 1745886801,
-      "rank": 10,
       "category": "教育"
     }
   ],
