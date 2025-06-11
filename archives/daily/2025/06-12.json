@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749670628534,
+  "endTime": 1749673696241,
   "band_list": [
     {
       "raw_hot": 704399,
@@ -595,6 +595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17997,
+      "num": 17997,
+      "word": "高考生的VIP待遇高考一结束就没了",
+      "onboard_time": 1749670874,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14057,
       "num": 19710,
       "word": "张杰常州雨中舞台好梦幻",
@@ -603,11 +611,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 11958,
+      "num": 17684,
+      "word": "这周日就是父亲节了",
+      "onboard_time": 1749672255,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10332,
       "num": 23167,
       "word": "台网红馆长大赞上海",
       "onboard_time": 1749667455,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9613,
+      "num": 18735,
+      "word": "人民日报独家对话张桂梅",
+      "onboard_time": 1749672973,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1563,
+      "num": 42478,
+      "word": "这份文明上网攻略请收好",
+      "onboard_time": 1749460581,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
