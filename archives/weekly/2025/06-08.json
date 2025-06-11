@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749620701183,
+  "endTime": 1749623848808,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -329,6 +329,14 @@
       "onboard_time": 1749553820,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1346628,
+      "num": 1177404,
+      "word": "三姐妹上坟被炸身亡案二审维持原判",
+      "onboard_time": 1749621441,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1345428,
@@ -2347,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394815,
+      "num": 277774,
+      "word": "京东真的找了惠英红",
+      "onboard_time": 1749621982,
+      "rank": 14,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 394598,
       "num": 394598,
       "word": "政治的花语是手慢无",
@@ -3451,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281404,
+      "num": 281404,
+      "word": "恋与深空",
+      "onboard_time": 1749444262,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280175,
       "num": 315814,
       "word": "者来女 歌手揭榜",
@@ -3955,6 +3979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245876,
+      "num": 276766,
+      "word": "台湾网红馆长直播游大陆吓坏了谁",
+      "onboard_time": 1749622881,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244821,
       "num": 244821,
       "word": "银行存5万送Labubu真的值吗",
@@ -4049,14 +4081,6 @@
       "onboard_time": 1749548241,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 236916,
-      "num": 236916,
-      "word": "恋与深空",
-      "onboard_time": 1749444262,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 236734,
@@ -4249,6 +4273,14 @@
       "onboard_time": 1749453443,
       "rank": 8,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 226966,
+      "num": 273564,
+      "word": "解说称樊振东预判了林诗栋的预判",
+      "onboard_time": 1749622340,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 226814,
@@ -4601,6 +4633,14 @@
       "onboard_time": 1749616703,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210038,
+      "num": 210038,
+      "word": "盗版LABUBU丑得很抽象",
+      "onboard_time": 1749621561,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 209557,
@@ -4956,7 +4996,7 @@
     },
     {
       "raw_hot": 200888,
-      "num": 200888,
+      "num": 275506,
       "word": "14岁等等和邓超一样高了",
       "onboard_time": 1749619762,
       "rank": 28,
@@ -5203,6 +5243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196341,
+      "num": 196341,
+      "word": "华为发布会",
+      "onboard_time": 1749622941,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196218,
       "num": 221694,
       "word": "高以忱被查",
@@ -5283,6 +5331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193489,
+      "num": 193489,
+      "word": "Red三天高考六天打歌",
+      "onboard_time": 1749622761,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193219,
       "num": 292709,
       "word": "李嘉鑫说肖战在片场很搞笑",
@@ -5313,6 +5369,14 @@
       "onboard_time": 1749525859,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192831,
+      "num": 269526,
+      "word": "科创板首位90后创始人敲钟",
+      "onboard_time": 1749622340,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 192813,
@@ -5995,6 +6059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180542,
+      "num": 180542,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1749623601,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180513,
       "num": 180513,
       "word": "韦东奕身体状况",
@@ -6435,6 +6507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170076,
+      "num": 274764,
+      "word": "朱一龙吴磊身体覆盖率",
+      "onboard_time": 1749622401,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170053,
       "num": 170053,
       "word": "谢可寅赖美云唱到一半发现没会员",
@@ -6675,6 +6755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166749,
+      "num": 166749,
+      "word": "王楚钦说还没达到孙颖莎的境界",
+      "onboard_time": 1749621741,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166208,
       "num": 166208,
       "word": "李沁羊毛卷斜扎高马尾",
@@ -6787,6 +6875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165008,
+      "num": 165008,
+      "word": "石桥铺",
+      "onboard_time": 1749623601,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164884,
       "num": 164884,
       "word": "任天堂发明了永动机",
@@ -6848,6 +6944,14 @@
       "word": "卡琳娜的婆婆来了",
       "onboard_time": 1749299001,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164281,
+      "num": 164281,
+      "word": "张晋李承铉胡夏早安你们是来搞抽象的吧",
+      "onboard_time": 1749623241,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -7563,6 +7667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151524,
+      "num": 151524,
+      "word": "被一个个大国重器飒到了",
+      "onboard_time": 1749622520,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151374,
       "num": 227284,
       "word": "女子称丈夫因离婚纠纷毒死2亲生儿女",
@@ -7617,6 +7729,14 @@
       "onboard_time": 1749372141,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 150429,
+      "num": 150429,
+      "word": "光与夜之恋攻坚办公室",
+      "onboard_time": 1749623062,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 150411,
@@ -7995,6 +8115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144426,
+      "num": 144426,
+      "word": "怪不得向太觉得周星驰不搞笑",
+      "onboard_time": 1749622401,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144356,
       "num": 282162,
       "word": "消防员帮考生剪断手镯",
@@ -8129,6 +8257,14 @@
       "onboard_time": 1749342739,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141680,
+      "num": 141680,
+      "word": "肖战藏海传市场认可度",
+      "onboard_time": 1749623720,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 141590,
@@ -8569,6 +8705,14 @@
       "onboard_time": 1749545061,
       "rank": 46,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 135315,
+      "num": 135315,
+      "word": "今年第1号台风蝴蝶最新情况",
+      "onboard_time": 1749622520,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135169,
@@ -10387,6 +10531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90655,
+      "num": 164338,
+      "word": "王楚钦超绝反应力",
+      "onboard_time": 1749623361,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90177,
       "num": 90177,
       "word": "法网女单决赛",
@@ -10529,6 +10681,14 @@
       "onboard_time": 1749592575,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85093,
+      "num": 268990,
+      "word": "有美国网民提出把加州卖给墨西哥",
+      "onboard_time": 1749621982,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84966,
@@ -11099,6 +11259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67899,
+      "num": 251969,
+      "word": "王铮亮续上披荆斩棘",
+      "onboard_time": 1749622821,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67548,
       "num": 181593,
       "word": "打碎酒店台灯被凌晨敲门要求赔3000",
@@ -11177,6 +11345,14 @@
       "onboard_time": 1749400101,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65374,
+      "num": 271690,
+      "word": "洛杉矶宵禁现场发生激烈冲突",
+      "onboard_time": 1749621982,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64859,
@@ -11675,6 +11851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50358,
+      "num": 237772,
+      "word": "男子为女主播花几十万被说过于代入",
+      "onboard_time": 1749621860,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50192,
       "num": 50192,
       "word": "美抗议者问难道这就是MAGA",
@@ -12080,6 +12264,14 @@
       "word": "贵州杀妻灭子案明日开庭",
       "onboard_time": 1749458961,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40253,
+      "num": 270176,
+      "word": "博士生考保安证计划看周杰伦演唱会",
+      "onboard_time": 1749623421,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -13633,6 +13825,14 @@
       "onboard_time": 1749583333,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 11027,
+      "num": 273151,
+      "word": "年轻人如何克服理发店羞耻症",
+      "onboard_time": 1749623480,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 10958,

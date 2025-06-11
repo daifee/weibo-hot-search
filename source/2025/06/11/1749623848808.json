@@ -1,0 +1,410 @@
+{
+  "runTime": 1749623848808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1238748,
+        "num": 1238748,
+        "word": "小沈阳女儿韩国出道",
+        "onboard_time": 1749612441,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1346628,
+        "num": 1177404,
+        "word": "三姐妹上坟被炸身亡案二审维持原判",
+        "onboard_time": 1749621441,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33618,
+        "num": 796481,
+        "word": "听听青年的网络文明关键词",
+        "onboard_time": 1749614903,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 778133,
+        "num": 778133,
+        "word": "礐嶨怎么读",
+        "onboard_time": 1749619520,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 517352,
+        "num": 517352,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1749609560,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 400797,
+        "num": 400797,
+        "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
+        "onboard_time": 1749616522,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455460,
+        "num": 398277,
+        "word": "范丞丞叫千玺玺子哥",
+        "onboard_time": 1749615863,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392879,
+        "num": 392879,
+        "word": "樊振东3比2林诗栋",
+        "onboard_time": 1749616284,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328683,
+        "num": 328683,
+        "word": "国台办回应藏海传台湾热播",
+        "onboard_time": 1749614122,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281404,
+        "num": 281404,
+        "word": "恋与深空",
+        "onboard_time": 1749622520,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 637538,
+        "num": 281275,
+        "word": "亲妈后爸把娃埋别人坟里拍视频寻子",
+        "onboard_time": 1749615622,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556807,
+        "num": 280520,
+        "word": "工资4800三年存下12万",
+        "onboard_time": 1749615622,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401126,
+        "num": 279414,
+        "word": "向佐 这不是我老婆好吗",
+        "onboard_time": 1749616163,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400194,
+        "num": 278503,
+        "word": "网红解释问黄子韬离婚",
+        "onboard_time": 1749611721,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394815,
+        "num": 277774,
+        "word": "京东真的找了惠英红",
+        "onboard_time": 1749621982,
+        "rank": 14,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 245876,
+        "num": 276766,
+        "word": "台湾网红馆长直播游大陆吓坏了谁",
+        "onboard_time": 1749622881,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228686,
+        "num": 276088,
+        "word": "父亲和女儿总共99岁 女儿多少岁",
+        "onboard_time": 1749615682,
+        "rank": 16,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 179320,
+        "num": 275506,
+        "word": "14岁等等和邓超一样高了",
+        "onboard_time": 1749619762,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170076,
+        "num": 274764,
+        "word": "朱一龙吴磊身体覆盖率",
+        "onboard_time": 1749622401,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226966,
+        "num": 273564,
+        "word": "解说称樊振东预判了林诗栋的预判",
+        "onboard_time": 1749622340,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11027,
+        "num": 273151,
+        "word": "年轻人如何克服理发店羞耻症",
+        "onboard_time": 1749623480,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65374,
+        "num": 271690,
+        "word": "洛杉矶宵禁现场发生激烈冲突",
+        "onboard_time": 1749621982,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289258,
+        "num": 271114,
+        "word": "迪丽热巴因一句台词一夜涨粉200万",
+        "onboard_time": 1749609799,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40253,
+        "num": 270176,
+        "word": "博士生考保安证计划看周杰伦演唱会",
+        "onboard_time": 1749623421,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192831,
+        "num": 269526,
+        "word": "科创板首位90后创始人敲钟",
+        "onboard_time": 1749622340,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85093,
+        "num": 268990,
+        "word": "有美国网民提出把加州卖给墨西哥",
+        "onboard_time": 1749621982,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76903,
+        "num": 267536,
+        "word": "中国汽车崛起离不开真功夫和硬实力",
+        "onboard_time": 1749618683,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 267409,
+        "num": 267409,
+        "word": "王一博更新ins",
+        "onboard_time": 1749614721,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261307,
+        "num": 261307,
+        "word": "这居然是倪妮",
+        "onboard_time": 1749615682,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67899,
+        "num": 251969,
+        "word": "王铮亮续上披荆斩棘",
+        "onboard_time": 1749622821,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248250,
+        "num": 248250,
+        "word": "鹿晗有隐藏款labubu",
+        "onboard_time": 1749601281,
+        "rank": 30,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 50358,
+        "num": 237772,
+        "word": "男子为女主播花几十万被说过于代入",
+        "onboard_time": 1749621860,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236523,
+        "num": 236523,
+        "word": "4位浪姐自己组团出道",
+        "onboard_time": 1749610460,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210038,
+        "num": 210038,
+        "word": "盗版LABUBU丑得很抽象",
+        "onboard_time": 1749621561,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 196341,
+        "num": 196341,
+        "word": "华为发布会",
+        "onboard_time": 1749622941,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193489,
+        "num": 193489,
+        "word": "Red三天高考六天打歌",
+        "onboard_time": 1749622761,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180542,
+        "num": 180542,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1749623601,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166749,
+        "num": 166749,
+        "word": "王楚钦说还没达到孙颖莎的境界",
+        "onboard_time": 1749621741,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165008,
+        "num": 165008,
+        "word": "石桥铺",
+        "onboard_time": 1749623601,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90655,
+        "num": 164338,
+        "word": "王楚钦超绝反应力",
+        "onboard_time": 1749623361,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164281,
+        "num": 164281,
+        "word": "张晋李承铉胡夏早安你们是来搞抽象的吧",
+        "onboard_time": 1749623241,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159418,
+        "num": 159418,
+        "word": "东极岛致敬不该被忘记的中国人",
+        "onboard_time": 1749615263,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159219,
+        "num": 159219,
+        "word": "6块钱一碗的面被通报宴请",
+        "onboard_time": 1749611960,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151524,
+        "num": 151524,
+        "word": "被一个个大国重器飒到了",
+        "onboard_time": 1749622520,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150429,
+        "num": 150429,
+        "word": "光与夜之恋攻坚办公室",
+        "onboard_time": 1749623062,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144715,
+        "num": 144715,
+        "word": "iPhone17系列新爆料",
+        "onboard_time": 1749618623,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144426,
+        "num": 144426,
+        "word": "怪不得向太觉得周星驰不搞笑",
+        "onboard_time": 1749622401,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141680,
+        "num": 141680,
+        "word": "肖战藏海传市场认可度",
+        "onboard_time": 1749623720,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135315,
+        "num": 135315,
+        "word": "今年第1号台风蝴蝶最新情况",
+        "onboard_time": 1749622520,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122345,
+        "num": 122345,
+        "word": "沙溢不想删除的照片又多了一张",
+        "onboard_time": 1749615802,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应坚定睦邻友好方向#"
+    }
+  }
+}
