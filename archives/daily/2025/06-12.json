@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749667842995,
+  "endTime": 1749669664403,
   "band_list": [
     {
       "raw_hot": 704399,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48104,
+      "num": 34468,
+      "word": "朴实无华的商战",
+      "onboard_time": 1749667274,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 46836,
       "num": 46836,
       "word": "刘宇宁歌声和长城满月适配度拉满",
@@ -563,15 +571,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21605,
-      "num": 23176,
-      "word": "朴实无华的商战",
-      "onboard_time": 1749667274,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 21300,
+      "raw_hot": 21522,
       "num": 63113,
       "word": "台风蝴蝶13日登陆海南岛南部沿海",
       "onboard_time": 1749666075,
@@ -585,6 +585,22 @@
       "onboard_time": 1749660199,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 16866,
+      "num": 19716,
+      "word": "山西10岁男孩被害案生父抗诉被驳回",
+      "onboard_time": 1749667875,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 14057,
+      "num": 19710,
+      "word": "张杰常州雨中舞台好梦幻",
+      "onboard_time": 1749669254,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 10332,
