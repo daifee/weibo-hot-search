@@ -1,0 +1,410 @@
+{
+  "runTime": 1749631764218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1514480,
+        "num": 1514480,
+        "word": "蜜雪冰城含菌量超标被通报",
+        "onboard_time": 1749625820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797977,
+        "num": 797977,
+        "word": "爷爷不泡茶",
+        "onboard_time": 1749627801,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35679,
+        "num": 768374,
+        "word": "听听青年的网络文明关键词",
+        "onboard_time": 1749614903,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 744718,
+        "num": 744718,
+        "word": "礐嶨怎么读",
+        "onboard_time": 1749619520,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 700592,
+        "num": 700592,
+        "word": "钟汉良 泪沟",
+        "onboard_time": 1749630621,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 618175,
+        "num": 618175,
+        "word": "华为Pura80价格",
+        "onboard_time": 1749628161,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 629200,
+        "num": 616958,
+        "word": "小沈阳女儿韩国出道",
+        "onboard_time": 1749612441,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611820,
+        "num": 611820,
+        "word": "台湾网红馆长承认曾受影响骂过大陆",
+        "onboard_time": 1749627201,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596313,
+        "num": 596313,
+        "word": "马斯克后悔发布一些关于特朗普的帖子",
+        "onboard_time": 1749628221,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 545722,
+        "num": 545722,
+        "word": "加州州长含泪喊话加州民众",
+        "onboard_time": 1749626241,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 530906,
+        "num": 530906,
+        "word": "华为发布会 单依纯",
+        "onboard_time": 1749626781,
+        "rank": 10,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 427161,
+        "num": 427161,
+        "word": "樊振东今晚或与王楚钦对决",
+        "onboard_time": 1749629182,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308160,
+        "num": 423981,
+        "word": "国台办回应藏海传台湾热播",
+        "onboard_time": 1749614122,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422296,
+        "num": 422296,
+        "word": "工资4800三年存下12万",
+        "onboard_time": 1749615622,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237398,
+        "num": 370737,
+        "word": "Pura80设计灵感来源于单色釉",
+        "onboard_time": 1749629060,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128011,
+        "num": 341194,
+        "word": "Pura80一英寸超高动态主摄",
+        "onboard_time": 1749630801,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 330591,
+        "num": 330591,
+        "word": "特朗普宣称谁敢破坏阅兵将遭到强大武力",
+        "onboard_time": 1749631402,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115211,
+        "num": 329752,
+        "word": "田柾国说瘦下来之前都不是艺人",
+        "onboard_time": 1749631402,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104378,
+        "num": 327078,
+        "word": "皮肤不好的人最该戒掉哪类食物",
+        "onboard_time": 1749627921,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158227,
+        "num": 325488,
+        "word": "3姐妹上坟被炸亡大伯判死刑家属发声",
+        "onboard_time": 1749631222,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297685,
+        "num": 323629,
+        "word": "10所新大学来了",
+        "onboard_time": 1749628221,
+        "rank": 20,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 282317,
+        "num": 322238,
+        "word": "京东真的找了惠英红",
+        "onboard_time": 1749621982,
+        "rank": 21,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 320270,
+        "num": 320270,
+        "word": "华为Pura80",
+        "onboard_time": 1749625161,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 304402,
+        "num": 304402,
+        "word": "labubu炸虾",
+        "onboard_time": 1749629182,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 272904,
+        "num": 272904,
+        "word": "向佐 这不是我老婆好吗",
+        "onboard_time": 1749616163,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228293,
+        "num": 228293,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1749609560,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225352,
+        "num": 225352,
+        "word": "华为Pura80芯片",
+        "onboard_time": 1749630381,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 222632,
+        "num": 222632,
+        "word": "童年富裕症",
+        "onboard_time": 1749628761,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208085,
+        "num": 208085,
+        "word": "周一围看了桃花坞半夜被朱丹气醒",
+        "onboard_time": 1749629722,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200506,
+        "num": 200506,
+        "word": "台湾网红馆长直播游大陆吓坏了谁",
+        "onboard_time": 1749622881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220988,
+        "num": 193567,
+        "word": "石桥铺火灾",
+        "onboard_time": 1749625101,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 204389,
+        "num": 191991,
+        "word": "吴磊 我的屁股变得开朗了",
+        "onboard_time": 1749628701,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182948,
+        "num": 182948,
+        "word": "Pura80业界首创一镜双目长焦",
+        "onboard_time": 1749631162,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176699,
+        "num": 176699,
+        "word": "朱珠全球最美面孔的含金量还在上升",
+        "onboard_time": 1749631701,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24621,
+        "num": 176546,
+        "word": "姐姐值班没回家躲过上坟爆炸一劫",
+        "onboard_time": 1749631583,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176424,
+        "num": 176424,
+        "word": "华为Pura80配置",
+        "onboard_time": 1749631583,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170340,
+        "num": 170340,
+        "word": "正确走路姿势 臀部发力",
+        "onboard_time": 1749628460,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 34396,
+        "num": 170276,
+        "word": "考完的文科生遇到了刚出发的理科生",
+        "onboard_time": 1749630081,
+        "rank": 37,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 170272,
+        "num": 170272,
+        "word": "独生子女的父母同时病了怎么办",
+        "onboard_time": 1749631461,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 96047,
+        "num": 170147,
+        "word": "九尾女娲收割的神",
+        "onboard_time": 1749631583,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170111,
+        "num": 170111,
+        "word": "网红解释问黄子韬离婚",
+        "onboard_time": 1749611721,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169714,
+        "num": 169714,
+        "word": "范丞丞叫千玺玺子哥",
+        "onboard_time": 1749615863,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114369,
+        "num": 161307,
+        "word": "惠英红说红的会赢",
+        "onboard_time": 1749626361,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154491,
+        "num": 154491,
+        "word": "王一博更新ins",
+        "onboard_time": 1749614721,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150510,
+        "num": 150510,
+        "word": "唯一个上过郝蕾培训班没进步的",
+        "onboard_time": 1749631641,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148876,
+        "num": 148876,
+        "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
+        "onboard_time": 1749616522,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144588,
+        "num": 144588,
+        "word": "迪丽热巴因一句台词一夜涨粉200万",
+        "onboard_time": 1749609799,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139040,
+        "num": 139040,
+        "word": "长胖和变瘦都是有滞后性的",
+        "onboard_time": 1749631641,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136635,
+        "num": 136635,
+        "word": "足协主席宋凯评价中国足球现状",
+        "onboard_time": 1749628041,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133238,
+        "num": 133238,
+        "word": "你一句无罪归天换我十年凄苦",
+        "onboard_time": 1749631701,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应坚定睦邻友好方向#"
+    }
+  }
+}
