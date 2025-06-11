@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749637725571,
+  "endTime": 1749638780597,
   "band_list": [
     {
       "raw_hot": 2581554,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478428,
+      "num": 478428,
+      "word": "复读7年考上清华的真实感受",
+      "onboard_time": 1749635241,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472777,
       "num": 704723,
       "word": "于正拍的古力娜扎",
@@ -440,14 +448,6 @@
       "word": "银行柜员拿放大镜办业务被吐槽效率低",
       "onboard_time": 1749597619,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 451815,
-      "num": 451815,
-      "word": "复读7年考上清华的真实感受",
-      "onboard_time": 1749635241,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -563,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 356677,
+      "num": 356677,
+      "word": "撕掉小沈阳女儿标签要靠实力",
+      "onboard_time": 1749638302,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347342,
       "num": 419484,
       "word": "东极岛没认出这是吴磊",
@@ -611,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327955,
+      "num": 327955,
+      "word": "labubu 紫薇星",
+      "onboard_time": 1749634762,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 324571,
       "num": 324571,
       "word": "为救女儿生下的儿子也患罕见遗传病",
@@ -633,14 +649,6 @@
       "onboard_time": 1749606562,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 309146,
-      "num": 309146,
-      "word": "labubu 紫薇星",
-      "onboard_time": 1749634762,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 306240,
@@ -1003,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212899,
+      "num": 404058,
+      "word": "临江仙",
+      "onboard_time": 1749636683,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210643,
       "num": 210643,
       "word": "王楚钦领衔山东魏桥乒超四连胜",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1749565641,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 208598,
-      "num": 404058,
-      "word": "临江仙",
-      "onboard_time": 1749636683,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 206882,
@@ -1459,6 +1467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171290,
+      "num": 171290,
+      "word": "从哪里开始是爱豆",
+      "onboard_time": 1749638001,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170694,
       "num": 170694,
       "word": "今年第1号台风蝴蝶直扑华南",
@@ -1595,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159894,
+      "num": 159894,
+      "word": "藏海传2权威回应提前看版",
+      "onboard_time": 1749638601,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159776,
       "num": 159209,
       "word": "韩安冉婆婆回应缺席孙女手术",
@@ -1675,6 +1699,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153569,
+      "num": 377291,
+      "word": "特朗普演讲现场防弹玻璃高度超两米",
+      "onboard_time": 1749637043,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 153265,
+      "num": 153265,
+      "word": "学兽医的原来都在这么养宠",
+      "onboard_time": 1749638422,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152296,
       "num": 152296,
       "word": "中美经贸磋商达成原则一致",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1749634822,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149059,
+      "num": 149059,
+      "word": "曾舜晞一滴泪封神",
+      "onboard_time": 1749638062,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 148941,
@@ -1851,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141008,
+      "num": 141008,
+      "word": "iG对战WE",
+      "onboard_time": 1749635182,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140023,
       "num": 140023,
       "word": "樊振东这球太帅了",
@@ -1931,6 +1987,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134742,
+      "num": 201730,
+      "word": "婚内强奸案当事人计划追加赔偿金额",
+      "onboard_time": 1749636382,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134547,
+      "num": 134547,
+      "word": "中国男排vs日本男排",
+      "onboard_time": 1749638241,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133969,
       "num": 154553,
       "word": "中方谈中美经贸磋商机制首次会议",
@@ -1993,6 +2065,14 @@
       "onboard_time": 1749562822,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 128359,
+      "num": 410677,
+      "word": "骑车时速35码撞人致失忆判赔30万",
+      "onboard_time": 1749636803,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128011,
@@ -2411,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80102,
+      "num": 161676,
+      "word": "考前大鱼大肉考后剩菜剩饭",
+      "onboard_time": 1749638241,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79972,
       "num": 129246,
       "word": "王艺迪独得两分",
@@ -2491,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71014,
+      "num": 423267,
+      "word": "浙江1名村干部转移群众落水遇难",
+      "onboard_time": 1749637462,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70877,
       "num": 112051,
       "word": "108万天价拉布布成交",
@@ -2512,14 +2608,6 @@
       "word": "学校回应保安将学生外卖丢垃圾桶",
       "onboard_time": 1749614842,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69519,
-      "num": 201730,
-      "word": "婚内强奸案当事人计划追加赔偿金额",
-      "onboard_time": 1749636382,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2579,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66094,
+      "num": 134602,
+      "word": "LGDNBW对战KSG",
+      "onboard_time": 1749637821,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65374,
       "num": 271690,
       "word": "洛杉矶宵禁现场发生激烈冲突",
@@ -2601,14 +2697,6 @@
       "onboard_time": 1749567682,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63137,
-      "num": 410677,
-      "word": "骑车时速35码撞人致失忆判赔30万",
-      "onboard_time": 1749636803,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62174,
@@ -2699,14 +2787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42935,
-      "num": 377291,
-      "word": "特朗普演讲现场防弹玻璃高度超两米",
-      "onboard_time": 1749637043,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 42536,
       "num": 173863,
       "word": "汽车零部件概念股走高",
@@ -2720,14 +2800,6 @@
       "word": "校方回应高考前一天艺考生被撞病危",
       "onboard_time": 1749581114,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41520,
-      "num": 423267,
-      "word": "浙江1名村干部转移群众落水遇难",
-      "onboard_time": 1749637462,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2793,6 +2865,22 @@
       "onboard_time": 1749576677,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 36037,
+      "num": 147838,
+      "word": "馥儿就应该配鲜花",
+      "onboard_time": 1749638362,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 35958,
+      "num": 148148,
+      "word": "原来不是考上了才有礼物",
+      "onboard_time": 1749638362,
+      "rank": 38,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 35025,
@@ -3065,6 +3153,14 @@
       "onboard_time": 1749584054,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 10252,
+      "num": 243109,
+      "word": "怎么辨别盗版labubu",
+      "onboard_time": 1749637881,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 10207,

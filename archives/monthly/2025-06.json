@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749637725571,
+  "endTime": 1749638780597,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -5427,6 +5427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478428,
+      "num": 478428,
+      "word": "复读7年考上清华的真实感受",
+      "onboard_time": 1749635241,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 477231,
       "num": 477231,
       "word": "藏海口碑恐怖如斯",
@@ -5840,14 +5848,6 @@
       "word": "女子疑被蛇咬身亡哪个环节出了问题",
       "onboard_time": 1749091460,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 451815,
-      "num": 451815,
-      "word": "复读7年考上清华的真实感受",
-      "onboard_time": 1749635241,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -7619,6 +7619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356677,
+      "num": 356677,
+      "word": "撕掉小沈阳女儿标签要靠实力",
+      "onboard_time": 1749638302,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356632,
       "num": 382806,
       "word": "模样最凶的狗狗救下2岁男童",
@@ -8371,6 +8379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327955,
+      "num": 327955,
+      "word": "labubu 紫薇星",
+      "onboard_time": 1749634762,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 327952,
       "num": 327952,
       "word": "高考应援已经进化到这种程度了",
@@ -8865,14 +8881,6 @@
       "onboard_time": 1749514461,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309146,
-      "num": 309146,
-      "word": "labubu 紫薇星",
-      "onboard_time": 1749634762,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 309122,
@@ -18019,6 +18027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171290,
+      "num": 171290,
+      "word": "从哪里开始是爱豆",
+      "onboard_time": 1749638001,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171229,
       "num": 171229,
       "word": "西亚卡姆东决MVP",
@@ -19803,6 +19819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159894,
+      "num": 159894,
+      "word": "藏海传2权威回应提前看版",
+      "onboard_time": 1749638601,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159881,
       "num": 159881,
       "word": "王星女友嘉嘉曾是乐队主唱",
@@ -20715,6 +20739,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 153569,
+      "num": 377291,
+      "word": "特朗普演讲现场防弹玻璃高度超两米",
+      "onboard_time": 1749637043,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153539,
       "num": 153539,
       "word": "留饭和剩饭的区别",
@@ -20777,6 +20809,14 @@
       "onboard_time": 1748957783,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153265,
+      "num": 153265,
+      "word": "学兽医的原来都在这么养宠",
+      "onboard_time": 1749638422,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 153016,
@@ -21345,6 +21385,14 @@
       "onboard_time": 1749018860,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149059,
+      "num": 149059,
+      "word": "曾舜晞一滴泪封神",
+      "onboard_time": 1749638062,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 148949,
@@ -22747,6 +22795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141008,
+      "num": 141008,
+      "word": "iG对战WE",
+      "onboard_time": 1749635182,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140984,
       "num": 140984,
       "word": "灵笼2挤痘痘",
@@ -23923,6 +23979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134742,
+      "num": 201730,
+      "word": "婚内强奸案当事人计划追加赔偿金额",
+      "onboard_time": 1749636382,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134713,
       "num": 134713,
       "word": "半年不上班的心理变化",
@@ -24001,6 +24065,14 @@
       "onboard_time": 1749209242,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134547,
+      "num": 134547,
+      "word": "中国男排vs日本男排",
+      "onboard_time": 1749638241,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 134520,
@@ -25105,6 +25177,14 @@
       "onboard_time": 1749548000,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128359,
+      "num": 410677,
+      "word": "骑车时速35码撞人致失忆判赔30万",
+      "onboard_time": 1749636803,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128347,
@@ -31307,6 +31387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80102,
+      "num": 161676,
+      "word": "考前大鱼大肉考后剩菜剩饭",
+      "onboard_time": 1749638241,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80077,
       "num": 80077,
       "word": "巴黎圣日耳曼5比0国际米兰",
@@ -32203,6 +32291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71014,
+      "num": 423267,
+      "word": "浙江1名村干部转移群众落水遇难",
+      "onboard_time": 1749637462,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70976,
       "num": 316028,
       "word": "王嘉尔恨爱",
@@ -32369,14 +32465,6 @@
       "onboard_time": 1749544523,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 69519,
-      "num": 201730,
-      "word": "婚内强奸案当事人计划追加赔偿金额",
-      "onboard_time": 1749636382,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69484,
@@ -32763,6 +32851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66094,
+      "num": 134602,
+      "word": "LGDNBW对战KSG",
+      "onboard_time": 1749637821,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65942,
       "num": 563957,
       "word": "今麦郎康师傅曾申请一桶半一倍半商标",
@@ -33000,14 +33096,6 @@
       "word": "中国字的魅力看一次爱一次",
       "onboard_time": 1748852840,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63137,
-      "num": 410677,
-      "word": "骑车时速35码撞人致失忆判赔30万",
-      "onboard_time": 1749636803,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -35171,14 +35259,6 @@
       "category": "民生新闻,运动健身"
     },
     {
-      "raw_hot": 42935,
-      "num": 377291,
-      "word": "特朗普演讲现场防弹玻璃高度超两米",
-      "onboard_time": 1749637043,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 42914,
       "num": 172376,
       "word": "加州居民晒早餐称物价离谱",
@@ -35449,14 +35529,6 @@
       "onboard_time": 1748934861,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41520,
-      "num": 423267,
-      "word": "浙江1名村干部转移群众落水遇难",
-      "onboard_time": 1749637462,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41438,
@@ -36291,12 +36363,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36037,
+      "num": 147838,
+      "word": "馥儿就应该配鲜花",
+      "onboard_time": 1749638362,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 35992,
       "num": 772023,
       "word": "万千气象看安徽",
       "onboard_time": 1749475463,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35958,
+      "num": 148148,
+      "word": "原来不是考上了才有礼物",
+      "onboard_time": 1749638362,
+      "rank": 38,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 35911,
@@ -40153,6 +40241,14 @@
       "onboard_time": 1749007580,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 10252,
+      "num": 243109,
+      "word": "怎么辨别盗版labubu",
+      "onboard_time": 1749637881,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 10220,
