@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749655758851,
+  "endTime": 1749656591634,
   "band_list": [
     {
       "raw_hot": 7048374,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 700075,
+      "num": 700075,
+      "word": "潘粤明炮轰国足教练",
+      "onboard_time": 1749654383,
+      "rank": 12,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 655876,
       "num": 655876,
       "word": "华为发布会 单依纯",
@@ -529,14 +537,6 @@
       "onboard_time": 1749608599,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 505150,
-      "num": 316982,
-      "word": "潘粤明炮轰国足教练",
-      "onboard_time": 1749654383,
-      "rank": 12,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 496840,
@@ -723,6 +723,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 388426,
+      "num": 347148,
+      "word": "邢菲 她的瞳",
+      "onboard_time": 1749654741,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379088,
       "num": 379088,
       "word": "樊振东vs薛飞",
@@ -737,6 +745,14 @@
       "onboard_time": 1749615263,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 377039,
+      "num": 334257,
+      "word": "霉霉疑与男友秘密结婚",
+      "onboard_time": 1749655042,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 368183,
@@ -971,6 +987,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286512,
+      "num": 286512,
+      "word": "袁隆平墓前多了一袋特殊的稻米",
+      "onboard_time": 1749654502,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281672,
+      "num": 350384,
+      "word": "特朗普称可以原谅马斯克",
+      "onboard_time": 1749654022,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 281570,
       "num": 281570,
       "word": "沙溢不想删除的照片又多了一张",
@@ -985,14 +1017,6 @@
       "onboard_time": 1749622520,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281142,
-      "num": 281142,
-      "word": "霉霉疑与男友秘密结婚",
-      "onboard_time": 1749655042,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 277810,
@@ -1033,14 +1057,6 @@
       "onboard_time": 1749641125,
       "rank": 22,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 266914,
-      "num": 266914,
-      "word": "邢菲 她的瞳",
-      "onboard_time": 1749654741,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 266111,
@@ -1579,14 +1595,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 200016,
-      "num": 200016,
-      "word": "袁隆平墓前多了一袋特殊的稻米",
-      "onboard_time": 1749654502,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199913,
       "num": 193626,
       "word": "李一桐如何呢又能怎",
@@ -1883,6 +1891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181933,
+      "num": 181933,
+      "word": "肖战这场刷屏的雪戏差点变花絮",
+      "onboard_time": 1749655463,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181017,
       "num": 179371,
       "word": "王俊凯说五哈太草率了",
@@ -2043,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168641,
+      "num": 168641,
+      "word": "七根心简bangbang上了",
+      "onboard_time": 1749655881,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168112,
       "num": 356711,
       "word": "当地称致女孩失明的水枪非高压水枪",
@@ -2179,16 +2203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160685,
-      "num": 350384,
-      "word": "特朗普称可以原谅马斯克",
-      "onboard_time": 1749654022,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 160550,
-      "num": 160550,
+      "num": 230133,
       "word": "碎叫叫626分手",
       "onboard_time": 1749649223,
       "rank": 32,
@@ -2491,6 +2507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145301,
+      "num": 145301,
+      "word": "俱乐部大逆转后徐海东发博",
+      "onboard_time": 1749656062,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144869,
       "num": 144869,
       "word": "绝意马可波罗showtime",
@@ -2611,6 +2635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140088,
+      "num": 140088,
+      "word": "站台",
+      "onboard_time": 1749655223,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140023,
       "num": 140023,
       "word": "樊振东这球太帅了",
@@ -2673,14 +2705,6 @@
       "onboard_time": 1749597017,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136776,
-      "num": 136776,
-      "word": "站台",
-      "onboard_time": 1749655223,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 136690,
@@ -2799,14 +2823,6 @@
       "num": 155322,
       "word": "白鹿哭戏",
       "onboard_time": 1749639561,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 132336,
-      "num": 132336,
-      "word": "肖战这场刷屏的雪戏差点变花絮",
-      "onboard_time": 1749655463,
       "rank": 41,
       "category": "剧集"
     },
@@ -3075,6 +3091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112928,
+      "num": 122969,
+      "word": "樊振东场边嘟嘴好萌",
+      "onboard_time": 1749655942,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112777,
       "num": 111154,
       "word": "克拉恋人幕后争议",
@@ -3169,6 +3193,14 @@
       "onboard_time": 1749555922,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 105645,
+      "num": 105645,
+      "word": "金泰亨ins快拍",
+      "onboard_time": 1749656422,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 103394,
@@ -3707,6 +3739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50489,
+      "num": 168471,
+      "word": "伦敦一被遣返移民逃脱跟着飞机狂奔",
+      "onboard_time": 1749654863,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 50358,
       "num": 237772,
       "word": "男子为女主播花几十万被说过于代入",
@@ -3763,6 +3803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45604,
+      "num": 145338,
+      "word": "自由女神见了川普都想安个防护窗",
+      "onboard_time": 1749656482,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45033,
       "num": 202865,
       "word": "揭秘0公里二手车灰产",
@@ -3785,14 +3833,6 @@
       "onboard_time": 1749572599,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42644,
-      "num": 168471,
-      "word": "伦敦一被遣返移民逃脱跟着飞机狂奔",
-      "onboard_time": 1749654863,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 42536,
@@ -3971,7 +4011,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32203,
+      "raw_hot": 32254,
       "num": 1021811,
       "word": "中非贸易规模已超2万亿元",
       "onboard_time": 1749651203,
@@ -4001,6 +4041,14 @@
       "onboard_time": 1749601281,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29735,
+      "num": 225372,
+      "word": "民警让被骗男子对镜头承诺不转账",
+      "onboard_time": 1749655582,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29183,
@@ -4120,14 +4168,6 @@
       "word": "称北大未名湖湖水能激发智慧违法吗",
       "onboard_time": 1749645802,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23003,
-      "num": 135422,
-      "word": "民警让被骗男子对镜头承诺不转账",
-      "onboard_time": 1749655582,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
