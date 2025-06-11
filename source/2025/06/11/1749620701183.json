@@ -1,0 +1,410 @@
+{
+  "runTime": 1749620701183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1829626,
+        "num": 1829626,
+        "word": "小沈阳女儿韩国出道",
+        "onboard_time": 1749612441,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006785,
+        "num": 1006785,
+        "word": "礐嶨怎么读",
+        "onboard_time": 1749619520,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 28768,
+        "num": 890880,
+        "word": "听听青年的网络文明关键词",
+        "onboard_time": 1749614903,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 883039,
+        "num": 883039,
+        "word": "樊振东3比2林诗栋",
+        "onboard_time": 1749616284,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 733159,
+        "num": 733159,
+        "word": "范丞丞叫千玺玺子哥",
+        "onboard_time": 1749615863,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715058,
+        "num": 715058,
+        "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
+        "onboard_time": 1749616522,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10802,
+        "num": 708546,
+        "word": "中国潮玩点亮外贸成绩单",
+        "onboard_time": 1749615502,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 707139,
+        "num": 707139,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1749609560,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 531932,
+        "num": 531932,
+        "word": "国台办回应藏海传台湾热播",
+        "onboard_time": 1749614122,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379088,
+        "num": 379088,
+        "word": "樊振东vs薛飞",
+        "onboard_time": 1749618862,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1162086,
+        "num": 378911,
+        "word": "亲妈后爸把娃埋别人坟里拍视频寻子",
+        "onboard_time": 1749615622,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776021,
+        "num": 378384,
+        "word": "工资4800三年存下12万",
+        "onboard_time": 1749615622,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 638696,
+        "num": 378115,
+        "word": "网红解释问黄子韬离婚",
+        "onboard_time": 1749611721,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118958,
+        "num": 377481,
+        "word": "中国汽车崛起离不开真功夫和硬实力",
+        "onboard_time": 1749618683,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 603480,
+        "num": 377125,
+        "word": "这居然是倪妮",
+        "onboard_time": 1749615682,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 413342,
+        "num": 376864,
+        "word": "迪丽热巴因一句台词一夜涨粉200万",
+        "onboard_time": 1749609799,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386918,
+        "num": 376263,
+        "word": "王一博更新ins",
+        "onboard_time": 1749614721,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56618,
+        "num": 375754,
+        "word": "葫芦娃和他们的新朋友",
+        "onboard_time": 1749618683,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40136,
+        "num": 375601,
+        "word": "吃猪油能改善肠道健康吗",
+        "onboard_time": 1749619942,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 375214,
+        "num": 375214,
+        "word": "6块钱一碗的面被通报宴请",
+        "onboard_time": 1749611960,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348216,
+        "num": 348216,
+        "word": "4位浪姐自己组团出道",
+        "onboard_time": 1749610460,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322552,
+        "num": 322552,
+        "word": "鹿晗有隐藏款labubu",
+        "onboard_time": 1749601281,
+        "rank": 21,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 313902,
+        "num": 313902,
+        "word": "父亲和女儿总共99岁 女儿多少岁",
+        "onboard_time": 1749615682,
+        "rank": 22,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 259133,
+        "num": 259133,
+        "word": "向佐 这不是我老婆好吗",
+        "onboard_time": 1749616163,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224334,
+        "num": 224334,
+        "word": "桂林通报一名6年级男生坠楼",
+        "onboard_time": 1749606740,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 208323,
+        "num": 208323,
+        "word": "兰香如故官宣",
+        "onboard_time": 1749611120,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45033,
+        "num": 202865,
+        "word": "揭秘0公里二手车灰产",
+        "onboard_time": 1749619641,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 155516,
+        "num": 201521,
+        "word": "宋威龙 想起来了全想起来了",
+        "onboard_time": 1749619520,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200888,
+        "num": 200888,
+        "word": "14岁等等和邓超一样高了",
+        "onboard_time": 1749619762,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18877,
+        "num": 200226,
+        "word": "中国气象局启动台风四级应急",
+        "onboard_time": 1749619881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192066,
+        "num": 200117,
+        "word": "周恺3比1向鹏",
+        "onboard_time": 1749619701,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200082,
+        "num": 200082,
+        "word": "东极岛致敬不该被忘记的中国人",
+        "onboard_time": 1749615263,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198030,
+        "num": 198030,
+        "word": "刘宇宁怎么这么会送礼",
+        "onboard_time": 1749620301,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192264,
+        "num": 192264,
+        "word": "芭莎抢票",
+        "onboard_time": 1749617483,
+        "rank": 33,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 192004,
+        "num": 192004,
+        "word": "iPhone17系列新爆料",
+        "onboard_time": 1749618623,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171569,
+        "num": 189987,
+        "word": "王一博泡面头",
+        "onboard_time": 1749619401,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189441,
+        "num": 189441,
+        "word": "丈夫送情妇千万财物妻子本利全追回",
+        "onboard_time": 1749613881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187908,
+        "num": 187908,
+        "word": "沙溢不想删除的照片又多了一张",
+        "onboard_time": 1749615802,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185540,
+        "num": 185540,
+        "word": "樊振东樊指导上线了",
+        "onboard_time": 1749616643,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135169,
+        "num": 170836,
+        "word": "小石头又要和他的偶像打球了",
+        "onboard_time": 1749620061,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159247,
+        "num": 159247,
+        "word": "朴智旻田柾国直播",
+        "onboard_time": 1749619341,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159776,
+        "num": 159209,
+        "word": "韩安冉婆婆回应缺席孙女手术",
+        "onboard_time": 1749619222,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155749,
+        "num": 155749,
+        "word": "中美两天经贸磋商细节",
+        "onboard_time": 1749618202,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151348,
+        "num": 151348,
+        "word": "韩网热议宋茜近照",
+        "onboard_time": 1749604041,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144295,
+        "num": 144295,
+        "word": "馆长",
+        "onboard_time": 1749600503,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139335,
+        "num": 139335,
+        "word": "41岁刘忻实现了女团梦",
+        "onboard_time": 1749620424,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135139,
+        "num": 135139,
+        "word": "王俊凯你的演唱会呢",
+        "onboard_time": 1749612141,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113836,
+        "num": 113836,
+        "word": "labubu火爆带动仿品lagogo订单激增",
+        "onboard_time": 1749620362,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112393,
+        "num": 112393,
+        "word": "减肥其实是旺自己的开始",
+        "onboard_time": 1749620661,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111978,
+        "num": 111978,
+        "word": "上海地产3比1黄石基地",
+        "onboard_time": 1749620661,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视网络文明建设#"
+    }
+  }
+}

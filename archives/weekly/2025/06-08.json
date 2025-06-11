@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749619609974,
+  "endTime": 1749620701183,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -459,6 +459,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 1162086,
+      "num": 439150,
+      "word": "亲妈后爸把娃埋别人坟里拍视频寻子",
+      "onboard_time": 1749615622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1156915,
       "num": 1156915,
       "word": "这居然是倪妮",
@@ -585,6 +593,14 @@
       "onboard_time": 1749461540,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1006785,
+      "num": 1006785,
+      "word": "礐嶨怎么读",
+      "onboard_time": 1749619520,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1005856,
@@ -987,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 759735,
-      "num": 439150,
-      "word": "亲妈后爸把娃埋别人坟里拍视频寻子",
-      "onboard_time": 1749615622,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 752465,
       "num": 550090,
       "word": "彭冠英开车送朱一龙回家",
@@ -1051,8 +1059,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 733159,
+      "num": 733159,
+      "word": "范丞丞叫千玺玺子哥",
+      "onboard_time": 1749615863,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 726894,
-      "num": 435408,
+      "num": 531932,
       "word": "国台办回应藏海传台湾热播",
       "onboard_time": 1749614122,
       "rank": 8,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1749309264,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 715058,
+      "num": 715058,
+      "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
+      "onboard_time": 1749616522,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 714316,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1749483142,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 670767,
-      "num": 429950,
-      "word": "范丞丞叫千玺玺子哥",
-      "onboard_time": 1749615863,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 664236,
@@ -1561,14 +1577,6 @@
       "onboard_time": 1749476364,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 539473,
-      "num": 539473,
-      "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
-      "onboard_time": 1749616522,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 537444,
@@ -2464,6 +2472,14 @@
       "word": "中国女排vs土耳其女排",
       "onboard_time": 1749384681,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 379088,
+      "num": 379088,
+      "word": "樊振东vs薛飞",
+      "onboard_time": 1749618862,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -4379,14 +4395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 220308,
-      "num": 237804,
-      "word": "樊振东vs薛飞",
-      "onboard_time": 1749618862,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219982,
       "num": 219982,
       "word": "建议大家练一练盆底肌",
@@ -4947,6 +4955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200888,
+      "num": 200888,
+      "word": "14岁等等和邓超一样高了",
+      "onboard_time": 1749619762,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200841,
       "num": 200841,
       "word": "易烊千玺新歌山花",
@@ -5080,6 +5096,14 @@
       "word": "李晟成团后芒果台首秀",
       "onboard_time": 1749536180,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198030,
+      "num": 198030,
+      "word": "刘宇宁怎么这么会送礼",
+      "onboard_time": 1749620301,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -5315,12 +5339,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 192264,
+      "num": 225126,
+      "word": "芭莎抢票",
+      "onboard_time": 1749617483,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 192122,
       "num": 192122,
       "word": "INTO1披荆斩棘路透",
       "onboard_time": 1749612141,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192066,
+      "num": 200117,
+      "word": "周恺3比1向鹏",
+      "onboard_time": 1749619701,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192004,
+      "num": 192004,
+      "word": "iPhone17系列新爆料",
+      "onboard_time": 1749618623,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 191755,
@@ -5668,7 +5716,7 @@
     },
     {
       "raw_hot": 185683,
-      "num": 185683,
+      "num": 189987,
       "word": "王一博泡面头",
       "onboard_time": 1749619401,
       "rank": 32,
@@ -5875,14 +5923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181527,
-      "num": 225126,
-      "word": "芭莎抢票",
-      "onboard_time": 1749617483,
-      "rank": 25,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 181475,
       "num": 181475,
       "word": "美媒记者在加州被警察开枪击中脑门",
@@ -5961,14 +6001,6 @@
       "onboard_time": 1749478762,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180276,
-      "num": 180276,
-      "word": "iPhone17系列新爆料",
-      "onboard_time": 1749618623,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 180105,
@@ -7091,6 +7123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159776,
+      "num": 159209,
+      "word": "韩安冉婆婆回应缺席孙女手术",
+      "onboard_time": 1749619222,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 159602,
       "num": 192880,
       "word": "云合",
@@ -7137,6 +7177,14 @@
       "onboard_time": 1749375921,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 159247,
+      "num": 159247,
+      "word": "朴智旻田柾国直播",
+      "onboard_time": 1749619341,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 159197,
@@ -7371,12 +7419,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155421,
-      "num": 155421,
-      "word": "朴智旻田柾国直播",
-      "onboard_time": 1749619341,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 155749,
+      "num": 233750,
+      "word": "中美两天经贸磋商细节",
+      "onboard_time": 1749618202,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155516,
+      "num": 201521,
+      "word": "宋威龙 想起来了全想起来了",
+      "onboard_time": 1749619520,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 155031,
@@ -7563,14 +7619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 150566,
-      "num": 150566,
-      "word": "礐嶨怎么读",
-      "onboard_time": 1749619520,
-      "rank": 42,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 150411,
       "num": 150411,
       "word": "亚朵发布枕套事件说明",
@@ -7633,14 +7681,6 @@
       "onboard_time": 1749366080,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149379,
-      "num": 149379,
-      "word": "韩安冉婆婆回应缺席孙女手术",
-      "onboard_time": 1749619222,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 149320,
@@ -8043,14 +8083,6 @@
       "category": "旅游,游戏"
     },
     {
-      "raw_hot": 142946,
-      "num": 233750,
-      "word": "中美两天经贸磋商细节",
-      "onboard_time": 1749618202,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 142513,
       "num": 292092,
       "word": "特朗普为啥和加州过不去",
@@ -8211,14 +8243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139682,
-      "num": 139682,
-      "word": "宋威龙 想起来了全想起来了",
-      "onboard_time": 1749619520,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139502,
       "num": 139502,
       "word": "第一次看到陈赫对美食不感兴趣",
@@ -8233,6 +8257,14 @@
       "onboard_time": 1749487939,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139335,
+      "num": 139335,
+      "word": "41岁刘忻实现了女团梦",
+      "onboard_time": 1749620424,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 139270,
@@ -8420,7 +8452,7 @@
     },
     {
       "raw_hot": 136690,
-      "num": 235891,
+      "num": 377481,
       "word": "中国汽车崛起离不开真功夫和硬实力",
       "onboard_time": 1749618683,
       "rank": 12,
@@ -8537,6 +8569,14 @@
       "onboard_time": 1749545061,
       "rank": 46,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 135169,
+      "num": 170836,
+      "word": "小石头又要和他的偶像打球了",
+      "onboard_time": 1749620061,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 135110,
@@ -9667,6 +9707,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 113836,
+      "num": 113836,
+      "word": "labubu火爆带动仿品lagogo订单激增",
+      "onboard_time": 1749620362,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 113613,
       "num": 113613,
       "word": "50岁高能量女生凌晨5点出门搞运动",
@@ -9739,6 +9787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112393,
+      "num": 112393,
+      "word": "减肥其实是旺自己的开始",
+      "onboard_time": 1749620661,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112135,
       "num": 216173,
       "word": "郭晶晶说最好就是做好当下",
@@ -9761,6 +9817,14 @@
       "onboard_time": 1749361341,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111978,
+      "num": 111978,
+      "word": "上海地产3比1黄石基地",
+      "onboard_time": 1749620661,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111948,
@@ -10172,7 +10236,7 @@
     },
     {
       "raw_hot": 97280,
-      "num": 232420,
+      "num": 375754,
       "word": "葫芦娃和他们的新朋友",
       "onboard_time": 1749618683,
       "rank": 16,
@@ -11779,6 +11843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45033,
+      "num": 202865,
+      "word": "揭秘0公里二手车灰产",
+      "onboard_time": 1749619641,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 44945,
       "num": 170418,
       "word": "樊振东许昕王楚钦亮相乒超",
@@ -12016,6 +12088,14 @@
       "word": "近视手术能真正治愈近视吗",
       "onboard_time": 1749439942,
       "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40136,
+      "num": 375601,
+      "word": "吃猪油能改善肠道健康吗",
+      "onboard_time": 1749619942,
+      "rank": 18,
       "category": "健康医疗"
     },
     {
@@ -12828,7 +12908,7 @@
     },
     {
       "raw_hot": 24972,
-      "num": 329319,
+      "num": 708546,
       "word": "中国潮玩点亮外贸成绩单",
       "onboard_time": 1749615502,
       "rank": 9,
@@ -13113,6 +13193,14 @@
       "onboard_time": 1749414074,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18877,
+      "num": 200226,
+      "word": "中国气象局启动台风四级应急",
+      "onboard_time": 1749619881,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18830,

@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749619609974,
+  "endTime": 1749620701183,
   "band_list": [
     {
       "raw_hot": 2581554,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1162086,
+      "num": 439150,
+      "word": "亲妈后爸把娃埋别人坟里拍视频寻子",
+      "onboard_time": 1749615622,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1156915,
       "num": 1156915,
       "word": "这居然是倪妮",
@@ -89,6 +97,14 @@
       "onboard_time": 1749610460,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1006785,
+      "num": 1006785,
+      "word": "礐嶨怎么读",
+      "onboard_time": 1749619520,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 894899,
@@ -131,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 759735,
-      "num": 439150,
-      "word": "亲妈后爸把娃埋别人坟里拍视频寻子",
-      "onboard_time": 1749615622,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 742542,
       "num": 409598,
       "word": "王一博王安宇爆改王安全",
@@ -147,20 +155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 733159,
+      "num": 733159,
+      "word": "范丞丞叫千玺玺子哥",
+      "onboard_time": 1749615863,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 726894,
-      "num": 435408,
+      "num": 531932,
       "word": "国台办回应藏海传台湾热播",
       "onboard_time": 1749614122,
       "rank": 8,
       "category": "剧集"
     },
     {
-      "raw_hot": 670767,
-      "num": 429950,
-      "word": "范丞丞叫千玺玺子哥",
-      "onboard_time": 1749615863,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 715058,
+      "num": 715058,
+      "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
+      "onboard_time": 1749616522,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 620608,
@@ -185,14 +201,6 @@
       "onboard_time": 1749606740,
       "rank": 40,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 539473,
-      "num": 539473,
-      "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
-      "onboard_time": 1749616522,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 531949,
@@ -345,6 +353,14 @@
       "onboard_time": 1749541822,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 379088,
+      "num": 379088,
+      "word": "樊振东vs薛飞",
+      "onboard_time": 1749618862,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 377480,
@@ -595,14 +611,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 220308,
-      "num": 237804,
-      "word": "樊振东vs薛飞",
-      "onboard_time": 1749618862,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219220,
       "num": 219220,
       "word": "小米汽车供应商支付账期新规",
@@ -699,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200888,
+      "num": 200888,
+      "word": "14岁等等和邓超一样高了",
+      "onboard_time": 1749619762,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200841,
       "num": 200841,
       "word": "易烊千玺新歌山花",
@@ -739,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198030,
+      "num": 198030,
+      "word": "刘宇宁怎么这么会送礼",
+      "onboard_time": 1749620301,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197719,
       "num": 333999,
       "word": "小鹏G7后排空间大到顶瓜瓜",
@@ -771,12 +795,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192264,
+      "num": 225126,
+      "word": "芭莎抢票",
+      "onboard_time": 1749617483,
+      "rank": 25,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 192122,
       "num": 192122,
       "word": "INTO1披荆斩棘路透",
       "onboard_time": 1749612141,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192066,
+      "num": 200117,
+      "word": "周恺3比1向鹏",
+      "onboard_time": 1749619701,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192004,
+      "num": 192004,
+      "word": "iPhone17系列新爆料",
+      "onboard_time": 1749618623,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 190100,
@@ -812,7 +860,7 @@
     },
     {
       "raw_hot": 185683,
-      "num": 185683,
+      "num": 189987,
       "word": "王一博泡面头",
       "onboard_time": 1749619401,
       "rank": 32,
@@ -851,28 +899,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181527,
-      "num": 225126,
-      "word": "芭莎抢票",
-      "onboard_time": 1749617483,
-      "rank": 25,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 181017,
       "num": 179371,
       "word": "王俊凯说五哈太草率了",
       "onboard_time": 1749571160,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180276,
-      "num": 180276,
-      "word": "iPhone17系列新爆料",
-      "onboard_time": 1749618623,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 178469,
@@ -979,6 +1011,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159776,
+      "num": 159209,
+      "word": "韩安冉婆婆回应缺席孙女手术",
+      "onboard_time": 1749619222,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 159247,
+      "num": 159247,
+      "word": "朴智旻田柾国直播",
+      "onboard_time": 1749619341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158469,
       "num": 158469,
       "word": "易烊千玺广州演唱会预计两场",
@@ -995,12 +1043,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 155421,
-      "num": 155421,
-      "word": "朴智旻田柾国直播",
-      "onboard_time": 1749619341,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 155749,
+      "num": 233750,
+      "word": "中美两天经贸磋商细节",
+      "onboard_time": 1749618202,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155516,
+      "num": 201521,
+      "word": "宋威龙 想起来了全想起来了",
+      "onboard_time": 1749619520,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 151619,
@@ -1027,28 +1083,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150566,
-      "num": 150566,
-      "word": "礐嶨怎么读",
-      "onboard_time": 1749619520,
-      "rank": 42,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 149602,
       "num": 149602,
       "word": "朴智旻退伍",
       "onboard_time": 1749598339,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149379,
-      "num": 149379,
-      "word": "韩安冉婆婆回应缺席孙女手术",
-      "onboard_time": 1749619222,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 148941,
@@ -1099,20 +1139,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 142946,
-      "num": 233750,
-      "word": "中美两天经贸磋商细节",
-      "onboard_time": 1749618202,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 139682,
-      "num": 139682,
-      "word": "宋威龙 想起来了全想起来了",
-      "onboard_time": 1749619520,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 139335,
+      "num": 139335,
+      "word": "41岁刘忻实现了女团梦",
+      "onboard_time": 1749620424,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 138833,
@@ -1148,7 +1180,7 @@
     },
     {
       "raw_hot": 136690,
-      "num": 235891,
+      "num": 377481,
       "word": "中国汽车崛起离不开真功夫和硬实力",
       "onboard_time": 1749618683,
       "rank": 12,
@@ -1161,6 +1193,14 @@
       "onboard_time": 1749606740,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135169,
+      "num": 170836,
+      "word": "小石头又要和他的偶像打球了",
+      "onboard_time": 1749620061,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 133969,
@@ -1299,6 +1339,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 113836,
+      "num": 113836,
+      "word": "labubu火爆带动仿品lagogo订单激增",
+      "onboard_time": 1749620362,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 113340,
       "num": 113340,
       "word": "剖腹产的姐妹嘴真严",
@@ -1313,6 +1361,22 @@
       "onboard_time": 1749563242,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112393,
+      "num": 112393,
+      "word": "减肥其实是旺自己的开始",
+      "onboard_time": 1749620661,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 111978,
+      "num": 111978,
+      "word": "上海地产3比1黄石基地",
+      "onboard_time": 1749620661,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 111957,
@@ -1388,7 +1452,7 @@
     },
     {
       "raw_hot": 97280,
-      "num": 232420,
+      "num": 375754,
       "word": "葫芦娃和他们的新朋友",
       "onboard_time": 1749618683,
       "rank": 16,
@@ -1627,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45033,
+      "num": 202865,
+      "word": "揭秘0公里二手车灰产",
+      "onboard_time": 1749619641,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 44752,
       "num": 110445,
       "word": "18岁王子菲射击世界杯三连冠",
@@ -1657,6 +1729,14 @@
       "onboard_time": 1749581114,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40136,
+      "num": 375601,
+      "word": "吃猪油能改善肠道健康吗",
+      "onboard_time": 1749619942,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 37270,
@@ -1772,7 +1852,7 @@
     },
     {
       "raw_hot": 24972,
-      "num": 329319,
+      "num": 708546,
       "word": "中国潮玩点亮外贸成绩单",
       "onboard_time": 1749615502,
       "rank": 9,
@@ -1800,6 +1880,14 @@
       "word": "陈之汉被粉丝送茅台",
       "onboard_time": 1749619162,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18877,
+      "num": 200226,
+      "word": "中国气象局启动台风四级应急",
+      "onboard_time": 1749619881,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
