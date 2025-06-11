@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749641930097,
+  "endTime": 1749646405239,
   "band_list": [
     {
       "raw_hot": 7048374,
@@ -195,6 +195,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 975280,
+      "num": 975280,
+      "word": "刘诗诗用心在养labubu",
+      "onboard_time": 1749639981,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 894899,
       "num": 431805,
       "word": "工资4800三年存下12万",
@@ -227,6 +235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 815668,
+      "num": 815668,
+      "word": "蜜雪冰城",
+      "onboard_time": 1749641002,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 795127,
       "num": 452570,
       "word": "黄子韬被问有想过跟徐艺洋离婚吗",
@@ -248,14 +264,6 @@
       "word": "网红解释问黄子韬离婚",
       "onboard_time": 1749611721,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 766836,
-      "num": 766836,
-      "word": "刘诗诗用心在养labubu",
-      "onboard_time": 1749639981,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -491,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 471750,
+      "num": 309209,
+      "word": "曾744分考上清华的他现状",
+      "onboard_time": 1749645442,
+      "rank": 10,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 466122,
       "num": 299960,
       "word": "邓超也抢不到鹿晗演唱会的票",
@@ -593,6 +609,14 @@
       "onboard_time": 1749541822,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 401388,
+      "num": 401388,
+      "word": "又有两位艺术家不能体面的老去了",
+      "onboard_time": 1749642321,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 391027,
@@ -715,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 309240,
+      "num": 309240,
+      "word": "高考试卷真的在监狱印刷吗",
+      "onboard_time": 1749640103,
+      "rank": 43,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 306240,
       "num": 306240,
       "word": "中美经贸磋商原则上达成框架协议",
@@ -777,6 +809,14 @@
       "onboard_time": 1749603020,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 289396,
+      "num": 289396,
+      "word": "山东魏桥vs上海地产集团",
+      "onboard_time": 1749640764,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 287238,
@@ -843,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258348,
+      "num": 258348,
+      "word": "钟楚曦身材",
+      "onboard_time": 1749639022,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257920,
       "num": 257920,
       "word": "杜兰特 交易",
@@ -883,6 +931,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248557,
+      "num": 248557,
+      "word": "杭州震感",
+      "onboard_time": 1749641842,
+      "rank": 48,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 246815,
+      "num": 246815,
+      "word": "王楚钦和樊振东职业生涯中交手超30次",
+      "onboard_time": 1749641423,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244933,
       "num": 227237,
       "word": "鹿晗抢票",
@@ -913,14 +977,6 @@
       "onboard_time": 1749609560,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239219,
-      "num": 239219,
-      "word": "钟楚曦身材",
-      "onboard_time": 1749639022,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 235758,
@@ -971,12 +1027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230290,
-      "num": 230290,
-      "word": "王楚钦和樊振东职业生涯中交手超30次",
-      "onboard_time": 1749641423,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 230887,
+      "num": 295496,
+      "word": "小鹏G7是全球首款L3级算力的AI汽车",
+      "onboard_time": 1749643462,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 229307,
@@ -1035,6 +1091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 223610,
+      "num": 223610,
+      "word": "好好吃饭才能瘦",
+      "onboard_time": 1749642981,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 222632,
       "num": 222632,
       "word": "童年富裕症",
@@ -1049,6 +1113,14 @@
       "onboard_time": 1749612381,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 219116,
+      "num": 219116,
+      "word": "女子遭水枪攻击警方称男子未逃逸",
+      "onboard_time": 1749643522,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218165,
@@ -1091,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214686,
+      "num": 214686,
+      "word": "樊振东乒超7连胜",
+      "onboard_time": 1749642262,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213843,
       "num": 400106,
       "word": "周一围看了桃花坞半夜被朱丹气醒",
@@ -1120,6 +1200,14 @@
       "word": "临江仙",
       "onboard_time": 1749636683,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212450,
+      "num": 307072,
+      "word": "藏海传导演说肖战确实太好看了",
+      "onboard_time": 1749645863,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -1169,14 +1257,6 @@
       "onboard_time": 1749631402,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205312,
-      "num": 205312,
-      "word": "蜜雪冰城",
-      "onboard_time": 1749641002,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 205168,
@@ -1232,14 +1312,6 @@
       "word": "王楚钦vs徐海东",
       "onboard_time": 1749611960,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 201357,
-      "num": 201357,
-      "word": "山东魏桥vs上海地产集团",
-      "onboard_time": 1749640764,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -1539,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180057,
+      "num": 180057,
+      "word": "Labubu最火隐藏款抽中赚一瓶茅台",
+      "onboard_time": 1749639923,
+      "rank": 35,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 179701,
       "num": 179701,
       "word": "刘亦菲拆礼物vlog",
@@ -1699,14 +1779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167647,
-      "num": 167647,
-      "word": "Labubu最火隐藏款抽中赚一瓶茅台",
-      "onboard_time": 1749639923,
-      "rank": 35,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 167033,
       "num": 167033,
       "word": "Pura80上手开箱",
@@ -1716,7 +1788,7 @@
     },
     {
       "raw_hot": 166302,
-      "num": 166302,
+      "num": 284720,
       "word": "美国建军250年阅兵式有两头骡子",
       "onboard_time": 1749634701,
       "rank": 35,
@@ -1761,6 +1833,14 @@
       "onboard_time": 1749610100,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163912,
+      "num": 163912,
+      "word": "2025LPL第二赛段",
+      "onboard_time": 1749646162,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 162812,
@@ -1867,12 +1947,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153697,
+      "num": 200806,
+      "word": "3名小学生被高空坠物砸伤致1死",
+      "onboard_time": 1749639561,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 153569,
       "num": 377291,
       "word": "特朗普演讲现场防弹玻璃高度超两米",
       "onboard_time": 1749637043,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153562,
+      "num": 247109,
+      "word": "藏海传海外成绩单",
+      "onboard_time": 1749644901,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 153279,
@@ -1889,14 +1985,6 @@
       "onboard_time": 1749638422,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153207,
-      "num": 231410,
-      "word": "高考试卷真的在监狱印刷吗",
-      "onboard_time": 1749640103,
-      "rank": 43,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 152861,
@@ -2059,14 +2147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144372,
-      "num": 200806,
-      "word": "3名小学生被高空坠物砸伤致1死",
-      "onboard_time": 1749639561,
-      "rank": 48,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 144285,
       "num": 499110,
       "word": "网警提醒当心你的隐私被共享",
@@ -2121,6 +2201,14 @@
       "onboard_time": 1749624801,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139824,
+      "num": 246861,
+      "word": "敖瑞鹏一万三已成功通关",
+      "onboard_time": 1749645741,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 139335,
@@ -2187,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135840,
+      "num": 215251,
+      "word": "尾鱼原著",
+      "onboard_time": 1749645382,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135169,
       "num": 170836,
       "word": "小石头又要和他的偶像打球了",
@@ -2217,14 +2313,6 @@
       "onboard_time": 1749641482,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134268,
-      "num": 134268,
-      "word": "杭州震感",
-      "onboard_time": 1749641842,
-      "rank": 48,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 133969,
@@ -2273,6 +2361,14 @@
       "onboard_time": 1749626361,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130484,
+      "num": 165991,
+      "word": "平野美宇3比1王晓彤",
+      "onboard_time": 1749645563,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 130386,
@@ -2369,6 +2465,14 @@
       "onboard_time": 1749615983,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122496,
+      "num": 122496,
+      "word": "林昀儒3比0赵子豪",
+      "onboard_time": 1749645201,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 120251,
@@ -2571,6 +2675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 103394,
+      "num": 164195,
+      "word": "小学楼顶光伏板坠落一学生被砸身亡",
+      "onboard_time": 1749642382,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101361,
       "num": 142998,
       "word": "樊振东向球迷挥手",
@@ -2761,6 +2873,14 @@
       "onboard_time": 1749560062,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80220,
+      "num": 300919,
+      "word": "蒯曼3比0王艺迪",
+      "onboard_time": 1749645802,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 80102,
@@ -2993,6 +3113,14 @@
       "onboard_time": 1749559041,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58937,
+      "num": 304198,
+      "word": "挑行李回家女生父亲哥哥都在打工",
+      "onboard_time": 1749645802,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55089,
@@ -3275,6 +3403,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 28705,
+      "num": 291038,
+      "word": "如何避免在人际关系中被过度消耗",
+      "onboard_time": 1749645141,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27596,
       "num": 112690,
       "word": "郑钦文草地赛季首战对阵凯斯勒",
@@ -3315,6 +3451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25071,
+      "num": 246836,
+      "word": "200斤溺水者命悬海边男子果断救援",
+      "onboard_time": 1749645863,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 24972,
       "num": 708546,
       "word": "中国潮玩点亮外贸成绩单",
@@ -3328,6 +3472,14 @@
       "word": "姐姐值班没回家躲过上坟爆炸一劫",
       "onboard_time": 1749631583,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24061,
+      "num": 291786,
+      "word": "称北大未名湖湖水能激发智慧违法吗",
+      "onboard_time": 1749645802,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
