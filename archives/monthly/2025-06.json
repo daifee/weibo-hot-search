@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749647327751,
+  "endTime": 1749649120445,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -947,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1394387,
+      "num": 1394387,
+      "word": "曾744分考上清华的他现状",
+      "onboard_time": 1749645442,
+      "rank": 10,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 1392941,
       "num": 1392941,
       "word": "上海卷 专转传",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1749383901,
       "rank": 3,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 1344761,
-      "num": 1344761,
-      "word": "曾744分考上清华的他现状",
-      "onboard_time": 1749645442,
-      "rank": 10,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 1336827,
@@ -4443,6 +4443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568222,
+      "num": 357811,
+      "word": "李晨晒哥斯拉labubu",
+      "onboard_time": 1749646763,
+      "rank": 32,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 567672,
       "num": 567672,
       "word": "新中式还得是张柏芝",
@@ -4777,6 +4785,14 @@
       "onboard_time": 1749641125,
       "rank": 7,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 530308,
+      "num": 530308,
+      "word": "孕期出轨男子诈骗情人6万给妻女用",
+      "onboard_time": 1749647180,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 530035,
@@ -6963,6 +6979,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 389469,
+      "num": 389469,
+      "word": "好好吃饭才能瘦",
+      "onboard_time": 1749642981,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 389338,
       "num": 389338,
       "word": "王楚钦樊振东上次交手还是在去年乒超",
@@ -7795,6 +7819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354428,
+      "num": 354428,
+      "word": "女子兼职给Labubu钩衣服月入超2万",
+      "onboard_time": 1749646642,
+      "rank": 26,
+      "category": "休闲,民生新闻"
+    },
+    {
       "raw_hot": 353876,
       "num": 353876,
       "word": "看图默写",
@@ -7857,6 +7889,14 @@
       "onboard_time": 1748766443,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 350736,
+      "num": 350736,
+      "word": "网传歌手歌单",
+      "onboard_time": 1748945480,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 350468,
@@ -9443,14 +9483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 293585,
-      "num": 293585,
-      "word": "好好吃饭才能瘦",
-      "onboard_time": 1749642981,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 293297,
       "num": 335023,
       "word": "宋妍霏光脚领奖",
@@ -10483,6 +10515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263308,
+      "num": 263308,
+      "word": "樊振东乒超第一阶段胜率百分百",
+      "onboard_time": 1749647301,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263220,
       "num": 263220,
       "word": "广东生物好难",
@@ -11419,6 +11459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242101,
+      "num": 344733,
+      "word": "小鹏G7是全球首款L3级算力的AI汽车",
+      "onboard_time": 1749643462,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 242070,
       "num": 242070,
       "word": "全网都在喊张凌赫做物理题",
@@ -11763,6 +11811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234553,
+      "num": 234553,
+      "word": "加州州长呼吁美国人民站起来",
+      "onboard_time": 1749647242,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 234388,
       "num": 327279,
       "word": "宋昕冉卡点祝迪丽热巴生日快乐",
@@ -11985,14 +12041,6 @@
       "onboard_time": 1748874442,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230887,
-      "num": 295496,
-      "word": "小鹏G7是全球首款L3级算力的AI汽车",
-      "onboard_time": 1749643462,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 230727,
@@ -12299,14 +12347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225356,
-      "num": 225356,
-      "word": "女子兼职给Labubu钩衣服月入超2万",
-      "onboard_time": 1749646642,
-      "rank": 26,
-      "category": "休闲,民生新闻"
-    },
-    {
       "raw_hot": 225352,
       "num": 225352,
       "word": "华为Pura80芯片",
@@ -12401,6 +12441,14 @@
       "onboard_time": 1749264502,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224388,
+      "num": 224388,
+      "word": "临江仙受众",
+      "onboard_time": 1749647362,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 224250,
@@ -12601,14 +12649,6 @@
       "onboard_time": 1748925622,
       "rank": 39,
       "category": "运动健身,民生新闻"
-    },
-    {
-      "raw_hot": 221889,
-      "num": 221889,
-      "word": "李晨晒哥斯拉labubu",
-      "onboard_time": 1749646763,
-      "rank": 32,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 221855,
@@ -12881,6 +12921,14 @@
       "onboard_time": 1749628460,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 218083,
+      "num": 218083,
+      "word": "全球唯一薄荷色labubu108万成交",
+      "onboard_time": 1749640583,
+      "rank": 36,
+      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 217898,
@@ -13193,6 +13241,14 @@
       "onboard_time": 1749447141,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213744,
+      "num": 213744,
+      "word": "iG晋级败者组决赛",
+      "onboard_time": 1749646822,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 213708,
@@ -14947,14 +15003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197841,
-      "num": 197841,
-      "word": "樊振东乒超第一阶段胜率百分百",
-      "onboard_time": 1749647301,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197829,
       "num": 197829,
       "word": "AG对战RNGM",
@@ -15313,14 +15361,6 @@
       "onboard_time": 1748743460,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 195092,
-      "num": 195092,
-      "word": "全球唯一薄荷色labubu108万成交",
-      "onboard_time": 1749640583,
-      "rank": 36,
-      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 194872,
@@ -16075,14 +16115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189381,
-      "num": 189381,
-      "word": "iG晋级败者组决赛",
-      "onboard_time": 1749646822,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 189216,
       "num": 189216,
       "word": "佩古拉vs布瓦松",
@@ -16817,6 +16849,22 @@
       "onboard_time": 1749057077,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 184194,
+      "num": 321979,
+      "word": "韦东奕称已受舆论影响不想再做回应",
+      "onboard_time": 1749648801,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184140,
+      "num": 336733,
+      "word": "小黄豆回应与孙恩盛闹掰",
+      "onboard_time": 1749647662,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 184130,
@@ -17963,6 +18011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173836,
+      "num": 173836,
+      "word": "藏海传站内热度史冠达成",
+      "onboard_time": 1749647783,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173793,
       "num": 242960,
       "word": "易烊千玺唱了请你不要睡好吗",
@@ -18129,6 +18185,14 @@
       "onboard_time": 1749369861,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172568,
+      "num": 172568,
+      "word": "无畏",
+      "onboard_time": 1749648444,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 172472,
@@ -19737,6 +19801,14 @@
       "onboard_time": 1749274882,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162163,
+      "num": 162163,
+      "word": "CPI",
+      "onboard_time": 1749648862,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 162090,
@@ -22187,14 +22259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146064,
-      "num": 146064,
-      "word": "孕期出轨男子诈骗情人6万给妻女用",
-      "onboard_time": 1749647180,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146057,
       "num": 146057,
       "word": "夏以昼好会亲",
@@ -22417,6 +22481,14 @@
       "onboard_time": 1748780060,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144869,
+      "num": 144869,
+      "word": "绝意马可波罗showtime",
+      "onboard_time": 1749648023,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 144857,
@@ -22720,6 +22792,14 @@
       "word": "女子说花2千相亲红娘没兑现承诺",
       "onboard_time": 1749449002,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143156,
+      "num": 143156,
+      "word": "女子称肾穿刺前医院未查其怀孕致引产",
+      "onboard_time": 1749647903,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -24555,6 +24635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133683,
+      "num": 148711,
+      "word": "kid解说",
+      "onboard_time": 1749646642,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133662,
       "num": 129292,
       "word": "张泉灵说吴宣仪在乘风里赢了",
@@ -25459,14 +25547,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 128862,
-      "num": 128862,
-      "word": "网传歌手歌单",
-      "onboard_time": 1748945480,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128824,
       "num": 128824,
       "word": "铠以后都不许开大",
@@ -25521,6 +25601,14 @@
       "onboard_time": 1749454402,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128637,
+      "num": 128637,
+      "word": "白举纲原本为歌手预留了充足时间",
+      "onboard_time": 1749648921,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 128556,
@@ -25961,6 +26049,14 @@
       "onboard_time": 1748829620,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124816,
+      "num": 124816,
+      "word": "张杰来就对了",
+      "onboard_time": 1749648622,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 124812,
@@ -26737,6 +26833,14 @@
       "onboard_time": 1749280282,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120167,
+      "num": 338540,
+      "word": "天津一医院给病人定制馒头",
+      "onboard_time": 1749648682,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120160,
@@ -31539,6 +31643,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 83279,
+      "num": 349396,
+      "word": "单依纯Pura80神图",
+      "onboard_time": 1749647123,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83263,
       "num": 97893,
       "word": "肖战感谢大家陪藏海走过一程",
@@ -32601,14 +32713,6 @@
       "onboard_time": 1748829559,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 72403,
-      "num": 213844,
-      "word": "加州州长呼吁美国人民站起来",
-      "onboard_time": 1749647242,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 72359,
@@ -34979,6 +35083,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 49741,
+      "num": 327151,
+      "word": "叶童真的去过假日了",
+      "onboard_time": 1749647123,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49718,
       "num": 276665,
       "word": "Labubu为何成全球顶流",
@@ -35193,6 +35305,14 @@
       "onboard_time": 1749479722,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48002,
+      "num": 332087,
+      "word": "老板动动嘴牛马跑断腿",
+      "onboard_time": 1749647962,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 47681,
@@ -36955,6 +37075,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 35430,
+      "num": 214344,
+      "word": "美国总统与首富的危险关系",
+      "onboard_time": 1749648682,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35406,
       "num": 219763,
       "word": "22年高考生再次被cue",
@@ -37571,14 +37699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 31471,
-      "num": 225350,
-      "word": "叶童真的去过假日了",
-      "onboard_time": 1749647123,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 31448,
       "num": 132710,
       "word": "2025年过去一半了",
@@ -38019,14 +38139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28696,
-      "num": 242014,
-      "word": "单依纯Pura80神图",
-      "onboard_time": 1749647123,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 28641,
       "num": 42883,
       "word": "高考天气",
@@ -38344,6 +38456,14 @@
       "word": "英科学家向外星送微生物引争议",
       "onboard_time": 1748944342,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27067,
+      "num": 245496,
+      "word": "骑手称日入300保险只按100赔",
+      "onboard_time": 1749647061,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -39363,6 +39483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20957,
+      "num": 1116467,
+      "word": "互联网企业社会责任上分秘籍",
+      "onboard_time": 1749632963,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20893,
       "num": 196968,
       "word": "美政客批大而美法案是我们都得死法案",
@@ -39657,14 +39785,6 @@
       "onboard_time": 1749228678,
       "rank": 49,
       "category": "动漫,教育"
-    },
-    {
-      "raw_hot": 18989,
-      "num": 955432,
-      "word": "互联网企业社会责任上分秘籍",
-      "onboard_time": 1749632963,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18941,
@@ -40072,14 +40192,6 @@
       "word": "3D模拟地震等级划分",
       "onboard_time": 1748836940,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15447,
-      "num": 245496,
-      "word": "骑手称日入300保险只按100赔",
-      "onboard_time": 1749647061,
-      "rank": 21,
       "category": "民生新闻"
     },
     {

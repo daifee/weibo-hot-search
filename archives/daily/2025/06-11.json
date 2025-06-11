@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749647327751,
+  "endTime": 1749649120445,
   "band_list": [
     {
       "raw_hot": 7048374,
@@ -67,20 +67,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1394387,
+      "num": 1394387,
+      "word": "曾744分考上清华的他现状",
+      "onboard_time": 1749645442,
+      "rank": 10,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 1346628,
       "num": 1177404,
       "word": "三姐妹上坟被炸身亡案二审维持原判",
       "onboard_time": 1749621441,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1344761,
-      "num": 1344761,
-      "word": "曾744分考上清华的他现状",
-      "onboard_time": 1749645442,
-      "rank": 10,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 1334714,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568222,
+      "num": 357811,
+      "word": "李晨晒哥斯拉labubu",
+      "onboard_time": 1749646763,
+      "rank": 32,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 567189,
       "num": 567189,
       "word": "鹿晗归来和鼎盛时期一样能打",
@@ -433,6 +441,14 @@
       "onboard_time": 1749641125,
       "rank": 7,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 530308,
+      "num": 530308,
+      "word": "孕期出轨男子诈骗情人6万给妻女用",
+      "onboard_time": 1749647180,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 527133,
@@ -627,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389469,
+      "num": 389469,
+      "word": "好好吃饭才能瘦",
+      "onboard_time": 1749642981,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 379088,
       "num": 379088,
       "word": "樊振东vs薛飞",
@@ -657,6 +681,22 @@
       "onboard_time": 1749638302,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354428,
+      "num": 354428,
+      "word": "女子兼职给Labubu钩衣服月入超2万",
+      "onboard_time": 1749646642,
+      "rank": 26,
+      "category": "休闲,民生新闻"
+    },
+    {
+      "raw_hot": 350736,
+      "num": 350736,
+      "word": "网传歌手歌单",
+      "onboard_time": 1749647541,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 347342,
@@ -811,14 +851,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 293585,
-      "num": 293585,
-      "word": "好好吃饭才能瘦",
-      "onboard_time": 1749642981,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 292955,
       "num": 292955,
       "word": "字节跳动公布核心人才观",
@@ -889,6 +921,14 @@
       "onboard_time": 1749635841,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 263308,
+      "num": 263308,
+      "word": "樊振东乒超第一阶段胜率百分百",
+      "onboard_time": 1749647301,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 260508,
@@ -979,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242101,
+      "num": 344733,
+      "word": "小鹏G7是全球首款L3级算力的AI汽车",
+      "onboard_time": 1749643462,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 241110,
       "num": 241110,
       "word": "王楚钦今晚不上场",
@@ -1027,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234553,
+      "num": 234553,
+      "word": "加州州长呼吁美国人民站起来",
+      "onboard_time": 1749647242,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 232310,
       "num": 232310,
       "word": "王源应援棒",
@@ -1041,14 +1097,6 @@
       "onboard_time": 1749615443,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230887,
-      "num": 295496,
-      "word": "小鹏G7是全球首款L3级算力的AI汽车",
-      "onboard_time": 1749643462,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 229307,
@@ -1091,20 +1139,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 225356,
-      "num": 225356,
-      "word": "女子兼职给Labubu钩衣服月入超2万",
-      "onboard_time": 1749646642,
-      "rank": 26,
-      "category": "休闲,民生新闻"
-    },
-    {
       "raw_hot": 225352,
       "num": 225352,
       "word": "华为Pura80芯片",
       "onboard_time": 1749630381,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 224388,
+      "num": 224388,
+      "word": "临江仙受众",
+      "onboard_time": 1749647362,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 224027,
@@ -1121,14 +1169,6 @@
       "onboard_time": 1749628761,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221889,
-      "num": 221889,
-      "word": "李晨晒哥斯拉labubu",
-      "onboard_time": 1749646763,
-      "rank": 32,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 221593,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1749628460,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 218083,
+      "num": 218083,
+      "word": "全球唯一薄荷色labubu108万成交",
+      "onboard_time": 1749640583,
+      "rank": 36,
+      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 217667,
@@ -1209,6 +1257,14 @@
       "onboard_time": 1749629722,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213744,
+      "num": 213744,
+      "word": "iG晋级败者组决赛",
+      "onboard_time": 1749646822,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 213459,
@@ -1411,14 +1467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197841,
-      "num": 197841,
-      "word": "樊振东乒超第一阶段胜率百分百",
-      "onboard_time": 1749647301,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197719,
       "num": 333999,
       "word": "小鹏G7后排空间大到顶瓜瓜",
@@ -1441,14 +1489,6 @@
       "onboard_time": 1749604281,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 195092,
-      "num": 195092,
-      "word": "全球唯一薄荷色labubu108万成交",
-      "onboard_time": 1749640583,
-      "rank": 36,
-      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 194273,
@@ -1523,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189381,
-      "num": 189381,
-      "word": "iG晋级败者组决赛",
-      "onboard_time": 1749646822,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 189312,
       "num": 189312,
       "word": "中美经贸磋商",
@@ -1593,6 +1625,22 @@
       "onboard_time": 1749603980,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184194,
+      "num": 321979,
+      "word": "韦东奕称已受舆论影响不想再做回应",
+      "onboard_time": 1749648801,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184140,
+      "num": 336733,
+      "word": "小黄豆回应与孙恩盛闹掰",
+      "onboard_time": 1749647662,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 184090,
@@ -1723,12 +1771,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173836,
+      "num": 173836,
+      "word": "藏海传站内热度史冠达成",
+      "onboard_time": 1749647783,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173447,
       "num": 173447,
       "word": "肖战爸妈让他好好演别丢人",
       "onboard_time": 1749608901,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172568,
+      "num": 172568,
+      "word": "无畏",
+      "onboard_time": 1749648444,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 172200,
@@ -1897,6 +1961,14 @@
       "onboard_time": 1749634942,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 162163,
+      "num": 162163,
+      "word": "CPI",
+      "onboard_time": 1749648862,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 162067,
@@ -2163,14 +2235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146064,
-      "num": 146064,
-      "word": "孕期出轨男子诈骗情人6万给妻女用",
-      "onboard_time": 1749647180,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146050,
       "num": 268038,
       "word": "李雪琴徐志胜总有个人懂你的浪漫",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1749634161,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144869,
+      "num": 144869,
+      "word": "绝意马可波罗showtime",
+      "onboard_time": 1749648023,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 144426,
@@ -2217,6 +2289,14 @@
       "onboard_time": 1749626421,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143156,
+      "num": 143156,
+      "word": "女子称肾穿刺前医院未查其怀孕致引产",
+      "onboard_time": 1749647903,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143096,
@@ -2387,6 +2467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 133683,
+      "num": 148711,
+      "word": "kid解说",
+      "onboard_time": 1749646642,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133238,
       "num": 133238,
       "word": "你一句无罪归天换我十年凄苦",
@@ -2443,6 +2531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 128637,
+      "num": 128637,
+      "word": "白举纲原本为歌手预留了充足时间",
+      "onboard_time": 1749648921,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128359,
       "num": 410677,
       "word": "骑车时速35码撞人致失忆判赔30万",
@@ -2481,6 +2577,14 @@
       "onboard_time": 1749602421,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 124816,
+      "num": 124816,
+      "word": "张杰来就对了",
+      "onboard_time": 1749648622,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 123987,
@@ -2528,6 +2632,14 @@
       "word": "董明珠开导朋友孩子高考失利来格力",
       "onboard_time": 1749599840,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120167,
+      "num": 338540,
+      "word": "天津一医院给病人定制馒头",
+      "onboard_time": 1749648682,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -2923,6 +3035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83279,
+      "num": 349396,
+      "word": "单依纯Pura80神图",
+      "onboard_time": 1749647123,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82279,
       "num": 82279,
       "word": "苏醒说还不知道披荆斩棘即将面对什么",
@@ -3016,14 +3136,6 @@
       "word": "洛杉矶海军陆战队人数是山火时的4倍",
       "onboard_time": 1749616102,
       "rank": 28,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 72403,
-      "num": 213844,
-      "word": "加州州长呼吁美国人民站起来",
-      "onboard_time": 1749647242,
-      "rank": 35,
       "category": "国际时政"
     },
     {
@@ -3211,12 +3323,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49741,
+      "num": 327151,
+      "word": "叶童真的去过假日了",
+      "onboard_time": 1749647123,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49718,
       "num": 276665,
       "word": "Labubu为何成全球顶流",
       "onboard_time": 1749611362,
       "rank": 29,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 48002,
+      "num": 332087,
+      "word": "老板动动嘴牛马跑断腿",
+      "onboard_time": 1749647962,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 46358,
@@ -3371,6 +3499,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 35430,
+      "num": 214344,
+      "word": "美国总统与首富的危险关系",
+      "onboard_time": 1749648682,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35025,
       "num": 231500,
       "word": "成为唯一采访过韦东奕的记者之后",
@@ -3427,14 +3563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31471,
-      "num": 225350,
-      "word": "叶童真的去过假日了",
-      "onboard_time": 1749647123,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 31385,
       "num": 31385,
       "word": "约700名海军陆战队将部署洛杉矶",
@@ -3475,14 +3603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28696,
-      "num": 242014,
-      "word": "单依纯Pura80神图",
-      "onboard_time": 1749647123,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27751,
       "num": 295234,
       "word": "蜜雪门店称未受含菌量超标事件影响",
@@ -3497,6 +3617,14 @@
       "onboard_time": 1749598279,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27067,
+      "num": 245496,
+      "word": "骑手称日入300保险只按100赔",
+      "onboard_time": 1749647061,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26655,
@@ -3595,6 +3723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20957,
+      "num": 1116467,
+      "word": "互联网企业社会责任上分秘籍",
+      "onboard_time": 1749632963,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20871,
       "num": 149872,
       "word": "陈之汉被粉丝送茅台",
@@ -3616,14 +3752,6 @@
       "word": "日常哪些共享行为可能泄露隐私",
       "onboard_time": 1749628340,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18989,
-      "num": 955432,
-      "word": "互联网企业社会责任上分秘籍",
-      "onboard_time": 1749632963,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3657,14 +3785,6 @@
       "onboard_time": 1749586993,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15447,
-      "num": 245496,
-      "word": "骑手称日入300保险只按100赔",
-      "onboard_time": 1749647061,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14180,

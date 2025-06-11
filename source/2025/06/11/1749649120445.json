@@ -1,0 +1,410 @@
+{
+  "runTime": 1749649120445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1713144,
+        "num": 1713144,
+        "word": "英国水煮遗体排入下水道或将合法化",
+        "onboard_time": 1749640223,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1394387,
+        "num": 1394387,
+        "word": "曾744分考上清华的他现状",
+        "onboard_time": 1749645442,
+        "rank": 1,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 20957,
+        "num": 1116467,
+        "word": "互联网企业社会责任上分秘籍",
+        "onboard_time": 1749632963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 932633,
+        "num": 932633,
+        "word": "刘诗诗用心在养labubu",
+        "onboard_time": 1749639981,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552837,
+        "num": 552837,
+        "word": "樊振东无世排后击败世排第一",
+        "onboard_time": 1749633264,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550384,
+        "num": 550384,
+        "word": "蜜雪冰城",
+        "onboard_time": 1749641002,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 530308,
+        "num": 530308,
+        "word": "孕期出轨男子诈骗情人6万给妻女用",
+        "onboard_time": 1749647180,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446852,
+        "num": 446852,
+        "word": "樊振东王楚钦今晚无缘交手",
+        "onboard_time": 1749635722,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389469,
+        "num": 389469,
+        "word": "好好吃饭才能瘦",
+        "onboard_time": 1749642981,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 359874,
+        "num": 359874,
+        "word": "又有两位艺术家不能体面的老去了",
+        "onboard_time": 1749642321,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 568222,
+        "num": 357811,
+        "word": "李晨晒哥斯拉labubu",
+        "onboard_time": 1749646763,
+        "rank": 10,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 354428,
+        "num": 354428,
+        "word": "女子兼职给Labubu钩衣服月入超2万",
+        "onboard_time": 1749646642,
+        "rank": 11,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 350736,
+        "num": 350736,
+        "word": "网传歌手歌单",
+        "onboard_time": 1749647541,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83279,
+        "num": 349396,
+        "word": "单依纯Pura80神图",
+        "onboard_time": 1749647123,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349031,
+        "num": 349031,
+        "word": "台湾台东5.8级地震",
+        "onboard_time": 1749640463,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 242101,
+        "num": 344733,
+        "word": "小鹏G7是全球首款L3级算力的AI汽车",
+        "onboard_time": 1749643462,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120167,
+        "num": 338540,
+        "word": "天津一医院给病人定制馒头",
+        "onboard_time": 1749648682,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184140,
+        "num": 336733,
+        "word": "小黄豆回应与孙恩盛闹掰",
+        "onboard_time": 1749647662,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48002,
+        "num": 332087,
+        "word": "老板动动嘴牛马跑断腿",
+        "onboard_time": 1749647962,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49741,
+        "num": 327151,
+        "word": "叶童真的去过假日了",
+        "onboard_time": 1749647123,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184194,
+        "num": 321979,
+        "word": "韦东奕称已受舆论影响不想再做回应",
+        "onboard_time": 1749648801,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316906,
+        "num": 316906,
+        "word": "王楚钦说没人敢说有信心战胜樊振东",
+        "onboard_time": 1749632722,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303279,
+        "num": 303279,
+        "word": "藏海传导演说肖战确实太好看了",
+        "onboard_time": 1749645863,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263308,
+        "num": 263308,
+        "word": "樊振东乒超第一阶段胜率百分百",
+        "onboard_time": 1749647301,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234553,
+        "num": 234553,
+        "word": "加州州长呼吁美国人民站起来",
+        "onboard_time": 1749647242,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224388,
+        "num": 224388,
+        "word": "临江仙受众",
+        "onboard_time": 1749647362,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223191,
+        "num": 223191,
+        "word": "蜜雪冰城含菌量超标被通报",
+        "onboard_time": 1749625820,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218083,
+        "num": 218083,
+        "word": "全球唯一薄荷色labubu108万成交",
+        "onboard_time": 1749640583,
+        "rank": 27,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 189474,
+        "num": 214997,
+        "word": "钟汉良 泪沟",
+        "onboard_time": 1749630621,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35430,
+        "num": 214344,
+        "word": "美国总统与首富的危险关系",
+        "onboard_time": 1749648682,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213744,
+        "num": 213744,
+        "word": "iG晋级败者组决赛",
+        "onboard_time": 1749646822,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203068,
+        "num": 203068,
+        "word": "女子因发量太多剃掉五分之四头发",
+        "onboard_time": 1749632421,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181849,
+        "num": 181849,
+        "word": "钟楚曦身材",
+        "onboard_time": 1749639022,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173836,
+        "num": 173836,
+        "word": "藏海传站内热度史冠达成",
+        "onboard_time": 1749647783,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173756,
+        "num": 173756,
+        "word": "杭州震感",
+        "onboard_time": 1749641842,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 172568,
+        "num": 172568,
+        "word": "无畏",
+        "onboard_time": 1749648444,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162163,
+        "num": 162163,
+        "word": "CPI",
+        "onboard_time": 1749648862,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157006,
+        "num": 157006,
+        "word": "蒯曼3比0王艺迪",
+        "onboard_time": 1749645802,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153356,
+        "num": 153356,
+        "word": "高考试卷真的在监狱印刷吗",
+        "onboard_time": 1749640103,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 133683,
+        "num": 148711,
+        "word": "kid解说",
+        "onboard_time": 1749646642,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144869,
+        "num": 144869,
+        "word": "绝意马可波罗showtime",
+        "onboard_time": 1749648023,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143156,
+        "num": 143156,
+        "word": "女子称肾穿刺前医院未查其怀孕致引产",
+        "onboard_time": 1749647903,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27067,
+        "num": 138686,
+        "word": "骑手称日入300保险只按100赔",
+        "onboard_time": 1749647061,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136617,
+        "num": 136617,
+        "word": "复读7年考上清华的真实感受",
+        "onboard_time": 1749635241,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135137,
+        "num": 135137,
+        "word": "王楚钦和樊振东职业生涯中交手超30次",
+        "onboard_time": 1749641423,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133200,
+        "num": 133200,
+        "word": "张国强夸肖战",
+        "onboard_time": 1749640282,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130521,
+        "num": 130521,
+        "word": "虞书欣父母公司合同纠纷判决书公开",
+        "onboard_time": 1749636922,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128637,
+        "num": 128637,
+        "word": "白举纲原本为歌手预留了充足时间",
+        "onboard_time": 1749648921,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128595,
+        "num": 128595,
+        "word": "女子遭水枪攻击警方称男子未逃逸",
+        "onboard_time": 1749643522,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124816,
+        "num": 124816,
+        "word": "张杰来就对了",
+        "onboard_time": 1749648622,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈文明交流互鉴#"
+    }
+  }
+}
