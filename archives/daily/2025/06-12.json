@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749677094590,
+  "endTime": 1749677999503,
   "band_list": [
     {
       "raw_hot": 704399,
@@ -523,6 +523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29035,
+      "num": 29035,
+      "word": "马斯克深夜反悔",
+      "onboard_time": 1749652402,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28312,
       "num": 111546,
       "word": "非洲农民跨越万里来湖南看袁老师",
@@ -531,12 +539,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 26740,
-      "num": 26740,
-      "word": "马斯克深夜反悔",
-      "onboard_time": 1749652402,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 28135,
+      "num": 28135,
+      "word": "当地称致女孩失明的水枪非高压水枪",
+      "onboard_time": 1749652524,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24644,
@@ -547,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23748,
-      "num": 23748,
-      "word": "当地称致女孩失明的水枪非高压水枪",
-      "onboard_time": 1749652524,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 22741,
+      "num": 22741,
+      "word": "山西10岁男孩被害案生父抗诉被驳回",
+      "onboard_time": 1749667875,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 22331,
@@ -579,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20507,
-      "num": 20507,
-      "word": "山西10岁男孩被害案生父抗诉被驳回",
-      "onboard_time": 1749667875,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 18933,
       "num": 63744,
       "word": "绝意好权威的射核",
@@ -603,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16493,
+      "num": 28137,
+      "word": "特朗普向加州增派两千国民警卫队",
+      "onboard_time": 1749675854,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14057,
       "num": 19710,
       "word": "张杰常州雨中舞台好梦幻",
@@ -611,12 +619,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13302,
-      "num": 15640,
-      "word": "特朗普向加州增派两千国民警卫队",
-      "onboard_time": 1749675854,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 12114,
+      "num": 17419,
+      "word": "黄觉告别平津侯",
+      "onboard_time": 1749665536,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 11958,
@@ -643,8 +651,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1729,
-      "num": 51042,
+      "raw_hot": 1771,
+      "num": 58201,
       "word": "这份文明上网攻略请收好",
       "onboard_time": 1749460581,
       "rank": 2,
