@@ -1,0 +1,410 @@
+{
+  "runTime": 1749635011978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1533747,
+        "num": 1533747,
+        "word": "爷爷不泡茶",
+        "onboard_time": 1749627801,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 929806,
+        "num": 929806,
+        "word": "蜜雪冰城含菌量超标被通报",
+        "onboard_time": 1749625820,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28571,
+        "num": 893940,
+        "word": "精彩安徽AI有数",
+        "onboard_time": 1749634281,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 891234,
+        "num": 891234,
+        "word": "王楚钦说没人敢说有信心战胜樊振东",
+        "onboard_time": 1749632722,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 858013,
+        "num": 858013,
+        "word": "樊振东无世排后击败世排第一",
+        "onboard_time": 1749633264,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600583,
+        "num": 600583,
+        "word": "钟汉良 泪沟",
+        "onboard_time": 1749630621,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536195,
+        "num": 536195,
+        "word": "张朝阳后悔送回绝版Labubu",
+        "onboard_time": 1749633264,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 400964,
+        "num": 523179,
+        "word": "礐嶨怎么读",
+        "onboard_time": 1749619520,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 361836,
+        "num": 521045,
+        "word": "马斯克后悔发布一些关于特朗普的帖子",
+        "onboard_time": 1749628221,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32391,
+        "num": 495929,
+        "word": "科创安徽文明你我",
+        "onboard_time": 1749633741,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1114606,
+        "num": 487708,
+        "word": "3姐妹上坟被炸亡大伯判死刑家属发声",
+        "onboard_time": 1749631222,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479645,
+        "num": 479645,
+        "word": "特朗普宣称谁敢破坏阅兵将遭到强大武力",
+        "onboard_time": 1749631402,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379817,
+        "num": 379817,
+        "word": "小沈阳女儿韩国出道",
+        "onboard_time": 1749612441,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272423,
+        "num": 378227,
+        "word": "华为发布会 单依纯",
+        "onboard_time": 1749626781,
+        "rank": 13,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 40717,
+        "num": 377082,
+        "word": "国台办回应台网红馆长直播大陆旅游",
+        "onboard_time": 1749633802,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 261711,
+        "num": 374804,
+        "word": "国台办回应藏海传台湾热播",
+        "onboard_time": 1749614122,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75949,
+        "num": 372747,
+        "word": "Pura80一英寸超高动态主摄",
+        "onboard_time": 1749630801,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 255282,
+        "num": 370970,
+        "word": "唯一个上过郝蕾培训班没进步的",
+        "onboard_time": 1749631641,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66242,
+        "num": 367444,
+        "word": "华为手表智感窗黑科技含量拉满",
+        "onboard_time": 1749632722,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17982,
+        "num": 366567,
+        "word": "射手座的双面人格有什么特征",
+        "onboard_time": 1749633142,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365220,
+        "num": 365220,
+        "word": "女子因发量太多剃掉五分之四头发",
+        "onboard_time": 1749632421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294613,
+        "num": 294613,
+        "word": "工资4800三年存下12万",
+        "onboard_time": 1749615622,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274590,
+        "num": 274590,
+        "word": "华为Pura80价格",
+        "onboard_time": 1749628161,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 273207,
+        "num": 273207,
+        "word": "labubu炸虾",
+        "onboard_time": 1749629182,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 252397,
+        "num": 252397,
+        "word": "樊振东今晚或与王楚钦对决",
+        "onboard_time": 1749629182,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185038,
+        "num": 247406,
+        "word": "京东真的找了惠英红",
+        "onboard_time": 1749621982,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 178160,
+        "num": 238625,
+        "word": "周一围看了桃花坞半夜被朱丹气醒",
+        "onboard_time": 1749629722,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24646,
+        "num": 232566,
+        "word": "Pura80个性色卡色号可分享",
+        "onboard_time": 1749632722,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178601,
+        "num": 229206,
+        "word": "泡泡玛特为木木美术馆第二大股东",
+        "onboard_time": 1749633622,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85882,
+        "num": 220459,
+        "word": "镇政府回应光伏板坠落学生被砸身亡",
+        "onboard_time": 1749633382,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 217667,
+        "num": 217667,
+        "word": "朱珠全球最美面孔的含金量还在上升",
+        "onboard_time": 1749631701,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212487,
+        "num": 212487,
+        "word": "乒乓世界排名体系仍存在优化空间",
+        "onboard_time": 1749632662,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196383,
+        "num": 196383,
+        "word": "长胖和变瘦都是有滞后性的",
+        "onboard_time": 1749631641,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92505,
+        "num": 195953,
+        "word": "台湾网红馆长喊话绿媒被你们骗好苦",
+        "onboard_time": 1749634942,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195894,
+        "num": 195894,
+        "word": "加州州长含泪喊话加州民众",
+        "onboard_time": 1749626241,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166302,
+        "num": 166302,
+        "word": "美国建军250年阅兵式有两头骡子",
+        "onboard_time": 1749634701,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163620,
+        "num": 163620,
+        "word": "正确走路姿势 臀部发力",
+        "onboard_time": 1749628460,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 161382,
+        "num": 161382,
+        "word": "吴磊 我的屁股变得开朗了",
+        "onboard_time": 1749628701,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67467,
+        "num": 158961,
+        "word": "一句话让FreeBuds6帮你搞定",
+        "onboard_time": 1749634341,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 54693,
+        "num": 158863,
+        "word": "林昀儒一个词形容王楚钦梁靖崑",
+        "onboard_time": 1749631521,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158809,
+        "num": 158809,
+        "word": "labubu 这是容嬷嬷",
+        "onboard_time": 1749632001,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 158020,
+        "num": 158020,
+        "word": "Pura80用AI一眼识破偷窥",
+        "onboard_time": 1749634521,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153148,
+        "num": 153148,
+        "word": "10所新大学来了",
+        "onboard_time": 1749628221,
+        "rank": 42,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 152446,
+        "num": 152446,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1749609560,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152283,
+        "num": 152283,
+        "word": "labubu 紫薇星",
+        "onboard_time": 1749634762,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152006,
+        "num": 152006,
+        "word": "华为Pura80芯片",
+        "onboard_time": 1749630381,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149245,
+        "num": 149245,
+        "word": "樊振东伸出圆手又收回圆手",
+        "onboard_time": 1749634822,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146012,
+        "num": 146012,
+        "word": "女子发现父亲生前转给已婚女129万",
+        "onboard_time": 1749634161,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135958,
+        "num": 135958,
+        "word": "田柾国说瘦下来之前都不是艺人",
+        "onboard_time": 1749631402,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135641,
+        "num": 135641,
+        "word": "华为Pura80",
+        "onboard_time": 1749625161,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视网络文明建设#"
+    }
+  }
+}
