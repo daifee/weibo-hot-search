@@ -1,0 +1,410 @@
+{
+  "runTime": 1749624682133,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1143087,
+        "num": 1182893,
+        "word": "小沈阳女儿韩国出道",
+        "onboard_time": 1749612441,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410021,
+        "num": 410021,
+        "word": "台湾网红馆长直播游大陆吓坏了谁",
+        "onboard_time": 1749622881,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39959,
+        "num": 342063,
+        "word": "听听青年的网络文明关键词",
+        "onboard_time": 1749614903,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613657,
+        "num": 335278,
+        "word": "京东真的找了惠英红",
+        "onboard_time": 1749621982,
+        "rank": 3,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 321378,
+        "num": 321378,
+        "word": "4岁男童喝零添加鲜羊奶后腿疼1年",
+        "onboard_time": 1749616522,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1231849,
+        "num": 320559,
+        "word": "三姐妹上坟被炸身亡案二审维持原判",
+        "onboard_time": 1749621441,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594705,
+        "num": 312453,
+        "word": "礐嶨怎么读",
+        "onboard_time": 1749619520,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 428593,
+        "num": 307012,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1749609560,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 300692,
+        "num": 300692,
+        "word": "樊振东3比2林诗栋",
+        "onboard_time": 1749616284,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271476,
+        "num": 271476,
+        "word": "华为发布会",
+        "onboard_time": 1749622941,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 472768,
+        "num": 271365,
+        "word": "亲妈后爸把娃埋别人坟里拍视频寻子",
+        "onboard_time": 1749615622,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461932,
+        "num": 268928,
+        "word": "工资4800三年存下12万",
+        "onboard_time": 1749615622,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405085,
+        "num": 265603,
+        "word": "石桥铺",
+        "onboard_time": 1749623601,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282097,
+        "num": 263465,
+        "word": "国台办回应藏海传台湾热播",
+        "onboard_time": 1749614122,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366286,
+        "num": 261871,
+        "word": "向佐 这不是我老婆好吗",
+        "onboard_time": 1749616163,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360691,
+        "num": 258316,
+        "word": "网红解释问黄子韬离婚",
+        "onboard_time": 1749611721,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336764,
+        "num": 256206,
+        "word": "范丞丞叫千玺玺子哥",
+        "onboard_time": 1749615863,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255741,
+        "num": 255741,
+        "word": "这居然是倪妮",
+        "onboard_time": 1749615682,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51051,
+        "num": 254852,
+        "word": "博士生考保安证计划看周杰伦演唱会",
+        "onboard_time": 1749623421,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25153,
+        "num": 254683,
+        "word": "年轻人如何克服理发店羞耻症",
+        "onboard_time": 1749623480,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254555,
+        "num": 254555,
+        "word": "迪丽热巴因一句台词一夜涨粉200万",
+        "onboard_time": 1749609799,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228505,
+        "num": 228505,
+        "word": "王一博更新ins",
+        "onboard_time": 1749614721,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219519,
+        "num": 219519,
+        "word": "解说称樊振东预判了林诗栋的预判",
+        "onboard_time": 1749622340,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180378,
+        "num": 208942,
+        "word": "14岁等等和邓超一样高了",
+        "onboard_time": 1749619762,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205259,
+        "num": 205259,
+        "word": "恋与深空",
+        "onboard_time": 1749622520,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203052,
+        "num": 203052,
+        "word": "盗版LABUBU丑得很抽象",
+        "onboard_time": 1749621561,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 198627,
+        "num": 198627,
+        "word": "4位浪姐自己组团出道",
+        "onboard_time": 1749610460,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196829,
+        "num": 196829,
+        "word": "父亲和女儿总共99岁 女儿多少岁",
+        "onboard_time": 1749615682,
+        "rank": 27,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 194205,
+        "num": 194205,
+        "word": "鹿晗有隐藏款labubu",
+        "onboard_time": 1749601281,
+        "rank": 28,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 181964,
+        "num": 181964,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1749623601,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178812,
+        "num": 178812,
+        "word": "肖战藏海传市场认可度",
+        "onboard_time": 1749623720,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166916,
+        "num": 166916,
+        "word": "王楚钦说还没达到孙颖莎的境界",
+        "onboard_time": 1749621741,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166194,
+        "num": 166194,
+        "word": "张晋李承铉胡夏早安你们是来搞抽象的吧",
+        "onboard_time": 1749623241,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141348,
+        "num": 141348,
+        "word": "怪不得向太觉得周星驰不搞笑",
+        "onboard_time": 1749622401,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107390,
+        "num": 139212,
+        "word": "中方谈中美经贸磋商机制首次会议",
+        "onboard_time": 1749611120,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137362,
+        "num": 137362,
+        "word": "科创板首位90后创始人敲钟",
+        "onboard_time": 1749622340,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135092,
+        "num": 135092,
+        "word": "朱一龙吴磊身体覆盖率",
+        "onboard_time": 1749622401,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134992,
+        "num": 134992,
+        "word": "东极岛致敬不该被忘记的中国人",
+        "onboard_time": 1749615263,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128117,
+        "num": 128117,
+        "word": "教育部拟同意设置10所高校",
+        "onboard_time": 1749623302,
+        "rank": 38,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 88757,
+        "num": 128013,
+        "word": "王楚钦说身体没有大碍",
+        "onboard_time": 1749623122,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127909,
+        "num": 127909,
+        "word": "今年第1号台风蝴蝶最新情况",
+        "onboard_time": 1749622520,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125503,
+        "num": 125503,
+        "word": "6块钱一碗的面被通报宴请",
+        "onboard_time": 1749611960,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123987,
+        "num": 123987,
+        "word": "七根心简有自己的凤凰和传奇",
+        "onboard_time": 1749623302,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120763,
+        "num": 120763,
+        "word": "Red三天高考六天打歌",
+        "onboard_time": 1749622761,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115552,
+        "num": 115552,
+        "word": "iPhone17系列新爆料",
+        "onboard_time": 1749618623,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113533,
+        "num": 113533,
+        "word": "成都发布历史最早高温红色预警",
+        "onboard_time": 1749624141,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111992,
+        "num": 111992,
+        "word": "侯佩岑这段梦回甜心主播时期",
+        "onboard_time": 1749623902,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110855,
+        "num": 110855,
+        "word": "我是真羡慕我妈的工作",
+        "onboard_time": 1749624502,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109044,
+        "num": 109044,
+        "word": "光与夜之恋攻坚办公室",
+        "onboard_time": 1749623062,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108815,
+        "num": 108815,
+        "word": "被一个个大国重器飒到了",
+        "onboard_time": 1749622520,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文明只有姹紫嫣红之别#"
+    }
+  }
+}
