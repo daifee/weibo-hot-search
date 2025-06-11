@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749635011978,
+  "endTime": 1749637725571,
   "band_list": [
     {
       "raw_hot": 2581554,
@@ -43,12 +43,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1334714,
+      "num": 487708,
+      "word": "3姐妹上坟被炸亡大伯判死刑家属发声",
+      "onboard_time": 1749631222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1277447,
       "num": 434029,
       "word": "6块钱一碗的面被通报宴请",
       "onboard_time": 1749611960,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1265608,
+      "num": 1265608,
+      "word": "樊振东无世排后击败世排第一",
+      "onboard_time": 1749633264,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 1207400,
@@ -91,19 +107,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1114606,
-      "num": 487708,
-      "word": "3姐妹上坟被炸亡大伯判死刑家属发声",
-      "onboard_time": 1749631222,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1079484,
       "num": 1079484,
       "word": "樊振东3比2林诗栋",
       "onboard_time": 1749616284,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1057544,
+      "num": 1057544,
+      "word": "樊振东王楚钦今晚无缘交手",
+      "onboard_time": 1749635722,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -152,14 +168,6 @@
       "word": "王楚钦说没人敢说有信心战胜樊振东",
       "onboard_time": 1749632722,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 858013,
-      "num": 858013,
-      "word": "樊振东无世排后击败世排第一",
-      "onboard_time": 1749633264,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -435,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451815,
+      "num": 451815,
+      "word": "复读7年考上清华的真实感受",
+      "onboard_time": 1749635241,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437984,
       "num": 437984,
       "word": "盗版LABUBU丑得很抽象",
@@ -619,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 309146,
+      "num": 309146,
+      "word": "labubu 紫薇星",
+      "onboard_time": 1749634762,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 306240,
       "num": 306240,
       "word": "中美经贸磋商原则上达成框架协议",
@@ -715,6 +739,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 266111,
+      "num": 430627,
+      "word": "美方表示将与中方相向而行",
+      "onboard_time": 1749635841,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 260508,
       "num": 260508,
       "word": "乒乓世界排名体系仍存在优化空间",
@@ -779,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241110,
+      "num": 241110,
+      "word": "王楚钦今晚不上场",
+      "onboard_time": 1749635902,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240761,
       "num": 240761,
       "word": "孙颖莎王楚钦樊振东队伍分团对决",
@@ -825,6 +865,14 @@
       "onboard_time": 1749615443,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229076,
+      "num": 229076,
+      "word": "虞书欣父母公司合同纠纷判决书公开",
+      "onboard_time": 1749636922,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 226966,
@@ -932,7 +980,7 @@
     },
     {
       "raw_hot": 213843,
-      "num": 238625,
+      "num": 400106,
       "word": "周一围看了桃花坞半夜被朱丹气醒",
       "onboard_time": 1749629722,
       "rank": 28,
@@ -979,6 +1027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 208598,
+      "num": 404058,
+      "word": "临江仙",
+      "onboard_time": 1749636683,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206882,
       "num": 206882,
       "word": "labubu 这是容嬷嬷",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1749561142,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203417,
+      "num": 203417,
+      "word": "第一批高考毕业生已经开始享受了",
+      "onboard_time": 1749635601,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 202996,
@@ -1089,6 +1153,14 @@
       "onboard_time": 1749600621,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199328,
+      "num": 392426,
+      "word": "龚俊全英文介绍中国画",
+      "onboard_time": 1749636803,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 199164,
@@ -1307,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179701,
+      "num": 179701,
+      "word": "刘亦菲拆礼物vlog",
+      "onboard_time": 1749637282,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178812,
       "num": 178812,
       "word": "肖战藏海传市场认可度",
@@ -1459,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165884,
+      "num": 165884,
+      "word": "九尾达成4000助攻",
+      "onboard_time": 1749636742,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165245,
       "num": 418329,
       "word": "遭男子水枪攻击失明女孩发声",
@@ -1467,12 +1555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165184,
+      "num": 165184,
+      "word": "刘浩存站着跟宋威龙坐着一样高",
+      "onboard_time": 1749635362,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165033,
       "num": 165033,
       "word": "易烊千玺广州站过审",
       "onboard_time": 1749610100,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 162812,
+      "num": 195953,
+      "word": "台湾网红馆长喊话绿媒被你们骗好苦",
+      "onboard_time": 1749634942,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162067,
@@ -1571,12 +1675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152283,
-      "num": 152283,
-      "word": "labubu 紫薇星",
-      "onboard_time": 1749634762,
-      "rank": 44,
-      "category": "动漫"
+      "raw_hot": 152296,
+      "num": 152296,
+      "word": "中美经贸磋商达成原则一致",
+      "onboard_time": 1749635301,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151619,
@@ -1699,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144416,
+      "num": 144416,
+      "word": "方博说在樊振东天赋技能上吃过很多亏",
+      "onboard_time": 1749635362,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144285,
       "num": 499110,
       "word": "网警提醒当心你的隐私被共享",
@@ -1729,6 +1841,14 @@
       "onboard_time": 1749626600,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142132,
+      "num": 142132,
+      "word": "心理医生谈年轻人为何沉迷LABUBU",
+      "onboard_time": 1749635121,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140023,
@@ -2203,14 +2323,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 92505,
-      "num": 195953,
-      "word": "台湾网红馆长喊话绿媒被你们骗好苦",
-      "onboard_time": 1749634942,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 91064,
       "num": 73906,
       "word": "车企60天付款计划",
@@ -2403,6 +2515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69519,
+      "num": 201730,
+      "word": "婚内强奸案当事人计划追加赔偿金额",
+      "onboard_time": 1749636382,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69364,
       "num": 106479,
       "word": "泡泡玛特创始人成河南新首富",
@@ -2483,12 +2603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63137,
+      "num": 410677,
+      "word": "骑车时速35码撞人致失忆判赔30万",
+      "onboard_time": 1749636803,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62174,
       "num": 67515,
       "word": "鹿晗首站上海秒罄",
       "onboard_time": 1749559041,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 55089,
+      "num": 156979,
+      "word": "王曼昱回应身体和比赛状态",
+      "onboard_time": 1749633441,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 54693,
@@ -2563,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42935,
+      "num": 377291,
+      "word": "特朗普演讲现场防弹玻璃高度超两米",
+      "onboard_time": 1749637043,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42536,
       "num": 173863,
       "word": "汽车零部件概念股走高",
@@ -2576,6 +2720,14 @@
       "word": "校方回应高考前一天艺考生被撞病危",
       "onboard_time": 1749581114,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41520,
+      "num": 423267,
+      "word": "浙江1名村干部转移群众落水遇难",
+      "onboard_time": 1749637462,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2808,6 +2960,14 @@
       "word": "陈之汉被粉丝送茅台",
       "onboard_time": 1749619162,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19778,
+      "num": 381304,
+      "word": "现挤鲜羊奶能喝吗",
+      "onboard_time": 1749635481,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
