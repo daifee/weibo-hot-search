@@ -1,0 +1,411 @@
+{
+  "startTime": 1749659635681,
+  "endTime": 1749659635681,
+  "band_list": [
+    {
+      "raw_hot": 704399,
+      "num": 856610,
+      "word": "潘粤明炮轰国足教练",
+      "onboard_time": 1749654383,
+      "rank": 0,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 532548,
+      "num": 142014,
+      "word": "英国水煮遗体排入下水道或将合法化",
+      "onboard_time": 1749640223,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 518145,
+      "num": 518145,
+      "word": "邢菲 她的瞳",
+      "onboard_time": 1749654741,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 413429,
+      "num": 178893,
+      "word": "袁隆平墓前多了一袋特殊的稻米",
+      "onboard_time": 1749654502,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397716,
+      "num": 397716,
+      "word": "台湾台东5.8级地震",
+      "onboard_time": 1749640463,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 387394,
+      "num": 387394,
+      "word": "歌手第五期歌单",
+      "onboard_time": 1749651981,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 351149,
+      "num": 223960,
+      "word": "刘诗诗用心在养labubu",
+      "onboard_time": 1749639981,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 335350,
+      "num": 175159,
+      "word": "Mai官宣订婚",
+      "onboard_time": 1749651264,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307104,
+      "num": 168205,
+      "word": "阿里离职员工内网发帖",
+      "onboard_time": 1749650243,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 284187,
+      "num": 163952,
+      "word": "特朗普称可以原谅马斯克",
+      "onboard_time": 1749654022,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 282781,
+      "num": 154670,
+      "word": "霉霉疑与男友秘密结婚",
+      "onboard_time": 1749655042,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225295,
+      "num": 225295,
+      "word": "曾744分考上清华的他现状",
+      "onboard_time": 1749645442,
+      "rank": 5,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 221742,
+      "num": 221742,
+      "word": "樊振东无世排后击败世排第一",
+      "onboard_time": 1749633264,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212616,
+      "num": 212616,
+      "word": "蜜雪冰城",
+      "onboard_time": 1749641002,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 179639,
+      "num": 179639,
+      "word": "藏海传导演说肖战确实太好看了",
+      "onboard_time": 1749645863,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153090,
+      "num": 153090,
+      "word": "马云回复离职员工发文",
+      "onboard_time": 1749650243,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 152533,
+      "num": 152533,
+      "word": "王子璇腰伤退出她的瞳拍摄",
+      "onboard_time": 1749651565,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147269,
+      "num": 147269,
+      "word": "全球唯一薄荷色labubu108万成交",
+      "onboard_time": 1749640583,
+      "rank": 18,
+      "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 141933,
+      "num": 141933,
+      "word": "樊振东王楚钦今晚无缘交手",
+      "onboard_time": 1749635722,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126013,
+      "num": 126013,
+      "word": "林高远总结乒超第一阶段",
+      "onboard_time": 1749657321,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125644,
+      "num": 125644,
+      "word": "女子兼职给Labubu钩衣服月入超2万",
+      "onboard_time": 1749646642,
+      "rank": 23,
+      "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 123580,
+      "num": 123580,
+      "word": "虞书欣父母公司合同纠纷判决书公开",
+      "onboard_time": 1749636922,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121023,
+      "num": 121023,
+      "word": "她的瞳",
+      "onboard_time": 1749652644,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119253,
+      "num": 119253,
+      "word": "金泰亨ins快拍",
+      "onboard_time": 1749656422,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115645,
+      "num": 115645,
+      "word": "肖战这场刷屏的雪戏差点变花絮",
+      "onboard_time": 1749655463,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108763,
+      "num": 108763,
+      "word": "Jiejie回应Bin",
+      "onboard_time": 1749653662,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 95518,
+      "num": 95518,
+      "word": "男子被蝮蛇咬伤一番操作成功保命",
+      "onboard_time": 1749658820,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94146,
+      "num": 94146,
+      "word": "苏超无锡vs常州一票难求",
+      "onboard_time": 1749657081,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93586,
+      "num": 93586,
+      "word": "孙颖莎所在俱乐部女子第一",
+      "onboard_time": 1749652045,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93198,
+      "num": 93198,
+      "word": "临江仙热度",
+      "onboard_time": 1749652823,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88879,
+      "num": 88879,
+      "word": "杨笠成都专场取消",
+      "onboard_time": 1749653062,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 88629,
+      "num": 88629,
+      "word": "女子因发量太多剃掉五分之四头发",
+      "onboard_time": 1749632421,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86401,
+      "num": 86401,
+      "word": "岳云鹏回应没歌唱",
+      "onboard_time": 1749658939,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 83015,
+      "num": 119570,
+      "word": "独生子女的父母同时病了怎么办",
+      "onboard_time": 1749631461,
+      "rank": 26,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 82184,
+      "num": 82184,
+      "word": "无畏",
+      "onboard_time": 1749648444,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 81077,
+      "num": 81077,
+      "word": "马嘉祺歌手彩排唱王菲的歌",
+      "onboard_time": 1749655162,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 80009,
+      "num": 80009,
+      "word": "李晨晒哥斯拉labubu",
+      "onboard_time": 1749646763,
+      "rank": 41,
+      "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 78356,
+      "num": 78356,
+      "word": "七根心简bangbang上了",
+      "onboard_time": 1749655881,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77303,
+      "num": 77303,
+      "word": "自由女神见了川普都想安个防护窗",
+      "onboard_time": 1749656482,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 76456,
+      "num": 76456,
+      "word": "清融海月",
+      "onboard_time": 1749654741,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 75115,
+      "num": 75115,
+      "word": "钟楚曦身材",
+      "onboard_time": 1749639022,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74467,
+      "num": 74467,
+      "word": "樊振东场边嘟嘴好萌",
+      "onboard_time": 1749655942,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68369,
+      "num": 74465,
+      "word": "蜜雪冰城含菌量超标被通报",
+      "onboard_time": 1749625820,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66813,
+      "num": 74461,
+      "word": "王楚钦说没人敢说有信心战胜樊振东",
+      "onboard_time": 1749632722,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65374,
+      "num": 74455,
+      "word": "佩洛西回应洛杉矶骚乱",
+      "onboard_time": 1749654261,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 49761,
+      "num": 160370,
+      "word": "失去至亲就像被连根拔起",
+      "onboard_time": 1749658220,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38237,
+      "num": 81611,
+      "word": "林孝埈说在一点点恢复",
+      "onboard_time": 1749657260,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28312,
+      "num": 111546,
+      "word": "非洲农民跨越万里来湖南看袁老师",
+      "onboard_time": 1749658640,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 27811,
+      "num": 142015,
+      "word": "台湾网红馆长大陆直播游感受人情味",
+      "onboard_time": 1749658579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21865,
+      "num": 436032,
+      "word": "中非贸易规模已超2万亿元",
+      "onboard_time": 1749651203,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#动真碰硬解决突出问题#"
+    }
+  ]
+}
