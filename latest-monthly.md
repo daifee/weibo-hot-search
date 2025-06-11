@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/11 20:53:25
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/11 21:08:47
 </p>
 </blockquote>
 <p>
@@ -797,6 +797,12 @@ A股跳水（热度：1454990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%94%9F%E4%BD%9C%E5%BC%8A%E5%AE%B6%E9%95%BF%E7%94%A8%E9%92%B1%E6%91%86%E5%B9%B3%E7%B3%BB%E6%91%86%E6%8B%8D%23" target="weibo">
 高考生作弊家长用钱摆平系摆拍（热度：1345428）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE744%E5%88%86%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E7%9A%84%E4%BB%96%E7%8E%B0%E7%8A%B6%23" target="weibo">
+曾744分考上清华的他现状（热度：1344761）
 </a>
 </li>
 
@@ -4211,12 +4217,6 @@ IU车银优双人cha（热度：474153）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6vs%E5%8A%A0%E5%B7%9E%E6%94%BF%E5%BA%9C%23" target="weibo">
 美国联邦vs加州政府（热度：472255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE744%E5%88%86%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E7%9A%84%E4%BB%96%E7%8E%B0%E7%8A%B6%23" target="weibo">
-曾744分考上清华的他现状（热度：471750）
 </a>
 </li>
 

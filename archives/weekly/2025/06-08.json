@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749646405239,
+  "endTime": 1749647327751,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -393,6 +393,14 @@
       "onboard_time": 1749383901,
       "rank": 3,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1344761,
+      "num": 1344761,
+      "word": "曾744分考上清华的他现状",
+      "onboard_time": 1749645442,
+      "rank": 10,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 1334714,
@@ -2131,14 +2139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 471750,
-      "num": 309209,
-      "word": "曾744分考上清华的他现状",
-      "onboard_time": 1749645442,
-      "rank": 10,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 471748,
       "num": 471748,
       "word": "舒淇晒labubu哭娃",
@@ -3339,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314126,
+      "num": 314126,
+      "word": "藏海传导演说肖战确实太好看了",
+      "onboard_time": 1749645863,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313047,
       "num": 313047,
       "word": "孙颖莎打羽毛球",
@@ -3609,6 +3617,14 @@
       "onboard_time": 1749390923,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293585,
+      "num": 293585,
+      "word": "好好吃饭才能瘦",
+      "onboard_time": 1749642981,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 293297,
@@ -4755,6 +4771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225356,
+      "num": 225356,
+      "word": "女子兼职给Labubu钩衣服月入超2万",
+      "onboard_time": 1749646642,
+      "rank": 26,
+      "category": "休闲,民生新闻"
+    },
+    {
       "raw_hot": 225352,
       "num": 225352,
       "word": "华为Pura80芯片",
@@ -4801,14 +4825,6 @@
       "onboard_time": 1749458423,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223610,
-      "num": 223610,
-      "word": "好好吃饭才能瘦",
-      "onboard_time": 1749642981,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 222854,
@@ -4864,6 +4880,22 @@
       "word": "樊振东比赛间隙霉霉限时返场",
       "onboard_time": 1749457042,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221889,
+      "num": 221889,
+      "word": "李晨晒哥斯拉labubu",
+      "onboard_time": 1749646763,
+      "rank": 32,
+      "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 221593,
+      "num": 300919,
+      "word": "蒯曼3比0王艺迪",
+      "onboard_time": 1749645802,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -5113,14 +5145,6 @@
       "onboard_time": 1749462682,
       "rank": 15,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 212450,
-      "num": 307072,
-      "word": "藏海传导演说肖战确实太好看了",
-      "onboard_time": 1749645863,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 211467,
@@ -5723,6 +5747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 197841,
+      "num": 197841,
+      "word": "樊振东乒超第一阶段胜率百分百",
+      "onboard_time": 1749647301,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197725,
       "num": 197725,
       "word": "iPhone将提醒相机镜头脏了",
@@ -6153,6 +6185,14 @@
       "onboard_time": 1749547101,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189381,
+      "num": 189381,
+      "word": "iG晋级败者组决赛",
+      "onboard_time": 1749646822,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 189157,
@@ -7369,6 +7409,14 @@
       "onboard_time": 1749390144,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167850,
+      "num": 199689,
+      "word": "平野美宇3比1王晓彤",
+      "onboard_time": 1749645563,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 167842,
@@ -8859,6 +8907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146064,
+      "num": 146064,
+      "word": "孕期出轨男子诈骗情人6万给妻女用",
+      "onboard_time": 1749647180,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146050,
       "num": 268038,
       "word": "李雪琴徐志胜总有个人懂你的浪漫",
@@ -9985,14 +10041,6 @@
       "onboard_time": 1749349701,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130484,
-      "num": 165991,
-      "word": "平野美宇3比1王晓彤",
-      "onboard_time": 1749645563,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 130475,
@@ -11571,6 +11619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93103,
+      "num": 304198,
+      "word": "挑行李回家女生父亲哥哥都在打工",
+      "onboard_time": 1749645802,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92684,
       "num": 398393,
       "word": "华为手表智感窗黑科技含量拉满",
@@ -12059,14 +12115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80220,
-      "num": 300919,
-      "word": "蒯曼3比0王艺迪",
-      "onboard_time": 1749645802,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80102,
       "num": 161676,
       "word": "考前大鱼大肉考后剩菜剩饭",
@@ -12305,6 +12353,14 @@
       "onboard_time": 1749398604,
       "rank": 44,
       "category": "正能量,教育"
+    },
+    {
+      "raw_hot": 72403,
+      "num": 213844,
+      "word": "加州州长呼吁美国人民站起来",
+      "onboard_time": 1749647242,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72359,
@@ -12793,14 +12849,6 @@
       "onboard_time": 1749541880,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 58937,
-      "num": 304198,
-      "word": "挑行李回家女生父亲哥哥都在打工",
-      "onboard_time": 1749645802,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58479,
@@ -13915,6 +13963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35453,
+      "num": 246836,
+      "word": "200斤溺水者命悬海边男子果断救援",
+      "onboard_time": 1749645863,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 35382,
       "num": 442472,
       "word": "民警10年前守护的女孩成了同事",
@@ -14147,6 +14203,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 31471,
+      "num": 225350,
+      "word": "叶童真的去过假日了",
+      "onboard_time": 1749647123,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31411,
       "num": 251954,
       "word": "美国派更多军警镇压洛杉矶骚乱",
@@ -14299,6 +14363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28696,
+      "num": 242014,
+      "word": "单依纯Pura80神图",
+      "onboard_time": 1749647123,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28641,
       "num": 42883,
       "word": "高考天气",
@@ -14387,6 +14459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 27751,
+      "num": 295234,
+      "word": "蜜雪门店称未受含菌量超标事件影响",
+      "onboard_time": 1749646882,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27706,
       "num": 295938,
       "word": "律师称高压水枪伤眼景区或需担责",
@@ -14443,6 +14523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25973,
+      "num": 225107,
+      "word": "盗窃频发海外网友给Labubu买保险",
+      "onboard_time": 1749646402,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25690,
       "num": 25690,
       "word": "马嘉祺歌手彩排vlog",
@@ -14489,14 +14577,6 @@
       "onboard_time": 1749623480,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 25071,
-      "num": 246836,
-      "word": "200斤溺水者命悬海边男子果断救援",
-      "onboard_time": 1749645863,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 24972,
@@ -14617,6 +14697,14 @@
       "onboard_time": 1749640282,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 22312,
+      "num": 271880,
+      "word": "女子轻信养生宣传贷款91万做保养",
+      "onboard_time": 1749646822,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22268,
@@ -14828,7 +14916,7 @@
     },
     {
       "raw_hot": 18989,
-      "num": 926501,
+      "num": 955432,
       "word": "互联网企业社会责任上分秘籍",
       "onboard_time": 1749632963,
       "rank": 2,
@@ -15017,6 +15105,14 @@
       "onboard_time": 1749480082,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15447,
+      "num": 245496,
+      "word": "骑手称日入300保险只按100赔",
+      "onboard_time": 1749647061,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15325,

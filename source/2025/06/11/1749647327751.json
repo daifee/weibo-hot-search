@@ -1,0 +1,410 @@
+{
+  "runTime": 1749647327751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1994411,
+        "num": 1994411,
+        "word": "英国水煮遗体排入下水道或将合法化",
+        "onboard_time": 1749640223,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1344761,
+        "num": 1344761,
+        "word": "曾744分考上清华的他现状",
+        "onboard_time": 1749645442,
+        "rank": 1,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 14294,
+        "num": 955432,
+        "word": "互联网企业社会责任上分秘籍",
+        "onboard_time": 1749632963,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 887878,
+        "num": 887878,
+        "word": "刘诗诗用心在养labubu",
+        "onboard_time": 1749639981,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767663,
+        "num": 767663,
+        "word": "蜜雪冰城",
+        "onboard_time": 1749641002,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 640807,
+        "num": 640807,
+        "word": "樊振东无世排后击败世排第一",
+        "onboard_time": 1749633264,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496989,
+        "num": 496989,
+        "word": "樊振东王楚钦今晚无缘交手",
+        "onboard_time": 1749635722,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483381,
+        "num": 483381,
+        "word": "台湾台东5.8级地震",
+        "onboard_time": 1749640463,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 389045,
+        "num": 389045,
+        "word": "又有两位艺术家不能体面的老去了",
+        "onboard_time": 1749642321,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314126,
+        "num": 314126,
+        "word": "藏海传导演说肖战确实太好看了",
+        "onboard_time": 1749645863,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313641,
+        "num": 313641,
+        "word": "蜜雪冰城含菌量超标被通报",
+        "onboard_time": 1749625820,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27751,
+        "num": 295234,
+        "word": "蜜雪门店称未受含菌量超标事件影响",
+        "onboard_time": 1749646882,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293729,
+        "num": 293729,
+        "word": "王楚钦说没人敢说有信心战胜樊振东",
+        "onboard_time": 1749632722,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293585,
+        "num": 293585,
+        "word": "好好吃饭才能瘦",
+        "onboard_time": 1749642981,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 93103,
+        "num": 291358,
+        "word": "挑行李回家女生父亲哥哥都在打工",
+        "onboard_time": 1749645802,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200379,
+        "num": 281196,
+        "word": "钟汉良 泪沟",
+        "onboard_time": 1749630621,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222783,
+        "num": 277591,
+        "word": "小鹏G7是全球首款L3级算力的AI汽车",
+        "onboard_time": 1749643462,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22312,
+        "num": 271880,
+        "word": "女子轻信养生宣传贷款91万做保养",
+        "onboard_time": 1749646822,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23581,
+        "num": 261223,
+        "word": "称北大未名湖湖水能激发智慧违法吗",
+        "onboard_time": 1749645802,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27088,
+        "num": 255932,
+        "word": "如何避免在人际关系中被过度消耗",
+        "onboard_time": 1749645141,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252993,
+        "num": 252993,
+        "word": "高考试卷真的在监狱印刷吗",
+        "onboard_time": 1749640103,
+        "rank": 20,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 15447,
+        "num": 245496,
+        "word": "骑手称日入300保险只按100赔",
+        "onboard_time": 1749647061,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242697,
+        "num": 242697,
+        "word": "杭州震感",
+        "onboard_time": 1749641842,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 28696,
+        "num": 242014,
+        "word": "单依纯Pura80神图",
+        "onboard_time": 1749647123,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241905,
+        "num": 241905,
+        "word": "女子因发量太多剃掉五分之四头发",
+        "onboard_time": 1749632421,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163385,
+        "num": 231709,
+        "word": "张国强夸肖战",
+        "onboard_time": 1749640282,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225356,
+        "num": 225356,
+        "word": "女子兼职给Labubu钩衣服月入超2万",
+        "onboard_time": 1749646642,
+        "rank": 26,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 31471,
+        "num": 225350,
+        "word": "叶童真的去过假日了",
+        "onboard_time": 1749647123,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25973,
+        "num": 225107,
+        "word": "盗窃频发海外网友给Labubu买保险",
+        "onboard_time": 1749646402,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35453,
+        "num": 224969,
+        "word": "200斤溺水者命悬海边男子果断救援",
+        "onboard_time": 1749645863,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 143993,
+        "num": 224710,
+        "word": "虞书欣父母公司合同纠纷判决书公开",
+        "onboard_time": 1749636922,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224627,
+        "num": 224627,
+        "word": "山东魏桥vs上海地产集团",
+        "onboard_time": 1749640764,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221889,
+        "num": 221889,
+        "word": "李晨晒哥斯拉labubu",
+        "onboard_time": 1749646763,
+        "rank": 32,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 221593,
+        "num": 221593,
+        "word": "蒯曼3比0王艺迪",
+        "onboard_time": 1749645802,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214815,
+        "num": 214815,
+        "word": "女子遭水枪攻击警方称男子未逃逸",
+        "onboard_time": 1749643522,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72403,
+        "num": 213844,
+        "word": "加州州长呼吁美国人民站起来",
+        "onboard_time": 1749647242,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213800,
+        "num": 213800,
+        "word": "王楚钦和樊振东职业生涯中交手超30次",
+        "onboard_time": 1749641423,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209416,
+        "num": 209416,
+        "word": "钟楚曦身材",
+        "onboard_time": 1749639022,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207700,
+        "num": 207700,
+        "word": "复读7年考上清华的真实感受",
+        "onboard_time": 1749635241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167850,
+        "num": 199689,
+        "word": "平野美宇3比1王晓彤",
+        "onboard_time": 1749645563,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142470,
+        "num": 198192,
+        "word": "邓超 你把笔还我",
+        "onboard_time": 1749640883,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197841,
+        "num": 197841,
+        "word": "樊振东乒超第一阶段胜率百分百",
+        "onboard_time": 1749647301,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196886,
+        "num": 196886,
+        "word": "樊振东乒超7连胜",
+        "onboard_time": 1749642262,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189381,
+        "num": 189381,
+        "word": "iG晋级败者组决赛",
+        "onboard_time": 1749646822,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164362,
+        "num": 164362,
+        "word": "乒超停电",
+        "onboard_time": 1749640644,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153116,
+        "num": 153116,
+        "word": "全球唯一薄荷色labubu108万成交",
+        "onboard_time": 1749640583,
+        "rank": 45,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 147460,
+        "num": 147460,
+        "word": "Labubu最火隐藏款抽中赚一瓶茅台",
+        "onboard_time": 1749639923,
+        "rank": 46,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 146064,
+        "num": 146064,
+        "word": "孕期出轨男子诈骗情人6万给妻女用",
+        "onboard_time": 1749647180,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135049,
+        "num": 135049,
+        "word": "张朝阳后悔送回绝版Labubu",
+        "onboard_time": 1749633264,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129533,
+        "num": 129533,
+        "word": "马斯克后悔发布一些关于特朗普的帖子",
+        "onboard_time": 1749628221,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视网络文明建设#"
+    }
+  }
+}
