@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749669664403,
+  "endTime": 1749670628534,
   "band_list": [
     {
       "raw_hot": 704399,
@@ -579,20 +579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20507,
+      "num": 20507,
+      "word": "山西10岁男孩被害案生父抗诉被驳回",
+      "onboard_time": 1749667875,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 18933,
       "num": 63744,
       "word": "绝意好权威的射核",
       "onboard_time": 1749660199,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 16866,
-      "num": 19716,
-      "word": "山西10岁男孩被害案生父抗诉被驳回",
-      "onboard_time": 1749667875,
-      "rank": 45,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 14057,
