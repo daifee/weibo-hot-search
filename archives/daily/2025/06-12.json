@@ -1,7 +1,15 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749684373506,
+  "endTime": 1749685254789,
   "band_list": [
+    {
+      "raw_hot": 753353,
+      "num": 169540,
+      "word": "包文婧封肚",
+      "onboard_time": 1749683479,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 704399,
       "num": 856610,
@@ -9,14 +17,6 @@
       "onboard_time": 1749654383,
       "rank": 0,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 597726,
-      "num": 169540,
-      "word": "包文婧封肚",
-      "onboard_time": 1749683479,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 532548,
@@ -35,12 +35,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469014,
+      "num": 915320,
+      "word": "女子在电梯厅被头盔男抱起压倒在地",
+      "onboard_time": 1749682996,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444545,
       "num": 168205,
       "word": "阿里离职员工内网发帖",
       "onboard_time": 1749650243,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 419704,
+      "num": 142235,
+      "word": "两个拍出天价的Labubu都曾经是他的",
+      "onboard_time": 1749684677,
+      "rank": 12,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 413429,
@@ -73,14 +89,6 @@
       "onboard_time": 1749651981,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 356517,
-      "num": 356517,
-      "word": "女子在电梯厅被头盔男抱起压倒在地",
-      "onboard_time": 1749682996,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 351149,
@@ -123,8 +131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253284,
-      "num": 253284,
+      "raw_hot": 256822,
+      "num": 256822,
       "word": "女子兼职给Labubu钩衣服月入超2万",
       "onboard_time": 1749646642,
       "rank": 23,
@@ -163,6 +171,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 188575,
+      "num": 156425,
+      "word": "景甜龙骨焚箱造型",
+      "onboard_time": 1749683358,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179639,
       "num": 179639,
       "word": "藏海传导演说肖战确实太好看了",
@@ -184,6 +200,14 @@
       "word": "当地称致女孩失明的水枪非高压水枪",
       "onboard_time": 1749652524,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158537,
+      "num": 140218,
+      "word": "因渐冻症离世的教师成了大体老师",
+      "onboard_time": 1749683297,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -219,12 +243,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131557,
-      "num": 131557,
-      "word": "因渐冻症离世的教师成了大体老师",
-      "onboard_time": 1749683297,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 128339,
+      "num": 147946,
+      "word": "长安的荔枝12",
+      "onboard_time": 1749680895,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 126013,
@@ -235,20 +259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125837,
-      "num": 156425,
-      "word": "景甜龙骨焚箱造型",
-      "onboard_time": 1749683358,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123580,
       "num": 168901,
       "word": "虞书欣父母公司合同纠纷判决书公开",
       "onboard_time": 1749636922,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123341,
+      "num": 123341,
+      "word": "岳云鹏演唱会票价引争议",
+      "onboard_time": 1749684739,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 121023,
@@ -273,14 +297,6 @@
       "onboard_time": 1749656422,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119069,
-      "num": 147946,
-      "word": "长安的荔枝12",
-      "onboard_time": 1749680895,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 115947,
@@ -329,6 +345,22 @@
       "onboard_time": 1749652823,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93011,
+      "num": 69893,
+      "word": "她的瞳剧组换女主",
+      "onboard_time": 1749683897,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91562,
+      "num": 91562,
+      "word": "特朗普向加州增派两千国民警卫队",
+      "onboard_time": 1749675854,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89463,
@@ -403,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77506,
+      "num": 93827,
+      "word": "易烊千玺礐嶨和玊",
+      "onboard_time": 1749679755,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 77303,
       "num": 77303,
       "word": "自由女神见了川普都想安个防护窗",
@@ -451,12 +491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67470,
-      "num": 67470,
-      "word": "特朗普向加州增派两千国民警卫队",
-      "onboard_time": 1749675854,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 68031,
+      "num": 68031,
+      "word": "第一次体会到被人撸的小猫",
+      "onboard_time": 1749679755,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 67005,
+      "num": 67005,
+      "word": "猫在百忙中还扇了狗狗俩耳光",
+      "onboard_time": 1749683418,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 66965,
@@ -475,12 +523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66443,
+      "num": 66443,
+      "word": "Labubu最火隐藏款抽中赚一瓶茅台",
+      "onboard_time": 1749639923,
+      "rank": 39,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 66170,
       "num": 66170,
       "word": "京城大师赛",
       "onboard_time": 1749660020,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 65860,
+      "num": 65860,
+      "word": "连成一片的高温来了",
+      "onboard_time": 1749684080,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65374,
@@ -491,20 +555,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63590,
-      "num": 69238,
-      "word": "易烊千玺礐嶨和玊",
-      "onboard_time": 1749679755,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 62788,
-      "num": 62788,
-      "word": "猫在百忙中还扇了狗狗俩耳光",
-      "onboard_time": 1749683418,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 65174,
+      "num": 65174,
+      "word": "张朝阳后悔送回绝版Labubu",
+      "onboard_time": 1749633264,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 62086,
@@ -515,20 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59258,
-      "num": 59258,
-      "word": "第一次体会到被人撸的小猫",
-      "onboard_time": 1749679755,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 58605,
-      "num": 58605,
+      "raw_hot": 59818,
+      "num": 59818,
       "word": "警方回应一头盔男电梯厅猥亵女子",
       "onboard_time": 1749683297,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58467,
+      "num": 58467,
+      "word": "继年轻人后周鸿祎也迷上Labubu",
+      "onboard_time": 1749684858,
+      "rank": 42,
+      "category": "互联网,动漫"
     },
     {
       "raw_hot": 57171,
@@ -537,22 +593,6 @@
       "onboard_time": 1749661036,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 56057,
-      "num": 56057,
-      "word": "张朝阳后悔送回绝版Labubu",
-      "onboard_time": 1749633264,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 55176,
-      "num": 55176,
-      "word": "Labubu最火隐藏款抽中赚一瓶茅台",
-      "onboard_time": 1749639923,
-      "rank": 39,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 52557,
@@ -571,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49110,
-      "num": 49110,
-      "word": "连成一片的高温来了",
-      "onboard_time": 1749684080,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 48538,
+      "num": 48538,
+      "word": "iG距MSI只差一步",
+      "onboard_time": 1749685220,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 48104,
@@ -585,14 +625,6 @@
       "onboard_time": 1749667274,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 47463,
-      "num": 47463,
-      "word": "她的瞳剧组换女主",
-      "onboard_time": 1749683897,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 45125,
@@ -755,8 +787,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4087,
-      "num": 308397,
+      "raw_hot": 4593,
+      "num": 310292,
       "word": "这份文明上网攻略请收好",
       "onboard_time": 1749460581,
       "rank": 2,

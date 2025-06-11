@@ -1,0 +1,410 @@
+{
+  "runTime": 1749685254789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 469014,
+        "num": 915320,
+        "word": "女子在电梯厅被头盔男抱起压倒在地",
+        "onboard_time": 1749682996,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452483,
+        "num": 452483,
+        "word": "潘粤明炮轰国足教练",
+        "onboard_time": 1749654383,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 4593,
+        "num": 310292,
+        "word": "这份文明上网攻略请收好",
+        "onboard_time": 1749460581,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285726,
+        "num": 285726,
+        "word": "曾744分考上清华的他现状",
+        "onboard_time": 1749645442,
+        "rank": 3,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 256822,
+        "num": 256822,
+        "word": "女子兼职给Labubu钩衣服月入超2万",
+        "onboard_time": 1749646642,
+        "rank": 4,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 195766,
+        "num": 195766,
+        "word": "刘诗诗用心在养labubu",
+        "onboard_time": 1749639981,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194808,
+        "num": 194808,
+        "word": "山东魏桥3比1战胜上海地产",
+        "onboard_time": 1749663376,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180880,
+        "num": 180880,
+        "word": "全球唯一薄荷色labubu108万成交",
+        "onboard_time": 1749640583,
+        "rank": 7,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 157348,
+        "num": 157348,
+        "word": "台湾网红馆长大陆直播游感受人情味",
+        "onboard_time": 1749658579,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142692,
+        "num": 142692,
+        "word": "岳云鹏回应没歌唱",
+        "onboard_time": 1749658939,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 753353,
+        "num": 142670,
+        "word": "包文婧封肚",
+        "onboard_time": 1749683479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424537,
+        "num": 142401,
+        "word": "阿里离职员工内网发帖",
+        "onboard_time": 1749650243,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 419704,
+        "num": 142235,
+        "word": "两个拍出天价的Labubu都曾经是他的",
+        "onboard_time": 1749684677,
+        "rank": 12,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 149843,
+        "num": 141961,
+        "word": "当地称致女孩失明的水枪非高压水枪",
+        "onboard_time": 1749652524,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362424,
+        "num": 141836,
+        "word": "泰勒斯威夫特疑秘密结婚",
+        "onboard_time": 1749660020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234958,
+        "num": 141576,
+        "word": "袁隆平墓前多了一袋特殊的稻米",
+        "onboard_time": 1749654502,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188575,
+        "num": 141330,
+        "word": "景甜龙骨焚箱造型",
+        "onboard_time": 1749683358,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171166,
+        "num": 141114,
+        "word": "Mai官宣订婚",
+        "onboard_time": 1749651264,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128339,
+        "num": 140919,
+        "word": "长安的荔枝12",
+        "onboard_time": 1749680895,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120210,
+        "num": 140771,
+        "word": "邢菲 她的瞳",
+        "onboard_time": 1749654741,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375466,
+        "num": 140503,
+        "word": "英国水煮遗体排入下水道或将合法化",
+        "onboard_time": 1749640223,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158537,
+        "num": 140218,
+        "word": "因渐冻症离世的教师成了大体老师",
+        "onboard_time": 1749683297,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140161,
+        "num": 140161,
+        "word": "马云回复离职员工发文",
+        "onboard_time": 1749650243,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131941,
+        "num": 131941,
+        "word": "樊振东无世排后击败世排第一",
+        "onboard_time": 1749633264,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123341,
+        "num": 123341,
+        "word": "岳云鹏演唱会票价引争议",
+        "onboard_time": 1749684739,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118643,
+        "num": 118643,
+        "word": "马斯克深夜反悔",
+        "onboard_time": 1749652402,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112745,
+        "num": 112745,
+        "word": "藏海传导演说肖战确实太好看了",
+        "onboard_time": 1749645863,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110202,
+        "num": 110202,
+        "word": "男子被蝮蛇咬伤一番操作成功保命",
+        "onboard_time": 1749658820,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80471,
+        "num": 98556,
+        "word": "王子璇腰伤退出她的瞳拍摄",
+        "onboard_time": 1749651565,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77506,
+        "num": 93827,
+        "word": "易烊千玺礐嶨和玊",
+        "onboard_time": 1749679755,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91562,
+        "num": 91562,
+        "word": "特朗普向加州增派两千国民警卫队",
+        "onboard_time": 1749675854,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81676,
+        "num": 81676,
+        "word": "台湾台东5.8级地震",
+        "onboard_time": 1749640463,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 70931,
+        "num": 70931,
+        "word": "歌手第五期歌单",
+        "onboard_time": 1749651981,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93011,
+        "num": 69893,
+        "word": "她的瞳剧组换女主",
+        "onboard_time": 1749683897,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68031,
+        "num": 68031,
+        "word": "第一次体会到被人撸的小猫",
+        "onboard_time": 1749679755,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67005,
+        "num": 67005,
+        "word": "猫在百忙中还扇了狗狗俩耳光",
+        "onboard_time": 1749683418,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66443,
+        "num": 66443,
+        "word": "Labubu最火隐藏款抽中赚一瓶茅台",
+        "onboard_time": 1749639923,
+        "rank": 36,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 65860,
+        "num": 65860,
+        "word": "连成一片的高温来了",
+        "onboard_time": 1749684080,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65174,
+        "num": 65174,
+        "word": "张朝阳后悔送回绝版Labubu",
+        "onboard_time": 1749633264,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 62703,
+        "num": 62703,
+        "word": "李晨晒哥斯拉labubu",
+        "onboard_time": 1749646763,
+        "rank": 39,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 62511,
+        "num": 62511,
+        "word": "山西10岁男孩被害案生父抗诉被驳回",
+        "onboard_time": 1749667875,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 59818,
+        "num": 59818,
+        "word": "警方回应一头盔男电梯厅猥亵女子",
+        "onboard_time": 1749683297,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58467,
+        "num": 58467,
+        "word": "继年轻人后周鸿祎也迷上Labubu",
+        "onboard_time": 1749684858,
+        "rank": 42,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 57214,
+        "num": 57214,
+        "word": "虞书欣父母公司合同纠纷判决书公开",
+        "onboard_time": 1749636922,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56791,
+        "num": 56791,
+        "word": "Jiejie回应Bin",
+        "onboard_time": 1749653662,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54614,
+        "num": 56155,
+        "word": "东莞一学校化学实验课6名学生烧伤",
+        "onboard_time": 1749660259,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55551,
+        "num": 55551,
+        "word": "苏超无锡vs常州一票难求",
+        "onboard_time": 1749657081,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51485,
+        "num": 51485,
+        "word": "孙颖莎所在俱乐部女子第一",
+        "onboard_time": 1749652045,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48538,
+        "num": 48538,
+        "word": "iG距MSI只差一步",
+        "onboard_time": 1749685220,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48391,
+        "num": 48391,
+        "word": "杨笠成都专场取消",
+        "onboard_time": 1749653062,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是人间正道#"
+    }
+  }
+}

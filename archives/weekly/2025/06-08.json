@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749684373506,
+  "endTime": 1749685254789,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -1163,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 753353,
+      "num": 169540,
+      "word": "包文婧封肚",
+      "onboard_time": 1749683479,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 752465,
       "num": 550090,
       "word": "彭冠英开车送朱一龙回家",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1749626241,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 597726,
-      "num": 169540,
-      "word": "包文婧封肚",
-      "onboard_time": 1749683479,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 596875,
@@ -2259,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469014,
+      "num": 915320,
+      "word": "女子在电梯厅被头盔男抱起压倒在地",
+      "onboard_time": 1749682996,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468905,
       "num": 468905,
       "word": "Monki好强",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1749554421,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419704,
+      "num": 142235,
+      "word": "两个拍出天价的Labubu都曾经是他的",
+      "onboard_time": 1749684677,
+      "rank": 12,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 419495,
@@ -3105,14 +3121,6 @@
       "onboard_time": 1749638302,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 356517,
-      "num": 356517,
-      "word": "女子在电梯厅被头盔男抱起压倒在地",
-      "onboard_time": 1749682996,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 356407,
@@ -6491,6 +6499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188575,
+      "num": 156425,
+      "word": "景甜龙骨焚箱造型",
+      "onboard_time": 1749683358,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188302,
       "num": 188302,
       "word": "猫耳娱乐告别信",
@@ -8467,6 +8483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158537,
+      "num": 140218,
+      "word": "因渐冻症离世的教师成了大体老师",
+      "onboard_time": 1749683297,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158469,
       "num": 158469,
       "word": "易烊千玺广州演唱会预计两场",
@@ -10411,14 +10435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131557,
-      "num": 131557,
-      "word": "因渐冻症离世的教师成了大体老师",
-      "onboard_time": 1749683297,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131546,
       "num": 131546,
       "word": "这么抽象的女儿她居然拥有三个",
@@ -10651,6 +10667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128339,
+      "num": 147946,
+      "word": "长安的荔枝12",
+      "onboard_time": 1749680895,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128045,
       "num": 128045,
       "word": "王楚钦vs费浚航",
@@ -10737,14 +10761,6 @@
       "onboard_time": 1749657321,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125837,
-      "num": 156425,
-      "word": "景甜龙骨焚箱造型",
-      "onboard_time": 1749683358,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 125808,
@@ -10889,6 +10905,14 @@
       "onboard_time": 1749439221,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123341,
+      "num": 123341,
+      "word": "岳云鹏演唱会票价引争议",
+      "onboard_time": 1749684739,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 123290,
@@ -11201,14 +11225,6 @@
       "onboard_time": 1749534921,
       "rank": 45,
       "category": "数码"
-    },
-    {
-      "raw_hot": 119069,
-      "num": 147946,
-      "word": "长安的荔枝12",
-      "onboard_time": 1749680895,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 119042,
@@ -12219,6 +12235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93011,
+      "num": 69893,
+      "word": "她的瞳剧组换女主",
+      "onboard_time": 1749683897,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92684,
       "num": 398393,
       "word": "华为手表智感窗黑科技含量拉满",
@@ -12249,6 +12273,14 @@
       "onboard_time": 1749394763,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91562,
+      "num": 91562,
+      "word": "特朗普向加州增派两千国民警卫队",
+      "onboard_time": 1749675854,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91498,
@@ -12803,6 +12835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77506,
+      "num": 93827,
+      "word": "易烊千玺礐嶨和玊",
+      "onboard_time": 1749679755,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 77303,
       "num": 145338,
       "word": "自由女神见了川普都想安个防护窗",
@@ -13187,6 +13227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68031,
+      "num": 68031,
+      "word": "第一次体会到被人撸的小猫",
+      "onboard_time": 1749679755,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 67899,
       "num": 251969,
       "word": "王铮亮续上披荆斩棘",
@@ -13201,14 +13249,6 @@
       "onboard_time": 1749567922,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67470,
-      "num": 67470,
-      "word": "特朗普向加州增派两千国民警卫队",
-      "onboard_time": 1749675854,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67467,
@@ -13249,6 +13289,14 @@
       "onboard_time": 1749364281,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 67005,
+      "num": 67005,
+      "word": "猫在百忙中还扇了狗狗俩耳光",
+      "onboard_time": 1749683418,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 66965,
@@ -13315,6 +13363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65860,
+      "num": 65860,
+      "word": "连成一片的高温来了",
+      "onboard_time": 1749684080,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65374,
       "num": 271690,
       "word": "洛杉矶宵禁现场发生激烈冲突",
@@ -13371,14 +13427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63590,
-      "num": 69238,
-      "word": "易烊千玺礐嶨和玊",
-      "onboard_time": 1749679755,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 63297,
       "num": 233154,
       "word": "景区回应女孩遭男子水枪攻击致失明",
@@ -13401,14 +13449,6 @@
       "onboard_time": 1749315083,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62788,
-      "num": 62788,
-      "word": "猫在百忙中还扇了狗狗俩耳光",
-      "onboard_time": 1749683418,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 62507,
@@ -13507,6 +13547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59818,
+      "num": 59818,
+      "word": "警方回应一头盔男电梯厅猥亵女子",
+      "onboard_time": 1749683297,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59760,
       "num": 303033,
       "word": "微博电影之夜第四波阵容",
@@ -13531,14 +13579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 59258,
-      "num": 59258,
-      "word": "第一次体会到被人撸的小猫",
-      "onboard_time": 1749679755,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 59173,
       "num": 59173,
       "word": "点进片头就退不出去的剧",
@@ -13555,20 +13595,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 58605,
-      "num": 58605,
-      "word": "警方回应一头盔男电梯厅猥亵女子",
-      "onboard_time": 1749683297,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58479,
       "num": 58479,
       "word": "姜云升 也难怪圈外人有刻板印象",
       "onboard_time": 1749303863,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58467,
+      "num": 58467,
+      "word": "继年轻人后周鸿祎也迷上Labubu",
+      "onboard_time": 1749684858,
+      "rank": 42,
+      "category": "互联网,动漫"
     },
     {
       "raw_hot": 58201,
@@ -14003,14 +14043,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 49110,
-      "num": 49110,
-      "word": "连成一片的高温来了",
-      "onboard_time": 1749684080,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48942,
       "num": 306658,
       "word": "有商家卖清华空气北大校内土",
@@ -14025,6 +14057,14 @@
       "onboard_time": 1749544582,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48538,
+      "num": 48538,
+      "word": "iG距MSI只差一步",
+      "onboard_time": 1749685220,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 48482,
@@ -14065,14 +14105,6 @@
       "onboard_time": 1749331813,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47463,
-      "num": 47463,
-      "word": "她的瞳剧组换女主",
-      "onboard_time": 1749683897,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 47360,
