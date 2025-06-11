@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749673696241,
+  "endTime": 1749674577545,
   "band_list": [
     {
       "raw_hot": 704399,
@@ -619,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10760,
+      "num": 34641,
+      "word": "人民日报独家对话张桂梅",
+      "onboard_time": 1749672973,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10332,
       "num": 23167,
       "word": "台网红馆长大赞上海",
@@ -627,16 +635,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9613,
-      "num": 18735,
-      "word": "人民日报独家对话张桂梅",
-      "onboard_time": 1749672973,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1563,
-      "num": 42478,
+      "raw_hot": 1696,
+      "num": 43179,
       "word": "这份文明上网攻略请收好",
       "onboard_time": 1749460581,
       "rank": 2,
