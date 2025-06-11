@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749653091128,
+  "endTime": 1749655758851,
   "band_list": [
     {
       "raw_hot": 7048374,
@@ -251,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 862938,
+      "num": 1138070,
+      "word": "歌手第五期歌单",
+      "onboard_time": 1749651981,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 856173,
       "num": 416615,
       "word": "石桥铺火灾",
@@ -281,14 +289,6 @@
       "onboard_time": 1749606740,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 792730,
-      "num": 792730,
-      "word": "歌手第五期歌单",
-      "onboard_time": 1749651981,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 792543,
@@ -427,6 +427,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 571273,
+      "num": 455793,
+      "word": "王子璇腰伤退出她的瞳拍摄",
+      "onboard_time": 1749651565,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 567189,
       "num": 567189,
       "word": "鹿晗归来和鼎盛时期一样能打",
@@ -457,6 +465,14 @@
       "onboard_time": 1749633264,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 533322,
+      "num": 366203,
+      "word": "她的瞳",
+      "onboard_time": 1749652644,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 531949,
@@ -513,6 +529,14 @@
       "onboard_time": 1749608599,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 505150,
+      "num": 316982,
+      "word": "潘粤明炮轰国足教练",
+      "onboard_time": 1749654383,
+      "rank": 12,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 496840,
@@ -585,14 +609,6 @@
       "onboard_time": 1749597619,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 455793,
-      "num": 455793,
-      "word": "王子璇腰伤退出她的瞳拍摄",
-      "onboard_time": 1749651565,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 437984,
@@ -723,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 368183,
+      "num": 368183,
+      "word": "孙颖莎所在俱乐部女子第一",
+      "onboard_time": 1749652045,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364790,
       "num": 364790,
       "word": "黄友政vs樊振东",
@@ -843,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 312815,
-      "num": 312815,
-      "word": "孙颖莎所在俱乐部女子第一",
-      "onboard_time": 1749652045,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 312235,
       "num": 312235,
       "word": "东极岛",
@@ -931,6 +947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 291399,
+      "num": 291399,
+      "word": "临江仙热度",
+      "onboard_time": 1749652823,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289396,
       "num": 289396,
       "word": "山东魏桥vs上海地产集团",
@@ -961,6 +985,14 @@
       "onboard_time": 1749622520,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281142,
+      "num": 281142,
+      "word": "霉霉疑与男友秘密结婚",
+      "onboard_time": 1749655042,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 277810,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1749641125,
       "rank": 22,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 266914,
+      "num": 266914,
+      "word": "邢菲 她的瞳",
+      "onboard_time": 1749654741,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 266111,
@@ -1387,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212165,
+      "num": 212165,
+      "word": "Jiejie回应Bin",
+      "onboard_time": 1749653662,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210643,
       "num": 210643,
       "word": "王楚钦领衔山东魏桥乒超四连胜",
@@ -1531,6 +1579,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 200016,
+      "num": 200016,
+      "word": "袁隆平墓前多了一袋特殊的稻米",
+      "onboard_time": 1749654502,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199913,
       "num": 193626,
       "word": "李一桐如何呢又能怎",
@@ -1561,6 +1617,14 @@
       "onboard_time": 1749636803,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199298,
+      "num": 199298,
+      "word": "清融海月",
+      "onboard_time": 1749654741,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 199164,
@@ -1609,6 +1673,14 @@
       "onboard_time": 1749604281,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 196672,
+      "num": 196672,
+      "word": "马嘉祺歌手彩排唱王菲的歌",
+      "onboard_time": 1749655162,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 195972,
@@ -1697,14 +1769,6 @@
       "onboard_time": 1749534141,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 188696,
-      "num": 223209,
-      "word": "她的瞳",
-      "onboard_time": 1749652644,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 188113,
@@ -1979,12 +2043,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168811,
-      "num": 168811,
-      "word": "临江仙热度",
-      "onboard_time": 1749652823,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 168112,
+      "num": 356711,
+      "word": "当地称致女孩失明的水枪非高压水枪",
+      "onboard_time": 1749652524,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168073,
@@ -2113,6 +2177,14 @@
       "onboard_time": 1749559941,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160685,
+      "num": 350384,
+      "word": "特朗普称可以原谅马斯克",
+      "onboard_time": 1749654022,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 160550,
@@ -2547,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139872,
+      "num": 139872,
+      "word": "马斯克深夜反悔",
+      "onboard_time": 1749652402,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139824,
       "num": 246861,
       "word": "敖瑞鹏一万三已成功通关",
@@ -2595,6 +2675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136776,
+      "num": 136776,
+      "word": "站台",
+      "onboard_time": 1749655223,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136690,
       "num": 377481,
       "word": "中国汽车崛起离不开真功夫和硬实力",
@@ -2633,6 +2721,14 @@
       "onboard_time": 1749620061,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134905,
+      "num": 134905,
+      "word": "佩洛西回应洛杉矶骚乱",
+      "onboard_time": 1749654261,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134742,
@@ -2675,6 +2771,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 133871,
+      "num": 133871,
+      "word": "张子墨拍照技术",
+      "onboard_time": 1749655223,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133683,
       "num": 148711,
       "word": "kid解说",
@@ -2699,6 +2803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132336,
+      "num": 132336,
+      "word": "肖战这场刷屏的雪戏差点变花絮",
+      "onboard_time": 1749655463,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132186,
       "num": 132186,
       "word": "人性第一关系第二",
@@ -2713,14 +2825,6 @@
       "onboard_time": 1749626361,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130492,
-      "num": 130492,
-      "word": "马斯克深夜反悔",
-      "onboard_time": 1749652402,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 130386,
@@ -2881,6 +2985,14 @@
       "onboard_time": 1749608179,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 116758,
+      "num": 116758,
+      "word": "苏超抢票",
+      "onboard_time": 1749653783,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 116477,
@@ -3067,6 +3179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102211,
+      "num": 134283,
+      "word": "黄友政回应对战樊振东",
+      "onboard_time": 1749655283,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101361,
       "num": 142998,
       "word": "樊振东向球迷挥手",
@@ -3097,6 +3217,14 @@
       "onboard_time": 1749598639,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97510,
+      "num": 121779,
+      "word": "遭水枪击伤眼睛女子恢复到矫正视力",
+      "onboard_time": 1749653662,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97340,
@@ -3531,14 +3659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63321,
-      "num": 356711,
-      "word": "当地称致女孩失明的水枪非高压水枪",
-      "onboard_time": 1749652524,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62949,
       "num": 454626,
       "word": "警方立案调查女子眼睛遭水枪击伤",
@@ -3665,6 +3785,14 @@
       "onboard_time": 1749572599,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42644,
+      "num": 168471,
+      "word": "伦敦一被遣返移民逃脱跟着飞机狂奔",
+      "onboard_time": 1749654863,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 42536,
@@ -3931,6 +4059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26272,
+      "num": 215721,
+      "word": "醉酒男子踢坏门自称刀枪不入",
+      "onboard_time": 1749654383,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26107,
       "num": 206144,
       "word": "洛杉矶遭遇冰火夹击",
@@ -3984,6 +4120,14 @@
       "word": "称北大未名湖湖水能激发智慧违法吗",
       "onboard_time": 1749645802,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23003,
+      "num": 135422,
+      "word": "民警让被骗男子对镜头承诺不转账",
+      "onboard_time": 1749655582,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
