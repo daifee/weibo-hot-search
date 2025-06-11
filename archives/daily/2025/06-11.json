@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749649120445,
+  "endTime": 1749649839453,
   "band_list": [
     {
       "raw_hot": 7048374,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 760318,
+      "num": 760318,
+      "word": "韦东奕称已受舆论影响不想再做回应",
+      "onboard_time": 1749648801,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 742542,
       "num": 409598,
       "word": "王一博王安宇爆改王安全",
@@ -387,7 +395,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 568222,
+      "raw_hot": 576970,
       "num": 357811,
       "word": "李晨晒哥斯拉labubu",
       "onboard_time": 1749646763,
@@ -707,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 346509,
+      "num": 346509,
+      "word": "藏海传导演说肖战确实太好看了",
+      "onboard_time": 1749645863,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345709,
       "num": 370970,
       "word": "唯一个上过郝蕾培训班没进步的",
@@ -761,14 +777,6 @@
       "onboard_time": 1749565403,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314126,
-      "num": 314126,
-      "word": "藏海传导演说肖战确实太好看了",
-      "onboard_time": 1749645863,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 313047,
@@ -1003,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245571,
+      "num": 245571,
+      "word": "无畏",
+      "onboard_time": 1749648444,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 244933,
       "num": 227237,
       "word": "鹿晗抢票",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1749643462,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 241333,
+      "num": 241333,
+      "word": "全球唯一薄荷色labubu108万成交",
+      "onboard_time": 1749640583,
+      "rank": 36,
+      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 241110,
@@ -1201,14 +1225,6 @@
       "onboard_time": 1749628460,
       "rank": 40,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 218083,
-      "num": 218083,
-      "word": "全球唯一薄荷色labubu108万成交",
-      "onboard_time": 1749640583,
-      "rank": 36,
-      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 217667,
@@ -1491,6 +1507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 195972,
+      "num": 336733,
+      "word": "小黄豆回应与孙恩盛闹掰",
+      "onboard_time": 1749647662,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 194273,
       "num": 194273,
       "word": "村民用来测水质的玉米苗被连夜拔掉",
@@ -1625,22 +1649,6 @@
       "onboard_time": 1749603980,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 184194,
-      "num": 321979,
-      "word": "韦东奕称已受舆论影响不想再做回应",
-      "onboard_time": 1749648801,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184140,
-      "num": 336733,
-      "word": "小黄豆回应与孙恩盛闹掰",
-      "onboard_time": 1749647662,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 184090,
@@ -1785,14 +1793,6 @@
       "onboard_time": 1749608901,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172568,
-      "num": 172568,
-      "word": "无畏",
-      "onboard_time": 1749648444,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 172200,
@@ -1985,6 +1985,14 @@
       "onboard_time": 1749559941,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160550,
+      "num": 160550,
+      "word": "碎叫叫626分手",
+      "onboard_time": 1749649223,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 159776,
@@ -2307,6 +2315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142876,
+      "num": 338540,
+      "word": "天津一医院给病人定制馒头",
+      "onboard_time": 1749648682,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142854,
       "num": 142854,
       "word": "卢昱晓飞机延误也不忘录vlog",
@@ -2315,12 +2331,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142456,
+      "num": 142456,
+      "word": "王楚钦梁靖崑真的很努力在憋笑了",
+      "onboard_time": 1749649523,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142132,
       "num": 142132,
       "word": "心理医生谈年轻人为何沉迷LABUBU",
       "onboard_time": 1749635121,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142033,
+      "num": 142033,
+      "word": "朱一龙又要在海边干什么",
+      "onboard_time": 1749649342,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141113,
+      "num": 141113,
+      "word": "深圳大学3比1华东理工大学",
+      "onboard_time": 1749646763,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 141008,
@@ -2587,6 +2627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124254,
+      "num": 206568,
+      "word": "韦东奕办公桌上放着熟悉的大矿泉水瓶",
+      "onboard_time": 1749649643,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123987,
       "num": 123987,
       "word": "七根心简有自己的凤凰和传奇",
@@ -2635,14 +2683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120167,
-      "num": 338540,
-      "word": "天津一医院给病人定制馒头",
-      "onboard_time": 1749648682,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119369,
       "num": 119369,
       "word": "雷军当选沔商总会名誉会长",
@@ -2681,6 +2721,14 @@
       "onboard_time": 1749549142,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114868,
+      "num": 114868,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1749649825,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 114860,

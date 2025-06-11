@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749649120445,
+  "endTime": 1749649839453,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -2907,6 +2907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 760318,
+      "num": 760318,
+      "word": "韦东奕称已受舆论影响不想再做回应",
+      "onboard_time": 1749648801,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 758606,
       "num": 1121377,
       "word": "王安宇亲空气还要翻面",
@@ -4395,6 +4403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 576970,
+      "num": 357811,
+      "word": "李晨晒哥斯拉labubu",
+      "onboard_time": 1749646763,
+      "rank": 32,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 576038,
       "num": 432663,
       "word": "路人抓拍Angelababy",
@@ -4441,14 +4457,6 @@
       "onboard_time": 1749287485,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 568222,
-      "num": 357811,
-      "word": "李晨晒哥斯拉labubu",
-      "onboard_time": 1749646763,
-      "rank": 32,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 567672,
@@ -8003,6 +8011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346509,
+      "num": 346509,
+      "word": "藏海传导演说肖战确实太好看了",
+      "onboard_time": 1749645863,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346471,
       "num": 346471,
       "word": "白鹿callback于正",
@@ -8785,14 +8801,6 @@
       "onboard_time": 1749037882,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314126,
-      "num": 314126,
-      "word": "藏海传导演说肖战确实太好看了",
-      "onboard_time": 1749645863,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 313984,
@@ -11331,6 +11339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245571,
+      "num": 245571,
+      "word": "无畏",
+      "onboard_time": 1749648444,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 245487,
       "num": 423204,
       "word": "泽连斯基称没人在意俄罗斯愤怒",
@@ -11505,6 +11521,14 @@
       "onboard_time": 1749307224,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 241333,
+      "num": 241333,
+      "word": "全球唯一薄荷色labubu108万成交",
+      "onboard_time": 1749640583,
+      "rank": 36,
+      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 241259,
@@ -12921,14 +12945,6 @@
       "onboard_time": 1749628460,
       "rank": 40,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 218083,
-      "num": 218083,
-      "word": "全球唯一薄荷色labubu108万成交",
-      "onboard_time": 1749640583,
-      "rank": 36,
-      "category": "休闲,民生新闻"
     },
     {
       "raw_hot": 217898,
@@ -15251,6 +15267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195972,
+      "num": 336733,
+      "word": "小黄豆回应与孙恩盛闹掰",
+      "onboard_time": 1749647662,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 195916,
       "num": 195916,
       "word": "胡兵送高考生Labubu",
@@ -16851,22 +16875,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 184194,
-      "num": 321979,
-      "word": "韦东奕称已受舆论影响不想再做回应",
-      "onboard_time": 1749648801,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184140,
-      "num": 336733,
-      "word": "小黄豆回应与孙恩盛闹掰",
-      "onboard_time": 1749647662,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 184130,
       "num": 144614,
       "word": "老外在韩国被骗",
@@ -18185,14 +18193,6 @@
       "onboard_time": 1749369861,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172568,
-      "num": 172568,
-      "word": "无畏",
-      "onboard_time": 1749648444,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 172472,
@@ -20057,6 +20057,14 @@
       "onboard_time": 1748788041,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160550,
+      "num": 160550,
+      "word": "碎叫叫626分手",
+      "onboard_time": 1749649223,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 160424,
@@ -22851,6 +22859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142876,
+      "num": 338540,
+      "word": "天津一医院给病人定制馒头",
+      "onboard_time": 1749648682,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142866,
       "num": 172927,
       "word": "杨紫跺脚变身",
@@ -22931,6 +22947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142456,
+      "num": 142456,
+      "word": "王楚钦梁靖崑真的很努力在憋笑了",
+      "onboard_time": 1749649523,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142379,
       "num": 142379,
       "word": "早睡真的可以改变命运",
@@ -22985,6 +23009,14 @@
       "onboard_time": 1749031041,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142033,
+      "num": 142033,
+      "word": "朱一龙又要在海边干什么",
+      "onboard_time": 1749649342,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 141962,
@@ -23193,6 +23225,14 @@
       "onboard_time": 1748933481,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 141113,
+      "num": 141113,
+      "word": "深圳大学3比1华东理工大学",
+      "onboard_time": 1749646763,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 141042,
@@ -26163,6 +26203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124254,
+      "num": 206568,
+      "word": "韦东奕办公桌上放着熟悉的大矿泉水瓶",
+      "onboard_time": 1749649643,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124253,
       "num": 124253,
       "word": "四川一社区被指发种子要艾滋病筛查",
@@ -26833,14 +26881,6 @@
       "onboard_time": 1749280282,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120167,
-      "num": 338540,
-      "word": "天津一医院给病人定制馒头",
-      "onboard_time": 1749648682,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120160,
@@ -27649,6 +27689,14 @@
       "onboard_time": 1748844201,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114868,
+      "num": 114868,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1749649825,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 114860,
