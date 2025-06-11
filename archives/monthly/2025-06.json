@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749626748184,
+  "endTime": 1749627612129,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1748866222,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1208480,
+      "num": 1208480,
+      "word": "蜜雪冰城含菌量超标被通报",
+      "onboard_time": 1749625820,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1207400,
@@ -5747,14 +5755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 449882,
-      "num": 449882,
-      "word": "蜜雪冰城含菌量超标被通报",
-      "onboard_time": 1749625820,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 449397,
       "num": 530227,
       "word": "差点没认出章子怡",
@@ -5883,6 +5883,14 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 437984,
+      "num": 437984,
+      "word": "盗版LABUBU丑得很抽象",
+      "onboard_time": 1749621561,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 437814,
       "num": 467342,
       "word": "洛杉矶骚乱后纽约也乱了",
@@ -5944,14 +5952,6 @@
       "word": "Labubu都火了 方圆脸时代怎么还没来",
       "onboard_time": 1749602421,
       "rank": 8,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 435071,
-      "num": 435071,
-      "word": "盗版LABUBU丑得很抽象",
-      "onboard_time": 1749621561,
-      "rank": 33,
       "category": "动漫"
     },
     {
@@ -6113,6 +6113,14 @@
       "onboard_time": 1749134723,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 422895,
+      "num": 422895,
+      "word": "加州州长含泪喊话加州民众",
+      "onboard_time": 1749626241,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 422794,
@@ -8097,6 +8105,14 @@
       "onboard_time": 1749543022,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333197,
+      "num": 333197,
+      "word": "华为发布会 单依纯",
+      "onboard_time": 1749626781,
+      "rank": 13,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 333174,
@@ -11371,6 +11387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 234988,
+      "num": 234988,
+      "word": "教育部拟同意设置10所高校",
+      "onboard_time": 1749623302,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 234720,
       "num": 234720,
       "word": "撕拉片摄影师置顶鞠婧祎张凌赫",
@@ -12211,14 +12235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221093,
-      "num": 221093,
-      "word": "教育部拟同意设置10所高校",
-      "onboard_time": 1749623302,
-      "rank": 38,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 221066,
       "num": 221066,
       "word": "李荣浩连续10年高考发8字祝福",
@@ -12569,6 +12585,14 @@
       "onboard_time": 1749091220,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216099,
+      "num": 425039,
+      "word": "韩国军方停止对朝扩音广播",
+      "onboard_time": 1749625521,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 216001,
@@ -13761,6 +13785,14 @@
       "onboard_time": 1748750959,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202932,
+      "num": 264100,
+      "word": "惠英红说红的会赢",
+      "onboard_time": 1749626361,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 202893,
@@ -15851,14 +15883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187033,
-      "num": 187033,
-      "word": "加州州长含泪喊话加州民众",
-      "onboard_time": 1749626241,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 186944,
       "num": 186944,
       "word": "菲律宾防长居然说中国记者是特工",
@@ -15921,6 +15945,14 @@
       "onboard_time": 1748964562,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 186490,
+      "num": 186490,
+      "word": "关晓彤与青色的适配度",
+      "onboard_time": 1749627261,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 186438,
@@ -17427,14 +17459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172864,
-      "num": 425039,
-      "word": "韩国军方停止对朝扩音广播",
-      "onboard_time": 1749625521,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 172809,
       "num": 172809,
       "word": "水培荔枝",
@@ -18209,6 +18233,14 @@
       "onboard_time": 1749294322,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167715,
+      "num": 167715,
+      "word": "刘宇宁要送李雪琴晚礼服",
+      "onboard_time": 1749626361,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 167676,
@@ -19707,6 +19739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157583,
+      "num": 157583,
+      "word": "小鬼朱星杰听到eiei就想跳",
+      "onboard_time": 1749626241,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157477,
       "num": 157477,
       "word": "景甜张彬彬平番二搭",
@@ -19809,6 +19849,14 @@
       "onboard_time": 1749376462,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157288,
+      "num": 157288,
+      "word": "台湾网红馆长承认曾受影响骂过大陆",
+      "onboard_time": 1749627201,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157150,
@@ -20331,14 +20379,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153389,
-      "num": 264100,
-      "word": "惠英红说红的会赢",
-      "onboard_time": 1749626361,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153325,
       "num": 583080,
       "word": "鸿蒙AI手表来了",
@@ -20537,14 +20577,6 @@
       "onboard_time": 1749560302,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151654,
-      "num": 151654,
-      "word": "刘宇宁要送李雪琴晚礼服",
-      "onboard_time": 1749626361,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 151632,
@@ -21185,14 +21217,6 @@
       "onboard_time": 1749395182,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 147127,
-      "num": 147127,
-      "word": "小鬼朱星杰听到eiei就想跳",
-      "onboard_time": 1749626241,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 147116,
@@ -23971,6 +23995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131948,
+      "num": 221505,
+      "word": "田柾国听到要减肥的反应",
+      "onboard_time": 1749626361,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131937,
       "num": 131937,
       "word": "考生考前丢身份证淡定补办",
@@ -25252,7 +25284,7 @@
     },
     {
       "raw_hot": 123487,
-      "num": 123487,
+      "num": 215692,
       "word": "A股放量19.1亿",
       "onboard_time": 1749626600,
       "rank": 46,
@@ -26627,6 +26659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114648,
+      "num": 114648,
+      "word": "临江仙当年的事各有难处",
+      "onboard_time": 1749627322,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114634,
       "num": 114634,
       "word": "李荣书开通ins",
@@ -26913,6 +26953,14 @@
       "onboard_time": 1749089660,
       "rank": 44,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 113019,
+      "num": 113019,
+      "word": "重庆石桥铺一地突发火灾无人员伤亡",
+      "onboard_time": 1749627440,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113015,
@@ -27723,14 +27771,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 107076,
-      "num": 209681,
-      "word": "田柾国听到要减肥的反应",
-      "onboard_time": 1749626361,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107066,
       "num": 107066,
       "word": "不知道的还以为出新台剧了",
@@ -28433,6 +28473,14 @@
       "onboard_time": 1748868861,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101361,
+      "num": 142998,
+      "word": "樊振东向球迷挥手",
+      "onboard_time": 1749626660,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 101283,
@@ -31169,14 +31217,6 @@
       "onboard_time": 1749283042,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76110,
-      "num": 142998,
-      "word": "樊振东向球迷挥手",
-      "onboard_time": 1749626660,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 75977,
@@ -34891,6 +34931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41320,
+      "num": 312273,
+      "word": "儿童服装抽查不合格检出率17.5%",
+      "onboard_time": 1749627081,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 41309,
       "num": 1154910,
       "word": "端午假期旅游市场呈现哪些新亮点",
@@ -35401,6 +35449,14 @@
       "onboard_time": 1749264562,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37334,
+      "num": 264975,
+      "word": "以为很长肉但减肥的食物有哪些",
+      "onboard_time": 1749625881,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 37302,
@@ -37673,14 +37729,6 @@
       "onboard_time": 1748802136,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23359,
-      "num": 264975,
-      "word": "以为很长肉但减肥的食物有哪些",
-      "onboard_time": 1749625881,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 23344,

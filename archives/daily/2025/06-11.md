@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/11 00:33:34 ~ 2025/06/11 15:25:48
+本榜单时间：2025/06/11 00:33:34 ~ 2025/06/11 15:40:12
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%236%E5%9D%97%E9%92%B1%E4%B8%80%E7%A2%97%E7%9A%84%E9%9D%A2%E8%A2%AB%E9%80%9A%E6%8A%A5%E5%AE%B4%E8%AF%B7%23" target="weibo">
 6块钱一碗的面被通报宴请（热度：1277447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%90%AB%E8%8F%8C%E9%87%8F%E8%B6%85%E6%A0%87%E8%A2%AB%E9%80%9A%E6%8A%A5%23" target="weibo">
+蜜雪冰城含菌量超标被通报（热度：1208480）
 </a>
 </li>
 
@@ -261,20 +267,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%90%AB%E8%8F%8C%E9%87%8F%E8%B6%85%E6%A0%87%E8%A2%AB%E9%80%9A%E6%8A%A5%23" target="weibo">
-蜜雪冰城含菌量超标被通报（热度：449882）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%97%E7%89%88LABUBU%E4%B8%91%E5%BE%97%E5%BE%88%E6%8A%BD%E8%B1%A1%23" target="weibo">
+盗版LABUBU丑得很抽象（热度：437984）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Labubu%E9%83%BD%E7%81%AB%E4%BA%86%20%E6%96%B9%E5%9C%86%E8%84%B8%E6%97%B6%E4%BB%A3%E6%80%8E%E4%B9%88%E8%BF%98%E6%B2%A1%E6%9D%A5%23" target="weibo">
 Labubu都火了 方圆脸时代怎么还没来（热度：435128）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%97%E7%89%88LABUBU%E4%B8%91%E5%BE%97%E5%BE%88%E6%8A%BD%E8%B1%A1%23" target="weibo">
-盗版LABUBU丑得很抽象（热度：435071）
 </a>
 </li>
 
@@ -287,6 +287,12 @@ Labubu都火了 方圆脸时代怎么还没来（热度：435128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%99%E8%87%AA%E5%B7%B1%E7%AD%BE%E5%AD%97%E5%BC%80%E4%BA%8650%E5%B0%8F%E6%97%B6%E6%97%A0%E7%97%9B%23" target="weibo">
 女子给自己签字开了50小时无痛（热度：425517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%90%AB%E6%B3%AA%E5%96%8A%E8%AF%9D%E5%8A%A0%E5%B7%9E%E6%B0%91%E4%BC%97%23" target="weibo">
+加州州长含泪喊话加州民众（热度：422895）
 </a>
 </li>
 
@@ -359,6 +365,12 @@ Labubu都火了 方圆脸时代怎么还没来（热度：435128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E5%AE%8C%E7%8B%AC%E8%87%AA%E6%8C%91%E8%A1%8C%E6%9D%8E%E5%9B%9E%E5%AE%B6%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
 女孩高考完独自挑行李回家班主任发声（热度：336514）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%20%E5%8D%95%E4%BE%9D%E7%BA%AF%23" target="weibo">
+华为发布会 单依纯（热度：333197）
 </a>
 </li>
 
@@ -501,6 +513,12 @@ labubu是红毯新晋魅魔吧（热度：252350）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%8B%9F%E5%90%8C%E6%84%8F%E8%AE%BE%E7%BD%AE10%E6%89%80%E9%AB%98%E6%A0%A1%23" target="weibo">
+教育部拟同意设置10所高校（热度：234988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%BA%94%E6%8F%B4%E6%A3%92%23" target="weibo">
 王源应援棒（热度：232310）
 </a>
@@ -537,12 +555,6 @@ labubu是红毯新晋魅魔吧（热度：252350）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%8B%9F%E5%90%8C%E6%84%8F%E8%AE%BE%E7%BD%AE10%E6%89%80%E9%AB%98%E6%A0%A1%23" target="weibo">
-教育部拟同意设置10所高校（热度：221093）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BE%9B%E5%BA%94%E5%95%86%E6%94%AF%E4%BB%98%E8%B4%A6%E6%9C%9F%E6%96%B0%E8%A7%84%23" target="weibo">
 小米汽车供应商支付账期新规（热度：219220）
 </a>
@@ -551,6 +563,12 @@ labubu是红毯新晋魅魔吧（热度：252350）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%A9%E9%81%AD%E7%94%B7%E5%AD%90%E6%B0%B4%E6%9E%AA%E6%94%BB%E5%87%BB%E5%A4%B1%E6%98%8E%23" target="weibo">
 文旅局回应女孩遭男子水枪攻击失明（热度：216984）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%86%9B%E6%96%B9%E5%81%9C%E6%AD%A2%E5%AF%B9%E6%9C%9D%E6%89%A9%E9%9F%B3%E5%B9%BF%E6%92%AD%23" target="weibo">
+韩国军方停止对朝扩音广播（热度：216099）
 </a>
 </li>
 
@@ -599,6 +617,12 @@ labubu是红毯新晋魅魔吧（热度：252350）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B700%E5%90%8E%E5%B8%A650%E5%90%8E%E5%A4%AB%E5%A6%BB%E7%9C%8B%E7%97%85%E5%A5%BD%E4%B8%9D%E6%BB%91%23" target="weibo">
 上海00后带50后夫妻看病好丝滑（热度：202996）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E8%AF%B4%E7%BA%A2%E7%9A%84%E4%BC%9A%E8%B5%A2%23" target="weibo">
+惠英红说红的会赢（热度：202932）
 </a>
 </li>
 
@@ -741,8 +765,8 @@ iPhone17系列新爆料（热度：192004）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%90%AB%E6%B3%AA%E5%96%8A%E8%AF%9D%E5%8A%A0%E5%B7%9E%E6%B0%91%E4%BC%97%23" target="weibo">
-加州州长含泪喊话加州民众（热度：187033）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%8E%E9%9D%92%E8%89%B2%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6%23" target="weibo">
+关晓彤与青色的适配度（热度：186490）
 </a>
 </li>
 
@@ -819,12 +843,6 @@ iPhone17系列新爆料（热度：192004）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%86%9B%E6%96%B9%E5%81%9C%E6%AD%A2%E5%AF%B9%E6%9C%9D%E6%89%A9%E9%9F%B3%E5%B9%BF%E6%92%AD%23" target="weibo">
-韩国军方停止对朝扩音广播（热度：172864）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%92%8C%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%B8%82%E9%95%BF%E6%97%A0%E8%83%BD%23" target="weibo">
 特朗普说加州州长和洛杉矶市长无能（热度：171842）
 </a>
@@ -857,6 +875,12 @@ iPhone17系列新爆料（热度：192004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E47%E5%B2%81%E8%BA%AB%E6%9D%90%E7%AE%A1%E7%90%86%23" target="weibo">
 黄晓明47岁身材管理（热度：168073）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%A6%81%E9%80%81%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%99%9A%E7%A4%BC%E6%9C%8D%23" target="weibo">
+刘宇宁要送李雪琴晚礼服（热度：167715）
 </a>
 </li>
 
@@ -915,6 +939,18 @@ iPhone17系列新爆料（热度：192004）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E6%9C%B1%E6%98%9F%E6%9D%B0%E5%90%AC%E5%88%B0eiei%E5%B0%B1%E6%83%B3%E8%B7%B3%23" target="weibo">
+小鬼朱星杰听到eiei就想跳（热度：157583）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E9%A6%86%E9%95%BF%E6%89%BF%E8%AE%A4%E6%9B%BE%E5%8F%97%E5%BD%B1%E5%93%8D%E9%AA%82%E8%BF%87%E5%A4%A7%E9%99%86%23" target="weibo">
+台湾网红馆长承认曾受影响骂过大陆（热度：157288）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E7%A3%8B%E5%95%86%E5%8E%9F%E5%88%99%E4%B8%8A%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E6%A1%86%E6%9E%B6%23" target="weibo">
 中美经贸磋商原则上达成协议框架（热度：157127）
 </a>
@@ -935,18 +971,6 @@ iPhone17系列新爆料（热度：192004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%9B%9E%E6%9D%A5%23" target="weibo">
 王一博什么时候回来（热度：154183）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E8%AF%B4%E7%BA%A2%E7%9A%84%E4%BC%9A%E8%B5%A2%23" target="weibo">
-惠英红说红的会赢（热度：153389）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%A6%81%E9%80%81%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%99%9A%E7%A4%BC%E6%9C%8D%23" target="weibo">
-刘宇宁要送李雪琴晚礼服（热度：151654）
 </a>
 </li>
 
@@ -1001,12 +1025,6 @@ iPhone17系列新爆料（热度：192004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%E5%AE%B3%E7%BE%9E%E5%88%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E8%AF%A5%E8%AF%B4%E4%BB%80%E4%B9%88%E5%A5%BD%23" target="weibo">
 田柾国害羞到不知道该说什么好（热度：148474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E6%9C%B1%E6%98%9F%E6%9D%B0%E5%90%AC%E5%88%B0eiei%E5%B0%B1%E6%83%B3%E8%B7%B3%23" target="weibo">
-小鬼朱星杰听到eiei就想跳（热度：147127）
 </a>
 </li>
 
@@ -1131,6 +1149,12 @@ labubu（热度：133877）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%E5%90%AC%E5%88%B0%E8%A6%81%E5%87%8F%E8%82%A5%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+田柾国听到要减肥的反应（热度：131948）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E7%A7%AF9%E5%88%86%E5%B0%8F%E7%BB%84%E7%AC%AC5%23" target="weibo">
 国足积9分小组第5（热度：130386）
 </a>
@@ -1227,6 +1251,12 @@ A股放量19.1亿（热度：123487）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%BD%93%E5%B9%B4%E7%9A%84%E4%BA%8B%E5%90%84%E6%9C%89%E9%9A%BE%E5%A4%84%23" target="weibo">
+临江仙当年的事各有难处（热度：114648）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23labubu%E7%81%AB%E7%88%86%E5%B8%A6%E5%8A%A8%E4%BB%BF%E5%93%81lagogo%E8%AE%A2%E5%8D%95%E6%BF%80%E5%A2%9E%23" target="weibo">
 labubu火爆带动仿品lagogo订单激增（热度：113836）
 </a>
@@ -1241,6 +1271,12 @@ labubu火爆带动仿品lagogo订单激增（热度：113836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%96%E8%85%B9%E4%BA%A7%E7%9A%84%E5%A7%90%E5%A6%B9%E5%98%B4%E7%9C%9F%E4%B8%A5%23" target="weibo">
 剖腹产的姐妹嘴真严（热度：113340）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%9F%B3%E6%A1%A5%E9%93%BA%E4%B8%80%E5%9C%B0%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%E6%97%A0%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%23" target="weibo">
+重庆石桥铺一地突发火灾无人员伤亡（热度：113019）
 </a>
 </li>
 
@@ -1317,8 +1353,8 @@ labubu火爆带动仿品lagogo订单激增（热度：113836）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%E5%90%AC%E5%88%B0%E8%A6%81%E5%87%8F%E8%82%A5%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-田柾国听到要减肥的反应（热度：107076）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%90%91%E7%90%83%E8%BF%B7%E6%8C%A5%E6%89%8B%23" target="weibo">
+樊振东向球迷挥手（热度：101361）
 </a>
 </li>
 
@@ -1421,12 +1457,6 @@ labubu火爆带动仿品lagogo订单激增（热度：113836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%AE%E6%8A%A2%E4%B8%8D%E5%88%B0%E8%B4%A7%E7%9A%84%E5%A5%B3%E5%84%BF%E5%A4%8D%E5%88%BBLabubu%23" target="weibo">
 爸爸帮抢不到货的女儿复刻Labubu（热度：76243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%90%91%E7%90%83%E8%BF%B7%E6%8C%A5%E6%89%8B%23" target="weibo">
-樊振东向球迷挥手（热度：76110）
 </a>
 </li>
 
@@ -1605,6 +1635,12 @@ Labubu为何成全球顶流（热度：49718）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E6%9C%8D%E8%A3%85%E6%8A%BD%E6%9F%A5%E4%B8%8D%E5%90%88%E6%A0%BC%E6%A3%80%E5%87%BA%E7%8E%8717.5%25%23" target="weibo">
+儿童服装抽查不合格检出率17.5%（热度：41320）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E7%8C%AA%E6%B2%B9%E8%83%BD%E6%94%B9%E5%96%84%E8%82%A0%E9%81%93%E5%81%A5%E5%BA%B7%E5%90%97%23" target="weibo">
 吃猪油能改善肠道健康吗（热度：40136）
 </a>
@@ -1613,6 +1649,12 @@ Labubu为何成全球顶流（热度：49718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%AC%E5%90%AC%E9%9D%92%E5%B9%B4%E7%9A%84%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%85%B3%E9%94%AE%E8%AF%8D%23" target="weibo">
 听听青年的网络文明关键词（热度：39959）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E5%BE%88%E9%95%BF%E8%82%89%E4%BD%86%E5%87%8F%E8%82%A5%E7%9A%84%E9%A3%9F%E7%89%A9%E6%9C%89%E5%93%AA%E4%BA%9B%23" target="weibo">
+以为很长肉但减肥的食物有哪些（热度：37334）
 </a>
 </li>
 
@@ -1703,12 +1745,6 @@ Labubu为何成全球顶流（热度：49718）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%BD%AE%E7%8E%A9%E7%82%B9%E4%BA%AE%E5%A4%96%E8%B4%B8%E6%88%90%E7%BB%A9%E5%8D%95%23" target="weibo">
 中国潮玩点亮外贸成绩单（热度：24972）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E5%BE%88%E9%95%BF%E8%82%89%E4%BD%86%E5%87%8F%E8%82%A5%E7%9A%84%E9%A3%9F%E7%89%A9%E6%9C%89%E5%93%AA%E4%BA%9B%23" target="weibo">
-以为很长肉但减肥的食物有哪些（热度：23359）
 </a>
 </li>
 

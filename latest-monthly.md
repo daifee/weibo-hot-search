@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/11 15:25:48
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/11 15:40:12
 </p>
 </blockquote>
 <p>
@@ -989,6 +989,12 @@ afternoon怎么变形（热度：1248150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%A6%E7%BB%A3%E8%8A%B3%E5%8D%8E%23" target="weibo">
 锦绣芳华（热度：1214123）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%90%AB%E8%8F%8C%E9%87%8F%E8%B6%85%E6%A0%87%E8%A2%AB%E9%80%9A%E6%8A%A5%23" target="weibo">
+蜜雪冰城含菌量超标被通报（热度：1208480）
 </a>
 </li>
 
@@ -4323,12 +4329,6 @@ WE战胜TES（热度：463130）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%90%AB%E8%8F%8C%E9%87%8F%E8%B6%85%E6%A0%87%E8%A2%AB%E9%80%9A%E6%8A%A5%23" target="weibo">
-蜜雪冰城含菌量超标被通报（热度：449882）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%AE%E7%82%B9%E6%B2%A1%E8%AE%A4%E5%87%BA%E7%AB%A0%E5%AD%90%E6%80%A1%23" target="weibo">
 差点没认出章子怡（热度：449397）
 </a>
@@ -4425,6 +4425,12 @@ iG战胜WBG（热度：440456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%97%E7%89%88LABUBU%E4%B8%91%E5%BE%97%E5%BE%88%E6%8A%BD%E8%B1%A1%23" target="weibo">
+盗版LABUBU丑得很抽象（热度：437984）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E9%AA%9A%E4%B9%B1%E5%90%8E%E7%BA%BD%E7%BA%A6%E4%B9%9F%E4%B9%B1%E4%BA%86%23" target="weibo">
 洛杉矶骚乱后纽约也乱了（热度：437814）
 </a>
@@ -4469,12 +4475,6 @@ iG战胜WBG（热度：440456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Labubu%E9%83%BD%E7%81%AB%E4%BA%86%20%E6%96%B9%E5%9C%86%E8%84%B8%E6%97%B6%E4%BB%A3%E6%80%8E%E4%B9%88%E8%BF%98%E6%B2%A1%E6%9D%A5%23" target="weibo">
 Labubu都火了 方圆脸时代怎么还没来（热度：435128）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%97%E7%89%88LABUBU%E4%B8%91%E5%BE%97%E5%BE%88%E6%8A%BD%E8%B1%A1%23" target="weibo">
-盗版LABUBU丑得很抽象（热度：435071）
 </a>
 </li>
 
@@ -4595,6 +4595,12 @@ Labubu联名款被炒至2.8万（热度：432471）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A5%BF%E5%AD%90%E7%94%B5%E6%A2%AF%E6%80%BB%E8%A3%81%E7%96%91%E5%9D%A0%E6%A5%BC%E7%A6%BB%E4%B8%96%23" target="weibo">
 警方回应西子电梯总裁疑坠楼离世（热度：423616）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%90%AB%E6%B3%AA%E5%96%8A%E8%AF%9D%E5%8A%A0%E5%B7%9E%E6%B0%91%E4%BC%97%23" target="weibo">
+加州州长含泪喊话加州民众（热度：422895）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ NBA（热度：339073）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E5%AE%8C%E7%8B%AC%E8%87%AA%E6%8C%91%E8%A1%8C%E6%9D%8E%E5%9B%9E%E5%AE%B6%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
 女孩高考完独自挑行李回家班主任发声（热度：336514）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC20%E5%9E%82%E7%9B%B4%E8%B5%B7%E9%99%8D%23" target="weibo">
-歼20垂直起降（热度：336226）
 </a>
 </li>
 

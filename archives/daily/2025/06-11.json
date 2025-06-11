@@ -1,6 +1,6 @@
 {
   "startTime": 1749573214583,
-  "endTime": 1749626748184,
+  "endTime": 1749627612129,
   "band_list": [
     {
       "raw_hot": 2581554,
@@ -32,6 +32,14 @@
       "word": "6块钱一碗的面被通报宴请",
       "onboard_time": 1749611960,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1208480,
+      "num": 1208480,
+      "word": "蜜雪冰城含菌量超标被通报",
+      "onboard_time": 1749625820,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -331,12 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 449882,
-      "num": 449882,
-      "word": "蜜雪冰城含菌量超标被通报",
-      "onboard_time": 1749625820,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 437984,
+      "num": 437984,
+      "word": "盗版LABUBU丑得很抽象",
+      "onboard_time": 1749621561,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 435128,
@@ -344,14 +352,6 @@
       "word": "Labubu都火了 方圆脸时代怎么还没来",
       "onboard_time": 1749602421,
       "rank": 8,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 435071,
-      "num": 435071,
-      "word": "盗版LABUBU丑得很抽象",
-      "onboard_time": 1749621561,
-      "rank": 33,
       "category": "动漫"
     },
     {
@@ -369,6 +369,14 @@
       "onboard_time": 1749565702,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422895,
+      "num": 422895,
+      "word": "加州州长含泪喊话加州民众",
+      "onboard_time": 1749626241,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 416871,
@@ -465,6 +473,14 @@
       "onboard_time": 1749610702,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333197,
+      "num": 333197,
+      "word": "华为发布会 单依纯",
+      "onboard_time": 1749626781,
+      "rank": 13,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 331691,
@@ -651,6 +667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 234988,
+      "num": 234988,
+      "word": "教育部拟同意设置10所高校",
+      "onboard_time": 1749623302,
+      "rank": 38,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 232310,
       "num": 232310,
       "word": "王源应援棒",
@@ -699,14 +723,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 221093,
-      "num": 221093,
-      "word": "教育部拟同意设置10所高校",
-      "onboard_time": 1749623302,
-      "rank": 38,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 219220,
       "num": 219220,
       "word": "小米汽车供应商支付账期新规",
@@ -721,6 +737,14 @@
       "onboard_time": 1749575296,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216099,
+      "num": 425039,
+      "word": "韩国军方停止对朝扩音广播",
+      "onboard_time": 1749625521,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 215276,
@@ -785,6 +809,14 @@
       "onboard_time": 1749606141,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202932,
+      "num": 264100,
+      "word": "惠英红说红的会赢",
+      "onboard_time": 1749626361,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 202693,
@@ -971,12 +1003,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187033,
-      "num": 187033,
-      "word": "加州州长含泪喊话加州民众",
-      "onboard_time": 1749626241,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 186490,
+      "num": 186490,
+      "word": "关晓彤与青色的适配度",
+      "onboard_time": 1749627261,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 185683,
@@ -1075,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172864,
-      "num": 425039,
-      "word": "韩国军方停止对朝扩音广播",
-      "onboard_time": 1749625521,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 171842,
       "num": 171842,
       "word": "特朗普说加州州长和洛杉矶市长无能",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1749570919,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167715,
+      "num": 167715,
+      "word": "刘宇宁要送李雪琴晚礼服",
+      "onboard_time": 1749626361,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 167662,
@@ -1203,6 +1235,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157583,
+      "num": 157583,
+      "word": "小鬼朱星杰听到eiei就想跳",
+      "onboard_time": 1749626241,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157288,
+      "num": 157288,
+      "word": "台湾网红馆长承认曾受影响骂过大陆",
+      "onboard_time": 1749627201,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157127,
       "num": 157127,
       "word": "中美经贸磋商原则上达成协议框架",
@@ -1233,22 +1281,6 @@
       "onboard_time": 1749626181,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153389,
-      "num": 264100,
-      "word": "惠英红说红的会赢",
-      "onboard_time": 1749626361,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 151654,
-      "num": 151654,
-      "word": "刘宇宁要送李雪琴晚礼服",
-      "onboard_time": 1749626361,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 151619,
@@ -1321,14 +1353,6 @@
       "onboard_time": 1749604880,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147127,
-      "num": 147127,
-      "word": "小鬼朱星杰听到eiei就想跳",
-      "onboard_time": 1749626241,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 146796,
@@ -1491,6 +1515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131948,
+      "num": 221505,
+      "word": "田柾国听到要减肥的反应",
+      "onboard_time": 1749626361,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130386,
       "num": 130386,
       "word": "国足积9分小组第5",
@@ -1540,7 +1572,7 @@
     },
     {
       "raw_hot": 123487,
-      "num": 123487,
+      "num": 215692,
       "word": "A股放量19.1亿",
       "onboard_time": 1749626600,
       "rank": 46,
@@ -1619,6 +1651,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 114648,
+      "num": 114648,
+      "word": "临江仙当年的事各有难处",
+      "onboard_time": 1749627322,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113836,
       "num": 113836,
       "word": "labubu火爆带动仿品lagogo订单激增",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1749608599,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113019,
+      "num": 113019,
+      "word": "重庆石桥铺一地突发火灾无人员伤亡",
+      "onboard_time": 1749627440,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112777,
@@ -1739,12 +1787,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 107076,
-      "num": 209681,
-      "word": "田柾国听到要减肥的反应",
-      "onboard_time": 1749626361,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 101361,
+      "num": 142998,
+      "word": "樊振东向球迷挥手",
+      "onboard_time": 1749626660,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 97768,
@@ -1881,14 +1929,6 @@
       "onboard_time": 1749615983,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76110,
-      "num": 142998,
-      "word": "樊振东向球迷挥手",
-      "onboard_time": 1749626660,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 75300,
@@ -2123,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41320,
+      "num": 312273,
+      "word": "儿童服装抽查不合格检出率17.5%",
+      "onboard_time": 1749627081,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 40136,
       "num": 375601,
       "word": "吃猪油能改善肠道健康吗",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1749614903,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37334,
+      "num": 264975,
+      "word": "以为很长肉但减肥的食物有哪些",
+      "onboard_time": 1749625881,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 37206,
@@ -2257,14 +2313,6 @@
       "onboard_time": 1749615502,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 23359,
-      "num": 264975,
-      "word": "以为很长肉但减肥的食物有哪些",
-      "onboard_time": 1749625881,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 22291,
