@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/12 00:33:55 ~ 2025/06/12 04:42:57
+本榜单时间：2025/06/12 00:33:55 ~ 2025/06/12 05:24:54
 </p>
 </blockquote>
 <p>
@@ -412,7 +412,7 @@ EDGM八分钟速推JDG（热度：32121）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B7%B1%E5%A4%9C%E5%8F%8D%E6%82%94%23" target="weibo">
-马斯克深夜反悔（热度：25975）
+马斯克深夜反悔（热度：26740）
 </a>
 </li>
 
@@ -471,6 +471,12 @@ EDGM八分钟速推JDG（热度：32121）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%8A%A0%E5%B7%9E%E5%A2%9E%E6%B4%BE%E4%B8%A4%E5%8D%83%E5%9B%BD%E6%B0%91%E8%AD%A6%E5%8D%AB%E9%98%9F%23" target="weibo">
+特朗普向加州增派两千国民警卫队（热度：13302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%91%A8%E6%97%A5%E5%B0%B1%E6%98%AF%E7%88%B6%E4%BA%B2%E8%8A%82%E4%BA%86%23" target="weibo">
 这周日就是父亲节了（热度：11958）
 </a>
@@ -490,7 +496,7 @@ EDGM八分钟速推JDG（热度：32121）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%BD%E6%96%87%E6%98%8E%E4%B8%8A%E7%BD%91%E6%94%BB%E7%95%A5%E8%AF%B7%E6%94%B6%E5%A5%BD%23" target="weibo">
-这份文明上网攻略请收好（热度：1696）
+这份文明上网攻略请收好（热度：1729）
 </a>
 </li>
 

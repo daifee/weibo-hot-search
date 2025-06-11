@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749674577545,
+  "endTime": 1749677094590,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -41217,6 +41217,14 @@
       "onboard_time": 1749324015,
       "rank": 25,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 13302,
+      "num": 15640,
+      "word": "特朗普向加州增派两千国民警卫队",
+      "onboard_time": 1749675854,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13255,
