@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749663751466,
+  "endTime": 1749667007805,
   "band_list": [
     {
       "raw_hot": 704399,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214058,
+      "num": 97504,
+      "word": "泰勒斯威夫特疑秘密结婚",
+      "onboard_time": 1749660020,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212616,
       "num": 212616,
       "word": "蜜雪冰城",
@@ -121,14 +129,6 @@
       "onboard_time": 1749645863,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160753,
-      "num": 97504,
-      "word": "泰勒斯威夫特疑秘密结婚",
-      "onboard_time": 1749660020,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 153090,
@@ -355,6 +355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76001,
+      "num": 76001,
+      "word": "山东魏桥3比1战胜上海地产",
+      "onboard_time": 1749663376,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75115,
       "num": 75115,
       "word": "钟楚曦身材",
@@ -451,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39486,
-      "num": 39486,
-      "word": "山东魏桥3比1战胜上海地产",
-      "onboard_time": 1749663376,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38883,
       "num": 38883,
       "word": "鸿蒙5全面覆盖华为全场景新品",
@@ -523,6 +523,38 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 25975,
+      "num": 25975,
+      "word": "马斯克深夜反悔",
+      "onboard_time": 1749652402,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 24644,
+      "num": 24644,
+      "word": "花如月逆天改的是凡人的命",
+      "onboard_time": 1749666617,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23748,
+      "num": 23748,
+      "word": "当地称致女孩失明的水枪非高压水枪",
+      "onboard_time": 1749652524,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22331,
+      "num": 22833,
+      "word": "李楷灿空降超话",
+      "onboard_time": 1749666734,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21865,
       "num": 436032,
       "word": "中非贸易规模已超2万亿元",
@@ -537,6 +569,14 @@
       "onboard_time": 1749660199,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15321,
+      "num": 63113,
+      "word": "台风蝴蝶13日登陆海南岛南部沿海",
+      "onboard_time": 1749666075,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
