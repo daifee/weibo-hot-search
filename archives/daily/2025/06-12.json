@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749680712670,
+  "endTime": 1749681819333,
   "band_list": [
     {
       "raw_hot": 704399,
@@ -75,6 +75,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 289073,
+      "num": 97504,
+      "word": "泰勒斯威夫特疑秘密结婚",
+      "onboard_time": 1749660020,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284187,
       "num": 163952,
       "word": "特朗普称可以原谅马斯克",
@@ -105,14 +113,6 @@
       "onboard_time": 1749633264,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214058,
-      "num": 97504,
-      "word": "泰勒斯威夫特疑秘密结婚",
-      "onboard_time": 1749660020,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 212616,
@@ -155,6 +155,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 145202,
+      "num": 145202,
+      "word": "山东魏桥3比1战胜上海地产",
+      "onboard_time": 1749663376,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141933,
       "num": 141933,
       "word": "樊振东王楚钦今晚无缘交手",
@@ -185,6 +193,14 @@
       "onboard_time": 1749636922,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122098,
+      "num": 142015,
+      "word": "台湾网红馆长大陆直播游感受人情味",
+      "onboard_time": 1749658579,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121023,
@@ -219,28 +235,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107922,
-      "num": 107922,
-      "word": "山东魏桥3比1战胜上海地产",
-      "onboard_time": 1749663376,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107451,
       "num": 107451,
       "word": "岳云鹏回应没歌唱",
       "onboard_time": 1749658939,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103347,
-      "num": 142015,
-      "word": "台湾网红馆长大陆直播游感受人情味",
-      "onboard_time": 1749658579,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98745,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72577,
+      "num": 72577,
+      "word": "当地称致女孩失明的水枪非高压水枪",
+      "onboard_time": 1749652524,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69313,
       "num": 69313,
       "word": "藏海传",
@@ -411,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 65792,
+      "num": 53488,
+      "word": "马斯克深夜反悔",
+      "onboard_time": 1749652402,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65374,
       "num": 74455,
       "word": "佩洛西回应洛杉矶骚乱",
@@ -425,6 +441,14 @@
       "onboard_time": 1749660259,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57171,
+      "num": 57171,
+      "word": "刘宇宁歌声和长城满月适配度拉满",
+      "onboard_time": 1749661036,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 49761,
@@ -443,20 +467,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 46836,
-      "num": 46836,
-      "word": "刘宇宁歌声和长城满月适配度拉满",
-      "onboard_time": 1749661036,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 46385,
-      "num": 46385,
-      "word": "当地称致女孩失明的水枪非高压水枪",
-      "onboard_time": 1749652524,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 45125,
+      "num": 55086,
+      "word": "又有两位艺术家不能体面的老去了",
+      "onboard_time": 1749642321,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 43693,
@@ -467,20 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41319,
-      "num": 41319,
-      "word": "马斯克深夜反悔",
-      "onboard_time": 1749652402,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 42449,
+      "num": 42449,
+      "word": "山西10岁男孩被害案生父抗诉被驳回",
+      "onboard_time": 1749667875,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
-      "raw_hot": 40356,
-      "num": 40356,
-      "word": "又有两位艺术家不能体面的老去了",
-      "onboard_time": 1749642321,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 39214,
+      "num": 39214,
+      "word": "第一次体会到被人撸的小猫",
+      "onboard_time": 1749679755,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 38883,
@@ -515,12 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34722,
-      "num": 34722,
-      "word": "山西10岁男孩被害案生父抗诉被驳回",
-      "onboard_time": 1749667875,
-      "rank": 45,
-      "category": "舆论监督"
+      "raw_hot": 36795,
+      "num": 36795,
+      "word": "特朗普向加州增派两千国民警卫队",
+      "onboard_time": 1749675854,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 32627,
+      "num": 32627,
+      "word": "易烊千玺礐嶨和玊",
+      "onboard_time": 1749679755,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 32604,
@@ -539,20 +563,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 32033,
-      "num": 32033,
-      "word": "特朗普向加州增派两千国民警卫队",
-      "onboard_time": 1749675854,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 31425,
       "num": 112703,
       "word": "眼见为实打破台湾民众对大陆的信息壁垒",
       "onboard_time": 1749661817,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29992,
+      "num": 31078,
+      "word": "长安的荔枝12",
+      "onboard_time": 1749680895,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 28312,
@@ -571,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22725,
+      "num": 63113,
+      "word": "台风蝴蝶13日登陆海南岛南部沿海",
+      "onboard_time": 1749666075,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22331,
       "num": 23178,
       "word": "李楷灿空降超话",
@@ -587,36 +619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21522,
-      "num": 63113,
-      "word": "台风蝴蝶13日登陆海南岛南部沿海",
-      "onboard_time": 1749666075,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21416,
-      "num": 28796,
-      "word": "第一次体会到被人撸的小猫",
-      "onboard_time": 1749679755,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 18933,
       "num": 63744,
       "word": "绝意好权威的射核",
       "onboard_time": 1749660199,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18874,
-      "num": 28775,
-      "word": "易烊千玺礐嶨和玊",
-      "onboard_time": 1749679755,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 17997,
@@ -667,8 +675,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1963,
-      "num": 108792,
+      "raw_hot": 2309,
+      "num": 147573,
       "word": "这份文明上网攻略请收好",
       "onboard_time": 1749460581,
       "rank": 2,
