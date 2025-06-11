@@ -1,0 +1,410 @@
+{
+  "runTime": 1749607326581,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1201059,
+        "num": 1201059,
+        "word": "鹿晗有隐藏款labubu",
+        "onboard_time": 1749601281,
+        "rank": 0,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 518400,
+        "num": 518400,
+        "word": "城乡居民医保补助提至每人每年700元",
+        "onboard_time": 1749605720,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144285,
+        "num": 476966,
+        "word": "网警提醒当心你的隐私被共享",
+        "onboard_time": 1749604162,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1052091,
+        "num": 475528,
+        "word": "韩网热议宋茜近照",
+        "onboard_time": 1749604041,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472255,
+        "num": 472255,
+        "word": "美国联邦vs加州政府",
+        "onboard_time": 1749600741,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416871,
+        "num": 416871,
+        "word": "馆长",
+        "onboard_time": 1749600503,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742542,
+        "num": 409598,
+        "word": "王一博王安宇爆改王安全",
+        "onboard_time": 1749604341,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599967,
+        "num": 405529,
+        "word": "黄圣依称不接受婚前同居",
+        "onboard_time": 1749597138,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397983,
+        "num": 397983,
+        "word": "Labubu都火了 方圆脸时代怎么还没来",
+        "onboard_time": 1749602421,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 306240,
+        "num": 306240,
+        "word": "中美经贸磋商原则上达成框架协议",
+        "onboard_time": 1749604762,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 466122,
+        "num": 299960,
+        "word": "邓超也抢不到鹿晗演唱会的票",
+        "onboard_time": 1749599000,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279646,
+        "num": 279646,
+        "word": "黄子韬被问有想过跟徐艺洋离婚吗",
+        "onboard_time": 1749606740,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136199,
+        "num": 278244,
+        "word": "AG600鲲龙获颁生产许可证",
+        "onboard_time": 1749606740,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277182,
+        "num": 277182,
+        "word": "字节跳动公布核心人才观",
+        "onboard_time": 1749603020,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 275539,
+        "num": 275539,
+        "word": "银行柜员拿放大镜办业务被吐槽效率低",
+        "onboard_time": 1749597619,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275420,
+        "num": 275420,
+        "word": "面瘫哥被捕",
+        "onboard_time": 1749578836,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 256100,
+        "num": 256100,
+        "word": "田柾国退伍",
+        "onboard_time": 1749598339,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254993,
+        "num": 254993,
+        "word": "女子给自己签字开了50小时无痛",
+        "onboard_time": 1749565702,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213242,
+        "num": 213242,
+        "word": "台网红馆长上海被投喂美食三件套",
+        "onboard_time": 1749601101,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202996,
+        "num": 202996,
+        "word": "上海00后带50后夫妻看病好丝滑",
+        "onboard_time": 1749606141,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252350,
+        "num": 202974,
+        "word": "labubu是红毯新晋魅魔吧",
+        "onboard_time": 1749606740,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 202693,
+        "num": 202693,
+        "word": "早睡一个小时的好处这么多",
+        "onboard_time": 1749604281,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199382,
+        "num": 199382,
+        "word": "基辅遭受俄最大规模空袭",
+        "onboard_time": 1749600621,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197239,
+        "num": 197239,
+        "word": "洛杉矶市中心每天宵禁10小时",
+        "onboard_time": 1749604820,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196806,
+        "num": 196806,
+        "word": "洛杉矶",
+        "onboard_time": 1749604281,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195663,
+        "num": 195663,
+        "word": "为救女儿生下的儿子也患罕见遗传病",
+        "onboard_time": 1749565403,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188113,
+        "num": 188113,
+        "word": "荔枝那么甜为什么吃出了低血糖",
+        "onboard_time": 1749601101,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 185576,
+        "num": 185576,
+        "word": "洛杉矶市中心部分地区宵禁",
+        "onboard_time": 1749603980,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174929,
+        "num": 174929,
+        "word": "长安的荔枝原著",
+        "onboard_time": 1749603202,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148474,
+        "num": 172316,
+        "word": "田柾国害羞到不知道该说什么好",
+        "onboard_time": 1749604880,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171842,
+        "num": 171842,
+        "word": "特朗普说加州州长和洛杉矶市长无能",
+        "onboard_time": 1749605241,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171120,
+        "num": 171120,
+        "word": "初代Labubu被108万拍卖成交",
+        "onboard_time": 1749557001,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153427,
+        "num": 153427,
+        "word": "教资面试成绩",
+        "onboard_time": 1749606379,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146796,
+        "num": 146796,
+        "word": "阿根廷vs哥伦比亚",
+        "onboard_time": 1749604699,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146190,
+        "num": 146190,
+        "word": "小米汽车副总裁回应青岛起火事故",
+        "onboard_time": 1749606562,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140913,
+        "num": 140913,
+        "word": "今年第1号台风蝴蝶直扑华南",
+        "onboard_time": 1749604460,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138164,
+        "num": 138164,
+        "word": "广东人熟悉的湿热又来了",
+        "onboard_time": 1749607101,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136847,
+        "num": 136847,
+        "word": "她一上午做了我一年的运动量",
+        "onboard_time": 1749597017,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133841,
+        "num": 133841,
+        "word": "于正拍的古力娜扎",
+        "onboard_time": 1749570201,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79972,
+        "num": 129246,
+        "word": "王艺迪独得两分",
+        "onboard_time": 1749606199,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129054,
+        "num": 129054,
+        "word": "桂林通报一名6年级男生坠楼",
+        "onboard_time": 1749606740,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 127332,
+        "num": 127332,
+        "word": "洛杉矶宵禁预计持续数天",
+        "onboard_time": 1749604820,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125599,
+        "num": 125599,
+        "word": "男子吃见手青中毒一直帮凤凰捋毛",
+        "onboard_time": 1749559402,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123521,
+        "num": 123521,
+        "word": "特朗普说洛杉矶骚乱是外国入侵",
+        "onboard_time": 1749602421,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120410,
+        "num": 120410,
+        "word": "东极岛",
+        "onboard_time": 1749606562,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120251,
+        "num": 120251,
+        "word": "董明珠开导朋友孩子高考失利来格力",
+        "onboard_time": 1749599840,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119369,
+        "num": 119369,
+        "word": "雷军当选沔商总会名誉会长",
+        "onboard_time": 1749606440,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116150,
+        "num": 116150,
+        "word": "国足不是最后一名",
+        "onboard_time": 1749565043,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114812,
+        "num": 114812,
+        "word": "10岁女孩公园荡网红秋千坠河去世",
+        "onboard_time": 1749559941,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109636,
+        "num": 109636,
+        "word": "桂林一名6年级男生翻越护栏坠楼",
+        "onboard_time": 1749606740,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中韩应坚定睦邻友好方向#"
+    }
+  }
+}
