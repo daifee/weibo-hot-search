@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749659635681,
+  "endTime": 1749660581565,
   "band_list": [
     {
       "raw_hot": 704399,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 351149,
-      "num": 223960,
+      "num": 282213,
       "word": "刘诗诗用心在养labubu",
       "onboard_time": 1749639981,
       "rank": 6,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 123580,
-      "num": 123580,
+      "num": 168901,
       "word": "虞书欣父母公司合同纠纷判决书公开",
       "onboard_time": 1749636922,
       "rank": 24,
@@ -211,8 +211,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95518,
-      "num": 95518,
+      "raw_hot": 100186,
+      "num": 100186,
+      "word": "岳云鹏回应没歌唱",
+      "onboard_time": 1749658939,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 98745,
+      "num": 98745,
       "word": "男子被蝮蛇咬伤一番操作成功保命",
       "onboard_time": 1749658820,
       "rank": 31,
@@ -243,6 +251,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92365,
+      "num": 92365,
+      "word": "泰勒斯威夫特疑秘密结婚",
+      "onboard_time": 1749660020,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89463,
+      "num": 89463,
+      "word": "李承铉寸头",
+      "onboard_time": 1749659959,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88879,
       "num": 88879,
       "word": "杨笠成都专场取消",
@@ -259,12 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86401,
-      "num": 86401,
-      "word": "岳云鹏回应没歌唱",
-      "onboard_time": 1749658939,
-      "rank": 37,
-      "category": "演出"
+      "raw_hot": 85922,
+      "num": 85922,
+      "word": "李晨晒哥斯拉labubu",
+      "onboard_time": 1749646763,
+      "rank": 41,
+      "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 83633,
+      "num": 83633,
+      "word": "田曦薇土耳其到达",
+      "onboard_time": 1749660199,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 83015,
@@ -291,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80009,
-      "num": 80009,
-      "word": "李晨晒哥斯拉labubu",
-      "onboard_time": 1749646763,
-      "rank": 41,
-      "category": "艺人,动漫"
-    },
-    {
       "raw_hot": 78356,
       "num": 78356,
       "word": "七根心简bangbang上了",
@@ -323,6 +347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76253,
+      "num": 142015,
+      "word": "台湾网红馆长大陆直播游感受人情味",
+      "onboard_time": 1749658579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75115,
       "num": 75115,
       "word": "钟楚曦身材",
@@ -337,6 +369,14 @@
       "onboard_time": 1749655942,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69313,
+      "num": 69313,
+      "word": "藏海传",
+      "onboard_time": 1749660317,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 68369,
@@ -355,12 +395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66170,
+      "num": 66170,
+      "word": "京城大师赛",
+      "onboard_time": 1749660020,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65374,
       "num": 74455,
       "word": "佩洛西回应洛杉矶骚乱",
       "onboard_time": 1749654261,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 53856,
+      "num": 109548,
+      "word": "东莞一学校化学实验课6名学生烧伤",
+      "onboard_time": 1749660259,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49761,
@@ -379,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38091,
+      "num": 134277,
+      "word": "未成年人涉三罪情节恶劣不适用减轻处罚",
+      "onboard_time": 1749659720,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28312,
       "num": 111546,
       "word": "非洲农民跨越万里来湖南看袁老师",
@@ -387,25 +451,28 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 27811,
-      "num": 142015,
-      "word": "台湾网红馆长大陆直播游感受人情味",
-      "onboard_time": 1749658579,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21865,
       "num": 436032,
       "word": "中非贸易规模已超2万亿元",
       "onboard_time": 1749651203,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18933,
+      "num": 63744,
+      "word": "绝意好权威的射核",
+      "onboard_time": 1749660199,
+      "rank": 47,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
     {
       "word": "#动真碰硬解决突出问题#"
+    },
+    {
+      "word": "#开放合作是人间正道#"
     }
   ]
 }
