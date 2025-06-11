@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749677999503,
+  "endTime": 1749680712670,
   "band_list": [
     {
       "raw_hot": 704399,
@@ -219,12 +219,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107922,
+      "num": 107922,
+      "word": "山东魏桥3比1战胜上海地产",
+      "onboard_time": 1749663376,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107451,
       "num": 107451,
       "word": "岳云鹏回应没歌唱",
       "onboard_time": 1749658939,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103347,
+      "num": 142015,
+      "word": "台湾网红馆长大陆直播游感受人情味",
+      "onboard_time": 1749658579,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98745,
@@ -331,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77651,
-      "num": 142015,
-      "word": "台湾网红馆长大陆直播游感受人情味",
-      "onboard_time": 1749658579,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77303,
       "num": 77303,
       "word": "自由女神见了川普都想安个防护窗",
@@ -353,14 +361,6 @@
       "onboard_time": 1749654741,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 76001,
-      "num": 76001,
-      "word": "山东魏桥3比1战胜上海地产",
-      "onboard_time": 1749663376,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 75115,
@@ -451,12 +451,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 46385,
+      "num": 46385,
+      "word": "当地称致女孩失明的水枪非高压水枪",
+      "onboard_time": 1749652524,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43693,
       "num": 43693,
       "word": "郑平安人设",
       "onboard_time": 1749660678,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41319,
+      "num": 41319,
+      "word": "马斯克深夜反悔",
+      "onboard_time": 1749652402,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40356,
@@ -499,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34722,
+      "num": 34722,
+      "word": "山西10岁男孩被害案生父抗诉被驳回",
+      "onboard_time": 1749667875,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 32604,
       "num": 32604,
       "word": "赛车星冰乐",
@@ -515,20 +539,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 32033,
+      "num": 32033,
+      "word": "特朗普向加州增派两千国民警卫队",
+      "onboard_time": 1749675854,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31425,
       "num": 112703,
       "word": "眼见为实打破台湾民众对大陆的信息壁垒",
       "onboard_time": 1749661817,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29035,
-      "num": 29035,
-      "word": "马斯克深夜反悔",
-      "onboard_time": 1749652402,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28312,
@@ -539,28 +563,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 28135,
-      "num": 28135,
-      "word": "当地称致女孩失明的水枪非高压水枪",
-      "onboard_time": 1749652524,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24644,
       "num": 24644,
       "word": "花如月逆天改的是凡人的命",
       "onboard_time": 1749666617,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22741,
-      "num": 22741,
-      "word": "山西10岁男孩被害案生父抗诉被驳回",
-      "onboard_time": 1749667875,
-      "rank": 45,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 22331,
@@ -587,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21416,
+      "num": 28796,
+      "word": "第一次体会到被人撸的小猫",
+      "onboard_time": 1749679755,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18933,
       "num": 63744,
       "word": "绝意好权威的射核",
@@ -595,20 +611,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18874,
+      "num": 28775,
+      "word": "易烊千玺礐嶨和玊",
+      "onboard_time": 1749679755,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 17997,
       "num": 17997,
       "word": "高考生的VIP待遇高考一结束就没了",
       "onboard_time": 1749670874,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16493,
-      "num": 28137,
-      "word": "特朗普向加州增派两千国民警卫队",
-      "onboard_time": 1749675854,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14057,
@@ -651,8 +667,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1771,
-      "num": 58201,
+      "raw_hot": 1963,
+      "num": 108792,
       "word": "这份文明上网攻略请收好",
       "onboard_time": 1749460581,
       "rank": 2,
