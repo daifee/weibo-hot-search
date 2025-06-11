@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749662626264,
+  "endTime": 1749663751466,
   "band_list": [
     {
       "raw_hot": 704399,
@@ -121,6 +121,14 @@
       "onboard_time": 1749645863,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160753,
+      "num": 97504,
+      "word": "泰勒斯威夫特疑秘密结婚",
+      "onboard_time": 1749660020,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 153090,
@@ -249,14 +257,6 @@
       "onboard_time": 1749652823,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92365,
-      "num": 92365,
-      "word": "泰勒斯威夫特疑秘密结婚",
-      "onboard_time": 1749660020,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 89463,
@@ -427,8 +427,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43827,
-      "num": 43827,
+      "raw_hot": 46836,
+      "num": 46836,
       "word": "刘宇宁歌声和长城满月适配度拉满",
       "onboard_time": 1749661036,
       "rank": 36,
@@ -449,6 +449,14 @@
       "onboard_time": 1749642321,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39486,
+      "num": 39486,
+      "word": "山东魏桥3比1战胜上海地产",
+      "onboard_time": 1749663376,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 38883,
@@ -483,20 +491,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32604,
+      "num": 32604,
+      "word": "赛车星冰乐",
+      "onboard_time": 1749663317,
+      "rank": 47,
+      "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 32121,
+      "num": 32121,
+      "word": "EDGM八分钟速推JDG",
+      "onboard_time": 1749662897,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 31425,
+      "num": 112703,
+      "word": "眼见为实打破台湾民众对大陆的信息壁垒",
+      "onboard_time": 1749661817,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28312,
       "num": 111546,
       "word": "非洲农民跨越万里来湖南看袁老师",
       "onboard_time": 1749658640,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 23254,
-      "num": 112703,
-      "word": "眼见为实打破台湾民众对大陆的信息壁垒",
-      "onboard_time": 1749661817,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21865,
