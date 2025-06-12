@@ -1,0 +1,410 @@
+{
+  "runTime": 1749710265652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 759046,
+        "num": 1121447,
+        "word": "邓紫棋6年没有收到版税",
+        "onboard_time": 1749702320,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570522,
+        "num": 570522,
+        "word": "日本投放12万吨2021年的大米",
+        "onboard_time": 1749706401,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8966,
+        "num": 552311,
+        "word": "中国时尚产业盛典",
+        "onboard_time": 1749556760,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 693718,
+        "num": 549638,
+        "word": "张凯毅 请把女厕的马桶取消吧",
+        "onboard_time": 1749694401,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 539372,
+        "num": 539372,
+        "word": "Labubu爆火离不开这四大因素",
+        "onboard_time": 1749698480,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372826,
+        "num": 372826,
+        "word": "碧瑶下线",
+        "onboard_time": 1749702802,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 362802,
+        "num": 362802,
+        "word": "抗癌博主易达去世",
+        "onboard_time": 1749703162,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357632,
+        "num": 357632,
+        "word": "腾讯副总裁回应王者荣耀人机水平",
+        "onboard_time": 1749705080,
+        "rank": 7,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 337400,
+        "num": 337400,
+        "word": "藏海传一句句台词传到台湾",
+        "onboard_time": 1749696981,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227207,
+        "num": 335054,
+        "word": "那尔那茜事件涉及教育公平理应彻查",
+        "onboard_time": 1749708020,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2569852,
+        "num": 334856,
+        "word": "王晓晨回应与俞灏明已婚传闻",
+        "onboard_time": 1749708441,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570588,
+        "num": 334821,
+        "word": "孔孝真",
+        "onboard_time": 1749706581,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334367,
+        "num": 334367,
+        "word": "罗帅宇事件",
+        "onboard_time": 1749698421,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209505,
+        "num": 324251,
+        "word": "美国对抗美国",
+        "onboard_time": 1749706220,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126934,
+        "num": 315265,
+        "word": "夸克发布首个高考志愿大模型",
+        "onboard_time": 1749708080,
+        "rank": 14,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 546682,
+        "num": 288987,
+        "word": "那尔那茜",
+        "onboard_time": 1749707482,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220603,
+        "num": 286000,
+        "word": "邓紫棋 蜂鸟",
+        "onboard_time": 1749706941,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272780,
+        "num": 272780,
+        "word": "19岁男子入室行凶致人重伤被判死缓",
+        "onboard_time": 1749702383,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93648,
+        "num": 233548,
+        "word": "白鹿和曾舜晞满眼都是出片的决心",
+        "onboard_time": 1749709221,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32892,
+        "num": 229563,
+        "word": "走路时用臀部发力能瘦腿吗",
+        "onboard_time": 1749709879,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304818,
+        "num": 228595,
+        "word": "当地回应小米SU7路口连撞多车",
+        "onboard_time": 1749707120,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227391,
+        "num": 227391,
+        "word": "北京出现南方带翅膀大蟑螂正常吗",
+        "onboard_time": 1749702502,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208161,
+        "num": 208161,
+        "word": "两个拍出天价的Labubu都曾经是他的",
+        "onboard_time": 1749684677,
+        "rank": 22,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 203279,
+        "num": 203279,
+        "word": "杨幂不参加酱园弄路演行程",
+        "onboard_time": 1749702921,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203129,
+        "num": 203129,
+        "word": "不要把自己过多生活暴露给别人",
+        "onboard_time": 1749705383,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201832,
+        "num": 201832,
+        "word": "巴西9岁男孩骑猪疾驰上学",
+        "onboard_time": 1749708380,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197215,
+        "num": 197215,
+        "word": "TTG佳心浴室骨折",
+        "onboard_time": 1749708681,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172479,
+        "num": 172479,
+        "word": "谁懂白鹿转圈那一下",
+        "onboard_time": 1749706762,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172267,
+        "num": 172267,
+        "word": "王祖蓝加盟五哈5",
+        "onboard_time": 1749707241,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89179,
+        "num": 165685,
+        "word": "买Labubu买的是什么",
+        "onboard_time": 1749709341,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267777,
+        "num": 164245,
+        "word": "女网红在TikTok总部哭喊账号被封",
+        "onboard_time": 1749701480,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182523,
+        "num": 163655,
+        "word": "看似休息其实很耗气血行为",
+        "onboard_time": 1749699500,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160962,
+        "num": 160962,
+        "word": "去世爷爷的狗狗凌晨独自来找孙女",
+        "onboard_time": 1749703641,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155747,
+        "num": 155747,
+        "word": "迪丽热巴可爱度爆表攻击力为0",
+        "onboard_time": 1749708140,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152514,
+        "num": 152514,
+        "word": "爸爸的花期是从头顶开始凋谢的",
+        "onboard_time": 1749709221,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143915,
+        "num": 143915,
+        "word": "一个视频看懂Labubu的前世今生",
+        "onboard_time": 1749708322,
+        "rank": 35,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 55011,
+        "num": 135582,
+        "word": "南京姐妹俩拖回欲轻生女子获表彰",
+        "onboard_time": 1749708261,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135060,
+        "num": 135060,
+        "word": "祝绪丹加盟五哈5",
+        "onboard_time": 1749709521,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30502,
+        "num": 134030,
+        "word": "美百万女网红诱骗精神病投湖",
+        "onboard_time": 1749710120,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133045,
+        "num": 133045,
+        "word": "罗帅宇妈妈",
+        "onboard_time": 1749707120,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131780,
+        "num": 131780,
+        "word": "小沈阳女儿出道照",
+        "onboard_time": 1749699200,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119559,
+        "num": 119559,
+        "word": "诛仙终于放过碧瑶了",
+        "onboard_time": 1749710061,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 116610,
+        "num": 116610,
+        "word": "樊振东礼貌下班",
+        "onboard_time": 1749708801,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110497,
+        "num": 110497,
+        "word": "台风蝴蝶",
+        "onboard_time": 1749709821,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108694,
+        "num": 108694,
+        "word": "殷世航称每月收入不多",
+        "onboard_time": 1749708921,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104301,
+        "num": 104301,
+        "word": "临江仙直播",
+        "onboard_time": 1749703523,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97335,
+        "num": 97335,
+        "word": "曹颖做到了真正的乘风破浪",
+        "onboard_time": 1749710001,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95048,
+        "num": 95048,
+        "word": "特朗普宣布移民金卡网站上线",
+        "onboard_time": 1749697881,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93222,
+        "num": 93222,
+        "word": "南通炸出冠军天团十二太保坐不住了",
+        "onboard_time": 1749708981,
+        "rank": 48,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 85829,
+        "num": 85829,
+        "word": "猫妈妈让小猫大大方方的",
+        "onboard_time": 1749710240,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是人间正道#"
+    }
+  }
+}

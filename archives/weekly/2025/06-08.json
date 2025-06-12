@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749707027128,
+  "endTime": 1749710265652,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -87,6 +87,14 @@
       "num": 2581554,
       "word": "小沈阳女儿韩国出道",
       "onboard_time": 1749612441,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2569852,
+      "num": 334856,
+      "word": "王晓晨回应与俞灏明已婚传闻",
+      "onboard_time": 1749708441,
       "rank": 10,
       "category": "艺人"
     },
@@ -1779,6 +1787,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 570588,
+      "num": 334821,
+      "word": "孔孝真",
+      "onboard_time": 1749706581,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 570522,
+      "num": 570522,
+      "word": "日本投放12万吨2021年的大米",
+      "onboard_time": 1749706401,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 567672,
       "num": 567672,
       "word": "新中式还得是张柏芝",
@@ -2596,7 +2620,7 @@
     },
     {
       "raw_hot": 431710,
-      "num": 304380,
+      "num": 362802,
       "word": "抗癌博主易达去世",
       "onboard_time": 1749703162,
       "rank": 31,
@@ -3955,6 +3979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304818,
+      "num": 228595,
+      "word": "当地回应小米SU7路口连撞多车",
+      "onboard_time": 1749707120,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304402,
       "num": 304402,
       "word": "labubu炸虾",
@@ -5243,6 +5275,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 227207,
+      "num": 335054,
+      "word": "那尔那茜事件涉及教育公平理应彻查",
+      "onboard_time": 1749708020,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226966,
       "num": 273564,
       "word": "解说称樊振东预判了林诗栋的预判",
@@ -5344,14 +5384,6 @@
       "word": "尹正说快四十了一事无成",
       "onboard_time": 1749446902,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 225199,
-      "num": 225199,
-      "word": "孔孝真",
-      "onboard_time": 1749706581,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -5457,6 +5489,14 @@
       "onboard_time": 1749645802,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220603,
+      "num": 286000,
+      "word": "邓紫棋 蜂鸟",
+      "onboard_time": 1749706941,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 220407,
@@ -5825,6 +5865,14 @@
       "onboard_time": 1749356660,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209505,
+      "num": 324251,
+      "word": "美国对抗美国",
+      "onboard_time": 1749706220,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 209252,
@@ -6203,6 +6251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201832,
+      "num": 201832,
+      "word": "巴西9岁男孩骑猪疾驰上学",
+      "onboard_time": 1749708380,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 201808,
       "num": 201808,
       "word": "九尾恋爱分手",
@@ -6513,6 +6569,14 @@
       "onboard_time": 1749604820,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197215,
+      "num": 197215,
+      "word": "TTG佳心浴室骨折",
+      "onboard_time": 1749708681,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 197150,
@@ -7203,14 +7267,6 @@
       "category": "剧集,教育"
     },
     {
-      "raw_hot": 185346,
-      "num": 185346,
-      "word": "邓紫棋 蜂鸟",
-      "onboard_time": 1749706941,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184507,
       "num": 184507,
       "word": "刘宇宁折腰收官战报",
@@ -7859,12 +7915,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172479,
+      "num": 172479,
+      "word": "谁懂白鹿转圈那一下",
+      "onboard_time": 1749706762,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172267,
       "num": 172267,
       "word": "韦东奕曾回应什么样的孩子适合学数学",
       "onboard_time": 1749353421,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172267,
+      "num": 172267,
+      "word": "王祖蓝加盟五哈5",
+      "onboard_time": 1749707241,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 172208,
@@ -9267,6 +9339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155747,
+      "num": 155747,
+      "word": "迪丽热巴可爱度爆表攻击力为0",
+      "onboard_time": 1749708140,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155516,
       "num": 201521,
       "word": "宋威龙 想起来了全想起来了",
@@ -9433,6 +9513,14 @@
       "onboard_time": 1749683297,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152514,
+      "num": 152514,
+      "word": "爸爸的花期是从头顶开始凋谢的",
+      "onboard_time": 1749709221,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 152296,
@@ -10003,14 +10091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145278,
-      "num": 145278,
-      "word": "谁懂白鹿转圈那一下",
-      "onboard_time": 1749706762,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145205,
       "num": 397074,
       "word": "国之重器不断潜呀潜呀潜",
@@ -10129,6 +10209,14 @@
       "onboard_time": 1749381261,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143915,
+      "num": 143915,
+      "word": "一个视频看懂Labubu的前世今生",
+      "onboard_time": 1749708322,
+      "rank": 35,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 143901,
@@ -10417,14 +10505,6 @@
       "onboard_time": 1749453141,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140270,
-      "num": 140270,
-      "word": "日本投放12万吨2021年的大米",
-      "onboard_time": 1749706401,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 140088,
@@ -10883,6 +10963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 135060,
+      "num": 135060,
+      "word": "祝绪丹加盟五哈5",
+      "onboard_time": 1749709521,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134911,
       "num": 162709,
       "word": "谁的青春不想有一个肖奈啊",
@@ -11057,6 +11145,14 @@
       "onboard_time": 1749631701,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133045,
+      "num": 133045,
+      "word": "罗帅宇妈妈",
+      "onboard_time": 1749707120,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132887,
@@ -11403,14 +11499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128429,
-      "num": 128429,
-      "word": "美国对抗美国",
-      "onboard_time": 1749706220,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128406,
       "num": 128406,
       "word": "69岁奶奶现场观看樊振东比赛",
@@ -11505,6 +11593,14 @@
       "onboard_time": 1749604820,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126934,
+      "num": 315265,
+      "word": "夸克发布首个高考志愿大模型",
+      "onboard_time": 1749708080,
+      "rank": 14,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 126804,
@@ -12011,6 +12107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119559,
+      "num": 119559,
+      "word": "诛仙终于放过碧瑶了",
+      "onboard_time": 1749710061,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 119369,
       "num": 119369,
       "word": "雷军当选沔商总会名誉会长",
@@ -12209,6 +12313,14 @@
       "onboard_time": 1749540262,
       "rank": 44,
       "category": "音乐,教育"
+    },
+    {
+      "raw_hot": 116610,
+      "num": 116610,
+      "word": "樊振东礼貌下班",
+      "onboard_time": 1749708801,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 116475,
@@ -12563,6 +12675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110497,
+      "num": 110497,
+      "word": "台风蝴蝶",
+      "onboard_time": 1749709821,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110314,
       "num": 110314,
       "word": "护师 拿下",
@@ -12641,6 +12761,14 @@
       "onboard_time": 1749370341,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108694,
+      "num": 108694,
+      "word": "殷世航称每月收入不多",
+      "onboard_time": 1749708921,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 108625,
@@ -13075,6 +13203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97335,
+      "num": 97335,
+      "word": "曹颖做到了真正的乘风破浪",
+      "onboard_time": 1749710001,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97280,
       "num": 375754,
       "word": "葫芦娃和他们的新朋友",
@@ -13185,6 +13321,22 @@
       "onboard_time": 1749694340,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93648,
+      "num": 233548,
+      "word": "白鹿和曾舜晞满眼都是出片的决心",
+      "onboard_time": 1749709221,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93222,
+      "num": 93222,
+      "word": "南通炸出冠军天团十二太保坐不住了",
+      "onboard_time": 1749708981,
+      "rank": 48,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 93103,
@@ -13355,6 +13507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89179,
+      "num": 165685,
+      "word": "买Labubu买的是什么",
+      "onboard_time": 1749709341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88989,
       "num": 192872,
       "word": "崀山景区回应父亲无票接生病儿子遇阻",
@@ -13513,6 +13673,14 @@
       "onboard_time": 1749633382,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 85829,
+      "num": 85829,
+      "word": "猫妈妈让小猫大大方方的",
+      "onboard_time": 1749710240,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 85449,
@@ -14851,6 +15019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55011,
+      "num": 135582,
+      "word": "南京姐妹俩拖回欲轻生女子获表彰",
+      "onboard_time": 1749708261,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54937,
       "num": 120225,
       "word": "郭艾伦郭士强参加张镇麟婚礼",
@@ -16091,6 +16267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32892,
+      "num": 229563,
+      "word": "走路时用臀部发力能瘦腿吗",
+      "onboard_time": 1749709879,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 32672,
       "num": 211371,
       "word": "美国黑衣人街头制作燃烧弹",
@@ -16265,6 +16449,14 @@
       "onboard_time": 1749554960,
       "rank": 28,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 30502,
+      "num": 134030,
+      "word": "美百万女网红诱骗精神病投湖",
+      "onboard_time": 1749710120,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 30414,

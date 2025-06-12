@@ -1,7 +1,15 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749707027128,
+  "endTime": 1749710265652,
   "band_list": [
+    {
+      "raw_hot": 2569852,
+      "num": 334856,
+      "word": "王晓晨回应与俞灏明已婚传闻",
+      "onboard_time": 1749708441,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1695675,
       "num": 1695675,
@@ -91,6 +99,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 570588,
+      "num": 334821,
+      "word": "孔孝真",
+      "onboard_time": 1749706581,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 570522,
+      "num": 570522,
+      "word": "日本投放12万吨2021年的大米",
+      "onboard_time": 1749706401,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 556211,
       "num": 384608,
       "word": "看似休息其实很耗气血行为",
@@ -105,6 +129,14 @@
       "onboard_time": 1749688102,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 546682,
+      "num": 288987,
+      "word": "那尔那茜",
+      "onboard_time": 1749707482,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 543037,
@@ -188,7 +220,7 @@
     },
     {
       "raw_hot": 431710,
-      "num": 304380,
+      "num": 362802,
       "word": "抗癌博主易达去世",
       "onboard_time": 1749703162,
       "rank": 31,
@@ -363,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304818,
+      "num": 228595,
+      "word": "当地回应小米SU7路口连撞多车",
+      "onboard_time": 1749707120,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303059,
       "num": 392821,
       "word": "19岁男子入室行凶致人重伤被判死缓",
@@ -451,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227207,
+      "num": 335054,
+      "word": "那尔那茜事件涉及教育公平理应彻查",
+      "onboard_time": 1749708020,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226522,
       "num": 200302,
       "word": "接易烊千玺原价票",
@@ -483,20 +531,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 225199,
-      "num": 225199,
-      "word": "孔孝真",
-      "onboard_time": 1749706581,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221742,
       "num": 221742,
       "word": "樊振东无世排后击败世排第一",
       "onboard_time": 1749633264,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220603,
+      "num": 286000,
+      "word": "邓紫棋 蜂鸟",
+      "onboard_time": 1749706941,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 217840,
@@ -547,6 +595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209505,
+      "num": 324251,
+      "word": "美国对抗美国",
+      "onboard_time": 1749706220,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 207759,
       "num": 207759,
       "word": "张新成万茜领衔主演",
@@ -569,6 +625,14 @@
       "onboard_time": 1749690681,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 201832,
+      "num": 201832,
+      "word": "巴西9岁男孩骑猪疾驰上学",
+      "onboard_time": 1749708380,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 201601,
@@ -603,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197215,
+      "num": 197215,
+      "word": "TTG佳心浴室骨折",
+      "onboard_time": 1749708681,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196877,
       "num": 196877,
       "word": "黄子韬有理有据发飙90秒",
@@ -633,14 +705,6 @@
       "onboard_time": 1749683358,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185346,
-      "num": 185346,
-      "word": "邓紫棋 蜂鸟",
-      "onboard_time": 1749706941,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 181920,
@@ -688,6 +752,22 @@
       "word": "者来女清唱单依纯珠玉",
       "onboard_time": 1749699080,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172479,
+      "num": 172479,
+      "word": "谁懂白鹿转圈那一下",
+      "onboard_time": 1749706762,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172267,
+      "num": 172267,
+      "word": "王祖蓝加盟五哈5",
+      "onboard_time": 1749707241,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -779,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155747,
+      "num": 155747,
+      "word": "迪丽热巴可爱度爆表攻击力为0",
+      "onboard_time": 1749708140,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153990,
       "num": 153990,
       "word": "运动的时候手机最脆弱",
@@ -817,6 +905,14 @@
       "onboard_time": 1749651565,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152514,
+      "num": 152514,
+      "word": "爸爸的花期是从头顶开始凋谢的",
+      "onboard_time": 1749709221,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 151461,
@@ -875,20 +971,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 145278,
-      "num": 145278,
-      "word": "谁懂白鹿转圈那一下",
-      "onboard_time": 1749706762,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145181,
       "num": 168728,
       "word": "野外大熊猫求偶被拍下来了",
       "onboard_time": 1749697520,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143915,
+      "num": 143915,
+      "word": "一个视频看懂Labubu的前世今生",
+      "onboard_time": 1749708322,
+      "rank": 35,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 141933,
@@ -905,14 +1001,6 @@
       "onboard_time": 1749694761,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140270,
-      "num": 140270,
-      "word": "日本投放12万吨2021年的大米",
-      "onboard_time": 1749706401,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139268,
@@ -961,6 +1049,22 @@
       "onboard_time": 1749706520,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135060,
+      "num": 135060,
+      "word": "祝绪丹加盟五哈5",
+      "onboard_time": 1749709521,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133045,
+      "num": 133045,
+      "word": "罗帅宇妈妈",
+      "onboard_time": 1749707120,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131445,
@@ -1019,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128429,
-      "num": 128429,
-      "word": "美国对抗美国",
-      "onboard_time": 1749706220,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 128339,
       "num": 147946,
       "word": "长安的荔枝12",
@@ -1049,6 +1145,14 @@
       "onboard_time": 1749693140,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126934,
+      "num": 315265,
+      "word": "夸克发布首个高考志愿大模型",
+      "onboard_time": 1749708080,
+      "rank": 14,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 126804,
@@ -1163,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119559,
+      "num": 119559,
+      "word": "诛仙终于放过碧瑶了",
+      "onboard_time": 1749710061,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 119368,
       "num": 119368,
       "word": "其实很多工作都挺有意思的",
@@ -1185,6 +1297,14 @@
       "onboard_time": 1749705741,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116610,
+      "num": 116610,
+      "word": "樊振东礼貌下班",
+      "onboard_time": 1749708801,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 115947,
@@ -1219,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110497,
+      "num": 110497,
+      "word": "台风蝴蝶",
+      "onboard_time": 1749709821,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109404,
       "num": 176981,
       "word": "被剑南春与陕历博联名惊艳到了",
@@ -1233,6 +1361,14 @@
       "onboard_time": 1749653662,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108694,
+      "num": 108694,
+      "word": "殷世航称每月收入不多",
+      "onboard_time": 1749708921,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 107274,
@@ -1291,6 +1427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97335,
+      "num": 97335,
+      "word": "曹颖做到了真正的乘风破浪",
+      "onboard_time": 1749710001,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94146,
       "num": 94146,
       "word": "苏超无锡vs常州一票难求",
@@ -1307,12 +1451,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93648,
+      "num": 233548,
+      "word": "白鹿和曾舜晞满眼都是出片的决心",
+      "onboard_time": 1749709221,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93586,
       "num": 93586,
       "word": "孙颖莎所在俱乐部女子第一",
       "onboard_time": 1749652045,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93222,
+      "num": 93222,
+      "word": "南通炸出冠军天团十二太保坐不住了",
+      "onboard_time": 1749708981,
+      "rank": 48,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 93198,
@@ -1363,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89179,
+      "num": 165685,
+      "word": "买Labubu买的是什么",
+      "onboard_time": 1749709341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88879,
       "num": 88879,
       "word": "杨笠成都专场取消",
@@ -1401,6 +1569,14 @@
       "onboard_time": 1749646763,
       "rank": 41,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 85829,
+      "num": 85829,
+      "word": "猫妈妈让小猫大大方方的",
+      "onboard_time": 1749710240,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 84678,
@@ -1675,6 +1851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 55011,
+      "num": 135582,
+      "word": "南京姐妹俩拖回欲轻生女子获表彰",
+      "onboard_time": 1749708261,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52557,
       "num": 134277,
       "word": "未成年人涉三罪情节恶劣不适用减轻处罚",
@@ -1795,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32892,
+      "num": 229563,
+      "word": "走路时用臀部发力能瘦腿吗",
+      "onboard_time": 1749709879,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 32604,
       "num": 32604,
       "word": "赛车星冰乐",
@@ -1833,6 +2025,14 @@
       "onboard_time": 1749687320,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30502,
+      "num": 134030,
+      "word": "美百万女网红诱骗精神病投湖",
+      "onboard_time": 1749710120,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28540,
@@ -1993,6 +2193,14 @@
       "onboard_time": 1749667455,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8966,
+      "num": 552311,
+      "word": "中国时尚产业盛典",
+      "onboard_time": 1749556760,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 4593,
