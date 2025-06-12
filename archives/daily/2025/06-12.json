@@ -1,14 +1,22 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749685254789,
+  "endTime": 1749693651247,
   "band_list": [
     {
-      "raw_hot": 753353,
-      "num": 169540,
+      "raw_hot": 916613,
+      "num": 242691,
       "word": "包文婧封肚",
       "onboard_time": 1749683479,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 874325,
+      "num": 1139892,
+      "word": "两个拍出天价的Labubu都曾经是他的",
+      "onboard_time": 1749684677,
+      "rank": 12,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 704399,
@@ -19,8 +27,24 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 587811,
+      "num": 84774,
+      "word": "韦东奕涨粉速度获世界纪录认证",
+      "onboard_time": 1749686662,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548272,
+      "num": 548272,
+      "word": "同事的工位好有归属感",
+      "onboard_time": 1749688102,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 532548,
-      "num": 142014,
+      "num": 196976,
       "word": "英国水煮遗体排入下水道或将合法化",
       "onboard_time": 1749640223,
       "rank": 20,
@@ -43,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 454544,
+      "num": 238897,
+      "word": "李金金 妍妍酱",
+      "onboard_time": 1749693561,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 444545,
       "num": 168205,
       "word": "阿里离职员工内网发帖",
@@ -51,16 +83,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 419704,
-      "num": 142235,
-      "word": "两个拍出天价的Labubu都曾经是他的",
-      "onboard_time": 1749684677,
-      "rank": 12,
-      "category": "民生新闻,动漫"
-    },
-    {
       "raw_hot": 413429,
-      "num": 178893,
+      "num": 265614,
       "word": "袁隆平墓前多了一袋特殊的稻米",
       "onboard_time": 1749654502,
       "rank": 10,
@@ -83,12 +107,36 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 390678,
+      "num": 390678,
+      "word": "特朗普说不怪马斯克但对其失望",
+      "onboard_time": 1749689721,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 387394,
       "num": 387394,
       "word": "歌手第五期歌单",
       "onboard_time": 1749651981,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386302,
+      "num": 237339,
+      "word": "殷志源将再婚",
+      "onboard_time": 1749689721,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 353054,
+      "num": 353054,
+      "word": "智能眼镜卖爆了",
+      "onboard_time": 1749686300,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 351149,
@@ -105,6 +153,14 @@
       "onboard_time": 1749651264,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325788,
+      "num": 325788,
+      "word": "岳云鹏演唱会票价引争议",
+      "onboard_time": 1749684739,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 300110,
@@ -139,12 +195,52 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 249841,
+      "num": 249841,
+      "word": "王楚钦说低血糖是暂时的不会持续",
+      "onboard_time": 1749686240,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 236705,
+      "num": 256649,
+      "word": "TVB演员再就业长沙摆摊卖咖啡",
+      "onboard_time": 1749691520,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229469,
+      "num": 229469,
+      "word": "山东大哥把风干饺子盘到玉化了",
+      "onboard_time": 1749686480,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221742,
       "num": 221742,
       "word": "樊振东无世排后击败世排第一",
       "onboard_time": 1749633264,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220170,
+      "num": 220170,
+      "word": "周杰 好爽的嘴",
+      "onboard_time": 1749692119,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 217840,
+      "num": 232939,
+      "word": "洛杉矶市中心225人被捕",
+      "onboard_time": 1749685581,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 212616,
@@ -155,12 +251,36 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 208920,
+      "num": 246929,
+      "word": "108万labubu早期收藏者发声",
+      "onboard_time": 1749692180,
+      "rank": 9,
+      "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 202619,
+      "num": 202619,
+      "word": "中国博主开始带原始人爆改部落了",
+      "onboard_time": 1749690681,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 201601,
       "num": 201601,
       "word": "山东魏桥3比1战胜上海地产",
       "onboard_time": 1749663376,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199491,
+      "num": 199491,
+      "word": "藏海传戏服拍卖",
+      "onboard_time": 1749689481,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 198661,
@@ -171,12 +291,28 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 196314,
+      "num": 196314,
+      "word": "广东97年小伙用40只Labubu告白",
+      "onboard_time": 1749691879,
+      "rank": 21,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 188575,
-      "num": 156425,
+      "num": 197581,
       "word": "景甜龙骨焚箱造型",
       "onboard_time": 1749683358,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181920,
+      "num": 181920,
+      "word": "王楚钦wink",
+      "onboard_time": 1749690501,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 179639,
@@ -227,6 +363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152771,
+      "num": 200706,
+      "word": "警方回应一头盔男电梯厅猥亵女子",
+      "onboard_time": 1749683297,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152533,
       "num": 152533,
       "word": "王子璇腰伤退出她的瞳拍摄",
@@ -243,12 +387,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137035,
+      "num": 137035,
+      "word": "连成一片的高温来了",
+      "onboard_time": 1749684080,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130543,
+      "num": 130543,
+      "word": "马斯克深夜反悔",
+      "onboard_time": 1749652402,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128339,
       "num": 147946,
       "word": "长安的荔枝12",
       "onboard_time": 1749680895,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127731,
+      "num": 127731,
+      "word": "夏天做5件事给身体埋下病根",
+      "onboard_time": 1749693140,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126013,
@@ -259,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123717,
+      "num": 123717,
+      "word": "洛杉矶街头3人持枪17人违反宵禁",
+      "onboard_time": 1749688521,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123580,
       "num": 168901,
       "word": "虞书欣父母公司合同纠纷判决书公开",
@@ -267,28 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123341,
-      "num": 123341,
-      "word": "岳云鹏演唱会票价引争议",
-      "onboard_time": 1749684739,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 121023,
       "num": 121023,
       "word": "她的瞳",
       "onboard_time": 1749652644,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120952,
-      "num": 120952,
-      "word": "马斯克深夜反悔",
-      "onboard_time": 1749652402,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119253,
@@ -315,12 +475,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114784,
+      "num": 114784,
+      "word": "宁艺卓与香奈儿的适配度",
+      "onboard_time": 1749693621,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112800,
+      "num": 112800,
+      "word": "900张照片看并蒂莲绽放全程",
+      "onboard_time": 1749691221,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108763,
       "num": 108763,
       "word": "Jiejie回应Bin",
       "onboard_time": 1749653662,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106394,
+      "num": 121894,
+      "word": "GAI 白鸽",
+      "onboard_time": 1749685400,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102584,
+      "num": 102584,
+      "word": "孕期的经历没有人能真正体会到",
+      "onboard_time": 1749686300,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 99539,
+      "num": 99539,
+      "word": "国际油价飙涨超4%",
+      "onboard_time": 1749692420,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 94146,
@@ -363,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90953,
+      "num": 90953,
+      "word": "孟子义说范丞丞看起来比王源大很多",
+      "onboard_time": 1749686961,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89463,
       "num": 89463,
       "word": "李承铉寸头",
@@ -387,12 +595,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87946,
+      "num": 87946,
+      "word": "射击世界杯中国选手再获三连冠",
+      "onboard_time": 1749693199,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85922,
       "num": 85922,
       "word": "李晨晒哥斯拉labubu",
       "onboard_time": 1749646763,
       "rank": 41,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 84678,
+      "num": 84678,
+      "word": "她的瞳男主",
+      "onboard_time": 1749685640,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84586,
+      "num": 84586,
+      "word": "李在明将延续韩国总统腕表定制传统",
+      "onboard_time": 1749687621,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83633,
@@ -539,14 +771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 65860,
-      "num": 65860,
-      "word": "连成一片的高温来了",
-      "onboard_time": 1749684080,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65374,
       "num": 74455,
       "word": "佩洛西回应洛杉矶骚乱",
@@ -568,14 +792,6 @@
       "word": "东莞一学校化学实验课6名学生烧伤",
       "onboard_time": 1749660259,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59818,
-      "num": 59818,
-      "word": "警方回应一头盔男电梯厅猥亵女子",
-      "onboard_time": 1749683297,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -689,6 +905,22 @@
       "onboard_time": 1749661817,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31133,
+      "num": 427902,
+      "word": "万千气象看安徽",
+      "onboard_time": 1749687320,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 28540,
+      "num": 99624,
+      "word": "苏超趣闻两则",
+      "onboard_time": 1749693260,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 28312,
