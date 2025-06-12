@@ -1,7 +1,15 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749695049280,
+  "endTime": 1749698523985,
   "band_list": [
+    {
+      "raw_hot": 1619267,
+      "num": 566467,
+      "word": "张凯毅 请把女厕的马桶取消吧",
+      "onboard_time": 1749694401,
+      "rank": 1,
+      "category": "网红"
+    },
     {
       "raw_hot": 916613,
       "num": 242691,
@@ -27,6 +35,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 638094,
+      "num": 638094,
+      "word": "108万labubu早期收藏者发声",
+      "onboard_time": 1749692180,
+      "rank": 9,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 587811,
       "num": 84774,
       "word": "韦东奕涨粉速度获世界纪录认证",
@@ -41,6 +57,14 @@
       "onboard_time": 1749688102,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 543037,
+      "num": 543037,
+      "word": "哪吒汽车CEO被员工围堵讨薪",
+      "onboard_time": 1749695721,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 532548,
@@ -59,12 +83,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 481174,
-      "num": 481174,
-      "word": "张凯毅 请把女厕的马桶取消吧",
-      "onboard_time": 1749694401,
-      "rank": 1,
-      "category": "网红"
+      "raw_hot": 489951,
+      "num": 489951,
+      "word": "藏海传一句句台词传到台湾",
+      "onboard_time": 1749696981,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 469014,
@@ -75,20 +99,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 461308,
-      "num": 461308,
-      "word": "108万labubu早期收藏者发声",
-      "onboard_time": 1749692180,
-      "rank": 9,
-      "category": "民生新闻,动漫"
-    },
-    {
       "raw_hot": 454544,
       "num": 238897,
       "word": "李金金 妍妍酱",
       "onboard_time": 1749693561,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 445725,
+      "num": 445725,
+      "word": "泡泡玛特",
+      "onboard_time": 1749694460,
+      "rank": 18,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 444545,
@@ -123,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404209,
+      "num": 404209,
+      "word": "周杰伦方回应花30亿台币买4层楼",
+      "onboard_time": 1749695242,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397716,
       "num": 397716,
       "word": "台湾台东5.8级地震",
@@ -145,6 +177,14 @@
       "onboard_time": 1749689721,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385396,
+      "num": 385396,
+      "word": "黄子韬6点起床给羊洗澡",
+      "onboard_time": 1749696561,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 360808,
@@ -171,12 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337000,
+      "num": 219229,
+      "word": "花漾少女杀人事件定档",
+      "onboard_time": 1749696800,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 335350,
       "num": 175159,
       "word": "Mai官宣订婚",
       "onboard_time": 1749651264,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319599,
+      "num": 212627,
+      "word": "焕羽定档",
+      "onboard_time": 1749694580,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 301613,
@@ -235,12 +291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248627,
+      "num": 189764,
+      "word": "易烊千玺广州演唱会演出场所",
+      "onboard_time": 1749696320,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 229469,
       "num": 229469,
       "word": "山东大哥把风干饺子盘到玉化了",
       "onboard_time": 1749686480,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225736,
+      "num": 225736,
+      "word": "新增印尼为中国过境免签适用国家",
+      "onboard_time": 1749695178,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 221742,
@@ -265,6 +337,22 @@
       "onboard_time": 1749641002,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 205364,
+      "num": 153530,
+      "word": "哪吒汽车通知居家办公",
+      "onboard_time": 1749697402,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 204139,
+      "num": 161931,
+      "word": "鹿晗四巡主题色",
+      "onboard_time": 1749696260,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 202619,
@@ -307,12 +395,20 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 192802,
-      "num": 192802,
-      "word": "焕羽定档",
-      "onboard_time": 1749694580,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 195143,
+      "num": 161392,
+      "word": "接易烊千玺原价票",
+      "onboard_time": 1749697280,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 189342,
+      "num": 159903,
+      "word": "妍妍酱回应",
+      "onboard_time": 1749695119,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 188575,
@@ -323,12 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182431,
-      "num": 182431,
-      "word": "泡泡玛特",
-      "onboard_time": 1749694460,
-      "rank": 18,
-      "category": "休闲,动漫"
+      "raw_hot": 187971,
+      "num": 187971,
+      "word": "诛仙",
+      "onboard_time": 1749697821,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 181920,
@@ -363,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167171,
+      "num": 167171,
+      "word": "霸王茶姬口令",
+      "onboard_time": 1749698301,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159415,
       "num": 159415,
       "word": "当地称致女孩失明的水枪非高压水枪",
@@ -385,6 +489,22 @@
       "onboard_time": 1749658939,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153951,
+      "num": 153951,
+      "word": "NBA总决赛",
+      "onboard_time": 1749690741,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153105,
+      "num": 153105,
+      "word": "与藏海大人做邻居女子发声",
+      "onboard_time": 1749696080,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 153090,
@@ -411,6 +531,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146517,
+      "num": 162980,
+      "word": "高仿LABUBU必须被拿下",
+      "onboard_time": 1749693679,
+      "rank": 31,
+      "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 145878,
+      "num": 164157,
+      "word": "预计明后天华南沿海风雨最强",
+      "onboard_time": 1749695480,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141933,
       "num": 141933,
       "word": "樊振东王楚钦今晚无缘交手",
@@ -419,12 +555,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132564,
-      "num": 123589,
-      "word": "高仿LABUBU必须被拿下",
-      "onboard_time": 1749693679,
-      "rank": 31,
-      "category": "民生新闻,动漫"
+      "raw_hot": 141363,
+      "num": 141363,
+      "word": "刘诗诗开屏",
+      "onboard_time": 1749694761,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140185,
+      "num": 140185,
+      "word": "特朗普宣布移民金卡网站上线",
+      "onboard_time": 1749697881,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 139268,
+      "num": 139268,
+      "word": "BLACKPINK1000天空白期",
+      "onboard_time": 1749696680,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 136235,
+      "num": 136235,
+      "word": "野外大熊猫求偶被拍下来了",
+      "onboard_time": 1749697520,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133403,
+      "num": 126007,
+      "word": "李玮锋说国足吃海参被骂因为成绩差",
+      "onboard_time": 1749697100,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 130543,
@@ -467,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125957,
+      "num": 125957,
+      "word": "程靖淇说樊振东打球进入新境界",
+      "onboard_time": 1749695359,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123717,
       "num": 123717,
       "word": "洛杉矶街头3人持枪17人违反宵禁",
@@ -483,6 +659,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122885,
+      "num": 122885,
+      "word": "台湾问题是中国核心利益中的核心",
+      "onboard_time": 1749695781,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 121408,
+      "num": 126059,
+      "word": "罗帅宇事件",
+      "onboard_time": 1749698421,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121170,
       "num": 121170,
       "word": "宁艺卓与香奈儿的适配度",
@@ -496,6 +688,14 @@
       "word": "她的瞳",
       "onboard_time": 1749652644,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119747,
+      "num": 119747,
+      "word": "吴优黄曦彦特别主演",
+      "onboard_time": 1749697520,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -521,6 +721,14 @@
       "onboard_time": 1749655463,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115076,
+      "num": 126007,
+      "word": "全球首富资本家向美国总统权力低头",
+      "onboard_time": 1749696981,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112800,
@@ -579,20 +787,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101714,
-      "num": 101714,
-      "word": "刘诗诗开屏",
-      "onboard_time": 1749694761,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99539,
       "num": 99539,
       "word": "国际油价飙涨超4%",
       "onboard_time": 1749692420,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 98780,
+      "num": 164307,
+      "word": "华人亲历洛杉矶宵禁第一夜",
+      "onboard_time": 1749696920,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94146,
@@ -625,14 +833,6 @@
       "onboard_time": 1749652823,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93144,
-      "num": 93144,
-      "word": "NBA总决赛",
-      "onboard_time": 1749690741,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 93011,
@@ -803,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71670,
+      "num": 121679,
+      "word": "白酒经销商称线上价格乱现货不多",
+      "onboard_time": 1749697039,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69313,
       "num": 69313,
       "word": "藏海传",
@@ -883,6 +1091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 64693,
+      "num": 166614,
+      "word": "殷志源准新娘",
+      "onboard_time": 1749697460,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62086,
       "num": 109548,
       "word": "东莞一学校化学实验课6名学生烧伤",
@@ -937,6 +1153,14 @@
       "onboard_time": 1749667274,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 46481,
+      "num": 142259,
+      "word": "用声音揭秘大牌的丰富细节",
+      "onboard_time": 1749698301,
+      "rank": 32,
+      "category": "时尚"
     },
     {
       "raw_hot": 45125,
@@ -1004,7 +1228,7 @@
     },
     {
       "raw_hot": 31133,
-      "num": 471090,
+      "num": 589168,
       "word": "万千气象看安徽",
       "onboard_time": 1749687320,
       "rank": 2,
@@ -1027,12 +1251,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 25212,
+      "num": 139631,
+      "word": "Labubu爆火离不开这四大因素",
+      "onboard_time": 1749698480,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24644,
       "num": 24644,
       "word": "花如月逆天改的是凡人的命",
       "onboard_time": 1749666617,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23280,
+      "num": 157666,
+      "word": "拍出108万Labubu首任藏家发声",
+      "onboard_time": 1749698301,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22725,
@@ -1057,6 +1297,14 @@
       "onboard_time": 1749651203,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20385,
+      "num": 141517,
+      "word": "租客不告而别被判赔房东空置损失",
+      "onboard_time": 1749698361,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18933,
