@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749698523985,
+  "endTime": 1749699293745,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -1979,6 +1979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 526893,
+      "num": 526893,
+      "word": "藏海传一句句台词传到台湾",
+      "onboard_time": 1749696981,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 526190,
       "num": 526190,
       "word": "宁静快哭了",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1749616163,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 489951,
-      "num": 489951,
-      "word": "藏海传一句句台词传到台湾",
-      "onboard_time": 1749696981,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 489576,
@@ -2403,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 455424,
+      "num": 455424,
+      "word": "泡泡玛特",
+      "onboard_time": 1749544640,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 454544,
       "num": 238897,
       "word": "李金金 妍妍酱",
@@ -2425,14 +2433,6 @@
       "onboard_time": 1749310762,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 445725,
-      "num": 445725,
-      "word": "泡泡玛特",
-      "onboard_time": 1749544640,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 445403,
@@ -2891,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 387458,
+      "num": 387458,
+      "word": "黄子韬6点起床给羊洗澡",
+      "onboard_time": 1749696561,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386302,
       "num": 237339,
       "word": "殷志源将再婚",
@@ -2913,14 +2921,6 @@
       "onboard_time": 1749389183,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 385396,
-      "num": 385396,
-      "word": "黄子韬6点起床给羊洗澡",
-      "onboard_time": 1749696561,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 384963,
@@ -3267,6 +3267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352743,
+      "num": 352743,
+      "word": "花漾少女杀人事件定档",
+      "onboard_time": 1749696800,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 352545,
       "num": 352545,
       "word": "台独分子被曝把台独当成一门生意",
@@ -3441,14 +3449,6 @@
       "onboard_time": 1749442402,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 337000,
-      "num": 219229,
-      "word": "花漾少女杀人事件定档",
-      "onboard_time": 1749696800,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 336564,
@@ -3644,7 +3644,7 @@
     },
     {
       "raw_hot": 319599,
-      "num": 212627,
+      "num": 280002,
       "word": "焕羽定档",
       "onboard_time": 1749694580,
       "rank": 15,
@@ -3825,6 +3825,14 @@
       "onboard_time": 1749475402,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304617,
+      "num": 304617,
+      "word": "诛仙",
+      "onboard_time": 1749697821,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 304402,
@@ -4531,6 +4539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257466,
+      "num": 257466,
+      "word": "易烊千玺广州演唱会演出场所",
+      "onboard_time": 1749696320,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 256330,
       "num": 256330,
       "word": "物化地 高考极速版",
@@ -4697,14 +4713,6 @@
       "onboard_time": 1749367700,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 248627,
-      "num": 189764,
-      "word": "易烊千玺广州演唱会演出场所",
-      "onboard_time": 1749696320,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 248557,
@@ -5131,6 +5139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226522,
+      "num": 194073,
+      "word": "接易烊千玺原价票",
+      "onboard_time": 1749697280,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 226336,
       "num": 226336,
       "word": "吴磊 我的屁股变得开朗了",
@@ -5169,6 +5185,14 @@
       "onboard_time": 1749630381,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 225317,
+      "num": 354190,
+      "word": "特朗普宣布移民金卡网站上线",
+      "onboard_time": 1749697881,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 225281,
@@ -5435,6 +5459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 215511,
+      "num": 215511,
+      "word": "高仿LABUBU必须被拿下",
+      "onboard_time": 1749693679,
+      "rank": 31,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 215276,
       "num": 459452,
       "word": "台网红说去看看大陆高铁有没有靠背",
@@ -5569,6 +5601,14 @@
       "onboard_time": 1749653662,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211812,
+      "num": 193118,
+      "word": "鹿晗四巡主题色",
+      "onboard_time": 1749696260,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 211467,
@@ -5756,7 +5796,7 @@
     },
     {
       "raw_hot": 205364,
-      "num": 153530,
+      "num": 194766,
       "word": "哪吒汽车通知居家办公",
       "onboard_time": 1749697402,
       "rank": 30,
@@ -5825,14 +5865,6 @@
       "onboard_time": 1749526041,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 204139,
-      "num": 161931,
-      "word": "鹿晗四巡主题色",
-      "onboard_time": 1749696260,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 203728,
@@ -6379,20 +6411,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195143,
-      "num": 161392,
-      "word": "接易烊千玺原价票",
-      "onboard_time": 1749697280,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 195077,
       "num": 195077,
       "word": "新一卷数学大题 难",
       "onboard_time": 1749288745,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 194959,
+      "num": 194959,
+      "word": "罗帅宇事件",
+      "onboard_time": 1749698421,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194733,
@@ -6785,14 +6817,6 @@
       "onboard_time": 1749513559,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187971,
-      "num": 187971,
-      "word": "诛仙",
-      "onboard_time": 1749697821,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 187884,
@@ -7617,6 +7641,14 @@
       "onboard_time": 1749369861,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172597,
+      "num": 157252,
+      "word": "者来女清唱单依纯珠玉",
+      "onboard_time": 1749699080,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 172267,
@@ -8811,6 +8843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157901,
+      "num": 157901,
+      "word": "NBA总决赛",
+      "onboard_time": 1749690741,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157853,
       "num": 192893,
       "word": "范丞丞孟子义迷迷糊糊撒出可爱",
@@ -9043,14 +9083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153951,
-      "num": 153951,
-      "word": "NBA总决赛",
-      "onboard_time": 1749690741,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153852,
       "num": 153852,
       "word": "无畏状态",
@@ -9209,6 +9241,14 @@
       "onboard_time": 1749622520,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151461,
+      "num": 151461,
+      "word": "李玮锋说国足吃海参被骂因为成绩差",
+      "onboard_time": 1749697100,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 151374,
@@ -9507,6 +9547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146877,
+      "num": 146877,
+      "word": "雷霆vs步行者",
+      "onboard_time": 1749690621,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146810,
       "num": 146810,
       "word": "全运会奖牌名为同心跃",
@@ -9523,6 +9571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146637,
+      "num": 192444,
+      "word": "预计明后天华南沿海风雨最强",
+      "onboard_time": 1749695480,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146601,
       "num": 146601,
       "word": "北京高考英语作文",
@@ -9537,14 +9593,6 @@
       "onboard_time": 1749355340,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146517,
-      "num": 162980,
-      "word": "高仿LABUBU必须被拿下",
-      "onboard_time": 1749693679,
-      "rank": 31,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 146389,
@@ -9617,14 +9665,6 @@
       "onboard_time": 1749651682,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 145878,
-      "num": 164157,
-      "word": "预计明后天华南沿海风雨最强",
-      "onboard_time": 1749695480,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145844,
@@ -9776,6 +9816,14 @@
       "word": "网警提醒当心你的隐私被共享",
       "onboard_time": 1749604162,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144274,
+      "num": 144274,
+      "word": "野外大熊猫求偶被拍下来了",
+      "onboard_time": 1749697520,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -10073,14 +10121,6 @@
       "onboard_time": 1749453141,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140185,
-      "num": 140185,
-      "word": "特朗普宣布移民金卡网站上线",
-      "onboard_time": 1749697881,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 140088,
@@ -10395,14 +10435,6 @@
       "category": "幽默,教育"
     },
     {
-      "raw_hot": 136235,
-      "num": 136235,
-      "word": "野外大熊猫求偶被拍下来了",
-      "onboard_time": 1749697520,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136228,
       "num": 136228,
       "word": "小铜宝",
@@ -10433,6 +10465,14 @@
       "onboard_time": 1749543321,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 135897,
+      "num": 135897,
+      "word": "步行者2比1雷霆",
+      "onboard_time": 1749699141,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 135840,
@@ -10665,14 +10705,6 @@
       "onboard_time": 1749512718,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 133403,
-      "num": 126007,
-      "word": "李玮锋说国足吃海参被骂因为成绩差",
-      "onboard_time": 1749697100,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 133247,
@@ -11099,6 +11131,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126487,
+      "num": 126487,
+      "word": "小沈阳女儿出道照",
+      "onboard_time": 1749699200,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126426,
+      "num": 126426,
+      "word": "台湾问题是中国核心利益中的核心",
+      "onboard_time": 1749695781,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126255,
       "num": 126255,
       "word": "高考结束的那一刻是什么感觉",
@@ -11153,6 +11201,14 @@
       "onboard_time": 1749435921,
       "rank": 44,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 125162,
+      "num": 125162,
+      "word": "土耳其将向印尼出口48架第五代战机",
+      "onboard_time": 1749697881,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124816,
@@ -11307,14 +11363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122885,
-      "num": 122885,
-      "word": "台湾问题是中国核心利益中的核心",
-      "onboard_time": 1749695781,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 122872,
       "num": 122872,
       "word": "辛纳大满贯20连胜遭终结",
@@ -11435,14 +11483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121408,
-      "num": 126059,
-      "word": "罗帅宇事件",
-      "onboard_time": 1749698421,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121332,
       "num": 121332,
       "word": "朱志鑫披荆斩棘5上班",
@@ -11473,6 +11513,14 @@
       "onboard_time": 1749567682,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120495,
+      "num": 120495,
+      "word": "军校学霸4年减重50斤还获直博资格",
+      "onboard_time": 1749698600,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 120447,
@@ -11553,6 +11601,14 @@
       "onboard_time": 1749606440,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 119368,
+      "num": 119368,
+      "word": "其实很多工作都挺有意思的",
+      "onboard_time": 1749698301,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 119299,
@@ -11820,7 +11876,7 @@
     },
     {
       "raw_hot": 115076,
-      "num": 126007,
+      "num": 130359,
       "word": "全球首富资本家向美国总统权力低头",
       "onboard_time": 1749696981,
       "rank": 41,
@@ -13523,6 +13579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72577,
+      "num": 166614,
+      "word": "殷志源准新娘",
+      "onboard_time": 1749697460,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72469,
       "num": 274561,
       "word": "对符合条件高校毕业生予以社保补贴",
@@ -13899,14 +13963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 64693,
-      "num": 166614,
-      "word": "殷志源准新娘",
-      "onboard_time": 1749697460,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64661,
       "num": 279347,
       "word": "意大利人凌晨3点排队买LABUBU",
@@ -13969,6 +14025,14 @@
       "onboard_time": 1749315083,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62676,
+      "num": 258382,
+      "word": "租客不告而别被判赔房东空置损失",
+      "onboard_time": 1749698361,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62507,
@@ -14171,6 +14235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57587,
+      "num": 158746,
+      "word": "用声音揭秘大牌的丰富细节",
+      "onboard_time": 1749698301,
+      "rank": 32,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 57542,
       "num": 408973,
       "word": "宁波一家企业内部号召员工当卧底",
@@ -14257,6 +14329,14 @@
       "onboard_time": 1749540140,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 55935,
+      "num": 194664,
+      "word": "Labubu爆火离不开这四大因素",
+      "onboard_time": 1749698480,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55849,
@@ -14633,14 +14713,6 @@
       "onboard_time": 1749554061,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46481,
-      "num": 142259,
-      "word": "用声音揭秘大牌的丰富细节",
-      "onboard_time": 1749698301,
-      "rank": 32,
-      "category": "时尚"
     },
     {
       "raw_hot": 46358,
@@ -16011,14 +16083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25212,
-      "num": 139631,
-      "word": "Labubu爆火离不开这四大因素",
-      "onboard_time": 1749698480,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25153,
       "num": 273151,
       "word": "年轻人如何克服理发店羞耻症",
@@ -16329,14 +16393,6 @@
       "onboard_time": 1749395543,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 20385,
-      "num": 141517,
-      "word": "租客不告而别被判赔房东空置损失",
-      "onboard_time": 1749698361,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19961,
