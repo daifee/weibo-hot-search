@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/08 00:30:01 ~ 2025/06/13 01:42:41
+本榜单时间：2025/06/08 00:30:01 ~ 2025/06/13 04:28:59
 </p>
 </blockquote>
 <p>
@@ -8625,6 +8625,12 @@ JOY朴秀荣开球（热度：150003）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E5%B9%B8%E5%AD%98%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
+印度坠机事故幸存者发声（热度：144060）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E7%9C%8B%E6%87%82Labubu%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F%23" target="weibo">
 一个视频看懂Labubu的前世今生（热度：143915）
 </a>
@@ -14397,6 +14403,12 @@ iOS26都有哪些更新（热度：27645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%8C%81%E7%BB%AD2%E5%B9%B4%E6%AF%8F%E6%9C%88%E6%BC%82%E6%9F%93%E5%A4%B4%E5%8F%91%E5%8F%8C%E8%85%BF%E9%95%BF%E7%B4%AB%E6%96%91%23" target="weibo">
+女生持续2年每月漂染头发双腿长紫斑（热度：23633）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%BE%86%E7%9A%AE%E5%8D%A1%E4%B8%BA%E6%8A%97%E8%AE%AE%E8%80%85%E6%8B%89%E6%9D%A5%E5%A4%A7%E6%89%B9%E8%A3%85%E5%A4%87%23" target="weibo">
 一辆皮卡为抗议者拉来大批装备（热度：23580）
 </a>
@@ -14757,6 +14769,12 @@ labubu能有多少装扮（热度：20526）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%BD%AE%E7%8E%A9%E6%B5%B7%E5%A4%96%E7%88%86%E7%81%AB%23" target="weibo">
+外交部回应中国潮玩海外爆火（热度：17373）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%E5%A4%A9%E6%B0%94%E5%A6%82%E4%BD%95%E7%A5%9B%E6%9A%91%E8%B4%A5%E7%81%AB%23" target="weibo">
 高温天气如何祛暑败火（热度：17206）
 </a>
@@ -14943,6 +14961,12 @@ AI会是iPhone的短板吗（热度：13563）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A4%96%E9%95%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
+印度外长发声（热度：13476）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%88%B0%E6%97%A0%E8%81%8A%E5%AF%B9%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%98%AF%E5%90%A6%E6%98%AF%E4%BB%B6%E5%A5%BD%E4%BA%8B%23" target="weibo">
 感到无聊对心理健康是否是件好事（热度：13434）
 </a>
@@ -14993,6 +15017,12 @@ mbti的气质会随时间改变吗（热度：13134）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A3%92%E6%A3%92%E7%88%B6%E4%BA%B2%E5%AF%B9%E9%AB%98%E8%80%83%E5%84%BF%E5%AD%90%E8%AF%B4%E5%8A%A0%E6%B2%B9%E5%8A%A0%E6%B2%B9%E5%8A%A0%E6%B2%B9%23" target="weibo">
 棒棒父亲对高考儿子说加油加油加油（热度：12377）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E6%88%96%E6%9C%89%E6%9B%B4%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A4%BA%E5%A8%81%23" target="weibo">
+纽约或有更大规模示威（热度：12286）
 </a>
 </li>
 
