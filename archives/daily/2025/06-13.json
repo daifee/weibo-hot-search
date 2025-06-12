@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749760139746,
+  "endTime": 1749760993870,
   "band_list": [
     {
       "raw_hot": 5565200,
@@ -147,6 +147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 160085,
+      "num": 160085,
+      "word": "印度坠机事故幸存者发声",
+      "onboard_time": 1749751756,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155058,
       "num": 155058,
       "word": "刘诗诗戴非遗绒花",
@@ -161,14 +169,6 @@
       "onboard_time": 1749739883,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144060,
-      "num": 144060,
-      "word": "印度坠机事故幸存者发声",
-      "onboard_time": 1749751756,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141097,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20407,
+      "num": 45446,
+      "word": "纽约或有更大规模示威",
+      "onboard_time": 1749759134,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17373,
       "num": 17373,
       "word": "外交部回应中国潮玩海外爆火",
@@ -491,7 +499,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13476,
+      "raw_hot": 13764,
       "num": 17349,
       "word": "印度外长发声",
       "onboard_time": 1749753314,
@@ -499,16 +507,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 12286,
-      "num": 45446,
-      "word": "纽约或有更大规模示威",
-      "onboard_time": 1749759134,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 7792,
-      "num": 153671,
+      "num": 160586,
       "word": "网警提醒高考结束仍需警惕",
       "onboard_time": 1749730224,
       "rank": 2,

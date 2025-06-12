@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749760139746,
+  "endTime": 1749760993870,
   "band_list": [
     {
       "raw_hot": 11601503,
@@ -9987,6 +9987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160085,
+      "num": 160085,
+      "word": "印度坠机事故幸存者发声",
+      "onboard_time": 1749751756,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160030,
       "num": 160030,
       "word": "WE晋级败者组半决赛",
@@ -11481,14 +11489,6 @@
       "onboard_time": 1749726741,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144060,
-      "num": 144060,
-      "word": "印度坠机事故幸存者发声",
-      "onboard_time": 1749751756,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143915,
@@ -19435,6 +19435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 20407,
+      "num": 45446,
+      "word": "纽约或有更大规模示威",
+      "onboard_time": 1749759134,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 19961,
       "num": 328076,
       "word": "为何压力大会引起消化系统疾病",
@@ -19915,6 +19923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13764,
+      "num": 17349,
+      "word": "印度外长发声",
+      "onboard_time": 1749753314,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13563,
       "num": 230109,
       "word": "AI会是iPhone的短板吗",
@@ -19929,14 +19945,6 @@
       "onboard_time": 1749544401,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13476,
-      "num": 17349,
-      "word": "印度外长发声",
-      "onboard_time": 1749753314,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13434,
@@ -20009,14 +20017,6 @@
       "onboard_time": 1749328873,
       "rank": 49,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 12286,
-      "num": 45446,
-      "word": "纽约或有更大规模示威",
-      "onboard_time": 1749759134,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 12200,

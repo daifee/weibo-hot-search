@@ -1,0 +1,410 @@
+{
+  "runTime": 1749760993870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 234459,
+        "num": 234459,
+        "word": "入户大厅脚臭味超1个月找不到源头",
+        "onboard_time": 1749743783,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162468,
+        "num": 162468,
+        "word": "印度坠机事故中发现一名幸存者",
+        "onboard_time": 1749723563,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 7779,
+        "num": 160586,
+        "word": "网警提醒高考结束仍需警惕",
+        "onboard_time": 1749730224,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160085,
+        "num": 160085,
+        "word": "印度坠机事故幸存者发声",
+        "onboard_time": 1749751756,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133959,
+        "num": 133959,
+        "word": "印航母公司为每名死者赔一千万卢比",
+        "onboard_time": 1749743961,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74743,
+        "num": 74743,
+        "word": "众星发文力挺邓紫棋",
+        "onboard_time": 1749726323,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60131,
+        "num": 60131,
+        "word": "一架波音787客机印度坠毁",
+        "onboard_time": 1749718401,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50023,
+        "num": 50023,
+        "word": "网红妍妍酱账号已私密",
+        "onboard_time": 1749747379,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43946,
+        "num": 43946,
+        "word": "印度坠机事故致超290人死亡",
+        "onboard_time": 1749743422,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42154,
+        "num": 42154,
+        "word": "郑钦文vs凯斯勒",
+        "onboard_time": 1749749297,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113884,
+        "num": 40193,
+        "word": "湘雅二医院两年间给罗帅宇转账40多万",
+        "onboard_time": 1749736282,
+        "rank": 10,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 45824,
+        "num": 39239,
+        "word": "孟子义方严正声明",
+        "onboard_time": 1749741081,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42766,
+        "num": 38279,
+        "word": "易梦玲怎么又变样了",
+        "onboard_time": 1749734663,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35154,
+        "num": 35154,
+        "word": "全球首架因空难全损波音787",
+        "onboard_time": 1749731960,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34633,
+        "num": 34633,
+        "word": "章子怡夸赵丽颖短发帅气西林",
+        "onboard_time": 1749742221,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33991,
+        "num": 33991,
+        "word": "坠机幸存者为英国籍",
+        "onboard_time": 1749745521,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33334,
+        "num": 33334,
+        "word": "印度客机坠毁全程监控首曝光",
+        "onboard_time": 1749744262,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33118,
+        "num": 33118,
+        "word": "印度坠毁航班号为AI171",
+        "onboard_time": 1749722303,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28019,
+        "num": 28019,
+        "word": "兰香如故原著作者维权",
+        "onboard_time": 1749746898,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25076,
+        "num": 27222,
+        "word": "王子文红毯摔倒",
+        "onboard_time": 1749731722,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 26972,
+        "num": 26972,
+        "word": "乘客曝印度坠机前序航班异常",
+        "onboard_time": 1749741563,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26181,
+        "num": 26181,
+        "word": "印度坠机黑匣子已找到",
+        "onboard_time": 1749747199,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24650,
+        "num": 24650,
+        "word": "红果崩了",
+        "onboard_time": 1749739402,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24636,
+        "num": 24636,
+        "word": "王迅 欠他们的工钱真的太不应该",
+        "onboard_time": 1749729082,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22440,
+        "num": 22440,
+        "word": "台湾网红馆长说两岸城市差太多没法比",
+        "onboard_time": 1749728961,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22144,
+        "num": 22144,
+        "word": "女生持续2年每月漂染头发双腿长紫斑",
+        "onboard_time": 1749751756,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21412,
+        "num": 21412,
+        "word": "印度坠机已致地面5名医学生遇难",
+        "onboard_time": 1749735743,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19362,
+        "num": 20971,
+        "word": "郑晓龙压不住的嘴角",
+        "onboard_time": 1749748756,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19104,
+        "num": 20817,
+        "word": "孟子义黑天使造型",
+        "onboard_time": 1749732923,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16729,
+        "num": 20771,
+        "word": "Red女团韩国初舞台",
+        "onboard_time": 1749745041,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20765,
+        "num": 20765,
+        "word": "大四男生一口气收8个offer年薪20万",
+        "onboard_time": 1749729381,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20549,
+        "num": 20549,
+        "word": "男子上户口意外发现女儿非亲生",
+        "onboard_time": 1749719602,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20407,
+        "num": 20407,
+        "word": "纽约或有更大规模示威",
+        "onboard_time": 1749759134,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19658,
+        "num": 19658,
+        "word": "已婚名校博士后谎称单身骗多名女子",
+        "onboard_time": 1749739284,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19422,
+        "num": 19422,
+        "word": "2元消毒餐具爬出活虫频现头发油渍",
+        "onboard_time": 1749742943,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18969,
+        "num": 18969,
+        "word": "印度坠机幸存者已与家属通话",
+        "onboard_time": 1749743002,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18623,
+        "num": 18623,
+        "word": "王者荣耀",
+        "onboard_time": 1749734542,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17915,
+        "num": 17915,
+        "word": "荔枝",
+        "onboard_time": 1749714861,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17342,
+        "num": 17342,
+        "word": "印度坠毁飞机仅飞了五分钟",
+        "onboard_time": 1749725424,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17281,
+        "num": 17281,
+        "word": "一学期瘦了70斤生活的变化",
+        "onboard_time": 1749732742,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16977,
+        "num": 16977,
+        "word": "警方介入罗帅宇举报医疗腐败",
+        "onboard_time": 1749727641,
+        "rank": 40,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 16427,
+        "num": 16427,
+        "word": "外交部回应中国潮玩海外爆火",
+        "onboard_time": 1749756314,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16348,
+        "num": 16348,
+        "word": "lafufu",
+        "onboard_time": 1749731182,
+        "rank": 42,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 16227,
+        "num": 16227,
+        "word": "台湾网红馆长说不怕岛内媒体修理",
+        "onboard_time": 1749738923,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15943,
+        "num": 16227,
+        "word": "印度坠机现场已找到至少30具遗体",
+        "onboard_time": 1749734602,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14921,
+        "num": 16226,
+        "word": "曾舜晞劝删恋爱脑图",
+        "onboard_time": 1749739883,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14738,
+        "num": 16222,
+        "word": "蔡文静做完皮秒被自己吓到",
+        "onboard_time": 1749724101,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13862,
+        "num": 16222,
+        "word": "最好的感情是双向奔赴",
+        "onboard_time": 1749747858,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13764,
+        "num": 16220,
+        "word": "印度外长发声",
+        "onboard_time": 1749753314,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13557,
+        "num": 16218,
+        "word": "藏海一直在做选择",
+        "onboard_time": 1749736524,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是人间正道#"
+    }
+  }
+}
