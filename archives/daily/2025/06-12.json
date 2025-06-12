@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749732759518,
+  "endTime": 1749733724247,
   "band_list": [
     {
       "raw_hot": 11601503,
@@ -27,19 +27,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2114716,
+      "num": 2114716,
+      "word": "印度坠机242人全部遇难",
+      "onboard_time": 1749723563,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2073522,
       "num": 2073522,
       "word": "印度坠机已致110死",
       "onboard_time": 1749723563,
       "rank": 5,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1924738,
-      "num": 1924738,
-      "word": "印度坠机242人全部遇难",
-      "onboard_time": 1749723563,
-      "rank": 1,
       "category": "海外新闻"
     },
     {
@@ -163,6 +163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 904196,
+      "num": 904196,
+      "word": "B站崩了",
+      "onboard_time": 1749725662,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 895852,
+      "num": 895852,
+      "word": "COSMO盛典",
+      "onboard_time": 1749731423,
+      "rank": 6,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 878391,
       "num": 1100444,
       "word": "李荣浩力挺邓紫棋",
@@ -179,28 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 867281,
-      "num": 867281,
-      "word": "B站崩了",
-      "onboard_time": 1749725662,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 831124,
       "num": 392697,
       "word": "山东12岁女孩遭侵害致精神失常",
       "onboard_time": 1749710720,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 815198,
-      "num": 815198,
-      "word": "COSMO盛典",
-      "onboard_time": 1749731423,
-      "rank": 6,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 747457,
@@ -225,6 +225,14 @@
       "onboard_time": 1749654383,
       "rank": 0,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 703004,
+      "num": 703004,
+      "word": "王子文红毯摔倒",
+      "onboard_time": 1749731722,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 638094,
@@ -411,7 +419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 462668,
+      "raw_hot": 468951,
       "num": 462668,
       "word": "王迅 欠他们的工钱真的太不应该",
       "onboard_time": 1749729082,
@@ -433,6 +441,14 @@
       "onboard_time": 1749693561,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 452177,
+      "num": 452177,
+      "word": "全球首架因空难全损波音787",
+      "onboard_time": 1749731960,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 446074,
@@ -481,14 +497,6 @@
       "onboard_time": 1749689721,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 418021,
-      "num": 418021,
-      "word": "王子文红毯摔倒",
-      "onboard_time": 1749731722,
-      "rank": 12,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 417672,
@@ -851,12 +859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259466,
+      "num": 299886,
+      "word": "大四男生一口气收8个offer年薪20万",
+      "onboard_time": 1749729381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258945,
       "num": 258945,
       "word": "台湾网红馆长说两岸城市差太多没法比",
       "onboard_time": 1749728961,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258462,
+      "num": 258462,
+      "word": "我玩光与夜之恋四年了",
+      "onboard_time": 1749733043,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 257466,
@@ -873,14 +897,6 @@
       "onboard_time": 1749646642,
       "rank": 23,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 256334,
-      "num": 299886,
-      "word": "大四男生一口气收8个offer年薪20万",
-      "onboard_time": 1749729381,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255563,
@@ -1059,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224141,
+      "num": 396035,
+      "word": "外媒称印度飞机在医生宿舍坠毁",
+      "onboard_time": 1749729623,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 221742,
       "num": 221742,
       "word": "樊振东无世排后击败世排第一",
@@ -1100,7 +1124,7 @@
     },
     {
       "raw_hot": 214922,
-      "num": 339906,
+      "num": 357576,
       "word": "enhypen一位",
       "onboard_time": 1749728182,
       "rank": 37,
@@ -1275,12 +1299,12 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 193734,
-      "num": 193734,
-      "word": "全球首架因空难全损波音787",
-      "onboard_time": 1749731960,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 195895,
+      "num": 195895,
+      "word": "一学期瘦了70斤生活的变化",
+      "onboard_time": 1749732742,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 193716,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1749695119,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 188756,
+      "num": 215949,
+      "word": "孟子义黑天使造型",
+      "onboard_time": 1749732923,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 188575,
@@ -1571,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162591,
+      "num": 212368,
+      "word": "COSMO盛典女明星造型",
+      "onboard_time": 1749732623,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 162420,
       "num": 336216,
       "word": "陆柯燃 没有一只鸭子能飞出南京",
@@ -1585,14 +1625,6 @@
       "onboard_time": 1749723502,
       "rank": 44,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 159721,
-      "num": 395151,
-      "word": "外媒称印度飞机在医生宿舍坠毁",
-      "onboard_time": 1749729623,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 159450,
@@ -1763,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149834,
+      "num": 149834,
+      "word": "魏晨张远18年后芒果同台",
+      "onboard_time": 1749728722,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148319,
       "num": 236921,
       "word": "建议全国外卖小哥都吻上来",
@@ -1787,20 +1827,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147559,
-      "num": 147559,
-      "word": "魏晨张远18年后芒果同台",
-      "onboard_time": 1749728722,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147478,
       "num": 147478,
       "word": "披荆斩棘的导演让苏醒释怀些",
       "onboard_time": 1749730701,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147422,
+      "num": 258510,
+      "word": "王嘉尔朋友圈的风吹到了宝莱坞",
+      "onboard_time": 1749732262,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 146949,
@@ -1947,12 +1987,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 138892,
-      "num": 193852,
-      "word": "王嘉尔朋友圈的风吹到了宝莱坞",
-      "onboard_time": 1749732262,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 138829,
+      "num": 138829,
+      "word": "印媒称坠毁飞机为波音787",
+      "onboard_time": 1749732923,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 138677,
@@ -1985,6 +2025,14 @@
       "onboard_time": 1749718581,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136645,
+      "num": 136645,
+      "word": "台风",
+      "onboard_time": 1749730522,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136643,
@@ -2035,6 +2083,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134572,
+      "num": 134572,
+      "word": "光启市四周年直播",
+      "onboard_time": 1749733043,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 133770,
+      "num": 272238,
+      "word": "吴宣仪真被翟潇闻争到了",
+      "onboard_time": 1749732863,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133604,
       "num": 133604,
       "word": "丘成桐点评韦神",
@@ -2051,20 +2115,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132838,
+      "num": 132838,
+      "word": "四川一女子网上应聘工作被推荐做代孕",
+      "onboard_time": 1749733282,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 132697,
       "num": 132697,
       "word": "00后真是各过各的",
       "onboard_time": 1749720562,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131792,
-      "num": 131792,
-      "word": "COSMO盛典女明星造型",
-      "onboard_time": 1749732623,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131445,
@@ -2113,6 +2177,14 @@
       "onboard_time": 1749706880,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129029,
+      "num": 129029,
+      "word": "大家把早睡放在第一位",
+      "onboard_time": 1749730822,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128828,
@@ -2243,14 +2315,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124666,
-      "num": 124666,
-      "word": "一学期瘦了70斤生活的变化",
-      "onboard_time": 1749732742,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 123937,
       "num": 133754,
       "word": "M712十一周年庆",
@@ -2329,14 +2393,6 @@
       "onboard_time": 1749652644,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120658,
-      "num": 120658,
-      "word": "大家把早睡放在第一位",
-      "onboard_time": 1749730822,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 120495,
@@ -2955,6 +3011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79411,
+      "num": 140260,
+      "word": "音熊联萌BW",
+      "onboard_time": 1749732863,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 78864,
       "num": 140971,
       "word": "印度电视节目现场专家互殴",
@@ -3339,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44162,
+      "num": 201393,
+      "word": "流浪拉布拉多身上插箭疑遭射伤",
+      "onboard_time": 1749731960,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44126,
       "num": 226890,
       "word": "出租车别停公交车竟称是乘客要求",
@@ -3369,14 +3441,6 @@
       "onboard_time": 1749703881,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 41754,
-      "num": 193743,
-      "word": "流浪拉布拉多身上插箭疑遭射伤",
-      "onboard_time": 1749731960,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41266,
@@ -3771,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17425,
+      "num": 407061,
+      "word": "美多家组织计划阅兵日举行抗议活动",
+      "onboard_time": 1749733102,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16961,
       "num": 110945,
       "word": "这才是高考后实用的建议",
@@ -3793,6 +3865,14 @@
       "onboard_time": 1749669254,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13059,
+      "num": 132933,
+      "word": "大狗闯进村民家中咬伤3岁女童",
+      "onboard_time": 1749733702,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12114,

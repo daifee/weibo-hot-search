@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/12 20:52:39
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/12 21:08:44
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ iOS26 丑（热度：2160228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA242%E4%BA%BA%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE%23" target="weibo">
+印度坠机242人全部遇难（热度：2114716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%8D%E9%98%B2%E6%99%92%E7%9A%84%E9%98%B2%E6%99%92%E8%A1%A3%23" target="weibo">
 央视曝光不防晒的防晒衣（热度：2102829）
 </a>
@@ -425,12 +431,6 @@ iOS26 丑（热度：2160228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E4%B8%89%E4%BA%9A%E8%A2%AB%E8%9B%87%E5%92%AC%E4%BC%A4%E8%BA%AB%E4%BA%A1%23" target="weibo">
 27岁女游客在三亚被蛇咬伤身亡（热度：1966637）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA242%E4%BA%BA%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE%23" target="weibo">
-印度坠机242人全部遇难（热度：1924738）
 </a>
 </li>
 
@@ -1833,6 +1833,12 @@ labubu（热度：930311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B4%A9%E4%BA%86%23" target="weibo">
+B站崩了（热度：904196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%B1%9F%E8%B0%81%E5%85%81%E8%AE%B8%E4%BD%A0%E5%8F%98%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
 宋江谁允许你变成这样了（热度：903105）
 </a>
@@ -1853,6 +1859,12 @@ labubu（热度：930311）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E6%89%98%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E7%9A%84%E8%80%83%E7%94%9F%23" target="weibo">
 拜托高考第一个出考场的考生（热度：898375）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23COSMO%E7%9B%9B%E5%85%B8%23" target="weibo">
+COSMO盛典（热度：895852）
 </a>
 </li>
 
@@ -1931,12 +1943,6 @@ aespa回归预告（热度：882775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%87%20%E4%B8%8B%E8%AF%BE%23" target="weibo">
 伊万 下课（热度：869877）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B4%A9%E4%BA%86%23" target="weibo">
-B站崩了（热度：867281）
 </a>
 </li>
 
@@ -2087,12 +2093,6 @@ AL战胜BLG（热度：859667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%23" target="weibo">
 蜜雪冰城（热度：815668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23COSMO%E7%9B%9B%E5%85%B8%23" target="weibo">
-COSMO盛典（热度：815198）
 </a>
 </li>
 
@@ -2615,6 +2615,12 @@ COSMO盛典（热度：815198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%B2%A4%E6%98%8E%E7%82%AE%E8%BD%B0%E5%9B%BD%E8%B6%B3%E6%95%99%E7%BB%83%23" target="weibo">
 潘粤明炮轰国足教练（热度：704399）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E7%BA%A2%E6%AF%AF%E6%91%94%E5%80%92%23" target="weibo">
+王子文红毯摔倒（热度：703004）
 </a>
 </li>
 
@@ -4617,6 +4623,12 @@ IU车银优双人cha（热度：474153）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%BF%85%20%E6%AC%A0%E4%BB%96%E4%BB%AC%E7%9A%84%E5%B7%A5%E9%92%B1%E7%9C%9F%E7%9A%84%E5%A4%AA%E4%B8%8D%E5%BA%94%E8%AF%A5%23" target="weibo">
+王迅 欠他们的工钱真的太不应该（热度：468951）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Monki%E5%A5%BD%E5%BC%BA%23" target="weibo">
 Monki好强（热度：468905）
 </a>
@@ -4709,12 +4721,6 @@ WE战胜TES（热度：463130）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%92%AC%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%B7%B2%E6%9C%89%E6%AD%BB%E4%BA%A1%E8%AF%8A%E6%96%AD%23" target="weibo">
 被咬身亡女子家属称已有死亡诊断（热度：462772）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%BF%85%20%E6%AC%A0%E4%BB%96%E4%BB%AC%E7%9A%84%E5%B7%A5%E9%92%B1%E7%9C%9F%E7%9A%84%E5%A4%AA%E4%B8%8D%E5%BA%94%E8%AF%A5%23" target="weibo">
-王迅 欠他们的工钱真的太不应该（热度：462668）
 </a>
 </li>
 
@@ -4817,6 +4823,12 @@ WE战胜TES（热度：463130）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%A6%E4%B9%98%E9%A3%8E%E8%88%9E%E5%8F%B0%23" target="weibo">
 年度乘风舞台（热度：452661）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%9E%B6%E5%9B%A0%E7%A9%BA%E9%9A%BE%E5%85%A8%E6%8D%9F%E6%B3%A2%E9%9F%B3787%23" target="weibo">
+全球首架因空难全损波音787（热度：452177）
 </a>
 </li>
 
@@ -5231,12 +5243,6 @@ Labubu联名款被炒至2.8万（热度：432471）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AA%E5%B7%AE1%E5%88%86%E9%92%9F%E8%BF%9B%E4%B8%8D%E5%8E%BB%E8%80%83%E5%9C%BA%E4%BA%86%23" target="weibo">
 只差1分钟进不去考场了（热度：418383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E7%BA%A2%E6%AF%AF%E6%91%94%E5%80%92%23" target="weibo">
-王子文红毯摔倒（热度：418021）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TFBOYS为易烊千玺楔石打call（热度：376105）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E8%B7%AF%E7%9B%B4%E5%87%BB2025%E9%AB%98%E8%80%83%E7%8E%B0%E5%9C%BA%23" target="weibo">
 多路直击2025高考现场（热度：373477）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%851%E4%B8%AA%E7%9C%81%E8%B8%A2%E5%87%BA13%E7%9C%81PK%E7%9A%84%E6%84%9F%E8%A7%89%23" target="weibo">
-苏超1个省踢出13省PK的感觉（热度：373325）
 </a>
 </li>
 

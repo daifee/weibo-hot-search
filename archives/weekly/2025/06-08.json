@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749732759518,
+  "endTime": 1749733724247,
   "band_list": [
     {
       "raw_hot": 11601503,
@@ -179,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2114716,
+      "num": 2114716,
+      "word": "印度坠机242人全部遇难",
+      "onboard_time": 1749723563,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2102829,
       "num": 2102829,
       "word": "央视曝光不防晒的防晒衣",
@@ -225,14 +233,6 @@
       "onboard_time": 1749369081,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1924738,
-      "num": 1924738,
-      "word": "印度坠机242人全部遇难",
-      "onboard_time": 1749723563,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1916030,
@@ -1035,12 +1035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 904196,
+      "num": 904196,
+      "word": "B站崩了",
+      "onboard_time": 1749725662,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 903105,
       "num": 494889,
       "word": "宋江谁允许你变成这样了",
       "onboard_time": 1749562162,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 895852,
+      "num": 895852,
+      "word": "COSMO盛典",
+      "onboard_time": 1749731423,
+      "rank": 6,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 894899,
@@ -1113,14 +1129,6 @@
       "onboard_time": 1749724101,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 867281,
-      "num": 867281,
-      "word": "B站崩了",
-      "onboard_time": 1749725662,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 862938,
@@ -1225,14 +1233,6 @@
       "onboard_time": 1749641002,
       "rank": 32,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 815198,
-      "num": 815198,
-      "word": "COSMO盛典",
-      "onboard_time": 1749731423,
-      "rank": 6,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 812564,
@@ -1505,6 +1505,14 @@
       "onboard_time": 1749654383,
       "rank": 12,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 703004,
+      "num": 703004,
+      "word": "王子文红毯摔倒",
+      "onboard_time": 1749731722,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 700451,
@@ -2627,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468951,
+      "num": 462668,
+      "word": "王迅 欠他们的工钱真的太不应该",
+      "onboard_time": 1749729082,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468905,
       "num": 468905,
       "word": "Monki好强",
@@ -2683,14 +2699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 462668,
-      "num": 462668,
-      "word": "王迅 欠他们的工钱真的太不应该",
-      "onboard_time": 1749729082,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 459656,
       "num": 545652,
       "word": "景甜张彬彬二搭龙骨焚箱",
@@ -2745,6 +2753,14 @@
       "onboard_time": 1749310762,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 452177,
+      "num": 452177,
+      "word": "全球首架因空难全损波音787",
+      "onboard_time": 1749731960,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 446074,
@@ -2977,14 +2993,6 @@
       "onboard_time": 1749451641,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 418021,
-      "num": 418021,
-      "word": "王子文红毯摔倒",
-      "onboard_time": 1749731722,
-      "rank": 12,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 417672,
@@ -5059,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259466,
+      "num": 299886,
+      "word": "大四男生一口气收8个offer年薪20万",
+      "onboard_time": 1749729381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259124,
       "num": 284572,
       "word": "李雪琴免费听了半年陈昊宇演唱会",
@@ -5073,6 +5089,14 @@
       "onboard_time": 1749728961,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258462,
+      "num": 258462,
+      "word": "我玩光与夜之恋四年了",
+      "onboard_time": 1749733043,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 258453,
@@ -5113,14 +5137,6 @@
       "onboard_time": 1749696320,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 256334,
-      "num": 299886,
-      "word": "大四男生一口气收8个offer年薪20万",
-      "onboard_time": 1749729381,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 256330,
@@ -5939,6 +5955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224141,
+      "num": 396035,
+      "word": "外媒称印度飞机在医生宿舍坠毁",
+      "onboard_time": 1749729623,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 224027,
       "num": 224027,
       "word": "教资",
@@ -6212,7 +6236,7 @@
     },
     {
       "raw_hot": 214922,
-      "num": 339906,
+      "num": 357576,
       "word": "enhypen一位",
       "onboard_time": 1749728182,
       "rank": 37,
@@ -7235,6 +7259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 195895,
+      "num": 195895,
+      "word": "一学期瘦了70斤生活的变化",
+      "onboard_time": 1749732742,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195643,
       "num": 195643,
       "word": "程潇 怀胎井离我远点",
@@ -7297,14 +7329,6 @@
       "onboard_time": 1749444564,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193734,
-      "num": 193734,
-      "word": "全球首架因空难全损波音787",
-      "onboard_time": 1749731960,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 193716,
@@ -7640,6 +7664,14 @@
       "word": "SMTR25墨西哥旅行照",
       "onboard_time": 1749464902,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188756,
+      "num": 215949,
+      "word": "孟子义黑天使造型",
+      "onboard_time": 1749732923,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -9491,6 +9523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162591,
+      "num": 212368,
+      "word": "COSMO盛典女明星造型",
+      "onboard_time": 1749732623,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 162533,
       "num": 162533,
       "word": "咸雪",
@@ -9729,14 +9769,6 @@
       "onboard_time": 1749619222,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 159721,
-      "num": 395151,
-      "word": "外媒称印度飞机在医生宿舍坠毁",
-      "onboard_time": 1749729623,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 159602,
@@ -10523,6 +10555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149834,
+      "num": 149834,
+      "word": "魏晨张远18年后芒果同台",
+      "onboard_time": 1749728722,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149630,
       "num": 149630,
       "word": "管泽元 看好WE",
@@ -10699,14 +10739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147559,
-      "num": 147559,
-      "word": "魏晨张远18年后芒果同台",
-      "onboard_time": 1749728722,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147505,
       "num": 147505,
       "word": "2025乒超联赛第一阶段竞赛日程表",
@@ -10721,6 +10753,14 @@
       "onboard_time": 1749730701,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147422,
+      "num": 258510,
+      "word": "王嘉尔朋友圈的风吹到了宝莱坞",
+      "onboard_time": 1749732262,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 147392,
@@ -11547,12 +11587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138892,
-      "num": 193852,
-      "word": "王嘉尔朋友圈的风吹到了宝莱坞",
-      "onboard_time": 1749732262,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 138829,
+      "num": 138829,
+      "word": "印媒称坠毁飞机为波音787",
+      "onboard_time": 1749732923,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 138824,
@@ -12003,6 +12043,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 134572,
+      "num": 134572,
+      "word": "光启市四周年直播",
+      "onboard_time": 1749733043,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134547,
       "num": 134547,
       "word": "中国男排vs日本男排",
@@ -12049,6 +12097,14 @@
       "onboard_time": 1749655223,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133770,
+      "num": 272238,
+      "word": "吴宣仪真被翟潇闻争到了",
+      "onboard_time": 1749732863,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 133717,
@@ -12139,6 +12195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132838,
+      "num": 132838,
+      "word": "四川一女子网上应聘工作被推荐做代孕",
+      "onboard_time": 1749733282,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 132697,
       "num": 132697,
       "word": "00后真是各过各的",
@@ -12209,14 +12273,6 @@
       "onboard_time": 1749626361,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131792,
-      "num": 131792,
-      "word": "COSMO盛典女明星造型",
-      "onboard_time": 1749732623,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131583,
@@ -12433,6 +12489,14 @@
       "onboard_time": 1749534860,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129029,
+      "num": 129029,
+      "word": "大家把早睡放在第一位",
+      "onboard_time": 1749730822,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128990,
@@ -12753,14 +12817,6 @@
       "onboard_time": 1749537080,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124666,
-      "num": 124666,
-      "word": "一学期瘦了70斤生活的变化",
-      "onboard_time": 1749732742,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 124566,
@@ -13097,14 +13153,6 @@
       "onboard_time": 1749567682,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120658,
-      "num": 120658,
-      "word": "大家把早睡放在第一位",
-      "onboard_time": 1749730822,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 120495,
@@ -15315,6 +15363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79411,
+      "num": 140260,
+      "word": "音熊联萌BW",
+      "onboard_time": 1749732863,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 79198,
       "num": 284431,
       "word": "抓到一只憋笑失败的樊振东",
@@ -16907,6 +16963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44162,
+      "num": 201393,
+      "word": "流浪拉布拉多身上插箭疑遭射伤",
+      "onboard_time": 1749731960,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44126,
       "num": 226890,
       "word": "出租车别停公交车竟称是乘客要求",
@@ -17072,14 +17136,6 @@
       "word": "当地回应水污染致大量秧苗死亡",
       "onboard_time": 1749360500,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41754,
-      "num": 193743,
-      "word": "流浪拉布拉多身上插箭疑遭射伤",
-      "onboard_time": 1749731960,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -18955,6 +19011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17425,
+      "num": 407061,
+      "word": "美多家组织计划阅兵日举行抗议活动",
+      "onboard_time": 1749733102,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17206,
       "num": 325496,
       "word": "高温天气如何祛暑败火",
@@ -19217,6 +19281,14 @@
       "onboard_time": 1749388342,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13059,
+      "num": 132933,
+      "word": "大狗闯进村民家中咬伤3岁女童",
+      "onboard_time": 1749733702,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13030,
