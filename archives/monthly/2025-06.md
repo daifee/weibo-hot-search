@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/13 05:38:26
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/13 06:25:09
 </p>
 </blockquote>
 <p>
@@ -1931,6 +1931,12 @@ COSMO盛典（热度：895852）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E9%99%8D%E4%BB%B7%23" target="weibo">
 星巴克降价（热度：890368）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E5%B9%B8%E5%AD%98%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
+印度坠机事故幸存者发声（热度：889161）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ labubu芭莎盛典表演嘉宾（热度：378173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E7%96%91%E4%B8%8E%E7%94%B7%E5%8F%8B%E7%A7%98%E5%AF%86%E7%BB%93%E5%A9%9A%23" target="weibo">
 霉霉疑与男友秘密结婚（热度：377039）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B0%8F%E5%AD%A9%E6%98%AF%E7%8F%8D%E7%A8%80%E5%8A%A8%E7%89%A9%E6%80%8E%E4%B9%88%E8%BF%98%E8%83%BD%E5%BC%84%E4%B8%A2%23" target="weibo">
-韩国小孩是珍稀动物怎么还能弄丢（热度：376953）
 </a>
 </li>
 
