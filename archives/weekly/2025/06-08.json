@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749736242767,
+  "endTime": 1749738403723,
   "band_list": [
     {
       "raw_hot": 11601503,
@@ -57,6 +57,14 @@
       "onboard_time": 1749640463,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 4240112,
+      "num": 4240112,
+      "word": "印度坠机事故中发现一名幸存者",
+      "onboard_time": 1749723563,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2810225,
@@ -145,6 +153,14 @@
       "onboard_time": 1749472281,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2366197,
+      "num": 2366197,
+      "word": "湘雅二医院两年间给罗帅宇转账40多万",
+      "onboard_time": 1749736282,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2232988,
@@ -755,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1065703,
+      "num": 527214,
+      "word": "易梦玲怎么又变样了",
+      "onboard_time": 1749734663,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1065163,
       "num": 1160659,
       "word": "洛杉矶警方承认局面已失控",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1749442762,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 826985,
+      "num": 826985,
+      "word": "警方介入罗帅宇举报医疗腐败",
+      "onboard_time": 1749727641,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 815668,
@@ -1835,14 +1867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 598624,
-      "num": 598624,
-      "word": "警方介入罗帅宇举报医疗腐败",
-      "onboard_time": 1749727641,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 597835,
       "num": 597835,
       "word": "加州州长含泪喊话加州民众",
@@ -1985,14 +2009,6 @@
       "onboard_time": 1749712639,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 571832,
-      "num": 527214,
-      "word": "易梦玲怎么又变样了",
-      "onboard_time": 1749734663,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 571273,
@@ -2457,6 +2473,14 @@
       "onboard_time": 1749523459,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498919,
+      "num": 498919,
+      "word": "张雪峰喊话高考后挑扁担回家女孩",
+      "onboard_time": 1749735263,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 497410,
@@ -4051,6 +4075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 326564,
+      "num": 326564,
+      "word": "藏海一直在做选择",
+      "onboard_time": 1749736524,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324571,
       "num": 324571,
       "word": "为救女儿生下的儿子也患罕见遗传病",
@@ -4473,14 +4505,6 @@
       "onboard_time": 1749441442,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 295234,
-      "num": 295234,
-      "word": "张雪峰喊话高考后挑扁担回家女孩",
-      "onboard_time": 1749735263,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 295204,
@@ -5051,6 +5075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 262760,
+      "num": 262760,
+      "word": "刘诗诗成时尚活动打卡点",
+      "onboard_time": 1749736104,
+      "rank": 32,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 262733,
       "num": 262733,
       "word": "TVB演员再就业长沙摆摊卖咖啡",
@@ -5200,6 +5232,14 @@
       "word": "ITZY与JYP协商续约",
       "onboard_time": 1749457581,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 256286,
+      "num": 256286,
+      "word": "72岁赵雅芝生图",
+      "onboard_time": 1749736583,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -9019,6 +9059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169288,
+      "num": 218869,
+      "word": "印度坠机现场已找到至少30具遗体",
+      "onboard_time": 1749734602,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 169140,
       "num": 275829,
       "word": "新建改扩建1000所以上优质普通高中",
@@ -9257,14 +9305,6 @@
       "onboard_time": 1749475282,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166766,
-      "num": 166766,
-      "word": "刘诗诗成时尚活动打卡点",
-      "onboard_time": 1749736104,
-      "rank": 32,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 166302,
@@ -9593,14 +9633,6 @@
       "onboard_time": 1749441803,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 162627,
-      "num": 218869,
-      "word": "印度坠机现场已找到至少30具遗体",
-      "onboard_time": 1749734602,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 162595,
@@ -10283,6 +10315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154938,
+      "num": 154938,
+      "word": "光与夜之恋兑换码",
+      "onboard_time": 1749737844,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154919,
       "num": 172138,
       "word": "光遇",
@@ -10409,6 +10449,14 @@
       "onboard_time": 1749715460,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153298,
+      "num": 272238,
+      "word": "吴宣仪真被翟潇闻争到了",
+      "onboard_time": 1749732863,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 153279,
@@ -10843,6 +10891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147818,
+      "num": 317213,
+      "word": "四川一女子网上应聘工作被推荐做代孕",
+      "onboard_time": 1749733282,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 147725,
       "num": 147725,
       "word": "高考历史答案",
@@ -11145,6 +11201,14 @@
       "onboard_time": 1749479964,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145188,
+      "num": 185304,
+      "word": "泡泡玛特回应餐厅售卖Labubu芝麻糊",
+      "onboard_time": 1749737663,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 145181,
@@ -11563,14 +11627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140762,
-      "num": 272238,
-      "word": "吴宣仪真被翟潇闻争到了",
-      "onboard_time": 1749732863,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140727,
       "num": 140727,
       "word": "檀健次加绒摇",
@@ -11673,14 +11729,6 @@
       "onboard_time": 1749620424,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139290,
-      "num": 317213,
-      "word": "四川一女子网上应聘工作被推荐做代孕",
-      "onboard_time": 1749733282,
-      "rank": 45,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 139270,
@@ -12435,6 +12483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131421,
+      "num": 131421,
+      "word": "中C 周安信",
+      "onboard_time": 1749737483,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131237,
       "num": 131237,
       "word": "男生第1个出考场狂拍家长",
@@ -12619,6 +12675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129294,
+      "num": 129294,
+      "word": "中国双航母西太平洋训练引全球关注",
+      "onboard_time": 1749737003,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129096,
       "num": 129096,
       "word": "范丞丞害怕玩梗玩不过沈腾",
@@ -12777,6 +12841,14 @@
       "onboard_time": 1749693140,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 127538,
+      "num": 127538,
+      "word": "时代少年团大连",
+      "onboard_time": 1749737963,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 127439,
@@ -13019,6 +13091,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 123899,
+      "num": 123899,
+      "word": "朱一龙肌肉拉丝",
+      "onboard_time": 1749736462,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123853,
       "num": 290883,
       "word": "广东一老板往凉茶里放布洛芬被判刑",
@@ -13217,6 +13297,14 @@
       "onboard_time": 1749401178,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122059,
+      "num": 122059,
+      "word": "不一样的世界冠军林高远",
+      "onboard_time": 1749737365,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 121948,
@@ -14201,6 +14289,14 @@
       "onboard_time": 1749715520,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 105600,
+      "num": 256557,
+      "word": "高考完独自挑行李回家女生再发声",
+      "onboard_time": 1749737365,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105463,
@@ -16137,6 +16233,14 @@
       "onboard_time": 1749481403,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 64623,
+      "num": 148328,
+      "word": "林高远说团魂燃烧不熄",
+      "onboard_time": 1749737365,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 64463,
@@ -18411,6 +18515,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 28247,
+      "num": 186219,
+      "word": "美国正从中东撤回非必要外交人员",
+      "onboard_time": 1749737663,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28008,
       "num": 411124,
       "word": "筷子多久换一次",
@@ -19321,6 +19433,14 @@
       "onboard_time": 1749717502,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14971,
+      "num": 256863,
+      "word": "医美精致术后图保真吗",
+      "onboard_time": 1749737304,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14843,
