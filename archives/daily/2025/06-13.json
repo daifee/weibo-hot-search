@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749768196220,
+  "endTime": 1749770708139,
   "band_list": [
     {
       "raw_hot": 5565200,
@@ -11,8 +11,16 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1667420,
-      "num": 1667420,
+      "raw_hot": 1779682,
+      "num": 1779682,
+      "word": "印度坠机事故幸存者发声",
+      "onboard_time": 1749751756,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1728699,
+      "num": 1728699,
       "word": "入户大厅脚臭味超1个月找不到源头",
       "onboard_time": 1749743783,
       "rank": 1,
@@ -25,14 +33,6 @@
       "onboard_time": 1749736282,
       "rank": 10,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 1259514,
-      "num": 1259514,
-      "word": "印度坠机事故幸存者发声",
-      "onboard_time": 1749751756,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 794616,
@@ -75,8 +75,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 429289,
-      "num": 429289,
+      "raw_hot": 447948,
+      "num": 447948,
       "word": "众星发文力挺邓紫棋",
       "onboard_time": 1749726323,
       "rank": 7,
@@ -107,8 +107,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 235529,
-      "num": 235529,
+      "raw_hot": 239983,
+      "num": 239983,
       "word": "印度坠机事故致超290人死亡",
       "onboard_time": 1749743422,
       "rank": 18,
@@ -121,6 +121,14 @@
       "onboard_time": 1749741563,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210961,
+      "num": 210961,
+      "word": "全球首架因空难全损波音787",
+      "onboard_time": 1749731960,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 202881,
@@ -139,19 +147,43 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 198230,
-      "num": 198230,
-      "word": "全球首架因空难全损波音787",
-      "onboard_time": 1749731960,
-      "rank": 17,
-      "category": "海外新闻"
+      "raw_hot": 196731,
+      "num": 196731,
+      "word": "郑晓龙压不住的嘴角",
+      "onboard_time": 1749748756,
+      "rank": 46,
+      "category": "剧集"
     },
     {
-      "raw_hot": 170145,
-      "num": 170145,
+      "raw_hot": 194053,
+      "num": 194053,
+      "word": "大四男生一口气收8个offer年薪20万",
+      "onboard_time": 1749729381,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186697,
+      "num": 186697,
       "word": "印度坠毁航班号为AI171",
       "onboard_time": 1749722303,
       "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 183273,
+      "num": 183273,
+      "word": "网红妍妍酱账号已私密",
+      "onboard_time": 1749747379,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 173396,
+      "num": 212783,
+      "word": "印度客机起飞坠毁画面公布",
+      "onboard_time": 1749770058,
+      "rank": 9,
       "category": "海外新闻"
     },
     {
@@ -169,6 +201,14 @@
       "onboard_time": 1749739883,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142141,
+      "num": 218725,
+      "word": "印度坠机黑匣子已找到",
+      "onboard_time": 1749747199,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141097,
@@ -203,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127280,
+      "num": 127280,
+      "word": "女生持续2年每月漂染头发双腿长紫斑",
+      "onboard_time": 1749751756,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127167,
       "num": 127167,
       "word": "印度坠机幸存者已与家属通话",
@@ -227,28 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119764,
-      "num": 119764,
+      "raw_hot": 121532,
+      "num": 121532,
       "word": "警方介入罗帅宇举报医疗腐败",
       "onboard_time": 1749727641,
       "rank": 27,
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 116644,
-      "num": 116644,
-      "word": "网红妍妍酱账号已私密",
-      "onboard_time": 1749747379,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 114139,
-      "num": 114139,
-      "word": "郑晓龙压不住的嘴角",
-      "onboard_time": 1749748756,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 114316,
+      "num": 114316,
+      "word": "男子上户口意外发现女儿非亲生",
+      "onboard_time": 1749719602,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113982,
@@ -259,8 +299,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108326,
+      "num": 108326,
+      "word": "董宇辉说高考不理想不必过于懊恼",
+      "onboard_time": 1749763933,
+      "rank": 44,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 107981,
-      "num": 107981,
+      "num": 130037,
       "word": "兰香如故原著作者维权",
       "onboard_time": 1749746898,
       "rank": 26,
@@ -331,36 +379,36 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 94585,
-      "num": 94585,
-      "word": "大四男生一口气收8个offer年薪20万",
-      "onboard_time": 1749729381,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 87985,
+      "num": 87985,
+      "word": "郑晓龙透露将拍关于故宫的古装剧",
+      "onboard_time": 1749770239,
+      "rank": 28,
+      "category": "剧集"
     },
     {
-      "raw_hot": 89216,
-      "num": 218725,
-      "word": "印度坠机黑匣子已找到",
-      "onboard_time": 1749747199,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 86700,
+      "num": 86700,
+      "word": "王迅 欠他们的工钱真的太不应该",
+      "onboard_time": 1749729082,
+      "rank": 38,
+      "category": "艺人"
     },
     {
-      "raw_hot": 87413,
-      "num": 87413,
-      "word": "董宇辉说高考不理想不必过于懊恼",
-      "onboard_time": 1749763933,
-      "rank": 44,
-      "category": "互联网,教育"
+      "raw_hot": 85286,
+      "num": 87875,
+      "word": "邓紫棋含泪控诉遭前公司PUA",
+      "onboard_time": 1749768557,
+      "rank": 29,
+      "category": "艺人"
     },
     {
-      "raw_hot": 85288,
-      "num": 85288,
-      "word": "男子上户口意外发现女儿非亲生",
-      "onboard_time": 1749719602,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 83929,
+      "num": 83929,
+      "word": "印度坠机已致地面5名医学生遇难",
+      "onboard_time": 1749735743,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82898,
@@ -371,36 +419,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82809,
+      "num": 82809,
+      "word": "郑钦文草地赛季开门红",
+      "onboard_time": 1749770239,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82074,
       "num": 82074,
       "word": "名侦探柯南新兰发糖",
       "onboard_time": 1749746898,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 81824,
-      "num": 81824,
-      "word": "王迅 欠他们的工钱真的太不应该",
-      "onboard_time": 1749729082,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 81515,
-      "num": 81515,
-      "word": "印度坠机已致地面5名医学生遇难",
-      "onboard_time": 1749735743,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 78657,
-      "num": 78657,
-      "word": "女生持续2年每月漂染头发双腿长紫斑",
-      "onboard_time": 1749751756,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78465,
@@ -467,11 +499,51 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 58743,
+      "num": 89863,
+      "word": "伊朗防长威胁将袭击中东美军基地",
+      "onboard_time": 1749761294,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57898,
       "num": 62451,
       "word": "金靖评论周柯宇痴心妄想鬼",
       "onboard_time": 1749734183,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 56558,
+      "num": 56558,
+      "word": "郑钦文2比1凯斯勒",
+      "onboard_time": 1749770119,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56404,
+      "num": 56404,
+      "word": "田曦薇深V吊带印花裙",
+      "onboard_time": 1749767957,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 49018,
+      "num": 49018,
+      "word": "labubu",
+      "onboard_time": 1749770540,
+      "rank": 45,
+      "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 47009,
+      "num": 47009,
+      "word": "王晓晨啥意思",
+      "onboard_time": 1749721044,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -491,20 +563,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 29213,
-      "num": 32212,
-      "word": "伊朗防长威胁将袭击中东美军基地",
-      "onboard_time": 1749761294,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 22163,
-      "num": 32200,
-      "word": "田曦薇深V吊带印花裙",
-      "onboard_time": 1749767957,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 21675,
+      "num": 840893,
+      "word": "网警提醒高考结束仍需警惕",
+      "onboard_time": 1749730224,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20407,
@@ -528,14 +592,6 @@
       "word": "当事女子回应网上招聘工作被推荐代孕",
       "onboard_time": 1749761533,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14236,
-      "num": 765225,
-      "word": "网警提醒高考结束仍需警惕",
-      "onboard_time": 1749730224,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
