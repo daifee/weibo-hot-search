@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/12 17:28:40
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/12 17:42:54
 </p>
 </blockquote>
 <p>
@@ -437,6 +437,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E5%BC%9F%E5%BC%9F%E5%B7%B2%E4%B8%8E%E5%85%B6%E9%80%9A%E8%A7%86%E9%A2%91%E7%94%B5%E8%AF%9D%23" target="weibo">
 王星弟弟已与其通视频电话（热度：11656509）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%23" target="weibo">
+一架飞机在印度坠毁（热度：11601503）
 </a>
 </li>
 
@@ -953,12 +959,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E5%A6%82%E5%90%AC%E4%BB%99%E4%B9%90%E8%80%B3%E6%9A%82%E6%98%8E%23" target="weibo">
 单依纯 如听仙乐耳暂明（热度：6624460）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%23" target="weibo">
-一架飞机在印度坠毁（热度：6588113）
 </a>
 </li>
 

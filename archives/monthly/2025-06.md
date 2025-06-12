@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/12 17:28:40
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/12 17:42:54
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
 高考语文（热度：14898891）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%23" target="weibo">
+一架飞机在印度坠毁（热度：11601503）
 </a>
 </li>
 
@@ -83,12 +89,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%23" target="weibo">
 歌手排名（热度：6673464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%23" target="weibo">
-一架飞机在印度坠毁（热度：6588113）
 </a>
 </li>
 
@@ -1103,6 +1103,12 @@ afternoon怎么变形（热度：1248150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%9E%97%E8%AF%97%E6%A0%8B%23" target="weibo">
 樊振东vs林诗栋（热度：1207400）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%B0%91%E8%88%AA%E5%B1%80%E7%A1%AE%E8%AE%A4%E6%9C%BA%E4%B8%8A246%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+印度民航局确认机上246人遇难（热度：1204689）
 </a>
 </li>
 
@@ -4317,6 +4323,12 @@ WTT大满贯取消强制参赛（热度：498839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%AA%92%E7%A7%B0%E5%9D%A0%E6%AF%81%E5%AE%A2%E6%9C%BA%E8%BD%BD%E6%9C%89242%E4%BA%BA%23" target="weibo">
+印媒称坠毁客机载有242人（热度：485490）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E8%BE%A3%E8%83%BD%E5%8A%9B%E4%BC%9A%E9%80%80%E5%8C%96%23" target="weibo">
 吃辣能力会退化（热度：485137）
 </a>
@@ -5571,6 +5583,12 @@ WE对战JDG（热度：395870）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E7%9B%94%E7%94%B7%E6%8A%B1%E5%8E%8B%E7%8C%A5%E4%BA%B5%E5%A5%B3%E5%AD%90%E6%9C%89%E4%B8%A4%E4%B8%AA%E7%96%91%E7%82%B9%23" target="weibo">
+头盔男抱压猥亵女子有两个疑点（热度：390270）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E9%97%B9%E7%9F%9B%E7%9B%BE1%E4%BA%BA%E6%89%94%E7%83%A7%E7%83%A4%E7%AD%BE%E6%89%8E%E8%BF%9B%E5%90%8C%E4%BA%8B%E8%84%96%E5%AD%90%23" target="weibo">
 因闹矛盾1人扔烧烤签扎进同事脖子（热度：389745）
 </a>
@@ -5993,24 +6011,6 @@ TFBOYS为易烊千玺楔石打call（热度：376105）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E6%A0%B9%E5%BF%83%E7%AE%80%20%E4%BA%91%E5%8C%85%E5%9C%BA%23" target="weibo">
 七根心简 云包场（热度：365310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%8F%8B%E6%94%BFvs%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
-黄友政vs樊振东（热度：364790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B9%92%E8%B6%85%E4%BB%A3%E8%A1%A8%E8%BF%90%E5%8A%A8%E5%91%98%E5%AE%A3%E8%AA%93%23" target="weibo">
-孙颖莎乒超代表运动员宣誓（热度：364622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AB%98%E8%80%83%E5%8E%86%E5%8F%B2%E5%81%9A%E5%B1%80%E4%BA%86%23" target="weibo">
-被高考历史做局了（热度：364506）
 </a>
 </li>
 
