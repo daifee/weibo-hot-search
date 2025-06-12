@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749728324824,
+  "endTime": 1749732759518,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -553,6 +553,14 @@
       "onboard_time": 1748937742,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1924738,
+      "num": 1924738,
+      "word": "印度坠机242人全部遇难",
+      "onboard_time": 1749723563,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1917621,
@@ -1555,6 +1563,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 1176741,
+      "num": 1176741,
+      "word": "众星发文力挺邓紫棋",
+      "onboard_time": 1749726323,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1172032,
       "num": 388383,
       "word": "400块的鞋犹豫了三年",
@@ -1793,14 +1809,6 @@
       "onboard_time": 1749002720,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1076683,
-      "num": 1076683,
-      "word": "众星发文力挺邓紫棋",
-      "onboard_time": 1749726323,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1065163,
@@ -2524,7 +2532,7 @@
     },
     {
       "raw_hot": 870416,
-      "num": 323475,
+      "num": 488126,
       "word": "蔡文静做完皮秒被自己吓到",
       "onboard_time": 1749724101,
       "rank": 47,
@@ -2553,6 +2561,14 @@
       "onboard_time": 1749141438,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 867281,
+      "num": 867281,
+      "word": "B站崩了",
+      "onboard_time": 1749725662,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 863332,
@@ -2753,6 +2769,14 @@
       "onboard_time": 1749641002,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 815198,
+      "num": 815198,
+      "word": "COSMO盛典",
+      "onboard_time": 1749731423,
+      "rank": 6,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 812564,
@@ -4371,6 +4395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 598624,
+      "num": 598624,
+      "word": "警方介入罗帅宇举报医疗腐败",
+      "onboard_time": 1749727641,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597835,
       "num": 597835,
       "word": "加州州长含泪喊话加州民众",
@@ -5339,6 +5371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517800,
+      "num": 517800,
+      "word": "肖战回复老师",
+      "onboard_time": 1749728782,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517367,
       "num": 580551,
       "word": "老九门",
@@ -6227,6 +6267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 462668,
+      "num": 462668,
+      "word": "王迅 欠他们的工钱真的太不应该",
+      "onboard_time": 1749729082,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461993,
       "num": 333355,
       "word": "原告EXO被告朴成训",
@@ -6412,7 +6460,7 @@
     },
     {
       "raw_hot": 446074,
-      "num": 446074,
+      "num": 499655,
       "word": "印度坠毁飞机仅飞了五分钟",
       "onboard_time": 1749725424,
       "rank": 7,
@@ -6913,6 +6961,14 @@
       "onboard_time": 1749451641,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418021,
+      "num": 418021,
+      "word": "王子文红毯摔倒",
+      "onboard_time": 1749731722,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 417672,
@@ -9395,14 +9451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 319466,
-      "num": 319466,
-      "word": "警方介入罗帅宇举报医疗腐败",
-      "onboard_time": 1749727641,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 319414,
       "num": 319414,
       "word": "日本又一次面临历史之问道义之问",
@@ -10723,6 +10771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280328,
+      "num": 280328,
+      "word": "伦敦音爷爷去世",
+      "onboard_time": 1749730161,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280175,
       "num": 315814,
       "word": "者来女 歌手揭榜",
@@ -10908,7 +10964,7 @@
     },
     {
       "raw_hot": 275042,
-      "num": 275042,
+      "num": 330521,
       "word": "土耳其对张艺凡很差",
       "onboard_time": 1749726082,
       "rank": 16,
@@ -11531,6 +11587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258945,
+      "num": 258945,
+      "word": "台湾网红馆长说两岸城市差太多没法比",
+      "onboard_time": 1749728961,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258865,
       "num": 320681,
       "word": "老人捡到手机索要1600元才肯归还",
@@ -11657,6 +11721,14 @@
       "onboard_time": 1749126501,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256334,
+      "num": 299886,
+      "word": "大四男生一口气收8个offer年薪20万",
+      "onboard_time": 1749729381,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256330,
@@ -12499,6 +12571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238423,
+      "num": 238423,
+      "word": "罗帅宇",
+      "onboard_time": 1749727461,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238044,
       "num": 238044,
       "word": "藏海传灯塔分时破千万",
@@ -13091,6 +13171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 228185,
+      "num": 228185,
+      "word": "荔枝冰奶",
+      "onboard_time": 1749728302,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 228120,
       "num": 345649,
       "word": "印度一客机起飞后坠入居民区",
@@ -13185,6 +13273,14 @@
       "onboard_time": 1749622340,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226862,
+      "num": 226862,
+      "word": "印媒公布坠毁飞机乘客国籍",
+      "onboard_time": 1749726203,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 226814,
@@ -14147,6 +14243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214922,
+      "num": 339906,
+      "word": "enhypen一位",
+      "onboard_time": 1749728182,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214881,
       "num": 214881,
       "word": "丁真为妹妹出钱上学",
@@ -14185,14 +14289,6 @@
       "onboard_time": 1748789602,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214475,
-      "num": 214475,
-      "word": "B站崩了",
-      "onboard_time": 1749725662,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 214439,
@@ -15129,14 +15225,6 @@
       "onboard_time": 1749187041,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 205518,
-      "num": 205518,
-      "word": "罗帅宇",
-      "onboard_time": 1749727461,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205473,
@@ -16715,6 +16803,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 193734,
+      "num": 193734,
+      "word": "全球首架因空难全损波音787",
+      "onboard_time": 1749731960,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 193719,
       "num": 193719,
       "word": "老人山中走失6天吃樱桃获救",
@@ -16865,6 +16961,14 @@
       "onboard_time": 1749537862,
       "rank": 26,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 192711,
+      "num": 200637,
+      "word": "白鹿临江仙剧组大聚一下",
+      "onboard_time": 1749731842,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 192580,
@@ -18587,14 +18691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181362,
-      "num": 181362,
-      "word": "enhypen一位",
-      "onboard_time": 1749728182,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 181319,
       "num": 181319,
       "word": "华妃没事也晃她那双爪子",
@@ -19225,14 +19321,6 @@
       "onboard_time": 1749252258,
       "rank": 15,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 175579,
-      "num": 175579,
-      "word": "印媒公布坠毁飞机乘客国籍",
-      "onboard_time": 1749726203,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 175563,
@@ -21747,6 +21835,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 159721,
+      "num": 395151,
+      "word": "外媒称印度飞机在医生宿舍坠毁",
+      "onboard_time": 1749729623,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 159665,
       "num": 159665,
       "word": "周震南 小小的老子连麦架都欺负",
@@ -22483,6 +22579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154919,
+      "num": 172138,
+      "word": "光遇",
+      "onboard_time": 1749464122,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154886,
       "num": 154886,
       "word": "清理张家界溶洞垃圾只是第一步",
@@ -22505,6 +22609,14 @@
       "onboard_time": 1748927421,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154747,
+      "num": 251907,
+      "word": "坠机航班机长拥有8200小时飞行经验",
+      "onboard_time": 1749727942,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 154701,
@@ -23179,6 +23291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151023,
+      "num": 151023,
+      "word": "张萌Mai合照",
+      "onboard_time": 1749731182,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150900,
       "num": 150900,
       "word": "马柏全VOGUE出发造型",
@@ -23707,12 +23827,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147559,
+      "num": 147559,
+      "word": "魏晨张远18年后芒果同台",
+      "onboard_time": 1749728722,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147505,
       "num": 147505,
       "word": "2025乒超联赛第一阶段竞赛日程表",
       "onboard_time": 1749381141,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147478,
+      "num": 147478,
+      "word": "披荆斩棘的导演让苏醒释怀些",
+      "onboard_time": 1749730701,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 147421,
@@ -24161,6 +24297,14 @@
       "onboard_time": 1749720142,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 145427,
+      "num": 145427,
+      "word": "在上海迪士尼当陪玩一天收入1500",
+      "onboard_time": 1749729922,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145301,
@@ -25483,6 +25627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138892,
+      "num": 193852,
+      "word": "王嘉尔朋友圈的风吹到了宝莱坞",
+      "onboard_time": 1749732262,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138824,
       "num": 138824,
       "word": "被余华夸过的rapper",
@@ -25673,6 +25825,14 @@
       "onboard_time": 1749130642,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138222,
+      "num": 138222,
+      "word": "lafufu",
+      "onboard_time": 1749731182,
+      "rank": 40,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 138164,
@@ -26065,14 +26225,6 @@
       "onboard_time": 1748778260,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136174,
-      "num": 136174,
-      "word": "荔枝冰奶",
-      "onboard_time": 1749728302,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 136104,
@@ -27001,6 +27153,14 @@
       "onboard_time": 1748865621,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131792,
+      "num": 131792,
+      "word": "COSMO盛典女明星造型",
+      "onboard_time": 1749732623,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131790,
@@ -28275,6 +28435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124666,
+      "num": 124666,
+      "word": "一学期瘦了70斤生活的变化",
+      "onboard_time": 1749732742,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124593,
       "num": 124593,
       "word": "教师的意义这一瞬间达到了顶峰",
@@ -28699,6 +28867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122341,
+      "num": 122341,
+      "word": "三千块的学费狗子学了两千九",
+      "onboard_time": 1749729683,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122263,
       "num": 122263,
       "word": "高考考生考完可以准备微博账号了",
@@ -28769,6 +28945,14 @@
       "onboard_time": 1748998041,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 121948,
+      "num": 207692,
+      "word": "京东618晚会艺人阵容",
+      "onboard_time": 1749726323,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 121924,
@@ -28985,6 +29169,14 @@
       "onboard_time": 1749288264,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120658,
+      "num": 120658,
+      "word": "大家把早睡放在第一位",
+      "onboard_time": 1749730822,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120636,
@@ -32483,14 +32675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97978,
-      "num": 207692,
-      "word": "京东618晚会艺人阵容",
-      "onboard_time": 1749726323,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 97958,
       "num": 97484,
       "word": "鞠婧祎杂志",
@@ -35601,14 +35785,6 @@
       "onboard_time": 1749553162,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72192,
-      "num": 251907,
-      "word": "坠机航班机长拥有8200小时飞行经验",
-      "onboard_time": 1749727942,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 72053,
@@ -39171,6 +39347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42335,
+      "num": 416770,
+      "word": "抢高仿LABUBU日赚2000元",
+      "onboard_time": 1749731363,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42318,
       "num": 135593,
       "word": "圣坛组合印尼赛女双冠军",
@@ -39249,6 +39433,14 @@
       "onboard_time": 1749190761,
       "rank": 24,
       "category": "读书作家,教育"
+    },
+    {
+      "raw_hot": 41754,
+      "num": 193743,
+      "word": "流浪拉布拉多身上插箭疑遭射伤",
+      "onboard_time": 1749731960,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41692,
@@ -40299,6 +40491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35684,
+      "num": 1658955,
+      "word": "网警提醒高考结束仍需警惕",
+      "onboard_time": 1749730224,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35624,
       "num": 239791,
       "word": "医生建议玩漂流时戴护目镜",
@@ -40705,14 +40905,6 @@
       "onboard_time": 1748856379,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 33131,
-      "num": 172138,
-      "word": "光遇",
-      "onboard_time": 1749464122,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 33129,
@@ -42505,6 +42697,14 @@
       "onboard_time": 1748725754,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 23524,
+      "num": 301713,
+      "word": "剑南春让文物活起来了",
+      "onboard_time": 1749729863,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23485,
