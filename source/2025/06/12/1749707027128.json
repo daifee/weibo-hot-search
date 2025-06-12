@@ -1,0 +1,410 @@
+{
+  "runTime": 1749707027128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 971512,
+        "num": 1155442,
+        "word": "邓紫棋6年没有收到版税",
+        "onboard_time": 1749702320,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743442,
+        "num": 743442,
+        "word": "Labubu爆火离不开这四大因素",
+        "onboard_time": 1749698480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42108,
+        "num": 547523,
+        "word": "北京范儿",
+        "onboard_time": 1749703881,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 906791,
+        "num": 546985,
+        "word": "张凯毅 请把女厕的马桶取消吧",
+        "onboard_time": 1749694401,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 499686,
+        "num": 499686,
+        "word": "碧瑶下线",
+        "onboard_time": 1749702802,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 417672,
+        "num": 417672,
+        "word": "腾讯副总裁回应王者荣耀人机水平",
+        "onboard_time": 1749705080,
+        "rank": 5,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 428330,
+        "num": 416358,
+        "word": "藏海传一句句台词传到台湾",
+        "onboard_time": 1749696981,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381518,
+        "num": 381518,
+        "word": "两个拍出天价的Labubu都曾经是他的",
+        "onboard_time": 1749684677,
+        "rank": 7,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 307772,
+        "num": 307772,
+        "word": "北京出现南方带翅膀大蟑螂正常吗",
+        "onboard_time": 1749702502,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90302,
+        "num": 306811,
+        "word": "与藏海大人做邻居女子发声",
+        "onboard_time": 1749696080,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 886282,
+        "num": 305752,
+        "word": "罗帅宇事件",
+        "onboard_time": 1749698421,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427123,
+        "num": 304380,
+        "word": "抗癌博主易达去世",
+        "onboard_time": 1749703162,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366730,
+        "num": 304051,
+        "word": "杨幂不参加酱园弄路演行程",
+        "onboard_time": 1749702921,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303059,
+        "num": 303059,
+        "word": "19岁男子入室行凶致人重伤被判死缓",
+        "onboard_time": 1749702383,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27931,
+        "num": 268180,
+        "word": "888元盗走自媒体号仅需1小时",
+        "onboard_time": 1749706101,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345125,
+        "num": 265728,
+        "word": "看似休息其实很耗气血行为",
+        "onboard_time": 1749699500,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260838,
+        "num": 260838,
+        "word": "小沈阳女儿出道照",
+        "onboard_time": 1749699200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248441,
+        "num": 248441,
+        "word": "哪吒汽车",
+        "onboard_time": 1749701301,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137621,
+        "num": 236921,
+        "word": "建议全国外卖小哥都吻上来",
+        "onboard_time": 1749705441,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24214,
+        "num": 229921,
+        "word": "哪些人不适合素食生活",
+        "onboard_time": 1749706281,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280447,
+        "num": 228340,
+        "word": "原来断眉在歌手就给出暗示了",
+        "onboard_time": 1749704121,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226403,
+        "num": 226403,
+        "word": "去世爷爷的狗狗凌晨独自来找孙女",
+        "onboard_time": 1749703641,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225199,
+        "num": 225199,
+        "word": "孔孝真",
+        "onboard_time": 1749706581,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217840,
+        "num": 217840,
+        "word": "不要把自己过多生活暴露给别人",
+        "onboard_time": 1749705383,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185346,
+        "num": 185346,
+        "word": "邓紫棋 蜂鸟",
+        "onboard_time": 1749706941,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182464,
+        "num": 182464,
+        "word": "Labubu催生庞大周边产业链",
+        "onboard_time": 1749699860,
+        "rank": 25,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 168757,
+        "num": 168757,
+        "word": "黄子韬 你想赚钱要赚有良心的钱",
+        "onboard_time": 1749704902,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166510,
+        "num": 166510,
+        "word": "哪吒汽车董事长回应员工讨薪",
+        "onboard_time": 1749701240,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98549,
+        "num": 161483,
+        "word": "野外大熊猫求偶被拍下来了",
+        "onboard_time": 1749697520,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135239,
+        "num": 159925,
+        "word": "曾舜晞是仙侠里我见过追妻最差的",
+        "onboard_time": 1749706520,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484278,
+        "num": 159699,
+        "word": "女网红在TikTok总部哭喊账号被封",
+        "onboard_time": 1749701480,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159450,
+        "num": 159450,
+        "word": "开始推理吧",
+        "onboard_time": 1749705561,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145278,
+        "num": 145278,
+        "word": "谁懂白鹿转圈那一下",
+        "onboard_time": 1749706762,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142408,
+        "num": 142408,
+        "word": "特朗普宣布移民金卡网站上线",
+        "onboard_time": 1749697881,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141089,
+        "num": 141089,
+        "word": "黄子韬有理有据发飙90秒",
+        "onboard_time": 1749703942,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140270,
+        "num": 140270,
+        "word": "日本投放12万吨2021年的大米",
+        "onboard_time": 1749706401,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138976,
+        "num": 138976,
+        "word": "原神丝柯克",
+        "onboard_time": 1749706039,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135823,
+        "num": 135823,
+        "word": "黄明昊内娱把哥王",
+        "onboard_time": 1749706161,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78864,
+        "num": 130764,
+        "word": "印度电视节目现场专家互殴",
+        "onboard_time": 1749704723,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129295,
+        "num": 129295,
+        "word": "鹿晗巡演青岛南昌定档",
+        "onboard_time": 1749706880,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128828,
+        "num": 128828,
+        "word": "白鹿曾舜晞现场还原名场面",
+        "onboard_time": 1749706821,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128429,
+        "num": 128429,
+        "word": "美国对抗美国",
+        "onboard_time": 1749706220,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125478,
+        "num": 125478,
+        "word": "麻花特开心2",
+        "onboard_time": 1749706341,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126659,
+        "num": 124339,
+        "word": "临江仙直播",
+        "onboard_time": 1749703523,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40265,
+        "num": 121402,
+        "word": "奢馆灵修诈骗案非法敛财超35亿元",
+        "onboard_time": 1749704841,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 119723,
+        "num": 119723,
+        "word": "诛仙",
+        "onboard_time": 1749697821,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 117837,
+        "num": 117837,
+        "word": "周杰伦方回应花30亿台币买4层楼",
+        "onboard_time": 1749695242,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115584,
+        "num": 115584,
+        "word": "岳云鹏演唱会1580档门票20秒售罄",
+        "onboard_time": 1749705741,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37400,
+        "num": 114134,
+        "word": "步行者总决赛主场25年后首胜",
+        "onboard_time": 1749705561,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81555,
+        "num": 113821,
+        "word": "京东放出和无畏打游戏名额",
+        "onboard_time": 1749702442,
+        "rank": 49,
+        "category": "互联网,电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是人间正道#"
+    }
+  }
+}

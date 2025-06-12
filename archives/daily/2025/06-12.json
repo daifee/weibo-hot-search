@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749705986399,
+  "endTime": 1749707027128,
   "band_list": [
     {
       "raw_hot": 1695675,
@@ -147,8 +147,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 485999,
-      "num": 485999,
+      "raw_hot": 499686,
+      "num": 499686,
       "word": "碧瑶下线",
       "onboard_time": 1749702802,
       "rank": 22,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 431710,
-      "num": 297882,
+      "num": 304380,
       "word": "抗癌博主易达去世",
       "onboard_time": 1749703162,
       "rank": 31,
@@ -201,6 +201,14 @@
       "onboard_time": 1749689721,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 417672,
+      "num": 417672,
+      "word": "腾讯副总裁回应王者荣耀人机水平",
+      "onboard_time": 1749705080,
+      "rank": 15,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 414396,
@@ -275,20 +283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366730,
+      "num": 357551,
+      "word": "杨幂不参加酱园弄路演行程",
+      "onboard_time": 1749702921,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 360808,
       "num": 360808,
       "word": "岳云鹏演唱会票价引争议",
       "onboard_time": 1749684739,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 357551,
-      "num": 357551,
-      "word": "杨幂不参加酱园弄路演行程",
-      "onboard_time": 1749702921,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 353054,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 329478,
-      "num": 217879,
+      "num": 228340,
       "word": "原来断眉在歌手就给出暗示了",
       "onboard_time": 1749704121,
       "rank": 20,
@@ -347,6 +355,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307772,
+      "num": 307772,
+      "word": "北京出现南方带翅膀大蟑螂正常吗",
+      "onboard_time": 1749702502,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303059,
+      "num": 392821,
+      "word": "19岁男子入室行凶致人重伤被判死缓",
+      "onboard_time": 1749702383,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301613,
       "num": 301613,
       "word": "周杰 好爽的嘴",
@@ -355,28 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300259,
-      "num": 392821,
-      "word": "19岁男子入室行凶致人重伤被判死缓",
-      "onboard_time": 1749702383,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 300110,
       "num": 300110,
       "word": "曾744分考上清华的他现状",
       "onboard_time": 1749645442,
       "rank": 5,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 294110,
-      "num": 294110,
-      "word": "腾讯副总裁回应王者荣耀人机水平",
-      "onboard_time": 1749705080,
-      "rank": 15,
-      "category": "互联网,游戏"
     },
     {
       "raw_hot": 284187,
@@ -393,14 +401,6 @@
       "onboard_time": 1749655042,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282497,
-      "num": 282497,
-      "word": "北京出现南方带翅膀大蟑螂正常吗",
-      "onboard_time": 1749702502,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262733,
@@ -435,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248441,
+      "num": 248441,
+      "word": "哪吒汽车",
+      "onboard_time": 1749701301,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 229469,
       "num": 229469,
       "word": "山东大哥把风干饺子盘到玉化了",
@@ -449,6 +457,14 @@
       "onboard_time": 1749697280,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226403,
+      "num": 226403,
+      "word": "去世爷爷的狗狗凌晨独自来找孙女",
+      "onboard_time": 1749703641,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226263,
@@ -467,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225199,
+      "num": 225199,
+      "word": "孔孝真",
+      "onboard_time": 1749706581,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221742,
       "num": 221742,
       "word": "樊振东无世排后击败世排第一",
@@ -481,6 +505,14 @@
       "onboard_time": 1749685581,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 217840,
+      "num": 217840,
+      "word": "不要把自己过多生活暴露给别人",
+      "onboard_time": 1749705383,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 215511,
@@ -555,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198908,
-      "num": 198908,
-      "word": "去世爷爷的狗狗凌晨独自来找孙女",
-      "onboard_time": 1749703641,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198661,
       "num": 198661,
       "word": "全球唯一薄荷色labubu108万成交",
@@ -595,14 +619,6 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 190418,
-      "num": 190418,
-      "word": "不要把自己过多生活暴露给别人",
-      "onboard_time": 1749705383,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 189342,
       "num": 159903,
       "word": "妍妍酱回应",
@@ -617,6 +633,14 @@
       "onboard_time": 1749683358,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185346,
+      "num": 185346,
+      "word": "邓紫棋 蜂鸟",
+      "onboard_time": 1749706941,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 181920,
@@ -675,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168757,
+      "num": 168757,
+      "word": "黄子韬 你想赚钱要赚有良心的钱",
+      "onboard_time": 1749704902,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167901,
       "num": 167901,
       "word": "哪吒汽车董事长回应员工讨薪",
@@ -707,12 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160096,
-      "num": 160096,
-      "word": "哪吒汽车",
-      "onboard_time": 1749701301,
-      "rank": 40,
-      "category": "汽车"
+      "raw_hot": 159450,
+      "num": 159450,
+      "word": "开始推理吧",
+      "onboard_time": 1749705561,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 159415,
@@ -756,7 +788,7 @@
     },
     {
       "raw_hot": 153105,
-      "num": 169498,
+      "num": 306811,
       "word": "与藏海大人做邻居女子发声",
       "onboard_time": 1749696080,
       "rank": 31,
@@ -795,16 +827,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149684,
-      "num": 149684,
-      "word": "开始推理吧",
-      "onboard_time": 1749705561,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148319,
-      "num": 148319,
+      "num": 236921,
       "word": "建议全国外卖小哥都吻上来",
       "onboard_time": 1749705441,
       "rank": 35,
@@ -851,12 +875,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 145892,
-      "num": 145892,
-      "word": "黄子韬 你想赚钱要赚有良心的钱",
-      "onboard_time": 1749704902,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 145278,
+      "num": 145278,
+      "word": "谁懂白鹿转圈那一下",
+      "onboard_time": 1749706762,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 145181,
@@ -883,12 +907,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140270,
+      "num": 140270,
+      "word": "日本投放12万吨2021年的大米",
+      "onboard_time": 1749706401,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139268,
       "num": 139268,
       "word": "BLACKPINK1000天空白期",
       "onboard_time": 1749696680,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138976,
+      "num": 138976,
+      "word": "原神丝柯克",
+      "onboard_time": 1749706039,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 138677,
@@ -905,6 +945,22 @@
       "onboard_time": 1749703342,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135823,
+      "num": 135823,
+      "word": "黄明昊内娱把哥王",
+      "onboard_time": 1749706161,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135239,
+      "num": 159925,
+      "word": "曾舜晞是仙侠里我见过追妻最差的",
+      "onboard_time": 1749706520,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 131445,
@@ -945,6 +1001,30 @@
       "onboard_time": 1749703282,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129295,
+      "num": 129295,
+      "word": "鹿晗巡演青岛南昌定档",
+      "onboard_time": 1749706880,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 128828,
+      "num": 128828,
+      "word": "白鹿曾舜晞现场还原名场面",
+      "onboard_time": 1749706821,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128429,
+      "num": 128429,
+      "word": "美国对抗美国",
+      "onboard_time": 1749706220,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 128339,
@@ -1001,6 +1081,14 @@
       "onboard_time": 1749695359,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125478,
+      "num": 125478,
+      "word": "麻花特开心2",
+      "onboard_time": 1749706341,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 125162,
@@ -1379,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78864,
+      "num": 140971,
+      "word": "印度电视节目现场专家互殴",
+      "onboard_time": 1749704723,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78356,
       "num": 78356,
       "word": "七根心简bangbang上了",
@@ -1523,14 +1619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 65283,
-      "num": 140971,
-      "word": "印度电视节目现场专家互殴",
-      "onboard_time": 1749704723,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 65174,
       "num": 65174,
       "word": "张朝阳后悔送回绝版Labubu",
@@ -1659,7 +1747,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41845,
+      "raw_hot": 42108,
       "num": 968891,
       "word": "北京范儿",
       "onboard_time": 1749703881,
@@ -1763,12 +1851,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 27931,
+      "num": 268180,
+      "word": "888元盗走自媒体号仅需1小时",
+      "onboard_time": 1749706101,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24644,
       "num": 24644,
       "word": "花如月逆天改的是凡人的命",
       "onboard_time": 1749666617,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24214,
+      "num": 229921,
+      "word": "哪些人不适合素食生活",
+      "onboard_time": 1749706281,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 24088,
