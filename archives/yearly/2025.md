@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/12 22:26:43
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/12 22:45:46
 </p>
 </blockquote>
 <p>
@@ -1113,6 +1113,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%B8%80%E5%90%8D%E5%B9%B8%E5%AD%98%E8%80%85%23" target="weibo">
+印度坠机事故中发现一名幸存者（热度：4730991）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%87%8D%E5%BA%86%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
 王楚钦重庆赛夺冠（热度：4703448）
 </a>
@@ -1253,12 +1259,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E5%A4%B1%E8%81%94%E5%89%8D%E6%9B%BE%E6%8F%90%E5%88%86%E6%89%8B%E5%A5%B3%E5%8F%8B%E7%9E%AC%E9%97%B4%E7%A7%92%E6%87%82%23" target="weibo">
 王星失联前曾提分手女友瞬间秒懂（热度：4253645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA%E4%BA%8B%E6%95%85%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%B8%80%E5%90%8D%E5%B9%B8%E5%AD%98%E8%80%85%23" target="weibo">
-印度坠机事故中发现一名幸存者（热度：4240112）
 </a>
 </li>
 

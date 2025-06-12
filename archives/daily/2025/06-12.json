@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749738403723,
+  "endTime": 1749739546089,
   "band_list": [
     {
       "raw_hot": 11601503,
@@ -19,12 +19,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 4240112,
-      "num": 4240112,
+      "raw_hot": 4730991,
+      "num": 4730991,
       "word": "印度坠机事故中发现一名幸存者",
       "onboard_time": 1749723563,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2730664,
+      "num": 2730664,
+      "word": "湘雅二医院两年间给罗帅宇转账40多万",
+      "onboard_time": 1749736282,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2569852,
@@ -33,14 +41,6 @@
       "onboard_time": 1749708441,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2366197,
-      "num": 2366197,
-      "word": "湘雅二医院两年间给罗帅宇转账40多万",
-      "onboard_time": 1749736282,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2114716,
@@ -235,19 +235,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 850378,
+      "num": 850378,
+      "word": "警方介入罗帅宇举报医疗腐败",
+      "onboard_time": 1749727641,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 831124,
       "num": 392697,
       "word": "山东12岁女孩遭侵害致精神失常",
       "onboard_time": 1749710720,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 826985,
-      "num": 826985,
-      "word": "警方介入罗帅宇举报医疗腐败",
-      "onboard_time": 1749727641,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -667,6 +667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 359751,
+      "num": 359751,
+      "word": "藏海一直在做选择",
+      "onboard_time": 1749736524,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353054,
       "num": 353054,
       "word": "智能眼镜卖爆了",
@@ -737,14 +745,6 @@
       "onboard_time": 1749704121,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326564,
-      "num": 326564,
-      "word": "藏海一直在做选择",
-      "onboard_time": 1749736524,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 324324,
@@ -921,6 +921,14 @@
       "onboard_time": 1749726082,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268414,
+      "num": 268414,
+      "word": "陈昊宇好辣",
+      "onboard_time": 1749739163,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 262760,
@@ -1267,6 +1275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208761,
+      "num": 208761,
+      "word": "你好西林小姐",
+      "onboard_time": 1749738683,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208160,
       "num": 251942,
       "word": "张杰曾为鼓励邓紫棋唱泡沫",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1749663376,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200231,
+      "num": 200231,
+      "word": "光与夜之恋兑换码",
+      "onboard_time": 1749737844,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 199491,
@@ -1635,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172172,
+      "num": 227616,
+      "word": "躲家暴被拐流浪女孩或是杨妞花远亲",
+      "onboard_time": 1749738443,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172158,
       "num": 1320089,
       "word": "中国过境免签适用55国全名单",
@@ -1715,6 +1747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163634,
+      "num": 185304,
+      "word": "泡泡玛特回应餐厅售卖Labubu芝麻糊",
+      "onboard_time": 1749737663,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 162595,
       "num": 162595,
       "word": "何炅把马丽一部话剧看了6遍",
@@ -1787,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157259,
+      "num": 157259,
+      "word": "红果崩了",
+      "onboard_time": 1749739402,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 156703,
       "num": 156703,
       "word": "梁永棋被骂不能拍就给我滚",
@@ -1825,14 +1873,6 @@
       "onboard_time": 1749735623,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154938,
-      "num": 154938,
-      "word": "光与夜之恋兑换码",
-      "onboard_time": 1749737844,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 154919,
@@ -1923,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152283,
+      "num": 152283,
+      "word": "已婚名校博士后谎称单身骗多名女子",
+      "onboard_time": 1749739284,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151461,
       "num": 151461,
       "word": "李玮锋说国足吃海参被骂因为成绩差",
@@ -1961,6 +2009,14 @@
       "onboard_time": 1749728722,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149748,
+      "num": 149748,
+      "word": "3分钱就能买半斤荔枝",
+      "onboard_time": 1749739402,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 148319,
@@ -2083,14 +2139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145188,
-      "num": 185304,
-      "word": "泡泡玛特回应餐厅售卖Labubu芝麻糊",
-      "onboard_time": 1749737663,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 145181,
       "num": 168728,
       "word": "野外大熊猫求偶被拍下来了",
@@ -2195,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137379,
+      "num": 243780,
+      "word": "印度坠机已致地面5名医学生遇难",
+      "onboard_time": 1749735743,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137186,
       "num": 213556,
       "word": "沈腾笑起来好像labubu",
@@ -2281,6 +2337,14 @@
       "onboard_time": 1749721582,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133178,
+      "num": 133178,
+      "word": "阿里离职员工说不要消费马云",
+      "onboard_time": 1749724583,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 133045,
@@ -2571,12 +2635,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 122698,
+      "num": 256557,
+      "word": "高考完独自挑行李回家女生再发声",
+      "onboard_time": 1749737365,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122603,
       "num": 364375,
       "word": "京东放出和无畏打游戏名额",
       "onboard_time": 1749702442,
       "rank": 28,
       "category": "互联网,电竞"
+    },
+    {
+      "raw_hot": 122380,
+      "num": 122380,
+      "word": "台湾网红馆长说不怕岛内媒体修理",
+      "onboard_time": 1749738923,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122341,
@@ -2841,14 +2921,6 @@
       "onboard_time": 1749715520,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 105600,
-      "num": 256557,
-      "word": "高考完独自挑行李回家女生再发声",
-      "onboard_time": 1749737365,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104858,
@@ -3635,14 +3707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46956,
-      "num": 243780,
-      "word": "印度坠机已致地面5名医学生遇难",
-      "onboard_time": 1749735743,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 46654,
       "num": 134316,
       "word": "岳云鹏出门在外身份是自己给的",
@@ -3699,6 +3763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43045,
+      "num": 136638,
+      "word": "小米15SPro",
+      "onboard_time": 1749736524,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42335,
       "num": 416770,
       "word": "抢高仿LABUBU日赚2000元",
@@ -3745,6 +3817,14 @@
       "onboard_time": 1749709879,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 38921,
+      "num": 1885502,
+      "word": "中国全球好感度UP",
+      "onboard_time": 1749738683,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38883,
@@ -3907,6 +3987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30845,
+      "num": 186219,
+      "word": "美国正从中东撤回非必要外交人员",
+      "onboard_time": 1749737663,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28814,
       "num": 177163,
       "word": "大学快毕业才敢打开高考查分视频",
@@ -3937,14 +4025,6 @@
       "onboard_time": 1749658640,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 28247,
-      "num": 186219,
-      "word": "美国正从中东撤回非必要外交人员",
-      "onboard_time": 1749737663,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27931,

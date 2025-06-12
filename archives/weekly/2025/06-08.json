@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749738403723,
+  "endTime": 1749739546089,
   "band_list": [
     {
       "raw_hot": 11601503,
@@ -59,8 +59,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 4240112,
-      "num": 4240112,
+      "raw_hot": 4730991,
+      "num": 4730991,
       "word": "印度坠机事故中发现一名幸存者",
       "onboard_time": 1749723563,
       "rank": 0,
@@ -96,6 +96,14 @@
       "word": "婚检查出艾滋医生未告知伴侣致感染",
       "onboard_time": 1749434779,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2730664,
+      "num": 2730664,
+      "word": "湘雅二医院两年间给罗帅宇转账40多万",
+      "onboard_time": 1749736282,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -153,14 +161,6 @@
       "onboard_time": 1749472281,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2366197,
-      "num": 2366197,
-      "word": "湘雅二医院两年间给罗帅宇转账40多万",
-      "onboard_time": 1749736282,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2232988,
@@ -1219,6 +1219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 850378,
+      "num": 850378,
+      "word": "警方介入罗帅宇举报医疗腐败",
+      "onboard_time": 1749727641,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 847671,
       "num": 420875,
       "word": "三毛 赵丽颖裙子",
@@ -1265,14 +1273,6 @@
       "onboard_time": 1749442762,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 826985,
-      "num": 826985,
-      "word": "警方介入罗帅宇举报医疗腐败",
-      "onboard_time": 1749727641,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 815668,
@@ -3643,6 +3643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 359751,
+      "num": 359751,
+      "word": "藏海一直在做选择",
+      "onboard_time": 1749736524,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358711,
       "num": 358711,
       "word": "中医说身体好不好看眼睛就知道",
@@ -4073,14 +4081,6 @@
       "onboard_time": 1749634762,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 326564,
-      "num": 326564,
-      "word": "藏海一直在做选择",
-      "onboard_time": 1749736524,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 324571,
@@ -4937,6 +4937,14 @@
       "onboard_time": 1749389123,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268414,
+      "num": 268414,
+      "word": "陈昊宇好辣",
+      "onboard_time": 1749739163,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 268229,
@@ -6547,6 +6555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208761,
+      "num": 208761,
+      "word": "你好西林小姐",
+      "onboard_time": 1749738683,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208614,
       "num": 200572,
       "word": "吴宣仪 全开麦",
@@ -7057,6 +7073,14 @@
       "onboard_time": 1749356121,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200231,
+      "num": 200231,
+      "word": "光与夜之恋兑换码",
+      "onboard_time": 1749737844,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 200076,
@@ -8803,6 +8827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172172,
+      "num": 227616,
+      "word": "躲家暴被拐流浪女孩或是杨妞花远亲",
+      "onboard_time": 1749738443,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172158,
       "num": 1320089,
       "word": "中国过境免签适用55国全名单",
@@ -9587,6 +9619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163634,
+      "num": 185304,
+      "word": "泡泡玛特回应餐厅售卖Labubu芝麻糊",
+      "onboard_time": 1749737663,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 163336,
       "num": 135565,
       "word": "王楚钦谈大头外号",
@@ -10179,6 +10219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157259,
+      "num": 157259,
+      "word": "红果崩了",
+      "onboard_time": 1749739402,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 157150,
       "num": 188063,
       "word": "董倩回忆第一次见王楚钦",
@@ -10313,14 +10361,6 @@
       "onboard_time": 1749354261,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154938,
-      "num": 154938,
-      "word": "光与夜之恋兑换码",
-      "onboard_time": 1749737844,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 154919,
@@ -10531,6 +10571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152283,
+      "num": 152283,
+      "word": "已婚名校博士后谎称单身骗多名女子",
+      "onboard_time": 1749739284,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152180,
       "num": 152180,
       "word": "河北也太宠樊振东了",
@@ -10721,6 +10769,14 @@
       "onboard_time": 1749728722,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149748,
+      "num": 149748,
+      "word": "3分钱就能买半斤荔枝",
+      "onboard_time": 1749739402,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 149630,
@@ -11201,14 +11257,6 @@
       "onboard_time": 1749479964,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 145188,
-      "num": 185304,
-      "word": "泡泡玛特回应餐厅售卖Labubu芝麻糊",
-      "onboard_time": 1749737663,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 145181,
@@ -11891,6 +11939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137379,
+      "num": 243780,
+      "word": "印度坠机已致地面5名医学生遇难",
+      "onboard_time": 1749735743,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137326,
       "num": 137326,
       "word": "马英九将率团于6月14日至27日访陆",
@@ -12353,6 +12409,14 @@
       "onboard_time": 1749631701,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133178,
+      "num": 133178,
+      "word": "阿里离职员工说不要消费马云",
+      "onboard_time": 1749724583,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 133045,
@@ -13235,6 +13299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122698,
+      "num": 256557,
+      "word": "高考完独自挑行李回家女生再发声",
+      "onboard_time": 1749737365,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122603,
       "num": 364375,
       "word": "京东放出和无畏打游戏名额",
@@ -13265,6 +13337,14 @@
       "onboard_time": 1749645201,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122380,
+      "num": 122380,
+      "word": "台湾网红馆长说不怕岛内媒体修理",
+      "onboard_time": 1749738923,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122341,
@@ -14289,14 +14369,6 @@
       "onboard_time": 1749715520,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 105600,
-      "num": 256557,
-      "word": "高考完独自挑行李回家女生再发声",
-      "onboard_time": 1749737365,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105463,
@@ -17091,14 +17163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46956,
-      "num": 243780,
-      "word": "印度坠机已致地面5名医学生遇难",
-      "onboard_time": 1749735743,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 46654,
       "num": 134316,
       "word": "岳云鹏出门在外身份是自己给的",
@@ -17289,6 +17353,14 @@
       "onboard_time": 1749357080,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43045,
+      "num": 136638,
+      "word": "小米15SPro",
+      "onboard_time": 1749736524,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 42825,
@@ -17609,6 +17681,14 @@
       "onboard_time": 1749481643,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38921,
+      "num": 1885502,
+      "word": "中国全球好感度UP",
+      "onboard_time": 1749738683,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38883,
@@ -18291,6 +18371,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 30845,
+      "num": 186219,
+      "word": "美国正从中东撤回非必要外交人员",
+      "onboard_time": 1749737663,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30626,
       "num": 185070,
       "word": "三亚网约车司机被指与餐馆勾连诱导消费",
@@ -18513,14 +18601,6 @@
       "onboard_time": 1749475883,
       "rank": 26,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 28247,
-      "num": 186219,
-      "word": "美国正从中东撤回非必要外交人员",
-      "onboard_time": 1749737663,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28008,
