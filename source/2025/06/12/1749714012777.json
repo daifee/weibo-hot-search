@@ -1,0 +1,410 @@
+{
+  "runTime": 1749714012777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1232732,
+        "num": 1232732,
+        "word": "患癌男子4次中彩票累计得奖1796万",
+        "onboard_time": 1749711799,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 878391,
+        "num": 878391,
+        "word": "李荣浩力挺邓紫棋",
+        "onboard_time": 1749711383,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33979,
+        "num": 658510,
+        "word": "中国时尚产业盛典",
+        "onboard_time": 1749556760,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572207,
+        "num": 572207,
+        "word": "虞书欣王安宇 一念江南",
+        "onboard_time": 1749712639,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411965,
+        "num": 411965,
+        "word": "诛仙终于放过碧瑶了",
+        "onboard_time": 1749710061,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 409558,
+        "num": 409558,
+        "word": "日本投放12万吨2021年的大米",
+        "onboard_time": 1749706401,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 505120,
+        "num": 406358,
+        "word": "邓紫棋6年没有收到版税",
+        "onboard_time": 1749702320,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402798,
+        "num": 402798,
+        "word": "藏海传一句句台词传到台湾",
+        "onboard_time": 1749696981,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349706,
+        "num": 349706,
+        "word": "都说电竞选手不许洗澡了",
+        "onboard_time": 1749712639,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 337837,
+        "num": 337837,
+        "word": "Labubu爆火离不开这四大因素",
+        "onboard_time": 1749698480,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1914571,
+        "num": 330758,
+        "word": "王晓晨回应与俞灏明已婚传闻",
+        "onboard_time": 1749708441,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724225,
+        "num": 320940,
+        "word": "山东12岁女孩遭侵害致精神失常",
+        "onboard_time": 1749710720,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723994,
+        "num": 311181,
+        "word": "那尔那茜事件涉及教育公平理应彻查",
+        "onboard_time": 1749708020,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101983,
+        "num": 305853,
+        "word": "患癌男子回应4次中彩票头奖",
+        "onboard_time": 1749713721,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390085,
+        "num": 289614,
+        "word": "张凯毅 请把女厕的马桶取消吧",
+        "onboard_time": 1749694401,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 286476,
+        "num": 286476,
+        "word": "孔孝真",
+        "onboard_time": 1749706581,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215902,
+        "num": 215902,
+        "word": "时代少年团20岁以下的只有刘耀文了",
+        "onboard_time": 1749713241,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528297,
+        "num": 212574,
+        "word": "那尔那茜",
+        "onboard_time": 1749707482,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50737,
+        "num": 207082,
+        "word": "坠楼围棋少年被父亲寄望夺世界冠军",
+        "onboard_time": 1749712821,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19080,
+        "num": 205955,
+        "word": "抗阻运动能帮忙改善睡眠质量吗",
+        "onboard_time": 1749713480,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181221,
+        "num": 202297,
+        "word": "抗癌博主易达去世",
+        "onboard_time": 1749703162,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94236,
+        "num": 195149,
+        "word": "崔十八 天赐的声音",
+        "onboard_time": 1749707780,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193716,
+        "num": 193716,
+        "word": "曾舜晞认同白鹿是爱奇艺女王",
+        "onboard_time": 1749713660,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189106,
+        "num": 189106,
+        "word": "台风蝴蝶",
+        "onboard_time": 1749709821,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183948,
+        "num": 183948,
+        "word": "巴西9岁男孩骑猪疾驰上学",
+        "onboard_time": 1749708380,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173696,
+        "num": 173696,
+        "word": "美国对抗美国",
+        "onboard_time": 1749706220,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165752,
+        "num": 165752,
+        "word": "夫妻感情不和殴打女儿出气",
+        "onboard_time": 1749711921,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182780,
+        "num": 161614,
+        "word": "白鹿这段话不能让于正听到",
+        "onboard_time": 1749710600,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156368,
+        "num": 156368,
+        "word": "广州开始钓熟虾了",
+        "onboard_time": 1749709640,
+        "rank": 28,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 148240,
+        "num": 148240,
+        "word": "高考后挑扁担回家女孩婉拒资助",
+        "onboard_time": 1749711201,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 139741,
+        "num": 139741,
+        "word": "不要把自己过多生活暴露给别人",
+        "onboard_time": 1749705383,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137903,
+        "num": 137903,
+        "word": "两个拍出天价的Labubu都曾经是他的",
+        "onboard_time": 1749684677,
+        "rank": 31,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 136253,
+        "num": 136253,
+        "word": "腾讯副总裁回应王者荣耀人机水平",
+        "onboard_time": 1749705080,
+        "rank": 32,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 133473,
+        "num": 133473,
+        "word": "熬过这周就好了",
+        "onboard_time": 1749713841,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131921,
+        "num": 131921,
+        "word": "TTG佳心浴室骨折",
+        "onboard_time": 1749708681,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131299,
+        "num": 131299,
+        "word": "碧瑶下线",
+        "onboard_time": 1749702802,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 95298,
+        "num": 130690,
+        "word": "跳水救人的张伟又去帮学弟学妹了",
+        "onboard_time": 1749713000,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 25940,
+        "num": 129907,
+        "word": "岳云鹏出门在外身份是自己给的",
+        "onboard_time": 1749712821,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95106,
+        "num": 129555,
+        "word": "徐海东说林高远是定海神针",
+        "onboard_time": 1749713660,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26718,
+        "num": 128434,
+        "word": "岳云鹏新剧适者生存的具象化",
+        "onboard_time": 1749712220,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125836,
+        "num": 127976,
+        "word": "南通炸出冠军天团十二太保坐不住了",
+        "onboard_time": 1749708981,
+        "rank": 40,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 127269,
+        "num": 127269,
+        "word": "七根心简五人行必有一灯泡",
+        "onboard_time": 1749713181,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36765,
+        "num": 126679,
+        "word": "抢不到Labubu的年轻人对着它疯狂许愿",
+        "onboard_time": 1749711921,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126491,
+        "num": 126491,
+        "word": "赵丽颖中性风穿搭",
+        "onboard_time": 1749713300,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125705,
+        "num": 125705,
+        "word": "杨洋的颜值在北欧算帅吗",
+        "onboard_time": 1749710302,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125477,
+        "num": 125477,
+        "word": "曹颖做到了真正的乘风破浪",
+        "onboard_time": 1749710001,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122112,
+        "num": 122112,
+        "word": "去世爷爷的狗狗凌晨独自来找孙女",
+        "onboard_time": 1749703641,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122030,
+        "num": 122030,
+        "word": "北京出现南方带翅膀大蟑螂正常吗",
+        "onboard_time": 1749702502,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119937,
+        "num": 119937,
+        "word": "这种对虾曾经也被国外垄断",
+        "onboard_time": 1749712162,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117401,
+        "num": 117401,
+        "word": "湖南卫视618开心夜阵容官宣",
+        "onboard_time": 1749713960,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是人间正道#"
+    }
+  }
+}
