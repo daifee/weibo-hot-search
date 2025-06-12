@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749714012777,
+  "endTime": 1749717288519,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -859,6 +859,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 953288,
+      "num": 317842,
+      "word": "熬过这周就好了",
+      "onboard_time": 1749713841,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 946695,
       "num": 544387,
       "word": "考生仅剩12分钟就要错过高考",
@@ -1163,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 786493,
+      "num": 320940,
+      "word": "山东12岁女孩遭侵害致精神失常",
+      "onboard_time": 1749710720,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 782687,
       "num": 782687,
       "word": "藏海传逆跌",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1749444564,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 735859,
-      "num": 320940,
-      "word": "山东12岁女孩遭侵害致精神失常",
-      "onboard_time": 1749710720,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 733159,
@@ -1617,6 +1625,14 @@
       "onboard_time": 1749484340,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616937,
+      "num": 616937,
+      "word": "荔枝",
+      "onboard_time": 1749714861,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 614436,
@@ -2315,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490984,
+      "num": 418707,
+      "word": "金晨 我一个女的不能比男的差",
+      "onboard_time": 1749714140,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 489576,
       "num": 489576,
       "word": "陈都灵 不让女孩子的手落空",
@@ -2547,6 +2571,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 454455,
+      "num": 290798,
+      "word": "那尔那茜妈妈",
+      "onboard_time": 1749716121,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452941,
       "num": 452941,
       "word": "终于知道东北为什么不宣传景区了",
@@ -2641,6 +2673,14 @@
       "onboard_time": 1749372860,
       "rank": 9,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 433413,
+      "num": 433413,
+      "word": "买了假车险车主自担100万赔偿",
+      "onboard_time": 1749714201,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 432471,
@@ -2993,6 +3033,14 @@
       "onboard_time": 1749314482,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395285,
+      "num": 395285,
+      "word": "张小凡 陆雪琪",
+      "onboard_time": 1749715940,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 394598,
@@ -4897,6 +4945,14 @@
       "onboard_time": 1749528082,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 250068,
+      "num": 250068,
+      "word": "台风蝴蝶",
+      "onboard_time": 1749709821,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249841,
@@ -7075,14 +7131,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 189106,
-      "num": 189106,
-      "word": "台风蝴蝶",
-      "onboard_time": 1749709821,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188992,
       "num": 188992,
       "word": "ZM组合",
@@ -7272,6 +7320,14 @@
       "word": "李艺彤亲友团 被跳过",
       "onboard_time": 1749298823,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186149,
+      "num": 186149,
+      "word": "男宝星球2",
+      "onboard_time": 1749716300,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -7473,6 +7529,14 @@
       "onboard_time": 1749631162,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 182835,
+      "num": 282354,
+      "word": "夫妻感情不和殴打女儿出气",
+      "onboard_time": 1749711921,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182190,
@@ -8515,6 +8579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166624,
+      "num": 166624,
+      "word": "男子假冒空乘免费坐飞机34次",
+      "onboard_time": 1749716840,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 166302,
       "num": 284720,
       "word": "美国建军250年阅兵式有两头骡子",
@@ -8561,14 +8633,6 @@
       "onboard_time": 1749636742,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 165752,
-      "num": 282354,
-      "word": "夫妻感情不和殴打女儿出气",
-      "onboard_time": 1749711921,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165632,
@@ -9001,6 +9065,14 @@
       "onboard_time": 1749484101,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160316,
+      "num": 340014,
+      "word": "中国依法依规对稀土出口审查",
+      "onboard_time": 1749716300,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 160258,
@@ -9699,6 +9771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151409,
+      "num": 197685,
+      "word": "白鹿曾舜晞回应封印戏",
+      "onboard_time": 1749716900,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151374,
       "num": 227284,
       "word": "女子称丈夫因离婚纠纷毒死2亲生儿女",
@@ -9777,6 +9857,14 @@
       "onboard_time": 1749355641,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150298,
+      "num": 142055,
+      "word": "赛里木湖",
+      "onboard_time": 1749716422,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 150248,
@@ -9881,6 +9969,14 @@
       "onboard_time": 1749551600,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148737,
+      "num": 196947,
+      "word": "体重下降最明显的感觉是什么",
+      "onboard_time": 1749716541,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148620,
@@ -10419,6 +10515,14 @@
       "category": "旅游,游戏"
     },
     {
+      "raw_hot": 142971,
+      "num": 142971,
+      "word": "湖南卫视618开心夜阵容官宣",
+      "onboard_time": 1749713960,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142876,
       "num": 338540,
       "word": "天津一医院给病人定制馒头",
@@ -10505,6 +10609,14 @@
       "onboard_time": 1749342739,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141778,
+      "num": 141778,
+      "word": "外交部就中美经贸磋商机制首次会议答问",
+      "onboard_time": 1749715101,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141590,
@@ -11241,14 +11353,6 @@
       "onboard_time": 1749434420,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133473,
-      "num": 133473,
-      "word": "熬过这周就好了",
-      "onboard_time": 1749713841,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 133417,
@@ -12427,14 +12531,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 117401,
-      "num": 117401,
-      "word": "湖南卫视618开心夜阵容官宣",
-      "onboard_time": 1749713960,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 117210,
       "num": 156033,
       "word": "王楚钦这个救球太精彩了",
@@ -12987,6 +13083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108222,
+      "num": 108222,
+      "word": "Fly不首发",
+      "onboard_time": 1749713901,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107906,
       "num": 383541,
       "word": "空腹吃西瓜有什么危害",
@@ -13027,6 +13131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106927,
+      "num": 106927,
+      "word": "侯佩岑完美救场",
+      "onboard_time": 1749714622,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106774,
       "num": 106774,
       "word": "许其亮同志永垂不朽",
@@ -13049,6 +13161,14 @@
       "onboard_time": 1749685400,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106131,
+      "num": 142492,
+      "word": "何小鹏香港车展揭秘G7三颗芯片在哪",
+      "onboard_time": 1749715520,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 105463,
@@ -13347,6 +13467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98772,
+      "num": 98772,
+      "word": "男宝2自我介绍",
+      "onboard_time": 1749714500,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98765,
       "num": 98765,
       "word": "陈昊宇王星越跨年后二搭",
@@ -13467,6 +13595,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95980,
+      "num": 95980,
+      "word": "蔡徐坤新歌登顶AppleMusic周榜",
+      "onboard_time": 1749715701,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 95562,
+      "num": 95562,
+      "word": "徐梦洁看起来快碎了",
+      "onboard_time": 1749717261,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95414,
       "num": 347303,
       "word": "专家解读韦东奕33岁任职助理教授",
@@ -13537,6 +13681,14 @@
       "onboard_time": 1749378081,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93874,
+      "num": 93874,
+      "word": "朱一龙演员的信念感",
+      "onboard_time": 1749715460,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 93852,
@@ -14227,6 +14379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79026,
+      "num": 107397,
+      "word": "王楚钦孙颖莎所在俱乐部保持不败",
+      "onboard_time": 1749716840,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78935,
       "num": 282049,
       "word": "婚检中艾滋感染者配偶与医生如何自保",
@@ -14249,6 +14409,14 @@
       "onboard_time": 1749705321,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77673,
+      "num": 114397,
+      "word": "高考后的戒断反应原来这么大",
+      "onboard_time": 1749715641,
+      "rank": 34,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 77506,
@@ -15595,6 +15763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47482,
+      "num": 142748,
+      "word": "领克10EM-P起步即四驱",
+      "onboard_time": 1749716300,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47360,
       "num": 1233448,
       "word": "我国服务贸易跑出加速度",
@@ -16161,6 +16337,14 @@
       "onboard_time": 1749380122,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37772,
+      "num": 142173,
+      "word": "苏州主场宠粉40多家景区免费",
+      "onboard_time": 1749717081,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37756,
@@ -17033,6 +17217,14 @@
       "onboard_time": 1749646402,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25897,
+      "num": 113475,
+      "word": "怎么通过表皮声音选报恩西瓜",
+      "onboard_time": 1749715339,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 25690,
