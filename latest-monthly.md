@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/12 19:22:56
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/12 19:38:44
 </p>
 </blockquote>
 <p>
@@ -1359,6 +1359,12 @@ Labubu爆火离不开这四大因素（热度：1131522）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BA%E9%82%93%E7%B4%AB%E6%A3%8B%23" target="weibo">
+众星发文力挺邓紫棋（热度：1076683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%AD%A6%E6%96%B9%E6%89%BF%E8%AE%A4%E5%B1%80%E9%9D%A2%E5%B7%B2%E5%A4%B1%E6%8E%A7%23" target="weibo">
 洛杉矶警方承认局面已失控（热度：1065163）
 </a>
@@ -1719,6 +1725,12 @@ Labubu设计师曾失意30年（热度：959623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3170%E4%BA%BA%23" target="weibo">
+印度坠机遇难人数升至170人（热度：937555）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%9F%A6%E4%B8%9C%E5%A5%95%E7%A0%94%E7%A9%B6%E5%91%98%E5%BA%94%E4%B8%8D%E6%98%AF%E6%AD%A3%E9%AB%98%E8%81%8C%E7%A7%B0%23" target="weibo">
 专家称韦东奕研究员应不是正高职称（热度：937488）
 </a>
@@ -1893,6 +1905,12 @@ aespa回归预告（热度：882775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%81%9A%E5%AE%8C%E7%9A%AE%E7%A7%92%E8%A2%AB%E8%87%AA%E5%B7%B1%E5%90%93%E5%88%B0%23" target="weibo">
+蔡文静做完皮秒被自己吓到（热度：870416）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E8%83%9E%E8%83%8E%E5%90%8C%E6%97%B6%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%8350%E5%A4%9A%E4%B8%87%E8%B4%B9%E7%94%A8%E8%A2%AB%E5%85%8D%23" target="weibo">
 五胞胎同时参加高考50多万费用被免（热度：869992）
 </a>
@@ -1937,12 +1955,6 @@ aespa回归预告（热度：882775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AL%E6%88%98%E8%83%9CBLG%23" target="weibo">
 AL战胜BLG（热度：859667）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%81%9A%E5%AE%8C%E7%9A%AE%E7%A7%92%E8%A2%AB%E8%87%AA%E5%B7%B1%E5%90%93%E5%88%B0%23" target="weibo">
-蔡文静做完皮秒被自己吓到（热度：858697）
 </a>
 </li>
 
@@ -3723,12 +3735,6 @@ labubu医美（热度：554444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BA%E9%82%93%E7%B4%AB%E6%A3%8B%23" target="weibo">
-众星发文力挺邓紫棋（热度：547346）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E9%BA%A6%E7%94%B0%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%AF%BC%E8%A7%88%E7%9B%B4%E6%92%AD%23" target="weibo">
 种地吧麦田音乐会导览直播（热度：547112）
 </a>
@@ -4815,6 +4821,12 @@ WE战胜TES（热度：463130）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%E9%A3%9E%E6%9C%BA%E4%BB%85%E9%A3%9E%E4%BA%86%E4%BA%94%E5%88%86%E9%92%9F%23" target="weibo">
+印度坠毁飞机仅飞了五分钟（热度：446074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%AB%98%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%87%BA%E5%BE%81%E4%B8%89%E5%A4%A7%E8%B5%9B%23" target="weibo">
 广州高考生喊话樊振东出征三大赛（热度：445608）
 </a>
@@ -4961,6 +4973,12 @@ Labubu都火了 方圆脸时代怎么还没来（热度：435128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E4%BA%86%E5%81%87%E8%BD%A6%E9%99%A9%E8%BD%A6%E4%B8%BB%E8%87%AA%E6%8B%85100%E4%B8%87%E8%B5%94%E5%81%BF%23" target="weibo">
 买了假车险车主自担100万赔偿（热度：433413）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E7%BD%97%E5%B8%85%E5%AE%87%E4%BA%8B%E4%BB%B6%E4%BB%8D%E5%9C%A8%E8%B0%83%E6%9F%A5%23" target="weibo">
+湘雅二医院罗帅宇事件仍在调查（热度：433210）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ TFBOYS为易烊千玺楔石打call（热度：376105）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D%20%E4%B8%80%E8%BE%88%E5%AD%90%E6%B5%81%E9%87%8F%E8%8A%B1%23" target="weibo">
 赵雅芝 一辈子流量花（热度：368294）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E9%A2%9614%E5%B2%81%E5%84%BF%E5%AD%90%23" target="weibo">
-曹颖14岁儿子（热度：368242）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%89%80%E5%9C%A8%E4%BF%B1%E4%B9%90%E9%83%A8%E5%A5%B3%E5%AD%90%E7%AC%AC%E4%B8%80%23" target="weibo">
-孙颖莎所在俱乐部女子第一（热度：368183）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B11.5%E4%B8%87%E5%8A%9E%E5%B9%B4%E5%8D%A1%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E7%8B%82%E7%9B%9760%E4%B8%87%E8%B4%A2%E7%89%A9%23" target="weibo">
-花1.5万办年卡男子健身房狂盗60万财物（热度：367733）
 </a>
 </li>
 

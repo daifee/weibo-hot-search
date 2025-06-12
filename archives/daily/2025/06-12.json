@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749727376955,
+  "endTime": 1749728324824,
   "band_list": [
     {
       "raw_hot": 11601503,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1076683,
+      "num": 1076683,
+      "word": "众星发文力挺邓紫棋",
+      "onboard_time": 1749726323,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1045069,
       "num": 1045069,
       "word": "VOGUE官博秒删",
@@ -131,6 +139,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 937555,
+      "num": 937555,
+      "word": "印度坠机遇难人数升至170人",
+      "onboard_time": 1749723563,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 916613,
       "num": 242691,
       "word": "包文婧封肚",
@@ -147,7 +163,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 858697,
+      "raw_hot": 870416,
       "num": 323475,
       "word": "蔡文静做完皮秒被自己吓到",
       "onboard_time": 1749724101,
@@ -275,14 +291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 547346,
-      "num": 547346,
-      "word": "众星发文力挺邓紫棋",
-      "onboard_time": 1749726323,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 543037,
       "num": 543037,
       "word": "哪吒汽车CEO被员工围堵讨薪",
@@ -379,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 446074,
+      "num": 446074,
+      "word": "印度坠毁飞机仅飞了五分钟",
+      "onboard_time": 1749725424,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 444545,
       "num": 168205,
       "word": "阿里离职员工内网发帖",
@@ -392,6 +408,14 @@
       "word": "买了假车险车主自担100万赔偿",
       "onboard_time": 1749714201,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433210,
+      "num": 433210,
+      "word": "湘雅二医院罗帅宇事件仍在调查",
+      "onboard_time": 1749727161,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -531,14 +555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 362045,
-      "num": 362045,
-      "word": "印度坠毁飞机仅飞了五分钟",
-      "onboard_time": 1749725424,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 360808,
       "num": 360808,
       "word": "岳云鹏演唱会票价引争议",
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 344029,
-      "num": 205659,
+      "num": 301400,
       "word": "死在产床边的三文鱼",
       "onboard_time": 1749725843,
       "rank": 30,
@@ -643,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319466,
+      "num": 319466,
+      "word": "警方介入罗帅宇举报医疗腐败",
+      "onboard_time": 1749727641,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316397,
       "num": 228595,
       "word": "当地回应小米SU7路口连撞多车",
@@ -665,6 +689,14 @@
       "onboard_time": 1749702502,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304531,
+      "num": 304531,
+      "word": "上戏回应那尔那茜助教身份质疑",
+      "onboard_time": 1749726082,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 304087,
@@ -697,6 +729,14 @@
       "onboard_time": 1749645442,
       "rank": 5,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 298374,
+      "num": 298374,
+      "word": "好讨厌这份工作",
+      "onboard_time": 1749725482,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295112,
@@ -739,11 +779,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 266228,
-      "num": 239972,
-      "word": "上戏回应那尔那茜助教身份质疑",
+      "raw_hot": 275042,
+      "num": 275042,
+      "word": "土耳其对张艺凡很差",
       "onboard_time": 1749726082,
-      "rank": 17,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -793,14 +833,6 @@
       "onboard_time": 1749723382,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 250655,
-      "num": 250655,
-      "word": "土耳其对张艺凡很差",
-      "onboard_time": 1749726082,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 250068,
@@ -873,14 +905,6 @@
       "onboard_time": 1749716422,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 230373,
-      "num": 217734,
-      "word": "好讨厌这份工作",
-      "onboard_time": 1749725482,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 229469,
@@ -1043,12 +1067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205919,
+      "num": 232433,
+      "word": "田曦薇替李一桐保管手机",
+      "onboard_time": 1749724882,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205549,
       "num": 210455,
       "word": "张雪迎直播",
       "onboard_time": 1749717560,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205518,
+      "num": 205518,
+      "word": "罗帅宇",
+      "onboard_time": 1749727461,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205364,
@@ -1155,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192944,
+      "num": 205537,
+      "word": "文俊辉 雅诗兰黛",
+      "onboard_time": 1749727103,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189935,
       "num": 189935,
       "word": "王晓晨啥意思",
@@ -1179,11 +1227,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187143,
+      "num": 187143,
+      "word": "光与夜之恋",
+      "onboard_time": 1749728122,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186149,
       "num": 186149,
       "word": "男宝星球2",
       "onboard_time": 1749716300,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 185449,
+      "num": 185449,
+      "word": "迪丽热巴在开推有自己的结界兽",
+      "onboard_time": 1749727221,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1227,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181362,
+      "num": 181362,
+      "word": "enhypen一位",
+      "onboard_time": 1749728182,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179639,
       "num": 179639,
       "word": "藏海传导演说肖战确实太好看了",
@@ -1267,14 +1339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176109,
-      "num": 176109,
-      "word": "湘雅二医院罗帅宇事件仍在调查",
-      "onboard_time": 1749727161,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175676,
       "num": 352007,
       "word": "朱一龙晒奖杯",
@@ -1304,14 +1368,6 @@
       "word": "向佐为郭碧婷新女团打call",
       "onboard_time": 1749722123,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 173524,
-      "num": 173524,
-      "word": "文俊辉 雅诗兰黛",
-      "onboard_time": 1749727103,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1475,14 +1531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 157950,
-      "num": 157950,
-      "word": "迪丽热巴在开推有自己的结界兽",
-      "onboard_time": 1749727221,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157901,
       "num": 157901,
       "word": "NBA总决赛",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1749715460,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153137,
+      "num": 153137,
+      "word": "藏海传灯塔播放量破20亿",
+      "onboard_time": 1749727761,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 153105,
@@ -1579,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151159,
+      "num": 151159,
+      "word": "印坠机飞行员有近一万小时飞行经验",
+      "onboard_time": 1749726802,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 148319,
       "num": 236921,
       "word": "建议全国外卖小哥都吻上来",
@@ -1593,14 +1657,6 @@
       "onboard_time": 1749711201,
       "rank": 26,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 147899,
-      "num": 158145,
-      "word": "田曦薇替李一桐保管手机",
-      "onboard_time": 1749724882,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 147643,
@@ -1755,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137186,
+      "num": 213556,
+      "word": "沈腾笑起来好像labubu",
+      "onboard_time": 1749728122,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136714,
       "num": 136714,
       "word": "恋爱脑都来给我听这一段",
@@ -1769,6 +1833,14 @@
       "onboard_time": 1749703342,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136174,
+      "num": 136174,
+      "word": "荔枝冰奶",
+      "onboard_time": 1749728302,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 135823,
@@ -2371,12 +2443,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97978,
+      "num": 207692,
+      "word": "京东618晚会艺人阵容",
+      "onboard_time": 1749726323,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97955,
       "num": 232525,
       "word": "岳云鹏的演技还是被低估了",
       "onboard_time": 1749724823,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97502,
+      "num": 298381,
+      "word": "专家称印度坠毁飞机可能遭遇鸟击",
+      "onboard_time": 1749727703,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95980,
@@ -2763,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72192,
+      "num": 251907,
+      "word": "坠机航班机长拥有8200小时飞行经验",
+      "onboard_time": 1749727942,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71670,
       "num": 121679,
       "word": "白酒经销商称线上价格乱现货不多",
@@ -2857,6 +2953,14 @@
       "onboard_time": 1749633264,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 63694,
+      "num": 251459,
+      "word": "西湖通报松鼠被伤害事件",
+      "onboard_time": 1749727401,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63462,
@@ -3211,20 +3315,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33031,
-      "num": 207692,
-      "word": "京东618晚会艺人阵容",
-      "onboard_time": 1749726323,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 32604,
       "num": 32604,
       "word": "赛车星冰乐",
       "onboard_time": 1749663317,
       "rank": 47,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 32528,
+      "num": 982616,
+      "word": "网警提醒广大考生家长",
+      "onboard_time": 1749727522,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32121,
@@ -3259,6 +3363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28814,
+      "num": 177163,
+      "word": "大学快毕业才敢打开高考查分视频",
+      "onboard_time": 1749727461,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28540,
       "num": 99624,
       "word": "苏超趣闻两则",
@@ -3268,7 +3380,7 @@
     },
     {
       "raw_hot": 28430,
-      "num": 157955,
+      "num": 175993,
       "word": "李善德5句话牵出10年前旧案",
       "onboard_time": 1749726323,
       "rank": 39,
@@ -3425,6 +3537,14 @@
       "onboard_time": 1749720202,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18641,
+      "num": 205562,
+      "word": "印度民航主管机构首份情况介绍",
+      "onboard_time": 1749727881,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18195,

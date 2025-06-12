@@ -1,0 +1,410 @@
+{
+  "runTime": 1749728324824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7048765,
+        "num": 7048765,
+        "word": "一架波音787客机印度坠毁",
+        "onboard_time": 1749718401,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1076683,
+        "num": 1076683,
+        "word": "众星发文力挺邓紫棋",
+        "onboard_time": 1749726323,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32528,
+        "num": 982616,
+        "word": "网警提醒广大考生家长",
+        "onboard_time": 1749727522,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 937555,
+        "num": 937555,
+        "word": "印度坠机遇难人数升至170人",
+        "onboard_time": 1749723563,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 825313,
+        "num": 825313,
+        "word": "荔枝",
+        "onboard_time": 1749714861,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 709498,
+        "num": 709498,
+        "word": "VOGUE官博秒删",
+        "onboard_time": 1749722243,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 446074,
+        "num": 446074,
+        "word": "印度坠毁飞机仅飞了五分钟",
+        "onboard_time": 1749725424,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 433210,
+        "num": 433210,
+        "word": "湘雅二医院罗帅宇事件仍在调查",
+        "onboard_time": 1749727161,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319466,
+        "num": 319466,
+        "word": "警方介入罗帅宇举报医疗腐败",
+        "onboard_time": 1749727641,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304531,
+        "num": 304531,
+        "word": "上戏回应那尔那茜助教身份质疑",
+        "onboard_time": 1749726082,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870416,
+        "num": 304079,
+        "word": "蔡文静做完皮秒被自己吓到",
+        "onboard_time": 1749724101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739658,
+        "num": 302183,
+        "word": "王晓晨回应与俞灏明已婚传闻",
+        "onboard_time": 1749708441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322001,
+        "num": 301400,
+        "word": "死在产床边的三文鱼",
+        "onboard_time": 1749725843,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97502,
+        "num": 298381,
+        "word": "专家称印度坠毁飞机可能遭遇鸟击",
+        "onboard_time": 1749727703,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298374,
+        "num": 298374,
+        "word": "好讨厌这份工作",
+        "onboard_time": 1749725482,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275042,
+        "num": 275042,
+        "word": "土耳其对张艺凡很差",
+        "onboard_time": 1749726082,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252441,
+        "num": 252441,
+        "word": "邓紫棋回复李荣浩",
+        "onboard_time": 1749717980,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72192,
+        "num": 251907,
+        "word": "坠机航班机长拥有8200小时飞行经验",
+        "onboard_time": 1749727942,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63694,
+        "num": 251459,
+        "word": "西湖通报松鼠被伤害事件",
+        "onboard_time": 1749727401,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9133,
+        "num": 250240,
+        "word": "天气越热越容易诱发心血管疾病吗",
+        "onboard_time": 1749702681,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289640,
+        "num": 248900,
+        "word": "印度坠毁航班号为AI171",
+        "onboard_time": 1749722303,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62963,
+        "num": 248811,
+        "word": "零跑蝉联海外新势力销量第一",
+        "onboard_time": 1749722843,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 247992,
+        "num": 247992,
+        "word": "印坠机飞行员曾发求救信号",
+        "onboard_time": 1749722363,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 243332,
+        "num": 243332,
+        "word": "印度航空坠机后波音股价下跌",
+        "onboard_time": 1749723382,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205919,
+        "num": 232433,
+        "word": "田曦薇替李一桐保管手机",
+        "onboard_time": 1749724882,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228349,
+        "num": 228349,
+        "word": "印度客机坠毁机场暂停运营",
+        "onboard_time": 1749722483,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137186,
+        "num": 213556,
+        "word": "沈腾笑起来好像labubu",
+        "onboard_time": 1749728122,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207498,
+        "num": 207498,
+        "word": "B站崩了",
+        "onboard_time": 1749725662,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97978,
+        "num": 205784,
+        "word": "京东618晚会艺人阵容",
+        "onboard_time": 1749726323,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18641,
+        "num": 205562,
+        "word": "印度民航主管机构首份情况介绍",
+        "onboard_time": 1749727881,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192944,
+        "num": 205537,
+        "word": "文俊辉 雅诗兰黛",
+        "onboard_time": 1749727103,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205518,
+        "num": 205518,
+        "word": "罗帅宇",
+        "onboard_time": 1749727461,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203071,
+        "num": 203071,
+        "word": "男子上户口意外发现女儿非亲生",
+        "onboard_time": 1749719602,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187143,
+        "num": 187143,
+        "word": "光与夜之恋",
+        "onboard_time": 1749728122,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162166,
+        "num": 186187,
+        "word": "陈昊宇喻言蔡文静出图",
+        "onboard_time": 1749726501,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185449,
+        "num": 185449,
+        "word": "迪丽热巴在开推有自己的结界兽",
+        "onboard_time": 1749727221,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185239,
+        "num": 185239,
+        "word": "虞书欣王安宇 一念江南",
+        "onboard_time": 1749712639,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181362,
+        "num": 181362,
+        "word": "enhypen一位",
+        "onboard_time": 1749728182,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28814,
+        "num": 177163,
+        "word": "大学快毕业才敢打开高考查分视频",
+        "onboard_time": 1749727461,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27655,
+        "num": 175993,
+        "word": "李善德5句话牵出10年前旧案",
+        "onboard_time": 1749726323,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175932,
+        "num": 175932,
+        "word": "李柱延道歉",
+        "onboard_time": 1749722962,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171017,
+        "num": 171017,
+        "word": "labubu飞机",
+        "onboard_time": 1749718702,
+        "rank": 41,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 156109,
+        "num": 156109,
+        "word": "印度航空发表坠机声明",
+        "onboard_time": 1749720443,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153137,
+        "num": 153137,
+        "word": "藏海传灯塔播放量破20亿",
+        "onboard_time": 1749727761,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151435,
+        "num": 151435,
+        "word": "印媒公布坠毁飞机乘客国籍",
+        "onboard_time": 1749726203,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151159,
+        "num": 151159,
+        "word": "印坠机飞行员有近一万小时飞行经验",
+        "onboard_time": 1749726802,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139207,
+        "num": 139207,
+        "word": "熬过这周就好了",
+        "onboard_time": 1749713841,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338818,
+        "num": 138318,
+        "word": "那尔那茜妈妈",
+        "onboard_time": 1749716121,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136174,
+        "num": 136174,
+        "word": "荔枝冰奶",
+        "onboard_time": 1749728302,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135591,
+        "num": 135591,
+        "word": "患癌男子4次中彩票累计得奖1796万",
+        "onboard_time": 1749711799,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#动真碰硬解决突出问题#"
+    }
+  }
+}
