@@ -1,14 +1,30 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749699293745,
+  "endTime": 1749702787845,
   "band_list": [
     {
       "raw_hot": 1619267,
-      "num": 566467,
+      "num": 670749,
       "word": "张凯毅 请把女厕的马桶取消吧",
       "onboard_time": 1749694401,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1315914,
+      "num": 389436,
+      "word": "罗帅宇事件",
+      "onboard_time": 1749698421,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 954747,
+      "num": 1152759,
+      "word": "两个拍出天价的Labubu都曾经是他的",
+      "onboard_time": 1749684677,
+      "rank": 12,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 916613,
@@ -19,12 +35,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 874325,
-      "num": 1139892,
-      "word": "两个拍出天价的Labubu都曾经是他的",
-      "onboard_time": 1749684677,
-      "rank": 12,
-      "category": "民生新闻,动漫"
+      "raw_hot": 778481,
+      "num": 778481,
+      "word": "Labubu爆火离不开这四大因素",
+      "onboard_time": 1749698480,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 704399,
@@ -43,12 +59,44 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 633690,
+      "num": 633690,
+      "word": "藏海传一句句台词传到台湾",
+      "onboard_time": 1749696981,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 633123,
+      "num": 462069,
+      "word": "邓紫棋6年没有收到版税",
+      "onboard_time": 1749702320,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 613730,
+      "num": 446316,
+      "word": "小沈阳女儿出道照",
+      "onboard_time": 1749699200,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587811,
       "num": 84774,
       "word": "韦东奕涨粉速度获世界纪录认证",
       "onboard_time": 1749686662,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 556211,
+      "num": 384608,
+      "word": "看似休息其实很耗气血行为",
+      "onboard_time": 1749699500,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 548272,
@@ -75,20 +123,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 526893,
-      "num": 526893,
-      "word": "藏海传一句句台词传到台湾",
-      "onboard_time": 1749696981,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 518145,
       "num": 518145,
       "word": "邢菲 她的瞳",
       "onboard_time": 1749654741,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 477638,
+      "num": 477638,
+      "word": "Labubu催生庞大周边产业链",
+      "onboard_time": 1749699860,
+      "rank": 5,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 469014,
@@ -131,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 414396,
+      "num": 414396,
+      "word": "特朗普宣布移民金卡网站上线",
+      "onboard_time": 1749697881,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 413429,
       "num": 265614,
       "word": "袁隆平墓前多了一袋特殊的稻米",
@@ -153,6 +209,14 @@
       "onboard_time": 1749695242,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401050,
+      "num": 401050,
+      "word": "诛仙",
+      "onboard_time": 1749697821,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 397716,
@@ -219,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349869,
+      "num": 186131,
+      "word": "女网红在TikTok总部哭喊账号被封",
+      "onboard_time": 1749701480,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 335350,
       "num": 175159,
       "word": "Mai官宣订婚",
@@ -233,14 +305,6 @@
       "onboard_time": 1749694580,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304617,
-      "num": 304617,
-      "word": "诛仙",
-      "onboard_time": 1749697821,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 301613,
@@ -316,7 +380,7 @@
     },
     {
       "raw_hot": 226522,
-      "num": 194073,
+      "num": 200302,
       "word": "接易烊千玺原价票",
       "onboard_time": 1749697280,
       "rank": 23,
@@ -329,14 +393,6 @@
       "onboard_time": 1749695178,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 225317,
-      "num": 354190,
-      "word": "特朗普宣布移民金卡网站上线",
-      "onboard_time": 1749697881,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 221742,
@@ -363,6 +419,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 212669,
+      "num": 212669,
+      "word": "凤凰传奇天津抢票",
+      "onboard_time": 1749701842,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212616,
       "num": 212616,
       "word": "蜜雪冰城",
@@ -385,6 +449,14 @@
       "onboard_time": 1749697402,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 202652,
+      "num": 202652,
+      "word": "邓紫棋重录专辑上线",
+      "onboard_time": 1749702502,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 202619,
@@ -427,20 +499,20 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 194959,
-      "num": 194959,
-      "word": "罗帅宇事件",
-      "onboard_time": 1749698421,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189342,
       "num": 159903,
       "word": "妍妍酱回应",
       "onboard_time": 1749695119,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 189228,
+      "num": 202911,
+      "word": "恋爱中的女生堪比福尔摩斯",
+      "onboard_time": 1749702621,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 188575,
@@ -467,6 +539,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178433,
+      "num": 178433,
+      "word": "BLACKPINK抢票",
+      "onboard_time": 1749699500,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 178268,
+      "num": 178268,
+      "word": "手机也能单反拍照",
+      "onboard_time": 1749701782,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 175560,
       "num": 175560,
       "word": "连成一片的高温来了",
@@ -476,7 +564,7 @@
     },
     {
       "raw_hot": 172597,
-      "num": 157252,
+      "num": 162302,
       "word": "者来女清唱单依纯珠玉",
       "onboard_time": 1749699080,
       "rank": 30,
@@ -497,6 +585,30 @@
       "onboard_time": 1749698301,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 164804,
+      "num": 164804,
+      "word": "步行者2比1雷霆",
+      "onboard_time": 1749699141,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162595,
+      "num": 162595,
+      "word": "何炅把马丽一部话剧看了6遍",
+      "onboard_time": 1749699920,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160096,
+      "num": 160096,
+      "word": "哪吒汽车",
+      "onboard_time": 1749701301,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 159415,
@@ -571,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148279,
+      "num": 148279,
+      "word": "哪吒汽车董事长回应员工讨薪",
+      "onboard_time": 1749701240,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 146877,
       "num": 146877,
       "word": "雷霆vs步行者",
@@ -587,8 +707,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144274,
-      "num": 144274,
+      "raw_hot": 145993,
+      "num": 145993,
+      "word": "张婧仪昨天收官今天定档",
+      "onboard_time": 1749700222,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145181,
+      "num": 145181,
       "word": "野外大熊猫求偶被拍下来了",
       "onboard_time": 1749697520,
       "rank": 38,
@@ -619,12 +747,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 135897,
-      "num": 135897,
-      "word": "步行者2比1雷霆",
-      "onboard_time": 1749699141,
-      "rank": 37,
+      "raw_hot": 138677,
+      "num": 138677,
+      "word": "皇马",
+      "onboard_time": 1749699500,
+      "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130783,
+      "num": 142944,
+      "word": "王源新歌demo",
+      "onboard_time": 1749701421,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 130543,
@@ -651,20 +787,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128257,
+      "num": 249824,
+      "word": "京东送你去沙特看电竞比赛",
+      "onboard_time": 1749700222,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 127731,
       "num": 127731,
       "word": "夏天做5件事给身体埋下病根",
       "onboard_time": 1749693140,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126487,
-      "num": 126487,
-      "word": "小沈阳女儿出道照",
-      "onboard_time": 1749699200,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 126426,
@@ -713,6 +849,14 @@
       "onboard_time": 1749636922,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123251,
+      "num": 194016,
+      "word": "北京出现南方带翅膀大蟑螂正常吗",
+      "onboard_time": 1749702502,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121170,
@@ -947,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88152,
+      "num": 238543,
+      "word": "美团外卖谐音梗的神",
+      "onboard_time": 1749701541,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87946,
       "num": 87946,
       "word": "射击世界杯中国选手再获三连冠",
@@ -1001,6 +1153,14 @@
       "onboard_time": 1749648444,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81407,
+      "num": 284664,
+      "word": "河北永辉超市羊肉检出抗生素超标",
+      "onboard_time": 1749701240,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 81077,
@@ -1155,6 +1315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 64272,
+      "num": 227207,
+      "word": "男子称花两万买木材七成只能当柴火",
+      "onboard_time": 1749702442,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62676,
       "num": 258382,
       "word": "租客不告而别被判赔房东空置损失",
@@ -1193,14 +1361,6 @@
       "onboard_time": 1749661036,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 55935,
-      "num": 194664,
-      "word": "Labubu爆火离不开这四大因素",
-      "onboard_time": 1749698480,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52557,
@@ -1251,6 +1411,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41862,
+      "num": 160629,
+      "word": "凡是发生必有利于我",
+      "onboard_time": 1749702621,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 40997,
+      "num": 681083,
+      "word": "中国外贸在复杂环境中稳健前行",
+      "onboard_time": 1749700101,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38883,
       "num": 38883,
       "word": "鸿蒙5全面覆盖华为全场景新品",
@@ -1275,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34232,
+      "num": 247501,
+      "word": "19岁男子入室行凶致人重伤被判死缓",
+      "onboard_time": 1749702383,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32604,
       "num": 32604,
       "word": "赛车星冰乐",
@@ -1297,6 +1481,14 @@
       "onboard_time": 1749661817,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31284,
+      "num": 204288,
+      "word": "女性如何根据月经周期调整生活节奏",
+      "onboard_time": 1749700941,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 31133,
@@ -1329,6 +1521,14 @@
       "onboard_time": 1749666617,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24197,
+      "num": 230874,
+      "word": "小区物业向中介售卖门禁数据",
+      "onboard_time": 1749702562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23280,
@@ -1385,6 +1585,22 @@
       "onboard_time": 1749694819,
       "rank": 38,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 16728,
+      "num": 197948,
+      "word": "京东放出和无畏打游戏名额",
+      "onboard_time": 1749702442,
+      "rank": 28,
+      "category": "互联网,电竞"
+    },
+    {
+      "raw_hot": 16520,
+      "num": 189580,
+      "word": "天气越热越容易诱发心血管疾病吗",
+      "onboard_time": 1749702681,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14057,

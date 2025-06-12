@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749699293745,
+  "endTime": 1749702787845,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1619267,
-      "num": 566467,
+      "num": 670749,
       "word": "张凯毅 请把女厕的马桶取消吧",
       "onboard_time": 1749694401,
       "rank": 1,
@@ -441,6 +441,14 @@
       "onboard_time": 1749438741,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1315914,
+      "num": 389436,
+      "word": "罗帅宇事件",
+      "onboard_time": 1749698421,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1277447,
@@ -811,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 954747,
+      "num": 1152759,
+      "word": "两个拍出天价的Labubu都曾经是他的",
+      "onboard_time": 1749684677,
+      "rank": 12,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 946695,
       "num": 544387,
       "word": "考生仅剩12分钟就要错过高考",
@@ -937,14 +953,6 @@
       "onboard_time": 1749283282,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 874325,
-      "num": 1139892,
-      "word": "两个拍出天价的Labubu都曾经是他的",
-      "onboard_time": 1749684677,
-      "rank": 12,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 871229,
@@ -1136,6 +1144,14 @@
       "word": "浙江多位家长把车标改为985",
       "onboard_time": 1749344600,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 778481,
+      "num": 778481,
+      "word": "Labubu爆火离不开这四大因素",
+      "onboard_time": 1749698480,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1467,6 +1483,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 633690,
+      "num": 633690,
+      "word": "藏海传一句句台词传到台湾",
+      "onboard_time": 1749696981,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 633123,
+      "num": 462069,
+      "word": "邓紫棋6年没有收到版税",
+      "onboard_time": 1749702320,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 630019,
       "num": 630019,
       "word": "两夫妻各住一套房是什么体验",
@@ -1553,6 +1585,14 @@
       "onboard_time": 1749524540,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 613730,
+      "num": 446316,
+      "word": "小沈阳女儿出道照",
+      "onboard_time": 1749699200,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 613657,
@@ -1827,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556211,
+      "num": 384608,
+      "word": "看似休息其实很耗气血行为",
+      "onboard_time": 1749699500,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 550536,
       "num": 550536,
       "word": "孙颖莎好萌",
@@ -1977,14 +2025,6 @@
       "onboard_time": 1749631402,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 526893,
-      "num": 526893,
-      "word": "藏海传一句句台词传到台湾",
-      "onboard_time": 1749696981,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 526190,
@@ -2257,6 +2297,14 @@
       "onboard_time": 1749517461,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477638,
+      "num": 477638,
+      "word": "Labubu催生庞大周边产业链",
+      "onboard_time": 1749699860,
+      "rank": 5,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 475155,
@@ -2667,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414396,
+      "num": 414396,
+      "word": "特朗普宣布移民金卡网站上线",
+      "onboard_time": 1749697881,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 413429,
       "num": 286512,
       "word": "袁隆平墓前多了一袋特殊的稻米",
@@ -2777,6 +2833,14 @@
       "onboard_time": 1749642321,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401050,
+      "num": 401050,
+      "word": "诛仙",
+      "onboard_time": 1749697821,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 400382,
@@ -3289,6 +3353,14 @@
       "onboard_time": 1749647541,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349869,
+      "num": 186131,
+      "word": "女网红在TikTok总部哭喊账号被封",
+      "onboard_time": 1749701480,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 348870,
@@ -3825,14 +3897,6 @@
       "onboard_time": 1749475402,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304617,
-      "num": 304617,
-      "word": "诛仙",
-      "onboard_time": 1749697821,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 304402,
@@ -5140,7 +5204,7 @@
     },
     {
       "raw_hot": 226522,
-      "num": 194073,
+      "num": 200302,
       "word": "接易烊千玺原价票",
       "onboard_time": 1749697280,
       "rank": 23,
@@ -5185,14 +5249,6 @@
       "onboard_time": 1749630381,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 225317,
-      "num": 354190,
-      "word": "特朗普宣布移民金卡网站上线",
-      "onboard_time": 1749697881,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 225281,
@@ -5587,6 +5643,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 212669,
+      "num": 212669,
+      "word": "凤凰传奇天津抢票",
+      "onboard_time": 1749701842,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212479,
       "num": 424406,
       "word": "宋佳宁泽涛合照",
@@ -5961,6 +6025,14 @@
       "onboard_time": 1749604281,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202652,
+      "num": 202652,
+      "word": "邓紫棋重录专辑上线",
+      "onboard_time": 1749702502,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 202619,
@@ -6419,14 +6491,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 194959,
-      "num": 194959,
-      "word": "罗帅宇事件",
-      "onboard_time": 1749698421,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194733,
       "num": 194733,
       "word": "JDG战胜DYG",
@@ -6737,6 +6801,14 @@
       "onboard_time": 1749695119,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 189228,
+      "num": 202911,
+      "word": "恋爱中的女生堪比福尔摩斯",
+      "onboard_time": 1749702621,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 189157,
@@ -7387,6 +7459,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 178433,
+      "num": 178433,
+      "word": "BLACKPINK抢票",
+      "onboard_time": 1749699500,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 178268,
+      "num": 178268,
+      "word": "手机也能单反拍照",
+      "onboard_time": 1749701782,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 178094,
       "num": 178094,
       "word": "王安宇广东版",
@@ -7644,7 +7732,7 @@
     },
     {
       "raw_hot": 172597,
-      "num": 157252,
+      "num": 162302,
       "word": "者来女清唱单依纯珠玉",
       "onboard_time": 1749699080,
       "rank": 30,
@@ -8299,6 +8387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164804,
+      "num": 164804,
+      "word": "步行者2比1雷霆",
+      "onboard_time": 1749699141,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164604,
       "num": 173127,
       "word": "SU7Ultra是GT赛车首款中国车",
@@ -8433,6 +8529,14 @@
       "onboard_time": 1749441803,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162595,
+      "num": 162595,
+      "word": "何炅把马丽一部话剧看了6遍",
+      "onboard_time": 1749699920,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 162533,
@@ -8617,6 +8721,14 @@
       "onboard_time": 1749353182,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160096,
+      "num": 160096,
+      "word": "哪吒汽车",
+      "onboard_time": 1749701301,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 160030,
@@ -9483,6 +9595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148279,
+      "num": 148279,
+      "word": "哪吒汽车董事长回应员工讨薪",
+      "onboard_time": 1749701240,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 148205,
       "num": 148205,
       "word": "原来这就是天然味精",
@@ -9643,6 +9763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145993,
+      "num": 145993,
+      "word": "张婧仪昨天收官今天定档",
+      "onboard_time": 1749700222,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145957,
       "num": 145957,
       "word": "李昀锐衣服上的小森林",
@@ -9721,6 +9849,14 @@
       "onboard_time": 1749479964,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145181,
+      "num": 145181,
+      "word": "野外大熊猫求偶被拍下来了",
+      "onboard_time": 1749697520,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144869,
@@ -9816,14 +9952,6 @@
       "word": "网警提醒当心你的隐私被共享",
       "onboard_time": 1749604162,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144274,
-      "num": 144274,
-      "word": "野外大熊猫求偶被拍下来了",
-      "onboard_time": 1749697520,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -10251,6 +10379,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 138677,
+      "num": 138677,
+      "word": "皇马",
+      "onboard_time": 1749699500,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138643,
       "num": 130557,
       "word": "大脑过度疲劳的8个信号",
@@ -10465,14 +10601,6 @@
       "onboard_time": 1749543321,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 135897,
-      "num": 135897,
-      "word": "步行者2比1雷霆",
-      "onboard_time": 1749699141,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 135840,
@@ -10867,6 +10995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130783,
+      "num": 142944,
+      "word": "王源新歌demo",
+      "onboard_time": 1749701421,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 130699,
       "num": 305753,
       "word": "香飘飘八年陈奶茶还能喝吗",
@@ -11051,6 +11187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128257,
+      "num": 249824,
+      "word": "京东送你去沙特看电竞比赛",
+      "onboard_time": 1749700222,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 128045,
       "num": 128045,
       "word": "王楚钦vs费浚航",
@@ -11129,14 +11273,6 @@
       "onboard_time": 1749564803,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126487,
-      "num": 126487,
-      "word": "小沈阳女儿出道照",
-      "onboard_time": 1749699200,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 126426,
@@ -11337,6 +11473,14 @@
       "onboard_time": 1749608599,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 123251,
+      "num": 194016,
+      "word": "北京出现南方带翅膀大蟑螂正常吗",
+      "onboard_time": 1749702502,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123054,
@@ -12955,6 +13099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88152,
+      "num": 238543,
+      "word": "美团外卖谐音梗的神",
+      "onboard_time": 1749701541,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87990,
       "num": 332952,
       "word": "印度汽车业催政府申请中国稀土",
@@ -13289,6 +13441,14 @@
       "onboard_time": 1749546920,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81407,
+      "num": 284664,
+      "word": "河北永辉超市羊肉检出抗生素超标",
+      "onboard_time": 1749701240,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 81177,
@@ -13979,6 +14139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64272,
+      "num": 227207,
+      "word": "男子称花两万买木材七成只能当柴火",
+      "onboard_time": 1749702442,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64258,
       "num": 333532,
       "word": "被司机送进湖里男生已顺利面试",
@@ -14329,14 +14497,6 @@
       "onboard_time": 1749540140,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 55935,
-      "num": 194664,
-      "word": "Labubu爆火离不开这四大因素",
-      "onboard_time": 1749698480,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55849,
@@ -14963,6 +15123,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 41862,
+      "num": 160629,
+      "word": "凡是发生必有利于我",
+      "onboard_time": 1749702621,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41827,
       "num": 355662,
       "word": "当地回应水污染致大量秧苗死亡",
@@ -14993,6 +15161,14 @@
       "onboard_time": 1749629002,
       "rank": 26,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 40997,
+      "num": 681083,
+      "word": "中国外贸在复杂环境中稳健前行",
+      "onboard_time": 1749700101,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40832,
@@ -15483,6 +15659,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 34232,
+      "num": 247501,
+      "word": "19岁男子入室行凶致人重伤被判死缓",
+      "onboard_time": 1749702383,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34054,
       "num": 300797,
       "word": "Pura80个性色卡色号可分享",
@@ -15705,6 +15889,14 @@
       "onboard_time": 1749587414,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31284,
+      "num": 204288,
+      "word": "女性如何根据月经周期调整生活节奏",
+      "onboard_time": 1749700941,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 31212,
@@ -16144,6 +16336,14 @@
       "word": "姐姐值班没回家躲过上坟爆炸一劫",
       "onboard_time": 1749631583,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24197,
+      "num": 230874,
+      "word": "小区物业向中介售卖门禁数据",
+      "onboard_time": 1749702562,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -16627,11 +16827,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 16728,
+      "num": 197948,
+      "word": "京东放出和无畏打游戏名额",
+      "onboard_time": 1749702442,
+      "rank": 28,
+      "category": "互联网,电竞"
+    },
+    {
       "raw_hot": 16608,
       "num": 166346,
       "word": "如何判断甲状腺的健康情况",
       "onboard_time": 1749484882,
       "rank": 18,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 16520,
+      "num": 189580,
+      "word": "天气越热越容易诱发心血管疾病吗",
+      "onboard_time": 1749702681,
+      "rank": 30,
       "category": "健康医疗"
     },
     {
