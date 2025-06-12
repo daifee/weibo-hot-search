@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749710265652,
+  "endTime": 1749711096316,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -1531,6 +1531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 623551,
+      "num": 623551,
+      "word": "日本投放12万吨2021年的大米",
+      "onboard_time": 1749706401,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 622619,
       "num": 622619,
       "word": "小孩被天降乌龟砸死饲主判赔128万",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1749706581,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 570522,
-      "num": 570522,
-      "word": "日本投放12万吨2021年的大米",
-      "onboard_time": 1749706401,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 567672,
@@ -3369,6 +3369,14 @@
       "onboard_time": 1749343879,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355521,
+      "num": 335054,
+      "word": "那尔那茜事件涉及教育公平理应彻查",
+      "onboard_time": 1749708020,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 354428,
@@ -5035,6 +5043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237278,
+      "num": 231058,
+      "word": "白鹿这段话不能让于正听到",
+      "onboard_time": 1749710600,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237012,
       "num": 237012,
       "word": "中国双航母首次同时现身太平洋",
@@ -5057,6 +5073,14 @@
       "onboard_time": 1749560783,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235958,
+      "num": 324251,
+      "word": "美国对抗美国",
+      "onboard_time": 1749706220,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 235800,
@@ -5275,14 +5299,6 @@
       "category": "音乐,艺人"
     },
     {
-      "raw_hot": 227207,
-      "num": 335054,
-      "word": "那尔那茜事件涉及教育公平理应彻查",
-      "onboard_time": 1749708020,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226966,
       "num": 273564,
       "word": "解说称樊振东预判了林诗栋的预判",
@@ -5395,12 +5411,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 224798,
+      "num": 224798,
+      "word": "诛仙终于放过碧瑶了",
+      "onboard_time": 1749710061,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 224563,
       "num": 168709,
       "word": "iOS26 液态玻璃",
       "onboard_time": 1749528443,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 224551,
+      "num": 224551,
+      "word": "不要把自己过多生活暴露给别人",
+      "onboard_time": 1749705383,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 224388,
@@ -5609,14 +5641,6 @@
       "onboard_time": 1749685581,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 217840,
-      "num": 217840,
-      "word": "不要把自己过多生活暴露给别人",
-      "onboard_time": 1749705383,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 217667,
@@ -5865,14 +5889,6 @@
       "onboard_time": 1749356660,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209505,
-      "num": 324251,
-      "word": "美国对抗美国",
-      "onboard_time": 1749706220,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 209252,
@@ -7705,6 +7721,14 @@
       "onboard_time": 1749381200,
       "rank": 26,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 177026,
+      "num": 177026,
+      "word": "山东12岁女孩遭侵害致精神失常",
+      "onboard_time": 1749710720,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176987,
@@ -10091,6 +10115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145241,
+      "num": 145241,
+      "word": "杨洋的颜值在北欧算帅吗",
+      "onboard_time": 1749710302,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145205,
       "num": 397074,
       "word": "国之重器不断潜呀潜呀潜",
@@ -11547,6 +11579,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127958,
+      "num": 315265,
+      "word": "夸克发布首个高考志愿大模型",
+      "onboard_time": 1749708080,
+      "rank": 14,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 127767,
       "num": 127767,
       "word": "美22个民主党州长指责特朗普滥权",
@@ -11593,14 +11633,6 @@
       "onboard_time": 1749604820,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126934,
-      "num": 315265,
-      "word": "夸克发布首个高考志愿大模型",
-      "onboard_time": 1749708080,
-      "rank": 14,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 126804,
@@ -11673,6 +11705,14 @@
       "onboard_time": 1749542601,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125596,
+      "num": 125596,
+      "word": "广州开始钓熟虾了",
+      "onboard_time": 1749709640,
+      "rank": 40,
+      "category": "幽默,民生新闻"
     },
     {
       "raw_hot": 125587,
@@ -11769,6 +11809,14 @@
       "onboard_time": 1749623302,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123937,
+      "num": 123937,
+      "word": "M712十一周年庆",
+      "onboard_time": 1749710541,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 123853,
@@ -12107,14 +12155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119559,
-      "num": 119559,
-      "word": "诛仙终于放过碧瑶了",
-      "onboard_time": 1749710061,
-      "rank": 41,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 119369,
       "num": 119369,
       "word": "雷军当选沔商总会名誉会长",
@@ -12251,6 +12291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117596,
+      "num": 117596,
+      "word": "汽车在暴晒后如何快速降温",
+      "onboard_time": 1749710661,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 117210,
       "num": 156033,
       "word": "王楚钦这个救球太精彩了",
@@ -12297,6 +12345,14 @@
       "onboard_time": 1749423858,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116794,
+      "num": 116794,
+      "word": "14岁190的少年",
+      "onboard_time": 1749710361,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 116758,
@@ -12433,6 +12489,14 @@
       "onboard_time": 1749611661,
       "rank": 12,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 114848,
+      "num": 114848,
+      "word": "台风蝴蝶",
+      "onboard_time": 1749709821,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114648,
@@ -12673,14 +12737,6 @@
       "onboard_time": 1749624502,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110497,
-      "num": 110497,
-      "word": "台风蝴蝶",
-      "onboard_time": 1749709821,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110314,
@@ -12947,6 +13003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103929,
+      "num": 177699,
+      "word": "曹颖做到了真正的乘风破浪",
+      "onboard_time": 1749710001,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103651,
       "num": 103651,
       "word": "严浩翔给链子 南宫问雅摸头",
@@ -12977,6 +13041,14 @@
       "onboard_time": 1749686300,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102571,
+      "num": 102571,
+      "word": "南通炸出冠军天团十二太保坐不住了",
+      "onboard_time": 1749708981,
+      "rank": 48,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 102468,
@@ -13099,6 +13171,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 99737,
+      "num": 177058,
+      "word": "买Labubu买的是什么",
+      "onboard_time": 1749709341,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99539,
       "num": 99539,
       "word": "国际油价飙涨超4%",
@@ -13201,14 +13281,6 @@
       "onboard_time": 1749611421,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 97335,
-      "num": 97335,
-      "word": "曹颖做到了真正的乘风破浪",
-      "onboard_time": 1749710001,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 97280,
@@ -13329,14 +13401,6 @@
       "onboard_time": 1749709221,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93222,
-      "num": 93222,
-      "word": "南通炸出冠军天团十二太保坐不住了",
-      "onboard_time": 1749708981,
-      "rank": 48,
-      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 93103,
@@ -13504,14 +13568,6 @@
       "word": "男子车里开空调睡觉中毒",
       "onboard_time": 1749479123,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89179,
-      "num": 165685,
-      "word": "买Labubu买的是什么",
-      "onboard_time": 1749709341,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -14667,6 +14723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62845,
+      "num": 116941,
+      "word": "竞人被浴室做局了",
+      "onboard_time": 1749711081,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 62676,
       "num": 258382,
       "word": "租客不告而别被判赔房东空置损失",
@@ -15161,6 +15225,14 @@
       "onboard_time": 1749702621,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 51886,
+      "num": 233278,
+      "word": "姐姐回应抗癌博主易达去世",
+      "onboard_time": 1749710781,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51880,
@@ -15819,6 +15891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 39290,
+      "num": 229563,
+      "word": "走路时用臀部发力能瘦腿吗",
+      "onboard_time": 1749709879,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 39166,
       "num": 297332,
       "word": "哪些食物容易导致腹部脂肪堆积",
@@ -16083,6 +16163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35736,
+      "num": 134030,
+      "word": "美百万女网红诱骗精神病投湖",
+      "onboard_time": 1749710120,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 35624,
       "num": 239791,
       "word": "医生建议玩漂流时戴护目镜",
@@ -16267,14 +16355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 32892,
-      "num": 229563,
-      "word": "走路时用臀部发力能瘦腿吗",
-      "onboard_time": 1749709879,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 32672,
       "num": 211371,
       "word": "美国黑衣人街头制作燃烧弹",
@@ -16449,14 +16529,6 @@
       "onboard_time": 1749554960,
       "rank": 28,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 30502,
-      "num": 134030,
-      "word": "美百万女网红诱骗精神病投湖",
-      "onboard_time": 1749710120,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 30414,
