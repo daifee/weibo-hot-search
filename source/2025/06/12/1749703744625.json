@@ -1,0 +1,410 @@
+{
+  "runTime": 1749703744625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1695675,
+        "num": 1695675,
+        "word": "邓紫棋6年没有收到版税",
+        "onboard_time": 1749702320,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1131522,
+        "num": 1131522,
+        "word": "Labubu爆火离不开这四大因素",
+        "onboard_time": 1749698480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46532,
+        "num": 837850,
+        "word": "中国外贸在复杂环境中稳健前行",
+        "onboard_time": 1749700101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1183188,
+        "num": 829086,
+        "word": "张凯毅 请把女厕的马桶取消吧",
+        "onboard_time": 1749694401,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 807197,
+        "num": 807197,
+        "word": "两个拍出天价的Labubu都曾经是他的",
+        "onboard_time": 1749684677,
+        "rank": 4,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 535204,
+        "num": 535204,
+        "word": "Labubu催生庞大周边产业链",
+        "onboard_time": 1749699860,
+        "rank": 5,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 618663,
+        "num": 525132,
+        "word": "藏海传一句句台词传到台湾",
+        "onboard_time": 1749696981,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558971,
+        "num": 468820,
+        "word": "小沈阳女儿出道照",
+        "onboard_time": 1749699200,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394328,
+        "num": 394328,
+        "word": "诛仙",
+        "onboard_time": 1749697821,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146366,
+        "num": 392821,
+        "word": "19岁男子入室行凶致人重伤被判死缓",
+        "onboard_time": 1749702383,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343421,
+        "num": 387142,
+        "word": "邓紫棋重录专辑上线",
+        "onboard_time": 1749702502,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1048577,
+        "num": 384472,
+        "word": "罗帅宇事件",
+        "onboard_time": 1749698421,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88760,
+        "num": 379076,
+        "word": "美团外卖谐音梗的神",
+        "onboard_time": 1749701541,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51113,
+        "num": 373961,
+        "word": "女子称游郑州时喝胡辣汤吃出烟头",
+        "onboard_time": 1749703222,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41266,
+        "num": 372801,
+        "word": "小区物业向中介售卖门禁数据",
+        "onboard_time": 1749702562,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75773,
+        "num": 366871,
+        "word": "京东送你去沙特看电竞比赛",
+        "onboard_time": 1749700222,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29159,
+        "num": 364375,
+        "word": "京东放出和无畏打游戏名额",
+        "onboard_time": 1749702442,
+        "rank": 16,
+        "category": "互联网,电竞"
+      },
+      {
+        "raw_hot": 226263,
+        "num": 359040,
+        "word": "临江仙追剧团",
+        "onboard_time": 1749700822,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20497,
+        "num": 354558,
+        "word": "天气越热越容易诱发心血管疾病吗",
+        "onboard_time": 1749702681,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107274,
+        "num": 349444,
+        "word": "男子称花两万买木材七成只能当柴火",
+        "onboard_time": 1749702442,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513114,
+        "num": 348376,
+        "word": "看似休息其实很耗气血行为",
+        "onboard_time": 1749699500,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344957,
+        "num": 344957,
+        "word": "特朗普宣布移民金卡网站上线",
+        "onboard_time": 1749697881,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 338771,
+        "num": 338771,
+        "word": "碧瑶下线",
+        "onboard_time": 1749702802,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 316859,
+        "num": 316859,
+        "word": "杨幂不参加酱园弄路演行程",
+        "onboard_time": 1749702921,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278882,
+        "num": 278882,
+        "word": "周杰伦方回应花30亿台币买4层楼",
+        "onboard_time": 1749695242,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242526,
+        "num": 242526,
+        "word": "108万labubu早期收藏者发声",
+        "onboard_time": 1749692180,
+        "rank": 25,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 209638,
+        "num": 209638,
+        "word": "北京出现南方带翅膀大蟑螂正常吗",
+        "onboard_time": 1749702502,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207759,
+        "num": 207759,
+        "word": "张新成万茜领衔主演",
+        "onboard_time": 1749703342,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83303,
+        "num": 201416,
+        "word": "刘浩存两部剧从热恋到热辣",
+        "onboard_time": 1749703222,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197428,
+        "num": 197428,
+        "word": "恋爱中的女生堪比福尔摩斯",
+        "onboard_time": 1749702621,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 535397,
+        "num": 195993,
+        "word": "女网红在TikTok总部哭喊账号被封",
+        "onboard_time": 1749701480,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 282029,
+        "num": 193178,
+        "word": "抗癌博主易达去世",
+        "onboard_time": 1749703162,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187341,
+        "num": 187341,
+        "word": "花漾少女杀人事件定档",
+        "onboard_time": 1749696800,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185265,
+        "num": 185265,
+        "word": "黄子韬6点起床给羊洗澡",
+        "onboard_time": 1749696561,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181441,
+        "num": 181441,
+        "word": "泡泡玛特",
+        "onboard_time": 1749694460,
+        "rank": 34,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 171452,
+        "num": 171452,
+        "word": "接易烊千玺原价票",
+        "onboard_time": 1749697280,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 10507,
+        "num": 154683,
+        "word": "海外网红因没抽到粉色labubu发癫",
+        "onboard_time": 1749703641,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150666,
+        "num": 150666,
+        "word": "焕羽定档",
+        "onboard_time": 1749694580,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52060,
+        "num": 148915,
+        "word": "凡是发生必有利于我",
+        "onboard_time": 1749702621,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147257,
+        "num": 147257,
+        "word": "去世爷爷的狗狗凌晨独自来找孙女",
+        "onboard_time": 1749703641,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145942,
+        "num": 145942,
+        "word": "木糖纯",
+        "onboard_time": 1749701842,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145687,
+        "num": 145687,
+        "word": "者来女清唱单依纯珠玉",
+        "onboard_time": 1749699080,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142924,
+        "num": 142924,
+        "word": "BLACKPINK抢票",
+        "onboard_time": 1749699500,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136643,
+        "num": 136643,
+        "word": "李武军说王楚钦拼劲十足樊振东状态出色",
+        "onboard_time": 1749703342,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135472,
+        "num": 135472,
+        "word": "易烊千玺广州演唱会演出场所",
+        "onboard_time": 1749696320,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132748,
+        "num": 132748,
+        "word": "步行者2比1雷霆",
+        "onboard_time": 1749699141,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131520,
+        "num": 131520,
+        "word": "何炅把马丽一部话剧看了6遍",
+        "onboard_time": 1749699920,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131445,
+        "num": 131445,
+        "word": "丞磊薄肌",
+        "onboard_time": 1749703462,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130560,
+        "num": 130560,
+        "word": "皇马",
+        "onboard_time": 1749699500,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129330,
+        "num": 129330,
+        "word": "以为是校园小甜水原来还是悬疑片",
+        "onboard_time": 1749703282,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是人间正道#"
+    }
+  }
+}
