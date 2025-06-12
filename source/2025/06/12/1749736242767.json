@@ -1,0 +1,410 @@
+{
+  "runTime": 1749736242767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2712709,
+        "num": 2712709,
+        "word": "一架波音787客机印度坠毁",
+        "onboard_time": 1749718401,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1730846,
+        "num": 1730846,
+        "word": "印度坠机242人全部遇难",
+        "onboard_time": 1749723563,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29225,
+        "num": 1393563,
+        "word": "网警提醒高考结束仍需警惕",
+        "onboard_time": 1749730224,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1103539,
+        "num": 1103539,
+        "word": "B站崩了",
+        "onboard_time": 1749725662,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1061571,
+        "num": 1061571,
+        "word": "众星发文力挺邓紫棋",
+        "onboard_time": 1749726323,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 991500,
+        "num": 991500,
+        "word": "全球首架因空难全损波音787",
+        "onboard_time": 1749731960,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 975800,
+        "num": 975800,
+        "word": "王子文红毯摔倒",
+        "onboard_time": 1749731722,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 906497,
+        "num": 906497,
+        "word": "荔枝",
+        "onboard_time": 1749714861,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 552300,
+        "num": 552300,
+        "word": "一学期瘦了70斤生活的变化",
+        "onboard_time": 1749732742,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62310,
+        "num": 528851,
+        "word": "波音航空空难梳理",
+        "onboard_time": 1749735563,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 571832,
+        "num": 527214,
+        "word": "易梦玲怎么又变样了",
+        "onboard_time": 1749734663,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514419,
+        "num": 514419,
+        "word": "警方介入罗帅宇举报医疗腐败",
+        "onboard_time": 1749727641,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504887,
+        "num": 504887,
+        "word": "COSMO盛典",
+        "onboard_time": 1749731423,
+        "rank": 12,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 469438,
+        "num": 469438,
+        "word": "蔡文静做完皮秒被自己吓到",
+        "onboard_time": 1749724101,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277407,
+        "num": 397928,
+        "word": "外媒称印度飞机在医生宿舍坠毁",
+        "onboard_time": 1749729623,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 353413,
+        "num": 353413,
+        "word": "王迅 欠他们的工钱真的太不应该",
+        "onboard_time": 1749729082,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340310,
+        "num": 340310,
+        "word": "肖战回复老师",
+        "onboard_time": 1749728782,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292005,
+        "num": 319014,
+        "word": "时代少年团演唱会大连站批文",
+        "onboard_time": 1749734122,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250308,
+        "num": 317938,
+        "word": "孟子义黑天使造型",
+        "onboard_time": 1749732923,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139290,
+        "num": 317213,
+        "word": "四川一女子网上应聘工作被推荐做代孕",
+        "onboard_time": 1749733282,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 316893,
+        "num": 316893,
+        "word": "印度坠毁飞机仅飞了五分钟",
+        "onboard_time": 1749725424,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295234,
+        "num": 295234,
+        "word": "张雪峰喊话高考后挑扁担回家女孩",
+        "onboard_time": 1749735263,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46956,
+        "num": 243780,
+        "word": "印度坠机已致地面5名医学生遇难",
+        "onboard_time": 1749735743,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222565,
+        "num": 222565,
+        "word": "王者荣耀",
+        "onboard_time": 1749734542,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217500,
+        "num": 217500,
+        "word": "那英单依纯妈妈和女儿",
+        "onboard_time": 1749734183,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214566,
+        "num": 214566,
+        "word": "宋茜高定湿发女王",
+        "onboard_time": 1749735082,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210966,
+        "num": 210966,
+        "word": "台湾网红馆长说两岸城市差太多没法比",
+        "onboard_time": 1749728961,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190689,
+        "num": 190689,
+        "word": "VOGUE官博秒删",
+        "onboard_time": 1749722243,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190408,
+        "num": 190408,
+        "word": "lafufu",
+        "onboard_time": 1749731182,
+        "rank": 28,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 167495,
+        "num": 184241,
+        "word": "金靖评论周柯宇痴心妄想鬼",
+        "onboard_time": 1749734183,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183954,
+        "num": 183954,
+        "word": "大四男生一口气收8个offer年薪20万",
+        "onboard_time": 1749729381,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183077,
+        "num": 183077,
+        "word": "印度坠毁航班号为AI171",
+        "onboard_time": 1749722303,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166766,
+        "num": 166766,
+        "word": "刘诗诗成时尚活动打卡点",
+        "onboard_time": 1749736104,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 155262,
+        "num": 163085,
+        "word": "藏海传研讨会repo",
+        "onboard_time": 1749735623,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162627,
+        "num": 162627,
+        "word": "印度坠机现场已找到至少30具遗体",
+        "onboard_time": 1749734602,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152758,
+        "num": 152758,
+        "word": "男子上户口意外发现女儿非亲生",
+        "onboard_time": 1749719602,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148037,
+        "num": 148037,
+        "word": "辛云来带着水蜜桃走红毯",
+        "onboard_time": 1749735623,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144938,
+        "num": 144938,
+        "word": "梁永棋被骂不能拍就给我滚",
+        "onboard_time": 1749734242,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140987,
+        "num": 140987,
+        "word": "陈昊宇穿高定走红毯",
+        "onboard_time": 1749734122,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 91062,
+        "num": 135170,
+        "word": "王者小刘鸭联动",
+        "onboard_time": 1749734062,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132933,
+        "num": 132933,
+        "word": "全员加速中还是太有节目了",
+        "onboard_time": 1749734841,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134491,
+        "num": 132924,
+        "word": "吴宣仪真被翟潇闻争到了",
+        "onboard_time": 1749732863,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131899,
+        "num": 131899,
+        "word": "临江仙预告",
+        "onboard_time": 1749735924,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130929,
+        "num": 130929,
+        "word": "荔枝冰奶",
+        "onboard_time": 1749728302,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126140,
+        "num": 126140,
+        "word": "enhypen一位",
+        "onboard_time": 1749728182,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121267,
+        "num": 121267,
+        "word": "虞书欣王安宇 一念江南",
+        "onboard_time": 1749712639,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120797,
+        "num": 120797,
+        "word": "河北一收割机触高压线农机手身亡",
+        "onboard_time": 1749733822,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120257,
+        "num": 120257,
+        "word": "魏晨张远18年后芒果同台",
+        "onboard_time": 1749728722,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118047,
+        "num": 118047,
+        "word": "张杰曾为鼓励邓紫棋唱泡沫",
+        "onboard_time": 1749722542,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112284,
+        "num": 112284,
+        "word": "伦敦音爷爷去世",
+        "onboard_time": 1749730161,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#动真碰硬解决突出问题#"
+    }
+  }
+}

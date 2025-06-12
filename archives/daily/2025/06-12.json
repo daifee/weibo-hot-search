@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749735518863,
+  "endTime": 1749736242767,
   "band_list": [
     {
       "raw_hot": 11601503,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1103539,
+      "num": 1103539,
+      "word": "B站崩了",
+      "onboard_time": 1749725662,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1056216,
       "num": 1056216,
       "word": "王子文红毯摔倒",
@@ -139,12 +147,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1007626,
-      "num": 1007626,
-      "word": "B站崩了",
-      "onboard_time": 1749725662,
-      "rank": 24,
-      "category": "互联网"
+      "raw_hot": 991500,
+      "num": 991500,
+      "word": "全球首架因空难全损波音787",
+      "onboard_time": 1749731960,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 991414,
@@ -201,14 +209,6 @@
       "onboard_time": 1749724101,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 864482,
-      "num": 864482,
-      "word": "全球首架因空难全损波音787",
-      "onboard_time": 1749731960,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 831124,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571832,
+      "num": 527214,
+      "word": "易梦玲怎么又变样了",
+      "onboard_time": 1749734663,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570588,
       "num": 334821,
       "word": "孔孝真",
@@ -329,6 +337,14 @@
       "onboard_time": 1749699500,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 552300,
+      "num": 552300,
+      "word": "一学期瘦了70斤生活的变化",
+      "onboard_time": 1749732742,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 548272,
@@ -465,14 +481,6 @@
       "onboard_time": 1749650243,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 442361,
-      "num": 442361,
-      "word": "一学期瘦了70斤生活的变化",
-      "onboard_time": 1749732742,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 433413,
@@ -803,6 +811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295234,
+      "num": 295234,
+      "word": "张雪峰喊话高考后挑扁担回家女孩",
+      "onboard_time": 1749735263,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295112,
       "num": 295112,
       "word": "labubu飞机",
@@ -811,28 +827,20 @@
       "category": "休闲,动漫"
     },
     {
-      "raw_hot": 292050,
-      "num": 292050,
-      "word": "易梦玲怎么又变样了",
-      "onboard_time": 1749734663,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 290793,
-      "num": 290793,
-      "word": "孟子义黑天使造型",
-      "onboard_time": 1749732923,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 285510,
-      "num": 285510,
+      "raw_hot": 292005,
+      "num": 319014,
       "word": "时代少年团演唱会大连站批文",
       "onboard_time": 1749734122,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 290793,
+      "num": 317938,
+      "word": "孟子义黑天使造型",
+      "onboard_time": 1749732923,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 284187,
@@ -872,6 +880,14 @@
       "word": "印度客机坠毁2名婴儿遇难",
       "onboard_time": 1749722243,
       "rank": 24,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 277407,
+      "num": 397928,
+      "word": "外媒称印度飞机在医生宿舍坠毁",
+      "onboard_time": 1749729623,
+      "rank": 14,
       "category": "海外新闻"
     },
     {
@@ -937,14 +953,6 @@
       "onboard_time": 1749716300,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 254765,
-      "num": 396035,
-      "word": "外媒称印度飞机在医生宿舍坠毁",
-      "onboard_time": 1749729623,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 251762,
@@ -1123,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222565,
+      "num": 222565,
+      "word": "王者荣耀",
+      "onboard_time": 1749734542,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221742,
       "num": 221742,
       "word": "樊振东无世排后击败世排第一",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1749728182,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214566,
+      "num": 214566,
+      "word": "宋茜高定湿发女王",
+      "onboard_time": 1749735082,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 212669,
@@ -1337,14 +1361,6 @@
       "onboard_time": 1749708681,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 197039,
-      "num": 197039,
-      "word": "宋茜高定湿发女王",
-      "onboard_time": 1749735082,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 196877,
@@ -1539,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174908,
-      "num": 174908,
-      "word": "王者荣耀",
-      "onboard_time": 1749734542,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 174305,
       "num": 174305,
       "word": "向佐为郭碧婷新女团打call",
@@ -1635,12 +1643,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 166913,
-      "num": 166913,
-      "word": "张雪峰喊话高考后挑扁担回家女孩",
-      "onboard_time": 1749735263,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 166766,
+      "num": 166766,
+      "word": "刘诗诗成时尚活动打卡点",
+      "onboard_time": 1749736104,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 164804,
@@ -1665,6 +1673,14 @@
       "onboard_time": 1749718880,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162627,
+      "num": 218869,
+      "word": "印度坠机现场已找到至少30具遗体",
+      "onboard_time": 1749734602,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 162595,
@@ -1769,6 +1785,14 @@
       "onboard_time": 1749733822,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155262,
+      "num": 163085,
+      "word": "藏海传研讨会repo",
+      "onboard_time": 1749735623,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 154919,
@@ -1905,6 +1929,14 @@
       "onboard_time": 1749711201,
       "rank": 26,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 148037,
+      "num": 148037,
+      "word": "辛云来带着水蜜桃走红毯",
+      "onboard_time": 1749735623,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 147643,
@@ -2059,12 +2091,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140987,
+      "num": 140987,
+      "word": "陈昊宇穿高定走红毯",
+      "onboard_time": 1749734122,
+      "rank": 42,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 140762,
       "num": 272238,
       "word": "吴宣仪真被翟潇闻争到了",
       "onboard_time": 1749732863,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139290,
+      "num": 317213,
+      "word": "四川一女子网上应聘工作被推荐做代孕",
+      "onboard_time": 1749733282,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 139268,
@@ -2089,14 +2137,6 @@
       "onboard_time": 1749732923,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 138714,
-      "num": 138714,
-      "word": "陈昊宇穿高定走红毯",
-      "onboard_time": 1749734122,
-      "rank": 42,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 138677,
@@ -2203,20 +2243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132838,
-      "num": 247020,
-      "word": "四川一女子网上应聘工作被推荐做代孕",
-      "onboard_time": 1749733282,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 132697,
       "num": 132697,
       "word": "00后真是各过各的",
       "onboard_time": 1749720562,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131899,
+      "num": 131899,
+      "word": "临江仙预告",
+      "onboard_time": 1749735924,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 131445,
@@ -2257,14 +2297,6 @@
       "onboard_time": 1749694640,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129826,
-      "num": 218869,
-      "word": "印度坠机现场已找到至少30具遗体",
-      "onboard_time": 1749734602,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129330,
@@ -2963,6 +2995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91062,
+      "num": 135170,
+      "word": "王者小刘鸭联动",
+      "onboard_time": 1749734062,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90953,
       "num": 90953,
       "word": "孟子义说范丞丞看起来比王源大很多",
@@ -3339,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62310,
+      "num": 528851,
+      "word": "波音航空空难梳理",
+      "onboard_time": 1749735563,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 62086,
       "num": 109548,
       "word": "东莞一学校化学实验课6名学生烧伤",
@@ -3481,6 +3529,14 @@
       "onboard_time": 1749705561,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46956,
+      "num": 243780,
+      "word": "印度坠机已致地面5名医学生遇难",
+      "onboard_time": 1749735743,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46654,

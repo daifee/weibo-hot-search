@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749735518863,
+  "endTime": 1749736242767,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1747,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1103539,
+      "num": 1103539,
+      "word": "B站崩了",
+      "onboard_time": 1749725662,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1103013,
       "num": 1176482,
       "word": "孟子义李昀锐 二搭",
@@ -2027,14 +2035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1007626,
-      "num": 1007626,
-      "word": "B站崩了",
-      "onboard_time": 1749725662,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1006789,
       "num": 574422,
       "word": "赵今麦 脱胎换骨",
@@ -2113,6 +2113,14 @@
       "onboard_time": 1749397222,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 991500,
+      "num": 991500,
+      "word": "全球首架因空难全损波音787",
+      "onboard_time": 1749731960,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 991414,
@@ -2585,14 +2593,6 @@
       "onboard_time": 1749141438,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 864482,
-      "num": 864482,
-      "word": "全球首架因空难全损波音787",
-      "onboard_time": 1749731960,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 863332,
@@ -4771,6 +4771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571832,
+      "num": 527214,
+      "word": "易梦玲怎么又变样了",
+      "onboard_time": 1749734663,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571273,
       "num": 455793,
       "word": "王子璇腰伤退出她的瞳拍摄",
@@ -4961,6 +4969,14 @@
       "onboard_time": 1749022580,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 552300,
+      "num": 552300,
+      "word": "一学期瘦了70斤生活的变化",
+      "onboard_time": 1749732742,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 550536,
@@ -6513,14 +6529,6 @@
       "onboard_time": 1749202821,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 442361,
-      "num": 442361,
-      "word": "一学期瘦了70斤生活的变化",
-      "onboard_time": 1749732742,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 442022,
@@ -10251,6 +10259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 295234,
+      "num": 295234,
+      "word": "张雪峰喊话高考后挑扁担回家女孩",
+      "onboard_time": 1749735263,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295204,
       "num": 388423,
       "word": "中方要求日方尽快抓捕嫌犯",
@@ -10371,12 +10387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 292050,
-      "num": 292050,
-      "word": "易梦玲怎么又变样了",
-      "onboard_time": 1749734663,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 292005,
+      "num": 319014,
+      "word": "时代少年团演唱会大连站批文",
+      "onboard_time": 1749734122,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 291545,
@@ -10412,7 +10428,7 @@
     },
     {
       "raw_hot": 290793,
-      "num": 290793,
+      "num": 317938,
       "word": "孟子义黑天使造型",
       "onboard_time": 1749732923,
       "rank": 26,
@@ -10609,14 +10625,6 @@
       "onboard_time": 1749425298,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285510,
-      "num": 285510,
-      "word": "时代少年团演唱会大连站批文",
-      "onboard_time": 1749734122,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 285309,
@@ -10904,6 +10912,14 @@
       "word": "印度客机坠毁2名婴儿遇难",
       "onboard_time": 1749722243,
       "rank": 24,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 277407,
+      "num": 397928,
+      "word": "外媒称印度飞机在医生宿舍坠毁",
+      "onboard_time": 1749729623,
+      "rank": 14,
       "category": "海外新闻"
     },
     {
@@ -11873,14 +11889,6 @@
       "onboard_time": 1749396323,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254765,
-      "num": 396035,
-      "word": "外媒称印度飞机在医生宿舍坠毁",
-      "onboard_time": 1749729623,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 254674,
@@ -14355,6 +14363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214566,
+      "num": 214566,
+      "word": "宋茜高定湿发女王",
+      "onboard_time": 1749735082,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214439,
       "num": 214439,
       "word": "恋与制作人",
@@ -16481,14 +16497,6 @@
       "onboard_time": 1749303022,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197039,
-      "num": 197039,
-      "word": "宋茜高定湿发女王",
-      "onboard_time": 1749735082,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 197007,
@@ -20755,14 +20763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166913,
-      "num": 166913,
-      "word": "张雪峰喊话高考后挑扁担回家女孩",
-      "onboard_time": 1749735263,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166885,
       "num": 166885,
       "word": "2025KPL夏季赛全员出征照",
@@ -20777,6 +20777,14 @@
       "onboard_time": 1749284424,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166766,
+      "num": 166766,
+      "word": "刘诗诗成时尚活动打卡点",
+      "onboard_time": 1749736104,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 166723,
@@ -21465,6 +21473,14 @@
       "onboard_time": 1749441803,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162627,
+      "num": 218869,
+      "word": "印度坠机现场已找到至少30具遗体",
+      "onboard_time": 1749734602,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 162595,
@@ -22649,6 +22665,14 @@
       "onboard_time": 1748934501,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 155262,
+      "num": 163085,
+      "word": "藏海传研讨会repo",
+      "onboard_time": 1749735623,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 155201,
@@ -23857,6 +23881,14 @@
       "onboard_time": 1749121819,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148037,
+      "num": 148037,
+      "word": "辛云来带着水蜜桃走红毯",
+      "onboard_time": 1749735623,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 147958,
@@ -25339,6 +25371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140987,
+      "num": 140987,
+      "word": "陈昊宇穿高定走红毯",
+      "onboard_time": 1749734122,
+      "rank": 42,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 140984,
       "num": 140984,
       "word": "灵笼2挤痘痘",
@@ -25667,6 +25707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139290,
+      "num": 317213,
+      "word": "四川一女子网上应聘工作被推荐做代孕",
+      "onboard_time": 1749733282,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 139270,
       "num": 139270,
       "word": "内娱最权威的六个反派养子",
@@ -25801,14 +25849,6 @@
       "onboard_time": 1748926463,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138714,
-      "num": 138714,
-      "word": "陈昊宇穿高定走红毯",
-      "onboard_time": 1749734122,
-      "rank": 42,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 138702,
@@ -27035,14 +27075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132838,
-      "num": 247020,
-      "word": "四川一女子网上应聘工作被推荐做代孕",
-      "onboard_time": 1749733282,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 132832,
       "num": 357532,
       "word": "国内唯一男女均可接种的9价HPV疫苗",
@@ -27289,6 +27321,14 @@
       "onboard_time": 1749104542,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131899,
+      "num": 131899,
+      "word": "临江仙预告",
+      "onboard_time": 1749735924,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 131832,
@@ -27721,14 +27761,6 @@
       "onboard_time": 1749570320,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129826,
-      "num": 218869,
-      "word": "印度坠机现场已找到至少30具遗体",
-      "onboard_time": 1749734602,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129748,
@@ -33811,6 +33843,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 91062,
+      "num": 135170,
+      "word": "王者小刘鸭联动",
+      "onboard_time": 1749734062,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90994,
       "num": 268142,
       "word": "当地回应不惜一切清理张家界溶洞垃圾",
@@ -37027,6 +37067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62310,
+      "num": 528851,
+      "word": "波音航空空难梳理",
+      "onboard_time": 1749735563,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 62297,
       "num": 167858,
       "word": "公司高管规定上班照镜子罚款",
@@ -38833,6 +38881,14 @@
       "onboard_time": 1749143116,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46956,
+      "num": 243780,
+      "word": "印度坠机已致地面5名医学生遇难",
+      "onboard_time": 1749735743,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46654,
