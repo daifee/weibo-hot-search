@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749745980925,
+  "endTime": 1749746952119,
   "band_list": [
     {
       "raw_hot": 5565200,
@@ -11,8 +11,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1449345,
-      "num": 1449345,
+      "raw_hot": 1667420,
+      "num": 1667420,
       "word": "入户大厅脚臭味超1个月找不到源头",
       "onboard_time": 1749743783,
       "rank": 1,
@@ -27,8 +27,8 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 582735,
-      "num": 582735,
+      "raw_hot": 794616,
+      "num": 794616,
       "word": "印航母公司为每名死者赔一千万卢比",
       "onboard_time": 1749743961,
       "rank": 3,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228956,
+      "num": 228956,
+      "word": "印度坠机事故致超290人死亡",
+      "onboard_time": 1749743422,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 202881,
       "num": 202881,
       "word": "陈昊宇好辣",
@@ -128,14 +136,6 @@
       "word": "全球首架因空难全损波音787",
       "onboard_time": 1749731960,
       "rank": 17,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 189006,
-      "num": 189006,
-      "word": "印度坠机事故致超290人死亡",
-      "onboard_time": 1749743422,
-      "rank": 18,
       "category": "海外新闻"
     },
     {
@@ -172,11 +172,19 @@
     },
     {
       "raw_hot": 137768,
-      "num": 137768,
+      "num": 184868,
       "word": "肖战回复老师",
       "onboard_time": 1749728782,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129104,
+      "num": 370590,
+      "word": "印度客机坠毁全程监控首曝光",
+      "onboard_time": 1749744262,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127167,
@@ -235,20 +243,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106487,
+      "num": 106487,
+      "word": "兰香如故原著作者维权",
+      "onboard_time": 1749746898,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104813,
       "num": 104813,
       "word": "已婚名校博士后谎称单身骗多名女子",
       "onboard_time": 1749739284,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104357,
-      "num": 370590,
-      "word": "印度客机坠毁全程监控首曝光",
-      "onboard_time": 1749744262,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 100227,
@@ -275,20 +283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96038,
+      "num": 96038,
+      "word": "李昀锐谁的妻子",
+      "onboard_time": 1749745581,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92022,
       "num": 92022,
       "word": "大四男生一口气收8个offer年薪20万",
       "onboard_time": 1749729381,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85417,
-      "num": 85417,
-      "word": "李昀锐谁的妻子",
-      "onboard_time": 1749745581,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 82898,
@@ -299,12 +307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82074,
+      "num": 82074,
+      "word": "名侦探柯南新兰发糖",
+      "onboard_time": 1749746898,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 81824,
       "num": 81824,
       "word": "王迅 欠他们的工钱真的太不应该",
       "onboard_time": 1749729082,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81598,
+      "num": 81598,
+      "word": "坠机幸存者为英国籍",
+      "onboard_time": 1749745521,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 81515,
@@ -315,12 +339,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79164,
-      "num": 79164,
-      "word": "坠机幸存者为英国籍",
-      "onboard_time": 1749745521,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 78465,
+      "num": 78465,
+      "word": "lafufu",
+      "onboard_time": 1749731182,
+      "rank": 42,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 74591,
@@ -331,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74064,
-      "num": 74064,
-      "word": "lafufu",
-      "onboard_time": 1749731182,
-      "rank": 42,
-      "category": "休闲,动漫"
+      "raw_hot": 73080,
+      "num": 73080,
+      "word": "蔡文静做完皮秒被自己吓到",
+      "onboard_time": 1749724101,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 69811,
@@ -355,28 +379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66273,
+      "num": 66273,
+      "word": "王者荣耀",
+      "onboard_time": 1749734542,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65929,
       "num": 65929,
       "word": "宋茜高定湿发女王",
       "onboard_time": 1749735082,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64684,
-      "num": 64684,
-      "word": "蔡文静做完皮秒被自己吓到",
-      "onboard_time": 1749724101,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 64350,
-      "num": 64350,
-      "word": "王者荣耀",
-      "onboard_time": 1749734542,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 62857,
@@ -395,8 +411,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57898,
+      "num": 62451,
+      "word": "金靖评论周柯宇痴心妄想鬼",
+      "onboard_time": 1749734183,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3360,
-      "num": 837218,
+      "num": 927059,
       "word": "万千气象看安徽",
       "onboard_time": 1749687320,
       "rank": 2,

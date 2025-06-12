@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749745980925,
+  "endTime": 1749746952119,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -771,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1667420,
+      "num": 1667420,
+      "word": "入户大厅脚臭味超1个月找不到源头",
+      "onboard_time": 1749743783,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1648053,
       "num": 1648053,
       "word": "妈妈带顶流labubu花束接高考女儿",
@@ -969,14 +977,6 @@
       "onboard_time": 1749533841,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1449345,
-      "num": 1449345,
-      "word": "入户大厅脚臭味超1个月找不到源头",
-      "onboard_time": 1749743783,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1444041,
@@ -2987,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 794616,
+      "num": 794616,
+      "word": "印航母公司为每名死者赔一千万卢比",
+      "onboard_time": 1749743961,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 793361,
       "num": 793361,
       "word": "2025高考试卷已在路上",
@@ -4689,14 +4697,6 @@
       "onboard_time": 1749213863,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 582735,
-      "num": 582735,
-      "word": "印航母公司为每名死者赔一千万卢比",
-      "onboard_time": 1749743961,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 582683,
@@ -13355,6 +13355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228956,
+      "num": 228956,
+      "word": "印度坠机事故致超290人死亡",
+      "onboard_time": 1749743422,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 228668,
       "num": 228668,
       "word": "perkz退役",
@@ -17777,14 +17785,6 @@
       "onboard_time": 1749279802,
       "rank": 29,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 189006,
-      "num": 189006,
-      "word": "印度坠机事故致超290人死亡",
-      "onboard_time": 1749743422,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 188992,
@@ -28107,6 +28107,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 129104,
+      "num": 370590,
+      "word": "印度客机坠毁全程监控首曝光",
+      "onboard_time": 1749744262,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129096,
       "num": 129096,
       "word": "准考证就要打七份",
@@ -31963,6 +31971,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 106487,
+      "num": 106487,
+      "word": "兰香如故原著作者维权",
+      "onboard_time": 1749746898,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106461,
       "num": 106461,
       "word": "西藏丁青县山体滑坡仍有7人失联",
@@ -32233,14 +32249,6 @@
       "onboard_time": 1749724342,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 104357,
-      "num": 370590,
-      "word": "印度客机坠毁全程监控首曝光",
-      "onboard_time": 1749744262,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104321,
@@ -33457,6 +33465,14 @@
       "onboard_time": 1749631583,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96038,
+      "num": 96038,
+      "word": "李昀锐谁的妻子",
+      "onboard_time": 1749745581,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 96000,
@@ -34827,14 +34843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85417,
-      "num": 85417,
-      "word": "李昀锐谁的妻子",
-      "onboard_time": 1749745581,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85318,
       "num": 85318,
       "word": "影帝回老家也得割麦子",
@@ -35267,6 +35275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82074,
+      "num": 82074,
+      "word": "名侦探柯南新兰发糖",
+      "onboard_time": 1749746898,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 81960,
       "num": 81960,
       "word": "进击的巨人地下室的真相",
@@ -35289,6 +35305,14 @@
       "onboard_time": 1749489016,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81598,
+      "num": 81598,
+      "word": "坠机幸存者为英国籍",
+      "onboard_time": 1749745521,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 81571,
@@ -35601,14 +35625,6 @@
       "onboard_time": 1749455361,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79164,
-      "num": 79164,
-      "word": "坠机幸存者为英国籍",
-      "onboard_time": 1749745521,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 78935,
