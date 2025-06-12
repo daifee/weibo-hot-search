@@ -1,0 +1,410 @@
+{
+  "runTime": 1749742136904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4189997,
+        "num": 4189997,
+        "word": "印度坠机事故中发现一名幸存者",
+        "onboard_time": 1749723563,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1072246,
+        "num": 1072246,
+        "word": "荔枝",
+        "onboard_time": 1749714861,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2043,
+        "num": 980878,
+        "word": "万千气象看安徽",
+        "onboard_time": 1749687320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 940435,
+        "num": 940435,
+        "word": "众星发文力挺邓紫棋",
+        "onboard_time": 1749726323,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811359,
+        "num": 811359,
+        "word": "一架波音787客机印度坠毁",
+        "onboard_time": 1749718401,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2009012,
+        "num": 773307,
+        "word": "湘雅二医院两年间给罗帅宇转账40多万",
+        "onboard_time": 1749736282,
+        "rank": 5,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 733273,
+        "num": 733273,
+        "word": "红果崩了",
+        "onboard_time": 1749739402,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 565984,
+        "num": 565984,
+        "word": "王子文红毯摔倒",
+        "onboard_time": 1749731722,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 548047,
+        "num": 548047,
+        "word": "陈昊宇好辣",
+        "onboard_time": 1749739163,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 95606,
+        "num": 480714,
+        "word": "乘客曝印度坠机前序航班异常",
+        "onboard_time": 1749741563,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712665,
+        "num": 470560,
+        "word": "易梦玲怎么又变样了",
+        "onboard_time": 1749734663,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426918,
+        "num": 426918,
+        "word": "全球首架因空难全损波音787",
+        "onboard_time": 1749731960,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 397478,
+        "num": 397478,
+        "word": "孟子义方严正声明",
+        "onboard_time": 1749741081,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77287,
+        "num": 377454,
+        "word": "众人翻8吨垃圾找到8克人工耳蜗",
+        "onboard_time": 1749741502,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47216,
+        "num": 374270,
+        "word": "高考之后孩子必须考驾照吗",
+        "onboard_time": 1749740963,
+        "rank": 14,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 374107,
+        "num": 374107,
+        "word": "警方介入罗帅宇举报医疗腐败",
+        "onboard_time": 1749727641,
+        "rank": 15,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 367282,
+        "num": 367282,
+        "word": "已婚名校博士后谎称单身骗多名女子",
+        "onboard_time": 1749739284,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337061,
+        "num": 337061,
+        "word": "印度坠毁飞机仅飞了五分钟",
+        "onboard_time": 1749725424,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 278895,
+        "num": 278895,
+        "word": "藏海一直在做选择",
+        "onboard_time": 1749736524,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255889,
+        "num": 255889,
+        "word": "肖战回复老师",
+        "onboard_time": 1749728782,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259060,
+        "num": 251208,
+        "word": "曾舜晞劝删恋爱脑图",
+        "onboard_time": 1749739883,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215070,
+        "num": 215070,
+        "word": "躲家暴被拐流浪女孩或是杨妞花远亲",
+        "onboard_time": 1749738443,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191638,
+        "num": 191638,
+        "word": "一学期瘦了70斤生活的变化",
+        "onboard_time": 1749732742,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189962,
+        "num": 189962,
+        "word": "印度坠毁航班号为AI171",
+        "onboard_time": 1749722303,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173314,
+        "num": 173314,
+        "word": "刘诗诗戴非遗绒花",
+        "onboard_time": 1749741983,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160775,
+        "num": 160775,
+        "word": "蔡文静做完皮秒被自己吓到",
+        "onboard_time": 1749724101,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158233,
+        "num": 158233,
+        "word": "72岁赵雅芝生图",
+        "onboard_time": 1749736583,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152457,
+        "num": 152457,
+        "word": "lafufu",
+        "onboard_time": 1749731182,
+        "rank": 27,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 149389,
+        "num": 149389,
+        "word": "王迅 欠他们的工钱真的太不应该",
+        "onboard_time": 1749729082,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44190,
+        "num": 148069,
+        "word": "律师遭被告家属侮辱后还手被拘",
+        "onboard_time": 1749741443,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147425,
+        "num": 147425,
+        "word": "台湾网红馆长说两岸城市差太多没法比",
+        "onboard_time": 1749728961,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141124,
+        "num": 141124,
+        "word": "张元英的啤酒广告笑死我了",
+        "onboard_time": 1749741502,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136266,
+        "num": 136266,
+        "word": "孟子义黑天使造型",
+        "onboard_time": 1749732923,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132313,
+        "num": 132313,
+        "word": "印度坠机已致地面5名医学生遇难",
+        "onboard_time": 1749735743,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130015,
+        "num": 130015,
+        "word": "刘诗诗成时尚活动打卡点",
+        "onboard_time": 1749736104,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 129013,
+        "num": 129013,
+        "word": "大四男生一口气收8个offer年薪20万",
+        "onboard_time": 1749729381,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43794,
+        "num": 125688,
+        "word": "华南将迎今年首场最强暴风雨",
+        "onboard_time": 1749742102,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123526,
+        "num": 123526,
+        "word": "宋茜高定湿发女王",
+        "onboard_time": 1749735082,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114634,
+        "num": 114634,
+        "word": "台湾网红馆长说不怕岛内媒体修理",
+        "onboard_time": 1749738923,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47892,
+        "num": 114325,
+        "word": "寂静岭1重制版",
+        "onboard_time": 1749741023,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114047,
+        "num": 114047,
+        "word": "男子上户口意外发现女儿非亲生",
+        "onboard_time": 1749719602,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54910,
+        "num": 113528,
+        "word": "靳东不像走红毯像来开会",
+        "onboard_time": 1749740483,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113443,
+        "num": 113443,
+        "word": "欧阳娜娜栀子花",
+        "onboard_time": 1749741203,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110215,
+        "num": 110215,
+        "word": "王者荣耀",
+        "onboard_time": 1749734542,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109438,
+        "num": 109438,
+        "word": "Red打歌",
+        "onboard_time": 1749741023,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108649,
+        "num": 108649,
+        "word": "那英单依纯妈妈和女儿",
+        "onboard_time": 1749734183,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105641,
+        "num": 105641,
+        "word": "钟楚曦拿荔枝走红毯",
+        "onboard_time": 1749741682,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102804,
+        "num": 102804,
+        "word": "泡泡玛特回应餐厅售卖Labubu芝麻糊",
+        "onboard_time": 1749737663,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101357,
+        "num": 101357,
+        "word": "印度总理莫迪回应印度客机坠毁",
+        "onboard_time": 1749740423,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99751,
+        "num": 99751,
+        "word": "B站崩了",
+        "onboard_time": 1749725662,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是人间正道#"
+    }
+  }
+}
