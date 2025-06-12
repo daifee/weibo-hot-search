@@ -1,0 +1,410 @@
+{
+  "runTime": 1749713163599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 627775,
+        "num": 1100444,
+        "word": "李荣浩力挺邓紫棋",
+        "onboard_time": 1749711383,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612399,
+        "num": 612399,
+        "word": "患癌男子4次中彩票累计得奖1796万",
+        "onboard_time": 1749711799,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29384,
+        "num": 561594,
+        "word": "中国时尚产业盛典",
+        "onboard_time": 1749556760,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 620130,
+        "num": 545049,
+        "word": "那尔那茜事件涉及教育公平理应彻查",
+        "onboard_time": 1749708020,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520964,
+        "num": 520964,
+        "word": "日本投放12万吨2021年的大米",
+        "onboard_time": 1749706401,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 615783,
+        "num": 487318,
+        "word": "邓紫棋6年没有收到版税",
+        "onboard_time": 1749702320,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411032,
+        "num": 411032,
+        "word": "张凯毅 请把女厕的马桶取消吧",
+        "onboard_time": 1749694401,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 370287,
+        "num": 370287,
+        "word": "诛仙终于放过碧瑶了",
+        "onboard_time": 1749710061,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 314809,
+        "num": 314809,
+        "word": "Labubu爆火离不开这四大因素",
+        "onboard_time": 1749698480,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209235,
+        "num": 305396,
+        "word": "抗癌博主易达去世",
+        "onboard_time": 1749703162,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2081033,
+        "num": 304668,
+        "word": "王晓晨回应与俞灏明已婚传闻",
+        "onboard_time": 1749708441,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302434,
+        "num": 302434,
+        "word": "藏海传一句句台词传到台湾",
+        "onboard_time": 1749696981,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 735859,
+        "num": 298713,
+        "word": "山东12岁女孩遭侵害致精神失常",
+        "onboard_time": 1749710720,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104113,
+        "num": 282354,
+        "word": "夫妻感情不和殴打女儿出气",
+        "onboard_time": 1749711921,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32478,
+        "num": 275368,
+        "word": "抢不到Labubu的年轻人对着它疯狂许愿",
+        "onboard_time": 1749711921,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622496,
+        "num": 261782,
+        "word": "那尔那茜",
+        "onboard_time": 1749707482,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342046,
+        "num": 242359,
+        "word": "孔孝真",
+        "onboard_time": 1749706581,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241805,
+        "num": 241805,
+        "word": "白鹿双销冠",
+        "onboard_time": 1749711981,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27540,
+        "num": 238735,
+        "word": "为什么很多年轻人不胖也会血脂偏高",
+        "onboard_time": 1749711741,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32101,
+        "num": 237214,
+        "word": "坠楼围棋少年被父亲寄望夺世界冠军",
+        "onboard_time": 1749712821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237124,
+        "num": 237124,
+        "word": "虞书欣王安宇 一念江南",
+        "onboard_time": 1749712639,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200626,
+        "num": 200626,
+        "word": "都说电竞选手不许洗澡了",
+        "onboard_time": 1749712639,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223256,
+        "num": 200621,
+        "word": "白鹿这段话不能让于正听到",
+        "onboard_time": 1749710600,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198593,
+        "num": 198593,
+        "word": "巴西9岁男孩骑猪疾驰上学",
+        "onboard_time": 1749708380,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193961,
+        "num": 193961,
+        "word": "美国对抗美国",
+        "onboard_time": 1749706220,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 316397,
+        "num": 190305,
+        "word": "当地回应小米SU7路口连撞多车",
+        "onboard_time": 1749707120,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135223,
+        "num": 187718,
+        "word": "高考后挑扁担回家女孩婉拒资助",
+        "onboard_time": 1749711201,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 185565,
+        "num": 185565,
+        "word": "TTG佳心浴室骨折",
+        "onboard_time": 1749708681,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166467,
+        "num": 166467,
+        "word": "不要把自己过多生活暴露给别人",
+        "onboard_time": 1749705383,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131180,
+        "num": 165796,
+        "word": "王祖蓝加盟五哈5",
+        "onboard_time": 1749707241,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88690,
+        "num": 165700,
+        "word": "跳水救人的张伟又去帮学弟学妹了",
+        "onboard_time": 1749713000,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 165685,
+        "num": 165685,
+        "word": "腾讯副总裁回应王者荣耀人机水平",
+        "onboard_time": 1749705080,
+        "rank": 31,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 149847,
+        "num": 149847,
+        "word": "碧瑶下线",
+        "onboard_time": 1749702802,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146383,
+        "num": 146383,
+        "word": "北京出现南方带翅膀大蟑螂正常吗",
+        "onboard_time": 1749702502,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143200,
+        "num": 143200,
+        "word": "广州开始钓熟虾了",
+        "onboard_time": 1749709640,
+        "rank": 34,
+        "category": "幽默,民生新闻"
+      },
+      {
+        "raw_hot": 139416,
+        "num": 139416,
+        "word": "去世爷爷的狗狗凌晨独自来找孙女",
+        "onboard_time": 1749703641,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137607,
+        "num": 137607,
+        "word": "两个拍出天价的Labubu都曾经是他的",
+        "onboard_time": 1749684677,
+        "rank": 36,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 45906,
+        "num": 135025,
+        "word": "岳云鹏新剧适者生存的具象化",
+        "onboard_time": 1749712220,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46654,
+        "num": 134316,
+        "word": "岳云鹏出门在外身份是自己给的",
+        "onboard_time": 1749712821,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72422,
+        "num": 133754,
+        "word": "M712十一周年庆",
+        "onboard_time": 1749710541,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133651,
+        "num": 133651,
+        "word": "台风蝴蝶",
+        "onboard_time": 1749709821,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127008,
+        "num": 127008,
+        "word": "南通炸出冠军天团十二太保坐不住了",
+        "onboard_time": 1749708981,
+        "rank": 41,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 126267,
+        "num": 126267,
+        "word": "杨洋的颜值在北欧算帅吗",
+        "onboard_time": 1749710302,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121682,
+        "num": 121682,
+        "word": "女网红在TikTok总部哭喊账号被封",
+        "onboard_time": 1749701480,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119583,
+        "num": 119583,
+        "word": "罗帅宇事件",
+        "onboard_time": 1749698421,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118673,
+        "num": 118673,
+        "word": "曹颖做到了真正的乘风破浪",
+        "onboard_time": 1749710001,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115895,
+        "num": 115895,
+        "word": "19岁男子入室行凶致人重伤被判死缓",
+        "onboard_time": 1749702383,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114019,
+        "num": 114019,
+        "word": "徐志胜李雪琴扑在汪苏泷怀里",
+        "onboard_time": 1749712701,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109599,
+        "num": 109599,
+        "word": "这种对虾曾经也被国外垄断",
+        "onboard_time": 1749712162,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107584,
+        "num": 107584,
+        "word": "买Labubu买的是什么",
+        "onboard_time": 1749709341,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是人间正道#"
+    }
+  }
+}
