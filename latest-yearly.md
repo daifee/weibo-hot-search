@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/12 16:49:10
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/12 17:28:40
 </p>
 </blockquote>
 <p>
@@ -957,6 +957,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%23" target="weibo">
+一架飞机在印度坠毁（热度：6588113）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%23" target="weibo">
 林高远父亲去世（热度：6585357）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AF%BC%E6%B8%B8%E6%9B%9D%E5%85%89%E5%A4%A7S%E5%8E%BB%E4%B8%96%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
 日本导游曝光大S去世全过程（热度：3421929）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9B%B4%E6%92%AD%E7%AA%81%E7%84%B6%E8%A2%AB%E5%B0%81%23" target="weibo">
-蔡徐坤直播突然被封（热度：3420165）
 </a>
 </li>
 

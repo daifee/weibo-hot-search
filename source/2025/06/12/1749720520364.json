@@ -1,0 +1,410 @@
+{
+  "runTime": 1749720520364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6588113,
+        "num": 6588113,
+        "word": "一架飞机在印度坠毁",
+        "onboard_time": 1749718401,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1729254,
+        "num": 1729254,
+        "word": "荔枝",
+        "onboard_time": 1749714861,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 26625,
+        "num": 1298438,
+        "word": "中国时尚产业盛典",
+        "onboard_time": 1749556760,
+        "rank": 2,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 991414,
+        "num": 991414,
+        "word": "邓紫棋回复李荣浩",
+        "onboard_time": 1749717980,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585902,
+        "num": 585902,
+        "word": "男子假冒空乘免费坐飞机34次",
+        "onboard_time": 1749716840,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 456717,
+        "num": 456717,
+        "word": "患癌男子4次中彩票累计得奖1796万",
+        "onboard_time": 1749711799,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 363227,
+        "num": 363227,
+        "word": "虞书欣王安宇 一念江南",
+        "onboard_time": 1749712639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338262,
+        "num": 338262,
+        "word": "张小凡 陆雪琪",
+        "onboard_time": 1749715940,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 316666,
+        "num": 316666,
+        "word": "印媒称坠毁客机载有242人",
+        "onboard_time": 1749719240,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277853,
+        "num": 316196,
+        "word": "李荣浩力挺邓紫棋",
+        "onboard_time": 1749711383,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1183851,
+        "num": 315426,
+        "word": "王晓晨回应与俞灏明已婚传闻",
+        "onboard_time": 1749708441,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246992,
+        "num": 314447,
+        "word": "金晨 我一个女的不能比男的差",
+        "onboard_time": 1749714140,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697050,
+        "num": 313402,
+        "word": "山东12岁女孩遭侵害致精神失常",
+        "onboard_time": 1749710720,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221831,
+        "num": 312966,
+        "word": "头盔男抱压猥亵女子有两个疑点",
+        "onboard_time": 1749719302,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 40062,
+        "num": 311848,
+        "word": "李诞评价美团外卖谐音梗",
+        "onboard_time": 1749717622,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162420,
+        "num": 310475,
+        "word": "陆柯燃 没有一只鸭子能飞出南京",
+        "onboard_time": 1749719843,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110347,
+        "num": 310307,
+        "word": "印度一客机起飞后坠入居民区",
+        "onboard_time": 1749720262,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 38315,
+        "num": 309444,
+        "word": "父母同时病倒独生子女怎么处理",
+        "onboard_time": 1749718942,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669168,
+        "num": 308164,
+        "word": "那尔那茜妈妈",
+        "onboard_time": 1749716121,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541594,
+        "num": 307408,
+        "word": "熬过这周就好了",
+        "onboard_time": 1749713841,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36473,
+        "num": 306315,
+        "word": "单依纯发布会后台电影风花絮",
+        "onboard_time": 1749719122,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163759,
+        "num": 305590,
+        "word": "张杰将亮相微博电影之夜",
+        "onboard_time": 1749718880,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 398103,
+        "num": 304611,
+        "word": "男子上户口意外发现女儿非亲生",
+        "onboard_time": 1749719602,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304087,
+        "num": 304087,
+        "word": "Uzi现在是Vzi了",
+        "onboard_time": 1749719541,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295112,
+        "num": 295112,
+        "word": "labubu飞机",
+        "onboard_time": 1749718702,
+        "rank": 24,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 193712,
+        "num": 288480,
+        "word": "藏海传一句句台词传到台湾",
+        "onboard_time": 1749696981,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284126,
+        "num": 284126,
+        "word": "电梯厅抱压猥亵女子的头盔男被抓",
+        "onboard_time": 1749718282,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51368,
+        "num": 254949,
+        "word": "领克10EM-P起步即四驱",
+        "onboard_time": 1749716300,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 85972,
+        "num": 244749,
+        "word": "印度客机坠毁现场黑烟滚滚",
+        "onboard_time": 1749720023,
+        "rank": 28,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 18195,
+        "num": 244655,
+        "word": "国学讲师资格30天速成",
+        "onboard_time": 1749719060,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244629,
+        "num": 244629,
+        "word": "买了假车险车主自担100万赔偿",
+        "onboard_time": 1749714201,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11088,
+        "num": 244413,
+        "word": "李白有没有喝到过剑南春",
+        "onboard_time": 1749719182,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106640,
+        "num": 242026,
+        "word": "印度航空发表坠机声明",
+        "onboard_time": 1749720443,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175676,
+        "num": 237603,
+        "word": "朱一龙晒奖杯",
+        "onboard_time": 1749719901,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79556,
+        "num": 236275,
+        "word": "印度坠机机场上空冒起浓烟",
+        "onboard_time": 1749720443,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 234386,
+        "num": 234386,
+        "word": "赛里木湖",
+        "onboard_time": 1749716422,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 199093,
+        "num": 199093,
+        "word": "印度坠机",
+        "onboard_time": 1749720202,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189740,
+        "num": 189740,
+        "word": "张凯毅 请把女厕的马桶取消吧",
+        "onboard_time": 1749694401,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 102220,
+        "num": 189151,
+        "word": "万光年外神秘物每44分钟向地球眨1次眼",
+        "onboard_time": 1749718761,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188954,
+        "num": 188954,
+        "word": "波音787",
+        "onboard_time": 1749720202,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176542,
+        "num": 176542,
+        "word": "诛仙终于放过碧瑶了",
+        "onboard_time": 1749710061,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 5729,
+        "num": 168070,
+        "word": "10平米电竞房打造思路",
+        "onboard_time": 1749718401,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60751,
+        "num": 167088,
+        "word": "张雪迎直播",
+        "onboard_time": 1749717560,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166845,
+        "num": 166845,
+        "word": "中国依法依规对稀土出口审查",
+        "onboard_time": 1749716300,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153361,
+        "num": 153361,
+        "word": "外交部提到中国潮玩影视剧风靡全球",
+        "onboard_time": 1749715460,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152228,
+        "num": 152228,
+        "word": "都说电竞选手不许洗澡了",
+        "onboard_time": 1749712639,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149873,
+        "num": 149873,
+        "word": "Labubu爆火离不开这四大因素",
+        "onboard_time": 1749698480,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136714,
+        "num": 136714,
+        "word": "恋爱脑都来给我听这一段",
+        "onboard_time": 1749718581,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135050,
+        "num": 135050,
+        "word": "朋友圈背景图",
+        "onboard_time": 1749718401,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17075,
+        "num": 133741,
+        "word": "李善德职场进阶从内耗到外耗",
+        "onboard_time": 1749720202,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是人间正道#"
+    }
+  }
+}

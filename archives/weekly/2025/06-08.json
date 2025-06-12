@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749718150722,
+  "endTime": 1749720520364,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -33,6 +33,14 @@
       "onboard_time": 1749640463,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 6588113,
+      "num": 6588113,
+      "word": "一架飞机在印度坠毁",
+      "onboard_time": 1749718401,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 6419842,
@@ -233,6 +241,14 @@
       "onboard_time": 1749480802,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1729254,
+      "num": 1729254,
+      "word": "荔枝",
+      "onboard_time": 1749714861,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 1707096,
@@ -579,14 +595,6 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 1199987,
-      "num": 1199987,
-      "word": "荔枝",
-      "onboard_time": 1749714861,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1189228,
       "num": 491549,
       "word": "迪丽热巴因一句台词一夜涨粉200万",
@@ -800,6 +808,14 @@
       "word": "aespa",
       "onboard_time": 1749397222,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 991414,
+      "num": 991414,
+      "word": "邓紫棋回复李荣浩",
+      "onboard_time": 1749717980,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -1771,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 585902,
+      "num": 585902,
+      "word": "男子假冒空乘免费坐飞机34次",
+      "onboard_time": 1749716840,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 585694,
       "num": 585694,
       "word": "樊振东3比1林高远",
@@ -2587,14 +2611,6 @@
       "category": "幽默,旅游"
     },
     {
-      "raw_hot": 452933,
-      "num": 398250,
-      "word": "邓紫棋回复李荣浩",
-      "onboard_time": 1749717980,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452661,
       "num": 452661,
       "word": "年度乘风舞台",
@@ -3043,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398103,
+      "num": 304611,
+      "word": "男子上户口意外发现女儿非亲生",
+      "onboard_time": 1749719602,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396154,
       "num": 360418,
       "word": "王珞丹成团",
@@ -3105,14 +3129,6 @@
       "onboard_time": 1749461361,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 388966,
-      "num": 388966,
-      "word": "男子假冒空乘免费坐飞机34次",
-      "onboard_time": 1749716840,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 388870,
@@ -3915,6 +3931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316666,
+      "num": 316666,
+      "word": "印媒称坠毁客机载有242人",
+      "onboard_time": 1749719240,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 316574,
       "num": 316574,
       "word": "空调开一天要多少电钱",
@@ -4115,6 +4139,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 304087,
+      "num": 304087,
+      "word": "Uzi现在是Vzi了",
+      "onboard_time": 1749719541,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 303815,
       "num": 303815,
       "word": "70岁任达华回山东老家收麦子",
@@ -4217,6 +4249,14 @@
       "onboard_time": 1749312084,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 295112,
+      "num": 295112,
+      "word": "labubu飞机",
+      "onboard_time": 1749718702,
+      "rank": 24,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 295007,
@@ -4377,6 +4417,14 @@
       "onboard_time": 1749654022,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 284126,
+      "num": 284126,
+      "word": "电梯厅抱压猥亵女子的头盔男被抓",
+      "onboard_time": 1749718282,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283894,
@@ -5275,6 +5323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 234386,
+      "num": 234386,
+      "word": "赛里木湖",
+      "onboard_time": 1749716422,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 233638,
       "num": 233638,
       "word": "樊振东11比7闫安",
@@ -5641,6 +5697,14 @@
       "onboard_time": 1749457042,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221831,
+      "num": 312966,
+      "word": "头盔男抱压猥亵女子有两个疑点",
+      "onboard_time": 1749719302,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 221593,
@@ -6571,6 +6635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199093,
+      "num": 199093,
+      "word": "印度坠机",
+      "onboard_time": 1749720202,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 199036,
       "num": 199036,
       "word": "白鹿扛剧能力",
@@ -7169,6 +7241,14 @@
       "onboard_time": 1749386301,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188954,
+      "num": 188954,
+      "word": "波音787",
+      "onboard_time": 1749720202,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 188884,
@@ -7947,6 +8027,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 175676,
+      "num": 237603,
+      "word": "朱一龙晒奖杯",
+      "onboard_time": 1749719901,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175560,
       "num": 175560,
       "word": "连成一片的高温来了",
@@ -8401,14 +8489,6 @@
       "onboard_time": 1749461902,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 169101,
-      "num": 169101,
-      "word": "赛里木湖",
-      "onboard_time": 1749716422,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 168896,
@@ -8907,6 +8987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163759,
+      "num": 305590,
+      "word": "张杰将亮相微博电影之夜",
+      "onboard_time": 1749718880,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163336,
       "num": 135565,
       "word": "王楚钦谈大头外号",
@@ -8977,6 +9065,14 @@
       "onboard_time": 1749300983,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162420,
+      "num": 310475,
+      "word": "陆柯燃 没有一只鸭子能飞出南京",
+      "onboard_time": 1749719843,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 162163,
@@ -9689,6 +9785,14 @@
       "onboard_time": 1749547461,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153361,
+      "num": 153361,
+      "word": "外交部提到中国潮玩影视剧风靡全球",
+      "onboard_time": 1749715460,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153279,
@@ -11051,6 +11155,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 136714,
+      "num": 136714,
+      "word": "恋爱脑都来给我听这一段",
+      "onboard_time": 1749718581,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136690,
       "num": 377481,
       "word": "中国汽车崛起离不开真功夫和硬实力",
@@ -11233,6 +11345,14 @@
       "onboard_time": 1749709521,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135050,
+      "num": 135050,
+      "word": "朋友圈背景图",
+      "onboard_time": 1749718401,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 134911,
@@ -13003,6 +13123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110347,
+      "num": 310307,
+      "word": "印度一客机起飞后坠入居民区",
+      "onboard_time": 1749720262,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 110314,
       "num": 110314,
       "word": "护师 拿下",
@@ -13187,6 +13315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 106640,
+      "num": 242026,
+      "word": "印度航空发表坠机声明",
+      "onboard_time": 1749720443,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106394,
       "num": 121894,
       "word": "GAI 白鸽",
@@ -13337,6 +13473,14 @@
       "onboard_time": 1749562162,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102220,
+      "num": 189151,
+      "word": "万光年外神秘物每44分钟向地球眨1次眼",
+      "onboard_time": 1749718761,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102211,
@@ -14059,6 +14203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85972,
+      "num": 244749,
+      "word": "印度客机坠毁现场黑烟滚滚",
+      "onboard_time": 1749720023,
+      "rank": 28,
+      "category": "海外新闻,民生新闻"
+    },
+    {
       "raw_hot": 85882,
       "num": 295971,
       "word": "镇政府回应光伏板坠落学生被砸身亡",
@@ -14409,6 +14561,14 @@
       "onboard_time": 1749468681,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79556,
+      "num": 236275,
+      "word": "印度坠机机场上空冒起浓烟",
+      "onboard_time": 1749720443,
+      "rank": 34,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 79198,
@@ -15460,7 +15620,7 @@
     },
     {
       "raw_hot": 54935,
-      "num": 148590,
+      "num": 311848,
       "word": "李诞评价美团外卖谐音梗",
       "onboard_time": 1749717622,
       "rank": 33,
@@ -15625,6 +15785,14 @@
       "onboard_time": 1749431361,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51368,
+      "num": 254949,
+      "word": "领克10EM-P起步即四驱",
+      "onboard_time": 1749716300,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 51051,
@@ -15811,14 +15979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47482,
-      "num": 179737,
-      "word": "领克10EM-P起步即四驱",
-      "onboard_time": 1749716300,
-      "rank": 27,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 47360,
       "num": 1233448,
       "word": "我国服务贸易跑出加速度",
@@ -15900,7 +16060,7 @@
     },
     {
       "raw_hot": 45570,
-      "num": 897716,
+      "num": 1298438,
       "word": "中国时尚产业盛典",
       "onboard_time": 1749556760,
       "rank": 2,
@@ -16371,6 +16531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38315,
+      "num": 309444,
+      "word": "父母同时病倒独生子女怎么处理",
+      "onboard_time": 1749718942,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38237,
       "num": 81611,
       "word": "林孝埈说在一点点恢复",
@@ -16505,6 +16673,14 @@
       "onboard_time": 1749478103,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36473,
+      "num": 306315,
+      "word": "单依纯发布会后台电影风花絮",
+      "onboard_time": 1749719122,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 36450,
@@ -17811,6 +17987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18195,
+      "num": 244655,
+      "word": "国学讲师资格30天速成",
+      "onboard_time": 1749719060,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18146,
       "num": 360956,
       "word": "怎样找到适合自己的输出型爱好",
@@ -17865,6 +18049,14 @@
       "onboard_time": 1749391344,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 17075,
+      "num": 133741,
+      "word": "李善德职场进阶从内耗到外耗",
+      "onboard_time": 1749720202,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 16961,
@@ -18235,6 +18427,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 11088,
+      "num": 244413,
+      "word": "李白有没有喝到过剑南春",
+      "onboard_time": 1749719182,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11081,
       "num": 23595,
       "word": "预计6月23日起高考成绩陆续公布",
@@ -18401,6 +18601,14 @@
       "onboard_time": 1749454762,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5729,
+      "num": 168070,
+      "word": "10平米电竞房打造思路",
+      "onboard_time": 1749718401,
+      "rank": 41,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
