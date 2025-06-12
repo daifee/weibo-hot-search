@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749693651247,
+  "endTime": 1749695049280,
   "band_list": [
     {
       "raw_hot": 916613,
@@ -59,12 +59,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 481174,
+      "num": 481174,
+      "word": "张凯毅 请把女厕的马桶取消吧",
+      "onboard_time": 1749694401,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 469014,
       "num": 915320,
       "word": "女子在电梯厅被头盔男抱起压倒在地",
       "onboard_time": 1749682996,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 461308,
+      "num": 461308,
+      "word": "108万labubu早期收藏者发声",
+      "onboard_time": 1749692180,
+      "rank": 9,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 454544,
@@ -81,6 +97,14 @@
       "onboard_time": 1749650243,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 428750,
+      "num": 428750,
+      "word": "特朗普说不怪马斯克但对其失望",
+      "onboard_time": 1749689721,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 413429,
@@ -107,14 +131,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 390678,
-      "num": 390678,
-      "word": "特朗普说不怪马斯克但对其失望",
-      "onboard_time": 1749689721,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 387394,
       "num": 387394,
       "word": "歌手第五期歌单",
@@ -129,6 +145,14 @@
       "onboard_time": 1749689721,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360808,
+      "num": 360808,
+      "word": "岳云鹏演唱会票价引争议",
+      "onboard_time": 1749684739,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 353054,
@@ -155,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325788,
-      "num": 325788,
-      "word": "岳云鹏演唱会票价引争议",
-      "onboard_time": 1749684739,
-      "rank": 24,
-      "category": "演出"
+      "raw_hot": 301613,
+      "num": 301613,
+      "word": "周杰 好爽的嘴",
+      "onboard_time": 1749692119,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 300110,
@@ -187,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 262733,
+      "num": 262733,
+      "word": "TVB演员再就业长沙摆摊卖咖啡",
+      "onboard_time": 1749691520,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256822,
       "num": 256822,
       "word": "女子兼职给Labubu钩衣服月入超2万",
@@ -201,14 +233,6 @@
       "onboard_time": 1749686240,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236705,
-      "num": 256649,
-      "word": "TVB演员再就业长沙摆摊卖咖啡",
-      "onboard_time": 1749691520,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 229469,
@@ -227,14 +251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220170,
-      "num": 220170,
-      "word": "周杰 好爽的嘴",
-      "onboard_time": 1749692119,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217840,
       "num": 232939,
       "word": "洛杉矶市中心225人被捕",
@@ -249,14 +265,6 @@
       "onboard_time": 1749641002,
       "rank": 8,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 208920,
-      "num": 246929,
-      "word": "108万labubu早期收藏者发声",
-      "onboard_time": 1749692180,
-      "rank": 9,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 202619,
@@ -299,12 +307,28 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 192802,
+      "num": 192802,
+      "word": "焕羽定档",
+      "onboard_time": 1749694580,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188575,
       "num": 197581,
       "word": "景甜龙骨焚箱造型",
       "onboard_time": 1749683358,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182431,
+      "num": 182431,
+      "word": "泡泡玛特",
+      "onboard_time": 1749694460,
+      "rank": 18,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 181920,
@@ -321,6 +345,14 @@
       "onboard_time": 1749645863,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175560,
+      "num": 175560,
+      "word": "连成一片的高温来了",
+      "onboard_time": 1749684080,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172208,
@@ -387,12 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137035,
-      "num": 137035,
-      "word": "连成一片的高温来了",
-      "onboard_time": 1749684080,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 132564,
+      "num": 123589,
+      "word": "高仿LABUBU必须被拿下",
+      "onboard_time": 1749693679,
+      "rank": 31,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 130543,
@@ -401,6 +433,14 @@
       "onboard_time": 1749652402,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130179,
+      "num": 130179,
+      "word": "导演称藏海传第2季要看观众反馈",
+      "onboard_time": 1749694640,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 128339,
@@ -443,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121170,
+      "num": 121170,
+      "word": "宁艺卓与香奈儿的适配度",
+      "onboard_time": 1749693621,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121023,
       "num": 121023,
       "word": "她的瞳",
@@ -475,19 +523,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114784,
-      "num": 114784,
-      "word": "宁艺卓与香奈儿的适配度",
-      "onboard_time": 1749693621,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112800,
-      "num": 112800,
+      "num": 170898,
       "word": "900张照片看并蒂莲绽放全程",
       "onboard_time": 1749691221,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109404,
+      "num": 176981,
+      "word": "被剑南春与陕历博联名惊艳到了",
+      "onboard_time": 1749694460,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -507,12 +555,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104858,
+      "num": 104858,
+      "word": "筋膜枪终于有了用武之地",
+      "onboard_time": 1749694881,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102584,
       "num": 102584,
       "word": "孕期的经历没有人能真正体会到",
       "onboard_time": 1749686300,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101748,
+      "num": 101748,
+      "word": "原来猫抓板没有给小猫说明书",
+      "onboard_time": 1749694519,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101714,
+      "num": 101714,
+      "word": "刘诗诗开屏",
+      "onboard_time": 1749694761,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 99539,
@@ -531,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93852,
+      "num": 93852,
+      "word": "纽森说正收拾特朗普留下的烂摊子",
+      "onboard_time": 1749694340,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93586,
       "num": 93586,
       "word": "孙颖莎所在俱乐部女子第一",
@@ -547,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93144,
+      "num": 93144,
+      "word": "NBA总决赛",
+      "onboard_time": 1749690741,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93011,
       "num": 69893,
       "word": "她的瞳剧组换女主",
@@ -561,6 +649,14 @@
       "onboard_time": 1749675854,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91217,
+      "num": 91217,
+      "word": "李善德送荔枝运费相当于百套房",
+      "onboard_time": 1749693859,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 90953,
@@ -908,7 +1004,7 @@
     },
     {
       "raw_hot": 31133,
-      "num": 427902,
+      "num": 471090,
       "word": "万千气象看安徽",
       "onboard_time": 1749687320,
       "rank": 2,
@@ -977,6 +1073,14 @@
       "onboard_time": 1749670874,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16961,
+      "num": 110945,
+      "word": "这才是高考后实用的建议",
+      "onboard_time": 1749694819,
+      "rank": 38,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 14057,

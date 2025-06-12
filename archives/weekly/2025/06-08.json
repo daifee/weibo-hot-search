@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749693651247,
+  "endTime": 1749695049280,
   "band_list": [
     {
       "raw_hot": 10433504,
@@ -2211,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 481174,
+      "num": 481174,
+      "word": "张凯毅 请把女厕的马桶取消吧",
+      "onboard_time": 1749694401,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 480996,
       "num": 480996,
       "word": "国足不是最后一名",
@@ -2345,6 +2353,14 @@
       "onboard_time": 1749392544,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 461308,
+      "num": 461308,
+      "word": "108万labubu早期收藏者发声",
+      "onboard_time": 1749692180,
+      "rank": 9,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 459656,
@@ -2505,6 +2521,14 @@
       "onboard_time": 1749382401,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 428750,
+      "num": 428750,
+      "word": "特朗普说不怪马斯克但对其失望",
+      "onboard_time": 1749689721,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 427161,
@@ -2811,14 +2835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 390678,
-      "num": 390678,
-      "word": "特朗普说不怪马斯克但对其失望",
-      "onboard_time": 1749689721,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 389469,
       "num": 389469,
       "word": "好好吃饭才能瘦",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1749347901,
       "rank": 24,
       "category": "网红,剧集"
+    },
+    {
+      "raw_hot": 360808,
+      "num": 360808,
+      "word": "岳云鹏演唱会票价引争议",
+      "onboard_time": 1749684739,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 360345,
@@ -3499,14 +3523,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 325788,
-      "num": 325788,
-      "word": "岳云鹏演唱会票价引争议",
-      "onboard_time": 1749684739,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 324571,
       "num": 324571,
       "word": "为救女儿生下的儿子也患罕见遗传病",
@@ -3777,6 +3793,14 @@
       "onboard_time": 1749460641,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 301613,
+      "num": 301613,
+      "word": "周杰 好爽的嘴",
+      "onboard_time": 1749692119,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 301229,
@@ -4347,6 +4371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 262733,
+      "num": 262733,
+      "word": "TVB演员再就业长沙摆摊卖咖啡",
+      "onboard_time": 1749691520,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262360,
       "num": 129797,
       "word": "双黄丹",
@@ -4779,14 +4811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236705,
-      "num": 256649,
-      "word": "TVB演员再就业长沙摆摊卖咖啡",
-      "onboard_time": 1749691520,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236003,
       "num": 236003,
       "word": "日本vs印尼",
@@ -5203,14 +5227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 220170,
-      "num": 220170,
-      "word": "周杰 好爽的嘴",
-      "onboard_time": 1749692119,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219982,
       "num": 219982,
       "word": "建议大家练一练盆底肌",
@@ -5537,14 +5553,6 @@
       "onboard_time": 1749530122,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208920,
-      "num": 246929,
-      "word": "108万labubu早期收藏者发声",
-      "onboard_time": 1749692180,
-      "rank": 9,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 208614,
@@ -6393,6 +6401,14 @@
       "onboard_time": 1749447023,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192802,
+      "num": 192802,
+      "word": "焕羽定档",
+      "onboard_time": 1749694580,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 192748,
@@ -7345,6 +7361,14 @@
       "onboard_time": 1749632542,
       "rank": 38,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 175560,
+      "num": 175560,
+      "word": "连成一片的高温来了",
+      "onboard_time": 1749684080,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175224,
@@ -10139,14 +10163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137035,
-      "num": 137035,
-      "word": "连成一片的高温来了",
-      "onboard_time": 1749684080,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136936,
       "num": 136936,
       "word": "左小青一人饰两角横跨20年",
@@ -10523,6 +10539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132564,
+      "num": 123589,
+      "word": "高仿LABUBU必须被拿下",
+      "onboard_time": 1749693679,
+      "rank": 31,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 132282,
       "num": 132282,
       "word": "洛杉矶纽约之后得州也乱了",
@@ -10705,6 +10729,14 @@
       "onboard_time": 1749548841,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130179,
+      "num": 130179,
+      "word": "导演称藏海传第2季要看观众反馈",
+      "onboard_time": 1749694640,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 129928,
@@ -11243,6 +11275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121170,
+      "num": 121170,
+      "word": "宁艺卓与香奈儿的适配度",
+      "onboard_time": 1749693621,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120910,
       "num": 182534,
       "word": "景甜第二次演尾鱼女主了",
@@ -11603,14 +11643,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 114784,
-      "num": 114784,
-      "word": "宁艺卓与香奈儿的适配度",
-      "onboard_time": 1749693621,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114648,
       "num": 114648,
       "word": "临江仙当年的事各有难处",
@@ -11764,7 +11796,7 @@
     },
     {
       "raw_hot": 112800,
-      "num": 112800,
+      "num": 170898,
       "word": "900张照片看并蒂莲绽放全程",
       "onboard_time": 1749691221,
       "rank": 36,
@@ -11907,6 +11939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109404,
+      "num": 176981,
+      "word": "被剑南春与陕历博联名惊艳到了",
+      "onboard_time": 1749694460,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109151,
       "num": 233234,
       "word": "6岁男孩被困小区电梯40分钟无人救",
@@ -12009,6 +12049,14 @@
       "onboard_time": 1749342558,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104858,
+      "num": 104858,
+      "word": "筋膜枪终于有了用武之地",
+      "onboard_time": 1749694881,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 104815,
@@ -12161,6 +12209,22 @@
       "onboard_time": 1749566602,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 101748,
+      "num": 101748,
+      "word": "原来猫抓板没有给小猫说明书",
+      "onboard_time": 1749694519,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101714,
+      "num": 101714,
+      "word": "刘诗诗开屏",
+      "onboard_time": 1749694761,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 101361,
@@ -12427,6 +12491,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93852,
+      "num": 93852,
+      "word": "纽森说正收拾特朗普留下的烂摊子",
+      "onboard_time": 1749694340,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 93144,
+      "num": 93144,
+      "word": "NBA总决赛",
+      "onboard_time": 1749690741,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93103,
       "num": 304198,
       "word": "挑行李回家女生父亲哥哥都在打工",
@@ -12489,6 +12569,14 @@
       "onboard_time": 1749521541,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91217,
+      "num": 91217,
+      "word": "李善德送荔枝运费相当于百套房",
+      "onboard_time": 1749693859,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 91182,
@@ -16217,6 +16305,14 @@
       "onboard_time": 1749391344,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 16961,
+      "num": 110945,
+      "word": "这才是高考后实用的建议",
+      "onboard_time": 1749694819,
+      "rank": 38,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 16802,
