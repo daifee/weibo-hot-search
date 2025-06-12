@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749760993870,
+  "endTime": 1749763513027,
   "band_list": [
     {
       "raw_hot": 11601503,
@@ -4793,6 +4793,14 @@
       "onboard_time": 1749352761,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 283290,
+      "num": 283290,
+      "word": "印度坠机事故幸存者发声",
+      "onboard_time": 1749751756,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282030,
@@ -9984,14 +9992,6 @@
       "word": "长沙暴雨居民楼楼梯变瀑布",
       "onboard_time": 1749353182,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160085,
-      "num": 160085,
-      "word": "印度坠机事故幸存者发声",
-      "onboard_time": 1749751756,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -19187,8 +19187,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23633,
-      "num": 23633,
+      "raw_hot": 23691,
+      "num": 23691,
       "word": "女生持续2年每月漂染头发双腿长紫斑",
       "onboard_time": 1749751756,
       "rank": 24,
@@ -19611,6 +19611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18350,
+      "num": 18350,
+      "word": "伊朗防长威胁将袭击中东美军基地",
+      "onboard_time": 1749761294,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18321,
       "num": 34060,
       "word": "航母上的起飞瞬间",
@@ -19769,6 +19777,14 @@
       "onboard_time": 1749468923,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15658,
+      "num": 17243,
+      "word": "当事女子回应网上招聘工作被推荐代孕",
+      "onboard_time": 1749761533,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15591,
@@ -20185,6 +20201,14 @@
       "onboard_time": 1749637881,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 10212,
+      "num": 46274,
+      "word": "印度航空公司官网页面变黑白",
+      "onboard_time": 1749761416,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10207,

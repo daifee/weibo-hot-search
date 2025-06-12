@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749760993870,
+  "endTime": 1749763513027,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -10825,6 +10825,14 @@
       "onboard_time": 1749023659,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283290,
+      "num": 283290,
+      "word": "印度坠机事故幸存者发声",
+      "onboard_time": 1749751756,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283066,
@@ -22032,14 +22040,6 @@
       "word": "长沙暴雨居民楼楼梯变瀑布",
       "onboard_time": 1749353182,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160085,
-      "num": 160085,
-      "word": "印度坠机事故幸存者发声",
-      "onboard_time": 1749751756,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -43363,20 +43363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23691,
+      "num": 23691,
+      "word": "女生持续2年每月漂染头发双腿长紫斑",
+      "onboard_time": 1749751756,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23633,
       "num": 240817,
       "word": "山西人有自己的华夫饼",
       "onboard_time": 1749205880,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23633,
-      "num": 23633,
-      "word": "女生持续2年每月漂染头发双腿长紫斑",
-      "onboard_time": 1749751756,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23599,
@@ -44347,6 +44347,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 18350,
+      "num": 18350,
+      "word": "伊朗防长威胁将袭击中东美军基地",
+      "onboard_time": 1749761294,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18321,
       "num": 34060,
       "word": "航母上的起飞瞬间",
@@ -44681,6 +44689,14 @@
       "onboard_time": 1748849120,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15658,
+      "num": 17243,
+      "word": "当事女子回应网上招聘工作被推荐代孕",
+      "onboard_time": 1749761533,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15591,
@@ -45505,6 +45521,14 @@
       "onboard_time": 1749114682,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 10212,
+      "num": 46274,
+      "word": "印度航空公司官网页面变黑白",
+      "onboard_time": 1749761416,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10207,

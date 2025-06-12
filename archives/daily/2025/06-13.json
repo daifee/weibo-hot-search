@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749760993870,
+  "endTime": 1749763513027,
   "band_list": [
     {
       "raw_hot": 5565200,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283290,
+      "num": 283290,
+      "word": "印度坠机事故幸存者发声",
+      "onboard_time": 1749751756,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259638,
       "num": 259638,
       "word": "红果崩了",
@@ -145,14 +153,6 @@
       "onboard_time": 1749722303,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 160085,
-      "num": 160085,
-      "word": "印度坠机事故幸存者发声",
-      "onboard_time": 1749751756,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155058,
@@ -475,8 +475,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 23633,
-      "num": 23633,
+      "raw_hot": 23691,
+      "num": 23691,
       "word": "女生持续2年每月漂染头发双腿长紫斑",
       "onboard_time": 1749751756,
       "rank": 24,
@@ -491,12 +491,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18350,
+      "num": 18350,
+      "word": "伊朗防长威胁将袭击中东美军基地",
+      "onboard_time": 1749761294,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17373,
       "num": 17373,
       "word": "外交部回应中国潮玩海外爆火",
       "onboard_time": 1749756314,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15658,
+      "num": 17243,
+      "word": "当事女子回应网上招聘工作被推荐代孕",
+      "onboard_time": 1749761533,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13764,
@@ -507,8 +523,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 7792,
-      "num": 160586,
+      "raw_hot": 10212,
+      "num": 46274,
+      "word": "印度航空公司官网页面变黑白",
+      "onboard_time": 1749761416,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 8440,
+      "num": 199369,
       "word": "网警提醒高考结束仍需警惕",
       "onboard_time": 1749730224,
       "rank": 2,
