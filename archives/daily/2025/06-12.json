@@ -1,6 +1,6 @@
 {
   "startTime": 1749659635681,
-  "endTime": 1749724141243,
+  "endTime": 1749725203784,
   "band_list": [
     {
       "raw_hot": 11601503,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 2569852,
-      "num": 906014,
+      "num": 950949,
       "word": "王晓晨回应与俞灏明已婚传闻",
       "onboard_time": 1749708441,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2073522,
+      "num": 2073522,
+      "word": "印度坠机已致110死",
+      "onboard_time": 1749723563,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1729254,
@@ -49,6 +57,14 @@
       "onboard_time": 1749694401,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1391100,
+      "num": 577307,
+      "word": "头盔男抱压猥亵女子有两个疑点",
+      "onboard_time": 1749719302,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1315914,
@@ -83,12 +99,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1128483,
-      "num": 577307,
-      "word": "头盔男抱压猥亵女子有两个疑点",
-      "onboard_time": 1749719302,
-      "rank": 13,
-      "category": "舆论监督"
+      "raw_hot": 1045069,
+      "num": 1045069,
+      "word": "VOGUE官博秒删",
+      "onboard_time": 1749722243,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1019403,
@@ -105,14 +121,6 @@
       "onboard_time": 1749717980,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 969657,
-      "num": 969657,
-      "word": "VOGUE官博秒删",
-      "onboard_time": 1749722243,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 954747,
@@ -209,14 +217,6 @@
       "onboard_time": 1749699200,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 608619,
-      "num": 608619,
-      "word": "印度坠机已致110死",
-      "onboard_time": 1749723563,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 587811,
@@ -329,6 +329,14 @@
       "onboard_time": 1749714140,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486167,
+      "num": 323475,
+      "word": "蔡文静做完皮秒被自己吓到",
+      "onboard_time": 1749724101,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 485490,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 368895,
-      "num": 299863,
+      "num": 310395,
       "word": "印坠机飞行员曾发求救信号",
       "onboard_time": 1749722363,
       "rank": 20,
@@ -547,8 +555,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350856,
-      "num": 350856,
+      "raw_hot": 351125,
+      "num": 351125,
       "word": "印度客机坠毁机场暂停运营",
       "onboard_time": 1749722483,
       "rank": 8,
@@ -585,6 +593,22 @@
       "onboard_time": 1749704121,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324324,
+      "num": 324324,
+      "word": "印度坠毁航班号为AI171",
+      "onboard_time": 1749722303,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 320261,
+      "num": 320261,
+      "word": "李柱延道歉",
+      "onboard_time": 1749722962,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 319599,
@@ -651,14 +675,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 298037,
-      "num": 298037,
-      "word": "印度坠毁航班号为AI171",
-      "onboard_time": 1749722303,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 295112,
       "num": 295112,
       "word": "labubu飞机",
@@ -699,14 +715,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 267099,
-      "num": 304392,
-      "word": "李柱延道歉",
-      "onboard_time": 1749722962,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262733,
       "num": 262733,
       "word": "TVB演员再就业长沙摆摊卖咖啡",
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 251762,
-      "num": 303547,
+      "num": 319206,
       "word": "张翰回应演高中生",
       "onboard_time": 1749721523,
       "rank": 15,
@@ -931,6 +939,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 211998,
+      "num": 211998,
+      "word": "费东斌被查",
+      "onboard_time": 1749724162,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 211812,
       "num": 193118,
       "word": "鹿晗四巡主题色",
@@ -1011,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198959,
+      "num": 214699,
+      "word": "张真源 环球人物",
+      "onboard_time": 1749724342,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198661,
       "num": 198661,
       "word": "全球唯一薄荷色labubu108万成交",
@@ -1020,7 +1044,7 @@
     },
     {
       "raw_hot": 197778,
-      "num": 228819,
+      "num": 359241,
       "word": "印度航空坠机后波音股价下跌",
       "onboard_time": 1749723382,
       "rank": 31,
@@ -1171,6 +1195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 177784,
+      "num": 184760,
+      "word": "湘雅刘翔峰多次被举报",
+      "onboard_time": 1749723743,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175676,
       "num": 352007,
       "word": "朱一龙晒奖杯",
@@ -1227,20 +1259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172158,
+      "num": 1320089,
+      "word": "中国过境免签适用55国全名单",
+      "onboard_time": 1749722783,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170568,
       "num": 185018,
       "word": "肖战带病坚持拍摄藏海传",
       "onboard_time": 1749722843,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169704,
-      "num": 184760,
-      "word": "湘雅刘翔峰多次被举报",
-      "onboard_time": 1749723743,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168757,
@@ -1491,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146284,
+      "num": 158145,
+      "word": "田曦薇替李一桐保管手机",
+      "onboard_time": 1749724882,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145993,
       "num": 145993,
       "word": "张婧仪昨天收官今天定档",
@@ -1649,6 +1689,14 @@
       "onboard_time": 1749718401,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133604,
+      "num": 133604,
+      "word": "丘成桐点评韦神",
+      "onboard_time": 1749721582,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133045,
@@ -1835,14 +1883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125319,
-      "num": 125319,
-      "word": "蔡文静做完皮秒被自己吓到",
-      "onboard_time": 1749724101,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125162,
       "num": 125162,
       "word": "土耳其将向印尼出口48架第五代战机",
@@ -1913,14 +1953,6 @@
       "onboard_time": 1749652644,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120946,
-      "num": 120946,
-      "word": "丘成桐点评韦神",
-      "onboard_time": 1749721582,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120495,
@@ -2025,14 +2057,6 @@
       "onboard_time": 1749655463,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115542,
-      "num": 1041673,
-      "word": "中国过境免签适用55国全名单",
-      "onboard_time": 1749722783,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115076,
@@ -2147,6 +2171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104428,
+      "num": 215396,
+      "word": "印度飞机坠毁救援情况",
+      "onboard_time": 1749724342,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 102584,
       "num": 102584,
       "word": "孕期的经历没有人能真正体会到",
@@ -2201,6 +2233,14 @@
       "onboard_time": 1749714500,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97955,
+      "num": 232525,
+      "word": "岳云鹏的演技还是被低估了",
+      "onboard_time": 1749724823,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 95980,
@@ -2292,7 +2332,7 @@
     },
     {
       "raw_hot": 92163,
-      "num": 143160,
+      "num": 178134,
       "word": "韩国作为发达国家发达在哪",
       "onboard_time": 1749721282,
       "rank": 38,
@@ -2323,12 +2363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91201,
+      "num": 287418,
+      "word": "解读印度一波音787客机坠毁",
+      "onboard_time": 1749724462,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90953,
       "num": 90953,
       "word": "孟子义说范丞丞看起来比王源大很多",
       "onboard_time": 1749686961,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90386,
+      "num": 184585,
+      "word": "内娱三大顶流姐夫小舅子",
+      "onboard_time": 1749724042,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 89463,
@@ -2563,6 +2619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71056,
+      "num": 179440,
+      "word": "刘诗诗出发COSMO盛典",
+      "onboard_time": 1749725063,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 69313,
       "num": 69313,
       "word": "藏海传",
@@ -2644,7 +2708,7 @@
     },
     {
       "raw_hot": 63462,
-      "num": 306559,
+      "num": 321427,
       "word": "零跑蝉联海外新势力销量第一",
       "onboard_time": 1749722843,
       "rank": 10,
@@ -2875,14 +2939,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 40301,
-      "num": 184585,
-      "word": "内娱三大顶流姐夫小舅子",
-      "onboard_time": 1749724042,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39290,
       "num": 229563,
       "word": "走路时用臀部发力能瘦腿吗",
@@ -3057,6 +3113,14 @@
       "onboard_time": 1749711741,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 27321,
+      "num": 218469,
+      "word": "直击印度客机坠毁事件",
+      "onboard_time": 1749724583,
+      "rank": 28,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 25897,
