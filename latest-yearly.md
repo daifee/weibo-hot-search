@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/12 17:42:54
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/12 18:29:01
 </p>
 </blockquote>
 <p>
@@ -455,6 +455,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
 春晚节目单（热度：11462625）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9E%B6%E6%B3%A2%E9%9F%B3787%E5%AE%A2%E6%9C%BA%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%AF%81%23" target="weibo">
+一架波音787客机印度坠毁（热度：11420759）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%AF%BC%E6%BC%94%E9%A9%AC%E8%BF%9B%E5%BC%BA%E5%A5%B8%E8%A2%AB%E5%88%A4%E5%88%91%23" target="weibo">
 曝导演马进强奸被判刑（热度：3422281）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AF%BC%E6%B8%B8%E6%9B%9D%E5%85%89%E5%A4%A7S%E5%8E%BB%E4%B8%96%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
-日本导游曝光大S去世全过程（热度：3421929）
 </a>
 </li>
 

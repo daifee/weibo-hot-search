@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749721374367,
+  "endTime": 1749724141243,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -593,6 +593,14 @@
       "onboard_time": 1738050440,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11420759,
+      "num": 11420759,
+      "word": "一架波音787客机印度坠毁",
+      "onboard_time": 1749718401,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11395470,
@@ -2392,14 +2400,6 @@
       "word": "曝导演马进强奸被判刑",
       "onboard_time": 1740480621,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3421929,
-      "num": 610786,
-      "word": "日本导游曝光大S去世全过程",
-      "onboard_time": 1738589009,
-      "rank": 3,
       "category": "艺人"
     }
   ],
