@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749820033371,
+  "endTime": 1749821828923,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -49,6 +49,14 @@
       "onboard_time": 1749718401,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 11169274,
+      "num": 12419274,
+      "word": "官方通报罗帅宇事件",
+      "onboard_time": 1749820945,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 10666191,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 4878590,
-      "num": 484670,
+      "num": 492549,
       "word": "难听",
       "onboard_time": 1749215129,
       "rank": 42,
@@ -176,6 +184,14 @@
       "word": "歌手直播",
       "onboard_time": 1749210263,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4369490,
+      "num": 2045368,
+      "word": "马嘉祺 难听",
+      "onboard_time": 1749820524,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -665,6 +681,14 @@
       "onboard_time": 1748937742,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1935713,
+      "num": 615604,
+      "word": "单依纯秒了",
+      "onboard_time": 1749820646,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1917621,
@@ -1731,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1177781,
+      "num": 630721,
+      "word": "歌手能不能把编曲淘汰",
+      "onboard_time": 1749819025,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1177210,
       "num": 167095,
       "word": "高考历史上3次启用备用卷",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1749027800,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1155411,
+      "num": 569758,
+      "word": "马嘉祺 光之翼",
+      "onboard_time": 1749821306,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1150707,
@@ -3043,14 +3083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 819224,
-      "num": 630721,
-      "word": "歌手能不能把编曲淘汰",
-      "onboard_time": 1749819025,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 815668,
       "num": 815668,
       "word": "蜜雪冰城",
@@ -3457,6 +3489,14 @@
       "onboard_time": 1749013222,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 753863,
+      "num": 565421,
+      "word": "单依纯 李健老师没来但如来",
+      "onboard_time": 1749820346,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 752538,
@@ -4097,6 +4137,14 @@
       "onboard_time": 1749208460,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 660381,
+      "num": 551572,
+      "word": "GAI 该做热玛吉了",
+      "onboard_time": 1749820764,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 660002,
@@ -6304,6 +6352,14 @@
       "word": "金晨 我一个女的不能比男的差",
       "onboard_time": 1749714140,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 490984,
+      "num": 490984,
+      "word": "唐汉霄揭榜陈楚生",
+      "onboard_time": 1749821487,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -14643,6 +14699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223700,
+      "num": 223700,
+      "word": "BLG战胜iG",
+      "onboard_time": 1749820406,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223625,
       "num": 282869,
       "word": "李晟给姐姐们的情书",
@@ -14819,6 +14883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221791,
+      "num": 540657,
+      "word": "85岁妻子没上进心93岁男子起诉离婚",
+      "onboard_time": 1749820466,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221780,
       "num": 221780,
       "word": "华为Pura80外观曝光",
@@ -14841,6 +14913,14 @@
       "onboard_time": 1749645802,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221317,
+      "num": 221317,
+      "word": "者来女揭榜成功",
+      "onboard_time": 1749820406,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 221066,
@@ -15001,6 +15081,14 @@
       "onboard_time": 1749132021,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 219370,
+      "num": 226600,
+      "word": "清融赛后发博",
+      "onboard_time": 1749821306,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 219220,
@@ -18649,6 +18737,14 @@
       "onboard_time": 1749303503,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190697,
+      "num": 190697,
+      "word": "刺杀小说家2",
+      "onboard_time": 1749821064,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 190637,
@@ -32787,6 +32883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114474,
+      "num": 529775,
+      "word": "丁程鑫LV红毯look",
+      "onboard_time": 1749819986,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 114461,
       "num": 114461,
       "word": "尹锡悦夫妇现身投票站",
@@ -33561,6 +33665,14 @@
       "onboard_time": 1748959223,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109989,
+      "num": 491104,
+      "word": "探访风波中的湘雅二院",
+      "onboard_time": 1749820825,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 109986,
@@ -34921,6 +35033,14 @@
       "onboard_time": 1749209779,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 101019,
+      "num": 227495,
+      "word": "今屿兄弟们有点C",
+      "onboard_time": 1749821666,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 100986,
@@ -39795,6 +39915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63046,
+      "num": 558050,
+      "word": "章子怡出场即顶配",
+      "onboard_time": 1749819866,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62964,
       "num": 430398,
       "word": "女子称五谷渔粉外卖吃出泡软蜈蚣",
@@ -44523,14 +44651,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 31465,
-      "num": 316568,
-      "word": "章子怡出场即顶配",
-      "onboard_time": 1749819866,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 31448,
       "num": 132710,
       "word": "2025年过去一半了",
@@ -44747,6 +44867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30352,
+      "num": 429988,
+      "word": "高温天气怎么避暑不伤身体",
+      "onboard_time": 1749819684,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30346,
       "num": 201111,
       "word": "蒸桃子有助于消散乳腺结节吗",
@@ -44832,6 +44960,14 @@
       "word": "民警让被骗男子对镜头承诺不转账",
       "onboard_time": 1749655582,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29612,
+      "num": 558373,
+      "word": "外面下大雨家中阳台现瀑布",
+      "onboard_time": 1749821186,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -45409,6 +45545,14 @@
       "onboard_time": 1749647061,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27057,
+      "num": 269844,
+      "word": "张若昀红毯FENDI造型",
+      "onboard_time": 1749817102,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 27048,
@@ -46129,14 +46273,6 @@
       "onboard_time": 1749698301,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23150,
-      "num": 269844,
-      "word": "张若昀红毯FENDI造型",
-      "onboard_time": 1749817102,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 22969,
@@ -47255,6 +47391,14 @@
       "num": 331889,
       "word": "坐月子期间为何不能吹空调",
       "onboard_time": 1749285082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17026,
+      "num": 533397,
+      "word": "大货车高速侧翻退役军人撬门救人",
+      "onboard_time": 1749821246,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -48435,6 +48579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 7816,
+      "num": 544106,
+      "word": "夏季后背长痘怎么祛除",
+      "onboard_time": 1749821487,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 7749,
       "num": 281520,
       "word": "高考前身份证丢了怎么办",
@@ -48491,28 +48643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 6942,
-      "num": 429988,
-      "word": "高温天气怎么避暑不伤身体",
-      "onboard_time": 1749819684,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 6825,
       "num": 170689,
       "word": "花掉一半存款带奶奶去广州旅行",
       "onboard_time": 1749094461,
       "rank": 35,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 6746,
-      "num": 205286,
-      "word": "丁程鑫LV红毯look",
-      "onboard_time": 1749819986,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 6442,

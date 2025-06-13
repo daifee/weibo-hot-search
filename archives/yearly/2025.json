@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749820033371,
+  "endTime": 1749821828923,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -649,6 +649,14 @@
       "onboard_time": 1736063366,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11169274,
+      "num": 12419274,
+      "word": "官方通报罗帅宇事件",
+      "onboard_time": 1749820945,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 11051062,
@@ -1619,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4369490,
+      "num": 2045368,
+      "word": "马嘉祺 难听",
+      "onboard_time": 1749820524,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4356564,
       "num": 449643,
       "word": "金秀贤发万字长文",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1736502681,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 3437147,
-      "num": 3437147,
-      "word": "特朗普恢复死刑",
-      "onboard_time": 1740102440,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 3436909,
-      "num": 3350264,
-      "word": "马嘉祺 校园歌手大赛",
-      "onboard_time": 1748610804,
-      "rank": 1,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
