@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/14 00:32:53 ~ 2025/06/14 06:43:25
+本榜单时间：2025/06/14 00:32:53 ~ 2025/06/14 07:25:51
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,12 @@ GAI第一（热度：739849）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E8%A2%AB%E5%92%AC%E5%90%8E%E4%B8%80%E8%84%9A%E5%B0%86%E8%9B%87%E8%B8%A9%E6%AD%BB%E5%B8%A6%E7%9D%80%E5%8E%BB%E5%B0%B1%E5%8C%BB%23" target="weibo">
+大爷被咬后一脚将蛇踩死带着去就医（热度：677229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%B8%85%E5%AE%87%E4%BB%A5%E4%BC%98%E5%BC%82%E6%88%90%E7%BB%A9%E8%80%83%E5%85%A5%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2%23" target="weibo">
 罗帅宇以优异成绩考入湘雅二院（热度：660073）
 </a>
@@ -57,8 +63,8 @@ GAI第一（热度：739849）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E8%A2%AB%E5%92%AC%E5%90%8E%E4%B8%80%E8%84%9A%E5%B0%86%E8%9B%87%E8%B8%A9%E6%AD%BB%E5%B8%A6%E7%9D%80%E5%8E%BB%E5%B0%B1%E5%8C%BB%23" target="weibo">
-大爷被咬后一脚将蛇踩死带着去就医（热度：627314）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E6%9B%BE%E6%AF%85%E6%83%B3%E7%9A%84%E5%85%AC%E5%85%B3%23" target="weibo">
+谁给曾毅想的公关（热度：574482）
 </a>
 </li>
 
@@ -87,6 +93,12 @@ GAI第一（热度：739849）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%AB%98%E8%80%83%E7%94%9F%E5%B7%B2%E7%BB%8F%E5%88%B0%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%80%81%E5%AE%B6%E4%BA%86%23" target="weibo">
+第一批高考生已经到王一博老家了（热度：395337）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9A%87%E6%9D%83%E5%AF%8C%E8%B4%B5%23" target="weibo">
 皇权富贵（热度：391242）
 </a>
@@ -99,8 +111,14 @@ GAI第一（热度：739849）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E6%9B%BE%E6%AF%85%E6%83%B3%E7%9A%84%E5%85%AC%E5%85%B3%23" target="weibo">
-谁给曾毅想的公关（热度：371990）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E7%BD%97%E5%B8%85%E5%AE%87%E5%8F%91%E6%94%BE33%E4%B8%8729%E4%B8%87%E4%B8%BA%E4%BB%96%E4%BA%BA%E7%BB%A9%E6%95%88%23" target="weibo">
+向罗帅宇发放33万29万为他人绩效（热度：334881）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%88%98%E7%90%B3%E7%90%B3%E8%A2%AB%E6%9B%9D%E7%9B%B4%E6%92%AD%E6%97%B6%E8%BE%B1%E9%AA%82%E8%A7%82%E4%BC%97%23" target="weibo">
+网红刘琳琳被曝直播时辱骂观众（热度：285892）
 </a>
 </li>
 
@@ -123,14 +141,20 @@ GAI第一（热度：739849）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E7%BD%97%E5%B8%85%E5%AE%87%E5%8F%91%E6%94%BE33%E4%B8%8729%E4%B8%87%E4%B8%BA%E4%BB%96%E4%BA%BA%E7%BB%A9%E6%95%88%23" target="weibo">
-向罗帅宇发放33万29万为他人绩效（热度：236159）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%B0%84%E7%BA%A6150%E6%9E%9A%E5%AF%BC%E5%BC%B9%23" target="weibo">
+伊朗向以色列发射约150枚导弹（热度：224997）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E6%8B%89%E6%9D%9C%E5%8D%A1%E5%8A%AA%23" target="weibo">
 郑钦文vs拉杜卡努（热度：221256）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E6%9B%BE%E6%8B%92%E7%BB%9D%E7%BD%97%E5%B8%85%E5%AE%87%E7%88%B6%E6%AF%8D%E7%B4%A2%E8%A6%81%E5%B7%A8%E9%A2%9D%E8%A1%A5%E5%81%BF%23" target="weibo">
+医院曾拒绝罗帅宇父母索要巨额补偿（热度：205971）
 </a>
 </li>
 
@@ -143,18 +167,6 @@ GAI第一（热度：739849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%AD%8C%E6%89%8B%E9%AB%98%E5%AE%9Alook%23" target="weibo">
 马嘉祺歌手高定look（热度：188870）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E6%9B%BE%E6%8B%92%E7%BB%9D%E7%BD%97%E5%B8%85%E5%AE%87%E7%88%B6%E6%AF%8D%E7%B4%A2%E8%A6%81%E5%B7%A8%E9%A2%9D%E8%A1%A5%E5%81%BF%23" target="weibo">
-医院曾拒绝罗帅宇父母索要巨额补偿（热度：183907）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%88%98%E7%90%B3%E7%90%B3%E8%A2%AB%E6%9B%9D%E7%9B%B4%E6%92%AD%E6%97%B6%E8%BE%B1%E9%AA%82%E8%A7%82%E4%BC%97%23" target="weibo">
-网红刘琳琳被曝直播时辱骂观众（热度：178623）
 </a>
 </li>
 
@@ -201,12 +213,6 @@ GAI第一（热度：739849）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%AB%98%E8%80%83%E7%94%9F%E5%B7%B2%E7%BB%8F%E5%88%B0%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%80%81%E5%AE%B6%E4%BA%86%23" target="weibo">
-第一批高考生已经到王一博老家了（热度：147352）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%20%E5%85%89%E4%B9%8B%E7%BF%BC%23" target="weibo">
 王菲 光之翼（热度：145050）
 </a>
@@ -215,6 +221,12 @@ GAI第一（热度：739849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GAI%E7%BB%99%E6%88%91%E5%90%AC%E5%93%AD%E4%BA%86%23" target="weibo">
 GAI给我听哭了（热度：142505）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%23" target="weibo">
+特朗普发文警告伊朗（热度：141260）
 </a>
 </li>
 
@@ -239,12 +251,6 @@ GAI给我听哭了（热度：142505）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%8F%A1%E6%89%8B%23" target="weibo">
 马嘉祺握手（热度：129236）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%23" target="weibo">
-特朗普发文警告伊朗（热度：129114）
 </a>
 </li>
 
@@ -303,6 +309,12 @@ GAI给我听哭了（热度：142505）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8D%B0%E5%9D%A0%E6%9C%BA%E9%81%87%E9%9A%BE%E4%B8%A4%E5%A5%B3%E5%84%BF%E6%88%90%E5%AD%A4%E5%84%BF%23" target="weibo">
+英国男子在印坠机遇难两女儿成孤儿（热度：115462）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%A5%B3%E5%AD%A9%E7%9A%84%E6%9C%80%E5%90%8E%E5%8D%81%E4%B8%89%E5%A4%A9%23" target="weibo">
 一个女孩的最后十三天（热度：115097）
 </a>
@@ -315,8 +327,20 @@ GAI给我听哭了（热度：142505）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%84%BF%E9%97%B2%E9%B1%BC%E4%BB%A3%E6%89%93%E8%BD%A6%E5%A5%97%E7%8E%B0%E5%A6%88%E5%A6%88%E4%B8%8A%E4%B8%87%E5%85%83%23" target="weibo">
+17岁女儿闲鱼代打车套现妈妈上万元（热度：107758）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E6%9D%8E%E5%81%A5%E8%80%81%E5%B8%88%E6%B2%A1%E6%9D%A5%E4%BD%86%E5%A6%82%E6%9D%A5%23" target="weibo">
 单依纯 李健老师没来但如来（热度：106286）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%85%E7%90%AA%E7%9C%9F%E7%9A%84%E6%8A%8A%E5%8D%AB%E5%85%B0%E7%85%A7%E9%A1%BE%E7%9A%84%E5%BE%88%E5%A5%BD%23" target="weibo">
+张雅琪真的把卫兰照顾的很好（热度：105692）
 </a>
 </li>
 
@@ -329,6 +353,12 @@ GAI给我听哭了（热度：142505）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%B3%E5%B8%9D%E8%AF%84%E6%AD%8C%E6%89%8B%E7%AC%AC5%E6%9C%9F%23" target="weibo">
 耳帝评歌手第5期（热度：102167）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B0%86%E4%BD%BF%E6%95%8C%E4%BA%BA%E5%90%8E%E6%82%94%E5%85%B6%E6%84%9A%E8%A0%A2%E8%A1%8C%E4%B8%BA%23" target="weibo">
+伊朗总统称将使敌人后悔其愚蠢行为（热度：97629）
 </a>
 </li>
 
@@ -351,8 +381,8 @@ GAI给我听哭了（热度：142505）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%84%BF%E9%97%B2%E9%B1%BC%E4%BB%A3%E6%89%93%E8%BD%A6%E5%A5%97%E7%8E%B0%E5%A6%88%E5%A6%88%E4%B8%8A%E4%B8%87%E5%85%83%23" target="weibo">
-17岁女儿闲鱼代打车套现妈妈上万元（热度：87911）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%E9%81%93%E6%AD%89%23" target="weibo">
+田柾国道歉（热度：88483）
 </a>
 </li>
 
@@ -369,8 +399,8 @@ BLG晋级LPL决赛（热度：83023）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E5%8D%B0%E5%9D%A0%E6%9C%BA%E9%81%87%E9%9A%BE%E4%B8%A4%E5%A5%B3%E5%84%BF%E6%88%90%E5%AD%A4%E5%84%BF%23" target="weibo">
-英国男子在印坠机遇难两女儿成孤儿（热度：70842）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%E5%B8%BD%E5%AD%90%23" target="weibo">
+田柾国帽子（热度：69170）
 </a>
 </li>
 
@@ -393,6 +423,12 @@ BLG晋级LPL决赛（热度：83023）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E9%83%A8%E5%A7%94%E8%A6%81%E6%B1%82%E6%95%B4%E6%B2%BB%E6%AE%A1%E8%91%AC%E8%85%90%E8%B4%A5%23" target="weibo">
+14部委要求整治殡葬腐败（热度：65775）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E6%8A%8A%E8%83%8C%E5%8F%9B%E7%8E%A9%E5%BE%97%E5%BE%88%E7%86%9F%E7%BB%83%23" target="weibo">
 李昀锐把背叛玩得很熟练（热度：63475）
 </a>
@@ -405,14 +441,14 @@ BLG晋级LPL决赛（热度：83023）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E9%80%81%E5%88%B04S%E5%BA%97%E7%BB%B4%E4%BF%AE%E8%A2%AB%E5%81%B7%E8%B5%B0%23" target="weibo">
-宝马送到4S店维修被偷走（热度：60458）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%B0%91%E4%BC%97%E6%B6%8C%E5%90%91%E8%B6%85%E5%B8%82%E6%8A%A2%E8%B4%AD%E7%89%A9%E8%B5%84%23" target="weibo">
+以色列民众涌向超市抢购物资（热度：63369）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2314%E9%83%A8%E5%A7%94%E8%A6%81%E6%B1%82%E6%95%B4%E6%B2%BB%E6%AE%A1%E8%91%AC%E8%85%90%E8%B4%A5%23" target="weibo">
-14部委要求整治殡葬腐败（热度：56797）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E9%80%81%E5%88%B04S%E5%BA%97%E7%BB%B4%E4%BF%AE%E8%A2%AB%E5%81%B7%E8%B5%B0%23" target="weibo">
+宝马送到4S店维修被偷走（热度：60458）
 </a>
 </li>
 
@@ -423,8 +459,8 @@ BLG晋级LPL决赛（热度：83023）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B0%86%E4%BD%BF%E6%95%8C%E4%BA%BA%E5%90%8E%E6%82%94%E5%85%B6%E6%84%9A%E8%A0%A2%E8%A1%8C%E4%B8%BA%23" target="weibo">
-伊朗总统称将使敌人后悔其愚蠢行为（热度：53047）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%8A%E7%96%97%E6%97%B6%E7%94%B5%E8%AF%9D%E5%94%A0%E5%AE%B6%E5%B8%B8%E6%82%A3%E8%80%85%E5%9C%A8%E4%B8%80%E6%97%81%E7%AD%89%23" target="weibo">
+医生诊疗时电话唠家常患者在一旁等（热度：55336）
 </a>
 </li>
 
@@ -447,14 +483,14 @@ BLG晋级LPL决赛（热度：83023）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%8A%E7%96%97%E6%97%B6%E7%94%B5%E8%AF%9D%E5%94%A0%E5%AE%B6%E5%B8%B8%E6%82%A3%E8%80%85%E5%9C%A8%E4%B8%80%E6%97%81%E7%AD%89%23" target="weibo">
-医生诊疗时电话唠家常患者在一旁等（热度：44228）
+<a href="https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%BC%8A%E6%9C%97%E6%A0%B8%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%81%AD%E8%A2%AD%E8%BA%AB%E4%BA%A1%23" target="weibo">
+6名伊朗核科学家遭袭身亡（热度：45278）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%97%AE%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%BA%E4%BD%95%E5%86%8D%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%87%BA%E6%89%8B%23" target="weibo">
-三问以色列为何再对伊朗出手（热度：37779）
+三问以色列为何再对伊朗出手（热度：42206）
 </a>
 </li>
 
@@ -473,12 +509,6 @@ JDG突破队史（热度：33486）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%80%E5%87%BA%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%A0%B8%E8%B0%88%E5%88%A4%23" target="weibo">
 伊朗退出与美国核谈判（热度：33217）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%BC%8A%E6%9C%97%E6%A0%B8%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%81%AD%E8%A2%AD%E8%BA%AB%E4%BA%A1%23" target="weibo">
-6名伊朗核科学家遭袭身亡（热度：31648）
 </a>
 </li>
 
@@ -549,6 +579,12 @@ GAI白鸽（热度：29065）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E7%96%97%E6%95%88%E6%98%AF%E4%BA%8B%E5%AE%9E%23" target="weibo">
+中医疗效是事实（热度：15177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%B2%98%E8%85%BB%E8%84%96%E5%AD%90%E7%9A%84%E6%B8%85%E5%87%89%E5%8F%91%E5%9E%8B%23" target="weibo">
 不粘腻脖子的清凉发型（热度：14605）
 </a>
@@ -573,6 +609,12 @@ GAI白鸽（热度：29065）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E9%87%8C%E8%A1%8C%E9%97%B4%E6%84%9F%E7%9F%A5%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B%23" target="weibo">
+数里行间感知经济活力（热度：11689）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%98%E7%BB%A9%E4%B8%BB%E4%B9%89%23" target="weibo">
 优绩主义（热度：11615）
 </a>
@@ -593,12 +635,6 @@ AI时代在浙大可以怎么学（热度：11006）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8A%8A%E6%A2%81%E7%BF%98%E6%9F%8F%E6%89%BE%E5%9B%9E%E6%9D%A5%E5%90%A7%23" target="weibo">
 歌手把梁翘柏找回来吧（热度：10527）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E9%87%8C%E8%A1%8C%E9%97%B4%E6%84%9F%E7%9F%A5%E7%BB%8F%E6%B5%8E%E6%B4%BB%E5%8A%9B%23" target="weibo">
-数里行间感知经济活力（热度：10093）
 </a>
 </li>
 

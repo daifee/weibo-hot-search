@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749854605582,
+  "endTime": 1749857151992,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 677229,
+      "num": 677229,
+      "word": "大爷被咬后一脚将蛇踩死带着去就医",
+      "onboard_time": 1749830541,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660073,
       "num": 660073,
       "word": "罗帅宇以优异成绩考入湘雅二院",
@@ -59,12 +67,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 627314,
-      "num": 627314,
-      "word": "大爷被咬后一脚将蛇踩死带着去就医",
-      "onboard_time": 1749830541,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 574482,
+      "num": 282592,
+      "word": "谁给曾毅想的公关",
+      "onboard_time": 1749836178,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 539361,
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395337,
+      "num": 395337,
+      "word": "第一批高考生已经到王一博老家了",
+      "onboard_time": 1749841334,
+      "rank": 29,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 391242,
       "num": 391242,
       "word": "皇权富贵",
@@ -115,12 +131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371990,
-      "num": 169128,
-      "word": "谁给曾毅想的公关",
-      "onboard_time": 1749836178,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 334881,
+      "num": 334881,
+      "word": "向罗帅宇发放33万29万为他人绩效",
+      "onboard_time": 1749826166,
+      "rank": 22,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 285892,
+      "num": 285892,
+      "word": "网红刘琳琳被曝直播时辱骂观众",
+      "onboard_time": 1749847995,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 273581,
@@ -147,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236159,
-      "num": 236159,
-      "word": "向罗帅宇发放33万29万为他人绩效",
-      "onboard_time": 1749826166,
-      "rank": 22,
-      "category": "辟谣/通报"
+      "raw_hot": 224997,
+      "num": 224997,
+      "word": "伊朗向以色列发射约150枚导弹",
+      "onboard_time": 1749856280,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 221256,
@@ -161,6 +185,14 @@
       "onboard_time": 1749824609,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205971,
+      "num": 205971,
+      "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
+      "onboard_time": 1749825985,
+      "rank": 23,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 190120,
@@ -177,22 +209,6 @@
       "onboard_time": 1749833959,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183907,
-      "num": 183907,
-      "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
-      "onboard_time": 1749825985,
-      "rank": 23,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 178623,
-      "num": 178623,
-      "word": "网红刘琳琳被曝直播时辱骂观众",
-      "onboard_time": 1749847995,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 171272,
@@ -251,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147352,
-      "num": 147352,
-      "word": "第一批高考生已经到王一博老家了",
-      "onboard_time": 1749841334,
-      "rank": 29,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 145050,
       "num": 145050,
       "word": "王菲 光之翼",
@@ -273,6 +281,14 @@
       "onboard_time": 1749823587,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141260,
+      "num": 152527,
+      "word": "特朗普发文警告伊朗",
+      "onboard_time": 1749829764,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140800,
@@ -305,14 +321,6 @@
       "onboard_time": 1749829403,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129114,
-      "num": 152527,
-      "word": "特朗普发文警告伊朗",
-      "onboard_time": 1749829764,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 128163,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115462,
+      "num": 115462,
+      "word": "英国男子在印坠机遇难两女儿成孤儿",
+      "onboard_time": 1749828264,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115097,
       "num": 115097,
       "word": "一个女孩的最后十三天",
@@ -403,11 +419,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107758,
+      "num": 107758,
+      "word": "17岁女儿闲鱼代打车套现妈妈上万元",
+      "onboard_time": 1749807502,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106286,
       "num": 106286,
       "word": "单依纯 李健老师没来但如来",
       "onboard_time": 1749820346,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105692,
+      "num": 146488,
+      "word": "张雅琪真的把卫兰照顾的很好",
+      "onboard_time": 1749854897,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -425,6 +457,14 @@
       "onboard_time": 1749832700,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97629,
+      "num": 105052,
+      "word": "伊朗总统称将使敌人后悔其愚蠢行为",
+      "onboard_time": 1749839235,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92736,
@@ -451,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87911,
-      "num": 87911,
-      "word": "17岁女儿闲鱼代打车套现妈妈上万元",
-      "onboard_time": 1749807502,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 88483,
+      "num": 88483,
+      "word": "田柾国道歉",
+      "onboard_time": 1749856698,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 85998,
@@ -475,12 +515,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 70842,
-      "num": 70842,
-      "word": "英国男子在印坠机遇难两女儿成孤儿",
-      "onboard_time": 1749828264,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 69170,
+      "num": 84172,
+      "word": "田柾国帽子",
+      "onboard_time": 1749856878,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 67661,
@@ -507,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65775,
+      "num": 169653,
+      "word": "14部委要求整治殡葬腐败",
+      "onboard_time": 1749850094,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63475,
       "num": 66032,
       "word": "李昀锐把背叛玩得很熟练",
@@ -523,19 +571,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63369,
+      "num": 63369,
+      "word": "以色列民众涌向超市抢购物资",
+      "onboard_time": 1749855317,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60458,
       "num": 243534,
       "word": "宝马送到4S店维修被偷走",
       "onboard_time": 1749834438,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56797,
-      "num": 169653,
-      "word": "14部委要求整治殡葬腐败",
-      "onboard_time": 1749850094,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -547,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53047,
-      "num": 105052,
-      "word": "伊朗总统称将使敌人后悔其愚蠢行为",
-      "onboard_time": 1749839235,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 55336,
+      "num": 90773,
+      "word": "医生诊疗时电话唠家常患者在一旁等",
+      "onboard_time": 1749836178,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47422,
@@ -579,16 +627,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44228,
-      "num": 90773,
-      "word": "医生诊疗时电话唠家常患者在一旁等",
-      "onboard_time": 1749836178,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 45278,
+      "num": 45278,
+      "word": "6名伊朗核科学家遭袭身亡",
+      "onboard_time": 1749844153,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 37779,
-      "num": 37779,
+      "raw_hot": 42206,
+      "num": 42206,
       "word": "三问以色列为何再对伊朗出手",
       "onboard_time": 1749842414,
       "rank": 48,
@@ -616,14 +664,6 @@
       "word": "伊朗退出与美国核谈判",
       "onboard_time": 1749818304,
       "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 31648,
-      "num": 31648,
-      "word": "6名伊朗核科学家遭袭身亡",
-      "onboard_time": 1749844153,
-      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -715,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15177,
+      "num": 56368,
+      "word": "中医疗效是事实",
+      "onboard_time": 1749855978,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14605,
       "num": 22622,
       "word": "不粘腻脖子的清凉发型",
@@ -747,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 11689,
+      "num": 534830,
+      "word": "数里行间感知经济活力",
+      "onboard_time": 1749825030,
+      "rank": 2,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 11615,
       "num": 37364,
       "word": "优绩主义",
@@ -777,14 +833,6 @@
       "onboard_time": 1749847334,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10093,
-      "num": 342334,
-      "word": "数里行间感知经济活力",
-      "onboard_time": 1749825030,
-      "rank": 2,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 8018,
