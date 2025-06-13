@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749846542001,
+  "endTime": 1749847370619,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -555,20 +555,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36510,
+      "num": 36510,
+      "word": "刘诗诗多希望自己听不懂中文",
+      "onboard_time": 1749842955,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 33486,
       "num": 38161,
       "word": "JDG突破队史",
       "onboard_time": 1749839176,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 32989,
-      "num": 35316,
-      "word": "刘诗诗多希望自己听不懂中文",
-      "onboard_time": 1749842955,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 29597,
@@ -587,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29030,
+      "num": 29030,
+      "word": "平台回应网红刘琳琳被曝辱骂观众",
+      "onboard_time": 1749843673,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 28397,
       "num": 93645,
       "word": "以色列袭击伊朗美国到底知不知道",
@@ -601,14 +609,6 @@
       "onboard_time": 1749841875,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27102,
-      "num": 27102,
-      "word": "平台回应网红刘琳琳被曝辱骂观众",
-      "onboard_time": 1749843673,
-      "rank": 30,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 26567,
@@ -659,8 +659,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24036,
-      "num": 24036,
+      "raw_hot": 24467,
+      "num": 24467,
       "word": "6名伊朗核科学家遭袭身亡",
       "onboard_time": 1749844153,
       "rank": 37,
@@ -731,20 +731,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 10929,
+      "num": 34702,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1749847035,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 10527,
+      "num": 24598,
+      "word": "歌手把梁翘柏找回来吧",
+      "onboard_time": 1749847334,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 8036,
+      "num": 171477,
+      "word": "数里行间感知经济活力",
+      "onboard_time": 1749825030,
+      "rank": 2,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 8018,
       "num": 20531,
       "word": "夏以昼不可思议的魔术",
       "onboard_time": 1749844994,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 7842,
-      "num": 171477,
-      "word": "数里行间感知经济活力",
-      "onboard_time": 1749825030,
-      "rank": 2,
-      "category": "民生新闻,财经"
     }
   ],
   "hotgov_list": [
