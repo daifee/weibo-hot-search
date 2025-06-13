@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749839765179,
+  "endTime": 1749840584749,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -507,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47957,
+      "num": 105052,
+      "word": "伊朗总统称将使敌人后悔其愚蠢行为",
+      "onboard_time": 1749839235,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47422,
       "num": 146400,
       "word": "河道钞票系精神障碍患者发病时丢弃",
@@ -539,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34470,
-      "num": 59448,
-      "word": "伊朗总统称将使敌人后悔其愚蠢行为",
-      "onboard_time": 1749839235,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33486,
       "num": 38161,
       "word": "JDG突破队史",
@@ -561,6 +561,14 @@
       "onboard_time": 1749827304,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18675,
+      "num": 34566,
+      "word": "特朗普威胁伊朗尽快与美达成协议",
+      "onboard_time": 1749840554,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14447,
@@ -579,12 +587,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 10245,
+      "raw_hot": 11781,
+      "num": 33911,
+      "word": "邓超丁程鑫讲了段相声",
+      "onboard_time": 1749840554,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 11615,
       "num": 37364,
       "word": "优绩主义",
       "onboard_time": 1749838995,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11045,
+      "num": 34681,
+      "word": "阶段性友谊",
+      "onboard_time": 1749840135,
+      "rank": 39,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

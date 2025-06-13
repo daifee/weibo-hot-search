@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749839765179,
+  "endTime": 1749840584749,
   "band_list": [
     {
       "raw_hot": 17710576,
@@ -20843,6 +20843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47957,
+      "num": 105052,
+      "word": "伊朗总统称将使敌人后悔其愚蠢行为",
+      "onboard_time": 1749839235,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47892,
       "num": 114325,
       "word": "寂静岭1重制版",
@@ -21929,14 +21937,6 @@
       "onboard_time": 1749559462,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34470,
-      "num": 59448,
-      "word": "伊朗总统称将使敌人后悔其愚蠢行为",
-      "onboard_time": 1749839235,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34396,
@@ -23315,6 +23315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18675,
+      "num": 34566,
+      "word": "特朗普威胁伊朗尽快与美达成协议",
+      "onboard_time": 1749840554,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18641,
       "num": 205562,
       "word": "印度民航主管机构首份情况介绍",
@@ -23875,6 +23883,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11781,
+      "num": 33911,
+      "word": "邓超丁程鑫讲了段相声",
+      "onboard_time": 1749840554,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 11615,
+      "num": 37364,
+      "word": "优绩主义",
+      "onboard_time": 1749838995,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11360,
       "num": 82722,
       "word": "无臂考生高考10年后",
@@ -23913,6 +23937,14 @@
       "onboard_time": 1749583333,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 11045,
+      "num": 34681,
+      "word": "阶段性友谊",
+      "onboard_time": 1749840135,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 11005,
@@ -24001,14 +24033,6 @@
       "onboard_time": 1749637881,
       "rank": 18,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 10245,
-      "num": 37364,
-      "word": "优绩主义",
-      "onboard_time": 1749838995,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10207,
