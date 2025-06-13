@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749842489541,
+  "endTime": 1749843414740,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -579,7 +579,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27500,
+      "raw_hot": 28397,
       "num": 93645,
       "word": "以色列袭击伊朗美国到底知不知道",
       "onboard_time": 1749841696,
@@ -611,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25170,
+      "num": 25170,
+      "word": "汪苏泷机甲印花锁链套装",
+      "onboard_time": 1749842414,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24858,
       "num": 24858,
       "word": "鹭卓感谢每一位家人的不远万里",
@@ -619,19 +627,43 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24250,
-      "num": 24250,
-      "word": "汪苏泷机甲印花锁链套装",
-      "onboard_time": 1749842414,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 23993,
-      "num": 23993,
+      "raw_hot": 24469,
+      "num": 24469,
       "word": "三问以色列为何再对伊朗出手",
       "onboard_time": 1749842414,
       "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 24275,
+      "num": 34035,
+      "word": "第一批高考生已经到王一博老家了",
+      "onboard_time": 1749841334,
+      "rank": 29,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 22595,
+      "num": 23492,
+      "word": "让我来唱",
+      "onboard_time": 1749842955,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21828,
+      "num": 23481,
+      "word": "刘诗诗多希望自己听不懂中文",
+      "onboard_time": 1749842955,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21533,
+      "num": 23481,
+      "word": "伊朗退出与美国核谈判",
+      "onboard_time": 1749818304,
+      "rank": 45,
       "category": "国际时政"
     },
     {

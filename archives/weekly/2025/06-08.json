@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749842489541,
+  "endTime": 1749843414740,
   "band_list": [
     {
       "raw_hot": 17710576,
@@ -22507,6 +22507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28397,
+      "num": 93645,
+      "word": "以色列袭击伊朗美国到底知不知道",
+      "onboard_time": 1749841696,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28312,
       "num": 111546,
       "word": "非洲农民跨越万里来湖南看袁老师",
@@ -22617,14 +22625,6 @@
       "onboard_time": 1749711741,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 27500,
-      "num": 93645,
-      "word": "以色列袭击伊朗美国到底知不知道",
-      "onboard_time": 1749841696,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27394,
@@ -22787,6 +22787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25170,
+      "num": 25170,
+      "word": "汪苏泷机甲印花锁链套装",
+      "onboard_time": 1749842414,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25153,
       "num": 273151,
       "word": "年轻人如何克服理发店羞耻症",
@@ -22867,6 +22875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24469,
+      "num": 24469,
+      "word": "三问以色列为何再对伊朗出手",
+      "onboard_time": 1749842414,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24392,
       "num": 154951,
       "word": "插电混动为什么省油",
@@ -22875,12 +22891,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 24250,
-      "num": 24250,
-      "word": "汪苏泷机甲印花锁链套装",
-      "onboard_time": 1749842414,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 24275,
+      "num": 34035,
+      "word": "第一批高考生已经到王一博老家了",
+      "onboard_time": 1749841334,
+      "rank": 29,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 24214,
@@ -22921,14 +22937,6 @@
       "onboard_time": 1749493095,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 23993,
-      "num": 23993,
-      "word": "三问以色列为何再对伊朗出手",
-      "onboard_time": 1749842414,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23899,
@@ -23009,6 +23017,14 @@
       "onboard_time": 1749488657,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22595,
+      "num": 23492,
+      "word": "让我来唱",
+      "onboard_time": 1749842955,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 22482,
@@ -23113,6 +23129,14 @@
       "onboard_time": 1749464541,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21828,
+      "num": 23481,
+      "word": "刘诗诗多希望自己听不懂中文",
+      "onboard_time": 1749842955,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 21771,
