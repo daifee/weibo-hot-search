@@ -1,0 +1,410 @@
+{
+  "runTime": 1749833319734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5633976,
+        "num": 5633976,
+        "word": "官方通报罗帅宇事件",
+        "onboard_time": 1749820945,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1795605,
+        "num": 1795605,
+        "word": "罗帅宇158段录音为工作吃饭闲聊等",
+        "onboard_time": 1749830122,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 29597,
+        "num": 1177234,
+        "word": "90秒感受三夏收获的幸福感",
+        "onboard_time": 1749827304,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 756548,
+        "num": 756548,
+        "word": "歌手排名",
+        "onboard_time": 1749824969,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 667332,
+        "num": 667332,
+        "word": "儿子接受不了陈楚生不是第一",
+        "onboard_time": 1749828264,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590842,
+        "num": 590842,
+        "word": "罗帅宇以优异成绩考入湘雅二院",
+        "onboard_time": 1749820646,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606832,
+        "num": 582722,
+        "word": "GAI第一",
+        "onboard_time": 1749824609,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564538,
+        "num": 564538,
+        "word": "马嘉祺 难听",
+        "onboard_time": 1749820524,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556194,
+        "num": 556194,
+        "word": "大爷被咬后一脚将蛇踩死带着去就医",
+        "onboard_time": 1749830541,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48041,
+        "num": 478298,
+        "word": "以高官被曝均被转移至安全地点",
+        "onboard_time": 1749832341,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 458380,
+        "num": 458380,
+        "word": "器官捐献资料未发现违法违规行为",
+        "onboard_time": 1749825090,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 406972,
+        "num": 406972,
+        "word": "伊朗爆发全国性示威活动",
+        "onboard_time": 1749828863,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 375142,
+        "num": 375142,
+        "word": "皇权富贵",
+        "onboard_time": 1749816802,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327594,
+        "num": 327594,
+        "word": "湘雅二院涉事科室主任等4人被问责",
+        "onboard_time": 1749823527,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 147609,
+        "num": 319277,
+        "word": "因患者留言爆火面包店被质疑自导自演",
+        "onboard_time": 1749831801,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317309,
+        "num": 317309,
+        "word": "邓超有个事放在我心里快一个月了",
+        "onboard_time": 1749828624,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284249,
+        "num": 284249,
+        "word": "85岁妻子没上进心93岁男子起诉离婚",
+        "onboard_time": 1749820466,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240414,
+        "num": 240414,
+        "word": "以色列空袭已致伊朗78死329伤",
+        "onboard_time": 1749818784,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140800,
+        "num": 239733,
+        "word": "朱一龙回看六年前的抱负",
+        "onboard_time": 1749832221,
+        "rank": 18,
+        "category": "电影,综艺"
+      },
+      {
+        "raw_hot": 239104,
+        "num": 239104,
+        "word": "单依纯秒了",
+        "onboard_time": 1749820646,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209648,
+        "num": 209648,
+        "word": "调查组逐一核查罗帅宇事件1281页材料",
+        "onboard_time": 1749823648,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 170074,
+        "num": 170074,
+        "word": "向罗帅宇发放33万29万为他人绩效",
+        "onboard_time": 1749826166,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 159703,
+        "num": 159703,
+        "word": "郑钦文vs拉杜卡努",
+        "onboard_time": 1749824609,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150481,
+        "num": 150481,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149810,
+        "num": 149810,
+        "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
+        "onboard_time": 1749825985,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 148361,
+        "num": 148361,
+        "word": "耳帝",
+        "onboard_time": 1749827964,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129114,
+        "num": 129114,
+        "word": "特朗普发文警告伊朗",
+        "onboard_time": 1749829764,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128163,
+        "num": 128163,
+        "word": "泡泡玛特王宁自称是典型的奋斗北漂",
+        "onboard_time": 1749831082,
+        "rank": 27,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 126821,
+        "num": 126821,
+        "word": "杨幂Labubu书包",
+        "onboard_time": 1749802641,
+        "rank": 28,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 126271,
+        "num": 126271,
+        "word": "邓超黄明昊王安宇都领到了荔枝",
+        "onboard_time": 1749831922,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123641,
+        "num": 123641,
+        "word": "GAI给我听哭了",
+        "onboard_time": 1749823587,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123024,
+        "num": 123024,
+        "word": "王菲 光之翼",
+        "onboard_time": 1749825866,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122104,
+        "num": 122104,
+        "word": "歌手 云端",
+        "onboard_time": 1749827124,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116139,
+        "num": 116139,
+        "word": "罗帅宇科室将绩效发给学生再收回",
+        "onboard_time": 1749826766,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110976,
+        "num": 110976,
+        "word": "马嘉祺握手",
+        "onboard_time": 1749829403,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109640,
+        "num": 109640,
+        "word": "一个女孩的最后十三天",
+        "onboard_time": 1749829162,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107045,
+        "num": 107045,
+        "word": "男子带亡妻骨灰回家遭印度坠机遇难",
+        "onboard_time": 1749815242,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106470,
+        "num": 106470,
+        "word": "恋与深空 偷跑",
+        "onboard_time": 1749822267,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106286,
+        "num": 106286,
+        "word": "单依纯 李健老师没来但如来",
+        "onboard_time": 1749820346,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46026,
+        "num": 105220,
+        "word": "威少进入自由市场",
+        "onboard_time": 1749832940,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104285,
+        "num": 104285,
+        "word": "卫兰淘汰",
+        "onboard_time": 1749824969,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104153,
+        "num": 104153,
+        "word": "四六级",
+        "onboard_time": 1749825507,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103811,
+        "num": 103811,
+        "word": "丁程鑫躲c位",
+        "onboard_time": 1749828743,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102167,
+        "num": 102167,
+        "word": "耳帝评歌手第5期",
+        "onboard_time": 1749832700,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190120,
+        "num": 100776,
+        "word": "辛云来赘得好幸福",
+        "onboard_time": 1749830183,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99169,
+        "num": 99169,
+        "word": "歌手直播",
+        "onboard_time": 1749814583,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91900,
+        "num": 91900,
+        "word": "你不必让所有人都满意",
+        "onboard_time": 1749833239,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91049,
+        "num": 91049,
+        "word": "台风蝴蝶在海南登陆",
+        "onboard_time": 1749829224,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 88079,
+        "num": 88079,
+        "word": "台风暴雨天气最大的受害者出现了",
+        "onboard_time": 1749828743,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87911,
+        "num": 87911,
+        "word": "17岁女儿闲鱼代打车套现妈妈上万元",
+        "onboard_time": 1749807502,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#1分钟回顾首届中国－中亚峰会亮点#"
+    }
+  }
+}
