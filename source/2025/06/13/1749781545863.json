@@ -1,0 +1,410 @@
+{
+  "runTime": 1749781545863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2012740,
+        "num": 2012740,
+        "word": "湛江全市停课",
+        "onboard_time": 1749775761,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1027107,
+        "num": 1027107,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30461,
+        "num": 957840,
+        "word": "中国全球好感度UP",
+        "onboard_time": 1749738683,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 930111,
+        "num": 930111,
+        "word": "印度坠机事故幸存者发声",
+        "onboard_time": 1749751756,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787462,
+        "num": 787462,
+        "word": "伊朗武装部队总参谋长遭暗杀",
+        "onboard_time": 1749776722,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 586648,
+        "num": 780988,
+        "word": "章子怡回复赵丽颖",
+        "onboard_time": 1749778580,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 561463,
+        "num": 773929,
+        "word": "田曦薇早知道就不来了",
+        "onboard_time": 1749778881,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113340,
+        "num": 771487,
+        "word": "伊朗伊斯兰革命卫队总司令遭暗杀",
+        "onboard_time": 1749780860,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138307,
+        "num": 761846,
+        "word": "黄金直线拉涨",
+        "onboard_time": 1749779841,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63193,
+        "num": 755185,
+        "word": "印度就坠机事故启动正式调查",
+        "onboard_time": 1749780021,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 749972,
+        "num": 749972,
+        "word": "印度一家五口空难前留下最后自拍",
+        "onboard_time": 1749779783,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 898563,
+        "num": 743963,
+        "word": "湘雅二医院两年间给罗帅宇转账40多万",
+        "onboard_time": 1749736282,
+        "rank": 11,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 733048,
+        "num": 733048,
+        "word": "朝鲜发生重大事故驱逐舰再次下水",
+        "onboard_time": 1749779720,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 526866,
+        "num": 526866,
+        "word": "印度坠机事故中发现一名幸存者",
+        "onboard_time": 1749723563,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 499032,
+        "num": 499032,
+        "word": "张雪峰谈要不要出省读大学",
+        "onboard_time": 1749773060,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 403896,
+        "num": 494722,
+        "word": "到底谁压轴",
+        "onboard_time": 1749776840,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 389784,
+        "num": 472758,
+        "word": "尚公主 孟子义李昀锐",
+        "onboard_time": 1749770898,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238200,
+        "num": 461840,
+        "word": "付辛博演技",
+        "onboard_time": 1749776840,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226878,
+        "num": 452010,
+        "word": "李昀锐方声明",
+        "onboard_time": 1749772100,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60566,
+        "num": 435986,
+        "word": "三亚各商场餐饮场所暂停营业",
+        "onboard_time": 1749780202,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431654,
+        "num": 431654,
+        "word": "入户大厅脚臭味超1个月找不到源头",
+        "onboard_time": 1749743783,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409235,
+        "num": 409235,
+        "word": "据称伊朗革命卫队司令遇袭身亡",
+        "onboard_time": 1749780500,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354834,
+        "num": 354834,
+        "word": "以色列宣布进入紧急状态",
+        "onboard_time": 1749775101,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 318330,
+        "num": 318330,
+        "word": "一架波音787客机印度坠毁",
+        "onboard_time": 1749718401,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313676,
+        "num": 313676,
+        "word": "罗帅宇亲属最新发声",
+        "onboard_time": 1749777081,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152825,
+        "num": 274784,
+        "word": "三亚已出现10级最大阵风",
+        "onboard_time": 1749781280,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271790,
+        "num": 271790,
+        "word": "印度一家五口空难前在机上开心合影",
+        "onboard_time": 1749779902,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40601,
+        "num": 249783,
+        "word": "台风蝴蝶到哪儿了",
+        "onboard_time": 1749781341,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 183060,
+        "num": 238023,
+        "word": "刘诗诗压轴出场",
+        "onboard_time": 1749771740,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168278,
+        "num": 232384,
+        "word": "爷爷不泡茶回应妍妍酱出席活动",
+        "onboard_time": 1749778101,
+        "rank": 29,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 232068,
+        "num": 232068,
+        "word": "黑匣子初步显示印度坠机未能正常起飞",
+        "onboard_time": 1749771439,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59927,
+        "num": 229016,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1749774262,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228160,
+        "num": 228160,
+        "word": "以色列 伊朗",
+        "onboard_time": 1749779120,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213587,
+        "num": 213587,
+        "word": "黄金",
+        "onboard_time": 1749776960,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196634,
+        "num": 196634,
+        "word": "高考后直接换头",
+        "onboard_time": 1749777500,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196319,
+        "num": 196319,
+        "word": "伊朗",
+        "onboard_time": 1749774142,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192799,
+        "num": 192799,
+        "word": "众星发文力挺邓紫棋",
+        "onboard_time": 1749726323,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179045,
+        "num": 179045,
+        "word": "美国将取消四国移民合法身份",
+        "onboard_time": 1749778642,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173195,
+        "num": 173195,
+        "word": "中国驻伊朗大使馆发安全提示",
+        "onboard_time": 1749779961,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172090,
+        "num": 172090,
+        "word": "伊朗首都传出爆炸声",
+        "onboard_time": 1749774922,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168406,
+        "num": 168406,
+        "word": "第一批给Labubu美容美甲的人出现了",
+        "onboard_time": 1749779541,
+        "rank": 40,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 167996,
+        "num": 167996,
+        "word": "坠机幸存男子称与哥哥一起回英国",
+        "onboard_time": 1749776423,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157868,
+        "num": 157868,
+        "word": "台风蝴蝶给多地带来大到暴雨",
+        "onboard_time": 1749775041,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145745,
+        "num": 145745,
+        "word": "罗云熙魅影神捕妆造",
+        "onboard_time": 1749781043,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144184,
+        "num": 144184,
+        "word": "单亲妈妈被骗近7万背后是上亿大案",
+        "onboard_time": 1749780141,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43434,
+        "num": 138830,
+        "word": "盛李豪收获职业生涯第10枚世界杯奖牌",
+        "onboard_time": 1749779482,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138347,
+        "num": 138347,
+        "word": "台风蝴蝶",
+        "onboard_time": 1749773360,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129933,
+        "num": 129933,
+        "word": "张元英的啤酒广告笑死我了",
+        "onboard_time": 1749741502,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128191,
+        "num": 128191,
+        "word": "王曼昱GLASS六月刊封面",
+        "onboard_time": 1749781521,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126182,
+        "num": 126182,
+        "word": "宁艺卓短发",
+        "onboard_time": 1749776242,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是人间正道#"
+    }
+  }
+}
