@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749836522146,
+  "endTime": 1749839765179,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -112,6 +112,14 @@
       "word": "邓超有个事放在我心里快一个月了",
       "onboard_time": 1749828624,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 371990,
+      "num": 144142,
+      "word": "谁给曾毅想的公关",
+      "onboard_time": 1749836178,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -443,20 +451,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 71976,
-      "num": 71976,
-      "word": "谁给曾毅想的公关",
-      "onboard_time": 1749836178,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66034,
       "num": 66034,
       "word": "微博电影之夜",
       "onboard_time": 1749812183,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 65800,
+      "num": 65800,
+      "word": "亲属称罗帅宇对未来计划明晰想考博",
+      "onboard_time": 1749834978,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63475,
@@ -515,7 +523,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36696,
+      "raw_hot": 43307,
       "num": 90773,
       "word": "医生诊疗时电话唠家常患者在一旁等",
       "onboard_time": 1749836178,
@@ -523,12 +531,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34920,
+      "raw_hot": 36686,
       "num": 71233,
       "word": "女子称在写真馆化妆致双眼化学灼伤",
       "onboard_time": 1749836419,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34470,
+      "num": 59448,
+      "word": "伊朗总统称将使敌人后悔其愚蠢行为",
+      "onboard_time": 1749839235,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 33486,
+      "num": 38161,
+      "word": "JDG突破队史",
+      "onboard_time": 1749839176,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 29597,
@@ -539,12 +563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14447,
+      "num": 59221,
+      "word": "西电为什么执着于未至之境的探索",
+      "onboard_time": 1749839176,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 14153,
       "num": 77535,
       "word": "钎城马可波罗C麻了",
       "onboard_time": 1749826525,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 10245,
+      "num": 37364,
+      "word": "优绩主义",
+      "onboard_time": 1749838995,
+      "rank": 42,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
