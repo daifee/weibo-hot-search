@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749835424583,
+  "endTime": 1749836522146,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -147,6 +147,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 221256,
+      "num": 221256,
+      "word": "郑钦文vs拉杜卡努",
+      "onboard_time": 1749824609,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190120,
       "num": 148317,
       "word": "辛云来赘得好幸福",
@@ -179,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169955,
-      "num": 169955,
-      "word": "郑钦文vs拉杜卡努",
-      "onboard_time": 1749824609,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165828,
       "num": 165828,
       "word": "耳帝",
@@ -217,6 +217,14 @@
       "onboard_time": 1749802641,
       "rank": 29,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 147775,
+      "num": 150499,
+      "word": "大爷恋爱5个月转账上万欲讨回被拒",
+      "onboard_time": 1749833780,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147609,
@@ -331,14 +339,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 118916,
-      "num": 150499,
-      "word": "大爷恋爱5个月转账上万欲讨回被拒",
-      "onboard_time": 1749833780,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118834,
       "num": 118834,
       "word": "台风暴雨天气最大的受害者出现了",
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 104339,
-      "num": 94424,
+      "num": 94937,
       "word": "罗某宇坠楼前给同学发短信系不实信息",
       "onboard_time": 1749833540,
       "rank": 30,
@@ -443,12 +443,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71976,
+      "num": 71976,
+      "word": "谁给曾毅想的公关",
+      "onboard_time": 1749836178,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66034,
       "num": 66034,
       "word": "微博电影之夜",
       "onboard_time": 1749812183,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 63475,
+      "num": 66032,
+      "word": "李昀锐把背叛玩得很熟练",
+      "onboard_time": 1749834919,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 63460,
@@ -459,12 +475,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 59047,
-      "num": 66032,
-      "word": "李昀锐把背叛玩得很熟练",
-      "onboard_time": 1749834919,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 60458,
+      "num": 243534,
+      "word": "宝马送到4S店维修被偷走",
+      "onboard_time": 1749834438,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56761,
@@ -475,7 +491,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55614,
+      "raw_hot": 56711,
       "num": 65906,
       "word": "英国男子在印坠机遇难两女儿成孤儿",
       "onboard_time": 1749828264,
@@ -499,11 +515,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38545,
-      "num": 243534,
-      "word": "宝马送到4S店维修被偷走",
-      "onboard_time": 1749834438,
-      "rank": 14,
+      "raw_hot": 36696,
+      "num": 90773,
+      "word": "医生诊疗时电话唠家常患者在一旁等",
+      "onboard_time": 1749836178,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34920,
+      "num": 71233,
+      "word": "女子称在写真馆化妆致双眼化学灼伤",
+      "onboard_time": 1749836419,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
