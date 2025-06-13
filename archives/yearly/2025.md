@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/13 22:25:54
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/13 22:44:43
 </p>
 </blockquote>
 <p>
@@ -1287,6 +1287,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23GAI%E7%AC%AC%E4%B8%80%23" target="weibo">
+GAI第一（热度：4228592）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E5%BA%86%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%81%B7%E7%A8%8E%23" target="weibo">
 刘晓庆被举报偷税（热度：4209075）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%89%E6%83%A8%E6%A1%88%23" target="weibo">
 五三惨案（热度：3458319）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%B3%B0%E5%9B%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23" target="weibo">
-陈奕迅泰国演唱会取消（热度：3449640）
 </a>
 </li>
 

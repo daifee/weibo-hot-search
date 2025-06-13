@@ -1,0 +1,410 @@
+{
+  "runTime": 1749825883246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15499099,
+        "num": 15499099,
+        "word": "官方通报罗帅宇事件",
+        "onboard_time": 1749820945,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 6176600,
+        "num": 6176600,
+        "word": "歌手排名",
+        "onboard_time": 1749824969,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17432,
+        "num": 4231326,
+        "word": "数里行间感知经济活力",
+        "onboard_time": 1749825030,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 4228592,
+        "num": 4228592,
+        "word": "GAI第一",
+        "onboard_time": 1749824609,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1004660,
+        "num": 1004660,
+        "word": "调查组逐一核查罗帅宇事件1281页材料",
+        "onboard_time": 1749823648,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 678046,
+        "num": 678046,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2435854,
+        "num": 674816,
+        "word": "马嘉祺 难听",
+        "onboard_time": 1749820524,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2193360,
+        "num": 662710,
+        "word": "卫兰淘汰",
+        "onboard_time": 1749824969,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724667,
+        "num": 658385,
+        "word": "湘雅二院涉事科室主任等4人被问责",
+        "onboard_time": 1749823527,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 291376,
+        "num": 642127,
+        "word": "未收到过罗某宇对刘翔峰的举报",
+        "onboard_time": 1749824250,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1949107,
+        "num": 637832,
+        "word": "歌手直播",
+        "onboard_time": 1749814583,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631701,
+        "num": 631701,
+        "word": "85岁妻子没上进心93岁男子起诉离婚",
+        "onboard_time": 1749820466,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1221106,
+        "num": 626578,
+        "word": "GAI给我听哭了",
+        "onboard_time": 1749823587,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187727,
+        "num": 623241,
+        "word": "官方回应湘雅二院被质疑洗黑钱分赃款",
+        "onboard_time": 1749824367,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 259911,
+        "num": 614936,
+        "word": "官方回应罗某宇笔记本电脑数据被删除",
+        "onboard_time": 1749823169,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1109596,
+        "num": 608249,
+        "word": "单依纯秒了",
+        "onboard_time": 1749820646,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 701739,
+        "num": 602502,
+        "word": "皇权富贵",
+        "onboard_time": 1749816802,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 599903,
+        "num": 599903,
+        "word": "湘雅二医院两年间给罗帅宇转账40多万",
+        "onboard_time": 1749736282,
+        "rank": 17,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 365984,
+        "num": 365984,
+        "word": "器官捐献资料未发现违法违规行为",
+        "onboard_time": 1749825090,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 233091,
+        "num": 364897,
+        "word": "调查组称多次与罗帅宇家属沟通被拒",
+        "onboard_time": 1749824488,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 596079,
+        "num": 364126,
+        "word": "唐汉霄揭榜陈楚生",
+        "onboard_time": 1749821487,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582885,
+        "num": 361920,
+        "word": "罗帅宇家属称已从医院拿到85.3万补偿",
+        "onboard_time": 1749824367,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551978,
+        "num": 359816,
+        "word": "马嘉祺 狂飙中音",
+        "onboard_time": 1749823707,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527452,
+        "num": 358037,
+        "word": "难听",
+        "onboard_time": 1749821186,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399211,
+        "num": 357693,
+        "word": "单依纯 李健老师没来但如来",
+        "onboard_time": 1749820346,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373150,
+        "num": 356104,
+        "word": "26岁IT女每天喝冰美式子宫长满肉芽",
+        "onboard_time": 1749823887,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366398,
+        "num": 354253,
+        "word": "警方未在罗帅宇电脑发现举报材料文件",
+        "onboard_time": 1749823107,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 353002,
+        "num": 353002,
+        "word": "以色列空袭已致伊朗78死329伤",
+        "onboard_time": 1749818784,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304972,
+        "num": 304972,
+        "word": "一个腰不好一个生不了",
+        "onboard_time": 1749825030,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167232,
+        "num": 268092,
+        "word": "罗帅宇家属称已拿到医院补偿",
+        "onboard_time": 1749824668,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169568,
+        "num": 266781,
+        "word": "两个李善德合体",
+        "onboard_time": 1749825746,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156660,
+        "num": 266559,
+        "word": "孙楠 真唱",
+        "onboard_time": 1749824250,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266456,
+        "num": 266456,
+        "word": "歌手能不能把编曲淘汰",
+        "onboard_time": 1749819025,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262786,
+        "num": 262786,
+        "word": "17岁女儿闲鱼代打车套现妈妈上万元",
+        "onboard_time": 1749807502,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228765,
+        "num": 228765,
+        "word": "陈楚生好嗨",
+        "onboard_time": 1749822509,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220261,
+        "num": 220261,
+        "word": "微博电影之夜",
+        "onboard_time": 1749812183,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88209,
+        "num": 219835,
+        "word": "揭秘疑似骗暑假工抽血浆公司",
+        "onboard_time": 1749823827,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 219548,
+        "num": 219548,
+        "word": "恋与深空 偷跑",
+        "onboard_time": 1749822267,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13037,
+        "num": 214099,
+        "word": "AI教你国补如何避坑",
+        "onboard_time": 1749825387,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26207,
+        "num": 212908,
+        "word": "孙路路谷江山张福正合影旧照",
+        "onboard_time": 1749824067,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 212604,
+        "num": 212604,
+        "word": "杨幂Labubu书包",
+        "onboard_time": 1749802641,
+        "rank": 40,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 200396,
+        "num": 200396,
+        "word": "歌手投票",
+        "onboard_time": 1749825030,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 198571,
+        "num": 198571,
+        "word": "伊朗退出与美国核谈判",
+        "onboard_time": 1749818304,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192442,
+        "num": 192442,
+        "word": "者来女揭榜成功",
+        "onboard_time": 1749820406,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190941,
+        "num": 190941,
+        "word": "官方通报披露罗帅宇生前最后短信内容",
+        "onboard_time": 1749825746,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 121170,
+        "num": 189644,
+        "word": "郑钦文vs拉杜卡努",
+        "onboard_time": 1749824609,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189388,
+        "num": 189388,
+        "word": "四六级",
+        "onboard_time": 1749825507,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187526,
+        "num": 187526,
+        "word": "曾毅 我以为是块劳力士",
+        "onboard_time": 1749801862,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185682,
+        "num": 187036,
+        "word": "全职妈妈回应带娃长住五星酒店",
+        "onboard_time": 1749822871,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186840,
+        "num": 186840,
+        "word": "宋茜内场第二套",
+        "onboard_time": 1749825687,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#1分钟回顾首届中国－中亚峰会亮点#"
+    }
+  }
+}
