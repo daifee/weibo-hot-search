@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749857151992,
+  "endTime": 1749858031857,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 720924,
+      "num": 720924,
+      "word": "伊朗向以色列发射约150枚导弹",
+      "onboard_time": 1749856280,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 677229,
       "num": 677229,
       "word": "大爷被咬后一脚将蛇踩死带着去就医",
@@ -59,20 +67,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 656032,
+      "num": 366818,
+      "word": "谁给曾毅想的公关",
+      "onboard_time": 1749836178,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647510,
       "num": 647510,
       "word": "马嘉祺 难听",
       "onboard_time": 1749820524,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 574482,
-      "num": 282592,
-      "word": "谁给曾毅想的公关",
-      "onboard_time": 1749836178,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 539361,
@@ -99,20 +107,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 461763,
+      "num": 461763,
+      "word": "第一批高考生已经到王一博老家了",
+      "onboard_time": 1749841334,
+      "rank": 29,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 416871,
       "num": 416871,
       "word": "85岁妻子没上进心93岁男子起诉离婚",
       "onboard_time": 1749820466,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395337,
-      "num": 395337,
-      "word": "第一批高考生已经到王一博老家了",
-      "onboard_time": 1749841334,
-      "rank": 29,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 391242,
@@ -123,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 389716,
+      "num": 389716,
+      "word": "向罗帅宇发放33万29万为他人绩效",
+      "onboard_time": 1749826166,
+      "rank": 22,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 375746,
       "num": 375746,
       "word": "邓超有个事放在我心里快一个月了",
@@ -131,16 +147,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334881,
-      "num": 334881,
-      "word": "向罗帅宇发放33万29万为他人绩效",
-      "onboard_time": 1749826166,
-      "rank": 22,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 285892,
-      "num": 285892,
+      "raw_hot": 290387,
+      "num": 368053,
       "word": "网红刘琳琳被曝直播时辱骂观众",
       "onboard_time": 1749847995,
       "rank": 28,
@@ -171,12 +179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224997,
-      "num": 224997,
-      "word": "伊朗向以色列发射约150枚导弹",
-      "onboard_time": 1749856280,
-      "rank": 12,
-      "category": "国际时政"
+      "raw_hot": 222683,
+      "num": 222683,
+      "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
+      "onboard_time": 1749825985,
+      "rank": 23,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 221256,
@@ -187,12 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205971,
-      "num": 205971,
-      "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
-      "onboard_time": 1749825985,
-      "rank": 23,
-      "category": "辟谣/通报"
+      "raw_hot": 209866,
+      "num": 209866,
+      "word": "田柾国道歉",
+      "onboard_time": 1749856698,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 190120,
@@ -211,12 +219,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187644,
+      "num": 89860,
+      "word": "罗帅宇坠亡后手机有3次通话记录",
+      "onboard_time": 1749857419,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 171272,
       "num": 171272,
       "word": "罗帅宇科室将绩效发给学生再收回",
       "onboard_time": 1749826766,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170784,
+      "num": 180724,
+      "word": "张雅琪真的把卫兰照顾的很好",
+      "onboard_time": 1749854897,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 165828,
@@ -233,6 +257,14 @@
       "onboard_time": 1749773961,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159729,
+      "num": 177916,
+      "word": "田柾国帽子",
+      "onboard_time": 1749856878,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 155101,
@@ -331,6 +363,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 127064,
+      "num": 127064,
+      "word": "英国男子在印坠机遇难两女儿成孤儿",
+      "onboard_time": 1749828264,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126760,
       "num": 126760,
       "word": "丁程鑫躲c位",
@@ -395,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115462,
-      "num": 115462,
-      "word": "英国男子在印坠机遇难两女儿成孤儿",
-      "onboard_time": 1749828264,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 115097,
       "num": 115097,
       "word": "一个女孩的最后十三天",
@@ -419,8 +451,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 107758,
-      "num": 107758,
+      "raw_hot": 110539,
+      "num": 110539,
       "word": "17岁女儿闲鱼代打车套现妈妈上万元",
       "onboard_time": 1749807502,
       "rank": 49,
@@ -432,14 +464,6 @@
       "word": "单依纯 李健老师没来但如来",
       "onboard_time": 1749820346,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 105692,
-      "num": 146488,
-      "word": "张雅琪真的把卫兰照顾的很好",
-      "onboard_time": 1749854897,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -491,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88483,
-      "num": 88483,
-      "word": "田柾国道歉",
-      "onboard_time": 1749856698,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85998,
       "num": 85998,
       "word": "以色列巴勒斯坦冲突",
@@ -515,12 +531,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 69170,
-      "num": 84172,
-      "word": "田柾国帽子",
-      "onboard_time": 1749856878,
-      "rank": 29,
+      "raw_hot": 82369,
+      "num": 230514,
+      "word": "以色列新一轮打击开始",
+      "onboard_time": 1749857599,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 79625,
+      "num": 79625,
+      "word": "曾毅自曝曾脚踹女员工",
+      "onboard_time": 1749857899,
+      "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75288,
+      "num": 75288,
+      "word": "以色列民众涌向超市抢购物资",
+      "onboard_time": 1749855317,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 72039,
+      "num": 72039,
+      "word": "GAI 该做热玛吉了",
+      "onboard_time": 1749820764,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 67661,
@@ -571,12 +611,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 63369,
-      "num": 63369,
-      "word": "以色列民众涌向超市抢购物资",
-      "onboard_time": 1749855317,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 63322,
+      "num": 67264,
+      "word": "一个腰不好一个生不了",
+      "onboard_time": 1749825030,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 60458,
@@ -595,12 +635,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55336,
+      "raw_hot": 55901,
       "num": 90773,
       "word": "医生诊疗时电话唠家常患者在一旁等",
       "onboard_time": 1749836178,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54589,
+      "num": 54589,
+      "word": "6名伊朗核科学家遭袭身亡",
+      "onboard_time": 1749844153,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47422,
@@ -625,14 +673,6 @@
       "onboard_time": 1749832940,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45278,
-      "num": 45278,
-      "word": "6名伊朗核科学家遭袭身亡",
-      "onboard_time": 1749844153,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42206,
@@ -787,20 +827,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 13068,
+      "num": 638156,
+      "word": "数里行间感知经济活力",
+      "onboard_time": 1749825030,
+      "rank": 2,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 11781,
       "num": 33911,
       "word": "邓超丁程鑫讲了段相声",
       "onboard_time": 1749840554,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 11689,
-      "num": 534830,
-      "word": "数里行间感知经济活力",
-      "onboard_time": 1749825030,
-      "rank": 2,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 11615,
