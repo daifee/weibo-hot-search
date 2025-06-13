@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749797515137,
+  "endTime": 1749799536536,
   "band_list": [
     {
       "raw_hot": 15414358,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1421763,
+      "num": 1421763,
+      "word": "罗帅宇生前聊天记录曝光",
+      "onboard_time": 1749795083,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1330502,
       "num": 1330502,
       "word": "以色列对伊朗发动打击",
@@ -123,6 +131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1131512,
+      "num": 1131512,
+      "word": "罗帅宇父亲说有人想用1500万封口",
+      "onboard_time": 1749797302,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1129904,
       "num": 1129904,
       "word": "伊朗核设施被炸",
@@ -137,14 +153,6 @@
       "onboard_time": 1749787822,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 955984,
-      "num": 955984,
-      "word": "罗帅宇生前聊天记录曝光",
-      "onboard_time": 1749795083,
-      "rank": 6,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 897837,
@@ -187,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 735328,
+      "num": 735328,
+      "word": "王朔女儿 你死屋里影响房价",
+      "onboard_time": 1749792803,
+      "rank": 31,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 728635,
       "num": 728635,
       "word": "罗帅宇录音",
@@ -203,12 +219,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 657105,
-      "num": 657105,
-      "word": "王朔女儿 你死屋里影响房价",
-      "onboard_time": 1749792803,
-      "rank": 31,
-      "category": "读书作家"
+      "raw_hot": 672515,
+      "num": 672515,
+      "word": "微博电影之夜红毯",
+      "onboard_time": 1749794543,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 629005,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502481,
+      "num": 299338,
+      "word": "湖南成立罗帅宇事件联合调查组",
+      "onboard_time": 1749797842,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 493031,
       "num": 655128,
       "word": "微博电影之夜全阵容",
@@ -329,14 +353,6 @@
       "onboard_time": 1749776840,
       "rank": 8,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 415853,
-      "num": 494362,
-      "word": "微博电影之夜红毯",
-      "onboard_time": 1749794543,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 415456,
@@ -467,6 +483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 277563,
+      "num": 277563,
+      "word": "伊朗武装部队发布一号公告",
+      "onboard_time": 1749798142,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 271219,
       "num": 271219,
       "word": "伊朗",
@@ -491,12 +515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261726,
+      "num": 293542,
+      "word": "内娱竟有让黄景瑜有弟感的男人",
+      "onboard_time": 1749797723,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259638,
       "num": 259638,
       "word": "红果崩了",
       "onboard_time": 1749739402,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 257670,
+      "num": 284544,
+      "word": "罗帅宇的举报材料被何人所删",
+      "onboard_time": 1749798023,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 248118,
@@ -595,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222554,
+      "num": 222554,
+      "word": "湘雅二院曾因瞒报重大医疗纠纷被处罚",
+      "onboard_time": 1749798981,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 220841,
       "num": 220841,
       "word": "大四男生一口气收8个offer年薪20万",
@@ -675,6 +723,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 201740,
+      "num": 201740,
+      "word": "宋茜ES高定",
+      "onboard_time": 1749798081,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201460,
       "num": 345454,
       "word": "看汪苏泷的演唱会还能吃到免费夜宵",
@@ -723,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196424,
+      "num": 289851,
+      "word": "王安宇装了一车白玫瑰",
+      "onboard_time": 1749799102,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194671,
       "num": 194671,
       "word": "龚俊眼角伤",
@@ -731,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192890,
-      "num": 181494,
-      "word": "罗帅宇父亲说有人想用1500万封口",
-      "onboard_time": 1749797302,
-      "rank": 28,
-      "category": "舆论监督"
+      "raw_hot": 191593,
+      "num": 191593,
+      "word": "罗帅宇妈妈最新发声",
+      "onboard_time": 1749797842,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190855,
@@ -843,12 +907,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175295,
+      "num": 203960,
+      "word": "人上班怎么可以聪明成这样",
+      "onboard_time": 1749798862,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174660,
       "num": 174660,
       "word": "王曼昱有随时能发出下一个球的能力",
       "onboard_time": 1749790766,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174159,
+      "num": 174159,
+      "word": "CRAVITY打架",
+      "onboard_time": 1749798502,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 173430,
@@ -953,6 +1033,14 @@
       "onboard_time": 1749782362,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 160223,
+      "num": 160223,
+      "word": "猫 如何呢又能怎",
+      "onboard_time": 1749797723,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 159335,
@@ -1251,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123196,
+      "num": 123196,
+      "word": "曾舜晞又争又抢",
+      "onboard_time": 1749798862,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123101,
       "num": 123101,
       "word": "邓紫棋含泪控诉遭前公司PUA",
@@ -1273,6 +1369,14 @@
       "onboard_time": 1749763933,
       "rank": 44,
       "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 118820,
+      "num": 120582,
+      "word": "黄金股集体大爆发",
+      "onboard_time": 1749799342,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 113982,
@@ -1379,6 +1483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98486,
+      "num": 1519349,
+      "word": "夏天的凉席是古人严选",
+      "onboard_time": 1749795023,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98137,
       "num": 342363,
       "word": "不敢想蔡文静一个人在家有多忙",
@@ -1387,12 +1499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97614,
+      "num": 287230,
+      "word": "日落以后一起chagee",
+      "onboard_time": 1749798802,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 96842,
       "num": 96842,
       "word": "李昀锐谁的妻子",
       "onboard_time": 1749745581,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96820,
+      "num": 279058,
+      "word": "罗帅宇家属称医院还未联系自己",
+      "onboard_time": 1749799280,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96180,
@@ -1419,19 +1547,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92734,
+      "num": 120473,
+      "word": "刘国梁联合国活动发言",
+      "onboard_time": 1749798322,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91677,
       "num": 167425,
       "word": "浙江老板嫁女252桌吃掉50万拒付钱",
       "onboard_time": 1749796102,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91265,
-      "num": 1284790,
-      "word": "夏天的凉席是古人严选",
-      "onboard_time": 1749795023,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1635,6 +1763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 64255,
+      "num": 142713,
+      "word": "艾滋女孩日记",
+      "onboard_time": 1749798623,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63790,
       "num": 63790,
       "word": "阿里离职员工说不要消费马云",
@@ -1664,6 +1800,14 @@
       "word": "孟子义黑天使造型",
       "onboard_time": 1749732923,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 62463,
+      "num": 141754,
+      "word": "刘诗诗陈昊宇同框",
+      "onboard_time": 1749797602,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1768,6 +1912,14 @@
       "word": "御酒进贡之路堪比往长安运荔枝",
       "onboard_time": 1749787942,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29536,
+      "num": 160276,
+      "word": "准大学生成国补换手机最受益人群",
+      "onboard_time": 1749798142,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
