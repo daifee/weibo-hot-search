@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749807752247,
+  "endTime": 1749810528912,
   "band_list": [
     {
       "raw_hot": 15414358,
@@ -75,20 +75,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1982145,
+      "num": 890146,
+      "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
+      "onboard_time": 1749803000,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1768538,
       "num": 1768538,
       "word": "入户大厅脚臭味超1个月找不到源头",
       "onboard_time": 1749743783,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1729269,
-      "num": 890146,
-      "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
-      "onboard_time": 1749803000,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1727628,
@@ -153,6 +153,14 @@
       "onboard_time": 1749784340,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1136841,
+      "num": 387322,
+      "word": "湘雅二医院曾有患者出院当天死亡",
+      "onboard_time": 1749809662,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1129904,
@@ -249,6 +257,14 @@
       "onboard_time": 1749780860,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 695123,
+      "num": 221142,
+      "word": "网红问黄子韬离婚是有意还是无心",
+      "onboard_time": 1749804862,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 672515,
@@ -427,20 +443,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 413225,
+      "num": 413225,
+      "word": "17岁女儿闲鱼代打车套现妈妈上万元",
+      "onboard_time": 1749807502,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409235,
       "num": 409235,
       "word": "据称伊朗革命卫队司令遇袭身亡",
       "onboard_time": 1749780500,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 408541,
-      "num": 198716,
-      "word": "网红问黄子韬离婚是有意还是无心",
-      "onboard_time": 1749804862,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 379349,
@@ -473,6 +489,14 @@
       "onboard_time": 1749795562,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 346293,
+      "num": 212726,
+      "word": "不愧是木村拓哉工藤静香的女儿",
+      "onboard_time": 1749806901,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 343988,
@@ -555,6 +579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 281893,
+      "num": 189658,
+      "word": "尤长靖逼张靓颖道歉",
+      "onboard_time": 1749809481,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277817,
       "num": 381284,
       "word": "歌手歌单",
@@ -593,6 +625,14 @@
       "onboard_time": 1749799102,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 272134,
+      "num": 272134,
+      "word": "BLG对战iG",
+      "onboard_time": 1749809362,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 271219,
@@ -691,14 +731,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 239940,
-      "num": 172429,
-      "word": "不愧是木村拓哉工藤静香的女儿",
-      "onboard_time": 1749806901,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 237937,
       "num": 237937,
       "word": "郑晓龙压不住的嘴角",
@@ -739,6 +771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230265,
+      "num": 230265,
+      "word": "吴磊好像挂了一朵银耳",
+      "onboard_time": 1749808824,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230233,
       "num": 230233,
       "word": "别让罗帅宇医生死得不明不白",
@@ -769,6 +809,14 @@
       "onboard_time": 1749801322,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 224993,
+      "num": 134412,
+      "word": "罗帅宇亲属称举报是为查明医疗腐败",
+      "onboard_time": 1749807922,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 223308,
@@ -851,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207978,
+      "num": 207978,
+      "word": "微博电影之夜明星生图",
+      "onboard_time": 1749808942,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206750,
       "num": 370085,
       "word": "这次捅了歌红人不红的窝了",
@@ -891,6 +947,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 202846,
+      "num": 187419,
+      "word": "上海全款500万86平的家",
+      "onboard_time": 1749809421,
+      "rank": 27,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 202815,
       "num": 277862,
       "word": "彻查罗帅宇案不能只靠当地自查自纠",
@@ -905,6 +969,14 @@
       "onboard_time": 1749788120,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201119,
+      "num": 201119,
+      "word": "朱一龙流苏穗",
+      "onboard_time": 1749809302,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 200903,
@@ -1009,6 +1081,14 @@
       "onboard_time": 1749789263,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187223,
+      "num": 187223,
+      "word": "GEN对战HLE",
+      "onboard_time": 1749809421,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 186766,
@@ -1491,6 +1571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145992,
+      "num": 145992,
+      "word": "新婚头像变告黑声明",
+      "onboard_time": 1749810202,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145745,
       "num": 145745,
       "word": "罗云熙魅影神捕妆造",
@@ -1555,6 +1643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136183,
+      "num": 201922,
+      "word": "机长谈空难幸存者是否因座位更安全",
+      "onboard_time": 1749806842,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136027,
       "num": 136027,
       "word": "男子上户口意外发现女儿非亲生",
@@ -1585,6 +1681,14 @@
       "onboard_time": 1749776242,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133839,
+      "num": 133839,
+      "word": "LPL",
+      "onboard_time": 1749810262,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 133472,
@@ -1691,20 +1795,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127644,
+      "num": 127644,
+      "word": "LABUBU爆火是年轻人愿意为情绪买单",
+      "onboard_time": 1749805342,
+      "rank": 44,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 127167,
       "num": 127167,
       "word": "印度坠机幸存者已与家属通话",
       "onboard_time": 1749743002,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 126275,
-      "num": 126275,
-      "word": "LABUBU爆火是年轻人愿意为情绪买单",
-      "onboard_time": 1749805342,
-      "rank": 44,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 125578,
@@ -1779,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121876,
+      "num": 121876,
+      "word": "王安宇看镜头那一下",
+      "onboard_time": 1749808341,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118823,
       "num": 118823,
       "word": "董宇辉说高考不理想不必过于懊恼",
@@ -1835,6 +1947,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112538,
+      "num": 112538,
+      "word": "RW对战JDG",
+      "onboard_time": 1749809841,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 112527,
+      "num": 112527,
+      "word": "青你2冯若航拍男性向互动影游",
+      "onboard_time": 1749807803,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111716,
       "num": 185196,
       "word": "张真源环球人物杂志",
@@ -1873,6 +2001,14 @@
       "onboard_time": 1749739284,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107997,
+      "num": 107997,
+      "word": "临江仙",
+      "onboard_time": 1749809601,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 107981,
@@ -1929,6 +2065,22 @@
       "onboard_time": 1749783561,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 103954,
+      "num": 136469,
+      "word": "胡锡进说伊朗被渗透成筛子了",
+      "onboard_time": 1749807622,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 102304,
+      "num": 102304,
+      "word": "第一次见敖瑞鹏这么小鸟依人",
+      "onboard_time": 1749810501,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 100227,
@@ -2267,6 +2419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 63694,
+      "num": 103117,
+      "word": "罗帅宇之死引发三重追问",
+      "onboard_time": 1749810323,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63193,
       "num": 755185,
       "word": "印度就坠机事故启动正式调查",
@@ -2355,28 +2515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 49872,
-      "num": 201922,
-      "word": "机长谈空难幸存者是否因座位更安全",
-      "onboard_time": 1749806842,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 44366,
       "num": 217413,
       "word": "哪些行为很放松却悄悄消耗气血",
       "onboard_time": 1749805342,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 43676,
-      "num": 180034,
-      "word": "17岁女儿闲鱼代打车套现妈妈上万元",
-      "onboard_time": 1749807502,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43434,
@@ -2393,6 +2537,14 @@
       "onboard_time": 1749787762,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 37565,
+      "num": 215570,
+      "word": "中国中亚友谊林的石榴树开花结果了",
+      "onboard_time": 1749809841,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35310,
@@ -2432,14 +2584,6 @@
       "word": "在伊朗中国人回忆袭击爆炸瞬间",
       "onboard_time": 1749792803,
       "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 32859,
-      "num": 136469,
-      "word": "胡锡进说伊朗被渗透成筛子了",
-      "onboard_time": 1749807622,
-      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -2491,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23374,
+      "num": 178502,
+      "word": "专家解析以色列袭击伊朗细节",
+      "onboard_time": 1749810442,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22074,
       "num": 164086,
       "word": "国补期间买了哪些家电好物",
@@ -2529,6 +2681,14 @@
       "onboard_time": 1749756314,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18024,
+      "num": 200943,
+      "word": "被蚊子叮咬后怎么快速消肿止痒",
+      "onboard_time": 1749808942,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17968,

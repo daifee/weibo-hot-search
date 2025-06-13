@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749807752247,
+  "endTime": 1749810528912,
   "band_list": [
     {
       "raw_hot": 15414358,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1982145,
+      "num": 890146,
+      "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
+      "onboard_time": 1749803000,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1969145,
       "num": 1969145,
       "word": "韦东奕严选账号已改名",
@@ -353,14 +361,6 @@
       "onboard_time": 1749480802,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1729269,
-      "num": 890146,
-      "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
-      "onboard_time": 1749803000,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1729254,
@@ -825,6 +825,14 @@
       "onboard_time": 1749615682,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1136841,
+      "num": 387322,
+      "word": "湘雅二医院曾有患者出院当天死亡",
+      "onboard_time": 1749809662,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1131522,
@@ -1817,6 +1825,14 @@
       "onboard_time": 1749439401,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 695123,
+      "num": 221142,
+      "word": "网红问黄子韬离婚是有意还是无心",
+      "onboard_time": 1749804862,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 692104,
@@ -3491,6 +3507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 413225,
+      "num": 413225,
+      "word": "17岁女儿闲鱼代打车套现妈妈上万元",
+      "onboard_time": 1749807502,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412563,
       "num": 412563,
       "word": "Shanks成角了",
@@ -3553,14 +3577,6 @@
       "onboard_time": 1749399979,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 408541,
-      "num": 198716,
-      "word": "网红问黄子韬离婚是有意还是无心",
-      "onboard_time": 1749804862,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 407855,
@@ -4273,6 +4289,14 @@
       "onboard_time": 1749645863,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 346293,
+      "num": 212726,
+      "word": "不愧是木村拓哉工藤静香的女儿",
+      "onboard_time": 1749806901,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 346187,
@@ -5259,6 +5283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281893,
+      "num": 189658,
+      "word": "尤长靖逼张靓颖道歉",
+      "onboard_time": 1749809481,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281649,
       "num": 266008,
       "word": "文班亚马去少林寺把头剃了",
@@ -5457,6 +5489,14 @@
       "onboard_time": 1749529221,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 272134,
+      "num": 272134,
+      "word": "BLG对战iG",
+      "onboard_time": 1749809362,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 271900,
@@ -6243,14 +6283,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 239940,
-      "num": 172429,
-      "word": "不愧是木村拓哉工藤静香的女儿",
-      "onboard_time": 1749806901,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 239902,
       "num": 304223,
       "word": "印度失事客机乘客名单无中国公民",
@@ -6499,6 +6531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230265,
+      "num": 230265,
+      "word": "吴磊好像挂了一朵银耳",
+      "onboard_time": 1749808824,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230256,
       "num": 230256,
       "word": "小米汽车公布YU7设计手稿",
@@ -6737,6 +6777,14 @@
       "onboard_time": 1749801322,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 224993,
+      "num": 134412,
+      "word": "罗帅宇亲属称举报是为查明医疗腐败",
+      "onboard_time": 1749807922,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 224563,
@@ -7395,6 +7443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207978,
+      "num": 207978,
+      "word": "微博电影之夜明星生图",
+      "onboard_time": 1749808942,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207814,
       "num": 367020,
       "word": "何瑞贤新剧是白鹿梦女",
@@ -7691,6 +7747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 202846,
+      "num": 187419,
+      "word": "上海全款500万86平的家",
+      "onboard_time": 1749809421,
+      "rank": 27,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 202827,
       "num": 202827,
       "word": "桃花映江山",
@@ -7873,6 +7937,14 @@
       "onboard_time": 1749399200,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201119,
+      "num": 201119,
+      "word": "朱一龙流苏穗",
+      "onboard_time": 1749809302,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 200888,
@@ -8825,6 +8897,14 @@
       "onboard_time": 1749367339,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187223,
+      "num": 187223,
+      "word": "GEN对战HLE",
+      "onboard_time": 1749809421,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 187143,
@@ -12507,6 +12587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145992,
+      "num": 145992,
+      "word": "新婚头像变告黑声明",
+      "onboard_time": 1749810202,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145957,
       "num": 145957,
       "word": "李昀锐衣服上的小森林",
@@ -13515,6 +13603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136183,
+      "num": 201922,
+      "word": "机长谈空难幸存者是否因座位更安全",
+      "onboard_time": 1749806842,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136048,
       "num": 136048,
       "word": "宁夏一县招聘0彩礼新婚夫妇可加分",
@@ -14459,6 +14555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127644,
+      "num": 127644,
+      "word": "LABUBU爆火是年轻人愿意为情绪买单",
+      "onboard_time": 1749805342,
+      "rank": 44,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 127538,
       "num": 127538,
       "word": "时代少年团大连",
@@ -14545,14 +14649,6 @@
       "onboard_time": 1749695781,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 126275,
-      "num": 126275,
-      "word": "LABUBU爆火是年轻人愿意为情绪买单",
-      "onboard_time": 1749805342,
-      "rank": 44,
-      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 126255,
@@ -15017,6 +15113,14 @@
       "onboard_time": 1749381923,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 121876,
+      "num": 121876,
+      "word": "王安宇看镜头那一下",
+      "onboard_time": 1749808341,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 121563,
@@ -15763,6 +15867,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112538,
+      "num": 112538,
+      "word": "RW对战JDG",
+      "onboard_time": 1749809841,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 112527,
+      "num": 112527,
+      "word": "青你2冯若航拍男性向互动影游",
+      "onboard_time": 1749807803,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112393,
       "num": 112393,
       "word": "减肥其实是旺自己的开始",
@@ -16219,6 +16339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103954,
+      "num": 136469,
+      "word": "胡锡进说伊朗被渗透成筛子了",
+      "onboard_time": 1749807622,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103651,
       "num": 103651,
       "word": "严浩翔给链子 南宫问雅摸头",
@@ -16265,6 +16393,14 @@
       "onboard_time": 1749562162,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102304,
+      "num": 102304,
+      "word": "第一次见敖瑞鹏这么小鸟依人",
+      "onboard_time": 1749810501,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 102220,
@@ -18347,6 +18483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63694,
+      "num": 103117,
+      "word": "罗帅宇之死引发三重追问",
+      "onboard_time": 1749810323,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63462,
       "num": 321427,
       "word": "零跑蝉联海外新势力销量第一",
@@ -19123,14 +19267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49872,
-      "num": 201922,
-      "word": "机长谈空难幸存者是否因座位更安全",
-      "onboard_time": 1749806842,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 49824,
       "num": 189201,
       "word": "为什么推荐报考汕头大学",
@@ -19441,14 +19577,6 @@
       "onboard_time": 1749660678,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43676,
-      "num": 180034,
-      "word": "17岁女儿闲鱼代打车套现妈妈上万元",
-      "onboard_time": 1749807502,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43434,
@@ -19915,6 +20043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 37565,
+      "num": 215570,
+      "word": "中国中亚友谊林的石榴树开花结果了",
+      "onboard_time": 1749809841,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37334,
       "num": 264975,
       "word": "以为很长肉但减肥的食物有哪些",
@@ -20352,14 +20488,6 @@
       "word": "美国为何不愿接受非法移民了",
       "onboard_time": 1749461781,
       "rank": 16,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 32859,
-      "num": 136469,
-      "word": "胡锡进说伊朗被渗透成筛子了",
-      "onboard_time": 1749807622,
-      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -21155,6 +21283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23374,
+      "num": 178502,
+      "word": "专家解析以色列袭击伊朗细节",
+      "onboard_time": 1749810442,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23280,
       "num": 157666,
       "word": "拍出108万Labubu首任藏家发声",
@@ -21601,6 +21737,14 @@
       "onboard_time": 1749537862,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18024,
+      "num": 200943,
+      "word": "被蚊子叮咬后怎么快速消肿止痒",
+      "onboard_time": 1749808942,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17997,
