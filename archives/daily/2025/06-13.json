@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749785044319,
+  "endTime": 1749785758934,
   "band_list": [
     {
       "raw_hot": 5565200,
@@ -67,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 977324,
+      "num": 565188,
+      "word": "迪迪不畏",
+      "onboard_time": 1749784340,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 897837,
       "num": 897837,
       "word": "印度一家五口空难前留下最后自拍",
@@ -75,8 +83,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 806597,
-      "num": 806597,
+      "raw_hot": 864003,
+      "num": 864003,
       "word": "朝鲜发生重大事故驱逐舰再次下水",
       "onboard_time": 1749779720,
       "rank": 33,
@@ -131,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 581187,
+      "num": 673892,
+      "word": "多名伊朗高级官员被暗杀",
+      "onboard_time": 1749783321,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 561463,
       "num": 773929,
       "word": "田曦薇早知道就不来了",
@@ -163,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 532071,
-      "num": 673892,
-      "word": "多名伊朗高级官员被暗杀",
-      "onboard_time": 1749783321,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 482707,
       "num": 482707,
       "word": "以色列宣布进入紧急状态",
@@ -185,14 +193,6 @@
       "onboard_time": 1749714861,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 475917,
-      "num": 475917,
-      "word": "迪迪不畏",
-      "onboard_time": 1749784340,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 455113,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 248118,
-      "num": 487849,
+      "num": 552800,
       "word": "爷爷不泡茶回应妍妍酱出席活动",
       "onboard_time": 1749778101,
       "rank": 37,
@@ -395,12 +395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220782,
+      "num": 220782,
+      "word": "有博主收藏了近400只labubu",
+      "onboard_time": 1749784461,
+      "rank": 45,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 215959,
       "num": 215959,
       "word": "台风蝴蝶给多地带来大到暴雨",
       "onboard_time": 1749775041,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211414,
+      "num": 211414,
+      "word": "张朝阳再谈送回绝版labubu称很遗憾",
+      "onboard_time": 1749785361,
+      "rank": 32,
+      "category": "互联网,动漫"
     },
     {
       "raw_hot": 202881,
@@ -425,6 +441,14 @@
       "onboard_time": 1749777500,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190855,
+      "num": 514975,
+      "word": "魅影神捕开机",
+      "onboard_time": 1749779361,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 186697,
@@ -459,6 +483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 178526,
+      "num": 317510,
+      "word": "淬火年代定档",
+      "onboard_time": 1749782901,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177563,
       "num": 177563,
       "word": "Labubu爆火哪些国货被低估了",
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 176083,
-      "num": 245145,
+      "num": 259228,
       "word": "京东苏超十三太宝",
       "onboard_time": 1749782422,
       "rank": 29,
@@ -523,6 +555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165930,
+      "num": 165930,
+      "word": "剑网3",
+      "onboard_time": 1749785600,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165823,
       "num": 165823,
       "word": "要减肥就不能买电动车",
@@ -531,8 +571,16 @@
       "category": "运动健身,幽默"
     },
     {
+      "raw_hot": 165704,
+      "num": 165704,
+      "word": "无限暖暖",
+      "onboard_time": 1749784401,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163780,
-      "num": 163780,
+      "num": 165640,
       "word": "单亲妈妈被骗近7万背后是上亿大案",
       "onboard_time": 1749780141,
       "rank": 44,
@@ -563,14 +611,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 156961,
-      "num": 156961,
-      "word": "魅影神捕开机",
-      "onboard_time": 1749779361,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156128,
       "num": 218725,
       "word": "印度坠机黑匣子已找到",
@@ -595,12 +635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154788,
-      "num": 154788,
-      "word": "有博主收藏了近400只labubu",
-      "onboard_time": 1749784461,
-      "rank": 45,
-      "category": "民生新闻,动漫"
+      "raw_hot": 154916,
+      "num": 154916,
+      "word": "金饰克价涨至1033元",
+      "onboard_time": 1749785480,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 154216,
@@ -635,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152743,
+      "num": 152743,
+      "word": "哪吒汽车员工发声",
+      "onboard_time": 1749784281,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 150780,
       "num": 150780,
       "word": "王曼昱GLASS六月刊封面",
@@ -643,20 +691,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149975,
+      "num": 149975,
+      "word": "以防长说已无法回头",
+      "onboard_time": 1749785662,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149114,
       "num": 248880,
       "word": "沈腾马丽的游戏惩罚全是艾伦",
       "onboard_time": 1749784762,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148510,
-      "num": 148510,
-      "word": "无限暖暖",
-      "onboard_time": 1749784401,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 145745,
@@ -673,6 +721,14 @@
       "onboard_time": 1749749297,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138216,
+      "num": 164020,
+      "word": "真正的好朋友不会贬低你",
+      "onboard_time": 1749785061,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 137768,
@@ -697,6 +753,14 @@
       "onboard_time": 1749776242,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132880,
+      "num": 162270,
+      "word": "素媛案凶手多次未经允许外出被拘留",
+      "onboard_time": 1749785720,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129104,
@@ -740,7 +804,7 @@
     },
     {
       "raw_hot": 123916,
-      "num": 479321,
+      "num": 501584,
       "word": "郭晶晶说当妈是一辈子的功课",
       "onboard_time": 1749783801,
       "rank": 18,
@@ -769,14 +833,6 @@
       "onboard_time": 1749763933,
       "rank": 44,
       "category": "互联网,教育"
-    },
-    {
-      "raw_hot": 116705,
-      "num": 165438,
-      "word": "淬火年代定档",
-      "onboard_time": 1749782901,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 113982,
@@ -844,7 +900,7 @@
     },
     {
       "raw_hot": 104724,
-      "num": 295215,
+      "num": 299984,
       "word": "张雪峰发声打破对教育学刻板认知",
       "onboard_time": 1749783561,
       "rank": 24,
@@ -888,6 +944,14 @@
       "word": "坠机幸存者为英国籍",
       "onboard_time": 1749745521,
       "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91218,
+      "num": 487510,
+      "word": "波音事故率全球第二",
+      "onboard_time": 1749785180,
+      "rank": 19,
       "category": "海外新闻"
     },
     {
@@ -1107,6 +1171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35310,
+      "num": 497677,
+      "word": "经常漂染头发有什么影响",
+      "onboard_time": 1749784401,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35225,
+      "num": 528766,
+      "word": "以总理说以军对伊朗的打击会持续多日",
+      "onboard_time": 1749784641,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34678,
       "num": 43583,
       "word": "最好的感情是双向奔赴",
@@ -1121,14 +1201,6 @@
       "onboard_time": 1749771259,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25561,
-      "num": 482737,
-      "word": "以总理说以军对伊朗的打击会持续多日",
-      "onboard_time": 1749784641,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25407,
@@ -1153,14 +1225,6 @@
       "onboard_time": 1749759134,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 20226,
-      "num": 476944,
-      "word": "经常漂染头发有什么影响",
-      "onboard_time": 1749784401,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19894,

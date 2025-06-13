@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/13 00:33:00 ~ 2025/06/13 11:24:04
+本榜单时间：2025/06/13 00:33:00 ~ 2025/06/13 11:35:58
 </p>
 </blockquote>
 <p>
@@ -63,6 +63,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E8%BF%AA%E4%B8%8D%E7%95%8F%23" target="weibo">
+迪迪不畏（热度：977324）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E7%A9%BA%E9%9A%BE%E5%89%8D%E7%95%99%E4%B8%8B%E6%9C%80%E5%90%8E%E8%87%AA%E6%8B%8D%23" target="weibo">
 印度一家五口空难前留下最后自拍（热度：897837）
 </a>
@@ -70,7 +76,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E4%BA%8B%E6%95%85%E9%A9%B1%E9%80%90%E8%88%B0%E5%86%8D%E6%AC%A1%E4%B8%8B%E6%B0%B4%23" target="weibo">
-朝鲜发生重大事故驱逐舰再次下水（热度：806597）
+朝鲜发生重大事故驱逐舰再次下水（热度：864003）
 </a>
 </li>
 
@@ -111,6 +117,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E4%BC%8A%E6%9C%97%E9%AB%98%E7%BA%A7%E5%AE%98%E5%91%98%E8%A2%AB%E6%9A%97%E6%9D%80%23" target="weibo">
+多名伊朗高级官员被暗杀（热度：581187）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%97%A9%E7%9F%A5%E9%81%93%E5%B0%B1%E4%B8%8D%E6%9D%A5%E4%BA%86%23" target="weibo">
 田曦薇早知道就不来了（热度：561463）
 </a>
@@ -135,12 +147,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E4%BC%8A%E6%9C%97%E9%AB%98%E7%BA%A7%E5%AE%98%E5%91%98%E8%A2%AB%E6%9A%97%E6%9D%80%23" target="weibo">
-多名伊朗高级官员被暗杀（热度：532071）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23" target="weibo">
 以色列宣布进入紧急状态（热度：482707）
 </a>
@@ -149,12 +155,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%94%E6%9E%9D%23" target="weibo">
 荔枝（热度：480146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E8%BF%AA%E4%B8%8D%E7%95%8F%23" target="weibo">
-迪迪不畏（热度：475917）
 </a>
 </li>
 
@@ -309,8 +309,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8D%9A%E4%B8%BB%E6%94%B6%E8%97%8F%E4%BA%86%E8%BF%91400%E5%8F%AAlabubu%23" target="weibo">
+有博主收藏了近400只labubu（热度：220782）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%9D%B4%E8%9D%B6%E7%BB%99%E5%A4%9A%E5%9C%B0%E5%B8%A6%E6%9D%A5%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8%23" target="weibo">
 台风蝴蝶给多地带来大到暴雨（热度：215959）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%9D%E9%98%B3%E5%86%8D%E8%B0%88%E9%80%81%E5%9B%9E%E7%BB%9D%E7%89%88labubu%E7%A7%B0%E5%BE%88%E9%81%97%E6%86%BE%23" target="weibo">
+张朝阳再谈送回绝版labubu称很遗憾（热度：211414）
 </a>
 </li>
 
@@ -329,6 +341,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E7%9B%B4%E6%8E%A5%E6%8D%A2%E5%A4%B4%23" target="weibo">
 高考后直接换头（热度：196634）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AD%85%E5%BD%B1%E7%A5%9E%E6%8D%95%E5%BC%80%E6%9C%BA%23" target="weibo">
+魅影神捕开机（热度：190855）
 </a>
 </li>
 
@@ -353,6 +371,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%A6%8D%E5%A6%8D%E9%85%B1%E8%B4%A6%E5%8F%B7%E5%B7%B2%E7%A7%81%E5%AF%86%23" target="weibo">
 网红妍妍酱账号已私密（热度：183273）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%AC%E7%81%AB%E5%B9%B4%E4%BB%A3%E5%AE%9A%E6%A1%A3%23" target="weibo">
+淬火年代定档（热度：178526）
 </a>
 </li>
 
@@ -405,8 +429,20 @@ Labubu爆火哪些国货被低估了（热度：177563）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E7%BD%913%23" target="weibo">
+剑网3（热度：165930）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%87%8F%E8%82%A5%E5%B0%B1%E4%B8%8D%E8%83%BD%E4%B9%B0%E7%94%B5%E5%8A%A8%E8%BD%A6%23" target="weibo">
 要减肥就不能买电动车（热度：165823）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%23" target="weibo">
+无限暖暖（热度：165704）
 </a>
 </li>
 
@@ -435,12 +471,6 @@ Labubu爆火哪些国货被低估了（热度：177563）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AD%85%E5%BD%B1%E7%A5%9E%E6%8D%95%E5%BC%80%E6%9C%BA%23" target="weibo">
-魅影神捕开机（热度：156961）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9D%A0%E6%9C%BA%E9%BB%91%E5%8C%A3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0%23" target="weibo">
 印度坠机黑匣子已找到（热度：156128）
 </a>
@@ -459,8 +489,8 @@ Labubu爆火哪些国货被低估了（热度：177563）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%8D%9A%E4%B8%BB%E6%94%B6%E8%97%8F%E4%BA%86%E8%BF%91400%E5%8F%AAlabubu%23" target="weibo">
-有博主收藏了近400只labubu（热度：154788）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E6%B6%A8%E8%87%B31033%E5%85%83%23" target="weibo">
+金饰克价涨至1033元（热度：154916）
 </a>
 </li>
 
@@ -489,20 +519,26 @@ Labubu爆火哪些国货被低估了（热度：177563）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%91%98%E5%B7%A5%E5%8F%91%E5%A3%B0%23" target="weibo">
+哪吒汽车员工发声（热度：152743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1GLASS%E5%85%AD%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%23" target="weibo">
 王曼昱GLASS六月刊封面（热度：150780）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E7%9A%84%E6%B8%B8%E6%88%8F%E6%83%A9%E7%BD%9A%E5%85%A8%E6%98%AF%E8%89%BE%E4%BC%A6%23" target="weibo">
-沈腾马丽的游戏惩罚全是艾伦（热度：149114）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E9%98%B2%E9%95%BF%E8%AF%B4%E5%B7%B2%E6%97%A0%E6%B3%95%E5%9B%9E%E5%A4%B4%23" target="weibo">
+以防长说已无法回头（热度：149975）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%23" target="weibo">
-无限暖暖（热度：148510）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%E7%9A%84%E6%B8%B8%E6%88%8F%E6%83%A9%E7%BD%9A%E5%85%A8%E6%98%AF%E8%89%BE%E4%BC%A6%23" target="weibo">
+沈腾马丽的游戏惩罚全是艾伦（热度：149114）
 </a>
 </li>
 
@@ -515,6 +551,12 @@ Labubu爆火哪些国货被低估了（热度：177563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E5%87%AF%E6%96%AF%E5%8B%92%23" target="weibo">
 郑钦文vs凯斯勒（热度：141097）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A5%BD%E6%9C%8B%E5%8F%8B%E4%B8%8D%E4%BC%9A%E8%B4%AC%E4%BD%8E%E4%BD%A0%23" target="weibo">
+真正的好朋友不会贬低你（热度：138216）
 </a>
 </li>
 
@@ -533,6 +575,12 @@ Labubu爆火哪些国货被低估了（热度：177563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E7%9F%AD%E5%8F%91%23" target="weibo">
 宁艺卓短发（热度：134690）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%87%B6%E6%89%8B%E5%A4%9A%E6%AC%A1%E6%9C%AA%E7%BB%8F%E5%85%81%E8%AE%B8%E5%A4%96%E5%87%BA%E8%A2%AB%E6%8B%98%E7%95%99%23" target="weibo">
+素媛案凶手多次未经允许外出被拘留（热度：132880）
 </a>
 </li>
 
@@ -587,12 +635,6 @@ Labubu爆火哪些国货被低估了（热度：177563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E8%AF%B4%E9%AB%98%E8%80%83%E4%B8%8D%E7%90%86%E6%83%B3%E4%B8%8D%E5%BF%85%E8%BF%87%E4%BA%8E%E6%87%8A%E6%81%BC%23" target="weibo">
 董宇辉说高考不理想不必过于懊恼（热度：118823）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%AC%E7%81%AB%E5%B9%B4%E4%BB%A3%E5%AE%9A%E6%A1%A3%23" target="weibo">
-淬火年代定档（热度：116705）
 </a>
 </li>
 
@@ -677,6 +719,12 @@ Red女团韩国初舞台（热度：99836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%A0%E6%9C%BA%E5%B9%B8%E5%AD%98%E8%80%85%E4%B8%BA%E8%8B%B1%E5%9B%BD%E7%B1%8D%23" target="weibo">
 坠机幸存者为英国籍（热度：95848）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A2%E9%9F%B3%E4%BA%8B%E6%95%85%E7%8E%87%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%23" target="weibo">
+波音事故率全球第二（热度：91218）
 </a>
 </li>
 
@@ -843,6 +891,18 @@ labubu（热度：68438）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E6%BC%82%E6%9F%93%E5%A4%B4%E5%8F%91%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%23" target="weibo">
+经常漂染头发有什么影响（热度：35310）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%80%BB%E7%90%86%E8%AF%B4%E4%BB%A5%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E6%89%93%E5%87%BB%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%A4%9A%E6%97%A5%23" target="weibo">
+以总理说以军对伊朗的打击会持续多日（热度：35225）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%A5%BD%E7%9A%84%E6%84%9F%E6%83%85%E6%98%AF%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23" target="weibo">
 最好的感情是双向奔赴（热度：34678）
 </a>
@@ -851,12 +911,6 @@ labubu（热度：68438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%A0%B4%E5%8F%91%E5%87%AF%E6%96%AF%E5%8B%92%23" target="weibo">
 郑钦文破发凯斯勒（热度：26009）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%80%BB%E7%90%86%E8%AF%B4%E4%BB%A5%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E6%89%93%E5%87%BB%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%A4%9A%E6%97%A5%23" target="weibo">
-以总理说以军对伊朗的打击会持续多日（热度：25561）
 </a>
 </li>
 
@@ -875,12 +929,6 @@ labubu（热度：68438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E6%88%96%E6%9C%89%E6%9B%B4%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A4%BA%E5%A8%81%23" target="weibo">
 纽约或有更大规模示威（热度：20407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E6%BC%82%E6%9F%93%E5%A4%B4%E5%8F%91%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%23" target="weibo">
-经常漂染头发有什么影响（热度：20226）
 </a>
 </li>
 
