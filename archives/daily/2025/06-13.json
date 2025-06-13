@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749819135123,
+  "endTime": 1749820033371,
   "band_list": [
     {
       "raw_hot": 15414358,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 3021960,
-      "num": 1359577,
+      "num": 1363441,
       "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
       "onboard_time": 1749803000,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2576317,
+      "num": 2576317,
+      "word": "歌手直播",
+      "onboard_time": 1749814583,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 2557613,
@@ -49,14 +57,6 @@
       "onboard_time": 1749785720,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 2556360,
-      "num": 2556360,
-      "word": "歌手直播",
-      "onboard_time": 1749814583,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 2527475,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 868347,
+      "num": 631948,
+      "word": "被者来女震撼到",
+      "onboard_time": 1749818062,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 864003,
       "num": 864003,
       "word": "朝鲜发生重大事故驱逐舰再次下水",
@@ -235,11 +243,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 855745,
-      "num": 586272,
-      "word": "被者来女震撼到",
-      "onboard_time": 1749818062,
-      "rank": 6,
+      "raw_hot": 819224,
+      "num": 630721,
+      "word": "歌手能不能把编曲淘汰",
+      "onboard_time": 1749819025,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 800189,
-      "num": 585374,
+      "num": 586459,
       "word": "卫健委称罗帅宇事件马上会有通报",
       "onboard_time": 1749812842,
       "rank": 9,
@@ -292,11 +300,19 @@
     },
     {
       "raw_hot": 716067,
-      "num": 583721,
+      "num": 607775,
       "word": "歌手顺序",
       "onboard_time": 1749816322,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 707817,
+      "num": 624951,
+      "word": "湘雅二院",
+      "onboard_time": 1749816442,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 701668,
@@ -323,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 635466,
+      "num": 635466,
+      "word": "以色列空袭已致伊朗78死329伤",
+      "onboard_time": 1749818784,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 629005,
       "num": 551791,
       "word": "张雪峰谈要不要出省读大学",
@@ -344,6 +368,14 @@
       "word": "28岁独生女喜迎弟弟当事人再发声",
       "onboard_time": 1749803361,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 616303,
+      "num": 616303,
+      "word": "居民对罗帅宇坠楼一事讳莫如深",
+      "onboard_time": 1749816201,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -419,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 544185,
+      "num": 623523,
+      "word": "伊朗退出与美国核谈判",
+      "onboard_time": 1749818304,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 541791,
       "num": 541791,
       "word": "章子怡夸赵丽颖短发帅气西林",
@@ -448,22 +488,6 @@
       "word": "女生杭州万象城遭挟制被捅数刀",
       "onboard_time": 1749800002,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 527234,
-      "num": 527234,
-      "word": "湘雅二院",
-      "onboard_time": 1749816442,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 526290,
-      "num": 526290,
-      "word": "居民对罗帅宇坠楼一事讳莫如深",
-      "onboard_time": 1749816201,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -563,6 +587,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 404193,
+      "num": 404193,
+      "word": "尤长靖逼张靓颖道歉",
+      "onboard_time": 1749809481,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379349,
       "num": 473744,
       "word": "陈都灵 赫本风",
@@ -593,14 +625,6 @@
       "onboard_time": 1749770058,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 355666,
-      "num": 355666,
-      "word": "以色列空袭已致伊朗78死329伤",
-      "onboard_time": 1749818784,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 347311,
@@ -675,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311259,
-      "num": 311259,
-      "word": "尤长靖逼张靓颖道歉",
-      "onboard_time": 1749809481,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310663,
       "num": 310663,
       "word": "黑匣子初步显示印度坠机未能正常起飞",
@@ -697,14 +713,6 @@
       "onboard_time": 1749798981,
       "rank": 27,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 295848,
-      "num": 566926,
-      "word": "伊朗退出与美国核谈判",
-      "onboard_time": 1749818304,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 293670,
@@ -723,6 +731,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287572,
+      "num": 433548,
+      "word": "马嘉祺说被揭榜挑战很荣幸",
+      "onboard_time": 1749819325,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283082,
+      "num": 283082,
+      "word": "卫兰 范玮琪上身",
+      "onboard_time": 1749819803,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282744,
       "num": 282744,
       "word": "印度一家五口空难前在机上开心合影",
@@ -737,6 +761,22 @@
       "onboard_time": 1749813621,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280535,
+      "num": 280535,
+      "word": "敖瑞鹏嚼嚼嚼嚼嚼嚼嚼嚼嚼",
+      "onboard_time": 1749818484,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277917,
+      "num": 526410,
+      "word": "妹妹冒名姐姐结婚33年离婚遇阻",
+      "onboard_time": 1749815602,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277817,
@@ -907,12 +947,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 233119,
-      "num": 526410,
-      "word": "妹妹冒名姐姐结婚33年离婚遇阻",
-      "onboard_time": 1749815602,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 233053,
+      "num": 233053,
+      "word": "刘琳琳",
+      "onboard_time": 1749817403,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 232592,
@@ -956,19 +996,11 @@
     },
     {
       "raw_hot": 230194,
-      "num": 230194,
+      "num": 278075,
       "word": "男子带亡妻骨灰回家遭印度坠机遇难",
       "onboard_time": 1749815242,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 228298,
-      "num": 228298,
-      "word": "刘琳琳",
-      "onboard_time": 1749817403,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 228160,
@@ -1227,6 +1259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199563,
+      "num": 199563,
+      "word": "对违背医德败坏医风医务人员零容忍",
+      "onboard_time": 1749819924,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199452,
       "num": 239015,
       "word": "青川入梦定档",
@@ -1240,6 +1280,14 @@
       "word": "周迅 他说的是哪个男朋友",
       "onboard_time": 1749795023,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197898,
+      "num": 197898,
+      "word": "米奇 被编曲陷害",
+      "onboard_time": 1749819264,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1257,14 +1305,6 @@
       "onboard_time": 1749777500,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195729,
-      "num": 195729,
-      "word": "敖瑞鹏嚼嚼嚼嚼嚼嚼嚼嚼嚼",
-      "onboard_time": 1749818484,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 195726,
@@ -1323,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189380,
+      "num": 189380,
+      "word": "天官赐福广播剧第三季",
+      "onboard_time": 1749819325,
+      "rank": 47,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 188683,
       "num": 188683,
       "word": "刘晓庆 我抱怨我老公belike",
@@ -1353,6 +1401,14 @@
       "onboard_time": 1749809421,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186933,
+      "num": 186933,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1749819504,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 186766,
@@ -1425,14 +1481,6 @@
       "onboard_time": 1749799882,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 182900,
-      "num": 182900,
-      "word": "歌手能不能把编曲淘汰",
-      "onboard_time": 1749819025,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 182575,
@@ -2532,7 +2580,7 @@
     },
     {
       "raw_hot": 98618,
-      "num": 2280613,
+      "num": 2282453,
       "word": "夏天的凉席是古人严选",
       "onboard_time": 1749795023,
       "rank": 2,
@@ -2753,6 +2801,14 @@
       "onboard_time": 1749741502,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74420,
+      "num": 564969,
+      "word": "罗帅宇事件时间线梳理",
+      "onboard_time": 1749819325,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 74186,
@@ -3003,6 +3059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57618,
+      "num": 443218,
+      "word": "张钧甯低饱和裸粉妆",
+      "onboard_time": 1749817102,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56582,
       "num": 158721,
       "word": "伊朗拳头不硬光嘴硬",
@@ -3019,20 +3083,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 54570,
+      "num": 207005,
+      "word": "林高远靠看书调整心态",
+      "onboard_time": 1749819564,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54400,
       "num": 174954,
       "word": "雷佳音崩溃哭戏",
       "onboard_time": 1749814042,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51943,
-      "num": 421264,
-      "word": "张钧甯低饱和裸粉妆",
-      "onboard_time": 1749817102,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 50134,
@@ -3073,6 +3137,14 @@
       "onboard_time": 1749809841,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35768,
+      "num": 417038,
+      "word": "杨贵妃吃的荔枝是哪儿产的",
+      "onboard_time": 1749817883,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 35426,
@@ -3147,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31465,
+      "num": 316568,
+      "word": "章子怡出场即顶配",
+      "onboard_time": 1749819866,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30346,
       "num": 201111,
       "word": "蒸桃子有助于消散乳腺结节吗",
@@ -3204,19 +3284,11 @@
     },
     {
       "raw_hot": 23150,
-      "num": 244288,
+      "num": 269844,
       "word": "张若昀红毯FENDI造型",
       "onboard_time": 1749817102,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22080,
-      "num": 417038,
-      "word": "杨贵妃吃的荔枝是哪儿产的",
-      "onboard_time": 1749817883,
-      "rank": 19,
-      "category": "科学科普"
     },
     {
       "raw_hot": 22074,
@@ -3345,6 +3417,22 @@
       "onboard_time": 1749810742,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 6942,
+      "num": 429988,
+      "word": "高温天气怎么避暑不伤身体",
+      "onboard_time": 1749819684,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 6746,
+      "num": 205286,
+      "word": "丁程鑫LV红毯look",
+      "onboard_time": 1749819986,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 3360,
