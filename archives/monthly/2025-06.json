@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749792361463,
+  "endTime": 1749793421769,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -443,6 +443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2375814,
+      "num": 2375814,
+      "word": "湖南卫健委回应罗帅宇事件",
+      "onboard_time": 1749785901,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2241075,
+      "num": 934985,
+      "word": "肠道是好的 钱不到位就切掉",
+      "onboard_time": 1749788904,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2232988,
       "num": 2232988,
       "word": "洛杉矶冲突",
@@ -547,28 +563,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 2062731,
-      "num": 2062731,
-      "word": "湖南卫健委回应罗帅宇事件",
-      "onboard_time": 1749785901,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 2059868,
       "num": 2059868,
       "word": "历史 高考顶流",
       "onboard_time": 1749356241,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2043456,
-      "num": 934985,
-      "word": "肠道是好的 钱不到位就切掉",
-      "onboard_time": 1749788904,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2034551,
@@ -1859,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1108316,
+      "num": 1108316,
+      "word": "到底谁在干扰罗帅宇坠亡案",
+      "onboard_time": 1749787822,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1108016,
       "num": 546898,
       "word": "泡泡涨价",
@@ -2745,14 +2753,6 @@
       "onboard_time": 1749141438,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 864477,
-      "num": 864477,
-      "word": "到底谁在干扰罗帅宇坠亡案",
-      "onboard_time": 1749787822,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 864003,
@@ -4531,6 +4531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 608652,
+      "num": 608652,
+      "word": "罗帅宇家属曾称后悔没做尸检",
+      "onboard_time": 1749787644,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607204,
       "num": 358942,
       "word": "让吴宣仪开场的人是天才",
@@ -5177,14 +5185,6 @@
       "onboard_time": 1749699500,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 555083,
-      "num": 555083,
-      "word": "罗帅宇家属曾称后悔没做尸检",
-      "onboard_time": 1749787644,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 554863,
@@ -7809,6 +7809,14 @@
       "onboard_time": 1748861840,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393768,
+      "num": 209570,
+      "word": "王朔女儿 你死屋里影响房价",
+      "onboard_time": 1749792803,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 393650,
@@ -11731,6 +11739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267688,
+      "num": 498349,
+      "word": "广州拟全面取消限购限售限价",
+      "onboard_time": 1749788241,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267428,
       "num": 273517,
       "word": "女子疑被蛇咬身亡家属称暂无结果",
@@ -12409,14 +12425,6 @@
       "onboard_time": 1748966841,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253687,
-      "num": 498349,
-      "word": "广州拟全面取消限购限售限价",
-      "onboard_time": 1749788241,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253530,
@@ -13539,6 +13547,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 231814,
+      "num": 496516,
+      "word": "鹿晗新歌",
+      "onboard_time": 1749791363,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 231790,
       "num": 231790,
       "word": "马龙不参加2025乒超",
@@ -14137,14 +14153,6 @@
       "onboard_time": 1748941519,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224057,
-      "num": 496516,
-      "word": "鹿晗新歌",
-      "onboard_time": 1749791363,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 224027,
@@ -15748,7 +15756,7 @@
     },
     {
       "raw_hot": 206534,
-      "num": 206534,
+      "num": 209825,
       "word": "以色列袭击居民区触动伊朗底线",
       "onboard_time": 1749789623,
       "rank": 42,
@@ -16593,6 +16601,14 @@
       "onboard_time": 1749612021,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 200733,
+      "num": 231712,
+      "word": "七根心简女子被割喉琥珀续命",
+      "onboard_time": 1749792383,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 200525,
@@ -17449,6 +17465,14 @@
       "onboard_time": 1749226342,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194671,
+      "num": 194671,
+      "word": "龚俊眼角伤",
+      "onboard_time": 1749792803,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 194650,
@@ -18476,7 +18500,7 @@
     },
     {
       "raw_hot": 187642,
-      "num": 187642,
+      "num": 247282,
       "word": "小学报名要查家长婚姻状态",
       "onboard_time": 1749788542,
       "rank": 45,
@@ -18945,6 +18969,14 @@
       "onboard_time": 1748788942,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184755,
+      "num": 184755,
+      "word": "刘翔峰事件不是他一人的事",
+      "onboard_time": 1749792084,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184524,
@@ -20224,6 +20256,14 @@
       "word": "印尼点球破门",
       "onboard_time": 1749134363,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174660,
+      "num": 174660,
+      "word": "王曼昱有随时能发出下一个球的能力",
+      "onboard_time": 1749790766,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -22747,14 +22787,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 159735,
-      "num": 159735,
-      "word": "刘翔峰事件不是他一人的事",
-      "onboard_time": 1749792084,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159665,
       "num": 159665,
       "word": "周震南 小小的老子连麦架都欺负",
@@ -23705,6 +23737,14 @@
       "onboard_time": 1749175701,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154003,
+      "num": 440771,
+      "word": "被林志玲黑色镂空裙的优雅蛊到了",
+      "onboard_time": 1749791483,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 153990,
@@ -27297,14 +27337,6 @@
       "onboard_time": 1749440421,
       "rank": 43,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 136442,
-      "num": 440771,
-      "word": "被林志玲黑色镂空裙的优雅蛊到了",
-      "onboard_time": 1749791483,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 136357,
@@ -34409,6 +34441,14 @@
       "onboard_time": 1748837179,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 95743,
+      "num": 249281,
+      "word": "郭晶晶的人生态度好真实",
+      "onboard_time": 1749792563,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 95687,
@@ -42585,6 +42625,14 @@
       "onboard_time": 1749398604,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33014,
+      "num": 211910,
+      "word": "在伊朗中国人回忆袭击爆炸瞬间",
+      "onboard_time": 1749792803,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32984,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1749793421769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13459340,
+        "num": 13459340,
+        "word": "罗帅宇 1119页文件",
+        "onboard_time": 1749787942,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 2375814,
+        "num": 2375814,
+        "word": "湖南卫健委回应罗帅宇事件",
+        "onboard_time": 1749785901,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28972,
+        "num": 1435543,
+        "word": "中国全球好感度UP",
+        "onboard_time": 1749738683,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1108316,
+        "num": 1108316,
+        "word": "到底谁在干扰罗帅宇坠亡案",
+        "onboard_time": 1749787822,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636941,
+        "num": 636941,
+        "word": "素媛案凶手多次未经允许外出被拘留",
+        "onboard_time": 1749785720,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 608652,
+        "num": 608652,
+        "word": "罗帅宇家属曾称后悔没做尸检",
+        "onboard_time": 1749787644,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515315,
+        "num": 515315,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421192,
+        "num": 421192,
+        "word": "伊朗核设施被炸",
+        "onboard_time": 1749782481,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 379210,
+        "num": 379210,
+        "word": "李晨899一只的labubu升值近6倍",
+        "onboard_time": 1749782001,
+        "rank": 8,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 277817,
+        "num": 277817,
+        "word": "歌手歌单",
+        "onboard_time": 1749792323,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2241075,
+        "num": 271114,
+        "word": "肠道是好的 钱不到位就切掉",
+        "onboard_time": 1749788904,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366365,
+        "num": 269182,
+        "word": "伊朗称将严厉果断还击以色列",
+        "onboard_time": 1749786801,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1431014,
+        "num": 269093,
+        "word": "湘雅二医院两年间给罗帅宇转账40多万",
+        "onboard_time": 1749736282,
+        "rank": 12,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 262070,
+        "num": 262070,
+        "word": "提到肖战表现郑晓龙连连点赞",
+        "onboard_time": 1749787882,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1383165,
+        "num": 261947,
+        "word": "湘雅二医院",
+        "onboard_time": 1749788482,
+        "rank": 14,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 251469,
+        "num": 251469,
+        "word": "章子怡回复赵丽颖",
+        "onboard_time": 1749778580,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231814,
+        "num": 250718,
+        "word": "鹿晗新歌",
+        "onboard_time": 1749791363,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202564,
+        "num": 250371,
+        "word": "微博电影之夜全阵容",
+        "onboard_time": 1749786502,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95743,
+        "num": 249281,
+        "word": "郭晶晶的人生态度好真实",
+        "onboard_time": 1749792563,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166801,
+        "num": 247282,
+        "word": "小学报名要查家长婚姻状态",
+        "onboard_time": 1749788542,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602042,
+        "num": 246487,
+        "word": "迪迪不畏",
+        "onboard_time": 1749784340,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 267688,
+        "num": 245355,
+        "word": "广州拟全面取消限购限售限价",
+        "onboard_time": 1749788241,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408390,
+        "num": 244507,
+        "word": "印度坠机事故中发现一名幸存者",
+        "onboard_time": 1749723563,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 327604,
+        "num": 243227,
+        "word": "彻查罗帅宇事件还正义以光明",
+        "onboard_time": 1749786862,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 285301,
+        "num": 242400,
+        "word": "罗帅宇录音",
+        "onboard_time": 1749788181,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241989,
+        "num": 241989,
+        "word": "湛江全市停课",
+        "onboard_time": 1749775761,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154003,
+        "num": 234530,
+        "word": "被林志玲黑色镂空裙的优雅蛊到了",
+        "onboard_time": 1749791483,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200733,
+        "num": 231712,
+        "word": "七根心简女子被割喉琥珀续命",
+        "onboard_time": 1749792383,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231218,
+        "num": 231218,
+        "word": "妈妈称女儿打暑假工被骗去抽血浆",
+        "onboard_time": 1749788783,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33014,
+        "num": 211910,
+        "word": "在伊朗中国人回忆袭击爆炸瞬间",
+        "onboard_time": 1749792803,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129085,
+        "num": 209825,
+        "word": "以色列袭击居民区触动伊朗底线",
+        "onboard_time": 1749789623,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 393768,
+        "num": 209570,
+        "word": "王朔女儿 你死屋里影响房价",
+        "onboard_time": 1749792803,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 208640,
+        "num": 208640,
+        "word": "罗帅宇用生命揭开黑幕一角",
+        "onboard_time": 1749790464,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205783,
+        "num": 205783,
+        "word": "伊朗伊斯兰革命卫队总司令遭暗杀",
+        "onboard_time": 1749780860,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195693,
+        "num": 195693,
+        "word": "印度一家五口空难前留下最后自拍",
+        "onboard_time": 1749779783,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 194671,
+        "num": 194671,
+        "word": "龚俊眼角伤",
+        "onboard_time": 1749792803,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187806,
+        "num": 187806,
+        "word": "一架波音787客机印度坠毁",
+        "onboard_time": 1749718401,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184755,
+        "num": 184755,
+        "word": "刘翔峰事件不是他一人的事",
+        "onboard_time": 1749792084,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182834,
+        "num": 182834,
+        "word": "淘宝闪购免单",
+        "onboard_time": 1749789203,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174660,
+        "num": 174660,
+        "word": "王曼昱有随时能发出下一个球的能力",
+        "onboard_time": 1749790766,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174085,
+        "num": 174085,
+        "word": "别让罗帅宇医生死得不明不白",
+        "onboard_time": 1749787822,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160252,
+        "num": 160252,
+        "word": "入户大厅脚臭味超1个月找不到源头",
+        "onboard_time": 1749743783,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146481,
+        "num": 146481,
+        "word": "淘宝 汪苏泷",
+        "onboard_time": 1749789263,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131842,
+        "num": 131842,
+        "word": "田曦薇早知道就不来了",
+        "onboard_time": 1749778881,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130937,
+        "num": 130937,
+        "word": "伊朗最高领袖听取情况汇报",
+        "onboard_time": 1749788241,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128325,
+        "num": 128325,
+        "word": "朝鲜发生重大事故驱逐舰再次下水",
+        "onboard_time": 1749779720,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119117,
+        "num": 119117,
+        "word": "多名伊朗高级官员被暗杀",
+        "onboard_time": 1749783321,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112868,
+        "num": 112868,
+        "word": "印度坠机幸存者手持登机牌能行走",
+        "onboard_time": 1749786382,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110510,
+        "num": 110510,
+        "word": "眼睛出现这些情况要小心干眼症",
+        "onboard_time": 1749790766,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109779,
+        "num": 109779,
+        "word": "伊朗",
+        "onboard_time": 1749774142,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#开放合作是人间正道#"
+    }
+  }
+}
