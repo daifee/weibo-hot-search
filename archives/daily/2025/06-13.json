@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749785758934,
+  "endTime": 1749789241548,
   "band_list": [
     {
       "raw_hot": 5565200,
@@ -8,6 +8,22 @@
       "word": "印度坠机事故中发现一名幸存者",
       "onboard_time": 1749723563,
       "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 4186409,
+      "num": 4186409,
+      "word": "罗帅宇 11119页医疗黑幕",
+      "onboard_time": 1749787942,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2557613,
+      "num": 2557613,
+      "word": "素媛案凶手多次未经允许外出被拘留",
+      "onboard_time": 1749785720,
+      "rank": 41,
       "category": "海外新闻"
     },
     {
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1392964,
-      "num": 743963,
+      "num": 853314,
       "word": "湘雅二医院两年间给罗帅宇转账40多万",
       "onboard_time": 1749736282,
       "rank": 10,
@@ -59,6 +75,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1257514,
+      "num": 861530,
+      "word": "迪迪不畏",
+      "onboard_time": 1749784340,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1129904,
       "num": 1129904,
       "word": "伊朗核设施被炸",
@@ -67,12 +91,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 977324,
-      "num": 565188,
-      "word": "迪迪不畏",
-      "onboard_time": 1749784340,
-      "rank": 20,
-      "category": "网红"
+      "raw_hot": 1047744,
+      "num": 1047744,
+      "word": "伊朗称将严厉果断还击以色列",
+      "onboard_time": 1749786801,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 897837,
@@ -81,6 +105,14 @@
       "onboard_time": 1749779783,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 890321,
+      "num": 890321,
+      "word": "湖南卫健委回应罗帅宇事件",
+      "onboard_time": 1749785901,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 864003,
@@ -131,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 587904,
+      "num": 587904,
+      "word": "罗帅宇录音",
+      "onboard_time": 1749788181,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 586648,
       "num": 780988,
       "word": "章子怡回复赵丽颖",
@@ -153,6 +193,14 @@
       "onboard_time": 1749778881,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 547858,
+      "num": 887536,
+      "word": "提到肖战表现郑晓龙连连点赞",
+      "onboard_time": 1749787882,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 541791,
@@ -179,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493031,
+      "num": 493031,
+      "word": "微博电影之夜全阵容",
+      "onboard_time": 1749786502,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 482707,
       "num": 482707,
       "word": "以色列宣布进入紧急状态",
@@ -193,6 +249,14 @@
       "onboard_time": 1749714861,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 478046,
+      "num": 478046,
+      "word": "彻查罗帅宇事件还正义以光明",
+      "onboard_time": 1749786862,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 455113,
@@ -243,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 345416,
+      "num": 345416,
+      "word": "到底谁在干扰罗帅宇坠亡案",
+      "onboard_time": 1749787822,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343988,
       "num": 343988,
       "word": "易梦玲怎么又变样了",
@@ -259,12 +331,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 336051,
+      "num": 488582,
+      "word": "第一次见沈腾这么沉默",
+      "onboard_time": 1749785842,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 327092,
+      "num": 327092,
+      "word": "罗帅宇家属曾称后悔没做尸检",
+      "onboard_time": 1749787644,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322213,
       "num": 322213,
       "word": "全球首架因空难全损波音787",
       "onboard_time": 1749731960,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 319094,
+      "num": 482732,
+      "word": "甘望星出演饶雪漫新剧",
+      "onboard_time": 1749787942,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 313676,
@@ -297,6 +393,14 @@
       "onboard_time": 1749779902,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 282554,
+      "num": 282554,
+      "word": "肠道是好的 钱不到位就切掉",
+      "onboard_time": 1749788904,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271219,
@@ -371,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231287,
+      "num": 231287,
+      "word": "广州拟全面取消限购限售限价",
+      "onboard_time": 1749788241,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228160,
       "num": 228160,
       "word": "以色列 伊朗",
@@ -384,6 +496,14 @@
       "word": "台风蝴蝶",
       "onboard_time": 1749773360,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221928,
+      "num": 221928,
+      "word": "湘雅二医院",
+      "onboard_time": 1749788482,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -401,6 +521,14 @@
       "onboard_time": 1749784461,
       "rank": 45,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 219640,
+      "num": 487510,
+      "word": "波音事故率全球第二",
+      "onboard_time": 1749785180,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 215959,
@@ -427,12 +555,36 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 201895,
+      "num": 201895,
+      "word": "别让罗帅宇医生死得不明不白",
+      "onboard_time": 1749787822,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201460,
+      "num": 345454,
+      "word": "看汪苏泷的演唱会还能吃到免费夜宵",
+      "onboard_time": 1749788120,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200903,
       "num": 200903,
       "word": "王子文红毯摔倒",
       "onboard_time": 1749731722,
       "rank": 16,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 200502,
+      "num": 200502,
+      "word": "伊朗最高领袖听取情况汇报",
+      "onboard_time": 1749788241,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 196634,
@@ -449,6 +601,14 @@
       "onboard_time": 1749779361,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187642,
+      "num": 187642,
+      "word": "小学报名要查家长婚姻状态",
+      "onboard_time": 1749788542,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186697,
@@ -481,6 +641,14 @@
       "onboard_time": 1749747379,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 180488,
+      "num": 478846,
+      "word": "妈妈称女儿打暑假工被骗去抽血浆",
+      "onboard_time": 1749788783,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178526,
@@ -529,6 +697,14 @@
       "onboard_time": 1749779961,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 171332,
+      "num": 232610,
+      "word": "白鹿临江仙追平了",
+      "onboard_time": 1749787221,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 168406,
@@ -755,12 +931,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132880,
-      "num": 162270,
-      "word": "素媛案凶手多次未经允许外出被拘留",
-      "onboard_time": 1749785720,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 130746,
+      "num": 163866,
+      "word": "A股半日放量1370亿",
+      "onboard_time": 1749788662,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 129104,
@@ -835,12 +1011,28 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 114683,
+      "num": 160939,
+      "word": "淘宝闪购免单",
+      "onboard_time": 1749789203,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113982,
       "num": 113982,
       "word": "台湾网红馆长说不怕岛内媒体修理",
       "onboard_time": 1749738923,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113771,
+      "num": 216592,
+      "word": "狼队道崽首发",
+      "onboard_time": 1749788662,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 112663,
@@ -947,14 +1139,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 91218,
-      "num": 487510,
-      "word": "波音事故率全球第二",
-      "onboard_time": 1749785180,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 86700,
       "num": 86700,
       "word": "王迅 欠他们的工钱真的太不应该",
@@ -1019,6 +1203,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 75121,
+      "num": 870004,
+      "word": "伊朗外交部就以色列空袭发表声明",
+      "onboard_time": 1749788302,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74591,
       "num": 74591,
       "word": "众人翻8吨垃圾找到8克人工耳蜗",
@@ -1052,7 +1244,7 @@
     },
     {
       "raw_hot": 70509,
-      "num": 1245781,
+      "num": 1715355,
       "word": "中国全球好感度UP",
       "onboard_time": 1749738683,
       "rank": 2,
@@ -1139,6 +1331,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60262,
+      "num": 363965,
+      "word": "跑男这期不是个人战是个鸟战",
+      "onboard_time": 1749788362,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 60230,
+      "num": 350487,
+      "word": "四大金刚挤满商场一楼",
+      "onboard_time": 1749789023,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58743,
       "num": 89863,
       "word": "伊朗防长威胁将袭击中东美军基地",
@@ -1169,6 +1377,14 @@
       "onboard_time": 1749779482,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41585,
+      "num": 345425,
+      "word": "百年波音为什么频发安全事故",
+      "onboard_time": 1749787762,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 35310,
@@ -1208,6 +1424,14 @@
       "word": "网警提醒高考结束仍需警惕",
       "onboard_time": 1749730224,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24738,
+      "num": 217566,
+      "word": "御酒进贡之路堪比往长安运荔枝",
+      "onboard_time": 1749787942,
+      "rank": 38,
       "category": "民生新闻"
     },
     {

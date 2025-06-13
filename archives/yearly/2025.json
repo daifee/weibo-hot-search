@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749785758934,
+  "endTime": 1749789241548,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1683,6 +1683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 4186409,
+      "num": 4186409,
+      "word": "罗帅宇 11119页医疗黑幕",
+      "onboard_time": 1749787942,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4177937,
       "num": 4177937,
       "word": "啄木鸟维修",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1746877581,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 3422427,
-      "num": 1837461,
-      "word": "爷爷为夺回孙子被人贩踩出眼珠",
-      "onboard_time": 1743570086,
-      "rank": 0,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
