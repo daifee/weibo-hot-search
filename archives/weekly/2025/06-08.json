@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749843414740,
+  "endTime": 1749846542001,
   "band_list": [
     {
       "raw_hot": 17710576,
@@ -22083,6 +22083,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 32989,
+      "num": 35316,
+      "word": "刘诗诗多希望自己听不懂中文",
+      "onboard_time": 1749842955,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32958,
       "num": 276005,
       "word": "美国为何不愿接受非法移民了",
@@ -22643,6 +22651,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 27102,
+      "num": 27102,
+      "word": "平台回应网红刘琳琳被曝辱骂观众",
+      "onboard_time": 1749843673,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 27067,
       "num": 245496,
       "word": "骑手称日入300保险只按100赔",
@@ -22763,12 +22779,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 25607,
+      "num": 25607,
+      "word": "三问以色列为何再对伊朗出手",
+      "onboard_time": 1749842414,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25592,
       "num": 315003,
       "word": "高考生说感谢李华3年的陪伴",
       "onboard_time": 1749396563,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25548,
+      "num": 34035,
+      "word": "第一批高考生已经到王一博老家了",
+      "onboard_time": 1749841334,
+      "rank": 29,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 25472,
@@ -22875,28 +22907,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24469,
-      "num": 24469,
-      "word": "三问以色列为何再对伊朗出手",
-      "onboard_time": 1749842414,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 24392,
       "num": 154951,
       "word": "插电混动为什么省油",
       "onboard_time": 1749813022,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 24275,
-      "num": 34035,
-      "word": "第一批高考生已经到王一博老家了",
-      "onboard_time": 1749841334,
-      "rank": 29,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 24214,
@@ -22937,6 +22953,14 @@
       "onboard_time": 1749493095,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 24036,
+      "num": 24036,
+      "word": "6名伊朗核科学家遭袭身亡",
+      "onboard_time": 1749844153,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23899,
@@ -23129,14 +23153,6 @@
       "onboard_time": 1749464541,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21828,
-      "num": 23481,
-      "word": "刘诗诗多希望自己听不懂中文",
-      "onboard_time": 1749842955,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 21771,
@@ -24169,6 +24185,14 @@
       "onboard_time": 1749462021,
       "rank": 33,
       "category": "海外新闻,民生新闻"
+    },
+    {
+      "raw_hot": 8018,
+      "num": 20531,
+      "word": "夏以昼不可思议的魔术",
+      "onboard_time": 1749844994,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 7579,

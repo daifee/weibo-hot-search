@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749843414740,
+  "endTime": 1749846542001,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -563,6 +563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 32989,
+      "num": 35316,
+      "word": "刘诗诗多希望自己听不懂中文",
+      "onboard_time": 1749842955,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29597,
       "num": 1177234,
       "word": "90秒感受三夏收获的幸福感",
@@ -595,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27102,
+      "num": 27102,
+      "word": "平台回应网红刘琳琳被曝辱骂观众",
+      "onboard_time": 1749843673,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 26567,
       "num": 26567,
       "word": "长安的荔枝",
@@ -609,6 +625,22 @@
       "onboard_time": 1749842295,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25607,
+      "num": 25607,
+      "word": "三问以色列为何再对伊朗出手",
+      "onboard_time": 1749842414,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 25548,
+      "num": 34035,
+      "word": "第一批高考生已经到王一博老家了",
+      "onboard_time": 1749841334,
+      "rank": 29,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 25170,
@@ -627,20 +659,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 24469,
-      "num": 24469,
-      "word": "三问以色列为何再对伊朗出手",
-      "onboard_time": 1749842414,
-      "rank": 48,
+      "raw_hot": 24036,
+      "num": 24036,
+      "word": "6名伊朗核科学家遭袭身亡",
+      "onboard_time": 1749844153,
+      "rank": 37,
       "category": "国际时政"
     },
     {
-      "raw_hot": 24275,
-      "num": 34035,
-      "word": "第一批高考生已经到王一博老家了",
-      "onboard_time": 1749841334,
-      "rank": 29,
-      "category": "民生新闻,艺人"
+      "raw_hot": 22902,
+      "num": 23481,
+      "word": "伊朗退出与美国核谈判",
+      "onboard_time": 1749818304,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22595,
@@ -649,22 +681,6 @@
       "onboard_time": 1749842955,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21828,
-      "num": 23481,
-      "word": "刘诗诗多希望自己听不懂中文",
-      "onboard_time": 1749842955,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21533,
-      "num": 23481,
-      "word": "伊朗退出与美国核谈判",
-      "onboard_time": 1749818304,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14447,
@@ -713,6 +729,14 @@
       "onboard_time": 1749841334,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 8018,
+      "num": 20531,
+      "word": "夏以昼不可思议的魔术",
+      "onboard_time": 1749844994,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 7842,

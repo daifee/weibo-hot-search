@@ -1,0 +1,410 @@
+{
+  "runTime": 1749846542001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 401438,
+        "num": 401438,
+        "word": "官方通报罗帅宇事件",
+        "onboard_time": 1749820945,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 123662,
+        "num": 123662,
+        "word": "以色列空袭已致伊朗78死329伤",
+        "onboard_time": 1749818784,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 7821,
+        "num": 118961,
+        "word": "数里行间感知经济活力",
+        "onboard_time": 1749825030,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 298213,
+        "num": 118699,
+        "word": "罗帅宇158段录音为工作吃饭闲聊等",
+        "onboard_time": 1749830122,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 117712,
+        "num": 117712,
+        "word": "大爷被咬后一脚将蛇踩死带着去就医",
+        "onboard_time": 1749830541,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108409,
+        "num": 108409,
+        "word": "伊朗爆发全国性示威活动",
+        "onboard_time": 1749828863,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75748,
+        "num": 75748,
+        "word": "湘雅二院涉事科室主任等4人被问责",
+        "onboard_time": 1749823527,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 67253,
+        "num": 67253,
+        "word": "马嘉祺 难听",
+        "onboard_time": 1749820524,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65028,
+        "num": 65028,
+        "word": "歌手排名",
+        "onboard_time": 1749824969,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62134,
+        "num": 62134,
+        "word": "儿子接受不了陈楚生不是第一",
+        "onboard_time": 1749828264,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138162,
+        "num": 57750,
+        "word": "谁给曾毅想的公关",
+        "onboard_time": 1749836178,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47602,
+        "num": 47602,
+        "word": "调查组逐一核查罗帅宇事件1281页材料",
+        "onboard_time": 1749823648,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 44930,
+        "num": 44930,
+        "word": "罗某宇坠楼前给同学发短信系不实信息",
+        "onboard_time": 1749833540,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 43712,
+        "num": 43712,
+        "word": "邓超有个事放在我心里快一个月了",
+        "onboard_time": 1749828624,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43638,
+        "num": 43638,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42990,
+        "num": 42990,
+        "word": "器官捐献资料未发现违法违规行为",
+        "onboard_time": 1749825090,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 41295,
+        "num": 41295,
+        "word": "大爷恋爱5个月转账上万欲讨回被拒",
+        "onboard_time": 1749833780,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40394,
+        "num": 40394,
+        "word": "伊朗总统称将使敌人后悔其愚蠢行为",
+        "onboard_time": 1749839235,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36058,
+        "num": 36058,
+        "word": "GAI第一",
+        "onboard_time": 1749824609,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32989,
+        "num": 35316,
+        "word": "刘诗诗多希望自己听不懂中文",
+        "onboard_time": 1749842955,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37549,
+        "num": 35282,
+        "word": "85岁妻子没上进心93岁男子起诉离婚",
+        "onboard_time": 1749820466,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34934,
+        "num": 34934,
+        "word": "向罗帅宇发放33万29万为他人绩效",
+        "onboard_time": 1749826166,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 34273,
+        "num": 34273,
+        "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
+        "onboard_time": 1749825985,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 30847,
+        "num": 30847,
+        "word": "17岁女儿闲鱼代打车套现妈妈上万元",
+        "onboard_time": 1749807502,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30834,
+        "num": 30834,
+        "word": "特朗普发文警告伊朗",
+        "onboard_time": 1749829764,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30587,
+        "num": 30587,
+        "word": "以高官被曝均被转移至安全地点",
+        "onboard_time": 1749832341,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29938,
+        "num": 29938,
+        "word": "因患者留言爆火面包店被质疑自导自演",
+        "onboard_time": 1749831801,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28622,
+        "num": 28622,
+        "word": "皇权富贵",
+        "onboard_time": 1749816802,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28137,
+        "num": 28137,
+        "word": "英国男子在印坠机遇难两女儿成孤儿",
+        "onboard_time": 1749828264,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26155,
+        "num": 27258,
+        "word": "单依纯秒了",
+        "onboard_time": 1749820646,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27102,
+        "num": 27102,
+        "word": "平台回应网红刘琳琳被曝辱骂观众",
+        "onboard_time": 1749843673,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 25607,
+        "num": 25607,
+        "word": "三问以色列为何再对伊朗出手",
+        "onboard_time": 1749842414,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25548,
+        "num": 25548,
+        "word": "第一批高考生已经到王一博老家了",
+        "onboard_time": 1749841334,
+        "rank": 32,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 25517,
+        "num": 25517,
+        "word": "男子带亡妻骨灰回家遭印度坠机遇难",
+        "onboard_time": 1749815242,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25377,
+        "num": 25377,
+        "word": "以色列袭击伊朗美国到底知不知道",
+        "onboard_time": 1749841696,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25240,
+        "num": 25240,
+        "word": "杨幂Labubu书包",
+        "onboard_time": 1749802641,
+        "rank": 35,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 24638,
+        "num": 24638,
+        "word": "一个女孩的最后十三天",
+        "onboard_time": 1749829162,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24036,
+        "num": 24036,
+        "word": "6名伊朗核科学家遭袭身亡",
+        "onboard_time": 1749844153,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22902,
+        "num": 22902,
+        "word": "伊朗退出与美国核谈判",
+        "onboard_time": 1749818304,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20710,
+        "num": 20710,
+        "word": "特朗普威胁伊朗尽快与美达成协议",
+        "onboard_time": 1749840554,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20536,
+        "num": 20536,
+        "word": "歌手直播",
+        "onboard_time": 1749814583,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19663,
+        "num": 20534,
+        "word": "恋与深空 偷跑",
+        "onboard_time": 1749822267,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19091,
+        "num": 20533,
+        "word": "泡泡玛特王宁自称是典型的奋斗北漂",
+        "onboard_time": 1749831082,
+        "rank": 42,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 8018,
+        "num": 20531,
+        "word": "夏以昼不可思议的魔术",
+        "onboard_time": 1749844994,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18165,
+        "num": 20530,
+        "word": "王菲 光之翼",
+        "onboard_time": 1749825866,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17913,
+        "num": 20529,
+        "word": "卫兰淘汰",
+        "onboard_time": 1749824969,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17594,
+        "num": 20526,
+        "word": "单依纯 李健老师没来但如来",
+        "onboard_time": 1749820346,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17540,
+        "num": 20525,
+        "word": "四六级",
+        "onboard_time": 1749825507,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17105,
+        "num": 20523,
+        "word": "郑钦文vs拉杜卡努",
+        "onboard_time": 1749824609,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17061,
+        "num": 20520,
+        "word": "微博电影之夜",
+        "onboard_time": 1749812183,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#1分钟回顾首届中国－中亚峰会亮点#"
+    }
+  }
+}
