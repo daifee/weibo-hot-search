@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749821828923,
+  "endTime": 1749822527645,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -193,6 +193,14 @@
       "onboard_time": 1749283282,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 17625647,
+      "num": 18875647,
+      "word": "官方通报罗帅宇事件",
+      "onboard_time": 1749820945,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 17515520,
@@ -649,14 +657,6 @@
       "onboard_time": 1736063366,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11169274,
-      "num": 12419274,
-      "word": "官方通报罗帅宇事件",
-      "onboard_time": 1749820945,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 11051062,

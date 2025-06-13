@@ -1,7 +1,15 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749821828923,
+  "endTime": 1749822527645,
   "band_list": [
+    {
+      "raw_hot": 17625647,
+      "num": 18875647,
+      "word": "官方通报罗帅宇事件",
+      "onboard_time": 1749820945,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
     {
       "raw_hot": 15414358,
       "num": 15414358,
@@ -9,14 +17,6 @@
       "onboard_time": 1749787942,
       "rank": 0,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 11169274,
-      "num": 12419274,
-      "word": "官方通报罗帅宇事件",
-      "onboard_time": 1749820945,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 7407311,
@@ -123,7 +123,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1935713,
+      "raw_hot": 1956529,
       "num": 615604,
       "word": "单依纯秒了",
       "onboard_time": 1749820646,
@@ -363,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 699989,
+      "num": 490984,
+      "word": "唐汉霄揭榜陈楚生",
+      "onboard_time": 1749821487,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 695123,
       "num": 302525,
       "word": "网红问黄子韬离婚是有意还是无心",
@@ -377,6 +385,14 @@
       "onboard_time": 1749794543,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 662466,
+      "num": 492549,
+      "word": "难听",
+      "onboard_time": 1749821186,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 660381,
@@ -545,22 +561,6 @@
       "onboard_time": 1749786502,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 492549,
-      "num": 492549,
-      "word": "难听",
-      "onboard_time": 1749821186,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 490984,
-      "num": 490984,
-      "word": "唐汉霄揭榜陈楚生",
-      "onboard_time": 1749821487,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 482707,
@@ -771,12 +771,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 310626,
+      "num": 540657,
+      "word": "85岁妻子没上进心93岁男子起诉离婚",
+      "onboard_time": 1749820466,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305834,
       "num": 440449,
       "word": "湘雅二院曾因瞒报重大医疗纠纷被处罚",
       "onboard_time": 1749798981,
       "rank": 27,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 297243,
+      "num": 297243,
+      "word": "恋与深空",
+      "onboard_time": 1749821246,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 293670,
@@ -801,14 +817,6 @@
       "onboard_time": 1749819325,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285667,
-      "num": 285667,
-      "word": "恋与深空",
-      "onboard_time": 1749821246,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 283082,
@@ -1075,6 +1083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 230157,
+      "num": 273936,
+      "word": "恋与深空 偷跑",
+      "onboard_time": 1749822267,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228160,
       "num": 228160,
       "word": "以色列 伊朗",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1749802702,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 221791,
-      "num": 540657,
-      "word": "85岁妻子没上进心93岁男子起诉离婚",
-      "onboard_time": 1749820466,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221317,
@@ -1299,6 +1307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203338,
+      "num": 217081,
+      "word": "张杰曜北斗年度创新突破影片",
+      "onboard_time": 1749822386,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202881,
       "num": 202881,
       "word": "陈昊宇好辣",
@@ -1371,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199473,
+      "num": 199473,
+      "word": "丁程鑫好有电影质感的脸",
+      "onboard_time": 1749821547,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199452,
       "num": 239015,
       "word": "青川入梦定档",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1749792803,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193294,
+      "num": 193294,
+      "word": "GEN晋级2025MSI",
+      "onboard_time": 1749822327,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 191593,
@@ -1555,6 +1587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 185711,
+      "num": 185711,
+      "word": "陈楚生好嗨",
+      "onboard_time": 1749822509,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185008,
       "num": 185008,
       "word": "叶罗丽第11季",
@@ -1617,6 +1657,22 @@
       "onboard_time": 1749806002,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181274,
+      "num": 181274,
+      "word": "汪苏泷再现我没有口音啊",
+      "onboard_time": 1749822086,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 180778,
+      "num": 491104,
+      "word": "探访风波中的湘雅二院",
+      "onboard_time": 1749820825,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 178526,
@@ -2065,6 +2121,14 @@
       "onboard_time": 1749810982,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148920,
+      "num": 199564,
+      "word": "媒体称樊振东天神下樊",
+      "onboard_time": 1749821845,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 148873,
@@ -2595,14 +2659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109989,
-      "num": 491104,
-      "word": "探访风波中的湘雅二院",
-      "onboard_time": 1749820825,
-      "rank": 25,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 109693,
       "num": 149467,
       "word": "范丞丞王安宇贾冰热聊",
@@ -3043,6 +3099,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 67230,
+      "num": 220023,
+      "word": "对罗帅宇家属反映问题的核查情况",
+      "onboard_time": 1749822509,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 66273,
       "num": 66273,
       "word": "王者荣耀",
@@ -3267,6 +3331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43306,
+      "num": 558373,
+      "word": "外面下大雨家中阳台现瀑布",
+      "onboard_time": 1749821186,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41585,
       "num": 345425,
       "word": "百年波音为什么频发安全事故",
@@ -3379,14 +3451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 29612,
-      "num": 558373,
-      "word": "外面下大雨家中阳台现瀑布",
-      "onboard_time": 1749821186,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29536,
       "num": 174983,
       "word": "准大学生成国补换手机最受益人群",
@@ -3417,6 +3481,14 @@
       "onboard_time": 1749807682,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 25839,
+      "num": 533397,
+      "word": "大货车高速侧翻退役军人撬门救人",
+      "onboard_time": 1749821246,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25407,
@@ -3507,20 +3579,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17026,
-      "num": 533397,
-      "word": "大货车高速侧翻退役军人撬门救人",
-      "onboard_time": 1749821246,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15658,
       "num": 17243,
       "word": "当事女子回应网上招聘工作被推荐代孕",
       "onboard_time": 1749761533,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14663,
+      "num": 544106,
+      "word": "夏季后背长痘怎么祛除",
+      "onboard_time": 1749821487,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14601,
@@ -3576,14 +3648,6 @@
       "word": "长期戴美瞳会得干眼症吗",
       "onboard_time": 1749810742,
       "rank": 19,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 7816,
-      "num": 544106,
-      "word": "夏季后背长痘怎么祛除",
-      "onboard_time": 1749821487,
-      "rank": 17,
       "category": "健康医疗"
     },
     {

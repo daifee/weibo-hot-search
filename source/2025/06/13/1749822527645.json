@@ -1,0 +1,410 @@
+{
+  "runTime": 1749822527645,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 17625647,
+        "num": 18875647,
+        "word": "官方通报罗帅宇事件",
+        "onboard_time": 1749820945,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1989893,
+        "num": 1989893,
+        "word": "歌手直播",
+        "onboard_time": 1749814583,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50319,
+        "num": 1201155,
+        "word": "夏天的凉席是古人严选",
+        "onboard_time": 1749795023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3769371,
+        "num": 1050954,
+        "word": "马嘉祺 难听",
+        "onboard_time": 1749820524,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531379,
+        "num": 531379,
+        "word": "以色列空袭已致伊朗78死329伤",
+        "onboard_time": 1749818784,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324949,
+        "num": 324949,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1956529,
+        "num": 323656,
+        "word": "单依纯秒了",
+        "onboard_time": 1749820646,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1037611,
+        "num": 319311,
+        "word": "皇权富贵",
+        "onboard_time": 1749816802,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 310626,
+        "num": 315702,
+        "word": "85岁妻子没上进心93岁男子起诉离婚",
+        "onboard_time": 1749820466,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313424,
+        "num": 313424,
+        "word": "伊朗退出与美国核谈判",
+        "onboard_time": 1749818304,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 873575,
+        "num": 313105,
+        "word": "歌手能不能把编曲淘汰",
+        "onboard_time": 1749819025,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737347,
+        "num": 310480,
+        "word": "马嘉祺 光之翼",
+        "onboard_time": 1749821306,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 699989,
+        "num": 305535,
+        "word": "唐汉霄揭榜陈楚生",
+        "onboard_time": 1749821487,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 662466,
+        "num": 303735,
+        "word": "难听",
+        "onboard_time": 1749821186,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43306,
+        "num": 300928,
+        "word": "外面下大雨家中阳台现瀑布",
+        "onboard_time": 1749821186,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485256,
+        "num": 299858,
+        "word": "湘雅二院",
+        "onboard_time": 1749816442,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297243,
+        "num": 297243,
+        "word": "恋与深空",
+        "onboard_time": 1749821246,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57478,
+        "num": 294272,
+        "word": "章子怡出场即顶配",
+        "onboard_time": 1749819866,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25839,
+        "num": 293440,
+        "word": "大货车高速侧翻退役军人撬门救人",
+        "onboard_time": 1749821246,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14663,
+        "num": 290222,
+        "word": "夏季后背长痘怎么祛除",
+        "onboard_time": 1749821487,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 600255,
+        "num": 287576,
+        "word": "GAI 该做热玛吉了",
+        "onboard_time": 1749820764,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531328,
+        "num": 281560,
+        "word": "单依纯 李健老师没来但如来",
+        "onboard_time": 1749820346,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86254,
+        "num": 280309,
+        "word": "丁程鑫LV红毯look",
+        "onboard_time": 1749819986,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 316465,
+        "num": 276429,
+        "word": "居民对罗帅宇坠楼一事讳莫如深",
+        "onboard_time": 1749816201,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230157,
+        "num": 273936,
+        "word": "恋与深空 偷跑",
+        "onboard_time": 1749822267,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 352267,
+        "num": 269812,
+        "word": "被者来女震撼到",
+        "onboard_time": 1749818062,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268560,
+        "num": 268560,
+        "word": "歌手顺序",
+        "onboard_time": 1749816322,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234423,
+        "num": 234423,
+        "word": "湘雅二医院两年间给罗帅宇转账40多万",
+        "onboard_time": 1749736282,
+        "rank": 27,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 3637761,
+        "num": 234048,
+        "word": "罗帅宇 1119页文件",
+        "onboard_time": 1749787942,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 223770,
+        "num": 232563,
+        "word": "罗帅宇父亲说有人想用1500万封口",
+        "onboard_time": 1749797302,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 231743,
+        "num": 231743,
+        "word": "曾毅 我以为是块劳力士",
+        "onboard_time": 1749801862,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231713,
+        "num": 231713,
+        "word": "微博电影之夜",
+        "onboard_time": 1749812183,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1350056,
+        "num": 230977,
+        "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
+        "onboard_time": 1749803000,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 225785,
+        "num": 225785,
+        "word": "尤长靖逼张靓颖道歉",
+        "onboard_time": 1749809481,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224708,
+        "num": 224708,
+        "word": "杨幂Labubu书包",
+        "onboard_time": 1749802641,
+        "rank": 34,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 67230,
+        "num": 220023,
+        "word": "对罗帅宇家属反映问题的核查情况",
+        "onboard_time": 1749822509,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 203338,
+        "num": 217081,
+        "word": "张杰曜北斗年度创新突破影片",
+        "onboard_time": 1749822386,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1343950,
+        "num": 216974,
+        "word": "湘雅二院给未患癌者化疗致其9级伤残",
+        "onboard_time": 1749812782,
+        "rank": 37,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 216711,
+        "num": 216711,
+        "word": "以色列将关闭所有大使馆",
+        "onboard_time": 1749814222,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148920,
+        "num": 199564,
+        "word": "媒体称樊振东天神下樊",
+        "onboard_time": 1749821845,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199473,
+        "num": 199473,
+        "word": "丁程鑫好有电影质感的脸",
+        "onboard_time": 1749821547,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196435,
+        "num": 196435,
+        "word": "17岁女儿闲鱼代打车套现妈妈上万元",
+        "onboard_time": 1749807502,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194510,
+        "num": 194510,
+        "word": "敖瑞鹏嚼嚼嚼嚼嚼嚼嚼嚼嚼",
+        "onboard_time": 1749818484,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193294,
+        "num": 193294,
+        "word": "GEN晋级2025MSI",
+        "onboard_time": 1749822327,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185711,
+        "num": 185711,
+        "word": "陈楚生好嗨",
+        "onboard_time": 1749822509,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182975,
+        "num": 182975,
+        "word": "男子带亡妻骨灰回家遭印度坠机遇难",
+        "onboard_time": 1749815242,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182830,
+        "num": 182830,
+        "word": "者来女揭榜成功",
+        "onboard_time": 1749820406,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181274,
+        "num": 181274,
+        "word": "汪苏泷再现我没有口音啊",
+        "onboard_time": 1749822086,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180778,
+        "num": 180778,
+        "word": "探访风波中的湘雅二院",
+        "onboard_time": 1749820825,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176830,
+        "num": 180484,
+        "word": "清融赛后发博",
+        "onboard_time": 1749821306,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指明农业科技创新方向#"
+    }
+  }
+}
