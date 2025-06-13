@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749825883246,
+  "endTime": 1749828511290,
   "band_list": [
     {
       "raw_hot": 17710576,
@@ -235,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1213250,
+      "num": 1213250,
+      "word": "湘雅二院涉事科室主任等4人被问责",
+      "onboard_time": 1749823527,
+      "rank": 7,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1180232,
       "num": 574494,
       "word": "湘雅二医院曾有患者出院当天死亡",
@@ -403,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 724667,
-      "num": 658385,
-      "word": "湘雅二院涉事科室主任等4人被问责",
-      "onboard_time": 1749823527,
-      "rank": 7,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 716067,
       "num": 607775,
       "word": "歌手顺序",
@@ -457,6 +457,14 @@
       "onboard_time": 1749794543,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 672174,
+      "num": 365984,
+      "word": "器官捐献资料未发现违法违规行为",
+      "onboard_time": 1749825090,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 660381,
@@ -731,20 +739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397661,
+      "num": 328160,
+      "word": "罗帅宇以优异成绩考入湘雅二院",
+      "onboard_time": 1749820646,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395992,
+      "num": 356104,
+      "word": "26岁IT女每天喝冰美式子宫长满肉芽",
+      "onboard_time": 1749823887,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379349,
       "num": 473744,
       "word": "陈都灵 赫本风",
       "onboard_time": 1749799762,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373150,
-      "num": 356104,
-      "word": "26岁IT女每天喝冰美式子宫长满肉芽",
-      "onboard_time": 1749823887,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 371419,
@@ -777,14 +793,6 @@
       "onboard_time": 1749770058,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 365984,
-      "num": 365984,
-      "word": "器官捐献资料未发现违法违规行为",
-      "onboard_time": 1749825090,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 347311,
@@ -832,6 +840,14 @@
       "word": "陈楚生好嗨",
       "onboard_time": 1749822509,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 327574,
+      "num": 327574,
+      "word": "麦可布雷袭榜",
+      "onboard_time": 1749826346,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1091,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251700,
+      "num": 251700,
+      "word": "耳帝",
+      "onboard_time": 1749827964,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248118,
       "num": 552800,
       "word": "爷爷不泡茶回应妍妍酱出席活动",
@@ -1113,6 +1137,22 @@
       "onboard_time": 1749771740,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 243909,
+      "num": 243909,
+      "word": "儿子接受不了陈楚生不是第一",
+      "onboard_time": 1749828264,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242652,
+      "num": 242652,
+      "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
+      "onboard_time": 1749825985,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 241215,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1749778642,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 234009,
+      "num": 234009,
+      "word": "王菲 光之翼",
+      "onboard_time": 1749825866,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 233091,
@@ -1299,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221057,
+      "num": 221057,
+      "word": "歌手 云端",
+      "onboard_time": 1749827124,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220841,
       "num": 220841,
       "word": "大四男生一口气收8个offer年薪20万",
@@ -1371,6 +1427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 213421,
+      "num": 213421,
+      "word": "罗帅宇科室将绩效发给学生再收回",
+      "onboard_time": 1749826766,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213056,
       "num": 346534,
       "word": "微博电影之夜内场",
@@ -1417,6 +1481,14 @@
       "onboard_time": 1749824250,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208013,
+      "num": 208013,
+      "word": "医生教你正确的洗头方式",
+      "onboard_time": 1749828264,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207978,
@@ -1497,6 +1569,14 @@
       "onboard_time": 1749802042,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201753,
+      "num": 328352,
+      "word": "微博电影之夜致敬惠英红",
+      "onboard_time": 1749827543,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 201460,
@@ -1644,7 +1724,7 @@
     },
     {
       "raw_hot": 190941,
-      "num": 190941,
+      "num": 328990,
       "word": "官方通报披露罗帅宇生前最后短信内容",
       "onboard_time": 1749825746,
       "rank": 44,
@@ -1819,6 +1899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184096,
+      "num": 184096,
+      "word": "跑男",
+      "onboard_time": 1749827425,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183273,
       "num": 183273,
       "word": "网红妍妍酱账号已私密",
@@ -1849,6 +1937,14 @@
       "onboard_time": 1749812721,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181581,
+      "num": 328079,
+      "word": "向罗帅宇发放33万29万为他人绩效",
+      "onboard_time": 1749826166,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 181348,
@@ -1889,6 +1985,14 @@
       "onboard_time": 1749784641,
       "rank": 36,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 176547,
+      "num": 176547,
+      "word": "谢娜怎么可能有这么会唱又这么帅的出品人",
+      "onboard_time": 1749826286,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 176083,
@@ -2009,6 +2113,14 @@
       "onboard_time": 1749815061,
       "rank": 48,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 168711,
+      "num": 168711,
+      "word": "种地吧",
+      "onboard_time": 1749828203,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 168445,
@@ -2169,6 +2281,14 @@
       "onboard_time": 1749802342,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156512,
+      "num": 156512,
+      "word": "警方回应女子在商场遭挟持被捅数刀",
+      "onboard_time": 1749826826,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156379,
@@ -2603,6 +2723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130516,
+      "num": 207636,
+      "word": "北京JDG三连胜",
+      "onboard_time": 1749827184,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129858,
       "num": 321189,
       "word": "美军比球员先当上世界杯首发",
@@ -2771,7 +2899,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 121170,
+      "raw_hot": 121389,
       "num": 219799,
       "word": "郑钦文vs拉杜卡努",
       "onboard_time": 1749824609,
@@ -2817,6 +2945,14 @@
       "onboard_time": 1749805522,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115267,
+      "num": 291246,
+      "word": "英国男子在印坠机遇难两女儿成孤儿",
+      "onboard_time": 1749828264,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114474,
@@ -3091,6 +3227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92436,
+      "num": 252185,
+      "word": "被指为刘翔峰的录音实为另一医生",
+      "onboard_time": 1749826586,
+      "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 92356,
       "num": 140381,
       "word": "伊朗弹道导弹储存点发生火灾",
@@ -3241,6 +3385,14 @@
       "onboard_time": 1749731182,
       "rank": 42,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 77003,
+      "num": 260475,
+      "word": "labubu的衣服比我的贵",
+      "onboard_time": 1749826646,
+      "rank": 25,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 74591,
@@ -3571,6 +3723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50685,
+      "num": 245439,
+      "word": "夫妻闹离婚丈夫藏起1岁女儿",
+      "onboard_time": 1749826944,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50134,
       "num": 460848,
       "word": "婆婆全职带孙子被车撞伤获赔误工费",
@@ -3601,6 +3761,14 @@
       "onboard_time": 1749821186,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42208,
+      "num": 329114,
+      "word": "结婚强制披露双方健康状况可不可行",
+      "onboard_time": 1749827304,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 41585,
@@ -3640,6 +3808,14 @@
       "word": "消防实测儿童炒菜锅油温可达230℃",
       "onboard_time": 1749813981,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35399,
+      "num": 2382644,
+      "word": "90秒感受三夏收获的幸福感",
+      "onboard_time": 1749827304,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3721,6 +3897,14 @@
       "onboard_time": 1749807081,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 29729,
+      "num": 329353,
+      "word": "用Pura80把黄子弘凡拉到眼前唱歌",
+      "onboard_time": 1749827903,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 29536,
@@ -3875,6 +4059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15048,
+      "num": 214099,
+      "word": "AI教你国补如何避坑",
+      "onboard_time": 1749825387,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14663,
       "num": 544106,
       "word": "夏季后背长痘怎么祛除",
@@ -3905,14 +4097,6 @@
       "onboard_time": 1749753314,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 13037,
-      "num": 214099,
-      "word": "AI教你国补如何避坑",
-      "onboard_time": 1749825387,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12881,
@@ -3964,6 +4148,9 @@
     },
     {
       "word": "#1分钟回顾首届中国－中亚峰会亮点#"
+    },
+    {
+      "word": "#纪念陈云同志诞辰120周年#"
     }
   ]
 }

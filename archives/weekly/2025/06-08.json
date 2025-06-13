@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749825883246,
+  "endTime": 1749828511290,
   "band_list": [
     {
       "raw_hot": 17710576,
@@ -841,6 +841,14 @@
       "onboard_time": 1749640522,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1213250,
+      "num": 1213250,
+      "word": "湘雅二院涉事科室主任等4人被问责",
+      "onboard_time": 1749823527,
+      "rank": 7,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1207400,
@@ -1907,14 +1915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 724667,
-      "num": 658385,
-      "word": "湘雅二院涉事科室主任等4人被问责",
-      "onboard_time": 1749823527,
-      "rank": 7,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 723994,
       "num": 545049,
       "word": "那尔那茜事件涉及教育公平理应彻查",
@@ -2049,6 +2049,14 @@
       "onboard_time": 1749794543,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 672174,
+      "num": 365984,
+      "word": "器官捐献资料未发现违法违规行为",
+      "onboard_time": 1749825090,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 664236,
@@ -3963,12 +3971,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397661,
+      "num": 328160,
+      "word": "罗帅宇以优异成绩考入湘雅二院",
+      "onboard_time": 1749820646,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396154,
       "num": 360418,
       "word": "王珞丹成团",
       "onboard_time": 1749314482,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395992,
+      "num": 356104,
+      "word": "26岁IT女每天喝冰美式子宫长满肉芽",
+      "onboard_time": 1749823887,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394598,
@@ -4211,14 +4235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373150,
-      "num": 356104,
-      "word": "26岁IT女每天喝冰美式子宫长满肉芽",
-      "onboard_time": 1749823887,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 371419,
       "num": 452010,
       "word": "李昀锐方声明",
@@ -4313,14 +4329,6 @@
       "onboard_time": 1749702921,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 365984,
-      "num": 365984,
-      "word": "器官捐献资料未发现违法违规行为",
-      "onboard_time": 1749825090,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 365518,
@@ -4889,6 +4897,14 @@
       "onboard_time": 1749634762,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 327574,
+      "num": 327574,
+      "word": "麦可布雷袭榜",
+      "onboard_time": 1749826346,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 324571,
@@ -6411,6 +6427,14 @@
       "category": "教育,体育"
     },
     {
+      "raw_hot": 251700,
+      "num": 251700,
+      "word": "耳帝",
+      "onboard_time": 1749827964,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251573,
       "num": 300547,
       "word": "赵丽颖尹昉合照",
@@ -6579,6 +6603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 243909,
+      "num": 243909,
+      "word": "儿子接受不了陈楚生不是第一",
+      "onboard_time": 1749828264,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242798,
       "num": 268763,
       "word": "中国首次试采就破纪录彩虹也来祝贺",
@@ -6593,6 +6625,14 @@
       "onboard_time": 1749361281,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 242652,
+      "num": 242652,
+      "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
+      "onboard_time": 1749825985,
+      "rank": 31,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 242101,
@@ -6849,6 +6889,14 @@
       "onboard_time": 1749716422,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 234009,
+      "num": 234009,
+      "word": "王菲 光之翼",
+      "onboard_time": 1749825866,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 233638,
@@ -7371,6 +7419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221057,
+      "num": 221057,
+      "word": "歌手 云端",
+      "onboard_time": 1749827124,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220782,
       "num": 220782,
       "word": "有博主收藏了近400只labubu",
@@ -7707,6 +7763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213421,
+      "num": 213421,
+      "word": "罗帅宇科室将绩效发给学生再收回",
+      "onboard_time": 1749826766,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213319,
       "num": 449204,
       "word": "张桂梅给毕业生写的信看泪目了",
@@ -7953,6 +8017,14 @@
       "onboard_time": 1749569301,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208013,
+      "num": 208013,
+      "word": "医生教你正确的洗头方式",
+      "onboard_time": 1749828264,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207978,
@@ -8417,6 +8489,14 @@
       "onboard_time": 1749512779,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201753,
+      "num": 328352,
+      "word": "微博电影之夜致敬惠英红",
+      "onboard_time": 1749827543,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 201705,
@@ -9212,7 +9292,7 @@
     },
     {
       "raw_hot": 190941,
-      "num": 190941,
+      "num": 328990,
       "word": "官方通报披露罗帅宇生前最后短信内容",
       "onboard_time": 1749825746,
       "rank": 44,
@@ -9851,6 +9931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 184096,
+      "num": 184096,
+      "word": "跑男",
+      "onboard_time": 1749827425,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184090,
       "num": 283288,
       "word": "今年豆瓣7分以上国产剧",
@@ -10065,6 +10153,14 @@
       "onboard_time": 1749533962,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181581,
+      "num": 328079,
+      "word": "向罗帅宇发放33万29万为他人绩效",
+      "onboard_time": 1749826166,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 181475,
@@ -10369,6 +10465,14 @@
       "onboard_time": 1749339378,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176547,
+      "num": 176547,
+      "word": "谢娜怎么可能有这么会唱又这么帅的出品人",
+      "onboard_time": 1749826286,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 176424,
@@ -11057,6 +11161,14 @@
       "onboard_time": 1749533600,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168711,
+      "num": 168711,
+      "word": "种地吧",
+      "onboard_time": 1749828203,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 168641,
@@ -12313,6 +12425,14 @@
       "onboard_time": 1749432261,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156512,
+      "num": 156512,
+      "word": "警方回应女子在商场遭挟持被捅数刀",
+      "onboard_time": 1749826826,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156490,
@@ -15099,6 +15219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130516,
+      "num": 207636,
+      "word": "北京JDG三连胜",
+      "onboard_time": 1749827184,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130475,
       "num": 130475,
       "word": "高考数学压轴题",
@@ -16027,6 +16155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121389,
+      "num": 219799,
+      "word": "郑钦文vs拉杜卡努",
+      "onboard_time": 1749824609,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121332,
       "num": 121332,
       "word": "朱志鑫披荆斩棘5上班",
@@ -16049,14 +16185,6 @@
       "onboard_time": 1749693621,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121170,
-      "num": 219799,
-      "word": "郑钦文vs拉杜卡努",
-      "onboard_time": 1749824609,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 120910,
@@ -16513,6 +16641,14 @@
       "onboard_time": 1749341358,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115267,
+      "num": 291246,
+      "word": "英国男子在印坠机遇难两女儿成孤儿",
+      "onboard_time": 1749828264,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115079,
@@ -17859,6 +17995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92436,
+      "num": 252185,
+      "word": "被指为刘翔峰的录音实为另一医生",
+      "onboard_time": 1749826586,
+      "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 92356,
       "num": 140381,
       "word": "伊朗弹道导弹储存点发生火灾",
@@ -18761,6 +18905,14 @@
       "onboard_time": 1749545961,
       "rank": 14,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 77003,
+      "num": 260475,
+      "word": "labubu的衣服比我的贵",
+      "onboard_time": 1749826646,
+      "rank": 25,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 76972,
@@ -20267,6 +20419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50685,
+      "num": 245439,
+      "word": "夫妻闹离婚丈夫藏起1岁女儿",
+      "onboard_time": 1749826944,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50489,
       "num": 168471,
       "word": "伦敦一被遣返移民逃脱跟着飞机狂奔",
@@ -20769,6 +20929,14 @@
       "onboard_time": 1749381682,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42208,
+      "num": 329114,
+      "word": "结婚强制披露双方健康状况可不可行",
+      "onboard_time": 1749827304,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 42153,
@@ -21371,6 +21539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35399,
+      "num": 2382644,
+      "word": "90秒感受三夏收获的幸福感",
+      "onboard_time": 1749827304,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35382,
       "num": 442472,
       "word": "民警10年前守护的女孩成了同事",
@@ -21857,6 +22033,14 @@
       "onboard_time": 1749655582,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29729,
+      "num": 329353,
+      "word": "用Pura80把黄子弘凡拉到眼前唱歌",
+      "onboard_time": 1749827903,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 29536,
@@ -23059,6 +23243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15048,
+      "num": 214099,
+      "word": "AI教你国补如何避坑",
+      "onboard_time": 1749825387,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15043,
       "num": 72587,
       "word": "cubal",
@@ -23265,14 +23457,6 @@
       "onboard_time": 1749388342,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 13037,
-      "num": 214099,
-      "word": "AI教你国补如何避坑",
-      "onboard_time": 1749825387,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13030,
@@ -23657,6 +23841,9 @@
     },
     {
       "word": "#1分钟回顾首届中国－中亚峰会亮点#"
+    },
+    {
+      "word": "#纪念陈云同志诞辰120周年#"
     }
   ]
 }
