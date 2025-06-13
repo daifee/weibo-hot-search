@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749806922775,
+  "endTime": 1749807752247,
   "band_list": [
     {
       "raw_hot": 15414358,
@@ -1115,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 969488,
+      "num": 969488,
+      "word": "杨幂Labubu书包",
+      "onboard_time": 1749802641,
+      "rank": 1,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 964530,
       "num": 964530,
       "word": "袁记云饺门店回应肉馅有小虫爬",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1749684677,
       "rank": 12,
       "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 948824,
-      "num": 948824,
-      "word": "杨幂Labubu书包",
-      "onboard_time": 1749802641,
-      "rank": 1,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 946695,
@@ -2065,6 +2065,14 @@
       "onboard_time": 1749484340,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 619430,
+      "num": 275722,
+      "word": "28岁独生女喜迎弟弟当事人再发声",
+      "onboard_time": 1749803361,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 614436,
@@ -3371,19 +3379,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 421894,
+      "num": 421894,
+      "word": "伊朗清真寺升起复仇红旗",
+      "onboard_time": 1749805822,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 421422,
       "num": 425480,
       "word": "高额彩礼成为影响结婚率重要因素之一",
       "onboard_time": 1749477623,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419950,
-      "num": 275722,
-      "word": "28岁独生女喜迎弟弟当事人再发声",
-      "onboard_time": 1749803361,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -3545,6 +3553,14 @@
       "onboard_time": 1749399979,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 408541,
+      "num": 198716,
+      "word": "网红问黄子韬离婚是有意还是无心",
+      "onboard_time": 1749804862,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 407855,
@@ -4891,14 +4907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 303983,
-      "num": 303983,
-      "word": "伊朗清真寺升起复仇红旗",
-      "onboard_time": 1749805822,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 303815,
       "num": 303815,
       "word": "70岁任达华回山东老家收麦子",
@@ -5425,14 +5433,6 @@
       "onboard_time": 1749524959,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273562,
-      "num": 195872,
-      "word": "网红问黄子韬离婚是有意还是无心",
-      "onboard_time": 1749804862,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 273531,
@@ -6241,6 +6241,14 @@
       "onboard_time": 1749743422,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 239940,
+      "num": 172429,
+      "word": "不愧是木村拓哉工藤静香的女儿",
+      "onboard_time": 1749806901,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 239902,
@@ -7243,6 +7251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211756,
+      "num": 171683,
+      "word": "韩安冉说自己是怀孕圣体",
+      "onboard_time": 1749805342,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 211467,
       "num": 211467,
       "word": "给Labubu簪花",
@@ -7281,14 +7297,6 @@
       "onboard_time": 1749616703,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210513,
-      "num": 171683,
-      "word": "韩安冉说自己是怀孕圣体",
-      "onboard_time": 1749805342,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 210496,
@@ -7633,6 +7641,14 @@
       "onboard_time": 1749476903,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203468,
+      "num": 203468,
+      "word": "毛利小五郎红毯晕倒",
+      "onboard_time": 1749806121,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 203417,
@@ -8553,14 +8569,6 @@
       "onboard_time": 1749396623,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190655,
-      "num": 190655,
-      "word": "毛利小五郎红毯晕倒",
-      "onboard_time": 1749806121,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 190637,
@@ -12603,6 +12611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145268,
+      "num": 145268,
+      "word": "马嘉祺宋亚轩这段像在拍旅游转场",
+      "onboard_time": 1749807321,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145241,
       "num": 145241,
       "word": "杨洋的颜值在北欧算帅吗",
@@ -13404,7 +13420,7 @@
     },
     {
       "raw_hot": 136818,
-      "num": 191472,
+      "num": 198527,
       "word": "A股放量1955亿",
       "onboard_time": 1749802702,
       "rank": 47,
@@ -13529,6 +13545,14 @@
       "onboard_time": 1749706161,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135598,
+      "num": 135598,
+      "word": "存钱上瘾后月存2000",
+      "onboard_time": 1749804802,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 135563,
@@ -13819,6 +13843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133436,
+      "num": 134362,
+      "word": "妈妈妈妈妈妈带我走吧",
+      "onboard_time": 1749807199,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133417,
       "num": 133417,
       "word": "王宁说不愿过度消耗Labubu的IP",
@@ -13891,20 +13923,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132338,
+      "num": 158580,
+      "word": "丁程鑫电影之夜出图",
+      "onboard_time": 1749807561,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132282,
       "num": 132282,
       "word": "洛杉矶纽约之后得州也乱了",
       "onboard_time": 1749549081,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 132281,
-      "num": 132281,
-      "word": "存钱上瘾后月存2000",
-      "onboard_time": 1749804802,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 132277,
@@ -13969,14 +14001,6 @@
       "onboard_time": 1749735924,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131739,
-      "num": 131739,
-      "word": "不愧是木村拓哉工藤静香的女儿",
-      "onboard_time": 1749806901,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 131718,
@@ -14523,6 +14547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126275,
+      "num": 126275,
+      "word": "LABUBU爆火是年轻人愿意为情绪买单",
+      "onboard_time": 1749805342,
+      "rank": 44,
+      "category": "民生新闻,休闲"
+    },
+    {
       "raw_hot": 126255,
       "num": 126255,
       "word": "高考结束的那一刻是什么感觉",
@@ -14739,6 +14771,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 123701,
+      "num": 123701,
+      "word": "丁程鑫比心害羞了",
+      "onboard_time": 1749807622,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123498,
       "num": 123498,
       "word": "爸妈偷偷买小狗送给熟睡的儿子",
@@ -14897,6 +14937,14 @@
       "onboard_time": 1749558320,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122543,
+      "num": 122543,
+      "word": "谁把蒲松龄的灯给提上来了",
+      "onboard_time": 1749807321,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 122510,
@@ -15675,6 +15723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112919,
+      "num": 112919,
+      "word": "5月末M2余额325.78万亿元",
+      "onboard_time": 1749805762,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112847,
       "num": 112847,
       "word": "花如月回归",
@@ -15945,6 +16001,14 @@
       "onboard_time": 1749389483,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 107654,
+      "num": 214362,
+      "word": "台湾网红馆长参观抗战纪念馆",
+      "onboard_time": 1749807199,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107584,
@@ -18403,6 +18467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61949,
+      "num": 205277,
+      "word": "罗帅宇曾在被查医生刘翔峰手下实习",
+      "onboard_time": 1749806842,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 61683,
       "num": 159901,
       "word": "以军突袭格蕾塔所乘船只",
@@ -19051,6 +19123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49872,
+      "num": 201922,
+      "word": "机长谈空难幸存者是否因座位更安全",
+      "onboard_time": 1749806842,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 49824,
       "num": 189201,
       "word": "为什么推荐报考汕头大学",
@@ -19363,6 +19443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43676,
+      "num": 180034,
+      "word": "17岁女儿闲鱼代打车套现妈妈上万元",
+      "onboard_time": 1749807502,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43434,
       "num": 138830,
       "word": "盛李豪收获职业生涯第10枚世界杯奖牌",
@@ -19657,14 +19745,6 @@
       "onboard_time": 1749323894,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 39876,
-      "num": 181662,
-      "word": "罗帅宇曾在被查医生刘翔峰手下实习",
-      "onboard_time": 1749806842,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 39692,
@@ -20275,6 +20355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32859,
+      "num": 136469,
+      "word": "胡锡进说伊朗被渗透成筛子了",
+      "onboard_time": 1749807622,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32672,
       "num": 211371,
       "word": "美国黑衣人街头制作燃烧弹",
@@ -20481,6 +20569,14 @@
       "onboard_time": 1749601281,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30346,
+      "num": 201111,
+      "word": "蒸桃子有助于消散乳腺结节吗",
+      "onboard_time": 1749807081,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 30265,
@@ -20841,6 +20937,14 @@
       "onboard_time": 1749646402,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25935,
+      "num": 135606,
+      "word": "夏目友人帐名取周一粘土人",
+      "onboard_time": 1749807682,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 25897,
@@ -21913,14 +22017,6 @@
       "onboard_time": 1749409635,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12182,
-      "num": 143649,
-      "word": "机长谈空难幸存者是否因座位更安全",
-      "onboard_time": 1749806842,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 12177,
