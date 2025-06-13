@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749796651493,
+  "endTime": 1749797515137,
   "band_list": [
     {
       "raw_hot": 15414358,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 955984,
+      "num": 955984,
+      "word": "罗帅宇生前聊天记录曝光",
+      "onboard_time": 1749795083,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 897837,
       "num": 897837,
       "word": "印度一家五口空难前留下最后自拍",
@@ -195,8 +203,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 633470,
-      "num": 633470,
+      "raw_hot": 657105,
+      "num": 657105,
       "word": "王朔女儿 你死屋里影响房价",
       "onboard_time": 1749792803,
       "rank": 31,
@@ -225,14 +233,6 @@
       "onboard_time": 1749778580,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 585888,
-      "num": 585888,
-      "word": "罗帅宇生前聊天记录曝光",
-      "onboard_time": 1749795083,
-      "rank": 6,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 581187,
@@ -331,6 +331,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 415853,
+      "num": 494362,
+      "word": "微博电影之夜红毯",
+      "onboard_time": 1749794543,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415456,
       "num": 415456,
       "word": "太原致1死2失联21伤事故非天然气爆炸",
@@ -363,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 347311,
+      "num": 347311,
+      "word": "花海 没上过高中",
+      "onboard_time": 1749795562,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 343988,
       "num": 343988,
       "word": "易梦玲怎么又变样了",
@@ -385,14 +401,6 @@
       "onboard_time": 1749785842,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325524,
-      "num": 494362,
-      "word": "微博电影之夜红毯",
-      "onboard_time": 1749794543,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 322213,
@@ -451,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277622,
+      "num": 277622,
+      "word": "迪迪不畏迅猛龙 当然了",
+      "onboard_time": 1749795862,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 271219,
       "num": 271219,
       "word": "伊朗",
@@ -481,14 +497,6 @@
       "onboard_time": 1749739402,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 254233,
-      "num": 254233,
-      "word": "花海 没上过高中",
-      "onboard_time": 1749795562,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 248118,
@@ -537,14 +545,6 @@
       "onboard_time": 1749778642,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 232907,
-      "num": 232907,
-      "word": "迪迪不畏迅猛龙 当然了",
-      "onboard_time": 1749795862,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 232592,
@@ -651,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206750,
+      "num": 370085,
+      "word": "这次捅了歌红人不红的窝了",
+      "onboard_time": 1749795383,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206534,
       "num": 209825,
       "word": "以色列袭击居民区触动伊朗底线",
@@ -699,14 +707,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 199496,
-      "num": 370085,
-      "word": "这次捅了歌红人不红的窝了",
-      "onboard_time": 1749795383,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 198254,
       "num": 198254,
       "word": "周迅 他说的是哪个男朋友",
@@ -729,6 +729,14 @@
       "onboard_time": 1749792803,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192890,
+      "num": 181494,
+      "word": "罗帅宇父亲说有人想用1500万封口",
+      "onboard_time": 1749797302,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 190855,
@@ -963,6 +971,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 156171,
+      "num": 351373,
+      "word": "辛云来微博电影之夜上班了",
+      "onboard_time": 1749796403,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156128,
       "num": 218725,
       "word": "印度坠机黑匣子已找到",
@@ -972,7 +988,7 @@
     },
     {
       "raw_hot": 156028,
-      "num": 156028,
+      "num": 347704,
       "word": "印度一客机因炸弹威胁返航泰国",
       "onboard_time": 1749796523,
       "rank": 42,
@@ -1027,12 +1043,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153309,
-      "num": 180819,
-      "word": "辛云来微博电影之夜上班了",
-      "onboard_time": 1749796403,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 153293,
+      "num": 153293,
+      "word": "张雪峰已获院校推荐专利",
+      "onboard_time": 1749797302,
+      "rank": 35,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 152953,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1749786382,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 141641,
+      "num": 141641,
+      "word": "清华大学回应商家售卖校内河水",
+      "onboard_time": 1749797481,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141097,
@@ -1395,8 +1419,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88772,
-      "num": 1073061,
+      "raw_hot": 91677,
+      "num": 167425,
+      "word": "浙江老板嫁女252桌吃掉50万拒付钱",
+      "onboard_time": 1749796102,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91265,
+      "num": 1284790,
       "word": "夏天的凉席是古人严选",
       "onboard_time": 1749795023,
       "rank": 2,
@@ -1459,6 +1491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 81891,
+      "num": 129394,
+      "word": "雷军提醒大家小心驾驶",
+      "onboard_time": 1749796882,
+      "rank": 47,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 80203,
       "num": 80203,
       "word": "印度客机坠毁机场暂停运营",
@@ -1507,6 +1547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 73114,
+      "num": 187765,
+      "word": "医生称印度坠机幸存者身体无大碍",
+      "onboard_time": 1749797242,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73080,
       "num": 73080,
       "word": "蔡文静做完皮秒被自己吓到",
@@ -1539,20 +1587,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69285,
+      "num": 182966,
+      "word": "正午阳光有自己的剧宣宇宙",
+      "onboard_time": 1749796702,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68438,
       "num": 68438,
       "word": "labubu",
       "onboard_time": 1749770540,
       "rank": 45,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 66812,
-      "num": 167425,
-      "word": "浙江老板嫁女252桌吃掉50万拒付钱",
-      "onboard_time": 1749796102,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66273,
@@ -1577,6 +1625,14 @@
       "onboard_time": 1749774262,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64684,
+      "num": 127612,
+      "word": "金饰克价3天涨30元",
+      "onboard_time": 1749796942,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 63790,
