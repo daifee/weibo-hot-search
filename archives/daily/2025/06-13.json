@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749800407504,
+  "endTime": 1749803661131,
   "band_list": [
     {
       "raw_hot": 15414358,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2124983,
+      "num": 1460340,
+      "word": "罗帅宇父亲说有人想用1500万封口",
+      "onboard_time": 1749797302,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 2012740,
       "num": 2012740,
       "word": "湛江全市停课",
@@ -107,12 +115,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1460340,
-      "num": 1460340,
-      "word": "罗帅宇父亲说有人想用1500万封口",
-      "onboard_time": 1749797302,
-      "rank": 28,
-      "category": "舆论监督"
+      "raw_hot": 1365651,
+      "num": 311643,
+      "word": "曾毅 我以为是块劳力士",
+      "onboard_time": 1749801862,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1330502,
@@ -179,6 +187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 814558,
+      "num": 434905,
+      "word": "艾滋女孩日记",
+      "onboard_time": 1749798623,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 803480,
       "num": 803480,
       "word": "印航母公司为每名死者赔一千万卢比",
@@ -241,6 +257,14 @@
       "onboard_time": 1749797842,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 618698,
+      "num": 618698,
+      "word": "杨幂Labubu书包",
+      "onboard_time": 1749802641,
+      "rank": 1,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 594641,
@@ -347,12 +371,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 441698,
+      "num": 441698,
+      "word": "李国庆俞渝离婚",
+      "onboard_time": 1749801202,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 428497,
       "num": 494722,
       "word": "到底谁压轴",
       "onboard_time": 1749776840,
       "rank": 8,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 421621,
+      "num": 291965,
+      "word": "女生杭州万象城遭挟制被捅数刀",
+      "onboard_time": 1749800002,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 415456,
@@ -369,6 +409,14 @@
       "onboard_time": 1749780500,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 379349,
+      "num": 473744,
+      "word": "陈都灵 赫本风",
+      "onboard_time": 1749799762,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 371419,
@@ -441,6 +489,14 @@
       "onboard_time": 1749777081,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312009,
+      "num": 312009,
+      "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
+      "onboard_time": 1749803000,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 310663,
@@ -531,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265789,
+      "num": 265789,
+      "word": "向英国国王查尔斯三世致慰问电",
+      "onboard_time": 1749801501,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 264949,
       "num": 581004,
       "word": "妈妈称女儿打暑假工被骗去抽血浆",
@@ -539,12 +603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260314,
-      "num": 260314,
-      "word": "艾滋女孩日记",
-      "onboard_time": 1749798623,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 263432,
+      "num": 257392,
+      "word": "陈都灵暗夜粉玫瑰",
+      "onboard_time": 1749802461,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 259638,
@@ -579,6 +643,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 241215,
+      "num": 241215,
+      "word": "偶遇蔡徐坤",
+      "onboard_time": 1749802102,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240832,
       "num": 240832,
       "word": "伊朗首都传出爆炸声",
@@ -593,14 +665,6 @@
       "onboard_time": 1749743422,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 238428,
-      "num": 473744,
-      "word": "陈都灵 赫本风",
-      "onboard_time": 1749799762,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 237937,
@@ -665,6 +729,22 @@
       "onboard_time": 1749773360,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225117,
+      "num": 225117,
+      "word": "外交部回应以色列空袭伊朗",
+      "onboard_time": 1749801322,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 223308,
+      "num": 240150,
+      "word": "宋茜造型师三毛",
+      "onboard_time": 1749802702,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 220841,
@@ -763,6 +843,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 202815,
+      "num": 277862,
+      "word": "彻查罗帅宇案不能只靠当地自查自纠",
+      "onboard_time": 1749802042,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201460,
       "num": 345454,
       "word": "看汪苏泷的演唱会还能吃到免费夜宵",
@@ -795,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199452,
+      "num": 239015,
+      "word": "青川入梦定档",
+      "onboard_time": 1749801742,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198254,
       "num": 198254,
       "word": "周迅 他说的是哪个男朋友",
@@ -816,6 +912,14 @@
       "word": "龚俊眼角伤",
       "onboard_time": 1749792803,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191984,
+      "num": 236803,
+      "word": "惠英红一上场就杀死了比赛",
+      "onboard_time": 1749803122,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -907,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182575,
+      "num": 182575,
+      "word": "单依纯模仿自己都只能拿第二",
+      "onboard_time": 1749799882,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178526,
       "num": 317510,
       "word": "淬火年代定档",
@@ -995,12 +1107,12 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 169909,
-      "num": 169909,
-      "word": "单依纯模仿自己都只能拿第二",
-      "onboard_time": 1749799882,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 172069,
+      "num": 172069,
+      "word": "28岁独生女喜迎弟弟当事人再发声",
+      "onboard_time": 1749803361,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168406,
@@ -1115,6 +1227,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 157713,
+      "num": 157713,
+      "word": "贾冰瘦了好多",
+      "onboard_time": 1749802342,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156171,
       "num": 351373,
       "word": "辛云来微博电影之夜上班了",
@@ -1219,6 +1339,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 151089,
+      "num": 151089,
+      "word": "丁程鑫穿着LV走红毯",
+      "onboard_time": 1749802222,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150822,
+      "num": 150822,
+      "word": "巴啦啦小魔仙美雪17年前vs17年后",
+      "onboard_time": 1749802583,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150780,
       "num": 150780,
       "word": "王曼昱GLASS六月刊封面",
@@ -1315,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136818,
+      "num": 136818,
+      "word": "A股放量1955亿",
+      "onboard_time": 1749802702,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136027,
       "num": 136027,
       "word": "男子上户口意外发现女儿非亲生",
@@ -1337,6 +1481,14 @@
       "onboard_time": 1749799941,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133191,
+      "num": 133191,
+      "word": "罗小黑战记2定档",
+      "onboard_time": 1749800843,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 131718,
@@ -1603,12 +1755,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94339,
-      "num": 167178,
-      "word": "女生杭州万象城遭挟制被捅数刀",
-      "onboard_time": 1749800002,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 93729,
+      "num": 139612,
+      "word": "夏以昼生日系列企划",
+      "onboard_time": 1749802402,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 92734,
@@ -1617,6 +1769,14 @@
       "onboard_time": 1749798322,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92157,
+      "num": 251623,
+      "word": "罗帅宇妈妈哭着说梦到儿子",
+      "onboard_time": 1749802042,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 91677,
@@ -1657,6 +1817,14 @@
       "onboard_time": 1749742943,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82896,
+      "num": 150876,
+      "word": "今年暑假最想看的动画出现了",
+      "onboard_time": 1749803601,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 82809,
@@ -1753,6 +1921,14 @@
       "onboard_time": 1749724101,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72886,
+      "num": 234400,
+      "word": "罗帅宇究竟是怎么坠亡的",
+      "onboard_time": 1749803303,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 70791,
@@ -1955,6 +2131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34266,
+      "num": 150845,
+      "word": "为什么波音飞机事故率这么高",
+      "onboard_time": 1749801683,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33014,
       "num": 211910,
       "word": "在伊朗中国人回忆袭击爆炸瞬间",
@@ -2001,6 +2185,14 @@
       "onboard_time": 1749782422,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 20656,
+      "num": 269980,
+      "word": "荣昊说赚假球的钱未来会付出代价",
+      "onboard_time": 1749801683,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 20631,
@@ -2056,6 +2248,14 @@
       "word": "印度外长发声",
       "onboard_time": 1749753314,
       "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 12881,
+      "num": 234759,
+      "word": "修复后的朝鲜驱逐舰性能受影响吗",
+      "onboard_time": 1749803481,
+      "rank": 28,
       "category": "国际时政"
     },
     {
