@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749771587189,
+  "endTime": 1749780139407,
   "band_list": [
     {
       "raw_hot": 5565200,
@@ -27,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1612826,
+      "num": 1612826,
+      "word": "湛江全市停课",
+      "onboard_time": 1749775761,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1392964,
-      "num": 357606,
+      "num": 385146,
       "word": "湘雅二医院两年间给罗帅宇转账40多万",
       "onboard_time": 1749736282,
       "rank": 10,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 1330502,
+      "num": 1330502,
+      "word": "以色列对伊朗发动打击",
+      "onboard_time": 1749773961,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 803480,
@@ -41,6 +57,30 @@
       "onboard_time": 1749743961,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 729280,
+      "num": 729280,
+      "word": "伊朗武装部队总参谋长遭暗杀",
+      "onboard_time": 1749776722,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 629005,
+      "num": 551791,
+      "word": "张雪峰谈要不要出省读大学",
+      "onboard_time": 1749773060,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 594641,
+      "num": 594641,
+      "word": "尚公主 孟子义李昀锐",
+      "onboard_time": 1749770898,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 541791,
@@ -67,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482707,
+      "num": 482707,
+      "word": "以色列宣布进入紧急状态",
+      "onboard_time": 1749775101,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 480146,
       "num": 480146,
       "word": "荔枝",
@@ -83,12 +131,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 428497,
+      "num": 428497,
+      "word": "到底谁压轴",
+      "onboard_time": 1749776840,
+      "rank": 8,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 415456,
       "num": 415456,
       "word": "太原致1死2失联21伤事故非天然气爆炸",
       "onboard_time": 1749743302,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392712,
+      "num": 392712,
+      "word": "章子怡回复赵丽颖",
+      "onboard_time": 1749778580,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 371419,
+      "num": 371419,
+      "word": "李昀锐方声明",
+      "onboard_time": 1749772100,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 368547,
@@ -107,20 +179,52 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335863,
-      "num": 335863,
-      "word": "尚公主 孟子义李昀锐",
-      "onboard_time": 1749770898,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 322213,
       "num": 322213,
       "word": "全球首架因空难全损波音787",
       "onboard_time": 1749731960,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 310663,
+      "num": 310663,
+      "word": "黑匣子初步显示印度坠机未能正常起飞",
+      "onboard_time": 1749771439,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 307805,
+      "num": 307805,
+      "word": "黄金",
+      "onboard_time": 1749776960,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 303752,
+      "num": 303752,
+      "word": "田曦薇早知道就不来了",
+      "onboard_time": 1749778881,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 302557,
+      "num": 302557,
+      "word": "罗帅宇亲属最新发声",
+      "onboard_time": 1749777081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271219,
+      "num": 271219,
+      "word": "伊朗",
+      "onboard_time": 1749774142,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 259638,
@@ -131,12 +235,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 246425,
+      "num": 246425,
+      "word": "刘诗诗压轴出场",
+      "onboard_time": 1749771740,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 240832,
+      "num": 240832,
+      "word": "伊朗首都传出爆炸声",
+      "onboard_time": 1749774922,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 239983,
       "num": 239983,
       "word": "印度坠机事故致超290人死亡",
       "onboard_time": 1749743422,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 239856,
+      "num": 239856,
+      "word": "付辛博演技",
+      "onboard_time": 1749776840,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 237937,
@@ -147,11 +275,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235166,
+      "num": 235166,
+      "word": "美国将取消四国移民合法身份",
+      "onboard_time": 1749778642,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 232515,
       "num": 232515,
       "word": "乘客曝印度坠机前序航班异常",
       "onboard_time": 1749741563,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225522,
+      "num": 225522,
+      "word": "台风蝴蝶",
+      "onboard_time": 1749773360,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -161,6 +305,22 @@
       "onboard_time": 1749729381,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215959,
+      "num": 215959,
+      "word": "台风蝴蝶给多地带来大到暴雨",
+      "onboard_time": 1749775041,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206080,
+      "num": 206080,
+      "word": "以色列 伊朗",
+      "onboard_time": 1749779120,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 202881,
@@ -195,12 +355,68 @@
       "category": "网红"
     },
     {
+      "raw_hot": 180331,
+      "num": 180331,
+      "word": "朝鲜发生重大事故驱逐舰再次下水",
+      "onboard_time": 1749779720,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 173430,
       "num": 173430,
       "word": "英国男子登上印失事客机前发告别视频",
       "onboard_time": 1749770898,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172804,
+      "num": 172804,
+      "word": "高考后直接换头",
+      "onboard_time": 1749777500,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 168256,
+      "num": 168256,
+      "word": "张元英的啤酒广告笑死我了",
+      "onboard_time": 1749741502,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 165823,
+      "num": 165823,
+      "word": "要减肥就不能买电动车",
+      "onboard_time": 1749772759,
+      "rank": 36,
+      "category": "运动健身,幽默"
+    },
+    {
+      "raw_hot": 163697,
+      "num": 163697,
+      "word": "爷爷不泡茶回应妍妍酱出席活动",
+      "onboard_time": 1749778101,
+      "rank": 37,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 159693,
+      "num": 159693,
+      "word": "坠机幸存男子称与哥哥一起回英国",
+      "onboard_time": 1749776423,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 156961,
+      "num": 156961,
+      "word": "魅影神捕开机",
+      "onboard_time": 1749779361,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 156128,
@@ -227,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154294,
+      "num": 154294,
+      "word": "印度一家五口空难前在机上开心合影",
+      "onboard_time": 1749779902,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154216,
       "num": 154216,
       "word": "曾舜晞劝删恋爱脑图",
@@ -243,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152953,
+      "num": 152953,
+      "word": "强行给女生制造需求",
+      "onboard_time": 1749770778,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141097,
       "num": 141097,
       "word": "郑钦文vs凯斯勒",
@@ -251,12 +483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140279,
-      "num": 140279,
-      "word": "张元英的啤酒广告笑死我了",
-      "onboard_time": 1749741502,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 140928,
+      "num": 140928,
+      "word": "刘翔峰",
+      "onboard_time": 1749780021,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137768,
@@ -273,6 +505,22 @@
       "onboard_time": 1749719602,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134690,
+      "num": 134690,
+      "word": "宁艺卓短发",
+      "onboard_time": 1749776242,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132351,
+      "num": 132351,
+      "word": "中国驻伊朗大使馆发安全提示",
+      "onboard_time": 1749779961,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129104,
@@ -299,12 +547,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 125578,
+      "num": 125578,
+      "word": "挑扁担回家女孩校长回应张雪峰",
+      "onboard_time": 1749777500,
+      "rank": 48,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 125236,
       "num": 125236,
       "word": "钟楚曦拿荔枝走红毯",
       "onboard_time": 1749741682,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124599,
+      "num": 124599,
+      "word": "第一批给Labubu美容美甲的人出现了",
+      "onboard_time": 1749779541,
+      "rank": 49,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 123101,
@@ -395,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97452,
+      "num": 326779,
+      "word": "印度一家五口空难前留下最后自拍",
+      "onboard_time": 1749779783,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96842,
       "num": 96842,
       "word": "李昀锐谁的妻子",
@@ -417,14 +689,6 @@
       "onboard_time": 1749745521,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 90778,
-      "num": 90778,
-      "word": "强行给女生制造需求",
-      "onboard_time": 1749770778,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 86700,
@@ -555,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65609,
+      "num": 1207594,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1749774262,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63790,
       "num": 63790,
       "word": "阿里离职员工说不要消费马云",
@@ -603,12 +875,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 51350,
-      "num": 93502,
-      "word": "黑匣子初步显示印度坠机未能正常起飞",
-      "onboard_time": 1749771439,
-      "rank": 32,
-      "category": "海外新闻"
+      "raw_hot": 36431,
+      "num": 240225,
+      "word": "黄金直线拉涨",
+      "onboard_time": 1749779841,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 34678,
@@ -617,6 +889,14 @@
       "onboard_time": 1749747858,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 33261,
+      "num": 209329,
+      "word": "印度就坠机事故启动正式调查",
+      "onboard_time": 1749780021,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26009,
