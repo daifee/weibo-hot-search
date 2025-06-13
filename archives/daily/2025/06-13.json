@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749781545863,
+  "endTime": 1749785044319,
   "band_list": [
     {
       "raw_hot": 5565200,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1654877,
+      "num": 1654877,
+      "word": "李晨899一只的labubu升值近6倍",
+      "onboard_time": 1749782001,
+      "rank": 0,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 1392964,
       "num": 743963,
       "word": "湘雅二医院两年间给罗帅宇转账40多万",
@@ -49,6 +57,30 @@
       "onboard_time": 1749773961,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1129904,
+      "num": 1129904,
+      "word": "伊朗核设施被炸",
+      "onboard_time": 1749782481,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 897837,
+      "num": 897837,
+      "word": "印度一家五口空难前留下最后自拍",
+      "onboard_time": 1749779783,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 806597,
+      "num": 806597,
+      "word": "朝鲜发生重大事故驱逐舰再次下水",
+      "onboard_time": 1749779720,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 803480,
@@ -67,20 +99,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 749972,
-      "num": 749972,
-      "word": "印度一家五口空难前留下最后自拍",
-      "onboard_time": 1749779783,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 733048,
-      "num": 733048,
-      "word": "朝鲜发生重大事故驱逐舰再次下水",
-      "onboard_time": 1749779720,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 701668,
+      "num": 771487,
+      "word": "伊朗伊斯兰革命卫队总司令遭暗杀",
+      "onboard_time": 1749780860,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 629005,
@@ -139,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532071,
+      "num": 673892,
+      "word": "多名伊朗高级官员被暗杀",
+      "onboard_time": 1749783321,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 482707,
       "num": 482707,
       "word": "以色列宣布进入紧急状态",
@@ -153,6 +185,14 @@
       "onboard_time": 1749714861,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 475917,
+      "num": 475917,
+      "word": "迪迪不畏",
+      "onboard_time": 1749784340,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 455113,
@@ -211,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339472,
+      "num": 339472,
+      "word": "黄金",
+      "onboard_time": 1749776960,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 322213,
       "num": 322213,
       "word": "全球首架因空难全损波音787",
@@ -235,16 +283,16 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 307805,
-      "num": 307805,
-      "word": "黄金",
-      "onboard_time": 1749776960,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 293670,
+      "num": 461840,
+      "word": "付辛博演技",
+      "onboard_time": 1749776840,
+      "rank": 26,
+      "category": "剧集"
     },
     {
-      "raw_hot": 271790,
-      "num": 271790,
+      "raw_hot": 282744,
+      "num": 282744,
       "word": "印度一家五口空难前在机上开心合影",
       "onboard_time": 1749779902,
       "rank": 40,
@@ -265,6 +313,14 @@
       "onboard_time": 1749739402,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 248118,
+      "num": 487849,
+      "word": "爷爷不泡茶回应妍妍酱出席活动",
+      "onboard_time": 1749778101,
+      "rank": 37,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 246425,
@@ -289,14 +345,6 @@
       "onboard_time": 1749743422,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 239856,
-      "num": 461840,
-      "word": "付辛博演技",
-      "onboard_time": 1749776840,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 237937,
@@ -387,12 +435,52 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 185835,
+      "num": 761846,
+      "word": "黄金直线拉涨",
+      "onboard_time": 1749779841,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 185008,
+      "num": 185008,
+      "word": "叶罗丽第11季",
+      "onboard_time": 1749784100,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 183273,
       "num": 183273,
       "word": "网红妍妍酱账号已私密",
       "onboard_time": 1749747379,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 177563,
+      "num": 177563,
+      "word": "Labubu爆火哪些国货被低估了",
+      "onboard_time": 1749784641,
+      "rank": 36,
+      "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 176083,
+      "num": 245145,
+      "word": "京东苏超十三太宝",
+      "onboard_time": 1749782422,
+      "rank": 29,
+      "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 175941,
+      "num": 175941,
+      "word": "全球股市下挫",
+      "onboard_time": 1749782481,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 173430,
@@ -419,14 +507,6 @@
       "category": "休闲,动漫"
     },
     {
-      "raw_hot": 168278,
-      "num": 232384,
-      "word": "爷爷不泡茶回应妍妍酱出席活动",
-      "onboard_time": 1749778101,
-      "rank": 37,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 168256,
       "num": 168256,
       "word": "张元英的啤酒广告笑死我了",
@@ -449,6 +529,38 @@
       "onboard_time": 1749772759,
       "rank": 36,
       "category": "运动健身,幽默"
+    },
+    {
+      "raw_hot": 163780,
+      "num": 163780,
+      "word": "单亲妈妈被骗近7万背后是上亿大案",
+      "onboard_time": 1749780141,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160638,
+      "num": 160638,
+      "word": "美国一架客机降落时滑出跑道",
+      "onboard_time": 1749782362,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 159335,
+      "num": 159335,
+      "word": "刘翔峰",
+      "onboard_time": 1749780021,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158935,
+      "num": 249783,
+      "word": "台风蝴蝶到哪儿了",
+      "onboard_time": 1749781341,
+      "rank": 27,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 156961,
@@ -483,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154788,
+      "num": 154788,
+      "word": "有博主收藏了近400只labubu",
+      "onboard_time": 1749784461,
+      "rank": 45,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 154216,
       "num": 154216,
       "word": "曾舜晞劝删恋爱脑图",
@@ -515,6 +635,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150780,
+      "num": 150780,
+      "word": "王曼昱GLASS六月刊封面",
+      "onboard_time": 1749781521,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149114,
+      "num": 248880,
+      "word": "沈腾马丽的游戏惩罚全是艾伦",
+      "onboard_time": 1749784762,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148510,
+      "num": 148510,
+      "word": "无限暖暖",
+      "onboard_time": 1749784401,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145745,
       "num": 145745,
       "word": "罗云熙魅影神捕妆造",
@@ -523,36 +667,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144184,
-      "num": 144184,
-      "word": "单亲妈妈被骗近7万背后是上亿大案",
-      "onboard_time": 1749780141,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141097,
       "num": 141097,
       "word": "郑钦文vs凯斯勒",
       "onboard_time": 1749749297,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140928,
-      "num": 140928,
-      "word": "刘翔峰",
-      "onboard_time": 1749780021,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138307,
-      "num": 761846,
-      "word": "黄金直线拉涨",
-      "onboard_time": 1749779841,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 137768,
@@ -587,14 +707,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128191,
-      "num": 128191,
-      "word": "王曼昱GLASS六月刊封面",
-      "onboard_time": 1749781521,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127796,
       "num": 159589,
       "word": "郑晓龙透露将拍关于故宫的古装剧",
@@ -627,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123916,
+      "num": 479321,
+      "word": "郭晶晶说当妈是一辈子的功课",
+      "onboard_time": 1749783801,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123101,
       "num": 123101,
       "word": "邓紫棋含泪控诉遭前公司PUA",
@@ -651,6 +771,14 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 116705,
+      "num": 165438,
+      "word": "淬火年代定档",
+      "onboard_time": 1749782901,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113982,
       "num": 113982,
       "word": "台湾网红馆长说不怕岛内媒体修理",
@@ -659,19 +787,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113340,
-      "num": 771487,
-      "word": "伊朗伊斯兰革命卫队总司令遭暗杀",
-      "onboard_time": 1749780860,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112663,
       "num": 112663,
       "word": "王晓晨啥意思",
       "onboard_time": 1749721044,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111716,
+      "num": 185196,
+      "word": "张真源环球人物杂志",
+      "onboard_time": 1749782060,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -705,6 +833,22 @@
       "onboard_time": 1749732742,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105076,
+      "num": 139866,
+      "word": "TVB艺人大赞内地美食",
+      "onboard_time": 1749783741,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104724,
+      "num": 295215,
+      "word": "张雪峰发声打破对教育学刻板认知",
+      "onboard_time": 1749783561,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 100227,
@@ -843,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70509,
+      "num": 1245781,
+      "word": "中国全球好感度UP",
+      "onboard_time": 1749738683,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69811,
       "num": 69811,
       "word": "那英单依纯妈妈和女儿",
@@ -955,28 +1107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40601,
-      "num": 249783,
-      "word": "台风蝴蝶到哪儿了",
-      "onboard_time": 1749781341,
-      "rank": 27,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 34678,
       "num": 43583,
       "word": "最好的感情是双向奔赴",
       "onboard_time": 1749747858,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 30461,
-      "num": 957840,
-      "word": "中国全球好感度UP",
-      "onboard_time": 1749738683,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26009,
@@ -987,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25561,
+      "num": 482737,
+      "word": "以总理说以军对伊朗的打击会持续多日",
+      "onboard_time": 1749784641,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25407,
       "num": 867463,
       "word": "网警提醒高考结束仍需警惕",
@@ -995,12 +1139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22074,
+      "num": 164086,
+      "word": "国补期间买了哪些家电好物",
+      "onboard_time": 1749782422,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 20407,
       "num": 45446,
       "word": "纽约或有更大规模示威",
       "onboard_time": 1749759134,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20226,
+      "num": 476944,
+      "word": "经常漂染头发有什么影响",
+      "onboard_time": 1749784401,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19894,
