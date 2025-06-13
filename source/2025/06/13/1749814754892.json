@@ -1,0 +1,410 @@
+{
+  "runTime": 1749814754892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6544979,
+        "num": 6544979,
+        "word": "罗帅宇 1119页文件",
+        "onboard_time": 1749787942,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 564457,
+        "num": 564457,
+        "word": "微博电影之夜",
+        "onboard_time": 1749812183,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56490,
+        "num": 550001,
+        "word": "夏天的凉席是古人严选",
+        "onboard_time": 1749795023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3021960,
+        "num": 546237,
+        "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
+        "onboard_time": 1749803000,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 540091,
+        "num": 540091,
+        "word": "卫健委称罗帅宇事件马上会有通报",
+        "onboard_time": 1749812842,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1819004,
+        "num": 517727,
+        "word": "湘雅二院给未患癌者化疗致其9级伤残",
+        "onboard_time": 1749812782,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490060,
+        "num": 490060,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 471012,
+        "num": 471012,
+        "word": "17岁女儿闲鱼代打车套现妈妈上万元",
+        "onboard_time": 1749807502,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465504,
+        "num": 465504,
+        "word": "杨幂Labubu书包",
+        "onboard_time": 1749802641,
+        "rank": 8,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 87774,
+        "num": 465446,
+        "word": "以色列关闭所有驻外使馆",
+        "onboard_time": 1749814102,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 856356,
+        "num": 464397,
+        "word": "湘雅二医院曾有患者出院当天死亡",
+        "onboard_time": 1749809662,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671750,
+        "num": 463009,
+        "word": "曾毅 我以为是块劳力士",
+        "onboard_time": 1749801862,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280928,
+        "num": 462114,
+        "word": "田柾国SEVEN舞台",
+        "onboard_time": 1749813621,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318945,
+        "num": 461454,
+        "word": "深圳一河道惊现大量成扎钞票",
+        "onboard_time": 1749813262,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50134,
+        "num": 460848,
+        "word": "婆婆全职带孙子被车撞伤获赔误工费",
+        "onboard_time": 1749814102,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580277,
+        "num": 459939,
+        "word": "湘雅二医院两年间给罗帅宇转账40多万",
+        "onboard_time": 1749736282,
+        "rank": 15,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 52656,
+        "num": 458665,
+        "word": "享界S9成微博电影之夜明星座驾",
+        "onboard_time": 1749812961,
+        "rank": 16,
+        "category": "电影,汽车"
+      },
+      {
+        "raw_hot": 53289,
+        "num": 457823,
+        "word": "胡兵重新定义中国设计",
+        "onboard_time": 1749812961,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 33014,
+        "num": 456627,
+        "word": "租labubu比买更划算吗",
+        "onboard_time": 1749814282,
+        "rank": 18,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 61760,
+        "num": 455667,
+        "word": "企业回应女孩打暑期工被骗抽血浆",
+        "onboard_time": 1749813922,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455303,
+        "num": 455303,
+        "word": "罗帅宇父亲说有人想用1500万封口",
+        "onboard_time": 1749797302,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 414361,
+        "num": 414361,
+        "word": "以色列将关闭所有大使馆",
+        "onboard_time": 1749814222,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341745,
+        "num": 341745,
+        "word": "肠道是好的 钱不到位就切掉",
+        "onboard_time": 1749788904,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338465,
+        "num": 338465,
+        "word": "湖南卫健委回应罗帅宇事件",
+        "onboard_time": 1749785901,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290799,
+        "num": 290799,
+        "word": "新婚头像变告黑声明",
+        "onboard_time": 1749810202,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230431,
+        "num": 230431,
+        "word": "尤长靖逼张靓颖道歉",
+        "onboard_time": 1749809481,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218123,
+        "num": 218123,
+        "word": "蒋勤勤说我们家是一家四口",
+        "onboard_time": 1749813441,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330330,
+        "num": 217801,
+        "word": "罗帅宇生前聊天记录曝光",
+        "onboard_time": 1749795083,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 69521,
+        "num": 216634,
+        "word": "Pura80镜头下的明星神图",
+        "onboard_time": 1749812961,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35426,
+        "num": 214667,
+        "word": "消防实测儿童炒菜锅油温可达230℃",
+        "onboard_time": 1749813981,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265944,
+        "num": 214287,
+        "word": "网红问黄子韬离婚是有意还是无心",
+        "onboard_time": 1749804862,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213056,
+        "num": 213056,
+        "word": "微博电影之夜内场",
+        "onboard_time": 1749812301,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207852,
+        "num": 207852,
+        "word": "微博电影之夜红毯",
+        "onboard_time": 1749794543,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189502,
+        "num": 189502,
+        "word": "柳智敏白发",
+        "onboard_time": 1749813801,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186174,
+        "num": 186174,
+        "word": "樊振东MV的电影感",
+        "onboard_time": 1749812361,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179619,
+        "num": 179619,
+        "word": "歌手直播",
+        "onboard_time": 1749814583,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54400,
+        "num": 174954,
+        "word": "雷佳音崩溃哭戏",
+        "onboard_time": 1749814042,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174058,
+        "num": 174058,
+        "word": "清融MVP",
+        "onboard_time": 1749813922,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56582,
+        "num": 158721,
+        "word": "伊朗拳头不硬光嘴硬",
+        "onboard_time": 1749814460,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122086,
+        "num": 155752,
+        "word": "范丞丞王安宇同框比耶",
+        "onboard_time": 1749813561,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24392,
+        "num": 154951,
+        "word": "插电混动为什么省油",
+        "onboard_time": 1749813022,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154799,
+        "num": 154799,
+        "word": "淘宝闪购",
+        "onboard_time": 1749810622,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152468,
+        "num": 152468,
+        "word": "不愧是木村拓哉工藤静香的女儿",
+        "onboard_time": 1749806901,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151301,
+        "num": 151301,
+        "word": "湘雅二医院因患者出院当日死亡赔29万",
+        "onboard_time": 1749812662,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149289,
+        "num": 149289,
+        "word": "奔跑吧",
+        "onboard_time": 1749814401,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141212,
+        "num": 141212,
+        "word": "伊朗清真寺升起复仇红旗",
+        "onboard_time": 1749805822,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139932,
+        "num": 139932,
+        "word": "歌手歌单",
+        "onboard_time": 1749792323,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138305,
+        "num": 138305,
+        "word": "28岁独生女喜迎弟弟当事人再发声",
+        "onboard_time": 1749803361,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136194,
+        "num": 136194,
+        "word": "郑号锡演唱会偶遇闵玧其",
+        "onboard_time": 1749813262,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224573,
+        "num": 136145,
+        "word": "14部委联合发文纠正医疗服务中不正之风",
+        "onboard_time": 1749813621,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指明农业科技创新方向#"
+    }
+  }
+}

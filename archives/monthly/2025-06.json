@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749813788700,
+  "endTime": 1749814754892,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3021960,
+      "num": 890146,
+      "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
+      "onboard_time": 1749803000,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 2999007,
       "num": 2999007,
       "word": "语文默写",
@@ -265,14 +273,6 @@
       "onboard_time": 1749217108,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2909114,
-      "num": 890146,
-      "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
-      "onboard_time": 1749803000,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 2907108,
@@ -695,6 +695,14 @@
       "num": 1844206,
       "word": "亚朵酒店被曝出现医院枕套",
       "onboard_time": 1748958982,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1819004,
+      "num": 753284,
+      "word": "湘雅二院给未患癌者化疗致其9级伤残",
+      "onboard_time": 1749812782,
       "rank": 1,
       "category": "民生新闻"
     },
@@ -1196,7 +1204,7 @@
     },
     {
       "raw_hot": 1365651,
-      "num": 403990,
+      "num": 463009,
       "word": "曾毅 我以为是块劳力士",
       "onboard_time": 1749801862,
       "rank": 10,
@@ -3419,14 +3427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 753284,
-      "num": 753284,
-      "word": "湘雅二院给未患癌者化疗致其9级伤残",
-      "onboard_time": 1749812782,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 752538,
       "num": 410537,
       "word": "40岁女子不染发养了16个月的白发",
@@ -5211,6 +5211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 564457,
+      "num": 564457,
+      "word": "微博电影之夜",
+      "onboard_time": 1749812183,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 561574,
       "num": 241416,
       "word": "王珞丹年度队长",
@@ -5241,14 +5249,6 @@
       "onboard_time": 1749518361,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 560638,
-      "num": 560638,
-      "word": "微博电影之夜",
-      "onboard_time": 1749812183,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 560345,
@@ -5489,6 +5489,14 @@
       "onboard_time": 1749309024,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 540091,
+      "num": 540091,
+      "word": "卫健委称罗帅宇事件马上会有通报",
+      "onboard_time": 1749812842,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 537444,
@@ -7529,6 +7537,14 @@
       "onboard_time": 1749001280,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414361,
+      "num": 414361,
+      "word": "以色列将关闭所有大使馆",
+      "onboard_time": 1749814222,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 413429,
@@ -10051,6 +10067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318945,
+      "num": 461454,
+      "word": "深圳一河道惊现大量成扎钞票",
+      "onboard_time": 1749813262,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318918,
       "num": 318918,
       "word": "韦东奕一天涨粉1000万",
@@ -11011,6 +11035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290799,
+      "num": 290799,
+      "word": "新婚头像变告黑声明",
+      "onboard_time": 1749810202,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290793,
       "num": 317938,
       "word": "孟子义黑天使造型",
@@ -11073,14 +11105,6 @@
       "onboard_time": 1749640764,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 288750,
-      "num": 416138,
-      "word": "卫健委称罗帅宇事件马上会有通报",
-      "onboard_time": 1749812842,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 288587,
@@ -11379,14 +11403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281768,
-      "num": 281768,
-      "word": "新婚头像变告黑声明",
-      "onboard_time": 1749810202,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281649,
       "num": 266008,
       "word": "文班亚马去少林寺把头剃了",
@@ -11417,6 +11433,14 @@
       "onboard_time": 1748952740,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280928,
+      "num": 462114,
+      "word": "田柾国SEVEN舞台",
+      "onboard_time": 1749813621,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 280838,
@@ -14387,6 +14411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224573,
+      "num": 182853,
+      "word": "14部委联合发文纠正医疗服务中不正之风",
+      "onboard_time": 1749813621,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224563,
       "num": 168709,
       "word": "iOS26 液态玻璃",
@@ -14931,6 +14963,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 218123,
+      "num": 218123,
+      "word": "蒋勤勤说我们家是一家四口",
+      "onboard_time": 1749813441,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217898,
       "num": 217898,
       "word": "妈妈岗",
@@ -15097,14 +15137,6 @@
       "onboard_time": 1748958263,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215965,
-      "num": 182853,
-      "word": "14部委联合发文纠正医疗服务中不正之风",
-      "onboard_time": 1749813621,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215959,
@@ -15385,6 +15417,14 @@
       "onboard_time": 1749539060,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213056,
+      "num": 346534,
+      "word": "微博电影之夜内场",
+      "onboard_time": 1749812301,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 212966,
@@ -16209,14 +16249,6 @@
       "onboard_time": 1749809421,
       "rank": 27,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 205836,
-      "num": 346534,
-      "word": "微博电影之夜内场",
-      "onboard_time": 1749812301,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 205831,
@@ -18667,6 +18699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189502,
+      "num": 189502,
+      "word": "柳智敏白发",
+      "onboard_time": 1749813801,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189453,
       "num": 189453,
       "word": "AG对战UUG",
@@ -18817,14 +18857,6 @@
       "onboard_time": 1749043462,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188496,
-      "num": 188496,
-      "word": "蒋勤勤说我们家是一家四口",
-      "onboard_time": 1749813441,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 188339,
@@ -19249,6 +19281,14 @@
       "onboard_time": 1749184401,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186174,
+      "num": 186174,
+      "word": "樊振东MV的电影感",
+      "onboard_time": 1749812361,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 186149,
@@ -20763,14 +20803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174855,
-      "num": 174855,
-      "word": "田柾国SEVEN舞台",
-      "onboard_time": 1749813621,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 174783,
       "num": 211351,
       "word": "白鹿说你懂我的吧",
@@ -20841,6 +20873,14 @@
       "onboard_time": 1749798502,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174058,
+      "num": 174058,
+      "word": "清融MVP",
+      "onboard_time": 1749813922,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 174047,
@@ -24923,6 +24963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151301,
+      "num": 310246,
+      "word": "湘雅二医院因患者出院当日死亡赔29万",
+      "onboard_time": 1749812662,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 151296,
       "num": 151296,
       "word": "多地发文鼓励2.5天休假",
@@ -25289,6 +25337,14 @@
       "onboard_time": 1749550580,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149289,
+      "num": 149289,
+      "word": "奔跑吧",
+      "onboard_time": 1749130642,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 149245,
@@ -26539,14 +26595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143640,
-      "num": 342665,
-      "word": "深圳一河道惊现大量成扎钞票",
-      "onboard_time": 1749813262,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143563,
       "num": 143563,
       "word": "这红毯走的简直是在演宫斗剧",
@@ -27729,14 +27777,6 @@
       "onboard_time": 1749130102,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 138238,
-      "num": 138238,
-      "word": "奔跑吧",
-      "onboard_time": 1749130642,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 138216,
@@ -29193,14 +29233,6 @@
       "onboard_time": 1749108801,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131744,
-      "num": 131744,
-      "word": "樊振东MV的电影感",
-      "onboard_time": 1749812361,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 131718,
@@ -31161,6 +31193,14 @@
       "onboard_time": 1749113120,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122086,
+      "num": 155752,
+      "word": "范丞丞王安宇同框比耶",
+      "onboard_time": 1749813561,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 122059,
@@ -33523,14 +33563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108845,
-      "num": 310246,
-      "word": "湘雅二医院因患者出院当日死亡赔29万",
-      "onboard_time": 1749812662,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 108826,
       "num": 108826,
       "word": "45岁姚明训练照曝光",
@@ -34481,14 +34513,6 @@
       "onboard_time": 1749109100,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102307,
-      "num": 151034,
-      "word": "范丞丞王安宇同框比耶",
-      "onboard_time": 1749813561,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 102272,
@@ -36635,6 +36659,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 87774,
+      "num": 465446,
+      "word": "以色列关闭所有驻外使馆",
+      "onboard_time": 1749814102,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87498,
       "num": 87498,
       "word": "高清记录孩子收到儿童节礼物的反应",
@@ -38771,6 +38803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69521,
+      "num": 216634,
+      "word": "Pura80镜头下的明星神图",
+      "onboard_time": 1749812961,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 69484,
       "num": 433449,
       "word": "张家界两溶洞清理垃圾51吨",
@@ -39628,7 +39668,7 @@
     },
     {
       "raw_hot": 62293,
-      "num": 324298,
+      "num": 458665,
       "word": "享界S9成微博电影之夜明星座驾",
       "onboard_time": 1749812961,
       "rank": 17,
@@ -39697,6 +39737,14 @@
       "onboard_time": 1748968459,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61760,
+      "num": 455667,
+      "word": "企业回应女孩打暑期工被骗抽血浆",
+      "onboard_time": 1749813922,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61683,
@@ -39915,14 +39963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59218,
-      "num": 198785,
-      "word": "Pura80镜头下的明星神图",
-      "onboard_time": 1749812961,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 59173,
       "num": 59173,
       "word": "点进片头就退不出去的剧",
@@ -40036,7 +40076,7 @@
     },
     {
       "raw_hot": 58333,
-      "num": 327890,
+      "num": 457823,
       "word": "胡兵重新定义中国设计",
       "onboard_time": 1749812961,
       "rank": 16,
@@ -40241,6 +40281,14 @@
       "onboard_time": 1749565161,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56582,
+      "num": 158721,
+      "word": "伊朗拳头不硬光嘴硬",
+      "onboard_time": 1749814460,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56561,
@@ -40585,6 +40633,14 @@
       "onboard_time": 1749180380,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54400,
+      "num": 174954,
+      "word": "雷佳音崩溃哭戏",
+      "onboard_time": 1749814042,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 54398,
@@ -41136,6 +41192,14 @@
       "word": "愿景娱乐HR辱骂发烧请假员工",
       "onboard_time": 1749178100,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50134,
+      "num": 460848,
+      "word": "婆婆全职带孙子被车撞伤获赔误工费",
+      "onboard_time": 1749814102,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -43451,6 +43515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35426,
+      "num": 214667,
+      "word": "消防实测儿童炒菜锅油温可达230℃",
+      "onboard_time": 1749813981,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35406,
       "num": 219763,
       "word": "22年高考生再次被cue",
@@ -43857,6 +43929,14 @@
       "onboard_time": 1749792803,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33014,
+      "num": 456627,
+      "word": "租labubu比买更划算吗",
+      "onboard_time": 1749814282,
+      "rank": 18,
+      "category": "休闲"
     },
     {
       "raw_hot": 32984,
@@ -45531,6 +45611,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 24392,
+      "num": 154951,
+      "word": "插电混动为什么省油",
+      "onboard_time": 1749813022,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 24321,
       "num": 185610,
       "word": "AI创业都得是学霸出身吗",
@@ -45841,14 +45929,6 @@
       "onboard_time": 1748887755,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22380,
-      "num": 151567,
-      "word": "插电混动为什么省油",
-      "onboard_time": 1749813022,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 22379,
