@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749793421769,
+  "endTime": 1749796651493,
   "band_list": [
     {
       "raw_hot": 15414358,
@@ -35,8 +35,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 2375814,
-      "num": 2375814,
+      "raw_hot": 2527475,
+      "num": 2527475,
       "word": "湖南卫健委回应罗帅宇事件",
       "onboard_time": 1749785901,
       "rank": 7,
@@ -147,6 +147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 879784,
+      "num": 879784,
+      "word": "罗帅宇家属曾称后悔没做尸检",
+      "onboard_time": 1749787644,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 864003,
       "num": 864003,
       "word": "朝鲜发生重大事故驱逐舰再次下水",
@@ -187,20 +195,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 633470,
+      "num": 633470,
+      "word": "王朔女儿 你死屋里影响房价",
+      "onboard_time": 1749792803,
+      "rank": 31,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 629005,
       "num": 551791,
       "word": "张雪峰谈要不要出省读大学",
       "onboard_time": 1749773060,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 608652,
-      "num": 608652,
-      "word": "罗帅宇家属曾称后悔没做尸检",
-      "onboard_time": 1749787644,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 594641,
@@ -217,6 +225,14 @@
       "onboard_time": 1749778580,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 585888,
+      "num": 585888,
+      "word": "罗帅宇生前聊天记录曝光",
+      "onboard_time": 1749795083,
+      "rank": 6,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 581187,
@@ -331,14 +347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 393768,
-      "num": 209570,
-      "word": "王朔女儿 你死屋里影响房价",
-      "onboard_time": 1749792803,
-      "rank": 31,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 371419,
       "num": 452010,
       "word": "李昀锐方声明",
@@ -377,6 +385,14 @@
       "onboard_time": 1749785842,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325524,
+      "num": 494362,
+      "word": "微博电影之夜红毯",
+      "onboard_time": 1749794543,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 322213,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 277817,
-      "num": 277817,
+      "num": 381284,
       "word": "歌手歌单",
       "onboard_time": 1749792323,
       "rank": 46,
@@ -465,6 +481,14 @@
       "onboard_time": 1749739402,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 254233,
+      "num": 254233,
+      "word": "花海 没上过高中",
+      "onboard_time": 1749795562,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 248118,
@@ -513,6 +537,14 @@
       "onboard_time": 1749778642,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 232907,
+      "num": 232907,
+      "word": "迪迪不畏迅猛龙 当然了",
+      "onboard_time": 1749795862,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 232592,
@@ -667,6 +699,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199496,
+      "num": 370085,
+      "word": "这次捅了歌红人不红的窝了",
+      "onboard_time": 1749795383,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 198254,
+      "num": 198254,
+      "word": "周迅 他说的是哪个男朋友",
+      "onboard_time": 1749795023,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196634,
       "num": 196634,
       "word": "高考后直接换头",
@@ -739,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184448,
+      "num": 179003,
+      "word": "刘晓艳自曝曾2次高考失利",
+      "onboard_time": 1749796162,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 183273,
       "num": 183273,
       "word": "网红妍妍酱账号已私密",
@@ -803,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173125,
+      "num": 173125,
+      "word": "李国庆俞渝财产分割达成最终和解",
+      "onboard_time": 1749795502,
+      "rank": 32,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 168406,
       "num": 168406,
       "word": "第一批给Labubu美容美甲的人出现了",
@@ -849,6 +913,14 @@
       "onboard_time": 1749784401,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164010,
+      "num": 164010,
+      "word": "伊朗国家电视台证实巴盖里死亡",
+      "onboard_time": 1749795023,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163780,
@@ -899,6 +971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 156028,
+      "num": 156028,
+      "word": "印度一客机因炸弹威胁返航泰国",
+      "onboard_time": 1749796523,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 155354,
       "num": 155354,
       "word": "警方介入罗帅宇举报医疗腐败",
@@ -945,6 +1025,14 @@
       "onboard_time": 1749751756,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153309,
+      "num": 180819,
+      "word": "辛云来微博电影之夜上班了",
+      "onboard_time": 1749796403,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 152953,
@@ -1073,6 +1161,14 @@
       "onboard_time": 1749776242,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131718,
+      "num": 441999,
+      "word": "亲属称罗帅宇父母备受打击",
+      "onboard_time": 1749793461,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130746,
@@ -1292,11 +1388,19 @@
     },
     {
       "raw_hot": 95743,
-      "num": 249281,
+      "num": 369751,
       "word": "郭晶晶的人生态度好真实",
       "onboard_time": 1749792563,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88772,
+      "num": 1073061,
+      "word": "夏天的凉席是古人严选",
+      "onboard_time": 1749795023,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86700,
@@ -1441,6 +1545,14 @@
       "onboard_time": 1749770540,
       "rank": 45,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 66812,
+      "num": 167425,
+      "word": "浙江老板嫁女252桌吃掉50万拒付钱",
+      "onboard_time": 1749796102,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66273,
@@ -1627,6 +1739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 20631,
+      "num": 168014,
+      "word": "618国补平板选购指南",
+      "onboard_time": 1749793643,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20407,
       "num": 45446,
       "word": "纽约或有更大规模示威",
@@ -1649,6 +1769,22 @@
       "onboard_time": 1749761533,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14601,
+      "num": 165962,
+      "word": "点点滴滴到夏以昼的下一岁",
+      "onboard_time": 1749794963,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 14524,
+      "num": 129798,
+      "word": "骑士卡提希娅",
+      "onboard_time": 1749796222,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 13764,
@@ -1678,6 +1814,9 @@
   "hotgov_list": [
     {
       "word": "#开放合作是人间正道#"
+    },
+    {
+      "word": "#总书记指明农业科技创新方向#"
     }
   ]
 }
