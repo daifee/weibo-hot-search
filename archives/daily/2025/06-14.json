@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749840584749,
+  "endTime": 1749842489541,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -507,7 +507,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 47957,
+      "raw_hot": 53047,
       "num": 105052,
       "word": "伊朗总统称将使敌人后悔其愚蠢行为",
       "onboard_time": 1749839235,
@@ -521,6 +521,14 @@
       "onboard_time": 1749830362,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46633,
+      "num": 46633,
+      "word": "特朗普威胁伊朗尽快与美达成协议",
+      "onboard_time": 1749840554,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46026,
@@ -563,11 +571,67 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18675,
-      "num": 34566,
-      "word": "特朗普威胁伊朗尽快与美达成协议",
-      "onboard_time": 1749840554,
-      "rank": 41,
+      "raw_hot": 29065,
+      "num": 29065,
+      "word": "GAI白鸽",
+      "onboard_time": 1749841217,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 27500,
+      "num": 93645,
+      "word": "以色列袭击伊朗美国到底知不知道",
+      "onboard_time": 1749841696,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 27394,
+      "num": 27394,
+      "word": "倾城",
+      "onboard_time": 1749841875,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26567,
+      "num": 26567,
+      "word": "长安的荔枝",
+      "onboard_time": 1749841154,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26323,
+      "num": 26323,
+      "word": "陈楚生本周选曲站台",
+      "onboard_time": 1749842295,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24858,
+      "num": 24858,
+      "word": "鹭卓感谢每一位家人的不远万里",
+      "onboard_time": 1749841696,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 24250,
+      "num": 24250,
+      "word": "汪苏泷机甲印花锁链套装",
+      "onboard_time": 1749842414,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23993,
+      "num": 23993,
+      "word": "三问以色列为何再对伊朗出手",
+      "onboard_time": 1749842414,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -609,6 +673,22 @@
       "onboard_time": 1749840135,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11006,
+      "num": 44540,
+      "word": "AI时代在浙大可以怎么学",
+      "onboard_time": 1749841334,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 7842,
+      "num": 171477,
+      "word": "数里行间感知经济活力",
+      "onboard_time": 1749825030,
+      "rank": 2,
+      "category": "民生新闻,财经"
     }
   ],
   "hotgov_list": [

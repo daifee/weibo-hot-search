@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749840584749,
+  "endTime": 1749842489541,
   "band_list": [
     {
       "raw_hot": 17710576,
@@ -20579,6 +20579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53047,
+      "num": 105052,
+      "word": "伊朗总统称将使敌人后悔其愚蠢行为",
+      "onboard_time": 1749839235,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53027,
       "num": 277794,
       "word": "牙齿矫正会导致牙龈萎缩吗",
@@ -20843,14 +20851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47957,
-      "num": 105052,
-      "word": "伊朗总统称将使敌人后悔其愚蠢行为",
-      "onboard_time": 1749839235,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47892,
       "num": 114325,
       "word": "寂静岭1重制版",
@@ -20905,6 +20905,14 @@
       "onboard_time": 1749712821,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46633,
+      "num": 46633,
+      "word": "特朗普威胁伊朗尽快与美达成协议",
+      "onboard_time": 1749840554,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46532,
@@ -22387,6 +22395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29065,
+      "num": 29065,
+      "word": "GAI白鸽",
+      "onboard_time": 1749841217,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28871,
       "num": 168720,
       "word": "有人为洛杉矶抗议者送物资",
@@ -22603,6 +22619,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 27500,
+      "num": 93645,
+      "word": "以色列袭击伊朗美国到底知不知道",
+      "onboard_time": 1749841696,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 27394,
+      "num": 27394,
+      "word": "倾城",
+      "onboard_time": 1749841875,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27321,
       "num": 218469,
       "word": "直击印度客机坠毁事件",
@@ -22633,6 +22665,14 @@
       "onboard_time": 1749616764,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26323,
+      "num": 26323,
+      "word": "陈楚生本周选曲站台",
+      "onboard_time": 1749842295,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 26272,
@@ -22771,6 +22811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 24858,
+      "num": 24858,
+      "word": "鹭卓感谢每一位家人的不远万里",
+      "onboard_time": 1749841696,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24701,
       "num": 115931,
       "word": "意大利2比0摩尔多瓦",
@@ -22827,6 +22875,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 24250,
+      "num": 24250,
+      "word": "汪苏泷机甲印花锁链套装",
+      "onboard_time": 1749842414,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24214,
       "num": 229921,
       "word": "哪些人不适合素食生活",
@@ -22865,6 +22921,14 @@
       "onboard_time": 1749493095,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 23993,
+      "num": 23993,
+      "word": "三问以色列为何再对伊朗出手",
+      "onboard_time": 1749842414,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23899,
@@ -23313,14 +23377,6 @@
       "onboard_time": 1749650902,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18675,
-      "num": 34566,
-      "word": "特朗普威胁伊朗尽快与美达成协议",
-      "onboard_time": 1749840554,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18641,
@@ -23945,6 +24001,14 @@
       "onboard_time": 1749840135,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11006,
+      "num": 44540,
+      "word": "AI时代在浙大可以怎么学",
+      "onboard_time": 1749841334,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 11005,
