@@ -1,0 +1,410 @@
+{
+  "runTime": 1749804499912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7585617,
+        "num": 7585617,
+        "word": "罗帅宇 1119页文件",
+        "onboard_time": 1749787942,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 894316,
+        "num": 894316,
+        "word": "杨幂Labubu书包",
+        "onboard_time": 1749802641,
+        "rank": 1,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 72781,
+        "num": 891394,
+        "word": "夏天的凉席是古人严选",
+        "onboard_time": 1749795023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 890146,
+        "num": 890146,
+        "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
+        "onboard_time": 1749803000,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 356798,
+        "num": 356798,
+        "word": "李国庆俞渝离婚",
+        "onboard_time": 1749801202,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1987950,
+        "num": 349785,
+        "word": "罗帅宇父亲说有人想用1500万封口",
+        "onboard_time": 1749797302,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 335004,
+        "num": 335004,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1410016,
+        "num": 330547,
+        "word": "罗帅宇生前聊天记录曝光",
+        "onboard_time": 1749795083,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 321998,
+        "num": 321998,
+        "word": "陈都灵 赫本风",
+        "onboard_time": 1749799762,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129858,
+        "num": 321189,
+        "word": "美军比球员先当上世界杯首发",
+        "onboard_time": 1749803902,
+        "rank": 9,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 1324872,
+        "num": 317664,
+        "word": "曾毅 我以为是块劳力士",
+        "onboard_time": 1749801862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 947019,
+        "num": 312809,
+        "word": "湖南卫健委回应罗帅宇事件",
+        "onboard_time": 1749785901,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528537,
+        "num": 309936,
+        "word": "女生杭州万象城遭挟制被捅数刀",
+        "onboard_time": 1749800002,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 714862,
+        "num": 304805,
+        "word": "湘雅二医院两年间给罗帅宇转账40多万",
+        "onboard_time": 1749736282,
+        "rank": 13,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 20389,
+        "num": 301004,
+        "word": "荣昊说赚假球的钱未来会付出代价",
+        "onboard_time": 1749801683,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488683,
+        "num": 298477,
+        "word": "湖南成立罗帅宇事件联合调查组",
+        "onboard_time": 1749797842,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 245755,
+        "num": 292097,
+        "word": "微博电影之夜红毯",
+        "onboard_time": 1749794543,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392239,
+        "num": 291075,
+        "word": "到底谁在干扰罗帅宇坠亡案",
+        "onboard_time": 1749787822,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129253,
+        "num": 286099,
+        "word": "金宣虎开通微博",
+        "onboard_time": 1749804082,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11945,
+        "num": 281686,
+        "word": "修复后的朝鲜驱逐舰性能受影响吗",
+        "onboard_time": 1749803481,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 338666,
+        "num": 278989,
+        "word": "肠道是好的 钱不到位就切掉",
+        "onboard_time": 1749788904,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275722,
+        "num": 275722,
+        "word": "28岁独生女喜迎弟弟当事人再发声",
+        "onboard_time": 1749803361,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268230,
+        "num": 268230,
+        "word": "湘雅二院曾因瞒报重大医疗纠纷被处罚",
+        "onboard_time": 1749798981,
+        "rank": 22,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 217707,
+        "num": 217707,
+        "word": "偶遇蔡徐坤",
+        "onboard_time": 1749802102,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204474,
+        "num": 204474,
+        "word": "向英国国王查尔斯三世致慰问电",
+        "onboard_time": 1749801501,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196905,
+        "num": 196905,
+        "word": "惠英红一上场就杀死了比赛",
+        "onboard_time": 1749803122,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193872,
+        "num": 193872,
+        "word": "宋茜造型师三毛",
+        "onboard_time": 1749802702,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179866,
+        "num": 192341,
+        "word": "青川入梦定档",
+        "onboard_time": 1749801742,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160483,
+        "num": 190975,
+        "word": "单依纯模仿自己都只能拿第二",
+        "onboard_time": 1749799882,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91173,
+        "num": 188130,
+        "word": "罗帅宇究竟是怎么坠亡的",
+        "onboard_time": 1749803303,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 199879,
+        "num": 185572,
+        "word": "李晨899一只的labubu升值近6倍",
+        "onboard_time": 1749782001,
+        "rank": 30,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 184956,
+        "num": 184956,
+        "word": "伊朗核设施被炸",
+        "onboard_time": 1749782481,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171230,
+        "num": 171230,
+        "word": "外交部回应以色列空袭伊朗",
+        "onboard_time": 1749801322,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170282,
+        "num": 170282,
+        "word": "伊朗称将严厉果断还击以色列",
+        "onboard_time": 1749786801,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164021,
+        "num": 164021,
+        "word": "伊朗武装部队发布一号公告",
+        "onboard_time": 1749798142,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158102,
+        "num": 158102,
+        "word": "内娱竟有让黄景瑜有弟感的男人",
+        "onboard_time": 1749797723,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151133,
+        "num": 151133,
+        "word": "素媛案凶手多次未经允许外出被拘留",
+        "onboard_time": 1749785720,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109693,
+        "num": 149467,
+        "word": "范丞丞王安宇贾冰热聊",
+        "onboard_time": 1749804082,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148873,
+        "num": 148873,
+        "word": "钟楚曦祖海高定",
+        "onboard_time": 1749803722,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71730,
+        "num": 139788,
+        "word": "今年暑假最想看的动画出现了",
+        "onboard_time": 1749803601,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132906,
+        "num": 132906,
+        "word": "丁程鑫穿着LV走红毯",
+        "onboard_time": 1749802222,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105677,
+        "num": 127589,
+        "word": "GAI晚上歌手见",
+        "onboard_time": 1749804322,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126176,
+        "num": 126176,
+        "word": "贾冰瘦了好多",
+        "onboard_time": 1749802342,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124565,
+        "num": 124565,
+        "word": "王安宇装了一车白玫瑰",
+        "onboard_time": 1749799102,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124032,
+        "num": 124032,
+        "word": "印度坠机事故中发现一名幸存者",
+        "onboard_time": 1749723563,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123270,
+        "num": 123270,
+        "word": "罗小黑战记2定档",
+        "onboard_time": 1749800843,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118530,
+        "num": 118530,
+        "word": "巴啦啦小魔仙美雪17年前vs17年后",
+        "onboard_time": 1749802583,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111967,
+        "num": 111967,
+        "word": "范丞丞红发",
+        "onboard_time": 1749799882,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110917,
+        "num": 110917,
+        "word": "被宋雨琦背英语帅到",
+        "onboard_time": 1749804441,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110767,
+        "num": 110767,
+        "word": "贺峻霖你惹谢娜干什么",
+        "onboard_time": 1749804382,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指明农业科技创新方向#"
+    }
+  }
+}
