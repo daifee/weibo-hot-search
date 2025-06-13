@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/14 00:48:39
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/14 01:23:44
 </p>
 </blockquote>
 <p>
@@ -3423,6 +3423,12 @@ Bin 闹剧结束了（热度：638394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E8%A2%AB%E5%92%AC%E5%90%8E%E4%B8%80%E8%84%9A%E5%B0%86%E8%9B%87%E8%B8%A9%E6%AD%BB%E5%B8%A6%E7%9D%80%E5%8E%BB%E5%B0%B1%E5%8C%BB%23" target="weibo">
+大爷被咬后一脚将蛇踩死带着去就医（热度：627314）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%94%BF%E6%B2%BB%23" target="weibo">
 山东政治（热度：627177）
 </a>
@@ -4157,12 +4163,6 @@ GAI 大白嗓（热度：583445）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%BC%BC%E4%BC%91%E6%81%AF%E5%85%B6%E5%AE%9E%E5%BE%88%E8%80%97%E6%B0%94%E8%A1%80%E8%A1%8C%E4%B8%BA%23" target="weibo">
 看似休息其实很耗气血行为（热度：556211）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E8%A2%AB%E5%92%AC%E5%90%8E%E4%B8%80%E8%84%9A%E5%B0%86%E8%9B%87%E8%B8%A9%E6%AD%BB%E5%B8%A6%E7%9D%80%E5%8E%BB%E5%B0%B1%E5%8C%BB%23" target="weibo">
-大爷被咬后一脚将蛇踩死带着去就医（热度：556194）
 </a>
 </li>
 

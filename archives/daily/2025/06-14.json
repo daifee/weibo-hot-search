@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749833319734,
+  "endTime": 1749835424583,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 556194,
-      "num": 556194,
+      "raw_hot": 627314,
+      "num": 627314,
       "word": "大爷被咬后一脚将蛇踩死带着去就医",
       "onboard_time": 1749830541,
       "rank": 12,
@@ -153,6 +153,14 @@
       "onboard_time": 1749830183,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188870,
+      "num": 188870,
+      "word": "马嘉祺歌手高定look",
+      "onboard_time": 1749833959,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 183907,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 129114,
-      "num": 129114,
+      "num": 152527,
       "word": "特朗普发文警告伊朗",
       "onboard_time": 1749829764,
       "rank": 40,
@@ -299,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123038,
+      "num": 478298,
+      "word": "以高官被曝均被转移至安全地点",
+      "onboard_time": 1749832341,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119489,
       "num": 119489,
       "word": "歌手直播",
@@ -313,6 +329,14 @@
       "onboard_time": 1749825507,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 118916,
+      "num": 150499,
+      "word": "大爷恋爱5个月转账上万欲讨回被拒",
+      "onboard_time": 1749833780,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118834,
@@ -363,8 +387,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104339,
+      "num": 94424,
+      "word": "罗某宇坠楼前给同学发短信系不实信息",
+      "onboard_time": 1749833540,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 102167,
-      "num": 102167,
+      "num": 122641,
       "word": "耳帝评歌手第5期",
       "onboard_time": 1749832700,
       "rank": 43,
@@ -411,6 +443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66034,
+      "num": 66034,
+      "word": "微博电影之夜",
+      "onboard_time": 1749812183,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63460,
       "num": 468297,
       "word": "用Pura80把黄子弘凡拉到眼前唱歌",
@@ -419,11 +459,27 @@
       "category": "电影"
     },
     {
-      "raw_hot": 48041,
-      "num": 478298,
-      "word": "以高官被曝均被转移至安全地点",
-      "onboard_time": 1749832341,
-      "rank": 42,
+      "raw_hot": 59047,
+      "num": 66032,
+      "word": "李昀锐把背叛玩得很熟练",
+      "onboard_time": 1749834919,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 56761,
+      "num": 65969,
+      "word": "曾毅 我以为是块劳力士",
+      "onboard_time": 1749801862,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 55614,
+      "num": 65906,
+      "word": "英国男子在印坠机遇难两女儿成孤儿",
+      "onboard_time": 1749828264,
+      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -443,12 +499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38545,
+      "num": 243534,
+      "word": "宝马送到4S店维修被偷走",
+      "onboard_time": 1749834438,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29597,
       "num": 1177234,
       "word": "90秒感受三夏收获的幸福感",
       "onboard_time": 1749827304,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14153,
+      "num": 77535,
+      "word": "钎城马可波罗C麻了",
+      "onboard_time": 1749826525,
+      "rank": 39,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
