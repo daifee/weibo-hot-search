@@ -1,0 +1,410 @@
+{
+  "runTime": 1749819135123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3468724,
+        "num": 3468724,
+        "word": "湘雅二院给未患癌者化疗致其9级伤残",
+        "onboard_time": 1749812782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2556360,
+        "num": 2556360,
+        "word": "歌手直播",
+        "onboard_time": 1749814583,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62448,
+        "num": 2280613,
+        "word": "夏天的凉席是古人严选",
+        "onboard_time": 1749795023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2207476,
+        "num": 2207476,
+        "word": "皇权富贵",
+        "onboard_time": 1749816802,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1359577,
+        "num": 1359577,
+        "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
+        "onboard_time": 1749803000,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 588616,
+        "num": 588616,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 855745,
+        "num": 586272,
+        "word": "被者来女震撼到",
+        "onboard_time": 1749818062,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 800189,
+        "num": 585374,
+        "word": "卫健委称罗帅宇事件马上会有通报",
+        "onboard_time": 1749812842,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 716067,
+        "num": 583721,
+        "word": "歌手顺序",
+        "onboard_time": 1749816322,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580796,
+        "num": 580796,
+        "word": "伊朗所有航班暂停",
+        "onboard_time": 1749816442,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6117493,
+        "num": 6117493,
+        "word": "罗帅宇 1119页文件",
+        "onboard_time": 1749787942,
+        "rank": 10,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 295848,
+        "num": 566926,
+        "word": "伊朗退出与美国核谈判",
+        "onboard_time": 1749818304,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 563960,
+        "num": 563960,
+        "word": "者来女揭榜米奇",
+        "onboard_time": 1749817523,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527234,
+        "num": 527234,
+        "word": "湘雅二院",
+        "onboard_time": 1749816442,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233119,
+        "num": 526410,
+        "word": "妹妹冒名姐姐结婚33年离婚遇阻",
+        "onboard_time": 1749815602,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526290,
+        "num": 526290,
+        "word": "居民对罗帅宇坠楼一事讳莫如深",
+        "onboard_time": 1749816201,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422828,
+        "num": 422828,
+        "word": "曾毅 我以为是块劳力士",
+        "onboard_time": 1749801862,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51943,
+        "num": 421264,
+        "word": "张钧甯低饱和裸粉妆",
+        "onboard_time": 1749817102,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74049,
+        "num": 417515,
+        "word": "雪糕刺客钟薛高为何濒临破产",
+        "onboard_time": 1749817764,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22080,
+        "num": 417038,
+        "word": "杨贵妃吃的荔枝是哪儿产的",
+        "onboard_time": 1749817883,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168445,
+        "num": 414314,
+        "word": "丁程鑫发言",
+        "onboard_time": 1749816922,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411919,
+        "num": 411919,
+        "word": "以色列将关闭所有大使馆",
+        "onboard_time": 1749814222,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 370089,
+        "num": 370089,
+        "word": "BLG对战iG",
+        "onboard_time": 1749809362,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 355666,
+        "num": 355666,
+        "word": "以色列空袭已致伊朗78死329伤",
+        "onboard_time": 1749818784,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311259,
+        "num": 311259,
+        "word": "尤长靖逼张靓颖道歉",
+        "onboard_time": 1749809481,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303642,
+        "num": 303642,
+        "word": "杨幂Labubu书包",
+        "onboard_time": 1749802641,
+        "rank": 25,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 294879,
+        "num": 294879,
+        "word": "微博电影之夜",
+        "onboard_time": 1749812183,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284206,
+        "num": 284206,
+        "word": "罗帅宇父亲说有人想用1500万封口",
+        "onboard_time": 1749797302,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 255024,
+        "num": 255024,
+        "word": "17岁女儿闲鱼代打车套现妈妈上万元",
+        "onboard_time": 1749807502,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273081,
+        "num": 254825,
+        "word": "湘雅二医院曾有患者出院当天死亡",
+        "onboard_time": 1749809662,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253898,
+        "num": 253898,
+        "word": "歌手黑悟空哪吒开场",
+        "onboard_time": 1749818183,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247517,
+        "num": 247517,
+        "word": "张杰领奖",
+        "onboard_time": 1749816802,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23150,
+        "num": 244288,
+        "word": "张若昀红毯FENDI造型",
+        "onboard_time": 1749817102,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242169,
+        "num": 242169,
+        "word": "深圳一河道惊现大量成扎钞票",
+        "onboard_time": 1749813262,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241995,
+        "num": 241995,
+        "word": "湘雅二医院两年间给罗帅宇转账40多万",
+        "onboard_time": 1749736282,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 230194,
+        "num": 230194,
+        "word": "男子带亡妻骨灰回家遭印度坠机遇难",
+        "onboard_time": 1749815242,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 228298,
+        "num": 228298,
+        "word": "刘琳琳",
+        "onboard_time": 1749817403,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 218838,
+        "num": 218838,
+        "word": "桃黑黑 不直播",
+        "onboard_time": 1749818242,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205498,
+        "num": 205498,
+        "word": "歌手歌单",
+        "onboard_time": 1749792323,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69523,
+        "num": 202300,
+        "word": "剑道尘心还没播就有同人文了",
+        "onboard_time": 1749818363,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 201273,
+        "num": 201273,
+        "word": "肠道是好的 钱不到位就切掉",
+        "onboard_time": 1749788904,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200550,
+        "num": 200550,
+        "word": "新婚头像变告黑声明",
+        "onboard_time": 1749810202,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195729,
+        "num": 195729,
+        "word": "敖瑞鹏嚼嚼嚼嚼嚼嚼嚼嚼嚼",
+        "onboard_time": 1749818484,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145773,
+        "num": 192152,
+        "word": "单依纯你我就是绮丽",
+        "onboard_time": 1749818242,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190926,
+        "num": 190926,
+        "word": "防弹少年团成员去了郑号锡演唱会",
+        "onboard_time": 1749818003,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189737,
+        "num": 189737,
+        "word": "LPL和LCK上演Msi门票大战",
+        "onboard_time": 1749818663,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182900,
+        "num": 182900,
+        "word": "歌手能不能把编曲淘汰",
+        "onboard_time": 1749819025,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177881,
+        "num": 177881,
+        "word": "微博电影之夜内场",
+        "onboard_time": 1749812301,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168989,
+        "num": 168989,
+        "word": "爱马仕大秀",
+        "onboard_time": 1749815061,
+        "rank": 48,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 167329,
+        "num": 167329,
+        "word": "黄明昊发言切范丞丞镜头",
+        "onboard_time": 1749817463,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指明农业科技创新方向#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/13 19:39:14
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/13 20:52:15
 </p>
 </blockquote>
 <p>
@@ -1779,6 +1779,12 @@ bnd粉丝去世（热度：4621424）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2%E7%BB%99%E6%9C%AA%E6%82%A3%E7%99%8C%E8%80%85%E5%8C%96%E7%96%97%E8%87%B4%E5%85%B69%E7%BA%A7%E4%BC%A4%E6%AE%8B%23" target="weibo">
+湘雅二院给未患癌者化疗致其9级伤残（热度：3468724）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%23" target="weibo">
 苹果手机（热度：3460295）
 </a>
@@ -1805,12 +1811,6 @@ bnd粉丝去世（热度：4621424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%20%E6%A0%A1%E5%9B%AD%E6%AD%8C%E6%89%8B%E5%A4%A7%E8%B5%9B%23" target="weibo">
 马嘉祺 校园歌手大赛（热度：3436909）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%20%E6%84%9F%E6%81%A9%E8%BF%99%E8%BE%88%E5%AD%90%E8%83%BD%E6%88%90%E4%B8%BA%E5%A5%B9%E7%9A%84%E5%A7%8A%E5%A6%B9%23" target="weibo">
-小S 感恩这辈子能成为她的姊妹（热度：3434993）
 </a>
 </li>
 
