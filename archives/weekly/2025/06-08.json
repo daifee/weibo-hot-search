@@ -1,9 +1,9 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749822527645,
+  "endTime": 1749824754946,
   "band_list": [
     {
-      "raw_hot": 17625647,
+      "raw_hot": 17710576,
       "num": 18875647,
       "word": "官方通报罗帅宇事件",
       "onboard_time": 1749820945,
@@ -107,12 +107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3313629,
+      "num": 3313629,
+      "word": "歌手直播",
+      "onboard_time": 1749814583,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3021960,
       "num": 1363441,
       "word": "罗帅宇坠楼前曾向不同手机发出2条短信",
       "onboard_time": 1749803000,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2816058,
+      "num": 607330,
+      "word": "GAI第一",
+      "onboard_time": 1749824609,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 2810225,
@@ -169,14 +185,6 @@
       "onboard_time": 1749612441,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2576317,
-      "num": 2576317,
-      "word": "歌手直播",
-      "onboard_time": 1749814583,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 2569852,
@@ -441,6 +449,14 @@
       "onboard_time": 1749702320,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1690051,
+      "num": 592370,
+      "word": "GAI给我听哭了",
+      "onboard_time": 1749823587,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1654877,
@@ -1579,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 806828,
+      "num": 600569,
+      "word": "马嘉祺 狂飙中音",
+      "onboard_time": 1749823707,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 806211,
       "num": 427917,
       "word": "张若昀拍的唐艺昕与女儿",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1749812842,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 798613,
+      "num": 586666,
+      "word": "难听",
+      "onboard_time": 1749821186,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 798263,
@@ -1819,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 729758,
+      "num": 569408,
+      "word": "唐汉霄揭榜陈楚生",
+      "onboard_time": 1749821487,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 728635,
       "num": 728635,
       "word": "罗帅宇录音",
@@ -1923,14 +1963,6 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 699989,
-      "num": 490984,
-      "word": "唐汉霄揭榜陈楚生",
-      "onboard_time": 1749821487,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 697621,
       "num": 697621,
       "word": "中餐厅9收官",
@@ -1971,6 +2003,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 673209,
+      "num": 673209,
+      "word": "85岁妻子没上进心93岁男子起诉离婚",
+      "onboard_time": 1749820466,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 672515,
       "num": 672515,
       "word": "微博电影之夜红毯",
@@ -1993,14 +2033,6 @@
       "onboard_time": 1749434300,
       "rank": 13,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 662466,
-      "num": 492549,
-      "word": "难听",
-      "onboard_time": 1749821186,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 660381,
@@ -2233,6 +2265,14 @@
       "onboard_time": 1749816201,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 616020,
+      "num": 616020,
+      "word": "调查组逐一核查罗帅宇事件1281页材料",
+      "onboard_time": 1749823648,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 614436,
@@ -3411,6 +3451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438644,
+      "num": 611374,
+      "word": "湘雅二院涉事科室主任等4人被问责",
+      "onboard_time": 1749823527,
+      "rank": 7,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 437984,
       "num": 437984,
       "word": "盗版LABUBU丑得很抽象",
@@ -3737,6 +3785,14 @@
       "onboard_time": 1749609140,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 410744,
+      "num": 410744,
+      "word": "罗帅宇家属称已从医院拿到85.3万补偿",
+      "onboard_time": 1749824367,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410139,
@@ -4153,6 +4209,14 @@
       "onboard_time": 1749542302,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370279,
+      "num": 613519,
+      "word": "警方未在罗帅宇电脑发现举报材料文件",
+      "onboard_time": 1749823107,
+      "rank": 6,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 370089,
@@ -4707,6 +4771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334053,
+      "num": 334053,
+      "word": "陈楚生好嗨",
+      "onboard_time": 1749822509,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333995,
       "num": 525596,
       "word": "游客被围殴文旅局背锅不如严打暴行",
@@ -4993,14 +5065,6 @@
       "onboard_time": 1749771439,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 310626,
-      "num": 540657,
-      "word": "85岁妻子没上进心93岁男子起诉离婚",
-      "onboard_time": 1749820466,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309620,
@@ -5435,6 +5499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 287658,
+      "num": 287658,
+      "word": "26岁IT女每天喝冰美式子宫长满肉芽",
+      "onboard_time": 1749823887,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287572,
       "num": 433548,
       "word": "马嘉祺说被揭榜挑战很荣幸",
@@ -5745,6 +5817,14 @@
       "onboard_time": 1749369500,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 272765,
+      "num": 273936,
+      "word": "恋与深空 偷跑",
+      "onboard_time": 1749822267,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 272505,
@@ -6667,6 +6747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235289,
+      "num": 265676,
+      "word": "全职妈妈回应带娃长住五星酒店",
+      "onboard_time": 1749822871,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235166,
       "num": 235166,
       "word": "美国将取消四国移民合法身份",
@@ -6849,14 +6937,6 @@
       "onboard_time": 1749815242,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 230157,
-      "num": 273936,
-      "word": "恋与深空 偷跑",
-      "onboard_time": 1749822267,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 229965,
@@ -7187,6 +7267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 222322,
+      "num": 588575,
+      "word": "黄渤抽出了朱一龙的人生照片",
+      "onboard_time": 1749824129,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222298,
       "num": 222298,
       "word": "南通队队长父亲卖上海4套房搞青训",
@@ -7233,6 +7321,14 @@
       "onboard_time": 1749784461,
       "rank": 45,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 220719,
+      "num": 220719,
+      "word": "在歌手看到杨迪了",
+      "onboard_time": 1749822871,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 220603,
@@ -7739,6 +7835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208988,
+      "num": 208988,
+      "word": "孙楠 真唱",
+      "onboard_time": 1749824250,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208761,
       "num": 208761,
       "word": "你好西林小姐",
@@ -7937,6 +8041,14 @@
       "onboard_time": 1749356061,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205640,
+      "num": 205640,
+      "word": "再见深海",
+      "onboard_time": 1749824188,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 205549,
@@ -9515,14 +9627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185711,
-      "num": 185711,
-      "word": "陈楚生好嗨",
-      "onboard_time": 1749822509,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185683,
       "num": 189987,
       "word": "王一博泡面头",
@@ -10491,6 +10595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172252,
+      "num": 172252,
+      "word": "避雷柯南光腿神器",
+      "onboard_time": 1749822809,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172208,
       "num": 172208,
       "word": "台湾网红馆长大陆直播游感受人情味",
@@ -10513,6 +10625,14 @@
       "onboard_time": 1749722783,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171878,
+      "num": 171878,
+      "word": "狼队对战DYG",
+      "onboard_time": 1749824430,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 171855,
@@ -10857,6 +10977,14 @@
       "onboard_time": 1749779541,
       "rank": 49,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 168239,
+      "num": 610145,
+      "word": "未收到过罗某宇对刘翔峰的举报",
+      "onboard_time": 1749824250,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 168223,
@@ -12081,6 +12209,14 @@
       "onboard_time": 1749432261,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156492,
+      "num": 576870,
+      "word": "调查组称多次与罗帅宇家属沟通被拒",
+      "onboard_time": 1749824488,
+      "rank": 21,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 156490,
@@ -16324,7 +16460,7 @@
     },
     {
       "raw_hot": 114474,
-      "num": 529775,
+      "num": 570832,
       "word": "丁程鑫LV红毯look",
       "onboard_time": 1749819986,
       "rank": 42,
@@ -16505,6 +16641,14 @@
       "onboard_time": 1749805762,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112850,
+      "num": 584165,
+      "word": "官方通报罗帅宇生前房间无打斗痕迹",
+      "onboard_time": 1749823229,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 112847,
@@ -16977,6 +17121,14 @@
       "onboard_time": 1749543381,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104292,
+      "num": 596296,
+      "word": "官方回应湘雅二院被质疑洗黑钱分赃款",
+      "onboard_time": 1749824367,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 104101,
@@ -18211,6 +18363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82734,
+      "num": 219799,
+      "word": "郑钦文vs拉杜卡努",
+      "onboard_time": 1749824609,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82593,
       "num": 166898,
       "word": "这一幕吓坏美国记者",
@@ -18683,6 +18843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 72862,
+      "num": 581876,
+      "word": "小狗遭未牵绳大狗撕咬应激咬伤主人",
+      "onboard_time": 1749823349,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72700,
       "num": 299351,
       "word": "洛杉矶海军陆战队人数是山火时的4倍",
@@ -18872,6 +19040,14 @@
       "word": "张家界两溶洞清理垃圾51吨",
       "onboard_time": 1749386842,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69391,
+      "num": 248654,
+      "word": "罗帅宇家属称已拿到医院补偿",
+      "onboard_time": 1749824668,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -19857,6 +20033,14 @@
       "onboard_time": 1749458961,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53800,
+      "num": 594702,
+      "word": "揭秘疑似骗暑假工抽血浆公司",
+      "onboard_time": 1749823827,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 53674,
@@ -21073,6 +21257,14 @@
       "onboard_time": 1749392482,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35508,
+      "num": 170705,
+      "word": "夏以昼昼有所思",
+      "onboard_time": 1749824488,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 35453,
