@@ -1,6 +1,6 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749799536536,
+  "endTime": 1749800407504,
   "band_list": [
     {
       "raw_hot": 15414358,
@@ -99,11 +99,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1421763,
-      "num": 1421763,
+      "raw_hot": 1601802,
+      "num": 1601802,
       "word": "罗帅宇生前聊天记录曝光",
       "onboard_time": 1749795083,
       "rank": 6,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1460340,
+      "num": 1460340,
+      "word": "罗帅宇父亲说有人想用1500万封口",
+      "onboard_time": 1749797302,
+      "rank": 28,
       "category": "舆论监督"
     },
     {
@@ -129,14 +137,6 @@
       "onboard_time": 1749784340,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1131512,
-      "num": 1131512,
-      "word": "罗帅宇父亲说有人想用1500万封口",
-      "onboard_time": 1749797302,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1129904,
@@ -235,6 +235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 628578,
+      "num": 483098,
+      "word": "湖南成立罗帅宇事件联合调查组",
+      "onboard_time": 1749797842,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 594641,
       "num": 594641,
       "word": "尚公主 孟子义李昀锐",
@@ -297,14 +305,6 @@
       "onboard_time": 1749741081,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 502481,
-      "num": 299338,
-      "word": "湖南成立罗帅宇事件联合调查组",
-      "onboard_time": 1749797842,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 493031,
@@ -451,6 +451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 305834,
+      "num": 440449,
+      "word": "湘雅二院曾因瞒报重大医疗纠纷被处罚",
+      "onboard_time": 1749798981,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 293670,
       "num": 461840,
       "word": "付辛博演技",
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277779,
+      "num": 277779,
+      "word": "伊朗武装部队发布一号公告",
+      "onboard_time": 1749798142,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 277622,
       "num": 277622,
       "word": "迪迪不畏迅猛龙 当然了",
@@ -483,12 +499,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 277563,
-      "num": 277563,
-      "word": "伊朗武装部队发布一号公告",
-      "onboard_time": 1749798142,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 276695,
+      "num": 476516,
+      "word": "内娱竟有让黄景瑜有弟感的男人",
+      "onboard_time": 1749797723,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 276384,
+      "num": 459556,
+      "word": "王安宇装了一车白玫瑰",
+      "onboard_time": 1749799102,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 271219,
@@ -515,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261726,
-      "num": 293542,
-      "word": "内娱竟有让黄景瑜有弟感的男人",
-      "onboard_time": 1749797723,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 260314,
+      "num": 260314,
+      "word": "艾滋女孩日记",
+      "onboard_time": 1749798623,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259638,
@@ -569,6 +593,14 @@
       "onboard_time": 1749743422,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 238428,
+      "num": 473744,
+      "word": "陈都灵 赫本风",
+      "onboard_time": 1749799762,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 237937,
@@ -635,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222554,
-      "num": 222554,
-      "word": "湘雅二院曾因瞒报重大医疗纠纷被处罚",
-      "onboard_time": 1749798981,
-      "rank": 27,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 220841,
       "num": 220841,
       "word": "大四男生一口气收8个offer年薪20万",
@@ -691,6 +715,14 @@
       "category": "互联网,动漫"
     },
     {
+      "raw_hot": 210817,
+      "num": 452686,
+      "word": "日落以后一起chagee",
+      "onboard_time": 1749798802,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210496,
       "num": 302931,
       "word": "白鹿临江仙追平了",
@@ -715,20 +747,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 206225,
+      "num": 206225,
+      "word": "宋茜ES高定",
+      "onboard_time": 1749798081,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202881,
       "num": 202881,
       "word": "陈昊宇好辣",
       "onboard_time": 1749739163,
       "rank": 15,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 201740,
-      "num": 201740,
-      "word": "宋茜ES高定",
-      "onboard_time": 1749798081,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 201460,
@@ -779,14 +811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 196424,
-      "num": 289851,
-      "word": "王安宇装了一车白玫瑰",
-      "onboard_time": 1749799102,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 194671,
       "num": 194671,
       "word": "龚俊眼角伤",
@@ -796,7 +820,7 @@
     },
     {
       "raw_hot": 191593,
-      "num": 191593,
+      "num": 465440,
       "word": "罗帅宇妈妈最新发声",
       "onboard_time": 1749797842,
       "rank": 31,
@@ -875,6 +899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 183253,
+      "num": 183253,
+      "word": "范丞丞红发",
+      "onboard_time": 1749799882,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178526,
       "num": 317510,
       "word": "淬火年代定档",
@@ -915,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174706,
+      "num": 493522,
+      "word": "罗帅宇家属称医院还未联系自己",
+      "onboard_time": 1749799280,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174660,
       "num": 174660,
       "word": "王曼昱有随时能发出下一个球的能力",
@@ -953,6 +993,14 @@
       "onboard_time": 1749795502,
       "rank": 32,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 169909,
+      "num": 169909,
+      "word": "单依纯模仿自己都只能拿第二",
+      "onboard_time": 1749799882,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 168406,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1749784401,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165693,
+      "num": 165693,
+      "word": "孟子义这好像蚊子想吸血但戳不进",
+      "onboard_time": 1749799882,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 164010,
@@ -1275,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133472,
+      "num": 133472,
+      "word": "丁禹兮直播",
+      "onboard_time": 1749799941,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131718,
       "num": 441999,
       "word": "亲属称罗帅宇父母备受打击",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1749798862,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123153,
+      "num": 123153,
+      "word": "伊以冲突",
+      "onboard_time": 1749800363,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123101,
@@ -1483,8 +1555,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 98486,
-      "num": 1519349,
+      "raw_hot": 98618,
+      "num": 1523987,
       "word": "夏天的凉席是古人严选",
       "onboard_time": 1749795023,
       "rank": 2,
@@ -1499,28 +1571,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97614,
-      "num": 287230,
-      "word": "日落以后一起chagee",
-      "onboard_time": 1749798802,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 96842,
       "num": 96842,
       "word": "李昀锐谁的妻子",
       "onboard_time": 1749745581,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96820,
-      "num": 279058,
-      "word": "罗帅宇家属称医院还未联系自己",
-      "onboard_time": 1749799280,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96180,
@@ -1545,6 +1601,14 @@
       "onboard_time": 1749792563,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94339,
+      "num": 167178,
+      "word": "女生杭州万象城遭挟制被捅数刀",
+      "onboard_time": 1749800002,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92734,
@@ -1763,14 +1827,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 64255,
-      "num": 142713,
-      "word": "艾滋女孩日记",
-      "onboard_time": 1749798623,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63790,
       "num": 63790,
       "word": "阿里离职员工说不要消费马云",
@@ -1916,7 +1972,7 @@
     },
     {
       "raw_hot": 29536,
-      "num": 160276,
+      "num": 174983,
       "word": "准大学生成国补换手机最受益人群",
       "onboard_time": 1749798142,
       "rank": 35,
@@ -2009,6 +2065,14 @@
       "onboard_time": 1749761416,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 10019,
+      "num": 444618,
+      "word": "赤藓糖醇会威胁大脑健康吗",
+      "onboard_time": 1749799941,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 3360,

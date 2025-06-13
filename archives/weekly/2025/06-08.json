@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749799536536,
+  "endTime": 1749800407504,
   "band_list": [
     {
       "raw_hot": 15414358,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1601802,
+      "num": 1601802,
+      "word": "罗帅宇生前聊天记录曝光",
+      "onboard_time": 1749795083,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1545050,
       "num": 1545050,
       "word": "爷爷不泡茶",
@@ -483,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1460340,
+      "num": 1460340,
+      "word": "罗帅宇父亲说有人想用1500万封口",
+      "onboard_time": 1749797302,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1454990,
       "num": 1454990,
       "word": "A股跳水",
@@ -505,14 +521,6 @@
       "onboard_time": 1749465260,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1421763,
-      "num": 1421763,
-      "word": "罗帅宇生前聊天记录曝光",
-      "onboard_time": 1749795083,
-      "rank": 6,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1419731,
@@ -809,14 +817,6 @@
       "onboard_time": 1749698480,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1131512,
-      "num": 1131512,
-      "word": "罗帅宇父亲说有人想用1500万封口",
-      "onboard_time": 1749797302,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1129904,
@@ -1955,6 +1955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 628578,
+      "num": 483098,
+      "word": "湖南成立罗帅宇事件联合调查组",
+      "onboard_time": 1749797842,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 627177,
       "num": 627177,
       "word": "山东政治",
@@ -2721,14 +2729,6 @@
       "onboard_time": 1749387143,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 502481,
-      "num": 299338,
-      "word": "湖南成立罗帅宇事件联合调查组",
-      "onboard_time": 1749797842,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 501775,
@@ -4755,6 +4755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 305834,
+      "num": 440449,
+      "word": "湘雅二院曾因瞒报重大医疗纠纷被处罚",
+      "onboard_time": 1749798981,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 305659,
       "num": 504864,
       "word": "酒店矿泉水瓶被灌洗发水致顾客误饮",
@@ -5227,20 +5235,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 277779,
+      "num": 277779,
+      "word": "伊朗武装部队发布一号公告",
+      "onboard_time": 1749798142,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 277622,
       "num": 277622,
       "word": "迪迪不畏迅猛龙 当然了",
       "onboard_time": 1749795862,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 277563,
-      "num": 277563,
-      "word": "伊朗武装部队发布一号公告",
-      "onboard_time": 1749798142,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 277451,
@@ -5267,12 +5275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276695,
+      "num": 476516,
+      "word": "内娱竟有让黄景瑜有弟感的男人",
+      "onboard_time": 1749797723,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276495,
       "num": 276495,
       "word": "马斯克和特朗普吵完又改口",
       "onboard_time": 1749310103,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 276384,
+      "num": 459556,
+      "word": "王安宇装了一车白玫瑰",
+      "onboard_time": 1749799102,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 276328,
@@ -5587,14 +5611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261726,
-      "num": 293542,
-      "word": "内娱竟有让黄景瑜有弟感的男人",
-      "onboard_time": 1749797723,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260508,
       "num": 260508,
       "word": "乒乓世界排名体系仍存在优化空间",
@@ -5617,6 +5633,14 @@
       "onboard_time": 1749478103,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 260314,
+      "num": 260314,
+      "word": "艾滋女孩日记",
+      "onboard_time": 1749798623,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260151,
@@ -6147,6 +6171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238428,
+      "num": 473744,
+      "word": "陈都灵 赫本风",
+      "onboard_time": 1749799762,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238423,
       "num": 238423,
       "word": "罗帅宇",
@@ -6675,14 +6707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 222554,
-      "num": 222554,
-      "word": "湘雅二院曾因瞒报重大医疗纠纷被处罚",
-      "onboard_time": 1749798981,
-      "rank": 27,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 222368,
       "num": 222368,
       "word": "韦东奕未参加高考保送到北大",
@@ -7139,6 +7163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210817,
+      "num": 452686,
+      "word": "日落以后一起chagee",
+      "onboard_time": 1749798802,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210643,
       "num": 210643,
       "word": "王楚钦领衔山东魏桥乒超四连胜",
@@ -7329,6 +7361,14 @@
       "onboard_time": 1749541041,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 206225,
+      "num": 206225,
+      "word": "宋茜ES高定",
+      "onboard_time": 1749798081,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 206099,
@@ -7649,14 +7689,6 @@
       "onboard_time": 1749512779,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 201740,
-      "num": 201740,
-      "word": "宋茜ES高定",
-      "onboard_time": 1749798081,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 201705,
@@ -8075,14 +8107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196424,
-      "num": 289851,
-      "word": "王安宇装了一车白玫瑰",
-      "onboard_time": 1749799102,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 196314,
       "num": 196314,
       "word": "广东97年小伙用40只Labubu告白",
@@ -8348,7 +8372,7 @@
     },
     {
       "raw_hot": 191593,
-      "num": 191593,
+      "num": 465440,
       "word": "罗帅宇妈妈最新发声",
       "onboard_time": 1749797842,
       "rank": 31,
@@ -8971,6 +8995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 183253,
+      "num": 183253,
+      "word": "范丞丞红发",
+      "onboard_time": 1749799882,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183212,
       "num": 183212,
       "word": "湖南卫视官博连发22条张远",
@@ -9459,6 +9491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174706,
+      "num": 493522,
+      "word": "罗帅宇家属称医院还未联系自己",
+      "onboard_time": 1749799280,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174660,
       "num": 174660,
       "word": "王曼昱有随时能发出下一个球的能力",
@@ -9907,6 +9947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169909,
+      "num": 169909,
+      "word": "单依纯模仿自己都只能拿第二",
+      "onboard_time": 1749799882,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169819,
       "num": 169819,
       "word": "把147平米的家装出了别墅感",
@@ -10281,6 +10329,14 @@
       "onboard_time": 1749772759,
       "rank": 36,
       "category": "运动健身,幽默"
+    },
+    {
+      "raw_hot": 165693,
+      "num": 165693,
+      "word": "孟子义这好像蚊子想吸血但戳不进",
+      "onboard_time": 1749799882,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 165632,
@@ -13523,6 +13579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133472,
+      "num": 133472,
+      "word": "丁禹兮直播",
+      "onboard_time": 1749799941,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133417,
       "num": 133417,
       "word": "王宁说不愿过度消耗Labubu的IP",
@@ -14425,6 +14489,14 @@
       "onboard_time": 1749798862,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123153,
+      "num": 123153,
+      "word": "伊以冲突",
+      "onboard_time": 1749800363,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123101,
@@ -16003,8 +16075,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98486,
-      "num": 1519349,
+      "raw_hot": 98618,
+      "num": 1523987,
       "word": "夏天的凉席是古人严选",
       "onboard_time": 1749795023,
       "rank": 2,
@@ -16049,14 +16121,6 @@
       "onboard_time": 1749598639,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97614,
-      "num": 287230,
-      "word": "日落以后一起chagee",
-      "onboard_time": 1749798802,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 97510,
@@ -16121,14 +16185,6 @@
       "onboard_time": 1749745581,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96820,
-      "num": 279058,
-      "word": "罗帅宇家属称医院还未联系自己",
-      "onboard_time": 1749799280,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96743,
@@ -16241,6 +16297,14 @@
       "onboard_time": 1749458242,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94339,
+      "num": 167178,
+      "word": "女生杭州万象城遭挟制被捅数刀",
+      "onboard_time": 1749800002,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94236,
@@ -17824,14 +17888,6 @@
       "word": "被司机送进湖里男生已顺利面试",
       "onboard_time": 1749532940,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64255,
-      "num": 142713,
-      "word": "艾滋女孩日记",
-      "onboard_time": 1749798623,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -20076,7 +20132,7 @@
     },
     {
       "raw_hot": 29536,
-      "num": 160276,
+      "num": 174983,
       "word": "准大学生成国补换手机最受益人群",
       "onboard_time": 1749798142,
       "rank": 35,
@@ -21625,6 +21681,14 @@
       "onboard_time": 1749563422,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10019,
+      "num": 444618,
+      "word": "赤藓糖醇会威胁大脑健康吗",
+      "onboard_time": 1749799941,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 8378,

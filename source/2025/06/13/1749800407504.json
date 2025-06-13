@@ -1,0 +1,410 @@
+{
+  "runTime": 1749800407504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9309684,
+        "num": 9309684,
+        "word": "罗帅宇 1119页文件",
+        "onboard_time": 1749787942,
+        "rank": 0,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1601802,
+        "num": 1601802,
+        "word": "罗帅宇生前聊天记录曝光",
+        "onboard_time": 1749795083,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 98618,
+        "num": 1523987,
+        "word": "夏天的凉席是古人严选",
+        "onboard_time": 1749795023,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1460979,
+        "num": 1460979,
+        "word": "湖南卫健委回应罗帅宇事件",
+        "onboard_time": 1749785901,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1460340,
+        "num": 1460340,
+        "word": "罗帅宇父亲说有人想用1500万封口",
+        "onboard_time": 1749797302,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 625999,
+        "num": 625999,
+        "word": "王朔女儿 你死屋里影响房价",
+        "onboard_time": 1749792803,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 506225,
+        "num": 506225,
+        "word": "微博电影之夜红毯",
+        "onboard_time": 1749794543,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 500896,
+        "num": 500896,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363740,
+        "num": 497428,
+        "word": "李晨899一只的labubu升值近6倍",
+        "onboard_time": 1749782001,
+        "rank": 8,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 174706,
+        "num": 493522,
+        "word": "罗帅宇家属称医院还未联系自己",
+        "onboard_time": 1749799280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766731,
+        "num": 488352,
+        "word": "湘雅二医院两年间给罗帅宇转账40多万",
+        "onboard_time": 1749736282,
+        "rank": 10,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 628578,
+        "num": 483098,
+        "word": "湖南成立罗帅宇事件联合调查组",
+        "onboard_time": 1749797842,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 276695,
+        "num": 476516,
+        "word": "内娱竟有让黄景瑜有弟感的男人",
+        "onboard_time": 1749797723,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238428,
+        "num": 473744,
+        "word": "陈都灵 赫本风",
+        "onboard_time": 1749799762,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166704,
+        "num": 465440,
+        "word": "罗帅宇妈妈最新发声",
+        "onboard_time": 1749797842,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276384,
+        "num": 459556,
+        "word": "王安宇装了一车白玫瑰",
+        "onboard_time": 1749799102,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210817,
+        "num": 452686,
+        "word": "日落以后一起chagee",
+        "onboard_time": 1749798802,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 526053,
+        "num": 449329,
+        "word": "罗帅宇家属曾称后悔没做尸检",
+        "onboard_time": 1749787644,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10019,
+        "num": 444618,
+        "word": "赤藓糖醇会威胁大脑健康吗",
+        "onboard_time": 1749799941,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 305834,
+        "num": 440449,
+        "word": "湘雅二院曾因瞒报重大医疗纠纷被处罚",
+        "onboard_time": 1749798981,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 511010,
+        "num": 433747,
+        "word": "肠道是好的 钱不到位就切掉",
+        "onboard_time": 1749788904,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430330,
+        "num": 430330,
+        "word": "到底谁在干扰罗帅宇坠亡案",
+        "onboard_time": 1749787822,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369050,
+        "num": 369050,
+        "word": "印度坠机事故中发现一名幸存者",
+        "onboard_time": 1749723563,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 360822,
+        "num": 360822,
+        "word": "湘雅二医院",
+        "onboard_time": 1749788482,
+        "rank": 23,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 292490,
+        "num": 292490,
+        "word": "素媛案凶手多次未经允许外出被拘留",
+        "onboard_time": 1749785720,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 277779,
+        "num": 277779,
+        "word": "伊朗武装部队发布一号公告",
+        "onboard_time": 1749798142,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260314,
+        "num": 260314,
+        "word": "艾滋女孩日记",
+        "onboard_time": 1749798623,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243572,
+        "num": 243572,
+        "word": "迪迪不畏迅猛龙 当然了",
+        "onboard_time": 1749795862,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 241263,
+        "num": 241263,
+        "word": "罗帅宇的举报材料被何人所删",
+        "onboard_time": 1749798023,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 238244,
+        "num": 238244,
+        "word": "伊朗核设施被炸",
+        "onboard_time": 1749782481,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233499,
+        "num": 233499,
+        "word": "花海 没上过高中",
+        "onboard_time": 1749795562,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217955,
+        "num": 217955,
+        "word": "伊朗称将严厉果断还击以色列",
+        "onboard_time": 1749786801,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206859,
+        "num": 206859,
+        "word": "迪迪不畏",
+        "onboard_time": 1749784340,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206225,
+        "num": 206225,
+        "word": "宋茜ES高定",
+        "onboard_time": 1749798081,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183253,
+        "num": 183253,
+        "word": "范丞丞红发",
+        "onboard_time": 1749799882,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22950,
+        "num": 174983,
+        "word": "准大学生成国补换手机最受益人群",
+        "onboard_time": 1749798142,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173542,
+        "num": 173542,
+        "word": "刘晓艳自曝曾2次高考失利",
+        "onboard_time": 1749796162,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169909,
+        "num": 169909,
+        "word": "单依纯模仿自己都只能拿第二",
+        "onboard_time": 1749799882,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94339,
+        "num": 167178,
+        "word": "女生杭州万象城遭挟制被捅数刀",
+        "onboard_time": 1749800002,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165693,
+        "num": 165693,
+        "word": "孟子义这好像蚊子想吸血但戳不进",
+        "onboard_time": 1749799882,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156876,
+        "num": 156876,
+        "word": "周迅 他说的是哪个男朋友",
+        "onboard_time": 1749795023,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151193,
+        "num": 151193,
+        "word": "人上班怎么可以聪明成这样",
+        "onboard_time": 1749798862,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137241,
+        "num": 137241,
+        "word": "妈妈称女儿打暑假工被骗去抽血浆",
+        "onboard_time": 1749788783,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136601,
+        "num": 136601,
+        "word": "提到肖战表现郑晓龙连连点赞",
+        "onboard_time": 1749787882,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133472,
+        "num": 133472,
+        "word": "丁禹兮直播",
+        "onboard_time": 1749799941,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130856,
+        "num": 130856,
+        "word": "猫 如何呢又能怎",
+        "onboard_time": 1749797723,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127782,
+        "num": 127782,
+        "word": "彻查罗帅宇事件还正义以光明",
+        "onboard_time": 1749786862,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 123153,
+        "num": 123153,
+        "word": "伊以冲突",
+        "onboard_time": 1749800363,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122712,
+        "num": 122712,
+        "word": "印度一客机因炸弹威胁返航泰国",
+        "onboard_time": 1749796523,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121732,
+        "num": 121732,
+        "word": "罗帅宇录音",
+        "onboard_time": 1749788181,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指明农业科技创新方向#"
+    }
+  }
+}
