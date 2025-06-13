@@ -1,7 +1,15 @@
 {
   "startTime": 1749745980925,
-  "endTime": 1749790174602,
+  "endTime": 1749792361463,
   "band_list": [
+    {
+      "raw_hot": 15414358,
+      "num": 15414358,
+      "word": "罗帅宇 1119页文件",
+      "onboard_time": 1749787942,
+      "rank": 0,
+      "category": "民生新闻,健康医疗"
+    },
     {
       "raw_hot": 7407311,
       "num": 7407311,
@@ -35,6 +43,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2062731,
+      "num": 2062731,
+      "word": "湖南卫健委回应罗帅宇事件",
+      "onboard_time": 1749785901,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2043456,
+      "num": 934985,
+      "word": "肠道是好的 钱不到位就切掉",
+      "onboard_time": 1749788904,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2012740,
       "num": 2012740,
       "word": "湛江全市停课",
@@ -51,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1727628,
+      "num": 853314,
+      "word": "湘雅二医院两年间给罗帅宇转账40多万",
+      "onboard_time": 1749736282,
+      "rank": 10,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 1654877,
       "num": 1654877,
       "word": "李晨899一只的labubu升值近6倍",
@@ -59,12 +91,12 @@
       "category": "艺人,动漫"
     },
     {
-      "raw_hot": 1392964,
-      "num": 853314,
-      "word": "湘雅二医院两年间给罗帅宇转账40多万",
-      "onboard_time": 1749736282,
-      "rank": 10,
-      "category": "民生新闻,健康医疗"
+      "raw_hot": 1615156,
+      "num": 503004,
+      "word": "湘雅二医院",
+      "onboard_time": 1749788482,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1330502,
@@ -99,14 +131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 934985,
-      "num": 934985,
-      "word": "肠道是好的 钱不到位就切掉",
-      "onboard_time": 1749788904,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 897837,
       "num": 897837,
       "word": "印度一家五口空难前留下最后自拍",
@@ -115,11 +139,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 890321,
-      "num": 890321,
-      "word": "湖南卫健委回应罗帅宇事件",
-      "onboard_time": 1749785901,
-      "rank": 7,
+      "raw_hot": 864477,
+      "num": 864477,
+      "word": "到底谁在干扰罗帅宇坠亡案",
+      "onboard_time": 1749787822,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -203,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555083,
+      "num": 555083,
+      "word": "罗帅宇家属曾称后悔没做尸检",
+      "onboard_time": 1749787644,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 547858,
       "num": 887536,
       "word": "提到肖战表现郑晓龙连连点赞",
@@ -233,14 +265,6 @@
       "onboard_time": 1749741081,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 503004,
-      "num": 503004,
-      "word": "湘雅二医院",
-      "onboard_time": 1749788482,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 493031,
@@ -307,14 +331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 391900,
-      "num": 391900,
-      "word": "到底谁在干扰罗帅宇坠亡案",
-      "onboard_time": 1749787822,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 371419,
       "num": 452010,
       "word": "李昀锐方声明",
@@ -353,14 +369,6 @@
       "onboard_time": 1749785842,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327092,
-      "num": 327092,
-      "word": "罗帅宇家属曾称后悔没做尸检",
-      "onboard_time": 1749787644,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322213,
@@ -419,7 +427,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 261308,
+      "raw_hot": 264949,
       "num": 581004,
       "word": "妈妈称女儿打暑假工被骗去抽血浆",
       "onboard_time": 1749788783,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 253687,
-      "num": 253687,
+      "num": 498349,
       "word": "广州拟全面取消限购限售限价",
       "onboard_time": 1749788241,
       "rank": 35,
@@ -491,11 +499,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 232592,
+      "num": 232592,
+      "word": "罗帅宇用生命揭开黑幕一角",
+      "onboard_time": 1749790464,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232515,
       "num": 232515,
       "word": "乘客曝印度坠机前序航班异常",
       "onboard_time": 1749741563,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230233,
+      "num": 230233,
+      "word": "别让罗帅宇医生死得不明不白",
+      "onboard_time": 1749787822,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -513,6 +537,14 @@
       "onboard_time": 1749773360,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224057,
+      "num": 496516,
+      "word": "鹿晗新歌",
+      "onboard_time": 1749791363,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 220841,
@@ -585,14 +617,6 @@
       "onboard_time": 1749739163,
       "rank": 15,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 201895,
-      "num": 201895,
-      "word": "别让罗帅宇医生死得不明不白",
-      "onboard_time": 1749787822,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201460,
@@ -803,6 +827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 159735,
+      "num": 159735,
+      "word": "刘翔峰事件不是他一人的事",
+      "onboard_time": 1749792084,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159335,
       "num": 159335,
       "word": "刘翔峰",
@@ -907,6 +939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149647,
+      "num": 152730,
+      "word": "BLACKPINK抢票 进不去",
+      "onboard_time": 1749791065,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149114,
       "num": 248880,
       "word": "沈腾马丽的游戏惩罚全是艾伦",
@@ -915,12 +955,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146818,
+      "num": 146818,
+      "word": "安成民受伤",
+      "onboard_time": 1749791603,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146756,
+      "num": 146756,
+      "word": "眼睛出现这些情况要小心干眼症",
+      "onboard_time": 1749790766,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145745,
       "num": 145745,
       "word": "罗云熙魅影神捕妆造",
       "onboard_time": 1749781043,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145237,
+      "num": 145237,
+      "word": "歌手歌单",
+      "onboard_time": 1749792323,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141993,
+      "num": 141993,
+      "word": "印度坠机幸存者手持登机牌能行走",
+      "onboard_time": 1749786382,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141097,
@@ -944,6 +1016,14 @@
       "word": "肖战回复老师",
       "onboard_time": 1749728782,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136442,
+      "num": 440771,
+      "word": "被林志玲黑色镂空裙的优雅蛊到了",
+      "onboard_time": 1749791483,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1219,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82502,
+      "num": 154078,
+      "word": "潘展乐PORT封面",
+      "onboard_time": 1749791963,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82074,
       "num": 82074,
       "word": "名侦探柯南新兰发糖",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1749722483,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78579,
+      "num": 496467,
+      "word": "辛云来湿发造型",
+      "onboard_time": 1749791785,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 78465,
@@ -1451,7 +1547,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 31338,
+      "raw_hot": 31737,
       "num": 228687,
       "word": "御酒进贡之路堪比往长安运荔枝",
       "onboard_time": 1749787942,

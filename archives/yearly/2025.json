@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749790174602,
+  "endTime": 1749792361463,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -281,6 +281,14 @@
       "onboard_time": 1743143600,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 15414358,
+      "num": 15414358,
+      "word": "罗帅宇 1119页文件",
+      "onboard_time": 1749787942,
+      "rank": 0,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 15408881,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738564112,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3423802,
-      "num": 3423802,
-      "word": "中美谈判",
-      "onboard_time": 1746877581,
-      "rank": 0,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

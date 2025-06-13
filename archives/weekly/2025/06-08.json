@@ -1,7 +1,15 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749790174602,
+  "endTime": 1749792361463,
   "band_list": [
+    {
+      "raw_hot": 15414358,
+      "num": 15414358,
+      "word": "罗帅宇 1119页文件",
+      "onboard_time": 1749787942,
+      "rank": 0,
+      "category": "民生新闻,健康医疗"
+    },
     {
       "raw_hot": 11601503,
       "num": 11601503,
@@ -243,12 +251,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2062731,
+      "num": 2062731,
+      "word": "湖南卫健委回应罗帅宇事件",
+      "onboard_time": 1749785901,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2059868,
       "num": 2059868,
       "word": "历史 高考顶流",
       "onboard_time": 1749356241,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2043456,
+      "num": 934985,
+      "word": "肠道是好的 钱不到位就切掉",
+      "onboard_time": 1749788904,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2012740,
@@ -393,6 +417,14 @@
       "onboard_time": 1749694401,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1615156,
+      "num": 503004,
+      "word": "湘雅二医院",
+      "onboard_time": 1749788482,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1613067,
@@ -1123,14 +1155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 934985,
-      "num": 934985,
-      "word": "肠道是好的 钱不到位就切掉",
-      "onboard_time": 1749788904,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 930311,
       "num": 930311,
       "word": "labubu",
@@ -1227,14 +1251,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 890321,
-      "num": 890321,
-      "word": "湖南卫健委回应罗帅宇事件",
-      "onboard_time": 1749785901,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 884921,
       "num": 884921,
       "word": "国足1比0巴林",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1749724101,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 864477,
+      "num": 864477,
+      "word": "到底谁在干扰罗帅宇坠亡案",
+      "onboard_time": 1749787822,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 864003,
@@ -2315,6 +2339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 555083,
+      "num": 555083,
+      "word": "罗帅宇家属曾称后悔没做尸检",
+      "onboard_time": 1749787644,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 552300,
       "num": 552300,
       "word": "一学期瘦了70斤生活的变化",
@@ -2657,14 +2689,6 @@
       "onboard_time": 1749387143,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 503004,
-      "num": 503004,
-      "word": "湘雅二医院",
-      "onboard_time": 1749788482,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 501775,
@@ -3571,14 +3595,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 391900,
-      "num": 391900,
-      "word": "到底谁在干扰罗帅宇坠亡案",
-      "onboard_time": 1749787822,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 391277,
       "num": 451581,
       "word": "父亲举张凌赫立牌接高考女儿",
@@ -4409,14 +4425,6 @@
       "onboard_time": 1749634762,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 327092,
-      "num": 327092,
-      "word": "罗帅宇家属曾称后悔没做尸检",
-      "onboard_time": 1749787644,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 324571,
@@ -5395,6 +5403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264949,
+      "num": 581004,
+      "word": "妈妈称女儿打暑假工被骗去抽血浆",
+      "onboard_time": 1749788783,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264923,
       "num": 264923,
       "word": "姐姐带顶流labubu花束接高考妹妹",
@@ -5489,14 +5505,6 @@
       "onboard_time": 1749319816,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261308,
-      "num": 581004,
-      "word": "妈妈称女儿打暑假工被骗去抽血浆",
-      "onboard_time": 1749788783,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260508,
@@ -5724,7 +5732,7 @@
     },
     {
       "raw_hot": 253687,
-      "num": 253687,
+      "num": 498349,
       "word": "广州拟全面取消限购限售限价",
       "onboard_time": 1749788241,
       "rank": 35,
@@ -6235,6 +6243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232592,
+      "num": 232592,
+      "word": "罗帅宇用生命揭开黑幕一角",
+      "onboard_time": 1749790464,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232310,
       "num": 232310,
       "word": "王源应援棒",
@@ -6272,6 +6288,14 @@
       "word": "南方出现焖蒸型高温",
       "onboard_time": 1749345381,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230233,
+      "num": 230233,
+      "word": "别让罗帅宇医生死得不明不白",
+      "onboard_time": 1749787822,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -6505,6 +6529,14 @@
       "onboard_time": 1749647362,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224057,
+      "num": 496516,
+      "word": "鹿晗新歌",
+      "onboard_time": 1749791363,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 224027,
@@ -7497,14 +7529,6 @@
       "onboard_time": 1749447081,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201895,
-      "num": 201895,
-      "word": "别让罗帅宇医生死得不明不白",
-      "onboard_time": 1749787822,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201832,
@@ -10627,6 +10651,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 159735,
+      "num": 159735,
+      "word": "刘翔峰事件不是他一人的事",
+      "onboard_time": 1749792084,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159602,
       "num": 192880,
       "word": "云合",
@@ -11547,6 +11579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 149647,
+      "num": 152730,
+      "word": "BLACKPINK抢票 进不去",
+      "onboard_time": 1749791065,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149630,
       "num": 149630,
       "word": "管泽元 看好WE",
@@ -11835,6 +11875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146818,
+      "num": 146818,
+      "word": "安成民受伤",
+      "onboard_time": 1749791603,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146810,
       "num": 146810,
       "word": "全运会奖牌名为同心跃",
@@ -11849,6 +11897,14 @@
       "onboard_time": 1749604699,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146756,
+      "num": 146756,
+      "word": "眼睛出现这些情况要小心干眼症",
+      "onboard_time": 1749790766,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146637,
@@ -12041,6 +12097,14 @@
       "onboard_time": 1749710302,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145237,
+      "num": 145237,
+      "word": "歌手歌单",
+      "onboard_time": 1749792323,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 145205,
@@ -12353,6 +12417,14 @@
       "onboard_time": 1749649342,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141993,
+      "num": 141993,
+      "word": "印度坠机幸存者手持登机牌能行走",
+      "onboard_time": 1749786382,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141925,
@@ -12865,6 +12937,14 @@
       "onboard_time": 1749440421,
       "rank": 43,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 136442,
+      "num": 440771,
+      "word": "被林志玲黑色镂空裙的优雅蛊到了",
+      "onboard_time": 1749791483,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 136270,
@@ -16539,6 +16619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82502,
+      "num": 154078,
+      "word": "潘展乐PORT封面",
+      "onboard_time": 1749791963,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82074,
       "num": 82074,
       "word": "名侦探柯南新兰发糖",
@@ -16737,6 +16825,14 @@
       "onboard_time": 1749704723,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 78579,
+      "num": 496467,
+      "word": "辛云来湿发造型",
+      "onboard_time": 1749791785,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 77789,
@@ -19475,6 +19571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31737,
+      "num": 228687,
+      "word": "御酒进贡之路堪比往长安运荔枝",
+      "onboard_time": 1749787942,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31673,
       "num": 1267099,
       "word": "精彩安徽AI有数",
@@ -19513,14 +19617,6 @@
       "onboard_time": 1749587414,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31338,
-      "num": 228687,
-      "word": "御酒进贡之路堪比往长安运荔枝",
-      "onboard_time": 1749787942,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31284,
