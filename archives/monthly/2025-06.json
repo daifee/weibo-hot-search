@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749901015290,
+  "endTime": 1749905224116,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1099,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1557686,
+      "num": 1557686,
+      "word": "刘宇宁 没收到过剧本",
+      "onboard_time": 1749898045,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1554999,
       "num": 1554999,
       "word": "活鸭20元一斤烤鸭为何20多元一只",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1749309983,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1270135,
-      "num": 896955,
-      "word": "刘宇宁 没收到过剧本",
-      "onboard_time": 1749898045,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 1268426,
@@ -4827,6 +4827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 628906,
+      "num": 628906,
+      "word": "43岁张亮与10岁女儿合拍杂志",
+      "onboard_time": 1749902483,
+      "rank": 4,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 628578,
       "num": 483098,
       "word": "湖南成立罗帅宇事件联合调查组",
@@ -5665,6 +5673,14 @@
       "onboard_time": 1749651565,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 571042,
+      "num": 571042,
+      "word": "退圈男演员相亲有没有市场",
+      "onboard_time": 1749901942,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 570588,
@@ -7217,6 +7233,14 @@
       "onboard_time": 1748838621,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469268,
+      "num": 469268,
+      "word": "杭州警方通报女子遭持刀挟持",
+      "onboard_time": 1749902662,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 469014,
@@ -9179,6 +9203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 376305,
+      "num": 376305,
+      "word": "杨幂身边站了两个李善德",
+      "onboard_time": 1749903322,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 376105,
       "num": 376105,
       "word": "TFBOYS为易烊千玺楔石打call",
@@ -10379,6 +10411,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 338761,
+      "num": 338761,
+      "word": "张元英剪了刘海",
+      "onboard_time": 1749904642,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 338754,
       "num": 338754,
       "word": "马丽问沈腾是不是想换搭档",
@@ -10931,6 +10971,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 319698,
+      "num": 270442,
+      "word": "李嘉格剖腹产刀疤下雨天发痒",
+      "onboard_time": 1749899901,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319694,
       "num": 319694,
       "word": "金泰亨状态",
@@ -11097,6 +11145,14 @@
       "onboard_time": 1748737399,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313248,
+      "num": 269471,
+      "word": "内娱终于有时髦剧了",
+      "onboard_time": 1749901581,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 313047,
@@ -11537,6 +11593,14 @@
       "onboard_time": 1749719541,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 304063,
+      "num": 304063,
+      "word": "以色列暗杀9名伊朗科学家",
+      "onboard_time": 1749898822,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 303815,
@@ -12675,6 +12739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276964,
+      "num": 276964,
+      "word": "苏超战报",
+      "onboard_time": 1749899542,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276695,
       "num": 476516,
       "word": "内娱竟有让黄景瑜有弟感的男人",
@@ -13003,6 +13075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269293,
+      "num": 269293,
+      "word": "章子怡短发",
+      "onboard_time": 1749899122,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 269264,
       "num": 250566,
       "word": "男子刀片嗓以为感冒竟差点丧命",
@@ -13041,14 +13121,6 @@
       "onboard_time": 1749389123,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268395,
-      "num": 268395,
-      "word": "章子怡短发",
-      "onboard_time": 1749899122,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 268229,
@@ -13137,6 +13209,14 @@
       "onboard_time": 1749469102,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 266338,
+      "num": 350447,
+      "word": "中国三航母时代即将到来",
+      "onboard_time": 1749898582,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 266111,
@@ -13857,14 +13937,6 @@
       "onboard_time": 1749818183,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253565,
-      "num": 350447,
-      "word": "中国三航母时代即将到来",
-      "onboard_time": 1749898582,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 253530,
@@ -14969,6 +15041,14 @@
       "onboard_time": 1749825866,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233742,
+      "num": 233742,
+      "word": "如何呢又能怎",
+      "onboard_time": 1749903263,
+      "rank": 26,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 233638,
@@ -16539,14 +16619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216164,
-      "num": 216164,
-      "word": "李嘉格剖腹产刀疤下雨天发痒",
-      "onboard_time": 1749899901,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216121,
       "num": 216121,
       "word": "男子杀害前女友哥嫂案二审开庭",
@@ -17987,14 +18059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204804,
-      "num": 204804,
-      "word": "苏超战报",
-      "onboard_time": 1749899542,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204790,
       "num": 268800,
       "word": "中韩互为重要近邻和合作伙伴",
@@ -19067,6 +19131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 198346,
+      "num": 198346,
+      "word": "丁程鑫道歉道成谢娜微博铁粉了",
+      "onboard_time": 1749900743,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198279,
       "num": 198279,
       "word": "被临江仙做局做怕了",
@@ -19232,6 +19304,14 @@
       "word": "月亮",
       "onboard_time": 1749565462,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197399,
+      "num": 197399,
+      "word": "万象城",
+      "onboard_time": 1749904400,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -19745,6 +19825,14 @@
       "onboard_time": 1749424641,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193571,
+      "num": 193571,
+      "word": "刘浩存人格分裂式演技",
+      "onboard_time": 1749904342,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 193489,
@@ -20384,14 +20472,6 @@
       "word": "教你怎么处理小孩子爱玩手机",
       "onboard_time": 1749306203,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 189993,
-      "num": 189993,
-      "word": "丁程鑫道歉道成谢娜微博铁粉了",
-      "onboard_time": 1749900743,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -22347,6 +22427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178342,
+      "num": 178342,
+      "word": "看出来王俊凯这次演爽了",
+      "onboard_time": 1749902782,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178268,
       "num": 214880,
       "word": "苏新皓开箱权志龙小卡",
@@ -22361,6 +22449,14 @@
       "onboard_time": 1749701782,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 178200,
+      "num": 273089,
+      "word": "黄子韬现场发火中断考核",
+      "onboard_time": 1749904522,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 178154,
@@ -22505,6 +22601,14 @@
       "onboard_time": 1749208100,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177000,
+      "num": 177000,
+      "word": "曝披荆斩棘初舞台歌单",
+      "onboard_time": 1749901581,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 176987,
@@ -22729,6 +22833,14 @@
       "onboard_time": 1749621741,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175111,
+      "num": 175111,
+      "word": "以色列",
+      "onboard_time": 1749905002,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175101,
@@ -23563,6 +23675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170311,
+      "num": 170311,
+      "word": "王昶为宁波大学打call",
+      "onboard_time": 1749904342,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170280,
       "num": 170280,
       "word": "时代少年团互谈西游惊艳造型",
@@ -24315,14 +24435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166831,
-      "num": 166831,
-      "word": "以色列暗杀9名伊朗科学家",
-      "onboard_time": 1749898822,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 166723,
       "num": 166723,
       "word": "人生其实没必要那么死板的",
@@ -24843,6 +24955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164282,
+      "num": 164282,
+      "word": "cravity预告",
+      "onboard_time": 1749904943,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164251,
       "num": 164251,
       "word": "这些居然都是周奇",
@@ -25201,6 +25321,14 @@
       "onboard_time": 1749894264,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162022,
+      "num": 162022,
+      "word": "柯淳杨肸子爱情戏甜度超标",
+      "onboard_time": 1749903082,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 161869,
@@ -25993,6 +26121,14 @@
       "onboard_time": 1749458541,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157819,
+      "num": 157819,
+      "word": "王俊凯和刘德华合照偷笑",
+      "onboard_time": 1749903802,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 157713,
@@ -27627,6 +27763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149507,
+      "num": 149507,
+      "word": "四六级结束刘晓艳发文",
+      "onboard_time": 1749905182,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 149369,
       "num": 285196,
       "word": "2025高考",
@@ -29099,6 +29243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143018,
+      "num": 457697,
+      "word": "又有两名伊朗高官遭袭身亡",
+      "onboard_time": 1749904102,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142971,
       "num": 142971,
       "word": "湖南卫视618开心夜阵容官宣",
@@ -29859,6 +30011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139805,
+      "num": 139805,
+      "word": "小徐去考第7次英语四六级了",
+      "onboard_time": 1749901222,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139769,
       "num": 139769,
       "word": "央视镜头下的张新成",
@@ -30587,6 +30747,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 136433,
+      "num": 136433,
+      "word": "我们已经到了不能生气的年龄",
+      "onboard_time": 1749902362,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136357,
       "num": 136357,
       "word": "曹公公叫陆悯",
@@ -31059,6 +31227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134644,
+      "num": 134644,
+      "word": "AG首发Cat",
+      "onboard_time": 1749903383,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134638,
       "num": 134638,
       "word": "梁家辉60多岁了气血咋还这么足",
@@ -31409,6 +31585,14 @@
       "onboard_time": 1749724583,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133149,
+      "num": 133149,
+      "word": "龙存",
+      "onboard_time": 1749903201,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 133045,
@@ -42771,6 +42955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63405,
+      "num": 271854,
+      "word": "电影节红毯的最佳时尚单品",
+      "onboard_time": 1749904463,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63297,
       "num": 233154,
       "word": "景区回应女孩遭男子水枪攻击致失明",
@@ -44945,6 +45137,14 @@
       "onboard_time": 1749647962,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47946,
+      "num": 166885,
+      "word": "大藤沙月2比3袁嘉楠",
+      "onboard_time": 1749905061,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 47892,
@@ -49867,6 +50067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22141,
+      "num": 197834,
+      "word": "沈逸谈多名伊朗高级官员被暗杀",
+      "onboard_time": 1749904342,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22077,
       "num": 159195,
       "word": "岳云鹏新剧搞人心态是骨干级别",
@@ -51904,6 +52112,14 @@
       "word": "人民日报独家对话张桂梅",
       "onboard_time": 1749672973,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10747,
+      "num": 165418,
+      "word": "开奖直播现场等你来找茬儿",
+      "onboard_time": 1749902483,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

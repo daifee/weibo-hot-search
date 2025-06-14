@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749901015290,
+  "endTime": 1749905224116,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1557686,
+      "num": 1557686,
+      "word": "刘宇宁 没收到过剧本",
+      "onboard_time": 1749898045,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1487696,
       "num": 1487696,
       "word": "国足再弱也轮不到业余足球挑战",
@@ -113,14 +121,6 @@
       "onboard_time": 1749894743,
       "rank": 9,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 1270135,
-      "num": 896955,
-      "word": "刘宇宁 没收到过剧本",
-      "onboard_time": 1749898045,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 1121660,
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 628906,
+      "num": 628906,
+      "word": "43岁张亮与10岁女儿合拍杂志",
+      "onboard_time": 1749902483,
+      "rank": 4,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 607393,
       "num": 607393,
       "word": "婚礼抛labubu",
@@ -376,6 +384,14 @@
       "word": "小沈阳女儿讲韩语流利标准",
       "onboard_time": 1749878302,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 571042,
+      "num": 571042,
+      "word": "退圈男演员相亲有没有市场",
+      "onboard_time": 1749901942,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -481,6 +497,14 @@
       "onboard_time": 1749828863,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 469268,
+      "num": 469268,
+      "word": "杭州警方通报女子遭持刀挟持",
+      "onboard_time": 1749902662,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 463809,
@@ -603,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 376305,
+      "num": 376305,
+      "word": "杨幂身边站了两个李善德",
+      "onboard_time": 1749903322,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 375746,
       "num": 375746,
       "word": "邓超有个事放在我心里快一个月了",
@@ -723,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 338761,
+      "num": 338761,
+      "word": "张元英剪了刘海",
+      "onboard_time": 1749904642,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 334220,
       "num": 352381,
       "word": "倪妮玫瑰高定",
@@ -731,12 +771,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 319698,
+      "num": 270442,
+      "word": "李嘉格剖腹产刀疤下雨天发痒",
+      "onboard_time": 1749899901,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315788,
       "num": 366768,
       "word": "酱园弄",
       "onboard_time": 1749894984,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 313248,
+      "num": 269471,
+      "word": "内娱终于有时髦剧了",
+      "onboard_time": 1749901581,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 312784,
@@ -761,6 +817,14 @@
       "onboard_time": 1749856698,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304063,
+      "num": 304063,
+      "word": "以色列暗杀9名伊朗科学家",
+      "onboard_time": 1749898822,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 301030,
@@ -843,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276964,
+      "num": 276964,
+      "word": "苏超战报",
+      "onboard_time": 1749899542,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275563,
       "num": 275563,
       "word": "以闪亮之名",
@@ -883,8 +955,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 268395,
-      "num": 268395,
+      "raw_hot": 269293,
+      "num": 269293,
       "word": "章子怡短发",
       "onboard_time": 1749899122,
       "rank": 23,
@@ -905,6 +977,14 @@
       "onboard_time": 1749820646,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266338,
+      "num": 350447,
+      "word": "中国三航母时代即将到来",
+      "onboard_time": 1749898582,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 265003,
@@ -937,14 +1017,6 @@
       "onboard_time": 1749897202,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 253565,
-      "num": 350447,
-      "word": "中国三航母时代即将到来",
-      "onboard_time": 1749898582,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 252850,
@@ -1025,6 +1097,14 @@
       "onboard_time": 1749897566,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233742,
+      "num": 233742,
+      "word": "如何呢又能怎",
+      "onboard_time": 1749903263,
+      "rank": 26,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 231193,
@@ -1113,14 +1193,6 @@
       "onboard_time": 1749874402,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 216164,
-      "num": 216164,
-      "word": "李嘉格剖腹产刀疤下雨天发痒",
-      "onboard_time": 1749899901,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 211519,
@@ -1227,14 +1299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204804,
-      "num": 204804,
-      "word": "苏超战报",
-      "onboard_time": 1749899542,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203842,
       "num": 203842,
       "word": "男子2000元卖掉前女友30只布偶猫",
@@ -1307,12 +1371,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198346,
+      "num": 198346,
+      "word": "丁程鑫道歉道成谢娜微博铁粉了",
+      "onboard_time": 1749900743,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198050,
       "num": 306971,
       "word": "陈妍希看孙燕姿演唱会哭了半场",
       "onboard_time": 1749871161,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197399,
+      "num": 197399,
+      "word": "万象城",
+      "onboard_time": 1749904400,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196410,
@@ -1337,6 +1417,14 @@
       "onboard_time": 1749896662,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193571,
+      "num": 193571,
+      "word": "刘浩存人格分裂式演技",
+      "onboard_time": 1749904342,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 192594,
@@ -1377,14 +1465,6 @@
       "onboard_time": 1749830183,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189993,
-      "num": 189993,
-      "word": "丁程鑫道歉道成谢娜微博铁粉了",
-      "onboard_time": 1749900743,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 189989,
@@ -1507,6 +1587,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178342,
+      "num": 178342,
+      "word": "看出来王俊凯这次演爽了",
+      "onboard_time": 1749902782,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 178200,
+      "num": 273089,
+      "word": "黄子韬现场发火中断考核",
+      "onboard_time": 1749904522,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177000,
+      "num": 177000,
+      "word": "曝披荆斩棘初舞台歌单",
+      "onboard_time": 1749901581,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176880,
       "num": 176880,
       "word": "高考生开始人生中最幸福的暑假",
@@ -1537,6 +1641,14 @@
       "onboard_time": 1749893842,
       "rank": 47,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 175111,
+      "num": 175111,
+      "word": "以色列",
+      "onboard_time": 1749905002,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174667,
@@ -1627,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170311,
+      "num": 170311,
+      "word": "王昶为宁波大学打call",
+      "onboard_time": 1749904342,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168573,
       "num": 168573,
       "word": "一场苏超掀起特产争夺战",
@@ -1641,14 +1761,6 @@
       "onboard_time": 1749860600,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166831,
-      "num": 166831,
-      "word": "以色列暗杀9名伊朗科学家",
-      "onboard_time": 1749898822,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 166344,
@@ -1707,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164282,
+      "num": 164282,
+      "word": "cravity预告",
+      "onboard_time": 1749904943,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162909,
       "num": 162909,
       "word": "T1战胜KT",
@@ -1729,6 +1849,14 @@
       "onboard_time": 1749894264,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162022,
+      "num": 162022,
+      "word": "柯淳杨肸子爱情戏甜度超标",
+      "onboard_time": 1749903082,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 159729,
@@ -1769,6 +1897,14 @@
       "onboard_time": 1749882082,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 157819,
+      "num": 157819,
+      "word": "王俊凯和刘德华合照偷笑",
+      "onboard_time": 1749903802,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 156828,
@@ -1825,6 +1961,14 @@
       "onboard_time": 1749892832,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 149507,
+      "num": 149507,
+      "word": "四六级结束刘晓艳发文",
+      "onboard_time": 1749905182,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 148497,
@@ -1899,6 +2043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144340,
+      "num": 144340,
+      "word": "临江仙热度",
+      "onboard_time": 1749905123,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144057,
       "num": 144057,
       "word": "关注以色列伊朗局势",
@@ -1913,6 +2065,14 @@
       "onboard_time": 1749890720,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143018,
+      "num": 457697,
+      "word": "又有两名伊朗高官遭袭身亡",
+      "onboard_time": 1749904102,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142505,
@@ -1963,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139805,
+      "num": 139805,
+      "word": "小徐去考第7次英语四六级了",
+      "onboard_time": 1749901222,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139669,
       "num": 350655,
       "word": "王俊凯直播说贵州话",
@@ -1995,6 +2163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136433,
+      "num": 136433,
+      "word": "我们已经到了不能生气的年龄",
+      "onboard_time": 1749902362,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135915,
       "num": 135915,
       "word": "苏炳添100米止步小组赛",
@@ -2019,12 +2195,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134644,
+      "num": 134644,
+      "word": "AG首发Cat",
+      "onboard_time": 1749903383,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134119,
       "num": 134119,
       "word": "邓超黄明昊王安宇都领到了荔枝",
       "onboard_time": 1749831922,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133149,
+      "num": 133149,
+      "word": "龙存",
+      "onboard_time": 1749903201,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 132829,
@@ -2771,6 +2963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63405,
+      "num": 271854,
+      "word": "电影节红毯的最佳时尚单品",
+      "onboard_time": 1749904463,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63322,
       "num": 67264,
       "word": "一个腰不好一个生不了",
@@ -2912,6 +3112,14 @@
       "word": "世俱杯倒计时1天",
       "onboard_time": 1749881481,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47946,
+      "num": 166885,
+      "word": "大藤沙月2比3袁嘉楠",
+      "onboard_time": 1749905061,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -3283,6 +3491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22141,
+      "num": 197834,
+      "word": "沈逸谈多名伊朗高级官员被暗杀",
+      "onboard_time": 1749904342,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21813,
       "num": 1073183,
       "word": "数里行间感知经济活力",
@@ -3417,6 +3633,14 @@
       "onboard_time": 1749841334,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 10747,
+      "num": 165418,
+      "word": "开奖直播现场等你来找茬儿",
+      "onboard_time": 1749902483,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10725,
