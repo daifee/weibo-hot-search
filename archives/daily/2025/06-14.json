@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749878765673,
+  "endTime": 1749879799495,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -105,6 +105,14 @@
       "onboard_time": 1749872541,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 847659,
+      "num": 847659,
+      "word": "疑似沈梦辰看到马嘉祺难听的反应",
+      "onboard_time": 1749877583,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 779247,
@@ -275,6 +283,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 452731,
+      "num": 452731,
+      "word": "小沈阳女儿讲韩语流利标准",
+      "onboard_time": 1749878302,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451446,
       "num": 280305,
       "word": "男子按摩后下身不适索赔5万",
@@ -297,14 +313,6 @@
       "onboard_time": 1749876141,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422075,
-      "num": 422075,
-      "word": "疑似沈梦辰看到马嘉祺难听的反应",
-      "onboard_time": 1749877583,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 416871,
@@ -339,8 +347,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391565,
-      "num": 391565,
+      "raw_hot": 392255,
+      "num": 392255,
       "word": "伊军高层被骗聚集开会司令等被炸死",
       "onboard_time": 1749872902,
       "rank": 39,
@@ -379,7 +387,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 351719,
+      "raw_hot": 356440,
       "num": 428049,
       "word": "刘宇宁眷思量",
       "onboard_time": 1749875722,
@@ -419,11 +427,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 334101,
+      "num": 423163,
+      "word": "伊朗公布以F35残骸图系AI图",
+      "onboard_time": 1749877701,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 312784,
       "num": 312784,
       "word": "广东一男子强拖女子下车后驾车离开",
       "onboard_time": 1749876022,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307456,
+      "num": 380442,
+      "word": "杭州遭挟持捅刀女子还原事发经过",
+      "onboard_time": 1749877401,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -457,6 +481,14 @@
       "onboard_time": 1749847995,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 290056,
+      "num": 307552,
+      "word": "亲子鉴定师10年鉴定非亲生率约22%",
+      "onboard_time": 1749878660,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288433,
@@ -547,6 +579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 263504,
+      "num": 263504,
+      "word": "央视曝光快递放门口了新骗局",
+      "onboard_time": 1749877461,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260683,
       "num": 260683,
       "word": "六级",
@@ -635,14 +675,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 223842,
-      "num": 223842,
-      "word": "央视曝光快递放门口了新骗局",
-      "onboard_time": 1749877461,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222683,
       "num": 222683,
       "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
@@ -659,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221062,
+      "num": 308644,
+      "word": "马丽对刘耀文说妈在这呢",
+      "onboard_time": 1749879202,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217470,
       "num": 217470,
       "word": "四级段落匹配",
@@ -673,6 +713,14 @@
       "onboard_time": 1749858319,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206451,
+      "num": 268434,
+      "word": "鹿晗西安演唱会官宣",
+      "onboard_time": 1749879621,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 203682,
@@ -721,6 +769,14 @@
       "onboard_time": 1749871161,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196410,
+      "num": 267598,
+      "word": "眷思量",
+      "onboard_time": 1749878602,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 194603,
@@ -811,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180945,
-      "num": 180945,
-      "word": "眷思量",
-      "onboard_time": 1749878602,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180379,
       "num": 180379,
       "word": "黄仁勋回应任正非最新讲话",
@@ -859,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170897,
+      "num": 170897,
+      "word": "邓超让大家今天别看五哈",
+      "onboard_time": 1749879562,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170784,
       "num": 180724,
       "word": "张雅琪真的把卫兰照顾的很好",
@@ -873,6 +929,14 @@
       "onboard_time": 1749860600,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166277,
+      "num": 376964,
+      "word": "伊朗向以色列发射第五轮导弹",
+      "onboard_time": 1749877583,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 165828,
@@ -891,28 +955,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 160104,
-      "num": 287067,
-      "word": "亲子鉴定师10年鉴定非亲生率约22%",
-      "onboard_time": 1749878660,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159729,
       "num": 177916,
       "word": "田柾国帽子",
       "onboard_time": 1749856878,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156267,
-      "num": 376964,
-      "word": "伊朗向以色列发射第五轮导弹",
-      "onboard_time": 1749877583,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155506,
@@ -963,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146081,
+      "num": 146081,
+      "word": "中国等多国代表谴责以色列对伊朗发动袭击",
+      "onboard_time": 1749879621,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 145050,
       "num": 145050,
       "word": "王菲 光之翼",
@@ -1003,12 +1059,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 141577,
-      "num": 373348,
-      "word": "小沈阳女儿讲韩语流利标准",
-      "onboard_time": 1749878302,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 141660,
+      "num": 141660,
+      "word": "武大通报职工子女驾车逼停骑行学生",
+      "onboard_time": 1749879681,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141260,
@@ -1251,14 +1307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 112731,
-      "num": 423163,
-      "word": "伊朗公布以F35残骸图系AI图",
-      "onboard_time": 1749877701,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 111101,
       "num": 111101,
       "word": "NBA总决赛",
@@ -1361,14 +1409,6 @@
       "onboard_time": 1749864561,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 95690,
-      "num": 380442,
-      "word": "杭州遭挟持捅刀女子还原事发经过",
-      "onboard_time": 1749877401,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94349,
@@ -1499,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66807,
+      "num": 309296,
+      "word": "罗马仕曾召回3000多个充电宝",
+      "onboard_time": 1749878541,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66034,
       "num": 66034,
       "word": "微博电影之夜",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1749850094,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64398,
+      "num": 295256,
+      "word": "伊朗这次真的危险了吗",
+      "onboard_time": 1749878602,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63475,
@@ -1603,14 +1659,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 53797,
-      "num": 309296,
-      "word": "罗马仕曾召回3000多个充电宝",
-      "onboard_time": 1749878541,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47422,
       "num": 146400,
       "word": "河道钞票系精神障碍患者发病时丢弃",
@@ -1635,11 +1683,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44736,
-      "num": 295256,
-      "word": "伊朗这次真的危险了吗",
-      "onboard_time": 1749878602,
-      "rank": 31,
+      "raw_hot": 43863,
+      "num": 189220,
+      "word": "金灿荣称伊朗的筛子堵不住了",
+      "onboard_time": 1749878720,
+      "rank": 40,
       "category": "国际时政"
     },
     {
@@ -1657,6 +1705,14 @@
       "onboard_time": 1749842414,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39159,
+      "num": 422344,
+      "word": "扁担女孩想赚钱带家人看外面的风景",
+      "onboard_time": 1749878061,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36686,
@@ -1681,14 +1737,6 @@
       "onboard_time": 1749874341,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 33781,
-      "num": 189220,
-      "word": "金灿荣称伊朗的筛子堵不住了",
-      "onboard_time": 1749878720,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33486,
@@ -1835,14 +1883,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 21430,
-      "num": 422344,
-      "word": "扁担女孩想赚钱带家人看外面的风景",
-      "onboard_time": 1749878061,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20970,
       "num": 281463,
       "word": "伊朗遭以色列空袭后会采取哪些手段",
@@ -1851,7 +1891,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16270,
+      "raw_hot": 17041,
       "num": 365538,
       "word": "雨天开车除了开雨刮器还有哪些技巧",
       "onboard_time": 1749877941,
@@ -1897,6 +1937,14 @@
       "onboard_time": 1749826525,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14050,
+      "num": 166294,
+      "word": "哪些不良作息会增加胃癌风险",
+      "onboard_time": 1749879740,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11781,

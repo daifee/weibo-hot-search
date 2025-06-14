@@ -1,0 +1,410 @@
+{
+  "runTime": 1749879799495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1641414,
+        "num": 1641414,
+        "word": "迪士尼 私联",
+        "onboard_time": 1749870381,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 879549,
+        "num": 879549,
+        "word": "24岁胃癌博主回应不良作息习惯",
+        "onboard_time": 1749871281,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41757,
+        "num": 860573,
+        "word": "中国文物和大美山河太震撼了",
+        "onboard_time": 1749872061,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1061369,
+        "num": 857193,
+        "word": "曾毅自曝曾脚踹女员工",
+        "onboard_time": 1749857899,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 847659,
+        "num": 847659,
+        "word": "疑似沈梦辰看到马嘉祺难听的反应",
+        "onboard_time": 1749877583,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589259,
+        "num": 589259,
+        "word": "四级",
+        "onboard_time": 1749866060,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 452731,
+        "num": 452731,
+        "word": "小沈阳女儿讲韩语流利标准",
+        "onboard_time": 1749878302,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431749,
+        "num": 431749,
+        "word": "原来上征信和影响贷款不是一回事",
+        "onboard_time": 1749876141,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392255,
+        "num": 392255,
+        "word": "伊军高层被骗聚集开会司令等被炸死",
+        "onboard_time": 1749872902,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39159,
+        "num": 376909,
+        "word": "扁担女孩想赚钱带家人看外面的风景",
+        "onboard_time": 1749878061,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374772,
+        "num": 374772,
+        "word": "四级作文",
+        "onboard_time": 1749869062,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 356440,
+        "num": 356440,
+        "word": "刘宇宁眷思量",
+        "onboard_time": 1749875722,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340422,
+        "num": 340422,
+        "word": "贺峻霖考四级",
+        "onboard_time": 1749873801,
+        "rank": 12,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 334101,
+        "num": 334101,
+        "word": "伊朗公布以F35残骸图系AI图",
+        "onboard_time": 1749877701,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328237,
+        "num": 328237,
+        "word": "四级答案",
+        "onboard_time": 1749872541,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 323558,
+        "num": 323558,
+        "word": "孟子义聊生理期大大方方的",
+        "onboard_time": 1749862281,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310121,
+        "num": 310121,
+        "word": "伊朗15分钟向以色列进行3次导弹齐射",
+        "onboard_time": 1749875120,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221062,
+        "num": 308644,
+        "word": "马丽对刘耀文说妈在这呢",
+        "onboard_time": 1749879202,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66807,
+        "num": 307715,
+        "word": "罗马仕曾召回3000多个充电宝",
+        "onboard_time": 1749878541,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290056,
+        "num": 307552,
+        "word": "亲子鉴定师10年鉴定非亲生率约22%",
+        "onboard_time": 1749878660,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307456,
+        "num": 307456,
+        "word": "杭州遭挟持捅刀女子还原事发经过",
+        "onboard_time": 1749877401,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299109,
+        "num": 299109,
+        "word": "伊朗向以色列发射约150枚导弹",
+        "onboard_time": 1749856280,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269164,
+        "num": 269164,
+        "word": "偶遇NewJeans",
+        "onboard_time": 1749877640,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268713,
+        "num": 268713,
+        "word": "广东一男子强拖女子下车后驾车离开",
+        "onboard_time": 1749876022,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206451,
+        "num": 268434,
+        "word": "鹿晗西安演唱会官宣",
+        "onboard_time": 1749879621,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196410,
+        "num": 267598,
+        "word": "眷思量",
+        "onboard_time": 1749878602,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17041,
+        "num": 266803,
+        "word": "雨天开车除了开雨刮器还有哪些技巧",
+        "onboard_time": 1749877941,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19666,
+        "num": 265651,
+        "word": "和享界S9的微博电影之夜",
+        "onboard_time": 1749877520,
+        "rank": 27,
+        "category": "电影,汽车"
+      },
+      {
+        "raw_hot": 250720,
+        "num": 264835,
+        "word": "女子遭挟持捅20多刀隆胸假体救一命",
+        "onboard_time": 1749877283,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64398,
+        "num": 264167,
+        "word": "伊朗这次真的危险了吗",
+        "onboard_time": 1749878602,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263504,
+        "num": 263504,
+        "word": "央视曝光快递放门口了新骗局",
+        "onboard_time": 1749877461,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206223,
+        "num": 206223,
+        "word": "比起labubu我还是比较喜欢maoyeye",
+        "onboard_time": 1749877701,
+        "rank": 31,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 206102,
+        "num": 206102,
+        "word": "伊朗下跪求饶应是死路一条",
+        "onboard_time": 1749875302,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188042,
+        "num": 188042,
+        "word": "余景天得知被淘汰的反应",
+        "onboard_time": 1749875722,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179125,
+        "num": 179125,
+        "word": "单依纯 好红啊这个节目",
+        "onboard_time": 1749867260,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174091,
+        "num": 174091,
+        "word": "四级作文 梦到哪句写哪句",
+        "onboard_time": 1749872422,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170897,
+        "num": 170897,
+        "word": "邓超让大家今天别看五哈",
+        "onboard_time": 1749879562,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166953,
+        "num": 166953,
+        "word": "中国航司恢复接收波音787",
+        "onboard_time": 1749874882,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43863,
+        "num": 166444,
+        "word": "金灿荣称伊朗的筛子堵不住了",
+        "onboard_time": 1749878720,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146510,
+        "num": 166330,
+        "word": "雷霆2比2步行者",
+        "onboard_time": 1749874162,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14050,
+        "num": 166294,
+        "word": "哪些不良作息会增加胃癌风险",
+        "onboard_time": 1749879740,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166277,
+        "num": 166277,
+        "word": "伊朗向以色列发射第五轮导弹",
+        "onboard_time": 1749877583,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159863,
+        "num": 159863,
+        "word": "六级作文",
+        "onboard_time": 1749873262,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156045,
+        "num": 156045,
+        "word": "四六级",
+        "onboard_time": 1749825507,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151602,
+        "num": 151602,
+        "word": "恋与深空日卡2.0",
+        "onboard_time": 1749872902,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147539,
+        "num": 147539,
+        "word": "四级作文AI",
+        "onboard_time": 1749872663,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67541,
+        "num": 146480,
+        "word": "石雷鹏压中了一个四级作文",
+        "onboard_time": 1749878421,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146081,
+        "num": 146081,
+        "word": "中国等多国代表谴责以色列对伊朗发动袭击",
+        "onboard_time": 1749879621,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144735,
+        "num": 144735,
+        "word": "女友长得像单依纯是什么体验",
+        "onboard_time": 1749865159,
+        "rank": 48,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 141660,
+        "num": 141660,
+        "word": "武大通报职工子女驾车逼停骑行学生",
+        "onboard_time": 1749879681,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#紧紧依靠人民创造历史伟业#"
+    }
+  }
+}
