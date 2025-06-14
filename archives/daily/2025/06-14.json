@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749873501285,
+  "endTime": 1749875474392,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -35,8 +35,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1980255,
-      "num": 1980255,
+      "raw_hot": 2146590,
+      "num": 2146590,
       "word": "迪士尼 私联",
       "onboard_time": 1749870381,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1789880,
-      "num": 1280429,
+      "num": 1282137,
       "word": "曾毅自曝曾脚踹女员工",
       "onboard_time": 1749857899,
       "rank": 32,
@@ -75,6 +75,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1023534,
+      "num": 1023534,
+      "word": "24岁胃癌博主回应不良作息习惯",
+      "onboard_time": 1749871281,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 945685,
       "num": 945685,
       "word": "歌手排名",
@@ -91,12 +99,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 837837,
-      "num": 837837,
+      "raw_hot": 866080,
+      "num": 866080,
       "word": "四级答案",
       "onboard_time": 1749872541,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 779247,
+      "num": 779247,
+      "word": "贺峻霖考四级",
+      "onboard_time": 1749873801,
+      "rank": 7,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 742995,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 669899,
-      "num": 458545,
+      "num": 541127,
       "word": "孟子义聊生理期大大方方的",
       "onboard_time": 1749862281,
       "rank": 11,
@@ -243,14 +259,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 500107,
-      "num": 362534,
-      "word": "24岁胃癌博主回应不良作息习惯",
-      "onboard_time": 1749871281,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 470143,
       "num": 470143,
       "word": "伊朗爆发全国性示威活动",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 406441,
-      "num": 406441,
+      "num": 613114,
       "word": "单依纯 好红啊这个节目",
       "onboard_time": 1749867260,
       "rank": 36,
@@ -339,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347543,
+      "num": 347543,
+      "word": "恋与深空日卡2.0",
+      "onboard_time": 1749872902,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 347342,
       "num": 347342,
       "word": "四级阅读",
@@ -347,20 +363,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345121,
+      "num": 383011,
+      "word": "以色列官方尚未证实其F35战机被伊朗击落",
+      "onboard_time": 1749873081,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 304878,
       "num": 304878,
       "word": "田柾国道歉",
       "onboard_time": 1749856698,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302844,
-      "num": 302844,
-      "word": "恋与深空日卡2.0",
-      "onboard_time": 1749872902,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 293586,
@@ -377,6 +393,22 @@
       "onboard_time": 1749847995,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 288433,
+      "num": 288433,
+      "word": "商户否认女子坠楼和抢盲盒有关",
+      "onboard_time": 1749874702,
+      "rank": 28,
+      "category": "辟谣/通报,动漫"
+    },
+    {
+      "raw_hot": 282293,
+      "num": 282293,
+      "word": "伊军高层被骗聚集开会司令等被炸死",
+      "onboard_time": 1749872902,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 278157,
@@ -459,6 +491,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 248855,
+      "num": 368633,
+      "word": "锦绣芳华预约量破200万",
+      "onboard_time": 1749872123,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 247102,
+      "num": 247102,
+      "word": "四级听力没偷摸骂我两句吧",
+      "onboard_time": 1749873502,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 246093,
       "num": 246093,
       "word": "男子因老人看孩子问题积怨杀妻",
@@ -468,7 +516,7 @@
     },
     {
       "raw_hot": 239968,
-      "num": 315134,
+      "num": 343569,
       "word": "中国汽车凭实力赢得尊重",
       "onboard_time": 1749870260,
       "rank": 25,
@@ -481,14 +529,6 @@
       "onboard_time": 1749872123,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 231735,
-      "num": 231735,
-      "word": "伊军高层被骗聚集开会司令等被炸死",
-      "onboard_time": 1749872902,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 222683,
@@ -507,6 +547,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217470,
+      "num": 217470,
+      "word": "四级段落匹配",
+      "onboard_time": 1749874402,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 207715,
+      "num": 207715,
+      "word": "六级作文",
+      "onboard_time": 1749873262,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 206648,
       "num": 206648,
       "word": "爸爸49元给女儿买30斤大冬瓜抱睡",
@@ -523,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203437,
+      "num": 203437,
+      "word": "苏超",
+      "onboard_time": 1749874522,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202977,
       "num": 202977,
       "word": "冰雪大世界翻译",
@@ -536,14 +600,6 @@
       "word": "玉茗茶骨",
       "onboard_time": 1749870981,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 200036,
-      "num": 310632,
-      "word": "锦绣芳华预约量破200万",
-      "onboard_time": 1749872123,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -619,20 +675,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181716,
-      "num": 181716,
-      "word": "六级作文",
-      "onboard_time": 1749873262,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 180379,
       "num": 180379,
       "word": "黄仁勋回应任正非最新讲话",
       "onboard_time": 1749870020,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 179835,
+      "num": 179835,
+      "word": "compulsory不认识",
+      "onboard_time": 1749874522,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 175784,
+      "num": 175784,
+      "word": "雷霆2比2步行者",
+      "onboard_time": 1749874162,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 173460,
@@ -656,6 +720,14 @@
       "word": "张雅琪真的把卫兰照顾的很好",
       "onboard_time": 1749854897,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170568,
+      "num": 246965,
+      "word": "第一次听王勉的播音腔",
+      "onboard_time": 1749875241,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -691,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155506,
+      "num": 238213,
+      "word": "李晨晒的labubu2020年发布",
+      "onboard_time": 1749874761,
+      "rank": 39,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 155101,
       "num": 155101,
       "word": "歌手 云端",
@@ -705,14 +785,6 @@
       "onboard_time": 1749872002,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150144,
-      "num": 383011,
-      "word": "以色列官方尚未证实其F35战机被伊朗击落",
-      "onboard_time": 1749873081,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 148497,
@@ -889,6 +961,14 @@
       "onboard_time": 1749860000,
       "rank": 26,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 125913,
+      "num": 282873,
+      "word": "大鹏眼里全是对肌肉的渴望",
+      "onboard_time": 1749874942,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 123975,
@@ -1155,6 +1235,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 75995,
+      "num": 246458,
+      "word": "铠露怎么也偷偷藏不住了",
+      "onboard_time": 1749875002,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 75288,
       "num": 75288,
       "word": "以色列民众涌向超市抢购物资",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1749820764,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71647,
+      "num": 436052,
+      "word": "中国航司恢复接收波音787",
+      "onboard_time": 1749874882,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67661,
@@ -1307,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45041,
+      "num": 1621542,
+      "word": "中国文物和大美山河太震撼了",
+      "onboard_time": 1749872061,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42206,
       "num": 42206,
       "word": "三问以色列为何再对伊朗出手",
@@ -1321,6 +1425,22 @@
       "onboard_time": 1749836419,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36670,
+      "num": 343747,
+      "word": "O型血适合吃肉是一种谣言",
+      "onboard_time": 1749874282,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 34123,
+      "num": 363529,
+      "word": "四六级答题顺序该怎么分配",
+      "onboard_time": 1749874341,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 33486,
@@ -1339,6 +1459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31945,
+      "num": 243326,
+      "word": "伊朗下跪求饶应是死路一条",
+      "onboard_time": 1749875302,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30477,
       "num": 139701,
       "word": "平台回应网红刘琳琳被曝辱骂观众",
@@ -1353,6 +1481,14 @@
       "onboard_time": 1749872541,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 30068,
+      "num": 362706,
+      "word": "伊朗15分钟向以色列进行3次导弹齐射",
+      "onboard_time": 1749875120,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29597,
@@ -1456,6 +1592,22 @@
       "word": "伊朗遭以色列空袭后会采取哪些手段",
       "onboard_time": 1749870681,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 20291,
+      "num": 239214,
+      "word": "中东多国上空导弹齐飞",
+      "onboard_time": 1749875360,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 16476,
+      "num": 246955,
+      "word": "专家称伊朗核设施未遭重大损毁",
+      "onboard_time": 1749875360,
+      "rank": 34,
       "category": "国际时政"
     },
     {
