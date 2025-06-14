@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749886637802,
+  "endTime": 1749889830186,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1075,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1578850,
+      "num": 1578850,
+      "word": "泡泡玛特中止labubu韩国线下销售",
+      "onboard_time": 1749887900,
+      "rank": 0,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 1554999,
       "num": 1554999,
       "word": "活鸭20元一斤烤鸭为何20多元一只",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1749475463,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1415115,
+      "num": 1415115,
+      "word": "国足再弱也轮不到业余足球挑战",
+      "onboard_time": 1749888201,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1406200,
@@ -3571,6 +3587,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 772175,
+      "num": 772175,
+      "word": "伊万被解雇后凌晨乘机离开中国",
+      "onboard_time": 1749887120,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 772050,
       "num": 772050,
       "word": "光与夜之恋",
@@ -4393,6 +4417,14 @@
       "onboard_time": 1749208460,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 660927,
+      "num": 660927,
+      "word": "瘦了20斤的面部变化",
+      "onboard_time": 1749888140,
+      "rank": 5,
+      "category": "运动健身"
     },
     {
       "raw_hot": 660381,
@@ -8195,6 +8227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407100,
+      "num": 407100,
+      "word": "Jasper长大了还是甜椒",
+      "onboard_time": 1749888319,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407067,
       "num": 620870,
       "word": "肖战姜妍蒋奇明 飞刀",
@@ -9281,6 +9321,14 @@
       "onboard_time": 1749104361,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365444,
+      "num": 365444,
+      "word": "labubu韩国门店大排长龙",
+      "onboard_time": 1749885620,
+      "rank": 36,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 365311,
@@ -11443,6 +11491,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 300727,
+      "num": 280369,
+      "word": "柳智敏参加亲姐姐婚礼",
+      "onboard_time": 1749887959,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300726,
       "num": 300726,
       "word": "乒超停电",
@@ -12235,6 +12291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280415,
+      "num": 280415,
+      "word": "你的鸟底很好",
+      "onboard_time": 1749883520,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 280409,
       "num": 280409,
       "word": "藏海传",
@@ -12747,14 +12811,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 269799,
-      "num": 269799,
-      "word": "labubu韩国门店大排长龙",
-      "onboard_time": 1749885620,
-      "rank": 36,
-      "category": "民生新闻,动漫"
-    },
-    {
       "raw_hot": 269561,
       "num": 269561,
       "word": "陈粒 我是北京孩子",
@@ -12921,6 +12977,14 @@
       "onboard_time": 1749560062,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265003,
+      "num": 265003,
+      "word": "2024届本科毕业生月均收入6199元",
+      "onboard_time": 1749888201,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264949,
@@ -15011,6 +15075,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 229779,
+      "num": 229779,
+      "word": "杨幂长安的荔枝一滴泪镜头",
+      "onboard_time": 1749889281,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 229752,
       "num": 90746,
       "word": "祝绪丹成团",
@@ -15963,14 +16035,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 219212,
-      "num": 219212,
-      "word": "你的鸟底很好",
-      "onboard_time": 1749883520,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 219116,
       "num": 219116,
       "word": "女子遭水枪攻击警方称男子未逃逸",
@@ -16865,6 +16929,14 @@
       "onboard_time": 1748740219,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210297,
+      "num": 420144,
+      "word": "苏超南京vs淮安",
+      "onboard_time": 1749882020,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 210295,
@@ -19553,14 +19625,6 @@
       "onboard_time": 1748754320,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192202,
-      "num": 420144,
-      "word": "苏超南京vs淮安",
-      "onboard_time": 1749882020,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 192196,
@@ -24659,6 +24723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 161630,
+      "num": 161630,
+      "word": "邓超labubu塑",
+      "onboard_time": 1749887059,
+      "rank": 32,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 161610,
       "num": 161610,
       "word": "薛之谦第一次来毕业歌会就压轴",
@@ -27979,6 +28051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144978,
+      "num": 144978,
+      "word": "分手之后才在书包夹层里发现",
+      "onboard_time": 1749887959,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144966,
       "num": 144966,
       "word": "三亚",
@@ -28659,6 +28739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141918,
+      "num": 141918,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1749889161,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141910,
       "num": 141910,
       "word": "黄子韬全自动官宣换游记",
@@ -28985,6 +29073,14 @@
       "onboard_time": 1749474804,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140564,
+      "num": 140564,
+      "word": "租户称保洁扔了170多个泡泡玛特摆件",
+      "onboard_time": 1749888861,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140499,
@@ -30035,6 +30131,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 135915,
+      "num": 135915,
+      "word": "苏炳添100米止步小组赛",
+      "onboard_time": 1749888623,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135879,
       "num": 135879,
       "word": "对应届生特别友好的面试方式",
@@ -30729,6 +30833,14 @@
       "onboard_time": 1749034580,
       "rank": 16,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 132829,
+      "num": 132829,
+      "word": "无名之辈发布会",
+      "onboard_time": 1749884300,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 132809,
@@ -33667,14 +33779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119199,
-      "num": 119199,
-      "word": "无名之辈发布会",
-      "onboard_time": 1749884300,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 119175,
       "num": 134355,
       "word": "今屿大司命好C",
@@ -33737,6 +33841,14 @@
       "onboard_time": 1748756539,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118906,
+      "num": 118906,
+      "word": "无名之辈系列电影定档",
+      "onboard_time": 1749889701,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 118834,
@@ -35568,6 +35680,14 @@
       "word": "6岁男孩被困小区电梯40分钟无人救",
       "onboard_time": 1749337936,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109059,
+      "num": 279602,
+      "word": "租户称170多个泡泡玛特玩偶被保洁丢弃",
+      "onboard_time": 1749888921,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -39155,6 +39275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84944,
+      "num": 279988,
+      "word": "广西复查凶手下落不明宣布死亡案",
+      "onboard_time": 1749889460,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 84940,
       "num": 161670,
       "word": "樊振东超绝反应球",
@@ -40083,6 +40211,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 77671,
+      "num": 128968,
+      "word": "泡泡玛特暂时中止韩国labubu线下销售",
+      "onboard_time": 1749888319,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77620,
       "num": 115874,
       "word": "谁懂许嵩插兜邪魅一笑的杀伤力",
@@ -40505,6 +40641,14 @@
       "onboard_time": 1748941041,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 74254,
+      "num": 393904,
+      "word": "印度坠机死亡人数仍在增加",
+      "onboard_time": 1749888561,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74189,
@@ -41857,6 +42001,14 @@
       "onboard_time": 1749166760,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 63749,
+      "num": 279228,
+      "word": "音综选手在萧亚轩面前跳特务J",
+      "onboard_time": 1749884721,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 63733,
@@ -44203,6 +44355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 46210,
+      "num": 232466,
+      "word": "明星红毯低饱和裸粉妆",
+      "onboard_time": 1749888381,
+      "rank": 24,
+      "category": "美妆,作品衍生"
+    },
+    {
       "raw_hot": 46145,
       "num": 294959,
       "word": "长期喝咖啡的人身体会更健康吗",
@@ -44619,6 +44779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43609,
+      "num": 280168,
+      "word": "吴彦祖带你云做客",
+      "onboard_time": 1749888561,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43598,
       "num": 274013,
       "word": "也门男孩的家在战火中变死亡大街",
@@ -44761,6 +44929,14 @@
       "onboard_time": 1749390563,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42682,
+      "num": 279397,
+      "word": "怎样撒娇才是提供情绪价值而非索取",
+      "onboard_time": 1749888681,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 42676,
@@ -46945,6 +47121,14 @@
       "onboard_time": 1748714716,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31428,
+      "num": 136635,
+      "word": "以色列为何此时对伊朗下狠手",
+      "onboard_time": 1749889761,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31425,
@@ -50889,6 +51073,22 @@
       "onboard_time": 1749703641,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 10507,
+      "num": 141959,
+      "word": "伊朗市民要求政府研制核武器",
+      "onboard_time": 1749889521,
+      "rank": 37,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 10503,
+      "num": 182703,
+      "word": "伊朗遭遇前所未有的损失",
+      "onboard_time": 1749889521,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 10397,

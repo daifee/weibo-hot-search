@@ -1,0 +1,410 @@
+{
+  "runTime": 1749889830186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1578850,
+        "num": 1578850,
+        "word": "泡泡玛特中止labubu韩国线下销售",
+        "onboard_time": 1749887900,
+        "rank": 0,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 1470876,
+        "num": 1470876,
+        "word": "取件时间是哪个天才设置的",
+        "onboard_time": 1749883040,
+        "rank": 1,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 34255,
+        "num": 1417685,
+        "word": "中国文物和大美山河太震撼了",
+        "onboard_time": 1749872061,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1415115,
+        "num": 1415115,
+        "word": "国足再弱也轮不到业余足球挑战",
+        "onboard_time": 1749888201,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 772175,
+        "num": 772175,
+        "word": "伊万被解雇后凌晨乘机离开中国",
+        "onboard_time": 1749887120,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 660927,
+        "num": 660927,
+        "word": "瘦了20斤的面部变化",
+        "onboard_time": 1749888140,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 444490,
+        "num": 444490,
+        "word": "女子1万2转错人对方坚称没收到",
+        "onboard_time": 1749883401,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407189,
+        "num": 407189,
+        "word": "邓超让大家今天别看五哈",
+        "onboard_time": 1749879562,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407100,
+        "num": 407100,
+        "word": "Jasper长大了还是甜椒",
+        "onboard_time": 1749888319,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74254,
+        "num": 393904,
+        "word": "印度坠机死亡人数仍在增加",
+        "onboard_time": 1749888561,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 392893,
+        "num": 392893,
+        "word": "泡泡玛特投资人预测Crybaby会火",
+        "onboard_time": 1749880581,
+        "rank": 10,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 365444,
+        "num": 365444,
+        "word": "labubu韩国门店大排长龙",
+        "onboard_time": 1749885620,
+        "rank": 11,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 338403,
+        "num": 338403,
+        "word": "曾毅自曝曾脚踹女员工",
+        "onboard_time": 1749857899,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306833,
+        "num": 306833,
+        "word": "比起labubu我还是比较喜欢maoyeye",
+        "onboard_time": 1749877701,
+        "rank": 13,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 280415,
+        "num": 280415,
+        "word": "你的鸟底很好",
+        "onboard_time": 1749883520,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300727,
+        "num": 280369,
+        "word": "柳智敏参加亲姐姐婚礼",
+        "onboard_time": 1749887959,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43609,
+        "num": 280168,
+        "word": "吴彦祖带你云做客",
+        "onboard_time": 1749888561,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84944,
+        "num": 279988,
+        "word": "广西复查凶手下落不明宣布死亡案",
+        "onboard_time": 1749889460,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 109059,
+        "num": 279602,
+        "word": "租户称170多个泡泡玛特玩偶被保洁丢弃",
+        "onboard_time": 1749888921,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42682,
+        "num": 279397,
+        "word": "怎样撒娇才是提供情绪价值而非索取",
+        "onboard_time": 1749888681,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63749,
+        "num": 279228,
+        "word": "音综选手在萧亚轩面前跳特务J",
+        "onboard_time": 1749884721,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279150,
+        "num": 279150,
+        "word": "央视曝光快递放门口了新骗局",
+        "onboard_time": 1749877461,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272106,
+        "num": 272106,
+        "word": "疑似沈梦辰看到马嘉祺难听的反应",
+        "onboard_time": 1749877583,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265003,
+        "num": 265003,
+        "word": "2024届本科毕业生月均收入6199元",
+        "onboard_time": 1749888201,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46210,
+        "num": 232466,
+        "word": "明星红毯低饱和裸粉妆",
+        "onboard_time": 1749888381,
+        "rank": 24,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 229779,
+        "num": 229779,
+        "word": "杨幂长安的荔枝一滴泪镜头",
+        "onboard_time": 1749889281,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225088,
+        "num": 225088,
+        "word": "吴宣仪包上恩双A跳LikeJennie",
+        "onboard_time": 1749883940,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210297,
+        "num": 210297,
+        "word": "苏超南京vs淮安",
+        "onboard_time": 1749882020,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199334,
+        "num": 199334,
+        "word": "24岁胃癌博主回应不良作息习惯",
+        "onboard_time": 1749871281,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 10503,
+        "num": 182703,
+        "word": "伊朗遭遇前所未有的损失",
+        "onboard_time": 1749889521,
+        "rank": 29,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 177933,
+        "num": 177933,
+        "word": "肖战 向前走别回头",
+        "onboard_time": 1749880221,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168693,
+        "num": 168693,
+        "word": "小沈阳女儿讲韩语流利标准",
+        "onboard_time": 1749878302,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161630,
+        "num": 161630,
+        "word": "邓超labubu塑",
+        "onboard_time": 1749887059,
+        "rank": 32,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 154386,
+        "num": 154386,
+        "word": "伊朗公布以F35残骸图系AI图",
+        "onboard_time": 1749877701,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144978,
+        "num": 144978,
+        "word": "分手之后才在书包夹层里发现",
+        "onboard_time": 1749887959,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144423,
+        "num": 144423,
+        "word": "苏超",
+        "onboard_time": 1749874522,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143792,
+        "num": 143792,
+        "word": "亲子鉴定师10年鉴定非亲生率约22%",
+        "onboard_time": 1749878660,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10507,
+        "num": 141959,
+        "word": "伊朗市民要求政府研制核武器",
+        "onboard_time": 1749889521,
+        "rank": 37,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 141918,
+        "num": 141918,
+        "word": "邓紫棋演唱会",
+        "onboard_time": 1749889161,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140564,
+        "num": 140564,
+        "word": "租户称保洁扔了170多个泡泡玛特摆件",
+        "onboard_time": 1749888861,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138703,
+        "num": 138703,
+        "word": "伊朗向以色列发射约150枚导弹",
+        "onboard_time": 1749856280,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31428,
+        "num": 136635,
+        "word": "以色列为何此时对伊朗下狠手",
+        "onboard_time": 1749889761,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135915,
+        "num": 135915,
+        "word": "苏炳添100米止步小组赛",
+        "onboard_time": 1749888623,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132829,
+        "num": 132829,
+        "word": "无名之辈发布会",
+        "onboard_time": 1749884300,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77671,
+        "num": 128968,
+        "word": "泡泡玛特暂时中止韩国labubu线下销售",
+        "onboard_time": 1749888319,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127716,
+        "num": 127716,
+        "word": "60秒带你看哈萨克斯坦",
+        "onboard_time": 1749882142,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126565,
+        "num": 126565,
+        "word": "大学生全款15万买房后的生活",
+        "onboard_time": 1749883401,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118906,
+        "num": 118906,
+        "word": "无名之辈系列电影定档",
+        "onboard_time": 1749889701,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114611,
+        "num": 114611,
+        "word": "四级",
+        "onboard_time": 1749866060,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113954,
+        "num": 113954,
+        "word": "四级答案",
+        "onboard_time": 1749872541,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#紧紧依靠人民创造历史伟业#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/14 15:37:17
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/14 16:30:30
 </p>
 </blockquote>
 <p>
@@ -819,6 +819,12 @@ GAI是不是想走了（热度：1689581）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E4%B8%AD%E6%AD%A2labubu%E9%9F%A9%E5%9B%BD%E7%BA%BF%E4%B8%8B%E9%94%80%E5%94%AE%23" target="weibo">
+泡泡玛特中止labubu韩国线下销售（热度：1578850）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%BB%E9%B8%AD20%E5%85%83%E4%B8%80%E6%96%A4%E7%83%A4%E9%B8%AD%E4%B8%BA%E4%BD%9520%E5%A4%9A%E5%85%83%E4%B8%80%E5%8F%AA%23" target="weibo">
 活鸭20元一斤烤鸭为何20多元一只（热度：1554999）
 </a>
@@ -941,6 +947,12 @@ A股跳水（热度：1454990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B5%B5%E5%BE%B7%E8%83%A4%E7%96%91%E4%BC%BC%E6%B5%B7%E5%A4%96%E7%94%B5%E5%BD%B1%E8%8A%82%E7%BA%A6%E4%BC%9A%23" target="weibo">
 赵丽颖赵德胤疑似海外电影节约会（热度：1419731）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%86%8D%E5%BC%B1%E4%B9%9F%E8%BD%AE%E4%B8%8D%E5%88%B0%E4%B8%9A%E4%BD%99%E8%B6%B3%E7%90%83%E6%8C%91%E6%88%98%23" target="weibo">
+国足再弱也轮不到业余足球挑战（热度：1415115）
 </a>
 </li>
 
@@ -2691,6 +2703,12 @@ AL战胜BLG（热度：859667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%87%E8%A2%AB%E8%A7%A3%E9%9B%87%E5%90%8E%E5%87%8C%E6%99%A8%E4%B9%98%E6%9C%BA%E7%A6%BB%E5%BC%80%E4%B8%AD%E5%9B%BD%23" target="weibo">
+伊万被解雇后凌晨乘机离开中国（热度：772175）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23" target="weibo">
 光与夜之恋（热度：772050）
 </a>
@@ -3305,6 +3323,12 @@ labubu牙套（热度：696332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%B1%E6%A1%83%E7%90%A5%E7%8F%80%23" target="weibo">
 樱桃琥珀（热度：661611）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%98%A6%E4%BA%8620%E6%96%A4%E7%9A%84%E9%9D%A2%E9%83%A8%E5%8F%98%E5%8C%96%23" target="weibo">
+瘦了20斤的面部变化（热度：660927）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ Labubu联名款被炒至2.8万（热度：432471）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AA%E5%B7%AE1%E5%88%86%E9%92%9F%E8%BF%9B%E4%B8%8D%E5%8E%BB%E8%80%83%E5%9C%BA%E4%BA%86%23" target="weibo">
 只差1分钟进不去考场了（热度：418383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%BA%BA%E6%9C%BA%E6%B0%B4%E5%B9%B3%23" target="weibo">
-腾讯副总裁回应王者荣耀人机水平（热度：417672）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B3%E7%B3%BB%E5%B7%B2%E7%BB%93%E6%9D%9F%23" target="weibo">
-特朗普称与马斯克关系已结束（热度：417258）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%86%E9%95%BF%23" target="weibo">
-馆长（热度：416871）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8A%8A85%E4%B8%87%E6%89%94%E5%9C%A8%E4%BA%86%E5%9D%9F%E5%A4%B4%E8%8D%89%E4%B8%9B%E5%9E%83%E5%9C%BE%E6%A1%B6%23" target="weibo">
-女子把85万扔在了坟头草丛垃圾桶（热度：416753）
 </a>
 </li>
 
