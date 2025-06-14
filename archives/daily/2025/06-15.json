@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749921706471,
+  "endTime": 1749922780661,
   "band_list": [
     {
       "raw_hot": 1752363,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 808775,
+      "num": 808775,
+      "word": "张子枫踩20cm的高跟鞋",
+      "onboard_time": 1749920000,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 799843,
       "num": 438258,
       "word": "熬夜损失的寿命又靠熬夜弥补了回来",
@@ -35,20 +43,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 775200,
-      "num": 775200,
-      "word": "张子枫踩20cm的高跟鞋",
-      "onboard_time": 1749920000,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
       "raw_hot": 752940,
       "num": 170989,
       "word": "王俊凯",
       "onboard_time": 1749916282,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 693922,
+      "num": 356478,
+      "word": "刘耀文",
+      "onboard_time": 1749920479,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 635003,
@@ -65,14 +73,6 @@
       "onboard_time": 1749911364,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 541437,
-      "num": 356478,
-      "word": "刘耀文",
-      "onboard_time": 1749920479,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 416129,
@@ -171,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209695,
+      "num": 209695,
+      "word": "李现是第一个推了酱园弄的人",
+      "onboard_time": 1749921557,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207118,
       "num": 207118,
       "word": "李晟李佳航好六预告",
@@ -201,6 +209,14 @@
       "onboard_time": 1749919039,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192119,
+      "num": 74762,
+      "word": "Tarzan赛后发长文感谢队友",
+      "onboard_time": 1749921857,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 187952,
@@ -235,6 +251,14 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 171324,
+      "num": 171324,
+      "word": "披荆斩棘 镜头",
+      "onboard_time": 1749919700,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171176,
       "num": 171176,
       "word": "杨幂回应和刘德华挽手走红毯",
@@ -249,14 +273,6 @@
       "onboard_time": 1749892832,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 157060,
-      "num": 157060,
-      "word": "披荆斩棘 镜头",
-      "onboard_time": 1749919700,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 153921,
@@ -363,6 +379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115664,
+      "num": 115664,
+      "word": "一人一句祝父亲节日快乐",
+      "onboard_time": 1749920119,
+      "rank": 28,
+      "category": "情感,读书作家"
+    },
+    {
       "raw_hot": 114471,
       "num": 114471,
       "word": "李文把严浩翔钓成翘嘴",
@@ -419,14 +443,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 103083,
-      "num": 103083,
-      "word": "一人一句祝父亲节日快乐",
-      "onboard_time": 1749920119,
-      "rank": 28,
-      "category": "情感,读书作家"
-    },
-    {
       "raw_hot": 92189,
       "num": 92189,
       "word": "沈小婷ELLEMEN红毯",
@@ -443,28 +459,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76315,
+      "num": 76315,
+      "word": "桃黑黑直播",
+      "onboard_time": 1749921318,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 67405,
       "num": 154883,
       "word": "总台女记者从伊朗首都发回报道",
       "onboard_time": 1749919160,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 65494,
-      "num": 65494,
-      "word": "李现是第一个推了酱园弄的人",
-      "onboard_time": 1749921557,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 61324,
-      "num": 61324,
-      "word": "桃黑黑直播",
-      "onboard_time": 1749921318,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 52067,
@@ -483,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49938,
+      "num": 49938,
+      "word": "中超",
+      "onboard_time": 1749919580,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35154,
       "num": 121616,
       "word": "凯斯无缘女王杯决赛",
       "onboard_time": 1749915083,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28887,
+      "num": 231823,
+      "word": "王毅同以色列外长萨尔通电话",
+      "onboard_time": 1749915083,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23482,
