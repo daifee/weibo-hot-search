@@ -1,0 +1,410 @@
+{
+  "runTime": 1749883643210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1295392,
+        "num": 1295392,
+        "word": "迪士尼 私联",
+        "onboard_time": 1749870381,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1090562,
+        "num": 1090562,
+        "word": "央视曝光快递放门口了新骗局",
+        "onboard_time": 1749877461,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36871,
+        "num": 843004,
+        "word": "中国文物和大美山河太震撼了",
+        "onboard_time": 1749872061,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 794874,
+        "num": 794874,
+        "word": "曾毅自曝曾脚踹女员工",
+        "onboard_time": 1749857899,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668953,
+        "num": 668953,
+        "word": "疑似沈梦辰看到马嘉祺难听的反应",
+        "onboard_time": 1749877583,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489747,
+        "num": 489747,
+        "word": "24岁胃癌博主回应不良作息习惯",
+        "onboard_time": 1749871281,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 571698,
+        "num": 485534,
+        "word": "小沈阳女儿讲韩语流利标准",
+        "onboard_time": 1749878302,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479608,
+        "num": 479608,
+        "word": "树莓",
+        "onboard_time": 1749880460,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 420197,
+        "num": 420197,
+        "word": "比起labubu我还是比较喜欢maoyeye",
+        "onboard_time": 1749877701,
+        "rank": 8,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 372418,
+        "num": 372418,
+        "word": "原来上征信和影响贷款不是一回事",
+        "onboard_time": 1749876141,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 973371,
+        "num": 362825,
+        "word": "亲子鉴定师10年鉴定非亲生率约22%",
+        "onboard_time": 1749878660,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463809,
+        "num": 356153,
+        "word": "邓超让大家今天别看五哈",
+        "onboard_time": 1749879562,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401416,
+        "num": 353769,
+        "word": "肖战 向前走别回头",
+        "onboard_time": 1749880221,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349304,
+        "num": 349304,
+        "word": "伊朗公布以F35残骸图系AI图",
+        "onboard_time": 1749877701,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 288626,
+        "num": 288626,
+        "word": "四级",
+        "onboard_time": 1749866060,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116056,
+        "num": 254260,
+        "word": "中国女生在联合国为女科学家颁奖",
+        "onboard_time": 1749881121,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219783,
+        "num": 245082,
+        "word": "杨幂郑玉婷爱比眼泪先流出来",
+        "onboard_time": 1749882620,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244480,
+        "num": 244480,
+        "word": "60秒带你看哈萨克斯坦",
+        "onboard_time": 1749882142,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10344,
+        "num": 244144,
+        "word": "伊朗公布战机AI生成图有何隐情",
+        "onboard_time": 1749883281,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49880,
+        "num": 241654,
+        "word": "新一场中东战争是否会引爆",
+        "onboard_time": 1749882380,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34645,
+        "num": 239497,
+        "word": "白宫正在审查SpaceX合同",
+        "onboard_time": 1749881780,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 435827,
+        "num": 237268,
+        "word": "泡泡玛特投资人预测Crybaby会火",
+        "onboard_time": 1749880581,
+        "rank": 21,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 284135,
+        "num": 235734,
+        "word": "伊军高层被骗聚集开会司令等被炸死",
+        "onboard_time": 1749872902,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235213,
+        "num": 235213,
+        "word": "鬼灭之刃无限城篇正式预告",
+        "onboard_time": 1749881899,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 226240,
+        "num": 226240,
+        "word": "孟子义聊生理期大大方方的",
+        "onboard_time": 1749862281,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180627,
+        "num": 223374,
+        "word": "大鹏镜头下的白客",
+        "onboard_time": 1749882740,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222315,
+        "num": 222315,
+        "word": "四级答案",
+        "onboard_time": 1749872541,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203842,
+        "num": 203842,
+        "word": "男子2000元卖掉前女友30只布偶猫",
+        "onboard_time": 1749882441,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201951,
+        "num": 201951,
+        "word": "伊朗向以色列发射约150枚导弹",
+        "onboard_time": 1749856280,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171611,
+        "num": 187154,
+        "word": "萧亚轩姐感天花板",
+        "onboard_time": 1749882980,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185125,
+        "num": 185125,
+        "word": "取件时间是哪个天才设置的",
+        "onboard_time": 1749883040,
+        "rank": 30,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 175491,
+        "num": 175491,
+        "word": "女子遭挟持捅20多刀隆胸假体救一命",
+        "onboard_time": 1749877283,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173880,
+        "num": 173880,
+        "word": "爸爸画女儿画得有鼻有眼的",
+        "onboard_time": 1749882499,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157944,
+        "num": 157944,
+        "word": "星火英语",
+        "onboard_time": 1749882082,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155057,
+        "num": 155057,
+        "word": "贺峻霖考四级",
+        "onboard_time": 1749873801,
+        "rank": 34,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 152568,
+        "num": 152568,
+        "word": "伊朗下跪求饶应是死路一条",
+        "onboard_time": 1749875302,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149922,
+        "num": 149922,
+        "word": "偶遇NewJeans",
+        "onboard_time": 1749877640,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148614,
+        "num": 148614,
+        "word": "刘宇宁眷思量",
+        "onboard_time": 1749875722,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32042,
+        "num": 147121,
+        "word": "胡锡进谈伊朗又遭重创",
+        "onboard_time": 1749881601,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117569,
+        "num": 146475,
+        "word": "众记者质疑G4判罚",
+        "onboard_time": 1749882020,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146266,
+        "num": 146266,
+        "word": "大学生全款15万买房后的生活",
+        "onboard_time": 1749883401,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145193,
+        "num": 145193,
+        "word": "眷思量",
+        "onboard_time": 1749878602,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142405,
+        "num": 142405,
+        "word": "武大通报职工子女驾车逼停骑行学生",
+        "onboard_time": 1749879681,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138668,
+        "num": 138668,
+        "word": "四级作文",
+        "onboard_time": 1749869062,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131549,
+        "num": 131549,
+        "word": "女子1万2转错人对方坚称没收到",
+        "onboard_time": 1749883401,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130501,
+        "num": 130501,
+        "word": "沈腾宋亚轩从冒昧变暧昧",
+        "onboard_time": 1749883221,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126768,
+        "num": 126768,
+        "word": "苏超南京vs淮安",
+        "onboard_time": 1749882020,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125203,
+        "num": 125203,
+        "word": "伊朗向以色列发射第五轮导弹",
+        "onboard_time": 1749877583,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123445,
+        "num": 123445,
+        "word": "你的鸟底很好",
+        "onboard_time": 1749883520,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115396,
+        "num": 115396,
+        "word": "六级",
+        "onboard_time": 1749868580,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

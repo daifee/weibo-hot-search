@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749882837389,
+  "endTime": 1749883643210,
   "band_list": [
     {
       "raw_hot": 17710576,
@@ -1075,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1090562,
+      "num": 1090562,
+      "word": "央视曝光快递放门口了新骗局",
+      "onboard_time": 1749877461,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1083717,
       "num": 1083717,
       "word": "刘亦菲陈晓 咸雪",
@@ -1307,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 973371,
+      "num": 370598,
+      "word": "亲子鉴定师10年鉴定非亲生率约22%",
+      "onboard_time": 1749878660,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 969488,
       "num": 969488,
       "word": "杨幂Labubu书包",
@@ -1328,14 +1344,6 @@
       "word": "被摸腿女演员讲述从业初衷",
       "onboard_time": 1749358461,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 962669,
-      "num": 962669,
-      "word": "央视曝光快递放门口了新骗局",
-      "onboard_time": 1749877461,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1449,14 +1457,6 @@
       "onboard_time": 1749469102,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 910715,
-      "num": 370598,
-      "word": "亲子鉴定师10年鉴定非亲生率约22%",
-      "onboard_time": 1749878660,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 903105,
@@ -2755,6 +2755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571698,
+      "num": 485534,
+      "word": "小沈阳女儿讲韩语流利标准",
+      "onboard_time": 1749878302,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571273,
       "num": 455793,
       "word": "王子璇腰伤退出她的瞳拍摄",
@@ -2889,14 +2897,6 @@
       "onboard_time": 1749699500,
       "rank": 11,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 555610,
-      "num": 475414,
-      "word": "小沈阳女儿讲韩语流利标准",
-      "onboard_time": 1749878302,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 552300,
@@ -3483,6 +3483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 479608,
+      "num": 479608,
+      "word": "树莓",
+      "onboard_time": 1749880460,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 478977,
       "num": 478977,
       "word": "男子打车面试被女司机送进湖里",
@@ -3617,6 +3625,14 @@
       "onboard_time": 1749523701,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463809,
+      "num": 360459,
+      "word": "邓超让大家今天别看五哈",
+      "onboard_time": 1749879562,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 463615,
@@ -3803,6 +3819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435827,
+      "num": 292052,
+      "word": "泡泡玛特投资人预测Crybaby会火",
+      "onboard_time": 1749880581,
+      "rank": 20,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 435128,
       "num": 435128,
       "word": "Labubu都火了 方圆脸时代怎么还没来",
@@ -3953,6 +3977,14 @@
       "onboard_time": 1749477623,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 420197,
+      "num": 420197,
+      "word": "比起labubu我还是比较喜欢maoyeye",
+      "onboard_time": 1749877701,
+      "rank": 37,
+      "category": "情感,动漫"
     },
     {
       "raw_hot": 419783,
@@ -4209,6 +4241,14 @@
       "onboard_time": 1749870381,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401416,
+      "num": 378375,
+      "word": "肖战 向前走别回头",
+      "onboard_time": 1749880221,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 401388,
@@ -4491,14 +4531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378375,
-      "num": 378375,
-      "word": "肖战 向前走别回头",
-      "onboard_time": 1749880221,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 378173,
       "num": 337562,
       "word": "labubu芭莎盛典表演嘉宾",
@@ -4609,14 +4641,6 @@
       "onboard_time": 1749770058,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 368393,
-      "num": 368393,
-      "word": "树莓",
-      "onboard_time": 1749880460,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 368294,
@@ -4745,14 +4769,6 @@
       "onboard_time": 1749684739,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 360459,
-      "num": 360459,
-      "word": "邓超让大家今天别看五哈",
-      "onboard_time": 1749879562,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 360345,
@@ -5091,28 +5107,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 343930,
-      "num": 292052,
-      "word": "泡泡玛特投资人预测Crybaby会火",
-      "onboard_time": 1749880581,
-      "rank": 20,
-      "category": "民生新闻,动漫"
-    },
-    {
       "raw_hot": 343421,
       "num": 387142,
       "word": "邓紫棋重录专辑上线",
       "onboard_time": 1749702502,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 342204,
-      "num": 342204,
-      "word": "比起labubu我还是比较喜欢maoyeye",
-      "onboard_time": 1749877701,
-      "rank": 37,
-      "category": "情感,动漫"
     },
     {
       "raw_hot": 340629,
@@ -7171,6 +7171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244480,
+      "num": 244480,
+      "word": "60秒带你看哈萨克斯坦",
+      "onboard_time": 1749882142,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 244287,
       "num": 244287,
       "word": "柯南M28角色没一个废的",
@@ -8099,6 +8107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 219783,
+      "num": 245082,
+      "word": "杨幂郑玉婷爱比眼泪先流出来",
+      "onboard_time": 1749882620,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219640,
       "num": 487510,
       "word": "波音事故率全球第二",
@@ -8929,6 +8945,14 @@
       "onboard_time": 1749526041,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 203842,
+      "num": 203842,
+      "word": "男子2000元卖掉前女友30只布偶猫",
+      "onboard_time": 1749882441,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203728,
@@ -10643,20 +10667,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185125,
+      "num": 185125,
+      "word": "取件时间是哪个天才设置的",
+      "onboard_time": 1749883040,
+      "rank": 30,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 185074,
       "num": 185074,
       "word": "第一批上岗的AI主播已经翻车了",
       "onboard_time": 1749721642,
       "rank": 35,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 185044,
-      "num": 185044,
-      "word": "60秒带你看哈萨克斯坦",
-      "onboard_time": 1749882142,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 185008,
@@ -11049,6 +11073,14 @@
       "onboard_time": 1749820825,
       "rank": 25,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 180627,
+      "num": 223374,
+      "word": "大鹏镜头下的白客",
+      "onboard_time": 1749882740,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 180560,
@@ -11707,6 +11739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171611,
+      "num": 187154,
+      "word": "萧亚轩姐感天花板",
+      "onboard_time": 1749882980,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171603,
       "num": 167930,
       "word": "特朗普将向加州派遣两千国民警卫队",
@@ -11921,14 +11961,6 @@
       "onboard_time": 1749469701,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 169661,
-      "num": 185406,
-      "word": "杨幂郑玉婷爱比眼泪先流出来",
-      "onboard_time": 1749882620,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 169568,
@@ -13163,6 +13195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157944,
+      "num": 157944,
+      "word": "星火英语",
+      "onboard_time": 1749882082,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 157901,
       "num": 157901,
       "word": "NBA总决赛",
@@ -13409,14 +13449,6 @@
       "onboard_time": 1749708140,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155720,
-      "num": 155720,
-      "word": "男子2000元卖掉前女友30只布偶猫",
-      "onboard_time": 1749882441,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155516,
@@ -14417,6 +14449,14 @@
       "onboard_time": 1749513681,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146266,
+      "num": 146266,
+      "word": "大学生全款15万买房后的生活",
+      "onboard_time": 1749883401,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 146171,
@@ -15563,14 +15603,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 136092,
-      "num": 136092,
-      "word": "星火英语",
-      "onboard_time": 1749882082,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 136048,
       "num": 136048,
       "word": "宁夏一县招聘0彩礼新婚夫妇可加分",
@@ -16107,6 +16139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131549,
+      "num": 131549,
+      "word": "女子1万2转错人对方坚称没收到",
+      "onboard_time": 1749883401,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131546,
       "num": 131546,
       "word": "这么抽象的女儿她居然拥有三个",
@@ -16257,6 +16297,14 @@
       "onboard_time": 1749827184,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130501,
+      "num": 130501,
+      "word": "沈腾宋亚轩从冒昧变暧昧",
+      "onboard_time": 1749883221,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 130475,
@@ -16683,6 +16731,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 126768,
+      "num": 126768,
+      "word": "苏超南京vs淮安",
+      "onboard_time": 1749882020,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126718,
       "num": 176414,
       "word": "安徽75岁失独母亲回应女儿中考",
@@ -16977,6 +17033,14 @@
       "onboard_time": 1749547641,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 123445,
+      "num": 123445,
+      "word": "你的鸟底很好",
+      "onboard_time": 1749883520,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123431,
@@ -17625,6 +17689,14 @@
       "onboard_time": 1749710661,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 117569,
+      "num": 146475,
+      "word": "众记者质疑G4判罚",
+      "onboard_time": 1749882020,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 117210,
@@ -21547,14 +21619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56546,
-      "num": 183789,
-      "word": "大鹏镜头下的白客",
-      "onboard_time": 1749882740,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 56479,
       "num": 56479,
       "word": "高芙回应法网夺冠",
@@ -21969,6 +22033,14 @@
       "onboard_time": 1749459801,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49880,
+      "num": 323380,
+      "word": "新一场中东战争是否会引爆",
+      "onboard_time": 1749882380,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49879,
@@ -23187,6 +23259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 34645,
+      "num": 353664,
+      "word": "白宫正在审查SpaceX合同",
+      "onboard_time": 1749881780,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34565,
       "num": 206154,
       "word": "260秒看尽洛杉矶之乱",
@@ -23265,14 +23345,6 @@
       "onboard_time": 1749526820,
       "rank": 17,
       "category": "电影,作品衍生"
-    },
-    {
-      "raw_hot": 33813,
-      "num": 353664,
-      "word": "白宫正在审查SpaceX合同",
-      "onboard_time": 1749881780,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33689,
@@ -24515,14 +24587,6 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 21050,
-      "num": 323380,
-      "word": "新一场中东战争是否会引爆",
-      "onboard_time": 1749882380,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20970,
       "num": 281463,
       "word": "伊朗遭以色列空袭后会采取哪些手段",
@@ -25473,6 +25537,14 @@
       "onboard_time": 1749501374,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10344,
+      "num": 244144,
+      "word": "伊朗公布战机AI生成图有何隐情",
+      "onboard_time": 1749883281,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10332,
