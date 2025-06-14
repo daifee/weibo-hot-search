@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749876389936,
+  "endTime": 1749878765673,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -291,6 +291,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 447534,
+      "num": 447534,
+      "word": "原来上征信和影响贷款不是一回事",
+      "onboard_time": 1749876141,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422075,
+      "num": 422075,
+      "word": "疑似沈梦辰看到马嘉祺难听的反应",
+      "onboard_time": 1749877583,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416871,
       "num": 416871,
       "word": "85岁妻子没上进心93岁男子起诉离婚",
@@ -323,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391565,
+      "num": 391565,
+      "word": "伊军高层被骗聚集开会司令等被炸死",
+      "onboard_time": 1749872902,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 391242,
       "num": 391242,
       "word": "皇权富贵",
@@ -345,6 +369,22 @@
       "onboard_time": 1749828624,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358529,
+      "num": 724489,
+      "word": "伊朗15分钟向以色列进行3次导弹齐射",
+      "onboard_time": 1749875120,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 351719,
+      "num": 428049,
+      "word": "刘宇宁眷思量",
+      "onboard_time": 1749875722,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 347706,
@@ -379,12 +419,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 327335,
-      "num": 327335,
-      "word": "伊军高层被骗聚集开会司令等被炸死",
-      "onboard_time": 1749872902,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 312784,
+      "num": 312784,
+      "word": "广东一男子强拖女子下车后驾车离开",
+      "onboard_time": 1749876022,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304878,
@@ -435,6 +475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 277104,
+      "num": 326844,
+      "word": "偶遇NewJeans",
+      "onboard_time": 1749877640,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275563,
       "num": 275563,
       "word": "以闪亮之名",
@@ -449,6 +497,14 @@
       "onboard_time": 1749872123,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273611,
+      "num": 305904,
+      "word": "女子遭挟持捅20多刀隆胸假体救一命",
+      "onboard_time": 1749877283,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273581,
@@ -499,14 +555,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 260256,
-      "num": 392948,
-      "word": "刘宇宁眷思量",
-      "onboard_time": 1749875722,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259024,
       "num": 259024,
       "word": "非遗里的青春中国",
@@ -555,8 +603,24 @@
       "category": "教育"
     },
     {
+      "raw_hot": 230409,
+      "num": 243326,
+      "word": "伊朗下跪求饶应是死路一条",
+      "onboard_time": 1749875302,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 229762,
+      "num": 229762,
+      "word": "比起labubu我还是比较喜欢maoyeye",
+      "onboard_time": 1749877701,
+      "rank": 37,
+      "category": "情感,动漫"
+    },
+    {
       "raw_hot": 225636,
-      "num": 277784,
+      "num": 299902,
       "word": "余景天得知被淘汰的反应",
       "onboard_time": 1749875722,
       "rank": 28,
@@ -569,6 +633,14 @@
       "onboard_time": 1749873262,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 223842,
+      "num": 223842,
+      "word": "央视曝光快递放门口了新骗局",
+      "onboard_time": 1749877461,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222683,
@@ -593,14 +665,6 @@
       "onboard_time": 1749874402,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 213287,
-      "num": 223727,
-      "word": "原来上征信和影响贷款不是一回事",
-      "onboard_time": 1749876141,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206648,
@@ -707,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189317,
+      "num": 373618,
+      "word": "长安十二时辰长安的荔枝联动细节",
+      "onboard_time": 1749877340,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188870,
       "num": 188870,
       "word": "马嘉祺歌手高定look",
@@ -737,6 +809,14 @@
       "onboard_time": 1749875002,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180945,
+      "num": 180945,
+      "word": "眷思量",
+      "onboard_time": 1749878602,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 180379,
@@ -803,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164432,
-      "num": 724489,
-      "word": "伊朗15分钟向以色列进行3次导弹齐射",
-      "onboard_time": 1749875120,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162587,
       "num": 162587,
       "word": "以色列对伊朗发动打击",
@@ -819,12 +891,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160104,
+      "num": 287067,
+      "word": "亲子鉴定师10年鉴定非亲生率约22%",
+      "onboard_time": 1749878660,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159729,
       "num": 177916,
       "word": "田柾国帽子",
       "onboard_time": 1749856878,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156267,
+      "num": 376964,
+      "word": "伊朗向以色列发射第五轮导弹",
+      "onboard_time": 1749877583,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155506,
@@ -915,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141577,
+      "num": 373348,
+      "word": "小沈阳女儿讲韩语流利标准",
+      "onboard_time": 1749878302,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141260,
       "num": 152527,
       "word": "特朗普发文警告伊朗",
@@ -969,6 +1065,14 @@
       "onboard_time": 1749831922,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132657,
+      "num": 292442,
+      "word": "岳云鹏演出了普通人的心酸与挣扎",
+      "onboard_time": 1749877881,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 130121,
@@ -1033,14 +1137,6 @@
       "onboard_time": 1749860000,
       "rank": 26,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 126426,
-      "num": 243326,
-      "word": "伊朗下跪求饶应是死路一条",
-      "onboard_time": 1749875302,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 123975,
@@ -1155,6 +1251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112731,
+      "num": 423163,
+      "word": "伊朗公布以F35残骸图系AI图",
+      "onboard_time": 1749877701,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111101,
       "num": 111101,
       "word": "NBA总决赛",
@@ -1219,14 +1323,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 104171,
-      "num": 281550,
-      "word": "广东一男子强拖女子下车后驾车离开",
-      "onboard_time": 1749876022,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104016,
       "num": 104016,
       "word": "台风",
@@ -1265,6 +1361,22 @@
       "onboard_time": 1749864561,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 95690,
+      "num": 380442,
+      "word": "杭州遭挟持捅刀女子还原事发经过",
+      "onboard_time": 1749877401,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94349,
+      "num": 194773,
+      "word": "黑执事塞巴斯黑化了",
+      "onboard_time": 1749877401,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 92736,
@@ -1339,6 +1451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74691,
+      "num": 312916,
+      "word": "石雷鹏压中了一个四级作文",
+      "onboard_time": 1749878421,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 74152,
       "num": 146934,
       "word": "特朗普推翻性侵罪名失败",
@@ -1352,6 +1472,14 @@
       "word": "GAI 该做热玛吉了",
       "onboard_time": 1749820764,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 68240,
+      "num": 312827,
+      "word": "布瑞吉演我看GAI舞台",
+      "onboard_time": 1749876981,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1475,6 +1603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 53797,
+      "num": 309296,
+      "word": "罗马仕曾召回3000多个充电宝",
+      "onboard_time": 1749878541,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47422,
       "num": 146400,
       "word": "河道钞票系精神障碍患者发病时丢弃",
@@ -1497,6 +1633,22 @@
       "onboard_time": 1749832940,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44736,
+      "num": 295256,
+      "word": "伊朗这次真的危险了吗",
+      "onboard_time": 1749878602,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 43364,
+      "num": 186743,
+      "word": "美以合谋袭击伊朗后果或超出预料",
+      "onboard_time": 1749876801,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42206,
@@ -1529,6 +1681,14 @@
       "onboard_time": 1749874341,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 33781,
+      "num": 189220,
+      "word": "金灿荣称伊朗的筛子堵不住了",
+      "onboard_time": 1749878720,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33486,
@@ -1651,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23882,
+      "num": 312789,
+      "word": "和享界S9的微博电影之夜",
+      "onboard_time": 1749877520,
+      "rank": 26,
+      "category": "电影,汽车"
+    },
+    {
       "raw_hot": 22595,
       "num": 23492,
       "word": "让我来唱",
@@ -1667,12 +1835,28 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 21430,
+      "num": 422344,
+      "word": "扁担女孩想赚钱带家人看外面的风景",
+      "onboard_time": 1749878061,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20970,
       "num": 281463,
       "word": "伊朗遭以色列空袭后会采取哪些手段",
       "onboard_time": 1749870681,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16270,
+      "num": 365538,
+      "word": "雨天开车除了开雨刮器还有哪些技巧",
+      "onboard_time": 1749877941,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 15177,

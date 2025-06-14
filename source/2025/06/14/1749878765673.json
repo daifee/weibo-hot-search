@@ -1,0 +1,410 @@
+{
+  "runTime": 1749878765673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1751244,
+        "num": 1751244,
+        "word": "迪士尼 私联",
+        "onboard_time": 1749870381,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 963796,
+        "num": 963796,
+        "word": "24岁胃癌博主回应不良作息习惯",
+        "onboard_time": 1749871281,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41763,
+        "num": 833208,
+        "word": "中国文物和大美山河太震撼了",
+        "onboard_time": 1749872061,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1120969,
+        "num": 815988,
+        "word": "曾毅自曝曾脚踹女员工",
+        "onboard_time": 1749857899,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743405,
+        "num": 743405,
+        "word": "四级",
+        "onboard_time": 1749866060,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 490076,
+        "num": 490076,
+        "word": "四级作文",
+        "onboard_time": 1749869062,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 447534,
+        "num": 447534,
+        "word": "原来上征信和影响贷款不是一回事",
+        "onboard_time": 1749876141,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351719,
+        "num": 428049,
+        "word": "刘宇宁眷思量",
+        "onboard_time": 1749875722,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112731,
+        "num": 423163,
+        "word": "伊朗公布以F35残骸图系AI图",
+        "onboard_time": 1749877701,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21430,
+        "num": 422344,
+        "word": "扁担女孩想赚钱带家人看外面的风景",
+        "onboard_time": 1749878061,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422075,
+        "num": 422075,
+        "word": "疑似沈梦辰看到马嘉祺难听的反应",
+        "onboard_time": 1749877583,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417918,
+        "num": 417918,
+        "word": "贺峻霖考四级",
+        "onboard_time": 1749873801,
+        "rank": 11,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 391565,
+        "num": 391565,
+        "word": "伊军高层被骗聚集开会司令等被炸死",
+        "onboard_time": 1749872902,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95690,
+        "num": 380442,
+        "word": "杭州遭挟持捅刀女子还原事发经过",
+        "onboard_time": 1749877401,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156267,
+        "num": 376964,
+        "word": "伊朗向以色列发射第五轮导弹",
+        "onboard_time": 1749877583,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 375159,
+        "num": 375159,
+        "word": "四级答案",
+        "onboard_time": 1749872541,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189317,
+        "num": 373618,
+        "word": "长安十二时辰长安的荔枝联动细节",
+        "onboard_time": 1749877340,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141577,
+        "num": 373348,
+        "word": "小沈阳女儿讲韩语流利标准",
+        "onboard_time": 1749878302,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373302,
+        "num": 373302,
+        "word": "孟子义聊生理期大大方方的",
+        "onboard_time": 1749862281,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16270,
+        "num": 365538,
+        "word": "雨天开车除了开雨刮器还有哪些技巧",
+        "onboard_time": 1749877941,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 358529,
+        "num": 358529,
+        "word": "伊朗15分钟向以色列进行3次导弹齐射",
+        "onboard_time": 1749875120,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277104,
+        "num": 326844,
+        "word": "偶遇NewJeans",
+        "onboard_time": 1749877640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227342,
+        "num": 325641,
+        "word": "单依纯 好红啊这个节目",
+        "onboard_time": 1749867260,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325261,
+        "num": 325261,
+        "word": "伊朗向以色列发射约150枚导弹",
+        "onboard_time": 1749856280,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74691,
+        "num": 312916,
+        "word": "石雷鹏压中了一个四级作文",
+        "onboard_time": 1749878421,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 68240,
+        "num": 312827,
+        "word": "布瑞吉演我看GAI舞台",
+        "onboard_time": 1749876981,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23882,
+        "num": 312789,
+        "word": "和享界S9的微博电影之夜",
+        "onboard_time": 1749877520,
+        "rank": 26,
+        "category": "电影,汽车"
+      },
+      {
+        "raw_hot": 312784,
+        "num": 312784,
+        "word": "广东一男子强拖女子下车后驾车离开",
+        "onboard_time": 1749876022,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53797,
+        "num": 309296,
+        "word": "罗马仕曾召回3000多个充电宝",
+        "onboard_time": 1749878541,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273611,
+        "num": 305904,
+        "word": "女子遭挟持捅20多刀隆胸假体救一命",
+        "onboard_time": 1749877283,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207871,
+        "num": 299902,
+        "word": "余景天得知被淘汰的反应",
+        "onboard_time": 1749875722,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44736,
+        "num": 295256,
+        "word": "伊朗这次真的危险了吗",
+        "onboard_time": 1749878602,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132657,
+        "num": 292442,
+        "word": "岳云鹏演出了普通人的心酸与挣扎",
+        "onboard_time": 1749877881,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160104,
+        "num": 287067,
+        "word": "亲子鉴定师10年鉴定非亲生率约22%",
+        "onboard_time": 1749878660,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286372,
+        "num": 286372,
+        "word": "四级作文 梦到哪句写哪句",
+        "onboard_time": 1749872422,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251453,
+        "num": 251453,
+        "word": "中国航司恢复接收波音787",
+        "onboard_time": 1749874882,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230409,
+        "num": 230409,
+        "word": "伊朗下跪求饶应是死路一条",
+        "onboard_time": 1749875302,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229762,
+        "num": 229762,
+        "word": "比起labubu我还是比较喜欢maoyeye",
+        "onboard_time": 1749877701,
+        "rank": 37,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 223842,
+        "num": 223842,
+        "word": "央视曝光快递放门口了新骗局",
+        "onboard_time": 1749877461,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94349,
+        "num": 194773,
+        "word": "黑执事塞巴斯黑化了",
+        "onboard_time": 1749877401,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 33781,
+        "num": 189220,
+        "word": "金灿荣称伊朗的筛子堵不住了",
+        "onboard_time": 1749878720,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188393,
+        "num": 188393,
+        "word": "女友长得像单依纯是什么体验",
+        "onboard_time": 1749865159,
+        "rank": 41,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 43364,
+        "num": 186743,
+        "word": "美以合谋袭击伊朗后果或超出预料",
+        "onboard_time": 1749876801,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196852,
+        "num": 186729,
+        "word": "四级作文AI",
+        "onboard_time": 1749872663,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186180,
+        "num": 186180,
+        "word": "恋与深空日卡2.0",
+        "onboard_time": 1749872902,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180945,
+        "num": 180945,
+        "word": "眷思量",
+        "onboard_time": 1749878602,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173574,
+        "num": 173574,
+        "word": "四六级",
+        "onboard_time": 1749825507,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171797,
+        "num": 171797,
+        "word": "锦绣芳华预约量破200万",
+        "onboard_time": 1749872123,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158590,
+        "num": 158590,
+        "word": "六级作文",
+        "onboard_time": 1749873262,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157929,
+        "num": 157929,
+        "word": "考上985和中彩票500万选哪个",
+        "onboard_time": 1749876141,
+        "rank": 49,
+        "category": "议题讨论,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#紧紧依靠人民创造历史伟业#"
+    }
+  }
+}
