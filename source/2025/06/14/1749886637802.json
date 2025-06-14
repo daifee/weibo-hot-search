@@ -1,0 +1,410 @@
+{
+  "runTime": 1749886637802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1645766,
+        "num": 1645766,
+        "word": "取件时间是哪个天才设置的",
+        "onboard_time": 1749883040,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 836045,
+        "num": 836045,
+        "word": "迪士尼 私联",
+        "onboard_time": 1749870381,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35734,
+        "num": 740226,
+        "word": "中国文物和大美山河太震撼了",
+        "onboard_time": 1749872061,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 696728,
+        "num": 696728,
+        "word": "央视曝光快递放门口了新骗局",
+        "onboard_time": 1749877461,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557838,
+        "num": 557838,
+        "word": "泡泡玛特投资人预测Crybaby会火",
+        "onboard_time": 1749880581,
+        "rank": 4,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 493502,
+        "num": 493502,
+        "word": "女子1万2转错人对方坚称没收到",
+        "onboard_time": 1749883401,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477508,
+        "num": 477508,
+        "word": "曾毅自曝曾脚踹女员工",
+        "onboard_time": 1749857899,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443445,
+        "num": 443445,
+        "word": "疑似沈梦辰看到马嘉祺难听的反应",
+        "onboard_time": 1749877583,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375716,
+        "num": 375716,
+        "word": "邓超让大家今天别看五哈",
+        "onboard_time": 1749879562,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192202,
+        "num": 350743,
+        "word": "苏超南京vs淮安",
+        "onboard_time": 1749882020,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 698622,
+        "num": 350533,
+        "word": "比起labubu我还是比较喜欢maoyeye",
+        "onboard_time": 1749877701,
+        "rank": 10,
+        "category": "情感,动漫"
+      },
+      {
+        "raw_hot": 350147,
+        "num": 350147,
+        "word": "小沈阳女儿讲韩语流利标准",
+        "onboard_time": 1749878302,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342487,
+        "num": 342487,
+        "word": "亲子鉴定师10年鉴定非亲生率约22%",
+        "onboard_time": 1749878660,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281203,
+        "num": 281203,
+        "word": "24岁胃癌博主回应不良作息习惯",
+        "onboard_time": 1749871281,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279768,
+        "num": 279768,
+        "word": "树莓",
+        "onboard_time": 1749880460,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272754,
+        "num": 272754,
+        "word": "吴宣仪包上恩双A跳LikeJennie",
+        "onboard_time": 1749883940,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269799,
+        "num": 269799,
+        "word": "labubu韩国门店大排长龙",
+        "onboard_time": 1749885620,
+        "rank": 16,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 237252,
+        "num": 237252,
+        "word": "肖战 向前走别回头",
+        "onboard_time": 1749880221,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227684,
+        "num": 227684,
+        "word": "伊军高层被骗聚集开会司令等被炸死",
+        "onboard_time": 1749872902,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56473,
+        "num": 221948,
+        "word": "为什么越好的朋友越要有边界感",
+        "onboard_time": 1749885081,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220505,
+        "num": 220505,
+        "word": "伊朗公布以F35残骸图系AI图",
+        "onboard_time": 1749877701,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219212,
+        "num": 219212,
+        "word": "你的鸟底很好",
+        "onboard_time": 1749883520,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181543,
+        "num": 181543,
+        "word": "大学生全款15万买房后的生活",
+        "onboard_time": 1749883401,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180672,
+        "num": 180672,
+        "word": "杨幂郑玉婷爱比眼泪先流出来",
+        "onboard_time": 1749882620,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169614,
+        "num": 169614,
+        "word": "伊朗向以色列发射约150枚导弹",
+        "onboard_time": 1749856280,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158668,
+        "num": 158668,
+        "word": "四级",
+        "onboard_time": 1749866060,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46610,
+        "num": 156503,
+        "word": "大鹏镜头下的白客",
+        "onboard_time": 1749882740,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156491,
+        "num": 156491,
+        "word": "60秒带你看哈萨克斯坦",
+        "onboard_time": 1749882142,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152378,
+        "num": 152378,
+        "word": "男子2000元卖掉前女友30只布偶猫",
+        "onboard_time": 1749882441,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143929,
+        "num": 143929,
+        "word": "鬼灭之刃无限城篇正式预告",
+        "onboard_time": 1749881899,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 199276,
+        "num": 142623,
+        "word": "领导皇帝化",
+        "onboard_time": 1749885502,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140301,
+        "num": 140301,
+        "word": "四级答案",
+        "onboard_time": 1749872541,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136165,
+        "num": 136165,
+        "word": "苏超",
+        "onboard_time": 1749874522,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122184,
+        "num": 122184,
+        "word": "以色列人的昨天和今天",
+        "onboard_time": 1749885020,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27800,
+        "num": 121016,
+        "word": "五角大楼附近披萨店订单激增",
+        "onboard_time": 1749886581,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120662,
+        "num": 120662,
+        "word": "原来上征信和影响贷款不是一回事",
+        "onboard_time": 1749876141,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115465,
+        "num": 115465,
+        "word": "伊朗下跪求饶应是死路一条",
+        "onboard_time": 1749875302,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111400,
+        "num": 111400,
+        "word": "女子遭挟持捅20多刀隆胸假体救一命",
+        "onboard_time": 1749877283,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106995,
+        "num": 106995,
+        "word": "刘忻冷脸",
+        "onboard_time": 1749885860,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52864,
+        "num": 105461,
+        "word": "开罗国民vs迈阿密国际",
+        "onboard_time": 1749885802,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104758,
+        "num": 104758,
+        "word": "北京WBG对战MRC",
+        "onboard_time": 1749886160,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102128,
+        "num": 102128,
+        "word": "贺峻霖考四级",
+        "onboard_time": 1749873801,
+        "rank": 41,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 102008,
+        "num": 102008,
+        "word": "孟子义聊生理期大大方方的",
+        "onboard_time": 1749862281,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97450,
+        "num": 97450,
+        "word": "折腰微博收官战报",
+        "onboard_time": 1749884661,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95339,
+        "num": 95339,
+        "word": "张若昀你怎么又拿奖了",
+        "onboard_time": 1749885979,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91683,
+        "num": 91683,
+        "word": "电影无名之辈",
+        "onboard_time": 1749886520,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91231,
+        "num": 91231,
+        "word": "伊朗向以色列发射第五轮导弹",
+        "onboard_time": 1749877583,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90237,
+        "num": 90237,
+        "word": "男子在商场挟持伤人后自残身亡",
+        "onboard_time": 1749884120,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87837,
+        "num": 87837,
+        "word": "无名之辈发布会",
+        "onboard_time": 1749884300,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87428,
+        "num": 87428,
+        "word": "眷思量",
+        "onboard_time": 1749878602,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749885815177,
+  "endTime": 1749886637802,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1645766,
+      "num": 1645766,
+      "word": "取件时间是哪个天才设置的",
+      "onboard_time": 1749883040,
+      "rank": 30,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 1619588,
       "num": 1619588,
       "word": "北京多所高校禁用罗马仕充电宝",
       "onboard_time": 1749867201,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1359475,
-      "num": 1359475,
-      "word": "取件时间是哪个天才设置的",
-      "onboard_time": 1749883040,
-      "rank": 30,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 1090562,
@@ -187,6 +187,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 698622,
+      "num": 420197,
+      "word": "比起labubu我还是比较喜欢maoyeye",
+      "onboard_time": 1749877701,
+      "rank": 37,
+      "category": "情感,动漫"
+    },
+    {
       "raw_hot": 677229,
       "num": 677229,
       "word": "大爷被咬后一脚将蛇踩死带着去就医",
@@ -209,14 +217,6 @@
       "onboard_time": 1749820646,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 657244,
-      "num": 420197,
-      "word": "比起labubu我还是比较喜欢maoyeye",
-      "onboard_time": 1749877701,
-      "rank": 37,
-      "category": "情感,动漫"
     },
     {
       "raw_hot": 656032,
@@ -251,20 +251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 557838,
+      "num": 557838,
+      "word": "泡泡玛特投资人预测Crybaby会火",
+      "onboard_time": 1749880581,
+      "rank": 20,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 545141,
       "num": 545141,
       "word": "女友长得像单依纯是什么体验",
       "onboard_time": 1749865159,
       "rank": 16,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 540747,
-      "num": 540747,
-      "word": "泡泡玛特投资人预测Crybaby会火",
-      "onboard_time": 1749880581,
-      "rank": 20,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 539361,
@@ -313,6 +313,14 @@
       "onboard_time": 1749872541,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 493502,
+      "num": 493502,
+      "word": "女子1万2转错人对方坚称没收到",
+      "onboard_time": 1749883401,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 479608,
@@ -368,14 +376,6 @@
       "word": "原来上征信和影响贷款不是一回事",
       "onboard_time": 1749876141,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 427899,
-      "num": 427899,
-      "word": "女子1万2转错人对方坚称没收到",
-      "onboard_time": 1749883401,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -627,6 +627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269799,
+      "num": 269799,
+      "word": "labubu韩国门店大排长龙",
+      "onboard_time": 1749885620,
+      "rank": 36,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 268077,
       "num": 268077,
       "word": "调查组逐一核查罗帅宇事件1281页材料",
@@ -779,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219212,
+      "num": 219212,
+      "word": "你的鸟底很好",
+      "onboard_time": 1749883520,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 217470,
       "num": 217470,
       "word": "四级段落匹配",
@@ -859,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199276,
+      "num": 158755,
+      "word": "领导皇帝化",
+      "onboard_time": 1749885502,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198050,
       "num": 306971,
       "word": "陈妍希看孙燕姿演唱会哭了半场",
@@ -889,6 +913,14 @@
       "onboard_time": 1749868880,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192202,
+      "num": 420144,
+      "word": "苏超南京vs淮安",
+      "onboard_time": 1749882020,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 191391,
@@ -979,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181543,
+      "num": 181543,
+      "word": "大学生全款15万买房后的生活",
+      "onboard_time": 1749883401,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180627,
       "num": 223374,
       "word": "大鹏镜头下的白客",
@@ -1003,28 +1043,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 177785,
-      "num": 177785,
-      "word": "大学生全款15万买房后的生活",
-      "onboard_time": 1749883401,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175784,
       "num": 175784,
       "word": "雷霆2比2步行者",
       "onboard_time": 1749874162,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175535,
-      "num": 158755,
-      "word": "领导皇帝化",
-      "onboard_time": 1749885502,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 173460,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1749826766,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171219,
-      "num": 171219,
-      "word": "你的鸟底很好",
-      "onboard_time": 1749883520,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 170784,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1749773961,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 162250,
-      "num": 420144,
-      "word": "苏超南京vs淮安",
-      "onboard_time": 1749882020,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 159729,
@@ -1387,6 +1395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122184,
+      "num": 122184,
+      "word": "以色列人的昨天和今天",
+      "onboard_time": 1749885020,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120410,
       "num": 120410,
       "word": "折腰微博收官战报",
@@ -1425,14 +1441,6 @@
       "onboard_time": 1749828743,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118824,
-      "num": 118824,
-      "word": "labubu韩国门店大排长龙",
-      "onboard_time": 1749885620,
-      "rank": 36,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 118724,
@@ -1555,14 +1563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108262,
-      "num": 113329,
-      "word": "以色列人的昨天和今天",
-      "onboard_time": 1749885020,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108145,
       "num": 108145,
       "word": "谢娜张真源嘻嘻范丞丞不嘻嘻",
@@ -1577,6 +1577,14 @@
       "onboard_time": 1749866119,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106995,
+      "num": 106995,
+      "word": "刘忻冷脸",
+      "onboard_time": 1749885860,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 106424,
@@ -1601,6 +1609,14 @@
       "onboard_time": 1749866060,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104758,
+      "num": 104758,
+      "word": "北京WBG对战MRC",
+      "onboard_time": 1749886160,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 104339,
@@ -1667,6 +1683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 95339,
+      "num": 95339,
+      "word": "张若昀你怎么又拿奖了",
+      "onboard_time": 1749885979,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94349,
       "num": 194773,
       "word": "黑执事塞巴斯黑化了",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1749833239,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91683,
+      "num": 91683,
+      "word": "电影无名之辈",
+      "onboard_time": 1749886520,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 90493,
@@ -1884,7 +1916,7 @@
     },
     {
       "raw_hot": 58211,
-      "num": 210218,
+      "num": 221948,
       "word": "为什么越好的朋友越要有边界感",
       "onboard_time": 1749885081,
       "rank": 19,
@@ -1931,7 +1963,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 51300,
+      "raw_hot": 52864,
       "num": 112946,
       "word": "开罗国民vs迈阿密国际",
       "onboard_time": 1749885802,
@@ -2128,6 +2160,14 @@
       "word": "以色列袭击伊朗美国到底知不知道",
       "onboard_time": 1749841696,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 27800,
+      "num": 121016,
+      "word": "五角大楼附近披萨店订单激增",
+      "onboard_time": 1749886581,
+      "rank": 34,
       "category": "国际时政"
     },
     {

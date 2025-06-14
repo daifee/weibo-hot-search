@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749885815177,
+  "endTime": 1749886637802,
   "band_list": [
     {
       "raw_hot": 17710576,
@@ -539,6 +539,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 1645766,
+      "num": 1645766,
+      "word": "取件时间是哪个天才设置的",
+      "onboard_time": 1749883040,
+      "rank": 30,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 1635358,
       "num": 618935,
       "word": "曝井柏然刘雯领证",
@@ -729,14 +737,6 @@
       "onboard_time": 1749553820,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1359475,
-      "num": 1359475,
-      "word": "取件时间是哪个天才设置的",
-      "onboard_time": 1749883040,
-      "rank": 30,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 1346628,
@@ -2155,6 +2155,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 698622,
+      "num": 420197,
+      "word": "比起labubu我还是比较喜欢maoyeye",
+      "onboard_time": 1749877701,
+      "rank": 37,
+      "category": "情感,动漫"
+    },
+    {
       "raw_hot": 697621,
       "num": 697621,
       "word": "中餐厅9收官",
@@ -2273,14 +2281,6 @@
       "onboard_time": 1749450080,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 657244,
-      "num": 420197,
-      "word": "比起labubu我还是比较喜欢maoyeye",
-      "onboard_time": 1749877701,
-      "rank": 37,
-      "category": "情感,动漫"
     },
     {
       "raw_hot": 656032,
@@ -2899,6 +2899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 557838,
+      "num": 557838,
+      "word": "泡泡玛特投资人预测Crybaby会火",
+      "onboard_time": 1749880581,
+      "rank": 20,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 556779,
       "num": 556779,
       "word": "浪姐奖杯 丑",
@@ -3033,14 +3041,6 @@
       "onboard_time": 1749742221,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 540747,
-      "num": 540747,
-      "word": "泡泡玛特投资人预测Crybaby会火",
-      "onboard_time": 1749880581,
-      "rank": 20,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 537444,
@@ -3393,6 +3393,14 @@
       "onboard_time": 1749541941,
       "rank": 12,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 493502,
+      "num": 493502,
+      "word": "女子1万2转错人对方坚称没收到",
+      "onboard_time": 1749883401,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 493031,
@@ -3929,14 +3937,6 @@
       "onboard_time": 1749776840,
       "rank": 8,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 427899,
-      "num": 427899,
-      "word": "女子1万2转错人对方坚称没收到",
-      "onboard_time": 1749883401,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 427161,
@@ -6475,6 +6475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269799,
+      "num": 269799,
+      "word": "labubu韩国门店大排长龙",
+      "onboard_time": 1749885620,
+      "rank": 36,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 269253,
       "num": 410862,
       "word": "程潇妈妈的话让李嘉格释怀妈妈收彩礼",
@@ -8171,6 +8179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 219212,
+      "num": 219212,
+      "word": "你的鸟底很好",
+      "onboard_time": 1749883520,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219116,
       "num": 219116,
       "word": "女子遭水枪攻击警方称男子未逃逸",
@@ -9459,6 +9475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199276,
+      "num": 158755,
+      "word": "领导皇帝化",
+      "onboard_time": 1749885502,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199164,
       "num": 199164,
       "word": "披哥在白举纲评论区团建",
@@ -9977,6 +10001,14 @@
       "onboard_time": 1749617483,
       "rank": 25,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 192202,
+      "num": 420144,
+      "word": "苏超南京vs淮安",
+      "onboard_time": 1749882020,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 192122,
@@ -11003,6 +11035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181543,
+      "num": 181543,
+      "word": "大学生全款15万买房后的生活",
+      "onboard_time": 1749883401,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181475,
       "num": 181475,
       "word": "美媒记者在加州被警察开枪击中脑门",
@@ -11291,14 +11331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177785,
-      "num": 177785,
-      "word": "大学生全款15万买房后的生活",
-      "onboard_time": 1749883401,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177784,
       "num": 184760,
       "word": "湘雅刘翔峰多次被举报",
@@ -11409,14 +11441,6 @@
       "onboard_time": 1749684080,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175535,
-      "num": 158755,
-      "word": "领导皇帝化",
-      "onboard_time": 1749885502,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 175295,
@@ -11817,14 +11841,6 @@
       "onboard_time": 1749528862,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171219,
-      "num": 171219,
-      "word": "你的鸟底很好",
-      "onboard_time": 1749883520,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171085,
@@ -12753,14 +12769,6 @@
       "onboard_time": 1749719843,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162250,
-      "num": 420144,
-      "word": "苏超南京vs淮安",
-      "onboard_time": 1749882020,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 162163,
@@ -17251,6 +17259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122184,
+      "num": 122184,
+      "word": "以色列人的昨天和今天",
+      "onboard_time": 1749885020,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122153,
       "num": 122153,
       "word": "谢娜跳舞导播切了陈德容",
@@ -17585,14 +17601,6 @@
       "onboard_time": 1749828743,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118824,
-      "num": 118824,
-      "word": "labubu韩国门店大排长龙",
-      "onboard_time": 1749885620,
-      "rank": 36,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 118823,
@@ -18443,14 +18451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 108262,
-      "num": 113329,
-      "word": "以色列人的昨天和今天",
-      "onboard_time": 1749885020,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108222,
       "num": 108222,
       "word": "Fly不首发",
@@ -18529,6 +18529,14 @@
       "onboard_time": 1749546383,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106995,
+      "num": 106995,
+      "word": "刘忻冷脸",
+      "onboard_time": 1749885860,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 106927,
@@ -18641,6 +18649,14 @@
       "onboard_time": 1749554480,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104758,
+      "num": 104758,
+      "word": "北京WBG对战MRC",
+      "onboard_time": 1749886160,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 104751,
@@ -19227,6 +19243,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 95339,
+      "num": 95339,
+      "word": "张若昀你怎么又拿奖了",
+      "onboard_time": 1749885979,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95298,
       "num": 165700,
       "word": "跳水救人的张伟又去帮学弟学妹了",
@@ -19457,6 +19481,14 @@
       "onboard_time": 1749718100,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 91683,
+      "num": 91683,
+      "word": "电影无名之辈",
+      "onboard_time": 1749886520,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 91677,
@@ -21540,7 +21572,7 @@
     },
     {
       "raw_hot": 58211,
-      "num": 210218,
+      "num": 221948,
       "word": "为什么越好的朋友越要有边界感",
       "onboard_time": 1749885081,
       "rank": 19,
@@ -21955,6 +21987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 52864,
+      "num": 112946,
+      "word": "开罗国民vs迈阿密国际",
+      "onboard_time": 1749885802,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52557,
       "num": 134277,
       "word": "未成年人涉三罪情节恶劣不适用减轻处罚",
@@ -22017,14 +22057,6 @@
       "onboard_time": 1749716300,
       "rank": 27,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 51300,
-      "num": 112946,
-      "word": "开罗国民vs迈阿密国际",
-      "onboard_time": 1749885802,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 51051,
@@ -24057,6 +24089,14 @@
       "onboard_time": 1749706101,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27800,
+      "num": 121016,
+      "word": "五角大楼附近披萨店订单激增",
+      "onboard_time": 1749886581,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27751,
