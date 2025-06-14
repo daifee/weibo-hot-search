@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749883643210,
+  "endTime": 1749885815177,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1359475,
+      "num": 1359475,
+      "word": "取件时间是哪个天才设置的",
+      "onboard_time": 1749883040,
+      "rank": 30,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 1090562,
       "num": 1090562,
       "word": "央视曝光快递放门口了新骗局",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 973371,
-      "num": 370598,
+      "num": 420012,
       "word": "亲子鉴定师10年鉴定非亲生率约22%",
       "onboard_time": 1749878660,
       "rank": 33,
@@ -203,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 657244,
+      "num": 420197,
+      "word": "比起labubu我还是比较喜欢maoyeye",
+      "onboard_time": 1749877701,
+      "rank": 37,
+      "category": "情感,动漫"
+    },
+    {
       "raw_hot": 656032,
       "num": 366818,
       "word": "谁给曾毅想的公关",
@@ -241,6 +257,14 @@
       "onboard_time": 1749865159,
       "rank": 16,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 540747,
+      "num": 540747,
+      "word": "泡泡玛特投资人预测Crybaby会火",
+      "onboard_time": 1749880581,
+      "rank": 20,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 539361,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 463809,
-      "num": 360459,
+      "num": 419636,
       "word": "邓超让大家今天别看五哈",
       "onboard_time": 1749879562,
       "rank": 36,
@@ -347,20 +371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 435827,
-      "num": 292052,
-      "word": "泡泡玛特投资人预测Crybaby会火",
-      "onboard_time": 1749880581,
-      "rank": 20,
-      "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 420197,
-      "num": 420197,
-      "word": "比起labubu我还是比较喜欢maoyeye",
-      "onboard_time": 1749877701,
-      "rank": 37,
-      "category": "情感,动漫"
+      "raw_hot": 427899,
+      "num": 427899,
+      "word": "女子1万2转错人对方坚称没收到",
+      "onboard_time": 1749883401,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416871,
@@ -513,6 +529,14 @@
       "onboard_time": 1749856698,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301030,
+      "num": 301030,
+      "word": "吴宣仪包上恩双A跳LikeJennie",
+      "onboard_time": 1749883940,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 300147,
@@ -939,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185125,
-      "num": 185125,
-      "word": "取件时间是哪个天才设置的",
-      "onboard_time": 1749883040,
-      "rank": 30,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 184514,
       "num": 266942,
       "word": "丁太升说马嘉祺聪明演绎王菲经典",
@@ -987,12 +1003,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 177785,
+      "num": 177785,
+      "word": "大学生全款15万买房后的生活",
+      "onboard_time": 1749883401,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175784,
       "num": 175784,
       "word": "雷霆2比2步行者",
       "onboard_time": 1749874162,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175535,
+      "num": 158755,
+      "word": "领导皇帝化",
+      "onboard_time": 1749885502,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 173460,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1749826766,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171219,
+      "num": 171219,
+      "word": "你的鸟底很好",
+      "onboard_time": 1749883520,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170784,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1749773961,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162250,
+      "num": 420144,
+      "word": "苏超南京vs淮安",
+      "onboard_time": 1749882020,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 159729,
@@ -1129,14 +1177,6 @@
       "onboard_time": 1749831801,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146266,
-      "num": 146266,
-      "word": "大学生全款15万买房后的生活",
-      "onboard_time": 1749883401,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 146081,
@@ -1251,14 +1291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131549,
-      "num": 131549,
-      "word": "女子1万2转错人对方坚称没收到",
-      "onboard_time": 1749883401,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130501,
       "num": 130501,
       "word": "沈腾宋亚轩从冒昧变暧昧",
@@ -1323,14 +1355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126768,
-      "num": 126768,
-      "word": "苏超南京vs淮安",
-      "onboard_time": 1749882020,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126760,
       "num": 126760,
       "word": "丁程鑫躲c位",
@@ -1355,20 +1379,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123445,
-      "num": 123445,
-      "word": "你的鸟底很好",
-      "onboard_time": 1749883520,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 123038,
       "num": 478298,
       "word": "以高官被曝均被转移至安全地点",
       "onboard_time": 1749832341,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120410,
+      "num": 120410,
+      "word": "折腰微博收官战报",
+      "onboard_time": 1749884661,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 119679,
@@ -1387,12 +1411,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119199,
+      "num": 119199,
+      "word": "无名之辈发布会",
+      "onboard_time": 1749884300,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118834,
       "num": 118834,
       "word": "台风暴雨天气最大的受害者出现了",
       "onboard_time": 1749828743,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118824,
+      "num": 118824,
+      "word": "labubu韩国门店大排长龙",
+      "onboard_time": 1749885620,
+      "rank": 36,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 118724,
@@ -1491,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112685,
+      "num": 112685,
+      "word": "男子在商场挟持伤人后自残身亡",
+      "onboard_time": 1749884120,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111101,
       "num": 111101,
       "word": "NBA总决赛",
@@ -1505,6 +1553,14 @@
       "onboard_time": 1749807502,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108262,
+      "num": 113329,
+      "word": "以色列人的昨天和今天",
+      "onboard_time": 1749885020,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108145,
@@ -1579,6 +1635,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99910,
+      "num": 99910,
+      "word": "不加班是打工人最好的医美",
+      "onboard_time": 1749885680,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 99684,
+      "num": 99684,
+      "word": "王珞丹帮妈妈追星叶童",
+      "onboard_time": 1749884960,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97629,
       "num": 105052,
       "word": "伊朗总统称将使敌人后悔其愚蠢行为",
@@ -1633,6 +1705,14 @@
       "onboard_time": 1749847035,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 83706,
+      "num": 109887,
+      "word": "女子为给丈夫惊喜搭印坠机客机遇难",
+      "onboard_time": 1749883819,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83313,
@@ -1803,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58211,
+      "num": 210218,
+      "word": "为什么越好的朋友越要有边界感",
+      "onboard_time": 1749885081,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 57767,
       "num": 276138,
       "word": "中东多国上空导弹齐飞",
@@ -1841,6 +1929,14 @@
       "onboard_time": 1749872061,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 51300,
+      "num": 112946,
+      "word": "开罗国民vs迈阿密国际",
+      "onboard_time": 1749885802,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 49880,
