@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749866273876,
+  "endTime": 1749867644340,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -19,7 +19,7 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 1459432,
+      "raw_hot": 1789880,
       "num": 1003639,
       "word": "曾毅自曝曾脚踹女员工",
       "onboard_time": 1749857899,
@@ -33,6 +33,14 @@
       "onboard_time": 1749824969,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 742995,
+      "num": 1118879,
+      "word": "F35",
+      "onboard_time": 1749866060,
+      "rank": 7,
+      "category": "国际时政,国际时政"
     },
     {
       "raw_hot": 739849,
@@ -59,12 +67,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 718663,
+      "num": 718663,
+      "word": "罗帅宇坠亡后手机有3次通话记录",
+      "onboard_time": 1749857419,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 677229,
       "num": 677229,
       "word": "大爷被咬后一脚将蛇踩死带着去就医",
       "onboard_time": 1749830541,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 669899,
+      "num": 350980,
+      "word": "孟子义聊生理期大大方方的",
+      "onboard_time": 1749862281,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 660073,
@@ -91,20 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 641522,
-      "num": 270048,
-      "word": "孟子义聊生理期大大方方的",
-      "onboard_time": 1749862281,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 572863,
-      "num": 572863,
-      "word": "罗帅宇坠亡后手机有3次通话记录",
-      "onboard_time": 1749857419,
-      "rank": 30,
-      "category": "辟谣/通报"
+      "raw_hot": 545141,
+      "num": 545141,
+      "word": "女友长得像单依纯是什么体验",
+      "onboard_time": 1749865159,
+      "rank": 16,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 539361,
@@ -115,6 +131,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 532204,
+      "num": 260906,
+      "word": "18月龄幼童被饭店客人灌50毫升啤酒",
+      "onboard_time": 1749861200,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514536,
       "num": 468180,
       "word": "器官捐献资料未发现违法违规行为",
@@ -123,12 +147,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 473668,
-      "num": 228525,
-      "word": "18月龄幼童被饭店客人灌50毫升啤酒",
-      "onboard_time": 1749861200,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 493847,
+      "num": 493847,
+      "word": "金晨因赛车故障无缘比赛落泪",
+      "onboard_time": 1749860660,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 470143,
@@ -145,6 +169,14 @@
       "onboard_time": 1749841334,
       "rank": 29,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 451446,
+      "num": 259920,
+      "word": "男子按摩后下身不适索赔5万",
+      "onboard_time": 1749863420,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416871,
@@ -179,28 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363710,
-      "num": 227834,
-      "word": "男子按摩后下身不适索赔5万",
-      "onboard_time": 1749863420,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360549,
-      "num": 360549,
-      "word": "金晨因赛车故障无缘比赛落泪",
-      "onboard_time": 1749860660,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 312865,
-      "num": 312865,
-      "word": "F35",
-      "onboard_time": 1749866060,
-      "rank": 7,
-      "category": "国际时政,国际时政"
+      "raw_hot": 304878,
+      "num": 304878,
+      "word": "田柾国道歉",
+      "onboard_time": 1749856698,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 290387,
@@ -211,8 +227,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 275800,
-      "num": 275800,
+      "raw_hot": 276224,
+      "num": 276224,
       "word": "蝴蝶",
       "onboard_time": 1749866060,
       "rank": 9,
@@ -243,6 +259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264538,
+      "num": 264538,
+      "word": "印度坠机事故遇难人数升至274人",
+      "onboard_time": 1749861260,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 259024,
+      "num": 259024,
+      "word": "非遗里的青春中国",
+      "onboard_time": 1749867201,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252850,
       "num": 252850,
       "word": "伊朗导弹已致以色列1死50伤",
@@ -251,36 +283,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 244829,
-      "num": 244829,
-      "word": "田柾国道歉",
-      "onboard_time": 1749856698,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 238731,
-      "num": 238731,
-      "word": "印度坠机事故遇难人数升至274人",
-      "onboard_time": 1749861260,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 233207,
-      "num": 227501,
+      "raw_hot": 246093,
+      "num": 246093,
       "word": "男子因老人看孩子问题积怨杀妻",
       "onboard_time": 1749858319,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230280,
-      "num": 230280,
-      "word": "女友长得像单依纯是什么体验",
-      "onboard_time": 1749865159,
-      "rank": 16,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 222683,
@@ -299,12 +307,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203453,
-      "num": 203453,
+      "raw_hot": 212955,
+      "num": 212955,
+      "word": "伊媒体公布以色列F35战机残骸照片",
+      "onboard_time": 1749866720,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 208404,
+      "num": 208404,
+      "word": "北京多所高校禁用罗马仕充电宝",
+      "onboard_time": 1749867201,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206648,
+      "num": 206648,
       "word": "爸爸49元给女儿买30斤大冬瓜抱睡",
       "onboard_time": 1749858319,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190991,
+      "num": 190991,
+      "word": "他们是奥运冠军也是献血大使",
+      "onboard_time": 1749867320,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 190120,
@@ -395,6 +427,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151576,
+      "num": 151576,
+      "word": "高校回应禁用罗马仕充电宝",
+      "onboard_time": 1749867260,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149785,
+      "num": 149785,
+      "word": "单依纯 好红啊这个节目",
+      "onboard_time": 1749867260,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148497,
       "num": 148497,
       "word": "杨幂Labubu书包",
@@ -427,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144057,
+      "num": 144057,
+      "word": "关注以色列伊朗局势",
+      "onboard_time": 1749866060,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142505,
       "num": 142505,
       "word": "GAI给我听哭了",
@@ -449,6 +505,30 @@
       "onboard_time": 1749832221,
       "rank": 18,
       "category": "电影,综艺"
+    },
+    {
+      "raw_hot": 139149,
+      "num": 139149,
+      "word": "郑钦文2比0拉杜卡努",
+      "onboard_time": 1749864260,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138393,
+      "num": 209270,
+      "word": "内娱男孩没什么技巧就是硬帅",
+      "onboard_time": 1749864379,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 137965,
+      "num": 137965,
+      "word": "王源应援棒",
+      "onboard_time": 1749867500,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 135088,
@@ -481,6 +561,14 @@
       "onboard_time": 1749829403,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128189,
+      "num": 128189,
+      "word": "泡泡玛特情绪经济",
+      "onboard_time": 1749863120,
+      "rank": 47,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 128163,
@@ -555,28 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118533,
-      "num": 118532,
-      "word": "关注以色列伊朗局势",
-      "onboard_time": 1749866060,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 118344,
       "num": 118344,
       "word": "台风蝴蝶在海南登陆",
       "onboard_time": 1749829224,
       "rank": 45,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 117339,
-      "num": 117339,
-      "word": "郑钦文2比0拉杜卡努",
-      "onboard_time": 1749864260,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 115791,
@@ -603,6 +675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 111101,
+      "num": 111101,
+      "word": "NBA总决赛",
+      "onboard_time": 1749861921,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110539,
       "num": 110539,
       "word": "17岁女儿闲鱼代打车套现妈妈上万元",
@@ -612,7 +692,7 @@
     },
     {
       "raw_hot": 108013,
-      "num": 108013,
+      "num": 372620,
       "word": "美国洛杉矶已超500人被捕",
       "onboard_time": 1749866119,
       "rank": 42,
@@ -641,14 +721,6 @@
       "onboard_time": 1749866060,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 104474,
-      "num": 169216,
-      "word": "内娱男孩没什么技巧就是硬帅",
-      "onboard_time": 1749864379,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 104339,
@@ -683,20 +755,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97830,
-      "num": 97830,
-      "word": "泡泡玛特情绪经济",
-      "onboard_time": 1749863120,
-      "rank": 47,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 97629,
       "num": 105052,
       "word": "伊朗总统称将使敌人后悔其愚蠢行为",
       "onboard_time": 1749839235,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97530,
+      "num": 236802,
+      "word": "今天考四六级",
+      "onboard_time": 1749864561,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 92736,
@@ -939,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28712,
+      "num": 309832,
+      "word": "伊朗被美国列入旅行禁令名单",
+      "onboard_time": 1749866961,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28397,
       "num": 93645,
       "word": "以色列袭击伊朗美国到底知不知道",
@@ -1004,7 +1084,7 @@
     },
     {
       "raw_hot": 21813,
-      "num": 638156,
+      "num": 708218,
       "word": "数里行间感知经济活力",
       "onboard_time": 1749825030,
       "rank": 2,
