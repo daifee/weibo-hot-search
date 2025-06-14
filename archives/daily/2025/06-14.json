@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749897807622,
+  "endTime": 1749900023820,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -107,12 +107,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1173728,
-      "num": 1173728,
+      "raw_hot": 1481018,
+      "num": 1481018,
       "word": "劳力士店员否认曾毅戴表为自家品牌",
       "onboard_time": 1749894743,
       "rank": 9,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1121660,
+      "num": 1121660,
+      "word": "杨幂手拿荔枝",
+      "onboard_time": 1749893183,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1090562,
@@ -171,14 +179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 882460,
-      "num": 882460,
-      "word": "杨幂手拿荔枝",
-      "onboard_time": 1749893183,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 866080,
       "num": 866080,
       "word": "四级答案",
@@ -201,6 +201,14 @@
       "onboard_time": 1749873801,
       "rank": 7,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 773630,
+      "num": 773630,
+      "word": "女孩基因突变出生几个月眼睛变蓝色",
+      "onboard_time": 1749892951,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 772175,
@@ -267,14 +275,6 @@
       "category": "情感,动漫"
     },
     {
-      "raw_hot": 680888,
-      "num": 680888,
-      "word": "女孩基因突变出生几个月眼睛变蓝色",
-      "onboard_time": 1749892951,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 677229,
       "num": 677229,
       "word": "大爷被咬后一脚将蛇踩死带着去就医",
@@ -315,12 +315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648242,
+      "num": 648242,
+      "word": "刘宇宁 没收到过剧本",
+      "onboard_time": 1749898045,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647510,
       "num": 647510,
       "word": "马嘉祺 难听",
       "onboard_time": 1749820524,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 647344,
+      "num": 647344,
+      "word": "前妻偷偷生了我的孩子",
+      "onboard_time": 1749897021,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 630482,
@@ -441,6 +457,14 @@
       "onboard_time": 1749883401,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 484362,
+      "num": 484362,
+      "word": "黄圣依生孩子没打麻药",
+      "onboard_time": 1749897021,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 479608,
@@ -691,12 +715,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 326181,
-      "num": 326181,
-      "word": "黄圣依生孩子没打麻药",
-      "onboard_time": 1749897021,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 315788,
+      "num": 315788,
+      "word": "酱园弄",
+      "onboard_time": 1749894984,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 312784,
@@ -747,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290443,
+      "num": 290443,
+      "word": "第一次看庄达菲这么穿",
+      "onboard_time": 1749897202,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 290387,
       "num": 368053,
       "word": "网红刘琳琳被曝直播时辱骂观众",
@@ -761,6 +793,14 @@
       "onboard_time": 1749874702,
       "rank": 28,
       "category": "辟谣/通报,动漫"
+    },
+    {
+      "raw_hot": 280658,
+      "num": 626819,
+      "word": "央视新闻评LABUBU爆火",
+      "onboard_time": 1749898104,
+      "rank": 9,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 280415,
@@ -867,20 +907,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255777,
-      "num": 255777,
-      "word": "前妻偷偷生了我的孩子",
-      "onboard_time": 1749897021,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253970,
       "num": 321996,
       "word": "杨超越一开口我人蒙了",
       "onboard_time": 1749897202,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 253640,
+      "num": 253640,
+      "word": "杨幂宝蓝高定",
+      "onboard_time": 1749898822,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 253565,
+      "num": 253565,
+      "word": "中国三航母时代即将到来",
+      "onboard_time": 1749898582,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 252850,
@@ -929,6 +977,14 @@
       "onboard_time": 1749887059,
       "rank": 32,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 242293,
+      "num": 242293,
+      "word": "章子怡短发",
+      "onboard_time": 1749899122,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 240944,
@@ -1003,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225561,
-      "num": 225561,
-      "word": "酱园弄",
-      "onboard_time": 1749894984,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 222683,
       "num": 222683,
       "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
@@ -1075,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209997,
+      "num": 209997,
+      "word": "8岁女孩患罕见病眼珠变蓝色",
+      "onboard_time": 1749897742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208385,
       "num": 208385,
       "word": "snob",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1749879621,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 206220,
-      "num": 223822,
-      "word": "第一次看庄达菲这么穿",
-      "onboard_time": 1749897202,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 206205,
@@ -1195,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200253,
+      "num": 200253,
+      "word": "再一次对华晨宇人气有了实感",
+      "onboard_time": 1749899421,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199276,
       "num": 158755,
       "word": "领导皇帝化",
@@ -1209,6 +1265,14 @@
       "onboard_time": 1749871161,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196884,
+      "num": 196884,
+      "word": "刘强东创业柜台北京再营业",
+      "onboard_time": 1749899363,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 196410,
@@ -1339,6 +1403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182365,
+      "num": 182365,
+      "word": "金价升至一个月来高位",
+      "onboard_time": 1749898582,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181543,
       "num": 181543,
       "word": "大学生全款15万买房后的生活",
@@ -1385,6 +1457,14 @@
       "onboard_time": 1749893963,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176366,
+      "num": 176366,
+      "word": "恋与制作人",
+      "onboard_time": 1749898163,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 175784,
@@ -1507,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166831,
+      "num": 166831,
+      "word": "以色列暗杀9名伊朗科学家",
+      "onboard_time": 1749898822,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166344,
       "num": 1394965,
       "word": "这才是我该看的美人图",
@@ -1561,6 +1649,22 @@
       "onboard_time": 1749895222,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163122,
+      "num": 163122,
+      "word": "苏超战报",
+      "onboard_time": 1749899542,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162909,
+      "num": 162909,
+      "word": "T1战胜KT",
+      "onboard_time": 1749899181,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 162587,
@@ -1619,6 +1723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156828,
+      "num": 156828,
+      "word": "六级 大湾区",
+      "onboard_time": 1749898463,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155506,
       "num": 238213,
       "word": "李晨晒的labubu2020年发布",
@@ -1635,12 +1747,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153565,
+      "num": 153565,
+      "word": "花如月白九思命中注定爱上你",
+      "onboard_time": 1749899842,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151258,
       "num": 151258,
       "word": "王伟忠推藏海传",
       "onboard_time": 1749872002,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151040,
+      "num": 151040,
+      "word": "女将星",
+      "onboard_time": 1749897863,
+      "rank": 44,
+      "category": "读书作家"
     },
     {
       "raw_hot": 150779,
@@ -1657,6 +1785,14 @@
       "onboard_time": 1749802641,
       "rank": 29,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 147777,
+      "num": 147777,
+      "word": "租不到房子的老年人",
+      "onboard_time": 1749899782,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147775,
@@ -1771,6 +1907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141029,
+      "num": 139846,
+      "word": "李嘉格剖腹产刀疤下雨天发痒",
+      "onboard_time": 1749899901,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140800,
       "num": 239733,
       "word": "朱一龙回看六年前的抱负",
@@ -1801,6 +1945,14 @@
       "onboard_time": 1749864260,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139006,
+      "num": 139006,
+      "word": "2025IVL夏季赛",
+      "onboard_time": 1749899962,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 138393,
@@ -2244,7 +2396,7 @@
     },
     {
       "raw_hot": 100484,
-      "num": 150765,
+      "num": 161444,
       "word": "柯南m28熹妃回宫版",
       "onboard_time": 1749896782,
       "rank": 44,
@@ -2315,6 +2467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94840,
+      "num": 161707,
+      "word": "全美或爆发2000场抗议",
+      "onboard_time": 1749898104,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94349,
       "num": 194773,
       "word": "黑执事塞巴斯黑化了",
@@ -2371,11 +2531,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 85619,
-      "num": 167558,
-      "word": "8岁女孩患罕见病眼珠变蓝色",
-      "onboard_time": 1749897742,
-      "rank": 38,
+      "raw_hot": 84574,
+      "num": 262107,
+      "word": "10岁男童台风天海上漂流5小时",
+      "onboard_time": 1749899243,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2456,6 +2616,14 @@
       "word": "特朗普推翻性侵罪名失败",
       "onboard_time": 1749869181,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 74074,
+      "num": 167819,
+      "word": "伊朗称现在美伊核谈判已无意义",
+      "onboard_time": 1749897983,
+      "rank": 33,
       "category": "国际时政"
     },
     {
@@ -2985,6 +3153,14 @@
       "onboard_time": 1749841154,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26444,
+      "num": 1110806,
+      "word": "文化中国行传承古建筑智慧",
+      "onboard_time": 1749892289,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26323,

@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749897807622,
+  "endTime": 1749900023820,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1195,6 +1195,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1481018,
+      "num": 1481018,
+      "word": "劳力士店员否认曾毅戴表为自家品牌",
+      "onboard_time": 1749894743,
+      "rank": 9,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 1480550,
       "num": 339833,
       "word": "考生开考前25分钟因锁故障被困家中",
@@ -1907,14 +1915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1173728,
-      "num": 1173728,
-      "word": "劳力士店员否认曾毅戴表为自家品牌",
-      "onboard_time": 1749894743,
-      "rank": 9,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 1172032,
       "num": 388383,
       "word": "400块的鞋犹豫了三年",
@@ -2041,6 +2041,14 @@
       "onboard_time": 1748918841,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1121660,
+      "num": 1121660,
+      "word": "杨幂手拿荔枝",
+      "onboard_time": 1749893183,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1121291,
@@ -2995,14 +3003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 882460,
-      "num": 882460,
-      "word": "杨幂手拿荔枝",
-      "onboard_time": 1749893183,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 879784,
       "num": 879784,
       "word": "罗帅宇家属曾称后悔没做尸检",
@@ -3625,6 +3625,14 @@
       "onboard_time": 1749480982,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 773630,
+      "num": 773630,
+      "word": "女孩基因突变出生几个月眼睛变蓝色",
+      "onboard_time": 1749892951,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 772175,
@@ -4299,14 +4307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 680888,
-      "num": 680888,
-      "word": "女孩基因突变出生几个月眼睛变蓝色",
-      "onboard_time": 1749892951,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 678956,
       "num": 1108633,
       "word": "藏海香暗荼孩子该姓什么",
@@ -4593,6 +4593,22 @@
       "onboard_time": 1749029361,
       "rank": 32,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 648242,
+      "num": 648242,
+      "word": "刘宇宁 没收到过剧本",
+      "onboard_time": 1749898045,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 647344,
+      "num": 647344,
+      "word": "前妻偷偷生了我的孩子",
+      "onboard_time": 1749897021,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 647115,
@@ -6897,6 +6913,14 @@
       "onboard_time": 1748835740,
       "rank": 35,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 484362,
+      "num": 484362,
+      "word": "黄圣依生孩子没打麻药",
+      "onboard_time": 1749897021,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 484337,
@@ -10739,14 +10763,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 326181,
-      "num": 326181,
-      "word": "黄圣依生孩子没打麻药",
-      "onboard_time": 1749897021,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 325960,
       "num": 202021,
       "word": "医生曾称陈学冬一定会得风湿",
@@ -12003,6 +12019,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 290443,
+      "num": 290443,
+      "word": "第一次看庄达菲这么穿",
+      "onboard_time": 1749897202,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 290387,
       "num": 368053,
       "word": "网红刘琳琳被曝直播时辱骂观众",
@@ -12417,6 +12441,14 @@
       "onboard_time": 1749191421,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280658,
+      "num": 626819,
+      "word": "央视新闻评LABUBU爆火",
+      "onboard_time": 1749898104,
+      "rank": 9,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 280535,
@@ -13651,14 +13683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255777,
-      "num": 255777,
-      "word": "前妻偷偷生了我的孩子",
-      "onboard_time": 1749897021,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255774,
       "num": 255774,
       "word": "四面佛开机",
@@ -13809,6 +13833,22 @@
       "onboard_time": 1749818183,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253640,
+      "num": 253640,
+      "word": "杨幂宝蓝高定",
+      "onboard_time": 1749898822,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 253565,
+      "num": 253565,
+      "word": "中国三航母时代即将到来",
+      "onboard_time": 1749898582,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 253530,
@@ -14385,6 +14425,14 @@
       "onboard_time": 1749124581,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242293,
+      "num": 242293,
+      "word": "章子怡短发",
+      "onboard_time": 1749899122,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 242101,
@@ -17139,6 +17187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209997,
+      "num": 209997,
+      "word": "8岁女孩患罕见病眼珠变蓝色",
+      "onboard_time": 1749897742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209887,
       "num": 209887,
       "word": "长胖和变瘦都是有滞后性的",
@@ -17617,14 +17673,6 @@
       "onboard_time": 1749798081,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206220,
-      "num": 223822,
-      "word": "第一次看庄达菲这么穿",
-      "onboard_time": 1749897202,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 206194,
@@ -18651,6 +18699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200253,
+      "num": 200253,
+      "word": "再一次对华晨宇人气有了实感",
+      "onboard_time": 1749899421,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200231,
       "num": 200231,
       "word": "光与夜之恋兑换码",
@@ -19193,6 +19249,14 @@
       "onboard_time": 1749222384,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196884,
+      "num": 196884,
+      "word": "刘强东创业柜台北京再营业",
+      "onboard_time": 1749899363,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 196877,
@@ -21601,6 +21665,14 @@
       "onboard_time": 1749812721,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182365,
+      "num": 182365,
+      "word": "金价升至一个月来高位",
+      "onboard_time": 1749898582,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 182336,
@@ -24187,6 +24259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166831,
+      "num": 166831,
+      "word": "以色列暗杀9名伊朗科学家",
+      "onboard_time": 1749898822,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166723,
       "num": 166723,
       "word": "人生其实没必要那么死板的",
@@ -24883,6 +24963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163122,
+      "num": 163122,
+      "word": "苏超战报",
+      "onboard_time": 1749899542,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163083,
       "num": 290044,
       "word": "宋亚轩因为羊失眠了",
@@ -24905,6 +24993,14 @@
       "onboard_time": 1749281842,
       "rank": 36,
       "category": "美妆,教育"
+    },
+    {
+      "raw_hot": 162909,
+      "num": 162909,
+      "word": "T1战胜KT",
+      "onboard_time": 1749899181,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 162900,
@@ -26035,6 +26131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156828,
+      "num": 156828,
+      "word": "六级 大湾区",
+      "onboard_time": 1749898463,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 156745,
       "num": 156745,
       "word": "这一刻雍正乾隆审美统一了",
@@ -26627,6 +26731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153565,
+      "num": 153565,
+      "word": "花如月白九思命中注定爱上你",
+      "onboard_time": 1749899842,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153562,
       "num": 247109,
       "word": "藏海传海外成绩单",
@@ -27153,6 +27265,14 @@
       "onboard_time": 1749802222,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151040,
+      "num": 151040,
+      "word": "女将星",
+      "onboard_time": 1749897863,
+      "rank": 44,
+      "category": "读书作家"
     },
     {
       "raw_hot": 151023,
@@ -27793,6 +27913,14 @@
       "onboard_time": 1749289404,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147777,
+      "num": 147777,
+      "word": "租不到房子的老年人",
+      "onboard_time": 1749899782,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147775,
@@ -29411,6 +29539,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 141029,
+      "num": 139846,
+      "word": "李嘉格剖腹产刀疤下雨天发痒",
+      "onboard_time": 1749899901,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141025,
       "num": 141025,
       "word": "徐明浩宋雨琦cha了thunder",
@@ -29841,6 +29977,14 @@
       "onboard_time": 1749036201,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139006,
+      "num": 139006,
+      "word": "2025IVL夏季赛",
+      "onboard_time": 1749899962,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 138989,
@@ -37460,7 +37604,7 @@
     },
     {
       "raw_hot": 100484,
-      "num": 150765,
+      "num": 161444,
       "word": "柯南m28熹妃回宫版",
       "onboard_time": 1749896782,
       "rank": 44,
@@ -38433,6 +38577,14 @@
       "onboard_time": 1749299183,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 94840,
+      "num": 161707,
+      "word": "全美或爆发2000场抗议",
+      "onboard_time": 1749898104,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94827,
@@ -39707,14 +39859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 85619,
-      "num": 167558,
-      "word": "8岁女孩患罕见病眼珠变蓝色",
-      "onboard_time": 1749897742,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85602,
       "num": 192749,
       "word": "英国首相发表电视讲话",
@@ -39841,6 +39985,14 @@
       "onboard_time": 1749687621,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84574,
+      "num": 262107,
+      "word": "10岁男童台风天海上漂流5小时",
+      "onboard_time": 1749899243,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84570,
@@ -41169,6 +41321,14 @@
       "onboard_time": 1749106340,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74074,
+      "num": 167819,
+      "word": "伊朗称现在美伊核谈判已无意义",
+      "onboard_time": 1749897983,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74049,
@@ -48737,6 +48897,14 @@
       "onboard_time": 1749133883,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 26444,
+      "num": 1110806,
+      "word": "文化中国行传承古建筑智慧",
+      "onboard_time": 1749892289,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26398,

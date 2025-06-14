@@ -1,0 +1,410 @@
+{
+  "runTime": 1749900023820,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1481018,
+        "num": 1481018,
+        "word": "劳力士店员否认曾毅戴表为自家品牌",
+        "onboard_time": 1749894743,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1121660,
+        "num": 1121660,
+        "word": "杨幂手拿荔枝",
+        "onboard_time": 1749893183,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26444,
+        "num": 1110806,
+        "word": "文化中国行传承古建筑智慧",
+        "onboard_time": 1749892289,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1100435,
+        "num": 1100435,
+        "word": "六级",
+        "onboard_time": 1749892832,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 970925,
+        "num": 970925,
+        "word": "泡泡玛特中止labubu韩国线下销售",
+        "onboard_time": 1749887900,
+        "rank": 4,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 819396,
+        "num": 819396,
+        "word": "六级答案",
+        "onboard_time": 1749894083,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 773630,
+        "num": 773630,
+        "word": "女孩基因突变出生几个月眼睛变蓝色",
+        "onboard_time": 1749892951,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648242,
+        "num": 648242,
+        "word": "刘宇宁 没收到过剧本",
+        "onboard_time": 1749898045,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647344,
+        "num": 647344,
+        "word": "前妻偷偷生了我的孩子",
+        "onboard_time": 1749897021,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280658,
+        "num": 626819,
+        "word": "央视新闻评LABUBU爆火",
+        "onboard_time": 1749898104,
+        "rank": 9,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 620138,
+        "num": 620138,
+        "word": "国足再弱也轮不到业余足球挑战",
+        "onboard_time": 1749888201,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563659,
+        "num": 563659,
+        "word": "泡泡玛特韩国致歉",
+        "onboard_time": 1749890364,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484362,
+        "num": 484362,
+        "word": "黄圣依生孩子没打麻药",
+        "onboard_time": 1749897021,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 400863,
+        "num": 400863,
+        "word": "六级翻译 南水北调",
+        "onboard_time": 1749894203,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322823,
+        "num": 322823,
+        "word": "罗马仕公开声明",
+        "onboard_time": 1749892410,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315788,
+        "num": 315788,
+        "word": "酱园弄",
+        "onboard_time": 1749894984,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291225,
+        "num": 291225,
+        "word": "倪妮玫瑰高定",
+        "onboard_time": 1749893902,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290443,
+        "num": 290443,
+        "word": "第一次看庄达菲这么穿",
+        "onboard_time": 1749897202,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272184,
+        "num": 272184,
+        "word": "取件时间是哪个天才设置的",
+        "onboard_time": 1749883040,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 84574,
+        "num": 262107,
+        "word": "10岁男童台风天海上漂流5小时",
+        "onboard_time": 1749899243,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255185,
+        "num": 255185,
+        "word": "上影节红毯",
+        "onboard_time": 1749895222,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253640,
+        "num": 253640,
+        "word": "杨幂宝蓝高定",
+        "onboard_time": 1749898822,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253565,
+        "num": 253565,
+        "word": "中国三航母时代即将到来",
+        "onboard_time": 1749898582,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242293,
+        "num": 242293,
+        "word": "章子怡短发",
+        "onboard_time": 1749899122,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214105,
+        "num": 214105,
+        "word": "杨超越一开口我人蒙了",
+        "onboard_time": 1749897202,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210321,
+        "num": 210321,
+        "word": "以色列总理专机到希腊避难",
+        "onboard_time": 1749891929,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209997,
+        "num": 209997,
+        "word": "8岁女孩患罕见病眼珠变蓝色",
+        "onboard_time": 1749897742,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200253,
+        "num": 200253,
+        "word": "再一次对华晨宇人气有了实感",
+        "onboard_time": 1749899421,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196987,
+        "num": 196987,
+        "word": "立方米怎么翻译",
+        "onboard_time": 1749896362,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196884,
+        "num": 196884,
+        "word": "刘强东创业柜台北京再营业",
+        "onboard_time": 1749899363,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183062,
+        "num": 183062,
+        "word": "六级听力",
+        "onboard_time": 1749894384,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182365,
+        "num": 182365,
+        "word": "金价升至一个月来高位",
+        "onboard_time": 1749898582,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176366,
+        "num": 176366,
+        "word": "恋与制作人",
+        "onboard_time": 1749898163,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74074,
+        "num": 167819,
+        "word": "伊朗称现在美伊核谈判已无意义",
+        "onboard_time": 1749897983,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166831,
+        "num": 166831,
+        "word": "以色列暗杀9名伊朗科学家",
+        "onboard_time": 1749898822,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164738,
+        "num": 164738,
+        "word": "伊朗称将齐射2000枚导弹",
+        "onboard_time": 1749891804,
+        "rank": 35,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 163122,
+        "num": 163122,
+        "word": "苏超战报",
+        "onboard_time": 1749899542,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162909,
+        "num": 162909,
+        "word": "T1战胜KT",
+        "onboard_time": 1749899181,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94840,
+        "num": 161707,
+        "word": "全美或爆发2000场抗议",
+        "onboard_time": 1749898104,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67227,
+        "num": 161444,
+        "word": "柯南m28熹妃回宫版",
+        "onboard_time": 1749896782,
+        "rank": 39,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 161274,
+        "num": 161274,
+        "word": "Red女团韩国打歌听取哇声一片",
+        "onboard_time": 1749897323,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159169,
+        "num": 159169,
+        "word": "Jasper长大了还是甜椒",
+        "onboard_time": 1749888319,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156828,
+        "num": 156828,
+        "word": "六级 大湾区",
+        "onboard_time": 1749898463,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153565,
+        "num": 153565,
+        "word": "花如月白九思命中注定爱上你",
+        "onboard_time": 1749899842,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151040,
+        "num": 151040,
+        "word": "女将星",
+        "onboard_time": 1749897863,
+        "rank": 44,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 147777,
+        "num": 147777,
+        "word": "租不到房子的老年人",
+        "onboard_time": 1749899782,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143285,
+        "num": 143285,
+        "word": "伊万被解雇后凌晨乘机离开中国",
+        "onboard_time": 1749887120,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140609,
+        "num": 140609,
+        "word": "以色列防空系统已耗尽",
+        "onboard_time": 1749893842,
+        "rank": 47,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 141029,
+        "num": 139846,
+        "word": "李嘉格剖腹产刀疤下雨天发痒",
+        "onboard_time": 1749899901,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139006,
+        "num": 139006,
+        "word": "2025IVL夏季赛",
+        "onboard_time": 1749899962,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平关心文化和自然遗产保护传承利用#"
+    }
+  }
+}
