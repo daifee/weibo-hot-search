@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749900023820,
+  "endTime": 1749901015290,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1749309983,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1270135,
+      "num": 896955,
+      "word": "刘宇宁 没收到过剧本",
+      "onboard_time": 1749898045,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1268426,
@@ -4139,6 +4147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 709858,
+      "num": 709858,
+      "word": "前妻偷偷生了我的孩子",
+      "onboard_time": 1749897021,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 707817,
       "num": 624951,
       "word": "湘雅二院",
@@ -4593,22 +4609,6 @@
       "onboard_time": 1749029361,
       "rank": 32,
       "category": "民生新闻,时尚"
-    },
-    {
-      "raw_hot": 648242,
-      "num": 648242,
-      "word": "刘宇宁 没收到过剧本",
-      "onboard_time": 1749898045,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 647344,
-      "num": 647344,
-      "word": "前妻偷偷生了我的孩子",
-      "onboard_time": 1749897021,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 647115,
@@ -9867,6 +9867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 353804,
+      "num": 626819,
+      "word": "央视新闻评LABUBU爆火",
+      "onboard_time": 1749898104,
+      "rank": 9,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 353684,
       "num": 353684,
       "word": "李惠利跳Whiplash",
@@ -10161,6 +10169,14 @@
       "onboard_time": 1748698282,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 345961,
+      "num": 345961,
+      "word": "刘强东创业柜台北京再营业",
+      "onboard_time": 1749899363,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 345709,
@@ -12331,6 +12347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283357,
+      "num": 359499,
+      "word": "杨幂宝蓝高定",
+      "onboard_time": 1749898822,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 283082,
       "num": 283082,
       "word": "卫兰 范玮琪上身",
@@ -12441,14 +12465,6 @@
       "onboard_time": 1749191421,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 280658,
-      "num": 626819,
-      "word": "央视新闻评LABUBU爆火",
-      "onboard_time": 1749898104,
-      "rank": 9,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 280535,
@@ -13025,6 +13041,14 @@
       "onboard_time": 1749389123,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268395,
+      "num": 268395,
+      "word": "章子怡短发",
+      "onboard_time": 1749899122,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 268229,
@@ -13835,16 +13859,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253640,
-      "num": 253640,
-      "word": "杨幂宝蓝高定",
-      "onboard_time": 1749898822,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 253565,
-      "num": 253565,
+      "num": 350447,
       "word": "中国三航母时代即将到来",
       "onboard_time": 1749898582,
       "rank": 22,
@@ -14425,14 +14441,6 @@
       "onboard_time": 1749124581,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242293,
-      "num": 242293,
-      "word": "章子怡短发",
-      "onboard_time": 1749899122,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 242101,
@@ -16259,6 +16267,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 219217,
+      "num": 219217,
+      "word": "花如月白九思命中注定爱上你",
+      "onboard_time": 1749899842,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219116,
       "num": 219116,
       "word": "女子遭水枪攻击警方称男子未逃逸",
@@ -16521,6 +16537,14 @@
       "onboard_time": 1748745379,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216164,
+      "num": 216164,
+      "word": "李嘉格剖腹产刀疤下雨天发痒",
+      "onboard_time": 1749899901,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 216121,
@@ -17475,6 +17499,14 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 207533,
+      "num": 207533,
+      "word": "金价升至一个月来高位",
+      "onboard_time": 1749898582,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207289,
       "num": 207289,
       "word": "程潇给陈梦化女团妆",
@@ -17952,6 +17984,14 @@
       "word": "扬州vs泰州",
       "onboard_time": 1749893364,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204804,
+      "num": 204804,
+      "word": "苏超战报",
+      "onboard_time": 1749899542,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -18593,6 +18633,14 @@
       "onboard_time": 1749615743,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200838,
+      "num": 200838,
+      "word": "三手",
+      "onboard_time": 1749900441,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 200823,
@@ -19249,14 +19297,6 @@
       "onboard_time": 1749222384,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196884,
-      "num": 196884,
-      "word": "刘强东创业柜台北京再营业",
-      "onboard_time": 1749899363,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 196877,
@@ -20345,6 +20385,22 @@
       "onboard_time": 1749306203,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189993,
+      "num": 189993,
+      "word": "丁程鑫道歉道成谢娜微博铁粉了",
+      "onboard_time": 1749900743,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189989,
+      "num": 346702,
+      "word": "10岁男童台风天海上漂流5小时",
+      "onboard_time": 1749899243,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189947,
@@ -21635,6 +21691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182721,
+      "num": 182721,
+      "word": "倪妮 我也觉得后面好看",
+      "onboard_time": 1749900441,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182591,
       "num": 447753,
       "word": "亡夫赠情人514万被判返还",
@@ -21665,14 +21729,6 @@
       "onboard_time": 1749812721,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 182365,
-      "num": 182365,
-      "word": "金价升至一个月来高位",
-      "onboard_time": 1749898582,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 182336,
@@ -24963,14 +25019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 163122,
-      "num": 163122,
-      "word": "苏超战报",
-      "onboard_time": 1749899542,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163083,
       "num": 290044,
       "word": "宋亚轩因为羊失眠了",
@@ -26731,14 +26779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153565,
-      "num": 153565,
-      "word": "花如月白九思命中注定爱上你",
-      "onboard_time": 1749899842,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153562,
       "num": 247109,
       "word": "藏海传海外成绩单",
@@ -27152,6 +27192,14 @@
       "word": "被一个个大国重器飒到了",
       "onboard_time": 1749622520,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151483,
+      "num": 151483,
+      "word": "租不到房子的老年人",
+      "onboard_time": 1749899782,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -27913,14 +27961,6 @@
       "onboard_time": 1749289404,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 147777,
-      "num": 147777,
-      "word": "租不到房子的老年人",
-      "onboard_time": 1749899782,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147775,
@@ -29537,14 +29577,6 @@
       "onboard_time": 1749252378,
       "rank": 9,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 141029,
-      "num": 139846,
-      "word": "李嘉格剖腹产刀疤下雨天发痒",
-      "onboard_time": 1749899901,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 141025,
@@ -32745,6 +32777,14 @@
       "onboard_time": 1749737963,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127485,
+      "num": 127485,
+      "word": "内娱的好转场在王安宇这看到了",
+      "onboard_time": 1749900982,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 127475,
@@ -38027,6 +38067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97862,
+      "num": 356413,
+      "word": "用水暴涨1500吨后发现两个水表",
+      "onboard_time": 1749900142,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97853,
       "num": 176309,
       "word": "高考试卷一开始没有选择题",
@@ -39985,14 +40033,6 @@
       "onboard_time": 1749687621,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84574,
-      "num": 262107,
-      "word": "10岁男童台风天海上漂流5小时",
-      "onboard_time": 1749899243,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84570,
@@ -43555,6 +43595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56888,
+      "num": 348496,
+      "word": "不愿意留在大城市养老的父母",
+      "onboard_time": 1749900201,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56867,
       "num": 187262,
       "word": "伊朗遭遇前所未有的损失",
@@ -45379,6 +45427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44405,
+      "num": 352441,
+      "word": "手伸不进屏幕帮李善德的无力感",
+      "onboard_time": 1749900021,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44366,
       "num": 217413,
       "word": "哪些行为很放松却悄悄消耗气血",
@@ -46851,6 +46907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36305,
+      "num": 165537,
+      "word": "浙江队2比2上海海港",
+      "onboard_time": 1749900142,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36215,
       "num": 139959,
       "word": "反内耗达人大张伟",
@@ -48251,6 +48315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29157,
+      "num": 1110806,
+      "word": "文化中国行传承古建筑智慧",
+      "onboard_time": 1749892289,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29146,
       "num": 197112,
       "word": "高质量碳水有何突出优势",
@@ -48897,14 +48969,6 @@
       "onboard_time": 1749133883,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 26444,
-      "num": 1110806,
-      "word": "文化中国行传承古建筑智慧",
-      "onboard_time": 1749892289,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26398,
@@ -49609,6 +49673,14 @@
       "onboard_time": 1749894083,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22979,
+      "num": 209544,
+      "word": "伊朗皮兰沙赫尔遭空袭后的景象",
+      "onboard_time": 1749900682,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22969,

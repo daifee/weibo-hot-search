@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749900023820,
+  "endTime": 1749901015290,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -113,6 +113,14 @@
       "onboard_time": 1749894743,
       "rank": 9,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1270135,
+      "num": 896955,
+      "word": "刘宇宁 没收到过剧本",
+      "onboard_time": 1749898045,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1121660,
@@ -267,6 +275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 709858,
+      "num": 709858,
+      "word": "前妻偷偷生了我的孩子",
+      "onboard_time": 1749897021,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 698622,
       "num": 420197,
       "word": "比起labubu我还是比较喜欢maoyeye",
@@ -315,28 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 648242,
-      "num": 648242,
-      "word": "刘宇宁 没收到过剧本",
-      "onboard_time": 1749898045,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 647510,
       "num": 647510,
       "word": "马嘉祺 难听",
       "onboard_time": 1749820524,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 647344,
-      "num": 647344,
-      "word": "前妻偷偷生了我的孩子",
-      "onboard_time": 1749897021,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 630482,
@@ -659,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353804,
+      "num": 626819,
+      "word": "央视新闻评LABUBU爆火",
+      "onboard_time": 1749898104,
+      "rank": 9,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 347706,
       "num": 436052,
       "word": "中国航司恢复接收波音787",
@@ -691,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345961,
+      "num": 345961,
+      "word": "刘强东创业柜台北京再营业",
+      "onboard_time": 1749899363,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 345121,
       "num": 383011,
       "word": "以色列官方尚未证实其F35战机被伊朗击落",
@@ -716,7 +732,7 @@
     },
     {
       "raw_hot": 315788,
-      "num": 315788,
+      "num": 366768,
       "word": "酱园弄",
       "onboard_time": 1749894984,
       "rank": 47,
@@ -795,12 +811,12 @@
       "category": "辟谣/通报,动漫"
     },
     {
-      "raw_hot": 280658,
-      "num": 626819,
-      "word": "央视新闻评LABUBU爆火",
-      "onboard_time": 1749898104,
-      "rank": 9,
-      "category": "民生新闻,动漫"
+      "raw_hot": 283357,
+      "num": 359499,
+      "word": "杨幂宝蓝高定",
+      "onboard_time": 1749898822,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 280415,
@@ -867,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 268395,
+      "num": 268395,
+      "word": "章子怡短发",
+      "onboard_time": 1749899122,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268077,
       "num": 268077,
       "word": "调查组逐一核查罗帅宇事件1281页材料",
@@ -915,16 +939,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253640,
-      "num": 253640,
-      "word": "杨幂宝蓝高定",
-      "onboard_time": 1749898822,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 253565,
-      "num": 253565,
+      "num": 350447,
       "word": "中国三航母时代即将到来",
       "onboard_time": 1749898582,
       "rank": 22,
@@ -977,14 +993,6 @@
       "onboard_time": 1749887059,
       "rank": 32,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 242293,
-      "num": 242293,
-      "word": "章子怡短发",
-      "onboard_time": 1749899122,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 240944,
@@ -1091,12 +1099,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219217,
+      "num": 219217,
+      "word": "花如月白九思命中注定爱上你",
+      "onboard_time": 1749899842,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217470,
       "num": 217470,
       "word": "四级段落匹配",
       "onboard_time": 1749874402,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 216164,
+      "num": 216164,
+      "word": "李嘉格剖腹产刀疤下雨天发痒",
+      "onboard_time": 1749899901,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 211519,
@@ -1147,6 +1171,14 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 207533,
+      "num": 207533,
+      "word": "金价升至一个月来高位",
+      "onboard_time": 1749898582,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 206798,
       "num": 206798,
       "word": "立方米怎么翻译",
@@ -1195,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204804,
+      "num": 204804,
+      "word": "苏超战报",
+      "onboard_time": 1749899542,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203842,
       "num": 203842,
       "word": "男子2000元卖掉前女友30只布偶猫",
@@ -1235,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200838,
+      "num": 200838,
+      "word": "三手",
+      "onboard_time": 1749900441,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200275,
       "num": 215253,
       "word": "玉茗茶骨",
@@ -1265,14 +1313,6 @@
       "onboard_time": 1749871161,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 196884,
-      "num": 196884,
-      "word": "刘强东创业柜台北京再营业",
-      "onboard_time": 1749899363,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 196410,
@@ -1339,6 +1379,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189993,
+      "num": 189993,
+      "word": "丁程鑫道歉道成谢娜微博铁粉了",
+      "onboard_time": 1749900743,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189989,
+      "num": 346702,
+      "word": "10岁男童台风天海上漂流5小时",
+      "onboard_time": 1749899243,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189743,
       "num": 379319,
       "word": "一航班飞行途中充电宝起火",
@@ -1403,12 +1459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182365,
-      "num": 182365,
-      "word": "金价升至一个月来高位",
-      "onboard_time": 1749898582,
-      "rank": 31,
-      "category": "财经"
+      "raw_hot": 182721,
+      "num": 182721,
+      "word": "倪妮 我也觉得后面好看",
+      "onboard_time": 1749900441,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 181543,
@@ -1651,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163122,
-      "num": 163122,
-      "word": "苏超战报",
-      "onboard_time": 1749899542,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162909,
       "num": 162909,
       "word": "T1战胜KT",
@@ -1747,12 +1795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153565,
-      "num": 153565,
-      "word": "花如月白九思命中注定爱上你",
-      "onboard_time": 1749899842,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 151483,
+      "num": 151483,
+      "word": "租不到房子的老年人",
+      "onboard_time": 1749899782,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151258,
@@ -1785,14 +1833,6 @@
       "onboard_time": 1749802641,
       "rank": 29,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 147777,
-      "num": 147777,
-      "word": "租不到房子的老年人",
-      "onboard_time": 1749899782,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147775,
@@ -1905,14 +1945,6 @@
       "onboard_time": 1749829764,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141029,
-      "num": 139846,
-      "word": "李嘉格剖腹产刀疤下雨天发痒",
-      "onboard_time": 1749899901,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 140800,
@@ -2073,6 +2105,14 @@
       "onboard_time": 1749831082,
       "rank": 18,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 127485,
+      "num": 127485,
+      "word": "内娱的好转场在王安宇这看到了",
+      "onboard_time": 1749900982,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 127064,
@@ -2427,6 +2467,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 97862,
+      "num": 356413,
+      "word": "用水暴涨1500吨后发现两个水表",
+      "onboard_time": 1749900142,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97629,
       "num": 105052,
       "word": "伊朗总统称将使敌人后悔其愚蠢行为",
@@ -2529,14 +2577,6 @@
       "onboard_time": 1749847035,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84574,
-      "num": 262107,
-      "word": "10岁男童台风天海上漂流5小时",
-      "onboard_time": 1749899243,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83706,
@@ -2795,6 +2835,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 56888,
+      "num": 348496,
+      "word": "不愿意留在大城市养老的父母",
+      "onboard_time": 1749900201,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56867,
       "num": 187262,
       "word": "伊朗遭遇前所未有的损失",
@@ -2907,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44405,
+      "num": 352441,
+      "word": "手伸不进屏幕帮李善德的无力感",
+      "onboard_time": 1749900021,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43863,
       "num": 189220,
       "word": "金灿荣称伊朗的筛子堵不住了",
@@ -2993,6 +3049,14 @@
       "onboard_time": 1749896181,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36305,
+      "num": 165537,
+      "word": "浙江队2比2上海海港",
+      "onboard_time": 1749900142,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 35010,
@@ -3083,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29157,
+      "num": 1110806,
+      "word": "文化中国行传承古建筑智慧",
+      "onboard_time": 1749892289,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29103,
       "num": 171981,
       "word": "杨泗港大桥闹剧反应了旅游业现状",
@@ -3155,14 +3227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26444,
-      "num": 1110806,
-      "word": "文化中国行传承古建筑智慧",
-      "onboard_time": 1749892289,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 26323,
       "num": 26323,
       "word": "陈楚生本周选曲站台",
@@ -3201,6 +3265,14 @@
       "onboard_time": 1749894083,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22979,
+      "num": 209544,
+      "word": "伊朗皮兰沙赫尔遭空袭后的景象",
+      "onboard_time": 1749900682,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22595,
