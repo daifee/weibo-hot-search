@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749890676911,
+  "endTime": 1749893254742,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -83,8 +83,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1421019,
-      "num": 1421019,
+      "raw_hot": 1487696,
+      "num": 1487696,
       "word": "国足再弱也轮不到业余足球挑战",
       "onboard_time": 1749888201,
       "rank": 3,
@@ -169,6 +169,14 @@
       "onboard_time": 1749887120,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 759870,
+      "num": 759870,
+      "word": "泡泡玛特韩国致歉",
+      "onboard_time": 1749890364,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 742995,
@@ -265,6 +273,14 @@
       "onboard_time": 1749820524,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 607393,
+      "num": 607393,
+      "word": "婚礼抛labubu",
+      "onboard_time": 1749890481,
+      "rank": 36,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 583970,
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371476,
+      "num": 371476,
+      "word": "杨幂长安的荔枝一滴泪镜头",
+      "onboard_time": 1749889281,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 365444,
       "num": 365444,
       "word": "labubu韩国门店大排长龙",
@@ -547,20 +571,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 347030,
+      "num": 347030,
+      "word": "柳智敏参加亲姐姐婚礼",
+      "onboard_time": 1749887959,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345121,
       "num": 383011,
       "word": "以色列官方尚未证实其F35战机被伊朗击落",
       "onboard_time": 1749873081,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 317410,
-      "num": 317410,
-      "word": "杨幂长安的荔枝一滴泪镜头",
-      "onboard_time": 1749889281,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 312784,
@@ -595,14 +619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300727,
-      "num": 280369,
-      "word": "柳智敏参加亲姐姐婚礼",
-      "onboard_time": 1749887959,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300147,
       "num": 410428,
       "word": "锦绣芳华预约量破200万",
@@ -625,6 +641,14 @@
       "onboard_time": 1749847995,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 289282,
+      "num": 289282,
+      "word": "六级",
+      "onboard_time": 1749868580,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 288433,
@@ -731,14 +755,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 260683,
-      "num": 260683,
-      "word": "六级",
-      "onboard_time": 1749868580,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 259024,
       "num": 259024,
       "word": "非遗里的青春中国",
@@ -787,6 +803,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244464,
+      "num": 244464,
+      "word": "邓超labubu塑",
+      "onboard_time": 1749887059,
+      "rank": 32,
+      "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 240848,
+      "num": 240848,
+      "word": "以色列总理专机到希腊避难",
+      "onboard_time": 1749891929,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 239968,
       "num": 343569,
       "word": "中国汽车凭实力赢得尊重",
@@ -809,6 +841,14 @@
       "onboard_time": 1749875302,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 229468,
+      "num": 420144,
+      "word": "苏超南京vs淮安",
+      "onboard_time": 1749882020,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 225636,
@@ -867,6 +907,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213027,
+      "num": 213027,
+      "word": "苗苗种菜手臂全是伤口",
+      "onboard_time": 1749891621,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211182,
+      "num": 211182,
+      "word": "苏超",
+      "onboard_time": 1749874522,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210496,
       "num": 210496,
       "word": "丁程鑫穿筒靴跳LikeJennie",
@@ -875,12 +931,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210297,
-      "num": 420144,
-      "word": "苏超南京vs淮安",
-      "onboard_time": 1749882020,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 207537,
+      "num": 270529,
+      "word": "京东苏超端水大师",
+      "onboard_time": 1749890181,
+      "rank": 16,
+      "category": "互联网,教育"
     },
     {
       "raw_hot": 206648,
@@ -915,20 +971,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203437,
-      "num": 203437,
-      "word": "苏超",
-      "onboard_time": 1749874522,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202977,
       "num": 202977,
       "word": "冰雪大世界翻译",
       "onboard_time": 1749873022,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202921,
+      "num": 237904,
+      "word": "上海电影节",
+      "onboard_time": 1749892711,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 201441,
@@ -1107,6 +1163,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 177757,
+      "num": 177757,
+      "word": "罗马仕公开声明",
+      "onboard_time": 1749892410,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175892,
+      "num": 229929,
+      "word": "伊朗称将齐射2000枚导弹",
+      "onboard_time": 1749891804,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 175784,
       "num": 175784,
       "word": "雷霆2比2步行者",
@@ -1115,12 +1187,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174667,
+      "num": 174667,
+      "word": "民企2000万投资遭政府职能部门套路",
+      "onboard_time": 1749891082,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 173460,
       "num": 173460,
       "word": "轻断食5天掉12斤攻略",
       "onboard_time": 1749858559,
       "rank": 28,
       "category": "情感,运动健身"
+    },
+    {
+      "raw_hot": 172344,
+      "num": 231767,
+      "word": "华为Pura80鸿蒙红包",
+      "onboard_time": 1749891991,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 171822,
+      "num": 171822,
+      "word": "唐禹哲晒儿子侧脸照",
+      "onboard_time": 1749892650,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 171611,
@@ -1147,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168502,
+      "num": 232343,
+      "word": "程潇说陈梦是她的人生嘴替",
+      "onboard_time": 1749890541,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168482,
       "num": 168482,
       "word": "我国每5只帝王蟹4只来自吉林",
@@ -1163,12 +1267,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 165842,
+      "num": 165842,
+      "word": "女孩基因突变出生几个月眼睛变蓝色",
+      "onboard_time": 1749892951,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165828,
       "num": 165828,
       "word": "耳帝",
       "onboard_time": 1749827964,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165734,
+      "num": 165734,
+      "word": "第二十个文化和自然遗产日",
+      "onboard_time": 1749892289,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165387,
@@ -1179,20 +1299,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164909,
+      "num": 231951,
+      "word": "整顿内娱种树事件传遍圈内",
+      "onboard_time": 1749891804,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162587,
       "num": 162587,
       "word": "以色列对伊朗发动打击",
       "onboard_time": 1749773961,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 161630,
-      "num": 172055,
-      "word": "邓超labubu塑",
-      "onboard_time": 1749887059,
-      "rank": 32,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 159729,
@@ -1209,6 +1329,14 @@
       "onboard_time": 1749879681,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157951,
+      "num": 157951,
+      "word": "T1对战KT",
+      "onboard_time": 1749892289,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 157944,
@@ -1243,14 +1371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149308,
-      "num": 270415,
-      "word": "泡泡玛特韩国致歉",
-      "onboard_time": 1749890364,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148497,
       "num": 148497,
       "word": "杨幂Labubu书包",
@@ -1280,6 +1400,14 @@
       "word": "因患者留言爆火面包店被质疑自导自演",
       "onboard_time": 1749831801,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147351,
+      "num": 147351,
+      "word": "女大学生自杀留遗书控诉咨询师性侵",
+      "onboard_time": 1749892351,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1315,12 +1443,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144076,
+      "num": 144076,
+      "word": "杨幂手拿荔枝",
+      "onboard_time": 1749893183,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 144057,
       "num": 144057,
       "word": "关注以色列伊朗局势",
       "onboard_time": 1749866060,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143701,
+      "num": 143701,
+      "word": "场边的樊振东",
+      "onboard_time": 1749890720,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 142505,
@@ -1377,14 +1521,6 @@
       "onboard_time": 1749864260,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139082,
-      "num": 139082,
-      "word": "婚礼抛labubu",
-      "onboard_time": 1749890481,
-      "rank": 36,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 138393,
@@ -1532,11 +1668,11 @@
     },
     {
       "raw_hot": 126059,
-      "num": 126059,
-      "word": "程潇说陈梦是她的人生嘴替",
-      "onboard_time": 1749890541,
+      "num": 171889,
+      "word": "LPL第二赛段决赛宣传片",
+      "onboard_time": 1749892769,
       "rank": 39,
-      "category": "综艺"
+      "category": "电竞"
     },
     {
       "raw_hot": 123975,
@@ -1569,6 +1705,14 @@
       "onboard_time": 1749884661,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120301,
+      "num": 230911,
+      "word": "特朗普的生日很难快乐了",
+      "onboard_time": 1749892228,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120294,
@@ -1851,12 +1995,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 97389,
+      "num": 234199,
+      "word": "AL对战BLG",
+      "onboard_time": 1749892410,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95339,
       "num": 95339,
       "word": "张若昀你怎么又拿奖了",
       "onboard_time": 1749885979,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95182,
+      "num": 147804,
+      "word": "曝以色列此次军事行动已筹备多年",
+      "onboard_time": 1749891082,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94349,
@@ -1907,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88829,
+      "num": 240128,
+      "word": "为救人身中数刀错过高考的他俩现状",
+      "onboard_time": 1749892832,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 85998,
       "num": 85998,
       "word": "以色列巴勒斯坦冲突",
@@ -1937,14 +2105,6 @@
       "onboard_time": 1749831323,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82871,
-      "num": 270529,
-      "word": "京东苏超端水大师",
-      "onboard_time": 1749890181,
-      "rank": 16,
-      "category": "互联网,教育"
     },
     {
       "raw_hot": 82375,
@@ -2243,12 +2403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44125,
+      "num": 236776,
+      "word": "一航班飞行途中充电宝起火",
+      "onboard_time": 1749892530,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43863,
       "num": 189220,
       "word": "金灿荣称伊朗的筛子堵不住了",
       "onboard_time": 1749878720,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43846,
+      "num": 230392,
+      "word": "伊朗市民要求政府研制核武器",
+      "onboard_time": 1749889521,
+      "rank": 37,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 43609,
@@ -2379,11 +2555,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 29988,
+      "num": 235224,
+      "word": "怎么判断身体缺少哪些营养",
+      "onboard_time": 1749892289,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29597,
       "num": 1177234,
       "word": "90秒感受三夏收获的幸福感",
       "onboard_time": 1749827304,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29103,
+      "num": 171981,
+      "word": "杨泗港大桥闹剧反应了旅游业现状",
+      "onboard_time": 1749891500,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2499,6 +2691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20147,
+      "num": 964968,
+      "word": "数读我国非遗保护传承成效",
+      "onboard_time": 1749892591,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17041,
       "num": 365538,
       "word": "雨天开车除了开雨刮器还有哪些技巧",
@@ -2513,6 +2713,14 @@
       "onboard_time": 1749855978,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15157,
+      "num": 172609,
+      "word": "以色列否认F35战机被伊朗击落",
+      "onboard_time": 1749893125,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14966,
@@ -2603,14 +2811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10507,
-      "num": 141959,
-      "word": "伊朗市民要求政府研制核武器",
-      "onboard_time": 1749889521,
-      "rank": 37,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 10344,
       "num": 244144,
       "word": "伊朗公布战机AI生成图有何隐情",
@@ -2647,6 +2847,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#习近平讲述中华文明的故事#"
     }
   ]
 }
