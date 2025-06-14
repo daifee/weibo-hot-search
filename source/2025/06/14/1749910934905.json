@@ -1,0 +1,410 @@
+{
+  "runTime": 1749910934905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1689618,
+        "num": 1689618,
+        "word": "黄子韬现场发火中断考核",
+        "onboard_time": 1749904522,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 861622,
+        "num": 861622,
+        "word": "以色列",
+        "onboard_time": 1749905002,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68356,
+        "num": 751469,
+        "word": "糖画和文化遗产这一刻融合了",
+        "onboard_time": 1749909863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 943277,
+        "num": 744566,
+        "word": "刘宇宁 没收到过剧本",
+        "onboard_time": 1749898045,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 919893,
+        "num": 744511,
+        "word": "万象城",
+        "onboard_time": 1749904400,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731230,
+        "num": 731230,
+        "word": "泡泡玛特中止labubu韩国线下销售",
+        "onboard_time": 1749887900,
+        "rank": 5,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 836036,
+        "num": 721436,
+        "word": "欧阳娜娜生日用蛋糕把自己围起来",
+        "onboard_time": 1749907523,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664927,
+        "num": 664927,
+        "word": "Bin哥 嘴硬",
+        "onboard_time": 1749909802,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12652,
+        "num": 568530,
+        "word": "中国女生在联合国为女科学家颁奖",
+        "onboard_time": 1749881121,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49345,
+        "num": 549722,
+        "word": "泡泡玛特韩国门店出现职业扫货团",
+        "onboard_time": 1749909802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 746850,
+        "num": 549450,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 10,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 531807,
+        "num": 531807,
+        "word": "伊朗对以色列发动5轮袭击",
+        "onboard_time": 1749907523,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 504411,
+        "num": 504411,
+        "word": "前妻偷偷生了我的孩子",
+        "onboard_time": 1749897021,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451296,
+        "num": 451296,
+        "word": "陆虎Labubu舞台造型",
+        "onboard_time": 1749909083,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 417038,
+        "num": 417038,
+        "word": "杭州警方通报女子遭持刀挟持",
+        "onboard_time": 1749902662,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 401238,
+        "num": 401238,
+        "word": "张元英剪了刘海",
+        "onboard_time": 1749904642,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400384,
+        "num": 400384,
+        "word": "伊朗",
+        "onboard_time": 1749907461,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29745,
+        "num": 392302,
+        "word": "伊朗和美国还能继续谈吗",
+        "onboard_time": 1749910583,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69819,
+        "num": 388827,
+        "word": "张子枫卷发双马尾",
+        "onboard_time": 1749908364,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59858,
+        "num": 388406,
+        "word": "伊朗导弹命中以军总部",
+        "onboard_time": 1749909863,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 388170,
+        "num": 388170,
+        "word": "智残男子被好友哄骗用房子贷款数百万",
+        "onboard_time": 1749908124,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361438,
+        "num": 361438,
+        "word": "六级",
+        "onboard_time": 1749892832,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 344110,
+        "num": 344110,
+        "word": "43岁张亮与10岁女儿合拍杂志",
+        "onboard_time": 1749902483,
+        "rank": 22,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 325462,
+        "num": 325462,
+        "word": "国足再弱也轮不到业余足球挑战",
+        "onboard_time": 1749888201,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284156,
+        "num": 284156,
+        "word": "AL战胜BLG",
+        "onboard_time": 1749906684,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235394,
+        "num": 284140,
+        "word": "杨幂手拿荔枝",
+        "onboard_time": 1749893183,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234360,
+        "num": 283303,
+        "word": "临江仙热度",
+        "onboard_time": 1749905123,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74738,
+        "num": 283154,
+        "word": "一个女孩自杀背后的精神控制疑云",
+        "onboard_time": 1749910163,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22271,
+        "num": 282288,
+        "word": "以军称民众不必停留在防空洞附近",
+        "onboard_time": 1749906143,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28843,
+        "num": 282016,
+        "word": "被控杀妻灭子案当事人坚称自己无罪",
+        "onboard_time": 1749910403,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218131,
+        "num": 281522,
+        "word": "严浩翔微笑拒绝法则",
+        "onboard_time": 1749908662,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281337,
+        "num": 281337,
+        "word": "环保少女妹妹发性感视频",
+        "onboard_time": 1749909802,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263889,
+        "num": 263889,
+        "word": "8岁男童走失40余天家属最新发声",
+        "onboard_time": 1749908124,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258286,
+        "num": 258286,
+        "word": "六级答案",
+        "onboard_time": 1749894083,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202680,
+        "num": 202680,
+        "word": "吉克隽逸演唱会上摔倒",
+        "onboard_time": 1749909683,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192026,
+        "num": 192026,
+        "word": "杨幂又在红毯搞抽象",
+        "onboard_time": 1749910884,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188789,
+        "num": 188789,
+        "word": "劳力士店员否认曾毅戴表为自家品牌",
+        "onboard_time": 1749894743,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186376,
+        "num": 186376,
+        "word": "李嘉格剖腹产刀疤下雨天发痒",
+        "onboard_time": 1749899901,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175928,
+        "num": 175928,
+        "word": "郭麒麟红毯绑外甥",
+        "onboard_time": 1749905362,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72748,
+        "num": 168179,
+        "word": "盛李豪王子菲世界杯混团银牌",
+        "onboard_time": 1749910284,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166414,
+        "num": 166414,
+        "word": "Capper的链子不允许失误",
+        "onboard_time": 1749910764,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161856,
+        "num": 161856,
+        "word": "苏超战报",
+        "onboard_time": 1749899542,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158872,
+        "num": 161803,
+        "word": "未知的首尔",
+        "onboard_time": 1749910524,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161793,
+        "num": 161793,
+        "word": "郑钦文柏林赛首轮对阵莱巴金娜",
+        "onboard_time": 1749908782,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159650,
+        "num": 161408,
+        "word": "苏超最新积分榜公布",
+        "onboard_time": 1749910403,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153118,
+        "num": 161346,
+        "word": "周翊然焕羽初恋校草脸",
+        "onboard_time": 1749910703,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161333,
+        "num": 161333,
+        "word": "苏超上座人数超越中超场均观众",
+        "onboard_time": 1749909562,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160531,
+        "num": 160531,
+        "word": "退圈男演员相亲有没有市场",
+        "onboard_time": 1749901942,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156770,
+        "num": 156770,
+        "word": "人民政协报发藏海传",
+        "onboard_time": 1749910583,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142933,
+        "num": 149496,
+        "word": "以称暂无计划杀死哈梅内伊",
+        "onboard_time": 1749908724,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系文化和自然遗产保护#"
+    }
+  }
+}

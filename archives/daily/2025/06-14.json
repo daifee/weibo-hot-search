@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749908611640,
+  "endTime": 1749910934905,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -83,6 +83,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 1689618,
+      "num": 1689618,
+      "word": "黄子韬现场发火中断考核",
+      "onboard_time": 1749904522,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1645766,
       "num": 1645766,
       "word": "取件时间是哪个天才设置的",
@@ -123,14 +131,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 1437709,
-      "num": 1437709,
-      "word": "黄子韬现场发火中断考核",
-      "onboard_time": 1749904522,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1121660,
       "num": 1121660,
       "word": "杨幂手拿荔枝",
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1086745,
-      "num": 709904,
+      "num": 721436,
       "word": "欧阳娜娜生日用蛋糕把自己围起来",
       "onboard_time": 1749907523,
       "rank": 6,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 919893,
+      "num": 744511,
+      "word": "万象城",
+      "onboard_time": 1749904400,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 887604,
       "num": 887604,
       "word": "四六级",
@@ -209,6 +217,14 @@
       "onboard_time": 1749872541,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 861622,
+      "num": 861622,
+      "word": "以色列",
+      "onboard_time": 1749905002,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 847659,
@@ -241,6 +257,14 @@
       "onboard_time": 1749887120,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 746850,
+      "num": 549450,
+      "word": "公开戴不雅手表是否涉传播淫秽物品",
+      "onboard_time": 1749909863,
+      "rank": 10,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 742995,
@@ -339,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 664212,
-      "num": 664212,
-      "word": "以色列",
-      "onboard_time": 1749905002,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 664927,
+      "num": 664927,
+      "word": "Bin哥 嘴硬",
+      "onboard_time": 1749909802,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 660927,
@@ -475,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531807,
+      "num": 546430,
+      "word": "伊朗对以色列发动5轮袭击",
+      "onboard_time": 1749907523,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 530916,
       "num": 530916,
       "word": "恋与深空",
@@ -587,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451296,
+      "num": 451296,
+      "word": "陆虎Labubu舞台造型",
+      "onboard_time": 1749909083,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 449909,
       "num": 449909,
       "word": "以色列女子哭着说新房子被炸了",
@@ -667,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400384,
+      "num": 400384,
+      "word": "伊朗",
+      "onboard_time": 1749907461,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 392255,
       "num": 392255,
       "word": "伊军高层被骗聚集开会司令等被炸死",
@@ -697,6 +745,14 @@
       "onboard_time": 1749895942,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 388170,
+      "num": 388170,
+      "word": "智残男子被好友哄骗用房子贷款数百万",
+      "onboard_time": 1749908124,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375746,
@@ -761,14 +817,6 @@
       "onboard_time": 1749898104,
       "rank": 9,
       "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 348466,
-      "num": 348466,
-      "word": "万象城",
-      "onboard_time": 1749904400,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 347706,
@@ -907,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300105,
-      "num": 300105,
-      "word": "伊朗",
-      "onboard_time": 1749907461,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 293586,
       "num": 293586,
       "word": "祁煜利莫里亚海神",
@@ -961,6 +1001,14 @@
       "onboard_time": 1749898822,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 281337,
+      "num": 281337,
+      "word": "环保少女妹妹发性感视频",
+      "onboard_time": 1749909802,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 280415,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1749861260,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 263889,
+      "num": 284716,
+      "word": "8岁男童走失40余天家属最新发声",
+      "onboard_time": 1749908124,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259024,
@@ -1267,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218131,
+      "num": 281522,
+      "word": "严浩翔微笑拒绝法则",
+      "onboard_time": 1749908662,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217470,
       "num": 217470,
       "word": "四级段落匹配",
@@ -1427,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202680,
+      "num": 202680,
+      "word": "吉克隽逸演唱会上摔倒",
+      "onboard_time": 1749909683,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202629,
       "num": 202629,
       "word": "王昶为宁波大学打call",
@@ -1553,6 +1625,14 @@
       "onboard_time": 1749868880,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192026,
+      "num": 192026,
+      "word": "杨幂又在红毯搞抽象",
+      "onboard_time": 1749910884,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 191391,
@@ -1875,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166414,
+      "num": 166414,
+      "word": "Capper的链子不允许失误",
+      "onboard_time": 1749910764,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166344,
       "num": 1394965,
       "word": "这才是我该看的美人图",
@@ -1971,6 +2059,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161793,
+      "num": 161793,
+      "word": "郑钦文柏林赛首轮对阵莱巴金娜",
+      "onboard_time": 1749908782,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161333,
+      "num": 161333,
+      "word": "苏超上座人数超越中超场均观众",
+      "onboard_time": 1749909562,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160967,
       "num": 160967,
       "word": "AG对战eStar",
@@ -1993,6 +2097,22 @@
       "onboard_time": 1749879681,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159650,
+      "num": 161408,
+      "word": "苏超最新积分榜公布",
+      "onboard_time": 1749910403,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158872,
+      "num": 161803,
+      "word": "未知的首尔",
+      "onboard_time": 1749910524,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 157980,
@@ -2043,6 +2163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156770,
+      "num": 156770,
+      "word": "人民政协报发藏海传",
+      "onboard_time": 1749910583,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155506,
       "num": 238213,
       "word": "李晨晒的labubu2020年发布",
@@ -2057,6 +2185,14 @@
       "onboard_time": 1749827124,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153118,
+      "num": 161346,
+      "word": "周翊然焕羽初恋校草脸",
+      "onboard_time": 1749910703,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 151483,
@@ -2177,6 +2313,14 @@
       "onboard_time": 1749890720,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142933,
+      "num": 149496,
+      "word": "以称暂无计划杀死哈梅内伊",
+      "onboard_time": 1749908724,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142505,
@@ -2372,7 +2516,7 @@
     },
     {
       "raw_hot": 128917,
-      "num": 332156,
+      "num": 568530,
       "word": "中国女生在联合国为女科学家颁奖",
       "onboard_time": 1749881121,
       "rank": 17,
@@ -2472,14 +2616,6 @@
       "word": "以色列人的昨天和今天",
       "onboard_time": 1749885020,
       "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 120490,
-      "num": 546430,
-      "word": "伊朗对以色列发动5轮袭击",
-      "onboard_time": 1749907523,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -2979,6 +3115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74738,
+      "num": 283154,
+      "word": "一个女孩自杀背后的精神控制疑云",
+      "onboard_time": 1749910163,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74691,
       "num": 312916,
       "word": "石雷鹏压中了一个四级作文",
@@ -3019,12 +3163,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72748,
+      "num": 168179,
+      "word": "盛李豪王子菲世界杯混团银牌",
+      "onboard_time": 1749910284,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72039,
       "num": 72039,
       "word": "GAI 该做热玛吉了",
       "onboard_time": 1749820764,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69819,
+      "num": 388827,
+      "word": "张子枫卷发双马尾",
+      "onboard_time": 1749908364,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 68356,
+      "num": 751469,
+      "word": "糖画和文化遗产这一刻融合了",
+      "onboard_time": 1749909863,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68240,
@@ -3083,14 +3251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65407,
-      "num": 284716,
-      "word": "8岁男童走失40余天家属最新发声",
-      "onboard_time": 1749908124,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64398,
       "num": 295256,
       "word": "伊朗这次真的危险了吗",
@@ -3139,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59858,
+      "num": 388406,
+      "word": "伊朗导弹命中以军总部",
+      "onboard_time": 1749909863,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59722,
       "num": 264026,
       "word": "伊朗市民要求政府研制核武器",
@@ -3169,14 +3337,6 @@
       "onboard_time": 1749875360,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 57374,
-      "num": 329575,
-      "word": "张子枫卷发双马尾",
-      "onboard_time": 1749908364,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 57147,
@@ -3275,11 +3435,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48124,
-      "num": 344759,
-      "word": "智残男子被好友哄骗用房子贷款数百万",
-      "onboard_time": 1749908124,
-      "rank": 18,
+      "raw_hot": 49345,
+      "num": 549722,
+      "word": "泡泡玛特韩国门店出现职业扫货团",
+      "onboard_time": 1749909802,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3532,10 +3692,18 @@
     },
     {
       "raw_hot": 30110,
-      "num": 192237,
+      "num": 282288,
       "word": "以军称民众不必停留在防空洞附近",
       "onboard_time": 1749906143,
       "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29745,
+      "num": 392302,
+      "word": "伊朗和美国还能继续谈吗",
+      "onboard_time": 1749910583,
+      "rank": 17,
       "category": "国际时政"
     },
     {
@@ -3569,6 +3737,14 @@
       "onboard_time": 1749841217,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28843,
+      "num": 282016,
+      "word": "被控杀妻灭子案当事人坚称自己无罪",
+      "onboard_time": 1749910403,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28723,
@@ -3901,6 +4077,9 @@
     },
     {
       "word": "#习近平关心文化和自然遗产保护传承利用#"
+    },
+    {
+      "word": "#习近平心系文化和自然遗产保护#"
     }
   ]
 }
