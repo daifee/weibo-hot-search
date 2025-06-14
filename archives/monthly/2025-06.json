@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749919515460,
+  "endTime": 1749921706471,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -3507,6 +3507,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 799843,
+      "num": 438258,
+      "word": "熬夜损失的寿命又靠熬夜弥补了回来",
+      "onboard_time": 1749915862,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 798263,
       "num": 798263,
       "word": "马嘉祺歌手 唱王源的歌",
@@ -3673,6 +3681,14 @@
       "onboard_time": 1749873801,
       "rank": 7,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 775200,
+      "num": 775200,
+      "word": "张子枫踩20cm的高跟鞋",
+      "onboard_time": 1749920000,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 774569,
@@ -6163,6 +6179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 541437,
+      "num": 356478,
+      "word": "刘耀文",
+      "onboard_time": 1749920479,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 540934,
       "num": 540934,
       "word": "吴宣仪甜妹回归",
@@ -7857,14 +7881,6 @@
       "onboard_time": 1748774720,
       "rank": 9,
       "category": "数码,民生新闻"
-    },
-    {
-      "raw_hot": 438258,
-      "num": 438258,
-      "word": "熬夜损失的寿命又靠熬夜弥补了回来",
-      "onboard_time": 1749915862,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 437984,
@@ -9684,7 +9700,7 @@
     },
     {
       "raw_hot": 365583,
-      "num": 300614,
+      "num": 339451,
       "word": "郑钦文将创个人最佳排名",
       "onboard_time": 1749916402,
       "rank": 13,
@@ -19972,7 +19988,7 @@
     },
     {
       "raw_hot": 195560,
-      "num": 195560,
+      "num": 244752,
       "word": "郑钦文vs阿尼西莫娃",
       "onboard_time": 1749919039,
       "rank": 19,
@@ -26769,6 +26785,14 @@
       "onboard_time": 1749604762,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157060,
+      "num": 157060,
+      "word": "披荆斩棘 镜头",
+      "onboard_time": 1749919700,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 157055,
@@ -36107,6 +36131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 114471,
+      "num": 114471,
+      "word": "李文把严浩翔钓成翘嘴",
+      "onboard_time": 1749920899,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114461,
       "num": 114461,
       "word": "尹锡悦夫妇现身投票站",
@@ -38067,6 +38099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103083,
+      "num": 103083,
+      "word": "一人一句祝父亲节日快乐",
+      "onboard_time": 1749920119,
+      "rank": 28,
+      "category": "情感,读书作家"
+    },
+    {
       "raw_hot": 103038,
       "num": 137051,
       "word": "于正说杨蓉是最自在最快乐最美好的存在",
@@ -39817,6 +39857,14 @@
       "onboard_time": 1749019760,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92189,
+      "num": 92189,
+      "word": "沈小婷ELLEMEN红毯",
+      "onboard_time": 1749921678,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 92163,
@@ -43155,6 +43203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67405,
+      "num": 154883,
+      "word": "总台女记者从伊朗首都发回报道",
+      "onboard_time": 1749919160,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67381,
       "num": 191453,
       "word": "韩国股市集体大涨",
@@ -43417,6 +43473,14 @@
       "onboard_time": 1749774262,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65494,
+      "num": 65494,
+      "word": "李现是第一个推了酱园弄的人",
+      "onboard_time": 1749921557,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 65374,
@@ -43969,6 +44033,14 @@
       "onboard_time": 1749015502,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61324,
+      "num": 61324,
+      "word": "桃黑黑直播",
+      "onboard_time": 1749921318,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 61304,
@@ -45001,14 +45073,6 @@
       "onboard_time": 1748947942,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53711,
-      "num": 112786,
-      "word": "总台女记者从伊朗首都发回报道",
-      "onboard_time": 1749919160,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 53674,
@@ -52633,6 +52697,14 @@
       "onboard_time": 1749116539,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 12024,
+      "num": 64159,
+      "word": "孤独摇滚美得不得了",
+      "onboard_time": 1749921619,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 11987,
