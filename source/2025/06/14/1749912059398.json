@@ -1,0 +1,410 @@
+{
+  "runTime": 1749912059398,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1206005,
+        "num": 1206005,
+        "word": "黄子韬现场发火中断考核",
+        "onboard_time": 1749904522,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729764,
+        "num": 729764,
+        "word": "以色列",
+        "onboard_time": 1749905002,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80877,
+        "num": 647388,
+        "word": "糖画和文化遗产这一刻融合了",
+        "onboard_time": 1749909863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 841691,
+        "num": 640157,
+        "word": "刘宇宁 没收到过剧本",
+        "onboard_time": 1749898045,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737460,
+        "num": 635584,
+        "word": "万象城",
+        "onboard_time": 1749904400,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614356,
+        "num": 614356,
+        "word": "Bin哥 嘴硬",
+        "onboard_time": 1749909802,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 544079,
+        "num": 544079,
+        "word": "欧阳娜娜生日用蛋糕把自己围起来",
+        "onboard_time": 1749907523,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523146,
+        "num": 523146,
+        "word": "泡泡玛特中止labubu韩国线下销售",
+        "onboard_time": 1749887900,
+        "rank": 7,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 419051,
+        "num": 419051,
+        "word": "伊朗对以色列发动5轮袭击",
+        "onboard_time": 1749907523,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41623,
+        "num": 405180,
+        "word": "以为帮关免密支付老人险被骗100万",
+        "onboard_time": 1749911125,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3159054,
+        "num": 405019,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 10,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 402654,
+        "num": 402654,
+        "word": "43岁张亮与10岁女儿合拍杂志",
+        "onboard_time": 1749902483,
+        "rank": 11,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 375605,
+        "num": 375605,
+        "word": "陆虎Labubu舞台造型",
+        "onboard_time": 1749909083,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78210,
+        "num": 360764,
+        "word": "伊朗和美国还能继续谈吗",
+        "onboard_time": 1749910583,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310332,
+        "num": 353832,
+        "word": "婚宴252桌花50万嫌贵拒付款后续",
+        "onboard_time": 1749911063,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351231,
+        "num": 351231,
+        "word": "伊朗",
+        "onboard_time": 1749907461,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342561,
+        "num": 342561,
+        "word": "前妻偷偷生了我的孩子",
+        "onboard_time": 1749897021,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313550,
+        "num": 313550,
+        "word": "大爷体内藏52年牙刷称以为能溶解掉",
+        "onboard_time": 1749911364,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311605,
+        "num": 311605,
+        "word": "张元英剪了刘海",
+        "onboard_time": 1749904642,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275318,
+        "num": 297832,
+        "word": "加州偶遇王一博",
+        "onboard_time": 1749911183,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292219,
+        "num": 292219,
+        "word": "六级",
+        "onboard_time": 1749892832,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 280303,
+        "num": 280303,
+        "word": "智残男子被好友哄骗用房子贷款数百万",
+        "onboard_time": 1749908124,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275022,
+        "num": 275022,
+        "word": "杭州警方通报女子遭持刀挟持",
+        "onboard_time": 1749902662,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 262656,
+        "num": 262656,
+        "word": "环保少女妹妹发性感视频",
+        "onboard_time": 1749909802,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 253993,
+        "num": 253993,
+        "word": "国足再弱也轮不到业余足球挑战",
+        "onboard_time": 1749888201,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232428,
+        "num": 232428,
+        "word": "劳力士店员否认曾毅戴表为自家品牌",
+        "onboard_time": 1749894743,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229711,
+        "num": 229711,
+        "word": "六级答案",
+        "onboard_time": 1749894083,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204010,
+        "num": 213651,
+        "word": "宋威龙不可以名场面是临场发挥的",
+        "onboard_time": 1749911542,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32986,
+        "num": 212976,
+        "word": "被控杀妻灭子案当事人坚称自己无罪",
+        "onboard_time": 1749910403,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20566,
+        "num": 212650,
+        "word": "伊军队中枢被斩首是否影响其反击",
+        "onboard_time": 1749911542,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212610,
+        "num": 212610,
+        "word": "8岁男童走失40余天家属最新发声",
+        "onboard_time": 1749908124,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197624,
+        "num": 197624,
+        "word": "杨幂手拿荔枝",
+        "onboard_time": 1749893183,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187731,
+        "num": 187731,
+        "word": "AL战胜BLG",
+        "onboard_time": 1749906684,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179411,
+        "num": 179411,
+        "word": "许嵩在镇江吃醋了",
+        "onboard_time": 1749911603,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166090,
+        "num": 166090,
+        "word": "临江仙热度",
+        "onboard_time": 1749905123,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164986,
+        "num": 164986,
+        "word": "苏超最新积分榜公布",
+        "onboard_time": 1749910403,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187649,
+        "num": 164601,
+        "word": "杨幂又在红毯搞抽象",
+        "onboard_time": 1749910884,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63965,
+        "num": 163526,
+        "word": "一个女孩自杀背后的精神控制疑云",
+        "onboard_time": 1749910163,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162788,
+        "num": 162788,
+        "word": "王怡人回内娱第一份工作",
+        "onboard_time": 1749911664,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76900,
+        "num": 161337,
+        "word": "Knight塞拉斯偷家",
+        "onboard_time": 1749911004,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160128,
+        "num": 160128,
+        "word": "苏超战报",
+        "onboard_time": 1749899542,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154653,
+        "num": 154653,
+        "word": "李嘉格剖腹产刀疤下雨天发痒",
+        "onboard_time": 1749899901,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147934,
+        "num": 147934,
+        "word": "未知的首尔",
+        "onboard_time": 1749910524,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142155,
+        "num": 142155,
+        "word": "苏超直播的梗可太有节目了",
+        "onboard_time": 1749908724,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74888,
+        "num": 141123,
+        "word": "大众ID3官改概念车太超前了",
+        "onboard_time": 1749912023,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140422,
+        "num": 140422,
+        "word": "Capper的链子不允许失误",
+        "onboard_time": 1749910764,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135150,
+        "num": 135150,
+        "word": "中国三航母时代即将到来",
+        "onboard_time": 1749898582,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130485,
+        "num": 130485,
+        "word": "严浩翔微笑拒绝法则",
+        "onboard_time": 1749908662,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130365,
+        "num": 130365,
+        "word": "苏超上座人数超越中超场均观众",
+        "onboard_time": 1749909562,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126065,
+        "num": 126065,
+        "word": "倪妮不语只是一味背头going我",
+        "onboard_time": 1749912023,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述中华文明的故事#"
+    }
+  }
+}

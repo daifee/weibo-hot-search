@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749910934905,
+  "endTime": 1749912059398,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -25,6 +25,14 @@
       "onboard_time": 1749866060,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3159054,
+      "num": 549450,
+      "word": "公开戴不雅手表是否涉传播淫秽物品",
+      "onboard_time": 1749909863,
+      "rank": 10,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 2418507,
@@ -257,14 +265,6 @@
       "onboard_time": 1749887120,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 746850,
-      "num": 549450,
-      "word": "公开戴不雅手表是否涉传播淫秽物品",
-      "onboard_time": 1749909863,
-      "rank": 10,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 742995,
@@ -899,11 +899,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313550,
+      "num": 313550,
+      "word": "大爷体内藏52年牙刷称以为能溶解掉",
+      "onboard_time": 1749911364,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312784,
       "num": 312784,
       "word": "广东一男子强拖女子下车后驾车离开",
       "onboard_time": 1749876022,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310332,
+      "num": 353832,
+      "word": "婚宴252桌花50万嫌贵拒付款后续",
+      "onboard_time": 1749911063,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1049,6 +1065,14 @@
       "onboard_time": 1749875601,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 275318,
+      "num": 297832,
+      "word": "加州偶遇王一博",
+      "onboard_time": 1749911183,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 273986,
@@ -1459,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204010,
+      "num": 213651,
+      "word": "宋威龙不可以名场面是临场发挥的",
+      "onboard_time": 1749911542,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203842,
       "num": 203842,
       "word": "男子2000元卖掉前女友30只布偶猫",
@@ -1779,6 +1811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 179411,
+      "num": 179411,
+      "word": "许嵩在镇江吃醋了",
+      "onboard_time": 1749911603,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179150,
       "num": 179150,
       "word": "周深白日焰火",
@@ -2003,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164986,
+      "num": 164986,
+      "word": "苏超最新积分榜公布",
+      "onboard_time": 1749910403,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164921,
       "num": 200390,
       "word": "中国男排3比1荷兰男排",
@@ -2033,6 +2081,14 @@
       "onboard_time": 1749899181,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162788,
+      "num": 162788,
+      "word": "王怡人回内娱第一份工作",
+      "onboard_time": 1749911664,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 162587,
@@ -2097,14 +2153,6 @@
       "onboard_time": 1749879681,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159650,
-      "num": 161408,
-      "word": "苏超最新积分榜公布",
-      "onboard_time": 1749910403,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 158872,
@@ -2337,6 +2385,14 @@
       "onboard_time": 1749907943,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142155,
+      "num": 142155,
+      "word": "苏超直播的梗可太有节目了",
+      "onboard_time": 1749908724,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 142084,
@@ -2585,6 +2641,14 @@
       "onboard_time": 1749860000,
       "rank": 26,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 126065,
+      "num": 126065,
+      "word": "倪妮不语只是一味背头going我",
+      "onboard_time": 1749912023,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 126059,
@@ -3067,6 +3131,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 80877,
+      "num": 751469,
+      "word": "糖画和文化遗产这一刻融合了",
+      "onboard_time": 1749909863,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80711,
       "num": 393904,
       "word": "印度坠机死亡人数仍在增加",
@@ -3075,12 +3147,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78210,
+      "num": 392302,
+      "word": "伊朗和美国还能继续谈吗",
+      "onboard_time": 1749910583,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77671,
       "num": 128968,
       "word": "泡泡玛特暂时中止韩国labubu线下销售",
       "onboard_time": 1749888319,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76900,
+      "num": 161337,
+      "word": "Knight塞拉斯偷家",
+      "onboard_time": 1749911004,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 76512,
@@ -3113,6 +3201,14 @@
       "onboard_time": 1749855317,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74888,
+      "num": 141123,
+      "word": "大众ID3官改概念车太超前了",
+      "onboard_time": 1749912023,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 74738,
@@ -3185,14 +3281,6 @@
       "onboard_time": 1749908364,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 68356,
-      "num": 751469,
-      "word": "糖画和文化遗产这一刻融合了",
-      "onboard_time": 1749909863,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 68240,
@@ -3547,6 +3635,14 @@
       "category": ""
     },
     {
+      "raw_hot": 41623,
+      "num": 405180,
+      "word": "以为帮关免密支付老人险被骗100万",
+      "onboard_time": 1749911125,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40094,
       "num": 187252,
       "word": "以色列为何此时对伊朗下狠手",
@@ -3659,6 +3755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32986,
+      "num": 282016,
+      "word": "被控杀妻灭子案当事人坚称自己无罪",
+      "onboard_time": 1749910403,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32058,
       "num": 156295,
       "word": "胡锡进谈伊朗又遭重创",
@@ -3699,14 +3803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 29745,
-      "num": 392302,
-      "word": "伊朗和美国还能继续谈吗",
-      "onboard_time": 1749910583,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 29597,
       "num": 1177234,
       "word": "90秒感受三夏收获的幸福感",
@@ -3737,14 +3833,6 @@
       "onboard_time": 1749841217,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28843,
-      "num": 282016,
-      "word": "被控杀妻灭子案当事人坚称自己无罪",
-      "onboard_time": 1749910403,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28723,
@@ -3873,6 +3961,14 @@
       "onboard_time": 1749870681,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20566,
+      "num": 212650,
+      "word": "伊军队中枢被斩首是否影响其反击",
+      "onboard_time": 1749911542,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 20147,
