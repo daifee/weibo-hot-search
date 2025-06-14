@@ -1,0 +1,410 @@
+{
+  "runTime": 1749939869153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 278398,
+        "num": 404543,
+        "word": "伊朗大规模反击打疼以色列了吗",
+        "onboard_time": 1749915981,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264616,
+        "num": 264616,
+        "word": "张子枫踩20cm的高跟鞋",
+        "onboard_time": 1749920000,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16342,
+        "num": 218110,
+        "word": "糖画和文化遗产这一刻融合了",
+        "onboard_time": 1749909863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204824,
+        "num": 204824,
+        "word": "李现是第一个推了酱园弄的人",
+        "onboard_time": 1749921557,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145268,
+        "num": 145268,
+        "word": "熬夜损失的寿命又靠熬夜弥补了回来",
+        "onboard_time": 1749915862,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144766,
+        "num": 144766,
+        "word": "婚宴252桌花50万嫌贵拒付款后续",
+        "onboard_time": 1749911063,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120628,
+        "num": 120628,
+        "word": "以色列",
+        "onboard_time": 1749905002,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91248,
+        "num": 91248,
+        "word": "杨幂回应和刘德华挽手走红毯",
+        "onboard_time": 1749914901,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85277,
+        "num": 85277,
+        "word": "刘耀文",
+        "onboard_time": 1749920479,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84966,
+        "num": 84966,
+        "word": "在工地扛钢管考上清华的他怎么样了",
+        "onboard_time": 1749917063,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 470028,
+        "num": 84939,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 10,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 97421,
+        "num": 83900,
+        "word": "大爷体内藏52年牙刷称以为能溶解掉",
+        "onboard_time": 1749911364,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96702,
+        "num": 82968,
+        "word": "环保少女妹妹发性感视频",
+        "onboard_time": 1749909802,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80108,
+        "num": 80108,
+        "word": "韩红现场发飙怒骂选手自私",
+        "onboard_time": 1749915682,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76566,
+        "num": 76566,
+        "word": "伊朗",
+        "onboard_time": 1749907461,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71612,
+        "num": 71612,
+        "word": "老板多嘴一问成功保住顾客10万元",
+        "onboard_time": 1749912143,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 64074,
+        "num": 64074,
+        "word": "一人一句祝父亲节日快乐",
+        "onboard_time": 1749920119,
+        "rank": 16,
+        "category": "情感,读书作家"
+      },
+      {
+        "raw_hot": 63755,
+        "num": 63755,
+        "word": "43岁张亮与10岁女儿合拍杂志",
+        "onboard_time": 1749902483,
+        "rank": 17,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 58350,
+        "num": 58350,
+        "word": "披荆斩棘 镜头",
+        "onboard_time": 1749919700,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54157,
+        "num": 54157,
+        "word": "泡泡玛特中止labubu韩国线下销售",
+        "onboard_time": 1749887900,
+        "rank": 19,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 49294,
+        "num": 49294,
+        "word": "郑钦文将创个人最佳排名",
+        "onboard_time": 1749916402,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45597,
+        "num": 45597,
+        "word": "加州偶遇王一博",
+        "onboard_time": 1749911183,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44245,
+        "num": 44245,
+        "word": "黄子韬现场发火中断考核",
+        "onboard_time": 1749904522,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42517,
+        "num": 42517,
+        "word": "眼科医生提醒改掉4个涨度数坏习惯",
+        "onboard_time": 1749913464,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37268,
+        "num": 37268,
+        "word": "Tarzan赛后发长文感谢队友",
+        "onboard_time": 1749921857,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36033,
+        "num": 36033,
+        "word": "刘宇宁 没收到过剧本",
+        "onboard_time": 1749898045,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35992,
+        "num": 35992,
+        "word": "檀健次把音乐节开成个人演唱会",
+        "onboard_time": 1749917721,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35753,
+        "num": 35753,
+        "word": "伊朗对以色列发动5轮袭击",
+        "onboard_time": 1749907523,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33788,
+        "num": 33788,
+        "word": "王毅分别同伊朗外长和以色列外长通电话",
+        "onboard_time": 1749914004,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29281,
+        "num": 32533,
+        "word": "郑钦文vs阿尼西莫娃",
+        "onboard_time": 1749919039,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32363,
+        "num": 32363,
+        "word": "Bin哥 嘴硬",
+        "onboard_time": 1749909802,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29439,
+        "num": 29439,
+        "word": "邓紫棋18厘米高跟鞋走的每一步都算数",
+        "onboard_time": 1749916641,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28861,
+        "num": 28861,
+        "word": "总台女记者从伊朗首都发回报道",
+        "onboard_time": 1749919160,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28541,
+        "num": 28541,
+        "word": "伊军称战争规模未来几天持续扩大",
+        "onboard_time": 1749921739,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27974,
+        "num": 27974,
+        "word": "Labubu为何爆火",
+        "onboard_time": 1749916822,
+        "rank": 34,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 27000,
+        "num": 27000,
+        "word": "赵丽颖饰演西林",
+        "onboard_time": 1749917482,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26948,
+        "num": 26948,
+        "word": "祝绪丹背着工作人员开直播",
+        "onboard_time": 1749915682,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25427,
+        "num": 25427,
+        "word": "中超",
+        "onboard_time": 1749919580,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25424,
+        "num": 25424,
+        "word": "前妻偷偷生了我的孩子",
+        "onboard_time": 1749897021,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23066,
+        "num": 23066,
+        "word": "王毅同以色列外长萨尔通电话",
+        "onboard_time": 1749915083,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22638,
+        "num": 22638,
+        "word": "贺峻霖战至巅峰从20岁打到21岁",
+        "onboard_time": 1749917961,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20875,
+        "num": 22637,
+        "word": "tabe发言",
+        "onboard_time": 1749917902,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19793,
+        "num": 22636,
+        "word": "广东多地发布台风红色预警",
+        "onboard_time": 1749930494,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19431,
+        "num": 22634,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1749914841,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19100,
+        "num": 22633,
+        "word": "酱园弄",
+        "onboard_time": 1749894984,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17412,
+        "num": 22632,
+        "word": "老爸的拿手菜",
+        "onboard_time": 1749932054,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16446,
+        "num": 22632,
+        "word": "郑钦文破发阿尼西莫娃",
+        "onboard_time": 1749917422,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15859,
+        "num": 22631,
+        "word": "无名之辈",
+        "onboard_time": 1749926775,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15556,
+        "num": 22630,
+        "word": "这里是中亚",
+        "onboard_time": 1749934693,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15136,
+        "num": 22628,
+        "word": "独自养大儿女的姚师傅要当爷爷了",
+        "onboard_time": 1749938295,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平关心文化和自然遗产保护传承利用#"
+    }
+  }
+}

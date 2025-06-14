@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/15 00:29:55 ~ 2025/06/15 05:38:19
+本榜单时间：2025/06/15 00:29:55 ~ 2025/06/15 06:24:29
 </p>
 </blockquote>
 <p>
@@ -477,6 +477,12 @@ Knight希望画个好一点的句号（热度：118296）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23" target="weibo">
+广东多地发布台风红色预警（热度：19793）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025f1%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%A7%E5%A5%96%E8%B5%9B%23" target="weibo">
 2025f1加拿大大奖赛（热度：18675）
 </a>
@@ -489,8 +495,8 @@ Knight希望画个好一点的句号（热度：118296）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23" target="weibo">
-广东多地发布台风红色预警（热度：17606）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%87%AA%E5%85%BB%E5%A4%A7%E5%84%BF%E5%A5%B3%E7%9A%84%E5%A7%9A%E5%B8%88%E5%82%85%E8%A6%81%E5%BD%93%E7%88%B7%E7%88%B7%E4%BA%86%23" target="weibo">
+独自养大儿女的姚师傅要当爷爷了（热度：15136）
 </a>
 </li>
 
