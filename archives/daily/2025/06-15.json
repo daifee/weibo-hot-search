@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749922780661,
+  "endTime": 1749925953191,
   "band_list": [
     {
       "raw_hot": 1752363,
@@ -163,20 +163,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247732,
+      "num": 209695,
+      "word": "李现是第一个推了酱园弄的人",
+      "onboard_time": 1749921557,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241009,
       "num": 204205,
       "word": "邓紫棋再唱句号终于释然",
       "onboard_time": 1749916221,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209695,
-      "num": 209695,
-      "word": "李现是第一个推了酱园弄的人",
-      "onboard_time": 1749921557,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 207118,
@@ -499,12 +499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37545,
+      "num": 37545,
+      "word": "伊军称战争规模未来几天持续扩大",
+      "onboard_time": 1749921739,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35154,
       "num": 121616,
       "word": "凯斯无缘女王杯决赛",
       "onboard_time": 1749915083,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28929,
+      "num": 28929,
+      "word": "汪苏泷珍珠套装2.0",
+      "onboard_time": 1749925576,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 28887,
@@ -515,11 +531,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28071,
+      "num": 28071,
+      "word": "刘浩存收服邪恶培根的路不怕再走一遭",
+      "onboard_time": 1749925936,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23482,
       "num": 98992,
       "word": "天津津门虎1比0山东泰山",
       "onboard_time": 1749918800,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18675,
+      "num": 29581,
+      "word": "2025f1加拿大大奖赛",
+      "onboard_time": 1749924737,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -537,6 +569,9 @@
     },
     {
       "word": "#习近平关心文化和自然遗产保护传承利用#"
+    },
+    {
+      "word": "#习近平讲述中华文明的故事#"
     }
   ]
 }
