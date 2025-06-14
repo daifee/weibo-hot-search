@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749905224116,
+  "endTime": 1749906160926,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1099,8 +1099,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1557686,
-      "num": 1557686,
+      "raw_hot": 1564408,
+      "num": 1564408,
       "word": "刘宇宁 没收到过剧本",
       "onboard_time": 1749898045,
       "rank": 7,
@@ -4171,6 +4171,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 703190,
+      "num": 703190,
+      "word": "黄子韬现场发火中断考核",
+      "onboard_time": 1749904522,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 702511,
       "num": 702511,
       "word": "家有儿女姥姥的含金量还在上升",
@@ -4305,6 +4313,14 @@
       "onboard_time": 1748750959,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 682636,
+      "num": 682636,
+      "word": "43岁张亮与10岁女儿合拍杂志",
+      "onboard_time": 1749902483,
+      "rank": 4,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 682161,
@@ -4827,14 +4843,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 628906,
-      "num": 628906,
-      "word": "43岁张亮与10岁女儿合拍杂志",
-      "onboard_time": 1749902483,
-      "rank": 4,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 628578,
       "num": 483098,
       "word": "湖南成立罗帅宇事件联合调查组",
@@ -5011,6 +5019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617100,
+      "num": 617100,
+      "word": "杭州警方通报女子遭持刀挟持",
+      "onboard_time": 1749902662,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 616510,
       "num": 616510,
       "word": "权志龙点赞蔡徐坤舞台",
@@ -5153,6 +5169,14 @@
       "onboard_time": 1749309323,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 606907,
+      "num": 606907,
+      "word": "退圈男演员相亲有没有市场",
+      "onboard_time": 1749901942,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 606626,
@@ -5673,14 +5697,6 @@
       "onboard_time": 1749651565,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 571042,
-      "num": 571042,
-      "word": "退圈男演员相亲有没有市场",
-      "onboard_time": 1749901942,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 570588,
@@ -7235,14 +7251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469268,
-      "num": 469268,
-      "word": "杭州警方通报女子遭持刀挟持",
-      "onboard_time": 1749902662,
-      "rank": 8,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 469014,
       "num": 915320,
       "word": "女子在电梯厅被头盔男抱起压倒在地",
@@ -7755,6 +7763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 437021,
+      "num": 437021,
+      "word": "杨幂身边站了两个李善德",
+      "onboard_time": 1749903322,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 436609,
       "num": 436609,
       "word": "高考时间",
@@ -7809,6 +7825,14 @@
       "onboard_time": 1749602421,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 435098,
+      "num": 435098,
+      "word": "AL对战BLG",
+      "onboard_time": 1749892410,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 434441,
@@ -7995,11 +8019,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 425117,
+      "num": 425117,
+      "word": "张元英剪了刘海",
+      "onboard_time": 1749904642,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 424944,
       "num": 288055,
       "word": "吴谨言王星越墨雨云间开播一周年发文",
       "onboard_time": 1748832919,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 424531,
+      "num": 424531,
+      "word": "内娱终于有时髦剧了",
+      "onboard_time": 1749901581,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -9203,14 +9243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 376305,
-      "num": 376305,
-      "word": "杨幂身边站了两个李善德",
-      "onboard_time": 1749903322,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 376105,
       "num": 376105,
       "word": "TFBOYS为易烊千玺楔石打call",
@@ -10347,6 +10379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341638,
+      "num": 341638,
+      "word": "万象城",
+      "onboard_time": 1749904400,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340904,
       "num": 340904,
       "word": "芭莎之夜阵容",
@@ -10409,14 +10449,6 @@
       "onboard_time": 1749037760,
       "rank": 17,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 338761,
-      "num": 338761,
-      "word": "张元英剪了刘海",
-      "onboard_time": 1749904642,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 338754,
@@ -10972,7 +11004,7 @@
     },
     {
       "raw_hot": 319698,
-      "num": 270442,
+      "num": 316916,
       "word": "李嘉格剖腹产刀疤下雨天发痒",
       "onboard_time": 1749899901,
       "rank": 48,
@@ -11145,14 +11177,6 @@
       "onboard_time": 1748737399,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313248,
-      "num": 269471,
-      "word": "内娱终于有时髦剧了",
-      "onboard_time": 1749901581,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 313047,
@@ -11483,6 +11507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 305888,
+      "num": 305888,
+      "word": "以色列暗杀9名伊朗科学家",
+      "onboard_time": 1749898822,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 305834,
       "num": 440449,
       "word": "湘雅二院曾因瞒报重大医疗纠纷被处罚",
@@ -11593,14 +11625,6 @@
       "onboard_time": 1749719541,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 304063,
-      "num": 304063,
-      "word": "以色列暗杀9名伊朗科学家",
-      "onboard_time": 1749898822,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 303815,
@@ -12740,7 +12764,7 @@
     },
     {
       "raw_hot": 276964,
-      "num": 276964,
+      "num": 424714,
       "word": "苏超战报",
       "onboard_time": 1749899542,
       "rank": 36,
@@ -13121,6 +13145,14 @@
       "onboard_time": 1749389123,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268503,
+      "num": 341674,
+      "word": "郭麒麟红毯绑外甥",
+      "onboard_time": 1749905362,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 268229,
@@ -14089,6 +14121,14 @@
       "onboard_time": 1749881899,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 250418,
+      "num": 250418,
+      "word": "以色列",
+      "onboard_time": 1749905002,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 250385,
@@ -17611,6 +17651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207123,
+      "num": 457697,
+      "word": "又有两名伊朗高官遭袭身亡",
+      "onboard_time": 1749904102,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207024,
       "num": 207024,
       "word": "步行者vs尼克斯",
@@ -18379,6 +18427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 202629,
+      "num": 202629,
+      "word": "王昶为宁波大学打call",
+      "onboard_time": 1749904342,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202619,
       "num": 202619,
       "word": "中国博主开始带原始人爆改部落了",
@@ -18505,6 +18561,14 @@
       "onboard_time": 1749611960,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201995,
+      "num": 201995,
+      "word": "刘浩存人格分裂式演技",
+      "onboard_time": 1749904342,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 201979,
@@ -19307,14 +19371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197399,
-      "num": 197399,
-      "word": "万象城",
-      "onboard_time": 1749904400,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197239,
       "num": 197239,
       "word": "洛杉矶市中心每天宵禁10小时",
@@ -19385,6 +19441,14 @@
       "onboard_time": 1749703942,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196830,
+      "num": 196830,
+      "word": "AG首发Cat",
+      "onboard_time": 1749903383,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 196672,
@@ -19545,6 +19609,14 @@
       "onboard_time": 1749647662,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 195932,
+      "num": 195932,
+      "word": "cravity预告",
+      "onboard_time": 1749904943,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 195916,
@@ -19825,14 +19897,6 @@
       "onboard_time": 1749424641,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193571,
-      "num": 193571,
-      "word": "刘浩存人格分裂式演技",
-      "onboard_time": 1749904342,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 193489,
@@ -22451,14 +22515,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 178200,
-      "num": 273089,
-      "word": "黄子韬现场发火中断考核",
-      "onboard_time": 1749904522,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178154,
       "num": 178154,
       "word": "藏海传38集封神",
@@ -22833,14 +22889,6 @@
       "onboard_time": 1749621741,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175111,
-      "num": 175111,
-      "word": "以色列",
-      "onboard_time": 1749905002,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 175101,
@@ -23673,14 +23721,6 @@
       "onboard_time": 1749359120,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170311,
-      "num": 170311,
-      "word": "王昶为宁波大学打call",
-      "onboard_time": 1749904342,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 170280,
@@ -24955,14 +24995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164282,
-      "num": 164282,
-      "word": "cravity预告",
-      "onboard_time": 1749904943,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 164251,
       "num": 164251,
       "word": "这些居然都是周奇",
@@ -25105,6 +25137,14 @@
       "onboard_time": 1749737663,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 163375,
+      "num": 163375,
+      "word": "四六级结束刘晓艳发文",
+      "onboard_time": 1749905182,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 163336,
@@ -25513,6 +25553,14 @@
       "onboard_time": 1749366921,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160967,
+      "num": 160967,
+      "word": "AG对战eStar",
+      "onboard_time": 1749905842,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 160787,
@@ -26297,6 +26345,14 @@
       "onboard_time": 1749604762,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157055,
+      "num": 181959,
+      "word": "Cat时隔252天重返赛场",
+      "onboard_time": 1749906022,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 157001,
@@ -27761,14 +27817,6 @@
       "onboard_time": 1749366080,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149507,
-      "num": 149507,
-      "word": "四六级结束刘晓艳发文",
-      "onboard_time": 1749905182,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 149369,
@@ -29241,14 +29289,6 @@
       "onboard_time": 1749119540,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143018,
-      "num": 457697,
-      "word": "又有两名伊朗高官遭袭身亡",
-      "onboard_time": 1749904102,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 142971,
@@ -31225,14 +31265,6 @@
       "onboard_time": 1749725902,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 134644,
-      "num": 134644,
-      "word": "AG首发Cat",
-      "onboard_time": 1749903383,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 134638,
@@ -38363,14 +38395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97389,
-      "num": 234199,
-      "word": "AL对战BLG",
-      "onboard_time": 1749892410,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 97367,
       "num": 180736,
       "word": "王楚钦3比0全开源",
@@ -38881,6 +38905,14 @@
       "onboard_time": 1749877401,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 94263,
+      "num": 341639,
+      "word": "电影节红毯的最佳时尚单品",
+      "onboard_time": 1749904463,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 94236,
@@ -42952,14 +42984,6 @@
       "word": "用Pura80把黄子弘凡拉到眼前唱歌",
       "onboard_time": 1749827903,
       "rank": 12,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 63405,
-      "num": 271854,
-      "word": "电影节红毯的最佳时尚单品",
-      "onboard_time": 1749904463,
-      "rank": 19,
       "category": "电影"
     },
     {
@@ -47099,6 +47123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36450,
+      "num": 197834,
+      "word": "沈逸谈多名伊朗高级官员被暗杀",
+      "onboard_time": 1749904342,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36328,
       "num": 1227728,
       "word": "有AI千年来相会",
@@ -48467,6 +48499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29504,
+      "num": 1110806,
+      "word": "文化中国行传承古建筑智慧",
+      "onboard_time": 1749892289,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29480,
       "num": 168006,
       "word": "法国禁止在儿童公共场所吸烟",
@@ -48513,14 +48553,6 @@
       "onboard_time": 1749587654,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29157,
-      "num": 1110806,
-      "word": "文化中国行传承古建筑智慧",
-      "onboard_time": 1749892289,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29146,
@@ -50067,14 +50099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22141,
-      "num": 197834,
-      "word": "沈逸谈多名伊朗高级官员被暗杀",
-      "onboard_time": 1749904342,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 22077,
       "num": 159195,
       "word": "岳云鹏新剧搞人心态是骨干级别",
@@ -50683,6 +50707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19214,
+      "num": 181943,
+      "word": "以军称民众不必停留在防空洞附近",
+      "onboard_time": 1749906143,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19114,
       "num": 35326,
       "word": "刘冲回应VOGUE争议",
@@ -51049,6 +51081,14 @@
       "onboard_time": 1749285082,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17122,
+      "num": 220630,
+      "word": "以专家称战争才刚开始",
+      "onboard_time": 1749905903,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17041,

@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749905224116,
+  "endTime": 1749906160926,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -99,8 +99,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1557686,
-      "num": 1557686,
+      "raw_hot": 1564408,
+      "num": 1564408,
       "word": "刘宇宁 没收到过剧本",
       "onboard_time": 1749898045,
       "rank": 7,
@@ -283,12 +283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 703190,
+      "num": 703190,
+      "word": "黄子韬现场发火中断考核",
+      "onboard_time": 1749904522,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 698622,
       "num": 420197,
       "word": "比起labubu我还是比较喜欢maoyeye",
       "onboard_time": 1749877701,
       "rank": 37,
       "category": "情感,动漫"
+    },
+    {
+      "raw_hot": 682636,
+      "num": 682636,
+      "word": "43岁张亮与10岁女儿合拍杂志",
+      "onboard_time": 1749902483,
+      "rank": 4,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 677229,
@@ -347,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 628906,
-      "num": 628906,
-      "word": "43岁张亮与10岁女儿合拍杂志",
-      "onboard_time": 1749902483,
-      "rank": 4,
-      "category": "时尚,艺人"
+      "raw_hot": 617100,
+      "num": 617100,
+      "word": "杭州警方通报女子遭持刀挟持",
+      "onboard_time": 1749902662,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 607393,
@@ -361,6 +377,14 @@
       "onboard_time": 1749890481,
       "rank": 36,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 606907,
+      "num": 606907,
+      "word": "退圈男演员相亲有没有市场",
+      "onboard_time": 1749901942,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 583970,
@@ -384,14 +408,6 @@
       "word": "小沈阳女儿讲韩语流利标准",
       "onboard_time": 1749878302,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 571042,
-      "num": 571042,
-      "word": "退圈男演员相亲有没有市场",
-      "onboard_time": 1749901942,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -499,14 +515,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 469268,
-      "num": 469268,
-      "word": "杭州警方通报女子遭持刀挟持",
-      "onboard_time": 1749902662,
-      "rank": 8,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 463809,
       "num": 419636,
       "word": "邓超让大家今天别看五哈",
@@ -553,6 +561,38 @@
       "onboard_time": 1749876141,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437021,
+      "num": 437021,
+      "word": "杨幂身边站了两个李善德",
+      "onboard_time": 1749903322,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 435098,
+      "num": 435098,
+      "word": "AL对战BLG",
+      "onboard_time": 1749892410,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 425117,
+      "num": 425117,
+      "word": "张元英剪了刘海",
+      "onboard_time": 1749904642,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 424531,
+      "num": 424531,
+      "word": "内娱终于有时髦剧了",
+      "onboard_time": 1749901581,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 416871,
@@ -625,14 +665,6 @@
       "onboard_time": 1749895942,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 376305,
-      "num": 376305,
-      "word": "杨幂身边站了两个李善德",
-      "onboard_time": 1749903322,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 375746,
@@ -755,12 +787,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 338761,
-      "num": 338761,
-      "word": "张元英剪了刘海",
-      "onboard_time": 1749904642,
-      "rank": 14,
-      "category": "作品衍生"
+      "raw_hot": 341638,
+      "num": 341638,
+      "word": "万象城",
+      "onboard_time": 1749904400,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334220,
@@ -772,7 +804,7 @@
     },
     {
       "raw_hot": 319698,
-      "num": 270442,
+      "num": 316916,
       "word": "李嘉格剖腹产刀疤下雨天发痒",
       "onboard_time": 1749899901,
       "rank": 48,
@@ -785,14 +817,6 @@
       "onboard_time": 1749894984,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 313248,
-      "num": 269471,
-      "word": "内娱终于有时髦剧了",
-      "onboard_time": 1749901581,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 312784,
@@ -811,20 +835,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305888,
+      "num": 305888,
+      "word": "以色列暗杀9名伊朗科学家",
+      "onboard_time": 1749898822,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 304878,
       "num": 304878,
       "word": "田柾国道歉",
       "onboard_time": 1749856698,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304063,
-      "num": 304063,
-      "word": "以色列暗杀9名伊朗科学家",
-      "onboard_time": 1749898822,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 301030,
@@ -849,6 +873,14 @@
       "onboard_time": 1749871883,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292895,
+      "num": 292895,
+      "word": "临江仙热度",
+      "onboard_time": 1749905123,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 290443,
@@ -908,7 +940,7 @@
     },
     {
       "raw_hot": 276964,
-      "num": 276964,
+      "num": 424714,
       "word": "苏超战报",
       "onboard_time": 1749899542,
       "rank": 36,
@@ -960,6 +992,14 @@
       "word": "章子怡短发",
       "onboard_time": 1749899122,
       "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 268503,
+      "num": 341674,
+      "word": "郭麒麟红毯绑外甥",
+      "onboard_time": 1749905362,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -1033,6 +1073,14 @@
       "onboard_time": 1749881899,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 250418,
+      "num": 250418,
+      "word": "以色列",
+      "onboard_time": 1749905002,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 247102,
@@ -1251,6 +1299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 207123,
+      "num": 457697,
+      "word": "又有两名伊朗高官遭袭身亡",
+      "onboard_time": 1749904102,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 206798,
       "num": 206798,
       "word": "立方米怎么翻译",
@@ -1331,6 +1387,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202629,
+      "num": 202629,
+      "word": "王昶为宁波大学打call",
+      "onboard_time": 1749904342,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201995,
+      "num": 201995,
+      "word": "刘浩存人格分裂式演技",
+      "onboard_time": 1749904342,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201441,
       "num": 246965,
       "word": "第一次听王勉的播音腔",
@@ -1387,12 +1459,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197399,
-      "num": 197399,
-      "word": "万象城",
-      "onboard_time": 1749904400,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 196830,
+      "num": 196830,
+      "word": "AG首发Cat",
+      "onboard_time": 1749903383,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 196410,
@@ -1401,6 +1473,14 @@
       "onboard_time": 1749878602,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195932,
+      "num": 195932,
+      "word": "cravity预告",
+      "onboard_time": 1749904943,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 194603,
@@ -1417,14 +1497,6 @@
       "onboard_time": 1749896662,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 193571,
-      "num": 193571,
-      "word": "刘浩存人格分裂式演技",
-      "onboard_time": 1749904342,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 192594,
@@ -1595,14 +1667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 178200,
-      "num": 273089,
-      "word": "黄子韬现场发火中断考核",
-      "onboard_time": 1749904522,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177000,
       "num": 177000,
       "word": "曝披荆斩棘初舞台歌单",
@@ -1641,14 +1705,6 @@
       "onboard_time": 1749893842,
       "rank": 47,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 175111,
-      "num": 175111,
-      "word": "以色列",
-      "onboard_time": 1749905002,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 174667,
@@ -1739,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170311,
-      "num": 170311,
-      "word": "王昶为宁波大学打call",
-      "onboard_time": 1749904342,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168573,
       "num": 168573,
       "word": "一场苏超掀起特产争夺战",
@@ -1819,12 +1867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164282,
-      "num": 164282,
-      "word": "cravity预告",
-      "onboard_time": 1749904943,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 163375,
+      "num": 163375,
+      "word": "四六级结束刘晓艳发文",
+      "onboard_time": 1749905182,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 162909,
@@ -1857,6 +1905,14 @@
       "onboard_time": 1749903082,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160967,
+      "num": 160967,
+      "word": "AG对战eStar",
+      "onboard_time": 1749905842,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 159729,
@@ -1905,6 +1961,14 @@
       "onboard_time": 1749903802,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157055,
+      "num": 181959,
+      "word": "Cat时隔252天重返赛场",
+      "onboard_time": 1749906022,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 156828,
@@ -1961,14 +2025,6 @@
       "onboard_time": 1749892832,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 149507,
-      "num": 149507,
-      "word": "四六级结束刘晓艳发文",
-      "onboard_time": 1749905182,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 148497,
@@ -2043,14 +2099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144340,
-      "num": 144340,
-      "word": "临江仙热度",
-      "onboard_time": 1749905123,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144057,
       "num": 144057,
       "word": "关注以色列伊朗局势",
@@ -2065,14 +2113,6 @@
       "onboard_time": 1749890720,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143018,
-      "num": 457697,
-      "word": "又有两名伊朗高官遭袭身亡",
-      "onboard_time": 1749904102,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 142505,
@@ -2193,14 +2233,6 @@
       "onboard_time": 1749824969,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134644,
-      "num": 134644,
-      "word": "AG首发Cat",
-      "onboard_time": 1749903383,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 134119,
@@ -2683,14 +2715,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 97389,
-      "num": 234199,
-      "word": "AL对战BLG",
-      "onboard_time": 1749892410,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 95339,
       "num": 95339,
       "word": "张若昀你怎么又拿奖了",
@@ -2721,6 +2745,14 @@
       "onboard_time": 1749877401,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 94263,
+      "num": 341639,
+      "word": "电影节红毯的最佳时尚单品",
+      "onboard_time": 1749904463,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 92736,
@@ -2960,14 +2992,6 @@
       "word": "用Pura80把黄子弘凡拉到眼前唱歌",
       "onboard_time": 1749827903,
       "rank": 10,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 63405,
-      "num": 271854,
-      "word": "电影节红毯的最佳时尚单品",
-      "onboard_time": 1749904463,
-      "rank": 19,
       "category": "电影"
     },
     {
@@ -3251,6 +3275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36450,
+      "num": 197834,
+      "word": "沈逸谈多名伊朗高级官员被暗杀",
+      "onboard_time": 1749904342,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36328,
       "num": 1227728,
       "word": "有AI千年来相会",
@@ -3355,7 +3387,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29157,
+      "raw_hot": 29504,
       "num": 1110806,
       "word": "文化中国行传承古建筑智慧",
       "onboard_time": 1749892289,
@@ -3491,14 +3523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22141,
-      "num": 197834,
-      "word": "沈逸谈多名伊朗高级官员被暗杀",
-      "onboard_time": 1749904342,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21813,
       "num": 1073183,
       "word": "数里行间感知经济活力",
@@ -3521,6 +3545,22 @@
       "onboard_time": 1749892591,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19214,
+      "num": 181943,
+      "word": "以军称民众不必停留在防空洞附近",
+      "onboard_time": 1749906143,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17122,
+      "num": 220630,
+      "word": "以专家称战争才刚开始",
+      "onboard_time": 1749905903,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17041,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1749906160926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1564408,
+        "num": 1564408,
+        "word": "刘宇宁 没收到过剧本",
+        "onboard_time": 1749898045,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 922392,
+        "num": 922392,
+        "word": "泡泡玛特中止labubu韩国线下销售",
+        "onboard_time": 1749887900,
+        "rank": 1,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 29504,
+        "num": 786331,
+        "word": "文化中国行传承古建筑智慧",
+        "onboard_time": 1749892289,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 703190,
+        "num": 703190,
+        "word": "黄子韬现场发火中断考核",
+        "onboard_time": 1749904522,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682636,
+        "num": 682636,
+        "word": "43岁张亮与10岁女儿合拍杂志",
+        "onboard_time": 1749902483,
+        "rank": 4,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 617100,
+        "num": 617100,
+        "word": "杭州警方通报女子遭持刀挟持",
+        "onboard_time": 1749902662,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 606907,
+        "num": 606907,
+        "word": "退圈男演员相亲有没有市场",
+        "onboard_time": 1749901942,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542025,
+        "num": 542025,
+        "word": "杨幂手拿荔枝",
+        "onboard_time": 1749893183,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 541858,
+        "num": 541858,
+        "word": "六级",
+        "onboard_time": 1749892832,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 484085,
+        "num": 484085,
+        "word": "国足再弱也轮不到业余足球挑战",
+        "onboard_time": 1749888201,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508008,
+        "num": 483681,
+        "word": "前妻偷偷生了我的孩子",
+        "onboard_time": 1749897021,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447332,
+        "num": 447332,
+        "word": "六级答案",
+        "onboard_time": 1749894083,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 437021,
+        "num": 437021,
+        "word": "杨幂身边站了两个李善德",
+        "onboard_time": 1749903322,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 435098,
+        "num": 435098,
+        "word": "AL对战BLG",
+        "onboard_time": 1749892410,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 425117,
+        "num": 425117,
+        "word": "张元英剪了刘海",
+        "onboard_time": 1749904642,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233641,
+        "num": 424714,
+        "word": "苏超战报",
+        "onboard_time": 1749899542,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424531,
+        "num": 424531,
+        "word": "内娱终于有时髦剧了",
+        "onboard_time": 1749901581,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342728,
+        "num": 342728,
+        "word": "泡泡玛特韩国致歉",
+        "onboard_time": 1749890364,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268503,
+        "num": 341674,
+        "word": "郭麒麟红毯绑外甥",
+        "onboard_time": 1749905362,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94263,
+        "num": 341639,
+        "word": "电影节红毯的最佳时尚单品",
+        "onboard_time": 1749904463,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 341638,
+        "num": 341638,
+        "word": "万象城",
+        "onboard_time": 1749904400,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207123,
+        "num": 320756,
+        "word": "又有两名伊朗高官遭袭身亡",
+        "onboard_time": 1749904102,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316916,
+        "num": 316916,
+        "word": "李嘉格剖腹产刀疤下雨天发痒",
+        "onboard_time": 1749899901,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305888,
+        "num": 305888,
+        "word": "以色列暗杀9名伊朗科学家",
+        "onboard_time": 1749898822,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292895,
+        "num": 292895,
+        "word": "临江仙热度",
+        "onboard_time": 1749905123,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281223,
+        "num": 281223,
+        "word": "取件时间是哪个天才设置的",
+        "onboard_time": 1749883040,
+        "rank": 25,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 259835,
+        "num": 259835,
+        "word": "中国三航母时代即将到来",
+        "onboard_time": 1749898582,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250418,
+        "num": 250418,
+        "word": "以色列",
+        "onboard_time": 1749905002,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243293,
+        "num": 243293,
+        "word": "女孩基因突变出生几个月眼睛变蓝色",
+        "onboard_time": 1749892951,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17122,
+        "num": 220630,
+        "word": "以专家称战争才刚开始",
+        "onboard_time": 1749905903,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204836,
+        "num": 204836,
+        "word": "章子怡短发",
+        "onboard_time": 1749899122,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202629,
+        "num": 202629,
+        "word": "王昶为宁波大学打call",
+        "onboard_time": 1749904342,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201995,
+        "num": 201995,
+        "word": "刘浩存人格分裂式演技",
+        "onboard_time": 1749904342,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200489,
+        "num": 200489,
+        "word": "央视新闻评LABUBU爆火",
+        "onboard_time": 1749898104,
+        "rank": 33,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 196830,
+        "num": 196830,
+        "word": "AG首发Cat",
+        "onboard_time": 1749903383,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195932,
+        "num": 195932,
+        "word": "cravity预告",
+        "onboard_time": 1749904943,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183331,
+        "num": 183331,
+        "word": "劳力士店员否认曾毅戴表为自家品牌",
+        "onboard_time": 1749894743,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182269,
+        "num": 182269,
+        "word": "丁程鑫道歉道成谢娜微博铁粉了",
+        "onboard_time": 1749900743,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157055,
+        "num": 181959,
+        "word": "Cat时隔252天重返赛场",
+        "onboard_time": 1749906022,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19214,
+        "num": 181943,
+        "word": "以军称民众不必停留在防空洞附近",
+        "onboard_time": 1749906143,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36450,
+        "num": 181939,
+        "word": "沈逸谈多名伊朗高级官员被暗杀",
+        "onboard_time": 1749904342,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181938,
+        "num": 181938,
+        "word": "如何呢又能怎",
+        "onboard_time": 1749903263,
+        "rank": 41,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 180489,
+        "num": 180489,
+        "word": "黄圣依生孩子没打麻药",
+        "onboard_time": 1749897021,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168934,
+        "num": 168934,
+        "word": "曝披荆斩棘初舞台歌单",
+        "onboard_time": 1749901581,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163375,
+        "num": 163375,
+        "word": "四六级结束刘晓艳发文",
+        "onboard_time": 1749905182,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160967,
+        "num": 160967,
+        "word": "AG对战eStar",
+        "onboard_time": 1749905842,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155627,
+        "num": 155627,
+        "word": "柯淳杨肸子爱情戏甜度超标",
+        "onboard_time": 1749903082,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149754,
+        "num": 149754,
+        "word": "王俊凯和刘德华合照偷笑",
+        "onboard_time": 1749903802,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139488,
+        "num": 139488,
+        "word": "瘦了20斤的面部变化",
+        "onboard_time": 1749888140,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130594,
+        "num": 130594,
+        "word": "龙存",
+        "onboard_time": 1749903201,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平关心文化和自然遗产保护传承利用#"
+    }
+  }
+}
