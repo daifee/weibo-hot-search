@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749907962878,
+  "endTime": 1749908611640,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1259,6 +1259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1437709,
+      "num": 1437709,
+      "word": "黄子韬现场发火中断考核",
+      "onboard_time": 1749904522,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1424804,
       "num": 1424804,
       "word": "夏天这种凉鞋易致孩子性早熟还有毒",
@@ -1891,14 +1899,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1187753,
-      "num": 1190040,
-      "word": "黄子韬现场发火中断考核",
-      "onboard_time": 1749904522,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1180232,
       "num": 574494,
       "word": "湘雅二医院曾有患者出院当天死亡",
@@ -2177,6 +2177,14 @@
       "onboard_time": 1749281120,
       "rank": 11,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 1086745,
+      "num": 709904,
+      "word": "欧阳娜娜生日用蛋糕把自己围起来",
+      "onboard_time": 1749907523,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1085927,
@@ -2977,14 +2985,6 @@
       "onboard_time": 1749187941,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 891515,
-      "num": 635499,
-      "word": "欧阳娜娜生日用蛋糕把自己围起来",
-      "onboard_time": 1749907523,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 891234,
@@ -4499,6 +4499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 664212,
+      "num": 664212,
+      "word": "以色列",
+      "onboard_time": 1749905002,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 662693,
       "num": 662693,
       "word": "山东物理",
@@ -4729,14 +4737,6 @@
       "onboard_time": 1749307586,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 638548,
-      "num": 638548,
-      "word": "以色列",
-      "onboard_time": 1749905002,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 638394,
@@ -11811,6 +11811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300105,
+      "num": 300105,
+      "word": "伊朗",
+      "onboard_time": 1749774142,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 299841,
       "num": 299841,
       "word": "樊振东樊指导上线了",
@@ -13073,14 +13081,6 @@
       "onboard_time": 1749622941,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 271219,
-      "num": 271219,
-      "word": "伊朗",
-      "onboard_time": 1749774142,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 270279,
@@ -17947,6 +17947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 205760,
+      "num": 205760,
+      "word": "上影节内场",
+      "onboard_time": 1749907763,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205658,
       "num": 205658,
       "word": "四川拟将生育假最高延长至150天",
@@ -18977,6 +18985,14 @@
       "onboard_time": 1749615322,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199703,
+      "num": 199703,
+      "word": "吴邪和王胖子红毯跨次元同框",
+      "onboard_time": 1749907583,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 199563,
@@ -22395,6 +22411,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 179150,
+      "num": 179150,
+      "word": "周深白日焰火",
+      "onboard_time": 1749908003,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179148,
       "num": 197244,
       "word": "严浩翔回应diss变kiss",
@@ -22995,14 +23019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174545,
-      "num": 174545,
-      "word": "上影节内场",
-      "onboard_time": 1749907763,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 174431,
       "num": 258883,
       "word": "京东直播一元起拍labubu送铂金包",
@@ -23265,6 +23281,14 @@
       "onboard_time": 1748766621,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172985,
+      "num": 172985,
+      "word": "陈小春演唱会造型次抛",
+      "onboard_time": 1749908423,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 172947,
@@ -27875,14 +27899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149196,
-      "num": 149196,
-      "word": "吴邪和王胖子红毯跨次元同框",
-      "onboard_time": 1749907583,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 149138,
       "num": 153863,
       "word": "临江仙进行曲来了",
@@ -29465,6 +29481,14 @@
       "onboard_time": 1749503113,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 142216,
+      "num": 188257,
+      "word": "AL一号种子晋级MSI",
+      "onboard_time": 1749907943,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 142197,
@@ -34387,6 +34411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120490,
+      "num": 546430,
+      "word": "伊朗对以色列发动5轮袭击",
+      "onboard_time": 1749907523,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120471,
       "num": 120471,
       "word": "陈都灵翘楚再演扎女",
@@ -35043,14 +35075,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 117289,
-      "num": 166348,
-      "word": "AL一号种子晋级MSI",
-      "onboard_time": 1749907943,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 117286,
       "num": 117286,
       "word": "萨巴伦卡首进法网决赛",
@@ -35217,6 +35241,14 @@
       "onboard_time": 1749373282,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116423,
+      "num": 345057,
+      "word": "郑州大学偶遇姚冠宇",
+      "onboard_time": 1749907885,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 116373,
@@ -38233,14 +38265,6 @@
       "onboard_time": 1748926044,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 98668,
-      "num": 236696,
-      "word": "郑州大学偶遇姚冠宇",
-      "onboard_time": 1749907885,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 98619,
@@ -41459,6 +41483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75854,
+      "num": 348467,
+      "word": "跳科目三走红记者代购起了labubu",
+      "onboard_time": 1749907045,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75811,
       "num": 312481,
       "word": "贝克汉姆早C晚A",
@@ -42811,6 +42843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65407,
+      "num": 284716,
+      "word": "8岁男童走失40余天家属最新发声",
+      "onboard_time": 1749908124,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65374,
       "num": 271690,
       "word": "洛杉矶宵禁现场发生激烈冲突",
@@ -43803,6 +43843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57374,
+      "num": 329575,
+      "word": "张子枫卷发双马尾",
+      "onboard_time": 1749908364,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57351,
       "num": 1273022,
       "word": "祝高考生的梦想破土生花",
@@ -44715,6 +44763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 51418,
+      "num": 279957,
+      "word": "老人在绿地摔倒受伤致残后起诉公园",
+      "onboard_time": 1749907641,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51368,
       "num": 254949,
       "word": "领克10EM-P起步即四驱",
@@ -44963,14 +45019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49852,
-      "num": 348467,
-      "word": "跳科目三走红记者代购起了labubu",
-      "onboard_time": 1749907045,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49824,
       "num": 189201,
       "word": "为什么推荐报考汕头大学",
@@ -45200,6 +45248,14 @@
       "word": "节后粽子有买三送一还有6折出售",
       "onboard_time": 1748835560,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48124,
+      "num": 344759,
+      "word": "智残男子被好友哄骗用房子贷款数百万",
+      "onboard_time": 1749908124,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -46209,6 +46265,14 @@
       "onboard_time": 1749223523,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 41634,
+      "num": 346445,
+      "word": "标足金999的labubu挂饰可能是合金",
+      "onboard_time": 1749907822,
+      "rank": 26,
+      "category": ""
     },
     {
       "raw_hot": 41628,
@@ -48507,14 +48571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29950,
-      "num": 480654,
-      "word": "伊朗对以色列发动5轮袭击",
-      "onboard_time": 1749907523,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 29938,
       "num": 268857,
       "word": "欧洲最高的活火山喷发",
@@ -49009,14 +49065,6 @@
       "onboard_time": 1748859201,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 27993,
-      "num": 230767,
-      "word": "老人在绿地摔倒受伤致残后起诉公园",
-      "onboard_time": 1749907641,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27986,
@@ -50835,6 +50883,14 @@
       "category": "动漫,教育"
     },
     {
+      "raw_hot": 19014,
+      "num": 280086,
+      "word": "以军阻止美国媒体拍军事建筑",
+      "onboard_time": 1749907885,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18941,
       "num": 57407,
       "word": "中方将持续优化入境政策",
@@ -50865,14 +50921,6 @@
       "onboard_time": 1749720202,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18861,
-      "num": 189794,
-      "word": "以军阻止美国媒体拍军事建筑",
-      "onboard_time": 1749907885,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18853,
@@ -50913,14 +50961,6 @@
       "onboard_time": 1749458242,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18732,
-      "num": 246512,
-      "word": "标足金999的labubu挂饰可能是合金",
-      "onboard_time": 1749907822,
-      "rank": 26,
-      "category": ""
     },
     {
       "raw_hot": 18686,
