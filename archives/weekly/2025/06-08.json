@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749912059398,
+  "endTime": 1749914699820,
   "band_list": [
     {
       "raw_hot": 17710576,
@@ -147,7 +147,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 3159054,
+      "raw_hot": 3253167,
       "num": 549450,
       "word": "公开戴不雅手表是否涉传播淫秽物品",
       "onboard_time": 1749909863,
@@ -953,6 +953,14 @@
       "onboard_time": 1749377061,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1234360,
+      "num": 313550,
+      "word": "大爷体内藏52年牙刷称以为能溶解掉",
+      "onboard_time": 1749911364,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1232732,
@@ -2563,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 630076,
+      "num": 485208,
+      "word": "加州偶遇王一博",
+      "onboard_time": 1749911183,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 630019,
       "num": 630019,
       "word": "两夫妻各住一套房是什么体验",
@@ -3409,6 +3425,14 @@
       "onboard_time": 1749361522,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 518250,
+      "num": 518250,
+      "word": "婚宴252桌花50万嫌贵拒付款后续",
+      "onboard_time": 1749911063,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 518145,
@@ -5867,14 +5891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 313550,
-      "num": 313550,
-      "word": "大爷体内藏52年牙刷称以为能溶解掉",
-      "onboard_time": 1749911364,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 313047,
       "num": 313047,
       "word": "孙颖莎打羽毛球",
@@ -5953,14 +5969,6 @@
       "onboard_time": 1749771439,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 310332,
-      "num": 353832,
-      "word": "婚宴252桌花50万嫌贵拒付款后续",
-      "onboard_time": 1749911063,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 309620,
@@ -6809,14 +6817,6 @@
       "onboard_time": 1749489377,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275318,
-      "num": 297832,
-      "word": "加州偶遇王一博",
-      "onboard_time": 1749911183,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 275105,
@@ -7755,6 +7755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 241746,
+      "num": 355549,
+      "word": "王毅分别同伊朗外长和以色列外长通电话",
+      "onboard_time": 1749914004,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241215,
       "num": 241215,
       "word": "偶遇蔡徐坤",
@@ -8137,6 +8145,14 @@
       "onboard_time": 1749615443,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230457,
+      "num": 230457,
+      "word": "杨幂又在红毯搞抽象",
+      "onboard_time": 1749910884,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 230409,
@@ -10731,14 +10747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192026,
-      "num": 192026,
-      "word": "杨幂又在红毯搞抽象",
-      "onboard_time": 1749910884,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 192004,
       "num": 192004,
       "word": "iPhone17系列新爆料",
@@ -11089,6 +11097,14 @@
       "onboard_time": 1749805942,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188607,
+      "num": 188607,
+      "word": "周深的摄像师集体背题上岗",
+      "onboard_time": 1749913583,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 188575,
@@ -13267,6 +13283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 166009,
+      "num": 166009,
+      "word": "酱园弄悬案上影节口碑",
+      "onboard_time": 1749913823,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165940,
       "num": 588174,
       "word": "以军称发现哈马斯领导人遗体",
@@ -13481,6 +13505,14 @@
       "onboard_time": 1749353662,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 164535,
+      "num": 164535,
+      "word": "全员加速中",
+      "onboard_time": 1749407655,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 164497,
@@ -13851,6 +13883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161080,
+      "num": 161080,
+      "word": "再就业男团快男毕业18年了",
+      "onboard_time": 1749913583,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160972,
       "num": 160972,
       "word": "文科生登顶 祯是构了",
@@ -13873,6 +13913,14 @@
       "onboard_time": 1749905842,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160954,
+      "num": 160954,
+      "word": "眼科医生提醒改掉4个涨度数坏习惯",
+      "onboard_time": 1749913464,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 160914,
@@ -14851,6 +14899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152265,
+      "num": 152265,
+      "word": "华晨宇顶级魅魔",
+      "onboard_time": 1749913224,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152180,
       "num": 152180,
       "word": "河北也太宠樊振东了",
@@ -15169,6 +15225,14 @@
       "onboard_time": 1749352101,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149608,
+      "num": 149608,
+      "word": "开店前夜员工备菜猝死公司拒赔",
+      "onboard_time": 1749912563,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149602,
@@ -15731,6 +15795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145388,
+      "num": 145388,
+      "word": "檀健次赴一场热烈共振的声浪",
+      "onboard_time": 1749914242,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145301,
       "num": 145301,
       "word": "俱乐部大逆转后徐海东发博",
@@ -16009,6 +16081,14 @@
       "onboard_time": 1749647903,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143139,
+      "num": 143139,
+      "word": "老板多嘴一问成功保住顾客10万元",
+      "onboard_time": 1749912143,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 143096,
@@ -16353,6 +16433,14 @@
       "onboard_time": 1749341600,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140446,
+      "num": 140446,
+      "word": "七根心简站内热度破9000",
+      "onboard_time": 1749913402,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 140440,
@@ -18563,6 +18651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121623,
+      "num": 121623,
+      "word": "你安心做事自有人照顾好你妻女",
+      "onboard_time": 1749913163,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121563,
       "num": 121563,
       "word": "美国一架飞机坠毁多人受伤",
@@ -18625,6 +18721,22 @@
       "onboard_time": 1749567682,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120621,
+      "num": 135112,
+      "word": "Knight希望画个好一点的句号",
+      "onboard_time": 1749914242,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 120543,
+      "num": 120543,
+      "word": "克莱鼻涕",
+      "onboard_time": 1749912503,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 120495,
@@ -19577,6 +19689,14 @@
       "onboard_time": 1749804382,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110539,
+      "num": 110539,
+      "word": "女子成功追爱殡仪员二人乘灵车结婚",
+      "onboard_time": 1749912263,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110314,
@@ -21067,6 +21187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86975,
+      "num": 241260,
+      "word": "大众ID3官改概念车太超前了",
+      "onboard_time": 1749912023,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 86831,
       "num": 420044,
       "word": "韦东奕舆论喧嚣之外其实专注学术",
@@ -21889,14 +22017,6 @@
       "onboard_time": 1749435801,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 74888,
-      "num": 141123,
-      "word": "大众ID3官改概念车太超前了",
-      "onboard_time": 1749912023,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 74738,
@@ -26155,6 +26275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23327,
+      "num": 131885,
+      "word": "馆长赞大陆高铁站比台湾机场大",
+      "onboard_time": 1749914663,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23280,
       "num": 157666,
       "word": "拍出108万Labubu首任藏家发声",
@@ -26289,14 +26417,6 @@
       "onboard_time": 1749475883,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 21861,
-      "num": 24138,
-      "word": "全员加速中",
-      "onboard_time": 1749407655,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 21836,
@@ -26849,6 +26969,14 @@
       "onboard_time": 1749480082,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15527,
+      "num": 165261,
+      "word": "央视曝光涉高考诈骗套路",
+      "onboard_time": 1749914242,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15325,
@@ -27619,6 +27747,9 @@
     },
     {
       "word": "#习近平心系文化和自然遗产保护#"
+    },
+    {
+      "word": "#习主席复信使我们感受到被重视和尊重#"
     }
   ]
 }
