@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749896745780,
+  "endTime": 1749897807622,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1907,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1173728,
+      "num": 1173728,
+      "word": "劳力士店员否认曾毅戴表为自家品牌",
+      "onboard_time": 1749894743,
+      "rank": 9,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 1172032,
       "num": 388383,
       "word": "400块的鞋犹豫了三年",
@@ -2987,6 +2995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 882460,
+      "num": 882460,
+      "word": "杨幂手拿荔枝",
+      "onboard_time": 1749893183,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 879784,
       "num": 879784,
       "word": "罗帅宇家属曾称后悔没做尸检",
@@ -3473,14 +3489,6 @@
       "onboard_time": 1749083841,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 793133,
-      "num": 793133,
-      "word": "杨幂手拿荔枝",
-      "onboard_time": 1749893183,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 792543,
@@ -4289,6 +4297,14 @@
       "onboard_time": 1749534141,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 680888,
+      "num": 680888,
+      "word": "女孩基因突变出生几个月眼睛变蓝色",
+      "onboard_time": 1749892951,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 678956,
@@ -5587,14 +5603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 574946,
-      "num": 574946,
-      "word": "劳力士店员否认曾毅戴表为自家品牌",
-      "onboard_time": 1749894743,
-      "rank": 9,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 573591,
       "num": 573591,
       "word": "李马克 北京卷",
@@ -6201,14 +6209,6 @@
       "onboard_time": 1749631402,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 526867,
-      "num": 526867,
-      "word": "女孩基因突变出生几个月眼睛变蓝色",
-      "onboard_time": 1749892951,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 526741,
@@ -7403,6 +7403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459275,
+      "num": 599988,
+      "word": "上影节红毯",
+      "onboard_time": 1749895222,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 458979,
       "num": 275539,
       "word": "银行柜员拿放大镜办业务被吐槽效率低",
@@ -7441,14 +7449,6 @@
       "onboard_time": 1749012681,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 456456,
-      "num": 599988,
-      "word": "上影节红毯",
-      "onboard_time": 1749895222,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 455424,
@@ -10491,6 +10491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334220,
+      "num": 352381,
+      "word": "倪妮玫瑰高定",
+      "onboard_time": 1749893902,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 334053,
       "num": 334053,
       "word": "陈楚生好嗨",
@@ -10729,6 +10737,14 @@
       "onboard_time": 1749175581,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 326181,
+      "num": 326181,
+      "word": "黄圣依生孩子没打麻药",
+      "onboard_time": 1749897021,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 325960,
@@ -11969,14 +11985,6 @@
       "onboard_time": 1749732923,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290769,
-      "num": 352381,
-      "word": "倪妮玫瑰高定",
-      "onboard_time": 1749893902,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 290589,
@@ -13643,6 +13651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255777,
+      "num": 255777,
+      "word": "前妻偷偷生了我的孩子",
+      "onboard_time": 1749897021,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255774,
       "num": 255774,
       "word": "四面佛开机",
@@ -13777,6 +13793,14 @@
       "onboard_time": 1748966841,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253970,
+      "num": 321996,
+      "word": "杨超越一开口我人蒙了",
+      "onboard_time": 1749897202,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 253898,
@@ -14769,6 +14793,14 @@
       "onboard_time": 1748843481,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235498,
+      "num": 211741,
+      "word": "情侣为婚纱照5个月狂减55斤",
+      "onboard_time": 1749897566,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 235456,
@@ -17587,6 +17619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206220,
+      "num": 223822,
+      "word": "第一次看庄达菲这么穿",
+      "onboard_time": 1749897202,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206194,
       "num": 279994,
       "word": "程潇说陈梦是她的人生嘴替",
@@ -19497,6 +19537,14 @@
       "onboard_time": 1749867260,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194437,
+      "num": 194437,
+      "word": "六级我恨你",
+      "onboard_time": 1749896662,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 194383,
@@ -22147,14 +22195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178544,
-      "num": 178544,
-      "word": "六级我恨你",
-      "onboard_time": 1749896662,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 178469,
       "num": 182745,
       "word": "广东热的要死碎碎念几则",
@@ -22777,6 +22817,14 @@
       "onboard_time": 1749292343,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173767,
+      "num": 173767,
+      "word": "Red女团韩国打歌听取哇声一片",
+      "onboard_time": 1749897323,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 173730,
@@ -23737,6 +23785,14 @@
       "onboard_time": 1748948361,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168573,
+      "num": 168573,
+      "word": "一场苏超掀起特产争夺战",
+      "onboard_time": 1749897021,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 168568,
@@ -37403,6 +37459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100484,
+      "num": 150765,
+      "word": "柯南m28熹妃回宫版",
+      "onboard_time": 1749896782,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 100269,
       "num": 100269,
       "word": "华晨宝马迎来第一任女CEO",
@@ -37625,6 +37689,14 @@
       "onboard_time": 1748852180,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99008,
+      "num": 167544,
+      "word": "铠是夏天的意难平",
+      "onboard_time": 1749897742,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 98971,
@@ -39635,6 +39707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85619,
+      "num": 167558,
+      "word": "8岁女孩患罕见病眼珠变蓝色",
+      "onboard_time": 1749897742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85602,
       "num": 192749,
       "word": "英国首相发表电视讲话",
@@ -41132,7 +41212,7 @@
     },
     {
       "raw_hot": 73817,
-      "num": 208470,
+      "num": 213481,
       "word": "胡赛向以色列发射导弹",
       "onboard_time": 1749896181,
       "rank": 29,
@@ -41233,6 +41313,14 @@
       "onboard_time": 1749165319,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72922,
+      "num": 171644,
+      "word": "伊朗大不里士再次遭到空袭",
+      "onboard_time": 1749896301,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72900,
@@ -46595,6 +46683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36328,
+      "num": 1227728,
+      "word": "有AI千年来相会",
+      "onboard_time": 1749896181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36215,
       "num": 139959,
       "word": "反内耗达人大张伟",
@@ -47105,14 +47201,6 @@
       "onboard_time": 1749299961,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33784,
-      "num": 171644,
-      "word": "伊朗大不里士再次遭到空袭",
-      "onboard_time": 1749896301,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33700,
@@ -48129,6 +48217,14 @@
       "onboard_time": 1748716095,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28723,
+      "num": 321435,
+      "word": "银行赠送LABUBU盲盒揽储违法吗",
+      "onboard_time": 1749896964,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28712,
@@ -50579,11 +50675,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 16408,
-      "num": 1089250,
-      "word": "有AI千年来相会",
-      "onboard_time": 1749896181,
-      "rank": 2,
+      "raw_hot": 16383,
+      "num": 321540,
+      "word": "5元纸币背后的风景是泰山姊妹松",
+      "onboard_time": 1749897202,
+      "rank": 18,
       "category": "民生新闻"
     },
     {

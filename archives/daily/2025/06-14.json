@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749896745780,
+  "endTime": 1749897807622,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1173728,
+      "num": 1173728,
+      "word": "劳力士店员否认曾毅戴表为自家品牌",
+      "onboard_time": 1749894743,
+      "rank": 9,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 1090562,
       "num": 1090562,
       "word": "央视曝光快递放门口了新骗局",
@@ -163,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 882460,
+      "num": 882460,
+      "word": "杨幂手拿荔枝",
+      "onboard_time": 1749893183,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 866080,
       "num": 866080,
       "word": "四级答案",
@@ -177,14 +193,6 @@
       "onboard_time": 1749877583,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 793133,
-      "num": 793133,
-      "word": "杨幂手拿荔枝",
-      "onboard_time": 1749893183,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 779247,
@@ -259,6 +267,14 @@
       "category": "情感,动漫"
     },
     {
+      "raw_hot": 680888,
+      "num": 680888,
+      "word": "女孩基因突变出生几个月眼睛变蓝色",
+      "onboard_time": 1749892951,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 677229,
       "num": 677229,
       "word": "大爷被咬后一脚将蛇踩死带着去就医",
@@ -331,14 +347,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 574946,
-      "num": 574946,
-      "word": "劳力士店员否认曾毅戴表为自家品牌",
-      "onboard_time": 1749894743,
-      "rank": 9,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 573153,
       "num": 573153,
       "word": "六级翻译 南水北调",
@@ -401,14 +409,6 @@
       "onboard_time": 1749821246,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 526867,
-      "num": 526867,
-      "word": "女孩基因突变出生几个月眼睛变蓝色",
-      "onboard_time": 1749892951,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 514562,
@@ -475,7 +475,7 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 456456,
+      "raw_hot": 459275,
       "num": 599988,
       "word": "上影节红毯",
       "onboard_time": 1749895222,
@@ -683,6 +683,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 334220,
+      "num": 352381,
+      "word": "倪妮玫瑰高定",
+      "onboard_time": 1749893902,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326181,
+      "num": 326181,
+      "word": "黄圣依生孩子没打麻药",
+      "onboard_time": 1749897021,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312784,
       "num": 312784,
       "word": "广东一男子强拖女子下车后驾车离开",
@@ -729,14 +745,6 @@
       "onboard_time": 1749871883,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 290769,
-      "num": 352381,
-      "word": "倪妮玫瑰高定",
-      "onboard_time": 1749893902,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 290387,
@@ -859,6 +867,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255777,
+      "num": 255777,
+      "word": "前妻偷偷生了我的孩子",
+      "onboard_time": 1749897021,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 253970,
+      "num": 321996,
+      "word": "杨超越一开口我人蒙了",
+      "onboard_time": 1749897202,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252850,
       "num": 252850,
       "word": "伊朗导弹已致以色列1死50伤",
@@ -931,6 +955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 235498,
+      "num": 211741,
+      "word": "情侣为婚纱照5个月狂减55斤",
+      "onboard_time": 1749897566,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231193,
       "num": 255282,
       "word": "伊朗称将齐射2000枚导弹",
@@ -969,6 +1001,14 @@
       "onboard_time": 1749875722,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225561,
+      "num": 225561,
+      "word": "酱园弄",
+      "onboard_time": 1749894984,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 222683,
@@ -1075,6 +1115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206220,
+      "num": 223822,
+      "word": "第一次看庄达菲这么穿",
+      "onboard_time": 1749897202,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206205,
       "num": 206205,
       "word": "泡泡玛特",
@@ -1177,6 +1225,14 @@
       "onboard_time": 1749867260,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194437,
+      "num": 194437,
+      "word": "六级我恨你",
+      "onboard_time": 1749896662,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 192594,
@@ -1323,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178544,
-      "num": 178544,
-      "word": "六级我恨你",
-      "onboard_time": 1749896662,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176880,
       "num": 176880,
       "word": "高考生开始人生中最幸福的暑假",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1749892351,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173767,
+      "num": 173767,
+      "word": "Red女团韩国打歌听取哇声一片",
+      "onboard_time": 1749897323,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 173460,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1749854897,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168573,
+      "num": 168573,
+      "word": "一场苏超掀起特产争夺战",
+      "onboard_time": 1749897021,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 168482,
@@ -1585,14 +1649,6 @@
       "onboard_time": 1749892832,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 149767,
-      "num": 149767,
-      "word": "酱园弄",
-      "onboard_time": 1749894984,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 148497,
@@ -2187,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100484,
+      "num": 150765,
+      "word": "柯南m28熹妃回宫版",
+      "onboard_time": 1749896782,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 99910,
       "num": 99910,
       "word": "不加班是打工人最好的医美",
@@ -2201,6 +2265,14 @@
       "onboard_time": 1749884960,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99008,
+      "num": 167544,
+      "word": "铠是夏天的意难平",
+      "onboard_time": 1749897742,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 97629,
@@ -2299,6 +2371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85619,
+      "num": 167558,
+      "word": "8岁女孩患罕见病眼珠变蓝色",
+      "onboard_time": 1749897742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83706,
       "num": 109887,
       "word": "女子为给丈夫惊喜搭印坠机客机遇难",
@@ -2380,11 +2460,19 @@
     },
     {
       "raw_hot": 73817,
-      "num": 208470,
+      "num": 213481,
       "word": "胡赛向以色列发射导弹",
       "onboard_time": 1749896181,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 72922,
+      "num": 171644,
+      "word": "伊朗大不里士再次遭到空袭",
+      "onboard_time": 1749896301,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72039,
@@ -2731,6 +2819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36328,
+      "num": 1227728,
+      "word": "有AI千年来相会",
+      "onboard_time": 1749896181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35010,
       "num": 206254,
       "word": "伊朗高层还是对美国充满幻想",
@@ -2760,14 +2856,6 @@
       "word": "以色列否认F35战机被伊朗击落",
       "onboard_time": 1749893125,
       "rank": 37,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 33784,
-      "num": 171644,
-      "word": "伊朗大不里士再次遭到空袭",
-      "onboard_time": 1749896301,
-      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -2841,6 +2929,14 @@
       "onboard_time": 1749841217,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28723,
+      "num": 321435,
+      "word": "银行赠送LABUBU盲盒揽储违法吗",
+      "onboard_time": 1749896964,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28712,
@@ -2971,11 +3067,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 16408,
-      "num": 1089250,
-      "word": "有AI千年来相会",
-      "onboard_time": 1749896181,
-      "rank": 2,
+      "raw_hot": 16383,
+      "num": 321540,
+      "word": "5元纸币背后的风景是泰山姊妹松",
+      "onboard_time": 1749897202,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
