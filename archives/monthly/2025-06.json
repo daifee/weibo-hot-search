@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749879799495,
+  "endTime": 1749882837389,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -2587,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 962669,
+      "num": 962669,
+      "word": "央视曝光快递放门口了新骗局",
+      "onboard_time": 1749877461,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 962652,
       "num": 962652,
       "word": "侯佩岑 划水",
@@ -2809,6 +2817,14 @@
       "onboard_time": 1748998282,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 910715,
+      "num": 370598,
+      "word": "亲子鉴定师10年鉴定非亲生率约22%",
+      "onboard_time": 1749878660,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 910528,
@@ -5683,6 +5699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 555610,
+      "num": 475414,
+      "word": "小沈阳女儿讲韩语流利标准",
+      "onboard_time": 1749878302,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554863,
       "num": 554863,
       "word": "日不落",
@@ -7291,14 +7315,6 @@
       "category": "幽默,旅游"
     },
     {
-      "raw_hot": 452731,
-      "num": 452731,
-      "word": "小沈阳女儿讲韩语流利标准",
-      "onboard_time": 1749878302,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452661,
       "num": 452661,
       "word": "年度乘风舞台",
@@ -8875,6 +8891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378375,
+      "num": 378375,
+      "word": "肖战 向前走别回头",
+      "onboard_time": 1749880221,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378173,
       "num": 337562,
       "word": "labubu芭莎盛典表演嘉宾",
@@ -9131,6 +9155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 368393,
+      "num": 368393,
+      "word": "树莓",
+      "onboard_time": 1749880460,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 368294,
       "num": 368294,
       "word": "赵雅芝 一辈子流量花",
@@ -9371,6 +9403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360459,
+      "num": 360459,
+      "word": "邓超让大家今天别看五哈",
+      "onboard_time": 1749879562,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360345,
       "num": 360345,
       "word": "957哭了",
@@ -9457,6 +9497,14 @@
       "onboard_time": 1749119240,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357765,
+      "num": 423163,
+      "word": "伊朗公布以F35残骸图系AI图",
+      "onboard_time": 1749877701,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 357759,
@@ -10003,6 +10051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343930,
+      "num": 292052,
+      "word": "泡泡玛特投资人预测Crybaby会火",
+      "onboard_time": 1749880581,
+      "rank": 20,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 343492,
       "num": 343492,
       "word": "小米王化疑似回应余承东",
@@ -10017,6 +10073,14 @@
       "onboard_time": 1749702502,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 342204,
+      "num": 342204,
+      "word": "比起labubu我还是比较喜欢maoyeye",
+      "onboard_time": 1749877701,
+      "rank": 37,
+      "category": "情感,动漫"
     },
     {
       "raw_hot": 340904,
@@ -10233,14 +10297,6 @@
       "onboard_time": 1749448402,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334101,
-      "num": 423163,
-      "word": "伊朗公布以F35残骸图系AI图",
-      "onboard_time": 1749877701,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 334053,
@@ -11747,14 +11803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 290056,
-      "num": 307552,
-      "word": "亲子鉴定师10年鉴定非亲生率约22%",
-      "onboard_time": 1749878660,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 289671,
       "num": 289110,
       "word": "樊振东确认参加2025乒超联赛",
@@ -12931,14 +12979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263504,
-      "num": 263504,
-      "word": "央视曝光快递放门口了新骗局",
-      "onboard_time": 1749877461,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263432,
       "num": 257392,
       "word": "陈都灵暗夜粉玫瑰",
@@ -13673,6 +13713,14 @@
       "onboard_time": 1749225202,
       "rank": 5,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 250800,
+      "num": 250800,
+      "word": "鬼灭之刃无限城篇正式预告",
+      "onboard_time": 1749881899,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 250385,
@@ -14921,14 +14969,6 @@
       "onboard_time": 1749467062,
       "rank": 35,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 229762,
-      "num": 229762,
-      "word": "比起labubu我还是比较喜欢maoyeye",
-      "onboard_time": 1749877701,
-      "rank": 37,
-      "category": "情感,动漫"
     },
     {
       "raw_hot": 229752,
@@ -16753,6 +16793,14 @@
       "onboard_time": 1749787221,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210496,
+      "num": 210496,
+      "word": "丁程鑫穿筒靴跳LikeJennie",
+      "onboard_time": 1749881840,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 210433,
@@ -20475,6 +20523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 186521,
+      "num": 186521,
+      "word": "侯明昊新剧又争又抢又爽",
+      "onboard_time": 1749881660,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186517,
       "num": 186517,
       "word": "何秋亊回应演唱会门票价格",
@@ -20745,6 +20801,14 @@
       "onboard_time": 1749721642,
       "rank": 35,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 185044,
+      "num": 185044,
+      "word": "60秒带你看哈萨克斯坦",
+      "onboard_time": 1749882142,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 185008,
@@ -21097,6 +21161,14 @@
       "onboard_time": 1749133103,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182888,
+      "num": 182888,
+      "word": "爸爸画女儿画得有鼻有眼的",
+      "onboard_time": 1749882499,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 182844,
@@ -22763,14 +22835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170897,
-      "num": 170897,
-      "word": "邓超让大家今天别看五哈",
-      "onboard_time": 1749879562,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170784,
       "num": 180724,
       "word": "张雅琪真的把卫兰照顾的很好",
@@ -23001,6 +23065,14 @@
       "onboard_time": 1748957900,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169661,
+      "num": 185406,
+      "word": "杨幂郑玉婷爱比眼泪先流出来",
+      "onboard_time": 1749882620,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 169637,
@@ -24891,6 +24963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159728,
+      "num": 159728,
+      "word": "武大通报职工子女驾车逼停骑行学生",
+      "onboard_time": 1749879681,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159665,
       "num": 159665,
       "word": "周震南 小小的老子连麦架都欺负",
@@ -25568,6 +25648,14 @@
       "word": "科学家发现一颗超级地球",
       "onboard_time": 1748950161,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155720,
+      "num": 155720,
+      "word": "男子2000元卖掉前女友30只布偶猫",
+      "onboard_time": 1749882441,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -28563,14 +28651,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 141660,
-      "num": 141660,
-      "word": "武大通报职工子女驾车逼停骑行学生",
-      "onboard_time": 1749879681,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141641,
       "num": 141641,
       "word": "清华大学回应商家售卖校内河水",
@@ -29817,6 +29897,14 @@
       "onboard_time": 1748932761,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136092,
+      "num": 136092,
+      "word": "星火英语",
+      "onboard_time": 1749882082,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 136084,
@@ -31553,6 +31641,14 @@
       "onboard_time": 1749012022,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 128917,
+      "num": 332156,
+      "word": "中国女生在联合国为女科学家颁奖",
+      "onboard_time": 1749881121,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128828,
@@ -33579,6 +33675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118724,
+      "num": 372492,
+      "word": "当创意汉字遇上世界遗产",
+      "onboard_time": 1749881601,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118678,
       "num": 118678,
       "word": "十二星座一周运势",
@@ -34497,6 +34601,14 @@
       "onboard_time": 1748932640,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113790,
+      "num": 162561,
+      "word": "此沙暗夜双生",
+      "onboard_time": 1749882561,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 113771,
@@ -42459,6 +42571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56546,
+      "num": 183789,
+      "word": "大鹏镜头下的白客",
+      "onboard_time": 1749882740,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56497,
       "num": 109135,
       "word": "郑钦文收视率登顶",
@@ -43459,6 +43579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49879,
+      "num": 129604,
+      "word": "世俱杯倒计时1天",
+      "onboard_time": 1749881481,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49824,
       "num": 189201,
       "word": "为什么推荐报考汕头大学",
@@ -44065,6 +44193,14 @@
       "onboard_time": 1749619641,
       "rank": 26,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 45020,
+      "num": 155920,
+      "word": "亚历山大俄城金牌讲师",
+      "onboard_time": 1749881121,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 44952,
@@ -46099,6 +46235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33813,
+      "num": 353664,
+      "word": "白宫正在审查SpaceX合同",
+      "onboard_time": 1749881780,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33798,
       "num": 488780,
       "word": "一中学家委会募捐5.7万激励学生",
@@ -46465,6 +46609,14 @@
       "onboard_time": 1749234915,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 32058,
+      "num": 156295,
+      "word": "胡锡进谈伊朗又遭重创",
+      "onboard_time": 1749881601,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32035,
@@ -48755,6 +48907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21050,
+      "num": 323380,
+      "word": "新一场中东战争是否会引爆",
+      "onboard_time": 1749882380,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20972,
       "num": 197350,
       "word": "如何让自己长期保持生命力",
@@ -50649,6 +50809,14 @@
       "onboard_time": 1749122900,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 9310,
+      "num": 310631,
+      "word": "步行者雷霆会抢七吗",
+      "onboard_time": 1749881481,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 9272,
