@@ -1,0 +1,410 @@
+{
+  "runTime": 1749871017818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1426626,
+        "num": 1426626,
+        "word": "北京多所高校禁用罗马仕充电宝",
+        "onboard_time": 1749867201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 869368,
+        "num": 869368,
+        "word": "伊朗向以色列发射约150枚导弹",
+        "onboard_time": 1749856280,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19561,
+        "num": 713002,
+        "word": "数里行间感知经济活力",
+        "onboard_time": 1749825030,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 1591446,
+        "num": 712706,
+        "word": "曾毅自曝曾脚踹女员工",
+        "onboard_time": 1749857899,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 712283,
+        "num": 712283,
+        "word": "蝴蝶",
+        "onboard_time": 1749866060,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600202,
+        "num": 600202,
+        "word": "F35",
+        "onboard_time": 1749866060,
+        "rank": 5,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 482924,
+        "num": 482924,
+        "word": "金晨因赛车故障无缘比赛落泪",
+        "onboard_time": 1749860660,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459823,
+        "num": 459823,
+        "word": "女友长得像单依纯是什么体验",
+        "onboard_time": 1749865159,
+        "rank": 7,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 375189,
+        "num": 375189,
+        "word": "恋与深空",
+        "onboard_time": 1749821246,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47617,
+        "num": 372532,
+        "word": "以色列突袭伊朗美国或难逃干系",
+        "onboard_time": 1749869540,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 472351,
+        "num": 371857,
+        "word": "迪士尼 私联",
+        "onboard_time": 1749870381,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463149,
+        "num": 371684,
+        "word": "孟子义聊生理期大大方方的",
+        "onboard_time": 1749862281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371016,
+        "num": 371016,
+        "word": "伊媒体公布以色列F35战机残骸照片",
+        "onboard_time": 1749866720,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109294,
+        "num": 360539,
+        "word": "京东苏超",
+        "onboard_time": 1749867801,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62943,
+        "num": 354631,
+        "word": "美海军陆战队进驻洛杉矶执勤",
+        "onboard_time": 1749866060,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352106,
+        "num": 352106,
+        "word": "四级",
+        "onboard_time": 1749866060,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322207,
+        "num": 322207,
+        "word": "单依纯 好红啊这个节目",
+        "onboard_time": 1749867260,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306311,
+        "num": 306311,
+        "word": "以色列女子哭着说新房子被炸了",
+        "onboard_time": 1749868340,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289605,
+        "num": 289605,
+        "word": "我本是玫瑰今晚来好六",
+        "onboard_time": 1749870381,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10373,
+        "num": 281463,
+        "word": "伊朗遭以色列空袭后会采取哪些手段",
+        "onboard_time": 1749870681,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 306463,
+        "num": 280305,
+        "word": "男子按摩后下身不适索赔5万",
+        "onboard_time": 1749863420,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278001,
+        "num": 278001,
+        "word": "18月龄幼童被饭店客人灌50毫升啤酒",
+        "onboard_time": 1749861200,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251419,
+        "num": 251419,
+        "word": "大爷被咬后一脚将蛇踩死带着去就医",
+        "onboard_time": 1749830541,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247679,
+        "num": 247679,
+        "word": "田柾国道歉",
+        "onboard_time": 1749856698,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235897,
+        "num": 235897,
+        "word": "第一批高考生已经到王一博老家了",
+        "onboard_time": 1749841334,
+        "rank": 24,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 190019,
+        "num": 210778,
+        "word": "中国汽车凭实力赢得尊重",
+        "onboard_time": 1749870260,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194603,
+        "num": 194603,
+        "word": "高校回应禁用罗马仕充电宝",
+        "onboard_time": 1749867260,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193604,
+        "num": 193604,
+        "word": "六级",
+        "onboard_time": 1749868580,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154778,
+        "num": 192929,
+        "word": "儿子接受不了陈楚生不是第一",
+        "onboard_time": 1749828264,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135633,
+        "num": 192735,
+        "word": "王晰想踢馆",
+        "onboard_time": 1749870201,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192594,
+        "num": 192594,
+        "word": "拿学生证做的最后一件事",
+        "onboard_time": 1749868880,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191391,
+        "num": 191391,
+        "word": "小龙虾价格暴跌60%后销量暴涨",
+        "onboard_time": 1749868280,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 187997,
+        "num": 187997,
+        "word": "王源应援棒",
+        "onboard_time": 1749867500,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184451,
+        "num": 184451,
+        "word": "谁给曾毅想的公关",
+        "onboard_time": 1749836178,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183230,
+        "num": 183230,
+        "word": "爸爸49元给女儿买30斤大冬瓜抱睡",
+        "onboard_time": 1749858319,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180379,
+        "num": 180379,
+        "word": "黄仁勋回应任正非最新讲话",
+        "onboard_time": 1749870020,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163783,
+        "num": 163783,
+        "word": "四级作文",
+        "onboard_time": 1749869062,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150910,
+        "num": 150910,
+        "word": "四六级",
+        "onboard_time": 1749825507,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74152,
+        "num": 146934,
+        "word": "特朗普推翻性侵罪名失败",
+        "onboard_time": 1749869181,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146631,
+        "num": 146631,
+        "word": "哈梅内伊称将彻底摧毁以政权",
+        "onboard_time": 1749870622,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128013,
+        "num": 128013,
+        "word": "男子因老人看孩子问题积怨杀妻",
+        "onboard_time": 1749858319,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119754,
+        "num": 119754,
+        "word": "关注以色列伊朗局势",
+        "onboard_time": 1749866060,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119679,
+        "num": 119679,
+        "word": "英雄联盟带火了四川小城",
+        "onboard_time": 1749868701,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116282,
+        "num": 116282,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116131,
+        "num": 116131,
+        "word": "台风暴雨一起来了",
+        "onboard_time": 1749868280,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115714,
+        "num": 115714,
+        "word": "玉茗茶骨",
+        "onboard_time": 1749870981,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114866,
+        "num": 114866,
+        "word": "啊呜一口面包店账号已私密",
+        "onboard_time": 1749869600,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114091,
+        "num": 114091,
+        "word": "上海中考",
+        "onboard_time": 1749870920,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108145,
+        "num": 108145,
+        "word": "谢娜张真源嘻嘻范丞丞不嘻嘻",
+        "onboard_time": 1749869421,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105916,
+        "num": 108097,
+        "word": "歌手排名",
+        "onboard_time": 1749824969,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#1分钟回顾首届中国－中亚峰会亮点#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749867644340,
+  "endTime": 1749871017818,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -27,12 +27,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1426626,
+      "num": 1426626,
+      "word": "北京多所高校禁用罗马仕充电宝",
+      "onboard_time": 1749867201,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 945685,
       "num": 945685,
       "word": "歌手排名",
       "onboard_time": 1749824969,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 869368,
+      "num": 1099095,
+      "word": "伊朗向以色列发射约150枚导弹",
+      "onboard_time": 1749856280,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 742995,
@@ -59,20 +75,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 720924,
-      "num": 1099095,
-      "word": "伊朗向以色列发射约150枚导弹",
-      "onboard_time": 1749856280,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 718663,
       "num": 718663,
       "word": "罗帅宇坠亡后手机有3次通话记录",
       "onboard_time": 1749857419,
       "rank": 30,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 712283,
+      "num": 712283,
+      "word": "蝴蝶",
+      "onboard_time": 1749866060,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 677229,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 669899,
-      "num": 350980,
+      "num": 371684,
       "word": "孟子义聊生理期大大方方的",
       "onboard_time": 1749862281,
       "rank": 11,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 532204,
-      "num": 260906,
+      "num": 278001,
       "word": "18月龄幼童被饭店客人灌50毫升啤酒",
       "onboard_time": 1749861200,
       "rank": 20,
@@ -155,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472351,
+      "num": 371857,
+      "word": "迪士尼 私联",
+      "onboard_time": 1749870381,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470143,
       "num": 470143,
       "word": "伊朗爆发全国性示威活动",
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 451446,
-      "num": 259920,
+      "num": 280305,
       "word": "男子按摩后下身不适索赔5万",
       "onboard_time": 1749863420,
       "rank": 21,
@@ -211,6 +235,46 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375189,
+      "num": 375189,
+      "word": "恋与深空",
+      "onboard_time": 1749821246,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 371016,
+      "num": 371016,
+      "word": "伊媒体公布以色列F35战机残骸照片",
+      "onboard_time": 1749866720,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 352106,
+      "num": 352106,
+      "word": "四级",
+      "onboard_time": 1749866060,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 322207,
+      "num": 322207,
+      "word": "单依纯 好红啊这个节目",
+      "onboard_time": 1749867260,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 306311,
+      "num": 306311,
+      "word": "以色列女子哭着说新房子被炸了",
+      "onboard_time": 1749868340,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 304878,
       "num": 304878,
       "word": "田柾国道歉",
@@ -227,12 +291,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 276224,
-      "num": 276224,
-      "word": "蝴蝶",
-      "onboard_time": 1749866060,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 289605,
+      "num": 289605,
+      "word": "我本是玫瑰今晚来好六",
+      "onboard_time": 1749870381,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 273581,
@@ -307,28 +371,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212955,
-      "num": 212955,
-      "word": "伊媒体公布以色列F35战机残骸照片",
-      "onboard_time": 1749866720,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 208404,
-      "num": 208404,
-      "word": "北京多所高校禁用罗马仕充电宝",
-      "onboard_time": 1749867201,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206648,
       "num": 206648,
       "word": "爸爸49元给女儿买30斤大冬瓜抱睡",
       "onboard_time": 1749858319,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194603,
+      "num": 194603,
+      "word": "高校回应禁用罗马仕充电宝",
+      "onboard_time": 1749867260,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193604,
+      "num": 193604,
+      "word": "六级",
+      "onboard_time": 1749868580,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 192594,
+      "num": 192594,
+      "word": "拿学生证做的最后一件事",
+      "onboard_time": 1749868880,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 191391,
+      "num": 191391,
+      "word": "小龙虾价格暴跌60%后销量暴涨",
+      "onboard_time": 1749868280,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 190991,
@@ -347,12 +427,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190019,
+      "num": 210778,
+      "word": "中国汽车凭实力赢得尊重",
+      "onboard_time": 1749870260,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188870,
       "num": 188870,
       "word": "马嘉祺歌手高定look",
       "onboard_time": 1749833959,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187997,
+      "num": 187997,
+      "word": "王源应援棒",
+      "onboard_time": 1749867500,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180379,
+      "num": 180379,
+      "word": "黄仁勋回应任正非最新讲话",
+      "onboard_time": 1749870020,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 173460,
@@ -395,11 +499,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163371,
-      "num": 163371,
-      "word": "四级",
-      "onboard_time": 1749866060,
-      "rank": 31,
+      "raw_hot": 163783,
+      "num": 163783,
+      "word": "四级作文",
+      "onboard_time": 1749869062,
+      "rank": 36,
       "category": "教育"
     },
     {
@@ -427,20 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151576,
-      "num": 151576,
-      "word": "高校回应禁用罗马仕充电宝",
-      "onboard_time": 1749867260,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149785,
-      "num": 149785,
-      "word": "单依纯 好红啊这个节目",
-      "onboard_time": 1749867260,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 150910,
+      "num": 150910,
+      "word": "四六级",
+      "onboard_time": 1749825507,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 148497,
@@ -465,6 +561,14 @@
       "onboard_time": 1749831801,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146631,
+      "num": 146631,
+      "word": "哈梅内伊称将彻底摧毁以政权",
+      "onboard_time": 1749870622,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145050,
@@ -523,12 +627,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137965,
-      "num": 137965,
-      "word": "王源应援棒",
-      "onboard_time": 1749867500,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 135633,
+      "num": 192735,
+      "word": "王晰想踢馆",
+      "onboard_time": 1749870201,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 135088,
@@ -545,14 +649,6 @@
       "onboard_time": 1749831922,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132468,
-      "num": 132467,
-      "word": "四六级",
-      "onboard_time": 1749825507,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 129236,
@@ -619,6 +715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119679,
+      "num": 119679,
+      "word": "英雄联盟带火了四川小城",
+      "onboard_time": 1749868701,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119489,
       "num": 119489,
       "word": "歌手直播",
@@ -651,11 +755,27 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 116131,
+      "num": 116131,
+      "word": "台风暴雨一起来了",
+      "onboard_time": 1749868280,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115791,
       "num": 115791,
       "word": "七根心简胭脂琥珀意难平",
       "onboard_time": 1749831622,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 115714,
+      "num": 115714,
+      "word": "玉茗茶骨",
+      "onboard_time": 1749870981,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -667,12 +787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114866,
+      "num": 114866,
+      "word": "啊呜一口面包店账号已私密",
+      "onboard_time": 1749869600,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114374,
       "num": 114374,
       "word": "男子带亡妻骨灰回家遭印度坠机遇难",
       "onboard_time": 1749815242,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114091,
+      "num": 114091,
+      "word": "上海中考",
+      "onboard_time": 1749870920,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 111101,
@@ -689,6 +825,22 @@
       "onboard_time": 1749807502,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109294,
+      "num": 360539,
+      "word": "京东苏超",
+      "onboard_time": 1749867801,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108145,
+      "num": 108145,
+      "word": "谢娜张真源嘻嘻范丞丞不嘻嘻",
+      "onboard_time": 1749869421,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 108013,
@@ -716,7 +868,7 @@
     },
     {
       "raw_hot": 105617,
-      "num": 132468,
+      "num": 354631,
       "word": "美海军陆战队进驻洛杉矶执勤",
       "onboard_time": 1749866060,
       "rank": 33,
@@ -827,6 +979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74152,
+      "num": 146934,
+      "word": "特朗普推翻性侵罪名失败",
+      "onboard_time": 1749869181,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72039,
       "num": 72039,
       "word": "GAI 该做热玛吉了",
@@ -928,6 +1088,14 @@
       "word": "6名伊朗核科学家遭袭身亡",
       "onboard_time": 1749844153,
       "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47617,
+      "num": 372532,
+      "word": "以色列突袭伊朗美国或难逃干系",
+      "onboard_time": 1749869540,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -1084,7 +1252,7 @@
     },
     {
       "raw_hot": 21813,
-      "num": 708218,
+      "num": 713002,
       "word": "数里行间感知经济活力",
       "onboard_time": 1749825030,
       "rank": 2,
@@ -1161,6 +1329,14 @@
       "onboard_time": 1749847334,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10373,
+      "num": 281463,
+      "word": "伊朗遭以色列空袭后会采取哪些手段",
+      "onboard_time": 1749870681,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8018,
