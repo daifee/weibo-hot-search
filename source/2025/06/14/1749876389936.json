@@ -1,0 +1,410 @@
+{
+  "runTime": 1749876389936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2418507,
+        "num": 2418507,
+        "word": "迪士尼 私联",
+        "onboard_time": 1749870381,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1390675,
+        "num": 1390675,
+        "word": "四级",
+        "onboard_time": 1749866060,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53860,
+        "num": 1192063,
+        "word": "中国文物和大美山河太震撼了",
+        "onboard_time": 1749872061,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1507564,
+        "num": 1185129,
+        "word": "曾毅自曝曾脚踹女员工",
+        "onboard_time": 1749857899,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1152864,
+        "num": 1152864,
+        "word": "四级作文",
+        "onboard_time": 1749869062,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1027536,
+        "num": 1027536,
+        "word": "24岁胃癌博主回应不良作息习惯",
+        "onboard_time": 1749871281,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 736547,
+        "num": 736547,
+        "word": "四级答案",
+        "onboard_time": 1749872541,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 733003,
+        "num": 733003,
+        "word": "贺峻霖考四级",
+        "onboard_time": 1749873801,
+        "rank": 7,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 339906,
+        "num": 727922,
+        "word": "单依纯 好红啊这个节目",
+        "onboard_time": 1749867260,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164432,
+        "num": 724489,
+        "word": "伊朗15分钟向以色列进行3次导弹齐射",
+        "onboard_time": 1749875120,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 723871,
+        "num": 723871,
+        "word": "北京多所高校禁用罗马仕充电宝",
+        "onboard_time": 1749867201,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613398,
+        "num": 613398,
+        "word": "孟子义聊生理期大大方方的",
+        "onboard_time": 1749862281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505618,
+        "num": 505618,
+        "word": "四级作文AI",
+        "onboard_time": 1749872663,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 497759,
+        "num": 497759,
+        "word": "伊朗向以色列发射约150枚导弹",
+        "onboard_time": 1749856280,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 347706,
+        "num": 426880,
+        "word": "中国航司恢复接收波音787",
+        "onboard_time": 1749874882,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416925,
+        "num": 416925,
+        "word": "四级作文 梦到哪句写哪句",
+        "onboard_time": 1749872422,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300147,
+        "num": 410428,
+        "word": "锦绣芳华预约量破200万",
+        "onboard_time": 1749872123,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260256,
+        "num": 392948,
+        "word": "刘宇宁眷思量",
+        "onboard_time": 1749875722,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236589,
+        "num": 390919,
+        "word": "金晨因赛车故障无缘比赛落泪",
+        "onboard_time": 1749860660,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31216,
+        "num": 368837,
+        "word": "专家称伊朗核设施未遭重大损毁",
+        "onboard_time": 1749875360,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 367671,
+        "num": 367671,
+        "word": "以色列女子哭着说新房子被炸了",
+        "onboard_time": 1749868340,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327335,
+        "num": 327335,
+        "word": "伊军高层被骗聚集开会司令等被炸死",
+        "onboard_time": 1749872902,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319136,
+        "num": 319136,
+        "word": "恋与深空日卡2.0",
+        "onboard_time": 1749872902,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311814,
+        "num": 311814,
+        "word": "四级阅读",
+        "onboard_time": 1749872782,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 281708,
+        "num": 281708,
+        "word": "以色列官方尚未证实其F35战机被伊朗击落",
+        "onboard_time": 1749873081,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104171,
+        "num": 281550,
+        "word": "广东一男子强拖女子下车后驾车离开",
+        "onboard_time": 1749876022,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14966,
+        "num": 280452,
+        "word": "学生证怎么用最划算",
+        "onboard_time": 1749876081,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 231325,
+        "num": 279005,
+        "word": "我本是玫瑰今晚来好六",
+        "onboard_time": 1749870381,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225636,
+        "num": 277784,
+        "word": "余景天得知被淘汰的反应",
+        "onboard_time": 1749875722,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57767,
+        "num": 276138,
+        "word": "中东多国上空导弹齐飞",
+        "onboard_time": 1749875360,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 275563,
+        "num": 275563,
+        "word": "以闪亮之名",
+        "onboard_time": 1749875601,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184514,
+        "num": 266942,
+        "word": "丁太升说马嘉祺聪明演绎王菲经典",
+        "onboard_time": 1749875002,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266843,
+        "num": 266843,
+        "word": "四六级",
+        "onboard_time": 1749825507,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239862,
+        "num": 239862,
+        "word": "田柾国道歉",
+        "onboard_time": 1749856698,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201441,
+        "num": 227656,
+        "word": "第一次听王勉的播音腔",
+        "onboard_time": 1749875241,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225143,
+        "num": 225143,
+        "word": "四级听力没偷摸骂我两句吧",
+        "onboard_time": 1749873502,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144714,
+        "num": 224466,
+        "word": "大鹏眼里全是对肌肉的渴望",
+        "onboard_time": 1749874942,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224455,
+        "num": 224455,
+        "word": "六级作文",
+        "onboard_time": 1749873262,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126426,
+        "num": 224294,
+        "word": "伊朗下跪求饶应是死路一条",
+        "onboard_time": 1749875302,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83313,
+        "num": 224069,
+        "word": "郑钦文今晚冲击伦敦站决赛",
+        "onboard_time": 1749876022,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213287,
+        "num": 223727,
+        "word": "原来上征信和影响贷款不是一回事",
+        "onboard_time": 1749876141,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22714,
+        "num": 223276,
+        "word": "四六级答题顺序该怎么分配",
+        "onboard_time": 1749874341,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223167,
+        "num": 223167,
+        "word": "商户否认女子坠楼和抢盲盒有关",
+        "onboard_time": 1749874702,
+        "rank": 42,
+        "category": "辟谣/通报,动漫"
+      },
+      {
+        "raw_hot": 221172,
+        "num": 221172,
+        "word": "四级翻译",
+        "onboard_time": 1749872541,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118666,
+        "num": 215176,
+        "word": "中国汽车凭实力赢得尊重",
+        "onboard_time": 1749870260,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212996,
+        "num": 212996,
+        "word": "哈梅内伊称将彻底摧毁以政权",
+        "onboard_time": 1749870622,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190786,
+        "num": 190786,
+        "word": "伊媒体公布以色列F35战机残骸照片",
+        "onboard_time": 1749866720,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188122,
+        "num": 188122,
+        "word": "考上985和中彩票500万选哪个",
+        "onboard_time": 1749876141,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180221,
+        "num": 180221,
+        "word": "罗马仕",
+        "onboard_time": 1749871221,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177999,
+        "num": 177999,
+        "word": "谁给曾毅想的公关",
+        "onboard_time": 1749836178,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

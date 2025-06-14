@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749875474392,
+  "endTime": 1749876389936,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -19,6 +19,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2418507,
+      "num": 2418507,
+      "word": "迪士尼 私联",
+      "onboard_time": 1749870381,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2261783,
       "num": 2261783,
       "word": "四级作文",
@@ -33,14 +41,6 @@
       "onboard_time": 1749872663,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2146590,
-      "num": 2146590,
-      "word": "迪士尼 私联",
-      "onboard_time": 1749870381,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1795605,
@@ -75,8 +75,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1023534,
-      "num": 1023534,
+      "raw_hot": 1027536,
+      "num": 1027536,
       "word": "24岁胃癌博主回应不良作息习惯",
       "onboard_time": 1749871281,
       "rank": 27,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 669899,
-      "num": 541127,
+      "num": 613398,
       "word": "孟子义聊生理期大大方方的",
       "onboard_time": 1749862281,
       "rank": 11,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 406441,
-      "num": 613114,
+      "num": 727922,
       "word": "单依纯 好红啊这个节目",
       "onboard_time": 1749867260,
       "rank": 36,
@@ -347,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347706,
+      "num": 436052,
+      "word": "中国航司恢复接收波音787",
+      "onboard_time": 1749874882,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347543,
       "num": 347543,
       "word": "恋与深空日卡2.0",
@@ -371,12 +379,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 327335,
+      "num": 327335,
+      "word": "伊军高层被骗聚集开会司令等被炸死",
+      "onboard_time": 1749872902,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 304878,
       "num": 304878,
       "word": "田柾国道歉",
       "onboard_time": 1749856698,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300147,
+      "num": 410428,
+      "word": "锦绣芳华预约量破200万",
+      "onboard_time": 1749872123,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 293586,
@@ -403,20 +427,20 @@
       "category": "辟谣/通报,动漫"
     },
     {
-      "raw_hot": 282293,
-      "num": 282293,
-      "word": "伊军高层被骗聚集开会司令等被炸死",
-      "onboard_time": 1749872902,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 278157,
       "num": 278157,
       "word": "不穿防晒出门的人现在都怎么样了",
       "onboard_time": 1749871281,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 275563,
+      "num": 275563,
+      "word": "以闪亮之名",
+      "onboard_time": 1749875601,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 273986,
@@ -475,6 +499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 260256,
+      "num": 392948,
+      "word": "刘宇宁眷思量",
+      "onboard_time": 1749875722,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259024,
       "num": 259024,
       "word": "非遗里的青春中国",
@@ -489,14 +521,6 @@
       "onboard_time": 1749859159,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 248855,
-      "num": 368633,
-      "word": "锦绣芳华预约量破200万",
-      "onboard_time": 1749872123,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 247102,
@@ -531,6 +555,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 225636,
+      "num": 277784,
+      "word": "余景天得知被淘汰的反应",
+      "onboard_time": 1749875722,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224455,
+      "num": 224455,
+      "word": "六级作文",
+      "onboard_time": 1749873262,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 222683,
       "num": 222683,
       "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
@@ -555,12 +595,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 207715,
-      "num": 207715,
-      "word": "六级作文",
-      "onboard_time": 1749873262,
-      "rank": 44,
-      "category": "教育"
+      "raw_hot": 213287,
+      "num": 223727,
+      "word": "原来上征信和影响贷款不是一回事",
+      "onboard_time": 1749876141,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206648,
@@ -593,6 +633,14 @@
       "onboard_time": 1749873022,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 201441,
+      "num": 246965,
+      "word": "第一次听王勉的播音腔",
+      "onboard_time": 1749875241,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 200275,
@@ -667,12 +715,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188122,
+      "num": 188122,
+      "word": "考上985和中彩票500万选哪个",
+      "onboard_time": 1749876141,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187997,
       "num": 187997,
       "word": "王源应援棒",
       "onboard_time": 1749867500,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184514,
+      "num": 266942,
+      "word": "丁太升说马嘉祺聪明演绎王菲经典",
+      "onboard_time": 1749875002,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 180379,
@@ -723,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170568,
-      "num": 246965,
-      "word": "第一次听王勉的播音腔",
-      "onboard_time": 1749875241,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168482,
       "num": 168482,
       "word": "我国每5只帝王蟹4只来自吉林",
@@ -745,6 +801,14 @@
       "onboard_time": 1749827964,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164432,
+      "num": 724489,
+      "word": "伊朗15分钟向以色列进行3次导弹齐射",
+      "onboard_time": 1749875120,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162587,
@@ -817,6 +881,14 @@
       "onboard_time": 1749825866,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144714,
+      "num": 282873,
+      "word": "大鹏眼里全是对肌肉的渴望",
+      "onboard_time": 1749874942,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 144057,
@@ -963,12 +1035,12 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 125913,
-      "num": 282873,
-      "word": "大鹏眼里全是对肌肉的渴望",
-      "onboard_time": 1749874942,
-      "rank": 29,
-      "category": "电影"
+      "raw_hot": 126426,
+      "num": 243326,
+      "word": "伊朗下跪求饶应是死路一条",
+      "onboard_time": 1749875302,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123975,
@@ -1147,6 +1219,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 104171,
+      "num": 281550,
+      "word": "广东一男子强拖女子下车后驾车离开",
+      "onboard_time": 1749876022,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104016,
       "num": 104016,
       "word": "台风",
@@ -1219,6 +1299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83313,
+      "num": 224069,
+      "word": "郑钦文今晚冲击伦敦站决赛",
+      "onboard_time": 1749876022,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83023,
       "num": 123555,
       "word": "BLG晋级LPL决赛",
@@ -1265,14 +1353,6 @@
       "onboard_time": 1749820764,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 71647,
-      "num": 436052,
-      "word": "中国航司恢复接收波音787",
-      "onboard_time": 1749874882,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67661,
@@ -1355,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57767,
+      "num": 276138,
+      "word": "中东多国上空导弹齐飞",
+      "onboard_time": 1749875360,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56761,
       "num": 65969,
       "word": "曾毅 我以为是块劳力士",
@@ -1379,6 +1467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53860,
+      "num": 1621542,
+      "word": "中国文物和大美山河太震撼了",
+      "onboard_time": 1749872061,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47422,
       "num": 146400,
       "word": "河道钞票系精神障碍患者发病时丢弃",
@@ -1401,14 +1497,6 @@
       "onboard_time": 1749832940,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45041,
-      "num": 1621542,
-      "word": "中国文物和大美山河太震撼了",
-      "onboard_time": 1749872061,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42206,
@@ -1459,11 +1547,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 31945,
-      "num": 243326,
-      "word": "伊朗下跪求饶应是死路一条",
-      "onboard_time": 1749875302,
-      "rank": 37,
+      "raw_hot": 31216,
+      "num": 368837,
+      "word": "专家称伊朗核设施未遭重大损毁",
+      "onboard_time": 1749875360,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -1481,14 +1569,6 @@
       "onboard_time": 1749872541,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 30068,
-      "num": 362706,
-      "word": "伊朗15分钟向以色列进行3次导弹齐射",
-      "onboard_time": 1749875120,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29597,
@@ -1595,28 +1675,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20291,
-      "num": 239214,
-      "word": "中东多国上空导弹齐飞",
-      "onboard_time": 1749875360,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 16476,
-      "num": 246955,
-      "word": "专家称伊朗核设施未遭重大损毁",
-      "onboard_time": 1749875360,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 15177,
       "num": 56368,
       "word": "中医疗效是事实",
       "onboard_time": 1749855978,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 14966,
+      "num": 280452,
+      "word": "学生证怎么用最划算",
+      "onboard_time": 1749876081,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 14605,
@@ -1700,6 +1772,9 @@
     },
     {
       "word": "#紧紧依靠人民创造历史伟业#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }
