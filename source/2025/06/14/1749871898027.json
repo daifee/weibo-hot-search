@@ -1,0 +1,410 @@
+{
+  "runTime": 1749871898027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1619588,
+        "num": 1619588,
+        "word": "北京多所高校禁用罗马仕充电宝",
+        "onboard_time": 1749867201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1154483,
+        "num": 1154483,
+        "word": "四级",
+        "onboard_time": 1749866060,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21426,
+        "num": 1073183,
+        "word": "数里行间感知经济活力",
+        "onboard_time": 1749825030,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 1598343,
+        "num": 1069750,
+        "word": "曾毅自曝曾脚踹女员工",
+        "onboard_time": 1749857899,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1058733,
+        "num": 1058733,
+        "word": "伊朗向以色列发射约150枚导弹",
+        "onboard_time": 1749856280,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 737636,
+        "num": 737636,
+        "word": "蝴蝶",
+        "onboard_time": 1749866060,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563502,
+        "num": 563502,
+        "word": "四级作文",
+        "onboard_time": 1749869062,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 562079,
+        "num": 562079,
+        "word": "F35",
+        "onboard_time": 1749866060,
+        "rank": 7,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 514562,
+        "num": 538048,
+        "word": "金晨因赛车故障无缘比赛落泪",
+        "onboard_time": 1749860660,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405544,
+        "num": 533694,
+        "word": "伊媒体公布以色列F35战机残骸照片",
+        "onboard_time": 1749866720,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1708505,
+        "num": 532653,
+        "word": "迪士尼 私联",
+        "onboard_time": 1749870381,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530916,
+        "num": 530916,
+        "word": "恋与深空",
+        "onboard_time": 1749821246,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 514688,
+        "num": 514688,
+        "word": "四六级",
+        "onboard_time": 1749825507,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108444,
+        "num": 473422,
+        "word": "京东苏超",
+        "onboard_time": 1749867801,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458545,
+        "num": 458545,
+        "word": "孟子义聊生理期大大方方的",
+        "onboard_time": 1749862281,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426523,
+        "num": 426523,
+        "word": "女友长得像单依纯是什么体验",
+        "onboard_time": 1749865159,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 406441,
+        "num": 406441,
+        "word": "单依纯 好红啊这个节目",
+        "onboard_time": 1749867260,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390200,
+        "num": 390200,
+        "word": "以色列女子哭着说新房子被炸了",
+        "onboard_time": 1749868340,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333340,
+        "num": 333340,
+        "word": "我本是玫瑰今晚来好六",
+        "onboard_time": 1749870381,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20970,
+        "num": 273011,
+        "word": "伊朗遭以色列空袭后会采取哪些手段",
+        "onboard_time": 1749870681,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266831,
+        "num": 266831,
+        "word": "18月龄幼童被饭店客人灌50毫升啤酒",
+        "onboard_time": 1749861200,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255567,
+        "num": 255567,
+        "word": "不穿防晒出门的人现在都怎么样了",
+        "onboard_time": 1749871281,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 255169,
+        "num": 255169,
+        "word": "田柾国道歉",
+        "onboard_time": 1749856698,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252994,
+        "num": 252994,
+        "word": "六级",
+        "onboard_time": 1749868580,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239968,
+        "num": 239968,
+        "word": "中国汽车凭实力赢得尊重",
+        "onboard_time": 1749870260,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233135,
+        "num": 233135,
+        "word": "大爷被咬后一脚将蛇踩死带着去就医",
+        "onboard_time": 1749830541,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223267,
+        "num": 223267,
+        "word": "第一批高考生已经到王一博老家了",
+        "onboard_time": 1749841334,
+        "rank": 26,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 220320,
+        "num": 220320,
+        "word": "24岁胃癌博主回应不良作息习惯",
+        "onboard_time": 1749871281,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200275,
+        "num": 215253,
+        "word": "玉茗茶骨",
+        "onboard_time": 1749870981,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171685,
+        "num": 213922,
+        "word": "陈妍希看孙燕姿演唱会哭了半场",
+        "onboard_time": 1749871161,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213154,
+        "num": 213154,
+        "word": "哈梅内伊称将彻底摧毁以政权",
+        "onboard_time": 1749870622,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203682,
+        "num": 203682,
+        "word": "罗马仕",
+        "onboard_time": 1749871221,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202190,
+        "num": 202190,
+        "word": "爸爸49元给女儿买30斤大冬瓜抱睡",
+        "onboard_time": 1749858319,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197215,
+        "num": 197215,
+        "word": "男子按摩后下身不适索赔5万",
+        "onboard_time": 1749863420,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188489,
+        "num": 188489,
+        "word": "谁给曾毅想的公关",
+        "onboard_time": 1749836178,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98640,
+        "num": 185063,
+        "word": "美海军陆战队进驻洛杉矶执勤",
+        "onboard_time": 1749866060,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184206,
+        "num": 184206,
+        "word": "高校回应禁用罗马仕充电宝",
+        "onboard_time": 1749867260,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175020,
+        "num": 175020,
+        "word": "王源应援棒",
+        "onboard_time": 1749867500,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55422,
+        "num": 164240,
+        "word": "导弹袭击以色列现场视频合集",
+        "onboard_time": 1749871582,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163499,
+        "num": 163499,
+        "word": "黄仁勋回应任正非最新讲话",
+        "onboard_time": 1749870020,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142084,
+        "num": 142084,
+        "word": "以色列突袭伊朗美国或难逃干系",
+        "onboard_time": 1749869540,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141201,
+        "num": 141201,
+        "word": "小龙虾价格暴跌60%后销量暴涨",
+        "onboard_time": 1749868280,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137827,
+        "num": 137827,
+        "word": "儿子接受不了陈楚生不是第一",
+        "onboard_time": 1749828264,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136349,
+        "num": 136349,
+        "word": "拿学生证做的最后一件事",
+        "onboard_time": 1749868880,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133897,
+        "num": 133897,
+        "word": "王晰想踢馆",
+        "onboard_time": 1749870201,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130121,
+        "num": 130121,
+        "word": "张萌发四十七剧组",
+        "onboard_time": 1749871702,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127555,
+        "num": 127555,
+        "word": "印度坠机事故遇难人数升至274人",
+        "onboard_time": 1749861260,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122556,
+        "num": 122556,
+        "word": "男子因老人看孩子问题积怨杀妻",
+        "onboard_time": 1749858319,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120461,
+        "num": 120461,
+        "word": "关注以色列伊朗局势",
+        "onboard_time": 1749866060,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117819,
+        "num": 117819,
+        "word": "把孩子的乳牙做成纪念品",
+        "onboard_time": 1749869960,
+        "rank": 49,
+        "category": "母婴育儿,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念陈云同志诞辰120周年#"
+    }
+  }
+}

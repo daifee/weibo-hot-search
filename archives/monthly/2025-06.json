@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749871017818,
+  "endTime": 1749871898027,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 1789880,
-      "num": 1003639,
+      "num": 1069750,
       "word": "曾毅自曝曾脚踹女员工",
       "onboard_time": 1749857899,
       "rank": 32,
@@ -872,6 +872,14 @@
       "word": "女子请假陪女儿高考被开除",
       "onboard_time": 1749039139,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1708505,
+      "num": 532653,
+      "word": "迪士尼 私联",
+      "onboard_time": 1749870381,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -961,6 +969,14 @@
       "onboard_time": 1749639863,
       "rank": 10,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1619588,
+      "num": 1619588,
+      "word": "北京多所高校禁用罗马仕充电宝",
+      "onboard_time": 1749867201,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1619267,
@@ -1161,14 +1177,6 @@
       "onboard_time": 1749462442,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1426626,
-      "num": 1426626,
-      "word": "北京多所高校禁用罗马仕充电宝",
-      "onboard_time": 1749867201,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1424804,
@@ -1899,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1154483,
+      "num": 1154483,
+      "word": "四级",
+      "onboard_time": 1749866060,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1150707,
       "num": 614325,
       "word": "蔡徐坤洛杉矶音乐节舞台",
@@ -2120,6 +2136,14 @@
       "word": "洛杉矶警方承认局面已失控",
       "onboard_time": 1749519441,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1058733,
+      "num": 1099095,
+      "word": "伊朗向以色列发射约150枚导弹",
+      "onboard_time": 1749856280,
+      "rank": 12,
       "category": "国际时政"
     },
     {
@@ -2931,14 +2955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 869368,
-      "num": 1099095,
-      "word": "伊朗向以色列发射约150枚导弹",
-      "onboard_time": 1749856280,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 868347,
       "num": 631948,
       "word": "被者来女震撼到",
@@ -3723,6 +3739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 737636,
+      "num": 737636,
+      "word": "蝴蝶",
+      "onboard_time": 1749866060,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 735328,
       "num": 735328,
       "word": "王朔女儿 你死屋里影响房价",
@@ -3937,14 +3961,6 @@
       "onboard_time": 1749113059,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 712283,
-      "num": 712283,
-      "word": "蝴蝶",
-      "onboard_time": 1749866060,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 710192,
@@ -4220,7 +4236,7 @@
     },
     {
       "raw_hot": 669899,
-      "num": 371684,
+      "num": 458545,
       "word": "孟子义聊生理期大大方方的",
       "onboard_time": 1749862281,
       "rank": 11,
@@ -5515,6 +5531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 563502,
+      "num": 563502,
+      "word": "四级作文",
+      "onboard_time": 1749869062,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 561574,
       "num": 241416,
       "word": "王珞丹年度队长",
@@ -6147,12 +6171,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 514688,
+      "num": 514688,
+      "word": "四六级",
+      "onboard_time": 1749825507,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 514597,
       "num": 295828,
       "word": "女子给自己签字开了50小时无痛",
       "onboard_time": 1749565702,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 514562,
+      "num": 538048,
+      "word": "金晨因赛车故障无缘比赛落泪",
+      "onboard_time": 1749860660,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 514024,
@@ -6481,14 +6521,6 @@
       "onboard_time": 1749023120,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 493847,
-      "num": 493847,
-      "word": "金晨因赛车故障无缘比赛落泪",
-      "onboard_time": 1749860660,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 493031,
@@ -6849,14 +6881,6 @@
       "onboard_time": 1749570201,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 472351,
-      "num": 371857,
-      "word": "迪士尼 私联",
-      "onboard_time": 1749870381,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 472255,
@@ -8043,12 +8067,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 406441,
+      "num": 406441,
+      "word": "单依纯 好红啊这个节目",
+      "onboard_time": 1749867260,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405942,
       "num": 255956,
       "word": "罗帅宇父亲质疑当地警方不予立案",
       "onboard_time": 1749808402,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 405544,
+      "num": 533694,
+      "word": "伊媒体公布以色列F35战机残骸照片",
+      "onboard_time": 1749866720,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 405400,
@@ -8441,6 +8481,14 @@
       "onboard_time": 1749632421,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390200,
+      "num": 390200,
+      "word": "以色列女子哭着说新房子被炸了",
+      "onboard_time": 1749868340,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 389745,
@@ -8937,14 +8985,6 @@
       "onboard_time": 1749772100,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 371016,
-      "num": 371016,
-      "word": "伊媒体公布以色列F35战机残骸照片",
-      "onboard_time": 1749866720,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 370919,
@@ -9523,14 +9563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 352106,
-      "num": 352106,
-      "word": "四级",
-      "onboard_time": 1749866060,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 351125,
       "num": 351125,
       "word": "印度客机坠毁机场暂停运营",
@@ -10107,6 +10139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333340,
+      "num": 333340,
+      "word": "我本是玫瑰今晚来好六",
+      "onboard_time": 1749870381,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333174,
       "num": 333174,
       "word": "五哈下一期有王俊凯",
@@ -10393,14 +10433,6 @@
       "onboard_time": 1748772140,
       "rank": 12,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 322207,
-      "num": 322207,
-      "word": "单依纯 好红啊这个节目",
-      "onboard_time": 1749867260,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 321816,
@@ -10929,14 +10961,6 @@
       "onboard_time": 1749526762,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306311,
-      "num": 306311,
-      "word": "以色列女子哭着说新房子被炸了",
-      "onboard_time": 1749868340,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 306240,
@@ -11561,14 +11585,6 @@
       "onboard_time": 1748948721,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 289605,
-      "num": 289605,
-      "word": "我本是玫瑰今晚来好六",
-      "onboard_time": 1749870381,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 289471,
@@ -13131,6 +13147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255567,
+      "num": 255567,
+      "word": "不穿防晒出门的人现在都怎么样了",
+      "onboard_time": 1749871281,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 255563,
       "num": 396177,
       "word": "中国依法依规对稀土出口审查",
@@ -13273,6 +13297,14 @@
       "onboard_time": 1749449781,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252994,
+      "num": 252994,
+      "word": "六级",
+      "onboard_time": 1749868580,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 252850,
@@ -13961,6 +13993,14 @@
       "onboard_time": 1749743422,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 239968,
+      "num": 239968,
+      "word": "中国汽车凭实力赢得尊重",
+      "onboard_time": 1749870260,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239902,
@@ -15443,6 +15483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220320,
+      "num": 220320,
+      "word": "24岁胃癌博主回应不良作息习惯",
+      "onboard_time": 1749871281,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 220229,
       "num": 220229,
       "word": "第五人格赛事",
@@ -16097,6 +16145,14 @@
       "onboard_time": 1748843421,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213154,
+      "num": 213154,
+      "word": "哈梅内伊称将彻底摧毁以政权",
+      "onboard_time": 1749870622,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 213120,
@@ -17251,6 +17307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203682,
+      "num": 203682,
+      "word": "罗马仕",
+      "onboard_time": 1749871221,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203653,
       "num": 203653,
       "word": "双胞胎姐妹拿错准考证",
@@ -17833,6 +17897,14 @@
       "onboard_time": 1749356121,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200275,
+      "num": 215253,
+      "word": "玉茗茶骨",
+      "onboard_time": 1749870981,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 200270,
@@ -18811,14 +18883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193604,
-      "num": 193604,
-      "word": "六级",
-      "onboard_time": 1749868580,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 193489,
       "num": 193489,
       "word": "Red三天高考六天打歌",
@@ -19451,14 +19515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190019,
-      "num": 210778,
-      "word": "中国汽车凭实力赢得尊重",
-      "onboard_time": 1749870260,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189947,
       "num": 189947,
       "word": "鼓书艺人",
@@ -19577,14 +19633,6 @@
       "onboard_time": 1749035481,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189388,
-      "num": 189388,
-      "word": "四六级",
-      "onboard_time": 1749825507,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 189380,
@@ -22227,6 +22275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171685,
+      "num": 213922,
+      "word": "陈妍希看孙燕姿演唱会哭了半场",
+      "onboard_time": 1749871161,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171676,
       "num": 171676,
       "word": "藏海传演唱会",
@@ -23769,14 +23825,6 @@
       "onboard_time": 1749427221,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163783,
-      "num": 163783,
-      "word": "四级作文",
-      "onboard_time": 1749869062,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 163780,
@@ -26963,14 +27011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146631,
-      "num": 146631,
-      "word": "哈梅内伊称将彻底摧毁以政权",
-      "onboard_time": 1749870622,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 146625,
       "num": 146625,
       "word": "哈利伯顿 哈利波特",
@@ -27977,6 +28017,14 @@
       "onboard_time": 1749031041,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142084,
+      "num": 372532,
+      "word": "以色列突袭伊朗美国或难逃干系",
+      "onboard_time": 1749869540,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142033,
@@ -30787,6 +30835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130121,
+      "num": 130121,
+      "word": "张萌发四十七剧组",
+      "onboard_time": 1749871702,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130115,
       "num": 130115,
       "word": "银行称存50000得LABUBU盲盒",
@@ -33235,6 +33291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117819,
+      "num": 117819,
+      "word": "把孩子的乳牙做成纪念品",
+      "onboard_time": 1749869960,
+      "rank": 49,
+      "category": "母婴育儿,情感"
+    },
+    {
       "raw_hot": 117709,
       "num": 194019,
       "word": "猫耳新剧将增加会员功能",
@@ -33640,14 +33704,6 @@
       "word": "七根心简胭脂琥珀意难平",
       "onboard_time": 1749831622,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 115714,
-      "num": 115714,
-      "word": "玉茗茶骨",
-      "onboard_time": 1749870981,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -34820,7 +34876,7 @@
     },
     {
       "raw_hot": 109294,
-      "num": 360539,
+      "num": 473422,
       "word": "京东苏超",
       "onboard_time": 1749867801,
       "rank": 13,
@@ -42075,6 +42131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55422,
+      "num": 164240,
+      "word": "导弹袭击以色列现场视频合集",
+      "onboard_time": 1749871582,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55404,
       "num": 161732,
       "word": "在飞机断电的情况下夜间迫降",
@@ -43185,14 +43249,6 @@
       "onboard_time": 1749705561,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47617,
-      "num": 372532,
-      "word": "以色列突袭伊朗美国或难逃干系",
-      "onboard_time": 1749869540,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 47564,
@@ -48147,6 +48203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20970,
+      "num": 281463,
+      "word": "伊朗遭以色列空袭后会采取哪些手段",
+      "onboard_time": 1749870681,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20957,
       "num": 1116467,
       "word": "互联网企业社会责任上分秘籍",
@@ -49889,14 +49953,6 @@
       "onboard_time": 1749501374,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10373,
-      "num": 281463,
-      "word": "伊朗遭以色列空袭后会采取哪些手段",
-      "onboard_time": 1749870681,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 10332,
