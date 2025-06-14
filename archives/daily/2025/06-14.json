@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749889830186,
+  "endTime": 1749890676911,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1753216,
+      "num": 1753216,
+      "word": "泡泡玛特中止labubu韩国线下销售",
+      "onboard_time": 1749887900,
+      "rank": 0,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 1645766,
       "num": 1645766,
       "word": "取件时间是哪个天才设置的",
@@ -75,16 +83,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1578850,
-      "num": 1578850,
-      "word": "泡泡玛特中止labubu韩国线下销售",
-      "onboard_time": 1749887900,
-      "rank": 0,
-      "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 1415115,
-      "num": 1415115,
+      "raw_hot": 1421019,
+      "num": 1421019,
       "word": "国足再弱也轮不到业余足球挑战",
       "onboard_time": 1749888201,
       "rank": 3,
@@ -299,6 +299,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 542715,
+      "num": 542715,
+      "word": "Jasper长大了还是甜椒",
+      "onboard_time": 1749888319,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539361,
       "num": 539361,
       "word": "湘雅二院涉事科室主任等4人被问责",
@@ -417,14 +425,6 @@
       "onboard_time": 1749820466,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 407100,
-      "num": 407100,
-      "word": "Jasper长大了还是甜椒",
-      "onboard_time": 1749888319,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 406441,
@@ -553,6 +553,14 @@
       "onboard_time": 1749873081,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 317410,
+      "num": 317410,
+      "word": "杨幂长安的荔枝一滴泪镜头",
+      "onboard_time": 1749889281,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 312784,
@@ -801,14 +809,6 @@
       "onboard_time": 1749875302,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229779,
-      "num": 229779,
-      "word": "杨幂长安的荔枝一滴泪镜头",
-      "onboard_time": 1749889281,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 225636,
@@ -1171,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165387,
+      "num": 279602,
+      "word": "租户称170多个泡泡玛特玩偶被保洁丢弃",
+      "onboard_time": 1749888921,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162587,
       "num": 162587,
       "word": "以色列对伊朗发动打击",
@@ -1180,7 +1188,7 @@
     },
     {
       "raw_hot": 161630,
-      "num": 161630,
+      "num": 172055,
       "word": "邓超labubu塑",
       "onboard_time": 1749887059,
       "rank": 32,
@@ -1235,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149308,
+      "num": 270415,
+      "word": "泡泡玛特韩国致歉",
+      "onboard_time": 1749890364,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148497,
       "num": 148497,
       "word": "杨幂Labubu书包",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1749833780,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147637,
+      "num": 147637,
+      "word": "无名之辈系列电影定档",
+      "onboard_time": 1749889701,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 147609,
@@ -1355,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139082,
+      "num": 139082,
+      "word": "婚礼抛labubu",
+      "onboard_time": 1749890481,
+      "rank": 36,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 138393,
       "num": 209270,
       "word": "内娱男孩没什么技巧就是硬帅",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1749877881,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130704,
+      "num": 130704,
+      "word": "奥委会回顾覃海洋出场名场面",
+      "onboard_time": 1749887660,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 130501,
@@ -1491,6 +1531,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 126059,
+      "num": 126059,
+      "word": "程潇说陈梦是她的人生嘴替",
+      "onboard_time": 1749890541,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123975,
       "num": 123975,
       "word": "恋与深空 偷跑",
@@ -1523,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120294,
+      "num": 120294,
+      "word": "云合",
+      "onboard_time": 1749890601,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119679,
       "num": 119679,
       "word": "英雄联盟带火了四川小城",
@@ -1537,14 +1593,6 @@
       "onboard_time": 1749814583,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118906,
-      "num": 118906,
-      "word": "无名之辈系列电影定档",
-      "onboard_time": 1749889701,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 118834,
@@ -1651,6 +1699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112825,
+      "num": 279988,
+      "word": "广西复查凶手下落不明宣布死亡案",
+      "onboard_time": 1749889460,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 112685,
       "num": 112685,
       "word": "男子在商场挟持伤人后自残身亡",
@@ -1672,14 +1728,6 @@
       "word": "17岁女儿闲鱼代打车套现妈妈上万元",
       "onboard_time": 1749807502,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109059,
-      "num": 279602,
-      "word": "租户称170多个泡泡玛特玩偶被保洁丢弃",
-      "onboard_time": 1749888921,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1835,6 +1883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91703,
+      "num": 279228,
+      "word": "音综选手在萧亚轩面前跳特务J",
+      "onboard_time": 1749884721,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91683,
       "num": 91683,
       "word": "电影无名之辈",
@@ -1857,14 +1913,6 @@
       "onboard_time": 1749847035,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 84944,
-      "num": 279988,
-      "word": "广西复查凶手下落不明宣布死亡案",
-      "onboard_time": 1749889460,
-      "rank": 17,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 83706,
@@ -1891,12 +1939,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82871,
+      "num": 270529,
+      "word": "京东苏超端水大师",
+      "onboard_time": 1749890181,
+      "rank": 16,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 82375,
       "num": 2193028,
       "word": "中国59项世界遗产图鉴",
       "onboard_time": 1749862521,
       "rank": 49,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 80711,
+      "num": 393904,
+      "word": "印度坠机死亡人数仍在增加",
+      "onboard_time": 1749888561,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77671,
@@ -1929,14 +1993,6 @@
       "onboard_time": 1749878421,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 74254,
-      "num": 393904,
-      "word": "印度坠机死亡人数仍在增加",
-      "onboard_time": 1749888561,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 74152,
@@ -2019,14 +2075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63749,
-      "num": 279228,
-      "word": "音综选手在萧亚轩面前跳特务J",
-      "onboard_time": 1749884721,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 63475,
       "num": 66032,
       "word": "李昀锐把背叛玩得很熟练",
@@ -2075,12 +2123,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57878,
+      "num": 269913,
+      "word": "以色列铁穹拦截成功率高吗",
+      "onboard_time": 1749890481,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57767,
       "num": 276138,
       "word": "中东多国上空导弹齐飞",
       "onboard_time": 1749875360,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56867,
+      "num": 187262,
+      "word": "伊朗遭遇前所未有的损失",
+      "onboard_time": 1749889521,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 56761,
@@ -2219,6 +2283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40094,
+      "num": 187252,
+      "word": "以色列为何此时对伊朗下狠手",
+      "onboard_time": 1749889761,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39159,
       "num": 422344,
       "word": "扁担女孩想赚钱带家人看外面的风景",
@@ -2280,14 +2352,6 @@
       "word": "胡锡进谈伊朗又遭重创",
       "onboard_time": 1749881601,
       "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 31428,
-      "num": 136635,
-      "word": "以色列为何此时对伊朗下狠手",
-      "onboard_time": 1749889761,
-      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -2475,6 +2539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 14246,
+      "num": 270919,
+      "word": "19岁男子入室行凶致人重伤判赔40多万",
+      "onboard_time": 1749890364,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14153,
       "num": 77535,
       "word": "钎城马可波罗C麻了",
@@ -2536,14 +2608,6 @@
       "word": "伊朗市民要求政府研制核武器",
       "onboard_time": 1749889521,
       "rank": 37,
-      "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 10503,
-      "num": 182703,
-      "word": "伊朗遭遇前所未有的损失",
-      "onboard_time": 1749889521,
-      "rank": 29,
       "category": "国际时政,民生新闻"
     },
     {
