@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749943602631,
+  "endTime": 1749944395501,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -3396,7 +3396,7 @@
     },
     {
       "raw_hot": 808775,
-      "num": 811737,
+      "num": 914821,
       "word": "张子枫踩20cm的高跟鞋",
       "onboard_time": 1749920000,
       "rank": 0,
@@ -8379,6 +8379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415278,
+      "num": 510427,
+      "word": "伊朗大规模反击打疼以色列了吗",
+      "onboard_time": 1749915981,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 414719,
       "num": 414719,
       "word": "早春晴朗 张晚意",
@@ -9345,14 +9353,6 @@
       "onboard_time": 1749477083,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377565,
-      "num": 510427,
-      "word": "伊朗大规模反击打疼以色列了吗",
-      "onboard_time": 1749915981,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 377480,
@@ -11035,6 +11035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325352,
+      "num": 325352,
+      "word": "李现是第一个推了酱园弄的人",
+      "onboard_time": 1749921557,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 325307,
       "num": 325307,
       "word": "没有全国甲乙卷了",
@@ -11521,14 +11529,6 @@
       "onboard_time": 1749274161,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309890,
-      "num": 309890,
-      "word": "李现是第一个推了酱园弄的人",
-      "onboard_time": 1749921557,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 309655,
@@ -18355,6 +18355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204814,
+      "num": 222775,
+      "word": "老板多嘴一问成功保住顾客10万元",
+      "onboard_time": 1749912143,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 204806,
       "num": 204806,
       "word": "扬州vs泰州",
@@ -24579,14 +24587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168149,
-      "num": 222775,
-      "word": "老板多嘴一问成功保住顾客10万元",
-      "onboard_time": 1749912143,
-      "rank": 37,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 168112,
       "num": 356711,
       "word": "当地称致女孩失明的水枪非高压水枪",
@@ -26961,6 +26961,14 @@
       "onboard_time": 1749747199,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 156083,
+      "num": 156083,
+      "word": "一人一句祝父亲节日快乐",
+      "onboard_time": 1749920119,
+      "rank": 28,
+      "category": "情感,读书作家"
     },
     {
       "raw_hot": 156073,
@@ -31163,14 +31171,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137205,
-      "num": 137205,
-      "word": "一人一句祝父亲节日快乐",
-      "onboard_time": 1749920119,
-      "rank": 28,
-      "category": "情感,读书作家"
-    },
-    {
       "raw_hot": 137186,
       "num": 213556,
       "word": "沈腾笑起来好像labubu",
@@ -31532,7 +31532,7 @@
     },
     {
       "raw_hot": 135826,
-      "num": 135826,
+      "num": 136539,
       "word": "在工地扛钢管考上清华的他怎么样了",
       "onboard_time": 1749917063,
       "rank": 49,
@@ -36651,6 +36651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112289,
+      "num": 65486,
+      "word": "只有存过钱的才知道她有多真诚",
+      "onboard_time": 1749942256,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112258,
       "num": 112258,
       "word": "老年夫妻最好的状态",
@@ -37849,6 +37857,14 @@
       "onboard_time": 1748759481,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104786,
+      "num": 155406,
+      "word": "联合国称不惜一切代价避免伊以失控",
+      "onboard_time": 1749942977,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104758,
@@ -39785,6 +39801,14 @@
       "onboard_time": 1748846781,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92788,
+      "num": 92788,
+      "word": "杨幂感谢章子怡",
+      "onboard_time": 1749943096,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 92734,
@@ -41867,14 +41891,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 77381,
-      "num": 77381,
-      "word": "联合国称不惜一切代价避免伊以失控",
-      "onboard_time": 1749942977,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 77303,
       "num": 145338,
       "word": "自由女神见了川普都想安个防护窗",
@@ -42089,6 +42105,14 @@
       "onboard_time": 1749283042,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76075,
+      "num": 76075,
+      "word": "哈妮克孜颜安吻戏",
+      "onboard_time": 1749943157,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 75995,
@@ -42355,14 +42379,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 74000,
-      "num": 74000,
-      "word": "杨幂感谢章子怡",
-      "onboard_time": 1749943096,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 73932,
       "num": 393164,
       "word": "台网红馆长说浦东机场好大",
@@ -42385,6 +42401,14 @@
       "onboard_time": 1749896181,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 73785,
+      "num": 73785,
+      "word": "翟潇闻说内娱最漂亮女艺人刘诗诗",
+      "onboard_time": 1749943217,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 73768,
@@ -42625,14 +42649,6 @@
       "onboard_time": 1748829559,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 72365,
-      "num": 59059,
-      "word": "只有存过钱的才知道她有多真诚",
-      "onboard_time": 1749942256,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 72359,
@@ -43531,6 +43547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65249,
+      "num": 65249,
+      "word": "以色列自曝打击伊朗的4个目的",
+      "onboard_time": 1749943157,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65067,
       "num": 65067,
       "word": "伊万回应国足失利",
@@ -43569,6 +43593,14 @@
       "onboard_time": 1749450743,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 64767,
+      "num": 65607,
+      "word": "个体工商户可通过变更登记方式转型为企业",
+      "onboard_time": 1749940875,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64692,
@@ -43761,14 +43793,6 @@
       "onboard_time": 1749827903,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 63358,
-      "num": 63358,
-      "word": "个体工商户可通过变更登记方式转型为企业",
-      "onboard_time": 1749940875,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63297,
@@ -44203,14 +44227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 59876,
-      "num": 59876,
-      "word": "哈妮克孜颜安吻戏",
-      "onboard_time": 1749943157,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 59860,
       "num": 134780,
       "word": "马斯克有意修复与特朗普的关系",
@@ -44641,6 +44657,14 @@
       "onboard_time": 1749272784,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56676,
+      "num": 56676,
+      "word": "伊军称战争规模未来几天持续扩大",
+      "onboard_time": 1749921739,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56659,
@@ -45091,6 +45115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53866,
+      "num": 53866,
+      "word": "旅游学院原来真旅游啊",
+      "onboard_time": 1749941837,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 53860,
       "num": 1621542,
       "word": "中国文物和大美山河太震撼了",
@@ -45121,6 +45153,14 @@
       "onboard_time": 1748947942,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53752,
+      "num": 109569,
+      "word": "郑钦文1比2阿尼西莫娃",
+      "onboard_time": 1749943278,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 53674,
@@ -45281,14 +45321,6 @@
       "onboard_time": 1749659720,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52542,
-      "num": 52542,
-      "word": "伊军称战争规模未来几天持续扩大",
-      "onboard_time": 1749921739,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 52453,
@@ -45491,14 +45523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51303,
-      "num": 51303,
-      "word": "旅游学院原来真旅游啊",
-      "onboard_time": 1749941837,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 51220,
       "num": 485519,
       "word": "顺风车司机展示外挂软件1秒抢单",
@@ -45609,6 +45633,14 @@
       "onboard_time": 1749654863,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 50429,
+      "num": 50429,
+      "word": "战至巅峰",
+      "onboard_time": 1749943157,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 50402,
@@ -45795,6 +45827,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 49510,
+      "num": 49510,
+      "word": "酱园弄赵丽颖repo",
+      "onboard_time": 1749943096,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49431,
       "num": 264040,
       "word": "妈妈记录孩子最后一次穿高中校服",
@@ -45913,6 +45953,14 @@
       "onboard_time": 1749114320,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48664,
+      "num": 48664,
+      "word": "Knight赛后致歉",
+      "onboard_time": 1749943096,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 48593,
@@ -46043,14 +46091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47432,
-      "num": 47432,
-      "word": "Knight赛后致歉",
-      "onboard_time": 1749943096,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 47422,
       "num": 146400,
       "word": "河道钞票系精神障碍患者发病时丢弃",
@@ -46089,14 +46129,6 @@
       "onboard_time": 1749143116,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46669,
-      "num": 46669,
-      "word": "翟潇闻说内娱最漂亮女艺人刘诗诗",
-      "onboard_time": 1749943217,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 46654,
@@ -46803,14 +46835,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 42609,
-      "num": 42609,
-      "word": "酱园弄赵丽颖repo",
-      "onboard_time": 1749943096,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 42592,
       "num": 42592,
       "word": "丁禹兮旁白雪豹纪录片",
@@ -47361,14 +47385,6 @@
       "onboard_time": 1749614903,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39922,
-      "num": 39922,
-      "word": "战至巅峰",
-      "onboard_time": 1749943157,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 39917,
@@ -52713,14 +52729,6 @@
       "onboard_time": 1749153494,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13902,
-      "num": 109569,
-      "word": "郑钦文1比2阿尼西莫娃",
-      "onboard_time": 1749943278,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 13811,
