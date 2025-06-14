@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749940941277,
+  "endTime": 1749943602631,
   "band_list": [
     {
       "raw_hot": 1752363,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 808775,
-      "num": 808775,
+      "num": 811737,
       "word": "张子枫踩20cm的高跟鞋",
       "onboard_time": 1749920000,
       "rank": 0,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309890,
+      "num": 309890,
+      "word": "李现是第一个推了酱园弄的人",
+      "onboard_time": 1749921557,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 295018,
       "num": 295018,
       "word": "邓紫棋18厘米高跟鞋走的每一步都算数",
@@ -161,14 +169,6 @@
       "onboard_time": 1749909802,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 247732,
-      "num": 232037,
-      "word": "李现是第一个推了酱园弄的人",
-      "onboard_time": 1749921557,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 241009,
@@ -275,6 +275,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168149,
+      "num": 168149,
+      "word": "老板多嘴一问成功保住顾客10万元",
+      "onboard_time": 1749912143,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 161835,
+      "num": 136514,
+      "word": "环保少女妹妹发性感视频",
+      "onboard_time": 1749909802,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153921,
       "num": 153921,
       "word": "伊朗",
@@ -297,6 +313,22 @@
       "onboard_time": 1749910884,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137205,
+      "num": 137205,
+      "word": "一人一句祝父亲节日快乐",
+      "onboard_time": 1749920119,
+      "rank": 28,
+      "category": "情感,读书作家"
+    },
+    {
+      "raw_hot": 135826,
+      "num": 135826,
+      "word": "在工地扛钢管考上清华的他怎么样了",
+      "onboard_time": 1749917063,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 135605,
@@ -339,22 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123339,
-      "num": 123339,
-      "word": "老板多嘴一问成功保住顾客10万元",
-      "onboard_time": 1749912143,
-      "rank": 37,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 122594,
-      "num": 107501,
-      "word": "环保少女妹妹发性感视频",
-      "onboard_time": 1749909802,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 122092,
       "num": 122092,
       "word": "刘浩存感谢大家在这个夏天的陪伴",
@@ -379,20 +395,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118516,
+      "num": 118516,
+      "word": "劳力士店员否认曾毅戴表为自家品牌",
+      "onboard_time": 1749894743,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118296,
       "num": 118296,
       "word": "Knight希望画个好一点的句号",
       "onboard_time": 1749914242,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115664,
-      "num": 115664,
-      "word": "一人一句祝父亲节日快乐",
-      "onboard_time": 1749920119,
-      "rank": 28,
-      "category": "情感,读书作家"
     },
     {
       "raw_hot": 114471,
@@ -411,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113919,
-      "num": 113919,
-      "word": "劳力士店员否认曾毅戴表为自家品牌",
-      "onboard_time": 1749894743,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113077,
       "num": 113077,
       "word": "张元英剪了刘海",
@@ -433,14 +441,6 @@
       "onboard_time": 1749913823,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 103398,
-      "num": 103398,
-      "word": "在工地扛钢管考上清华的他怎么样了",
-      "onboard_time": 1749917063,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 92189,
@@ -459,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77381,
+      "num": 77381,
+      "word": "联合国称不惜一切代价避免伊以失控",
+      "onboard_time": 1749942977,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76315,
       "num": 76315,
       "word": "桃黑黑直播",
@@ -467,11 +475,51 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74000,
+      "num": 74000,
+      "word": "杨幂感谢章子怡",
+      "onboard_time": 1749943096,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 72365,
+      "num": 59059,
+      "word": "只有存过钱的才知道她有多真诚",
+      "onboard_time": 1749942256,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67405,
       "num": 154883,
       "word": "总台女记者从伊朗首都发回报道",
       "onboard_time": 1749919160,
       "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 63358,
+      "num": 63358,
+      "word": "个体工商户可通过变更登记方式转型为企业",
+      "onboard_time": 1749940875,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59876,
+      "num": 59876,
+      "word": "哈妮克孜颜安吻戏",
+      "onboard_time": 1749943157,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 52542,
+      "num": 52542,
+      "word": "伊军称战争规模未来几天持续扩大",
+      "onboard_time": 1749921739,
+      "rank": 32,
       "category": "国际时政"
     },
     {
@@ -491,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51303,
+      "num": 51303,
+      "word": "旅游学院原来真旅游啊",
+      "onboard_time": 1749941837,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49938,
       "num": 49938,
       "word": "中超",
@@ -499,12 +555,52 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37545,
-      "num": 37545,
-      "word": "伊军称战争规模未来几天持续扩大",
-      "onboard_time": 1749921739,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 47432,
+      "num": 47432,
+      "word": "Knight赛后致歉",
+      "onboard_time": 1749943096,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 46669,
+      "num": 46669,
+      "word": "翟潇闻说内娱最漂亮女艺人刘诗诗",
+      "onboard_time": 1749943217,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43541,
+      "num": 43541,
+      "word": "长期驼背脸也会变大",
+      "onboard_time": 1749943157,
+      "rank": 43,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 42609,
+      "num": 42609,
+      "word": "酱园弄赵丽颖repo",
+      "onboard_time": 1749943096,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 41054,
+      "num": 41054,
+      "word": "猫咪真正做到了尊老爱幼欺负中间",
+      "onboard_time": 1749943096,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 39922,
+      "num": 39922,
+      "word": "战至巅峰",
+      "onboard_time": 1749943157,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 35154,
@@ -667,12 +763,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12272,
-      "num": 32383,
-      "word": "个体工商户可通过变更登记方式转型为企业",
-      "onboard_time": 1749940875,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 13902,
+      "num": 109569,
+      "word": "郑钦文1比2阿尼西莫娃",
+      "onboard_time": 1749943278,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 12024,
