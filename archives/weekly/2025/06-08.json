@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749894174583,
+  "endTime": 1749896745780,
   "band_list": [
     {
       "raw_hot": 17710576,
@@ -465,6 +465,14 @@
       "onboard_time": 1749830122,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1795047,
+      "num": 1795047,
+      "word": "六级答案",
+      "onboard_time": 1749894083,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 1789880,
@@ -1227,6 +1235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1023267,
+      "num": 1023267,
+      "word": "泡泡玛特韩国致歉",
+      "onboard_time": 1749890364,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1019785,
       "num": 468358,
       "word": "4位浪姐自己组团出道",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1749351620,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 916834,
-      "num": 916834,
-      "word": "泡泡玛特韩国致歉",
-      "onboard_time": 1749890364,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 916613,
@@ -1841,6 +1849,14 @@
       "onboard_time": 1749606740,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 793133,
+      "num": 793133,
+      "word": "杨幂手拿荔枝",
+      "onboard_time": 1749893183,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 792543,
@@ -2451,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 630482,
+      "num": 630482,
+      "word": "罗马仕公开声明",
+      "onboard_time": 1749892410,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 630019,
       "num": 630019,
       "word": "两夫妻各住一套房是什么体验",
@@ -2819,12 +2843,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574946,
+      "num": 574946,
+      "word": "劳力士店员否认曾毅戴表为自家品牌",
+      "onboard_time": 1749894743,
+      "rank": 9,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 573591,
       "num": 573591,
       "word": "李马克 北京卷",
       "onboard_time": 1749377422,
       "rank": 8,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 573153,
+      "num": 573153,
+      "word": "六级翻译 南水北调",
+      "onboard_time": 1749894203,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 572207,
@@ -3233,6 +3273,14 @@
       "onboard_time": 1749631402,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 526867,
+      "num": 526867,
+      "word": "女孩基因突变出生几个月眼睛变蓝色",
+      "onboard_time": 1749892951,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 526190,
@@ -3785,6 +3833,14 @@
       "onboard_time": 1749466281,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 456456,
+      "num": 599988,
+      "word": "上影节红毯",
+      "onboard_time": 1749895222,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 455424,
@@ -4491,6 +4547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389058,
+      "num": 389058,
+      "word": "距离六级还有182天",
+      "onboard_time": 1749895942,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 388870,
       "num": 388870,
       "word": "高芙首夺法网冠军",
@@ -4675,14 +4739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375100,
-      "num": 375100,
-      "word": "六级答案",
-      "onboard_time": 1749894083,
-      "rank": 20,
-      "category": "教育"
-    },
-    {
       "raw_hot": 373678,
       "num": 339347,
       "word": "长安的荔枝",
@@ -4729,6 +4785,14 @@
       "onboard_time": 1749809362,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 369763,
+      "num": 369763,
+      "word": "六级听力",
+      "onboard_time": 1749894384,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 368895,
@@ -5363,14 +5427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334215,
-      "num": 391499,
-      "word": "杨幂手拿荔枝",
-      "onboard_time": 1749893183,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 334053,
       "num": 334053,
       "word": "陈楚生好嗨",
@@ -5425,14 +5481,6 @@
       "onboard_time": 1749428063,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 329547,
-      "num": 329547,
-      "word": "罗马仕公开声明",
-      "onboard_time": 1749892410,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 329541,
@@ -6113,6 +6161,14 @@
       "onboard_time": 1749732923,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290769,
+      "num": 352381,
+      "word": "倪妮玫瑰高定",
+      "onboard_time": 1749893902,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 290589,
@@ -7635,14 +7691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234647,
-      "num": 234647,
-      "word": "女孩基因突变出生几个月眼睛变蓝色",
-      "onboard_time": 1749892951,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234553,
       "num": 234553,
       "word": "加州州长呼吁美国人民站起来",
@@ -7873,6 +7921,14 @@
       "onboard_time": 1749372740,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228361,
+      "num": 635847,
+      "word": "伊朗称将打击中东美军基地",
+      "onboard_time": 1749893663,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 228185,
@@ -8707,6 +8763,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 211519,
+      "num": 351009,
+      "word": "杨幂上影节出图",
+      "onboard_time": 1749896484,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211467,
       "num": 211467,
       "word": "给Labubu簪花",
@@ -8835,6 +8899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208385,
+      "num": 208385,
+      "word": "snob",
+      "onboard_time": 1749895644,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 208160,
       "num": 251942,
       "word": "张杰曾为鼓励邓紫棋唱泡沫",
@@ -8921,6 +8993,14 @@
       "onboard_time": 1749640883,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206798,
+      "num": 206798,
+      "word": "立方米怎么翻译",
+      "onboard_time": 1749896362,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 206794,
@@ -11051,14 +11131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183479,
-      "num": 217216,
-      "word": "倪妮玫瑰高定",
-      "onboard_time": 1749893902,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 183273,
       "num": 183273,
       "word": "网红妍妍酱账号已私密",
@@ -11459,6 +11531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178544,
+      "num": 178544,
+      "word": "六级我恨你",
+      "onboard_time": 1749896662,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178469,
       "num": 182745,
       "word": "广东热的要死碎碎念几则",
@@ -11857,6 +11937,14 @@
       "onboard_time": 1749795502,
       "rank": 32,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 173119,
+      "num": 173119,
+      "word": "接425",
+      "onboard_time": 1749895760,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 173036,
@@ -12843,6 +12931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164605,
+      "num": 215566,
+      "word": "SEVENTEEN一位",
+      "onboard_time": 1749895222,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164604,
       "num": 173127,
       "word": "SU7Ultra是GT赛车首款中国车",
@@ -13073,6 +13169,14 @@
       "onboard_time": 1749573858,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162057,
+      "num": 162057,
+      "word": "六级 全国大学生第六感等级考试",
+      "onboard_time": 1749894264,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 161798,
@@ -13537,6 +13641,14 @@
       "onboard_time": 1749658939,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157980,
+      "num": 157980,
+      "word": "四六级裸考的同学突然不焦虑了",
+      "onboard_time": 1749895282,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 157951,
@@ -14987,6 +15099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145237,
+      "num": 409560,
+      "word": "男子花近30万娶妻13天后女方消失",
+      "onboard_time": 1749893243,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145227,
       "num": 145227,
       "word": "胡锡进说伊朗被渗透成筛子了",
@@ -15617,6 +15737,14 @@
       "onboard_time": 1749371360,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139669,
+      "num": 350655,
+      "word": "王俊凯直播说贵州话",
+      "onboard_time": 1749896003,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 139502,
@@ -21019,6 +21147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73817,
+      "num": 208470,
+      "word": "胡赛向以色列发射导弹",
+      "onboard_time": 1749896181,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 73768,
       "num": 247510,
       "word": "吉克隽逸在3米高升降台忘绑安全绳",
@@ -21161,14 +21297,6 @@
       "onboard_time": 1749637462,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70977,
-      "num": 635847,
-      "word": "伊朗称将打击中东美军基地",
-      "onboard_time": 1749893663,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 70877,
@@ -21656,14 +21784,6 @@
       "word": "罗帅宇之死引发三重追问",
       "onboard_time": 1749810323,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63674,
-      "num": 409560,
-      "word": "男子花近30万娶妻13天后女方消失",
-      "onboard_time": 1749893243,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -22155,6 +22275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 57147,
+      "num": 226109,
+      "word": "为什么华中科技大学是森林大学",
+      "onboard_time": 1749896003,
+      "rank": 24,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 57014,
       "num": 301515,
       "word": "男子因与现场DNA吻合被判入室盗窃",
@@ -22225,6 +22353,14 @@
       "onboard_time": 1749767957,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 56360,
+      "num": 171140,
+      "word": "DOTA2不朽杯总决赛",
+      "onboard_time": 1749895523,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 56090,
@@ -23995,6 +24131,14 @@
       "category": "电影,作品衍生"
     },
     {
+      "raw_hot": 33784,
+      "num": 171644,
+      "word": "伊朗大不里士再次遭到空袭",
+      "onboard_time": 1749896301,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33689,
       "num": 183129,
       "word": "分析认为以军目的为拖美国入场",
@@ -25651,6 +25795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 16408,
+      "num": 1089250,
+      "word": "有AI千年来相会",
+      "onboard_time": 1749896181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16241,
       "num": 191531,
       "word": "景区称阻拦无票父亲入园没有错",
@@ -25921,6 +26073,14 @@
       "onboard_time": 1749454701,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13802,
+      "num": 223620,
+      "word": "以色列空袭代号有什么象征意义",
+      "onboard_time": 1749895942,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13764,

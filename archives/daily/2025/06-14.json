@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749894174583,
+  "endTime": 1749896745780,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -57,6 +57,14 @@
       "onboard_time": 1749830122,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1795047,
+      "num": 1795047,
+      "word": "六级答案",
+      "onboard_time": 1749894083,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 1789880,
@@ -123,6 +131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1023267,
+      "num": 1023267,
+      "word": "泡泡玛特韩国致歉",
+      "onboard_time": 1749890364,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 973371,
       "num": 420012,
       "word": "亲子鉴定师10年鉴定非亲生率约22%",
@@ -137,14 +153,6 @@
       "onboard_time": 1749824969,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 916834,
-      "num": 916834,
-      "word": "泡泡玛特韩国致歉",
-      "onboard_time": 1749890364,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 887604,
@@ -169,6 +177,14 @@
       "onboard_time": 1749877583,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 793133,
+      "num": 793133,
+      "word": "杨幂手拿荔枝",
+      "onboard_time": 1749893183,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 779247,
@@ -291,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 630482,
+      "num": 630482,
+      "word": "罗马仕公开声明",
+      "onboard_time": 1749892410,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607393,
       "num": 607393,
       "word": "婚礼抛labubu",
@@ -304,6 +328,22 @@
       "word": "四级作文 梦到哪句写哪句",
       "onboard_time": 1749872422,
       "rank": 11,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 574946,
+      "num": 574946,
+      "word": "劳力士店员否认曾毅戴表为自家品牌",
+      "onboard_time": 1749894743,
+      "rank": 9,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 573153,
+      "num": 573153,
+      "word": "六级翻译 南水北调",
+      "onboard_time": 1749894203,
+      "rank": 10,
       "category": "教育"
     },
     {
@@ -361,6 +401,14 @@
       "onboard_time": 1749821246,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 526867,
+      "num": 526867,
+      "word": "女孩基因突变出生几个月眼睛变蓝色",
+      "onboard_time": 1749892951,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 514562,
@@ -425,6 +473,14 @@
       "onboard_time": 1749841334,
       "rank": 29,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 456456,
+      "num": 599988,
+      "word": "上影节红毯",
+      "onboard_time": 1749895222,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 451446,
@@ -515,6 +571,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 389058,
+      "num": 389058,
+      "word": "距离六级还有182天",
+      "onboard_time": 1749895942,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 375746,
       "num": 375746,
       "word": "邓超有个事放在我心里快一个月了",
@@ -523,20 +587,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375100,
-      "num": 375100,
-      "word": "六级答案",
-      "onboard_time": 1749894083,
-      "rank": 20,
-      "category": "教育"
-    },
-    {
       "raw_hot": 371476,
       "num": 403857,
       "word": "杨幂长安的荔枝一滴泪镜头",
       "onboard_time": 1749889281,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 369763,
+      "num": 369763,
+      "word": "六级听力",
+      "onboard_time": 1749894384,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 365444,
@@ -619,22 +683,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 334215,
-      "num": 391499,
-      "word": "杨幂手拿荔枝",
-      "onboard_time": 1749893183,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 329547,
-      "num": 329547,
-      "word": "罗马仕公开声明",
-      "onboard_time": 1749892410,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312784,
       "num": 312784,
       "word": "广东一男子强拖女子下车后驾车离开",
@@ -681,6 +729,14 @@
       "onboard_time": 1749871883,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290769,
+      "num": 352381,
+      "word": "倪妮玫瑰高定",
+      "onboard_time": 1749893902,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 290387,
@@ -875,14 +931,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 234647,
-      "num": 234647,
-      "word": "女孩基因突变出生几个月眼睛变蓝色",
-      "onboard_time": 1749892951,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231193,
       "num": 255282,
       "word": "伊朗称将齐射2000枚导弹",
@@ -905,6 +953,14 @@
       "onboard_time": 1749882020,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228361,
+      "num": 635847,
+      "word": "伊朗称将打击中东美军基地",
+      "onboard_time": 1749893663,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 225636,
@@ -955,6 +1011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 211519,
+      "num": 351009,
+      "word": "杨幂上影节出图",
+      "onboard_time": 1749896484,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211182,
       "num": 211182,
       "word": "苏超",
@@ -971,12 +1035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208385,
+      "num": 208385,
+      "word": "snob",
+      "onboard_time": 1749895644,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207537,
       "num": 401570,
       "word": "京东苏超端水大师",
       "onboard_time": 1749890181,
       "rank": 16,
       "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 206798,
+      "num": 206798,
+      "word": "立方米怎么翻译",
+      "onboard_time": 1749896362,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 206648,
@@ -1195,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183479,
-      "num": 217216,
-      "word": "倪妮玫瑰高定",
-      "onboard_time": 1749893902,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 182888,
       "num": 182888,
       "word": "爸爸画女儿画得有鼻有眼的",
@@ -1251,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178544,
+      "num": 178544,
+      "word": "六级我恨你",
+      "onboard_time": 1749896662,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176880,
       "num": 176880,
       "word": "高考生开始人生中最幸福的暑假",
@@ -1297,6 +1377,14 @@
       "onboard_time": 1749858559,
       "rank": 28,
       "category": "情感,运动健身"
+    },
+    {
+      "raw_hot": 173119,
+      "num": 173119,
+      "word": "接425",
+      "onboard_time": 1749895760,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 172344,
@@ -1403,12 +1491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164605,
+      "num": 215566,
+      "word": "SEVENTEEN一位",
+      "onboard_time": 1749895222,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162587,
       "num": 162587,
       "word": "以色列对伊朗发动打击",
       "onboard_time": 1749773961,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162057,
+      "num": 162057,
+      "word": "六级 全国大学生第六感等级考试",
+      "onboard_time": 1749894264,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 159729,
@@ -1425,6 +1529,14 @@
       "onboard_time": 1749879681,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157980,
+      "num": 157980,
+      "word": "四六级裸考的同学突然不焦虑了",
+      "onboard_time": 1749895282,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 157951,
@@ -1475,6 +1587,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 149767,
+      "num": 149767,
+      "word": "酱园弄",
+      "onboard_time": 1749894984,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148497,
       "num": 148497,
       "word": "杨幂Labubu书包",
@@ -1513,6 +1633,14 @@
       "onboard_time": 1749879621,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145237,
+      "num": 409560,
+      "word": "男子花近30万娶妻13天后女方消失",
+      "onboard_time": 1749893243,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145050,
@@ -1601,6 +1729,14 @@
       "onboard_time": 1749888861,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139669,
+      "num": 350655,
+      "word": "王俊凯直播说贵州话",
+      "onboard_time": 1749896003,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 139149,
@@ -2243,20 +2379,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73817,
+      "num": 208470,
+      "word": "胡赛向以色列发射导弹",
+      "onboard_time": 1749896181,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 72039,
       "num": 72039,
       "word": "GAI 该做热玛吉了",
       "onboard_time": 1749820764,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 70977,
-      "num": 635847,
-      "word": "伊朗称将打击中东美军基地",
-      "onboard_time": 1749893663,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 68240,
@@ -2321,14 +2457,6 @@
       "onboard_time": 1749878602,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 63674,
-      "num": 409560,
-      "word": "男子花近30万娶妻13天后女方消失",
-      "onboard_time": 1749893243,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63475,
@@ -2403,6 +2531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57147,
+      "num": 226109,
+      "word": "为什么华中科技大学是森林大学",
+      "onboard_time": 1749896003,
+      "rank": 24,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 56867,
       "num": 187262,
       "word": "伊朗遭遇前所未有的损失",
@@ -2417,6 +2553,14 @@
       "onboard_time": 1749801862,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56360,
+      "num": 171140,
+      "word": "DOTA2不朽杯总决赛",
+      "onboard_time": 1749895523,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 55901,
@@ -2616,6 +2760,14 @@
       "word": "以色列否认F35战机被伊朗击落",
       "onboard_time": 1749893125,
       "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 33784,
+      "num": 171644,
+      "word": "伊朗大不里士再次遭到空袭",
+      "onboard_time": 1749896301,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -2819,6 +2971,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 16408,
+      "num": 1089250,
+      "word": "有AI千年来相会",
+      "onboard_time": 1749896181,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15177,
       "num": 56368,
       "word": "中医疗效是事实",
@@ -2873,6 +3033,14 @@
       "onboard_time": 1749879740,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13802,
+      "num": 223620,
+      "word": "以色列空袭代号有什么象征意义",
+      "onboard_time": 1749895942,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11781,
