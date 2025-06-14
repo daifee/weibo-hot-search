@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749918595394,
+  "endTime": 1749919515460,
   "band_list": [
     {
       "raw_hot": 1752363,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1029338,
-      "num": 402261,
+      "num": 441970,
       "word": "韩红现场发飙怒骂选手自私",
       "onboard_time": 1749915682,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438258,
+      "num": 438258,
+      "word": "熬夜损失的寿命又靠熬夜弥补了回来",
+      "onboard_time": 1749915862,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 416129,
       "num": 332855,
       "word": "刘宇宁 没收到过剧本",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 374832,
-      "num": 332522,
+      "num": 346773,
       "word": "祝绪丹背着工作人员开直播",
       "onboard_time": 1749915682,
       "rank": 7,
@@ -75,20 +83,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365583,
-      "num": 300049,
-      "word": "郑钦文将创个人最佳排名",
-      "onboard_time": 1749916402,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 340143,
-      "num": 340143,
+      "raw_hot": 370276,
+      "num": 370276,
       "word": "伊朗大规模反击打疼以色列了吗",
       "onboard_time": 1749915981,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 365583,
+      "num": 300614,
+      "word": "郑钦文将创个人最佳排名",
+      "onboard_time": 1749916402,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 329446,
@@ -100,11 +108,19 @@
     },
     {
       "raw_hot": 324414,
-      "num": 333467,
+      "num": 392103,
       "word": "婚宴252桌花50万嫌贵拒付款后续",
       "onboard_time": 1749911063,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295018,
+      "num": 295018,
+      "word": "邓紫棋18厘米高跟鞋走的每一步都算数",
+      "onboard_time": 1749916641,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 290507,
@@ -113,14 +129,6 @@
       "onboard_time": 1749914004,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 284437,
-      "num": 284437,
-      "word": "邓紫棋18厘米高跟鞋走的每一步都算数",
-      "onboard_time": 1749916641,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 283960,
@@ -139,16 +147,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 261892,
-      "num": 261892,
-      "word": "熬夜损失的寿命又靠熬夜弥补了回来",
-      "onboard_time": 1749915862,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 241009,
-      "num": 200006,
+      "num": 204205,
       "word": "邓紫棋再唱句号终于释然",
       "onboard_time": 1749916221,
       "rank": 21,
@@ -163,7 +163,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200779,
+      "raw_hot": 202582,
       "num": 200779,
       "word": "赵丽颖饰演西林",
       "onboard_time": 1749917482,
@@ -177,6 +177,14 @@
       "onboard_time": 1749917721,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195560,
+      "num": 195560,
+      "word": "郑钦文vs阿尼西莫娃",
+      "onboard_time": 1749919039,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 187952,
@@ -201,6 +209,14 @@
       "onboard_time": 1749917422,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175003,
+      "num": 296844,
+      "word": "Labubu为何爆火",
+      "onboard_time": 1749916822,
+      "rank": 14,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 171176,
@@ -235,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142859,
-      "num": 296844,
-      "word": "Labubu为何爆火",
-      "onboard_time": 1749916822,
-      "rank": 14,
-      "category": "民生新闻,议题讨论"
-    },
-    {
       "raw_hot": 140799,
       "num": 140799,
       "word": "杨幂又在红毯搞抽象",
@@ -272,6 +280,14 @@
       "word": "Cat说打比赛心态有变化",
       "onboard_time": 1749915563,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 126688,
+      "num": 126688,
+      "word": "tabe发言",
+      "onboard_time": 1749917902,
+      "rank": 40,
       "category": "电竞"
     },
     {
@@ -305,14 +321,6 @@
       "onboard_time": 1749897021,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121462,
-      "num": 121462,
-      "word": "tabe发言",
-      "onboard_time": 1749917902,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 120979,
@@ -379,16 +387,32 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 87567,
+      "num": 87567,
+      "word": "文俊辉晚宴氛围感",
+      "onboard_time": 1749919459,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 53711,
+      "num": 112786,
+      "word": "总台女记者从伊朗首都发回报道",
+      "onboard_time": 1749919160,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52067,
-      "num": 413257,
+      "num": 443284,
       "word": "糖画和文化遗产这一刻融合了",
       "onboard_time": 1749909863,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 49906,
-      "num": 154870,
+      "raw_hot": 52044,
+      "num": 175961,
       "word": "苏超最新积分榜公布",
       "onboard_time": 1749910403,
       "rank": 30,
@@ -399,6 +423,14 @@
       "num": 121616,
       "word": "凯斯无缘女王杯决赛",
       "onboard_time": 1749915083,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23482,
+      "num": 98992,
+      "word": "天津津门虎1比0山东泰山",
+      "onboard_time": 1749918800,
       "rank": 39,
       "category": "体育"
     }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/15 00:29:55
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/15 00:45:15
 </p>
 </blockquote>
 <p>
@@ -5907,6 +5907,12 @@ iG战胜WBG（热度：440456）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E6%8D%9F%E5%A4%B1%E7%9A%84%E5%AF%BF%E5%91%BD%E5%8F%88%E9%9D%A0%E7%86%AC%E5%A4%9C%E5%BC%A5%E8%A1%A5%E4%BA%86%E5%9B%9E%E6%9D%A5%23" target="weibo">
+熬夜损失的寿命又靠熬夜弥补了回来（热度：438258）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%97%E7%89%88LABUBU%E4%B8%91%E5%BE%97%E5%BE%88%E6%8A%BD%E8%B1%A1%23" target="weibo">
 盗版LABUBU丑得很抽象（热度：437984）
 </a>
@@ -6005,12 +6011,6 @@ Labubu联名款被炒至2.8万（热度：432471）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%9D%A6%E8%A8%80%E6%B8%B4%E6%9C%9B%E6%9C%89%E5%AE%8C%E6%95%B4%E5%AE%B6%E5%BA%AD%23" target="weibo">
 陈梦坦言渴望有完整家庭（热度：432200）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E6%88%90%E7%BB%A9%23" target="weibo">
-教资面试成绩（热度：432167）
 </a>
 </li>
 

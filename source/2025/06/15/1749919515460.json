@@ -1,0 +1,410 @@
+{
+  "runTime": 1749919515460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 817448,
+        "num": 817448,
+        "word": "以色列",
+        "onboard_time": 1749905002,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 494232,
+        "num": 494232,
+        "word": "黄子韬现场发火中断考核",
+        "onboard_time": 1749904522,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39832,
+        "num": 443284,
+        "word": "糖画和文化遗产这一刻融合了",
+        "onboard_time": 1749909863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 788737,
+        "num": 441970,
+        "word": "韩红现场发飙怒骂选手自私",
+        "onboard_time": 1749915682,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438258,
+        "num": 438258,
+        "word": "熬夜损失的寿命又靠熬夜弥补了回来",
+        "onboard_time": 1749915862,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260148,
+        "num": 392103,
+        "word": "婚宴252桌花50万嫌贵拒付款后续",
+        "onboard_time": 1749911063,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370276,
+        "num": 370276,
+        "word": "伊朗大规模反击打疼以色列了吗",
+        "onboard_time": 1749915981,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346773,
+        "num": 346773,
+        "word": "祝绪丹背着工作人员开直播",
+        "onboard_time": 1749915682,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317774,
+        "num": 317774,
+        "word": "刘宇宁 没收到过剧本",
+        "onboard_time": 1749898045,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213713,
+        "num": 315924,
+        "word": "泡泡玛特中止labubu韩国线下销售",
+        "onboard_time": 1749887900,
+        "rank": 9,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 1469883,
+        "num": 310672,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 10,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 440940,
+        "num": 305670,
+        "word": "大爷体内藏52年牙刷称以为能溶解掉",
+        "onboard_time": 1749911364,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361274,
+        "num": 300614,
+        "word": "郑钦文将创个人最佳排名",
+        "onboard_time": 1749916402,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295018,
+        "num": 295018,
+        "word": "邓紫棋18厘米高跟鞋走的每一步都算数",
+        "onboard_time": 1749916641,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264641,
+        "num": 264641,
+        "word": "加州偶遇王一博",
+        "onboard_time": 1749911183,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242513,
+        "num": 242513,
+        "word": "43岁张亮与10岁女儿合拍杂志",
+        "onboard_time": 1749902483,
+        "rank": 15,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 217678,
+        "num": 217678,
+        "word": "Bin哥 嘴硬",
+        "onboard_time": 1749909802,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207610,
+        "num": 207610,
+        "word": "王毅分别同伊朗外长和以色列外长通电话",
+        "onboard_time": 1749914004,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204205,
+        "num": 204205,
+        "word": "邓紫棋再唱句号终于释然",
+        "onboard_time": 1749916221,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195560,
+        "num": 195560,
+        "word": "郑钦文vs阿尼西莫娃",
+        "onboard_time": 1749919039,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202582,
+        "num": 191001,
+        "word": "赵丽颖饰演西林",
+        "onboard_time": 1749917482,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177150,
+        "num": 177150,
+        "word": "郑钦文破发阿尼西莫娃",
+        "onboard_time": 1749917422,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52044,
+        "num": 175961,
+        "word": "苏超最新积分榜公布",
+        "onboard_time": 1749910403,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175003,
+        "num": 175003,
+        "word": "Labubu为何爆火",
+        "onboard_time": 1749916822,
+        "rank": 23,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 168741,
+        "num": 168741,
+        "word": "杨幂回应和刘德华挽手走红毯",
+        "onboard_time": 1749914901,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165627,
+        "num": 165627,
+        "word": "李晟李佳航好六预告",
+        "onboard_time": 1749915682,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149019,
+        "num": 149019,
+        "word": "六级",
+        "onboard_time": 1749892832,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145125,
+        "num": 145125,
+        "word": "伊朗",
+        "onboard_time": 1749907461,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143694,
+        "num": 143694,
+        "word": "贺峻霖战至巅峰从20岁打到21岁",
+        "onboard_time": 1749917961,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136852,
+        "num": 136852,
+        "word": "眼科医生提醒改掉4个涨度数坏习惯",
+        "onboard_time": 1749913464,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126688,
+        "num": 126688,
+        "word": "tabe发言",
+        "onboard_time": 1749917902,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123250,
+        "num": 123250,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1749914841,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117396,
+        "num": 117396,
+        "word": "伊朗对以色列发动5轮袭击",
+        "onboard_time": 1749907523,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53711,
+        "num": 112786,
+        "word": "总台女记者从伊朗首都发回报道",
+        "onboard_time": 1749919160,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112547,
+        "num": 112547,
+        "word": "严浩翔微笑拒绝法则",
+        "onboard_time": 1749908662,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111046,
+        "num": 111046,
+        "word": "Cat说打比赛心态有变化",
+        "onboard_time": 1749915563,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110753,
+        "num": 110753,
+        "word": "美在以色列海岸线部署数艘驱逐舰",
+        "onboard_time": 1749914841,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101301,
+        "num": 101301,
+        "word": "六级答案",
+        "onboard_time": 1749894083,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100464,
+        "num": 100464,
+        "word": "檀健次把音乐节开成个人演唱会",
+        "onboard_time": 1749917721,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23482,
+        "num": 98992,
+        "word": "天津津门虎1比0山东泰山",
+        "onboard_time": 1749918800,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97940,
+        "num": 97940,
+        "word": "刘浩存感谢大家在这个夏天的陪伴",
+        "onboard_time": 1749916342,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97076,
+        "num": 97076,
+        "word": "杨幂又在红毯搞抽象",
+        "onboard_time": 1749910884,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96303,
+        "num": 96303,
+        "word": "Knight希望画个好一点的句号",
+        "onboard_time": 1749914242,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93392,
+        "num": 93392,
+        "word": "老板多嘴一问成功保住顾客10万元",
+        "onboard_time": 1749912143,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 92442,
+        "num": 92442,
+        "word": "前妻偷偷生了我的孩子",
+        "onboard_time": 1749897021,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92102,
+        "num": 92102,
+        "word": "环保少女妹妹发性感视频",
+        "onboard_time": 1749909802,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89502,
+        "num": 89502,
+        "word": "张元英剪了刘海",
+        "onboard_time": 1749904642,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88801,
+        "num": 88801,
+        "word": "全员加速中",
+        "onboard_time": 1749914363,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87567,
+        "num": 87567,
+        "word": "文俊辉晚宴氛围感",
+        "onboard_time": 1749919459,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86544,
+        "num": 86544,
+        "word": "酱园弄悬案上影节口碑",
+        "onboard_time": 1749913823,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席复信使我们感受到被重视和尊重#"
+    }
+  }
+}
