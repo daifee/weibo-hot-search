@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749906160926,
+  "endTime": 1749907962878,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -123,6 +123,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1187753,
+      "num": 1190040,
+      "word": "黄子韬现场发火中断考核",
+      "onboard_time": 1749904522,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1121660,
       "num": 1121660,
       "word": "杨幂手拿荔枝",
@@ -177,6 +185,14 @@
       "onboard_time": 1749824969,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 891515,
+      "num": 635499,
+      "word": "欧阳娜娜生日用蛋糕把自己围起来",
+      "onboard_time": 1749907523,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 887604,
@@ -251,6 +267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 734449,
+      "num": 734449,
+      "word": "AL战胜BLG",
+      "onboard_time": 1749906684,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 722293,
       "num": 667332,
       "word": "儿子接受不了陈楚生不是第一",
@@ -281,14 +305,6 @@
       "onboard_time": 1749897021,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 703190,
-      "num": 703190,
-      "word": "黄子韬现场发火中断考核",
-      "onboard_time": 1749904522,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 698622,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 638548,
+      "num": 638548,
+      "word": "以色列",
+      "onboard_time": 1749905002,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 630482,
       "num": 630482,
       "word": "罗马仕公开声明",
@@ -363,8 +387,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 617100,
-      "num": 617100,
+      "raw_hot": 622745,
+      "num": 622745,
       "word": "杭州警方通报女子遭持刀挟持",
       "onboard_time": 1749902662,
       "rank": 8,
@@ -507,6 +531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 479466,
+      "num": 479466,
+      "word": "张元英剪了刘海",
+      "onboard_time": 1749904642,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 470143,
       "num": 470143,
       "word": "伊朗爆发全国性示威活动",
@@ -537,6 +569,14 @@
       "onboard_time": 1749895222,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 455359,
+      "num": 455359,
+      "word": "AL对战BLG",
+      "onboard_time": 1749892410,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 451446,
@@ -571,20 +611,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 435098,
-      "num": 435098,
-      "word": "AL对战BLG",
-      "onboard_time": 1749892410,
-      "rank": 19,
+      "raw_hot": 426728,
+      "num": 426728,
+      "word": "AL拿到三个赛点",
+      "onboard_time": 1749906443,
+      "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 425117,
-      "num": 425117,
-      "word": "张元英剪了刘海",
-      "onboard_time": 1749904642,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 424531,
@@ -731,6 +763,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 348466,
+      "num": 348466,
+      "word": "万象城",
+      "onboard_time": 1749904400,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347706,
       "num": 436052,
       "word": "中国航司恢复接收波音787",
@@ -787,14 +827,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 341638,
-      "num": 341638,
-      "word": "万象城",
-      "onboard_time": 1749904400,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 334220,
       "num": 352381,
       "word": "倪妮玫瑰高定",
@@ -825,6 +857,14 @@
       "onboard_time": 1749876022,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308140,
+      "num": 341674,
+      "word": "郭麒麟红毯绑外甥",
+      "onboard_time": 1749905362,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 307456,
@@ -995,14 +1035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 268503,
-      "num": 341674,
-      "word": "郭麒麟红毯绑外甥",
-      "onboard_time": 1749905362,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 268077,
       "num": 268077,
       "word": "调查组逐一核查罗帅宇事件1281页材料",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1749881899,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 250418,
-      "num": 250418,
-      "word": "以色列",
-      "onboard_time": 1749905002,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 247102,
@@ -1555,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189537,
+      "num": 189537,
+      "word": "伊朗",
+      "onboard_time": 1749907461,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189317,
       "num": 373618,
       "word": "长安十二时辰长安的荔枝联动细节",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1749891082,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 174545,
+      "num": 174545,
+      "word": "上影节内场",
+      "onboard_time": 1749907763,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 173948,
@@ -2025,6 +2065,14 @@
       "onboard_time": 1749892832,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 149196,
+      "num": 149196,
+      "word": "吴邪和王胖子红毯跨次元同框",
+      "onboard_time": 1749907583,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 148497,
@@ -2483,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117289,
+      "num": 166348,
+      "word": "AL一号种子晋级MSI",
+      "onboard_time": 1749907943,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116131,
       "num": 116131,
       "word": "台风暴雨一起来了",
@@ -2521,6 +2577,14 @@
       "onboard_time": 1749815242,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 114326,
+      "num": 349456,
+      "word": "电影节红毯的最佳时尚单品",
+      "onboard_time": 1749904463,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 114091,
@@ -2691,6 +2755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 98668,
+      "num": 236696,
+      "word": "郑州大学偶遇姚冠宇",
+      "onboard_time": 1749907885,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97862,
       "num": 356413,
       "word": "用水暴涨1500吨后发现两个水表",
@@ -2747,11 +2819,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 94263,
-      "num": 341639,
-      "word": "电影节红毯的最佳时尚单品",
-      "onboard_time": 1749904463,
-      "rank": 19,
+      "raw_hot": 93388,
+      "num": 348720,
+      "word": "朱一龙被海龙王抓走啦",
+      "onboard_time": 1749902901,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -2849,6 +2921,14 @@
       "onboard_time": 1749888319,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76512,
+      "num": 155134,
+      "word": "iG说短暂的驻足为了更好地出发",
+      "onboard_time": 1749906564,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 75995,
@@ -3139,6 +3219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49852,
+      "num": 348467,
+      "word": "跳科目三走红记者代购起了labubu",
+      "onboard_time": 1749907045,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47946,
       "num": 166885,
       "word": "大藤沙月2比3袁嘉楠",
@@ -3379,6 +3467,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 30110,
+      "num": 192237,
+      "word": "以军称民众不必停留在防空洞附近",
+      "onboard_time": 1749906143,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29950,
+      "num": 480654,
+      "word": "伊朗对以色列发动5轮袭击",
+      "onboard_time": 1749907523,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29597,
       "num": 1177234,
       "word": "90秒感受三夏收获的幸福感",
@@ -3433,6 +3537,14 @@
       "onboard_time": 1749841696,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27993,
+      "num": 230767,
+      "word": "老人在绿地摔倒受伤致残后起诉公园",
+      "onboard_time": 1749907641,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27800,
@@ -3547,12 +3659,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19214,
-      "num": 181943,
-      "word": "以军称民众不必停留在防空洞附近",
-      "onboard_time": 1749906143,
-      "rank": 39,
+      "raw_hot": 18861,
+      "num": 189794,
+      "word": "以军阻止美国媒体拍军事建筑",
+      "onboard_time": 1749907885,
+      "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18732,
+      "num": 246512,
+      "word": "标足金999的labubu挂饰可能是合金",
+      "onboard_time": 1749907822,
+      "rank": 26,
+      "category": ""
     },
     {
       "raw_hot": 17122,
