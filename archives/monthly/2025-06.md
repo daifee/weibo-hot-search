@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/14 23:24:59
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/14 23:39:46
 </p>
 </blockquote>
 <p>
@@ -1317,6 +1317,12 @@ afternoon怎么变形（热度：1248150）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E4%BD%93%E5%86%85%E8%97%8F52%E5%B9%B4%E7%89%99%E5%88%B7%E7%A7%B0%E4%BB%A5%E4%B8%BA%E8%83%BD%E6%BA%B6%E8%A7%A3%E6%8E%89%23" target="weibo">
+大爷体内藏52年牙刷称以为能溶解掉（热度：1239421）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%B0%8F%E5%BD%A4%20%E5%8E%9F%E6%9D%A5%E5%BE%97%E4%BA%86%E7%BB%9D%E7%97%87%E4%B8%8D%E4%BC%9A%E5%93%AD%23" target="weibo">
 于小彤 原来得了绝症不会哭（热度：1237197）
 </a>
@@ -1331,12 +1337,6 @@ afternoon怎么变形（热度：1248150）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E9%97%A8%E5%8F%A3%E5%80%92%E9%97%AD%E7%9A%84%E5%BA%97%E5%9B%A0%E7%88%B1%E9%87%8D%E7%94%9F%E4%BA%86%23" target="weibo">
 小学门口倒闭的店因爱重生了（热度：1236397）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E4%BD%93%E5%86%85%E8%97%8F52%E5%B9%B4%E7%89%99%E5%88%B7%E7%A7%B0%E4%BB%A5%E4%B8%BA%E8%83%BD%E6%BA%B6%E8%A7%A3%E6%8E%89%23" target="weibo">
-大爷体内藏52年牙刷称以为能溶解掉（热度：1234360）
 </a>
 </li>
 

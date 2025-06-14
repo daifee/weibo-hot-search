@@ -1,6 +1,6 @@
 {
   "startTime": 1749313801992,
-  "endTime": 1749914699820,
+  "endTime": 1749915586461,
   "band_list": [
     {
       "raw_hot": 17710576,
@@ -955,7 +955,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1234360,
+      "raw_hot": 1239421,
       "num": 313550,
       "word": "大爷体内藏52年牙刷称以为能溶解掉",
       "onboard_time": 1749911364,
@@ -2572,7 +2572,7 @@
     },
     {
       "raw_hot": 630076,
-      "num": 485208,
+      "num": 496986,
       "word": "加州偶遇王一博",
       "onboard_time": 1749911183,
       "rank": 19,
@@ -4259,6 +4259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423854,
+      "num": 423854,
+      "word": "王毅分别同伊朗外长和以色列外长通电话",
+      "onboard_time": 1749914004,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 422794,
       "num": 355491,
       "word": "裴秀智没去Min的婚礼",
@@ -4481,6 +4489,14 @@
       "onboard_time": 1749615682,
       "rank": 33,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 407818,
+      "num": 178221,
+      "word": "抖音崩了",
+      "onboard_time": 1749914782,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 407687,
@@ -7523,6 +7539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 250636,
+      "num": 208021,
+      "word": "眼科医生提醒改掉4个涨度数坏习惯",
+      "onboard_time": 1749913464,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 250385,
       "num": 250385,
       "word": "雷军将启动法律程序",
@@ -7753,14 +7777,6 @@
       "onboard_time": 1749469880,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 241746,
-      "num": 355549,
-      "word": "王毅分别同伊朗外长和以色列外长通电话",
-      "onboard_time": 1749914004,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 241215,
@@ -9307,6 +9323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207946,
+      "num": 217641,
+      "word": "酱园弄悬案上影节口碑",
+      "onboard_time": 1749913823,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207814,
       "num": 367020,
       "word": "何瑞贤新剧是白鹿梦女",
@@ -9561,6 +9585,14 @@
       "onboard_time": 1749445942,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205239,
+      "num": 202200,
+      "word": "陷入我们的热恋",
+      "onboard_time": 1749914841,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 205168,
@@ -10907,6 +10939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190332,
+      "num": 190332,
+      "word": "AG战胜eStar",
+      "onboard_time": 1749915563,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190320,
       "num": 190320,
       "word": "林昀儒3比0敖华磊",
@@ -11113,6 +11153,14 @@
       "onboard_time": 1749683358,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188543,
+      "num": 188543,
+      "word": "全员加速中",
+      "onboard_time": 1749407655,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 188302,
@@ -12113,6 +12161,14 @@
       "onboard_time": 1749723743,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177623,
+      "num": 177623,
+      "word": "Knight希望画个好一点的句号",
+      "onboard_time": 1749914242,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 177563,
@@ -13283,14 +13339,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 166009,
-      "num": 166009,
-      "word": "酱园弄悬案上影节口碑",
-      "onboard_time": 1749913823,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 165940,
       "num": 588174,
       "word": "以军称发现哈马斯领导人遗体",
@@ -13505,14 +13553,6 @@
       "onboard_time": 1749353662,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 164535,
-      "num": 164535,
-      "word": "全员加速中",
-      "onboard_time": 1749407655,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 164497,
@@ -13913,14 +13953,6 @@
       "onboard_time": 1749905842,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 160954,
-      "num": 160954,
-      "word": "眼科医生提醒改掉4个涨度数坏习惯",
-      "onboard_time": 1749913464,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 160914,
@@ -14761,6 +14793,14 @@
       "onboard_time": 1749644901,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153495,
+      "num": 222775,
+      "word": "老板多嘴一问成功保住顾客10万元",
+      "onboard_time": 1749912143,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 153447,
@@ -16083,14 +16123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143139,
-      "num": 143139,
-      "word": "老板多嘴一问成功保住顾客10万元",
-      "onboard_time": 1749912143,
-      "rank": 37,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 143096,
       "num": 143096,
       "word": "华为Pura80系列预约破27万",
@@ -17035,6 +17067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135234,
+      "num": 135234,
+      "word": "杨幂回应和刘德华挽手走红毯",
+      "onboard_time": 1749914901,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135169,
       "num": 170836,
       "word": "小石头又要和他的偶像打球了",
@@ -17065,6 +17105,14 @@
       "onboard_time": 1749718401,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135050,
+      "num": 135050,
+      "word": "Elk赛后发文",
+      "onboard_time": 1749914722,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 134911,
@@ -18187,6 +18235,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 125709,
+      "num": 125709,
+      "word": "华晨宇在舞台上打了一套太极",
+      "onboard_time": 1749915262,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125673,
       "num": 125673,
       "word": "上午咖啡 下午非咖",
@@ -18721,14 +18777,6 @@
       "onboard_time": 1749567682,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120621,
-      "num": 135112,
-      "word": "Knight希望画个好一点的句号",
-      "onboard_time": 1749914242,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 120543,
@@ -19275,6 +19323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115089,
+      "num": 115089,
+      "word": "美在以色列海岸线部署数艘驱逐舰",
+      "onboard_time": 1749914841,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115079,
       "num": 115079,
       "word": "单依纯这盛世如你所愿",
@@ -19497,6 +19553,14 @@
       "onboard_time": 1749397404,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113160,
+      "num": 113160,
+      "word": "Cat说打比赛心态有变化",
+      "onboard_time": 1749915563,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 113019,
@@ -20281,6 +20345,14 @@
       "onboard_time": 1749821666,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100855,
+      "num": 127817,
+      "word": "凯斯无缘女王杯决赛",
+      "onboard_time": 1749915083,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 100712,
@@ -25715,6 +25787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28683,
+      "num": 208071,
+      "word": "馆长赞大陆高铁站比台湾机场大",
+      "onboard_time": 1749914663,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28641,
       "num": 42883,
       "word": "高考天气",
@@ -25921,6 +26001,14 @@
       "onboard_time": 1749724583,
       "rank": 28,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 27190,
+      "num": 178410,
+      "word": "央视曝光涉高考诈骗套路",
+      "onboard_time": 1749914242,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27088,
@@ -26273,14 +26361,6 @@
       "onboard_time": 1749810442,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 23327,
-      "num": 131885,
-      "word": "馆长赞大陆高铁站比台湾机场大",
-      "onboard_time": 1749914663,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23280,
@@ -26969,14 +27049,6 @@
       "onboard_time": 1749480082,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15527,
-      "num": 165261,
-      "word": "央视曝光涉高考诈骗套路",
-      "onboard_time": 1749914242,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15325,

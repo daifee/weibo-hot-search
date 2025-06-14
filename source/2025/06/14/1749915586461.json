@@ -1,0 +1,410 @@
+{
+  "runTime": 1749915586461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 817762,
+        "num": 1130842,
+        "word": "黄子韬现场发火中断考核",
+        "onboard_time": 1749904522,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695521,
+        "num": 695521,
+        "word": "以色列",
+        "onboard_time": 1749905002,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69515,
+        "num": 531742,
+        "word": "糖画和文化遗产这一刻融合了",
+        "onboard_time": 1749909863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 702411,
+        "num": 530883,
+        "word": "刘宇宁 没收到过剧本",
+        "onboard_time": 1749898045,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529588,
+        "num": 529588,
+        "word": "43岁张亮与10岁女儿合拍杂志",
+        "onboard_time": 1749902483,
+        "rank": 4,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 506218,
+        "num": 506218,
+        "word": "婚宴252桌花50万嫌贵拒付款后续",
+        "onboard_time": 1749911063,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529507,
+        "num": 496986,
+        "word": "加州偶遇王一博",
+        "onboard_time": 1749911183,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423854,
+        "num": 423854,
+        "word": "王毅分别同伊朗外长和以色列外长通电话",
+        "onboard_time": 1749914004,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257533,
+        "num": 368187,
+        "word": "泡泡玛特中止labubu韩国线下销售",
+        "onboard_time": 1749887900,
+        "rank": 8,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 358864,
+        "num": 358864,
+        "word": "Bin哥 嘴硬",
+        "onboard_time": 1749909802,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2864195,
+        "num": 327189,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 10,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1239421,
+        "num": 278559,
+        "word": "大爷体内藏52年牙刷称以为能溶解掉",
+        "onboard_time": 1749911364,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227454,
+        "num": 227454,
+        "word": "杨幂又在红毯搞抽象",
+        "onboard_time": 1749910884,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227089,
+        "num": 227089,
+        "word": "伊朗对以色列发动5轮袭击",
+        "onboard_time": 1749907523,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153495,
+        "num": 222775,
+        "word": "老板多嘴一问成功保住顾客10万元",
+        "onboard_time": 1749912143,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 208077,
+        "num": 218083,
+        "word": "前妻偷偷生了我的孩子",
+        "onboard_time": 1749897021,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207946,
+        "num": 217641,
+        "word": "酱园弄悬案上影节口碑",
+        "onboard_time": 1749913823,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80107,
+        "num": 208774,
+        "word": "大众ID3官改概念车太超前了",
+        "onboard_time": 1749912023,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 208302,
+        "num": 208302,
+        "word": "六级",
+        "onboard_time": 1749892832,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28683,
+        "num": 208071,
+        "word": "馆长赞大陆高铁站比台湾机场大",
+        "onboard_time": 1749914663,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250636,
+        "num": 208021,
+        "word": "眼科医生提醒改掉4个涨度数坏习惯",
+        "onboard_time": 1749913464,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207941,
+        "num": 207941,
+        "word": "伊朗",
+        "onboard_time": 1749907461,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204549,
+        "num": 204549,
+        "word": "劳力士店员否认曾毅戴表为自家品牌",
+        "onboard_time": 1749894743,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205239,
+        "num": 202200,
+        "word": "陷入我们的热恋",
+        "onboard_time": 1749914841,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199345,
+        "num": 199345,
+        "word": "欧阳娜娜生日用蛋糕把自己围起来",
+        "onboard_time": 1749907523,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196228,
+        "num": 196228,
+        "word": "陆虎Labubu舞台造型",
+        "onboard_time": 1749909083,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194486,
+        "num": 194486,
+        "word": "张元英剪了刘海",
+        "onboard_time": 1749904642,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190332,
+        "num": 190332,
+        "word": "AG战胜eStar",
+        "onboard_time": 1749915563,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188543,
+        "num": 188543,
+        "word": "全员加速中",
+        "onboard_time": 1749914363,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27190,
+        "num": 178410,
+        "word": "央视曝光涉高考诈骗套路",
+        "onboard_time": 1749914242,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407818,
+        "num": 178221,
+        "word": "抖音崩了",
+        "onboard_time": 1749914782,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177623,
+        "num": 177623,
+        "word": "Knight希望画个好一点的句号",
+        "onboard_time": 1749914242,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157988,
+        "num": 157988,
+        "word": "环保少女妹妹发性感视频",
+        "onboard_time": 1749909802,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154702,
+        "num": 154702,
+        "word": "8岁男童走失40余天家属最新发声",
+        "onboard_time": 1749908124,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154455,
+        "num": 154455,
+        "word": "酱园弄",
+        "onboard_time": 1749894984,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153306,
+        "num": 153306,
+        "word": "六级答案",
+        "onboard_time": 1749894083,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147569,
+        "num": 147569,
+        "word": "王怡人回内娱第一份工作",
+        "onboard_time": 1749911664,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135234,
+        "num": 135234,
+        "word": "杨幂回应和刘德华挽手走红毯",
+        "onboard_time": 1749914901,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135050,
+        "num": 135050,
+        "word": "Elk赛后发文",
+        "onboard_time": 1749914722,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100855,
+        "num": 127817,
+        "word": "凯斯无缘女王杯决赛",
+        "onboard_time": 1749915083,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125709,
+        "num": 125709,
+        "word": "华晨宇在舞台上打了一套太极",
+        "onboard_time": 1749915262,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117213,
+        "num": 117213,
+        "word": "宋威龙不可以名场面是临场发挥的",
+        "onboard_time": 1749911542,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115089,
+        "num": 115089,
+        "word": "美在以色列海岸线部署数艘驱逐舰",
+        "onboard_time": 1749914841,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114455,
+        "num": 114455,
+        "word": "檀健次赴一场热烈共振的声浪",
+        "onboard_time": 1749914242,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113160,
+        "num": 113160,
+        "word": "Cat说打比赛心态有变化",
+        "onboard_time": 1749915563,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108263,
+        "num": 108263,
+        "word": "中国三航母时代即将到来",
+        "onboard_time": 1749898582,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106932,
+        "num": 106932,
+        "word": "苏超最新积分榜公布",
+        "onboard_time": 1749910403,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104431,
+        "num": 104431,
+        "word": "国足再弱也轮不到业余足球挑战",
+        "onboard_time": 1749888201,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103269,
+        "num": 103269,
+        "word": "克莱鼻涕",
+        "onboard_time": 1749912503,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103075,
+        "num": 103075,
+        "word": "周深的摄像师集体背题上岗",
+        "onboard_time": 1749913583,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席复信使我们感受到被重视和尊重#"
+    }
+  }
+}
