@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749925953191,
+  "endTime": 1749926823687,
   "band_list": [
     {
       "raw_hot": 1752363,
@@ -515,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30802,
+      "num": 30802,
+      "word": "新说唱",
+      "onboard_time": 1749926295,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28929,
       "num": 28929,
       "word": "汪苏泷珍珠套装2.0",
@@ -537,6 +545,22 @@
       "onboard_time": 1749925936,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26442,
+      "num": 27818,
+      "word": "无名之辈",
+      "onboard_time": 1749926775,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 26420,
+      "num": 27807,
+      "word": "酱园弄",
+      "onboard_time": 1749894984,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 23482,
