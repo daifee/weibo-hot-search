@@ -1,0 +1,410 @@
+{
+  "runTime": 1749873501285,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4431041,
+        "num": 4431041,
+        "word": "四级",
+        "onboard_time": 1749866060,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2261783,
+        "num": 2261783,
+        "word": "四级作文",
+        "onboard_time": 1749869062,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 48116,
+        "num": 2193028,
+        "word": "中国59项世界遗产图鉴",
+        "onboard_time": 1749862521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2152259,
+        "num": 2152259,
+        "word": "四级作文AI",
+        "onboard_time": 1749872663,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1980255,
+        "num": 1980255,
+        "word": "迪士尼 私联",
+        "onboard_time": 1749870381,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1280429,
+        "num": 1280429,
+        "word": "曾毅自曝曾脚踹女员工",
+        "onboard_time": 1749857899,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1080670,
+        "num": 1080670,
+        "word": "北京多所高校禁用罗马仕充电宝",
+        "onboard_time": 1749867201,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 887604,
+        "num": 887604,
+        "word": "四六级",
+        "onboard_time": 1749825507,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 837837,
+        "num": 837837,
+        "word": "四级答案",
+        "onboard_time": 1749872541,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 434593,
+        "num": 763823,
+        "word": "金晨因赛车故障无缘比赛落泪",
+        "onboard_time": 1749860660,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735290,
+        "num": 735290,
+        "word": "伊朗向以色列发射约150枚导弹",
+        "onboard_time": 1749856280,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 583970,
+        "num": 583970,
+        "word": "四级作文 梦到哪句写哪句",
+        "onboard_time": 1749872422,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 503315,
+        "num": 503315,
+        "word": "四级翻译",
+        "onboard_time": 1749872541,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 449909,
+        "num": 449909,
+        "word": "以色列女子哭着说新房子被炸了",
+        "onboard_time": 1749868340,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 430345,
+        "num": 430345,
+        "word": "孟子义聊生理期大大方方的",
+        "onboard_time": 1749862281,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150144,
+        "num": 383011,
+        "word": "以色列官方尚未证实其F35战机被伊朗击落",
+        "onboard_time": 1749873081,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 375480,
+        "num": 375480,
+        "word": "单依纯 好红啊这个节目",
+        "onboard_time": 1749867260,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401781,
+        "num": 374760,
+        "word": "我本是玫瑰今晚来好六",
+        "onboard_time": 1749870381,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425450,
+        "num": 370765,
+        "word": "蝴蝶",
+        "onboard_time": 1749866060,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30330,
+        "num": 364868,
+        "word": "怎么拉伸能提升精气神",
+        "onboard_time": 1749872541,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 500107,
+        "num": 362534,
+        "word": "24岁胃癌博主回应不良作息习惯",
+        "onboard_time": 1749871281,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 360700,
+        "num": 360700,
+        "word": "恋与深空",
+        "onboard_time": 1749821246,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 347342,
+        "num": 347342,
+        "word": "四级阅读",
+        "onboard_time": 1749872782,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 340892,
+        "num": 340892,
+        "word": "伊媒体公布以色列F35战机残骸照片",
+        "onboard_time": 1749866720,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257908,
+        "num": 323947,
+        "word": "女友长得像单依纯是什么体验",
+        "onboard_time": 1749865159,
+        "rank": 24,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 147235,
+        "num": 315134,
+        "word": "中国汽车凭实力赢得尊重",
+        "onboard_time": 1749870260,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313377,
+        "num": 313377,
+        "word": "F35",
+        "onboard_time": 1749866060,
+        "rank": 26,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 273986,
+        "num": 311554,
+        "word": "时代少年团坐labubu那桌",
+        "onboard_time": 1749872123,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200036,
+        "num": 310632,
+        "word": "锦绣芳华预约量破200万",
+        "onboard_time": 1749872123,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198050,
+        "num": 306971,
+        "word": "陈妍希看孙燕姿演唱会哭了半场",
+        "onboard_time": 1749871161,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128823,
+        "num": 305439,
+        "word": "京东苏超",
+        "onboard_time": 1749867801,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302844,
+        "num": 302844,
+        "word": "恋与深空日卡2.0",
+        "onboard_time": 1749872902,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293586,
+        "num": 293586,
+        "word": "祁煜利莫里亚海神",
+        "onboard_time": 1749871883,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291061,
+        "num": 291061,
+        "word": "田柾国道歉",
+        "onboard_time": 1749856698,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278157,
+        "num": 278157,
+        "word": "不穿防晒出门的人现在都怎么样了",
+        "onboard_time": 1749871281,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 271855,
+        "num": 271855,
+        "word": "哈梅内伊称将彻底摧毁以政权",
+        "onboard_time": 1749870622,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260683,
+        "num": 260683,
+        "word": "六级",
+        "onboard_time": 1749868580,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239416,
+        "num": 239416,
+        "word": "四六级尺子蒙题大法",
+        "onboard_time": 1749872123,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 63109,
+        "num": 232395,
+        "word": "导弹袭击以色列现场视频合集",
+        "onboard_time": 1749871582,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231735,
+        "num": 231735,
+        "word": "伊军高层被骗聚集开会司令等被炸死",
+        "onboard_time": 1749872902,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223651,
+        "num": 223651,
+        "word": "18月龄幼童被饭店客人灌50毫升啤酒",
+        "onboard_time": 1749861200,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203390,
+        "num": 203390,
+        "word": "罗马仕",
+        "onboard_time": 1749871221,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202977,
+        "num": 202977,
+        "word": "冰雪大世界翻译",
+        "onboard_time": 1749873022,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190423,
+        "num": 190423,
+        "word": "杂交水稻",
+        "onboard_time": 1749872902,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181716,
+        "num": 181716,
+        "word": "六级作文",
+        "onboard_time": 1749873262,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172674,
+        "num": 172674,
+        "word": "爸爸49元给女儿买30斤大冬瓜抱睡",
+        "onboard_time": 1749858319,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171251,
+        "num": 171251,
+        "word": "大爷被咬后一脚将蛇踩死带着去就医",
+        "onboard_time": 1749830541,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161004,
+        "num": 161004,
+        "word": "第一批高考生已经到王一博老家了",
+        "onboard_time": 1749841334,
+        "rank": 47,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 151258,
+        "num": 151258,
+        "word": "王伟忠推藏海传",
+        "onboard_time": 1749872002,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152061,
+        "num": 150008,
+        "word": "谁给曾毅想的公关",
+        "onboard_time": 1749836178,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#紧紧依靠人民创造历史伟业#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1749871898027,
+  "endTime": 1749873501285,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1603,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4431041,
+      "num": 4431041,
+      "word": "四级",
+      "onboard_time": 1740525013,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 4416500,
       "num": 1716217,
       "word": "再见了杉菜",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744203266,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 3458319,
-      "num": 3458319,
-      "word": "五三惨案",
-      "onboard_time": 1746242841,
-      "rank": 0,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
