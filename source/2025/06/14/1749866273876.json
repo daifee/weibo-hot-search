@@ -1,0 +1,410 @@
+{
+  "runTime": 1749866273876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 619348,
+        "num": 1099095,
+        "word": "伊朗向以色列发射约150枚导弹",
+        "onboard_time": 1749856280,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1459432,
+        "num": 1003639,
+        "word": "曾毅自曝曾脚踹女员工",
+        "onboard_time": 1749857899,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21813,
+        "num": 582215,
+        "word": "数里行间感知经济活力",
+        "onboard_time": 1749825030,
+        "rank": 2,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 572863,
+        "num": 572863,
+        "word": "罗帅宇坠亡后手机有3次通话记录",
+        "onboard_time": 1749857419,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 360549,
+        "num": 360549,
+        "word": "金晨因赛车故障无缘比赛落泪",
+        "onboard_time": 1749860660,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3730986,
+        "num": 360243,
+        "word": "官方通报罗帅宇事件",
+        "onboard_time": 1749820945,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 358909,
+        "num": 358909,
+        "word": "大爷被咬后一脚将蛇踩死带着去就医",
+        "onboard_time": 1749830541,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312865,
+        "num": 312865,
+        "word": "F35",
+        "onboard_time": 1749866060,
+        "rank": 7,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 311843,
+        "num": 311843,
+        "word": "第一批高考生已经到王一博老家了",
+        "onboard_time": 1749841334,
+        "rank": 8,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 275800,
+        "num": 275800,
+        "word": "蝴蝶",
+        "onboard_time": 1749866060,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1222752,
+        "num": 273411,
+        "word": "罗帅宇158段录音为工作吃饭闲聊等",
+        "onboard_time": 1749830122,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 641522,
+        "num": 270048,
+        "word": "孟子义聊生理期大大方方的",
+        "onboard_time": 1749862281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344721,
+        "num": 263316,
+        "word": "谁给曾毅想的公关",
+        "onboard_time": 1749836178,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252850,
+        "num": 252850,
+        "word": "伊朗导弹已致以色列1死50伤",
+        "onboard_time": 1749859159,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244829,
+        "num": 244829,
+        "word": "田柾国道歉",
+        "onboard_time": 1749856698,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238731,
+        "num": 238731,
+        "word": "印度坠机事故遇难人数升至274人",
+        "onboard_time": 1749861260,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230280,
+        "num": 230280,
+        "word": "女友长得像单依纯是什么体验",
+        "onboard_time": 1749865159,
+        "rank": 16,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 186611,
+        "num": 230091,
+        "word": "儿子接受不了陈楚生不是第一",
+        "onboard_time": 1749828264,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180726,
+        "num": 229724,
+        "word": "歌手排名",
+        "onboard_time": 1749824969,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150233,
+        "num": 229250,
+        "word": "邓超有个事放在我心里快一个月了",
+        "onboard_time": 1749828624,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473668,
+        "num": 228525,
+        "word": "18月龄幼童被饭店客人灌50毫升啤酒",
+        "onboard_time": 1749861200,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363710,
+        "num": 227834,
+        "word": "男子按摩后下身不适索赔5万",
+        "onboard_time": 1749863420,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233207,
+        "num": 227501,
+        "word": "男子因老人看孩子问题积怨杀妻",
+        "onboard_time": 1749858319,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227268,
+        "num": 227268,
+        "word": "湘雅二院涉事科室主任等4人被问责",
+        "onboard_time": 1749823527,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 203453,
+        "num": 203453,
+        "word": "爸爸49元给女儿买30斤大冬瓜抱睡",
+        "onboard_time": 1749858319,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179359,
+        "num": 179359,
+        "word": "85岁妻子没上进心93岁男子起诉离婚",
+        "onboard_time": 1749820466,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126718,
+        "num": 176414,
+        "word": "安徽75岁失独母亲回应女儿中考",
+        "onboard_time": 1749860000,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 174237,
+        "num": 174237,
+        "word": "向罗帅宇发放33万29万为他人绩效",
+        "onboard_time": 1749826166,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 173460,
+        "num": 173460,
+        "word": "轻断食5天掉12斤攻略",
+        "onboard_time": 1749858559,
+        "rank": 28,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 104474,
+        "num": 169216,
+        "word": "内娱男孩没什么技巧就是硬帅",
+        "onboard_time": 1749864379,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168482,
+        "num": 168482,
+        "word": "我国每5只帝王蟹4只来自吉林",
+        "onboard_time": 1749860600,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163371,
+        "num": 163371,
+        "word": "四级",
+        "onboard_time": 1749866060,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132474,
+        "num": 132474,
+        "word": "以色列对伊朗发动打击",
+        "onboard_time": 1749773961,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105617,
+        "num": 132468,
+        "word": "美海军陆战队进驻洛杉矶执勤",
+        "onboard_time": 1749866060,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132468,
+        "num": 132467,
+        "word": "四六级",
+        "onboard_time": 1749825507,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102386,
+        "num": 131347,
+        "word": "GAI第一",
+        "onboard_time": 1749824609,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130432,
+        "num": 130432,
+        "word": "伊朗爆发全国性示威活动",
+        "onboard_time": 1749828863,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118569,
+        "num": 118569,
+        "word": "张元英跳舞",
+        "onboard_time": 1749859400,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103102,
+        "num": 118534,
+        "word": "马嘉祺云端",
+        "onboard_time": 1749863719,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67060,
+        "num": 118533,
+        "word": "陈雨菲手机里最有名的人是汪顺",
+        "onboard_time": 1749866179,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118533,
+        "num": 118532,
+        "word": "关注以色列伊朗局势",
+        "onboard_time": 1749866060,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117339,
+        "num": 117339,
+        "word": "郑钦文2比0拉杜卡努",
+        "onboard_time": 1749864260,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108013,
+        "num": 108013,
+        "word": "美国洛杉矶已超500人被捕",
+        "onboard_time": 1749866119,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106424,
+        "num": 106424,
+        "word": "以色列新一轮打击开始",
+        "onboard_time": 1749857599,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104016,
+        "num": 104016,
+        "word": "台风",
+        "onboard_time": 1749862521,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100313,
+        "num": 100313,
+        "word": "马嘉祺 难听",
+        "onboard_time": 1749820524,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98380,
+        "num": 98380,
+        "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
+        "onboard_time": 1749825985,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 97830,
+        "num": 97830,
+        "word": "泡泡玛特情绪经济",
+        "onboard_time": 1749863120,
+        "rank": 47,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 97357,
+        "num": 97357,
+        "word": "以色列空袭已致伊朗78死329伤",
+        "onboard_time": 1749818784,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82375,
+        "num": 97300,
+        "word": "中国59项世界遗产图鉴",
+        "onboard_time": 1749862521,
+        "rank": 49,
+        "category": "民生新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#纪念陈云同志诞辰120周年#"
+    }
+  }
+}

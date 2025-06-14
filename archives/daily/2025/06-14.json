@@ -1,6 +1,6 @@
 {
   "startTime": 1749832373239,
-  "endTime": 1749858031857,
+  "endTime": 1749866273876,
   "band_list": [
     {
       "raw_hot": 6420820,
@@ -17,6 +17,14 @@
       "onboard_time": 1749830122,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1459432,
+      "num": 1003639,
+      "word": "曾毅自曝曾脚踹女员工",
+      "onboard_time": 1749857899,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 945685,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 720924,
-      "num": 720924,
+      "num": 1099095,
       "word": "伊朗向以色列发射约150枚导弹",
       "onboard_time": 1749856280,
       "rank": 12,
@@ -83,6 +91,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 641522,
+      "num": 270048,
+      "word": "孟子义聊生理期大大方方的",
+      "onboard_time": 1749862281,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 572863,
+      "num": 572863,
+      "word": "罗帅宇坠亡后手机有3次通话记录",
+      "onboard_time": 1749857419,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 539361,
       "num": 539361,
       "word": "湘雅二院涉事科室主任等4人被问责",
@@ -97,6 +121,14 @@
       "onboard_time": 1749825090,
       "rank": 11,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 473668,
+      "num": 228525,
+      "word": "18月龄幼童被饭店客人灌50毫升啤酒",
+      "onboard_time": 1749861200,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 470143,
@@ -147,12 +179,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363710,
+      "num": 227834,
+      "word": "男子按摩后下身不适索赔5万",
+      "onboard_time": 1749863420,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360549,
+      "num": 360549,
+      "word": "金晨因赛车故障无缘比赛落泪",
+      "onboard_time": 1749860660,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 312865,
+      "num": 312865,
+      "word": "F35",
+      "onboard_time": 1749866060,
+      "rank": 7,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 290387,
       "num": 368053,
       "word": "网红刘琳琳被曝直播时辱骂观众",
       "onboard_time": 1749847995,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 275800,
+      "num": 275800,
+      "word": "蝴蝶",
+      "onboard_time": 1749866060,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 273581,
@@ -179,6 +243,46 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252850,
+      "num": 252850,
+      "word": "伊朗导弹已致以色列1死50伤",
+      "onboard_time": 1749859159,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 244829,
+      "num": 244829,
+      "word": "田柾国道歉",
+      "onboard_time": 1749856698,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 238731,
+      "num": 238731,
+      "word": "印度坠机事故遇难人数升至274人",
+      "onboard_time": 1749861260,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 233207,
+      "num": 227501,
+      "word": "男子因老人看孩子问题积怨杀妻",
+      "onboard_time": 1749858319,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230280,
+      "num": 230280,
+      "word": "女友长得像单依纯是什么体验",
+      "onboard_time": 1749865159,
+      "rank": 16,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 222683,
       "num": 222683,
       "word": "医院曾拒绝罗帅宇父母索要巨额补偿",
@@ -195,12 +299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209866,
-      "num": 209866,
-      "word": "田柾国道歉",
-      "onboard_time": 1749856698,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 203453,
+      "num": 203453,
+      "word": "爸爸49元给女儿买30斤大冬瓜抱睡",
+      "onboard_time": 1749858319,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190120,
@@ -219,12 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187644,
-      "num": 89860,
-      "word": "罗帅宇坠亡后手机有3次通话记录",
-      "onboard_time": 1749857419,
-      "rank": 30,
-      "category": "辟谣/通报"
+      "raw_hot": 173460,
+      "num": 173460,
+      "word": "轻断食5天掉12斤攻略",
+      "onboard_time": 1749858559,
+      "rank": 28,
+      "category": "情感,运动健身"
     },
     {
       "raw_hot": 171272,
@@ -243,12 +347,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168482,
+      "num": 168482,
+      "word": "我国每5只帝王蟹4只来自吉林",
+      "onboard_time": 1749860600,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165828,
       "num": 165828,
       "word": "耳帝",
       "onboard_time": 1749827964,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163371,
+      "num": 163371,
+      "word": "四级",
+      "onboard_time": 1749866060,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 162587,
@@ -347,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132468,
+      "num": 132467,
+      "word": "四六级",
+      "onboard_time": 1749825507,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 129236,
       "num": 129236,
       "word": "马嘉祺握手",
@@ -379,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126718,
+      "num": 176414,
+      "word": "安徽75岁失独母亲回应女儿中考",
+      "onboard_time": 1749860000,
+      "rank": 26,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 123975,
       "num": 123975,
       "word": "恋与深空 偷跑",
@@ -403,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119018,
-      "num": 119018,
-      "word": "四六级",
-      "onboard_time": 1749825507,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 118834,
       "num": 118834,
       "word": "台风暴雨天气最大的受害者出现了",
@@ -419,12 +547,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118569,
+      "num": 118569,
+      "word": "张元英跳舞",
+      "onboard_time": 1749859400,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118533,
+      "num": 118532,
+      "word": "关注以色列伊朗局势",
+      "onboard_time": 1749866060,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118344,
       "num": 118344,
       "word": "台风蝴蝶在海南登陆",
       "onboard_time": 1749829224,
       "rank": 45,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 117339,
+      "num": 117339,
+      "word": "郑钦文2比0拉杜卡努",
+      "onboard_time": 1749864260,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 115791,
@@ -459,12 +611,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108013,
+      "num": 108013,
+      "word": "美国洛杉矶已超500人被捕",
+      "onboard_time": 1749866119,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 106424,
+      "num": 230514,
+      "word": "以色列新一轮打击开始",
+      "onboard_time": 1749857599,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106286,
       "num": 106286,
       "word": "单依纯 李健老师没来但如来",
       "onboard_time": 1749820346,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105617,
+      "num": 132468,
+      "word": "美海军陆战队进驻洛杉矶执勤",
+      "onboard_time": 1749866060,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 104474,
+      "num": 169216,
+      "word": "内娱男孩没什么技巧就是硬帅",
+      "onboard_time": 1749864379,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 104339,
@@ -475,12 +659,36 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 104016,
+      "num": 104016,
+      "word": "台风",
+      "onboard_time": 1749862521,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103102,
+      "num": 118534,
+      "word": "马嘉祺云端",
+      "onboard_time": 1749863719,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102167,
       "num": 122641,
       "word": "耳帝评歌手第5期",
       "onboard_time": 1749832700,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97830,
+      "num": 97830,
+      "word": "泡泡玛特情绪经济",
+      "onboard_time": 1749863120,
+      "rank": 47,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 97629,
@@ -531,20 +739,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82369,
-      "num": 230514,
-      "word": "以色列新一轮打击开始",
-      "onboard_time": 1749857599,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 79625,
-      "num": 79625,
-      "word": "曾毅自曝曾脚踹女员工",
-      "onboard_time": 1749857899,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 82375,
+      "num": 97300,
+      "word": "中国59项世界遗产图鉴",
+      "onboard_time": 1749862521,
+      "rank": 49,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 75288,
@@ -569,6 +769,14 @@
       "onboard_time": 1749842955,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67060,
+      "num": 118533,
+      "word": "陈雨菲手机里最有名的人是汪顺",
+      "onboard_time": 1749866179,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 66034,
@@ -795,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21813,
+      "num": 638156,
+      "word": "数里行间感知经济活力",
+      "onboard_time": 1749825030,
+      "rank": 2,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 15177,
       "num": 56368,
       "word": "中医疗效是事实",
@@ -825,14 +1041,6 @@
       "onboard_time": 1749826525,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 13068,
-      "num": 638156,
-      "word": "数里行间感知经济活力",
-      "onboard_time": 1749825030,
-      "rank": 2,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 11781,
