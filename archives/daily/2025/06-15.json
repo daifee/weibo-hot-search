@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749973100287,
+  "endTime": 1749976259091,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -17,6 +17,14 @@
       "onboard_time": 1749909863,
       "rank": 10,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 1474725,
+      "num": 1474725,
+      "word": "短剧1胎99子",
+      "onboard_time": 1749974001,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1432003,
@@ -187,12 +195,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 554325,
+      "num": 554325,
+      "word": "虞书欣说选大爆剧的主角",
+      "onboard_time": 1749972200,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 550448,
       "num": 309595,
       "word": "大爷体内藏52年牙刷称以为能溶解掉",
       "onboard_time": 1749911364,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523917,
+      "num": 523917,
+      "word": "4类人尽量不吃或少吃荔枝",
+      "onboard_time": 1749969560,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 521762,
@@ -216,6 +240,14 @@
       "word": "伊朗导弹击中以色列能源设施",
       "onboard_time": 1749951019,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 490584,
+      "num": 490584,
+      "word": "以色列国防军总部遭袭",
+      "onboard_time": 1749973521,
+      "rank": 7,
       "category": "国际时政"
     },
     {
@@ -243,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 465731,
-      "num": 465731,
-      "word": "4类人尽量不吃或少吃荔枝",
-      "onboard_time": 1749969560,
-      "rank": 9,
-      "category": "健康医疗"
+      "raw_hot": 466329,
+      "num": 466329,
+      "word": "瘦了36斤后才敢说的实话总结",
+      "onboard_time": 1749973041,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 441468,
@@ -305,14 +337,6 @@
       "onboard_time": 1749915981,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 406671,
-      "num": 431627,
-      "word": "虞书欣说选大爆剧的主角",
-      "onboard_time": 1749972200,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 404768,
@@ -395,6 +419,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 326222,
+      "num": 326222,
+      "word": "张小婉这条微博并不是很想发",
+      "onboard_time": 1749972620,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324414,
       "num": 392103,
       "word": "婚宴252桌花50万嫌贵拒付款后续",
@@ -409,6 +441,14 @@
       "onboard_time": 1749955279,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 296322,
+      "num": 296322,
+      "word": "抖音回应涉扁担女孩账号处置过程",
+      "onboard_time": 1749974600,
+      "rank": 15,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 295018,
@@ -539,12 +579,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247869,
+      "num": 247869,
+      "word": "印度直升机坠毁7人遇难",
+      "onboard_time": 1749972440,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241009,
       "num": 204205,
       "word": "邓紫棋再唱句号终于释然",
       "onboard_time": 1749916221,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 240713,
+      "num": 537300,
+      "word": "马龙父亲节收到礼物了",
+      "onboard_time": 1749972321,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 234696,
+      "num": 234696,
+      "word": "HLE对战T1",
+      "onboard_time": 1749972680,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 233904,
@@ -595,12 +659,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 218338,
+      "num": 218338,
+      "word": "6岁女孩吃十几颗荔枝后嗜睡冒冷汗",
+      "onboard_time": 1749974480,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212657,
+      "num": 212657,
+      "word": "新说唱向严浩翔粉丝道歉",
+      "onboard_time": 1749974360,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209777,
       "num": 399459,
       "word": "王星越旁白父亲节短片太戳了",
       "onboard_time": 1749971300,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208777,
+      "num": 200408,
+      "word": "那尔那茜",
+      "onboard_time": 1749975800,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 208759,
@@ -616,6 +704,14 @@
       "word": "跟着樊振东点美团闪购",
       "onboard_time": 1749957141,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208670,
+      "num": 208670,
+      "word": "张继科杯全民乒乓球争霸赛来了",
+      "onboard_time": 1749975502,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -657,14 +753,6 @@
       "onboard_time": 1749959660,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 200976,
-      "num": 200976,
-      "word": "马龙父亲节收到礼物了",
-      "onboard_time": 1749972321,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 200752,
@@ -731,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195351,
+      "num": 201453,
+      "word": "宋亚轩刘耀文要不你俩是碗盆呢",
+      "onboard_time": 1749975141,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193916,
       "num": 193916,
       "word": "梅西倒地",
@@ -785,6 +881,14 @@
       "onboard_time": 1749917961,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186683,
+      "num": 186683,
+      "word": "多兰王朝了",
+      "onboard_time": 1749974780,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 184340,
@@ -915,6 +1019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168349,
+      "num": 168349,
+      "word": "以军向伊朗核反应堆人员发撤离警告",
+      "onboard_time": 1749973940,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 168162,
       "num": 168162,
       "word": "能养出毛利兰的人能差到哪去",
@@ -971,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157722,
-      "num": 157722,
-      "word": "印度直升机坠毁7人遇难",
-      "onboard_time": 1749972440,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 157198,
       "num": 157198,
       "word": "荔枝核别扔养出超火粉色盆栽",
@@ -1003,6 +1107,14 @@
       "category": "情感,读书作家"
     },
     {
+      "raw_hot": 154192,
+      "num": 271412,
+      "word": "曾舜晞这是喜从天降吧",
+      "onboard_time": 1749975439,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153921,
       "num": 153921,
       "word": "伊朗",
@@ -1011,12 +1123,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153754,
+      "num": 153754,
+      "word": "女子回应交房维权视频被指擦边",
+      "onboard_time": 1749973280,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153375,
       "num": 153375,
       "word": "当90后开始过父亲节",
       "onboard_time": 1749969619,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153290,
+      "num": 153290,
+      "word": "对labubu全球爆火有了实感",
+      "onboard_time": 1749972321,
+      "rank": 32,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 151455,
@@ -1035,28 +1163,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 150127,
-      "num": 150127,
-      "word": "对labubu全球爆火有了实感",
-      "onboard_time": 1749972321,
-      "rank": 32,
-      "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 148768,
-      "num": 148768,
-      "word": "张小婉这条微博并不是很想发",
-      "onboard_time": 1749972620,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 148582,
-      "num": 148582,
-      "word": "HLE对战T1",
-      "onboard_time": 1749972680,
-      "rank": 35,
-      "category": "电竞"
+      "raw_hot": 150351,
+      "num": 150351,
+      "word": "倒数第一争夺赛",
+      "onboard_time": 1749975320,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 148568,
@@ -1073,6 +1185,14 @@
       "onboard_time": 1749958340,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144355,
+      "num": 144355,
+      "word": "Vogue85花群封站位",
+      "onboard_time": 1749976100,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143877,
@@ -1355,6 +1475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123138,
+      "num": 123138,
+      "word": "张馨予也有Labubu",
+      "onboard_time": 1749973759,
+      "rank": 46,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 122220,
       "num": 398019,
       "word": "质疑父亲理解父亲成为父亲",
@@ -1369,6 +1497,14 @@
       "onboard_time": 1749916342,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122046,
+      "num": 122046,
+      "word": "苏超徐州vs镇江",
+      "onboard_time": 1749972500,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 121703,
@@ -1449,14 +1585,6 @@
       "onboard_time": 1749967940,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116498,
-      "num": 116498,
-      "word": "苏超徐州vs镇江",
-      "onboard_time": 1749972500,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 115407,
@@ -1547,6 +1675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110593,
+      "num": 151796,
+      "word": "提车不用等bZ5上市即交车",
+      "onboard_time": 1749974841,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 110413,
       "num": 110413,
       "word": "泡泡玛特已有13个过亿IP产品",
@@ -1555,12 +1691,28 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 110272,
+      "num": 129636,
+      "word": "特朗普被曝从加密货币领域获巨额收益",
+      "onboard_time": 1749976220,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109787,
       "num": 109787,
       "word": "酱园弄悬案上影节口碑",
       "onboard_time": 1749913823,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109265,
+      "num": 307372,
+      "word": "多方回应金雪峰在圣龙潭潜水去世",
+      "onboard_time": 1749975021,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109225,
@@ -1593,14 +1745,6 @@
       "onboard_time": 1749972321,
       "rank": 45,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 106284,
-      "num": 105146,
-      "word": "瘦了36斤后才敢说的实话总结",
-      "onboard_time": 1749973041,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 105402,
@@ -2091,6 +2235,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34330,
+      "num": 196011,
+      "word": "生活不易老板卖艺",
+      "onboard_time": 1749976160,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 33250,
+      "num": 256478,
+      "word": "在伊华人谈以色列空袭",
+      "onboard_time": 1749975021,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33031,
       "num": 208760,
       "word": "好用心的自然拼读资料",
@@ -2139,6 +2299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27046,
+      "num": 445365,
+      "word": "工作后我找回了对父亲的崇拜与爱",
+      "onboard_time": 1749974841,
+      "rank": 9,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 26442,
       "num": 27818,
       "word": "无名之辈",
@@ -2163,12 +2331,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24977,
+      "num": 666982,
+      "word": "神二十太空出差vlog上新了",
+      "onboard_time": 1749975561,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24790,
       "num": 270627,
       "word": "熟人借钱不还如何体面要债",
       "onboard_time": 1749970880,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24414,
+      "num": 256092,
+      "word": "为何越来越多的房东不愿租房子给老人",
+      "onboard_time": 1749974719,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 23844,
@@ -2325,6 +2509,9 @@
     },
     {
       "word": "#习主席为何称这条路名垂青史#"
+    },
+    {
+      "word": "#习近平谈父亲的言传身教#"
     }
   ]
 }
