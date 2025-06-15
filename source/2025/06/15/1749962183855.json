@@ -1,0 +1,410 @@
+{
+  "runTime": 1749962183855,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1269804,
+        "num": 1269804,
+        "word": "荔枝 低血糖",
+        "onboard_time": 1749960080,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 802749,
+        "num": 802749,
+        "word": "父亲节",
+        "onboard_time": 1749944538,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56125,
+        "num": 728423,
+        "word": "在中亚感受中国热",
+        "onboard_time": 1749959961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719759,
+        "num": 719759,
+        "word": "张朝阳退回的labubu换了一辆车",
+        "onboard_time": 1749959180,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 668039,
+        "num": 668039,
+        "word": "台湾名嘴说昆山厕所没有门",
+        "onboard_time": 1749958760,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440132,
+        "num": 440132,
+        "word": "金昀去世",
+        "onboard_time": 1749946820,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349584,
+        "num": 349584,
+        "word": "原来它们不叫labubu",
+        "onboard_time": 1749946639,
+        "rank": 6,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 320925,
+        "num": 320925,
+        "word": "故宫漏雨",
+        "onboard_time": 1749949760,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308281,
+        "num": 308281,
+        "word": "清华高颜值女孩父亲回应女儿直播",
+        "onboard_time": 1749954140,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246187,
+        "num": 308267,
+        "word": "张子枫踩20cm的高跟鞋",
+        "onboard_time": 1749920000,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65235,
+        "num": 307502,
+        "word": "宋妍霏给爸爸充京东饭卡",
+        "onboard_time": 1749959541,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829062,
+        "num": 307167,
+        "word": "曾毅回应不雅手表争议网友并不买账",
+        "onboard_time": 1749953479,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810827,
+        "num": 306941,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 12,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 476787,
+        "num": 306272,
+        "word": "马嘉祺丁程鑫差点亲上了",
+        "onboard_time": 1749956900,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350511,
+        "num": 306009,
+        "word": "怎么轮到结婚就开始让我凑合了",
+        "onboard_time": 1749948080,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305852,
+        "num": 305852,
+        "word": "伊朗导弹击中以色列能源设施",
+        "onboard_time": 1749951019,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268165,
+        "num": 268165,
+        "word": "留几手说有资格当林志玲老公",
+        "onboard_time": 1749958760,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206561,
+        "num": 267999,
+        "word": "严浩翔贺峻霖共脑",
+        "onboard_time": 1749959600,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191741,
+        "num": 267363,
+        "word": "咸鱼修炼手册",
+        "onboard_time": 1749961040,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32725,
+        "num": 266888,
+        "word": "17岁男孩患白血病同学组织义卖",
+        "onboard_time": 1749961821,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 378379,
+        "num": 266730,
+        "word": "男子鸣笛引路人不满强行驶离致1死4伤",
+        "onboard_time": 1749947839,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 266446,
+        "num": 266446,
+        "word": "伊朗警告美英法3国",
+        "onboard_time": 1749946939,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250190,
+        "num": 250190,
+        "word": "老人去世后干女儿与配偶侄子争房产",
+        "onboard_time": 1749962001,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160032,
+        "num": 248250,
+        "word": "李现是第一个推了酱园弄的人",
+        "onboard_time": 1749921557,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151455,
+        "num": 247834,
+        "word": "陶喆新说唱时候",
+        "onboard_time": 1749961099,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247743,
+        "num": 247743,
+        "word": "浙音第一质疑网红歌手",
+        "onboard_time": 1749959541,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107943,
+        "num": 221634,
+        "word": "吉克隽逸被退场方式吓到抱头",
+        "onboard_time": 1749960440,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207871,
+        "num": 207871,
+        "word": "上海老年人相亲有多直接",
+        "onboard_time": 1749961941,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36777,
+        "num": 199383,
+        "word": "台风过境新郎顶暴雨骑三轮接亲",
+        "onboard_time": 1749960621,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22516,
+        "num": 199011,
+        "word": "美佛州一警长向抗议者发出死亡威胁",
+        "onboard_time": 1749961760,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198987,
+        "num": 198987,
+        "word": "美国洛杉矶现状",
+        "onboard_time": 1749955279,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195336,
+        "num": 195336,
+        "word": "翟潇闻说内娱最漂亮女艺人刘诗诗",
+        "onboard_time": 1749943217,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130768,
+        "num": 181097,
+        "word": "许嵩三度扔伞陪粉丝一起淋雨",
+        "onboard_time": 1749960621,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175397,
+        "num": 175397,
+        "word": "其实他比你想象中更不喜欢你",
+        "onboard_time": 1749961760,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109892,
+        "num": 168156,
+        "word": "北大副教授闻新宇突发心脏病逝世",
+        "onboard_time": 1749957500,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163760,
+        "num": 163760,
+        "word": "王懿律父亲节官宣当爹",
+        "onboard_time": 1749957020,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162911,
+        "num": 162911,
+        "word": "光与夜之恋",
+        "onboard_time": 1749961640,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143638,
+        "num": 143638,
+        "word": "伊朗称将袭击以战斗机燃料生产设施",
+        "onboard_time": 1749946939,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138400,
+        "num": 138400,
+        "word": "第五人格",
+        "onboard_time": 1749961281,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134075,
+        "num": 134075,
+        "word": "种地吧",
+        "onboard_time": 1749959240,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131575,
+        "num": 131575,
+        "word": "梅西倒地",
+        "onboard_time": 1749955700,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117675,
+        "num": 130408,
+        "word": "跟着樊振东点美团闪购",
+        "onboard_time": 1749957141,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130032,
+        "num": 130032,
+        "word": "王祖蓝兄妹与天上父亲对话",
+        "onboard_time": 1749960799,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129154,
+        "num": 129154,
+        "word": "孙杨与C罗梅西的老将共鸣",
+        "onboard_time": 1749957079,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62655,
+        "num": 127484,
+        "word": "若以继续侵略伊朗将更猛烈回击",
+        "onboard_time": 1749961640,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127415,
+        "num": 127415,
+        "word": "原来西瓜不是最补水的瓜",
+        "onboard_time": 1749955040,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127169,
+        "num": 127169,
+        "word": "郝蕾你平时点评可不这样",
+        "onboard_time": 1749957679,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125338,
+        "num": 125338,
+        "word": "专四",
+        "onboard_time": 1749956480,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125209,
+        "num": 125209,
+        "word": "这样早起可能比熬夜伤害更大",
+        "onboard_time": 1749959479,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19607,
+        "num": 124448,
+        "word": "勒芒24小时耐力赛",
+        "onboard_time": 1749954920,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述中华文明的故事#"
+    }
+  }
+}
