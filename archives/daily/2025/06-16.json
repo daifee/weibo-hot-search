@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750015236689,
+  "endTime": 1750016199620,
   "band_list": [
     {
       "raw_hot": 764911,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32103,
+      "num": 47419,
+      "word": "那尔那茜走红之路多个疑点待彻查",
+      "onboard_time": 1750014854,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31274,
       "num": 31274,
       "word": "一万多网购泡泡玛特卖家不发货拒退款",
@@ -571,20 +579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18139,
-      "num": 47419,
-      "word": "那尔那茜走红之路多个疑点待彻查",
-      "onboard_time": 1750014854,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17994,
       "num": 19978,
       "word": "起猛了看见鹿挂着铃铛从水中跳出来了",
       "onboard_time": 1750014434,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14136,
+      "num": 28356,
+      "word": "灵山大佛有球必应",
+      "onboard_time": 1750016054,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 13022,

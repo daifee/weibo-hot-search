@@ -1,0 +1,410 @@
+{
+  "runTime": 1750016199620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 134360,
+        "num": 134360,
+        "word": "大学里的男生为什么越来越少了",
+        "onboard_time": 1749996083,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125538,
+        "num": 125538,
+        "word": "欢牛蛋糕倒闭",
+        "onboard_time": 1750011435,
+        "rank": 1,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 7861,
+        "num": 114977,
+        "word": "我国对中亚五国进出口跑出加速度",
+        "onboard_time": 1749994402,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107304,
+        "num": 107304,
+        "word": "杭州一泡泡玛特开业当天闭店",
+        "onboard_time": 1749983481,
+        "rank": 3,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 98495,
+        "num": 98495,
+        "word": "以色列国家安全观已发生转变",
+        "onboard_time": 1750011435,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80424,
+        "num": 80424,
+        "word": "白鹿不敢想",
+        "onboard_time": 1750003221,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69923,
+        "num": 69923,
+        "word": "11岁男孩每天吸二手烟得肺癌",
+        "onboard_time": 1750003221,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62037,
+        "num": 62037,
+        "word": "长安的荔枝 易烊千玺",
+        "onboard_time": 1749982880,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55287,
+        "num": 55287,
+        "word": "爱奇艺副总裁道歉",
+        "onboard_time": 1749995243,
+        "rank": 8,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 48783,
+        "num": 48783,
+        "word": "30只Labubu把老爸整破防了",
+        "onboard_time": 1749976819,
+        "rank": 9,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 86661,
+        "num": 48628,
+        "word": "陈靖可取关孙千ins",
+        "onboard_time": 1749994703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46625,
+        "num": 46625,
+        "word": "22岁中国男子泰国豪华酒店坠楼身亡",
+        "onboard_time": 1750000763,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45970,
+        "num": 45970,
+        "word": "断崖式衰老的三个年龄段",
+        "onboard_time": 1749994522,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44494,
+        "num": 44494,
+        "word": "泰国与印空难幸存者座位都是11A",
+        "onboard_time": 1749989360,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37817,
+        "num": 37817,
+        "word": "伊朗爆炸点距总台记者驻地不足300米",
+        "onboard_time": 1749999203,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59944,
+        "num": 37685,
+        "word": "陈靖可 孙千",
+        "onboard_time": 1749999203,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37301,
+        "num": 37301,
+        "word": "白鹿第三部破万剧",
+        "onboard_time": 1749998361,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36831,
+        "num": 36831,
+        "word": "演员代旭辟谷7天瘦8斤",
+        "onboard_time": 1749994944,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36771,
+        "num": 36771,
+        "word": "无锡队倒数第一也没关系我是江阴的",
+        "onboard_time": 1750005320,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36298,
+        "num": 36298,
+        "word": "伊朗再对以色列发动导弹袭击",
+        "onboard_time": 1750000763,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34185,
+        "num": 34185,
+        "word": "贵州杀妻灭子案现场血迹成因仍待解",
+        "onboard_time": 1749994280,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34176,
+        "num": 34176,
+        "word": "张檬自曝生孩子后脑雾",
+        "onboard_time": 1750000345,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32227,
+        "num": 32227,
+        "word": "郭富城官宣方媛怀三胎",
+        "onboard_time": 1749980540,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32103,
+        "num": 32103,
+        "word": "那尔那茜走红之路多个疑点待彻查",
+        "onboard_time": 1750014854,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29884,
+        "num": 29884,
+        "word": "于正回应临江仙破万",
+        "onboard_time": 1749999203,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29095,
+        "num": 29095,
+        "word": "汪苏泷演唱会穿了一身贝壳",
+        "onboard_time": 1750003221,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28448,
+        "num": 28448,
+        "word": "女子眼痒发现三条活虫在眼中",
+        "onboard_time": 1749993441,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28374,
+        "num": 28374,
+        "word": "临江仙破万",
+        "onboard_time": 1749994522,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14136,
+        "num": 28356,
+        "word": "灵山大佛有球必应",
+        "onboard_time": 1750016054,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26848,
+        "num": 28350,
+        "word": "佘诗曼抢到了炸虾labubu",
+        "onboard_time": 1749997462,
+        "rank": 29,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 28345,
+        "num": 28345,
+        "word": "央视记者距以军袭击目标不到300米",
+        "onboard_time": 1750001121,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25073,
+        "num": 25073,
+        "word": "陈梦说求婚现场人越多越好",
+        "onboard_time": 1749989781,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24832,
+        "num": 24832,
+        "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
+        "onboard_time": 1750001001,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24263,
+        "num": 24263,
+        "word": "22岁女生玩恋陪本每月花一两千",
+        "onboard_time": 1750002742,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23571,
+        "num": 23571,
+        "word": "让体脂率不断下降的小习惯",
+        "onboard_time": 1749989120,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 23570,
+        "num": 23570,
+        "word": "拜仁vs奥克兰城",
+        "onboard_time": 1750003702,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23512,
+        "num": 23512,
+        "word": "一万多网购泡泡玛特卖家不发货拒退款",
+        "onboard_time": 1749995004,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23056,
+        "num": 23056,
+        "word": "央视曝光伤人的公共健身器材",
+        "onboard_time": 1749997942,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22718,
+        "num": 22718,
+        "word": "又在汪苏泷演唱会蹦上迪了",
+        "onboard_time": 1750015095,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22126,
+        "num": 22126,
+        "word": "丨州未能保住最后的笔画",
+        "onboard_time": 1749995481,
+        "rank": 39,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 21957,
+        "num": 21957,
+        "word": "以色列全国紧急状态延至月底",
+        "onboard_time": 1750011016,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20124,
+        "num": 20124,
+        "word": "长得像王一博气质像窦靖童",
+        "onboard_time": 1749994944,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20055,
+        "num": 20055,
+        "word": "苏超",
+        "onboard_time": 1749981860,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20004,
+        "num": 20004,
+        "word": "微博喜剧现场",
+        "onboard_time": 1750007478,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19440,
+        "num": 19440,
+        "word": "伊朗警方称逮捕两名摩萨德特工",
+        "onboard_time": 1750013654,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19140,
+        "num": 19140,
+        "word": "灰熊魔术交易",
+        "onboard_time": 1750004299,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17979,
+        "num": 17979,
+        "word": "起猛了看见鹿挂着铃铛从水中跳出来了",
+        "onboard_time": 1750014434,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17643,
+        "num": 17643,
+        "word": "苏州越位了吗",
+        "onboard_time": 1750005198,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17335,
+        "num": 17335,
+        "word": "道崽 女朋友",
+        "onboard_time": 1749977780,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15660,
+        "num": 17333,
+        "word": "道崽缺席赛后互动",
+        "onboard_time": 1749999382,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会#"
+    }
+  }
+}
