@@ -1,0 +1,410 @@
+{
+  "runTime": 1750002061378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1042273,
+        "num": 1166763,
+        "word": "杭州一泡泡玛特开业当天闭店",
+        "onboard_time": 1749983481,
+        "rank": 0,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 838224,
+        "num": 838224,
+        "word": "长安的荔枝 易烊千玺",
+        "onboard_time": 1749982880,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33897,
+        "num": 802009,
+        "word": "一系列先行指标看经济活力",
+        "onboard_time": 1749994522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 793571,
+        "num": 793571,
+        "word": "爱奇艺副总裁道歉",
+        "onboard_time": 1749995243,
+        "rank": 3,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 735273,
+        "num": 735273,
+        "word": "白鹿第三部破万剧",
+        "onboard_time": 1749998361,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576394,
+        "num": 576394,
+        "word": "断崖式衰老的三个年龄段",
+        "onboard_time": 1749994522,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 572499,
+        "num": 572499,
+        "word": "大学里的男生为什么越来越少了",
+        "onboard_time": 1749996083,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474332,
+        "num": 474332,
+        "word": "丨州未能保住最后的笔画",
+        "onboard_time": 1749995481,
+        "rank": 7,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 418779,
+        "num": 418779,
+        "word": "贵州杀妻灭子案现场血迹成因仍待解",
+        "onboard_time": 1749994280,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96547,
+        "num": 415730,
+        "word": "以伊全面开战是否可能",
+        "onboard_time": 1750001361,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 871497,
+        "num": 398034,
+        "word": "陈靖可取关孙千ins",
+        "onboard_time": 1749994703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673435,
+        "num": 392065,
+        "word": "张檬自曝生孩子后脑雾",
+        "onboard_time": 1750000345,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462240,
+        "num": 380743,
+        "word": "郭富城官宣方媛怀三胎",
+        "onboard_time": 1749980540,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375911,
+        "num": 375911,
+        "word": "伊朗爆炸点距总台记者驻地不足300米",
+        "onboard_time": 1749999203,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50116,
+        "num": 338690,
+        "word": "以军公布袭击伊朗核项目总部视频",
+        "onboard_time": 1750001482,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328015,
+        "num": 328015,
+        "word": "张酸 反派",
+        "onboard_time": 1750000702,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301023,
+        "num": 301023,
+        "word": "演员代旭辟谷7天瘦8斤",
+        "onboard_time": 1749994944,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251430,
+        "num": 300033,
+        "word": "临江仙破万",
+        "onboard_time": 1749994522,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246018,
+        "num": 293997,
+        "word": "于正回应临江仙破万",
+        "onboard_time": 1749999203,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180558,
+        "num": 292493,
+        "word": "22岁中国男子泰国豪华酒店坠楼身亡",
+        "onboard_time": 1750000763,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410329,
+        "num": 286425,
+        "word": "陈靖可 孙千",
+        "onboard_time": 1749999203,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284025,
+        "num": 284025,
+        "word": "30只Labubu把老爸整破防了",
+        "onboard_time": 1749976819,
+        "rank": 21,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 260150,
+        "num": 260150,
+        "word": "泰国与印空难幸存者座位都是11A",
+        "onboard_time": 1749989360,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32947,
+        "num": 246437,
+        "word": "文言文风格裁判文书被点赞",
+        "onboard_time": 1750000222,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239171,
+        "num": 239171,
+        "word": "央视曝光伤人的公共健身器材",
+        "onboard_time": 1749997942,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 237741,
+        "num": 237741,
+        "word": "滕王阁遭无人机划伤当事游客发声",
+        "onboard_time": 1749996143,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231296,
+        "num": 231296,
+        "word": "女子眼痒发现三条活虫在眼中",
+        "onboard_time": 1749993441,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214825,
+        "num": 214825,
+        "word": "长得像王一博气质像窦靖童",
+        "onboard_time": 1749994944,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202428,
+        "num": 202428,
+        "word": "林俊杰演唱会嘉宾宋雨琦",
+        "onboard_time": 1749988340,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200922,
+        "num": 201864,
+        "word": "陈奕恒父亲节发博",
+        "onboard_time": 1750000882,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221965,
+        "num": 201686,
+        "word": "无锡车主外放阿刁迎战常州队",
+        "onboard_time": 1749999982,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201482,
+        "num": 201482,
+        "word": "伊朗再对以色列发动导弹袭击",
+        "onboard_time": 1750000763,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200216,
+        "num": 200216,
+        "word": "让体脂率不断下降的小习惯",
+        "onboard_time": 1749989120,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 174435,
+        "num": 174435,
+        "word": "央视记者距以军袭击目标不到300米",
+        "onboard_time": 1750001121,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171813,
+        "num": 171813,
+        "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
+        "onboard_time": 1750001001,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156068,
+        "num": 156068,
+        "word": "陈梦说求婚现场人越多越好",
+        "onboard_time": 1749989781,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143911,
+        "num": 143911,
+        "word": "灵山大佛",
+        "onboard_time": 1749995004,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 142897,
+        "num": 142897,
+        "word": "王楚钦爸爸谈儿子从小的心愿",
+        "onboard_time": 1749995902,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137696,
+        "num": 137696,
+        "word": "以色列为何难以停止战争机器",
+        "onboard_time": 1749999863,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20148,
+        "num": 131425,
+        "word": "我爱人的方式就是我想被爱的方式",
+        "onboard_time": 1750000822,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129110,
+        "num": 129110,
+        "word": "石头赶路回应",
+        "onboard_time": 1749999082,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127290,
+        "num": 127290,
+        "word": "C罗父子肌肉同框照",
+        "onboard_time": 1749999323,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123116,
+        "num": 123116,
+        "word": "苏超排名",
+        "onboard_time": 1749992181,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120134,
+        "num": 120134,
+        "word": "一万多网购泡泡玛特卖家不发货拒退款",
+        "onboard_time": 1749995004,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117495,
+        "num": 117495,
+        "word": "邓紫棋石家庄演唱会",
+        "onboard_time": 1750000162,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117096,
+        "num": 117096,
+        "word": "道崽缺席赛后互动",
+        "onboard_time": 1749999382,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116926,
+        "num": 116926,
+        "word": "叶一飞创造中国赛车历史",
+        "onboard_time": 1750001302,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115396,
+        "num": 115396,
+        "word": "张杰你有这么先进的开嗓方式",
+        "onboard_time": 1750001782,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110175,
+        "num": 110175,
+        "word": "无锡队2比0常州队",
+        "onboard_time": 1749995063,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110164,
+        "num": 110164,
+        "word": "刘亦菲 宝格丽女王",
+        "onboard_time": 1749979700,
+        "rank": 49,
+        "category": "艺人,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会#"
+    }
+  }
+}

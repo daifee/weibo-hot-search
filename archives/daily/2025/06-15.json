@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750001107847,
+  "endTime": 1750002061378,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 673435,
+      "num": 604955,
+      "word": "张檬自曝生孩子后脑雾",
+      "onboard_time": 1750000345,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 668039,
       "num": 668039,
       "word": "台湾名嘴说昆山厕所没有门",
@@ -321,14 +329,6 @@
       "onboard_time": 1749946338,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 657768,
-      "num": 604955,
-      "word": "张檬自曝生孩子后脑雾",
-      "onboard_time": 1750000345,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 639641,
@@ -643,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 410329,
+      "num": 357251,
+      "word": "陈靖可 孙千",
+      "onboard_time": 1749999203,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407361,
       "num": 407361,
       "word": "对labubu全球爆火有了实感",
@@ -731,14 +739,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 357251,
-      "num": 357251,
-      "word": "陈靖可 孙千",
-      "onboard_time": 1749999203,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350988,
       "num": 350988,
       "word": "抖音回应涉扁担女孩账号处置过程",
@@ -801,6 +801,14 @@
       "onboard_time": 1749902483,
       "rank": 8,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 328015,
+      "num": 328015,
+      "word": "张酸 反派",
+      "onboard_time": 1750000702,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 324414,
@@ -987,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276717,
-      "num": 276717,
-      "word": "张酸 反派",
-      "onboard_time": 1750000702,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 275437,
       "num": 275437,
       "word": "周杰伦邀请方文山多出来走走",
@@ -1116,7 +1116,7 @@
     },
     {
       "raw_hot": 251732,
-      "num": 251732,
+      "num": 293997,
       "word": "于正回应临江仙破万",
       "onboard_time": 1749999203,
       "rank": 26,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1749993441,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239171,
+      "num": 610134,
+      "word": "央视曝光伤人的公共健身器材",
+      "onboard_time": 1749997942,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 233904,
@@ -1225,6 +1233,14 @@
       "onboard_time": 1749964400,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 221965,
+      "num": 201686,
+      "word": "无锡车主外放阿刁迎战常州队",
+      "onboard_time": 1749999982,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 219684,
@@ -1387,6 +1403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201482,
+      "num": 201482,
+      "word": "伊朗再对以色列发动导弹袭击",
+      "onboard_time": 1750000763,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201175,
       "num": 201175,
       "word": "周深大师课婉拒了哈",
@@ -1395,20 +1419,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200922,
+      "num": 201864,
+      "word": "陈奕恒父亲节发博",
+      "onboard_time": 1750000882,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200752,
       "num": 200752,
       "word": "陈梦还想再战奥运会",
       "onboard_time": 1749968542,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199903,
-      "num": 610134,
-      "word": "央视曝光伤人的公共健身器材",
-      "onboard_time": 1749997942,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 199717,
@@ -1603,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187139,
-      "num": 187139,
-      "word": "无锡车主外放阿刁迎战常州队",
-      "onboard_time": 1749999982,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186059,
       "num": 186059,
       "word": "常州队粉丝打扮成恐龙前来助阵",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1749917422,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180558,
+      "num": 292493,
+      "word": "22岁中国男子泰国豪华酒店坠楼身亡",
+      "onboard_time": 1750000763,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178656,
@@ -1811,6 +1835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174435,
+      "num": 174435,
+      "word": "央视记者距以军袭击目标不到300米",
+      "onboard_time": 1750001121,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174061,
       "num": 174061,
       "word": "登陆少年披荆斩棘 上半场第一",
@@ -1857,6 +1889,14 @@
       "onboard_time": 1749984022,
       "rank": 39,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 171813,
+      "num": 171813,
+      "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
+      "onboard_time": 1750001001,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171784,
@@ -1947,28 +1987,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166344,
-      "num": 166344,
-      "word": "伊朗再对以色列发动导弹袭击",
-      "onboard_time": 1750000763,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 165533,
       "num": 165533,
       "word": "新说唱清退不当言论运营人员",
       "onboard_time": 1749989662,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164124,
-      "num": 164124,
-      "word": "陈奕恒父亲节发博",
-      "onboard_time": 1750000882,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 163448,
@@ -2161,14 +2185,6 @@
       "onboard_time": 1749961099,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151064,
-      "num": 151064,
-      "word": "22岁中国男子泰国豪华酒店坠楼身亡",
-      "onboard_time": 1750000763,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150385,
@@ -2379,6 +2395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137696,
+      "num": 470652,
+      "word": "以色列为何难以停止战争机器",
+      "onboard_time": 1749999863,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137501,
       "num": 175913,
       "word": "汪苏泷给双胞胎姐妹唱生日歌",
@@ -2579,6 +2603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129110,
+      "num": 129110,
+      "word": "石头赶路回应",
+      "onboard_time": 1749999082,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128253,
       "num": 128253,
       "word": "法拉利勒芒三连冠",
@@ -2633,14 +2665,6 @@
       "onboard_time": 1749978741,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126723,
-      "num": 470652,
-      "word": "以色列为何难以停止战争机器",
-      "onboard_time": 1749999863,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126688,
@@ -2769,14 +2793,6 @@
       "onboard_time": 1749984260,
       "rank": 38,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 122685,
-      "num": 122685,
-      "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
-      "onboard_time": 1750001001,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122406,
@@ -2915,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116926,
+      "num": 116926,
+      "word": "叶一飞创造中国赛车历史",
+      "onboard_time": 1750001302,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116660,
       "num": 116660,
       "word": "波尔谢幕战2比3雨果",
@@ -2961,6 +2985,14 @@
       "onboard_time": 1749954799,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115396,
+      "num": 115396,
+      "word": "张杰你有这么先进的开嗓方式",
+      "onboard_time": 1750001782,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 115106,
@@ -3249,6 +3281,14 @@
       "onboard_time": 1749971480,
       "rank": 17,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 96547,
+      "num": 415730,
+      "word": "以伊全面开战是否可能",
+      "onboard_time": 1750001361,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95964,
@@ -3627,6 +3667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50116,
+      "num": 338690,
+      "word": "以军公布袭击伊朗核项目总部视频",
+      "onboard_time": 1750001482,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49938,
       "num": 49938,
       "word": "中超",
@@ -3803,6 +3851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 32947,
+      "num": 362433,
+      "word": "文言文风格裁判文书被点赞",
+      "onboard_time": 1750000222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30802,
       "num": 30802,
       "word": "新说唱",
@@ -3905,14 +3961,6 @@
       "onboard_time": 1749994402,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25357,
-      "num": 362433,
-      "word": "文言文风格裁判文书被点赞",
-      "onboard_time": 1750000222,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25162,
@@ -4027,6 +4075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20148,
+      "num": 143095,
+      "word": "我爱人的方式就是我想被爱的方式",
+      "onboard_time": 1750000822,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 20024,
       "num": 22630,
       "word": "这里是中亚",
@@ -4089,14 +4145,6 @@
       "onboard_time": 1749938295,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14609,
-      "num": 143095,
-      "word": "我爱人的方式就是我想被爱的方式",
-      "onboard_time": 1750000822,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 14577,
