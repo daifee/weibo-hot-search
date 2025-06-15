@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750029824647,
+  "endTime": 1750030725345,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -355,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 635668,
+      "num": 508279,
+      "word": "美国多地爆发大规模抗议游行",
+      "onboard_time": 1750017555,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 635003,
       "num": 635003,
       "word": "黄子韬现场发火中断考核",
@@ -539,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 497101,
-      "num": 508279,
-      "word": "美国多地爆发大规模抗议游行",
-      "onboard_time": 1750017555,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 490889,
       "num": 490889,
       "word": "山东一大学禁用红米手机考试",
@@ -667,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 411756,
+      "num": 411756,
+      "word": "以色列国家安全观已发生转变",
+      "onboard_time": 1750011435,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 410329,
       "num": 357251,
       "word": "陈靖可 孙千",
@@ -779,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346623,
+      "num": 346623,
+      "word": "22岁中国男子泰国豪华酒店坠楼身亡",
+      "onboard_time": 1750000763,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345035,
       "num": 345035,
       "word": "张小婉这条微博并不是很想发",
@@ -795,12 +811,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 342654,
+      "num": 294117,
+      "word": "那尔那茜走红之路多个疑点待彻查",
+      "onboard_time": 1750014854,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341741,
       "num": 341741,
       "word": "苏超地锅鸡1比0拿下醋坛子",
       "onboard_time": 1749983840,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339030,
+      "num": 339030,
+      "word": "难怪我一上高铁就睡觉",
+      "onboard_time": 1750019053,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 331847,
@@ -843,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 324332,
-      "num": 324332,
-      "word": "以色列国家安全观已发生转变",
-      "onboard_time": 1750011435,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 320548,
       "num": 320548,
       "word": "HLE对战T1",
@@ -873,14 +897,6 @@
       "onboard_time": 1749995902,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 304999,
-      "num": 304999,
-      "word": "22岁中国男子泰国豪华酒店坠楼身亡",
-      "onboard_time": 1750000763,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 304971,
@@ -945,14 +961,6 @@
       "onboard_time": 1749914004,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 289291,
-      "num": 289291,
-      "word": "那尔那茜走红之路多个疑点待彻查",
-      "onboard_time": 1750014854,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 289153,
@@ -1075,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272701,
-      "num": 272701,
-      "word": "难怪我一上高铁就睡觉",
-      "onboard_time": 1750019053,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 269591,
       "num": 269591,
       "word": "张雪迎酱园弄影评",
@@ -1193,6 +1193,14 @@
       "onboard_time": 1749972440,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 243173,
+      "num": 261564,
+      "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
+      "onboard_time": 1750001001,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241009,
@@ -1337,14 +1345,6 @@
       "onboard_time": 1749991401,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213924,
-      "num": 261564,
-      "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
-      "onboard_time": 1750001001,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211735,
@@ -2123,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158906,
+      "num": 255846,
+      "word": "曾舜晞打视频白鹿绷不住了",
+      "onboard_time": 1750029978,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158567,
       "num": 158567,
       "word": "白鹿那一日九重天的四灵仙尊死了",
@@ -2684,11 +2692,19 @@
     },
     {
       "raw_hot": 128816,
-      "num": 128816,
+      "num": 161822,
       "word": "汪苏泷演唱会穿了一身贝壳",
       "onboard_time": 1750003221,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128679,
+      "num": 128679,
+      "word": "拜仁10比0奥克兰城",
+      "onboard_time": 1750029438,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 128253,
@@ -3123,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113631,
+      "num": 164859,
+      "word": "邓超连续两天劝大家不要看五哈",
+      "onboard_time": 1750027997,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113077,
       "num": 113077,
       "word": "张元英剪了刘海",
@@ -3339,6 +3363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99071,
+      "num": 100043,
+      "word": "范丞丞25岁生日照",
+      "onboard_time": 1750029378,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98607,
       "num": 98607,
       "word": "白总夫人终于肯说实话了",
@@ -3475,6 +3507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89965,
+      "num": 89965,
+      "word": "甲亢哥见到梅西的反应亮了",
+      "onboard_time": 1750028779,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88923,
       "num": 88923,
       "word": "父亲节文案",
@@ -3489,14 +3529,6 @@
       "onboard_time": 1749919459,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 87513,
-      "num": 87513,
-      "word": "范丞丞25岁生日照",
-      "onboard_time": 1750029378,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 87450,
@@ -3531,14 +3563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81978,
-      "num": 98515,
-      "word": "邓超连续两天劝大家不要看五哈",
-      "onboard_time": 1750027997,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81875,
       "num": 81875,
       "word": "普京透露俄准备调解伊以冲突",
@@ -3547,12 +3571,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80885,
+      "num": 104961,
+      "word": "穆勒将在世俱杯迎来拜仁最后一舞",
+      "onboard_time": 1750029797,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80609,
       "num": 155632,
       "word": "裁判视角下的梅西",
       "onboard_time": 1749957860,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80570,
+      "num": 162744,
+      "word": "临江仙断更的原因",
+      "onboard_time": 1750029499,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 79757,
@@ -3571,11 +3611,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77093,
-      "num": 77093,
-      "word": "甲亢哥见到梅西的反应亮了",
-      "onboard_time": 1750028779,
-      "rank": 36,
+      "raw_hot": 78743,
+      "num": 78743,
+      "word": "以色列称和美国完全协调",
+      "onboard_time": 1750029678,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 77274,
+      "num": 77274,
+      "word": "巴黎圣日耳曼4比0马竞",
+      "onboard_time": 1750029797,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -3633,6 +3681,14 @@
       "onboard_time": 1749996923,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 72914,
+      "num": 248277,
+      "word": "印度失事客机2个黑匣子均已找到",
+      "onboard_time": 1750030459,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72206,
@@ -3787,12 +3843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52226,
-      "num": 52226,
-      "word": "拜仁10比0奥克兰城",
-      "onboard_time": 1750029438,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 53178,
+      "num": 99921,
+      "word": "肖战超绝哭戏令人共情",
+      "onboard_time": 1750022714,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 52044,
@@ -3859,44 +3915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49896,
-      "num": 49896,
-      "word": "穆勒将在世俱杯迎来拜仁最后一舞",
-      "onboard_time": 1750029797,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 49696,
-      "num": 49696,
-      "word": "以色列称和美国完全协调",
-      "onboard_time": 1750029678,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 49510,
       "num": 49510,
       "word": "酱园弄赵丽颖repo",
       "onboard_time": 1749943096,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 49256,
-      "num": 67732,
-      "word": "临江仙断更的原因",
-      "onboard_time": 1750029499,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 49052,
-      "num": 49052,
-      "word": "巴黎圣日耳曼4比0马竞",
-      "onboard_time": 1750029797,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 48664,
@@ -3953,14 +3977,6 @@
       "onboard_time": 1749975021,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 44915,
-      "num": 63147,
-      "word": "肖战超绝哭戏令人共情",
-      "onboard_time": 1750022714,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 43830,
@@ -4123,6 +4139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32016,
+      "num": 252843,
+      "word": "伊朗革命卫队情报负责人遭以暗杀",
+      "onboard_time": 1750030459,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30833,
       "num": 30833,
       "word": "伊朗警方称逮捕两名摩萨德特工",
@@ -4219,6 +4243,14 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 27026,
+      "num": 260443,
+      "word": "2名携带200公斤爆炸物以特工被捕",
+      "onboard_time": 1750030459,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26916,
       "num": 268896,
       "word": "吃哪些食物有可能被测出酒驾",
@@ -4289,6 +4321,14 @@
       "onboard_time": 1749974719,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 23965,
+      "num": 245311,
+      "word": "伊朗导弹击中海法和特拉维夫",
+      "onboard_time": 1750030459,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23844,
@@ -4483,6 +4523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17987,
+      "num": 474584,
+      "word": "我国对中亚五国进出口跑出加速度",
+      "onboard_time": 1749994402,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17116,
       "num": 26666,
       "word": "王俊凯亮相上影节红毯",
@@ -4497,14 +4545,6 @@
       "onboard_time": 1749938295,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15066,
-      "num": 453954,
-      "word": "我国对中亚五国进出口跑出加速度",
-      "onboard_time": 1749994402,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14577,

@@ -1,10 +1,10 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750029824647,
+  "endTime": 1750030725345,
   "band_list": [
     {
       "raw_hot": 764911,
-      "num": 895319,
+      "num": 937517,
       "word": "杭州一泡泡玛特开业当天闭店",
       "onboard_time": 1749983481,
       "rank": 0,
@@ -17,6 +17,14 @@
       "onboard_time": 1749994703,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 635668,
+      "num": 508279,
+      "word": "美国多地爆发大规模抗议游行",
+      "onboard_time": 1750017555,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 600006,
@@ -43,14 +51,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 497101,
-      "num": 508279,
-      "word": "美国多地爆发大规模抗议游行",
-      "onboard_time": 1750017555,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 484474,
       "num": 484474,
       "word": "白鹿不敢想",
@@ -75,8 +75,16 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 411756,
+      "num": 411756,
+      "word": "以色列国家安全观已发生转变",
+      "onboard_time": 1750011435,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 396797,
-      "num": 260833,
+      "num": 293236,
       "word": "陈靖可 孙千",
       "onboard_time": 1749999203,
       "rank": 20,
@@ -84,19 +92,35 @@
     },
     {
       "raw_hot": 370208,
-      "num": 267257,
+      "num": 285410,
       "word": "张檬自曝生孩子后脑雾",
       "onboard_time": 1750000345,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 324332,
-      "num": 324332,
-      "word": "以色列国家安全观已发生转变",
-      "onboard_time": 1750011435,
-      "rank": 5,
-      "category": "国际时政"
+      "raw_hot": 346623,
+      "num": 346623,
+      "word": "22岁中国男子泰国豪华酒店坠楼身亡",
+      "onboard_time": 1750000763,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342654,
+      "num": 294117,
+      "word": "那尔那茜走红之路多个疑点待彻查",
+      "onboard_time": 1750014854,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 339030,
+      "num": 339030,
+      "word": "难怪我一上高铁就睡觉",
+      "onboard_time": 1750019053,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 320235,
@@ -123,28 +147,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 304999,
-      "num": 304999,
-      "word": "22岁中国男子泰国豪华酒店坠楼身亡",
-      "onboard_time": 1750000763,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289291,
-      "num": 289291,
-      "word": "那尔那茜走红之路多个疑点待彻查",
-      "onboard_time": 1750014854,
-      "rank": 14,
+      "raw_hot": 299342,
+      "num": 299342,
+      "word": "演员代旭辟谷7天瘦8斤",
+      "onboard_time": 1749994944,
+      "rank": 17,
       "category": "艺人"
     },
     {
-      "raw_hot": 272701,
-      "num": 272701,
-      "word": "难怪我一上高铁就睡觉",
-      "onboard_time": 1750019053,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 261021,
+      "num": 261021,
+      "word": "贵州杀妻灭子案现场血迹成因仍待解",
+      "onboard_time": 1749994280,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259575,
@@ -155,12 +171,12 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 251888,
-      "num": 260908,
-      "word": "演员代旭辟谷7天瘦8斤",
-      "onboard_time": 1749994944,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 243173,
+      "num": 261564,
+      "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
+      "onboard_time": 1750001001,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236258,
@@ -177,22 +193,6 @@
       "onboard_time": 1749995481,
       "rank": 9,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 213924,
-      "num": 261564,
-      "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
-      "onboard_time": 1750001001,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207208,
-      "num": 207208,
-      "word": "贵州杀妻灭子案现场血迹成因仍待解",
-      "onboard_time": 1749994280,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202909,
@@ -219,8 +219,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 172081,
-      "num": 172081,
+      "raw_hot": 183558,
+      "num": 190480,
       "word": "伊朗再对以色列发动导弹袭击",
       "onboard_time": 1750000763,
       "rank": 31,
@@ -236,19 +236,27 @@
     },
     {
       "raw_hot": 162100,
-      "num": 162100,
+      "num": 164715,
       "word": "长得像王一博气质像窦靖童",
       "onboard_time": 1749994944,
       "rank": 25,
       "category": "综艺"
     },
     {
-      "raw_hot": 159263,
-      "num": 159263,
+      "raw_hot": 161647,
+      "num": 161647,
       "word": "让体脂率不断下降的小习惯",
       "onboard_time": 1749989120,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 158906,
+      "num": 255846,
+      "word": "曾舜晞打视频白鹿绷不住了",
+      "onboard_time": 1750029978,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 152010,
@@ -292,11 +300,35 @@
     },
     {
       "raw_hot": 128816,
-      "num": 128816,
+      "num": 161822,
       "word": "汪苏泷演唱会穿了一身贝壳",
       "onboard_time": 1750003221,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128679,
+      "num": 128679,
+      "word": "拜仁10比0奥克兰城",
+      "onboard_time": 1750029438,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113631,
+      "num": 164859,
+      "word": "邓超连续两天劝大家不要看五哈",
+      "onboard_time": 1750027997,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110906,
+      "num": 110906,
+      "word": "陈梦说求婚现场人越多越好",
+      "onboard_time": 1749989781,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 109552,
@@ -307,20 +339,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 108937,
-      "num": 108937,
-      "word": "陈梦说求婚现场人越多越好",
-      "onboard_time": 1749989781,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 104134,
-      "num": 104134,
+      "raw_hot": 106043,
+      "num": 106043,
       "word": "央视曝光伤人的公共健身器材",
       "onboard_time": 1749997942,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 103922,
+      "num": 103922,
+      "word": "一万多网购泡泡玛特卖家不发货拒退款",
+      "onboard_time": 1749995004,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103914,
@@ -347,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99071,
+      "num": 100043,
+      "word": "范丞丞25岁生日照",
+      "onboard_time": 1750029378,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91200,
       "num": 91200,
       "word": "叶一飞创造中国赛车历史",
@@ -363,20 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88625,
-      "num": 88625,
-      "word": "一万多网购泡泡玛特卖家不发货拒退款",
-      "onboard_time": 1749995004,
+      "raw_hot": 89965,
+      "num": 89965,
+      "word": "甲亢哥见到梅西的反应亮了",
+      "onboard_time": 1750028779,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87513,
-      "num": 87513,
-      "word": "范丞丞25岁生日照",
-      "onboard_time": 1750029378,
-      "rank": 34,
-      "category": "艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 87172,
@@ -403,12 +435,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 81978,
-      "num": 98515,
-      "word": "邓超连续两天劝大家不要看五哈",
-      "onboard_time": 1750027997,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 80885,
+      "num": 104961,
+      "word": "穆勒将在世俱杯迎来拜仁最后一舞",
+      "onboard_time": 1750029797,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80570,
+      "num": 162744,
+      "word": "临江仙断更的原因",
+      "onboard_time": 1750029499,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 79871,
@@ -427,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78743,
+      "num": 78743,
+      "word": "以色列称和美国完全协调",
+      "onboard_time": 1750029678,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77451,
       "num": 77451,
       "word": "王楚钦爸爸谈儿子从小的心愿",
@@ -435,11 +483,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77093,
-      "num": 77093,
-      "word": "甲亢哥见到梅西的反应亮了",
-      "onboard_time": 1750028779,
-      "rank": 36,
+      "raw_hot": 77274,
+      "num": 77274,
+      "word": "巴黎圣日耳曼4比0马竞",
+      "onboard_time": 1750029797,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -465,6 +513,14 @@
       "onboard_time": 1749997462,
       "rank": 40,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 72914,
+      "num": 248277,
+      "word": "印度失事客机2个黑匣子均已找到",
+      "onboard_time": 1750030459,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72206,
@@ -507,35 +563,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52226,
-      "num": 52226,
-      "word": "拜仁10比0奥克兰城",
-      "onboard_time": 1750029438,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 49896,
-      "num": 49896,
-      "word": "穆勒将在世俱杯迎来拜仁最后一舞",
-      "onboard_time": 1750029797,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 49696,
-      "num": 49696,
-      "word": "以色列称和美国完全协调",
-      "onboard_time": 1750029678,
+      "raw_hot": 53178,
+      "num": 99921,
+      "word": "肖战超绝哭戏令人共情",
+      "onboard_time": 1750022714,
       "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 49256,
-      "num": 67732,
-      "word": "临江仙断更的原因",
-      "onboard_time": 1750029499,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -545,14 +577,6 @@
       "onboard_time": 1749999382,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 49052,
-      "num": 49052,
-      "word": "巴黎圣日耳曼4比0马竞",
-      "onboard_time": 1750029797,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 48377,
@@ -577,14 +601,6 @@
       "onboard_time": 1750029678,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 44915,
-      "num": 63147,
-      "word": "肖战超绝哭戏令人共情",
-      "onboard_time": 1750022714,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 42380,
@@ -627,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32016,
+      "num": 252843,
+      "word": "伊朗革命卫队情报负责人遭以暗杀",
+      "onboard_time": 1750030459,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30833,
       "num": 30833,
       "word": "伊朗警方称逮捕两名摩萨德特工",
@@ -651,6 +675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27026,
+      "num": 260443,
+      "word": "2名携带200公斤爆炸物以特工被捕",
+      "onboard_time": 1750030459,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26168,
       "num": 26168,
       "word": "这个夏天苏新皓披荆斩棘",
@@ -665,6 +697,14 @@
       "onboard_time": 1750012335,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23965,
+      "num": 245311,
+      "word": "伊朗导弹击中海法和特拉维夫",
+      "onboard_time": 1750030459,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23576,
@@ -723,8 +763,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15066,
-      "num": 453954,
+      "raw_hot": 17987,
+      "num": 474584,
       "word": "我国对中亚五国进出口跑出加速度",
       "onboard_time": 1749994402,
       "rank": 2,
