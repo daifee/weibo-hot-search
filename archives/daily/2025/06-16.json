@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750020064810,
+  "endTime": 1750022606003,
   "band_list": [
     {
       "raw_hot": 764911,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88022,
+      "num": 130819,
+      "word": "美国多地爆发大规模抗议游行",
+      "onboard_time": 1750017555,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87172,
       "num": 87172,
       "word": "石头赶路回应",
@@ -403,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73247,
+      "num": 24567,
+      "word": "难怪我一上高铁就睡觉",
+      "onboard_time": 1750019053,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72932,
       "num": 72932,
       "word": "佘诗曼抢到了炸虾labubu",
@@ -435,28 +451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54111,
-      "num": 87750,
-      "word": "网球也有削球手",
-      "onboard_time": 1750003941,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51614,
-      "num": 51614,
+      "raw_hot": 55417,
+      "num": 55417,
       "word": "那尔那茜走红之路多个疑点待彻查",
       "onboard_time": 1750014854,
       "rank": 14,
       "category": "艺人"
     },
     {
-      "raw_hot": 49847,
-      "num": 49847,
-      "word": "美国多地爆发大规模抗议游行",
-      "onboard_time": 1750017555,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 54111,
+      "num": 87750,
+      "word": "网球也有削球手",
+      "onboard_time": 1750003941,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 49162,
@@ -571,14 +579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 21236,
-      "num": 21236,
-      "word": "难怪我一上高铁就睡觉",
-      "onboard_time": 1750019053,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 20596,
       "num": 20596,
       "word": "微博喜剧现场",
@@ -593,6 +593,14 @@
       "onboard_time": 1750007778,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18804,
+      "num": 36728,
+      "word": "直击美国纽约爆发大规模示威游行",
+      "onboard_time": 1750018754,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17994,
@@ -619,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13742,
-      "num": 36728,
-      "word": "直击美国纽约爆发大规模示威游行",
-      "onboard_time": 1750018754,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 13022,
       "num": 45890,
       "word": "44岁波尔lastdance",
@@ -641,6 +641,22 @@
       "onboard_time": 1749994402,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9288,
+      "num": 19462,
+      "word": "海关查获走私玻尿酸轻医美或藏隐患",
+      "onboard_time": 1750022413,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8570,
+      "num": 19071,
+      "word": "叨叨傅说荣耀属于全体苏南",
+      "onboard_time": 1750021873,
+      "rank": 41,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

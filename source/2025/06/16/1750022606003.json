@@ -1,0 +1,410 @@
+{
+  "runTime": 1750022606003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 88022,
+        "num": 130819,
+        "word": "美国多地爆发大规模抗议游行",
+        "onboard_time": 1750017555,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87389,
+        "num": 87389,
+        "word": "大学里的男生为什么越来越少了",
+        "onboard_time": 1749996083,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7785,
+        "num": 82458,
+        "word": "我国对中亚五国进出口跑出加速度",
+        "onboard_time": 1749994402,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79728,
+        "num": 79728,
+        "word": "杭州一泡泡玛特开业当天闭店",
+        "onboard_time": 1749983481,
+        "rank": 3,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 74896,
+        "num": 74896,
+        "word": "以色列国家安全观已发生转变",
+        "onboard_time": 1750011435,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55417,
+        "num": 55417,
+        "word": "那尔那茜走红之路多个疑点待彻查",
+        "onboard_time": 1750014854,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54277,
+        "num": 54277,
+        "word": "11岁男孩每天吸二手烟得肺癌",
+        "onboard_time": 1750003221,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44797,
+        "num": 44797,
+        "word": "22岁中国男子泰国豪华酒店坠楼身亡",
+        "onboard_time": 1750000763,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40045,
+        "num": 40045,
+        "word": "无锡队倒数第一也没关系我是江阴的",
+        "onboard_time": 1750005320,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37521,
+        "num": 38464,
+        "word": "白鹿不敢想",
+        "onboard_time": 1750003221,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68239,
+        "num": 38350,
+        "word": "陈靖可 孙千",
+        "onboard_time": 1749999203,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38142,
+        "num": 38142,
+        "word": "伊朗再对以色列发动导弹袭击",
+        "onboard_time": 1750000763,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36709,
+        "num": 36709,
+        "word": "张檬自曝生孩子后脑雾",
+        "onboard_time": 1750000345,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36355,
+        "num": 36355,
+        "word": "泰国与印空难幸存者座位都是11A",
+        "onboard_time": 1749989360,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34570,
+        "num": 34570,
+        "word": "贵州杀妻灭子案现场血迹成因仍待解",
+        "onboard_time": 1749994280,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46543,
+        "num": 34549,
+        "word": "陈靖可取关孙千ins",
+        "onboard_time": 1749994703,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34453,
+        "num": 34453,
+        "word": "断崖式衰老的三个年龄段",
+        "onboard_time": 1749994522,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32261,
+        "num": 32261,
+        "word": "欢牛蛋糕倒闭",
+        "onboard_time": 1750011435,
+        "rank": 17,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 26317,
+        "num": 31491,
+        "word": "演员代旭辟谷7天瘦8斤",
+        "onboard_time": 1749994944,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25846,
+        "num": 31400,
+        "word": "长安的荔枝 易烊千玺",
+        "onboard_time": 1749982880,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31362,
+        "num": 31362,
+        "word": "爱奇艺副总裁道歉",
+        "onboard_time": 1749995243,
+        "rank": 20,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 28940,
+        "num": 28940,
+        "word": "伊朗爆炸点距总台记者驻地不足300米",
+        "onboard_time": 1749999203,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28821,
+        "num": 28821,
+        "word": "郭富城官宣方媛怀三胎",
+        "onboard_time": 1749980540,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26038,
+        "num": 26038,
+        "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
+        "onboard_time": 1750001001,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22549,
+        "num": 25161,
+        "word": "长得像王一博气质像窦靖童",
+        "onboard_time": 1749994944,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22184,
+        "num": 24835,
+        "word": "白鹿第三部破万剧",
+        "onboard_time": 1749998361,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24796,
+        "num": 24796,
+        "word": "央视记者距以军袭击目标不到300米",
+        "onboard_time": 1750001121,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20445,
+        "num": 24679,
+        "word": "佘诗曼抢到了炸虾labubu",
+        "onboard_time": 1749997462,
+        "rank": 27,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 17581,
+        "num": 24643,
+        "word": "临江仙破万",
+        "onboard_time": 1749994522,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17037,
+        "num": 24620,
+        "word": "汪苏泷演唱会穿了一身贝壳",
+        "onboard_time": 1750003221,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24613,
+        "num": 24613,
+        "word": "拜仁vs奥克兰城",
+        "onboard_time": 1750003702,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73247,
+        "num": 24567,
+        "word": "难怪我一上高铁就睡觉",
+        "onboard_time": 1750019053,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24264,
+        "num": 24264,
+        "word": "央视曝光伤人的公共健身器材",
+        "onboard_time": 1749997942,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22447,
+        "num": 22447,
+        "word": "陈梦说求婚现场人越多越好",
+        "onboard_time": 1749989781,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21491,
+        "num": 21491,
+        "word": "30只Labubu把老爸整破防了",
+        "onboard_time": 1749976819,
+        "rank": 34,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 21146,
+        "num": 21146,
+        "word": "灰熊魔术交易",
+        "onboard_time": 1750004299,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20161,
+        "num": 20161,
+        "word": "22岁女生玩恋陪本每月花一两千",
+        "onboard_time": 1750002742,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19811,
+        "num": 19811,
+        "word": "女子眼痒发现三条活虫在眼中",
+        "onboard_time": 1749993441,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19566,
+        "num": 19566,
+        "word": "丨州未能保住最后的笔画",
+        "onboard_time": 1749995481,
+        "rank": 38,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 9288,
+        "num": 19462,
+        "word": "海关查获走私玻尿酸轻医美或藏隐患",
+        "onboard_time": 1750022413,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19363,
+        "num": 19363,
+        "word": "一万多网购泡泡玛特卖家不发货拒退款",
+        "onboard_time": 1749995004,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8570,
+        "num": 19071,
+        "word": "叨叨傅说荣耀属于全体苏南",
+        "onboard_time": 1750021873,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18825,
+        "num": 18825,
+        "word": "让体脂率不断下降的小习惯",
+        "onboard_time": 1749989120,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 18804,
+        "num": 18804,
+        "word": "直击美国纽约爆发大规模示威游行",
+        "onboard_time": 1750018754,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17586,
+        "num": 17586,
+        "word": "苏超",
+        "onboard_time": 1749981860,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16486,
+        "num": 16486,
+        "word": "以色列全国紧急状态延至月底",
+        "onboard_time": 1750011016,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16434,
+        "num": 16434,
+        "word": "苏州越位了吗",
+        "onboard_time": 1750005198,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16415,
+        "num": 16415,
+        "word": "于正回应临江仙破万",
+        "onboard_time": 1749999203,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15962,
+        "num": 15962,
+        "word": "扎克伯格150亿美元投资数据标注公司",
+        "onboard_time": 1750018033,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15958,
+        "num": 15958,
+        "word": "伊朗警方称逮捕两名摩萨德特工",
+        "onboard_time": 1750013654,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习总书记的好作风#"
+    }
+  }
+}
