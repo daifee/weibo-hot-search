@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750009214211,
+  "endTime": 1750012395020,
   "band_list": [
     {
       "raw_hot": 764911,
@@ -251,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127726,
+      "num": 127726,
+      "word": "以色列国家安全观已发生转变",
+      "onboard_time": 1750011435,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127597,
       "num": 127597,
       "word": "伊朗再对以色列发动导弹袭击",
@@ -427,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51586,
+      "num": 51586,
+      "word": "欢牛蛋糕倒闭",
+      "onboard_time": 1750011435,
+      "rank": 22,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 49162,
       "num": 49162,
       "word": "道崽缺席赛后互动",
@@ -473,6 +489,38 @@
       "onboard_time": 1750005379,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31274,
+      "num": 31274,
+      "word": "一万多网购泡泡玛特卖家不发货拒退款",
+      "onboard_time": 1749995004,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30303,
+      "num": 30303,
+      "word": "以色列全国紧急状态延至月底",
+      "onboard_time": 1750011016,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 25484,
+      "num": 25484,
+      "word": "这个夏天苏新皓披荆斩棘",
+      "onboard_time": 1750012155,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24656,
+      "num": 24656,
+      "word": "汪苏泷给粉丝的爱是完整的",
+      "onboard_time": 1750012335,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 23491,
