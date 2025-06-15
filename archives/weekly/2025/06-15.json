@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750022606003,
+  "endTime": 1750023498212,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -3235,6 +3235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105128,
+      "num": 180171,
+      "word": "美国多地爆发大规模抗议游行",
+      "onboard_time": 1750017555,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104786,
       "num": 155406,
       "word": "联合国称不惜一切代价避免伊以失控",
@@ -3459,14 +3467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 88022,
-      "num": 130819,
-      "word": "美国多地爆发大规模抗议游行",
-      "onboard_time": 1750017555,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 87567,
       "num": 87567,
       "word": "文俊辉晚宴氛围感",
@@ -3588,7 +3588,7 @@
     },
     {
       "raw_hot": 73247,
-      "num": 24567,
+      "num": 25757,
       "word": "难怪我一上高铁就睡觉",
       "onboard_time": 1750019053,
       "rank": 44,
@@ -3683,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62672,
+      "num": 62672,
+      "word": "那尔那茜走红之路多个疑点待彻查",
+      "onboard_time": 1750014854,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62655,
       "num": 127484,
       "word": "若以继续侵略伊朗将更猛烈回击",
@@ -3721,14 +3729,6 @@
       "onboard_time": 1749921739,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 55417,
-      "num": 55417,
-      "word": "那尔那茜走红之路多个疑点待彻查",
-      "onboard_time": 1750014854,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 54111,
@@ -4299,6 +4299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 20132,
+      "num": 36728,
+      "word": "直击美国纽约爆发大规模示威游行",
+      "onboard_time": 1750018754,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20024,
       "num": 22630,
       "word": "这里是中亚",
@@ -4329,14 +4337,6 @@
       "onboard_time": 1750007778,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18804,
-      "num": 36728,
-      "word": "直击美国纽约爆发大规模示威游行",
-      "onboard_time": 1750018754,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18675,
@@ -4371,20 +4371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17496,
+      "num": 17496,
+      "word": "扎克伯格150亿美元投资数据标注公司",
+      "onboard_time": 1750018033,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 17221,
+      "num": 17221,
+      "word": "肖战超绝哭戏令人共情",
+      "onboard_time": 1750022714,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17116,
       "num": 26666,
       "word": "王俊凯亮相上影节红毯",
       "onboard_time": 1749927076,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 16272,
-      "num": 16498,
-      "word": "扎克伯格150亿美元投资数据标注公司",
-      "onboard_time": 1750018033,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 15136,
@@ -4475,20 +4483,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 9375,
+      "num": 47970,
+      "word": "叨叨傅说荣耀属于全体苏南",
+      "onboard_time": 1750021873,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9288,
       "num": 19462,
       "word": "海关查获走私玻尿酸轻医美或藏隐患",
       "onboard_time": 1750022413,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8570,
-      "num": 19071,
-      "word": "叨叨傅说荣耀属于全体苏南",
-      "onboard_time": 1750021873,
-      "rank": 41,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
