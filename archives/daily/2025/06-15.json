@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749997339012,
+  "endTime": 1749998457893,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -155,8 +155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 966776,
-      "num": 966776,
+      "raw_hot": 970522,
+      "num": 970522,
       "word": "爱奇艺副总裁道歉",
       "onboard_time": 1749995243,
       "rank": 5,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 705848,
+      "num": 705848,
+      "word": "丨州未能保住最后的笔画",
+      "onboard_time": 1749995481,
+      "rank": 15,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 693922,
       "num": 356478,
       "word": "刘耀文",
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552590,
+      "num": 552590,
+      "word": "滕王阁遭无人机划伤当事游客发声",
+      "onboard_time": 1749996143,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 550448,
       "num": 309595,
       "word": "大爷体内藏52年牙刷称以为能溶解掉",
@@ -425,14 +441,6 @@
       "onboard_time": 1749992181,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 539074,
-      "num": 539074,
-      "word": "丨州未能保住最后的笔画",
-      "onboard_time": 1749995481,
-      "rank": 15,
-      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 523208,
@@ -536,6 +544,14 @@
       "word": "把亡妻婚戒融一起男子回应将当爷爷",
       "onboard_time": 1749946039,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 473135,
+      "num": 473135,
+      "word": "大学里的男生为什么越来越少了",
+      "onboard_time": 1749996083,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -763,12 +779,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 317607,
-      "num": 317607,
-      "word": "大学里的男生为什么越来越少了",
-      "onboard_time": 1749996083,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 313973,
+      "num": 313973,
+      "word": "灵山大佛",
+      "onboard_time": 1749995004,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 307543,
@@ -809,14 +825,6 @@
       "onboard_time": 1749996682,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 297021,
-      "num": 297021,
-      "word": "灵山大佛",
-      "onboard_time": 1749995004,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 295018,
@@ -931,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 277506,
+      "num": 475712,
+      "word": "贵州杀妻灭子案现场血迹成因仍待解",
+      "onboard_time": 1749994280,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276980,
       "num": 276980,
       "word": "单依纯双的时候",
@@ -953,6 +969,14 @@
       "onboard_time": 1749978381,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 273652,
+      "num": 473660,
+      "word": "佘诗曼抢到了炸虾labubu",
+      "onboard_time": 1749997462,
+      "rank": 16,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 273073,
@@ -1033,6 +1057,14 @@
       "onboard_time": 1749990142,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256371,
+      "num": 290112,
+      "word": "白鹿第三部破万剧",
+      "onboard_time": 1749998361,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 254008,
@@ -1315,6 +1347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201175,
+      "num": 201175,
+      "word": "周深大师课婉拒了哈",
+      "onboard_time": 1749997521,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200752,
       "num": 200752,
       "word": "陈梦还想再战奥运会",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1749991880,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 199053,
-      "num": 199053,
-      "word": "贵州杀妻灭子案现场血迹成因仍待解",
-      "onboard_time": 1749994280,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199050,
@@ -1489,6 +1521,14 @@
       "onboard_time": 1749968120,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190746,
+      "num": 427353,
+      "word": "张颜齐 黄子弘凡你骂我两句吧",
+      "onboard_time": 1749997702,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 189674,
@@ -1651,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176670,
+      "num": 289294,
+      "word": "聂远女儿长这么高了",
+      "onboard_time": 1749997283,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175999,
       "num": 192301,
       "word": "王星越你别要了我害怕",
@@ -1811,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166758,
+      "num": 166758,
+      "word": "央视曝光伤人的公共健身器材",
+      "onboard_time": 1749997942,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 165533,
       "num": 165533,
       "word": "新说唱清退不当言论运营人员",
@@ -1865,6 +1921,14 @@
       "onboard_time": 1749957079,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160053,
+      "num": 414101,
+      "word": "一万多网购泡泡玛特卖家不发货拒退款",
+      "onboard_time": 1749995004,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159721,
@@ -1929,14 +1993,6 @@
       "onboard_time": 1749920119,
       "rank": 28,
       "category": "情感,读书作家"
-    },
-    {
-      "raw_hot": 155644,
-      "num": 155644,
-      "word": "一万多网购泡泡玛特卖家不发货拒退款",
-      "onboard_time": 1749995004,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154192,
@@ -2057,14 +2113,6 @@
       "onboard_time": 1749986060,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144177,
-      "num": 539092,
-      "word": "滕王阁遭无人机划伤当事游客发声",
-      "onboard_time": 1749996143,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143877,
@@ -2363,14 +2411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131205,
-      "num": 131205,
-      "word": "聂远女儿长这么高了",
-      "onboard_time": 1749997283,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131016,
       "num": 131016,
       "word": "周深演唱会是跨年配置吧",
@@ -2425,6 +2465,14 @@
       "onboard_time": 1749952520,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128253,
+      "num": 128253,
+      "word": "法拉利勒芒三连冠",
+      "onboard_time": 1749998183,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 127585,
@@ -2731,6 +2779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116660,
+      "num": 116660,
+      "word": "波尔谢幕战2比3雨果",
+      "onboard_time": 1749997883,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116583,
       "num": 275557,
       "word": "男子身穿外卖服顺走店家3份螺蛳粉",
@@ -2745,6 +2801,14 @@
       "onboard_time": 1749967940,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116423,
+      "num": 116423,
+      "word": "台风夜暴雨下成一团白线",
+      "onboard_time": 1749997763,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115849,
@@ -3251,6 +3315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73160,
+      "num": 566499,
+      "word": "日本民间团体敦促政府返还中国文物",
+      "onboard_time": 1749996923,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69969,
       "num": 272072,
       "word": "马拉松冠军的训练是给女儿买牛奶",
@@ -3531,20 +3603,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38111,
+      "num": 1131294,
+      "word": "一系列先行指标看经济活力",
+      "onboard_time": 1749994522,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37117,
       "num": 270405,
       "word": "为什么高薪专业几乎被工科包揽",
       "onboard_time": 1749976340,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37094,
-      "num": 1131294,
-      "word": "一系列先行指标看经济活力",
-      "onboard_time": 1749994522,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37012,
@@ -3577,14 +3649,6 @@
       "onboard_time": 1749968899,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34244,
-      "num": 539298,
-      "word": "日本民间团体敦促政府返还中国文物",
-      "onboard_time": 1749996923,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33351,
