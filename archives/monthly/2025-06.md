@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/15 07:39:55
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/15 10:12:00
 </p>
 </blockquote>
 <p>
@@ -1551,6 +1551,12 @@ afternoon怎么变形（热度：1248150）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%80%E5%8E%BB%E4%B8%96%23" target="weibo">
+金昀去世（热度：1138943）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Labubu%E7%88%86%E7%81%AB%E7%A6%BB%E4%B8%8D%E5%BC%80%E8%BF%99%E5%9B%9B%E5%A4%A7%E5%9B%A0%E7%B4%A0%23" target="weibo">
 Labubu爆火离不开这四大因素（热度：1131522）
 </a>
@@ -2175,6 +2181,12 @@ labubu（热度：930311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%23" target="weibo">
+父亲节（热度：925306）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%94%E6%BC%AB%E5%B1%95%E4%B8%8A2%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%8C%87%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%23" target="weibo">
 工作人员回应漫展上2女童被指衣着暴露（热度：924886）
 </a>
@@ -2421,6 +2433,12 @@ AL战胜BLG（热度：859667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%B8%A3%E7%AC%9B%E5%BC%95%E8%B7%AF%E4%BA%BA%E4%B8%8D%E6%BB%A1%E5%BC%BA%E8%A1%8C%E9%A9%B6%E7%A6%BB%E8%87%B41%E6%AD%BB4%E4%BC%A4%23" target="weibo">
+男子鸣笛引路人不满强行驶离致1死4伤（热度：856814）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%BE%8E%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86%23" target="weibo">
 张婧仪美成啥样了（热度：856776）
 </a>
@@ -2519,6 +2537,12 @@ AL战胜BLG（热度：859667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C12%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E4%BE%B5%E5%AE%B3%E8%87%B4%E7%B2%BE%E7%A5%9E%E5%A4%B1%E5%B8%B8%23" target="weibo">
 山东12岁女孩遭侵害致精神失常（热度：831124）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E6%BC%8F%E9%9B%A8%23" target="weibo">
+故宫漏雨（热度：828503）
 </a>
 </li>
 
@@ -4467,6 +4491,12 @@ GAI 大白嗓（热度：583445）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E8%83%A1%E5%A1%9E%E9%AB%98%E7%BA%A7%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%A4%B1%E8%B4%A5%23" target="weibo">
+以色列暗杀胡塞高级领导人失败（热度：559598）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%BA%E6%B0%A7%E7%A6%BB%E4%B8%96%E5%8D%A1%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%B7%B2%E4%B8%8B%E8%91%AC%E5%8D%A1%E5%8F%8B%E5%8F%91%E5%A3%B0%23" target="weibo">
 缺氧离世卡车司机已下葬卡友发声（热度：558235）
 </a>
@@ -4823,6 +4853,12 @@ Labubu催生庞大周边产业链（热度：535204）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%B7%A7%E5%B7%A730%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%81%9A%E8%BF%87%E5%8C%BB%E7%BE%8E%23" target="weibo">
 金巧巧30年前就做过医美（热度：521971）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AE%83%E4%BB%AC%E4%B8%8D%E5%8F%ABlabubu%23" target="weibo">
+原来它们不叫labubu（热度：521762）
 </a>
 </li>
 
@@ -5421,6 +5457,12 @@ WTT大满贯取消强制参赛（热度：498839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E4%BA%A1%E5%A6%BB%E5%A9%9A%E6%88%92%E8%9E%8D%E4%B8%80%E8%B5%B7%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E5%B0%86%E5%BD%93%E7%88%B7%E7%88%B7%23" target="weibo">
+把亡妻婚戒融一起男子回应将当爷爷（热度：477062）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E9%81%AD%E7%99%BD%E5%AE%AB%E8%83%8C%E5%88%BA%23" target="weibo">
 马斯克遭白宫背刺（热度：476876）
 </a>
@@ -5639,6 +5681,12 @@ Monki好强（热度：468905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E5%8C%BB%E9%99%A2%E4%B8%80%E8%88%AC%E6%B2%A1%E6%9C%89%E6%8A%97%E8%9B%87%E6%AF%92%E8%A1%80%E6%B8%85%23" target="weibo">
 普通医院一般没有抗蛇毒血清（热度：463372）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BB%A5%E8%89%B2%E5%88%97%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD%23" target="weibo">
+伊朗导弹击中以色列能源设施（热度：463216）
 </a>
 </li>
 
@@ -5883,6 +5931,12 @@ AL对战BLG（热度：455359）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8E%A8%E4%BA%86%E9%85%B1%E5%9B%AD%E5%BC%84%E7%9A%84%E4%BA%BA%23" target="weibo">
+李现是第一个推了酱园弄的人（热度：441468）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%B1%82%E6%AD%BB%E7%A0%8D%E6%AD%BB%E9%82%BB%E5%B1%85%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
 95后女子为求死砍死邻居已被执行死刑（热度：441053）
 </a>
@@ -5957,60 +6011,6 @@ iG战胜WBG（热度：440456）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%85%AC%E5%9B%AD%E8%8D%A1%E7%BD%91%E7%BA%A2%E7%A7%8B%E5%8D%83%E5%9D%A0%E6%B2%B3%E5%8E%BB%E4%B8%96%23" target="weibo">
 10岁女孩公园荡网红秋千坠河去世（热度：436256）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2311%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E5%A6%88%E5%A6%88%E5%8D%95%E4%BD%8D%E8%A2%AB%E7%94%B7%E5%90%8C%E4%BA%8B%E7%8C%A5%E4%BA%B5%23" target="weibo">
-11岁女童在妈妈单位被男同事猥亵（热度：435825）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%BD%AC%E8%BD%AC%E6%A4%8D%E5%85%A5%E9%AB%98%E8%80%83%23" target="weibo">
-疑似转转植入高考（热度：435825）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E5%9B%A0%E4%B8%BA%E7%8A%B6%E6%80%81%E5%A4%AA%E5%A5%BD%E8%80%8C%E6%97%A0%E6%95%88%E5%8F%98%E8%A3%85%23" target="weibo">
-张远因为状态太好而无效变装（热度：435403）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Labubu%E9%83%BD%E7%81%AB%E4%BA%86%20%E6%96%B9%E5%9C%86%E8%84%B8%E6%97%B6%E4%BB%A3%E6%80%8E%E4%B9%88%E8%BF%98%E6%B2%A1%E6%9D%A5%23" target="weibo">
-Labubu都火了 方圆脸时代怎么还没来（热度：435128）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%A9%AC%E9%BE%99%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8E%9F%E5%A3%B0%E7%A5%9D%E7%A6%8F%23" target="weibo">
-樊振东马龙孙颖莎原声祝福（热度：434441）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232008%E5%B9%B4%E6%95%85%E6%84%8F%E8%80%830%E5%88%86%E7%94%B7%E5%AD%90%E7%AC%AC%E5%9B%9B%E6%AC%A1%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%23" target="weibo">
-2008年故意考0分男子第四次参加高考（热度：434045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E4%BA%86%E5%81%87%E8%BD%A6%E9%99%A9%E8%BD%A6%E4%B8%BB%E8%87%AA%E6%8B%85100%E4%B8%87%E8%B5%94%E5%81%BF%23" target="weibo">
-买了假车险车主自担100万赔偿（热度：433413）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E7%BD%97%E5%B8%85%E5%AE%87%E4%BA%8B%E4%BB%B6%E4%BB%8D%E5%9C%A8%E8%B0%83%E6%9F%A5%23" target="weibo">
-湘雅二医院罗帅宇事件仍在调查（热度：433210）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%8F%B0%E7%8B%AC%E9%A1%BD%E5%9B%BA%E5%88%86%E5%AD%90%E6%B2%88%E4%BC%AF%E6%B4%8B%E5%85%B3%E8%81%94%E4%BC%81%E4%B8%9A%E4%BA%88%E4%BB%A5%E6%83%A9%E6%88%92%23" target="weibo">
-对台独顽固分子沈伯洋关联企业予以惩戒（热度：433037）
 </a>
 </li>
 

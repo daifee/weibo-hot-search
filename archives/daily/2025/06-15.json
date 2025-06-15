@@ -1,14 +1,22 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749944395501,
+  "endTime": 1749953520086,
   "band_list": [
     {
       "raw_hot": 1752363,
-      "num": 320751,
+      "num": 453927,
       "word": "公开戴不雅手表是否涉传播淫秽物品",
       "onboard_time": 1749909863,
       "rank": 10,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 1138943,
+      "num": 1182230,
+      "word": "金昀去世",
+      "onboard_time": 1749946820,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1029338,
@@ -25,6 +33,30 @@
       "onboard_time": 1749905002,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 925306,
+      "num": 925306,
+      "word": "父亲节",
+      "onboard_time": 1749944538,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 856814,
+      "num": 856814,
+      "word": "男子鸣笛引路人不满强行驶离致1死4伤",
+      "onboard_time": 1749947839,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 828503,
+      "num": 828503,
+      "word": "故宫漏雨",
+      "onboard_time": 1749949760,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 808775,
@@ -67,12 +99,60 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559598,
+      "num": 559598,
+      "word": "以色列暗杀胡塞高级领导人失败",
+      "onboard_time": 1749948320,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 550448,
       "num": 309595,
       "word": "大爷体内藏52年牙刷称以为能溶解掉",
       "onboard_time": 1749911364,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 521762,
+      "num": 521762,
+      "word": "原来它们不叫labubu",
+      "onboard_time": 1749946639,
+      "rank": 7,
+      "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 477062,
+      "num": 477062,
+      "word": "把亡妻婚戒融一起男子回应将当爷爷",
+      "onboard_time": 1749946039,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 463216,
+      "num": 463216,
+      "word": "伊朗导弹击中以色列能源设施",
+      "onboard_time": 1749951019,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 441468,
+      "num": 441468,
+      "word": "李现是第一个推了酱园弄的人",
+      "onboard_time": 1749921557,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 421301,
+      "num": 421301,
+      "word": "伊朗警告美英法3国",
+      "onboard_time": 1749946939,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 416129,
@@ -115,20 +195,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343647,
+      "num": 343647,
+      "word": "印度一男孩遭坠毁客机碎片砸中身亡",
+      "onboard_time": 1749946338,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 329446,
       "num": 329446,
       "word": "43岁张亮与10岁女儿合拍杂志",
       "onboard_time": 1749902483,
       "rank": 8,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 325352,
-      "num": 325352,
-      "word": "李现是第一个推了酱园弄的人",
-      "onboard_time": 1749921557,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 324414,
@@ -147,6 +227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 293204,
+      "num": 293204,
+      "word": "翟潇闻说内娱最漂亮女艺人刘诗诗",
+      "onboard_time": 1749943217,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290507,
       "num": 290507,
       "word": "王毅分别同伊朗外长和以色列外长通电话",
@@ -163,6 +251,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 281197,
+      "num": 281197,
+      "word": "以色列一城市大片别墅变废墟",
+      "onboard_time": 1749949700,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 279732,
       "num": 279732,
       "word": "Bin哥 嘴硬",
@@ -171,12 +267,52 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 254008,
+      "num": 254008,
+      "word": "伊朗称将袭击以战斗机燃料生产设施",
+      "onboard_time": 1749946939,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 248378,
+      "num": 248378,
+      "word": "以国家安全总局局长辞职",
+      "onboard_time": 1749948320,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241009,
       "num": 204205,
       "word": "邓紫棋再唱句号终于释然",
       "onboard_time": 1749916221,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 228765,
+      "num": 249359,
+      "word": "披荆斩棘 镜头",
+      "onboard_time": 1749919700,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221811,
+      "num": 221811,
+      "word": "怎么轮到结婚就开始让我凑合了",
+      "onboard_time": 1749948080,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 219684,
+      "num": 248854,
+      "word": "网红泰国商场直播带货被查",
+      "onboard_time": 1749946459,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 207118,
@@ -259,20 +395,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177156,
+      "num": 177156,
+      "word": "郑钦文与女王杯遗憾擦肩",
+      "onboard_time": 1749951081,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175003,
       "num": 296844,
       "word": "Labubu为何爆火",
       "onboard_time": 1749916822,
       "rank": 14,
       "category": "民生新闻,议题讨论"
-    },
-    {
-      "raw_hot": 171324,
-      "num": 171324,
-      "word": "披荆斩棘 镜头",
-      "onboard_time": 1749919700,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 171176,
@@ -289,6 +425,22 @@
       "onboard_time": 1749892832,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 162330,
+      "num": 248509,
+      "word": "杨幂感谢章子怡",
+      "onboard_time": 1749943096,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 161161,
+      "num": 161161,
+      "word": "邓紫棋发文再谈六年版权纠纷",
+      "onboard_time": 1749952520,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 156083,
@@ -363,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129695,
+      "num": 129695,
+      "word": "虞书欣元气双马尾",
+      "onboard_time": 1749952520,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126688,
       "num": 126688,
       "word": "tabe发言",
@@ -377,6 +537,14 @@
       "onboard_time": 1749908662,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122754,
+      "num": 122754,
+      "word": "石凯新歌",
+      "onboard_time": 1749949640,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 122092,
@@ -436,11 +604,19 @@
     },
     {
       "raw_hot": 112289,
-      "num": 65486,
+      "num": 101222,
       "word": "只有存过钱的才知道她有多真诚",
       "onboard_time": 1749942256,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111029,
+      "num": 111029,
+      "word": "原定15日举行的伊美谈判取消",
+      "onboard_time": 1749949340,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109787,
@@ -451,6 +627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109225,
+      "num": 109225,
+      "word": "我想你了爸爸",
+      "onboard_time": 1749945377,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104786,
       "num": 155406,
       "word": "联合国称不惜一切代价避免伊以失控",
@@ -459,12 +643,36 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 92788,
-      "num": 92788,
-      "word": "杨幂感谢章子怡",
-      "onboard_time": 1749943096,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 102968,
+      "num": 102968,
+      "word": "父爱无言却如山般深沉",
+      "onboard_time": 1749950721,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97785,
+      "num": 97785,
+      "word": "苏超已进化到机器人出场了",
+      "onboard_time": 1749951019,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95369,
+      "num": 95369,
+      "word": "曾毅回应不雅手表争议网友并不买账",
+      "onboard_time": 1749953479,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92291,
+      "num": 92291,
+      "word": "阿姨夸狗狗把情绪价值拉满了",
+      "onboard_time": 1749951081,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 92189,
@@ -475,12 +683,60 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91638,
+      "num": 91638,
+      "word": "Bin说优胜者不是冠军",
+      "onboard_time": 1749946338,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 88923,
+      "num": 88923,
+      "word": "父亲节文案",
+      "onboard_time": 1749953182,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87567,
       "num": 87567,
       "word": "文俊辉晚宴氛围感",
       "onboard_time": 1749919459,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 87450,
+      "num": 87450,
+      "word": "Bin说的话变回旋镖",
+      "onboard_time": 1749952941,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 85015,
+      "num": 85015,
+      "word": "临江仙",
+      "onboard_time": 1749946338,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84312,
+      "num": 90467,
+      "word": "世俱杯",
+      "onboard_time": 1749949760,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81875,
+      "num": 81875,
+      "word": "普京透露俄准备调解伊以冲突",
+      "onboard_time": 1749946278,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76315,
@@ -496,14 +752,6 @@
       "word": "哈妮克孜颜安吻戏",
       "onboard_time": 1749943157,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 73785,
-      "num": 73785,
-      "word": "翟潇闻说内娱最漂亮女艺人刘诗诗",
-      "onboard_time": 1749943217,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -531,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59266,
+      "num": 861224,
+      "word": "糖画和文化遗产这一刻融合了",
+      "onboard_time": 1749909863,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56676,
       "num": 56676,
       "word": "伊军称战争规模未来几天持续扩大",
@@ -553,14 +809,6 @@
       "onboard_time": 1749943278,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52067,
-      "num": 443284,
-      "word": "糖画和文化遗产这一刻融合了",
-      "onboard_time": 1749909863,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 52044,
