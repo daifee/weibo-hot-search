@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749970093624,
+  "endTime": 1749972263823,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -67,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 961368,
+      "num": 961368,
+      "word": "打电话是一个侵入性特别强的动作",
+      "onboard_time": 1749965600,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 856814,
       "num": 856814,
       "word": "男子鸣笛引路人不满强行驶离致1死4伤",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 788389,
-      "num": 330315,
+      "num": 349945,
       "word": "曝刘诗诗杨幂双C",
       "onboard_time": 1749963260,
       "rank": 11,
@@ -203,6 +211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 505349,
+      "num": 505349,
+      "word": "这父亲节过的像是人情世故",
+      "onboard_time": 1749968899,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 484879,
       "num": 484879,
       "word": "兰香如故换角",
@@ -227,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 465731,
+      "num": 465731,
+      "word": "4类人尽量不吃或少吃荔枝",
+      "onboard_time": 1749969560,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 441468,
       "num": 441468,
       "word": "李现是第一个推了酱园弄的人",
       "onboard_time": 1749921557,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 432792,
+      "num": 432792,
+      "word": "曾舜晞在吻了在吻了",
+      "onboard_time": 1749969619,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 421301,
@@ -355,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315461,
-      "num": 315461,
-      "word": "打电话是一个侵入性特别强的动作",
-      "onboard_time": 1749965600,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 301202,
       "num": 378808,
       "word": "美国洛杉矶现状",
@@ -409,6 +433,14 @@
       "onboard_time": 1749963142,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284713,
+      "num": 284713,
+      "word": "labubu老祖",
+      "onboard_time": 1749970340,
+      "rank": 16,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 283960,
@@ -473,6 +505,14 @@
       "onboard_time": 1749956480,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 263588,
+      "num": 263588,
+      "word": "刘浩存向上抹眼泪的都是狠人",
+      "onboard_time": 1749970400,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 254008,
@@ -595,28 +635,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201852,
-      "num": 351751,
-      "word": "4类人尽量不吃或少吃荔枝",
-      "onboard_time": 1749969560,
-      "rank": 9,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 201748,
       "num": 201748,
       "word": "00后的第一个父亲节礼物是被爆改",
       "onboard_time": 1749959660,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 201012,
-      "num": 279505,
-      "word": "曾舜晞在吻了在吻了",
-      "onboard_time": 1749969619,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 200752,
@@ -632,6 +656,14 @@
       "word": "宋亚轩贺峻霖死党拍照模板",
       "onboard_time": 1749969440,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197898,
+      "num": 197898,
+      "word": "嫡长爱豆韩庚杀回来了",
+      "onboard_time": 1749970580,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -675,14 +707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195375,
-      "num": 166253,
-      "word": "这父亲节过的像是人情世故",
-      "onboard_time": 1749968899,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193916,
       "num": 193916,
       "word": "梅西倒地",
@@ -715,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188399,
+      "num": 188399,
+      "word": "虞书欣说选大爆剧的主角",
+      "onboard_time": 1749972200,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188011,
       "num": 210313,
       "word": "沈马文轩一家四口",
@@ -744,6 +776,22 @@
       "word": "眼科医生提醒改掉4个涨度数坏习惯",
       "onboard_time": 1749913464,
       "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182830,
+      "num": 266262,
+      "word": "王星越旁白父亲节短片太戳了",
+      "onboard_time": 1749971300,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182541,
+      "num": 202466,
+      "word": "侧躺玩手机变丑是最轻的惩罚",
+      "onboard_time": 1749968120,
+      "rank": 41,
       "category": "健康医疗"
     },
     {
@@ -859,6 +907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 164677,
+      "num": 170410,
+      "word": "李嘉格婚后第一次被妈妈认可",
+      "onboard_time": 1749968180,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162911,
       "num": 162911,
       "word": "光与夜之恋",
@@ -947,14 +1003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151696,
-      "num": 170410,
-      "word": "李嘉格婚后第一次被妈妈认可",
-      "onboard_time": 1749968180,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151455,
       "num": 247834,
       "word": "陶喆新说唱时候",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1749955401,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141013,
+      "num": 141013,
+      "word": "去寺庙就是为了这一口素面",
+      "onboard_time": 1749970280,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 140799,
@@ -1131,6 +1187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130792,
+      "num": 130792,
+      "word": "武商集团员工卖卡诈骗11亿被判无期",
+      "onboard_time": 1749968840,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130768,
       "num": 181097,
       "word": "许嵩三度扔伞陪粉丝一起淋雨",
@@ -1195,6 +1259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125112,
+      "num": 125112,
+      "word": "一只流浪猫在我床上生孩子了",
+      "onboard_time": 1749971780,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125070,
       "num": 125070,
       "word": "马丽看沈腾耍赖的反应",
@@ -1227,20 +1299,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122220,
+      "num": 288496,
+      "word": "质疑父亲理解父亲成为父亲",
+      "onboard_time": 1749971480,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122092,
       "num": 122092,
       "word": "刘浩存感谢大家在这个夏天的陪伴",
       "onboard_time": 1749916342,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121969,
-      "num": 121969,
-      "word": "侧躺玩手机变丑是最轻的惩罚",
-      "onboard_time": 1749968120,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 121703,
@@ -1299,6 +1371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118013,
+      "num": 118013,
+      "word": "北京WBG对战Gr",
+      "onboard_time": 1749971661,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116977,
       "num": 241986,
       "word": "魏哲鸣快在泼水环节溺水了",
@@ -1347,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114438,
+      "num": 285929,
+      "word": "民企投入2000万接手14万吨废石",
+      "onboard_time": 1749966680,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 114136,
       "num": 114136,
       "word": "全员加速中",
@@ -1363,20 +1451,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 112465,
-      "num": 285929,
-      "word": "民企投入2000万接手14万吨废石",
-      "onboard_time": 1749966680,
-      "rank": 47,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 112289,
       "num": 101222,
       "word": "只有存过钱的才知道她有多真诚",
       "onboard_time": 1749942256,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112036,
+      "num": 112036,
+      "word": "张小婉摔到鞋都没了",
+      "onboard_time": 1749971060,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111241,
+      "num": 111241,
+      "word": "惠英红 红玫瑰与绿翡翠",
+      "onboard_time": 1749970580,
+      "rank": 44,
+      "category": "电影,艺人"
     },
     {
       "raw_hot": 111029,
@@ -1427,12 +1523,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 104788,
-      "num": 104788,
-      "word": "武商集团员工卖卡诈骗11亿被判无期",
-      "onboard_time": 1749968840,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 105402,
+      "num": 104398,
+      "word": "丁程鑫睡宋亚轩刘耀文中间",
+      "onboard_time": 1749970340,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 104786,
@@ -1465,6 +1561,22 @@
       "onboard_time": 1749954679,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102213,
+      "num": 102213,
+      "word": "梁伟铿为母校打call",
+      "onboard_time": 1749972140,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101095,
+      "num": 101095,
+      "word": "戍边烈士陈祥榕牺牲5周年",
+      "onboard_time": 1749970820,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100460,
@@ -1521,6 +1633,14 @@
       "onboard_time": 1749966021,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 96588,
+      "num": 279716,
+      "word": "在京东猜苏超输赢",
+      "onboard_time": 1749971480,
+      "rank": 17,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 95964,
@@ -1728,6 +1848,14 @@
       "word": "若以继续侵略伊朗将更猛烈回击",
       "onboard_time": 1749961640,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 61091,
+      "num": 316265,
+      "word": "以总理去年11月曾下令摧毁伊核计划",
+      "onboard_time": 1749971599,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -1947,6 +2075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24790,
+      "num": 270627,
+      "word": "熟人借钱不还如何体面要债",
+      "onboard_time": 1749970880,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23844,
       "num": 25467,
       "word": "麻花特开心",
@@ -2090,6 +2226,9 @@
     },
     {
       "word": "#赤子情深#"
+    },
+    {
+      "word": "#习主席为何称这条路名垂青史#"
     }
   ]
 }

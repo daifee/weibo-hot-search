@@ -1,0 +1,410 @@
+{
+  "runTime": 1749972263823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1323931,
+        "num": 1323931,
+        "word": "荔枝 低血糖",
+        "onboard_time": 1749960080,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 961368,
+        "num": 961368,
+        "word": "打电话是一个侵入性特别强的动作",
+        "onboard_time": 1749965600,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36355,
+        "num": 713149,
+        "word": "在中亚感受中国热",
+        "onboard_time": 1749959961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555731,
+        "num": 555731,
+        "word": "张朝阳退回的labubu换了一辆车",
+        "onboard_time": 1749959180,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 505349,
+        "num": 505349,
+        "word": "这父亲节过的像是人情世故",
+        "onboard_time": 1749968899,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333640,
+        "num": 472994,
+        "word": "父亲节",
+        "onboard_time": 1749944538,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465731,
+        "num": 465731,
+        "word": "4类人尽量不吃或少吃荔枝",
+        "onboard_time": 1749969560,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 432792,
+        "num": 432792,
+        "word": "曾舜晞在吻了在吻了",
+        "onboard_time": 1749969619,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353917,
+        "num": 353917,
+        "word": "肖战藏海传重新认识古装剧",
+        "onboard_time": 1749964640,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168351,
+        "num": 350045,
+        "word": "谢震业父亲节官宣当爸爸",
+        "onboard_time": 1749963199,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442739,
+        "num": 350029,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 10,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 427115,
+        "num": 349945,
+        "word": "曝刘诗诗杨幂双C",
+        "onboard_time": 1749963260,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 348820,
+        "num": 348820,
+        "word": "兰香如故换角",
+        "onboard_time": 1749966381,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61091,
+        "num": 316265,
+        "word": "以总理去年11月曾下令摧毁伊核计划",
+        "onboard_time": 1749971599,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309400,
+        "num": 309400,
+        "word": "下辈子第一志愿严莉莉",
+        "onboard_time": 1749963679,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122220,
+        "num": 288496,
+        "word": "质疑父亲理解父亲成为父亲",
+        "onboard_time": 1749971480,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284713,
+        "num": 284713,
+        "word": "labubu老祖",
+        "onboard_time": 1749970340,
+        "rank": 16,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 96588,
+        "num": 279716,
+        "word": "在京东猜苏超输赢",
+        "onboard_time": 1749971480,
+        "rank": 17,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 278490,
+        "num": 278490,
+        "word": "以色列地面出现巨大弹坑",
+        "onboard_time": 1749965000,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24790,
+        "num": 270627,
+        "word": "熟人借钱不还如何体面要债",
+        "onboard_time": 1749970880,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182830,
+        "num": 266262,
+        "word": "王星越旁白父亲节短片太戳了",
+        "onboard_time": 1749971300,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263588,
+        "num": 263588,
+        "word": "刘浩存向上抹眼泪的都是狠人",
+        "onboard_time": 1749970400,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219482,
+        "num": 219482,
+        "word": "曾毅回应不雅手表争议网友并不买账",
+        "onboard_time": 1749953479,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214996,
+        "num": 214996,
+        "word": "伊朗打击以色列中部6死200多伤",
+        "onboard_time": 1749966559,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182541,
+        "num": 202466,
+        "word": "侧躺玩手机变丑是最轻的惩罚",
+        "onboard_time": 1749968120,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197898,
+        "num": 197898,
+        "word": "嫡长爱豆韩庚杀回来了",
+        "onboard_time": 1749970580,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188399,
+        "num": 188399,
+        "word": "虞书欣说选大爆剧的主角",
+        "onboard_time": 1749972200,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186139,
+        "num": 186139,
+        "word": "陈梦还想再战奥运会",
+        "onboard_time": 1749968542,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171827,
+        "num": 171827,
+        "word": "严浩翔祝贺峻霖21岁生日快乐",
+        "onboard_time": 1749963441,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159401,
+        "num": 159401,
+        "word": "台湾名嘴说昆山厕所没有门",
+        "onboard_time": 1749958760,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164677,
+        "num": 158623,
+        "word": "李嘉格婚后第一次被妈妈认可",
+        "onboard_time": 1749968180,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142490,
+        "num": 142490,
+        "word": "泡泡玛特 老虎机",
+        "onboard_time": 1749963500,
+        "rank": 31,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 141013,
+        "num": 141013,
+        "word": "去寺庙就是为了这一口素面",
+        "onboard_time": 1749970280,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139276,
+        "num": 139276,
+        "word": "老人去世后干女儿与配偶侄子争房产",
+        "onboard_time": 1749962001,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130792,
+        "num": 130792,
+        "word": "武商集团员工卖卡诈骗11亿被判无期",
+        "onboard_time": 1749968840,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129842,
+        "num": 129842,
+        "word": "郑钦文说被鞋子问题影响注意力",
+        "onboard_time": 1749968542,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125112,
+        "num": 125112,
+        "word": "一只流浪猫在我床上生孩子了",
+        "onboard_time": 1749971780,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124842,
+        "num": 124842,
+        "word": "陈梦坦言不想退役",
+        "onboard_time": 1749966440,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118013,
+        "num": 118013,
+        "word": "北京WBG对战Gr",
+        "onboard_time": 1749971661,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115755,
+        "num": 115755,
+        "word": "程潇攒练习生时小票十倍还给妈妈",
+        "onboard_time": 1749967162,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114616,
+        "num": 114616,
+        "word": "伊朗导弹击中以色列能源设施",
+        "onboard_time": 1749951019,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114438,
+        "num": 114438,
+        "word": "民企投入2000万接手14万吨废石",
+        "onboard_time": 1749966680,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 112225,
+        "num": 112225,
+        "word": "马嘉祺丁程鑫差点亲上了",
+        "onboard_time": 1749956900,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112036,
+        "num": 112036,
+        "word": "张小婉摔到鞋都没了",
+        "onboard_time": 1749971060,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111241,
+        "num": 111241,
+        "word": "惠英红 红玫瑰与绿翡翠",
+        "onboard_time": 1749970580,
+        "rank": 44,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 109243,
+        "num": 109243,
+        "word": "能养出毛利兰的人能差到哪去",
+        "onboard_time": 1749966980,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104628,
+        "num": 104628,
+        "word": "金昀去世",
+        "onboard_time": 1749946820,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105402,
+        "num": 104398,
+        "word": "丁程鑫睡宋亚轩刘耀文中间",
+        "onboard_time": 1749970340,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102213,
+        "num": 102213,
+        "word": "梁伟铿为母校打call",
+        "onboard_time": 1749972140,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101095,
+        "num": 101095,
+        "word": "戍边烈士陈祥榕牺牲5周年",
+        "onboard_time": 1749970820,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席为何称这条路名垂青史#"
+    }
+  }
+}
