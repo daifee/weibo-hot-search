@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749972263823,
+  "endTime": 1749973100287,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -2499,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1019688,
+      "num": 1019688,
+      "word": "打电话是一个侵入性特别强的动作",
+      "onboard_time": 1749965600,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1019403,
       "num": 394240,
       "word": "熬过这周就好了",
@@ -2769,14 +2777,6 @@
       "onboard_time": 1749302065,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 961368,
-      "num": 961368,
-      "word": "打电话是一个侵入性特别强的动作",
-      "onboard_time": 1749965600,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 959623,
@@ -3644,7 +3644,7 @@
     },
     {
       "raw_hot": 788389,
-      "num": 349945,
+      "num": 363533,
       "word": "曝刘诗诗杨幂双C",
       "onboard_time": 1749963260,
       "rank": 11,
@@ -6571,6 +6571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520636,
+      "num": 520636,
+      "word": "这父亲节过的像是人情世故",
+      "onboard_time": 1749968899,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 520289,
       "num": 520289,
       "word": "郑钦文泪洒发布会",
@@ -6825,14 +6833,6 @@
       "onboard_time": 1749253940,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 505349,
-      "num": 505349,
-      "word": "这父亲节过的像是人情世故",
-      "onboard_time": 1749968899,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 504656,
@@ -8067,6 +8067,14 @@
       "category": "数码,民生新闻"
     },
     {
+      "raw_hot": 438363,
+      "num": 438363,
+      "word": "labubu老祖",
+      "onboard_time": 1749970340,
+      "rank": 16,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 437984,
       "num": 437984,
       "word": "盗版LABUBU丑得很抽象",
@@ -8188,7 +8196,7 @@
     },
     {
       "raw_hot": 432792,
-      "num": 432792,
+      "num": 434258,
       "word": "曾舜晞在吻了在吻了",
       "onboard_time": 1749969619,
       "rank": 16,
@@ -8785,6 +8793,14 @@
       "onboard_time": 1749342558,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406671,
+      "num": 431627,
+      "word": "虞书欣说选大爆剧的主角",
+      "onboard_time": 1749972200,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 406441,
@@ -12841,14 +12857,6 @@
       "onboard_time": 1748755220,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 284713,
-      "num": 284713,
-      "word": "labubu老祖",
-      "onboard_time": 1749970340,
-      "rank": 16,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 284446,
@@ -17979,6 +17987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209777,
+      "num": 399459,
+      "word": "王星越旁白父亲节短片太戳了",
+      "onboard_time": 1749971300,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209770,
       "num": 318670,
       "word": "李现高考数学从28分到一百多分",
@@ -19465,6 +19481,14 @@
       "onboard_time": 1749810501,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200976,
+      "num": 200976,
+      "word": "马龙父亲节收到礼物了",
+      "onboard_time": 1749972321,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 200888,
@@ -21179,6 +21203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190813,
+      "num": 202466,
+      "word": "侧躺玩手机变丑是最轻的惩罚",
+      "onboard_time": 1749968120,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190796,
       "num": 190796,
       "word": "陈雨菲退赛",
@@ -21673,14 +21705,6 @@
       "onboard_time": 1749043462,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188399,
-      "num": 188399,
-      "word": "虞书欣说选大爆剧的主角",
-      "onboard_time": 1749972200,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 188339,
@@ -22707,14 +22731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182830,
-      "num": 266262,
-      "word": "王星越旁白父亲节短片太戳了",
-      "onboard_time": 1749971300,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182721,
       "num": 182721,
       "word": "倪妮 我也觉得后面好看",
@@ -22737,14 +22753,6 @@
       "onboard_time": 1749799882,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182541,
-      "num": 202466,
-      "word": "侧躺玩手机变丑是最轻的惩罚",
-      "onboard_time": 1749968120,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 182539,
@@ -23529,6 +23537,14 @@
       "onboard_time": 1749723743,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177692,
+      "num": 177692,
+      "word": "李嘉格婚后第一次被妈妈认可",
+      "onboard_time": 1749968180,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 177633,
@@ -25955,14 +25971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164677,
-      "num": 170410,
-      "word": "李嘉格婚后第一次被妈妈认可",
-      "onboard_time": 1749968180,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164634,
       "num": 164634,
       "word": "程潇挖出黄圣依妈妈初恋故事",
@@ -27305,6 +27313,14 @@
       "onboard_time": 1749903802,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157722,
+      "num": 157722,
+      "word": "印度直升机坠毁7人遇难",
+      "onboard_time": 1749972440,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157713,
@@ -28843,6 +28859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150127,
+      "num": 150127,
+      "word": "对labubu全球爆火有了实感",
+      "onboard_time": 1749972321,
+      "rank": 32,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 150041,
       "num": 150041,
       "word": "AL与BLG争MSI资格",
@@ -29171,6 +29195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148768,
+      "num": 148768,
+      "word": "张小婉这条微博并不是很想发",
+      "onboard_time": 1749972620,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148660,
       "num": 148660,
       "word": "台湾网红馆长说不怕岛内媒体修理",
@@ -29201,6 +29233,14 @@
       "onboard_time": 1749550281,
       "rank": 28,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 148582,
+      "num": 148582,
+      "word": "HLE对战T1",
+      "onboard_time": 1749972680,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 148580,
@@ -32267,6 +32307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135998,
+      "num": 135998,
+      "word": "北京WBG对战Gr",
+      "onboard_time": 1749971661,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135917,
       "num": 250217,
       "word": "跳水连救5人的英雄叫张伟",
@@ -32433,6 +32481,14 @@
       "onboard_time": 1749545061,
       "rank": 46,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 135344,
+      "num": 135344,
+      "word": "戍边烈士陈祥榕牺牲5周年",
+      "onboard_time": 1749970820,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135239,
@@ -35516,7 +35572,7 @@
     },
     {
       "raw_hot": 122220,
-      "num": 288496,
+      "num": 398019,
       "word": "质疑父亲理解父亲成为父亲",
       "onboard_time": 1749971480,
       "rank": 15,
@@ -36427,14 +36483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118013,
-      "num": 118013,
-      "word": "北京WBG对战Gr",
-      "onboard_time": 1749971661,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 117992,
       "num": 117992,
       "word": "丁程鑫等着被谢娜第六次挂上微博",
@@ -36753,6 +36801,14 @@
       "onboard_time": 1749967940,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116498,
+      "num": 116498,
+      "word": "苏超徐州vs镇江",
+      "onboard_time": 1749972500,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 116483,
@@ -37305,6 +37361,14 @@
       "onboard_time": 1748790382,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113891,
+      "num": 113891,
+      "word": "刘美含说章子怡救了大命",
+      "onboard_time": 1749972920,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 113836,
@@ -38483,6 +38547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107546,
+      "num": 107546,
+      "word": "没有labubu但有小猫的dadudu",
+      "onboard_time": 1749972321,
+      "rank": 45,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 107507,
       "num": 2560536,
       "word": "高考首日旗开得胜",
@@ -38681,6 +38753,14 @@
       "onboard_time": 1748745320,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 106284,
+      "num": 105146,
+      "word": "瘦了36斤后才敢说的实话总结",
+      "onboard_time": 1749973041,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 106273,
@@ -39513,14 +39593,6 @@
       "onboard_time": 1749552321,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101095,
-      "num": 101095,
-      "word": "戍边烈士陈祥榕牺牲5周年",
-      "onboard_time": 1749970820,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101090,
@@ -40364,7 +40436,7 @@
     },
     {
       "raw_hot": 96588,
-      "num": 279716,
+      "num": 374822,
       "word": "在京东猜苏超输赢",
       "onboard_time": 1749971480,
       "rank": 17,
@@ -42891,6 +42963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 79757,
+      "num": 201160,
+      "word": "基金经理称被泡泡玛特撕裂认知",
+      "onboard_time": 1749971120,
+      "rank": 24,
+      "category": "财经,休闲"
+    },
+    {
       "raw_hot": 79732,
       "num": 367480,
       "word": "被摸腿脱口秀女演员发声",
@@ -43496,6 +43576,14 @@
       "word": "联邦政府和加州陷入骂战",
       "onboard_time": 1749435801,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 74821,
+      "num": 425010,
+      "word": "以总理去年11月曾下令摧毁伊核计划",
+      "onboard_time": 1749971599,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -45411,14 +45499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 61091,
-      "num": 316265,
-      "word": "以总理去年11月曾下令摧毁伊核计划",
-      "onboard_time": 1749971599,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60805,
       "num": 150219,
       "word": "晚上做决定第二天更容易后悔吗",
@@ -45513,6 +45593,14 @@
       "onboard_time": 1749788362,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60117,
+      "num": 351711,
+      "word": "25岁女生该优先拼事业还是考虑结婚",
+      "onboard_time": 1749972680,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59960,
@@ -54089,6 +54177,14 @@
       "onboard_time": 1748856621,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14046,
+      "num": 113970,
+      "word": "日本民众高价倒卖大米将获刑",
+      "onboard_time": 1749973041,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14019,
