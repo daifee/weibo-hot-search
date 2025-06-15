@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750026257244,
+  "endTime": 1750027363926,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -819,6 +819,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 329090,
+      "num": 508279,
+      "word": "美国多地爆发大规模抗议游行",
+      "onboard_time": 1750017555,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 328015,
       "num": 328015,
       "word": "张酸 反派",
@@ -1163,6 +1171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 243899,
+      "num": 243899,
+      "word": "以色列国家安全观已发生转变",
+      "onboard_time": 1750011435,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241009,
       "num": 204205,
       "word": "邓紫棋再唱句号终于释然",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1749997942,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 238352,
-      "num": 393153,
-      "word": "美国多地爆发大规模抗议游行",
-      "onboard_time": 1750017555,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 233904,
@@ -1891,14 +1899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 173019,
-      "num": 173019,
-      "word": "以色列国家安全观已发生转变",
-      "onboard_time": 1750011435,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 172806,
       "num": 172806,
       "word": "不朽杯鲷哥夺冠",
@@ -1953,6 +1953,14 @@
       "onboard_time": 1749967162,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171464,
+      "num": 171464,
+      "word": "难怪我一上高铁就睡觉",
+      "onboard_time": 1750019053,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 171176,
@@ -2033,6 +2041,14 @@
       "onboard_time": 1749989662,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165171,
+      "num": 165171,
+      "word": "那尔那茜走红之路多个疑点待彻查",
+      "onboard_time": 1750014854,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 163448,
@@ -2153,14 +2169,6 @@
       "onboard_time": 1749920119,
       "rank": 28,
       "category": "情感,读书作家"
-    },
-    {
-      "raw_hot": 154486,
-      "num": 113336,
-      "word": "难怪我一上高铁就睡觉",
-      "onboard_time": 1750019053,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 154192,
@@ -2841,14 +2849,6 @@
       "onboard_time": 1749965240,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 123165,
-      "num": 123165,
-      "word": "那尔那茜走红之路多个疑点待彻查",
-      "onboard_time": 1750014854,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 123146,
@@ -3923,6 +3923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39688,
+      "num": 63147,
+      "word": "肖战超绝哭戏令人共情",
+      "onboard_time": 1750022714,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38837,
       "num": 199011,
       "word": "美佛州一警长向抗议者发出死亡威胁",
@@ -3995,12 +4003,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34520,
-      "num": 54094,
-      "word": "肖战超绝哭戏令人共情",
-      "onboard_time": 1750022714,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 34378,
+      "num": 42601,
+      "word": "以色列全国紧急状态延至月底",
+      "onboard_time": 1750011016,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33351,
@@ -4027,6 +4035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30833,
+      "num": 30833,
+      "word": "伊朗警方称逮捕两名摩萨德特工",
+      "onboard_time": 1750013654,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30802,
       "num": 30802,
       "word": "新说唱",
@@ -4043,11 +4059,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 30303,
-      "num": 42601,
-      "word": "以色列全国紧急状态延至月底",
-      "onboard_time": 1750011016,
-      "rank": 38,
+      "raw_hot": 29453,
+      "num": 29453,
+      "word": "扎克伯格150亿美元投资数据标注公司",
+      "onboard_time": 1750018033,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 29414,
+      "num": 118510,
+      "word": "直击美国多地抗议活动",
+      "onboard_time": 1750018874,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -4099,6 +4123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27168,
+      "num": 27660,
+      "word": "鸵鸟马路时速40公里狂奔还对司机笑",
+      "onboard_time": 1750026436,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27046,
       "num": 445365,
       "word": "工作后我找回了对父亲的崇拜与爱",
@@ -4145,14 +4177,6 @@
       "onboard_time": 1750012155,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25601,
-      "num": 118510,
-      "word": "直击美国多地抗议活动",
-      "onboard_time": 1750018874,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25162,
@@ -4209,14 +4233,6 @@
       "onboard_time": 1749918800,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23429,
-      "num": 23429,
-      "word": "伊朗警方称逮捕两名摩萨德特工",
-      "onboard_time": 1750013654,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23352,
@@ -4281,14 +4297,6 @@
       "onboard_time": 1749986300,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21537,
-      "num": 23060,
-      "word": "扎克伯格150亿美元投资数据标注公司",
-      "onboard_time": 1750018033,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 21513,
@@ -4475,7 +4483,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 10509,
+      "raw_hot": 11594,
       "num": 310023,
       "word": "我国对中亚五国进出口跑出加速度",
       "onboard_time": 1749994402,
