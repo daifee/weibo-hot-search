@@ -1,0 +1,410 @@
+{
+  "runTime": 1749984315086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1100864,
+        "num": 1176138,
+        "word": "30只Labubu把老爸整破防了",
+        "onboard_time": 1749976819,
+        "rank": 0,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 911926,
+        "num": 911926,
+        "word": "徐州绝杀镇江",
+        "onboard_time": 1749982342,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24097,
+        "num": 819745,
+        "word": "神二十太空出差vlog上新了",
+        "onboard_time": 1749975561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 777850,
+        "num": 777850,
+        "word": "长安的荔枝 易烊千玺",
+        "onboard_time": 1749982880,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 708801,
+        "num": 708801,
+        "word": "新说唱导演道歉",
+        "onboard_time": 1749980000,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547776,
+        "num": 547776,
+        "word": "杭州一泡泡玛特开业当天闭店",
+        "onboard_time": 1749983481,
+        "rank": 5,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 636047,
+        "num": 542618,
+        "word": "短剧1胎99子",
+        "onboard_time": 1749974001,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537452,
+        "num": 537452,
+        "word": "Lafufu和Lababa都属于商标侵权",
+        "onboard_time": 1749982221,
+        "rank": 7,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 467093,
+        "num": 467093,
+        "word": "刘亦菲 宝格丽女王",
+        "onboard_time": 1749979700,
+        "rank": 8,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 441451,
+        "num": 441451,
+        "word": "4类人尽量不吃或少吃荔枝",
+        "onboard_time": 1749969560,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1647218,
+        "num": 441205,
+        "word": "郭富城官宣方媛怀三胎",
+        "onboard_time": 1749980540,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433583,
+        "num": 433583,
+        "word": "道崽 女朋友",
+        "onboard_time": 1749977780,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 410807,
+        "num": 410807,
+        "word": "6岁女孩吃十几颗荔枝后嗜睡冒冷汗",
+        "onboard_time": 1749974480,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383803,
+        "num": 383803,
+        "word": "那尔那茜",
+        "onboard_time": 1749975800,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59303,
+        "num": 320911,
+        "word": "驻有美军的伊拉克空军基地遭袭",
+        "onboard_time": 1749983840,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 267801,
+        "num": 290414,
+        "word": "魏哲鸣 我年纪大懂得疼人",
+        "onboard_time": 1749981800,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277277,
+        "num": 277277,
+        "word": "打电话是一个侵入性特别强的动作",
+        "onboard_time": 1749965600,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19242,
+        "num": 277141,
+        "word": "当代年轻人活力翻倍图鉴",
+        "onboard_time": 1749982101,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14577,
+        "num": 272241,
+        "word": "献血会导致免疫力降低吗",
+        "onboard_time": 1749983540,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40381,
+        "num": 266959,
+        "word": "中国文学里为什么少有好爸爸形象",
+        "onboard_time": 1749982761,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77092,
+        "num": 266181,
+        "word": "董力父亲节晒陪儿子练击剑",
+        "onboard_time": 1749982941,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263207,
+        "num": 263207,
+        "word": "苏超徐州vs镇江",
+        "onboard_time": 1749972500,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260800,
+        "num": 260800,
+        "word": "陈赫父亲节被五哈做局了",
+        "onboard_time": 1749981681,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251160,
+        "num": 251160,
+        "word": "刘诗诗好美",
+        "onboard_time": 1749983300,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227102,
+        "num": 227102,
+        "word": "肖战藏海传重新认识古装剧",
+        "onboard_time": 1749964640,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226224,
+        "num": 226224,
+        "word": "T1战胜HLE",
+        "onboard_time": 1749977300,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103892,
+        "num": 219870,
+        "word": "伊朗举行首场记者会",
+        "onboard_time": 1749982342,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205081,
+        "num": 219556,
+        "word": "苏超地锅鸡1比0拿下醋坛子",
+        "onboard_time": 1749983840,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219506,
+        "num": 219506,
+        "word": "美国悄悄向以色列运送狱火导弹",
+        "onboard_time": 1749981860,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30602,
+        "num": 207229,
+        "word": "银发老人遭美警持棍抽打",
+        "onboard_time": 1749984082,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205154,
+        "num": 205154,
+        "word": "贺峻霖 包的兄弟",
+        "onboard_time": 1749978860,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200176,
+        "num": 200176,
+        "word": "苏超",
+        "onboard_time": 1749981860,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194686,
+        "num": 194686,
+        "word": "临江仙",
+        "onboard_time": 1749982641,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179241,
+        "num": 179241,
+        "word": "以色列国防军总部遭袭",
+        "onboard_time": 1749973521,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175733,
+        "num": 175733,
+        "word": "王一博的系统是不是给他发布了任务",
+        "onboard_time": 1749980721,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164953,
+        "num": 164953,
+        "word": "瘦了36斤后才敢说的实话总结",
+        "onboard_time": 1749973041,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 161343,
+        "num": 161343,
+        "word": "Vogue85花群封站位",
+        "onboard_time": 1749976100,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159792,
+        "num": 159792,
+        "word": "单身不是最爽的",
+        "onboard_time": 1749980961,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65573,
+        "num": 154504,
+        "word": "央视曝光假冒深海鱼油",
+        "onboard_time": 1749984260,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154419,
+        "num": 154419,
+        "word": "我爸网购的含金量还在下降",
+        "onboard_time": 1749984022,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 153648,
+        "num": 153648,
+        "word": "爆肝12年赚2000万粉丝之后",
+        "onboard_time": 1749977960,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144647,
+        "num": 144647,
+        "word": "方力申官宣当爸",
+        "onboard_time": 1749981260,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142989,
+        "num": 142989,
+        "word": "王祖蓝不让女儿看这期五哈",
+        "onboard_time": 1749980840,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133960,
+        "num": 133960,
+        "word": "刘浩存一句话把宋威龙说爽了",
+        "onboard_time": 1749983721,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131016,
+        "num": 131016,
+        "word": "周深演唱会是跨年配置吧",
+        "onboard_time": 1749983420,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130704,
+        "num": 130704,
+        "word": "单依纯双的时候",
+        "onboard_time": 1749984202,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126740,
+        "num": 126740,
+        "word": "父亲节",
+        "onboard_time": 1749944538,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126187,
+        "num": 126187,
+        "word": "许昕分享与孩子幸福合照",
+        "onboard_time": 1749983902,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122958,
+        "num": 122958,
+        "word": "全红婵回粤养伤不参加新加坡世锦赛",
+        "onboard_time": 1749978741,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119334,
+        "num": 119334,
+        "word": "歼35A将亮相巴黎航展",
+        "onboard_time": 1749983180,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈父亲的言传身教#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749983278742,
+  "endTime": 1749984315086,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1791257,
-      "num": 328440,
+      "num": 441205,
       "word": "郭富城官宣方媛怀三胎",
       "onboard_time": 1749980540,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 911926,
+      "num": 911926,
+      "word": "徐州绝杀镇江",
+      "onboard_time": 1749982342,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 856814,
       "num": 856814,
       "word": "男子鸣笛引路人不满强行驶离致1死4伤",
@@ -139,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 777850,
+      "num": 777850,
+      "word": "长安的荔枝 易烊千玺",
+      "onboard_time": 1749982880,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 752940,
       "num": 170989,
       "word": "王俊凯",
@@ -163,12 +179,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 724971,
-      "num": 724971,
-      "word": "徐州绝杀镇江",
-      "onboard_time": 1749982342,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 708801,
+      "num": 708801,
+      "word": "新说唱导演道歉",
+      "onboard_time": 1749980000,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 693922,
@@ -177,14 +193,6 @@
       "onboard_time": 1749920479,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 688144,
-      "num": 688144,
-      "word": "新说唱导演道歉",
-      "onboard_time": 1749980000,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 668039,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 620314,
-      "num": 372022,
+      "num": 383803,
       "word": "那尔那茜",
       "onboard_time": 1749975800,
       "rank": 29,
@@ -273,6 +281,22 @@
       "onboard_time": 1749911364,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547776,
+      "num": 547776,
+      "word": "杭州一泡泡玛特开业当天闭店",
+      "onboard_time": 1749983481,
+      "rank": 5,
+      "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 537452,
+      "num": 537452,
+      "word": "Lafufu和Lababa都属于商标侵权",
+      "onboard_time": 1749982221,
+      "rank": 8,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 523208,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 484265,
-      "num": 371085,
+      "num": 433583,
       "word": "道崽 女朋友",
       "onboard_time": 1749977780,
       "rank": 11,
@@ -507,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 330243,
-      "num": 330243,
-      "word": "Lafufu和Lababa都属于商标侵权",
-      "onboard_time": 1749982221,
-      "rank": 8,
-      "category": "民生新闻,动漫"
-    },
-    {
       "raw_hot": 329446,
       "num": 329446,
       "word": "43岁张亮与10岁女儿合拍杂志",
@@ -675,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267801,
+      "num": 323398,
+      "word": "魏哲鸣 我年纪大懂得疼人",
+      "onboard_time": 1749981800,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266493,
       "num": 266493,
       "word": "专四",
@@ -689,6 +713,14 @@
       "onboard_time": 1749970400,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260800,
+      "num": 260800,
+      "word": "陈赫父亲节被五哈做局了",
+      "onboard_time": 1749981681,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 260526,
@@ -715,12 +747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251839,
-      "num": 323398,
-      "word": "魏哲鸣 我年纪大懂得疼人",
-      "onboard_time": 1749981800,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 251160,
+      "num": 251160,
+      "word": "刘诗诗好美",
+      "onboard_time": 1749983300,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 248378,
@@ -827,14 +859,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 219883,
-      "num": 219883,
-      "word": "陈赫父亲节被五哈做局了",
-      "onboard_time": 1749981681,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219684,
       "num": 248854,
       "word": "网红泰国商场直播带货被查",
@@ -843,12 +867,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 216348,
-      "num": 216348,
-      "word": "长安的荔枝 易烊千玺",
-      "onboard_time": 1749982880,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 219506,
+      "num": 320959,
+      "word": "美国悄悄向以色列运送狱火导弹",
+      "onboard_time": 1749981860,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209777,
@@ -897,6 +921,14 @@
       "onboard_time": 1749915682,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205081,
+      "num": 219556,
+      "word": "苏超地锅鸡1比0拿下醋坛子",
+      "onboard_time": 1749983840,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 204814,
@@ -1011,6 +1043,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 194686,
+      "num": 194686,
+      "word": "临江仙",
+      "onboard_time": 1749946338,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193916,
       "num": 193916,
       "word": "梅西倒地",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1749917961,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186555,
-      "num": 186555,
-      "word": "临江仙",
-      "onboard_time": 1749946338,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 184340,
@@ -1243,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166220,
-      "num": 320959,
-      "word": "美国悄悄向以色列运送狱火导弹",
-      "onboard_time": 1749981860,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162911,
       "num": 162911,
       "word": "光与夜之恋",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1749957079,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159792,
+      "num": 159792,
+      "word": "单身不是最爽的",
+      "onboard_time": 1749980961,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 159721,
@@ -1347,6 +1379,14 @@
       "category": "情感,读书作家"
     },
     {
+      "raw_hot": 154419,
+      "num": 154419,
+      "word": "我爸网购的含金量还在下降",
+      "onboard_time": 1749984022,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 154192,
       "num": 279741,
       "word": "曾舜晞这是喜从天降吧",
@@ -1393,14 +1433,6 @@
       "onboard_time": 1749961099,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150458,
-      "num": 150458,
-      "word": "单身不是最爽的",
-      "onboard_time": 1749980961,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 150385,
@@ -1635,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133960,
+      "num": 133960,
+      "word": "刘浩存一句话把宋威龙说爽了",
+      "onboard_time": 1749983721,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132857,
       "num": 132857,
       "word": "Cat说打比赛心态有变化",
@@ -1675,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131016,
+      "num": 131016,
+      "word": "周深演唱会是跨年配置吧",
+      "onboard_time": 1749983420,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130792,
       "num": 130792,
       "word": "武商集团员工卖卡诈骗11亿被判无期",
@@ -1689,6 +1737,14 @@
       "onboard_time": 1749960621,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130704,
+      "num": 130704,
+      "word": "单依纯双的时候",
+      "onboard_time": 1749984202,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 130540,
@@ -1761,6 +1817,14 @@
       "onboard_time": 1749917902,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126187,
+      "num": 126187,
+      "word": "许昕分享与孩子幸福合照",
+      "onboard_time": 1749983902,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 125114,
@@ -2155,6 +2219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103892,
+      "num": 329633,
+      "word": "伊朗举行首场记者会",
+      "onboard_time": 1749982342,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103552,
       "num": 103552,
       "word": "对没那么喜欢的人反而可以自信大方",
@@ -2387,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77092,
+      "num": 318796,
+      "word": "董力父亲节晒陪儿子练击剑",
+      "onboard_time": 1749982941,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76315,
       "num": 76315,
       "word": "桃黑黑直播",
@@ -2443,14 +2523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68665,
-      "num": 329633,
-      "word": "伊朗举行首场记者会",
-      "onboard_time": 1749982342,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 67405,
       "num": 154883,
       "word": "总台女记者从伊朗首都发回报道",
@@ -2459,12 +2531,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 65890,
-      "num": 318796,
-      "word": "董力父亲节晒陪儿子练击剑",
-      "onboard_time": 1749982941,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 65573,
+      "num": 154504,
+      "word": "央视曝光假冒深海鱼油",
+      "onboard_time": 1749984260,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 65249,
@@ -2497,6 +2569,14 @@
       "onboard_time": 1749972680,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59303,
+      "num": 320911,
+      "word": "驻有美军的伊拉克空军基地遭袭",
+      "onboard_time": 1749983840,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59266,
@@ -2651,6 +2731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40381,
+      "num": 312955,
+      "word": "中国文学里为什么少有好爸爸形象",
+      "onboard_time": 1749982761,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38837,
       "num": 199011,
       "word": "美佛州一警长向抗议者发出死亡威胁",
@@ -2721,6 +2809,14 @@
       "onboard_time": 1749926295,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30602,
+      "num": 207229,
+      "word": "银发老人遭美警持棍抽打",
+      "onboard_time": 1749984082,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28929,
@@ -2875,20 +2971,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19899,
-      "num": 312955,
-      "word": "中国文学里为什么少有好爸爸形象",
-      "onboard_time": 1749982761,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19607,
       "num": 124448,
       "word": "勒芒24小时耐力赛",
       "onboard_time": 1749954920,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19242,
+      "num": 314197,
+      "word": "当代年轻人活力翻倍图鉴",
+      "onboard_time": 1749982101,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 18675,
@@ -2915,14 +3011,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 17307,
-      "num": 314197,
-      "word": "当代年轻人活力翻倍图鉴",
-      "onboard_time": 1749982101,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17116,
       "num": 26666,
       "word": "王俊凯亮相上影节红毯",
@@ -2937,6 +3025,14 @@
       "onboard_time": 1749938295,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14577,
+      "num": 272241,
+      "word": "献血会导致免疫力降低吗",
+      "onboard_time": 1749983540,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14061,
