@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749977077599,
+  "endTime": 1749979570512,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1157395,
+      "num": 1185183,
+      "word": "30只Labubu把老爸整破防了",
+      "onboard_time": 1749976819,
+      "rank": 27,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 1138943,
       "num": 1182230,
       "word": "金昀去世",
@@ -81,6 +89,14 @@
       "onboard_time": 1749905002,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 941729,
+      "num": 941729,
+      "word": "6岁女孩吃十几颗荔枝后嗜睡冒冷汗",
+      "onboard_time": 1749974480,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 856814,
@@ -131,6 +147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 729129,
+      "num": 729129,
+      "word": "T1战胜HLE",
+      "onboard_time": 1749977300,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 693922,
       "num": 356478,
       "word": "刘耀文",
@@ -171,12 +195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 625491,
+      "num": 625491,
+      "word": "4类人尽量不吃或少吃荔枝",
+      "onboard_time": 1749969560,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 622345,
       "num": 532414,
       "word": "马嘉祺丁程鑫差点亲上了",
       "onboard_time": 1749956900,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 620314,
+      "num": 372022,
+      "word": "那尔那茜",
+      "onboard_time": 1749975800,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 611633,
@@ -209,14 +249,6 @@
       "onboard_time": 1749911364,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 537158,
-      "num": 537158,
-      "word": "4类人尽量不吃或少吃荔枝",
-      "onboard_time": 1749969560,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 523208,
@@ -281,6 +313,14 @@
       "onboard_time": 1749946039,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 476485,
+      "num": 371085,
+      "word": "道崽 女朋友",
+      "onboard_time": 1749977780,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 441468,
@@ -361,6 +401,14 @@
       "onboard_time": 1749964640,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 377742,
+      "num": 377742,
+      "word": "对labubu全球爆火有了实感",
+      "onboard_time": 1749972321,
+      "rank": 32,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 374832,
@@ -451,12 +499,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 302936,
-      "num": 541625,
-      "word": "6岁女孩吃十几颗荔枝后嗜睡冒冷汗",
-      "onboard_time": 1749974480,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 304971,
+      "num": 365501,
+      "word": "妈妈是从电视台得知黄圣依结婚消息",
+      "onboard_time": 1749978020,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 301202,
@@ -515,6 +563,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 283722,
+      "num": 283722,
+      "word": "Vogue85花群封站位",
+      "onboard_time": 1749976100,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 281197,
       "num": 281197,
       "word": "以色列一城市大片别墅变废墟",
@@ -545,6 +601,14 @@
       "onboard_time": 1749960799,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 274643,
+      "num": 274643,
+      "word": "HLE无缘MSI",
+      "onboard_time": 1749978381,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 273073,
@@ -585,14 +649,6 @@
       "onboard_time": 1749974360,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259476,
-      "num": 259476,
-      "word": "那尔那茜",
-      "onboard_time": 1749975800,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 254008,
@@ -667,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228472,
+      "num": 228472,
+      "word": "全红婵回粤养伤不参加新加坡世锦赛",
+      "onboard_time": 1749978741,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227300,
       "num": 227300,
       "word": "多兰王朝了",
@@ -683,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222610,
-      "num": 222610,
-      "word": "对labubu全球爆火有了实感",
-      "onboard_time": 1749972321,
-      "rank": 32,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 222605,
       "num": 272161,
       "word": "smart米奇限定艺术车亮相魔都",
@@ -705,14 +761,6 @@
       "onboard_time": 1749946459,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 219597,
-      "num": 152670,
-      "word": "Vogue85花群封站位",
-      "onboard_time": 1749976100,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 209777,
@@ -777,6 +825,14 @@
       "onboard_time": 1749959660,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201257,
+      "num": 201257,
+      "word": "贺峻霖 包的兄弟",
+      "onboard_time": 1749978860,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 200752,
@@ -979,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176718,
+      "num": 176718,
+      "word": "王勉说五哈把自己养得很差",
+      "onboard_time": 1749978381,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175397,
       "num": 175397,
       "word": "其实他比你想象中更不喜欢你",
@@ -1051,12 +1115,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 164230,
-      "num": 252939,
-      "word": "30只Labubu把老爸整破防了",
-      "onboard_time": 1749976819,
-      "rank": 27,
-      "category": "民生新闻,动漫"
+      "raw_hot": 163951,
+      "num": 257217,
+      "word": "网红馆长说回台湾后或遭大肆围剿",
+      "onboard_time": 1749976880,
+      "rank": 24,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 162911,
@@ -1115,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157174,
+      "num": 157174,
+      "word": "T1晋级MSI",
+      "onboard_time": 1749977840,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157091,
       "num": 157091,
       "word": "故宫回应展品疑被雨水打湿",
@@ -1129,6 +1201,14 @@
       "onboard_time": 1749920119,
       "rank": 28,
       "category": "情感,读书作家"
+    },
+    {
+      "raw_hot": 155563,
+      "num": 155563,
+      "word": "爆肝12年赚2000万粉丝之后",
+      "onboard_time": 1749977960,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154192,
@@ -1387,6 +1467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134521,
+      "num": 134521,
+      "word": "李奕臻荧幕初吻给了王佑硕",
+      "onboard_time": 1749979340,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132857,
       "num": 132857,
       "word": "Cat说打比赛心态有变化",
@@ -1409,6 +1497,14 @@
       "onboard_time": 1749967820,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132364,
+      "num": 132364,
+      "word": "花如月经历三次丧子之痛",
+      "onboard_time": 1749977239,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 130792,
@@ -1449,6 +1545,14 @@
       "onboard_time": 1749952520,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127585,
+      "num": 127585,
+      "word": "刘宇宁紧张弱小又无助",
+      "onboard_time": 1749979040,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 127423,
@@ -1556,7 +1660,7 @@
     },
     {
       "raw_hot": 122046,
-      "num": 122046,
+      "num": 170739,
       "word": "苏超徐州vs镇江",
       "onboard_time": 1749972500,
       "rank": 39,
@@ -1939,6 +2043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94047,
+      "num": 350815,
+      "word": "黄子韬 当时我害怕极了",
+      "onboard_time": 1749978741,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93978,
       "num": 93978,
       "word": "真让周深学会悬浮术了",
@@ -1969,6 +2081,14 @@
       "onboard_time": 1749946338,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90284,
+      "num": 128133,
+      "word": "关于我拍了十五年女友这件事",
+      "onboard_time": 1749979521,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 90260,
@@ -2089,14 +2209,6 @@
       "onboard_time": 1749964460,
       "rank": 19,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 69966,
-      "num": 257217,
-      "word": "网红馆长说回台湾后或遭大肆围剿",
-      "onboard_time": 1749976880,
-      "rank": 24,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 69706,
@@ -2244,7 +2356,7 @@
     },
     {
       "raw_hot": 48591,
-      "num": 270481,
+      "num": 350429,
       "word": "生活不易老板卖艺",
       "onboard_time": 1749976160,
       "rank": 30,
@@ -2273,6 +2385,14 @@
       "onboard_time": 1749943157,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 42278,
+      "num": 350367,
+      "word": "荔枝一次吃多少合适",
+      "onboard_time": 1749978141,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 41054,
@@ -2331,8 +2451,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 31370,
-      "num": 666982,
+      "raw_hot": 32087,
+      "num": 882602,
       "word": "神二十太空出差vlog上新了",
       "onboard_time": 1749975561,
       "rank": 2,
@@ -2433,6 +2553,14 @@
       "onboard_time": 1749928394,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23606,
+      "num": 363622,
+      "word": "醉驾司机顶行交警600多米被刑拘",
+      "onboard_time": 1749978620,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23482,

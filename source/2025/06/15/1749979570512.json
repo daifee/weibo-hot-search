@@ -1,0 +1,410 @@
+{
+  "runTime": 1749979570512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1157395,
+        "num": 1185183,
+        "word": "30只Labubu把老爸整破防了",
+        "onboard_time": 1749976819,
+        "rank": 0,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 941729,
+        "num": 941729,
+        "word": "6岁女孩吃十几颗荔枝后嗜睡冒冷汗",
+        "onboard_time": 1749974480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32087,
+        "num": 882602,
+        "word": "神二十太空出差vlog上新了",
+        "onboard_time": 1749975561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1465716,
+        "num": 874024,
+        "word": "短剧1胎99子",
+        "onboard_time": 1749974001,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 857457,
+        "num": 857457,
+        "word": "荔枝 低血糖",
+        "onboard_time": 1749960080,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 729129,
+        "num": 729129,
+        "word": "T1战胜HLE",
+        "onboard_time": 1749977300,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 625491,
+        "num": 625491,
+        "word": "4类人尽量不吃或少吃荔枝",
+        "onboard_time": 1749969560,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 412158,
+        "num": 412158,
+        "word": "打电话是一个侵入性特别强的动作",
+        "onboard_time": 1749965600,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377742,
+        "num": 377742,
+        "word": "对labubu全球爆火有了实感",
+        "onboard_time": 1749972321,
+        "rank": 8,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 314459,
+        "num": 375217,
+        "word": "肖战藏海传重新认识古装剧",
+        "onboard_time": 1749964640,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 620314,
+        "num": 372022,
+        "word": "那尔那茜",
+        "onboard_time": 1749975800,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476485,
+        "num": 371085,
+        "word": "道崽 女朋友",
+        "onboard_time": 1749977780,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 304971,
+        "num": 365501,
+        "word": "妈妈是从电视台得知黄圣依结婚消息",
+        "onboard_time": 1749978020,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23606,
+        "num": 363622,
+        "word": "醉驾司机顶行交警600多米被刑拘",
+        "onboard_time": 1749978620,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41588,
+        "num": 359820,
+        "word": "质疑父亲理解父亲成为父亲",
+        "onboard_time": 1749978081,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293511,
+        "num": 358004,
+        "word": "虞书欣说选大爆剧的主角",
+        "onboard_time": 1749972200,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355706,
+        "num": 355706,
+        "word": "瘦了36斤后才敢说的实话总结",
+        "onboard_time": 1749973041,
+        "rank": 16,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 94047,
+        "num": 350815,
+        "word": "黄子韬 当时我害怕极了",
+        "onboard_time": 1749978741,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28444,
+        "num": 350429,
+        "word": "生活不易老板卖艺",
+        "onboard_time": 1749976160,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42278,
+        "num": 350367,
+        "word": "荔枝一次吃多少合适",
+        "onboard_time": 1749978141,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 350316,
+        "num": 350316,
+        "word": "以色列国防军总部遭袭",
+        "onboard_time": 1749973521,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283722,
+        "num": 283722,
+        "word": "Vogue85花群封站位",
+        "onboard_time": 1749976100,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 274643,
+        "num": 274643,
+        "word": "HLE无缘MSI",
+        "onboard_time": 1749978381,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 248427,
+        "num": 248427,
+        "word": "张小婉这条微博并不是很想发",
+        "onboard_time": 1749972620,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228472,
+        "num": 228472,
+        "word": "全红婵回粤养伤不参加新加坡世锦赛",
+        "onboard_time": 1749978741,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224242,
+        "num": 224242,
+        "word": "这父亲节过的像是人情世故",
+        "onboard_time": 1749968899,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217738,
+        "num": 217738,
+        "word": "新说唱向严浩翔粉丝道歉",
+        "onboard_time": 1749974360,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201257,
+        "num": 201257,
+        "word": "贺峻霖 包的兄弟",
+        "onboard_time": 1749978860,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176718,
+        "num": 176718,
+        "word": "王勉说五哈把自己养得很差",
+        "onboard_time": 1749978381,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163951,
+        "num": 172127,
+        "word": "网红馆长说回台湾后或遭大肆围剿",
+        "onboard_time": 1749976880,
+        "rank": 29,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 198258,
+        "num": 172028,
+        "word": "抖音回应涉扁担女孩账号处置过程",
+        "onboard_time": 1749974600,
+        "rank": 30,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 112815,
+        "num": 170739,
+        "word": "苏超徐州vs镇江",
+        "onboard_time": 1749972500,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169695,
+        "num": 169695,
+        "word": "曝刘诗诗杨幂双C",
+        "onboard_time": 1749963260,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166362,
+        "num": 166362,
+        "word": "多兰王朝了",
+        "onboard_time": 1749974780,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163803,
+        "num": 163803,
+        "word": "马龙父亲节收到礼物了",
+        "onboard_time": 1749972321,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157174,
+        "num": 157174,
+        "word": "T1晋级MSI",
+        "onboard_time": 1749977840,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138514,
+        "num": 155684,
+        "word": "以军向伊朗核反应堆人员发撤离警告",
+        "onboard_time": 1749973940,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155563,
+        "num": 155563,
+        "word": "爆肝12年赚2000万粉丝之后",
+        "onboard_time": 1749977960,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154628,
+        "num": 154628,
+        "word": "父亲节",
+        "onboard_time": 1749944538,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150529,
+        "num": 150529,
+        "word": "张继科杯全民乒乓球争霸赛来了",
+        "onboard_time": 1749975502,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147707,
+        "num": 147707,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 134521,
+        "num": 134521,
+        "word": "李奕臻荧幕初吻给了王佑硕",
+        "onboard_time": 1749979340,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132734,
+        "num": 132734,
+        "word": "特朗普被曝从加密货币领域获巨额收益",
+        "onboard_time": 1749976220,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132364,
+        "num": 132364,
+        "word": "花如月经历三次丧子之痛",
+        "onboard_time": 1749977239,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90284,
+        "num": 128133,
+        "word": "关于我拍了十五年女友这件事",
+        "onboard_time": 1749979521,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127585,
+        "num": 127585,
+        "word": "刘宇宁紧张弱小又无助",
+        "onboard_time": 1749979040,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125206,
+        "num": 125206,
+        "word": "嫡长爱豆韩庚杀回来了",
+        "onboard_time": 1749970580,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123840,
+        "num": 123840,
+        "word": "陈梦还想再战奥运会",
+        "onboard_time": 1749968542,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119675,
+        "num": 119675,
+        "word": "严浩翔祝贺峻霖21岁生日快乐",
+        "onboard_time": 1749963441,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119280,
+        "num": 119280,
+        "word": "曾舜晞在吻了在吻了",
+        "onboard_time": 1749969619,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈父亲的言传身教#"
+    }
+  }
+}
