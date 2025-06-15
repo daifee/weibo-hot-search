@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750002061378,
+  "endTime": 1750004984051,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -819,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324111,
+      "num": 265330,
+      "word": "白鹿不敢想",
+      "onboard_time": 1750003221,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320548,
       "num": 320548,
       "word": "HLE对战T1",
@@ -1011,6 +1019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 274027,
+      "num": 292493,
+      "word": "22岁中国男子泰国豪华酒店坠楼身亡",
+      "onboard_time": 1750000763,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273652,
       "num": 473660,
       "word": "佘诗曼抢到了炸虾labubu",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1749972440,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 246496,
+      "num": 194753,
+      "word": "11岁男孩每天吸二手烟得肺癌",
+      "onboard_time": 1750003221,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241009,
@@ -1563,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192374,
+      "num": 261564,
+      "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
+      "onboard_time": 1750001001,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192210,
       "num": 192210,
       "word": "现场解说称常州队是三无球队",
@@ -1689,14 +1721,6 @@
       "onboard_time": 1749917422,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180558,
-      "num": 292493,
-      "word": "22岁中国男子泰国豪华酒店坠楼身亡",
-      "onboard_time": 1750000763,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178656,
@@ -1889,14 +1913,6 @@
       "onboard_time": 1749984022,
       "rank": 39,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 171813,
-      "num": 171813,
-      "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
-      "onboard_time": 1750001001,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171784,
@@ -2161,6 +2177,14 @@
       "onboard_time": 1749976282,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152010,
+      "num": 132298,
+      "word": "灰熊魔术交易",
+      "onboard_time": 1750004299,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 151886,
@@ -2827,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121457,
+      "num": 121457,
+      "word": "汪苏泷演唱会穿了一身贝壳",
+      "onboard_time": 1750003221,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121408,
       "num": 121408,
       "word": "歼10CE真的要去巴黎航展了",
@@ -3123,6 +3155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109552,
+      "num": 109552,
+      "word": "邓紫棋嘴上恨你心里想你",
+      "onboard_time": 1750003822,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109225,
       "num": 109225,
       "word": "我想你了爸爸",
@@ -3217,6 +3257,14 @@
       "onboard_time": 1749972140,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100461,
+      "num": 194924,
+      "word": "22岁女生玩恋陪本每月花一两千",
+      "onboard_time": 1750002742,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100460,
@@ -3355,6 +3403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91121,
+      "num": 91121,
+      "word": "拜仁vs奥克兰城",
+      "onboard_time": 1750003702,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90284,
       "num": 133266,
       "word": "关于我拍了十五年女友这件事",
@@ -3393,6 +3449,14 @@
       "onboard_time": 1749952941,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87155,
+      "num": 87155,
+      "word": "常州球迷不离场安慰自己队员",
+      "onboard_time": 1750002979,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 84888,
@@ -3499,6 +3563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72206,
+      "num": 72206,
+      "word": "周深对舞蹈的理解超纲了",
+      "onboard_time": 1750003822,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 69969,
       "num": 272072,
       "word": "马拉松冠军的训练是给女儿买牛奶",
@@ -3601,6 +3673,14 @@
       "onboard_time": 1749921739,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54111,
+      "num": 87750,
+      "word": "网球也有削球手",
+      "onboard_time": 1750003941,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 53866,
