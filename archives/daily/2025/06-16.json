@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750004984051,
+  "endTime": 1750006031166,
   "band_list": [
     {
       "raw_hot": 764911,
@@ -19,6 +19,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600006,
+      "num": 600006,
+      "word": "大学里的男生为什么越来越少了",
+      "onboard_time": 1749996083,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571914,
+      "num": 571914,
+      "word": "11岁男孩每天吸二手烟得肺癌",
+      "onboard_time": 1750003221,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 549553,
       "num": 549553,
       "word": "长安的荔枝 易烊千玺",
@@ -27,12 +43,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 524745,
-      "num": 524745,
-      "word": "大学里的男生为什么越来越少了",
-      "onboard_time": 1749996083,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 484474,
+      "num": 484474,
+      "word": "白鹿不敢想",
+      "onboard_time": 1750003221,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 475203,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 396797,
-      "num": 194804,
+      "num": 210968,
       "word": "陈靖可 孙千",
       "onboard_time": 1749999203,
       "rank": 20,
@@ -64,14 +80,6 @@
       "word": "张檬自曝生孩子后脑雾",
       "onboard_time": 1750000345,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 324111,
-      "num": 265330,
-      "word": "白鹿不敢想",
-      "onboard_time": 1750003221,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -113,14 +121,6 @@
       "onboard_time": 1749976819,
       "rank": 15,
       "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 246496,
-      "num": 194753,
-      "word": "11岁男孩每天吸二手烟得肺癌",
-      "onboard_time": 1750003221,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236258,
@@ -235,20 +235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128816,
+      "num": 128816,
+      "word": "汪苏泷演唱会穿了一身贝壳",
+      "onboard_time": 1750003221,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127597,
       "num": 127597,
       "word": "伊朗再对以色列发动导弹袭击",
       "onboard_time": 1750000763,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 121457,
-      "num": 121457,
-      "word": "汪苏泷演唱会穿了一身贝壳",
-      "onboard_time": 1750003221,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 109552,
@@ -273,6 +273,14 @@
       "onboard_time": 1749997942,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 103914,
+      "num": 103914,
+      "word": "临江仙破万",
+      "onboard_time": 1749994522,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 101492,
@@ -371,6 +379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72932,
+      "num": 72932,
+      "word": "佘诗曼抢到了炸虾labubu",
+      "onboard_time": 1749997462,
+      "rank": 40,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 72206,
       "num": 72206,
       "word": "周深对舞蹈的理解超纲了",
@@ -387,6 +403,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65768,
+      "num": 65768,
+      "word": "无锡队倒数第一也没关系我是江阴的",
+      "onboard_time": 1750005320,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 65308,
+      "num": 65308,
+      "word": "苏州越位了吗",
+      "onboard_time": 1750005198,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54111,
       "num": 87750,
       "word": "网球也有削球手",
@@ -395,8 +427,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35523,
+      "num": 74773,
+      "word": "王欣瑜晋级柏林站正赛",
+      "onboard_time": 1750005379,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23491,
-      "num": 527633,
+      "num": 575642,
       "word": "一系列先行指标看经济活力",
       "onboard_time": 1749994522,
       "rank": 2,
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#学习总书记的好作风#"
+    },
+    {
+      "word": "#中国—中亚峰会#"
     }
   ]
 }

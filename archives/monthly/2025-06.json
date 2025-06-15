@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750004984051,
+  "endTime": 1750006031166,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -6131,6 +6131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571914,
+      "num": 571914,
+      "word": "11岁男孩每天吸二手烟得肺癌",
+      "onboard_time": 1750003221,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 571698,
       "num": 485534,
       "word": "小沈阳女儿讲韩语流利标准",
@@ -7521,6 +7529,14 @@
       "onboard_time": 1749966381,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 484474,
+      "num": 484474,
+      "word": "白鹿不敢想",
+      "onboard_time": 1750003221,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 484362,
@@ -11747,14 +11763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 324111,
-      "num": 265330,
-      "word": "白鹿不敢想",
-      "onboard_time": 1750003221,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 323986,
       "num": 466671,
       "word": "多个商家售卖北京大学未名湖湖水",
@@ -15521,14 +15529,6 @@
       "onboard_time": 1748752579,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246496,
-      "num": 194753,
-      "word": "11岁男孩每天吸二手烟得肺癌",
-      "onboard_time": 1750003221,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246482,
@@ -35483,6 +35483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128816,
+      "num": 128816,
+      "word": "汪苏泷演唱会穿了一身贝壳",
+      "onboard_time": 1750003221,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128795,
       "num": 149658,
       "word": "电影今年二十二",
@@ -37169,14 +37177,6 @@
       "onboard_time": 1749721102,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 121457,
-      "num": 121457,
-      "word": "汪苏泷演唱会穿了一身贝壳",
-      "onboard_time": 1750003221,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 121455,
@@ -46523,6 +46523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65768,
+      "num": 65768,
+      "word": "无锡队倒数第一也没关系我是江阴的",
+      "onboard_time": 1750005320,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65742,
       "num": 287970,
       "word": "俱乐部经理称樊振东加盟反响疯狂",
@@ -46577,6 +46585,14 @@
       "onboard_time": 1749621982,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65308,
+      "num": 65308,
+      "word": "苏州越位了吗",
+      "onboard_time": 1750005198,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 65249,
@@ -51441,6 +51457,14 @@
       "onboard_time": 1749392482,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35523,
+      "num": 74773,
+      "word": "王欣瑜晋级柏林站正赛",
+      "onboard_time": 1750005379,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 35519,

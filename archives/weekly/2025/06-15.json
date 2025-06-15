@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750004984051,
+  "endTime": 1750006031166,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571914,
+      "num": 571914,
+      "word": "11岁男孩每天吸二手烟得肺癌",
+      "onboard_time": 1750003221,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 559598,
       "num": 559598,
       "word": "以色列暗杀胡塞高级领导人失败",
@@ -553,6 +561,14 @@
       "onboard_time": 1749966381,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 484474,
+      "num": 484474,
+      "word": "白鹿不敢想",
+      "onboard_time": 1750003221,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 484265,
@@ -817,14 +833,6 @@
       "onboard_time": 1749911063,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 324111,
-      "num": 265330,
-      "word": "白鹿不敢想",
-      "onboard_time": 1750003221,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 320548,
@@ -1153,14 +1161,6 @@
       "onboard_time": 1749972440,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 246496,
-      "num": 194753,
-      "word": "11岁男孩每天吸二手烟得肺癌",
-      "onboard_time": 1750003221,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241009,
@@ -2635,6 +2635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128816,
+      "num": 128816,
+      "word": "汪苏泷演唱会穿了一身贝壳",
+      "onboard_time": 1750003221,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128253,
       "num": 128253,
       "word": "法拉利勒芒三连冠",
@@ -2849,14 +2857,6 @@
       "onboard_time": 1749897021,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121457,
-      "num": 121457,
-      "word": "汪苏泷演唱会穿了一身贝壳",
-      "onboard_time": 1750003221,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 121408,
@@ -3611,12 +3611,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65768,
+      "num": 65768,
+      "word": "无锡队倒数第一也没关系我是江阴的",
+      "onboard_time": 1750005320,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65635,
       "num": 295920,
       "word": "白岩松说Labubu全球爆火不是偶然",
       "onboard_time": 1749985701,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65308,
+      "num": 65308,
+      "word": "苏州越位了吗",
+      "onboard_time": 1750005198,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 65249,
@@ -3897,6 +3913,14 @@
       "onboard_time": 1749960621,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35523,
+      "num": 74773,
+      "word": "王欣瑜晋级柏林站正赛",
+      "onboard_time": 1750005379,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 35154,
