@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750012395020,
+  "endTime": 1750013202071,
   "band_list": [
     {
       "raw_hot": 764911,
@@ -243,20 +243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130878,
+      "num": 130878,
+      "word": "以色列国家安全观已发生转变",
+      "onboard_time": 1750011435,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128816,
       "num": 128816,
       "word": "汪苏泷演唱会穿了一身贝壳",
       "onboard_time": 1750003221,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127726,
-      "num": 127726,
-      "word": "以色列国家安全观已发生转变",
-      "onboard_time": 1750011435,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127597,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65366,
+      "num": 65366,
+      "word": "欢牛蛋糕倒闭",
+      "onboard_time": 1750011435,
+      "rank": 22,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 65308,
       "num": 65308,
       "word": "苏州越位了吗",
@@ -433,14 +441,6 @@
       "onboard_time": 1750003941,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51586,
-      "num": 51586,
-      "word": "欢牛蛋糕倒闭",
-      "onboard_time": 1750011435,
-      "rank": 22,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 49162,
@@ -500,15 +500,15 @@
     },
     {
       "raw_hot": 30303,
-      "num": 30303,
+      "num": 42601,
       "word": "以色列全国紧急状态延至月底",
       "onboard_time": 1750011016,
       "rank": 38,
       "category": "国际时政"
     },
     {
-      "raw_hot": 25484,
-      "num": 25484,
+      "raw_hot": 26168,
+      "num": 26168,
       "word": "这个夏天苏新皓披荆斩棘",
       "onboard_time": 1750012155,
       "rank": 45,
@@ -529,6 +529,14 @@
       "onboard_time": 1749994522,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22959,
+      "num": 22959,
+      "word": "张杰电影之夜vlog",
+      "onboard_time": 1750012755,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 19025,

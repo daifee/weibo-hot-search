@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750012395020,
+  "endTime": 1750013202071,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -34907,6 +34907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130878,
+      "num": 130878,
+      "word": "以色列国家安全观已发生转变",
+      "onboard_time": 1750011435,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130799,
       "num": 130799,
       "word": "馒头夹糯米学名",
@@ -35769,14 +35777,6 @@
       "onboard_time": 1749693140,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 127726,
-      "num": 127726,
-      "word": "以色列国家安全观已发生转变",
-      "onboard_time": 1750011435,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127644,
@@ -46595,6 +46595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 65366,
+      "num": 65366,
+      "word": "欢牛蛋糕倒闭",
+      "onboard_time": 1750011435,
+      "rank": 22,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 65308,
       "num": 65308,
       "word": "苏州越位了吗",
@@ -48537,14 +48545,6 @@
       "onboard_time": 1748953881,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51586,
-      "num": 51586,
-      "word": "欢牛蛋糕倒闭",
-      "onboard_time": 1750011435,
-      "rank": 22,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 51517,
@@ -52628,7 +52628,7 @@
     },
     {
       "raw_hot": 30303,
-      "num": 30303,
+      "num": 42601,
       "word": "以色列全国紧急状态延至月底",
       "onboard_time": 1750011016,
       "rank": 38,
@@ -53619,6 +53619,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 26168,
+      "num": 26168,
+      "word": "这个夏天苏新皓披荆斩棘",
+      "onboard_time": 1750012155,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26154,
       "num": 153119,
       "word": "双胞胎男生走出考场朝老人磕头",
@@ -53753,14 +53761,6 @@
       "onboard_time": 1748773701,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25484,
-      "num": 25484,
-      "word": "这个夏天苏新皓披荆斩棘",
-      "onboard_time": 1750012155,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 25472,
@@ -54329,6 +54329,14 @@
       "onboard_time": 1749220765,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22959,
+      "num": 22959,
+      "word": "张杰电影之夜vlog",
+      "onboard_time": 1750012755,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 22951,
