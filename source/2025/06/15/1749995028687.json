@@ -1,0 +1,410 @@
+{
+  "runTime": 1749995028687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510219,
+        "num": 1510219,
+        "word": "临江仙破万",
+        "onboard_time": 1749994522,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1029474,
+        "num": 1029474,
+        "word": "杭州一泡泡玛特开业当天闭店",
+        "onboard_time": 1749983481,
+        "rank": 1,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 32473,
+        "num": 927062,
+        "word": "一系列先行指标看经济活力",
+        "onboard_time": 1749994522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1480081,
+        "num": 920107,
+        "word": "长安的荔枝 易烊千玺",
+        "onboard_time": 1749982880,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 874205,
+        "num": 874205,
+        "word": "苏超无锡vs常州",
+        "onboard_time": 1749986000,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 706061,
+        "num": 706061,
+        "word": "泰国与印空难幸存者座位都是11A",
+        "onboard_time": 1749989360,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 664890,
+        "num": 664890,
+        "word": "临江仙",
+        "onboard_time": 1749982641,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 637995,
+        "num": 637995,
+        "word": "长得像王一博气质像窦靖童",
+        "onboard_time": 1749994944,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265552,
+        "num": 609111,
+        "word": "山东寿光7死4伤中毒事故调查报告",
+        "onboard_time": 1749990502,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600238,
+        "num": 600238,
+        "word": "河南一女子醉驾超速致一家三口死亡",
+        "onboard_time": 1749993142,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1909607,
+        "num": 592312,
+        "word": "陈靖可取关孙千ins",
+        "onboard_time": 1749994703,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751662,
+        "num": 586979,
+        "word": "郭富城官宣方媛怀三胎",
+        "onboard_time": 1749980540,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524207,
+        "num": 524207,
+        "word": "断崖式衰老的三个年龄段",
+        "onboard_time": 1749994522,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 523187,
+        "num": 523187,
+        "word": "苏超排名",
+        "onboard_time": 1749992181,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106689,
+        "num": 516262,
+        "word": "租客挖洞占邻居客厅5年",
+        "onboard_time": 1749992962,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509800,
+        "num": 509800,
+        "word": "临江仙热度",
+        "onboard_time": 1749993322,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495042,
+        "num": 495042,
+        "word": "张韶涵遇突发状况一秒换话筒",
+        "onboard_time": 1749989001,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 484598,
+        "num": 484598,
+        "word": "陈梦说求婚现场人越多越好",
+        "onboard_time": 1749989781,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464876,
+        "num": 464876,
+        "word": "30只Labubu把老爸整破防了",
+        "onboard_time": 1749976819,
+        "rank": 18,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 26247,
+        "num": 450389,
+        "word": "以色列先发制人背后",
+        "onboard_time": 1749994402,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 443302,
+        "num": 443302,
+        "word": "女子眼痒发现三条活虫在眼中",
+        "onboard_time": 1749993441,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428986,
+        "num": 428986,
+        "word": "山东一大学禁用红米手机考试",
+        "onboard_time": 1749992122,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 423627,
+        "num": 423627,
+        "word": "林俊杰演唱会嘉宾宋雨琦",
+        "onboard_time": 1749988340,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 333182,
+        "num": 333182,
+        "word": "让体脂率不断下降的小习惯",
+        "onboard_time": 1749989120,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 312512,
+        "num": 312512,
+        "word": "演员代旭辟谷7天瘦8斤",
+        "onboard_time": 1749994944,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289153,
+        "num": 289153,
+        "word": "苏超",
+        "onboard_time": 1749981860,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257584,
+        "num": 257584,
+        "word": "常州队打响笔画保卫战",
+        "onboard_time": 1749990142,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252035,
+        "num": 252035,
+        "word": "虞书欣直播",
+        "onboard_time": 1749989601,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240409,
+        "num": 240409,
+        "word": "任嘉伦探班罗云熙",
+        "onboard_time": 1749993441,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13928,
+        "num": 225831,
+        "word": "专家解读飞机机舱后部更安全",
+        "onboard_time": 1749994462,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211735,
+        "num": 211735,
+        "word": "苏超梭子蟹1比1战平大闸蟹",
+        "onboard_time": 1749993683,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202479,
+        "num": 202479,
+        "word": "刘亦菲 宝格丽女王",
+        "onboard_time": 1749979700,
+        "rank": 31,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 195372,
+        "num": 195372,
+        "word": "PEL",
+        "onboard_time": 1749994345,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192210,
+        "num": 192210,
+        "word": "现场解说称常州队是三无球队",
+        "onboard_time": 1749993800,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188948,
+        "num": 188948,
+        "word": "6岁女孩吃十几颗荔枝后嗜睡冒冷汗",
+        "onboard_time": 1749974480,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187163,
+        "num": 187163,
+        "word": "Lafufu和Lababa都属于商标侵权",
+        "onboard_time": 1749982221,
+        "rank": 35,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 186059,
+        "num": 186059,
+        "word": "常州队粉丝打扮成恐龙前来助阵",
+        "onboard_time": 1749990082,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177120,
+        "num": 177120,
+        "word": "苏州vs连云港",
+        "onboard_time": 1749989180,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176970,
+        "num": 176970,
+        "word": "商家反季低价卖羽绒靠什么赚钱",
+        "onboard_time": 1749993922,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176036,
+        "num": 176036,
+        "word": "印度一大桥坍塌致至少6人死亡",
+        "onboard_time": 1749991401,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172802,
+        "num": 172802,
+        "word": "白鹿回应赵弈钦",
+        "onboard_time": 1749989899,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171784,
+        "num": 171784,
+        "word": "韩安冉大女儿给宋浩然送父亲节礼物",
+        "onboard_time": 1749994345,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 162065,
+        "num": 162065,
+        "word": "临江仙爱奇艺热度破9900",
+        "onboard_time": 1749988280,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94277,
+        "num": 158887,
+        "word": "胡杏儿晒老公儿子合照疑回应婚变",
+        "onboard_time": 1749995004,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158401,
+        "num": 158401,
+        "word": "贵州杀妻灭子案现场血迹成因仍待解",
+        "onboard_time": 1749994280,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151715,
+        "num": 151715,
+        "word": "樊振东登上鲁迅美术学院毕业展",
+        "onboard_time": 1749994703,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149331,
+        "num": 149331,
+        "word": "新说唱清退不当言论运营人员",
+        "onboard_time": 1749989662,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144319,
+        "num": 144319,
+        "word": "一万多网购泡泡玛特卖家不发货拒退款",
+        "onboard_time": 1749995004,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143288,
+        "num": 143288,
+        "word": "灵山大佛",
+        "onboard_time": 1749995004,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140893,
+        "num": 140893,
+        "word": "徐州绝杀镇江",
+        "onboard_time": 1749982342,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习总书记的好作风#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749994354869,
+  "endTime": 1749995028687,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -11,8 +11,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1909607,
+      "num": 592312,
+      "word": "陈靖可取关孙千ins",
+      "onboard_time": 1749994703,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1791257,
-      "num": 533187,
+      "num": 586979,
       "word": "郭富城官宣方媛怀三胎",
       "onboard_time": 1749980540,
       "rank": 10,
@@ -40,6 +48,14 @@
       "word": "长安的荔枝 易烊千玺",
       "onboard_time": 1749982880,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1510219,
+      "num": 1510219,
+      "word": "临江仙破万",
+      "onboard_time": 1749994522,
+      "rank": 0,
       "category": "剧集"
     },
     {
@@ -155,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 874205,
+      "num": 874205,
+      "word": "苏超无锡vs常州",
+      "onboard_time": 1749986000,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 856814,
       "num": 856814,
       "word": "男子鸣笛引路人不满强行驶离致1死4伤",
@@ -169,14 +193,6 @@
       "onboard_time": 1749988340,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 830780,
-      "num": 830780,
-      "word": "苏超无锡vs常州",
-      "onboard_time": 1749986000,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 808775,
@@ -251,12 +267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 664890,
+      "num": 664890,
+      "word": "临江仙",
+      "onboard_time": 1749946338,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 639641,
       "num": 639641,
       "word": "张韶涵遇突发状况一秒换话筒",
       "onboard_time": 1749989001,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 637995,
+      "num": 637995,
+      "word": "长得像王一博气质像窦靖童",
+      "onboard_time": 1749994944,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 636890,
@@ -323,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 600238,
+      "num": 600238,
+      "word": "河南一女子醉驾超速致一家三口死亡",
+      "onboard_time": 1749993142,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 559598,
       "num": 559598,
       "word": "以色列暗杀胡塞高级领导人失败",
@@ -347,12 +387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524207,
+      "num": 524207,
+      "word": "断崖式衰老的三个年龄段",
+      "onboard_time": 1749994522,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 523208,
       "num": 523208,
       "word": "以色列国防军总部遭袭",
       "onboard_time": 1749973521,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 523187,
+      "num": 523187,
+      "word": "苏超排名",
+      "onboard_time": 1749992181,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 521809,
@@ -385,6 +441,14 @@
       "onboard_time": 1749951019,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 509800,
+      "num": 509800,
+      "word": "临江仙热度",
+      "onboard_time": 1749993322,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 490889,
@@ -432,6 +496,14 @@
       "word": "把亡妻婚戒融一起男子回应将当爷爷",
       "onboard_time": 1749946039,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 443302,
+      "num": 443302,
+      "word": "女子眼痒发现三条活虫在眼中",
+      "onboard_time": 1749993441,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -507,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397482,
-      "num": 533199,
-      "word": "河南一女子醉驾超速致一家三口死亡",
-      "onboard_time": 1749993142,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 396151,
       "num": 396151,
       "word": "以色列地面出现巨大弹坑",
@@ -536,14 +600,6 @@
       "word": "肖战藏海传重新认识古装剧",
       "onboard_time": 1749964640,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 376747,
-      "num": 376747,
-      "word": "临江仙热度",
-      "onboard_time": 1749993322,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -580,19 +636,11 @@
     },
     {
       "raw_hot": 358500,
-      "num": 259503,
+      "num": 333182,
       "word": "让体脂率不断下降的小习惯",
       "onboard_time": 1749989120,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 355104,
-      "num": 355104,
-      "word": "苏超排名",
-      "onboard_time": 1749992181,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 350988,
@@ -675,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 312512,
+      "num": 312512,
+      "word": "演员代旭辟谷7天瘦8斤",
+      "onboard_time": 1749994944,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304971,
       "num": 365501,
       "word": "妈妈是从电视台得知黄圣依结婚消息",
@@ -707,14 +763,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 294242,
-      "num": 232161,
-      "word": "女子眼痒发现三条活虫在眼中",
-      "onboard_time": 1749993441,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 293204,
       "num": 293204,
       "word": "翟潇闻说内娱最漂亮女艺人刘诗诗",
@@ -724,7 +772,7 @@
     },
     {
       "raw_hot": 291537,
-      "num": 535452,
+      "num": 609111,
       "word": "山东寿光7死4伤中毒事故调查报告",
       "onboard_time": 1749990502,
       "rank": 26,
@@ -737,6 +785,14 @@
       "onboard_time": 1749914004,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 289153,
+      "num": 289153,
+      "word": "苏超",
+      "onboard_time": 1749981860,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 287523,
@@ -785,14 +841,6 @@
       "onboard_time": 1749949700,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 279849,
-      "num": 279849,
-      "word": "临江仙",
-      "onboard_time": 1749946338,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 279732,
@@ -915,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257584,
+      "num": 257584,
+      "word": "常州队打响笔画保卫战",
+      "onboard_time": 1749990142,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254008,
       "num": 254008,
       "word": "伊朗称将袭击以战斗机燃料生产设施",
@@ -963,27 +1019,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233904,
-      "num": 233904,
-      "word": "陈梦坦言不想退役",
-      "onboard_time": 1749966440,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 232707,
-      "num": 232707,
+      "raw_hot": 240409,
+      "num": 240409,
       "word": "任嘉伦探班罗云熙",
       "onboard_time": 1749993441,
       "rank": 18,
       "category": "剧集"
     },
     {
-      "raw_hot": 231899,
-      "num": 231899,
-      "word": "苏超",
-      "onboard_time": 1749981860,
-      "rank": 24,
+      "raw_hot": 233904,
+      "num": 233904,
+      "word": "陈梦坦言不想退役",
+      "onboard_time": 1749966440,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -1083,11 +1131,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210122,
-      "num": 210122,
-      "word": "常州队打响笔画保卫战",
-      "onboard_time": 1749990142,
-      "rank": 32,
+      "raw_hot": 211735,
+      "num": 211735,
+      "word": "苏超梭子蟹1比1战平大闸蟹",
+      "onboard_time": 1749993683,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1299,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195372,
+      "num": 195372,
+      "word": "PEL",
+      "onboard_time": 1749994345,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195351,
       "num": 201453,
       "word": "宋亚轩刘耀文要不你俩是碗盆呢",
@@ -1320,6 +1376,14 @@
       "word": "梅西倒地",
       "onboard_time": 1749955700,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192210,
+      "num": 192210,
+      "word": "现场解说称常州队是三无球队",
+      "onboard_time": 1749993800,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1371,8 +1435,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185125,
-      "num": 185125,
+      "raw_hot": 186059,
+      "num": 186059,
       "word": "常州队粉丝打扮成恐龙前来助阵",
       "onboard_time": 1749990082,
       "rank": 36,
@@ -1417,14 +1481,6 @@
       "onboard_time": 1749991040,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 178373,
-      "num": 178373,
-      "word": "苏超梭子蟹1比1战平大闸蟹",
-      "onboard_time": 1749993683,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 178272,
@@ -1481,6 +1537,14 @@
       "onboard_time": 1749951081,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176970,
+      "num": 176970,
+      "word": "商家反季低价卖羽绒靠什么赚钱",
+      "onboard_time": 1749993922,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176722,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1749984022,
       "rank": 39,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 171784,
+      "num": 171784,
+      "word": "韩安冉大女儿给宋浩然送父亲节礼物",
+      "onboard_time": 1749994345,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 171782,
@@ -1715,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158401,
+      "num": 158401,
+      "word": "贵州杀妻灭子案现场血迹成因仍待解",
+      "onboard_time": 1749994280,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157892,
       "num": 157892,
       "word": "黄圣依回应结婚对父母先斩后奏",
@@ -1795,20 +1875,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152740,
-      "num": 152740,
-      "word": "商家反季低价卖羽绒靠什么赚钱",
-      "onboard_time": 1749993922,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151886,
       "num": 260064,
       "word": "京东校园之星总决赛现场发100万",
       "onboard_time": 1749989061,
       "rank": 18,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 151715,
+      "num": 151715,
+      "word": "樊振东登上鲁迅美术学院毕业展",
+      "onboard_time": 1749994703,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 151455,
@@ -1859,20 +1939,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146666,
-      "num": 146666,
-      "word": "现场解说称常州队是三无球队",
-      "onboard_time": 1749993800,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144574,
       "num": 144574,
       "word": "尾鱼谈剧版七根心简",
       "onboard_time": 1749986060,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144319,
+      "num": 144319,
+      "word": "一万多网购泡泡玛特卖家不发货拒退款",
+      "onboard_time": 1749995004,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143877,
@@ -1897,6 +1977,14 @@
       "onboard_time": 1749955040,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143288,
+      "num": 143288,
+      "word": "灵山大佛",
+      "onboard_time": 1749995004,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 142686,
@@ -2596,7 +2684,7 @@
     },
     {
       "raw_hot": 112892,
-      "num": 112892,
+      "num": 516262,
       "word": "租客挖洞占邻居客厅5年",
       "onboard_time": 1749992962,
       "rank": 47,
@@ -2608,14 +2696,6 @@
       "word": "多方回应金雪峰在圣龙潭潜水去世",
       "onboard_time": 1749975021,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112386,
-      "num": 112386,
-      "word": "贵州杀妻灭子案现场血迹成因仍待解",
-      "onboard_time": 1749994280,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2857,6 +2937,14 @@
       "onboard_time": 1749958581,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94277,
+      "num": 158887,
+      "word": "胡杏儿晒老公儿子合照疑回应婚变",
+      "onboard_time": 1749995004,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 93978,
@@ -3363,6 +3451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 32473,
+      "num": 927062,
+      "word": "一系列先行指标看经济活力",
+      "onboard_time": 1749994522,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30802,
       "num": 30802,
       "word": "新说唱",
@@ -3449,6 +3545,14 @@
       "onboard_time": 1749894984,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26247,
+      "num": 450389,
+      "word": "以色列先发制人背后",
+      "onboard_time": 1749994402,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25162,
@@ -3649,6 +3753,14 @@
       "onboard_time": 1749973041,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13928,
+      "num": 225831,
+      "word": "专家解读飞机机舱后部更安全",
+      "onboard_time": 1749994462,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13278,
