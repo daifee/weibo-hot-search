@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749995028687,
+  "endTime": 1749997339012,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1035,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1655833,
+      "num": 1655833,
+      "word": "临江仙破万",
+      "onboard_time": 1749994522,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1654877,
       "num": 1654877,
       "word": "李晨899一只的labubu升值近6倍",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1749373101,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1510219,
-      "num": 1510219,
-      "word": "临江仙破万",
-      "onboard_time": 1749994522,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1509891,
@@ -2803,6 +2803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 974312,
+      "num": 974312,
+      "word": "无锡队2比0常州队",
+      "onboard_time": 1749995063,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 973371,
       "num": 420012,
       "word": "亲子鉴定师10年鉴定非亲生率约22%",
@@ -2825,6 +2833,14 @@
       "onboard_time": 1749021860,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 966776,
+      "num": 966776,
+      "word": "爱奇艺副总裁道歉",
+      "onboard_time": 1749995243,
+      "rank": 5,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 965697,
@@ -3009,6 +3025,14 @@
       "onboard_time": 1749211581,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 927193,
+      "num": 927193,
+      "word": "断崖式衰老的三个年龄段",
+      "onboard_time": 1749994522,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 925576,
@@ -4427,6 +4451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 709390,
+      "num": 709390,
+      "word": "河南一女子醉驾超速致一家三口死亡",
+      "onboard_time": 1749993142,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 708801,
       "num": 708801,
       "word": "新说唱导演道歉",
@@ -5635,14 +5667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 600238,
-      "num": 600238,
-      "word": "河南一女子醉驾超速致一家三口死亡",
-      "onboard_time": 1749993142,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 599560,
       "num": 599560,
       "word": "乌克兰称袭击克里米亚大桥",
@@ -6379,6 +6403,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 547877,
+      "num": 547877,
+      "word": "白鹿 临江仙值得",
+      "onboard_time": 1749996502,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 547858,
       "num": 887536,
       "word": "提到肖战表现郑晓龙连连点赞",
@@ -6497,6 +6529,22 @@
       "onboard_time": 1749309024,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 539898,
+      "num": 539898,
+      "word": "苏超排名",
+      "onboard_time": 1749992181,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 539074,
+      "num": 539074,
+      "word": "丨州未能保住最后的笔画",
+      "onboard_time": 1749995481,
+      "rank": 15,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 537444,
@@ -6707,14 +6755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 524207,
-      "num": 524207,
-      "word": "断崖式衰老的三个年龄段",
-      "onboard_time": 1749994522,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 524155,
       "num": 524155,
       "word": "张靓颖工作室道歉",
@@ -6731,12 +6771,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 523187,
-      "num": 523187,
-      "word": "苏超排名",
-      "onboard_time": 1749992181,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 522851,
+      "num": 522851,
+      "word": "演员代旭辟谷7天瘦8斤",
+      "onboard_time": 1749994944,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 521971,
@@ -11819,6 +11859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317607,
+      "num": 317607,
+      "word": "大学里的男生为什么越来越少了",
+      "onboard_time": 1749996083,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317267,
       "num": 317267,
       "word": "苏醒朋友圈夸马嘉祺",
@@ -11961,14 +12009,6 @@
       "onboard_time": 1748828360,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312512,
-      "num": 312512,
-      "word": "演员代旭辟谷7天瘦8斤",
-      "onboard_time": 1749994944,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 312414,
@@ -12209,6 +12249,14 @@
       "onboard_time": 1749702502,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307543,
+      "num": 307543,
+      "word": "王楚钦爸爸谈儿子从小的心愿",
+      "onboard_time": 1749995902,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 307456,
@@ -12611,6 +12659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297844,
+      "num": 297844,
+      "word": "叶一飞夺冠",
+      "onboard_time": 1749996682,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297765,
       "num": 297765,
       "word": "王楚钦看鹰眼挑战看乐了",
@@ -12649,6 +12705,14 @@
       "onboard_time": 1749269126,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297021,
+      "num": 297021,
+      "word": "灵山大佛",
+      "onboard_time": 1749995004,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 296973,
@@ -18531,6 +18595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209492,
+      "num": 209492,
+      "word": "勒芒",
+      "onboard_time": 1749996563,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209321,
       "num": 209321,
       "word": "王自如感谢董明珠雷军",
@@ -20377,6 +20449,14 @@
       "onboard_time": 1749279202,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199053,
+      "num": 199053,
+      "word": "贵州杀妻灭子案现场血迹成因仍待解",
+      "onboard_time": 1749994280,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199050,
@@ -22979,6 +23059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 184993,
+      "num": 184993,
+      "word": "WBG路飞",
+      "onboard_time": 1749996083,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184965,
       "num": 184965,
       "word": "十个勤天深圳站官宣",
@@ -24961,6 +25049,14 @@
       "onboard_time": 1749527000,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172806,
+      "num": 172806,
+      "word": "不朽杯鲷哥夺冠",
+      "onboard_time": 1749996744,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 172790,
@@ -26947,6 +27043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 163448,
+      "num": 163448,
+      "word": "清融补自拍",
+      "onboard_time": 1749996382,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163375,
       "num": 163375,
       "word": "四六级结束刘晓艳发文",
@@ -27971,14 +28075,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158401,
-      "num": 158401,
-      "word": "贵州杀妻灭子案现场血迹成因仍待解",
-      "onboard_time": 1749994280,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158387,
       "num": 192484,
       "word": "央视记者直击洛杉矶冲突现场",
@@ -28515,6 +28611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155644,
+      "num": 155644,
+      "word": "一万多网购泡泡玛特卖家不发货拒退款",
+      "onboard_time": 1749995004,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155618,
       "num": 258018,
       "word": "郑钦文22岁成绩",
@@ -28865,6 +28969,14 @@
       "onboard_time": 1749189502,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153961,
+      "num": 153961,
+      "word": "易烊千玺李必新剧照",
+      "onboard_time": 1749995363,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 153957,
@@ -31107,14 +31219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144319,
-      "num": 144319,
-      "word": "一万多网购泡泡玛特卖家不发货拒退款",
-      "onboard_time": 1749995004,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144318,
       "num": 144318,
       "word": "外交部回应蒙古国总理被解职",
@@ -31145,6 +31249,14 @@
       "onboard_time": 1749381261,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144177,
+      "num": 539092,
+      "word": "滕王阁遭无人机划伤当事游客发声",
+      "onboard_time": 1749996143,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144139,
@@ -31329,14 +31441,6 @@
       "onboard_time": 1749187701,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143288,
-      "num": 143288,
-      "word": "灵山大佛",
-      "onboard_time": 1749995004,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 143274,
@@ -31809,6 +31913,14 @@
       "onboard_time": 1749530482,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141478,
+      "num": 141478,
+      "word": "无畏进京了",
+      "onboard_time": 1749993562,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 141466,
@@ -33707,6 +33819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134375,
+      "num": 134375,
+      "word": "常州苏超四连败",
+      "onboard_time": 1749996863,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134311,
       "num": 134311,
       "word": "藏海石一平对峙",
@@ -34041,6 +34161,14 @@
       "onboard_time": 1749126441,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132709,
+      "num": 132709,
+      "word": "WBG Suk",
+      "onboard_time": 1749997224,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 132697,
@@ -34489,6 +34617,14 @@
       "onboard_time": 1749352340,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131205,
+      "num": 131205,
+      "word": "聂远女儿长这么高了",
+      "onboard_time": 1749997283,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 131128,
@@ -50547,6 +50683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37094,
+      "num": 1131294,
+      "word": "一系列先行指标看经济活力",
+      "onboard_time": 1749994522,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37052,
       "num": 179599,
       "word": "帮外国女孩找到东方美",
@@ -51211,6 +51355,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 34244,
+      "num": 539298,
+      "word": "日本民间团体敦促政府返还中国文物",
+      "onboard_time": 1749996923,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34204,
       "num": 303584,
       "word": "家门口遇害案母亲靠三千月薪打官司",
@@ -51593,14 +51745,6 @@
       "onboard_time": 1749727522,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32473,
-      "num": 927062,
-      "word": "一系列先行指标看经济活力",
-      "onboard_time": 1749994522,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32447,
@@ -52425,6 +52569,14 @@
       "onboard_time": 1749645141,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 28705,
+      "num": 165472,
+      "word": "相爱的人会共同面对解决问题",
+      "onboard_time": 1749996322,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 28683,
@@ -56735,6 +56887,9 @@
     },
     {
       "word": "#学习总书记的好作风#"
+    },
+    {
+      "word": "#中国—中亚峰会#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749995028687,
+  "endTime": 1749997339012,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -43,19 +43,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1655833,
+      "num": 1655833,
+      "word": "临江仙破万",
+      "onboard_time": 1749994522,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1524813,
       "num": 1524813,
       "word": "长安的荔枝 易烊千玺",
       "onboard_time": 1749982880,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1510219,
-      "num": 1510219,
-      "word": "临江仙破万",
-      "onboard_time": 1749994522,
-      "rank": 0,
       "category": "剧集"
     },
     {
@@ -147,6 +147,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 974312,
+      "num": 974312,
+      "word": "无锡队2比0常州队",
+      "onboard_time": 1749995063,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 966776,
+      "num": 966776,
+      "word": "爱奇艺副总裁道歉",
+      "onboard_time": 1749995243,
+      "rank": 5,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 965697,
       "num": 965697,
       "word": "以色列",
@@ -161,6 +177,14 @@
       "onboard_time": 1749989360,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 927193,
+      "num": 927193,
+      "word": "断崖式衰老的三个年龄段",
+      "onboard_time": 1749994522,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 911926,
@@ -241,6 +265,14 @@
       "onboard_time": 1749977300,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 709390,
+      "num": 709390,
+      "word": "河南一女子醉驾超速致一家三口死亡",
+      "onboard_time": 1749993142,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 708801,
@@ -355,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 600238,
-      "num": 600238,
-      "word": "河南一女子醉驾超速致一家三口死亡",
-      "onboard_time": 1749993142,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 559598,
       "num": 559598,
       "word": "以色列暗杀胡塞高级领导人失败",
@@ -387,12 +411,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 524207,
-      "num": 524207,
-      "word": "断崖式衰老的三个年龄段",
-      "onboard_time": 1749994522,
-      "rank": 12,
-      "category": "幽默"
+      "raw_hot": 547877,
+      "num": 547877,
+      "word": "白鹿 临江仙值得",
+      "onboard_time": 1749996502,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 539898,
+      "num": 539898,
+      "word": "苏超排名",
+      "onboard_time": 1749992181,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 539074,
+      "num": 539074,
+      "word": "丨州未能保住最后的笔画",
+      "onboard_time": 1749995481,
+      "rank": 15,
+      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 523208,
@@ -403,12 +443,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 523187,
-      "num": 523187,
-      "word": "苏超排名",
-      "onboard_time": 1749992181,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 522851,
+      "num": 522851,
+      "word": "演员代旭辟谷7天瘦8斤",
+      "onboard_time": 1749994944,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 521809,
@@ -723,12 +763,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 312512,
-      "num": 312512,
-      "word": "演员代旭辟谷7天瘦8斤",
-      "onboard_time": 1749994944,
+      "raw_hot": 317607,
+      "num": 317607,
+      "word": "大学里的男生为什么越来越少了",
+      "onboard_time": 1749996083,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307543,
+      "num": 307543,
+      "word": "王楚钦爸爸谈儿子从小的心愿",
+      "onboard_time": 1749995902,
       "rank": 24,
-      "category": "艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 304971,
@@ -753,6 +801,22 @@
       "onboard_time": 1749955279,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 297844,
+      "num": 297844,
+      "word": "叶一飞夺冠",
+      "onboard_time": 1749996682,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 297021,
+      "num": 297021,
+      "word": "灵山大佛",
+      "onboard_time": 1749995004,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 295018,
@@ -1147,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209492,
+      "num": 209492,
+      "word": "勒芒",
+      "onboard_time": 1749996563,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209255,
       "num": 209255,
       "word": "苏州vs连云港",
@@ -1265,6 +1337,14 @@
       "onboard_time": 1749991880,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 199053,
+      "num": 199053,
+      "word": "贵州杀妻灭子案现场血迹成因仍待解",
+      "onboard_time": 1749994280,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199050,
@@ -1443,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184993,
+      "num": 184993,
+      "word": "WBG路飞",
+      "onboard_time": 1749996083,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184543,
       "num": 184543,
       "word": "单身不是最爽的",
@@ -1611,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172806,
+      "num": 172806,
+      "word": "不朽杯鲷哥夺冠",
+      "onboard_time": 1749996744,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172278,
       "num": 172278,
       "word": "孙燕姿鸟巢演唱会",
@@ -1723,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163448,
+      "num": 163448,
+      "word": "清融补自拍",
+      "onboard_time": 1749996382,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162911,
       "num": 162911,
       "word": "光与夜之恋",
@@ -1787,14 +1891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158401,
-      "num": 158401,
-      "word": "贵州杀妻灭子案现场血迹成因仍待解",
-      "onboard_time": 1749994280,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157892,
       "num": 157892,
       "word": "黄圣依回应结婚对父母先斩后奏",
@@ -1835,12 +1931,28 @@
       "category": "情感,读书作家"
     },
     {
+      "raw_hot": 155644,
+      "num": 155644,
+      "word": "一万多网购泡泡玛特卖家不发货拒退款",
+      "onboard_time": 1749995004,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154192,
       "num": 279741,
       "word": "曾舜晞这是喜从天降吧",
       "onboard_time": 1749975439,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153961,
+      "num": 153961,
+      "word": "易烊千玺李必新剧照",
+      "onboard_time": 1749995363,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 153921,
@@ -1947,11 +2059,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144319,
-      "num": 144319,
-      "word": "一万多网购泡泡玛特卖家不发货拒退款",
-      "onboard_time": 1749995004,
-      "rank": 47,
+      "raw_hot": 144177,
+      "num": 539092,
+      "word": "滕王阁遭无人机划伤当事游客发声",
+      "onboard_time": 1749996143,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1979,20 +2091,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 143288,
-      "num": 143288,
-      "word": "灵山大佛",
-      "onboard_time": 1749995004,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 142686,
       "num": 142686,
       "word": "黎深第五肋间",
       "onboard_time": 1749969860,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141478,
+      "num": 141478,
+      "word": "无畏进京了",
+      "onboard_time": 1749993562,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 141365,
@@ -2187,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134375,
+      "num": 134375,
+      "word": "常州苏超四连败",
+      "onboard_time": 1749996863,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133960,
       "num": 133960,
       "word": "刘浩存一句话把宋威龙说爽了",
@@ -2200,6 +2320,14 @@
       "word": "Cat说打比赛心态有变化",
       "onboard_time": 1749915563,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 132709,
+      "num": 132709,
+      "word": "WBG Suk",
+      "onboard_time": 1749997224,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -2233,6 +2361,14 @@
       "onboard_time": 1749980000,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131205,
+      "num": 131205,
+      "word": "聂远女儿长这么高了",
+      "onboard_time": 1749997283,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 131016,
@@ -3403,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37094,
+      "num": 1131294,
+      "word": "一系列先行指标看经济活力",
+      "onboard_time": 1749994522,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37012,
       "num": 363622,
       "word": "醉驾司机顶行交警600多米被刑拘",
@@ -3435,6 +3579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34244,
+      "num": 539298,
+      "word": "日本民间团体敦促政府返还中国文物",
+      "onboard_time": 1749996923,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33351,
       "num": 1327822,
       "word": "神二十太空出差vlog上新了",
@@ -3449,14 +3601,6 @@
       "onboard_time": 1749959541,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 32473,
-      "num": 927062,
-      "word": "一系列先行指标看经济活力",
-      "onboard_time": 1749994522,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30802,
@@ -3489,6 +3633,14 @@
       "onboard_time": 1749915083,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28705,
+      "num": 165472,
+      "word": "相爱的人会共同面对解决问题",
+      "onboard_time": 1749996322,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 28235,
@@ -3814,6 +3966,9 @@
     },
     {
       "word": "#学习总书记的好作风#"
+    },
+    {
+      "word": "#中国—中亚峰会#"
     }
   ]
 }
