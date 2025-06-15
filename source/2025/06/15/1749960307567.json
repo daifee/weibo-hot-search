@@ -1,0 +1,410 @@
+{
+  "runTime": 1749960307567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1072486,
+        "num": 1171597,
+        "word": "父亲节",
+        "onboard_time": 1749944538,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619036,
+        "num": 619036,
+        "word": "故宫漏雨",
+        "onboard_time": 1749949760,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20371,
+        "num": 572836,
+        "word": "在中亚感受中国热",
+        "onboard_time": 1749959961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561701,
+        "num": 561701,
+        "word": "清华高颜值女孩父亲回应女儿直播",
+        "onboard_time": 1749954140,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560119,
+        "num": 560119,
+        "word": "台湾名嘴说昆山厕所没有门",
+        "onboard_time": 1749958760,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549907,
+        "num": 549907,
+        "word": "金昀去世",
+        "onboard_time": 1749946820,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455363,
+        "num": 455363,
+        "word": "原来它们不叫labubu",
+        "onboard_time": 1749946639,
+        "rank": 6,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 385534,
+        "num": 385534,
+        "word": "伊朗导弹击中以色列能源设施",
+        "onboard_time": 1749951019,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 622345,
+        "num": 382391,
+        "word": "马嘉祺丁程鑫差点亲上了",
+        "onboard_time": 1749956900,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272193,
+        "num": 378808,
+        "word": "美国洛杉矶现状",
+        "onboard_time": 1749955279,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1197117,
+        "num": 370989,
+        "word": "曾毅回应不雅手表争议网友并不买账",
+        "onboard_time": 1749953479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1041745,
+        "num": 359572,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 11,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 43010,
+        "num": 357483,
+        "word": "宋妍霏给爸爸充京东饭卡",
+        "onboard_time": 1749959541,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635489,
+        "num": 352022,
+        "word": "怎么轮到结婚就开始让我凑合了",
+        "onboard_time": 1749948080,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345959,
+        "num": 345959,
+        "word": "张朝阳退回的labubu换了一辆车",
+        "onboard_time": 1749959180,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304269,
+        "num": 304269,
+        "word": "张子枫踩20cm的高跟鞋",
+        "onboard_time": 1749920000,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473031,
+        "num": 303240,
+        "word": "男子鸣笛引路人不满强行驶离致1死4伤",
+        "onboard_time": 1749947839,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 231525,
+        "num": 295873,
+        "word": "严浩翔贺峻霖共脑",
+        "onboard_time": 1749959600,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229775,
+        "num": 293997,
+        "word": "李现是第一个推了酱园弄的人",
+        "onboard_time": 1749921557,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185286,
+        "num": 289034,
+        "word": "跟着樊振东点美团闪购",
+        "onboard_time": 1749957141,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334487,
+        "num": 283922,
+        "word": "浙音第一质疑网红歌手",
+        "onboard_time": 1749959541,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280765,
+        "num": 280765,
+        "word": "王懿律父亲节官宣当爹",
+        "onboard_time": 1749957020,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270733,
+        "num": 270733,
+        "word": "伊朗警告美英法3国",
+        "onboard_time": 1749946939,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208759,
+        "num": 245624,
+        "word": "种地吧",
+        "onboard_time": 1749959240,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84835,
+        "num": 237324,
+        "word": "原来西瓜不是最补水的瓜",
+        "onboard_time": 1749955040,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230299,
+        "num": 230299,
+        "word": "翟潇闻说内娱最漂亮女艺人刘诗诗",
+        "onboard_time": 1749943217,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224629,
+        "num": 224629,
+        "word": "郝蕾你平时点评可不这样",
+        "onboard_time": 1749957679,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212255,
+        "num": 212255,
+        "word": "专四",
+        "onboard_time": 1749956480,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203315,
+        "num": 203315,
+        "word": "留几手说有资格当林志玲老公",
+        "onboard_time": 1749958760,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94418,
+        "num": 196873,
+        "word": "刚去以色列工作华人讲述当地情况",
+        "onboard_time": 1749958581,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193916,
+        "num": 193916,
+        "word": "梅西倒地",
+        "onboard_time": 1749955700,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186759,
+        "num": 186759,
+        "word": "北大副教授闻新宇突发心脏病逝世",
+        "onboard_time": 1749957500,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177272,
+        "num": 184631,
+        "word": "战至巅峰给贺峻霖发来生日贺电",
+        "onboard_time": 1749959899,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184044,
+        "num": 184044,
+        "word": "00后的第一个父亲节礼物是被爆改",
+        "onboard_time": 1749959660,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178272,
+        "num": 178272,
+        "word": "金莎孙丞潇综艺里连亲了三下",
+        "onboard_time": 1749959600,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166659,
+        "num": 166659,
+        "word": "荔枝 低血糖",
+        "onboard_time": 1749960080,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51349,
+        "num": 164016,
+        "word": "他不是超人却为我变成了万能",
+        "onboard_time": 1749959541,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162753,
+        "num": 162753,
+        "word": "这样早起可能比熬夜伤害更大",
+        "onboard_time": 1749959479,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148377,
+        "num": 148377,
+        "word": "故宫回应展品疑被雨水打湿",
+        "onboard_time": 1749957621,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80609,
+        "num": 143616,
+        "word": "裁判视角下的梅西",
+        "onboard_time": 1749957860,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143530,
+        "num": 143530,
+        "word": "伊朗称将袭击以战斗机燃料生产设施",
+        "onboard_time": 1749946939,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141870,
+        "num": 141870,
+        "word": "以色列暗杀胡塞高级领导人失败",
+        "onboard_time": 1749948320,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138472,
+        "num": 138472,
+        "word": "邓紫棋发文再谈六年版权纠纷",
+        "onboard_time": 1749952520,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137271,
+        "num": 137271,
+        "word": "杨幂感谢章子怡",
+        "onboard_time": 1749943096,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136039,
+        "num": 136039,
+        "word": "韩红现场发飙怒骂选手自私",
+        "onboard_time": 1749915682,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132556,
+        "num": 132556,
+        "word": "洞穴潜水员金雪峰在广西洞潜时去世",
+        "onboard_time": 1749957260,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131947,
+        "num": 131947,
+        "word": "把亡妻婚戒融一起男子回应将当爷爷",
+        "onboard_time": 1749946039,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128618,
+        "num": 128618,
+        "word": "荔枝核别扔养出超火粉色盆栽",
+        "onboard_time": 1749954140,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130540,
+        "num": 128582,
+        "word": "杨幂李现同框化学反应",
+        "onboard_time": 1749957980,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127327,
+        "num": 127327,
+        "word": "Capper这段只有真朋友才懂",
+        "onboard_time": 1749960200,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述中华文明的故事#"
+    }
+  }
+}
