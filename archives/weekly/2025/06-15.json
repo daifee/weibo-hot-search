@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749954940281,
+  "endTime": 1749959742806,
   "band_list": [
     {
       "raw_hot": 1752363,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1046480,
+      "num": 1167436,
+      "word": "父亲节",
+      "onboard_time": 1749944538,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1029338,
       "num": 441970,
       "word": "韩红现场发飙怒骂选手自私",
@@ -49,14 +57,6 @@
       "onboard_time": 1749905002,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 925306,
-      "num": 1137244,
-      "word": "父亲节",
-      "onboard_time": 1749944538,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 856814,
@@ -99,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 636890,
+      "num": 323562,
+      "word": "怎么轮到结婚就开始让我凑合了",
+      "onboard_time": 1749948080,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 635003,
       "num": 635003,
       "word": "黄子韬现场发火中断考核",
       "onboard_time": 1749904522,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 611633,
+      "num": 611633,
+      "word": "清华高颜值女孩父亲回应女儿直播",
+      "onboard_time": 1749954140,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 559598,
@@ -123,12 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 543287,
-      "num": 543287,
-      "word": "清华高颜值女孩父亲回应女儿直播",
-      "onboard_time": 1749954140,
+      "raw_hot": 532414,
+      "num": 532414,
+      "word": "马嘉祺丁程鑫差点亲上了",
+      "onboard_time": 1749956900,
       "rank": 5,
-      "category": "民生新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 521762,
@@ -219,6 +235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 331224,
+      "num": 331224,
+      "word": "台湾名嘴说昆山厕所没有门",
+      "onboard_time": 1749958760,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329446,
       "num": 329446,
       "word": "43岁张亮与10岁女儿合拍杂志",
@@ -233,6 +257,14 @@
       "onboard_time": 1749911063,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301202,
+      "num": 301202,
+      "word": "美国洛杉矶现状",
+      "onboard_time": 1749955279,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 295018,
@@ -259,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 287523,
+      "num": 287523,
+      "word": "王懿律父亲节官宣当爹",
+      "onboard_time": 1749957020,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283960,
       "num": 325982,
       "word": "泡泡玛特中止labubu韩国线下销售",
@@ -281,6 +321,22 @@
       "onboard_time": 1749909802,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 273073,
+      "num": 227105,
+      "word": "郝蕾你平时点评可不这样",
+      "onboard_time": 1749957679,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266493,
+      "num": 266493,
+      "word": "专四",
+      "onboard_time": 1749956480,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 254008,
@@ -315,12 +371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227413,
-      "num": 227413,
-      "word": "怎么轮到结婚就开始让我凑合了",
-      "onboard_time": 1749948080,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 227009,
+      "num": 227009,
+      "word": "张朝阳退回的labubu换了一辆车",
+      "onboard_time": 1749959180,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 226727,
+      "num": 226727,
+      "word": "北大副教授闻新宇突发心脏病逝世",
+      "onboard_time": 1749957500,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219684,
@@ -329,6 +393,14 @@
       "onboard_time": 1749946459,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 208745,
+      "num": 227233,
+      "word": "跟着樊振东点美团闪购",
+      "onboard_time": 1749957141,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 207118,
@@ -347,12 +419,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 204743,
+      "num": 204743,
+      "word": "浙音第一质疑网红歌手",
+      "onboard_time": 1749959541,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204590,
+      "num": 204590,
+      "word": "严浩翔贺峻霖共脑",
+      "onboard_time": 1749959600,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202582,
       "num": 200779,
       "word": "赵丽颖饰演西林",
       "onboard_time": 1749917482,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201748,
+      "num": 201748,
+      "word": "00后的第一个父亲节礼物是被爆改",
+      "onboard_time": 1749959660,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 197501,
@@ -379,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193002,
+      "num": 193002,
+      "word": "留几手说有资格当林志玲老公",
+      "onboard_time": 1749958760,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192119,
       "num": 74762,
       "word": "Tarzan赛后发长文感谢队友",
@@ -387,12 +491,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192090,
+      "num": 202750,
+      "word": "种地吧",
+      "onboard_time": 1749959240,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187952,
       "num": 187952,
       "word": "贺峻霖战至巅峰从20岁打到21岁",
       "onboard_time": 1749917961,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187603,
+      "num": 187603,
+      "word": "梅西倒地",
+      "onboard_time": 1749955700,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 183221,
@@ -417,6 +537,14 @@
       "onboard_time": 1749951081,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176722,
+      "num": 176722,
+      "word": "洞穴潜水员金雪峰在广西洞潜时去世",
+      "onboard_time": 1749957260,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175003,
@@ -475,12 +603,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160860,
+      "num": 160860,
+      "word": "孙杨与C罗梅西的老将共鸣",
+      "onboard_time": 1749957079,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157198,
       "num": 157198,
       "word": "荔枝核别扔养出超火粉色盆栽",
       "onboard_time": 1749954140,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157091,
+      "num": 157091,
+      "word": "故宫回应展品疑被雨水打湿",
+      "onboard_time": 1749957621,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156932,
+      "num": 156932,
+      "word": "这样早起可能比熬夜伤害更大",
+      "onboard_time": 1749959479,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156083,
@@ -515,6 +667,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147807,
+      "num": 147807,
+      "word": "金莎孙丞潇综艺里连亲了三下",
+      "onboard_time": 1749959600,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147451,
+      "num": 156030,
+      "word": "白鹿曾舜晞今晚陪看临江仙",
+      "onboard_time": 1749958340,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143877,
       "num": 143877,
       "word": "陷入我们的热恋",
@@ -523,12 +691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141365,
+      "num": 141365,
+      "word": "霍华德与师弟互殴",
+      "onboard_time": 1749955401,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140799,
       "num": 140799,
       "word": "杨幂又在红毯搞抽象",
       "onboard_time": 1749910884,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139355,
+      "num": 139355,
+      "word": "知名洞穴潜水员在圣龙潭潜水时去世",
+      "onboard_time": 1749958460,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135826,
@@ -625,6 +809,14 @@
       "onboard_time": 1749954199,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119633,
+      "num": 134509,
+      "word": "揽流光三千杀青",
+      "onboard_time": 1749958100,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118296,
@@ -843,6 +1035,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78980,
+      "num": 202153,
+      "word": "刚去以色列工作华人讲述当地情况",
+      "onboard_time": 1749958581,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 76775,
+      "num": 155632,
+      "word": "裁判视角下的梅西",
+      "onboard_time": 1749957860,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76315,
       "num": 76315,
       "word": "桃黑黑直播",
@@ -971,12 +1179,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38280,
+      "num": 181940,
+      "word": "宋妍霏给爸爸充京东饭卡",
+      "onboard_time": 1749959541,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35154,
       "num": 121616,
       "word": "凯斯无缘女王杯决赛",
       "onboard_time": 1749915083,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33031,
+      "num": 208760,
+      "word": "好用心的自然拼读资料",
+      "onboard_time": 1749959541,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 30802,
@@ -1105,6 +1329,14 @@
       "onboard_time": 1749932054,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 17306,
+      "num": 631093,
+      "word": "他不是超人却为我变成了万能",
+      "onboard_time": 1749959541,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17116,
