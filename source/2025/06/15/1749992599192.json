@@ -1,0 +1,410 @@
+{
+  "runTime": 1749992599192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1472757,
+        "num": 1472757,
+        "word": "长安的荔枝 易烊千玺",
+        "onboard_time": 1749982880,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1230764,
+        "num": 1230764,
+        "word": "杭州一泡泡玛特开业当天闭店",
+        "onboard_time": 1749983481,
+        "rank": 1,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 15284,
+        "num": 1013445,
+        "word": "中国田间好丰景",
+        "onboard_time": 1749975381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 931923,
+        "num": 931923,
+        "word": "泰国与印空难幸存者座位都是11A",
+        "onboard_time": 1749989360,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 895149,
+        "num": 895149,
+        "word": "陈梦说求婚现场人越多越好",
+        "onboard_time": 1749989781,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 698217,
+        "num": 698217,
+        "word": "林俊杰演唱会嘉宾宋雨琦",
+        "onboard_time": 1749988340,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 639641,
+        "num": 639641,
+        "word": "张韶涵遇突发状况一秒换话筒",
+        "onboard_time": 1749989001,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 549974,
+        "num": 549974,
+        "word": "苏超无锡vs常州",
+        "onboard_time": 1749986000,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524849,
+        "num": 524849,
+        "word": "30只Labubu把老爸整破防了",
+        "onboard_time": 1749976819,
+        "rank": 8,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 144289,
+        "num": 404561,
+        "word": "印度一大桥坍塌致至少6人死亡",
+        "onboard_time": 1749991401,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 868781,
+        "num": 399579,
+        "word": "郭富城官宣方媛怀三胎",
+        "onboard_time": 1749980540,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331847,
+        "num": 331847,
+        "word": "虞书欣直播",
+        "onboard_time": 1749989601,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325911,
+        "num": 325911,
+        "word": "临江仙爱奇艺热度破9900",
+        "onboard_time": 1749988280,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300841,
+        "num": 300841,
+        "word": "Lafufu和Lababa都属于商标侵权",
+        "onboard_time": 1749982221,
+        "rank": 13,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 270114,
+        "num": 270114,
+        "word": "山东寿光7死4伤中毒事故调查报告",
+        "onboard_time": 1749990502,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255242,
+        "num": 255242,
+        "word": "刘亦菲 宝格丽女王",
+        "onboard_time": 1749979700,
+        "rank": 15,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 251557,
+        "num": 251557,
+        "word": "山东寿光较大中毒事故26人被问责",
+        "onboard_time": 1749989481,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 240151,
+        "num": 240151,
+        "word": "6岁女孩吃十几颗荔枝后嗜睡冒冷汗",
+        "onboard_time": 1749974480,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67703,
+        "num": 238497,
+        "word": "炒茅台7年多老黄牛转型炒拉布布",
+        "onboard_time": 1749990742,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151886,
+        "num": 238455,
+        "word": "京东校园之星总决赛现场发100万",
+        "onboard_time": 1749989061,
+        "rank": 19,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 358500,
+        "num": 238445,
+        "word": "让体脂率不断下降的小习惯",
+        "onboard_time": 1749989120,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 238431,
+        "num": 238431,
+        "word": "临江仙",
+        "onboard_time": 1749982641,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225355,
+        "num": 225355,
+        "word": "重庆震感",
+        "onboard_time": 1749984921,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 22806,
+        "num": 214527,
+        "word": "律师解读黄牛高价转卖Labubu新品",
+        "onboard_time": 1749990742,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214176,
+        "num": 214176,
+        "word": "上半场无锡1比0常州",
+        "onboard_time": 1749991401,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212423,
+        "num": 212423,
+        "word": "周杰伦邀请方文山多出来走走",
+        "onboard_time": 1749985340,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208173,
+        "num": 208173,
+        "word": "华晨宇郑州站上座率",
+        "onboard_time": 1749991640,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207972,
+        "num": 207972,
+        "word": "苏州vs连云港",
+        "onboard_time": 1749989180,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199717,
+        "num": 199717,
+        "word": "贺峻霖直播",
+        "onboard_time": 1749991401,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199362,
+        "num": 199362,
+        "word": "泰国与印度空难幸存者座位竟一样",
+        "onboard_time": 1749991880,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198472,
+        "num": 198472,
+        "word": "张雪迎酱园弄影评",
+        "onboard_time": 1749986481,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186223,
+        "num": 186223,
+        "word": "道崽 女朋友",
+        "onboard_time": 1749977780,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142556,
+        "num": 185496,
+        "word": "长期使用劣质纸巾有什么危害",
+        "onboard_time": 1749986300,
+        "rank": 32,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 185125,
+        "num": 185125,
+        "word": "常州队粉丝打扮成恐龙前来助阵",
+        "onboard_time": 1749990082,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181563,
+        "num": 181563,
+        "word": "4类人尽量不吃或少吃荔枝",
+        "onboard_time": 1749969560,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180177,
+        "num": 180177,
+        "word": "山东一大学禁用红米手机考试",
+        "onboard_time": 1749992122,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176273,
+        "num": 176273,
+        "word": "苏超",
+        "onboard_time": 1749981860,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171662,
+        "num": 171662,
+        "word": "电视剧轧戏杀青",
+        "onboard_time": 1749991221,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164537,
+        "num": 164537,
+        "word": "四川珙县4.8级地震",
+        "onboard_time": 1749984921,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36818,
+        "num": 158645,
+        "word": "九尾拿下二连MVP",
+        "onboard_time": 1749991460,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158102,
+        "num": 158102,
+        "word": "常州队打响笔画保卫战",
+        "onboard_time": 1749990142,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157760,
+        "num": 157760,
+        "word": "徐州绝杀镇江",
+        "onboard_time": 1749982342,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157109,
+        "num": 157109,
+        "word": "白鹿回应赵弈钦",
+        "onboard_time": 1749989899,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73843,
+        "num": 153249,
+        "word": "土耳其两只热气球坠毁致1死19伤",
+        "onboard_time": 1749992542,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152215,
+        "num": 152215,
+        "word": "苏超排名",
+        "onboard_time": 1749992181,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146085,
+        "num": 146085,
+        "word": "新说唱导演道歉",
+        "onboard_time": 1749980000,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142356,
+        "num": 142356,
+        "word": "新说唱清退不当言论运营人员",
+        "onboard_time": 1749989662,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141883,
+        "num": 141883,
+        "word": "孙燕姿鸟巢演唱会",
+        "onboard_time": 1749990201,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136755,
+        "num": 136755,
+        "word": "狼队对战TTG",
+        "onboard_time": 1749992422,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129485,
+        "num": 129485,
+        "word": "刘诗诗好美",
+        "onboard_time": 1749983300,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#第二届中国—中亚峰会#"
+    }
+  }
+}

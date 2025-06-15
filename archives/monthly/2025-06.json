@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749991669589,
+  "endTime": 1749992599192,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1275,6 +1275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1472757,
+      "num": 1472757,
+      "word": "长安的荔枝 易烊千玺",
+      "onboard_time": 1749982880,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1467750,
       "num": 623598,
       "word": "雷军删掉诋毁原文",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1749462442,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1436849,
-      "num": 1436849,
-      "word": "长安的荔枝 易烊千玺",
-      "onboard_time": 1749982880,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 1432003,
@@ -2971,6 +2971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 931923,
+      "num": 931923,
+      "word": "泰国与印空难幸存者座位都是11A",
+      "onboard_time": 1749989360,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 930311,
       "num": 930311,
       "word": "labubu",
@@ -3153,14 +3161,6 @@
       "onboard_time": 1749632722,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 890997,
-      "num": 890997,
-      "word": "泰国与印空难幸存者座位都是11A",
-      "onboard_time": 1749989360,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 890368,
@@ -4993,6 +4993,14 @@
       "onboard_time": 1749307586,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 639641,
+      "num": 639641,
+      "word": "张韶涵遇突发状况一秒换话筒",
+      "onboard_time": 1749989001,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 638394,
@@ -9075,14 +9083,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 403463,
-      "num": 403463,
-      "word": "张韶涵遇突发状况一秒换话筒",
-      "onboard_time": 1749989001,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 402278,
       "num": 402278,
       "word": "黄觉转发",
@@ -10371,6 +10371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 358500,
+      "num": 259503,
+      "word": "让体脂率不断下降的小习惯",
+      "onboard_time": 1749989120,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 358051,
       "num": 358051,
       "word": "完形填空给我道歉",
@@ -11347,6 +11355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331847,
+      "num": 331847,
+      "word": "虞书欣直播",
+      "onboard_time": 1749989601,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331691,
       "num": 205585,
       "word": "王皓已通过考编笔试",
@@ -12083,14 +12099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 308147,
-      "num": 259503,
-      "word": "让体脂率不断下降的小习惯",
-      "onboard_time": 1749989120,
-      "rank": 20,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 308140,
       "num": 341674,
       "word": "郭麒麟红毯绑外甥",
@@ -12553,14 +12561,6 @@
       "onboard_time": 1749628221,
       "rank": 20,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 297684,
-      "num": 297684,
-      "word": "虞书欣直播",
-      "onboard_time": 1749989601,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 297634,
@@ -13881,6 +13881,14 @@
       "onboard_time": 1749314302,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270114,
+      "num": 270114,
+      "word": "山东寿光7死4伤中毒事故调查报告",
+      "onboard_time": 1749990502,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270077,
@@ -15633,14 +15641,6 @@
       "onboard_time": 1749734183,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240008,
-      "num": 240008,
-      "word": "山东寿光7死4伤中毒事故调查报告",
-      "onboard_time": 1749990502,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239983,
@@ -18603,6 +18603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 208173,
+      "num": 208173,
+      "word": "华晨宇郑州站上座率",
+      "onboard_time": 1749991640,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208160,
       "num": 251942,
       "word": "张杰曾为鼓励邓紫棋唱泡沫",
@@ -20139,6 +20147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199717,
+      "num": 199717,
+      "word": "贺峻霖直播",
+      "onboard_time": 1749991401,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199708,
       "num": 232836,
       "word": "王楚钦3比0徐海东",
@@ -20201,6 +20217,14 @@
       "onboard_time": 1749600621,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199362,
+      "num": 199362,
+      "word": "泰国与印度空难幸存者座位竟一样",
+      "onboard_time": 1749991880,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 199328,
@@ -22467,14 +22491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186963,
-      "num": 186963,
-      "word": "贺峻霖直播",
-      "onboard_time": 1749991401,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186944,
       "num": 186944,
       "word": "菲律宾防长居然说中国记者是特工",
@@ -22817,6 +22833,14 @@
       "onboard_time": 1748910201,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 185125,
+      "num": 185125,
+      "word": "常州队粉丝打扮成恐龙前来助阵",
+      "onboard_time": 1749990082,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 185074,
@@ -23168,14 +23192,6 @@
       "word": "蒯曼平野美宇3比1刘炜珊何卓佳",
       "onboard_time": 1749444024,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 183023,
-      "num": 183023,
-      "word": "常州队粉丝打扮成恐龙前来助阵",
-      "onboard_time": 1749990082,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -23649,6 +23665,14 @@
       "onboard_time": 1749294083,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180177,
+      "num": 180177,
+      "word": "山东一大学禁用红米手机考试",
+      "onboard_time": 1749992122,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 180138,
@@ -29107,6 +29131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152215,
+      "num": 152215,
+      "word": "苏超排名",
+      "onboard_time": 1749992181,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152180,
       "num": 152180,
       "word": "河北也太宠樊振东了",
@@ -29169,6 +29201,14 @@
       "onboard_time": 1749012321,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151886,
+      "num": 260064,
+      "word": "京东校园之星总决赛现场发100万",
+      "onboard_time": 1749989061,
+      "rank": 18,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 151856,
@@ -30945,6 +30985,14 @@
       "onboard_time": 1748941461,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144289,
+      "num": 404561,
+      "word": "印度一大桥坍塌致至少6人死亡",
+      "onboard_time": 1749991401,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 144285,
@@ -32801,6 +32849,14 @@
       "onboard_time": 1748872582,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136755,
+      "num": 136755,
+      "word": "狼队对战TTG",
+      "onboard_time": 1749992422,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 136714,
@@ -35931,14 +35987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124069,
-      "num": 124069,
-      "word": "华晨宇郑州站上座率",
-      "onboard_time": 1749991640,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 123987,
       "num": 123987,
       "word": "七根心简有自己的凤凰和传奇",
@@ -38545,14 +38593,6 @@
       "onboard_time": 1749889460,
       "rank": 17,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 112819,
-      "num": 260064,
-      "word": "京东校园之星总决赛现场发100万",
-      "onboard_time": 1749989061,
-      "rank": 18,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 112800,
@@ -44699,6 +44739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73843,
+      "num": 153249,
+      "word": "土耳其两只热气球坠毁致1死19伤",
+      "onboard_time": 1749992542,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73817,
       "num": 213481,
       "word": "胡赛向以色列发射导弹",
@@ -44769,14 +44817,6 @@
       "onboard_time": 1748770161,
       "rank": 38,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 73426,
-      "num": 269725,
-      "word": "印度一大桥坍塌致至少6人死亡",
-      "onboard_time": 1749991401,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 73425,
@@ -45569,6 +45609,14 @@
       "onboard_time": 1748880440,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 67703,
+      "num": 297929,
+      "word": "炒茅台7年多老黄牛转型炒拉布布",
+      "onboard_time": 1749990742,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67661,
@@ -46569,14 +46617,6 @@
       "onboard_time": 1749788362,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60132,
-      "num": 297929,
-      "word": "炒茅台7年多老黄牛转型炒拉布布",
-      "onboard_time": 1749990742,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60117,
