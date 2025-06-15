@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749980395358,
+  "endTime": 1749983278742,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -9,6 +9,14 @@
       "onboard_time": 1749960080,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1791257,
+      "num": 328440,
+      "word": "郭富城官宣方媛怀三胎",
+      "onboard_time": 1749980540,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1752363,
@@ -155,12 +163,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 724971,
+      "num": 724971,
+      "word": "徐州绝杀镇江",
+      "onboard_time": 1749982342,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 693922,
       "num": 356478,
       "word": "刘耀文",
       "onboard_time": 1749920479,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 688144,
+      "num": 688144,
+      "word": "新说唱导演道歉",
+      "onboard_time": 1749980000,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 668039,
@@ -257,6 +281,14 @@
       "onboard_time": 1749973521,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 521809,
+      "num": 521809,
+      "word": "刘亦菲 宝格丽女王",
+      "onboard_time": 1749979700,
+      "rank": 16,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 521762,
@@ -475,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330243,
+      "num": 330243,
+      "word": "Lafufu和Lababa都属于商标侵权",
+      "onboard_time": 1749982221,
+      "rank": 8,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 329446,
       "num": 329446,
       "word": "43岁张亮与10岁女儿合拍杂志",
@@ -505,6 +545,14 @@
       "onboard_time": 1749978020,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304816,
+      "num": 304816,
+      "word": "苏超徐州vs镇江",
+      "onboard_time": 1749972500,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 301202,
@@ -651,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258983,
-      "num": 291417,
-      "word": "刘亦菲 宝格丽女王",
-      "onboard_time": 1749979700,
-      "rank": 16,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 254008,
       "num": 254008,
       "word": "伊朗称将袭击以战斗机燃料生产设施",
@@ -673,6 +713,14 @@
       "onboard_time": 1749975502,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251839,
+      "num": 323398,
+      "word": "魏哲鸣 我年纪大懂得疼人",
+      "onboard_time": 1749981800,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 248378,
@@ -723,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231425,
+      "num": 231425,
+      "word": "苏超",
+      "onboard_time": 1749981860,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228765,
       "num": 249359,
       "word": "披荆斩棘 镜头",
@@ -737,6 +793,14 @@
       "onboard_time": 1749978741,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228062,
+      "num": 228062,
+      "word": "贺峻霖 包的兄弟",
+      "onboard_time": 1749978860,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 227300,
@@ -763,6 +827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 219883,
+      "num": 219883,
+      "word": "陈赫父亲节被五哈做局了",
+      "onboard_time": 1749981681,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219684,
       "num": 248854,
       "word": "网红泰国商场直播带货被查",
@@ -771,20 +843,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 214938,
-      "num": 214938,
-      "word": "贺峻霖 包的兄弟",
-      "onboard_time": 1749978860,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 210411,
-      "num": 210411,
-      "word": "新说唱导演道歉",
-      "onboard_time": 1749980000,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 216348,
+      "num": 216348,
+      "word": "长安的荔枝 易烊千玺",
+      "onboard_time": 1749982880,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 209777,
@@ -817,6 +881,14 @@
       "onboard_time": 1749961941,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207353,
+      "num": 207353,
+      "word": "方力申官宣当爸",
+      "onboard_time": 1749981260,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 207118,
@@ -995,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186555,
+      "num": 186555,
+      "word": "临江仙",
+      "onboard_time": 1749946338,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184340,
       "num": 184340,
       "word": "疑似顾廷烨给石头买的学历",
@@ -1025,6 +1105,14 @@
       "onboard_time": 1749959600,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178089,
+      "num": 178089,
+      "word": "王一博的系统是不是给他发布了任务",
+      "onboard_time": 1749980721,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 177692,
@@ -1145,6 +1233,22 @@
       "onboard_time": 1749966980,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 167245,
+      "num": 167245,
+      "word": "王祖蓝不让女儿看这期五哈",
+      "onboard_time": 1749980840,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166220,
+      "num": 320959,
+      "word": "美国悄悄向以色列运送狱火导弹",
+      "onboard_time": 1749981860,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162911,
@@ -1291,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150458,
+      "num": 150458,
+      "word": "单身不是最爽的",
+      "onboard_time": 1749980961,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150385,
       "num": 150385,
       "word": "是不是后悔没有早点和我说话",
@@ -1305,6 +1417,14 @@
       "onboard_time": 1749975320,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148802,
+      "num": 148802,
+      "word": "MSI",
+      "onboard_time": 1749982040,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 148568,
@@ -1603,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127467,
+      "num": 127467,
+      "word": "爸爸的爱是岁岁年年",
+      "onboard_time": 1749981381,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127423,
       "num": 127423,
       "word": "体验一下28元两颗的敲馄饨",
@@ -1683,6 +1811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123843,
+      "num": 123843,
+      "word": "邓典果回应",
+      "onboard_time": 1749980600,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123687,
       "num": 266888,
       "word": "17岁男孩患白血病同学组织义卖",
@@ -1691,12 +1827,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 123436,
+      "num": 123436,
+      "word": "歼35A将亮相巴黎航展",
+      "onboard_time": 1749983180,
+      "rank": 45,
+      "category": "军事"
+    },
+    {
       "raw_hot": 123378,
       "num": 123378,
       "word": "时空中的绘旅人",
       "onboard_time": 1749965240,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123146,
+      "num": 123146,
+      "word": "九尾西施太牛了",
+      "onboard_time": 1749982342,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 123138,
@@ -1723,20 +1875,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122046,
-      "num": 295560,
-      "word": "苏超徐州vs镇江",
-      "onboard_time": 1749972500,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121703,
       "num": 121370,
       "word": "前妻偷偷生了我的孩子",
       "onboard_time": 1749897021,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121408,
+      "num": 121408,
+      "word": "歼10CE真的要去巴黎航展了",
+      "onboard_time": 1749980961,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 120979,
@@ -1793,6 +1945,22 @@
       "onboard_time": 1749914242,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118061,
+      "num": 118061,
+      "word": "突然在25岁之后开始长脑子了",
+      "onboard_time": 1749981800,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 117747,
+      "num": 117747,
+      "word": "周杰伦刘畊宏跳竹竿舞",
+      "onboard_time": 1749983000,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 116977,
@@ -2179,14 +2347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 85015,
-      "num": 85015,
-      "word": "临江仙",
-      "onboard_time": 1749946338,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84312,
       "num": 90467,
       "word": "世俱杯",
@@ -2283,12 +2443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68665,
+      "num": 329633,
+      "word": "伊朗举行首场记者会",
+      "onboard_time": 1749982342,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67405,
       "num": 154883,
       "word": "总台女记者从伊朗首都发回报道",
       "onboard_time": 1749919160,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65890,
+      "num": 318796,
+      "word": "董力父亲节晒陪儿子练击剑",
+      "onboard_time": 1749982941,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 65249,
@@ -2419,6 +2595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 46814,
+      "num": 317901,
+      "word": "贵马鸿星尔克傩戏文化传播出圈",
+      "onboard_time": 1749979641,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46552,
       "num": 213478,
       "word": "台风蝴蝶过境云浮多地遭遇水浸",
@@ -2465,14 +2649,6 @@
       "onboard_time": 1749943096,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40055,
-      "num": 121048,
-      "word": "贵马鸿星尔克傩戏文化传播出圈",
-      "onboard_time": 1749979641,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38837,
@@ -2561,6 +2737,14 @@
       "onboard_time": 1749915083,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28235,
+      "num": 311673,
+      "word": "上身脂肪太多会对人造成什么困扰",
+      "onboard_time": 1749981741,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 28071,
@@ -2691,6 +2875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19899,
+      "num": 312955,
+      "word": "中国文学里为什么少有好爸爸形象",
+      "onboard_time": 1749982761,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19607,
       "num": 124448,
       "word": "勒芒24小时耐力赛",
@@ -2721,6 +2913,14 @@
       "onboard_time": 1749932054,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 17307,
+      "num": 314197,
+      "word": "当代年轻人活力翻倍图鉴",
+      "onboard_time": 1749982101,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 17116,
@@ -2800,6 +3000,9 @@
     },
     {
       "word": "#习近平谈父亲的言传身教#"
+    },
+    {
+      "word": "#第二届中国—中亚峰会#"
     }
   ]
 }
