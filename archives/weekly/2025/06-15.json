@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749969291254,
+  "endTime": 1749970093624,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 788389,
-      "num": 286503,
+      "num": 330315,
       "word": "曝刘诗诗杨幂双C",
       "onboard_time": 1749963260,
       "rank": 11,
@@ -147,20 +147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 632789,
+      "num": 632789,
+      "word": "下辈子第一志愿严莉莉",
+      "onboard_time": 1749963679,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 622345,
       "num": 532414,
       "word": "马嘉祺丁程鑫差点亲上了",
       "onboard_time": 1749956900,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 613957,
-      "num": 613957,
-      "word": "下辈子第一志愿严莉莉",
-      "onboard_time": 1749963679,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 611633,
@@ -203,6 +203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 484879,
+      "num": 484879,
+      "word": "兰香如故换角",
+      "onboard_time": 1749966381,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 477668,
       "num": 269494,
       "word": "严浩翔祝贺峻霖21岁生日快乐",
@@ -217,14 +225,6 @@
       "onboard_time": 1749946039,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 452060,
-      "num": 452060,
-      "word": "兰香如故换角",
-      "onboard_time": 1749966381,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 441468,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 415992,
-      "num": 280572,
+      "num": 282598,
       "word": "老人去世后干女儿与配偶侄子争房产",
       "onboard_time": 1749962001,
       "rank": 22,
@@ -275,12 +275,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 376609,
-      "num": 376609,
+      "raw_hot": 396151,
+      "num": 396151,
       "word": "以色列地面出现巨大弹坑",
       "onboard_time": 1749965000,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 380569,
+      "num": 380569,
+      "word": "肖战藏海传重新认识古装剧",
+      "onboard_time": 1749964640,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 374832,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 331303,
-      "num": 331303,
+      "num": 366556,
       "word": "谢震业父亲节官宣当爸爸",
       "onboard_time": 1749963199,
       "rank": 6,
@@ -339,20 +347,20 @@
       "category": "时尚,艺人"
     },
     {
-      "raw_hot": 328698,
-      "num": 328698,
-      "word": "肖战藏海传重新认识古装剧",
-      "onboard_time": 1749964640,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 324414,
       "num": 392103,
       "word": "婚宴252桌花50万嫌贵拒付款后续",
       "onboard_time": 1749911063,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315461,
+      "num": 315461,
+      "word": "打电话是一个侵入性特别强的动作",
+      "onboard_time": 1749965600,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 301202,
@@ -427,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 279200,
+      "num": 279200,
+      "word": "伊朗打击以色列中部6死200多伤",
+      "onboard_time": 1749966559,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 278679,
       "num": 278679,
       "word": "王祖蓝兄妹与天上父亲对话",
@@ -463,14 +479,6 @@
       "num": 254008,
       "word": "伊朗称将袭击以战斗机燃料生产设施",
       "onboard_time": 1749946939,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 251935,
-      "num": 251935,
-      "word": "伊朗打击以色列中部6死200多伤",
-      "onboard_time": 1749966559,
       "rank": 16,
       "category": "国际时政"
     },
@@ -563,14 +571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 207626,
-      "num": 207626,
-      "word": "打电话是一个侵入性特别强的动作",
-      "onboard_time": 1749965600,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207118,
       "num": 207118,
       "word": "李晟李佳航好六预告",
@@ -595,12 +595,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201852,
+      "num": 351751,
+      "word": "4类人尽量不吃或少吃荔枝",
+      "onboard_time": 1749969560,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 201748,
       "num": 201748,
       "word": "00后的第一个父亲节礼物是被爆改",
       "onboard_time": 1749959660,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201012,
+      "num": 279505,
+      "word": "曾舜晞在吻了在吻了",
+      "onboard_time": 1749969619,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200752,
+      "num": 200752,
+      "word": "陈梦还想再战奥运会",
+      "onboard_time": 1749968542,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198450,
+      "num": 207227,
+      "word": "宋亚轩贺峻霖死党拍照模板",
+      "onboard_time": 1749969440,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 197632,
@@ -643,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195375,
+      "num": 166253,
+      "word": "这父亲节过的像是人情世故",
+      "onboard_time": 1749968899,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193916,
       "num": 193916,
       "word": "梅西倒地",
@@ -665,6 +705,14 @@
       "onboard_time": 1749961040,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189674,
+      "num": 273308,
+      "word": "学校围墙倒塌祖孙被砸身亡孕妇受伤",
+      "onboard_time": 1749966860,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188011,
@@ -713,6 +761,14 @@
       "onboard_time": 1749959600,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177502,
+      "num": 166202,
+      "word": "郑钦文说被鞋子问题影响注意力",
+      "onboard_time": 1749968542,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 177272,
@@ -883,6 +939,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153375,
+      "num": 153375,
+      "word": "当90后开始过父亲节",
+      "onboard_time": 1749969619,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151696,
+      "num": 170410,
+      "word": "李嘉格婚后第一次被妈妈认可",
+      "onboard_time": 1749968180,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151455,
       "num": 247834,
       "word": "陶喆新说唱时候",
@@ -896,14 +968,6 @@
       "word": "是不是后悔没有早点和我说话",
       "onboard_time": 1749954140,
       "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 148951,
-      "num": 148951,
-      "word": "这父亲节过的像是人情世故",
-      "onboard_time": 1749968899,
-      "rank": 33,
       "category": "情感"
     },
     {
@@ -923,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145399,
-      "num": 170410,
-      "word": "李嘉格婚后第一次被妈妈认可",
-      "onboard_time": 1749968180,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143877,
       "num": 143877,
       "word": "陷入我们的热恋",
@@ -947,12 +1003,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 142996,
-      "num": 142996,
-      "word": "陈梦还想再战奥运会",
-      "onboard_time": 1749968542,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 142686,
+      "num": 142686,
+      "word": "黎深第五肋间",
+      "onboard_time": 1749969860,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 141365,
@@ -1107,14 +1163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129374,
-      "num": 238307,
-      "word": "学校围墙倒塌祖孙被砸身亡孕妇受伤",
-      "onboard_time": 1749966860,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127423,
       "num": 127423,
       "word": "体验一下28元两颗的敲馄饨",
@@ -1147,6 +1195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125070,
+      "num": 125070,
+      "word": "马丽看沈腾耍赖的反应",
+      "onboard_time": 1749969380,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124461,
       "num": 124461,
       "word": "严浩翔微笑拒绝法则",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1749916342,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121969,
+      "num": 121969,
+      "word": "侧躺玩手机变丑是最轻的惩罚",
+      "onboard_time": 1749968120,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121703,
@@ -1299,6 +1363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 112465,
+      "num": 285929,
+      "word": "民企投入2000万接手14万吨废石",
+      "onboard_time": 1749966680,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 112289,
       "num": 101222,
       "word": "只有存过钱的才知道她有多真诚",
@@ -1329,14 +1401,6 @@
       "onboard_time": 1749913823,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109735,
-      "num": 109735,
-      "word": "郑钦文说被鞋子问题影响注意力",
-      "onboard_time": 1749968542,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 109225,
@@ -1377,14 +1441,6 @@
       "onboard_time": 1749942977,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 104307,
-      "num": 104307,
-      "word": "民企投入2000万接手14万吨废石",
-      "onboard_time": 1749966680,
-      "rank": 47,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 103552,
@@ -1465,6 +1521,14 @@
       "onboard_time": 1749966021,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95964,
+      "num": 272610,
+      "word": "为救子盗窃入狱父亲发声",
+      "onboard_time": 1749968240,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94950,
@@ -1779,14 +1843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40728,
-      "num": 271510,
-      "word": "为救子盗窃入狱父亲发声",
-      "onboard_time": 1749968240,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38837,
       "num": 199011,
       "word": "美佛州一警长向抗议者发出死亡威胁",
@@ -1857,6 +1913,14 @@
       "onboard_time": 1749925936,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27379,
+      "num": 117483,
+      "word": "你越是你自己你就越有魅力",
+      "onboard_time": 1749968840,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 26442,
@@ -1971,14 +2035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16819,
-      "num": 117483,
-      "word": "你越是你自己你就越有魅力",
-      "onboard_time": 1749968840,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 15136,
       "num": 22628,
       "word": "独自养大儿女的姚师傅要当爷爷了",
@@ -1993,6 +2049,14 @@
       "onboard_time": 1749929294,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13278,
+      "num": 275369,
+      "word": "为何骨质疏松盯上了年轻人",
+      "onboard_time": 1749969619,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12024,

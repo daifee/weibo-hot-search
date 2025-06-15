@@ -1,0 +1,410 @@
+{
+  "runTime": 1749970093624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1564607,
+        "num": 1564607,
+        "word": "荔枝 低血糖",
+        "onboard_time": 1749960080,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 715302,
+        "num": 715302,
+        "word": "张朝阳退回的labubu换了一辆车",
+        "onboard_time": 1749959180,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52699,
+        "num": 672181,
+        "word": "在中亚感受中国热",
+        "onboard_time": 1749959961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 632789,
+        "num": 632789,
+        "word": "下辈子第一志愿严莉莉",
+        "onboard_time": 1749963679,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484879,
+        "num": 484879,
+        "word": "兰香如故换角",
+        "onboard_time": 1749966381,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374218,
+        "num": 397459,
+        "word": "父亲节",
+        "onboard_time": 1749944538,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396151,
+        "num": 396151,
+        "word": "以色列地面出现巨大弹坑",
+        "onboard_time": 1749965000,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 380569,
+        "num": 380569,
+        "word": "肖战藏海传重新认识古装剧",
+        "onboard_time": 1749964640,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272275,
+        "num": 366556,
+        "word": "谢震业父亲节官宣当爸爸",
+        "onboard_time": 1749963199,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201852,
+        "num": 351751,
+        "word": "4类人尽量不吃或少吃荔枝",
+        "onboard_time": 1749969560,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 619714,
+        "num": 336051,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 10,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 588192,
+        "num": 330315,
+        "word": "曝刘诗诗杨幂双C",
+        "onboard_time": 1749963260,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315461,
+        "num": 315461,
+        "word": "打电话是一个侵入性特别强的动作",
+        "onboard_time": 1749965600,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290093,
+        "num": 290093,
+        "word": "曾毅回应不雅手表争议网友并不买账",
+        "onboard_time": 1749953479,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112465,
+        "num": 285929,
+        "word": "民企投入2000万接手14万吨废石",
+        "onboard_time": 1749966680,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 282598,
+        "num": 282598,
+        "word": "老人去世后干女儿与配偶侄子争房产",
+        "onboard_time": 1749962001,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201012,
+        "num": 279505,
+        "word": "曾舜晞在吻了在吻了",
+        "onboard_time": 1749969619,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279200,
+        "num": 279200,
+        "word": "伊朗打击以色列中部6死200多伤",
+        "onboard_time": 1749966559,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13278,
+        "num": 275369,
+        "word": "为何骨质疏松盯上了年轻人",
+        "onboard_time": 1749969619,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189674,
+        "num": 273308,
+        "word": "学校围墙倒塌祖孙被砸身亡孕妇受伤",
+        "onboard_time": 1749966860,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95964,
+        "num": 272610,
+        "word": "为救子盗窃入狱父亲发声",
+        "onboard_time": 1749968240,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272497,
+        "num": 272497,
+        "word": "泡泡玛特 老虎机",
+        "onboard_time": 1749963500,
+        "rank": 21,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 222097,
+        "num": 222097,
+        "word": "台湾名嘴说昆山厕所没有门",
+        "onboard_time": 1749958760,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216287,
+        "num": 216287,
+        "word": "严浩翔祝贺峻霖21岁生日快乐",
+        "onboard_time": 1749963441,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198450,
+        "num": 207227,
+        "word": "宋亚轩贺峻霖死党拍照模板",
+        "onboard_time": 1749969440,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200752,
+        "num": 200752,
+        "word": "陈梦还想再战奥运会",
+        "onboard_time": 1749968542,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200350,
+        "num": 200350,
+        "word": "陈梦坦言不想退役",
+        "onboard_time": 1749966440,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172336,
+        "num": 172336,
+        "word": "浙音第一质疑网红歌手",
+        "onboard_time": 1749959541,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168189,
+        "num": 168189,
+        "word": "程潇攒练习生时小票十倍还给妈妈",
+        "onboard_time": 1749967162,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154357,
+        "num": 166291,
+        "word": "张远披荆斩棘上班反差感",
+        "onboard_time": 1749968719,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195375,
+        "num": 166253,
+        "word": "这父亲节过的像是人情世故",
+        "onboard_time": 1749968899,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177502,
+        "num": 166202,
+        "word": "郑钦文说被鞋子问题影响注意力",
+        "onboard_time": 1749968542,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165745,
+        "num": 165745,
+        "word": "马嘉祺丁程鑫差点亲上了",
+        "onboard_time": 1749956900,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156759,
+        "num": 156759,
+        "word": "伊朗导弹击中以色列能源设施",
+        "onboard_time": 1749951019,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153375,
+        "num": 153375,
+        "word": "当90后开始过父亲节",
+        "onboard_time": 1749969619,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151696,
+        "num": 151696,
+        "word": "李嘉格婚后第一次被妈妈认可",
+        "onboard_time": 1749968180,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146824,
+        "num": 146824,
+        "word": "能养出毛利兰的人能差到哪去",
+        "onboard_time": 1749966980,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 142686,
+        "num": 142686,
+        "word": "黎深第五肋间",
+        "onboard_time": 1749969860,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130881,
+        "num": 130881,
+        "word": "原来它们不叫labubu",
+        "onboard_time": 1749946639,
+        "rank": 38,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 125070,
+        "num": 125070,
+        "word": "马丽看沈腾耍赖的反应",
+        "onboard_time": 1749969380,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124093,
+        "num": 124093,
+        "word": "清华高颜值女孩父亲回应女儿直播",
+        "onboard_time": 1749954140,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121969,
+        "num": 121969,
+        "word": "侧躺玩手机变丑是最轻的惩罚",
+        "onboard_time": 1749968120,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116095,
+        "num": 116095,
+        "word": "耳帝让缺乏声音性格的歌手学习郝蕾",
+        "onboard_time": 1749967519,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113963,
+        "num": 113963,
+        "word": "伊朗称将袭击以战斗机燃料生产设施",
+        "onboard_time": 1749946939,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108844,
+        "num": 108844,
+        "word": "伊朗深夜近200枚导弹飞向以色列画面",
+        "onboard_time": 1749965780,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27379,
+        "num": 107917,
+        "word": "你越是你自己你就越有魅力",
+        "onboard_time": 1749968840,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107739,
+        "num": 107739,
+        "word": "金昀去世",
+        "onboard_time": 1749946820,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102157,
+        "num": 102157,
+        "word": "男子鸣笛引路人不满强行驶离致1死4伤",
+        "onboard_time": 1749947839,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 98667,
+        "num": 98667,
+        "word": "王祖蓝兄妹与天上父亲对话",
+        "onboard_time": 1749960799,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96990,
+        "num": 96990,
+        "word": "武商集团员工卖卡诈骗11亿被判无期",
+        "onboard_time": 1749968840,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#赤子情深#"
+    }
+  }
+}
