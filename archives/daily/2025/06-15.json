@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749965084854,
+  "endTime": 1749966233965,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 788389,
-      "num": 238574,
+      "num": 277433,
       "word": "曝刘诗诗杨幂双C",
       "onboard_time": 1749963260,
       "rank": 11,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 477668,
-      "num": 228899,
+      "num": 269494,
       "word": "严浩翔祝贺峻霖21岁生日快乐",
       "onboard_time": 1749963441,
       "rank": 13,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415992,
+      "num": 274219,
+      "word": "老人去世后干女儿与配偶侄子争房产",
+      "onboard_time": 1749962001,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415278,
       "num": 510427,
       "word": "伊朗大规模反击打疼以色列了吗",
@@ -267,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366772,
-      "num": 250190,
-      "word": "老人去世后干女儿与配偶侄子争房产",
-      "onboard_time": 1749962001,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365583,
       "num": 339451,
       "word": "郑钦文将创个人最佳排名",
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 364193,
-      "num": 213955,
+      "num": 273689,
       "word": "泡泡玛特 老虎机",
       "onboard_time": 1749963500,
       "rank": 21,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 286608,
-      "num": 194803,
+      "num": 269356,
       "word": "林依轮夫妻泳池背后抱",
       "onboard_time": 1749963142,
       "rank": 30,
@@ -393,6 +393,22 @@
       "onboard_time": 1749909802,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 278679,
+      "num": 278679,
+      "word": "王祖蓝兄妹与天上父亲对话",
+      "onboard_time": 1749960799,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 277769,
+      "num": 277769,
+      "word": "肖战藏海传重新认识古装剧",
+      "onboard_time": 1749964640,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 273073,
@@ -427,20 +443,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 251827,
+      "num": 251827,
+      "word": "下辈子第一志愿严莉莉",
+      "onboard_time": 1749963679,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248378,
       "num": 248378,
       "word": "以国家安全总局局长辞职",
       "onboard_time": 1749948320,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 247739,
-      "num": 247739,
-      "word": "肖战藏海传重新认识古装剧",
-      "onboard_time": 1749964640,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 241009,
@@ -475,16 +491,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224193,
-      "num": 224193,
-      "word": "王祖蓝兄妹与天上父亲对话",
-      "onboard_time": 1749960799,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 222605,
-      "num": 222605,
+      "num": 272161,
       "word": "smart米奇限定艺术车亮相魔都",
       "onboard_time": 1749964400,
       "rank": 17,
@@ -553,6 +561,14 @@
       "onboard_time": 1749959660,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197632,
+      "num": 250522,
+      "word": "惠英红曾志伟 血观音大战无间道",
+      "onboard_time": 1749965060,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 197525,
@@ -659,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177442,
+      "num": 177442,
+      "word": "打电话是一个侵入性特别强的动作",
+      "onboard_time": 1749965600,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177272,
       "num": 184631,
       "word": "战至巅峰给贺峻霖发来生日贺电",
@@ -731,14 +755,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 164746,
-      "num": 208541,
-      "word": "下辈子第一志愿严莉莉",
-      "onboard_time": 1749963679,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162911,
       "num": 162911,
       "word": "光与夜之恋",
@@ -801,6 +817,14 @@
       "onboard_time": 1749920119,
       "rank": 28,
       "category": "情感,读书作家"
+    },
+    {
+      "raw_hot": 154895,
+      "num": 270373,
+      "word": "以色列地面出现巨大弹坑",
+      "onboard_time": 1749965000,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153921,
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 137501,
-      "num": 137501,
+      "num": 175913,
       "word": "汪苏泷给双胞胎姐妹唱生日歌",
       "onboard_time": 1749962661,
       "rank": 33,
@@ -987,6 +1011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 127423,
+      "num": 127423,
+      "word": "体验一下28元两颗的敲馄饨",
+      "onboard_time": 1749965120,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 127327,
       "num": 127327,
       "word": "Capper这段只有真朋友才懂",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1749917902,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126226,
-      "num": 126226,
-      "word": "惠英红曾志伟 血观音大战无间道",
-      "onboard_time": 1749965060,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 125114,
@@ -1033,6 +1057,14 @@
       "onboard_time": 1749961821,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 123378,
+      "num": 123378,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1749965240,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 122092,
@@ -1083,12 +1115,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118965,
+      "num": 118965,
+      "word": "伊朗深夜近200枚导弹飞向以色列画面",
+      "onboard_time": 1749965780,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118296,
       "num": 118296,
       "word": "Knight希望画个好一点的句号",
       "onboard_time": 1749914242,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116977,
+      "num": 241986,
+      "word": "魏哲鸣快在泼水环节溺水了",
+      "onboard_time": 1749965840,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116583,
+      "num": 275557,
+      "word": "男子身穿外卖服顺走店家3份螺蛳粉",
+      "onboard_time": 1749964519,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115407,
@@ -1161,6 +1217,14 @@
       "onboard_time": 1749945377,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109027,
+      "num": 241814,
+      "word": "严浩翔一个撇嘴终结阿尔曼",
+      "onboard_time": 1749964882,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 107943,
@@ -1243,12 +1307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95093,
-      "num": 191824,
-      "word": "以色列地面出现巨大弹坑",
-      "onboard_time": 1749965000,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 97242,
+      "num": 123625,
+      "word": "西瓜椰椰",
+      "onboard_time": 1749966021,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 94950,
@@ -1297,6 +1361,14 @@
       "onboard_time": 1749946338,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90260,
+      "num": 278121,
+      "word": "伊以局势会进一步失控吗",
+      "onboard_time": 1749964819,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88923,
@@ -1355,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78768,
+      "num": 102476,
+      "word": "孙杨主队选择是皇马",
+      "onboard_time": 1749962780,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76315,
       "num": 76315,
       "word": "桃黑黑直播",
@@ -1380,7 +1460,7 @@
     },
     {
       "raw_hot": 69969,
-      "num": 219662,
+      "num": 272072,
       "word": "马拉松冠军的训练是给女儿买牛奶",
       "onboard_time": 1749964460,
       "rank": 19,
@@ -1491,14 +1571,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 50814,
-      "num": 222709,
-      "word": "男子身穿外卖服顺走店家3份螺蛳粉",
-      "onboard_time": 1749964519,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50429,
       "num": 50429,
       "word": "战至巅峰",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1749943096,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 46552,
+      "num": 213478,
+      "word": "台风蝴蝶过境云浮多地遭遇水浸",
+      "onboard_time": 1749965060,
+      "rank": 36,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 43541,
@@ -1563,14 +1643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36304,
-      "num": 201601,
-      "word": "伊以局势会进一步失控吗",
-      "onboard_time": 1749964819,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 35154,
       "num": 121616,
       "word": "凯斯无缘女王杯决赛",
@@ -1585,14 +1657,6 @@
       "onboard_time": 1749959541,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 32152,
-      "num": 144049,
-      "word": "台风蝴蝶过境云浮多地遭遇水浸",
-      "onboard_time": 1749965060,
-      "rank": 36,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 30802,
