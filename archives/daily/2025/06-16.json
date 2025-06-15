@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750023498212,
+  "endTime": 1750026257244,
   "band_list": [
     {
       "raw_hot": 764911,
@@ -123,6 +123,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 238352,
+      "num": 393153,
+      "word": "美国多地爆发大规模抗议游行",
+      "onboard_time": 1750017555,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236258,
       "num": 236258,
       "word": "于正回应临江仙破万",
@@ -187,6 +195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 173019,
+      "num": 173019,
+      "word": "以色列国家安全观已发生转变",
+      "onboard_time": 1750011435,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166113,
       "num": 166113,
       "word": "央视记者距以军袭击目标不到300米",
@@ -209,6 +225,14 @@
       "onboard_time": 1749989120,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 154486,
+      "num": 113336,
+      "word": "难怪我一上高铁就睡觉",
+      "onboard_time": 1750019053,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 152010,
@@ -251,14 +275,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 130878,
-      "num": 130878,
-      "word": "以色列国家安全观已发生转变",
-      "onboard_time": 1750011435,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 128816,
       "num": 128816,
       "word": "汪苏泷演唱会穿了一身贝壳",
@@ -275,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123165,
+      "num": 123165,
+      "word": "那尔那茜走红之路多个疑点待彻查",
+      "onboard_time": 1750014854,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109552,
       "num": 109552,
       "word": "邓紫棋嘴上恨你心里想你",
@@ -289,14 +313,6 @@
       "onboard_time": 1749989781,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105128,
-      "num": 180171,
-      "word": "美国多地爆发大规模抗议游行",
-      "onboard_time": 1750017555,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104134,
@@ -411,14 +427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73247,
-      "num": 25757,
-      "word": "难怪我一上高铁就睡觉",
-      "onboard_time": 1750019053,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 72932,
       "num": 72932,
       "word": "佘诗曼抢到了炸虾labubu",
@@ -449,14 +457,6 @@
       "onboard_time": 1750005198,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62672,
-      "num": 62672,
-      "word": "那尔那茜走红之路多个疑点待彻查",
-      "onboard_time": 1750014854,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 54111,
@@ -515,8 +515,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31274,
-      "num": 31274,
+      "raw_hot": 34520,
+      "num": 54094,
+      "word": "肖战超绝哭戏令人共情",
+      "onboard_time": 1750022714,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32452,
+      "num": 32452,
       "word": "一万多网购泡泡玛特卖家不发货拒退款",
       "onboard_time": 1749995004,
       "rank": 36,
@@ -537,6 +545,14 @@
       "onboard_time": 1750012155,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25601,
+      "num": 118510,
+      "word": "直击美国多地抗议活动",
+      "onboard_time": 1750018874,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24656,
@@ -563,6 +579,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23429,
+      "num": 23429,
+      "word": "伊朗警方称逮捕两名摩萨德特工",
+      "onboard_time": 1750013654,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23247,
+      "num": 36728,
+      "word": "直击美国纽约爆发大规模示威游行",
+      "onboard_time": 1750018754,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22959,
       "num": 22959,
       "word": "张杰电影之夜vlog",
@@ -571,12 +603,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21742,
-      "num": 21742,
-      "word": "伊朗警方称逮捕两名摩萨德特工",
-      "onboard_time": 1750013654,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 21537,
+      "num": 23060,
+      "word": "扎克伯格150亿美元投资数据标注公司",
+      "onboard_time": 1750018033,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 20596,
@@ -585,14 +617,6 @@
       "onboard_time": 1750007478,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20132,
-      "num": 36728,
-      "word": "直击美国纽约爆发大规模示威游行",
-      "onboard_time": 1750018754,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19025,
@@ -611,22 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17496,
-      "num": 17496,
-      "word": "扎克伯格150亿美元投资数据标注公司",
-      "onboard_time": 1750018033,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 17221,
-      "num": 17221,
-      "word": "肖战超绝哭戏令人共情",
-      "onboard_time": 1750022714,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14136,
       "num": 28356,
       "word": "灵山大佛有球必应",
@@ -643,7 +651,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9413,
+      "raw_hot": 10509,
       "num": 310023,
       "word": "我国对中亚五国进出口跑出加速度",
       "onboard_time": 1749994402,
