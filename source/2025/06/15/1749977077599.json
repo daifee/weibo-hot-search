@@ -1,0 +1,410 @@
+{
+  "runTime": 1749977077599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 986099,
+        "num": 1157775,
+        "word": "荔枝 低血糖",
+        "onboard_time": 1749960080,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 656180,
+        "num": 656180,
+        "word": "打电话是一个侵入性特别强的动作",
+        "onboard_time": 1749965600,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31370,
+        "num": 564878,
+        "word": "神二十太空出差vlog上新了",
+        "onboard_time": 1749975561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1710543,
+        "num": 562363,
+        "word": "短剧1胎99子",
+        "onboard_time": 1749974001,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550752,
+        "num": 550752,
+        "word": "虞书欣说选大爆剧的主角",
+        "onboard_time": 1749972200,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302936,
+        "num": 541625,
+        "word": "6岁女孩吃十几颗荔枝后嗜睡冒冷汗",
+        "onboard_time": 1749974480,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537158,
+        "num": 537158,
+        "word": "4类人尽量不吃或少吃荔枝",
+        "onboard_time": 1749969560,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 523208,
+        "num": 523208,
+        "word": "以色列国防军总部遭袭",
+        "onboard_time": 1749973521,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 487187,
+        "num": 487187,
+        "word": "瘦了36斤后才敢说的实话总结",
+        "onboard_time": 1749973041,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 251883,
+        "num": 427294,
+        "word": "张继科杯全民乒乓球争霸赛来了",
+        "onboard_time": 1749975502,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377281,
+        "num": 377281,
+        "word": "这父亲节过的像是人情世故",
+        "onboard_time": 1749968899,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351934,
+        "num": 351934,
+        "word": "肖战藏海传重新认识古装剧",
+        "onboard_time": 1749964640,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350988,
+        "num": 350988,
+        "word": "抖音回应涉扁担女孩账号处置过程",
+        "onboard_time": 1749974600,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 345035,
+        "num": 345035,
+        "word": "张小婉这条微博并不是很想发",
+        "onboard_time": 1749972620,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221052,
+        "num": 327395,
+        "word": "马龙父亲节收到礼物了",
+        "onboard_time": 1749972321,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320548,
+        "num": 320548,
+        "word": "HLE对战T1",
+        "onboard_time": 1749972680,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119683,
+        "num": 279741,
+        "word": "曾舜晞这是喜从天降吧",
+        "onboard_time": 1749975439,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274273,
+        "num": 274273,
+        "word": "labubu老祖",
+        "onboard_time": 1749970340,
+        "rank": 17,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 48591,
+        "num": 270481,
+        "word": "生活不易老板卖艺",
+        "onboard_time": 1749976160,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37117,
+        "num": 270405,
+        "word": "为什么高薪专业几乎被工科包揽",
+        "onboard_time": 1749976340,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270376,
+        "num": 270376,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 20,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 260526,
+        "num": 260526,
+        "word": "新说唱向严浩翔粉丝道歉",
+        "onboard_time": 1749974360,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259476,
+        "num": 259476,
+        "word": "那尔那茜",
+        "onboard_time": 1749975800,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206607,
+        "num": 257903,
+        "word": "曾舜晞在吻了在吻了",
+        "onboard_time": 1749969619,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69966,
+        "num": 257217,
+        "word": "网红馆长说回台湾后或遭大肆围剿",
+        "onboard_time": 1749976880,
+        "rank": 24,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 21513,
+        "num": 255009,
+        "word": "以色列伊朗新一轮冲突有四大特点",
+        "onboard_time": 1749976880,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160062,
+        "num": 254547,
+        "word": "嫡长爱豆韩庚杀回来了",
+        "onboard_time": 1749970580,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164230,
+        "num": 252939,
+        "word": "30只Labubu把老爸整破防了",
+        "onboard_time": 1749976819,
+        "rank": 27,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 251364,
+        "num": 251364,
+        "word": "曝刘诗诗杨幂双C",
+        "onboard_time": 1749963260,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138956,
+        "num": 245131,
+        "word": "特朗普被曝从加密货币领域获巨额收益",
+        "onboard_time": 1749976220,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239693,
+        "num": 239693,
+        "word": "印度直升机坠毁7人遇难",
+        "onboard_time": 1749972440,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227300,
+        "num": 227300,
+        "word": "多兰王朝了",
+        "onboard_time": 1749974780,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177307,
+        "num": 224418,
+        "word": "父亲节",
+        "onboard_time": 1749944538,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222610,
+        "num": 222610,
+        "word": "对labubu全球爆火有了实感",
+        "onboard_time": 1749972321,
+        "rank": 33,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 153336,
+        "num": 153336,
+        "word": "花如月的局中局骗中骗",
+        "onboard_time": 1749976282,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219597,
+        "num": 152670,
+        "word": "Vogue85花群封站位",
+        "onboard_time": 1749976100,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147835,
+        "num": 147835,
+        "word": "以军向伊朗核反应堆人员发撤离警告",
+        "onboard_time": 1749973940,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147073,
+        "num": 147073,
+        "word": "严浩翔祝贺峻霖21岁生日快乐",
+        "onboard_time": 1749963441,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144331,
+        "num": 144331,
+        "word": "倒数第一争夺赛",
+        "onboard_time": 1749975320,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98359,
+        "num": 144024,
+        "word": "提车不用等bZ5上市即交车",
+        "onboard_time": 1749974841,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143745,
+        "num": 143745,
+        "word": "龙葵毕业转场",
+        "onboard_time": 1749976399,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112508,
+        "num": 141430,
+        "word": "多方回应金雪峰在圣龙潭潜水去世",
+        "onboard_time": 1749975021,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140083,
+        "num": 140083,
+        "word": "一直对孕激素没概念直到怀孕",
+        "onboard_time": 1749976521,
+        "rank": 42,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 139638,
+        "num": 139638,
+        "word": "Yamy让小白去找谢可寅",
+        "onboard_time": 1749976399,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135513,
+        "num": 135513,
+        "word": "张朝阳退回的labubu换了一辆车",
+        "onboard_time": 1749959180,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131045,
+        "num": 131045,
+        "word": "兰香如故换角",
+        "onboard_time": 1749966381,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127034,
+        "num": 127034,
+        "word": "女子回应交房维权视频被指擦边",
+        "onboard_time": 1749973280,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124223,
+        "num": 124223,
+        "word": "好导师的几大特征",
+        "onboard_time": 1749977000,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120486,
+        "num": 120486,
+        "word": "108万同款labubu掉色后变双拼绝版",
+        "onboard_time": 1749976580,
+        "rank": 48,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 46218,
+        "num": 118338,
+        "word": "在伊华人谈以色列空袭",
+        "onboard_time": 1749975021,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈父亲的言传身教#"
+    }
+  }
+}
