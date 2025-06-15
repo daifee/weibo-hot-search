@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750027363926,
+  "endTime": 1750029824647,
   "band_list": [
     {
       "raw_hot": 764911,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 497101,
+      "num": 508279,
+      "word": "美国多地爆发大规模抗议游行",
+      "onboard_time": 1750017555,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 484474,
       "num": 484474,
       "word": "白鹿不敢想",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 396797,
-      "num": 210968,
+      "num": 260833,
       "word": "陈靖可 孙千",
       "onboard_time": 1749999203,
       "rank": 20,
@@ -83,11 +91,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329090,
-      "num": 508279,
-      "word": "美国多地爆发大规模抗议游行",
-      "onboard_time": 1750017555,
-      "rank": 14,
+      "raw_hot": 324332,
+      "num": 324332,
+      "word": "以色列国家安全观已发生转变",
+      "onboard_time": 1750011435,
+      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -115,12 +123,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 274027,
-      "num": 274027,
+      "raw_hot": 304999,
+      "num": 304999,
       "word": "22岁中国男子泰国豪华酒店坠楼身亡",
       "onboard_time": 1750000763,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289291,
+      "num": 289291,
+      "word": "那尔那茜走红之路多个疑点待彻查",
+      "onboard_time": 1750014854,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 272701,
+      "num": 272701,
+      "word": "难怪我一上高铁就睡觉",
+      "onboard_time": 1750019053,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 259575,
@@ -131,12 +155,12 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 243899,
-      "num": 243899,
-      "word": "以色列国家安全观已发生转变",
-      "onboard_time": 1750011435,
-      "rank": 5,
-      "category": "国际时政"
+      "raw_hot": 251888,
+      "num": 260908,
+      "word": "演员代旭辟谷7天瘦8斤",
+      "onboard_time": 1749994944,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 236258,
@@ -155,12 +179,20 @@
       "category": "民生新闻,体育"
     },
     {
-      "raw_hot": 222075,
-      "num": 222075,
-      "word": "演员代旭辟谷7天瘦8斤",
-      "onboard_time": 1749994944,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 213924,
+      "num": 261564,
+      "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
+      "onboard_time": 1750001001,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207208,
+      "num": 207208,
+      "word": "贵州杀妻灭子案现场血迹成因仍待解",
+      "onboard_time": 1749994280,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202909,
@@ -179,22 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194670,
-      "num": 194670,
-      "word": "贵州杀妻灭子案现场血迹成因仍待解",
-      "onboard_time": 1749994280,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192374,
-      "num": 261564,
-      "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
-      "onboard_time": 1750001001,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188977,
       "num": 188977,
       "word": "泰国与印空难幸存者座位都是11A",
@@ -203,12 +219,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171464,
-      "num": 171464,
-      "word": "难怪我一上高铁就睡觉",
-      "onboard_time": 1750019053,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 172081,
+      "num": 172081,
+      "word": "伊朗再对以色列发动导弹袭击",
+      "onboard_time": 1750000763,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166113,
@@ -217,14 +233,6 @@
       "onboard_time": 1750001121,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 165171,
-      "num": 165171,
-      "word": "那尔那茜走红之路多个疑点待彻查",
-      "onboard_time": 1750014854,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 162100,
@@ -291,14 +299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127597,
-      "num": 127597,
-      "word": "伊朗再对以色列发动导弹袭击",
-      "onboard_time": 1750000763,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 109552,
       "num": 109552,
       "word": "邓紫棋嘴上恨你心里想你",
@@ -363,6 +363,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88625,
+      "num": 88625,
+      "word": "一万多网购泡泡玛特卖家不发货拒退款",
+      "onboard_time": 1749995004,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87513,
+      "num": 87513,
+      "word": "范丞丞25岁生日照",
+      "onboard_time": 1750029378,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87172,
       "num": 87172,
       "word": "石头赶路回应",
@@ -387,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81978,
+      "num": 98515,
+      "word": "邓超连续两天劝大家不要看五哈",
+      "onboard_time": 1750027997,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79871,
       "num": 79871,
       "word": "虞书欣直播",
@@ -408,6 +432,14 @@
       "word": "王楚钦爸爸谈儿子从小的心愿",
       "onboard_time": 1749995902,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77093,
+      "num": 77093,
+      "word": "甲亢哥见到梅西的反应亮了",
+      "onboard_time": 1750028779,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -459,12 +491,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57884,
+      "num": 57884,
+      "word": "鸵鸟马路时速40公里狂奔还对司机笑",
+      "onboard_time": 1750026436,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54111,
       "num": 87750,
       "word": "网球也有削球手",
       "onboard_time": 1750003941,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52226,
+      "num": 52226,
+      "word": "拜仁10比0奥克兰城",
+      "onboard_time": 1750029438,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49896,
+      "num": 49896,
+      "word": "穆勒将在世俱杯迎来拜仁最后一舞",
+      "onboard_time": 1750029797,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49696,
+      "num": 49696,
+      "word": "以色列称和美国完全协调",
+      "onboard_time": 1750029678,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 49256,
+      "num": 67732,
+      "word": "临江仙断更的原因",
+      "onboard_time": 1750029499,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 49162,
@@ -475,6 +547,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49052,
+      "num": 49052,
+      "word": "巴黎圣日耳曼4比0马竞",
+      "onboard_time": 1750029797,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48377,
+      "num": 48377,
+      "word": "为什么边牧弃养率高",
+      "onboard_time": 1750029678,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 46916,
       "num": 46916,
       "word": "苏超",
@@ -483,12 +571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42580,
-      "num": 42580,
-      "word": "一万多网购泡泡玛特卖家不发货拒退款",
-      "onboard_time": 1749995004,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 46237,
+      "num": 46237,
+      "word": "blue王者荣耀首播",
+      "onboard_time": 1750029678,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 44915,
+      "num": 63147,
+      "word": "肖战超绝哭戏令人共情",
+      "onboard_time": 1750022714,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 42380,
@@ -497,14 +593,6 @@
       "onboard_time": 1750006278,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39688,
-      "num": 63147,
-      "word": "肖战超绝哭戏令人共情",
-      "onboard_time": 1750022714,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 39268,
@@ -561,14 +649,6 @@
       "onboard_time": 1750018874,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 27168,
-      "num": 27660,
-      "word": "鸵鸟马路时速40公里狂奔还对司机笑",
-      "onboard_time": 1750026436,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26168,
@@ -643,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15066,
+      "num": 453954,
+      "word": "我国对中亚五国进出口跑出加速度",
+      "onboard_time": 1749994402,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14136,
       "num": 28356,
       "word": "灵山大佛有球必应",
@@ -657,14 +745,6 @@
       "onboard_time": 1750008976,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11594,
-      "num": 310023,
-      "word": "我国对中亚五国进出口跑出加速度",
-      "onboard_time": 1749994402,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9375,

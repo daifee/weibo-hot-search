@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/16 06:42:43
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/16 07:23:44
 </p>
 </blockquote>
 <p>
@@ -5493,6 +5493,12 @@ WTT大满贯取消强制参赛（热度：498839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%97%E8%AE%AE%E6%B8%B8%E8%A1%8C%23" target="weibo">
+美国多地爆发大规模抗议游行（热度：497101）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%87%BA%E5%9C%88%E5%8F%B0%E8%AF%8D%23" target="weibo">
 2025出圈台词（热度：496933）
 </a>
@@ -6005,12 +6011,6 @@ Monki好强（热度：468905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AE%A9%E5%A4%A7%E5%AE%B6%E4%BB%8A%E5%A4%A9%E5%88%AB%E7%9C%8B%E4%BA%94%E5%93%88%23" target="weibo">
 邓超让大家今天别看五哈（热度：463809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%85%A8%E5%B8%82%E8%BF%9B%E5%85%A5%E6%88%98%E6%9C%AF%E8%AD%A6%E6%88%92%E7%8A%B6%E6%80%81%23" target="weibo">
-洛杉矶全市进入战术警戒状态（热度：463615）
 </a>
 </li>
 
