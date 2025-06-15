@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750016199620,
+  "endTime": 1750019237809,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -3739,6 +3739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51614,
+      "num": 51614,
+      "word": "那尔那茜走红之路多个疑点待彻查",
+      "onboard_time": 1750014854,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51354,
       "num": 178147,
       "word": "九尾拿下二连MVP",
@@ -3947,6 +3955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36200,
+      "num": 36200,
+      "word": "美国多地爆发大规模抗议游行",
+      "onboard_time": 1750017555,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35523,
       "num": 74773,
       "word": "王欣瑜晋级柏林站正赛",
@@ -3993,14 +4009,6 @@
       "onboard_time": 1750000222,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32103,
-      "num": 47419,
-      "word": "那尔那茜走红之路多个疑点待彻查",
-      "onboard_time": 1750014854,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 30802,
@@ -4355,6 +4363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16265,
+      "num": 16500,
+      "word": "难怪我一上高铁就睡觉",
+      "onboard_time": 1750019053,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15136,
       "num": 22628,
       "word": "独自养大儿女的姚师傅要当爷爷了",
@@ -4369,6 +4385,14 @@
       "onboard_time": 1749983540,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 14397,
+      "num": 16498,
+      "word": "扎克伯格150亿美元投资数据标注公司",
+      "onboard_time": 1750018033,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 14136,
@@ -4425,6 +4449,14 @@
       "onboard_time": 1749921619,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 10054,
+      "num": 36728,
+      "word": "直击美国纽约爆发大规模示威游行",
+      "onboard_time": 1750018754,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9783,
