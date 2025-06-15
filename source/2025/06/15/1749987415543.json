@@ -1,0 +1,410 @@
+{
+  "runTime": 1749987415543,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1432061,
+        "num": 1432061,
+        "word": "杭州一泡泡玛特开业当天闭店",
+        "onboard_time": 1749983481,
+        "rank": 0,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 1257337,
+        "num": 1257337,
+        "word": "长安的荔枝 易烊千玺",
+        "onboard_time": 1749982880,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29376,
+        "num": 769187,
+        "word": "神二十太空出差vlog上新了",
+        "onboard_time": 1749975561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 762510,
+        "num": 762510,
+        "word": "四川珙县4.8级地震",
+        "onboard_time": 1749984921,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673842,
+        "num": 673842,
+        "word": "30只Labubu把老爸整破防了",
+        "onboard_time": 1749976819,
+        "rank": 4,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 577012,
+        "num": 577012,
+        "word": "Lafufu和Lababa都属于商标侵权",
+        "onboard_time": 1749982221,
+        "rank": 5,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 465577,
+        "num": 465577,
+        "word": "短剧1胎99子",
+        "onboard_time": 1749974001,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418727,
+        "num": 418727,
+        "word": "徐州绝杀镇江",
+        "onboard_time": 1749982342,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388515,
+        "num": 388515,
+        "word": "新说唱导演道歉",
+        "onboard_time": 1749980000,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287966,
+        "num": 287966,
+        "word": "重庆震感",
+        "onboard_time": 1749984921,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1189242,
+        "num": 287329,
+        "word": "郭富城官宣方媛怀三胎",
+        "onboard_time": 1749980540,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333258,
+        "num": 285300,
+        "word": "刘亦菲 宝格丽女王",
+        "onboard_time": 1749979700,
+        "rank": 11,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 282752,
+        "num": 282752,
+        "word": "4类人尽量不吃或少吃荔枝",
+        "onboard_time": 1749969560,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 282325,
+        "num": 282325,
+        "word": "苏超无锡vs常州",
+        "onboard_time": 1749986000,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65635,
+        "num": 280455,
+        "word": "白岩松说Labubu全球爆火不是偶然",
+        "onboard_time": 1749985701,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279291,
+        "num": 279291,
+        "word": "6岁女孩吃十几颗荔枝后嗜睡冒冷汗",
+        "onboard_time": 1749974480,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259674,
+        "num": 259674,
+        "word": "临江仙",
+        "onboard_time": 1749982641,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257988,
+        "num": 257988,
+        "word": "苏超地锅鸡1比0拿下醋坛子",
+        "onboard_time": 1749983840,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254658,
+        "num": 254658,
+        "word": "道崽 女朋友",
+        "onboard_time": 1749977780,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22211,
+        "num": 240208,
+        "word": "小伙打车看病途中上演超强自救",
+        "onboard_time": 1749986300,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236830,
+        "num": 236830,
+        "word": "刘诗诗好美",
+        "onboard_time": 1749983300,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229623,
+        "num": 229623,
+        "word": "周杰伦邀请方文山多出来走走",
+        "onboard_time": 1749985340,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220076,
+        "num": 220076,
+        "word": "打电话是一个侵入性特别强的动作",
+        "onboard_time": 1749965600,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206530,
+        "num": 206530,
+        "word": "单依纯双的时候",
+        "onboard_time": 1749984202,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43830,
+        "num": 200111,
+        "word": "为什么不建议吃隔夜菜",
+        "onboard_time": 1749987080,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199050,
+        "num": 199050,
+        "word": "临江仙23集爆哭",
+        "onboard_time": 1749987021,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185497,
+        "num": 185497,
+        "word": "美国悄悄向以色列运送狱火导弹",
+        "onboard_time": 1749981860,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183434,
+        "num": 183434,
+        "word": "苏超",
+        "onboard_time": 1749981860,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174498,
+        "num": 174498,
+        "word": "刘诗诗中国影视之夜生图",
+        "onboard_time": 1749986481,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174061,
+        "num": 174061,
+        "word": "登陆少年披荆斩棘 上半场第一",
+        "onboard_time": 1749986961,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208459,
+        "num": 173843,
+        "word": "张雪迎酱园弄影评",
+        "onboard_time": 1749986481,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171872,
+        "num": 171872,
+        "word": "我爸网购的含金量还在下降",
+        "onboard_time": 1749984022,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 168184,
+        "num": 168184,
+        "word": "长期使用劣质纸巾有什么危害",
+        "onboard_time": 1749986300,
+        "rank": 32,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 167344,
+        "num": 167344,
+        "word": "新说唱选手dissGAI",
+        "onboard_time": 1749986600,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165229,
+        "num": 165229,
+        "word": "单身不是最爽的",
+        "onboard_time": 1749980961,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157125,
+        "num": 157125,
+        "word": "以色列国防军总部遭袭",
+        "onboard_time": 1749973521,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150434,
+        "num": 150434,
+        "word": "肖战藏海传重新认识古装剧",
+        "onboard_time": 1749964640,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144574,
+        "num": 144574,
+        "word": "尾鱼谈剧版七根心简",
+        "onboard_time": 1749986060,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143663,
+        "num": 143663,
+        "word": "T1战胜HLE",
+        "onboard_time": 1749977300,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106491,
+        "num": 138723,
+        "word": "王楚钦在感恩中成长",
+        "onboard_time": 1749986360,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138197,
+        "num": 138197,
+        "word": "京东沙特起网将启用自营模式",
+        "onboard_time": 1749986961,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138026,
+        "num": 138026,
+        "word": "黄圣依回应结婚对父母先斩后奏",
+        "onboard_time": 1749985160,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134437,
+        "num": 134437,
+        "word": "久酷命苦",
+        "onboard_time": 1749986660,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132606,
+        "num": 132606,
+        "word": "王一博的系统是不是给他发布了任务",
+        "onboard_time": 1749980721,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129710,
+        "num": 129710,
+        "word": "父亲节",
+        "onboard_time": 1749944538,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129663,
+        "num": 129663,
+        "word": "刘诗诗名品身段",
+        "onboard_time": 1749985520,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125563,
+        "num": 125563,
+        "word": "清华高颜值女学霸父亲不同意女儿直播",
+        "onboard_time": 1749987261,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123717,
+        "num": 123717,
+        "word": "王星越你别要了我害怕",
+        "onboard_time": 1749985819,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117147,
+        "num": 117147,
+        "word": "什么单位有2000人都不说话",
+        "onboard_time": 1749987380,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121567,
+        "num": 116996,
+        "word": "魏哲鸣 我年纪大懂得疼人",
+        "onboard_time": 1749981800,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈父亲的言传身教#"
+    }
+  }
+}
