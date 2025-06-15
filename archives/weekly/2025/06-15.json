@@ -1,7 +1,15 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749962183855,
+  "endTime": 1749963095658,
   "band_list": [
+    {
+      "raw_hot": 2007810,
+      "num": 2007810,
+      "word": "荔枝 低血糖",
+      "onboard_time": 1749960080,
+      "rank": 35,
+      "category": "健康医疗"
+    },
     {
       "raw_hot": 1752363,
       "num": 453927,
@@ -17,14 +25,6 @@
       "onboard_time": 1749953479,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1269804,
-      "num": 1269804,
-      "word": "荔枝 低血糖",
-      "onboard_time": 1749960080,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1191131,
@@ -99,8 +99,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 719759,
-      "num": 719759,
+      "raw_hot": 731514,
+      "num": 731514,
       "word": "张朝阳退回的labubu换了一辆车",
       "onboard_time": 1749959180,
       "rank": 22,
@@ -275,6 +275,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 329247,
+      "num": 250190,
+      "word": "老人去世后干女儿与配偶侄子争房产",
+      "onboard_time": 1749962001,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324414,
       "num": 392103,
       "word": "婚宴252桌花50万嫌贵拒付款后续",
@@ -379,14 +387,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 250190,
-      "num": 250190,
-      "word": "老人去世后干女儿与配偶侄子争房产",
-      "onboard_time": 1749962001,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248378,
       "num": 248378,
       "word": "以国家安全总局局长辞职",
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 226727,
-      "num": 226727,
+      "num": 259510,
       "word": "北大副教授闻新宇突发心脏病逝世",
       "onboard_time": 1749957500,
       "rank": 23,
@@ -489,6 +489,14 @@
       "onboard_time": 1749959660,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197525,
+      "num": 197525,
+      "word": "藏海传收官战报全民共创",
+      "onboard_time": 1749962360,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 197501,
@@ -747,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147290,
+      "num": 162775,
+      "word": "王祖蓝兄妹与天上父亲对话",
+      "onboard_time": 1749960799,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143877,
       "num": 143877,
       "word": "陷入我们的热恋",
@@ -779,12 +795,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138548,
+      "num": 137220,
+      "word": "时间之子偏偏你最争气",
+      "onboard_time": 1749962661,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138400,
       "num": 138400,
       "word": "第五人格",
       "onboard_time": 1749961281,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137501,
+      "num": 137501,
+      "word": "汪苏泷给双胞胎姐妹唱生日歌",
+      "onboard_time": 1749962661,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 135826,
@@ -819,6 +851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132757,
+      "num": 237324,
+      "word": "原来西瓜不是最补水的瓜",
+      "onboard_time": 1749955040,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130768,
       "num": 181097,
       "word": "许嵩三度扔伞陪粉丝一起淋雨",
@@ -835,12 +875,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130032,
-      "num": 130032,
-      "word": "王祖蓝兄妹与天上父亲对话",
-      "onboard_time": 1749960799,
-      "rank": 42,
-      "category": "音乐"
+      "raw_hot": 130502,
+      "num": 151279,
+      "word": "易烊千玺酱园弄演技",
+      "onboard_time": 1749962239,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 129695,
@@ -849,14 +889,6 @@
       "onboard_time": 1749952520,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127415,
-      "num": 237324,
-      "word": "原来西瓜不是最补水的瓜",
-      "onboard_time": 1749955040,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 127327,
@@ -947,6 +979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115106,
+      "num": 115106,
+      "word": "谁懂王栎鑫湿身跳舞的杀伤力",
+      "onboard_time": 1749962900,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114471,
       "num": 114471,
       "word": "李文把严浩翔钓成翘嘴",
@@ -1011,6 +1051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106306,
+      "num": 106306,
+      "word": "高考全省第二北漂5年后的生活",
+      "onboard_time": 1749961400,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104786,
       "num": 155406,
       "word": "联合国称不惜一切代价避免伊以失控",
@@ -1057,6 +1105,22 @@
       "onboard_time": 1749952821,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99654,
+      "num": 99654,
+      "word": "猫咪预判主人赖床",
+      "onboard_time": 1749961220,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 98607,
+      "num": 98607,
+      "word": "白总夫人终于肯说实话了",
+      "onboard_time": 1749961701,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 97785,
@@ -1187,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73425,
+      "num": 357483,
+      "word": "宋妍霏给爸爸充京东饭卡",
+      "onboard_time": 1749959541,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67405,
       "num": 154883,
       "word": "总台女记者从伊朗首都发回报道",
@@ -1203,19 +1275,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 65235,
-      "num": 357483,
-      "word": "宋妍霏给爸爸充京东饭卡",
-      "onboard_time": 1749959541,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64767,
       "num": 65607,
       "word": "个体工商户可通过变更登记方式转型为企业",
       "onboard_time": 1749940875,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63307,
+      "num": 746060,
+      "word": "在中亚感受中国热",
+      "onboard_time": 1749959961,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1235,20 +1307,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58559,
+      "num": 266888,
+      "word": "17岁男孩患白血病同学组织义卖",
+      "onboard_time": 1749961821,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 56676,
       "num": 56676,
       "word": "伊军称战争规模未来几天持续扩大",
       "onboard_time": 1749921739,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56125,
-      "num": 728423,
-      "word": "在中亚感受中国热",
-      "onboard_time": 1749959961,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53866,
@@ -1281,6 +1353,14 @@
       "onboard_time": 1749959541,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50979,
+      "num": 129209,
+      "word": "鬼灭之刃烟火大会",
+      "onboard_time": 1749962360,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 50429,
@@ -1331,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38837,
+      "num": 199011,
+      "word": "美佛州一警长向抗议者发出死亡威胁",
+      "onboard_time": 1749961760,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36777,
       "num": 199383,
       "word": "台风过境新郎顶暴雨骑三轮接亲",
@@ -1353,14 +1441,6 @@
       "onboard_time": 1749959541,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 32725,
-      "num": 266888,
-      "word": "17岁男孩患白血病同学组织义卖",
-      "onboard_time": 1749961821,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 30802,
@@ -1449,14 +1529,6 @@
       "onboard_time": 1749932114,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22516,
-      "num": 199011,
-      "word": "美佛州一警长向抗议者发出死亡威胁",
-      "onboard_time": 1749961760,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22361,
@@ -1559,6 +1631,9 @@
     },
     {
       "word": "#习近平心系文化和自然遗产保护#"
+    },
+    {
+      "word": "#赤子情深#"
     }
   ]
 }
