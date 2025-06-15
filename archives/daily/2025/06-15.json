@@ -1,10 +1,10 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749963095658,
+  "endTime": 1749965084854,
   "band_list": [
     {
-      "raw_hot": 2007810,
-      "num": 2007810,
+      "raw_hot": 2164879,
+      "num": 2164879,
       "word": "荔枝 低血糖",
       "onboard_time": 1749960080,
       "rank": 35,
@@ -89,6 +89,14 @@
       "onboard_time": 1749915862,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 788389,
+      "num": 238574,
+      "word": "曝刘诗诗杨幂双C",
+      "onboard_time": 1749963260,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 752940,
@@ -187,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 477668,
+      "num": 228899,
+      "word": "严浩翔祝贺峻霖21岁生日快乐",
+      "onboard_time": 1749963441,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477062,
       "num": 477062,
       "word": "把亡妻婚戒融一起男子回应将当爷爷",
@@ -227,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 404768,
+      "num": 404768,
+      "word": "浙音第一质疑网红歌手",
+      "onboard_time": 1749959541,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374832,
       "num": 346773,
       "word": "祝绪丹背着工作人员开直播",
@@ -243,12 +267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366772,
+      "num": 250190,
+      "word": "老人去世后干女儿与配偶侄子争房产",
+      "onboard_time": 1749962001,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365583,
       "num": 339451,
       "word": "郑钦文将创个人最佳排名",
       "onboard_time": 1749916402,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364193,
+      "num": 213955,
+      "word": "泡泡玛特 老虎机",
+      "onboard_time": 1749963500,
+      "rank": 21,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 343647,
@@ -259,12 +299,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 334487,
-      "num": 283922,
-      "word": "浙音第一质疑网红歌手",
-      "onboard_time": 1749959541,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 331303,
+      "num": 331303,
+      "word": "谢震业父亲节官宣当爸爸",
+      "onboard_time": 1749963199,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 329446,
@@ -273,14 +313,6 @@
       "onboard_time": 1749902483,
       "rank": 8,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 329247,
-      "num": 250190,
-      "word": "老人去世后干女儿与配偶侄子争房产",
-      "onboard_time": 1749962001,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 324414,
@@ -329,6 +361,14 @@
       "onboard_time": 1749957020,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286608,
+      "num": 194803,
+      "word": "林依轮夫妻泳池背后抱",
+      "onboard_time": 1749963142,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 283960,
@@ -395,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247739,
+      "num": 247739,
+      "word": "肖战藏海传重新认识古装剧",
+      "onboard_time": 1749964640,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241009,
       "num": 204205,
       "word": "邓紫棋再唱句号终于释然",
@@ -425,6 +473,22 @@
       "onboard_time": 1749957500,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224193,
+      "num": 224193,
+      "word": "王祖蓝兄妹与天上父亲对话",
+      "onboard_time": 1749960799,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 222605,
+      "num": 222605,
+      "word": "smart米奇限定艺术车亮相魔都",
+      "onboard_time": 1749964400,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 219684,
@@ -547,12 +611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188011,
+      "num": 210313,
+      "word": "沈马文轩一家四口",
+      "onboard_time": 1749964341,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187952,
       "num": 187952,
       "word": "贺峻霖战至巅峰从20岁打到21岁",
       "onboard_time": 1749917961,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184340,
+      "num": 184340,
+      "word": "疑似顾廷烨给石头买的学历",
+      "onboard_time": 1749963560,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 183221,
@@ -649,6 +729,14 @@
       "onboard_time": 1749892832,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164746,
+      "num": 208541,
+      "word": "下辈子第一志愿严莉莉",
+      "onboard_time": 1749963679,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 162911,
@@ -755,20 +843,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147290,
-      "num": 162775,
-      "word": "王祖蓝兄妹与天上父亲对话",
-      "onboard_time": 1749960799,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 143877,
       "num": 143877,
       "word": "陷入我们的热恋",
       "onboard_time": 1749914841,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143679,
+      "num": 237324,
+      "word": "原来西瓜不是最补水的瓜",
+      "onboard_time": 1749955040,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141365,
@@ -785,6 +873,14 @@
       "onboard_time": 1749910884,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140650,
+      "num": 206276,
+      "word": "全员加速中下期夜跑",
+      "onboard_time": 1749964400,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 139355,
@@ -819,6 +915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137251,
+      "num": 137251,
+      "word": "谁懂狼尾曹骏的杀伤力",
+      "onboard_time": 1749964221,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135826,
       "num": 136539,
       "word": "在工地扛钢管考上清华的他怎么样了",
@@ -849,14 +953,6 @@
       "onboard_time": 1749915563,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132757,
-      "num": 237324,
-      "word": "原来西瓜不是最补水的瓜",
-      "onboard_time": 1749955040,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 130768,
@@ -907,6 +1003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126226,
+      "num": 126226,
+      "word": "惠英红曾志伟 血观音大战无间道",
+      "onboard_time": 1749965060,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125114,
       "num": 125114,
       "word": "石凯新歌",
@@ -921,6 +1025,14 @@
       "onboard_time": 1749908662,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123687,
+      "num": 266888,
+      "word": "17岁男孩患白血病同学组织义卖",
+      "onboard_time": 1749961821,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 122092,
@@ -955,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120425,
+      "num": 120425,
+      "word": "高考全省第二北漂5年后的生活",
+      "onboard_time": 1749961400,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119633,
       "num": 134509,
       "word": "揽流光三千杀青",
@@ -980,7 +1100,7 @@
     },
     {
       "raw_hot": 115106,
-      "num": 115106,
+      "num": 196436,
       "word": "谁懂王栎鑫湿身跳舞的杀伤力",
       "onboard_time": 1749962900,
       "rank": 42,
@@ -1049,14 +1169,6 @@
       "onboard_time": 1749960440,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 106306,
-      "num": 106306,
-      "word": "高考全省第二北漂5年后的生活",
-      "onboard_time": 1749961400,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 104786,
@@ -1129,6 +1241,14 @@
       "onboard_time": 1749951019,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95093,
+      "num": 191824,
+      "word": "以色列地面出现巨大弹坑",
+      "onboard_time": 1749965000,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94950,
@@ -1259,6 +1379,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69969,
+      "num": 219662,
+      "word": "马拉松冠军的训练是给女儿买牛奶",
+      "onboard_time": 1749964460,
+      "rank": 19,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 69706,
+      "num": 138739,
+      "word": "梅西世俱杯首秀战平",
+      "onboard_time": 1749964460,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68819,
+      "num": 746060,
+      "word": "在中亚感受中国热",
+      "onboard_time": 1749959961,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67405,
       "num": 154883,
       "word": "总台女记者从伊朗首都发回报道",
@@ -1283,14 +1427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63307,
-      "num": 746060,
-      "word": "在中亚感受中国热",
-      "onboard_time": 1749959961,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62655,
       "num": 127484,
       "word": "若以继续侵略伊朗将更猛烈回击",
@@ -1305,14 +1441,6 @@
       "onboard_time": 1749909863,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 58559,
-      "num": 266888,
-      "word": "17岁男孩患白血病同学组织义卖",
-      "onboard_time": 1749961821,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 56676,
@@ -1361,6 +1489,14 @@
       "onboard_time": 1749962360,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 50814,
+      "num": 222709,
+      "word": "男子身穿外卖服顺走店家3份螺蛳粉",
+      "onboard_time": 1749964519,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50429,
@@ -1427,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36304,
+      "num": 201601,
+      "word": "伊以局势会进一步失控吗",
+      "onboard_time": 1749964819,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35154,
       "num": 121616,
       "word": "凯斯无缘女王杯决赛",
@@ -1441,6 +1585,14 @@
       "onboard_time": 1749959541,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 32152,
+      "num": 144049,
+      "word": "台风蝴蝶过境云浮多地遭遇水浸",
+      "onboard_time": 1749965060,
+      "rank": 36,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 30802,
