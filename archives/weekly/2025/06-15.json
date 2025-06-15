@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749953520086,
+  "endTime": 1749954940281,
   "band_list": [
     {
       "raw_hot": 1752363,
@@ -9,6 +9,22 @@
       "onboard_time": 1749909863,
       "rank": 10,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 1432003,
+      "num": 354217,
+      "word": "曾毅回应不雅手表争议网友并不买账",
+      "onboard_time": 1749953479,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1191131,
+      "num": 1009873,
+      "word": "故宫漏雨",
+      "onboard_time": 1749949760,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1138943,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 925306,
-      "num": 925306,
+      "num": 1137244,
       "word": "父亲节",
       "onboard_time": 1749944538,
       "rank": 1,
@@ -49,14 +65,6 @@
       "onboard_time": 1749947839,
       "rank": 3,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 828503,
-      "num": 828503,
-      "word": "故宫漏雨",
-      "onboard_time": 1749949760,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 808775,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543287,
+      "num": 543287,
+      "word": "清华高颜值女孩父亲回应女儿直播",
+      "onboard_time": 1749954140,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 521762,
       "num": 521762,
       "word": "原来它们不叫labubu",
@@ -123,20 +139,20 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 515185,
+      "num": 515185,
+      "word": "伊朗导弹击中以色列能源设施",
+      "onboard_time": 1749951019,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 477062,
       "num": 477062,
       "word": "把亡妻婚戒融一起男子回应将当爷爷",
       "onboard_time": 1749946039,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 463216,
-      "num": 463216,
-      "word": "伊朗导弹击中以色列能源设施",
-      "onboard_time": 1749951019,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 441468,
@@ -299,8 +315,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221811,
-      "num": 221811,
+      "raw_hot": 227413,
+      "num": 227413,
       "word": "怎么轮到结婚就开始让我凑合了",
       "onboard_time": 1749948080,
       "rank": 21,
@@ -411,12 +427,28 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 174667,
+      "num": 174667,
+      "word": "时代少年团祝贺峻霖21岁生日快乐",
+      "onboard_time": 1749954380,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171176,
       "num": 171176,
       "word": "杨幂回应和刘德华挽手走红毯",
       "onboard_time": 1749914901,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170736,
+      "num": 170736,
+      "word": "王俊凯五登芭莎",
+      "onboard_time": 1749954739,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169039,
@@ -443,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157198,
+      "num": 157198,
+      "word": "荔枝核别扔养出超火粉色盆栽",
+      "onboard_time": 1749954140,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156083,
       "num": 156083,
       "word": "一人一句祝父亲节日快乐",
@@ -457,6 +497,14 @@
       "onboard_time": 1749907461,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150385,
+      "num": 150385,
+      "word": "是不是后悔没有早点和我说话",
+      "onboard_time": 1749954140,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 148568,
@@ -531,20 +579,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125114,
+      "num": 125114,
+      "word": "石凯新歌",
+      "onboard_time": 1749949640,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124461,
       "num": 124461,
       "word": "严浩翔微笑拒绝法则",
       "onboard_time": 1749908662,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122754,
-      "num": 122754,
-      "word": "石凯新歌",
-      "onboard_time": 1749949640,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 122092,
@@ -571,11 +619,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120884,
+      "num": 120884,
+      "word": "11月起去新西兰从澳入境可免签",
+      "onboard_time": 1749954199,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118296,
       "num": 118296,
       "word": "Knight希望画个好一点的句号",
       "onboard_time": 1749914242,
       "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 115407,
+      "num": 115407,
+      "word": "Knight力挺AL香克斯",
+      "onboard_time": 1749954799,
+      "rank": 42,
       "category": "电竞"
     },
     {
@@ -643,12 +707,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103552,
+      "num": 103552,
+      "word": "对没那么喜欢的人反而可以自信大方",
+      "onboard_time": 1749954679,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102968,
       "num": 102968,
       "word": "父爱无言却如山般深沉",
       "onboard_time": 1749950721,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102236,
+      "num": 102236,
+      "word": "肖战藏海传27天冲上云合年榜第三",
+      "onboard_time": 1749954679,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100460,
+      "num": 214401,
+      "word": "这回真成世界第一了",
+      "onboard_time": 1749954080,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99944,
+      "num": 99944,
+      "word": "暖味期才是最爽的",
+      "onboard_time": 1749952821,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 97785,
@@ -659,12 +755,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95369,
-      "num": 95369,
-      "word": "曾毅回应不雅手表争议网友并不买账",
-      "onboard_time": 1749953479,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 94950,
+      "num": 94950,
+      "word": "章子怡酱园弄repo",
+      "onboard_time": 1749954021,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 93978,
+      "num": 93978,
+      "word": "真让周深学会悬浮术了",
+      "onboard_time": 1749954920,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 92291,
@@ -780,7 +884,7 @@
     },
     {
       "raw_hot": 59266,
-      "num": 861224,
+      "num": 876773,
       "word": "糖画和文化遗产这一刻融合了",
       "onboard_time": 1749909863,
       "rank": 2,
@@ -1025,6 +1129,14 @@
       "onboard_time": 1749929294,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12510,
+      "num": 117233,
+      "word": "勒芒24小时耐力赛",
+      "onboard_time": 1749954920,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 12024,

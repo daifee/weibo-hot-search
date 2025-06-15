@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1749953520086,
+  "endTime": 1749954940281,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1275,6 +1275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1432003,
+      "num": 354217,
+      "word": "曾毅回应不雅手表争议网友并不买账",
+      "onboard_time": 1749953479,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1424804,
       "num": 1424804,
       "word": "夏天这种凉鞋易致孩子性早熟还有毒",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1749288745,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1191131,
+      "num": 1009873,
+      "word": "故宫漏雨",
+      "onboard_time": 1749949760,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1191072,
@@ -2892,7 +2908,7 @@
     },
     {
       "raw_hot": 925306,
-      "num": 925306,
+      "num": 1137244,
       "word": "父亲节",
       "onboard_time": 1749944538,
       "rank": 1,
@@ -3368,14 +3384,6 @@
       "word": "山东12岁女孩遭侵害致精神失常",
       "onboard_time": 1749710720,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 828503,
-      "num": 828503,
-      "word": "故宫漏雨",
-      "onboard_time": 1749949760,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -6187,6 +6195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543287,
+      "num": 543287,
+      "word": "清华高颜值女孩父亲回应女儿直播",
+      "onboard_time": 1749954140,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 543130,
       "num": 543130,
       "word": "电视剧四十七",
@@ -6601,6 +6617,14 @@
       "onboard_time": 1749438982,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 515185,
+      "num": 515185,
+      "word": "伊朗导弹击中以色列能源设施",
+      "onboard_time": 1749951019,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 514597,
@@ -7561,14 +7585,6 @@
       "onboard_time": 1749029720,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 463216,
-      "num": 463216,
-      "word": "伊朗导弹击中以色列能源设施",
-      "onboard_time": 1749951019,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 463130,
@@ -15907,6 +15923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227413,
+      "num": 227413,
+      "word": "怎么轮到结婚就开始让我凑合了",
+      "onboard_time": 1749948080,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227336,
       "num": 369270,
       "word": "aespa与Apple合作",
@@ -16473,14 +16497,6 @@
       "onboard_time": 1749182182,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221811,
-      "num": 221811,
-      "word": "怎么轮到结婚就开始让我凑合了",
-      "onboard_time": 1749948080,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 221780,
@@ -23507,6 +23523,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 174667,
+      "num": 174667,
+      "word": "时代少年团祝贺峻霖21岁生日快乐",
+      "onboard_time": 1749954380,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174660,
       "num": 174660,
       "word": "王曼昱有随时能发出下一个球的能力",
@@ -24185,6 +24209,14 @@
       "onboard_time": 1749337998,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170736,
+      "num": 170736,
+      "word": "王俊凯五登芭莎",
+      "onboard_time": 1749954739,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170731,
@@ -26955,6 +26987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157198,
+      "num": 157198,
+      "word": "荔枝核别扔养出超火粉色盆栽",
+      "onboard_time": 1749954140,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157150,
       "num": 188063,
       "word": "董倩回忆第一次见王楚钦",
@@ -28265,6 +28305,14 @@
       "onboard_time": 1749371000,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150385,
+      "num": 150385,
+      "word": "是不是后悔没有早点和我说话",
+      "onboard_time": 1749954140,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 150372,
@@ -34171,6 +34219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125114,
+      "num": 125114,
+      "word": "石凯新歌",
+      "onboard_time": 1749949640,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125113,
       "num": 125113,
       "word": "Capper藏都不藏了",
@@ -34643,14 +34699,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 122754,
-      "num": 122754,
-      "word": "石凯新歌",
-      "onboard_time": 1749949640,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 122724,
       "num": 109642,
       "word": "白鹿新剧预告古装版致命女人",
@@ -35081,6 +35129,14 @@
       "onboard_time": 1748928743,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120884,
+      "num": 120884,
+      "word": "11月起去新西兰从澳入境可免签",
+      "onboard_time": 1749954199,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120800,
@@ -36153,6 +36209,14 @@
       "onboard_time": 1749027081,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115407,
+      "num": 115407,
+      "word": "Knight力挺AL香克斯",
+      "onboard_time": 1749954799,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 115375,
@@ -38235,6 +38299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103552,
+      "num": 103552,
+      "word": "对没那么喜欢的人反而可以自信大方",
+      "onboard_time": 1749954679,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103479,
       "num": 103479,
       "word": "如何利用维生素B甩掉坏情绪",
@@ -38448,6 +38520,14 @@
       "word": "高明打藏海",
       "onboard_time": 1748891894,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102236,
+      "num": 102236,
+      "word": "肖战藏海传27天冲上云合年榜第三",
+      "onboard_time": 1749954679,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -38739,6 +38819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 100460,
+      "num": 214401,
+      "word": "这回真成世界第一了",
+      "onboard_time": 1749954080,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100269,
       "num": 100269,
       "word": "华晨宝马迎来第一任女CEO",
@@ -38801,6 +38889,14 @@
       "onboard_time": 1748779581,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99944,
+      "num": 99944,
+      "word": "暖味期才是最爽的",
+      "onboard_time": 1749952821,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 99910,
@@ -39587,14 +39683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 95369,
-      "num": 95369,
-      "word": "曾毅回应不雅手表争议网友并不买账",
-      "onboard_time": 1749953479,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95339,
       "num": 95339,
       "word": "张若昀你怎么又拿奖了",
@@ -39681,6 +39769,14 @@
       "onboard_time": 1748850080,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94950,
+      "num": 94950,
+      "word": "章子怡酱园弄repo",
+      "onboard_time": 1749954021,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 94939,
@@ -39825,6 +39921,14 @@
       "onboard_time": 1749657081,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93978,
+      "num": 93978,
+      "word": "真让周深学会悬浮术了",
+      "onboard_time": 1749954920,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 93930,
@@ -41748,7 +41852,7 @@
     },
     {
       "raw_hot": 80877,
-      "num": 861224,
+      "num": 876773,
       "word": "糖画和文化遗产这一刻融合了",
       "onboard_time": 1749909863,
       "rank": 2,
@@ -53121,6 +53225,14 @@
       "onboard_time": 1749492676,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 12510,
+      "num": 117233,
+      "word": "勒芒24小时耐力赛",
+      "onboard_time": 1749954920,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 12377,

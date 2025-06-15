@@ -1,0 +1,410 @@
+{
+  "runTime": 1749954940281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 857777,
+        "num": 1137244,
+        "word": "父亲节",
+        "onboard_time": 1749944538,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1191131,
+        "num": 1009873,
+        "word": "故宫漏雨",
+        "onboard_time": 1749949760,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50403,
+        "num": 876773,
+        "word": "糖画和文化遗产这一刻融合了",
+        "onboard_time": 1749909863,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 850987,
+        "num": 850987,
+        "word": "金昀去世",
+        "onboard_time": 1749946820,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724484,
+        "num": 724484,
+        "word": "男子鸣笛引路人不满强行驶离致1死4伤",
+        "onboard_time": 1749947839,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 543287,
+        "num": 543287,
+        "word": "清华高颜值女孩父亲回应女儿直播",
+        "onboard_time": 1749954140,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515185,
+        "num": 515185,
+        "word": "伊朗导弹击中以色列能源设施",
+        "onboard_time": 1749951019,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 438813,
+        "num": 438813,
+        "word": "张子枫踩20cm的高跟鞋",
+        "onboard_time": 1749920000,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 373425,
+        "num": 373425,
+        "word": "以色列暗杀胡塞高级领导人失败",
+        "onboard_time": 1749948320,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369796,
+        "num": 369796,
+        "word": "原来它们不叫labubu",
+        "onboard_time": 1749946639,
+        "rank": 9,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 1432003,
+        "num": 354217,
+        "word": "曾毅回应不雅手表争议网友并不买账",
+        "onboard_time": 1749953479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1241632,
+        "num": 349482,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 11,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 332881,
+        "num": 332881,
+        "word": "伊朗警告美英法3国",
+        "onboard_time": 1749946939,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 325912,
+        "num": 325912,
+        "word": "李现是第一个推了酱园弄的人",
+        "onboard_time": 1749921557,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299049,
+        "num": 299049,
+        "word": "把亡妻婚戒融一起男子回应将当爷爷",
+        "onboard_time": 1749946039,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269594,
+        "num": 269594,
+        "word": "印度一男孩遭坠毁客机碎片砸中身亡",
+        "onboard_time": 1749946338,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227413,
+        "num": 227413,
+        "word": "怎么轮到结婚就开始让我凑合了",
+        "onboard_time": 1749948080,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221151,
+        "num": 221151,
+        "word": "伊朗称将袭击以战斗机燃料生产设施",
+        "onboard_time": 1749946939,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191703,
+        "num": 215875,
+        "word": "披荆斩棘 镜头",
+        "onboard_time": 1749919700,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100460,
+        "num": 214401,
+        "word": "这回真成世界第一了",
+        "onboard_time": 1749954080,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213606,
+        "num": 213606,
+        "word": "以色列一城市大片别墅变废墟",
+        "onboard_time": 1749949700,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206174,
+        "num": 206174,
+        "word": "翟潇闻说内娱最漂亮女艺人刘诗诗",
+        "onboard_time": 1749943217,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174667,
+        "num": 174667,
+        "word": "时代少年团祝贺峻霖21岁生日快乐",
+        "onboard_time": 1749954380,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170736,
+        "num": 170736,
+        "word": "王俊凯五登芭莎",
+        "onboard_time": 1749954739,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169712,
+        "num": 169712,
+        "word": "以国家安全总局局长辞职",
+        "onboard_time": 1749948320,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157646,
+        "num": 157646,
+        "word": "网红泰国商场直播带货被查",
+        "onboard_time": 1749946459,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146233,
+        "num": 157323,
+        "word": "杨幂感谢章子怡",
+        "onboard_time": 1749943096,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157198,
+        "num": 157198,
+        "word": "荔枝核别扔养出超火粉色盆栽",
+        "onboard_time": 1749954140,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132681,
+        "num": 154792,
+        "word": "邓紫棋发文再谈六年版权纠纷",
+        "onboard_time": 1749952520,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130719,
+        "num": 153734,
+        "word": "韩红现场发飙怒骂选手自私",
+        "onboard_time": 1749915682,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153656,
+        "num": 153656,
+        "word": "郑钦文与女王杯遗憾擦肩",
+        "onboard_time": 1749951081,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150385,
+        "num": 150385,
+        "word": "是不是后悔没有早点和我说话",
+        "onboard_time": 1749954140,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139758,
+        "num": 139758,
+        "word": "婚宴252桌花50万嫌贵拒付款后续",
+        "onboard_time": 1749911063,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130227,
+        "num": 130227,
+        "word": "一人一句祝父亲节日快乐",
+        "onboard_time": 1749920119,
+        "rank": 33,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 128080,
+        "num": 128080,
+        "word": "熬夜损失的寿命又靠熬夜弥补了回来",
+        "onboard_time": 1749915862,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126264,
+        "num": 126264,
+        "word": "大爷体内藏52年牙刷称以为能溶解掉",
+        "onboard_time": 1749911364,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125815,
+        "num": 125815,
+        "word": "伊朗大规模反击打疼以色列了吗",
+        "onboard_time": 1749915981,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125114,
+        "num": 125114,
+        "word": "石凯新歌",
+        "onboard_time": 1749949640,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120884,
+        "num": 120884,
+        "word": "11月起去新西兰从澳入境可免签",
+        "onboard_time": 1749954199,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12510,
+        "num": 117233,
+        "word": "勒芒24小时耐力赛",
+        "onboard_time": 1749954920,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116714,
+        "num": 116714,
+        "word": "加州偶遇王一博",
+        "onboard_time": 1749911183,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116010,
+        "num": 116010,
+        "word": "老板多嘴一问成功保住顾客10万元",
+        "onboard_time": 1749912143,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 115407,
+        "num": 115407,
+        "word": "Knight力挺AL香克斯",
+        "onboard_time": 1749954799,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103552,
+        "num": 103552,
+        "word": "对没那么喜欢的人反而可以自信大方",
+        "onboard_time": 1749954679,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102236,
+        "num": 102236,
+        "word": "肖战藏海传27天冲上云合年榜第三",
+        "onboard_time": 1749954679,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99944,
+        "num": 99944,
+        "word": "暖味期才是最爽的",
+        "onboard_time": 1749952821,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96944,
+        "num": 96944,
+        "word": "黄子韬现场发火中断考核",
+        "onboard_time": 1749904522,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94950,
+        "num": 94950,
+        "word": "章子怡酱园弄repo",
+        "onboard_time": 1749954021,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94318,
+        "num": 94318,
+        "word": "我想你了爸爸",
+        "onboard_time": 1749945377,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93978,
+        "num": 93978,
+        "word": "真让周深学会悬浮术了",
+        "onboard_time": 1749954920,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平关心文化和自然遗产保护传承利用#"
+    }
+  }
+}
