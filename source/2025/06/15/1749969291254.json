@@ -1,0 +1,410 @@
+{
+  "runTime": 1749969291254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1503031,
+        "num": 1503031,
+        "word": "荔枝 低血糖",
+        "onboard_time": 1749960080,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 653465,
+        "num": 653465,
+        "word": "张朝阳退回的labubu换了一辆车",
+        "onboard_time": 1749959180,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53660,
+        "num": 621721,
+        "word": "在中亚感受中国热",
+        "onboard_time": 1749959961,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613957,
+        "num": 613957,
+        "word": "下辈子第一志愿严莉莉",
+        "onboard_time": 1749963679,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452060,
+        "num": 452060,
+        "word": "兰香如故换角",
+        "onboard_time": 1749966381,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371383,
+        "num": 408436,
+        "word": "父亲节",
+        "onboard_time": 1749944538,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376609,
+        "num": 376609,
+        "word": "以色列地面出现巨大弹坑",
+        "onboard_time": 1749965000,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328698,
+        "num": 328698,
+        "word": "肖战藏海传重新认识古装剧",
+        "onboard_time": 1749964640,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290900,
+        "num": 290900,
+        "word": "谢震业父亲节官宣当爸爸",
+        "onboard_time": 1749963199,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35040,
+        "num": 288135,
+        "word": "一封给父亲的漫画信",
+        "onboard_time": 1749968899,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648984,
+        "num": 286503,
+        "word": "曝刘诗诗杨幂双C",
+        "onboard_time": 1749963260,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 621700,
+        "num": 282366,
+        "word": "公开戴不雅手表是否涉传播淫秽物品",
+        "onboard_time": 1749909863,
+        "rank": 11,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 329290,
+        "num": 280572,
+        "word": "老人去世后干女儿与配偶侄子争房产",
+        "onboard_time": 1749962001,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293942,
+        "num": 275475,
+        "word": "泡泡玛特 老虎机",
+        "onboard_time": 1749963500,
+        "rank": 13,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 40728,
+        "num": 271510,
+        "word": "为救子盗窃入狱父亲发声",
+        "onboard_time": 1749968240,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271000,
+        "num": 271000,
+        "word": "曾毅回应不雅手表争议网友并不买账",
+        "onboard_time": 1749953479,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251935,
+        "num": 251935,
+        "word": "伊朗打击以色列中部6死200多伤",
+        "onboard_time": 1749966559,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238962,
+        "num": 238962,
+        "word": "台湾名嘴说昆山厕所没有门",
+        "onboard_time": 1749958760,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183881,
+        "num": 238523,
+        "word": "浙音第一质疑网红歌手",
+        "onboard_time": 1749959541,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129374,
+        "num": 238307,
+        "word": "学校围墙倒塌祖孙被砸身亡孕妇受伤",
+        "onboard_time": 1749966860,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238239,
+        "num": 238239,
+        "word": "严浩翔祝贺峻霖21岁生日快乐",
+        "onboard_time": 1749963441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233904,
+        "num": 233904,
+        "word": "陈梦坦言不想退役",
+        "onboard_time": 1749966440,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207626,
+        "num": 207626,
+        "word": "打电话是一个侵入性特别强的动作",
+        "onboard_time": 1749965600,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178458,
+        "num": 178458,
+        "word": "伊朗导弹击中以色列能源设施",
+        "onboard_time": 1749951019,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174989,
+        "num": 174989,
+        "word": "马嘉祺丁程鑫差点亲上了",
+        "onboard_time": 1749956900,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171782,
+        "num": 171782,
+        "word": "程潇攒练习生时小票十倍还给妈妈",
+        "onboard_time": 1749967162,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159153,
+        "num": 171235,
+        "word": "张远披荆斩棘上班反差感",
+        "onboard_time": 1749968719,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145399,
+        "num": 170410,
+        "word": "李嘉格婚后第一次被妈妈认可",
+        "onboard_time": 1749968180,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139790,
+        "num": 170295,
+        "word": "耳帝让缺乏声音性格的歌手学习郝蕾",
+        "onboard_time": 1749967519,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132422,
+        "num": 169009,
+        "word": "华晨宇挑战五万人三声部阿卡贝拉",
+        "onboard_time": 1749967820,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42108,
+        "num": 168249,
+        "word": "smart米奇限定艺术车亮相魔都",
+        "onboard_time": 1749964400,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168162,
+        "num": 168162,
+        "word": "能养出毛利兰的人能差到哪去",
+        "onboard_time": 1749966980,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159426,
+        "num": 159426,
+        "word": "原来它们不叫labubu",
+        "onboard_time": 1749946639,
+        "rank": 32,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 148951,
+        "num": 148951,
+        "word": "这父亲节过的像是人情世故",
+        "onboard_time": 1749968899,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142996,
+        "num": 142996,
+        "word": "陈梦还想再战奥运会",
+        "onboard_time": 1749968542,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132525,
+        "num": 132525,
+        "word": "伊朗深夜近200枚导弹飞向以色列画面",
+        "onboard_time": 1749965780,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124522,
+        "num": 124522,
+        "word": "金昀去世",
+        "onboard_time": 1749946820,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122311,
+        "num": 122311,
+        "word": "清华高颜值女孩父亲回应女儿直播",
+        "onboard_time": 1749954140,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120175,
+        "num": 120175,
+        "word": "台湾网红馆长谈大陆行感受",
+        "onboard_time": 1749966381,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16819,
+        "num": 117483,
+        "word": "你越是你自己你就越有魅力",
+        "onboard_time": 1749968840,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116574,
+        "num": 116574,
+        "word": "韩东君父子亲脸照",
+        "onboard_time": 1749967940,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114114,
+        "num": 114114,
+        "word": "男子鸣笛引路人不满强行驶离致1死4伤",
+        "onboard_time": 1749947839,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 110413,
+        "num": 110413,
+        "word": "泡泡玛特已有13个过亿IP产品",
+        "onboard_time": 1749969081,
+        "rank": 42,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 109735,
+        "num": 109735,
+        "word": "郑钦文说被鞋子问题影响注意力",
+        "onboard_time": 1749968542,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108450,
+        "num": 108450,
+        "word": "王祖蓝兄妹与天上父亲对话",
+        "onboard_time": 1749960799,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107268,
+        "num": 107268,
+        "word": "伊朗称将袭击以战斗机燃料生产设施",
+        "onboard_time": 1749946939,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104788,
+        "num": 104788,
+        "word": "武商集团员工卖卡诈骗11亿被判无期",
+        "onboard_time": 1749968840,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104307,
+        "num": 104307,
+        "word": "民企投入2000万接手14万吨废石",
+        "onboard_time": 1749966680,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 102011,
+        "num": 102011,
+        "word": "伊朗警告美英法3国",
+        "onboard_time": 1749946939,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98355,
+        "num": 98355,
+        "word": "爸爸的爱藏在日复一日的陪伴里",
+        "onboard_time": 1749968542,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述中华文明的故事#"
+    }
+  }
+}

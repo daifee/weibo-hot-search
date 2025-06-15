@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1749966233965,
+  "endTime": 1749969291254,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 788389,
-      "num": 277433,
+      "num": 286503,
       "word": "曝刘诗诗杨幂双C",
       "onboard_time": 1749963260,
       "rank": 11,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613957,
+      "num": 613957,
+      "word": "下辈子第一志愿严莉莉",
+      "onboard_time": 1749963679,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 611633,
       "num": 611633,
       "word": "清华高颜值女孩父亲回应女儿直播",
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 452060,
+      "num": 452060,
+      "word": "兰香如故换角",
+      "onboard_time": 1749966381,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441468,
       "num": 441468,
       "word": "李现是第一个推了酱园弄的人",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 415992,
-      "num": 274219,
+      "num": 280572,
       "word": "老人去世后干女儿与配偶侄子争房产",
       "onboard_time": 1749962001,
       "rank": 22,
@@ -257,6 +273,14 @@
       "onboard_time": 1749959541,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 376609,
+      "num": 376609,
+      "word": "以色列地面出现巨大弹坑",
+      "onboard_time": 1749965000,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 374832,
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 364193,
-      "num": 273689,
+      "num": 275475,
       "word": "泡泡玛特 老虎机",
       "onboard_time": 1749963500,
       "rank": 21,
@@ -313,6 +337,14 @@
       "onboard_time": 1749902483,
       "rank": 8,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 328698,
+      "num": 328698,
+      "word": "肖战藏海传重新认识古装剧",
+      "onboard_time": 1749964640,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 324414,
@@ -403,14 +435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 277769,
-      "num": 277769,
-      "word": "肖战藏海传重新认识古装剧",
-      "onboard_time": 1749964640,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 273073,
       "num": 227105,
       "word": "郝蕾你平时点评可不这样",
@@ -443,12 +467,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 251827,
-      "num": 251827,
-      "word": "下辈子第一志愿严莉莉",
-      "onboard_time": 1749963679,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 251935,
+      "num": 251935,
+      "word": "伊朗打击以色列中部6死200多伤",
+      "onboard_time": 1749966559,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 248378,
@@ -465,6 +489,14 @@
       "onboard_time": 1749916221,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 233904,
+      "num": 233904,
+      "word": "陈梦坦言不想退役",
+      "onboard_time": 1749966440,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 231525,
@@ -528,6 +560,14 @@
       "word": "上海老年人相亲有多直接",
       "onboard_time": 1749961941,
       "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 207626,
+      "num": 207626,
+      "word": "打电话是一个侵入性特别强的动作",
+      "onboard_time": 1749965600,
+      "rank": 32,
       "category": "情感"
     },
     {
@@ -675,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177442,
-      "num": 177442,
-      "word": "打电话是一个侵入性特别强的动作",
-      "onboard_time": 1749965600,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177272,
       "num": 184631,
       "word": "战至巅峰给贺峻霖发来生日贺电",
@@ -731,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171782,
+      "num": 171782,
+      "word": "程潇攒练习生时小票十倍还给妈妈",
+      "onboard_time": 1749967162,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171176,
       "num": 171176,
       "word": "杨幂回应和刘德华挽手走红毯",
@@ -753,6 +793,14 @@
       "onboard_time": 1749892832,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 168162,
+      "num": 168162,
+      "word": "能养出毛利兰的人能差到哪去",
+      "onboard_time": 1749966980,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 162911,
@@ -795,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159153,
+      "num": 171235,
+      "word": "张远披荆斩棘上班反差感",
+      "onboard_time": 1749968719,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157198,
       "num": 157198,
       "word": "荔枝核别扔养出超火粉色盆栽",
@@ -817,14 +873,6 @@
       "onboard_time": 1749920119,
       "rank": 28,
       "category": "情感,读书作家"
-    },
-    {
-      "raw_hot": 154895,
-      "num": 270373,
-      "word": "以色列地面出现巨大弹坑",
-      "onboard_time": 1749965000,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 153921,
@@ -851,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148951,
+      "num": 148951,
+      "word": "这父亲节过的像是人情世故",
+      "onboard_time": 1749968899,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148568,
       "num": 148568,
       "word": "劳力士店员否认曾毅戴表为自家品牌",
@@ -867,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145399,
+      "num": 170410,
+      "word": "李嘉格婚后第一次被妈妈认可",
+      "onboard_time": 1749968180,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143877,
       "num": 143877,
       "word": "陷入我们的热恋",
@@ -881,6 +945,14 @@
       "onboard_time": 1749955040,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142996,
+      "num": 142996,
+      "word": "陈梦还想再战奥运会",
+      "onboard_time": 1749968542,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 141365,
@@ -904,6 +976,14 @@
       "word": "全员加速中下期夜跑",
       "onboard_time": 1749964400,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139790,
+      "num": 170295,
+      "word": "耳帝让缺乏声音性格的歌手学习郝蕾",
+      "onboard_time": 1749967519,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -979,6 +1059,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132525,
+      "num": 132525,
+      "word": "伊朗深夜近200枚导弹飞向以色列画面",
+      "onboard_time": 1749965780,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 132422,
+      "num": 169009,
+      "word": "华晨宇挑战五万人三声部阿卡贝拉",
+      "onboard_time": 1749967820,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130768,
       "num": 181097,
       "word": "许嵩三度扔伞陪粉丝一起淋雨",
@@ -1009,6 +1105,14 @@
       "onboard_time": 1749952520,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129374,
+      "num": 238307,
+      "word": "学校围墙倒塌祖孙被砸身亡孕妇受伤",
+      "onboard_time": 1749966860,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127423,
@@ -1107,20 +1211,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120175,
+      "num": 120175,
+      "word": "台湾网红馆长谈大陆行感受",
+      "onboard_time": 1749966381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119633,
       "num": 134509,
       "word": "揽流光三千杀青",
       "onboard_time": 1749958100,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118965,
-      "num": 118965,
-      "word": "伊朗深夜近200枚导弹飞向以色列画面",
-      "onboard_time": 1749965780,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118296,
@@ -1145,6 +1249,14 @@
       "onboard_time": 1749964519,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116574,
+      "num": 116574,
+      "word": "韩东君父子亲脸照",
+      "onboard_time": 1749967940,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 115407,
@@ -1203,12 +1315,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110413,
+      "num": 110413,
+      "word": "泡泡玛特已有13个过亿IP产品",
+      "onboard_time": 1749969081,
+      "rank": 42,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 109787,
       "num": 109787,
       "word": "酱园弄悬案上影节口碑",
       "onboard_time": 1749913823,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109735,
+      "num": 109735,
+      "word": "郑钦文说被鞋子问题影响注意力",
+      "onboard_time": 1749968542,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 109225,
@@ -1235,12 +1363,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104788,
+      "num": 104788,
+      "word": "武商集团员工卖卡诈骗11亿被判无期",
+      "onboard_time": 1749968840,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104786,
       "num": 155406,
       "word": "联合国称不惜一切代价避免伊以失控",
       "onboard_time": 1749942977,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104307,
+      "num": 104307,
+      "word": "民企投入2000万接手14万吨废石",
+      "onboard_time": 1749966680,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 103552,
@@ -1297,6 +1441,14 @@
       "onboard_time": 1749961701,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98355,
+      "num": 98355,
+      "word": "爸爸的爱藏在日复一日的陪伴里",
+      "onboard_time": 1749968542,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 97785,
@@ -1627,6 +1779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40728,
+      "num": 271510,
+      "word": "为救子盗窃入狱父亲发声",
+      "onboard_time": 1749968240,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38837,
       "num": 199011,
       "word": "美佛州一警长向抗议者发出死亡威胁",
@@ -1649,6 +1809,14 @@
       "onboard_time": 1749915083,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35040,
+      "num": 288135,
+      "word": "一封给父亲的漫画信",
+      "onboard_time": 1749968899,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33031,
@@ -1801,6 +1969,14 @@
       "onboard_time": 1749927076,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16819,
+      "num": 117483,
+      "word": "你越是你自己你就越有魅力",
+      "onboard_time": 1749968840,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 15136,
