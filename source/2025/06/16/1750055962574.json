@@ -1,0 +1,410 @@
+{
+  "runTime": 1750055962574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1412381,
+        "num": 1412381,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 902290,
+        "num": 902290,
+        "word": "内娱瘦下来一个尹正怎么了",
+        "onboard_time": 1750051763,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9859,
+        "num": 843371,
+        "word": "一系列先行指标看经济活力",
+        "onboard_time": 1749994522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 807451,
+        "num": 807451,
+        "word": "林依晨二胎得子",
+        "onboard_time": 1750048223,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410580,
+        "num": 410580,
+        "word": "泰国坠亡中国男子生前最后对话曝光",
+        "onboard_time": 1750048582,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 400233,
+        "num": 400233,
+        "word": "波尔从孔令辉打到王楚钦",
+        "onboard_time": 1750051461,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517995,
+        "num": 392027,
+        "word": "老师被曝让学生一字排开跪地写检讨",
+        "onboard_time": 1750050681,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380209,
+        "num": 380209,
+        "word": "王星越 这是我爸",
+        "onboard_time": 1750049181,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277652,
+        "num": 277652,
+        "word": "苹果用户再也不敢乱用emoji了",
+        "onboard_time": 1750042579,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126246,
+        "num": 266355,
+        "word": "伊朗导弹击中海法和特拉维夫",
+        "onboard_time": 1750030459,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 571830,
+        "num": 264895,
+        "word": "前男友删除与韦雪有关视频",
+        "onboard_time": 1750050083,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346462,
+        "num": 264594,
+        "word": "酱园弄悬案原来这么大尺度",
+        "onboard_time": 1750052960,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260254,
+        "num": 260254,
+        "word": "以请求国际援助拦截伊朗袭击",
+        "onboard_time": 1750049423,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 259640,
+        "num": 259640,
+        "word": "豆包p图",
+        "onboard_time": 1750046542,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113111,
+        "num": 241560,
+        "word": "湖南爆炸鞭炮厂上月刚被处罚",
+        "onboard_time": 1750054701,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239961,
+        "num": 239961,
+        "word": "方媛公开怀三胎后首发文",
+        "onboard_time": 1750049962,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194734,
+        "num": 194734,
+        "word": "程潇支持黄圣依要抚养费",
+        "onboard_time": 1750052960,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191678,
+        "num": 191678,
+        "word": "湖南一鞭炮厂发生爆炸事故",
+        "onboard_time": 1750043722,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 31230,
+        "num": 191561,
+        "word": "抖音618抄底攻略来了",
+        "onboard_time": 1750052121,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41636,
+        "num": 191390,
+        "word": "哪些人群不适合吃荔枝",
+        "onboard_time": 1750055480,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138905,
+        "num": 191088,
+        "word": "ally大学就读于211高校",
+        "onboard_time": 1750051400,
+        "rank": 20,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 227718,
+        "num": 190970,
+        "word": "青年人失业率连续3个月下降",
+        "onboard_time": 1750052421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130077,
+        "num": 190809,
+        "word": "黄觉谈易烊千玺李庚希表演",
+        "onboard_time": 1750054701,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108487,
+        "num": 190476,
+        "word": "女子网恋高富帅豪掷135万血本无归",
+        "onboard_time": 1750054100,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190389,
+        "num": 190389,
+        "word": "当我发现我妈跟刘亦菲演过戏",
+        "onboard_time": 1750048101,
+        "rank": 24,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 184067,
+        "num": 184067,
+        "word": "伊朗被摩萨德渗透成了筛子",
+        "onboard_time": 1750042040,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82959,
+        "num": 177494,
+        "word": "林保怡说易烊千玺小小的我很难演",
+        "onboard_time": 1750055720,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131544,
+        "num": 174526,
+        "word": "人民日报谈苏超",
+        "onboard_time": 1750053861,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110368,
+        "num": 174094,
+        "word": "中亚草原上的中国风车",
+        "onboard_time": 1750049962,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174024,
+        "num": 174024,
+        "word": "避雷向佐粉底液",
+        "onboard_time": 1750053621,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174012,
+        "num": 174012,
+        "word": "难怪柯淳不敢直视刘涛",
+        "onboard_time": 1750055360,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170340,
+        "num": 170340,
+        "word": "梅婷别演了我害怕",
+        "onboard_time": 1750048043,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159481,
+        "num": 159481,
+        "word": "惠英红收工连夜胖揍吴镇宇",
+        "onboard_time": 1750055120,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131425,
+        "num": 155213,
+        "word": "湖南临澧通报山洲花炮厂爆炸",
+        "onboard_time": 1750044622,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 82508,
+        "num": 153975,
+        "word": "谁懂作者是何炅的含金量",
+        "onboard_time": 1750048162,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44789,
+        "num": 153774,
+        "word": "有人通过3D打印labubu模型赚十多万",
+        "onboard_time": 1750055901,
+        "rank": 35,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 153684,
+        "num": 153684,
+        "word": "蒋依依冬天生理期拍戏被泼水",
+        "onboard_time": 1750053322,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150181,
+        "num": 150181,
+        "word": "虞书欣把头发盘成蝴蝶结",
+        "onboard_time": 1750054521,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29216,
+        "num": 137340,
+        "word": "谁来管管女装预售",
+        "onboard_time": 1750055780,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46358,
+        "num": 133939,
+        "word": "苏超散装与整装不止于玩梗",
+        "onboard_time": 1750054582,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50540,
+        "num": 133084,
+        "word": "吒儿周边卖了几百亿元",
+        "onboard_time": 1750055901,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132411,
+        "num": 132411,
+        "word": "白鹿演技",
+        "onboard_time": 1750046601,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120638,
+        "num": 125720,
+        "word": "男子在上海被日本人殴打",
+        "onboard_time": 1750044439,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116201,
+        "num": 124240,
+        "word": "黄觉说肖战这么火是有原因的",
+        "onboard_time": 1750052240,
+        "rank": 43,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 123714,
+        "num": 123714,
+        "word": "伊朗",
+        "onboard_time": 1750037838,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121345,
+        "num": 121345,
+        "word": "同学为那尔那茜发声",
+        "onboard_time": 1750055840,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111946,
+        "num": 111946,
+        "word": "何洁发长文后秒删",
+        "onboard_time": 1750046841,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119974,
+        "num": 111921,
+        "word": "罗永浩说国足可以学学苏超",
+        "onboard_time": 1750055301,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111827,
+        "num": 111827,
+        "word": "Labubu 审美",
+        "onboard_time": 1750055840,
+        "rank": 48,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 105901,
+        "num": 105901,
+        "word": "一个被窝睡不出两种人",
+        "onboard_time": 1750049663,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#把加强顶层设计和坚持问计于民结合起来#"
+    }
+  }
+}
