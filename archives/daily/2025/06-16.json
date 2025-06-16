@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750051701080,
+  "endTime": 1750052737125,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -51,6 +51,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 819122,
+      "num": 318124,
+      "word": "前男友删除与韦雪有关视频",
+      "onboard_time": 1750050083,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 764911,
       "num": 937517,
       "word": "杭州一泡泡玛特开业当天闭店",
@@ -75,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 716285,
-      "num": 716285,
+      "raw_hot": 717026,
+      "num": 717026,
       "word": "泰国坠亡中国男子生前最后对话曝光",
       "onboard_time": 1750048582,
       "rank": 49,
@@ -145,14 +153,6 @@
       "onboard_time": 1750043722,
       "rank": 8,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 565957,
-      "num": 318124,
-      "word": "前男友删除与韦雪有关视频",
-      "onboard_time": 1750050083,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 549553,
@@ -427,6 +427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 278195,
+      "num": 278195,
+      "word": "内娱瘦下来一个尹正怎么了",
+      "onboard_time": 1750051763,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277118,
       "num": 261021,
       "word": "贵州杀妻灭子案现场血迹成因仍待解",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 268053,
-      "num": 268053,
+      "num": 321442,
       "word": "2025最新本科专业速查",
       "onboard_time": 1750038380,
       "rank": 9,
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221985,
+      "num": 221985,
+      "word": "波尔从孔令辉打到王楚钦",
+      "onboard_time": 1750051461,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218940,
       "num": 252843,
       "word": "伊朗革命卫队情报负责人遭以暗杀",
@@ -635,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208844,
+      "num": 208844,
+      "word": "以请求国际援助拦截伊朗袭击",
+      "onboard_time": 1750049423,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 202909,
       "num": 202909,
       "word": "张酸 反派",
@@ -667,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190097,
+      "num": 190097,
+      "word": "青年人失业率连续3个月下降",
+      "onboard_time": 1750052421,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188977,
       "num": 188977,
       "word": "泰国与印空难幸存者座位都是11A",
@@ -689,6 +721,14 @@
       "onboard_time": 1750032260,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186924,
+      "num": 186924,
+      "word": "临江仙粉丝退至我身后",
+      "onboard_time": 1750051580,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 184871,
@@ -721,14 +761,6 @@
       "onboard_time": 1750038558,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180172,
-      "num": 180172,
-      "word": "以请求国际援助拦截伊朗袭击",
-      "onboard_time": 1750049423,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 172814,
@@ -851,6 +883,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 158900,
+      "num": 253411,
+      "word": "抖音618抄底攻略来了",
+      "onboard_time": 1750052121,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 157940,
       "num": 157940,
       "word": "曾舜晞终于成功给白鹿夹上菜了",
@@ -907,6 +947,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151902,
+      "num": 151902,
+      "word": "ally大学就读于211高校",
+      "onboard_time": 1750051400,
+      "rank": 44,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 151664,
+      "num": 242076,
+      "word": "nova14人生的方向盘在自己手中",
+      "onboard_time": 1750048883,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151551,
       "num": 151551,
       "word": "小米平板7SPro搭载玄戒O1芯片",
@@ -921,6 +977,14 @@
       "onboard_time": 1750050981,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149824,
+      "num": 327619,
+      "word": "湖南烟花厂爆炸已致2失联9伤",
+      "onboard_time": 1750051822,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 149227,
@@ -939,12 +1003,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143824,
-      "num": 176045,
-      "word": "波尔从孔令辉打到王楚钦",
-      "onboard_time": 1750051461,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 146346,
+      "num": 208965,
+      "word": "酱园弄影评",
+      "onboard_time": 1750051341,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 145219,
+      "num": 145219,
+      "word": "TVB为何沦落至此",
+      "onboard_time": 1750052181,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 143119,
@@ -963,20 +1035,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140412,
+      "num": 140412,
+      "word": "韩安冉老公经营公司负债",
+      "onboard_time": 1750051699,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137926,
       "num": 137926,
       "word": "男子追求女子发近千骚扰短信找上爷爷家",
       "onboard_time": 1750044800,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137366,
-      "num": 242076,
-      "word": "nova14人生的方向盘在自己手中",
-      "onboard_time": 1750048883,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 136899,
@@ -1003,12 +1075,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134228,
-      "num": 134228,
-      "word": "临江仙粉丝退至我身后",
-      "onboard_time": 1750051580,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 133892,
+      "num": 252234,
+      "word": "山东一景区推出窝囊版漂流",
+      "onboard_time": 1750050921,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132840,
@@ -1025,14 +1097,6 @@
       "onboard_time": 1750011435,
       "rank": 22,
       "category": "美食,民生新闻"
-    },
-    {
-      "raw_hot": 132701,
-      "num": 132701,
-      "word": "ally大学就读于211高校",
-      "onboard_time": 1750051400,
-      "rank": 44,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 132052,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1750040000,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118868,
+      "num": 253806,
+      "word": "黄觉说肖战这么火是有原因的",
+      "onboard_time": 1750052240,
+      "rank": 18,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 116470,
@@ -1332,7 +1404,7 @@
     },
     {
       "raw_hot": 89454,
-      "num": 252482,
+      "num": 254574,
       "word": "智己全球唯一全系配备四轮转向",
       "onboard_time": 1750050324,
       "rank": 18,
@@ -1515,20 +1587,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64849,
-      "num": 252234,
-      "word": "山东一景区推出窝囊版漂流",
-      "onboard_time": 1750050921,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63529,
       "num": 367891,
       "word": "伊朗地铁站等将供市民避难使用",
       "onboard_time": 1750048763,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 60880,
+      "num": 279923,
+      "word": "发生爆炸花炮厂曾被罚60.7万",
+      "onboard_time": 1750051880,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 59691,
@@ -1553,6 +1625,14 @@
       "onboard_time": 1750045222,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55413,
+      "num": 196480,
+      "word": "沙溢父亲节晒健身照自曝曾1年减36斤",
+      "onboard_time": 1750052601,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 54111,
@@ -1819,6 +1899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20966,
+      "num": 152584,
+      "word": "潘展乐运动潮男大片",
+      "onboard_time": 1750052060,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20596,
       "num": 20596,
       "word": "微博喜剧现场",
@@ -1913,6 +2001,9 @@
     },
     {
       "word": "#中国—中亚峰会#"
+    },
+    {
+      "word": "#习主席哈萨克斯坦之行#"
     }
   ]
 }
