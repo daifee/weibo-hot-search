@@ -1,0 +1,410 @@
+{
+  "runTime": 1750066246562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 797957,
+        "num": 1127673,
+        "word": "蓝盈莹气血充盈得溢出屏幕了",
+        "onboard_time": 1750061720,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460347,
+        "num": 460347,
+        "word": "12306回应一上高铁就睡觉是因缺氧",
+        "onboard_time": 1750057459,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17045,
+        "num": 453822,
+        "word": "中亚已成中国出境游新兴热门目的地",
+        "onboard_time": 1750065861,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1867949,
+        "num": 447536,
+        "word": "女儿实名举报交警继父",
+        "onboard_time": 1750062141,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582916,
+        "num": 442256,
+        "word": "哪吒2票房100元片方只拿33元",
+        "onboard_time": 1750059380,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1013041,
+        "num": 427320,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 563771,
+        "num": 418078,
+        "word": "周洁琼将参与ioi回归",
+        "onboard_time": 1750064481,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526028,
+        "num": 416380,
+        "word": "哈梅内伊",
+        "onboard_time": 1750061659,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 408817,
+        "num": 408817,
+        "word": "日本悠仁亲王被曝故意远离母亲",
+        "onboard_time": 1750060460,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50461,
+        "num": 388508,
+        "word": "多地回应国补额度告急",
+        "onboard_time": 1750064961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385718,
+        "num": 385718,
+        "word": "林依晨二胎得子",
+        "onboard_time": 1750048223,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339946,
+        "num": 339946,
+        "word": "外媒曝伊朗正准备一场大行动",
+        "onboard_time": 1750063941,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48043,
+        "num": 311182,
+        "word": "越来越小的女装还能卖多久",
+        "onboard_time": 1750064722,
+        "rank": 12,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 82503,
+        "num": 299724,
+        "word": "博主称法学新传是文科专业黄金赛道",
+        "onboard_time": 1750065082,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 46735,
+        "num": 297624,
+        "word": "让学生跪地写检讨教师已被停职检查",
+        "onboard_time": 1750065681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296577,
+        "num": 296577,
+        "word": "内娱瘦下来一个尹正怎么了",
+        "onboard_time": 1750051763,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274549,
+        "num": 274549,
+        "word": "贾冰老婆颜值",
+        "onboard_time": 1750065321,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267499,
+        "num": 267499,
+        "word": "给labubu照X光",
+        "onboard_time": 1750059741,
+        "rank": 17,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 263191,
+        "num": 263191,
+        "word": "几块钱一杯的咖啡不会亏本吗",
+        "onboard_time": 1750058720,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 28109,
+        "num": 258835,
+        "word": "伊朗和以色列为何从盟友变成死敌",
+        "onboard_time": 1750064481,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257969,
+        "num": 257969,
+        "word": "易烊千玺第一部男主剧",
+        "onboard_time": 1750056321,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257927,
+        "num": 257927,
+        "word": "不要在鸭子屁股下面乘凉",
+        "onboard_time": 1750062920,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252030,
+        "num": 252030,
+        "word": "云合",
+        "onboard_time": 1750061901,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250617,
+        "num": 250617,
+        "word": "前男友删除与韦雪有关视频",
+        "onboard_time": 1750050083,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249933,
+        "num": 249933,
+        "word": "樊振东小时候把对手打哭了一脸懵",
+        "onboard_time": 1750061359,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221423,
+        "num": 221423,
+        "word": "酱园弄赵丽颖原声台词",
+        "onboard_time": 1750059921,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219519,
+        "num": 219519,
+        "word": "范丞丞生日素颜直播",
+        "onboard_time": 1750065921,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212231,
+        "num": 212231,
+        "word": "伊朗总统重申伊朗不寻求核武器",
+        "onboard_time": 1750060341,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37609,
+        "num": 184215,
+        "word": "伊朗的短板不只是反特",
+        "onboard_time": 1750064961,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14388,
+        "num": 182567,
+        "word": "记者实探起底志愿规划师行业乱象",
+        "onboard_time": 1750064961,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257118,
+        "num": 182192,
+        "word": "月入过万一天工作14小时的真实生活",
+        "onboard_time": 1750065202,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181799,
+        "num": 181799,
+        "word": "央视曝光杀猪盘新套路",
+        "onboard_time": 1750063461,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176440,
+        "num": 176440,
+        "word": "俄罗斯宣布从伊朗撤侨",
+        "onboard_time": 1750057881,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172319,
+        "num": 172319,
+        "word": "你怎么还真有王安宇QQ",
+        "onboard_time": 1750065082,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167092,
+        "num": 167092,
+        "word": "白鹿被要求增肥",
+        "onboard_time": 1750065740,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164085,
+        "num": 164085,
+        "word": "不适合放入冰箱的水果",
+        "onboard_time": 1750063580,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 156663,
+        "num": 156663,
+        "word": "老师被曝让学生一字排开跪地写检讨",
+        "onboard_time": 1750050681,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155501,
+        "num": 155501,
+        "word": "十个勤天 大冰知识盲区",
+        "onboard_time": 1750063580,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151773,
+        "num": 151773,
+        "word": "女子报警称外国男友被海关扣押",
+        "onboard_time": 1750066041,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72381,
+        "num": 150568,
+        "word": "张国伟制作的打孩子机",
+        "onboard_time": 1750066102,
+        "rank": 39,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 44166,
+        "num": 150009,
+        "word": "中亚救护车司机感谢中国修建公路",
+        "onboard_time": 1750063760,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149933,
+        "num": 149933,
+        "word": "梁洁 甜心公主",
+        "onboard_time": 1750065261,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146398,
+        "num": 146398,
+        "word": "Labubu 审美",
+        "onboard_time": 1750055840,
+        "rank": 42,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 131437,
+        "num": 131437,
+        "word": "31支足球队征战川超",
+        "onboard_time": 1750061959,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129420,
+        "num": 129420,
+        "word": "特朗普拟对36国实施旅行禁令",
+        "onboard_time": 1750060460,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124192,
+        "num": 124192,
+        "word": "朱一龙倪妮疑似失去所有力气",
+        "onboard_time": 1750063580,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123285,
+        "num": 123285,
+        "word": "ILLIT回归MV",
+        "onboard_time": 1750066222,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120700,
+        "num": 120700,
+        "word": "檀健次我也没你微信啊",
+        "onboard_time": 1750064780,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116303,
+        "num": 116303,
+        "word": "微信能不能出个置底",
+        "onboard_time": 1750066102,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 113292,
+        "num": 113292,
+        "word": "任嘉伦蒋欣 海魂衫",
+        "onboard_time": 1750060221,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#阿斯塔纳热烈迎候习近平主席到访#"
+    }
+  }
+}
