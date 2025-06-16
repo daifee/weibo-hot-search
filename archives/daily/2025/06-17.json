@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750109108666,
+  "endTime": 1750110006436,
   "band_list": [
     {
       "raw_hot": 907175,
@@ -515,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25708,
+      "num": 37720,
+      "word": "警方通报28岁男子离家爬山后失联",
+      "onboard_time": 1750107913,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25098,
       "num": 73804,
       "word": "防不住根本防不住张子宇",
@@ -547,20 +555,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20692,
+      "num": 26410,
+      "word": "易烊千玺化了蓝色战损妆",
+      "onboard_time": 1750098074,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19946,
       "num": 19946,
       "word": "宋智雅不信男女之间有纯友情",
       "onboard_time": 1750103714,
       "rank": 34,
       "category": "网红"
-    },
-    {
-      "raw_hot": 19919,
-      "num": 26327,
-      "word": "易烊千玺化了蓝色战损妆",
-      "onboard_time": 1750098074,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 19604,
@@ -595,28 +603,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15554,
-      "num": 31753,
-      "word": "总台记者直击以色列伊朗大规模冲突",
-      "onboard_time": 1750101973,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 14353,
-      "num": 14353,
+      "raw_hot": 15569,
+      "num": 15569,
       "word": "街道办回应她的瞳剧组用激光笔清场",
       "onboard_time": 1750101854,
       "rank": 45,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12518,
-      "num": 37720,
-      "word": "警方通报28岁男子离家爬山后失联",
-      "onboard_time": 1750107913,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 15554,
+      "num": 31753,
+      "word": "总台记者直击以色列伊朗大规模冲突",
+      "onboard_time": 1750101973,
+      "rank": 12,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
