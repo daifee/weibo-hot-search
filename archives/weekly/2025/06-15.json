@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750081169223,
+  "endTime": 1750081933017,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -211,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1006027,
+      "num": 484159,
+      "word": "张子枫脸和身材各长各的",
+      "onboard_time": 1750079421,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 974312,
       "num": 974312,
       "word": "无锡队2比0常州队",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 960200,
-      "num": 416011,
+      "num": 477856,
       "word": "曝艺人参加综艺录制迟到12小时",
       "onboard_time": 1750066819,
       "rank": 23,
@@ -457,14 +465,6 @@
       "onboard_time": 1750048582,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 711865,
-      "num": 372714,
-      "word": "张子枫脸和身材各长各的",
-      "onboard_time": 1750079421,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 709632,
@@ -755,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 549668,
+      "num": 549668,
+      "word": "一骑红尘妃子笑读音",
+      "onboard_time": 1750076841,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 547877,
       "num": 547877,
       "word": "白鹿 临江仙值得",
@@ -865,6 +873,14 @@
       "onboard_time": 1749993322,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 501934,
+      "num": 501934,
+      "word": "我是军人啊难道不该以命换命吗",
+      "onboard_time": 1750076901,
+      "rank": 23,
+      "category": "正能量"
     },
     {
       "raw_hot": 495665,
@@ -1099,14 +1115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 411754,
-      "num": 433992,
-      "word": "我是军人啊难道不该以命换命吗",
-      "onboard_time": 1750076901,
-      "rank": 23,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 410329,
       "num": 357251,
       "word": "陈靖可 孙千",
@@ -1211,6 +1219,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 382457,
+      "num": 398097,
+      "word": "以总理称以军已掌控德黑兰领空",
+      "onboard_time": 1750079961,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 380569,
       "num": 380569,
       "word": "肖战藏海传重新认识古装剧",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1749915682,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373602,
+      "num": 496254,
+      "word": "一念江南",
+      "onboard_time": 1750079061,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 372469,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1750056801,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345972,
-      "num": 345972,
-      "word": "一骑红尘妃子笑读音",
-      "onboard_time": 1750076841,
-      "rank": 34,
-      "category": "科学科普"
     },
     {
       "raw_hot": 345363,
@@ -1472,14 +1488,6 @@
       "word": "张酸 反派",
       "onboard_time": 1750000702,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 326648,
-      "num": 326648,
-      "word": "一念江南",
-      "onboard_time": 1750079061,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1681,14 +1689,6 @@
       "onboard_time": 1749989481,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 281908,
-      "num": 398097,
-      "word": "以总理称以军已掌控德黑兰领空",
-      "onboard_time": 1750079961,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 281789,
@@ -1915,6 +1915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257887,
+      "num": 487857,
+      "word": "以总理威胁德黑兰市民立即撤离",
+      "onboard_time": 1750079721,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257748,
       "num": 253099,
       "word": "白鹿被要求增肥",
@@ -2131,14 +2139,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 230407,
-      "num": 408090,
-      "word": "以总理威胁德黑兰市民立即撤离",
-      "onboard_time": 1750079721,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 229388,
       "num": 229388,
       "word": "YG新女团",
@@ -2161,6 +2161,14 @@
       "onboard_time": 1749978741,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228199,
+      "num": 278877,
+      "word": "前男友与韦雪官宣后涨粉25万",
+      "onboard_time": 1750076240,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 228062,
@@ -2347,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210084,
+      "num": 233690,
+      "word": "喝了三杯才敢和刘亦菲说话",
+      "onboard_time": 1750080560,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209777,
       "num": 399459,
       "word": "王星越旁白父亲节短片太戳了",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1749991640,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 207938,
+      "num": 207938,
+      "word": "范丞丞给白鹿新剧做宣传",
+      "onboard_time": 1750081282,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 207871,
@@ -2635,14 +2659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196292,
-      "num": 205083,
-      "word": "前男友与韦雪官宣后涨粉25万",
-      "onboard_time": 1750076240,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 195850,
       "num": 149340,
       "word": "环保少女妹妹发性感视频",
@@ -2681,6 +2697,14 @@
       "onboard_time": 1749975141,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194846,
+      "num": 194846,
+      "word": "埃安",
+      "onboard_time": 1750076001,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 194770,
@@ -2753,6 +2777,14 @@
       "onboard_time": 1749961040,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191351,
+      "num": 191351,
+      "word": "身高2米26张子宇vs防守队员",
+      "onboard_time": 1750080741,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 190877,
@@ -2945,14 +2977,6 @@
       "onboard_time": 1750038558,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181072,
-      "num": 181072,
-      "word": "埃安",
-      "onboard_time": 1750076001,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 179932,
@@ -3259,14 +3283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170709,
-      "num": 205341,
-      "word": "喝了三杯才敢和刘亦菲说话",
-      "onboard_time": 1750080560,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169510,
       "num": 251743,
       "word": "ally大学就读于211高校",
@@ -3537,6 +3553,14 @@
       "onboard_time": 1749977960,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159573,
+      "num": 282036,
+      "word": "告诉贵妃她马上就能吃上荔枝了",
+      "onboard_time": 1750081522,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 159481,
@@ -3899,8 +3923,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146726,
-      "num": 146726,
+      "raw_hot": 147368,
+      "num": 150848,
       "word": "王安宇你敢问我都不敢听",
       "onboard_time": 1750081101,
       "rank": 41,
@@ -3987,6 +4011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142640,
+      "num": 142640,
+      "word": "伊朗武装部队警告以色列民众尽快撤离",
+      "onboard_time": 1750079781,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141478,
       "num": 141478,
       "word": "无畏进京了",
@@ -4001,6 +4033,14 @@
       "onboard_time": 1749955401,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141273,
+      "num": 142651,
+      "word": "一诺给周一点个赞",
+      "onboard_time": 1750081161,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 141013,
@@ -4259,6 +4299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134955,
+      "num": 134955,
+      "word": "杜淳老婆发文与剖腹产疤痕和解",
+      "onboard_time": 1750081581,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134765,
       "num": 184739,
       "word": "美在以色列海岸线部署数艘驱逐舰",
@@ -4299,20 +4347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133920,
-      "num": 133920,
-      "word": "伊朗武装部队警告以色列民众尽快撤离",
-      "onboard_time": 1750079781,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 133892,
       "num": 252234,
       "word": "山东一景区推出窝囊版漂流",
       "onboard_time": 1750050921,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133259,
+      "num": 133259,
+      "word": "马嘉祺所以开始既定重启的星期五3",
+      "onboard_time": 1750080922,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 133243,
@@ -4369,14 +4417,6 @@
       "onboard_time": 1749965780,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 132518,
-      "num": 132518,
-      "word": "身高2米26张子宇vs防守队员",
-      "onboard_time": 1750080741,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 132422,
@@ -4747,6 +4787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125004,
+      "num": 125004,
+      "word": "2公职人员涉犯罪被关仍领6.3万工资",
+      "onboard_time": 1750080322,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124461,
       "num": 124461,
       "word": "严浩翔微笑拒绝法则",
@@ -4963,14 +5011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120375,
-      "num": 120375,
-      "word": "马嘉祺所以开始既定重启的星期五3",
-      "onboard_time": 1750080922,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120175,
       "num": 120175,
       "word": "台湾网红馆长谈大陆行感受",
@@ -5089,14 +5129,6 @@
       "onboard_time": 1749983000,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117352,
-      "num": 117352,
-      "word": "2公职人员涉犯罪被关仍领6.3万工资",
-      "onboard_time": 1750080322,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117147,
@@ -5436,7 +5468,7 @@
     },
     {
       "raw_hot": 110477,
-      "num": 110477,
+      "num": 142643,
       "word": "两辆迈凯伦相撞",
       "onboard_time": 1750078281,
       "rank": 48,
@@ -5851,6 +5883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90589,
+      "num": 276735,
+      "word": "谁给的权力让学生下跪写检讨",
+      "onboard_time": 1750080982,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 90284,
       "num": 133266,
       "word": "关于我拍了十五年女友这件事",
@@ -5969,6 +6009,14 @@
       "onboard_time": 1749949760,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84216,
+      "num": 355237,
+      "word": "游客坐坏博物馆梵高椅后落荒而逃",
+      "onboard_time": 1750080382,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83059,
@@ -6169,14 +6217,6 @@
       "onboard_time": 1750003822,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 71234,
-      "num": 186424,
-      "word": "谁给的权力让学生下跪写检讨",
-      "onboard_time": 1750080982,
-      "rank": 33,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 69969,
@@ -6753,14 +6793,6 @@
       "onboard_time": 1749943096,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40698,
-      "num": 355237,
-      "word": "游客坐坏博物馆梵高椅后落荒而逃",
-      "onboard_time": 1750080382,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 40381,
@@ -7680,6 +7712,14 @@
       "word": "5月国民经济运行总体平稳稳中有进",
       "onboard_time": 1750063640,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6594,
+      "num": 821401,
+      "word": "京津冀产业带出征全球",
+      "onboard_time": 1750081882,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

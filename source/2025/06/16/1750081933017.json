@@ -1,0 +1,410 @@
+{
+  "runTime": 1750081933017,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2722031,
+        "num": 2722031,
+        "word": "涨工资的信号越来越明确",
+        "onboard_time": 1750077020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1004785,
+        "num": 1004785,
+        "word": "金建希因病情恶化住院",
+        "onboard_time": 1750077381,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6594,
+        "num": 821401,
+        "word": "京津冀产业带出征全球",
+        "onboard_time": 1750081882,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651489,
+        "num": 651489,
+        "word": "刘亦菲刘学义 咸雪",
+        "onboard_time": 1750076960,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549668,
+        "num": 549668,
+        "word": "一骑红尘妃子笑读音",
+        "onboard_time": 1750076841,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 512124,
+        "num": 512124,
+        "word": "泡泡玛特补货",
+        "onboard_time": 1750076422,
+        "rank": 5,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 501934,
+        "num": 501934,
+        "word": "我是军人啊难道不该以命换命吗",
+        "onboard_time": 1750076901,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 373602,
+        "num": 496254,
+        "word": "一念江南",
+        "onboard_time": 1750079061,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23680,
+        "num": 495953,
+        "word": "复兴路上弄潮儿",
+        "onboard_time": 1750071681,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257887,
+        "num": 487857,
+        "word": "以总理威胁德黑兰市民立即撤离",
+        "onboard_time": 1750079721,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1006027,
+        "num": 484159,
+        "word": "张子枫脸和身材各长各的",
+        "onboard_time": 1750079421,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 571008,
+        "num": 477856,
+        "word": "曝艺人参加综艺录制迟到12小时",
+        "onboard_time": 1750066819,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473275,
+        "num": 473275,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 12,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 382457,
+        "num": 382457,
+        "word": "以总理称以军已掌控德黑兰领空",
+        "onboard_time": 1750079961,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84216,
+        "num": 299004,
+        "word": "游客坐坏博物馆梵高椅后落荒而逃",
+        "onboard_time": 1750080382,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286132,
+        "num": 298239,
+        "word": "闫妮演易烊千玺的二表姑",
+        "onboard_time": 1750078103,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297924,
+        "num": 297924,
+        "word": "校园贷借款8万还了14万还欠100万",
+        "onboard_time": 1750073421,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159573,
+        "num": 282036,
+        "word": "告诉贵妃她马上就能吃上荔枝了",
+        "onboard_time": 1750081522,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228199,
+        "num": 278877,
+        "word": "前男友与韦雪官宣后涨粉25万",
+        "onboard_time": 1750076240,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 90589,
+        "num": 276735,
+        "word": "谁给的权力让学生下跪写检讨",
+        "onboard_time": 1750080982,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 276730,
+        "num": 276730,
+        "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
+        "onboard_time": 1750067782,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 252046,
+        "num": 252046,
+        "word": "朱丹说鸡腿给两个弟弟吃",
+        "onboard_time": 1750072161,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210084,
+        "num": 233690,
+        "word": "喝了三杯才敢和刘亦菲说话",
+        "onboard_time": 1750080560,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227821,
+        "num": 227821,
+        "word": "印度少年拍到坠机后受严重心理创伤",
+        "onboard_time": 1750070360,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210000,
+        "num": 210000,
+        "word": "34岁女子爱生闷气血管堵90%",
+        "onboard_time": 1750067961,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207938,
+        "num": 207938,
+        "word": "范丞丞给白鹿新剧做宣传",
+        "onboard_time": 1750081282,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199617,
+        "num": 199617,
+        "word": "唐梓有初代绝版labubu",
+        "onboard_time": 1750069102,
+        "rank": 26,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 194846,
+        "num": 194846,
+        "word": "埃安",
+        "onboard_time": 1750076001,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147405,
+        "num": 191386,
+        "word": "长安的荔枝22集含金量",
+        "onboard_time": 1750078940,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191351,
+        "num": 191351,
+        "word": "身高2米26张子宇vs防守队员",
+        "onboard_time": 1750080741,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185292,
+        "num": 185292,
+        "word": "中国不参与军备竞赛",
+        "onboard_time": 1750075820,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177582,
+        "num": 177582,
+        "word": "以军对伊朗中部开始新一轮空袭",
+        "onboard_time": 1750078402,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159187,
+        "num": 159187,
+        "word": "以色列",
+        "onboard_time": 1750079902,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143382,
+        "num": 152252,
+        "word": "魏哲鸣刘些宁三搭终于演上情侣",
+        "onboard_time": 1750077981,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147368,
+        "num": 150848,
+        "word": "王安宇你敢问我都不敢听",
+        "onboard_time": 1750081101,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149889,
+        "num": 149889,
+        "word": "男子误将502当眼药水滴入右眼",
+        "onboard_time": 1750068621,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148190,
+        "num": 148190,
+        "word": "BLG官宣Wei离队",
+        "onboard_time": 1750074141,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142965,
+        "num": 142965,
+        "word": "赵丽颖原声台词 评论区",
+        "onboard_time": 1750066280,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141273,
+        "num": 142651,
+        "word": "一诺给周一点个赞",
+        "onboard_time": 1750081161,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65472,
+        "num": 142643,
+        "word": "两辆迈凯伦相撞",
+        "onboard_time": 1750078281,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142640,
+        "num": 142640,
+        "word": "伊朗武装部队警告以色列民众尽快撤离",
+        "onboard_time": 1750079781,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134955,
+        "num": 134955,
+        "word": "杜淳老婆发文与剖腹产疤痕和解",
+        "onboard_time": 1750081581,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133259,
+        "num": 133259,
+        "word": "马嘉祺所以开始既定重启的星期五3",
+        "onboard_time": 1750080922,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130340,
+        "num": 130340,
+        "word": "易烊千玺闪现酱园弄路演现场",
+        "onboard_time": 1750079902,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130206,
+        "num": 130206,
+        "word": "道崽回应",
+        "onboard_time": 1750072520,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125004,
+        "num": 125004,
+        "word": "2公职人员涉犯罪被关仍领6.3万工资",
+        "onboard_time": 1750080322,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118361,
+        "num": 118361,
+        "word": "月入5万女生辞职后陪父亲淘粪",
+        "onboard_time": 1750067483,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117051,
+        "num": 117051,
+        "word": "孙颖莎最想搭混双的外国球员是波尔",
+        "onboard_time": 1750069281,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115419,
+        "num": 115419,
+        "word": "宋小宝赵本山 老年版王嘉尔陈冠希",
+        "onboard_time": 1750080202,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111830,
+        "num": 111830,
+        "word": "外媒曝伊朗正准备一场大行动",
+        "onboard_time": 1750063941,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同迎接六国更加美好的明天#"
+    }
+  }
+}
