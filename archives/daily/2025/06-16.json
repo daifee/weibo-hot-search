@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750059728426,
+  "endTime": 1750062962199,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -73,6 +73,14 @@
       "onboard_time": 1750050083,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 783495,
+      "num": 783495,
+      "word": "12306回应一上高铁就睡觉是因缺氧",
+      "onboard_time": 1750057459,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 764911,
@@ -163,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594885,
+      "num": 594885,
+      "word": "哪吒2票房100元片方只拿33元",
+      "onboard_time": 1750059380,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 582999,
       "num": 250697,
       "word": "小英和老公吵架",
@@ -212,11 +228,19 @@
     },
     {
       "raw_hot": 532275,
-      "num": 359633,
+      "num": 413329,
       "word": "易烊千玺第一部男主剧",
       "onboard_time": 1750056321,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 513615,
+      "num": 243654,
+      "word": "日本悠仁亲王被曝故意远离母亲",
+      "onboard_time": 1750060460,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 494326,
@@ -315,6 +339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 417542,
+      "num": 368751,
+      "word": "女儿实名举报交警继父",
+      "onboard_time": 1750062141,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 411756,
       "num": 411756,
       "word": "以色列国家安全观已发生转变",
@@ -363,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386285,
+      "num": 386285,
+      "word": "伊朗总统重申伊朗不寻求核武器",
+      "onboard_time": 1750060341,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 385818,
       "num": 385818,
       "word": "长安的荔枝奋荔一搏海报",
@@ -377,6 +417,14 @@
       "onboard_time": 1750042939,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 372774,
+      "num": 372774,
+      "word": "给labubu照X光",
+      "onboard_time": 1750059741,
+      "rank": 9,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 372469,
@@ -427,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345363,
+      "num": 345363,
+      "word": "酱园弄赵丽颖原声台词",
+      "onboard_time": 1750059921,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 342654,
       "num": 294117,
       "word": "那尔那茜走红之路多个疑点待彻查",
@@ -440,14 +496,6 @@
       "word": "去年在园儿童减少500多万",
       "onboard_time": 1750032200,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326650,
-      "num": 326650,
-      "word": "12306回应一上高铁就睡觉是因缺氧",
-      "onboard_time": 1750057459,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -481,6 +529,14 @@
       "onboard_time": 1749994522,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306149,
+      "num": 306149,
+      "word": "蓝盈莹气血充盈得溢出屏幕了",
+      "onboard_time": 1750061720,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 299850,
@@ -547,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269751,
+      "num": 269751,
+      "word": "哈梅内伊",
+      "onboard_time": 1750061659,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 268741,
       "num": 268741,
       "word": "王俊凯时尚芭莎七月刊封面",
@@ -579,6 +643,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 255310,
+      "num": 271269,
+      "word": "山科大再回应禁用红米手机考试",
+      "onboard_time": 1750058359,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254454,
       "num": 254454,
       "word": "惠英红误入精神病院",
@@ -601,6 +673,14 @@
       "onboard_time": 1750044862,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243395,
+      "num": 255311,
+      "word": "云合",
+      "onboard_time": 1750061901,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 243173,
@@ -787,20 +867,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202500,
-      "num": 271269,
-      "word": "山科大再回应禁用红米手机考试",
-      "onboard_time": 1750058359,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200848,
       "num": 200848,
       "word": "王鹤棣粉丝向咸鱼飞升剧组维权",
       "onboard_time": 1750058840,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199417,
+      "num": 199417,
+      "word": "几块钱一杯的咖啡不会亏本吗",
+      "onboard_time": 1750058720,
+      "rank": 46,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 198666,
@@ -825,6 +905,14 @@
       "onboard_time": 1750045819,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 191899,
+      "num": 191899,
+      "word": "樊振东小时候把对手打哭了一脸懵",
+      "onboard_time": 1750061359,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 190877,
@@ -969,6 +1057,14 @@
       "onboard_time": 1750045101,
       "rank": 40,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 164229,
+      "num": 164229,
+      "word": "任嘉伦蒋欣 海魂衫",
+      "onboard_time": 1750060221,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 164130,
@@ -1147,14 +1243,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 151143,
-      "num": 151143,
-      "word": "哪吒2票房100元片方只拿33元",
-      "onboard_time": 1750059380,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 150685,
       "num": 150685,
       "word": "适合00后的工作经验",
@@ -1211,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145074,
-      "num": 145074,
-      "word": "几块钱一杯的咖啡不会亏本吗",
-      "onboard_time": 1750058720,
-      "rank": 46,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 144677,
       "num": 144677,
       "word": "张婧仪周翊然你俩甜得不像演的",
@@ -1249,6 +1329,22 @@
       "onboard_time": 1750051699,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139799,
+      "num": 139799,
+      "word": "31支足球队征战川超",
+      "onboard_time": 1750061959,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 138876,
+      "num": 138876,
+      "word": "建议大家七八月的时候不要轻易离职",
+      "onboard_time": 1750059440,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 137926,
@@ -1411,6 +1507,14 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 128205,
+      "num": 128205,
+      "word": "临江仙周二加更",
+      "onboard_time": 1750062201,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127830,
       "num": 174094,
       "word": "中亚草原上的中国风车",
@@ -1451,12 +1555,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122572,
+      "num": 122572,
+      "word": "不要在鸭子屁股下面乘凉",
+      "onboard_time": 1750062920,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120532,
       "num": 134607,
       "word": "Fly晋级MSI",
       "onboard_time": 1750056499,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120061,
+      "num": 120061,
+      "word": "中哈两国国旗高高飘扬",
+      "onboard_time": 1750060280,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119974,
@@ -1483,6 +1603,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 118073,
+      "num": 118073,
+      "word": "最好的养生其实就两个字",
+      "onboard_time": 1750060941,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116990,
       "num": 136506,
       "word": "伊朗反击打下的不仅有F35",
@@ -1505,14 +1633,6 @@
       "onboard_time": 1749997462,
       "rank": 40,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 115898,
-      "num": 115898,
-      "word": "建议大家七八月的时候不要轻易离职",
-      "onboard_time": 1750059440,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 115770,
@@ -1625,6 +1745,14 @@
       "onboard_time": 1750055901,
       "rank": 35,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 106806,
+      "num": 138712,
+      "word": "19岁外卖小哥哭诉后悔没好好读书",
+      "onboard_time": 1750060941,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106043,
@@ -1745,6 +1873,14 @@
       "onboard_time": 1750040779,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87455,
+      "num": 316602,
+      "word": "波音公司下调未来20年飞机需求预测",
+      "onboard_time": 1750061120,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87172,
@@ -1947,6 +2083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63503,
+      "num": 321151,
+      "word": "醉驾超速致一家3口死亡案家属发声",
+      "onboard_time": 1750062440,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60880,
       "num": 279923,
       "word": "发生爆炸花炮厂曾被罚60.7万",
@@ -1969,6 +2113,14 @@
       "onboard_time": 1750026436,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56628,
+      "num": 262356,
+      "word": "高盛看好中国十巨头股票",
+      "onboard_time": 1750057162,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 55425,
@@ -2171,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35486,
+      "num": 318274,
+      "word": "11岁男孩心愿是给病父买导尿管",
+      "onboard_time": 1750061419,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34378,
       "num": 42601,
       "word": "以色列全国紧急状态延至月底",
@@ -2179,10 +2339,26 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33374,
+      "num": 312642,
+      "word": "黑户男子27年的挣扎",
+      "onboard_time": 1750061359,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33254,
       "num": 143872,
       "word": "波尔谢幕战点燃全球乒坛",
       "onboard_time": 1750050862,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33101,
+      "num": 135886,
+      "word": "苏超球迷赛后自发清垃圾",
+      "onboard_time": 1750062021,
       "rank": 39,
       "category": "体育"
     },
@@ -2249,6 +2425,14 @@
       "onboard_time": 1750018874,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27454,
+      "num": 130150,
+      "word": "哪些人群易得尿路感染",
+      "onboard_time": 1750061419,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27187,
@@ -2347,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20756,
+      "num": 310885,
+      "word": "高考志愿听父母的还是选自己喜欢的",
+      "onboard_time": 1750062021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20596,
       "num": 20596,
       "word": "微博喜剧现场",
@@ -2393,6 +2585,14 @@
       "onboard_time": 1750016054,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13561,
+      "num": 255310,
+      "word": "村民哄抢农场土豆",
+      "onboard_time": 1750062739,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13171,
@@ -2448,6 +2648,14 @@
       "word": "穆勒周通赛后互动",
       "onboard_time": 1750046120,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6683,
+      "num": 314744,
+      "word": "灰熊魔术交易究竟谁赚了",
+      "onboard_time": 1750062680,
+      "rank": 17,
       "category": "体育"
     }
   ],
