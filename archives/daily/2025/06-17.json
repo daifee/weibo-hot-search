@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750095763797,
+  "endTime": 1750098995357,
   "band_list": [
     {
       "raw_hot": 907175,
@@ -169,6 +169,14 @@
       "onboard_time": 1750079961,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122229,
+      "num": 122229,
+      "word": "短剧男主回应一胎99子剧情",
+      "onboard_time": 1750093277,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 121136,
@@ -355,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72494,
+      "num": 50907,
+      "word": "Wolves获胜",
+      "onboard_time": 1750097655,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72090,
       "num": 72090,
       "word": "韩国人怎么看中国女团RED",
@@ -369,14 +385,6 @@
       "onboard_time": 1750074141,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 71012,
-      "num": 71012,
-      "word": "短剧男主回应一胎99子剧情",
-      "onboard_time": 1750093277,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 68694,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29088,
+      "num": 29088,
+      "word": "易烊千玺刚结束发布会就来路演",
+      "onboard_time": 1750098735,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28003,
       "num": 41035,
       "word": "孙颖莎最想搭混双的外国球员是波尔",
@@ -491,12 +507,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16917,
+      "raw_hot": 24496,
+      "num": 24496,
+      "word": "红绿灯的黄海外直播1场打赏超71万",
+      "onboard_time": 1750096096,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 23930,
+      "num": 27645,
+      "word": "以色列海法炼油厂再遭袭",
+      "onboard_time": 1750097535,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23813,
       "num": 65253,
       "word": "哈战机升空护航",
       "onboard_time": 1750095496,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17605,
+      "num": 22725,
+      "word": "莱巴金娜说郑钦文是个强劲的对手",
+      "onboard_time": 1750097056,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15831,
+      "num": 24493,
+      "word": "中哈元首握手合影",
+      "onboard_time": 1750086441,
+      "rank": 42,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
