@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750085128092,
+  "endTime": 1750087758033,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1553,6 +1553,14 @@
       "onboard_time": 1749383901,
       "rank": 3,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 1342302,
+      "num": 361949,
+      "word": "曾舜晞梁永棋去探班白鹿了",
+      "onboard_time": 1750085782,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1336827,
@@ -3625,6 +3633,14 @@
       "onboard_time": 1749127760,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 838925,
+      "num": 1134228,
+      "word": "我是军人啊难道不该以命换命吗",
+      "onboard_time": 1750076901,
+      "rank": 23,
+      "category": "正能量"
     },
     {
       "raw_hot": 836852,
@@ -6899,14 +6915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540351,
-      "num": 1086456,
-      "word": "我是军人啊难道不该以命换命吗",
-      "onboard_time": 1750076901,
-      "rank": 23,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 539898,
       "num": 539898,
       "word": "苏超排名",
@@ -7737,6 +7745,14 @@
       "onboard_time": 1749211161,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 492432,
+      "num": 285468,
+      "word": "易烊千玺叫章子怡姐姐",
+      "onboard_time": 1750086621,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 492305,
@@ -8659,6 +8675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448467,
+      "num": 448467,
+      "word": "喝了三杯才敢和刘亦菲说话",
+      "onboard_time": 1750080560,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448278,
       "num": 448278,
       "word": "特朗普对马斯克非常失望",
@@ -9337,14 +9361,6 @@
       "onboard_time": 1749451641,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 417904,
-      "num": 417904,
-      "word": "喝了三杯才敢和刘亦菲说话",
-      "onboard_time": 1750080560,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 417672,
@@ -14211,6 +14227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 282187,
+      "num": 300828,
+      "word": "王安宇你敢问我都不敢听",
+      "onboard_time": 1750081101,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282030,
       "num": 282030,
       "word": "C罗发六个感叹号庆祝夺冠",
@@ -17817,6 +17841,14 @@
       "onboard_time": 1748957662,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226981,
+      "num": 226981,
+      "word": "章子怡邀请易烊千玺再次合作",
+      "onboard_time": 1750084102,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 226966,
@@ -22403,6 +22435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195416,
+      "num": 227105,
+      "word": "卓沅直播",
+      "onboard_time": 1750086621,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195392,
       "num": 195392,
       "word": "方可给迪丽热巴做的千禧发型",
@@ -22539,14 +22579,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 194382,
-      "num": 300828,
-      "word": "王安宇你敢问我都不敢听",
-      "onboard_time": 1750081101,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194365,
       "num": 194365,
       "word": "欧阳娜娜审美",
@@ -22673,6 +22705,14 @@
       "onboard_time": 1749622761,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193401,
+      "num": 188151,
+      "word": "男子卖茅台7年多近期转型卖拉布布",
+      "onboard_time": 1750085482,
+      "rank": 26,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 193336,
@@ -23657,6 +23697,14 @@
       "onboard_time": 1749833959,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188851,
+      "num": 188851,
+      "word": "当代年轻人心选的明星TOP10",
+      "onboard_time": 1750087101,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 188765,
@@ -24665,6 +24713,14 @@
       "onboard_time": 1748830339,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183717,
+      "num": 183717,
+      "word": "中国女篮2米26小将大杀四方",
+      "onboard_time": 1750085662,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 183657,
@@ -25905,14 +25961,6 @@
       "onboard_time": 1749378801,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176379,
-      "num": 189550,
-      "word": "章子怡邀请易烊千玺再次合作",
-      "onboard_time": 1750084102,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 176266,
@@ -27889,6 +27937,14 @@
       "onboard_time": 1749224184,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166952,
+      "num": 166952,
+      "word": "哈哈哈哈哈",
+      "onboard_time": 1750084821,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 166951,
@@ -32179,6 +32235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148007,
+      "num": 148007,
+      "word": "网友开始演藏海传",
+      "onboard_time": 1750086322,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147958,
       "num": 221395,
       "word": "网红歌手段煜离世好友发声",
@@ -35641,14 +35705,6 @@
       "onboard_time": 1749914722,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134947,
-      "num": 134947,
-      "word": "哈哈哈哈哈",
-      "onboard_time": 1750084821,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 134932,
@@ -40971,6 +41027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114690,
+      "num": 313076,
+      "word": "泡泡玛特盲盒代摇生意火爆",
+      "onboard_time": 1750084581,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114648,
       "num": 114648,
       "word": "临江仙当年的事各有难处",
@@ -42347,6 +42411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108509,
+      "num": 108509,
+      "word": "雷军谈小米汽车成功原因",
+      "onboard_time": 1750085422,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 108493,
       "num": 152361,
       "word": "市监局对星巴克疑喝出蟑螂不予立案",
@@ -42849,6 +42921,14 @@
       "onboard_time": 1748931141,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105521,
+      "num": 105521,
+      "word": "许佳琪廖慧佳直播蛐蛐代高政",
+      "onboard_time": 1750087342,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 105512,
@@ -49203,6 +49283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66283,
+      "num": 235708,
+      "word": "拌黄瓜厨师被公司起诉竞业违约",
+      "onboard_time": 1750086621,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 66236,
       "num": 108859,
       "word": "董倩谈王楚钦巴黎奥运止步32强",
@@ -50025,6 +50113,14 @@
       "onboard_time": 1749972680,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59980,
+      "num": 226995,
+      "word": "男子养了10年的女儿竟不是亲生的",
+      "onboard_time": 1750087401,
+      "rank": 22,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 59960,
@@ -54611,14 +54707,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 35363,
-      "num": 313076,
-      "word": "泡泡玛特盲盒代摇生意火爆",
-      "onboard_time": 1750084581,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35310,
       "num": 497677,
       "word": "经常漂染头发有什么影响",
@@ -55457,6 +55545,14 @@
       "onboard_time": 1750066280,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31614,
+      "num": 282192,
+      "word": "8岁失去妈妈的男孩29岁捐髓救人",
+      "onboard_time": 1750087162,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31539,
@@ -56521,6 +56617,14 @@
       "onboard_time": 1749598279,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27553,
+      "num": 231015,
+      "word": "伊朗是否已完全丧失制空权",
+      "onboard_time": 1750087283,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 27540,
