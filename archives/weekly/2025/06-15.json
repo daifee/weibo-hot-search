@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750081933017,
+  "endTime": 1750084058763,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 798153,
-      "num": 798153,
+      "num": 1094099,
       "word": "刘亦菲刘学义 咸雪",
       "onboard_time": 1750076960,
       "rank": 1,
@@ -505,6 +505,14 @@
       "onboard_time": 1749920479,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 693303,
+      "num": 420154,
+      "word": "前男友与韦雪官宣后涨粉25万",
+      "onboard_time": 1750076240,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 684488,
@@ -1051,6 +1059,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 431116,
+      "num": 431116,
+      "word": "以总理称以军已掌控德黑兰领空",
+      "onboard_time": 1750079961,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 423520,
       "num": 423520,
       "word": "王安宇昧着良心说了一段高情商的话",
@@ -1083,6 +1099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 417904,
+      "num": 417904,
+      "word": "喝了三杯才敢和刘亦菲说话",
+      "onboard_time": 1750080560,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416129,
       "num": 332855,
       "word": "刘宇宁 没收到过剧本",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1749962001,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415742,
+      "num": 415742,
+      "word": "身高2米26张子宇vs防守队员",
+      "onboard_time": 1750080741,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 415278,
@@ -1211,20 +1243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383380,
+      "num": 425157,
+      "word": "范丞丞给白鹿新剧做宣传",
+      "onboard_time": 1750081282,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382889,
       "num": 382889,
       "word": "重庆震感",
       "onboard_time": 1749984921,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 382457,
-      "num": 398097,
-      "word": "以总理称以军已掌控德黑兰领空",
-      "onboard_time": 1750079961,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 380569,
@@ -1529,6 +1561,14 @@
       "onboard_time": 1750053621,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309220,
+      "num": 487857,
+      "word": "以总理威胁德黑兰市民立即撤离",
+      "onboard_time": 1750079721,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 307543,
@@ -1915,14 +1955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 257887,
-      "num": 487857,
-      "word": "以总理威胁德黑兰市民立即撤离",
-      "onboard_time": 1750079721,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 257748,
       "num": 253099,
       "word": "白鹿被要求增肥",
@@ -2163,14 +2195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228199,
-      "num": 278877,
-      "word": "前男友与韦雪官宣后涨粉25万",
-      "onboard_time": 1750076240,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 228062,
       "num": 228062,
       "word": "贺峻霖 包的兄弟",
@@ -2355,14 +2379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210084,
-      "num": 233690,
-      "word": "喝了三杯才敢和刘亦菲说话",
-      "onboard_time": 1750080560,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209777,
       "num": 399459,
       "word": "王星越旁白父亲节短片太戳了",
@@ -2419,20 +2435,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 207938,
-      "num": 207938,
-      "word": "范丞丞给白鹿新剧做宣传",
-      "onboard_time": 1750081282,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207871,
       "num": 207871,
       "word": "上海老年人相亲有多直接",
       "onboard_time": 1749961941,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207545,
+      "num": 415909,
+      "word": "伊朗武装部队警告以色列民众尽快撤离",
+      "onboard_time": 1750079781,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207353,
@@ -2779,14 +2795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191351,
-      "num": 191351,
-      "word": "身高2米26张子宇vs防守队员",
-      "onboard_time": 1750080741,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190877,
       "num": 190877,
       "word": "曾舜晞少跟梁永棋玩",
@@ -2833,6 +2841,14 @@
       "onboard_time": 1749966860,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188625,
+      "num": 167287,
+      "word": "章子怡和杨幂都有cp名了",
+      "onboard_time": 1750082242,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 188011,
@@ -2961,6 +2977,14 @@
       "onboard_time": 1749917422,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181725,
+      "num": 353536,
+      "word": "10年了李必心里还有张小敬",
+      "onboard_time": 1750083742,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 181628,
@@ -3307,6 +3331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168931,
+      "num": 168931,
+      "word": "王安宇你敢问我都不敢听",
+      "onboard_time": 1750081101,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168794,
       "num": 168794,
       "word": "至少30架美军机正跨越大西洋",
@@ -3353,6 +3385,14 @@
       "onboard_time": 1749986600,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167278,
+      "num": 167278,
+      "word": "1胎99子短剧已被下架",
+      "onboard_time": 1750082242,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 167245,
@@ -3409,6 +3449,14 @@
       "onboard_time": 1749989662,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164363,
+      "num": 164363,
+      "word": "樊振东点赞波尔",
+      "onboard_time": 1750082003,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 164229,
@@ -3601,6 +3649,14 @@
       "onboard_time": 1749979700,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158528,
+      "num": 276735,
+      "word": "谁给的权力让学生下跪写检讨",
+      "onboard_time": 1750080982,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 157940,
@@ -3851,6 +3907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150350,
+      "num": 150350,
+      "word": "杜淳老婆发文与剖腹产疤痕和解",
+      "onboard_time": 1750081581,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150181,
       "num": 150181,
       "word": "虞书欣把头发盘成蝴蝶结",
@@ -3921,14 +3985,6 @@
       "onboard_time": 1749958340,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147368,
-      "num": 150848,
-      "word": "王安宇你敢问我都不敢听",
-      "onboard_time": 1750081101,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 146346,
@@ -4009,14 +4065,6 @@
       "onboard_time": 1749969860,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142640,
-      "num": 142640,
-      "word": "伊朗武装部队警告以色列民众尽快撤离",
-      "onboard_time": 1750079781,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141478,
@@ -4299,14 +4347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134955,
-      "num": 134955,
-      "word": "杜淳老婆发文与剖腹产疤痕和解",
-      "onboard_time": 1750081581,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134765,
       "num": 184739,
       "word": "美在以色列海岸线部署数艘驱逐舰",
@@ -4563,6 +4603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129637,
+      "num": 129637,
+      "word": "WeGame2025游戏之夜",
+      "onboard_time": 1750083384,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129420,
       "num": 306534,
       "word": "特朗普拟对36国实施旅行禁令",
@@ -4713,6 +4761,14 @@
       "onboard_time": 1749917902,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126434,
+      "num": 126434,
+      "word": "网友票选内娱赘婿图鉴",
+      "onboard_time": 1750083021,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 126388,
@@ -5073,6 +5129,14 @@
       "onboard_time": 1750052240,
       "rank": 18,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 118802,
+      "num": 321506,
+      "word": "上班爱吐槽的人不容易离职",
+      "onboard_time": 1750082602,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118688,
@@ -5595,6 +5659,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 107190,
+      "num": 107190,
+      "word": "韩国人怎么看中国女团RED",
+      "onboard_time": 1750082483,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105402,
       "num": 104398,
       "word": "丁程鑫睡宋亚轩刘耀文中间",
@@ -5664,6 +5736,14 @@
       "word": "梁伟铿为母校打call",
       "onboard_time": 1749972140,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102139,
+      "num": 102139,
+      "word": "申台龙回应执教国足",
+      "onboard_time": 1750084043,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -5881,14 +5961,6 @@
       "onboard_time": 1750003702,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90589,
-      "num": 276735,
-      "word": "谁给的权力让学生下跪写检讨",
-      "onboard_time": 1750080982,
-      "rank": 33,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 90284,
@@ -6128,6 +6200,14 @@
       "word": "迈凯伦内斗撞车诺里斯退赛",
       "onboard_time": 1750040660,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77412,
+      "num": 123806,
+      "word": "防不住根本防不住张子宇",
+      "onboard_time": 1750083683,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -6763,6 +6843,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 42179,
+      "num": 484038,
+      "word": "一组数据看中国经济稳中有进",
+      "onboard_time": 1750082842,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41589,
       "num": 251409,
       "word": "女子称吃海底捞未来日期麻酱致腹泻",
@@ -6809,6 +6897,22 @@
       "onboard_time": 1750062739,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39590,
+      "num": 167314,
+      "word": "金毛治病花六千保险只报一千五",
+      "onboard_time": 1750083263,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39204,
+      "num": 167295,
+      "word": "胡锡进称伊以双方在打舆论战",
+      "onboard_time": 1750082903,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39106,
@@ -7129,6 +7233,14 @@
       "onboard_time": 1749996322,
       "rank": 39,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 28391,
+      "num": 422590,
+      "word": "中国连续16年为非洲最大贸易伙伴国",
+      "onboard_time": 1750083683,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28235,

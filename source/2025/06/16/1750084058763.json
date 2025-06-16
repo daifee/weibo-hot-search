@@ -1,0 +1,410 @@
+{
+  "runTime": 1750084058763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 588124,
+        "num": 1094099,
+        "word": "刘亦菲刘学义 咸雪",
+        "onboard_time": 1750076960,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 530024,
+        "num": 530024,
+        "word": "一骑红尘妃子笑读音",
+        "onboard_time": 1750076841,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 42179,
+        "num": 484038,
+        "word": "一组数据看中国经济稳中有进",
+        "onboard_time": 1750082842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2020918,
+        "num": 477714,
+        "word": "涨工资的信号越来越明确",
+        "onboard_time": 1750077020,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466786,
+        "num": 466786,
+        "word": "我是军人啊难道不该以命换命吗",
+        "onboard_time": 1750076901,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 771761,
+        "num": 465807,
+        "word": "金建希因病情恶化住院",
+        "onboard_time": 1750077381,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 431116,
+        "num": 431116,
+        "word": "以总理称以军已掌控德黑兰领空",
+        "onboard_time": 1750079961,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 425167,
+        "num": 425167,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 383380,
+        "num": 425157,
+        "word": "范丞丞给白鹿新剧做宣传",
+        "onboard_time": 1750081282,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28391,
+        "num": 422590,
+        "word": "中国连续16年为非洲最大贸易伙伴国",
+        "onboard_time": 1750083683,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 947635,
+        "num": 421865,
+        "word": "张子枫脸和身材各长各的",
+        "onboard_time": 1750079421,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 693303,
+        "num": 420154,
+        "word": "前男友与韦雪官宣后涨粉25万",
+        "onboard_time": 1750076240,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 468709,
+        "num": 419292,
+        "word": "曝艺人参加综艺录制迟到12小时",
+        "onboard_time": 1750066819,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417904,
+        "num": 417904,
+        "word": "喝了三杯才敢和刘亦菲说话",
+        "onboard_time": 1750080560,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207545,
+        "num": 415909,
+        "word": "伊朗武装部队警告以色列民众尽快撤离",
+        "onboard_time": 1750079781,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 275820,
+        "num": 415816,
+        "word": "一念江南",
+        "onboard_time": 1750079061,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209542,
+        "num": 415743,
+        "word": "闫妮演易烊千玺的二表姑",
+        "onboard_time": 1750078103,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415742,
+        "num": 415742,
+        "word": "身高2米26张子宇vs防守队员",
+        "onboard_time": 1750080741,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181725,
+        "num": 353536,
+        "word": "10年了李必心里还有张小敬",
+        "onboard_time": 1750083742,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118802,
+        "num": 321506,
+        "word": "上班爱吐槽的人不容易离职",
+        "onboard_time": 1750082602,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309220,
+        "num": 309220,
+        "word": "以总理威胁德黑兰市民立即撤离",
+        "onboard_time": 1750079721,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289165,
+        "num": 289165,
+        "word": "泡泡玛特补货",
+        "onboard_time": 1750076422,
+        "rank": 21,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 280578,
+        "num": 280578,
+        "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
+        "onboard_time": 1750067782,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257361,
+        "num": 257361,
+        "word": "以色列",
+        "onboard_time": 1750079902,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 234697,
+        "num": 234697,
+        "word": "34岁女子爱生闷气血管堵90%",
+        "onboard_time": 1750067961,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234139,
+        "num": 234139,
+        "word": "校园贷借款8万还了14万还欠100万",
+        "onboard_time": 1750073421,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191397,
+        "num": 191397,
+        "word": "朱丹说鸡腿给两个弟弟吃",
+        "onboard_time": 1750072161,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168931,
+        "num": 168931,
+        "word": "王安宇你敢问我都不敢听",
+        "onboard_time": 1750081101,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39590,
+        "num": 167314,
+        "word": "金毛治病花六千保险只报一千五",
+        "onboard_time": 1750083263,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39204,
+        "num": 167295,
+        "word": "胡锡进称伊以双方在打舆论战",
+        "onboard_time": 1750082903,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188625,
+        "num": 167287,
+        "word": "章子怡和杨幂都有cp名了",
+        "onboard_time": 1750082242,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167278,
+        "num": 167278,
+        "word": "1胎99子短剧已被下架",
+        "onboard_time": 1750082242,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164363,
+        "num": 164363,
+        "word": "樊振东点赞波尔",
+        "onboard_time": 1750082003,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158528,
+        "num": 158528,
+        "word": "谁给的权力让学生下跪写检讨",
+        "onboard_time": 1750080982,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 150350,
+        "num": 150350,
+        "word": "杜淳老婆发文与剖腹产疤痕和解",
+        "onboard_time": 1750081581,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149118,
+        "num": 149118,
+        "word": "男子误将502当眼药水滴入右眼",
+        "onboard_time": 1750068621,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129637,
+        "num": 129637,
+        "word": "WeGame2025游戏之夜",
+        "onboard_time": 1750083384,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128722,
+        "num": 128722,
+        "word": "BLG官宣Wei离队",
+        "onboard_time": 1750074141,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128606,
+        "num": 128606,
+        "word": "赵丽颖原声台词 评论区",
+        "onboard_time": 1750066280,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126434,
+        "num": 126434,
+        "word": "网友票选内娱赘婿图鉴",
+        "onboard_time": 1750083021,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125667,
+        "num": 125667,
+        "word": "道崽回应",
+        "onboard_time": 1750072520,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77412,
+        "num": 123806,
+        "word": "防不住根本防不住张子宇",
+        "onboard_time": 1750083683,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123446,
+        "num": 123446,
+        "word": "印度少年拍到坠机后受严重心理创伤",
+        "onboard_time": 1750070360,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119464,
+        "num": 119464,
+        "word": "2公职人员涉犯罪被关仍领6.3万工资",
+        "onboard_time": 1750080322,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115578,
+        "num": 115578,
+        "word": "外媒曝伊朗正准备一场大行动",
+        "onboard_time": 1750063941,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113311,
+        "num": 113311,
+        "word": "中国不参与军备竞赛",
+        "onboard_time": 1750075820,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112982,
+        "num": 112982,
+        "word": "唐梓有初代绝版labubu",
+        "onboard_time": 1750069102,
+        "rank": 46,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 112418,
+        "num": 112418,
+        "word": "以军对伊朗中部开始新一轮空袭",
+        "onboard_time": 1750078402,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107190,
+        "num": 107190,
+        "word": "韩国人怎么看中国女团RED",
+        "onboard_time": 1750082483,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102139,
+        "num": 102139,
+        "word": "申台龙回应执教国足",
+        "onboard_time": 1750084043,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同迎接六国更加美好的明天#"
+    }
+  }
+}
