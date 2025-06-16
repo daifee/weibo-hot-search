@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750039561667,
+  "endTime": 1750040986258,
   "band_list": [
     {
       "raw_hot": 897992,
@@ -43,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 622278,
+      "num": 525067,
+      "word": "黄圣依妈妈撑起了自己的原生家庭",
+      "onboard_time": 1750037000,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 600006,
       "num": 600006,
       "word": "大学里的男生为什么越来越少了",
@@ -81,14 +89,6 @@
       "onboard_time": 1750030459,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 525067,
-      "num": 525067,
-      "word": "黄圣依妈妈撑起了自己的原生家庭",
-      "onboard_time": 1750037000,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 484474,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281789,
+      "num": 281789,
+      "word": "特朗普称美国有可能介入以伊冲突",
+      "onboard_time": 1750035860,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 281310,
       "num": 281310,
       "word": "伊以冲突普京特朗普都准备介入",
@@ -227,12 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261476,
-      "num": 261476,
-      "word": "特朗普称美国有可能介入以伊冲突",
-      "onboard_time": 1750035860,
-      "rank": 7,
-      "category": "国际时政"
+      "raw_hot": 268053,
+      "num": 268053,
+      "word": "2025最新本科专业速查",
+      "onboard_time": 1750038380,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 259575,
@@ -241,14 +249,6 @@
       "onboard_time": 1749976819,
       "rank": 15,
       "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 250376,
-      "num": 250376,
-      "word": "2025最新本科专业速查",
-      "onboard_time": 1750038380,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 243173,
@@ -289,6 +289,14 @@
       "onboard_time": 1750035920,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224102,
+      "num": 235642,
+      "word": "伊朗袭击致以色列16人死上百人伤",
+      "onboard_time": 1750038619,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223703,
@@ -419,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162483,
+      "num": 216984,
+      "word": "曾舜晞第二部破万剧",
+      "onboard_time": 1750039100,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162100,
       "num": 164715,
       "word": "长得像王一博气质像窦靖童",
       "onboard_time": 1749994944,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162060,
+      "num": 211996,
+      "word": "theboyz周鹤年中断活动",
+      "onboard_time": 1750040179,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 161647,
@@ -435,7 +459,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 153092,
+      "raw_hot": 157615,
       "num": 153092,
       "word": "ANSRJ开火GBLOCK",
       "onboard_time": 1750038680,
@@ -465,6 +489,14 @@
       "onboard_time": 1749993441,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136899,
+      "num": 136899,
+      "word": "常州十三妹位置太稳了",
+      "onboard_time": 1750039340,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 135088,
@@ -531,20 +563,20 @@
       "category": "作品衍生,综艺"
     },
     {
-      "raw_hot": 124356,
-      "num": 216984,
-      "word": "曾舜晞第二部破万剧",
-      "onboard_time": 1750039100,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123588,
       "num": 216224,
       "word": "卓沅26岁第一天很幸福",
       "onboard_time": 1750038500,
       "rank": 29,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 119746,
+      "num": 206101,
+      "word": "特朗普回应普京调解以伊冲突想法",
+      "onboard_time": 1750040000,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116470,
@@ -603,6 +635,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 105090,
+      "num": 105090,
+      "word": "肖战谍报上不封顶白衬衫墨镜路透",
+      "onboard_time": 1750040900,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103922,
       "num": 103922,
       "word": "一万多网购泡泡玛特卖家不发货拒退款",
@@ -643,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95693,
+      "num": 95693,
+      "word": "Lovecd节奏大师",
+      "onboard_time": 1750040779,
+      "rank": 41,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 91200,
       "num": 91200,
       "word": "叶一飞创造中国赛车历史",
@@ -667,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89367,
+      "num": 89367,
+      "word": "小胖的镜还是太C了",
+      "onboard_time": 1750040779,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87172,
       "num": 87172,
       "word": "石头赶路回应",
@@ -683,12 +739,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86278,
+      "num": 86278,
+      "word": "白鹿 临江仙值得",
+      "onboard_time": 1749996502,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86209,
       "num": 86209,
       "word": "以伊全面开战是否可能",
       "onboard_time": 1750001361,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82092,
+      "num": 206307,
+      "word": "全网热搜的脱衣助考大哥找到了",
+      "onboard_time": 1750039759,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 81980,
+      "num": 81980,
+      "word": "小孩哥表演气球悬浮术轻松拿捏同学",
+      "onboard_time": 1750040718,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80885,
@@ -723,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78519,
+      "num": 78519,
+      "word": "迈凯伦内斗撞车诺里斯退赛",
+      "onboard_time": 1750040660,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77451,
       "num": 77451,
       "word": "王楚钦爸爸谈儿子从小的心愿",
@@ -753,14 +841,6 @@
       "onboard_time": 1749977780,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 73088,
-      "num": 235642,
-      "word": "伊朗袭击致以色列16人死上百人伤",
-      "onboard_time": 1750038619,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 72206,

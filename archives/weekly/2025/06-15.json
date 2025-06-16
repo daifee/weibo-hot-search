@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750039561667,
+  "endTime": 1750040986258,
   "band_list": [
     {
       "raw_hot": 2164879,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 622278,
+      "num": 525067,
+      "word": "黄圣依妈妈撑起了自己的原生家庭",
+      "onboard_time": 1750037000,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 620314,
       "num": 383803,
       "word": "那尔那茜",
@@ -521,14 +529,6 @@
       "onboard_time": 1749992181,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 525067,
-      "num": 525067,
-      "word": "黄圣依妈妈撑起了自己的原生家庭",
-      "onboard_time": 1750037000,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 523208,
@@ -1067,6 +1067,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 281789,
+      "num": 281789,
+      "word": "特朗普称美国有可能介入以伊冲突",
+      "onboard_time": 1750035860,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 281310,
       "num": 281310,
       "word": "伊以冲突普京特朗普都准备介入",
@@ -1163,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268053,
+      "num": 268053,
+      "word": "2025最新本科专业速查",
+      "onboard_time": 1750038380,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 267801,
       "num": 323398,
       "word": "魏哲鸣 我年纪大懂得疼人",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1749970400,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261476,
-      "num": 261476,
-      "word": "特朗普称美国有可能介入以伊冲突",
-      "onboard_time": 1750035860,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 260800,
@@ -1249,14 +1257,6 @@
       "onboard_time": 1749999203,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250376,
-      "num": 250376,
-      "word": "2025最新本科专业速查",
-      "onboard_time": 1750038380,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 248378,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1749957500,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224102,
+      "num": 235642,
+      "word": "伊朗袭击致以色列16人死上百人伤",
+      "onboard_time": 1750038619,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223703,
@@ -2259,12 +2267,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162483,
+      "num": 216984,
+      "word": "曾舜晞第二部破万剧",
+      "onboard_time": 1750039100,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162330,
       "num": 248509,
       "word": "杨幂感谢章子怡",
       "onboard_time": 1749943096,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162060,
+      "num": 211996,
+      "word": "theboyz周鹤年中断活动",
+      "onboard_time": 1750040179,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 161161,
@@ -2321,6 +2345,14 @@
       "onboard_time": 1749985160,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157615,
+      "num": 153092,
+      "word": "ANSRJ开火GBLOCK",
+      "onboard_time": 1750038680,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 157198,
@@ -2393,14 +2425,6 @@
       "onboard_time": 1749976282,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153092,
-      "num": 153092,
-      "word": "ANSRJ开火GBLOCK",
-      "onboard_time": 1750038680,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 152010,
@@ -2673,6 +2697,14 @@
       "onboard_time": 1749964221,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136899,
+      "num": 136899,
+      "word": "常州十三妹位置太稳了",
+      "onboard_time": 1750039340,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 136755,
@@ -3027,14 +3059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124356,
-      "num": 216984,
-      "word": "曾舜晞第二部破万剧",
-      "onboard_time": 1750039100,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124223,
       "num": 124223,
       "word": "好导师的几大特征",
@@ -3193,6 +3217,14 @@
       "onboard_time": 1749966381,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119746,
+      "num": 206101,
+      "word": "特朗普回应普京调解以伊冲突想法",
+      "onboard_time": 1750040000,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119633,
@@ -3523,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105090,
+      "num": 105090,
+      "word": "肖战谍报上不封顶白衬衫墨镜路透",
+      "onboard_time": 1750040900,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104786,
       "num": 155406,
       "word": "联合国称不惜一切代价避免伊以失控",
@@ -3667,6 +3707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95693,
+      "num": 95693,
+      "word": "Lovecd节奏大师",
+      "onboard_time": 1750040779,
+      "rank": 41,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 94950,
       "num": 94950,
       "word": "章子怡酱园弄repo",
@@ -3755,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89367,
+      "num": 89367,
+      "word": "小胖的镜还是太C了",
+      "onboard_time": 1750040779,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88923,
       "num": 88923,
       "word": "父亲节文案",
@@ -3803,6 +3859,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82092,
+      "num": 206307,
+      "word": "全网热搜的脱衣助考大哥找到了",
+      "onboard_time": 1750039759,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 81980,
+      "num": 81980,
+      "word": "小孩哥表演气球悬浮术轻松拿捏同学",
+      "onboard_time": 1750040718,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81875,
       "num": 81875,
       "word": "普京透露俄准备调解伊以冲突",
@@ -3849,6 +3921,14 @@
       "onboard_time": 1750029678,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 78519,
+      "num": 78519,
+      "word": "迈凯伦内斗撞车诺里斯退赛",
+      "onboard_time": 1750040660,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 77274,
@@ -3912,14 +3992,6 @@
       "word": "日本民间团体敦促政府返还中国文物",
       "onboard_time": 1749996923,
       "rank": 13,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 73088,
-      "num": 235642,
-      "word": "伊朗袭击致以色列16人死上百人伤",
-      "onboard_time": 1750038619,
-      "rank": 14,
       "category": "国际时政"
     },
     {

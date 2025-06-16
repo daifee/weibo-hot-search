@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750039561667,
+  "endTime": 1750040986258,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -5387,6 +5387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 622278,
+      "num": 525067,
+      "word": "黄圣依妈妈撑起了自己的原生家庭",
+      "onboard_time": 1750037000,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 622083,
       "num": 622083,
       "word": "留几手发长文谈韦东奕",
@@ -6833,14 +6841,6 @@
       "onboard_time": 1749082400,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 525067,
-      "num": 525067,
-      "word": "黄圣依妈妈撑起了自己的原生家庭",
-      "onboard_time": 1750037000,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 524386,
@@ -13579,6 +13579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 281789,
+      "num": 281789,
+      "word": "特朗普称美国有可能介入以伊冲突",
+      "onboard_time": 1750035860,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 281787,
       "num": 281787,
       "word": "大理偶遇向佐陈妍希",
@@ -14331,6 +14339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 268053,
+      "num": 268053,
+      "word": "2025最新本科专业速查",
+      "onboard_time": 1750038380,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 268044,
       "num": 268044,
       "word": "陆沉六尺之下",
@@ -14665,14 +14681,6 @@
       "onboard_time": 1749222744,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261476,
-      "num": 261476,
-      "word": "特朗普称美国有可能介入以伊冲突",
-      "onboard_time": 1750035860,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 260910,
@@ -15393,14 +15401,6 @@
       "onboard_time": 1749528082,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 250376,
-      "num": 250376,
-      "word": "2025最新本科专业速查",
-      "onboard_time": 1750038380,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 250130,
@@ -17321,6 +17321,14 @@
       "onboard_time": 1748941519,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224102,
+      "num": 235642,
+      "word": "伊朗袭击致以色列16人死上百人伤",
+      "onboard_time": 1750038619,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 224027,
@@ -27627,6 +27635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162483,
+      "num": 216984,
+      "word": "曾舜晞第二部破万剧",
+      "onboard_time": 1750039100,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162420,
       "num": 336216,
       "word": "陆柯燃 没有一只鸭子能飞出南京",
@@ -27689,6 +27705,14 @@
       "onboard_time": 1749573858,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162060,
+      "num": 211996,
+      "word": "theboyz周鹤年中断活动",
+      "onboard_time": 1750040179,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 162057,
@@ -28641,6 +28665,14 @@
       "onboard_time": 1749564982,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157615,
+      "num": 153092,
+      "word": "ANSRJ开火GBLOCK",
+      "onboard_time": 1750038680,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 157583,
@@ -29617,14 +29649,6 @@
       "onboard_time": 1749696080,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153092,
-      "num": 153092,
-      "word": "ANSRJ开火GBLOCK",
-      "onboard_time": 1750038680,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 153016,
@@ -33491,6 +33515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136899,
+      "num": 136899,
+      "word": "常州十三妹位置太稳了",
+      "onboard_time": 1750039340,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136862,
       "num": 136862,
       "word": "吃荔枝上火是因为吃少了",
@@ -36699,14 +36731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124356,
-      "num": 216984,
-      "word": "曾舜晞第二部破万剧",
-      "onboard_time": 1750039100,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124302,
       "num": 124302,
       "word": "碟中谍",
@@ -37849,6 +37873,14 @@
       "onboard_time": 1749697520,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119746,
+      "num": 206101,
+      "word": "特朗普回应普京调解以伊冲突想法",
+      "onboard_time": 1750040000,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119679,
@@ -40771,6 +40803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105090,
+      "num": 105090,
+      "word": "肖战谍报上不封顶白衬衫墨镜路透",
+      "onboard_time": 1750040900,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105076,
       "num": 139866,
       "word": "TVB艺人大赞内地美食",
@@ -42459,6 +42499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95693,
+      "num": 95693,
+      "word": "Lovecd节奏大师",
+      "onboard_time": 1750040779,
+      "rank": 41,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 95687,
       "num": 254131,
       "word": "为什么高铁上跳过E直接是F座",
@@ -43563,6 +43611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89367,
+      "num": 89367,
+      "word": "小胖的镜还是太C了",
+      "onboard_time": 1750040779,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89201,
       "num": 89201,
       "word": "全伊伦演的新帝",
@@ -44595,12 +44651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82092,
+      "num": 206307,
+      "word": "全网热搜的脱衣助考大哥找到了",
+      "onboard_time": 1750039759,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 82074,
       "num": 82074,
       "word": "名侦探柯南新兰发糖",
       "onboard_time": 1749746898,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 81980,
+      "num": 81980,
+      "word": "小孩哥表演气球悬浮术轻松拿捏同学",
+      "onboard_time": 1750040718,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81960,
@@ -45065,6 +45137,14 @@
       "onboard_time": 1749811823,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78519,
+      "num": 78519,
+      "word": "迈凯伦内斗撞车诺里斯退赛",
+      "onboard_time": 1750040660,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 78491,
@@ -45825,14 +45905,6 @@
       "onboard_time": 1749797242,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 73088,
-      "num": 235642,
-      "word": "伊朗袭击致以色列16人死上百人伤",
-      "onboard_time": 1750038619,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 73006,
