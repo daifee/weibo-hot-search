@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750072998050,
+  "endTime": 1750073950657,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -201,6 +201,14 @@
       "onboard_time": 1749995063,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 973466,
+      "num": 1155754,
+      "word": "男子误将502当眼药水滴入右眼",
+      "onboard_time": 1750068621,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 970522,
@@ -427,6 +435,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 709632,
+      "num": 375060,
+      "word": "月入5万女生辞职后陪父亲淘粪",
+      "onboard_time": 1750067483,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 709390,
       "num": 709390,
       "word": "河南一女子醉驾超速致一家三口死亡",
@@ -489,6 +505,14 @@
       "onboard_time": 1749946338,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 654185,
+      "num": 623255,
+      "word": "鹿晗抢票",
+      "onboard_time": 1750068981,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 639641,
@@ -555,14 +579,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 623255,
-      "num": 623255,
-      "word": "鹿晗抢票",
-      "onboard_time": 1750068981,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 623180,
       "num": 623180,
       "word": "Lafufu和Lababa都属于商标侵权",
@@ -601,14 +617,6 @@
       "onboard_time": 1750060460,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 615003,
-      "num": 1098400,
-      "word": "男子误将502当眼药水滴入右眼",
-      "onboard_time": 1750068621,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 613061,
@@ -753,14 +761,6 @@
       "onboard_time": 1750061659,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 525746,
-      "num": 375060,
-      "word": "月入5万女生辞职后陪父亲淘粪",
-      "onboard_time": 1750067483,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 523208,
@@ -1043,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409160,
+      "num": 1093794,
+      "word": "34岁女子爱生闷气血管堵90%",
+      "onboard_time": 1750067961,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407361,
       "num": 407361,
       "word": "对labubu全球爆火有了实感",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1749984921,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 382640,
-      "num": 1093794,
-      "word": "34岁女子爱生闷气血管堵90%",
-      "onboard_time": 1750067961,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 380569,
@@ -1227,6 +1227,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 350349,
+      "num": 350349,
+      "word": "道崽回应",
+      "onboard_time": 1750072520,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 349948,
       "num": 349948,
       "word": "临江仙爱奇艺热度破9900",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1750047982,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347492,
+      "num": 347492,
+      "word": "印度少年拍到坠机后受严重心理创伤",
+      "onboard_time": 1750070360,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 346623,
@@ -1297,6 +1313,14 @@
       "onboard_time": 1749983840,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341505,
+      "num": 1080616,
+      "word": "唐梓有初代绝版labubu",
+      "onboard_time": 1750069102,
+      "rank": 17,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 340205,
@@ -1377,14 +1401,6 @@
       "onboard_time": 1749972680,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 316623,
-      "num": 1080616,
-      "word": "唐梓有初代绝版labubu",
-      "onboard_time": 1750069102,
-      "rank": 17,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 313973,
@@ -1688,6 +1704,14 @@
       "word": "魏哲鸣 我年纪大懂得疼人",
       "onboard_time": 1749981800,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267725,
+      "num": 267725,
+      "word": "朱丹说鸡腿给两个弟弟吃",
+      "onboard_time": 1750072161,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -2153,14 +2177,6 @@
       "onboard_time": 1750038980,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 214130,
-      "num": 214130,
-      "word": "道崽回应",
-      "onboard_time": 1750072520,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 212757,
@@ -2675,6 +2691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184350,
+      "num": 418531,
+      "word": "湖南烟花爆炸事故已致1死6失联9伤",
+      "onboard_time": 1750072281,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 184340,
       "num": 184340,
       "word": "疑似顾廷烨给石头买的学历",
@@ -2776,14 +2800,6 @@
       "word": "金莎孙丞潇综艺里连亲了三下",
       "onboard_time": 1749959600,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 178117,
-      "num": 178117,
-      "word": "朱丹说鸡腿给两个弟弟吃",
-      "onboard_time": 1750072161,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -2937,14 +2953,6 @@
       "onboard_time": 1749996744,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172415,
-      "num": 345769,
-      "word": "印度少年拍到坠机后受严重心理创伤",
-      "onboard_time": 1750070360,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 172319,
@@ -3451,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156704,
+      "num": 156704,
+      "word": "校园贷借款8万还了14万还欠100万",
+      "onboard_time": 1750073421,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156270,
       "num": 156270,
       "word": "张译在查内鬼这块有执念",
@@ -3659,6 +3675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147579,
+      "num": 147579,
+      "word": "伊朗处决一受雇于以色列的间谍",
+      "onboard_time": 1750071980,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147451,
       "num": 156030,
       "word": "白鹿曾舜晞今晚陪看临江仙",
@@ -3827,6 +3851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139411,
+      "num": 153957,
+      "word": "易烊千玺现身蛮荒禁地发布会",
+      "onboard_time": 1750073781,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139355,
       "num": 139355,
       "word": "知名洞穴潜水员在圣龙潭潜水时去世",
@@ -3961,6 +3993,14 @@
       "onboard_time": 1749971661,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135846,
+      "num": 190177,
+      "word": "没有马丽就没有开心麻花团综",
+      "onboard_time": 1750072941,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 135826,
@@ -4268,7 +4308,7 @@
     },
     {
       "raw_hot": 129036,
-      "num": 129036,
+      "num": 225580,
       "word": "范丞丞直播跳whiplash",
       "onboard_time": 1750072402,
       "rank": 40,
@@ -4707,6 +4747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119050,
+      "num": 119050,
+      "word": "京城大师赛",
+      "onboard_time": 1750073660,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118868,
       "num": 253806,
       "word": "黄觉说肖战这么火是有原因的",
@@ -4913,6 +4961,14 @@
       "onboard_time": 1749966680,
       "rank": 47,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 114258,
+      "num": 114258,
+      "word": "虞书欣这次带上吴磊穿越了",
+      "onboard_time": 1750073241,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 114142,
@@ -5137,14 +5193,6 @@
       "onboard_time": 1750072042,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108626,
-      "num": 108626,
-      "word": "没有马丽就没有开心麻花团综",
-      "onboard_time": 1750072941,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 108252,
@@ -5505,14 +5553,6 @@
       "onboard_time": 1749953182,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 87683,
-      "num": 418531,
-      "word": "湖南烟花爆炸事故已致1死6失联9伤",
-      "onboard_time": 1750072281,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 87567,
@@ -5939,6 +5979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56853,
+      "num": 223708,
+      "word": "为什么付出型人格越付出越难获得爱",
+      "onboard_time": 1750073541,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 56676,
       "num": 56676,
       "word": "伊军称战争规模未来几天持续扩大",
@@ -6049,6 +6097,14 @@
       "onboard_time": 1749962360,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 50935,
+      "num": 132648,
+      "word": "33晒体坛新队服",
+      "onboard_time": 1750072941,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 50823,
@@ -6521,14 +6577,6 @@
       "onboard_time": 1750000222,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32572,
-      "num": 126857,
-      "word": "33晒体坛新队服",
-      "onboard_time": 1750072941,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 31627,
@@ -7123,6 +7171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13861,
+      "num": 190063,
+      "word": "秸秆到底能不能烧",
+      "onboard_time": 1750073120,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13278,
       "num": 275369,
       "word": "为何骨质疏松盯上了年轻人",
@@ -7266,6 +7322,9 @@
     },
     {
       "word": "#阿斯塔纳热烈迎候习近平主席到访#"
+    },
+    {
+      "word": "#共同迎接六国更加美好的明天#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1750073950657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 973466,
+        "num": 1155754,
+        "word": "男子误将502当眼药水滴入右眼",
+        "onboard_time": 1750068621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409160,
+        "num": 409160,
+        "word": "34岁女子爱生闷气血管堵90%",
+        "onboard_time": 1750067961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27885,
+        "num": 379321,
+        "word": "复兴路上弄潮儿",
+        "onboard_time": 1750071681,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 350349,
+        "num": 350349,
+        "word": "道崽回应",
+        "onboard_time": 1750072520,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 347492,
+        "num": 347492,
+        "word": "印度少年拍到坠机后受严重心理创伤",
+        "onboard_time": 1750070360,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1021332,
+        "num": 347402,
+        "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
+        "onboard_time": 1750067782,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654185,
+        "num": 346167,
+        "word": "鹿晗抢票",
+        "onboard_time": 1750068981,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 341505,
+        "num": 341505,
+        "word": "唐梓有初代绝版labubu",
+        "onboard_time": 1750069102,
+        "rank": 7,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 263594,
+        "num": 337910,
+        "word": "外媒曝伊朗正准备一场大行动",
+        "onboard_time": 1750063941,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184350,
+        "num": 332391,
+        "word": "湖南烟花爆炸事故已致1死6失联9伤",
+        "onboard_time": 1750072281,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 709632,
+        "num": 326799,
+        "word": "月入5万女生辞职后陪父亲淘粪",
+        "onboard_time": 1750067483,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 705713,
+        "num": 323090,
+        "word": "曝艺人参加综艺录制迟到12小时",
+        "onboard_time": 1750066819,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489106,
+        "num": 320039,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 12,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 446882,
+        "num": 313075,
+        "word": "蓝盈莹气血充盈得溢出屏幕了",
+        "onboard_time": 1750061720,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17703,
+        "num": 306348,
+        "word": "淘宝闪购汪苏泷",
+        "onboard_time": 1750071681,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304117,
+        "num": 304117,
+        "word": "月入过万一天工作14小时的真实生活",
+        "onboard_time": 1750065202,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267725,
+        "num": 267725,
+        "word": "朱丹说鸡腿给两个弟弟吃",
+        "onboard_time": 1750072161,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236231,
+        "num": 236231,
+        "word": "赵丽颖原声台词 评论区",
+        "onboard_time": 1750066280,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125705,
+        "num": 225580,
+        "word": "范丞丞直播跳whiplash",
+        "onboard_time": 1750072402,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56853,
+        "num": 223708,
+        "word": "为什么付出型人格越付出越难获得爱",
+        "onboard_time": 1750073541,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223552,
+        "num": 223552,
+        "word": "林依晨二胎得子",
+        "onboard_time": 1750048223,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208953,
+        "num": 208953,
+        "word": "我的牙也很不齐 什么时候宠我一下",
+        "onboard_time": 1750068802,
+        "rank": 21,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 197647,
+        "num": 197647,
+        "word": "宋雨琦发文感谢林俊杰",
+        "onboard_time": 1750067361,
+        "rank": 22,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 192759,
+        "num": 192759,
+        "word": "白鹿被要求增肥",
+        "onboard_time": 1750065740,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190499,
+        "num": 190499,
+        "word": "哪吒2票房100元片方只拿33元",
+        "onboard_time": 1750059380,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170637,
+        "num": 190409,
+        "word": "央视曝光杀猪盘新套路",
+        "onboard_time": 1750063461,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 163880,
+        "num": 190347,
+        "word": "易烊千玺第一部男主剧",
+        "onboard_time": 1750056321,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135846,
+        "num": 190177,
+        "word": "没有马丽就没有开心麻花团综",
+        "onboard_time": 1750072941,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13861,
+        "num": 190063,
+        "word": "秸秆到底能不能烧",
+        "onboard_time": 1750073120,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189999,
+        "num": 189999,
+        "word": "大量美国军机正穿越大西洋",
+        "onboard_time": 1750070900,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181597,
+        "num": 181597,
+        "word": "孙颖莎最想搭混双的外国球员是波尔",
+        "onboard_time": 1750069281,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157201,
+        "num": 157201,
+        "word": "限速40飙到174把电瓶车撞成碎片",
+        "onboard_time": 1750071861,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156704,
+        "num": 156704,
+        "word": "校园贷借款8万还了14万还欠100万",
+        "onboard_time": 1750073421,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132028,
+        "num": 154364,
+        "word": "ILLIT空降成绩",
+        "onboard_time": 1750070421,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139411,
+        "num": 153957,
+        "word": "易烊千玺现身蛮荒禁地发布会",
+        "onboard_time": 1750073781,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153927,
+        "num": 153927,
+        "word": "周洁琼将参与ioi回归",
+        "onboard_time": 1750064481,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147579,
+        "num": 147579,
+        "word": "伊朗处决一受雇于以色列的间谍",
+        "onboard_time": 1750071980,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142313,
+        "num": 142313,
+        "word": "至少30架美军机正跨越大西洋",
+        "onboard_time": 1750070900,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138336,
+        "num": 138336,
+        "word": "武汉28岁男子爬山失联已身亡",
+        "onboard_time": 1750068141,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50935,
+        "num": 132648,
+        "word": "33晒体坛新队服",
+        "onboard_time": 1750072941,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128256,
+        "num": 128256,
+        "word": "哈梅内伊",
+        "onboard_time": 1750061659,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127781,
+        "num": 127781,
+        "word": "这长相是土象天菜吧",
+        "onboard_time": 1750069281,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126129,
+        "num": 126129,
+        "word": "方博喊话樊振东十年之约",
+        "onboard_time": 1750067660,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124021,
+        "num": 124021,
+        "word": "贾冰老婆颜值",
+        "onboard_time": 1750065321,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123636,
+        "num": 123636,
+        "word": "中国一直坚持自卫防御核战略",
+        "onboard_time": 1750072101,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122185,
+        "num": 122185,
+        "word": "国羽退出美国公开赛",
+        "onboard_time": 1750070660,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119050,
+        "num": 119050,
+        "word": "京城大师赛",
+        "onboard_time": 1750073660,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118991,
+        "num": 118991,
+        "word": "临江仙24%",
+        "onboard_time": 1750071381,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114258,
+        "num": 114258,
+        "word": "虞书欣这次带上吴磊穿越了",
+        "onboard_time": 1750073241,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112270,
+        "num": 112270,
+        "word": "韩国又要缺白菜了",
+        "onboard_time": 1750072042,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同迎接六国更加美好的明天#"
+    }
+  }
+}
