@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750106603896,
+  "endTime": 1750109108666,
   "band_list": [
     {
       "raw_hot": 907175,
@@ -547,20 +547,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19946,
+      "num": 19946,
+      "word": "宋智雅不信男女之间有纯友情",
+      "onboard_time": 1750103714,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 19919,
+      "num": 26327,
+      "word": "易烊千玺化了蓝色战损妆",
+      "onboard_time": 1750098074,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19604,
       "num": 19604,
       "word": "外交部回应中东局势",
       "onboard_time": 1750104314,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18101,
-      "num": 18101,
-      "word": "宋智雅不信男女之间有纯友情",
-      "onboard_time": 1750103714,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 17605,
@@ -571,20 +579,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16599,
+      "num": 30928,
+      "word": "多国呼吁伊以通过和平途径解决冲突",
+      "onboard_time": 1750105514,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15831,
       "num": 24493,
       "word": "中哈元首握手合影",
       "onboard_time": 1750086441,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15565,
-      "num": 15565,
-      "word": "易烊千玺化了蓝色战损妆",
-      "onboard_time": 1750098074,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 15554,
@@ -595,20 +603,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13816,
-      "num": 13816,
+      "raw_hot": 14353,
+      "num": 14353,
       "word": "街道办回应她的瞳剧组用激光笔清场",
       "onboard_time": 1750101854,
       "rank": 45,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12563,
-      "num": 30928,
-      "word": "多国呼吁伊以通过和平途径解决冲突",
-      "onboard_time": 1750105514,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 12518,
+      "num": 37720,
+      "word": "警方通报28岁男子离家爬山后失联",
+      "onboard_time": 1750107913,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1750109108666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 113780,
+        "num": 140704,
+        "word": "以色列袭击伊朗国家电视台大楼",
+        "onboard_time": 1750088601,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81149,
+        "num": 81149,
+        "word": "男子养了10年的女儿竟不是亲生的",
+        "onboard_time": 1750087401,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 11324,
+        "num": 78410,
+        "word": "一组数据看中国经济稳中有进",
+        "onboard_time": 1750082842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76698,
+        "num": 76698,
+        "word": "涨工资的信号越来越明确",
+        "onboard_time": 1750077020,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57416,
+        "num": 57416,
+        "word": "短剧男主回应一胎99子剧情",
+        "onboard_time": 1750093277,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49695,
+        "num": 49695,
+        "word": "以色列",
+        "onboard_time": 1750079902,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48955,
+        "num": 48955,
+        "word": "初一男生因未答出问题被班主任踢伤",
+        "onboard_time": 1750089080,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39175,
+        "num": 39175,
+        "word": "以总理威胁德黑兰市民立即撤离",
+        "onboard_time": 1750079721,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23991,
+        "num": 38987,
+        "word": "nana民宿",
+        "onboard_time": 1750085543,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12518,
+        "num": 37720,
+        "word": "警方通报28岁男子离家爬山后失联",
+        "onboard_time": 1750107913,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162128,
+        "num": 36686,
+        "word": "伊朗是否已完全丧失制空权",
+        "onboard_time": 1750087283,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 71668,
+        "num": 34707,
+        "word": "曝艺人参加综艺录制迟到12小时",
+        "onboard_time": 1750066819,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49313,
+        "num": 33370,
+        "word": "张子枫脸和身材各长各的",
+        "onboard_time": 1750079421,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33240,
+        "num": 33240,
+        "word": "金建希因病情恶化住院",
+        "onboard_time": 1750077381,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30727,
+        "num": 30727,
+        "word": "一骑红尘妃子笑读音",
+        "onboard_time": 1750076841,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 30561,
+        "num": 30561,
+        "word": "以总理称以军已掌控德黑兰领空",
+        "onboard_time": 1750079961,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29647,
+        "num": 29647,
+        "word": "下了2个APP后手机黑屏被划走10多万",
+        "onboard_time": 1750089080,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27757,
+        "num": 27757,
+        "word": "杜淳老婆发文与剖腹产疤痕和解",
+        "onboard_time": 1750081581,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19919,
+        "num": 26327,
+        "word": "易烊千玺化了蓝色战损妆",
+        "onboard_time": 1750098074,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19366,
+        "num": 25936,
+        "word": "张子墨管易烊千玺叫祖师爷",
+        "onboard_time": 1750088660,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25782,
+        "num": 25782,
+        "word": "校园贷借款8万还了14万还欠100万",
+        "onboard_time": 1750073421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25099,
+        "num": 25099,
+        "word": "伊朗武装部队警告以色列民众尽快撤离",
+        "onboard_time": 1750079781,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24865,
+        "num": 24865,
+        "word": "我是军人啊难道不该以命换命吗",
+        "onboard_time": 1750076901,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 22814,
+        "num": 22814,
+        "word": "男子卖茅台7年多近期转型卖拉布布",
+        "onboard_time": 1750085482,
+        "rank": 23,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 22402,
+        "num": 22402,
+        "word": "朱丹说鸡腿给两个弟弟吃",
+        "onboard_time": 1750072161,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22097,
+        "num": 22097,
+        "word": "伊朗称袭击致以防空系统自相攻击",
+        "onboard_time": 1750091838,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21827,
+        "num": 21827,
+        "word": "以色列孩子被导弹吓到哭着喊妈妈",
+        "onboard_time": 1750093098,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17614,
+        "num": 21775,
+        "word": "刘亦菲刘学义 咸雪",
+        "onboard_time": 1750076960,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16678,
+        "num": 21732,
+        "word": "白鹿曾舜晞 接二搭",
+        "onboard_time": 1750089980,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16122,
+        "num": 21629,
+        "word": "王安宇你敢问我都不敢听",
+        "onboard_time": 1750081101,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37515,
+        "num": 21547,
+        "word": "前男友与韦雪官宣后涨粉25万",
+        "onboard_time": 1750076240,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 21888,
+        "num": 21467,
+        "word": "特朗普为何难逃与伊朗的冲突",
+        "onboard_time": 1750091299,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21455,
+        "num": 21455,
+        "word": "听泉赏宝公司再次被诉",
+        "onboard_time": 1750089380,
+        "rank": 32,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 20460,
+        "num": 20460,
+        "word": "美尼米兹号航母向中东航行",
+        "onboard_time": 1750088840,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15644,
+        "num": 20347,
+        "word": "网友开始演藏海传",
+        "onboard_time": 1750086322,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20328,
+        "num": 20328,
+        "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
+        "onboard_time": 1750067782,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19946,
+        "num": 19946,
+        "word": "宋智雅不信男女之间有纯友情",
+        "onboard_time": 1750103714,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 18343,
+        "num": 18343,
+        "word": "当代年轻人心选的明星TOP10",
+        "onboard_time": 1750087101,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17674,
+        "num": 17674,
+        "word": "道崽回应",
+        "onboard_time": 1750072520,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17414,
+        "num": 17414,
+        "word": "中国女篮2米26小将大杀四方",
+        "onboard_time": 1750085662,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17352,
+        "num": 17352,
+        "word": "泡泡玛特补货",
+        "onboard_time": 1750076422,
+        "rank": 40,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 16700,
+        "num": 16700,
+        "word": "男子误将502当眼药水滴入右眼",
+        "onboard_time": 1750068621,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16599,
+        "num": 16599,
+        "word": "多国呼吁伊以通过和平途径解决冲突",
+        "onboard_time": 1750105514,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16480,
+        "num": 16480,
+        "word": "台湾网红馆长直言最想去深圳",
+        "onboard_time": 1750094297,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15920,
+        "num": 15920,
+        "word": "以色列海法炼油厂再遭袭",
+        "onboard_time": 1750097535,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15693,
+        "num": 15693,
+        "word": "外交部回应中东局势",
+        "onboard_time": 1750104314,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14353,
+        "num": 14353,
+        "word": "街道办回应她的瞳剧组用激光笔清场",
+        "onboard_time": 1750101854,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14033,
+        "num": 14033,
+        "word": "总台记者直击以色列伊朗大规模冲突",
+        "onboard_time": 1750101973,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12361,
+        "num": 14032,
+        "word": "红绿灯的黄海外直播1场打赏超71万",
+        "onboard_time": 1750096096,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 12197,
+        "num": 14028,
+        "word": "莱巴金娜说郑钦文是个强劲的对手",
+        "onboard_time": 1750097056,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#哈萨克斯坦以最高规格欢迎习主席#"
+    }
+  }
+}
