@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750049608627,
+  "endTime": 1750051701080,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -67,6 +67,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 729621,
+      "num": 729621,
+      "word": "王星越 这是我爸",
+      "onboard_time": 1750049181,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 716285,
+      "num": 716285,
+      "word": "泰国坠亡中国男子生前最后对话曝光",
+      "onboard_time": 1750048582,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 660486,
       "num": 270365,
       "word": "陈靖可取关孙千ins",
@@ -131,6 +147,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 565957,
+      "num": 318124,
+      "word": "前男友删除与韦雪有关视频",
+      "onboard_time": 1750050083,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549553,
       "num": 549553,
       "word": "长安的荔枝 易烊千玺",
@@ -147,7 +171,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 527244,
+      "raw_hot": 545958,
       "num": 366003,
       "word": "梅婷别演了我害怕",
       "onboard_time": 1750048043,
@@ -299,19 +323,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 370580,
-      "num": 370580,
-      "word": "泰国坠亡中国男子生前最后对话曝光",
-      "onboard_time": 1750048582,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 370208,
       "num": 285410,
       "word": "张檬自曝生孩子后脑雾",
       "onboard_time": 1750000345,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 367709,
+      "num": 367709,
+      "word": "方媛公开怀三胎后首发文",
+      "onboard_time": 1750049962,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273981,
+      "num": 273981,
+      "word": "白鹿演技",
+      "onboard_time": 1750046601,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268741,
       "num": 268741,
       "word": "王俊凯时尚芭莎七月刊封面",
@@ -467,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240345,
-      "num": 240345,
-      "word": "白鹿演技",
-      "onboard_time": 1750046601,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238547,
       "num": 255846,
       "word": "曾舜晞打视频白鹿绷不住了",
@@ -523,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224794,
+      "num": 224794,
+      "word": "原神",
+      "onboard_time": 1750050622,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224102,
       "num": 235642,
       "word": "伊朗袭击致以色列16人死上百人伤",
@@ -545,14 +577,6 @@
       "onboard_time": 1750037478,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221230,
-      "num": 221230,
-      "word": "王星越 这是我爸",
-      "onboard_time": 1750049181,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 218940,
@@ -601,6 +625,14 @@
       "onboard_time": 1750043480,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 209351,
+      "num": 209351,
+      "word": "一个被窝睡不出两种人",
+      "onboard_time": 1750049663,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 202909,
@@ -691,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180172,
+      "num": 180172,
+      "word": "以请求国际援助拦截伊朗袭击",
+      "onboard_time": 1750049423,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172814,
       "num": 222228,
       "word": "伊朗首次白天发动袭击",
@@ -713,6 +753,14 @@
       "onboard_time": 1750048523,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168556,
+      "num": 168556,
+      "word": "刘些宁为新剧剪短发",
+      "onboard_time": 1750051279,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 168354,
@@ -835,6 +883,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155413,
+      "num": 155413,
+      "word": "A股",
+      "onboard_time": 1750051400,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 154252,
+      "num": 154252,
+      "word": "老师被曝让学生一字排开跪地写检讨",
+      "onboard_time": 1750050681,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152010,
       "num": 132298,
       "word": "灰熊魔术交易",
@@ -849,6 +913,14 @@
       "onboard_time": 1750049363,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150685,
+      "num": 150685,
+      "word": "适合00后的工作经验",
+      "onboard_time": 1750050981,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 149227,
@@ -867,12 +939,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144815,
-      "num": 144815,
-      "word": "以请求国际援助拦截伊朗袭击",
-      "onboard_time": 1750049423,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 143824,
+      "num": 176045,
+      "word": "波尔从孔令辉打到王楚钦",
+      "onboard_time": 1750051461,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143119,
+      "num": 143119,
+      "word": "时代少年团大连",
+      "onboard_time": 1750050681,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 140765,
@@ -923,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134228,
+      "num": 134228,
+      "word": "临江仙粉丝退至我身后",
+      "onboard_time": 1750051580,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132840,
       "num": 132840,
       "word": "陈奕恒父亲节发博",
@@ -937,6 +1025,14 @@
       "onboard_time": 1750011435,
       "rank": 22,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 132701,
+      "num": 132701,
+      "word": "ally大学就读于211高校",
+      "onboard_time": 1750051400,
+      "rank": 44,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 132052,
@@ -961,6 +1057,14 @@
       "onboard_time": 1750045581,
       "rank": 47,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 131163,
+      "num": 131163,
+      "word": "那英 唱爽了就是开心",
+      "onboard_time": 1750051641,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 130516,
@@ -1003,12 +1107,28 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 127830,
+      "num": 127830,
+      "word": "中亚草原上的中国风车",
+      "onboard_time": 1750049962,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126388,
       "num": 126388,
       "word": "光线传媒大涨超5%",
       "onboard_time": 1750044622,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126015,
+      "num": 198538,
+      "word": "新说唱2025最佳diss",
+      "onboard_time": 1750050324,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 123588,
@@ -1211,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89454,
+      "num": 252482,
+      "word": "智己全球唯一全系配备四轮转向",
+      "onboard_time": 1750050324,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 89440,
       "num": 138268,
       "word": "特朗普称以色列伊朗有时需要打一仗",
@@ -1371,12 +1499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68193,
+      "num": 293659,
+      "word": "加沙人说为了生存只能接受死亡",
+      "onboard_time": 1750050442,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 65308,
       "num": 65308,
       "word": "苏州越位了吗",
       "onboard_time": 1750005198,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64849,
+      "num": 252234,
+      "word": "山东一景区推出窝囊版漂流",
+      "onboard_time": 1750050921,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63529,
@@ -1475,6 +1619,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 45015,
+      "num": 182851,
+      "word": "男子拆小区百余个消防水枪当废品卖",
+      "onboard_time": 1750050562,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44719,
       "num": 175076,
       "word": "患上突发性耳聋的年轻人越来越多了",
@@ -1537,6 +1689,14 @@
       "onboard_time": 1750011016,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33254,
+      "num": 143872,
+      "word": "波尔谢幕战点燃全球乒坛",
+      "onboard_time": 1750050862,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 31194,
@@ -1628,7 +1788,7 @@
     },
     {
       "raw_hot": 23491,
-      "num": 575642,
+      "num": 950524,
       "word": "一系列先行指标看经济活力",
       "onboard_time": 1749994522,
       "rank": 2,

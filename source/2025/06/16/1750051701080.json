@@ -1,0 +1,410 @@
+{
+  "runTime": 1750051701080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1838585,
+        "num": 1838585,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1223434,
+        "num": 1223434,
+        "word": "林依晨二胎得子",
+        "onboard_time": 1750048223,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5843,
+        "num": 950524,
+        "word": "一系列先行指标看经济活力",
+        "onboard_time": 1749994522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 729621,
+        "num": 729621,
+        "word": "王星越 这是我爸",
+        "onboard_time": 1750049181,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716285,
+        "num": 716285,
+        "word": "泰国坠亡中国男子生前最后对话曝光",
+        "onboard_time": 1750048582,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 714968,
+        "num": 714968,
+        "word": "豆包p图",
+        "onboard_time": 1750046542,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 420416,
+        "num": 420416,
+        "word": "苹果用户再也不敢乱用emoji了",
+        "onboard_time": 1750042579,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 367709,
+        "num": 367709,
+        "word": "方媛公开怀三胎后首发文",
+        "onboard_time": 1750049962,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355413,
+        "num": 355413,
+        "word": "何洁发长文后秒删",
+        "onboard_time": 1750046841,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243405,
+        "num": 328632,
+        "word": "伊朗导弹击中海法和特拉维夫",
+        "onboard_time": 1750030459,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 565957,
+        "num": 318124,
+        "word": "前男友删除与韦雪有关视频",
+        "onboard_time": 1750050083,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545958,
+        "num": 317198,
+        "word": "梅婷别演了我害怕",
+        "onboard_time": 1750048043,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307413,
+        "num": 307413,
+        "word": "伊朗被摩萨德渗透成了筛子",
+        "onboard_time": 1750042040,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297407,
+        "num": 297407,
+        "word": "湖南一鞭炮厂发生爆炸事故",
+        "onboard_time": 1750043722,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 68193,
+        "num": 293659,
+        "word": "加沙人说为了生存只能接受死亡",
+        "onboard_time": 1750050442,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 292652,
+        "num": 292652,
+        "word": "当我发现我妈跟刘亦菲演过戏",
+        "onboard_time": 1750048101,
+        "rank": 15,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 273981,
+        "num": 273981,
+        "word": "白鹿演技",
+        "onboard_time": 1750046601,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263209,
+        "num": 263209,
+        "word": "BabyDONTCry出道",
+        "onboard_time": 1750045700,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89454,
+        "num": 252482,
+        "word": "智己全球唯一全系配备四轮转向",
+        "onboard_time": 1750050324,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 64849,
+        "num": 252234,
+        "word": "山东一景区推出窝囊版漂流",
+        "onboard_time": 1750050921,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252145,
+        "num": 252145,
+        "word": "男子在上海被日本人殴打",
+        "onboard_time": 1750044439,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235863,
+        "num": 235863,
+        "word": "看不出来杨采钰怀孕了",
+        "onboard_time": 1750047982,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224794,
+        "num": 224794,
+        "word": "原神",
+        "onboard_time": 1750050622,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209351,
+        "num": 209351,
+        "word": "一个被窝睡不出两种人",
+        "onboard_time": 1750049663,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171239,
+        "num": 203106,
+        "word": "时代少年团上海",
+        "onboard_time": 1750045222,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199713,
+        "num": 199713,
+        "word": "妻子称谁先提出离婚谁就要净身出户",
+        "onboard_time": 1750041200,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126015,
+        "num": 198538,
+        "word": "新说唱2025最佳diss",
+        "onboard_time": 1750050324,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198361,
+        "num": 198361,
+        "word": "湖南临澧通报山洲花炮厂爆炸",
+        "onboard_time": 1750044622,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 87523,
+        "num": 187092,
+        "word": "nova14人生的方向盘在自己手中",
+        "onboard_time": 1750048883,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45015,
+        "num": 182851,
+        "word": "男子拆小区百余个消防水枪当废品卖",
+        "onboard_time": 1750050562,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180172,
+        "num": 180172,
+        "word": "以请求国际援助拦截伊朗袭击",
+        "onboard_time": 1750049423,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143824,
+        "num": 176045,
+        "word": "波尔从孔令辉打到王楚钦",
+        "onboard_time": 1750051461,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173306,
+        "num": 173306,
+        "word": "难怪我一上高铁就睡觉",
+        "onboard_time": 1750019053,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172289,
+        "num": 172289,
+        "word": "谁懂作者是何炅的含金量",
+        "onboard_time": 1750048162,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 168556,
+        "num": 168556,
+        "word": "刘些宁为新剧剪短发",
+        "onboard_time": 1750051279,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156335,
+        "num": 156335,
+        "word": "易烊千玺雷佳音并肩而坐",
+        "onboard_time": 1750048162,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155413,
+        "num": 155413,
+        "word": "A股",
+        "onboard_time": 1750051400,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154252,
+        "num": 154252,
+        "word": "老师被曝让学生一字排开跪地写检讨",
+        "onboard_time": 1750050681,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150685,
+        "num": 150685,
+        "word": "适合00后的工作经验",
+        "onboard_time": 1750050981,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33254,
+        "num": 143872,
+        "word": "波尔谢幕战点燃全球乒坛",
+        "onboard_time": 1750050862,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143119,
+        "num": 143119,
+        "word": "时代少年团大连",
+        "onboard_time": 1750050681,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136032,
+        "num": 136032,
+        "word": "伊朗几乎没有完整的避难所",
+        "onboard_time": 1750042760,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87959,
+        "num": 135085,
+        "word": "2025最新本科专业速查",
+        "onboard_time": 1750038380,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134228,
+        "num": 134228,
+        "word": "临江仙粉丝退至我身后",
+        "onboard_time": 1750051580,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132701,
+        "num": 132701,
+        "word": "ally大学就读于211高校",
+        "onboard_time": 1750051400,
+        "rank": 44,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 132499,
+        "num": 132499,
+        "word": "王安宇昧着良心说了一段高情商的话",
+        "onboard_time": 1750042040,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131163,
+        "num": 131163,
+        "word": "那英 唱爽了就是开心",
+        "onboard_time": 1750051641,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129137,
+        "num": 129137,
+        "word": "象宝宝第一次凶人没有经验",
+        "onboard_time": 1750048523,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23310,
+        "num": 128010,
+        "word": "全民反诈在行动",
+        "onboard_time": 1750041380,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127830,
+        "num": 127830,
+        "word": "中亚草原上的中国风车",
+        "onboard_time": 1750049962,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习总书记的好作风#"
+    }
+  }
+}
