@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750094606689,
+  "endTime": 1750095763797,
   "band_list": [
     {
       "raw_hot": 907175,
@@ -235,8 +235,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87736,
-      "num": 87736,
+      "raw_hot": 97542,
+      "num": 97542,
       "word": "以色列孩子被导弹吓到哭着喊妈妈",
       "onboard_time": 1750093098,
       "rank": 14,
@@ -371,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71012,
+      "num": 71012,
+      "word": "短剧男主回应一胎99子剧情",
+      "onboard_time": 1750093277,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68694,
       "num": 68694,
       "word": "男子误将502当眼药水滴入右眼",
@@ -403,12 +411,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 55279,
-      "num": 69604,
-      "word": "短剧男主回应一胎99子剧情",
-      "onboard_time": 1750093277,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 54570,
+      "num": 67190,
+      "word": "台湾网红馆长直言最想去深圳",
+      "onboard_time": 1750094297,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51833,
@@ -443,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35649,
+      "num": 35649,
+      "word": "和蔡徐坤一起听浪漫北京",
+      "onboard_time": 1750095196,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 35282,
       "num": 41043,
       "word": "BOYS2PLANET",
@@ -467,20 +483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26309,
-      "num": 67190,
-      "word": "台湾网红馆长直言最想去深圳",
-      "onboard_time": 1750094297,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25098,
       "num": 73804,
       "word": "防不住根本防不住张子宇",
       "onboard_time": 1750083683,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16917,
+      "num": 65253,
+      "word": "哈战机升空护航",
+      "onboard_time": 1750095496,
+      "rank": 18,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750094606689,
+  "endTime": 1750095763797,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -6059,6 +6059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97542,
+      "num": 97542,
+      "word": "以色列孩子被导弹吓到哭着喊妈妈",
+      "onboard_time": 1750093098,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97242,
       "num": 123625,
       "word": "西瓜椰椰",
@@ -6265,14 +6273,6 @@
       "onboard_time": 1750076480,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87736,
-      "num": 87736,
-      "word": "以色列孩子被导弹吓到哭着喊妈妈",
-      "onboard_time": 1750093098,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87567,
@@ -6587,6 +6587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71012,
+      "num": 71012,
+      "word": "短剧男主回应一胎99子剧情",
+      "onboard_time": 1750093277,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69969,
       "num": 272072,
       "word": "马拉松冠军的训练是给女儿买牛奶",
@@ -6819,12 +6827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55279,
-      "num": 69604,
-      "word": "短剧男主回应一胎99子剧情",
-      "onboard_time": 1750093277,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 54570,
+      "num": 67190,
+      "word": "台湾网红馆长直言最想去深圳",
+      "onboard_time": 1750094297,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54111,
@@ -7363,6 +7371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35649,
+      "num": 35649,
+      "word": "和蔡徐坤一起听浪漫北京",
+      "onboard_time": 1750095196,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 35523,
       "num": 74773,
       "word": "王欣瑜晋级柏林站正赛",
@@ -7683,14 +7699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26309,
-      "num": 67190,
-      "word": "台湾网红馆长直言最想去深圳",
-      "onboard_time": 1750094297,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26247,
       "num": 450389,
       "word": "以色列先发制人背后",
@@ -7993,6 +8001,14 @@
       "onboard_time": 1749927076,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16917,
+      "num": 65253,
+      "word": "哈战机升空护航",
+      "onboard_time": 1750095496,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16763,
