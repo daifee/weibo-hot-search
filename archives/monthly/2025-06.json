@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750046181210,
+  "endTime": 1750048689937,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -2364,7 +2364,7 @@
     },
     {
       "raw_hot": 1065659,
-      "num": 421622,
+      "num": 424039,
       "word": "妻子称谁先提出离婚谁就要净身出户",
       "onboard_time": 1750041200,
       "rank": 10,
@@ -3145,6 +3145,14 @@
       "onboard_time": 1749033200,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 906065,
+      "num": 906065,
+      "word": "苹果用户再也不敢乱用emoji了",
+      "onboard_time": 1750042579,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 903105,
@@ -4057,14 +4065,6 @@
       "onboard_time": 1749013222,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 754806,
-      "num": 754806,
-      "word": "苹果用户再也不敢乱用emoji了",
-      "onboard_time": 1750042579,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 753863,
@@ -5259,6 +5259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 630505,
+      "num": 630505,
+      "word": "豆包p图",
+      "onboard_time": 1750046542,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 630482,
       "num": 630482,
       "word": "罗马仕公开声明",
@@ -6283,6 +6291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 566689,
+      "num": 566689,
+      "word": "湖南一鞭炮厂发生爆炸事故",
+      "onboard_time": 1750043722,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 566569,
       "num": 566569,
       "word": "男子刷视频发现失踪半年妻子在结婚",
@@ -6913,14 +6929,6 @@
       "onboard_time": 1749361522,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 521898,
-      "num": 521898,
-      "word": "湖南一鞭炮厂发生爆炸事故",
-      "onboard_time": 1750043722,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 521809,
@@ -7835,6 +7843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475208,
+      "num": 475208,
+      "word": "时代少年团上海",
+      "onboard_time": 1750045222,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 475155,
       "num": 405187,
       "word": "克拉恋人",
@@ -8056,6 +8072,14 @@
       "word": "丁程鑫减肥减到113斤",
       "onboard_time": 1749191722,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 465461,
+      "num": 465461,
+      "word": "BabyDONTCry出道",
+      "onboard_time": 1750045700,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -8843,6 +8867,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 423520,
+      "num": 423520,
+      "word": "王安宇昧着良心说了一段高情商的话",
+      "onboard_time": 1750042040,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422879,
       "num": 422879,
       "word": "湖南临澧通报山洲花炮厂爆炸",
@@ -9291,6 +9323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406067,
+      "num": 406067,
+      "word": "男子在上海被日本人殴打",
+      "onboard_time": 1750044439,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405942,
       "num": 255956,
       "word": "罗帅宇父亲质疑当地警方不予立案",
@@ -9545,6 +9585,14 @@
       "onboard_time": 1749719602,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396993,
+      "num": 385111,
+      "word": "林依晨二胎得子",
+      "onboard_time": 1750048223,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 396550,
@@ -9875,6 +9923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 385818,
+      "num": 385818,
+      "word": "长安的荔枝奋荔一搏海报",
+      "onboard_time": 1750043300,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385537,
       "num": 385537,
       "word": "白鹿直播",
@@ -9929,6 +9985,14 @@
       "onboard_time": 1749462142,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383573,
+      "num": 383573,
+      "word": "何洁发长文后秒删",
+      "onboard_time": 1750046841,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 383407,
@@ -11049,14 +11113,6 @@
       "onboard_time": 1749291203,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 349011,
-      "num": 349011,
-      "word": "长安的荔枝奋荔一搏海报",
-      "onboard_time": 1750043300,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 348870,
@@ -12875,6 +12931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299850,
+      "num": 299850,
+      "word": "蛮荒禁地",
+      "onboard_time": 1750047441,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299841,
       "num": 299841,
       "word": "樊振东樊指导上线了",
@@ -14051,6 +14115,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 275603,
+      "num": 275603,
+      "word": "梅婷别演了我害怕",
+      "onboard_time": 1750048043,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 275563,
       "num": 275563,
       "word": "以闪亮之名",
@@ -14344,14 +14416,6 @@
       "word": "陈粒 我是北京孩子",
       "onboard_time": 1748957362,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 269388,
-      "num": 412780,
-      "word": "王安宇昧着良心说了一段高情商的话",
-      "onboard_time": 1750042040,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -14899,6 +14963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259748,
+      "num": 259748,
+      "word": "看不出来杨采钰怀孕了",
+      "onboard_time": 1750047982,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259466,
       "num": 299886,
       "word": "大四男生一口气收8个offer年薪20万",
@@ -15089,14 +15161,6 @@
       "onboard_time": 1748879781,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 257129,
-      "num": 257129,
-      "word": "BabyDONTCry出道",
-      "onboard_time": 1750045700,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 256777,
@@ -15995,14 +16059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241720,
-      "num": 241720,
-      "word": "时代少年团上海",
-      "onboard_time": 1750045222,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 241642,
       "num": 241642,
       "word": "让肝脏变好的7个小习惯",
@@ -16513,6 +16569,14 @@
       "onboard_time": 1749047601,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 234339,
+      "num": 234339,
+      "word": "迪丽热巴一句话杀死了比赛",
+      "onboard_time": 1750045522,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 234079,
@@ -17457,6 +17521,14 @@
       "onboard_time": 1749608599,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 224011,
+      "num": 224011,
+      "word": "当我发现我妈跟刘亦菲演过戏",
+      "onboard_time": 1750048101,
+      "rank": 33,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 223923,
@@ -19051,14 +19123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209179,
-      "num": 209179,
-      "word": "迪丽热巴一句话杀死了比赛",
-      "onboard_time": 1750045522,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209174,
       "num": 209174,
       "word": "赵丽颖身上的文人气质",
@@ -19763,6 +19827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205177,
+      "num": 205177,
+      "word": "易烊千玺雷佳音并肩而坐",
+      "onboard_time": 1750048162,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205168,
       "num": 205168,
       "word": "坠湖女司机独自抚养2个大学生",
@@ -19937,6 +20009,14 @@
       "onboard_time": 1748935521,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203746,
+      "num": 203746,
+      "word": "惠英红误入精神病院",
+      "onboard_time": 1750048162,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 203728,
@@ -21899,8 +21979,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193184,
+      "num": 193184,
+      "word": "谁懂作者是何炅的含金量",
+      "onboard_time": 1750048162,
+      "rank": 38,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 193155,
-      "num": 193155,
+      "num": 291865,
       "word": "A股光线传媒涨停",
       "onboard_time": 1750045819,
       "rank": 32,
@@ -24425,14 +24513,6 @@
       "onboard_time": 1749734841,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180024,
-      "num": 180024,
-      "word": "男子在上海被日本人殴打",
-      "onboard_time": 1750044439,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179992,
@@ -27651,6 +27731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 163555,
+      "num": 163555,
+      "word": "时代少年团上海四场",
+      "onboard_time": 1750047921,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163448,
       "num": 163448,
       "word": "清融补自拍",
@@ -27859,6 +27947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162300,
+      "num": 162300,
+      "word": "建议大家不要长期戴隐形眼镜",
+      "onboard_time": 1750044981,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162260,
       "num": 162260,
       "word": "一集亲亲两集结婚三集洞房",
@@ -27881,6 +27977,14 @@
       "onboard_time": 1749648862,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 162141,
+      "num": 162141,
+      "word": "曾舜晞少跟梁永棋玩",
+      "onboard_time": 1750048523,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 162090,
@@ -28105,14 +28209,6 @@
       "onboard_time": 1749519021,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161096,
-      "num": 161096,
-      "word": "建议大家不要长期戴隐形眼镜",
-      "onboard_time": 1750044981,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 161080,
@@ -29089,6 +29185,14 @@
       "onboard_time": 1749651444,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156740,
+      "num": 156740,
+      "word": "波尔正式退役",
+      "onboard_time": 1750046361,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 156703,
@@ -30675,6 +30779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149227,
+      "num": 173491,
+      "word": "赵丽颖西林对时代宣言式呐喊",
+      "onboard_time": 1750047921,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149138,
       "num": 153863,
       "word": "临江仙进行曲来了",
@@ -30912,6 +31024,14 @@
       "word": "原来这就是天然味精",
       "onboard_time": 1749396142,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 148166,
+      "num": 148166,
+      "word": "象宝宝第一次凶人没有经验",
+      "onboard_time": 1750048523,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -33683,6 +33803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137225,
+      "num": 137225,
+      "word": "泰国坠亡中国男子生前最后对话曝光",
+      "onboard_time": 1750048582,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 137186,
       "num": 213556,
       "word": "沈腾笑起来好像labubu",
@@ -35163,6 +35291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131832,
+      "num": 424084,
+      "word": "湖南花炮厂爆炸亲历者发声",
+      "onboard_time": 1750046960,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 131790,
       "num": 183463,
       "word": "才看到陈学冬更新的动态",
@@ -35617,6 +35753,14 @@
       "onboard_time": 1749114861,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130282,
+      "num": 397047,
+      "word": "张柏芝生图比白瓷还白",
+      "onboard_time": 1750044920,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 130276,
@@ -40195,6 +40339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110291,
+      "num": 172996,
+      "word": "女子称被追求2年多收近千条骚扰短信",
+      "onboard_time": 1750042880,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110261,
       "num": 110261,
       "word": "台湾网红馆长6天行程曝光",
@@ -41481,6 +41633,14 @@
       "onboard_time": 1748834360,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102969,
+      "num": 169042,
+      "word": "女子称外国人在高铁大声开party",
+      "onboard_time": 1750046120,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102968,
@@ -43083,14 +43243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94021,
-      "num": 397047,
-      "word": "张柏芝生图比白瓷还白",
-      "onboard_time": 1750044920,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93978,
       "num": 93978,
       "word": "真让周深学会悬浮术了",
@@ -43249,6 +43401,14 @@
       "onboard_time": 1748912720,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93136,
+      "num": 384299,
+      "word": "马克龙突访格陵兰岛",
+      "onboard_time": 1750046901,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93103,
@@ -45577,6 +45737,14 @@
       "onboard_time": 1749545961,
       "rank": 14,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 77173,
+      "num": 178719,
+      "word": "郑钦文世排升至第4",
+      "onboard_time": 1750048462,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 77155,
@@ -48027,6 +48195,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 59691,
+      "num": 385475,
+      "word": "烟花厂爆炸涉事企业19天前刚被罚",
+      "onboard_time": 1750047262,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59386,
       "num": 152734,
       "word": "职业选手的护照是一本写满遗憾的书",
@@ -50211,6 +50387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 45644,
+      "num": 383728,
+      "word": "湖南临澧一花炮厂爆炸邻县有震感",
+      "onboard_time": 1750047141,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 45637,
       "num": 266624,
       "word": "吃榴莲真的能缓解痛经吗",
@@ -50480,14 +50664,6 @@
       "word": "出租车别停公交车竟称是乘客要求",
       "onboard_time": 1749726262,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44126,
-      "num": 169042,
-      "word": "女子称外国人在高铁大声开party",
-      "onboard_time": 1750046120,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -51593,6 +51769,14 @@
       "onboard_time": 1749718942,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38276,
+      "num": 384322,
+      "word": "湿厕纸比普通纸巾擦得更干净吗",
+      "onboard_time": 1750047082,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 38265,
@@ -53203,6 +53387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31194,
+      "num": 754134,
+      "word": "全民反诈在行动",
+      "onboard_time": 1750041380,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31174,
       "num": 170801,
       "word": "美国的回旋镖",
@@ -53328,14 +53520,6 @@
       "word": "有捏捏玩具甲醛超标40多倍",
       "onboard_time": 1748750660,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30565,
-      "num": 647530,
-      "word": "全民反诈在行动",
-      "onboard_time": 1750041380,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -54033,6 +54217,14 @@
       "onboard_time": 1749706101,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27850,
+      "num": 288409,
+      "word": "湖南鞭炮厂爆炸周边民房玻璃被震碎",
+      "onboard_time": 1750048462,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 27834,

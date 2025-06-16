@@ -1,0 +1,410 @@
+{
+  "runTime": 1750048689937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2921775,
+        "num": 2921775,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 906065,
+        "num": 906065,
+        "word": "苹果用户再也不敢乱用emoji了",
+        "onboard_time": 1750042579,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31194,
+        "num": 754134,
+        "word": "全民反诈在行动",
+        "onboard_time": 1750041380,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630505,
+        "num": 630505,
+        "word": "豆包p图",
+        "onboard_time": 1750046542,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 566689,
+        "num": 566689,
+        "word": "湖南一鞭炮厂发生爆炸事故",
+        "onboard_time": 1750043722,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 504825,
+        "num": 504825,
+        "word": "伊朗被摩萨德渗透成了筛子",
+        "onboard_time": 1750042040,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 475208,
+        "num": 475208,
+        "word": "时代少年团上海",
+        "onboard_time": 1750045222,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 465461,
+        "num": 465461,
+        "word": "BabyDONTCry出道",
+        "onboard_time": 1750045700,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280057,
+        "num": 438845,
+        "word": "伊朗导弹击中海法和特拉维夫",
+        "onboard_time": 1750030459,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131832,
+        "num": 424084,
+        "word": "湖南花炮厂爆炸亲历者发声",
+        "onboard_time": 1750046960,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 733727,
+        "num": 424039,
+        "word": "妻子称谁先提出离婚谁就要净身出户",
+        "onboard_time": 1750041200,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423520,
+        "num": 423520,
+        "word": "王安宇昧着良心说了一段高情商的话",
+        "onboard_time": 1750042040,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406067,
+        "num": 406067,
+        "word": "男子在上海被日本人殴打",
+        "onboard_time": 1750044439,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385818,
+        "num": 385818,
+        "word": "长安的荔枝奋荔一搏海报",
+        "onboard_time": 1750043300,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59691,
+        "num": 385475,
+        "word": "烟花厂爆炸涉事企业19天前刚被罚",
+        "onboard_time": 1750047262,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396993,
+        "num": 385111,
+        "word": "林依晨二胎得子",
+        "onboard_time": 1750048223,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130282,
+        "num": 384926,
+        "word": "张柏芝生图比白瓷还白",
+        "onboard_time": 1750044920,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38276,
+        "num": 384322,
+        "word": "湿厕纸比普通纸巾擦得更干净吗",
+        "onboard_time": 1750047082,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93136,
+        "num": 384299,
+        "word": "马克龙突访格陵兰岛",
+        "onboard_time": 1750046901,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45644,
+        "num": 383728,
+        "word": "湖南临澧一花炮厂爆炸邻县有震感",
+        "onboard_time": 1750047141,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 383573,
+        "num": 383573,
+        "word": "何洁发长文后秒删",
+        "onboard_time": 1750046841,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367101,
+        "num": 367101,
+        "word": "伊朗几乎没有完整的避难所",
+        "onboard_time": 1750042760,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356005,
+        "num": 356005,
+        "word": "难怪我一上高铁就睡觉",
+        "onboard_time": 1750019053,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299850,
+        "num": 299850,
+        "word": "蛮荒禁地",
+        "onboard_time": 1750047441,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109934,
+        "num": 291865,
+        "word": "A股光线传媒涨停",
+        "onboard_time": 1750045819,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27850,
+        "num": 288409,
+        "word": "湖南鞭炮厂爆炸周边民房玻璃被震碎",
+        "onboard_time": 1750048462,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 314359,
+        "num": 287833,
+        "word": "何洁发长文回应假唱争议",
+        "onboard_time": 1750042939,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286189,
+        "num": 286189,
+        "word": "湖南临澧通报山洲花炮厂爆炸",
+        "onboard_time": 1750044622,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 275603,
+        "num": 275603,
+        "word": "梅婷别演了我害怕",
+        "onboard_time": 1750048043,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263002,
+        "num": 263002,
+        "word": "张真源毕业",
+        "onboard_time": 1750041200,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259748,
+        "num": 259748,
+        "word": "看不出来杨采钰怀孕了",
+        "onboard_time": 1750047982,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234339,
+        "num": 234339,
+        "word": "迪丽热巴一句话杀死了比赛",
+        "onboard_time": 1750045522,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228286,
+        "num": 228286,
+        "word": "曾舜晞吃白鹿妈妈做的饭",
+        "onboard_time": 1750044862,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224011,
+        "num": 224011,
+        "word": "当我发现我妈跟刘亦菲演过戏",
+        "onboard_time": 1750048101,
+        "rank": 33,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 213819,
+        "num": 213819,
+        "word": "韩网红首次看中剧瞬间震惊",
+        "onboard_time": 1750034120,
+        "rank": 34,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 205177,
+        "num": 205177,
+        "word": "易烊千玺雷佳音并肩而坐",
+        "onboard_time": 1750048162,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203746,
+        "num": 203746,
+        "word": "惠英红误入精神病院",
+        "onboard_time": 1750048162,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216467,
+        "num": 199323,
+        "word": "白鹿演技",
+        "onboard_time": 1750046601,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193184,
+        "num": 193184,
+        "word": "谁懂作者是何炅的含金量",
+        "onboard_time": 1750048162,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 77173,
+        "num": 178719,
+        "word": "郑钦文世排升至第4",
+        "onboard_time": 1750048462,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149227,
+        "num": 173491,
+        "word": "赵丽颖西林对时代宣言式呐喊",
+        "onboard_time": 1750047921,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110291,
+        "num": 172996,
+        "word": "女子称被追求2年多收近千条骚扰短信",
+        "onboard_time": 1750042880,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172665,
+        "num": 172665,
+        "word": "大学里的男生为什么越来越少了",
+        "onboard_time": 1749996083,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163555,
+        "num": 163555,
+        "word": "时代少年团上海四场",
+        "onboard_time": 1750047921,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162300,
+        "num": 162300,
+        "word": "建议大家不要长期戴隐形眼镜",
+        "onboard_time": 1750044981,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162141,
+        "num": 162141,
+        "word": "曾舜晞少跟梁永棋玩",
+        "onboard_time": 1750048523,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156740,
+        "num": 156740,
+        "word": "波尔正式退役",
+        "onboard_time": 1750046361,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148166,
+        "num": 148166,
+        "word": "象宝宝第一次凶人没有经验",
+        "onboard_time": 1750048523,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102969,
+        "num": 140448,
+        "word": "女子称外国人在高铁大声开party",
+        "onboard_time": 1750046120,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137225,
+        "num": 137225,
+        "word": "泰国坠亡中国男子生前最后对话曝光",
+        "onboard_time": 1750048582,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会#"
+    }
+  }
+}
