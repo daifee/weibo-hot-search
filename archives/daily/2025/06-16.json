@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750084058763,
+  "endTime": 1750085128092,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -363,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 540351,
+      "num": 1086456,
+      "word": "我是军人啊难道不该以命换命吗",
+      "onboard_time": 1750076901,
+      "rank": 23,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 532591,
       "num": 532591,
       "word": "泡泡玛特补货",
@@ -385,14 +393,6 @@
       "onboard_time": 1750061659,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 501934,
-      "num": 501934,
-      "word": "我是军人啊难道不该以命换命吗",
-      "onboard_time": 1750076901,
-      "rank": 23,
-      "category": "正能量"
     },
     {
       "raw_hot": 495665,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474564,
+      "num": 474564,
+      "word": "范丞丞给白鹿新剧做宣传",
+      "onboard_time": 1750081282,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 473511,
       "num": 473511,
       "word": "张真源毕业",
@@ -483,12 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453903,
+      "num": 453903,
+      "word": "以色列",
+      "onboard_time": 1750079902,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 438060,
       "num": 438060,
       "word": "台风蝴蝶停止编号",
       "onboard_time": 1750037298,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437010,
+      "num": 437010,
+      "word": "身高2米26张子宇vs防守队员",
+      "onboard_time": 1750080741,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 432037,
@@ -537,14 +561,6 @@
       "onboard_time": 1750080560,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415742,
-      "num": 415742,
-      "word": "身高2米26张子宇vs防守队员",
-      "onboard_time": 1750080741,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 411756,
@@ -616,14 +632,6 @@
       "word": "长安的荔枝奋荔一搏海报",
       "onboard_time": 1750043300,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 383380,
-      "num": 425157,
-      "word": "范丞丞给白鹿新剧做宣传",
-      "onboard_time": 1750081282,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -987,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257361,
-      "num": 257361,
-      "word": "以色列",
-      "onboard_time": 1750079902,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 255310,
       "num": 271269,
       "word": "山科大再回应禁用红米手机考试",
@@ -1089,6 +1089,14 @@
       "onboard_time": 1750045522,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232630,
+      "num": 415909,
+      "word": "伊朗武装部队警告以色列民众尽快撤离",
+      "onboard_time": 1750079781,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 232368,
@@ -1235,14 +1243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 207545,
-      "num": 415909,
-      "word": "伊朗武装部队警告以色列民众尽快撤离",
-      "onboard_time": 1750079781,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 206361,
       "num": 206361,
       "word": "陈哲远直播吃上碳水了",
@@ -1323,6 +1323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 194382,
+      "num": 300828,
+      "word": "王安宇你敢问我都不敢听",
+      "onboard_time": 1750081101,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194365,
       "num": 194365,
       "word": "欧阳娜娜审美",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1750067660,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189351,
+      "num": 321506,
+      "word": "上班爱吐槽的人不容易离职",
+      "onboard_time": 1750082602,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188977,
@@ -1475,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180909,
+      "num": 190051,
+      "word": "易烊千玺凭借小小的我获奖",
+      "onboard_time": 1750085002,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179932,
       "num": 191328,
       "word": "ILLIT空降成绩",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1750074560,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176379,
+      "num": 189550,
+      "word": "章子怡邀请易烊千玺再次合作",
+      "onboard_time": 1750084102,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 175216,
@@ -1561,14 +1593,6 @@
       "onboard_time": 1750051400,
       "rank": 44,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 168931,
-      "num": 168931,
-      "word": "王安宇你敢问我都不敢听",
-      "onboard_time": 1750081101,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 168794,
@@ -1811,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157295,
+      "num": 150350,
+      "word": "杜淳老婆发文与剖腹产疤痕和解",
+      "onboard_time": 1750081581,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157089,
       "num": 157089,
       "word": "陈哲远西安",
@@ -1913,14 +1945,6 @@
       "onboard_time": 1750075700,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150350,
-      "num": 150350,
-      "word": "杜淳老婆发文与剖腹产疤痕和解",
-      "onboard_time": 1750081581,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 150181,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1749988340,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134947,
+      "num": 134947,
+      "word": "哈哈哈哈哈",
+      "onboard_time": 1750084821,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 133892,
@@ -2339,6 +2371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126231,
+      "num": 126231,
+      "word": "让孩子感到被爱的5个瞬间",
+      "onboard_time": 1750084943,
+      "rank": 41,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 126015,
       "num": 198538,
       "word": "新说唱2025最佳diss",
@@ -2411,8 +2451,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121401,
+      "num": 121401,
+      "word": "宋雨琦怀疑自己的事一件不做",
+      "onboard_time": 1750084402,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120956,
-      "num": 120956,
+      "num": 295435,
       "word": "宋小宝赵本山 老年版王嘉尔陈冠希",
       "onboard_time": 1750080202,
       "rank": 46,
@@ -2473,14 +2521,6 @@
       "onboard_time": 1750052240,
       "rank": 18,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 118802,
-      "num": 321506,
-      "word": "上班爱吐槽的人不容易离职",
-      "onboard_time": 1750082602,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118688,
@@ -3091,19 +3131,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77719,
+      "num": 280074,
+      "word": "防不住根本防不住张子宇",
+      "onboard_time": 1750083683,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77451,
       "num": 77451,
       "word": "王楚钦爸爸谈儿子从小的心愿",
       "onboard_time": 1749995902,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 77412,
-      "num": 123806,
-      "word": "防不住根本防不住张子宇",
-      "onboard_time": 1750083683,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -3331,6 +3371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49376,
+      "num": 167314,
+      "word": "金毛治病花六千保险只报一千五",
+      "onboard_time": 1750083263,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49162,
       "num": 49162,
       "word": "道崽缺席赛后互动",
@@ -3403,6 +3451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46187,
+      "num": 484038,
+      "word": "一组数据看中国经济稳中有进",
+      "onboard_time": 1750082842,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45644,
       "num": 383728,
       "word": "湖南临澧一花炮厂爆炸邻县有震感",
@@ -3467,14 +3523,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 42179,
-      "num": 484038,
-      "word": "一组数据看中国经济稳中有进",
-      "onboard_time": 1750082842,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41589,
       "num": 251409,
       "word": "女子称吃海底捞未来日期麻酱致腹泻",
@@ -3495,14 +3543,6 @@
       "num": 255310,
       "word": "村民哄抢农场土豆",
       "onboard_time": 1750062739,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39590,
-      "num": 167314,
-      "word": "金毛治病花六千保险只报一千五",
-      "onboard_time": 1750083263,
       "rank": 28,
       "category": "民生新闻"
     },
@@ -3545,6 +3585,22 @@
       "onboard_time": 1750047082,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 37951,
+      "num": 422590,
+      "word": "中国连续16年为非洲最大贸易伙伴国",
+      "onboard_time": 1750083683,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 37838,
+      "num": 278583,
+      "word": "女子借车醉驾致3人死亡案家属发声",
+      "onboard_time": 1750084643,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37609,
@@ -3591,6 +3647,14 @@
       "num": 318274,
       "word": "11岁男孩心愿是给病父买导尿管",
       "onboard_time": 1750061419,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35363,
+      "num": 313076,
+      "word": "泡泡玛特盲盒代摇生意火爆",
+      "onboard_time": 1750084581,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -3721,14 +3785,6 @@
       "onboard_time": 1750018874,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 28391,
-      "num": 422590,
-      "word": "中国连续16年为非洲最大贸易伙伴国",
-      "onboard_time": 1750083683,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28109,
@@ -4053,6 +4109,9 @@
     },
     {
       "word": "#共同迎接六国更加美好的明天#"
+    },
+    {
+      "word": "#哈萨克斯坦以最高规格欢迎习主席#"
     }
   ]
 }
