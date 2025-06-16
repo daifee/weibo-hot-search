@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750091629624,
+  "endTime": 1750092594087,
   "band_list": [
     {
       "raw_hot": 907175,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 676882,
-      "num": 403613,
+      "num": 415366,
       "word": "涨工资的信号越来越明确",
       "onboard_time": 1750077020,
       "rank": 3,
@@ -43,20 +43,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370128,
+      "num": 370128,
+      "word": "男子养了10年的女儿竟不是亲生的",
+      "onboard_time": 1750087401,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 368540,
       "num": 368540,
       "word": "易烊千玺叫章子怡姐姐",
       "onboard_time": 1750086621,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 345794,
-      "num": 345794,
-      "word": "男子养了10年的女儿竟不是亲生的",
-      "onboard_time": 1750087401,
-      "rank": 6,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 337522,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 170662,
-      "num": 170662,
+      "num": 182710,
       "word": "优衣库 镜子",
       "onboard_time": 1750041620,
       "rank": 16,
@@ -339,8 +339,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70244,
-      "num": 70244,
+      "raw_hot": 71287,
+      "num": 71287,
       "word": "BLG官宣Wei离队",
       "onboard_time": 1750074141,
       "rank": 45,
@@ -372,11 +372,19 @@
     },
     {
       "raw_hot": 57738,
-      "num": 57738,
+      "num": 59027,
       "word": "雷军谈小米汽车成功原因",
       "onboard_time": 1750085422,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 51833,
+      "num": 59084,
+      "word": "听泉赏宝公司再次被诉",
+      "onboard_time": 1750089380,
+      "rank": 46,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 50834,
@@ -387,8 +395,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46513,
+      "num": 182155,
+      "word": "伊朗称袭击致以防空系统自相攻击",
+      "onboard_time": 1750091838,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32536,
-      "num": 435248,
+      "num": 438611,
       "word": "一组数据看中国经济稳中有进",
       "onboard_time": 1750082842,
       "rank": 2,
