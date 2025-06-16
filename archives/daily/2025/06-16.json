@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750058861871,
+  "endTime": 1750059728426,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -25,6 +25,14 @@
       "onboard_time": 1750041200,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1025657,
+      "num": 847980,
+      "word": "同学为那尔那茜发声",
+      "onboard_time": 1750055840,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 906065,
@@ -59,14 +67,6 @@
       "category": "网红,民生新闻"
     },
     {
-      "raw_hot": 847980,
-      "num": 847980,
-      "word": "同学为那尔那茜发声",
-      "onboard_time": 1750055840,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 819122,
       "num": 318124,
       "word": "前男友删除与韦雪有关视频",
@@ -83,7 +83,7 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 751571,
+      "raw_hot": 761892,
       "num": 392027,
       "word": "老师被曝让学生一字排开跪地写检讨",
       "onboard_time": 1750050681,
@@ -105,6 +105,14 @@
       "onboard_time": 1750049181,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 729066,
+      "num": 729066,
+      "word": "Labubu 审美",
+      "onboard_time": 1750055840,
+      "rank": 48,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 717026,
@@ -203,12 +211,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 532446,
-      "num": 532446,
-      "word": "Labubu 审美",
-      "onboard_time": 1750055840,
-      "rank": 48,
-      "category": "休闲,动漫"
+      "raw_hot": 532275,
+      "num": 359633,
+      "word": "易烊千玺第一部男主剧",
+      "onboard_time": 1750056321,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 494326,
@@ -315,20 +323,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 409441,
-      "num": 290469,
-      "word": "易烊千玺第一部男主剧",
-      "onboard_time": 1750056321,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 407141,
       "num": 407141,
       "word": "何洁发长文后秒删",
       "onboard_time": 1750046841,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406433,
+      "num": 406433,
+      "word": "俄罗斯宣布从伊朗撤侨",
+      "onboard_time": 1750057881,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 406067,
@@ -411,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346343,
+      "num": 299770,
+      "word": "林依晨长文回应二胎得子",
+      "onboard_time": 1750056801,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342654,
       "num": 294117,
       "word": "那尔那茜走红之路多个疑点待彻查",
@@ -424,6 +440,14 @@
       "word": "去年在园儿童减少500多万",
       "onboard_time": 1750032200,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326650,
+      "num": 326650,
+      "word": "12306回应一上高铁就睡觉是因缺氧",
+      "onboard_time": 1750057459,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 311822,
-      "num": 264909,
+      "num": 294005,
       "word": "避雷向佐粉底液",
       "onboard_time": 1750053621,
       "rank": 29,
@@ -473,6 +497,14 @@
       "onboard_time": 1749994944,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291662,
+      "num": 291662,
+      "word": "难怪柯淳不敢直视刘涛",
+      "onboard_time": 1750055360,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 284574,
@@ -555,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251606,
+      "num": 251606,
+      "word": "赵今麦蕾丝与球鞋",
+      "onboard_time": 1750058601,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249245,
       "num": 249245,
       "word": "曾舜晞吃白鹿妈妈做的饭",
@@ -571,28 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243129,
-      "num": 243129,
-      "word": "林依晨长文回应二胎得子",
-      "onboard_time": 1750056801,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241891,
       "num": 241891,
       "word": "易烊千玺雷佳音并肩而坐",
       "onboard_time": 1750048162,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240912,
-      "num": 240912,
-      "word": "难怪柯淳不敢直视刘涛",
-      "onboard_time": 1750055360,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 238547,
@@ -691,14 +715,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 220339,
-      "num": 282652,
-      "word": "俄罗斯宣布从伊朗撤侨",
-      "onboard_time": 1750057881,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 218940,
       "num": 252843,
       "word": "伊朗革命卫队情报负责人遭以暗杀",
@@ -771,20 +787,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202500,
+      "num": 271269,
+      "word": "山科大再回应禁用红米手机考试",
+      "onboard_time": 1750058359,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200848,
+      "num": 200848,
+      "word": "王鹤棣粉丝向咸鱼飞升剧组维权",
+      "onboard_time": 1750058840,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198666,
       "num": 198666,
       "word": "无锡队倒数第一也没关系我是江阴的",
       "onboard_time": 1750005320,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196424,
-      "num": 196424,
-      "word": "赵今麦蕾丝与球鞋",
-      "onboard_time": 1750058601,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 194356,
@@ -1027,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159014,
+      "num": 159014,
+      "word": "张靓颖 深圳",
+      "onboard_time": 1750058961,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158900,
       "num": 253411,
       "word": "抖音618抄底攻略来了",
@@ -1115,6 +1147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 151143,
+      "num": 151143,
+      "word": "哪吒2票房100元片方只拿33元",
+      "onboard_time": 1750059380,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150685,
       "num": 150685,
       "word": "适合00后的工作经验",
@@ -1171,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145074,
+      "num": 145074,
+      "word": "几块钱一杯的咖啡不会亏本吗",
+      "onboard_time": 1750058720,
+      "rank": 46,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 144677,
       "num": 144677,
       "word": "张婧仪周翊然你俩甜得不像演的",
@@ -1185,14 +1233,6 @@
       "onboard_time": 1750050681,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141364,
-      "num": 273967,
-      "word": "12306回应一上高铁就睡觉是因缺氧",
-      "onboard_time": 1750057459,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140765,
@@ -1227,20 +1267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136145,
-      "num": 158172,
-      "word": "山科大再回应禁用红米手机考试",
-      "onboard_time": 1750058359,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136040,
       "num": 136040,
       "word": "这些食物不建议二次加热",
       "onboard_time": 1750044862,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135168,
+      "num": 251616,
+      "word": "雨后积水大鱼顺水游到烧烤店",
+      "onboard_time": 1750058121,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135088,
@@ -1412,7 +1452,7 @@
     },
     {
       "raw_hot": 120532,
-      "num": 133091,
+      "num": 134607,
       "word": "Fly晋级MSI",
       "onboard_time": 1750056499,
       "rank": 43,
@@ -1443,6 +1483,22 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 116990,
+      "num": 136506,
+      "word": "伊朗反击打下的不仅有F35",
+      "onboard_time": 1750058179,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116797,
+      "num": 116797,
+      "word": "长安的荔枝选角",
+      "onboard_time": 1750058660,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116470,
       "num": 114493,
       "word": "佘诗曼抢到了炸虾labubu",
@@ -1451,27 +1507,19 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 115898,
+      "num": 115898,
+      "word": "建议大家七八月的时候不要轻易离职",
+      "onboard_time": 1750059440,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115770,
       "num": 162744,
       "word": "临江仙断更的原因",
       "onboard_time": 1750029499,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 115174,
-      "num": 135385,
-      "word": "伊朗反击打下的不仅有F35",
-      "onboard_time": 1750058179,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 114214,
-      "num": 114214,
-      "word": "王鹤棣粉丝向咸鱼飞升剧组维权",
-      "onboard_time": 1750058840,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1521,14 +1569,6 @@
       "onboard_time": 1750043180,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 111014,
-      "num": 111014,
-      "word": "几块钱一杯的咖啡不会亏本吗",
-      "onboard_time": 1750058720,
-      "rank": 46,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 110906,
@@ -1739,20 +1779,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83059,
+      "num": 259703,
+      "word": "被小哥们的大合唱暖到了",
+      "onboard_time": 1750058121,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82959,
       "num": 177494,
       "word": "林保怡说易烊千玺小小的我很难演",
       "onboard_time": 1750055720,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 82424,
-      "num": 242267,
-      "word": "雨后积水大鱼顺水游到烧烤店",
-      "onboard_time": 1750058121,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82092,
@@ -1819,14 +1859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77648,
-      "num": 243017,
-      "word": "被小哥们的大合唱暖到了",
-      "onboard_time": 1750058121,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77451,
       "num": 77451,
       "word": "王楚钦爸爸谈儿子从小的心愿",
@@ -1889,6 +1921,14 @@
       "onboard_time": 1750050442,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 65639,
+      "num": 175773,
+      "word": "伊空军司令曾仔细参观歼10CE",
+      "onboard_time": 1750058479,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65308,
@@ -1955,14 +1995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53423,
-      "num": 175773,
-      "word": "伊空军司令曾仔细参观歼10CE",
-      "onboard_time": 1750058479,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 53178,
       "num": 99921,
       "word": "肖战超绝哭戏令人共情",
@@ -2017,6 +2049,14 @@
       "onboard_time": 1749981860,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46773,
+      "num": 177265,
+      "word": "墨西哥一市长在办公室被枪杀",
+      "onboard_time": 1750059140,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46358,
@@ -2241,6 +2281,14 @@
       "onboard_time": 1750012335,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23620,
+      "num": 251634,
+      "word": "机长谈波音客机因机械故障紧急返航",
+      "onboard_time": 1750059019,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23576,
