@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750116290916,
+  "endTime": 1750117176929,
   "band_list": [
     {
       "raw_hot": 907175,
@@ -11,7 +11,15 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 676882,
+      "raw_hot": 821281,
+      "num": 804324,
+      "word": "失踪3月被发现遗体老人女儿发声",
+      "onboard_time": 1750115058,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 763265,
       "num": 415366,
       "word": "涨工资的信号越来越明确",
       "onboard_time": 1750077020,
@@ -27,28 +35,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 511403,
-      "num": 804324,
-      "word": "失踪3月被发现遗体老人女儿发声",
-      "onboard_time": 1750115058,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 543743,
+      "num": 225676,
+      "word": "短剧男主回应一胎99子剧情",
+      "onboard_time": 1750093277,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 510864,
-      "num": 519511,
+      "num": 908558,
       "word": "以色列袭击伊朗国家电视台大楼",
       "onboard_time": 1750088601,
       "rank": 1,
       "category": "国际时政"
     },
     {
-      "raw_hot": 471116,
-      "num": 225676,
-      "word": "短剧男主回应一胎99子剧情",
-      "onboard_time": 1750093277,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 410947,
+      "num": 410947,
+      "word": "男子养了10年的女儿竟不是亲生的",
+      "onboard_time": 1750087401,
+      "rank": 6,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 402032,
@@ -59,12 +67,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370128,
-      "num": 370128,
-      "word": "男子养了10年的女儿竟不是亲生的",
-      "onboard_time": 1750087401,
-      "rank": 6,
-      "category": "舆论监督"
+      "raw_hot": 392947,
+      "num": 392947,
+      "word": "印度坠机或因副驾驶拉错操纵杆",
+      "onboard_time": 1750114939,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 368540,
@@ -81,6 +89,14 @@
       "onboard_time": 1750079421,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 325445,
+      "num": 241472,
+      "word": "曝艺人参加综艺录制迟到12小时",
+      "onboard_time": 1750066819,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 310631,
@@ -107,20 +123,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 279287,
-      "num": 241472,
-      "word": "曝艺人参加综艺录制迟到12小时",
-      "onboard_time": 1750066819,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 254178,
+      "num": 128010,
+      "word": "男性其实更需要亲密关系",
+      "onboard_time": 1750114939,
+      "rank": 17,
+      "category": "情感"
     },
     {
-      "raw_hot": 266365,
-      "num": 266365,
-      "word": "印度坠机或因副驾驶拉错操纵杆",
-      "onboard_time": 1750114939,
-      "rank": 5,
-      "category": "海外新闻"
+      "raw_hot": 230267,
+      "num": 230267,
+      "word": "男子卖茅台7年多近期转型卖拉布布",
+      "onboard_time": 1750085482,
+      "rank": 26,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 226863,
@@ -137,6 +153,14 @@
       "onboard_time": 1750080560,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203914,
+      "num": 203914,
+      "word": "一骑红尘妃子笑读音",
+      "onboard_time": 1750076841,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 189895,
@@ -163,20 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159008,
-      "num": 159008,
-      "word": "男子卖茅台7年多近期转型卖拉布布",
-      "onboard_time": 1750085482,
+      "raw_hot": 148990,
+      "num": 148990,
+      "word": "伊朗对以色列新一轮导弹袭击",
+      "onboard_time": 1750116017,
       "rank": 26,
-      "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 150644,
-      "num": 150644,
-      "word": "一骑红尘妃子笑读音",
-      "onboard_time": 1750076841,
-      "rank": 23,
-      "category": "科学科普"
+      "category": "国际时政"
     },
     {
       "raw_hot": 147901,
@@ -193,6 +209,14 @@
       "onboard_time": 1750087101,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145423,
+      "num": 120593,
+      "word": "特朗普正式进军手机市场",
+      "onboard_time": 1750114998,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139086,
@@ -219,6 +243,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129185,
+      "num": 129185,
+      "word": "深圳暴雨",
+      "onboard_time": 1750070001,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126373,
+      "num": 120282,
+      "word": "为什么镜子里的自己比现实中更好看",
+      "onboard_time": 1750112055,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 121136,
       "num": 121136,
       "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
@@ -227,28 +267,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 119728,
-      "num": 119728,
-      "word": "男性其实更需要亲密关系",
-      "onboard_time": 1750114939,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119590,
       "num": 119590,
       "word": "以总理威胁德黑兰市民立即撤离",
       "onboard_time": 1750079721,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 114883,
-      "num": 114883,
-      "word": "为什么镜子里的自己比现实中更好看",
-      "onboard_time": 1750112055,
-      "rank": 43,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 112674,
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 104678,
-      "num": 116353,
+      "num": 189940,
       "word": "刘亦菲刘学义 咸雪",
       "onboard_time": 1750076960,
       "rank": 28,
@@ -291,11 +315,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97886,
-      "num": 97886,
-      "word": "特朗普正式进军手机市场",
-      "onboard_time": 1750114998,
-      "rank": 27,
+      "raw_hot": 101463,
+      "num": 101463,
+      "word": "杜淳老婆发文与剖腹产疤痕和解",
+      "onboard_time": 1750081581,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100650,
+      "num": 90648,
+      "word": "伊朗革命卫队说已准备长期全面战争",
+      "onboard_time": 1750116377,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -307,12 +339,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89137,
-      "num": 89137,
-      "word": "深圳暴雨",
-      "onboard_time": 1750070001,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 97425,
+      "num": 98984,
+      "word": "专家称以军对伊朗打击进入新阶段",
+      "onboard_time": 1750114939,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86263,
@@ -329,6 +361,14 @@
       "onboard_time": 1750085662,
       "rank": 33,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 83530,
+      "num": 83530,
+      "word": "校园贷借款8万还了14万还欠100万",
+      "onboard_time": 1750073421,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83057,
@@ -371,23 +411,15 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81156,
-      "num": 98984,
-      "word": "专家称以军对伊朗打击进入新阶段",
-      "onboard_time": 1750114939,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 80270,
+      "num": 80270,
+      "word": "宋智雅不信男女之间有纯友情",
+      "onboard_time": 1750103714,
+      "rank": 34,
+      "category": "网红"
     },
     {
-      "raw_hot": 79109,
-      "num": 79109,
-      "word": "校园贷借款8万还了14万还欠100万",
-      "onboard_time": 1750073421,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78542,
+      "raw_hot": 78859,
       "num": 147997,
       "word": "网友开始演藏海传",
       "onboard_time": 1750086322,
@@ -443,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71992,
+      "num": 71992,
+      "word": "恋与深空",
+      "onboard_time": 1750115899,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71287,
       "num": 71287,
       "word": "BLG官宣Wei离队",
@@ -467,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67882,
-      "num": 67882,
-      "word": "杜淳老婆发文与剖腹产疤痕和解",
-      "onboard_time": 1750081581,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 66015,
+      "num": 99907,
+      "word": "红绿灯的黄海外直播1场打赏超71万",
+      "onboard_time": 1750096096,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 65296,
@@ -491,28 +531,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60625,
+      "num": 99180,
+      "word": "保你平安2官宣",
+      "onboard_time": 1750114939,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57738,
       "num": 59027,
       "word": "雷军谈小米汽车成功原因",
       "onboard_time": 1750085422,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 56331,
-      "num": 56331,
-      "word": "宋智雅不信男女之间有纯友情",
-      "onboard_time": 1750103714,
-      "rank": 34,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 55490,
-      "num": 92554,
-      "word": "保你平安2官宣",
-      "onboard_time": 1750114939,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 54570,
@@ -523,20 +555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52870,
-      "num": 89395,
-      "word": "红绿灯的黄海外直播1场打赏超71万",
-      "onboard_time": 1750096096,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 51833,
       "num": 59084,
       "word": "听泉赏宝公司再次被诉",
       "onboard_time": 1750089380,
       "rank": 46,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 51634,
+      "num": 51634,
+      "word": "张雪峰电话喊大冰连麦",
+      "onboard_time": 1750116980,
+      "rank": 47,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 50834,
@@ -547,12 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48360,
-      "num": 48360,
-      "word": "恋与深空",
-      "onboard_time": 1750115899,
-      "rank": 46,
-      "category": "游戏"
+      "raw_hot": 50118,
+      "num": 50118,
+      "word": "和玩偶长得一模一样的小狗",
+      "onboard_time": 1750116799,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 47259,
@@ -587,7 +619,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32536,
+      "raw_hot": 32898,
       "num": 438611,
       "word": "一组数据看中国经济稳中有进",
       "onboard_time": 1750082842,
@@ -688,14 +720,6 @@
       "word": "外交部回应中东局势",
       "onboard_time": 1750104314,
       "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 19248,
-      "num": 98407,
-      "word": "伊朗对以色列新一轮导弹袭击",
-      "onboard_time": 1750116017,
-      "rank": 26,
       "category": "国际时政"
     },
     {
