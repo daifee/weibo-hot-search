@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750067086467,
+  "endTime": 1750069785982,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -35,11 +35,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1062776,
+      "num": 1170044,
+      "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
+      "onboard_time": 1750067782,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1025657,
       "num": 847980,
       "word": "同学为那尔那茜发声",
       "onboard_time": 1750055840,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 937831,
+      "num": 282188,
+      "word": "曝艺人参加综艺录制迟到12小时",
+      "onboard_time": 1750066819,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -147,6 +163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 670746,
+      "num": 612602,
+      "word": "月入过万一天工作14小时的真实生活",
+      "onboard_time": 1750065202,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 660486,
       "num": 270365,
       "word": "陈靖可取关孙千ins",
@@ -185,14 +209,6 @@
       "onboard_time": 1750042040,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 612602,
-      "num": 612602,
-      "word": "月入过万一天工作14小时的真实生活",
-      "onboard_time": 1750065202,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 600006,
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363638,
+      "num": 363638,
+      "word": "34岁女子爱生闷气血管堵90%",
+      "onboard_time": 1750067961,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348589,
       "num": 348589,
       "word": "看不出来杨采钰怀孕了",
@@ -531,12 +555,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339946,
-      "num": 339946,
+      "raw_hot": 340205,
+      "num": 340205,
       "word": "外媒曝伊朗正准备一场大行动",
       "onboard_time": 1750063941,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 340104,
+      "num": 275173,
+      "word": "赵丽颖原声台词 评论区",
+      "onboard_time": 1750066280,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 335557,
+      "num": 335557,
+      "word": "央视曝光杀猪盘新套路",
+      "onboard_time": 1750063461,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 329440,
@@ -641,6 +681,14 @@
       "onboard_time": 1750046601,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271163,
+      "num": 271163,
+      "word": "鹿晗抢票",
+      "onboard_time": 1750068981,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 268741,
@@ -771,12 +819,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235742,
-      "num": 235742,
-      "word": "央视曝光杀猪盘新套路",
-      "onboard_time": 1750063461,
-      "rank": 43,
-      "category": "舆论监督"
+      "raw_hot": 234842,
+      "num": 290881,
+      "word": "杨妞花寻亲故事将影视化",
+      "onboard_time": 1750066760,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234339,
@@ -828,7 +876,7 @@
     },
     {
       "raw_hot": 224948,
-      "num": 198736,
+      "num": 211421,
       "word": "白鹿被要求增肥",
       "onboard_time": 1750065740,
       "rank": 34,
@@ -843,12 +891,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 224639,
-      "num": 224639,
-      "word": "曝艺人参加综艺录制迟到12小时",
-      "onboard_time": 1750066819,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 224266,
+      "num": 188553,
+      "word": "我的牙也很不齐 什么时候宠我一下",
+      "onboard_time": 1750068802,
+      "rank": 30,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 224102,
@@ -915,14 +963,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 213428,
-      "num": 213428,
-      "word": "赵丽颖原声台词 评论区",
-      "onboard_time": 1750066280,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 212757,
       "num": 216649,
       "word": "肖战谍报上不封顶白衬衫墨镜路透",
@@ -947,12 +987,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 211602,
+      "num": 211602,
+      "word": "唐梓有初代绝版labubu",
+      "onboard_time": 1750069102,
+      "rank": 17,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 209351,
       "num": 209351,
       "word": "一个被窝睡不出两种人",
       "onboard_time": 1750049663,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203179,
+      "num": 203179,
+      "word": "孙颖莎最想搭混双的外国球员是波尔",
+      "onboard_time": 1750069281,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 202909,
@@ -979,6 +1035,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196575,
+      "num": 196575,
+      "word": "宋雨琦发文感谢林俊杰",
+      "onboard_time": 1750067361,
+      "rank": 24,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 194365,
+      "num": 194365,
+      "word": "欧阳娜娜审美",
+      "onboard_time": 1750068921,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194356,
       "num": 194356,
       "word": "宋代点茶保姆级教程",
@@ -993,6 +1065,14 @@
       "onboard_time": 1750045819,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 191193,
+      "num": 191193,
+      "word": "这长相是土象天菜吧",
+      "onboard_time": 1750069281,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 190877,
@@ -1027,20 +1107,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 187177,
-      "num": 187177,
-      "word": "杨妞花寻亲故事将影视化",
-      "onboard_time": 1750066760,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186924,
       "num": 186924,
       "word": "临江仙粉丝退至我身后",
       "onboard_time": 1750051580,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186380,
+      "num": 186380,
+      "word": "方博喊话樊振东十年之约",
+      "onboard_time": 1750067660,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 184871,
@@ -1088,6 +1168,14 @@
       "word": "一碗泡面让霸总爽文照进现实",
       "onboard_time": 1750038558,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179623,
+      "num": 179623,
+      "word": "武汉28岁男子爬山失联已身亡",
+      "onboard_time": 1750068141,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1177,6 +1265,14 @@
       "onboard_time": 1750045101,
       "rank": 40,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 164561,
+      "num": 164561,
+      "word": "男子误将502当眼药水滴入右眼",
+      "onboard_time": 1750068621,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164229,
@@ -1339,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155582,
+      "num": 155582,
+      "word": "虞书欣吴磊 反派的npc白月光",
+      "onboard_time": 1750066760,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155501,
       "num": 155501,
       "word": "十个勤天 大冰知识盲区",
@@ -1459,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144888,
+      "num": 144888,
+      "word": "月入5万女生辞职后陪父亲淘粪",
+      "onboard_time": 1750067483,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144677,
       "num": 144677,
       "word": "张婧仪周翊然你俩甜得不像演的",
@@ -1475,20 +1587,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142972,
+      "num": 142972,
+      "word": "圈内人分享明星红黑榜",
+      "onboard_time": 1750068740,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140765,
       "num": 140765,
       "word": "女子眼痒发现三条活虫在眼中",
       "onboard_time": 1749993441,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140734,
-      "num": 140734,
-      "word": "虞书欣吴磊 反派的npc白月光",
-      "onboard_time": 1750066760,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 140412,
@@ -1603,6 +1715,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 131320,
+      "num": 332573,
+      "word": "数百名村民哄抢未收土豆",
+      "onboard_time": 1750066280,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131163,
       "num": 131163,
       "word": "那英 唱爽了就是开心",
@@ -1617,6 +1737,14 @@
       "onboard_time": 1750036639,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 130475,
+      "num": 130475,
+      "word": "朋友圈点赞的8个规则",
+      "onboard_time": 1750069581,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 130282,
@@ -1801,6 +1929,14 @@
       "onboard_time": 1750052240,
       "rank": 18,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 118688,
+      "num": 118688,
+      "word": "以色列拦截器升空后突然掉头坠落",
+      "onboard_time": 1750068141,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118073,
@@ -2155,6 +2291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85157,
+      "num": 524807,
+      "word": "中亚已成中国出境游新兴热门目的地",
+      "onboard_time": 1750065861,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83059,
       "num": 259703,
       "word": "被小哥们的大合唱暖到了",
@@ -2323,12 +2467,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 68857,
+      "num": 257321,
+      "word": "西伯侯封地西岐被准确定位",
+      "onboard_time": 1750068680,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 68193,
       "num": 293659,
       "word": "加沙人说为了生存只能接受死亡",
       "onboard_time": 1750050442,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67055,
+      "num": 252900,
+      "word": "虞书欣丝滑连拍",
+      "onboard_time": 1750066819,
+      "rank": 30,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 65639,
@@ -2379,14 +2539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57575,
-      "num": 524807,
-      "word": "中亚已成中国出境游新兴热门目的地",
-      "onboard_time": 1750065861,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 56628,
       "num": 262356,
       "word": "高盛看好中国十巨头股票",
@@ -2425,14 +2577,6 @@
       "onboard_time": 1750022714,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51423,
-      "num": 332573,
-      "word": "数百名村民哄抢未收土豆",
-      "onboard_time": 1750066280,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51364,
@@ -2603,14 +2747,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 38353,
-      "num": 199487,
-      "word": "虞书欣丝滑连拍",
-      "onboard_time": 1750066819,
-      "rank": 30,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 38276,
       "num": 384322,
       "word": "湿厕纸比普通纸巾擦得更干净吗",
@@ -2667,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35069,
+      "num": 211547,
+      "word": "Labubu的娃衣为何比真人衣服贵却卖爆",
+      "onboard_time": 1750068080,
+      "rank": 19,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 34378,
       "num": 42601,
       "word": "以色列全国紧急状态延至月底",
@@ -2689,6 +2833,14 @@
       "onboard_time": 1750050862,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33235,
+      "num": 211559,
+      "word": "一条中华卖10块钱是啥套路",
+      "onboard_time": 1750068740,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 33101,
@@ -2737,6 +2889,14 @@
       "onboard_time": 1750013654,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30676,
+      "num": 143251,
+      "word": "男子酒驾被查称吃荔枝吃的",
+      "onboard_time": 1750069701,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30328,
@@ -2937,6 +3097,14 @@
       "onboard_time": 1750066760,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 16235,
+      "num": 188936,
+      "word": "海南父子台风天被卷入海里漂了一天",
+      "onboard_time": 1750068321,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14388,
