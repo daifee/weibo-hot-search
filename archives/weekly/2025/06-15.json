@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750056809590,
+  "endTime": 1750058861871,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -265,6 +265,14 @@
       "onboard_time": 1749947839,
       "rank": 3,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 847980,
+      "num": 847980,
+      "word": "同学为那尔那茜发声",
+      "onboard_time": 1750055840,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 843129,
@@ -635,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 532446,
+      "num": 532446,
+      "word": "Labubu 审美",
+      "onboard_time": 1750055840,
+      "rank": 48,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 523208,
       "num": 523208,
       "word": "以色列国防军总部遭袭",
@@ -897,6 +913,14 @@
       "onboard_time": 1749999203,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409441,
+      "num": 290469,
+      "word": "易烊千玺第一部男主剧",
+      "onboard_time": 1750056321,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 407361,
@@ -1171,6 +1195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 311822,
+      "num": 264909,
+      "word": "避雷向佐粉底液",
+      "onboard_time": 1750053621,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307543,
       "num": 307543,
       "word": "王楚钦爸爸谈儿子从小的心愿",
@@ -1275,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284574,
+      "num": 284574,
+      "word": "青年人失业率连续3个月下降",
+      "onboard_time": 1750052421,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283960,
       "num": 325982,
       "word": "泡泡玛特中止labubu韩国线下销售",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1749989481,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 282625,
-      "num": 282625,
-      "word": "同学为那尔那茜发声",
-      "onboard_time": 1750055840,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 281789,
@@ -1491,14 +1523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 258520,
-      "num": 258520,
-      "word": "Labubu 审美",
-      "onboard_time": 1750055840,
-      "rank": 48,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 257584,
       "num": 257584,
       "word": "常州队打响笔画保卫战",
@@ -1571,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243129,
+      "num": 243129,
+      "word": "林依晨长文回应二胎得子",
+      "onboard_time": 1750056801,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241891,
       "num": 241891,
       "word": "易烊千玺雷佳音并肩而坐",
@@ -1585,6 +1617,14 @@
       "onboard_time": 1749916221,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 240912,
+      "num": 240912,
+      "word": "难怪柯淳不敢直视刘涛",
+      "onboard_time": 1750055360,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 240713,
@@ -1651,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230449,
+      "num": 230449,
+      "word": "中东富豪加价两百万求购尊界",
+      "onboard_time": 1750057881,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 229388,
       "num": 229388,
       "word": "YG新女团",
@@ -1681,22 +1729,6 @@
       "onboard_time": 1749978860,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227718,
-      "num": 218923,
-      "word": "青年人失业率连续3个月下降",
-      "onboard_time": 1750052421,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227343,
-      "num": 258236,
-      "word": "易烊千玺第一部男主剧",
-      "onboard_time": 1750056321,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 227300,
@@ -1755,12 +1787,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 222262,
+      "num": 241697,
+      "word": "谁家985校园能停运20啊",
+      "onboard_time": 1750056200,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 221965,
       "num": 201686,
       "word": "无锡车主外放阿刁迎战常州队",
       "onboard_time": 1749999982,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220339,
+      "num": 282652,
+      "word": "俄罗斯宣布从伊朗撤侨",
+      "onboard_time": 1750057881,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 219684,
@@ -1819,14 +1867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216992,
-      "num": 216992,
-      "word": "避雷向佐粉底液",
-      "onboard_time": 1750053621,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216715,
       "num": 216715,
       "word": "张真源学士服照",
@@ -1873,14 +1913,6 @@
       "onboard_time": 1749993683,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211274,
-      "num": 191793,
-      "word": "难怪柯淳不敢直视刘涛",
-      "onboard_time": 1750055360,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 209777,
@@ -2115,6 +2147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196424,
+      "num": 196424,
+      "word": "赵今麦蕾丝与球鞋",
+      "onboard_time": 1750058601,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195850,
       "num": 149340,
       "word": "环保少女妹妹发性感视频",
@@ -2161,6 +2201,14 @@
       "onboard_time": 1749976880,
       "rank": 24,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 194356,
+      "num": 194356,
+      "word": "宋代点茶保姆级教程",
+      "onboard_time": 1750057820,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193916,
@@ -2915,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156901,
+      "num": 156901,
+      "word": "苏醒我跟弟弟们一模一样",
+      "onboard_time": 1750058121,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156740,
       "num": 156740,
       "word": "波尔正式退役",
@@ -3139,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144677,
+      "num": 144677,
+      "word": "张婧仪周翊然你俩甜得不像演的",
+      "onboard_time": 1750058359,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144574,
       "num": 144574,
       "word": "尾鱼谈剧版七根心简",
@@ -3187,14 +3251,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142441,
-      "num": 142441,
-      "word": "谁家985校园能停运20啊",
-      "onboard_time": 1750056200,
-      "rank": 40,
-      "category": "军事"
-    },
-    {
       "raw_hot": 141478,
       "num": 141478,
       "word": "无畏进京了",
@@ -3209,6 +3265,14 @@
       "onboard_time": 1749955401,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141364,
+      "num": 273967,
+      "word": "12306回应一上高铁就睡觉是因缺氧",
+      "onboard_time": 1750057459,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141013,
@@ -3377,6 +3441,14 @@
       "onboard_time": 1749992422,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136145,
+      "num": 158172,
+      "word": "山科大再回应禁用红米手机考试",
+      "onboard_time": 1750058359,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136040,
@@ -3657,6 +3729,14 @@
       "onboard_time": 1750003221,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128800,
+      "num": 128800,
+      "word": "唐尚珺与张雪峰连麦不建议复读",
+      "onboard_time": 1750058542,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 128679,
@@ -3956,7 +4036,7 @@
     },
     {
       "raw_hot": 120532,
-      "num": 120532,
+      "num": 133091,
       "word": "Fly晋级MSI",
       "onboard_time": 1750056499,
       "rank": 43,
@@ -4139,6 +4219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115174,
+      "num": 135385,
+      "word": "伊朗反击打下的不仅有F35",
+      "onboard_time": 1750058179,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115106,
       "num": 196436,
       "word": "谁懂王栎鑫湿身跳舞的杀伤力",
@@ -4169,6 +4257,14 @@
       "onboard_time": 1749966680,
       "rank": 47,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 114214,
+      "num": 114214,
+      "word": "王鹤棣粉丝向咸鱼飞升剧组维权",
+      "onboard_time": 1750058840,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 114142,
@@ -4235,6 +4331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112456,
+      "num": 112456,
+      "word": "TEC33已连接",
+      "onboard_time": 1750057581,
+      "rank": 45,
+      "category": "游戏,电竞"
+    },
+    {
       "raw_hot": 112289,
       "num": 101222,
       "word": "只有存过钱的才知道她有多真诚",
@@ -4281,6 +4385,14 @@
       "onboard_time": 1749949340,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111014,
+      "num": 111014,
+      "word": "几块钱一杯的咖啡不会亏本吗",
+      "onboard_time": 1750058720,
+      "rank": 46,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 110593,
@@ -4363,6 +4475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108250,
+      "num": 108250,
+      "word": "李艺彤上综艺演不了一点",
+      "onboard_time": 1750056801,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107943,
       "num": 221634,
       "word": "吉克隽逸被退场方式吓到抱头",
@@ -4371,20 +4491,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107624,
+      "num": 257843,
+      "word": "有人通过3D打印labubu模型赚十多万",
+      "onboard_time": 1750055901,
+      "rank": 35,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 107546,
       "num": 107546,
       "word": "没有labubu但有小猫的dadudu",
       "onboard_time": 1749972321,
       "rank": 45,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 105839,
-      "num": 257843,
-      "word": "有人通过3D打印labubu模型赚十多万",
-      "onboard_time": 1750055901,
-      "rank": 35,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 105402,
@@ -4731,6 +4851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 82424,
+      "num": 242267,
+      "word": "雨后积水大鱼顺水游到烧烤店",
+      "onboard_time": 1750058121,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82092,
       "num": 206307,
       "word": "全网热搜的脱衣助考大哥找到了",
@@ -4809,6 +4937,14 @@
       "onboard_time": 1750040660,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77648,
+      "num": 243017,
+      "word": "被小哥们的大合唱暖到了",
+      "onboard_time": 1750058121,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77274,
@@ -4897,6 +5033,14 @@
       "onboard_time": 1749964460,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69346,
+      "num": 242024,
+      "word": "长期戴隐形眼镜有什么伤害",
+      "onboard_time": 1750057281,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 68819,
@@ -5073,6 +5217,14 @@
       "onboard_time": 1749943278,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53423,
+      "num": 175773,
+      "word": "伊空军司令曾仔细参观歼10CE",
+      "onboard_time": 1750058479,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53178,
@@ -5523,6 +5675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30328,
+      "num": 253470,
+      "word": "泡泡玛特乐园88元门票被吐槽贵",
+      "onboard_time": 1750057761,
+      "rank": 14,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 29899,
       "num": 359110,
       "word": "花炮厂爆炸企业多个产品曾抽查不合格",
@@ -5857,6 +6017,14 @@
       "onboard_time": 1749954920,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19566,
+      "num": 172995,
+      "word": "当一个儿子拍下快递厂里的妈妈",
+      "onboard_time": 1750057520,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19242,
