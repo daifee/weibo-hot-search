@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750073950657,
+  "endTime": 1750078460306,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -25,6 +25,14 @@
       "onboard_time": 1750048223,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1236181,
+      "num": 1236181,
+      "word": "涨工资的信号越来越明确",
+      "onboard_time": 1750077020,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1172906,
@@ -187,6 +195,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 664837,
+      "num": 664837,
+      "word": "刘亦菲刘学义 咸雪",
+      "onboard_time": 1750076960,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 661338,
+      "num": 661338,
+      "word": "印度少年拍到坠机后受严重心理创伤",
+      "onboard_time": 1750070360,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 660486,
       "num": 270365,
       "word": "陈靖可取关孙千ins",
@@ -241,6 +265,14 @@
       "onboard_time": 1749996083,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 598162,
+      "num": 598162,
+      "word": "金建希因病情恶化住院",
+      "onboard_time": 1750077381,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 594885,
@@ -387,12 +419,28 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 468069,
+      "num": 355040,
+      "word": "朱丹说鸡腿给两个弟弟吃",
+      "onboard_time": 1750072161,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465461,
       "num": 465461,
       "word": "BabyDONTCry出道",
       "onboard_time": 1750045700,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 454379,
+      "num": 454379,
+      "word": "校园贷借款8万还了14万还欠100万",
+      "onboard_time": 1750073421,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438060,
@@ -507,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380467,
+      "num": 380467,
+      "word": "中国不参与军备竞赛",
+      "onboard_time": 1750075820,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 377369,
       "num": 421778,
       "word": "何洁发长文回应假唱争议",
@@ -561,14 +617,6 @@
       "onboard_time": 1750047982,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347492,
-      "num": 347492,
-      "word": "印度少年拍到坠机后受严重心理创伤",
-      "onboard_time": 1750070360,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 346623,
@@ -627,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 335834,
+      "num": 335834,
+      "word": "泡泡玛特补货",
+      "onboard_time": 1750076422,
+      "rank": 16,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 330479,
       "num": 248445,
       "word": "我的牙也很不齐 什么时候宠我一下",
@@ -641,6 +697,14 @@
       "onboard_time": 1750032200,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323256,
+      "num": 418531,
+      "word": "湖南烟花爆炸事故已致1死6失联9伤",
+      "onboard_time": 1750072281,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 320235,
@@ -699,12 +763,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289559,
+      "num": 289559,
+      "word": "限速40飙到174把电瓶车撞成碎片",
+      "onboard_time": 1750071861,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284574,
       "num": 284574,
       "word": "青年人失业率连续3个月下降",
       "onboard_time": 1750052421,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284491,
+      "num": 328522,
+      "word": "范丞丞把于洋认成佟丽娅",
+      "onboard_time": 1750077140,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 281789,
@@ -739,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269443,
+      "num": 269443,
+      "word": "BLG官宣Wei离队",
+      "onboard_time": 1750074141,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 268974,
       "num": 456134,
       "word": "宋雨琦发文感谢林俊杰",
@@ -761,14 +849,6 @@
       "onboard_time": 1750038380,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 267725,
-      "num": 267725,
-      "word": "朱丹说鸡腿给两个弟弟吃",
-      "onboard_time": 1750072161,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 263191,
@@ -1059,6 +1139,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205381,
+      "num": 339431,
+      "word": "易烊千玺在剧组过了5分钟生日",
+      "onboard_time": 1750077261,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 204015,
+      "num": 263614,
+      "word": "林俊杰首尔好像火车站接站现场",
+      "onboard_time": 1750077861,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202909,
       "num": 202909,
       "word": "张酸 反派",
@@ -1089,6 +1185,14 @@
       "onboard_time": 1750005320,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196080,
+      "num": 196080,
+      "word": "前男友与韦雪官宣后涨粉25万",
+      "onboard_time": 1750076240,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 194365,
@@ -1187,12 +1291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184350,
-      "num": 418531,
-      "word": "湖南烟花爆炸事故已致1死6失联9伤",
-      "onboard_time": 1750072281,
-      "rank": 9,
-      "category": "辟谣/通报"
+      "raw_hot": 184517,
+      "num": 256545,
+      "word": "闫妮演易烊千玺的二表姑",
+      "onboard_time": 1750078103,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 183906,
@@ -1251,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176672,
+      "num": 244332,
+      "word": "王源演唱会抢票",
+      "onboard_time": 1750074560,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172814,
       "num": 222228,
       "word": "伊朗首次白天发动袭击",
@@ -1272,6 +1384,14 @@
       "word": "女子落水辅警从12米高桥一跃而下",
       "onboard_time": 1750038200,
       "rank": 33,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 171347,
+      "num": 269873,
+      "word": "我是军人啊难道不该以命换命吗",
+      "onboard_time": 1750076901,
+      "rank": 23,
       "category": "正能量"
     },
     {
@@ -1403,14 +1523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 162636,
-      "num": 162636,
-      "word": "限速40飙到174把电瓶车撞成碎片",
-      "onboard_time": 1750071861,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162483,
       "num": 216984,
       "word": "曾舜晞第二部破万剧",
@@ -1457,6 +1569,14 @@
       "onboard_time": 1749989120,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 161236,
+      "num": 161236,
+      "word": "一骑红尘妃子笑读音",
+      "onboard_time": 1750076841,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 160027,
@@ -1547,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156704,
-      "num": 156704,
-      "word": "校园贷借款8万还了14万还欠100万",
-      "onboard_time": 1750073421,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156270,
       "num": 156270,
       "word": "张译在查内鬼这块有执念",
@@ -1619,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150476,
+      "num": 150476,
+      "word": "兽医用过期10年药品治羊称为主人省钱",
+      "onboard_time": 1750075700,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150181,
       "num": 150181,
       "word": "虞书欣把头发盘成蝴蝶结",
@@ -1667,6 +1787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146397,
+      "num": 146397,
+      "word": "魏哲鸣刘些宁三搭终于演上情侣",
+      "onboard_time": 1750077981,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146346,
       "num": 208965,
       "word": "酱园弄影评",
@@ -1705,6 +1833,14 @@
       "onboard_time": 1750068740,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141980,
+      "num": 141980,
+      "word": "埃安",
+      "onboard_time": 1750076001,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 140765,
@@ -1923,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129093,
+      "num": 129093,
+      "word": "今年最早提前批offer的出现了",
+      "onboard_time": 1750076841,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129036,
       "num": 225580,
       "word": "范丞丞直播跳whiplash",
@@ -2131,6 +2275,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 116957,
+      "num": 116957,
+      "word": "以色列总理称伊朗向其卧室发射了导弹",
+      "onboard_time": 1750075941,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 116942,
+      "num": 115053,
+      "word": "陈哲远直播吃上碳水了",
+      "onboard_time": 1750078343,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116797,
       "num": 116797,
       "word": "长安的荔枝选角",
@@ -2153,6 +2313,14 @@
       "onboard_time": 1750066102,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 115957,
+      "num": 115957,
+      "word": "波尔发博告别球台",
+      "onboard_time": 1750078161,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 115770,
@@ -2235,6 +2403,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 111618,
+      "num": 111618,
+      "word": "4个动作轻松甩掉小肚子",
+      "onboard_time": 1750077802,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 111073,
       "num": 111073,
       "word": "这俩都是胡先煦吗",
@@ -2248,6 +2424,14 @@
       "word": "陈梦说求婚现场人越多越好",
       "onboard_time": 1749989781,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110477,
+      "num": 110477,
+      "word": "两辆迈凯伦相撞",
+      "onboard_time": 1750078281,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2387,6 +2571,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 98007,
+      "num": 232557,
+      "word": "丈夫吸烟8年妻子确诊肺癌",
+      "onboard_time": 1750076960,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95693,
       "num": 95693,
       "word": "Lovecd节奏大师",
@@ -2457,6 +2649,14 @@
       "onboard_time": 1750040779,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87926,
+      "num": 269638,
+      "word": "网购平台现大量电动车远光灯",
+      "onboard_time": 1750076480,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87455,
@@ -2536,6 +2736,14 @@
       "word": "小孩哥表演气球悬浮术轻松拿捏同学",
       "onboard_time": 1750040718,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81730,
+      "num": 353213,
+      "word": "遭上百位村民哄抢土豆种植户发声",
+      "onboard_time": 1750076960,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -2731,11 +2939,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58379,
+      "num": 133656,
+      "word": "以军对伊朗中部开始新一轮空袭",
+      "onboard_time": 1750078402,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57884,
       "num": 57884,
       "word": "鸵鸟马路时速40公里狂奔还对司机笑",
       "onboard_time": 1750026436,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57436,
+      "num": 323685,
+      "word": "多方回应宿州未收完土豆疑遭村民哄抢",
+      "onboard_time": 1750076781,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2873,6 +3097,14 @@
       "onboard_time": 1750069881,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 46409,
+      "num": 324955,
+      "word": "上影节评委被上海建筑圈粉",
+      "onboard_time": 1750077020,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 46358,
@@ -3465,6 +3697,14 @@
       "onboard_time": 1750063640,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6549,
+      "num": 342872,
+      "word": "淘宝闪购吴艳妮",
+      "onboard_time": 1750075281,
+      "rank": 14,
+      "category": "体育,互联网"
     }
   ],
   "hotgov_list": [
