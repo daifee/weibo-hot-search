@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750092594087,
+  "endTime": 1750094606689,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -46227,6 +46227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87736,
+      "num": 87736,
+      "word": "以色列孩子被导弹吓到哭着喊妈妈",
+      "onboard_time": 1750093098,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87567,
       "num": 87567,
       "word": "文俊辉晚宴氛围感",
@@ -47019,6 +47027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82656,
+      "num": 82656,
+      "word": "曾舜晞连夜探班白鹿",
+      "onboard_time": 1750093457,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82593,
       "num": 166898,
       "word": "这一幕吓坏美国记者",
@@ -47721,6 +47737,14 @@
       "onboard_time": 1748851521,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 77373,
+      "num": 182155,
+      "word": "伊朗称袭击致以防空系统自相攻击",
+      "onboard_time": 1750091838,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77303,
@@ -50971,6 +50995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55279,
+      "num": 69604,
+      "word": "短剧男主回应一胎99子剧情",
+      "onboard_time": 1750093277,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55269,
       "num": 185275,
       "word": "新能源汽车决不能打价格战兴奋剂",
@@ -52433,14 +52465,6 @@
       "onboard_time": 1749700101,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 46513,
-      "num": 182155,
-      "word": "伊朗称袭击致以防空系统自相攻击",
-      "onboard_time": 1750091838,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46405,
@@ -54867,6 +54891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35282,
+      "num": 41043,
+      "word": "BOYS2PLANET",
+      "onboard_time": 1750093218,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35230,
       "num": 208334,
       "word": "洛杉矶某些街道跟战区一样",
@@ -57033,6 +57065,14 @@
       "onboard_time": 1749842295,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26309,
+      "num": 67190,
+      "word": "台湾网红馆长直言最想去深圳",
+      "onboard_time": 1750094297,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26276,
