@@ -1,0 +1,410 @@
+{
+  "runTime": 1750039561667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 897992,
+        "num": 1143678,
+        "word": "难怪我一上高铁就睡觉",
+        "onboard_time": 1750019053,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 546554,
+        "num": 546554,
+        "word": "伊朗导弹击中海法和特拉维夫",
+        "onboard_time": 1750030459,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23340,
+        "num": 525667,
+        "word": "我国对中亚五国进出口跑出加速度",
+        "onboard_time": 1749994402,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 525067,
+        "num": 525067,
+        "word": "黄圣依妈妈撑起了自己的原生家庭",
+        "onboard_time": 1750037000,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483392,
+        "num": 483392,
+        "word": "一架波音客机长沙起飞半小时后返航",
+        "onboard_time": 1750037600,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438060,
+        "num": 438060,
+        "word": "台风蝴蝶停止编号",
+        "onboard_time": 1750037298,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281310,
+        "num": 281310,
+        "word": "伊以冲突普京特朗普都准备介入",
+        "onboard_time": 1750035740,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261476,
+        "num": 261476,
+        "word": "特朗普称美国有可能介入以伊冲突",
+        "onboard_time": 1750035860,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238547,
+        "num": 251524,
+        "word": "曾舜晞打视频白鹿绷不住了",
+        "onboard_time": 1750029978,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250376,
+        "num": 250376,
+        "word": "2025最新本科专业速查",
+        "onboard_time": 1750038380,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 863879,
+        "num": 249822,
+        "word": "韩网红首次看中剧瞬间震惊",
+        "onboard_time": 1750034120,
+        "rank": 10,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 582999,
+        "num": 246477,
+        "word": "小英和老公吵架",
+        "onboard_time": 1750036400,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 460158,
+        "num": 243071,
+        "word": "杭州一泡泡玛特开业当天闭店",
+        "onboard_time": 1749983481,
+        "rank": 12,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 385522,
+        "num": 238657,
+        "word": "陈靖可 孙千",
+        "onboard_time": 1749999203,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73088,
+        "num": 235642,
+        "word": "伊朗袭击致以色列16人死上百人伤",
+        "onboard_time": 1750038619,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330328,
+        "num": 234349,
+        "word": "大学里的男生为什么越来越少了",
+        "onboard_time": 1749996083,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329440,
+        "num": 230213,
+        "word": "去年在园儿童减少500多万",
+        "onboard_time": 1750032200,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229388,
+        "num": 229388,
+        "word": "YG新女团",
+        "onboard_time": 1750035920,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223703,
+        "num": 223703,
+        "word": "世俱杯唯一的中国球员",
+        "onboard_time": 1750037478,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148330,
+        "num": 222943,
+        "word": "曹骏新中式撕拉片",
+        "onboard_time": 1750035622,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172814,
+        "num": 222228,
+        "word": "伊朗首次白天发动袭击",
+        "onboard_time": 1750037659,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277118,
+        "num": 220847,
+        "word": "贵州杀妻灭子案现场血迹成因仍待解",
+        "onboard_time": 1749994280,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269120,
+        "num": 220494,
+        "word": "11岁男孩每天吸二手烟得肺癌",
+        "onboard_time": 1750003221,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259968,
+        "num": 219775,
+        "word": "张檬自曝生孩子后脑雾",
+        "onboard_time": 1750000345,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218940,
+        "num": 218940,
+        "word": "伊朗革命卫队情报负责人遭以暗杀",
+        "onboard_time": 1750030459,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184871,
+        "num": 218328,
+        "word": "龚俊刘宇宁斗舞",
+        "onboard_time": 1750039399,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181315,
+        "num": 218230,
+        "word": "一碗泡面让霸总爽文照进现实",
+        "onboard_time": 1750038558,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128401,
+        "num": 217651,
+        "word": "杨紫想把每个朝代衣服都穿一遍",
+        "onboard_time": 1750033040,
+        "rank": 27,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 124356,
+        "num": 216984,
+        "word": "曾舜晞第二部破万剧",
+        "onboard_time": 1750039100,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123588,
+        "num": 216224,
+        "word": "卓沅26岁第一天很幸福",
+        "onboard_time": 1750038500,
+        "rank": 29,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 215879,
+        "num": 215879,
+        "word": "黄金",
+        "onboard_time": 1750038980,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211965,
+        "num": 211965,
+        "word": "伊朗",
+        "onboard_time": 1750037838,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187788,
+        "num": 187788,
+        "word": "以方称如伊朗放弃核计划愿停止行动",
+        "onboard_time": 1750032260,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172095,
+        "num": 172095,
+        "word": "女子落水辅警从12米高桥一跃而下",
+        "onboard_time": 1750038200,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 164130,
+        "num": 164130,
+        "word": "Shanks替Knight澄清",
+        "onboard_time": 1750036880,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163738,
+        "num": 163738,
+        "word": "夏天的大雨总是说来就来",
+        "onboard_time": 1750034420,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153092,
+        "num": 153092,
+        "word": "ANSRJ开火GBLOCK",
+        "onboard_time": 1750038680,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132052,
+        "num": 132052,
+        "word": "脱衣助考男子回应最美光膀子",
+        "onboard_time": 1750038920,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115770,
+        "num": 115770,
+        "word": "临江仙断更的原因",
+        "onboard_time": 1750029499,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27187,
+        "num": 114542,
+        "word": "F1",
+        "onboard_time": 1750030038,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116470,
+        "num": 114493,
+        "word": "佘诗曼抢到了炸虾labubu",
+        "onboard_time": 1749997462,
+        "rank": 40,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 114304,
+        "num": 114304,
+        "word": "让体脂率不断下降的小习惯",
+        "onboard_time": 1749989120,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 130516,
+        "num": 114029,
+        "word": "雷军说YU7月底上市",
+        "onboard_time": 1750036639,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110731,
+        "num": 110731,
+        "word": "以色列国家安全观已发生转变",
+        "onboard_time": 1750011435,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110232,
+        "num": 110232,
+        "word": "断崖式衰老的三个年龄段",
+        "onboard_time": 1749994522,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110007,
+        "num": 110007,
+        "word": "印度失事客机2个黑匣子均已找到",
+        "onboard_time": 1750030459,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104242,
+        "num": 104242,
+        "word": "爱奇艺副总裁道歉",
+        "onboard_time": 1749995243,
+        "rank": 46,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 103421,
+        "num": 103421,
+        "word": "丨州未能保住最后的笔画",
+        "onboard_time": 1749995481,
+        "rank": 47,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 95807,
+        "num": 95807,
+        "word": "22岁中国男子泰国豪华酒店坠楼身亡",
+        "onboard_time": 1750000763,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93026,
+        "num": 93026,
+        "word": "陈梦说求婚现场人越多越好",
+        "onboard_time": 1749989781,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习总书记的好作风#"
+    }
+  }
+}
