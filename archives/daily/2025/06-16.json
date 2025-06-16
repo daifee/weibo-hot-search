@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750079377444,
+  "endTime": 1750081169223,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -11,8 +11,8 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 2290329,
-      "num": 2290329,
+      "raw_hot": 2950409,
+      "num": 2950409,
       "word": "涨工资的信号越来越明确",
       "onboard_time": 1750077020,
       "rank": 0,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1028467,
+      "num": 1028467,
+      "word": "金建希因病情恶化住院",
+      "onboard_time": 1750077381,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1025657,
       "num": 847980,
       "word": "同学为那尔那茜发声",
@@ -73,14 +81,6 @@
       "onboard_time": 1750066819,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 924500,
-      "num": 924500,
-      "word": "金建希因病情恶化住院",
-      "onboard_time": 1750077381,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 906065,
@@ -193,6 +193,14 @@
       "onboard_time": 1750048582,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 711865,
+      "num": 372714,
+      "word": "张子枫脸和身材各长各的",
+      "onboard_time": 1750079421,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 709632,
@@ -337,6 +345,14 @@
       "onboard_time": 1750048043,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 532591,
+      "num": 532591,
+      "word": "泡泡玛特补货",
+      "onboard_time": 1750076422,
+      "rank": 16,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 532275,
@@ -491,12 +507,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 411325,
-      "num": 411325,
-      "word": "泡泡玛特补货",
-      "onboard_time": 1750076422,
-      "rank": 16,
-      "category": "休闲,动漫"
+      "raw_hot": 411754,
+      "num": 433992,
+      "word": "我是军人啊难道不该以命换命吗",
+      "onboard_time": 1750076901,
+      "rank": 23,
+      "category": "正能量"
     },
     {
       "raw_hot": 409160,
@@ -643,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345972,
+      "num": 345972,
+      "word": "一骑红尘妃子笑读音",
+      "onboard_time": 1750076841,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 345363,
       "num": 345363,
       "word": "酱园弄赵丽颖原声台词",
@@ -683,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 337776,
+      "num": 454187,
+      "word": "闫妮演易烊千玺的二表姑",
+      "onboard_time": 1750078103,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 330479,
       "num": 248445,
       "word": "我的牙也很不齐 什么时候宠我一下",
@@ -697,6 +729,14 @@
       "onboard_time": 1750032200,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326648,
+      "num": 326648,
+      "word": "一念江南",
+      "onboard_time": 1750079061,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 323256,
@@ -785,6 +825,14 @@
       "onboard_time": 1750077140,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281908,
+      "num": 398097,
+      "word": "以总理称以军已掌控德黑兰领空",
+      "onboard_time": 1750079961,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 281789,
@@ -1027,6 +1075,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 230407,
+      "num": 408090,
+      "word": "以总理威胁德黑兰市民立即撤离",
+      "onboard_time": 1750079721,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 229388,
       "num": 229388,
       "word": "YG新女团",
@@ -1139,12 +1195,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 206958,
-      "num": 433992,
-      "word": "我是军人啊难道不该以命换命吗",
-      "onboard_time": 1750076901,
-      "rank": 23,
-      "category": "正能量"
+      "raw_hot": 206361,
+      "num": 206361,
+      "word": "陈哲远直播吃上碳水了",
+      "onboard_time": 1750078343,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206230,
+      "num": 427252,
+      "word": "以军对伊朗中部开始新一轮空袭",
+      "onboard_time": 1750078402,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205381,
@@ -1152,6 +1216,14 @@
       "word": "易烊千玺在剧组过了5分钟生日",
       "onboard_time": 1750077261,
       "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 204664,
+      "num": 204664,
+      "word": "易烊千玺闪现酱园弄路演现场",
+      "onboard_time": 1750079902,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -1195,12 +1267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196080,
-      "num": 196080,
+      "raw_hot": 196292,
+      "num": 205083,
       "word": "前男友与韦雪官宣后涨粉25万",
       "onboard_time": 1750076240,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 194585,
+      "num": 194585,
+      "word": "以色列",
+      "onboard_time": 1750079902,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194365,
@@ -1283,28 +1363,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 187718,
-      "num": 297268,
-      "word": "闫妮演易烊千玺的二表姑",
-      "onboard_time": 1750078103,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186924,
       "num": 186924,
       "word": "临江仙粉丝退至我身后",
       "onboard_time": 1750051580,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186792,
-      "num": 186792,
-      "word": "陈哲远直播吃上碳水了",
-      "onboard_time": 1750078343,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 184871,
@@ -1355,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181072,
+      "num": 181072,
+      "word": "埃安",
+      "onboard_time": 1750076001,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 179932,
       "num": 191328,
       "word": "ILLIT空降成绩",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1750074560,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 175216,
+      "num": 205995,
+      "word": "魏哲鸣刘些宁三搭终于演上情侣",
+      "onboard_time": 1750077981,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 172814,
@@ -1403,12 +1483,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 171318,
-      "num": 171318,
-      "word": "一骑红尘妃子笑读音",
-      "onboard_time": 1750076841,
-      "rank": 34,
-      "category": "科学科普"
+      "raw_hot": 171720,
+      "num": 205828,
+      "word": "长安的荔枝22集含金量",
+      "onboard_time": 1750078940,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 171263,
@@ -1425,6 +1505,14 @@
       "onboard_time": 1750070421,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170709,
+      "num": 205341,
+      "word": "喝了三杯才敢和刘亦菲说话",
+      "onboard_time": 1750080560,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 169510,
@@ -1593,14 +1681,6 @@
       "onboard_time": 1750053861,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159860,
-      "num": 159860,
-      "word": "魏哲鸣刘些宁三搭终于演上情侣",
-      "onboard_time": 1750077981,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 159481,
@@ -1795,14 +1875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147711,
-      "num": 147711,
-      "word": "长安的荔枝22集含金量",
-      "onboard_time": 1750078940,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147579,
       "num": 147579,
       "word": "伊朗处决一受雇于以色列的间谍",
@@ -1811,20 +1883,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146726,
+      "num": 146726,
+      "word": "王安宇你敢问我都不敢听",
+      "onboard_time": 1750081101,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146346,
       "num": 208965,
       "word": "酱园弄影评",
       "onboard_time": 1750051341,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 146083,
-      "num": 146083,
-      "word": "埃安",
-      "onboard_time": 1750076001,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 145219,
@@ -1841,14 +1913,6 @@
       "onboard_time": 1750058359,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143140,
-      "num": 143140,
-      "word": "一念江南",
-      "onboard_time": 1750079061,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 143119,
@@ -1963,6 +2027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133920,
+      "num": 133920,
+      "word": "伊朗武装部队警告以色列民众尽快撤离",
+      "onboard_time": 1750079781,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133892,
       "num": 252234,
       "word": "山东一景区推出窝囊版漂流",
@@ -2009,6 +2081,14 @@
       "onboard_time": 1750078461,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132518,
+      "num": 132518,
+      "word": "身高2米26张子宇vs防守队员",
+      "onboard_time": 1750080741,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 132052,
@@ -2219,6 +2299,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121962,
+      "num": 198266,
+      "word": "60岁老人失踪近3个月后浮尸水塘",
+      "onboard_time": 1750075761,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120956,
+      "num": 120956,
+      "word": "宋小宝赵本山 老年版王嘉尔陈冠希",
+      "onboard_time": 1750080202,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120700,
       "num": 120700,
       "word": "檀健次我也没你微信啊",
@@ -2233,6 +2329,14 @@
       "onboard_time": 1750056499,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120375,
+      "num": 120375,
+      "word": "马嘉祺所以开始既定重启的星期五3",
+      "onboard_time": 1750080922,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 120061,
@@ -2307,6 +2411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 117352,
+      "num": 117352,
+      "word": "2公职人员涉犯罪被关仍领6.3万工资",
+      "onboard_time": 1750080322,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116990,
       "num": 136506,
       "word": "伊朗反击打下的不仅有F35",
@@ -2348,7 +2460,7 @@
     },
     {
       "raw_hot": 115957,
-      "num": 115957,
+      "num": 149848,
       "word": "波尔发博告别球台",
       "onboard_time": 1750078161,
       "rank": 45,
@@ -2579,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101615,
+      "num": 383942,
+      "word": "上影节评委被上海建筑圈粉",
+      "onboard_time": 1750077020,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101492,
       "num": 101492,
       "word": "无锡车主外放阿刁迎战常州队",
@@ -2633,14 +2753,6 @@
       "onboard_time": 1750040779,
       "rank": 41,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 94425,
-      "num": 427252,
-      "word": "以军对伊朗中部开始新一轮空袭",
-      "onboard_time": 1750078402,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 93136,
@@ -2923,6 +3035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71234,
+      "num": 186424,
+      "word": "谁给的权力让学生下跪写检讨",
+      "onboard_time": 1750080982,
+      "rank": 33,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 69346,
       "num": 242024,
       "word": "长期戴隐形眼镜有什么伤害",
@@ -2945,14 +3065,6 @@
       "onboard_time": 1750066819,
       "rank": 30,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 66837,
-      "num": 156488,
-      "word": "60岁老人失踪近3个月后浮尸水塘",
-      "onboard_time": 1750075761,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65720,
@@ -3155,14 +3267,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 46409,
-      "num": 324955,
-      "word": "上影节评委被上海建筑圈粉",
-      "onboard_time": 1750077020,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 46358,
       "num": 133939,
       "word": "苏超散装与整装不止于玩梗",
@@ -3259,6 +3363,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 40698,
+      "num": 355237,
+      "word": "游客坐坏博物馆梵高椅后落荒而逃",
+      "onboard_time": 1750080382,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39726,
       "num": 255310,
       "word": "村民哄抢农场土豆",
@@ -3281,6 +3393,14 @@
       "onboard_time": 1750068740,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 38360,
+      "num": 204691,
+      "word": "哄睡师成为新工种",
+      "onboard_time": 1750079541,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38276,
