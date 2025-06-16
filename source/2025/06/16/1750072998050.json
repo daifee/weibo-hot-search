@@ -1,0 +1,410 @@
+{
+  "runTime": 1750072998050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 615003,
+        "num": 1098400,
+        "word": "男子误将502当眼药水滴入右眼",
+        "onboard_time": 1750068621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325119,
+        "num": 1093794,
+        "word": "34岁女子爱生闷气血管堵90%",
+        "onboard_time": 1750067961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30225,
+        "num": 1082225,
+        "word": "复兴路上弄潮儿",
+        "onboard_time": 1750071681,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295825,
+        "num": 1080616,
+        "word": "唐梓有初代绝版labubu",
+        "onboard_time": 1750069102,
+        "rank": 3,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 263930,
+        "num": 1070957,
+        "word": "外媒曝伊朗正准备一场大行动",
+        "onboard_time": 1750063941,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1066029,
+        "num": 1066029,
+        "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
+        "onboard_time": 1750067782,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623255,
+        "num": 623255,
+        "word": "鹿晗抢票",
+        "onboard_time": 1750068981,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 470725,
+        "num": 470725,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 268974,
+        "num": 456134,
+        "word": "宋雨琦发文感谢林俊杰",
+        "onboard_time": 1750067361,
+        "rank": 8,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 87683,
+        "num": 418531,
+        "word": "湖南烟花爆炸事故已致1死6失联9伤",
+        "onboard_time": 1750072281,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 701039,
+        "num": 404713,
+        "word": "曝艺人参加综艺录制迟到12小时",
+        "onboard_time": 1750066819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525746,
+        "num": 375060,
+        "word": "月入5万女生辞职后陪父亲淘粪",
+        "onboard_time": 1750067483,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364198,
+        "num": 364198,
+        "word": "蓝盈莹气血充盈得溢出屏幕了",
+        "onboard_time": 1750061720,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172415,
+        "num": 345769,
+        "word": "印度少年拍到坠机后受严重心理创伤",
+        "onboard_time": 1750070360,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30678,
+        "num": 337142,
+        "word": "淘宝闪购汪苏泷",
+        "onboard_time": 1750071681,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335042,
+        "num": 335042,
+        "word": "月入过万一天工作14小时的真实生活",
+        "onboard_time": 1750065202,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246995,
+        "num": 246995,
+        "word": "林依晨二胎得子",
+        "onboard_time": 1750048223,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237765,
+        "num": 237765,
+        "word": "赵丽颖原声台词 评论区",
+        "onboard_time": 1750066280,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26754,
+        "num": 235620,
+        "word": "怎样才能突破土象星座内心的防线",
+        "onboard_time": 1750071681,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234790,
+        "num": 234790,
+        "word": "我的牙也很不齐 什么时候宠我一下",
+        "onboard_time": 1750068802,
+        "rank": 19,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 218683,
+        "num": 218683,
+        "word": "央视曝光杀猪盘新套路",
+        "onboard_time": 1750063461,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 218195,
+        "num": 218195,
+        "word": "白鹿被要求增肥",
+        "onboard_time": 1750065740,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215513,
+        "num": 215513,
+        "word": "哪吒2票房100元片方只拿33元",
+        "onboard_time": 1750059380,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214130,
+        "num": 214130,
+        "word": "道崽回应",
+        "onboard_time": 1750072520,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193979,
+        "num": 193979,
+        "word": "大量美国军机正穿越大西洋",
+        "onboard_time": 1750070900,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187686,
+        "num": 187686,
+        "word": "孙颖莎最想搭混双的外国球员是波尔",
+        "onboard_time": 1750069281,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178117,
+        "num": 178117,
+        "word": "朱丹说鸡腿给两个弟弟吃",
+        "onboard_time": 1750072161,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177585,
+        "num": 177585,
+        "word": "易烊千玺第一部男主剧",
+        "onboard_time": 1750056321,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53832,
+        "num": 171586,
+        "word": "男子痛哭致泪囊断裂",
+        "onboard_time": 1750071502,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169475,
+        "num": 169475,
+        "word": "周洁琼将参与ioi回归",
+        "onboard_time": 1750064481,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168794,
+        "num": 168794,
+        "word": "至少30架美军机正跨越大西洋",
+        "onboard_time": 1750070900,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164385,
+        "num": 164385,
+        "word": "这长相是土象天菜吧",
+        "onboard_time": 1750069281,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162636,
+        "num": 162636,
+        "word": "限速40飙到174把电瓶车撞成碎片",
+        "onboard_time": 1750071861,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151401,
+        "num": 151401,
+        "word": "哈梅内伊",
+        "onboard_time": 1750061659,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150069,
+        "num": 150069,
+        "word": "贾冰老婆颜值",
+        "onboard_time": 1750065321,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147564,
+        "num": 147564,
+        "word": "方博喊话樊振东十年之约",
+        "onboard_time": 1750067660,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133317,
+        "num": 133317,
+        "word": "武汉28岁男子爬山失联已身亡",
+        "onboard_time": 1750068141,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133150,
+        "num": 133150,
+        "word": "ILLIT空降成绩",
+        "onboard_time": 1750070421,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132945,
+        "num": 132945,
+        "word": "临江仙24%",
+        "onboard_time": 1750071381,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59445,
+        "num": 129277,
+        "word": "虞书欣丝滑连拍",
+        "onboard_time": 1750066819,
+        "rank": 39,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 129036,
+        "num": 129036,
+        "word": "范丞丞直播跳whiplash",
+        "onboard_time": 1750072402,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32572,
+        "num": 126857,
+        "word": "33晒体坛新队服",
+        "onboard_time": 1750072941,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126006,
+        "num": 126006,
+        "word": "中国一直坚持自卫防御核战略",
+        "onboard_time": 1750072101,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121278,
+        "num": 121278,
+        "word": "女子报警称外国男友被海关扣押",
+        "onboard_time": 1750066041,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118030,
+        "num": 118030,
+        "word": "韩国又要缺白菜了",
+        "onboard_time": 1750072042,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117777,
+        "num": 117777,
+        "word": "深圳暴雨",
+        "onboard_time": 1750070001,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115997,
+        "num": 115997,
+        "word": "欧阳娜娜审美",
+        "onboard_time": 1750068921,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111129,
+        "num": 111129,
+        "word": "国羽退出美国公开赛",
+        "onboard_time": 1750070660,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108828,
+        "num": 108828,
+        "word": "全运会羽毛球项目签表",
+        "onboard_time": 1750072042,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108626,
+        "num": 108626,
+        "word": "没有马丽就没有开心麻花团综",
+        "onboard_time": 1750072941,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#阿斯塔纳热烈迎候习近平主席到访#"
+    }
+  }
+}

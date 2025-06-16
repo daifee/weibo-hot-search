@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/16 18:47:11
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/16 19:23:18
 </p>
 </blockquote>
 <p>
@@ -4275,6 +4275,12 @@ Lafufu和Lababa都属于商标侵权（热度：623180）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%B0%86502%E5%BD%93%E7%9C%BC%E8%8D%AF%E6%B0%B4%E6%BB%B4%E5%85%A5%E5%8F%B3%E7%9C%BC%23" target="weibo">
+男子误将502当眼药水滴入右眼（热度：615003）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E4%B8%8A%E7%8F%AD%E8%A2%AB%E8%BF%AB%E5%90%B84%E5%B9%B4%E4%BA%8C%E6%89%8B%E7%83%9F%E7%96%91%E6%82%A3%E8%82%BA%E7%99%8C%23" target="weibo">
 小伙上班被迫吸4年二手烟疑患肺癌（热度：614763）
 </a>
@@ -5289,6 +5295,12 @@ Labubu催生庞大周边产业链（热度：535204）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A55%E4%B8%87%E5%A5%B3%E7%94%9F%E8%BE%9E%E8%81%8C%E5%90%8E%E9%99%AA%E7%88%B6%E4%BA%B2%E6%B7%98%E7%B2%AA%23" target="weibo">
+月入5万女生辞职后陪父亲淘粪（热度：525746）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B1%9F%E4%BB%99%E7%83%AD%E5%BA%A6%23" target="weibo">
 临江仙热度（热度：525370）
 </a>
@@ -5999,18 +6011,6 @@ WTT大满贯取消强制参赛（热度：498839）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E5%8F%A3%E7%A2%91%E6%81%90%E6%80%96%E5%A6%82%E6%96%AF%23" target="weibo">
 藏海口碑恐怖如斯（热度：477231）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E4%BA%A1%E5%A6%BB%E5%A9%9A%E6%88%92%E8%9E%8D%E4%B8%80%E8%B5%B7%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E5%B0%86%E5%BD%93%E7%88%B7%E7%88%B7%23" target="weibo">
-把亡妻婚戒融一起男子回应将当爷爷（热度：477062）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E9%81%AD%E7%99%BD%E5%AE%AB%E8%83%8C%E5%88%BA%23" target="weibo">
-马斯克遭白宫背刺（热度：476876）
 </a>
 </li>
 
