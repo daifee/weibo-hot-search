@@ -1,0 +1,410 @@
+{
+  "runTime": 1750079377444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2290329,
+        "num": 2290329,
+        "word": "涨工资的信号越来越明确",
+        "onboard_time": 1750077020,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924500,
+        "num": 924500,
+        "word": "金建希因病情恶化住院",
+        "onboard_time": 1750077381,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20753,
+        "num": 842864,
+        "word": "复兴路上弄潮儿",
+        "onboard_time": 1750071681,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 798153,
+        "num": 798153,
+        "word": "刘亦菲刘学义 咸雪",
+        "onboard_time": 1750076960,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468408,
+        "num": 468408,
+        "word": "校园贷借款8万还了14万还欠100万",
+        "onboard_time": 1750073421,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516249,
+        "num": 463967,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 444238,
+        "num": 444238,
+        "word": "印度少年拍到坠机后受严重心理创伤",
+        "onboard_time": 1750070360,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 218333,
+        "num": 442801,
+        "word": "唐梓有初代绝版labubu",
+        "onboard_time": 1750069102,
+        "rank": 7,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 206958,
+        "num": 433992,
+        "word": "我是军人啊难道不该以命换命吗",
+        "onboard_time": 1750076901,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 94425,
+        "num": 427252,
+        "word": "以军对伊朗中部开始新一轮空袭",
+        "onboard_time": 1750078402,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 586997,
+        "num": 416011,
+        "word": "曝艺人参加综艺录制迟到12小时",
+        "onboard_time": 1750066819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411325,
+        "num": 411325,
+        "word": "泡泡玛特补货",
+        "onboard_time": 1750076422,
+        "rank": 11,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 336493,
+        "num": 336493,
+        "word": "中国不参与军备竞赛",
+        "onboard_time": 1750075820,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330428,
+        "num": 330428,
+        "word": "月入5万女生辞职后陪父亲淘粪",
+        "onboard_time": 1750067483,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88905,
+        "num": 325164,
+        "word": "连救5人的军人张伟归队了",
+        "onboard_time": 1750079001,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 320792,
+        "num": 320792,
+        "word": "朱丹说鸡腿给两个弟弟吃",
+        "onboard_time": 1750072161,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187718,
+        "num": 297268,
+        "word": "闫妮演易烊千玺的二表姑",
+        "onboard_time": 1750078103,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282442,
+        "num": 282442,
+        "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
+        "onboard_time": 1750067782,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204036,
+        "num": 234424,
+        "word": "范丞丞把于洋认成佟丽娅",
+        "onboard_time": 1750077140,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39410,
+        "num": 233076,
+        "word": "上影节评委被上海建筑圈粉",
+        "onboard_time": 1750077020,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232788,
+        "num": 232788,
+        "word": "34岁女子爱生闷气血管堵90%",
+        "onboard_time": 1750067961,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222776,
+        "num": 222776,
+        "word": "男子误将502当眼药水滴入右眼",
+        "onboard_time": 1750068621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221341,
+        "num": 221341,
+        "word": "BLG官宣Wei离队",
+        "onboard_time": 1750074141,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208543,
+        "num": 208543,
+        "word": "限速40飙到174把电瓶车撞成碎片",
+        "onboard_time": 1750071861,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193079,
+        "num": 193079,
+        "word": "林俊杰首尔好像火车站接站现场",
+        "onboard_time": 1750077861,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186792,
+        "num": 186792,
+        "word": "陈哲远直播吃上碳水了",
+        "onboard_time": 1750078343,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180583,
+        "num": 180583,
+        "word": "道崽回应",
+        "onboard_time": 1750072520,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178786,
+        "num": 178786,
+        "word": "赵丽颖原声台词 评论区",
+        "onboard_time": 1750066280,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171318,
+        "num": 171318,
+        "word": "一骑红尘妃子笑读音",
+        "onboard_time": 1750076841,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 159860,
+        "num": 159860,
+        "word": "魏哲鸣刘些宁三搭终于演上情侣",
+        "onboard_time": 1750077981,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156744,
+        "num": 156744,
+        "word": "前男友与韦雪官宣后涨粉25万",
+        "onboard_time": 1750076240,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66837,
+        "num": 156488,
+        "word": "60岁老人失踪近3个月后浮尸水塘",
+        "onboard_time": 1750075761,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156303,
+        "num": 156303,
+        "word": "易烊千玺在剧组过了5分钟生日",
+        "onboard_time": 1750077261,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147711,
+        "num": 147711,
+        "word": "长安的荔枝22集含金量",
+        "onboard_time": 1750078940,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146083,
+        "num": 146083,
+        "word": "埃安",
+        "onboard_time": 1750076001,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143140,
+        "num": 143140,
+        "word": "一念江南",
+        "onboard_time": 1750079061,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141294,
+        "num": 141294,
+        "word": "哪吒2票房100元片方只拿33元",
+        "onboard_time": 1750059380,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136402,
+        "num": 136402,
+        "word": "王源演唱会抢票",
+        "onboard_time": 1750074560,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132741,
+        "num": 132741,
+        "word": "梁洁直播做陶艺",
+        "onboard_time": 1750078461,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131459,
+        "num": 131459,
+        "word": "外媒曝伊朗正准备一场大行动",
+        "onboard_time": 1750063941,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118281,
+        "num": 118281,
+        "word": "陈哲远很久没做男明星了",
+        "onboard_time": 1750079001,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114923,
+        "num": 114923,
+        "word": "遭上百位村民哄抢土豆种植户发声",
+        "onboard_time": 1750076960,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111075,
+        "num": 111075,
+        "word": "范丞丞直播跳whiplash",
+        "onboard_time": 1750072402,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108579,
+        "num": 108579,
+        "word": "月入过万一天工作14小时的真实生活",
+        "onboard_time": 1750065202,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103636,
+        "num": 103636,
+        "word": "TVB女演员转行做月嫂",
+        "onboard_time": 1750078641,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103486,
+        "num": 103486,
+        "word": "以色列总理称伊朗向其卧室发射了导弹",
+        "onboard_time": 1750075941,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100289,
+        "num": 100289,
+        "word": "内娱瘦下来一个尹正怎么了",
+        "onboard_time": 1750051763,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97473,
+        "num": 97473,
+        "word": "兽医用过期10年药品治羊称为主人省钱",
+        "onboard_time": 1750075700,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96922,
+        "num": 96922,
+        "word": "今年最早提前批offer的出现了",
+        "onboard_time": 1750076841,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95614,
+        "num": 95614,
+        "word": "孙颖莎最想搭混双的外国球员是波尔",
+        "onboard_time": 1750069281,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同迎接六国更加美好的明天#"
+    }
+  }
+}

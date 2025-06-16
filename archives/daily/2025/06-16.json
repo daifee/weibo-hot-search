@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750078460306,
+  "endTime": 1750079377444,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -9,6 +9,14 @@
       "onboard_time": 1750041620,
       "rank": 0,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 2290329,
+      "num": 2290329,
+      "word": "涨工资的信号越来越明确",
+      "onboard_time": 1750077020,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1867949,
@@ -25,14 +33,6 @@
       "onboard_time": 1750048223,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1236181,
-      "num": 1236181,
-      "word": "涨工资的信号越来越明确",
-      "onboard_time": 1750077020,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1172906,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 960200,
-      "num": 404713,
+      "num": 416011,
       "word": "曝艺人参加综艺录制迟到12小时",
       "onboard_time": 1750066819,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 924500,
+      "num": 924500,
+      "word": "金建希因病情恶化住院",
+      "onboard_time": 1750077381,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 906065,
@@ -113,6 +121,14 @@
       "onboard_time": 1750050083,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 798153,
+      "num": 798153,
+      "word": "刘亦菲刘学义 咸雪",
+      "onboard_time": 1750076960,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 797957,
@@ -195,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 664837,
-      "num": 664837,
-      "word": "刘亦菲刘学义 咸雪",
-      "onboard_time": 1750076960,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 661338,
       "num": 661338,
       "word": "印度少年拍到坠机后受严重心理创伤",
@@ -265,14 +273,6 @@
       "onboard_time": 1749996083,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 598162,
-      "num": 598162,
-      "word": "金建希因病情恶化住院",
-      "onboard_time": 1750077381,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 594885,
@@ -419,6 +419,14 @@
       "category": "互联网,艺人"
     },
     {
+      "raw_hot": 468408,
+      "num": 468408,
+      "word": "校园贷借款8万还了14万还欠100万",
+      "onboard_time": 1750073421,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468069,
       "num": 355040,
       "word": "朱丹说鸡腿给两个弟弟吃",
@@ -433,14 +441,6 @@
       "onboard_time": 1750045700,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 454379,
-      "num": 454379,
-      "word": "校园贷借款8万还了14万还欠100万",
-      "onboard_time": 1750073421,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 438060,
@@ -489,6 +489,14 @@
       "onboard_time": 1750011435,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 411325,
+      "num": 411325,
+      "word": "泡泡玛特补货",
+      "onboard_time": 1750076422,
+      "rank": 16,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 409160,
@@ -673,14 +681,6 @@
       "onboard_time": 1750066280,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 335834,
-      "num": 335834,
-      "word": "泡泡玛特补货",
-      "onboard_time": 1750076422,
-      "rank": 16,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 330479,
@@ -1139,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206958,
+      "num": 433992,
+      "word": "我是军人啊难道不该以命换命吗",
+      "onboard_time": 1750076901,
+      "rank": 23,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 205381,
       "num": 339431,
       "word": "易烊千玺在剧组过了5分钟生日",
@@ -1275,6 +1283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187718,
+      "num": 297268,
+      "word": "闫妮演易烊千玺的二表姑",
+      "onboard_time": 1750078103,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186924,
       "num": 186924,
       "word": "临江仙粉丝退至我身后",
@@ -1283,20 +1299,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186792,
+      "num": 186792,
+      "word": "陈哲远直播吃上碳水了",
+      "onboard_time": 1750078343,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184871,
       "num": 218328,
       "word": "龚俊刘宇宁斗舞",
       "onboard_time": 1750039399,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184517,
-      "num": 256545,
-      "word": "闫妮演易烊千玺的二表姑",
-      "onboard_time": 1750078103,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 183906,
@@ -1387,12 +1403,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 171347,
-      "num": 269873,
-      "word": "我是军人啊难道不该以命换命吗",
-      "onboard_time": 1750076901,
-      "rank": 23,
-      "category": "正能量"
+      "raw_hot": 171318,
+      "num": 171318,
+      "word": "一骑红尘妃子笑读音",
+      "onboard_time": 1750076841,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 171263,
@@ -1571,20 +1587,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 161236,
-      "num": 161236,
-      "word": "一骑红尘妃子笑读音",
-      "onboard_time": 1750076841,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 160027,
       "num": 174526,
       "word": "人民日报谈苏超",
       "onboard_time": 1750053861,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159860,
+      "num": 159860,
+      "word": "魏哲鸣刘些宁三搭终于演上情侣",
+      "onboard_time": 1750077981,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 159481,
@@ -1779,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147711,
+      "num": 147711,
+      "word": "长安的荔枝22集含金量",
+      "onboard_time": 1750078940,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147579,
       "num": 147579,
       "word": "伊朗处决一受雇于以色列的间谍",
@@ -1787,20 +1811,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 146397,
-      "num": 146397,
-      "word": "魏哲鸣刘些宁三搭终于演上情侣",
-      "onboard_time": 1750077981,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146346,
       "num": 208965,
       "word": "酱园弄影评",
       "onboard_time": 1750051341,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146083,
+      "num": 146083,
+      "word": "埃安",
+      "onboard_time": 1750076001,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 145219,
@@ -1819,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143140,
+      "num": 143140,
+      "word": "一念江南",
+      "onboard_time": 1750079061,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143119,
       "num": 143119,
       "word": "时代少年团大连",
@@ -1833,14 +1865,6 @@
       "onboard_time": 1750068740,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141980,
-      "num": 141980,
-      "word": "埃安",
-      "onboard_time": 1750076001,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 140765,
@@ -1977,6 +2001,14 @@
       "onboard_time": 1750011435,
       "rank": 22,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 132741,
+      "num": 132741,
+      "word": "梁洁直播做陶艺",
+      "onboard_time": 1750078461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 132052,
@@ -2251,6 +2283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118281,
+      "num": 118281,
+      "word": "陈哲远很久没做男明星了",
+      "onboard_time": 1750079001,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118073,
       "num": 118073,
       "word": "最好的养生其实就两个字",
@@ -2281,14 +2321,6 @@
       "onboard_time": 1750075941,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 116942,
-      "num": 115053,
-      "word": "陈哲远直播吃上碳水了",
-      "onboard_time": 1750078343,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 116797,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1750063160,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114923,
+      "num": 353213,
+      "word": "遭上百位村民哄抢土豆种植户发声",
+      "onboard_time": 1750076960,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114258,
@@ -2523,6 +2563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103636,
+      "num": 103636,
+      "word": "TVB女演员转行做月嫂",
+      "onboard_time": 1750078641,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102969,
       "num": 169042,
       "word": "女子称外国人在高铁大声开party",
@@ -2587,6 +2635,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 94425,
+      "num": 427252,
+      "word": "以军对伊朗中部开始新一轮空袭",
+      "onboard_time": 1750078402,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93136,
       "num": 384299,
       "word": "马克龙突访格陵兰岛",
@@ -2649,6 +2705,14 @@
       "onboard_time": 1750040779,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88905,
+      "num": 325164,
+      "word": "连救5人的军人张伟归队了",
+      "onboard_time": 1750079001,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 87926,
@@ -2736,14 +2800,6 @@
       "word": "小孩哥表演气球悬浮术轻松拿捏同学",
       "onboard_time": 1750040718,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81730,
-      "num": 353213,
-      "word": "遭上百位村民哄抢土豆种植户发声",
-      "onboard_time": 1750076960,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -2891,6 +2947,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 66837,
+      "num": 156488,
+      "word": "60岁老人失踪近3个月后浮尸水塘",
+      "onboard_time": 1750075761,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65720,
       "num": 190964,
       "word": "男子酒驾被查称吃荔枝吃的",
@@ -2937,14 +3001,6 @@
       "onboard_time": 1750047262,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58379,
-      "num": 133656,
-      "word": "以军对伊朗中部开始新一轮空袭",
-      "onboard_time": 1750078402,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 57884,
