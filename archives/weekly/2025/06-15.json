@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750045254510,
+  "endTime": 1750046181210,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -123,20 +123,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1065659,
+      "num": 421622,
+      "word": "妻子称谁先提出离婚谁就要净身出户",
+      "onboard_time": 1750041200,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1049607,
       "num": 1049607,
       "word": "陈梦说求婚现场人越多越好",
       "onboard_time": 1749989781,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1049021,
-      "num": 266712,
-      "word": "妻子称谁先提出离婚谁就要净身出户",
-      "onboard_time": 1750041200,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1029338,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 863879,
-      "num": 266086,
+      "num": 303656,
       "word": "韩网红首次看中剧瞬间震惊",
       "onboard_time": 1750034120,
       "rank": 10,
@@ -281,6 +281,14 @@
       "onboard_time": 1749998361,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 754806,
+      "num": 754806,
+      "word": "苹果用户再也不敢乱用emoji了",
+      "onboard_time": 1750042579,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 752940,
@@ -361,14 +369,6 @@
       "onboard_time": 1749946338,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 653518,
-      "num": 266452,
-      "word": "苹果用户再也不敢乱用emoji了",
-      "onboard_time": 1750042579,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 639641,
@@ -465,6 +465,14 @@
       "onboard_time": 1749975800,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 613061,
+      "num": 613061,
+      "word": "伊朗被摩萨德渗透成了筛子",
+      "onboard_time": 1750042040,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 611633,
@@ -571,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521898,
+      "num": 521898,
+      "word": "湖南一鞭炮厂发生爆炸事故",
+      "onboard_time": 1750043722,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 521809,
       "num": 521809,
       "word": "刘亦菲 宝格丽女王",
@@ -609,14 +625,6 @@
       "onboard_time": 1749993322,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 491352,
-      "num": 491352,
-      "word": "伊朗被摩萨德渗透成了筛子",
-      "onboard_time": 1750042040,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 490889,
@@ -731,6 +739,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422879,
+      "num": 422879,
+      "word": "湖南临澧通报山洲花炮厂爆炸",
+      "onboard_time": 1750044622,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 421589,
+      "num": 421589,
+      "word": "伊朗几乎没有完整的避难所",
+      "onboard_time": 1750042760,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 421301,
       "num": 421301,
       "word": "伊朗警告美英法3国",
@@ -827,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377369,
+      "num": 421778,
+      "word": "何洁发长文回应假唱争议",
+      "onboard_time": 1750042939,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 374832,
       "num": 346773,
       "word": "祝绪丹背着工作人员开直播",
@@ -859,14 +891,6 @@
       "category": "休闲,动漫"
     },
     {
-      "raw_hot": 361949,
-      "num": 361949,
-      "word": "湖南临澧通报山洲花炮厂爆炸",
-      "onboard_time": 1750044622,
-      "rank": 6,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 358500,
       "num": 333182,
       "word": "让体脂率不断下降的小习惯",
@@ -891,12 +915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 347441,
-      "num": 310280,
-      "word": "湖南一鞭炮厂发生爆炸事故",
-      "onboard_time": 1750043722,
-      "rank": 8,
-      "category": "辟谣/通报"
+      "raw_hot": 349011,
+      "num": 349011,
+      "word": "长安的荔枝奋荔一搏海报",
+      "onboard_time": 1750043300,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 346623,
@@ -985,14 +1009,6 @@
       "onboard_time": 1749911063,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 322880,
-      "num": 322880,
-      "word": "何洁发长文回应假唱争议",
-      "onboard_time": 1750042939,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 320548,
@@ -1227,6 +1243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 269388,
+      "num": 412780,
+      "word": "王安宇昧着良心说了一段高情商的话",
+      "onboard_time": 1750042040,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268741,
       "num": 268741,
       "word": "王俊凯时尚芭莎七月刊封面",
@@ -1275,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264066,
-      "num": 264066,
-      "word": "伊朗几乎没有完整的避难所",
-      "onboard_time": 1750042760,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 263588,
       "num": 263588,
       "word": "刘浩存向上抹眼泪的都是狠人",
@@ -1315,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257129,
+      "num": 257129,
+      "word": "BabyDONTCry出道",
+      "onboard_time": 1750045700,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254008,
       "num": 254008,
       "word": "伊朗称将袭击以战斗机燃料生产设施",
@@ -1339,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249245,
+      "num": 249245,
+      "word": "曾舜晞吃白鹿妈妈做的饭",
+      "onboard_time": 1750044862,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248378,
       "num": 248378,
       "word": "以国家安全总局局长辞职",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1750001001,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241720,
+      "num": 241720,
+      "word": "时代少年团上海",
+      "onboard_time": 1750045222,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 241009,
@@ -1580,7 +1620,7 @@
     },
     {
       "raw_hot": 211762,
-      "num": 232495,
+      "num": 377214,
       "word": "曝vivo将发布全球最轻折叠屏XFold5",
       "onboard_time": 1750043480,
       "rank": 17,
@@ -1593,14 +1633,6 @@
       "onboard_time": 1749993683,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210018,
-      "num": 210018,
-      "word": "王安宇昧着良心说了一段高情商的话",
-      "onboard_time": 1750042040,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 209777,
@@ -1625,6 +1657,14 @@
       "onboard_time": 1749989180,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209179,
+      "num": 209179,
+      "word": "迪丽热巴一句话杀死了比赛",
+      "onboard_time": 1750045522,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 208759,
@@ -1745,14 +1785,6 @@
       "onboard_time": 1749968542,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200648,
-      "num": 176299,
-      "word": "曾舜晞吃白鹿妈妈做的饭",
-      "onboard_time": 1750044862,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199717,
@@ -1891,12 +1923,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193841,
-      "num": 193841,
-      "word": "长安的荔枝奋荔一搏海报",
-      "onboard_time": 1750043300,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 193155,
+      "num": 193155,
+      "word": "A股光线传媒涨停",
+      "onboard_time": 1750045819,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 192210,
@@ -2064,6 +2096,14 @@
       "word": "一碗泡面让霸总爽文照进现实",
       "onboard_time": 1750038558,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180024,
+      "num": 180024,
+      "word": "男子在上海被日本人殴打",
+      "onboard_time": 1750044439,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2371,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166041,
+      "num": 166041,
+      "word": "芭莎男士六月刊封面预告",
+      "onboard_time": 1750045101,
+      "rank": 40,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 165533,
       "num": 165533,
       "word": "新说唱清退不当言论运营人员",
@@ -2449,6 +2497,14 @@
       "onboard_time": 1749952520,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161096,
+      "num": 161096,
+      "word": "建议大家不要长期戴隐形眼镜",
+      "onboard_time": 1750044981,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 160860,
@@ -2659,14 +2715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147935,
-      "num": 147935,
-      "word": "芭莎男士六月刊封面预告",
-      "onboard_time": 1750045101,
-      "rank": 40,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 147451,
       "num": 156030,
       "word": "白鹿曾舜晞今晚陪看临江仙",
@@ -2843,6 +2891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137926,
+      "num": 137926,
+      "word": "男子追求女子发近千骚扰短信找上爷爷家",
+      "onboard_time": 1750044800,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137696,
       "num": 470652,
       "word": "以色列为何难以停止战争机器",
@@ -2881,6 +2937,14 @@
       "onboard_time": 1749992422,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136040,
+      "num": 136040,
+      "word": "这些食物不建议二次加热",
+      "onboard_time": 1750044862,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135998,
@@ -2955,14 +3019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133866,
-      "num": 133866,
-      "word": "这些食物不建议二次加热",
-      "onboard_time": 1750044862,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132857,
       "num": 132857,
       "word": "Cat说打比赛心态有变化",
@@ -3011,14 +3067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132234,
-      "num": 132234,
-      "word": "时代少年团上海",
-      "onboard_time": 1750045222,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 132052,
       "num": 132052,
       "word": "脱衣助考男子回应最美光膀子",
@@ -3033,6 +3081,14 @@
       "onboard_time": 1749980000,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131417,
+      "num": 131417,
+      "word": "以为很懒其实很健康的养娃方式",
+      "onboard_time": 1750045581,
+      "rank": 47,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 131016,
@@ -3113,14 +3169,6 @@
       "onboard_time": 1750003221,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 128732,
-      "num": 128732,
-      "word": "男子追求女子发近千骚扰短信找上爷爷家",
-      "onboard_time": 1750044800,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128679,
@@ -3595,6 +3643,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 114142,
+      "num": 409280,
+      "word": "目击者讲述湖南一烟花厂爆炸",
+      "onboard_time": 1750044800,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 114136,
       "num": 114136,
       "word": "全员加速中",
@@ -3660,7 +3716,7 @@
     },
     {
       "raw_hot": 111851,
-      "num": 124265,
+      "num": 385368,
       "word": "小英回应不给上拉如发工资",
       "onboard_time": 1750043180,
       "rank": 48,
@@ -3907,14 +3963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 96507,
-      "num": 252705,
-      "word": "目击者讲述湖南一烟花厂爆炸",
-      "onboard_time": 1750044800,
-      "rank": 14,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 95964,
       "num": 272610,
       "word": "为救子盗窃入狱父亲发声",
@@ -3952,6 +4000,14 @@
       "word": "胡杏儿晒老公儿子合照疑回应婚变",
       "onboard_time": 1749995004,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94021,
+      "num": 397047,
+      "word": "张柏芝生图比白瓷还白",
+      "onboard_time": 1750044920,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -4339,14 +4395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57858,
-      "num": 216642,
-      "word": "张柏芝生图比白瓷还白",
-      "onboard_time": 1750044920,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 56676,
       "num": 56676,
       "word": "伊军称战争规模未来几天持续扩大",
@@ -4355,11 +4403,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 55550,
-      "num": 151765,
-      "word": "男子在上海被日本人殴打",
-      "onboard_time": 1750044439,
-      "rank": 38,
+      "raw_hot": 55425,
+      "num": 421651,
+      "word": "临澧镇政府回应花炮厂爆炸起火",
+      "onboard_time": 1750045222,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -4401,6 +4449,14 @@
       "onboard_time": 1749910403,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51364,
+      "num": 351664,
+      "word": "侧躺玩手机有什么危害",
+      "onboard_time": 1750045282,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 51354,
@@ -4523,6 +4579,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44719,
+      "num": 175076,
+      "word": "患上突发性耳聋的年轻人越来越多了",
+      "onboard_time": 1750041800,
+      "rank": 34,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 44126,
+      "num": 169042,
+      "word": "女子称外国人在高铁大声开party",
+      "onboard_time": 1750046120,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43830,
       "num": 200111,
       "word": "为什么不建议吃隔夜菜",
@@ -4561,6 +4633,14 @@
       "onboard_time": 1749979880,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41474,
+      "num": 359355,
+      "word": "花炮厂爆炸负责人称两名工人失联",
+      "onboard_time": 1750045819,
+      "rank": 18,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 41054,
@@ -4616,14 +4696,6 @@
       "word": "台风过境新郎顶暴雨骑三轮接亲",
       "onboard_time": 1749960621,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36450,
-      "num": 160863,
-      "word": "临澧镇政府回应花炮厂爆炸起火",
-      "onboard_time": 1750045222,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -4716,7 +4788,7 @@
     },
     {
       "raw_hot": 30565,
-      "num": 484520,
+      "num": 647530,
       "word": "全民反诈在行动",
       "onboard_time": 1750041380,
       "rank": 2,
@@ -5163,20 +5235,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12456,
+      "num": 166861,
+      "word": "陈艺文生日九宫格",
+      "onboard_time": 1750044800,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12024,
       "num": 64159,
       "word": "孤独摇滚美得不得了",
       "onboard_time": 1749921619,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 11832,
-      "num": 148037,
-      "word": "陈艺文生日九宫格",
-      "onboard_time": 1750044800,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 9783,
@@ -5201,6 +5273,14 @@
       "onboard_time": 1750022413,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8250,
+      "num": 174328,
+      "word": "穆勒周通赛后互动",
+      "onboard_time": 1750046120,
+      "rank": 35,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

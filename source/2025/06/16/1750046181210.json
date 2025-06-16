@@ -1,0 +1,410 @@
+{
+  "runTime": 1750046181210,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2815197,
+        "num": 2815197,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 754806,
+        "num": 754806,
+        "word": "苹果用户再也不敢乱用emoji了",
+        "onboard_time": 1750042579,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30407,
+        "num": 647530,
+        "word": "全民反诈在行动",
+        "onboard_time": 1750041380,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613061,
+        "num": 613061,
+        "word": "伊朗被摩萨德渗透成了筛子",
+        "onboard_time": 1750042040,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 521898,
+        "num": 521898,
+        "word": "湖南一鞭炮厂发生爆炸事故",
+        "onboard_time": 1750043722,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 464293,
+        "num": 464293,
+        "word": "张真源毕业",
+        "onboard_time": 1750041200,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423553,
+        "num": 423553,
+        "word": "伊朗导弹击中海法和特拉维夫",
+        "onboard_time": 1750030459,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422879,
+        "num": 422879,
+        "word": "湖南临澧通报山洲花炮厂爆炸",
+        "onboard_time": 1750044622,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 377369,
+        "num": 421778,
+        "word": "何洁发长文回应假唱争议",
+        "onboard_time": 1750042939,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55425,
+        "num": 421651,
+        "word": "临澧镇政府回应花炮厂爆炸起火",
+        "onboard_time": 1750045222,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1065659,
+        "num": 421622,
+        "word": "妻子称谁先提出离婚谁就要净身出户",
+        "onboard_time": 1750041200,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421589,
+        "num": 421589,
+        "word": "伊朗几乎没有完整的避难所",
+        "onboard_time": 1750042760,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421319,
+        "num": 421319,
+        "word": "难怪我一上高铁就睡觉",
+        "onboard_time": 1750019053,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269388,
+        "num": 412780,
+        "word": "王安宇昧着良心说了一段高情商的话",
+        "onboard_time": 1750042040,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114142,
+        "num": 409280,
+        "word": "目击者讲述湖南一烟花厂爆炸",
+        "onboard_time": 1750044800,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 94021,
+        "num": 397047,
+        "word": "张柏芝生图比白瓷还白",
+        "onboard_time": 1750044920,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99974,
+        "num": 385368,
+        "word": "小英回应不给上拉如发工资",
+        "onboard_time": 1750043180,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 76607,
+        "num": 377214,
+        "word": "曝vivo将发布全球最轻折叠屏XFold5",
+        "onboard_time": 1750043480,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41474,
+        "num": 359355,
+        "word": "花炮厂爆炸负责人称两名工人失联",
+        "onboard_time": 1750045819,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 51364,
+        "num": 351664,
+        "word": "侧躺玩手机有什么危害",
+        "onboard_time": 1750045282,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 349011,
+        "num": 349011,
+        "word": "长安的荔枝奋荔一搏海报",
+        "onboard_time": 1750043300,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303656,
+        "num": 303656,
+        "word": "韩网红首次看中剧瞬间震惊",
+        "onboard_time": 1750034120,
+        "rank": 21,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 257129,
+        "num": 257129,
+        "word": "BabyDONTCry出道",
+        "onboard_time": 1750045700,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249245,
+        "num": 249245,
+        "word": "曾舜晞吃白鹿妈妈做的饭",
+        "onboard_time": 1750044862,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241720,
+        "num": 241720,
+        "word": "时代少年团上海",
+        "onboard_time": 1750045222,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227596,
+        "num": 227596,
+        "word": "王俊凯时尚芭莎七月刊封面",
+        "onboard_time": 1750043961,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 218524,
+        "num": 218524,
+        "word": "大学里的男生为什么越来越少了",
+        "onboard_time": 1749996083,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218122,
+        "num": 218122,
+        "word": "一架波音客机长沙起飞半小时后返航",
+        "onboard_time": 1750037600,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209179,
+        "num": 209179,
+        "word": "迪丽热巴一句话杀死了比赛",
+        "onboard_time": 1750045522,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194886,
+        "num": 209016,
+        "word": "2025最新本科专业速查",
+        "onboard_time": 1750038380,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208911,
+        "num": 208911,
+        "word": "肖战谍报上不封顶白衬衫墨镜路透",
+        "onboard_time": 1750040900,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197341,
+        "num": 197341,
+        "word": "小英和老公吵架",
+        "onboard_time": 1750036400,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193155,
+        "num": 193155,
+        "word": "A股光线传媒涨停",
+        "onboard_time": 1750045819,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180024,
+        "num": 180024,
+        "word": "男子在上海被日本人殴打",
+        "onboard_time": 1750044439,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44719,
+        "num": 175076,
+        "word": "患上突发性耳聋的年轻人越来越多了",
+        "onboard_time": 1750041800,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 8250,
+        "num": 174328,
+        "word": "穆勒周通赛后互动",
+        "onboard_time": 1750046120,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173802,
+        "num": 173802,
+        "word": "杭州一泡泡玛特开业当天闭店",
+        "onboard_time": 1749983481,
+        "rank": 36,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 172809,
+        "num": 172809,
+        "word": "陈靖可 孙千",
+        "onboard_time": 1749999203,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44126,
+        "num": 169042,
+        "word": "女子称外国人在高铁大声开party",
+        "onboard_time": 1750046120,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12456,
+        "num": 166861,
+        "word": "陈艺文生日九宫格",
+        "onboard_time": 1750044800,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166041,
+        "num": 166041,
+        "word": "芭莎男士六月刊封面预告",
+        "onboard_time": 1750045101,
+        "rank": 40,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 151531,
+        "num": 162018,
+        "word": "浪姐 我清楚地看见你了",
+        "onboard_time": 1750044622,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161096,
+        "num": 161096,
+        "word": "建议大家不要长期戴隐形眼镜",
+        "onboard_time": 1750044981,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152008,
+        "num": 152008,
+        "word": "黄金",
+        "onboard_time": 1750038980,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148113,
+        "num": 148113,
+        "word": "黄圣依妈妈撑起了自己的原生家庭",
+        "onboard_time": 1750037000,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137926,
+        "num": 137926,
+        "word": "男子追求女子发近千骚扰短信找上爷爷家",
+        "onboard_time": 1750044800,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136040,
+        "num": 136040,
+        "word": "这些食物不建议二次加热",
+        "onboard_time": 1750044862,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131417,
+        "num": 131417,
+        "word": "以为很懒其实很健康的养娃方式",
+        "onboard_time": 1750045581,
+        "rank": 47,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 126264,
+        "num": 126264,
+        "word": "伊朗",
+        "onboard_time": 1750037838,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126150,
+        "num": 126150,
+        "word": "11岁男孩每天吸二手烟得肺癌",
+        "onboard_time": 1750003221,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国—中亚峰会#"
+    }
+  }
+}
