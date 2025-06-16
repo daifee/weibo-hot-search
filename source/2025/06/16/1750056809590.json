@@ -1,0 +1,410 @@
+{
+  "runTime": 1750056809590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1421091,
+        "num": 1421091,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 866673,
+        "num": 866673,
+        "word": "内娱瘦下来一个尹正怎么了",
+        "onboard_time": 1750051763,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11236,
+        "num": 804881,
+        "word": "一系列先行指标看经济活力",
+        "onboard_time": 1749994522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 756947,
+        "num": 756947,
+        "word": "林依晨二胎得子",
+        "onboard_time": 1750048223,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400810,
+        "num": 400810,
+        "word": "泰国坠亡中国男子生前最后对话曝光",
+        "onboard_time": 1750048582,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313864,
+        "num": 313864,
+        "word": "波尔从孔令辉打到王楚钦",
+        "onboard_time": 1750051461,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372773,
+        "num": 304613,
+        "word": "王星越 这是我爸",
+        "onboard_time": 1750049181,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284604,
+        "num": 284604,
+        "word": "苹果用户再也不敢乱用emoji了",
+        "onboard_time": 1750042579,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126128,
+        "num": 284265,
+        "word": "伊朗导弹击中海法和特拉维夫",
+        "onboard_time": 1750030459,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37348,
+        "num": 283849,
+        "word": "优衣库称门店试衣镜均为正常镜子",
+        "onboard_time": 1750056258,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751571,
+        "num": 283546,
+        "word": "老师被曝让学生一字排开跪地写检讨",
+        "onboard_time": 1750050681,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503563,
+        "num": 283229,
+        "word": "前男友删除与韦雪有关视频",
+        "onboard_time": 1750050083,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372469,
+        "num": 282940,
+        "word": "酱园弄悬案原来这么大尺度",
+        "onboard_time": 1750052960,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282625,
+        "num": 282625,
+        "word": "同学为那尔那茜发声",
+        "onboard_time": 1750055840,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43338,
+        "num": 263748,
+        "word": "请不要相信服装店的镜子",
+        "onboard_time": 1750056380,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258520,
+        "num": 258520,
+        "word": "Labubu 审美",
+        "onboard_time": 1750055840,
+        "rank": 15,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 227343,
+        "num": 258236,
+        "word": "易烊千玺第一部男主剧",
+        "onboard_time": 1750056321,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105839,
+        "num": 257843,
+        "word": "有人通过3D打印labubu模型赚十多万",
+        "onboard_time": 1750055901,
+        "rank": 17,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 42226,
+        "num": 257453,
+        "word": "哪些人群不适合吃荔枝",
+        "onboard_time": 1750055480,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49031,
+        "num": 256925,
+        "word": "一颗螺丝就能让镜子瘦身增高",
+        "onboard_time": 1750055960,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256924,
+        "num": 256924,
+        "word": "以请求国际援助拦截伊朗袭击",
+        "onboard_time": 1750049423,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169510,
+        "num": 251743,
+        "word": "ally大学就读于211高校",
+        "onboard_time": 1750051400,
+        "rank": 21,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 248208,
+        "num": 248208,
+        "word": "豆包p图",
+        "onboard_time": 1750046542,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218923,
+        "num": 218923,
+        "word": "青年人失业率连续3个月下降",
+        "onboard_time": 1750052421,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217295,
+        "num": 217295,
+        "word": "程潇支持黄圣依要抚养费",
+        "onboard_time": 1750052960,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216992,
+        "num": 216992,
+        "word": "避雷向佐粉底液",
+        "onboard_time": 1750053621,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195909,
+        "num": 195909,
+        "word": "方媛公开怀三胎后首发文",
+        "onboard_time": 1750049962,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211274,
+        "num": 191793,
+        "word": "难怪柯淳不敢直视刘涛",
+        "onboard_time": 1750055360,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187174,
+        "num": 187174,
+        "word": "当我发现我妈跟刘亦菲演过戏",
+        "onboard_time": 1750048101,
+        "rank": 28,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 181628,
+        "num": 181628,
+        "word": "黄誉博助理居然出道了",
+        "onboard_time": 1750056258,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174332,
+        "num": 174332,
+        "word": "伊朗被摩萨德渗透成了筛子",
+        "onboard_time": 1750042040,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163814,
+        "num": 163814,
+        "word": "湖南一鞭炮厂发生爆炸事故",
+        "onboard_time": 1750043722,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 160027,
+        "num": 160027,
+        "word": "人民日报谈苏超",
+        "onboard_time": 1750053861,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155479,
+        "num": 155479,
+        "word": "白鹿演技",
+        "onboard_time": 1750046601,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12591,
+        "num": 148089,
+        "word": "第一视角感受伊朗导弹落地",
+        "onboard_time": 1750056741,
+        "rank": 34,
+        "category": "海外新闻,民生新闻"
+      },
+      {
+        "raw_hot": 146427,
+        "num": 146427,
+        "word": "蒋依依冬天生理期拍戏被泼水",
+        "onboard_time": 1750053322,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144774,
+        "num": 144774,
+        "word": "梅婷别演了我害怕",
+        "onboard_time": 1750048043,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33066,
+        "num": 142593,
+        "word": "谁来管管女装预售",
+        "onboard_time": 1750055780,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67610,
+        "num": 142513,
+        "word": "谁懂作者是何炅的含金量",
+        "onboard_time": 1750048162,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21386,
+        "num": 142476,
+        "word": "温迪今天是悠闲的日常",
+        "onboard_time": 1750054760,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142441,
+        "num": 142441,
+        "word": "谁家985校园能停运20啊",
+        "onboard_time": 1750056200,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 129172,
+        "num": 129172,
+        "word": "女子网恋高富帅豪掷135万血本无归",
+        "onboard_time": 1750054100,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121170,
+        "num": 121170,
+        "word": "伊朗",
+        "onboard_time": 1750037838,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120532,
+        "num": 120532,
+        "word": "Fly晋级MSI",
+        "onboard_time": 1750056499,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117644,
+        "num": 117644,
+        "word": "虞书欣把头发盘成蝴蝶结",
+        "onboard_time": 1750054521,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112138,
+        "num": 112138,
+        "word": "刘浩存这段有惊天魔盗团那味儿了",
+        "onboard_time": 1750056620,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110285,
+        "num": 110285,
+        "word": "黄觉谈易烊千玺李庚希表演",
+        "onboard_time": 1750054701,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108650,
+        "num": 108650,
+        "word": "一个被窝睡不出两种人",
+        "onboard_time": 1750049663,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105582,
+        "num": 107853,
+        "word": "湖南临澧通报山洲花炮厂爆炸",
+        "onboard_time": 1750044622,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 107805,
+        "num": 107805,
+        "word": "何洁发长文后秒删",
+        "onboard_time": 1750046841,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席哈萨克斯坦之行#"
+    }
+  }
+}

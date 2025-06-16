@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750055962574,
+  "endTime": 1750056809590,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -73,6 +73,14 @@
       "onboard_time": 1749983481,
       "rank": 0,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 751571,
+      "num": 392027,
+      "word": "老师被曝让学生一字排开跪地写检讨",
+      "onboard_time": 1750050681,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 737267,
@@ -185,14 +193,6 @@
       "onboard_time": 1750048043,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 517995,
-      "num": 392027,
-      "word": "老师被曝让学生一字排开跪地写检讨",
-      "onboard_time": 1750050681,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 494326,
@@ -347,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 372469,
+      "num": 282940,
+      "word": "酱园弄悬案原来这么大尺度",
+      "onboard_time": 1750052960,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 370208,
       "num": 285410,
       "word": "张檬自曝生孩子后脑雾",
@@ -377,14 +385,6 @@
       "onboard_time": 1750000763,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 346462,
-      "num": 264594,
-      "word": "酱园弄悬案原来这么大尺度",
-      "onboard_time": 1750052960,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 342654,
@@ -440,6 +440,14 @@
       "word": "演员代旭辟谷7天瘦8斤",
       "onboard_time": 1749994944,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 282625,
+      "num": 282625,
+      "word": "同学为那尔那茜发声",
+      "onboard_time": 1750055840,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -505,6 +513,14 @@
       "onboard_time": 1749976819,
       "rank": 15,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 258520,
+      "num": 258520,
+      "word": "Labubu 审美",
+      "onboard_time": 1750055840,
+      "rank": 48,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 254454,
@@ -588,11 +604,19 @@
     },
     {
       "raw_hot": 227718,
-      "num": 190970,
+      "num": 218923,
       "word": "青年人失业率连续3个月下降",
       "onboard_time": 1750052421,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227343,
+      "num": 258236,
+      "word": "易烊千玺第一部男主剧",
+      "onboard_time": 1750056321,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 224794,
@@ -635,6 +659,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 217295,
+      "num": 217295,
+      "word": "程潇支持黄圣依要抚养费",
+      "onboard_time": 1750052960,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216992,
+      "num": 216992,
+      "word": "避雷向佐粉底液",
+      "onboard_time": 1750053621,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216715,
       "num": 216715,
       "word": "张真源学士服照",
@@ -675,6 +715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 211274,
+      "num": 191793,
+      "word": "难怪柯淳不敢直视刘涛",
+      "onboard_time": 1750055360,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209351,
       "num": 209351,
       "word": "一个被窝睡不出两种人",
@@ -697,14 +745,6 @@
       "onboard_time": 1750005320,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194734,
-      "num": 194734,
-      "word": "程潇支持黄圣依要抚养费",
-      "onboard_time": 1750052960,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 193155,
@@ -779,28 +819,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 181628,
+      "num": 181628,
+      "word": "黄誉博助理居然出道了",
+      "onboard_time": 1750056258,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181315,
       "num": 218230,
       "word": "一碗泡面让霸总爽文照进现实",
       "onboard_time": 1750038558,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174024,
-      "num": 174024,
-      "word": "避雷向佐粉底液",
-      "onboard_time": 1750053621,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 174012,
-      "num": 174012,
-      "word": "难怪柯淳不敢直视刘涛",
-      "onboard_time": 1750055360,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 172814,
@@ -825,6 +857,14 @@
       "onboard_time": 1750048523,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169510,
+      "num": 251743,
+      "word": "ally大学就读于211高校",
+      "onboard_time": 1750051400,
+      "rank": 44,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 168556,
@@ -923,6 +963,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 160027,
+      "num": 174526,
+      "word": "人民日报谈苏超",
+      "onboard_time": 1750053861,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159481,
       "num": 159481,
       "word": "惠英红收工连夜胖揍吴镇宇",
@@ -993,14 +1041,6 @@
       "onboard_time": 1750004299,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151902,
-      "num": 191088,
-      "word": "ally大学就读于211高校",
-      "onboard_time": 1750051400,
-      "rank": 44,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 151664,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1750050681,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142441,
+      "num": 142441,
+      "word": "谁家985校园能停运20啊",
+      "onboard_time": 1750056200,
+      "rank": 40,
+      "category": "军事"
     },
     {
       "raw_hot": 140765,
@@ -1171,14 +1219,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 131544,
-      "num": 174526,
-      "word": "人民日报谈苏超",
-      "onboard_time": 1750053861,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131417,
       "num": 131417,
       "word": "以为很懒其实很健康的养娃方式",
@@ -1217,6 +1257,14 @@
       "onboard_time": 1750054701,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129172,
+      "num": 190476,
+      "word": "女子网恋高富帅豪掷135万血本无归",
+      "onboard_time": 1750054100,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128816,
@@ -1283,12 +1331,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 121345,
-      "num": 121345,
-      "word": "同学为那尔那茜发声",
-      "onboard_time": 1750055840,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 120532,
+      "num": 120532,
+      "word": "Fly晋级MSI",
+      "onboard_time": 1750056499,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 119974,
@@ -1355,20 +1403,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112138,
+      "num": 112138,
+      "word": "刘浩存这段有惊天魔盗团那味儿了",
+      "onboard_time": 1750056620,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111851,
       "num": 385368,
       "word": "小英回应不给上拉如发工资",
       "onboard_time": 1750043180,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 111827,
-      "num": 111827,
-      "word": "Labubu 审美",
-      "onboard_time": 1750055840,
-      "rank": 48,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 110906,
@@ -1411,20 +1459,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 108487,
-      "num": 190476,
-      "word": "女子网恋高富帅豪掷135万血本无归",
-      "onboard_time": 1750054100,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106043,
       "num": 106043,
       "word": "央视曝光伤人的公共健身器材",
       "onboard_time": 1749997942,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 105839,
+      "num": 257843,
+      "word": "有人通过3D打印labubu模型赚十多万",
+      "onboard_time": 1750055901,
+      "rank": 35,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 103922,
@@ -1795,6 +1843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49031,
+      "num": 256925,
+      "word": "一颗螺丝就能让镜子瘦身增高",
+      "onboard_time": 1750055960,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48377,
       "num": 48377,
       "word": "为什么边牧弃养率高",
@@ -1843,20 +1899,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44789,
-      "num": 153774,
-      "word": "有人通过3D打印labubu模型赚十多万",
-      "onboard_time": 1750055901,
-      "rank": 35,
-      "category": "民生新闻,动漫"
-    },
-    {
       "raw_hot": 44719,
       "num": 175076,
       "word": "患上突发性耳聋的年轻人越来越多了",
       "onboard_time": 1750041800,
       "rank": 34,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 43338,
+      "num": 263748,
+      "word": "请不要相信服装店的镜子",
+      "onboard_time": 1750056380,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42380,
@@ -1867,8 +1923,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41636,
-      "num": 191390,
+      "raw_hot": 42226,
+      "num": 257453,
       "word": "哪些人群不适合吃荔枝",
       "onboard_time": 1750055480,
       "rank": 19,
@@ -1897,6 +1953,14 @@
       "onboard_time": 1750047082,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 37348,
+      "num": 283849,
+      "word": "优衣库称门店试衣镜均为正常镜子",
+      "onboard_time": 1750056258,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36334,
@@ -1929,6 +1993,14 @@
       "onboard_time": 1750050862,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33066,
+      "num": 142593,
+      "word": "谁来管管女装预售",
+      "onboard_time": 1750055780,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31194,
@@ -1977,14 +2049,6 @@
       "onboard_time": 1750018874,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 29216,
-      "num": 137340,
-      "word": "谁来管管女装预售",
-      "onboard_time": 1750055780,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27187,
@@ -2059,6 +2123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21386,
+      "num": 142476,
+      "word": "温迪今天是悠闲的日常",
+      "onboard_time": 1750054760,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 20966,
       "num": 152584,
       "word": "潘展乐运动潮男大片",
@@ -2121,6 +2193,14 @@
       "onboard_time": 1750008976,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12591,
+      "num": 148089,
+      "word": "第一视角感受伊朗导弹落地",
+      "onboard_time": 1750056741,
+      "rank": 34,
+      "category": "海外新闻,民生新闻"
     },
     {
       "raw_hot": 12456,

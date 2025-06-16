@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/16 14:39:22
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/16 14:53:29
 </p>
 </blockquote>
 <p>
@@ -3111,6 +3111,12 @@ AL战胜BLG（热度：859667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E8%A2%AB%E6%9B%9D%E8%AE%A9%E5%AD%A6%E7%94%9F%E4%B8%80%E5%AD%97%E6%8E%92%E5%BC%80%E8%B7%AA%E5%9C%B0%E5%86%99%E6%A3%80%E8%AE%A8%23" target="weibo">
+老师被曝让学生一字排开跪地写检讨（热度：751571）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%B3%E4%BA%8E6%E6%9C%881%E6%97%A5%E4%B8%8D%E8%AE%B8%E4%B8%8B%E9%9B%A8%E7%9A%84%E9%80%9A%E7%9F%A5%23" target="weibo">
 深圳关于6月1日不许下雨的通知（热度：750603）
 </a>
@@ -5321,12 +5327,6 @@ Labubu催生庞大周边产业链（热度：535204）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A2%E8%8F%B2%20%E5%A5%B9%E7%9A%84%E7%9E%B3%23" target="weibo">
 邢菲 她的瞳（热度：518145）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E8%A2%AB%E6%9B%9D%E8%AE%A9%E5%AD%A6%E7%94%9F%E4%B8%80%E5%AD%97%E6%8E%92%E5%BC%80%E8%B7%AA%E5%9C%B0%E5%86%99%E6%A3%80%E8%AE%A8%23" target="weibo">
-老师被曝让学生一字排开跪地写检讨（热度：517995）
 </a>
 </li>
 
