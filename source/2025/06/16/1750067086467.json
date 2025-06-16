@@ -1,0 +1,410 @@
+{
+  "runTime": 1750067086467,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 714467,
+        "num": 1114314,
+        "word": "蓝盈莹气血充盈得溢出屏幕了",
+        "onboard_time": 1750061720,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612602,
+        "num": 612602,
+        "word": "月入过万一天工作14小时的真实生活",
+        "onboard_time": 1750065202,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57575,
+        "num": 524807,
+        "word": "中亚已成中国出境游新兴热门目的地",
+        "onboard_time": 1750065861,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 480419,
+        "num": 480419,
+        "word": "哪吒2票房100元片方只拿33元",
+        "onboard_time": 1750059380,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 419759,
+        "num": 419759,
+        "word": "哈梅内伊",
+        "onboard_time": 1750061659,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 852530,
+        "num": 417954,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 469242,
+        "num": 382638,
+        "word": "周洁琼将参与ioi回归",
+        "onboard_time": 1750064481,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341007,
+        "num": 341007,
+        "word": "12306回应一上高铁就睡觉是因缺氧",
+        "onboard_time": 1750057459,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1382859,
+        "num": 337633,
+        "word": "女儿实名举报交警继父",
+        "onboard_time": 1750062141,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51423,
+        "num": 332573,
+        "word": "数百名村民哄抢未收土豆",
+        "onboard_time": 1750066280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495665,
+        "num": 332319,
+        "word": "贾冰老婆颜值",
+        "onboard_time": 1750065321,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330979,
+        "num": 330979,
+        "word": "林依晨二胎得子",
+        "onboard_time": 1750048223,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313427,
+        "num": 313427,
+        "word": "日本悠仁亲王被曝故意远离母亲",
+        "onboard_time": 1750060460,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37597,
+        "num": 301319,
+        "word": "一剧组用激光笔清场致游客眼睛受伤",
+        "onboard_time": 1750066700,
+        "rank": 13,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 77157,
+        "num": 300275,
+        "word": "让学生跪地写检讨教师已被停职检查",
+        "onboard_time": 1750065681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299890,
+        "num": 299890,
+        "word": "外媒曝伊朗正准备一场大行动",
+        "onboard_time": 1750063941,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244807,
+        "num": 244807,
+        "word": "内娱瘦下来一个尹正怎么了",
+        "onboard_time": 1750051763,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16763,
+        "num": 236007,
+        "word": "记者调查电商平台处方药销售乱象",
+        "onboard_time": 1750066760,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 31627,
+        "num": 235854,
+        "word": "伊朗与以色列的军事冲突是否会扩大化",
+        "onboard_time": 1750066280,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12415,
+        "num": 235777,
+        "word": "苏敏阿姨用车冲出围城这五年",
+        "onboard_time": 1750066280,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235742,
+        "num": 235742,
+        "word": "央视曝光杀猪盘新套路",
+        "onboard_time": 1750063461,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 231003,
+        "num": 231003,
+        "word": "范丞丞生日素颜直播",
+        "onboard_time": 1750065921,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226484,
+        "num": 226484,
+        "word": "易烊千玺第一部男主剧",
+        "onboard_time": 1750056321,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224639,
+        "num": 224639,
+        "word": "曝艺人参加综艺录制迟到12小时",
+        "onboard_time": 1750066819,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215803,
+        "num": 215803,
+        "word": "前男友删除与韦雪有关视频",
+        "onboard_time": 1750050083,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213428,
+        "num": 213428,
+        "word": "赵丽颖原声台词 评论区",
+        "onboard_time": 1750066280,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212337,
+        "num": 212337,
+        "word": "樊振东小时候把对手打哭了一脸懵",
+        "onboard_time": 1750061359,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205591,
+        "num": 205591,
+        "word": "几块钱一杯的咖啡不会亏本吗",
+        "onboard_time": 1750058720,
+        "rank": 27,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 183906,
+        "num": 204140,
+        "word": "ILLIT回归",
+        "onboard_time": 1750066522,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183527,
+        "num": 203136,
+        "word": "云合",
+        "onboard_time": 1750061901,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38353,
+        "num": 199487,
+        "word": "虞书欣丝滑连拍",
+        "onboard_time": 1750066819,
+        "rank": 30,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 224948,
+        "num": 198736,
+        "word": "白鹿被要求增肥",
+        "onboard_time": 1750065740,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42424,
+        "num": 196765,
+        "word": "胡兵怎么开口就能冒金句啊",
+        "onboard_time": 1750066581,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195093,
+        "num": 195093,
+        "word": "给labubu照X光",
+        "onboard_time": 1750059741,
+        "rank": 33,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 187177,
+        "num": 187177,
+        "word": "杨妞花寻亲故事将影视化",
+        "onboard_time": 1750066760,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178807,
+        "num": 178807,
+        "word": "伊朗总统重申伊朗不寻求核武器",
+        "onboard_time": 1750060341,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166980,
+        "num": 166980,
+        "word": "女子报警称外国男友被海关扣押",
+        "onboard_time": 1750066041,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166455,
+        "num": 166455,
+        "word": "闫安说樊振东是绝对主力",
+        "onboard_time": 1750066522,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158375,
+        "num": 158375,
+        "word": "你怎么还真有王安宇QQ",
+        "onboard_time": 1750065082,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71948,
+        "num": 153206,
+        "word": "张国伟制作的打孩子机",
+        "onboard_time": 1750066102,
+        "rank": 39,
+        "category": "体育,幽默"
+      },
+      {
+        "raw_hot": 81321,
+        "num": 151624,
+        "word": "多地回应国补额度告急",
+        "onboard_time": 1750064961,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150326,
+        "num": 150326,
+        "word": "沪上阿姨 鞠婧祎",
+        "onboard_time": 1750066882,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149596,
+        "num": 149596,
+        "word": "不要在鸭子屁股下面乘凉",
+        "onboard_time": 1750062920,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140734,
+        "num": 140734,
+        "word": "虞书欣吴磊 反派的npc白月光",
+        "onboard_time": 1750066760,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137610,
+        "num": 137610,
+        "word": "酱园弄赵丽颖原声台词",
+        "onboard_time": 1750059921,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134014,
+        "num": 134014,
+        "word": "十个勤天 大冰知识盲区",
+        "onboard_time": 1750063580,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130793,
+        "num": 130793,
+        "word": "俄罗斯宣布从伊朗撤侨",
+        "onboard_time": 1750057881,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129227,
+        "num": 129227,
+        "word": "不适合放入冰箱的水果",
+        "onboard_time": 1750063580,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 126862,
+        "num": 126862,
+        "word": "31支足球队征战川超",
+        "onboard_time": 1750061959,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125328,
+        "num": 125328,
+        "word": "花瓣网崩了",
+        "onboard_time": 1750065022,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#阿斯塔纳热烈迎候习近平主席到访#"
+    }
+  }
+}
