@@ -1,6 +1,6 @@
 {
   "startTime": 1750004984051,
-  "endTime": 1750062962199,
+  "endTime": 1750063827708,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -9,6 +9,14 @@
       "onboard_time": 1750041620,
       "rank": 0,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 1527774,
+      "num": 641005,
+      "word": "女儿实名举报交警继父",
+      "onboard_time": 1750062141,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1274536,
@@ -155,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 617442,
+      "num": 412324,
+      "word": "日本悠仁亲王被曝故意远离母亲",
+      "onboard_time": 1750060460,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 613061,
       "num": 613061,
       "word": "伊朗被摩萨德渗透成了筛子",
@@ -235,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 513615,
-      "num": 243654,
-      "word": "日本悠仁亲王被曝故意远离母亲",
-      "onboard_time": 1750060460,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 494326,
       "num": 364788,
       "word": "当我发现我妈跟刘亦菲演过戏",
@@ -265,6 +273,14 @@
       "onboard_time": 1750037600,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 480621,
+      "num": 480621,
+      "word": "蓝盈莹气血充盈得溢出屏幕了",
+      "onboard_time": 1750061720,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 475208,
@@ -307,12 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457181,
+      "num": 457181,
+      "word": "哈梅内伊",
+      "onboard_time": 1750061659,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 438060,
       "num": 438060,
       "word": "台风蝴蝶停止编号",
       "onboard_time": 1750037298,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432037,
+      "num": 432037,
+      "word": "给labubu照X光",
+      "onboard_time": 1750059741,
+      "rank": 9,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 423520,
@@ -337,14 +369,6 @@
       "onboard_time": 1750042760,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 417542,
-      "num": 368751,
-      "word": "女儿实名举报交警继父",
-      "onboard_time": 1750062141,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 411756,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 386285,
-      "num": 386285,
+      "num": 427216,
       "word": "伊朗总统重申伊朗不寻求核武器",
       "onboard_time": 1750060341,
       "rank": 8,
@@ -417,14 +441,6 @@
       "onboard_time": 1750042939,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 372774,
-      "num": 372774,
-      "word": "给labubu照X光",
-      "onboard_time": 1750059741,
-      "rank": 9,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 372469,
@@ -531,14 +547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 306149,
-      "num": 306149,
-      "word": "蓝盈莹气血充盈得溢出屏幕了",
-      "onboard_time": 1750061720,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299850,
       "num": 299850,
       "word": "蛮荒禁地",
@@ -603,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269751,
-      "num": 269751,
-      "word": "哈梅内伊",
-      "onboard_time": 1750061659,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 268741,
       "num": 268741,
       "word": "王俊凯时尚芭莎七月刊封面",
@@ -641,6 +641,14 @@
       "onboard_time": 1749976819,
       "rank": 15,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 258629,
+      "num": 258629,
+      "word": "云合",
+      "onboard_time": 1750061901,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 255310,
@@ -675,14 +683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 243395,
-      "num": 255311,
-      "word": "云合",
-      "onboard_time": 1750061901,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 243173,
       "num": 261564,
       "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
@@ -705,6 +705,14 @@
       "onboard_time": 1750029978,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238396,
+      "num": 238396,
+      "word": "几块钱一杯的咖啡不会亏本吗",
+      "onboard_time": 1750058720,
+      "rank": 46,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 236258,
@@ -795,6 +803,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 220836,
+      "num": 220836,
+      "word": "樊振东小时候把对手打哭了一脸懵",
+      "onboard_time": 1750061359,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218940,
       "num": 252843,
       "word": "伊朗革命卫队情报负责人遭以暗杀",
@@ -875,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199417,
-      "num": 199417,
-      "word": "几块钱一杯的咖啡不会亏本吗",
-      "onboard_time": 1750058720,
-      "rank": 46,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 198666,
       "num": 198666,
       "word": "无锡队倒数第一也没关系我是江阴的",
@@ -905,14 +913,6 @@
       "onboard_time": 1750045819,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 191899,
-      "num": 191899,
-      "word": "樊振东小时候把对手打哭了一脸懵",
-      "onboard_time": 1750061359,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 190877,
@@ -1107,6 +1107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162101,
+      "num": 162101,
+      "word": "终于有人把冰箱归纳说清楚了",
+      "onboard_time": 1750063402,
+      "rank": 32,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 162100,
       "num": 164715,
       "word": "长得像王一博气质像窦靖童",
@@ -1217,6 +1225,14 @@
       "onboard_time": 1750053322,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152662,
+      "num": 152662,
+      "word": "不适合放入冰箱的水果",
+      "onboard_time": 1750063580,
+      "rank": 34,
+      "category": "休闲"
     },
     {
       "raw_hot": 152010,
@@ -1563,6 +1579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121369,
+      "num": 121369,
+      "word": "朱一龙倪妮疑似失去所有力气",
+      "onboard_time": 1750063580,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120532,
       "num": 134607,
       "word": "Fly晋级MSI",
@@ -1643,12 +1667,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114997,
+      "num": 113249,
+      "word": "KPL",
+      "onboard_time": 1750063160,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114142,
       "num": 409280,
       "word": "目击者讲述湖南一烟花厂爆炸",
       "onboard_time": 1750044800,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 113893,
+      "num": 138712,
+      "word": "19岁外卖小哥哭诉后悔没好好读书",
+      "onboard_time": 1750060941,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113631,
@@ -1691,12 +1731,44 @@
       "category": "网红"
     },
     {
+      "raw_hot": 111491,
+      "num": 111491,
+      "word": "十个勤天 大冰知识盲区",
+      "onboard_time": 1750063580,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111073,
+      "num": 111073,
+      "word": "这俩都是胡先煦吗",
+      "onboard_time": 1750061840,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111059,
+      "num": 111059,
+      "word": "央视曝光杀猪盘新套路",
+      "onboard_time": 1750063461,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 110906,
       "num": 110906,
       "word": "陈梦说求婚现场人越多越好",
       "onboard_time": 1749989781,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110471,
+      "num": 110471,
+      "word": "2025MSI队伍确定",
+      "onboard_time": 1750059921,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 110291,
@@ -1747,14 +1819,6 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 106806,
-      "num": 138712,
-      "word": "19岁外卖小哥哭诉后悔没好好读书",
-      "onboard_time": 1750060941,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106043,
       "num": 106043,
       "word": "央视曝光伤人的公共健身器材",
@@ -1793,6 +1857,14 @@
       "onboard_time": 1749999982,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101126,
+      "num": 370278,
+      "word": "醉驾超速致一家3口死亡案家属发声",
+      "onboard_time": 1750062440,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100461,
@@ -1912,6 +1984,14 @@
       "word": "以伊全面开战是否可能",
       "onboard_time": 1750001361,
       "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 83929,
+      "num": 306534,
+      "word": "特朗普拟对36国实施旅行禁令",
+      "onboard_time": 1750060460,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -2081,14 +2161,6 @@
       "onboard_time": 1750048763,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 63503,
-      "num": 321151,
-      "word": "醉驾超速致一家3口死亡案家属发声",
-      "onboard_time": 1750062440,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60880,
@@ -2281,6 +2353,14 @@
       "onboard_time": 1750045819,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 39726,
+      "num": 255310,
+      "word": "村民哄抢农场土豆",
+      "onboard_time": 1750062739,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39268,
@@ -2587,14 +2667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13561,
-      "num": 255310,
-      "word": "村民哄抢农场土豆",
-      "onboard_time": 1750062739,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13171,
       "num": 349719,
       "word": "鲨鱼夹有什么安全隐患",
@@ -2643,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9268,
+      "num": 314744,
+      "word": "灰熊魔术交易究竟谁赚了",
+      "onboard_time": 1750062680,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8250,
       "num": 174328,
       "word": "穆勒周通赛后互动",
@@ -2651,12 +2731,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 6683,
-      "num": 314744,
-      "word": "灰熊魔术交易究竟谁赚了",
-      "onboard_time": 1750062680,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 7278,
+      "num": 423376,
+      "word": "5月国民经济运行总体平稳稳中有进",
+      "onboard_time": 1750063640,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5767,
+      "num": 654165,
+      "word": "中亚救护车司机感谢中国修建公路",
+      "onboard_time": 1750063760,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

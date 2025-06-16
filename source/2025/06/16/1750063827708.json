@@ -1,0 +1,410 @@
+{
+  "runTime": 1750063827708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1009045,
+        "num": 1161447,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 759545,
+        "num": 759545,
+        "word": "12306回应一上高铁就睡觉是因缺氧",
+        "onboard_time": 1750057459,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5767,
+        "num": 654165,
+        "word": "中亚救护车司机感谢中国修建公路",
+        "onboard_time": 1750063760,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1527774,
+        "num": 641005,
+        "word": "女儿实名举报交警继父",
+        "onboard_time": 1750062141,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581005,
+        "num": 581005,
+        "word": "哪吒2票房100元片方只拿33元",
+        "onboard_time": 1750059380,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 480621,
+        "num": 480621,
+        "word": "蓝盈莹气血充盈得溢出屏幕了",
+        "onboard_time": 1750061720,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457181,
+        "num": 457181,
+        "word": "哈梅内伊",
+        "onboard_time": 1750061659,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 432037,
+        "num": 432037,
+        "word": "给labubu照X光",
+        "onboard_time": 1750059741,
+        "rank": 7,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 348009,
+        "num": 427216,
+        "word": "伊朗总统重申伊朗不寻求核武器",
+        "onboard_time": 1750060341,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 7278,
+        "num": 423376,
+        "word": "5月国民经济运行总体平稳稳中有进",
+        "onboard_time": 1750063640,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7328,
+        "num": 416077,
+        "word": "一系列先行指标看经济活力",
+        "onboard_time": 1749994522,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617442,
+        "num": 412324,
+        "word": "日本悠仁亲王被曝故意远离母亲",
+        "onboard_time": 1750060460,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 408912,
+        "num": 408912,
+        "word": "内娱瘦下来一个尹正怎么了",
+        "onboard_time": 1750051763,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407671,
+        "num": 407671,
+        "word": "林依晨二胎得子",
+        "onboard_time": 1750048223,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101126,
+        "num": 370278,
+        "word": "醉驾超速致一家3口死亡案家属发声",
+        "onboard_time": 1750062440,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339473,
+        "num": 339473,
+        "word": "俄罗斯宣布从伊朗撤侨",
+        "onboard_time": 1750057881,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 338377,
+        "num": 338377,
+        "word": "易烊千玺第一部男主剧",
+        "onboard_time": 1750056321,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330115,
+        "num": 330115,
+        "word": "Labubu 审美",
+        "onboard_time": 1750055840,
+        "rank": 17,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 83929,
+        "num": 306534,
+        "word": "特朗普拟对36国实施旅行禁令",
+        "onboard_time": 1750060460,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9268,
+        "num": 305170,
+        "word": "灰熊魔术交易究竟谁赚了",
+        "onboard_time": 1750062680,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696961,
+        "num": 305009,
+        "word": "同学为那尔那茜发声",
+        "onboard_time": 1750055840,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304819,
+        "num": 304819,
+        "word": "前男友删除与韦雪有关视频",
+        "onboard_time": 1750050083,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287942,
+        "num": 287942,
+        "word": "酱园弄赵丽颖原声台词",
+        "onboard_time": 1750059921,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258629,
+        "num": 258629,
+        "word": "云合",
+        "onboard_time": 1750061901,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238396,
+        "num": 238396,
+        "word": "几块钱一杯的咖啡不会亏本吗",
+        "onboard_time": 1750058720,
+        "rank": 24,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 235885,
+        "num": 235885,
+        "word": "老师被曝让学生一字排开跪地写检讨",
+        "onboard_time": 1750050681,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185172,
+        "num": 223316,
+        "word": "林依晨长文回应二胎得子",
+        "onboard_time": 1750056801,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184157,
+        "num": 221347,
+        "word": "难怪柯淳不敢直视刘涛",
+        "onboard_time": 1750055360,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39726,
+        "num": 220976,
+        "word": "村民哄抢农场土豆",
+        "onboard_time": 1750062739,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220836,
+        "num": 220836,
+        "word": "樊振东小时候把对手打哭了一脸懵",
+        "onboard_time": 1750061359,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220547,
+        "num": 220547,
+        "word": "山科大再回应禁用红米手机考试",
+        "onboard_time": 1750058359,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163104,
+        "num": 163104,
+        "word": "赵今麦蕾丝与球鞋",
+        "onboard_time": 1750058601,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162101,
+        "num": 162101,
+        "word": "终于有人把冰箱归纳说清楚了",
+        "onboard_time": 1750063402,
+        "rank": 32,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 157362,
+        "num": 157362,
+        "word": "任嘉伦蒋欣 海魂衫",
+        "onboard_time": 1750060221,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152662,
+        "num": 152662,
+        "word": "不适合放入冰箱的水果",
+        "onboard_time": 1750063580,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 142261,
+        "num": 142261,
+        "word": "泰国坠亡中国男子生前最后对话曝光",
+        "onboard_time": 1750048582,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131878,
+        "num": 131878,
+        "word": "31支足球队征战川超",
+        "onboard_time": 1750061959,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121369,
+        "num": 121369,
+        "word": "朱一龙倪妮疑似失去所有力气",
+        "onboard_time": 1750063580,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113893,
+        "num": 113893,
+        "word": "19岁外卖小哥哭诉后悔没好好读书",
+        "onboard_time": 1750060941,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114997,
+        "num": 113249,
+        "word": "KPL",
+        "onboard_time": 1750063160,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112187,
+        "num": 112187,
+        "word": "建议大家七八月的时候不要轻易离职",
+        "onboard_time": 1750059440,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111491,
+        "num": 111491,
+        "word": "十个勤天 大冰知识盲区",
+        "onboard_time": 1750063580,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111073,
+        "num": 111073,
+        "word": "这俩都是胡先煦吗",
+        "onboard_time": 1750061840,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111059,
+        "num": 111059,
+        "word": "央视曝光杀猪盘新套路",
+        "onboard_time": 1750063461,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 110471,
+        "num": 110471,
+        "word": "2025MSI队伍确定",
+        "onboard_time": 1750059921,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108791,
+        "num": 108791,
+        "word": "王星越 这是我爸",
+        "onboard_time": 1750049181,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56124,
+        "num": 108471,
+        "word": "高盛看好中国十巨头股票",
+        "onboard_time": 1750057162,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108346,
+        "num": 108346,
+        "word": "谁家985校园能停运20啊",
+        "onboard_time": 1750056200,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 105350,
+        "num": 105350,
+        "word": "中哈两国国旗高高飘扬",
+        "onboard_time": 1750060280,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103763,
+        "num": 103763,
+        "word": "避雷向佐粉底液",
+        "onboard_time": 1750053621,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#把加强顶层设计和坚持问计于民结合起来#"
+    }
+  }
+}
