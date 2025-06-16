@@ -1,0 +1,410 @@
+{
+  "runTime": 1750070831244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1172906,
+        "num": 1187664,
+        "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
+        "onboard_time": 1750067782,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602665,
+        "num": 602665,
+        "word": "鹿晗抢票",
+        "onboard_time": 1750068981,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92699,
+        "num": 388411,
+        "word": "中亚已成中国出境游新兴热门目的地",
+        "onboard_time": 1750065861,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 361101,
+        "num": 361101,
+        "word": "央视曝光杀猪盘新套路",
+        "onboard_time": 1750063461,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 297938,
+        "num": 297938,
+        "word": "外媒曝伊朗正准备一场大行动",
+        "onboard_time": 1750063941,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 581298,
+        "num": 297323,
+        "word": "优衣库 镜子",
+        "onboard_time": 1750041620,
+        "rank": 5,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 295783,
+        "num": 295783,
+        "word": "哪吒2票房100元片方只拿33元",
+        "onboard_time": 1750059380,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263404,
+        "num": 263404,
+        "word": "哈梅内伊",
+        "onboard_time": 1750061659,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253408,
+        "num": 253408,
+        "word": "宋雨琦发文感谢林俊杰",
+        "onboard_time": 1750067361,
+        "rank": 8,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 257748,
+        "num": 253099,
+        "word": "白鹿被要求增肥",
+        "onboard_time": 1750065740,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57840,
+        "num": 252818,
+        "word": "虞书欣丝滑连拍",
+        "onboard_time": 1750066819,
+        "rank": 10,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 960200,
+        "num": 252616,
+        "word": "曝艺人参加综艺录制迟到12小时",
+        "onboard_time": 1750066819,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684488,
+        "num": 252276,
+        "word": "月入过万一天工作14小时的真实生活",
+        "onboard_time": 1750065202,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448162,
+        "num": 251749,
+        "word": "蓝盈莹气血充盈得溢出屏幕了",
+        "onboard_time": 1750061720,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41589,
+        "num": 251409,
+        "word": "女子称吃海底捞未来日期麻酱致腹泻",
+        "onboard_time": 1750069881,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316623,
+        "num": 251233,
+        "word": "唐梓有初代绝版labubu",
+        "onboard_time": 1750069102,
+        "rank": 15,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 173999,
+        "num": 250629,
+        "word": "杨妞花寻亲故事将影视化",
+        "onboard_time": 1750066760,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93024,
+        "num": 250333,
+        "word": "你怎么还真有王安宇QQ",
+        "onboard_time": 1750065082,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46670,
+        "num": 250062,
+        "word": "年轻人的谷子经济上桌了吗",
+        "onboard_time": 1750069881,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 241716,
+        "num": 249757,
+        "word": "男子误将502当眼药水滴入右眼",
+        "onboard_time": 1750068621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382640,
+        "num": 249298,
+        "word": "34岁女子爱生闷气血管堵90%",
+        "onboard_time": 1750067961,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329427,
+        "num": 248967,
+        "word": "赵丽颖原声台词 评论区",
+        "onboard_time": 1750066280,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330479,
+        "num": 248445,
+        "word": "我的牙也很不齐 什么时候宠我一下",
+        "onboard_time": 1750068802,
+        "rank": 22,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 308073,
+        "num": 248082,
+        "word": "周洁琼将参与ioi回归",
+        "onboard_time": 1750064481,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274687,
+        "num": 247969,
+        "word": "林依晨二胎得子",
+        "onboard_time": 1750048223,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247682,
+        "num": 247682,
+        "word": "孙颖莎最想搭混双的外国球员是波尔",
+        "onboard_time": 1750069281,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199839,
+        "num": 199839,
+        "word": "这长相是土象天菜吧",
+        "onboard_time": 1750069281,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194982,
+        "num": 194982,
+        "word": "易烊千玺第一部男主剧",
+        "onboard_time": 1750056321,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179932,
+        "num": 191328,
+        "word": "ILLIT空降成绩",
+        "onboard_time": 1750070421,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65720,
+        "num": 190964,
+        "word": "男子酒驾被查称吃荔枝吃的",
+        "onboard_time": 1750069701,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190863,
+        "num": 190863,
+        "word": "月入5万女生辞职后陪父亲淘粪",
+        "onboard_time": 1750067483,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33256,
+        "num": 190300,
+        "word": "胡兵怎么开口就能冒金句啊",
+        "onboard_time": 1750066581,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189984,
+        "num": 189984,
+        "word": "沪上阿姨 鞠婧祎",
+        "onboard_time": 1750066882,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189942,
+        "num": 189942,
+        "word": "方博喊话樊振东十年之约",
+        "onboard_time": 1750067660,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179459,
+        "num": 179459,
+        "word": "欧阳娜娜审美",
+        "onboard_time": 1750068921,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175763,
+        "num": 175763,
+        "word": "武汉28岁男子爬山失联已身亡",
+        "onboard_time": 1750068141,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161408,
+        "num": 171785,
+        "word": "女子报警称外国男友被海关扣押",
+        "onboard_time": 1750066041,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171224,
+        "num": 171224,
+        "word": "易烊千玺一会儿见",
+        "onboard_time": 1750070421,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166504,
+        "num": 166504,
+        "word": "贾冰老婆颜值",
+        "onboard_time": 1750065321,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166406,
+        "num": 166406,
+        "word": "欧豪吻戏有点不知天地为何物了",
+        "onboard_time": 1750070542,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157393,
+        "num": 157393,
+        "word": "深圳暴雨",
+        "onboard_time": 1750070001,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39106,
+        "num": 157129,
+        "word": "一条中华卖10块钱是啥套路",
+        "onboard_time": 1750068740,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 157089,
+        "num": 157089,
+        "word": "陈哲远西安",
+        "onboard_time": 1750069881,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156964,
+        "num": 156964,
+        "word": "虞书欣吴磊 反派的npc白月光",
+        "onboard_time": 1750066760,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152769,
+        "num": 152769,
+        "word": "12306回应一上高铁就睡觉是因缺氧",
+        "onboard_time": 1750057459,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98640,
+        "num": 138322,
+        "word": "西伯侯封地西岐被准确定位",
+        "onboard_time": 1750068680,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 135430,
+        "num": 135430,
+        "word": "朋友圈点赞的8个规则",
+        "onboard_time": 1750069581,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133243,
+        "num": 133243,
+        "word": "国羽退出美国公开赛",
+        "onboard_time": 1750070660,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126321,
+        "num": 126321,
+        "word": "圈内人分享明星红黑榜",
+        "onboard_time": 1750068740,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125809,
+        "num": 125809,
+        "word": "印度少年拍到坠机后受严重心理创伤",
+        "onboard_time": 1750070360,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#阿斯塔纳热烈迎候习近平主席到访#"
+    }
+  }
+}

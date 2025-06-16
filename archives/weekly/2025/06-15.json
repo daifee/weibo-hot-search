@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750069785982,
+  "endTime": 1750070831244,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1172906,
+      "num": 1187664,
+      "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
+      "onboard_time": 1750067782,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1138943,
       "num": 1182230,
       "word": "金昀去世",
@@ -144,14 +152,6 @@
       "word": "妻子称谁先提出离婚谁就要净身出户",
       "onboard_time": 1750041200,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1062776,
-      "num": 1170044,
-      "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
-      "onboard_time": 1750067782,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -219,7 +219,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 937831,
+      "raw_hot": 960200,
       "num": 282188,
       "word": "曝艺人参加综艺录制迟到12小时",
       "onboard_time": 1750066819,
@@ -459,20 +459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684488,
+      "num": 612602,
+      "word": "月入过万一天工作14小时的真实生活",
+      "onboard_time": 1750065202,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 673435,
       "num": 604955,
       "word": "张檬自曝生孩子后脑雾",
       "onboard_time": 1750000345,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 670746,
-      "num": 612602,
-      "word": "月入过万一天工作14小时的真实生活",
-      "onboard_time": 1750065202,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 668039,
@@ -609,6 +609,14 @@
       "onboard_time": 1749954140,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 602665,
+      "num": 602665,
+      "word": "鹿晗抢票",
+      "onboard_time": 1750068981,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 594885,
@@ -1107,6 +1115,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 382640,
+      "num": 363638,
+      "word": "34岁女子爱生闷气血管堵90%",
+      "onboard_time": 1750067961,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380569,
       "num": 380569,
       "word": "肖战藏海传重新认识古装剧",
@@ -1171,12 +1187,12 @@
       "category": "休闲,动漫"
     },
     {
-      "raw_hot": 363638,
-      "num": 363638,
-      "word": "34岁女子爱生闷气血管堵90%",
-      "onboard_time": 1750067961,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 361101,
+      "num": 361101,
+      "word": "央视曝光杀猪盘新套路",
+      "onboard_time": 1750063461,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 358500,
@@ -1283,14 +1299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 335557,
-      "num": 335557,
-      "word": "央视曝光杀猪盘新套路",
-      "onboard_time": 1750063461,
-      "rank": 43,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 331847,
       "num": 331847,
       "word": "虞书欣直播",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1749963199,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 330479,
+      "num": 248445,
+      "word": "我的牙也很不齐 什么时候宠我一下",
+      "onboard_time": 1750068802,
+      "rank": 30,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 329446,
@@ -1345,6 +1361,14 @@
       "onboard_time": 1749972680,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 316623,
+      "num": 251233,
+      "word": "唐梓有初代绝版labubu",
+      "onboard_time": 1750069102,
+      "rank": 17,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 313973,
@@ -1603,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271163,
-      "num": 271163,
-      "word": "鹿晗抢票",
-      "onboard_time": 1750068981,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 269591,
       "num": 269591,
       "word": "张雪迎酱园弄影评",
@@ -1723,6 +1739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257748,
+      "num": 253099,
+      "word": "白鹿被要求增肥",
+      "onboard_time": 1750065740,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257584,
       "num": 257584,
       "word": "常州队打响笔画保卫战",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1749946939,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 253408,
+      "num": 253408,
+      "word": "宋雨琦发文感谢林俊杰",
+      "onboard_time": 1750067361,
+      "rank": 24,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 251883,
@@ -1811,6 +1843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247682,
+      "num": 247682,
+      "word": "孙颖莎最想搭混双的外国球员是波尔",
+      "onboard_time": 1750069281,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243173,
       "num": 261564,
       "word": "台风后三亚一海滩遍布生蚝金鲳鱼",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1750048162,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241716,
+      "num": 249757,
+      "word": "男子误将502当眼药水滴入右眼",
+      "onboard_time": 1750068621,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241009,
@@ -1971,28 +2019,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224948,
-      "num": 211421,
-      "word": "白鹿被要求增肥",
-      "onboard_time": 1750065740,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224794,
       "num": 224794,
       "word": "原神",
       "onboard_time": 1750050622,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 224266,
-      "num": 188553,
-      "word": "我的牙也很不齐 什么时候宠我一下",
-      "onboard_time": 1750068802,
-      "rank": 30,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 224102,
@@ -2147,14 +2179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211602,
-      "num": 211602,
-      "word": "唐梓有初代绝版labubu",
-      "onboard_time": 1750069102,
-      "rank": 17,
-      "category": "艺人,动漫"
-    },
-    {
       "raw_hot": 209777,
       "num": 399459,
       "word": "王星越旁白父亲节短片太戳了",
@@ -2243,14 +2267,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 203179,
-      "num": 203179,
-      "word": "孙颖莎最想搭混双的外国球员是波尔",
-      "onboard_time": 1750069281,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202999,
       "num": 248095,
       "word": "长期使用劣质纸巾有什么危害",
@@ -2321,6 +2337,14 @@
       "onboard_time": 1749968542,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199839,
+      "num": 199839,
+      "word": "这长相是土象天菜吧",
+      "onboard_time": 1750069281,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 199717,
@@ -2401,14 +2425,6 @@
       "onboard_time": 1749917721,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 196575,
-      "num": 196575,
-      "word": "宋雨琦发文感谢林俊杰",
-      "onboard_time": 1750067361,
-      "rank": 24,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 195850,
@@ -2515,20 +2531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191193,
-      "num": 191193,
-      "word": "这长相是土象天菜吧",
-      "onboard_time": 1750069281,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190877,
       "num": 190877,
       "word": "曾舜晞少跟梁永棋玩",
       "onboard_time": 1750048523,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190863,
+      "num": 190863,
+      "word": "月入5万女生辞职后陪父亲淘粪",
+      "onboard_time": 1750067483,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190813,
@@ -2545,6 +2561,22 @@
       "onboard_time": 1749997702,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189984,
+      "num": 189984,
+      "word": "沪上阿姨 鞠婧祎",
+      "onboard_time": 1750066882,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189942,
+      "num": 189942,
+      "word": "方博喊话樊振东十年之约",
+      "onboard_time": 1750067660,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 189674,
@@ -2593,14 +2625,6 @@
       "onboard_time": 1750051580,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186380,
-      "num": 186380,
-      "word": "方博喊话樊振东十年之约",
-      "onboard_time": 1750067660,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 186059,
@@ -2705,6 +2729,14 @@
       "onboard_time": 1750038558,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179932,
+      "num": 191328,
+      "word": "ILLIT空降成绩",
+      "onboard_time": 1750070421,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 179623,
@@ -2884,7 +2916,7 @@
     },
     {
       "raw_hot": 172319,
-      "num": 172319,
+      "num": 250333,
       "word": "你怎么还真有王安宇QQ",
       "onboard_time": 1750065082,
       "rank": 33,
@@ -2953,6 +2985,14 @@
       "onboard_time": 1750048523,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171224,
+      "num": 171224,
+      "word": "易烊千玺一会儿见",
+      "onboard_time": 1750070421,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 171176,
@@ -3044,7 +3084,7 @@
     },
     {
       "raw_hot": 166980,
-      "num": 166980,
+      "num": 171785,
       "word": "女子报警称外国男友被海关扣押",
       "onboard_time": 1750066041,
       "rank": 38,
@@ -3067,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166406,
+      "num": 166406,
+      "word": "欧豪吻戏有点不知天地为何物了",
+      "onboard_time": 1750070542,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166041,
       "num": 166041,
       "word": "芭莎男士六月刊封面预告",
@@ -3081,14 +3129,6 @@
       "onboard_time": 1749989662,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164561,
-      "num": 164561,
-      "word": "男子误将502当眼药水滴入右眼",
-      "onboard_time": 1750068621,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164229,
@@ -3299,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157393,
+      "num": 157393,
+      "word": "深圳暴雨",
+      "onboard_time": 1750070001,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157198,
       "num": 157198,
       "word": "荔枝核别扔养出超火粉色盆栽",
@@ -3321,6 +3369,22 @@
       "onboard_time": 1749957621,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157089,
+      "num": 157089,
+      "word": "陈哲远西安",
+      "onboard_time": 1750069881,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156964,
+      "num": 156964,
+      "word": "虞书欣吴磊 反派的npc白月光",
+      "onboard_time": 1750066760,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 156901,
@@ -3353,14 +3417,6 @@
       "onboard_time": 1749920119,
       "rank": 28,
       "category": "情感,读书作家"
-    },
-    {
-      "raw_hot": 155582,
-      "num": 155582,
-      "word": "虞书欣吴磊 反派的npc白月光",
-      "onboard_time": 1750066760,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 155501,
@@ -3499,14 +3555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150326,
-      "num": 150326,
-      "word": "沪上阿姨 鞠婧祎",
-      "onboard_time": 1750066882,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150181,
       "num": 150181,
       "word": "虞书欣把头发盘成蝴蝶结",
@@ -3585,14 +3633,6 @@
       "onboard_time": 1750052181,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144888,
-      "num": 144888,
-      "word": "月入5万女生辞职后陪父亲淘粪",
-      "onboard_time": 1750067483,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144677,
@@ -3891,6 +3931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 135430,
+      "num": 135430,
+      "word": "朋友圈点赞的8个规则",
+      "onboard_time": 1750069581,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135344,
       "num": 135344,
       "word": "戍边烈士陈祥榕牺牲5周年",
@@ -3953,6 +4001,14 @@
       "onboard_time": 1750050921,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133243,
+      "num": 133243,
+      "word": "国羽退出美国公开赛",
+      "onboard_time": 1750070660,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 132857,
@@ -4097,14 +4153,6 @@
       "onboard_time": 1749962239,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 130475,
-      "num": 130475,
-      "word": "朋友圈点赞的8个规则",
-      "onboard_time": 1750069581,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 130282,
@@ -4297,6 +4345,14 @@
       "onboard_time": 1750050324,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125809,
+      "num": 125809,
+      "word": "印度少年拍到坠机后受严重心理创伤",
+      "onboard_time": 1750070360,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 125563,
@@ -5155,6 +5211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98640,
+      "num": 257321,
+      "word": "西伯侯封地西岐被准确定位",
+      "onboard_time": 1750068680,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 98607,
       "num": 98607,
       "word": "白总夫人终于肯说实话了",
@@ -5257,6 +5321,14 @@
       "onboard_time": 1750046901,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 92699,
+      "num": 524807,
+      "word": "中亚已成中国出境游新兴热门目的地",
+      "onboard_time": 1750065861,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92291,
@@ -5377,14 +5449,6 @@
       "onboard_time": 1750002979,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85157,
-      "num": 524807,
-      "word": "中亚已成中国出境游新兴热门目的地",
-      "onboard_time": 1750065861,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 84888,
@@ -5627,14 +5691,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 68857,
-      "num": 257321,
-      "word": "西伯侯封地西岐被准确定位",
-      "onboard_time": 1750068680,
-      "rank": 14,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 68819,
       "num": 746060,
       "word": "在中亚感受中国热",
@@ -5673,6 +5729,14 @@
       "onboard_time": 1750066819,
       "rank": 30,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 65720,
+      "num": 190964,
+      "word": "男子酒驾被查称吃荔枝吃的",
+      "onboard_time": 1750069701,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65639,
@@ -5987,6 +6051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46670,
+      "num": 250062,
+      "word": "年轻人的谷子经济上桌了吗",
+      "onboard_time": 1750069881,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 46552,
       "num": 213478,
       "word": "台风蝴蝶过境云浮多地遭遇水浸",
@@ -6107,6 +6179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 41589,
+      "num": 251409,
+      "word": "女子称吃海底捞未来日期麻酱致腹泻",
+      "onboard_time": 1750069881,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41550,
       "num": 283172,
       "word": "伊朗有多少高超音速弹道导弹",
@@ -6145,6 +6225,14 @@
       "onboard_time": 1750062739,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39106,
+      "num": 211559,
+      "word": "一条中华卖10块钱是啥套路",
+      "onboard_time": 1750068740,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 38837,
@@ -6299,14 +6387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33235,
-      "num": 211559,
-      "word": "一条中华卖10块钱是啥套路",
-      "onboard_time": 1750068740,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 33101,
       "num": 135886,
       "word": "苏超球迷赛后自发清垃圾",
@@ -6377,14 +6457,6 @@
       "onboard_time": 1749926295,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30676,
-      "num": 143251,
-      "word": "男子酒驾被查称吃荔枝吃的",
-      "onboard_time": 1750069701,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30602,

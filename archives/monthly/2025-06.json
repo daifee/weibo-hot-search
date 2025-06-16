@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750069785982,
+  "endTime": 1750070831244,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -2059,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1172906,
+      "num": 1187664,
+      "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
+      "onboard_time": 1750067782,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1172032,
       "num": 388383,
       "word": "400块的鞋犹豫了三年",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1749519441,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1062776,
-      "num": 1170044,
-      "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
-      "onboard_time": 1750067782,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1058733,
@@ -2923,6 +2923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 960200,
+      "num": 282188,
+      "word": "曝艺人参加综艺录制迟到12小时",
+      "onboard_time": 1750066819,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 959623,
       "num": 1115508,
       "word": "Labubu设计师曾失意30年",
@@ -3009,14 +3017,6 @@
       "onboard_time": 1749348201,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 937831,
-      "num": 282188,
-      "word": "曝艺人参加综艺录制迟到12小时",
-      "onboard_time": 1750066819,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 937555,
@@ -4795,6 +4795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 684488,
+      "num": 612602,
+      "word": "月入过万一天工作14小时的真实生活",
+      "onboard_time": 1750065202,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 682636,
       "num": 682636,
       "word": "43岁张亮与10岁女儿合拍杂志",
@@ -4921,14 +4929,6 @@
       "onboard_time": 1749184282,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 670746,
-      "num": 612602,
-      "word": "月入过万一天工作14小时的真实生活",
-      "onboard_time": 1750065202,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 669899,
@@ -10235,6 +10235,14 @@
       "category": "海外新闻,时尚"
     },
     {
+      "raw_hot": 382640,
+      "num": 363638,
+      "word": "34岁女子爱生闷气血管堵90%",
+      "onboard_time": 1750067961,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382148,
       "num": 382148,
       "word": "邱贻可说孙颖莎反手如何练是秘密",
@@ -10811,14 +10819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 363638,
-      "num": 363638,
-      "word": "34岁女子爱生闷气血管堵90%",
-      "onboard_time": 1750067961,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 362702,
       "num": 414761,
       "word": "球队经理回应樊振东德甲待遇",
@@ -10889,6 +10889,14 @@
       "onboard_time": 1748922260,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 361101,
+      "num": 361101,
+      "word": "央视曝光杀猪盘新套路",
+      "onboard_time": 1750063461,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 360977,
@@ -11891,14 +11899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 335557,
-      "num": 335557,
-      "word": "央视曝光杀猪盘新套路",
-      "onboard_time": 1750063461,
-      "rank": 43,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 335422,
       "num": 335422,
       "word": "范玮琪破音",
@@ -12081,6 +12081,14 @@
       "onboard_time": 1749428063,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330479,
+      "num": 248445,
+      "word": "我的牙也很不齐 什么时候宠我一下",
+      "onboard_time": 1750068802,
+      "rank": 30,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 330391,
@@ -12465,6 +12473,14 @@
       "onboard_time": 1749219625,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316623,
+      "num": 251233,
+      "word": "唐梓有初代绝版labubu",
+      "onboard_time": 1750069102,
+      "rank": 17,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 316574,
@@ -15411,6 +15427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257748,
+      "num": 253099,
+      "word": "白鹿被要求增肥",
+      "onboard_time": 1750065740,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257722,
       "num": 141565,
       "word": "中山漫展",
@@ -15713,6 +15737,14 @@
       "onboard_time": 1749449781,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253408,
+      "num": 253408,
+      "word": "宋雨琦发文感谢林俊杰",
+      "onboard_time": 1750067361,
+      "rank": 24,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 252850,
@@ -16083,6 +16115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247682,
+      "num": 247682,
+      "word": "孙颖莎最想搭混双的外国球员是波尔",
+      "onboard_time": 1750069281,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247517,
       "num": 247517,
       "word": "张杰领奖",
@@ -16400,6 +16440,14 @@
       "word": "女子被咬身亡3个问题待解",
       "onboard_time": 1749200001,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241716,
+      "num": 249757,
+      "word": "男子误将502当眼药水滴入右眼",
+      "onboard_time": 1750068621,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -17763,14 +17811,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 224948,
-      "num": 211421,
-      "word": "白鹿被要求增肥",
-      "onboard_time": 1750065740,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224848,
       "num": 224848,
       "word": "女排",
@@ -17865,14 +17905,6 @@
       "onboard_time": 1749647362,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224266,
-      "num": 188553,
-      "word": "我的牙也很不齐 什么时候宠我一下",
-      "onboard_time": 1750068802,
-      "rank": 30,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 224250,
@@ -19251,14 +19283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211602,
-      "num": 211602,
-      "word": "唐梓有初代绝版labubu",
-      "onboard_time": 1750069102,
-      "rank": 17,
-      "category": "艺人,动漫"
-    },
-    {
       "raw_hot": 211519,
       "num": 351009,
       "word": "杨幂上影节出图",
@@ -20531,14 +20555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203179,
-      "num": 203179,
-      "word": "孙颖莎最想搭混双的外国球员是波尔",
-      "onboard_time": 1750069281,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203163,
       "num": 181788,
       "word": "严浩翔万妮达没有一秒出镜是浪费的",
@@ -21267,6 +21283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199839,
+      "num": 199839,
+      "word": "这长相是土象天菜吧",
+      "onboard_time": 1750069281,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199763,
       "num": 199763,
       "word": "邓紫棋悬着的心终于死了",
@@ -21921,14 +21945,6 @@
       "onboard_time": 1749373640,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196575,
-      "num": 196575,
-      "word": "宋雨琦发文感谢林俊杰",
-      "onboard_time": 1750067361,
-      "rank": 24,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 196502,
@@ -22803,14 +22819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191193,
-      "num": 191193,
-      "word": "这长相是土象天菜吧",
-      "onboard_time": 1750069281,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191153,
       "num": 191153,
       "word": "国足最后一个主场已停止退票",
@@ -22881,6 +22889,14 @@
       "onboard_time": 1750048523,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190863,
+      "num": 190863,
+      "word": "月入5万女生辞职后陪父亲淘粪",
+      "onboard_time": 1750067483,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190855,
@@ -23099,12 +23115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189984,
+      "num": 189984,
+      "word": "沪上阿姨 鞠婧祎",
+      "onboard_time": 1750066882,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189947,
       "num": 189947,
       "word": "鼓书艺人",
       "onboard_time": 1749270385,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 189942,
+      "num": 189942,
+      "word": "方博喊话樊振东十年之约",
+      "onboard_time": 1750067660,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 189935,
@@ -23849,14 +23881,6 @@
       "onboard_time": 1749359181,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186380,
-      "num": 186380,
-      "word": "方博喊话樊振东十年之约",
-      "onboard_time": 1750067660,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 186336,
@@ -25009,6 +25033,14 @@
       "onboard_time": 1749467600,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179932,
+      "num": 191328,
+      "word": "ILLIT空降成绩",
+      "onboard_time": 1750070421,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 179842,
@@ -26276,7 +26308,7 @@
     },
     {
       "raw_hot": 172319,
-      "num": 172319,
+      "num": 250333,
       "word": "你怎么还真有王安宇QQ",
       "onboard_time": 1750065082,
       "rank": 33,
@@ -26577,6 +26609,14 @@
       "onboard_time": 1748748861,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171224,
+      "num": 171224,
+      "word": "易烊千玺一会儿见",
+      "onboard_time": 1750070421,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 171176,
@@ -27492,7 +27532,7 @@
     },
     {
       "raw_hot": 166980,
-      "num": 166980,
+      "num": 171785,
       "word": "女子报警称外国男友被海关扣押",
       "onboard_time": 1750066041,
       "rank": 38,
@@ -27617,6 +27657,14 @@
       "onboard_time": 1749910764,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166406,
+      "num": 166406,
+      "word": "欧豪吻戏有点不知天地为何物了",
+      "onboard_time": 1750070542,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 166344,
@@ -28057,14 +28105,6 @@
       "onboard_time": 1749353662,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 164561,
-      "num": 164561,
-      "word": "男子误将502当眼药水滴入右眼",
-      "onboard_time": 1750068621,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164554,
@@ -29643,6 +29683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 157393,
+      "num": 157393,
+      "word": "深圳暴雨",
+      "onboard_time": 1750070001,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157391,
       "num": 157391,
       "word": "惊封广播剧破亿",
@@ -29739,6 +29787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157089,
+      "num": 157089,
+      "word": "陈哲远西安",
+      "onboard_time": 1750069881,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157055,
       "num": 181959,
       "word": "Cat时隔252天重返赛场",
@@ -29753,6 +29809,14 @@
       "onboard_time": 1749187282,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 156964,
+      "num": 156964,
+      "word": "虞书欣吴磊 反派的npc白月光",
+      "onboard_time": 1750066760,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 156906,
@@ -30000,14 +30064,6 @@
       "word": "张康乐首次挑战民国题材",
       "onboard_time": 1749098722,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 155582,
-      "num": 155582,
-      "word": "虞书欣吴磊 反派的npc白月光",
-      "onboard_time": 1750066760,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -31209,14 +31265,6 @@
       "onboard_time": 1748760439,
       "rank": 46,
       "category": "幽默,民生新闻"
-    },
-    {
-      "raw_hot": 150326,
-      "num": 150326,
-      "word": "沪上阿姨 鞠婧祎",
-      "onboard_time": 1750066882,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 150256,
@@ -32545,14 +32593,6 @@
       "onboard_time": 1748780060,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144888,
-      "num": 144888,
-      "word": "月入5万女生辞职后陪父亲淘粪",
-      "onboard_time": 1750067483,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144869,
@@ -35067,6 +35107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135430,
+      "num": 135430,
+      "word": "朋友圈点赞的8个规则",
+      "onboard_time": 1750069581,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135408,
       "num": 135408,
       "word": "军书十二卷 卷卷有泽名",
@@ -35625,6 +35673,14 @@
       "onboard_time": 1749441321,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 133243,
+      "num": 133243,
+      "word": "国羽退出美国公开赛",
+      "onboard_time": 1750070660,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 133238,
@@ -36513,14 +36569,6 @@
       "onboard_time": 1749311902,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 130475,
-      "num": 130475,
-      "word": "朋友圈点赞的8个规则",
-      "onboard_time": 1750069581,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 130474,
@@ -37673,6 +37721,14 @@
       "onboard_time": 1748910501,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125809,
+      "num": 125809,
+      "word": "印度少年拍到坠机后受严重心理创伤",
+      "onboard_time": 1750070360,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 125789,
@@ -43427,6 +43483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 98640,
+      "num": 257321,
+      "word": "西伯侯封地西岐被准确定位",
+      "onboard_time": 1750068680,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 98619,
       "num": 98619,
       "word": "南通狼4比0大胜泰州凤",
@@ -44473,6 +44537,14 @@
       "onboard_time": 1749798322,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92699,
+      "num": 524807,
+      "word": "中亚已成中国出境游新兴热门目的地",
+      "onboard_time": 1750065861,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92684,
@@ -45633,14 +45705,6 @@
       "onboard_time": 1748735538,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 85157,
-      "num": 524807,
-      "word": "中亚已成中国出境游新兴热门目的地",
-      "onboard_time": 1750065861,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85093,
@@ -48107,14 +48171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68857,
-      "num": 257321,
-      "word": "西伯侯封地西岐被准确定位",
-      "onboard_time": 1750068680,
-      "rank": 14,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 68854,
       "num": 335121,
       "word": "洛杉矶警察向澳媒女记者开枪",
@@ -48537,6 +48593,14 @@
       "onboard_time": 1749245714,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65720,
+      "num": 190964,
+      "word": "男子酒驾被查称吃荔枝吃的",
+      "onboard_time": 1750069701,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65650,
@@ -51379,6 +51443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46670,
+      "num": 250062,
+      "word": "年轻人的谷子经济上桌了吗",
+      "onboard_time": 1750069881,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 46654,
       "num": 134316,
       "word": "岳云鹏出门在外身份是自己给的",
@@ -52427,6 +52499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41589,
+      "num": 251409,
+      "word": "女子称吃海底捞未来日期麻酱致腹泻",
+      "onboard_time": 1750069881,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41585,
       "num": 345425,
       "word": "百年波音为什么频发安全事故",
@@ -52897,6 +52977,14 @@
       "onboard_time": 1749878061,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39106,
+      "num": 211559,
+      "word": "一条中华卖10块钱是啥套路",
+      "onboard_time": 1750068740,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 38990,
@@ -54227,14 +54315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33235,
-      "num": 211559,
-      "word": "一条中华卖10块钱是啥套路",
-      "onboard_time": 1750068740,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 33178,
       "num": 81209,
       "word": "巴林vs沙特",
@@ -54841,14 +54921,6 @@
       "onboard_time": 1748790203,
       "rank": 14,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 30676,
-      "num": 143251,
-      "word": "男子酒驾被查称吃荔枝吃的",
-      "onboard_time": 1750069701,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30626,
