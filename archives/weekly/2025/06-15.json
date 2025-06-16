@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750048689937,
+  "endTime": 1750049608627,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -89,6 +89,14 @@
       "onboard_time": 1749984921,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1274536,
+      "num": 1274536,
+      "word": "林依晨二胎得子",
+      "onboard_time": 1750048223,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1205830,
@@ -299,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 737267,
+      "num": 737267,
+      "word": "豆包p图",
+      "onboard_time": 1750046542,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 731514,
       "num": 731514,
       "word": "张朝阳退回的labubu换了一辆车",
@@ -417,14 +433,6 @@
       "onboard_time": 1749963679,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 630505,
-      "num": 630505,
-      "word": "豆包p图",
-      "onboard_time": 1750046542,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 627769,
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 527244,
+      "num": 366003,
+      "word": "梅婷别演了我害怕",
+      "onboard_time": 1750048043,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 523208,
       "num": 523208,
       "word": "以色列国防军总部遭袭",
@@ -633,6 +649,14 @@
       "onboard_time": 1749993322,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494326,
+      "num": 364788,
+      "word": "当我发现我妈跟刘亦菲演过戏",
+      "onboard_time": 1750048101,
+      "rank": 33,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 490889,
@@ -843,6 +867,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 407141,
+      "num": 407141,
+      "word": "何洁发长文后秒删",
+      "onboard_time": 1750046841,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406067,
       "num": 406067,
       "word": "男子在上海被日本人殴打",
@@ -857,14 +889,6 @@
       "onboard_time": 1749959541,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 396993,
-      "num": 385111,
-      "word": "林依晨二胎得子",
-      "onboard_time": 1750048223,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 396477,
@@ -889,14 +913,6 @@
       "onboard_time": 1750043300,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 383573,
-      "num": 383573,
-      "word": "何洁发长文后秒删",
-      "onboard_time": 1750046841,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 382889,
@@ -939,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370580,
+      "num": 370580,
+      "word": "泰国坠亡中国男子生前最后对话曝光",
+      "onboard_time": 1750048582,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 365583,
       "num": 339451,
       "word": "郑钦文将创个人最佳排名",
@@ -977,6 +1001,14 @@
       "onboard_time": 1749988280,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348589,
+      "num": 348589,
+      "word": "看不出来杨采钰怀孕了",
+      "onboard_time": 1750047982,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 346623,
@@ -1267,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275603,
-      "num": 275603,
-      "word": "梅婷别演了我害怕",
-      "onboard_time": 1750048043,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 275437,
       "num": 275437,
       "word": "周杰伦邀请方文山多出来走走",
@@ -1387,20 +1411,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259748,
-      "num": 259748,
-      "word": "看不出来杨采钰怀孕了",
-      "onboard_time": 1750047982,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257584,
       "num": 257584,
       "word": "常州队打响笔画保卫战",
       "onboard_time": 1749990142,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254454,
+      "num": 254454,
+      "word": "惠英红误入精神病院",
+      "onboard_time": 1750048162,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 254008,
@@ -1459,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241891,
+      "num": 241891,
+      "word": "易烊千玺雷佳音并肩而坐",
+      "onboard_time": 1750048162,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241009,
       "num": 204205,
       "word": "邓紫棋再唱句号终于释然",
@@ -1480,6 +1512,14 @@
       "word": "任嘉伦探班罗云熙",
       "onboard_time": 1749993441,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240345,
+      "num": 240345,
+      "word": "白鹿演技",
+      "onboard_time": 1750046601,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1513,6 +1553,14 @@
       "onboard_time": 1749966440,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232368,
+      "num": 232368,
+      "word": "谁懂作者是何炅的含金量",
+      "onboard_time": 1750048162,
+      "rank": 38,
+      "category": "读书作家"
     },
     {
       "raw_hot": 231525,
@@ -1579,12 +1627,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 224011,
-      "num": 224011,
-      "word": "当我发现我妈跟刘亦菲演过戏",
-      "onboard_time": 1750048101,
-      "rank": 33,
-      "category": "艺人,休闲"
+      "raw_hot": 223822,
+      "num": 351428,
+      "word": "张杰回应鸟巢演唱会用电影机拍摄",
+      "onboard_time": 1750048883,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 223703,
@@ -1609,6 +1657,14 @@
       "onboard_time": 1749999982,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221230,
+      "num": 221230,
+      "word": "王星越 这是我爸",
+      "onboard_time": 1750049181,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 219684,
@@ -1665,14 +1721,6 @@
       "onboard_time": 1750043421,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216467,
-      "num": 199323,
-      "word": "白鹿演技",
-      "onboard_time": 1750046601,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 215879,
@@ -1787,28 +1835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205177,
-      "num": 205177,
-      "word": "易烊千玺雷佳音并肩而坐",
-      "onboard_time": 1750048162,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204814,
       "num": 204814,
       "word": "老板多嘴一问成功保住顾客10万元",
       "onboard_time": 1749912143,
       "rank": 37,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 203746,
-      "num": 203746,
-      "word": "惠英红误入精神病院",
-      "onboard_time": 1750048162,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 202999,
@@ -2011,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193184,
-      "num": 193184,
-      "word": "谁懂作者是何炅的含金量",
-      "onboard_time": 1750048162,
-      "rank": 38,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 193155,
       "num": 291865,
       "word": "A股光线传媒涨停",
@@ -2048,6 +2072,14 @@
       "word": "咸鱼修炼手册",
       "onboard_time": 1749961040,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190877,
+      "num": 190877,
+      "word": "曾舜晞少跟梁永棋玩",
+      "onboard_time": 1750048523,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -2419,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171263,
+      "num": 171263,
+      "word": "象宝宝第一次凶人没有经验",
+      "onboard_time": 1750048523,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171176,
       "num": 171176,
       "word": "杨幂回应和刘德华挽手走红毯",
@@ -2587,14 +2627,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 162141,
-      "num": 162141,
-      "word": "曾舜晞少跟梁永棋玩",
-      "onboard_time": 1750048523,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162060,
       "num": 211996,
       "word": "theboyz周鹤年中断活动",
@@ -2707,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156270,
+      "num": 156270,
+      "word": "张译在查内鬼这块有执念",
+      "onboard_time": 1750049181,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156083,
       "num": 156083,
       "word": "一人一句祝父亲节日快乐",
@@ -2779,6 +2819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151551,
+      "num": 151551,
+      "word": "小米平板7SPro搭载玄戒O1芯片",
+      "onboard_time": 1750049363,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151455,
       "num": 247834,
       "word": "陶喆新说唱时候",
@@ -2804,7 +2852,7 @@
     },
     {
       "raw_hot": 149227,
-      "num": 173491,
+      "num": 241976,
       "word": "赵丽颖西林对时代宣言式呐喊",
       "onboard_time": 1750047921,
       "rank": 40,
@@ -2835,20 +2883,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148166,
-      "num": 148166,
-      "word": "象宝宝第一次凶人没有经验",
-      "onboard_time": 1750048523,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 147451,
       "num": 156030,
       "word": "白鹿曾舜晞今晚陪看临江仙",
       "onboard_time": 1749958340,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144815,
+      "num": 144815,
+      "word": "以请求国际援助拦截伊朗袭击",
+      "onboard_time": 1750049423,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144574,
@@ -3043,20 +3091,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137366,
+      "num": 242076,
+      "word": "nova14人生的方向盘在自己手中",
+      "onboard_time": 1750048883,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 137251,
       "num": 137251,
       "word": "谁懂狼尾曹骏的杀伤力",
       "onboard_time": 1749964221,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 137225,
-      "num": 137225,
-      "word": "泰国坠亡中国男子生前最后对话曝光",
-      "onboard_time": 1750048582,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 136899,
@@ -3923,6 +3971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109861,
+      "num": 189088,
+      "word": "郑钦文世排升至第4",
+      "onboard_time": 1750048462,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109787,
       "num": 109787,
       "word": "酱园弄悬案上影节口碑",
@@ -4243,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89440,
+      "num": 138268,
+      "word": "特朗普称以色列伊朗有时需要打一仗",
+      "onboard_time": 1750049542,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89367,
       "num": 89367,
       "word": "小胖的镜还是太C了",
@@ -4387,14 +4451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77173,
-      "num": 178719,
-      "word": "郑钦文世排升至第4",
-      "onboard_time": 1750048462,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77092,
       "num": 318796,
       "word": "董力父亲节晒陪儿子练击剑",
@@ -4529,6 +4585,14 @@
       "onboard_time": 1749940875,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63529,
+      "num": 367891,
+      "word": "伊朗地铁站等将供市民避难使用",
+      "onboard_time": 1750048763,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 62655,
@@ -4956,11 +5020,19 @@
     },
     {
       "raw_hot": 31194,
-      "num": 754134,
+      "num": 806010,
       "word": "全民反诈在行动",
       "onboard_time": 1750041380,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30969,
+      "num": 356383,
+      "word": "湖南鞭炮厂爆炸周边民房玻璃被震碎",
+      "onboard_time": 1750048462,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 30833,
@@ -4985,6 +5057,14 @@
       "onboard_time": 1749984082,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29899,
+      "num": 359110,
+      "word": "花炮厂爆炸企业多个产品曾抽查不合格",
+      "onboard_time": 1750049003,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 29453,
@@ -5041,14 +5121,6 @@
       "onboard_time": 1749925936,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27850,
-      "num": 288409,
-      "word": "湖南鞭炮厂爆炸周边民房玻璃被震碎",
-      "onboard_time": 1750048462,
-      "rank": 25,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 27379,
@@ -5425,6 +5497,14 @@
       "onboard_time": 1749969619,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13171,
+      "num": 349719,
+      "word": "鲨鱼夹有什么安全隐患",
+      "onboard_time": 1750048883,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13022,
