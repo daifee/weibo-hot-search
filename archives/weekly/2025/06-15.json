@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750113826313,
+  "endTime": 1750116290916,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -907,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 511403,
+      "num": 804324,
+      "word": "失踪3月被发现遗体老人女儿发声",
+      "onboard_time": 1750115058,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 510864,
       "num": 519511,
       "word": "以色列袭击伊朗国家电视台大楼",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1750041200,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471116,
+      "num": 225676,
+      "word": "短剧男主回应一胎99子剧情",
+      "onboard_time": 1750093277,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 468408,
@@ -1955,6 +1971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 266365,
+      "num": 266365,
+      "word": "印度坠机或因副驾驶拉错操纵杆",
+      "onboard_time": 1750114939,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 266022,
       "num": 266022,
       "word": "刘诗诗好美",
@@ -2297,14 +2321,6 @@
       "onboard_time": 1749957500,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225676,
-      "num": 225676,
-      "word": "短剧男主回应一胎99子剧情",
-      "onboard_time": 1750093277,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 224794,
@@ -5299,6 +5315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119728,
+      "num": 119728,
+      "word": "男性其实更需要亲密关系",
+      "onboard_time": 1750114939,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119633,
       "num": 134509,
       "word": "揽流光三千杀青",
@@ -5555,6 +5579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114883,
+      "num": 114883,
+      "word": "为什么镜子里的自己比现实中更好看",
+      "onboard_time": 1750112055,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 114690,
       "num": 313076,
       "word": "泡泡玛特盲盒代摇生意火爆",
@@ -5697,6 +5729,14 @@
       "onboard_time": 1750043180,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 111820,
+      "num": 111820,
+      "word": "TVB女演员转行做月嫂",
+      "onboard_time": 1750078641,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 111618,
@@ -5923,14 +5963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 103636,
-      "num": 103636,
-      "word": "TVB女演员转行做月嫂",
-      "onboard_time": 1750078641,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103552,
       "num": 103552,
       "word": "对没那么喜欢的人反而可以自信大方",
@@ -6065,6 +6097,14 @@
       "onboard_time": 1750076960,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97886,
+      "num": 97886,
+      "word": "特朗普正式进军手机市场",
+      "onboard_time": 1750114998,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97785,
@@ -6435,6 +6475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81156,
+      "num": 98984,
+      "word": "专家称以军对伊朗打击进入新阶段",
+      "onboard_time": 1750114939,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80885,
       "num": 104961,
       "word": "穆勒将在世俱杯迎来拜仁最后一舞",
@@ -6617,6 +6665,14 @@
       "onboard_time": 1749964460,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69537,
+      "num": 115423,
+      "word": "东极岛5A景区变8A景区",
+      "onboard_time": 1750112775,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 69346,
@@ -6819,6 +6875,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56331,
+      "num": 56331,
+      "word": "宋智雅不信男女之间有纯友情",
+      "onboard_time": 1750103714,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 55490,
+      "num": 92554,
+      "word": "保你平安2官宣",
+      "onboard_time": 1750114939,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55425,
       "num": 421651,
       "word": "临澧镇政府回应花炮厂爆炸起火",
@@ -6883,12 +6955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52893,
-      "num": 52893,
-      "word": "为什么镜子里的自己比现实中更好看",
-      "onboard_time": 1750112055,
-      "rank": 43,
-      "category": "情感,幽默"
+      "raw_hot": 52870,
+      "num": 89395,
+      "word": "红绿灯的黄海外直播1场打赏超71万",
+      "onboard_time": 1750096096,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 52044,
@@ -7041,6 +7113,14 @@
       "onboard_time": 1750029678,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 48360,
+      "num": 48360,
+      "word": "恋与深空",
+      "onboard_time": 1750115899,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 48043,
@@ -7451,14 +7531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34737,
-      "num": 47479,
-      "word": "红绿灯的黄海外直播1场打赏超71万",
-      "onboard_time": 1750096096,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
       "raw_hot": 34378,
       "num": 42601,
       "word": "以色列全国紧急状态延至月底",
@@ -7513,14 +7585,6 @@
       "onboard_time": 1749959541,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 32985,
-      "num": 32985,
-      "word": "宋智雅不信男女之间有纯友情",
-      "onboard_time": 1750103714,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 32947,
@@ -7713,14 +7777,6 @@
       "onboard_time": 1749968840,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 27377,
-      "num": 27377,
-      "word": "东极岛5A景区变8A景区",
-      "onboard_time": 1750112775,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 27187,
@@ -8067,6 +8123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19248,
+      "num": 98407,
+      "word": "伊朗对以色列新一轮导弹袭击",
+      "onboard_time": 1750116017,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19242,
       "num": 314197,
       "word": "当代年轻人活力翻倍图鉴",
@@ -8163,6 +8227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 15210,
+      "num": 64737,
+      "word": "其实每个人都在二十多岁里痛哭过",
+      "onboard_time": 1750115178,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15136,
       "num": 22628,
       "word": "独自养大儿女的姚师傅要当爷爷了",
@@ -8249,6 +8321,14 @@
       "onboard_time": 1750008976,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12824,
+      "num": 100813,
+      "word": "以袭击致伊朗国家电视台一员工死亡",
+      "onboard_time": 1750115958,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12591,
