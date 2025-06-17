@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750170454515,
+  "endTime": 1750171582024,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -273,6 +273,14 @@
       "onboard_time": 1749944538,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1069224,
+      "num": 1171075,
+      "word": "伊朗",
+      "onboard_time": 1749907461,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1065659,
@@ -635,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791862,
+      "num": 347160,
+      "word": "小小周",
+      "onboard_time": 1750161261,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 788389,
       "num": 363533,
       "word": "曝刘诗诗杨幂双C",
@@ -657,14 +673,6 @@
       "onboard_time": 1750057459,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 775311,
-      "num": 347160,
-      "word": "小小周",
-      "onboard_time": 1750161261,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 761892,
@@ -1179,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 560284,
+      "num": 560284,
+      "word": "第一次这么直观区别电影脸电视脸",
+      "onboard_time": 1750165221,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 559598,
       "num": 559598,
       "word": "以色列暗杀胡塞高级领导人失败",
@@ -1299,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537681,
+      "num": 346287,
+      "word": "宋妍霏的腿像开了长腿特效",
+      "onboard_time": 1750168823,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536981,
       "num": 536981,
       "word": "王励勤带领王楚钦孙颖莎王曼昱出席开幕式",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1749951019,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 512312,
-      "num": 346287,
-      "word": "宋妍霏的腿像开了长腿特效",
-      "onboard_time": 1750168823,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 510864,
@@ -1547,14 +1563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 471109,
-      "num": 471109,
-      "word": "伊朗",
-      "onboard_time": 1749907461,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 468408,
       "num": 468408,
       "word": "校园贷借款8万还了14万还欠100万",
@@ -1595,14 +1603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460197,
-      "num": 460197,
-      "word": "第一次这么直观区别电影脸电视脸",
-      "onboard_time": 1750165221,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 458264,
       "num": 458264,
       "word": "伊朗称不会让以色列有一刻安宁",
@@ -1625,6 +1625,14 @@
       "onboard_time": 1750080560,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446085,
+      "num": 446085,
+      "word": "伊朗准备好领导人遇刺情况下的计划",
+      "onboard_time": 1750168704,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 443302,
@@ -2195,14 +2203,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 343416,
-      "num": 343416,
-      "word": "伊朗准备好领导人遇刺情况下的计划",
-      "onboard_time": 1750168704,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 342654,
       "num": 294117,
       "word": "那尔那茜走红之路多个疑点待彻查",
@@ -2337,6 +2337,14 @@
       "onboard_time": 1750000702,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326746,
+      "num": 326746,
+      "word": "男子拿两套房和存款弥补儿子遭拒绝",
+      "onboard_time": 1750170204,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 324414,
@@ -3720,6 +3728,14 @@
       "word": "翘楚首发角色海报",
       "onboard_time": 1750148962,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206545,
+      "num": 206545,
+      "word": "曾舜晞开三小时车探班白鹿",
+      "onboard_time": 1750170143,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -5947,14 +5963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147399,
-      "num": 147399,
-      "word": "男子拿两套房和存款弥补儿子遭拒绝",
-      "onboard_time": 1750170204,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146346,
       "num": 208965,
       "word": "酱园弄影评",
@@ -6017,14 +6025,6 @@
       "onboard_time": 1750161141,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144875,
-      "num": 144875,
-      "word": "曾舜晞开三小时车探班白鹿",
-      "onboard_time": 1750170143,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 144677,
@@ -6289,6 +6289,14 @@
       "onboard_time": 1750153041,
       "rank": 47,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 139064,
+      "num": 139064,
+      "word": "张康乐 巴黎男装周",
+      "onboard_time": 1750171343,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 139002,
@@ -7267,6 +7275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123929,
+      "num": 123929,
+      "word": "刘忻歪头眼神杀",
+      "onboard_time": 1750170863,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123843,
       "num": 123843,
       "word": "邓典果回应",
@@ -7297,6 +7313,14 @@
       "onboard_time": 1750038500,
       "rank": 29,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 123482,
+      "num": 123482,
+      "word": "醉梦一场",
+      "onboard_time": 1750171222,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 123436,
@@ -7401,6 +7425,14 @@
       "onboard_time": 1749897021,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121682,
+      "num": 173687,
+      "word": "以色列媒体质问政府",
+      "onboard_time": 1750169663,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121408,
@@ -7899,6 +7931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114208,
+      "num": 114208,
+      "word": "单依纯珠玉舞台",
+      "onboard_time": 1750171464,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114142,
       "num": 409280,
       "word": "目击者讲述湖南一烟花厂爆炸",
@@ -7953,14 +7993,6 @@
       "onboard_time": 1750027997,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113277,
-      "num": 173687,
-      "word": "以色列媒体质问政府",
-      "onboard_time": 1750169663,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113197,
@@ -9169,6 +9201,14 @@
       "onboard_time": 1750149441,
       "rank": 19,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 74276,
+      "num": 146767,
+      "word": "男子动漫城充值14.8万举报后遭恐吓",
+      "onboard_time": 1750171464,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74237,
@@ -11257,6 +11297,14 @@
       "onboard_time": 1750068321,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16210,
+      "num": 210403,
+      "word": "坐完高铁就会觉得很累是为什么",
+      "onboard_time": 1750170744,
+      "rank": 19,
+      "category": "科学科普"
     },
     {
       "raw_hot": 15831,
