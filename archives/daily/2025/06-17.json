@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750142261929,
+  "endTime": 1750143131640,
   "band_list": [
     {
       "raw_hot": 2600623,
@@ -195,6 +195,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 570068,
+      "num": 570068,
+      "word": "无牙仔 Labubu",
+      "onboard_time": 1750141102,
+      "rank": 5,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 547747,
       "num": 442429,
       "word": "朱丹发言",
@@ -291,12 +299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 426196,
-      "num": 426196,
-      "word": "无牙仔 Labubu",
-      "onboard_time": 1750141102,
-      "rank": 5,
-      "category": "休闲,动漫"
+      "raw_hot": 425532,
+      "num": 425532,
+      "word": "近九成00后表示没背房贷车贷",
+      "onboard_time": 1750140740,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410947,
@@ -435,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324906,
-      "num": 324906,
-      "word": "近九成00后表示没背房贷车贷",
-      "onboard_time": 1750140740,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 323425,
       "num": 323425,
       "word": "印度坠机事故第二个11A奇迹",
@@ -459,12 +459,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 317016,
+      "num": 341893,
+      "word": "我国载人登月又有新突破",
+      "onboard_time": 1750141521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310631,
       "num": 274131,
       "word": "张子墨管易烊千玺叫祖师爷",
       "onboard_time": 1750088660,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307163,
+      "num": 307163,
+      "word": "12岁误吞牙刷不敢告诉家人64岁才取出",
+      "onboard_time": 1750141641,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300089,
@@ -659,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217820,
-      "num": 217820,
-      "word": "12岁误吞牙刷不敢告诉家人64岁才取出",
-      "onboard_time": 1750141641,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215219,
       "num": 215219,
       "word": "崩坏星穹铁道",
@@ -697,6 +705,14 @@
       "onboard_time": 1750133423,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204807,
+      "num": 188480,
+      "word": "女子常年为全家做饭确诊肺癌",
+      "onboard_time": 1750142241,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203914,
@@ -755,6 +771,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188900,
+      "num": 188900,
+      "word": "张婧仪 苦水玫瑰",
+      "onboard_time": 1750142301,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187735,
+      "num": 187735,
+      "word": "Labubu造型师",
+      "onboard_time": 1750139301,
+      "rank": 31,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 187169,
       "num": 357468,
       "word": "美军大举增援中东目的何在",
@@ -769,14 +801,6 @@
       "onboard_time": 1750132522,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186122,
-      "num": 186122,
-      "word": "Labubu造型师",
-      "onboard_time": 1750139301,
-      "rank": 31,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 185580,
@@ -833,14 +857,6 @@
       "onboard_time": 1750133302,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176639,
-      "num": 341893,
-      "word": "我国载人登月又有新突破",
-      "onboard_time": 1750141521,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176195,
@@ -915,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166686,
+      "num": 166686,
+      "word": "王鹤润首部悬疑女主剧",
+      "onboard_time": 1750142601,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166431,
       "num": 282054,
       "word": "aespa概念照",
@@ -945,6 +969,14 @@
       "onboard_time": 1750134623,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159831,
+      "num": 285406,
+      "word": "周雨彤拍谍报上不封顶有压力",
+      "onboard_time": 1750141702,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 158903,
@@ -1043,6 +1075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145284,
+      "num": 145284,
+      "word": "朱丹分鸡腿",
+      "onboard_time": 1750142241,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144325,
       "num": 416076,
       "word": "官方再通报深圳一小区房屋沉降",
@@ -1057,14 +1097,6 @@
       "onboard_time": 1750138523,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 142701,
-      "num": 220926,
-      "word": "周雨彤拍谍报上不封顶有压力",
-      "onboard_time": 1750141702,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 141303,
@@ -1179,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126703,
+      "num": 126703,
+      "word": "医院通报员工用患者手机下载购物APP",
+      "onboard_time": 1750142780,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 126373,
       "num": 120282,
       "word": "为什么镜子里的自己比现实中更好看",
@@ -1209,22 +1249,6 @@
       "onboard_time": 1750129999,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 122539,
-      "num": 122539,
-      "word": "女子常年为全家做饭确诊肺癌",
-      "onboard_time": 1750142241,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121251,
-      "num": 121251,
-      "word": "朱丹分鸡腿",
-      "onboard_time": 1750142241,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 121136,
@@ -1272,6 +1296,14 @@
       "word": "果然姓花的和姓白的不合适",
       "onboard_time": 1750128681,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118555,
+      "num": 187868,
+      "word": "敖瑞鹏一万三演我看闺蜜谈恋爱",
+      "onboard_time": 1750142480,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1444,7 +1476,7 @@
     },
     {
       "raw_hot": 95064,
-      "num": 141365,
+      "num": 148606,
       "word": "小鹏G7同级唯一标配857",
       "onboard_time": 1750140621,
       "rank": 42,
@@ -1593,6 +1625,14 @@
       "onboard_time": 1750091838,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75815,
+      "num": 150087,
+      "word": "九尾希望大家给团队跟教练时间",
+      "onboard_time": 1750142301,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 74968,
@@ -1865,6 +1905,14 @@
       "onboard_time": 1750107913,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40106,
+      "num": 251686,
+      "word": "大学生最喜欢的微博表情",
+      "onboard_time": 1750142421,
+      "rank": 24,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 39711,

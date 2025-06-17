@@ -1,0 +1,410 @@
+{
+  "runTime": 1750143131640,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290161,
+        "num": 1290161,
+        "word": "人民日报谈单依纯改编歌曲李白",
+        "onboard_time": 1750137561,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 776219,
+        "num": 776219,
+        "word": "湖南烟花厂爆炸已致9死26伤",
+        "onboard_time": 1750137921,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 34143,
+        "num": 644592,
+        "word": "中国人一锹一锹种出的绿色未来",
+        "onboard_time": 1750131623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1015798,
+        "num": 609026,
+        "word": "陈彼得去世",
+        "onboard_time": 1750130960,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570068,
+        "num": 570068,
+        "word": "无牙仔 Labubu",
+        "onboard_time": 1750141102,
+        "rank": 4,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 539597,
+        "num": 539597,
+        "word": "第一次见脂包骨的身材",
+        "onboard_time": 1750130361,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 632093,
+        "num": 533594,
+        "word": "彭昱畅怎么瘦成这样了",
+        "onboard_time": 1750135463,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425532,
+        "num": 425532,
+        "word": "近九成00后表示没背房贷车贷",
+        "onboard_time": 1750140740,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323477,
+        "num": 323477,
+        "word": "深圳一房屋沉降已封控25栋",
+        "onboard_time": 1750136483,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 317016,
+        "num": 317016,
+        "word": "我国载人登月又有新突破",
+        "onboard_time": 1750141521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784413,
+        "num": 316842,
+        "word": "王安宇QQ号",
+        "onboard_time": 1750133783,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672585,
+        "num": 316759,
+        "word": "那尔那茜哥哥 数学10分",
+        "onboard_time": 1750135103,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351627,
+        "num": 316678,
+        "word": "向佐儿子近照曝光",
+        "onboard_time": 1750138402,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316120,
+        "num": 316120,
+        "word": "能不能不要往衣服上印minmin",
+        "onboard_time": 1750138881,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307812,
+        "num": 307812,
+        "word": "1w奖学金到账后我们家的资金流动",
+        "onboard_time": 1750125621,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307163,
+        "num": 307163,
+        "word": "12岁误吞牙刷不敢告诉家人64岁才取出",
+        "onboard_time": 1750141641,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276474,
+        "num": 290917,
+        "word": "柜姐向陈哲远道歉",
+        "onboard_time": 1750131982,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159831,
+        "num": 285406,
+        "word": "周雨彤拍谍报上不封顶有压力",
+        "onboard_time": 1750141702,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284619,
+        "num": 284619,
+        "word": "中国乘客飞机上拍下伊朗导弹袭以",
+        "onboard_time": 1750136662,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51352,
+        "num": 268721,
+        "word": "我在景区做帅哥NPC一天壁咚300人",
+        "onboard_time": 1750141881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479950,
+        "num": 267661,
+        "word": "规培生全麻插管致患者死亡",
+        "onboard_time": 1750129940,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266109,
+        "num": 266109,
+        "word": "鹿晗送labubu",
+        "onboard_time": 1750131801,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262461,
+        "num": 262461,
+        "word": "临江仙破万被质疑",
+        "onboard_time": 1750132702,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207191,
+        "num": 256051,
+        "word": "文淇中戏毕业",
+        "onboard_time": 1750140621,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40106,
+        "num": 251686,
+        "word": "大学生最喜欢的微博表情",
+        "onboard_time": 1750142421,
+        "rank": 24,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 251526,
+        "num": 251526,
+        "word": "印度坠机事故第二个11A奇迹",
+        "onboard_time": 1750136483,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 242120,
+        "num": 242120,
+        "word": "李佳琦说没必要加钱买LABUBU",
+        "onboard_time": 1750137862,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188900,
+        "num": 188900,
+        "word": "张婧仪 苦水玫瑰",
+        "onboard_time": 1750142301,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204807,
+        "num": 188480,
+        "word": "女子常年为全家做饭确诊肺癌",
+        "onboard_time": 1750142241,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118555,
+        "num": 187868,
+        "word": "敖瑞鹏一万三演我看闺蜜谈恋爱",
+        "onboard_time": 1750142480,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187735,
+        "num": 187735,
+        "word": "Labubu造型师",
+        "onboard_time": 1750139301,
+        "rank": 30,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 173606,
+        "num": 173606,
+        "word": "韩庚演唱会",
+        "onboard_time": 1750138944,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172707,
+        "num": 172707,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1750119681,
+        "rank": 32,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 169913,
+        "num": 169913,
+        "word": "iPhone 直板夹",
+        "onboard_time": 1750134262,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166686,
+        "num": 166686,
+        "word": "王鹤润首部悬疑女主剧",
+        "onboard_time": 1750142601,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163066,
+        "num": 163066,
+        "word": "曾舜晞白鹿婚纱营业",
+        "onboard_time": 1750129161,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151810,
+        "num": 151810,
+        "word": "朱丹发言",
+        "onboard_time": 1750131140,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87539,
+        "num": 151725,
+        "word": "疑辱骂五月天粉丝员工已被开除",
+        "onboard_time": 1750138700,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151712,
+        "num": 151712,
+        "word": "万妮达 唯一女导师的含金量",
+        "onboard_time": 1750137561,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75815,
+        "num": 150087,
+        "word": "九尾希望大家给团队跟教练时间",
+        "onboard_time": 1750142301,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76018,
+        "num": 148606,
+        "word": "小鹏G7同级唯一标配857",
+        "onboard_time": 1750140621,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148478,
+        "num": 148478,
+        "word": "荔枝蒂 虫子",
+        "onboard_time": 1750127059,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145284,
+        "num": 145284,
+        "word": "朱丹分鸡腿",
+        "onboard_time": 1750142241,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136677,
+        "num": 136677,
+        "word": "樊振东的乒超vlog",
+        "onboard_time": 1750138944,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134123,
+        "num": 134123,
+        "word": "恋与深空登顶",
+        "onboard_time": 1750126039,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129719,
+        "num": 129719,
+        "word": "张译一年奖励自己一部正剧",
+        "onboard_time": 1750141281,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129603,
+        "num": 129603,
+        "word": "沉浸式感受福建舰要冲出屏幕了",
+        "onboard_time": 1750129401,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 126703,
+        "num": 126703,
+        "word": "医院通报员工用患者手机下载购物APP",
+        "onboard_time": 1750142780,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 123582,
+        "num": 123582,
+        "word": "以色列总理儿子婚礼引发争议",
+        "onboard_time": 1750133004,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114805,
+        "num": 114805,
+        "word": "继父强奸案时隔10年无罪改判8年",
+        "onboard_time": 1750128020,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中哈命运共同体成色更足内涵更丰富#"
+    }
+  }
+}
