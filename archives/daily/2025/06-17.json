@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750135773869,
+  "endTime": 1750138008863,
   "band_list": [
     {
       "raw_hot": 2600623,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1889218,
-      "num": 687671,
+      "num": 747851,
       "word": "1w奖学金到账后我们家的资金流动",
       "onboard_time": 1750125621,
       "rank": 30,
@@ -32,6 +32,14 @@
       "word": "王安宇QQ号",
       "onboard_time": 1750133783,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1139717,
+      "num": 448948,
+      "word": "那尔那茜哥哥 数学10分",
+      "onboard_time": 1750135103,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -59,6 +67,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 898318,
+      "num": 898318,
+      "word": "第一次见脂包骨的身材",
+      "onboard_time": 1750130361,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 861801,
       "num": 687494,
       "word": "特朗普宣称期待G7变G8",
@@ -72,6 +88,14 @@
       "word": "柜姐向陈哲远道歉",
       "onboard_time": 1750131982,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 826837,
+      "num": 826837,
+      "word": "彭昱畅怎么瘦成这样了",
+      "onboard_time": 1750135463,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -147,20 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 610210,
-      "num": 448948,
-      "word": "那尔那茜哥哥 数学10分",
-      "onboard_time": 1750135103,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 598570,
-      "num": 598570,
-      "word": "第一次见脂包骨的身材",
-      "onboard_time": 1750130361,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 607541,
+      "num": 607541,
+      "word": "深圳一房屋沉降已封控25栋",
+      "onboard_time": 1750136483,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 547747,
@@ -219,8 +235,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 470881,
-      "num": 470881,
+      "raw_hot": 477747,
+      "num": 477747,
       "word": "iPhone 直板夹",
       "onboard_time": 1750134262,
       "rank": 28,
@@ -379,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320714,
+      "num": 320714,
+      "word": "印度坠机事故第二个11A奇迹",
+      "onboard_time": 1750136483,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 310631,
       "num": 274131,
       "word": "张子墨管易烊千玺叫祖师爷",
@@ -483,20 +507,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 267028,
+      "num": 267028,
+      "word": "中国乘客飞机上拍下伊朗导弹袭以",
+      "onboard_time": 1750136662,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 254178,
       "num": 128010,
       "word": "男性其实更需要亲密关系",
       "onboard_time": 1750114939,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 249581,
-      "num": 249581,
-      "word": "彭昱畅怎么瘦成这样了",
-      "onboard_time": 1750135463,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 248804,
@@ -571,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215219,
+      "num": 215219,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1750137261,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213530,
       "num": 292940,
       "word": "超1000种职业证书可用于花呗提额",
@@ -595,6 +627,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210008,
+      "num": 210008,
+      "word": "湖南烟花厂爆炸已致9死26伤",
+      "onboard_time": 1750137921,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 208880,
+      "num": 265711,
+      "word": "人民日报谈单依纯改编歌曲李白",
+      "onboard_time": 1750137561,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203914,
       "num": 203914,
       "word": "一骑红尘妃子笑读音",
@@ -617,6 +665,14 @@
       "onboard_time": 1750134444,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197461,
+      "num": 197461,
+      "word": "日久生情果然敌不过一见钟情",
+      "onboard_time": 1750136181,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 193979,
@@ -707,12 +763,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175907,
+      "num": 210959,
+      "word": "刘浩存宋威龙情头",
+      "onboard_time": 1750135943,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174149,
       "num": 282502,
       "word": "蒋欣新剧人设",
       "onboard_time": 1750132041,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173580,
+      "num": 173580,
+      "word": "万妮达 唯一女导师的含金量",
+      "onboard_time": 1750137561,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172642,
+      "num": 172642,
+      "word": "高铁为什么晚上禁止运行",
+      "onboard_time": 1750135943,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 171825,
+      "num": 171825,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1750137323,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 170662,
@@ -755,12 +843,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165086,
+      "num": 257661,
+      "word": "起猛了看见女版梅长苏了",
+      "onboard_time": 1750137803,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161979,
       "num": 161979,
       "word": "许嵩演唱会杭州双场官宣",
       "onboard_time": 1750134623,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155887,
+      "num": 155887,
+      "word": "虚拟男团Vexel出道",
+      "onboard_time": 1750137620,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 153957,
+      "num": 153957,
+      "word": "李佳琦说没必要加钱买LABUBU",
+      "onboard_time": 1750137862,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 153258,
@@ -1011,6 +1123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114016,
+      "num": 251935,
+      "word": "水果店制作小偷黑名单相册供翻阅",
+      "onboard_time": 1750136543,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112816,
       "num": 196427,
       "word": "彭昱畅新剧完全是掌门级别的",
@@ -1049,6 +1169,14 @@
       "onboard_time": 1750123279,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 106025,
+      "num": 199891,
+      "word": "第一次直观看见章子怡刘浩存有多像",
+      "onboard_time": 1750137921,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 105401,
@@ -1299,6 +1427,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73967,
+      "num": 167706,
+      "word": "韩国印度入场短剧",
+      "onboard_time": 1750136004,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 73903,
+      "num": 376272,
+      "word": "美军往中东派26架加油机",
+      "onboard_time": 1750137143,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73194,
       "num": 73194,
       "word": "道崽回应",
@@ -1339,6 +1483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70007,
+      "num": 172645,
+      "word": "618末班车哪款iPhone更值",
+      "onboard_time": 1750137685,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 69537,
       "num": 115423,
       "word": "东极岛5A景区变8A景区",
@@ -1361,6 +1513,14 @@
       "onboard_time": 1750129521,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66411,
+      "num": 312577,
+      "word": "同药同店线上线下为何不同价",
+      "onboard_time": 1750136362,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 66015,
@@ -1476,7 +1636,7 @@
     },
     {
       "raw_hot": 49771,
-      "num": 566977,
+      "num": 854750,
       "word": "中国人一锹一锹种出的绿色未来",
       "onboard_time": 1750131623,
       "rank": 2,
@@ -1507,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39711,
+      "num": 172725,
+      "word": "雷霆防守压迫感拉满",
+      "onboard_time": 1750136782,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37347,
       "num": 198098,
       "word": "山西一古碑文含周深粉丝排队打卡",
@@ -1516,7 +1684,7 @@
     },
     {
       "raw_hot": 37030,
-      "num": 225875,
+      "num": 281154,
       "word": "安慕希玩梗长安的荔枝",
       "onboard_time": 1750134804,
       "rank": 34,
@@ -1593,6 +1761,14 @@
       "onboard_time": 1750098074,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25099,
+      "num": 172875,
+      "word": "国补后iPhone还是最香机吗",
+      "onboard_time": 1750137143,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 25098,
