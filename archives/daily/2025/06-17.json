@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750138008863,
+  "endTime": 1750139067917,
   "band_list": [
     {
       "raw_hot": 2600623,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 995507,
+      "num": 995507,
+      "word": "湖南烟花厂爆炸已致9死26伤",
+      "onboard_time": 1750137921,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 929329,
       "num": 564065,
       "word": "痛经 吃榴莲",
@@ -75,6 +83,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 896174,
+      "num": 896174,
+      "word": "彭昱畅怎么瘦成这样了",
+      "onboard_time": 1750135463,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 861801,
       "num": 687494,
       "word": "特朗普宣称期待G7变G8",
@@ -88,14 +104,6 @@
       "word": "柜姐向陈哲远道歉",
       "onboard_time": 1750131982,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 826837,
-      "num": 826837,
-      "word": "彭昱畅怎么瘦成这样了",
-      "onboard_time": 1750135463,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -267,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 417596,
+      "num": 417596,
+      "word": "人民日报谈单依纯改编歌曲李白",
+      "onboard_time": 1750137561,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410947,
       "num": 410947,
       "word": "男子养了10年的女儿竟不是亲生的",
@@ -403,6 +419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 319685,
+      "num": 319685,
+      "word": "中国乘客飞机上拍下伊朗导弹袭以",
+      "onboard_time": 1750136662,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 310631,
       "num": 274131,
       "word": "张子墨管易烊千玺叫祖师爷",
@@ -491,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274127,
+      "num": 336928,
+      "word": "向佐儿子近照曝光",
+      "onboard_time": 1750138402,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273441,
       "num": 273441,
       "word": "吉赛尔好美",
@@ -507,12 +539,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 267028,
-      "num": 267028,
-      "word": "中国乘客飞机上拍下伊朗导弹袭以",
-      "onboard_time": 1750136662,
-      "rank": 22,
-      "category": "海外新闻"
+      "raw_hot": 260732,
+      "num": 260732,
+      "word": "李佳琦说没必要加钱买LABUBU",
+      "onboard_time": 1750137862,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 254178,
@@ -627,22 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210008,
-      "num": 210008,
-      "word": "湖南烟花厂爆炸已致9死26伤",
-      "onboard_time": 1750137921,
-      "rank": 33,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 208880,
-      "num": 265711,
-      "word": "人民日报谈单依纯改编歌曲李白",
-      "onboard_time": 1750137561,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203914,
       "num": 203914,
       "word": "一骑红尘妃子笑读音",
@@ -673,6 +689,14 @@
       "onboard_time": 1750136181,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196220,
+      "num": 257661,
+      "word": "起猛了看见女版梅长苏了",
+      "onboard_time": 1750137803,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 193979,
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 173580,
-      "num": 173580,
+      "num": 181381,
       "word": "万妮达 唯一女导师的含金量",
       "onboard_time": 1750137561,
       "rank": 37,
@@ -843,20 +867,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165086,
-      "num": 257661,
-      "word": "起猛了看见女版梅长苏了",
-      "onboard_time": 1750137803,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161979,
       "num": 161979,
       "word": "许嵩演唱会杭州双场官宣",
       "onboard_time": 1750134623,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158903,
+      "num": 158903,
+      "word": "终于有镜头对准污名化女性的恶人",
+      "onboard_time": 1750138944,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 155887,
@@ -867,20 +891,28 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 153957,
-      "num": 153957,
-      "word": "李佳琦说没必要加钱买LABUBU",
-      "onboard_time": 1750137862,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153258,
       "num": 153258,
       "word": "爱尔兰一母婴院发现大量婴幼儿遗骸",
       "onboard_time": 1750118060,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 153119,
+      "num": 153119,
+      "word": "疑辱骂五月天粉丝员工已被开除",
+      "onboard_time": 1750138700,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151683,
+      "num": 151683,
+      "word": "能不能不要往衣服上印minmin",
+      "onboard_time": 1750138881,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 150805,
@@ -905,6 +937,14 @@
       "onboard_time": 1750116017,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148674,
+      "num": 148674,
+      "word": "原神丝柯克角色预告",
+      "onboard_time": 1750138823,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 148118,
@@ -936,6 +976,22 @@
       "word": "特朗普正式进军手机市场",
       "onboard_time": 1750114998,
       "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 144325,
+      "num": 416076,
+      "word": "官方再通报深圳一小区房屋沉降",
+      "onboard_time": 1750138582,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 144129,
+      "num": 144129,
+      "word": "伊朗称击落一架死神无人机",
+      "onboard_time": 1750138523,
+      "rank": 44,
       "category": "国际时政"
     },
     {
@@ -971,6 +1027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133646,
+      "num": 133646,
+      "word": "韩庚演唱会",
+      "onboard_time": 1750138944,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133400,
       "num": 195021,
       "word": "郭晓婷回应刘诗诗",
@@ -985,6 +1049,14 @@
       "onboard_time": 1750079961,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132739,
+      "num": 199891,
+      "word": "第一次直观看见章子怡刘浩存有多像",
+      "onboard_time": 1750137921,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 132232,
@@ -1169,14 +1241,6 @@
       "onboard_time": 1750123279,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 106025,
-      "num": 199891,
-      "word": "第一次直观看见章子怡刘浩存有多像",
-      "onboard_time": 1750137921,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 105401,
@@ -1459,6 +1523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72634,
+      "num": 395565,
+      "word": "没戏拍兼职陪爬山男演员已签约MCN",
+      "onboard_time": 1750138222,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72090,
       "num": 72090,
       "word": "韩国人怎么看中国女团RED",
@@ -1611,6 +1683,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 51485,
+      "num": 337189,
+      "word": "印度航空又一飞机出故障",
+      "onboard_time": 1750138103,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 51414,
       "num": 185721,
       "word": "和马龙一起脑暴",
@@ -1636,7 +1716,7 @@
     },
     {
       "raw_hot": 49771,
-      "num": 854750,
+      "num": 935887,
       "word": "中国人一锹一锹种出的绿色未来",
       "onboard_time": 1750131623,
       "rank": 2,
@@ -1684,11 +1764,19 @@
     },
     {
       "raw_hot": 37030,
-      "num": 281154,
+      "num": 341795,
       "word": "安慕希玩梗长安的荔枝",
       "onboard_time": 1750134804,
       "rank": 34,
       "category": "民生新闻,剧集"
+    },
+    {
+      "raw_hot": 36532,
+      "num": 172875,
+      "word": "国补后iPhone还是最香机吗",
+      "onboard_time": 1750137143,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 35649,
@@ -1731,6 +1819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31557,
+      "num": 149056,
+      "word": "罗小黑定档预告花絮",
+      "onboard_time": 1750138582,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 29310,
       "num": 29310,
       "word": "比亚迪宣布60天内付款",
@@ -1761,14 +1857,6 @@
       "onboard_time": 1750098074,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 25099,
-      "num": 172875,
-      "word": "国补后iPhone还是最香机吗",
-      "onboard_time": 1750137143,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 25098,

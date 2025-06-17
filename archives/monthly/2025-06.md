@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/17 13:26:48
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/17 13:44:27
 </p>
 </blockquote>
 <p>
@@ -2151,6 +2151,12 @@ aespa（热度：996030）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B49%E6%AD%BB26%E4%BC%A4%23" target="weibo">
+湖南烟花厂爆炸已致9死26伤（热度：995507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%9E%B6%E5%9B%A0%E7%A9%BA%E9%9A%BE%E5%85%A8%E6%8D%9F%E6%B3%A2%E9%9F%B3787%23" target="weibo">
 全球首架因空难全损波音787（热度：991500）
 </a>
@@ -2535,6 +2541,12 @@ labubu（热度：930311）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E6%80%8E%E4%B9%88%E7%98%A6%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
+彭昱畅怎么瘦成这样了（热度：896174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23COSMO%E7%9B%9B%E5%85%B8%23" target="weibo">
 COSMO盛典（热度：895852）
 </a>
@@ -2837,12 +2849,6 @@ AL战胜BLG（热度：859667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5%23" target="weibo">
 洛杉矶乱成一锅粥（热度：827456）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E6%80%8E%E4%B9%88%E7%98%A6%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
-彭昱畅怎么瘦成这样了（热度：826837）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WTT大满贯取消强制参赛（热度：498839）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A7%8B%E4%BA%8A%E5%B0%86%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23" target="weibo">
 何秋亊将直播回应争议（热度：491317）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83%23" target="weibo">
-明天高考（热度：491092）
 </a>
 </li>
 
