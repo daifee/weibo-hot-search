@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750195541750,
+  "endTime": 1750196474212,
   "band_list": [
     {
       "raw_hot": 1342324,
@@ -491,7 +491,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28064,
+      "raw_hot": 29373,
       "num": 21159,
       "word": "labubu挂包不翻面的方法",
       "onboard_time": 1750191735,
@@ -505,6 +505,22 @@
       "onboard_time": 1750182436,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23199,
+      "num": 20418,
+      "word": "钟丽缇回应被评价怎么健身都不瘦",
+      "onboard_time": 1750194794,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22693,
+      "num": 22693,
+      "word": "金建希硕士论文被认定为剽窃",
+      "onboard_time": 1750192513,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 21614,
@@ -523,28 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19375,
-      "num": 19375,
-      "word": "金建希硕士论文被认定为剽窃",
-      "onboard_time": 1750192513,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 17283,
       "num": 65479,
       "word": "大国外交的忙碌现场",
       "onboard_time": 1750185675,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16739,
-      "num": 16739,
-      "word": "钟丽缇回应被评价怎么健身都不瘦",
-      "onboard_time": 1750194794,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 16400,
@@ -563,6 +563,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15033,
+      "num": 17973,
+      "word": "陈丽君我的大观园成都站现场掌声雷动",
+      "onboard_time": 1750195874,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14502,
+      "num": 17967,
+      "word": "女方回应男子拿两套房求和儿子被拒",
+      "onboard_time": 1750190233,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14213,
       "num": 15769,
       "word": "张艺兴晚会彩排剧透",
@@ -571,12 +587,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13191,
-      "num": 16402,
-      "word": "女方回应男子拿两套房求和儿子被拒",
-      "onboard_time": 1750190233,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 13278,
+      "num": 17959,
+      "word": "一个小时15还赚了10块钱",
+      "onboard_time": 1750196294,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 12989,
@@ -587,8 +603,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 12668,
-      "num": 16402,
+      "raw_hot": 12766,
+      "num": 17945,
       "word": "12岁女孩花3200元学韩语家长质疑",
       "onboard_time": 1750192394,
       "rank": 48,
