@@ -1,0 +1,410 @@
+{
+  "runTime": 1750152574142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 655527,
+        "num": 1104884,
+        "word": "印度空难幸存者走出火场最新画面",
+        "onboard_time": 1750147641,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1395454,
+        "num": 1046804,
+        "word": "黄子韬卫生巾 黑色异物",
+        "onboard_time": 1750151001,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32955,
+        "num": 779205,
+        "word": "中国经济高质量发展向优向新",
+        "onboard_time": 1750151361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 620388,
+        "num": 620388,
+        "word": "暴力熊 Labubu",
+        "onboard_time": 1750144700,
+        "rank": 3,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 548367,
+        "num": 548367,
+        "word": "中国组织撤离以色列伊朗的中国公民",
+        "onboard_time": 1750147522,
+        "rank": 4,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 514566,
+        "num": 514566,
+        "word": "陈彼得去世",
+        "onboard_time": 1750130960,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447325,
+        "num": 447325,
+        "word": "这个长相的都爆红了",
+        "onboard_time": 1750145960,
+        "rank": 6,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 435404,
+        "num": 435404,
+        "word": "临江仙破万 奇迹的诞生",
+        "onboard_time": 1750150103,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39293,
+        "num": 433083,
+        "word": "男子入狱8年改判无罪悬赏50万追凶",
+        "onboard_time": 1750151422,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33433,
+        "num": 428817,
+        "word": "我国跨境电商交出亮眼成绩单",
+        "onboard_time": 1750151121,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1348742,
+        "num": 419164,
+        "word": "刘浩存终于换掉了微商头像",
+        "onboard_time": 1750149982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1157374,
+        "num": 415144,
+        "word": "能不能禁止刘亦菲和人打招呼",
+        "onboard_time": 1750147940,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859533,
+        "num": 412880,
+        "word": "朱丹让女儿留级",
+        "onboard_time": 1750143980,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76579,
+        "num": 403169,
+        "word": "京东618晚会",
+        "onboard_time": 1750150940,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183294,
+        "num": 396199,
+        "word": "蔡天凤碎尸案两被告被判有罪",
+        "onboard_time": 1750147641,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604536,
+        "num": 393736,
+        "word": "男子称婚后不交工资每周都被媳妇打",
+        "onboard_time": 1750148662,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598045,
+        "num": 386304,
+        "word": "徐佳莹粉丝因为嘉宾退票",
+        "onboard_time": 1750148002,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 384818,
+        "num": 384818,
+        "word": "日本男子杀女网友分尸头盖骨藏家7年",
+        "onboard_time": 1750147400,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 379089,
+        "num": 379089,
+        "word": "吴艳妮长得好看的人里跑的最快的",
+        "onboard_time": 1750150461,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111290,
+        "num": 364040,
+        "word": "烟花厂爆炸女员工复原逃命过程",
+        "onboard_time": 1750150882,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 647361,
+        "num": 361751,
+        "word": "女子以为绝经喝中药不知竟怀孕17周",
+        "onboard_time": 1750146321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467822,
+        "num": 360311,
+        "word": "徐佳莹 薛之谦",
+        "onboard_time": 1750151242,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 357319,
+        "num": 357319,
+        "word": "伊朗导弹雨",
+        "onboard_time": 1750150940,
+        "rank": 22,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 349970,
+        "num": 349970,
+        "word": "朱丹 重男轻女",
+        "onboard_time": 1750144581,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211176,
+        "num": 346892,
+        "word": "周翊然情商",
+        "onboard_time": 1750151301,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206588,
+        "num": 342692,
+        "word": "人民日报谈单依纯改编歌曲李白",
+        "onboard_time": 1750137561,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181052,
+        "num": 337596,
+        "word": "彭昱畅怎么瘦成这样了",
+        "onboard_time": 1750135463,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162815,
+        "num": 336190,
+        "word": "翘楚",
+        "onboard_time": 1750150882,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13953,
+        "num": 330895,
+        "word": "福建舰和其他航母有什么不同",
+        "onboard_time": 1750150882,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31926,
+        "num": 325118,
+        "word": "特朗普称把俄罗斯赶出G8是错误",
+        "onboard_time": 1750150882,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 322866,
+        "num": 322866,
+        "word": "医院缴费必须先帮工作人员扫码砍价",
+        "onboard_time": 1750146441,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321643,
+        "num": 321643,
+        "word": "王安宇QQ号",
+        "onboard_time": 1750133783,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271059,
+        "num": 271059,
+        "word": "以军说打死伊朗最高军事指挥官",
+        "onboard_time": 1750143803,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247054,
+        "num": 247054,
+        "word": "全国高温Top3被川渝包揽",
+        "onboard_time": 1750151001,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220270,
+        "num": 220270,
+        "word": "赛百味减肥",
+        "onboard_time": 1750147040,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209061,
+        "num": 209061,
+        "word": "沈腾婚礼旧照",
+        "onboard_time": 1750144281,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193315,
+        "num": 193315,
+        "word": "彩票未中奖男子偷11张刮刮乐想回本",
+        "onboard_time": 1750143861,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173000,
+        "num": 173000,
+        "word": "外交部回应华为中芯国际进台湾实体名单",
+        "onboard_time": 1750151062,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171735,
+        "num": 171735,
+        "word": "伊朗首都街头空无一人",
+        "onboard_time": 1750146561,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151602,
+        "num": 151602,
+        "word": "夏季赛第二周最佳阵容公布",
+        "onboard_time": 1750151001,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161078,
+        "num": 149341,
+        "word": "陈都灵手臂",
+        "onboard_time": 1750148061,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146020,
+        "num": 146020,
+        "word": "你们短剧特效是要考研吗",
+        "onboard_time": 1750152082,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125548,
+        "num": 125548,
+        "word": "女子常年为全家做饭确诊肺癌",
+        "onboard_time": 1750142241,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122453,
+        "num": 122453,
+        "word": "第一次见脂包骨的身材",
+        "onboard_time": 1750130361,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117317,
+        "num": 117317,
+        "word": "轧戏",
+        "onboard_time": 1750144881,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108122,
+        "num": 108122,
+        "word": "临江仙",
+        "onboard_time": 1750152501,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106915,
+        "num": 106915,
+        "word": "孙佳俊夺金后的朋友圈",
+        "onboard_time": 1750148601,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106669,
+        "num": 106669,
+        "word": "印度空难幸存者从滚滚黑烟中走出",
+        "onboard_time": 1750151843,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106001,
+        "num": 106001,
+        "word": "唐国强 常驻王牌",
+        "onboard_time": 1750152262,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105256,
+        "num": 105256,
+        "word": "林更新拆穿3大电诈骗局",
+        "onboard_time": 1750151482,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见吉尔吉斯斯坦总统#"
+    }
+  }
+}

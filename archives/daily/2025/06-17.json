@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750150184920,
+  "endTime": 1750152574142,
   "band_list": [
     {
       "raw_hot": 2600623,
@@ -35,12 +35,28 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 1395454,
+      "num": 1046804,
+      "word": "黄子韬卫生巾 黑色异物",
+      "onboard_time": 1750151001,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1388669,
       "num": 1388669,
       "word": "人民日报谈单依纯改编歌曲李白",
       "onboard_time": 1750137561,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1348742,
+      "num": 419164,
+      "word": "刘浩存终于换掉了微商头像",
+      "onboard_time": 1750149982,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1335353,
@@ -57,6 +73,14 @@
       "onboard_time": 1750146321,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1157374,
+      "num": 415144,
+      "word": "能不能禁止刘亦菲和人打招呼",
+      "onboard_time": 1750147940,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1139717,
@@ -163,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 788410,
-      "num": 406770,
-      "word": "能不能禁止刘亦菲和人打招呼",
-      "onboard_time": 1750147940,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 763265,
       "num": 546528,
       "word": "涨工资的信号越来越明确",
@@ -243,6 +259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 655527,
+      "num": 1104884,
+      "word": "印度空难幸存者走出火场最新画面",
+      "onboard_time": 1750147641,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 649176,
       "num": 436115,
       "word": "能不能不要往衣服上印minmin",
@@ -281,6 +305,14 @@
       "onboard_time": 1750136483,
       "rank": 5,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 604536,
+      "num": 418541,
+      "word": "男子称婚后不交工资每周都被媳妇打",
+      "onboard_time": 1750148662,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 547747,
@@ -363,6 +395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 467822,
+      "num": 360311,
+      "word": "徐佳莹 薛之谦",
+      "onboard_time": 1750151242,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 465349,
       "num": 329919,
       "word": "闫佩伦婚礼",
@@ -385,6 +425,14 @@
       "onboard_time": 1750133004,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 435404,
+      "num": 435404,
+      "word": "临江仙破万 奇迹的诞生",
+      "onboard_time": 1750150103,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 435286,
@@ -443,12 +491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384818,
+      "num": 384818,
+      "word": "日本男子杀女网友分尸头盖骨藏家7年",
+      "onboard_time": 1750147400,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 382311,
       "num": 382311,
       "word": "那尔那茜的高考恰似长安的荔枝",
       "onboard_time": 1750127300,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379089,
+      "num": 379089,
+      "word": "吴艳妮长得好看的人里跑的最快的",
+      "onboard_time": 1750150461,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 375462,
@@ -483,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357319,
+      "num": 357319,
+      "word": "伊朗导弹雨",
+      "onboard_time": 1750150940,
+      "rank": 22,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 357047,
       "num": 357047,
       "word": "陈哲远被柜姐突袭搂抱",
@@ -497,14 +569,6 @@
       "onboard_time": 1750124241,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 348244,
-      "num": 348244,
-      "word": "日本男子杀女网友分尸头盖骨藏家7年",
-      "onboard_time": 1750147400,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 346648,
@@ -563,6 +627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 322866,
+      "num": 322866,
+      "word": "医院缴费必须先帮工作人员扫码砍价",
+      "onboard_time": 1750146441,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319685,
       "num": 319685,
       "word": "中国乘客飞机上拍下伊朗导弹袭以",
@@ -576,14 +648,6 @@
       "word": "我国载人登月又有新突破",
       "onboard_time": 1750141521,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314295,
-      "num": 418541,
-      "word": "男子称婚后不交工资每周都被媳妇打",
-      "onboard_time": 1750148662,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -601,14 +665,6 @@
       "onboard_time": 1750126039,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 302748,
-      "num": 302748,
-      "word": "印度空难幸存者走出火场最新画面",
-      "onboard_time": 1750147641,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 301485,
@@ -763,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247054,
+      "num": 247054,
+      "word": "全国高温Top3被川渝包揽",
+      "onboard_time": 1750151001,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240747,
       "num": 538436,
       "word": "救护车转运重病孩子800公里收2.8万",
@@ -843,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220270,
+      "num": 220270,
+      "word": "赛百味减肥",
+      "onboard_time": 1750147040,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215219,
       "num": 215219,
       "word": "崩坏星穹铁道",
@@ -867,20 +939,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211176,
+      "num": 346892,
+      "word": "周翊然情商",
+      "onboard_time": 1750151301,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210579,
       "num": 210579,
       "word": "雁回时 短剧",
       "onboard_time": 1750133423,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207421,
-      "num": 207421,
-      "word": "赛百味减肥",
-      "onboard_time": 1750147040,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 206865,
@@ -1011,20 +1083,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183294,
+      "num": 396199,
+      "word": "蔡天凤碎尸案两被告被判有罪",
+      "onboard_time": 1750147641,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183094,
       "num": 183094,
       "word": "第一次想用太适合当孙子来形容一个人",
       "onboard_time": 1750134262,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180614,
-      "num": 180614,
-      "word": "蔡天凤碎尸案两被告被判有罪",
-      "onboard_time": 1750147641,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180459,
@@ -1099,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173000,
+      "num": 173000,
+      "word": "外交部回应华为中芯国际进台湾实体名单",
+      "onboard_time": 1750151062,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172947,
       "num": 166009,
       "word": "秦彻一周年来看秦天柱",
@@ -1113,14 +1193,6 @@
       "onboard_time": 1750135943,
       "rank": 41,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 172269,
-      "num": 172269,
-      "word": "医院缴费必须先帮工作人员扫码砍价",
-      "onboard_time": 1750146441,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171825,
@@ -1211,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162815,
+      "num": 336190,
+      "word": "翘楚",
+      "onboard_time": 1750150882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161979,
       "num": 161979,
       "word": "许嵩演唱会杭州双场官宣",
@@ -1275,14 +1355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156729,
-      "num": 156729,
-      "word": "刘浩存终于换掉了微商头像",
-      "onboard_time": 1750149982,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155887,
       "num": 155887,
       "word": "虚拟男团Vexel出道",
@@ -1305,6 +1377,14 @@
       "onboard_time": 1750138700,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151602,
+      "num": 151602,
+      "word": "夏季赛第二周最佳阵容公布",
+      "onboard_time": 1750151001,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 150805,
@@ -1369,6 +1449,14 @@
       "onboard_time": 1750087101,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146020,
+      "num": 146020,
+      "word": "你们短剧特效是要考研吗",
+      "onboard_time": 1750152082,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 145423,
@@ -1440,14 +1528,6 @@
       "word": "张译一年奖励自己一部正剧",
       "onboard_time": 1750141281,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 140385,
-      "num": 156954,
-      "word": "临江仙破万 奇迹的诞生",
-      "onboard_time": 1750150103,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1739,6 +1819,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 111290,
+      "num": 364040,
+      "word": "烟花厂爆炸女员工复原逃命过程",
+      "onboard_time": 1750150882,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 108122,
+      "num": 108122,
+      "word": "临江仙",
+      "onboard_time": 1750152501,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107200,
       "num": 173301,
       "word": "王一博干一行行一行",
@@ -1747,12 +1843,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106669,
+      "num": 106669,
+      "word": "印度空难幸存者从滚滚黑烟中走出",
+      "onboard_time": 1750151843,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 106001,
+      "num": 106001,
+      "word": "唐国强 常驻王牌",
+      "onboard_time": 1750152262,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105401,
       "num": 189164,
       "word": "鹿晗青岛演唱会门票30秒售罄",
       "onboard_time": 1750128980,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105256,
+      "num": 105256,
+      "word": "林更新拆穿3大电诈骗局",
+      "onboard_time": 1750151482,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 104682,
@@ -2025,6 +2145,14 @@
       "onboard_time": 1750091838,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76579,
+      "num": 403169,
+      "word": "京东618晚会",
+      "onboard_time": 1750150940,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 75815,
@@ -2363,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39293,
+      "num": 433083,
+      "word": "男子入狱8年改判无罪悬赏50万追凶",
+      "onboard_time": 1750151422,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39199,
       "num": 244501,
       "word": "爆炸烟花厂有厂房只剩下钢铁框架",
@@ -2419,6 +2555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33433,
+      "num": 428817,
+      "word": "我国跨境电商交出亮眼成绩单",
+      "onboard_time": 1750151121,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 32955,
+      "num": 779205,
+      "word": "中国经济高质量发展向优向新",
+      "onboard_time": 1750151361,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32898,
       "num": 687900,
       "word": "一组数据看中国经济稳中有进",
@@ -2433,6 +2585,14 @@
       "onboard_time": 1750126280,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31926,
+      "num": 325118,
+      "word": "特朗普称把俄罗斯赶出G8是错误",
+      "onboard_time": 1750150882,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31882,
@@ -2627,6 +2787,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 13953,
+      "num": 330895,
+      "word": "福建舰和其他航母有什么不同",
+      "onboard_time": 1750150882,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12913,
       "num": 521568,
       "word": "中国方案让盐碱地破碱重生",
@@ -2684,6 +2852,9 @@
     },
     {
       "word": "#坚定不移巩固中哈友好#"
+    },
+    {
+      "word": "#习近平会见吉尔吉斯斯坦总统#"
     }
   ]
 }
