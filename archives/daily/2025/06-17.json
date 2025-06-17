@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750146133528,
+  "endTime": 1750149319064,
   "band_list": [
     {
       "raw_hot": 2600623,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1724117,
-      "num": 298883,
+      "num": 488723,
       "word": "朱丹让女儿留级",
       "onboard_time": 1750143980,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1335353,
-      "num": 457801,
+      "num": 479540,
       "word": "王安宇QQ号",
       "onboard_time": 1750133783,
       "rank": 11,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1083708,
-      "num": 292417,
+      "num": 320990,
       "word": "朱丹 重男轻女",
       "onboard_time": 1750144581,
       "rank": 15,
@@ -91,6 +91,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 923945,
+      "num": 1147831,
+      "word": "暴力熊 Labubu",
+      "onboard_time": 1750144700,
+      "rank": 34,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 907175,
       "num": 907175,
       "word": "伊朗是否已完全丧失制空权",
@@ -113,6 +121,14 @@
       "onboard_time": 1750135463,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 869721,
+      "num": 869721,
+      "word": "女子以为绝经喝中药不知竟怀孕17周",
+      "onboard_time": 1750146321,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 861801,
@@ -163,6 +179,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 739729,
+      "num": 739729,
+      "word": "彩票未中奖男子偷11张刮刮乐想回本",
+      "onboard_time": 1750143861,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 733921,
+      "num": 483493,
+      "word": "徐佳莹粉丝因为嘉宾退票",
+      "onboard_time": 1750148002,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 720281,
       "num": 720281,
       "word": "以军说打死伊朗最高军事指挥官",
@@ -187,6 +219,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 694054,
+      "num": 694054,
+      "word": "中国组织撤离以色列伊朗的中国公民",
+      "onboard_time": 1750147522,
+      "rank": 4,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 662929,
       "num": 662929,
       "word": "间谍用word套取我国敏感数据",
@@ -196,7 +236,7 @@
     },
     {
       "raw_hot": 649176,
-      "num": 338159,
+      "num": 436115,
       "word": "能不能不要往衣服上印minmin",
       "onboard_time": 1750138881,
       "rank": 37,
@@ -268,7 +308,7 @@
     },
     {
       "raw_hot": 516414,
-      "num": 291525,
+      "num": 475173,
       "word": "沈腾婚礼旧照",
       "onboard_time": 1750144281,
       "rank": 16,
@@ -289,6 +329,14 @@
       "onboard_time": 1750132702,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494237,
+      "num": 494237,
+      "word": "这个长相的都爆红了",
+      "onboard_time": 1750145960,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 488721,
@@ -320,6 +368,14 @@
       "word": "向佐儿子近照曝光",
       "onboard_time": 1750138402,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 456651,
+      "num": 319450,
+      "word": "能不能禁止刘亦菲和人打招呼",
+      "onboard_time": 1750147940,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -369,14 +425,6 @@
       "onboard_time": 1750087941,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 400410,
-      "num": 400410,
-      "word": "暴力熊 Labubu",
-      "onboard_time": 1750144700,
-      "rank": 34,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 392947,
@@ -451,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 346648,
+      "num": 494024,
+      "word": "轧戏",
+      "onboard_time": 1750144881,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 338439,
       "num": 338439,
       "word": "锦绣芳华书卷一梦对打",
@@ -523,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307644,
+      "num": 307644,
+      "word": "恋与深空登顶",
+      "onboard_time": 1750126039,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301485,
       "num": 235289,
       "word": "宁静 你是不是特别爱男孩",
@@ -545,6 +609,14 @@
       "onboard_time": 1750118779,
       "rank": 15,
       "category": "互联网,幽默"
+    },
+    {
+      "raw_hot": 296327,
+      "num": 296327,
+      "word": "日本男子杀女网友分尸头盖骨藏家7年",
+      "onboard_time": 1750147400,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 295563,
@@ -667,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241047,
+      "num": 241047,
+      "word": "伊朗首都街头空无一人",
+      "onboard_time": 1750146561,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 240747,
       "num": 538436,
       "word": "救护车转运重病孩子800公里收2.8万",
@@ -683,6 +763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 236767,
+      "num": 236767,
+      "word": "陈都灵手臂",
+      "onboard_time": 1750148061,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234135,
       "num": 234135,
       "word": "易烊千玺FIRST主竞赛评委",
@@ -691,12 +779,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 230554,
-      "num": 230554,
-      "word": "恋与深空登顶",
-      "onboard_time": 1750126039,
-      "rank": 20,
-      "category": "游戏"
+      "raw_hot": 231657,
+      "num": 231657,
+      "word": "印度空难幸存者走出火场最新画面",
+      "onboard_time": 1750147641,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 230267,
@@ -739,20 +827,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222978,
-      "num": 222978,
-      "word": "彩票未中奖男子偷11张刮刮乐想回本",
-      "onboard_time": 1750143861,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222386,
       "num": 288126,
       "word": "喝了三杯才敢和刘亦菲说话",
       "onboard_time": 1750080560,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221646,
+      "num": 221646,
+      "word": "男子称婚后不交工资每周都被媳妇打",
+      "onboard_time": 1750148662,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215219,
@@ -784,14 +872,6 @@
       "word": "雁回时 短剧",
       "onboard_time": 1750133423,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205806,
-      "num": 205806,
-      "word": "轧戏",
-      "onboard_time": 1750144881,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -859,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190251,
+      "num": 190251,
+      "word": "翘楚首发角色海报",
+      "onboard_time": 1750148962,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189895,
       "num": 189895,
       "word": "白鹿曾舜晞 接二搭",
@@ -923,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180558,
+      "num": 180558,
+      "word": "赛百味减肥",
+      "onboard_time": 1750147040,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180459,
       "num": 218123,
       "word": "韩庚演唱会",
@@ -984,6 +1080,14 @@
       "word": "万妮达 唯一女导师的含金量",
       "onboard_time": 1750137561,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173256,
+      "num": 186392,
+      "word": "单依纯被起哄 周迅说不用跳",
+      "onboard_time": 1750148601,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -1083,6 +1187,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165496,
+      "num": 186364,
+      "word": "那尔那茜高考当年曾查处违规考生",
+      "onboard_time": 1750147701,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162166,
+      "num": 162166,
+      "word": "医院缴费必须先帮工作人员扫码砍价",
+      "onboard_time": 1750146441,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161979,
       "num": 161979,
       "word": "许嵩演唱会杭州双场官宣",
@@ -1097,6 +1217,14 @@
       "onboard_time": 1750144521,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159900,
+      "num": 164310,
+      "word": "文泰一公审直播",
+      "onboard_time": 1750147822,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 159831,
@@ -1121,6 +1249,14 @@
       "onboard_time": 1750138944,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157211,
+      "num": 157211,
+      "word": "海关查获泡泡玛特玩偶144个",
+      "onboard_time": 1750147582,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155887,
@@ -1251,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142181,
+      "num": 142181,
+      "word": "蔡天凤碎尸案两被告被判有罪",
+      "onboard_time": 1750147641,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141303,
       "num": 141303,
       "word": "樊振东的乒超vlog",
@@ -1299,12 +1443,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 138432,
-      "num": 138432,
-      "word": "这个长相的都爆红了",
-      "onboard_time": 1750145960,
-      "rank": 45,
-      "category": "动漫"
+      "raw_hot": 138620,
+      "num": 138620,
+      "word": "黄子韬 比巴掌先来的是她的香风",
+      "onboard_time": 1750146081,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 137047,
@@ -1369,14 +1513,6 @@
       "onboard_time": 1750089080,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130092,
-      "num": 130092,
-      "word": "黄子韬 比巴掌先来的是她的香风",
-      "onboard_time": 1750146081,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 129185,
@@ -1707,6 +1843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90592,
+      "num": 175005,
+      "word": "朋友圈怎么点赞不尴尬",
+      "onboard_time": 1750149142,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86383,
       "num": 86383,
       "word": "健身房里的安全感",
@@ -1761,6 +1905,14 @@
       "onboard_time": 1750093457,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82640,
+      "num": 165145,
+      "word": "上海乐高乐园被吐槽游戏项目低幼",
+      "onboard_time": 1750147341,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82526,
@@ -1947,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68612,
+      "num": 164579,
+      "word": "孙佳俊夺金后的朋友圈",
+      "onboard_time": 1750148601,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66622,
       "num": 173555,
       "word": "张玉奎院士谈生化环材专业前景",
@@ -2107,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49422,
+      "num": 164365,
+      "word": "用人单位连环外包隐蔽劳动关系",
+      "onboard_time": 1750147280,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47259,
       "num": 47259,
       "word": "酱园弄",
@@ -2185,6 +2353,14 @@
       "onboard_time": 1750095196,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 35289,
+      "num": 164674,
+      "word": "层层加码的禁酒禁餐令",
+      "onboard_time": 1750148540,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35282,

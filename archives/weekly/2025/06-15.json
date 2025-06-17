@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750146133528,
+  "endTime": 1750149319064,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1724117,
-      "num": 298883,
+      "num": 488723,
       "word": "朱丹让女儿留级",
       "onboard_time": 1750143980,
       "rank": 10,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1335353,
-      "num": 457801,
+      "num": 479540,
       "word": "王安宇QQ号",
       "onboard_time": 1750133783,
       "rank": 11,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1083708,
-      "num": 292417,
+      "num": 320990,
       "word": "朱丹 重男轻女",
       "onboard_time": 1750144581,
       "rank": 15,
@@ -371,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 923945,
+      "num": 1147831,
+      "word": "暴力熊 Labubu",
+      "onboard_time": 1750144700,
+      "rank": 34,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 911926,
       "num": 911926,
       "word": "徐州绝杀镇江",
@@ -433,6 +441,14 @@
       "onboard_time": 1749986000,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 869721,
+      "num": 869721,
+      "word": "女子以为绝经喝中药不知竟怀孕17周",
+      "onboard_time": 1750146321,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 863879,
@@ -587,12 +603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 739729,
+      "num": 739729,
+      "word": "彩票未中奖男子偷11张刮刮乐想回本",
+      "onboard_time": 1750143861,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 737267,
       "num": 737267,
       "word": "豆包p图",
       "onboard_time": 1750046542,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 733921,
+      "num": 483493,
+      "word": "徐佳莹粉丝因为嘉宾退票",
+      "onboard_time": 1750148002,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 731514,
@@ -699,6 +731,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 694054,
+      "num": 694054,
+      "word": "中国组织撤离以色列伊朗的中国公民",
+      "onboard_time": 1750147522,
+      "rank": 4,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 693922,
       "num": 356478,
       "word": "刘耀文",
@@ -772,7 +812,7 @@
     },
     {
       "raw_hot": 649176,
-      "num": 338159,
+      "num": 436115,
       "word": "能不能不要往衣服上印minmin",
       "onboard_time": 1750138881,
       "rank": 37,
@@ -1140,7 +1180,7 @@
     },
     {
       "raw_hot": 516414,
-      "num": 291525,
+      "num": 475173,
       "word": "沈腾婚礼旧照",
       "onboard_time": 1750144281,
       "rank": 16,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1750048101,
       "rank": 33,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 494237,
+      "num": 494237,
+      "word": "这个长相的都爆红了",
+      "onboard_time": 1750145960,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 490889,
@@ -1336,6 +1384,14 @@
       "word": "向佐儿子近照曝光",
       "onboard_time": 1750138402,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 456651,
+      "num": 319450,
+      "word": "能不能禁止刘亦菲和人打招呼",
+      "onboard_time": 1750147940,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1579,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 400410,
-      "num": 400410,
-      "word": "暴力熊 Labubu",
-      "onboard_time": 1750144700,
-      "rank": 34,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 400233,
       "num": 400233,
       "word": "波尔从孔令辉打到王楚钦",
@@ -1825,6 +1873,14 @@
       "onboard_time": 1750047982,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346648,
+      "num": 494024,
+      "word": "轧戏",
+      "onboard_time": 1750144881,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 346623,
@@ -2067,6 +2123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 307644,
+      "num": 307644,
+      "word": "恋与深空登顶",
+      "onboard_time": 1750126039,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307543,
       "num": 307543,
       "word": "王楚钦爸爸谈儿子从小的心愿",
@@ -2137,6 +2201,14 @@
       "onboard_time": 1749996682,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296327,
+      "num": 296327,
+      "word": "日本男子杀女网友分尸头盖骨藏家7年",
+      "onboard_time": 1750147400,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 295563,
@@ -2707,6 +2779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241047,
+      "num": 241047,
+      "word": "伊朗首都街头空无一人",
+      "onboard_time": 1750146561,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241009,
       "num": 204205,
       "word": "邓紫棋再唱句号终于释然",
@@ -2763,6 +2843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 236767,
+      "num": 236767,
+      "word": "陈都灵手臂",
+      "onboard_time": 1750148061,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234842,
       "num": 290881,
       "word": "杨妞花寻亲故事将影视化",
@@ -2811,6 +2899,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 231657,
+      "num": 231657,
+      "word": "印度空难幸存者走出火场最新画面",
+      "onboard_time": 1750147641,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 231525,
       "num": 295873,
       "word": "严浩翔贺峻霖共脑",
@@ -2825,14 +2921,6 @@
       "onboard_time": 1750065921,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230554,
-      "num": 230554,
-      "word": "恋与深空登顶",
-      "onboard_time": 1750126039,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 230449,
@@ -2963,14 +3051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222978,
-      "num": 222978,
-      "word": "彩票未中奖男子偷11张刮刮乐想回本",
-      "onboard_time": 1750143861,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222605,
       "num": 272161,
       "word": "smart米奇限定艺术车亮相魔都",
@@ -2993,6 +3073,14 @@
       "onboard_time": 1749999982,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221646,
+      "num": 221646,
+      "word": "男子称婚后不交工资每周都被媳妇打",
+      "onboard_time": 1750148662,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219684,
@@ -3233,14 +3321,6 @@
       "onboard_time": 1750078402,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 205806,
-      "num": 205806,
-      "word": "轧戏",
-      "onboard_time": 1750144881,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 205381,
@@ -3643,6 +3723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190251,
+      "num": 190251,
+      "word": "翘楚首发角色海报",
+      "onboard_time": 1750148962,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189984,
       "num": 189984,
       "word": "沪上阿姨 鞠婧祎",
@@ -3923,6 +4011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180558,
+      "num": 180558,
+      "word": "赛百味减肥",
+      "onboard_time": 1750147040,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180459,
       "num": 218123,
       "word": "韩庚演唱会",
@@ -4168,6 +4264,14 @@
       "word": "万妮达 唯一女导师的含金量",
       "onboard_time": 1750137561,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173256,
+      "num": 186392,
+      "word": "单依纯被起哄 周迅说不用跳",
+      "onboard_time": 1750148601,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -4523,6 +4627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165496,
+      "num": 186364,
+      "word": "那尔那茜高考当年曾查处违规考生",
+      "onboard_time": 1750147701,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164363,
       "num": 164363,
       "word": "樊振东点赞波尔",
@@ -4619,6 +4731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162166,
+      "num": 162166,
+      "word": "医院缴费必须先帮工作人员扫码砍价",
+      "onboard_time": 1750146441,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162101,
       "num": 162101,
       "word": "终于有人把冰箱归纳说清楚了",
@@ -4681,6 +4801,14 @@
       "onboard_time": 1750053861,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159900,
+      "num": 164310,
+      "word": "文泰一公审直播",
+      "onboard_time": 1750147822,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 159831,
@@ -4809,6 +4937,14 @@
       "onboard_time": 1750081581,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157211,
+      "num": 157211,
+      "word": "海关查获泡泡玛特玩偶144个",
+      "onboard_time": 1750147582,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157198,
@@ -5307,6 +5443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142181,
+      "num": 142181,
+      "word": "蔡天凤碎尸案两被告被判有罪",
+      "onboard_time": 1750147641,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141478,
       "num": 141478,
       "word": "无畏进京了",
@@ -5467,20 +5611,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138620,
+      "num": 138620,
+      "word": "黄子韬 比巴掌先来的是她的香风",
+      "onboard_time": 1750146081,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138548,
       "num": 137220,
       "word": "时间之子偏偏你最争气",
       "onboard_time": 1749962661,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138432,
-      "num": 138432,
-      "word": "这个长相的都爆红了",
-      "onboard_time": 1750145960,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 138400,
@@ -5927,14 +6071,6 @@
       "num": 130275,
       "word": "郁可唯一辈子都在证明给父亲看",
       "onboard_time": 1749986000,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 130092,
-      "num": 130092,
-      "word": "黄子韬 比巴掌先来的是她的香风",
-      "onboard_time": 1750146081,
       "rank": 48,
       "category": "艺人"
     },
@@ -7635,6 +7771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90592,
+      "num": 175005,
+      "word": "朋友圈怎么点赞不尴尬",
+      "onboard_time": 1750149142,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90284,
       "num": 133266,
       "word": "关于我拍了十五年女友这件事",
@@ -7825,6 +7969,14 @@
       "onboard_time": 1750093457,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82640,
+      "num": 165145,
+      "word": "上海乐高乐园被吐槽游戏项目低幼",
+      "onboard_time": 1750147341,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82513,
@@ -8161,6 +8313,14 @@
       "onboard_time": 1749959961,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68612,
+      "num": 164579,
+      "word": "孙佳俊夺金后的朋友圈",
+      "onboard_time": 1750148601,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 68193,
@@ -8635,6 +8795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49422,
+      "num": 164365,
+      "word": "用人单位连环外包隐蔽劳动关系",
+      "onboard_time": 1750147280,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49376,
       "num": 167314,
       "word": "金毛治病花六千保险只报一千五",
@@ -9104,6 +9272,14 @@
       "word": "11岁男孩心愿是给病父买导尿管",
       "onboard_time": 1750061419,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35289,
+      "num": 164674,
+      "word": "层层加码的禁酒禁餐令",
+      "onboard_time": 1750148540,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
