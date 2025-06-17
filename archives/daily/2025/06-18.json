@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750181047858,
+  "endTime": 1750182208354,
   "band_list": [
     {
       "raw_hot": 1342324,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98568,
+      "num": 98568,
+      "word": "登陆少年时装周首秀",
+      "onboard_time": 1750181357,
+      "rank": 20,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 96313,
       "num": 96313,
       "word": "白鹿曾舜晞临江仙破万惊喜vlog",
@@ -347,19 +355,19 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 71774,
+      "num": 99320,
+      "word": "快递盒印小狗快递员配送让快递员不适",
+      "onboard_time": 1750159221,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71698,
       "num": 71698,
       "word": "相差14岁小男友提分手起诉女方还钱",
       "onboard_time": 1750161980,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70114,
-      "num": 99320,
-      "word": "快递盒印小狗快递员配送让快递员不适",
-      "onboard_time": 1750159221,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -427,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54308,
+      "num": 64545,
+      "word": "索尼英雌",
+      "onboard_time": 1750178958,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 53837,
       "num": 149564,
       "word": "网络现浓缩营养餐卖家称可替代正餐",
@@ -435,15 +451,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48707,
-      "num": 64545,
-      "word": "索尼英雌",
-      "onboard_time": 1750178958,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 42217,
+      "raw_hot": 43043,
       "num": 55035,
       "word": "女子称劝导不文明观影反被扇巴掌",
       "onboard_time": 1750179858,
@@ -451,12 +459,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27237,
+      "raw_hot": 41332,
       "num": 121328,
       "word": "歌手官宣麦可布雷袭榜",
       "onboard_time": 1750180277,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34732,
+      "num": 119526,
+      "word": "以法律形式将世代友好原则固定下来",
+      "onboard_time": 1750181177,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33597,
+      "num": 41322,
+      "word": "王俊凯杭州万象城活动",
+      "onboard_time": 1750182018,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 3450,
