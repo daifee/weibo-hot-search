@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750152574142,
+  "endTime": 1750153437729,
   "band_list": [
     {
       "raw_hot": 2600623,
@@ -35,7 +35,7 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 1395454,
+      "raw_hot": 1429899,
       "num": 1046804,
       "word": "黄子韬卫生巾 黑色异物",
       "onboard_time": 1750151001,
@@ -251,20 +251,20 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 674091,
+      "num": 1107854,
+      "word": "印度空难幸存者走出火场最新画面",
+      "onboard_time": 1750147641,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 662929,
       "num": 662929,
       "word": "间谍用word套取我国敏感数据",
       "onboard_time": 1750118060,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 655527,
-      "num": 1104884,
-      "word": "印度空难幸存者走出火场最新画面",
-      "onboard_time": 1750147641,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 649176,
@@ -289,6 +289,14 @@
       "onboard_time": 1750131801,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 636549,
+      "num": 360311,
+      "word": "徐佳莹 薛之谦",
+      "onboard_time": 1750151242,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 624785,
@@ -387,20 +395,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 484075,
+      "num": 484075,
+      "word": "伊朗导弹雨",
+      "onboard_time": 1750150940,
+      "rank": 22,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 477747,
       "num": 477747,
       "word": "iPhone 直板夹",
       "onboard_time": 1750134262,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 467822,
-      "num": 360311,
-      "word": "徐佳莹 薛之谦",
-      "onboard_time": 1750151242,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 465349,
@@ -545,14 +553,6 @@
       "onboard_time": 1750131623,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357319,
-      "num": 357319,
-      "word": "伊朗导弹雨",
-      "onboard_time": 1750150940,
-      "rank": 22,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 357047,
@@ -707,6 +707,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 291638,
+      "num": 291638,
+      "word": "恋与深空日卡2.0总榜登顶",
+      "onboard_time": 1750153101,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 287936,
       "num": 446021,
       "word": "沉浸式感受福建舰要冲出屏幕了",
@@ -739,6 +747,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 284518,
+      "num": 396199,
+      "word": "蔡天凤碎尸案两被告被判有罪",
+      "onboard_time": 1750147641,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283861,
       "num": 388597,
       "word": "写一剪梅的爷爷去了音乐天堂",
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 282764,
-      "num": 282764,
+      "num": 295185,
       "word": "李佳琦说没必要加钱买LABUBU",
       "onboard_time": 1750137862,
       "rank": 48,
@@ -1011,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194183,
+      "num": 194183,
+      "word": "撤侨",
+      "onboard_time": 1750153101,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193979,
       "num": 193979,
       "word": "销冠到哪里都是销冠",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1750119261,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 183294,
-      "num": 396199,
-      "word": "蔡天凤碎尸案两被告被判有罪",
-      "onboard_time": 1750147641,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183094,
@@ -1395,6 +1411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150431,
+      "num": 150431,
+      "word": "朱一龙体脂率不到10%",
+      "onboard_time": 1750152801,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149423,
       "num": 149423,
       "word": "巴黎航展将以色列武器一整个拉黑",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1750149801,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143591,
+      "num": 143591,
+      "word": "印度空难幸存者从滚滚黑烟中走出",
+      "onboard_time": 1750151843,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142991,
@@ -1699,6 +1731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 121598,
+      "num": 121598,
+      "word": "油价",
+      "onboard_time": 1750153041,
+      "rank": 47,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 121136,
       "num": 121136,
       "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1750119920,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115895,
+      "num": 115895,
+      "word": "海关查获20240个侵权Labubu",
+      "onboard_time": 1750152981,
+      "rank": 49,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 115447,
@@ -1843,14 +1891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 106669,
-      "num": 106669,
-      "word": "印度空难幸存者从滚滚黑烟中走出",
-      "onboard_time": 1750151843,
-      "rank": 47,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 106001,
       "num": 106001,
       "word": "唐国强 常驻王牌",
@@ -1923,6 +1963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100267,
+      "num": 136807,
+      "word": "汪顺行走的荷尔蒙画报",
+      "onboard_time": 1750153220,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99954,
       "num": 99954,
       "word": "以媒说以军证实打击伊朗电视台大楼",
@@ -1969,6 +2017,14 @@
       "onboard_time": 1750118060,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95646,
+      "num": 298139,
+      "word": "伊朗再次称击落F35战机",
+      "onboard_time": 1750152622,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95064,
@@ -2323,6 +2379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62752,
+      "num": 433083,
+      "word": "男子入狱8年改判无罪悬赏50万追凶",
+      "onboard_time": 1750151422,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62373,
       "num": 62373,
       "word": "特朗普为何难逃与伊朗的冲突",
@@ -2353,6 +2417,14 @@
       "onboard_time": 1750085422,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 55039,
+      "num": 153912,
+      "word": "普通人在日本住院真实感受",
+      "onboard_time": 1750152921,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54570,
@@ -2491,20 +2563,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39293,
-      "num": 433083,
-      "word": "男子入狱8年改判无罪悬赏50万追凶",
-      "onboard_time": 1750151422,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39199,
       "num": 244501,
       "word": "爆炸烟花厂有厂房只剩下钢铁框架",
       "onboard_time": 1750145600,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 39162,
+      "num": 294201,
+      "word": "211教授称选专业优先考虑擅长的",
+      "onboard_time": 1750152742,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 38654,
+      "num": 284726,
+      "word": "五角大楼或在疯狂加班中",
+      "onboard_time": 1750152742,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38063,
+      "num": 779205,
+      "word": "中国经济高质量发展向优向新",
+      "onboard_time": 1750151361,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37347,
@@ -2560,14 +2648,6 @@
       "word": "我国跨境电商交出亮眼成绩单",
       "onboard_time": 1750151121,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 32955,
-      "num": 779205,
-      "word": "中国经济高质量发展向优向新",
-      "onboard_time": 1750151361,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -2705,6 +2785,22 @@
       "onboard_time": 1750098675,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21863,
+      "num": 284937,
+      "word": "误食荔枝蒂中的虫子怎么办",
+      "onboard_time": 1750152680,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21571,
+      "num": 158154,
+      "word": "星穹铁道海瑟音",
+      "onboard_time": 1750149381,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 21201,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1750153437729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 674091,
+        "num": 1107854,
+        "word": "印度空难幸存者走出火场最新画面",
+        "onboard_time": 1750147641,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 517698,
+        "num": 517698,
+        "word": "暴力熊 Labubu",
+        "onboard_time": 1750144700,
+        "rank": 1,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 38063,
+        "num": 494565,
+        "word": "中国经济高质量发展向优向新",
+        "onboard_time": 1750151361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1429899,
+        "num": 493283,
+        "word": "黄子韬卫生巾 黑色异物",
+        "onboard_time": 1750151001,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484075,
+        "num": 484075,
+        "word": "伊朗导弹雨",
+        "onboard_time": 1750150940,
+        "rank": 4,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 474270,
+        "num": 474270,
+        "word": "陈彼得去世",
+        "onboard_time": 1750130960,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470631,
+        "num": 470631,
+        "word": "中国组织撤离以色列伊朗的中国公民",
+        "onboard_time": 1750147522,
+        "rank": 6,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 407223,
+        "num": 407223,
+        "word": "临江仙破万 奇迹的诞生",
+        "onboard_time": 1750150103,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357172,
+        "num": 357172,
+        "word": "这个长相的都爆红了",
+        "onboard_time": 1750145960,
+        "rank": 8,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 314557,
+        "num": 314557,
+        "word": "吴艳妮长得好看的人里跑的最快的",
+        "onboard_time": 1750150461,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301353,
+        "num": 301353,
+        "word": "医院缴费必须先帮工作人员扫码砍价",
+        "onboard_time": 1750146441,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1113736,
+        "num": 300678,
+        "word": "刘浩存终于换掉了微商头像",
+        "onboard_time": 1750149982,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794566,
+        "num": 300440,
+        "word": "能不能禁止刘亦菲和人打招呼",
+        "onboard_time": 1750147940,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694140,
+        "num": 299440,
+        "word": "朱丹让女儿留级",
+        "onboard_time": 1750143980,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95646,
+        "num": 298139,
+        "word": "伊朗再次称击落F35战机",
+        "onboard_time": 1750152622,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73249,
+        "num": 297779,
+        "word": "京东618晚会",
+        "onboard_time": 1750150940,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 636549,
+        "num": 296140,
+        "word": "徐佳莹 薛之谦",
+        "onboard_time": 1750151242,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73362,
+        "num": 295185,
+        "word": "李佳琦说没必要加钱买LABUBU",
+        "onboard_time": 1750137862,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543597,
+        "num": 294930,
+        "word": "男子称婚后不交工资每周都被媳妇打",
+        "onboard_time": 1750148662,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39162,
+        "num": 294201,
+        "word": "211教授称选专业优先考虑擅长的",
+        "onboard_time": 1750152742,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 375627,
+        "num": 293049,
+        "word": "女子以为绝经喝中药不知竟怀孕17周",
+        "onboard_time": 1750146321,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442817,
+        "num": 292344,
+        "word": "徐佳莹粉丝因为嘉宾退票",
+        "onboard_time": 1750148002,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291638,
+        "num": 291638,
+        "word": "恋与深空日卡2.0总榜登顶",
+        "onboard_time": 1750153101,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285632,
+        "num": 285632,
+        "word": "朱丹 重男轻女",
+        "onboard_time": 1750144581,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169291,
+        "num": 285533,
+        "word": "周翊然情商",
+        "onboard_time": 1750151301,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149334,
+        "num": 285432,
+        "word": "人民日报谈单依纯改编歌曲李白",
+        "onboard_time": 1750137561,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148915,
+        "num": 285171,
+        "word": "翘楚",
+        "onboard_time": 1750150882,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147717,
+        "num": 285007,
+        "word": "彭昱畅怎么瘦成这样了",
+        "onboard_time": 1750135463,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21863,
+        "num": 284937,
+        "word": "误食荔枝蒂中的虫子怎么办",
+        "onboard_time": 1750152680,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38654,
+        "num": 284726,
+        "word": "五角大楼或在疯狂加班中",
+        "onboard_time": 1750152742,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62752,
+        "num": 284658,
+        "word": "男子入狱8年改判无罪悬赏50万追凶",
+        "onboard_time": 1750151422,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284518,
+        "num": 284518,
+        "word": "蔡天凤碎尸案两被告被判有罪",
+        "onboard_time": 1750147641,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218436,
+        "num": 218436,
+        "word": "王安宇QQ号",
+        "onboard_time": 1750133783,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215529,
+        "num": 215529,
+        "word": "全国高温Top3被川渝包揽",
+        "onboard_time": 1750151001,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197911,
+        "num": 197911,
+        "word": "以军说打死伊朗最高军事指挥官",
+        "onboard_time": 1750143803,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194183,
+        "num": 194183,
+        "word": "撤侨",
+        "onboard_time": 1750153101,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178715,
+        "num": 178715,
+        "word": "日本男子杀女网友分尸头盖骨藏家7年",
+        "onboard_time": 1750147400,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21571,
+        "num": 158154,
+        "word": "星穹铁道海瑟音",
+        "onboard_time": 1750149381,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55039,
+        "num": 153912,
+        "word": "普通人在日本住院真实感受",
+        "onboard_time": 1750152921,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152298,
+        "num": 152298,
+        "word": "赛百味减肥",
+        "onboard_time": 1750147040,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150431,
+        "num": 150431,
+        "word": "朱一龙体脂率不到10%",
+        "onboard_time": 1750152801,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143591,
+        "num": 143591,
+        "word": "印度空难幸存者从滚滚黑烟中走出",
+        "onboard_time": 1750151843,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141243,
+        "num": 141243,
+        "word": "外交部回应华为中芯国际进台湾实体名单",
+        "onboard_time": 1750151062,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100267,
+        "num": 136807,
+        "word": "汪顺行走的荷尔蒙画报",
+        "onboard_time": 1750153220,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134494,
+        "num": 134494,
+        "word": "沈腾婚礼旧照",
+        "onboard_time": 1750144281,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127469,
+        "num": 127469,
+        "word": "陈都灵手臂",
+        "onboard_time": 1750148061,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123115,
+        "num": 123115,
+        "word": "彩票未中奖男子偷11张刮刮乐想回本",
+        "onboard_time": 1750143861,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121598,
+        "num": 121598,
+        "word": "油价",
+        "onboard_time": 1750153041,
+        "rank": 47,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 120826,
+        "num": 120826,
+        "word": "伊朗首都街头空无一人",
+        "onboard_time": 1750146561,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115895,
+        "num": 115895,
+        "word": "海关查获20240个侵权Labubu",
+        "onboard_time": 1750152981,
+        "rank": 49,
+        "category": "民生新闻,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见吉尔吉斯斯坦总统#"
+    }
+  }
+}
