@@ -1,0 +1,410 @@
+{
+  "runTime": 1750145160901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1020626,
+        "num": 1163300,
+        "word": "人民日报谈单依纯改编歌曲李白",
+        "onboard_time": 1750137561,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697635,
+        "num": 697635,
+        "word": "无牙仔 Labubu",
+        "onboard_time": 1750141102,
+        "rank": 1,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 32172,
+        "num": 446455,
+        "word": "中国人一锹一锹种出的绿色未来",
+        "onboard_time": 1750131623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 803304,
+        "num": 445968,
+        "word": "陈彼得去世",
+        "onboard_time": 1750130960,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445098,
+        "num": 445098,
+        "word": "湖南烟花厂爆炸已致9死26伤",
+        "onboard_time": 1750137921,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 434203,
+        "num": 434203,
+        "word": "12岁误吞牙刷不敢告诉家人64岁才取出",
+        "onboard_time": 1750141641,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480487,
+        "num": 430943,
+        "word": "彭昱畅怎么瘦成这样了",
+        "onboard_time": 1750135463,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425839,
+        "num": 425839,
+        "word": "以军说打死伊朗最高军事指挥官",
+        "onboard_time": 1750143803,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316294,
+        "num": 316294,
+        "word": "我国载人登月又有新突破",
+        "onboard_time": 1750141521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299149,
+        "num": 299149,
+        "word": "第一次见脂包骨的身材",
+        "onboard_time": 1750130361,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1172139,
+        "num": 298883,
+        "word": "朱丹让女儿留级",
+        "onboard_time": 1750143980,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695683,
+        "num": 297524,
+        "word": "王安宇QQ号",
+        "onboard_time": 1750133783,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619993,
+        "num": 295416,
+        "word": "能不能不要往衣服上印minmin",
+        "onboard_time": 1750138881,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 484682,
+        "num": 295038,
+        "word": "那尔那茜哥哥 数学10分",
+        "onboard_time": 1750135103,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85625,
+        "num": 293685,
+        "word": "90后女子花双倍钱报老年大学",
+        "onboard_time": 1750143680,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602002,
+        "num": 292417,
+        "word": "朱丹 重男轻女",
+        "onboard_time": 1750144581,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291525,
+        "num": 291525,
+        "word": "沈腾婚礼旧照",
+        "onboard_time": 1750144281,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262025,
+        "num": 262025,
+        "word": "1w奖学金到账后我们家的资金流动",
+        "onboard_time": 1750125621,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169650,
+        "num": 241398,
+        "word": "曾舜晞老公的容貌妻子的荣耀",
+        "onboard_time": 1750143321,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236215,
+        "num": 236215,
+        "word": "印度坠机事故第二个11A奇迹",
+        "onboard_time": 1750136483,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 338304,
+        "num": 236212,
+        "word": "规培生全麻插管致患者死亡",
+        "onboard_time": 1750129940,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236208,
+        "num": 236208,
+        "word": "女子常年为全家做饭确诊肺癌",
+        "onboard_time": 1750142241,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107548,
+        "num": 232022,
+        "word": "天猫618没套路真5折",
+        "onboard_time": 1750144041,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229205,
+        "num": 229205,
+        "word": "中国乘客飞机上拍下伊朗导弹袭以",
+        "onboard_time": 1750136662,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 218930,
+        "num": 218930,
+        "word": "宁静 你是不是特别爱男孩",
+        "onboard_time": 1750144221,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216307,
+        "num": 216307,
+        "word": "深圳一房屋沉降已封控25栋",
+        "onboard_time": 1750136483,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 198840,
+        "num": 198840,
+        "word": "鹿晗送labubu",
+        "onboard_time": 1750131801,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174620,
+        "num": 197725,
+        "word": "柜姐向陈哲远道歉",
+        "onboard_time": 1750131982,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167729,
+        "num": 197229,
+        "word": "李佳琦说没必要加钱买LABUBU",
+        "onboard_time": 1750137862,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64166,
+        "num": 196945,
+        "word": "免费送鸡蛋骗老人高价购买三无寿衣",
+        "onboard_time": 1750143680,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196895,
+        "num": 196895,
+        "word": "临江仙破万被质疑",
+        "onboard_time": 1750132702,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195127,
+        "num": 195127,
+        "word": "向佐儿子近照曝光",
+        "onboard_time": 1750138402,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179642,
+        "num": 179642,
+        "word": "彩票未中奖男子偷11张刮刮乐想回本",
+        "onboard_time": 1750143861,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159714,
+        "num": 159714,
+        "word": "这样的一路生花老师会记一辈子",
+        "onboard_time": 1750144761,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151927,
+        "num": 151927,
+        "word": "暴力熊 Labubu",
+        "onboard_time": 1750144700,
+        "rank": 34,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 147685,
+        "num": 147685,
+        "word": "敢碰我的好朋狗你是疯了吧",
+        "onboard_time": 1750144941,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141466,
+        "num": 141466,
+        "word": "iPhone 直板夹",
+        "onboard_time": 1750134262,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139895,
+        "num": 139895,
+        "word": "文淇中戏毕业",
+        "onboard_time": 1750140621,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137723,
+        "num": 137723,
+        "word": "邪恶黄皮",
+        "onboard_time": 1750144521,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135499,
+        "num": 135499,
+        "word": "轧戏",
+        "onboard_time": 1750144881,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128365,
+        "num": 132854,
+        "word": "秦彻一周年来看秦天柱",
+        "onboard_time": 1750144461,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131970,
+        "num": 131970,
+        "word": "易烊千玺FIRST主竞赛评委",
+        "onboard_time": 1750144821,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99620,
+        "num": 131901,
+        "word": "光与夜之恋循爱永挚线下",
+        "onboard_time": 1750144041,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131832,
+        "num": 131832,
+        "word": "恋与深空登顶",
+        "onboard_time": 1750126039,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129140,
+        "num": 129140,
+        "word": "曾舜晞白鹿婚纱营业",
+        "onboard_time": 1750129161,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130251,
+        "num": 128775,
+        "word": "周雨彤拍谍报上不封顶有压力",
+        "onboard_time": 1750141702,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126737,
+        "num": 126737,
+        "word": "中国航天时隔27年再次进行这项试验",
+        "onboard_time": 1750144761,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124368,
+        "num": 124368,
+        "word": "Labubu造型师",
+        "onboard_time": 1750139301,
+        "rank": 47,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 124477,
+        "num": 123885,
+        "word": "工作日你请个假在路上走走",
+        "onboard_time": 1750144281,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120821,
+        "num": 120821,
+        "word": "韩庚演唱会",
+        "onboard_time": 1750138944,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中哈命运共同体成色更足内涵更丰富#"
+    }
+  }
+}
