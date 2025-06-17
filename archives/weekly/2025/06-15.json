@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750130647252,
+  "endTime": 1750131365685,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1889218,
-      "num": 572477,
+      "num": 687671,
       "word": "1w奖学金到账后我们家的资金流动",
       "onboard_time": 1750125621,
       "rank": 30,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 861801,
-      "num": 565076,
+      "num": 687494,
       "word": "特朗普宣称期待G7变G8",
       "onboard_time": 1750128079,
       "rank": 4,
@@ -417,6 +417,14 @@
       "onboard_time": 1749920000,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 805672,
+      "num": 1128907,
+      "word": "荔枝蒂 虫子",
+      "onboard_time": 1750127059,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 799843,
@@ -539,6 +547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 711280,
+      "num": 711280,
+      "word": "曾舜晞白鹿婚纱营业",
+      "onboard_time": 1750129161,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 709632,
       "num": 375060,
       "word": "月入5万女生辞职后陪父亲淘粪",
@@ -577,14 +593,6 @@
       "onboard_time": 1749995481,
       "rank": 15,
       "category": "民生新闻,体育"
-    },
-    {
-      "raw_hot": 702699,
-      "num": 702699,
-      "word": "荔枝蒂 虫子",
-      "onboard_time": 1750127059,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 693922,
@@ -723,6 +731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 624785,
+      "num": 624785,
+      "word": "家长怒斥中学宿舍条件不如二十年前",
+      "onboard_time": 1750126340,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 623180,
       "num": 623180,
       "word": "Lafufu和Lababa都属于商标侵权",
@@ -819,6 +835,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 566078,
+      "num": 566078,
+      "word": "陈彼得去世",
+      "onboard_time": 1750130960,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563771,
       "num": 418078,
       "word": "周洁琼将参与ioi回归",
@@ -905,14 +929,6 @@
       "onboard_time": 1750093277,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 542147,
-      "num": 542147,
-      "word": "家长怒斥中学宿舍条件不如二十年前",
-      "onboard_time": 1750126340,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 539898,
@@ -1043,6 +1059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 488721,
+      "num": 537568,
+      "word": "教体局通报中学宿舍铁床生锈木门破烂",
+      "onboard_time": 1750127780,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 487187,
       "num": 487187,
       "word": "瘦了36斤后才敢说的实话总结",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1750122801,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 458719,
-      "num": 543960,
-      "word": "曾舜晞白鹿婚纱营业",
-      "onboard_time": 1750129161,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 448467,
@@ -1427,20 +1443,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 382972,
-      "num": 537568,
-      "word": "教体局通报中学宿舍铁床生锈木门破烂",
-      "onboard_time": 1750127780,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 382889,
       "num": 382889,
       "word": "重庆震感",
       "onboard_time": 1749984921,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 382311,
+      "num": 382311,
+      "word": "那尔那茜的高考恰似长安的荔枝",
+      "onboard_time": 1750127300,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 380569,
@@ -1489,6 +1505,14 @@
       "onboard_time": 1749915682,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 374318,
+      "num": 197672,
+      "word": "规培生全麻插管致患者死亡",
+      "onboard_time": 1750129940,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 373602,
@@ -1553,14 +1577,6 @@
       "onboard_time": 1749989120,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 356881,
-      "num": 356881,
-      "word": "那尔那茜的高考恰似长安的荔枝",
-      "onboard_time": 1750127300,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 354075,
@@ -1880,6 +1896,14 @@
       "word": "叶一飞夺冠",
       "onboard_time": 1749996682,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 295563,
+      "num": 295563,
+      "word": "王励勤带领国乒出席开幕式",
+      "onboard_time": 1750128020,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -2395,6 +2419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240747,
+      "num": 538436,
+      "word": "救护车转运重病孩子800公里收2.8万",
+      "onboard_time": 1750128980,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240713,
       "num": 537300,
       "word": "马龙父亲节收到礼物了",
@@ -2411,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239952,
+      "num": 231477,
+      "word": "朱丹发言",
+      "onboard_time": 1750131140,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239171,
       "num": 610134,
       "word": "央视曝光伤人的公共健身器材",
@@ -2425,6 +2465,22 @@
       "onboard_time": 1750029978,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236907,
+      "num": 236907,
+      "word": "京东再发6180元补贴",
+      "onboard_time": 1750128501,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 235843,
+      "num": 197480,
+      "word": "第一次见脂包骨的身材",
+      "onboard_time": 1750130361,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 234842,
@@ -2449,22 +2505,6 @@
       "onboard_time": 1749966440,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 233308,
-      "num": 233308,
-      "word": "京东再发6180元补贴",
-      "onboard_time": 1750128501,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 233238,
-      "num": 193287,
-      "word": "第一次见脂包骨的身材",
-      "onboard_time": 1750130361,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 232630,
@@ -2499,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230554,
+      "num": 230554,
+      "word": "恋与深空登顶",
+      "onboard_time": 1750126039,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230449,
       "num": 230449,
       "word": "中东富豪加价两百万求购尊界",
@@ -2529,14 +2577,6 @@
       "onboard_time": 1749919700,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228600,
-      "num": 228600,
-      "word": "恋与深空登顶",
-      "onboard_time": 1750126039,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 228472,
@@ -2577,6 +2617,14 @@
       "onboard_time": 1749957500,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225843,
+      "num": 225843,
+      "word": "李武军拍的孙颖莎",
+      "onboard_time": 1750129401,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 225473,
@@ -2683,28 +2731,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 218778,
-      "num": 538436,
-      "word": "救护车转运重病孩子800公里收2.8万",
-      "onboard_time": 1750128980,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218531,
       "num": 242567,
       "word": "蒋敦豪半夜直播爬坡",
       "onboard_time": 1750087761,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218162,
-      "num": 218162,
-      "word": "李武军拍的孙颖莎",
-      "onboard_time": 1750129401,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 217445,
@@ -3065,6 +3097,14 @@
       "onboard_time": 1749917721,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197238,
+      "num": 197238,
+      "word": "小鱼海棠婚纱照",
+      "onboard_time": 1750131081,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 195850,
@@ -3595,6 +3635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176195,
+      "num": 198008,
+      "word": "41岁交警被冲卡轿车顶行600米牺牲",
+      "onboard_time": 1750129700,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175999,
       "num": 192301,
       "word": "王星越你别要了我害怕",
@@ -3657,14 +3705,6 @@
       "onboard_time": 1749986961,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173611,
-      "num": 173611,
-      "word": "41岁交警被冲卡轿车顶行600米牺牲",
-      "onboard_time": 1750129700,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172814,
@@ -3849,6 +3889,14 @@
       "onboard_time": 1749966980,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 167676,
+      "num": 167676,
+      "word": "减肥真的会改变面相",
+      "onboard_time": 1750130782,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 167344,
@@ -4507,6 +4555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148118,
+      "num": 173492,
+      "word": "王楚然 爱情有烟火",
+      "onboard_time": 1750130541,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148007,
       "num": 148007,
       "word": "网友开始演藏海传",
@@ -4971,6 +5027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133400,
+      "num": 195021,
+      "word": "郭晓婷回应刘诗诗",
+      "onboard_time": 1750130299,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133259,
       "num": 133259,
       "word": "马嘉祺所以开始既定重启的星期五3",
@@ -5291,22 +5355,6 @@
       "category": "作品衍生,综艺"
     },
     {
-      "raw_hot": 128399,
-      "num": 195021,
-      "word": "郭晓婷回应刘诗诗",
-      "onboard_time": 1750130299,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 128333,
-      "num": 173492,
-      "word": "王楚然 爱情有烟火",
-      "onboard_time": 1750130541,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128253,
       "num": 128253,
       "word": "法拉利勒芒三连冠",
@@ -5513,6 +5561,14 @@
       "onboard_time": 1749908662,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124294,
+      "num": 124294,
+      "word": "游客拍照坐坏价值约5万美元梵高椅",
+      "onboard_time": 1750129999,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 124223,
@@ -5787,6 +5843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119069,
+      "num": 183598,
+      "word": "BIGHIT新男团将8月出道",
+      "onboard_time": 1750131320,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119050,
       "num": 119050,
       "word": "京城大师赛",
@@ -5993,6 +6057,14 @@
       "onboard_time": 1750029499,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115447,
+      "num": 248830,
+      "word": "曾舜晞说白鹿经常对自己撒娇",
+      "onboard_time": 1750130782,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 115407,
@@ -6675,14 +6747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 96257,
-      "num": 173251,
-      "word": "规培生全麻插管致患者死亡",
-      "onboard_time": 1750129940,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95964,
       "num": 272610,
       "word": "为救子盗窃入狱父亲发声",
@@ -6859,6 +6923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89179,
+      "num": 172258,
+      "word": "超1000种职业证书可用于花呗提额",
+      "onboard_time": 1750131320,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88923,
       "num": 88923,
       "word": "父亲节文案",
@@ -6961,6 +7033,14 @@
       "onboard_time": 1750080382,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 83925,
+      "num": 182944,
+      "word": "极氪9X新颜色",
+      "onboard_time": 1750131320,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 83059,
@@ -7331,6 +7411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65658,
+      "num": 333616,
+      "word": "张伟救人昏迷时仍高喊救人",
+      "onboard_time": 1750130181,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 65639,
       "num": 175773,
       "word": "伊空军司令曾仔细参观歼10CE",
@@ -7547,14 +7635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53441,
-      "num": 328069,
-      "word": "张伟救人昏迷时仍高喊救人",
-      "onboard_time": 1750130181,
-      "rank": 14,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 53178,
       "num": 99921,
       "word": "肖战超绝哭戏令人共情",
@@ -7747,6 +7827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46879,
+      "num": 231800,
+      "word": "湖北一传销案嫌犯为脱罪花840万",
+      "onboard_time": 1750129820,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46814,
       "num": 317901,
       "word": "贵马鸿星尔克傩戏文化传播出圈",
@@ -7804,7 +7892,7 @@
     },
     {
       "raw_hot": 46187,
-      "num": 587924,
+      "num": 687900,
       "word": "一组数据看中国经济稳中有进",
       "onboard_time": 1750082842,
       "rank": 2,
@@ -8051,6 +8139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37347,
+      "num": 198098,
+      "word": "山西一古碑文含周深粉丝排队打卡",
+      "onboard_time": 1750129820,
+      "rank": 29,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 37117,
       "num": 270405,
       "word": "为什么高薪专业几乎被工科包揽",
@@ -8081,14 +8177,6 @@
       "onboard_time": 1750009096,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35825,
-      "num": 230300,
-      "word": "湖北一传销案嫌犯为脱罪花840万",
-      "onboard_time": 1750129820,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35649,
@@ -8129,14 +8217,6 @@
       "onboard_time": 1749915083,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35133,
-      "num": 193584,
-      "word": "山西一古碑文含周深粉丝排队打卡",
-      "onboard_time": 1750129820,
-      "rank": 29,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 35069,
@@ -8539,6 +8619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23755,
+      "num": 182585,
+      "word": "博卡青年2比2本菲卡",
+      "onboard_time": 1750130600,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23696,
       "num": 26209,
       "word": "街道办回应她的瞳剧组用激光笔清场",
@@ -8568,14 +8656,6 @@
       "word": "天津津门虎1比0山东泰山",
       "onboard_time": 1749918800,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 23447,
-      "num": 134073,
-      "word": "博卡青年2比2本菲卡",
-      "onboard_time": 1750130600,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -8828,7 +8908,7 @@
     },
     {
       "raw_hot": 17643,
-      "num": 173062,
+      "num": 182093,
       "word": "烟台软萌外交官形象应该被点赞",
       "onboard_time": 1750129279,
       "rank": 39,
@@ -8969,6 +9049,14 @@
       "onboard_time": 1750008976,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12913,
+      "num": 521568,
+      "word": "中国方案让盐碱地破碱重生",
+      "onboard_time": 1750131320,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12824,
@@ -9128,6 +9216,9 @@
     },
     {
       "word": "#哈萨克斯坦以最高规格欢迎习主席#"
+    },
+    {
+      "word": "#中哈命运共同体成色更足内涵更丰富#"
     }
   ]
 }

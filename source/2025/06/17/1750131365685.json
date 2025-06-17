@@ -1,0 +1,410 @@
+{
+  "runTime": 1750131365685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 805672,
+        "num": 1128907,
+        "word": "荔枝蒂 虫子",
+        "onboard_time": 1750127059,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711280,
+        "num": 711280,
+        "word": "曾舜晞白鹿婚纱营业",
+        "onboard_time": 1750129161,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26067,
+        "num": 687900,
+        "word": "一组数据看中国经济稳中有进",
+        "onboard_time": 1750082842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1862107,
+        "num": 687671,
+        "word": "1w奖学金到账后我们家的资金流动",
+        "onboard_time": 1750125621,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 774178,
+        "num": 687494,
+        "word": "特朗普宣称期待G7变G8",
+        "onboard_time": 1750128079,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 687264,
+        "num": 687264,
+        "word": "男演员没戏拍兼职699元陪爬泰山",
+        "onboard_time": 1750119201,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624785,
+        "num": 624785,
+        "word": "家长怒斥中学宿舍条件不如二十年前",
+        "onboard_time": 1750126340,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566078,
+        "num": 566078,
+        "word": "陈彼得去世",
+        "onboard_time": 1750130960,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240747,
+        "num": 533442,
+        "word": "救护车转运重病孩子800公里收2.8万",
+        "onboard_time": 1750128980,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12913,
+        "num": 521568,
+        "word": "中国方案让盐碱地破碱重生",
+        "onboard_time": 1750131320,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 793278,
+        "num": 521113,
+        "word": "痛经 吃榴莲",
+        "onboard_time": 1750125140,
+        "rank": 10,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 512918,
+        "num": 512918,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1750119681,
+        "rank": 11,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 488721,
+        "num": 488721,
+        "word": "教体局通报中学宿舍铁床生锈木门破烂",
+        "onboard_time": 1750127780,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 382311,
+        "num": 382311,
+        "word": "那尔那茜的高考恰似长安的荔枝",
+        "onboard_time": 1750127300,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65658,
+        "num": 333616,
+        "word": "张伟救人昏迷时仍高喊救人",
+        "onboard_time": 1750130181,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 295563,
+        "num": 295563,
+        "word": "王励勤带领国乒出席开幕式",
+        "onboard_time": 1750128020,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271597,
+        "num": 271597,
+        "word": "李洪基患化脓性汗腺炎20年",
+        "onboard_time": 1750125799,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115447,
+        "num": 248830,
+        "word": "曾舜晞说白鹿经常对自己撒娇",
+        "onboard_time": 1750130782,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236907,
+        "num": 236907,
+        "word": "京东再发6180元补贴",
+        "onboard_time": 1750128501,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46879,
+        "num": 231800,
+        "word": "湖北一传销案嫌犯为脱罪花840万",
+        "onboard_time": 1750129820,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239952,
+        "num": 231477,
+        "word": "朱丹发言",
+        "onboard_time": 1750131140,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230813,
+        "num": 230813,
+        "word": "沉浸式感受福建舰要冲出屏幕了",
+        "onboard_time": 1750129401,
+        "rank": 21,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 230554,
+        "num": 230554,
+        "word": "恋与深空登顶",
+        "onboard_time": 1750126039,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225843,
+        "num": 225843,
+        "word": "李武军拍的孙颖莎",
+        "onboard_time": 1750129401,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418572,
+        "num": 224606,
+        "word": "涨工资的信号越来越明确",
+        "onboard_time": 1750077020,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222439,
+        "num": 222439,
+        "word": "间谍用word套取我国敏感数据",
+        "onboard_time": 1750118060,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205772,
+        "num": 205772,
+        "word": "吉赛尔好美",
+        "onboard_time": 1750124120,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198570,
+        "num": 198570,
+        "word": "伊朗连续第4晚导弹袭击以色列",
+        "onboard_time": 1750118779,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180745,
+        "num": 198512,
+        "word": "锦绣芳华书卷一梦对打",
+        "onboard_time": 1750121601,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37347,
+        "num": 198098,
+        "word": "山西一古碑文含周深粉丝排队打卡",
+        "onboard_time": 1750129820,
+        "rank": 29,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 176195,
+        "num": 198008,
+        "word": "41岁交警被冲卡轿车顶行600米牺牲",
+        "onboard_time": 1750129700,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374318,
+        "num": 197672,
+        "word": "规培生全麻插管致患者死亡",
+        "onboard_time": 1750129940,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235843,
+        "num": 197480,
+        "word": "第一次见脂包骨的身材",
+        "onboard_time": 1750130361,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197238,
+        "num": 197238,
+        "word": "小鱼海棠婚纱照",
+        "onboard_time": 1750131081,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148792,
+        "num": 184512,
+        "word": "湖南卫视开心夜节目单",
+        "onboard_time": 1750128860,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184001,
+        "num": 184001,
+        "word": "闫佩伦婚礼",
+        "onboard_time": 1750122801,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119069,
+        "num": 183598,
+        "word": "BIGHIT新男团将8月出道",
+        "onboard_time": 1750131320,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83925,
+        "num": 182944,
+        "word": "极氪9X新颜色",
+        "onboard_time": 1750131320,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23755,
+        "num": 182585,
+        "word": "博卡青年2比2本菲卡",
+        "onboard_time": 1750130600,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13415,
+        "num": 182093,
+        "word": "烟台软萌外交官形象应该被点赞",
+        "onboard_time": 1750129279,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181869,
+        "num": 181869,
+        "word": "21国联合谴责以色列袭击伊朗",
+        "onboard_time": 1750123880,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89179,
+        "num": 172258,
+        "word": "超1000种职业证书可用于花呗提额",
+        "onboard_time": 1750131320,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167676,
+        "num": 167676,
+        "word": "减肥真的会改变面相",
+        "onboard_time": 1750130782,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171289,
+        "num": 165210,
+        "word": "继父强奸案时隔10年无罪改判8年",
+        "onboard_time": 1750128020,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148118,
+        "num": 148118,
+        "word": "王楚然 爱情有烟火",
+        "onboard_time": 1750130541,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147821,
+        "num": 147821,
+        "word": "以色列中国留学生称无法安稳入睡",
+        "onboard_time": 1750121839,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133400,
+        "num": 133400,
+        "word": "郭晓婷回应刘诗诗",
+        "onboard_time": 1750130299,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132674,
+        "num": 132674,
+        "word": "终于知道古代为什么流放岭南了",
+        "onboard_time": 1750119681,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124294,
+        "num": 124294,
+        "word": "游客拍照坐坏价值约5万美元梵高椅",
+        "onboard_time": 1750129999,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124193,
+        "num": 124193,
+        "word": "巴黎航展将以色列武器一整个拉黑",
+        "onboard_time": 1750126701,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中哈命运共同体成色更足内涵更丰富#"
+    }
+  }
+}
