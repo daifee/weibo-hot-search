@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750167469838,
+  "endTime": 1750168232417,
   "band_list": [
     {
       "raw_hot": 2600623,
@@ -131,6 +131,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1028743,
+      "num": 1164599,
+      "word": "涉钱德勒演员死亡案一医生同意认罪",
+      "onboard_time": 1750165581,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 948547,
       "num": 1151767,
       "word": "撤侨",
@@ -187,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 878781,
-      "num": 1140605,
-      "word": "涉钱德勒演员死亡案一医生同意认罪",
-      "onboard_time": 1750165581,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 861801,
       "num": 687494,
       "word": "特朗普宣称期待G7变G8",
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 775311,
+      "num": 330674,
+      "word": "小小周",
+      "onboard_time": 1750161261,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 763265,
       "num": 546528,
       "word": "涨工资的信号越来越明确",
@@ -249,6 +257,14 @@
       "onboard_time": 1750148002,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 743997,
+      "num": 743997,
+      "word": "何秋亊工作室致歉声明",
+      "onboard_time": 1750165522,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 742670,
@@ -379,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 614409,
-      "num": 330674,
-      "word": "小小周",
-      "onboard_time": 1750161261,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 622082,
+      "num": 400545,
+      "word": "湖南卫视618开心夜",
+      "onboard_time": 1750164621,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 607541,
@@ -411,20 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 593844,
-      "num": 593844,
-      "word": "何秋亊工作室致歉声明",
-      "onboard_time": 1750165522,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 577182,
       "num": 577182,
       "word": "泡泡玛特市值蒸发超200亿",
       "onboard_time": 1750153522,
       "rank": 8,
       "category": "财经,动漫"
+    },
+    {
+      "raw_hot": 577102,
+      "num": 323776,
+      "word": "公认现象级大爆剧",
+      "onboard_time": 1750165882,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 558941,
@@ -457,14 +473,6 @@
       "onboard_time": 1750121661,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 544896,
-      "num": 372637,
-      "word": "湖南卫视618开心夜",
-      "onboard_time": 1750164621,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 543743,
@@ -683,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373033,
-      "num": 323776,
-      "word": "公认现象级大爆剧",
-      "onboard_time": 1750165882,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 368540,
       "num": 368540,
       "word": "易烊千玺叫章子怡姐姐",
@@ -745,6 +745,14 @@
       "onboard_time": 1750144881,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341056,
+      "num": 315059,
+      "word": "吴宣仪翟潇闻台上借位吻",
+      "onboard_time": 1750165821,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 338439,
@@ -825,14 +833,6 @@
       "onboard_time": 1750141521,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315059,
-      "num": 315059,
-      "word": "吴宣仪翟潇闻台上借位吻",
-      "onboard_time": 1750165821,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 310631,
@@ -1035,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255644,
+      "num": 337685,
+      "word": "相差14岁小男友提分手起诉女方还钱",
+      "onboard_time": 1750161980,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254178,
       "num": 128010,
       "word": "男性其实更需要亲密关系",
@@ -1067,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242080,
+      "num": 242080,
+      "word": "第一次这么直观区别电影脸电视脸",
+      "onboard_time": 1750165221,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240747,
       "num": 538436,
       "word": "救护车转运重病孩子800公里收2.8万",
@@ -1096,14 +1112,6 @@
       "word": "易烊千玺FIRST主竞赛评委",
       "onboard_time": 1750144821,
       "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 231447,
-      "num": 231447,
-      "word": "第一次这么直观区别电影脸电视脸",
-      "onboard_time": 1750165221,
-      "rank": 28,
       "category": "电影"
     },
     {
@@ -1195,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212717,
+      "num": 212717,
+      "word": "vava瘦了好多",
+      "onboard_time": 1750166962,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212446,
       "num": 346892,
       "word": "周翊然情商",
@@ -1225,6 +1241,14 @@
       "onboard_time": 1750133423,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207291,
+      "num": 265674,
+      "word": "吴宣仪红裙玫瑰",
+      "onboard_time": 1750167382,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 206865,
@@ -1355,6 +1379,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 187175,
+      "num": 187175,
+      "word": "周深云裳羽衣曲宿命感",
+      "onboard_time": 1750167323,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187169,
       "num": 357468,
       "word": "美军大举增援中东目的何在",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1750133062,
       "rank": 44,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 185328,
+      "num": 185328,
+      "word": "临江仙",
+      "onboard_time": 1750152501,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 184939,
@@ -1515,20 +1555,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 172858,
-      "num": 172858,
-      "word": "周深云裳羽衣曲宿命感",
-      "onboard_time": 1750167323,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172642,
       "num": 172642,
       "word": "高铁为什么晚上禁止运行",
       "onboard_time": 1750135943,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 172238,
+      "num": 172238,
+      "word": "周也 一瓯春",
+      "onboard_time": 1750167442,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 171825,
@@ -1651,14 +1691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162721,
-      "num": 337685,
-      "word": "相差14岁小男友提分手起诉女方还钱",
-      "onboard_time": 1750161980,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161979,
       "num": 161979,
       "word": "许嵩演唱会杭州双场官宣",
@@ -1697,14 +1729,6 @@
       "onboard_time": 1750144761,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158947,
-      "num": 158947,
-      "word": "临江仙",
-      "onboard_time": 1750152501,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 158903,
@@ -1803,6 +1827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150410,
+      "num": 185335,
+      "word": "以色列情报机构被炸",
+      "onboard_time": 1750165400,
+      "rank": 46,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 150394,
       "num": 150394,
       "word": "手快的人都去租Labubu了",
@@ -1851,14 +1883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147977,
-      "num": 171908,
-      "word": "以色列情报机构被炸",
-      "onboard_time": 1750165400,
-      "rank": 46,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 147901,
       "num": 147901,
       "word": "以色列",
@@ -1873,14 +1897,6 @@
       "onboard_time": 1750144941,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147234,
-      "num": 147234,
-      "word": "vava瘦了好多",
-      "onboard_time": 1750166962,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 146716,
@@ -1907,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145999,
+      "num": 202295,
+      "word": "董路",
+      "onboard_time": 1750166482,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145515,
       "num": 317369,
       "word": "京东补贴",
@@ -1929,6 +1953,14 @@
       "onboard_time": 1750142241,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145219,
+      "num": 266334,
+      "word": "北京国安取胜即登顶",
+      "onboard_time": 1750161141,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 144670,
@@ -1961,14 +1993,6 @@
       "onboard_time": 1750149801,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143304,
-      "num": 143304,
-      "word": "吴宣仪红裙玫瑰",
-      "onboard_time": 1750167382,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 142991,
@@ -2065,6 +2089,14 @@
       "onboard_time": 1750145180,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134806,
+      "num": 134806,
+      "word": "那英唱梦一场忘词",
+      "onboard_time": 1750167863,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 134428,
@@ -2187,6 +2219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 128127,
+      "num": 124026,
+      "word": "美网混双参赛名单",
+      "onboard_time": 1750167323,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127514,
       "num": 127514,
       "word": "鞠婧祎生日单曲落日未眠",
@@ -2275,20 +2315,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 123724,
-      "num": 123724,
-      "word": "美网混双参赛名单",
-      "onboard_time": 1750167323,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122711,
       "num": 122711,
       "word": "王安宇减肥的毅力",
       "onboard_time": 1750161740,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121269,
+      "num": 121269,
+      "word": "两代浪姐火力全开有点火热",
+      "onboard_time": 1750168042,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 121136,
@@ -2371,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114872,
+      "num": 114872,
+      "word": "文班亚马苦练少林功夫",
+      "onboard_time": 1750165041,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114775,
       "num": 114775,
       "word": "Bin哥成熟了",
@@ -2393,14 +2441,6 @@
       "onboard_time": 1750166962,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114236,
-      "num": 114236,
-      "word": "文班亚马苦练少林功夫",
-      "onboard_time": 1750165041,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 114016,
@@ -2449,14 +2489,6 @@
       "onboard_time": 1750078641,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111780,
-      "num": 266334,
-      "word": "北京国安取胜即登顶",
-      "onboard_time": 1750161141,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 111696,
@@ -2553,14 +2585,6 @@
       "onboard_time": 1750087761,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102021,
-      "num": 102021,
-      "word": "周也 一瓯春",
-      "onboard_time": 1750167442,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 101463,
@@ -2689,14 +2713,6 @@
       "onboard_time": 1750158263,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 86577,
-      "num": 202295,
-      "word": "董路",
-      "onboard_time": 1750166482,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 86383,
@@ -2985,6 +3001,14 @@
       "onboard_time": 1750154841,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 67368,
+      "num": 282619,
+      "word": "伊朗袭击以方为何先用无人机后改用导弹",
+      "onboard_time": 1750167083,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66622,
@@ -3291,14 +3315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37633,
-      "num": 282619,
-      "word": "伊朗袭击以方为何先用无人机后改用导弹",
-      "onboard_time": 1750167083,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37347,
       "num": 198098,
       "word": "山西一古碑文含周深粉丝排队打卡",
@@ -3473,6 +3489,14 @@
       "onboard_time": 1750138700,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 24549,
+      "num": 126318,
+      "word": "索尼幽默香港运营笑话一则",
+      "onboard_time": 1750167502,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 24423,
@@ -3707,8 +3731,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 7829,
-      "num": 629131,
+      "raw_hot": 8527,
+      "num": 690481,
       "word": "九组数据感知我国经济韧性活力",
       "onboard_time": 1750131381,
       "rank": 2,
@@ -3738,6 +3762,9 @@
     },
     {
       "word": "#习近平会见别尔德穆哈梅多夫#"
+    },
+    {
+      "word": "#习近平出席第二届中国—中亚峰会#"
     }
   ]
 }
