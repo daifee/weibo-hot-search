@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 00:33:56
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 00:51:17
 </p>
 </blockquote>
 <p>
@@ -1227,6 +1227,12 @@ A股跳水（热度：1454990）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E6%94%B6%E8%B4%B92.8%E4%B8%87%E5%AE%B6%E5%B1%9E%E9%97%AE%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BE%BF%E5%AE%9C%E7%82%B9%23" target="weibo">
+救护车收费2.8万家属问能不能便宜点（热度：1342324）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E6%A2%81%E6%B0%B8%E6%A3%8B%E5%8E%BB%E6%8E%A2%E7%8F%AD%E7%99%BD%E9%B9%BF%E4%BA%86%23" target="weibo">
 曾舜晞梁永棋去探班白鹿了（热度：1342302）
 </a>
@@ -1421,12 +1427,6 @@ A股（热度：1322395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E8%BF%AA%E4%B8%8D%E7%95%8F%23" target="weibo">
 迪迪不畏（热度：1257514）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E6%94%B6%E8%B4%B92.8%E4%B8%87%E5%AE%B6%E5%B1%9E%E9%97%AE%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BE%BF%E5%AE%9C%E7%82%B9%23" target="weibo">
-救护车收费2.8万家属问能不能便宜点（热度：1256900）
 </a>
 </li>
 

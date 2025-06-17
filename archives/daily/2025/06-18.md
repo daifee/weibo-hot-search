@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/18 00:33:56 ~ 2025/06/18 00:33:56
+本榜单时间：2025/06/18 00:33:56 ~ 2025/06/18 00:51:17
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E6%94%B6%E8%B4%B92.8%E4%B8%87%E5%AE%B6%E5%B1%9E%E9%97%AE%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BE%BF%E5%AE%9C%E7%82%B9%23" target="weibo">
-救护车收费2.8万家属问能不能便宜点（热度：1256900）
+救护车收费2.8万家属问能不能便宜点（热度：1342324）
 </a>
 </li>
 
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%85%B0%23" target="weibo">
+米兰（热度：286978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23labubu%E7%9A%84%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%23" target="weibo">
 labubu的竞争对手（热度：280931）
 </a>
@@ -117,6 +123,12 @@ labubu的竞争对手（热度：280931）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%9B%B4%E6%92%AD%E4%B8%8A%E8%8B%B1%E8%AF%AD%E8%AF%BE%23" target="weibo">
+张艺兴直播上英语课（热度：215388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0%E7%AD%89%E4%B8%AD%E5%9B%BD%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81%E8%B5%B0%E7%BA%A2%E4%B8%AD%E4%BA%9A%23" target="weibo">
 我的阿勒泰等中国影视作品走红中亚（热度：194319）
 </a>
@@ -141,6 +153,12 @@ labubu的竞争对手（热度：280931）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%9B%9E%E5%9B%BD%23" target="weibo">
+田曦薇回国（热度：131478）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%85200%E4%BA%BF%23" target="weibo">
 泡泡玛特市值蒸发超200亿（热度：131391）
 </a>
@@ -149,12 +167,6 @@ labubu的竞争对手（热度：280931）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%23" target="weibo">
 朱丹（热度：130747）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%9B%9E%E5%9B%BD%23" target="weibo">
-田曦薇回国（热度：127245）
 </a>
 </li>
 
@@ -285,6 +297,12 @@ vava瘦了好多（热度：69840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E7%9B%92%E5%8D%B0%E5%B0%8F%E7%8B%97%E5%BF%AB%E9%80%92%E5%91%98%E9%85%8D%E9%80%81%E8%AE%A9%E5%BF%AB%E9%80%92%E5%91%98%E4%B8%8D%E9%80%82%23" target="weibo">
+快递盒印小狗快递员配送让快递员不适（热度：65408）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E4%BD%B3%E8%8E%B9%20%E8%96%9B%E4%B9%8B%E8%B0%A6%23" target="weibo">
 徐佳莹 薛之谦（热度：64896）
 </a>
@@ -304,7 +322,19 @@ vava瘦了好多（热度：69840）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E7%8E%B0%E6%B5%93%E7%BC%A9%E8%90%A5%E5%85%BB%E9%A4%90%E5%8D%96%E5%AE%B6%E7%A7%B0%E5%8F%AF%E6%9B%BF%E4%BB%A3%E6%AD%A3%E9%A4%90%23" target="weibo">
-网络现浓缩营养餐卖家称可替代正餐（热度：47252）
+网络现浓缩营养餐卖家称可替代正餐（热度：53837）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
+中国公民暂勿前往伊朗以色列（热度：36826）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B4%A2%E5%B0%BC%E8%8B%B1%E9%9B%8C%23" target="weibo">
+索尼英雌（热度：30268）
 </a>
 </li>
 
