@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750199106010,
+  "endTime": 1750200227622,
   "band_list": [
     {
       "raw_hot": 1342324,
@@ -163,8 +163,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150514,
-      "num": 150514,
+      "raw_hot": 175154,
+      "num": 175154,
       "word": "沈阳通报公交车与多车碰撞事故",
       "onboard_time": 1750173982,
       "rank": 17,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122208,
+      "num": 122208,
+      "word": "快递盒印小狗快递员配送让快递员不适",
+      "onboard_time": 1750159221,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111943,
       "num": 111943,
       "word": "伊朗准备好领导人遇刺情况下的计划",
@@ -257,6 +265,14 @@
       "onboard_time": 1750176022,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105729,
+      "num": 105729,
+      "word": "相差14岁小男友提分手起诉女方还钱",
+      "onboard_time": 1750161980,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104830,
@@ -347,28 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77733,
-      "num": 77733,
-      "word": "相差14岁小男友提分手起诉女方还钱",
-      "onboard_time": 1750161980,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74984,
-      "num": 99320,
-      "word": "快递盒印小狗快递员配送让快递员不适",
-      "onboard_time": 1750159221,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73791,
       "num": 73791,
       "word": "京东补贴",
       "onboard_time": 1750165462,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 73356,
+      "num": 73356,
+      "word": "钟丽缇回应被评价怎么健身都不瘦",
+      "onboard_time": 1750194794,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 69840,
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57632,
+      "num": 57632,
+      "word": "女子称劝导不文明观影反被扇巴掌",
+      "onboard_time": 1750179858,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56325,
       "num": 56325,
       "word": "无论何时都不要停止学习",
@@ -459,20 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49434,
-      "num": 31092,
-      "word": "钟丽缇回应被评价怎么健身都不瘦",
-      "onboard_time": 1750194794,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 44169,
-      "num": 55035,
-      "word": "女子称劝导不文明观影反被扇巴掌",
-      "onboard_time": 1750179858,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 43683,
+      "num": 43683,
+      "word": "一个小时15还赚了10块钱",
+      "onboard_time": 1750196294,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 41332,
@@ -483,20 +491,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40104,
-      "num": 40104,
+      "raw_hot": 40626,
+      "num": 40626,
       "word": "labubu挂包不翻面的方法",
       "onboard_time": 1750191735,
       "rank": 42,
       "category": "休闲,动漫"
     },
     {
-      "raw_hot": 36322,
-      "num": 36322,
+      "raw_hot": 40380,
+      "num": 40380,
       "word": "金建希硕士论文被认定为剽窃",
       "onboard_time": 1750192513,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40123,
+      "num": 40123,
+      "word": "医院回应疑似规培生失误致患者死亡",
+      "onboard_time": 1750182436,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34732,
@@ -507,14 +523,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34013,
-      "num": 30841,
-      "word": "一个小时15还赚了10块钱",
-      "onboard_time": 1750196294,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 33597,
       "num": 41322,
       "word": "王俊凯杭州万象城活动",
@@ -523,28 +531,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31289,
-      "num": 31289,
-      "word": "医院回应疑似规培生失误致患者死亡",
-      "onboard_time": 1750182436,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26136,
-      "num": 29923,
+      "raw_hot": 32720,
+      "num": 32720,
       "word": "12岁女孩花3200元学韩语家长质疑",
       "onboard_time": 1750192394,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23631,
-      "num": 29905,
+      "raw_hot": 30433,
+      "num": 32719,
       "word": "桃花映江山",
       "onboard_time": 1750196774,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27069,
+      "num": 32714,
+      "word": "女方回应男子拿两套房求和儿子被拒",
+      "onboard_time": 1750190233,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22253,
+      "num": 32709,
+      "word": "福建泉州有消费者称买到早产鲜羊奶",
+      "onboard_time": 1750195334,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21614,
@@ -553,14 +569,6 @@
       "onboard_time": 1750187834,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 20482,
-      "num": 29874,
-      "word": "女方回应男子拿两套房求和儿子被拒",
-      "onboard_time": 1750190233,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20129,
@@ -617,14 +625,6 @@
       "onboard_time": 1750191915,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 11721,
-      "num": 16401,
-      "word": "福建泉州有消费者称买到早产鲜羊奶",
-      "onboard_time": 1750195334,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10703,
