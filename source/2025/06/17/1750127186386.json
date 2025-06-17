@@ -1,0 +1,410 @@
+{
+  "runTime": 1750127186386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 700380,
+        "num": 1112060,
+        "word": "男演员没戏拍兼职699元陪爬泰山",
+        "onboard_time": 1750119201,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564065,
+        "num": 564065,
+        "word": "痛经 吃榴莲",
+        "onboard_time": 1750125140,
+        "rank": 1,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 28449,
+        "num": 514606,
+        "word": "一组数据看中国经济稳中有进",
+        "onboard_time": 1750082842,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514207,
+        "num": 514207,
+        "word": "间谍用word套取我国敏感数据",
+        "onboard_time": 1750118060,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 450911,
+        "num": 450911,
+        "word": "涨工资的信号越来越明确",
+        "onboard_time": 1750077020,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345077,
+        "num": 345077,
+        "word": "深圳地铁",
+        "onboard_time": 1750121661,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339604,
+        "num": 339604,
+        "word": "内塔尼亚胡儿子婚礼被推迟",
+        "onboard_time": 1750124241,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309355,
+        "num": 309355,
+        "word": "伊朗连续第4晚导弹袭击以色列",
+        "onboard_time": 1750118779,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295915,
+        "num": 309339,
+        "word": "锦绣芳华书卷一梦对打",
+        "onboard_time": 1750121601,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63826,
+        "num": 308480,
+        "word": "伊朗主播直播中断前持续谴责以色列",
+        "onboard_time": 1750123580,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1282538,
+        "num": 307814,
+        "word": "1w奖学金到账后我们家的资金流动",
+        "onboard_time": 1750125621,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1078012,
+        "num": 307329,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1750119681,
+        "rank": 11,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 376165,
+        "num": 306951,
+        "word": "闫佩伦婚礼",
+        "onboard_time": 1750122801,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375443,
+        "num": 306530,
+        "word": "李洪基患化脓性汗腺炎20年",
+        "onboard_time": 1750125799,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32105,
+        "num": 305830,
+        "word": "事故善后政府安排住宿3年后追索房费",
+        "onboard_time": 1750126280,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305686,
+        "num": 305686,
+        "word": "21国联合谴责以色列袭击伊朗",
+        "onboard_time": 1750123880,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304504,
+        "num": 304504,
+        "word": "终于知道古代为什么流放岭南了",
+        "onboard_time": 1750119681,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273441,
+        "num": 273441,
+        "word": "吉赛尔好美",
+        "onboard_time": 1750124120,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225473,
+        "num": 225473,
+        "word": "热播剧男主回应接戏难兼职泰山陪爬",
+        "onboard_time": 1750122381,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153768,
+        "num": 220148,
+        "word": "aespa概念照",
+        "onboard_time": 1750122620,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220035,
+        "num": 220035,
+        "word": "恋与深空登顶",
+        "onboard_time": 1750126039,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219394,
+        "num": 219394,
+        "word": "在以中国公民尽快陆路离境",
+        "onboard_time": 1750117758,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218154,
+        "num": 218154,
+        "word": "罗马仕宣布召回超49万台充电宝",
+        "onboard_time": 1750119321,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210627,
+        "num": 210627,
+        "word": "以色列中国留学生称无法安稳入睡",
+        "onboard_time": 1750121839,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204542,
+        "num": 204542,
+        "word": "家长怒斥中学宿舍条件不如二十年前",
+        "onboard_time": 1750126340,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203427,
+        "num": 203427,
+        "word": "深圳地铁辟谣11号线发生爆炸",
+        "onboard_time": 1750125861,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 199778,
+        "num": 199778,
+        "word": "男子养了10年的女儿竟不是亲生的",
+        "onboard_time": 1750087401,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 180951,
+        "num": 180951,
+        "word": "朱丹说周翊然想要女儿是异性相吸",
+        "onboard_time": 1750119861,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99716,
+        "num": 163275,
+        "word": "王一博干一行行一行",
+        "onboard_time": 1750123279,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 79480,
+        "num": 159453,
+        "word": "刘诗诗发博支持郭晓婷新剧",
+        "onboard_time": 1750121180,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157261,
+        "num": 157261,
+        "word": "把Deepseek弄疯了",
+        "onboard_time": 1750118779,
+        "rank": 30,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 139002,
+        "num": 139002,
+        "word": "特朗普因以伊冲突提前回国",
+        "onboard_time": 1750125200,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131193,
+        "num": 131193,
+        "word": "以色列袭击伊朗国家电视台大楼",
+        "onboard_time": 1750088601,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126834,
+        "num": 126834,
+        "word": "月薪4000三年存了10万块",
+        "onboard_time": 1750120581,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122112,
+        "num": 122112,
+        "word": "伊朗两架F14被摧毁",
+        "onboard_time": 1750119261,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114985,
+        "num": 114985,
+        "word": "爱尔兰一母婴院发现大量婴幼儿遗骸",
+        "onboard_time": 1750118060,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112068,
+        "num": 112068,
+        "word": "建议把早睡放在第一位",
+        "onboard_time": 1750121002,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106281,
+        "num": 106281,
+        "word": "失踪3月被发现遗体老人女儿发声",
+        "onboard_time": 1750115058,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101083,
+        "num": 101083,
+        "word": "交警回应3男子酒后推车回家算酒驾吗",
+        "onboard_time": 1750120162,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100508,
+        "num": 100508,
+        "word": "国外旅游的伊朗人冒险回国",
+        "onboard_time": 1750122441,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97296,
+        "num": 97296,
+        "word": "荔枝蒂 虫子",
+        "onboard_time": 1750127059,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95889,
+        "num": 95889,
+        "word": "包文婧回应被指卑微",
+        "onboard_time": 1750123161,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91086,
+        "num": 91086,
+        "word": "巴黎航展将以色列武器一整个拉黑",
+        "onboard_time": 1750126701,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88538,
+        "num": 88538,
+        "word": "张子枫脸和身材各长各的",
+        "onboard_time": 1750079421,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86383,
+        "num": 86383,
+        "word": "健身房里的安全感",
+        "onboard_time": 1750125499,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 84898,
+        "num": 84898,
+        "word": "裸辞和在职找工作的区别",
+        "onboard_time": 1750120341,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83683,
+        "num": 83683,
+        "word": "Bin哥成熟了",
+        "onboard_time": 1750119920,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83656,
+        "num": 83656,
+        "word": "NBA",
+        "onboard_time": 1750124360,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82513,
+        "num": 82513,
+        "word": "我有个烧钱且小众的爱好",
+        "onboard_time": 1750126701,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59649,
+        "num": 82470,
+        "word": "曾舜晞梁永棋给白鹿带了蛋糕",
+        "onboard_time": 1750124600,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#哈萨克斯坦以最高规格欢迎习主席#"
+    }
+  }
+}

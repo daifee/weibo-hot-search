@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750125761461,
+  "endTime": 1750127186386,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -121,6 +121,14 @@
       "onboard_time": 1750085782,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1282538,
+      "num": 307814,
+      "word": "1w奖学金到账后我们家的资金流动",
+      "onboard_time": 1750125621,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1274536,
@@ -547,6 +555,14 @@
       "category": "民生新闻,体育"
     },
     {
+      "raw_hot": 700380,
+      "num": 1112060,
+      "word": "男演员没戏拍兼职699元陪爬泰山",
+      "onboard_time": 1750119201,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 693922,
       "num": 356478,
       "word": "刘耀文",
@@ -593,14 +609,6 @@
       "onboard_time": 1749946338,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 663978,
-      "num": 1106236,
-      "word": "男演员没戏拍兼职699元陪爬泰山",
-      "onboard_time": 1750119201,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 662929,
@@ -785,6 +793,14 @@
       "onboard_time": 1750043722,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 564065,
+      "num": 564065,
+      "word": "痛经 吃榴莲",
+      "onboard_time": 1750125140,
+      "rank": 23,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 563771,
@@ -1411,6 +1427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 375443,
+      "num": 306530,
+      "word": "李洪基患化脓性汗腺炎20年",
+      "onboard_time": 1750125799,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374832,
       "num": 346773,
       "word": "祝绪丹背着工作人员开直播",
@@ -2027,6 +2051,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 273441,
+      "num": 273441,
+      "word": "吉赛尔好美",
+      "onboard_time": 1750124120,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273073,
       "num": 227105,
       "word": "郝蕾你平时点评可不这样",
@@ -2371,14 +2403,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 231530,
-      "num": 151297,
-      "word": "1w奖学金到账后我们家的资金流动",
-      "onboard_time": 1750125621,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 231525,
       "num": 295873,
       "word": "严浩翔贺峻霖共脑",
@@ -2467,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225473,
+      "num": 282667,
+      "word": "热播剧男主回应接戏难兼职泰山陪爬",
+      "onboard_time": 1750122381,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224794,
       "num": 224794,
       "word": "原神",
@@ -2515,20 +2547,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 222080,
-      "num": 222080,
-      "word": "吉赛尔好美",
-      "onboard_time": 1750124120,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221965,
       "num": 201686,
       "word": "无锡车主外放阿刁迎战常州队",
       "onboard_time": 1749999982,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220035,
+      "num": 220035,
+      "word": "恋与深空登顶",
+      "onboard_time": 1750126039,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 219684,
@@ -2699,14 +2731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 208017,
-      "num": 282667,
-      "word": "热播剧男主回应接戏难兼职泰山陪爬",
-      "onboard_time": 1750122381,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207871,
       "num": 207871,
       "word": "上海老年人相亲有多直接",
@@ -2771,12 +2795,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204542,
+      "num": 204542,
+      "word": "家长怒斥中学宿舍条件不如二十年前",
+      "onboard_time": 1750126340,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204015,
       "num": 263614,
       "word": "林俊杰首尔好像火车站接站现场",
       "onboard_time": 1750077861,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203427,
+      "num": 203427,
+      "word": "深圳地铁辟谣11号线发生爆炸",
+      "onboard_time": 1750125861,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 202999,
@@ -3377,14 +3417,6 @@
       "onboard_time": 1749990261,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 177794,
-      "num": 177794,
-      "word": "痛经 吃榴莲",
-      "onboard_time": 1750125140,
-      "rank": 23,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 177692,
@@ -4577,6 +4609,14 @@
       "onboard_time": 1749958460,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139002,
+      "num": 139002,
+      "word": "特朗普因以伊冲突提前回国",
+      "onboard_time": 1750125200,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138956,
@@ -6196,7 +6236,7 @@
     },
     {
       "raw_hot": 107200,
-      "num": 152948,
+      "num": 163275,
       "word": "王一博干一行行一行",
       "onboard_time": 1750123279,
       "rank": 27,
@@ -6289,14 +6329,6 @@
       "onboard_time": 1750077020,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 101431,
-      "num": 101431,
-      "word": "特朗普因以伊冲突提前回国",
-      "onboard_time": 1750125200,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101126,
@@ -6435,6 +6467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97296,
+      "num": 97296,
+      "word": "荔枝蒂 虫子",
+      "onboard_time": 1750127059,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97242,
       "num": 123625,
       "word": "西瓜椰椰",
@@ -6500,7 +6540,7 @@
     },
     {
       "raw_hot": 94787,
-      "num": 152335,
+      "num": 159453,
       "word": "刘诗诗发博支持郭晓婷新剧",
       "onboard_time": 1750121180,
       "rank": 28,
@@ -6577,6 +6617,14 @@
       "onboard_time": 1750003702,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91086,
+      "num": 91086,
+      "word": "巴黎航展将以色列武器一整个拉黑",
+      "onboard_time": 1750126701,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90694,
@@ -6699,6 +6747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86383,
+      "num": 86383,
+      "word": "健身房里的安全感",
+      "onboard_time": 1750125499,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 86263,
       "num": 86263,
       "word": "下了2个APP后手机黑屏被划走10多万",
@@ -6763,20 +6819,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82513,
+      "num": 82513,
+      "word": "我有个烧钱且小众的爱好",
+      "onboard_time": 1750126701,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82503,
       "num": 299724,
       "word": "博主称法学新传是文科专业黄金赛道",
       "onboard_time": 1750065082,
       "rank": 13,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 82293,
-      "num": 82293,
-      "word": "健身房里的安全感",
-      "onboard_time": 1750125499,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 82092,
@@ -7137,6 +7193,14 @@
       "onboard_time": 1749940875,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63826,
+      "num": 308480,
+      "word": "伊朗主播直播中断前持续谴责以色列",
+      "onboard_time": 1750123580,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63529,
@@ -7952,6 +8016,14 @@
       "word": "文言文风格裁判文书被点赞",
       "onboard_time": 1750000222,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32105,
+      "num": 305830,
+      "word": "事故善后政府安排住宿3年后追索房费",
+      "onboard_time": 1750126280,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
