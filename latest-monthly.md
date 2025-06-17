@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 06:43:47
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 07:24:47
 </p>
 </blockquote>
 <p>
@@ -993,6 +993,12 @@ GAI是不是想走了（热度：1689581）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E6%94%B6%E8%B4%B92.8%E4%B8%87%E5%AE%B6%E5%B1%9E%E9%97%AE%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BE%BF%E5%AE%9C%E7%82%B9%23" target="weibo">
+救护车收费2.8万家属问能不能便宜点（热度：1493765）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E8%B5%B0%E9%94%99%E8%80%83%E5%9C%BA%E7%9A%84%E5%AD%A6%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 第一批走错考场的学生出现了（热度：1488888）
 </a>
@@ -1223,12 +1229,6 @@ A股跳水（热度：1454990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%94%9F%E4%BD%9C%E5%BC%8A%E5%AE%B6%E9%95%BF%E7%94%A8%E9%92%B1%E6%91%86%E5%B9%B3%E7%B3%BB%E6%91%86%E6%8B%8D%23" target="weibo">
 高考生作弊家长用钱摆平系摆拍（热度：1345428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E6%94%B6%E8%B4%B92.8%E4%B8%87%E5%AE%B6%E5%B1%9E%E9%97%AE%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BE%BF%E5%AE%9C%E7%82%B9%23" target="weibo">
-救护车收费2.8万家属问能不能便宜点（热度：1342324）
 </a>
 </li>
 
@@ -1757,6 +1757,12 @@ Labubu爆火离不开这四大因素（热度：1131522）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%BE%E6%96%BD%E8%A2%AB%E7%82%B8%23" target="weibo">
 伊朗核设施被炸（热度：1129904）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E8%BD%A6%E7%A5%B8%23" target="weibo">
+沈阳车祸（热度：1125852）
 </a>
 </li>
 
@@ -2381,12 +2387,6 @@ Labubu设计师曾失意30年（热度：959623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%9B%9E%E5%BA%94400%E4%BA%BF%E4%BC%A0%E9%97%BB%23" target="weibo">
 陈梦回应400亿传闻（热度：957599）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E8%BD%A6%E7%A5%B8%23" target="weibo">
-沈阳车祸（热度：957292）
 </a>
 </li>
 
