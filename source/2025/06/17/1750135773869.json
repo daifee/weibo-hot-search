@@ -1,0 +1,410 @@
+{
+  "runTime": 1750135773869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2422492,
+        "num": 2422492,
+        "word": "陈彼得去世",
+        "onboard_time": 1750130960,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598570,
+        "num": 598570,
+        "word": "第一次见脂包骨的身材",
+        "onboard_time": 1750130361,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49771,
+        "num": 566977,
+        "word": "中国人一锹一锹种出的绿色未来",
+        "onboard_time": 1750131623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1021769,
+        "num": 565841,
+        "word": "1w奖学金到账后我们家的资金流动",
+        "onboard_time": 1750125621,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 817973,
+        "num": 561148,
+        "word": "柜姐向陈哲远道歉",
+        "onboard_time": 1750131982,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552254,
+        "num": 552254,
+        "word": "荔枝蒂 虫子",
+        "onboard_time": 1750127059,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470881,
+        "num": 470881,
+        "word": "iPhone 直板夹",
+        "onboard_time": 1750134262,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 466633,
+        "num": 466633,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1750119681,
+        "rank": 7,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 463518,
+        "num": 463518,
+        "word": "曾舜晞白鹿婚纱营业",
+        "onboard_time": 1750129161,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340338,
+        "num": 462972,
+        "word": "继父强奸案时隔10年无罪改判8年",
+        "onboard_time": 1750128020,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1335353,
+        "num": 457801,
+        "word": "王安宇QQ号",
+        "onboard_time": 1750133783,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1057225,
+        "num": 455920,
+        "word": "规培生全麻插管致患者死亡",
+        "onboard_time": 1750129940,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629842,
+        "num": 452412,
+        "word": "鹿晗送labubu",
+        "onboard_time": 1750131801,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610210,
+        "num": 448948,
+        "word": "那尔那茜哥哥 数学10分",
+        "onboard_time": 1750135103,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141962,
+        "num": 446021,
+        "word": "沉浸式感受福建舰要冲出屏幕了",
+        "onboard_time": 1750129401,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 524758,
+        "num": 442429,
+        "word": "朱丹发言",
+        "onboard_time": 1750131140,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503866,
+        "num": 438735,
+        "word": "临江仙破万被质疑",
+        "onboard_time": 1750132702,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 437695,
+        "num": 437695,
+        "word": "以色列总理儿子婚礼引发争议",
+        "onboard_time": 1750133004,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357700,
+        "num": 357700,
+        "word": "MiuMiu男孩沈腾",
+        "onboard_time": 1750131623,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252977,
+        "num": 314393,
+        "word": "家长怒斥中学宿舍条件不如二十年前",
+        "onboard_time": 1750126340,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268134,
+        "num": 305995,
+        "word": "湖南卫视开心夜节目单",
+        "onboard_time": 1750128860,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 305076,
+        "num": 305076,
+        "word": "特朗普宣称期待G7变G8",
+        "onboard_time": 1750128079,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296614,
+        "num": 296614,
+        "word": "男演员没戏拍兼职699元陪爬泰山",
+        "onboard_time": 1750119201,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283861,
+        "num": 283861,
+        "word": "写一剪梅的爷爷去了音乐天堂",
+        "onboard_time": 1750134204,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213530,
+        "num": 264686,
+        "word": "超1000种职业证书可用于花呗提额",
+        "onboard_time": 1750131320,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260046,
+        "num": 260046,
+        "word": "陈哲远被柜姐突袭搂抱",
+        "onboard_time": 1750131863,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254166,
+        "num": 254166,
+        "word": "小鱼海棠婚纱照",
+        "onboard_time": 1750131081,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249581,
+        "num": 249581,
+        "word": "彭昱畅怎么瘦成这样了",
+        "onboard_time": 1750135463,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37030,
+        "num": 225875,
+        "word": "安慕希玩梗长安的荔枝",
+        "onboard_time": 1750134804,
+        "rank": 28,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 56584,
+        "num": 224465,
+        "word": "迪拜摩天大楼起火",
+        "onboard_time": 1750134744,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224464,
+        "num": 224464,
+        "word": "王励勤带领国乒出席开幕式",
+        "onboard_time": 1750128020,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135639,
+        "num": 207167,
+        "word": "蒋欣新剧人设",
+        "onboard_time": 1750132041,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206603,
+        "num": 206603,
+        "word": "恋与深空登顶",
+        "onboard_time": 1750126039,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202142,
+        "num": 202142,
+        "word": "刘宇宁巡演官宣",
+        "onboard_time": 1750134444,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199458,
+        "num": 199458,
+        "word": "雁回时 短剧",
+        "onboard_time": 1750133423,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198921,
+        "num": 198921,
+        "word": "格莱美提名歌手参加选秀无人熟知",
+        "onboard_time": 1750133783,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94054,
+        "num": 198219,
+        "word": "极氪9X新颜色",
+        "onboard_time": 1750131320,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 180354,
+        "num": 197222,
+        "word": "孙颖莎王曼昱中远台实力展示",
+        "onboard_time": 1750134683,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89560,
+        "num": 196427,
+        "word": "彭昱畅新剧完全是掌门级别的",
+        "onboard_time": 1750133183,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7775,
+        "num": 195612,
+        "word": "城市萌趣IP符号的悄然兴起",
+        "onboard_time": 1750132883,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195275,
+        "num": 195275,
+        "word": "痛经 吃榴莲",
+        "onboard_time": 1750125140,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 188708,
+        "num": 188708,
+        "word": "销冠到哪里都是销冠",
+        "onboard_time": 1750134444,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195425,
+        "num": 187997,
+        "word": "黄圣依对婚姻还有憧憬",
+        "onboard_time": 1750134564,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187169,
+        "num": 187169,
+        "word": "美军大举增援中东目的何在",
+        "onboard_time": 1750133362,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154607,
+        "num": 181379,
+        "word": "教体局通报中学宿舍铁床生锈木门破烂",
+        "onboard_time": 1750127780,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 180238,
+        "num": 180238,
+        "word": "第一次想用太适合当孙子来形容一个人",
+        "onboard_time": 1750134262,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178836,
+        "num": 178836,
+        "word": "特朗普收到C罗签名球衣",
+        "onboard_time": 1750133062,
+        "rank": 46,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 169773,
+        "num": 169773,
+        "word": "李艺彤很抱歉让房琪雪上加霜",
+        "onboard_time": 1750132522,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169110,
+        "num": 169110,
+        "word": "蔡徐坤高清路透图",
+        "onboard_time": 1750134564,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166833,
+        "num": 166833,
+        "word": "永夜星河 拉新榜",
+        "onboard_time": 1750133302,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中哈命运共同体成色更足内涵更丰富#"
+    }
+  }
+}

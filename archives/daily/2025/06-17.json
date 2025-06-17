@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750134901167,
+  "endTime": 1750135773869,
   "band_list": [
     {
       "raw_hot": 2600623,
@@ -27,8 +27,16 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 1018923,
-      "num": 388091,
+      "raw_hot": 1335353,
+      "num": 457801,
+      "word": "王安宇QQ号",
+      "onboard_time": 1750133783,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1057225,
+      "num": 455920,
       "word": "规培生全麻插管致患者死亡",
       "onboard_time": 1750129940,
       "rank": 38,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 858255,
-      "num": 502030,
+      "num": 561148,
       "word": "柜姐向陈哲远道歉",
       "onboard_time": 1750131982,
       "rank": 4,
@@ -107,14 +115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 667581,
-      "num": 387113,
-      "word": "王安宇QQ号",
-      "onboard_time": 1750133783,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 662929,
       "num": 662929,
       "word": "间谍用word套取我国敏感数据",
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 636803,
-      "num": 386683,
+      "num": 452412,
       "word": "鹿晗送labubu",
       "onboard_time": 1750131801,
       "rank": 12,
@@ -147,8 +147,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 610210,
+      "num": 448948,
+      "word": "那尔那茜哥哥 数学10分",
+      "onboard_time": 1750135103,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 598570,
+      "num": 598570,
+      "word": "第一次见脂包骨的身材",
+      "onboard_time": 1750130361,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 547747,
-      "num": 386156,
+      "num": 442429,
       "word": "朱丹发言",
       "onboard_time": 1750131140,
       "rank": 20,
@@ -187,12 +203,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 499957,
-      "num": 499957,
-      "word": "第一次见脂包骨的身材",
-      "onboard_time": 1750130361,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 503866,
+      "num": 438735,
+      "word": "临江仙破万被质疑",
+      "onboard_time": 1750132702,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 488721,
@@ -203,6 +219,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 470881,
+      "num": 470881,
+      "word": "iPhone 直板夹",
+      "onboard_time": 1750134262,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 465349,
       "num": 329919,
       "word": "闫佩伦婚礼",
@@ -211,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438616,
-      "num": 384957,
-      "word": "临江仙破万被质疑",
-      "onboard_time": 1750132702,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 437695,
+      "num": 437695,
+      "word": "以色列总理儿子婚礼引发争议",
+      "onboard_time": 1750133004,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 435286,
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 388741,
-      "num": 388741,
+      "num": 462972,
       "word": "继父强奸案时隔10年无罪改判8年",
       "onboard_time": 1750128020,
       "rank": 33,
@@ -291,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 357700,
+      "num": 357700,
+      "word": "MiuMiu男孩沈腾",
+      "onboard_time": 1750131623,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357047,
       "num": 357047,
       "word": "陈哲远被柜姐突袭搂抱",
@@ -304,14 +336,6 @@
       "word": "内塔尼亚胡儿子婚礼被推迟",
       "onboard_time": 1750124241,
       "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 353561,
-      "num": 353561,
-      "word": "以色列总理儿子婚礼引发争议",
-      "onboard_time": 1750133004,
-      "rank": 21,
       "category": "国际时政"
     },
     {
@@ -363,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305210,
-      "num": 305210,
-      "word": "MiuMiu男孩沈腾",
-      "onboard_time": 1750131623,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 300089,
       "num": 300089,
       "word": "在以中国公民尽快陆路离境",
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 287936,
-      "num": 287936,
+      "num": 446021,
       "word": "沉浸式感受福建舰要冲出屏幕了",
       "onboard_time": 1750129401,
       "rank": 16,
@@ -435,20 +451,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 283861,
+      "num": 388597,
+      "word": "写一剪梅的爷爷去了音乐天堂",
+      "onboard_time": 1750134204,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281918,
       "num": 281918,
       "word": "朱丹说周翊然想要女儿是异性相吸",
       "onboard_time": 1750119861,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281403,
-      "num": 281403,
-      "word": "iPhone 直板夹",
-      "onboard_time": 1750134262,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 273441,
@@ -459,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268134,
+      "num": 368950,
+      "word": "湖南卫视开心夜节目单",
+      "onboard_time": 1750128860,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 254178,
       "num": 128010,
       "word": "男性其实更需要亲密关系",
       "onboard_time": 1750114939,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249581,
+      "num": 249581,
+      "word": "彭昱畅怎么瘦成这样了",
+      "onboard_time": 1750135463,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 248804,
@@ -539,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213530,
+      "num": 292940,
+      "word": "超1000种职业证书可用于花呗提额",
+      "onboard_time": 1750131320,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212771,
       "num": 212771,
       "word": "黄圣依对婚姻还有憧憬",
@@ -571,16 +611,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 202271,
-      "num": 292940,
-      "word": "超1000种职业证书可用于花呗提额",
-      "onboard_time": 1750131320,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199372,
-      "num": 199372,
+      "raw_hot": 202142,
+      "num": 202142,
       "word": "刘宇宁巡演官宣",
       "onboard_time": 1750134444,
       "rank": 40,
@@ -601,6 +633,14 @@
       "onboard_time": 1750089980,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187169,
+      "num": 357468,
+      "word": "美军大举增援中东目的何在",
+      "onboard_time": 1750133362,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 186315,
@@ -635,12 +675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 179183,
-      "num": 368950,
-      "word": "湖南卫视开心夜节目单",
-      "onboard_time": 1750128860,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 180354,
+      "num": 203326,
+      "word": "孙颖莎王曼昱中远台实力展示",
+      "onboard_time": 1750134683,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 178939,
@@ -683,6 +723,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 169110,
+      "num": 169110,
+      "word": "蔡徐坤高清路透图",
+      "onboard_time": 1750134564,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167676,
       "num": 167676,
       "word": "减肥真的会改变面相",
@@ -713,14 +761,6 @@
       "onboard_time": 1750134623,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 155721,
-      "num": 357468,
-      "word": "美军大举增援中东目的何在",
-      "onboard_time": 1750133362,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 153258,
@@ -851,14 +891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130935,
-      "num": 388597,
-      "word": "写一剪梅的爷爷去了音乐天堂",
-      "onboard_time": 1750134204,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130468,
       "num": 130468,
       "word": "初一男生因未答出问题被班主任踢伤",
@@ -881,14 +913,6 @@
       "onboard_time": 1750128260,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126628,
-      "num": 203326,
-      "word": "孙颖莎王曼昱中远台实力展示",
-      "onboard_time": 1750134683,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 126373,
@@ -988,7 +1012,7 @@
     },
     {
       "raw_hot": 112816,
-      "num": 167094,
+      "num": 196427,
       "word": "彭昱畅新剧完全是掌门级别的",
       "onboard_time": 1750133183,
       "rank": 48,
@@ -1451,8 +1475,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 49537,
-      "num": 502716,
+      "raw_hot": 49771,
+      "num": 566977,
       "word": "中国人一锹一锹种出的绿色未来",
       "onboard_time": 1750131623,
       "rank": 2,
@@ -1491,6 +1515,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 37030,
+      "num": 225875,
+      "word": "安慕希玩梗长安的荔枝",
+      "onboard_time": 1750134804,
+      "rank": 34,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 35649,
       "num": 35649,
       "word": "和蔡徐坤一起听浪漫北京",
@@ -1505,14 +1537,6 @@
       "onboard_time": 1750093218,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34825,
-      "num": 213945,
-      "word": "安慕希玩梗长安的荔枝",
-      "onboard_time": 1750134804,
-      "rank": 34,
-      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 32898,
