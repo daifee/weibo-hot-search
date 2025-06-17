@@ -1,0 +1,410 @@
+{
+  "runTime": 1750157193823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 813827,
+        "num": 1130212,
+        "word": "伊朗导弹雨",
+        "onboard_time": 1750150940,
+        "rank": 0,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 672253,
+        "num": 672253,
+        "word": "撤侨",
+        "onboard_time": 1750153101,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31536,
+        "num": 619281,
+        "word": "中国经济高质量发展向优向新",
+        "onboard_time": 1750151361,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1245393,
+        "num": 605752,
+        "word": "23岁女孩喉咙不适输液2分钟后身亡",
+        "onboard_time": 1750155322,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568901,
+        "num": 568901,
+        "word": "泡泡玛特市值蒸发超200亿",
+        "onboard_time": 1750153522,
+        "rank": 4,
+        "category": "财经,动漫"
+      },
+      {
+        "raw_hot": 548402,
+        "num": 548402,
+        "word": "宁静已经够给朱丹面子了",
+        "onboard_time": 1750154900,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16383,
+        "num": 490568,
+        "word": "我国跨境电商交出亮眼成绩单",
+        "onboard_time": 1750151121,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435997,
+        "num": 435997,
+        "word": "陈彼得去世",
+        "onboard_time": 1750130960,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376840,
+        "num": 376840,
+        "word": "伊朗称不会让以色列有一刻安宁",
+        "onboard_time": 1750154482,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 327529,
+        "num": 327529,
+        "word": "暴力熊 Labubu",
+        "onboard_time": 1750144700,
+        "rank": 9,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 646537,
+        "num": 327358,
+        "word": "刘浩存终于换掉了微商头像",
+        "onboard_time": 1750149982,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624872,
+        "num": 327271,
+        "word": "徐佳莹 薛之谦",
+        "onboard_time": 1750151242,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 325448,
+        "num": 325448,
+        "word": "湖南将承办2029年第十六届全运会",
+        "onboard_time": 1750155802,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588409,
+        "num": 319975,
+        "word": "朱丹让女儿留级",
+        "onboard_time": 1750143980,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548010,
+        "num": 315563,
+        "word": "能不能禁止刘亦菲和人打招呼",
+        "onboard_time": 1750147940,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224618,
+        "num": 306322,
+        "word": "临江仙破万 奇迹的诞生",
+        "onboard_time": 1750150103,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212446,
+        "num": 296258,
+        "word": "周翊然情商",
+        "onboard_time": 1750151301,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214543,
+        "num": 289852,
+        "word": "黄子韬方回应品牌卫生巾有黑色异物",
+        "onboard_time": 1750155381,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286445,
+        "num": 286445,
+        "word": "印度空难幸存者走出火场最新画面",
+        "onboard_time": 1750147641,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39435,
+        "num": 285688,
+        "word": "济南一考点可参加上海高考",
+        "onboard_time": 1750156401,
+        "rank": 19,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 285474,
+        "num": 285474,
+        "word": "醉驾撞死3人案家属称死者最大才20岁",
+        "onboard_time": 1750155021,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262084,
+        "num": 262084,
+        "word": "男子称婚后不交工资每周都被媳妇打",
+        "onboard_time": 1750148662,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235614,
+        "num": 235614,
+        "word": "中国组织撤离以色列伊朗的中国公民",
+        "onboard_time": 1750147522,
+        "rank": 22,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 197464,
+        "num": 197464,
+        "word": "月薪1万以上算不算高收入",
+        "onboard_time": 1750154182,
+        "rank": 23,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 196172,
+        "num": 196172,
+        "word": "这个长相的都爆红了",
+        "onboard_time": 1750145960,
+        "rank": 24,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 195907,
+        "num": 195907,
+        "word": "女子以为绝经喝中药不知竟怀孕17周",
+        "onboard_time": 1750146321,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147309,
+        "num": 195906,
+        "word": "爱奇艺破万机制",
+        "onboard_time": 1750156881,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125789,
+        "num": 195885,
+        "word": "刘宇宁谢不完根本谢不完",
+        "onboard_time": 1750154841,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123406,
+        "num": 195880,
+        "word": "印度空难幸存者从滚滚黑烟中走出",
+        "onboard_time": 1750151843,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21996,
+        "num": 195865,
+        "word": "被醉驾车顶行600米交警不能白白牺牲",
+        "onboard_time": 1750156282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195859,
+        "num": 195859,
+        "word": "战至巅峰路透",
+        "onboard_time": 1750156101,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165780,
+        "num": 165780,
+        "word": "中国胃会惩罚每个出国的人",
+        "onboard_time": 1750155201,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159972,
+        "num": 159972,
+        "word": "徐佳莹粉丝因为嘉宾退票",
+        "onboard_time": 1750148002,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142926,
+        "num": 142926,
+        "word": "以色列摩萨德总部遭导弹打击",
+        "onboard_time": 1750155322,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138120,
+        "num": 138120,
+        "word": "油价",
+        "onboard_time": 1750153041,
+        "rank": 34,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 137167,
+        "num": 137167,
+        "word": "蔡天凤碎尸案两被告被判有罪",
+        "onboard_time": 1750147641,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123346,
+        "num": 123346,
+        "word": "全国高温Top3被川渝包揽",
+        "onboard_time": 1750151001,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119697,
+        "num": 119697,
+        "word": "陈都灵周翊然平番",
+        "onboard_time": 1750154121,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 939329,
+        "num": 117404,
+        "word": "黄子韬卫生巾 黑色异物",
+        "onboard_time": 1750151001,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113810,
+        "num": 113810,
+        "word": "泡泡玛特",
+        "onboard_time": 1750157062,
+        "rank": 39,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 112340,
+        "num": 112340,
+        "word": "外交部回应华为中芯国际进台湾实体名单",
+        "onboard_time": 1750151062,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108751,
+        "num": 108751,
+        "word": "伊朗再次称击落F35战机",
+        "onboard_time": 1750152622,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107856,
+        "num": 107856,
+        "word": "朱一龙体脂率不到10%",
+        "onboard_time": 1750152801,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104999,
+        "num": 104999,
+        "word": "临江仙",
+        "onboard_time": 1750152501,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101620,
+        "num": 101620,
+        "word": "旅客举报K783次列车员餐车内吸烟",
+        "onboard_time": 1750157002,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98914,
+        "num": 98914,
+        "word": "荔枝牛肉",
+        "onboard_time": 1750156822,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95699,
+        "num": 95699,
+        "word": "中国乘客飞机上拍下伊朗导弹袭以",
+        "onboard_time": 1750136662,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95663,
+        "num": 95663,
+        "word": "彭昱畅怎么瘦成这样了",
+        "onboard_time": 1750135463,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94681,
+        "num": 94681,
+        "word": "以军说打死伊朗最高军事指挥官",
+        "onboard_time": 1750143803,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87812,
+        "num": 87812,
+        "word": "医院缴费必须先帮工作人员扫码砍价",
+        "onboard_time": 1750146441,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见别尔德穆哈梅多夫#"
+    }
+  }
+}
