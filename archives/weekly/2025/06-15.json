@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750179077064,
+  "endTime": 1750181047858,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -2259,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344290,
+      "num": 248004,
+      "word": "米兰",
+      "onboard_time": 1750178539,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343647,
       "num": 343647,
       "word": "印度一男孩遭坠毁客机碎片砸中身亡",
@@ -2697,14 +2705,6 @@
       "onboard_time": 1750121839,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 286978,
-      "num": 248004,
-      "word": "米兰",
-      "onboard_time": 1750178539,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 286608,
@@ -5348,7 +5348,7 @@
     },
     {
       "raw_hot": 165487,
-      "num": 165487,
+      "num": 187942,
       "word": "人类不能回到丛林法则",
       "onboard_time": 1750173622,
       "rank": 39,
@@ -9907,6 +9907,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56325,
+      "num": 56325,
+      "word": "无论何时都不要停止学习",
+      "onboard_time": 1750179798,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56290,
+      "num": 233793,
+      "word": "中国公民暂勿前往伊朗以色列",
+      "onboard_time": 1750178358,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55425,
       "num": 421651,
       "word": "临澧镇政府回应花炮厂爆炸起火",
@@ -10179,6 +10195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48707,
+      "num": 64545,
+      "word": "索尼英雌",
+      "onboard_time": 1750178958,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 48664,
       "num": 48664,
       "word": "Knight赛后致歉",
@@ -10401,6 +10425,14 @@
       "onboard_time": 1750055480,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 42217,
+      "num": 55035,
+      "word": "女子称劝导不文明观影反被扇巴掌",
+      "onboard_time": 1750179858,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41771,
@@ -10657,14 +10689,6 @@
       "onboard_time": 1749978620,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36826,
-      "num": 233793,
-      "word": "中国公民暂勿前往伊朗以色列",
-      "onboard_time": 1750178358,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 36777,
@@ -10931,14 +10955,6 @@
       "category": "旅游,民生新闻"
     },
     {
-      "raw_hot": 30268,
-      "num": 64545,
-      "word": "索尼英雌",
-      "onboard_time": 1750178958,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 30225,
       "num": 1082225,
       "word": "复兴路上弄潮儿",
@@ -11049,6 +11065,14 @@
       "onboard_time": 1749968840,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 27237,
+      "num": 121328,
+      "word": "歌手官宣麦可布雷袭榜",
+      "onboard_time": 1750180277,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 27187,

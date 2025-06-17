@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750179077064,
+  "endTime": 1750181047858,
   "band_list": [
     {
       "raw_hot": 1342324,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344290,
+      "num": 248004,
+      "word": "米兰",
+      "onboard_time": 1750178539,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342219,
       "num": 268296,
       "word": "第一次这么直观区别电影脸电视脸",
@@ -97,14 +105,6 @@
       "onboard_time": 1750171584,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 286978,
-      "num": 248004,
-      "word": "米兰",
-      "onboard_time": 1750178539,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 280931,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70114,
+      "num": 99320,
+      "word": "快递盒印小狗快递员配送让快递员不适",
+      "onboard_time": 1750159221,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69840,
       "num": 69840,
       "word": "vava瘦了好多",
@@ -379,14 +387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65408,
-      "num": 65408,
-      "word": "快递盒印小狗快递员配送让快递员不适",
-      "onboard_time": 1750159221,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64896,
       "num": 64896,
       "word": "徐佳莹 薛之谦",
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 63863,
-      "num": 63863,
+      "num": 187942,
       "word": "人类不能回到丛林法则",
       "onboard_time": 1750173622,
       "rank": 48,
@@ -411,6 +411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56325,
+      "num": 56325,
+      "word": "无论何时都不要停止学习",
+      "onboard_time": 1750179798,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56290,
+      "num": 233793,
+      "word": "中国公民暂勿前往伊朗以色列",
+      "onboard_time": 1750178358,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53837,
       "num": 149564,
       "word": "网络现浓缩营养餐卖家称可替代正餐",
@@ -419,20 +435,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36826,
-      "num": 233793,
-      "word": "中国公民暂勿前往伊朗以色列",
-      "onboard_time": 1750178358,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 30268,
+      "raw_hot": 48707,
       "num": 64545,
       "word": "索尼英雌",
       "onboard_time": 1750178958,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 42217,
+      "num": 55035,
+      "word": "女子称劝导不文明观影反被扇巴掌",
+      "onboard_time": 1750179858,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27237,
+      "num": 121328,
+      "word": "歌手官宣麦可布雷袭榜",
+      "onboard_time": 1750180277,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 3450,
