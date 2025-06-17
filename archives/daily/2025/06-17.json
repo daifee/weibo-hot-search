@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750165762842,
+  "endTime": 1750167469838,
   "band_list": [
     {
       "raw_hot": 2600623,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 878781,
+      "num": 1140605,
+      "word": "涉钱德勒演员死亡案一医生同意认罪",
+      "onboard_time": 1750165581,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 861801,
       "num": 687494,
       "word": "特朗普宣称期待G7变G8",
@@ -323,6 +331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 664593,
+      "num": 332535,
+      "word": "曾舜晞跟姐姐共用一张脸",
+      "onboard_time": 1750163301,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 662929,
       "num": 662929,
       "word": "间谍用word套取我国敏感数据",
@@ -363,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 614409,
+      "num": 330674,
+      "word": "小小周",
+      "onboard_time": 1750161261,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 607541,
       "num": 607541,
       "word": "深圳一房屋沉降已封控25栋",
@@ -379,20 +403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 602390,
-      "num": 272330,
-      "word": "曾舜晞跟姐姐共用一张脸",
-      "onboard_time": 1750163301,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 595519,
       "num": 264977,
       "word": "朱丹",
       "onboard_time": 1750159582,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 593844,
+      "num": 593844,
+      "word": "何秋亊工作室致歉声明",
+      "onboard_time": 1750165522,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 577182,
@@ -435,12 +459,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 544896,
+      "num": 372637,
+      "word": "湖南卫视618开心夜",
+      "onboard_time": 1750164621,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 543743,
       "num": 225676,
       "word": "短剧男主回应一胎99子剧情",
       "onboard_time": 1750093277,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 537699,
+      "num": 514095,
+      "word": "那英全开麦",
+      "onboard_time": 1750163961,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 536981,
@@ -457,14 +497,6 @@
       "onboard_time": 1750144281,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 514095,
-      "num": 514095,
-      "word": "那英全开麦",
-      "onboard_time": 1750163961,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 510864,
@@ -587,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 415426,
-      "num": 251516,
-      "word": "湖南卫视618开心夜",
-      "onboard_time": 1750164621,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 410947,
       "num": 410947,
       "word": "男子养了10年的女儿竟不是亲生的",
@@ -657,6 +681,14 @@
       "onboard_time": 1750125799,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373033,
+      "num": 323776,
+      "word": "公认现象级大爆剧",
+      "onboard_time": 1750165882,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 368540,
@@ -793,6 +825,14 @@
       "onboard_time": 1750141521,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315059,
+      "num": 315059,
+      "word": "吴宣仪翟潇闻台上借位吻",
+      "onboard_time": 1750165821,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 310631,
@@ -1059,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231447,
+      "num": 231447,
+      "word": "第一次这么直观区别电影脸电视脸",
+      "onboard_time": 1750165221,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230267,
       "num": 230267,
       "word": "男子卖茅台7年多近期转型卖拉布布",
@@ -1163,12 +1211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211073,
-      "num": 211073,
-      "word": "小小周",
-      "onboard_time": 1750161261,
-      "rank": 25,
-      "category": "幽默"
+      "raw_hot": 211426,
+      "num": 211426,
+      "word": "祁煜利莫里亚海神",
+      "onboard_time": 1750165341,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 210579,
@@ -1267,12 +1315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190505,
-      "num": 258135,
-      "word": "何秋亊工作室致歉声明",
-      "onboard_time": 1750165522,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 190639,
+      "num": 190639,
+      "word": "陈星旭评论区不是无人区",
+      "onboard_time": 1750166121,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 190058,
@@ -1379,14 +1427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 180441,
-      "num": 180441,
-      "word": "祁煜利莫里亚海神",
-      "onboard_time": 1750165341,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 180354,
       "num": 203326,
       "word": "孙颖莎王曼昱中远台实力展示",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1750144461,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172858,
+      "num": 172858,
+      "word": "周深云裳羽衣曲宿命感",
+      "onboard_time": 1750167323,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 172642,
@@ -1603,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162721,
+      "num": 337685,
+      "word": "相差14岁小男友提分手起诉女方还钱",
+      "onboard_time": 1750161980,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161979,
       "num": 161979,
       "word": "许嵩演唱会杭州双场官宣",
@@ -1617,14 +1673,6 @@
       "onboard_time": 1750144521,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159951,
-      "num": 171990,
-      "word": "第一次这么直观区别电影脸电视脸",
-      "onboard_time": 1750165221,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 159900,
@@ -1649,6 +1697,14 @@
       "onboard_time": 1750144761,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158947,
+      "num": 158947,
+      "word": "临江仙",
+      "onboard_time": 1750152501,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 158903,
@@ -1723,14 +1779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151852,
-      "num": 151852,
-      "word": "临江仙",
-      "onboard_time": 1750152501,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151602,
       "num": 151602,
       "word": "夏季赛第二周最佳阵容公布",
@@ -1803,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147977,
+      "num": 171908,
+      "word": "以色列情报机构被炸",
+      "onboard_time": 1750165400,
+      "rank": 46,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 147901,
       "num": 147901,
       "word": "以色列",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1750144941,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147234,
+      "num": 147234,
+      "word": "vava瘦了好多",
+      "onboard_time": 1750166962,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 146716,
@@ -1844,7 +1908,7 @@
     },
     {
       "raw_hot": 145515,
-      "num": 254220,
+      "num": 317369,
       "word": "京东补贴",
       "onboard_time": 1750165462,
       "rank": 17,
@@ -1875,14 +1939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144621,
-      "num": 263887,
-      "word": "相差14岁小男友提分手起诉女方还钱",
-      "onboard_time": 1750161980,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144325,
       "num": 416076,
       "word": "官方再通报深圳一小区房屋沉降",
@@ -1905,6 +1961,14 @@
       "onboard_time": 1750149801,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143304,
+      "num": 143304,
+      "word": "吴宣仪红裙玫瑰",
+      "onboard_time": 1750167382,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 142991,
@@ -2035,6 +2099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133299,
+      "num": 133299,
+      "word": "伊朗禁止官员使用联网设备",
+      "onboard_time": 1750163840,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132739,
       "num": 199891,
       "word": "第一次直观看见章子怡刘浩存有多像",
@@ -2107,14 +2179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128918,
-      "num": 128918,
-      "word": "伊朗禁止官员使用联网设备",
-      "onboard_time": 1750163840,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 128277,
       "num": 403169,
       "word": "京东618晚会",
@@ -2163,14 +2227,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 125745,
-      "num": 125745,
-      "word": "涉钱德勒演员死亡案一医生同意认罪",
-      "onboard_time": 1750165581,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 125638,
       "num": 125638,
       "word": "官方通报中考体育3监考教师助1考生舞弊",
@@ -2217,6 +2273,14 @@
       "onboard_time": 1750152622,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123724,
+      "num": 123724,
+      "word": "美网混双参赛名单",
+      "onboard_time": 1750167323,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 122711,
@@ -2283,14 +2347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117436,
-      "num": 117436,
-      "word": "以色列情报机构被炸",
-      "onboard_time": 1750165400,
-      "rank": 46,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 116439,
       "num": 116439,
       "word": "幼儿园第1天和高考后最后1天",
@@ -2329,6 +2385,14 @@
       "onboard_time": 1750163721,
       "rank": 49,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 114320,
+      "num": 114320,
+      "word": "去济州岛偷橘子让李栋旭追我",
+      "onboard_time": 1750166962,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 114236,
@@ -2491,6 +2555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102021,
+      "num": 102021,
+      "word": "周也 一瓯春",
+      "onboard_time": 1750167442,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101463,
       "num": 101463,
       "word": "杜淳老婆发文与剖腹产疤痕和解",
@@ -2617,6 +2689,14 @@
       "onboard_time": 1750158263,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 86577,
+      "num": 202295,
+      "word": "董路",
+      "onboard_time": 1750166482,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 86383,
@@ -2889,6 +2969,14 @@
       "onboard_time": 1750068621,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67734,
+      "num": 101073,
+      "word": "对湖南烟花爆炸事故依法依规问责",
+      "onboard_time": 1750165762,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 67374,
@@ -3201,6 +3289,14 @@
       "onboard_time": 1750151361,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37633,
+      "num": 282619,
+      "word": "伊朗袭击以方为何先用无人机后改用导弹",
+      "onboard_time": 1750167083,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37347,
@@ -3611,20 +3707,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 7829,
+      "num": 629131,
+      "word": "九组数据感知我国经济韧性活力",
+      "onboard_time": 1750131381,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7667,
       "num": 157360,
       "word": "为什么大学生更愿意接受AI工具",
       "onboard_time": 1750160180,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 4302,
-      "num": 535631,
-      "word": "九组数据感知我国经济韧性活力",
-      "onboard_time": 1750131381,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
