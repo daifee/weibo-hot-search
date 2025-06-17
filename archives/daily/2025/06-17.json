@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750139067917,
+  "endTime": 1750142261929,
   "band_list": [
     {
       "raw_hot": 2600623,
@@ -27,6 +27,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 1388669,
+      "num": 1388669,
+      "word": "人民日报谈单依纯改编歌曲李白",
+      "onboard_time": 1750137561,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1335353,
       "num": 457801,
       "word": "王安宇QQ号",
@@ -51,8 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 995507,
-      "num": 995507,
+      "raw_hot": 1055848,
+      "num": 1055848,
       "word": "湖南烟花厂爆炸已致9死26伤",
       "onboard_time": 1750137921,
       "rank": 33,
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461428,
+      "num": 338915,
+      "word": "向佐儿子近照曝光",
+      "onboard_time": 1750138402,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 437695,
       "num": 437695,
       "word": "以色列总理儿子婚礼引发争议",
@@ -275,12 +291,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 417596,
-      "num": 417596,
-      "word": "人民日报谈单依纯改编歌曲李白",
-      "onboard_time": 1750137561,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 426196,
+      "num": 426196,
+      "word": "无牙仔 Labubu",
+      "onboard_time": 1750141102,
+      "rank": 5,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 410947,
@@ -371,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 342386,
+      "num": 338159,
+      "word": "能不能不要往衣服上印minmin",
+      "onboard_time": 1750138881,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338439,
       "num": 338439,
       "word": "锦绣芳华书卷一梦对打",
@@ -411,8 +435,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320714,
-      "num": 320714,
+      "raw_hot": 324906,
+      "num": 324906,
+      "word": "近九成00后表示没背房贷车贷",
+      "onboard_time": 1750140740,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323425,
+      "num": 323425,
       "word": "印度坠机事故第二个11A奇迹",
       "onboard_time": 1750136483,
       "rank": 13,
@@ -507,20 +539,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282764,
+      "num": 282764,
+      "word": "李佳琦说没必要加钱买LABUBU",
+      "onboard_time": 1750137862,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281918,
       "num": 281918,
       "word": "朱丹说周翊然想要女儿是异性相吸",
       "onboard_time": 1750119861,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 274127,
-      "num": 336928,
-      "word": "向佐儿子近照曝光",
-      "onboard_time": 1750138402,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 273441,
@@ -539,20 +571,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 260732,
-      "num": 260732,
-      "word": "李佳琦说没必要加钱买LABUBU",
-      "onboard_time": 1750137862,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254178,
       "num": 128010,
       "word": "男性其实更需要亲密关系",
       "onboard_time": 1750114939,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250915,
+      "num": 313144,
+      "word": "文淇中戏毕业",
+      "onboard_time": 1750140621,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 248804,
@@ -625,6 +657,14 @@
       "onboard_time": 1750080560,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217820,
+      "num": 217820,
+      "word": "12岁误吞牙刷不敢告诉家人64岁才取出",
+      "onboard_time": 1750141641,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215219,
@@ -731,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186122,
+      "num": 186122,
+      "word": "Labubu造型师",
+      "onboard_time": 1750139301,
+      "rank": 31,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 185580,
       "num": 185580,
       "word": "特朗普收到C罗签名球衣",
@@ -755,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180459,
+      "num": 218123,
+      "word": "韩庚演唱会",
+      "onboard_time": 1750138944,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180354,
       "num": 203326,
       "word": "孙颖莎王曼昱中远台实力展示",
@@ -777,6 +833,14 @@
       "onboard_time": 1750133302,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176639,
+      "num": 341893,
+      "word": "我国载人登月又有新突破",
+      "onboard_time": 1750141521,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176195,
@@ -867,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166202,
+      "num": 166202,
+      "word": "我不信你们小时候没加过假的明星QQ",
+      "onboard_time": 1750141221,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161979,
       "num": 161979,
       "word": "许嵩演唱会杭州双场官宣",
@@ -905,14 +977,6 @@
       "onboard_time": 1750138700,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151683,
-      "num": 151683,
-      "word": "能不能不要往衣服上印minmin",
-      "onboard_time": 1750138881,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 150805,
@@ -995,12 +1059,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142701,
+      "num": 220926,
+      "word": "周雨彤拍谍报上不封顶有压力",
+      "onboard_time": 1750141702,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141303,
+      "num": 141303,
+      "word": "樊振东的乒超vlog",
+      "onboard_time": 1750138944,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141080,
       "num": 141080,
       "word": "NBA",
       "onboard_time": 1750124360,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140461,
+      "num": 196510,
+      "word": "张译一年奖励自己一部正剧",
+      "onboard_time": 1750141281,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 139086,
@@ -1025,14 +1113,6 @@
       "onboard_time": 1750128621,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 133646,
-      "num": 133646,
-      "word": "韩庚演唱会",
-      "onboard_time": 1750138944,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 133400,
@@ -1131,6 +1211,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122539,
+      "num": 122539,
+      "word": "女子常年为全家做饭确诊肺癌",
+      "onboard_time": 1750142241,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121251,
+      "num": 121251,
+      "word": "朱丹分鸡腿",
+      "onboard_time": 1750142241,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121136,
       "num": 121136,
       "word": "印度亿万富翁吞下一只蜜蜂后猝逝",
@@ -1144,6 +1240,14 @@
       "word": "教育局回应踢人被调岗班主任仍任职",
       "onboard_time": 1750119561,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120569,
+      "num": 141550,
+      "word": "用患者手机下购物APP员工被停岗",
+      "onboard_time": 1750140202,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1337,6 +1441,14 @@
       "onboard_time": 1750118060,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95064,
+      "num": 141365,
+      "word": "小鹏G7同级唯一标配857",
+      "onboard_time": 1750140621,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 94787,
@@ -1667,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51884,
+      "num": 312293,
+      "word": "我在景区做帅哥NPC一天壁咚300人",
+      "onboard_time": 1750141881,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51833,
       "num": 59084,
       "word": "听泉赏宝公司再次被诉",
@@ -1867,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24623,
+      "num": 120212,
+      "word": "黑执事妖狐仆SS梦幻联动",
+      "onboard_time": 1750138700,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 23914,
       "num": 31753,
       "word": "总台记者直击以色列伊朗大规模冲突",
@@ -1905,6 +2033,14 @@
       "onboard_time": 1750098675,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21201,
+      "num": 154991,
+      "word": "如何缓解经期腹泻疼痛",
+      "onboard_time": 1750142241,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 20344,
@@ -1963,6 +2099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 14749,
+      "num": 150168,
+      "word": "所有去认真谈恋爱的不能称为恋爱脑",
+      "onboard_time": 1750142181,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 12913,
       "num": 521568,
       "word": "中国方案让盐碱地破碱重生",
@@ -2001,6 +2145,9 @@
     },
     {
       "word": "#中哈命运共同体成色更足内涵更丰富#"
+    },
+    {
+      "word": "#坚定不移巩固中哈友好#"
     }
   ]
 }

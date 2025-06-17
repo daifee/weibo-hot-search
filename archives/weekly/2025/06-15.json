@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750139067917,
+  "endTime": 1750142261929,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1388669,
+      "num": 1388669,
+      "word": "人民日报谈单依纯改编歌曲李白",
+      "onboard_time": 1750137561,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1342302,
       "num": 448181,
       "word": "曾舜晞梁永棋去探班白鹿了",
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1055848,
+      "num": 1055848,
+      "word": "湖南烟花厂爆炸已致9死26伤",
+      "onboard_time": 1750137921,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1049607,
       "num": 1049607,
       "word": "陈梦说求婚现场人越多越好",
@@ -273,14 +289,6 @@
       "onboard_time": 1750079421,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 995507,
-      "num": 995507,
-      "word": "湖南烟花厂爆炸已致9死26伤",
-      "onboard_time": 1750137921,
-      "rank": 33,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 974312,
@@ -1275,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461428,
+      "num": 338915,
+      "word": "向佐儿子近照曝光",
+      "onboard_time": 1750138402,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448467,
       "num": 448467,
       "word": "喝了三杯才敢和刘亦菲说话",
@@ -1363,6 +1379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 426196,
+      "num": 426196,
+      "word": "无牙仔 Labubu",
+      "onboard_time": 1750141102,
+      "rank": 5,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 423520,
       "num": 423520,
       "word": "王安宇昧着良心说了一段高情商的话",
@@ -1393,14 +1417,6 @@
       "onboard_time": 1749946939,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 417596,
-      "num": 417596,
-      "word": "人民日报谈单依纯改编歌曲李白",
-      "onboard_time": 1750137561,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 416129,
@@ -1795,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342386,
+      "num": 338159,
+      "word": "能不能不要往衣服上印minmin",
+      "onboard_time": 1750138881,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 341741,
       "num": 341741,
       "word": "苏超地锅鸡1比0拿下醋坛子",
@@ -1907,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324906,
+      "num": 324906,
+      "word": "近九成00后表示没背房贷车贷",
+      "onboard_time": 1750140740,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324414,
       "num": 392103,
       "word": "婚宴252桌花50万嫌贵拒付款后续",
@@ -1915,20 +1947,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323425,
+      "num": 323425,
+      "word": "印度坠机事故第二个11A奇迹",
+      "onboard_time": 1750136483,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 323256,
       "num": 418531,
       "word": "湖南烟花爆炸事故已致1死6失联9伤",
       "onboard_time": 1750072281,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 320714,
-      "num": 320714,
-      "word": "印度坠机事故第二个11A奇迹",
-      "onboard_time": 1750136483,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 320548,
@@ -2195,6 +2227,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 282764,
+      "num": 282764,
+      "word": "李佳琦说没必要加钱买LABUBU",
+      "onboard_time": 1750137862,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282187,
       "num": 300828,
       "word": "王安宇你敢问我都不敢听",
@@ -2281,14 +2321,6 @@
       "onboard_time": 1749978381,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 274127,
-      "num": 336928,
-      "word": "向佐儿子近照曝光",
-      "onboard_time": 1750138402,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 273981,
@@ -2427,14 +2459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 260732,
-      "num": 260732,
-      "word": "李佳琦说没必要加钱买LABUBU",
-      "onboard_time": 1750137862,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260526,
       "num": 260526,
       "word": "新说唱向严浩翔粉丝道歉",
@@ -2537,6 +2561,14 @@
       "onboard_time": 1750058601,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250915,
+      "num": 313144,
+      "word": "文淇中戏毕业",
+      "onboard_time": 1750140621,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 249933,
@@ -2913,6 +2945,14 @@
       "onboard_time": 1750087761,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217820,
+      "num": 217820,
+      "word": "12岁误吞牙刷不敢告诉家人64岁才取出",
+      "onboard_time": 1750141641,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217445,
@@ -3603,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186122,
+      "num": 186122,
+      "word": "Labubu造型师",
+      "onboard_time": 1750139301,
+      "rank": 31,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 186059,
       "num": 186059,
       "word": "常州队粉丝打扮成恐龙前来助阵",
@@ -3755,6 +3803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180459,
+      "num": 218123,
+      "word": "韩庚演唱会",
+      "onboard_time": 1750138944,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180354,
       "num": 203326,
       "word": "孙颖莎王曼昱中远台实力展示",
@@ -3897,6 +3953,14 @@
       "onboard_time": 1749997283,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176639,
+      "num": 341893,
+      "word": "我国载人登月又有新突破",
+      "onboard_time": 1750141521,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176195,
@@ -4289,6 +4353,14 @@
       "onboard_time": 1750090460,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166202,
+      "num": 166202,
+      "word": "我不信你们小时候没加过假的明星QQ",
+      "onboard_time": 1750141221,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 166041,
@@ -4755,14 +4827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151683,
-      "num": 151683,
-      "word": "能不能不要往衣服上印minmin",
-      "onboard_time": 1750138881,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151664,
       "num": 242076,
       "word": "nova14人生的方向盘在自己手中",
@@ -5043,6 +5107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142701,
+      "num": 220926,
+      "word": "周雨彤拍谍报上不封顶有压力",
+      "onboard_time": 1750141702,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142686,
       "num": 142686,
       "word": "黎深第五肋间",
@@ -5064,6 +5136,14 @@
       "word": "霍华德与师弟互殴",
       "onboard_time": 1749955401,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141303,
+      "num": 141303,
+      "word": "樊振东的乒超vlog",
+      "onboard_time": 1750138944,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -5105,6 +5185,14 @@
       "onboard_time": 1749964400,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140461,
+      "num": 196510,
+      "word": "张译一年奖励自己一部正剧",
+      "onboard_time": 1750141281,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 140412,
@@ -5401,14 +5489,6 @@
       "onboard_time": 1750128621,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 133646,
-      "num": 133646,
-      "word": "韩庚演唱会",
-      "onboard_time": 1750138944,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 133400,
@@ -6075,6 +6155,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 122539,
+      "num": 122539,
+      "word": "女子常年为全家做饭确诊肺癌",
+      "onboard_time": 1750142241,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122406,
       "num": 186759,
       "word": "印度考虑停飞所有波音787客机",
@@ -6131,6 +6219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121251,
+      "num": 121251,
+      "word": "朱丹分鸡腿",
+      "onboard_time": 1750142241,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120979,
       "num": 120979,
       "word": "伊朗对以色列发动5轮袭击",
@@ -6169,6 +6265,14 @@
       "onboard_time": 1750064780,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120569,
+      "num": 141550,
+      "word": "用患者手机下购物APP员工被停岗",
+      "onboard_time": 1750140202,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120532,
@@ -7179,6 +7283,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 95064,
+      "num": 141365,
+      "word": "小鹏G7同级唯一标配857",
+      "onboard_time": 1750140621,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 94950,
       "num": 94950,
       "word": "章子怡酱园弄repo",
@@ -8105,6 +8217,14 @@
       "onboard_time": 1749910403,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51884,
+      "num": 312293,
+      "word": "我在景区做帅哥NPC一天壁咚300人",
+      "onboard_time": 1750141881,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51833,
@@ -9099,6 +9219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24623,
+      "num": 120212,
+      "word": "黑执事妖狐仆SS梦幻联动",
+      "onboard_time": 1750138700,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 24414,
       "num": 256092,
       "word": "为何越来越多的房东不愿租房子给老人",
@@ -9273,6 +9401,14 @@
       "onboard_time": 1749985340,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21201,
+      "num": 154991,
+      "word": "如何缓解经期腹泻疼痛",
+      "onboard_time": 1750142241,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 20970,
@@ -9481,6 +9617,14 @@
       "onboard_time": 1749938295,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14749,
+      "num": 150168,
+      "word": "所有去认真谈恋爱的不能称为恋爱脑",
+      "onboard_time": 1750142181,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 14577,
@@ -9739,6 +9883,9 @@
     },
     {
       "word": "#中哈命运共同体成色更足内涵更丰富#"
+    },
+    {
+      "word": "#坚定不移巩固中哈友好#"
     }
   ]
 }
