@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750202687732,
+  "endTime": 1750203601607,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1592159,
+      "num": 1592159,
+      "word": "救护车收费2.8万家属问能不能便宜点",
+      "onboard_time": 1750175483,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1556136,
       "num": 551211,
       "word": "休想换走我的高铁F座",
@@ -121,14 +129,6 @@
       "onboard_time": 1749982880,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1493765,
-      "num": 1493765,
-      "word": "救护车收费2.8万家属问能不能便宜点",
-      "onboard_time": 1750175483,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1453949,
@@ -275,7 +275,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1125852,
+      "raw_hot": 1131600,
       "num": 226246,
       "word": "沈阳车祸",
       "onboard_time": 1750174222,
@@ -1955,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397220,
+      "num": 397220,
+      "word": "伊称将展开真正惩罚性打击",
+      "onboard_time": 1750201577,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 396477,
       "num": 631475,
       "word": "伊朗爆炸点距总台记者驻地不足300米",
@@ -2425,6 +2433,14 @@
       "onboard_time": 1749911063,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324291,
+      "num": 197645,
+      "word": "杨坤曾谈到病逝的前女友",
+      "onboard_time": 1750164982,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 323425,
@@ -2923,14 +2939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271219,
-      "num": 170063,
-      "word": "杨坤曾谈到病逝的前女友",
-      "onboard_time": 1750164982,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269591,
       "num": 269591,
       "word": "张雪迎酱园弄影评",
@@ -3057,6 +3065,14 @@
       "onboard_time": 1749981681,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260561,
+      "num": 260561,
+      "word": "快递盒印小狗快递员配送让快递员不适",
+      "onboard_time": 1750159221,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260526,
@@ -3259,6 +3275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242836,
+      "num": 242836,
+      "word": "魏晨张远前任见面既视感",
+      "onboard_time": 1750201577,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241891,
       "num": 241891,
       "word": "易烊千玺雷佳音并肩而坐",
@@ -3329,6 +3353,14 @@
       "onboard_time": 1750148061,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 235895,
+      "num": 192645,
+      "word": "马斯克公布尿检报告",
+      "onboard_time": 1750202117,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 234842,
@@ -3561,14 +3593,6 @@
       "onboard_time": 1749999982,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220437,
-      "num": 220437,
-      "word": "快递盒印小狗快递员配送让快递员不适",
-      "onboard_time": 1750159221,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 220270,
@@ -4113,6 +4137,14 @@
       "onboard_time": 1750136181,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197220,
+      "num": 101680,
+      "word": "迪迪不畏致歉",
+      "onboard_time": 1750203020,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 196220,
@@ -4859,6 +4891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175622,
+      "num": 100959,
+      "word": "以色列总理感谢美国政府",
+      "onboard_time": 1750202539,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175397,
       "num": 175397,
       "word": "其实他比你想象中更不喜欢你",
@@ -5331,12 +5371,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 165706,
-      "num": 165706,
-      "word": "伊称将展开真正惩罚性打击",
-      "onboard_time": 1750201577,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 165686,
+      "num": 98004,
+      "word": "坏了让她读到真大学了",
+      "onboard_time": 1750202299,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 165533,
@@ -6187,6 +6227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145379,
+      "num": 145379,
+      "word": "泡泡玛特发布韩国labubu购买新规",
+      "onboard_time": 1750202117,
+      "rank": 32,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 145284,
       "num": 145284,
       "word": "朱丹分鸡腿",
@@ -6587,14 +6635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 137255,
-      "num": 137255,
-      "word": "马斯克公布尿检报告",
-      "onboard_time": 1750202117,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 137251,
       "num": 137251,
       "word": "谁懂狼尾曹骏的杀伤力",
@@ -6873,6 +6913,14 @@
       "onboard_time": 1749967820,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132390,
+      "num": 132390,
+      "word": "刘强东回应京东进军餐饮酒旅",
+      "onboard_time": 1750202178,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 132364,
@@ -7209,14 +7257,6 @@
       "onboard_time": 1750062201,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128170,
-      "num": 128170,
-      "word": "魏晨张远前任见面既视感",
-      "onboard_time": 1750201577,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 128127,
@@ -7867,6 +7907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118642,
+      "num": 118642,
+      "word": "鞠婧祎18宫格生日照",
+      "onboard_time": 1750203558,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118555,
       "num": 187868,
       "word": "敖瑞鹏一万三演我看闺蜜谈恋爱",
@@ -8137,14 +8185,6 @@
       "onboard_time": 1750165041,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114776,
-      "num": 70586,
-      "word": "坏了让她读到真大学了",
-      "onboard_time": 1750202299,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 114775,
@@ -9019,6 +9059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93286,
+      "num": 93286,
+      "word": "金建希硕士论文被认定为剽窃",
+      "onboard_time": 1750192513,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93136,
       "num": 384299,
       "word": "马克龙突访格陵兰岛",
@@ -9203,14 +9251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 87220,
-      "num": 69563,
-      "word": "以色列总理感谢美国政府",
-      "onboard_time": 1750202539,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 87155,
       "num": 87155,
       "word": "常州球迷不离场安慰自己队员",
@@ -9273,22 +9313,6 @@
       "onboard_time": 1750080382,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 83989,
-      "num": 83989,
-      "word": "刘强东回应京东进军餐饮酒旅",
-      "onboard_time": 1750202178,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 83264,
-      "num": 68142,
-      "word": "泡泡玛特发布韩国labubu购买新规",
-      "onboard_time": 1750202117,
-      "rank": 32,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 83059,
@@ -9435,6 +9459,14 @@
       "category": "财经,休闲"
     },
     {
+      "raw_hot": 79720,
+      "num": 79720,
+      "word": "湖北一县教育局回应摊派老师买水",
+      "onboard_time": 1750202117,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79614,
       "num": 168371,
       "word": "放弃港硕选择乡镇公务员会后悔吗",
@@ -9531,12 +9563,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 75435,
-      "num": 75435,
-      "word": "金建希硕士论文被认定为剽窃",
-      "onboard_time": 1750192513,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 75017,
+      "num": 75017,
+      "word": "黄友政陈熠vs张本智和张本美和",
+      "onboard_time": 1750201278,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 74821,
@@ -9545,14 +9577,6 @@
       "onboard_time": 1749971599,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 74713,
-      "num": 74713,
-      "word": "黄友政陈熠vs张本智和张本美和",
-      "onboard_time": 1750201278,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 74521,
@@ -9600,6 +9624,14 @@
       "word": "宋妍霏给爸爸充京东饭卡",
       "onboard_time": 1749959541,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 73283,
+      "num": 102954,
+      "word": "登陆少年 米兰",
+      "onboard_time": 1750203200,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -9657,6 +9689,14 @@
       "onboard_time": 1750115899,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 70286,
+      "num": 70286,
+      "word": "医院回应疑似规培生失误致患者死亡",
+      "onboard_time": 1750182436,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70007,
@@ -9819,6 +9859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65453,
+      "num": 65453,
+      "word": "一旦被人好好爱过这辈子就定型了",
+      "onboard_time": 1750203200,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65308,
       "num": 65308,
       "word": "苏州越位了吗",
@@ -9899,11 +9947,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 62045,
-      "num": 62045,
-      "word": "医院回应疑似规培生失误致患者死亡",
-      "onboard_time": 1750182436,
-      "rank": 43,
+      "raw_hot": 62123,
+      "num": 62123,
+      "word": "12岁女孩花3200元学韩语家长质疑",
+      "onboard_time": 1750192394,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -10211,14 +10259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51251,
-      "num": 51251,
-      "word": "湖北一县教育局回应摊派老师买水",
-      "onboard_time": 1750202117,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51117,
       "num": 189180,
       "word": "美战机中队飞往中东",
@@ -10355,14 +10395,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 48419,
-      "num": 48419,
-      "word": "12岁女孩花3200元学韩语家长质疑",
-      "onboard_time": 1750192394,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48377,
       "num": 48377,
       "word": "为什么边牧弃养率高",
@@ -10473,6 +10505,14 @@
       "onboard_time": 1750047141,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 45061,
+      "num": 67508,
+      "word": "郑钦文温网5号种子",
+      "onboard_time": 1750203439,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 45015,
@@ -10848,6 +10888,14 @@
       "word": "台风过境新郎顶暴雨骑三轮接亲",
       "onboard_time": 1749960621,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36656,
+      "num": 200665,
+      "word": "商家回应快递盒印小狗快递员配送",
+      "onboard_time": 1750202660,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -11793,14 +11841,6 @@
       "onboard_time": 1750185675,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17189,
-      "num": 59711,
-      "word": "商家回应快递盒印小狗快递员配送",
-      "onboard_time": 1750202660,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17116,
