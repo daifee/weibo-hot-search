@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750145160901,
+  "endTime": 1750146133528,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -73,6 +73,14 @@
       "onboard_time": 1749909863,
       "rank": 10,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 1724117,
+      "num": 298883,
+      "word": "朱丹让女儿留级",
+      "onboard_time": 1750143980,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1710543,
@@ -187,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1172139,
-      "num": 298883,
-      "word": "朱丹让女儿留级",
-      "onboard_time": 1750143980,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1139717,
       "num": 448948,
       "word": "那尔那茜哥哥 数学10分",
@@ -209,6 +209,14 @@
       "onboard_time": 1749946820,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1083708,
+      "num": 292417,
+      "word": "朱丹 重男轻女",
+      "onboard_time": 1750144581,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 1072486,
@@ -619,6 +627,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 720281,
+      "num": 720281,
+      "word": "以军说打死伊朗最高军事指挥官",
+      "onboard_time": 1750143803,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 717026,
       "num": 717026,
       "word": "泰国坠亡中国男子生前最后对话曝光",
@@ -755,6 +771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 649176,
+      "num": 338159,
+      "word": "能不能不要往衣服上印minmin",
+      "onboard_time": 1750138881,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 639641,
       "num": 639641,
       "word": "张韶涵遇突发状况一秒换话筒",
@@ -867,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 619993,
-      "num": 338159,
-      "word": "能不能不要往衣服上印minmin",
-      "onboard_time": 1750138881,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 617442,
       "num": 412324,
       "word": "日本悠仁亲王被曝故意远离母亲",
@@ -905,14 +921,6 @@
       "onboard_time": 1750136483,
       "rank": 5,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 602002,
-      "num": 292417,
-      "word": "朱丹 重男轻女",
-      "onboard_time": 1750144581,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 594885,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1749968899,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 516414,
+      "num": 291525,
+      "word": "沈腾婚礼旧照",
+      "onboard_time": 1750144281,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 515185,
@@ -1419,14 +1435,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 425839,
-      "num": 425839,
-      "word": "以军说打死伊朗最高军事指挥官",
-      "onboard_time": 1750143803,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 425532,
       "num": 425532,
       "word": "近九成00后表示没背房贷车贷",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1750087941,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 400410,
+      "num": 400410,
+      "word": "暴力熊 Labubu",
+      "onboard_time": 1750144700,
+      "rank": 34,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 400233,
@@ -2075,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301485,
+      "num": 235289,
+      "word": "宁静 你是不是特别爱男孩",
+      "onboard_time": 1750144221,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301202,
       "num": 378808,
       "word": "美国洛杉矶现状",
@@ -2153,14 +2177,6 @@
       "onboard_time": 1749990502,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 291525,
-      "num": 291525,
-      "word": "沈腾婚礼旧照",
-      "onboard_time": 1750144281,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 290507,
@@ -2555,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255947,
+      "num": 236208,
+      "word": "女子常年为全家做饭确诊肺癌",
+      "onboard_time": 1750142241,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255310,
       "num": 271269,
       "word": "山科大再回应禁用红米手机考试",
@@ -2739,14 +2763,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 236208,
-      "num": 236208,
-      "word": "女子常年为全家做饭确诊肺癌",
-      "onboard_time": 1750142241,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234842,
       "num": 290881,
       "word": "杨妞花寻亲故事将影视化",
@@ -2761,6 +2777,14 @@
       "onboard_time": 1750045522,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234135,
+      "num": 234135,
+      "word": "易烊千玺FIRST主竞赛评委",
+      "onboard_time": 1750144821,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 233904,
@@ -2859,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227579,
+      "num": 232022,
+      "word": "天猫618没套路真5折",
+      "onboard_time": 1750144041,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 227300,
       "num": 227300,
       "word": "多兰王朝了",
@@ -2931,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222978,
+      "num": 222978,
+      "word": "彩票未中奖男子偷11张刮刮乐想回本",
+      "onboard_time": 1750143861,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222605,
       "num": 272161,
       "word": "smart米奇限定艺术车亮相魔都",
@@ -2993,14 +3033,6 @@
       "onboard_time": 1750030459,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 218930,
-      "num": 218930,
-      "word": "宁静 你是不是特别爱男孩",
-      "onboard_time": 1750144221,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 218531,
@@ -3203,6 +3235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205806,
+      "num": 205806,
+      "word": "轧戏",
+      "onboard_time": 1750144881,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205381,
       "num": 339431,
       "word": "易烊千玺在剧组过了5分钟生日",
@@ -3257,6 +3297,14 @@
       "onboard_time": 1749993562,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202643,
+      "num": 202643,
+      "word": "labubu",
+      "onboard_time": 1750145541,
+      "rank": 27,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 202582,
@@ -3561,6 +3609,14 @@
       "onboard_time": 1749961040,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190991,
+      "num": 197533,
+      "word": "七根心简红唇女子1秒变白发老太",
+      "onboard_time": 1750145241,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 190877,
@@ -3891,14 +3947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179642,
-      "num": 179642,
-      "word": "彩票未中奖男子偷11张刮刮乐想回本",
-      "onboard_time": 1750143861,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179623,
       "num": 179623,
       "word": "武汉28岁男子爬山失联已身亡",
@@ -4121,6 +4169,14 @@
       "onboard_time": 1750137561,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172947,
+      "num": 166009,
+      "word": "秦彻一周年来看秦天柱",
+      "onboard_time": 1750144461,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 172814,
@@ -4443,6 +4499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166198,
+      "num": 166198,
+      "word": "王俊凯隔空喝香槟",
+      "onboard_time": 1750145600,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166041,
       "num": 166041,
       "word": "芭莎男士六月刊封面预告",
@@ -4593,6 +4657,14 @@
       "onboard_time": 1749957079,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160793,
+      "num": 160793,
+      "word": "邪恶黄皮",
+      "onboard_time": 1750144521,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 160507,
@@ -4907,14 +4979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151927,
-      "num": 151927,
-      "word": "暴力熊 Labubu",
-      "onboard_time": 1750144700,
-      "rank": 34,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 151886,
       "num": 260064,
       "word": "京东校园之星总决赛现场发100万",
@@ -5219,6 +5283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142991,
+      "num": 142991,
+      "word": "求林则徐联系方式",
+      "onboard_time": 1750145300,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142972,
       "num": 142972,
       "word": "圈内人分享明星红黑榜",
@@ -5315,6 +5387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140259,
+      "num": 140259,
+      "word": "大爷12岁误吞牙刷斜插肠道52年",
+      "onboard_time": 1750145660,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140083,
       "num": 140083,
       "word": "一直对孕激素没概念直到怀孕",
@@ -5395,6 +5475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138432,
+      "num": 138432,
+      "word": "这个长相的都爆红了",
+      "onboard_time": 1750145960,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 138400,
       "num": 138400,
       "word": "第五人格",
@@ -5443,14 +5531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137723,
-      "num": 137723,
-      "word": "邪恶黄皮",
-      "onboard_time": 1750144521,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137696,
       "num": 470652,
       "word": "以色列为何难以停止战争机器",
@@ -5473,6 +5553,14 @@
       "onboard_time": 1749964221,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137047,
+      "num": 137047,
+      "word": "白敬亭翻包vlog",
+      "onboard_time": 1750145180,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 136899,
@@ -5529,14 +5617,6 @@
       "onboard_time": 1749894083,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 135499,
-      "num": 135499,
-      "word": "轧戏",
-      "onboard_time": 1750144881,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 135430,
@@ -5731,14 +5811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131970,
-      "num": 131970,
-      "word": "易烊千玺FIRST主竞赛评委",
-      "onboard_time": 1750144821,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 131832,
       "num": 424084,
       "word": "湖南花炮厂爆炸亲历者发声",
@@ -5859,6 +5931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130092,
+      "num": 130092,
+      "word": "黄子韬 比巴掌先来的是她的香风",
+      "onboard_time": 1750146081,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130077,
       "num": 190809,
       "word": "黄觉谈易烊千玺李庚希表演",
@@ -5961,14 +6041,6 @@
       "onboard_time": 1750033040,
       "rank": 27,
       "category": "作品衍生,综艺"
-    },
-    {
-      "raw_hot": 128365,
-      "num": 132854,
-      "word": "秦彻一周年来看秦天柱",
-      "onboard_time": 1750144461,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 128253,
@@ -7145,14 +7217,6 @@
       "onboard_time": 1750055901,
       "rank": 35,
       "category": "民生新闻,动漫"
-    },
-    {
-      "raw_hot": 107548,
-      "num": 232022,
-      "word": "天猫618没套路真5折",
-      "onboard_time": 1750144041,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 107546,
@@ -8875,6 +8939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39199,
+      "num": 244501,
+      "word": "爆炸烟花厂有厂房只剩下钢铁框架",
+      "onboard_time": 1750145600,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 39106,
       "num": 211559,
       "word": "一条中华卖10块钱是啥套路",
@@ -9795,6 +9867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16503,
+      "num": 230599,
+      "word": "罗马仕回应产品被质疑易爆炸",
+      "onboard_time": 1750145782,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16235,
       "num": 188936,
       "word": "海南父子台风天被卷入海里漂了一天",
@@ -10009,6 +10089,14 @@
       "onboard_time": 1750062680,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9008,
+      "num": 223174,
+      "word": "以色列空袭伊朗汽油价格受影响吗",
+      "onboard_time": 1750145901,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8250,
