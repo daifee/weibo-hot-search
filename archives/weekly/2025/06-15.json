@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750160341555,
+  "endTime": 1750164837282,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -201,6 +201,14 @@
       "onboard_time": 1750155322,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1216093,
+      "num": 1216093,
+      "word": "预制爆剧",
+      "onboard_time": 1750158082,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1205830,
@@ -659,14 +667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 744997,
-      "num": 744997,
-      "word": "预制爆剧",
-      "onboard_time": 1750158082,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 742670,
       "num": 1118827,
       "word": "男演员没戏拍兼职699元陪爬泰山",
@@ -833,6 +833,14 @@
       "onboard_time": 1750076240,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 691327,
+      "num": 691327,
+      "word": "8岁男孩偷偷花1万元网购26箱荔枝",
+      "onboard_time": 1750157722,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 684488,
@@ -1123,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 558941,
+      "num": 558941,
+      "word": "旅客举报K783次列车员餐车内吸烟",
+      "onboard_time": 1750157002,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 554325,
       "num": 554325,
       "word": "虞书欣说选大爆剧的主角",
@@ -1155,6 +1171,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 548167,
+      "num": 548167,
+      "word": "疑似那尔那茜堂哥也陷入高考争议",
+      "onboard_time": 1750159701,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 547877,
       "num": 547877,
       "word": "白鹿 临江仙值得",
@@ -1169,14 +1193,6 @@
       "onboard_time": 1750131140,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 547521,
-      "num": 547521,
-      "word": "8岁男孩偷偷花1万元网购26箱荔枝",
-      "onboard_time": 1750157722,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 546554,
@@ -1609,6 +1625,14 @@
       "onboard_time": 1750079961,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 430592,
+      "num": 264977,
+      "word": "朱丹",
+      "onboard_time": 1750159582,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 430423,
@@ -2267,6 +2291,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 312825,
+      "num": 261981,
+      "word": "曾舜晞跟姐姐共用一张脸",
+      "onboard_time": 1750163301,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311822,
       "num": 294005,
       "word": "避雷向佐粉底液",
@@ -2353,6 +2385,14 @@
       "onboard_time": 1750047441,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299683,
+      "num": 299683,
+      "word": "那英全开麦",
+      "onboard_time": 1750163961,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 299069,
@@ -2619,6 +2659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 277308,
+      "num": 277308,
+      "word": "郑钦文退出柏林赛",
+      "onboard_time": 1750164441,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276980,
       "num": 276980,
       "word": "单依纯双的时候",
@@ -2849,6 +2897,14 @@
       "onboard_time": 1749990142,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256784,
+      "num": 246459,
+      "word": "文淇的妆 舒淇的脸",
+      "onboard_time": 1750161861,
+      "rank": 22,
+      "category": "美妆"
     },
     {
       "raw_hot": 255947,
@@ -3443,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211073,
+      "num": 211073,
+      "word": "小小周",
+      "onboard_time": 1750161261,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210579,
       "num": 210579,
       "word": "雁回时 短剧",
@@ -3859,6 +3923,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 194464,
+      "num": 194464,
+      "word": "35岁抗癌网红肉肉离世",
+      "onboard_time": 1750164503,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194365,
       "num": 194365,
       "word": "欧阳娜娜审美",
@@ -4163,6 +4235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184176,
+      "num": 184176,
+      "word": "印尼一火山喷发灰柱高1万米",
+      "onboard_time": 1750161921,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 183906,
       "num": 204140,
       "word": "ILLIT回归",
@@ -4177,6 +4257,14 @@
       "onboard_time": 1750085662,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183432,
+      "num": 212073,
+      "word": "湖南卫视618开心夜",
+      "onboard_time": 1750164621,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 183326,
@@ -4236,7 +4324,7 @@
     },
     {
       "raw_hot": 181661,
-      "num": 181661,
+      "num": 184450,
       "word": "这居然是徐梦洁",
       "onboard_time": 1750159342,
       "rank": 30,
@@ -4297,14 +4385,6 @@
       "onboard_time": 1750068141,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179615,
-      "num": 350831,
-      "word": "疑似那尔那茜堂哥也陷入高考争议",
-      "onboard_time": 1750159701,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 178939,
@@ -4707,14 +4787,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 169349,
-      "num": 169349,
-      "word": "旅客举报K783次列车员餐车内吸烟",
-      "onboard_time": 1750157002,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169265,
       "num": 169265,
       "word": "王一珩直播",
@@ -4745,6 +4817,14 @@
       "onboard_time": 1750070900,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168606,
+      "num": 256958,
+      "word": "科钦夫疑回应高考数学10分考985",
+      "onboard_time": 1750162702,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 168556,
@@ -5731,6 +5811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144670,
+      "num": 144670,
+      "word": "旅游局计划推出樊振东主题旅游路线",
+      "onboard_time": 1750164441,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144574,
       "num": 144574,
       "word": "尾鱼谈剧版七根心简",
@@ -5857,6 +5945,14 @@
       "onboard_time": 1750124360,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141033,
+      "num": 141033,
+      "word": "相差14岁小男友提分手起诉女方还钱",
+      "onboard_time": 1750161980,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141013,
@@ -6195,6 +6291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134428,
+      "num": 289545,
+      "word": "林大厨为京东618开心夜做外卖了",
+      "onboard_time": 1750159041,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 134375,
       "num": 134375,
       "word": "常州苏超四连败",
@@ -6427,6 +6531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130552,
+      "num": 130552,
+      "word": "轧戏陈星旭卢昱晓吻戏",
+      "onboard_time": 1750164741,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130540,
       "num": 128582,
       "word": "杨幂李现同框化学反应",
@@ -6657,6 +6769,14 @@
       "onboard_time": 1749960200,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126959,
+      "num": 126959,
+      "word": "伊朗禁止官员使用联网设备",
+      "onboard_time": 1750163840,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126769,
@@ -6953,6 +7073,14 @@
       "onboard_time": 1749984260,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 122711,
+      "num": 122711,
+      "word": "王安宇减肥的毅力",
+      "onboard_time": 1750161740,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 122406,
@@ -7435,6 +7563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114572,
+      "num": 114572,
+      "word": "skullpanda",
+      "onboard_time": 1750163721,
+      "rank": 49,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 114471,
       "num": 114471,
       "word": "李文把严浩翔钓成翘嘴",
@@ -7611,6 +7747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111780,
+      "num": 266334,
+      "word": "北京国安取胜即登顶",
+      "onboard_time": 1750161141,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111696,
       "num": 111696,
       "word": "张艺兴戴了张艺兴工作证",
@@ -7785,6 +7929,14 @@
       "onboard_time": 1750086861,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108330,
+      "num": 259500,
+      "word": "天猫买全屋万元大家电只要618元",
+      "onboard_time": 1750161801,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 108252,
@@ -9091,6 +9243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57045,
+      "num": 125701,
+      "word": "以色列士兵藏身学校",
+      "onboard_time": 1750164801,
+      "rank": 43,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 56853,
       "num": 223708,
       "word": "为什么付出型人格越付出越难获得爱",
@@ -9651,14 +9811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40142,
-      "num": 289545,
-      "word": "林大厨为京东618开心夜做外卖了",
-      "onboard_time": 1750159041,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 40106,
       "num": 251686,
       "word": "大学生最喜欢的微博表情",
@@ -9680,6 +9832,14 @@
       "word": "雷霆防守压迫感拉满",
       "onboard_time": 1750136782,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39634,
+      "num": 123401,
+      "word": "董路说常州来信儿了",
+      "onboard_time": 1750162402,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -10323,6 +10483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24667,
+      "num": 128200,
+      "word": "新一期U16国足名单公布",
+      "onboard_time": 1750163840,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24656,
       "num": 24656,
       "word": "汪苏泷给粉丝的爱是完整的",
@@ -10761,6 +10929,14 @@
       "onboard_time": 1750086441,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15250,
+      "num": 255602,
+      "word": "荔枝为什么不好保存",
+      "onboard_time": 1750163542,
+      "rank": 19,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 15210,
