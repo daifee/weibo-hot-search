@@ -1,0 +1,410 @@
+{
+  "runTime": 1750189335851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 237665,
+        "num": 237665,
+        "word": "救护车收费2.8万家属问能不能便宜点",
+        "onboard_time": 1750175483,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71689,
+        "num": 71689,
+        "word": "中方从伊朗以色列撤侨",
+        "onboard_time": 1750171584,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1873,
+        "num": 59501,
+        "word": "九组数据感知我国经济韧性活力",
+        "onboard_time": 1750131381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81906,
+        "num": 58988,
+        "word": "米兰",
+        "onboard_time": 1750178539,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56186,
+        "num": 56186,
+        "word": "何秋亊工作室致歉声明",
+        "onboard_time": 1750165522,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73269,
+        "num": 55890,
+        "word": "伊朗公布击落以色列F35战机画面",
+        "onboard_time": 1750173922,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53180,
+        "num": 53180,
+        "word": "何炅选李晟当女主的含金量",
+        "onboard_time": 1750172363,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48507,
+        "num": 48507,
+        "word": "请伊朗以色列的中国公民联系使领馆",
+        "onboard_time": 1750172662,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46488,
+        "num": 46488,
+        "word": "以方已摧毁伊朗铀浓缩设施",
+        "onboard_time": 1750174942,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10794,
+        "num": 45257,
+        "word": "我国磁悬浮技术获新突破",
+        "onboard_time": 1750188495,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237213,
+        "num": 44432,
+        "word": "沈阳车祸",
+        "onboard_time": 1750174222,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81004,
+        "num": 43834,
+        "word": "沈阳公交车碰撞事故致2死16伤",
+        "onboard_time": 1750173203,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73974,
+        "num": 42210,
+        "word": "公认现象级大爆剧",
+        "onboard_time": 1750165882,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68117,
+        "num": 41169,
+        "word": "伊朗",
+        "onboard_time": 1750169542,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60648,
+        "num": 39110,
+        "word": "宋威龙吴世勋早期比耶合照",
+        "onboard_time": 1750184535,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38675,
+        "num": 38675,
+        "word": "刘浩存终于换掉了微商头像",
+        "onboard_time": 1750149982,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37846,
+        "num": 37846,
+        "word": "张艺兴直播上英语课",
+        "onboard_time": 1750178358,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36304,
+        "num": 36304,
+        "word": "第一次这么直观区别电影脸电视脸",
+        "onboard_time": 1750165221,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36169,
+        "num": 36169,
+        "word": "泡泡玛特市值蒸发超200亿",
+        "onboard_time": 1750153522,
+        "rank": 18,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 35874,
+        "num": 35874,
+        "word": "快递盒印小狗快递员配送让快递员不适",
+        "onboard_time": 1750159221,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34788,
+        "num": 34788,
+        "word": "朱丹",
+        "onboard_time": 1750159582,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34750,
+        "num": 34750,
+        "word": "男子拿两套房和存款弥补儿子遭拒绝",
+        "onboard_time": 1750170204,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29377,
+        "num": 29377,
+        "word": "伊朗称不会让以色列有一刻安宁",
+        "onboard_time": 1750154482,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29154,
+        "num": 29154,
+        "word": "伊朗准备好领导人遇刺情况下的计划",
+        "onboard_time": 1750168704,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26959,
+        "num": 26959,
+        "word": "8岁男孩偷偷花1万元网购26箱荔枝",
+        "onboard_time": 1750157722,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25348,
+        "num": 25348,
+        "word": "曾舜晞跟姐姐共用一张脸",
+        "onboard_time": 1750163301,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25035,
+        "num": 25035,
+        "word": "预制爆剧",
+        "onboard_time": 1750158082,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24426,
+        "num": 24426,
+        "word": "沈阳通报公交车与多车碰撞事故",
+        "onboard_time": 1750173982,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23750,
+        "num": 23750,
+        "word": "相差14岁小男友提分手起诉女方还钱",
+        "onboard_time": 1750161980,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19440,
+        "num": 23537,
+        "word": "登陆少年时装周首秀",
+        "onboard_time": 1750181357,
+        "rank": 29,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 23518,
+        "num": 23518,
+        "word": "女子称劝导不文明观影反被扇巴掌",
+        "onboard_time": 1750179858,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22977,
+        "num": 22977,
+        "word": "以色列暂停飞往其他国家航班",
+        "onboard_time": 1750168884,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22818,
+        "num": 22818,
+        "word": "中国公民暂勿前往伊朗以色列",
+        "onboard_time": 1750178358,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21818,
+        "num": 21818,
+        "word": "labubu的竞争对手",
+        "onboard_time": 1750172844,
+        "rank": 33,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 21614,
+        "num": 21614,
+        "word": "无畏契约多伦多大师赛",
+        "onboard_time": 1750187834,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19715,
+        "num": 19715,
+        "word": "医院回应疑似规培生失误致患者死亡",
+        "onboard_time": 1750182436,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19584,
+        "num": 19584,
+        "word": "网络现浓缩营养餐卖家称可替代正餐",
+        "onboard_time": 1750176262,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19235,
+        "num": 19235,
+        "word": "网友拍到现实版小石潭记",
+        "onboard_time": 1750176802,
+        "rank": 37,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 19081,
+        "num": 19081,
+        "word": "能不能禁止刘亦菲和人打招呼",
+        "onboard_time": 1750147940,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18588,
+        "num": 18588,
+        "word": "王安宇 2016年最帅艺考生",
+        "onboard_time": 1750169121,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17732,
+        "num": 17732,
+        "word": "无论何时都不要停止学习",
+        "onboard_time": 1750179798,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17128,
+        "num": 17128,
+        "word": "张艺兴跳舞已经nextlevel了",
+        "onboard_time": 1750168101,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16740,
+        "num": 16740,
+        "word": "宋妍霏的腿像开了长腿特效",
+        "onboard_time": 1750168823,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16729,
+        "num": 16729,
+        "word": "vava瘦了好多",
+        "onboard_time": 1750166962,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16432,
+        "num": 16432,
+        "word": "徐佳莹 薛之谦",
+        "onboard_time": 1750151242,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16284,
+        "num": 16284,
+        "word": "以法律形式将世代友好原则固定下来",
+        "onboard_time": 1750181177,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15948,
+        "num": 16284,
+        "word": "索尼英雌",
+        "onboard_time": 1750178958,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15384,
+        "num": 16284,
+        "word": "国青主帅将执教国足",
+        "onboard_time": 1750175541,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15334,
+        "num": 16283,
+        "word": "大国外交的忙碌现场",
+        "onboard_time": 1750185675,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11665,
+        "num": 16282,
+        "word": "京东补贴",
+        "onboard_time": 1750165462,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席第二届中国—中亚峰会#"
+    }
+  }
+}
