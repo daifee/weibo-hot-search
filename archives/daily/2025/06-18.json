@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750196474212,
+  "endTime": 1750199106010,
   "band_list": [
     {
       "raw_hot": 1342324,
@@ -347,15 +347,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73791,
-      "num": 73791,
-      "word": "京东补贴",
-      "onboard_time": 1750165462,
-      "rank": 42,
-      "category": "互联网"
+      "raw_hot": 77733,
+      "num": 77733,
+      "word": "相差14岁小男友提分手起诉女方还钱",
+      "onboard_time": 1750161980,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 71774,
+      "raw_hot": 74984,
       "num": 99320,
       "word": "快递盒印小狗快递员配送让快递员不适",
       "onboard_time": 1750159221,
@@ -363,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71698,
-      "num": 71698,
-      "word": "相差14岁小男友提分手起诉女方还钱",
-      "onboard_time": 1750161980,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 73791,
+      "num": 73791,
+      "word": "京东补贴",
+      "onboard_time": 1750165462,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 69840,
@@ -459,7 +459,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43043,
+      "raw_hot": 49434,
+      "num": 31092,
+      "word": "钟丽缇回应被评价怎么健身都不瘦",
+      "onboard_time": 1750194794,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 44169,
       "num": 55035,
       "word": "女子称劝导不文明观影反被扇巴掌",
       "onboard_time": 1750179858,
@@ -475,12 +483,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40104,
+      "num": 40104,
+      "word": "labubu挂包不翻面的方法",
+      "onboard_time": 1750191735,
+      "rank": 42,
+      "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 36322,
+      "num": 36322,
+      "word": "金建希硕士论文被认定为剽窃",
+      "onboard_time": 1750192513,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34732,
       "num": 119526,
       "word": "以法律形式将世代友好原则固定下来",
       "onboard_time": 1750181177,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34013,
+      "num": 30841,
+      "word": "一个小时15还赚了10块钱",
+      "onboard_time": 1750196294,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 33597,
@@ -491,36 +523,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29373,
-      "num": 21159,
-      "word": "labubu挂包不翻面的方法",
-      "onboard_time": 1750191735,
-      "rank": 42,
-      "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 23957,
-      "num": 23957,
+      "raw_hot": 31289,
+      "num": 31289,
       "word": "医院回应疑似规培生失误致患者死亡",
       "onboard_time": 1750182436,
       "rank": 43,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23199,
-      "num": 20418,
-      "word": "钟丽缇回应被评价怎么健身都不瘦",
-      "onboard_time": 1750194794,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 26136,
+      "num": 29923,
+      "word": "12岁女孩花3200元学韩语家长质疑",
+      "onboard_time": 1750192394,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 22693,
-      "num": 22693,
-      "word": "金建希硕士论文被认定为剽窃",
-      "onboard_time": 1750192513,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 23631,
+      "num": 29905,
+      "word": "桃花映江山",
+      "onboard_time": 1750196774,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 21614,
@@ -529,6 +553,14 @@
       "onboard_time": 1750187834,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 20482,
+      "num": 29874,
+      "word": "女方回应男子拿两套房求和儿子被拒",
+      "onboard_time": 1750190233,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20129,
@@ -571,14 +603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14502,
-      "num": 17967,
-      "word": "女方回应男子拿两套房求和儿子被拒",
-      "onboard_time": 1750190233,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14213,
       "num": 15769,
       "word": "张艺兴晚会彩排剧透",
@@ -587,28 +611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13278,
-      "num": 17959,
-      "word": "一个小时15还赚了10块钱",
-      "onboard_time": 1750196294,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 12989,
       "num": 37882,
       "word": "各方应该推动中东局势尽快降温",
       "onboard_time": 1750191915,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12766,
-      "num": 17945,
-      "word": "12岁女孩花3200元学韩语家长质疑",
-      "onboard_time": 1750192394,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11721,
