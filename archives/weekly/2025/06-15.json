@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750175062485,
+  "endTime": 1750178036742,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -201,6 +201,14 @@
       "onboard_time": 1750048223,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1256900,
+      "num": 1256900,
+      "word": "救护车收费2.8万家属问能不能便宜点",
+      "onboard_time": 1750175483,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1245393,
@@ -417,6 +425,14 @@
       "onboard_time": 1750066819,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 957292,
+      "num": 208980,
+      "word": "沈阳车祸",
+      "onboard_time": 1750174222,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 948547,
@@ -1643,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461410,
+      "num": 334044,
+      "word": "伊朗公布击落以色列F35战机画面",
+      "onboard_time": 1750173922,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 458264,
       "num": 458264,
       "word": "伊朗称不会让以色列有一刻安宁",
@@ -2321,14 +2345,6 @@
       "onboard_time": 1750156881,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 334044,
-      "num": 334044,
-      "word": "伊朗公布击落以色列F35战机画面",
-      "onboard_time": 1750173922,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 331847,
@@ -3209,6 +3225,14 @@
       "onboard_time": 1750151001,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246823,
+      "num": 174192,
+      "word": "以方已摧毁伊朗铀浓缩设施",
+      "onboard_time": 1750174942,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 243173,
@@ -4161,6 +4185,14 @@
       "onboard_time": 1750057820,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194319,
+      "num": 149529,
+      "word": "我的阿勒泰等中国影视作品走红中亚",
+      "onboard_time": 1750175301,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 193979,
@@ -5425,14 +5457,6 @@
       "onboard_time": 1750040179,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162009,
-      "num": 162009,
-      "word": "沈阳车祸",
-      "onboard_time": 1750174222,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161979,
@@ -7219,6 +7243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127245,
+      "num": 127245,
+      "word": "田曦薇回国",
+      "onboard_time": 1750176680,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126769,
       "num": 350815,
       "word": "黄子韬 当时我害怕极了",
@@ -8483,6 +8515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107999,
+      "num": 107999,
+      "word": "日不落大合唱",
+      "onboard_time": 1750176022,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107943,
       "num": 221634,
       "word": "吉克隽逸被退场方式吓到抱头",
@@ -8561,6 +8601,14 @@
       "onboard_time": 1749942977,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104670,
+      "num": 104670,
+      "word": "网友拍到现实版小石潭记",
+      "onboard_time": 1750176802,
+      "rank": 33,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 103892,
@@ -8835,6 +8883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95811,
+      "num": 95811,
+      "word": "国青主帅将执教国足",
+      "onboard_time": 1750175541,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95693,
       "num": 95693,
       "word": "Lovecd节奏大师",
@@ -8993,6 +9049,14 @@
       "onboard_time": 1750085662,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 89526,
+      "num": 89526,
+      "word": "GAI rapper唱情歌的杀伤力",
+      "onboard_time": 1750175661,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 89454,
@@ -9827,14 +9891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 56182,
-      "num": 143463,
-      "word": "以方已摧毁伊朗铀浓缩设施",
-      "onboard_time": 1750174942,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55425,
       "num": 421651,
       "word": "临澧镇政府回应花炮厂爆炸起火",
@@ -10137,6 +10193,14 @@
       "onboard_time": 1749894984,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 47252,
+      "num": 149564,
+      "word": "网络现浓缩营养餐卖家称可替代正餐",
+      "onboard_time": 1750176262,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46879,

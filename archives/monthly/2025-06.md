@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/17 23:44:22
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 00:33:56
 </p>
 </blockquote>
 <p>
@@ -1425,6 +1425,12 @@ A股（热度：1322395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E6%94%B6%E8%B4%B92.8%E4%B8%87%E5%AE%B6%E5%B1%9E%E9%97%AE%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BE%BF%E5%AE%9C%E7%82%B9%23" target="weibo">
+救护车收费2.8万家属问能不能便宜点（热度：1256900）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%A4%A7%E6%A1%A5%E8%BD%A6%E7%A5%B819%E5%B2%81%E6%91%A9%E6%89%98%E8%BD%A6%E6%89%8B%E5%9D%A0%E6%B5%B7%E8%BA%AB%E4%BA%A1%23" target="weibo">
 温州大桥车祸19岁摩托车手坠海身亡（热度：1256725）
 </a>
@@ -2375,6 +2381,12 @@ Labubu设计师曾失意30年（热度：959623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%9B%9E%E5%BA%94400%E4%BA%BF%E4%BC%A0%E9%97%BB%23" target="weibo">
 陈梦回应400亿传闻（热度：957599）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E8%BD%A6%E7%A5%B8%23" target="weibo">
+沈阳车祸（热度：957292）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Labubu催生庞大周边产业链（热度：535204）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%B6%E7%94%B5%E8%A7%86%E5%8F%B0%E5%A4%A7%E6%A5%BC%23" target="weibo">
 以色列袭击伊朗国家电视台大楼（热度：510864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E5%9B%9E%E5%A4%8D%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E5%8F%91%E6%96%87%23" target="weibo">
-马云回复离职员工发文（热度：508887）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E8%88%AA%E7%A9%BA%E5%8F%91%E8%A1%A8%E5%9D%A0%E6%9C%BA%E5%A3%B0%E6%98%8E%23" target="weibo">
-印度航空发表坠机声明（热度：508597）
 </a>
 </li>
 
