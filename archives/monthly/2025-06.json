@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750117176929,
+  "endTime": 1750125761461,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1749898045,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1556136,
+      "num": 329919,
+      "word": "休想换走我的高铁F座",
+      "onboard_time": 1750119681,
+      "rank": 10,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 1554999,
@@ -5107,6 +5115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 663978,
+      "num": 1106236,
+      "word": "男演员没戏拍兼职699元陪爬泰山",
+      "onboard_time": 1750119201,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 662929,
+      "num": 662929,
+      "word": "间谍用word套取我国敏感数据",
+      "onboard_time": 1750118060,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 662693,
       "num": 662693,
       "word": "山东物理",
@@ -6843,6 +6867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 545467,
+      "num": 545467,
+      "word": "深圳地铁",
+      "onboard_time": 1750121661,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 545255,
       "num": 545255,
       "word": "女子欠款1700万法院悬赏170万寻人",
@@ -8427,6 +8459,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 465349,
+      "num": 329919,
+      "word": "闫佩伦婚礼",
+      "onboard_time": 1750122801,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465188,
       "num": 710127,
       "word": "蒋一侨回应香飘飘千金标签",
@@ -8969,6 +9009,14 @@
       "onboard_time": 1748858061,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 435286,
+      "num": 319412,
+      "word": "终于知道古代为什么流放岭南了",
+      "onboard_time": 1750119681,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 435128,
@@ -10667,6 +10715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375462,
+      "num": 375462,
+      "word": "伊朗连续第4晚导弹袭击以色列",
+      "onboard_time": 1750118779,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 375378,
       "num": 375378,
       "word": "杨丞琳陈妍希生日合照",
@@ -11395,6 +11451,14 @@
       "category": "休闲,民生新闻"
     },
     {
+      "raw_hot": 354075,
+      "num": 354075,
+      "word": "内塔尼亚胡儿子婚礼被推迟",
+      "onboard_time": 1750124241,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 353876,
       "num": 353876,
       "word": "看图默写",
@@ -12051,6 +12115,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 338439,
+      "num": 338439,
+      "word": "锦绣芳华书卷一梦对打",
+      "onboard_time": 1750121601,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337776,
       "num": 454187,
       "word": "闫妮演易烊千玺的二表姑",
@@ -12347,6 +12419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330375,
+      "num": 330375,
+      "word": "罗马仕宣布召回超49万台充电宝",
+      "onboard_time": 1750119321,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 330055,
       "num": 330055,
       "word": "VOGUE盛典出席明星阵容",
@@ -12361,6 +12441,14 @@
       "onboard_time": 1749302184,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329918,
+      "num": 329918,
+      "word": "21国联合谴责以色列袭击伊朗",
+      "onboard_time": 1750123880,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 329884,
@@ -13491,6 +13579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300089,
+      "num": 300089,
+      "word": "在以中国公民尽快陆路离境",
+      "onboard_time": 1750117758,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 299850,
       "num": 299850,
       "word": "蛮荒禁地",
@@ -13513,6 +13609,14 @@
       "onboard_time": 1749112641,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 299069,
+      "num": 299069,
+      "word": "把Deepseek弄疯了",
+      "onboard_time": 1750118779,
+      "rank": 15,
+      "category": "互联网,幽默"
     },
     {
       "raw_hot": 298573,
@@ -14043,6 +14147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287326,
+      "num": 329919,
+      "word": "以色列中国留学生称无法安稳入睡",
+      "onboard_time": 1750121839,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 287238,
       "num": 287238,
       "word": "王俊凯你的演唱会呢",
@@ -14313,6 +14425,14 @@
       "onboard_time": 1749394703,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 281918,
+      "num": 281918,
+      "word": "朱丹说周翊然想要女儿是异性相吸",
+      "onboard_time": 1750119861,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 281886,
@@ -17483,6 +17603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231530,
+      "num": 151297,
+      "word": "1w奖学金到账后我们家的资金流动",
+      "onboard_time": 1750125621,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231525,
       "num": 295873,
       "word": "严浩翔贺峻霖共脑",
@@ -18489,6 +18617,14 @@
       "onboard_time": 1748925622,
       "rank": 39,
       "category": "运动健身,民生新闻"
+    },
+    {
+      "raw_hot": 222080,
+      "num": 222080,
+      "word": "吉赛尔好美",
+      "onboard_time": 1750124120,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 221965,
@@ -20072,6 +20208,14 @@
       "word": "陈赫炫耀labubu衣服",
       "onboard_time": 1749569301,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208017,
+      "num": 282667,
+      "word": "热播剧男主回应接戏难兼职泰山陪爬",
+      "onboard_time": 1750122381,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -24555,6 +24699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184939,
+      "num": 184939,
+      "word": "伊朗两架F14被摧毁",
+      "onboard_time": 1750119261,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184873,
       "num": 184873,
       "word": "王老吉 LadyGaga",
@@ -25611,6 +25763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178939,
+      "num": 178939,
+      "word": "月薪4000三年存了10万块",
+      "onboard_time": 1750120581,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178927,
       "num": 178927,
       "word": "陈都灵周翊然打戏路透",
@@ -25841,6 +26001,14 @@
       "onboard_time": 1749537319,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177794,
+      "num": 177794,
+      "word": "痛经 吃榴莲",
+      "onboard_time": 1750125140,
+      "rank": 23,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 177784,
@@ -28129,6 +28297,14 @@
       "onboard_time": 1750066522,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166431,
+      "num": 282054,
+      "word": "aespa概念照",
+      "onboard_time": 1750122620,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166422,
@@ -31171,6 +31347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153258,
+      "num": 153258,
+      "word": "爱尔兰一母婴院发现大量婴幼儿遗骸",
+      "onboard_time": 1750118060,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153137,
       "num": 153137,
       "word": "藏海传灯塔播放量破20亿",
@@ -31697,6 +31881,14 @@
       "onboard_time": 1749802583,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150805,
+      "num": 150805,
+      "word": "建议把早睡放在第一位",
+      "onboard_time": 1750121002,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 150780,
@@ -36619,6 +36811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 132232,
+      "num": 132232,
+      "word": "交警回应3男子酒后推车回家算酒驾吗",
+      "onboard_time": 1750120162,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132230,
       "num": 132230,
       "word": "吴宣仪音乐节大屏",
@@ -36801,6 +37001,14 @@
       "onboard_time": 1748945001,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131535,
+      "num": 131535,
+      "word": "裸辞和在职找工作的区别",
+      "onboard_time": 1750120341,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 131531,
@@ -39627,6 +39835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120970,
+      "num": 120970,
+      "word": "教育局回应踢人被调岗班主任仍任职",
+      "onboard_time": 1750119561,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120956,
       "num": 295435,
       "word": "宋小宝赵本山 老年版王嘉尔陈冠希",
@@ -40771,6 +40987,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 116439,
+      "num": 116439,
+      "word": "幼儿园第1天和高考后最后1天",
+      "onboard_time": 1750119920,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116423,
       "num": 345057,
       "word": "郑州大学偶遇姚冠宇",
@@ -41161,6 +41385,14 @@
       "onboard_time": 1749723322,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114775,
+      "num": 114775,
+      "word": "Bin哥成熟了",
+      "onboard_time": 1750119920,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 114690,
@@ -41985,6 +42217,14 @@
       "onboard_time": 1749120562,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111334,
+      "num": 111334,
+      "word": "国外旅游的伊朗人冒险回国",
+      "onboard_time": 1750122441,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111288,
@@ -42817,6 +43057,14 @@
       "onboard_time": 1749702442,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107200,
+      "num": 152948,
+      "word": "王一博干一行行一行",
+      "onboard_time": 1750123279,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 107141,
@@ -43811,6 +44059,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 101431,
+      "num": 101431,
+      "word": "特朗普因以伊冲突提前回国",
+      "onboard_time": 1750125200,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101422,
       "num": 101422,
       "word": "拥有掰馍天赋的小猫咪",
@@ -43889,6 +44145,14 @@
       "onboard_time": 1749821666,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101011,
+      "num": 101011,
+      "word": "果然上班后看人的眼光会变",
+      "onboard_time": 1750119741,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 100986,
@@ -44065,6 +44329,14 @@
       "onboard_time": 1748779581,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99954,
+      "num": 99954,
+      "word": "以媒说以军证实打击伊朗电视台大楼",
+      "onboard_time": 1750121720,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99944,
@@ -44459,6 +44731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97992,
+      "num": 97992,
+      "word": "包文婧回应被指卑微",
+      "onboard_time": 1750123161,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97958,
       "num": 97484,
       "word": "鞠婧祎杂志",
@@ -44705,6 +44985,14 @@
       "onboard_time": 1749745581,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96827,
+      "num": 96827,
+      "word": "深圳天气",
+      "onboard_time": 1750118060,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96820,
@@ -45121,6 +45409,14 @@
       "onboard_time": 1750086621,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 94787,
+      "num": 152335,
+      "word": "刘诗诗发博支持郭晓婷新剧",
+      "onboard_time": 1750121180,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 94746,
@@ -45825,6 +46121,14 @@
       "onboard_time": 1749507856,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90694,
+      "num": 90694,
+      "word": "卷毛xun",
+      "onboard_time": 1750121541,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 90662,
@@ -47163,6 +47467,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 82293,
+      "num": 82293,
+      "word": "健身房里的安全感",
+      "onboard_time": 1750125499,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 82233,
       "num": 188986,
       "word": "金饰克价一夜跌13元",
@@ -47433,6 +47745,14 @@
       "onboard_time": 1749957860,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80542,
+      "num": 151717,
+      "word": "曾舜晞梁永棋给白鹿带了蛋糕",
+      "onboard_time": 1750124600,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 80483,
@@ -52668,7 +52988,7 @@
     },
     {
       "raw_hot": 46187,
-      "num": 484038,
+      "num": 557751,
       "word": "一组数据看中国经济稳中有进",
       "onboard_time": 1750082842,
       "rank": 2,
@@ -60617,6 +60937,14 @@
       "onboard_time": 1749551481,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10946,
+      "num": 111351,
+      "word": "谷爱凌开始夏训",
+      "onboard_time": 1750122620,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 10902,
