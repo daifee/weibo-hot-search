@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750192977194,
+  "endTime": 1750195541750,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -60067,6 +60067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28064,
+      "num": 21159,
+      "word": "labubu挂包不翻面的方法",
+      "onboard_time": 1750191735,
+      "rank": 42,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 28008,
       "num": 411124,
       "word": "筷子多久换一次",
@@ -60665,14 +60673,6 @@
       "onboard_time": 1749396563,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25559,
-      "num": 21159,
-      "word": "labubu挂包不翻面的方法",
-      "onboard_time": 1750191735,
-      "rank": 42,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 25498,
@@ -62339,6 +62339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19375,
+      "num": 19375,
+      "word": "金建希硕士论文被认定为剽窃",
+      "onboard_time": 1750192513,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 19344,
       "num": 159933,
       "word": "日常哪些共享行为可能泄露隐私",
@@ -62873,6 +62881,14 @@
       "onboard_time": 1750066760,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 16739,
+      "num": 16739,
+      "word": "钟丽缇回应被评价怎么健身都不瘦",
+      "onboard_time": 1750194794,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 16735,
@@ -63651,19 +63667,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13191,
+      "num": 16402,
+      "word": "女方回应男子拿两套房求和儿子被拒",
+      "onboard_time": 1750190233,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13171,
       "num": 349719,
       "word": "鲨鱼夹有什么安全隐患",
       "onboard_time": 1750048883,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13139,
-      "num": 15757,
-      "word": "女方回应男子拿两套房求和儿子被拒",
-      "onboard_time": 1750190233,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -63689,6 +63705,14 @@
       "onboard_time": 1750008976,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12989,
+      "num": 37882,
+      "word": "各方应该推动中东局势尽快降温",
+      "onboard_time": 1750191915,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12975,
@@ -63740,7 +63764,7 @@
     },
     {
       "raw_hot": 12668,
-      "num": 15751,
+      "num": 16402,
       "word": "12岁女孩花3200元学韩语家长质疑",
       "onboard_time": 1750192394,
       "rank": 48,
@@ -63875,14 +63899,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 11966,
-      "num": 37882,
-      "word": "各方应该推动中东局势尽快降温",
-      "onboard_time": 1750191915,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 11958,
       "num": 17684,
       "word": "这周日就是父亲节了",
@@ -63945,6 +63961,14 @@
       "onboard_time": 1748895074,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11721,
+      "num": 16401,
+      "word": "福建泉州有消费者称买到早产鲜羊奶",
+      "onboard_time": 1750195334,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11672,

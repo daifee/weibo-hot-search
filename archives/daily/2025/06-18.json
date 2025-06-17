@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750192977194,
+  "endTime": 1750195541750,
   "band_list": [
     {
       "raw_hot": 1342324,
@@ -491,7 +491,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25559,
+      "raw_hot": 28064,
       "num": 21159,
       "word": "labubu挂包不翻面的方法",
       "onboard_time": 1750191735,
@@ -523,12 +523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19375,
+      "num": 19375,
+      "word": "金建希硕士论文被认定为剽窃",
+      "onboard_time": 1750192513,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17283,
       "num": 65479,
       "word": "大国外交的忙碌现场",
       "onboard_time": 1750185675,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16739,
+      "num": 16739,
+      "word": "钟丽缇回应被评价怎么健身都不瘦",
+      "onboard_time": 1750194794,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 16400,
@@ -555,28 +571,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13139,
-      "num": 15757,
+      "raw_hot": 13191,
+      "num": 16402,
       "word": "女方回应男子拿两套房求和儿子被拒",
       "onboard_time": 1750190233,
       "rank": 46,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12989,
+      "num": 37882,
+      "word": "各方应该推动中东局势尽快降温",
+      "onboard_time": 1750191915,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12668,
-      "num": 15751,
+      "num": 16402,
       "word": "12岁女孩花3200元学韩语家长质疑",
       "onboard_time": 1750192394,
       "rank": 48,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11966,
-      "num": 37882,
-      "word": "各方应该推动中东局势尽快降温",
-      "onboard_time": 1750191915,
-      "rank": 27,
-      "category": "国际时政"
+      "raw_hot": 11721,
+      "num": 16401,
+      "word": "福建泉州有消费者称买到早产鲜羊奶",
+      "onboard_time": 1750195334,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10703,
