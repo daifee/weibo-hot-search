@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750185401640,
+  "endTime": 1750186243527,
   "band_list": [
     {
       "raw_hot": 1342324,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38120,
+      "num": 35688,
+      "word": "宋威龙吴世勋早期比耶合照",
+      "onboard_time": 1750184535,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34732,
       "num": 119526,
       "word": "以法律形式将世代友好原则固定下来",
@@ -483,16 +491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28215,
-      "num": 27676,
-      "word": "宋威龙吴世勋早期比耶合照",
-      "onboard_time": 1750184535,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 23162,
-      "num": 23162,
+      "raw_hot": 23957,
+      "num": 23957,
       "word": "医院回应疑似规培生失误致患者死亡",
       "onboard_time": 1750182436,
       "rank": 43,
@@ -505,6 +505,14 @@
       "onboard_time": 1750165821,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14805,
+      "num": 65479,
+      "word": "大国外交的忙碌现场",
+      "onboard_time": 1750185675,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 3450,
