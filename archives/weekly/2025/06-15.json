@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750164837282,
+  "endTime": 1750165762842,
   "band_list": [
     {
       "raw_hot": 3152370,
@@ -1067,6 +1067,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 602390,
+      "num": 272330,
+      "word": "曾舜晞跟姐姐共用一张脸",
+      "onboard_time": 1750163301,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 595519,
+      "num": 264977,
+      "word": "朱丹",
+      "onboard_time": 1750159582,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 594885,
       "num": 594885,
       "word": "哪吒2票房100元片方只拿33元",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1749951019,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 514095,
+      "num": 514095,
+      "word": "那英全开麦",
+      "onboard_time": 1750163961,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 510864,
@@ -1627,20 +1651,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 430592,
-      "num": 264977,
-      "word": "朱丹",
-      "onboard_time": 1750159582,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 430423,
       "num": 430423,
       "word": "伊朗称不会让以色列有一刻安宁",
       "onboard_time": 1750154482,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 429772,
+      "num": 337433,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1750165100,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 425532,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1749962001,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415426,
+      "num": 251516,
+      "word": "湖南卫视618开心夜",
+      "onboard_time": 1750164621,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 415278,
@@ -2291,14 +2323,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 312825,
-      "num": 261981,
-      "word": "曾舜晞跟姐姐共用一张脸",
-      "onboard_time": 1750163301,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311822,
       "num": 294005,
       "word": "避雷向佐粉底液",
@@ -2385,14 +2409,6 @@
       "onboard_time": 1750047441,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 299683,
-      "num": 299683,
-      "word": "那英全开麦",
-      "onboard_time": 1750163961,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 299069,
@@ -4035,6 +4051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190505,
+      "num": 258135,
+      "word": "何秋亊工作室致歉声明",
+      "onboard_time": 1750165522,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190058,
       "num": 190058,
       "word": "蔡徐坤 CPOP",
@@ -4259,14 +4283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183432,
-      "num": 212073,
-      "word": "湖南卫视618开心夜",
-      "onboard_time": 1750164621,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 183326,
       "num": 183326,
       "word": "邓紫棋石家庄演唱会",
@@ -4361,6 +4377,14 @@
       "onboard_time": 1750138944,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180441,
+      "num": 180441,
+      "word": "祁煜利莫里亚海神",
+      "onboard_time": 1750165341,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 180354,
@@ -4771,6 +4795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170063,
+      "num": 170063,
+      "word": "杨坤曾谈到病逝的前女友",
+      "onboard_time": 1750164982,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169650,
       "num": 241398,
       "word": "曾舜晞老公的容貌妻子的荣耀",
@@ -4811,20 +4843,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168799,
+      "num": 256958,
+      "word": "科钦夫疑回应高考数学10分考985",
+      "onboard_time": 1750162702,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168794,
       "num": 168794,
       "word": "至少30架美军机正跨越大西洋",
       "onboard_time": 1750070900,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 168606,
-      "num": 256958,
-      "word": "科钦夫疑回应高考数学10分考985",
-      "onboard_time": 1750162702,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 168556,
@@ -5169,6 +5201,14 @@
       "onboard_time": 1750053861,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159951,
+      "num": 171990,
+      "word": "第一次这么直观区别电影脸电视脸",
+      "onboard_time": 1750165221,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 159900,
@@ -5779,6 +5819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145515,
+      "num": 254220,
+      "word": "京东补贴",
+      "onboard_time": 1750165462,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145423,
       "num": 120593,
       "word": "特朗普正式进军手机市场",
@@ -5817,6 +5865,14 @@
       "onboard_time": 1750164441,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144621,
+      "num": 263887,
+      "word": "相差14岁小男友提分手起诉女方还钱",
+      "onboard_time": 1750161980,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144574,
@@ -5947,20 +6003,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141033,
-      "num": 141033,
-      "word": "相差14岁小男友提分手起诉女方还钱",
-      "onboard_time": 1750161980,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141013,
       "num": 141013,
       "word": "去寺庙就是为了这一口素面",
       "onboard_time": 1749970280,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140994,
+      "num": 140994,
+      "word": "空调一直开着为什么会更省电",
+      "onboard_time": 1750165522,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 140799,
@@ -6451,6 +6507,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 131832,
+      "num": 131832,
+      "word": "刘忻衣服是用3D打印出来的",
+      "onboard_time": 1750165522,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131535,
       "num": 131535,
       "word": "裸辞和在职找工作的区别",
@@ -6659,6 +6723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128918,
+      "num": 128918,
+      "word": "伊朗禁止官员使用联网设备",
+      "onboard_time": 1750163840,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128816,
       "num": 161822,
       "word": "汪苏泷演唱会穿了一身贝壳",
@@ -6731,6 +6803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127514,
+      "num": 127514,
+      "word": "鞠婧祎生日单曲落日未眠",
+      "onboard_time": 1750165221,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127507,
       "num": 127507,
       "word": "广东暴雨多地宣布停课",
@@ -6769,14 +6849,6 @@
       "onboard_time": 1749960200,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126959,
-      "num": 126959,
-      "word": "伊朗禁止官员使用联网设备",
-      "onboard_time": 1750163840,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126769,
@@ -6865,6 +6937,14 @@
       "onboard_time": 1750072101,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 125745,
+      "num": 125745,
+      "word": "涉钱德勒演员死亡案一医生同意认罪",
+      "onboard_time": 1750165581,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 125638,
@@ -7355,6 +7435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117436,
+      "num": 117436,
+      "word": "以色列情报机构被炸",
+      "onboard_time": 1750165400,
+      "rank": 46,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 117147,
       "num": 117147,
       "word": "什么单位有2000人都不说话",
@@ -7593,6 +7681,14 @@
       "onboard_time": 1750073241,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114236,
+      "num": 114236,
+      "word": "文班亚马苦练少林功夫",
+      "onboard_time": 1750165041,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 114142,
@@ -7932,7 +8028,7 @@
     },
     {
       "raw_hot": 108330,
-      "num": 259500,
+      "num": 267870,
       "word": "天猫买全屋万元大家电只要618元",
       "onboard_time": 1750161801,
       "rank": 16,
@@ -8659,6 +8755,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 82230,
+      "num": 171703,
+      "word": "以色列士兵藏身学校",
+      "onboard_time": 1750164801,
+      "rank": 43,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 82092,
       "num": 206307,
       "word": "全网热搜的脱衣助考大哥找到了",
@@ -9241,14 +9345,6 @@
       "onboard_time": 1750076781,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57045,
-      "num": 125701,
-      "word": "以色列士兵藏身学校",
-      "onboard_time": 1750164801,
-      "rank": 43,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 56853,
@@ -11209,6 +11305,14 @@
       "onboard_time": 1750075281,
       "rank": 14,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 4302,
+      "num": 535631,
+      "word": "九组数据感知我国经济韧性活力",
+      "onboard_time": 1750131381,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
