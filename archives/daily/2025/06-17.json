@@ -1,6 +1,6 @@
 {
   "startTime": 1750091629624,
-  "endTime": 1750149319064,
+  "endTime": 1750150184920,
   "band_list": [
     {
       "raw_hot": 2600623,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1304705,
+      "num": 869721,
+      "word": "女子以为绝经喝中药不知竟怀孕17周",
+      "onboard_time": 1750146321,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1139717,
       "num": 448948,
       "word": "那尔那茜哥哥 数学10分",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1083708,
-      "num": 320990,
+      "num": 385731,
       "word": "朱丹 重男轻女",
       "onboard_time": 1750144581,
       "rank": 15,
@@ -83,20 +91,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 932163,
+      "num": 1149146,
+      "word": "暴力熊 Labubu",
+      "onboard_time": 1750144700,
+      "rank": 34,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 929329,
       "num": 564065,
       "word": "痛经 吃榴莲",
       "onboard_time": 1750125140,
       "rank": 23,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 923945,
-      "num": 1147831,
-      "word": "暴力熊 Labubu",
-      "onboard_time": 1750144700,
-      "rank": 34,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 907175,
@@ -121,14 +129,6 @@
       "onboard_time": 1750135463,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 869721,
-      "num": 869721,
-      "word": "女子以为绝经喝中药不知竟怀孕17周",
-      "onboard_time": 1750146321,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 861801,
@@ -163,12 +163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 788410,
+      "num": 406770,
+      "word": "能不能禁止刘亦菲和人打招呼",
+      "onboard_time": 1750147940,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 763265,
       "num": 546528,
       "word": "涨工资的信号越来越明确",
       "onboard_time": 1750077020,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 756622,
+      "num": 483493,
+      "word": "徐佳莹粉丝因为嘉宾退票",
+      "onboard_time": 1750148002,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 742670,
@@ -185,14 +201,6 @@
       "onboard_time": 1750143861,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 733921,
-      "num": 483493,
-      "word": "徐佳莹粉丝因为嘉宾退票",
-      "onboard_time": 1750148002,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 720281,
@@ -371,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 456651,
-      "num": 319450,
-      "word": "能不能禁止刘亦菲和人打招呼",
-      "onboard_time": 1750147940,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 437695,
       "num": 437695,
       "word": "以色列总理儿子婚礼引发争议",
@@ -499,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 348244,
+      "num": 348244,
+      "word": "日本男子杀女网友分尸头盖骨藏家7年",
+      "onboard_time": 1750147400,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 346648,
       "num": 494024,
       "word": "轧戏",
@@ -571,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314295,
+      "num": 418541,
+      "word": "男子称婚后不交工资每周都被媳妇打",
+      "onboard_time": 1750148662,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310631,
       "num": 274131,
       "word": "张子墨管易烊千玺叫祖师爷",
@@ -585,6 +601,14 @@
       "onboard_time": 1750126039,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 302748,
+      "num": 302748,
+      "word": "印度空难幸存者走出火场最新画面",
+      "onboard_time": 1750147641,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 301485,
@@ -609,14 +633,6 @@
       "onboard_time": 1750118779,
       "rank": 15,
       "category": "互联网,幽默"
-    },
-    {
-      "raw_hot": 296327,
-      "num": 296327,
-      "word": "日本男子杀女网友分尸头盖骨藏家7年",
-      "onboard_time": 1750147400,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 295563,
@@ -707,6 +723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 265121,
+      "num": 390179,
+      "word": "伊朗首都街头空无一人",
+      "onboard_time": 1750146561,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255947,
       "num": 236208,
       "word": "女子常年为全家做饭确诊肺癌",
@@ -739,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241047,
-      "num": 241047,
-      "word": "伊朗首都街头空无一人",
-      "onboard_time": 1750146561,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 240747,
       "num": 538436,
       "word": "救护车转运重病孩子800公里收2.8万",
@@ -777,14 +793,6 @@
       "onboard_time": 1750144821,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 231657,
-      "num": 231657,
-      "word": "印度空难幸存者走出火场最新画面",
-      "onboard_time": 1750147641,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 230267,
@@ -835,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221646,
-      "num": 221646,
-      "word": "男子称婚后不交工资每周都被媳妇打",
-      "onboard_time": 1750148662,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215219,
       "num": 215219,
       "word": "崩坏星穹铁道",
@@ -872,6 +872,22 @@
       "word": "雁回时 短剧",
       "onboard_time": 1750133423,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207421,
+      "num": 207421,
+      "word": "赛百味减肥",
+      "onboard_time": 1750147040,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 206865,
+      "num": 228061,
+      "word": "翘楚首发角色海报",
+      "onboard_time": 1750148962,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -939,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190251,
-      "num": 190251,
-      "word": "翘楚首发角色海报",
-      "onboard_time": 1750148962,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189895,
       "num": 189895,
       "word": "白鹿曾舜晞 接二搭",
@@ -1011,12 +1019,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180558,
-      "num": 180558,
-      "word": "赛百味减肥",
-      "onboard_time": 1750147040,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 180614,
+      "num": 180614,
+      "word": "蔡天凤碎尸案两被告被判有罪",
+      "onboard_time": 1750147641,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180459,
@@ -1107,6 +1115,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 172269,
+      "num": 172269,
+      "word": "医院缴费必须先帮工作人员扫码砍价",
+      "onboard_time": 1750146441,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171825,
       "num": 171825,
       "word": "五十公里桃花坞",
@@ -1188,19 +1204,11 @@
     },
     {
       "raw_hot": 165496,
-      "num": 186364,
+      "num": 227951,
       "word": "那尔那茜高考当年曾查处违规考生",
       "onboard_time": 1750147701,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162166,
-      "num": 162166,
-      "word": "医院缴费必须先帮工作人员扫码砍价",
-      "onboard_time": 1750146441,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161979,
@@ -1251,12 +1259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157751,
+      "num": 164579,
+      "word": "孙佳俊夺金后的朋友圈",
+      "onboard_time": 1750148601,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157211,
       "num": 157211,
       "word": "海关查获泡泡玛特玩偶144个",
       "onboard_time": 1750147582,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156729,
+      "num": 156729,
+      "word": "刘浩存终于换掉了微商头像",
+      "onboard_time": 1750149982,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 155887,
@@ -1379,20 +1403,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144022,
+      "num": 144022,
+      "word": "男生熬夜打游戏突发心梗血管全堵",
+      "onboard_time": 1750149801,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142991,
       "num": 142991,
       "word": "求林则徐联系方式",
       "onboard_time": 1750145300,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 142181,
-      "num": 142181,
-      "word": "蔡天凤碎尸案两被告被判有罪",
-      "onboard_time": 1750147641,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141303,
@@ -1416,6 +1440,14 @@
       "word": "张译一年奖励自己一部正剧",
       "onboard_time": 1750141281,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140385,
+      "num": 156954,
+      "word": "临江仙破万 奇迹的诞生",
+      "onboard_time": 1750150103,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1844,7 +1876,7 @@
     },
     {
       "raw_hot": 90592,
-      "num": 175005,
+      "num": 227827,
       "word": "朋友圈怎么点赞不尴尬",
       "onboard_time": 1750149142,
       "rank": 33,
@@ -2011,6 +2043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74521,
+      "num": 353280,
+      "word": "哪些大学专业和AI有关",
+      "onboard_time": 1750149441,
+      "rank": 19,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 73967,
       "num": 167706,
       "word": "韩国印度入场短剧",
@@ -2097,14 +2137,6 @@
       "onboard_time": 1750068621,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68612,
-      "num": 164579,
-      "word": "孙佳俊夺金后的朋友圈",
-      "onboard_time": 1750148601,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 66622,
@@ -2291,6 +2323,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43911,
+      "num": 164674,
+      "word": "层层加码的禁酒禁餐令",
+      "onboard_time": 1750148540,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43425,
+      "num": 152233,
+      "word": "王楚钦孙颖莎王曼昱再同框",
+      "onboard_time": 1750146321,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41771,
       "num": 41771,
       "word": "警方通报28岁男子离家爬山后失联",
@@ -2347,20 +2395,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 35871,
+      "num": 156731,
+      "word": "步行者噩梦回G1",
+      "onboard_time": 1750150162,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35649,
       "num": 35649,
       "word": "和蔡徐坤一起听浪漫北京",
       "onboard_time": 1750095196,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 35289,
-      "num": 164674,
-      "word": "层层加码的禁酒禁餐令",
-      "onboard_time": 1750148540,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35282,
@@ -2441,6 +2489,14 @@
       "onboard_time": 1750083683,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25036,
+      "num": 398864,
+      "word": "爆炸烟花厂因质量缺陷致人眼睛炸伤",
+      "onboard_time": 1750149321,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24623,
@@ -2593,6 +2649,14 @@
       "onboard_time": 1750122620,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10432,
+      "num": 227746,
+      "word": "以色列人借助小型游艇出逃",
+      "onboard_time": 1750149502,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10225,
