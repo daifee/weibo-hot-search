@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750192122303,
+  "endTime": 1750192977194,
   "band_list": [
     {
       "raw_hot": 1342324,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25559,
+      "num": 21159,
+      "word": "labubu挂包不翻面的方法",
+      "onboard_time": 1750191735,
+      "rank": 42,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 23957,
       "num": 23957,
       "word": "医院回应疑似规培生失误致患者死亡",
@@ -531,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16365,
-      "num": 16365,
-      "word": "labubu挂包不翻面的方法",
-      "onboard_time": 1750191735,
-      "rank": 42,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 15779,
       "num": 45257,
       "word": "我国磁悬浮技术获新突破",
@@ -547,20 +547,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14213,
+      "num": 15769,
+      "word": "张艺兴晚会彩排剧透",
+      "onboard_time": 1750192633,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 13139,
+      "num": 15757,
+      "word": "女方回应男子拿两套房求和儿子被拒",
+      "onboard_time": 1750190233,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12668,
+      "num": 15751,
+      "word": "12岁女孩花3200元学韩语家长质疑",
+      "onboard_time": 1750192394,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11966,
+      "num": 37882,
+      "word": "各方应该推动中东局势尽快降温",
+      "onboard_time": 1750191915,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 10703,
       "num": 25582,
       "word": "2025至2026年为中国中亚合作高质量发展年",
       "onboard_time": 1750188315,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10197,
-      "num": 23536,
-      "word": "各方应该推动中东局势尽快降温",
-      "onboard_time": 1750191915,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 3450,
