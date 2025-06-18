@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750243575350,
+  "endTime": 1750245787027,
   "band_list": [
     {
       "raw_hot": 3545942,
@@ -120,6 +120,14 @@
       "word": "沈阳车祸",
       "onboard_time": 1750174222,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1080340,
+      "num": 1172854,
+      "word": "男子中1000万彩票掉洗衣机被漂洗",
+      "onboard_time": 1750243341,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 708897,
+      "num": 708897,
+      "word": "哈梅内伊对伊朗全国讲话",
+      "onboard_time": 1750243761,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 701204,
       "num": 1112192,
       "word": "刘强东回应写遗书赴汶川灾区",
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483154,
+      "num": 431226,
+      "word": "河南爱豆",
+      "onboard_time": 1750243580,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476423,
       "num": 340784,
       "word": "文泰一强奸案受害者是中国人",
@@ -489,6 +513,14 @@
       "onboard_time": 1750228880,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414893,
+      "num": 414893,
+      "word": "七根心简 评分",
+      "onboard_time": 1750239381,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 410661,
@@ -643,14 +675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 333736,
-      "num": 333736,
-      "word": "七根心简 评分",
-      "onboard_time": 1750239381,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 332832,
       "num": 221762,
       "word": "公认现象级大爆剧",
@@ -763,6 +787,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 278162,
+      "num": 278162,
+      "word": "国产剧终于让小三吃上恋爱脑的苦",
+      "onboard_time": 1750245080,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275267,
       "num": 428494,
       "word": "中国首批撤侨队伍从伊朗出发",
@@ -809,6 +841,14 @@
       "onboard_time": 1750212980,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262746,
+      "num": 226420,
+      "word": "傅园慧一小时游泳课被10万元拍下",
+      "onboard_time": 1750244063,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 261628,
@@ -1067,6 +1107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204490,
+      "num": 204490,
+      "word": "哈梅内伊将对伊朗全国讲话",
+      "onboard_time": 1750244901,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 203663,
       "num": 252474,
       "word": "kpop老实人",
@@ -1089,6 +1137,14 @@
       "onboard_time": 1750234702,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 201354,
+      "num": 184206,
+      "word": "伊朗总统重申伊朗不寻求核武器",
+      "onboard_time": 1750242141,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 201158,
@@ -1217,14 +1273,6 @@
       "onboard_time": 1750220602,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184206,
-      "num": 184206,
-      "word": "伊朗总统重申伊朗不寻求核武器",
-      "onboard_time": 1750242141,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 182509,
@@ -1475,6 +1523,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154275,
+      "num": 154275,
+      "word": "6岁女孩翻出21楼想给家人惊喜",
+      "onboard_time": 1750244901,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152146,
+      "num": 173800,
+      "word": "贾乃亮乔欣时隔3年再合体",
+      "onboard_time": 1750243341,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151936,
       "num": 151936,
       "word": "两年没系统上班的朋友",
@@ -1579,14 +1643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140379,
-      "num": 187020,
-      "word": "男子中1000万彩票掉洗衣机被漂洗",
-      "onboard_time": 1750243341,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138690,
       "num": 138690,
       "word": "军工概念走强",
@@ -1624,14 +1680,6 @@
       "word": "文泰一 NCT",
       "onboard_time": 1750228221,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 133899,
-      "num": 133899,
-      "word": "贾乃亮乔欣时隔3年再合体",
-      "onboard_time": 1750243341,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1803,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121371,
+      "num": 284718,
+      "word": "转卖蜜雪冰城00后小伙开传媒公司",
+      "onboard_time": 1750242561,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120840,
       "num": 354740,
       "word": "景区回应旅游博主江小隐溺亡",
@@ -1915,12 +1971,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110116,
+      "num": 106432,
+      "word": "为什么说重庆是个巨大的练车场",
+      "onboard_time": 1750245080,
+      "rank": 40,
+      "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 109355,
+      "num": 109355,
+      "word": "小兰的蝴蝶结围巾给柯南整红温了",
+      "onboard_time": 1750245141,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 108861,
       "num": 108861,
       "word": "曾舜晞跟姐姐共用一张脸",
       "onboard_time": 1750163301,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108508,
+      "num": 236944,
+      "word": "女子未购票进景区后坠亡向景区索赔",
+      "onboard_time": 1750244541,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108370,
@@ -1971,8 +2051,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105998,
+      "num": 105998,
+      "word": "陈鑫海说本人被盗号了",
+      "onboard_time": 1750245741,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105020,
-      "num": 137061,
+      "num": 169409,
       "word": "四川一水库水位下降现千年摩崖造像",
       "onboard_time": 1750242621,
       "rank": 39,
@@ -2011,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101298,
+      "num": 254035,
+      "word": "618天猫已经卷到9.9元抢真车了",
+      "onboard_time": 1750244720,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 100799,
       "num": 100799,
       "word": "王安宇 2016年最帅艺考生",
@@ -2035,11 +2131,43 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 98454,
+      "num": 98454,
+      "word": "DYG对战RW",
+      "onboard_time": 1750245741,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 97816,
+      "num": 97816,
+      "word": "张婧仪提醒章若楠注意安全",
+      "onboard_time": 1750243941,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97541,
+      "num": 97541,
+      "word": "汪顺与400米混合泳",
+      "onboard_time": 1750245741,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96313,
       "num": 96313,
       "word": "白鹿曾舜晞临江仙破万惊喜vlog",
       "onboard_time": 1750174461,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96053,
+      "num": 96053,
+      "word": "李光洁 人夫赛道遥遥领先",
+      "onboard_time": 1750245741,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -2129,6 +2257,14 @@
       "onboard_time": 1750206741,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 91955,
+      "num": 91955,
+      "word": "刘亦菲比划HelloKitty",
+      "onboard_time": 1750244181,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 90131,
@@ -2603,6 +2739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45091,
+      "num": 326975,
+      "word": "为爱犬追凶1000天女子最新发声",
+      "onboard_time": 1750245322,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45061,
       "num": 67508,
       "word": "郑钦文温网5号种子",
@@ -2897,6 +3041,14 @@
       "onboard_time": 1750231941,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21769,
+      "num": 106543,
+      "word": "这届618红黄蓝的含金量还在上升",
+      "onboard_time": 1750244480,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 21614,

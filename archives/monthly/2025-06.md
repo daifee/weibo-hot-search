@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 18:46:15
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 19:23:07
 </p>
 </blockquote>
 <p>
@@ -1967,6 +1967,12 @@ B站崩了（热度：1103539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%86%B0%E5%9B%A0%E6%88%8F%E5%87%8F%E8%82%A5%E5%90%8E%E4%B8%8D%E5%86%8D%E6%89%93%E5%91%BC%23" target="weibo">
 贾冰因戏减肥后不再打呼（热度：1083707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD1000%E4%B8%87%E5%BD%A9%E7%A5%A8%E6%8E%89%E6%B4%97%E8%A1%A3%E6%9C%BA%E8%A2%AB%E6%BC%82%E6%B4%97%23" target="weibo">
+男子中1000万彩票掉洗衣机被漂洗（热度：1080340）
 </a>
 </li>
 
@@ -3959,6 +3965,12 @@ Labubu 审美（热度：729066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%A5%B3%E5%AD%90%E9%86%89%E9%A9%BE%E8%B6%85%E9%80%9F%E8%87%B4%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E6%AD%BB%E4%BA%A1%23" target="weibo">
 河南一女子醉驾超速致一家三口死亡（热度：709390）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%85%A8%E5%9B%BD%E8%AE%B2%E8%AF%9D%23" target="weibo">
+哈梅内伊对伊朗全国讲话（热度：708897）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Labubu催生庞大周边产业链（热度：535204）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAPura80%E6%9D%A5%E4%BA%86%23" target="weibo">
 华为Pura80来了（热度：529927）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232025%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%E6%B1%87%E6%80%BB%23" target="weibo">
-2025高考作文题汇总（热度：529897）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9D%AD%E5%B7%9E%E4%B8%87%E8%B1%A1%E5%9F%8E%E9%81%AD%E6%8C%9F%E5%88%B6%E8%A2%AB%E6%8D%85%E6%95%B0%E5%88%80%23" target="weibo">
-女生杭州万象城遭挟制被捅数刀（热度：528537）
 </a>
 </li>
 

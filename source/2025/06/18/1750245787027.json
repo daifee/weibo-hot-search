@@ -1,0 +1,410 @@
+{
+  "runTime": 1750245787027,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1080340,
+        "num": 1172854,
+        "word": "男子中1000万彩票掉洗衣机被漂洗",
+        "onboard_time": 1750243341,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1033729,
+        "num": 1033729,
+        "word": "朱丹 我们从未让女儿留级",
+        "onboard_time": 1750231041,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16989,
+        "num": 855128,
+        "word": "8项重磅金融政策发布",
+        "onboard_time": 1750212861,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 708897,
+        "num": 708897,
+        "word": "哈梅内伊对伊朗全国讲话",
+        "onboard_time": 1750243761,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 508893,
+        "num": 508893,
+        "word": "网易云音乐回应邓紫棋重录版下架",
+        "onboard_time": 1750242021,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 434831,
+        "num": 434831,
+        "word": "溺亡网红博主江小隐是家中独子",
+        "onboard_time": 1750240941,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483154,
+        "num": 431226,
+        "word": "河南爱豆",
+        "onboard_time": 1750243580,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414893,
+        "num": 414893,
+        "word": "七根心简 评分",
+        "onboard_time": 1750239381,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329006,
+        "num": 329006,
+        "word": "中方回应特朗普要求伊朗无条件投降",
+        "onboard_time": 1750236741,
+        "rank": 8,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 45091,
+        "num": 326975,
+        "word": "为爱犬追凶1000天女子最新发声",
+        "onboard_time": 1750245322,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 829077,
+        "num": 320004,
+        "word": "特朗普手机",
+        "onboard_time": 1750238781,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 501808,
+        "num": 311724,
+        "word": "伊朗绞刑处死内鬼",
+        "onboard_time": 1750233141,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 406096,
+        "num": 302284,
+        "word": "蜂鸟音乐指控邓紫棋侵权",
+        "onboard_time": 1750223483,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379174,
+        "num": 292117,
+        "word": "张杰 一觉醒来我老婆不是我老婆了",
+        "onboard_time": 1750235902,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121371,
+        "num": 284718,
+        "word": "转卖蜜雪冰城00后小伙开传媒公司",
+        "onboard_time": 1750242561,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278162,
+        "num": 278162,
+        "word": "国产剧终于让小三吃上恋爱脑的苦",
+        "onboard_time": 1750245080,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275526,
+        "num": 275526,
+        "word": "谢娜都结婚了 他怎么不早点说啊",
+        "onboard_time": 1750220302,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101298,
+        "num": 254035,
+        "word": "618天猫已经卷到9.9元抢真车了",
+        "onboard_time": 1750244720,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 252620,
+        "num": 252620,
+        "word": "文泰一性侵第二天生日直播",
+        "onboard_time": 1750231280,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108508,
+        "num": 236944,
+        "word": "女子未购票进景区后坠亡向景区索赔",
+        "onboard_time": 1750244541,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233808,
+        "num": 233808,
+        "word": "以色列袭击已致伊朗585死1326伤",
+        "onboard_time": 1750226301,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262746,
+        "num": 226420,
+        "word": "傅园慧一小时游泳课被10万元拍下",
+        "onboard_time": 1750244063,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238239,
+        "num": 222347,
+        "word": "爸爸1天3包烟16岁女儿确诊肺癌",
+        "onboard_time": 1750233262,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204490,
+        "num": 204490,
+        "word": "哈梅内伊将对伊朗全国讲话",
+        "onboard_time": 1750244901,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175770,
+        "num": 175770,
+        "word": "叠纸心意",
+        "onboard_time": 1750242621,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162339,
+        "num": 174768,
+        "word": "李雪琴方声明",
+        "onboard_time": 1750227141,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152146,
+        "num": 173800,
+        "word": "贾乃亮乔欣时隔3年再合体",
+        "onboard_time": 1750243341,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148346,
+        "num": 171298,
+        "word": "朱丹回应争议",
+        "onboard_time": 1750232001,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120497,
+        "num": 170376,
+        "word": "临江仙",
+        "onboard_time": 1750241661,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100525,
+        "num": 169409,
+        "word": "四川一水库水位下降现千年摩崖造像",
+        "onboard_time": 1750242621,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201354,
+        "num": 167384,
+        "word": "伊朗总统重申伊朗不寻求核武器",
+        "onboard_time": 1750242141,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166373,
+        "num": 166373,
+        "word": "刘强东称过去5年是京东失去的5年",
+        "onboard_time": 1750238061,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158169,
+        "num": 158169,
+        "word": "伊朗袭击致以色列24死逾1300伤",
+        "onboard_time": 1750226241,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154275,
+        "num": 154275,
+        "word": "6岁女孩翻出21楼想给家人惊喜",
+        "onboard_time": 1750244901,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134206,
+        "num": 134206,
+        "word": "以色列防空系统或仅能再撑12天",
+        "onboard_time": 1750240880,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119445,
+        "num": 119445,
+        "word": "周鹤年退团",
+        "onboard_time": 1750233441,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117304,
+        "num": 117304,
+        "word": "Labubu在美国二级市场最高炒至上千美元",
+        "onboard_time": 1750233921,
+        "rank": 36,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 113303,
+        "num": 113303,
+        "word": "李国庆再婚",
+        "onboard_time": 1750224502,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109355,
+        "num": 109355,
+        "word": "小兰的蝴蝶结围巾给柯南整红温了",
+        "onboard_time": 1750245141,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21769,
+        "num": 106543,
+        "word": "这届618红黄蓝的含金量还在上升",
+        "onboard_time": 1750244480,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110116,
+        "num": 106432,
+        "word": "为什么说重庆是个巨大的练车场",
+        "onboard_time": 1750245080,
+        "rank": 40,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 105998,
+        "num": 105998,
+        "word": "陈鑫海说本人被盗号了",
+        "onboard_time": 1750245741,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105733,
+        "num": 105733,
+        "word": "李连杰调查了向太半年才敢合作",
+        "onboard_time": 1750240281,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104565,
+        "num": 104565,
+        "word": "汪峰宁静就这么自然地牵手了",
+        "onboard_time": 1750228161,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98454,
+        "num": 98454,
+        "word": "DYG对战RW",
+        "onboard_time": 1750245741,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97816,
+        "num": 97816,
+        "word": "张婧仪提醒章若楠注意安全",
+        "onboard_time": 1750243941,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97541,
+        "num": 97541,
+        "word": "汪顺与400米混合泳",
+        "onboard_time": 1750245741,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562349,
+        "num": 97378,
+        "word": "崂山可乐",
+        "onboard_time": 1750235002,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96053,
+        "num": 96053,
+        "word": "李光洁 人夫赛道遥遥领先",
+        "onboard_time": 1750245741,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91955,
+        "num": 91955,
+        "word": "刘亦菲比划HelloKitty",
+        "onboard_time": 1750244181,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中国中亚合作不断取得新的成就#"
+    }
+  }
+}
