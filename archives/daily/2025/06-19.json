@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750267504201,
+  "endTime": 1750268673959,
   "band_list": [
     {
       "raw_hot": 1489486,
@@ -25,6 +25,14 @@
       "onboard_time": 1750246883,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 583282,
+      "num": 583282,
+      "word": "女子22年化妆不卸妆脸红成关公",
+      "onboard_time": 1750264640,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 582042,
@@ -160,14 +168,6 @@
       "word": "女孩醉驾致3死借车车主一同被诉",
       "onboard_time": 1750258944,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245884,
-      "num": 245884,
-      "word": "女子22年化妆不卸妆脸红成关公",
-      "onboard_time": 1750264640,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -467,12 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37619,
+      "num": 44899,
+      "word": "伊媒公布击落以色列无人机画面",
+      "onboard_time": 1750268297,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30256,
       "num": 964900,
       "word": "数读5月消费市场亮点",
       "onboard_time": 1750253722,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16576,
+      "num": 44192,
+      "word": "咱的太空房子准备扩容",
+      "onboard_time": 1750268237,
+      "rank": 41,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
