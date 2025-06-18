@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750203601607,
+  "endTime": 1750212109220,
   "band_list": [
     {
       "raw_hot": 1592159,
@@ -27,6 +27,46 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 973925,
+      "num": 286262,
+      "word": "黑魔仙小月扮演者公开讨债",
+      "onboard_time": 1750204760,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 814614,
+      "num": 814614,
+      "word": "李雪琴 老谢",
+      "onboard_time": 1750203919,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 776966,
+      "num": 776966,
+      "word": "伊朗向以色列发射高超音速导弹",
+      "onboard_time": 1750209261,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 527671,
+      "num": 285467,
+      "word": "杨威晒儿子在香港上学生活费",
+      "onboard_time": 1750206501,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 523872,
+      "num": 284360,
+      "word": "朱丹给何猷君说懵了",
+      "onboard_time": 1750205060,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518159,
       "num": 518159,
       "word": "何炅选李晟当女主的含金量",
@@ -51,12 +91,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 453999,
+      "num": 453999,
+      "word": "特朗普发文要求伊朗无条件投降",
+      "onboard_time": 1750204280,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 433531,
       "num": 224296,
       "word": "伊朗",
       "onboard_time": 1750169542,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 432893,
+      "num": 283655,
+      "word": "陈哲远 把妹王",
+      "onboard_time": 1750207280,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 397220,
@@ -67,12 +123,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 386486,
+      "num": 386486,
+      "word": "女子称跟猥亵司机住同小区怕被报复",
+      "onboard_time": 1750209021,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384125,
       "num": 219296,
       "word": "刘浩存终于换掉了微商头像",
       "onboard_time": 1750149982,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377728,
+      "num": 281642,
+      "word": "迪迪不畏致歉",
+      "onboard_time": 1750203020,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 344290,
@@ -99,6 +171,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340018,
+      "num": 340018,
+      "word": "鞠婧祎 丝芭",
+      "onboard_time": 1750207341,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 334830,
+      "num": 334830,
+      "word": "特朗普称耐心正耗尽",
+      "onboard_time": 1750207162,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 332832,
       "num": 221762,
       "word": "公认现象级大爆剧",
@@ -123,11 +211,35 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 294174,
+      "num": 294174,
+      "word": "江苏一医院称负债4400多万全员解聘",
+      "onboard_time": 1750205000,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293091,
       "num": 293091,
       "word": "男子拿两套房和存款弥补儿子遭拒绝",
       "onboard_time": 1750170204,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288188,
+      "num": 288188,
+      "word": "T3司机猥亵大三女生被行拘5日",
+      "onboard_time": 1750210579,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281572,
+      "num": 281572,
+      "word": "上海阿婆在家照镜子被转走近400万",
+      "onboard_time": 1750205421,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -155,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247330,
+      "num": 247330,
+      "word": "坏了让她读到真大学了",
+      "onboard_time": 1750202299,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246823,
       "num": 232106,
       "word": "以方已摧毁伊朗铀浓缩设施",
@@ -179,12 +299,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 229852,
+      "num": 229852,
+      "word": "特朗普战情室见国家安全团队",
+      "onboard_time": 1750203620,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 228873,
       "num": 228873,
       "word": "请伊朗以色列的中国公民联系使领馆",
       "onboard_time": 1750172662,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222956,
+      "num": 222956,
+      "word": "价值近3万的labubu日租金19.9元",
+      "onboard_time": 1750211120,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215388,
@@ -195,20 +331,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197220,
-      "num": 101680,
-      "word": "迪迪不畏致歉",
-      "onboard_time": 1750203020,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 194319,
       "num": 150985,
       "word": "我的阿勒泰等中国影视作品走红中亚",
       "onboard_time": 1750175301,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182509,
+      "num": 274947,
+      "word": "管乐演我见张艺兴",
+      "onboard_time": 1750204340,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180784,
+      "num": 272891,
+      "word": "彻查那尔那茜舆情是守护公平正义",
+      "onboard_time": 1750207761,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177276,
+      "num": 177276,
+      "word": "禁止违规吃喝不等同于禁止吃喝",
+      "onboard_time": 1750210880,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175622,
@@ -227,12 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165686,
-      "num": 98004,
-      "word": "坏了让她读到真大学了",
-      "onboard_time": 1750202299,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 165788,
+      "num": 165788,
+      "word": "迪丽热巴油画蓬然裙",
+      "onboard_time": 1750209381,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164649,
+      "num": 164649,
+      "word": "泡泡玛特发布韩国labubu购买新规",
+      "onboard_time": 1750202117,
+      "rank": 32,
+      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 164457,
@@ -243,20 +403,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157211,
+      "num": 157211,
+      "word": "以色列",
+      "onboard_time": 1750211659,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149485,
       "num": 149485,
       "word": "能不能禁止刘亦菲和人打招呼",
       "onboard_time": 1750147940,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145379,
-      "num": 145379,
-      "word": "泡泡玛特发布韩国labubu购买新规",
-      "onboard_time": 1750202117,
-      "rank": 32,
-      "category": "民生新闻,动漫"
     },
     {
       "raw_hot": 140405,
@@ -299,12 +459,52 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 127928,
+      "num": 287316,
+      "word": "李雪琴关联公司曾一年投资4家企业",
+      "onboard_time": 1750211600,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126494,
+      "num": 126494,
+      "word": "哈梅内伊称必须强力打击以色列",
+      "onboard_time": 1750209981,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 124966,
+      "num": 124966,
+      "word": "何秋亊曾在直播时抽烟",
+      "onboard_time": 1750211479,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 123905,
+      "num": 123905,
+      "word": "男子为扶7旬老人骨折遭其拒不承认",
+      "onboard_time": 1750204519,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122743,
       "num": 122743,
       "word": "张艺兴跳舞已经nextlevel了",
       "onboard_time": 1750168101,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120796,
+      "num": 120796,
+      "word": "直击2025陆家嘴论坛",
+      "onboard_time": 1750209920,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118642,
@@ -315,12 +515,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117470,
+      "num": 117470,
+      "word": "伊朗警告以色列居民尽快撤离",
+      "onboard_time": 1750203861,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116547,
       "num": 116547,
       "word": "钟丽缇回应被评价怎么健身都不瘦",
       "onboard_time": 1750194794,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114807,
+      "num": 114807,
+      "word": "阴阳师",
+      "onboard_time": 1750211180,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 113098,
+      "num": 113098,
+      "word": "美宣布驻以使领馆关闭3天",
+      "onboard_time": 1750209200,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111943,
@@ -379,6 +603,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 101989,
+      "num": 101989,
+      "word": "郑钦文将搭档德雷珀",
+      "onboard_time": 1750210221,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100799,
       "num": 100799,
       "word": "王安宇 2016年最帅艺考生",
@@ -387,12 +619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99713,
+      "num": 99713,
+      "word": "医生称荔枝壳煮水是天然降火药",
+      "onboard_time": 1750211419,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98568,
       "num": 98568,
       "word": "登陆少年时装周首秀",
       "onboard_time": 1750181357,
       "rank": 20,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 97397,
+      "num": 97397,
+      "word": "洛杉矶宣布解除宵禁",
+      "onboard_time": 1750211541,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96313,
@@ -441,6 +689,14 @@
       "onboard_time": 1750192513,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92563,
+      "num": 96663,
+      "word": "十个勤天方报警",
+      "onboard_time": 1750206741,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 89526,
@@ -563,6 +819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63709,
+      "num": 100787,
+      "word": "这些垃圾食品吃对了也能很健康",
+      "onboard_time": 1750206322,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 62123,
       "num": 62123,
       "word": "12岁女孩花3200元学韩语家长质疑",
@@ -667,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36294,
+      "num": 96171,
+      "word": "国补下的618哪些产品值得买",
+      "onboard_time": 1750207822,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34732,
       "num": 119526,
       "word": "以法律形式将世代友好原则固定下来",
@@ -721,6 +993,14 @@
       "onboard_time": 1750165821,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18777,
+      "num": 777382,
+      "word": "网警守护618购物安全",
+      "onboard_time": 1750208841,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17283,

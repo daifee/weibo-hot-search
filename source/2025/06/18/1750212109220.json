@@ -1,0 +1,410 @@
+{
+  "runTime": 1750212109220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1259493,
+        "num": 1259493,
+        "word": "救护车收费2.8万家属问能不能便宜点",
+        "onboard_time": 1750175483,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 814614,
+        "num": 814614,
+        "word": "李雪琴 老谢",
+        "onboard_time": 1750203919,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18777,
+        "num": 777382,
+        "word": "网警守护618购物安全",
+        "onboard_time": 1750208841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776966,
+        "num": 776966,
+        "word": "伊朗向以色列发射高超音速导弹",
+        "onboard_time": 1750209261,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 453999,
+        "num": 453999,
+        "word": "特朗普发文要求伊朗无条件投降",
+        "onboard_time": 1750204280,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 386486,
+        "num": 386486,
+        "word": "女子称跟猥亵司机住同小区怕被报复",
+        "onboard_time": 1750209021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340018,
+        "num": 340018,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1750207341,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334830,
+        "num": 334830,
+        "word": "特朗普称耐心正耗尽",
+        "onboard_time": 1750207162,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294174,
+        "num": 294174,
+        "word": "江苏一医院称负债4400多万全员解聘",
+        "onboard_time": 1750205000,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288188,
+        "num": 288188,
+        "word": "T3司机猥亵大三女生被行拘5日",
+        "onboard_time": 1750210579,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127928,
+        "num": 287316,
+        "word": "李雪琴关联公司曾一年投资4家企业",
+        "onboard_time": 1750211600,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 973925,
+        "num": 286262,
+        "word": "黑魔仙小月扮演者公开讨债",
+        "onboard_time": 1750204760,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527671,
+        "num": 285467,
+        "word": "杨威晒儿子在香港上学生活费",
+        "onboard_time": 1750206501,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523872,
+        "num": 284360,
+        "word": "朱丹给何猷君说懵了",
+        "onboard_time": 1750205060,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432893,
+        "num": 283655,
+        "word": "陈哲远 把妹王",
+        "onboard_time": 1750207280,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377728,
+        "num": 281642,
+        "word": "迪迪不畏致歉",
+        "onboard_time": 1750203020,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 281572,
+        "num": 281572,
+        "word": "上海阿婆在家照镜子被转走近400万",
+        "onboard_time": 1750205421,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182509,
+        "num": 274947,
+        "word": "管乐演我见张艺兴",
+        "onboard_time": 1750204340,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180784,
+        "num": 272891,
+        "word": "彻查那尔那茜舆情是守护公平正义",
+        "onboard_time": 1750207761,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272377,
+        "num": 272377,
+        "word": "伊称将展开真正惩罚性打击",
+        "onboard_time": 1750201577,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313517,
+        "num": 265883,
+        "word": "何炅选李晟当女主的含金量",
+        "onboard_time": 1750172363,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247330,
+        "num": 247330,
+        "word": "坏了让她读到真大学了",
+        "onboard_time": 1750202299,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229852,
+        "num": 229852,
+        "word": "特朗普战情室见国家安全团队",
+        "onboard_time": 1750203620,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222956,
+        "num": 222956,
+        "word": "价值近3万的labubu日租金19.9元",
+        "onboard_time": 1750211120,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177276,
+        "num": 177276,
+        "word": "禁止违规吃喝不等同于禁止吃喝",
+        "onboard_time": 1750210880,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165788,
+        "num": 165788,
+        "word": "迪丽热巴油画蓬然裙",
+        "onboard_time": 1750209381,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164649,
+        "num": 164649,
+        "word": "泡泡玛特发布韩国labubu购买新规",
+        "onboard_time": 1750202117,
+        "rank": 26,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 157211,
+        "num": 157211,
+        "word": "以色列",
+        "onboard_time": 1750211659,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114947,
+        "num": 133156,
+        "word": "何秋亊工作室致歉声明",
+        "onboard_time": 1750165522,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105007,
+        "num": 131285,
+        "word": "魏晨张远前任见面既视感",
+        "onboard_time": 1750201577,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131067,
+        "num": 131067,
+        "word": "刘强东回应京东进军餐饮酒旅",
+        "onboard_time": 1750202178,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131051,
+        "num": 131051,
+        "word": "中方从伊朗以色列撤侨",
+        "onboard_time": 1750171584,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126494,
+        "num": 126494,
+        "word": "哈梅内伊称必须强力打击以色列",
+        "onboard_time": 1750209981,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124966,
+        "num": 124966,
+        "word": "何秋亊曾在直播时抽烟",
+        "onboard_time": 1750211479,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123905,
+        "num": 123905,
+        "word": "男子为扶7旬老人骨折遭其拒不承认",
+        "onboard_time": 1750204519,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120796,
+        "num": 120796,
+        "word": "直击2025陆家嘴论坛",
+        "onboard_time": 1750209920,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117470,
+        "num": 117470,
+        "word": "伊朗警告以色列居民尽快撤离",
+        "onboard_time": 1750203861,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114807,
+        "num": 114807,
+        "word": "阴阳师",
+        "onboard_time": 1750211180,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113098,
+        "num": 113098,
+        "word": "美宣布驻以使领馆关闭3天",
+        "onboard_time": 1750209200,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107667,
+        "num": 107667,
+        "word": "以方已摧毁伊朗铀浓缩设施",
+        "onboard_time": 1750174942,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105966,
+        "num": 105966,
+        "word": "马斯克公布尿检报告",
+        "onboard_time": 1750202117,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101989,
+        "num": 101989,
+        "word": "郑钦文将搭档德雷珀",
+        "onboard_time": 1750210221,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63709,
+        "num": 100787,
+        "word": "这些垃圾食品吃对了也能很健康",
+        "onboard_time": 1750206322,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99713,
+        "num": 99713,
+        "word": "医生称荔枝壳煮水是天然降火药",
+        "onboard_time": 1750211419,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97490,
+        "num": 97490,
+        "word": "男子拿两套房和存款弥补儿子遭拒绝",
+        "onboard_time": 1750170204,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97397,
+        "num": 97397,
+        "word": "洛杉矶宣布解除宵禁",
+        "onboard_time": 1750211541,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97374,
+        "num": 97374,
+        "word": "第一次这么直观区别电影脸电视脸",
+        "onboard_time": 1750165221,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97086,
+        "num": 97086,
+        "word": "快递盒印小狗快递员配送让快递员不适",
+        "onboard_time": 1750159221,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92563,
+        "num": 96663,
+        "word": "十个勤天方报警",
+        "onboard_time": 1750206741,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36294,
+        "num": 96171,
+        "word": "国补下的618哪些产品值得买",
+        "onboard_time": 1750207822,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席第二届中国—中亚峰会#"
+    }
+  }
+}
