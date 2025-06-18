@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750242518966,
+  "endTime": 1750243575350,
   "band_list": [
     {
       "raw_hot": 3545942,
@@ -345,6 +345,14 @@
       "onboard_time": 1750233141,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1139772,
+      "num": 806365,
+      "word": "特朗普手机",
+      "onboard_time": 1750238781,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1139717,
@@ -817,14 +825,6 @@
       "onboard_time": 1749920000,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 806365,
-      "num": 806365,
-      "word": "特朗普手机",
-      "onboard_time": 1750238781,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 805672,
@@ -1987,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469326,
+      "num": 469326,
+      "word": "溺亡网红博主江小隐是家中独子",
+      "onboard_time": 1750240941,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468408,
       "num": 468408,
       "word": "校园贷借款8万还了14万还欠100万",
@@ -2891,6 +2899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 333736,
+      "num": 333736,
+      "word": "七根心简 评分",
+      "onboard_time": 1750239381,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331847,
       "num": 331847,
       "word": "虞书欣直播",
@@ -3217,6 +3233,14 @@
       "onboard_time": 1750172662,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 291933,
+      "num": 291933,
+      "word": "叠纸心意",
+      "onboard_time": 1750242621,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 291662,
@@ -3867,6 +3891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250859,
+      "num": 276396,
+      "word": "以色列防空系统或仅能再撑12天",
+      "onboard_time": 1750240880,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 249933,
       "num": 249933,
       "word": "樊振东小时候把对手打哭了一脸懵",
@@ -4033,14 +4065,6 @@
       "onboard_time": 1750234163,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237317,
-      "num": 268351,
-      "word": "七根心简 评分",
-      "onboard_time": 1750239381,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 236907,
@@ -4379,14 +4403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 219898,
-      "num": 276396,
-      "word": "以色列防空系统或仅能再撑12天",
-      "onboard_time": 1750240880,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 219684,
       "num": 248854,
       "word": "网红泰国商场直播带货被查",
@@ -4721,6 +4737,14 @@
       "onboard_time": 1750078402,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 205967,
+      "num": 205967,
+      "word": "第一次见真人版分手厨房",
+      "onboard_time": 1750242322,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 205381,
@@ -7091,14 +7115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152271,
-      "num": 338502,
-      "word": "溺亡网红博主江小隐是家中独子",
-      "onboard_time": 1750240941,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152010,
       "num": 132298,
       "word": "灰熊魔术交易",
@@ -7403,6 +7419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147621,
+      "num": 147621,
+      "word": "李连杰调查了向太半年才敢合作",
+      "onboard_time": 1750240281,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147579,
       "num": 147579,
       "word": "伊朗处决一受雇于以色列的间谍",
@@ -7537,14 +7561,6 @@
       "onboard_time": 1750138582,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 144199,
-      "num": 144199,
-      "word": "李连杰调查了向太半年才敢合作",
-      "onboard_time": 1750240281,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 144129,
@@ -7713,6 +7729,14 @@
       "onboard_time": 1750051699,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140379,
+      "num": 187020,
+      "word": "男子中1000万彩票掉洗衣机被漂洗",
+      "onboard_time": 1750243341,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140259,
@@ -7939,6 +7963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136484,
+      "num": 136484,
+      "word": "歌手第六期选曲",
+      "onboard_time": 1750242680,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136405,
       "num": 136405,
       "word": "小猫是扁平足",
@@ -8097,6 +8129,14 @@
       "onboard_time": 1749983721,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133899,
+      "num": 133899,
+      "word": "贾乃亮乔欣时隔3年再合体",
+      "onboard_time": 1750243341,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 133892,
@@ -8313,14 +8353,6 @@
       "onboard_time": 1750227440,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131617,
-      "num": 131617,
-      "word": "第一次见真人版分手厨房",
-      "onboard_time": 1750242322,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 131535,
@@ -9427,6 +9459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117406,
+      "num": 117406,
+      "word": "易烊千玺酱园弄带妆睡觉",
+      "onboard_time": 1750243281,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117147,
       "num": 117147,
       "word": "什么单位有2000人都不说话",
@@ -9705,6 +9745,14 @@
       "onboard_time": 1750166962,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114270,
+      "num": 114270,
+      "word": "谈恋爱一定要擦亮眼",
+      "onboard_time": 1750241721,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 114258,
@@ -10217,6 +10265,14 @@
       "onboard_time": 1750151482,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105020,
+      "num": 137061,
+      "word": "四川一水库水位下降现千年摩崖造像",
+      "onboard_time": 1750242621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104786,
@@ -10915,6 +10971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84837,
+      "num": 236666,
+      "word": "中方敦促七国集团多做正事",
+      "onboard_time": 1750242201,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84615,
       "num": 156244,
       "word": "73岁老人被蜱虫叮咬后7天去世",
@@ -11363,14 +11427,6 @@
       "category": "体育,幽默"
     },
     {
-      "raw_hot": 72365,
-      "num": 236666,
-      "word": "中方敦促七国集团多做正事",
-      "onboard_time": 1750242201,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 72213,
       "num": 183076,
       "word": "博物馆回应展品酷似Labubu",
@@ -11553,6 +11609,14 @@
       "onboard_time": 1750066819,
       "rank": 30,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 66772,
+      "num": 137860,
+      "word": "第一视角感受职业选手的一天",
+      "onboard_time": 1750242802,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 66622,
@@ -12747,6 +12811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37620,
+      "num": 301161,
+      "word": "原神剧情伏笔回收",
+      "onboard_time": 1750239263,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37609,
       "num": 184215,
       "word": "伊朗的短板不只是反特",
@@ -12761,14 +12833,6 @@
       "onboard_time": 1750066700,
       "rank": 13,
       "category": "民生新闻,剧集"
-    },
-    {
-      "raw_hot": 37426,
-      "num": 301161,
-      "word": "原神剧情伏笔回收",
-      "onboard_time": 1750239263,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 37348,
@@ -12929,6 +12993,14 @@
       "onboard_time": 1749968899,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34819,
+      "num": 228348,
+      "word": "晚餐不吃主食会失眠吗",
+      "onboard_time": 1750242680,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34762,
@@ -14025,6 +14097,14 @@
       "onboard_time": 1750086441,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15399,
+      "num": 228759,
+      "word": "这些选学校的坑千万别踩",
+      "onboard_time": 1750242741,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 15250,

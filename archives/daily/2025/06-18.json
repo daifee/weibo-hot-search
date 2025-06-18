@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750242518966,
+  "endTime": 1750243575350,
   "band_list": [
     {
       "raw_hot": 3545942,
@@ -107,6 +107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1139772,
+      "num": 806365,
+      "word": "特朗普手机",
+      "onboard_time": 1750238781,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1131600,
       "num": 226246,
       "word": "沈阳车祸",
@@ -201,14 +209,6 @@
       "onboard_time": 1750210579,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 806365,
-      "num": 806365,
-      "word": "特朗普手机",
-      "onboard_time": 1750238781,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 803548,
@@ -409,6 +409,14 @@
       "onboard_time": 1750204280,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 469326,
+      "num": 469326,
+      "word": "溺亡网红博主江小隐是家中独子",
+      "onboard_time": 1750240941,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 465642,
@@ -635,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 333736,
+      "num": 333736,
+      "word": "七根心简 评分",
+      "onboard_time": 1750239381,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332832,
       "num": 221762,
       "word": "公认现象级大爆剧",
@@ -705,6 +721,14 @@
       "onboard_time": 1750170204,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291933,
+      "num": 291933,
+      "word": "叠纸心意",
+      "onboard_time": 1750242621,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 291137,
@@ -819,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250859,
+      "num": 276396,
+      "word": "以色列防空系统或仅能再撑12天",
+      "onboard_time": 1750240880,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 249946,
       "num": 193799,
       "word": "预制爆剧",
@@ -875,14 +907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237317,
-      "num": 268351,
-      "word": "七根心简 评分",
-      "onboard_time": 1750239381,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 235895,
       "num": 192645,
       "word": "马斯克公布尿检报告",
@@ -905,6 +929,14 @@
       "onboard_time": 1750234341,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 234072,
+      "num": 251734,
+      "word": "临江仙",
+      "onboard_time": 1750241661,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 231793,
@@ -971,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219898,
-      "num": 276396,
-      "word": "以色列防空系统或仅能再撑12天",
-      "onboard_time": 1750240880,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 216704,
       "num": 216704,
       "word": "医生称荔枝壳煮水是天然降火药",
@@ -1027,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205967,
+      "num": 205967,
+      "word": "第一次见真人版分手厨房",
+      "onboard_time": 1750242322,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204562,
       "num": 204562,
       "word": "LOL全球战队实力排名更新",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1750230381,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 202064,
-      "num": 202064,
-      "word": "临江仙",
-      "onboard_time": 1750241661,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 201727,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1750220602,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184206,
+      "num": 184206,
+      "word": "伊朗总统重申伊朗不寻求核武器",
+      "onboard_time": 1750242141,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 182509,
@@ -1379,14 +1411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 165568,
-      "num": 165568,
-      "word": "伊朗总统重申伊朗不寻求核武器",
-      "onboard_time": 1750242141,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 165191,
       "num": 165191,
       "word": "何秋亊演唱会争议后掉粉超300万",
@@ -1451,14 +1475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152271,
-      "num": 338502,
-      "word": "溺亡网红博主江小隐是家中独子",
-      "onboard_time": 1750240941,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151936,
       "num": 151936,
       "word": "两年没系统上班的朋友",
@@ -1515,6 +1531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147621,
+      "num": 147621,
+      "word": "李连杰调查了向太半年才敢合作",
+      "onboard_time": 1750240281,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146090,
       "num": 146090,
       "word": "天赐的声音",
@@ -1539,14 +1563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144199,
-      "num": 144199,
-      "word": "李连杰调查了向太半年才敢合作",
-      "onboard_time": 1750240281,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144100,
       "num": 157536,
       "word": "陈昊宇上海抢票",
@@ -1563,12 +1579,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140379,
+      "num": 187020,
+      "word": "男子中1000万彩票掉洗衣机被漂洗",
+      "onboard_time": 1750243341,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138690,
       "num": 138690,
       "word": "军工概念走强",
       "onboard_time": 1750234823,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136484,
+      "num": 136484,
+      "word": "歌手第六期选曲",
+      "onboard_time": 1750242680,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 136405,
@@ -1592,6 +1624,14 @@
       "word": "文泰一 NCT",
       "onboard_time": 1750228221,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133899,
+      "num": 133899,
+      "word": "贾乃亮乔欣时隔3年再合体",
+      "onboard_time": 1750243341,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1657,14 +1697,6 @@
       "onboard_time": 1750227440,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131617,
-      "num": 131617,
-      "word": "第一次见真人版分手厨房",
-      "onboard_time": 1750242322,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 131478,
@@ -1803,6 +1835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117406,
+      "num": 117406,
+      "word": "易烊千玺酱园弄带妆睡觉",
+      "onboard_time": 1750243281,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116547,
       "num": 116547,
       "word": "钟丽缇回应被评价怎么健身都不瘦",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1750211180,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114270,
+      "num": 114270,
+      "word": "谈恋爱一定要擦亮眼",
+      "onboard_time": 1750241721,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 113098,
@@ -1921,6 +1969,14 @@
       "onboard_time": 1750229481,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105020,
+      "num": 137061,
+      "word": "四川一水库水位下降现千年摩崖造像",
+      "onboard_time": 1750242621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104830,
@@ -2115,6 +2171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84837,
+      "num": 236666,
+      "word": "中方敦促七国集团多做正事",
+      "onboard_time": 1750242201,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84572,
       "num": 349586,
       "word": "京东618",
@@ -2227,14 +2291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72365,
-      "num": 236666,
-      "word": "中方敦促七国集团多做正事",
-      "onboard_time": 1750242201,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 71732,
       "num": 422344,
       "word": "沈月中餐厅变装",
@@ -2313,6 +2369,14 @@
       "onboard_time": 1750234582,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 66772,
+      "num": 137860,
+      "word": "第一视角感受职业选手的一天",
+      "onboard_time": 1750242802,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 65453,
@@ -2619,7 +2683,7 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 37426,
+      "raw_hot": 37620,
       "num": 301161,
       "word": "原神剧情伏笔回收",
       "onboard_time": 1750239263,
@@ -2657,6 +2721,14 @@
       "onboard_time": 1750226480,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34819,
+      "num": 228348,
+      "word": "晚餐不吃主食会失眠吗",
+      "onboard_time": 1750242680,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34762,
@@ -2897,6 +2969,14 @@
       "onboard_time": 1750224141,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15399,
+      "num": 228759,
+      "word": "这些选学校的坑千万别踩",
+      "onboard_time": 1750242741,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 15033,
