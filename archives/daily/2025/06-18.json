@@ -1,13 +1,21 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750221326016,
+  "endTime": 1750222206725,
   "band_list": [
     {
       "raw_hot": 3545942,
-      "num": 314528,
+      "num": 356362,
       "word": "文泰一承认强奸",
       "onboard_time": 1750217420,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1940105,
+      "num": 352649,
+      "word": "谢娜都结婚了 他怎么不早点说啊",
+      "onboard_time": 1750220302,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -56,14 +64,6 @@
       "word": "黑魔仙小月扮演者公开讨债",
       "onboard_time": 1750204760,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1044022,
-      "num": 323410,
-      "word": "谢娜都结婚了 他怎么不早点说啊",
-      "onboard_time": 1750220302,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 664364,
-      "num": 312039,
+      "num": 319774,
       "word": "女子以为腹胀去医院竟当场生下男婴",
       "onboard_time": 1750216761,
       "rank": 33,
@@ -137,6 +137,14 @@
       "onboard_time": 1750217841,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 626799,
+      "num": 1100287,
+      "word": "老人胃炎被以癌症切全胃最新进展",
+      "onboard_time": 1750218742,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 575608,
@@ -155,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 524263,
+      "num": 524263,
+      "word": "变形记中最争气的农村娃怎么样了",
+      "onboard_time": 1750219823,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 518159,
       "num": 518159,
       "word": "何炅选李晟当女主的含金量",
@@ -168,6 +184,14 @@
       "word": "黄子韬回应卫生巾问题",
       "onboard_time": 1750172363,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 476423,
+      "num": 331935,
+      "word": "文泰一强奸案受害者是中国人",
+      "onboard_time": 1750222103,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -187,20 +211,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 457884,
+      "num": 457884,
+      "word": "章子怡赵丽颖杨幂酱园弄镜头",
+      "onboard_time": 1750217002,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 453612,
       "num": 442511,
       "word": "官方通报网传一男子将孩童关铁笼中",
       "onboard_time": 1750215800,
       "rank": 14,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 441920,
-      "num": 441920,
-      "word": "老人胃炎被以癌症切全胃最新进展",
-      "onboard_time": 1750218742,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 438678,
@@ -251,19 +275,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 385795,
-      "num": 385795,
-      "word": "变形记中最争气的农村娃怎么样了",
-      "onboard_time": 1750219823,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 384125,
       "num": 219296,
       "word": "刘浩存终于换掉了微商头像",
       "onboard_time": 1750149982,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362760,
+      "num": 362760,
+      "word": "周深称被大家看见很难留住更难",
+      "onboard_time": 1750220422,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -273,6 +297,14 @@
       "onboard_time": 1750211659,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 346473,
+      "num": 346473,
+      "word": "白糖罂荔枝跌破一元",
+      "onboard_time": 1750219582,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 344290,
@@ -323,12 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 330019,
-      "num": 330019,
-      "word": "章子怡赵丽颖杨幂酱园弄镜头",
-      "onboard_time": 1750217002,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 327477,
+      "num": 327477,
+      "word": "郑晓龙没想到藏海传会爆",
+      "onboard_time": 1750220723,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 324291,
@@ -345,6 +377,14 @@
       "onboard_time": 1750171584,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 317651,
+      "num": 317651,
+      "word": "奚梦瑶问周一围喜欢儿子还是女儿",
+      "onboard_time": 1750220904,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 301454,
@@ -379,14 +419,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 285724,
-      "num": 285724,
-      "word": "周深称被大家看见很难留住更难",
-      "onboard_time": 1750220422,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281572,
       "num": 281572,
       "word": "上海阿婆在家照镜子被转走近400万",
@@ -403,6 +435,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 279564,
+      "num": 279564,
+      "word": "特朗普向伊朗发出最后通牒",
+      "onboard_time": 1750219281,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 274643,
       "num": 287316,
       "word": "李雪琴关联公司曾一年投资4家企业",
@@ -411,20 +451,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274306,
+      "num": 274306,
+      "word": "锦织圭出轨美女模特",
+      "onboard_time": 1750221502,
+      "rank": 24,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 272193,
       "num": 272193,
       "word": "质子重离子抗癌治疗一疗程高达30万",
       "onboard_time": 1750212200,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 269198,
-      "num": 269198,
-      "word": "白糖罂荔枝跌破一元",
-      "onboard_time": 1750219582,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 265011,
@@ -449,6 +489,14 @@
       "onboard_time": 1750159221,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251595,
+      "num": 251595,
+      "word": "金靖感谢张凌赫迪丽热巴力挺",
+      "onboard_time": 1750220542,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 249946,
@@ -484,7 +532,7 @@
     },
     {
       "raw_hot": 238213,
-      "num": 238213,
+      "num": 241220,
       "word": "龚俊戳破电诈分子谎言",
       "onboard_time": 1750220182,
       "rank": 21,
@@ -507,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231793,
+      "num": 231793,
+      "word": "Labubu爆火会是一阵风吗",
+      "onboard_time": 1750218622,
+      "rank": 41,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 229852,
       "num": 229852,
       "word": "特朗普战情室见国家安全团队",
@@ -523,28 +579,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 228766,
-      "num": 228766,
-      "word": "特朗普向伊朗发出最后通牒",
-      "onboard_time": 1750219281,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 227148,
-      "num": 227148,
+      "num": 248333,
       "word": "李雪琴老谢 2号楼3A",
       "onboard_time": 1750219641,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224118,
-      "num": 224118,
-      "word": "金靖感谢张凌赫迪丽热巴力挺",
-      "onboard_time": 1750220542,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 222956,
@@ -595,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206578,
-      "num": 227374,
-      "word": "郑晓龙没想到藏海传会爆",
-      "onboard_time": 1750220723,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201158,
       "num": 201158,
       "word": "奥林匹克日玩法孙颖莎创意绝了",
@@ -643,12 +675,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192217,
-      "num": 192217,
-      "word": "奚梦瑶问周一围喜欢儿子还是女儿",
-      "onboard_time": 1750220904,
+      "raw_hot": 193365,
+      "num": 193365,
+      "word": "曾舜晞你不要忘记谁是你的老公",
+      "onboard_time": 1750221442,
       "rank": 34,
-      "category": "综艺"
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191964,
+      "num": 336233,
+      "word": "旅游博主江小隐在景区溺亡",
+      "onboard_time": 1750221144,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189427,
@@ -673,14 +713,6 @@
       "onboard_time": 1750220602,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184247,
-      "num": 184247,
-      "word": "Labubu爆火会是一阵风吗",
-      "onboard_time": 1750218622,
-      "rank": 41,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 182509,
@@ -907,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121991,
+      "num": 186190,
+      "word": "被暴雨逼疯的广东人",
+      "onboard_time": 1750219342,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120796,
       "num": 213566,
       "word": "直击2025陆家嘴论坛",
@@ -1131,12 +1171,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 91635,
-      "num": 186190,
-      "word": "被暴雨逼疯的广东人",
-      "onboard_time": 1750219342,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 92112,
+      "num": 323990,
+      "word": "京东全品类不止5折",
+      "onboard_time": 1750220002,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 89526,
@@ -1243,12 +1283,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68946,
+      "num": 168453,
+      "word": "chiikawa主题乐园",
+      "onboard_time": 1750219103,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 68287,
+      "num": 167485,
+      "word": "labubu大天使有几种获得方式",
+      "onboard_time": 1750222043,
+      "rank": 42,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 67845,
       "num": 67845,
       "word": "北京国安取胜即登顶",
       "onboard_time": 1750161141,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67458,
+      "num": 322804,
+      "word": "伊朗高超音速导弹将如何影响战局",
+      "onboard_time": 1750221144,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67206,
@@ -1379,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55033,
-      "num": 243722,
-      "word": "京东全品类不止5折",
-      "onboard_time": 1750220002,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 54308,
       "num": 64545,
       "word": "索尼英雌",
@@ -1401,14 +1457,6 @@
       "onboard_time": 1750176262,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52545,
-      "num": 188770,
-      "word": "伊朗高超音速导弹将如何影响战局",
-      "onboard_time": 1750221144,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 51076,
@@ -1609,14 +1657,6 @@
       "onboard_time": 1750192633,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13127,
-      "num": 193475,
-      "word": "旅游博主江小隐在景区溺亡",
-      "onboard_time": 1750221144,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12989,
