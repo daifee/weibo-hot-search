@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750285506544,
+  "endTime": 1750286618940,
   "band_list": [
     {
       "raw_hot": 1489486,
@@ -19,20 +19,20 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 893019,
+      "num": 893019,
+      "word": "女子22年化妆不卸妆脸红成关公",
+      "onboard_time": 1750264640,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 837505,
       "num": 246661,
       "word": "伊朗 今晚大事",
       "onboard_time": 1750246883,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 680811,
-      "num": 680811,
-      "word": "女子22年化妆不卸妆脸红成关公",
-      "onboard_time": 1750264640,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 582042,
@@ -203,6 +203,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 177860,
+      "num": 177860,
+      "word": "韦东奕与王虹同框讨论数学问题",
+      "onboard_time": 1750264640,
+      "rank": 32,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 170154,
+      "num": 170154,
+      "word": "杜淳妻子回应生二胎",
+      "onboard_time": 1750281855,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170020,
       "num": 170020,
       "word": "哈梅内伊对伊朗全国讲话",
@@ -235,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140261,
-      "num": 140261,
-      "word": "韦东奕与王虹同框讨论数学问题",
-      "onboard_time": 1750264640,
-      "rank": 32,
-      "category": "民生新闻,教育"
+      "raw_hot": 149659,
+      "num": 126446,
+      "word": "哈梅内伊",
+      "onboard_time": 1750249221,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137299,
@@ -248,22 +264,6 @@
       "word": "伊媒公布击落以色列无人机画面",
       "onboard_time": 1750268297,
       "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 135909,
-      "num": 135909,
-      "word": "杜淳妻子回应生二胎",
-      "onboard_time": 1750281855,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 133973,
-      "num": 126446,
-      "word": "哈梅内伊",
-      "onboard_time": 1750249221,
-      "rank": 21,
       "category": "国际时政"
     },
     {
@@ -329,6 +329,14 @@
       "onboard_time": 1750259362,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101873,
+      "num": 101873,
+      "word": "官方通报救护车跨省转运收费2.8万",
+      "onboard_time": 1750281793,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97668,
@@ -443,20 +451,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 70425,
-      "num": 70425,
+      "raw_hot": 71736,
+      "num": 71736,
       "word": "王一博任游山野",
       "onboard_time": 1750265299,
       "rank": 42,
       "category": "艺人"
     },
     {
-      "raw_hot": 68980,
-      "num": 68980,
-      "word": "官方通报救护车跨省转运收费2.8万",
-      "onboard_time": 1750281793,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 69611,
+      "num": 69611,
+      "word": "朱丹又又又为自己说错话而道歉了",
+      "onboard_time": 1750285336,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 66726,
@@ -465,6 +473,14 @@
       "onboard_time": 1750265179,
       "rank": 46,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 62638,
+      "num": 62638,
+      "word": "伊朗地下核设施受损",
+      "onboard_time": 1750277114,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57358,
@@ -481,14 +497,6 @@
       "onboard_time": 1750245080,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51479,
-      "num": 51479,
-      "word": "伊朗地下核设施受损",
-      "onboard_time": 1750277114,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 50640,
@@ -523,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28993,
+      "num": 72819,
+      "word": "律师谈邓紫棋到底能不能重录旧歌",
+      "onboard_time": 1750273755,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 27773,
       "num": 68172,
       "word": "以色列正与美国保持沟通",
@@ -531,24 +547,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27267,
-      "num": 29249,
-      "word": "朱丹又又又为自己说错话而道歉了",
-      "onboard_time": 1750285336,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 26621,
-      "num": 72819,
-      "word": "律师谈邓紫棋到底能不能重录旧歌",
-      "onboard_time": 1750273755,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 23388,
-      "num": 29214,
+      "raw_hot": 26466,
+      "num": 33081,
       "word": "黄友政陈垣宇1比3朴奎炫禹衡圭",
       "onboard_time": 1750280894,
       "rank": 49,
