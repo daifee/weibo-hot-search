@@ -1,0 +1,410 @@
+{
+  "runTime": 1750225462006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 833810,
+        "num": 1133409,
+        "word": "李国庆再婚",
+        "onboard_time": 1750224502,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1632288,
+        "num": 948915,
+        "word": "蜂鸟音乐指控邓紫棋侵权",
+        "onboard_time": 1750223483,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15857,
+        "num": 754262,
+        "word": "用数字丈量丝路新宽度",
+        "onboard_time": 1750224141,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686133,
+        "num": 686133,
+        "word": "老人胃炎被以癌症切全胃最新进展",
+        "onboard_time": 1750218742,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608857,
+        "num": 608857,
+        "word": "旅游博主江小隐在景区溺亡",
+        "onboard_time": 1750221144,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480475,
+        "num": 480475,
+        "word": "郑晓龙没想到藏海传会爆",
+        "onboard_time": 1750220723,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440645,
+        "num": 440645,
+        "word": "变形记中最争气的农村娃怎么样了",
+        "onboard_time": 1750219823,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428515,
+        "num": 428515,
+        "word": "网友实名举报李雪琴公司财务问题",
+        "onboard_time": 1750212620,
+        "rank": 7,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 381606,
+        "num": 381606,
+        "word": "伊朗向以色列发射高超音速导弹",
+        "onboard_time": 1750209261,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99476,
+        "num": 354740,
+        "word": "景区回应旅游博主江小隐溺亡",
+        "onboard_time": 1750224681,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2069501,
+        "num": 354607,
+        "word": "文泰一承认强奸",
+        "onboard_time": 1750217420,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354076,
+        "num": 354076,
+        "word": "周深称被大家看见很难留住更难",
+        "onboard_time": 1750220422,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1185091,
+        "num": 353996,
+        "word": "谢娜都结婚了 他怎么不早点说啊",
+        "onboard_time": 1750220302,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645428,
+        "num": 349315,
+        "word": "范玮琪没说过隐隐约约有听说",
+        "onboard_time": 1750222223,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54361,
+        "num": 347362,
+        "word": "女子称遭司机猥亵T3想用3000元封口",
+        "onboard_time": 1750224801,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58665,
+        "num": 346309,
+        "word": "谁把我618购物车挂墙上了",
+        "onboard_time": 1750223123,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127482,
+        "num": 341793,
+        "word": "陪爬泰山男演员接到戏邀",
+        "onboard_time": 1750222943,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31793,
+        "num": 340414,
+        "word": "原神小丝柯克",
+        "onboard_time": 1750224922,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11376,
+        "num": 336768,
+        "word": "救护车的收费标准是什么",
+        "onboard_time": 1750224681,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6450,
+        "num": 335022,
+        "word": "智能智慧专业超百个考生该怎么选",
+        "onboard_time": 1750224981,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 257208,
+        "num": 332448,
+        "word": "中餐厅9合伙人阵容官宣",
+        "onboard_time": 1750215142,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106694,
+        "num": 329086,
+        "word": "跑男澳门录制从水里出场",
+        "onboard_time": 1750218802,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523577,
+        "num": 327793,
+        "word": "高以翔生前女友Bella结婚",
+        "onboard_time": 1750215741,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395988,
+        "num": 325325,
+        "word": "女子以为腹胀去医院竟当场生下男婴",
+        "onboard_time": 1750216761,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323898,
+        "num": 323898,
+        "word": "白糖罂荔枝跌破一元",
+        "onboard_time": 1750219582,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275267,
+        "num": 275267,
+        "word": "中国首批撤侨队伍从伊朗出发",
+        "onboard_time": 1750221622,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248575,
+        "num": 248575,
+        "word": "特朗普向伊朗发出最后通牒",
+        "onboard_time": 1750219281,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248238,
+        "num": 248238,
+        "word": "丁禹兮花15万给粉丝买项链",
+        "onboard_time": 1750224981,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245843,
+        "num": 245843,
+        "word": "黑魔仙小月扮演者公开讨债",
+        "onboard_time": 1750204760,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213935,
+        "num": 213935,
+        "word": "金靖感谢张凌赫迪丽热巴力挺",
+        "onboard_time": 1750220542,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249610,
+        "num": 208518,
+        "word": "免费维修蛋糕",
+        "onboard_time": 1750223782,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228516,
+        "num": 206598,
+        "word": "奚梦瑶问周一围喜欢儿子还是女儿",
+        "onboard_time": 1750220904,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202329,
+        "num": 202329,
+        "word": "刘强东回应写遗书赴汶川灾区",
+        "onboard_time": 1750214120,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195467,
+        "num": 195467,
+        "word": "文泰一强奸案受害者是中国人",
+        "onboard_time": 1750222103,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180798,
+        "num": 180798,
+        "word": "李慧珍 我也遇到了自己的夏乔",
+        "onboard_time": 1750224141,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162830,
+        "num": 162830,
+        "word": "李雪琴老谢 2号楼3A",
+        "onboard_time": 1750219641,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157111,
+        "num": 157111,
+        "word": "锦织圭出轨美女模特",
+        "onboard_time": 1750221502,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 153649,
+        "num": 153649,
+        "word": "救护车收费2.8万家属问能不能便宜点",
+        "onboard_time": 1750175483,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146388,
+        "num": 146388,
+        "word": "金晨别最粉的发卡开最猛的车",
+        "onboard_time": 1750223303,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145843,
+        "num": 145843,
+        "word": "章子怡赵丽颖杨幂酱园弄镜头",
+        "onboard_time": 1750217002,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139872,
+        "num": 139872,
+        "word": "歌手",
+        "onboard_time": 1750222523,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34658,
+        "num": 136607,
+        "word": "创业板正式启用第三套标准",
+        "onboard_time": 1750224022,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135355,
+        "num": 135355,
+        "word": "广汽埃安已报警",
+        "onboard_time": 1750222884,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131973,
+        "num": 131973,
+        "word": "朱丹观念",
+        "onboard_time": 1750222343,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129435,
+        "num": 129435,
+        "word": "中方从伊朗以色列撤侨",
+        "onboard_time": 1750171584,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124686,
+        "num": 124686,
+        "word": "内娱也是吃上拼好综的细糠了",
+        "onboard_time": 1750224623,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123865,
+        "num": 123865,
+        "word": "被T3平台司机猥亵的女学生再发声",
+        "onboard_time": 1750222884,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123691,
+        "num": 123691,
+        "word": "星穹铁道刻律德菈",
+        "onboard_time": 1750224862,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123277,
+        "num": 123277,
+        "word": "T3司机猥亵大三女生被行拘5日",
+        "onboard_time": 1750210579,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119262,
+        "num": 119262,
+        "word": "壹心娱乐官宣张雪迎",
+        "onboard_time": 1750214721,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在中国—中亚峰会上的主旨发言#"
+    }
+  }
+}
