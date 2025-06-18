@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/18 11:35:26
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/18 12:35:26
 </p>
 </blockquote>
 <p>
@@ -1725,6 +1725,12 @@ GAI第一（热度：4228592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%B3%B0%E4%B8%80%E6%89%BF%E8%AE%A4%E5%BC%BA%E5%A5%B8%23" target="weibo">
+文泰一承认强奸（热度：3545942）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E4%BB%8D%E5%90%A6%E8%AE%A4%E4%B8%8E%E9%87%91%E8%B5%9B%E7%BA%B6%E6%9C%AA%E6%88%90%E5%B9%B4%E6%97%B6%E4%BA%A4%E5%BE%80%23" target="weibo">
 金秀贤仍否认与金赛纶未成年时交往（热度：3541216）
 </a>
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%99%86%E6%88%96%E8%A2%AB%E5%88%A45%E5%B9%B4%E4%BB%A5%E4%B8%8B%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23" target="weibo">
 王大陆或被判5年以下有期徒刑（热度：3475997）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2%E7%BB%99%E6%9C%AA%E6%82%A3%E7%99%8C%E8%80%85%E5%8C%96%E7%96%97%E8%87%B4%E5%85%B69%E7%BA%A7%E4%BC%A4%E6%AE%8B%23" target="weibo">
-湘雅二院给未患癌者化疗致其9级伤残（热度：3468724）
 </a>
 </li>
 

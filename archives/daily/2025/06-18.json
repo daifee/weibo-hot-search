@@ -1,7 +1,15 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750217726082,
+  "endTime": 1750221326016,
   "band_list": [
+    {
+      "raw_hot": 3545942,
+      "num": 314528,
+      "word": "文泰一承认强奸",
+      "onboard_time": 1750217420,
+      "rank": 23,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1723750,
       "num": 1723750,
@@ -51,8 +59,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1044022,
+      "num": 323410,
+      "word": "谢娜都结婚了 他怎么不早点说啊",
+      "onboard_time": 1750220302,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 964364,
-      "num": 738836,
+      "num": 778627,
       "word": "中餐厅9合伙人阵容官宣",
       "onboard_time": 1750215142,
       "rank": 3,
@@ -83,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 701204,
+      "num": 1112192,
+      "word": "刘强东回应写遗书赴汶川灾区",
+      "onboard_time": 1750214120,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 698924,
       "num": 619010,
       "word": "壹心娱乐官宣张雪迎",
@@ -91,20 +115,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 687783,
-      "num": 687783,
-      "word": "刘强东回应写遗书赴汶川灾区",
-      "onboard_time": 1750214120,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 683331,
       "num": 683331,
       "word": "女子称跟猥亵司机住同小区怕被报复",
       "onboard_time": 1750209021,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 664364,
+      "num": 312039,
+      "word": "女子以为腹胀去医院竟当场生下男婴",
+      "onboard_time": 1750216761,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 627047,
+      "num": 431339,
+      "word": "文泰一或被判刑7年",
+      "onboard_time": 1750217841,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 575608,
@@ -163,6 +195,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 441920,
+      "num": 441920,
+      "word": "老人胃炎被以癌症切全胃最新进展",
+      "onboard_time": 1750218742,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438678,
       "num": 417811,
       "word": "郑中基回应离婚8000元赡养费传言",
@@ -211,11 +251,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 394215,
-      "num": 312039,
-      "word": "女子以为腹胀去医院竟当场生下男婴",
-      "onboard_time": 1750216761,
-      "rank": 33,
+      "raw_hot": 385795,
+      "num": 385795,
+      "word": "变形记中最争气的农村娃怎么样了",
+      "onboard_time": 1750219823,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -283,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330019,
+      "num": 330019,
+      "word": "章子怡赵丽颖杨幂酱园弄镜头",
+      "onboard_time": 1750217002,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 324291,
       "num": 197645,
       "word": "杨坤曾谈到病逝的前女友",
@@ -331,6 +379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 285724,
+      "num": 285724,
+      "word": "周深称被大家看见很难留住更难",
+      "onboard_time": 1750220422,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281572,
       "num": 281572,
       "word": "上海阿婆在家照镜子被转走近400万",
@@ -363,12 +419,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 267498,
-      "num": 267498,
-      "word": "文泰一承认强奸",
-      "onboard_time": 1750217420,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 269198,
+      "num": 269198,
+      "word": "白糖罂荔枝跌破一元",
+      "onboard_time": 1750219582,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265011,
@@ -427,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238213,
+      "num": 238213,
+      "word": "龚俊戳破电诈分子谎言",
+      "onboard_time": 1750220182,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235895,
       "num": 192645,
       "word": "马斯克公布尿检报告",
@@ -459,6 +523,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 228766,
+      "num": 228766,
+      "word": "特朗普向伊朗发出最后通牒",
+      "onboard_time": 1750219281,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 227148,
+      "num": 227148,
+      "word": "李雪琴老谢 2号楼3A",
+      "onboard_time": 1750219641,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224118,
+      "num": 224118,
+      "word": "金靖感谢张凌赫迪丽热巴力挺",
+      "onboard_time": 1750220542,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222956,
       "num": 222956,
       "word": "价值近3万的labubu日租金19.9元",
@@ -483,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214852,
-      "num": 214852,
-      "word": "章子怡赵丽颖杨幂酱园弄镜头",
-      "onboard_time": 1750217002,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 207446,
       "num": 207446,
       "word": "TVB演员马浚伟升任CEO",
@@ -512,6 +592,14 @@
       "word": "谁懂原班人马拍3部的含金量",
       "onboard_time": 1750217181,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206578,
+      "num": 227374,
+      "word": "郑晓龙没想到藏海传会爆",
+      "onboard_time": 1750220723,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -539,12 +627,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195604,
+      "num": 195604,
+      "word": "奔跑吧收官直播",
+      "onboard_time": 1750218381,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194319,
       "num": 150985,
       "word": "我的阿勒泰等中国影视作品走红中亚",
       "onboard_time": 1750175301,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192217,
+      "num": 192217,
+      "word": "奚梦瑶问周一围喜欢儿子还是女儿",
+      "onboard_time": 1750220904,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 189427,
@@ -561,6 +665,22 @@
       "onboard_time": 1750214600,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184615,
+      "num": 184615,
+      "word": "肖战背头衬衫",
+      "onboard_time": 1750220602,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184247,
+      "num": 184247,
+      "word": "Labubu爆火会是一阵风吗",
+      "onboard_time": 1750218622,
+      "rank": 41,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 182509,
@@ -611,12 +731,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173216,
+      "num": 173216,
+      "word": "刘强东称从快递员到自己只隔了5层",
+      "onboard_time": 1750214421,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 172855,
+      "num": 188128,
+      "word": "妹夫一家殴打姨姐欲开挖机推其房子",
+      "onboard_time": 1750216041,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171797,
       "num": 405856,
       "word": "李雪琴被举报财务有问题公司已注销",
       "onboard_time": 1750212861,
       "rank": 14,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 169451,
+      "num": 169451,
+      "word": "酱园弄",
+      "onboard_time": 1750220782,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 165788,
@@ -643,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163494,
-      "num": 163494,
-      "word": "刘强东称从快递员到自己只隔了5层",
-      "onboard_time": 1750214421,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 158666,
       "num": 158666,
       "word": "以伊冲突胡塞将出手白宫拟参战",
@@ -659,12 +795,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157393,
-      "num": 188128,
-      "word": "妹夫一家殴打姨姐欲开挖机推其房子",
-      "onboard_time": 1750216041,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 157772,
+      "num": 157772,
+      "word": "原神5.7",
+      "onboard_time": 1750220302,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 149485,
@@ -801,6 +937,14 @@
       "onboard_time": 1750194794,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114821,
+      "num": 196717,
+      "word": "哈梅内伊誓言永不妥协",
+      "onboard_time": 1750219281,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114807,
@@ -987,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91635,
+      "num": 186190,
+      "word": "被暴雨逼疯的广东人",
+      "onboard_time": 1750219342,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89526,
       "num": 89526,
       "word": "GAI rapper唱情歌的杀伤力",
@@ -1009,6 +1161,22 @@
       "onboard_time": 1750215981,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 82632,
+      "num": 178710,
+      "word": "潘展乐挑战垂直泳道",
+      "onboard_time": 1750218981,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82042,
+      "num": 189948,
+      "word": "WTT成立印度赛事管理公司",
+      "onboard_time": 1750219521,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 79720,
@@ -1195,12 +1363,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55843,
+      "num": 185020,
+      "word": "T3平台回应司机猥亵女乘客",
+      "onboard_time": 1750219281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55270,
       "num": 133786,
       "word": "德雷珀回应与郑钦文搭档",
       "onboard_time": 1750213220,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55033,
+      "num": 243722,
+      "word": "京东全品类不止5折",
+      "onboard_time": 1750220002,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 54308,
@@ -1217,6 +1401,14 @@
       "onboard_time": 1750176262,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52545,
+      "num": 188770,
+      "word": "伊朗高超音速导弹将如何影响战局",
+      "onboard_time": 1750221144,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51076,
@@ -1331,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24772,
+      "num": 843300,
+      "word": "万千气象看安徽",
+      "onboard_time": 1750217420,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22253,
       "num": 32709,
       "word": "福建泉州有消费者称买到早产鲜羊奶",
@@ -1345,6 +1545,14 @@
       "onboard_time": 1750187834,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 20419,
+      "num": 159077,
+      "word": "要去一线城市读书吗",
+      "onboard_time": 1750220542,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20129,
@@ -1403,6 +1611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13127,
+      "num": 193475,
+      "word": "旅游博主江小隐在景区溺亡",
+      "onboard_time": 1750221144,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12989,
       "num": 37882,
       "word": "各方应该推动中东局势尽快降温",
@@ -1417,14 +1633,6 @@
       "onboard_time": 1750188315,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9149,
-      "num": 680636,
-      "word": "万千气象看安徽",
-      "onboard_time": 1750217420,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4271,

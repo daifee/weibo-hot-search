@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1750217726082,
+  "endTime": 1750221326016,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2283,6 +2283,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 3545942,
+      "num": 314528,
+      "word": "文泰一承认强奸",
+      "onboard_time": 1750217420,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3541216,
       "num": 306479,
       "word": "金秀贤仍否认与金赛纶未成年时交往",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739872704,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3468724,
-      "num": 3468724,
-      "word": "湘雅二院给未患癌者化疗致其9级伤残",
-      "onboard_time": 1749812782,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

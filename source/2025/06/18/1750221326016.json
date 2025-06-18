@@ -1,0 +1,410 @@
+{
+  "runTime": 1750221326016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 701204,
+        "num": 1112192,
+        "word": "刘强东回应写遗书赴汶川灾区",
+        "onboard_time": 1750214120,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1103895,
+        "num": 1103895,
+        "word": "网友实名举报李雪琴公司财务问题",
+        "onboard_time": 1750212620,
+        "rank": 1,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 24772,
+        "num": 843300,
+        "word": "万千气象看安徽",
+        "onboard_time": 1750217420,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 778627,
+        "num": 778627,
+        "word": "中餐厅9合伙人阵容官宣",
+        "onboard_time": 1750215142,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441920,
+        "num": 441920,
+        "word": "老人胃炎被以癌症切全胃最新进展",
+        "onboard_time": 1750218742,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622260,
+        "num": 440813,
+        "word": "伊朗向以色列发射高超音速导弹",
+        "onboard_time": 1750209261,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 627047,
+        "num": 431339,
+        "word": "文泰一或被判刑7年",
+        "onboard_time": 1750217841,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399431,
+        "num": 399431,
+        "word": "救护车收费2.8万家属问能不能便宜点",
+        "onboard_time": 1750175483,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385795,
+        "num": 385795,
+        "word": "变形记中最争气的农村娃怎么样了",
+        "onboard_time": 1750219823,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330019,
+        "num": 330019,
+        "word": "章子怡赵丽颖杨幂酱园弄镜头",
+        "onboard_time": 1750217002,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1044022,
+        "num": 323410,
+        "word": "谢娜都结婚了 他怎么不早点说啊",
+        "onboard_time": 1750220302,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3545942,
+        "num": 314528,
+        "word": "文泰一承认强奸",
+        "onboard_time": 1750217420,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45132,
+        "num": 308407,
+        "word": "京东618",
+        "onboard_time": 1750215981,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 855827,
+        "num": 300346,
+        "word": "高以翔生前女友Bella结婚",
+        "onboard_time": 1750215741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363291,
+        "num": 287484,
+        "word": "黑魔仙小月扮演者公开讨债",
+        "onboard_time": 1750204760,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286433,
+        "num": 286433,
+        "word": "壹心娱乐官宣张雪迎",
+        "onboard_time": 1750214721,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285724,
+        "num": 285724,
+        "word": "周深称被大家看见很难留住更难",
+        "onboard_time": 1750220422,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277869,
+        "num": 277869,
+        "word": "T3司机猥亵大三女生被行拘5日",
+        "onboard_time": 1750210579,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269198,
+        "num": 269198,
+        "word": "白糖罂荔枝跌破一元",
+        "onboard_time": 1750219582,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55033,
+        "num": 243722,
+        "word": "京东全品类不止5折",
+        "onboard_time": 1750220002,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 664364,
+        "num": 242440,
+        "word": "女子以为腹胀去医院竟当场生下男婴",
+        "onboard_time": 1750216761,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238213,
+        "num": 238213,
+        "word": "龚俊戳破电诈分子谎言",
+        "onboard_time": 1750220182,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228766,
+        "num": 228766,
+        "word": "特朗普向伊朗发出最后通牒",
+        "onboard_time": 1750219281,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206578,
+        "num": 227374,
+        "word": "郑晓龙没想到藏海传会爆",
+        "onboard_time": 1750220723,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227148,
+        "num": 227148,
+        "word": "李雪琴老谢 2号楼3A",
+        "onboard_time": 1750219641,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224118,
+        "num": 224118,
+        "word": "金靖感谢张凌赫迪丽热巴力挺",
+        "onboard_time": 1750220542,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213015,
+        "num": 213015,
+        "word": "官方通报网传一男子将孩童关铁笼中",
+        "onboard_time": 1750215800,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 206704,
+        "num": 206704,
+        "word": "奔跑吧澳门",
+        "onboard_time": 1750212440,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184845,
+        "num": 204807,
+        "word": "以色列",
+        "onboard_time": 1750211659,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 204324,
+        "num": 204324,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1750207341,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200153,
+        "num": 200153,
+        "word": "特朗普发文要求伊朗无条件投降",
+        "onboard_time": 1750204280,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114821,
+        "num": 196717,
+        "word": "哈梅内伊誓言永不妥协",
+        "onboard_time": 1750219281,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195604,
+        "num": 195604,
+        "word": "奔跑吧收官直播",
+        "onboard_time": 1750218381,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13127,
+        "num": 193475,
+        "word": "旅游博主江小隐在景区溺亡",
+        "onboard_time": 1750221144,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192217,
+        "num": 192217,
+        "word": "奚梦瑶问周一围喜欢儿子还是女儿",
+        "onboard_time": 1750220904,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82042,
+        "num": 189948,
+        "word": "WTT成立印度赛事管理公司",
+        "onboard_time": 1750219521,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52545,
+        "num": 188770,
+        "word": "伊朗高超音速导弹将如何影响战局",
+        "onboard_time": 1750221144,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188482,
+        "num": 188482,
+        "word": "谁懂原班人马拍3部的含金量",
+        "onboard_time": 1750217181,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91635,
+        "num": 186190,
+        "word": "被暴雨逼疯的广东人",
+        "onboard_time": 1750219342,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55843,
+        "num": 185020,
+        "word": "T3平台回应司机猥亵女乘客",
+        "onboard_time": 1750219281,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184615,
+        "num": 184615,
+        "word": "肖战背头衬衫",
+        "onboard_time": 1750220602,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184247,
+        "num": 184247,
+        "word": "Labubu爆火会是一阵风吗",
+        "onboard_time": 1750218622,
+        "rank": 41,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 82632,
+        "num": 178710,
+        "word": "潘展乐挑战垂直泳道",
+        "onboard_time": 1750218981,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173216,
+        "num": 173216,
+        "word": "刘强东称从快递员到自己只隔了5层",
+        "onboard_time": 1750214421,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172855,
+        "num": 172855,
+        "word": "妹夫一家殴打姨姐欲开挖机推其房子",
+        "onboard_time": 1750216041,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169451,
+        "num": 169451,
+        "word": "酱园弄",
+        "onboard_time": 1750220782,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160915,
+        "num": 160915,
+        "word": "美媒称特朗普正考虑加入对伊空袭",
+        "onboard_time": 1750212679,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20419,
+        "num": 159077,
+        "word": "要去一线城市读书吗",
+        "onboard_time": 1750220542,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159044,
+        "num": 159044,
+        "word": "朱丹给何猷君说懵了",
+        "onboard_time": 1750205060,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157772,
+        "num": 157772,
+        "word": "原神5.7",
+        "onboard_time": 1750220302,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席第二届中国—中亚峰会#"
+    }
+  }
+}
