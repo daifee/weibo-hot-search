@@ -1,10 +1,10 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750222206725,
+  "endTime": 1750224385377,
   "band_list": [
     {
       "raw_hot": 3545942,
-      "num": 356362,
+      "num": 417178,
       "word": "文泰一承认强奸",
       "onboard_time": 1750217420,
       "rank": 23,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1940105,
-      "num": 352649,
+      "num": 411383,
       "word": "谢娜都结婚了 他怎么不早点说啊",
       "onboard_time": 1750220302,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1750173203,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1186819,
+      "num": 1048009,
+      "word": "蜂鸟音乐指控邓紫棋侵权",
+      "onboard_time": 1750223483,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1131600,
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813740,
+      "num": 1130198,
+      "word": "老人胃炎被以癌症切全胃最新进展",
+      "onboard_time": 1750218742,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 810171,
       "num": 810171,
       "word": "T3司机猥亵大三女生被行拘5日",
@@ -123,8 +139,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 677427,
+      "num": 407933,
+      "word": "范玮琪没说过隐隐约约有听说",
+      "onboard_time": 1750222223,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 664364,
-      "num": 319774,
+      "num": 334478,
       "word": "女子以为腹胀去医院竟当场生下男婴",
       "onboard_time": 1750216761,
       "rank": 33,
@@ -139,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 626799,
-      "num": 1100287,
-      "word": "老人胃炎被以癌症切全胃最新进展",
-      "onboard_time": 1750218742,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 575608,
       "num": 408039,
       "word": "朱丹给何猷君说懵了",
@@ -155,12 +171,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 564479,
+      "num": 564479,
+      "word": "旅游博主江小隐在景区溺亡",
+      "onboard_time": 1750221144,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 558886,
       "num": 406435,
       "word": "杨威晒儿子在香港上学生活费",
       "onboard_time": 1750206501,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 541250,
+      "num": 474118,
+      "word": "郑晓龙没想到藏海传会爆",
+      "onboard_time": 1750220723,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 524263,
@@ -188,7 +220,7 @@
     },
     {
       "raw_hot": 476423,
-      "num": 331935,
+      "num": 340784,
       "word": "文泰一强奸案受害者是中国人",
       "onboard_time": 1750222103,
       "rank": 15,
@@ -275,6 +307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 394687,
+      "num": 394687,
+      "word": "奚梦瑶问周一围喜欢儿子还是女儿",
+      "onboard_time": 1750220904,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384125,
       "num": 219296,
       "word": "刘浩存终于换掉了微商头像",
@@ -299,8 +339,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 346473,
-      "num": 346473,
+      "raw_hot": 358981,
+      "num": 358981,
       "word": "白糖罂荔枝跌破一元",
       "onboard_time": 1750219582,
       "rank": 18,
@@ -355,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327477,
-      "num": 327477,
-      "word": "郑晓龙没想到藏海传会爆",
-      "onboard_time": 1750220723,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 324291,
       "num": 197645,
       "word": "杨坤曾谈到病逝的前女友",
@@ -377,14 +409,6 @@
       "onboard_time": 1750171584,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 317651,
-      "num": 317651,
-      "word": "奚梦瑶问周一围喜欢儿子还是女儿",
-      "onboard_time": 1750220904,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 301454,
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291137,
+      "num": 291137,
+      "word": "特朗普向伊朗发出最后通牒",
+      "onboard_time": 1750219281,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 288187,
       "num": 288187,
       "word": "8项重磅金融政策发布",
@@ -433,14 +465,6 @@
       "onboard_time": 1750172844,
       "rank": 4,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 279564,
-      "num": 279564,
-      "word": "特朗普向伊朗发出最后通牒",
-      "onboard_time": 1750219281,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 274643,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 251595,
-      "num": 251595,
+      "num": 351017,
       "word": "金靖感谢张凌赫迪丽热巴力挺",
       "onboard_time": 1750220542,
       "rank": 25,
@@ -587,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226334,
+      "num": 428494,
+      "word": "中国首批撤侨队伍从伊朗出发",
+      "onboard_time": 1750221622,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 222956,
       "num": 222956,
       "word": "价值近3万的labubu日租金19.9元",
@@ -601,6 +633,14 @@
       "onboard_time": 1750211419,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 215662,
+      "num": 215662,
+      "word": "免费维修蛋糕",
+      "onboard_time": 1750223782,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 215388,
@@ -681,14 +721,6 @@
       "onboard_time": 1750221442,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191964,
-      "num": 336233,
-      "word": "旅游博主江小隐在景区溺亡",
-      "onboard_time": 1750221144,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189427,
@@ -779,12 +811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172107,
+      "num": 288048,
+      "word": "陪爬泰山男演员接到戏邀",
+      "onboard_time": 1750222943,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171797,
       "num": 405856,
       "word": "李雪琴被举报财务有问题公司已注销",
       "onboard_time": 1750212861,
       "rank": 14,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 170867,
+      "num": 170867,
+      "word": "李慧珍 我也遇到了自己的夏乔",
+      "onboard_time": 1750224141,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 169451,
@@ -795,12 +843,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168953,
+      "num": 168953,
+      "word": "广汽埃安已报警",
+      "onboard_time": 1750222884,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 168107,
+      "num": 207773,
+      "word": "金晨别最粉的发卡开最猛的车",
+      "onboard_time": 1750223303,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165788,
       "num": 165788,
       "word": "迪丽热巴油画蓬然裙",
       "onboard_time": 1750209381,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165191,
+      "num": 165191,
+      "word": "何秋亊演唱会争议后掉粉超300万",
+      "onboard_time": 1750224141,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 164649,
@@ -835,12 +907,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156007,
+      "num": 156007,
+      "word": "三世同堂都凑不齐70岁",
+      "onboard_time": 1750224321,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149485,
       "num": 149485,
       "word": "能不能禁止刘亦菲和人打招呼",
       "onboard_time": 1750147940,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148696,
+      "num": 148696,
+      "word": "朱丹观念",
+      "onboard_time": 1750222343,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148554,
+      "num": 148554,
+      "word": "歌手",
+      "onboard_time": 1750222523,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 145663,
@@ -857,6 +953,14 @@
       "onboard_time": 1750217062,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144100,
+      "num": 157536,
+      "word": "陈昊宇上海抢票",
+      "onboard_time": 1750222884,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 140405,
@@ -931,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124145,
+      "num": 323990,
+      "word": "京东全品类不止5折",
+      "onboard_time": 1750220002,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122743,
       "num": 122743,
       "word": "张艺兴跳舞已经nextlevel了",
@@ -1001,6 +1113,14 @@
       "onboard_time": 1750209200,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112596,
+      "num": 395335,
+      "word": "被T3平台司机猥亵的女学生再发声",
+      "onboard_time": 1750222884,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112184,
@@ -1131,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94119,
+      "num": 355915,
+      "word": "谁把我618购物车挂墙上了",
+      "onboard_time": 1750223123,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94097,
       "num": 107151,
       "word": "科钦夫疑回应高考数学10分考985",
@@ -1171,20 +1299,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 92112,
-      "num": 323990,
-      "word": "京东全品类不止5折",
-      "onboard_time": 1750220002,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 89526,
       "num": 89526,
       "word": "GAI rapper唱情歌的杀伤力",
       "onboard_time": 1750175661,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87273,
+      "num": 288047,
+      "word": "网红江小隐溺亡前河流上游放了水",
+      "onboard_time": 1750223003,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84879,
@@ -1475,6 +1603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 47943,
+      "num": 290996,
+      "word": "创业板正式启用第三套标准",
+      "onboard_time": 1750224022,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 45434,
       "num": 217052,
       "word": "逃离德黑兰但堵车",
@@ -1563,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25896,
+      "num": 423248,
+      "word": "我国磁悬浮技术获新突破",
+      "onboard_time": 1750188495,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24847,
       "num": 811476,
       "word": "网警守护618购物安全",
@@ -1577,6 +1721,14 @@
       "onboard_time": 1750217420,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24110,
+      "num": 166380,
+      "word": "PlayStation剑星宣传文案争议",
+      "onboard_time": 1750223422,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 22253,
@@ -1627,14 +1779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15779,
-      "num": 45257,
-      "word": "我国磁悬浮技术获新突破",
-      "onboard_time": 1750188495,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15033,
       "num": 17973,
       "word": "陈丽君我的大观园成都站现场掌声雷动",
@@ -1659,6 +1803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13881,
+      "num": 290991,
+      "word": "5月经济数据出炉传递这些关键信息",
+      "onboard_time": 1750223722,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12989,
       "num": 37882,
       "word": "各方应该推动中东局势尽快降温",
@@ -1675,6 +1827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 8693,
+      "num": 782985,
+      "word": "用数字丈量丝路新宽度",
+      "onboard_time": 1750224141,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 4271,
       "num": 437566,
       "word": "九组数据感知我国经济韧性活力",
@@ -1686,6 +1846,9 @@
   "hotgov_list": [
     {
       "word": "#习近平出席第二届中国—中亚峰会#"
+    },
+    {
+      "word": "#一首诗一首歌感受中哈深情厚谊#"
     }
   ]
 }
