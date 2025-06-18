@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750232510180,
+  "endTime": 1750235694756,
   "band_list": [
     {
       "raw_hot": 3545942,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2100793,
+      "num": 1113941,
+      "word": "朱丹 我们从未让女儿留级",
+      "onboard_time": 1750231041,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1940105,
       "num": 451847,
       "word": "谢娜都结婚了 他怎么不早点说啊",
       "onboard_time": 1750220302,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1897955,
-      "num": 1113941,
-      "word": "朱丹 我们从未让女儿留级",
-      "onboard_time": 1750231041,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 1723750,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1144159,
+      "num": 273250,
+      "word": "伊朗绞刑处死内鬼",
+      "onboard_time": 1750233141,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1131600,
       "num": 226246,
       "word": "沈阳车祸",
@@ -113,6 +121,14 @@
       "onboard_time": 1750215142,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 946283,
+      "num": 286033,
+      "word": "张婧仪 朱丹女儿待遇",
+      "onboard_time": 1750234702,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 892759,
@@ -155,12 +171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 803548,
+      "num": 279115,
+      "word": "周鹤年退团",
+      "onboard_time": 1750233441,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 766627,
       "num": 1122660,
       "word": "旅游博主江小隐在景区溺亡",
       "onboard_time": 1750221144,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 760637,
+      "num": 245942,
+      "word": "谢娜回应张杰怎么不早点说",
+      "onboard_time": 1750233562,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 733966,
@@ -275,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 535238,
+      "num": 242096,
+      "word": "爸爸1天3包烟16岁女儿确诊肺癌",
+      "onboard_time": 1750233262,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 524263,
       "num": 524263,
       "word": "变形记中最争气的农村娃怎么样了",
@@ -371,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421497,
+      "num": 421497,
+      "word": "专家称没有一个中国大妈被黄金套住",
+      "onboard_time": 1750231941,
+      "rank": 34,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 419430,
       "num": 419430,
       "word": "张艺谋巩俐早期情侣写真",
@@ -385,6 +433,14 @@
       "onboard_time": 1750212440,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406413,
+      "num": 287530,
+      "word": "文泰一性侵第二天生日直播",
+      "onboard_time": 1750231280,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 405314,
@@ -595,14 +651,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 287530,
-      "num": 287530,
-      "word": "文泰一性侵第二天生日直播",
-      "onboard_time": 1750231280,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281572,
       "num": 281572,
       "word": "上海阿婆在家照镜子被转走近400万",
@@ -739,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237708,
+      "num": 218333,
+      "word": "我是我妈研究生出来的",
+      "onboard_time": 1750234163,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235895,
       "num": 192645,
       "word": "马斯克公布尿检报告",
@@ -755,12 +811,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234159,
+      "num": 234159,
+      "word": "一诺家俊真的锁住了",
+      "onboard_time": 1750234341,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 231793,
       "num": 231793,
       "word": "Labubu爆火会是一阵风吗",
       "onboard_time": 1750218622,
       "rank": 41,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 231076,
+      "num": 231076,
+      "word": "河南车 挂豫牌",
+      "onboard_time": 1750232781,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 229852,
@@ -939,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187161,
+      "num": 248121,
+      "word": "苏炳添百米跑11秒37未进决赛",
+      "onboard_time": 1750234942,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187126,
       "num": 187126,
       "word": "综艺新人拒绝24小时录制选择退出",
@@ -953,14 +1033,6 @@
       "onboard_time": 1750220602,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183436,
-      "num": 183436,
-      "word": "专家称没有一个中国大妈被黄金套住",
-      "onboard_time": 1750231941,
-      "rank": 34,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 182509,
@@ -993,6 +1065,14 @@
       "onboard_time": 1750230261,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176491,
+      "num": 176491,
+      "word": "崂山可乐",
+      "onboard_time": 1750235002,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 175622,
@@ -1076,7 +1156,7 @@
     },
     {
       "raw_hot": 171646,
-      "num": 171646,
+      "num": 218528,
       "word": "秦臆博原型",
       "onboard_time": 1750229961,
       "rank": 42,
@@ -1171,11 +1251,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156855,
+      "num": 156855,
+      "word": "伊朗旅游团是我带过最伤心的团",
+      "onboard_time": 1750231700,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156007,
       "num": 156007,
       "word": "三世同堂都凑不齐70岁",
       "onboard_time": 1750224321,
       "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 151936,
+      "num": 151936,
+      "word": "两年没系统上班的朋友",
+      "onboard_time": 1750233983,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -1185,6 +1281,14 @@
       "onboard_time": 1750147940,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149298,
+      "num": 149298,
+      "word": "好喝的奶茶品牌排名",
+      "onboard_time": 1750232542,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 148696,
@@ -1203,12 +1307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148327,
+      "num": 275888,
+      "word": "1000余名中国公民正在撤离途中",
+      "onboard_time": 1750234702,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 145663,
       "num": 145663,
       "word": "蔡文静让汪峰丢失一世英名",
       "onboard_time": 1750216702,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145141,
+      "num": 145141,
+      "word": "791名中国公民已从伊朗转移",
+      "onboard_time": 1750235662,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144679,
@@ -1235,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138690,
+      "num": 138690,
+      "word": "军工概念走强",
+      "onboard_time": 1750234823,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 136136,
       "num": 183561,
       "word": "何秋亊曾在直播时抽烟",
@@ -1257,6 +1385,14 @@
       "onboard_time": 1750229301,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 133285,
+      "num": 133285,
+      "word": "老谢曾是李雪琴的好友和室友",
+      "onboard_time": 1750235421,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 133196,
@@ -1345,14 +1481,6 @@
       "onboard_time": 1750224623,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124353,
-      "num": 124353,
-      "word": "伊朗旅游团是我带过最伤心的团",
-      "onboard_time": 1750231700,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124145,
@@ -1643,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93558,
+      "num": 161000,
+      "word": "伊朗局势进入最关键时刻",
+      "onboard_time": 1750233441,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93404,
       "num": 93404,
       "word": "特朗普考虑对伊朗实施打击",
@@ -1747,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81609,
+      "num": 156681,
+      "word": "饭店称一小时吃完55个牛蹄奖励6666元",
+      "onboard_time": 1750233744,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79720,
       "num": 79720,
       "word": "湖北一县教育局回应摊派老师买水",
@@ -1771,12 +1915,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 76268,
+      "num": 221263,
+      "word": "普通人很难共情千万资产分配不均",
+      "onboard_time": 1750235543,
+      "rank": 28,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 75017,
       "num": 75017,
       "word": "黄友政陈熠vs张本智和张本美和",
       "onboard_time": 1750201278,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74316,
+      "num": 269302,
+      "word": "天猫618最后一波国补低至4折",
+      "onboard_time": 1750234041,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 73791,
@@ -2035,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52288,
+      "num": 223995,
+      "word": "丝柯克气场",
+      "onboard_time": 1750234041,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51076,
       "num": 384495,
       "word": "全员解聘医院曾因漏诊致患者截肢",
@@ -2099,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41497,
+      "num": 158050,
+      "word": "熊祁参加YGL次元狂欢节",
+      "onboard_time": 1750234942,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 41332,
       "num": 121328,
       "word": "歌手官宣麦可布雷袭榜",
@@ -2128,6 +2304,14 @@
       "word": "国补下的618哪些产品值得买",
       "onboard_time": 1750207822,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35893,
+      "num": 176199,
+      "word": "小伙2次接送好友去盗窃被判从犯",
+      "onboard_time": 1750233681,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2377,6 +2561,14 @@
       "onboard_time": 1750188315,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9178,
+      "num": 228296,
+      "word": "语言暴力会损伤大脑健康吗",
+      "onboard_time": 1750235482,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 6450,
