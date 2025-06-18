@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750271798681,
+  "endTime": 1750272647345,
   "band_list": [
     {
       "raw_hot": 1489486,
@@ -491,8 +491,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20949,
-      "num": 31724,
+      "raw_hot": 25216,
+      "num": 25216,
+      "word": "国产剧终于让小三吃上恋爱脑的苦",
+      "onboard_time": 1750245080,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22713,
+      "num": 24597,
+      "word": "邓紫棋我不知道我还要回应什么",
+      "onboard_time": 1750272075,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22157,
+      "num": 68172,
       "word": "以色列正与美国保持沟通",
       "onboard_time": 1750271656,
       "rank": 35,
@@ -513,6 +529,14 @@
       "onboard_time": 1750268237,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7720,
+      "num": 26321,
+      "word": "真实测评山东海鲜自由",
+      "onboard_time": 1750272555,
+      "rank": 39,
+      "category": "美食"
     }
   ],
   "hotgov_list": [

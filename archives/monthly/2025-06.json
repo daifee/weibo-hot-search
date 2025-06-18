@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750271798681,
+  "endTime": 1750272647345,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -64699,6 +64699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22713,
+      "num": 24597,
+      "word": "邓紫棋我不知道我还要回应什么",
+      "onboard_time": 1750272075,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22707,
       "num": 89256,
       "word": "美抗议者遭警方马匹暴力踩踏",
@@ -64888,6 +64896,14 @@
       "word": "非洲裔在墨西哥裔后方0元购",
       "onboard_time": 1749561262,
       "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 22157,
+      "num": 68172,
+      "word": "以色列正与美国保持沟通",
+      "onboard_time": 1750271656,
+      "rank": 35,
       "category": "国际时政"
     },
     {
@@ -65265,14 +65281,6 @@
       "onboard_time": 1749632963,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20949,
-      "num": 31724,
-      "word": "以色列正与美国保持沟通",
-      "onboard_time": 1750271656,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20893,
@@ -67953,6 +67961,14 @@
       "onboard_time": 1749202282,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7720,
+      "num": 26321,
+      "word": "真实测评山东海鲜自由",
+      "onboard_time": 1750272555,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 7667,
