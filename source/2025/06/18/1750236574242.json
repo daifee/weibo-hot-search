@@ -1,0 +1,410 @@
+{
+  "runTime": 1750236574242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 871340,
+        "num": 1139414,
+        "word": "男生北大第一节上课决定退学复读",
+        "onboard_time": 1750229781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1757307,
+        "num": 1135251,
+        "word": "朱丹 我们从未让女儿留级",
+        "onboard_time": 1750231041,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19885,
+        "num": 1118049,
+        "word": "网警守护618购物安全",
+        "onboard_time": 1750208841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1115215,
+        "num": 1115215,
+        "word": "蜂鸟音乐指控邓紫棋侵权",
+        "onboard_time": 1750223483,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461769,
+        "num": 461769,
+        "word": "专家称没有一个中国大妈被黄金套住",
+        "onboard_time": 1750231941,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 333501,
+        "num": 333501,
+        "word": "以色列袭击已致伊朗585死1326伤",
+        "onboard_time": 1750226301,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 782539,
+        "num": 303319,
+        "word": "谢娜回应张杰怎么不早点说",
+        "onboard_time": 1750233562,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 731116,
+        "num": 301837,
+        "word": "张婧仪 朱丹女儿待遇",
+        "onboard_time": 1750234702,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 599937,
+        "num": 287114,
+        "word": "周鹤年退团",
+        "onboard_time": 1750233441,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270518,
+        "num": 270518,
+        "word": "德国总理说以色列为我们干脏活",
+        "onboard_time": 1750231280,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70772,
+        "num": 270508,
+        "word": "天猫618最后一波国补低至4折",
+        "onboard_time": 1750234041,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1075355,
+        "num": 269733,
+        "word": "伊朗绞刑处死内鬼",
+        "onboard_time": 1750233141,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 846511,
+        "num": 269125,
+        "word": "文泰一承认强奸",
+        "onboard_time": 1750217420,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672084,
+        "num": 268282,
+        "word": "谢娜都结婚了 他怎么不早点说啊",
+        "onboard_time": 1750220302,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105916,
+        "num": 268168,
+        "word": "普通人很难共情千万资产分配不均",
+        "onboard_time": 1750235543,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 201727,
+        "num": 267407,
+        "word": "1000余名中国公民正在撤离途中",
+        "onboard_time": 1750234702,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 447482,
+        "num": 266841,
+        "word": "邓紫棋追讨蜂鸟音乐合法版税",
+        "onboard_time": 1750236201,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 419695,
+        "num": 266369,
+        "word": "天津机场航站楼车祸",
+        "onboard_time": 1750226121,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52221,
+        "num": 265377,
+        "word": "韩安冉给女儿优米买labubu",
+        "onboard_time": 1750229301,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 13481,
+        "num": 265074,
+        "word": "语言暴力会损伤大脑健康吗",
+        "onboard_time": 1750235482,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 425044,
+        "num": 264695,
+        "word": "爸爸1天3包烟16岁女儿确诊肺癌",
+        "onboard_time": 1750233262,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390440,
+        "num": 263624,
+        "word": "汪峰宁静就这么自然地牵手了",
+        "onboard_time": 1750228161,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364132,
+        "num": 263073,
+        "word": "文泰一性侵第二天生日直播",
+        "onboard_time": 1750231280,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355609,
+        "num": 262598,
+        "word": "李雪琴方声明",
+        "onboard_time": 1750227141,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223299,
+        "num": 262118,
+        "word": "Labubu在美国二级市场最高炒至上千美元",
+        "onboard_time": 1750233921,
+        "rank": 24,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 342324,
+        "num": 261406,
+        "word": "张杰 一觉醒来我老婆不是我老婆了",
+        "onboard_time": 1750235902,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261301,
+        "num": 261301,
+        "word": "791名中国公民已从伊朗转移",
+        "onboard_time": 1750235662,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 272317,
+        "num": 256607,
+        "word": "源来凯始玺欢你是谁起的",
+        "onboard_time": 1750229001,
+        "rank": 27,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 193367,
+        "num": 252474,
+        "word": "kpop老实人",
+        "onboard_time": 1750235843,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46184,
+        "num": 250653,
+        "word": "丝柯克气场",
+        "onboard_time": 1750234041,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250274,
+        "num": 250274,
+        "word": "崂山可乐",
+        "onboard_time": 1750235002,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 237214,
+        "num": 237214,
+        "word": "伊朗袭击致以色列24死逾1300伤",
+        "onboard_time": 1750226241,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206133,
+        "num": 206133,
+        "word": "李国庆再婚",
+        "onboard_time": 1750224502,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194742,
+        "num": 194742,
+        "word": "我是我妈研究生出来的",
+        "onboard_time": 1750234163,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179040,
+        "num": 179040,
+        "word": "女子以为腹胀去医院竟当场生下男婴",
+        "onboard_time": 1750216761,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173051,
+        "num": 173051,
+        "word": "河南车 挂豫牌",
+        "onboard_time": 1750232781,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171991,
+        "num": 171991,
+        "word": "苏炳添百米跑11秒37未进决赛",
+        "onboard_time": 1750234942,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167850,
+        "num": 167850,
+        "word": "肖战建议师父挥手不回头刀哭观众",
+        "onboard_time": 1750231521,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67205,
+        "num": 144303,
+        "word": "以军往加沙哈马斯地道浇混凝土",
+        "onboard_time": 1750234582,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 60775,
+        "num": 143677,
+        "word": "秦彻全副武装",
+        "onboard_time": 1750235902,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143554,
+        "num": 143554,
+        "word": "歌手歌单",
+        "onboard_time": 1750236442,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143509,
+        "num": 143509,
+        "word": "郑晓龙没想到藏海传会爆",
+        "onboard_time": 1750220723,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141948,
+        "num": 141948,
+        "word": "丁禹兮花15万给粉丝买项链",
+        "onboard_time": 1750224981,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140620,
+        "num": 140620,
+        "word": "旅游博主江小隐在景区溺亡",
+        "onboard_time": 1750221144,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136279,
+        "num": 136279,
+        "word": "好喝的奶茶品牌排名",
+        "onboard_time": 1750232542,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135737,
+        "num": 135737,
+        "word": "造谣迪丽热巴鹿晗恋情网友致歉",
+        "onboard_time": 1750225581,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135270,
+        "num": 135270,
+        "word": "以色列被曝不断要求美国支援",
+        "onboard_time": 1750230082,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133631,
+        "num": 133631,
+        "word": "小猫是扁平足",
+        "onboard_time": 1750236500,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129386,
+        "num": 129386,
+        "word": "消息称哈梅内伊之子成潜在接班人",
+        "onboard_time": 1750235181,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129200,
+        "num": 129200,
+        "word": "两年没系统上班的朋友",
+        "onboard_time": 1750233983,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在中国—中亚峰会上的主旨发言#"
+    }
+  }
+}

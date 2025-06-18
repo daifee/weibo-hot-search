@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 16:34:54
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 16:49:34
 </p>
 </blockquote>
 <p>
@@ -3375,6 +3375,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%9D%B0%E6%80%8E%E4%B9%88%E4%B8%8D%E6%97%A9%E7%82%B9%E8%AF%B4%23" target="weibo">
+谢娜回应张杰怎么不早点说（热度：782539）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E5%85%A8%E8%BA%AB%E9%92%88%E9%9B%95%E4%BF%9D%E5%85%BB%E6%B3%95%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
 陈乔恩全身针雕保养法引热议（热度：782316）
 </a>
@@ -3497,12 +3503,6 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E8%A2%AB%E6%9B%9D%E8%AE%A9%E5%AD%A6%E7%94%9F%E4%B8%80%E5%AD%97%E6%8E%92%E5%BC%80%E8%B7%AA%E5%9C%B0%E5%86%99%E6%A3%80%E8%AE%A8%23" target="weibo">
 老师被曝让学生一字排开跪地写检讨（热度：761892）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%9D%B0%E6%80%8E%E4%B9%88%E4%B8%8D%E6%97%A9%E7%82%B9%E8%AF%B4%23" target="weibo">
-谢娜回应张杰怎么不早点说（热度：760637）
 </a>
 </li>
 
