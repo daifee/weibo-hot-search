@@ -1,0 +1,410 @@
+{
+  "runTime": 1750238965731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1076417,
+        "num": 1172226,
+        "word": "崂山可乐",
+        "onboard_time": 1750235002,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1419254,
+        "num": 1168360,
+        "word": "朱丹 我们从未让女儿留级",
+        "onboard_time": 1750231041,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13807,
+        "num": 890221,
+        "word": "网警守护618购物安全",
+        "onboard_time": 1750208841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664843,
+        "num": 664843,
+        "word": "蜂鸟音乐指控邓紫棋侵权",
+        "onboard_time": 1750223483,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575201,
+        "num": 575201,
+        "word": "中方回应特朗普要求伊朗无条件投降",
+        "onboard_time": 1750236741,
+        "rank": 4,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 495892,
+        "num": 573595,
+        "word": "男生北大第一节上课决定退学复读",
+        "onboard_time": 1750229781,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573563,
+        "num": 573563,
+        "word": "谢娜回应张杰怎么不早点说",
+        "onboard_time": 1750233562,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314481,
+        "num": 548151,
+        "word": "以色列袭击已致伊朗585死1326伤",
+        "onboard_time": 1750226301,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 531193,
+        "num": 531193,
+        "word": "邓紫棋追讨蜂鸟音乐合法版税",
+        "onboard_time": 1750236201,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203230,
+        "num": 526028,
+        "word": "Labubu在美国二级市场最高炒至上千美元",
+        "onboard_time": 1750233921,
+        "rank": 9,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 882445,
+        "num": 513152,
+        "word": "伊朗绞刑处死内鬼",
+        "onboard_time": 1750233141,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1057336,
+        "num": 504362,
+        "word": "张杰 一觉醒来我老婆不是我老婆了",
+        "onboard_time": 1750235902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148420,
+        "num": 499682,
+        "word": "天猫618最后一波国补低至4折",
+        "onboard_time": 1750234041,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 665782,
+        "num": 487097,
+        "word": "文泰一承认强奸",
+        "onboard_time": 1750217420,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198422,
+        "num": 479476,
+        "word": "消息称哈梅内伊之子成潜在接班人",
+        "onboard_time": 1750235181,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 476216,
+        "num": 476216,
+        "word": "张婧仪 朱丹女儿待遇",
+        "onboard_time": 1750234702,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343998,
+        "num": 449484,
+        "word": "专家称没有一个中国大妈被黄金套住",
+        "onboard_time": 1750231941,
+        "rank": 16,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 442770,
+        "num": 442770,
+        "word": "谢娜都结婚了 他怎么不早点说啊",
+        "onboard_time": 1750220302,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107548,
+        "num": 418715,
+        "word": "终于可以在车里躺平了",
+        "onboard_time": 1750237402,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 40320,
+        "num": 416978,
+        "word": "天津机场航站楼车祸1名司机受伤",
+        "onboard_time": 1750237341,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415522,
+        "num": 415522,
+        "word": "周鹤年退团",
+        "onboard_time": 1750233441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363607,
+        "num": 363607,
+        "word": "爸爸1天3包烟16岁女儿确诊肺癌",
+        "onboard_time": 1750233262,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287421,
+        "num": 287421,
+        "word": "天津机场航站楼车祸",
+        "onboard_time": 1750226121,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254345,
+        "num": 254345,
+        "word": "汪峰宁静就这么自然地牵手了",
+        "onboard_time": 1750228161,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27867,
+        "num": 252293,
+        "word": "深大王牌专业个个都是就业通行证",
+        "onboard_time": 1750237881,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250546,
+        "num": 250546,
+        "word": "李雪琴方声明",
+        "onboard_time": 1750227141,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247017,
+        "num": 247017,
+        "word": "文泰一性侵第二天生日直播",
+        "onboard_time": 1750231280,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200670,
+        "num": 200670,
+        "word": "伊朗袭击致以色列24死逾1300伤",
+        "onboard_time": 1750226241,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203663,
+        "num": 198937,
+        "word": "kpop老实人",
+        "onboard_time": 1750235843,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38409,
+        "num": 189545,
+        "word": "陪爬泰山男演员回应签约MCN",
+        "onboard_time": 1750237282,
+        "rank": 29,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 283066,
+        "num": 189379,
+        "word": "刘强东称过去5年是京东失去的5年",
+        "onboard_time": 1750238061,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184876,
+        "num": 184876,
+        "word": "普通人很难共情千万资产分配不均",
+        "onboard_time": 1750235543,
+        "rank": 31,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 179125,
+        "num": 179125,
+        "word": "苏炳添百米跑11秒37未进决赛",
+        "onboard_time": 1750234942,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176655,
+        "num": 176655,
+        "word": "张婧仪章若楠怎么认识的",
+        "onboard_time": 1750237041,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172405,
+        "num": 172405,
+        "word": "歌手歌单",
+        "onboard_time": 1750236442,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168508,
+        "num": 168508,
+        "word": "我是我妈研究生出来的",
+        "onboard_time": 1750234163,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161736,
+        "num": 161736,
+        "word": "791名中国公民已从伊朗转移",
+        "onboard_time": 1750235662,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155140,
+        "num": 155140,
+        "word": "李国庆再婚",
+        "onboard_time": 1750224502,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41767,
+        "num": 153992,
+        "word": "徐亮说成绩不好和挣多少关系不大",
+        "onboard_time": 1750234282,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25126,
+        "num": 153760,
+        "word": "下一站神都洛阳",
+        "onboard_time": 1750237282,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 153694,
+        "num": 153694,
+        "word": "女子以为腹胀去医院竟当场生下男婴",
+        "onboard_time": 1750216761,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148907,
+        "num": 148907,
+        "word": "藏海传回馈剧粉配享太庙",
+        "onboard_time": 1750238181,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140478,
+        "num": 140478,
+        "word": "源来凯始玺欢你是谁起的",
+        "onboard_time": 1750229001,
+        "rank": 42,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 136405,
+        "num": 136405,
+        "word": "小猫是扁平足",
+        "onboard_time": 1750236500,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136303,
+        "num": 136303,
+        "word": "姚译添也要评职称",
+        "onboard_time": 1750238902,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132681,
+        "num": 132681,
+        "word": "特朗普手机",
+        "onboard_time": 1750238781,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130427,
+        "num": 130427,
+        "word": "德国总理说以色列为我们干脏活",
+        "onboard_time": 1750231280,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124858,
+        "num": 124858,
+        "word": "唐嫣上海国际电影节造型",
+        "onboard_time": 1750236682,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123913,
+        "num": 123913,
+        "word": "1000余名中国公民正在撤离途中",
+        "onboard_time": 1750234702,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121603,
+        "num": 121603,
+        "word": "肖战建议师父挥手不回头刀哭观众",
+        "onboard_time": 1750231521,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中国中亚合作不断取得新的成就#"
+    }
+  }
+}
