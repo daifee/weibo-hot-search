@@ -1,0 +1,410 @@
+{
+  "runTime": 1750252170977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 682178,
+        "num": 1109148,
+        "word": "韦神食堂吃饭被多人轮番拍照",
+        "onboard_time": 1750248622,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1116173,
+        "num": 960819,
+        "word": "程十安停更原因",
+        "onboard_time": 1750246161,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 9279,
+        "num": 723679,
+        "word": "8项重磅金融政策发布",
+        "onboard_time": 1750212861,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 662965,
+        "num": 662965,
+        "word": "男子中1000万彩票掉洗衣机被漂洗",
+        "onboard_time": 1750243341,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543458,
+        "num": 543458,
+        "word": "哈梅内伊对伊朗全国讲话",
+        "onboard_time": 1750243761,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 521130,
+        "num": 521130,
+        "word": "伊朗媒体称将发生世界铭记的大事",
+        "onboard_time": 1750250181,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 432320,
+        "num": 432320,
+        "word": "朱丹 我们从未让女儿留级",
+        "onboard_time": 1750231041,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288674,
+        "num": 288674,
+        "word": "中方回应特朗普要求伊朗无条件投降",
+        "onboard_time": 1750236741,
+        "rank": 7,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 256670,
+        "num": 256670,
+        "word": "云南体彩回应1000万彩票被洗衣机洗",
+        "onboard_time": 1750247001,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252118,
+        "num": 252118,
+        "word": "邓紫棋 我不会下架歌曲",
+        "onboard_time": 1750239560,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39049,
+        "num": 251008,
+        "word": "618当天果然还是天猫更便宜",
+        "onboard_time": 1750248322,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110487,
+        "num": 248867,
+        "word": "哈梅内伊讲话后以再次空袭德黑兰",
+        "onboard_time": 1750251681,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1150758,
+        "num": 247203,
+        "word": "宋慧乔长发回归",
+        "onboard_time": 1750249581,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424108,
+        "num": 244347,
+        "word": "伊朗绞刑处死内鬼",
+        "onboard_time": 1750233141,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 319301,
+        "num": 242089,
+        "word": "国产剧终于让小三吃上恋爱脑的苦",
+        "onboard_time": 1750245080,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280418,
+        "num": 240856,
+        "word": "白敬亭宋轶同款茶几地毯",
+        "onboard_time": 1750245921,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18650,
+        "num": 237995,
+        "word": "六旬老人举报违建后遭蒙面袭击后续",
+        "onboard_time": 1750251742,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265272,
+        "num": 237449,
+        "word": "林高远陪弟弟参加毕业典礼",
+        "onboard_time": 1750248141,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73066,
+        "num": 234961,
+        "word": "刘亦菲教科书式的回怼",
+        "onboard_time": 1750251381,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233922,
+        "num": 233922,
+        "word": "6岁女孩翻出21楼想给家人惊喜",
+        "onboard_time": 1750244901,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2635432,
+        "num": 232869,
+        "word": "伊朗 今晚大事",
+        "onboard_time": 1750246883,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85417,
+        "num": 231449,
+        "word": "朱丹小时候没有感受过父爱",
+        "onboard_time": 1750251141,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 826219,
+        "num": 231017,
+        "word": "哈梅内伊",
+        "onboard_time": 1750249221,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230556,
+        "num": 230556,
+        "word": "没认出张柏芝",
+        "onboard_time": 1750251563,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218650,
+        "num": 218650,
+        "word": "爸爸1天3包烟16岁女儿确诊肺癌",
+        "onboard_time": 1750233262,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217002,
+        "num": 217002,
+        "word": "柯淳把余茵惹生气了",
+        "onboard_time": 1750245863,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206688,
+        "num": 206688,
+        "word": "河南爱豆",
+        "onboard_time": 1750243580,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205418,
+        "num": 205418,
+        "word": "曹骏回应翻红后机会变多",
+        "onboard_time": 1750249581,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194905,
+        "num": 194905,
+        "word": "傅园慧一小时游泳课被10万元拍下",
+        "onboard_time": 1750244063,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186443,
+        "num": 186443,
+        "word": "张杰 一觉醒来我老婆不是我老婆了",
+        "onboard_time": 1750235902,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251992,
+        "num": 186059,
+        "word": "远嫁伊朗的华人女子连夜离开",
+        "onboard_time": 1750250541,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184103,
+        "num": 184103,
+        "word": "蜂鸟音乐指控邓紫棋侵权",
+        "onboard_time": 1750223483,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178879,
+        "num": 178879,
+        "word": "范丞丞 去年骂的今年才问",
+        "onboard_time": 1750249701,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171956,
+        "num": 171956,
+        "word": "肖战请彭昱畅剧组喝饮料",
+        "onboard_time": 1750251861,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155610,
+        "num": 155610,
+        "word": "武艺 我姐已经三天没有打我了",
+        "onboard_time": 1750251022,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155297,
+        "num": 155297,
+        "word": "临江仙超点",
+        "onboard_time": 1750247300,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151187,
+        "num": 151187,
+        "word": "王者荣耀",
+        "onboard_time": 1750247300,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148134,
+        "num": 148134,
+        "word": "TWICE变Twins",
+        "onboard_time": 1750245801,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130753,
+        "num": 130753,
+        "word": "伊以战争即将进入第二阶段",
+        "onboard_time": 1750248862,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122920,
+        "num": 122920,
+        "word": "伊朗总统重申伊朗不寻求核武器",
+        "onboard_time": 1750242141,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122460,
+        "num": 122460,
+        "word": "娜扎护肤 从哪一步开始是素颜",
+        "onboard_time": 1750249161,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122308,
+        "num": 122308,
+        "word": "韩女星丧子后试管怀上二胎",
+        "onboard_time": 1750250302,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120371,
+        "num": 120371,
+        "word": "孙燕姿一家四口爬长城",
+        "onboard_time": 1750251501,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118731,
+        "num": 118731,
+        "word": "被单依纯美的挪不开眼睛",
+        "onboard_time": 1750249341,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109124,
+        "num": 117119,
+        "word": "苏超常州vs南京票比labubu还难抢",
+        "onboard_time": 1750248141,
+        "rank": 44,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 115747,
+        "num": 115747,
+        "word": "白敬亭不是商务全是商务",
+        "onboard_time": 1750248622,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114505,
+        "num": 114505,
+        "word": "伊朗官员称正考虑是否封锁霍尔木兹海峡",
+        "onboard_time": 1750251202,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114377,
+        "num": 114377,
+        "word": "刘亦菲出道23年只拍过9部剧",
+        "onboard_time": 1750246340,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111709,
+        "num": 111709,
+        "word": "曹骏说机会变多了",
+        "onboard_time": 1750251262,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102571,
+        "num": 102571,
+        "word": "七根心简 评分",
+        "onboard_time": 1750239381,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中国中亚合作不断取得新的成就#"
+    }
+  }
+}
