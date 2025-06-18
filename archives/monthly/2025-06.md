@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 14:52:07
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 15:26:23
 </p>
 </blockquote>
 <p>
@@ -2259,6 +2259,12 @@ VOGUE红毯（热度：1032068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%8C%97%E5%A4%A7%E7%AC%AC%E4%B8%80%E8%8A%82%E4%B8%8A%E8%AF%BE%E5%86%B3%E5%AE%9A%E9%80%80%E5%AD%A6%E5%A4%8D%E8%AF%BB%23" target="weibo">
+男生北大第一节上课决定退学复读（热度：1003762）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2338%E5%B2%81%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%8B%96%E6%8B%BD6%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%BF%9B%E5%B7%B7%E8%A2%AB%E6%8B%98%23" target="weibo">
 38岁男子酒后拖拽6岁女童进巷被拘（热度：1002739）
 </a>
@@ -2775,6 +2781,12 @@ aespa回归预告（热度：882775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%9C%BA%E5%9C%BA%E8%88%AA%E7%AB%99%E6%A5%BC%E8%BD%A6%E7%A5%B8%23" target="weibo">
+天津机场航站楼车祸（热度：877463）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E6%97%A0%E9%94%A1vs%E5%B8%B8%E5%B7%9E%23" target="weibo">
 苏超无锡vs常州（热度：874205）
 </a>
@@ -3029,12 +3041,6 @@ AL战胜BLG（热度：859667）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5%23" target="weibo">
 洛杉矶乱成一锅粥（热度：827456）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%9C%BA%E5%9C%BA%E8%88%AA%E7%AB%99%E6%A5%BC%E8%BD%A6%E7%A5%B8%23" target="weibo">
-天津机场航站楼车祸（热度：824253）
 </a>
 </li>
 
@@ -3837,6 +3843,12 @@ Labubu 审美（热度：729066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%AE%81%E9%9D%99%E5%B0%B1%E8%BF%99%E4%B9%88%E8%87%AA%E7%84%B6%E5%9C%B0%E7%89%B5%E6%89%8B%E4%BA%86%23" target="weibo">
+汪峰宁静就这么自然地牵手了（热度：713433）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%93%AE%E4%BA%AE%E5%A5%B3%E5%84%BF%E4%B8%A4%E5%A4%A9%E6%8B%BF%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%86%A0%E5%86%9B%23" target="weibo">
 王铮亮女儿两天拿了两个冠军（热度：713346）
 </a>
@@ -4313,6 +4325,12 @@ GAI 该做热玛吉了（热度：660381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%95%A6%E5%95%A6%E5%B0%8F%E9%AD%94%E4%BB%99%E5%87%8C%E5%A6%88%E5%A6%88%E6%89%AE%E6%BC%94%E8%80%85%E8%87%AA%E6%9B%9D%E7%89%87%E9%85%AC%23" target="weibo">
 巴啦啦小魔仙凌妈妈扮演者自曝片酬（热度：658988）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%82%E9%B8%9F%E9%9F%B3%E4%B9%90%E8%A6%81%E6%B1%82%E4%B8%8B%E6%9E%B6%E9%82%93%E7%B4%AB%E6%A3%8B%E9%87%8D%E5%BD%95%E6%AD%8C%E6%9B%B2%23" target="weibo">
+蜂鸟音乐要求下架邓紫棋重录歌曲（热度：657372）
 </a>
 </li>
 
@@ -5409,12 +5427,6 @@ GAI 大白嗓（热度：583445）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9C%82%E9%B8%9F%E9%9F%B3%E4%B9%90%E8%A6%81%E6%B1%82%E4%B8%8B%E6%9E%B6%E9%82%93%E7%B4%AB%E6%A3%8B%E9%87%8D%E5%BD%95%E6%AD%8C%E6%9B%B2%23" target="weibo">
-蜂鸟音乐要求下架邓紫棋重录歌曲（热度：566708）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E9%9E%AD%E7%82%AE%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%23" target="weibo">
 湖南一鞭炮厂发生爆炸事故（热度：566689）
 </a>
@@ -5999,18 +6011,6 @@ Labubu催生庞大周边产业链（热度：535204）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%AE%9D%E6%A0%BC%E4%B8%BD%E5%A5%B3%E7%8E%8B%23" target="weibo">
 刘亦菲 宝格丽女王（热度：521809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AE%83%E4%BB%AC%E4%B8%8D%E5%8F%ABlabubu%23" target="weibo">
-原来它们不叫labubu（热度：521762）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%85%B1%E5%9B%AD%E5%BC%84%E6%8A%8A%E7%86%9F%E4%BA%BA%E6%8B%8D%E6%88%90%E8%AE%A4%E4%B8%8D%E5%87%BA%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
-酱园弄把熟人拍成认不出的样子（热度：521715）
 </a>
 </li>
 

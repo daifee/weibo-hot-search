@@ -1,10 +1,10 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750229527732,
+  "endTime": 1750231583634,
   "band_list": [
     {
       "raw_hot": 3545942,
-      "num": 417178,
+      "num": 464696,
       "word": "文泰一承认强奸",
       "onboard_time": 1750217420,
       "rank": 23,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1940105,
-      "num": 411383,
+      "num": 451847,
       "word": "谢娜都结婚了 他怎么不早点说啊",
       "onboard_time": 1750220302,
       "rank": 10,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1003762,
+      "num": 1160602,
+      "word": "男生北大第一节上课决定退学复读",
+      "onboard_time": 1750229781,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 964364,
       "num": 778627,
       "word": "中餐厅9合伙人阵容官宣",
@@ -107,8 +115,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 824253,
-      "num": 344372,
+      "raw_hot": 877463,
+      "num": 468791,
       "word": "天津机场航站楼车祸",
       "onboard_time": 1750226121,
       "rank": 13,
@@ -148,11 +156,19 @@
     },
     {
       "raw_hot": 733966,
-      "num": 341757,
+      "num": 432441,
       "word": "丁禹兮花15万给粉丝买项链",
       "onboard_time": 1750224981,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 713433,
+      "num": 508062,
+      "word": "汪峰宁静就这么自然地牵手了",
+      "onboard_time": 1750228161,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 701204,
@@ -195,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 657372,
+      "num": 485414,
+      "word": "蜂鸟音乐要求下架邓紫棋重录歌曲",
+      "onboard_time": 1750225822,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644233,
       "num": 644233,
       "word": "以色列袭击已致伊朗585死1326伤",
@@ -217,14 +241,6 @@
       "onboard_time": 1750205060,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 566708,
-      "num": 347704,
-      "word": "蜂鸟音乐要求下架邓紫棋重录歌曲",
-      "onboard_time": 1750225822,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 558886,
@@ -331,6 +347,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 419430,
+      "num": 419430,
+      "word": "张艺谋巩俐早期情侣写真",
+      "onboard_time": 1750228880,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 411220,
+      "num": 411220,
+      "word": "源来凯始玺欢你是谁起的",
+      "onboard_time": 1750229001,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 410661,
       "num": 410661,
       "word": "奔跑吧澳门",
@@ -356,7 +388,7 @@
     },
     {
       "raw_hot": 396296,
-      "num": 396296,
+      "num": 448104,
       "word": "伊朗袭击致以色列24死逾1300伤",
       "onboard_time": 1750226241,
       "rank": 7,
@@ -411,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355286,
+      "num": 355286,
+      "word": "朱丹 我们从未让女儿留级",
+      "onboard_time": 1750231041,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344290,
       "num": 248004,
       "word": "米兰",
@@ -443,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339597,
+      "num": 160673,
+      "word": "朱丹发长文道歉",
+      "onboard_time": 1750231041,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334830,
       "num": 334830,
       "word": "特朗普称耐心正耗尽",
@@ -473,14 +521,6 @@
       "onboard_time": 1750171584,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 303425,
-      "num": 303425,
-      "word": "汪峰宁静就这么自然地牵手了",
-      "onboard_time": 1750228161,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 301454,
@@ -675,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233797,
-      "num": 233797,
-      "word": "张艺谋巩俐早期情侣写真",
-      "onboard_time": 1750228880,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231793,
       "num": 231793,
       "word": "Labubu爆火会是一阵风吗",
@@ -748,11 +780,19 @@
     },
     {
       "raw_hot": 213037,
-      "num": 172599,
+      "num": 308151,
       "word": "泫雅发龙俊亨被评论像金晓钟",
       "onboard_time": 1750228042,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208559,
+      "num": 437965,
+      "word": "以色列被曝不断要求美国支援",
+      "onboard_time": 1750230082,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207446,
@@ -811,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195512,
-      "num": 195512,
-      "word": "源来凯始玺欢你是谁起的",
-      "onboard_time": 1750229001,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194319,
       "num": 150985,
       "word": "我的阿勒泰等中国影视作品走红中亚",
@@ -833,6 +865,14 @@
       "onboard_time": 1750221442,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192854,
+      "num": 192854,
+      "word": "文泰一性侵第二天生日直播",
+      "onboard_time": 1750231280,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 189427,
@@ -868,7 +908,7 @@
     },
     {
       "raw_hot": 183745,
-      "num": 183745,
+      "num": 481339,
       "word": "李雪琴方说法院见",
       "onboard_time": 1750228461,
       "rank": 42,
@@ -899,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178564,
+      "num": 178564,
+      "word": "猫 妈妈我很努力在提示你了",
+      "onboard_time": 1750230261,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175622,
       "num": 100959,
       "word": "以色列总理感谢美国政府",
@@ -923,12 +971,36 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 174578,
+      "num": 174578,
+      "word": "德国总理说以色列为我们干脏活",
+      "onboard_time": 1750231280,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 174023,
+      "num": 286038,
+      "word": "景区回应被演员周娇公开讨债36万",
+      "onboard_time": 1750230741,
+      "rank": 25,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 173925,
       "num": 189917,
       "word": "姐姐5个字托举了妹妹一生",
       "onboard_time": 1750228522,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173468,
+      "num": 173468,
+      "word": "原来是发型压低了懒羊羊颜值",
+      "onboard_time": 1750230381,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 173466,
@@ -1043,6 +1115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158032,
+      "num": 158032,
+      "word": "谁懂男徒给女师尊提裙摆这一下",
+      "onboard_time": 1750231342,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157772,
       "num": 157772,
       "word": "原神5.7",
@@ -1057,6 +1137,14 @@
       "onboard_time": 1750224321,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153796,
+      "num": 153796,
+      "word": "秦臆博原型",
+      "onboard_time": 1750229961,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 149485,
@@ -1083,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146466,
+      "num": 146466,
+      "word": "肖战建议师父挥手不回头刀哭观众",
+      "onboard_time": 1750231521,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145663,
       "num": 145663,
       "word": "蔡文静让汪峰丢失一世英名",
@@ -1105,6 +1201,14 @@
       "onboard_time": 1750222884,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143618,
+      "num": 143618,
+      "word": "京东正式官宣进军酒旅",
+      "onboard_time": 1750229542,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 140405,
@@ -1131,12 +1235,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133750,
+      "num": 133750,
+      "word": "韩安冉给女儿优米买labubu",
+      "onboard_time": 1750229301,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 133196,
       "num": 133196,
       "word": "男子为扶7旬老人骨折遭其拒不承认",
       "onboard_time": 1750204519,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132751,
+      "num": 132617,
+      "word": "镜头美学肖战精湛演技buff叠满",
+      "onboard_time": 1750229661,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132728,
+      "num": 134869,
+      "word": "苏超赞助商从6家飙升至19家",
+      "onboard_time": 1750228522,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 132390,
@@ -1153,14 +1281,6 @@
       "onboard_time": 1750227440,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131519,
-      "num": 131519,
-      "word": "韩安冉给女儿优米买labubu",
-      "onboard_time": 1750229301,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 131478,
@@ -1555,6 +1675,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 83058,
+      "num": 211768,
+      "word": "T3出行官方回应司机被曝公放不雅视频",
+      "onboard_time": 1750230082,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82632,
       "num": 178710,
       "word": "潘展乐挑战垂直泳道",
@@ -1595,14 +1723,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 76224,
-      "num": 134869,
-      "word": "苏超赞助商从6家飙升至19家",
-      "onboard_time": 1750228522,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75017,
       "num": 75017,
       "word": "黄友政陈熠vs张本智和张本美和",
@@ -1627,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71732,
+      "num": 422344,
+      "word": "沈月中餐厅变装",
+      "onboard_time": 1750231041,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70811,
       "num": 322369,
       "word": "旅游博主江小隐景区溺亡朋友发声",
@@ -1649,6 +1777,14 @@
       "onboard_time": 1750166962,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69562,
+      "num": 420073,
+      "word": "京东直播红包",
+      "onboard_time": 1750230442,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 68946,
@@ -1739,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62032,
+      "num": 158828,
+      "word": "吴艳妮赛场自信比心侠",
+      "onboard_time": 1750230741,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61440,
       "num": 61440,
       "word": "湖南将承办2029年第十六届全运会",
@@ -1777,6 +1921,14 @@
       "onboard_time": 1750216461,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57278,
+      "num": 160427,
+      "word": "高温天气国补家电都有哪些值得买",
+      "onboard_time": 1750230381,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56325,
@@ -1891,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 42122,
+      "num": 415278,
+      "word": "有洗澡从不拖延的狠人吗",
+      "onboard_time": 1750230141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41332,
       "num": 121328,
       "word": "歌手官宣麦可布雷袭榜",
@@ -2003,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24542,
+      "num": 159442,
+      "word": "感谢吴明珠院士",
+      "onboard_time": 1750229121,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24110,
       "num": 166380,
       "word": "PlayStation剑星宣传文案争议",
@@ -2017,14 +2185,6 @@
       "onboard_time": 1750228280,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 22412,
-      "num": 132103,
-      "word": "感谢吴明珠院士",
-      "onboard_time": 1750229121,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22253,
@@ -2073,6 +2233,14 @@
       "onboard_time": 1750185675,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17007,
+      "num": 158572,
+      "word": "以色列人不让乌克兰人进入防空洞",
+      "onboard_time": 1750230921,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16400,
