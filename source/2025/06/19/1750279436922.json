@@ -1,0 +1,410 @@
+{
+  "runTime": 1750279436922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 245716,
+        "num": 245716,
+        "word": "伊朗全国大面积断网",
+        "onboard_time": 1750262362,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204776,
+        "num": 204776,
+        "word": "女子22年化妆不卸妆脸红成关公",
+        "onboard_time": 1750264640,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10393,
+        "num": 157401,
+        "word": "数读5月消费市场亮点",
+        "onboard_time": 1750253722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120601,
+        "num": 120601,
+        "word": "大爷捡到隐藏款labubu挂吸粪车",
+        "onboard_time": 1750263140,
+        "rank": 3,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 76770,
+        "num": 76770,
+        "word": "以色列民众问战争到底是为了什么",
+        "onboard_time": 1750263980,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60188,
+        "num": 60188,
+        "word": "爱犬被毒死北京女子辞职追凶",
+        "onboard_time": 1750263740,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50574,
+        "num": 50574,
+        "word": "美航母驶向中东并关闭位置信息",
+        "onboard_time": 1750261642,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45223,
+        "num": 45223,
+        "word": "韦东奕与王虹同框讨论数学问题",
+        "onboard_time": 1750264640,
+        "rank": 7,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 30241,
+        "num": 41632,
+        "word": "朱丹 我们从未让女儿留级",
+        "onboard_time": 1750231041,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28515,
+        "num": 39936,
+        "word": "程十安停更原因",
+        "onboard_time": 1750246161,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70637,
+        "num": 39838,
+        "word": "周鹤年 小三",
+        "onboard_time": 1750257084,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39301,
+        "num": 39301,
+        "word": "陈冠希经纪人回应飞机争执",
+        "onboard_time": 1750262902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36213,
+        "num": 36213,
+        "word": "孟子义的狗巧克力塌房了",
+        "onboard_time": 1750254383,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30842,
+        "num": 30842,
+        "word": "张杰 一觉醒来我老婆不是我老婆了",
+        "onboard_time": 1750235902,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29861,
+        "num": 29861,
+        "word": "远嫁伊朗的华人女子连夜离开",
+        "onboard_time": 1750250541,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29703,
+        "num": 29703,
+        "word": "伊朗今晚有大事或为误读",
+        "onboard_time": 1750257623,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29563,
+        "num": 29563,
+        "word": "伊媒公布击落以色列无人机画面",
+        "onboard_time": 1750268297,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27490,
+        "num": 27490,
+        "word": "邓为 解约",
+        "onboard_time": 1750253062,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26655,
+        "num": 26655,
+        "word": "没认出张柏芝",
+        "onboard_time": 1750251563,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24488,
+        "num": 24488,
+        "word": "杜江霍思燕参加嗯哼小学毕业典礼",
+        "onboard_time": 1750262061,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191787,
+        "num": 24397,
+        "word": "伊朗 今晚大事",
+        "onboard_time": 1750246883,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50009,
+        "num": 24281,
+        "word": "哈梅内伊",
+        "onboard_time": 1750249221,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26484,
+        "num": 24279,
+        "word": "00后女孩醉驾致3死受害者母亲发声",
+        "onboard_time": 1750259603,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24127,
+        "num": 24127,
+        "word": "宋慧乔长发回归",
+        "onboard_time": 1750249581,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23051,
+        "num": 23051,
+        "word": "女子回应22年化妆不卸妆严重过敏",
+        "onboard_time": 1750264640,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22869,
+        "num": 22869,
+        "word": "羊了个羊",
+        "onboard_time": 1750259123,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22687,
+        "num": 22687,
+        "word": "国产剧终于让小三吃上恋爱脑的苦",
+        "onboard_time": 1750245080,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18405,
+        "num": 22304,
+        "word": "变形计女孩梁小友现状",
+        "onboard_time": 1750257864,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 18303,
+        "num": 22030,
+        "word": "刘亦菲出道23年只拍过9部剧",
+        "onboard_time": 1750246340,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16424,
+        "num": 22026,
+        "word": "律师谈邓紫棋到底能不能重录旧歌",
+        "onboard_time": 1750273755,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22026,
+        "num": 22025,
+        "word": "魏大勋早期labubu拥有者",
+        "onboard_time": 1750253543,
+        "rank": 30,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 21416,
+        "num": 21416,
+        "word": "外交部驳斥欧盟主席指责中国言论",
+        "onboard_time": 1750259362,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20982,
+        "num": 20982,
+        "word": "伊朗总统重申伊朗不寻求核武器",
+        "onboard_time": 1750242141,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20142,
+        "num": 20142,
+        "word": "男子中1000万彩票掉洗衣机被漂洗",
+        "onboard_time": 1750243341,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19812,
+        "num": 19812,
+        "word": "哈梅内伊发表电视讲话警告美国",
+        "onboard_time": 1750260982,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19555,
+        "num": 19555,
+        "word": "女孩醉驾致3死借车车主一同被诉",
+        "onboard_time": 1750258944,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19482,
+        "num": 19482,
+        "word": "伊朗绞刑处死内鬼",
+        "onboard_time": 1750233141,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19079,
+        "num": 19079,
+        "word": "伊以战争即将进入第二阶段",
+        "onboard_time": 1750248862,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18474,
+        "num": 18474,
+        "word": "美轰炸机已部署至西班牙军事基地",
+        "onboard_time": 1750257924,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17727,
+        "num": 17727,
+        "word": "中方回应特朗普要求伊朗无条件投降",
+        "onboard_time": 1750236741,
+        "rank": 39,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 17577,
+        "num": 17577,
+        "word": "傅园慧一小时游泳课被10万元拍下",
+        "onboard_time": 1750244063,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17542,
+        "num": 17542,
+        "word": "王一博任游山野",
+        "onboard_time": 1750265299,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17381,
+        "num": 17381,
+        "word": "哈梅内伊对伊朗全国讲话",
+        "onboard_time": 1750243761,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16632,
+        "num": 16632,
+        "word": "25岁男子刺伤一女子因其长得像前女友",
+        "onboard_time": 1750258644,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16562,
+        "num": 16632,
+        "word": "哈梅内伊讲话后以再次空袭德黑兰",
+        "onboard_time": 1750251681,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16288,
+        "num": 16631,
+        "word": "罗马仕充电宝非召回款又自燃",
+        "onboard_time": 1750255884,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15594,
+        "num": 16631,
+        "word": "以色列正与美国保持沟通",
+        "onboard_time": 1750271656,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15429,
+        "num": 16631,
+        "word": "十八线男演员谈不红的好处",
+        "onboard_time": 1750257743,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12507,
+        "num": 16630,
+        "word": "肉肉最怕的四个动作",
+        "onboard_time": 1750261343,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 12309,
+        "num": 16630,
+        "word": "孟子义李昀锐尚公主角色背景",
+        "onboard_time": 1750261941,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平中亚行#"
+    }
+  }
+}
