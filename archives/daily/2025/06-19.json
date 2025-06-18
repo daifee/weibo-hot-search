@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750282796884,
+  "endTime": 1750285506544,
   "band_list": [
     {
       "raw_hot": 1489486,
@@ -27,8 +27,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 583282,
-      "num": 583282,
+      "raw_hot": 680811,
+      "num": 680811,
       "word": "女子22年化妆不卸妆脸红成关公",
       "onboard_time": 1750264640,
       "rank": 20,
@@ -235,12 +235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140261,
+      "num": 140261,
+      "word": "韦东奕与王虹同框讨论数学问题",
+      "onboard_time": 1750264640,
+      "rank": 32,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 137299,
       "num": 137299,
       "word": "伊媒公布击落以色列无人机画面",
       "onboard_time": 1750268297,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135909,
+      "num": 135909,
+      "word": "杜淳妻子回应生二胎",
+      "onboard_time": 1750281855,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 133973,
@@ -257,14 +273,6 @@
       "onboard_time": 1750259603,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126693,
-      "num": 126693,
-      "word": "韦东奕与王虹同框讨论数学问题",
-      "onboard_time": 1750264640,
-      "rank": 32,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 125040,
@@ -443,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68980,
+      "num": 68980,
+      "word": "官方通报救护车跨省转运收费2.8万",
+      "onboard_time": 1750281793,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66726,
       "num": 66726,
       "word": "Melody整盒端labubu",
@@ -451,20 +467,28 @@
       "category": "艺人,休闲"
     },
     {
-      "raw_hot": 59244,
-      "num": 43098,
-      "word": "杜淳妻子回应生二胎",
-      "onboard_time": 1750281855,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57358,
       "num": 57358,
       "word": "中方回应特朗普要求伊朗无条件投降",
       "onboard_time": 1750236741,
       "rank": 40,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 55913,
+      "num": 55913,
+      "word": "国产剧终于让小三吃上恋爱脑的苦",
+      "onboard_time": 1750245080,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51479,
+      "num": 51479,
+      "word": "伊朗地下核设施受损",
+      "onboard_time": 1750277114,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50640,
@@ -483,20 +507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36334,
+      "num": 36334,
+      "word": "傅园慧一小时游泳课被10万元拍下",
+      "onboard_time": 1750244063,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30256,
       "num": 964900,
       "word": "数读5月消费市场亮点",
       "onboard_time": 1750253722,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29346,
-      "num": 29346,
-      "word": "国产剧终于让小三吃上恋爱脑的苦",
-      "onboard_time": 1750245080,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 27773,
@@ -507,19 +531,27 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27111,
-      "num": 27111,
-      "word": "官方通报救护车跨省转运收费2.8万",
-      "onboard_time": 1750281793,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 27267,
+      "num": 29249,
+      "word": "朱丹又又又为自己说错话而道歉了",
+      "onboard_time": 1750285336,
+      "rank": 47,
+      "category": "艺人"
     },
     {
-      "raw_hot": 25614,
-      "num": 28171,
-      "word": "傅园慧一小时游泳课被10万元拍下",
-      "onboard_time": 1750244063,
-      "rank": 46,
+      "raw_hot": 26621,
+      "num": 72819,
+      "word": "律师谈邓紫棋到底能不能重录旧歌",
+      "onboard_time": 1750273755,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 23388,
+      "num": 29214,
+      "word": "黄友政陈垣宇1比3朴奎炫禹衡圭",
+      "onboard_time": 1750280894,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -529,22 +561,6 @@
       "onboard_time": 1750272075,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21900,
-      "num": 21900,
-      "word": "伊朗地下核设施受损",
-      "onboard_time": 1750277114,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 21497,
-      "num": 72819,
-      "word": "律师谈邓紫棋到底能不能重录旧歌",
-      "onboard_time": 1750273755,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 18374,
@@ -563,12 +579,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14406,
-      "num": 18257,
-      "word": "黄友政陈垣宇1比3朴奎炫禹衡圭",
-      "onboard_time": 1750280894,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 16058,
+      "num": 136016,
+      "word": "国家防总对5省份启动防汛四级应急响应",
+      "onboard_time": 1750284556,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7720,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/19 05:39:56
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/19 06:25:06
 </p>
 </blockquote>
 <p>
@@ -4293,6 +4293,12 @@ labubu牙套（热度：696332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9022%E5%B9%B4%E5%8C%96%E5%A6%86%E4%B8%8D%E5%8D%B8%E5%A6%86%E8%84%B8%E7%BA%A2%E6%88%90%E5%85%B3%E5%85%AC%23" target="weibo">
+女子22年化妆不卸妆脸红成关公（热度：680811）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E9%A6%99%E6%9A%97%E8%8D%BC%E5%AD%A9%E5%AD%90%E8%AF%A5%E5%A7%93%E4%BB%80%E4%B9%88%23" target="weibo">
 藏海香暗荼孩子该姓什么（热度：678956）
 </a>
@@ -5399,12 +5405,6 @@ ally车银优合照（热度：584465）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GAI%20%E5%A4%A7%E7%99%BD%E5%97%93%23" target="weibo">
 GAI 大白嗓（热度：583445）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9022%E5%B9%B4%E5%8C%96%E5%A6%86%E4%B8%8D%E5%8D%B8%E5%A6%86%E8%84%B8%E7%BA%A2%E6%88%90%E5%85%B3%E5%85%AC%23" target="weibo">
-女子22年化妆不卸妆脸红成关公（热度：583282）
 </a>
 </li>
 
