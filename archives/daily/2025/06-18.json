@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750254690253,
+  "endTime": 1750256850489,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1543211,
-      "num": 1082821,
+      "num": 1108415,
       "word": "邓为 解约",
       "onboard_time": 1750253062,
       "rank": 3,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 993652,
+      "num": 993652,
+      "word": "孟子义的狗巧克力塌房了",
+      "onboard_time": 1750254383,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 988200,
       "num": 988200,
       "word": "邓紫棋 我不会下架歌曲",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 961823,
-      "num": 758496,
+      "num": 996120,
       "word": "哈梅内伊对伊朗全国讲话",
       "onboard_time": 1750243761,
       "rank": 3,
@@ -297,6 +305,14 @@
       "onboard_time": 1750233562,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 769793,
+      "num": 521130,
+      "word": "伊朗媒体称将发生世界铭记的大事",
+      "onboard_time": 1750250181,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 766627,
@@ -403,14 +419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 640995,
-      "num": 521130,
-      "word": "伊朗媒体称将发生世界铭记的大事",
-      "onboard_time": 1750250181,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 627047,
       "num": 431339,
       "word": "文泰一或被判刑7年",
@@ -497,6 +505,14 @@
       "onboard_time": 1750172363,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490785,
+      "num": 268703,
+      "word": "魏大勋早期labubu拥有者",
+      "onboard_time": 1750253543,
+      "rank": 28,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 476423,
@@ -811,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309955,
+      "num": 212284,
+      "word": "远嫁伊朗的华人女子连夜离开",
+      "onboard_time": 1750250541,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 301454,
       "num": 275327,
       "word": "彻查那尔那茜舆情是守护公平正义",
@@ -849,14 +873,6 @@
       "onboard_time": 1750170204,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 292144,
-      "num": 190137,
-      "word": "远嫁伊朗的华人女子连夜离开",
-      "onboard_time": 1750250541,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 291933,
@@ -939,14 +955,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 268703,
-      "num": 268703,
-      "word": "魏大勋早期labubu拥有者",
-      "onboard_time": 1750253543,
-      "rank": 28,
-      "category": "艺人,休闲"
-    },
-    {
       "raw_hot": 265272,
       "num": 249090,
       "word": "林高远陪弟弟参加毕业典礼",
@@ -993,6 +1001,14 @@
       "onboard_time": 1750159221,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259354,
+      "num": 158070,
+      "word": "中国女篮战胜日本女篮",
+      "onboard_time": 1750256184,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 256670,
@@ -1211,12 +1227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209322,
-      "num": 209322,
-      "word": "孟子义的狗巧克力塌房了",
-      "onboard_time": 1750254383,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 213918,
+      "num": 464774,
+      "word": "可生食鸡蛋连客服都不建议生吃",
+      "onboard_time": 1750253482,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210144,
+      "num": 210144,
+      "word": "哈萨克斯坦空军战机升空护航",
+      "onboard_time": 1750252462,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207446,
@@ -1715,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161445,
+      "num": 211882,
+      "word": "罗马仕充电宝非召回款又自燃",
+      "onboard_time": 1750255884,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160816,
       "num": 175616,
       "word": "张新成原声",
@@ -1963,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135425,
+      "num": 135425,
+      "word": "EDGM对战TTG",
+      "onboard_time": 1750255884,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134610,
       "num": 134610,
       "word": "文泰一 NCT",
@@ -1985,14 +2025,6 @@
       "onboard_time": 1750229301,
       "rank": 41,
       "category": "网红"
-    },
-    {
-      "raw_hot": 133348,
-      "num": 133348,
-      "word": "哈萨克斯坦空军战机升空护航",
-      "onboard_time": 1750252462,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133285,
@@ -2147,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122897,
+      "num": 122897,
+      "word": "bu同的labubu有bu同的命",
+      "onboard_time": 1750255584,
+      "rank": 43,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 122743,
       "num": 122743,
       "word": "张艺兴跳舞已经nextlevel了",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1750251501,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119124,
+      "num": 119124,
+      "word": "藏海传 文化输出",
+      "onboard_time": 1750254863,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 118933,
@@ -2307,6 +2355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 110611,
+      "num": 110611,
+      "word": "杨迪lakuku裤子",
+      "onboard_time": 1750256425,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110384,
       "num": 110384,
       "word": "七根心简敖瑞鹏吓出土拨鼠叫",
@@ -2369,6 +2425,14 @@
       "onboard_time": 1750230442,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 108060,
+      "num": 108060,
+      "word": "山东人有自己的Labubu",
+      "onboard_time": 1750255763,
+      "rank": 48,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 107999,
@@ -2465,14 +2529,6 @@
       "onboard_time": 1750241180,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 99648,
-      "num": 464774,
-      "word": "可生食鸡蛋连客服都不建议生吃",
-      "onboard_time": 1750253482,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98568,
@@ -2577,6 +2633,14 @@
       "onboard_time": 1750162702,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94075,
+      "num": 211070,
+      "word": "中国空间站不断升级中",
+      "onboard_time": 1750255043,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93558,
@@ -2979,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60586,
+      "num": 211604,
+      "word": "胡兵时装周出发顶配老钱风",
+      "onboard_time": 1750255703,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 60044,
       "num": 60044,
       "word": "女子称劝导不文明观影反被扇巴掌",
@@ -3267,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35785,
+      "num": 1057268,
+      "word": "数读5月消费市场亮点",
+      "onboard_time": 1750253722,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35349,
       "num": 1009695,
       "word": "全民反诈公开课",
@@ -3379,20 +3459,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25309,
+      "num": 148747,
+      "word": "国补下苹果能成618最大赢家吗",
+      "onboard_time": 1750253843,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 25126,
       "num": 169036,
       "word": "下一站神都洛阳",
       "onboard_time": 1750237282,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 24954,
-      "num": 1057268,
-      "word": "数读5月消费市场亮点",
-      "onboard_time": 1750253722,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24847,
@@ -3505,14 +3585,6 @@
       "onboard_time": 1750228522,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 18692,
-      "num": 148747,
-      "word": "国补下苹果能成618最大赢家吗",
-      "onboard_time": 1750253843,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 18232,
@@ -3685,6 +3757,9 @@
     },
     {
       "word": "#习近平中亚行#"
+    },
+    {
+      "word": "#习近平回到北京#"
     }
   ]
 }
