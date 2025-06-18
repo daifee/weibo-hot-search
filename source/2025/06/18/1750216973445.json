@@ -1,0 +1,410 @@
+{
+  "runTime": 1750216973445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1723750,
+        "num": 1723750,
+        "word": "网友实名举报李雪琴公司财务问题",
+        "onboard_time": 1750212620,
+        "rank": 0,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 810171,
+        "num": 810171,
+        "word": "T3司机猥亵大三女生被行拘5日",
+        "onboard_time": 1750210579,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20408,
+        "num": 741544,
+        "word": "网警守护618购物安全",
+        "onboard_time": 1750208841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 954929,
+        "num": 738836,
+        "word": "中餐厅9合伙人阵容官宣",
+        "onboard_time": 1750215142,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724943,
+        "num": 724943,
+        "word": "伊朗向以色列发射高超音速导弹",
+        "onboard_time": 1750209261,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 622463,
+        "num": 622463,
+        "word": "刘强东回应写遗书赴汶川灾区",
+        "onboard_time": 1750214120,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 698924,
+        "num": 619010,
+        "word": "壹心娱乐官宣张雪迎",
+        "onboard_time": 1750214721,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614291,
+        "num": 614291,
+        "word": "救护车收费2.8万家属问能不能便宜点",
+        "onboard_time": 1750175483,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490039,
+        "num": 490039,
+        "word": "李雪琴 老谢",
+        "onboard_time": 1750203919,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92210,
+        "num": 488632,
+        "word": "洛杉矶宣布解除宵禁",
+        "onboard_time": 1750211541,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1033229,
+        "num": 483475,
+        "word": "高以翔生前女友Bella结婚",
+        "onboard_time": 1750215741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92904,
+        "num": 481004,
+        "word": "苏超票难抢但好友券简单啊",
+        "onboard_time": 1750212499,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 695202,
+        "num": 478578,
+        "word": "黑魔仙小月扮演者公开讨债",
+        "onboard_time": 1750204760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476408,
+        "num": 476408,
+        "word": "特朗普发文要求伊朗无条件投降",
+        "onboard_time": 1750204280,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314645,
+        "num": 442511,
+        "word": "官方通报网传一男子将孩童关铁笼中",
+        "onboard_time": 1750215800,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 327252,
+        "num": 423829,
+        "word": "女子称跟猥亵司机住同小区怕被报复",
+        "onboard_time": 1750209021,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417811,
+        "num": 417811,
+        "word": "郑中基回应离婚8000元赡养费传言",
+        "onboard_time": 1750213100,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103431,
+        "num": 405293,
+        "word": "雷佳音喊话每日鲜语太神了",
+        "onboard_time": 1750216041,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398822,
+        "num": 398822,
+        "word": "朱丹给何猷君说懵了",
+        "onboard_time": 1750205060,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51076,
+        "num": 384495,
+        "word": "全员解聘医院曾因漏诊致患者截肢",
+        "onboard_time": 1750215741,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370817,
+        "num": 370817,
+        "word": "杨威晒儿子在香港上学生活费",
+        "onboard_time": 1750206501,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329629,
+        "num": 329629,
+        "word": "奔跑吧澳门",
+        "onboard_time": 1750212440,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44550,
+        "num": 312835,
+        "word": "京东618",
+        "onboard_time": 1750215981,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 311248,
+        "num": 311248,
+        "word": "以色列",
+        "onboard_time": 1750211659,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79242,
+        "num": 245572,
+        "word": "如何判断自己是否适合学医",
+        "onboard_time": 1750216581,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238405,
+        "num": 238405,
+        "word": "迪迪不畏致歉",
+        "onboard_time": 1750203020,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234841,
+        "num": 234841,
+        "word": "中餐厅9官宣定档",
+        "onboard_time": 1750215201,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217247,
+        "num": 217247,
+        "word": "文泰一公审直播",
+        "onboard_time": 1750212980,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200172,
+        "num": 217147,
+        "word": "男子将孩童关铁笼不存在拐骗情况",
+        "onboard_time": 1750215621,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 40398,
+        "num": 217052,
+        "word": "逃离德黑兰但堵车",
+        "onboard_time": 1750215741,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49462,
+        "num": 216946,
+        "word": "为什么说学医可以闭眼选上海交大",
+        "onboard_time": 1750215682,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236945,
+        "num": 216815,
+        "word": "美媒称特朗普正考虑加入对伊空袭",
+        "onboard_time": 1750212679,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216704,
+        "num": 216704,
+        "word": "医生称荔枝壳煮水是天然降火药",
+        "onboard_time": 1750211419,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205435,
+        "num": 205435,
+        "word": "女子以为腹胀去医院竟当场生下男婴",
+        "onboard_time": 1750216761,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189427,
+        "num": 189427,
+        "word": "原神开门",
+        "onboard_time": 1750215922,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188881,
+        "num": 188881,
+        "word": "刘嘉玲晒与周星驰合照",
+        "onboard_time": 1750214600,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187084,
+        "num": 187084,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1750207341,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180994,
+        "num": 180994,
+        "word": "小偷来了都得玩三天",
+        "onboard_time": 1750212560,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178333,
+        "num": 178333,
+        "word": "8项重磅金融政策发布",
+        "onboard_time": 1750212861,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58448,
+        "num": 177733,
+        "word": "国际乒联最新世界排名发布",
+        "onboard_time": 1750216461,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177214,
+        "num": 177214,
+        "word": "禁止违规吃喝不等同于禁止吃喝",
+        "onboard_time": 1750210880,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175057,
+        "num": 175057,
+        "word": "李雪琴名下关联6家企业5家注销",
+        "onboard_time": 1750213941,
+        "rank": 41,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 173466,
+        "num": 173466,
+        "word": "10省区市有大暴雨",
+        "onboard_time": 1750213341,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171797,
+        "num": 171797,
+        "word": "李雪琴被举报财务有问题公司已注销",
+        "onboard_time": 1750212861,
+        "rank": 43,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 169747,
+        "num": 169747,
+        "word": "上海阿婆在家照镜子被转走近400万",
+        "onboard_time": 1750205421,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163494,
+        "num": 163494,
+        "word": "刘强东称从快递员到自己只隔了5层",
+        "onboard_time": 1750214421,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151440,
+        "num": 151440,
+        "word": "妹夫一家殴打姨姐欲开挖机推其房子",
+        "onboard_time": 1750216041,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150320,
+        "num": 150320,
+        "word": "陈哲远 把妹王",
+        "onboard_time": 1750207280,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145663,
+        "num": 145663,
+        "word": "蔡文静让汪峰丢失一世英名",
+        "onboard_time": 1750216702,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141375,
+        "num": 141375,
+        "word": "以伊冲突胡塞将出手白宫拟参战",
+        "onboard_time": 1750216461,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席第二届中国—中亚峰会#"
+    }
+  }
+}

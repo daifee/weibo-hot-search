@@ -1,7 +1,15 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750213514250,
+  "endTime": 1750216973445,
   "band_list": [
+    {
+      "raw_hot": 1723750,
+      "num": 1723750,
+      "word": "网友实名举报李雪琴公司财务问题",
+      "onboard_time": 1750212620,
+      "rank": 9,
+      "category": "艺人,民生新闻"
+    },
     {
       "raw_hot": 1592159,
       "num": 1592159,
@@ -28,11 +36,27 @@
     },
     {
       "raw_hot": 1047960,
-      "num": 409090,
+      "num": 478578,
       "word": "黑魔仙小月扮演者公开讨债",
       "onboard_time": 1750204760,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1033229,
+      "num": 483475,
+      "word": "高以翔生前女友Bella结婚",
+      "onboard_time": 1750215741,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 954929,
+      "num": 738836,
+      "word": "中餐厅9合伙人阵容官宣",
+      "onboard_time": 1750215142,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 892759,
@@ -51,12 +75,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 737416,
-      "num": 737416,
+      "raw_hot": 810171,
+      "num": 810171,
       "word": "T3司机猥亵大三女生被行拘5日",
       "onboard_time": 1750210579,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 698924,
+      "num": 619010,
+      "word": "壹心娱乐官宣张雪迎",
+      "onboard_time": 1750214721,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 683331,
@@ -65,6 +97,14 @@
       "onboard_time": 1750209021,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 622463,
+      "num": 622463,
+      "word": "刘强东回应写遗书赴汶川灾区",
+      "onboard_time": 1750214120,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 575608,
@@ -99,19 +139,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476408,
+      "num": 476408,
+      "word": "特朗普发文要求伊朗无条件投降",
+      "onboard_time": 1750204280,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 461410,
       "num": 406916,
       "word": "伊朗公布击落以色列F35战机画面",
       "onboard_time": 1750173922,
       "rank": 12,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 453999,
-      "num": 453999,
-      "word": "特朗普发文要求伊朗无条件投降",
-      "onboard_time": 1750204280,
-      "rank": 4,
       "category": "国际时政"
     },
     {
@@ -128,6 +168,14 @@
       "word": "陈哲远 把妹王",
       "onboard_time": 1750207280,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 417811,
+      "num": 417811,
+      "word": "郑中基回应离婚8000元赡养费传言",
+      "onboard_time": 1750213100,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -225,6 +273,22 @@
       "onboard_time": 1750171584,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 314645,
+      "num": 442511,
+      "word": "官方通报网传一男子将孩童关铁笼中",
+      "onboard_time": 1750215800,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 311248,
+      "num": 311248,
+      "word": "以色列",
+      "onboard_time": 1750211659,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 301454,
@@ -331,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236945,
+      "num": 216815,
+      "word": "美媒称特朗普正考虑加入对伊空袭",
+      "onboard_time": 1750212679,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 235895,
       "num": 192645,
       "word": "马斯克公布尿检报告",
       "onboard_time": 1750202117,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 234841,
+      "num": 234841,
+      "word": "中餐厅9官宣定档",
+      "onboard_time": 1750215201,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 229852,
@@ -363,6 +443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217247,
+      "num": 217247,
+      "word": "文泰一公审直播",
+      "onboard_time": 1750212980,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216704,
+      "num": 216704,
+      "word": "医生称荔枝壳煮水是天然降火药",
+      "onboard_time": 1750211419,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 215388,
       "num": 215388,
       "word": "张艺兴直播上英语课",
@@ -379,12 +475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205435,
+      "num": 205435,
+      "word": "女子以为腹胀去医院竟当场生下男婴",
+      "onboard_time": 1750216761,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201158,
       "num": 201158,
       "word": "奥林匹克日玩法孙颖莎创意绝了",
       "onboard_time": 1750212560,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200172,
+      "num": 217147,
+      "word": "男子将孩童关铁笼不存在拐骗情况",
+      "onboard_time": 1750215621,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 194319,
@@ -395,6 +507,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189427,
+      "num": 189427,
+      "word": "原神开门",
+      "onboard_time": 1750215922,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 188881,
+      "num": 188881,
+      "word": "刘嘉玲晒与周星驰合照",
+      "onboard_time": 1750214600,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182509,
       "num": 274947,
       "word": "管乐演我见张艺兴",
@@ -403,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175687,
-      "num": 175687,
-      "word": "以色列",
-      "onboard_time": 1750211659,
-      "rank": 27,
-      "category": "海外新闻"
+      "raw_hot": 180994,
+      "num": 180994,
+      "word": "小偷来了都得玩三天",
+      "onboard_time": 1750212560,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 175622,
@@ -427,12 +555,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169750,
-      "num": 169750,
-      "word": "郑中基回应离婚8000元赡养费传言",
-      "onboard_time": 1750213100,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 175057,
+      "num": 175057,
+      "word": "李雪琴名下关联6家企业5家注销",
+      "onboard_time": 1750213941,
+      "rank": 41,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 173466,
+      "num": 173466,
+      "word": "10省区市有大暴雨",
+      "onboard_time": 1750213341,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171797,
+      "num": 405856,
+      "word": "李雪琴被举报财务有问题公司已注销",
+      "onboard_time": 1750212861,
+      "rank": 14,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 165788,
@@ -459,20 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160541,
-      "num": 160541,
-      "word": "美媒称特朗普正考虑加入对伊空袭",
-      "onboard_time": 1750212679,
-      "rank": 33,
-      "category": "国际时政"
+      "raw_hot": 163494,
+      "num": 163494,
+      "word": "刘强东称从快递员到自己只隔了5层",
+      "onboard_time": 1750214421,
+      "rank": 45,
+      "category": "互联网"
     },
     {
-      "raw_hot": 154461,
-      "num": 154461,
-      "word": "小偷来了都得玩三天",
-      "onboard_time": 1750212560,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 151440,
+      "num": 151440,
+      "word": "妹夫一家殴打姨姐欲开挖机推其房子",
+      "onboard_time": 1750216041,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149485,
@@ -481,6 +625,22 @@
       "onboard_time": 1750147940,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145663,
+      "num": 145663,
+      "word": "蔡文静让汪峰丢失一世英名",
+      "onboard_time": 1750216702,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141375,
+      "num": 141375,
+      "word": "以伊冲突胡塞将出手白宫拟参战",
+      "onboard_time": 1750216461,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140405,
@@ -539,28 +699,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130529,
-      "num": 130529,
-      "word": "文泰一公审直播",
-      "onboard_time": 1750212980,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126494,
       "num": 126494,
       "word": "哈梅内伊称必须强力打击以色列",
       "onboard_time": 1750209981,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 123689,
-      "num": 409300,
-      "word": "网友实名举报李雪琴公司财务问题",
-      "onboard_time": 1750212620,
-      "rank": 9,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 122743,
@@ -619,14 +763,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112255,
-      "num": 112255,
-      "word": "医生称荔枝壳煮水是天然降火药",
-      "onboard_time": 1750211419,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111943,
       "num": 111943,
       "word": "伊朗准备好领导人遇刺情况下的计划",
@@ -667,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105793,
-      "num": 105793,
-      "word": "10省区市有大暴雨",
-      "onboard_time": 1750213341,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104830,
       "num": 104830,
       "word": "单依纯珠玉舞台好美",
@@ -689,6 +817,14 @@
       "onboard_time": 1750176802,
       "rank": 33,
       "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 103431,
+      "num": 405293,
+      "word": "雷佳音喊话每日鲜语太神了",
+      "onboard_time": 1750216041,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 101989,
@@ -716,7 +852,7 @@
     },
     {
       "raw_hot": 97397,
-      "num": 97397,
+      "num": 488632,
       "word": "洛杉矶宣布解除宵禁",
       "onboard_time": 1750211541,
       "rank": 45,
@@ -779,6 +915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 92904,
+      "num": 481004,
+      "word": "苏超票难抢但好友券简单啊",
+      "onboard_time": 1750212499,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92563,
       "num": 96663,
       "word": "十个勤天方报警",
@@ -817,6 +961,14 @@
       "onboard_time": 1750174461,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79242,
+      "num": 245572,
+      "word": "如何判断自己是否适合学医",
+      "onboard_time": 1750216581,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75017,
@@ -923,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61985,
-      "num": 407061,
-      "word": "苏超票难抢但好友券简单啊",
-      "onboard_time": 1750212499,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 61440,
       "num": 61440,
       "word": "湖南将承办2029年第十六届全运会",
@@ -961,6 +1105,14 @@
       "onboard_time": 1750179858,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58448,
+      "num": 177733,
+      "word": "国际乒联最新世界排名发布",
+      "onboard_time": 1750216461,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 56325,
@@ -1003,12 +1155,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51076,
+      "num": 384495,
+      "word": "全员解聘医院曾因漏诊致患者截肢",
+      "onboard_time": 1750215741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49462,
+      "num": 216946,
+      "word": "为什么说学医可以闭眼选上海交大",
+      "onboard_time": 1750215682,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 45061,
       "num": 67508,
       "word": "郑钦文温网5号种子",
       "onboard_time": 1750203439,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44550,
+      "num": 312835,
+      "word": "京东618",
+      "onboard_time": 1750215981,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 41332,
@@ -1027,6 +1203,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 40398,
+      "num": 217052,
+      "word": "逃离德黑兰但堵车",
+      "onboard_time": 1750215741,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36656,
       "num": 200665,
       "word": "商家回应快递盒印小狗快递员配送",
@@ -1041,14 +1225,6 @@
       "onboard_time": 1750207822,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35744,
-      "num": 405856,
-      "word": "李雪琴被举报财务有问题公司已注销",
-      "onboard_time": 1750212861,
-      "rank": 14,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 34762,
