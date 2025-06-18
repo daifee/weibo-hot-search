@@ -1,7 +1,15 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750264437858,
+  "endTime": 1750265467360,
   "band_list": [
+    {
+      "raw_hot": 1489486,
+      "num": 1489486,
+      "word": "伊朗全国大面积断网",
+      "onboard_time": 1750262362,
+      "rank": 1,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 1433387,
       "num": 1433387,
@@ -9,14 +17,6 @@
       "onboard_time": 1750263140,
       "rank": 0,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 1388844,
-      "num": 1388844,
-      "word": "伊朗全国大面积断网",
-      "onboard_time": 1750262362,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 837505,
@@ -49,6 +49,14 @@
       "onboard_time": 1750261642,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 481262,
+      "num": 481262,
+      "word": "女子回应22年化妆不卸妆严重过敏",
+      "onboard_time": 1750264640,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 472393,
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248109,
+      "num": 248109,
+      "word": "以色列民众问战争到底是为了什么",
+      "onboard_time": 1750263980,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241503,
       "num": 241503,
       "word": "美轰炸机已部署至西班牙军事基地",
@@ -177,6 +193,14 @@
       "onboard_time": 1750243761,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167806,
+      "num": 167806,
+      "word": "爱犬被毒死北京女子辞职追凶",
+      "onboard_time": 1750263740,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167002,
@@ -227,12 +251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121134,
+      "num": 121134,
+      "word": "女子22年化妆不卸妆脸红成关公",
+      "onboard_time": 1750264640,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "伊朗绞刑处死内鬼",
       "onboard_time": 1750233141,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109558,
+      "num": 109558,
+      "word": "韦东奕与王虹同框讨论数学问题",
+      "onboard_time": 1750264640,
+      "rank": 32,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 109531,
@@ -251,27 +291,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 107167,
-      "num": 107167,
-      "word": "爱犬被毒死北京女子辞职追凶",
-      "onboard_time": 1750263740,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104706,
       "num": 104706,
       "word": "特朗普称伊朗已与美方取得联系",
       "onboard_time": 1750258704,
       "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 104137,
-      "num": 104137,
-      "word": "以色列民众问战争到底是为了什么",
-      "onboard_time": 1750263980,
-      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -395,6 +419,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70425,
+      "num": 70425,
+      "word": "王一博任游山野",
+      "onboard_time": 1750265299,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65698,
+      "num": 65698,
+      "word": "Melody整盒端labubu",
+      "onboard_time": 1750265179,
+      "rank": 46,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 30256,
       "num": 964900,
       "word": "数读5月消费市场亮点",
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#习近平中亚行#"
+    },
+    {
+      "word": "#习近平回到北京#"
     }
   ]
 }
