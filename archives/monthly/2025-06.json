@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750246747185,
+  "endTime": 1750251240262,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -257,6 +257,14 @@
       "onboard_time": 1749288745,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3561208,
+      "num": 246059,
+      "word": "伊朗 今晚大事",
+      "onboard_time": 1750246883,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 3545942,
@@ -2267,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1172619,
+      "num": 961554,
+      "word": "程十安停更原因",
+      "onboard_time": 1750246161,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1172032,
       "num": 388383,
       "word": "400块的鞋犹豫了三年",
@@ -3129,6 +3145,14 @@
       "onboard_time": 1749051861,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 986721,
+      "num": 262647,
+      "word": "宋慧乔长发回归",
+      "onboard_time": 1750249581,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 983657,
@@ -5217,6 +5241,14 @@
       "onboard_time": 1749303503,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 713512,
+      "num": 457181,
+      "word": "哈梅内伊",
+      "onboard_time": 1750061659,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 713433,
@@ -7827,6 +7859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 539419,
+      "num": 539419,
+      "word": "韦神食堂吃饭被多人轮番拍照",
+      "onboard_time": 1750248622,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537699,
       "num": 514095,
       "word": "那英全开麦",
@@ -8065,14 +8105,6 @@
       "onboard_time": 1749561382,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 526028,
-      "num": 457181,
-      "word": "哈梅内伊",
-      "onboard_time": 1750061659,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 525370,
@@ -9665,14 +9697,6 @@
       "onboard_time": 1749038240,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 454976,
-      "num": 277413,
-      "word": "程十安停更原因",
-      "onboard_time": 1750246161,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 454777,
@@ -14443,6 +14467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 310866,
+      "num": 255090,
+      "word": "6岁女孩翻出21楼想给家人惊喜",
+      "onboard_time": 1750244901,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310663,
       "num": 310663,
       "word": "黑匣子初步显示印度坠机未能正常起飞",
@@ -16179,6 +16211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 278368,
+      "num": 249733,
+      "word": "白敬亭宋轶同款茶几地毯",
+      "onboard_time": 1750245921,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278182,
       "num": 278182,
       "word": "蔡依林新专辑PLEASURE",
@@ -16681,6 +16721,14 @@
       "onboard_time": 1749314302,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270111,
+      "num": 270111,
+      "word": "伊朗媒体称将发生世界铭记的大事",
+      "onboard_time": 1750250181,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 270077,
@@ -18161,6 +18209,14 @@
       "onboard_time": 1749450262,
       "rank": 36,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 249090,
+      "num": 249090,
+      "word": "林高远陪弟弟参加毕业典礼",
+      "onboard_time": 1750248141,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 248929,
@@ -19715,6 +19771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229364,
+      "num": 229364,
+      "word": "柯淳把余茵惹生气了",
+      "onboard_time": 1750245863,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229347,
       "num": 229347,
       "word": "李隼嫁女四大奥运乒乓冠军现身搂席",
@@ -19817,14 +19881,6 @@
       "onboard_time": 1749303984,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227889,
-      "num": 227889,
-      "word": "白敬亭宋轶同款茶几地毯",
-      "onboard_time": 1750245921,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 227732,
@@ -20553,14 +20609,6 @@
       "onboard_time": 1749299722,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221849,
-      "num": 221849,
-      "word": "柯淳把余茵惹生气了",
-      "onboard_time": 1750245863,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 221836,
@@ -21529,6 +21577,14 @@
       "onboard_time": 1749539060,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213107,
+      "num": 163954,
+      "word": "远嫁伊朗的华人女子连夜离开",
+      "onboard_time": 1750250541,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 213056,
@@ -24147,6 +24203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198920,
+      "num": 252550,
+      "word": "曹骏回应翻红后机会变多",
+      "onboard_time": 1750249581,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198873,
       "num": 198873,
       "word": "打印店用微信传输要留意个人隐私",
@@ -24545,14 +24609,6 @@
       "onboard_time": 1748949561,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196920,
-      "num": 196920,
-      "word": "6岁女孩翻出21楼想给家人惊喜",
-      "onboard_time": 1750244901,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196905,
@@ -25185,6 +25241,14 @@
       "onboard_time": 1750245801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193583,
+      "num": 193583,
+      "word": "范丞丞 去年骂的今年才问",
+      "onboard_time": 1750249701,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 193489,
@@ -27209,6 +27273,14 @@
       "onboard_time": 1749723682,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 184476,
+      "num": 248153,
+      "word": "云南体彩回应1000万彩票被洗衣机洗",
+      "onboard_time": 1750247001,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184448,
@@ -30689,6 +30761,14 @@
       "onboard_time": 1749776423,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 167993,
+      "num": 167993,
+      "word": "临江仙超点",
+      "onboard_time": 1750247300,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 167901,
@@ -35179,6 +35259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149772,
+      "num": 149772,
+      "word": "韩女星丧子后试管怀上二胎",
+      "onboard_time": 1750250302,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149748,
       "num": 149748,
       "word": "3分钱就能买半斤荔枝",
@@ -35289,6 +35377,14 @@
       "onboard_time": 1749223104,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149358,
+      "num": 149358,
+      "word": "刘亦菲出道23年只拍过9部剧",
+      "onboard_time": 1750246340,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 149320,
@@ -36427,6 +36523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145247,
+      "num": 145247,
+      "word": "娜扎护肤 从哪一步开始是素颜",
+      "onboard_time": 1750249161,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145241,
       "num": 145241,
       "word": "杨洋的颜值在北欧算帅吗",
@@ -36601,6 +36705,14 @@
       "onboard_time": 1748927781,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144684,
+      "num": 144684,
+      "word": "白敬亭不是商务全是商务",
+      "onboard_time": 1750248622,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 144679,
@@ -38555,6 +38667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137877,
+      "num": 137877,
+      "word": "被单依纯美的挪不开眼睛",
+      "onboard_time": 1750249341,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137835,
       "num": 137835,
       "word": "我同意韩红对音综出手",
@@ -40155,6 +40275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132483,
+      "num": 132483,
+      "word": "伊以战争即将进入第二阶段",
+      "onboard_time": 1750248862,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132478,
       "num": 205689,
       "word": "王楚钦秀背后发球",
@@ -41675,6 +41803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128003,
+      "num": 128003,
+      "word": "苏超常州vs南京票比labubu还难抢",
+      "onboard_time": 1750248141,
+      "rank": 40,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 127958,
       "num": 315265,
       "word": "夸克发布首个高考志愿大模型",
@@ -42041,6 +42177,14 @@
       "onboard_time": 1749695781,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126405,
+      "num": 126405,
+      "word": "武艺 我姐已经三天没有打我了",
+      "onboard_time": 1750251022,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 126388,
@@ -42521,14 +42665,6 @@
       "onboard_time": 1750224623,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124596,
-      "num": 124596,
-      "word": "刘亦菲出道23年只拍过9部剧",
-      "onboard_time": 1750246340,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 124593,
@@ -46219,6 +46355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 111358,
+      "num": 111358,
+      "word": "以色列防空成本一晚近3亿美元",
+      "onboard_time": 1750249402,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111334,
       "num": 111334,
       "word": "国外旅游的伊朗人冒险回国",
@@ -48115,6 +48259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102093,
+      "num": 102093,
+      "word": "ENHYPEN将为避让BTS提早回归",
+      "onboard_time": 1750249281,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102012,
       "num": 259093,
       "word": "超5万人参与所谓医疗投资被骗近十亿",
@@ -49457,6 +49609,14 @@
       "onboard_time": 1748747121,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95465,
+      "num": 144882,
+      "word": "朱丹小时候没有感受过父爱",
+      "onboard_time": 1750251141,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 95446,
@@ -52595,6 +52755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77592,
+      "num": 111627,
+      "word": "伊朗官员称正考虑是否封锁霍尔木兹海峡",
+      "onboard_time": 1750251202,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77526,
       "num": 77526,
       "word": "九门",
@@ -55305,6 +55473,14 @@
       "onboard_time": 1749436225,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61173,
+      "num": 265277,
+      "word": "618当天果然还是天猫更便宜",
+      "onboard_time": 1750248322,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 60880,
@@ -65457,6 +65633,14 @@
       "onboard_time": 1750145782,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16480,
+      "num": 246737,
+      "word": "为什么胃能敏锐感知生冷食物",
+      "onboard_time": 1750249942,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16450,

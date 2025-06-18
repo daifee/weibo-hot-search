@@ -1,7 +1,15 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750246747185,
+  "endTime": 1750251240262,
   "band_list": [
+    {
+      "raw_hot": 3561208,
+      "num": 246059,
+      "word": "伊朗 今晚大事",
+      "onboard_time": 1750246883,
+      "rank": 20,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 3545942,
       "num": 487097,
@@ -331,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1172619,
+      "num": 961554,
+      "word": "程十安停更原因",
+      "onboard_time": 1750246161,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1158022,
       "num": 1185283,
       "word": "男子中1000万彩票掉洗衣机被漂洗",
@@ -521,6 +537,14 @@
       "onboard_time": 1750239560,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 986721,
+      "num": 262647,
+      "word": "宋慧乔长发回归",
+      "onboard_time": 1750249581,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 974312,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1750048582,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 713512,
+      "num": 457181,
+      "word": "哈梅内伊",
+      "onboard_time": 1750061659,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 713433,
@@ -1723,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 539419,
+      "num": 539419,
+      "word": "韦神食堂吃饭被多人轮番拍照",
+      "onboard_time": 1750248622,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537699,
       "num": 514095,
       "word": "那英全开麦",
@@ -1777,14 +1817,6 @@
       "onboard_time": 1750236201,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 526028,
-      "num": 457181,
-      "word": "哈梅内伊",
-      "onboard_time": 1750061659,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 524263,
@@ -2113,14 +2145,6 @@
       "onboard_time": 1750150461,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 454976,
-      "num": 277413,
-      "word": "程十安停更原因",
-      "onboard_time": 1750246161,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 453612,
@@ -3107,6 +3131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310866,
+      "num": 255090,
+      "word": "6岁女孩翻出21楼想给家人惊喜",
+      "onboard_time": 1750244901,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310631,
       "num": 274131,
       "word": "张子墨管易烊千玺叫祖师爷",
@@ -3531,6 +3563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278368,
+      "num": 249733,
+      "word": "白敬亭宋轶同款茶几地毯",
+      "onboard_time": 1750245921,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277308,
       "num": 277308,
       "word": "郑钦文退出柏林赛",
@@ -3633,6 +3673,14 @@
       "onboard_time": 1750212200,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 270111,
+      "num": 270111,
+      "word": "伊朗媒体称将发生世界铭记的大事",
+      "onboard_time": 1750250181,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 269591,
@@ -3971,6 +4019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249090,
+      "num": 249090,
+      "word": "林高远陪弟弟参加毕业典礼",
+      "onboard_time": 1750248141,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248804,
       "num": 248804,
       "word": "格莱美提名歌手参加选秀无人熟知",
@@ -4275,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229364,
+      "num": 229364,
+      "word": "柯淳把余茵惹生气了",
+      "onboard_time": 1750245863,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228765,
       "num": 249359,
       "word": "披荆斩棘 镜头",
@@ -4296,14 +4360,6 @@
       "word": "贺峻霖 包的兄弟",
       "onboard_time": 1749978860,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 227889,
-      "num": 227889,
-      "word": "白敬亭宋轶同款茶几地毯",
-      "onboard_time": 1750245921,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -4451,14 +4507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221849,
-      "num": 221849,
-      "word": "柯淳把余茵惹生气了",
-      "onboard_time": 1750245863,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220821,
       "num": 481339,
       "word": "李雪琴方说法院见",
@@ -4593,6 +4641,14 @@
       "onboard_time": 1750131320,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213107,
+      "num": 163954,
+      "word": "远嫁伊朗的华人女子连夜离开",
+      "onboard_time": 1750250541,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 212771,
@@ -5059,6 +5115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198920,
+      "num": 252550,
+      "word": "曹骏回应翻红后机会变多",
+      "onboard_time": 1750249581,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198814,
       "num": 173930,
       "word": "刘忻张予曦郭碧婷3A景点",
@@ -5137,14 +5201,6 @@
       "onboard_time": 1750136181,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196920,
-      "num": 196920,
-      "word": "6岁女孩翻出21楼想给家人惊喜",
-      "onboard_time": 1750244901,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196220,
@@ -5305,6 +5361,14 @@
       "onboard_time": 1750245801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193583,
+      "num": 193583,
+      "word": "范丞丞 去年骂的今年才问",
+      "onboard_time": 1750249701,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 193365,
@@ -5657,6 +5721,14 @@
       "onboard_time": 1749980961,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184476,
+      "num": 248153,
+      "word": "云南体彩回应1000万彩票被洗衣机洗",
+      "onboard_time": 1750247001,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184413,
@@ -6497,6 +6569,14 @@
       "onboard_time": 1750223303,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167993,
+      "num": 167993,
+      "word": "临江仙超点",
+      "onboard_time": 1750247300,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 167676,
@@ -7411,12 +7491,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 149772,
+      "num": 149772,
+      "word": "韩女星丧子后试管怀上二胎",
+      "onboard_time": 1750250302,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149423,
       "num": 149423,
       "word": "巴黎航展将以色列武器一整个拉黑",
       "onboard_time": 1750126701,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 149358,
+      "num": 149358,
+      "word": "刘亦菲出道23年只拍过9部剧",
+      "onboard_time": 1750246340,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 149298,
@@ -7619,6 +7715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145247,
+      "num": 145247,
+      "word": "娜扎护肤 从哪一步开始是素颜",
+      "onboard_time": 1750249161,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 145219,
       "num": 145219,
       "word": "TVB为何沦落至此",
@@ -7633,6 +7737,14 @@
       "onboard_time": 1750161141,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144684,
+      "num": 144684,
+      "word": "白敬亭不是商务全是商务",
+      "onboard_time": 1750248622,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 144679,
@@ -8019,6 +8131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137877,
+      "num": 137877,
+      "word": "被单依纯美的挪不开眼睛",
+      "onboard_time": 1750249341,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137696,
       "num": 470652,
       "word": "以色列为何难以停止战争机器",
@@ -8033,6 +8153,14 @@
       "onboard_time": 1749962661,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137352,
+      "num": 137352,
+      "word": "王者荣耀",
+      "onboard_time": 1750247300,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 137251,
@@ -8384,6 +8512,14 @@
       "word": "伊朗深夜近200枚导弹飞向以色列画面",
       "onboard_time": 1749965780,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 132483,
+      "num": 132483,
+      "word": "伊以战争即将进入第二阶段",
+      "onboard_time": 1750248862,
+      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -8763,6 +8899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128003,
+      "num": 128003,
+      "word": "苏超常州vs南京票比labubu还难抢",
+      "onboard_time": 1750248141,
+      "rank": 40,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 127830,
       "num": 174094,
       "word": "中亚草原上的中国风车",
@@ -8873,6 +9017,14 @@
       "onboard_time": 1750083021,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126405,
+      "num": 126405,
+      "word": "武艺 我姐已经三天没有打我了",
+      "onboard_time": 1750251022,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 126388,
@@ -9009,14 +9161,6 @@
       "onboard_time": 1750224623,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124596,
-      "num": 124596,
-      "word": "刘亦菲出道23年只拍过9部剧",
-      "onboard_time": 1750246340,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 124477,
@@ -10075,6 +10219,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 111358,
+      "num": 111358,
+      "word": "以色列防空成本一晚近3亿美元",
+      "onboard_time": 1750249402,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111334,
       "num": 111334,
       "word": "国外旅游的伊朗人冒险回国",
@@ -10499,6 +10651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102093,
+      "num": 102093,
+      "word": "ENHYPEN将为避让BTS提早回归",
+      "onboard_time": 1750249281,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101989,
       "num": 101989,
       "word": "郑钦文将搭档德雷珀",
@@ -10785,6 +10945,14 @@
       "onboard_time": 1750040779,
       "rank": 41,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 95465,
+      "num": 144882,
+      "word": "朱丹小时候没有感受过父爱",
+      "onboard_time": 1750251141,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 95413,
@@ -11451,6 +11619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77592,
+      "num": 111627,
+      "word": "伊朗官员称正考虑是否封锁霍尔木兹海峡",
+      "onboard_time": 1750251202,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77373,
       "num": 182155,
       "word": "伊朗称袭击致以防空系统自相攻击",
@@ -11969,6 +12145,14 @@
       "onboard_time": 1750230741,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61173,
+      "num": 265277,
+      "word": "618当天果然还是天猫更便宜",
+      "onboard_time": 1750248322,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 60880,
@@ -14273,6 +14457,14 @@
       "onboard_time": 1750145782,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16480,
+      "num": 246737,
+      "word": "为什么胃能敏锐感知生冷食物",
+      "onboard_time": 1750249942,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16400,

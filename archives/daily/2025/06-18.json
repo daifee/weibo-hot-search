@@ -1,7 +1,15 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750246747185,
+  "endTime": 1750251240262,
   "band_list": [
+    {
+      "raw_hot": 3561208,
+      "num": 246059,
+      "word": "伊朗 今晚大事",
+      "onboard_time": 1750246883,
+      "rank": 20,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 3545942,
       "num": 487097,
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1172619,
+      "num": 961554,
+      "word": "程十安停更原因",
+      "onboard_time": 1750246161,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1158022,
       "num": 1185283,
       "word": "男子中1000万彩票掉洗衣机被漂洗",
@@ -153,6 +169,14 @@
       "onboard_time": 1750239560,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 986721,
+      "num": 262647,
+      "word": "宋慧乔长发回归",
+      "onboard_time": 1750249581,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 964364,
@@ -275,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 713512,
+      "num": 244629,
+      "word": "哈梅内伊",
+      "onboard_time": 1750249221,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 713433,
       "num": 508062,
       "word": "汪峰宁静就这么自然地牵手了",
@@ -387,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 539419,
+      "num": 539419,
+      "word": "韦神食堂吃饭被多人轮番拍照",
+      "onboard_time": 1750248622,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 535238,
       "num": 363607,
       "word": "爸爸1天3包烟16岁女儿确诊肺癌",
@@ -481,14 +521,6 @@
       "onboard_time": 1750217002,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 454976,
-      "num": 277413,
-      "word": "程十安停更原因",
-      "onboard_time": 1750246161,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 453612,
@@ -731,6 +763,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 310866,
+      "num": 255090,
+      "word": "6岁女孩翻出21楼想给家人惊喜",
+      "onboard_time": 1750244901,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301454,
       "num": 275327,
       "word": "彻查那尔那茜舆情是守护公平正义",
@@ -803,6 +843,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 278368,
+      "num": 249733,
+      "word": "白敬亭宋轶同款茶几地毯",
+      "onboard_time": 1750245921,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275267,
       "num": 428494,
       "word": "中国首批撤侨队伍从伊朗出发",
@@ -841,6 +889,14 @@
       "onboard_time": 1750212200,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 270111,
+      "num": 270111,
+      "word": "伊朗媒体称将发生世界铭记的大事",
+      "onboard_time": 1750250181,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 265011,
@@ -913,6 +969,14 @@
       "onboard_time": 1750223782,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 249090,
+      "num": 249090,
+      "word": "林高远陪弟弟参加毕业典礼",
+      "onboard_time": 1750248141,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 247330,
@@ -1011,20 +1075,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 229364,
+      "num": 229364,
+      "word": "柯淳把余茵惹生气了",
+      "onboard_time": 1750245863,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228873,
       "num": 228873,
       "word": "请伊朗以色列的中国公民联系使领馆",
       "onboard_time": 1750172662,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 227889,
-      "num": 227889,
-      "word": "白敬亭宋轶同款茶几地毯",
-      "onboard_time": 1750245921,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 227631,
@@ -1059,14 +1123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221849,
-      "num": 221849,
-      "word": "柯淳把余茵惹生气了",
-      "onboard_time": 1750245863,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220821,
       "num": 481339,
       "word": "李雪琴方说法院见",
@@ -1097,6 +1153,14 @@
       "onboard_time": 1750227681,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213107,
+      "num": 163954,
+      "word": "远嫁伊朗的华人女子连夜离开",
+      "onboard_time": 1750250541,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207446,
@@ -1211,20 +1275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198920,
+      "num": 252550,
+      "word": "曹骏回应翻红后机会变多",
+      "onboard_time": 1750249581,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198422,
       "num": 479476,
       "word": "消息称哈梅内伊之子成潜在接班人",
       "onboard_time": 1750235181,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 196920,
-      "num": 196920,
-      "word": "6岁女孩翻出21楼想给家人惊喜",
-      "onboard_time": 1750244901,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195604,
@@ -1257,6 +1321,14 @@
       "onboard_time": 1750245801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193583,
+      "num": 193583,
+      "word": "范丞丞 去年骂的今年才问",
+      "onboard_time": 1750249701,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 193365,
@@ -1321,6 +1393,14 @@
       "onboard_time": 1750220602,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184476,
+      "num": 248153,
+      "word": "云南体彩回应1000万彩票被洗衣机洗",
+      "onboard_time": 1750247001,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182509,
@@ -1499,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167993,
+      "num": 167993,
+      "word": "临江仙超点",
+      "onboard_time": 1750247300,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165941,
       "num": 165941,
       "word": "京东正式官宣进军酒旅",
@@ -1595,11 +1683,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149772,
+      "num": 149772,
+      "word": "韩女星丧子后试管怀上二胎",
+      "onboard_time": 1750250302,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149485,
       "num": 149485,
       "word": "能不能禁止刘亦菲和人打招呼",
       "onboard_time": 1750147940,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149358,
+      "num": 149358,
+      "word": "刘亦菲出道23年只拍过9部剧",
+      "onboard_time": 1750246340,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1667,6 +1771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145247,
+      "num": 145247,
+      "word": "娜扎护肤 从哪一步开始是素颜",
+      "onboard_time": 1750249161,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144684,
+      "num": 144684,
+      "word": "白敬亭不是商务全是商务",
+      "onboard_time": 1750248622,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144679,
       "num": 185938,
       "word": "拉莫斯破门",
@@ -1697,6 +1817,22 @@
       "onboard_time": 1750234823,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137877,
+      "num": 137877,
+      "word": "被单依纯美的挪不开眼睛",
+      "onboard_time": 1750249341,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137352,
+      "num": 137352,
+      "word": "王者荣耀",
+      "onboard_time": 1750247300,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 136484,
@@ -1779,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132483,
+      "num": 132483,
+      "word": "伊以战争即将进入第二阶段",
+      "onboard_time": 1750248862,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132390,
       "num": 132390,
       "word": "刘强东回应京东进军餐饮酒旅",
@@ -1827,12 +1971,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128003,
+      "num": 128003,
+      "word": "苏超常州vs南京票比labubu还难抢",
+      "onboard_time": 1750248141,
+      "rank": 40,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 126494,
       "num": 126494,
       "word": "哈梅内伊称必须强力打击以色列",
       "onboard_time": 1750209981,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126405,
+      "num": 126405,
+      "word": "武艺 我姐已经三天没有打我了",
+      "onboard_time": 1750251022,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 125630,
@@ -1857,14 +2017,6 @@
       "onboard_time": 1750224623,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124596,
-      "num": 124596,
-      "word": "刘亦菲出道23年只拍过9部剧",
-      "onboard_time": 1750246340,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 124145,
@@ -2019,6 +2171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111358,
+      "num": 111358,
+      "word": "以色列防空成本一晚近3亿美元",
+      "onboard_time": 1750249402,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111178,
       "num": 111178,
       "word": "以色列暂停飞往其他国家航班",
@@ -2147,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102093,
+      "num": 102093,
+      "word": "ENHYPEN将为避让BTS提早回归",
+      "onboard_time": 1750249281,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101989,
       "num": 101989,
       "word": "郑钦文将搭档德雷珀",
@@ -2232,6 +2400,14 @@
       "word": "宋妍霏的腿像开了长腿特效",
       "onboard_time": 1750168823,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95465,
+      "num": 144882,
+      "word": "朱丹小时候没有感受过父爱",
+      "onboard_time": 1750251141,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -2451,6 +2627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 77592,
+      "num": 111627,
+      "word": "伊朗官员称正考虑是否封锁霍尔木兹海峡",
+      "onboard_time": 1750251202,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75017,
       "num": 75017,
       "word": "黄友政陈熠vs张本智和张本美和",
@@ -2625,6 +2809,14 @@
       "onboard_time": 1750155802,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61173,
+      "num": 265277,
+      "word": "618当天果然还是天猫更便宜",
+      "onboard_time": 1750248322,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 60775,
@@ -3091,6 +3283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23372,
+      "num": 222836,
+      "word": "2025最新本科专业速查",
+      "onboard_time": 1750250361,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 22253,
       "num": 32709,
       "word": "福建泉州有消费者称买到早产鲜羊奶",
@@ -3169,6 +3369,14 @@
       "onboard_time": 1750230921,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16480,
+      "num": 246737,
+      "word": "为什么胃能敏锐感知生冷食物",
+      "onboard_time": 1750249942,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16400,
