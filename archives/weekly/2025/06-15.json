@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750289098788,
+  "endTime": 1750290030606,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -361,6 +361,14 @@
       "onboard_time": 1750224502,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1201918,
+      "num": 214285,
+      "word": "伊朗使用泥石导弹打击以色列",
+      "onboard_time": 1750288578,
+      "rank": 14,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 1196926,
@@ -963,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 801041,
+      "num": 801041,
+      "word": "顿顿离职",
+      "onboard_time": 1750288639,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 799843,
       "num": 438258,
       "word": "熬夜损失的寿命又靠熬夜弥补了回来",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1750148002,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 754145,
+      "num": 754145,
+      "word": "朱丹又又又为自己说错话而道歉了",
+      "onboard_time": 1750285336,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 752940,
@@ -1747,14 +1771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 557001,
-      "num": 557001,
-      "word": "朱丹又又又为自己说错话而道歉了",
-      "onboard_time": 1750285336,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 554325,
       "num": 554325,
       "word": "虞书欣说选大爆剧的主角",
@@ -2233,14 +2249,6 @@
       "onboard_time": 1750122801,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 462728,
-      "num": 462728,
-      "word": "顿顿离职",
-      "onboard_time": 1750288639,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 461769,
@@ -3827,6 +3835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 275231,
+      "num": 275231,
+      "word": "官方通报救护车跨省转运收费2.8万",
+      "onboard_time": 1750281793,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274643,
       "num": 274643,
       "word": "HLE无缘MSI",
@@ -4057,14 +4073,6 @@
       "onboard_time": 1750245863,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262762,
-      "num": 262762,
-      "word": "官方通报救护车跨省转运收费2.8万",
-      "onboard_time": 1750281793,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261979,
@@ -4417,6 +4425,14 @@
       "onboard_time": 1749993441,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239305,
+      "num": 169616,
+      "word": "00后女孩醉驾致3死受害者母亲发声",
+      "onboard_time": 1750259603,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 239171,
@@ -5715,6 +5731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191700,
+      "num": 191700,
+      "word": "美媒称特朗普批准攻击伊朗计划",
+      "onboard_time": 1750288578,
+      "rank": 19,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 191325,
       "num": 191325,
       "word": "张艺兴看看你的兵",
@@ -6089,14 +6113,6 @@
       "onboard_time": 1750134262,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182964,
-      "num": 169616,
-      "word": "00后女孩醉驾致3死受害者母亲发声",
-      "onboard_time": 1750259603,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182913,
@@ -7139,6 +7155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164220,
+      "num": 164220,
+      "word": "卢伟冰剧透小米YU7价格",
+      "onboard_time": 1750288639,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 164130,
       "num": 164130,
       "word": "Shanks替Knight澄清",
@@ -7539,6 +7563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157058,
+      "num": 157058,
+      "word": "幼童笼中赤裸涉事家庭3人天生残疾",
+      "onboard_time": 1750288639,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156975,
       "num": 156975,
       "word": "25岁男子刺伤一女子因其长得像前女友",
@@ -7905,6 +7937,14 @@
       "onboard_time": 1750155322,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149984,
+      "num": 149984,
+      "word": "美联储",
+      "onboard_time": 1750289660,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 149933,
@@ -8321,6 +8361,14 @@
       "onboard_time": 1749969860,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141533,
+      "num": 115276,
+      "word": "不许不知道Ctrl加E",
+      "onboard_time": 1750288578,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 141478,
@@ -8849,14 +8897,6 @@
       "onboard_time": 1750128621,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 133638,
-      "num": 133638,
-      "word": "卢伟冰剧透小米YU7价格",
-      "onboard_time": 1750288639,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 133400,
@@ -10211,14 +10251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 117980,
-      "num": 117980,
-      "word": "幼童笼中赤裸涉事家庭3人天生残疾",
-      "onboard_time": 1750288639,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117747,
       "num": 117747,
       "word": "周杰伦刘畊宏跳竹竿舞",
@@ -11155,6 +11187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104811,
+      "num": 104811,
+      "word": "美联储年内预计降息两次",
+      "onboard_time": 1750288880,
+      "rank": 33,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 104786,
       "num": 155406,
       "word": "联合国称不惜一切代价避免伊以失控",
@@ -11625,14 +11665,6 @@
       "onboard_time": 1750233441,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 93420,
-      "num": 93420,
-      "word": "美联储年内预计降息两次",
-      "onboard_time": 1750288880,
-      "rank": 33,
-      "category": "财经,国际时政"
     },
     {
       "raw_hot": 93404,
@@ -12147,6 +12179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80757,
+      "num": 80757,
+      "word": "沙溢真去给吉克隽逸送粉底液了",
+      "onboard_time": 1750287438,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 80609,
       "num": 155632,
       "word": "裁判视角下的梅西",
@@ -12161,6 +12201,14 @@
       "onboard_time": 1750124600,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80477,
+      "num": 80477,
+      "word": "顿顿回应离职",
+      "onboard_time": 1750289719,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80270,
@@ -12459,22 +12507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71098,
-      "num": 71098,
-      "word": "沙溢真去给吉克隽逸送粉底液了",
-      "onboard_time": 1750287438,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 70858,
-      "num": 70858,
-      "word": "不许不知道Ctrl加E",
-      "onboard_time": 1750288578,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 70811,
       "num": 322369,
       "word": "旅游博主江小隐景区溺亡朋友发声",
@@ -12745,14 +12777,6 @@
       "onboard_time": 1750288518,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 64341,
-      "num": 165676,
-      "word": "伊朗使用泥石导弹打击以色列",
-      "onboard_time": 1750288578,
-      "rank": 14,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 64166,
@@ -13521,6 +13545,14 @@
       "onboard_time": 1750047141,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 45627,
+      "num": 72819,
+      "word": "律师谈邓紫棋到底能不能重录旧歌",
+      "onboard_time": 1750273755,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 45434,
@@ -14419,14 +14451,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 28993,
-      "num": 72819,
-      "word": "律师谈邓紫棋到底能不能重录旧歌",
-      "onboard_time": 1750273755,
-      "rank": 9,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 28929,
       "num": 28929,
       "word": "汪苏泷珍珠套装2.0",
@@ -14851,14 +14875,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23214,
-      "num": 142429,
-      "word": "美媒称特朗普批准攻击伊朗计划",
-      "onboard_time": 1750288578,
-      "rank": 19,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 22959,
       "num": 22959,
       "word": "张杰电影之夜vlog",
@@ -15123,6 +15139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19038,
+      "num": 160093,
+      "word": "伊朗代表说特朗普撒谎",
+      "onboard_time": 1750289780,
+      "rank": 16,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 19025,
       "num": 50682,
       "word": "车圈祝贺叶一飞首夺勒芒冠军",
@@ -15217,6 +15241,14 @@
       "onboard_time": 1750230921,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16963,
+      "num": 115552,
+      "word": "伊朗发射高超音速导弹",
+      "onboard_time": 1750289780,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 16763,
