@@ -1,0 +1,410 @@
+{
+  "runTime": 1750242518966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1204443,
+        "num": 1204443,
+        "word": "崂山可乐",
+        "onboard_time": 1750235002,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1275909,
+        "num": 1076651,
+        "word": "朱丹 我们从未让女儿留级",
+        "onboard_time": 1750231041,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22064,
+        "num": 897622,
+        "word": "8项重磅金融政策发布",
+        "onboard_time": 1750212861,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 864734,
+        "num": 864734,
+        "word": "网易云音乐回应邓紫棋重录版下架",
+        "onboard_time": 1750242021,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 806365,
+        "num": 806365,
+        "word": "特朗普手机",
+        "onboard_time": 1750238781,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170697,
+        "num": 515489,
+        "word": "Labubu在美国二级市场最高炒至上千美元",
+        "onboard_time": 1750233921,
+        "rank": 5,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 508792,
+        "num": 508792,
+        "word": "中方回应特朗普要求伊朗无条件投降",
+        "onboard_time": 1750236741,
+        "rank": 6,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 352038,
+        "num": 352038,
+        "word": "刘强东称过去5年是京东失去的5年",
+        "onboard_time": 1750238061,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 673199,
+        "num": 343082,
+        "word": "邓紫棋 我不会下架歌曲",
+        "onboard_time": 1750239560,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152271,
+        "num": 338502,
+        "word": "溺亡网红博主江小隐是家中独子",
+        "onboard_time": 1750240941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673269,
+        "num": 328581,
+        "word": "伊朗绞刑处死内鬼",
+        "onboard_time": 1750233141,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 386311,
+        "num": 315506,
+        "word": "张杰 一觉醒来我老婆不是我老婆了",
+        "onboard_time": 1750235902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309668,
+        "num": 309668,
+        "word": "谢娜都结婚了 他怎么不早点说啊",
+        "onboard_time": 1750220302,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279318,
+        "num": 279318,
+        "word": "张婧仪 朱丹女儿待遇",
+        "onboard_time": 1750234702,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219898,
+        "num": 276396,
+        "word": "以色列防空系统或仅能再撑12天",
+        "onboard_time": 1750240880,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237317,
+        "num": 268351,
+        "word": "七根心简 评分",
+        "onboard_time": 1750239381,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220718,
+        "num": 258687,
+        "word": "谢娜回应张杰怎么不早点说",
+        "onboard_time": 1750233562,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95129,
+        "num": 249854,
+        "word": "苏炳添百米跑11秒37未进决赛",
+        "onboard_time": 1750234942,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34380,
+        "num": 243528,
+        "word": "原神剧情伏笔回收",
+        "onboard_time": 1750239263,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242006,
+        "num": 242006,
+        "word": "以色列袭击已致伊朗585死1326伤",
+        "onboard_time": 1750226301,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 329270,
+        "num": 239768,
+        "word": "爸爸1天3包烟16岁女儿确诊肺癌",
+        "onboard_time": 1750233262,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192823,
+        "num": 236890,
+        "word": "老谢再发视频质问李雪琴",
+        "onboard_time": 1750241122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72365,
+        "num": 236666,
+        "word": "中方敦促七国集团多做正事",
+        "onboard_time": 1750242201,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236647,
+        "num": 236647,
+        "word": "伊朗袭击致以色列24死逾1300伤",
+        "onboard_time": 1750226241,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202064,
+        "num": 202064,
+        "word": "临江仙",
+        "onboard_time": 1750241661,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198617,
+        "num": 198617,
+        "word": "李雪琴方声明",
+        "onboard_time": 1750227141,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119675,
+        "num": 198098,
+        "word": "女子以为腹胀去医院竟当场生下男婴",
+        "onboard_time": 1750216761,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207675,
+        "num": 197134,
+        "word": "周鹤年退团",
+        "onboard_time": 1750233441,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100126,
+        "num": 196865,
+        "word": "李永乐解析玄戒O1有多牛",
+        "onboard_time": 1750241180,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83165,
+        "num": 195749,
+        "word": "楼下称楼上养鸽子导致房子贬值30万",
+        "onboard_time": 1750240941,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203145,
+        "num": 195601,
+        "word": "文泰一性侵第二天生日直播",
+        "onboard_time": 1750231280,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19114,
+        "num": 194547,
+        "word": "梦舟载人飞船研制进展顺利",
+        "onboard_time": 1750239022,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194112,
+        "num": 194112,
+        "word": "穷怕了的人总是活得小心翼翼",
+        "onboard_time": 1750241540,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165568,
+        "num": 165568,
+        "word": "伊朗总统重申伊朗不寻求核武器",
+        "onboard_time": 1750242141,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160731,
+        "num": 160731,
+        "word": "专家称没有一个中国大妈被黄金套住",
+        "onboard_time": 1750231941,
+        "rank": 34,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 148783,
+        "num": 148783,
+        "word": "汪峰宁静就这么自然地牵手了",
+        "onboard_time": 1750228161,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146090,
+        "num": 146090,
+        "word": "天赐的声音",
+        "onboard_time": 1750241901,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144553,
+        "num": 144553,
+        "word": "张婧仪章若楠怎么认识的",
+        "onboard_time": 1750237041,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144199,
+        "num": 144199,
+        "word": "李连杰调查了向太半年才敢合作",
+        "onboard_time": 1750240281,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59814,
+        "num": 142344,
+        "word": "恋与深空这个太好哭了",
+        "onboard_time": 1750241601,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140876,
+        "num": 140876,
+        "word": "李国庆再婚",
+        "onboard_time": 1750224502,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140631,
+        "num": 140631,
+        "word": "姚译添也要评职称",
+        "onboard_time": 1750238902,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139046,
+        "num": 139046,
+        "word": "天津机场航站楼车祸",
+        "onboard_time": 1750226121,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83628,
+        "num": 133762,
+        "word": "男子趁老婆孕期走私买迷药后求轻判",
+        "onboard_time": 1750233022,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133286,
+        "num": 133286,
+        "word": "LOL全球战队实力排名更新",
+        "onboard_time": 1750239741,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131617,
+        "num": 131617,
+        "word": "第一次见真人版分手厨房",
+        "onboard_time": 1750242322,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83746,
+        "num": 127232,
+        "word": "伊朗在边境地区抓捕间谍",
+        "onboard_time": 1750234222,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127052,
+        "num": 127052,
+        "word": "kpop老实人",
+        "onboard_time": 1750235843,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123002,
+        "num": 123002,
+        "word": "田曦薇是女将军也是花",
+        "onboard_time": 1750241061,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118997,
+        "num": 118997,
+        "word": "造谣迪丽热巴鹿晗恋情网友致歉",
+        "onboard_time": 1750225581,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中国中亚合作不断取得新的成就#"
+    }
+  }
+}

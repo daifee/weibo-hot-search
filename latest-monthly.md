@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 17:44:02
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 18:28:38
 </p>
 </blockquote>
 <p>
@@ -2877,6 +2877,12 @@ aespa回归预告（热度：882775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%9B%9E%E5%BA%94%E9%82%93%E7%B4%AB%E6%A3%8B%E9%87%8D%E5%BD%95%E7%89%88%E4%B8%8B%E6%9E%B6%23" target="weibo">
+网易云音乐回应邓紫棋重录版下架（热度：864734）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E9%80%89%E6%9D%8E%E6%99%9F%E5%BD%93%E5%A5%B3%E4%B8%BB%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
 何炅选李晟当女主的含金量（热度：864577）
 </a>
@@ -3155,6 +3161,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%20%E7%8B%82%E9%A3%99%E4%B8%AD%E9%9F%B3%23" target="weibo">
 马嘉祺 狂飙中音（热度：806828）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%8B%E6%9C%BA%23" target="weibo">
+特朗普手机（热度：806365）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Labubu催生庞大周边产业链（热度：535204）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9D%AD%E5%B7%9E%E4%B8%87%E8%B1%A1%E5%9F%8E%E9%81%AD%E6%8C%9F%E5%88%B6%E8%A2%AB%E6%8D%85%E6%95%B0%E5%88%80%23" target="weibo">
 女生杭州万象城遭挟制被捅数刀（热度：528537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2356%E5%B2%81%E7%94%B7%E5%AD%90%E5%81%9C%E8%BD%A6%E5%A4%B1%E8%AF%AF%E8%87%B41%E6%AD%BB2%E4%BC%A4%23" target="weibo">
-56岁男子停车失误致1死2伤（热度：527450）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E8%B0%81%E6%95%A2%E7%A0%B4%E5%9D%8F%E9%98%85%E5%85%B5%E5%B0%86%E9%81%AD%E5%88%B0%E5%BC%BA%E5%A4%A7%E6%AD%A6%E5%8A%9B%23" target="weibo">
-特朗普宣称谁敢破坏阅兵将遭到强大武力（热度：527133）
 </a>
 </li>
 
