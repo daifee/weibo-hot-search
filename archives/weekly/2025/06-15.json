@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750225462006,
+  "endTime": 1750228663258,
   "band_list": [
     {
       "raw_hot": 3545942,
@@ -32,6 +32,14 @@
       "word": "陈彼得去世",
       "onboard_time": 1750130960,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2196824,
+      "num": 1072235,
+      "word": "李雪琴方声明",
+      "onboard_time": 1750227141,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -273,6 +281,14 @@
       "onboard_time": 1749976819,
       "rank": 27,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 1204631,
+      "num": 1133409,
+      "word": "李国庆再婚",
+      "onboard_time": 1750224502,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1191131,
@@ -683,14 +699,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 833810,
-      "num": 1133409,
-      "word": "李国庆再婚",
-      "onboard_time": 1750224502,
-      "rank": 0,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 821281,
       "num": 804324,
       "word": "失踪3月被发现遗体老人女儿发声",
@@ -811,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 766627,
+      "num": 1122660,
+      "word": "旅游博主江小隐在景区溺亡",
+      "onboard_time": 1750221144,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 761892,
       "num": 392027,
       "word": "老师被曝让学生一字排开跪地写检讨",
@@ -865,6 +881,14 @@
       "onboard_time": 1750046542,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 733966,
+      "num": 284573,
+      "word": "丁禹兮花15万给粉丝买项链",
+      "onboard_time": 1750224981,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 731514,
@@ -1147,11 +1171,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 647429,
+      "num": 283562,
+      "word": "天津机场航站楼车祸",
+      "onboard_time": 1750226121,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 646472,
       "num": 646472,
       "word": "中方从伊朗以色列撤侨",
       "onboard_time": 1750171584,
       "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 644233,
+      "num": 644233,
+      "word": "以色列袭击已致伊朗585死1326伤",
+      "onboard_time": 1750226301,
+      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -1307,14 +1347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 608857,
-      "num": 608857,
-      "word": "旅游博主江小隐在景区溺亡",
-      "onboard_time": 1750221144,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 607541,
       "num": 607541,
       "word": "深圳一房屋沉降已封控25栋",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1750003221,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 566708,
+      "num": 287028,
+      "word": "蜂鸟音乐要求下架邓紫棋重录歌曲",
+      "onboard_time": 1750225822,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 566689,
@@ -2215,6 +2255,14 @@
       "num": 631475,
       "word": "伊朗爆炸点距总台记者驻地不足300米",
       "onboard_time": 1749999203,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 396296,
+      "num": 396296,
+      "word": "伊朗袭击致以色列24死逾1300伤",
+      "onboard_time": 1750226241,
       "rank": 7,
       "category": "国际时政"
     },
@@ -3267,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273723,
+      "num": 273723,
+      "word": "造谣迪丽热巴鹿晗恋情网友致歉",
+      "onboard_time": 1750225581,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273652,
       "num": 473660,
       "word": "佘诗曼抢到了炸虾labubu",
@@ -3625,14 +3681,6 @@
       "onboard_time": 1749948320,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 248238,
-      "num": 248238,
-      "word": "丁禹兮花15万给粉丝买项链",
-      "onboard_time": 1750224981,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 247869,
@@ -4163,12 +4211,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215180,
+      "num": 215180,
+      "word": "长安的荔枝开分",
+      "onboard_time": 1750227681,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213530,
       "num": 292940,
       "word": "超1000种职业证书可用于花呗提额",
       "onboard_time": 1750131320,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213037,
+      "num": 169540,
+      "word": "泫雅发龙俊亨被评论像金晓钟",
+      "onboard_time": 1750228042,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 212771,
@@ -5153,6 +5217,14 @@
       "onboard_time": 1750085662,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183689,
+      "num": 183689,
+      "word": "汪峰宁静就这么自然地牵手了",
+      "onboard_time": 1750228161,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 183326,
@@ -6185,6 +6257,14 @@
       "onboard_time": 1750134623,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161456,
+      "num": 172558,
+      "word": "孙颖莎的乒超vlog",
+      "onboard_time": 1750227741,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 161161,
@@ -7467,6 +7547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134610,
+      "num": 134610,
+      "word": "文泰一 NCT",
+      "onboard_time": 1750228221,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134521,
       "num": 134521,
       "word": "李奕臻荧幕初吻给了王佑硕",
@@ -7635,6 +7723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132391,
+      "num": 132391,
+      "word": "姐姐5个字托举了妹妹一生",
+      "onboard_time": 1750228522,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132390,
       "num": 132390,
       "word": "刘强东回应京东进军餐饮酒旅",
@@ -7681,6 +7777,14 @@
       "onboard_time": 1750165522,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131715,
+      "num": 131715,
+      "word": "星穹铁道",
+      "onboard_time": 1750227440,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 131535,
@@ -7769,6 +7873,14 @@
       "onboard_time": 1749968840,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130786,
+      "num": 131952,
+      "word": "李雪琴方说法院见",
+      "onboard_time": 1750228461,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 130768,
@@ -8547,6 +8659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120840,
+      "num": 354740,
+      "word": "景区回应旅游博主江小隐溺亡",
+      "onboard_time": 1750224681,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120796,
       "num": 213566,
       "word": "直击2025陆家嘴论坛",
@@ -8649,6 +8769,14 @@
       "onboard_time": 1749990861,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119532,
+      "num": 119532,
+      "word": "综艺新人拒绝24小时录制选择退出",
+      "onboard_time": 1750228582,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 119069,
@@ -9699,14 +9827,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 99476,
-      "num": 354740,
-      "word": "景区回应旅游博主江小隐溺亡",
-      "onboard_time": 1750224681,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99071,
       "num": 100043,
       "word": "范丞丞25岁生日照",
@@ -9857,6 +9977,14 @@
       "onboard_time": 1750040779,
       "rank": 41,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 95413,
+      "num": 131735,
+      "word": "为什么共情能力太强不适合学医",
+      "onboard_time": 1750228641,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95064,
@@ -10467,12 +10595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76556,
+      "num": 183940,
+      "word": "王嘉尔闯入印度赛道",
+      "onboard_time": 1750228461,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 76315,
       "num": 76315,
       "word": "桃黑黑直播",
       "onboard_time": 1749921318,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76224,
+      "num": 134869,
+      "word": "苏超赞助商从6家飙升至19家",
+      "onboard_time": 1750228522,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 76075,
@@ -11091,6 +11235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55289,
+      "num": 280235,
+      "word": "付航618不要passion要fast",
+      "onboard_time": 1750226722,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55270,
       "num": 133786,
       "word": "德雷珀回应与郑钦文搭档",
@@ -11547,6 +11699,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 44568,
+      "num": 340414,
+      "word": "原神小丝柯克",
+      "onboard_time": 1750224922,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 44166,
       "num": 654165,
       "word": "中亚救护车司机感谢中国修建公路",
@@ -11971,6 +12131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35349,
+      "num": 1009695,
+      "word": "全民反诈公开课",
+      "onboard_time": 1750226480,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35282,
       "num": 41043,
       "word": "BOYS2PLANET",
@@ -12129,14 +12297,6 @@
       "onboard_time": 1750097535,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31793,
-      "num": 340414,
-      "word": "原神小丝柯克",
-      "onboard_time": 1750224922,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 31627,
@@ -12811,12 +12971,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20024,
+      "num": 136611,
+      "word": "大力发展科创债",
+      "onboard_time": 1750228522,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 19720,
       "num": 26209,
       "word": "莱巴金娜说郑钦文是个强劲的对手",
       "onboard_time": 1750097056,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19638,
+      "num": 279404,
+      "word": "广东绥江怀集段遇建站来最大洪水",
+      "onboard_time": 1750228280,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19607,
@@ -12849,6 +13025,14 @@
       "onboard_time": 1749982101,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19118,
+      "num": 193245,
+      "word": "学医会面临哪些困难",
+      "onboard_time": 1750228280,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 19025,

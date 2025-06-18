@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750225462006,
+  "endTime": 1750228663258,
   "band_list": [
     {
       "raw_hot": 3545942,
@@ -8,6 +8,14 @@
       "word": "文泰一承认强奸",
       "onboard_time": 1750217420,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2196824,
+      "num": 1072235,
+      "word": "李雪琴方声明",
+      "onboard_time": 1750227141,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1204631,
+      "num": 1133409,
+      "word": "李国庆再婚",
+      "onboard_time": 1750224502,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1188031,
       "num": 228384,
       "word": "沈阳公交车碰撞事故致2死16伤",
@@ -91,14 +107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 833810,
-      "num": 1133409,
-      "word": "李国庆再婚",
-      "onboard_time": 1750224502,
-      "rank": 0,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 814614,
       "num": 814614,
       "word": "李雪琴 老谢",
@@ -121,6 +129,22 @@
       "onboard_time": 1750210579,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 766627,
+      "num": 1122660,
+      "word": "旅游博主江小隐在景区溺亡",
+      "onboard_time": 1750221144,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 733966,
+      "num": 284573,
+      "word": "丁禹兮花15万给粉丝买项链",
+      "onboard_time": 1750224981,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 701204,
@@ -163,6 +187,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 647429,
+      "num": 283562,
+      "word": "天津机场航站楼车祸",
+      "onboard_time": 1750226121,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 644233,
+      "num": 644233,
+      "word": "以色列袭击已致伊朗585死1326伤",
+      "onboard_time": 1750226301,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 627047,
       "num": 431339,
       "word": "文泰一或被判刑7年",
@@ -171,20 +211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 608857,
-      "num": 608857,
-      "word": "旅游博主江小隐在景区溺亡",
-      "onboard_time": 1750221144,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 575608,
       "num": 408039,
       "word": "朱丹给何猷君说懵了",
       "onboard_time": 1750205060,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566708,
+      "num": 287028,
+      "word": "蜂鸟音乐要求下架邓紫棋重录歌曲",
+      "onboard_time": 1750225822,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 558886,
@@ -312,6 +352,14 @@
       "word": "伊称将展开真正惩罚性打击",
       "onboard_time": 1750201577,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 396296,
+      "num": 396296,
+      "word": "伊朗袭击致以色列24死逾1300伤",
+      "onboard_time": 1750226241,
+      "rank": 7,
       "category": "国际时政"
     },
     {
@@ -499,6 +547,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 273723,
+      "num": 273723,
+      "word": "造谣迪丽热巴鹿晗恋情网友致歉",
+      "onboard_time": 1750225581,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272193,
       "num": 272193,
       "word": "质子重离子抗癌治疗一疗程高达30万",
@@ -553,14 +609,6 @@
       "onboard_time": 1750223782,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 248238,
-      "num": 248238,
-      "word": "丁禹兮花15万给粉丝买项链",
-      "onboard_time": 1750224981,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 247330,
@@ -667,6 +715,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215180,
+      "num": 215180,
+      "word": "长安的荔枝开分",
+      "onboard_time": 1750227681,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213037,
+      "num": 169540,
+      "word": "泫雅发龙俊亨被评论像金晓钟",
+      "onboard_time": 1750228042,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207446,
       "num": 207446,
       "word": "TVB演员马浚伟升任CEO",
@@ -761,6 +825,14 @@
       "onboard_time": 1750220602,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183689,
+      "num": 183689,
+      "word": "汪峰宁静就这么自然地牵手了",
+      "onboard_time": 1750228161,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 182509,
@@ -907,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161456,
+      "num": 172558,
+      "word": "孙颖莎的乒超vlog",
+      "onboard_time": 1750227741,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158666,
       "num": 158666,
       "word": "以伊冲突胡塞将出手白宫拟参战",
@@ -995,6 +1075,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 134610,
+      "num": 134610,
+      "word": "文泰一 NCT",
+      "onboard_time": 1750228221,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133196,
       "num": 133196,
       "word": "男子为扶7旬老人骨折遭其拒不承认",
@@ -1003,12 +1091,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132391,
+      "num": 132391,
+      "word": "姐姐5个字托举了妹妹一生",
+      "onboard_time": 1750228522,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132390,
       "num": 132390,
       "word": "刘强东回应京东进军餐饮酒旅",
       "onboard_time": 1750202178,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 131715,
+      "num": 131715,
+      "word": "星穹铁道",
+      "onboard_time": 1750227440,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 131478,
@@ -1025,6 +1129,14 @@
       "onboard_time": 1750153522,
       "rank": 23,
       "category": "民生新闻,动漫"
+    },
+    {
+      "raw_hot": 130786,
+      "num": 131952,
+      "word": "李雪琴方说法院见",
+      "onboard_time": 1750228461,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 130747,
@@ -1099,12 +1211,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120840,
+      "num": 354740,
+      "word": "景区回应旅游博主江小隐溺亡",
+      "onboard_time": 1750224681,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120796,
       "num": 213566,
       "word": "直击2025陆家嘴论坛",
       "onboard_time": 1750209920,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119532,
+      "num": 119532,
+      "word": "综艺新人拒绝24小时录制选择退出",
+      "onboard_time": 1750228582,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 118642,
@@ -1251,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99476,
-      "num": 354740,
-      "word": "景区回应旅游博主江小隐溺亡",
-      "onboard_time": 1750224681,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98568,
       "num": 98568,
       "word": "登陆少年时装周首秀",
@@ -1289,6 +1409,14 @@
       "onboard_time": 1750168823,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95413,
+      "num": 131735,
+      "word": "为什么共情能力太强不适合学医",
+      "onboard_time": 1750228641,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95143,
@@ -1417,6 +1545,22 @@
       "onboard_time": 1750216581,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 76556,
+      "num": 183940,
+      "word": "王嘉尔闯入印度赛道",
+      "onboard_time": 1750228461,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 76224,
+      "num": 134869,
+      "word": "苏超赞助商从6家飙升至19家",
+      "onboard_time": 1750228522,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 75017,
@@ -1611,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55289,
+      "num": 280235,
+      "word": "付航618不要passion要fast",
+      "onboard_time": 1750226722,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55270,
       "num": 133786,
       "word": "德雷珀回应与郑钦文搭档",
@@ -1683,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44568,
+      "num": 340414,
+      "word": "原神小丝柯克",
+      "onboard_time": 1750224922,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 41332,
       "num": 121328,
       "word": "歌手官宣麦可布雷袭榜",
@@ -1715,6 +1875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35349,
+      "num": 1009695,
+      "word": "全民反诈公开课",
+      "onboard_time": 1750226480,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34762,
       "num": 275611,
       "word": "李雪琴曾将公司90%股权转给妈妈实控企业",
@@ -1737,14 +1905,6 @@
       "onboard_time": 1750182018,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31793,
-      "num": 340414,
-      "word": "原神小丝柯克",
-      "onboard_time": 1750224922,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 30433,
@@ -1825,6 +1985,30 @@
       "onboard_time": 1750165821,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20024,
+      "num": 136611,
+      "word": "大力发展科创债",
+      "onboard_time": 1750228522,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 19638,
+      "num": 279404,
+      "word": "广东绥江怀集段遇建站来最大洪水",
+      "onboard_time": 1750228280,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19118,
+      "num": 193245,
+      "word": "学医会面临哪些困难",
+      "onboard_time": 1750228280,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17283,
