@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/15 00:29:55 ~ 2025/06/19 02:50:47
+本榜单时间：2025/06/15 00:29:55 ~ 2025/06/19 03:21:36
 </p>
 </blockquote>
 <p>
@@ -10779,6 +10779,12 @@ Labubu的娃衣为何比真人衣服贵却卖爆（热度：35069）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E4%B8%8E%E7%BE%8E%E5%9B%BD%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A%23" target="weibo">
+以色列正与美国保持沟通（热度：27773）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%BA%9B%E4%BA%BA%E7%BE%A4%E6%98%93%E5%BE%97%E5%B0%BF%E8%B7%AF%E6%84%9F%E6%9F%93%23" target="weibo">
 哪些人群易得尿路感染（热度：27454）
 </a>
@@ -11097,12 +11103,6 @@ PlayStation剑星宣传文案争议（热度：24110）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E4%B8%8E%E7%BE%8E%E5%9B%BD%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A%23" target="weibo">
-以色列正与美国保持沟通（热度：22157）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%86%89%E9%A9%BE%E8%BD%A6%E9%A1%B6%E8%A1%8C600%E7%B1%B3%E4%BA%A4%E8%AD%A6%E4%B8%8D%E8%83%BD%E7%99%BD%E7%99%BD%E7%89%BA%E7%89%B2%23" target="weibo">
 被醉驾车顶行600米交警不能白白牺牲（热度：21996）
 </a>
@@ -11345,6 +11345,12 @@ PlayStation剑星宣传文案争议（热度：24110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%83%E8%83%BD%E6%95%8F%E9%94%90%E6%84%9F%E7%9F%A5%E7%94%9F%E5%86%B7%E9%A3%9F%E7%89%A9%23" target="weibo">
 为什么胃能敏锐感知生冷食物（热度：16480）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E9%82%93%E7%B4%AB%E6%A3%8B%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E9%87%8D%E5%BD%95%E6%97%A7%E6%AD%8C%23" target="weibo">
+律师谈邓紫棋到底能不能重录旧歌（热度：16470）
 </a>
 </li>
 
