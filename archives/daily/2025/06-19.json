@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750265467360,
+  "endTime": 1750267504201,
   "band_list": [
     {
       "raw_hot": 1489486,
@@ -75,6 +75,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 409557,
+      "num": 409557,
+      "word": "以色列民众问战争到底是为了什么",
+      "onboard_time": 1750263980,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 409132,
       "num": 308059,
       "word": "周鹤年 小三",
@@ -97,6 +105,14 @@
       "onboard_time": 1750260982,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 354126,
+      "num": 354126,
+      "word": "爱犬被毒死北京女子辞职追凶",
+      "onboard_time": 1750263740,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 328688,
@@ -147,12 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248109,
-      "num": 248109,
-      "word": "以色列民众问战争到底是为了什么",
-      "onboard_time": 1750263980,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 245884,
+      "num": 245884,
+      "word": "女子22年化妆不卸妆脸红成关公",
+      "onboard_time": 1750264640,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241503,
@@ -195,11 +211,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 167806,
-      "num": 167806,
-      "word": "爱犬被毒死北京女子辞职追凶",
-      "onboard_time": 1750263740,
-      "rank": 37,
+      "raw_hot": 167020,
+      "num": 167020,
+      "word": "汉中龙岗中学",
+      "onboard_time": 1750262182,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -211,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165327,
-      "num": 165327,
-      "word": "汉中龙岗中学",
-      "onboard_time": 1750262182,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153401,
       "num": 153401,
       "word": "杜江霍思燕参加嗯哼小学毕业典礼",
@@ -227,12 +235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133973,
+      "num": 126446,
+      "word": "哈梅内伊",
+      "onboard_time": 1750249221,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132100,
       "num": 169616,
       "word": "00后女孩醉驾致3死受害者母亲发声",
       "onboard_time": 1750259603,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126693,
+      "num": 126693,
+      "word": "韦东奕与王虹同框讨论数学问题",
+      "onboard_time": 1750264640,
+      "rank": 32,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 125040,
@@ -251,28 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121134,
-      "num": 121134,
-      "word": "女子22年化妆不卸妆脸红成关公",
-      "onboard_time": 1750264640,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "伊朗绞刑处死内鬼",
       "onboard_time": 1750233141,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 109558,
-      "num": 109558,
-      "word": "韦东奕与王虹同框讨论数学问题",
-      "onboard_time": 1750264640,
-      "rank": 32,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 109531,
@@ -427,12 +435,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65698,
-      "num": 65698,
+      "raw_hot": 66726,
+      "num": 66726,
       "word": "Melody整盒端labubu",
       "onboard_time": 1750265179,
       "rank": 46,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 57358,
+      "num": 57358,
+      "word": "中方回应特朗普要求伊朗无条件投降",
+      "onboard_time": 1750236741,
+      "rank": 40,
+      "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 50640,
+      "num": 50640,
+      "word": "卢伟冰王腾玩分手厨房",
+      "onboard_time": 1750266617,
+      "rank": 46,
+      "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 50164,
+      "num": 50164,
+      "word": "张杰 一觉醒来我老婆不是我老婆了",
+      "onboard_time": 1750235902,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 30256,

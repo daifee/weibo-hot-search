@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750265467360,
+  "endTime": 1750267504201,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -2523,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409557,
+      "num": 409557,
+      "word": "以色列民众问战争到底是为了什么",
+      "onboard_time": 1750263980,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 409160,
       "num": 1093794,
       "word": "34岁女子爱生闷气血管堵90%",
@@ -2873,6 +2881,14 @@
       "onboard_time": 1750131863,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354126,
+      "num": 354126,
+      "word": "爱犬被毒死北京女子辞职追凶",
+      "onboard_time": 1750263740,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354075,
@@ -4251,14 +4267,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 248109,
-      "num": 248109,
-      "word": "以色列民众问战争到底是为了什么",
-      "onboard_time": 1750263980,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 247869,
       "num": 247869,
       "word": "印度直升机坠毁7人遇难",
@@ -4297,6 +4305,14 @@
       "onboard_time": 1750174942,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 245884,
+      "num": 245884,
+      "word": "女子22年化妆不卸妆脸红成关公",
+      "onboard_time": 1750264640,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243173,
@@ -6851,14 +6867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167806,
-      "num": 167806,
-      "word": "爱犬被毒死北京女子辞职追凶",
-      "onboard_time": 1750263740,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167676,
       "num": 167676,
       "word": "减肥真的会改变面相",
@@ -6889,6 +6897,14 @@
       "onboard_time": 1749980840,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167020,
+      "num": 167020,
+      "word": "汉中龙岗中学",
+      "onboard_time": 1750262182,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167002,
@@ -7025,14 +7041,6 @@
       "onboard_time": 1750173622,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 165327,
-      "num": 165327,
-      "word": "汉中龙岗中学",
-      "onboard_time": 1750262182,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 165245,
@@ -9395,6 +9403,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 126693,
+      "num": 126693,
+      "word": "韦东奕与王虹同框讨论数学问题",
+      "onboard_time": 1750264640,
+      "rank": 32,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 126688,
       "num": 126688,
       "word": "tabe发言",
@@ -9865,14 +9881,6 @@
       "onboard_time": 1750260564,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 121134,
-      "num": 121134,
-      "word": "女子22年化妆不卸妆脸红成关公",
-      "onboard_time": 1750264640,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120979,
@@ -10833,14 +10841,6 @@
       "onboard_time": 1749913823,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109558,
-      "num": 109558,
-      "word": "韦东奕与王虹同框讨论数学问题",
-      "onboard_time": 1750264640,
-      "rank": 32,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 109552,
@@ -12531,6 +12531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66726,
+      "num": 66726,
+      "word": "Melody整盒端labubu",
+      "onboard_time": 1750265179,
+      "rank": 46,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 66622,
       "num": 173555,
       "word": "张玉奎院士谈生化环材专业前景",
@@ -12561,14 +12569,6 @@
       "onboard_time": 1750069701,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65698,
-      "num": 65698,
-      "word": "Melody整盒端labubu",
-      "onboard_time": 1750265179,
-      "rank": 46,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 65658,
@@ -13161,6 +13161,14 @@
       "onboard_time": 1749985941,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 50640,
+      "num": 50640,
+      "word": "卢伟冰王腾玩分手厨房",
+      "onboard_time": 1750266617,
+      "rank": 46,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 50540,
