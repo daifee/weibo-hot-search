@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750216973445,
+  "endTime": 1750217726082,
   "band_list": [
     {
       "raw_hot": 1723750,
@@ -17,6 +17,14 @@
       "onboard_time": 1750175483,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1282545,
+      "num": 483475,
+      "word": "高以翔生前女友Bella结婚",
+      "onboard_time": 1750215741,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1188031,
@@ -43,15 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1033229,
-      "num": 483475,
-      "word": "高以翔生前女友Bella结婚",
-      "onboard_time": 1750215741,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 954929,
+      "raw_hot": 964364,
       "num": 738836,
       "word": "中餐厅9合伙人阵容官宣",
       "onboard_time": 1750215142,
@@ -91,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 687783,
+      "num": 687783,
+      "word": "刘强东回应写遗书赴汶川灾区",
+      "onboard_time": 1750214120,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 683331,
       "num": 683331,
       "word": "女子称跟猥亵司机住同小区怕被报复",
       "onboard_time": 1750209021,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 622463,
-      "num": 622463,
-      "word": "刘强东回应写遗书赴汶川灾区",
-      "onboard_time": 1750214120,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 575608,
@@ -155,6 +155,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 453612,
+      "num": 442511,
+      "word": "官方通报网传一男子将孩童关铁笼中",
+      "onboard_time": 1750215800,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 438678,
+      "num": 417811,
+      "word": "郑中基回应离婚8000元赡养费传言",
+      "onboard_time": 1750213100,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433531,
       "num": 224296,
       "word": "伊朗",
@@ -168,14 +184,6 @@
       "word": "陈哲远 把妹王",
       "onboard_time": 1750207280,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 417811,
-      "num": 417811,
-      "word": "郑中基回应离婚8000元赡养费传言",
-      "onboard_time": 1750213100,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -203,12 +211,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 394215,
+      "num": 312039,
+      "word": "女子以为腹胀去医院竟当场生下男婴",
+      "onboard_time": 1750216761,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384125,
       "num": 219296,
       "word": "刘浩存终于换掉了微商头像",
       "onboard_time": 1750149982,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359166,
+      "num": 359166,
+      "word": "以色列",
+      "onboard_time": 1750211659,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 344290,
@@ -275,22 +299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 314645,
-      "num": 442511,
-      "word": "官方通报网传一男子将孩童关铁笼中",
-      "onboard_time": 1750215800,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 311248,
-      "num": 311248,
-      "word": "以色列",
-      "onboard_time": 1750211659,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 301454,
       "num": 275327,
       "word": "彻查那尔那茜舆情是守护公平正义",
@@ -355,6 +363,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 267498,
+      "num": 267498,
+      "word": "文泰一承认强奸",
+      "onboard_time": 1750217420,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 265011,
+      "num": 217247,
+      "word": "文泰一公审直播",
+      "onboard_time": 1750212980,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 261628,
+      "num": 261628,
+      "word": "美媒称特朗普正考虑加入对伊空袭",
+      "onboard_time": 1750212679,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 260561,
       "num": 260561,
       "word": "快递盒印小狗快递员配送让快递员不适",
@@ -393,14 +425,6 @@
       "onboard_time": 1750201577,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236945,
-      "num": 216815,
-      "word": "美媒称特朗普正考虑加入对伊空袭",
-      "onboard_time": 1750212679,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 235895,
@@ -443,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217247,
-      "num": 217247,
-      "word": "文泰一公审直播",
-      "onboard_time": 1750212980,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216704,
       "num": 216704,
       "word": "医生称荔枝壳煮水是天然降火药",
@@ -467,6 +483,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214852,
+      "num": 214852,
+      "word": "章子怡赵丽颖杨幂酱园弄镜头",
+      "onboard_time": 1750217002,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 207446,
+      "num": 207446,
+      "word": "TVB演员马浚伟升任CEO",
+      "onboard_time": 1750217542,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207051,
       "num": 207051,
       "word": "禁止违规吃喝不等同于禁止吃喝",
@@ -475,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205435,
-      "num": 205435,
-      "word": "女子以为腹胀去医院竟当场生下男婴",
-      "onboard_time": 1750216761,
+      "raw_hot": 206607,
+      "num": 206607,
+      "word": "谁懂原班人马拍3部的含金量",
+      "onboard_time": 1750217181,
       "rank": 33,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 201158,
@@ -497,6 +529,14 @@
       "onboard_time": 1750215621,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 199661,
+      "num": 199661,
+      "word": "李昀锐奔跑吧澳门录制",
+      "onboard_time": 1750217242,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 194319,
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 173466,
-      "num": 173466,
+      "num": 347451,
       "word": "10省区市有大暴雨",
       "onboard_time": 1750213341,
       "rank": 46,
@@ -611,8 +651,16 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 151440,
-      "num": 151440,
+      "raw_hot": 158666,
+      "num": 158666,
+      "word": "以伊冲突胡塞将出手白宫拟参战",
+      "onboard_time": 1750216461,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 157393,
+      "num": 188128,
       "word": "妹夫一家殴打姨姐欲开挖机推其房子",
       "onboard_time": 1750216041,
       "rank": 46,
@@ -635,12 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141375,
-      "num": 141375,
-      "word": "以伊冲突胡塞将出手白宫拟参战",
-      "onboard_time": 1750216461,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 144679,
+      "num": 185938,
+      "word": "拉莫斯破门",
+      "onboard_time": 1750217062,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 140405,
@@ -707,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125630,
+      "num": 145883,
+      "word": "四川宜宾19岁女大学生失联3天",
+      "onboard_time": 1750213760,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122743,
       "num": 122743,
       "word": "张艺兴跳舞已经nextlevel了",
@@ -716,7 +772,7 @@
     },
     {
       "raw_hot": 120796,
-      "num": 120796,
+      "num": 213566,
       "word": "直击2025陆家嘴论坛",
       "onboard_time": 1750209920,
       "rank": 35,
@@ -760,6 +816,14 @@
       "word": "美宣布驻以使领馆关闭3天",
       "onboard_time": 1750209200,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 112184,
+      "num": 488632,
+      "word": "洛杉矶宣布解除宵禁",
+      "onboard_time": 1750211541,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -851,14 +915,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 97397,
-      "num": 488632,
-      "word": "洛杉矶宣布解除宵禁",
-      "onboard_time": 1750211541,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 96313,
       "num": 96313,
       "word": "白鹿曾舜晞临江仙破万惊喜vlog",
@@ -947,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84572,
+      "num": 349586,
+      "word": "京东618",
+      "onboard_time": 1750215981,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 79720,
       "num": 79720,
       "word": "湖北一县教育局回应摊派老师买水",
@@ -964,7 +1028,7 @@
     },
     {
       "raw_hot": 79242,
-      "num": 245572,
+      "num": 264435,
       "word": "如何判断自己是否适合学医",
       "onboard_time": 1750216581,
       "rank": 24,
@@ -1171,20 +1235,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 45434,
+      "num": 217052,
+      "word": "逃离德黑兰但堵车",
+      "onboard_time": 1750215741,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45061,
       "num": 67508,
       "word": "郑钦文温网5号种子",
       "onboard_time": 1750203439,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44550,
-      "num": 312835,
-      "word": "京东618",
-      "onboard_time": 1750215981,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 41332,
@@ -1201,14 +1265,6 @@
       "onboard_time": 1750191735,
       "rank": 42,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 40398,
-      "num": 217052,
-      "word": "逃离德黑兰但堵车",
-      "onboard_time": 1750215741,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 36656,
@@ -1267,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24847,
+      "num": 811476,
+      "word": "网警守护618购物安全",
+      "onboard_time": 1750208841,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22253,
       "num": 32709,
       "word": "福建泉州有消费者称买到早产鲜羊奶",
@@ -1281,14 +1345,6 @@
       "onboard_time": 1750187834,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 20451,
-      "num": 811476,
-      "word": "网警守护618购物安全",
-      "onboard_time": 1750208841,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20129,
@@ -1361,6 +1417,14 @@
       "onboard_time": 1750188315,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9149,
+      "num": 680636,
+      "word": "万千气象看安徽",
+      "onboard_time": 1750217420,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4271,
