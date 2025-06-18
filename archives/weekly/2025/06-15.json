@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750256850489,
+  "endTime": 1750257976926,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -483,6 +483,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1053739,
+      "num": 993652,
+      "word": "孟子义的狗巧克力塌房了",
+      "onboard_time": 1750254383,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1049607,
       "num": 1049607,
       "word": "陈梦说求婚现场人越多越好",
@@ -553,14 +561,6 @@
       "onboard_time": 1750079421,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 993652,
-      "num": 993652,
-      "word": "孟子义的狗巧克力塌房了",
-      "onboard_time": 1750254383,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 988200,
@@ -769,6 +769,14 @@
       "onboard_time": 1749986000,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 871250,
+      "num": 521130,
+      "word": "伊朗媒体称将发生世界铭记的大事",
+      "onboard_time": 1750250181,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 864734,
@@ -993,14 +1001,6 @@
       "onboard_time": 1750233562,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 769793,
-      "num": 521130,
-      "word": "伊朗媒体称将发生世界铭记的大事",
-      "onboard_time": 1750250181,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 766627,
@@ -1779,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 544193,
+      "num": 268703,
+      "word": "魏大勋早期labubu拥有者",
+      "onboard_time": 1750253543,
+      "rank": 28,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 543743,
       "num": 225676,
       "word": "短剧男主回应一胎99子剧情",
@@ -1977,14 +1985,6 @@
       "onboard_time": 1749992122,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 490785,
-      "num": 268703,
-      "word": "魏大勋早期labubu拥有者",
-      "onboard_time": 1750253543,
-      "rank": 28,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 488721,
@@ -3204,7 +3204,7 @@
     },
     {
       "raw_hot": 309955,
-      "num": 212284,
+      "num": 216802,
       "word": "远嫁伊朗的华人女子连夜离开",
       "onboard_time": 1750250541,
       "rank": 30,
@@ -3571,6 +3571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282025,
+      "num": 221153,
+      "word": "周鹤年 小三",
+      "onboard_time": 1750257084,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281918,
       "num": 281918,
       "word": "朱丹说周翊然想要女儿是异性相吸",
@@ -3932,7 +3940,7 @@
     },
     {
       "raw_hot": 259354,
-      "num": 158070,
+      "num": 214635,
       "word": "中国女篮战胜日本女篮",
       "onboard_time": 1750256184,
       "rank": 30,
@@ -4385,6 +4393,14 @@
       "onboard_time": 1750085482,
       "rank": 26,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 229853,
+      "num": 229853,
+      "word": "罗马仕充电宝非召回款又自燃",
+      "onboard_time": 1750255884,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229852,
@@ -5153,6 +5169,14 @@
       "onboard_time": 1750215621,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 200015,
+      "num": 229295,
+      "word": "祖国一定接你回家",
+      "onboard_time": 1750256843,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199839,
@@ -6995,14 +7019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161445,
-      "num": 211882,
-      "word": "罗马仕充电宝非召回款又自燃",
-      "onboard_time": 1750255884,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161161,
       "num": 161161,
       "word": "邓紫棋发文再谈六年版权纠纷",
@@ -7553,6 +7569,14 @@
       "onboard_time": 1750075700,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150452,
+      "num": 150452,
+      "word": "女排",
+      "onboard_time": 1750252162,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 150431,
@@ -8377,14 +8401,6 @@
       "onboard_time": 1749917063,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 135775,
-      "num": 135775,
-      "word": "女排",
-      "onboard_time": 1750252162,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 135605,
@@ -9675,6 +9691,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 120469,
+      "num": 120469,
+      "word": "变形计女孩梁小友现状",
+      "onboard_time": 1750257864,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 120425,
       "num": 120425,
       "word": "高考全省第二北漂5年后的生活",
@@ -9937,6 +9961,14 @@
       "onboard_time": 1749997883,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116627,
+      "num": 116627,
+      "word": "全国首个宠物本科专业来了",
+      "onboard_time": 1750257444,
+      "rank": 45,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 116583,
@@ -10299,6 +10331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112639,
+      "num": 112639,
+      "word": "十八线男演员谈不红的好处",
+      "onboard_time": 1750257743,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112508,
       "num": 307372,
       "word": "多方回应金雪峰在圣龙潭潜水去世",
@@ -10377,6 +10417,14 @@
       "onboard_time": 1750155021,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111669,
+      "num": 111669,
+      "word": "这剧全是90后童年回忆杀",
+      "onboard_time": 1750257804,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 111618,
@@ -10585,6 +10633,14 @@
       "onboard_time": 1750088299,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108508,
+      "num": 108508,
+      "word": "美轰炸机已部署至西班牙军事基地",
+      "onboard_time": 1750257924,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108471,
@@ -12396,7 +12452,7 @@
     },
     {
       "raw_hot": 60586,
-      "num": 211604,
+      "num": 219058,
       "word": "胡兵时装周出发顶配老钱风",
       "onboard_time": 1750255703,
       "rank": 19,
@@ -12457,6 +12513,14 @@
       "onboard_time": 1749909863,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58727,
+      "num": 120331,
+      "word": "原神丝柯克卡池登顶",
+      "onboard_time": 1750256962,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 58448,
@@ -12897,6 +12961,14 @@
       "onboard_time": 1749943096,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 48615,
+      "num": 223806,
+      "word": "大学生找公司代写论文反被索要封口费",
+      "onboard_time": 1750257205,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48591,
@@ -13547,7 +13619,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35785,
+      "raw_hot": 35816,
       "num": 1057268,
       "word": "数读5月消费市场亮点",
       "onboard_time": 1750253722,
@@ -14169,6 +14241,14 @@
       "onboard_time": 1750138700,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 24614,
+      "num": 127640,
+      "word": "伊朗今晚有大事或为误读",
+      "onboard_time": 1750257623,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 24549,
@@ -15089,6 +15169,14 @@
       "onboard_time": 1750046120,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8241,
+      "num": 218619,
+      "word": "广外复合型人才是如何炼成的",
+      "onboard_time": 1750249701,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 7667,
