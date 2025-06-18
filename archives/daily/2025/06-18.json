@@ -1,6 +1,6 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750257976926,
+  "endTime": 1750260579155,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -89,6 +89,14 @@
       "onboard_time": 1750248622,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1324883,
+      "num": 1324883,
+      "word": "羊了个羊",
+      "onboard_time": 1750259123,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 1282545,
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698084,
+      "num": 332317,
+      "word": "周鹤年 小三",
+      "onboard_time": 1750257084,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683331,
       "num": 683331,
       "word": "女子称跟猥亵司机住同小区怕被报复",
@@ -409,6 +425,14 @@
       "onboard_time": 1750216761,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 646330,
+      "num": 316551,
+      "word": "伊朗今晚有大事或为误读",
+      "onboard_time": 1750257623,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 644233,
@@ -459,8 +483,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 545875,
+      "num": 545875,
+      "word": "美轰炸机已部署至西班牙军事基地",
+      "onboard_time": 1750257924,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 544193,
-      "num": 268703,
+      "num": 279694,
       "word": "魏大勋早期labubu拥有者",
       "onboard_time": 1750253543,
       "rank": 28,
@@ -617,6 +649,14 @@
       "onboard_time": 1750239381,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413911,
+      "num": 413911,
+      "word": "罗马仕充电宝非召回款又自燃",
+      "onboard_time": 1750255884,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 410661,
@@ -787,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327818,
+      "num": 256589,
+      "word": "绑定系统后我在娱乐圈封神了",
+      "onboard_time": 1750258884,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 324291,
       "num": 197645,
       "word": "杨坤曾谈到病逝的前女友",
@@ -828,7 +876,7 @@
     },
     {
       "raw_hot": 309955,
-      "num": 216802,
+      "num": 226198,
       "word": "远嫁伊朗的华人女子连夜离开",
       "onboard_time": 1750250541,
       "rank": 30,
@@ -897,14 +945,6 @@
       "onboard_time": 1750212861,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 282025,
-      "num": 221153,
-      "word": "周鹤年 小三",
-      "onboard_time": 1750257084,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 281572,
@@ -979,12 +1019,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263225,
+      "num": 263225,
+      "word": "特朗普称伊朗已与美方取得联系",
+      "onboard_time": 1750258704,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 263041,
       "num": 263041,
       "word": "柯淳把余茵惹生气了",
       "onboard_time": 1750245863,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261979,
+      "num": 261979,
+      "word": "祖国一定接你回家",
+      "onboard_time": 1750256843,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 261628,
@@ -1155,14 +1211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229853,
-      "num": 229853,
-      "word": "罗马仕充电宝非召回款又自燃",
-      "onboard_time": 1750255884,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229852,
       "num": 229852,
       "word": "特朗普战情室见国家安全团队",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1750253482,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213013,
+      "num": 213013,
+      "word": "变形计女孩梁小友现状",
+      "onboard_time": 1750257864,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 210144,
@@ -1363,14 +1419,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 200015,
-      "num": 229295,
-      "word": "祖国一定接你回家",
-      "onboard_time": 1750256843,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199661,
       "num": 199661,
       "word": "李昀锐奔跑吧澳门录制",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1750235181,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196835,
+      "num": 196835,
+      "word": "金泳勋道歉",
+      "onboard_time": 1750260083,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 195604,
@@ -1587,6 +1643,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 174653,
+      "num": 262008,
+      "word": "女孩醉驾致3死借车车主一同被诉",
+      "onboard_time": 1750258944,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174023,
       "num": 286038,
       "word": "景区回应被演员周娇公开讨债36万",
@@ -1691,6 +1755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169003,
+      "num": 169003,
+      "word": "00后女孩醉驾致3死受害者母亲发声",
+      "onboard_time": 1750259603,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168953,
       "num": 168953,
       "word": "广汽埃安已报警",
@@ -1715,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167312,
+      "num": 262126,
+      "word": "方大同原本工作排到了2027年",
+      "onboard_time": 1750259542,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165941,
       "num": 165941,
       "word": "京东正式官宣进军酒旅",
@@ -1729,6 +1809,14 @@
       "onboard_time": 1750209381,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165245,
+      "num": 165245,
+      "word": "外交部驳斥欧盟主席指责中国言论",
+      "onboard_time": 1750259362,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 165191,
@@ -1787,6 +1875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156975,
+      "num": 156975,
+      "word": "25岁男子刺伤一女子因其长得像前女友",
+      "onboard_time": 1750258644,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156855,
       "num": 156855,
       "word": "伊朗旅游团是我带过最伤心的团",
@@ -1827,12 +1923,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151822,
+      "num": 161063,
+      "word": "十八线男演员谈不红的好处",
+      "onboard_time": 1750257743,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151187,
       "num": 151187,
       "word": "王者荣耀",
       "onboard_time": 1750247300,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150995,
+      "num": 150995,
+      "word": "朱珠两天换了五套造型",
+      "onboard_time": 1750260143,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 150452,
@@ -1939,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144687,
+      "num": 144687,
+      "word": "世界之外",
+      "onboard_time": 1750260383,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144684,
       "num": 144684,
       "word": "白敬亭不是商务全是商务",
@@ -1985,6 +2105,14 @@
       "onboard_time": 1750234823,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136580,
+      "num": 136580,
+      "word": "TTG战胜EDGM",
+      "onboard_time": 1750260264,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 136484,
@@ -2043,6 +2171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 133578,
+      "num": 360609,
+      "word": "广东怀集县城一半以上路段遭水浸",
+      "onboard_time": 1750259242,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 133285,
       "num": 133285,
       "word": "老谢曾是李雪琴的好友和室友",
@@ -2072,6 +2208,14 @@
       "word": "苏超赞助商从6家飙升至19家",
       "onboard_time": 1750228522,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132539,
+      "num": 132539,
+      "word": "中国女排3比1捷克女排",
+      "onboard_time": 1750260442,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -2121,6 +2265,22 @@
       "onboard_time": 1750159582,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129513,
+      "num": 129513,
+      "word": "特朗普鼓励以继续推进行动",
+      "onboard_time": 1750259664,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 128646,
+      "num": 128646,
+      "word": "吃桃有4个健康好处",
+      "onboard_time": 1750258101,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128003,
@@ -2235,14 +2395,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 120469,
-      "num": 120469,
-      "word": "变形计女孩梁小友现状",
-      "onboard_time": 1750257864,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
       "raw_hot": 120371,
       "num": 120371,
       "word": "孙燕姿一家四口爬长城",
@@ -2347,14 +2499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112639,
-      "num": 112639,
-      "word": "十八线男演员谈不红的好处",
-      "onboard_time": 1750257743,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112184,
       "num": 488632,
       "word": "洛杉矶宣布解除宵禁",
@@ -2451,14 +2595,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 108508,
-      "num": 108508,
-      "word": "美轰炸机已部署至西班牙军事基地",
-      "onboard_time": 1750257924,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108370,
       "num": 108370,
       "word": "刘忻张予曦郭碧婷3A景点",
@@ -2521,6 +2657,14 @@
       "onboard_time": 1750229481,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106058,
+      "num": 294690,
+      "word": "老人充5万老板说儿女退钱是不孝",
+      "onboard_time": 1750259123,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105020,
@@ -3561,14 +3705,6 @@
       "onboard_time": 1750217420,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24614,
-      "num": 127640,
-      "word": "伊朗今晚有大事或为误读",
-      "onboard_time": 1750257623,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 24542,
