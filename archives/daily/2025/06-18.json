@@ -1,10 +1,10 @@
 {
   "startTime": 1750178036742,
-  "endTime": 1750252170977,
+  "endTime": 1750253948555,
   "band_list": [
     {
       "raw_hot": 3561208,
-      "num": 246059,
+      "num": 250720,
       "word": "伊朗 今晚大事",
       "onboard_time": 1750246883,
       "rank": 20,
@@ -83,6 +83,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1255249,
+      "num": 433652,
+      "word": "宋慧乔长发回归",
+      "onboard_time": 1750249581,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1208166,
+      "num": 1109148,
+      "word": "韦神食堂吃饭被多人轮番拍照",
+      "onboard_time": 1750248622,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1204631,
       "num": 1133409,
       "word": "李国庆再婚",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1172619,
-      "num": 961554,
+      "num": 1035754,
       "word": "程十安停更原因",
       "onboard_time": 1750246161,
       "rank": 11,
@@ -121,14 +137,6 @@
       "onboard_time": 1750243341,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1150758,
-      "num": 262647,
-      "word": "宋慧乔长发回归",
-      "onboard_time": 1750249581,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1144159,
@@ -227,12 +235,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 858818,
+      "num": 858818,
+      "word": "邓为 解约",
+      "onboard_time": 1750253062,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 826219,
-      "num": 244629,
+      "num": 248222,
       "word": "哈梅内伊",
       "onboard_time": 1750249221,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 824826,
+      "num": 430708,
+      "word": "没认出张柏芝",
+      "onboard_time": 1750251563,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 814614,
@@ -347,20 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 682178,
-      "num": 1109148,
-      "word": "韦神食堂吃饭被多人轮番拍照",
-      "onboard_time": 1750248622,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 677427,
       "num": 407933,
       "word": "范玮琪没说过隐隐约约有听说",
       "onboard_time": 1750222223,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 667606,
+      "num": 667606,
+      "word": "哈梅内伊讲话后以再次空袭德黑兰",
+      "onboard_time": 1750251681,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 664364,
@@ -835,6 +859,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 287681,
+      "num": 287681,
+      "word": "傅园慧一小时游泳课被10万元拍下",
+      "onboard_time": 1750244063,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 285845,
+      "num": 190137,
+      "word": "远嫁伊朗的华人女子连夜离开",
+      "onboard_time": 1750250541,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 281572,
       "num": 281572,
       "word": "上海阿婆在家照镜子被转走近400万",
@@ -852,7 +892,7 @@
     },
     {
       "raw_hot": 280418,
-      "num": 249733,
+      "num": 272163,
       "word": "白敬亭宋轶同款茶几地毯",
       "onboard_time": 1750245921,
       "rank": 22,
@@ -915,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262746,
-      "num": 232774,
-      "word": "傅园慧一小时游泳课被10万元拍下",
-      "onboard_time": 1750244063,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 261628,
       "num": 261628,
       "word": "美媒称特朗普正考虑加入对伊空袭",
@@ -955,12 +987,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251992,
-      "num": 186059,
-      "word": "远嫁伊朗的华人女子连夜离开",
-      "onboard_time": 1750250541,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 253267,
+      "num": 253267,
+      "word": "曹骏回应翻红后机会变多",
+      "onboard_time": 1750249581,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 251595,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1750174942,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 244596,
+      "num": 244596,
+      "word": "柯淳把余茵惹生气了",
+      "onboard_time": 1750245863,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 242836,
@@ -1083,28 +1123,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230556,
-      "num": 230556,
-      "word": "没认出张柏芝",
-      "onboard_time": 1750251563,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229852,
       "num": 229852,
       "word": "特朗普战情室见国家安全团队",
       "onboard_time": 1750203620,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229364,
-      "num": 229364,
-      "word": "柯淳把余茵惹生气了",
-      "onboard_time": 1750245863,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 228873,
@@ -1209,14 +1233,6 @@
       "onboard_time": 1750242322,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205418,
-      "num": 252550,
-      "word": "曹骏回应翻红后机会变多",
-      "onboard_time": 1750249581,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 204562,
@@ -1363,12 +1379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191298,
+      "num": 191298,
+      "word": "魏大勋早期labubu拥有者",
+      "onboard_time": 1750253543,
+      "rank": 28,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 189427,
       "num": 189427,
       "word": "原神开门",
       "onboard_time": 1750215922,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188990,
+      "num": 188990,
+      "word": "宝可梦labubu",
+      "onboard_time": 1750253843,
+      "rank": 31,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 188881,
@@ -1571,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171055,
+      "num": 171055,
+      "word": "京东沙特自营物流体系全面建成",
+      "onboard_time": 1750253843,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 169451,
       "num": 169451,
       "word": "酱园弄",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1750224321,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155980,
+      "num": 155980,
+      "word": "伊以战争即将进入第二阶段",
+      "onboard_time": 1750248862,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155610,
@@ -1907,6 +1955,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 133348,
+      "num": 133348,
+      "word": "哈萨克斯坦空军战机升空护航",
+      "onboard_time": 1750252462,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133285,
       "num": 133285,
       "word": "老谢曾是李雪琴的好友和室友",
@@ -1937,14 +1993,6 @@
       "onboard_time": 1750228522,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132483,
-      "num": 132483,
-      "word": "伊以战争即将进入第二阶段",
-      "onboard_time": 1750248862,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 132390,
@@ -2227,14 +2275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 110487,
-      "num": 248867,
-      "word": "哈梅内伊讲话后以再次空袭德黑兰",
-      "onboard_time": 1750251681,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 110384,
       "num": 110384,
       "word": "七根心简敖瑞鹏吓出土拨鼠叫",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1750163301,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108530,
+      "num": 265277,
+      "word": "618当天果然还是天猫更便宜",
+      "onboard_time": 1750248322,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 108370,
@@ -2675,6 +2723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 76852,
+      "num": 237995,
+      "word": "六旬老人举报违建后遭蒙面袭击后续",
+      "onboard_time": 1750251742,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75017,
       "num": 75017,
       "word": "黄友政陈熠vs张本智和张本美和",
@@ -2857,14 +2913,6 @@
       "onboard_time": 1750155802,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61173,
-      "num": 265277,
-      "word": "618当天果然还是天猫更便宜",
-      "onboard_time": 1750248322,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 60775,
@@ -3371,6 +3419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 20561,
+      "num": 277625,
+      "word": "肇庆怀集出现55.22米洪峰水位",
+      "onboard_time": 1750253543,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20419,
       "num": 159077,
       "word": "要去一线城市读书吗",
@@ -3395,11 +3451,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 18650,
-      "num": 237995,
-      "word": "六旬老人举报违建后遭蒙面袭击后续",
-      "onboard_time": 1750251742,
-      "rank": 16,
+      "raw_hot": 19703,
+      "num": 246116,
+      "word": "科技产品正在成为中国土特产",
+      "onboard_time": 1750253482,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -3424,6 +3480,14 @@
       "word": "以色列人不让乌克兰人进入防空洞",
       "onboard_time": 1750230921,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16940,
+      "num": 434068,
+      "word": "可生食鸡蛋连客服都不建议生吃",
+      "onboard_time": 1750253482,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3515,6 +3579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11410,
+      "num": 145261,
+      "word": "国补下苹果能成618最大赢家吗",
+      "onboard_time": 1750253843,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 11376,
       "num": 336768,
       "word": "救护车的收费标准是什么",
@@ -3529,6 +3601,22 @@
       "onboard_time": 1750188315,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9275,
+      "num": 928580,
+      "word": "数读5月消费市场亮点",
+      "onboard_time": 1750253722,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7017,
+      "num": 252362,
+      "word": "夏天不戴太阳镜会对眼睛有伤害吗",
+      "onboard_time": 1750253482,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 6450,
@@ -3559,6 +3647,9 @@
     },
     {
       "word": "#推动中国中亚合作不断取得新的成就#"
+    },
+    {
+      "word": "#8句话感悟中国－中亚精神#"
     }
   ]
 }
