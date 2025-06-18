@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/19 00:33:57 ~ 2025/06/19 03:21:36
+本榜单时间：2025/06/19 00:33:57 ~ 2025/06/19 03:38:03
 </p>
 </blockquote>
 <p>
@@ -399,6 +399,12 @@ Melody整盒端labubu（热度：66726）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E9%82%93%E7%B4%AB%E6%A3%8B%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E9%87%8D%E5%BD%95%E6%97%A7%E6%AD%8C%23" target="weibo">
+律师谈邓紫棋到底能不能重录旧歌（热度：21497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%B0%86%E4%BB%8ET%E5%88%B0%E5%8D%81%E5%86%8D%E5%88%B0%E5%B9%B2%23" target="weibo">
 中国空间站将从T到十再到干（热度：18374）
 </a>
@@ -407,12 +413,6 @@ Melody整盒端labubu（热度：66726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%B1%E7%9A%84%E5%A4%AA%E7%A9%BA%E6%88%BF%E5%AD%90%E5%87%86%E5%A4%87%E6%89%A9%E5%AE%B9%23" target="weibo">
 咱的太空房子准备扩容（热度：16576）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E9%82%93%E7%B4%AB%E6%A3%8B%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E9%87%8D%E5%BD%95%E6%97%A7%E6%AD%8C%23" target="weibo">
-律师谈邓紫棋到底能不能重录旧歌（热度：16470）
 </a>
 </li>
 

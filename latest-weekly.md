@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/15 00:29:55 ~ 2025/06/19 03:21:36
+本榜单时间：2025/06/15 00:29:55 ~ 2025/06/19 03:38:03
 </p>
 </blockquote>
 <p>
@@ -11145,6 +11145,12 @@ PlayStation剑星宣传文案争议（热度：24110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E9%82%93%E7%B4%AB%E6%A3%8B%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E9%87%8D%E5%BD%95%E6%97%A7%E6%AD%8C%23" target="weibo">
+律师谈邓紫棋到底能不能重录旧歌（热度：21497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E8%BF%AA%E4%BB%8A%E5%A4%A9%E6%98%AF%E6%82%A0%E9%97%B2%E7%9A%84%E6%97%A5%E5%B8%B8%23" target="weibo">
 温迪今天是悠闲的日常（热度：21386）
 </a>
@@ -11345,12 +11351,6 @@ PlayStation剑星宣传文案争议（热度：24110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%83%E8%83%BD%E6%95%8F%E9%94%90%E6%84%9F%E7%9F%A5%E7%94%9F%E5%86%B7%E9%A3%9F%E7%89%A9%23" target="weibo">
 为什么胃能敏锐感知生冷食物（热度：16480）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%B0%88%E9%82%93%E7%B4%AB%E6%A3%8B%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E9%87%8D%E5%BD%95%E6%97%A7%E6%AD%8C%23" target="weibo">
-律师谈邓紫棋到底能不能重录旧歌（热度：16470）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750274496933,
+  "endTime": 1750275483377,
   "band_list": [
     {
       "raw_hot": 1489486,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21497,
+      "num": 72819,
+      "word": "律师谈邓紫棋到底能不能重录旧歌",
+      "onboard_time": 1750273755,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 18374,
       "num": 31654,
       "word": "中国空间站将从T到十再到干",
@@ -529,14 +537,6 @@
       "onboard_time": 1750268237,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16470,
-      "num": 72819,
-      "word": "律师谈邓紫棋到底能不能重录旧歌",
-      "onboard_time": 1750273755,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 7720,
