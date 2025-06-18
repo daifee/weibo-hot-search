@@ -1,0 +1,410 @@
+{
+  "runTime": 1750229527732,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 663642,
+        "num": 1106182,
+        "word": "旅游博主江小隐在景区溺亡",
+        "onboard_time": 1750221144,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1701908,
+        "num": 1066732,
+        "word": "李雪琴方声明",
+        "onboard_time": 1750227141,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30065,
+        "num": 1002114,
+        "word": "全民反诈公开课",
+        "onboard_time": 1750226480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 983944,
+        "num": 983944,
+        "word": "李国庆再婚",
+        "onboard_time": 1750224502,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 881187,
+        "num": 881187,
+        "word": "蜂鸟音乐指控邓紫棋侵权",
+        "onboard_time": 1750223483,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554955,
+        "num": 554955,
+        "word": "以色列袭击已致伊朗585死1326伤",
+        "onboard_time": 1750226301,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 355565,
+        "num": 355565,
+        "word": "郑晓龙没想到藏海传会爆",
+        "onboard_time": 1750220723,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349378,
+        "num": 349378,
+        "word": "伊朗袭击致以色列24死逾1300伤",
+        "onboard_time": 1750226241,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266003,
+        "num": 348222,
+        "word": "老人胃炎被以癌症切全胃最新进展",
+        "onboard_time": 1750218742,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419184,
+        "num": 347704,
+        "word": "蜂鸟音乐要求下架邓紫棋重录歌曲",
+        "onboard_time": 1750225822,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 958026,
+        "num": 344876,
+        "word": "文泰一承认强奸",
+        "onboard_time": 1750217420,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824253,
+        "num": 344372,
+        "word": "天津机场航站楼车祸",
+        "onboard_time": 1750226121,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 741558,
+        "num": 342265,
+        "word": "谢娜都结婚了 他怎么不早点说啊",
+        "onboard_time": 1750220302,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562813,
+        "num": 341757,
+        "word": "丁禹兮花15万给粉丝买项链",
+        "onboard_time": 1750224981,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30670,
+        "num": 339800,
+        "word": "广东绥江怀集段遇建站来最大洪水",
+        "onboard_time": 1750228280,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393169,
+        "num": 337314,
+        "word": "张艺兴回应去医院就诊",
+        "onboard_time": 1750228941,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181625,
+        "num": 335900,
+        "word": "变形记中最争气的农村娃怎么样了",
+        "onboard_time": 1750219823,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335684,
+        "num": 335684,
+        "word": "高以翔生前女友Bella结婚",
+        "onboard_time": 1750215741,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29644,
+        "num": 333031,
+        "word": "付航618不要passion要fast",
+        "onboard_time": 1750226722,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24030,
+        "num": 329483,
+        "word": "学医会面临哪些困难",
+        "onboard_time": 1750228280,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 343267,
+        "num": 323482,
+        "word": "女子以为腹胀去医院竟当场生下男婴",
+        "onboard_time": 1750216761,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70811,
+        "num": 322369,
+        "word": "旅游博主江小隐景区溺亡朋友发声",
+        "onboard_time": 1750229121,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318148,
+        "num": 318148,
+        "word": "范玮琪没说过隐隐约约有听说",
+        "onboard_time": 1750222223,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303425,
+        "num": 303425,
+        "word": "汪峰宁静就这么自然地牵手了",
+        "onboard_time": 1750228161,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91862,
+        "num": 252953,
+        "word": "为什么共情能力太强不适合学医",
+        "onboard_time": 1750228641,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233797,
+        "num": 233797,
+        "word": "张艺谋巩俐早期情侣写真",
+        "onboard_time": 1750228880,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225370,
+        "num": 225370,
+        "word": "造谣迪丽热巴鹿晗恋情网友致歉",
+        "onboard_time": 1750225581,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200750,
+        "num": 200750,
+        "word": "伊朗向以色列发射高超音速导弹",
+        "onboard_time": 1750209261,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195512,
+        "num": 195512,
+        "word": "源来凯始玺欢你是谁起的",
+        "onboard_time": 1750229001,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173925,
+        "num": 189917,
+        "word": "姐姐5个字托举了妹妹一生",
+        "onboard_time": 1750228522,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189908,
+        "num": 189908,
+        "word": "网友实名举报李雪琴公司财务问题",
+        "onboard_time": 1750212620,
+        "rank": 30,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 181268,
+        "num": 188291,
+        "word": "长安的荔枝开分",
+        "onboard_time": 1750227681,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187126,
+        "num": 187126,
+        "word": "综艺新人拒绝24小时录制选择退出",
+        "onboard_time": 1750228582,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130933,
+        "num": 183994,
+        "word": "白糖罂荔枝跌破一元",
+        "onboard_time": 1750219582,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183745,
+        "num": 183745,
+        "word": "李雪琴方说法院见",
+        "onboard_time": 1750228461,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172599,
+        "num": 172599,
+        "word": "泫雅发龙俊亨被评论像金晓钟",
+        "onboard_time": 1750228042,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164547,
+        "num": 164547,
+        "word": "周深称被大家看见很难留住更难",
+        "onboard_time": 1750220422,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133154,
+        "num": 133154,
+        "word": "刘强东回应写遗书赴汶川灾区",
+        "onboard_time": 1750214120,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22412,
+        "num": 132103,
+        "word": "感谢吴明珠院士",
+        "onboard_time": 1750229121,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75597,
+        "num": 131773,
+        "word": "苏超赞助商从6家飙升至19家",
+        "onboard_time": 1750228522,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90131,
+        "num": 131643,
+        "word": "王嘉尔闯入印度赛道",
+        "onboard_time": 1750228461,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131519,
+        "num": 131519,
+        "word": "韩安冉给女儿优米买labubu",
+        "onboard_time": 1750229301,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127337,
+        "num": 127337,
+        "word": "孙颖莎的乒超vlog",
+        "onboard_time": 1750227741,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114059,
+        "num": 114059,
+        "word": "文泰一 NCT",
+        "onboard_time": 1750228221,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112969,
+        "num": 112969,
+        "word": "中餐厅9合伙人阵容官宣",
+        "onboard_time": 1750215142,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112624,
+        "num": 112624,
+        "word": "奚梦瑶问周一围喜欢儿子还是女儿",
+        "onboard_time": 1750220904,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112448,
+        "num": 112448,
+        "word": "李慧珍 我也遇到了自己的夏乔",
+        "onboard_time": 1750224141,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106610,
+        "num": 106610,
+        "word": "年轻人为何不再为爱情而结婚",
+        "onboard_time": 1750229481,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105284,
+        "num": 105284,
+        "word": "金晨别最粉的发卡开最猛的车",
+        "onboard_time": 1750223303,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104764,
+        "num": 104764,
+        "word": "景区回应旅游博主江小隐溺亡",
+        "onboard_time": 1750224681,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在中国—中亚峰会上的主旨发言#"
+    }
+  }
+}

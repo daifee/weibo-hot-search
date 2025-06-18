@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 14:37:43
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/18 14:52:07
 </p>
 </blockquote>
 <p>
@@ -3033,6 +3033,12 @@ AL战胜BLG（热度：859667）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%9C%BA%E5%9C%BA%E8%88%AA%E7%AB%99%E6%A5%BC%E8%BD%A6%E7%A5%B8%23" target="weibo">
+天津机场航站楼车祸（热度：824253）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%B8%AA3%E6%9C%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E9%81%97%E4%BD%93%E8%80%81%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
 失踪3月被发现遗体老人女儿发声（热度：821281）
 </a>
@@ -4373,12 +4379,6 @@ GAI 该做热玛吉了（热度：660381）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E7%BA%BF%E4%B8%8A%E5%B7%B2%E4%B8%8B%E6%9E%B64500%E5%85%83%E5%8D%8A%E8%BA%AB%E8%A3%99%23" target="weibo">
 巴黎世家线上已下架4500元半身裙（热度：648864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%9C%BA%E5%9C%BA%E8%88%AA%E7%AB%99%E6%A5%BC%E8%BD%A6%E7%A5%B8%23" target="weibo">
-天津机场航站楼车祸（热度：647429）
 </a>
 </li>
 
