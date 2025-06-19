@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750318826236,
+  "endTime": 1750322103095,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1147,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1677262,
+      "num": 330773,
+      "word": "曾黎 四个寥寥无几的粉丝",
+      "onboard_time": 1750319660,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1664130,
       "num": 1664130,
       "word": "哪吒2 分账",
@@ -2195,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1217385,
+      "num": 1217385,
+      "word": "以伊大规模冲突",
+      "onboard_time": 1750315401,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1216093,
       "num": 1216093,
       "word": "预制爆剧",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1748923222,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1120382,
-      "num": 1120382,
-      "word": "以伊大规模冲突",
-      "onboard_time": 1750315401,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1117438,
@@ -9115,6 +9123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492244,
+      "num": 330500,
+      "word": "被通知裁员的黄金一小时",
+      "onboard_time": 1750321101,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 492062,
       "num": 420176,
       "word": "向佐 这不是我老婆好吗",
@@ -9160,6 +9176,14 @@
       "word": "邓超 哭一鼻子",
       "onboard_time": 1749274882,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 490655,
+      "num": 490655,
+      "word": "宋威龙鼻子 女娲捏了两次",
+      "onboard_time": 1750320323,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -11281,6 +11305,14 @@
       "onboard_time": 1749342558,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406596,
+      "num": 325968,
+      "word": "豆瓣崩了",
+      "onboard_time": 1750321282,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 406441,
@@ -14123,6 +14155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333762,
+      "num": 333762,
+      "word": "乘客拍下飞机上有人多次吸电子烟",
+      "onboard_time": 1750316481,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333378,
       "num": 333378,
       "word": "重庆一学生街头被老大爷用手铐铐住",
@@ -15249,6 +15289,14 @@
       "onboard_time": 1749798981,
       "rank": 27,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 305797,
+      "num": 305797,
+      "word": "孟羽童回应一手好牌打得稀烂",
+      "onboard_time": 1750317680,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305659,
@@ -17419,6 +17467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269199,
+      "num": 269199,
+      "word": "女大学生失联近5天家属最新发声",
+      "onboard_time": 1750320081,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269092,
       "num": 269092,
       "word": "以军袭击伊朗核反应堆和核武器基地",
@@ -18147,6 +18203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258948,
+      "num": 258948,
+      "word": "纪凌尘还留着8年前的画",
+      "onboard_time": 1750319060,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258945,
       "num": 258945,
       "word": "台湾网红馆长说两岸城市差太多没法比",
@@ -18401,14 +18465,6 @@
       "onboard_time": 1749367880,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255714,
-      "num": 281608,
-      "word": "乘客拍下飞机上有人多次吸电子烟",
-      "onboard_time": 1750316481,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255563,
@@ -19153,6 +19209,14 @@
       "onboard_time": 1749858319,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245993,
+      "num": 245993,
+      "word": "王安宇光头照",
+      "onboard_time": 1750320981,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245827,
@@ -22283,6 +22347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213888,
+      "num": 213888,
+      "word": "冯文娟怀孕",
+      "onboard_time": 1750319902,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213843,
       "num": 400106,
       "word": "周一围看了桃花坞半夜被朱丹气醒",
@@ -22849,6 +22921,14 @@
       "onboard_time": 1749291383,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209623,
+      "num": 209623,
+      "word": "这么带感的恶女七根心简有6个",
+      "onboard_time": 1750320922,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 209557,
@@ -23739,6 +23819,14 @@
       "category": "电影,民生新闻"
     },
     {
+      "raw_hot": 205012,
+      "num": 205012,
+      "word": "李一桐 请喝水的漂亮姐姐",
+      "onboard_time": 1750321641,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204934,
       "num": 276816,
       "word": "李一桐有自己的Gaga扇子",
@@ -23809,6 +23897,14 @@
       "onboard_time": 1748749998,
       "rank": 23,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 204648,
+      "num": 204648,
+      "word": "利剑玫瑰",
+      "onboard_time": 1750321342,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 204566,
@@ -25235,6 +25331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198216,
+      "num": 198216,
+      "word": "下半年巨蟹座翻身做主",
+      "onboard_time": 1750320260,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198195,
       "num": 298227,
       "word": "父亲去世男子哭不出竟是罕见病",
@@ -25273,14 +25377,6 @@
       "onboard_time": 1749620301,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197997,
-      "num": 197997,
-      "word": "孟羽童回应一手好牌打得稀烂",
-      "onboard_time": 1750317680,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197928,
@@ -25665,6 +25761,14 @@
       "onboard_time": 1749286582,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196071,
+      "num": 196071,
+      "word": "RNG及老板姚金成等被执行1.6亿",
+      "onboard_time": 1750320561,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 196068,
@@ -26137,6 +26241,14 @@
       "onboard_time": 1750245801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193634,
+      "num": 193634,
+      "word": "杨紫孟子义李一桐新剧对打",
+      "onboard_time": 1750321761,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 193583,
@@ -28249,6 +28361,14 @@
       "onboard_time": 1749473121,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184357,
+      "num": 184357,
+      "word": "伊朗用美军基地地图回应美空袭威胁",
+      "onboard_time": 1750320622,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184352,
@@ -30697,6 +30817,14 @@
       "onboard_time": 1749268468,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172366,
+      "num": 172366,
+      "word": "路人镜头下的锤娜丽莎",
+      "onboard_time": 1750321881,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 172344,
@@ -33811,6 +33939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160224,
+      "num": 160224,
+      "word": "朋友圈折叠最大的受害者出现了",
+      "onboard_time": 1750321641,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160223,
       "num": 160223,
       "word": "猫 如何呢又能怎",
@@ -34817,6 +34953,14 @@
       "onboard_time": 1749734242,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156687,
+      "num": 156687,
+      "word": "山东人将labubu爆改huabobo",
+      "onboard_time": 1750321700,
+      "rank": 43,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 156612,
@@ -37803,6 +37947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145399,
+      "num": 145399,
+      "word": "外交部呼吁立即停火止战",
+      "onboard_time": 1750320381,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 145388,
       "num": 145388,
       "word": "檀健次赴一场热烈共振的声浪",
@@ -38017,6 +38169,14 @@
       "onboard_time": 1750295661,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144773,
+      "num": 323115,
+      "word": "伊朗导弹射程内有10座美军基地",
+      "onboard_time": 1750317742,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144732,
@@ -38585,6 +38745,14 @@
       "onboard_time": 1749908724,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142896,
+      "num": 192054,
+      "word": "曾舜晞说困难时想过放弃",
+      "onboard_time": 1750322001,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 142894,
@@ -49499,6 +49667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104990,
+      "num": 276765,
+      "word": "天猫618今天不仅没结束还更省了",
+      "onboard_time": 1750320202,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 104930,
       "num": 104930,
       "word": "江苏各地供电公司捧场苏超",
@@ -53209,14 +53385,6 @@
       "onboard_time": 1748774601,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86191,
-      "num": 323115,
-      "word": "伊朗导弹射程内有10座美军基地",
-      "onboard_time": 1750317742,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 86133,
@@ -59771,6 +59939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49244,
+      "num": 175406,
+      "word": "广西女数学家解决世纪难题",
+      "onboard_time": 1750319962,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49195,
       "num": 147287,
       "word": "马斯克推特骂战合集",
@@ -60971,6 +61147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42555,
+      "num": 288615,
+      "word": "张婧仪周翊然叠叠乐也好磕",
+      "onboard_time": 1750318460,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42536,
       "num": 173863,
       "word": "汽车零部件概念股走高",
@@ -61561,6 +61745,14 @@
       "onboard_time": 1748701222,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 40577,
+      "num": 331050,
+      "word": "实拍广东怀集洪水退去后街景",
+      "onboard_time": 1750320741,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40464,
@@ -64643,6 +64835,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 28641,
+      "num": 196357,
+      "word": "伊朗的泥石导弹为何难以拦截",
+      "onboard_time": 1750321881,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28638,
       "num": 131975,
       "word": "漂亮饭为啥吃的人这么多",
@@ -64817,14 +65017,6 @@
       "onboard_time": 1749010522,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 28167,
-      "num": 157867,
-      "word": "张婧仪周翊然叠叠乐也好磕",
-      "onboard_time": 1750318460,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 28138,
