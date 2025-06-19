@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750369169157,
+  "endTime": 1750371889785,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -12673,6 +12673,14 @@
       "onboard_time": 1749828624,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375563,
+      "num": 420090,
+      "word": "伊朗出动超100架无人机打击以军",
+      "onboard_time": 1750350259,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 375462,
@@ -42499,6 +42507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133533,
+      "num": 133533,
+      "word": "王欣瑜2比0高芙",
+      "onboard_time": 1750365375,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133512,
       "num": 133512,
       "word": "致谢中导师1句樊振东99句",
@@ -43329,14 +43345,6 @@
       "onboard_time": 1750168404,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131173,
-      "num": 131173,
-      "word": "伊朗出动超100架无人机打击以军",
-      "onboard_time": 1750350259,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131163,
@@ -58187,14 +58195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 65100,
-      "num": 65100,
-      "word": "王欣瑜2比0高芙",
-      "onboard_time": 1750365375,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65067,
       "num": 65067,
       "word": "伊万回应国足失利",
@@ -58579,6 +58579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62920,
+      "num": 62920,
+      "word": "伊朗称完全控制以色列领空",
+      "onboard_time": 1750365134,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62915,
       "num": 62915,
       "word": "郑钦文女王杯签表",
@@ -58865,6 +58873,14 @@
       "onboard_time": 1749015502,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61378,
+      "num": 61378,
+      "word": "迈阿密国际vs波尔图",
+      "onboard_time": 1750371616,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 61304,
@@ -61147,6 +61163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49376,
+      "num": 49376,
+      "word": "伊朗导弹击中特拉维夫多处建筑",
+      "onboard_time": 1750360094,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49364,
       "num": 238049,
       "word": "谁在买巴黎世家高定",
@@ -62099,6 +62123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44165,
+      "num": 44165,
+      "word": "伊朗再否认蓄意袭击医院",
+      "onboard_time": 1750354457,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44162,
       "num": 201393,
       "word": "流浪拉布拉多身上插箭疑遭射伤",
@@ -62121,14 +62153,6 @@
       "onboard_time": 1749135142,
       "rank": 29,
       "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 44023,
-      "num": 44023,
-      "word": "伊朗称完全控制以色列领空",
-      "onboard_time": 1750365134,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43929,
@@ -62601,6 +62625,14 @@
       "onboard_time": 1749569120,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 42140,
+      "num": 76494,
+      "word": "周深歌迷捧红了自己的LABUBU",
+      "onboard_time": 1750360635,
+      "rank": 33,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 42122,
@@ -63297,14 +63329,6 @@
       "onboard_time": 1749440362,
       "rank": 31,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 39480,
-      "num": 40881,
-      "word": "伊朗再否认蓄意袭击医院",
-      "onboard_time": 1750354457,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39435,
@@ -64795,14 +64819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 33961,
-      "num": 65847,
-      "word": "周深歌迷捧红了自己的LABUBU",
-      "onboard_time": 1750360635,
-      "rank": 33,
-      "category": "艺人,休闲"
-    },
-    {
       "raw_hot": 33959,
       "num": 388381,
       "word": "陈建斌蒋勤勤官宣微博电影之夜",
@@ -65433,6 +65449,14 @@
       "onboard_time": 1749634281,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31647,
+      "num": 31647,
+      "word": "美国支援以色列的三种手段",
+      "onboard_time": 1750360335,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31627,
@@ -66577,14 +66601,6 @@
       "onboard_time": 1749198381,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 27694,
-      "num": 27694,
-      "word": "伊朗导弹击中特拉维夫多处建筑",
-      "onboard_time": 1750360094,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27650,
@@ -68971,14 +68987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19417,
-      "num": 21051,
-      "word": "美国支援以色列的三种手段",
-      "onboard_time": 1750360335,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 19385,
       "num": 142325,
       "word": "大V聊车",
@@ -71347,6 +71355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 8228,
+      "num": 512132,
+      "word": "青春华章赣劲十足",
+      "onboard_time": 1750340123,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8180,
       "num": 212049,
       "word": "加州街头抗议者洗劫商店",
@@ -71369,14 +71385,6 @@
       "onboard_time": 1748782340,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 7806,
-      "num": 512132,
-      "word": "青春华章赣劲十足",
-      "onboard_time": 1750340123,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7749,

@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750369169157,
+  "endTime": 1750371889785,
   "band_list": [
     {
       "raw_hot": 1229638,
@@ -65,6 +65,14 @@
       "onboard_time": 1750345644,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375563,
+      "num": 420090,
+      "word": "伊朗出动超100架无人机打击以军",
+      "onboard_time": 1750350259,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 360348,
@@ -259,12 +267,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 131173,
-      "num": 131173,
-      "word": "伊朗出动超100架无人机打击以军",
-      "onboard_time": 1750350259,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 133533,
+      "num": 133533,
+      "word": "王欣瑜2比0高芙",
+      "onboard_time": 1750365375,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 122879,
@@ -427,19 +435,43 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65100,
-      "num": 65100,
-      "word": "王欣瑜2比0高芙",
-      "onboard_time": 1750365375,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 44023,
-      "num": 44023,
+      "raw_hot": 62920,
+      "num": 62920,
       "word": "伊朗称完全控制以色列领空",
       "onboard_time": 1750365134,
       "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 61378,
+      "num": 61378,
+      "word": "迈阿密国际vs波尔图",
+      "onboard_time": 1750371616,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57687,
+      "num": 57687,
+      "word": "人民日报谈单依纯改编歌曲李白",
+      "onboard_time": 1750369335,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 49376,
+      "num": 49376,
+      "word": "伊朗导弹击中特拉维夫多处建筑",
+      "onboard_time": 1750360094,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 44165,
+      "num": 44165,
+      "word": "伊朗再否认蓄意袭击医院",
+      "onboard_time": 1750354457,
+      "rank": 44,
       "category": "国际时政"
     },
     {
@@ -451,28 +483,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 39480,
-      "num": 40881,
-      "word": "伊朗再否认蓄意袭击医院",
-      "onboard_time": 1750354457,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 33961,
-      "num": 65847,
+      "raw_hot": 42140,
+      "num": 76494,
       "word": "周深歌迷捧红了自己的LABUBU",
       "onboard_time": 1750360635,
       "rank": 33,
       "category": "艺人,休闲"
     },
     {
-      "raw_hot": 27694,
-      "num": 27694,
-      "word": "伊朗导弹击中特拉维夫多处建筑",
-      "onboard_time": 1750360094,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 31647,
+      "num": 31647,
+      "word": "美国支援以色列的三种手段",
+      "onboard_time": 1750360335,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26904,
@@ -515,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19417,
-      "num": 21051,
-      "word": "美国支援以色列的三种手段",
-      "onboard_time": 1750360335,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 17551,
       "num": 21048,
       "word": "官方回应雕塑展获奖作品购自淘宝",
@@ -531,8 +547,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 7806,
-      "num": 179216,
+      "raw_hot": 8228,
+      "num": 235479,
       "word": "青春华章赣劲十足",
       "onboard_time": 1750340123,
       "rank": 2,
