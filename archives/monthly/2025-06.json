@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750373010027,
+  "endTime": 1750375553261,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -6011,6 +6011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 677326,
+      "num": 837972,
+      "word": "伊朗出动超100架无人机打击以军",
+      "onboard_time": 1750350259,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 677253,
       "num": 677253,
       "word": "酱园弄章子怡c位海报",
@@ -8443,14 +8451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 532192,
-      "num": 546418,
-      "word": "伊朗出动超100架无人机打击以军",
-      "onboard_time": 1750350259,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 531949,
       "num": 531949,
       "word": "城乡居民医保补助提至每人每年700元",
@@ -10281,6 +10281,14 @@
       "onboard_time": 1750312160,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 456894,
+      "num": 202153,
+      "word": "金价跌跌不休",
+      "onboard_time": 1750352718,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 456836,
@@ -24235,6 +24243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205744,
+      "num": 205744,
+      "word": "王欣瑜2比0高芙",
+      "onboard_time": 1750365375,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205676,
       "num": 205676,
       "word": "宋慧乔顶级美貌",
@@ -30931,14 +30947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174844,
-      "num": 174844,
-      "word": "王欣瑜2比0高芙",
-      "onboard_time": 1750365375,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174783,
       "num": 211351,
       "word": "白鹿说你懂我的吧",
@@ -32249,6 +32257,14 @@
       "onboard_time": 1748738179,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 169627,
+      "num": 169627,
+      "word": "司机不解说女乘客香被封号",
+      "onboard_time": 1750375278,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169584,
@@ -34019,6 +34035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163281,
+      "num": 123099,
+      "word": "特朗普两周内决定是否攻击伊朗",
+      "onboard_time": 1750375400,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 163272,
       "num": 146406,
       "word": "沙特王子也为周杰伦着迷",
@@ -34201,14 +34225,6 @@
       "onboard_time": 1749719843,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162375,
-      "num": 102729,
-      "word": "金价跌跌不休",
-      "onboard_time": 1750352718,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 162330,
@@ -36073,6 +36089,14 @@
       "onboard_time": 1749303682,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155192,
+      "num": 122621,
+      "word": "王皓考编总成绩第1",
+      "onboard_time": 1750375219,
+      "rank": 32,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 155158,
@@ -41507,6 +41531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136560,
+      "num": 204902,
+      "word": "影帝半夜偷海胆被捕",
+      "onboard_time": 1750335022,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136484,
       "num": 136484,
       "word": "歌手第六期选曲",
@@ -44419,14 +44451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128103,
-      "num": 204902,
-      "word": "影帝半夜偷海胆被捕",
-      "onboard_time": 1750335022,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128045,
       "num": 128045,
       "word": "王楚钦vs费浚航",
@@ -47321,6 +47345,14 @@
       "onboard_time": 1749003800,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 118386,
+      "num": 118386,
+      "word": "迈阿密国际2比1波尔图",
+      "onboard_time": 1750375159,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 118344,
@@ -50641,6 +50673,14 @@
       "onboard_time": 1749523041,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105406,
+      "num": 135470,
+      "word": "藏海传 庆功宴",
+      "onboard_time": 1750375159,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 105402,
@@ -54419,6 +54459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87079,
+      "num": 87079,
+      "word": "伊朗称完全控制以色列领空",
+      "onboard_time": 1750365134,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86975,
       "num": 241260,
       "word": "大众ID3官改概念车太超前了",
@@ -55331,6 +55379,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 82316,
+      "num": 82316,
+      "word": "香港丁克夫妻29平米的家",
+      "onboard_time": 1750374318,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82233,
       "num": 188986,
       "word": "金饰克价一夜跌13元",
@@ -55449,6 +55505,14 @@
       "onboard_time": 1750233744,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81609,
+      "num": 132269,
+      "word": "周深歌迷捧红了自己的LABUBU",
+      "onboard_time": 1750360635,
+      "rank": 33,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 81586,
@@ -56001,6 +56065,14 @@
       "onboard_time": 1748969898,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78017,
+      "num": 78017,
+      "word": "伊朗导弹击中特拉维夫多处建筑",
+      "onboard_time": 1750360094,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77812,
@@ -57041,14 +57113,6 @@
       "onboard_time": 1750003822,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 72069,
-      "num": 72069,
-      "word": "伊朗称完全控制以色列领空",
-      "onboard_time": 1750365134,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 72053,
@@ -58891,14 +58955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61228,
-      "num": 61228,
-      "word": "伊朗导弹击中特拉维夫多处建筑",
-      "onboard_time": 1750360094,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 61188,
       "num": 136261,
       "word": "洛杉矶冲突现场催泪弹橡皮子弹横飞",
@@ -59889,14 +59945,6 @@
       "onboard_time": 1749116000,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55360,
-      "num": 87132,
-      "word": "周深歌迷捧红了自己的LABUBU",
-      "onboard_time": 1750360635,
-      "rank": 33,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 55353,
@@ -66411,6 +66459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28284,
+      "num": 158190,
+      "word": "中国公民撤离伊朗时导弹从头顶飞过",
+      "onboard_time": 1750374979,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28269,
       "num": 286813,
       "word": "当地回应云冈石窟彩绘佛像被刻字",
@@ -69003,6 +69059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19310,
+      "num": 88988,
+      "word": "如果做了一款渣男游戏",
+      "onboard_time": 1750375219,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 19287,
       "num": 310747,
       "word": "长白头发暗示着哪些健康问题",
@@ -69425,6 +69489,14 @@
       "onboard_time": 1750168942,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17442,
+      "num": 77215,
+      "word": "王欣瑜晋级柏林赛8强",
+      "onboard_time": 1750375339,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 17430,
@@ -70105,6 +70177,14 @@
       "onboard_time": 1750201758,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14564,
+      "num": 512132,
+      "word": "青春华章赣劲十足",
+      "onboard_time": 1750340123,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14558,
@@ -71217,14 +71297,6 @@
       "onboard_time": 1749122900,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 9407,
-      "num": 512132,
-      "word": "青春华章赣劲十足",
-      "onboard_time": 1750340123,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9375,
