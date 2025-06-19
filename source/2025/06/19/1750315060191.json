@@ -1,0 +1,410 @@
+{
+  "runTime": 1750315060191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1481687,
+        "num": 1481687,
+        "word": "周杰伦 强直性脊柱炎",
+        "onboard_time": 1750309102,
+        "rank": 0,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 707578,
+        "num": 707578,
+        "word": "伊朗开始逐步亮出杀手锏",
+        "onboard_time": 1750312701,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20009,
+        "num": 703879,
+        "word": "中国空间站将从T到十再到干",
+        "onboard_time": 1750258226,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 702622,
+        "num": 702622,
+        "word": "邵雨轩谈疯产姐妹解散原因",
+        "onboard_time": 1750310781,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 604753,
+        "num": 604753,
+        "word": "张继科说labubu没价值的原因找到了",
+        "onboard_time": 1750309882,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543687,
+        "num": 543687,
+        "word": "父母去世20岁大哥一人供出4个大学生",
+        "onboard_time": 1750307543,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457664,
+        "num": 457664,
+        "word": "特朗普与巴基斯坦陆军元帅共进午餐",
+        "onboard_time": 1750312160,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422584,
+        "num": 422584,
+        "word": "多地查摆年轻干部玩心重混日子等问题",
+        "onboard_time": 1750307782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419090,
+        "num": 419090,
+        "word": "Labubu大补货后黄牛发声",
+        "onboard_time": 1750300221,
+        "rank": 8,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 274998,
+        "num": 370242,
+        "word": "马斯克星舰试飞前测试发生巨大爆炸",
+        "onboard_time": 1750313302,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 624210,
+        "num": 369056,
+        "word": "唯一没有黑粉的明星",
+        "onboard_time": 1750305742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358380,
+        "num": 358380,
+        "word": "黄子韬这一刻不反驳已经赢了",
+        "onboard_time": 1750310841,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328981,
+        "num": 328981,
+        "word": "肖战给化妆师发6600红包",
+        "onboard_time": 1750312341,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292232,
+        "num": 292232,
+        "word": "男子因眼睛小被频繁误判疲劳驾驶",
+        "onboard_time": 1750310002,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250475,
+        "num": 250475,
+        "word": "陈思诚签约00后小生黄毅",
+        "onboard_time": 1750313781,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221913,
+        "num": 221913,
+        "word": "韩国93岁冻龄女校长谈保养经验",
+        "onboard_time": 1750304121,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211284,
+        "num": 211284,
+        "word": "一念江南",
+        "onboard_time": 1750312761,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91581,
+        "num": 210344,
+        "word": "湖南一处溶洞内又现垃圾堆高15米",
+        "onboard_time": 1750314743,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209627,
+        "num": 209627,
+        "word": "一念江南官宣预告",
+        "onboard_time": 1750314562,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202628,
+        "num": 202628,
+        "word": "小沈阳女儿NINA出道",
+        "onboard_time": 1750304121,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285900,
+        "num": 202436,
+        "word": "孙杨回应在闲鱼买手办被认出",
+        "onboard_time": 1750312401,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200976,
+        "num": 200976,
+        "word": "普京称孙女正学习中文",
+        "onboard_time": 1750308203,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283076,
+        "num": 200303,
+        "word": "父母去世留下6个孩子兄弟争遗产闹翻",
+        "onboard_time": 1750308860,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199116,
+        "num": 199116,
+        "word": "歌手歌单",
+        "onboard_time": 1750314321,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186685,
+        "num": 186685,
+        "word": "决胜巅峰 蔡徐坤",
+        "onboard_time": 1750302860,
+        "rank": 24,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 182490,
+        "num": 182490,
+        "word": "奥运冠军昌雅妮本科毕业",
+        "onboard_time": 1750313482,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172595,
+        "num": 172595,
+        "word": "月薪3万存2万五的真实生活",
+        "onboard_time": 1750305140,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168555,
+        "num": 168555,
+        "word": "张婧仪周翊然 自己吓自己",
+        "onboard_time": 1750313781,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167682,
+        "num": 167682,
+        "word": "英国首相认错韩国总统",
+        "onboard_time": 1750307424,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74921,
+        "num": 164574,
+        "word": "星舰大爆炸",
+        "onboard_time": 1750314743,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168659,
+        "num": 164202,
+        "word": "王钰栋身价或暴涨",
+        "onboard_time": 1750314621,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163258,
+        "num": 163258,
+        "word": "26岁姑娘开农机冲进火场抢麦",
+        "onboard_time": 1750313601,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159975,
+        "num": 159975,
+        "word": "伊朗使用泥石导弹打击以色列",
+        "onboard_time": 1750288578,
+        "rank": 32,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 112913,
+        "num": 153370,
+        "word": "郭品超山东收麦子",
+        "onboard_time": 1750311502,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151451,
+        "num": 151451,
+        "word": "伊朗",
+        "onboard_time": 1750300281,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150131,
+        "num": 150131,
+        "word": "月明千里官宣",
+        "onboard_time": 1750311202,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144826,
+        "num": 144826,
+        "word": "美国49岁大学教授捐精生176名子女",
+        "onboard_time": 1750314261,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138118,
+        "num": 138118,
+        "word": "中国女游客印尼拍照时被强流卷走遇难",
+        "onboard_time": 1750314261,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136085,
+        "num": 136085,
+        "word": "以军袭击伊朗核反应堆和核武器基地",
+        "onboard_time": 1750314081,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20985,
+        "num": 131264,
+        "word": "潘展乐说要么不做要么做好",
+        "onboard_time": 1750314743,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129965,
+        "num": 129965,
+        "word": "天津警方通报滨海机场车祸",
+        "onboard_time": 1750314861,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 80092,
+        "num": 128055,
+        "word": "小鹏G7时速130实测AEB刹停",
+        "onboard_time": 1750312461,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127588,
+        "num": 127588,
+        "word": "河南洛阳一处水体呈粉红色",
+        "onboard_time": 1750314861,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126778,
+        "num": 126778,
+        "word": "Labubu大补货",
+        "onboard_time": 1750305621,
+        "rank": 43,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 126185,
+        "num": 126185,
+        "word": "LPL全球总决赛积分更新",
+        "onboard_time": 1750311741,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124057,
+        "num": 124057,
+        "word": "朱丹",
+        "onboard_time": 1750313840,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123157,
+        "num": 123157,
+        "word": "客服回应车主因眼小被误判疲劳驾驶",
+        "onboard_time": 1750312101,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69473,
+        "num": 121738,
+        "word": "比授子学位更离谱是全体毕业生结业",
+        "onboard_time": 1750303221,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120333,
+        "num": 120333,
+        "word": "被孙千说了四次长得像她",
+        "onboard_time": 1750298000,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119107,
+        "num": 119107,
+        "word": "女子22年化妆不卸妆脸红成关公",
+        "onboard_time": 1750264640,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的阿斯塔纳时间#"
+    }
+  }
+}

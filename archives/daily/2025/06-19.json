@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750311829376,
+  "endTime": 1750315060191,
   "band_list": [
     {
       "raw_hot": 2031335,
@@ -129,6 +129,22 @@
       "onboard_time": 1750307543,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 707578,
+      "num": 707578,
+      "word": "伊朗开始逐步亮出杀手锏",
+      "onboard_time": 1750312701,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 702622,
+      "num": 702622,
+      "word": "邵雨轩谈疯产姐妹解散原因",
+      "onboard_time": 1750310781,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 692434,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457664,
+      "num": 457664,
+      "word": "特朗普与巴基斯坦陆军元帅共进午餐",
+      "onboard_time": 1750312160,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 422956,
       "num": 422956,
       "word": "林依轮回应别再整了",
@@ -355,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 358380,
+      "num": 358380,
+      "word": "黄子韬这一刻不反驳已经赢了",
+      "onboard_time": 1750310841,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354126,
       "num": 354126,
       "word": "爱犬被毒死北京女子辞职追凶",
@@ -379,20 +411,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328981,
+      "num": 328981,
+      "word": "肖战给化妆师发6600红包",
+      "onboard_time": 1750312341,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328688,
       "num": 328688,
       "word": "邓为 解约",
       "onboard_time": 1750253062,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322773,
-      "num": 322773,
-      "word": "邵雨轩谈疯产姐妹解散原因",
-      "onboard_time": 1750310781,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 322153,
@@ -451,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285900,
+      "num": 202436,
+      "word": "孙杨回应在闲鱼买手办被认出",
+      "onboard_time": 1750312401,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285764,
       "num": 285764,
       "word": "金泳勋道歉",
@@ -473,6 +513,14 @@
       "onboard_time": 1750305981,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283076,
+      "num": 236515,
+      "word": "父母去世留下6个孩子兄弟争遗产闹翻",
+      "onboard_time": 1750308860,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281633,
@@ -507,20 +555,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274998,
+      "num": 370242,
+      "word": "马斯克星舰试飞前测试发生巨大爆炸",
+      "onboard_time": 1750313302,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 273588,
       "num": 294584,
       "word": "第一次见选秀0轮游",
       "onboard_time": 1750303100,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271501,
-      "num": 236515,
-      "word": "父母去世留下6个孩子兄弟争遗产闹翻",
-      "onboard_time": 1750308860,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 266866,
@@ -545,6 +593,14 @@
       "onboard_time": 1750258944,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250475,
+      "num": 250475,
+      "word": "陈思诚签约00后小生黄毅",
+      "onboard_time": 1750313781,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 243155,
@@ -667,6 +723,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211284,
+      "num": 211284,
+      "word": "一念江南",
+      "onboard_time": 1750312761,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209627,
+      "num": 209627,
+      "word": "一念江南官宣预告",
+      "onboard_time": 1750314562,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205676,
       "num": 205676,
       "word": "宋慧乔顶级美貌",
@@ -699,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200976,
+      "num": 383182,
+      "word": "普京称孙女正学习中文",
+      "onboard_time": 1750308203,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200941,
       "num": 200941,
       "word": "建议大家上班干活可以慢一点",
@@ -713,6 +793,14 @@
       "onboard_time": 1750302800,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199116,
+      "num": 199116,
+      "word": "歌手歌单",
+      "onboard_time": 1750314321,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 198329,
@@ -771,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182490,
+      "num": 182490,
+      "word": "奥运冠军昌雅妮本科毕业",
+      "onboard_time": 1750313482,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181760,
       "num": 181760,
       "word": "焕羽开播",
@@ -785,14 +881,6 @@
       "onboard_time": 1750307723,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180662,
-      "num": 180662,
-      "word": "黄子韬这一刻不反驳已经赢了",
-      "onboard_time": 1750310841,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 179368,
@@ -883,6 +971,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 168659,
+      "num": 164202,
+      "word": "王钰栋身价或暴涨",
+      "onboard_time": 1750314621,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168555,
+      "num": 168555,
+      "word": "张婧仪周翊然 自己吓自己",
+      "onboard_time": 1750313781,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 167511,
       "num": 221746,
       "word": "朱丹 潜意识",
@@ -915,20 +1019,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 163258,
+      "num": 163258,
+      "word": "26岁姑娘开农机冲进火场抢麦",
+      "onboard_time": 1750313601,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157058,
       "num": 157058,
       "word": "幼童笼中赤裸涉事家庭3人天生残疾",
       "onboard_time": 1750288639,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157028,
-      "num": 383182,
-      "word": "普京称孙女正学习中文",
-      "onboard_time": 1750308203,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 153401,
@@ -1019,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144826,
+      "num": 144826,
+      "word": "美国49岁大学教授捐精生176名子女",
+      "onboard_time": 1750314261,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 144784,
       "num": 144784,
       "word": "以色列摩萨德人员在伊朗接连落网",
@@ -1091,6 +1203,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 138118,
+      "num": 138118,
+      "word": "中国女游客印尼拍照时被强流卷走遇难",
+      "onboard_time": 1750314261,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 137834,
       "num": 137834,
       "word": "外交部驳斥欧盟主席指责中国言论",
@@ -1105,6 +1225,14 @@
       "onboard_time": 1750303641,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 136085,
+      "num": 136085,
+      "word": "以军袭击伊朗核反应堆和核武器基地",
+      "onboard_time": 1750314081,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135394,
@@ -1131,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129965,
+      "num": 129965,
+      "word": "天津警方通报滨海机场车祸",
+      "onboard_time": 1750314861,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 129588,
       "num": 383205,
       "word": "普京说愿与泽连斯基会面",
@@ -1140,7 +1276,7 @@
     },
     {
       "raw_hot": 128764,
-      "num": 128764,
+      "num": 153370,
       "word": "郭品超山东收麦子",
       "onboard_time": 1750311502,
       "rank": 38,
@@ -1163,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127588,
+      "num": 127588,
+      "word": "河南洛阳一处水体呈粉红色",
+      "onboard_time": 1750314861,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127033,
       "num": 127033,
       "word": "普京说伊朗以色列应停止冲突",
@@ -1179,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126185,
+      "num": 126185,
+      "word": "LPL全球总决赛积分更新",
+      "onboard_time": 1750311741,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126042,
       "num": 126042,
       "word": "沈腾范丞丞一对视就想笑",
@@ -1193,6 +1345,22 @@
       "onboard_time": 1750304061,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124057,
+      "num": 124057,
+      "word": "朱丹",
+      "onboard_time": 1750313840,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123157,
+      "num": 123157,
+      "word": "客服回应车主因眼小被误判疲劳驾驶",
+      "onboard_time": 1750312101,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122853,
@@ -1459,6 +1627,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 91581,
+      "num": 210344,
+      "word": "湖南一处溶洞内又现垃圾堆高15米",
+      "onboard_time": 1750314743,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91465,
       "num": 91465,
       "word": "杨迪lakuku裤子",
@@ -1579,12 +1755,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 80092,
+      "num": 128055,
+      "word": "小鹏G7时速130实测AEB刹停",
+      "onboard_time": 1750312461,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 76985,
       "num": 143291,
       "word": "伊朗泥石导弹发射视频",
       "onboard_time": 1750302141,
       "rank": 41,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 74921,
+      "num": 164574,
+      "word": "星舰大爆炸",
+      "onboard_time": 1750314743,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 71736,
@@ -1817,6 +2009,14 @@
       "onboard_time": 1750272075,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20985,
+      "num": 131264,
+      "word": "潘展乐说要么不做要么做好",
+      "onboard_time": 1750314743,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 19889,
