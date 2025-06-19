@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750299980393,
+  "endTime": 1750303430025,
   "band_list": [
     {
       "raw_hot": 1579007,
@@ -17,6 +17,14 @@
       "onboard_time": 1750263140,
       "rank": 0,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 1373620,
+      "num": 1373620,
+      "word": "Labubu大补货后黄牛发声",
+      "onboard_time": 1750300221,
+      "rank": 0,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 1272288,
@@ -41,6 +49,14 @@
       "onboard_time": 1750294822,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 984333,
+      "num": 984333,
+      "word": "哪吒2 分账",
+      "onboard_time": 1750302260,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 931337,
@@ -75,12 +91,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658477,
+      "num": 658477,
+      "word": "被孙千说了四次长得像她",
+      "onboard_time": 1750298000,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 608780,
+      "num": 608780,
+      "word": "男子不熟悉水性抱水桶下河救人",
+      "onboard_time": 1750296500,
+      "rank": 42,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 582042,
       "num": 582042,
       "word": "伊朗今晚有大事或为误读",
       "onboard_time": 1750257623,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 573357,
+      "num": 399696,
+      "word": "那尔那茜争议事件三大疑问待解",
+      "onboard_time": 1750298480,
+      "rank": 36,
+      "category": "舆论监督,艺人"
     },
     {
       "raw_hot": 543265,
@@ -115,20 +155,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 513636,
-      "num": 293248,
-      "word": "被孙千说了四次长得像她",
-      "onboard_time": 1750298000,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 507714,
       "num": 507714,
       "word": "泡泡玛特回应labubu预售",
       "onboard_time": 1750293082,
       "rank": 4,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 504531,
+      "num": 196508,
+      "word": "伊朗水漂弹",
+      "onboard_time": 1750300340,
+      "rank": 30,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 481262,
@@ -179,6 +219,30 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 402329,
+      "num": 402329,
+      "word": "沈腾说章若楠像受了潮的家具",
+      "onboard_time": 1750299380,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 401094,
+      "num": 401094,
+      "word": "广东怀集县洪水",
+      "onboard_time": 1750301721,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398663,
+      "num": 398663,
+      "word": "伊朗",
+      "onboard_time": 1750300281,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 369608,
       "num": 301016,
       "word": "陈冠希经纪人回应飞机争执",
@@ -216,6 +280,22 @@
       "word": "杜淳妻子回应生二胎",
       "onboard_time": 1750281855,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 311867,
+      "num": 311867,
+      "word": "伊朗首都局势紧张数百万民众开始疏散",
+      "onboard_time": 1750299680,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 299301,
+      "num": 299301,
+      "word": "迪丽热巴请送机粉丝喝奶茶",
+      "onboard_time": 1750301422,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -273,6 +353,14 @@
       "onboard_time": 1750291101,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 275578,
+      "num": 275578,
+      "word": "中国驻以色列使馆发布领事提醒",
+      "onboard_time": 1750298540,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 275231,
@@ -379,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212532,
+      "num": 278951,
+      "word": "邓紫棋小说价格",
+      "onboard_time": 1750301840,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203156,
       "num": 203156,
       "word": "朱丹 我们从未让女儿留级",
@@ -387,12 +483,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 202580,
-      "num": 202580,
-      "word": "沈腾说章若楠像受了潮的家具",
-      "onboard_time": 1750299380,
+      "raw_hot": 201699,
+      "num": 201699,
+      "word": "决胜巅峰 蔡徐坤",
+      "onboard_time": 1750302860,
       "rank": 24,
-      "category": "综艺"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199352,
+      "num": 199352,
+      "word": "BLACKPINK7月初回归",
+      "onboard_time": 1750302800,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 196045,
+      "num": 196045,
+      "word": "后羿新皮肤石田雨龙",
+      "onboard_time": 1750300820,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 191700,
@@ -523,12 +635,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 163137,
-      "num": 163137,
-      "word": "男子不熟悉水性抱水桶下河救人",
-      "onboard_time": 1750296500,
-      "rank": 42,
-      "category": "正能量"
+      "raw_hot": 162642,
+      "num": 198993,
+      "word": "第一次见选秀0轮游",
+      "onboard_time": 1750303100,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 157058,
@@ -555,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151554,
+      "num": 151554,
+      "word": "暃新皮肤朽木白哉",
+      "onboard_time": 1750301901,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149984,
       "num": 149984,
       "word": "美联储",
@@ -563,12 +683,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 146459,
-      "num": 261815,
-      "word": "那尔那茜争议事件三大疑问待解",
-      "onboard_time": 1750298480,
+      "raw_hot": 148280,
+      "num": 131767,
+      "word": "赵丽颖西林台词很有力量",
+      "onboard_time": 1750302380,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 146028,
+      "num": 146028,
+      "word": "宫本武藏新皮肤黑崎一护",
+      "onboard_time": 1750301840,
       "rank": 36,
-      "category": "舆论监督,艺人"
+      "category": "游戏"
     },
     {
       "raw_hot": 145997,
@@ -587,12 +715,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 143416,
+      "num": 143416,
+      "word": "比授子学位更离谱是全体毕业生结业",
+      "onboard_time": 1750303221,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143256,
+      "num": 143256,
+      "word": "TES或签约新辅助",
+      "onboard_time": 1750301363,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142958,
       "num": 142958,
       "word": "皇马1比1利雅得新月",
       "onboard_time": 1750288518,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140957,
+      "num": 198334,
+      "word": "在飞机上拍到了家乡",
+      "onboard_time": 1750300820,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 137834,
@@ -627,6 +779,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127894,
+      "num": 127894,
+      "word": "程十安最后一次发文是两年前",
+      "onboard_time": 1750302979,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 127033,
+      "num": 127033,
+      "word": "普京说伊朗以色列应停止冲突",
+      "onboard_time": 1750300340,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122659,
       "num": 122659,
       "word": "男子200万建洋房被爸妈塞满农作物",
@@ -651,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122272,
-      "num": 122272,
-      "word": "伊朗首都局势紧张数百万民众开始疏散",
-      "onboard_time": 1750299680,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 122078,
       "num": 168911,
       "word": "爸爸1天3包烟16岁女儿确诊肺癌",
@@ -667,12 +827,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120940,
-      "num": 268121,
-      "word": "中国驻以色列使馆发布领事提醒",
-      "onboard_time": 1750298540,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 120358,
+      "num": 120358,
+      "word": "沈腾范丞丞一对视就想笑",
+      "onboard_time": 1750303221,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 119413,
@@ -753,6 +913,14 @@
       "onboard_time": 1750258704,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99365,
+      "num": 320915,
+      "word": "切除老人全胃被停业医生目前可挂号",
+      "onboard_time": 1750302141,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97668,
@@ -891,6 +1059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76985,
+      "num": 143291,
+      "word": "伊朗泥石导弹发射视频",
+      "onboard_time": 1750302141,
+      "rank": 41,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 71736,
       "num": 71736,
       "word": "王一博任游山野",
@@ -939,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62604,
+      "num": 144064,
+      "word": "太宰治二次元顶流",
+      "onboard_time": 1750303038,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 57358,
       "num": 57358,
       "word": "中方回应特朗普要求伊朗无条件投降",
@@ -963,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47104,
+      "num": 777937,
+      "word": "中国空间站将从T到十再到干",
+      "onboard_time": 1750258226,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46912,
       "num": 160088,
       "word": "花1万5改装摩托车炸街构成寻衅滋事",
@@ -977,6 +1169,22 @@
       "onboard_time": 1750273755,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43163,
+      "num": 145739,
+      "word": "被动的美国",
+      "onboard_time": 1750303341,
+      "rank": 37,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 38081,
+      "num": 276857,
+      "word": "小孩高烧众人洪水中接力送医",
+      "onboard_time": 1750302141,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 37141,
@@ -1011,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24938,
+      "num": 400957,
+      "word": "直击肇庆怀集洪涝抢险救援",
+      "onboard_time": 1750302740,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 22713,
       "num": 24597,
       "word": "邓紫棋我不知道我还要回应什么",
@@ -1025,14 +1241,6 @@
       "onboard_time": 1750289780,
       "rank": 16,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 18374,
-      "num": 31654,
-      "word": "中国空间站将从T到十再到干",
-      "onboard_time": 1750258226,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16963,
@@ -1081,6 +1289,9 @@
     },
     {
       "word": "#习近平回到北京#"
+    },
+    {
+      "word": "#合作之路越走越宽广#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1750303430025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1373620,
+        "num": 1373620,
+        "word": "Labubu大补货后黄牛发声",
+        "onboard_time": 1750300221,
+        "rank": 0,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 984333,
+        "num": 984333,
+        "word": "哪吒2 分账",
+        "onboard_time": 1750302260,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47104,
+        "num": 777937,
+        "word": "中国空间站将从T到十再到干",
+        "onboard_time": 1750258226,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 658477,
+        "num": 658477,
+        "word": "被孙千说了四次长得像她",
+        "onboard_time": 1750298000,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651250,
+        "num": 651250,
+        "word": "陪爬泰山男演员已经接了6单",
+        "onboard_time": 1750293142,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608780,
+        "num": 608780,
+        "word": "男子不熟悉水性抱水桶下河救人",
+        "onboard_time": 1750296500,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 402599,
+        "num": 402599,
+        "word": "朱丹又又又为自己说错话而道歉了",
+        "onboard_time": 1750285336,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402329,
+        "num": 402329,
+        "word": "沈腾说章若楠像受了潮的家具",
+        "onboard_time": 1750299380,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401094,
+        "num": 401094,
+        "word": "广东怀集县洪水",
+        "onboard_time": 1750301721,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24938,
+        "num": 400957,
+        "word": "直击肇庆怀集洪涝抢险救援",
+        "onboard_time": 1750302740,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 732348,
+        "num": 399962,
+        "word": "伊朗使用泥石导弹打击以色列",
+        "onboard_time": 1750288578,
+        "rank": 10,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 573357,
+        "num": 399696,
+        "word": "那尔那茜争议事件三大疑问待解",
+        "onboard_time": 1750298480,
+        "rank": 11,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 414662,
+        "num": 398736,
+        "word": "女子22年化妆不卸妆脸红成关公",
+        "onboard_time": 1750264640,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398663,
+        "num": 398663,
+        "word": "伊朗",
+        "onboard_time": 1750300281,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99365,
+        "num": 320915,
+        "word": "切除老人全胃被停业医生目前可挂号",
+        "onboard_time": 1750302141,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311867,
+        "num": 311867,
+        "word": "伊朗首都局势紧张数百万民众开始疏散",
+        "onboard_time": 1750299680,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299301,
+        "num": 299301,
+        "word": "迪丽热巴请送机粉丝喝奶茶",
+        "onboard_time": 1750301422,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283531,
+        "num": 283531,
+        "word": "奥迪暂停全面电动化",
+        "onboard_time": 1750298301,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212532,
+        "num": 278951,
+        "word": "邓紫棋小说价格",
+        "onboard_time": 1750301840,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38081,
+        "num": 276857,
+        "word": "小孩高烧众人洪水中接力送医",
+        "onboard_time": 1750302141,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 275578,
+        "num": 275578,
+        "word": "中国驻以色列使馆发布领事提醒",
+        "onboard_time": 1750298540,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246337,
+        "num": 246337,
+        "word": "伊朗称不逃离以色列就选择死亡",
+        "onboard_time": 1750294102,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233446,
+        "num": 233446,
+        "word": "大爷捡到隐藏款labubu挂吸粪车",
+        "onboard_time": 1750263140,
+        "rank": 22,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 225196,
+        "num": 225196,
+        "word": "丁程鑫G社生图",
+        "onboard_time": 1750297159,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201699,
+        "num": 201699,
+        "word": "决胜巅峰 蔡徐坤",
+        "onboard_time": 1750302860,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199352,
+        "num": 199352,
+        "word": "BLACKPINK7月初回归",
+        "onboard_time": 1750302800,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162642,
+        "num": 198993,
+        "word": "第一次见选秀0轮游",
+        "onboard_time": 1750303100,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140957,
+        "num": 198334,
+        "word": "在飞机上拍到了家乡",
+        "onboard_time": 1750300820,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142022,
+        "num": 197550,
+        "word": "李现演技 惊艳",
+        "onboard_time": 1750295900,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141400,
+        "num": 196859,
+        "word": "李雪琴 老谢",
+        "onboard_time": 1750295541,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504531,
+        "num": 196508,
+        "word": "伊朗水漂弹",
+        "onboard_time": 1750300340,
+        "rank": 30,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 196045,
+        "num": 196045,
+        "word": "后羿新皮肤石田雨龙",
+        "onboard_time": 1750300820,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170529,
+        "num": 170529,
+        "word": "顿顿离职",
+        "onboard_time": 1750288639,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163789,
+        "num": 163789,
+        "word": "伊以冲突",
+        "onboard_time": 1750293622,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159677,
+        "num": 159677,
+        "word": "伊朗媒体发布手摸核弹视频",
+        "onboard_time": 1750291942,
+        "rank": 34,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 151554,
+        "num": 151554,
+        "word": "暃新皮肤朽木白哉",
+        "onboard_time": 1750301901,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146028,
+        "num": 146028,
+        "word": "宫本武藏新皮肤黑崎一护",
+        "onboard_time": 1750301840,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43163,
+        "num": 145739,
+        "word": "被动的美国",
+        "onboard_time": 1750303341,
+        "rank": 37,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 145488,
+        "num": 145488,
+        "word": "QS世界大学排名",
+        "onboard_time": 1750291101,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 62604,
+        "num": 144064,
+        "word": "太宰治二次元顶流",
+        "onboard_time": 1750303038,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143416,
+        "num": 143416,
+        "word": "比授子学位更离谱是全体毕业生结业",
+        "onboard_time": 1750303221,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76985,
+        "num": 143291,
+        "word": "伊朗泥石导弹发射视频",
+        "onboard_time": 1750302141,
+        "rank": 41,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 143256,
+        "num": 143256,
+        "word": "TES或签约新辅助",
+        "onboard_time": 1750301363,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133794,
+        "num": 133794,
+        "word": "特朗普说美国不要停火要彻底胜利",
+        "onboard_time": 1750297700,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148280,
+        "num": 131767,
+        "word": "赵丽颖西林台词很有力量",
+        "onboard_time": 1750302380,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127894,
+        "num": 127894,
+        "word": "程十安最后一次发文是两年前",
+        "onboard_time": 1750302979,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127033,
+        "num": 127033,
+        "word": "普京说伊朗以色列应停止冲突",
+        "onboard_time": 1750300340,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125315,
+        "num": 125315,
+        "word": "泡泡玛特回应labubu预售",
+        "onboard_time": 1750293082,
+        "rank": 47,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 120358,
+        "num": 120358,
+        "word": "沈腾范丞丞一对视就想笑",
+        "onboard_time": 1750303221,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116856,
+        "num": 116856,
+        "word": "00后女孩醉驾致3死受害者母亲发声",
+        "onboard_time": 1750259603,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#合作之路越走越宽广#"
+    }
+  }
+}
