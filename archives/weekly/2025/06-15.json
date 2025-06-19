@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750358939062,
+  "endTime": 1750360764180,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -17731,6 +17731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26099,
+      "num": 29302,
+      "word": "周深歌迷捧红了自己的LABUBU",
+      "onboard_time": 1750360635,
+      "rank": 33,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 25896,
       "num": 423248,
       "word": "我国磁悬浮技术获新突破",
@@ -18345,6 +18353,22 @@
       "onboard_time": 1749932054,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 18242,
+      "num": 20142,
+      "word": "伊朗导弹击中特拉维夫多处建筑",
+      "onboard_time": 1750360094,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18240,
+      "num": 20139,
+      "word": "梅雨季",
+      "onboard_time": 1750360635,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18232,
