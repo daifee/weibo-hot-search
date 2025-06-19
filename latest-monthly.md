@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/19 22:44:32
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/19 23:28:05
 </p>
 </blockquote>
 <p>
@@ -4437,6 +4437,12 @@ labubu牙套（热度：696332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%B1%E6%8E%89%E8%A1%A3%E6%9C%8D%E7%9A%84labubu%E6%A0%B7%E5%AD%90%23" target="weibo">
+脱掉衣服的labubu样子（热度：690862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E4%BB%A5%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB%23" target="weibo">
 伊朗对以发动大规模袭击（热度：688841）
 </a>
@@ -6005,12 +6011,6 @@ labubu医美（热度：554444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%AF%B4%E9%80%89%E5%A4%A7%E7%88%86%E5%89%A7%E7%9A%84%E4%B8%BB%E8%A7%92%23" target="weibo">
 虞书欣说选大爆剧的主角（热度：554325）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2025%23" target="weibo">
-歌手2025（热度：553094）
 </a>
 </li>
 

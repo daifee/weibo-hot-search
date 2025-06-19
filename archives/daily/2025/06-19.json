@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750344272600,
+  "endTime": 1750346885548,
   "band_list": [
     {
       "raw_hot": 2908750,
@@ -283,6 +283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 690862,
+      "num": 690862,
+      "word": "脱掉衣服的labubu样子",
+      "onboard_time": 1750341742,
+      "rank": 32,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 688841,
       "num": 320909,
       "word": "伊朗对以发动大规模袭击",
@@ -385,6 +393,14 @@
       "onboard_time": 1750263980,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 532717,
+      "num": 237848,
+      "word": "李雪琴",
+      "onboard_time": 1750344205,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 528945,
@@ -659,6 +675,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377280,
+      "num": 377280,
+      "word": "恋与深空偷跑",
+      "onboard_time": 1750346122,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 372464,
+      "num": 233049,
+      "word": "李昀锐说在剧组跑步偶遇关晓彤",
+      "onboard_time": 1750343722,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370082,
       "num": 370082,
       "word": "普京说自己的外孙女正在学习中文",
@@ -699,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 357064,
+      "num": 357064,
+      "word": "原来恶女才是张婧仪的统治区",
+      "onboard_time": 1750343364,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354126,
       "num": 354126,
       "word": "爱犬被毒死北京女子辞职追凶",
@@ -712,14 +752,6 @@
       "word": "Labubu大补货",
       "onboard_time": 1750305621,
       "rank": 18,
-      "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 350099,
-      "num": 350099,
-      "word": "脱掉衣服的labubu样子",
-      "onboard_time": 1750341742,
-      "rank": 32,
       "category": "休闲,动漫"
     },
     {
@@ -811,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315335,
+      "num": 227655,
+      "word": "捞女游戏",
+      "onboard_time": 1750345823,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 314512,
       "num": 242543,
       "word": "父母去世留下6个孩子兄弟争遗产闹翻",
@@ -833,6 +873,14 @@
       "onboard_time": 1750331123,
       "rank": 32,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 304432,
+      "num": 227341,
+      "word": "王鹤棣用过的碗筷被供起来",
+      "onboard_time": 1750345644,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 300128,
@@ -897,6 +945,14 @@
       "onboard_time": 1750249581,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288005,
+      "num": 226363,
+      "word": "2025对杨幂好点了",
+      "onboard_time": 1750345043,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 285764,
@@ -995,6 +1051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 268053,
+      "num": 226053,
+      "word": "以色列",
+      "onboard_time": 1750346122,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 266866,
       "num": 266866,
       "word": "伊朗地下核设施受损",
@@ -1059,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251292,
+      "num": 251292,
+      "word": "迪丽热巴时隔两年再播剧",
+      "onboard_time": 1750346242,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250710,
       "num": 236915,
       "word": "周翊然白鹿友谊",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1750259603,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237958,
+      "num": 241114,
+      "word": "曾舜晞我承认之前对你大声了点",
+      "onboard_time": 1750340243,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 237208,
@@ -1235,14 +1315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227340,
-      "num": 241114,
-      "word": "曾舜晞我承认之前对你大声了点",
-      "onboard_time": 1750340243,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226594,
       "num": 245483,
       "word": "伊朗的抵抗之弧还能撑多久",
@@ -1283,20 +1355,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214907,
-      "num": 214907,
-      "word": "原来恶女才是张婧仪的统治区",
-      "onboard_time": 1750343364,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213816,
       "num": 213816,
       "word": "哈梅内伊任命伊朗革命卫队陆军司令",
       "onboard_time": 1750334781,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 213100,
+      "num": 238783,
+      "word": "美国末日飞机敏感时刻现异常动向",
+      "onboard_time": 1750344683,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 211552,
+      "num": 234470,
+      "word": "疯产姐妹近30日掉粉超19万",
+      "onboard_time": 1750341202,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 209623,
@@ -1475,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192613,
+      "num": 192613,
+      "word": "中国海警回应菲律宾非法侵权挑衅",
+      "onboard_time": 1750344863,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191993,
       "num": 191993,
       "word": "海螺AI",
@@ -1489,6 +1577,14 @@
       "onboard_time": 1750288578,
       "rank": 19,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 191497,
+      "num": 231190,
+      "word": "马嘉祺云与海音源",
+      "onboard_time": 1750346122,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 190587,
@@ -1513,6 +1609,14 @@
       "onboard_time": 1750314621,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187189,
+      "num": 230513,
+      "word": "中餐厅",
+      "onboard_time": 1750346362,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 186833,
@@ -1603,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179794,
+      "num": 179794,
+      "word": "中国女排3比2保加利亚女排",
+      "onboard_time": 1750346602,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179368,
       "num": 179368,
       "word": "王者白起联动皮肤免费送",
@@ -1673,6 +1785,14 @@
       "onboard_time": 1750324222,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 171902,
+      "num": 229682,
+      "word": "伊朗针对打击中东地区美军做好准备",
+      "onboard_time": 1750346122,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 170402,
@@ -1747,14 +1867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169545,
-      "num": 169545,
-      "word": "李昀锐说在剧组跑步偶遇关晓彤",
-      "onboard_time": 1750343722,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169204,
       "num": 207584,
       "word": "程十安最后一次发文是两年前",
@@ -1809,6 +1921,14 @@
       "onboard_time": 1750261941,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166675,
+      "num": 236815,
+      "word": "业内称部分椰子水是浓缩椰浆勾兑",
+      "onboard_time": 1750343003,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 164566,
@@ -1889,14 +2009,6 @@
       "onboard_time": 1750314743,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 154716,
-      "num": 154716,
-      "word": "疯产姐妹近30日掉粉超19万",
-      "onboard_time": 1750341202,
-      "rank": 37,
-      "category": "网红"
     },
     {
       "raw_hot": 153447,
@@ -2161,6 +2273,14 @@
       "onboard_time": 1750322001,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142252,
+      "num": 142252,
+      "word": "20岁男子闻啥都有臭味竟是鼻子发霉",
+      "onboard_time": 1750345343,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141744,
@@ -2539,14 +2659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119934,
-      "num": 119934,
-      "word": "李雪琴",
-      "onboard_time": 1750344205,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "伊朗绞刑处死内鬼",
@@ -2641,6 +2753,14 @@
       "onboard_time": 1750328241,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113500,
+      "num": 113500,
+      "word": "单依纯确定唱一个人跳舞",
+      "onboard_time": 1750346723,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 112873,
@@ -2947,14 +3067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87953,
-      "num": 115550,
-      "word": "业内称部分椰子水是浓缩椰浆勾兑",
-      "onboard_time": 1750343003,
-      "rank": 49,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 87664,
       "num": 87664,
       "word": "25岁男子刺伤一女子因其长得像前女友",
@@ -3187,6 +3299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55056,
+      "num": 228207,
+      "word": "女子嗦龙虾头致细菌感染住院",
+      "onboard_time": 1750346542,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53972,
       "num": 298998,
       "word": "切老人全胃医生可挂号医院称不再回复",
@@ -3379,6 +3499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36288,
+      "num": 234201,
+      "word": "女童被马蜂蜇伤辗转5家医院获救治",
+      "onboard_time": 1750345343,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36157,
       "num": 147876,
       "word": "孙杨谈全运会目标",
@@ -3483,6 +3611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29741,
+      "num": 782414,
+      "word": "科技感拉满中国好丰景",
+      "onboard_time": 1750340363,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27773,
       "num": 68172,
       "word": "以色列正与美国保持沟通",
@@ -3537,14 +3673,6 @@
       "onboard_time": 1750324941,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 24914,
-      "num": 782414,
-      "word": "科技感拉满中国好丰景",
-      "onboard_time": 1750340363,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23352,
