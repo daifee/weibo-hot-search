@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/19 17:43:23
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/19 18:28:59
 </p>
 </blockquote>
 <p>
@@ -731,6 +731,12 @@ iOS26 丑（热度：2160228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%BA%A7%E7%AD%94%E6%A1%88%23" target="weibo">
 六级答案（热度：1795047）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23LABUBU%20%E4%BB%B7%E6%A0%BC%E5%B4%A9%E7%9B%98%23" target="weibo">
+LABUBU 价格崩盘（热度：1793949）
 </a>
 </li>
 
@@ -4365,6 +4371,12 @@ labubu牙套（热度：696332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E4%BB%A5%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB%23" target="weibo">
+伊朗对以发动大规模袭击（热度：688841）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%A5%B3%E5%AD%90%E7%89%99%E7%96%BC%E5%88%87%E5%BC%80%E8%84%93%E8%82%BF%E5%8F%91%E7%8E%B020%E5%A4%9A%E7%A7%8D%E7%BB%86%E8%8F%8C%23" target="weibo">
 浙江女子牙疼切开脓肿发现20多种细菌（热度：687819）
 </a>
@@ -4517,12 +4529,6 @@ labubu牙套（热度：696332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E4%B8%9C%E5%9F%8E%E6%89%B9Labubu%E9%BB%84%E7%89%9B%E6%98%AF%E6%81%B6%E4%BA%BA%23" target="weibo">
 汪东城批Labubu黄牛是恶人（热度：668703）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E4%BB%A5%E5%8F%91%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB%23" target="weibo">
-伊朗对以发动大规模袭击（热度：668194）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ labubu医美（热度：554444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E5%A5%BD%E8%BE%A3%23" target="weibo">
 陈昊宇好辣（热度：548047）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E4%B8%B4%E6%B1%9F%E4%BB%99%E5%80%BC%E5%BE%97%23" target="weibo">
-白鹿 临江仙值得（热度：547877）
 </a>
 </li>
 

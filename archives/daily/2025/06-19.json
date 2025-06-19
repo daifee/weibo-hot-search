@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750326203186,
+  "endTime": 1750328939649,
   "band_list": [
     {
       "raw_hot": 2031335,
@@ -17,6 +17,14 @@
       "onboard_time": 1750322423,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1793949,
+      "num": 1793949,
+      "word": "LABUBU 价格崩盘",
+      "onboard_time": 1750326622,
+      "rank": 0,
+      "category": "休闲,财经"
     },
     {
       "raw_hot": 1677262,
@@ -187,7 +195,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 668194,
+      "raw_hot": 688841,
       "num": 320909,
       "word": "伊朗对以发动大规模袭击",
       "onboard_time": 1750323922,
@@ -329,6 +337,14 @@
       "onboard_time": 1750300340,
       "rank": 30,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 496616,
+      "num": 496616,
+      "word": "多所高校明确2025年不招复读生",
+      "onboard_time": 1750324341,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 492244,
@@ -531,8 +547,16 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 351326,
+      "num": 295613,
+      "word": "老中医锐评内娱男明星",
+      "onboard_time": 1750324581,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345232,
-      "num": 233771,
+      "num": 247399,
       "word": "短剧女演员闯进长剧圈了",
       "onboard_time": 1750325721,
       "rank": 20,
@@ -763,6 +787,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 259738,
+      "num": 259738,
+      "word": "瘦胖子",
+      "onboard_time": 1750326081,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 259689,
       "num": 259689,
       "word": "陈思诚签约00后小生黄毅",
@@ -899,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231619,
-      "num": 231619,
-      "word": "多所高校明确2025年不招复读生",
-      "onboard_time": 1750324341,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 231245,
       "num": 261857,
       "word": "李现演技 惊艳",
@@ -932,7 +956,7 @@
     },
     {
       "raw_hot": 221885,
-      "num": 234163,
+      "num": 283244,
       "word": "杨紫孟子义李一桐新剧对打",
       "onboard_time": 1750321761,
       "rank": 33,
@@ -953,6 +977,14 @@
       "onboard_time": 1750288578,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215738,
+      "num": 215738,
+      "word": "明日方舟",
+      "onboard_time": 1750328661,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 209623,
@@ -1009,14 +1041,6 @@
       "onboard_time": 1750231041,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202816,
-      "num": 202816,
-      "word": "老中医锐评内娱男明星",
-      "onboard_time": 1750324581,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 200976,
@@ -1132,7 +1156,7 @@
     },
     {
       "raw_hot": 190587,
-      "num": 190587,
+      "num": 247470,
       "word": "杨幂生万物央视暑期档",
       "onboard_time": 1750326141,
       "rank": 29,
@@ -1204,7 +1228,7 @@
     },
     {
       "raw_hot": 181760,
-      "num": 181760,
+      "num": 191664,
       "word": "焕羽开播",
       "onboard_time": 1750299320,
       "rank": 25,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1750307723,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180216,
+      "num": 180216,
+      "word": "朱丹 周一围",
+      "onboard_time": 1750328541,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179368,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1750324222,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170402,
+      "num": 170402,
+      "word": "刘强东与外卖小哥合影",
+      "onboard_time": 1750327881,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 170244,
@@ -1403,20 +1443,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 163945,
+      "num": 163945,
+      "word": "改善肩膀内扣的方法",
+      "onboard_time": 1750324820,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 157836,
       "num": 157836,
       "word": "整根吸2.0",
       "onboard_time": 1750318161,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157337,
-      "num": 157337,
-      "word": "改善肩膀内扣的方法",
-      "onboard_time": 1750324820,
-      "rank": 38,
-      "category": "运动健身"
     },
     {
       "raw_hot": 157058,
@@ -1507,6 +1547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150775,
+      "num": 150775,
+      "word": "19岁骑手摔倒在ICU抢救18天死亡",
+      "onboard_time": 1750328721,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150365,
       "num": 150365,
       "word": "新疆咸奶茶",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1750304841,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145079,
+      "num": 145079,
+      "word": "男子称辱骂交警后被打断9根肋骨",
+      "onboard_time": 1750327161,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144784,
@@ -1723,6 +1779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136133,
+      "num": 136133,
+      "word": "这和吻上周翊然有什么区别啊",
+      "onboard_time": 1750327760,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135394,
       "num": 174989,
       "word": "青岛民宿严重不符拒退款",
@@ -1737,6 +1801,14 @@
       "onboard_time": 1750308562,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134877,
+      "num": 134877,
+      "word": "白鹿花如月扶额",
+      "onboard_time": 1750328600,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 132794,
@@ -1795,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127282,
+      "num": 180403,
+      "word": "两地明确医生可告知艾滋病患者配偶",
+      "onboard_time": 1750325182,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127033,
       "num": 127033,
       "word": "普京说伊朗以色列应停止冲突",
@@ -1835,20 +1915,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 125303,
-      "num": 125303,
-      "word": "两地明确医生可告知艾滋病患者配偶",
-      "onboard_time": 1750325182,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123506,
       "num": 123506,
       "word": "焕羽",
       "onboard_time": 1750322840,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123376,
+      "num": 123376,
+      "word": "时代峰峻优先购方式变更",
+      "onboard_time": 1750326922,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 123157,
@@ -1955,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117440,
+      "num": 117440,
+      "word": "美国男子收便宜香肠后杀害邻居夫妇",
+      "onboard_time": 1750327760,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116155,
       "num": 116155,
       "word": "A股放量596亿元",
@@ -1995,12 +2083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113971,
+      "num": 113971,
+      "word": "42岁高管被裁经营三家店的一天",
+      "onboard_time": 1750328241,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112873,
       "num": 135492,
       "word": "诺德股份涨停",
       "onboard_time": 1750304601,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112346,
+      "num": 112346,
+      "word": "伊朗称准确击中以军事及情报机构",
+      "onboard_time": 1750328241,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111523,
@@ -2097,14 +2201,6 @@
       "onboard_time": 1750311502,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103228,
-      "num": 108522,
-      "word": "瘦胖子",
-      "onboard_time": 1750326081,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 103200,
@@ -2307,6 +2403,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 74572,
+      "num": 118044,
+      "word": "周杰伦曾说疼到演唱会前吃药止痛",
+      "onboard_time": 1750327161,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71736,
       "num": 71736,
       "word": "王一博任游山野",
@@ -2321,6 +2425,14 @@
       "onboard_time": 1750288518,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69659,
+      "num": 299332,
+      "word": "整治违规吃喝层层加码是甩锅",
+      "onboard_time": 1750327282,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 67734,
@@ -2572,7 +2684,7 @@
     },
     {
       "raw_hot": 31096,
-      "num": 712000,
+      "num": 880304,
       "word": "9组数据看中欧班列亮眼成绩单",
       "onboard_time": 1750322423,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1750328939649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1793949,
+        "num": 1793949,
+        "word": "LABUBU 价格崩盘",
+        "onboard_time": 1750326622,
+        "rank": 0,
+        "category": "休闲,财经"
+      },
+      {
+        "raw_hot": 1355583,
+        "num": 1355583,
+        "word": "公职人员参加3人以上的聚餐违不违规",
+        "onboard_time": 1750322423,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23518,
+        "num": 880304,
+        "word": "9组数据看中欧班列亮眼成绩单",
+        "onboard_time": 1750322423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541218,
+        "num": 541218,
+        "word": "周杰伦 强直性脊柱炎",
+        "onboard_time": 1750309102,
+        "rank": 3,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 519539,
+        "num": 519539,
+        "word": "以伊大规模冲突",
+        "onboard_time": 1750315401,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 496616,
+        "num": 496616,
+        "word": "多所高校明确2025年不招复读生",
+        "onboard_time": 1750324341,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 456775,
+        "num": 456775,
+        "word": "iPhone18Pro系列屏幕曝光",
+        "onboard_time": 1750324701,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 316941,
+        "num": 316941,
+        "word": "买法拉利3年提不了车退不了款",
+        "onboard_time": 1750323862,
+        "rank": 7,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 315922,
+        "num": 315922,
+        "word": "医院过度医疗患者手术率超90%",
+        "onboard_time": 1750322660,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256892,
+        "num": 313247,
+        "word": "王安宇光头照",
+        "onboard_time": 1750320981,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 842951,
+        "num": 311667,
+        "word": "曾黎 四个寥寥无几的粉丝",
+        "onboard_time": 1750319660,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688841,
+        "num": 308060,
+        "word": "伊朗对以发动大规模袭击",
+        "onboard_time": 1750323922,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 464042,
+        "num": 306347,
+        "word": "朋友圈折叠最大的受害者出现了",
+        "onboard_time": 1750321641,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136682,
+        "num": 303647,
+        "word": "苏超最新排名",
+        "onboard_time": 1750322122,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69659,
+        "num": 299332,
+        "word": "整治违规吃喝层层加码是甩锅",
+        "onboard_time": 1750327282,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 408467,
+        "num": 297906,
+        "word": "唯一没有黑粉的明星",
+        "onboard_time": 1750305742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351326,
+        "num": 295613,
+        "word": "老中医锐评内娱男明星",
+        "onboard_time": 1750324581,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293308,
+        "num": 293308,
+        "word": "宋威龙鼻子 女娲捏了两次",
+        "onboard_time": 1750320323,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199698,
+        "num": 283244,
+        "word": "杨紫孟子义李一桐新剧对打",
+        "onboard_time": 1750321761,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276588,
+        "num": 276588,
+        "word": "中方回应美国或准备袭击伊朗",
+        "onboard_time": 1750322660,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 259738,
+        "num": 259738,
+        "word": "瘦胖子",
+        "onboard_time": 1750326081,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 254685,
+        "num": 254685,
+        "word": "被通知裁员的黄金一小时",
+        "onboard_time": 1750321101,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174869,
+        "num": 247470,
+        "word": "杨幂生万物央视暑期档",
+        "onboard_time": 1750326141,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247399,
+        "num": 247399,
+        "word": "短剧女演员闯进长剧圈了",
+        "onboard_time": 1750325721,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215738,
+        "num": 215738,
+        "word": "明日方舟",
+        "onboard_time": 1750328661,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193321,
+        "num": 193321,
+        "word": "伊朗开始逐步亮出杀手锏",
+        "onboard_time": 1750312701,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165059,
+        "num": 191664,
+        "word": "焕羽开播",
+        "onboard_time": 1750328360,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153791,
+        "num": 187278,
+        "word": "利剑玫瑰",
+        "onboard_time": 1750321342,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146429,
+        "num": 186721,
+        "word": "新疆偶遇吴昕尼格买提",
+        "onboard_time": 1750325782,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127282,
+        "num": 180403,
+        "word": "两地明确医生可告知艾滋病患者配偶",
+        "onboard_time": 1750325182,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180216,
+        "num": 180216,
+        "word": "朱丹 周一围",
+        "onboard_time": 1750328541,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170402,
+        "num": 170402,
+        "word": "刘强东与外卖小哥合影",
+        "onboard_time": 1750327881,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163945,
+        "num": 163945,
+        "word": "改善肩膀内扣的方法",
+        "onboard_time": 1750324820,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 150775,
+        "num": 150775,
+        "word": "19岁骑手摔倒在ICU抢救18天死亡",
+        "onboard_time": 1750328721,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145079,
+        "num": 145079,
+        "word": "男子称辱骂交警后被打断9根肋骨",
+        "onboard_time": 1750327161,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143589,
+        "num": 143589,
+        "word": "许嵩玫瑰花的葬礼全损音质",
+        "onboard_time": 1750324341,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138041,
+        "num": 138041,
+        "word": "Labubu大补货后黄牛发声",
+        "onboard_time": 1750300221,
+        "rank": 36,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 136133,
+        "num": 136133,
+        "word": "这和吻上周翊然有什么区别啊",
+        "onboard_time": 1750327760,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134877,
+        "num": 134877,
+        "word": "白鹿花如月扶额",
+        "onboard_time": 1750328600,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123376,
+        "num": 123376,
+        "word": "时代峰峻优先购方式变更",
+        "onboard_time": 1750326922,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121940,
+        "num": 121940,
+        "word": "张继科说labubu没价值的原因找到了",
+        "onboard_time": 1750309882,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118664,
+        "num": 118664,
+        "word": "男子因眼睛小被频繁误判疲劳驾驶",
+        "onboard_time": 1750310002,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74572,
+        "num": 118044,
+        "word": "周杰伦曾说疼到演唱会前吃药止痛",
+        "onboard_time": 1750327161,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117440,
+        "num": 117440,
+        "word": "美国男子收便宜香肠后杀害邻居夫妇",
+        "onboard_time": 1750327760,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113971,
+        "num": 113971,
+        "word": "42岁高管被裁经营三家店的一天",
+        "onboard_time": 1750328241,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112346,
+        "num": 112346,
+        "word": "伊朗称准确击中以军事及情报机构",
+        "onboard_time": 1750328241,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109993,
+        "num": 109993,
+        "word": "父母去世20岁大哥一人供出4个大学生",
+        "onboard_time": 1750307543,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109829,
+        "num": 109829,
+        "word": "邵雨轩谈疯产姐妹解散原因",
+        "onboard_time": 1750310781,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105766,
+        "num": 105766,
+        "word": "一念江南官宣预告",
+        "onboard_time": 1750314562,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104152,
+        "num": 104152,
+        "word": "新疆咸奶茶",
+        "onboard_time": 1750325421,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国－中亚精神#"
+    }
+  }
+}
