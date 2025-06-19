@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750333174619,
+  "endTime": 1750337583085,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -697,6 +697,22 @@
       "onboard_time": 1749965600,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1016905,
+      "num": 1162704,
+      "word": "印航空难唯一幸存者参加弟弟葬礼",
+      "onboard_time": 1750331482,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1008692,
+      "num": 222864,
+      "word": "伊朗铁雨",
+      "onboard_time": 1750332022,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1006027,
@@ -1545,6 +1561,14 @@
       "onboard_time": 1750209021,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 679829,
+      "num": 679829,
+      "word": "孙颖莎和男篮队员同框现最萌身高差",
+      "onboard_time": 1750335081,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 677427,
@@ -2523,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469690,
+      "num": 252503,
+      "word": "捞女游戏上线",
+      "onboard_time": 1750336701,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 469326,
       "num": 469326,
       "word": "溺亡网红博主江小隐是家中独子",
@@ -3171,6 +3203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381943,
+      "num": 273226,
+      "word": "王安宇 女生不要被大男子主义影响",
+      "onboard_time": 1750330340,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380569,
       "num": 380569,
       "word": "肖战藏海传重新认识古装剧",
@@ -3193,14 +3233,6 @@
       "onboard_time": 1750042939,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 375985,
-      "num": 273226,
-      "word": "王安宇 女生不要被大男子主义影响",
-      "onboard_time": 1750330340,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 375462,
@@ -3249,6 +3281,14 @@
       "onboard_time": 1749911183,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370082,
+      "num": 370082,
+      "word": "普京说自己的外孙女正在学习中文",
+      "onboard_time": 1750327461,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 369681,
@@ -3659,6 +3699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330682,
+      "num": 330682,
+      "word": "大连天空出现窟窿云",
+      "onboard_time": 1750331301,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330479,
       "num": 248445,
       "word": "我的牙也很不齐 什么时候宠我一下",
@@ -3915,6 +3963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306946,
+      "num": 306946,
+      "word": "labubu",
+      "onboard_time": 1750145541,
+      "rank": 27,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 304971,
       "num": 365501,
       "word": "妈妈是从电视台得知黄圣依结婚消息",
@@ -4025,6 +4081,14 @@
       "onboard_time": 1749996682,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296447,
+      "num": 296447,
+      "word": "优衣库labubu",
+      "onboard_time": 1750335741,
+      "rank": 8,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 296192,
@@ -4851,6 +4915,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 256717,
+      "num": 256717,
+      "word": "林大厨找虞书欣帮忙",
+      "onboard_time": 1750332981,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256670,
       "num": 256670,
       "word": "云南体彩回应1000万彩票被洗衣机洗",
@@ -4953,6 +5025,14 @@
       "onboard_time": 1750240880,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 250250,
+      "num": 250250,
+      "word": "aespa回归新歌",
+      "onboard_time": 1750335802,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 249933,
@@ -5331,6 +5411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231177,
+      "num": 218775,
+      "word": "周翊然白鹿友谊",
+      "onboard_time": 1750334781,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231076,
       "num": 231076,
       "word": "河南车 挂豫牌",
@@ -5361,6 +5449,14 @@
       "onboard_time": 1750085482,
       "rank": 26,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 229928,
+      "num": 229928,
+      "word": "侯佩岑来喜单2上班了",
+      "onboard_time": 1750335500,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 229852,
@@ -5497,14 +5593,6 @@
       "onboard_time": 1750038619,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 224011,
-      "num": 224011,
-      "word": "labubu",
-      "onboard_time": 1750145541,
-      "rank": 27,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 223822,
@@ -5729,6 +5817,14 @@
       "onboard_time": 1750253482,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213816,
+      "num": 213816,
+      "word": "哈梅内伊任命伊朗革命卫队陆军司令",
+      "onboard_time": 1750334781,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 213530,
@@ -6289,6 +6385,14 @@
       "onboard_time": 1749987021,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198851,
+      "num": 198851,
+      "word": "ALin回应与林俊杰首次合作",
+      "onboard_time": 1750336402,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 198814,
@@ -6961,14 +7065,6 @@
       "onboard_time": 1750133062,
       "rank": 44,
       "category": "国际时政,体育"
-    },
-    {
-      "raw_hot": 185389,
-      "num": 185389,
-      "word": "印航空难唯一幸存者参加弟弟葬礼",
-      "onboard_time": 1750331482,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 185336,
@@ -7891,14 +7987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170564,
-      "num": 170564,
-      "word": "伊朗铁雨",
-      "onboard_time": 1750332022,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 170402,
       "num": 170402,
       "word": "刘强东与外卖小哥合影",
@@ -8387,6 +8475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163119,
+      "num": 228166,
+      "word": "日本一公务员在台旅游偷拍女子裙底",
+      "onboard_time": 1750330281,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 162911,
       "num": 162911,
       "word": "光与夜之恋",
@@ -8537,6 +8633,14 @@
       "onboard_time": 1750141702,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159775,
+      "num": 159775,
+      "word": "焕羽男主",
+      "onboard_time": 1750335322,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 159721,
@@ -8920,14 +9024,6 @@
       "word": "蒋依依冬天生理期拍戏被泼水",
       "onboard_time": 1750053322,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 153519,
-      "num": 171105,
-      "word": "林大厨找虞书欣帮忙",
-      "onboard_time": 1750332981,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -9763,6 +9859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142898,
+      "num": 142898,
+      "word": "在伊留学生说有朋友撤离路上被炸死",
+      "onboard_time": 1750334242,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142896,
       "num": 238473,
       "word": "曾舜晞说困难时想过放弃",
@@ -10027,14 +10131,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 138625,
-      "num": 266444,
-      "word": "普京说自己的外孙女正在学习中文",
-      "onboard_time": 1750327461,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 138620,
       "num": 138620,
       "word": "黄子韬 比巴掌先来的是她的香风",
@@ -10219,6 +10315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135897,
+      "num": 199056,
+      "word": "汪卓成方否认和宣璐恋情",
+      "onboard_time": 1750337241,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135846,
       "num": 190177,
       "word": "没有马丽就没有开心麻花团综",
@@ -10353,6 +10457,14 @@
       "onboard_time": 1749996863,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134369,
+      "num": 134369,
+      "word": "中国驻伊朗大使馆再发呼吁",
+      "onboard_time": 1750331721,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134260,
@@ -10604,7 +10716,7 @@
     },
     {
       "raw_hot": 131781,
-      "num": 131781,
+      "num": 143451,
       "word": "车祸身亡尸检酒精含量从16.4变164",
       "onboard_time": 1750329381,
       "rank": 37,
@@ -10961,14 +11073,6 @@
       "onboard_time": 1749998183,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128222,
-      "num": 128222,
-      "word": "大连天空出现窟窿云",
-      "onboard_time": 1750331301,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128205,
@@ -11827,6 +11931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120041,
+      "num": 136337,
+      "word": "虞书欣王安宇女飞贼和芝麻官",
+      "onboard_time": 1750333161,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119974,
       "num": 111921,
       "word": "罗永浩说国足可以学学苏超",
@@ -12419,14 +12531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113965,
-      "num": 113965,
-      "word": "中国驻伊朗大使馆再发呼吁",
-      "onboard_time": 1750331721,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113893,
       "num": 138712,
       "word": "19岁外卖小哥哭诉后悔没好好读书",
@@ -12521,6 +12625,14 @@
       "onboard_time": 1749975021,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112478,
+      "num": 112478,
+      "word": "林俊杰首次与ALin同台合作",
+      "onboard_time": 1750336761,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 112456,
@@ -12939,6 +13051,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 107361,
+      "num": 107361,
+      "word": "那尔那茜戏份贯穿电影镖人全片",
+      "onboard_time": 1750336582,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107200,
       "num": 173301,
       "word": "王一博干一行行一行",
@@ -13339,6 +13459,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 98473,
+      "num": 98473,
+      "word": "00后淡颜系小花上新",
+      "onboard_time": 1750333341,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98454,
       "num": 98454,
       "word": "DYG对战RW",
@@ -13451,6 +13579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96081,
+      "num": 96081,
+      "word": "影帝半夜偷海胆被捕",
+      "onboard_time": 1750335022,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96053,
       "num": 96053,
       "word": "李光洁 人夫赛道遥遥领先",
@@ -13481,6 +13617,14 @@
       "onboard_time": 1750040779,
       "rank": 41,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 95620,
+      "num": 95620,
+      "word": "张婧仪越素越美",
+      "onboard_time": 1750336161,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 95513,
@@ -13929,6 +14073,14 @@
       "onboard_time": 1750215981,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 84387,
+      "num": 84387,
+      "word": "仿生鱼已经进化到这种程度了吗",
+      "onboard_time": 1750334122,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 84312,
@@ -15033,6 +15185,14 @@
       "onboard_time": 1750245981,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56888,
+      "num": 216061,
+      "word": "目击者回应大连天空出现窟窿云",
+      "onboard_time": 1750337121,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56853,
@@ -16449,6 +16609,14 @@
       "onboard_time": 1750000222,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32578,
+      "num": 225128,
+      "word": "为什么夏天更容易出现身体缺钾的情况",
+      "onboard_time": 1750336281,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 32389,
@@ -18035,6 +18203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 7724,
+      "num": 495618,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1750337361,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7720,
       "num": 26321,
       "word": "真实测评山东海鲜自由",
@@ -18170,6 +18346,9 @@
     },
     {
       "word": "#读懂中国－中亚精神#"
+    },
+    {
+      "word": "#阿斯塔纳的握手#"
     }
   ]
 }
