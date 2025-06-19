@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750298561887,
+  "endTime": 1750299980393,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -321,6 +321,14 @@
       "onboard_time": 1750048223,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1272288,
+      "num": 1272288,
+      "word": "陪爬泰山男演员已经接了6单",
+      "onboard_time": 1750293142,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1255249,
@@ -689,14 +697,6 @@
       "onboard_time": 1750234702,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 939980,
-      "num": 939980,
-      "word": "陪爬泰山男演员已经接了6单",
-      "onboard_time": 1750293142,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 932163,
@@ -2049,6 +2049,14 @@
       "onboard_time": 1749951019,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 513636,
+      "num": 293248,
+      "word": "被孙千说了四次长得像她",
+      "onboard_time": 1750298000,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 510864,
@@ -3571,12 +3579,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293492,
+      "num": 293492,
+      "word": "多方回应酒店洗漱包现已用HIV检测盒",
+      "onboard_time": 1750296081,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293204,
       "num": 293204,
       "word": "翟潇闻说内娱最漂亮女艺人刘诗诗",
       "onboard_time": 1749943217,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293019,
+      "num": 293019,
+      "word": "奥迪暂停全面电动化",
+      "onboard_time": 1750298301,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 292930,
@@ -3833,14 +3857,6 @@
       "onboard_time": 1749909802,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 279331,
-      "num": 279331,
-      "word": "多方回应酒店洗漱包现已用HIV检测盒",
-      "onboard_time": 1750296081,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279200,
@@ -4307,14 +4323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252052,
-      "num": 150409,
-      "word": "被孙千说了四次长得像她",
-      "onboard_time": 1750298000,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251883,
       "num": 427294,
       "word": "张继科杯全民乒乓球争霸赛来了",
@@ -4449,6 +4457,14 @@
       "onboard_time": 1750001001,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243155,
+      "num": 243155,
+      "word": "光遇",
+      "onboard_time": 1750298301,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 242967,
@@ -4635,6 +4651,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 232036,
+      "num": 232036,
+      "word": "丁程鑫G社生图",
+      "onboard_time": 1750297159,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231793,
       "num": 231793,
       "word": "Labubu爆火会是一阵风吗",
@@ -4649,6 +4673,14 @@
       "onboard_time": 1749959600,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231245,
+      "num": 261857,
+      "word": "李现演技 惊艳",
+      "onboard_time": 1750295900,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 231076,
@@ -5371,6 +5403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202580,
+      "num": 202580,
+      "word": "沈腾说章若楠像受了潮的家具",
+      "onboard_time": 1750299380,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202251,
       "num": 202251,
       "word": "原来是发型压低了懒羊羊颜值",
@@ -5561,14 +5601,6 @@
       "onboard_time": 1749970580,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197682,
-      "num": 197682,
-      "word": "丁程鑫G社生图",
-      "onboard_time": 1750297159,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 197632,
@@ -6259,6 +6291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181760,
+      "num": 181760,
+      "word": "焕羽开播",
+      "onboard_time": 1750299320,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181725,
       "num": 353536,
       "word": "10年了李必心里还有张小敬",
@@ -6939,6 +6979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170244,
+      "num": 170244,
+      "word": "特朗普说美国不要停火要彻底胜利",
+      "onboard_time": 1750297700,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169716,
       "num": 131230,
       "word": "第一次意识到老家特产有多牛",
@@ -7251,14 +7299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 165393,
-      "num": 216648,
-      "word": "李现演技 惊艳",
-      "onboard_time": 1750295900,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 165245,
       "num": 165245,
       "word": "外交部驳斥欧盟主席指责中国言论",
@@ -7345,6 +7385,14 @@
       "onboard_time": 1749996382,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163137,
+      "num": 163137,
+      "word": "男子不熟悉水性抱水桶下河救人",
+      "onboard_time": 1750296500,
+      "rank": 42,
+      "category": "正能量"
     },
     {
       "raw_hot": 162911,
@@ -7593,14 +7641,6 @@
       "onboard_time": 1750151843,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 158108,
-      "num": 158108,
-      "word": "特朗普说美国不要停火要彻底胜利",
-      "onboard_time": 1750297700,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 157940,
@@ -8059,14 +8099,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 150409,
-      "num": 150408,
-      "word": "奥迪暂停全面电动化",
-      "onboard_time": 1750298301,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 150394,
       "num": 150394,
       "word": "手快的人都去租Labubu了",
@@ -8291,6 +8323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146459,
+      "num": 261815,
+      "word": "那尔那茜争议事件三大疑问待解",
+      "onboard_time": 1750298480,
+      "rank": 36,
+      "category": "舆论监督,艺人"
+    },
+    {
       "raw_hot": 146346,
       "num": 208965,
       "word": "酱园弄影评",
@@ -8329,6 +8369,14 @@
       "onboard_time": 1750166482,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145997,
+      "num": 145997,
+      "word": "labubu黄牛",
+      "onboard_time": 1750297040,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145663,
@@ -9067,14 +9115,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 133515,
-      "num": 133515,
-      "word": "labubu黄牛",
-      "onboard_time": 1750297040,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133400,
       "num": 195021,
       "word": "郭晓婷回应刘诗诗",
@@ -9275,14 +9315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131569,
-      "num": 131569,
-      "word": "光遇",
-      "onboard_time": 1750298301,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 131535,
       "num": 131535,
       "word": "裸辞和在职找工作的区别",
@@ -9475,6 +9507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129588,
+      "num": 383205,
+      "word": "普京说愿与泽连斯基会面",
+      "onboard_time": 1750297460,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129513,
       "num": 129513,
       "word": "特朗普鼓励以继续推进行动",
@@ -9577,6 +9617,14 @@
       "onboard_time": 1750033040,
       "rank": 27,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 128395,
+      "num": 128395,
+      "word": "小米发布618战报",
+      "onboard_time": 1750296741,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 128277,
@@ -9883,14 +9931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124405,
-      "num": 124405,
-      "word": "男子不熟悉水性抱水桶下河救人",
-      "onboard_time": 1750296500,
-      "rank": 42,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 124294,
       "num": 124294,
       "word": "游客拍照坐坏价值约5万美元梵高椅",
@@ -10083,14 +10123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 122744,
-      "num": 122744,
-      "word": "小米发布618战报",
-      "onboard_time": 1750296741,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 122727,
       "num": 154504,
       "word": "央视曝光假冒深海鱼油",
@@ -10137,6 +10169,14 @@
       "onboard_time": 1750297941,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122272,
+      "num": 122272,
+      "word": "伊朗首都局势紧张数百万民众开始疏散",
+      "onboard_time": 1750299680,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122220,
@@ -10241,6 +10281,14 @@
       "onboard_time": 1750080202,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120940,
+      "num": 268121,
+      "word": "中国驻以色列使馆发布领事提醒",
+      "onboard_time": 1750298540,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120884,
@@ -10697,6 +10745,14 @@
       "onboard_time": 1750001782,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115110,
+      "num": 115110,
+      "word": "伊朗逮捕数十名以色列间谍",
+      "onboard_time": 1750295840,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115106,
@@ -11219,6 +11275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108927,
+      "num": 108927,
+      "word": "猫买回来一直响是怎么回事",
+      "onboard_time": 1750299560,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108828,
       "num": 108828,
       "word": "全运会羽毛球项目签表",
@@ -11353,6 +11417,14 @@
       "onboard_time": 1750123279,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 106972,
+      "num": 106972,
+      "word": "王者石田雨龙联动皮肤爆料",
+      "onboard_time": 1750296861,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 106694,
@@ -12939,14 +13011,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 66013,
-      "num": 383205,
-      "word": "普京说愿与泽连斯基会面",
-      "onboard_time": 1750297460,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65720,
       "num": 190964,
       "word": "男子酒驾被查称吃荔枝吃的",
@@ -13715,6 +13779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 46912,
+      "num": 160088,
+      "word": "花1万5改装摩托车炸街构成寻衅滋事",
+      "onboard_time": 1750298540,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46879,
       "num": 231800,
       "word": "湖北一传销案嫌犯为脱罪花840万",
@@ -14259,6 +14331,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 37141,
+      "num": 293382,
+      "word": "曝美对伊袭击或在本周末进行",
+      "onboard_time": 1750299201,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37117,
       "num": 270405,
       "word": "为什么高薪专业几乎被工科包揽",
@@ -14345,14 +14425,6 @@
       "onboard_time": 1750253722,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35691,
-      "num": 131230,
-      "word": "中国驻以色列使馆发布领事提醒",
-      "onboard_time": 1750298540,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 35649,
@@ -15019,14 +15091,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 24238,
-      "num": 131325,
-      "word": "那尔那茜争议事件三大疑问待解",
-      "onboard_time": 1750298480,
-      "rank": 36,
-      "category": "舆论监督,艺人"
-    },
-    {
       "raw_hot": 24110,
       "num": 166380,
       "word": "PlayStation剑星宣传文案争议",
@@ -15443,14 +15507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18589,
-      "num": 122700,
-      "word": "花1万5改装摩托车炸街构成寻衅滋事",
-      "onboard_time": 1750298540,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18546,
       "num": 137781,
       "word": "多方回应自助火锅店惊现老鼠",
@@ -15809,6 +15865,14 @@
       "onboard_time": 1750191915,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12970,
+      "num": 117930,
+      "word": "丝柯克深渊剑客",
+      "onboard_time": 1750299201,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 12913,

@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750298561887,
+  "endTime": 1750299980393,
   "band_list": [
     {
       "raw_hot": 1579007,
@@ -19,6 +19,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 1272288,
+      "num": 1272288,
+      "word": "陪爬泰山男演员已经接了6单",
+      "onboard_time": 1750293142,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1201918,
       "num": 474417,
       "word": "伊朗使用泥石导弹打击以色列",
@@ -32,14 +40,6 @@
       "word": "酒店洗漱包内发现用过的HIV检测盒",
       "onboard_time": 1750294822,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 939980,
-      "num": 939980,
-      "word": "陪爬泰山男演员已经接了6单",
-      "onboard_time": 1750293142,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -113,6 +113,14 @@
       "onboard_time": 1750294102,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 513636,
+      "num": 293248,
+      "word": "被孙千说了四次长得像她",
+      "onboard_time": 1750298000,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 507714,
@@ -211,12 +219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293492,
+      "num": 293492,
+      "word": "多方回应酒店洗漱包现已用HIV检测盒",
+      "onboard_time": 1750296081,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293052,
       "num": 293052,
       "word": "魏大勋早期labubu拥有者",
       "onboard_time": 1750253543,
       "rank": 13,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 293019,
+      "num": 293019,
+      "word": "奥迪暂停全面电动化",
+      "onboard_time": 1750298301,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 288962,
@@ -241,14 +265,6 @@
       "onboard_time": 1750251563,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279331,
-      "num": 279331,
-      "word": "多方回应酒店洗漱包现已用HIV检测盒",
-      "onboard_time": 1750296081,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 276400,
@@ -291,12 +307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252052,
-      "num": 150409,
-      "word": "被孙千说了四次长得像她",
-      "onboard_time": 1750298000,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 243155,
+      "num": 243155,
+      "word": "光遇",
+      "onboard_time": 1750298301,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 242967,
@@ -323,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236410,
+      "num": 262108,
+      "word": "李雪琴 老谢",
+      "onboard_time": 1750295541,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234150,
       "num": 150043,
       "word": "哈梅内伊",
@@ -331,12 +355,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 227653,
-      "num": 227653,
-      "word": "李雪琴 老谢",
-      "onboard_time": 1750295541,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 232036,
+      "num": 232036,
+      "word": "丁程鑫G社生图",
+      "onboard_time": 1750297159,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231245,
+      "num": 261857,
+      "word": "李现演技 惊艳",
+      "onboard_time": 1750295900,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 216525,
@@ -355,12 +387,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 197682,
-      "num": 197682,
-      "word": "丁程鑫G社生图",
-      "onboard_time": 1750297159,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 202580,
+      "num": 202580,
+      "word": "沈腾说章若楠像受了潮的家具",
+      "onboard_time": 1750299380,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 191700,
@@ -395,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181760,
+      "num": 181760,
+      "word": "焕羽开播",
+      "onboard_time": 1750299320,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179368,
       "num": 179368,
       "word": "王者白起联动皮肤免费送",
@@ -416,6 +456,14 @@
       "word": "伊媒公布击落以色列无人机画面",
       "onboard_time": 1750268297,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 170244,
+      "num": 170244,
+      "word": "特朗普说美国不要停火要彻底胜利",
+      "onboard_time": 1750297700,
+      "rank": 26,
       "category": "国际时政"
     },
     {
@@ -467,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165393,
-      "num": 216648,
-      "word": "李现演技 惊艳",
-      "onboard_time": 1750295900,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 164220,
       "num": 164220,
       "word": "卢伟冰剧透小米YU7价格",
@@ -483,12 +523,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 158108,
-      "num": 158108,
-      "word": "特朗普说美国不要停火要彻底胜利",
-      "onboard_time": 1750297700,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 163137,
+      "num": 163137,
+      "word": "男子不熟悉水性抱水桶下河救人",
+      "onboard_time": 1750296500,
+      "rank": 42,
+      "category": "正能量"
     },
     {
       "raw_hot": 157058,
@@ -515,20 +555,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150409,
-      "num": 150408,
-      "word": "奥迪暂停全面电动化",
-      "onboard_time": 1750298301,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 149984,
       "num": 149984,
       "word": "美联储",
       "onboard_time": 1750289660,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 146459,
+      "num": 261815,
+      "word": "那尔那茜争议事件三大疑问待解",
+      "onboard_time": 1750298480,
+      "rank": 36,
+      "category": "舆论监督,艺人"
+    },
+    {
+      "raw_hot": 145997,
+      "num": 145997,
+      "word": "labubu黄牛",
+      "onboard_time": 1750297040,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144784,
@@ -555,22 +603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 133515,
-      "num": 133515,
-      "word": "labubu黄牛",
-      "onboard_time": 1750297040,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131569,
-      "num": 131569,
-      "word": "光遇",
-      "onboard_time": 1750298301,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 131203,
       "num": 131203,
       "word": "76万人抢苏超常州vs南京门票",
@@ -579,16 +611,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124405,
-      "num": 124405,
-      "word": "男子不熟悉水性抱水桶下河救人",
-      "onboard_time": 1750296500,
-      "rank": 42,
-      "category": "正能量"
+      "raw_hot": 129588,
+      "num": 383205,
+      "word": "普京说愿与泽连斯基会面",
+      "onboard_time": 1750297460,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 122744,
-      "num": 122744,
+      "raw_hot": 128395,
+      "num": 128395,
       "word": "小米发布618战报",
       "onboard_time": 1750296741,
       "rank": 43,
@@ -619,12 +651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122272,
+      "num": 122272,
+      "word": "伊朗首都局势紧张数百万民众开始疏散",
+      "onboard_time": 1750299680,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122078,
       "num": 168911,
       "word": "爸爸1天3包烟16岁女儿确诊肺癌",
       "onboard_time": 1750233262,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120940,
+      "num": 268121,
+      "word": "中国驻以色列使馆发布领事提醒",
+      "onboard_time": 1750298540,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119413,
@@ -641,6 +689,14 @@
       "onboard_time": 1750296560,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115110,
+      "num": 115110,
+      "word": "伊朗逮捕数十名以色列间谍",
+      "onboard_time": 1750295840,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114163,
@@ -664,6 +720,22 @@
       "word": "世界之外",
       "onboard_time": 1750260383,
       "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 108927,
+      "num": 108927,
+      "word": "猫买回来一直响是怎么回事",
+      "onboard_time": 1750299560,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 106972,
+      "num": 106972,
+      "word": "王者石田雨龙联动皮肤爆料",
+      "onboard_time": 1750296861,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -843,14 +915,6 @@
       "category": "艺人,休闲"
     },
     {
-      "raw_hot": 66013,
-      "num": 383205,
-      "word": "普京说愿与泽连斯基会面",
-      "onboard_time": 1750297460,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64971,
       "num": 64971,
       "word": "鞠婧祎寻找橘色海6",
@@ -899,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46912,
+      "num": 160088,
+      "word": "花1万5改装摩托车炸街构成寻衅滋事",
+      "onboard_time": 1750298540,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45627,
       "num": 72819,
       "word": "律师谈邓紫棋到底能不能重录旧歌",
@@ -907,11 +979,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 35691,
-      "num": 131230,
-      "word": "中国驻以色列使馆发布领事提醒",
-      "onboard_time": 1750298540,
-      "rank": 37,
+      "raw_hot": 37141,
+      "num": 293382,
+      "word": "曝美对伊袭击或在本周末进行",
+      "onboard_time": 1750299201,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -939,14 +1011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24238,
-      "num": 131325,
-      "word": "那尔那茜争议事件三大疑问待解",
-      "onboard_time": 1750298480,
-      "rank": 36,
-      "category": "舆论监督,艺人"
-    },
-    {
       "raw_hot": 22713,
       "num": 24597,
       "word": "邓紫棋我不知道我还要回应什么",
@@ -961,14 +1025,6 @@
       "onboard_time": 1750289780,
       "rank": 16,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 18589,
-      "num": 122700,
-      "word": "花1万5改装摩托车炸街构成寻衅滋事",
-      "onboard_time": 1750298540,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18374,
@@ -1001,6 +1057,14 @@
       "onboard_time": 1750284556,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12970,
+      "num": 117930,
+      "word": "丝柯克深渊剑客",
+      "onboard_time": 1750299201,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 7720,
