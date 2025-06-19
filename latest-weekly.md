@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/15 00:29:55 ~ 2025/06/20 01:44:12
+本榜单时间：2025/06/15 00:29:55 ~ 2025/06/20 02:35:27
 </p>
 </blockquote>
 <p>
@@ -13317,6 +13317,12 @@ F1（热度：27187）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E5%BE%97%E7%9F%A5%E4%B8%8D%E8%AE%B2%E8%8B%B1%E8%AF%AD%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
+翟潇闻得知不讲英语天塌了（热度：25423）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%A5%E4%B8%8B%E8%8B%B9%E6%9E%9C%E8%83%BD%E6%88%90618%E6%9C%80%E5%A4%A7%E8%B5%A2%E5%AE%B6%E5%90%97%23" target="weibo">
 国补下苹果能成618最大赢家吗（热度：25309）
 </a>
@@ -13595,6 +13601,12 @@ PlayStation剑星宣传文案争议（热度：24110）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E6%B5%B7%E7%91%9F%E9%9F%B3%23" target="weibo">
 星穹铁道海瑟音（热度：21571）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E6%9D%91%E6%94%AF%E4%B9%A6%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+男子杀害村支书已被执行死刑（热度：21514）
 </a>
 </li>
 

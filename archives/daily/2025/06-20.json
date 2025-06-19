@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750355052956,
+  "endTime": 1750358127285,
   "band_list": [
     {
       "raw_hot": 1229638,
@@ -448,6 +448,22 @@
       "word": "科技感拉满中国好丰景",
       "onboard_time": 1750340363,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25423,
+      "num": 25423,
+      "word": "翟潇闻得知不讲英语天塌了",
+      "onboard_time": 1750355776,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21514,
+      "num": 25419,
+      "word": "男子杀害村支书已被执行死刑",
+      "onboard_time": 1750357035,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
