@@ -1,10 +1,10 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750304154352,
+  "endTime": 1750307688190,
   "band_list": [
     {
-      "raw_hot": 1651280,
-      "num": 1651280,
+      "raw_hot": 1664130,
+      "num": 1664130,
       "word": "哪吒2 分账",
       "onboard_time": 1750302260,
       "rank": 1,
@@ -17,6 +17,14 @@
       "onboard_time": 1750262362,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1491531,
+      "num": 302568,
+      "word": "唯一没有黑粉的明星",
+      "onboard_time": 1750305742,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1433387,
@@ -91,6 +99,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 719130,
+      "num": 719130,
+      "word": "小沈阳女儿NINA出道",
+      "onboard_time": 1750304121,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 665452,
+      "num": 665452,
+      "word": "韩国93岁冻龄女校长谈保养经验",
+      "onboard_time": 1750304121,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 658477,
       "num": 658477,
       "word": "被孙千说了四次长得像她",
@@ -105,6 +129,22 @@
       "onboard_time": 1750296500,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 595191,
+      "num": 297839,
+      "word": "月薪3万存2万五的真实生活",
+      "onboard_time": 1750305140,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 587312,
+      "num": 587312,
+      "word": "20岁嫌难喝30岁买大瓶",
+      "onboard_time": 1750305263,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 582042,
@@ -164,7 +204,7 @@
     },
     {
       "raw_hot": 504531,
-      "num": 334060,
+      "num": 443912,
       "word": "伊朗水漂弹",
       "onboard_time": 1750300340,
       "rank": 30,
@@ -184,6 +224,14 @@
       "word": "孟子义的狗巧克力塌房了",
       "onboard_time": 1750254383,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 467129,
+      "num": 294366,
+      "word": "决胜巅峰 蔡徐坤",
+      "onboard_time": 1750302860,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -331,6 +379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 290496,
+      "num": 290496,
+      "word": "Labubu大补货",
+      "onboard_time": 1750305621,
+      "rank": 18,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 288962,
       "num": 288962,
       "word": "宋慧乔长发回归",
@@ -345,6 +401,14 @@
       "onboard_time": 1750260083,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284169,
+      "num": 284169,
+      "word": "中餐厅9合伙人摩洛哥风情海报",
+      "onboard_time": 1750305981,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 281633,
@@ -379,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273588,
+      "num": 273588,
+      "word": "第一次见选秀0轮游",
+      "onboard_time": 1750303100,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266866,
       "num": 266866,
       "word": "伊朗地下核设施受损",
@@ -393,14 +465,6 @@
       "onboard_time": 1750264640,
       "rank": 32,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 263624,
-      "num": 263624,
-      "word": "决胜巅峰 蔡徐坤",
-      "onboard_time": 1750302860,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 254915,
@@ -425,6 +489,14 @@
       "onboard_time": 1750293622,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 242895,
+      "num": 242895,
+      "word": "孙红雷李乃文绝不体面老去",
+      "onboard_time": 1750304179,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 241503,
@@ -475,14 +547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 224202,
-      "num": 224202,
-      "word": "第一次见选秀0轮游",
-      "onboard_time": 1750303100,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218248,
       "num": 278951,
       "word": "邓紫棋小说价格",
@@ -499,11 +563,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203984,
+      "num": 203984,
+      "word": "肖战采访完整版",
+      "onboard_time": 1750306703,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203156,
       "num": 203156,
       "word": "朱丹 我们从未让女儿留级",
       "onboard_time": 1750231041,
       "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200944,
+      "num": 198221,
+      "word": "宋慧乔顶级美貌",
+      "onboard_time": 1750306281,
+      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -513,6 +593,22 @@
       "onboard_time": 1750302800,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198329,
+      "num": 198329,
+      "word": "易烊千玺第一次给动画电影配音",
+      "onboard_time": 1750306521,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 198012,
+      "num": 198012,
+      "word": "周扬青经济上行的妆容照",
+      "onboard_time": 1750307361,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 196045,
@@ -529,6 +625,14 @@
       "onboard_time": 1750288578,
       "rank": 19,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 189475,
+      "num": 189475,
+      "word": "英国首相认错韩国总统",
+      "onboard_time": 1750307424,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 188428,
@@ -571,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176813,
+      "num": 176813,
+      "word": "抗癌四年女孩去了有风的地方",
+      "onboard_time": 1750305621,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174387,
       "num": 174387,
       "word": "伊朗敦促公众卸载软件WhatsApp",
@@ -585,6 +697,14 @@
       "onboard_time": 1750268297,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173424,
+      "num": 173424,
+      "word": "父母去世20岁大哥一人供出4个大学生",
+      "onboard_time": 1750307543,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170244,
@@ -659,6 +779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 160854,
+      "num": 160854,
+      "word": "建议大家上班干活可以慢一点",
+      "onboard_time": 1750307424,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157058,
       "num": 157058,
       "word": "幼童笼中赤裸涉事家庭3人天生残疾",
@@ -708,7 +836,7 @@
     },
     {
       "raw_hot": 146559,
-      "num": 219344,
+      "num": 298567,
       "word": "肇庆怀集遭遇百年一遇历史最大洪水",
       "onboard_time": 1750303460,
       "rank": 22,
@@ -731,12 +859,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145156,
+      "num": 145156,
+      "word": "邓为经纪人朋友圈仍在宣传邓为",
+      "onboard_time": 1750304841,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144784,
       "num": 144784,
       "word": "以色列摩萨德人员在伊朗接连落网",
       "onboard_time": 1750295661,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143723,
+      "num": 143723,
+      "word": "看到喜欢的东西 人只能活一次",
+      "onboard_time": 1750304962,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 143585,
+      "num": 161508,
+      "word": "曾舜晞你骂我",
+      "onboard_time": 1750306281,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 143416,
@@ -795,14 +947,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 131496,
-      "num": 131496,
-      "word": "小沈阳女儿NINA出道",
-      "onboard_time": 1750304121,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 131203,
       "num": 131203,
       "word": "76万人抢苏超常州vs南京门票",
@@ -825,6 +969,14 @@
       "onboard_time": 1750296741,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127401,
+      "num": 174989,
+      "word": "青岛民宿严重不符拒退款",
+      "onboard_time": 1750305742,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127033,
@@ -891,20 +1043,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121609,
-      "num": 121609,
-      "word": "韩国93岁冻龄女校长谈保养经验",
-      "onboard_time": 1750304121,
-      "rank": 49,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "伊朗绞刑处死内鬼",
       "onboard_time": 1750233141,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118926,
+      "num": 201658,
+      "word": "卫健委回应疑气管插错致患者死亡",
+      "onboard_time": 1750305682,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118160,
@@ -929,6 +1081,14 @@
       "onboard_time": 1750245080,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112873,
+      "num": 135492,
+      "word": "诺德股份涨停",
+      "onboard_time": 1750304601,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 109531,
@@ -961,6 +1121,14 @@
       "onboard_time": 1750296861,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105401,
+      "num": 135101,
+      "word": "港股海天味业破发",
+      "onboard_time": 1750307603,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 104811,
@@ -1043,6 +1211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88498,
+      "num": 300999,
+      "word": "张凌赫牛仔造型每一帧都在撩我",
+      "onboard_time": 1750304601,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87664,
       "num": 87664,
       "word": "25岁男子刺伤一女子因其长得像前女友",
@@ -1052,11 +1228,19 @@
     },
     {
       "raw_hot": 85266,
-      "num": 230087,
+      "num": 291702,
       "word": "霸总黄觉享界样独处",
       "onboard_time": 1750303821,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85012,
+      "num": 198365,
+      "word": "赵丽颖把西林角色刻画的入木三分",
+      "onboard_time": 1750307603,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 83385,
@@ -1275,12 +1459,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34184,
+      "num": 285403,
+      "word": "官方回应网传广东一水库泄洪",
+      "onboard_time": 1750306942,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 30256,
       "num": 964900,
       "word": "数读5月消费市场亮点",
       "onboard_time": 1750253722,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28743,
+      "num": 198411,
+      "word": "湖南石门县遇强降雨河水漫堤",
+      "onboard_time": 1750307543,
+      "rank": 28,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 27773,
