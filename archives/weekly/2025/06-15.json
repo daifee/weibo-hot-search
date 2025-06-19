@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750337583085,
+  "endTime": 1750338494227,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 1008692,
-      "num": 222864,
+      "num": 237466,
       "word": "伊朗铁雨",
       "onboard_time": 1750332022,
       "rank": 38,
@@ -1219,6 +1219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 754870,
+      "num": 754870,
+      "word": "孙颖莎和男篮队员同框现最萌身高差",
+      "onboard_time": 1750335081,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 754145,
       "num": 754145,
       "word": "朱丹又又又为自己说错话而道歉了",
@@ -1561,14 +1569,6 @@
       "onboard_time": 1750209021,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 679829,
-      "num": 679829,
-      "word": "孙颖莎和男篮队员同框现最萌身高差",
-      "onboard_time": 1750335081,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 677427,
@@ -1993,6 +1993,14 @@
       "onboard_time": 1749948320,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 559492,
+      "num": 252503,
+      "word": "捞女游戏上线",
+      "onboard_time": 1750336701,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 558941,
@@ -2547,14 +2555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469690,
-      "num": 252503,
-      "word": "捞女游戏上线",
-      "onboard_time": 1750336701,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 469326,
       "num": 469326,
       "word": "溺亡网红博主江小隐是家中独子",
@@ -3041,6 +3041,14 @@
       "onboard_time": 1749959541,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403245,
+      "num": 403245,
+      "word": "优衣库labubu",
+      "onboard_time": 1750335741,
+      "rank": 8,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 402329,
@@ -3995,6 +4003,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 302920,
+      "num": 237033,
+      "word": "以色列民众要求全世界阻止轰炸",
+      "onboard_time": 1750337721,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 301485,
       "num": 235289,
       "word": "宁静 你是不是特别爱男孩",
@@ -4081,14 +4097,6 @@
       "onboard_time": 1749996682,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296447,
-      "num": 296447,
-      "word": "优衣库labubu",
-      "onboard_time": 1750335741,
-      "rank": 8,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 296192,
@@ -4595,6 +4603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 270914,
+      "num": 270914,
+      "word": "aespa回归新歌",
+      "onboard_time": 1750335802,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 269591,
       "num": 269591,
       "word": "张雪迎酱园弄影评",
@@ -5027,14 +5043,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 250250,
-      "num": 250250,
-      "word": "aespa回归新歌",
-      "onboard_time": 1750335802,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 249933,
       "num": 249933,
       "word": "樊振东小时候把对手打哭了一脸懵",
@@ -5195,6 +5203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240130,
+      "num": 240130,
+      "word": "李昀锐直播报备近况",
+      "onboard_time": 1750337661,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239305,
       "num": 169616,
       "word": "00后女孩醉驾致3死受害者母亲发声",
@@ -5241,6 +5257,14 @@
       "onboard_time": 1750310303,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236915,
+      "num": 236915,
+      "word": "周翊然白鹿友谊",
+      "onboard_time": 1750334781,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 236907,
@@ -5409,14 +5433,6 @@
       "onboard_time": 1750295900,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 231177,
-      "num": 218775,
-      "word": "周翊然白鹿友谊",
-      "onboard_time": 1750334781,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 231076,
@@ -7587,6 +7603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175503,
+      "num": 228166,
+      "word": "日本一公务员在台旅游偷拍女子裙底",
+      "onboard_time": 1750330281,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 175397,
       "num": 175397,
       "word": "其实他比你想象中更不喜欢你",
@@ -7993,6 +8017,14 @@
       "onboard_time": 1750327881,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 170350,
+      "num": 219322,
+      "word": "汪卓成方否认和宣璐恋情",
+      "onboard_time": 1750337241,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 170244,
@@ -8473,14 +8505,6 @@
       "onboard_time": 1749996382,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163119,
-      "num": 228166,
-      "word": "日本一公务员在台旅游偷拍女子裙底",
-      "onboard_time": 1750330281,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 162911,
@@ -9603,6 +9627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145457,
+      "num": 223954,
+      "word": "七根心简以为是团灭结果是团战",
+      "onboard_time": 1750337962,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145423,
       "num": 120593,
       "word": "特朗普正式进军手机市场",
@@ -9657,6 +9689,14 @@
       "onboard_time": 1750304841,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145112,
+      "num": 145112,
+      "word": "在伊留学生说有朋友撤离路上被炸死",
+      "onboard_time": 1750334242,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145079,
@@ -9859,14 +9899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142898,
-      "num": 142898,
-      "word": "在伊留学生说有朋友撤离路上被炸死",
-      "onboard_time": 1750334242,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 142896,
       "num": 238473,
       "word": "曾舜晞说困难时想过放弃",
@@ -9889,6 +9921,14 @@
       "onboard_time": 1749969860,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142095,
+      "num": 214168,
+      "word": "那尔那茜戏份贯穿电影镖人全片",
+      "onboard_time": 1750336582,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 141744,
@@ -10203,6 +10243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137733,
+      "num": 209945,
+      "word": "中国女排vs保加利亚女排",
+      "onboard_time": 1750337962,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137696,
       "num": 470652,
       "word": "以色列为何难以停止战争机器",
@@ -10313,14 +10361,6 @@
       "onboard_time": 1749971661,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135897,
-      "num": 199056,
-      "word": "汪卓成方否认和宣璐恋情",
-      "onboard_time": 1750337241,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 135846,
@@ -11089,6 +11129,14 @@
       "onboard_time": 1750167323,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128103,
+      "num": 204902,
+      "word": "影帝半夜偷海胆被捕",
+      "onboard_time": 1750335022,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 128003,
@@ -13027,6 +13075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107657,
+      "num": 107657,
+      "word": "焕羽好敢拍",
+      "onboard_time": 1750338322,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107624,
       "num": 257843,
       "word": "有人通过3D打印labubu模型赚十多万",
@@ -13049,14 +13105,6 @@
       "onboard_time": 1749972321,
       "rank": 45,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 107361,
-      "num": 107361,
-      "word": "那尔那茜戏份贯穿电影镖人全片",
-      "onboard_time": 1750336582,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 107200,
@@ -13113,6 +13161,14 @@
       "onboard_time": 1750087342,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105479,
+      "num": 100681,
+      "word": "刘丹撞脸labubu",
+      "onboard_time": 1750338201,
+      "rank": 42,
+      "category": "剧集,休闲"
     },
     {
       "raw_hot": 105402,
@@ -13411,6 +13467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99143,
+      "num": 99143,
+      "word": "00后淡颜系小花上新",
+      "onboard_time": 1750333341,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99071,
       "num": 100043,
       "word": "范丞丞25岁生日照",
@@ -13457,14 +13521,6 @@
       "onboard_time": 1750181357,
       "rank": 20,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 98473,
-      "num": 98473,
-      "word": "00后淡颜系小花上新",
-      "onboard_time": 1750333341,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 98454,
@@ -13563,6 +13619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96783,
+      "num": 237873,
+      "word": "目击者回应大连天空出现窟窿云",
+      "onboard_time": 1750337121,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96588,
       "num": 374822,
       "word": "在京东猜苏超输赢",
@@ -13577,14 +13641,6 @@
       "onboard_time": 1750001361,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 96081,
-      "num": 96081,
-      "word": "影帝半夜偷海胆被捕",
-      "onboard_time": 1750335022,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 96053,
@@ -13793,6 +13849,14 @@
       "onboard_time": 1749951081,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92224,
+      "num": 92168,
+      "word": "焕羽 乡村爱情",
+      "onboard_time": 1750338380,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 92189,
@@ -15187,14 +15251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56888,
-      "num": 216061,
-      "word": "目击者回应大连天空出现窟窿云",
-      "onboard_time": 1750337121,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56853,
       "num": 223708,
       "word": "为什么付出型人格越付出越难获得爱",
@@ -15883,6 +15939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43107,
+      "num": 109463,
+      "word": "朝陇山",
+      "onboard_time": 1750334900,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 42969,
       "num": 297263,
       "word": "中文系到底学什么",
@@ -15953,6 +16017,14 @@
       "onboard_time": 1750234282,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41765,
+      "num": 190607,
+      "word": "多方回应尸检酒精含量从16.4变164",
+      "onboard_time": 1750335981,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41746,
@@ -16867,6 +16939,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 28248,
+      "num": 238295,
+      "word": "医院被指因温度计不准延误患者治疗",
+      "onboard_time": 1750338141,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28235,
       "num": 311673,
       "word": "上身脂肪太多会对人造成什么困扰",
@@ -17096,6 +17176,14 @@
       "word": "爆炸烟花厂因质量缺陷致人眼睛炸伤",
       "onboard_time": 1750149321,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24946,
+      "num": 565052,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1750337361,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -18201,14 +18289,6 @@
       "onboard_time": 1750249701,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 7724,
-      "num": 495618,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1750337361,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7720,

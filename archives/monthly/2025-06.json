@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750337583085,
+  "endTime": 1750338494227,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -3180,7 +3180,7 @@
     },
     {
       "raw_hot": 1008692,
-      "num": 222864,
+      "num": 237466,
       "word": "伊朗铁雨",
       "onboard_time": 1750332022,
       "rank": 38,
@@ -4995,6 +4995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 754870,
+      "num": 754870,
+      "word": "孙颖莎和男篮队员同框现最萌身高差",
+      "onboard_time": 1750335081,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 754145,
       "num": 754145,
       "word": "朱丹又又又为自己说错话而道歉了",
@@ -5921,14 +5929,6 @@
       "onboard_time": 1749534141,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 679829,
-      "num": 679829,
-      "word": "孙颖莎和男篮队员同框现最萌身高差",
-      "onboard_time": 1750335081,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 678956,
@@ -7849,6 +7849,14 @@
       "onboard_time": 1749948320,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 559492,
+      "num": 252503,
+      "word": "捞女游戏上线",
+      "onboard_time": 1750336701,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 558941,
@@ -9819,14 +9827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469690,
-      "num": 252503,
-      "word": "捞女游戏上线",
-      "onboard_time": 1750336701,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 469326,
       "num": 469326,
       "word": "溺亡网红博主江小隐是家中独子",
@@ -11609,6 +11609,14 @@
       "onboard_time": 1749208761,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 403245,
+      "num": 403245,
+      "word": "优衣库labubu",
+      "onboard_time": 1750335741,
+      "rank": 8,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 402329,
@@ -15675,6 +15683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302920,
+      "num": 237033,
+      "word": "以色列民众要求全世界阻止轰炸",
+      "onboard_time": 1750337721,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 302234,
       "num": 302234,
       "word": "曹公公怎么这么难杀",
@@ -15953,14 +15969,6 @@
       "onboard_time": 1748782102,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296447,
-      "num": 296447,
-      "word": "优衣库labubu",
-      "onboard_time": 1750335741,
-      "rank": 8,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 296233,
@@ -17619,6 +17627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 270914,
+      "num": 270914,
+      "word": "aespa回归新歌",
+      "onboard_time": 1750335802,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 270279,
       "num": 237704,
       "word": "浪姐到底谁在投票",
@@ -19123,14 +19139,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 250250,
-      "num": 250250,
-      "word": "aespa回归新歌",
-      "onboard_time": 1750335802,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 250130,
       "num": 250130,
       "word": "范玮琪ins回应上歌手",
@@ -19859,6 +19867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240130,
+      "num": 240130,
+      "word": "李昀锐直播报备近况",
+      "onboard_time": 1750337661,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239983,
       "num": 239983,
       "word": "印度坠机事故致超290人死亡",
@@ -20065,6 +20081,14 @@
       "onboard_time": 1749303441,
       "rank": 22,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 236915,
+      "num": 236915,
+      "word": "周翊然白鹿友谊",
+      "onboard_time": 1750334781,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 236907,
@@ -20641,14 +20665,6 @@
       "onboard_time": 1749891804,
       "rank": 29,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 231177,
-      "num": 218775,
-      "word": "周翊然白鹿友谊",
-      "onboard_time": 1750334781,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 231167,
@@ -30451,6 +30467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175503,
+      "num": 228166,
+      "word": "日本一公务员在台旅游偷拍女子裙底",
+      "onboard_time": 1750330281,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 175500,
       "num": 175500,
       "word": "赵樱子自曝患抑郁症",
@@ -31712,6 +31736,14 @@
       "word": "宋亚轩是懂得只有严浩翔能让张真源破防",
       "onboard_time": 1749359120,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170350,
+      "num": 219322,
+      "word": "汪卓成方否认和宣璐恋情",
+      "onboard_time": 1750337241,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -33649,14 +33681,6 @@
       "onboard_time": 1749023061,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 163119,
-      "num": 228166,
-      "word": "日本一公务员在台旅游偷拍女子裙底",
-      "onboard_time": 1750330281,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 163083,
@@ -38339,6 +38363,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 145457,
+      "num": 223954,
+      "word": "七根心简以为是团灭结果是团战",
+      "onboard_time": 1750337962,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145427,
       "num": 145427,
       "word": "在上海迪士尼当陪玩一天收入1500",
@@ -38481,6 +38513,14 @@
       "onboard_time": 1748910501,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145112,
+      "num": 145112,
+      "word": "在伊留学生说有朋友撤离路上被炸死",
+      "onboard_time": 1750334242,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145079,
@@ -39171,14 +39211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 142898,
-      "num": 142898,
-      "word": "在伊留学生说有朋友撤离路上被炸死",
-      "onboard_time": 1750334242,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 142896,
       "num": 238473,
       "word": "曾舜晞说困难时想过放弃",
@@ -39377,6 +39409,14 @@
       "onboard_time": 1749031041,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142095,
+      "num": 214168,
+      "word": "那尔那茜戏份贯穿电影镖人全片",
+      "onboard_time": 1750336582,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 142084,
@@ -40755,6 +40795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137733,
+      "num": 209945,
+      "word": "中国女排vs保加利亚女排",
+      "onboard_time": 1750337962,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137696,
       "num": 470652,
       "word": "以色列为何难以停止战争机器",
@@ -41257,14 +41305,6 @@
       "onboard_time": 1749888623,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135897,
-      "num": 199056,
-      "word": "汪卓成方否认和宣璐恋情",
-      "onboard_time": 1750337241,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 135879,
@@ -43945,6 +43985,14 @@
       "onboard_time": 1750167323,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128103,
+      "num": 204902,
+      "word": "影帝半夜偷海胆被捕",
+      "onboard_time": 1750335022,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 128045,
@@ -49707,6 +49755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107657,
+      "num": 107657,
+      "word": "焕羽好敢拍",
+      "onboard_time": 1750338322,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107654,
       "num": 214362,
       "word": "台湾网红馆长参观抗战纪念馆",
@@ -49777,14 +49833,6 @@
       "onboard_time": 1749486739,
       "rank": 35,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 107361,
-      "num": 107361,
-      "word": "那尔那茜戏份贯穿电影镖人全片",
-      "onboard_time": 1750336582,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 107274,
@@ -50113,6 +50161,14 @@
       "onboard_time": 1749250996,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105479,
+      "num": 100681,
+      "word": "刘丹撞脸labubu",
+      "onboard_time": 1750338201,
+      "rank": 42,
+      "category": "剧集,休闲"
     },
     {
       "raw_hot": 105463,
@@ -51419,6 +51475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99143,
+      "num": 99143,
+      "word": "00后淡颜系小花上新",
+      "onboard_time": 1750333341,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99096,
       "num": 99096,
       "word": "高芙vs亚历山德洛娃",
@@ -51617,14 +51681,6 @@
       "onboard_time": 1749101122,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98473,
-      "num": 98473,
-      "word": "00后淡颜系小花上新",
-      "onboard_time": 1750333341,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 98454,
@@ -51987,6 +52043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96783,
+      "num": 237873,
+      "word": "目击者回应大连天空出现窟窿云",
+      "onboard_time": 1750337121,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96743,
       "num": 136338,
       "word": "2025乒超今日开战",
@@ -52096,14 +52160,6 @@
       "word": "等等小花给邓超拍封面",
       "onboard_time": 1748759601,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 96081,
-      "num": 96081,
-      "word": "影帝半夜偷海胆被捕",
-      "onboard_time": 1750335022,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -52937,6 +52993,14 @@
       "onboard_time": 1749019760,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92224,
+      "num": 92168,
+      "word": "焕羽 乡村爱情",
+      "onboard_time": 1750338380,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 92189,
@@ -58971,14 +59035,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 56888,
-      "num": 216061,
-      "word": "目击者回应大连天空出现窟窿云",
-      "onboard_time": 1750337121,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56867,
       "num": 187262,
       "word": "伊朗遭遇前所未有的损失",
@@ -61699,6 +61755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43107,
+      "num": 109463,
+      "word": "朝陇山",
+      "onboard_time": 1750334900,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 43083,
       "num": 43083,
       "word": "被龙舟赛的最后冲刺燃到了",
@@ -62049,6 +62113,14 @@
       "onboard_time": 1750234282,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41765,
+      "num": 190607,
+      "word": "多方回应尸检酒精含量从16.4变164",
+      "onboard_time": 1750335981,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41746,
@@ -65712,6 +65784,14 @@
       "word": "诊所开业输液半价横幅引争议",
       "onboard_time": 1749742943,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28248,
+      "num": 238295,
+      "word": "医院被指因温度计不准延误患者治疗",
+      "onboard_time": 1750338141,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
