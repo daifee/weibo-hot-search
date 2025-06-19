@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750358127285,
+  "endTime": 1750358939062,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -66787,6 +66787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26904,
+      "num": 36249,
+      "word": "翟潇闻得知不讲英语天塌了",
+      "onboard_time": 1750355776,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26889,
       "num": 393178,
       "word": "汉魏洛阳故城惊现古代招财猫陶灯",
@@ -67137,14 +67145,6 @@
       "onboard_time": 1749529823,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25423,
-      "num": 25423,
-      "word": "翟潇闻得知不讲英语天塌了",
-      "onboard_time": 1750355776,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 25413,
@@ -68305,6 +68305,14 @@
       "onboard_time": 1750244480,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 21764,
+      "num": 23563,
+      "word": "地球超新鲜",
+      "onboard_time": 1750358234,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 21683,

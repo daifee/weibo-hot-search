@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/20 00:32:58 ~ 2025/06/20 02:35:27
+本榜单时间：2025/06/20 00:32:58 ~ 2025/06/20 02:48:59
 </p>
 </blockquote>
 <p>
@@ -345,14 +345,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E5%BE%97%E7%9F%A5%E4%B8%8D%E8%AE%B2%E8%8B%B1%E8%AF%AD%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
+翟潇闻得知不讲英语天塌了（热度：26904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1%E4%B8%AD%E5%9B%BD%E5%A5%BD%E4%B8%B0%E6%99%AF%23" target="weibo">
 科技感拉满中国好丰景（热度：25523）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E5%BE%97%E7%9F%A5%E4%B8%8D%E8%AE%B2%E8%8B%B1%E8%AF%AD%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
-翟潇闻得知不讲英语天塌了（热度：25423）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C%23" target="weibo">
+地球超新鲜（热度：21764）
 </a>
 </li>
 

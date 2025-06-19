@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750358127285,
+  "endTime": 1750358939062,
   "band_list": [
     {
       "raw_hot": 1229638,
@@ -443,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26904,
+      "num": 36249,
+      "word": "翟潇闻得知不讲英语天塌了",
+      "onboard_time": 1750355776,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25523,
       "num": 420562,
       "word": "科技感拉满中国好丰景",
@@ -451,11 +459,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25423,
-      "num": 25423,
-      "word": "翟潇闻得知不讲英语天塌了",
-      "onboard_time": 1750355776,
-      "rank": 46,
+      "raw_hot": 21764,
+      "num": 23563,
+      "word": "地球超新鲜",
+      "onboard_time": 1750358234,
+      "rank": 48,
       "category": "综艺"
     },
     {
