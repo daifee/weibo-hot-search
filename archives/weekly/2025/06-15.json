@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750325344107,
+  "endTime": 1750326203186,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -75,8 +75,8 @@
       "category": "艺人,健康医疗"
     },
     {
-      "raw_hot": 1949196,
-      "num": 1949196,
+      "raw_hot": 1972077,
+      "num": 1972077,
       "word": "公职人员参加3人以上的聚餐违不违规",
       "onboard_time": 1750322423,
       "rank": 15,
@@ -1531,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 668194,
+      "num": 320909,
+      "word": "伊朗对以发动大规模袭击",
+      "onboard_time": 1750323922,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 668039,
       "num": 668039,
       "word": "台湾名嘴说昆山厕所没有门",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1750206501,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 557045,
+      "num": 557045,
+      "word": "iPhone18Pro系列屏幕曝光",
+      "onboard_time": 1750324701,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 554325,
@@ -2444,7 +2460,7 @@
     },
     {
       "raw_hot": 474547,
-      "num": 408775,
+      "num": 459969,
       "word": "王安宇光头照",
       "onboard_time": 1750320981,
       "rank": 22,
@@ -2579,14 +2595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 454108,
-      "num": 296393,
-      "word": "伊朗对以发动大规模袭击",
-      "onboard_time": 1750323922,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 453612,
       "num": 442511,
       "word": "官方通报网传一男子将孩童关铁笼中",
@@ -2625,6 +2633,14 @@
       "onboard_time": 1749921557,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 439804,
+      "num": 439804,
+      "word": "医院过度医疗患者手术率超90%",
+      "onboard_time": 1750322660,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438678,
@@ -2736,14 +2752,6 @@
       "word": "近九成00后表示没背房贷车贷",
       "onboard_time": 1750140740,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 423637,
-      "num": 423637,
-      "word": "医院过度医疗患者手术率超90%",
-      "onboard_time": 1750322660,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -3057,14 +3065,6 @@
       "onboard_time": 1750161980,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 387604,
-      "num": 387604,
-      "word": "iPhone18Pro系列屏幕曝光",
-      "onboard_time": 1750324701,
-      "rank": 7,
-      "category": "数码"
     },
     {
       "raw_hot": 386285,
@@ -3393,6 +3393,14 @@
       "onboard_time": 1750059921,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 345232,
+      "num": 233771,
+      "word": "短剧女演员闯进长剧圈了",
+      "onboard_time": 1750325721,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 345035,
@@ -5187,6 +5195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231619,
+      "num": 231619,
+      "word": "多所高校明确2025年不招复读生",
+      "onboard_time": 1750324341,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 231525,
       "num": 295873,
       "word": "严浩翔贺峻霖共脑",
@@ -5436,19 +5452,11 @@
     },
     {
       "raw_hot": 221885,
-      "num": 221885,
+      "num": 234163,
       "word": "杨紫孟子义李一桐新剧对打",
       "onboard_time": 1750321761,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221197,
-      "num": 221197,
-      "word": "多所高校明确2025年不招复读生",
-      "onboard_time": 1750324341,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 220821,
@@ -5875,6 +5883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205270,
+      "num": 235595,
+      "word": "海口铁笼关幼童父亲称不卖孩子",
+      "onboard_time": 1750323740,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205242,
       "num": 205242,
       "word": "周扬青经济上行的妆容照",
@@ -5969,6 +5985,14 @@
       "onboard_time": 1749993562,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202816,
+      "num": 202816,
+      "word": "老中医锐评内娱男明星",
+      "onboard_time": 1750324581,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 202645,
@@ -6240,6 +6264,14 @@
       "word": "嫡长爱豆韩庚杀回来了",
       "onboard_time": 1749970580,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197734,
+      "num": 192959,
+      "word": "新疆偶遇吴昕尼格买提",
+      "onboard_time": 1750325782,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -6592,6 +6624,14 @@
       "word": "陈星旭评论区不是无人区",
       "onboard_time": 1750166121,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190587,
+      "num": 190587,
+      "word": "杨幂生万物央视暑期档",
+      "onboard_time": 1750326141,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -7867,14 +7907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168452,
-      "num": 168452,
-      "word": "老中医锐评内娱男明星",
-      "onboard_time": 1750324581,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168354,
       "num": 168354,
       "word": "阴湿味藏海大人",
@@ -8523,6 +8555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157337,
+      "num": 157337,
+      "word": "改善肩膀内扣的方法",
+      "onboard_time": 1750324820,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 157295,
       "num": 150350,
       "word": "杜淳老婆发文与剖腹产疤痕和解",
@@ -8737,6 +8777,14 @@
       "onboard_time": 1750053322,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153447,
+      "num": 153447,
+      "word": "库克透露秋天再来中国",
+      "onboard_time": 1750325841,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 153401,
@@ -8985,6 +9033,14 @@
       "onboard_time": 1749954140,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150365,
+      "num": 150365,
+      "word": "新疆咸奶茶",
+      "onboard_time": 1750325421,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 150351,
@@ -10979,6 +11035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 125303,
+      "num": 125303,
+      "word": "两地明确医生可告知艾滋病患者配偶",
+      "onboard_time": 1750325182,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125114,
       "num": 125114,
       "word": "石凯新歌",
@@ -11539,14 +11603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120107,
-      "num": 120107,
-      "word": "改善肩膀内扣的方法",
-      "onboard_time": 1750324820,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 120061,
       "num": 120061,
       "word": "中哈两国国旗高高飘扬",
@@ -11937,14 +11993,6 @@
       "onboard_time": 1750001782,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115323,
-      "num": 115323,
-      "word": "两地明确医生可告知艾滋病患者配偶",
-      "onboard_time": 1750325182,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115110,
@@ -12809,6 +12857,14 @@
       "onboard_time": 1750216041,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103228,
+      "num": 108522,
+      "word": "瘦胖子",
+      "onboard_time": 1750326081,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 103200,
@@ -14763,6 +14819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55353,
+      "num": 327671,
+      "word": "1600余名中国公民已从伊朗安全撤离",
+      "onboard_time": 1750325421,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55289,
       "num": 333031,
       "word": "付航618不要passion要fast",
@@ -15507,14 +15571,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 41025,
-      "num": 235595,
-      "word": "海口铁笼关幼童父亲称不卖孩子",
-      "onboard_time": 1750323740,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40760,
       "num": 294955,
       "word": "以色列防空系统能撑多久",
@@ -15923,6 +15979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35203,
+      "num": 232186,
+      "word": "为何以方死亡人数远低于伊朗",
+      "onboard_time": 1750325481,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35154,
       "num": 121616,
       "word": "凯斯无缘女王杯决赛",
@@ -16131,6 +16195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31096,
+      "num": 712000,
+      "word": "9组数据看中欧班列亮眼成绩单",
+      "onboard_time": 1750322423,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31085,
       "num": 148968,
       "word": "购药前一定要问问医生意见",
@@ -16233,14 +16305,6 @@
       "onboard_time": 1750071681,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 30100,
-      "num": 712000,
-      "word": "9组数据看中欧班列亮眼成绩单",
-      "onboard_time": 1750322423,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29899,
@@ -16489,6 +16553,14 @@
       "onboard_time": 1750188495,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25872,
+      "num": 125336,
+      "word": "边工新人",
+      "onboard_time": 1750324941,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 25309,
@@ -16913,14 +16985,6 @@
       "onboard_time": 1750062021,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20714,
-      "num": 117251,
-      "word": "边工新人",
-      "onboard_time": 1750324941,
-      "rank": 39,
-      "category": "动漫"
     },
     {
       "raw_hot": 20596,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1750326203186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972077,
+        "num": 1972077,
+        "word": "公职人员参加3人以上的聚餐违不违规",
+        "onboard_time": 1750322423,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678379,
+        "num": 678379,
+        "word": "以伊大规模冲突",
+        "onboard_time": 1750315401,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31096,
+        "num": 616307,
+        "word": "9组数据看中欧班列亮眼成绩单",
+        "onboard_time": 1750322423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590624,
+        "num": 590624,
+        "word": "周杰伦 强直性脊柱炎",
+        "onboard_time": 1750309102,
+        "rank": 3,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 557045,
+        "num": 557045,
+        "word": "iPhone18Pro系列屏幕曝光",
+        "onboard_time": 1750324701,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 459969,
+        "num": 459969,
+        "word": "王安宇光头照",
+        "onboard_time": 1750320981,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439804,
+        "num": 439804,
+        "word": "医院过度医疗患者手术率超90%",
+        "onboard_time": 1750322660,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428894,
+        "num": 428894,
+        "word": "宋威龙鼻子 女娲捏了两次",
+        "onboard_time": 1750320323,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332992,
+        "num": 332992,
+        "word": "买法拉利3年提不了车退不了款",
+        "onboard_time": 1750323862,
+        "rank": 8,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 55353,
+        "num": 327671,
+        "word": "1600余名中国公民已从伊朗安全撤离",
+        "onboard_time": 1750325421,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1161190,
+        "num": 326501,
+        "word": "曾黎 四个寥寥无几的粉丝",
+        "onboard_time": 1750319660,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668194,
+        "num": 320909,
+        "word": "伊朗对以发动大规模袭击",
+        "onboard_time": 1750323922,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 595334,
+        "num": 309845,
+        "word": "朋友圈折叠最大的受害者出现了",
+        "onboard_time": 1750321641,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431787,
+        "num": 304009,
+        "word": "唯一没有黑粉的明星",
+        "onboard_time": 1750305742,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420344,
+        "num": 298928,
+        "word": "中方回应美国或准备袭击伊朗",
+        "onboard_time": 1750322660,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353454,
+        "num": 295234,
+        "word": "被通知裁员的黄金一小时",
+        "onboard_time": 1750321101,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290847,
+        "num": 290847,
+        "word": "伊朗开始逐步亮出杀手锏",
+        "onboard_time": 1750312701,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 240344,
+        "num": 240344,
+        "word": "Labubu大补货后黄牛发声",
+        "onboard_time": 1750300221,
+        "rank": 17,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 239912,
+        "num": 239912,
+        "word": "利剑玫瑰",
+        "onboard_time": 1750321342,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199840,
+        "num": 234163,
+        "word": "杨紫孟子义李一桐新剧对打",
+        "onboard_time": 1750321761,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345232,
+        "num": 233771,
+        "word": "短剧女演员闯进长剧圈了",
+        "onboard_time": 1750325721,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35203,
+        "num": 232186,
+        "word": "为何以方死亡人数远低于伊朗",
+        "onboard_time": 1750325481,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231619,
+        "num": 231619,
+        "word": "多所高校明确2025年不招复读生",
+        "onboard_time": 1750324341,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207930,
+        "num": 207930,
+        "word": "神仙都运不来的荔枝让我来",
+        "onboard_time": 1750324642,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205270,
+        "num": 205270,
+        "word": "海口铁笼关幼童父亲称不卖孩子",
+        "onboard_time": 1750323740,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202816,
+        "num": 202816,
+        "word": "老中医锐评内娱男明星",
+        "onboard_time": 1750324581,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199115,
+        "num": 199115,
+        "word": "张继科说labubu没价值的原因找到了",
+        "onboard_time": 1750309882,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193244,
+        "num": 193244,
+        "word": "邵雨轩谈疯产姐妹解散原因",
+        "onboard_time": 1750310781,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197734,
+        "num": 192959,
+        "word": "新疆偶遇吴昕尼格买提",
+        "onboard_time": 1750325782,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190587,
+        "num": 190587,
+        "word": "杨幂生万物央视暑期档",
+        "onboard_time": 1750326141,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157337,
+        "num": 157337,
+        "word": "改善肩膀内扣的方法",
+        "onboard_time": 1750324820,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 153447,
+        "num": 153447,
+        "word": "库克透露秋天再来中国",
+        "onboard_time": 1750325841,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151551,
+        "num": 151551,
+        "word": "苏超最新排名",
+        "onboard_time": 1750322122,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150365,
+        "num": 150365,
+        "word": "新疆咸奶茶",
+        "onboard_time": 1750325421,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145847,
+        "num": 145847,
+        "word": "纪凌尘还留着8年前的画",
+        "onboard_time": 1750319060,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137000,
+        "num": 137000,
+        "word": "强直性脊柱炎",
+        "onboard_time": 1750324222,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132608,
+        "num": 132608,
+        "word": "下半年巨蟹座翻身做主",
+        "onboard_time": 1750320260,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127397,
+        "num": 127397,
+        "word": "一念江南官宣预告",
+        "onboard_time": 1750314562,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125415,
+        "num": 125415,
+        "word": "孟羽童回应一手好牌打得稀烂",
+        "onboard_time": 1750317680,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25872,
+        "num": 125336,
+        "word": "边工新人",
+        "onboard_time": 1750324941,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125303,
+        "num": 125303,
+        "word": "两地明确医生可告知艾滋病患者配偶",
+        "onboard_time": 1750325182,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118516,
+        "num": 118516,
+        "word": "许嵩玫瑰花的葬礼全损音质",
+        "onboard_time": 1750324341,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117916,
+        "num": 117916,
+        "word": "父母去世20岁大哥一人供出4个大学生",
+        "onboard_time": 1750307543,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111192,
+        "num": 111192,
+        "word": "伊朗用美军基地地图回应美空袭威胁",
+        "onboard_time": 1750320622,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110366,
+        "num": 110366,
+        "word": "父母去世留下6个孩子兄弟争遗产闹翻",
+        "onboard_time": 1750308860,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110082,
+        "num": 110082,
+        "word": "李一桐 请喝水的漂亮姐姐",
+        "onboard_time": 1750321641,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103228,
+        "num": 108522,
+        "word": "瘦胖子",
+        "onboard_time": 1750326081,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 108224,
+        "num": 108224,
+        "word": "肖战给化妆师发6600红包",
+        "onboard_time": 1750312341,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107254,
+        "num": 107254,
+        "word": "男子因眼睛小被频繁误判疲劳驾驶",
+        "onboard_time": 1750310002,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102996,
+        "num": 102996,
+        "word": "冯文娟怀孕",
+        "onboard_time": 1750319902,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国－中亚精神#"
+    }
+  }
+}
