@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750375553261,
+  "endTime": 1750376427456,
   "band_list": [
     {
       "raw_hot": 1229638,
@@ -11,8 +11,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 940034,
+      "num": 317272,
+      "word": "王皓考编总成绩第1",
+      "onboard_time": 1750375219,
+      "rank": 32,
+      "category": "体育,教育"
+    },
+    {
       "raw_hot": 677326,
-      "num": 837972,
+      "num": 935799,
       "word": "伊朗出动超100架无人机打击以军",
       "onboard_time": 1750350259,
       "rank": 39,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 537621,
-      "num": 267309,
+      "num": 301419,
       "word": "日本开始撤侨",
       "onboard_time": 1750331661,
       "rank": 10,
@@ -43,20 +51,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 509774,
+      "num": 310131,
+      "word": "金价跌跌不休",
+      "onboard_time": 1750352718,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 493017,
       "num": 493017,
       "word": "女村支书制止男子烧草木灰被其杀害",
       "onboard_time": 1750346901,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 456894,
-      "num": 202153,
-      "word": "金价跌跌不休",
-      "onboard_time": 1750352718,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 445455,
@@ -83,12 +91,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361915,
-      "num": 256902,
+      "raw_hot": 410066,
+      "num": 298005,
       "word": "李雪琴",
       "onboard_time": 1750344205,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364624,
+      "num": 197962,
+      "word": "伊朗铁雨",
+      "onboard_time": 1750332022,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 363028,
+      "num": 363028,
+      "word": "脑死亡孕妇因堕胎禁令4个月后产子",
+      "onboard_time": 1750339641,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 360348,
@@ -99,20 +123,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 360301,
+      "num": 290815,
+      "word": "司机不解说女乘客香被封号",
+      "onboard_time": 1750375278,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360071,
+      "num": 360071,
+      "word": "特朗普两周内决定是否攻击伊朗",
+      "onboard_time": 1750375400,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 358062,
       "num": 192281,
       "word": "以色列",
       "onboard_time": 1750346122,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 355437,
-      "num": 197962,
-      "word": "伊朗铁雨",
-      "onboard_time": 1750332022,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 324504,
@@ -139,11 +171,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299459,
-      "num": 299459,
-      "word": "脑死亡孕妇因堕胎禁令4个月后产子",
-      "onboard_time": 1750339641,
+      "raw_hot": 284783,
+      "num": 284783,
+      "word": "王欣瑜2比0高芙",
+      "onboard_time": 1750365375,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 268680,
+      "num": 268680,
+      "word": "美国女孩喂流浪犬被40只狗围咬致死",
+      "onboard_time": 1750339641,
+      "rank": 15,
       "category": "海外新闻"
     },
     {
@@ -155,6 +195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 250320,
+      "num": 334312,
+      "word": "疯产姐妹近30日掉粉超19万",
+      "onboard_time": 1750341202,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 248709,
       "num": 220923,
       "word": "曝58同城裁员近万人",
@@ -163,12 +211,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 236816,
-      "num": 222616,
-      "word": "美国女孩喂流浪犬被40只狗围咬致死",
-      "onboard_time": 1750339641,
-      "rank": 15,
-      "category": "海外新闻"
+      "raw_hot": 219110,
+      "num": 329574,
+      "word": "藏海传 庆功宴",
+      "onboard_time": 1750375159,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 211532,
@@ -195,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205744,
-      "num": 205744,
-      "word": "王欣瑜2比0高芙",
-      "onboard_time": 1750365375,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 206280,
+      "num": 206280,
+      "word": "13岁男孩一天吃四顿身高定格170",
+      "onboard_time": 1750338802,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201127,
@@ -211,20 +259,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 200673,
-      "num": 228123,
-      "word": "疯产姐妹近30日掉粉超19万",
-      "onboard_time": 1750341202,
+      "raw_hot": 184464,
+      "num": 158190,
+      "word": "中国公民撤离伊朗时导弹从头顶飞过",
+      "onboard_time": 1750374979,
       "rank": 19,
-      "category": "网红"
+      "category": "国际时政"
     },
     {
-      "raw_hot": 191055,
-      "num": 191055,
-      "word": "13岁男孩一天吃四顿身高定格170",
-      "onboard_time": 1750338802,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 181295,
+      "num": 213931,
+      "word": "那尔那茜戏份贯穿电影镖人全片",
+      "onboard_time": 1750336582,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 176383,
@@ -235,12 +283,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 169627,
-      "num": 169627,
-      "word": "司机不解说女乘客香被封号",
-      "onboard_time": 1750375278,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 173478,
+      "num": 173478,
+      "word": "金价",
+      "onboard_time": 1750376059,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 168678,
@@ -259,14 +307,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 163281,
-      "num": 123099,
-      "word": "特朗普两周内决定是否攻击伊朗",
-      "onboard_time": 1750375400,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162220,
       "num": 162220,
       "word": "脱掉衣服的labubu样子",
@@ -275,12 +315,12 @@
       "category": "休闲,动漫"
     },
     {
-      "raw_hot": 155192,
-      "num": 122621,
-      "word": "王皓考编总成绩第1",
-      "onboard_time": 1750375219,
-      "rank": 32,
-      "category": "体育,教育"
+      "raw_hot": 160368,
+      "num": 166434,
+      "word": "影帝半夜偷海胆被捕",
+      "onboard_time": 1750335022,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 147666,
@@ -291,14 +331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 142365,
-      "num": 213931,
-      "word": "那尔那茜戏份贯穿电影镖人全片",
-      "onboard_time": 1750336582,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139603,
       "num": 139603,
       "word": "土耳其总统公开支持伊朗",
@@ -307,12 +339,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 136560,
-      "num": 158341,
-      "word": "影帝半夜偷海胆被捕",
-      "onboard_time": 1750335022,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 138736,
+      "num": 169463,
+      "word": "代露娃跑男千金出场",
+      "onboard_time": 1750375760,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 136189,
@@ -355,6 +387,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114472,
+      "num": 114472,
+      "word": "原神",
+      "onboard_time": 1750375520,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 111835,
+      "num": 111835,
+      "word": "梅西任意球破门",
+      "onboard_time": 1750375819,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111105,
+      "num": 111105,
+      "word": "香港丁克夫妻29平米的家",
+      "onboard_time": 1750374318,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 109187,
+      "num": 149629,
+      "word": "周深歌迷捧红了自己的LABUBU",
+      "onboard_time": 1750360635,
+      "rank": 33,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 108207,
       "num": 170380,
       "word": "曾舜晞我承认之前对你大声了点",
@@ -363,12 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105406,
-      "num": 135470,
-      "word": "藏海传 庆功宴",
-      "onboard_time": 1750375159,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 105829,
+      "num": 105829,
+      "word": "伊朗称完全控制以色列领空",
+      "onboard_time": 1750365134,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 105587,
+      "num": 105587,
+      "word": "20岁男子闻啥都有臭味竟是鼻子发霉",
+      "onboard_time": 1750345343,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103657,
@@ -411,14 +483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94359,
-      "num": 94359,
-      "word": "20岁男子闻啥都有臭味竟是鼻子发霉",
-      "onboard_time": 1750345343,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93065,
       "num": 93065,
       "word": "伊朗对以发动大规模袭击",
@@ -427,11 +491,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87079,
-      "num": 87079,
-      "word": "伊朗称完全控制以色列领空",
-      "onboard_time": 1750365134,
-      "rank": 45,
+      "raw_hot": 91228,
+      "num": 91228,
+      "word": "30枚导弹射向以色列",
+      "onboard_time": 1750376300,
+      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -451,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82316,
-      "num": 82316,
-      "word": "香港丁克夫妻29平米的家",
-      "onboard_time": 1750374318,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 82217,
       "num": 82217,
       "word": "周杰伦 强直性脊柱炎",
@@ -467,28 +523,12 @@
       "category": "艺人,健康医疗"
     },
     {
-      "raw_hot": 81609,
-      "num": 132269,
-      "word": "周深歌迷捧红了自己的LABUBU",
-      "onboard_time": 1750360635,
-      "rank": 33,
-      "category": "艺人,休闲"
-    },
-    {
       "raw_hot": 80822,
       "num": 89474,
       "word": "陈思诚来电狂响而我在恶意现场",
       "onboard_time": 1750350979,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 79190,
-      "num": 79190,
-      "word": "原神",
-      "onboard_time": 1750375520,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 79188,
@@ -547,6 +587,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57529,
+      "num": 321169,
+      "word": "119名在以中国留学生被护送撤离",
+      "onboard_time": 1750375880,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 55993,
+      "num": 111118,
+      "word": "王欣瑜战胜世界第二",
+      "onboard_time": 1750376359,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50689,
       "num": 50689,
       "word": "伊朗再否认蓄意袭击医院",
@@ -577,14 +633,6 @@
       "onboard_time": 1750355776,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28284,
-      "num": 158190,
-      "word": "中国公民撤离伊朗时导弹从头顶飞过",
-      "onboard_time": 1750374979,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25523,
@@ -643,8 +691,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14564,
-      "num": 437116,
+      "raw_hot": 14722,
+      "num": 487302,
       "word": "青春华章赣劲十足",
       "onboard_time": 1750340123,
       "rank": 2,

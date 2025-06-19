@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750375553261,
+  "endTime": 1750376427456,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -851,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 940034,
+      "num": 317272,
+      "word": "王皓考编总成绩第1",
+      "onboard_time": 1750375219,
+      "rank": 32,
+      "category": "体育,教育"
+    },
+    {
       "raw_hot": 932163,
       "num": 1149146,
       "word": "暴力熊 Labubu",
@@ -1636,7 +1644,7 @@
     },
     {
       "raw_hot": 677326,
-      "num": 837972,
+      "num": 935799,
       "word": "伊朗出动超100架无人机打击以军",
       "onboard_time": 1750350259,
       "rank": 39,
@@ -2100,7 +2108,7 @@
     },
     {
       "raw_hot": 554037,
-      "num": 292038,
+      "num": 298005,
       "word": "李雪琴",
       "onboard_time": 1750344205,
       "rank": 47,
@@ -2401,6 +2409,14 @@
       "onboard_time": 1749993322,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509774,
+      "num": 310131,
+      "word": "金价跌跌不休",
+      "onboard_time": 1750352718,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 509433,
@@ -2769,14 +2785,6 @@
       "onboard_time": 1750312160,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 456894,
-      "num": 202153,
-      "word": "金价跌跌不休",
-      "onboard_time": 1750352718,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 455193,
@@ -3513,6 +3521,22 @@
       "onboard_time": 1750063461,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 360301,
+      "num": 290815,
+      "word": "司机不解说女乘客香被封号",
+      "onboard_time": 1750375278,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360071,
+      "num": 360071,
+      "word": "特朗普两周内决定是否攻击伊朗",
+      "onboard_time": 1750375400,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 359286,
@@ -4515,6 +4539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 284783,
+      "num": 284783,
+      "word": "王欣瑜2比0高芙",
+      "onboard_time": 1750365375,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284574,
       "num": 284574,
       "word": "青年人失业率连续3个月下降",
@@ -5259,6 +5291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250320,
+      "num": 334312,
+      "word": "疯产姐妹近30日掉粉超19万",
+      "onboard_time": 1750341202,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 249933,
       "num": 249933,
       "word": "樊振东小时候把对手打哭了一脸懵",
@@ -5971,6 +6011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 219110,
+      "num": 329574,
+      "word": "藏海传 庆功宴",
+      "onboard_time": 1750375159,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219087,
       "num": 219087,
       "word": "白鹿回应赵弈钦",
@@ -6163,14 +6211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211552,
-      "num": 234470,
-      "word": "疯产姐妹近30日掉粉超19万",
-      "onboard_time": 1750341202,
-      "rank": 37,
-      "category": "网红"
-    },
-    {
       "raw_hot": 211532,
       "num": 211532,
       "word": "王励勤说王楚钦球拍事件不会发公告",
@@ -6361,14 +6401,6 @@
       "onboard_time": 1750242322,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205744,
-      "num": 205744,
-      "word": "王欣瑜2比0高芙",
-      "onboard_time": 1750365375,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 205676,
@@ -7483,6 +7515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184464,
+      "num": 158190,
+      "word": "中国公民撤离伊朗时导弹从头顶飞过",
+      "onboard_time": 1750374979,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184413,
       "num": 202009,
       "word": "刘宇宁谢不完根本谢不完",
@@ -7665,6 +7705,14 @@
       "onboard_time": 1750038558,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181295,
+      "num": 214168,
+      "word": "那尔那茜戏份贯穿电影镖人全片",
+      "onboard_time": 1750336582,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 181151,
@@ -8099,6 +8147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173478,
+      "num": 173478,
+      "word": "金价",
+      "onboard_time": 1750376059,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173466,
       "num": 347451,
       "word": "10省区市有大暴雨",
@@ -8409,14 +8465,6 @@
       "onboard_time": 1750143321,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169627,
-      "num": 169627,
-      "word": "司机不解说女乘客香被封号",
-      "onboard_time": 1750375278,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169584,
@@ -8883,14 +8931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163281,
-      "num": 123099,
-      "word": "特朗普两周内决定是否攻击伊朗",
-      "onboard_time": 1750375400,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162911,
       "num": 162911,
       "word": "光与夜之恋",
@@ -9009,6 +9049,14 @@
       "onboard_time": 1749999323,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160368,
+      "num": 204902,
+      "word": "影帝半夜偷海胆被捕",
+      "onboard_time": 1750335022,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 160166,
@@ -9393,14 +9441,6 @@
       "onboard_time": 1750051400,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 155192,
-      "num": 122621,
-      "word": "王皓考编总成绩第1",
-      "onboard_time": 1750375219,
-      "rank": 32,
-      "category": "体育,教育"
     },
     {
       "raw_hot": 154984,
@@ -9945,14 +9985,6 @@
       "onboard_time": 1749958340,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147178,
-      "num": 214168,
-      "word": "那尔那茜戏份贯穿电影镖人全片",
-      "onboard_time": 1750336582,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 146993,
@@ -10587,6 +10619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138736,
+      "num": 169463,
+      "word": "代露娃跑男千金出场",
+      "onboard_time": 1750375760,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138690,
       "num": 138690,
       "word": "军工概念走强",
@@ -10753,14 +10793,6 @@
       "onboard_time": 1750260264,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136560,
-      "num": 204902,
-      "word": "影帝半夜偷海胆被捕",
-      "onboard_time": 1750335022,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 136484,
@@ -13235,6 +13267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 111835,
+      "num": 111835,
+      "word": "梅西任意球破门",
+      "onboard_time": 1750375819,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111820,
       "num": 111820,
       "word": "TVB女演员转行做月嫂",
@@ -13321,6 +13361,14 @@
       "onboard_time": 1749970580,
       "rank": 44,
       "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 111105,
+      "num": 111105,
+      "word": "香港丁克夫妻29平米的家",
+      "onboard_time": 1750374318,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 111073,
@@ -13457,6 +13505,14 @@
       "onboard_time": 1749945377,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109187,
+      "num": 149629,
+      "word": "周深歌迷捧红了自己的LABUBU",
+      "onboard_time": 1750360635,
+      "rank": 33,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 109027,
@@ -13651,6 +13707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105829,
+      "num": 105829,
+      "word": "伊朗称完全控制以色列领空",
+      "onboard_time": 1750365134,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105521,
       "num": 105521,
       "word": "许佳琪廖慧佳直播蛐蛐代高政",
@@ -13665,14 +13729,6 @@
       "onboard_time": 1750338201,
       "rank": 42,
       "category": "剧集,休闲"
-    },
-    {
-      "raw_hot": 105406,
-      "num": 135470,
-      "word": "藏海传 庆功宴",
-      "onboard_time": 1750375159,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 105402,
@@ -14411,6 +14467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91228,
+      "num": 91228,
+      "word": "30枚导弹射向以色列",
+      "onboard_time": 1750376300,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91121,
       "num": 91121,
       "word": "拜仁vs奥克兰城",
@@ -14601,14 +14665,6 @@
       "onboard_time": 1750002979,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87079,
-      "num": 87079,
-      "word": "伊朗称完全控制以色列领空",
-      "onboard_time": 1750365134,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 86383,
@@ -14811,14 +14867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82316,
-      "num": 82316,
-      "word": "香港丁克夫妻29平米的家",
-      "onboard_time": 1750374318,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 82230,
       "num": 171703,
       "word": "以色列士兵藏身学校",
@@ -14881,14 +14929,6 @@
       "onboard_time": 1750233744,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81609,
-      "num": 132269,
-      "word": "周深歌迷捧红了自己的LABUBU",
-      "onboard_time": 1750360635,
-      "rank": 33,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 81586,
@@ -15827,6 +15867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57529,
+      "num": 321169,
+      "word": "119名在以中国留学生被护送撤离",
+      "onboard_time": 1750375880,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57495,
       "num": 131523,
       "word": "湖人618也有百亿补贴",
@@ -15905,6 +15953,14 @@
       "onboard_time": 1750244300,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 55993,
+      "num": 111118,
+      "word": "王欣瑜战胜世界第二",
+      "onboard_time": 1750376359,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 55843,
@@ -17635,14 +17691,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 28284,
-      "num": 158190,
-      "word": "中国公民撤离伊朗时导弹从头顶飞过",
-      "onboard_time": 1750374979,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28235,
       "num": 311673,
       "word": "上身脂肪太多会对人造成什么困扰",
@@ -18731,6 +18779,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 14722,
+      "num": 512132,
+      "word": "青春华章赣劲十足",
+      "onboard_time": 1750340123,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14577,
       "num": 272241,
       "word": "献血会导致免疫力降低吗",
@@ -18745,14 +18801,6 @@
       "onboard_time": 1750201758,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14564,
-      "num": 512132,
-      "word": "青春华章赣劲十足",
-      "onboard_time": 1750340123,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14388,
