@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750365007802,
+  "endTime": 1750365809297,
   "band_list": [
     {
       "raw_hot": 1229638,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46134,
+      "num": 46134,
+      "word": "王欣瑜2比0高芙",
+      "onboard_time": 1750365375,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42497,
       "num": 56991,
       "word": "方大同梦想家获浪潮年度专辑",
@@ -507,7 +515,23 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 7397,
+      "raw_hot": 14148,
+      "num": 17425,
+      "word": "伊朗称完全控制以色列领空",
+      "onboard_time": 1750365134,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13300,
+      "num": 17416,
+      "word": "官方回应雕塑展获奖作品购自淘宝",
+      "onboard_time": 1750362854,
+      "rank": 49,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 7453,
       "num": 179216,
       "word": "青春华章赣劲十足",
       "onboard_time": 1750340123,
