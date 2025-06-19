@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750315937504,
+  "endTime": 1750317975922,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -3587,6 +3587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 931484,
+      "num": 931484,
+      "word": "以伊大规模冲突",
+      "onboard_time": 1750315401,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 931337,
       "num": 893019,
       "word": "女子22年化妆不卸妆脸红成关公",
@@ -5249,6 +5257,14 @@
       "onboard_time": 1749788181,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 728197,
+      "num": 728197,
+      "word": "一念江南官宣预告",
+      "onboard_time": 1750314562,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 727850,
@@ -9635,6 +9651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 470990,
+      "num": 470990,
+      "word": "LV品牌大秀 鹿晗",
+      "onboard_time": 1750316061,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470679,
       "num": 432714,
       "word": "何洁陪周扬青上班的一天",
@@ -11289,14 +11313,6 @@
       "onboard_time": 1750044439,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 405944,
-      "num": 405944,
-      "word": "一念江南官宣预告",
-      "onboard_time": 1750314562,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 405942,
@@ -20051,6 +20067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233237,
+      "num": 233237,
+      "word": "以军袭击伊朗核反应堆和核武器基地",
+      "onboard_time": 1750314081,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 233226,
       "num": 233226,
       "word": "李在明上台难掩韩国社会分裂",
@@ -22760,14 +22784,6 @@
       "word": "哈萨克斯坦空军战机升空护航",
       "onboard_time": 1750252462,
       "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 210092,
-      "num": 210092,
-      "word": "以军袭击伊朗核反应堆和核武器基地",
-      "onboard_time": 1750314081,
-      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -27835,6 +27851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186218,
+      "num": 186218,
+      "word": "陷入我们的热恋口碑逆跌",
+      "onboard_time": 1750316721,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186174,
       "num": 186174,
       "word": "樊振东MV的电影感",
@@ -28409,6 +28433,14 @@
       "onboard_time": 1748846541,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183279,
+      "num": 183279,
+      "word": "小米总裁回应去美的学习",
+      "onboard_time": 1750317079,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 183273,
@@ -29539,6 +29571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177674,
+      "num": 177674,
+      "word": "围观群拍韦东奕吃饭太窒息了",
+      "onboard_time": 1750316241,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177633,
       "num": 177633,
       "word": "昆凌小松菜奈金高银陈法拉同框",
@@ -29777,14 +29817,6 @@
       "onboard_time": 1750129700,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176156,
-      "num": 232336,
-      "word": "以伊大规模冲突",
-      "onboard_time": 1750315401,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 176147,
@@ -31731,6 +31763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168249,
+      "num": 168249,
+      "word": "韩红邀请周震南",
+      "onboard_time": 1750316781,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168223,
       "num": 479525,
       "word": "京东拍卖的家具值北京一套房",
@@ -32017,6 +32057,14 @@
       "onboard_time": 1749432081,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167304,
+      "num": 167304,
+      "word": "周鹤年 赌博",
+      "onboard_time": 1750315701,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 167278,
@@ -32787,6 +32835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 164406,
+      "num": 164406,
+      "word": "Angelababy方告黑",
+      "onboard_time": 1750316961,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164382,
       "num": 308075,
       "word": "洛杉矶发生骚乱当地华人发声",
@@ -33136,6 +33192,14 @@
       "word": "山姆会员说坚果里有活体虫子",
       "onboard_time": 1749554780,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162797,
+      "num": 162797,
+      "word": "孟羽童回应一手好牌打得稀烂",
+      "onboard_time": 1750317680,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -34057,6 +34121,14 @@
       "onboard_time": 1749533181,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159098,
+      "num": 281608,
+      "word": "乘客拍下飞机上有人多次吸电子烟",
+      "onboard_time": 1750316481,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159014,
@@ -38195,14 +38267,6 @@
       "category": "民生新闻,动漫"
     },
     {
-      "raw_hot": 143902,
-      "num": 143902,
-      "word": "周鹤年 赌博",
-      "onboard_time": 1750315701,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143901,
       "num": 143901,
       "word": "Capper和creamd置换的6年",
@@ -39971,6 +40035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138050,
+      "num": 138050,
+      "word": "海螺AI",
+      "onboard_time": 1750317381,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137999,
       "num": 160312,
       "word": "浪姐成团名单什么时候出",
@@ -40409,6 +40481,14 @@
       "onboard_time": 1749465621,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136215,
+      "num": 136215,
+      "word": "张婧仪周翊然你们不要再打了",
+      "onboard_time": 1750317861,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 136199,
@@ -43881,6 +43961,14 @@
       "onboard_time": 1749987261,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125539,
+      "num": 125539,
+      "word": "A股午后指数持续走弱",
+      "onboard_time": 1750315820,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 125478,
@@ -47960,6 +48048,14 @@
       "word": "湖北一干部违规聚餐饮酒后猝死",
       "onboard_time": 1748776220,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111523,
+      "num": 230550,
+      "word": "00后女孩醉驾致3死最小受害者才3岁",
+      "onboard_time": 1750316481,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -53905,6 +54001,14 @@
       "onboard_time": 1749484161,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 81917,
+      "num": 232834,
+      "word": "张庭55岁状态",
+      "onboard_time": 1750311862,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 81891,
@@ -62195,6 +62299,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 37160,
+      "num": 174427,
+      "word": "伊朗导弹射程内有10座美军基地",
+      "onboard_time": 1750317742,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37141,
       "num": 293382,
       "word": "曝美对伊袭击或在本周末进行",
@@ -67131,6 +67243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19385,
+      "num": 142325,
+      "word": "大V聊车",
+      "onboard_time": 1750317742,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 19344,
       "num": 159933,
       "word": "日常哪些共享行为可能泄露隐私",
@@ -67921,6 +68041,14 @@
       "onboard_time": 1749761533,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15646,
+      "num": 141381,
+      "word": "在洛阳过神都日子",
+      "onboard_time": 1750316600,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 15591,

@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750315937504,
+  "endTime": 1750317975922,
   "band_list": [
     {
       "raw_hot": 2031335,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 931484,
+      "num": 931484,
+      "word": "以伊大规模冲突",
+      "onboard_time": 1750315401,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 931337,
       "num": 893019,
       "word": "女子22年化妆不卸妆脸红成关公",
@@ -121,6 +129,14 @@
       "onboard_time": 1750285336,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 728197,
+      "num": 728197,
+      "word": "一念江南官宣预告",
+      "onboard_time": 1750314562,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 719130,
@@ -291,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470990,
+      "num": 470990,
+      "word": "LV品牌大秀 鹿晗",
+      "onboard_time": 1750316061,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467129,
       "num": 302886,
       "word": "决胜巅峰 蔡徐坤",
@@ -329,14 +353,6 @@
       "onboard_time": 1750257084,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 405944,
-      "num": 405944,
-      "word": "一念江南官宣预告",
-      "onboard_time": 1750314562,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 405012,
@@ -691,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233237,
+      "num": 233237,
+      "word": "以军袭击伊朗核反应堆和核武器基地",
+      "onboard_time": 1750314081,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 232036,
       "num": 232036,
       "word": "丁程鑫G社生图",
@@ -745,14 +769,6 @@
       "onboard_time": 1750288578,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210092,
-      "num": 210092,
-      "word": "以军袭击伊朗核反应堆和核武器基地",
-      "onboard_time": 1750314081,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 205676,
@@ -883,6 +899,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186218,
+      "num": 186218,
+      "word": "陷入我们的热恋口碑逆跌",
+      "onboard_time": 1750316721,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 183279,
+      "num": 183279,
+      "word": "小米总裁回应去美的学习",
+      "onboard_time": 1750317079,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 182490,
       "num": 182490,
       "word": "奥运冠军昌雅妮本科毕业",
@@ -915,20 +947,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177674,
+      "num": 177674,
+      "word": "围观群拍韦东奕吃饭太窒息了",
+      "onboard_time": 1750316241,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176813,
       "num": 176813,
       "word": "抗癌四年女孩去了有风的地方",
       "onboard_time": 1750305621,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176156,
-      "num": 232336,
-      "word": "以伊大规模冲突",
-      "onboard_time": 1750315401,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 174448,
@@ -1019,11 +1051,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168249,
+      "num": 168249,
+      "word": "韩红邀请周震南",
+      "onboard_time": 1750316781,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167511,
       "num": 221746,
       "word": "朱丹 潜意识",
       "onboard_time": 1750293082,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167304,
+      "num": 167304,
+      "word": "周鹤年 赌博",
+      "onboard_time": 1750315701,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1043,12 +1091,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164406,
+      "num": 164406,
+      "word": "Angelababy方告黑",
+      "onboard_time": 1750316961,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164220,
       "num": 164220,
       "word": "卢伟冰剧透小米YU7价格",
       "onboard_time": 1750288639,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 162797,
+      "num": 162797,
+      "word": "孟羽童回应一手好牌打得稀烂",
+      "onboard_time": 1750317680,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159098,
+      "num": 281608,
+      "word": "乘客拍下飞机上有人多次吸电子烟",
+      "onboard_time": 1750316481,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157058,
@@ -1179,14 +1251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 143902,
-      "num": 143902,
-      "word": "周鹤年 赌博",
-      "onboard_time": 1750315701,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143723,
       "num": 143723,
       "word": "看到喜欢的东西 人只能活一次",
@@ -1267,6 +1331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 138050,
+      "num": 138050,
+      "word": "海螺AI",
+      "onboard_time": 1750317381,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137834,
       "num": 137834,
       "word": "外交部驳斥欧盟主席指责中国言论",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1750303641,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 136215,
+      "num": 136215,
+      "word": "张婧仪周翊然你们不要再打了",
+      "onboard_time": 1750317861,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 135394,
@@ -1377,6 +1457,14 @@
       "onboard_time": 1750304061,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125539,
+      "num": 125539,
+      "word": "A股午后指数持续走弱",
+      "onboard_time": 1750315820,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 123157,
@@ -1521,6 +1609,14 @@
       "onboard_time": 1750304601,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111523,
+      "num": 230550,
+      "word": "00后女孩醉驾致3死最小受害者才3岁",
+      "onboard_time": 1750316481,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111340,
@@ -1737,6 +1833,14 @@
       "onboard_time": 1750264220,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81917,
+      "num": 232834,
+      "word": "张庭55岁状态",
+      "onboard_time": 1750311862,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 81614,
@@ -1979,6 +2083,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 37160,
+      "num": 174427,
+      "word": "伊朗导弹射程内有10座美军基地",
+      "onboard_time": 1750317742,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37141,
       "num": 293382,
       "word": "曝美对伊袭击或在本周末进行",
@@ -2059,6 +2171,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 19385,
+      "num": 142325,
+      "word": "大V聊车",
+      "onboard_time": 1750317742,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 19038,
       "num": 160093,
       "word": "伊朗代表说特朗普撒谎",
@@ -2097,6 +2217,14 @@
       "onboard_time": 1750284556,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15646,
+      "num": 141381,
+      "word": "在洛阳过神都日子",
+      "onboard_time": 1750316600,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 13623,
