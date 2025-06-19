@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750350778630,
+  "endTime": 1750351709613,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1229638,
+      "num": 476797,
+      "word": "捞女游戏",
+      "onboard_time": 1750345823,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1217385,
       "num": 1217385,
       "word": "以伊大规模冲突",
@@ -529,14 +537,6 @@
       "onboard_time": 1750147940,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1151582,
-      "num": 476797,
-      "word": "捞女游戏",
-      "onboard_time": 1750345823,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 1144159,
@@ -3251,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389319,
+      "num": 389319,
+      "word": "伊朗国家电视台遭袭最新画面",
+      "onboard_time": 1750347740,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 389182,
       "num": 389182,
       "word": "黄子韬这一刻不反驳已经赢了",
@@ -5252,7 +5260,7 @@
     },
     {
       "raw_hot": 248709,
-      "num": 208750,
+      "num": 220923,
       "word": "曝58同城裁员近万人",
       "onboard_time": 1750347502,
       "rank": 42,
@@ -5385,14 +5393,6 @@
       "onboard_time": 1749972321,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240518,
-      "num": 240518,
-      "word": "伊朗国家电视台遭袭最新画面",
-      "onboard_time": 1750347740,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 240409,
@@ -6137,6 +6137,14 @@
       "onboard_time": 1750341202,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 211532,
+      "num": 211532,
+      "word": "王励勤说王楚钦球拍事件不会发公告",
+      "onboard_time": 1750348281,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 211426,
@@ -7329,14 +7337,6 @@
       "onboard_time": 1750343782,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186772,
-      "num": 186772,
-      "word": "王励勤说王楚钦球拍事件不会发公告",
-      "onboard_time": 1750348281,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 186691,
@@ -11396,7 +11396,7 @@
     },
     {
       "raw_hot": 129387,
-      "num": 169065,
+      "num": 253319,
       "word": "湖南一小区车库被淹4名业主失联",
       "onboard_time": 1750347561,
       "rank": 46,
@@ -12355,6 +12355,14 @@
       "category": "民生新闻,休闲"
     },
     {
+      "raw_hot": 120467,
+      "num": 120467,
+      "word": "伊朗出动超100架无人机打击以军",
+      "onboard_time": 1750350259,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120425,
       "num": 120425,
       "word": "高考全省第二北漂5年后的生活",
@@ -12417,6 +12425,14 @@
       "onboard_time": 1750055301,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119885,
+      "num": 270232,
+      "word": "农村女娃考取博士背后故事让人落泪",
+      "onboard_time": 1750349300,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 119746,
@@ -13347,14 +13363,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 110002,
-      "num": 148413,
-      "word": "农村女娃考取博士背后故事让人落泪",
-      "onboard_time": 1750349300,
-      "rank": 33,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 109861,
       "num": 189088,
       "word": "郑钦文世排升至第4",
@@ -13795,20 +13803,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101833,
-      "num": 101833,
-      "word": "伊朗出动超100架无人机打击以军",
-      "onboard_time": 1750350259,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 101615,
       "num": 383942,
       "word": "上影节评委被上海建筑圈粉",
       "onboard_time": 1750077020,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101531,
+      "num": 101531,
+      "word": "李桑元 leo",
+      "onboard_time": 1750347800,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 101254,
@@ -13881,14 +13889,6 @@
       "onboard_time": 1750241180,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 100052,
-      "num": 100052,
-      "word": "李桑元 leo",
-      "onboard_time": 1750347800,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 99954,
@@ -14817,6 +14817,14 @@
       "onboard_time": 1750029797,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80822,
+      "num": 80822,
+      "word": "陈思诚来电狂响而我在恶意现场",
+      "onboard_time": 1750350979,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 80757,
