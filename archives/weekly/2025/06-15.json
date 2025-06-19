@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750338494227,
+  "endTime": 1750340239735,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1069688,
+      "num": 237033,
+      "word": "以色列民众要求全世界阻止轰炸",
+      "onboard_time": 1750337721,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1065659,
       "num": 424039,
       "word": "妻子称谁先提出离婚谁就要净身出户",
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 971833,
+      "num": 228253,
+      "word": "龙丹妮 李维嘉",
+      "onboard_time": 1750339462,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 970522,
       "num": 970522,
       "word": "爱奇艺副总裁道歉",
@@ -873,6 +889,14 @@
       "onboard_time": 1750087283,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 906564,
+      "num": 1145050,
+      "word": "孙颖莎和男篮队员同框现最萌身高差",
+      "onboard_time": 1750335081,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 906065,
@@ -1155,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 788862,
+      "num": 252503,
+      "word": "捞女游戏上线",
+      "onboard_time": 1750336701,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 788389,
       "num": 363533,
       "word": "曝刘诗诗杨幂双C",
@@ -1217,14 +1249,6 @@
       "onboard_time": 1750148002,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 754870,
-      "num": 754870,
-      "word": "孙颖莎和男篮队员同框现最萌身高差",
-      "onboard_time": 1750335081,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 754145,
@@ -1931,6 +1955,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 578257,
+      "num": 227151,
+      "word": "13岁男孩一天吃四顿身高定格170",
+      "onboard_time": 1750338802,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 577182,
       "num": 577182,
       "word": "泡泡玛特市值蒸发超200亿",
@@ -1993,14 +2025,6 @@
       "onboard_time": 1749948320,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 559492,
-      "num": 252503,
-      "word": "捞女游戏上线",
-      "onboard_time": 1750336701,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 558941,
@@ -2313,6 +2337,14 @@
       "onboard_time": 1750088601,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 510388,
+      "num": 510388,
+      "word": "优衣库labubu",
+      "onboard_time": 1750335741,
+      "rank": 8,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 509800,
@@ -2747,6 +2779,14 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 438363,
+      "num": 438363,
+      "word": "夫妻开饭店双双被确诊恶性乳腺癌",
+      "onboard_time": 1750339342,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438060,
       "num": 438060,
       "word": "台风蝴蝶停止编号",
@@ -3041,14 +3081,6 @@
       "onboard_time": 1749959541,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 403245,
-      "num": 403245,
-      "word": "优衣库labubu",
-      "onboard_time": 1750335741,
-      "rank": 8,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 402329,
@@ -4001,14 +4033,6 @@
       "onboard_time": 1750172844,
       "rank": 23,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 302920,
-      "num": 237033,
-      "word": "以色列民众要求全世界阻止轰炸",
-      "onboard_time": 1750337721,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 301485,
@@ -5043,6 +5067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 250710,
+      "num": 236915,
+      "word": "周翊然白鹿友谊",
+      "onboard_time": 1750334781,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249933,
       "num": 249933,
       "word": "樊振东小时候把对手打哭了一脸懵",
@@ -5257,14 +5289,6 @@
       "onboard_time": 1750310303,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 236915,
-      "num": 236915,
-      "word": "周翊然白鹿友谊",
-      "onboard_time": 1750334781,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 236907,
@@ -6139,6 +6163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204842,
+      "num": 204842,
+      "word": "脑死亡孕妇因堕胎禁令4个月后产子",
+      "onboard_time": 1750339641,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 204814,
       "num": 204814,
       "word": "老板多嘴一问成功保住顾客10万元",
@@ -6425,6 +6457,14 @@
       "onboard_time": 1750005320,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198661,
+      "num": 238295,
+      "word": "医院被指因温度计不准延误患者治疗",
+      "onboard_time": 1750338141,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198536,
@@ -8707,6 +8747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159126,
+      "num": 236955,
+      "word": "伊朗警告美国不要介入以伊冲突",
+      "onboard_time": 1750338980,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159014,
       "num": 159014,
       "word": "张靓颖 深圳",
@@ -9115,6 +9163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 152413,
+      "num": 152413,
+      "word": "美国女孩喂流浪犬被40只狗围咬致死",
+      "onboard_time": 1750339641,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152175,
       "num": 219711,
       "word": "张婧仪周翊然你们不要再打了",
@@ -9233,6 +9289,14 @@
       "onboard_time": 1750172062,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 150964,
+      "num": 217383,
+      "word": "曾舜晞出了名的不信邪",
+      "onboard_time": 1750338802,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 150805,
@@ -9537,6 +9601,14 @@
       "onboard_time": 1749958340,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147178,
+      "num": 214168,
+      "word": "那尔那茜戏份贯穿电影镖人全片",
+      "onboard_time": 1750336582,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 146993,
@@ -9921,14 +9993,6 @@
       "onboard_time": 1749969860,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142095,
-      "num": 214168,
-      "word": "那尔那茜戏份贯穿电影镖人全片",
-      "onboard_time": 1750336582,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 141744,
@@ -10675,6 +10739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132645,
+      "num": 132645,
+      "word": "内娱偶像追星成功案例加一",
+      "onboard_time": 1750340183,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132539,
       "num": 132539,
       "word": "中国女排3比1捷克女排",
@@ -10729,6 +10801,14 @@
       "onboard_time": 1750038920,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131847,
+      "num": 199938,
+      "word": "焕羽好敢拍",
+      "onboard_time": 1750338322,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 131832,
@@ -13075,14 +13155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107657,
-      "num": 107657,
-      "word": "焕羽好敢拍",
-      "onboard_time": 1750338322,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107624,
       "num": 257843,
       "word": "有人通过3D打印labubu模型赚十多万",
@@ -13137,6 +13209,14 @@
       "onboard_time": 1750229481,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106077,
+      "num": 106077,
+      "word": "果然是全女性阵容拍出来的剧",
+      "onboard_time": 1750340062,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 106001,
@@ -16163,6 +16243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40249,
+      "num": 565052,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1750337361,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40106,
       "num": 251686,
       "word": "大学生最喜欢的微博表情",
@@ -16651,6 +16739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33111,
+      "num": 201161,
+      "word": "Labubu补货回收端盒跌破700元",
+      "onboard_time": 1750339041,
+      "rank": 29,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 33101,
       "num": 135886,
       "word": "苏超球迷赛后自发清垃圾",
@@ -16939,14 +17035,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 28248,
-      "num": 238295,
-      "word": "医院被指因温度计不准延误患者治疗",
-      "onboard_time": 1750338141,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28235,
       "num": 311673,
       "word": "上身脂肪太多会对人造成什么困扰",
@@ -17176,14 +17264,6 @@
       "word": "爆炸烟花厂因质量缺陷致人眼睛炸伤",
       "onboard_time": 1750149321,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24946,
-      "num": 565052,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1750337361,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -17747,6 +17827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18212,
+      "num": 132586,
+      "word": "潮汕牛肉自由",
+      "onboard_time": 1750339521,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 17994,
       "num": 19978,
       "word": "起猛了看见鹿挂着铃铛从水中跳出来了",
@@ -17937,6 +18025,14 @@
       "onboard_time": 1750115178,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 15192,
+      "num": 209368,
+      "word": "多高校中医学招生不限选考科目",
+      "onboard_time": 1750339942,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 15136,
@@ -18337,6 +18433,14 @@
       "onboard_time": 1750224981,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 5758,
+      "num": 512132,
+      "word": "青春华章赣劲十足",
+      "onboard_time": 1750340123,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

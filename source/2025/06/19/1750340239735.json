@@ -1,0 +1,410 @@
+{
+  "runTime": 1750340239735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 906564,
+        "num": 1145050,
+        "word": "孙颖莎和男篮队员同框现最萌身高差",
+        "onboard_time": 1750335081,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516125,
+        "num": 516125,
+        "word": "印航空难唯一幸存者参加弟弟葬礼",
+        "onboard_time": 1750331482,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 5758,
+        "num": 512132,
+        "word": "青春华章赣劲十足",
+        "onboard_time": 1750340123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510388,
+        "num": 510388,
+        "word": "优衣库labubu",
+        "onboard_time": 1750335741,
+        "rank": 3,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 438363,
+        "num": 438363,
+        "word": "夫妻开饭店双双被确诊恶性乳腺癌",
+        "onboard_time": 1750339342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384009,
+        "num": 384009,
+        "word": "周杰伦 强直性脊柱炎",
+        "onboard_time": 1750309102,
+        "rank": 5,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 335351,
+        "num": 335351,
+        "word": "以伊大规模冲突",
+        "onboard_time": 1750315401,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264075,
+        "num": 264075,
+        "word": "aespa回归新歌",
+        "onboard_time": 1750335802,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 237459,
+        "num": 237459,
+        "word": "大连天空出现窟窿云",
+        "onboard_time": 1750331301,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159126,
+        "num": 236955,
+        "word": "伊朗警告美国不要介入以伊冲突",
+        "onboard_time": 1750338980,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1058396,
+        "num": 234110,
+        "word": "朱丹 周一围",
+        "onboard_time": 1750328541,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1038151,
+        "num": 232919,
+        "word": "日本开始撤侨",
+        "onboard_time": 1750331661,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40249,
+        "num": 230090,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1750337361,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 971833,
+        "num": 228253,
+        "word": "龙丹妮 李维嘉",
+        "onboard_time": 1750339462,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578257,
+        "num": 227151,
+        "word": "13岁男孩一天吃四顿身高定格170",
+        "onboard_time": 1750338802,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520485,
+        "num": 224832,
+        "word": "曾黎 四个寥寥无几的粉丝",
+        "onboard_time": 1750319660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340032,
+        "num": 222103,
+        "word": "王安宇 女生不要被大男子主义影响",
+        "onboard_time": 1750330340,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324969,
+        "num": 220331,
+        "word": "伊朗对以发动大规模袭击",
+        "onboard_time": 1750323922,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150964,
+        "num": 217383,
+        "word": "曾舜晞出了名的不信邪",
+        "onboard_time": 1750338802,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305139,
+        "num": 216300,
+        "word": "宣璐说今天最后一次澄清",
+        "onboard_time": 1750329620,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1069688,
+        "num": 213919,
+        "word": "以色列民众要求全世界阻止轰炸",
+        "onboard_time": 1750337721,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 788862,
+        "num": 211179,
+        "word": "捞女游戏上线",
+        "onboard_time": 1750336701,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15192,
+        "num": 209368,
+        "word": "多高校中医学招生不限选考科目",
+        "onboard_time": 1750339942,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 773004,
+        "num": 207154,
+        "word": "伊朗铁雨",
+        "onboard_time": 1750332022,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250710,
+        "num": 205291,
+        "word": "周翊然白鹿友谊",
+        "onboard_time": 1750334781,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204842,
+        "num": 204842,
+        "word": "脑死亡孕妇因堕胎禁令4个月后产子",
+        "onboard_time": 1750339641,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 194721,
+        "num": 204308,
+        "word": "侯佩岑来喜单2上班了",
+        "onboard_time": 1750335500,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170799,
+        "num": 203402,
+        "word": "林大厨找虞书欣帮忙",
+        "onboard_time": 1750332981,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147178,
+        "num": 202186,
+        "word": "那尔那茜戏份贯穿电影镖人全片",
+        "onboard_time": 1750336582,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33111,
+        "num": 201161,
+        "word": "Labubu补货回收端盒跌破700元",
+        "onboard_time": 1750339041,
+        "rank": 29,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 131847,
+        "num": 199938,
+        "word": "焕羽好敢拍",
+        "onboard_time": 1750338322,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214472,
+        "num": 199336,
+        "word": "李昀锐直播报备近况",
+        "onboard_time": 1750337661,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198661,
+        "num": 198661,
+        "word": "医院被指因温度计不准延误患者治疗",
+        "onboard_time": 1750338141,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172274,
+        "num": 172274,
+        "word": "哈梅内伊任命伊朗革命卫队陆军司令",
+        "onboard_time": 1750334781,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156018,
+        "num": 156018,
+        "word": "iPhone18Pro系列屏幕曝光",
+        "onboard_time": 1750324701,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152413,
+        "num": 152413,
+        "word": "美国女孩喂流浪犬被40只狗围咬致死",
+        "onboard_time": 1750339641,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148584,
+        "num": 148584,
+        "word": "汪卓成方否认和宣璐恋情",
+        "onboard_time": 1750337241,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134541,
+        "num": 134541,
+        "word": "在伊留学生说有朋友撤离路上被炸死",
+        "onboard_time": 1750334242,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132645,
+        "num": 132645,
+        "word": "内娱偶像追星成功案例加一",
+        "onboard_time": 1750340183,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18212,
+        "num": 132586,
+        "word": "潮汕牛肉自由",
+        "onboard_time": 1750339521,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132530,
+        "num": 132530,
+        "word": "朋友圈折叠最大的受害者出现了",
+        "onboard_time": 1750321641,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129535,
+        "num": 129535,
+        "word": "车祸身亡尸检酒精含量从16.4变164",
+        "onboard_time": 1750329381,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122004,
+        "num": 122004,
+        "word": "labubu",
+        "onboard_time": 1750331123,
+        "rank": 42,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 121970,
+        "num": 121970,
+        "word": "被通知裁员的黄金一小时",
+        "onboard_time": 1750321101,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119971,
+        "num": 119971,
+        "word": "伊朗称准确击中以军事及情报机构",
+        "onboard_time": 1750328241,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111508,
+        "num": 111508,
+        "word": "中国女排vs保加利亚女排",
+        "onboard_time": 1750337962,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107863,
+        "num": 107863,
+        "word": "日本一公务员在台旅游偷拍女子裙底",
+        "onboard_time": 1750330281,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106077,
+        "num": 106077,
+        "word": "果然是全女性阵容拍出来的剧",
+        "onboard_time": 1750340062,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104348,
+        "num": 104348,
+        "word": "中国驻伊朗大使馆再发呼吁",
+        "onboard_time": 1750331721,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93529,
+        "num": 93529,
+        "word": "虞书欣王安宇女飞贼和芝麻官",
+        "onboard_time": 1750333161,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中国－中亚精神#"
+    }
+  }
+}
