@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750360764180,
+  "endTime": 1750361832452,
   "band_list": [
     {
       "raw_hot": 1229638,
@@ -443,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29017,
+      "num": 53631,
+      "word": "周深歌迷捧红了自己的LABUBU",
+      "onboard_time": 1750360635,
+      "rank": 33,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 26904,
       "num": 36249,
       "word": "翟潇闻得知不讲英语天塌了",
@@ -451,20 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26099,
-      "num": 29302,
-      "word": "周深歌迷捧红了自己的LABUBU",
-      "onboard_time": 1750360635,
-      "rank": 33,
-      "category": "艺人,休闲"
-    },
-    {
       "raw_hot": 25523,
       "num": 420562,
       "word": "科技感拉满中国好丰景",
       "onboard_time": 1750340363,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22359,
+      "num": 22359,
+      "word": "伊朗导弹击中特拉维夫多处建筑",
+      "onboard_time": 1750360094,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21764,
@@ -483,20 +491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18242,
-      "num": 20142,
-      "word": "伊朗导弹击中特拉维夫多处建筑",
-      "onboard_time": 1750360094,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 18240,
+      "raw_hot": 19891,
       "num": 20139,
       "word": "梅雨季",
       "onboard_time": 1750360635,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17033,
+      "num": 19830,
+      "word": "美国支援以色列的三种手段",
+      "onboard_time": 1750360335,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 7363,

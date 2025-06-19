@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750360764180,
+  "endTime": 1750361832452,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -66075,6 +66075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 29017,
+      "num": 53631,
+      "word": "周深歌迷捧红了自己的LABUBU",
+      "onboard_time": 1750360635,
+      "rank": 33,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 28999,
       "num": 115023,
       "word": "人在感到幸福的时候会流泪吗",
@@ -66993,14 +67001,6 @@
       "onboard_time": 1749597739,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26099,
-      "num": 29302,
-      "word": "周深歌迷捧红了自己的LABUBU",
-      "onboard_time": 1750360635,
-      "rank": 33,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 26067,
@@ -68051,6 +68051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22359,
+      "num": 22359,
+      "word": "伊朗导弹击中特拉维夫多处建筑",
+      "onboard_time": 1750360094,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22331,
       "num": 23178,
       "word": "李楷灿空降超话",
@@ -68787,6 +68795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19891,
+      "num": 20139,
+      "word": "梅雨季",
+      "onboard_time": 1750360635,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19889,
       "num": 285961,
       "word": "隋文静北体大毕业",
@@ -69203,22 +69219,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 18242,
-      "num": 20142,
-      "word": "伊朗导弹击中特拉维夫多处建筑",
-      "onboard_time": 1750360094,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 18240,
-      "num": 20139,
-      "word": "梅雨季",
-      "onboard_time": 1750360635,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18232,
       "num": 305710,
       "word": "抽检50余款作业本三成不达国标",
@@ -69489,6 +69489,14 @@
       "onboard_time": 1749877941,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 17033,
+      "num": 19830,
+      "word": "美国支援以色列的三种手段",
+      "onboard_time": 1750360335,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17007,
