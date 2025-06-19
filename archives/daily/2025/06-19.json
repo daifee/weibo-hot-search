@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750332193448,
+  "endTime": 1750333174619,
   "band_list": [
     {
       "raw_hot": 2031335,
@@ -17,6 +17,14 @@
       "onboard_time": 1750322423,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1920519,
+      "num": 291954,
+      "word": "日本开始撤侨",
+      "onboard_time": 1750331661,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1793949,
@@ -123,8 +131,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 991746,
-      "num": 1158679,
+      "raw_hot": 1044656,
+      "num": 1167145,
       "word": "19岁骑手摔倒在ICU抢救18天死亡",
       "onboard_time": 1750328721,
       "rank": 33,
@@ -153,14 +161,6 @@
       "onboard_time": 1750312701,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 805317,
-      "num": 291954,
-      "word": "日本开始撤侨",
-      "onboard_time": 1750331661,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 801041,
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375985,
+      "num": 273226,
+      "word": "王安宇 女生不要被大男子主义影响",
+      "onboard_time": 1750330340,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369681,
       "num": 369681,
       "word": "肖战给化妆师发6600红包",
@@ -611,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335110,
+      "num": 335110,
+      "word": "伊朗称准确击中以军事及情报机构",
+      "onboard_time": 1750328241,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 333762,
       "num": 333762,
       "word": "乘客拍下飞机上有人多次吸电子烟",
@@ -632,14 +648,6 @@
       "word": "伊朗首都局势紧张数百万民众开始疏散",
       "onboard_time": 1750299680,
       "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 319733,
-      "num": 319733,
-      "word": "伊朗称准确击中以军事及情报机构",
-      "onboard_time": 1750328241,
-      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -681,14 +689,6 @@
       "onboard_time": 1750314321,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301590,
-      "num": 273226,
-      "word": "王安宇 女生不要被大男子主义影响",
-      "onboard_time": 1750330340,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 300128,
@@ -1043,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224011,
+      "num": 224011,
+      "word": "labubu",
+      "onboard_time": 1750331123,
+      "rank": 32,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 221885,
       "num": 283244,
       "word": "杨紫孟子义李一桐新剧对打",
@@ -1243,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189976,
-      "num": 189976,
-      "word": "labubu",
-      "onboard_time": 1750331123,
-      "rank": 32,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 188428,
       "num": 188428,
       "word": "诡秘之主全球同步定档",
@@ -1289,6 +1289,14 @@
       "onboard_time": 1750316721,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185389,
+      "num": 185389,
+      "word": "印航空难唯一幸存者参加弟弟葬礼",
+      "onboard_time": 1750331482,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 184582,
@@ -1393,6 +1401,14 @@
       "onboard_time": 1750324222,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170564,
+      "num": 170564,
+      "word": "伊朗铁雨",
+      "onboard_time": 1750332022,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170402,
@@ -1563,12 +1579,28 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 156341,
+      "num": 156341,
+      "word": "尊界S600曝光",
+      "onboard_time": 1750332680,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 154984,
       "num": 182401,
       "word": "星舰大爆炸",
       "onboard_time": 1750314743,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 153519,
+      "num": 171105,
+      "word": "林大厨找虞书欣帮忙",
+      "onboard_time": 1750332981,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 153447,
@@ -1593,6 +1625,14 @@
       "onboard_time": 1750291462,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152737,
+      "num": 152737,
+      "word": "黑犬酱后悔打瘦脸针",
+      "onboard_time": 1750332320,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 152175,
@@ -1763,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143512,
-      "num": 143512,
-      "word": "印航空难唯一幸存者参加弟弟葬礼",
-      "onboard_time": 1750331482,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 143416,
       "num": 143416,
       "word": "比授子学位更离谱是全体毕业生结业",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1750309761,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 138625,
+      "num": 266444,
+      "word": "普京说自己的外孙女正在学习中文",
+      "onboard_time": 1750327461,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138118,
@@ -2139,6 +2179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118087,
+      "num": 118087,
+      "word": "白鹿云包场焕羽",
+      "onboard_time": 1750332022,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117440,
       "num": 117440,
       "word": "美国男子收便宜香肠后杀害邻居夫妇",
@@ -2153,14 +2201,6 @@
       "onboard_time": 1750322181,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 115806,
-      "num": 115806,
-      "word": "白鹿云包场焕羽",
-      "onboard_time": 1750332022,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 115476,
@@ -2203,20 +2243,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113965,
+      "num": 113965,
+      "word": "中国驻伊朗大使馆再发呼吁",
+      "onboard_time": 1750331721,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112873,
       "num": 135492,
       "word": "诺德股份涨停",
       "onboard_time": 1750304601,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 112203,
-      "num": 112203,
-      "word": "中国驻伊朗大使馆再发呼吁",
-      "onboard_time": 1750331721,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 111523,
@@ -2257,14 +2297,6 @@
       "onboard_time": 1750299560,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107941,
-      "num": 266444,
-      "word": "普京说自己的外孙女正在学习中文",
-      "onboard_time": 1750327461,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106972,
@@ -2627,6 +2659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 58549,
+      "num": 223089,
+      "word": "不能让韦东奕成为流量的摇钱树",
+      "onboard_time": 1750332320,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57495,
       "num": 131523,
       "word": "湖人618也有百亿补贴",
@@ -2811,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36030,
+      "num": 140194,
+      "word": "全国文旅天团花式为苏超打call",
+      "onboard_time": 1750332981,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35226,
       "num": 207034,
       "word": "伊朗的泥石导弹为何难以拦截",
@@ -2841,14 +2889,6 @@
       "onboard_time": 1750306942,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 34184,
-      "num": 152338,
-      "word": "伊朗铁雨",
-      "onboard_time": 1750332022,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 32389,
@@ -2897,6 +2937,14 @@
       "onboard_time": 1750271656,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27613,
+      "num": 211565,
+      "word": "美国或将向中东派遣第三艘航母",
+      "onboard_time": 1750332802,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27212,
@@ -3049,6 +3097,14 @@
       "onboard_time": 1750309761,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9954,
+      "num": 212855,
+      "word": "理工科选哪些专业能兼顾兴趣和考公",
+      "onboard_time": 1750332680,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 7720,
