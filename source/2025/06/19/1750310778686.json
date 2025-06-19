@@ -1,0 +1,410 @@
+{
+  "runTime": 1750310778686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1814602,
+        "num": 1814602,
+        "word": "周杰伦 强直性脊柱炎",
+        "onboard_time": 1750309102,
+        "rank": 0,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 640124,
+        "num": 640124,
+        "word": "20岁嫌难喝30岁买大瓶",
+        "onboard_time": 1750305263,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32331,
+        "num": 620409,
+        "word": "中国空间站将从T到十再到干",
+        "onboard_time": 1750258226,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 873254,
+        "num": 619197,
+        "word": "哪吒2 分账",
+        "onboard_time": 1750302260,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 611076,
+        "num": 611076,
+        "word": "Labubu大补货后黄牛发声",
+        "onboard_time": 1750300221,
+        "rank": 4,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 465584,
+        "num": 465584,
+        "word": "韩国93岁冻龄女校长谈保养经验",
+        "onboard_time": 1750304121,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 415011,
+        "num": 415011,
+        "word": "多地查摆年轻干部玩心重混日子等问题",
+        "onboard_time": 1750307782,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402679,
+        "num": 402679,
+        "word": "小沈阳女儿NINA出道",
+        "onboard_time": 1750304121,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392797,
+        "num": 392797,
+        "word": "父母去世20岁大哥一人供出4个大学生",
+        "onboard_time": 1750307543,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126877,
+        "num": 386288,
+        "word": "人民海军潜艇部队71岁生日快乐",
+        "onboard_time": 1750309761,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1062618,
+        "num": 381387,
+        "word": "唯一没有黑粉的明星",
+        "onboard_time": 1750305742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550460,
+        "num": 369487,
+        "word": "英国首相认错韩国总统",
+        "onboard_time": 1750307424,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 411173,
+        "num": 355525,
+        "word": "月薪3万存2万五的真实生活",
+        "onboard_time": 1750305140,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409061,
+        "num": 348073,
+        "word": "张继科说labubu没价值的原因找到了",
+        "onboard_time": 1750309882,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117825,
+        "num": 338670,
+        "word": "被救护车转运收费2.8万当事人发声",
+        "onboard_time": 1750309342,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331376,
+        "num": 331376,
+        "word": "Labubu大补货",
+        "onboard_time": 1750305621,
+        "rank": 15,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 315151,
+        "num": 315151,
+        "word": "伊朗使用泥石导弹打击以色列",
+        "onboard_time": 1750288578,
+        "rank": 16,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 267917,
+        "num": 288041,
+        "word": "被孙千说了四次长得像她",
+        "onboard_time": 1750298000,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285554,
+        "num": 285554,
+        "word": "丁禹兮直播",
+        "onboard_time": 1750308443,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280505,
+        "num": 280505,
+        "word": "决胜巅峰 蔡徐坤",
+        "onboard_time": 1750302860,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293582,
+        "num": 265127,
+        "word": "伊朗水漂弹",
+        "onboard_time": 1750300340,
+        "rank": 20,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 238132,
+        "num": 238132,
+        "word": "伊朗",
+        "onboard_time": 1750300281,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221684,
+        "num": 221684,
+        "word": "女子22年化妆不卸妆脸红成关公",
+        "onboard_time": 1750264640,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122853,
+        "num": 209564,
+        "word": "李想称完成2500座超充站承诺",
+        "onboard_time": 1750308860,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206928,
+        "num": 206928,
+        "word": "男子因眼睛小被频繁误判疲劳驾驶",
+        "onboard_time": 1750310002,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194850,
+        "num": 194850,
+        "word": "张婧仪周翊然电梯神图",
+        "onboard_time": 1750310303,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181775,
+        "num": 181775,
+        "word": "父母去世留下6个孩子兄弟争遗产闹翻",
+        "onboard_time": 1750308860,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174990,
+        "num": 174990,
+        "word": "建议大家上班干活可以慢一点",
+        "onboard_time": 1750307424,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161959,
+        "num": 161959,
+        "word": "宋慧乔顶级美貌",
+        "onboard_time": 1750306281,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53384,
+        "num": 160619,
+        "word": "男子网吧通宵猝死家属索赔百万",
+        "onboard_time": 1750309282,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159832,
+        "num": 159832,
+        "word": "那尔那茜事件消解政策公信力",
+        "onboard_time": 1750307723,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156533,
+        "num": 156533,
+        "word": "广东怀集县洪水",
+        "onboard_time": 1750301721,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156356,
+        "num": 156356,
+        "word": "普京称孙女正学习中文",
+        "onboard_time": 1750308203,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146960,
+        "num": 153178,
+        "word": "中餐厅直播",
+        "onboard_time": 1750307962,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149482,
+        "num": 152997,
+        "word": "陶虹 把母女关系按谈恋爱演",
+        "onboard_time": 1750310123,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152816,
+        "num": 152816,
+        "word": "伊以冲突",
+        "onboard_time": 1750293622,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149569,
+        "num": 149569,
+        "word": "伊朗称不逃离以色列就选择死亡",
+        "onboard_time": 1750294102,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146201,
+        "num": 146201,
+        "word": "周扬青经济上行的妆容照",
+        "onboard_time": 1750307361,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131894,
+        "num": 131894,
+        "word": "青岛民宿严重不符拒退款",
+        "onboard_time": 1750305742,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127972,
+        "num": 127972,
+        "word": "七根心简",
+        "onboard_time": 1750309042,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125285,
+        "num": 125285,
+        "word": "歌手 内娱版围城",
+        "onboard_time": 1750310002,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12097,
+        "num": 123973,
+        "word": "巴斯家族为湖人带来了什么",
+        "onboard_time": 1750309761,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123878,
+        "num": 123878,
+        "word": "白鹿回应自己鸡蛋过敏",
+        "onboard_time": 1750309643,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121512,
+        "num": 121512,
+        "word": "沈月直播",
+        "onboard_time": 1750309702,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116932,
+        "num": 116932,
+        "word": "易烊千玺第一次给动画电影配音",
+        "onboard_time": 1750306521,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115476,
+        "num": 115476,
+        "word": "一看就是见过大场面的猫咪",
+        "onboard_time": 1750310481,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114999,
+        "num": 114999,
+        "word": "第一次见选秀0轮游",
+        "onboard_time": 1750303100,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113110,
+        "num": 113110,
+        "word": "伊朗首都局势紧张数百万民众开始疏散",
+        "onboard_time": 1750299680,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105891,
+        "num": 105891,
+        "word": "祝绪丹用夹子音和李一桐撒娇",
+        "onboard_time": 1750310722,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67734,
+        "num": 103283,
+        "word": "张继科和labubu的爱恨情仇",
+        "onboard_time": 1750310722,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席的阿斯塔纳时间#"
+    }
+  }
+}
