@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/19 18:46:10
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/19 19:23:13
 </p>
 </blockquote>
 <p>
@@ -1347,6 +1347,12 @@ Labubu大补货后黄牛发声（热度：1393998）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%20%E5%91%A8%E4%B8%80%E5%9B%B4%23" target="weibo">
+朱丹 周一围（热度：1342874）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E6%A2%81%E6%B0%B8%E6%A3%8B%E5%8E%BB%E6%8E%A2%E7%8F%AD%E7%99%BD%E9%B9%BF%E4%BA%86%23" target="weibo">
 曾舜晞梁永棋去探班白鹿了（热度：1342302）
 </a>
@@ -2457,6 +2463,12 @@ aespa（热度：996030）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E9%AA%91%E6%89%8B%E6%91%94%E5%80%92%E5%9C%A8ICU%E6%8A%A2%E6%95%9118%E5%A4%A9%E6%AD%BB%E4%BA%A1%23" target="weibo">
+19岁骑手摔倒在ICU抢救18天死亡（热度：991746）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%9E%B6%E5%9B%A0%E7%A9%BA%E9%9A%BE%E5%85%A8%E6%8D%9F%E6%B3%A2%E9%9F%B3787%23" target="weibo">
 全球首架因空难全损波音787（热度：991500）
 </a>
@@ -3135,12 +3147,6 @@ AL战胜BLG（热度：859667）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%20%E5%91%A8%E4%B8%80%E5%9B%B4%23" target="weibo">
-朱丹 周一围（热度：854303）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%8D%B7%E8%8B%B1%E8%AF%AD%E9%9A%BE%E4%B8%8D%E9%9A%BE%23" target="weibo">
 新一卷英语难不难（热度：853256）
 </a>
@@ -3359,6 +3365,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%94%E6%9E%9D%E8%92%82%20%E8%99%AB%E5%AD%90%23" target="weibo">
 荔枝蒂 虫子（热度：805672）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E6%92%A4%E4%BE%A8%23" target="weibo">
+日本开始撤侨（热度：805317）
 </a>
 </li>
 
@@ -5859,12 +5871,6 @@ GAI 大白嗓（热度：583445）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E9%AA%91%E6%89%8B%E6%91%94%E5%80%92%E5%9C%A8ICU%E6%8A%A2%E6%95%9118%E5%A4%A9%E6%AD%BB%E4%BA%A1%23" target="weibo">
-19岁骑手摔倒在ICU抢救18天死亡（热度：560318）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E5%9B%A2%23" target="weibo">
 侯佩岑团（热度：559662）
 </a>
@@ -6005,12 +6011,6 @@ labubu医美（热度：554444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%94%B1%E6%9D%8E%E7%99%BD%23" target="weibo">
 单依纯唱李白（热度：548228）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E5%A0%82%E5%93%A5%E4%B9%9F%E9%99%B7%E5%85%A5%E9%AB%98%E8%80%83%E4%BA%89%E8%AE%AE%23" target="weibo">
-疑似那尔那茜堂哥也陷入高考争议（热度：548167）
 </a>
 </li>
 
