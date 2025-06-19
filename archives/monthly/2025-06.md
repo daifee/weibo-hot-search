@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/19 22:26:07
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/19 22:44:32
 </p>
 </blockquote>
 <p>
@@ -6509,6 +6509,12 @@ labubu医美（热度：554444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%99%AE%E4%BA%AC%E9%80%9A%E7%94%B5%E8%AF%9D%23%23" target="weibo">
 #习近平同普京通电话#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%2350%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%AC%AC%E4%BA%8C%E5%B1%8A%E4%B8%AD%E5%9B%BD%EF%BC%8D%E4%B8%AD%E4%BA%9A%E5%B3%B0%E4%BC%9A%E4%BA%AE%E7%82%B9%23%23" target="weibo">
+#50秒回顾第二届中国－中亚峰会亮点#
 </a>
 </li>
 

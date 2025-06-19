@@ -1,0 +1,410 @@
+{
+  "runTime": 1750344272600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1774853,
+        "num": 1774853,
+        "word": "夫妻开饭店双双被确诊恶性乳腺癌",
+        "onboard_time": 1750339342,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359502,
+        "num": 359502,
+        "word": "孙颖莎和男篮队员同框现最萌身高差",
+        "onboard_time": 1750335081,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22133,
+        "num": 353375,
+        "word": "科技感拉满中国好丰景",
+        "onboard_time": 1750340363,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1033873,
+        "num": 353186,
+        "word": "脑死亡孕妇因堕胎禁令4个月后产子",
+        "onboard_time": 1750339641,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 350099,
+        "num": 350099,
+        "word": "脱掉衣服的labubu样子",
+        "onboard_time": 1750341742,
+        "rank": 4,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 338932,
+        "num": 338932,
+        "word": "以伊大规模冲突",
+        "onboard_time": 1750315401,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314595,
+        "num": 314595,
+        "word": "周洁琼回应出道即巅峰",
+        "onboard_time": 1750340662,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307849,
+        "num": 307849,
+        "word": "周杰伦 强直性脊柱炎",
+        "onboard_time": 1750309102,
+        "rank": 7,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 227340,
+        "num": 227340,
+        "word": "曾舜晞我承认之前对你大声了点",
+        "onboard_time": 1750340243,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226594,
+        "num": 226594,
+        "word": "伊朗的抵抗之弧还能撑多久",
+        "onboard_time": 1750340303,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2575789,
+        "num": 225736,
+        "word": "龙丹妮 李维嘉",
+        "onboard_time": 1750339462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135736,
+        "num": 223787,
+        "word": "彭于晏李昀锐同框好绝",
+        "onboard_time": 1750341442,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803044,
+        "num": 222436,
+        "word": "日本开始撤侨",
+        "onboard_time": 1750331661,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 675180,
+        "num": 219930,
+        "word": "朱丹 周一围",
+        "onboard_time": 1750328541,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 560306,
+        "num": 217674,
+        "word": "13岁男孩一天吃四顿身高定格170",
+        "onboard_time": 1750338802,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505658,
+        "num": 215809,
+        "word": "土耳其总统公开支持伊朗",
+        "onboard_time": 1750342223,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214907,
+        "num": 214907,
+        "word": "原来恶女才是张婧仪的统治区",
+        "onboard_time": 1750343364,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471040,
+        "num": 214085,
+        "word": "美国女孩喂流浪犬被40只狗围咬致死",
+        "onboard_time": 1750339641,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26954,
+        "num": 212960,
+        "word": "华科法医小班为何是金饭碗",
+        "onboard_time": 1750343603,
+        "rank": 18,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 49918,
+        "num": 212020,
+        "word": "文科生学中医有什么优势",
+        "onboard_time": 1750343483,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 879212,
+        "num": 211445,
+        "word": "以色列民众要求全世界阻止轰炸",
+        "onboard_time": 1750337721,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 667031,
+        "num": 210523,
+        "word": "伊朗铁雨",
+        "onboard_time": 1750332022,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111478,
+        "num": 209649,
+        "word": "中国驻伊朗大使馆再发呼吁",
+        "onboard_time": 1750331721,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 456276,
+        "num": 208102,
+        "word": "曾黎 四个寥寥无几的粉丝",
+        "onboard_time": 1750319660,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89783,
+        "num": 207488,
+        "word": "科维托娃退役",
+        "onboard_time": 1750343302,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206752,
+        "num": 206752,
+        "word": "果然是全女性阵容拍出来的剧",
+        "onboard_time": 1750340062,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390327,
+        "num": 201841,
+        "word": "捞女游戏上线",
+        "onboard_time": 1750336701,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 371108,
+        "num": 201591,
+        "word": "王励勤回应王楚钦球拍事件",
+        "onboard_time": 1750340542,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269480,
+        "num": 198648,
+        "word": "伊朗对以发动大规模袭击",
+        "onboard_time": 1750323922,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186833,
+        "num": 186833,
+        "word": "你们五个人中有一个不帅",
+        "onboard_time": 1750343782,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184948,
+        "num": 184948,
+        "word": "宣璐说今天最后一次澄清",
+        "onboard_time": 1750329620,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184364,
+        "num": 184364,
+        "word": "优衣库labubu",
+        "onboard_time": 1750335741,
+        "rank": 31,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 183730,
+        "num": 183730,
+        "word": "王安宇 女生不要被大男子主义影响",
+        "onboard_time": 1750330340,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181617,
+        "num": 181617,
+        "word": "长安的荔枝cvb跌破1",
+        "onboard_time": 1750342402,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171694,
+        "num": 171694,
+        "word": "林大厨找虞书欣帮忙",
+        "onboard_time": 1750332981,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169584,
+        "num": 169584,
+        "word": "车祸身亡尸检酒精含量从16.4变164",
+        "onboard_time": 1750329381,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169545,
+        "num": 169545,
+        "word": "李昀锐说在剧组跑步偶遇关晓彤",
+        "onboard_time": 1750343722,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154716,
+        "num": 154716,
+        "word": "疯产姐妹近30日掉粉超19万",
+        "onboard_time": 1750341202,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150860,
+        "num": 150860,
+        "word": "科学家培育出人兽嵌合体",
+        "onboard_time": 1750342402,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148544,
+        "num": 148544,
+        "word": "内娱偶像追星成功案例加一",
+        "onboard_time": 1750340183,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145301,
+        "num": 145301,
+        "word": "aespa回归新歌",
+        "onboard_time": 1750335802,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141670,
+        "num": 141670,
+        "word": "沈月拆穿翟潇闻",
+        "onboard_time": 1750344023,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139659,
+        "num": 139659,
+        "word": "周翊然白鹿友谊",
+        "onboard_time": 1750334781,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137509,
+        "num": 137509,
+        "word": "严浩翔沈凌模仿黄子韬超越黄子韬",
+        "onboard_time": 1750343844,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130404,
+        "num": 130404,
+        "word": "印航空难唯一幸存者参加弟弟葬礼",
+        "onboard_time": 1750331482,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125603,
+        "num": 125603,
+        "word": "朋友圈折叠最大的受害者出现了",
+        "onboard_time": 1750321641,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123217,
+        "num": 123217,
+        "word": "焕羽好敢拍",
+        "onboard_time": 1750338322,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119934,
+        "num": 119934,
+        "word": "李雪琴",
+        "onboard_time": 1750344205,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116563,
+        "num": 116563,
+        "word": "Labubu再度补货",
+        "onboard_time": 1750343664,
+        "rank": 48,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 111850,
+        "num": 116514,
+        "word": "伊朗称准确击中以军事及情报机构",
+        "onboard_time": 1750328241,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#50秒回顾第二届中国－中亚峰会亮点#"
+    }
+  }
+}
