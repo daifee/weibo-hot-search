@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750368253746,
+  "endTime": 1750369169157,
   "band_list": [
     {
       "raw_hot": 1229638,
@@ -259,8 +259,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124271,
-      "num": 124271,
+      "raw_hot": 131173,
+      "num": 131173,
       "word": "伊朗出动超100架无人机打击以军",
       "onboard_time": 1750350259,
       "rank": 39,
@@ -427,12 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46844,
-      "num": 46844,
+      "raw_hot": 65100,
+      "num": 65100,
       "word": "王欣瑜2比0高芙",
       "onboard_time": 1750365375,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44023,
+      "num": 44023,
+      "word": "伊朗称完全控制以色列领空",
+      "onboard_time": 1750365134,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42497,
@@ -451,20 +459,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 33034,
-      "num": 33034,
-      "word": "伊朗称完全控制以色列领空",
-      "onboard_time": 1750365134,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 29017,
-      "num": 53631,
+      "raw_hot": 33961,
+      "num": 65847,
       "word": "周深歌迷捧红了自己的LABUBU",
       "onboard_time": 1750360635,
       "rank": 33,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 27694,
+      "num": 27694,
+      "word": "伊朗导弹击中特拉维夫多处建筑",
+      "onboard_time": 1750360094,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26904,
@@ -481,14 +489,6 @@
       "onboard_time": 1750340363,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22885,
-      "num": 22885,
-      "word": "伊朗导弹击中特拉维夫多处建筑",
-      "onboard_time": 1750360094,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21764,
@@ -515,23 +515,23 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17662,
-      "num": 19830,
+      "raw_hot": 19417,
+      "num": 21051,
       "word": "美国支援以色列的三种手段",
       "onboard_time": 1750360335,
       "rank": 49,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 13656,
-      "num": 17804,
+      "raw_hot": 17551,
+      "num": 21048,
       "word": "官方回应雕塑展获奖作品购自淘宝",
       "onboard_time": 1750362854,
       "rank": 49,
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 7453,
+      "raw_hot": 7806,
       "num": 179216,
       "word": "青春华章赣劲十足",
       "onboard_time": 1750340123,
