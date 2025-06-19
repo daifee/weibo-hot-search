@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750315060191,
+  "endTime": 1750315937504,
   "band_list": [
     {
       "raw_hot": 2031335,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1491531,
-      "num": 383144,
+      "num": 389071,
       "word": "唯一没有黑粉的明星",
       "onboard_time": 1750305742,
       "rank": 10,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 887092,
+      "num": 887092,
+      "word": "伊朗开始逐步亮出杀手锏",
+      "onboard_time": 1750312701,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 801041,
       "num": 801041,
       "word": "顿顿离职",
@@ -129,14 +137,6 @@
       "onboard_time": 1750307543,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 707578,
-      "num": 707578,
-      "word": "伊朗开始逐步亮出杀手锏",
-      "onboard_time": 1750312701,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 702622,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405944,
+      "num": 405944,
+      "word": "一念江南官宣预告",
+      "onboard_time": 1750314562,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405012,
       "num": 405012,
       "word": "伊朗媒体发布手摸核弹视频",
@@ -363,6 +371,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 389182,
+      "num": 389182,
+      "word": "黄子韬这一刻不反驳已经赢了",
+      "onboard_time": 1750310841,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 369681,
+      "num": 369681,
+      "word": "肖战给化妆师发6600红包",
+      "onboard_time": 1750312341,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369608,
       "num": 301016,
       "word": "陈冠希经纪人回应飞机争执",
@@ -377,14 +401,6 @@
       "onboard_time": 1750260982,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 358380,
-      "num": 358380,
-      "word": "黄子韬这一刻不反驳已经赢了",
-      "onboard_time": 1750310841,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 354126,
@@ -411,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 328981,
-      "num": 328981,
-      "word": "肖战给化妆师发6600红包",
-      "onboard_time": 1750312341,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328688,
       "num": 328688,
       "word": "邓为 解约",
@@ -435,12 +443,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 318567,
+      "num": 370242,
+      "word": "马斯克星舰试飞前测试发生巨大爆炸",
+      "onboard_time": 1750313302,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 315446,
       "num": 315446,
       "word": "杜淳妻子回应生二胎",
       "onboard_time": 1750281855,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314512,
+      "num": 242543,
+      "word": "父母去世留下6个孩子兄弟争遗产闹翻",
+      "onboard_time": 1750308860,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308254,
+      "num": 308254,
+      "word": "歌手歌单",
+      "onboard_time": 1750314321,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 300128,
+      "num": 240680,
+      "word": "孙杨回应在闲鱼买手办被认出",
+      "onboard_time": 1750312401,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 299301,
@@ -483,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285900,
-      "num": 202436,
-      "word": "孙杨回应在闲鱼买手办被认出",
-      "onboard_time": 1750312401,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285764,
       "num": 285764,
       "word": "金泳勋道歉",
@@ -513,14 +545,6 @@
       "onboard_time": 1750305981,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283076,
-      "num": 236515,
-      "word": "父母去世留下6个孩子兄弟争遗产闹翻",
-      "onboard_time": 1750308860,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 281633,
@@ -555,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274998,
-      "num": 370242,
-      "word": "马斯克星舰试飞前测试发生巨大爆炸",
-      "onboard_time": 1750313302,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 273588,
       "num": 294584,
       "word": "第一次见选秀0轮游",
@@ -587,20 +603,20 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 259689,
+      "num": 259689,
+      "word": "陈思诚签约00后小生黄毅",
+      "onboard_time": 1750313781,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254915,
       "num": 324407,
       "word": "女孩醉驾致3死借车车主一同被诉",
       "onboard_time": 1750258944,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250475,
-      "num": 250475,
-      "word": "陈思诚签约00后小生黄毅",
-      "onboard_time": 1750313781,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 243155,
@@ -699,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228333,
+      "num": 228333,
+      "word": "一念江南",
+      "onboard_time": 1750312761,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224704,
       "num": 224704,
       "word": "祝绪丹给李现送咖啡扑了个空",
@@ -723,20 +747,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211284,
-      "num": 211284,
-      "word": "一念江南",
-      "onboard_time": 1750312761,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 209627,
-      "num": 209627,
-      "word": "一念江南官宣预告",
-      "onboard_time": 1750314562,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 210092,
+      "num": 210092,
+      "word": "以军袭击伊朗核反应堆和核武器基地",
+      "onboard_time": 1750314081,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205676,
@@ -795,12 +811,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199116,
-      "num": 199116,
-      "word": "歌手歌单",
-      "onboard_time": 1750314321,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 198432,
+      "num": 198432,
+      "word": "26岁姑娘开农机冲进火场抢麦",
+      "onboard_time": 1750313601,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198329,
@@ -841,6 +857,14 @@
       "onboard_time": 1750297880,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 187791,
+      "num": 187791,
+      "word": "王钰栋身价或暴涨",
+      "onboard_time": 1750314621,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 186364,
@@ -899,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176156,
+      "num": 232336,
+      "word": "以伊大规模冲突",
+      "onboard_time": 1750315401,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174448,
       "num": 174448,
       "word": "祝绪丹叫李现哥哥",
@@ -929,6 +961,14 @@
       "onboard_time": 1750297700,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170183,
+      "num": 170183,
+      "word": "美国49岁大学教授捐精生176名子女",
+      "onboard_time": 1750314261,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 170174,
@@ -971,14 +1011,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 168659,
-      "num": 164202,
-      "word": "王钰栋身价或暴涨",
-      "onboard_time": 1750314621,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168555,
       "num": 168555,
       "word": "张婧仪周翊然 自己吓自己",
@@ -1019,14 +1051,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 163258,
-      "num": 163258,
-      "word": "26岁姑娘开农机冲进火场抢麦",
-      "onboard_time": 1750313601,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157058,
       "num": 157058,
       "word": "幼童笼中赤裸涉事家庭3人天生残疾",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1750291462,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151878,
+      "num": 151878,
+      "word": "朱丹",
+      "onboard_time": 1750313840,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 151688,
@@ -1075,6 +1107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149951,
+      "num": 257544,
+      "word": "郭品超山东收麦子",
+      "onboard_time": 1750311502,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148280,
       "num": 131767,
       "word": "赵丽颖西林台词很有力量",
@@ -1089,6 +1129,14 @@
       "onboard_time": 1750309643,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146862,
+      "num": 146862,
+      "word": "河南洛阳一处水体呈粉红色",
+      "onboard_time": 1750314861,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146559,
@@ -1123,20 +1171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144826,
-      "num": 144826,
-      "word": "美国49岁大学教授捐精生176名子女",
-      "onboard_time": 1750314261,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 144784,
       "num": 144784,
       "word": "以色列摩萨德人员在伊朗接连落网",
       "onboard_time": 1750295661,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143902,
+      "num": 143902,
+      "word": "周鹤年 赌博",
+      "onboard_time": 1750315701,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 143723,
@@ -1187,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141065,
+      "num": 321309,
+      "word": "湖南一处溶洞内又现垃圾堆高15米",
+      "onboard_time": 1750314743,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140957,
       "num": 198334,
       "word": "在飞机上拍到了家乡",
@@ -1227,14 +1283,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 136085,
-      "num": 136085,
-      "word": "以军袭击伊朗核反应堆和核武器基地",
-      "onboard_time": 1750314081,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135394,
       "num": 174989,
       "word": "青岛民宿严重不符拒退款",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1750308562,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132794,
+      "num": 132794,
+      "word": "LPL全球总决赛积分更新",
+      "onboard_time": 1750311741,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 131203,
@@ -1275,14 +1331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128764,
-      "num": 153370,
-      "word": "郭品超山东收麦子",
-      "onboard_time": 1750311502,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128395,
       "num": 128395,
       "word": "小米发布618战报",
@@ -1297,14 +1345,6 @@
       "onboard_time": 1750309042,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127588,
-      "num": 127588,
-      "word": "河南洛阳一处水体呈粉红色",
-      "onboard_time": 1750314861,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127033,
@@ -1323,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126185,
-      "num": 126185,
-      "word": "LPL全球总决赛积分更新",
-      "onboard_time": 1750311741,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126042,
       "num": 126042,
       "word": "沈腾范丞丞一对视就想笑",
@@ -1345,14 +1377,6 @@
       "onboard_time": 1750304061,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124057,
-      "num": 124057,
-      "word": "朱丹",
-      "onboard_time": 1750313840,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 123157,
@@ -1411,6 +1435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121820,
+      "num": 122368,
+      "word": "雷军回应和美的海尔并列",
+      "onboard_time": 1750315101,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121512,
       "num": 121512,
       "word": "沈月直播",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1750296560,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116720,
+      "num": 182401,
+      "word": "星舰大爆炸",
+      "onboard_time": 1750314743,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115476,
@@ -1627,14 +1667,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 91581,
-      "num": 210344,
-      "word": "湖南一处溶洞内又现垃圾堆高15米",
-      "onboard_time": 1750314743,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91465,
       "num": 91465,
       "word": "杨迪lakuku裤子",
@@ -1769,14 +1801,6 @@
       "onboard_time": 1750302141,
       "rank": 41,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 74921,
-      "num": 164574,
-      "word": "星舰大爆炸",
-      "onboard_time": 1750314743,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 71736,
@@ -1915,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46261,
+      "num": 147433,
+      "word": "以方称3800以色列人无家可归",
+      "onboard_time": 1750315340,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 45627,
       "num": 72819,
       "word": "律师谈邓紫棋到底能不能重录旧歌",
@@ -1987,6 +2019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27212,
+      "num": 146878,
+      "word": "潘展乐说要么不做要么做好",
+      "onboard_time": 1750314743,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26466,
       "num": 33081,
       "word": "黄友政陈垣宇1比3朴奎炫禹衡圭",
@@ -2009,14 +2049,6 @@
       "onboard_time": 1750272075,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20985,
-      "num": 131264,
-      "word": "潘展乐说要么不做要么做好",
-      "onboard_time": 1750314743,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 19889,
@@ -2065,6 +2097,14 @@
       "onboard_time": 1750284556,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13623,
+      "num": 249308,
+      "word": "电竞专业有出路吗",
+      "onboard_time": 1750315281,
+      "rank": 19,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 12970,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1750315937504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1449301,
+        "num": 1449301,
+        "word": "周杰伦 强直性脊柱炎",
+        "onboard_time": 1750309102,
+        "rank": 0,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 887092,
+        "num": 887092,
+        "word": "伊朗开始逐步亮出杀手锏",
+        "onboard_time": 1750312701,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20899,
+        "num": 728669,
+        "word": "中国空间站将从T到十再到干",
+        "onboard_time": 1750258226,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 680188,
+        "num": 680188,
+        "word": "邵雨轩谈疯产姐妹解散原因",
+        "onboard_time": 1750310781,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 547500,
+        "num": 547500,
+        "word": "张继科说labubu没价值的原因找到了",
+        "onboard_time": 1750309882,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 473852,
+        "num": 473852,
+        "word": "父母去世20岁大哥一人供出4个大学生",
+        "onboard_time": 1750307543,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450261,
+        "num": 450261,
+        "word": "特朗普与巴基斯坦陆军元帅共进午餐",
+        "onboard_time": 1750312160,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 431085,
+        "num": 431085,
+        "word": "Labubu大补货后黄牛发声",
+        "onboard_time": 1750300221,
+        "rank": 7,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 405944,
+        "num": 405944,
+        "word": "一念江南官宣预告",
+        "onboard_time": 1750314562,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389182,
+        "num": 389182,
+        "word": "黄子韬这一刻不反驳已经赢了",
+        "onboard_time": 1750310841,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582478,
+        "num": 389071,
+        "word": "唯一没有黑粉的明星",
+        "onboard_time": 1750305742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369681,
+        "num": 369681,
+        "word": "肖战给化妆师发6600红包",
+        "onboard_time": 1750312341,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362791,
+        "num": 362791,
+        "word": "多地查摆年轻干部玩心重混日子等问题",
+        "onboard_time": 1750307782,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327477,
+        "num": 327477,
+        "word": "男子因眼睛小被频繁误判疲劳驾驶",
+        "onboard_time": 1750310002,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141065,
+        "num": 321309,
+        "word": "湖南一处溶洞内又现垃圾堆高15米",
+        "onboard_time": 1750314743,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318567,
+        "num": 318567,
+        "word": "马斯克星舰试飞前测试发生巨大爆炸",
+        "onboard_time": 1750313302,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 308254,
+        "num": 308254,
+        "word": "歌手歌单",
+        "onboard_time": 1750314321,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259689,
+        "num": 259689,
+        "word": "陈思诚签约00后小生黄毅",
+        "onboard_time": 1750313781,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149951,
+        "num": 257544,
+        "word": "郭品超山东收麦子",
+        "onboard_time": 1750311502,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13623,
+        "num": 249308,
+        "word": "电竞专业有出路吗",
+        "onboard_time": 1750315281,
+        "rank": 19,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 314512,
+        "num": 242543,
+        "word": "父母去世留下6个孩子兄弟争遗产闹翻",
+        "onboard_time": 1750308860,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300128,
+        "num": 240680,
+        "word": "孙杨回应在闲鱼买手办被认出",
+        "onboard_time": 1750312401,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176156,
+        "num": 232336,
+        "word": "以伊大规模冲突",
+        "onboard_time": 1750315401,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228333,
+        "num": 228333,
+        "word": "一念江南",
+        "onboard_time": 1750312761,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210092,
+        "num": 210092,
+        "word": "以军袭击伊朗核反应堆和核武器基地",
+        "onboard_time": 1750314081,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202149,
+        "num": 202149,
+        "word": "韩国93岁冻龄女校长谈保养经验",
+        "onboard_time": 1750304121,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198432,
+        "num": 198432,
+        "word": "26岁姑娘开农机冲进火场抢麦",
+        "onboard_time": 1750313601,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198249,
+        "num": 198249,
+        "word": "小沈阳女儿NINA出道",
+        "onboard_time": 1750304121,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187791,
+        "num": 187791,
+        "word": "王钰栋身价或暴涨",
+        "onboard_time": 1750314621,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116720,
+        "num": 182401,
+        "word": "星舰大爆炸",
+        "onboard_time": 1750314743,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181484,
+        "num": 181484,
+        "word": "奥运冠军昌雅妮本科毕业",
+        "onboard_time": 1750313482,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177715,
+        "num": 177715,
+        "word": "决胜巅峰 蔡徐坤",
+        "onboard_time": 1750302860,
+        "rank": 31,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 170183,
+        "num": 170183,
+        "word": "美国49岁大学教授捐精生176名子女",
+        "onboard_time": 1750314261,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168631,
+        "num": 168631,
+        "word": "月薪3万存2万五的真实生活",
+        "onboard_time": 1750305140,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168515,
+        "num": 168515,
+        "word": "伊朗",
+        "onboard_time": 1750300281,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157624,
+        "num": 157624,
+        "word": "伊朗使用泥石导弹打击以色列",
+        "onboard_time": 1750288578,
+        "rank": 35,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 151878,
+        "num": 151878,
+        "word": "朱丹",
+        "onboard_time": 1750313840,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149683,
+        "num": 149683,
+        "word": "普京称孙女正学习中文",
+        "onboard_time": 1750308203,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46261,
+        "num": 147433,
+        "word": "以方称3800以色列人无家可归",
+        "onboard_time": 1750315340,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27212,
+        "num": 146878,
+        "word": "潘展乐说要么不做要么做好",
+        "onboard_time": 1750314743,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146862,
+        "num": 146862,
+        "word": "河南洛阳一处水体呈粉红色",
+        "onboard_time": 1750314861,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144608,
+        "num": 144608,
+        "word": "月明千里官宣",
+        "onboard_time": 1750311202,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143902,
+        "num": 143902,
+        "word": "周鹤年 赌博",
+        "onboard_time": 1750315701,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132794,
+        "num": 132794,
+        "word": "LPL全球总决赛积分更新",
+        "onboard_time": 1750311741,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132542,
+        "num": 132542,
+        "word": "Labubu大补货",
+        "onboard_time": 1750305621,
+        "rank": 44,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 131625,
+        "num": 131625,
+        "word": "英国首相认错韩国总统",
+        "onboard_time": 1750307424,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130234,
+        "num": 130234,
+        "word": "中国女游客印尼拍照时被强流卷走遇难",
+        "onboard_time": 1750314261,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128381,
+        "num": 128381,
+        "word": "伊以冲突",
+        "onboard_time": 1750293622,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122979,
+        "num": 122979,
+        "word": "张婧仪周翊然 自己吓自己",
+        "onboard_time": 1750313781,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121820,
+        "num": 122368,
+        "word": "雷军回应和美的海尔并列",
+        "onboard_time": 1750315101,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#合作之路越走越宽广#"
+    }
+  }
+}

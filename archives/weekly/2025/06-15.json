@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750315060191,
+  "endTime": 1750315937504,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1491531,
-      "num": 383144,
+      "num": 389071,
       "word": "唯一没有黑粉的明星",
       "onboard_time": 1750305742,
       "rank": 10,
@@ -851,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 887092,
+      "num": 887092,
+      "word": "伊朗开始逐步亮出杀手锏",
+      "onboard_time": 1750312701,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 877463,
       "num": 468791,
       "word": "天津机场航站楼车祸",
@@ -1329,14 +1337,6 @@
       "onboard_time": 1749980000,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 707578,
-      "num": 707578,
-      "word": "伊朗开始逐步亮出杀手锏",
-      "onboard_time": 1750312701,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 706100,
@@ -2819,6 +2819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405944,
+      "num": 405944,
+      "word": "一念江南官宣预告",
+      "onboard_time": 1750314562,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405314,
       "num": 405314,
       "word": "迪迪不畏致歉",
@@ -2929,6 +2937,14 @@
       "onboard_time": 1750114939,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 389182,
+      "num": 389182,
+      "word": "黄子韬这一刻不反驳已经赢了",
+      "onboard_time": 1750310841,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 388741,
@@ -3059,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369681,
+      "num": 369681,
+      "word": "肖战给化妆师发6600红包",
+      "onboard_time": 1750312341,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369608,
       "num": 301016,
       "word": "陈冠希经纪人回应飞机争执",
@@ -3129,14 +3153,6 @@
       "onboard_time": 1749989120,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 358380,
-      "num": 358380,
-      "word": "黄子韬这一刻不反驳已经赢了",
-      "onboard_time": 1750310841,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 357700,
@@ -3475,14 +3491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 328981,
-      "num": 328981,
-      "word": "肖战给化妆师发6600红包",
-      "onboard_time": 1750312341,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328015,
       "num": 328015,
       "word": "张酸 反派",
@@ -3571,6 +3579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 318567,
+      "num": 370242,
+      "word": "马斯克星舰试飞前测试发生巨大爆炸",
+      "onboard_time": 1750313302,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 318368,
       "num": 324407,
       "word": "女孩醉驾致3死借车车主一同被诉",
@@ -3601,6 +3617,14 @@
       "onboard_time": 1750281855,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314512,
+      "num": 242543,
+      "word": "父母去世留下6个孩子兄弟争遗产闹翻",
+      "onboard_time": 1750308860,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313973,
@@ -3649,6 +3673,14 @@
       "onboard_time": 1750079721,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 308254,
+      "num": 308254,
+      "word": "歌手歌单",
+      "onboard_time": 1750236442,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 307644,
@@ -3721,6 +3753,14 @@
       "onboard_time": 1750168101,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300128,
+      "num": 240680,
+      "word": "孙杨回应在闲鱼买手办被认出",
+      "onboard_time": 1750312401,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 300089,
@@ -3939,14 +3979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285900,
-      "num": 202436,
-      "word": "孙杨回应在闲鱼买手办被认出",
-      "onboard_time": 1750312401,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285764,
       "num": 285764,
       "word": "金泳勋道歉",
@@ -4033,14 +4065,6 @@
       "onboard_time": 1749976100,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 283076,
-      "num": 236515,
-      "word": "父母去世留下6个孩子兄弟争遗产闹翻",
-      "onboard_time": 1750308860,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282890,
@@ -4185,14 +4209,6 @@
       "onboard_time": 1750281793,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 274998,
-      "num": 370242,
-      "word": "马斯克星舰试飞前测试发生巨大爆炸",
-      "onboard_time": 1750313302,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 274643,
@@ -4499,6 +4515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 259689,
+      "num": 259689,
+      "word": "陈思诚签约00后小生黄毅",
+      "onboard_time": 1750313781,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259354,
       "num": 214635,
       "word": "中国女篮战胜日本女篮",
@@ -4649,14 +4673,6 @@
       "onboard_time": 1750240880,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 250475,
-      "num": 250475,
-      "word": "陈思诚签约00后小生黄毅",
-      "onboard_time": 1750313781,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 249933,
@@ -5483,20 +5499,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210092,
+      "num": 210092,
+      "word": "以军袭击伊朗核反应堆和核武器基地",
+      "onboard_time": 1750314081,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 209777,
       "num": 399459,
       "word": "王星越旁白父亲节短片太戳了",
       "onboard_time": 1749971300,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209627,
-      "num": 209627,
-      "word": "一念江南官宣预告",
-      "onboard_time": 1750314562,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 209492,
@@ -5923,14 +5939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199116,
-      "num": 199116,
-      "word": "歌手歌单",
-      "onboard_time": 1750236442,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199050,
       "num": 199050,
       "word": "临江仙23集爆哭",
@@ -5969,6 +5977,14 @@
       "onboard_time": 1749969440,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198432,
+      "num": 198432,
+      "word": "26岁姑娘开农机冲进火场抢麦",
+      "onboard_time": 1750313601,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198422,
@@ -6457,6 +6473,14 @@
       "onboard_time": 1750044622,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187791,
+      "num": 187791,
+      "word": "王钰栋身价或暴涨",
+      "onboard_time": 1750314621,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 187788,
@@ -7011,6 +7035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176156,
+      "num": 232336,
+      "word": "以伊大规模冲突",
+      "onboard_time": 1750315401,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175999,
       "num": 192301,
       "word": "王星越你别要了我害怕",
@@ -7427,6 +7459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170183,
+      "num": 170183,
+      "word": "美国49岁大学教授捐精生176名子女",
+      "onboard_time": 1750314261,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 170174,
       "num": 170174,
       "word": "开始推理吧",
@@ -7521,14 +7561,6 @@
       "onboard_time": 1750070900,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 168659,
-      "num": 164202,
-      "word": "王钰栋身价或暴涨",
-      "onboard_time": 1750314621,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 168556,
@@ -7857,14 +7889,6 @@
       "onboard_time": 1749996382,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163258,
-      "num": 163258,
-      "word": "26岁姑娘开农机冲进火场抢麦",
-      "onboard_time": 1750313601,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162911,
@@ -8635,6 +8659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149951,
+      "num": 257544,
+      "word": "郭品超山东收麦子",
+      "onboard_time": 1750311502,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149933,
       "num": 149933,
       "word": "梁洁 甜心公主",
@@ -8827,6 +8859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146862,
+      "num": 146862,
+      "word": "河南洛阳一处水体呈粉红色",
+      "onboard_time": 1750314861,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146559,
       "num": 298567,
       "word": "肇庆怀集遭遇百年一遇历史最大洪水",
@@ -8947,14 +8987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144826,
-      "num": 144826,
-      "word": "美国49岁大学教授捐精生176名子女",
-      "onboard_time": 1750314261,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 144784,
       "num": 144784,
       "word": "以色列摩萨德人员在伊朗接连落网",
@@ -9041,6 +9073,14 @@
       "onboard_time": 1750149801,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143902,
+      "num": 143902,
+      "word": "周鹤年 赌博",
+      "onboard_time": 1750315701,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 143877,
@@ -9193,6 +9233,14 @@
       "onboard_time": 1750124360,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141065,
+      "num": 321309,
+      "word": "湖南一处溶洞内又现垃圾堆高15米",
+      "onboard_time": 1750314743,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141013,
@@ -9531,14 +9579,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 136085,
-      "num": 136085,
-      "word": "以军袭击伊朗核反应堆和核武器基地",
-      "onboard_time": 1750314081,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 136040,
       "num": 136040,
       "word": "这些食物不建议二次加热",
@@ -9800,6 +9840,14 @@
       "word": "Cat说打比赛心态有变化",
       "onboard_time": 1749915563,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 132794,
+      "num": 132794,
+      "word": "LPL全球总决赛积分更新",
+      "onboard_time": 1750311741,
+      "rank": 44,
       "category": "电竞"
     },
     {
@@ -10219,14 +10267,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 128764,
-      "num": 153370,
-      "word": "郭品超山东收麦子",
-      "onboard_time": 1750311502,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128762,
       "num": 128762,
       "word": "给李晟忙到重影",
@@ -10321,14 +10361,6 @@
       "onboard_time": 1750049962,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 127588,
-      "num": 127588,
-      "word": "河南洛阳一处水体呈粉红色",
-      "onboard_time": 1750314861,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127585,
@@ -10481,14 +10513,6 @@
       "onboard_time": 1749983902,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126185,
-      "num": 126185,
-      "word": "LPL全球总决赛积分更新",
-      "onboard_time": 1750311741,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 126042,
@@ -10923,6 +10947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121820,
+      "num": 122368,
+      "word": "雷军回应和美的海尔并列",
+      "onboard_time": 1750315101,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121703,
       "num": 121370,
       "word": "前妻偷偷生了我的孩子",
@@ -11337,6 +11369,14 @@
       "onboard_time": 1750058660,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116720,
+      "num": 182401,
+      "word": "星舰大爆炸",
+      "onboard_time": 1750314743,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 116660,
@@ -12867,14 +12907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91581,
-      "num": 210344,
-      "word": "湖南一处溶洞内又现垃圾堆高15米",
-      "onboard_time": 1750314743,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91121,
       "num": 91121,
       "word": "拜仁vs奥克兰城",
@@ -13513,14 +13545,6 @@
       "onboard_time": 1750201278,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74921,
-      "num": 164574,
-      "word": "星舰大爆炸",
-      "onboard_time": 1750314743,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 74821,
@@ -14747,6 +14771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46261,
+      "num": 147433,
+      "word": "以方称3800以色列人无家可归",
+      "onboard_time": 1750315340,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46237,
       "num": 46237,
       "word": "blue王者荣耀首播",
@@ -15811,6 +15843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27212,
+      "num": 146878,
+      "word": "潘展乐说要么不做要么做好",
+      "onboard_time": 1750314743,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27187,
       "num": 114542,
       "word": "F1",
@@ -16315,14 +16355,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 20985,
-      "num": 131264,
-      "word": "潘展乐说要么不做要么做好",
-      "onboard_time": 1750314743,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20970,
       "num": 26707,
       "word": "广东多地发布台风红色预警",
@@ -16801,6 +16833,14 @@
       "onboard_time": 1750154542,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13623,
+      "num": 249308,
+      "word": "电竞专业有出路吗",
+      "onboard_time": 1750315281,
+      "rank": 19,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 13481,
