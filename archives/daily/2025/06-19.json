@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750290030606,
+  "endTime": 1750298561887,
   "band_list": [
     {
       "raw_hot": 1579007,
@@ -20,11 +20,27 @@
     },
     {
       "raw_hot": 1201918,
-      "num": 214285,
+      "num": 474417,
       "word": "伊朗使用泥石导弹打击以色列",
       "onboard_time": 1750288578,
       "rank": 14,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 1099055,
+      "num": 1175848,
+      "word": "酒店洗漱包内发现用过的HIV检测盒",
+      "onboard_time": 1750294822,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 939980,
+      "num": 939980,
+      "word": "陪爬泰山男演员已经接了6单",
+      "onboard_time": 1750293142,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 931337,
@@ -91,6 +107,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 518480,
+      "num": 382782,
+      "word": "伊朗称不逃离以色列就选择死亡",
+      "onboard_time": 1750294102,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 507714,
+      "num": 507714,
+      "word": "泡泡玛特回应labubu预售",
+      "onboard_time": 1750293082,
+      "rank": 4,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 481262,
       "num": 481262,
       "word": "女子回应22年化妆不卸妆严重过敏",
@@ -104,6 +136,14 @@
       "word": "孟子义的狗巧克力塌房了",
       "onboard_time": 1750254383,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 422956,
+      "num": 422956,
+      "word": "林依轮回应别再整了",
+      "onboard_time": 1750292902,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -121,6 +161,14 @@
       "onboard_time": 1750257084,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405012,
+      "num": 405012,
+      "word": "伊朗媒体发布手摸核弹视频",
+      "onboard_time": 1750291942,
+      "rank": 8,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 369608,
@@ -195,6 +243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279331,
+      "num": 279331,
+      "word": "多方回应酒店洗漱包现已用HIV检测盒",
+      "onboard_time": 1750296081,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276400,
+      "num": 276400,
+      "word": "QS世界大学排名",
+      "onboard_time": 1750291101,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 275231,
       "num": 275231,
       "word": "官方通报救护车跨省转运收费2.8万",
@@ -227,6 +291,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252052,
+      "num": 150409,
+      "word": "被孙千说了四次长得像她",
+      "onboard_time": 1750298000,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 242967,
+      "num": 242967,
+      "word": "伊以冲突",
+      "onboard_time": 1750293622,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 241503,
       "num": 241503,
       "word": "美轰炸机已部署至西班牙军事基地",
@@ -251,11 +331,35 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 227653,
+      "num": 227653,
+      "word": "李雪琴 老谢",
+      "onboard_time": 1750295541,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216525,
+      "num": 216525,
+      "word": "不许不知道Ctrl加E",
+      "onboard_time": 1750288578,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203156,
       "num": 203156,
       "word": "朱丹 我们从未让女儿留级",
       "onboard_time": 1750231041,
       "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197682,
+      "num": 197682,
+      "word": "丁程鑫G社生图",
+      "onboard_time": 1750297159,
+      "rank": 21,
       "category": "作品衍生"
     },
     {
@@ -265,6 +369,14 @@
       "onboard_time": 1750288578,
       "rank": 19,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 188428,
+      "num": 188428,
+      "word": "诡秘之主全球同步定档",
+      "onboard_time": 1750297880,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 186364,
@@ -281,6 +393,22 @@
       "onboard_time": 1750255884,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179368,
+      "num": 179368,
+      "word": "王者白起联动皮肤免费送",
+      "onboard_time": 1750293922,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 174387,
+      "num": 174387,
+      "word": "伊朗敦促公众卸载软件WhatsApp",
+      "onboard_time": 1750297580,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173856,
@@ -307,6 +435,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169716,
+      "num": 131230,
+      "word": "第一次意识到老家特产有多牛",
+      "onboard_time": 1750298301,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167511,
+      "num": 221746,
+      "word": "朱丹 潜意识",
+      "onboard_time": 1750293082,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167020,
       "num": 167020,
       "word": "汉中龙岗中学",
@@ -323,12 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165393,
+      "num": 216648,
+      "word": "李现演技 惊艳",
+      "onboard_time": 1750295900,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164220,
       "num": 164220,
       "word": "卢伟冰剧透小米YU7价格",
       "onboard_time": 1750288639,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 158108,
+      "num": 158108,
+      "word": "特朗普说美国不要停火要彻底胜利",
+      "onboard_time": 1750297700,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157058,
@@ -347,12 +507,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152943,
+      "num": 152943,
+      "word": "妻子打赏男主播700万丈夫起诉返还",
+      "onboard_time": 1750291462,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150409,
+      "num": 150408,
+      "word": "奥迪暂停全面电动化",
+      "onboard_time": 1750298301,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 149984,
       "num": 149984,
       "word": "美联储",
       "onboard_time": 1750289660,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 144784,
+      "num": 144784,
+      "word": "以色列摩萨德人员在伊朗接连落网",
+      "onboard_time": 1750295661,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142958,
@@ -363,20 +547,76 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141533,
-      "num": 115276,
-      "word": "不许不知道Ctrl加E",
-      "onboard_time": 1750288578,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137834,
       "num": 137834,
       "word": "外交部驳斥欧盟主席指责中国言论",
       "onboard_time": 1750259362,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 133515,
+      "num": 133515,
+      "word": "labubu黄牛",
+      "onboard_time": 1750297040,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131569,
+      "num": 131569,
+      "word": "光遇",
+      "onboard_time": 1750298301,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 131203,
+      "num": 131203,
+      "word": "76万人抢苏超常州vs南京门票",
+      "onboard_time": 1750294043,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124405,
+      "num": 124405,
+      "word": "男子不熟悉水性抱水桶下河救人",
+      "onboard_time": 1750296500,
+      "rank": 42,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 122744,
+      "num": 122744,
+      "word": "小米发布618战报",
+      "onboard_time": 1750296741,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 122659,
+      "num": 122659,
+      "word": "男子200万建洋房被爸妈塞满农作物",
+      "onboard_time": 1750292902,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122514,
+      "num": 122514,
+      "word": "巴斯家族100亿转让湖人多数股权",
+      "onboard_time": 1750290081,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122403,
+      "num": 122403,
+      "word": "苏新皓等兑换码",
+      "onboard_time": 1750297941,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 122078,
@@ -393,6 +633,14 @@
       "onboard_time": 1750233141,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118160,
+      "num": 118160,
+      "word": "蔡徐坤纽约音乐节",
+      "onboard_time": 1750296560,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 114163,
@@ -595,6 +843,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 66013,
+      "num": 383205,
+      "word": "普京说愿与泽连斯基会面",
+      "onboard_time": 1750297460,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64971,
       "num": 64971,
       "word": "鞠婧祎寻找橘色海6",
@@ -609,6 +865,14 @@
       "onboard_time": 1750288518,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63894,
+      "num": 695927,
+      "word": "网警查处冒充扁担女孩牟利者",
+      "onboard_time": 1750295722,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57358,
@@ -643,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 35691,
+      "num": 131230,
+      "word": "中国驻以色列使馆发布领事提醒",
+      "onboard_time": 1750298540,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30256,
       "num": 964900,
       "word": "数读5月消费市场亮点",
@@ -667,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24238,
+      "num": 131325,
+      "word": "那尔那茜争议事件三大疑问待解",
+      "onboard_time": 1750298480,
+      "rank": 36,
+      "category": "舆论监督,艺人"
+    },
+    {
       "raw_hot": 22713,
       "num": 24597,
       "word": "邓紫棋我不知道我还要回应什么",
@@ -681,6 +961,14 @@
       "onboard_time": 1750289780,
       "rank": 16,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 18589,
+      "num": 122700,
+      "word": "花1万5改装摩托车炸街构成寻衅滋事",
+      "onboard_time": 1750298540,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18374,

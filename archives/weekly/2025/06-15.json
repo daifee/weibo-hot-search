@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750290030606,
+  "endTime": 1750298561887,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 1201918,
-      "num": 214285,
+      "num": 474417,
       "word": "伊朗使用泥石导弹打击以色列",
       "onboard_time": 1750288578,
       "rank": 14,
@@ -465,6 +465,14 @@
       "onboard_time": 1749907461,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1099055,
+      "num": 1175848,
+      "word": "酒店洗漱包内发现用过的HIV检测盒",
+      "onboard_time": 1750294822,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1083708,
@@ -681,6 +689,14 @@
       "onboard_time": 1750234702,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 939980,
+      "num": 939980,
+      "word": "陪爬泰山男演员已经接了6单",
+      "onboard_time": 1750293142,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 932163,
@@ -2011,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 518480,
+      "num": 382782,
+      "word": "伊朗称不逃离以色列就选择死亡",
+      "onboard_time": 1750294102,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 516414,
       "num": 475173,
       "word": "沈腾婚礼旧照",
@@ -2041,6 +2065,14 @@
       "onboard_time": 1749993322,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 507714,
+      "num": 507714,
+      "word": "泡泡玛特回应labubu预售",
+      "onboard_time": 1750293082,
+      "rank": 4,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 503866,
@@ -2459,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422956,
+      "num": 422956,
+      "word": "林依轮回应别再整了",
+      "onboard_time": 1750292902,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422879,
       "num": 422879,
       "word": "湖南临澧通报山洲花炮厂爆炸",
@@ -2617,6 +2657,14 @@
       "onboard_time": 1750203020,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 405012,
+      "num": 405012,
+      "word": "伊朗媒体发布手摸核弹视频",
+      "onboard_time": 1750291942,
+      "rank": 8,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 404768,
@@ -3787,6 +3835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 279331,
+      "num": 279331,
+      "word": "多方回应酒店洗漱包现已用HIV检测盒",
+      "onboard_time": 1750296081,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279200,
       "num": 279200,
       "word": "伊朗打击以色列中部6死200多伤",
@@ -3817,6 +3873,14 @@
       "onboard_time": 1749984202,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276400,
+      "num": 276400,
+      "word": "QS世界大学排名",
+      "onboard_time": 1750291101,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 275437,
@@ -4243,6 +4307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252052,
+      "num": 150409,
+      "word": "被孙千说了四次长得像她",
+      "onboard_time": 1750298000,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251883,
       "num": 427294,
       "word": "张继科杯全民乒乓球争霸赛来了",
@@ -4377,6 +4449,14 @@
       "onboard_time": 1750001001,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242967,
+      "num": 242967,
+      "word": "伊以冲突",
+      "onboard_time": 1750293622,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242836,
@@ -4889,6 +4969,14 @@
       "onboard_time": 1750211419,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 216525,
+      "num": 216525,
+      "word": "不许不知道Ctrl加E",
+      "onboard_time": 1750288578,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 215879,
@@ -5475,6 +5563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197682,
+      "num": 197682,
+      "word": "丁程鑫G社生图",
+      "onboard_time": 1750297159,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197632,
       "num": 250522,
       "word": "惠英红曾志伟 血观音大战无间道",
@@ -5883,6 +5979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188428,
+      "num": 188428,
+      "word": "诡秘之主全球同步定档",
+      "onboard_time": 1750297880,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 188011,
       "num": 210313,
       "word": "沈马文轩一家四口",
@@ -6251,6 +6355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179368,
+      "num": 179368,
+      "word": "王者白起联动皮肤免费送",
+      "onboard_time": 1750293922,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179055,
       "num": 179055,
       "word": "重庆万架无人机表演挑战吉尼斯世界纪录",
@@ -6521,6 +6633,14 @@
       "onboard_time": 1750001121,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 174387,
+      "num": 174387,
+      "word": "伊朗敦促公众卸载软件WhatsApp",
+      "onboard_time": 1750297580,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174149,
@@ -6819,6 +6939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169716,
+      "num": 131230,
+      "word": "第一次意识到老家特产有多牛",
+      "onboard_time": 1750298301,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169650,
       "num": 241398,
       "word": "曾舜晞老公的容貌妻子的荣耀",
@@ -6945,6 +7073,14 @@
       "onboard_time": 1750130782,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167511,
+      "num": 221746,
+      "word": "朱丹 潜意识",
+      "onboard_time": 1750293082,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 167344,
@@ -7113,6 +7249,14 @@
       "onboard_time": 1750173622,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165393,
+      "num": 216648,
+      "word": "李现演技 惊艳",
+      "onboard_time": 1750295900,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 165245,
@@ -7451,6 +7595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 158108,
+      "num": 158108,
+      "word": "特朗普说美国不要停火要彻底胜利",
+      "onboard_time": 1750297700,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157940,
       "num": 157940,
       "word": "曾舜晞终于成功给白鹿夹上菜了",
@@ -7747,6 +7899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152943,
+      "num": 152943,
+      "word": "妻子打赏男主播700万丈夫起诉返还",
+      "onboard_time": 1750291462,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152146,
       "num": 173800,
       "word": "贾乃亮乔欣时隔3年再合体",
@@ -7897,6 +8057,14 @@
       "onboard_time": 1750165400,
       "rank": 46,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 150409,
+      "num": 150408,
+      "word": "奥迪暂停全面电动化",
+      "onboard_time": 1750298301,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 150394,
@@ -8211,6 +8379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144784,
+      "num": 144784,
+      "word": "以色列摩萨德人员在伊朗接连落网",
+      "onboard_time": 1750295661,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 144687,
       "num": 144687,
       "word": "世界之外",
@@ -8361,14 +8537,6 @@
       "onboard_time": 1749969860,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 141533,
-      "num": 115276,
-      "word": "不许不知道Ctrl加E",
-      "onboard_time": 1750288578,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 141478,
@@ -8899,6 +9067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133515,
+      "num": 133515,
+      "word": "labubu黄牛",
+      "onboard_time": 1750297040,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133400,
       "num": 195021,
       "word": "郭晓婷回应刘诗诗",
@@ -9099,6 +9275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131569,
+      "num": 131569,
+      "word": "光遇",
+      "onboard_time": 1750298301,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131535,
       "num": 131535,
       "word": "裸辞和在职找工作的区别",
@@ -9137,6 +9321,14 @@
       "onboard_time": 1750066280,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131203,
+      "num": 131203,
+      "word": "76万人抢苏超常州vs南京门票",
+      "onboard_time": 1750294043,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 131198,
@@ -9691,6 +9883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124405,
+      "num": 124405,
+      "word": "男子不熟悉水性抱水桶下河救人",
+      "onboard_time": 1750296500,
+      "rank": 42,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 124294,
       "num": 124294,
       "word": "游客拍照坐坏价值约5万美元梵高椅",
@@ -9883,6 +10083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122744,
+      "num": 122744,
+      "word": "小米发布618战报",
+      "onboard_time": 1750296741,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122727,
       "num": 154504,
       "word": "央视曝光假冒深海鱼油",
@@ -9899,12 +10107,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122659,
+      "num": 122659,
+      "word": "男子200万建洋房被爸妈塞满农作物",
+      "onboard_time": 1750292902,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122514,
+      "num": 122514,
+      "word": "巴斯家族100亿转让湖人多数股权",
+      "onboard_time": 1750290081,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122406,
       "num": 186759,
       "word": "印度考虑停飞所有波音787客机",
       "onboard_time": 1749984560,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122403,
+      "num": 122403,
+      "word": "苏新皓等兑换码",
+      "onboard_time": 1750297941,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 122220,
@@ -10225,6 +10457,14 @@
       "onboard_time": 1750079001,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118160,
+      "num": 118160,
+      "word": "蔡徐坤纽约音乐节",
+      "onboard_time": 1750296560,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 118073,
@@ -12699,6 +12939,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 66013,
+      "num": 383205,
+      "word": "普京说愿与泽连斯基会面",
+      "onboard_time": 1750297460,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65720,
       "num": 190964,
       "word": "男子酒驾被查称吃荔枝吃的",
@@ -12793,6 +13041,14 @@
       "onboard_time": 1750196294,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63894,
+      "num": 695927,
+      "word": "网警查处冒充扁担女孩牟利者",
+      "onboard_time": 1750295722,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63826,
@@ -14091,6 +14347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35691,
+      "num": 131230,
+      "word": "中国驻以色列使馆发布领事提醒",
+      "onboard_time": 1750298540,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35649,
       "num": 35649,
       "word": "和蔡徐坤一起听浪漫北京",
@@ -14755,6 +15019,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 24238,
+      "num": 131325,
+      "word": "那尔那茜争议事件三大疑问待解",
+      "onboard_time": 1750298480,
+      "rank": 36,
+      "category": "舆论监督,艺人"
+    },
+    {
       "raw_hot": 24110,
       "num": 166380,
       "word": "PlayStation剑星宣传文案争议",
@@ -15169,6 +15441,14 @@
       "onboard_time": 1749924737,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18589,
+      "num": 122700,
+      "word": "花1万5改装摩托车炸街构成寻衅滋事",
+      "onboard_time": 1750298540,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18546,
