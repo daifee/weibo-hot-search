@@ -1,0 +1,410 @@
+{
+  "runTime": 1750308587370,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1442698,
+        "num": 1442698,
+        "word": "哪吒2 分账",
+        "onboard_time": 1750302260,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 783442,
+        "num": 783442,
+        "word": "Labubu大补货后黄牛发声",
+        "onboard_time": 1750300221,
+        "rank": 1,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 34244,
+        "num": 697406,
+        "word": "中国空间站将从T到十再到干",
+        "onboard_time": 1750258226,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 692434,
+        "num": 692434,
+        "word": "韩国93岁冻龄女校长谈保养经验",
+        "onboard_time": 1750304121,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 659628,
+        "num": 659628,
+        "word": "20岁嫌难喝30岁买大瓶",
+        "onboard_time": 1750305263,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 599672,
+        "num": 599672,
+        "word": "小沈阳女儿NINA出道",
+        "onboard_time": 1750304121,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386733,
+        "num": 386733,
+        "word": "广东怀集县洪水",
+        "onboard_time": 1750301721,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377696,
+        "num": 377696,
+        "word": "伊朗水漂弹",
+        "onboard_time": 1750300340,
+        "rank": 7,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 352385,
+        "num": 352385,
+        "word": "Labubu大补货",
+        "onboard_time": 1750305621,
+        "rank": 8,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 313943,
+        "num": 313943,
+        "word": "被孙千说了四次长得像她",
+        "onboard_time": 1750298000,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1391759,
+        "num": 313009,
+        "word": "唯一没有黑粉的明星",
+        "onboard_time": 1750305742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76191,
+        "num": 309099,
+        "word": "张凌赫牛仔造型每一帧都在撩我",
+        "onboard_time": 1750304601,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590777,
+        "num": 305504,
+        "word": "月薪3万存2万五的真实生活",
+        "onboard_time": 1750305140,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 427226,
+        "num": 302886,
+        "word": "决胜巅峰 蔡徐坤",
+        "onboard_time": 1750302860,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34381,
+        "num": 302195,
+        "word": "湖南石门县遇强降雨河水漫堤",
+        "onboard_time": 1750307543,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 53972,
+        "num": 298998,
+        "word": "切老人全胃医生可挂号医院称不再回复",
+        "onboard_time": 1750305621,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242633,
+        "num": 294584,
+        "word": "第一次见选秀0轮游",
+        "onboard_time": 1750303100,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231642,
+        "num": 291941,
+        "word": "中餐厅直播",
+        "onboard_time": 1750307962,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415020,
+        "num": 288709,
+        "word": "伊朗使用泥石导弹打击以色列",
+        "onboard_time": 1750288578,
+        "rank": 18,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 19889,
+        "num": 285961,
+        "word": "隋文静北体大毕业",
+        "onboard_time": 1750308143,
+        "rank": 19,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 285688,
+        "num": 285688,
+        "word": "伊朗",
+        "onboard_time": 1750300281,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274869,
+        "num": 274869,
+        "word": "父母去世20岁大哥一人供出4个大学生",
+        "onboard_time": 1750307543,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247145,
+        "num": 247145,
+        "word": "多地查摆年轻干部玩心重混日子等问题",
+        "onboard_time": 1750307782,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211043,
+        "num": 211043,
+        "word": "孙红雷李乃文绝不体面老去",
+        "onboard_time": 1750304179,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205750,
+        "num": 205750,
+        "word": "切除老人全胃被停业医生目前可挂号",
+        "onboard_time": 1750302141,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205676,
+        "num": 205676,
+        "word": "宋慧乔顶级美貌",
+        "onboard_time": 1750306281,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205242,
+        "num": 205242,
+        "word": "周扬青经济上行的妆容照",
+        "onboard_time": 1750307361,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204373,
+        "num": 204373,
+        "word": "女子22年化妆不卸妆脸红成关公",
+        "onboard_time": 1750264640,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103200,
+        "num": 204020,
+        "word": "赵丽颖把西林角色刻画的入木三分",
+        "onboard_time": 1750307603,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17529,
+        "num": 203497,
+        "word": "上了大学还是没逃开早读和晚自习",
+        "onboard_time": 1750308082,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551277,
+        "num": 201918,
+        "word": "英国首相认错韩国总统",
+        "onboard_time": 1750307424,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98823,
+        "num": 201198,
+        "word": "泡泡玛特跌5.64%",
+        "onboard_time": 1750307842,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200941,
+        "num": 200941,
+        "word": "建议大家上班干活可以慢一点",
+        "onboard_time": 1750307424,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196297,
+        "num": 196297,
+        "word": "伊朗首都局势紧张数百万民众开始疏散",
+        "onboard_time": 1750299680,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192116,
+        "num": 192116,
+        "word": "伊朗称不逃离以色列就选择死亡",
+        "onboard_time": 1750294102,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189953,
+        "num": 189953,
+        "word": "伊以冲突",
+        "onboard_time": 1750293622,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181151,
+        "num": 181151,
+        "word": "那尔那茜事件消解政策公信力",
+        "onboard_time": 1750307723,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174448,
+        "num": 174448,
+        "word": "祝绪丹叫李现哥哥",
+        "onboard_time": 1750307782,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135394,
+        "num": 170631,
+        "word": "青岛民宿严重不符拒退款",
+        "onboard_time": 1750305742,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170174,
+        "num": 170174,
+        "word": "开始推理吧",
+        "onboard_time": 1750308322,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164484,
+        "num": 164484,
+        "word": "朱丹又又又为自己说错话而道歉了",
+        "onboard_time": 1750285336,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164319,
+        "num": 164319,
+        "word": "大爷捡到隐藏款labubu挂吸粪车",
+        "onboard_time": 1750263140,
+        "rank": 41,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 157028,
+        "num": 157028,
+        "word": "普京称孙女正学习中文",
+        "onboard_time": 1750308203,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150486,
+        "num": 150486,
+        "word": "易烊千玺第一次给动画电影配音",
+        "onboard_time": 1750306521,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149860,
+        "num": 149860,
+        "word": "丁禹兮直播",
+        "onboard_time": 1750308443,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145771,
+        "num": 145771,
+        "word": "抗癌四年女孩去了有风的地方",
+        "onboard_time": 1750305621,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135337,
+        "num": 135337,
+        "word": "徐冬冬突发英语恶疾",
+        "onboard_time": 1750308562,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134736,
+        "num": 134736,
+        "word": "邓为经纪人朋友圈仍在宣传邓为",
+        "onboard_time": 1750304841,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134321,
+        "num": 134321,
+        "word": "男子不熟悉水性抱水桶下河救人",
+        "onboard_time": 1750296500,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 131424,
+        "num": 131424,
+        "word": "肇庆怀集遭遇百年一遇历史最大洪水",
+        "onboard_time": 1750303460,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#合作之路越走越宽广#"
+    }
+  }
+}

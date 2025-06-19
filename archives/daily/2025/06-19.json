@@ -1,6 +1,6 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750307688190,
+  "endTime": 1750308587370,
   "band_list": [
     {
       "raw_hot": 1664130,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1491531,
-      "num": 302568,
+      "num": 313009,
       "word": "唯一没有黑粉的明星",
       "onboard_time": 1750305742,
       "rank": 10,
@@ -107,12 +107,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 665452,
-      "num": 665452,
+      "raw_hot": 692434,
+      "num": 692434,
       "word": "韩国93岁冻龄女校长谈保养经验",
       "onboard_time": 1750304121,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 659628,
+      "num": 659628,
+      "word": "20岁嫌难喝30岁买大瓶",
+      "onboard_time": 1750305263,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 658477,
@@ -132,19 +140,11 @@
     },
     {
       "raw_hot": 595191,
-      "num": 297839,
+      "num": 305504,
       "word": "月薪3万存2万五的真实生活",
       "onboard_time": 1750305140,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 587312,
-      "num": 587312,
-      "word": "20岁嫌难喝30岁买大瓶",
-      "onboard_time": 1750305263,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 582042,
@@ -161,6 +161,14 @@
       "onboard_time": 1750298480,
       "rank": 36,
       "category": "舆论监督,艺人"
+    },
+    {
+      "raw_hot": 551277,
+      "num": 201918,
+      "word": "英国首相认错韩国总统",
+      "onboard_time": 1750307424,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 543265,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 467129,
-      "num": 294366,
+      "num": 302886,
       "word": "决胜巅峰 蔡徐坤",
       "onboard_time": 1750302860,
       "rank": 24,
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352385,
+      "num": 352385,
+      "word": "Labubu大补货",
+      "onboard_time": 1750305621,
+      "rank": 18,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 343858,
       "num": 343858,
       "word": "切除老人全胃被停业医生目前可挂号",
@@ -379,14 +395,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 290496,
-      "num": 290496,
-      "word": "Labubu大补货",
-      "onboard_time": 1750305621,
-      "rank": 18,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 288962,
       "num": 288962,
       "word": "宋慧乔长发回归",
@@ -443,8 +451,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274869,
+      "num": 274869,
+      "word": "父母去世20岁大哥一人供出4个大学生",
+      "onboard_time": 1750307543,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273588,
-      "num": 273588,
+      "num": 294584,
       "word": "第一次见选秀0轮游",
       "onboard_time": 1750303100,
       "rank": 26,
@@ -472,6 +488,14 @@
       "word": "女孩醉驾致3死借车车主一同被诉",
       "onboard_time": 1750258944,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247145,
+      "num": 247145,
+      "word": "多地查摆年轻干部玩心重混日子等问题",
+      "onboard_time": 1750307782,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -539,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231642,
+      "num": 291941,
+      "word": "中餐厅直播",
+      "onboard_time": 1750307962,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231245,
       "num": 261857,
       "word": "李现演技 惊艳",
@@ -563,6 +595,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205676,
+      "num": 205676,
+      "word": "宋慧乔顶级美貌",
+      "onboard_time": 1750306281,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205242,
+      "num": 205242,
+      "word": "周扬青经济上行的妆容照",
+      "onboard_time": 1750307361,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203984,
       "num": 203984,
       "word": "肖战采访完整版",
@@ -579,12 +627,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 200944,
-      "num": 198221,
-      "word": "宋慧乔顶级美貌",
-      "onboard_time": 1750306281,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 200941,
+      "num": 200941,
+      "word": "建议大家上班干活可以慢一点",
+      "onboard_time": 1750307424,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 199352,
@@ -603,14 +651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198012,
-      "num": 198012,
-      "word": "周扬青经济上行的妆容照",
-      "onboard_time": 1750307361,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196045,
       "num": 196045,
       "word": "后羿新皮肤石田雨龙",
@@ -625,14 +665,6 @@
       "onboard_time": 1750288578,
       "rank": 19,
       "category": "国际时政,民生新闻"
-    },
-    {
-      "raw_hot": 189475,
-      "num": 189475,
-      "word": "英国首相认错韩国总统",
-      "onboard_time": 1750307424,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 188428,
@@ -667,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181151,
+      "num": 181151,
+      "word": "那尔那茜事件消解政策公信力",
+      "onboard_time": 1750307723,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179368,
       "num": 179368,
       "word": "王者白起联动皮肤免费送",
@@ -681,6 +721,14 @@
       "onboard_time": 1750305621,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174448,
+      "num": 174448,
+      "word": "祝绪丹叫李现哥哥",
+      "onboard_time": 1750307782,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 174387,
@@ -699,20 +747,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 173424,
-      "num": 173424,
-      "word": "父母去世20岁大哥一人供出4个大学生",
-      "onboard_time": 1750307543,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170244,
       "num": 170244,
       "word": "特朗普说美国不要停火要彻底胜利",
       "onboard_time": 1750297700,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170174,
+      "num": 170174,
+      "word": "开始推理吧",
+      "onboard_time": 1750308322,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 170020,
@@ -779,20 +827,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 160854,
-      "num": 160854,
-      "word": "建议大家上班干活可以慢一点",
-      "onboard_time": 1750307424,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157058,
       "num": 157058,
       "word": "幼童笼中赤裸涉事家庭3人天生残疾",
       "onboard_time": 1750288639,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157028,
+      "num": 157028,
+      "word": "普京称孙女正学习中文",
+      "onboard_time": 1750308203,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153401,
@@ -825,6 +873,14 @@
       "onboard_time": 1750289660,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149860,
+      "num": 149860,
+      "word": "丁禹兮直播",
+      "onboard_time": 1750308443,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148280,
@@ -947,6 +1003,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 135394,
+      "num": 174989,
+      "word": "青岛民宿严重不符拒退款",
+      "onboard_time": 1750305742,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135337,
+      "num": 135337,
+      "word": "徐冬冬突发英语恶疾",
+      "onboard_time": 1750308562,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131203,
       "num": 131203,
       "word": "76万人抢苏超常州vs南京门票",
@@ -969,14 +1041,6 @@
       "onboard_time": 1750296741,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 127401,
-      "num": 174989,
-      "word": "青岛民宿严重不符拒退款",
-      "onboard_time": 1750305742,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127033,
@@ -1147,6 +1211,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103200,
+      "num": 204020,
+      "word": "赵丽颖把西林角色刻画的入木三分",
+      "onboard_time": 1750307603,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 98823,
+      "num": 201198,
+      "word": "泡泡玛特跌5.64%",
+      "onboard_time": 1750307842,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97668,
       "num": 167812,
       "word": "刘亦菲出道23年只拍过9部剧",
@@ -1212,7 +1292,7 @@
     },
     {
       "raw_hot": 88498,
-      "num": 300999,
+      "num": 309099,
       "word": "张凌赫牛仔造型每一帧都在撩我",
       "onboard_time": 1750304601,
       "rank": 11,
@@ -1233,14 +1313,6 @@
       "onboard_time": 1750303821,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85012,
-      "num": 198365,
-      "word": "赵丽颖把西林角色刻画的入木三分",
-      "onboard_time": 1750307603,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 83385,
@@ -1387,6 +1459,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 53972,
+      "num": 298998,
+      "word": "切老人全胃医生可挂号医院称不再回复",
+      "onboard_time": 1750305621,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52364,
       "num": 865224,
       "word": "中国空间站将从T到十再到干",
@@ -1459,6 +1539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34381,
+      "num": 302195,
+      "word": "湖南石门县遇强降雨河水漫堤",
+      "onboard_time": 1750307543,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 34184,
       "num": 285403,
       "word": "官方回应网传广东一水库泄洪",
@@ -1473,14 +1561,6 @@
       "onboard_time": 1750253722,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28743,
-      "num": 198411,
-      "word": "湖南石门县遇强降雨河水漫堤",
-      "onboard_time": 1750307543,
-      "rank": 28,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 27773,
@@ -1515,12 +1595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19889,
+      "num": 285961,
+      "word": "隋文静北体大毕业",
+      "onboard_time": 1750308143,
+      "rank": 19,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 19038,
       "num": 160093,
       "word": "伊朗代表说特朗普撒谎",
       "onboard_time": 1750289780,
       "rank": 16,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 17529,
+      "num": 203497,
+      "word": "上了大学还是没逃开早读和晚自习",
+      "onboard_time": 1750308082,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16963,
