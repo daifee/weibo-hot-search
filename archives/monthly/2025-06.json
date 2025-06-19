@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750317975922,
+  "endTime": 1750318826236,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -2587,6 +2587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1120382,
+      "num": 1120382,
+      "word": "以伊大规模冲突",
+      "onboard_time": 1750315401,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1117438,
       "num": 1178790,
       "word": "女孩漂流遭男子高压水枪攻击致失明",
@@ -3585,14 +3593,6 @@
       "onboard_time": 1749989360,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 931484,
-      "num": 931484,
-      "word": "以伊大规模冲突",
-      "onboard_time": 1750315401,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 931337,
@@ -17419,6 +17419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269092,
+      "num": 269092,
+      "word": "以军袭击伊朗核反应堆和核武器基地",
+      "onboard_time": 1750314081,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 269050,
       "num": 269050,
       "word": "无畏撕拉片",
@@ -18393,6 +18401,14 @@
       "onboard_time": 1749367880,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255714,
+      "num": 281608,
+      "word": "乘客拍下飞机上有人多次吸电子烟",
+      "onboard_time": 1750316481,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255563,
@@ -20065,14 +20081,6 @@
       "onboard_time": 1749532282,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 233237,
-      "num": 233237,
-      "word": "以军袭击伊朗核反应堆和核武器基地",
-      "onboard_time": 1750314081,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 233226,
@@ -24979,6 +24987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199263,
+      "num": 199263,
+      "word": "小米总裁回应去美的学习",
+      "onboard_time": 1750317079,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199164,
       "num": 199164,
       "word": "披哥在白举纲评论区团建",
@@ -25257,6 +25273,14 @@
       "onboard_time": 1749620301,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197997,
+      "num": 197997,
+      "word": "孟羽童回应一手好牌打得稀烂",
+      "onboard_time": 1750317680,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197928,
@@ -26433,6 +26457,14 @@
       "onboard_time": 1749618623,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 191993,
+      "num": 191993,
+      "word": "海螺AI",
+      "onboard_time": 1750317381,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 191985,
@@ -28131,6 +28163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184582,
+      "num": 184582,
+      "word": "周鹤年 赌博",
+      "onboard_time": 1750315701,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184543,
       "num": 184543,
       "word": "单身不是最爽的",
@@ -28433,14 +28473,6 @@
       "onboard_time": 1748846541,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 183279,
-      "num": 183279,
-      "word": "小米总裁回应去美的学习",
-      "onboard_time": 1750317079,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 183273,
@@ -32059,14 +32091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167304,
-      "num": 167304,
-      "word": "周鹤年 赌博",
-      "onboard_time": 1750315701,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167278,
       "num": 167278,
       "word": "1胎99子短剧已被下架",
@@ -32811,6 +32835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 164566,
+      "num": 157864,
+      "word": "北大浙大隐藏升学通道",
+      "onboard_time": 1750318460,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164554,
       "num": 164554,
       "word": "迪士尼打架2人互有皮外伤",
@@ -33192,14 +33224,6 @@
       "word": "山姆会员说坚果里有活体虫子",
       "onboard_time": 1749554780,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162797,
-      "num": 162797,
-      "word": "孟羽童回应一手好牌打得稀烂",
-      "onboard_time": 1750317680,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -34123,14 +34147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159098,
-      "num": 281608,
-      "word": "乘客拍下飞机上有人多次吸电子烟",
-      "onboard_time": 1750316481,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159014,
       "num": 159014,
       "word": "张靓颖 深圳",
@@ -34417,6 +34433,14 @@
       "onboard_time": 1749458541,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157836,
+      "num": 157836,
+      "word": "整根吸2.0",
+      "onboard_time": 1750318161,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 157819,
@@ -35163,6 +35187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154984,
+      "num": 182401,
+      "word": "星舰大爆炸",
+      "onboard_time": 1750314743,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154916,
       "num": 154916,
       "word": "金饰克价涨至1033元",
@@ -35801,6 +35833,14 @@
       "onboard_time": 1749471322,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152175,
+      "num": 219711,
+      "word": "张婧仪周翊然你们不要再打了",
+      "onboard_time": 1750317861,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 152146,
@@ -39315,6 +39355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140317,
+      "num": 140317,
+      "word": "去年共破获3.7万起毒品犯罪案",
+      "onboard_time": 1750318580,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140313,
       "num": 140313,
       "word": "敖瑞鹏一万三偏偏你最心软",
@@ -40035,14 +40083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138050,
-      "num": 138050,
-      "word": "海螺AI",
-      "onboard_time": 1750317381,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 137999,
       "num": 160312,
       "word": "浪姐成团名单什么时候出",
@@ -40481,14 +40521,6 @@
       "onboard_time": 1749465621,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136215,
-      "num": 136215,
-      "word": "张婧仪周翊然你们不要再打了",
-      "onboard_time": 1750317861,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 136199,
@@ -46537,14 +46569,6 @@
       "onboard_time": 1749653783,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116720,
-      "num": 182401,
-      "word": "星舰大爆炸",
-      "onboard_time": 1750314743,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 116681,
@@ -53185,6 +53209,14 @@
       "onboard_time": 1748774601,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86191,
+      "num": 323115,
+      "word": "伊朗导弹射程内有10座美军基地",
+      "onboard_time": 1750317742,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86133,
@@ -62299,14 +62331,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 37160,
-      "num": 174427,
-      "word": "伊朗导弹射程内有10座美军基地",
-      "onboard_time": 1750317742,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37141,
       "num": 293382,
       "word": "曝美对伊袭击或在本周末进行",
@@ -62625,6 +62649,14 @@
       "onboard_time": 1749568282,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36157,
+      "num": 147876,
+      "word": "孙杨谈全运会目标",
+      "onboard_time": 1750318701,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 36125,
@@ -63963,6 +63995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31085,
+      "num": 148968,
+      "word": "购药前一定要问问医生意见",
+      "onboard_time": 1750318641,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 31041,
       "num": 336246,
       "word": "了解4类针对考生骗局",
@@ -64777,6 +64817,14 @@
       "onboard_time": 1749010522,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 28167,
+      "num": 157867,
+      "word": "张婧仪周翊然叠叠乐也好磕",
+      "onboard_time": 1750318460,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 28138,
@@ -66281,6 +66329,14 @@
       "onboard_time": 1749488657,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22670,
+      "num": 111624,
+      "word": "生存是诅咒仍要幸福地活",
+      "onboard_time": 1750318282,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 22636,
@@ -67987,6 +68043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15853,
+      "num": 147868,
+      "word": "在洛阳过神都日子",
+      "onboard_time": 1750316600,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 15838,
       "num": 46571,
       "word": "绿发会官微搜索不到蒋雨融相关内容",
@@ -68041,14 +68105,6 @@
       "onboard_time": 1749761533,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15646,
-      "num": 141381,
-      "word": "在洛阳过神都日子",
-      "onboard_time": 1750316600,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 15591,
