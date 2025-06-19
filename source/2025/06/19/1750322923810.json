@@ -1,0 +1,410 @@
+{
+  "runTime": 1750322923810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1085906,
+        "num": 1173745,
+        "word": "以伊大规模冲突",
+        "onboard_time": 1750315401,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 850944,
+        "num": 850944,
+        "word": "周杰伦 强直性脊柱炎",
+        "onboard_time": 1750309102,
+        "rank": 1,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 21378,
+        "num": 515098,
+        "word": "9组数据看中欧班列亮眼成绩单",
+        "onboard_time": 1750322423,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477402,
+        "num": 477402,
+        "word": "宋威龙鼻子 女娲捏了两次",
+        "onboard_time": 1750320323,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463849,
+        "num": 463849,
+        "word": "伊朗开始逐步亮出杀手锏",
+        "onboard_time": 1750312701,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 398038,
+        "num": 398038,
+        "word": "Labubu大补货后黄牛发声",
+        "onboard_time": 1750300221,
+        "rank": 5,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 345078,
+        "num": 345078,
+        "word": "张继科说labubu没价值的原因找到了",
+        "onboard_time": 1750309882,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344647,
+        "num": 344647,
+        "word": "邵雨轩谈疯产姐妹解散原因",
+        "onboard_time": 1750310781,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316521,
+        "num": 316521,
+        "word": "孟羽童回应一手好牌打得稀烂",
+        "onboard_time": 1750317680,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283317,
+        "num": 283317,
+        "word": "王安宇光头照",
+        "onboard_time": 1750320981,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1533588,
+        "num": 282208,
+        "word": "曾黎 四个寥寥无几的粉丝",
+        "onboard_time": 1750319660,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456970,
+        "num": 281587,
+        "word": "被通知裁员的黄金一小时",
+        "onboard_time": 1750321101,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 431281,
+        "num": 280576,
+        "word": "唯一没有黑粉的明星",
+        "onboard_time": 1750305742,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278135,
+        "num": 278135,
+        "word": "豆瓣崩了",
+        "onboard_time": 1750321282,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 255303,
+        "num": 255303,
+        "word": "一念江南官宣预告",
+        "onboard_time": 1750314562,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248875,
+        "num": 248875,
+        "word": "公职人员参加3人以上的聚餐违不违规",
+        "onboard_time": 1750322423,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130336,
+        "num": 247350,
+        "word": "天猫618今天不仅没结束还更省了",
+        "onboard_time": 1750320202,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 246289,
+        "num": 246289,
+        "word": "乘客拍下飞机上有人多次吸电子烟",
+        "onboard_time": 1750316481,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122058,
+        "num": 238473,
+        "word": "曾舜晞说困难时想过放弃",
+        "onboard_time": 1750322001,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236143,
+        "num": 236143,
+        "word": "冯文娟怀孕",
+        "onboard_time": 1750319902,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228225,
+        "num": 228225,
+        "word": "纪凌尘还留着8年前的画",
+        "onboard_time": 1750319060,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166896,
+        "num": 227611,
+        "word": "伊朗用美军基地地图回应美空袭威胁",
+        "onboard_time": 1750320622,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227227,
+        "num": 227227,
+        "word": "利剑玫瑰",
+        "onboard_time": 1750321342,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226854,
+        "num": 226854,
+        "word": "父母去世20岁大哥一人供出4个大学生",
+        "onboard_time": 1750307543,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26866,
+        "num": 222267,
+        "word": "古法开龙脊缓解膝盖不适",
+        "onboard_time": 1750322482,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221885,
+        "num": 221885,
+        "word": "杨紫孟子义李一桐新剧对打",
+        "onboard_time": 1750321761,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210252,
+        "num": 210252,
+        "word": "女大学生失联近5天家属最新发声",
+        "onboard_time": 1750320081,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35226,
+        "num": 207034,
+        "word": "伊朗的泥石导弹为何难以拦截",
+        "onboard_time": 1750321881,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206263,
+        "num": 206263,
+        "word": "朋友圈折叠最大的受害者出现了",
+        "onboard_time": 1750321641,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196012,
+        "num": 196012,
+        "word": "父母去世留下6个孩子兄弟争遗产闹翻",
+        "onboard_time": 1750308860,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194405,
+        "num": 194405,
+        "word": "路人镜头下的锤娜丽莎",
+        "onboard_time": 1750321881,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186911,
+        "num": 186911,
+        "word": "男子因眼睛小被频繁误判疲劳驾驶",
+        "onboard_time": 1750310002,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183691,
+        "num": 183691,
+        "word": "李一桐 请喝水的漂亮姐姐",
+        "onboard_time": 1750321641,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179548,
+        "num": 179548,
+        "word": "医院过度医疗患者手术率超90%",
+        "onboard_time": 1750322660,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174342,
+        "num": 174342,
+        "word": "中方回应美国或准备袭击伊朗",
+        "onboard_time": 1750322660,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172661,
+        "num": 172661,
+        "word": "LV品牌大秀 鹿晗",
+        "onboard_time": 1750316061,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169610,
+        "num": 169610,
+        "word": "海螺AI",
+        "onboard_time": 1750317381,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167734,
+        "num": 167734,
+        "word": "RNG及老板姚金成等被执行1.6亿",
+        "onboard_time": 1750320561,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166442,
+        "num": 166442,
+        "word": "下半年巨蟹座翻身做主",
+        "onboard_time": 1750320260,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32389,
+        "num": 161519,
+        "word": "鸣潮弗洛洛",
+        "onboard_time": 1750322423,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26191,
+        "num": 160654,
+        "word": "张婧仪周翊然叠叠乐也好磕",
+        "onboard_time": 1750318460,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159802,
+        "num": 159802,
+        "word": "小米总裁回应去美的学习",
+        "onboard_time": 1750317079,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151219,
+        "num": 151219,
+        "word": "黄子韬这一刻不反驳已经赢了",
+        "onboard_time": 1750310841,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139019,
+        "num": 139019,
+        "word": "苏超最新排名",
+        "onboard_time": 1750322122,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137858,
+        "num": 137858,
+        "word": "肖战给化妆师发6600红包",
+        "onboard_time": 1750312341,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135356,
+        "num": 135356,
+        "word": "韩国93岁冻龄女校长谈保养经验",
+        "onboard_time": 1750304121,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133154,
+        "num": 133154,
+        "word": "以军袭击伊朗核反应堆和核武器基地",
+        "onboard_time": 1750314081,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129761,
+        "num": 129761,
+        "word": "山东人将labubu爆改huabobo",
+        "onboard_time": 1750321700,
+        "rank": 47,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 123506,
+        "num": 123506,
+        "word": "焕羽",
+        "onboard_time": 1750322840,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121135,
+        "num": 121135,
+        "word": "这么带感的恶女七根心简有6个",
+        "onboard_time": 1750320922,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#合作之路越走越宽广#"
+    }
+  }
+}
