@@ -1,10 +1,10 @@
 {
   "startTime": 1750264437858,
-  "endTime": 1750310778686,
+  "endTime": 1750311829376,
   "band_list": [
     {
-      "raw_hot": 1814602,
-      "num": 1814602,
+      "raw_hot": 2031335,
+      "num": 2031335,
       "word": "周杰伦 强直性脊柱炎",
       "onboard_time": 1750309102,
       "rank": 0,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1491531,
-      "num": 381387,
+      "num": 383144,
       "word": "唯一没有黑粉的明星",
       "onboard_time": 1750305742,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1750288578,
       "rank": 14,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 1100855,
+      "num": 1100855,
+      "word": "张继科说labubu没价值的原因找到了",
+      "onboard_time": 1750309882,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 1099055,
@@ -113,6 +121,14 @@
       "onboard_time": 1750304121,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 709927,
+      "num": 1482259,
+      "word": "父母去世20岁大哥一人供出4个大学生",
+      "onboard_time": 1750307543,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 692434,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 551277,
-      "num": 369487,
+      "num": 383106,
       "word": "英国首相认错韩国总统",
       "onboard_time": 1750307424,
       "rank": 36,
@@ -203,6 +219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 521333,
+      "num": 521333,
+      "word": "男子因眼睛小被频繁误判疲劳驾驶",
+      "onboard_time": 1750310002,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 518480,
       "num": 382782,
       "word": "伊朗称不逃离以色列就选择死亡",
@@ -225,6 +249,14 @@
       "onboard_time": 1750300340,
       "rank": 30,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 485518,
+      "num": 485518,
+      "word": "多地查摆年轻干部玩心重混日子等问题",
+      "onboard_time": 1750307782,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481262,
@@ -267,28 +299,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 415011,
-      "num": 415011,
-      "word": "多地查摆年轻干部玩心重混日子等问题",
-      "onboard_time": 1750307782,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 409132,
       "num": 308059,
       "word": "周鹤年 小三",
       "onboard_time": 1750257084,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409061,
-      "num": 348073,
-      "word": "张继科说labubu没价值的原因找到了",
-      "onboard_time": 1750309882,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 405012,
@@ -321,14 +337,6 @@
       "onboard_time": 1750300281,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 392797,
-      "num": 392797,
-      "word": "父母去世20岁大哥一人供出4个大学生",
-      "onboard_time": 1750307543,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 369608,
@@ -377,6 +385,14 @@
       "onboard_time": 1750253062,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322773,
+      "num": 322773,
+      "word": "邵雨轩谈疯产姐妹解散原因",
+      "onboard_time": 1750310781,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 322153,
@@ -499,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271501,
+      "num": 236515,
+      "word": "父母去世留下6个孩子兄弟争遗产闹翻",
+      "onboard_time": 1750308860,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266866,
       "num": 266866,
       "word": "伊朗地下核设施受损",
@@ -563,12 +587,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237208,
+      "num": 237208,
+      "word": "张婧仪周翊然电梯神图",
+      "onboard_time": 1750310303,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236410,
       "num": 262108,
       "word": "李雪琴 老谢",
       "onboard_time": 1750295541,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234772,
+      "num": 234772,
+      "word": "陶虹 把母女关系按谈恋爱演",
+      "onboard_time": 1750310123,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 234150,
@@ -603,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 224704,
+      "num": 224704,
+      "word": "祝绪丹给李现送咖啡扑了个空",
+      "onboard_time": 1750311082,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218248,
       "num": 278951,
       "word": "邓紫棋小说价格",
@@ -617,14 +665,6 @@
       "onboard_time": 1750288578,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 206928,
-      "num": 206928,
-      "word": "男子因眼睛小被频繁误判疲劳驾驶",
-      "onboard_time": 1750310002,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205676,
@@ -691,12 +731,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194850,
-      "num": 194850,
-      "word": "张婧仪周翊然电梯神图",
-      "onboard_time": 1750310303,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 194530,
+      "num": 194530,
+      "word": "月明千里官宣",
+      "onboard_time": 1750311202,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 191700,
@@ -731,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181775,
-      "num": 181775,
-      "word": "父母去世留下6个孩子兄弟争遗产闹翻",
-      "onboard_time": 1750308860,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181760,
       "num": 181760,
       "word": "焕羽开播",
@@ -753,6 +785,14 @@
       "onboard_time": 1750307723,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180662,
+      "num": 180662,
+      "word": "黄子韬这一刻不反驳已经赢了",
+      "onboard_time": 1750310841,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 179368,
@@ -884,7 +924,7 @@
     },
     {
       "raw_hot": 157028,
-      "num": 157028,
+      "num": 383182,
       "word": "普京称孙女正学习中文",
       "onboard_time": 1750308203,
       "rank": 42,
@@ -907,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151688,
+      "num": 338670,
+      "word": "被救护车转运收费2.8万当事人发声",
+      "onboard_time": 1750309342,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151554,
       "num": 151554,
       "word": "暃新皮肤朽木白哉",
@@ -923,20 +971,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 149482,
-      "num": 152997,
-      "word": "陶虹 把母女关系按谈恋爱演",
-      "onboard_time": 1750310123,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148280,
       "num": 131767,
       "word": "赵丽颖西林台词很有力量",
       "onboard_time": 1750302380,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146993,
+      "num": 146993,
+      "word": "白鹿回应自己鸡蛋过敏",
+      "onboard_time": 1750309643,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 146559,
@@ -1035,6 +1083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 138880,
+      "num": 386288,
+      "word": "人民海军潜艇部队71岁生日快乐",
+      "onboard_time": 1750309761,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 137834,
       "num": 137834,
       "word": "外交部驳斥欧盟主席指责中国言论",
@@ -1083,6 +1139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128764,
+      "num": 128764,
+      "word": "郭品超山东收麦子",
+      "onboard_time": 1750311502,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128395,
       "num": 128395,
       "word": "小米发布618战报",
@@ -1107,12 +1171,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 126877,
-      "num": 386288,
-      "word": "人民海军潜艇部队71岁生日快乐",
-      "onboard_time": 1750309761,
-      "rank": 9,
-      "category": "军事"
+      "raw_hot": 126810,
+      "num": 126810,
+      "word": "歌手 内娱版围城",
+      "onboard_time": 1750310002,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 126042,
@@ -1131,24 +1195,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125285,
-      "num": 125285,
-      "word": "歌手 内娱版围城",
-      "onboard_time": 1750310002,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 123878,
-      "num": 123878,
-      "word": "白鹿回应自己鸡蛋过敏",
-      "onboard_time": 1750309643,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122853,
-      "num": 209564,
+      "num": 218871,
       "word": "李想称完成2500座超充站承诺",
       "onboard_time": 1750308860,
       "rank": 23,
@@ -1203,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 120262,
+      "num": 120262,
+      "word": "小米目标2030年成为中国头部家电",
+      "onboard_time": 1750311561,
+      "rank": 43,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 119413,
       "num": 119413,
       "word": "伊朗绞刑处死内鬼",
@@ -1225,14 +1281,6 @@
       "onboard_time": 1750296560,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 117825,
-      "num": 338670,
-      "word": "被救护车转运收费2.8万当事人发声",
-      "onboard_time": 1750309342,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115476,
@@ -1265,6 +1313,14 @@
       "onboard_time": 1750304601,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111340,
+      "num": 111340,
+      "word": "柯淳把余茵哄好了",
+      "onboard_time": 1750311502,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 109531,
@@ -1331,12 +1387,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104379,
+      "num": 104379,
+      "word": "以军方宣布伊朗导弹预警已解除",
+      "onboard_time": 1750311382,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 103805,
+      "num": 103805,
+      "word": "司机载着一口汤锅开进派出所",
+      "onboard_time": 1750311502,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103200,
       "num": 204020,
       "word": "赵丽颖把西林角色刻画的入木三分",
       "onboard_time": 1750307603,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100623,
+      "num": 100623,
+      "word": "纯爱固然重要做恨实在精彩",
+      "onboard_time": 1750311142,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 98823,
@@ -1604,7 +1684,7 @@
     },
     {
       "raw_hot": 52364,
-      "num": 865224,
+      "num": 1248175,
       "word": "中国空间站将从T到十再到干",
       "onboard_time": 1750258226,
       "rank": 36,
@@ -1657,6 +1737,14 @@
       "onboard_time": 1750302740,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 38918,
+      "num": 127123,
+      "word": "入门级别的八个瑜伽动作",
+      "onboard_time": 1750311082,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 38081,
