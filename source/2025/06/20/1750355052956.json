@@ -1,0 +1,410 @@
+{
+  "runTime": 1750355052956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 426964,
+        "num": 426964,
+        "word": "南京一商场被曝男厕改女厕",
+        "onboard_time": 1750349000,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318856,
+        "num": 318856,
+        "word": "伊朗国家电视台遭袭最新画面",
+        "onboard_time": 1750347740,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 7363,
+        "num": 179216,
+        "word": "青春华章赣劲十足",
+        "onboard_time": 1750340123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506749,
+        "num": 175158,
+        "word": "捞女游戏",
+        "onboard_time": 1750345823,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167844,
+        "num": 167844,
+        "word": "夫妻开饭店双双被确诊恶性乳腺癌",
+        "onboard_time": 1750339342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142176,
+        "num": 142176,
+        "word": "女村支书制止男子烧草木灰被其杀害",
+        "onboard_time": 1750346901,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124271,
+        "num": 124271,
+        "word": "伊朗出动超100架无人机打击以军",
+        "onboard_time": 1750350259,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123172,
+        "num": 123172,
+        "word": "伊朗针对打击中东地区美军做好准备",
+        "onboard_time": 1750346122,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113747,
+        "num": 113747,
+        "word": "迪丽热巴时隔两年再播剧",
+        "onboard_time": 1750346242,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78828,
+        "num": 113370,
+        "word": "疯产姐妹近30日掉粉超19万",
+        "onboard_time": 1750341202,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 280691,
+        "num": 110688,
+        "word": "日本开始撤侨",
+        "onboard_time": 1750331661,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231033,
+        "num": 108696,
+        "word": "捞女游戏制作人B站号被封",
+        "onboard_time": 1750352418,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209505,
+        "num": 107716,
+        "word": "朱丹 周一围",
+        "onboard_time": 1750328541,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162295,
+        "num": 104351,
+        "word": "李雪琴",
+        "onboard_time": 1750344205,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104016,
+        "num": 104016,
+        "word": "王鹤棣用过的碗筷被供起来",
+        "onboard_time": 1750345644,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103423,
+        "num": 103423,
+        "word": "美国女孩喂流浪犬被40只狗围咬致死",
+        "onboard_time": 1750339641,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103025,
+        "num": 103025,
+        "word": "脑死亡孕妇因堕胎禁令4个月后产子",
+        "onboard_time": 1750339641,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97816,
+        "num": 97816,
+        "word": "王励勤说王楚钦球拍事件不会发公告",
+        "onboard_time": 1750348281,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84537,
+        "num": 84537,
+        "word": "王楚钦向前看放轻松",
+        "onboard_time": 1750347622,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68909,
+        "num": 84347,
+        "word": "陈思诚来电狂响而我在恶意现场",
+        "onboard_time": 1750350979,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210793,
+        "num": 83488,
+        "word": "以色列民众要求全世界阻止轰炸",
+        "onboard_time": 1750337721,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194767,
+        "num": 82500,
+        "word": "伊朗铁雨",
+        "onboard_time": 1750332022,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125465,
+        "num": 81976,
+        "word": "金价跌跌不休",
+        "onboard_time": 1750352718,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81762,
+        "num": 81762,
+        "word": "伊朗媒体发布特拉维夫遭袭瞬间",
+        "onboard_time": 1750348102,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75672,
+        "num": 75672,
+        "word": "以色列",
+        "onboard_time": 1750346122,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75155,
+        "num": 75155,
+        "word": "曾黎 四个寥寥无几的粉丝",
+        "onboard_time": 1750319660,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66013,
+        "num": 66013,
+        "word": "恋与深空偷跑",
+        "onboard_time": 1750346122,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49098,
+        "num": 65888,
+        "word": "原来恶女才是张婧仪的统治区",
+        "onboard_time": 1750343364,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46335,
+        "num": 64420,
+        "word": "林大厨找虞书欣帮忙",
+        "onboard_time": 1750332981,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44429,
+        "num": 63454,
+        "word": "曾舜晞我承认之前对你大声了点",
+        "onboard_time": 1750340243,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95346,
+        "num": 61852,
+        "word": "捞女游戏4点11分",
+        "onboard_time": 1750352539,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61167,
+        "num": 61167,
+        "word": "2025对杨幂好点了",
+        "onboard_time": 1750345043,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61093,
+        "num": 61093,
+        "word": "伊朗对以发动大规模袭击",
+        "onboard_time": 1750323922,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60923,
+        "num": 60923,
+        "word": "建议每周洗一次床单",
+        "onboard_time": 1750348821,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57070,
+        "num": 57070,
+        "word": "土耳其总统公开支持伊朗",
+        "onboard_time": 1750342223,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42497,
+        "num": 56991,
+        "word": "方大同梦想家获浪潮年度专辑",
+        "onboard_time": 1750353976,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56944,
+        "num": 56944,
+        "word": "曝58同城裁员近万人",
+        "onboard_time": 1750347502,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52386,
+        "num": 52386,
+        "word": "李昀锐说在剧组跑步偶遇关晓彤",
+        "onboard_time": 1750343722,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47588,
+        "num": 47588,
+        "word": "农村女娃考取博士背后故事让人落泪",
+        "onboard_time": 1750349300,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 46683,
+        "num": 46683,
+        "word": "湖南一小区车库被淹4名业主失联",
+        "onboard_time": 1750347561,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16707,
+        "num": 42930,
+        "word": "科技感拉满中国好丰景",
+        "onboard_time": 1750340363,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41897,
+        "num": 41897,
+        "word": "13岁男孩一天吃四顿身高定格170",
+        "onboard_time": 1750338802,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40889,
+        "num": 40889,
+        "word": "美国末日飞机敏感时刻现异常动向",
+        "onboard_time": 1750344683,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39810,
+        "num": 40886,
+        "word": "长安的荔枝cvb跌破1",
+        "onboard_time": 1750342402,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39480,
+        "num": 40881,
+        "word": "伊朗再否认蓄意袭击医院",
+        "onboard_time": 1750354457,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38543,
+        "num": 40879,
+        "word": "李桑元 leo",
+        "onboard_time": 1750347800,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38490,
+        "num": 40876,
+        "word": "宣璐说今天最后一次澄清",
+        "onboard_time": 1750329620,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37553,
+        "num": 40872,
+        "word": "20岁男子闻啥都有臭味竟是鼻子发霉",
+        "onboard_time": 1750345343,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36046,
+        "num": 40869,
+        "word": "中餐厅",
+        "onboard_time": 1750346362,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35185,
+        "num": 40861,
+        "word": "以伊大规模冲突",
+        "onboard_time": 1750315401,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#50秒回顾第二届中国－中亚峰会亮点#"
+    }
+  }
+}
