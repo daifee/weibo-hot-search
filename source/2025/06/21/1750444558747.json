@@ -1,0 +1,410 @@
+{
+  "runTime": 1750444558747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 315901,
+        "num": 315901,
+        "word": "耳帝说马嘉祺这一场与上一场的歌都不适合他",
+        "onboard_time": 1750439779,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161775,
+        "num": 161775,
+        "word": "俄称伊朗政权更迭不可接受",
+        "onboard_time": 1750438759,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17519,
+        "num": 139637,
+        "word": "中国饭碗里的科技范儿",
+        "onboard_time": 1750431744,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192706,
+        "num": 137765,
+        "word": "网红迪士尼健康堪忧",
+        "onboard_time": 1750436122,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134437,
+        "num": 134437,
+        "word": "国家千亿级大项目撬动消费动能",
+        "onboard_time": 1750440079,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88977,
+        "num": 88977,
+        "word": "留英博士迷奸多人想化学阉割减刑遭拒",
+        "onboard_time": 1750420040,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130752,
+        "num": 88488,
+        "word": "马嘉祺淘汰",
+        "onboard_time": 1750429826,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101259,
+        "num": 87347,
+        "word": "歌手补位",
+        "onboard_time": 1750434202,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85732,
+        "num": 85732,
+        "word": "女子想开蜜雪冰城结果加盟奶爸王子",
+        "onboard_time": 1750428807,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71723,
+        "num": 71723,
+        "word": "以色列全境响防空警报",
+        "onboard_time": 1750425263,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333766,
+        "num": 71691,
+        "word": "黑马情侣分手",
+        "onboard_time": 1750435281,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 307073,
+        "num": 71519,
+        "word": "树莓",
+        "onboard_time": 1750434562,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 173161,
+        "num": 71282,
+        "word": "中国留学生迷奸10人受害者发声",
+        "onboard_time": 1750411941,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89956,
+        "num": 70962,
+        "word": "歌手直播",
+        "onboard_time": 1750419140,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88809,
+        "num": 70889,
+        "word": "歌手排名",
+        "onboard_time": 1750426284,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76436,
+        "num": 70509,
+        "word": "大批美军部队开始加餐",
+        "onboard_time": 1750429587,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70498,
+        "num": 70498,
+        "word": "纯素颜Labubu",
+        "onboard_time": 1750441636,
+        "rank": 16,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 58580,
+        "num": 58580,
+        "word": "伊朗",
+        "onboard_time": 1750430964,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51397,
+        "num": 51397,
+        "word": "男孩结婚2小时后坠亡婚姻被判无效",
+        "onboard_time": 1750412122,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50449,
+        "num": 50449,
+        "word": "那英单依纯周深突然就病一起了",
+        "onboard_time": 1750435524,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478667,
+        "num": 50421,
+        "word": "一家三口被杀婴儿睡觉侥幸存活",
+        "onboard_time": 1750434262,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126039,
+        "num": 50417,
+        "word": "陈楚生 难听",
+        "onboard_time": 1750431384,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50217,
+        "num": 50217,
+        "word": "王力宏宇宙在演唱会上合体",
+        "onboard_time": 1750439598,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45254,
+        "num": 45254,
+        "word": "俄罗斯警告美国别军事介入",
+        "onboard_time": 1750434682,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59285,
+        "num": 44132,
+        "word": "单依纯说我就知道",
+        "onboard_time": 1750440917,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42424,
+        "num": 42424,
+        "word": "以色列要求全境民众进避难所",
+        "onboard_time": 1750426586,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38873,
+        "num": 38873,
+        "word": "千万别买到青岛西",
+        "onboard_time": 1750421361,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38396,
+        "num": 38396,
+        "word": "官方调查那尔那茜",
+        "onboard_time": 1750416681,
+        "rank": 27,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 37783,
+        "num": 37783,
+        "word": "中星9C卫星发射任务获得圆满成功",
+        "onboard_time": 1750427366,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33096,
+        "num": 37182,
+        "word": "流浪犬暴雨中相拥被好心人收养",
+        "onboard_time": 1750439717,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46884,
+        "num": 37160,
+        "word": "快速掉秤的10个小技巧",
+        "onboard_time": 1750439598,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 37121,
+        "num": 37121,
+        "word": "鞠婧祎去年就有Labubu了",
+        "onboard_time": 1750434682,
+        "rank": 31,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 34843,
+        "num": 37121,
+        "word": "者来女把GAI唱懵了",
+        "onboard_time": 1750429525,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34510,
+        "num": 37110,
+        "word": "Theboyz全员取关周鹤年",
+        "onboard_time": 1750435462,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33940,
+        "num": 37095,
+        "word": "中餐厅9",
+        "onboard_time": 1750430065,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33242,
+        "num": 37086,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1750425805,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32057,
+        "num": 37077,
+        "word": "现在就出发3",
+        "onboard_time": 1750412482,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30385,
+        "num": 37073,
+        "word": "被跑男科普到了她的来历",
+        "onboard_time": 1750432403,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29900,
+        "num": 37060,
+        "word": "文化中国行美好如夏至",
+        "onboard_time": 1750439538,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29312,
+        "num": 37049,
+        "word": "成毅去钓鱼了",
+        "onboard_time": 1750424002,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32845,
+        "num": 37041,
+        "word": "全场大喊易烊千玺",
+        "onboard_time": 1750436541,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28893,
+        "num": 37029,
+        "word": "王者小刘鸭联动",
+        "onboard_time": 1750432824,
+        "rank": 41,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 28224,
+        "num": 37026,
+        "word": "朱丹分鸡腿影视化",
+        "onboard_time": 1750434082,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28103,
+        "num": 37011,
+        "word": "奔跑吧13",
+        "onboard_time": 1750443976,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27787,
+        "num": 37010,
+        "word": "美国GBU57型钻地弹仅次于核武器",
+        "onboard_time": 1750416981,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27291,
+        "num": 36994,
+        "word": "38岁女子秦岭徒步失联5天",
+        "onboard_time": 1750436482,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27283,
+        "num": 36983,
+        "word": "海来阿木 扶我起来再去试试",
+        "onboard_time": 1750434982,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26223,
+        "num": 36980,
+        "word": "耳帝说这期歌手太一般了",
+        "onboard_time": 1750437200,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25664,
+        "num": 36968,
+        "word": "陈可辛吴君如女儿考入美国名校",
+        "onboard_time": 1750430605,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19252,
+        "num": 36963,
+        "word": "天热出汗会消耗脂肪吗",
+        "onboard_time": 1750429108,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席中亚之行高光时刻#"
+    }
+  }
+}

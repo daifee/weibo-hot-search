@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750441316505,
+  "endTime": 1750444558747,
   "band_list": [
     {
       "raw_hot": 1781309,
@@ -243,6 +243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134437,
+      "num": 134437,
+      "word": "国家千亿级大项目撬动消费动能",
+      "onboard_time": 1750440079,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126812,
       "num": 126812,
       "word": "Theboyz全员取关周鹤年",
@@ -411,6 +419,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 70498,
+      "num": 70498,
+      "word": "纯素颜Labubu",
+      "onboard_time": 1750441636,
+      "rank": 16,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 65947,
       "num": 65947,
       "word": "单依纯说我就知道",
@@ -448,14 +464,6 @@
       "word": "38岁女子秦岭徒步失联5天",
       "onboard_time": 1750436482,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57230,
-      "num": 109803,
-      "word": "国家千亿级大项目撬动消费动能",
-      "onboard_time": 1750440079,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -505,6 +513,22 @@
       "onboard_time": 1750431744,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33096,
+      "num": 37182,
+      "word": "流浪犬暴雨中相拥被好心人收养",
+      "onboard_time": 1750439717,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28103,
+      "num": 37011,
+      "word": "奔跑吧13",
+      "onboard_time": 1750443976,
+      "rank": 43,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
