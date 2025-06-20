@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750426594569,
+  "endTime": 1750427301092,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8503712,
+      "num": 8503712,
+      "word": "马嘉祺 难听",
+      "onboard_time": 1749820524,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8098642,
       "num": 8098642,
       "word": "高考历史",
@@ -153,14 +161,6 @@
       "onboard_time": 1749640463,
       "rank": 0,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 5619395,
-      "num": 5619395,
-      "word": "马嘉祺 难听",
-      "onboard_time": 1749820524,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 5050675,
@@ -323,6 +323,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 3226195,
+      "num": 3226195,
+      "word": "者来女 难听",
+      "onboard_time": 1750425384,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3152370,
       "num": 3152370,
       "word": "优衣库 镜子",
@@ -336,14 +344,6 @@
       "word": "浪姐直播 假唱",
       "onboard_time": 1749299722,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3078115,
-      "num": 3078115,
-      "word": "者来女 难听",
-      "onboard_time": 1750425384,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -2979,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1085359,
+      "num": 473183,
+      "word": "陈楚生第二位守榜歌手",
+      "onboard_time": 1750423822,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1083717,
       "num": 1083717,
       "word": "刘亦菲陈晓 咸雪",
@@ -4651,6 +4659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 834540,
+      "num": 676089,
+      "word": "以色列开始哭哭啼啼",
+      "onboard_time": 1750422202,
+      "rank": 5,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 831124,
       "num": 392697,
       "word": "山东12岁女孩遭侵害致精神失常",
@@ -5443,14 +5459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 746181,
-      "num": 676089,
-      "word": "以色列开始哭哭啼啼",
-      "onboard_time": 1750422202,
-      "rank": 5,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 745777,
       "num": 745777,
       "word": "周深让你穿雨衣没让你穿这款",
@@ -6025,14 +6033,6 @@
       "onboard_time": 1749654383,
       "rank": 12,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 703651,
-      "num": 473183,
-      "word": "陈楚生第二位守榜歌手",
-      "onboard_time": 1750423822,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 702622,
@@ -8779,6 +8779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542096,
+      "num": 152581,
+      "word": "陈楚生摇滚",
+      "onboard_time": 1750427185,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 541791,
       "num": 541791,
       "word": "章子怡夸赵丽颖短发帅气西林",
@@ -11195,6 +11203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439741,
+      "num": 439741,
+      "word": "以色列全境响防空警报",
+      "onboard_time": 1750425263,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 439676,
       "num": 424282,
       "word": "王嘉尔蔡徐坤音乐节同框",
@@ -12289,6 +12305,14 @@
       "onboard_time": 1749127222,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 404880,
+      "num": 273551,
+      "word": "周深连撕两个人的名牌",
+      "onboard_time": 1750425204,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 404768,
@@ -13811,14 +13835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 362878,
-      "num": 273551,
-      "word": "周深连撕两个人的名牌",
-      "onboard_time": 1750425204,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 362760,
       "num": 362760,
       "word": "周深称被大家看见很难留住更难",
@@ -13857,14 +13873,6 @@
       "onboard_time": 1749281484,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 362059,
-      "num": 362059,
-      "word": "以色列全境响防空警报",
-      "onboard_time": 1750425263,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 362021,
@@ -15003,6 +15011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 339137,
+      "num": 546464,
+      "word": "男子一周吃3次火锅查出食管癌",
+      "onboard_time": 1750420521,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339073,
       "num": 339073,
       "word": "NBA",
@@ -15345,14 +15361,6 @@
       "onboard_time": 1749569721,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 331325,
-      "num": 546464,
-      "word": "男子一周吃3次火锅查出食管癌",
-      "onboard_time": 1750420521,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331303,
@@ -17779,6 +17787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284589,
+      "num": 147370,
+      "word": "给米奇第一吧",
+      "onboard_time": 1750426465,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284574,
       "num": 284574,
       "word": "青年人失业率连续3个月下降",
@@ -19025,6 +19041,14 @@
       "onboard_time": 1750277114,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 266765,
+      "num": 146256,
+      "word": "李莎旻子请停止整gai",
+      "onboard_time": 1750425865,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 266587,
@@ -20537,14 +20561,6 @@
       "onboard_time": 1749948320,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 248262,
-      "num": 141983,
-      "word": "李莎旻子请停止整gai",
-      "onboard_time": 1750425865,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 248142,
@@ -24787,6 +24803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209185,
+      "num": 178757,
+      "word": "千万别买到青岛西",
+      "onboard_time": 1750421361,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209174,
       "num": 209174,
       "word": "赵丽颖身上的文人气质",
@@ -26201,6 +26225,14 @@
       "onboard_time": 1749909683,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202667,
+      "num": 121422,
+      "word": "邓紫棋给GAI发消息了",
+      "onboard_time": 1750426886,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 202645,
@@ -27673,14 +27705,6 @@
       "onboard_time": 1749373640,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196510,
-      "num": 178757,
-      "word": "千万别买到青岛西",
-      "onboard_time": 1750421361,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 196502,
@@ -33115,6 +33139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172751,
+      "num": 209526,
+      "word": "格莱美来了也要拎两箱酸酸乳走",
+      "onboard_time": 1750425384,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172743,
       "num": 145737,
       "word": "福建物理 难",
@@ -33571,14 +33603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171461,
-      "num": 124839,
-      "word": "给米奇第一吧",
-      "onboard_time": 1750426465,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171458,
       "num": 171458,
       "word": "叶童曾担心参加浪姐会砸了饭碗",
@@ -33648,14 +33672,6 @@
       "word": "周杰伦知道你急但你先别急",
       "onboard_time": 1749298342,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 170853,
-      "num": 209526,
-      "word": "格莱美来了也要拎两箱酸酸乳走",
-      "onboard_time": 1750425384,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -39489,6 +39505,14 @@
       "onboard_time": 1749784762,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149113,
+      "num": 149113,
+      "word": "以色列要求全境民众进避难所",
+      "onboard_time": 1750426586,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149107,
@@ -49851,6 +49875,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 116760,
+      "num": 116760,
+      "word": "魏栓师等人违规吃喝致1人死亡",
+      "onboard_time": 1750425083,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 116758,
       "num": 116758,
       "word": "苏超抢票",
@@ -52817,14 +52849,6 @@
       "onboard_time": 1748736678,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106006,
-      "num": 106006,
-      "word": "魏栓师等人违规吃喝致1人死亡",
-      "onboard_time": 1750425083,
-      "rank": 47,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 106001,
@@ -63963,6 +63987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48135,
+      "num": 939094,
+      "word": "2025年净网护网专项工作部署会召开",
+      "onboard_time": 1750420342,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48104,
       "num": 34468,
       "word": "朴实无华的商战",
@@ -64865,14 +64897,6 @@
       "onboard_time": 1749876801,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 43355,
-      "num": 939094,
-      "word": "2025年净网护网专项工作部署会召开",
-      "onboard_time": 1750420342,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43338,

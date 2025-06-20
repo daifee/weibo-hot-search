@@ -1,0 +1,410 @@
+{
+  "runTime": 1750427301092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8503712,
+        "num": 8503712,
+        "word": "马嘉祺 难听",
+        "onboard_time": 1750425263,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3226195,
+        "num": 3226195,
+        "word": "者来女 难听",
+        "onboard_time": 1750425384,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48135,
+        "num": 928356,
+        "word": "2025年净网护网专项工作部署会召开",
+        "onboard_time": 1750420342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685518,
+        "num": 685518,
+        "word": "伊朗玩抽象",
+        "onboard_time": 1750424482,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 645504,
+        "num": 645504,
+        "word": "北大退学考清华男生自称有些狂妄",
+        "onboard_time": 1750422202,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513537,
+        "num": 513537,
+        "word": "留英博士迷奸多人想化学阉割减刑遭拒",
+        "onboard_time": 1750420040,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2197947,
+        "num": 481912,
+        "word": "单依纯离常石磊远一点",
+        "onboard_time": 1750422861,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1577222,
+        "num": 471476,
+        "word": "歌手直播",
+        "onboard_time": 1750419140,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439741,
+        "num": 439741,
+        "word": "以色列全境响防空警报",
+        "onboard_time": 1750425263,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339137,
+        "num": 339137,
+        "word": "男子一周吃3次火锅查出食管癌",
+        "onboard_time": 1750420521,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1085359,
+        "num": 319574,
+        "word": "陈楚生第二位守榜歌手",
+        "onboard_time": 1750423822,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 904270,
+        "num": 284448,
+        "word": "中国留学生迷奸10人受害者发声",
+        "onboard_time": 1750411941,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 893717,
+        "num": 263143,
+        "word": "如愿",
+        "onboard_time": 1750424541,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 834540,
+        "num": 232290,
+        "word": "以色列开始哭哭啼啼",
+        "onboard_time": 1750422202,
+        "rank": 13,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 783787,
+        "num": 208677,
+        "word": "歌手排名",
+        "onboard_time": 1750426284,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 739335,
+        "num": 172991,
+        "word": "马嘉祺云与海",
+        "onboard_time": 1750425144,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172751,
+        "num": 172751,
+        "word": "格莱美来了也要拎两箱酸酸乳走",
+        "onboard_time": 1750425384,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42739,
+        "num": 171954,
+        "word": "在暨大科技加持后的体育会有多强",
+        "onboard_time": 1750426164,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404880,
+        "num": 170384,
+        "word": "周深连撕两个人的名牌",
+        "onboard_time": 1750425204,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502001,
+        "num": 169220,
+        "word": "清华回应女教授被树砸身亡",
+        "onboard_time": 1750406181,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682271,
+        "num": 168152,
+        "word": "单依纯守榜",
+        "onboard_time": 1750421661,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 613441,
+        "num": 166478,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1750425805,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209185,
+        "num": 165452,
+        "word": "千万别买到青岛西",
+        "onboard_time": 1750421361,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165218,
+        "num": 165218,
+        "word": "男孩结婚2小时后坠亡婚姻被判无效",
+        "onboard_time": 1750412122,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154245,
+        "num": 154245,
+        "word": "杀害杨靖宇日本军官自杀前的遗言",
+        "onboard_time": 1750405763,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 542096,
+        "num": 152581,
+        "word": "陈楚生摇滚",
+        "onboard_time": 1750427185,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493625,
+        "num": 151371,
+        "word": "难听",
+        "onboard_time": 1750425624,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447337,
+        "num": 151183,
+        "word": "GAI黄种人",
+        "onboard_time": 1750423940,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149113,
+        "num": 149113,
+        "word": "以色列要求全境民众进避难所",
+        "onboard_time": 1750426586,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147897,
+        "num": 147897,
+        "word": "工人跪地哀求主管别开除",
+        "onboard_time": 1750413261,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284589,
+        "num": 147370,
+        "word": "给米奇第一吧",
+        "onboard_time": 1750426465,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251917,
+        "num": 147268,
+        "word": "Grace好有诚意",
+        "onboard_time": 1750424784,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266765,
+        "num": 146256,
+        "word": "李莎旻子请停止整gai",
+        "onboard_time": 1750425865,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245535,
+        "num": 145773,
+        "word": "现在就出发3",
+        "onboard_time": 1750412482,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145610,
+        "num": 145610,
+        "word": "婚检查出重大疾病医院仅告知本人",
+        "onboard_time": 1750414161,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233390,
+        "num": 144631,
+        "word": "官方调查那尔那茜",
+        "onboard_time": 1750416681,
+        "rank": 35,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 224232,
+        "num": 140247,
+        "word": "成毅去钓鱼了",
+        "onboard_time": 1750424002,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213084,
+        "num": 139957,
+        "word": "歌手2025首次开启双曲袭榜",
+        "onboard_time": 1750407622,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134961,
+        "num": 134961,
+        "word": "武汉警方通报一起持刀伤人案",
+        "onboard_time": 1750422020,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 122235,
+        "num": 122235,
+        "word": "巴多萨退赛王欣瑜晋级4强",
+        "onboard_time": 1750421721,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205014,
+        "num": 122161,
+        "word": "藏海传上国务院新闻见面会了",
+        "onboard_time": 1750424062,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202667,
+        "num": 121422,
+        "word": "邓紫棋给GAI发消息了",
+        "onboard_time": 1750426886,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196823,
+        "num": 120914,
+        "word": "吴昕是不是忘了自己是个女明星",
+        "onboard_time": 1750420281,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191782,
+        "num": 120823,
+        "word": "卵巢癌晚期钢琴老师丁丁离世",
+        "onboard_time": 1750417821,
+        "rank": 43,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 120355,
+        "num": 120355,
+        "word": "美国GBU57型钻地弹仅次于核武器",
+        "onboard_time": 1750416981,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171859,
+        "num": 120280,
+        "word": "歌手顺序",
+        "onboard_time": 1750420820,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116760,
+        "num": 116760,
+        "word": "魏栓师等人违规吃喝致1人死亡",
+        "onboard_time": 1750425083,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 116095,
+        "num": 116095,
+        "word": "梁王组合又双叒叕默契了",
+        "onboard_time": 1750425504,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110718,
+        "num": 110718,
+        "word": "KPL",
+        "onboard_time": 1750423522,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92119,
+        "num": 110705,
+        "word": "大学生HIV感染情况",
+        "onboard_time": 1750386622,
+        "rank": 49,
+        "category": "健康医疗,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中新两国要共同捍卫联合国核心国际体系#"
+    }
+  }
+}
