@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750444558747,
+  "endTime": 1750445377278,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -71427,6 +71427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22406,
+      "num": 25820,
+      "word": "47岁网红主播天宇因心梗去世",
+      "onboard_time": 1750445055,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 22392,
       "num": 31219,
       "word": "藏海传登顶海外23国全面最畅销电视剧",
@@ -71441,6 +71449,14 @@
       "onboard_time": 1749640282,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 22379,
+      "num": 25815,
+      "word": "风与潮杀青",
+      "onboard_time": 1750445355,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 22366,
@@ -72801,6 +72817,14 @@
       "onboard_time": 1748890094,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17611,
+      "num": 67988,
+      "word": "上百名中国公民从以撤离至埃及境内",
+      "onboard_time": 1750444817,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17606,
