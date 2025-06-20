@@ -1,0 +1,410 @@
+{
+  "runTime": 1750398275552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1664870,
+        "num": 1664870,
+        "word": "仅退款引发商家极端要求",
+        "onboard_time": 1750395683,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1611453,
+        "num": 1611453,
+        "word": "曾毅因身体原因暂停工作",
+        "onboard_time": 1750392203,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91649,
+        "num": 1468914,
+        "word": "这就是中国高铁的硬实力",
+        "onboard_time": 1750395983,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1445812,
+        "num": 1445812,
+        "word": "黄晓明上戏考博落榜",
+        "onboard_time": 1750393763,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1320919,
+        "num": 1320919,
+        "word": "教育厅回应那尔那茜定向委培事件",
+        "onboard_time": 1750393283,
+        "rank": 4,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 765750,
+        "num": 765750,
+        "word": "大学生HIV感染情况",
+        "onboard_time": 1750386622,
+        "rank": 5,
+        "category": "健康医疗,教育"
+      },
+      {
+        "raw_hot": 615871,
+        "num": 615871,
+        "word": "金世佳上戏考博上岸",
+        "onboard_time": 1750395263,
+        "rank": 6,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 375813,
+        "num": 375813,
+        "word": "伊朗导弹数量超过美以拦截弹数量",
+        "onboard_time": 1750389981,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 879247,
+        "num": 374069,
+        "word": "黄晓明回应考博落榜",
+        "onboard_time": 1750396522,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342250,
+        "num": 342250,
+        "word": "以色列暗杀10名伊朗核科学家",
+        "onboard_time": 1750394363,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 590633,
+        "num": 338973,
+        "word": "伊朗导弹直接命中在以中国留学生校园",
+        "onboard_time": 1750395741,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 575550,
+        "num": 329274,
+        "word": "现在就出发3原班人马",
+        "onboard_time": 1750387760,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409170,
+        "num": 315631,
+        "word": "汪苏泷演唱会获全球设计大奖",
+        "onboard_time": 1750393464,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 567288,
+        "num": 310564,
+        "word": "伊朗9名核科学家睡觉时被暗杀",
+        "onboard_time": 1750393103,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102306,
+        "num": 301657,
+        "word": "原来30万质子重离子好医保能报销",
+        "onboard_time": 1750395683,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544667,
+        "num": 290702,
+        "word": "闲鱼 刘宇宁",
+        "onboard_time": 1750390100,
+        "rank": 15,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 520064,
+        "num": 286082,
+        "word": "王大陆找黑道帮女友讨债",
+        "onboard_time": 1750391361,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404146,
+        "num": 275061,
+        "word": "书卷一梦定档",
+        "onboard_time": 1750393883,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269039,
+        "num": 269039,
+        "word": "日本稻田里的小龙虾被烫熟了",
+        "onboard_time": 1750385482,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15260,
+        "num": 268938,
+        "word": "金融专业毕业还能拿高薪吗",
+        "onboard_time": 1750397542,
+        "rank": 19,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 498974,
+        "num": 268632,
+        "word": "黄金给所有人都上了一课",
+        "onboard_time": 1750376600,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 420036,
+        "num": 268502,
+        "word": "曾毅手表",
+        "onboard_time": 1750393583,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372899,
+        "num": 268372,
+        "word": "以色列首都越来越像加沙了",
+        "onboard_time": 1750394304,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357798,
+        "num": 268073,
+        "word": "迪丽热巴金世佳利剑玫瑰来了",
+        "onboard_time": 1750381101,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256666,
+        "num": 267744,
+        "word": "为什么离职时领导会挽留你",
+        "onboard_time": 1750390402,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351099,
+        "num": 267675,
+        "word": "凤凰传奇天津演唱会取消",
+        "onboard_time": 1750391722,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 267512,
+        "num": 267512,
+        "word": "白鹿背labubu和宋雨琦逛街",
+        "onboard_time": 1750396763,
+        "rank": 26,
+        "category": "艺人,休闲"
+      },
+      {
+        "raw_hot": 263396,
+        "num": 263396,
+        "word": "夏天是气血虚的人的劫",
+        "onboard_time": 1750392743,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229505,
+        "num": 229505,
+        "word": "内娱首部穿剧本轻喜剧",
+        "onboard_time": 1750396882,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217664,
+        "num": 217664,
+        "word": "泡泡玛特巨震",
+        "onboard_time": 1750390702,
+        "rank": 29,
+        "category": "财经,动漫"
+      },
+      {
+        "raw_hot": 222826,
+        "num": 212540,
+        "word": "虞书欣王安宇领衔主演",
+        "onboard_time": 1750386561,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207295,
+        "num": 207295,
+        "word": "周鹤年称被公司威胁退团",
+        "onboard_time": 1750397122,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207132,
+        "num": 207132,
+        "word": "TXT巡演",
+        "onboard_time": 1750397782,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202911,
+        "num": 202911,
+        "word": "Jennie辣哭了",
+        "onboard_time": 1750395203,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196870,
+        "num": 196870,
+        "word": "罗马仕充电宝在日本发生爆炸",
+        "onboard_time": 1750392142,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202026,
+        "num": 194857,
+        "word": "张艺兴说我们都是敦煌小工匠",
+        "onboard_time": 1750396281,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201431,
+        "num": 194715,
+        "word": "临江仙加更",
+        "onboard_time": 1750397122,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191815,
+        "num": 191815,
+        "word": "家长质疑气象台不敢发暴雨预警",
+        "onboard_time": 1750393043,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191153,
+        "num": 191153,
+        "word": "宋茜 一个不发死字的女明星",
+        "onboard_time": 1750391841,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111614,
+        "num": 184720,
+        "word": "步行者背水一战",
+        "onboard_time": 1750396702,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183475,
+        "num": 183475,
+        "word": "虞书欣怎么这么有聊天力",
+        "onboard_time": 1750397722,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181763,
+        "num": 181763,
+        "word": "李昀锐直播引导粉丝",
+        "onboard_time": 1750381642,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181412,
+        "num": 181412,
+        "word": "王家卫北京故事 杨幂",
+        "onboard_time": 1750395502,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176688,
+        "num": 176688,
+        "word": "赵一鸣回应个别门店物资遭哄抢",
+        "onboard_time": 1750393943,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175329,
+        "num": 175329,
+        "word": "曾舜晞不仅上桌了都快上炕了",
+        "onboard_time": 1750397542,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166480,
+        "num": 166480,
+        "word": "留英博士强奸案",
+        "onboard_time": 1750392503,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163176,
+        "num": 163176,
+        "word": "书卷一梦祝绪丹主演",
+        "onboard_time": 1750396702,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158002,
+        "num": 158002,
+        "word": "中国援坦桑尼亚医生为救当地落水者牺牲",
+        "onboard_time": 1750386500,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147675,
+        "num": 147675,
+        "word": "伊朗首都上空爆炸一声接一声",
+        "onboard_time": 1750377141,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142571,
+        "num": 142571,
+        "word": "相亲界已经进化成这样了吗",
+        "onboard_time": 1750395263,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#50秒回顾第二届中国－中亚峰会亮点#"
+    }
+  }
+}

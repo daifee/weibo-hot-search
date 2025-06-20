@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750397226543,
+  "endTime": 1750398275552,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1664870,
+      "num": 1664870,
+      "word": "仅退款引发商家极端要求",
+      "onboard_time": 1750395683,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1664130,
       "num": 1664130,
       "word": "哪吒2 分账",
@@ -339,8 +347,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1438197,
-      "num": 924654,
+      "raw_hot": 1445812,
+      "num": 1445812,
       "word": "黄晓明上戏考博落榜",
       "onboard_time": 1750393763,
       "rank": 32,
@@ -1089,6 +1097,14 @@
       "onboard_time": 1750312701,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 879247,
+      "num": 374069,
+      "word": "黄晓明回应考博落榜",
+      "onboard_time": 1750396522,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 877463,
@@ -2139,12 +2155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 588890,
-      "num": 632700,
-      "word": "仅退款引发商家极端要求",
-      "onboard_time": 1750395683,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 590633,
+      "num": 338973,
+      "word": "伊朗导弹直接命中在以中国留学生校园",
+      "onboard_time": 1750395741,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 587403,
@@ -3243,6 +3259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 420036,
+      "num": 326324,
+      "word": "曾毅手表",
+      "onboard_time": 1750393583,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419430,
       "num": 419430,
       "word": "张艺谋巩俐早期情侣写真",
@@ -3339,14 +3363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408659,
-      "num": 326324,
-      "word": "曾毅手表",
-      "onboard_time": 1750393583,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 407361,
       "num": 407361,
       "word": "对labubu全球爆火有了实感",
@@ -3417,6 +3433,14 @@
       "onboard_time": 1749959541,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404146,
+      "num": 325422,
+      "word": "书卷一梦定档",
+      "onboard_time": 1750393883,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 402329,
@@ -3699,6 +3723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372899,
+      "num": 324548,
+      "word": "以色列首都越来越像加沙了",
+      "onboard_time": 1750394304,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 372469,
       "num": 282940,
       "word": "酱园弄悬案原来这么大尺度",
@@ -3769,14 +3801,6 @@
       "onboard_time": 1750323862,
       "rank": 8,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 367308,
-      "num": 328741,
-      "word": "伊朗导弹直接命中在以中国留学生校园",
-      "onboard_time": 1750395741,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 365583,
@@ -4059,6 +4083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342250,
+      "num": 342250,
+      "word": "以色列暗杀10名伊朗核科学家",
+      "onboard_time": 1750394363,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 341741,
       "num": 341741,
       "word": "苏超地锅鸡1比0拿下醋坛子",
@@ -4265,22 +4297,6 @@
       "onboard_time": 1750340662,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324979,
-      "num": 324979,
-      "word": "黄晓明回应考博落榜",
-      "onboard_time": 1750396522,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 324548,
-      "num": 324548,
-      "word": "以色列首都越来越像加沙了",
-      "onboard_time": 1750394304,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 324504,
@@ -4753,14 +4769,6 @@
       "onboard_time": 1750386200,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291847,
-      "num": 291847,
-      "word": "以色列暗杀10名伊朗核科学家",
-      "onboard_time": 1750394363,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 291662,
@@ -5321,6 +5329,14 @@
       "onboard_time": 1749981800,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267512,
+      "num": 267512,
+      "word": "白鹿背labubu和宋雨琦逛街",
+      "onboard_time": 1750396763,
+      "rank": 35,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 266866,
@@ -6299,14 +6315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227051,
-      "num": 227051,
-      "word": "白鹿背labubu和宋雨琦逛街",
-      "onboard_time": 1750396763,
-      "rank": 35,
-      "category": "艺人,休闲"
-    },
-    {
       "raw_hot": 226981,
       "num": 226981,
       "word": "章子怡邀请易烊千玺再次合作",
@@ -6537,14 +6545,6 @@
       "onboard_time": 1750301840,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217864,
-      "num": 325422,
-      "word": "书卷一梦定档",
-      "onboard_time": 1750393883,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 217445,
@@ -6875,6 +6875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207295,
+      "num": 207295,
+      "word": "周鹤年称被公司威胁退团",
+      "onboard_time": 1750397122,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207291,
       "num": 265674,
       "word": "吴宣仪红裙玫瑰",
@@ -6889,6 +6897,14 @@
       "onboard_time": 1750393464,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207132,
+      "num": 207132,
+      "word": "TXT巡演",
+      "onboard_time": 1750397782,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 207118,
@@ -7161,6 +7177,14 @@
       "onboard_time": 1750000763,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201431,
+      "num": 194715,
+      "word": "临江仙加更",
+      "onboard_time": 1750397122,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 201175,
@@ -7739,14 +7763,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 191749,
-      "num": 191749,
-      "word": "临江仙加更",
-      "onboard_time": 1750397122,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191741,
       "num": 267363,
       "word": "咸鱼修炼手册",
@@ -8275,6 +8291,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 183475,
+      "num": 183475,
+      "word": "虞书欣怎么这么有聊天力",
+      "onboard_time": 1750397722,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183326,
       "num": 183326,
       "word": "邓紫棋石家庄演唱会",
@@ -8713,6 +8737,14 @@
       "onboard_time": 1749961760,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175329,
+      "num": 175329,
+      "word": "曾舜晞不仅上桌了都快上炕了",
+      "onboard_time": 1750397542,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 175216,
@@ -14171,6 +14203,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 111614,
+      "num": 184720,
+      "word": "步行者背水一战",
+      "onboard_time": 1750396702,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111523,
       "num": 230550,
       "word": "00后女孩醉驾致3死最小受害者才3岁",
@@ -15387,6 +15427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91649,
+      "num": 1468914,
+      "word": "这就是中国高铁的硬实力",
+      "onboard_time": 1750395983,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91638,
       "num": 91638,
       "word": "Bin说优胜者不是冠军",
@@ -16089,14 +16137,6 @@
       "onboard_time": 1750142301,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 75237,
-      "num": 1036107,
-      "word": "这就是中国高铁的硬实力",
-      "onboard_time": 1750395983,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 75017,
@@ -19809,6 +19849,14 @@
       "onboard_time": 1750347202,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15260,
+      "num": 268938,
+      "word": "金融专业毕业还能拿高薪吗",
+      "onboard_time": 1750397542,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 15250,

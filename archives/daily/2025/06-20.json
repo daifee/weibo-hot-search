@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750397226543,
+  "endTime": 1750398275552,
   "band_list": [
     {
       "raw_hot": 3254925,
@@ -17,6 +17,14 @@
       "onboard_time": 1750392203,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1664870,
+      "num": 1664870,
+      "word": "仅退款引发商家极端要求",
+      "onboard_time": 1750395683,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1605646,
@@ -43,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1438197,
-      "num": 924654,
+      "raw_hot": 1445812,
+      "num": 1445812,
       "word": "黄晓明上戏考博落榜",
       "onboard_time": 1750393763,
       "rank": 32,
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 879247,
+      "num": 374069,
+      "word": "黄晓明回应考博落榜",
+      "onboard_time": 1750396522,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 850251,
       "num": 850251,
       "word": "李昀锐直播引导粉丝",
@@ -195,12 +211,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 588890,
-      "num": 632700,
-      "word": "仅退款引发商家极端要求",
-      "onboard_time": 1750395683,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 590633,
+      "num": 338973,
+      "word": "伊朗导弹直接命中在以中国留学生校园",
+      "onboard_time": 1750395741,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 568694,
@@ -307,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420036,
+      "num": 326324,
+      "word": "曾毅手表",
+      "onboard_time": 1750393583,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415337,
       "num": 264758,
       "word": "王鹤棣用过的碗筷被供起来",
@@ -323,12 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408659,
-      "num": 326324,
-      "word": "曾毅手表",
-      "onboard_time": 1750393583,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 404146,
+      "num": 325422,
+      "word": "书卷一梦定档",
+      "onboard_time": 1750393883,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 397865,
@@ -379,20 +403,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 372899,
+      "num": 324548,
+      "word": "以色列首都越来越像加沙了",
+      "onboard_time": 1750394304,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 369718,
       "num": 369718,
       "word": "李昀锐关晓彤健身",
       "onboard_time": 1750377200,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367308,
-      "num": 328741,
-      "word": "伊朗导弹直接命中在以中国留学生校园",
-      "onboard_time": 1750395741,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 364624,
@@ -451,28 +475,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 342250,
+      "num": 342250,
+      "word": "以色列暗杀10名伊朗核科学家",
+      "onboard_time": 1750394363,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 340885,
       "num": 340885,
       "word": "迪丽热巴邓为 漩涡",
       "onboard_time": 1750378761,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324979,
-      "num": 324979,
-      "word": "黄晓明回应考博落榜",
-      "onboard_time": 1750396522,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 324548,
-      "num": 324548,
-      "word": "以色列首都越来越像加沙了",
-      "onboard_time": 1750394304,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 324504,
@@ -531,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291847,
-      "num": 291847,
-      "word": "以色列暗杀10名伊朗核科学家",
-      "onboard_time": 1750394363,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 291134,
       "num": 291134,
       "word": "赵樱子自曝曾和流量小生暧昧",
@@ -585,6 +593,14 @@
       "onboard_time": 1750387700,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267512,
+      "num": 267512,
+      "word": "白鹿背labubu和宋雨琦逛街",
+      "onboard_time": 1750396763,
+      "rank": 35,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 265014,
@@ -683,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227051,
-      "num": 227051,
-      "word": "白鹿背labubu和宋雨琦逛街",
-      "onboard_time": 1750396763,
-      "rank": 35,
-      "category": "艺人,休闲"
-    },
-    {
       "raw_hot": 224032,
       "num": 224032,
       "word": "字节小米位列中国全球化品牌前二",
@@ -712,14 +720,6 @@
       "word": "藏海传 庆功宴",
       "onboard_time": 1750375159,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 217864,
-      "num": 325422,
-      "word": "书卷一梦定档",
-      "onboard_time": 1750393883,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -795,12 +795,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207295,
+      "num": 207295,
+      "word": "周鹤年称被公司威胁退团",
+      "onboard_time": 1750397122,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207191,
       "num": 228567,
       "word": "现在择偶标准都这么抽象了",
       "onboard_time": 1750393464,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207132,
+      "num": 207132,
+      "word": "TXT巡演",
+      "onboard_time": 1750397782,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 206964,
@@ -843,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201431,
+      "num": 194715,
+      "word": "临江仙加更",
+      "onboard_time": 1750397122,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201127,
       "num": 201127,
       "word": "恋与深空偷跑",
@@ -880,14 +904,6 @@
       "word": "刘宇宁李一桐新剧定档海报",
       "onboard_time": 1750394484,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 191749,
-      "num": 191749,
-      "word": "临江仙加更",
-      "onboard_time": 1750397122,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -971,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183475,
+      "num": 183475,
+      "word": "虞书欣怎么这么有聊天力",
+      "onboard_time": 1750397722,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181295,
       "num": 213931,
       "word": "那尔那茜戏份贯穿电影镖人全片",
@@ -993,6 +1017,14 @@
       "onboard_time": 1750383380,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175329,
+      "num": 175329,
+      "word": "曾舜晞不仅上桌了都快上炕了",
+      "onboard_time": 1750397542,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 173478,
@@ -1275,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111614,
+      "num": 184720,
+      "word": "步行者背水一战",
+      "onboard_time": 1750396702,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111105,
       "num": 111105,
       "word": "香港丁克夫妻29平米的家",
@@ -1435,6 +1475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91649,
+      "num": 1468914,
+      "word": "这就是中国高铁的硬实力",
+      "onboard_time": 1750395983,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87408,
       "num": 264626,
       "word": "银行股集体上攻",
@@ -1513,14 +1561,6 @@
       "onboard_time": 1750369335,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75237,
-      "num": 1036107,
-      "word": "这就是中国高铁的硬实力",
-      "onboard_time": 1750395983,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 74947,
@@ -1785,6 +1825,14 @@
       "onboard_time": 1750392082,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15260,
+      "num": 268938,
+      "word": "金融专业毕业还能拿高薪吗",
+      "onboard_time": 1750397542,
+      "rank": 19,
+      "category": "民生新闻,教育"
     }
   ],
   "hotgov_list": [
