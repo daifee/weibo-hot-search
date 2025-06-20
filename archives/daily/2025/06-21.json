@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750461959613,
+  "endTime": 1750462824761,
   "band_list": [
     {
       "raw_hot": 1781309,
@@ -25,6 +25,14 @@
       "onboard_time": 1750429826,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 672887,
+      "num": 162001,
+      "word": "赵丽颖的朋友圈又更新了",
+      "onboard_time": 1750461497,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 623771,
@@ -67,20 +75,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 454878,
-      "num": 137981,
-      "word": "赵丽颖的朋友圈又更新了",
-      "onboard_time": 1750461497,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 452129,
       "num": 452129,
       "word": "耳帝说马嘉祺这一场与上一场的歌都不适合他",
       "onboard_time": 1750439779,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 450058,
+      "num": 904665,
+      "word": "以色列全境多个目标遭袭击",
+      "onboard_time": 1750461378,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 415100,
@@ -123,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291426,
-      "num": 291426,
-      "word": "以色列全境多个目标遭袭击",
-      "onboard_time": 1750461378,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 261785,
       "num": 160826,
       "word": "歌手力挺马嘉祺",
@@ -139,12 +139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259382,
+      "num": 162807,
+      "word": "千万别买到青岛西",
+      "onboard_time": 1750421361,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243862,
       "num": 184821,
       "word": "沈梦辰没读热搜",
       "onboard_time": 1750432883,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239677,
+      "num": 239677,
+      "word": "伊朗导弹齐射画面",
+      "onboard_time": 1750461378,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 239192,
@@ -179,6 +195,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 225515,
+      "num": 225515,
+      "word": "47岁网红主播天宇因心梗去世",
+      "onboard_time": 1750445055,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 207937,
+      "num": 141556,
+      "word": "伊朗全国多地举行反以游行",
+      "onboard_time": 1750461316,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 206854,
       "num": 197786,
       "word": "伊朗",
@@ -195,28 +227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195602,
-      "num": 195602,
-      "word": "47岁网红主播天宇因心梗去世",
-      "onboard_time": 1750445055,
-      "rank": 46,
-      "category": "网红"
-    },
-    {
       "raw_hot": 191121,
       "num": 153729,
       "word": "耳帝只选了陈楚生的舞台",
       "onboard_time": 1750436182,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181472,
-      "num": 162807,
-      "word": "千万别买到青岛西",
-      "onboard_time": 1750421361,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 178782,
@@ -235,14 +251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171738,
-      "num": 171738,
-      "word": "伊朗导弹齐射画面",
-      "onboard_time": 1750461378,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162818,
       "num": 162818,
       "word": "那英单依纯周深突然就病一起了",
@@ -257,6 +265,14 @@
       "onboard_time": 1750427366,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147810,
+      "num": 66906,
+      "word": "俄罗斯愿与中国开展全面合作",
+      "onboard_time": 1750452074,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144369,
@@ -275,28 +291,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139564,
-      "num": 139564,
-      "word": "伊朗全国多地举行反以游行",
-      "onboard_time": 1750461316,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 134437,
       "num": 134437,
       "word": "国家千亿级大项目撬动消费动能",
       "onboard_time": 1750440079,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130336,
-      "num": 62683,
-      "word": "俄罗斯愿与中国开展全面合作",
-      "onboard_time": 1750452074,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126812,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104743,
+      "num": 66856,
+      "word": "别为难沈梦辰了",
+      "onboard_time": 1750461316,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100269,
       "num": 100269,
       "word": "黄霄雲吐槽出差酒店",
@@ -387,12 +395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94760,
-      "num": 62680,
-      "word": "别为难沈梦辰了",
+      "raw_hot": 94765,
+      "num": 167372,
+      "word": "四川警方通报持刀伤人纵火事件",
       "onboard_time": 1750461316,
-      "rank": 31,
-      "category": "综艺"
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 92400,
+      "num": 106453,
+      "word": "官方调查那尔那茜",
+      "onboard_time": 1750416681,
+      "rank": 44,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 90708,
@@ -435,14 +451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84902,
-      "num": 100066,
-      "word": "官方调查那尔那茜",
-      "onboard_time": 1750416681,
-      "rank": 44,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 83651,
       "num": 88507,
       "word": "天热出汗会消耗脂肪吗",
@@ -475,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73171,
+      "num": 73171,
+      "word": "陈哲远假发都被泼掉了",
+      "onboard_time": 1750461437,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70498,
       "num": 70498,
       "word": "纯素颜Labubu",
@@ -483,12 +499,28 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 67924,
+      "num": 67924,
+      "word": "以色列民众躲到地下车站站厅过夜",
+      "onboard_time": 1750461917,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67375,
       "num": 67375,
       "word": "苏超镇江队门将电话被打爆",
       "onboard_time": 1750457715,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66647,
+      "num": 66647,
+      "word": "蓝羽替易烊千玺官宣演唱会",
+      "onboard_time": 1750461378,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 65947,
@@ -507,20 +539,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 64936,
+      "num": 64936,
+      "word": "以色列要与伊朗打持久战",
+      "onboard_time": 1750461316,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64517,
       "num": 87433,
       "word": "王者小刘鸭联动",
       "onboard_time": 1750432824,
       "rank": 48,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 63851,
-      "num": 63851,
-      "word": "四川警方通报持刀伤人纵火事件",
-      "onboard_time": 1750461316,
-      "rank": 28,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 62673,
@@ -555,7 +587,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56922,
+      "raw_hot": 57660,
       "num": 64465,
       "word": "者来女把GAI唱懵了",
       "onboard_time": 1750429525,
@@ -563,36 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54377,
-      "num": 54377,
-      "word": "陈哲远假发都被泼掉了",
-      "onboard_time": 1750461437,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 52730,
-      "num": 52730,
-      "word": "蓝羽替易烊千玺官宣演唱会",
-      "onboard_time": 1750461378,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 51727,
-      "num": 51727,
-      "word": "以色列民众躲到地下车站站厅过夜",
-      "onboard_time": 1750461917,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 50658,
-      "num": 50658,
-      "word": "以色列要与伊朗打持久战",
-      "onboard_time": 1750461316,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 55160,
+      "num": 55160,
+      "word": "周翊然新剧暗恋偷偷藏不住",
+      "onboard_time": 1750460297,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 47734,
@@ -603,12 +611,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46548,
-      "num": 46548,
-      "word": "周翊然新剧暗恋偷偷藏不住",
-      "onboard_time": 1750460297,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 46022,
+      "num": 67988,
+      "word": "上百名中国公民从以撤离至埃及境内",
+      "onboard_time": 1750444817,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 45377,
+      "num": 45377,
+      "word": "光遇",
+      "onboard_time": 1750462760,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 44682,
+      "num": 44682,
+      "word": "利物浦官宣维尔茨加盟",
+      "onboard_time": 1750461978,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 44490,
@@ -627,14 +651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41717,
-      "num": 67988,
-      "word": "上百名中国公民从以撤离至埃及境内",
-      "onboard_time": 1750444817,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 40325,
       "num": 40325,
       "word": "这剧开局就上这么大尺度",
@@ -643,20 +659,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39629,
+      "num": 459332,
+      "word": "中国饭碗里的科技范儿",
+      "onboard_time": 1750431744,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38132,
       "num": 38132,
       "word": "流浪犬暴雨中相拥被好心人收养",
       "onboard_time": 1750439717,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36759,
-      "num": 459332,
-      "word": "中国饭碗里的科技范儿",
-      "onboard_time": 1750431744,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29781,
