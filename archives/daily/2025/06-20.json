@@ -1,13 +1,21 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750427301092,
+  "endTime": 1750429545022,
   "band_list": [
     {
-      "raw_hot": 8503712,
-      "num": 8503712,
+      "raw_hot": 11497825,
+      "num": 11497825,
       "word": "马嘉祺 难听",
       "onboard_time": 1750425263,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5006161,
+      "num": 5006161,
+      "word": "歌手排名",
+      "onboard_time": 1750426284,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -57,6 +65,14 @@
       "onboard_time": 1750392203,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2032988,
+      "num": 347767,
+      "word": "没人投马嘉祺",
+      "onboard_time": 1750427787,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1912698,
@@ -275,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 888545,
+      "num": 270997,
+      "word": "陈楚生摇滚",
+      "onboard_time": 1750427185,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 879388,
       "num": 342723,
       "word": "马嘉祺云与海",
@@ -289,6 +313,14 @@
       "onboard_time": 1750407202,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 870032,
+      "num": 870032,
+      "word": "伊朗玩抽象",
+      "onboard_time": 1750424482,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 850251,
@@ -355,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 783787,
-      "num": 208677,
-      "word": "歌手排名",
-      "onboard_time": 1750426284,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 774727,
       "num": 760635,
       "word": "一念江南阵容官宣",
@@ -377,14 +401,6 @@
       "onboard_time": 1750420040,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 712406,
-      "num": 712406,
-      "word": "伊朗玩抽象",
-      "onboard_time": 1750424482,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 690536,
@@ -467,20 +483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 624196,
+      "num": 267433,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1750425805,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 623000,
       "num": 623000,
       "word": "金世佳上戏考博上岸",
       "onboard_time": 1750395263,
       "rank": 6,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 613441,
-      "num": 171232,
-      "word": "易烊千玺演唱会",
-      "onboard_time": 1750425805,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 611304,
@@ -563,11 +579,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 542096,
-      "num": 152581,
-      "word": "陈楚生摇滚",
-      "onboard_time": 1750427185,
-      "rank": 25,
+      "raw_hot": 554042,
+      "num": 243204,
+      "word": "单依纯第五",
+      "onboard_time": 1750429168,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -715,8 +731,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 439741,
-      "num": 439741,
+      "raw_hot": 443943,
+      "num": 443943,
       "word": "以色列全境响防空警报",
       "onboard_time": 1750425263,
       "rank": 9,
@@ -907,6 +923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 346889,
+      "num": 241260,
+      "word": "给米奇第一吧",
+      "onboard_time": 1750426465,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341498,
       "num": 341498,
       "word": "金世佳理发都在看书",
@@ -1019,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316638,
+      "num": 316638,
+      "word": "女子想开蜜雪冰城结果加盟奶爸王子",
+      "onboard_time": 1750428807,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306702,
       "num": 306702,
       "word": "伊朗针对打击中东地区美军做好准备",
@@ -1115,20 +1147,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284589,
-      "num": 147370,
-      "word": "给米奇第一吧",
-      "onboard_time": 1750426465,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280333,
       "num": 292104,
       "word": "夏天是气血虚的人的劫",
       "onboard_time": 1750392743,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 280319,
+      "num": 243037,
+      "word": "邓紫棋给GAI发消息了",
+      "onboard_time": 1750426886,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 272025,
+      "num": 272025,
+      "word": "以色列要求全境民众进避难所",
+      "onboard_time": 1750426586,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 268680,
@@ -1185,6 +1225,14 @@
       "onboard_time": 1750423102,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262011,
+      "num": 240489,
+      "word": "好听",
+      "onboard_time": 1750428925,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 261813,
@@ -1276,7 +1324,7 @@
     },
     {
       "raw_hot": 245743,
-      "num": 199688,
+      "num": 240327,
       "word": "成毅去钓鱼了",
       "onboard_time": 1750424002,
       "rank": 31,
@@ -1500,7 +1548,7 @@
     },
     {
       "raw_hot": 209185,
-      "num": 178757,
+      "num": 186868,
       "word": "千万别买到青岛西",
       "onboard_time": 1750421361,
       "rank": 35,
@@ -1635,14 +1683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202667,
-      "num": 121422,
-      "word": "邓紫棋给GAI发消息了",
-      "onboard_time": 1750426886,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202080,
       "num": 202080,
       "word": "北语张爱玲教授系因意外离世",
@@ -1665,6 +1705,14 @@
       "onboard_time": 1750346122,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199917,
+      "num": 199917,
+      "word": "飘来飘去",
+      "onboard_time": 1750428446,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 199784,
@@ -1851,6 +1899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185314,
+      "num": 185314,
+      "word": "者来女 二手玫瑰即视感",
+      "onboard_time": 1750429230,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184899,
       "num": 195399,
       "word": "Wolves对战MRC",
@@ -1955,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180209,
+      "num": 180209,
+      "word": "者来女把GAI唱懵了",
+      "onboard_time": 1750429525,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178428,
       "num": 295995,
       "word": "THEBOYZ公司新声明",
@@ -1977,6 +2041,14 @@
       "onboard_time": 1750383380,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175335,
+      "num": 175335,
+      "word": "天热出汗会消耗脂肪吗",
+      "onboard_time": 1750429108,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 175329,
@@ -2028,7 +2100,7 @@
     },
     {
       "raw_hot": 172751,
-      "num": 209526,
+      "num": 244022,
       "word": "格莱美来了也要拎两箱酸酸乳走",
       "onboard_time": 1750425384,
       "rank": 18,
@@ -2115,6 +2187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165272,
+      "num": 165272,
+      "word": "易烊千玺希望更多苔花开到更多人心里",
+      "onboard_time": 1750427547,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163285,
       "num": 163285,
       "word": "中国在伊朗记者备足了罐头",
@@ -2171,6 +2251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154474,
+      "num": 154474,
+      "word": "米奇第二",
+      "onboard_time": 1750429468,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151654,
+      "num": 151654,
+      "word": "歌手",
+      "onboard_time": 1750380382,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151453,
       "num": 151453,
       "word": "为什么这个行业不加班",
@@ -2201,14 +2297,6 @@
       "onboard_time": 1750411160,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 149113,
-      "num": 149113,
-      "word": "以色列要求全境民众进避难所",
-      "onboard_time": 1750426586,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 148537,
@@ -2276,7 +2364,7 @@
     },
     {
       "raw_hot": 146040,
-      "num": 146040,
+      "num": 165545,
       "word": "武汉警方通报一起持刀伤人案",
       "onboard_time": 1750422020,
       "rank": 43,
@@ -2304,14 +2392,6 @@
       "word": "龚俊怎么和红雷哥越来越像了",
       "onboard_time": 1750419319,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 142104,
-      "num": 142104,
-      "word": "歌手",
-      "onboard_time": 1750380382,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -2427,6 +2507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129652,
+      "num": 166721,
+      "word": "美军已向中东运送了更多血浆",
+      "onboard_time": 1750427906,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129099,
       "num": 129099,
       "word": "怀集洪水",
@@ -2449,6 +2537,14 @@
       "onboard_time": 1750403541,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 127545,
+      "num": 268431,
+      "word": "特朗普被爆对打击伊朗没信心",
+      "onboard_time": 1750428085,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125968,
@@ -2820,7 +2916,7 @@
     },
     {
       "raw_hot": 105251,
-      "num": 105251,
+      "num": 150498,
       "word": "桃黑黑 今天没法直播了",
       "onboard_time": 1750426045,
       "rank": 48,
@@ -3243,11 +3339,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48135,
-      "num": 939094,
+      "raw_hot": 49517,
+      "num": 2057991,
       "word": "2025年净网护网专项工作部署会召开",
       "onboard_time": 1750420342,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49357,
+      "num": 151646,
+      "word": "北大退学上清华男生想做高精尖产业",
+      "onboard_time": 1750428145,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
