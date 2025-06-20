@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750404339285,
+  "endTime": 1750405207417,
   "band_list": [
     {
       "raw_hot": 3254925,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 819998,
+      "num": 819998,
+      "word": "焦虑症 从小吓出来的",
+      "onboard_time": 1750402342,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 790319,
       "num": 559167,
       "word": "宋茜 一个不发死字的女明星",
@@ -171,20 +179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 784783,
+      "num": 784783,
+      "word": "小孩高铁哭闹不止女生呵斥后瞬间静音",
+      "onboard_time": 1750401981,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 774727,
       "num": 760635,
       "word": "一念江南阵容官宣",
       "onboard_time": 1750385359,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 712990,
-      "num": 712990,
-      "word": "小孩高铁哭闹不止女生呵斥后瞬间静音",
-      "onboard_time": 1750401981,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 690536,
@@ -243,8 +251,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 575200,
-      "num": 575200,
+      "raw_hot": 588787,
+      "num": 588787,
       "word": "以色列顶级科研所被伊朗导弹炸成废墟",
       "onboard_time": 1750401741,
       "rank": 35,
@@ -281,14 +289,6 @@
       "onboard_time": 1750377141,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 554986,
-      "num": 554986,
-      "word": "焦虑症 从小吓出来的",
-      "onboard_time": 1750402342,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 537621,
@@ -369,6 +369,22 @@
       "onboard_time": 1750386561,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 457601,
+      "num": 457601,
+      "word": "徐艺洋和妈妈共用一张脸",
+      "onboard_time": 1750399762,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 450586,
+      "num": 450586,
+      "word": "于正被爆在闲鱼招素人演员",
+      "onboard_time": 1750403780,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 445455,
@@ -475,14 +491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 371247,
-      "num": 371247,
-      "word": "徐艺洋和妈妈共用一张脸",
-      "onboard_time": 1750399762,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 369718,
       "num": 369718,
       "word": "李昀锐关晓彤健身",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 325729,
-      "num": 291731,
+      "num": 305668,
       "word": "王家卫方否认合作杨幂赵丽颖",
       "onboard_time": 1750400240,
       "rank": 17,
@@ -715,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 259971,
+      "num": 259971,
+      "word": "黄晓明 明年再战",
+      "onboard_time": 1750401622,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250320,
       "num": 334312,
       "word": "疯产姐妹近30日掉粉超19万",
@@ -819,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220804,
+      "num": 220804,
+      "word": "林一卢昱晓 折月亮",
+      "onboard_time": 1750403481,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219240,
       "num": 351133,
       "word": "赵一鸣回应个别门店物资遭哄抢",
@@ -851,6 +875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 213730,
+      "num": 213730,
+      "word": "以色列网红家被炸",
+      "onboard_time": 1750403002,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 211532,
       "num": 211532,
       "word": "王励勤说王楚钦球拍事件不会发公告",
@@ -873,14 +905,6 @@
       "onboard_time": 1750343364,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209909,
-      "num": 209909,
-      "word": "黄晓明 明年再战",
-      "onboard_time": 1750401622,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 209690,
@@ -971,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204524,
+      "num": 204524,
+      "word": "长沙醉酒男子电梯内撕扯女孩头发",
+      "onboard_time": 1750400601,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203952,
       "num": 189677,
       "word": "男生兜里全国统一的祖传僵尸纸",
@@ -984,14 +1016,6 @@
       "word": "临江仙加更",
       "onboard_time": 1750397122,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 201249,
-      "num": 201249,
-      "word": "林一卢昱晓 折月亮",
-      "onboard_time": 1750403481,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1027,28 +1051,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196465,
-      "num": 196465,
-      "word": "于正被爆在闲鱼招素人演员",
-      "onboard_time": 1750403780,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196124,
       "num": 196124,
       "word": "爱豆转型演员的无力感",
       "onboard_time": 1750402220,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195478,
-      "num": 195478,
-      "word": "长沙醉酒男子电梯内撕扯女孩头发",
-      "onboard_time": 1750400601,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194934,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1750394484,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192037,
+      "num": 192037,
+      "word": "A股",
+      "onboard_time": 1750404501,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 190831,
@@ -1139,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184127,
+      "num": 184127,
+      "word": "苏醒高瀚宇 蛇鼠一窝的",
+      "onboard_time": 1750403961,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184017,
       "num": 184017,
       "word": "新型毒品伪装减肥剧本",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1750397722,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182838,
+      "num": 182838,
+      "word": "A股缩量1829亿元",
+      "onboard_time": 1750404622,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 181295,
@@ -1227,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167011,
+      "num": 167011,
+      "word": "北京一男子遭仅见一面亲妹抢房产",
+      "onboard_time": 1750404922,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166755,
       "num": 166755,
       "word": "相亲界已经进化成这样了吗",
@@ -1289,22 +1329,6 @@
       "onboard_time": 1750403901,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 158965,
-      "num": 158965,
-      "word": "苏醒高瀚宇 蛇鼠一窝的",
-      "onboard_time": 1750403961,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 157967,
-      "num": 162872,
-      "word": "以色列网红家被炸",
-      "onboard_time": 1750403002,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155414,
@@ -1379,6 +1403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136602,
+      "num": 136602,
+      "word": "姚琛进组耀眼",
+      "onboard_time": 1750404981,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136189,
       "num": 136189,
       "word": "美国末日飞机敏感时刻现异常动向",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1750399822,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135599,
+      "num": 135599,
+      "word": "常州把恐龙搬到奥体助阵",
+      "onboard_time": 1750404622,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 134992,
@@ -1433,6 +1473,14 @@
       "onboard_time": 1750400542,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131104,
+      "num": 131104,
+      "word": "致死量腮红",
+      "onboard_time": 1750401681,
+      "rank": 47,
+      "category": "美妆,幽默"
     },
     {
       "raw_hot": 129099,
@@ -1659,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102736,
+      "num": 333220,
+      "word": "湖北农科院一岗位招聘被指萝卜坑",
+      "onboard_time": 1750404141,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101531,
       "num": 101531,
       "word": "李桑元 leo",
@@ -1851,6 +1907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66297,
+      "num": 484990,
+      "word": "真没时间闹了618天猫大额券用了吗",
+      "onboard_time": 1750399462,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 66283,
       "num": 299747,
       "word": "男子动物园抓孔雀被制止反问为啥不能",
@@ -1884,7 +1948,7 @@
     },
     {
       "raw_hot": 63571,
-      "num": 302843,
+      "num": 355508,
       "word": "金融专业毕业还能拿高薪吗",
       "onboard_time": 1750397542,
       "rank": 19,
@@ -1908,7 +1972,7 @@
     },
     {
       "raw_hot": 60088,
-      "num": 306373,
+      "num": 390719,
       "word": "北京中轴线上的展览",
       "onboard_time": 1750403122,
       "rank": 18,
@@ -1963,19 +2027,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 49056,
-      "num": 484990,
-      "word": "真没时间闹了618天猫大额券用了吗",
-      "onboard_time": 1750399462,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 47944,
       "num": 192303,
       "word": "当地回应男子称被交警打断9根肋骨",
       "onboard_time": 1750384880,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42591,
+      "num": 152636,
+      "word": "网购羊初乳得布病",
+      "onboard_time": 1750404622,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1996,7 +2060,7 @@
     },
     {
       "raw_hot": 39318,
-      "num": 403544,
+      "num": 443947,
       "word": "想跟白鹿吃吃喝喝玩玩乐乐",
       "onboard_time": 1750399582,
       "rank": 13,
@@ -2019,20 +2083,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36622,
-      "num": 197274,
-      "word": "湖北农科院一岗位招聘被指萝卜坑",
-      "onboard_time": 1750404141,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34857,
       "num": 165637,
       "word": "国内首部情感反诈互动影游",
       "onboard_time": 1750389322,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 33722,
+      "num": 820941,
+      "word": "北京范儿",
+      "onboard_time": 1750404501,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32071,
@@ -2065,6 +2129,14 @@
       "onboard_time": 1750390160,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27114,
+      "num": 515529,
+      "word": "救57人女干部获优秀共产党员称号",
+      "onboard_time": 1750404680,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26191,

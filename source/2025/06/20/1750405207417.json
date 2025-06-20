@@ -1,0 +1,410 @@
+{
+  "runTime": 1750405207417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1271945,
+        "num": 1271945,
+        "word": "黄晓明回应考博落榜",
+        "onboard_time": 1750396522,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 821965,
+        "num": 821965,
+        "word": "仅退款引发商家极端要求",
+        "onboard_time": 1750395683,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33722,
+        "num": 820941,
+        "word": "北京范儿",
+        "onboard_time": 1750404501,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 994846,
+        "num": 820859,
+        "word": "邵雨轩晒与小花聊天记录",
+        "onboard_time": 1750398622,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819998,
+        "num": 819998,
+        "word": "焦虑症 从小吓出来的",
+        "onboard_time": 1750402342,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 784783,
+        "num": 784783,
+        "word": "小孩高铁哭闹不止女生呵斥后瞬间静音",
+        "onboard_time": 1750401981,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652739,
+        "num": 652739,
+        "word": "教育厅回应那尔那茜定向委培事件",
+        "onboard_time": 1750393283,
+        "rank": 6,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 588787,
+        "num": 588787,
+        "word": "以色列顶级科研所被伊朗导弹炸成废墟",
+        "onboard_time": 1750401741,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 585621,
+        "num": 585621,
+        "word": "大学生HIV感染情况",
+        "onboard_time": 1750386622,
+        "rank": 8,
+        "category": "健康医疗,教育"
+      },
+      {
+        "raw_hot": 27114,
+        "num": 515529,
+        "word": "救57人女干部获优秀共产党员称号",
+        "onboard_time": 1750404680,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599919,
+        "num": 507842,
+        "word": "伊朗导弹直接命中在以中国留学生校园",
+        "onboard_time": 1750395741,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 487585,
+        "num": 487585,
+        "word": "曾毅因身体原因暂停工作",
+        "onboard_time": 1750392203,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473487,
+        "num": 473487,
+        "word": "李栋旭皱纹全长在眼皮上了",
+        "onboard_time": 1750402161,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457601,
+        "num": 457601,
+        "word": "徐艺洋和妈妈共用一张脸",
+        "onboard_time": 1750399762,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450586,
+        "num": 450586,
+        "word": "于正被爆在闲鱼招素人演员",
+        "onboard_time": 1750403780,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25919,
+        "num": 443947,
+        "word": "想跟白鹿吃吃喝喝玩玩乐乐",
+        "onboard_time": 1750399582,
+        "rank": 15,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 283084,
+        "num": 400474,
+        "word": "以色列暗杀10名伊朗核科学家",
+        "onboard_time": 1750394363,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47561,
+        "num": 390719,
+        "word": "北京中轴线上的展览",
+        "onboard_time": 1750403122,
+        "rank": 17,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 38496,
+        "num": 355508,
+        "word": "金融专业毕业还能拿高薪吗",
+        "onboard_time": 1750397542,
+        "rank": 18,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 102736,
+        "num": 333220,
+        "word": "湖北农科院一岗位招聘被指萝卜坑",
+        "onboard_time": 1750404141,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316667,
+        "num": 316667,
+        "word": "赛琳娜海莉比伯互相取关",
+        "onboard_time": 1750399223,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305668,
+        "num": 305668,
+        "word": "王家卫方否认合作杨幂赵丽颖",
+        "onboard_time": 1750400240,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288759,
+        "num": 288759,
+        "word": "现在就出发3原班人马",
+        "onboard_time": 1750387760,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259971,
+        "num": 259971,
+        "word": "黄晓明 明年再战",
+        "onboard_time": 1750401622,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252111,
+        "num": 252111,
+        "word": "以色列首都越来越像加沙了",
+        "onboard_time": 1750394304,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235858,
+        "num": 235858,
+        "word": "闲鱼 刘宇宁",
+        "onboard_time": 1750390100,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 234146,
+        "num": 234146,
+        "word": "汪苏泷演唱会获全球设计大奖",
+        "onboard_time": 1750393464,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220804,
+        "num": 220804,
+        "word": "林一卢昱晓 折月亮",
+        "onboard_time": 1750403481,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213730,
+        "num": 213730,
+        "word": "以色列网红家被炸",
+        "onboard_time": 1750403002,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204524,
+        "num": 204524,
+        "word": "长沙醉酒男子电梯内撕扯女孩头发",
+        "onboard_time": 1750400601,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195626,
+        "num": 195626,
+        "word": "黄金给所有人都上了一课",
+        "onboard_time": 1750376600,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192037,
+        "num": 192037,
+        "word": "A股",
+        "onboard_time": 1750404501,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186136,
+        "num": 186136,
+        "word": "爱豆转型演员的无力感",
+        "onboard_time": 1750402220,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184127,
+        "num": 184127,
+        "word": "苏醒高瀚宇 蛇鼠一窝的",
+        "onboard_time": 1750403961,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182838,
+        "num": 182838,
+        "word": "A股缩量1829亿元",
+        "onboard_time": 1750404622,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180824,
+        "num": 180824,
+        "word": "短剧圈的真情侣",
+        "onboard_time": 1750401502,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173084,
+        "num": 173084,
+        "word": "伊朗导弹数量超过美以拦截弹数量",
+        "onboard_time": 1750389981,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167011,
+        "num": 167011,
+        "word": "北京一男子遭仅见一面亲妹抢房产",
+        "onboard_time": 1750404922,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42591,
+        "num": 152636,
+        "word": "网购羊初乳得布病",
+        "onboard_time": 1750404622,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119057,
+        "num": 152235,
+        "word": "NBA",
+        "onboard_time": 1750404021,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152154,
+        "num": 152154,
+        "word": "杨幂素颜聚餐照",
+        "onboard_time": 1750398622,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150852,
+        "num": 150852,
+        "word": "从没想过自己偷感这么重",
+        "onboard_time": 1750403901,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66297,
+        "num": 146886,
+        "word": "真没时间闹了618天猫大额券用了吗",
+        "onboard_time": 1750399462,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144310,
+        "num": 144310,
+        "word": "张婧仪确诊为多肉型女主",
+        "onboard_time": 1750399582,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136602,
+        "num": 136602,
+        "word": "姚琛进组耀眼",
+        "onboard_time": 1750404981,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135599,
+        "num": 135599,
+        "word": "常州把恐龙搬到奥体助阵",
+        "onboard_time": 1750404622,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134242,
+        "num": 134242,
+        "word": "周柯宇吻戏好用力",
+        "onboard_time": 1750402582,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131104,
+        "num": 131104,
+        "word": "致死量腮红",
+        "onboard_time": 1750401681,
+        "rank": 47,
+        "category": "美妆,幽默"
+      },
+      {
+        "raw_hot": 126389,
+        "num": 126389,
+        "word": "王大陆找黑道帮女友讨债",
+        "onboard_time": 1750391361,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124865,
+        "num": 124865,
+        "word": "曾毅手表",
+        "onboard_time": 1750393583,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#书写中国中亚合作新篇章#"
+    }
+  }
+}
