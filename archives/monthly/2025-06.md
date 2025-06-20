@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/20 10:01:47
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/20 10:25:07
 </p>
 </blockquote>
 <p>
@@ -3819,6 +3819,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
+一念江南阵容官宣（热度：760635）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E4%BA%B2%E7%A9%BA%E6%B0%94%E8%BF%98%E8%A6%81%E7%BF%BB%E9%9D%A2%23" target="weibo">
 王安宇亲空气还要翻面（热度：758606）
 </a>
@@ -6005,12 +6011,6 @@ GAI 大白嗓（热度：583445）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E9%80%9A%E6%8A%A5%E4%B8%80%E5%90%8D6%E5%B9%B4%E7%BA%A7%E7%94%B7%E7%94%9F%E5%9D%A0%E6%A5%BC%23" target="weibo">
 桂林通报一名6年级男生坠楼（热度：558020）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E4%B8%8A%E7%A9%BA%E7%88%86%E7%82%B8%E4%B8%80%E5%A3%B0%E6%8E%A5%E4%B8%80%E5%A3%B0%23" target="weibo">
-伊朗首都上空爆炸一声接一声（热度：557925）
 </a>
 </li>
 

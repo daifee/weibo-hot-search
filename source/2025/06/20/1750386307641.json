@@ -1,0 +1,410 @@
+{
+  "runTime": 1750386307641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1241737,
+        "num": 1241737,
+        "word": "怀集赵一鸣",
+        "onboard_time": 1750381581,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 918266,
+        "num": 918266,
+        "word": "黄金给所有人都上了一课",
+        "onboard_time": 1750376600,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17457,
+        "num": 824152,
+        "word": "青春华章赣劲十足",
+        "onboard_time": 1750340123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762591,
+        "num": 762591,
+        "word": "北大第一节课退学考上清华男子发声",
+        "onboard_time": 1750379122,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 760635,
+        "num": 760635,
+        "word": "一念江南阵容官宣",
+        "onboard_time": 1750385359,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 753209,
+        "num": 753209,
+        "word": "李昀锐直播引导粉丝",
+        "onboard_time": 1750381642,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566150,
+        "num": 566150,
+        "word": "那尔那茜",
+        "onboard_time": 1750384761,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454893,
+        "num": 454893,
+        "word": "伊朗首都上空爆炸一声接一声",
+        "onboard_time": 1750377141,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422677,
+        "num": 422677,
+        "word": "王皓考编总成绩第1",
+        "onboard_time": 1750375219,
+        "rank": 8,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 66547,
+        "num": 404773,
+        "word": "泰总理为通话泄露道歉",
+        "onboard_time": 1750384880,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 392787,
+        "num": 392787,
+        "word": "俄方警告美国不要军事干预",
+        "onboard_time": 1750380742,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 390896,
+        "num": 390896,
+        "word": "迪丽热巴金世佳利剑玫瑰来了",
+        "onboard_time": 1750381101,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380512,
+        "num": 380512,
+        "word": "东部战区海军回应英舰过航台湾海峡",
+        "onboard_time": 1750383020,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320110,
+        "num": 320110,
+        "word": "北语张爱玲教授逝世终年58岁",
+        "onboard_time": 1750376780,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66283,
+        "num": 299747,
+        "word": "男子动物园抓孔雀被制止反问为啥不能",
+        "onboard_time": 1750385542,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299167,
+        "num": 299167,
+        "word": "特朗普两周内决定是否攻击伊朗",
+        "onboard_time": 1750375400,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297930,
+        "num": 297930,
+        "word": "李昀锐关晓彤健身",
+        "onboard_time": 1750377200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252072,
+        "num": 252072,
+        "word": "30枚导弹射向以色列",
+        "onboard_time": 1750376300,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229564,
+        "num": 238033,
+        "word": "迪丽热巴邓为 漩涡",
+        "onboard_time": 1750378761,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123420,
+        "num": 235920,
+        "word": "临澧烟花厂爆炸有家属收到逾百万赔偿款",
+        "onboard_time": 1750384941,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235280,
+        "num": 235280,
+        "word": "各地高考查分时间最新汇总",
+        "onboard_time": 1750381223,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218325,
+        "num": 218325,
+        "word": "建议每周洗一次床单",
+        "onboard_time": 1750348821,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214493,
+        "num": 214493,
+        "word": "顿顿离职后计划",
+        "onboard_time": 1750384941,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206063,
+        "num": 206063,
+        "word": "赵樱子自曝曾和流量小生暧昧",
+        "onboard_time": 1750377382,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55565,
+        "num": 202608,
+        "word": "Labubu补货后二手报价腰斩",
+        "onboard_time": 1750383321,
+        "rank": 24,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 200244,
+        "num": 200244,
+        "word": "字节小米位列中国全球化品牌前二",
+        "onboard_time": 1750382240,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199560,
+        "num": 199560,
+        "word": "脑死亡孕妇因堕胎禁令4个月后产子",
+        "onboard_time": 1750339641,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198727,
+        "num": 198727,
+        "word": "NBA总决赛",
+        "onboard_time": 1750381522,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164129,
+        "num": 194521,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1750384461,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47944,
+        "num": 192303,
+        "word": "当地回应男子称被交警打断9根肋骨",
+        "onboard_time": 1750384880,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294396,
+        "num": 192057,
+        "word": "日本稻田里的小龙虾被烫熟了",
+        "onboard_time": 1750385482,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190542,
+        "num": 190542,
+        "word": "美14架载军事装备的飞机飞抵以色列",
+        "onboard_time": 1750383859,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188229,
+        "num": 188229,
+        "word": "TF家族运动会官宣",
+        "onboard_time": 1750386141,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157109,
+        "num": 183054,
+        "word": "邢菲杨幂生万物演姐妹",
+        "onboard_time": 1750382600,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181724,
+        "num": 181724,
+        "word": "司机不解说女乘客香被封号",
+        "onboard_time": 1750375278,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163991,
+        "num": 163991,
+        "word": "梅西说C罗仍在最高水平",
+        "onboard_time": 1750383380,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160734,
+        "num": 160734,
+        "word": "女村支书制止男子烧草木灰被其杀害",
+        "onboard_time": 1750346901,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153887,
+        "num": 153887,
+        "word": "原来这才是8小时工作制",
+        "onboard_time": 1750378463,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150610,
+        "num": 150610,
+        "word": "夫妻开饭店双双被确诊恶性乳腺癌",
+        "onboard_time": 1750339342,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105711,
+        "num": 145847,
+        "word": "捞女游戏好评如潮",
+        "onboard_time": 1750385660,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142253,
+        "num": 142253,
+        "word": "藏海传 庆功宴",
+        "onboard_time": 1750375159,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133716,
+        "num": 133716,
+        "word": "夏至将至愿美好如约而至",
+        "onboard_time": 1750386081,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 125490,
+        "num": 125490,
+        "word": "时代少年团不去运动会",
+        "onboard_time": 1750386200,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114565,
+        "num": 114565,
+        "word": "捞女游戏留言板",
+        "onboard_time": 1750382542,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114332,
+        "num": 114332,
+        "word": "美国仍在继续与伊朗联络",
+        "onboard_time": 1750384401,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112069,
+        "num": 112069,
+        "word": "我们的宿舍",
+        "onboard_time": 1750385721,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110312,
+        "num": 110312,
+        "word": "抗癌博主李大去世",
+        "onboard_time": 1750378702,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109685,
+        "num": 109685,
+        "word": "金价跌跌不休",
+        "onboard_time": 1750352718,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109565,
+        "num": 109565,
+        "word": "代露娃跑男千金出场",
+        "onboard_time": 1750375760,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108495,
+        "num": 108495,
+        "word": "使馆协助中国公民分批转移撤离以色列",
+        "onboard_time": 1750386020,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京通电话#"
+    }
+  }
+}

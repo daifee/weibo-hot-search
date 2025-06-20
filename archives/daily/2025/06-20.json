@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750384907274,
+  "endTime": 1750386307641,
   "band_list": [
     {
       "raw_hot": 1448917,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 760635,
+      "num": 760635,
+      "word": "一念江南阵容官宣",
+      "onboard_time": 1750385359,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 677326,
       "num": 935799,
       "word": "伊朗出动超100架无人机打击以军",
@@ -65,6 +73,14 @@
       "onboard_time": 1750339342,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 566150,
+      "num": 566150,
+      "word": "那尔那茜",
+      "onboard_time": 1750384761,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 557925,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 531155,
-      "num": 359776,
+      "num": 392787,
       "word": "俄方警告美国不要军事干预",
       "onboard_time": 1750380742,
       "rank": 10,
@@ -163,6 +179,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 390896,
+      "num": 390896,
+      "word": "迪丽热巴金世佳利剑玫瑰来了",
+      "onboard_time": 1750381101,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 380512,
+      "num": 380512,
+      "word": "东部战区海军回应英舰过航台湾海峡",
+      "onboard_time": 1750383020,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 369718,
       "num": 369718,
       "word": "李昀锐关晓彤健身",
@@ -227,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 326208,
-      "num": 326208,
-      "word": "东部战区海军回应英舰过航台湾海峡",
-      "onboard_time": 1750383020,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 324504,
       "num": 324504,
       "word": "王楚钦向前看放轻松",
@@ -265,6 +289,14 @@
       "onboard_time": 1750346242,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294396,
+      "num": 192057,
+      "word": "日本稻田里的小龙虾被烫熟了",
+      "onboard_time": 1750385482,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 291134,
@@ -323,14 +355,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 236623,
-      "num": 246776,
-      "word": "迪丽热巴金世佳利剑玫瑰来了",
-      "onboard_time": 1750381101,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236026,
       "num": 236026,
       "word": "NBA总决赛",
@@ -369,6 +393,14 @@
       "onboard_time": 1750378463,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214493,
+      "num": 214493,
+      "word": "顿顿离职后计划",
+      "onboard_time": 1750384941,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 211532,
@@ -433,6 +465,14 @@
       "onboard_time": 1750378702,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188229,
+      "num": 188229,
+      "word": "TF家族运动会官宣",
+      "onboard_time": 1750386141,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 184464,
@@ -539,14 +579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 138217,
-      "num": 138217,
-      "word": "那尔那茜",
-      "onboard_time": 1750384761,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136189,
       "num": 136189,
       "word": "美国末日飞机敏感时刻现异常动向",
@@ -563,11 +595,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133716,
+      "num": 133716,
+      "word": "夏至将至愿美好如约而至",
+      "onboard_time": 1750386081,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 129099,
       "num": 129099,
       "word": "怀集洪水",
       "onboard_time": 1750382421,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125490,
+      "num": 125490,
+      "word": "时代少年团不去运动会",
+      "onboard_time": 1750386200,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123420,
+      "num": 235920,
+      "word": "临澧烟花厂爆炸有家属收到逾百万赔偿款",
+      "onboard_time": 1750384941,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -611,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114565,
+      "num": 114565,
+      "word": "捞女游戏留言板",
+      "onboard_time": 1750382542,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114472,
       "num": 114472,
       "word": "原神",
@@ -633,6 +697,14 @@
       "onboard_time": 1750383921,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112069,
+      "num": 112069,
+      "word": "我们的宿舍",
+      "onboard_time": 1750385721,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 111835,
@@ -667,6 +739,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 108495,
+      "num": 108495,
+      "word": "使馆协助中国公民分批转移撤离以色列",
+      "onboard_time": 1750386020,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108207,
       "num": 170380,
       "word": "曾舜晞我承认之前对你大声了点",
@@ -681,6 +761,14 @@
       "onboard_time": 1750365134,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105711,
+      "num": 145847,
+      "word": "捞女游戏好评如潮",
+      "onboard_time": 1750385660,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 105587,
@@ -827,6 +915,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66547,
+      "num": 404773,
+      "word": "泰总理为通话泄露道歉",
+      "onboard_time": 1750384880,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 66283,
+      "num": 299747,
+      "word": "男子动物园抓孔雀被制止反问为啥不能",
+      "onboard_time": 1750385542,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61378,
       "num": 61378,
       "word": "迈阿密国际vs波尔图",
@@ -859,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55565,
+      "num": 202608,
+      "word": "Labubu补货后二手报价腰斩",
+      "onboard_time": 1750383321,
+      "rank": 24,
+      "category": "财经,时尚"
+    },
+    {
       "raw_hot": 55431,
       "num": 322593,
       "word": "中国公民讲述从伊朗撤离的72小时",
@@ -873,6 +985,14 @@
       "onboard_time": 1750354457,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47944,
+      "num": 192303,
+      "word": "当地回应男子称被交警打断9根肋骨",
+      "onboard_time": 1750384880,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42497,
@@ -939,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19347,
-      "num": 133667,
-      "word": "泰总理为通话泄露道歉",
-      "onboard_time": 1750384880,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19310,
       "num": 88988,
       "word": "如果做了一款渣男游戏",
@@ -969,14 +1081,6 @@
       "onboard_time": 1750375339,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14936,
-      "num": 117659,
-      "word": "当地回应男子称被交警打断9根肋骨",
-      "onboard_time": 1750384880,
-      "rank": 44,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
