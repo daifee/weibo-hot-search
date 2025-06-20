@@ -1,0 +1,410 @@
+{
+  "runTime": 1750411714838,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2031906,
+        "num": 2031906,
+        "word": "清华回应女教授被树砸身亡",
+        "onboard_time": 1750406181,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1064345,
+        "num": 1064345,
+        "word": "花少7网传最终阵容",
+        "onboard_time": 1750409781,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51144,
+        "num": 910987,
+        "word": "锦绣天府安逸四川",
+        "onboard_time": 1750408940,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1844302,
+        "num": 886572,
+        "word": "赵一鸣零食店遭哄抢已移交公安处理",
+        "onboard_time": 1750406781,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 848477,
+        "num": 848477,
+        "word": "北大退学男子一战669分二战716分",
+        "onboard_time": 1750405582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689552,
+        "num": 689552,
+        "word": "杀害杨靖宇日本军官自杀前的遗言",
+        "onboard_time": 1750405763,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 555228,
+        "num": 555228,
+        "word": "于正被爆在闲鱼招素人演员",
+        "onboard_time": 1750403780,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548023,
+        "num": 548023,
+        "word": "黄晓明回应考博落榜",
+        "onboard_time": 1750396522,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531929,
+        "num": 531929,
+        "word": "砍死祖孙三代凶手称吃5年精神病药",
+        "onboard_time": 1750407202,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178221,
+        "num": 455425,
+        "word": "贷款40余万开蛋糕店7个月遇洪水倒闭",
+        "onboard_time": 1750406362,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452214,
+        "num": 452214,
+        "word": "大学生HIV感染情况",
+        "onboard_time": 1750386622,
+        "rank": 10,
+        "category": "健康医疗,教育"
+      },
+      {
+        "raw_hot": 448805,
+        "num": 448805,
+        "word": "淘宝闪购",
+        "onboard_time": 1750406722,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 393579,
+        "num": 393579,
+        "word": "邵雨轩晒与小花聊天记录",
+        "onboard_time": 1750398622,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391887,
+        "num": 391887,
+        "word": "现在就出发",
+        "onboard_time": 1750409121,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38450,
+        "num": 366772,
+        "word": "律师评怀集水灾后一零食店疑遭哄抢",
+        "onboard_time": 1750410143,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348820,
+        "num": 348820,
+        "word": "焦虑症 从小吓出来的",
+        "onboard_time": 1750402342,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339257,
+        "num": 339257,
+        "word": "伊朗导弹直接命中在以中国留学生校园",
+        "onboard_time": 1750395741,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333865,
+        "num": 333865,
+        "word": "曾毅因身体原因暂停工作",
+        "onboard_time": 1750392203,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300144,
+        "num": 300144,
+        "word": "徐艺洋和妈妈共用一张脸",
+        "onboard_time": 1750399762,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254700,
+        "num": 300050,
+        "word": "超9000应用具有鸿蒙独特功能",
+        "onboard_time": 1750408641,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 299998,
+        "num": 299998,
+        "word": "00后极简出门不背包也太爽了",
+        "onboard_time": 1750408162,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 296401,
+        "num": 296401,
+        "word": "周继红受聘为国家跳水队总教练",
+        "onboard_time": 1750407982,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279502,
+        "num": 279502,
+        "word": "以色列顶级科研所被伊朗导弹炸成废墟",
+        "onboard_time": 1750401741,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230142,
+        "num": 230142,
+        "word": "李栋旭皱纹全长在眼皮上了",
+        "onboard_time": 1750402161,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67695,
+        "num": 227386,
+        "word": "PEL闯进古装圈",
+        "onboard_time": 1750411160,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226894,
+        "num": 226894,
+        "word": "小孩高铁哭闹不止女生呵斥后瞬间静音",
+        "onboard_time": 1750401981,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219396,
+        "num": 219396,
+        "word": "周柯宇吻戏好用力",
+        "onboard_time": 1750402582,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207909,
+        "num": 207909,
+        "word": "董子健终于加入邓超孙俪这个家了",
+        "onboard_time": 1750410681,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203471,
+        "num": 203471,
+        "word": "张爱玲 清华",
+        "onboard_time": 1750410982,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203325,
+        "num": 203325,
+        "word": "北京一男子遭仅见一面亲妹抢房产",
+        "onboard_time": 1750404922,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195911,
+        "num": 195911,
+        "word": "歌手2025首次开启双曲袭榜",
+        "onboard_time": 1750407622,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188963,
+        "num": 188963,
+        "word": "骆歆cos薇恩",
+        "onboard_time": 1750411101,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188552,
+        "num": 188552,
+        "word": "战胜单依纯的潘虹被淘汰了",
+        "onboard_time": 1750409961,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170846,
+        "num": 170846,
+        "word": "以色列总理称目标提前完成",
+        "onboard_time": 1750410861,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165486,
+        "num": 165486,
+        "word": "现在就出发3原班人马",
+        "onboard_time": 1750387760,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163711,
+        "num": 163711,
+        "word": "仅退款引发商家极端要求",
+        "onboard_time": 1750395683,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152960,
+        "num": 152960,
+        "word": "赛琳娜海莉比伯互相取关",
+        "onboard_time": 1750399223,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148945,
+        "num": 148945,
+        "word": "汪苏泷演唱会获全球设计大奖",
+        "onboard_time": 1750393464,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145755,
+        "num": 145755,
+        "word": "清华大学",
+        "onboard_time": 1750410081,
+        "rank": 38,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 65074,
+        "num": 145563,
+        "word": "世界之外如星璀璨",
+        "onboard_time": 1750411521,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145420,
+        "num": 145420,
+        "word": "男子30多万娶妻后新娘迟迟不领证",
+        "onboard_time": 1750407081,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140372,
+        "num": 140372,
+        "word": "王家卫方否认合作杨幂赵丽颖",
+        "onboard_time": 1750400240,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138870,
+        "num": 138870,
+        "word": "北语张爱玲教授系因意外离世",
+        "onboard_time": 1750407202,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 137016,
+        "num": 137016,
+        "word": "以色列网红家被炸",
+        "onboard_time": 1750403002,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129710,
+        "num": 129710,
+        "word": "被曾舜晞冻干围脖扇感冒了",
+        "onboard_time": 1750411521,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128666,
+        "num": 128666,
+        "word": "懒人有懒福具象化了",
+        "onboard_time": 1750411160,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127185,
+        "num": 127185,
+        "word": "建议成人吃荔枝每日不超过10颗",
+        "onboard_time": 1750410320,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126987,
+        "num": 126987,
+        "word": "清华大学加强安全管理保障校园安全",
+        "onboard_time": 1750407982,
+        "rank": 47,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 122297,
+        "num": 122297,
+        "word": "我妈凌晨开车4小时送邻居回老家",
+        "onboard_time": 1750411581,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118417,
+        "num": 118417,
+        "word": "孙俪祝董子健2025开心每一天",
+        "onboard_time": 1750409481,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新西兰总理拉克森#"
+    }
+  }
+}
