@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750448227891,
+  "endTime": 1750451318061,
   "band_list": [
     {
       "raw_hot": 1781309,
@@ -523,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29781,
+      "num": 29282,
+      "word": "豆包p图指令",
+      "onboard_time": 1750446854,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 28295,
       "num": 28295,
       "word": "47岁网红主播天宇因心梗去世",
@@ -553,14 +561,6 @@
       "onboard_time": 1750445355,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20394,
-      "num": 20394,
-      "word": "豆包p图指令",
-      "onboard_time": 1750446854,
-      "rank": 35,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
