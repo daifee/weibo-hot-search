@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750405207417,
+  "endTime": 1750408467384,
   "band_list": [
     {
       "raw_hot": 3254925,
@@ -9,6 +9,14 @@
       "onboard_time": 1750391722,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2638959,
+      "num": 2638959,
+      "word": "清华回应女教授被树砸身亡",
+      "onboard_time": 1750406181,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2070780,
@@ -123,11 +131,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1023415,
+      "num": 1023415,
+      "word": "杀害杨靖宇日本军官自杀前的遗言",
+      "onboard_time": 1750405763,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 969809,
       "num": 673776,
       "word": "那尔那茜",
       "onboard_time": 1750384761,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 963529,
+      "num": 963529,
+      "word": "于正被爆在闲鱼招素人演员",
+      "onboard_time": 1750403780,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -193,6 +217,14 @@
       "onboard_time": 1750385359,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 728276,
+      "num": 728276,
+      "word": "赵一鸣零食店遭哄抢已移交公安处理",
+      "onboard_time": 1750406781,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 690536,
@@ -376,14 +408,6 @@
       "word": "徐艺洋和妈妈共用一张脸",
       "onboard_time": 1750399762,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 450586,
-      "num": 450586,
-      "word": "于正被爆在闲鱼招素人演员",
-      "onboard_time": 1750403780,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -571,12 +595,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324688,
+      "num": 269866,
+      "word": "以色列网红家被炸",
+      "onboard_time": 1750403002,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324504,
       "num": 324504,
       "word": "王楚钦向前看放轻松",
       "onboard_time": 1750347622,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322734,
+      "num": 322734,
+      "word": "北京一男子遭仅见一面亲妹抢房产",
+      "onboard_time": 1750404922,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321760,
@@ -667,6 +707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277022,
+      "num": 277022,
+      "word": "北大退学男子一战669分二战716分",
+      "onboard_time": 1750405582,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268680,
       "num": 268680,
       "word": "美国女孩喂流浪犬被40只狗围咬致死",
@@ -731,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256783,
+      "num": 256783,
+      "word": "歌手2025首次开启双曲袭榜",
+      "onboard_time": 1750407622,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250320,
       "num": 334312,
       "word": "疯产姐妹近30日掉粉超19万",
@@ -779,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235408,
+      "num": 235408,
+      "word": "00后极简出门不背包也太爽了",
+      "onboard_time": 1750408162,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 235079,
       "num": 229504,
       "word": "留英博士强奸案",
@@ -795,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233190,
+      "num": 233190,
+      "word": "周继红受聘为国家跳水队总教练",
+      "onboard_time": 1750407982,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228683,
       "num": 228683,
       "word": "美14架载军事装备的飞机飞抵以色列",
@@ -809,6 +881,14 @@
       "onboard_time": 1750395203,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226327,
+      "num": 453762,
+      "word": "清华大学加强安全管理保障校园安全",
+      "onboard_time": 1750407982,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 224469,
@@ -867,20 +947,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214515,
+      "num": 214515,
+      "word": "松弛感家庭的孩子会怎样",
+      "onboard_time": 1750407441,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214493,
       "num": 214493,
       "word": "顿顿离职后计划",
       "onboard_time": 1750384941,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 213730,
-      "num": 213730,
-      "word": "以色列网红家被炸",
-      "onboard_time": 1750403002,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 211532,
@@ -1011,6 +1091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201510,
+      "num": 201510,
+      "word": "北语张爱玲教授系因意外离世",
+      "onboard_time": 1750407202,
+      "rank": 31,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 201431,
       "num": 194715,
       "word": "临江仙加更",
@@ -1041,6 +1129,14 @@
       "onboard_time": 1750389202,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198844,
+      "num": 198844,
+      "word": "男子30多万娶妻后新娘迟迟不领证",
+      "onboard_time": 1750407081,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198401,
@@ -1075,12 +1171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194205,
+      "num": 194205,
+      "word": "孟佳高开叉黑裙",
+      "onboard_time": 1750408102,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192037,
       "num": 192037,
       "word": "A股",
       "onboard_time": 1750404501,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 191048,
+      "num": 191048,
+      "word": "贷款40余万开蛋糕店7个月遇洪水倒闭",
+      "onboard_time": 1750406362,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190831,
@@ -1227,6 +1339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 173401,
+      "num": 173401,
+      "word": "七根心简五个人只有一个完整的家",
+      "onboard_time": 1750407982,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173159,
       "num": 173159,
       "word": "伊朗还有多少底牌",
@@ -1257,14 +1377,6 @@
       "onboard_time": 1750343722,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167011,
-      "num": 167011,
-      "word": "北京一男子遭仅见一面亲妹抢房产",
-      "onboard_time": 1750404922,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166755,
@@ -1339,6 +1451,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151453,
+      "num": 151453,
+      "word": "为什么这个行业不加班",
+      "onboard_time": 1750406902,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 150752,
+      "num": 262046,
+      "word": "范丞丞真成跑男导演了",
+      "onboard_time": 1750406961,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150699,
+      "num": 150699,
+      "word": "砍死祖孙三代凶手称吃5年精神病药",
+      "onboard_time": 1750407202,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148537,
       "num": 148537,
       "word": "雷霆vs步行者",
@@ -1377,6 +1513,22 @@
       "onboard_time": 1750387102,
       "rank": 47,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 146258,
+      "num": 146258,
+      "word": "黑神话悟空首次折扣",
+      "onboard_time": 1750407382,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 146210,
+      "num": 146210,
+      "word": "常州把恐龙搬到奥体助阵",
+      "onboard_time": 1750404622,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 144803,
@@ -1420,19 +1572,11 @@
     },
     {
       "raw_hot": 135721,
-      "num": 135721,
+      "num": 271267,
       "word": "偶遇高圆圆西班牙带女儿吃麻辣烫",
       "onboard_time": 1750399822,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135599,
-      "num": 135599,
-      "word": "常州把恐龙搬到奥体助阵",
-      "onboard_time": 1750404622,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 134992,
@@ -1691,6 +1835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105606,
+      "num": 270014,
+      "word": "Lee你小子真会挑代言人",
+      "onboard_time": 1750407081,
+      "rank": 19,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 105587,
       "num": 105587,
       "word": "20岁男子闻啥都有臭味竟是鼻子发霉",
@@ -1859,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78800,
+      "num": 182112,
+      "word": "取消国补是谣言",
+      "onboard_time": 1750397843,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78017,
       "num": 78017,
       "word": "伊朗导弹击中特拉维夫多处建筑",
@@ -1971,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60129,
+      "num": 173470,
+      "word": "徐州桃子遭哄抢",
+      "onboard_time": 1750406842,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60088,
       "num": 390719,
       "word": "北京中轴线上的展览",
@@ -1993,6 +2161,14 @@
       "onboard_time": 1750375880,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56065,
+      "num": 208848,
+      "word": "FE赛车冠军车队揭秘",
+      "onboard_time": 1750405882,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 55993,
@@ -2083,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35836,
+      "num": 145269,
+      "word": "在以中国人称目前生活正常物价稳定",
+      "onboard_time": 1750406481,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34857,
       "num": 165637,
       "word": "国内首部情感反诈互动影游",
@@ -2092,7 +2276,7 @@
     },
     {
       "raw_hot": 33722,
-      "num": 820941,
+      "num": 972977,
       "word": "北京范儿",
       "onboard_time": 1750404501,
       "rank": 2,
@@ -2169,6 +2353,14 @@
       "onboard_time": 1750399822,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22909,
+      "num": 173408,
+      "word": "燕云十六声",
+      "onboard_time": 1750403841,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 21764,
@@ -2268,6 +2460,9 @@
     },
     {
       "word": "#书写中国中亚合作新篇章#"
+    },
+    {
+      "word": "#习近平会见新西兰总理拉克森#"
     }
   ]
 }

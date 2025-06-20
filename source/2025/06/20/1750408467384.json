@@ -1,0 +1,410 @@
+{
+  "runTime": 1750408467384,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2638959,
+        "num": 2638959,
+        "word": "清华回应女教授被树砸身亡",
+        "onboard_time": 1750406181,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1023415,
+        "num": 1023415,
+        "word": "杀害杨靖宇日本军官自杀前的遗言",
+        "onboard_time": 1750405763,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11296,
+        "num": 972977,
+        "word": "北京范儿",
+        "onboard_time": 1750404501,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 963529,
+        "num": 963529,
+        "word": "于正被爆在闲鱼招素人演员",
+        "onboard_time": 1750403780,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 753631,
+        "num": 753631,
+        "word": "黄晓明回应考博落榜",
+        "onboard_time": 1750396522,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728276,
+        "num": 728276,
+        "word": "赵一鸣零食店遭哄抢已移交公安处理",
+        "onboard_time": 1750406781,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674574,
+        "num": 674574,
+        "word": "邵雨轩晒与小花聊天记录",
+        "onboard_time": 1750398622,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664123,
+        "num": 664123,
+        "word": "焦虑症 从小吓出来的",
+        "onboard_time": 1750402342,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 490180,
+        "num": 490180,
+        "word": "大学生HIV感染情况",
+        "onboard_time": 1750386622,
+        "rank": 8,
+        "category": "健康医疗,教育"
+      },
+      {
+        "raw_hot": 226327,
+        "num": 453762,
+        "word": "清华大学加强安全管理保障校园安全",
+        "onboard_time": 1750407982,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 437957,
+        "num": 437957,
+        "word": "小孩高铁哭闹不止女生呵斥后瞬间静音",
+        "onboard_time": 1750401981,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359635,
+        "num": 359635,
+        "word": "以色列顶级科研所被伊朗导弹炸成废墟",
+        "onboard_time": 1750401741,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339444,
+        "num": 339444,
+        "word": "伊朗导弹直接命中在以中国留学生校园",
+        "onboard_time": 1750395741,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 322734,
+        "num": 322734,
+        "word": "北京一男子遭仅见一面亲妹抢房产",
+        "onboard_time": 1750404922,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314247,
+        "num": 314247,
+        "word": "李栋旭皱纹全长在眼皮上了",
+        "onboard_time": 1750402161,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313421,
+        "num": 313421,
+        "word": "曾毅因身体原因暂停工作",
+        "onboard_time": 1750392203,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301296,
+        "num": 301296,
+        "word": "徐艺洋和妈妈共用一张脸",
+        "onboard_time": 1750399762,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277022,
+        "num": 277022,
+        "word": "北大退学男子一战669分二战716分",
+        "onboard_time": 1750405582,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37369,
+        "num": 271267,
+        "word": "偶遇高圆圆西班牙带女儿吃麻辣烫",
+        "onboard_time": 1750399822,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105606,
+        "num": 270014,
+        "word": "Lee你小子真会挑代言人",
+        "onboard_time": 1750407081,
+        "rank": 19,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 324688,
+        "num": 269866,
+        "word": "以色列网红家被炸",
+        "onboard_time": 1750403002,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268862,
+        "num": 268862,
+        "word": "仅退款引发商家极端要求",
+        "onboard_time": 1750395683,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264927,
+        "num": 264927,
+        "word": "教育厅回应那尔那茜定向委培事件",
+        "onboard_time": 1750393283,
+        "rank": 22,
+        "category": "艺人,舆论监督"
+      },
+      {
+        "raw_hot": 150752,
+        "num": 262046,
+        "word": "范丞丞真成跑男导演了",
+        "onboard_time": 1750406961,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261635,
+        "num": 261635,
+        "word": "汪苏泷演唱会获全球设计大奖",
+        "onboard_time": 1750393464,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256783,
+        "num": 256783,
+        "word": "歌手2025首次开启双曲袭榜",
+        "onboard_time": 1750407622,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235408,
+        "num": 235408,
+        "word": "00后极简出门不背包也太爽了",
+        "onboard_time": 1750408162,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 233190,
+        "num": 233190,
+        "word": "周继红受聘为国家跳水队总教练",
+        "onboard_time": 1750407982,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214515,
+        "num": 214515,
+        "word": "松弛感家庭的孩子会怎样",
+        "onboard_time": 1750407441,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56065,
+        "num": 208848,
+        "word": "FE赛车冠军车队揭秘",
+        "onboard_time": 1750405882,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203373,
+        "num": 203373,
+        "word": "现在就出发3原班人马",
+        "onboard_time": 1750387760,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201510,
+        "num": 201510,
+        "word": "北语张爱玲教授系因意外离世",
+        "onboard_time": 1750407202,
+        "rank": 31,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 198844,
+        "num": 198844,
+        "word": "男子30多万娶妻后新娘迟迟不领证",
+        "onboard_time": 1750407081,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194205,
+        "num": 194205,
+        "word": "孟佳高开叉黑裙",
+        "onboard_time": 1750408102,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191048,
+        "num": 191048,
+        "word": "贷款40余万开蛋糕店7个月遇洪水倒闭",
+        "onboard_time": 1750406362,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78800,
+        "num": 182112,
+        "word": "取消国补是谣言",
+        "onboard_time": 1750397843,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176393,
+        "num": 176393,
+        "word": "王家卫方否认合作杨幂赵丽颖",
+        "onboard_time": 1750400240,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174237,
+        "num": 174237,
+        "word": "赛琳娜海莉比伯互相取关",
+        "onboard_time": 1750399223,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60129,
+        "num": 173470,
+        "word": "徐州桃子遭哄抢",
+        "onboard_time": 1750406842,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22909,
+        "num": 173408,
+        "word": "燕云十六声",
+        "onboard_time": 1750403841,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173401,
+        "num": 173401,
+        "word": "七根心简五个人只有一个完整的家",
+        "onboard_time": 1750407982,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152780,
+        "num": 152780,
+        "word": "林一卢昱晓 折月亮",
+        "onboard_time": 1750403481,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151453,
+        "num": 151453,
+        "word": "为什么这个行业不加班",
+        "onboard_time": 1750406902,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150699,
+        "num": 150699,
+        "word": "砍死祖孙三代凶手称吃5年精神病药",
+        "onboard_time": 1750407202,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146258,
+        "num": 146258,
+        "word": "黑神话悟空首次折扣",
+        "onboard_time": 1750407382,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146210,
+        "num": 146210,
+        "word": "常州把恐龙搬到奥体助阵",
+        "onboard_time": 1750404622,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35836,
+        "num": 145269,
+        "word": "在以中国人称目前生活正常物价稳定",
+        "onboard_time": 1750406481,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145261,
+        "num": 145261,
+        "word": "以色列首都越来越像加沙了",
+        "onboard_time": 1750394304,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144125,
+        "num": 144125,
+        "word": "短剧圈的真情侣",
+        "onboard_time": 1750401502,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136755,
+        "num": 136755,
+        "word": "长沙醉酒男子电梯内撕扯女孩头发",
+        "onboard_time": 1750400601,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新西兰总理拉克森#"
+    }
+  }
+}
