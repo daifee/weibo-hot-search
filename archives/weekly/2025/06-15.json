@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750394042012,
+  "endTime": 1750395026169,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -83,20 +83,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2070780,
+      "num": 2070780,
+      "word": "曾毅因身体原因暂停工作",
+      "onboard_time": 1750392203,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2031335,
       "num": 2031335,
       "word": "周杰伦 强直性脊柱炎",
       "onboard_time": 1750309102,
       "rank": 0,
       "category": "艺人,健康医疗"
-    },
-    {
-      "raw_hot": 1986266,
-      "num": 874843,
-      "word": "曾毅因身体原因暂停工作",
-      "onboard_time": 1750392203,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1972077,
@@ -691,6 +691,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1079074,
+      "num": 1079074,
+      "word": "教育厅回应那尔那茜定向委培事件",
+      "onboard_time": 1750393283,
+      "rank": 9,
+      "category": "舆论监督,艺人"
+    },
+    {
+      "raw_hot": 1075080,
+      "num": 843506,
+      "word": "黄晓明上戏考博落榜",
+      "onboard_time": 1750393763,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1072486,
       "num": 1171597,
       "word": "父亲节",
@@ -988,7 +1004,7 @@
     },
     {
       "raw_hot": 925781,
-      "num": 567922,
+      "num": 781829,
       "word": "王大陆找黑道帮女友讨债",
       "onboard_time": 1750391361,
       "rank": 10,
@@ -2187,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562841,
+      "num": 328129,
+      "word": "汪苏泷演唱会获全球设计大奖",
+      "onboard_time": 1750393464,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 559680,
       "num": 559680,
       "word": "迪丽热巴金世佳利剑玫瑰来了",
@@ -2497,6 +2521,14 @@
       "onboard_time": 1749946639,
       "rank": 7,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 521528,
+      "num": 318820,
+      "word": "伊朗9名核科学家睡觉时被暗杀",
+      "onboard_time": 1750393103,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 521333,
@@ -3468,7 +3500,7 @@
     },
     {
       "raw_hot": 392840,
-      "num": 260672,
+      "num": 287199,
       "word": "敖瑞鹏直播把刘浩存吓掉线了",
       "onboard_time": 1750392802,
       "rank": 21,
@@ -3563,14 +3595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 381835,
-      "num": 569681,
-      "word": "教育厅回应那尔那茜定向委培事件",
-      "onboard_time": 1750393283,
-      "rank": 9,
-      "category": "舆论监督,艺人"
-    },
-    {
       "raw_hot": 380569,
       "num": 380569,
       "word": "肖战藏海传重新认识古装剧",
@@ -3601,6 +3625,14 @@
       "onboard_time": 1750346122,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 377946,
+      "num": 297079,
+      "word": "凤凰传奇演唱会洛阳站暂时终止",
+      "onboard_time": 1750393883,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 377369,
@@ -3899,6 +3931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347191,
+      "num": 279100,
+      "word": "曾毅手表",
+      "onboard_time": 1750393583,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346648,
       "num": 494024,
       "word": "轧戏",
@@ -4009,14 +4049,6 @@
       "onboard_time": 1750069102,
       "rank": 17,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 341202,
-      "num": 256686,
-      "word": "汪苏泷演唱会获全球设计大奖",
-      "onboard_time": 1750393464,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 341056,
@@ -4339,14 +4371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 316989,
-      "num": 231164,
-      "word": "黄晓明上戏考博落榜",
-      "onboard_time": 1750393763,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 316521,
       "num": 316521,
       "word": "孟羽童回应一手好牌打得稀烂",
@@ -4377,14 +4401,6 @@
       "onboard_time": 1749995004,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 312681,
-      "num": 245176,
-      "word": "曾毅手表",
-      "onboard_time": 1750393583,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 311822,
@@ -4497,14 +4513,6 @@
       "onboard_time": 1750172844,
       "rank": 23,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 302429,
-      "num": 229807,
-      "word": "伊朗9名核科学家睡觉时被暗杀",
-      "onboard_time": 1750393103,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 301485,
@@ -4996,7 +5004,7 @@
     },
     {
       "raw_hot": 280333,
-      "num": 280333,
+      "num": 292104,
       "word": "夏天是气血虚的人的劫",
       "onboard_time": 1750392743,
       "rank": 17,
@@ -5137,6 +5145,14 @@
       "onboard_time": 1750303100,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273476,
+      "num": 273476,
+      "word": "泡泡玛特巨震",
+      "onboard_time": 1750390702,
+      "rank": 29,
+      "category": "财经,动漫"
     },
     {
       "raw_hot": 273441,
@@ -5803,6 +5819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240699,
+      "num": 240699,
+      "word": "光与夜之恋",
+      "onboard_time": 1749961640,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240409,
       "num": 240409,
       "word": "任嘉伦探班罗云熙",
@@ -5817,14 +5841,6 @@
       "onboard_time": 1750337661,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239633,
-      "num": 239633,
-      "word": "泡泡玛特巨震",
-      "onboard_time": 1750390702,
-      "rank": 29,
-      "category": "财经,动漫"
     },
     {
       "raw_hot": 239305,
@@ -6355,6 +6371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221506,
+      "num": 221506,
+      "word": "以色列暗杀10名伊朗核科学家",
+      "onboard_time": 1750394363,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 220821,
       "num": 481339,
       "word": "李雪琴方说法院见",
@@ -6393,6 +6417,14 @@
       "onboard_time": 1749991401,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 219240,
+      "num": 351133,
+      "word": "赵一鸣回应个别门店物资遭哄抢",
+      "onboard_time": 1750393943,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219110,
@@ -6473,6 +6505,14 @@
       "onboard_time": 1750288578,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216434,
+      "num": 216434,
+      "word": "以色列首都越来越像加沙了",
+      "onboard_time": 1750394304,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 215879,
@@ -6803,6 +6843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206964,
+      "num": 206964,
+      "word": "哈利伯顿赌上生涯一战",
+      "onboard_time": 1750393824,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206878,
       "num": 206878,
       "word": "纸嫁衣8定档",
@@ -6817,14 +6865,6 @@
       "onboard_time": 1750148962,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206851,
-      "num": 206851,
-      "word": "凤凰传奇演唱会洛阳站暂时终止",
-      "onboard_time": 1750393883,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 206607,
@@ -7129,14 +7169,6 @@
       "onboard_time": 1750215621,
       "rank": 28,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 199853,
-      "num": 199853,
-      "word": "哈利伯顿赌上生涯一战",
-      "onboard_time": 1750393824,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 199839,
@@ -7456,6 +7488,14 @@
       "word": "月明千里官宣",
       "onboard_time": 1750311202,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194500,
+      "num": 194500,
+      "word": "刘宇宁李一桐新剧定档海报",
+      "onboard_time": 1750394484,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -8739,6 +8779,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 173159,
+      "num": 173159,
+      "word": "伊朗还有多少底牌",
+      "onboard_time": 1750393103,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173000,
       "num": 173000,
       "word": "外交部回应华为中芯国际进台湾实体名单",
@@ -9499,14 +9547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 162911,
-      "num": 162911,
-      "word": "光与夜之恋",
-      "onboard_time": 1749961640,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 162815,
       "num": 336190,
       "word": "翘楚",
@@ -10249,14 +10289,6 @@
       "onboard_time": 1750121002,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150759,
-      "num": 229719,
-      "word": "赵一鸣回应个别门店物资遭哄抢",
-      "onboard_time": 1750393943,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150701,
@@ -13571,12 +13603,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115399,
+      "num": 206856,
+      "word": "樊振东腿部肌肉线条",
+      "onboard_time": 1750393403,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115396,
       "num": 115396,
       "word": "张杰你有这么先进的开嗓方式",
       "onboard_time": 1750001782,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115166,
+      "num": 308548,
+      "word": "9名伊朗核科学家睡梦中遭暗杀",
+      "onboard_time": 1750393943,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115110,
@@ -14899,14 +14947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97468,
-      "num": 206856,
-      "word": "樊振东腿部肌肉线条",
-      "onboard_time": 1750393403,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 97425,
       "num": 98984,
       "word": "专家称以军对伊朗打击进入新阶段",
@@ -15403,6 +15443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87408,
+      "num": 264626,
+      "word": "银行股集体上攻",
+      "onboard_time": 1750394783,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87273,
       "num": 288047,
       "word": "网红江小隐溺亡前河流上游放了水",
@@ -15537,6 +15585,14 @@
       "onboard_time": 1750233022,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83502,
+      "num": 360802,
+      "word": "纤维粒报考大学万能公式",
+      "onboard_time": 1750394363,
+      "rank": 13,
+      "category": "教育,网红"
     },
     {
       "raw_hot": 83165,
@@ -16425,6 +16481,14 @@
       "onboard_time": 1750123580,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63804,
+      "num": 178215,
+      "word": "温网2025",
+      "onboard_time": 1750394663,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 63709,
@@ -18529,14 +18593,6 @@
       "onboard_time": 1749996322,
       "rank": 39,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 28673,
-      "num": 231623,
-      "word": "9名伊朗核科学家睡梦中遭暗杀",
-      "onboard_time": 1750393943,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28235,
