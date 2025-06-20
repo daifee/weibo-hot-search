@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750416371884,
+  "endTime": 1750418572271,
   "band_list": [
     {
       "raw_hot": 3254925,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1759922,
+      "raw_hot": 1862011,
       "num": 1455645,
       "word": "中国留学生迷奸10人受害者发声",
       "onboard_time": 1750411941,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 644927,
+      "num": 401526,
+      "word": "工人跪地哀求主管别开除",
+      "onboard_time": 1750413261,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 637420,
       "num": 637420,
       "word": "为什么离职时领导会挽留你",
@@ -337,6 +345,14 @@
       "onboard_time": 1750393464,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 591895,
+      "num": 591895,
+      "word": "男孩结婚2小时后坠亡婚姻被判无效",
+      "onboard_time": 1750412122,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 588787,
@@ -499,12 +515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446461,
+      "num": 446461,
+      "word": "清华就北语女教授被树砸身亡致歉",
+      "onboard_time": 1750417459,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445455,
       "num": 493772,
       "word": "伊朗国家电视台遭袭最新画面",
       "onboard_time": 1750347740,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 440490,
+      "num": 355209,
+      "word": "黄子韬徐艺洋三里屯逛街",
+      "onboard_time": 1750417101,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 426964,
@@ -521,6 +553,14 @@
       "onboard_time": 1750393583,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416248,
+      "num": 416248,
+      "word": "现在就出发3",
+      "onboard_time": 1750412482,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 415337,
@@ -547,28 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401526,
-      "num": 401526,
-      "word": "工人跪地哀求主管别开除",
-      "onboard_time": 1750413261,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 397865,
       "num": 255404,
       "word": "老人怕儿媳争房产指定儿子个人继承",
       "onboard_time": 1750388421,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 396079,
-      "num": 396079,
-      "word": "现在就出发3",
-      "onboard_time": 1750412482,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 395515,
@@ -593,14 +617,6 @@
       "onboard_time": 1750409121,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391323,
-      "num": 391323,
-      "word": "男孩结婚2小时后坠亡婚姻被判无效",
-      "onboard_time": 1750412122,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 391060,
@@ -699,12 +715,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 347057,
+      "num": 347057,
+      "word": "官方调查那尔那茜",
+      "onboard_time": 1750416681,
+      "rank": 14,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 340885,
       "num": 340885,
       "word": "迪丽热巴邓为 漩涡",
       "onboard_time": 1750378761,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338277,
+      "num": 338277,
+      "word": "卵巢癌晚期钢琴老师丁丁离世",
+      "onboard_time": 1750417821,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332921,
@@ -737,6 +769,14 @@
       "onboard_time": 1750347622,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324036,
+      "num": 324036,
+      "word": "凤凰传奇",
+      "onboard_time": 1750414820,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 321760,
@@ -932,7 +972,7 @@
     },
     {
       "raw_hot": 257295,
-      "num": 257295,
+      "num": 334950,
       "word": "超三万鸿蒙应用加速开发更新",
       "onboard_time": 1750414820,
       "rank": 19,
@@ -1243,20 +1283,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206841,
+      "num": 206841,
+      "word": "金世佳理发都在看书",
+      "onboard_time": 1750418000,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206280,
       "num": 206280,
       "word": "13岁男孩一天吃四顿身高定格170",
       "onboard_time": 1750338802,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205604,
-      "num": 205604,
-      "word": "凤凰传奇",
-      "onboard_time": 1750414820,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 205344,
@@ -1379,6 +1419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193974,
+      "num": 193974,
+      "word": "婚检查出重大疾病医院仅告知本人",
+      "onboard_time": 1750414161,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192048,
+      "num": 200837,
+      "word": "林志颖不会老的吗",
+      "onboard_time": 1750417523,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192037,
       "num": 192037,
       "word": "A股",
@@ -1467,6 +1523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 184899,
+      "num": 195399,
+      "word": "Wolves对战MRC",
+      "onboard_time": 1750418062,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184464,
       "num": 158190,
       "word": "中国公民撤离伊朗时导弹从头顶飞过",
@@ -1515,12 +1579,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183962,
+      "num": 183962,
+      "word": "美国GBU57型钻地弹仅次于核武器",
+      "onboard_time": 1750416981,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 183475,
       "num": 183475,
       "word": "虞书欣怎么这么有聊天力",
       "onboard_time": 1750397722,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182847,
+      "num": 182847,
+      "word": "欧阳娜娜 古早留子味",
+      "onboard_time": 1750417821,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 182838,
@@ -1619,6 +1699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171571,
+      "num": 171571,
+      "word": "虞书欣大战刘海",
+      "onboard_time": 1750415661,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171365,
       "num": 171365,
       "word": "马嘉祺贺峻霖看甄嬛传没喊张真源",
@@ -1683,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165822,
+      "num": 155192,
+      "word": "爱新觉罗VAVA 一个乘风一个破浪",
+      "onboard_time": 1750417641,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163285,
       "num": 163285,
       "word": "中国在伊朗记者备足了罐头",
@@ -1707,20 +1803,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159952,
-      "num": 159952,
-      "word": "婚检查出重大疾病医院仅告知本人",
-      "onboard_time": 1750414161,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159303,
       "num": 159303,
       "word": "从没想过自己偷感这么重",
       "onboard_time": 1750403901,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155525,
+      "num": 155525,
+      "word": "七根心简豆瓣开分了",
+      "onboard_time": 1750417281,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 155414,
@@ -1819,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145034,
-      "num": 145034,
-      "word": "虞书欣大战刘海",
-      "onboard_time": 1750415661,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144803,
       "num": 310414,
       "word": "宿迁队摇来了京东",
@@ -1899,6 +1987,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 132945,
+      "num": 363846,
+      "word": "白血病女孩报销百万抗癌药费",
+      "onboard_time": 1750417400,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131415,
       "num": 229223,
       "word": "大连某高校空调歧视",
@@ -1923,6 +2019,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 129914,
+      "num": 129914,
+      "word": "焕羽",
+      "onboard_time": 1750418301,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129834,
       "num": 129834,
       "word": "李一桐新剧大婚要命",
@@ -1940,7 +2044,7 @@
     },
     {
       "raw_hot": 128145,
-      "num": 158748,
+      "num": 185104,
       "word": "城市SUV要越野能力有用吗",
       "onboard_time": 1750414820,
       "rank": 36,
@@ -2019,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120079,
+      "num": 202648,
+      "word": "戴建业呼吁大学降低换专业门槛",
+      "onboard_time": 1750416800,
+      "rank": 27,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 119885,
       "num": 270232,
       "word": "农村女娃考取博士背后故事让人落泪",
@@ -2041,6 +2153,14 @@
       "onboard_time": 1750375159,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116207,
+      "num": 116207,
+      "word": "焕羽首播口碑",
+      "onboard_time": 1750418180,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 115399,
@@ -2123,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111121,
+      "num": 111121,
+      "word": "花少7",
+      "onboard_time": 1750418420,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111105,
       "num": 111105,
       "word": "香港丁克夫妻29平米的家",
@@ -2137,6 +2265,14 @@
       "onboard_time": 1750380742,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110323,
+      "num": 326397,
+      "word": "官方回应女子酒驾自称人大代表",
+      "onboard_time": 1750417281,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 109187,
@@ -2532,7 +2668,7 @@
     },
     {
       "raw_hot": 61253,
-      "num": 191917,
+      "num": 197630,
       "word": "鸿蒙拦截不合理权限超86亿次",
       "onboard_time": 1750414820,
       "rank": 28,
@@ -2809,6 +2945,14 @@
       "onboard_time": 1750403841,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22722,
+      "num": 160959,
+      "word": "灭绝式采挖",
+      "onboard_time": 1750416560,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21764,
