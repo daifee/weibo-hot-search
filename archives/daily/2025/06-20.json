@@ -1,9 +1,9 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750389780654,
+  "endTime": 1750390509775,
   "band_list": [
     {
-      "raw_hot": 1490352,
+      "raw_hot": 1605646,
       "num": 1052388,
       "word": "大学生HIV感染情况",
       "onboard_time": 1750386622,
@@ -35,6 +35,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1113611,
+      "num": 1178177,
+      "word": "现在就出发3原班人马",
+      "onboard_time": 1750387760,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1111753,
       "num": 1111753,
       "word": "北大第一节课退学考上清华男子发声",
@@ -43,28 +51,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 969809,
+      "num": 673776,
+      "word": "那尔那茜",
+      "onboard_time": 1750384761,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 940034,
       "num": 540093,
       "word": "王皓考编总成绩第1",
       "onboard_time": 1750375219,
       "rank": 32,
       "category": "体育,教育"
-    },
-    {
-      "raw_hot": 870485,
-      "num": 1139277,
-      "word": "现在就出发3原班人马",
-      "onboard_time": 1750387760,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 860001,
-      "num": 566150,
-      "word": "那尔那茜",
-      "onboard_time": 1750384761,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 850251,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 687786,
+      "num": 687786,
+      "word": "日本稻田里的小龙虾被烫熟了",
+      "onboard_time": 1750385482,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 677326,
       "num": 935799,
       "word": "伊朗出动超100架无人机打击以军",
@@ -99,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 578298,
-      "num": 578298,
-      "word": "日本稻田里的小龙虾被烫熟了",
-      "onboard_time": 1750385482,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 559680,
+      "num": 559680,
+      "word": "迪丽热巴金世佳利剑玫瑰来了",
+      "onboard_time": 1750381101,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 557925,
@@ -123,20 +131,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 533210,
+      "num": 533210,
+      "word": "捞女游戏好评如潮",
+      "onboard_time": 1750385660,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 531155,
       "num": 392787,
       "word": "俄方警告美国不要军事干预",
       "onboard_time": 1750380742,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 529555,
-      "num": 529555,
-      "word": "迪丽热巴金世佳利剑玫瑰来了",
-      "onboard_time": 1750381101,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 517796,
@@ -171,8 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 448851,
-      "num": 448851,
+      "raw_hot": 464065,
+      "num": 464065,
       "word": "虞书欣王安宇领衔主演",
       "onboard_time": 1750386561,
       "rank": 11,
@@ -211,27 +219,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397865,
+      "num": 255404,
+      "word": "老人怕儿媳争房产指定儿子个人继承",
+      "onboard_time": 1750388421,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395515,
       "num": 395515,
       "word": "北语张爱玲教授逝世终年58岁",
       "onboard_time": 1750376780,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 392641,
-      "num": 392641,
-      "word": "捞女游戏好评如潮",
-      "onboard_time": 1750385660,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 391750,
-      "num": 246483,
-      "word": "老人怕儿媳争房产指定儿子个人继承",
-      "onboard_time": 1750388421,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -265,6 +265,14 @@
       "onboard_time": 1750332022,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 364036,
+      "num": 502269,
+      "word": "中国援坦桑尼亚医生为救当地落水者牺牲",
+      "onboard_time": 1750386500,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 363028,
@@ -347,12 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298003,
-      "num": 298003,
-      "word": "中国援坦桑尼亚医生为救当地落水者牺牲",
-      "onboard_time": 1750386500,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 291921,
+      "num": 291921,
+      "word": "时代少年团不去运动会",
+      "onboard_time": 1750386200,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 291134,
@@ -363,12 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289874,
-      "num": 289874,
-      "word": "时代少年团不去运动会",
-      "onboard_time": 1750386200,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 284994,
+      "num": 394219,
+      "word": "恩施强降雨冲走广场喷泉设施正打捞",
+      "onboard_time": 1750388481,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284783,
@@ -385,6 +393,14 @@
       "onboard_time": 1750339641,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 268066,
+      "num": 268066,
+      "word": "我们的宿舍官宣定档",
+      "onboard_time": 1750387700,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 261267,
@@ -411,12 +427,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 239182,
-      "num": 239182,
-      "word": "我们的宿舍官宣定档",
-      "onboard_time": 1750387700,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 238993,
+      "num": 238993,
+      "word": "伊朗导弹数量超过美以拦截弹数量",
+      "onboard_time": 1750389981,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 236791,
@@ -483,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211112,
+      "num": 211112,
+      "word": "我们的宿舍",
+      "onboard_time": 1750385721,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210592,
       "num": 273941,
       "word": "原来恶女才是张婧仪的统治区",
@@ -497,6 +521,14 @@
       "onboard_time": 1750377743,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 208748,
+      "num": 208748,
+      "word": "步行者雷霆抢七",
+      "onboard_time": 1750389621,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 208304,
@@ -563,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189660,
+      "num": 189660,
+      "word": "闲鱼 刘宇宁",
+      "onboard_time": 1750390100,
+      "rank": 31,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 188229,
       "num": 188229,
       "word": "TF家族运动会官宣",
@@ -577,6 +617,14 @@
       "onboard_time": 1750387222,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184912,
+      "num": 184912,
+      "word": "纸嫁衣8定档",
+      "onboard_time": 1750390220,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 184464,
@@ -643,14 +691,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 171609,
-      "num": 171609,
-      "word": "我们的宿舍",
-      "onboard_time": 1750385721,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168678,
       "num": 168678,
       "word": "李昀锐说在剧组跑步偶遇关晓彤",
@@ -667,12 +707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165140,
-      "num": 165140,
-      "word": "步行者雷霆抢七",
-      "onboard_time": 1750389621,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 163285,
+      "num": 163285,
+      "word": "中国在伊朗记者备足了罐头",
+      "onboard_time": 1750387102,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162220,
@@ -691,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155367,
-      "num": 155367,
-      "word": "中国在伊朗记者备足了罐头",
-      "onboard_time": 1750387102,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 153190,
+      "num": 153190,
+      "word": "为什么离职时领导会挽留你",
+      "onboard_time": 1750390402,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 148537,
@@ -715,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147636,
+      "num": 147636,
+      "word": "本来上班就烦",
+      "onboard_time": 1750390402,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147115,
       "num": 215261,
       "word": "代露娃跑男千金出场",
@@ -729,6 +777,14 @@
       "onboard_time": 1750387102,
       "rank": 47,
       "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 144803,
+      "num": 310414,
+      "word": "宿迁队摇来了京东",
+      "onboard_time": 1750386440,
+      "rank": 16,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 139603,
@@ -769,14 +825,6 @@
       "onboard_time": 1750382421,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128201,
-      "num": 310414,
-      "word": "宿迁队摇来了京东",
-      "onboard_time": 1750386440,
-      "rank": 16,
-      "category": "体育,互联网"
     },
     {
       "raw_hot": 123420,
@@ -971,12 +1019,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94481,
+      "raw_hot": 94944,
       "num": 393046,
       "word": "厦门和青春的适配度恰到好处",
       "onboard_time": 1750388481,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 93714,
+      "num": 154563,
+      "word": "西亚卡姆隔扣",
+      "onboard_time": 1750387581,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 93065,
@@ -1083,20 +1139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65053,
+      "num": 189677,
+      "word": "台对逾2000名公务人员忠诚考核",
+      "onboard_time": 1750388540,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61378,
       "num": 61378,
       "word": "迈阿密国际vs波尔图",
       "onboard_time": 1750371616,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59470,
-      "num": 189677,
-      "word": "台对逾2000名公务人员忠诚考核",
-      "onboard_time": 1750388540,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 58807,
@@ -1136,14 +1192,6 @@
       "word": "中国公民讲述从伊朗撤离的72小时",
       "onboard_time": 1750383739,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51866,
-      "num": 394219,
-      "word": "恩施强降雨冲走广场喷泉设施正打捞",
-      "onboard_time": 1750388481,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1201,6 +1249,14 @@
       "onboard_time": 1750355776,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30056,
+      "num": 163304,
+      "word": "以方称伊朗袭击医院已越红线",
+      "onboard_time": 1750390160,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25523,
