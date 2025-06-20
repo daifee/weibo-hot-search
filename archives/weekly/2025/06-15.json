@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750437141136,
+  "endTime": 1750438090158,
   "band_list": [
     {
       "raw_hot": 11497825,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 1781309,
-      "num": 157199,
+      "num": 162796,
       "word": "一家三口被杀婴儿睡觉侥幸存活",
       "onboard_time": 1750434262,
       "rank": 20,
@@ -843,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1090744,
+      "num": 198465,
+      "word": "黑马情侣分手",
+      "onboard_time": 1750435281,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1085359,
       "num": 473183,
       "word": "陈楚生第二位守榜歌手",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1750332022,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1006325,
-      "num": 176464,
-      "word": "黑马情侣分手",
-      "onboard_time": 1750435281,
-      "rank": 10,
-      "category": "网红"
     },
     {
       "raw_hot": 1006027,
@@ -2379,6 +2379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 623771,
+      "num": 623771,
+      "word": "歌手补位",
+      "onboard_time": 1750434202,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 623180,
       "num": 623180,
       "word": "Lafufu和Lababa都属于商标侵权",
@@ -2835,14 +2843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 538849,
-      "num": 538849,
-      "word": "歌手补位",
-      "onboard_time": 1750434202,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 538215,
       "num": 538215,
       "word": "以色列民众问战争到底是为了什么",
@@ -3025,6 +3025,14 @@
       "onboard_time": 1749951019,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 515125,
+      "num": 198415,
+      "word": "树莓",
+      "onboard_time": 1750434562,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 510864,
@@ -3705,14 +3713,6 @@
       "onboard_time": 1750349000,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 426689,
-      "num": 166161,
-      "word": "树莓",
-      "onboard_time": 1750434562,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 425595,
@@ -10979,12 +10979,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 162818,
+      "num": 162818,
+      "word": "那英单依纯周深突然就病一起了",
+      "onboard_time": 1750435524,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162815,
       "num": 336190,
       "word": "翘楚",
       "onboard_time": 1750150882,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162763,
+      "num": 162762,
+      "word": "网红迪士尼健康堪忧",
+      "onboard_time": 1750436122,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 162753,
@@ -11521,14 +11537,6 @@
       "onboard_time": 1750314743,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 154647,
-      "num": 154647,
-      "word": "那英单依纯周深突然就病一起了",
-      "onboard_time": 1750435524,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 154474,
@@ -12411,6 +12419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144369,
+      "num": 144369,
+      "word": "俄罗斯警告美国别军事介入",
+      "onboard_time": 1750434682,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144325,
       "num": 416076,
       "word": "官方再通报深圳一小区房屋沉降",
@@ -13073,14 +13089,6 @@
       "onboard_time": 1749971661,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135982,
-      "num": 135982,
-      "word": "俄罗斯警告美国别军事介入",
-      "onboard_time": 1750434682,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 135846,
@@ -14699,14 +14707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122073,
-      "num": 122073,
-      "word": "网红迪士尼健康堪忧",
-      "onboard_time": 1750436122,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 122041,
       "num": 122041,
       "word": "鞠婧祎去年就有Labubu了",
@@ -16123,6 +16123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109736,
+      "num": 109736,
+      "word": "耳帝说这期歌手太一般了",
+      "onboard_time": 1750437200,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109552,
       "num": 109552,
       "word": "邓紫棋嘴上恨你心里想你",
@@ -17321,6 +17329,14 @@
       "onboard_time": 1750343302,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89715,
+      "num": 175003,
+      "word": "以军无人机袭击伊朗科学家",
+      "onboard_time": 1750435042,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89528,
@@ -18835,6 +18851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57966,
+      "num": 109838,
+      "word": "38岁女子秦岭徒步失联5天",
+      "onboard_time": 1750436482,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57884,
       "num": 57884,
       "word": "鸵鸟马路时速40公里狂奔还对司机笑",
@@ -18857,14 +18881,6 @@
       "onboard_time": 1750302260,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57456,
-      "num": 175003,
-      "word": "以军无人机袭击伊朗科学家",
-      "onboard_time": 1750435042,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 57436,
@@ -19001,14 +19017,6 @@
       "onboard_time": 1750052601,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55381,
-      "num": 100888,
-      "word": "38岁女子秦岭徒步失联5天",
-      "onboard_time": 1750436482,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55353,
