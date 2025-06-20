@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750395026169,
+  "endTime": 1750397226543,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1438197,
+      "num": 924654,
+      "word": "黄晓明上戏考博落榜",
+      "onboard_time": 1750393763,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1433387,
       "num": 1433387,
       "word": "大爷捡到隐藏款labubu挂吸粪车",
@@ -361,6 +369,14 @@
       "onboard_time": 1750151001,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1405555,
+      "num": 1405555,
+      "word": "教育厅回应那尔那茜定向委培事件",
+      "onboard_time": 1750393283,
+      "rank": 9,
+      "category": "舆论监督,艺人"
     },
     {
       "raw_hot": 1405262,
@@ -689,22 +705,6 @@
       "onboard_time": 1750144581,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1079074,
-      "num": 1079074,
-      "word": "教育厅回应那尔那茜定向委培事件",
-      "onboard_time": 1750393283,
-      "rank": 9,
-      "category": "舆论监督,艺人"
-    },
-    {
-      "raw_hot": 1075080,
-      "num": 843506,
-      "word": "黄晓明上戏考博落榜",
-      "onboard_time": 1750393763,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 1072486,
@@ -2011,6 +2011,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 623000,
+      "num": 623000,
+      "word": "金世佳上戏考博上岸",
+      "onboard_time": 1750395263,
+      "rank": 6,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 622345,
       "num": 532414,
       "word": "马嘉祺丁程鑫差点亲上了",
@@ -2057,6 +2065,14 @@
       "onboard_time": 1749954140,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 609058,
+      "num": 609058,
+      "word": "汪苏泷演唱会获全球设计大奖",
+      "onboard_time": 1750393464,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 608780,
@@ -2120,6 +2136,14 @@
       "word": "贵州杀妻灭子案现场血迹成因仍待解",
       "onboard_time": 1749994280,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 588890,
+      "num": 632700,
+      "word": "仅退款引发商家极端要求",
+      "onboard_time": 1750395683,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -2187,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 568694,
+      "num": 332631,
+      "word": "伊朗9名核科学家睡觉时被暗杀",
+      "onboard_time": 1750393103,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 566689,
       "num": 566689,
       "word": "湖南一鞭炮厂发生爆炸事故",
@@ -2201,14 +2233,6 @@
       "onboard_time": 1750064481,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 562841,
-      "num": 328129,
-      "word": "汪苏泷演唱会获全球设计大奖",
-      "onboard_time": 1750393464,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 559680,
@@ -2521,14 +2545,6 @@
       "onboard_time": 1749946639,
       "rank": 7,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 521528,
-      "num": 318820,
-      "word": "伊朗9名核科学家睡觉时被暗杀",
-      "onboard_time": 1750393103,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 521333,
@@ -3323,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408659,
+      "num": 326324,
+      "word": "曾毅手表",
+      "onboard_time": 1750393583,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407361,
       "num": 407361,
       "word": "对labubu全球爆火有了实感",
@@ -3747,6 +3771,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 367308,
+      "num": 328741,
+      "word": "伊朗导弹直接命中在以中国留学生校园",
+      "onboard_time": 1750395741,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 365583,
       "num": 339451,
       "word": "郑钦文将创个人最佳排名",
@@ -3928,14 +3960,6 @@
       "word": "黄子韬方回应品牌卫生巾有黑色异物",
       "onboard_time": 1750155381,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 347191,
-      "num": 279100,
-      "word": "曾毅手表",
-      "onboard_time": 1750393583,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -4243,6 +4267,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324979,
+      "num": 324979,
+      "word": "黄晓明回应考博落榜",
+      "onboard_time": 1750396522,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324548,
+      "num": 324548,
+      "word": "以色列首都越来越像加沙了",
+      "onboard_time": 1750394304,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324504,
       "num": 324504,
       "word": "王楚钦向前看放轻松",
@@ -4483,6 +4523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 306441,
+      "num": 306441,
+      "word": "泡泡玛特巨震",
+      "onboard_time": 1750390702,
+      "rank": 29,
+      "category": "财经,动漫"
+    },
+    {
       "raw_hot": 305991,
       "num": 305991,
       "word": "迪丽热巴时隔两年再播剧",
@@ -4705,6 +4753,14 @@
       "onboard_time": 1750386200,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291847,
+      "num": 291847,
+      "word": "以色列暗杀10名伊朗核科学家",
+      "onboard_time": 1750394363,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 291662,
@@ -5147,14 +5203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273476,
-      "num": 273476,
-      "word": "泡泡玛特巨震",
-      "onboard_time": 1750390702,
-      "rank": 29,
-      "category": "财经,动漫"
-    },
-    {
       "raw_hot": 273441,
       "num": 273441,
       "word": "吉赛尔好美",
@@ -5385,6 +5433,14 @@
       "onboard_time": 1750157480,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261813,
+      "num": 261813,
+      "word": "张艺兴说我们都是敦煌小工匠",
+      "onboard_time": 1750396281,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 261628,
@@ -5689,6 +5745,14 @@
       "onboard_time": 1750347502,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 248401,
+      "num": 264144,
+      "word": "内娱首部穿剧本轻喜剧",
+      "onboard_time": 1750396882,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 248378,
@@ -6227,6 +6291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227066,
+      "num": 227066,
+      "word": "Jennie辣哭了",
+      "onboard_time": 1750395203,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227051,
+      "num": 227051,
+      "word": "白鹿背labubu和宋雨琦逛街",
+      "onboard_time": 1750396763,
+      "rank": 35,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 226981,
       "num": 226981,
       "word": "章子怡邀请易烊千玺再次合作",
@@ -6371,14 +6451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221506,
-      "num": 221506,
-      "word": "以色列暗杀10名伊朗核科学家",
-      "onboard_time": 1750394363,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 220821,
       "num": 481339,
       "word": "李雪琴方说法院见",
@@ -6467,6 +6539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217864,
+      "num": 325422,
+      "word": "书卷一梦定档",
+      "onboard_time": 1750393883,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217445,
       "num": 217445,
       "word": "上半场无锡1比0常州",
@@ -6505,14 +6585,6 @@
       "onboard_time": 1750288578,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 216434,
-      "num": 216434,
-      "word": "以色列首都越来越像加沙了",
-      "onboard_time": 1750394304,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 215879,
@@ -6772,7 +6844,7 @@
     },
     {
       "raw_hot": 208051,
-      "num": 208051,
+      "num": 328020,
       "word": "家长质疑气象台不敢发暴雨预警",
       "onboard_time": 1750393043,
       "rank": 44,
@@ -6809,14 +6881,6 @@
       "onboard_time": 1750167382,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207289,
-      "num": 207289,
-      "word": "书卷一梦定档",
-      "onboard_time": 1750393883,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 207191,
@@ -6961,6 +7025,14 @@
       "onboard_time": 1750079902,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204568,
+      "num": 204568,
+      "word": "王家卫北京故事 杨幂",
+      "onboard_time": 1750395502,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 204562,
@@ -7467,6 +7539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194934,
+      "num": 194934,
+      "word": "书卷一梦祝绪丹主演",
+      "onboard_time": 1750396702,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194846,
       "num": 194846,
       "word": "埃安",
@@ -7659,6 +7739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 191749,
+      "num": 191749,
+      "word": "临江仙加更",
+      "onboard_time": 1750397122,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191741,
       "num": 267363,
       "word": "咸鱼修炼手册",
@@ -7841,6 +7929,14 @@
       "onboard_time": 1750087101,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188756,
+      "num": 188756,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1750396522,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 188625,
@@ -8105,6 +8201,14 @@
       "onboard_time": 1750384401,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 184388,
+      "num": 184388,
+      "word": "史上最大规模漫展要来了",
+      "onboard_time": 1750396343,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 184357,
@@ -9297,6 +9401,22 @@
       "onboard_time": 1750084821,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166755,
+      "num": 166755,
+      "word": "相亲界已经进化成这样了吗",
+      "onboard_time": 1750395263,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 166734,
+      "num": 331889,
+      "word": "原来30万质子重离子好医保能报销",
+      "onboard_time": 1750395683,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166687,
@@ -15107,6 +15227,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 94879,
+      "num": 208450,
+      "word": "灵笼2刀尖舔糖",
+      "onboard_time": 1750396763,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 94788,
       "num": 235708,
       "word": "拌黄瓜厨师被公司起诉竞业违约",
@@ -15961,6 +16089,14 @@
       "onboard_time": 1750142301,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75237,
+      "num": 1036107,
+      "word": "这就是中国高铁的硬实力",
+      "onboard_time": 1750395983,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75017,
@@ -18779,6 +18915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26191,
+      "num": 191966,
+      "word": "白酒股再走强",
+      "onboard_time": 1750391421,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 26168,
       "num": 26168,
       "word": "这个夏天苏新皓披荆斩棘",
@@ -19440,6 +19584,14 @@
       "word": "抽检50余款作业本三成不达国标",
       "onboard_time": 1750239442,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18219,
+      "num": 262419,
+      "word": "商家自曝能量石功效是网上抄的",
+      "onboard_time": 1750395683,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

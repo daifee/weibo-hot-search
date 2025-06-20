@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750395026169,
+  "endTime": 1750397226543,
   "band_list": [
     {
       "raw_hot": 3254925,
@@ -43,6 +43,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1438197,
+      "num": 924654,
+      "word": "黄晓明上戏考博落榜",
+      "onboard_time": 1750393763,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1405555,
+      "num": 1405555,
+      "word": "教育厅回应那尔那茜定向委培事件",
+      "onboard_time": 1750393283,
+      "rank": 9,
+      "category": "舆论监督,艺人"
+    },
+    {
       "raw_hot": 1229638,
       "num": 418129,
       "word": "捞女游戏",
@@ -81,22 +97,6 @@
       "onboard_time": 1750379122,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1079074,
-      "num": 1079074,
-      "word": "教育厅回应那尔那茜定向委培事件",
-      "onboard_time": 1750393283,
-      "rank": 9,
-      "category": "舆论监督,艺人"
-    },
-    {
-      "raw_hot": 1075080,
-      "num": 843506,
-      "word": "黄晓明上戏考博落榜",
-      "onboard_time": 1750393763,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 969809,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 623000,
+      "num": 623000,
+      "word": "金世佳上戏考博上岸",
+      "onboard_time": 1750395263,
+      "rank": 6,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 611304,
       "num": 848919,
       "word": "夫妻开饭店双双被确诊恶性乳腺癌",
@@ -179,12 +187,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 562841,
-      "num": 328129,
+      "raw_hot": 609058,
+      "num": 609058,
       "word": "汪苏泷演唱会获全球设计大奖",
       "onboard_time": 1750393464,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 588890,
+      "num": 632700,
+      "word": "仅退款引发商家极端要求",
+      "onboard_time": 1750395683,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568694,
+      "num": 332631,
+      "word": "伊朗9名核科学家睡觉时被暗杀",
+      "onboard_time": 1750393103,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 559680,
@@ -224,14 +248,6 @@
       "word": "俄方警告美国不要军事干预",
       "onboard_time": 1750380742,
       "rank": 10,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 521528,
-      "num": 318820,
-      "word": "伊朗9名核科学家睡觉时被暗杀",
-      "onboard_time": 1750393103,
-      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -307,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408659,
+      "num": 326324,
+      "word": "曾毅手表",
+      "onboard_time": 1750393583,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397865,
       "num": 255404,
       "word": "老人怕儿媳争房产指定儿子个人继承",
@@ -361,6 +385,14 @@
       "onboard_time": 1750377200,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367308,
+      "num": 328741,
+      "word": "伊朗导弹直接命中在以中国留学生校园",
+      "onboard_time": 1750395741,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 364624,
@@ -419,20 +451,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 347191,
-      "num": 279100,
-      "word": "曾毅手表",
-      "onboard_time": 1750393583,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340885,
       "num": 340885,
       "word": "迪丽热巴邓为 漩涡",
       "onboard_time": 1750378761,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324979,
+      "num": 324979,
+      "word": "黄晓明回应考博落榜",
+      "onboard_time": 1750396522,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324548,
+      "num": 324548,
+      "word": "以色列首都越来越像加沙了",
+      "onboard_time": 1750394304,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 324504,
@@ -467,6 +507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 306441,
+      "num": 306441,
+      "word": "泡泡玛特巨震",
+      "onboard_time": 1750390702,
+      "rank": 29,
+      "category": "财经,动漫"
+    },
+    {
       "raw_hot": 305991,
       "num": 305991,
       "word": "迪丽热巴时隔两年再播剧",
@@ -481,6 +529,14 @@
       "onboard_time": 1750386200,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291847,
+      "num": 291847,
+      "word": "以色列暗杀10名伊朗核科学家",
+      "onboard_time": 1750394363,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 291134,
@@ -515,14 +571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 273476,
-      "num": 273476,
-      "word": "泡泡玛特巨震",
-      "onboard_time": 1750390702,
-      "rank": 29,
-      "category": "财经,动漫"
-    },
-    {
       "raw_hot": 268680,
       "num": 268680,
       "word": "美国女孩喂流浪犬被40只狗围咬致死",
@@ -547,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 261813,
+      "num": 261813,
+      "word": "张艺兴说我们都是敦煌小工匠",
+      "onboard_time": 1750396281,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261267,
       "num": 134698,
       "word": "捞女游戏制作人B站号被封",
@@ -569,6 +625,14 @@
       "onboard_time": 1750347502,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 248401,
+      "num": 264144,
+      "word": "内娱首部穿剧本轻喜剧",
+      "onboard_time": 1750396882,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 240699,
@@ -611,20 +675,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 227066,
+      "num": 227066,
+      "word": "Jennie辣哭了",
+      "onboard_time": 1750395203,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227051,
+      "num": 227051,
+      "word": "白鹿背labubu和宋雨琦逛街",
+      "onboard_time": 1750396763,
+      "rank": 35,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 224032,
       "num": 224032,
       "word": "字节小米位列中国全球化品牌前二",
       "onboard_time": 1750382240,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 221506,
-      "num": 221506,
-      "word": "以色列暗杀10名伊朗核科学家",
-      "onboard_time": 1750394363,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 219240,
@@ -643,12 +715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216434,
-      "num": 216434,
-      "word": "以色列首都越来越像加沙了",
-      "onboard_time": 1750394304,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 217864,
+      "num": 325422,
+      "word": "书卷一梦定档",
+      "onboard_time": 1750393883,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 215195,
@@ -716,19 +788,11 @@
     },
     {
       "raw_hot": 208051,
-      "num": 208051,
+      "num": 328020,
       "word": "家长质疑气象台不敢发暴雨预警",
       "onboard_time": 1750393043,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207289,
-      "num": 207289,
-      "word": "书卷一梦定档",
-      "onboard_time": 1750393883,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 207191,
@@ -763,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204568,
+      "num": 204568,
+      "word": "王家卫北京故事 杨幂",
+      "onboard_time": 1750395502,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203952,
       "num": 189677,
       "word": "男生兜里全国统一的祖传僵尸纸",
@@ -795,11 +867,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194934,
+      "num": 194934,
+      "word": "书卷一梦祝绪丹主演",
+      "onboard_time": 1750396702,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194500,
       "num": 194500,
       "word": "刘宇宁李一桐新剧定档海报",
       "onboard_time": 1750394484,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191749,
+      "num": 191749,
+      "word": "临江仙加更",
+      "onboard_time": 1750397122,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -817,6 +905,14 @@
       "onboard_time": 1750386741,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188756,
+      "num": 188756,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1750396522,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 188229,
@@ -849,6 +945,14 @@
       "onboard_time": 1750384401,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 184388,
+      "num": 184388,
+      "word": "史上最大规模漫展要来了",
+      "onboard_time": 1750396343,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 184161,
@@ -913,6 +1017,22 @@
       "onboard_time": 1750343722,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166755,
+      "num": 166755,
+      "word": "相亲界已经进化成这样了吗",
+      "onboard_time": 1750395263,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 166734,
+      "num": 331889,
+      "word": "原来30万质子重离子好医保能报销",
+      "onboard_time": 1750395683,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166147,
@@ -1291,6 +1411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 94879,
+      "num": 208450,
+      "word": "灵笼2刀尖舔糖",
+      "onboard_time": 1750396763,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 93714,
       "num": 154563,
       "word": "西亚卡姆隔扣",
@@ -1385,6 +1513,14 @@
       "onboard_time": 1750369335,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75237,
+      "num": 1036107,
+      "word": "这就是中国高铁的硬实力",
+      "onboard_time": 1750395983,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74947,
@@ -1555,6 +1691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26191,
+      "num": 191966,
+      "word": "白酒股再走强",
+      "onboard_time": 1750391421,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 25523,
       "num": 420562,
       "word": "科技感拉满中国好丰景",
@@ -1609,6 +1753,14 @@
       "onboard_time": 1750375219,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18219,
+      "num": 262419,
+      "word": "商家自曝能量石功效是网上抄的",
+      "onboard_time": 1750395683,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17551,
