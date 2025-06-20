@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750429545022,
+  "endTime": 1750430654276,
   "band_list": [
     {
       "raw_hot": 11497825,
@@ -16,6 +16,14 @@
       "word": "歌手排名",
       "onboard_time": 1750426284,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3564801,
+      "num": 383784,
+      "word": "马嘉祺淘汰",
+      "onboard_time": 1750429826,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -401,6 +409,14 @@
       "onboard_time": 1750339641,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1502558,
+      "num": 369701,
+      "word": "陈楚生第一",
+      "onboard_time": 1750429587,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1491531,
@@ -1771,6 +1787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 725377,
+      "num": 334776,
+      "word": "单依纯第五",
+      "onboard_time": 1750429168,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 720281,
       "num": 720281,
       "word": "以军说打死伊朗最高军事指挥官",
@@ -2073,6 +2097,14 @@
       "onboard_time": 1750000345,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669358,
+      "num": 669358,
+      "word": "女子想开蜜雪冰城结果加盟奶爸王子",
+      "onboard_time": 1750428807,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 668039,
@@ -2640,14 +2672,6 @@
       "word": "虞书欣说选大爆剧的主角",
       "onboard_time": 1749972200,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 554042,
-      "num": 243204,
-      "word": "单依纯第五",
-      "onboard_time": 1750429168,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -4755,6 +4779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328254,
+      "num": 328254,
+      "word": "飘来飘去",
+      "onboard_time": 1750428446,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328015,
       "num": 328015,
       "word": "张酸 反派",
@@ -4955,14 +4987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 316638,
-      "num": 316638,
-      "word": "女子想开蜜雪冰城结果加盟奶爸王子",
-      "onboard_time": 1750428807,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 316521,
       "num": 316521,
       "word": "孟羽童回应一手好牌打得稀烂",
@@ -4993,6 +5017,14 @@
       "onboard_time": 1749995004,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 312056,
+      "num": 312056,
+      "word": "大批美军部队开始加餐",
+      "onboard_time": 1750429587,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 311822,
@@ -5659,6 +5691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279973,
+      "num": 279973,
+      "word": "以色列要求全境民众进避难所",
+      "onboard_time": 1750426586,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 279732,
       "num": 279732,
       "word": "Bin哥 嘴硬",
@@ -5817,14 +5857,6 @@
       "onboard_time": 1750212200,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 272025,
-      "num": 272025,
-      "word": "以色列要求全境民众进避难所",
-      "onboard_time": 1750426586,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 269591,
@@ -7580,7 +7612,7 @@
     },
     {
       "raw_hot": 209185,
-      "num": 186868,
+      "num": 202994,
       "word": "千万别买到青岛西",
       "onboard_time": 1750421361,
       "rank": 35,
@@ -8011,6 +8043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201285,
+      "num": 201285,
+      "word": "中餐厅9",
+      "onboard_time": 1750430065,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201175,
       "num": 201175,
       "word": "周深大师课婉拒了哈",
@@ -8089,14 +8129,6 @@
       "onboard_time": 1750215621,
       "rank": 28,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 199917,
-      "num": 199917,
-      "word": "飘来飘去",
-      "onboard_time": 1750428446,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 199839,
@@ -8321,6 +8353,14 @@
       "onboard_time": 1750136181,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197021,
+      "num": 197021,
+      "word": "陈楚生守榜成功",
+      "onboard_time": 1750429706,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 196220,
@@ -9691,6 +9731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176458,
+      "num": 176458,
+      "word": "者来女回家吧",
+      "onboard_time": 1750430065,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176406,
       "num": 176406,
       "word": "白鹿曾舜晞临江仙破万惊喜vlog",
@@ -10297,6 +10345,14 @@
       "onboard_time": 1750298301,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169713,
+      "num": 169713,
+      "word": "张峻豪十八岁倒数30天",
+      "onboard_time": 1750430424,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 169650,
@@ -13099,6 +13155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133528,
+      "num": 123217,
+      "word": "陈可辛吴君如女儿考入美国名校",
+      "onboard_time": 1750430605,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133400,
       "num": 195021,
       "word": "郭晓婷回应刘诗诗",
@@ -14041,6 +14105,14 @@
       "onboard_time": 1750315820,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125410,
+      "num": 125410,
+      "word": "中星9C卫星发射任务获得圆满成功",
+      "onboard_time": 1750427366,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125328,
@@ -17827,6 +17899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71076,
+      "num": 329657,
+      "word": "部分定向委培毕业包分配",
+      "onboard_time": 1750429945,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70811,
       "num": 322369,
       "word": "旅游博主江小隐景区溺亡朋友发声",
@@ -18147,6 +18227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64988,
+      "num": 121335,
+      "word": "星穹铁道FateUBW联动",
+      "onboard_time": 1750430006,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64971,
       "num": 64971,
       "word": "鞠婧祎寻找橘色海6",
@@ -18243,6 +18331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63527,
+      "num": 358259,
+      "word": "医院号码被盗打1600多个诈骗电话",
+      "onboard_time": 1750430006,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 62826,
       "num": 384556,
       "word": "男子酒后开车去派出所找厕所",
@@ -18281,6 +18377,14 @@
       "onboard_time": 1750091299,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62286,
+      "num": 121028,
+      "word": "王欣瑜祝福巴多萨早日康复",
+      "onboard_time": 1750429706,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 62123,
@@ -18993,6 +19097,14 @@
       "onboard_time": 1749943096,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 49487,
+      "num": 187367,
+      "word": "以色列华人亲历导弹警报下10分钟逃生",
+      "onboard_time": 1750430484,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49462,
@@ -21649,6 +21761,14 @@
       "onboard_time": 1750253482,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15442,
+      "num": 124358,
+      "word": "撤侨路线",
+      "onboard_time": 1750430185,
+      "rank": 42,
+      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 15399,

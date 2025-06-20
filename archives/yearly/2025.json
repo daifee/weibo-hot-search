@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1750429545022,
+  "endTime": 1750430654276,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2259,6 +2259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 3564801,
+      "num": 383784,
+      "word": "马嘉祺淘汰",
+      "onboard_time": 1750429826,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3561208,
       "num": 272818,
       "word": "伊朗 今晚大事",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744693284,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3483950,
-      "num": 3483950,
-      "word": "王者荣耀回应崩了",
-      "onboard_time": 1743169644,
-      "rank": 1,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [

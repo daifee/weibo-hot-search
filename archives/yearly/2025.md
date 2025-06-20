@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/20 22:25:45
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/20 22:44:14
 </p>
 </blockquote>
 <p>
@@ -1707,6 +1707,12 @@ GAI第一（热度：4228592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E6%B7%98%E6%B1%B0%23" target="weibo">
+马嘉祺淘汰（热度：3564801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%20%E4%BB%8A%E6%99%9A%E5%A4%A7%E4%BA%8B%23" target="weibo">
 伊朗 今晚大事（热度：3561208）
 </a>
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E6%B3%84%E6%84%A4%E6%92%9E%E6%AD%BB%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%BF%98%E8%B0%88%E7%AC%91%E9%A3%8E%E7%94%9F%23" target="weibo">
 司机泄愤撞死一家三口还谈笑风生（热度：3491899）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%9B%9E%E5%BA%94%E5%B4%A9%E4%BA%86%23" target="weibo">
-王者荣耀回应崩了（热度：3483950）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1750430654276,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7471820,
+        "num": 7471820,
+        "word": "马嘉祺 难听",
+        "onboard_time": 1750425263,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669358,
+        "num": 669358,
+        "word": "女子想开蜜雪冰城结果加盟奶爸王子",
+        "onboard_time": 1750428807,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42393,
+        "num": 422476,
+        "word": "2025年净网护网专项工作部署会召开",
+        "onboard_time": 1750420342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403204,
+        "num": 403204,
+        "word": "以色列全境响防空警报",
+        "onboard_time": 1750425263,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 385001,
+        "num": 385001,
+        "word": "留英博士迷奸多人想化学阉割减刑遭拒",
+        "onboard_time": 1750420040,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3564801,
+        "num": 383784,
+        "word": "马嘉祺淘汰",
+        "onboard_time": 1750429826,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3402691,
+        "num": 378448,
+        "word": "歌手排名",
+        "onboard_time": 1750426284,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1502558,
+        "num": 369701,
+        "word": "陈楚生第一",
+        "onboard_time": 1750429587,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1263046,
+        "num": 366249,
+        "word": "单依纯离常石磊远一点",
+        "onboard_time": 1750422861,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63527,
+        "num": 358259,
+        "word": "医院号码被盗打1600多个诈骗电话",
+        "onboard_time": 1750430006,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 751105,
+        "num": 356419,
+        "word": "歌手直播",
+        "onboard_time": 1750419140,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666289,
+        "num": 345709,
+        "word": "伊朗玩抽象",
+        "onboard_time": 1750424482,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 604874,
+        "num": 342714,
+        "word": "中国留学生迷奸10人受害者发声",
+        "onboard_time": 1750411941,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725377,
+        "num": 334776,
+        "word": "单依纯第五",
+        "onboard_time": 1750429168,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71076,
+        "num": 329657,
+        "word": "部分定向委培毕业包分配",
+        "onboard_time": 1750429945,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328254,
+        "num": 328254,
+        "word": "飘来飘去",
+        "onboard_time": 1750428446,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312056,
+        "num": 312056,
+        "word": "大批美军部队开始加餐",
+        "onboard_time": 1750429587,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 279973,
+        "num": 279973,
+        "word": "以色列要求全境民众进避难所",
+        "onboard_time": 1750426586,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233286,
+        "num": 233286,
+        "word": "清华回应女教授被树砸身亡",
+        "onboard_time": 1750406181,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209093,
+        "num": 209093,
+        "word": "北大退学考清华男生自称有些狂妄",
+        "onboard_time": 1750422202,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1517276,
+        "num": 208420,
+        "word": "者来女 难听",
+        "onboard_time": 1750425384,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512664,
+        "num": 206920,
+        "word": "陈楚生摇滚",
+        "onboard_time": 1750427185,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417085,
+        "num": 205002,
+        "word": "易烊千玺演唱会",
+        "onboard_time": 1750425805,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331051,
+        "num": 203514,
+        "word": "如愿",
+        "onboard_time": 1750424541,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202994,
+        "num": 202994,
+        "word": "千万别买到青岛西",
+        "onboard_time": 1750421361,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258128,
+        "num": 202583,
+        "word": "好听",
+        "onboard_time": 1750428925,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215306,
+        "num": 202197,
+        "word": "给米奇第一吧",
+        "onboard_time": 1750426465,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201617,
+        "num": 201617,
+        "word": "男子一周吃3次火锅查出食管癌",
+        "onboard_time": 1750420521,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201285,
+        "num": 201285,
+        "word": "中餐厅9",
+        "onboard_time": 1750430065,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197021,
+        "num": 197021,
+        "word": "陈楚生守榜成功",
+        "onboard_time": 1750429706,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189511,
+        "num": 189511,
+        "word": "邓紫棋给GAI发消息了",
+        "onboard_time": 1750426886,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187388,
+        "num": 187388,
+        "word": "现在就出发3",
+        "onboard_time": 1750412482,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49487,
+        "num": 187367,
+        "word": "以色列华人亲历导弹警报下10分钟逃生",
+        "onboard_time": 1750430484,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187351,
+        "num": 187351,
+        "word": "成毅去钓鱼了",
+        "onboard_time": 1750424002,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186406,
+        "num": 186406,
+        "word": "男孩结婚2小时后坠亡婚姻被判无效",
+        "onboard_time": 1750412122,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180075,
+        "num": 180075,
+        "word": "官方调查那尔那茜",
+        "onboard_time": 1750416681,
+        "rank": 35,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 176458,
+        "num": 176458,
+        "word": "者来女回家吧",
+        "onboard_time": 1750430065,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169713,
+        "num": 169713,
+        "word": "张峻豪十八岁倒数30天",
+        "onboard_time": 1750430424,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125472,
+        "num": 125472,
+        "word": "特朗普被爆对打击伊朗没信心",
+        "onboard_time": 1750428085,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125410,
+        "num": 125410,
+        "word": "中星9C卫星发射任务获得圆满成功",
+        "onboard_time": 1750427366,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167091,
+        "num": 125267,
+        "word": "GAI黄种人",
+        "onboard_time": 1750423940,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146566,
+        "num": 124609,
+        "word": "米奇第二",
+        "onboard_time": 1750429468,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15442,
+        "num": 124358,
+        "word": "撤侨路线",
+        "onboard_time": 1750430185,
+        "rank": 42,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 145070,
+        "num": 123923,
+        "word": "歌手2025首次开启双曲袭榜",
+        "onboard_time": 1750407622,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133528,
+        "num": 123217,
+        "word": "陈可辛吴君如女儿考入美国名校",
+        "onboard_time": 1750430605,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161539,
+        "num": 122825,
+        "word": "者来女把GAI唱懵了",
+        "onboard_time": 1750429525,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128705,
+        "num": 122410,
+        "word": "藏海传上国务院新闻见面会了",
+        "onboard_time": 1750424062,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106226,
+        "num": 122091,
+        "word": "天热出汗会消耗脂肪吗",
+        "onboard_time": 1750429108,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64988,
+        "num": 121335,
+        "word": "星穹铁道FateUBW联动",
+        "onboard_time": 1750430006,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62286,
+        "num": 121028,
+        "word": "王欣瑜祝福巴多萨早日康复",
+        "onboard_time": 1750429706,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新西兰总理拉克森#"
+    }
+  }
+}
