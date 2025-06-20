@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750424876388,
+  "endTime": 1750426594569,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -155,6 +155,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 5619395,
+      "num": 5619395,
+      "word": "马嘉祺 难听",
+      "onboard_time": 1749820524,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5050675,
       "num": 6300675,
       "word": "成都震感",
@@ -201,14 +209,6 @@
       "onboard_time": 1749866060,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 4369490,
-      "num": 2045368,
-      "word": "马嘉祺 难听",
-      "onboard_time": 1749820524,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 4228592,
@@ -336,6 +336,14 @@
       "word": "浪姐直播 假唱",
       "onboard_time": 1749299722,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3078115,
+      "num": 3078115,
+      "word": "者来女 难听",
+      "onboard_time": 1750425384,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -545,6 +553,14 @@
       "onboard_time": 1749013700,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2506923,
+      "num": 1717384,
+      "word": "单依纯离常石磊远一点",
+      "onboard_time": 1750422861,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2422025,
@@ -1145,14 +1161,6 @@
       "onboard_time": 1749171680,
       "rank": 10,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 1717384,
-      "num": 1717384,
-      "word": "单依纯离常石磊远一点",
-      "onboard_time": 1750422861,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1712972,
@@ -2417,6 +2425,14 @@
       "onboard_time": 1749823527,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1210667,
+      "num": 349470,
+      "word": "如愿",
+      "onboard_time": 1750424541,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 1207400,
@@ -4243,6 +4259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 879388,
+      "num": 342723,
+      "word": "马嘉祺云与海",
+      "onboard_time": 1750425144,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 878391,
       "num": 1100444,
       "word": "李荣浩力挺邓紫棋",
@@ -5419,6 +5443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 746181,
+      "num": 676089,
+      "word": "以色列开始哭哭啼啼",
+      "onboard_time": 1750422202,
+      "rank": 5,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 745777,
       "num": 745777,
       "word": "周深让你穿雨衣没让你穿这款",
@@ -5891,6 +5923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 712406,
+      "num": 712406,
+      "word": "伊朗玩抽象",
+      "onboard_time": 1750424482,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 711280,
       "num": 711280,
       "word": "曾舜晞白鹿婚纱营业",
@@ -5985,6 +6025,14 @@
       "onboard_time": 1749654383,
       "rank": 12,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 703651,
+      "num": 473183,
+      "word": "陈楚生第二位守榜歌手",
+      "onboard_time": 1750423822,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 702622,
@@ -6344,6 +6392,14 @@
       "word": "大爷被咬后一脚将蛇踩死带着去就医",
       "onboard_time": 1749830541,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 676411,
+      "num": 676411,
+      "word": "北大退学考清华男生自称有些狂妄",
+      "onboard_time": 1750422202,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -6977,14 +7033,6 @@
       "onboard_time": 1749963679,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 632441,
-      "num": 632441,
-      "word": "以色列开始哭哭啼啼",
-      "onboard_time": 1750422202,
-      "rank": 5,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 632042,
@@ -10355,14 +10403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 473183,
-      "num": 473183,
-      "word": "陈楚生第二位守榜歌手",
-      "onboard_time": 1750423822,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 472777,
       "num": 704723,
       "word": "于正拍的古力娜扎",
@@ -11113,14 +11153,6 @@
       "onboard_time": 1749921557,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 441101,
-      "num": 252579,
-      "word": "如愿",
-      "onboard_time": 1750424541,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 441053,
@@ -13779,6 +13811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362878,
+      "num": 273551,
+      "word": "周深连撕两个人的名牌",
+      "onboard_time": 1750425204,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362760,
       "num": 362760,
       "word": "周深称被大家看见很难留住更难",
@@ -13817,6 +13857,14 @@
       "onboard_time": 1749281484,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362059,
+      "num": 362059,
+      "word": "以色列全境响防空警报",
+      "onboard_time": 1750425263,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 362021,
@@ -15299,6 +15347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331325,
+      "num": 546464,
+      "word": "男子一周吃3次火锅查出食管癌",
+      "onboard_time": 1750420521,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331303,
       "num": 366556,
       "word": "谢震业父亲节官宣当爸爸",
@@ -15457,6 +15513,14 @@
       "onboard_time": 1749280702,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327940,
+      "num": 170894,
+      "word": "Grace好有诚意",
+      "onboard_time": 1750424784,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 327904,
@@ -20475,6 +20539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 248262,
+      "num": 141983,
+      "word": "李莎旻子请停止整gai",
+      "onboard_time": 1750425865,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248142,
       "num": 248142,
       "word": "圣枪哥 打了十年第一次要去MSI了",
@@ -20673,6 +20745,14 @@
       "onboard_time": 1749219805,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245743,
+      "num": 199688,
+      "word": "成毅去钓鱼了",
+      "onboard_time": 1750424002,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 245643,
@@ -22353,14 +22433,6 @@
       "onboard_time": 1749974780,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 227244,
-      "num": 227244,
-      "word": "伊朗玩抽象",
-      "onboard_time": 1750424482,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 227186,
@@ -26851,14 +26923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199688,
-      "num": 199688,
-      "word": "成毅去钓鱼了",
-      "onboard_time": 1750424002,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199661,
       "num": 199661,
       "word": "李昀锐奔跑吧澳门录制",
@@ -27609,6 +27673,14 @@
       "onboard_time": 1749373640,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196510,
+      "num": 178757,
+      "word": "千万别买到青岛西",
+      "onboard_time": 1750421361,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 196502,
@@ -28441,14 +28513,6 @@
       "onboard_time": 1749376402,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 192494,
-      "num": 546464,
-      "word": "男子一周吃3次火锅查出食管癌",
-      "onboard_time": 1750420521,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192388,
@@ -30243,6 +30307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185544,
+      "num": 125082,
+      "word": "麦可布雷袭榜成功",
+      "onboard_time": 1750425324,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185539,
       "num": 185539,
       "word": "陈伟霆曾舜晞陈瑶九门开机同框",
@@ -31729,14 +31801,6 @@
       "onboard_time": 1749623720,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178757,
-      "num": 178757,
-      "word": "千万别买到青岛西",
-      "onboard_time": 1750421361,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 178745,
@@ -33507,6 +33571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171461,
+      "num": 124839,
+      "word": "给米奇第一吧",
+      "onboard_time": 1750426465,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171458,
       "num": 171458,
       "word": "叶童曾担心参加浪姐会砸了饭碗",
@@ -33576,6 +33648,14 @@
       "word": "周杰伦知道你急但你先别急",
       "onboard_time": 1749298342,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170853,
+      "num": 209526,
+      "word": "格莱美来了也要拎两箱酸酸乳走",
+      "onboard_time": 1750425384,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -37713,14 +37793,6 @@
       "onboard_time": 1750159582,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155471,
-      "num": 155471,
-      "word": "Grace好有诚意",
-      "onboard_time": 1750424784,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 155462,
@@ -46915,6 +46987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125968,
+      "num": 125968,
+      "word": "梁王组合又双叒叕默契了",
+      "onboard_time": 1750425504,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125957,
       "num": 125957,
       "word": "程靖淇说樊振东打球进入新境界",
@@ -52739,6 +52819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106006,
+      "num": 106006,
+      "word": "魏栓师等人违规吃喝致1人死亡",
+      "onboard_time": 1750425083,
+      "rank": 47,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 106001,
       "num": 106001,
       "word": "唐国强 常驻王牌",
@@ -52881,6 +52969,14 @@
       "onboard_time": 1750151482,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105251,
+      "num": 105251,
+      "word": "桃黑黑 今天没法直播了",
+      "onboard_time": 1750426045,
+      "rank": 48,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 105223,
@@ -60035,14 +60131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67915,
-      "num": 294184,
-      "word": "北大退学考清华男生自称有些狂妄",
-      "onboard_time": 1750422202,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67899,
       "num": 251969,
       "word": "王铮亮续上披荆斩棘",
@@ -62185,6 +62273,14 @@
       "onboard_time": 1750405882,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56037,
+      "num": 228939,
+      "word": "在暨大科技加持后的体育会有多强",
+      "onboard_time": 1750426164,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 56035,
