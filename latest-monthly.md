@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/01 00:29:39 ~ 2025/06/20 10:25:07
+本榜单时间：2025/06/01 00:29:39 ~ 2025/06/20 11:23:00
 </p>
 </blockquote>
 <p>
@@ -1115,6 +1115,12 @@ GAI是不是想走了（热度：1689581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%AF%E4%B8%80%E6%B2%A1%E6%9C%89%E9%BB%91%E7%B2%89%E7%9A%84%E6%98%8E%E6%98%9F%23" target="weibo">
 唯一没有黑粉的明星（热度：1491531）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9FHIV%E6%84%9F%E6%9F%93%E6%83%85%E5%86%B5%23" target="weibo">
+大学生HIV感染情况（热度：1490352）
 </a>
 </li>
 
@@ -3093,6 +3099,12 @@ aespa回归预告（热度：882775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%913%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%23" target="weibo">
+现在就出发3原班人马（热度：870485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%81%9A%E5%AE%8C%E7%9A%AE%E7%A7%92%E8%A2%AB%E8%87%AA%E5%B7%B1%E5%90%93%E5%88%B0%23" target="weibo">
 蔡文静做完皮秒被自己吓到（热度：870416）
 </a>
@@ -3711,6 +3723,12 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
+一念江南阵容官宣（热度：774727）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%AF%B4%E5%B0%8F%E7%B3%AF%E7%B1%B3%E7%94%BB%E7%94%BB%E6%8C%BA%E5%A5%BD%23" target="weibo">
 杨幂说小糯米画画挺好（热度：774569）
 </a>
@@ -3815,12 +3833,6 @@ T3司机猥亵大三女生被行拘5日（热度：810171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E8%A2%AB%E6%9B%9D%E8%AE%A9%E5%AD%A6%E7%94%9F%E4%B8%80%E5%AD%97%E6%8E%92%E5%BC%80%E8%B7%AA%E5%9C%B0%E5%86%99%E6%A3%80%E8%AE%A8%23" target="weibo">
 老师被曝让学生一字排开跪地写检讨（热度：761892）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
-一念江南阵容官宣（热度：760635）
 </a>
 </li>
 
@@ -5763,6 +5775,12 @@ GAI 大白嗓（热度：583445）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A8%BB%E7%94%B0%E9%87%8C%E7%9A%84%E5%B0%8F%E9%BE%99%E8%99%BE%E8%A2%AB%E7%83%AB%E7%86%9F%E4%BA%86%23" target="weibo">
+日本稻田里的小龙虾被烫熟了（热度：578298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%80%E5%A4%A9%E5%90%83%E5%9B%9B%E9%A1%BF%E8%BA%AB%E9%AB%98%E5%AE%9A%E6%A0%BC170%23" target="weibo">
 13岁男孩一天吃四顿身高定格170（热度：578257）
 </a>
@@ -5993,24 +6011,6 @@ GAI 大白嗓（热度：583445）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E5%AE%A2%E4%B8%BE%E6%8A%A5K783%E6%AC%A1%E5%88%97%E8%BD%A6%E5%91%98%E9%A4%90%E8%BD%A6%E5%86%85%E5%90%B8%E7%83%9F%23" target="weibo">
 旅客举报K783次列车员餐车内吸烟（热度：558941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E6%99%92%E5%84%BF%E5%AD%90%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%AD%A6%E7%94%9F%E6%B4%BB%E8%B4%B9%23" target="weibo">
-杨威晒儿子在香港上学生活费（热度：558886）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%BA%E6%B0%A7%E7%A6%BB%E4%B8%96%E5%8D%A1%E8%BD%A6%E5%8F%B8%E6%9C%BA%E5%B7%B2%E4%B8%8B%E8%91%AC%E5%8D%A1%E5%8F%8B%E5%8F%91%E5%A3%B0%23" target="weibo">
-缺氧离世卡车司机已下葬卡友发声（热度：558235）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E9%80%9A%E6%8A%A5%E4%B8%80%E5%90%8D6%E5%B9%B4%E7%BA%A7%E7%94%B7%E7%94%9F%E5%9D%A0%E6%A5%BC%23" target="weibo">
-桂林通报一名6年级男生坠楼（热度：558020）
 </a>
 </li>
 
