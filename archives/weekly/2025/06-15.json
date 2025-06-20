@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750451318061,
+  "endTime": 1750452151077,
   "band_list": [
     {
       "raw_hot": 11497825,
@@ -20924,7 +20924,7 @@
     },
     {
       "raw_hot": 29781,
-      "num": 29282,
+      "num": 29411,
       "word": "豆包p图指令",
       "onboard_time": 1750446854,
       "rank": 35,
@@ -21289,6 +21289,14 @@
       "onboard_time": 1750408882,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25069,
+      "num": 25069,
+      "word": "俄罗斯愿与中国开展全面合作",
+      "onboard_time": 1750452074,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25036,
@@ -22523,6 +22531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9565,
+      "num": 25026,
+      "word": "周家斌被双开",
+      "onboard_time": 1750451953,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9375,
       "num": 47970,
       "word": "叨叨傅说荣耀属于全体苏南",
@@ -22553,6 +22569,14 @@
       "onboard_time": 1750145901,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9004,
+      "num": 24847,
+      "word": "一诺KPL连胜王",
+      "onboard_time": 1750452134,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 8527,
