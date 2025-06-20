@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750440227327,
+  "endTime": 1750441316505,
   "band_list": [
     {
       "raw_hot": 1781309,
@@ -67,8 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 433378,
-      "num": 158618,
+      "raw_hot": 452129,
+      "num": 452129,
       "word": "耳帝说马嘉祺这一场与上一场的歌都不适合他",
       "onboard_time": 1750439779,
       "rank": 5,
@@ -195,20 +195,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177924,
+      "num": 177924,
+      "word": "俄称伊朗政权更迭不可接受",
+      "onboard_time": 1750438759,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174187,
       "num": 162807,
       "word": "千万别买到青岛西",
       "onboard_time": 1750421361,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163495,
-      "num": 163495,
-      "word": "俄称伊朗政权更迭不可接受",
-      "onboard_time": 1750438759,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 162818,
@@ -411,6 +411,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 65947,
+      "num": 65947,
+      "word": "单依纯说我就知道",
+      "onboard_time": 1750440917,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65129,
       "num": 87958,
       "word": "手机之家向小米公开致歉",
@@ -443,8 +451,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57230,
+      "num": 109803,
+      "word": "国家千亿级大项目撬动消费动能",
+      "onboard_time": 1750440079,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56922,
-      "num": 56922,
+      "num": 64465,
       "word": "者来女把GAI唱懵了",
       "onboard_time": 1750429525,
       "rank": 44,
@@ -456,14 +472,6 @@
       "word": "文化中国行美好如夏至",
       "onboard_time": 1750439538,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50543,
-      "num": 56064,
-      "word": "国家千亿级大项目撬动消费动能",
-      "onboard_time": 1750440079,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -481,6 +489,14 @@
       "onboard_time": 1750422020,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 42845,
+      "num": 64458,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1750425805,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 36759,
