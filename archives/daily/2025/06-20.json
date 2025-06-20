@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750433261194,
+  "endTime": 1750434158984,
   "band_list": [
     {
       "raw_hot": 11497825,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3564801,
-      "num": 383784,
+      "num": 1831631,
       "word": "马嘉祺淘汰",
       "onboard_time": 1750429826,
       "rank": 5,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1239675,
-      "num": 205438,
+      "num": 228610,
       "word": "陈楚生 难听",
       "onboard_time": 1750431384,
       "rank": 20,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1079544,
+      "num": 1079544,
+      "word": "女子想开蜜雪冰城结果加盟奶爸王子",
+      "onboard_time": 1750428807,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1077325,
       "num": 1077325,
       "word": "花少7网传最终阵容",
@@ -265,14 +273,6 @@
       "onboard_time": 1750405763,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 991804,
-      "num": 991804,
-      "word": "女子想开蜜雪冰城结果加盟奶爸王子",
-      "onboard_time": 1750428807,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 977565,
@@ -579,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 579655,
+      "num": 579655,
+      "word": "大批美军部队开始加餐",
+      "onboard_time": 1750429587,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 568694,
       "num": 332631,
       "word": "伊朗9名核科学家睡觉时被暗杀",
@@ -625,6 +633,14 @@
       "onboard_time": 1750331661,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 534319,
+      "num": 352971,
+      "word": "导播不语只是一味切易烊千玺",
+      "onboard_time": 1750432103,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 533210,
@@ -675,10 +691,10 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 498303,
-      "num": 498303,
-      "word": "大批美军部队开始加餐",
-      "onboard_time": 1750429587,
+      "raw_hot": 497921,
+      "num": 261527,
+      "word": "伊朗",
+      "onboard_time": 1750430964,
       "rank": 16,
       "category": "国际时政"
     },
@@ -785,6 +801,14 @@
       "onboard_time": 1750349000,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425595,
+      "num": 349817,
+      "word": "耳帝",
+      "onboard_time": 1750432702,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 420036,
@@ -905,6 +929,14 @@
       "onboard_time": 1750377200,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367205,
+      "num": 252186,
+      "word": "沈梦辰没读热搜",
+      "onboard_time": 1750432883,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 364624,
@@ -1115,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300654,
+      "num": 235829,
+      "word": "千万别买到青岛西",
+      "onboard_time": 1750421361,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299998,
       "num": 299998,
       "word": "00后极简出门不背包也太爽了",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1750407982,
       "rank": 9,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 294048,
-      "num": 207032,
-      "word": "导播不语只是一味切易烊千玺",
-      "onboard_time": 1750432103,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 293708,
@@ -1193,14 +1225,6 @@
       "onboard_time": 1750365375,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282152,
-      "num": 206967,
-      "word": "伊朗",
-      "onboard_time": 1750430964,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 280333,
@@ -1331,14 +1355,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 254903,
-      "num": 189351,
-      "word": "耳帝",
-      "onboard_time": 1750432702,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254700,
       "num": 319525,
       "word": "超9000应用具有鸿蒙独特功能",
@@ -1395,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240800,
-      "num": 186971,
-      "word": "沈梦辰没读热搜",
-      "onboard_time": 1750432883,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240699,
       "num": 240699,
       "word": "光与夜之恋",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1750406362,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 239535,
-      "num": 206949,
-      "word": "千万别买到青岛西",
-      "onboard_time": 1750421361,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 236791,
@@ -1484,7 +1484,7 @@
     },
     {
       "raw_hot": 227187,
-      "num": 227187,
+      "num": 232588,
       "word": "中星9C卫星发射任务获得圆满成功",
       "onboard_time": 1750427366,
       "rank": 39,
@@ -1641,6 +1641,14 @@
       "onboard_time": 1750389621,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208600,
+      "num": 194431,
+      "word": "长安的荔枝结局",
+      "onboard_time": 1750432824,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 208304,
@@ -1865,6 +1873,14 @@
       "onboard_time": 1750408102,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193526,
+      "num": 193526,
+      "word": "藏海传热播绝非偶然",
+      "onboard_time": 1750433422,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 192048,
@@ -2499,6 +2515,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 144790,
+      "num": 144790,
+      "word": "被跑男科普到了她的来历",
+      "onboard_time": 1750432403,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143457,
       "num": 143457,
       "word": "中餐厅9合伙人全员摩洛哥打工",
@@ -2523,12 +2547,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 137448,
-      "num": 137448,
-      "word": "被跑男科普到了她的来历",
-      "onboard_time": 1750432403,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 139121,
+      "num": 139121,
+      "word": "黄霄雲吐槽出差酒店",
+      "onboard_time": 1750431444,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 136602,
@@ -2553,14 +2577,6 @@
       "onboard_time": 1750399822,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135471,
-      "num": 135471,
-      "word": "长安的荔枝结局",
-      "onboard_time": 1750432824,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 134992,
@@ -2588,7 +2604,7 @@
     },
     {
       "raw_hot": 133528,
-      "num": 129496,
+      "num": 131583,
       "word": "陈可辛吴君如女儿考入美国名校",
       "onboard_time": 1750430605,
       "rank": 44,
@@ -2857,14 +2873,6 @@
       "onboard_time": 1750393403,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115344,
-      "num": 115344,
-      "word": "黄霄雲吐槽出差酒店",
-      "onboard_time": 1750431444,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 115166,
@@ -3139,20 +3147,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100770,
+      "num": 329657,
+      "word": "部分定向委培毕业包分配",
+      "onboard_time": 1750429945,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100153,
+      "num": 112693,
+      "word": "手机之家向小米公开致歉",
+      "onboard_time": 1750431083,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 97525,
       "num": 169414,
       "word": "林大厨找虞书欣帮忙",
       "onboard_time": 1750332981,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97420,
-      "num": 329657,
-      "word": "部分定向委培毕业包分配",
-      "onboard_time": 1750429945,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97005,
@@ -3211,20 +3227,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92815,
+      "num": 92815,
+      "word": "周深澳门男大下课",
+      "onboard_time": 1750433663,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 91649,
       "num": 1468914,
       "word": "这就是中国高铁的硬实力",
       "onboard_time": 1750395983,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 91162,
-      "num": 112693,
-      "word": "手机之家向小米公开致歉",
-      "onboard_time": 1750431083,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 87408,
@@ -3235,12 +3251,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87144,
+      "num": 131912,
+      "word": "日本女排vs意大利女排",
+      "onboard_time": 1750432582,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86821,
       "num": 298371,
       "word": "取消国补是谣言",
       "onboard_time": 1750397843,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86045,
+      "num": 246016,
+      "word": "电诈骗子潜入医院劫持电话",
+      "onboard_time": 1750432941,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86007,
+      "num": 86007,
+      "word": "酱园弄彩蛋",
+      "onboard_time": 1750434022,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 85192,
@@ -3257,6 +3297,14 @@
       "onboard_time": 1750394363,
       "rank": 13,
       "category": "教育,网红"
+    },
+    {
+      "raw_hot": 82672,
+      "num": 358259,
+      "word": "医院号码被盗打1600多个诈骗电话",
+      "onboard_time": 1750430006,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 82566,
@@ -3411,14 +3459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 64424,
-      "num": 200916,
-      "word": "电诈骗子潜入医院劫持电话",
-      "onboard_time": 1750432941,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64309,
       "num": 551830,
       "word": "与肖战尽享这一刻",
@@ -3441,14 +3481,6 @@
       "onboard_time": 1750397542,
       "rank": 19,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 63527,
-      "num": 358259,
-      "word": "医院号码被盗打1600多个诈骗电话",
-      "onboard_time": 1750430006,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 62826,
@@ -3603,6 +3635,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 46400,
+      "num": 587066,
+      "word": "中国饭碗里的科技范儿",
+      "onboard_time": 1750431744,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42591,
       "num": 152636,
       "word": "网购羊初乳得布病",
@@ -3625,14 +3665,6 @@
       "onboard_time": 1750432403,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40938,
-      "num": 526875,
-      "word": "中国饭碗里的科技范儿",
-      "onboard_time": 1750431744,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40441,
