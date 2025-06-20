@@ -1,0 +1,410 @@
+{
+  "runTime": 1750416371884,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1435792,
+        "num": 1435792,
+        "word": "清华回应女教授被树砸身亡",
+        "onboard_time": 1750406181,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1363103,
+        "num": 1363103,
+        "word": "花少7 张雅琪",
+        "onboard_time": 1750411881,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43003,
+        "num": 1161681,
+        "word": "锦绣天府安逸四川",
+        "onboard_time": 1750408940,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 977565,
+        "num": 977565,
+        "word": "张爱玲 清华",
+        "onboard_time": 1750410982,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656719,
+        "num": 656719,
+        "word": "李光洁说不想和蒋欣演两口子了",
+        "onboard_time": 1750412961,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521091,
+        "num": 521091,
+        "word": "清华大学",
+        "onboard_time": 1750410081,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 497475,
+        "num": 497475,
+        "word": "柯颖 花少7",
+        "onboard_time": 1750414882,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493445,
+        "num": 493445,
+        "word": "大学生HIV感染情况",
+        "onboard_time": 1750386622,
+        "rank": 7,
+        "category": "健康医疗,教育"
+      },
+      {
+        "raw_hot": 401526,
+        "num": 401526,
+        "word": "工人跪地哀求主管别开除",
+        "onboard_time": 1750413261,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396079,
+        "num": 396079,
+        "word": "现在就出发3",
+        "onboard_time": 1750412482,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1759922,
+        "num": 393725,
+        "word": "中国留学生迷奸10人受害者发声",
+        "onboard_time": 1750411941,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504833,
+        "num": 393386,
+        "word": "于正被爆在闲鱼招素人演员",
+        "onboard_time": 1750403780,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429776,
+        "num": 392690,
+        "word": "小沈阳女儿希望像前辈Jennie一样",
+        "onboard_time": 1750412301,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391323,
+        "num": 391323,
+        "word": "男孩结婚2小时后坠亡婚姻被判无效",
+        "onboard_time": 1750412122,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294976,
+        "num": 294976,
+        "word": "杀害杨靖宇日本军官自杀前的遗言",
+        "onboard_time": 1750405763,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276286,
+        "num": 294032,
+        "word": "黄晓明回应考博落榜",
+        "onboard_time": 1750396522,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293708,
+        "num": 293708,
+        "word": "北大退学考清华男生否认拿高考赚钱",
+        "onboard_time": 1750413741,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190068,
+        "num": 269817,
+        "word": "十个勤天幻想40岁的那天",
+        "onboard_time": 1750415721,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257295,
+        "num": 257295,
+        "word": "超三万鸿蒙应用加速开发更新",
+        "onboard_time": 1750414820,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263161,
+        "num": 256726,
+        "word": "现在就出发",
+        "onboard_time": 1750409121,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249576,
+        "num": 249576,
+        "word": "花少7网传最终阵容",
+        "onboard_time": 1750409781,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223801,
+        "num": 223801,
+        "word": "伊朗导弹直接命中在以中国留学生校园",
+        "onboard_time": 1750395741,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206885,
+        "num": 206885,
+        "word": "教授被树砸身亡系校外企业违规作业",
+        "onboard_time": 1750412001,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50592,
+        "num": 205610,
+        "word": "当代大学生的神州时髦范儿",
+        "onboard_time": 1750414820,
+        "rank": 23,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 205604,
+        "num": 205604,
+        "word": "凤凰传奇",
+        "onboard_time": 1750414820,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199784,
+        "num": 199784,
+        "word": "bw",
+        "onboard_time": 1750415781,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 194024,
+        "num": 194024,
+        "word": "焦虑症 从小吓出来的",
+        "onboard_time": 1750402342,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49847,
+        "num": 192376,
+        "word": "华为发布全新鸿蒙智能体",
+        "onboard_time": 1750412060,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 59768,
+        "num": 191917,
+        "word": "鸿蒙拦截不合理权限超86亿次",
+        "onboard_time": 1750414820,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 32675,
+        "num": 191704,
+        "word": "工作中有必要事事留痕吗",
+        "onboard_time": 1750415540,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 191656,
+        "num": 191656,
+        "word": "建议成人吃荔枝每日不超过10颗",
+        "onboard_time": 1750410320,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176834,
+        "num": 176834,
+        "word": "中方坚决反对以航行自由为名挑衅",
+        "onboard_time": 1750412361,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168423,
+        "num": 168423,
+        "word": "以色列顶级科研所被伊朗导弹炸成废墟",
+        "onboard_time": 1750401741,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166187,
+        "num": 166187,
+        "word": "泡泡玛特成立影视部门",
+        "onboard_time": 1750412001,
+        "rank": 33,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 165225,
+        "num": 165225,
+        "word": "曾毅因身体原因暂停工作",
+        "onboard_time": 1750392203,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160824,
+        "num": 160824,
+        "word": "仅退款引发商家极端要求",
+        "onboard_time": 1750395683,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94781,
+        "num": 158748,
+        "word": "城市SUV要越野能力有用吗",
+        "onboard_time": 1750414820,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157614,
+        "num": 157614,
+        "word": "北大退学男子一战669分二战716分",
+        "onboard_time": 1750405582,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154231,
+        "num": 154231,
+        "word": "婚检查出重大疾病医院仅告知本人",
+        "onboard_time": 1750414161,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27785,
+        "num": 148609,
+        "word": "5个动作放松肩颈",
+        "onboard_time": 1750415362,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 146806,
+        "num": 146806,
+        "word": "曝Hang加入TES",
+        "onboard_time": 1750415362,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145034,
+        "num": 145034,
+        "word": "虞书欣大战刘海",
+        "onboard_time": 1750415661,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135244,
+        "num": 135244,
+        "word": "歌手2025首次开启双曲袭榜",
+        "onboard_time": 1750407622,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134661,
+        "num": 134661,
+        "word": "以色列总理称目标提前完成",
+        "onboard_time": 1750410861,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133173,
+        "num": 133173,
+        "word": "付航第一部男主剧演保安",
+        "onboard_time": 1750413501,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129834,
+        "num": 129834,
+        "word": "李一桐新剧大婚要命",
+        "onboard_time": 1750415961,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128980,
+        "num": 128980,
+        "word": "董子健终于加入邓超孙俪这个家了",
+        "onboard_time": 1750410681,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127531,
+        "num": 127531,
+        "word": "周柯宇吻戏好用力",
+        "onboard_time": 1750402582,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122263,
+        "num": 122263,
+        "word": "现在就出发3原班人马",
+        "onboard_time": 1750387760,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114730,
+        "num": 114730,
+        "word": "饿了么回应网传员工被警方带走",
+        "onboard_time": 1750416202,
+        "rank": 49,
+        "category": "互联网,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中新两国要共同捍卫联合国核心国际体系#"
+    }
+  }
+}

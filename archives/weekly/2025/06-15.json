@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750415317392,
+  "endTime": 1750416371884,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1759922,
+      "num": 1455645,
+      "word": "中国留学生迷奸10人受害者发声",
+      "onboard_time": 1750411941,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1752363,
       "num": 453927,
       "word": "公开戴不雅手表是否涉传播淫秽物品",
@@ -361,14 +369,6 @@
       "onboard_time": 1750390100,
       "rank": 31,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 1455645,
-      "num": 1455645,
-      "word": "中国留学生迷奸10人受害者发声",
-      "onboard_time": 1750411941,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1453949,
@@ -931,6 +931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 977565,
+      "num": 977565,
+      "word": "张爱玲 清华",
+      "onboard_time": 1750410982,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 974312,
       "num": 974312,
       "word": "无锡队2比0常州队",
@@ -1433,14 +1441,6 @@
       "onboard_time": 1750161261,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 791179,
-      "num": 791179,
-      "word": "张爱玲 清华",
-      "onboard_time": 1750410982,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 790319,
@@ -2001,6 +2001,14 @@
       "onboard_time": 1750298000,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 656719,
+      "num": 656719,
+      "word": "李光洁说不想和蒋欣演两口子了",
+      "onboard_time": 1750412961,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 654185,
@@ -2699,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 521091,
+      "num": 521091,
+      "word": "清华大学",
+      "onboard_time": 1750410081,
+      "rank": 38,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 520636,
       "num": 520636,
       "word": "这父亲节过的像是人情世故",
@@ -2713,14 +2729,6 @@
       "onboard_time": 1750294102,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 517790,
-      "num": 517790,
-      "word": "李光洁说不想和蒋欣演两口子了",
-      "onboard_time": 1750412961,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 516414,
@@ -2779,14 +2787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 509118,
-      "num": 509118,
-      "word": "清华大学",
-      "onboard_time": 1750410081,
-      "rank": 38,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 507714,
       "num": 507714,
       "word": "泡泡玛特回应labubu预售",
@@ -2825,6 +2825,14 @@
       "onboard_time": 1750387342,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 497475,
+      "num": 497475,
+      "word": "柯颖 花少7",
+      "onboard_time": 1750414882,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 496616,
@@ -2892,7 +2900,7 @@
     },
     {
       "raw_hot": 490524,
-      "num": 375839,
+      "num": 392690,
       "word": "小沈阳女儿希望像前辈Jennie一样",
       "onboard_time": 1750412301,
       "rank": 22,
@@ -3643,6 +3651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 401526,
+      "num": 401526,
+      "word": "工人跪地哀求主管别开除",
+      "onboard_time": 1750413261,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401094,
       "num": 401094,
       "word": "广东怀集县洪水",
@@ -3699,6 +3715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 396079,
+      "num": 396079,
+      "word": "现在就出发3",
+      "onboard_time": 1750412482,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395515,
       "num": 395515,
       "word": "北语张爱玲教授逝世终年58岁",
@@ -3753,6 +3777,14 @@
       "onboard_time": 1750409121,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391323,
+      "num": 391323,
+      "word": "男孩结婚2小时后坠亡婚姻被判无效",
+      "onboard_time": 1750412122,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 391060,
@@ -4129,14 +4161,6 @@
       "onboard_time": 1750155802,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 351211,
-      "num": 377173,
-      "word": "男孩结婚2小时后坠亡婚姻被判无效",
-      "onboard_time": 1750412122,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 350988,
@@ -4803,14 +4827,6 @@
       "category": "休闲,动漫"
     },
     {
-      "raw_hot": 302215,
-      "num": 302215,
-      "word": "现在就出发3",
-      "onboard_time": 1750412482,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301485,
       "num": 235289,
       "word": "宁静 你是不是特别爱男孩",
@@ -4968,6 +4984,14 @@
       "word": "江苏一医院称负债4400多万全员解聘",
       "onboard_time": 1750205000,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293708,
+      "num": 302761,
+      "word": "北大退学考清华男生否认拿高考赚钱",
+      "onboard_time": 1750413741,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -5249,14 +5273,6 @@
       "onboard_time": 1749976100,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 283536,
-      "num": 283536,
-      "word": "工人跪地哀求主管别开除",
-      "onboard_time": 1750413261,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283227,
@@ -5873,6 +5889,14 @@
       "onboard_time": 1749990142,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257295,
+      "num": 257295,
+      "word": "超三万鸿蒙应用加速开发更新",
+      "onboard_time": 1750414820,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 256784,
@@ -6593,14 +6617,6 @@
       "onboard_time": 1749978860,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227720,
-      "num": 227720,
-      "word": "柯颖 花少7",
-      "onboard_time": 1750414882,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 227631,
@@ -7387,6 +7403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205604,
+      "num": 205604,
+      "word": "凤凰传奇",
+      "onboard_time": 1750414820,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205381,
       "num": 339431,
       "word": "易烊千玺在剧组过了5分钟生日",
@@ -7689,6 +7713,14 @@
       "onboard_time": 1750069281,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199784,
+      "num": 199784,
+      "word": "bw",
+      "onboard_time": 1750415781,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 199717,
@@ -8155,14 +8187,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 192834,
-      "num": 238006,
-      "word": "超三万鸿蒙应用加速开发更新",
-      "onboard_time": 1750414820,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 192823,
       "num": 236890,
       "word": "老谢再发视频质问李雪琴",
@@ -8235,6 +8259,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 191656,
+      "num": 191656,
+      "word": "建议成人吃荔枝每日不超过10颗",
+      "onboard_time": 1750410320,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191497,
       "num": 231190,
       "word": "马嘉祺云与海音源",
@@ -8305,6 +8337,14 @@
       "onboard_time": 1750326141,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190068,
+      "num": 269817,
+      "word": "十个勤天幻想40岁的那天",
+      "onboard_time": 1750415721,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 190058,
@@ -10347,14 +10387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161071,
-      "num": 161071,
-      "word": "凤凰传奇",
-      "onboard_time": 1750414820,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 160860,
       "num": 160860,
       "word": "孙杨与C罗梅西的老将共鸣",
@@ -10769,14 +10801,6 @@
       "onboard_time": 1750251022,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155540,
-      "num": 155540,
-      "word": "建议成人吃荔枝每日不超过10颗",
-      "onboard_time": 1750410320,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 155501,
@@ -11419,6 +11443,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 146806,
+      "num": 146806,
+      "word": "曝Hang加入TES",
+      "onboard_time": 1750415362,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146559,
       "num": 298567,
       "word": "肇庆怀集遭遇百年一遇历史最大洪水",
@@ -11585,6 +11617,14 @@
       "onboard_time": 1750327161,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145034,
+      "num": 145034,
+      "word": "虞书欣大战刘海",
+      "onboard_time": 1750415661,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 144803,
@@ -12939,6 +12979,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 129834,
+      "num": 129834,
+      "word": "李一桐新剧大婚要命",
+      "onboard_time": 1750415961,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129695,
       "num": 129695,
       "word": "虞书欣元气双马尾",
@@ -13124,7 +13172,7 @@
     },
     {
       "raw_hot": 128145,
-      "num": 155667,
+      "num": 158748,
       "word": "城市SUV要越野能力有用吗",
       "onboard_time": 1750414820,
       "rank": 36,
@@ -14577,6 +14625,14 @@
       "onboard_time": 1750119920,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114730,
+      "num": 114730,
+      "word": "饿了么回应网传员工被警方带走",
+      "onboard_time": 1750416202,
+      "rank": 49,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 114692,
@@ -16203,14 +16259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90775,
-      "num": 302761,
-      "word": "北大退学考清华男生否认拿高考赚钱",
-      "onboard_time": 1750413741,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90694,
       "num": 90694,
       "word": "卷毛xun",
@@ -17580,7 +17628,7 @@
     },
     {
       "raw_hot": 61253,
-      "num": 186088,
+      "num": 191917,
       "word": "鸿蒙拦截不合理权限超86亿次",
       "onboard_time": 1750414820,
       "rank": 28,
@@ -19411,6 +19459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32675,
+      "num": 191704,
+      "word": "工作中有必要事事留痕吗",
+      "onboard_time": 1750415540,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 32578,
       "num": 225128,
       "word": "为什么夏天更容易出现身体缺钾的情况",
@@ -19737,6 +19793,14 @@
       "onboard_time": 1750237881,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 27785,
+      "num": 148609,
+      "word": "5个动作放松肩颈",
+      "onboard_time": 1750415362,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 27773,

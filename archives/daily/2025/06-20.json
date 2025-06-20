@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750415317392,
+  "endTime": 1750416371884,
   "band_list": [
     {
       "raw_hot": 3254925,
@@ -32,6 +32,14 @@
       "word": "赵一鸣零食店遭哄抢已移交公安处理",
       "onboard_time": 1750406781,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1759922,
+      "num": 1455645,
+      "word": "中国留学生迷奸10人受害者发声",
+      "onboard_time": 1750411941,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -73,14 +81,6 @@
       "onboard_time": 1750390100,
       "rank": 31,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 1455645,
-      "num": 1455645,
-      "word": "中国留学生迷奸10人受害者发声",
-      "onboard_time": 1750411941,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1448917,
@@ -171,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 977565,
+      "num": 977565,
+      "word": "张爱玲 清华",
+      "onboard_time": 1750410982,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 969809,
       "num": 673776,
       "word": "那尔那茜",
@@ -243,14 +251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 791179,
-      "num": 791179,
-      "word": "张爱玲 清华",
-      "onboard_time": 1750410982,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 790319,
       "num": 559167,
       "word": "宋茜 一个不发死字的女明星",
@@ -297,6 +297,14 @@
       "onboard_time": 1750350259,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 656719,
+      "num": 656719,
+      "word": "李光洁说不想和蒋欣演两口子了",
+      "onboard_time": 1750412961,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 637420,
@@ -395,20 +403,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 521091,
+      "num": 521091,
+      "word": "清华大学",
+      "onboard_time": 1750410081,
+      "rank": 38,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 517796,
       "num": 204353,
       "word": "以色列民众要求全世界阻止轰炸",
       "onboard_time": 1750337721,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 517790,
-      "num": 517790,
-      "word": "李光洁说不想和蒋欣演两口子了",
-      "onboard_time": 1750412961,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 509774,
@@ -419,20 +427,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 509118,
-      "num": 509118,
-      "word": "清华大学",
-      "onboard_time": 1750410081,
-      "rank": 38,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 500500,
       "num": 500500,
       "word": "突然发现我打赏过的外卖员都注销了",
       "onboard_time": 1750387342,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 497475,
+      "num": 497475,
+      "word": "柯颖 花少7",
+      "onboard_time": 1750414882,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 493017,
@@ -444,7 +452,7 @@
     },
     {
       "raw_hot": 490524,
-      "num": 375839,
+      "num": 392690,
       "word": "小沈阳女儿希望像前辈Jennie一样",
       "onboard_time": 1750412301,
       "rank": 22,
@@ -539,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 401526,
+      "num": 401526,
+      "word": "工人跪地哀求主管别开除",
+      "onboard_time": 1750413261,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397865,
       "num": 255404,
       "word": "老人怕儿媳争房产指定儿子个人继承",
       "onboard_time": 1750388421,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396079,
+      "num": 396079,
+      "word": "现在就出发3",
+      "onboard_time": 1750412482,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 395515,
@@ -569,6 +593,14 @@
       "onboard_time": 1750409121,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391323,
+      "num": 391323,
+      "word": "男孩结婚2小时后坠亡婚姻被判无效",
+      "onboard_time": 1750412122,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 391060,
@@ -657,14 +689,6 @@
       "onboard_time": 1750346122,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 351211,
-      "num": 377173,
-      "word": "男孩结婚2小时后坠亡婚姻被判无效",
-      "onboard_time": 1750412122,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 348047,
@@ -763,14 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302215,
-      "num": 302215,
-      "word": "现在就出发3",
-      "onboard_time": 1750412482,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 299998,
       "num": 299998,
       "word": "00后极简出门不背包也太爽了",
@@ -785,6 +801,14 @@
       "onboard_time": 1750407982,
       "rank": 9,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 293708,
+      "num": 302761,
+      "word": "北大退学考清华男生否认拿高考赚钱",
+      "onboard_time": 1750413741,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291921,
@@ -825,14 +849,6 @@
       "onboard_time": 1750365375,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283536,
-      "num": 283536,
-      "word": "工人跪地哀求主管别开除",
-      "onboard_time": 1750413261,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 280333,
@@ -913,6 +929,14 @@
       "onboard_time": 1750401622,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257295,
+      "num": 257295,
+      "word": "超三万鸿蒙应用加速开发更新",
+      "onboard_time": 1750414820,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 254700,
@@ -1009,14 +1033,6 @@
       "onboard_time": 1750410681,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227720,
-      "num": 227720,
-      "word": "柯颖 花少7",
-      "onboard_time": 1750414882,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 227066,
@@ -1235,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205604,
+      "num": 205604,
+      "word": "凤凰传奇",
+      "onboard_time": 1750414820,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205344,
       "num": 205344,
       "word": "男子30多万娶妻后新娘迟迟不领证",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1750346122,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 199784,
+      "num": 199784,
+      "word": "bw",
+      "onboard_time": 1750415781,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 199578,
@@ -1347,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192834,
-      "num": 238006,
-      "word": "超三万鸿蒙应用加速开发更新",
-      "onboard_time": 1750414820,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 192037,
       "num": 192037,
       "word": "A股",
@@ -1363,12 +1387,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 191656,
+      "num": 191656,
+      "word": "建议成人吃荔枝每日不超过10颗",
+      "onboard_time": 1750410320,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190831,
       "num": 190831,
       "word": "抗癌博主李大去世",
       "onboard_time": 1750378702,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190068,
+      "num": 269817,
+      "word": "十个勤天幻想40岁的那天",
+      "onboard_time": 1750415721,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 189667,
@@ -1659,14 +1699,6 @@
       "category": "休闲,动漫"
     },
     {
-      "raw_hot": 161071,
-      "num": 161071,
-      "word": "凤凰传奇",
-      "onboard_time": 1750414820,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 160368,
       "num": 166434,
       "word": "影帝半夜偷海胆被捕",
@@ -1689,14 +1721,6 @@
       "onboard_time": 1750403901,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155540,
-      "num": 155540,
-      "word": "建议成人吃荔枝每日不超过10颗",
-      "onboard_time": 1750410320,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 155414,
@@ -1771,6 +1795,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 146806,
+      "num": 146806,
+      "word": "曝Hang加入TES",
+      "onboard_time": 1750415362,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146258,
       "num": 146258,
       "word": "黑神话悟空首次折扣",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1750404622,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145034,
+      "num": 145034,
+      "word": "虞书欣大战刘海",
+      "onboard_time": 1750415661,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 144803,
@@ -1883,6 +1923,14 @@
       "category": "美妆,幽默"
     },
     {
+      "raw_hot": 129834,
+      "num": 129834,
+      "word": "李一桐新剧大婚要命",
+      "onboard_time": 1750415961,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129099,
       "num": 129099,
       "word": "怀集洪水",
@@ -1892,7 +1940,7 @@
     },
     {
       "raw_hot": 128145,
-      "num": 155667,
+      "num": 158748,
       "word": "城市SUV要越野能力有用吗",
       "onboard_time": 1750414820,
       "rank": 36,
@@ -2009,6 +2057,14 @@
       "onboard_time": 1750393943,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114730,
+      "num": 114730,
+      "word": "饿了么回应网传员工被警方带走",
+      "onboard_time": 1750416202,
+      "rank": 49,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 114692,
@@ -2259,14 +2315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 90775,
-      "num": 302761,
-      "word": "北大退学考清华男生否认拿高考赚钱",
-      "onboard_time": 1750413741,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87408,
       "num": 264626,
       "word": "银行股集体上攻",
@@ -2484,7 +2532,7 @@
     },
     {
       "raw_hot": 61253,
-      "num": 186088,
+      "num": 191917,
       "word": "鸿蒙拦截不合理权限超86亿次",
       "onboard_time": 1750414820,
       "rank": 28,
@@ -2659,6 +2707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32675,
+      "num": 191704,
+      "word": "工作中有必要事事留痕吗",
+      "onboard_time": 1750415540,
+      "rank": 29,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 32071,
       "num": 231748,
       "word": "宝藏大学安利计划",
@@ -2689,6 +2745,14 @@
       "onboard_time": 1750390160,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27785,
+      "num": 148609,
+      "word": "5个动作放松肩颈",
+      "onboard_time": 1750415362,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 27114,
