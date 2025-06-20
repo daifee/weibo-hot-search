@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750423958833,
+  "endTime": 1750424876388,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1147,6 +1147,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 1717384,
+      "num": 1717384,
+      "word": "单依纯离常石磊远一点",
+      "onboard_time": 1750422861,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1712972,
       "num": 989762,
       "word": "沈阳公交车碰撞事故致2死16伤",
@@ -2033,14 +2041,6 @@
       "onboard_time": 1749090859,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1312496,
-      "num": 361753,
-      "word": "单依纯离常石磊远一点",
-      "onboard_time": 1750422861,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1309842,
@@ -5451,6 +5451,14 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 742875,
+      "num": 742875,
+      "word": "留英博士迷奸多人想化学阉割减刑遭拒",
+      "onboard_time": 1750420040,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 742670,
       "num": 1118827,
       "word": "男演员没戏拍兼职699元陪爬泰山",
@@ -6563,6 +6571,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 660631,
+      "num": 558542,
+      "word": "GAI黄种人",
+      "onboard_time": 1750423940,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660381,
       "num": 551572,
       "word": "GAI 该做热玛吉了",
@@ -6963,6 +6979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 632441,
+      "num": 632441,
+      "word": "以色列开始哭哭啼啼",
+      "onboard_time": 1750422202,
+      "rank": 5,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 632042,
       "num": 387493,
       "word": "李在明边开会边大口吃紫菜包饭",
@@ -7065,6 +7089,14 @@
       "onboard_time": 1749088521,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 625743,
+      "num": 522667,
+      "word": "马嘉祺啥时候守榜",
+      "onboard_time": 1750423042,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 625491,
@@ -10323,6 +10355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473183,
+      "num": 473183,
+      "word": "陈楚生第二位守榜歌手",
+      "onboard_time": 1750423822,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472777,
       "num": 704723,
       "word": "于正拍的古力娜扎",
@@ -10689,14 +10729,6 @@
       "onboard_time": 1750329620,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461115,
-      "num": 461115,
-      "word": "留英博士迷奸多人想化学阉割减刑遭拒",
-      "onboard_time": 1750420040,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 460989,
@@ -11081,6 +11113,14 @@
       "onboard_time": 1749921557,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 441101,
+      "num": 252579,
+      "word": "如愿",
+      "onboard_time": 1750424541,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 441053,
@@ -11803,20 +11843,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416714,
+      "num": 416248,
+      "word": "现在就出发3",
+      "onboard_time": 1750412482,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416692,
       "num": 416692,
       "word": "樊振东对阵闫安",
       "onboard_time": 1749449960,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 416248,
-      "num": 416248,
-      "word": "现在就出发3",
-      "onboard_time": 1750412482,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 415992,
@@ -13787,14 +13827,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 361758,
-      "num": 361758,
-      "word": "以色列开始哭哭啼啼",
-      "onboard_time": 1750422202,
-      "rank": 5,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 361649,
       "num": 361649,
       "word": "历史出道五千年 考久一",
@@ -14129,14 +14161,6 @@
       "onboard_time": 1749343879,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 355536,
-      "num": 355536,
-      "word": "马嘉祺啥时候守榜",
-      "onboard_time": 1750423042,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 355296,
@@ -15680,6 +15704,14 @@
       "word": "新说唱2025",
       "onboard_time": 1748833039,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 321455,
+      "num": 274611,
+      "word": "歌手袭榜",
+      "onboard_time": 1750422142,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -17451,6 +17483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 288047,
+      "num": 264631,
+      "word": "歌手2025首次开启双曲袭榜",
+      "onboard_time": 1750407622,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288005,
       "num": 226363,
       "word": "2025对杨幂好点了",
@@ -18435,14 +18475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274611,
-      "num": 274611,
-      "word": "歌手袭榜",
-      "onboard_time": 1750422142,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 274306,
       "num": 274306,
       "word": "锦织圭出轨美女模特",
@@ -19083,14 +19115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264631,
-      "num": 264631,
-      "word": "歌手2025首次开启双曲袭榜",
-      "onboard_time": 1750407622,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264538,
       "num": 264538,
       "word": "印度坠机事故遇难人数升至274人",
@@ -19112,6 +19136,14 @@
       "word": "藏海传云合占比破40%",
       "onboard_time": 1749027981,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 263893,
+      "num": 251898,
+      "word": "这剧开局就上这么大尺度",
+      "onboard_time": 1750423102,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -20123,6 +20155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251773,
+      "num": 251773,
+      "word": "藏海传上国务院新闻见面会了",
+      "onboard_time": 1750424062,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251762,
       "num": 319206,
       "word": "张翰回应演高中生",
@@ -20241,6 +20281,14 @@
       "onboard_time": 1749913464,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 250632,
+      "num": 250632,
+      "word": "一个人跳舞",
+      "onboard_time": 1750423701,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 250385,
@@ -22059,14 +22107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229917,
-      "num": 229917,
-      "word": "这剧开局就上这么大尺度",
-      "onboard_time": 1750423102,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229852,
       "num": 229852,
       "word": "特朗普战情室见国家安全团队",
@@ -22313,6 +22353,14 @@
       "onboard_time": 1749974780,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 227244,
+      "num": 227244,
+      "word": "伊朗玩抽象",
+      "onboard_time": 1750424482,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 227186,
@@ -26803,6 +26851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199688,
+      "num": 199688,
+      "word": "成毅去钓鱼了",
+      "onboard_time": 1750424002,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199661,
       "num": 199661,
       "word": "李昀锐奔跑吧澳门录制",
@@ -27939,14 +27995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194611,
-      "num": 194611,
-      "word": "一个人跳舞",
-      "onboard_time": 1750423701,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194603,
       "num": 194603,
       "word": "高校回应禁用罗马仕充电宝",
@@ -28393,6 +28441,14 @@
       "onboard_time": 1749376402,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192494,
+      "num": 546464,
+      "word": "男子一周吃3次火锅查出食管癌",
+      "onboard_time": 1750420521,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192388,
@@ -28992,14 +29048,6 @@
       "word": "十个勤天幻想40岁的那天",
       "onboard_time": 1750415721,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 190066,
-      "num": 190066,
-      "word": "陈楚生第二位守榜歌手",
-      "onboard_time": 1750423822,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -30604,7 +30652,7 @@
     },
     {
       "raw_hot": 183962,
-      "num": 218517,
+      "num": 233803,
       "word": "美国GBU57型钻地弹仅次于核武器",
       "onboard_time": 1750416981,
       "rank": 34,
@@ -30681,6 +30729,14 @@
       "onboard_time": 1750260143,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 183658,
+      "num": 173234,
+      "word": "麦可布雷feeling good",
+      "onboard_time": 1750423522,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 183657,
@@ -35931,6 +35987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162011,
+      "num": 162011,
+      "word": "柯南M28成年人之间的爱张力",
+      "onboard_time": 1750419621,
+      "rank": 40,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 161979,
       "num": 161979,
       "word": "许嵩演唱会杭州双场官宣",
@@ -35945,14 +36009,6 @@
       "onboard_time": 1748955022,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161805,
-      "num": 161805,
-      "word": "麦可布雷feeling good",
-      "onboard_time": 1750423522,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 161798,
@@ -36561,14 +36617,6 @@
       "onboard_time": 1750055120,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159471,
-      "num": 159471,
-      "word": "男子一周吃3次火锅查出食管癌",
-      "onboard_time": 1750420521,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159454,
@@ -37667,6 +37715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155471,
+      "num": 155471,
+      "word": "Grace好有诚意",
+      "onboard_time": 1750424784,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155462,
       "num": 155462,
       "word": "99岁老人上树摘枇杷被困",
@@ -38411,14 +38467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152318,
-      "num": 152318,
-      "word": "GAI黄种人",
-      "onboard_time": 1750423940,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152296,
       "num": 152296,
       "word": "中美经贸磋商达成原则一致",
@@ -38737,6 +38785,14 @@
       "onboard_time": 1749435921,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151287,
+      "num": 151287,
+      "word": "苏新皓咱们可以找一个理发师的",
+      "onboard_time": 1750424723,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151285,
@@ -46931,6 +46987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125727,
+      "num": 141630,
+      "word": "九尾眉钉造型",
+      "onboard_time": 1750421123,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125709,
       "num": 125709,
       "word": "华晨宇在舞台上打了一套太极",
@@ -48089,14 +48153,6 @@
       "onboard_time": 1749971480,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122220,
-      "num": 122220,
-      "word": "九尾眉钉造型",
-      "onboard_time": 1750421123,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 122184,
@@ -51576,6 +51632,14 @@
       "word": "贺峻霖你惹谢娜干什么",
       "onboard_time": 1749804382,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110745,
+      "num": 171775,
+      "word": "奔跑吧13最后一次录制",
+      "onboard_time": 1750421480,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -59971,6 +60035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67915,
+      "num": 294184,
+      "word": "北大退学考清华男生自称有些狂妄",
+      "onboard_time": 1750422202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67899,
       "num": 251969,
       "word": "王铮亮续上披荆斩棘",
@@ -61472,14 +61544,6 @@
       "word": "烟花厂爆炸涉事企业19天前刚被罚",
       "onboard_time": 1750047262,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59561,
-      "num": 294184,
-      "word": "北大退学考清华男生自称有些狂妄",
-      "onboard_time": 1750422202,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -64707,6 +64771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43355,
+      "num": 939094,
+      "word": "2025年净网护网专项工作部署会召开",
+      "onboard_time": 1750420342,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43338,
       "num": 263748,
       "word": "请不要相信服装店的镜子",
@@ -66209,14 +66281,6 @@
       "onboard_time": 1748885056,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 37473,
-      "num": 882087,
-      "word": "2025年净网护网专项工作部署会召开",
-      "onboard_time": 1750420342,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37464,
@@ -69673,6 +69737,14 @@
       "onboard_time": 1749291325,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 25874,
+      "num": 149302,
+      "word": "科内利亚诺官宣朱婷续约",
+      "onboard_time": 1750421780,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 25872,

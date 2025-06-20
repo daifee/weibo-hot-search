@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750423958833,
+  "endTime": 1750424876388,
   "band_list": [
     {
       "raw_hot": 3254925,
@@ -17,6 +17,14 @@
       "onboard_time": 1750406181,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2510576,
+      "num": 2510576,
+      "word": "歌手直播",
+      "onboard_time": 1750419140,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2070780,
@@ -43,20 +51,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1882740,
-      "num": 1882740,
-      "word": "歌手直播",
-      "onboard_time": 1750419140,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1862011,
       "num": 1455645,
       "word": "中国留学生迷奸10人受害者发声",
       "onboard_time": 1750411941,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1717384,
+      "num": 1717384,
+      "word": "单依纯离常石磊远一点",
+      "onboard_time": 1750422861,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1669057,
@@ -121,14 +129,6 @@
       "onboard_time": 1750393283,
       "rank": 9,
       "category": "舆论监督,艺人"
-    },
-    {
-      "raw_hot": 1312496,
-      "num": 361753,
-      "word": "单依纯离常石磊远一点",
-      "onboard_time": 1750422861,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1229638,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 742875,
+      "num": 742875,
+      "word": "留英博士迷奸多人想化学阉割减刑遭拒",
+      "onboard_time": 1750420040,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 690536,
       "num": 317413,
       "word": "刘浩存 我现在网络环境有点不好",
@@ -348,10 +356,18 @@
     },
     {
       "raw_hot": 661948,
-      "num": 361726,
+      "num": 520306,
       "word": "歌手顺序",
       "onboard_time": 1750420820,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 660631,
+      "num": 558542,
+      "word": "GAI黄种人",
+      "onboard_time": 1750423940,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -369,6 +385,22 @@
       "onboard_time": 1750390402,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 632441,
+      "num": 632441,
+      "word": "以色列开始哭哭啼啼",
+      "onboard_time": 1750422202,
+      "rank": 5,
+      "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 625743,
+      "num": 522667,
+      "word": "马嘉祺啥时候守榜",
+      "onboard_time": 1750423042,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 623000,
@@ -555,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473183,
+      "num": 473183,
+      "word": "陈楚生第二位守榜歌手",
+      "onboard_time": 1750423822,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 464661,
       "num": 355209,
       "word": "黄子韬徐艺洋三里屯逛街",
@@ -569,14 +609,6 @@
       "onboard_time": 1750386561,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 461115,
-      "num": 461115,
-      "word": "留英博士迷奸多人想化学阉割减刑遭拒",
-      "onboard_time": 1750420040,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 457601,
@@ -603,6 +635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 441101,
+      "num": 252579,
+      "word": "如愿",
+      "onboard_time": 1750424541,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 426964,
       "num": 426964,
       "word": "南京一商场被曝男厕改女厕",
@@ -619,7 +659,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 416248,
+      "raw_hot": 416714,
       "num": 416248,
       "word": "现在就出发3",
       "onboard_time": 1750412482,
@@ -747,14 +787,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 361758,
-      "num": 361758,
-      "word": "以色列开始哭哭啼啼",
-      "onboard_time": 1750422202,
-      "rank": 5,
-      "category": "国际时政,民生新闻"
-    },
-    {
       "raw_hot": 360348,
       "num": 258590,
       "word": "朱丹 周一围",
@@ -777,14 +809,6 @@
       "onboard_time": 1750346122,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 355536,
-      "num": 355536,
-      "word": "马嘉祺啥时候守榜",
-      "onboard_time": 1750423042,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 348047,
@@ -865,6 +889,14 @@
       "onboard_time": 1750381223,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 321455,
+      "num": 274611,
+      "word": "歌手袭榜",
+      "onboard_time": 1750422142,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 319205,
@@ -955,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288047,
+      "num": 264631,
+      "word": "歌手2025首次开启双曲袭榜",
+      "onboard_time": 1750407622,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284994,
       "num": 394219,
       "word": "恩施强降雨冲走广场喷泉设施正打捞",
@@ -977,14 +1017,6 @@
       "onboard_time": 1750392743,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 274611,
-      "num": 274611,
-      "word": "歌手袭榜",
-      "onboard_time": 1750422142,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 268680,
@@ -1027,12 +1059,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 264631,
-      "num": 264631,
-      "word": "歌手2025首次开启双曲袭榜",
-      "onboard_time": 1750407622,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 263893,
+      "num": 251898,
+      "word": "这剧开局就上这么大尺度",
+      "onboard_time": 1750423102,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 261813,
@@ -1081,6 +1113,22 @@
       "onboard_time": 1750408641,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 251773,
+      "num": 251773,
+      "word": "藏海传上国务院新闻见面会了",
+      "onboard_time": 1750424062,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250632,
+      "num": 250632,
+      "word": "一个人跳舞",
+      "onboard_time": 1750423701,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 250320,
@@ -1163,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229917,
-      "num": 229917,
-      "word": "这剧开局就上这么大尺度",
-      "onboard_time": 1750423102,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228683,
       "num": 228683,
       "word": "美14架载军事装备的飞机飞抵以色列",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1750410681,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227244,
+      "num": 227244,
+      "word": "伊朗玩抽象",
+      "onboard_time": 1750424482,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 227066,
@@ -1491,6 +1539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199688,
+      "num": 199688,
+      "word": "成毅去钓鱼了",
+      "onboard_time": 1750424002,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199578,
       "num": 232612,
       "word": "警方回应长沙醉酒男子撕扯女孩头发",
@@ -1531,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194611,
-      "num": 194611,
-      "word": "一个人跳舞",
-      "onboard_time": 1750423701,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194500,
       "num": 194500,
       "word": "刘宇宁李一桐新剧定档海报",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1750408102,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192494,
+      "num": 546464,
+      "word": "男子一周吃3次火锅查出食管癌",
+      "onboard_time": 1750420521,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192048,
@@ -1592,14 +1648,6 @@
       "word": "十个勤天幻想40岁的那天",
       "onboard_time": 1750415721,
       "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 190066,
-      "num": 190066,
-      "word": "陈楚生第二位守榜歌手",
-      "onboard_time": 1750423822,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1732,11 +1780,19 @@
     },
     {
       "raw_hot": 183962,
-      "num": 218517,
+      "num": 233803,
       "word": "美国GBU57型钻地弹仅次于核武器",
       "onboard_time": 1750416981,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 183658,
+      "num": 173234,
+      "word": "麦可布雷feeling good",
+      "onboard_time": 1750423522,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 183475,
@@ -1947,12 +2003,12 @@
       "category": "休闲,动漫"
     },
     {
-      "raw_hot": 161805,
-      "num": 161805,
-      "word": "麦可布雷feeling good",
-      "onboard_time": 1750423522,
+      "raw_hot": 162011,
+      "num": 162011,
+      "word": "柯南M28成年人之间的爱张力",
+      "onboard_time": 1750419621,
       "rank": 40,
-      "category": "综艺"
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 160368,
@@ -1961,14 +2017,6 @@
       "onboard_time": 1750335022,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159471,
-      "num": 159471,
-      "word": "男子一周吃3次火锅查出食管癌",
-      "onboard_time": 1750420521,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159303,
@@ -1987,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155471,
+      "num": 155471,
+      "word": "Grace好有诚意",
+      "onboard_time": 1750424784,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155414,
       "num": 155414,
       "word": "西安一医院给人移植猪肾存活超100天",
@@ -1995,20 +2051,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152318,
-      "num": 152318,
-      "word": "GAI黄种人",
-      "onboard_time": 1750423940,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151453,
       "num": 151453,
       "word": "为什么这个行业不加班",
       "onboard_time": 1750406902,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 151287,
+      "num": 151287,
+      "word": "苏新皓咱们可以找一个理发师的",
+      "onboard_time": 1750424723,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150752,
@@ -2120,6 +2176,14 @@
       "word": "龚俊怎么和红雷哥越来越像了",
       "onboard_time": 1750419319,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 142104,
+      "num": 142104,
+      "word": "歌手",
+      "onboard_time": 1750380382,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -2259,6 +2323,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 125727,
+      "num": 141630,
+      "word": "九尾眉钉造型",
+      "onboard_time": 1750421123,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125237,
       "num": 125237,
       "word": "任嘉伦大佬气质与温柔爹感并存",
@@ -2329,14 +2401,6 @@
       "onboard_time": 1750391841,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122220,
-      "num": 122220,
-      "word": "九尾眉钉造型",
-      "onboard_time": 1750421123,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 121574,
@@ -2505,6 +2569,14 @@
       "onboard_time": 1750374318,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110745,
+      "num": 171775,
+      "word": "奔跑吧13最后一次录制",
+      "onboard_time": 1750421480,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 110563,
@@ -2835,6 +2907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 67915,
+      "num": 294184,
+      "word": "北大退学考清华男生自称有些狂妄",
+      "onboard_time": 1750422202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67695,
       "num": 227386,
       "word": "PEL闯进古装圈",
@@ -2939,14 +3019,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 59561,
-      "num": 294184,
-      "word": "北大退学考清华男生自称有些狂妄",
-      "onboard_time": 1750422202,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58807,
       "num": 230959,
       "word": "王欣瑜回应战胜高芙",
@@ -3027,6 +3099,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 43355,
+      "num": 939094,
+      "word": "2025年净网护网专项工作部署会召开",
+      "onboard_time": 1750420342,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42591,
       "num": 152636,
       "word": "网购羊初乳得布病",
@@ -3081,14 +3161,6 @@
       "onboard_time": 1750360335,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 37473,
-      "num": 882087,
-      "word": "2025年净网护网专项工作部署会召开",
-      "onboard_time": 1750420342,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37448,
@@ -3217,6 +3289,14 @@
       "onboard_time": 1750391421,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 25874,
+      "num": 149302,
+      "word": "科内利亚诺官宣朱婷续约",
+      "onboard_time": 1750421780,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 25523,
