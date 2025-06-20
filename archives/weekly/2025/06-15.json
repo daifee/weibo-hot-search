@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750447276718,
+  "endTime": 1750448227891,
   "band_list": [
     {
       "raw_hot": 11497825,
@@ -21777,6 +21777,14 @@
       "onboard_time": 1750220542,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20394,
+      "num": 20394,
+      "word": "豆包p图指令",
+      "onboard_time": 1750446854,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 20344,

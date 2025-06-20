@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/06/21 00:32:21 ~ 2025/06/21 03:21:16
+本榜单时间：2025/06/21 00:32:21 ~ 2025/06/21 03:37:07
 </p>
 </blockquote>
 <p>
@@ -425,6 +425,12 @@ Theboyz全员取关周鹤年（热度：126812）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E4%B8%8E%E6%BD%AE%E6%9D%80%E9%9D%92%23" target="weibo">
 风与潮杀青（热度：22379）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85p%E5%9B%BE%E6%8C%87%E4%BB%A4%23" target="weibo">
+豆包p图指令（热度：20394）
 </a>
 </li>
 
