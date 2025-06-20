@@ -1,6 +1,6 @@
 {
   "startTime": 1750350778630,
-  "endTime": 1750418572271,
+  "endTime": 1750419583288,
   "band_list": [
     {
       "raw_hot": 3254925,
@@ -251,6 +251,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 807050,
+      "num": 619457,
+      "word": "卵巢癌晚期钢琴老师丁丁离世",
+      "onboard_time": 1750417821,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 799705,
+      "num": 401526,
+      "word": "工人跪地哀求主管别开除",
+      "onboard_time": 1750413261,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 790319,
       "num": 559167,
       "word": "宋茜 一个不发死字的女明星",
@@ -273,6 +289,14 @@
       "onboard_time": 1750385359,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 774186,
+      "num": 774186,
+      "word": "歌手直播",
+      "onboard_time": 1750419140,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 690536,
@@ -299,20 +323,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 664466,
+      "num": 542244,
+      "word": "官方调查那尔那茜",
+      "onboard_time": 1750416681,
+      "rank": 14,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 656719,
       "num": 656719,
       "word": "李光洁说不想和蒋欣演两口子了",
       "onboard_time": 1750412961,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 644927,
-      "num": 401526,
-      "word": "工人跪地哀求主管别开除",
-      "onboard_time": 1750413261,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 637420,
@@ -361,6 +385,14 @@
       "onboard_time": 1750401741,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 585950,
+      "num": 585950,
+      "word": "清华就北语女教授被树砸身亡致歉",
+      "onboard_time": 1750417459,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 568694,
@@ -499,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464661,
+      "num": 355209,
+      "word": "黄子韬徐艺洋三里屯逛街",
+      "onboard_time": 1750417101,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464065,
       "num": 464065,
       "word": "虞书欣王安宇领衔主演",
@@ -515,28 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 446461,
-      "num": 446461,
-      "word": "清华就北语女教授被树砸身亡致歉",
-      "onboard_time": 1750417459,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 445455,
       "num": 493772,
       "word": "伊朗国家电视台遭袭最新画面",
       "onboard_time": 1750347740,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 440490,
-      "num": 355209,
-      "word": "黄子韬徐艺洋三里屯逛街",
-      "onboard_time": 1750417101,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 426964,
@@ -715,12 +739,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 347057,
-      "num": 347057,
-      "word": "官方调查那尔那茜",
-      "onboard_time": 1750416681,
-      "rank": 14,
-      "category": "艺人,民生新闻"
+      "raw_hot": 341498,
+      "num": 341498,
+      "word": "金世佳理发都在看书",
+      "onboard_time": 1750418000,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 340885,
@@ -729,14 +753,6 @@
       "onboard_time": 1750378761,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338277,
-      "num": 338277,
-      "word": "卵巢癌晚期钢琴老师丁丁离世",
-      "onboard_time": 1750417821,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 332921,
@@ -1075,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227136,
+      "num": 227136,
+      "word": "婚检查出重大疾病医院仅告知本人",
+      "onboard_time": 1750414161,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227066,
       "num": 227066,
       "word": "Jennie辣哭了",
@@ -1227,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208153,
+      "num": 228091,
+      "word": "陈赫快从宋亚轩身上下去",
+      "onboard_time": 1750418781,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208051,
       "num": 328020,
       "word": "家长质疑气象台不敢发暴雨预警",
@@ -1283,14 +1315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206841,
-      "num": 206841,
-      "word": "金世佳理发都在看书",
-      "onboard_time": 1750418000,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206280,
       "num": 206280,
       "word": "13岁男孩一天吃四顿身高定格170",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1750389681,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203689,
+      "num": 203689,
+      "word": "欧阳娜娜 古早留子味",
+      "onboard_time": 1750417821,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 202080,
@@ -1419,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193974,
-      "num": 193974,
-      "word": "婚检查出重大疾病医院仅告知本人",
-      "onboard_time": 1750414161,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192048,
       "num": 200837,
       "word": "林志颖不会老的吗",
@@ -1515,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187027,
+      "num": 187027,
+      "word": "TTG对战RW",
+      "onboard_time": 1750419081,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186336,
       "num": 186336,
       "word": "HarmonyOS6启动开发者Beta",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1750397722,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182847,
-      "num": 182847,
-      "word": "欧阳娜娜 古早留子味",
-      "onboard_time": 1750417821,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 182838,
@@ -1931,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143197,
+      "num": 143197,
+      "word": "龚俊怎么和红雷哥越来越像了",
+      "onboard_time": 1750419319,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139603,
       "num": 139603,
       "word": "土耳其总统公开支持伊朗",
@@ -1988,7 +2020,7 @@
     },
     {
       "raw_hot": 132945,
-      "num": 363846,
+      "num": 371163,
       "word": "白血病女孩报销百万抗癌药费",
       "onboard_time": 1750417400,
       "rank": 12,
@@ -2063,6 +2095,14 @@
       "num": 125237,
       "word": "任嘉伦大佬气质与温柔爹感并存",
       "onboard_time": 1750414522,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124419,
+      "num": 124419,
+      "word": "淬火年代",
+      "onboard_time": 1750418841,
       "rank": 43,
       "category": "剧集"
     },
@@ -2243,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111365,
+      "num": 111365,
+      "word": "前5月印花税收入1787亿元",
+      "onboard_time": 1750418841,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111121,
       "num": 111121,
       "word": "花少7",
@@ -2273,6 +2321,14 @@
       "onboard_time": 1750417281,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 110165,
+      "num": 110165,
+      "word": "第一次看见巨猫",
+      "onboard_time": 1750416861,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 109187,
@@ -2564,7 +2620,7 @@
     },
     {
       "raw_hot": 71938,
-      "num": 232085,
+      "num": 237102,
       "word": "当代大学生的神州时髦范儿",
       "onboard_time": 1750414820,
       "rank": 20,
@@ -2755,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47060,
+      "num": 352188,
+      "word": "定向委培违约计入个人诚信档案",
+      "onboard_time": 1750419261,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 42591,
       "num": 152636,
       "word": "网购羊初乳得布病",
@@ -2785,6 +2849,14 @@
       "onboard_time": 1750399582,
       "rank": 13,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 38724,
+      "num": 347839,
+      "word": "退学北大上清华男生回应百万奖金",
+      "onboard_time": 1750418961,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38450,
@@ -2881,6 +2953,22 @@
       "onboard_time": 1750390160,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30014,
+      "num": 241891,
+      "word": "小学生足球比赛踢出最纯粹的热爱",
+      "onboard_time": 1750418600,
+      "rank": 24,
+      "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 29621,
+      "num": 301270,
+      "word": "医生科普名义荐药被曝光后视频消失",
+      "onboard_time": 1750419201,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27785,
@@ -3039,6 +3127,14 @@
       "num": 228818,
       "word": "2030世界杯你还会等待吗",
       "onboard_time": 1750392082,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 13043,
+      "num": 134478,
+      "word": "徐海东0比3户上隼辅",
+      "onboard_time": 1750419380,
       "rank": 39,
       "category": "体育"
     }

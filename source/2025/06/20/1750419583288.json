@@ -1,0 +1,410 @@
+{
+  "runTime": 1750419583288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1048235,
+        "num": 1167717,
+        "word": "清华回应女教授被树砸身亡",
+        "onboard_time": 1750406181,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 774186,
+        "num": 774186,
+        "word": "歌手直播",
+        "onboard_time": 1750419140,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38666,
+        "num": 631611,
+        "word": "锦绣天府安逸四川",
+        "onboard_time": 1750408940,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 807050,
+        "num": 619457,
+        "word": "卵巢癌晚期钢琴老师丁丁离世",
+        "onboard_time": 1750417821,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 941932,
+        "num": 618815,
+        "word": "花少7 张雅琪",
+        "onboard_time": 1750411881,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585950,
+        "num": 585950,
+        "word": "清华就北语女教授被树砸身亡致歉",
+        "onboard_time": 1750417459,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664466,
+        "num": 542244,
+        "word": "官方调查那尔那茜",
+        "onboard_time": 1750416681,
+        "rank": 6,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 487316,
+        "num": 487316,
+        "word": "男孩结婚2小时后坠亡婚姻被判无效",
+        "onboard_time": 1750412122,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486405,
+        "num": 486405,
+        "word": "李光洁说不想和蒋欣演两口子了",
+        "onboard_time": 1750412961,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372028,
+        "num": 372028,
+        "word": "柯颖 花少7",
+        "onboard_time": 1750414882,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94607,
+        "num": 371163,
+        "word": "白血病女孩报销百万抗癌药费",
+        "onboard_time": 1750417400,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1615542,
+        "num": 365402,
+        "word": "中国留学生迷奸10人受害者发声",
+        "onboard_time": 1750411941,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799705,
+        "num": 358082,
+        "word": "工人跪地哀求主管别开除",
+        "onboard_time": 1750413261,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47060,
+        "num": 352188,
+        "word": "定向委培违约计入个人诚信档案",
+        "onboard_time": 1750419261,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 38724,
+        "num": 347839,
+        "word": "退学北大上清华男生回应百万奖金",
+        "onboard_time": 1750418961,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347207,
+        "num": 347207,
+        "word": "大学生HIV感染情况",
+        "onboard_time": 1750386622,
+        "rank": 15,
+        "category": "健康医疗,教育"
+      },
+      {
+        "raw_hot": 464661,
+        "num": 345073,
+        "word": "黄子韬徐艺洋三里屯逛街",
+        "onboard_time": 1750417101,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349579,
+        "num": 344049,
+        "word": "现在就出发3",
+        "onboard_time": 1750412482,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341498,
+        "num": 341498,
+        "word": "金世佳理发都在看书",
+        "onboard_time": 1750418000,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29621,
+        "num": 301270,
+        "word": "医生科普名义荐药被曝光后视频消失",
+        "onboard_time": 1750419201,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301149,
+        "num": 301149,
+        "word": "凤凰传奇",
+        "onboard_time": 1750414820,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272127,
+        "num": 272127,
+        "word": "杀害杨靖宇日本军官自杀前的遗言",
+        "onboard_time": 1750405763,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262260,
+        "num": 262260,
+        "word": "于正被爆在闲鱼招素人演员",
+        "onboard_time": 1750403780,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242320,
+        "num": 242320,
+        "word": "小沈阳女儿希望像前辈Jennie一样",
+        "onboard_time": 1750412301,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30014,
+        "num": 241891,
+        "word": "小学生足球比赛踢出最纯粹的热爱",
+        "onboard_time": 1750418600,
+        "rank": 24,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 122549,
+        "num": 237402,
+        "word": "超三万鸿蒙应用加速开发更新",
+        "onboard_time": 1750414820,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31487,
+        "num": 237102,
+        "word": "当代大学生的神州时髦范儿",
+        "onboard_time": 1750414820,
+        "rank": 26,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 265684,
+        "num": 233696,
+        "word": "张爱玲 清华",
+        "onboard_time": 1750410982,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222946,
+        "num": 230447,
+        "word": "歌手2025首次开启双曲袭榜",
+        "onboard_time": 1750407622,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208153,
+        "num": 228091,
+        "word": "陈赫快从宋亚轩身上下去",
+        "onboard_time": 1750418781,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227136,
+        "num": 227136,
+        "word": "婚检查出重大疾病医院仅告知本人",
+        "onboard_time": 1750414161,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203689,
+        "num": 203689,
+        "word": "欧阳娜娜 古早留子味",
+        "onboard_time": 1750417821,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187027,
+        "num": 187027,
+        "word": "TTG对战RW",
+        "onboard_time": 1750419081,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182031,
+        "num": 182031,
+        "word": "现在就出发",
+        "onboard_time": 1750409121,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162000,
+        "num": 162000,
+        "word": "焦虑症 从小吓出来的",
+        "onboard_time": 1750402342,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155234,
+        "num": 155234,
+        "word": "美国GBU57型钻地弹仅次于核武器",
+        "onboard_time": 1750416981,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42561,
+        "num": 150905,
+        "word": "城市SUV要越野能力有用吗",
+        "onboard_time": 1750414820,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150719,
+        "num": 150719,
+        "word": "黄晓明回应考博落榜",
+        "onboard_time": 1750396522,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143197,
+        "num": 143197,
+        "word": "龚俊怎么和红雷哥越来越像了",
+        "onboard_time": 1750419319,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13043,
+        "num": 134478,
+        "word": "徐海东0比3户上隼辅",
+        "onboard_time": 1750419380,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133668,
+        "num": 133668,
+        "word": "以色列顶级科研所被伊朗导弹炸成废墟",
+        "onboard_time": 1750401741,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133612,
+        "num": 133612,
+        "word": "虞书欣大战刘海",
+        "onboard_time": 1750415661,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128184,
+        "num": 128184,
+        "word": "焕羽",
+        "onboard_time": 1750418301,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124419,
+        "num": 124419,
+        "word": "淬火年代",
+        "onboard_time": 1750418841,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124363,
+        "num": 124363,
+        "word": "林志颖不会老的吗",
+        "onboard_time": 1750417523,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27480,
+        "num": 121060,
+        "word": "鸿蒙拦截不合理权限超86亿次",
+        "onboard_time": 1750414820,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112602,
+        "num": 120399,
+        "word": "清华大学",
+        "onboard_time": 1750410081,
+        "rank": 46,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 120334,
+        "num": 120334,
+        "word": "伊朗导弹直接命中在以中国留学生校园",
+        "onboard_time": 1750395741,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111365,
+        "num": 111365,
+        "word": "前5月印花税收入1787亿元",
+        "onboard_time": 1750418841,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110165,
+        "num": 110165,
+        "word": "第一次看见巨猫",
+        "onboard_time": 1750416861,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中新两国要共同捍卫联合国核心国际体系#"
+    }
+  }
+}
