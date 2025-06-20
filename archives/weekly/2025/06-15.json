@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750376427456,
+  "endTime": 1750384907274,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -299,6 +299,14 @@
       "category": "民生新闻,动漫"
     },
     {
+      "raw_hot": 1448917,
+      "num": 1448917,
+      "word": "怀集赵一鸣",
+      "onboard_time": 1750381581,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1433387,
       "num": 1433387,
       "word": "大爷捡到隐藏款labubu挂吸粪车",
@@ -579,12 +587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1136134,
+      "num": 1136134,
+      "word": "黄金给所有人都上了一课",
+      "onboard_time": 1750376600,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1131600,
       "num": 226246,
       "word": "沈阳车祸",
       "onboard_time": 1750174222,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1111753,
+      "num": 1111753,
+      "word": "北大第一节课退学考上清华男子发声",
+      "onboard_time": 1750379122,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1105797,
@@ -852,7 +876,7 @@
     },
     {
       "raw_hot": 940034,
-      "num": 317272,
+      "num": 540093,
       "word": "王皓考编总成绩第1",
       "onboard_time": 1750375219,
       "rank": 32,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1749947839,
       "rank": 3,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 850251,
+      "num": 850251,
+      "word": "李昀锐直播引导粉丝",
+      "onboard_time": 1750381642,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 846864,
@@ -2091,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 557925,
+      "num": 557925,
+      "word": "伊朗首都上空爆炸一声接一声",
+      "onboard_time": 1750377141,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 557045,
       "num": 557045,
       "word": "iPhone18Pro系列屏幕曝光",
@@ -2297,6 +2337,14 @@
       "onboard_time": 1750236201,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 531155,
+      "num": 359776,
+      "word": "俄方警告美国不要军事干预",
+      "onboard_time": 1750380742,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 528945,
@@ -3259,6 +3307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 395515,
+      "num": 395515,
+      "word": "北语张爱玲教授逝世终年58岁",
+      "onboard_time": 1750376780,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 394687,
       "num": 394687,
       "word": "奚梦瑶问周一围喜欢儿子还是女儿",
@@ -3289,6 +3345,14 @@
       "onboard_time": 1750324581,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391060,
+      "num": 391060,
+      "word": "特朗普两周内决定是否攻击伊朗",
+      "onboard_time": 1750375400,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 389182,
@@ -3459,6 +3523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 369718,
+      "num": 369718,
+      "word": "李昀锐关晓彤健身",
+      "onboard_time": 1750377200,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369681,
       "num": 369681,
       "word": "肖战给化妆师发6600红包",
@@ -3529,14 +3601,6 @@
       "onboard_time": 1750375278,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 360071,
-      "num": 360071,
-      "word": "特朗普两周内决定是否攻击伊朗",
-      "onboard_time": 1750375400,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 359286,
@@ -3657,6 +3721,14 @@
       "onboard_time": 1750047982,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348047,
+      "num": 348047,
+      "word": "30枚导弹射向以色列",
+      "onboard_time": 1750376300,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 347261,
@@ -3785,6 +3857,14 @@
       "onboard_time": 1750165821,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340885,
+      "num": 340885,
+      "word": "迪丽热巴邓为 漩涡",
+      "onboard_time": 1750378761,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 340205,
@@ -3955,6 +4035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 326208,
+      "num": 326208,
+      "word": "东部战区海军回应英舰过航台湾海峡",
+      "onboard_time": 1750383020,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 325605,
       "num": 325605,
       "word": "周洁琼回应出道即巅峰",
@@ -4017,6 +4105,14 @@
       "onboard_time": 1750299680,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 321760,
+      "num": 321760,
+      "word": "各地高考查分时间最新汇总",
+      "onboard_time": 1750381223,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 320548,
@@ -4433,6 +4529,14 @@
       "onboard_time": 1750219281,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 291134,
+      "num": 291134,
+      "word": "赵樱子自曝曾和流量小生暧昧",
+      "onboard_time": 1750377382,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 290507,
@@ -5547,6 +5651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 236791,
+      "num": 236791,
+      "word": "建议每周洗一次床单",
+      "onboard_time": 1750348821,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 236767,
       "num": 236767,
       "word": "陈都灵手臂",
@@ -5555,12 +5667,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236623,
+      "num": 246776,
+      "word": "迪丽热巴金世佳利剑玫瑰来了",
+      "onboard_time": 1750381101,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236143,
       "num": 236143,
       "word": "冯文娟怀孕",
       "onboard_time": 1750319902,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236026,
+      "num": 236026,
+      "word": "NBA总决赛",
+      "onboard_time": 1750381522,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 235895,
@@ -5787,6 +5915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228683,
+      "num": 228683,
+      "word": "美14架载军事装备的飞机飞抵以色列",
+      "onboard_time": 1750383859,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 228472,
       "num": 228472,
       "word": "全红婵回粤养伤不参加新加坡世锦赛",
@@ -5897,6 +6033,14 @@
       "onboard_time": 1750038619,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 224032,
+      "num": 224032,
+      "word": "字节小米位列中国全球化品牌前二",
+      "onboard_time": 1750382240,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 223822,
@@ -6115,6 +6259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215195,
+      "num": 215195,
+      "word": "原来这才是8小时工作制",
+      "onboard_time": 1750378463,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215180,
       "num": 215180,
       "word": "长安的荔枝开分",
@@ -6249,6 +6401,14 @@
       "onboard_time": 1749971300,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209690,
+      "num": 209690,
+      "word": "哪吒汽车员工已两月没去公司上班",
+      "onboard_time": 1750377743,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 209623,
@@ -6779,6 +6939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198401,
+      "num": 216505,
+      "word": "邢菲杨幂生万物演姐妹",
+      "onboard_time": 1750382600,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198329,
       "num": 198329,
       "word": "易烊千玺第一次给动画电影配音",
@@ -7171,6 +7339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190831,
+      "num": 190831,
+      "word": "抗癌博主李大去世",
+      "onboard_time": 1750378702,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190813,
       "num": 202466,
       "word": "侧躺玩手机变丑是最轻的惩罚",
@@ -7531,6 +7707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184407,
+      "num": 184407,
+      "word": "毕业典礼",
+      "onboard_time": 1750384401,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 184357,
       "num": 227611,
       "word": "伊朗用美军基地地图回应美空袭威胁",
@@ -7553,6 +7737,14 @@
       "onboard_time": 1750161921,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184161,
+      "num": 215443,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1750384461,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 183906,
@@ -7969,6 +8161,14 @@
       "onboard_time": 1750129700,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176187,
+      "num": 176187,
+      "word": "梅西说C罗仍在最高水平",
+      "onboard_time": 1750383380,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 175999,
@@ -8593,14 +8793,6 @@
       "onboard_time": 1749966980,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 168133,
-      "num": 168133,
-      "word": "建议每周洗一次床单",
-      "onboard_time": 1750348821,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 168107,
@@ -9987,6 +10179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147115,
+      "num": 215261,
+      "word": "代露娃跑男千金出场",
+      "onboard_time": 1750375760,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146993,
       "num": 146993,
       "word": "白鹿回应自己鸡蛋过敏",
@@ -10619,14 +10819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138736,
-      "num": 169463,
-      "word": "代露娃跑男千金出场",
-      "onboard_time": 1750375760,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138690,
       "num": 138690,
       "word": "军工概念走强",
@@ -11033,6 +11225,14 @@
       "onboard_time": 1750050921,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133764,
+      "num": 133764,
+      "word": "书卷一梦",
+      "onboard_time": 1750376600,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 133750,
@@ -11513,6 +11713,14 @@
       "onboard_time": 1749999082,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129099,
+      "num": 129099,
+      "word": "怀集洪水",
+      "onboard_time": 1750382421,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129093,
@@ -12995,6 +13203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114692,
+      "num": 114692,
+      "word": "美国仍在继续与伊朗联络",
+      "onboard_time": 1750384401,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114690,
       "num": 313076,
       "word": "泡泡玛特盲盒代摇生意火爆",
@@ -13179,6 +13395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 112914,
+      "num": 112914,
+      "word": "以军再次打击伊朗核设施",
+      "onboard_time": 1750384401,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112892,
       "num": 516262,
       "word": "租客挖洞占邻居客厅5年",
@@ -13241,6 +13465,14 @@
       "onboard_time": 1750211541,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112154,
+      "num": 112154,
+      "word": "2025志愿填报你需要知道",
+      "onboard_time": 1750383921,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 112138,
@@ -13409,6 +13641,14 @@
       "onboard_time": 1749974841,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 110563,
+      "num": 110563,
+      "word": "在海外看到五星红旗就安心了",
+      "onboard_time": 1750380742,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110477,
@@ -13955,6 +14195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101044,
+      "num": 134116,
+      "word": "捞女游戏主创自称多次被捞",
+      "onboard_time": 1750383739,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101011,
       "num": 101011,
       "word": "果然上班后看人的眼光会变",
@@ -14465,14 +14713,6 @@
       "onboard_time": 1749946338,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91228,
-      "num": 91228,
-      "word": "30枚导弹射向以色列",
-      "onboard_time": 1750376300,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 91121,
@@ -15827,6 +16067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58807,
+      "num": 230959,
+      "word": "王欣瑜回应战胜高芙",
+      "onboard_time": 1750384580,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58727,
       "num": 120331,
       "word": "原神丝柯克卡池登顶",
@@ -15968,6 +16216,14 @@
       "word": "T3平台回应司机猥亵女乘客",
       "onboard_time": 1750219281,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55431,
+      "num": 322593,
+      "word": "中国公民讲述从伊朗撤离的72小时",
+      "onboard_time": 1750383739,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -18323,6 +18579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 20993,
+      "num": 1115265,
+      "word": "青春华章赣劲十足",
+      "onboard_time": 1750340123,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20970,
       "num": 26707,
       "word": "广东多地发布台风红色预警",
@@ -18449,6 +18713,14 @@
       "onboard_time": 1750317742,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 19347,
+      "num": 133667,
+      "word": "泰总理为通话泄露道歉",
+      "onboard_time": 1750384880,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19310,
@@ -18771,20 +19043,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14936,
+      "num": 117659,
+      "word": "当地回应男子称被交警打断9根肋骨",
+      "onboard_time": 1750384880,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14749,
       "num": 150168,
       "word": "所有去认真谈恋爱的不能称为恋爱脑",
       "onboard_time": 1750142181,
       "rank": 39,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 14722,
-      "num": 512132,
-      "word": "青春华章赣劲十足",
-      "onboard_time": 1750340123,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14577,

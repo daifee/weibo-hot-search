@@ -1,0 +1,410 @@
+{
+  "runTime": 1750384907274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1448917,
+        "num": 1448917,
+        "word": "怀集赵一鸣",
+        "onboard_time": 1750381581,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1136134,
+        "num": 1136134,
+        "word": "黄金给所有人都上了一课",
+        "onboard_time": 1750376600,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20993,
+        "num": 1115265,
+        "word": "青春华章赣劲十足",
+        "onboard_time": 1750340123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1111753,
+        "num": 1111753,
+        "word": "北大第一节课退学考上清华男子发声",
+        "onboard_time": 1750379122,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 850251,
+        "num": 850251,
+        "word": "李昀锐直播引导粉丝",
+        "onboard_time": 1750381642,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557925,
+        "num": 557925,
+        "word": "伊朗首都上空爆炸一声接一声",
+        "onboard_time": 1750377141,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 540093,
+        "num": 540093,
+        "word": "王皓考编总成绩第1",
+        "onboard_time": 1750375219,
+        "rank": 6,
+        "category": "体育,教育"
+      },
+      {
+        "raw_hot": 395515,
+        "num": 395515,
+        "word": "北语张爱玲教授逝世终年58岁",
+        "onboard_time": 1750376780,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391060,
+        "num": 391060,
+        "word": "特朗普两周内决定是否攻击伊朗",
+        "onboard_time": 1750375400,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369718,
+        "num": 369718,
+        "word": "李昀锐关晓彤健身",
+        "onboard_time": 1750377200,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531155,
+        "num": 359776,
+        "word": "俄方警告美国不要军事干预",
+        "onboard_time": 1750380742,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 348047,
+        "num": 348047,
+        "word": "30枚导弹射向以色列",
+        "onboard_time": 1750376300,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340885,
+        "num": 340885,
+        "word": "迪丽热巴邓为 漩涡",
+        "onboard_time": 1750378761,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326208,
+        "num": 326208,
+        "word": "东部战区海军回应英舰过航台湾海峡",
+        "onboard_time": 1750383020,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55431,
+        "num": 322593,
+        "word": "中国公民讲述从伊朗撤离的72小时",
+        "onboard_time": 1750383739,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321760,
+        "num": 321760,
+        "word": "各地高考查分时间最新汇总",
+        "onboard_time": 1750381223,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 291134,
+        "num": 291134,
+        "word": "赵樱子自曝曾和流量小生暧昧",
+        "onboard_time": 1750377382,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261537,
+        "num": 261537,
+        "word": "司机不解说女乘客香被封号",
+        "onboard_time": 1750375278,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236623,
+        "num": 246776,
+        "word": "迪丽热巴金世佳利剑玫瑰来了",
+        "onboard_time": 1750381101,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200399,
+        "num": 242066,
+        "word": "藏海传 庆功宴",
+        "onboard_time": 1750375159,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240182,
+        "num": 240182,
+        "word": "女村支书制止男子烧草木灰被其杀害",
+        "onboard_time": 1750346901,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238176,
+        "num": 238176,
+        "word": "脑死亡孕妇因堕胎禁令4个月后产子",
+        "onboard_time": 1750339641,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236791,
+        "num": 236791,
+        "word": "建议每周洗一次床单",
+        "onboard_time": 1750348821,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236026,
+        "num": 236026,
+        "word": "NBA总决赛",
+        "onboard_time": 1750381522,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58807,
+        "num": 230959,
+        "word": "王欣瑜回应战胜高芙",
+        "onboard_time": 1750384580,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228683,
+        "num": 228683,
+        "word": "美14架载军事装备的飞机飞抵以色列",
+        "onboard_time": 1750383859,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224032,
+        "num": 224032,
+        "word": "字节小米位列中国全球化品牌前二",
+        "onboard_time": 1750382240,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198401,
+        "num": 216505,
+        "word": "邢菲杨幂生万物演姐妹",
+        "onboard_time": 1750382600,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184161,
+        "num": 215443,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1750384461,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147115,
+        "num": 215261,
+        "word": "代露娃跑男千金出场",
+        "onboard_time": 1750375760,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215195,
+        "num": 215195,
+        "word": "原来这才是8小时工作制",
+        "onboard_time": 1750378463,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209690,
+        "num": 209690,
+        "word": "哪吒汽车员工已两月没去公司上班",
+        "onboard_time": 1750377743,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197495,
+        "num": 197495,
+        "word": "夫妻开饭店双双被确诊恶性乳腺癌",
+        "onboard_time": 1750339342,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190831,
+        "num": 190831,
+        "word": "抗癌博主李大去世",
+        "onboard_time": 1750378702,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184407,
+        "num": 184407,
+        "word": "毕业典礼",
+        "onboard_time": 1750384401,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176187,
+        "num": 176187,
+        "word": "梅西说C罗仍在最高水平",
+        "onboard_time": 1750383380,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158187,
+        "num": 158187,
+        "word": "以色列民众要求全世界阻止轰炸",
+        "onboard_time": 1750337721,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153644,
+        "num": 153644,
+        "word": "金价跌跌不休",
+        "onboard_time": 1750352718,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138217,
+        "num": 138217,
+        "word": "那尔那茜",
+        "onboard_time": 1750384761,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101044,
+        "num": 134116,
+        "word": "捞女游戏主创自称多次被捞",
+        "onboard_time": 1750383739,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133764,
+        "num": 133764,
+        "word": "书卷一梦",
+        "onboard_time": 1750376600,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19347,
+        "num": 133667,
+        "word": "泰总理为通话泄露道歉",
+        "onboard_time": 1750384880,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133661,
+        "num": 133661,
+        "word": "王鹤棣用过的碗筷被供起来",
+        "onboard_time": 1750345644,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129099,
+        "num": 129099,
+        "word": "怀集洪水",
+        "onboard_time": 1750382421,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14936,
+        "num": 117659,
+        "word": "当地回应男子称被交警打断9根肋骨",
+        "onboard_time": 1750384880,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114692,
+        "num": 114692,
+        "word": "美国仍在继续与伊朗联络",
+        "onboard_time": 1750384401,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113929,
+        "num": 113929,
+        "word": "美国女孩喂流浪犬被40只狗围咬致死",
+        "onboard_time": 1750339641,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112914,
+        "num": 112914,
+        "word": "以军再次打击伊朗核设施",
+        "onboard_time": 1750384401,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112154,
+        "num": 112154,
+        "word": "2025志愿填报你需要知道",
+        "onboard_time": 1750383921,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110563,
+        "num": 110563,
+        "word": "在海外看到五星红旗就安心了",
+        "onboard_time": 1750380742,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京通电话#"
+    }
+  }
+}
