@@ -1,0 +1,410 @@
+{
+  "runTime": 1750423958833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1900037,
+        "num": 1900037,
+        "word": "单依纯守榜",
+        "onboard_time": 1750421661,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1882740,
+        "num": 1882740,
+        "word": "歌手直播",
+        "onboard_time": 1750419140,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37473,
+        "num": 882087,
+        "word": "2025年净网护网专项工作部署会召开",
+        "onboard_time": 1750420342,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674119,
+        "num": 674119,
+        "word": "卵巢癌晚期钢琴老师丁丁离世",
+        "onboard_time": 1750417821,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461115,
+        "num": 461115,
+        "word": "留英博士迷奸多人想化学阉割减刑遭拒",
+        "onboard_time": 1750420040,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361758,
+        "num": 361758,
+        "word": "以色列开始哭哭啼啼",
+        "onboard_time": 1750422202,
+        "rank": 5,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 1312496,
+        "num": 361753,
+        "word": "单依纯离常石磊远一点",
+        "onboard_time": 1750422861,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661948,
+        "num": 361726,
+        "word": "歌手顺序",
+        "onboard_time": 1750420820,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276613,
+        "num": 361699,
+        "word": "杀害杨靖宇日本军官自杀前的遗言",
+        "onboard_time": 1750405763,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116758,
+        "num": 361678,
+        "word": "公司回应工人跪求主管别开除",
+        "onboard_time": 1750422861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1036668,
+        "num": 361653,
+        "word": "中国留学生迷奸10人受害者发声",
+        "onboard_time": 1750411941,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338925,
+        "num": 361628,
+        "word": "婚检查出重大疾病医院仅告知本人",
+        "onboard_time": 1750414161,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839731,
+        "num": 361617,
+        "word": "清华回应女教授被树砸身亡",
+        "onboard_time": 1750406181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593708,
+        "num": 361596,
+        "word": "官方调查那尔那茜",
+        "onboard_time": 1750416681,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 449674,
+        "num": 361579,
+        "word": "吴昕是不是忘了自己是个女明星",
+        "onboard_time": 1750420281,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361558,
+        "num": 361558,
+        "word": "工人跪地哀求主管别开除",
+        "onboard_time": 1750413261,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355536,
+        "num": 355536,
+        "word": "马嘉祺啥时候守榜",
+        "onboard_time": 1750423042,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335334,
+        "num": 335334,
+        "word": "清华就北语女教授被树砸身亡致歉",
+        "onboard_time": 1750417459,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333885,
+        "num": 333885,
+        "word": "现在就出发3",
+        "onboard_time": 1750412482,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59561,
+        "num": 294184,
+        "word": "北大退学考清华男生自称有些狂妄",
+        "onboard_time": 1750422202,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274611,
+        "num": 274611,
+        "word": "歌手袭榜",
+        "onboard_time": 1750422142,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260574,
+        "num": 260574,
+        "word": "林俊杰北京演唱会二开",
+        "onboard_time": 1750421780,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255894,
+        "num": 255894,
+        "word": "歌手2025首次开启双曲袭榜",
+        "onboard_time": 1750407622,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254379,
+        "num": 254379,
+        "word": "李光洁说不想和蒋欣演两口子了",
+        "onboard_time": 1750412961,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237148,
+        "num": 237148,
+        "word": "黄子韬徐艺洋三里屯逛街",
+        "onboard_time": 1750417101,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235948,
+        "num": 235948,
+        "word": "巴多萨退赛王欣瑜晋级4强",
+        "onboard_time": 1750421721,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232853,
+        "num": 232853,
+        "word": "金世佳理发都在看书",
+        "onboard_time": 1750418000,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229917,
+        "num": 229917,
+        "word": "这剧开局就上这么大尺度",
+        "onboard_time": 1750423102,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114184,
+        "num": 218517,
+        "word": "美国GBU57型钻地弹仅次于核武器",
+        "onboard_time": 1750416981,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 215536,
+        "num": 215536,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1750423342,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207421,
+        "num": 207421,
+        "word": "大学生HIV感染情况",
+        "onboard_time": 1750386622,
+        "rank": 30,
+        "category": "健康医疗,教育"
+      },
+      {
+        "raw_hot": 206729,
+        "num": 206729,
+        "word": "男孩结婚2小时后坠亡婚姻被判无效",
+        "onboard_time": 1750412122,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194611,
+        "num": 194611,
+        "word": "一个人跳舞",
+        "onboard_time": 1750423701,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190066,
+        "num": 190066,
+        "word": "陈楚生第二位守榜歌手",
+        "onboard_time": 1750423822,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186942,
+        "num": 186942,
+        "word": "崩坏星穹铁道 白厄",
+        "onboard_time": 1750422741,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178757,
+        "num": 178757,
+        "word": "千万别买到青岛西",
+        "onboard_time": 1750421361,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169775,
+        "num": 169775,
+        "word": "于正被爆在闲鱼招素人演员",
+        "onboard_time": 1750403780,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169615,
+        "num": 169615,
+        "word": "现在就出发",
+        "onboard_time": 1750409121,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161877,
+        "num": 161877,
+        "word": "凤凰传奇",
+        "onboard_time": 1750414820,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37004,
+        "num": 161838,
+        "word": "夏思凝100米栏第三",
+        "onboard_time": 1750421721,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161805,
+        "num": 161805,
+        "word": "麦可布雷feeling good",
+        "onboard_time": 1750423522,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159471,
+        "num": 159471,
+        "word": "男子一周吃3次火锅查出食管癌",
+        "onboard_time": 1750420521,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152318,
+        "num": 152318,
+        "word": "GAI黄种人",
+        "onboard_time": 1750423940,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146040,
+        "num": 146040,
+        "word": "武汉警方通报一起持刀伤人案",
+        "onboard_time": 1750422020,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 140043,
+        "num": 140043,
+        "word": "欧阳娜娜 古早留子味",
+        "onboard_time": 1750417821,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132916,
+        "num": 132916,
+        "word": "歌手投票",
+        "onboard_time": 1750420701,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130526,
+        "num": 130526,
+        "word": "陈赫快从宋亚轩身上下去",
+        "onboard_time": 1750418781,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124380,
+        "num": 124380,
+        "word": "王欣瑜首进草地赛四强",
+        "onboard_time": 1750422440,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122220,
+        "num": 122220,
+        "word": "九尾眉钉造型",
+        "onboard_time": 1750421123,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113961,
+        "num": 113961,
+        "word": "林志颖50岁颜值",
+        "onboard_time": 1750423940,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中新两国要共同捍卫联合国核心国际体系#"
+    }
+  }
+}

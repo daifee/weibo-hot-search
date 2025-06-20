@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750419583288,
+  "endTime": 1750423958833,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -147,12 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1900037,
+      "num": 1900037,
+      "word": "单依纯守榜",
+      "onboard_time": 1750421661,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1889218,
       "num": 747851,
       "word": "1w奖学金到账后我们家的资金流动",
       "onboard_time": 1750125621,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1882740,
+      "num": 1882740,
+      "word": "歌手直播",
+      "onboard_time": 1750419140,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1867949,
@@ -497,6 +513,14 @@
       "onboard_time": 1750259123,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1312496,
+      "num": 361753,
+      "word": "单依纯离常石磊远一点",
+      "onboard_time": 1750422861,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1304705,
@@ -1380,7 +1404,7 @@
     },
     {
       "raw_hot": 807050,
-      "num": 619457,
+      "num": 674119,
       "word": "卵巢癌晚期钢琴老师丁丁离世",
       "onboard_time": 1750417821,
       "rank": 16,
@@ -1521,14 +1545,6 @@
       "onboard_time": 1750385359,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 774186,
-      "num": 774186,
-      "word": "歌手直播",
-      "onboard_time": 1750419140,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 766627,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1750118060,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 661948,
+      "num": 361726,
+      "word": "歌手顺序",
+      "onboard_time": 1750420820,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 661338,
@@ -3235,6 +3259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461115,
+      "num": 461115,
+      "word": "留英博士迷奸多人想化学阉割减刑遭拒",
+      "onboard_time": 1750420040,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458264,
       "num": 458264,
       "word": "伊朗称不会让以色列有一刻安宁",
@@ -3289,6 +3321,14 @@
       "onboard_time": 1750329980,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 449674,
+      "num": 361579,
+      "word": "吴昕是不是忘了自己是个女明星",
+      "onboard_time": 1750420281,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 448467,
@@ -4099,6 +4139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361758,
+      "num": 361758,
+      "word": "以色列开始哭哭啼啼",
+      "onboard_time": 1750422202,
+      "rank": 5,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 361101,
       "num": 361101,
       "word": "央视曝光杀猪盘新套路",
@@ -4161,6 +4209,14 @@
       "onboard_time": 1750131863,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355536,
+      "num": 355536,
+      "word": "马嘉祺啥时候守榜",
+      "onboard_time": 1750423042,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 354126,
@@ -4425,6 +4481,14 @@
       "onboard_time": 1750231041,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338925,
+      "num": 361628,
+      "word": "婚检查出重大疾病医院仅告知本人",
+      "onboard_time": 1750414161,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 338439,
@@ -5507,6 +5571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274611,
+      "num": 274611,
+      "word": "歌手袭榜",
+      "onboard_time": 1750422142,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 274306,
       "num": 274306,
       "word": "锦织圭出轨美女模特",
@@ -5841,6 +5913,14 @@
       "onboard_time": 1749981681,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260574,
+      "num": 260574,
+      "word": "林俊杰北京演唱会二开",
+      "onboard_time": 1750421780,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 260561,
@@ -6403,6 +6483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235948,
+      "num": 235948,
+      "word": "巴多萨退赛王欣瑜晋级4强",
+      "onboard_time": 1750421721,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235895,
       "num": 192645,
       "word": "马斯克公布尿检报告",
@@ -6611,6 +6699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229917,
+      "num": 229917,
+      "word": "这剧开局就上这么大尺度",
+      "onboard_time": 1750423102,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229852,
       "num": 229852,
       "word": "特朗普战情室见国家安全团队",
@@ -6705,14 +6801,6 @@
       "onboard_time": 1750219641,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227136,
-      "num": 227136,
-      "word": "婚检查出重大疾病医院仅告知本人",
-      "onboard_time": 1750414161,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227066,
@@ -7051,20 +7139,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 215536,
+      "num": 215536,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1750137261,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215388,
       "num": 215388,
       "word": "张艺兴直播上英语课",
       "onboard_time": 1750178358,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215219,
-      "num": 215219,
-      "word": "崩坏星穹铁道",
-      "onboard_time": 1750137261,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 215195,
@@ -8123,6 +8211,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 194611,
+      "num": 194611,
+      "word": "一个人跳舞",
+      "onboard_time": 1750423701,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194530,
       "num": 194530,
       "word": "月明千里官宣",
@@ -8427,6 +8523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190066,
+      "num": 190066,
+      "word": "陈楚生第二位守榜歌手",
+      "onboard_time": 1750423822,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190058,
       "num": 190058,
       "word": "蔡徐坤 CPOP",
@@ -8675,6 +8779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186942,
+      "num": 186942,
+      "word": "崩坏星穹铁道 白厄",
+      "onboard_time": 1750422741,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 186924,
       "num": 186924,
       "word": "临江仙粉丝退至我身后",
@@ -8892,7 +9004,7 @@
     },
     {
       "raw_hot": 183962,
-      "num": 183962,
+      "num": 218517,
       "word": "美国GBU57型钻地弹仅次于核武器",
       "onboard_time": 1750416981,
       "rank": 34,
@@ -9177,6 +9289,14 @@
       "onboard_time": 1750120581,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178757,
+      "num": 178757,
+      "word": "千万别买到青岛西",
+      "onboard_time": 1750421361,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 178656,
@@ -10491,6 +10611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161805,
+      "num": 161805,
+      "word": "麦可布雷feeling good",
+      "onboard_time": 1750423522,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161456,
       "num": 172558,
       "word": "孙颖莎的乒超vlog",
@@ -10617,6 +10745,14 @@
       "onboard_time": 1750055120,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159471,
+      "num": 159471,
+      "word": "男子一周吃3次火锅查出食管癌",
+      "onboard_time": 1750420521,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159303,
@@ -11049,6 +11185,14 @@
       "onboard_time": 1750332320,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 152318,
+      "num": 152318,
+      "word": "GAI黄种人",
+      "onboard_time": 1750423940,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 152175,
@@ -11617,6 +11761,14 @@
       "onboard_time": 1750241901,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146040,
+      "num": 146040,
+      "word": "武汉警方通报一起持刀伤人案",
+      "onboard_time": 1750422020,
+      "rank": 43,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 146028,
@@ -12747,6 +12899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132916,
+      "num": 132916,
+      "word": "歌手投票",
+      "onboard_time": 1750420701,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132857,
       "num": 132857,
       "word": "Cat说打比赛心态有变化",
@@ -13683,6 +13843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124380,
+      "num": 124380,
+      "word": "王欣瑜首进草地赛四强",
+      "onboard_time": 1750422440,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124294,
       "num": 124294,
       "word": "游客拍照坐坏价值约5万美元梵高椅",
@@ -13993,6 +14161,14 @@
       "onboard_time": 1749971480,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122220,
+      "num": 122220,
+      "word": "九尾眉钉造型",
+      "onboard_time": 1750421123,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 122092,
@@ -14523,6 +14699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116758,
+      "num": 361678,
+      "word": "公司回应工人跪求主管别开除",
+      "onboard_time": 1750422861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116660,
       "num": 116660,
       "word": "波尔谢幕战2比3雨果",
@@ -14921,6 +15105,14 @@
       "onboard_time": 1750328241,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113961,
+      "num": 113961,
+      "word": "林志颖50岁颜值",
+      "onboard_time": 1750423940,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 113893,
@@ -17915,6 +18107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59561,
+      "num": 294184,
+      "word": "北大退学考清华男生自称有些狂妄",
+      "onboard_time": 1750422202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59303,
       "num": 320911,
       "word": "驻有美军的伊拉克空军基地遭袭",
@@ -19267,6 +19467,14 @@
       "category": "民生新闻,剧集"
     },
     {
+      "raw_hot": 37473,
+      "num": 882087,
+      "word": "2025年净网护网专项工作部署会召开",
+      "onboard_time": 1750420342,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37448,
       "num": 174687,
       "word": "被国漫穿越角色做局了",
@@ -19329,6 +19537,14 @@
       "onboard_time": 1749978620,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37004,
+      "num": 161838,
+      "word": "夏思凝100米栏第三",
+      "onboard_time": 1750421721,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 36777,
