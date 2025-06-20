@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750438090158,
+  "endTime": 1750440227327,
   "band_list": [
     {
       "raw_hot": 1781309,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433378,
+      "num": 158618,
+      "word": "耳帝说马嘉祺这一场与上一场的歌都不适合他",
+      "onboard_time": 1750439779,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415100,
       "num": 233675,
       "word": "导播不语只是一味切易烊千玺",
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234809,
+      "num": 162762,
+      "word": "网红迪士尼健康堪忧",
+      "onboard_time": 1750436122,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 227487,
       "num": 227487,
       "word": "以色列全境响防空警报",
@@ -171,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178346,
+      "num": 124611,
+      "word": "王力宏宇宙在演唱会上合体",
+      "onboard_time": 1750439598,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174187,
       "num": 162807,
       "word": "千万别买到青岛西",
@@ -179,20 +203,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163495,
+      "num": 163495,
+      "word": "俄称伊朗政权更迭不可接受",
+      "onboard_time": 1750438759,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162818,
       "num": 162818,
       "word": "那英单依纯周深突然就病一起了",
       "onboard_time": 1750435524,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162763,
-      "num": 162762,
-      "word": "网红迪士尼健康堪忧",
-      "onboard_time": 1750436122,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 158818,
@@ -323,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90220,
+      "num": 77774,
+      "word": "快速掉秤的10个小技巧",
+      "onboard_time": 1750439598,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 89715,
       "num": 175003,
       "word": "以军无人机袭击伊朗科学家",
@@ -408,6 +440,30 @@
       "word": "38岁女子秦岭徒步失联5天",
       "onboard_time": 1750436482,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56922,
+      "num": 56922,
+      "word": "者来女把GAI唱懵了",
+      "onboard_time": 1750429525,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 53494,
+      "num": 126479,
+      "word": "文化中国行美好如夏至",
+      "onboard_time": 1750439538,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50543,
+      "num": 56064,
+      "word": "国家千亿级大项目撬动消费动能",
+      "onboard_time": 1750440079,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
