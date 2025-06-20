@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750458312081,
+  "endTime": 1750459399730,
   "band_list": [
     {
       "raw_hot": 1781309,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 304214,
+      "num": 504299,
+      "word": "俄称伊朗政权更迭不可接受",
+      "onboard_time": 1750438759,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 291488,
       "num": 197798,
       "word": "耳帝",
@@ -123,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240834,
-      "num": 398533,
-      "word": "俄称伊朗政权更迭不可接受",
-      "onboard_time": 1750438759,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 239192,
       "num": 198036,
       "word": "歌手直播",
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 234809,
-      "num": 162762,
+      "num": 164426,
       "word": "网红迪士尼健康堪忧",
       "onboard_time": 1750436122,
       "rank": 32,
@@ -291,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113841,
+      "num": 41771,
+      "word": "俄罗斯愿与中国开展全面合作",
+      "onboard_time": 1750452074,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113152,
       "num": 113152,
       "word": "苏醒喊话全员加速中邀请何炅",
@@ -305,14 +313,6 @@
       "onboard_time": 1750434082,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110710,
-      "num": 34641,
-      "word": "俄罗斯愿与中国开展全面合作",
-      "onboard_time": 1750452074,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 109736,
@@ -395,6 +395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83411,
+      "num": 63514,
+      "word": "47岁网红主播天宇因心梗去世",
+      "onboard_time": 1750445055,
+      "rank": 46,
+      "category": "网红"
+    },
+    {
       "raw_hot": 82258,
       "num": 82258,
       "word": "现在就出发3",
@@ -459,6 +467,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 62627,
+      "num": 126479,
+      "word": "文化中国行美好如夏至",
+      "onboard_time": 1750439538,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60859,
       "num": 135985,
       "word": "美国GBU57型钻地弹仅次于核武器",
@@ -473,14 +489,6 @@
       "onboard_time": 1750451953,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 59878,
-      "num": 59878,
-      "word": "47岁网红主播天宇因心梗去世",
-      "onboard_time": 1750445055,
-      "rank": 46,
-      "category": "网红"
     },
     {
       "raw_hot": 57966,
@@ -499,20 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53494,
-      "num": 126479,
-      "word": "文化中国行美好如夏至",
-      "onboard_time": 1750439538,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47734,
       "num": 87331,
       "word": "部分定向委培毕业包分配",
       "onboard_time": 1750429945,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45420,
+      "num": 45420,
+      "word": "苏超镇江队门将电话被打爆",
+      "onboard_time": 1750457715,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 44490,
@@ -531,15 +539,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 36759,
-      "num": 459332,
-      "word": "中国饭碗里的科技范儿",
-      "onboard_time": 1750431744,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 33287,
+      "raw_hot": 41148,
       "num": 67988,
       "word": "上百名中国公民从以撤离至埃及境内",
       "onboard_time": 1750444817,
@@ -547,12 +547,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33096,
-      "num": 37182,
+      "raw_hot": 38132,
+      "num": 38132,
       "word": "流浪犬暴雨中相拥被好心人收养",
       "onboard_time": 1750439717,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36759,
+      "num": 459332,
+      "word": "中国饭碗里的科技范儿",
+      "onboard_time": 1750431744,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29781,
@@ -571,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24668,
-      "num": 24668,
-      "word": "苏超镇江队门将电话被打爆",
-      "onboard_time": 1750457715,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 22379,
       "num": 25815,
       "word": "风与潮杀青",
@@ -587,8 +587,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17369,
-      "num": 24148,
+      "raw_hot": 22130,
+      "num": 28166,
       "word": "中国女篮32分再胜日本",
       "onboard_time": 1750456275,
       "rank": 49,
