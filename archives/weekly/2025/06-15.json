@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750390509775,
+  "endTime": 1750394042012,
   "band_list": [
     {
       "raw_hot": 3561208,
@@ -17,6 +17,14 @@
       "onboard_time": 1750217420,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3254925,
+      "num": 3254925,
+      "word": "凤凰传奇天津演唱会取消",
+      "onboard_time": 1750391722,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 3152370,
@@ -81,6 +89,14 @@
       "onboard_time": 1750309102,
       "rank": 0,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 1986266,
+      "num": 874843,
+      "word": "曾毅因身体原因暂停工作",
+      "onboard_time": 1750392203,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1972077,
@@ -297,6 +313,14 @@
       "onboard_time": 1750305742,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1472451,
+      "num": 631404,
+      "word": "闲鱼 刘宇宁",
+      "onboard_time": 1750390100,
+      "rank": 31,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 1453949,
@@ -537,6 +561,14 @@
       "onboard_time": 1750246161,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1169409,
+      "num": 1169409,
+      "word": "伊朗导弹数量超过美以拦截弹数量",
+      "onboard_time": 1750389981,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1158022,
@@ -955,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 925781,
+      "num": 567922,
+      "word": "王大陆找黑道帮女友讨债",
+      "onboard_time": 1750391361,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 911926,
       "num": 911926,
       "word": "徐州绝杀镇江",
@@ -1265,6 +1305,14 @@
       "onboard_time": 1750161261,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 790319,
+      "num": 559167,
+      "word": "宋茜 一个不发死字的女明星",
+      "onboard_time": 1750391841,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 788862,
@@ -1857,6 +1905,14 @@
       "onboard_time": 1749994944,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 637420,
+      "num": 637420,
+      "word": "为什么离职时领导会挽留你",
+      "onboard_time": 1750390402,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 636890,
@@ -3411,6 +3467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 392840,
+      "num": 260672,
+      "word": "敖瑞鹏直播把刘浩存吓掉线了",
+      "onboard_time": 1750392802,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392512,
       "num": 295613,
       "word": "老中医锐评内娱男明星",
@@ -3497,6 +3561,14 @@
       "onboard_time": 1750330340,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381835,
+      "num": 569681,
+      "word": "教育厅回应那尔那茜定向委培事件",
+      "onboard_time": 1750393283,
+      "rank": 9,
+      "category": "舆论监督,艺人"
     },
     {
       "raw_hot": 380569,
@@ -3939,6 +4011,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 341202,
+      "num": 256686,
+      "word": "汪苏泷演唱会获全球设计大奖",
+      "onboard_time": 1750393464,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 341056,
       "num": 315059,
       "word": "吴宣仪翟潇闻台上借位吻",
@@ -4219,6 +4299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 319205,
+      "num": 319205,
+      "word": "罗马仕充电宝在日本发生爆炸",
+      "onboard_time": 1750392142,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318567,
       "num": 370242,
       "word": "马斯克星舰试飞前测试发生巨大爆炸",
@@ -4251,6 +4339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316989,
+      "num": 231164,
+      "word": "黄晓明上戏考博落榜",
+      "onboard_time": 1750393763,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316521,
       "num": 316521,
       "word": "孟羽童回应一手好牌打得稀烂",
@@ -4281,6 +4377,14 @@
       "onboard_time": 1749995004,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 312681,
+      "num": 245176,
+      "word": "曾毅手表",
+      "onboard_time": 1750393583,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 311822,
@@ -4393,6 +4497,14 @@
       "onboard_time": 1750172844,
       "rank": 23,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 302429,
+      "num": 229807,
+      "word": "伊朗9名核科学家睡觉时被暗杀",
+      "onboard_time": 1750393103,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 301485,
@@ -4883,6 +4995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 280333,
+      "num": 280333,
+      "word": "夏天是气血虚的人的劫",
+      "onboard_time": 1750392743,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279732,
       "num": 279732,
       "word": "Bin哥 嘴硬",
@@ -5176,6 +5296,14 @@
       "word": "伊朗首都街头空无一人",
       "onboard_time": 1750146561,
       "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 265014,
+      "num": 265014,
+      "word": "伊朗核科学家被以色列暗杀细节",
+      "onboard_time": 1750392743,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -5691,6 +5819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239633,
+      "num": 239633,
+      "word": "泡泡玛特巨震",
+      "onboard_time": 1750390702,
+      "rank": 29,
+      "category": "财经,动漫"
+    },
+    {
       "raw_hot": 239305,
       "num": 169616,
       "word": "00后女孩醉驾致3死受害者母亲发声",
@@ -5705,14 +5841,6 @@
       "onboard_time": 1749997942,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 238993,
-      "num": 238993,
-      "word": "伊朗导弹数量超过美以拦截弹数量",
-      "onboard_time": 1750389981,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 238547,
@@ -5808,6 +5936,14 @@
       "word": "神仙都运不来的荔枝让我来",
       "onboard_time": 1750324642,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235079,
+      "num": 229504,
+      "word": "留英博士强奸案",
+      "onboard_time": 1750392503,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -6595,6 +6731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208051,
+      "num": 208051,
+      "word": "家长质疑气象台不敢发暴雨预警",
+      "onboard_time": 1750393043,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207871,
       "num": 207871,
       "word": "上海老年人相亲有多直接",
@@ -6627,6 +6771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207289,
+      "num": 207289,
+      "word": "书卷一梦定档",
+      "onboard_time": 1750393883,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207191,
+      "num": 228567,
+      "word": "现在择偶标准都这么抽象了",
+      "onboard_time": 1750393464,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207118,
       "num": 207118,
       "word": "李晟李佳航好六预告",
@@ -6643,12 +6803,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206878,
+      "num": 206878,
+      "word": "纸嫁衣8定档",
+      "onboard_time": 1750390220,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206865,
       "num": 228061,
       "word": "翘楚首发角色海报",
       "onboard_time": 1750148962,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206851,
+      "num": 206851,
+      "word": "凤凰传奇演唱会洛阳站暂时终止",
+      "onboard_time": 1750393883,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 206607,
@@ -6953,6 +7129,14 @@
       "onboard_time": 1750215621,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 199853,
+      "num": 199853,
+      "word": "哈利伯顿赌上生涯一战",
+      "onboard_time": 1750393824,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 199839,
@@ -7571,14 +7755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189660,
-      "num": 189660,
-      "word": "闲鱼 刘宇宁",
-      "onboard_time": 1750390100,
-      "rank": 31,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 189427,
       "num": 189427,
       "word": "原神开门",
@@ -7825,14 +8001,6 @@
       "onboard_time": 1750119261,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 184912,
-      "num": 184912,
-      "word": "纸嫁衣8定档",
-      "onboard_time": 1750390220,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 184876,
@@ -9923,14 +10091,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 153190,
-      "num": 153190,
-      "word": "为什么离职时领导会挽留你",
-      "onboard_time": 1750390402,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153119,
       "num": 153119,
       "word": "疑辱骂五月天粉丝员工已被开除",
@@ -10089,6 +10249,14 @@
       "onboard_time": 1750121002,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150759,
+      "num": 229719,
+      "word": "赵一鸣回应个别门店物资遭哄抢",
+      "onboard_time": 1750393943,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150701,
@@ -11747,6 +11915,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 131415,
+      "num": 229223,
+      "word": "大连某高校空调歧视",
+      "onboard_time": 1750393223,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131320,
       "num": 332573,
       "word": "数百名村民哄抢未收土豆",
@@ -12713,6 +12889,14 @@
       "onboard_time": 1750297941,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122264,
+      "num": 229042,
+      "word": "巴黎圣日耳曼0比1博塔弗戈",
+      "onboard_time": 1750391841,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 122220,
@@ -14027,6 +14211,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 109186,
+      "num": 250910,
+      "word": "小区车库被淹已救出1名失联人员",
+      "onboard_time": 1750392142,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109027,
       "num": 241814,
       "word": "严浩翔一个撇嘴终结阿尔曼",
@@ -14209,6 +14401,14 @@
       "onboard_time": 1750229481,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106178,
+      "num": 234262,
+      "word": "三江学院通报保洁阿姨搬行李",
+      "onboard_time": 1750392142,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 106001,
@@ -14699,6 +14899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97468,
+      "num": 206856,
+      "word": "樊振东腿部肌肉线条",
+      "onboard_time": 1750393403,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97425,
       "num": 98984,
       "word": "专家称以军对伊朗打击进入新阶段",
@@ -14745,6 +14953,14 @@
       "onboard_time": 1750001361,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96216,
+      "num": 251630,
+      "word": "伞兵是真正的早八妆",
+      "onboard_time": 1750393043,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 96053,
@@ -16169,6 +16385,14 @@
       "onboard_time": 1750288518,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64309,
+      "num": 551830,
+      "word": "与肖战尽享这一刻",
+      "onboard_time": 1750392441,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 64166,
@@ -18307,6 +18531,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 28673,
+      "num": 231623,
+      "word": "9名伊朗核科学家睡梦中遭暗杀",
+      "onboard_time": 1750393943,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 28235,
       "num": 311673,
       "word": "上身脂肪太多会对人造成什么困扰",
@@ -19241,6 +19473,14 @@
       "onboard_time": 1750289780,
       "rank": 29,
       "category": "国际时政,民生新闻"
+    },
+    {
+      "raw_hot": 16799,
+      "num": 228818,
+      "word": "2030世界杯你还会等待吗",
+      "onboard_time": 1750392082,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 16763,
