@@ -1,7 +1,15 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750510073411,
+  "endTime": 1750510978820,
   "band_list": [
+    {
+      "raw_hot": 2035521,
+      "num": 2035521,
+      "word": "0州",
+      "onboard_time": 1750498821,
+      "rank": 40,
+      "category": "体育"
+    },
     {
       "raw_hot": 1988631,
       "num": 712778,
@@ -33,14 +41,6 @@
       "onboard_time": 1750480880,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1545988,
-      "num": 1545988,
-      "word": "0州",
-      "onboard_time": 1750498821,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 1430122,
@@ -81,6 +81,14 @@
       "onboard_time": 1750477221,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1096393,
+      "num": 394662,
+      "word": "唐梓康康领证",
+      "onboard_time": 1750508361,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1090744,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 846917,
-      "num": 338855,
+      "num": 347479,
       "word": "迪丽热巴发型刘涛",
       "onboard_time": 1750500862,
       "rank": 11,
@@ -179,12 +187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 799413,
-      "num": 334694,
-      "word": "唐梓康康领证",
-      "onboard_time": 1750508361,
-      "rank": 10,
-      "category": "网红"
+      "raw_hot": 820093,
+      "num": 820093,
+      "word": "女子婚礼后不领证被老公起诉",
+      "onboard_time": 1750505421,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 795000,
@@ -227,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 694142,
-      "num": 694142,
-      "word": "女子婚礼后不领证被老公起诉",
-      "onboard_time": 1750505421,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 693840,
       "num": 693840,
       "word": "唐国强称在闲鱼收时团小卡认人",
@@ -265,6 +265,14 @@
       "onboard_time": 1750461497,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669415,
+      "num": 669415,
+      "word": "酱园弄",
+      "onboard_time": 1750507102,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 637426,
@@ -321,6 +329,14 @@
       "onboard_time": 1750473741,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 561376,
+      "num": 188164,
+      "word": "秦不仅统一六国 还统一了网约车",
+      "onboard_time": 1750504820,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 531342,
@@ -411,22 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 472930,
-      "num": 188164,
-      "word": "秦不仅统一六国 还统一了网约车",
-      "onboard_time": 1750504820,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 462916,
-      "num": 462916,
-      "word": "酱园弄",
-      "onboard_time": 1750507102,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 459837,
       "num": 459837,
       "word": "尚公主明天官宣",
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426764,
+      "num": 426764,
+      "word": "昀牵孟绕",
+      "onboard_time": 1750510103,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426265,
       "num": 426265,
       "word": "男子暴雨钓上72斤石斑鱼3000元卖出",
@@ -513,6 +521,14 @@
       "onboard_time": 1750432103,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 403343,
+      "num": 403343,
+      "word": "常州雨战",
+      "onboard_time": 1750505182,
+      "rank": 18,
+      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 388573,
@@ -587,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359523,
+      "num": 359523,
+      "word": "刚下高铁就感受到常州多想进球",
+      "onboard_time": 1750494322,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358463,
       "num": 375470,
       "word": "外交部回应留英博士被判终身监禁",
@@ -619,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 339998,
-      "num": 339998,
-      "word": "常州雨战",
-      "onboard_time": 1750505182,
-      "rank": 18,
-      "category": "体育,民生新闻"
-    },
-    {
       "raw_hot": 335195,
       "num": 783232,
       "word": "俄称伊朗政权更迭不可接受",
@@ -643,14 +659,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 330176,
-      "num": 330176,
-      "word": "刚下高铁就感受到常州多想进球",
-      "onboard_time": 1750494322,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 329257,
       "num": 329257,
       "word": "在伊中国人发现酒店只有自己吃早餐",
@@ -665,6 +673,14 @@
       "onboard_time": 1750429587,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 317052,
+      "num": 317052,
+      "word": "清华保研生曾因专业自卑退学北大",
+      "onboard_time": 1750507341,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311965,
@@ -827,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246390,
-      "num": 246390,
-      "word": "清华保研生曾因专业自卑退学北大",
-      "onboard_time": 1750507341,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243862,
       "num": 184821,
       "word": "沈梦辰没读热搜",
@@ -872,6 +880,14 @@
       "word": "歌手直播",
       "onboard_time": 1750419140,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238672,
+      "num": 238672,
+      "word": "你好星期六",
+      "onboard_time": 1750509681,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -939,12 +955,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 226345,
+      "num": 335358,
+      "word": "那尔那茜事件真相还要公众等多久",
+      "onboard_time": 1750506562,
+      "rank": 9,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 225541,
+      "num": 285974,
+      "word": "幼师体罚幼儿被刑拘",
+      "onboard_time": 1750507883,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 225515,
       "num": 225515,
       "word": "47岁网红主播天宇因心梗去世",
       "onboard_time": 1750445055,
       "rank": 46,
       "category": "网红"
+    },
+    {
+      "raw_hot": 220948,
+      "num": 239981,
+      "word": "于适完全是daddy级别的",
+      "onboard_time": 1750510103,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 220204,
@@ -971,12 +1011,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 214048,
-      "num": 285974,
-      "word": "幼师体罚幼儿被刑拘",
-      "onboard_time": 1750507883,
-      "rank": 14,
-      "category": "辟谣/通报"
+      "raw_hot": 213727,
+      "num": 213727,
+      "word": "宋慧乔 当谈及她时不再是婚姻",
+      "onboard_time": 1750505901,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211445,
+      "num": 211445,
+      "word": "常州主场啦啦操队员带恐龙头盔",
+      "onboard_time": 1750509803,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 210121,
@@ -1017,6 +1065,22 @@
       "onboard_time": 1750430964,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 206452,
+      "num": 206452,
+      "word": "白鹿招商能力实绩",
+      "onboard_time": 1750510642,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202921,
+      "num": 202921,
+      "word": "苏超南京3比0常州",
+      "onboard_time": 1750510582,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 202778,
@@ -1163,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189523,
+      "num": 189523,
+      "word": "罗马仕充电宝3C认证大面积暂停",
+      "onboard_time": 1750506441,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189517,
       "num": 209112,
       "word": "朱志鑫苏新皓和Prada工作人员交流",
@@ -1185,14 +1257,6 @@
       "onboard_time": 1750475421,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 187073,
-      "num": 187073,
-      "word": "宋慧乔 当谈及她时不再是婚姻",
-      "onboard_time": 1750505901,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 186088,
@@ -1363,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169092,
+      "num": 169092,
+      "word": "辛巴 新说唱",
+      "onboard_time": 1750508722,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168591,
       "num": 168591,
       "word": "沈腾把范丞丞扔出两米远",
@@ -1427,14 +1499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161961,
-      "num": 161961,
-      "word": "你好星期六",
-      "onboard_time": 1750509681,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160490,
       "num": 160490,
       "word": "现烤面包 预制菜",
@@ -1491,6 +1555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156794,
+      "num": 243307,
+      "word": "张子枫裸色露背长裙",
+      "onboard_time": 1750509622,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156536,
       "num": 199980,
       "word": "树莓转学",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1750489160,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155067,
+      "num": 239951,
+      "word": "苏超赛场播放白鹿推介视频",
+      "onboard_time": 1750507943,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 154879,
@@ -1571,14 +1651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150024,
-      "num": 150024,
-      "word": "罗马仕充电宝3C认证大面积暂停",
-      "onboard_time": 1750506441,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146305,
       "num": 146305,
       "word": "杨幂主动调整王许梅妆造",
@@ -1627,12 +1699,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142889,
-      "num": 142889,
-      "word": "辛巴 新说唱",
-      "onboard_time": 1750508722,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 142829,
+      "num": 142829,
+      "word": "马嘉祺说娜姐谢谢你",
+      "onboard_time": 1750510884,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 141369,
@@ -1681,14 +1753,6 @@
       "onboard_time": 1750467982,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138955,
-      "num": 335358,
-      "word": "那尔那茜事件真相还要公众等多久",
-      "onboard_time": 1750506562,
-      "rank": 9,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 138529,
@@ -1787,6 +1851,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 132833,
+      "num": 132833,
+      "word": "萨巴伦卡0比2万卓索娃",
+      "onboard_time": 1750510582,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132590,
+      "num": 132590,
+      "word": "中国女排1比0日本女排",
+      "onboard_time": 1750510642,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132070,
       "num": 132070,
       "word": "美代表口误谴责以色列",
@@ -1841,14 +1921,6 @@
       "onboard_time": 1750503982,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129844,
-      "num": 129844,
-      "word": "苏超赛场播放白鹿推介视频",
-      "onboard_time": 1750507943,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 129384,
@@ -1956,7 +2028,7 @@
     },
     {
       "raw_hot": 125808,
-      "num": 773418,
+      "num": 784026,
       "word": "文化中国行美好如夏至",
       "onboard_time": 1750439538,
       "rank": 12,
@@ -2153,14 +2225,6 @@
       "onboard_time": 1750491263,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 118448,
-      "num": 118448,
-      "word": "常州主场啦啦操队员带恐龙头盔",
-      "onboard_time": 1750509803,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 116703,
@@ -2859,14 +2923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 78644,
-      "num": 243307,
-      "word": "张子枫裸色露背长裙",
-      "onboard_time": 1750509622,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 78037,
       "num": 129109,
       "word": "16800元塑身衣穿3个月患上盆腔炎",
@@ -2881,6 +2937,14 @@
       "onboard_time": 1750497800,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75813,
+      "num": 152633,
+      "word": "Labubu在二手市场价格暴跌",
+      "onboard_time": 1750510884,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74213,
@@ -3107,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48598,
+      "num": 175559,
+      "word": "女子被淹车库22小时获救后问几点了",
+      "onboard_time": 1750510884,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47734,
       "num": 87331,
       "word": "部分定向委培毕业包分配",
@@ -3227,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37776,
+      "num": 152796,
+      "word": "伞兵刀光剑影大片",
+      "onboard_time": 1750509923,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 33579,
       "num": 189243,
       "word": "南京队13分钟头球破门",
@@ -3265,14 +3345,6 @@
       "onboard_time": 1750443976,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27170,
-      "num": 135146,
-      "word": "伞兵刀光剑影大片",
-      "onboard_time": 1750509923,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 26102,
