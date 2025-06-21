@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750484570674,
+  "endTime": 1750487683295,
   "band_list": [
     {
       "raw_hot": 1988631,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1250701,
-      "num": 285238,
+      "num": 551667,
       "word": "印度少女遭14人强奸两年现怀孕8月",
       "onboard_time": 1750484301,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1750477282,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1165502,
+      "num": 327959,
+      "word": "霍震霆曝儿子霍启仁已结婚",
+      "onboard_time": 1750484002,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1127288,
@@ -99,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 985993,
+      "num": 985993,
+      "word": "iPhone检测针孔摄像头方法",
+      "onboard_time": 1750482802,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 881868,
       "num": 881868,
       "word": "幼态审美",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 837394,
-      "num": 319419,
+      "num": 327068,
       "word": "迪丽热巴天津",
       "onboard_time": 1750481060,
       "rank": 24,
@@ -203,6 +219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 511875,
+      "num": 511875,
+      "word": "湖南一医院前院长坠楼身亡",
+      "onboard_time": 1750485561,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 490468,
       "num": 490468,
       "word": "泡泡特玛",
@@ -243,14 +267,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 426301,
-      "num": 272044,
-      "word": "iPhone检测针孔摄像头方法",
-      "onboard_time": 1750482802,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 426265,
       "num": 426265,
       "word": "男子暴雨钓上72斤石斑鱼3000元卖出",
@@ -283,20 +299,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 393985,
-      "num": 269302,
-      "word": "霍震霆曝儿子霍启仁已结婚",
-      "onboard_time": 1750484002,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 388573,
       "num": 237355,
       "word": "月经3天干净和7天干净其实都好",
       "onboard_time": 1750467982,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 386211,
+      "num": 326321,
+      "word": "原来小说里富家子弟一个班是真的",
+      "onboard_time": 1750483101,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 385982,
@@ -323,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358463,
+      "num": 329653,
+      "word": "外交部回应留英博士被判终身监禁",
+      "onboard_time": 1750483521,
+      "rank": 22,
+      "category": "海外新闻,国内时政"
+    },
+    {
       "raw_hot": 357279,
       "num": 357279,
       "word": "小沈阳女儿回应韩国出道争议",
@@ -345,6 +369,14 @@
       "onboard_time": 1750438759,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 329759,
+      "num": 329759,
+      "word": "尚公主明天官宣",
+      "onboard_time": 1750487002,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 329257,
@@ -371,6 +403,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 305265,
+      "num": 305265,
+      "word": "包浆labubu",
+      "onboard_time": 1750482921,
+      "rank": 31,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 291488,
       "num": 197798,
       "word": "耳帝",
@@ -385,6 +425,14 @@
       "onboard_time": 1750480100,
       "rank": 20,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 274173,
+      "num": 274173,
+      "word": "章子怡雷佳音C位海报",
+      "onboard_time": 1750482321,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 272700,
@@ -475,14 +523,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 230986,
-      "num": 230986,
-      "word": "章子怡雷佳音C位海报",
-      "onboard_time": 1750482321,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 227487,
       "num": 227487,
       "word": "以色列全境响防空警报",
@@ -547,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203299,
+      "num": 203299,
+      "word": "李先彬自曝是李光洙追的自己",
+      "onboard_time": 1750485921,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200345,
       "num": 200345,
       "word": "再一次对印度人的聪明有了实感",
@@ -579,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196804,
-      "num": 137759,
-      "word": "原来小说里富家子弟一个班是真的",
-      "onboard_time": 1750483101,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196376,
       "num": 191780,
       "word": "曾舜晞roomtour",
@@ -609,6 +649,14 @@
       "onboard_time": 1750474101,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194769,
+      "num": 194769,
+      "word": "谭晶说马嘉祺云与海完成度很好",
+      "onboard_time": 1750484242,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 192886,
@@ -707,12 +755,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170724,
-      "num": 170724,
-      "word": "外交部回应留英博士被判终身监禁",
-      "onboard_time": 1750483521,
-      "rank": 22,
-      "category": "海外新闻,国内时政"
+      "raw_hot": 170939,
+      "num": 170939,
+      "word": "唐僧都开始卖房了",
+      "onboard_time": 1750484062,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 170716,
@@ -787,20 +835,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156828,
+      "num": 156828,
+      "word": "五哈",
+      "onboard_time": 1750486820,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156536,
       "num": 199980,
       "word": "树莓转学",
       "onboard_time": 1750469360,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 156108,
-      "num": 156108,
-      "word": "包浆labubu",
-      "onboard_time": 1750482921,
-      "rank": 31,
-      "category": "休闲,动漫"
     },
     {
       "raw_hot": 154879,
@@ -843,12 +891,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152364,
+      "num": 128879,
+      "word": "经期真正不能做的10件事",
+      "onboard_time": 1750487002,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151681,
       "num": 151681,
       "word": "河北中考语文",
       "onboard_time": 1750478841,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149405,
+      "num": 149405,
+      "word": "牺牲62年后他的头颅在工地被发现",
+      "onboard_time": 1750486941,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145091,
+      "num": 145091,
+      "word": "李连杰 我不是装孙子",
+      "onboard_time": 1750485141,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144579,
+      "num": 144579,
+      "word": "韩国网友要求闵玧其退团",
+      "onboard_time": 1750487120,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 144577,
@@ -915,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136732,
+      "num": 236719,
+      "word": "乐在旅途第三季收官",
+      "onboard_time": 1750486220,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136497,
       "num": 136497,
       "word": "詹姆斯质疑戒指文化合理吗",
@@ -929,14 +1017,6 @@
       "onboard_time": 1750440079,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134374,
-      "num": 134374,
-      "word": "唐僧都开始卖房了",
-      "onboard_time": 1750484062,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 133059,
@@ -976,6 +1056,14 @@
       "word": "沈腾说范丞丞平时只鼓励娜扎",
       "onboard_time": 1750472901,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128381,
+      "num": 128381,
+      "word": "张远录制新说唱",
+      "onboard_time": 1750487181,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1275,14 +1363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108058,
-      "num": 108058,
-      "word": "谭晶说马嘉祺云与海完成度很好",
-      "onboard_time": 1750484242,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107675,
       "num": 107675,
       "word": "哈佛暂时可以继续接收国际学生",
@@ -1339,6 +1419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 101300,
+      "num": 101300,
+      "word": "黄霄雲首轮邀约已确认完毕",
+      "onboard_time": 1750486041,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100674,
       "num": 100674,
       "word": "十个勤天直播",
@@ -1355,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100183,
+      "num": 100183,
+      "word": "孟子义刘学义一个敢教一个敢学",
+      "onboard_time": 1750485260,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100172,
       "num": 100172,
       "word": "美国下场打伊朗有三重阻碍",
@@ -1363,12 +1459,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99373,
+      "num": 99373,
+      "word": "红星美凯龙直播",
+      "onboard_time": 1750487120,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99137,
+      "num": 99137,
+      "word": "何炅在歌手里cue沈月",
+      "onboard_time": 1750485441,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98292,
       "num": 98292,
       "word": "丁太升谈马嘉祺淘汰",
       "onboard_time": 1750481541,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97517,
+      "num": 97517,
+      "word": "时尚芭莎封面",
+      "onboard_time": 1750486341,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 97180,
@@ -1385,6 +1505,14 @@
       "onboard_time": 1750481060,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96587,
+      "num": 96587,
+      "word": "姚冠宇综艺再现一步三摇名场面",
+      "onboard_time": 1750487601,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 96052,
@@ -1425,6 +1553,14 @@
       "onboard_time": 1750472360,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94102,
+      "num": 94102,
+      "word": "开车和乘车时别佩戴鲨鱼夹",
+      "onboard_time": 1750487660,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92400,
@@ -1523,6 +1659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74131,
+      "num": 129109,
+      "word": "16800元塑身衣穿3个月患上盆腔炎",
+      "onboard_time": 1750487481,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73461,
       "num": 115769,
       "word": "麦迪说给我个奥尼尔也能夺冠",
@@ -1611,6 +1755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 60663,
+      "num": 119226,
+      "word": "亲友回应湖南一医院前院长坠楼身亡",
+      "onboard_time": 1750487481,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60508,
       "num": 116420,
       "word": "小米悠悠",
@@ -1625,6 +1777,14 @@
       "onboard_time": 1750451953,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58741,
+      "num": 102253,
+      "word": "小伙抵押婚房带家人投资被骗500万",
+      "onboard_time": 1750485681,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57966,
@@ -1667,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53503,
+      "num": 128454,
+      "word": "干部请假外出打麻将赌博被当场抓获",
+      "onboard_time": 1750485740,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50325,
       "num": 133279,
       "word": "ECMO转运患者800公里2万8贵不贵",
@@ -1703,6 +1871,14 @@
       "num": 108559,
       "word": "韩国工时改革",
       "onboard_time": 1750468881,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 45583,
+      "num": 104525,
+      "word": "美国网友说不再相信以色列",
+      "onboard_time": 1750485260,
       "rank": 38,
       "category": "海外新闻"
     },
@@ -1785,6 +1961,22 @@
       "onboard_time": 1750443976,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23492,
+      "num": 122096,
+      "word": "伊朗恢复全国网络",
+      "onboard_time": 1750487540,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23176,
+      "num": 149529,
+      "word": "诚C西门吹雪古风造型",
+      "onboard_time": 1750486582,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 22753,
