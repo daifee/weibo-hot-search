@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750490638302,
+  "endTime": 1750491523752,
   "band_list": [
     {
       "raw_hot": 1988631,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1192974,
-      "num": 375271,
+      "num": 380264,
       "word": "霍震霆曝儿子霍启仁已结婚",
       "onboard_time": 1750484002,
       "rank": 14,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1127288,
-      "num": 359417,
+      "num": 372778,
       "word": "重度抑郁躯体化的真实表现",
       "onboard_time": 1750477221,
       "rank": 11,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 837394,
-      "num": 375046,
+      "num": 376182,
       "word": "迪丽热巴天津",
       "onboard_time": 1750481060,
       "rank": 24,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 479996,
-      "num": 374710,
+      "num": 378268,
       "word": "原来小说里富家子弟一个班是真的",
       "onboard_time": 1750483101,
       "rank": 36,
@@ -283,20 +283,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 427271,
+      "num": 374390,
+      "word": "李先彬自曝是李光洙追的自己",
+      "onboard_time": 1750485921,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426265,
       "num": 426265,
       "word": "男子暴雨钓上72斤石斑鱼3000元卖出",
       "onboard_time": 1750473981,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424403,
-      "num": 295725,
-      "word": "李先彬自曝是李光洙追的自己",
-      "onboard_time": 1750485921,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 423822,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383578,
+      "num": 383578,
+      "word": "牺牲62年后他的头颅在工地被发现",
+      "onboard_time": 1750486941,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381389,
       "num": 381389,
       "word": "包浆labubu",
@@ -377,14 +385,6 @@
       "onboard_time": 1750465039,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 354148,
-      "num": 354148,
-      "word": "牺牲62年后他的头颅在工地被发现",
-      "onboard_time": 1750486941,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 340073,
@@ -435,11 +435,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 293675,
+      "num": 293675,
+      "word": "被骗40万女子说骗子会提供情绪价值",
+      "onboard_time": 1750489281,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291488,
       "num": 197798,
       "word": "耳帝",
       "onboard_time": 1750432702,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 284157,
+      "num": 371346,
+      "word": "邓超王祖蓝十年前十年后",
+      "onboard_time": 1750488381,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 263140,
-      "num": 263140,
+      "num": 369516,
       "word": "张艺兴为演话剧专门去敦煌学习",
       "onboard_time": 1750488861,
       "rank": 17,
@@ -513,6 +529,14 @@
       "onboard_time": 1750484242,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254967,
+      "num": 254967,
+      "word": "有龙则零",
+      "onboard_time": 1750489100,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 243862,
@@ -555,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 235053,
+      "num": 381458,
+      "word": "常州有龙则零",
+      "onboard_time": 1750488980,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234809,
       "num": 192929,
       "word": "网红迪士尼健康堪忧",
@@ -563,8 +595,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 232973,
-      "num": 232973,
+      "raw_hot": 234086,
+      "num": 234086,
       "word": "唐僧都开始卖房了",
       "onboard_time": 1750484062,
       "rank": 32,
@@ -787,14 +819,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 174065,
-      "num": 174065,
-      "word": "邓超王祖蓝十年前十年后",
-      "onboard_time": 1750488381,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173802,
       "num": 173802,
       "word": "哈哈哈哈哈",
@@ -891,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 158606,
+      "num": 158606,
+      "word": "小米严禁以任何形式诋毁竞品",
+      "onboard_time": 1750488861,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 156536,
       "num": 199980,
       "word": "树莓转学",
@@ -899,20 +931,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 155605,
-      "num": 155605,
+      "raw_hot": 155870,
+      "num": 155870,
       "word": "为啥1个椰子十几元椰子水9.9",
       "onboard_time": 1750489160,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155198,
-      "num": 155198,
-      "word": "有龙则零",
-      "onboard_time": 1750489100,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 154879,
@@ -961,14 +985,6 @@
       "onboard_time": 1750478841,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 148976,
-      "num": 148976,
-      "word": "常州有龙则零",
-      "onboard_time": 1750488980,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 145091,
@@ -1043,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137047,
+      "num": 201874,
+      "word": "盘点和经纪人结婚的男明星",
+      "onboard_time": 1750487842,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136732,
       "num": 360509,
       "word": "乐在旅途第三季收官",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1750474881,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 131239,
+      "num": 131239,
+      "word": "陈梦说全运会很难打",
+      "onboard_time": 1750490480,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 131228,
@@ -1195,12 +1227,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125075,
+      "num": 125075,
+      "word": "七根心简能演的都演了",
+      "onboard_time": 1750490721,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124490,
+      "num": 124490,
+      "word": "以色列总理抱怨儿子婚礼推迟",
+      "onboard_time": 1750490061,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 124089,
+      "num": 124089,
+      "word": "以色列热转视频",
+      "onboard_time": 1750488921,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123872,
-      "num": 123872,
+      "num": 156691,
       "word": "郑平安下线",
       "onboard_time": 1750490300,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122935,
+      "num": 122935,
+      "word": "看黄晓明做饼突发饿疾",
+      "onboard_time": 1750490480,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 122756,
@@ -1251,20 +1315,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119301,
-      "num": 119301,
-      "word": "以色列热转视频",
-      "onboard_time": 1750488921,
-      "rank": 35,
-      "category": "海外新闻"
+      "raw_hot": 119323,
+      "num": 119323,
+      "word": "蔡依林新专辑pleasure",
+      "onboard_time": 1750491081,
+      "rank": 43,
+      "category": "音乐"
     },
     {
-      "raw_hot": 117585,
-      "num": 117585,
-      "word": "小米严禁以任何形式诋毁竞品",
-      "onboard_time": 1750488861,
+      "raw_hot": 118597,
+      "num": 118597,
+      "word": "张杰打卡福建厦门",
+      "onboard_time": 1750491263,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 117485,
+      "num": 117485,
+      "word": "尚公主",
+      "onboard_time": 1750488141,
       "rank": 36,
-      "category": "数码"
+      "category": "剧集"
     },
     {
       "raw_hot": 116703,
@@ -1273,6 +1345,14 @@
       "onboard_time": 1750477100,
       "rank": 43,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 116581,
+      "num": 141646,
+      "word": "这些不舒服其实是抑郁信号",
+      "onboard_time": 1750488262,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116229,
@@ -1411,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111260,
+      "num": 111260,
+      "word": "凤凰传奇演唱会",
+      "onboard_time": 1750491381,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 110865,
       "num": 230242,
       "word": "青岛大学毕业典礼",
@@ -1441,22 +1529,6 @@
       "onboard_time": 1750461378,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110484,
-      "num": 110484,
-      "word": "看黄晓明做饼突发饿疾",
-      "onboard_time": 1750490480,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 110353,
-      "num": 110353,
-      "word": "陈梦说全运会很难打",
-      "onboard_time": 1750490480,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 110081,
@@ -1499,22 +1571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108755,
-      "num": 108755,
-      "word": "盘点和经纪人结婚的男明星",
-      "onboard_time": 1750487842,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 108390,
-      "num": 108390,
-      "word": "尚公主",
-      "onboard_time": 1750488141,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108176,
       "num": 108176,
       "word": "26岁女生打三份工的月总收入",
@@ -1555,14 +1611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106094,
-      "num": 105770,
-      "word": "这些不舒服其实是抑郁信号",
-      "onboard_time": 1750488262,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 105850,
       "num": 105850,
       "word": "猫妈妈生着生着没墨了",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1750461316,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104711,
-      "num": 104711,
-      "word": "以色列总理抱怨儿子婚礼推迟",
-      "onboard_time": 1750490061,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103905,
@@ -1851,14 +1891,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 78895,
-      "num": 278458,
-      "word": "被骗40万女子说骗子会提供情绪价值",
-      "onboard_time": 1750489281,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78037,
       "num": 129109,
       "word": "16800元塑身衣穿3个月患上盆腔炎",
@@ -1947,6 +1979,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 63500,
+      "num": 168698,
+      "word": "伊朗大使形容特朗普是白日做梦",
+      "onboard_time": 1750491081,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60859,
       "num": 135985,
       "word": "美国GBU57型钻地弹仅次于核武器",
@@ -1956,7 +1996,7 @@
     },
     {
       "raw_hot": 60663,
-      "num": 119226,
+      "num": 377157,
       "word": "亲友回应湖南一医院前院长坠楼身亡",
       "onboard_time": 1750487481,
       "rank": 35,
@@ -2208,6 +2248,22 @@
       "word": "中国女篮32分再胜日本",
       "onboard_time": 1750456275,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19642,
+      "num": 125087,
+      "word": "保洁阿姨 搬运费",
+      "onboard_time": 1750491263,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19222,
+      "num": 366645,
+      "word": "苏超比赛让江苏人有了夜生活",
+      "onboard_time": 1750491141,
+      "rank": 19,
       "category": "体育"
     },
     {
