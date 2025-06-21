@@ -1,0 +1,410 @@
+{
+  "runTime": 1750476767827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1188984,
+        "num": 1190237,
+        "word": "爱尔兰一机构化粪池发现近800幼童遗骨",
+        "onboard_time": 1750474642,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 695216,
+        "num": 695216,
+        "word": "马嘉祺声乐老师发文",
+        "onboard_time": 1750465819,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38325,
+        "num": 632344,
+        "word": "中国饭碗里的科技范儿",
+        "onboard_time": 1750431744,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 571803,
+        "num": 571803,
+        "word": "聊斋",
+        "onboard_time": 1750473741,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 557469,
+        "num": 557469,
+        "word": "伊朗开出谈判条件",
+        "onboard_time": 1750472240,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1953765,
+        "num": 493349,
+        "word": "央视取消播出易建联专访",
+        "onboard_time": 1750472480,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421666,
+        "num": 421666,
+        "word": "幼态审美",
+        "onboard_time": 1750463720,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411776,
+        "num": 411776,
+        "word": "6月23日起高考查分",
+        "onboard_time": 1750475301,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274833,
+        "num": 274833,
+        "word": "今日10时42分夏至",
+        "onboard_time": 1750465760,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271003,
+        "num": 271003,
+        "word": "韩国4.5天工作制",
+        "onboard_time": 1750474160,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 360068,
+        "num": 258044,
+        "word": "黑马情侣分手",
+        "onboard_time": 1750435281,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 353653,
+        "num": 255395,
+        "word": "男子暴雨钓上72斤石斑鱼3000元卖出",
+        "onboard_time": 1750473981,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233037,
+        "num": 233037,
+        "word": "耳朵 汪苏泷",
+        "onboard_time": 1750467141,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225846,
+        "num": 225846,
+        "word": "原来这是林志炫准备应对袭榜的歌",
+        "onboard_time": 1750474282,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131540,
+        "num": 210704,
+        "word": "突然在支付宝卡包发现大额餐补",
+        "onboard_time": 1750474881,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207602,
+        "num": 207602,
+        "word": "夫妻俩APP上投200万后无法登录",
+        "onboard_time": 1750474941,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194566,
+        "num": 194566,
+        "word": "伊朗革命卫队声明",
+        "onboard_time": 1750467500,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188501,
+        "num": 194449,
+        "word": "姜妍沈月累到灵魂出窍",
+        "onboard_time": 1750472661,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179601,
+        "num": 194215,
+        "word": "闵玧其长文",
+        "onboard_time": 1750474582,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178755,
+        "num": 194160,
+        "word": "酱园弄展现弱女子如何完成新生",
+        "onboard_time": 1750474101,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 463207,
+        "num": 194008,
+        "word": "女生毕设被螨虫啃食心态崩了",
+        "onboard_time": 1750472240,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290280,
+        "num": 193762,
+        "word": "一年电费40万炫富网红被禁言",
+        "onboard_time": 1750463478,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267604,
+        "num": 193531,
+        "word": "月经3天干净和7天干净其实都好",
+        "onboard_time": 1750467982,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193494,
+        "num": 193494,
+        "word": "中国小猫被意外运到美国",
+        "onboard_time": 1750464139,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105911,
+        "num": 174165,
+        "word": "青岛大学毕业典礼",
+        "onboard_time": 1750474101,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 70509,
+        "num": 174145,
+        "word": "成功学大师诈骗超3亿一审被判无期",
+        "onboard_time": 1750474941,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174141,
+        "num": 174141,
+        "word": "在伊中国人发现酒店只有自己吃早餐",
+        "onboard_time": 1750468821,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165215,
+        "num": 165215,
+        "word": "夏至",
+        "onboard_time": 1750463539,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153297,
+        "num": 164902,
+        "word": "赵丽颖想去迪士尼见美美",
+        "onboard_time": 1750473800,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130470,
+        "num": 164827,
+        "word": "马嘉祺听到突围赛满脸抗拒",
+        "onboard_time": 1750468881,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164753,
+        "num": 164753,
+        "word": "加重体内湿气的不良习惯",
+        "onboard_time": 1750475301,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161256,
+        "num": 161256,
+        "word": "伊总统警告以色列",
+        "onboard_time": 1750475242,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157748,
+        "num": 157748,
+        "word": "35岁女生在字节跳动一天的花销",
+        "onboard_time": 1750463359,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134932,
+        "num": 134932,
+        "word": "猫和老鼠新动画电影定档",
+        "onboard_time": 1750475421,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126878,
+        "num": 126878,
+        "word": "白鹿是于正心目中最好的双月",
+        "onboard_time": 1750475900,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126748,
+        "num": 126748,
+        "word": "登陆少年新歌音源偷跑",
+        "onboard_time": 1750475602,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123656,
+        "num": 123656,
+        "word": "男子彩票守号9年中1800万元",
+        "onboard_time": 1750472661,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120969,
+        "num": 120969,
+        "word": "沈腾说范丞丞平时只鼓励娜扎",
+        "onboard_time": 1750472901,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60508,
+        "num": 114251,
+        "word": "小米悠悠",
+        "onboard_time": 1750474582,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112460,
+        "num": 112460,
+        "word": "以色列全境多个目标遭袭击",
+        "onboard_time": 1750461378,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110657,
+        "num": 110657,
+        "word": "被老师打碎头骨女孩母亲称遭死亡威胁",
+        "onboard_time": 1750475782,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109745,
+        "num": 109745,
+        "word": "公主抱 体重不限",
+        "onboard_time": 1750476322,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107675,
+        "num": 107675,
+        "word": "哈佛暂时可以继续接收国际学生",
+        "onboard_time": 1750473080,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104752,
+        "num": 104752,
+        "word": "跟着古人过一天夏至",
+        "onboard_time": 1750476501,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22753,
+        "num": 103159,
+        "word": "解读高考招生定向委培是什么",
+        "onboard_time": 1750476741,
+        "rank": 44,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 102853,
+        "num": 102853,
+        "word": "男子乳胶床垫用10年内部碎成粉末",
+        "onboard_time": 1750467982,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101445,
+        "num": 101445,
+        "word": "大学经常出门的人能量都很高",
+        "onboard_time": 1750474282,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97180,
+        "num": 97180,
+        "word": "咪的世界一直下牛奶",
+        "onboard_time": 1750476381,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96799,
+        "num": 96799,
+        "word": "TOP新歌",
+        "onboard_time": 1750465880,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96339,
+        "num": 96339,
+        "word": "易烊千玺听到演唱会的表情",
+        "onboard_time": 1750469421,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席中亚之行高光时刻#"
+    }
+  }
+}

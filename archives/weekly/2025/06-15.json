@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750475958638,
+  "endTime": 1750476767827,
   "band_list": [
     {
       "raw_hot": 11497825,
@@ -713,6 +713,14 @@
       "onboard_time": 1749949760,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1188984,
+      "num": 1190237,
+      "word": "爱尔兰一机构化粪池发现近800幼童遗骨",
+      "onboard_time": 1750474642,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1172906,
@@ -2275,14 +2283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 651509,
-      "num": 651509,
-      "word": "爱尔兰一机构化粪池发现近800幼童遗骨",
-      "onboard_time": 1750474642,
-      "rank": 1,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 649176,
       "num": 436115,
       "word": "能不能不要往衣服上印minmin",
@@ -2699,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571803,
+      "num": 571803,
+      "word": "聊斋",
+      "onboard_time": 1750473741,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 568694,
       "num": 332631,
       "word": "伊朗9名核科学家睡觉时被暗杀",
@@ -2777,14 +2785,6 @@
       "onboard_time": 1750377141,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 557245,
-      "num": 557245,
-      "word": "聊斋",
-      "onboard_time": 1750473741,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 557045,
@@ -3955,6 +3955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411776,
+      "num": 411776,
+      "word": "6月23日起高考查分",
+      "onboard_time": 1750475301,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 411756,
       "num": 411756,
       "word": "以色列国家安全观已发生转变",
@@ -4593,6 +4601,14 @@
       "onboard_time": 1750124241,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 353653,
+      "num": 255395,
+      "word": "男子暴雨钓上72斤石斑鱼3000元卖出",
+      "onboard_time": 1750473981,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352385,
@@ -5667,14 +5683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 288689,
-      "num": 241501,
-      "word": "男子暴雨钓上72斤石斑鱼3000元卖出",
-      "onboard_time": 1750473981,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288187,
       "num": 897622,
       "word": "8项重磅金融政策发布",
@@ -6097,6 +6105,14 @@
       "onboard_time": 1750212200,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 271003,
+      "num": 271003,
+      "word": "韩国4.5天工作制",
+      "onboard_time": 1750474160,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 269591,
@@ -6595,14 +6611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252065,
-      "num": 252065,
-      "word": "6月23日起高考查分",
-      "onboard_time": 1750475301,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 251883,
       "num": 427294,
       "word": "张继科杯全民乒乓球争霸赛来了",
@@ -6924,7 +6932,7 @@
     },
     {
       "raw_hot": 238557,
-      "num": 189816,
+      "num": 225846,
       "word": "原来这是林志炫准备应对袭榜的歌",
       "onboard_time": 1750474282,
       "rank": 30,
@@ -7233,14 +7241,6 @@
       "onboard_time": 1750085482,
       "rank": 26,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 230219,
-      "num": 230219,
-      "word": "韩国4.5天工作制",
-      "onboard_time": 1750474160,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 229928,
@@ -8009,6 +8009,14 @@
       "onboard_time": 1749961941,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207602,
+      "num": 238572,
+      "word": "夫妻俩APP上投200万后无法登录",
+      "onboard_time": 1750474941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207446,
@@ -9291,6 +9299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188501,
+      "num": 239616,
+      "word": "姜妍沈月累到灵魂出窍",
+      "onboard_time": 1750472661,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188428,
       "num": 188428,
       "word": "诡秘之主全球同步定档",
@@ -9633,14 +9649,6 @@
       "onboard_time": 1749963560,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184232,
-      "num": 239616,
-      "word": "姜妍沈月累到灵魂出窍",
-      "onboard_time": 1750472661,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 184176,
@@ -11411,6 +11419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161256,
+      "num": 161256,
+      "word": "伊总统警告以色列",
+      "onboard_time": 1750475242,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161161,
       "num": 161161,
       "word": "邓紫棋发文再谈六年版权纠纷",
@@ -11961,6 +11977,14 @@
       "onboard_time": 1749976282,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153297,
+      "num": 197667,
+      "word": "赵丽颖想去迪士尼见美美",
+      "onboard_time": 1750473800,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 153258,
@@ -12875,14 +12899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143401,
-      "num": 197667,
-      "word": "赵丽颖想去迪士尼见美美",
-      "onboard_time": 1750473800,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143256,
       "num": 143256,
       "word": "TES或签约新辅助",
@@ -13113,14 +13129,6 @@
       "onboard_time": 1749976521,
       "rank": 42,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 139974,
-      "num": 139974,
-      "word": "伊总统警告以色列",
-      "onboard_time": 1750475242,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139799,
@@ -13947,6 +13955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131540,
+      "num": 240209,
+      "word": "突然在支付宝卡包发现大额餐补",
+      "onboard_time": 1750474881,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 131535,
       "num": 131535,
       "word": "裸辞和在职找工作的区别",
@@ -14515,6 +14531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126878,
+      "num": 126878,
+      "word": "白鹿是于正心目中最好的双月",
+      "onboard_time": 1750475900,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126812,
       "num": 126812,
       "word": "Theboyz全员取关周鹤年",
@@ -14537,6 +14561,14 @@
       "onboard_time": 1749978741,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126748,
+      "num": 126748,
+      "word": "登陆少年新歌音源偷跑",
+      "onboard_time": 1750475602,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 126737,
@@ -15395,14 +15427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120026,
-      "num": 240209,
-      "word": "突然在支付宝卡包发现大额餐补",
-      "onboard_time": 1750474881,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 119974,
       "num": 111921,
       "word": "罗永浩说国足可以学学苏超",
@@ -16139,14 +16163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113852,
-      "num": 113852,
-      "word": "登陆少年新歌音源偷跑",
-      "onboard_time": 1750475602,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 113810,
       "num": 113810,
       "word": "泡泡玛特",
@@ -16169,14 +16185,6 @@
       "onboard_time": 1750473800,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113370,
-      "num": 238572,
-      "word": "夫妻俩APP上投200万后无法登录",
-      "onboard_time": 1750474941,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113361,
@@ -16515,6 +16523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110657,
+      "num": 110657,
+      "word": "被老师打碎头骨女孩母亲称遭死亡威胁",
+      "onboard_time": 1750475782,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110611,
       "num": 279781,
       "word": "杨迪lakuku裤子",
@@ -16641,6 +16657,14 @@
       "onboard_time": 1749913823,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109745,
+      "num": 109745,
+      "word": "公主抱 体重不限",
+      "onboard_time": 1750476322,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 109736,
@@ -16835,6 +16859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107675,
+      "num": 107675,
+      "word": "哈佛暂时可以继续接收国际学生",
+      "onboard_time": 1750473080,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107624,
       "num": 257843,
       "word": "有人通过3D打印labubu模型赚十多万",
@@ -17027,6 +17059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104752,
+      "num": 104752,
+      "word": "跟着古人过一天夏至",
+      "onboard_time": 1750476501,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104743,
       "num": 66856,
       "word": "别为难沈梦辰了",
@@ -17211,6 +17251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101445,
+      "num": 101445,
+      "word": "大学经常出门的人能量都很高",
+      "onboard_time": 1750474282,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 101254,
       "num": 299332,
       "word": "整治违规吃喝层层加码是甩锅",
@@ -17329,14 +17377,6 @@
       "onboard_time": 1749952821,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99856,
-      "num": 99856,
-      "word": "白鹿是于正心目中最好的双月",
-      "onboard_time": 1750475900,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 99654,
@@ -17499,20 +17539,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 97180,
+      "num": 97180,
+      "word": "咪的世界一直下牛奶",
+      "onboard_time": 1750476381,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97005,
       "num": 254111,
       "word": "华为发布全新鸿蒙智能体",
       "onboard_time": 1750412060,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 96925,
-      "num": 96925,
-      "word": "被老师打碎头骨女孩母亲称遭死亡威胁",
-      "onboard_time": 1750475782,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96827,
@@ -17640,14 +17680,6 @@
       "word": "Labubu的风吹到了俄罗斯政坛",
       "onboard_time": 1750328541,
       "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 95256,
-      "num": 95256,
-      "word": "哈佛暂时可以继续接收国际学生",
-      "onboard_time": 1750473080,
-      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -18843,6 +18875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70509,
+      "num": 240718,
+      "word": "成功学大师诈骗超3亿一审被判无期",
+      "onboard_time": 1750474941,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70498,
       "num": 70498,
       "word": "纯素颜Labubu",
@@ -19425,6 +19465,14 @@
       "onboard_time": 1750255703,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 60508,
+      "num": 116420,
+      "word": "小米悠悠",
+      "onboard_time": 1750474582,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60129,
@@ -20171,14 +20219,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 48578,
-      "num": 240718,
-      "word": "成功学大师诈骗超3亿一审被判无期",
-      "onboard_time": 1750474941,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48377,
       "num": 48377,
       "word": "为什么边牧弃养率高",
@@ -20857,14 +20897,6 @@
       "onboard_time": 1750047082,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 38210,
-      "num": 116420,
-      "word": "小米悠悠",
-      "onboard_time": 1750474582,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38202,
@@ -22209,6 +22241,14 @@
       "onboard_time": 1750403841,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22753,
+      "num": 103159,
+      "word": "解读高考招生定向委培是什么",
+      "onboard_time": 1750476741,
+      "rank": 44,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 22722,
