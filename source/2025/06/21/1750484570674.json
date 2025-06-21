@@ -1,0 +1,410 @@
+{
+  "runTime": 1750484570674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1687931,
+        "num": 1687931,
+        "word": "千万不要买绿色的防晒衣",
+        "onboard_time": 1750480880,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1036435,
+        "num": 1036435,
+        "word": "爱尔兰化粪池现近800幼童遗骨",
+        "onboard_time": 1750474642,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31675,
+        "num": 873970,
+        "word": "文化中国行迎夏至",
+        "onboard_time": 1750478302,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 746469,
+        "num": 746469,
+        "word": "长期不吃主食1年后身体的变化",
+        "onboard_time": 1750477700,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 656029,
+        "num": 656029,
+        "word": "赵丽颖章子怡杨幂酱园弄海报",
+        "onboard_time": 1750477282,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 718009,
+        "num": 624116,
+        "word": "央视取消播出易建联专访",
+        "onboard_time": 1750472480,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479772,
+        "num": 479772,
+        "word": "中餐厅收视率第一",
+        "onboard_time": 1750476801,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317218,
+        "num": 317218,
+        "word": "泡泡特玛",
+        "onboard_time": 1750477581,
+        "rank": 7,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 292463,
+        "num": 292463,
+        "word": "伊朗开出谈判条件",
+        "onboard_time": 1750472240,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72269,
+        "num": 288748,
+        "word": "苏超宿迁vs盐城",
+        "onboard_time": 1750482382,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1250701,
+        "num": 285238,
+        "word": "印度少女遭14人强奸两年现怀孕8月",
+        "onboard_time": 1750484301,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 722634,
+        "num": 282545,
+        "word": "迪丽热巴天津",
+        "onboard_time": 1750481060,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623762,
+        "num": 278702,
+        "word": "重度抑郁躯体化的真实表现",
+        "onboard_time": 1750477221,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 426301,
+        "num": 272044,
+        "word": "iPhone检测针孔摄像头方法",
+        "onboard_time": 1750482802,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 393985,
+        "num": 269302,
+        "word": "霍震霆曝儿子霍启仁已结婚",
+        "onboard_time": 1750484002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266475,
+        "num": 266475,
+        "word": "马嘉祺声乐老师发文",
+        "onboard_time": 1750465819,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240772,
+        "num": 240772,
+        "word": "被老师打碎头骨女孩母亲称遭死亡威胁",
+        "onboard_time": 1750475782,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227685,
+        "num": 227685,
+        "word": "黑马情侣分手",
+        "onboard_time": 1750435281,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193398,
+        "num": 193398,
+        "word": "还珠格格小时候看不懂的细节",
+        "onboard_time": 1750479620,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174753,
+        "num": 174753,
+        "word": "章子怡雷佳音C位海报",
+        "onboard_time": 1750482321,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220188,
+        "num": 174305,
+        "word": "女生毕设被螨虫啃食心态崩了",
+        "onboard_time": 1750472240,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173802,
+        "num": 173802,
+        "word": "哈哈哈哈哈",
+        "onboard_time": 1750483341,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170724,
+        "num": 170724,
+        "word": "外交部回应留英博士被判终身监禁",
+        "onboard_time": 1750483521,
+        "rank": 22,
+        "category": "海外新闻,国内时政"
+      },
+      {
+        "raw_hot": 162850,
+        "num": 162850,
+        "word": "6月23日起高考查分",
+        "onboard_time": 1750475301,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159385,
+        "num": 159385,
+        "word": "于正与曾舜晞合作了三部戏",
+        "onboard_time": 1750483700,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154889,
+        "num": 154889,
+        "word": "月经3天干净和7天干净其实都好",
+        "onboard_time": 1750467982,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154879,
+        "num": 154879,
+        "word": "食品发放点遭袭11名加沙儿童死亡",
+        "onboard_time": 1750482502,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154409,
+        "num": 154409,
+        "word": "百万粉丝网红女儿被曝骂老师",
+        "onboard_time": 1750484422,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144297,
+        "num": 144297,
+        "word": "一年电费40万炫富网红被禁言",
+        "onboard_time": 1750463478,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101098,
+        "num": 138782,
+        "word": "福娃去了王力宏北京演唱会",
+        "onboard_time": 1750482681,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196804,
+        "num": 137759,
+        "word": "原来小说里富家子弟一个班是真的",
+        "onboard_time": 1750483101,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144455,
+        "num": 136497,
+        "word": "包浆labubu",
+        "onboard_time": 1750482921,
+        "rank": 31,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 134374,
+        "num": 134374,
+        "word": "唐僧都开始卖房了",
+        "onboard_time": 1750484062,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132334,
+        "num": 132334,
+        "word": "姜妍美得像一幅油画",
+        "onboard_time": 1750480521,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130003,
+        "num": 130003,
+        "word": "今日10时42分夏至",
+        "onboard_time": 1750465760,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129189,
+        "num": 129189,
+        "word": "7名骑士高速路飙车其中1人还是宝妈",
+        "onboard_time": 1750482081,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 128671,
+        "num": 128671,
+        "word": "关晓彤李昀锐耀眼夏至视频",
+        "onboard_time": 1750480880,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126386,
+        "num": 126386,
+        "word": "现烤面包 预制菜",
+        "onboard_time": 1750479978,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96946,
+        "num": 120313,
+        "word": "以色列警官从废墟中救出一只狗",
+        "onboard_time": 1750481060,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73461,
+        "num": 115769,
+        "word": "麦迪说给我个奥尼尔也能夺冠",
+        "onboard_time": 1750483761,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114270,
+        "num": 114270,
+        "word": "重庆通报出租车司机因口角撞伤人",
+        "onboard_time": 1750482141,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112420,
+        "num": 112420,
+        "word": "51岁知名相声演员吴迪离世",
+        "onboard_time": 1750482321,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109813,
+        "num": 109813,
+        "word": "寿司郎",
+        "onboard_time": 1750483222,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108541,
+        "num": 108541,
+        "word": "美媒称与伊朗冲突每天耗费以色列数亿美元",
+        "onboard_time": 1750477282,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108058,
+        "num": 108058,
+        "word": "谭晶说马嘉祺云与海完成度很好",
+        "onboard_time": 1750484242,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103310,
+        "num": 103310,
+        "word": "伊总统警告以色列",
+        "onboard_time": 1750475242,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102530,
+        "num": 102530,
+        "word": "男子暴雨钓上72斤石斑鱼3000元卖出",
+        "onboard_time": 1750473981,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96052,
+        "num": 96052,
+        "word": "青岛大学毕业典礼再现神级现场",
+        "onboard_time": 1750484242,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94164,
+        "num": 94164,
+        "word": "十个勤天直播",
+        "onboard_time": 1750480280,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94130,
+        "num": 94130,
+        "word": "伊朗革命卫队声明",
+        "onboard_time": 1750467500,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平针对中东局势提出四点主张#"
+    }
+  }
+}
