@@ -1,10 +1,10 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750478404670,
+  "endTime": 1750480293335,
   "band_list": [
     {
       "raw_hot": 1988631,
-      "num": 509249,
+      "num": 712778,
       "word": "央视取消播出易建联专访",
       "onboard_time": 1750472480,
       "rank": 30,
@@ -35,6 +35,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1127288,
+      "num": 318392,
+      "word": "重度抑郁躯体化的真实表现",
+      "onboard_time": 1750477221,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1090744,
       "num": 312541,
       "word": "黑马情侣分手",
@@ -59,14 +67,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 947692,
-      "num": 313330,
-      "word": "重度抑郁躯体化的真实表现",
-      "onboard_time": 1750477221,
-      "rank": 11,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 881868,
       "num": 881868,
       "word": "幼态审美",
@@ -83,20 +83,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 740795,
+      "num": 740795,
+      "word": "中餐厅收视率第一",
+      "onboard_time": 1750476801,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 732056,
+      "num": 732056,
+      "word": "长期不吃主食1年后身体的变化",
+      "onboard_time": 1750477700,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 672887,
       "num": 162001,
       "word": "赵丽颖的朋友圈又更新了",
       "onboard_time": 1750461497,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 648151,
-      "num": 648151,
-      "word": "中餐厅收视率第一",
-      "onboard_time": 1750476801,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 637426,
@@ -161,6 +169,14 @@
       "onboard_time": 1750434562,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 490468,
+      "num": 490468,
+      "word": "泡泡特玛",
+      "onboard_time": 1750477581,
+      "rank": 12,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 476908,
@@ -307,20 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 284395,
-      "num": 284395,
-      "word": "泡泡特玛",
-      "onboard_time": 1750477581,
-      "rank": 12,
+      "raw_hot": 277328,
+      "num": 221875,
+      "word": "水哥王昱珩送labubu",
+      "onboard_time": 1750480100,
+      "rank": 20,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 279710,
-      "num": 164852,
-      "word": "长期不吃主食1年后身体的变化",
-      "onboard_time": 1750477700,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 272700,
@@ -347,12 +355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260575,
+      "num": 260575,
+      "word": "伊总统警告以色列",
+      "onboard_time": 1750475242,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 259382,
       "num": 162807,
       "word": "千万别买到青岛西",
       "onboard_time": 1750421361,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250428,
+      "num": 278484,
+      "word": "被老师打碎头骨女孩母亲称遭死亡威胁",
+      "onboard_time": 1750475782,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243862,
@@ -411,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 226984,
+      "num": 226984,
+      "word": "BW2025抢票",
+      "onboard_time": 1750479500,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225515,
       "num": 225515,
       "word": "47岁网红主播天宇因心梗去世",
@@ -425,6 +457,14 @@
       "onboard_time": 1750463539,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210121,
+      "num": 210121,
+      "word": "还珠格格小时候看不懂的细节",
+      "onboard_time": 1750479620,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 207937,
@@ -451,14 +491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 203236,
-      "num": 203236,
-      "word": "伊总统警告以色列",
-      "onboard_time": 1750475242,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 200345,
       "num": 200345,
       "word": "再一次对印度人的聪明有了实感",
@@ -481,6 +513,14 @@
       "onboard_time": 1750432824,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195768,
+      "num": 287473,
+      "word": "普京表示俄中并未构建新世界秩序",
+      "onboard_time": 1750477282,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 195559,
@@ -539,6 +579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 183207,
+      "num": 183207,
+      "word": "夏至吃面",
+      "onboard_time": 1750479620,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 179947,
       "num": 238751,
       "word": "马嘉祺听到突围赛满脸抗拒",
@@ -563,11 +611,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174438,
+      "num": 202257,
+      "word": "余承东给开发者体验Pura80",
+      "onboard_time": 1750478722,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 170716,
       "num": 170716,
       "word": "伊朗与英法德在日内瓦密谈3小时",
       "onboard_time": 1750470921,
       "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 165278,
+      "num": 208298,
+      "word": "美媒称与伊朗冲突每天耗费以色列数亿美元",
+      "onboard_time": 1750477282,
+      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -595,22 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161983,
-      "num": 161983,
-      "word": "普京表示俄中并未构建新世界秩序",
-      "onboard_time": 1750477282,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 160105,
-      "num": 160105,
-      "word": "美媒称与伊朗冲突每天耗费以色列数亿美元",
-      "onboard_time": 1750477282,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 158818,
       "num": 198606,
       "word": "中星9C卫星发射任务获得圆满成功",
@@ -635,12 +683,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154060,
+      "num": 159260,
+      "word": "路人镜头下的陈乔恩",
+      "onboard_time": 1750479862,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153297,
       "num": 197667,
       "word": "赵丽颖想去迪士尼见美美",
       "onboard_time": 1750473800,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151681,
+      "num": 151681,
+      "word": "河北中考语文",
+      "onboard_time": 1750478841,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 144577,
@@ -665,6 +729,14 @@
       "onboard_time": 1750436541,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141369,
+      "num": 193278,
+      "word": "能让丁程鑫撒娇的只有马嘉祺",
+      "onboard_time": 1750478722,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 141185,
@@ -697,6 +769,14 @@
       "onboard_time": 1750472661,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136497,
+      "num": 136497,
+      "word": "詹姆斯质疑戒指文化合理吗",
+      "onboard_time": 1750478361,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 134437,
@@ -779,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123323,
+      "num": 206308,
+      "word": "影人共贺中国电影120周年",
+      "onboard_time": 1750480100,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122756,
       "num": 200355,
       "word": "陈哲远假发都被泼掉了",
@@ -843,14 +931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114519,
-      "num": 114519,
-      "word": "詹姆斯质疑戒指文化合理吗",
-      "onboard_time": 1750478361,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113514,
       "num": 140799,
       "word": "檀健次白玉兰官宣",
@@ -876,7 +956,7 @@
     },
     {
       "raw_hot": 112877,
-      "num": 112877,
+      "num": 224165,
       "word": "妈妈砸数万拆卡被7岁儿子拽出谷店",
       "onboard_time": 1750475482,
       "rank": 40,
@@ -915,12 +995,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 110657,
-      "num": 110657,
-      "word": "被老师打碎头骨女孩母亲称遭死亡威胁",
-      "onboard_time": 1750475782,
+      "raw_hot": 110660,
+      "num": 110660,
+      "word": "如鸢",
+      "onboard_time": 1750480161,
       "rank": 46,
-      "category": "民生新闻"
+      "category": "游戏"
     },
     {
       "raw_hot": 110510,
@@ -932,7 +1012,7 @@
     },
     {
       "raw_hot": 110081,
-      "num": 166146,
+      "num": 195460,
       "word": "易烊千玺听到演唱会的表情",
       "onboard_time": 1750469421,
       "rank": 34,
@@ -953,6 +1033,14 @@
       "onboard_time": 1750437200,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109350,
+      "num": 109350,
+      "word": "曾舜晞roomtour",
+      "onboard_time": 1750480221,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 108176,
@@ -1371,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35609,
+      "num": 828601,
+      "word": "文化中国行迎夏至",
+      "onboard_time": 1750478302,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29781,
       "num": 29411,
       "word": "豆包p图指令",
@@ -1417,14 +1513,6 @@
       "onboard_time": 1750452134,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 6913,
-      "num": 724754,
-      "word": "文化中国行迎夏至",
-      "onboard_time": 1750478302,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
