@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750519519114,
+  "endTime": 1750520389425,
   "band_list": [
     {
       "raw_hot": 11581099,
@@ -187,19 +187,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 951513,
+      "num": 676131,
+      "word": "韩红痛斥歌手耳机里都是提示音",
+      "onboard_time": 1750515085,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 946175,
       "num": 946175,
       "word": "徐艺洋刷到李雪琴照片以为是自己",
       "onboard_time": 1750502542,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 907959,
-      "num": 494462,
-      "word": "韩红痛斥歌手耳机里都是提示音",
-      "onboard_time": 1750515085,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 733542,
+      "num": 486207,
+      "word": "跳楼机好不容易升咖又打回原形了",
+      "onboard_time": 1750516047,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 730100,
       "num": 730100,
       "word": "万婴墓",
@@ -291,20 +299,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 700969,
+      "num": 700969,
+      "word": "那尔那茜委培协议要求毕业回内蒙",
+      "onboard_time": 1750517485,
+      "rank": 4,
+      "category": "辟谣/通报,艺人"
+    },
+    {
       "raw_hot": 693840,
       "num": 693840,
       "word": "唐国强称在闲鱼收时团小卡认人",
       "onboard_time": 1750491681,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 688244,
-      "num": 688244,
-      "word": "那尔那茜委培协议要求毕业回内蒙",
-      "onboard_time": 1750517485,
-      "rank": 4,
-      "category": "辟谣/通报,艺人"
     },
     {
       "raw_hot": 685305,
@@ -355,20 +363,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 601375,
-      "num": 451490,
-      "word": "跳楼机好不容易升咖又打回原形了",
-      "onboard_time": 1750516047,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 599829,
       "num": 599829,
       "word": "mlxg被执行2500万",
       "onboard_time": 1750502301,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 592340,
+      "num": 399996,
+      "word": "镖人",
+      "onboard_time": 1750516827,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 587109,
@@ -459,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 500083,
-      "num": 256685,
-      "word": "镖人",
-      "onboard_time": 1750516827,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 498468,
       "num": 498468,
       "word": "台网红吸大麻被抓甩锅大陆警方",
@@ -520,6 +520,14 @@
       "word": "湖南一幼儿园多名儿童遭老师打耳光",
       "onboard_time": 1750495881,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 478292,
+      "num": 478292,
+      "word": "上戏内蒙古委培班2021年终止招生",
+      "onboard_time": 1750515987,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -619,20 +627,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 421660,
-      "num": 421660,
-      "word": "上戏内蒙古委培班2021年终止招生",
-      "onboard_time": 1750515987,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 421544,
       "num": 421544,
       "word": "中国小猫被意外运到美国",
       "onboard_time": 1750464139,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417648,
+      "num": 253500,
+      "word": "逆袭",
+      "onboard_time": 1750515866,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 415100,
@@ -681,14 +689,6 @@
       "onboard_time": 1750467141,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 383688,
-      "num": 253500,
-      "word": "逆袭",
-      "onboard_time": 1750515866,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 383578,
@@ -915,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295914,
+      "num": 209338,
+      "word": "张杰女儿睡前信息",
+      "onboard_time": 1750519285,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295632,
       "num": 295632,
       "word": "经期真正不能做的10件事",
@@ -1004,7 +1012,7 @@
     },
     {
       "raw_hot": 265657,
-      "num": 265657,
+      "num": 391225,
       "word": "浙江并蒂莲和同心莲同框绽放",
       "onboard_time": 1750518383,
       "rank": 17,
@@ -1187,12 +1195,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229042,
+      "num": 197872,
+      "word": "万茜拿了影后输了钱",
+      "onboard_time": 1750519824,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227487,
       "num": 227487,
       "word": "以色列全境响防空警报",
       "onboard_time": 1750425263,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 227274,
+      "num": 197175,
+      "word": "张本点赞",
+      "onboard_time": 1750519763,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 226984,
@@ -1331,14 +1355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209338,
-      "num": 209338,
-      "word": "张杰女儿睡前信息",
-      "onboard_time": 1750519285,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208868,
       "num": 208868,
       "word": "郭晓婷聊斋的本子全部吻上来",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1750474941,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207598,
+      "num": 194474,
+      "word": "李晟李佳航真夫妻就是好嗑",
+      "onboard_time": 1750519524,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 206854,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1750474101,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194361,
+      "num": 194361,
+      "word": "宋雨琦叶舒华中文加密小抄",
+      "onboard_time": 1750519644,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 193480,
@@ -1667,6 +1699,22 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 185210,
+      "num": 185210,
+      "word": "身价139亿美元富豪捐精生超百名子女",
+      "onboard_time": 1750519703,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184344,
+      "num": 195299,
+      "word": "朱志鑫是真听进去了",
+      "onboard_time": 1750519584,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183207,
       "num": 183207,
       "word": "夏至吃面",
@@ -1784,6 +1832,14 @@
       "word": "哈哈哈哈哈",
       "onboard_time": 1750483341,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173034,
+      "num": 160296,
+      "word": "薛之谦罗小黑你有这种好货不给我",
+      "onboard_time": 1750519884,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1937,6 +1993,14 @@
       "onboard_time": 1750507943,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162371,
+      "num": 162371,
+      "word": "那尔那茜未在呼和浩特八中就读",
+      "onboard_time": 1750517785,
+      "rank": 42,
+      "category": "辟谣/通报,艺人"
     },
     {
       "raw_hot": 160490,
@@ -2307,20 +2371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138798,
-      "num": 138798,
-      "word": "那尔那茜未在呼和浩特八中就读",
-      "onboard_time": 1750517785,
-      "rank": 42,
-      "category": "辟谣/通报,艺人"
-    },
-    {
       "raw_hot": 138529,
       "num": 138529,
       "word": "犹太人把自己打扮成二战最大受害者",
       "onboard_time": 1750501640,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 137998,
+      "num": 137998,
+      "word": "王欣瑜首进巡回赛单打决赛",
+      "onboard_time": 1750519524,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 137824,
@@ -2755,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120329,
+      "num": 120329,
+      "word": "川西必须去一次",
+      "onboard_time": 1750519944,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 120063,
       "num": 120063,
       "word": "只有师范生才懂她有多强",
@@ -2873,6 +2945,14 @@
       "onboard_time": 1750482141,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113709,
+      "num": 113709,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1750517545,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 113547,
@@ -3953,6 +4033,14 @@
       "onboard_time": 1750489340,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25415,
+      "num": 200208,
+      "word": "秒空的医院专家号去哪了",
+      "onboard_time": 1750520004,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25203,
