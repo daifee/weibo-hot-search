@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750534588749,
+  "endTime": 1750537601199,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -75819,6 +75819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20411,
+      "num": 20411,
+      "word": "我驻以色列使馆已组织约400人撤离",
+      "onboard_time": 1750534815,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20407,
       "num": 45446,
       "word": "纽约或有更大规模示威",
@@ -76377,6 +76385,14 @@
       "onboard_time": 1749932054,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 18518,
+      "num": 19331,
+      "word": "陈立农青春为名全球巡回演唱会",
+      "onboard_time": 1750536674,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 18321,
@@ -78065,6 +78081,14 @@
       "onboard_time": 1748808313,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11435,
+      "num": 60565,
+      "word": "中东局势是否要走向失控",
+      "onboard_time": 1750536795,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11414,
