@@ -1,6 +1,6 @@
 {
   "startTime": 1750523438764,
-  "endTime": 1750523438764,
+  "endTime": 1750524471026,
   "band_list": [
     {
       "raw_hot": 6062877,
@@ -11,20 +11,20 @@
       "category": "艺人,辟谣/通报"
     },
     {
+      "raw_hot": 781349,
+      "num": 410990,
+      "word": "孟子义李昀锐合作的第3部剧",
+      "onboard_time": 1750521864,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 663851,
       "num": 561127,
       "word": "韩红痛斥歌手耳机里都是提示音",
       "onboard_time": 1750515085,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 569402,
-      "num": 404263,
-      "word": "孟子义李昀锐合作的第3部剧",
-      "onboard_time": 1750521864,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 565430,
@@ -99,28 +99,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396946,
-      "num": 396946,
+      "raw_hot": 397465,
+      "num": 397465,
       "word": "美媒曝哈梅内伊正藏身地堡避险",
       "onboard_time": 1750521682,
       "rank": 8,
       "category": "国际时政"
     },
     {
-      "raw_hot": 354193,
-      "num": 226369,
-      "word": "那尔那茜高考文化课总成绩449分",
-      "onboard_time": 1750516526,
-      "rank": 20,
-      "category": "艺人,辟谣/通报"
-    },
-    {
-      "raw_hot": 353511,
-      "num": 353511,
+      "raw_hot": 372229,
+      "num": 372229,
       "word": "巴西热气球坠落8人死亡",
       "onboard_time": 1750521682,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 354193,
+      "num": 233811,
+      "word": "那尔那茜高考文化课总成绩449分",
+      "onboard_time": 1750516526,
+      "rank": 20,
+      "category": "艺人,辟谣/通报"
     },
     {
       "raw_hot": 321071,
@@ -139,12 +139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302584,
+      "num": 371687,
+      "word": "中国冥币在海外杀疯老外烧个不停",
+      "onboard_time": 1750522222,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294825,
       "num": 218806,
       "word": "昀牵孟绕",
       "onboard_time": 1750510103,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280330,
+      "num": 280330,
+      "word": "男方资助女子近65万留学分手后索回",
+      "onboard_time": 1750522582,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251766,
@@ -161,6 +177,14 @@
       "onboard_time": 1750512143,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224623,
+      "num": 262408,
+      "word": "朱志鑫苏新皓家属感好重",
+      "onboard_time": 1750523062,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 215995,
@@ -187,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192409,
-      "num": 192409,
-      "word": "中国冥币在海外杀疯老外烧个不停",
-      "onboard_time": 1750522222,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182144,
       "num": 182144,
       "word": "陶喆唱完找自己雨越下越大",
@@ -203,20 +219,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 180055,
-      "num": 180055,
-      "word": "男方资助女子近65万留学分手后索回",
-      "onboard_time": 1750522582,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174259,
       "num": 361731,
       "word": "女子货车内休息被冲走失联超2天",
       "onboard_time": 1750521682,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169441,
+      "num": 393258,
+      "word": "以军公布伊斯法罕核设施遇袭后画面",
+      "onboard_time": 1750521682,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164738,
@@ -241,14 +257,6 @@
       "onboard_time": 1750515746,
       "rank": 34,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 151032,
-      "num": 393258,
-      "word": "以军公布伊斯法罕核设施遇袭后画面",
-      "onboard_time": 1750521682,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 150577,
@@ -307,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127040,
+      "num": 224125,
+      "word": "鹭卓赵一博卓沅同时直播",
+      "onboard_time": 1750521322,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125203,
       "num": 125203,
       "word": "王力宏张靓颖声带开挂",
@@ -331,16 +347,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116217,
-      "num": 116217,
-      "word": "朱志鑫苏新皓家属感好重",
-      "onboard_time": 1750523062,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 111512,
-      "num": 111512,
+      "raw_hot": 114366,
+      "num": 114366,
       "word": "常州队全员业余球员硬刚苏超",
       "onboard_time": 1750521143,
       "rank": 46,
@@ -355,12 +363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94357,
+      "num": 94357,
+      "word": "李沐宸因家庭变故至今还在还债",
+      "onboard_time": 1750504341,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93422,
       "num": 93422,
       "word": "3个方法教你学会转念",
       "onboard_time": 1750521203,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93040,
+      "num": 93040,
+      "word": "苏超至今没有一场0比0",
+      "onboard_time": 1750520844,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 91036,
@@ -371,12 +395,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 78690,
-      "num": 224125,
-      "word": "鹭卓赵一博卓沅同时直播",
-      "onboard_time": 1750521322,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 86048,
+      "num": 86048,
+      "word": "柯淳杨肸子车窗吻",
+      "onboard_time": 1750512623,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 52509,
@@ -385,6 +409,14 @@
       "onboard_time": 1750521682,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40088,
+      "num": 365119,
+      "word": "加沙1个洋葱100元",
+      "onboard_time": 1750523541,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 36850,
