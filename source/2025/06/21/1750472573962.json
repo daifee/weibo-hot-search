@@ -1,0 +1,410 @@
+{
+  "runTime": 1750472573962,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 900527,
+        "num": 1144084,
+        "word": "马嘉祺声乐老师发文",
+        "onboard_time": 1750465819,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 804507,
+        "num": 804507,
+        "word": "幼态审美",
+        "onboard_time": 1750463720,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46885,
+        "num": 546398,
+        "word": "中国饭碗里的科技范儿",
+        "onboard_time": 1750431744,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 525892,
+        "num": 525892,
+        "word": "伊朗革命卫队声明",
+        "onboard_time": 1750467500,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382493,
+        "num": 382493,
+        "word": "35岁女生在字节跳动一天的花销",
+        "onboard_time": 1750463359,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306484,
+        "num": 357221,
+        "word": "今日10时42分夏至",
+        "onboard_time": 1750465760,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348385,
+        "num": 348385,
+        "word": "伊朗开出谈判条件",
+        "onboard_time": 1750472240,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292271,
+        "num": 343909,
+        "word": "中国小猫被意外运到美国",
+        "onboard_time": 1750464139,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269725,
+        "num": 341457,
+        "word": "小沈阳女儿回应韩国出道争议",
+        "onboard_time": 1750465039,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274531,
+        "num": 340728,
+        "word": "以色列全境多个目标遭袭击",
+        "onboard_time": 1750461378,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340569,
+        "num": 340569,
+        "word": "耳朵 汪苏泷",
+        "onboard_time": 1750467141,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329257,
+        "num": 329257,
+        "word": "在伊中国人发现酒店只有自己吃早餐",
+        "onboard_time": 1750468821,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312541,
+        "num": 312541,
+        "word": "黑马情侣分手",
+        "onboard_time": 1750435281,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 210377,
+        "num": 210377,
+        "word": "留英博士迷奸多人想化学阉割减刑遭拒",
+        "onboard_time": 1750420040,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204614,
+        "num": 204614,
+        "word": "夏至",
+        "onboard_time": 1750463539,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200339,
+        "num": 200339,
+        "word": "美代表称以色列散布混乱恐怖苦难",
+        "onboard_time": 1750467381,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179947,
+        "num": 199498,
+        "word": "马嘉祺听到突围赛满脸抗拒",
+        "onboard_time": 1750468881,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156536,
+        "num": 198764,
+        "word": "树莓转学",
+        "onboard_time": 1750469360,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135789,
+        "num": 197035,
+        "word": "TOP新歌",
+        "onboard_time": 1750465880,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121794,
+        "num": 195507,
+        "word": "陈哲远假发都被泼掉了",
+        "onboard_time": 1750461437,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 889606,
+        "num": 193433,
+        "word": "一家三口被杀婴儿睡觉侥幸存活",
+        "onboard_time": 1750434262,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 825042,
+        "num": 192272,
+        "word": "女生毕设被螨虫啃食心态崩了",
+        "onboard_time": 1750472240,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589645,
+        "num": 191044,
+        "word": "一年电费40万炫富网红被禁言",
+        "onboard_time": 1750463478,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374993,
+        "num": 189853,
+        "word": "月经3天干净和7天干净其实都好",
+        "onboard_time": 1750467982,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189159,
+        "num": 189159,
+        "word": "俄罗斯愿与中国开展全面合作",
+        "onboard_time": 1750452074,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170716,
+        "num": 170716,
+        "word": "伊朗与英法德在日内瓦密谈3小时",
+        "onboard_time": 1750470921,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167163,
+        "num": 167163,
+        "word": "不是骑手慢是商家真做不过来了",
+        "onboard_time": 1750470921,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97893,
+        "num": 166146,
+        "word": "易烊千玺听到演唱会的表情",
+        "onboard_time": 1750469421,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96553,
+        "num": 165908,
+        "word": "那英单依纯周深突然就病一起了",
+        "onboard_time": 1750435524,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88024,
+        "num": 165738,
+        "word": "周洁琼上次进组还是临江仙",
+        "onboard_time": 1750470620,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165700,
+        "num": 165700,
+        "word": "央视取消播出易建联专访",
+        "onboard_time": 1750472480,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141074,
+        "num": 141074,
+        "word": "女子骑车横穿机动车道被撞死",
+        "onboard_time": 1750467921,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139006,
+        "num": 139006,
+        "word": "男子乳胶床垫用10年内部碎成粉末",
+        "onboard_time": 1750467982,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132336,
+        "num": 132336,
+        "word": "再一次对印度人的聪明有了实感",
+        "onboard_time": 1750464199,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129924,
+        "num": 129924,
+        "word": "智力残疾女孩遭侵犯父亲讨说法遇害",
+        "onboard_time": 1750465160,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105875,
+        "num": 105875,
+        "word": "经常侧卧的人正在悄悄长皱纹",
+        "onboard_time": 1750464079,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103905,
+        "num": 103905,
+        "word": "女子动物园制止他人乱喊乱叫遭群殴",
+        "onboard_time": 1750468521,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103413,
+        "num": 103413,
+        "word": "阴法唐将军逝世",
+        "onboard_time": 1750471100,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102359,
+        "num": 102359,
+        "word": "姑娘称中医院正骨后生活无法自理",
+        "onboard_time": 1750465641,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100172,
+        "num": 100172,
+        "word": "美国下场打伊朗有三重阻碍",
+        "onboard_time": 1750469360,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99138,
+        "num": 99138,
+        "word": "女子想开蜜雪冰城结果加盟奶爸王子",
+        "onboard_time": 1750428807,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98559,
+        "num": 98559,
+        "word": "文化中国行美好如夏至",
+        "onboard_time": 1750439538,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94609,
+        "num": 94609,
+        "word": "于正说临江仙无论从哪个方面看我都没有遗憾",
+        "onboard_time": 1750472360,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92382,
+        "num": 92382,
+        "word": "西安一商场大屏播放巨大电风扇",
+        "onboard_time": 1750465399,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90325,
+        "num": 90325,
+        "word": "成都警方辟谣百花潭聚众淫乱行为",
+        "onboard_time": 1750463598,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 87847,
+        "num": 87847,
+        "word": "易建联专访",
+        "onboard_time": 1750463059,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80985,
+        "num": 80985,
+        "word": "2000余名中国公民安全撤离伊朗",
+        "onboard_time": 1750471581,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80546,
+        "num": 80546,
+        "word": "陈楚生 难听",
+        "onboard_time": 1750431384,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79271,
+        "num": 79271,
+        "word": "26岁女生打三份工的月总收入",
+        "onboard_time": 1750464019,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76166,
+        "num": 76166,
+        "word": "蓝羽替易烊千玺官宣演唱会",
+        "onboard_time": 1750461378,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席中亚之行高光时刻#"
+    }
+  }
+}
