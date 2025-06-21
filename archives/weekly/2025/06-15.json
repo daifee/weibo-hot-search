@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750481226613,
+  "endTime": 1750483503624,
   "band_list": [
     {
       "raw_hot": 11497825,
@@ -457,6 +457,14 @@
       "onboard_time": 1750390100,
       "rank": 31,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 1455695,
+      "num": 1455695,
+      "word": "千万不要买绿色的防晒衣",
+      "onboard_time": 1750480880,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 1453949,
@@ -995,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1039904,
+      "num": 1039904,
+      "word": "长期不吃主食1年后身体的变化",
+      "onboard_time": 1750477700,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1029338,
       "num": 441970,
       "word": "韩红现场发飙怒骂选手自私",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1750410982,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 974635,
+      "num": 974635,
+      "word": "爱尔兰化粪池现近800幼童遗骨",
+      "onboard_time": 1750474642,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 974312,
@@ -1499,6 +1523,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 837394,
+      "num": 319419,
+      "word": "迪丽热巴天津",
+      "onboard_time": 1750481060,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 834540,
       "num": 676089,
       "word": "以色列开始哭哭啼啼",
@@ -1513,14 +1545,6 @@
       "onboard_time": 1750061659,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 825396,
-      "num": 825396,
-      "word": "长期不吃主食1年后身体的变化",
-      "onboard_time": 1750477700,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 825042,
@@ -1737,14 +1761,6 @@
       "onboard_time": 1750385359,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 767069,
-      "num": 767069,
-      "word": "爱尔兰化粪池现近800幼童遗骨",
-      "onboard_time": 1750474642,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 766627,
@@ -4523,6 +4539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367539,
+      "num": 367539,
+      "word": "被老师打碎头骨女孩母亲称遭死亡威胁",
+      "onboard_time": 1750475782,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 367336,
       "num": 367336,
       "word": "买法拉利3年提不了车退不了款",
@@ -4785,14 +4809,6 @@
       "onboard_time": 1749972620,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344763,
-      "num": 344763,
-      "word": "被老师打碎头骨女孩母亲称遭死亡威胁",
-      "onboard_time": 1750475782,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 344290,
@@ -5649,6 +5665,14 @@
       "onboard_time": 1750298301,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 292964,
+      "num": 156214,
+      "word": "iPhone检测针孔摄像头方法",
+      "onboard_time": 1750482802,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 292930,
@@ -7307,6 +7331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230986,
+      "num": 230986,
+      "word": "章子怡雷佳音C位海报",
+      "onboard_time": 1750482321,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230449,
       "num": 230449,
       "word": "中东富豪加价两百万求购尊界",
@@ -7985,14 +8017,6 @@
       "onboard_time": 1749971300,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209754,
-      "num": 161000,
-      "word": "千万不要买绿色的防晒衣",
-      "onboard_time": 1750480880,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 209690,
@@ -10267,14 +10291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176746,
-      "num": 176746,
-      "word": "迪丽热巴天津",
-      "onboard_time": 1750481060,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176722,
       "num": 176722,
       "word": "洞穴潜水员金雪峰在广西洞潜时去世",
@@ -10883,6 +10899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170697,
+      "num": 170697,
+      "word": "姜妍美得像一幅油画",
+      "onboard_time": 1750480521,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170529,
       "num": 170529,
       "word": "多方回应诊所50元输三天液活动",
@@ -11187,6 +11211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166946,
+      "num": 208298,
+      "word": "美媒称与伊朗冲突每天耗费以色列数亿美元",
+      "onboard_time": 1750477282,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166755,
       "num": 166755,
       "word": "相亲界已经进化成这样了吗",
@@ -11336,14 +11368,6 @@
       "word": "人类不能回到丛林法则",
       "onboard_time": 1750173622,
       "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 165278,
-      "num": 208298,
-      "word": "美媒称与伊朗冲突每天耗费以色列数亿美元",
-      "onboard_time": 1750477282,
-      "rank": 34,
       "category": "国际时政"
     },
     {
@@ -11617,6 +11641,14 @@
       "onboard_time": 1749999323,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160490,
+      "num": 160490,
+      "word": "现烤面包 预制菜",
+      "onboard_time": 1750479978,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 160368,
@@ -11977,6 +12009,14 @@
       "onboard_time": 1750049181,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156108,
+      "num": 156108,
+      "word": "包浆labubu",
+      "onboard_time": 1750482921,
+      "rank": 31,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 156083,
@@ -13179,20 +13219,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141598,
+      "num": 328395,
+      "word": "食品发放点遭袭11名加沙儿童死亡",
+      "onboard_time": 1750482502,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141478,
       "num": 141478,
       "word": "无畏进京了",
       "onboard_time": 1749993562,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141454,
-      "num": 141454,
-      "word": "现烤面包 预制菜",
-      "onboard_time": 1750479978,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 141369,
@@ -13995,6 +14035,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133059,
+      "num": 160431,
+      "word": "福娃去了王力宏北京演唱会",
+      "onboard_time": 1750482681,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 133050,
+      "num": 263420,
+      "word": "7名骑士高速路飙车其中1人还是宝妈",
+      "onboard_time": 1750482081,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 132945,
       "num": 132945,
       "word": "临江仙24%",
@@ -14611,6 +14667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128167,
+      "num": 160431,
+      "word": "51岁知名相声演员吴迪离世",
+      "onboard_time": 1750482321,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128145,
       "num": 185104,
       "word": "城市SUV要越野能力有用吗",
@@ -14971,20 +15035,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125380,
+      "num": 125380,
+      "word": "原来小说里富家子弟一个班是真的",
+      "onboard_time": 1750483101,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125328,
       "num": 125328,
       "word": "花瓣网崩了",
       "onboard_time": 1750065022,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 125308,
-      "num": 125308,
-      "word": "姜妍美得像一幅油画",
-      "onboard_time": 1750480521,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 125237,
@@ -15521,6 +15585,14 @@
       "onboard_time": 1750260564,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121071,
+      "num": 121071,
+      "word": "贺峻霖到底看了几遍甄嬛传",
+      "onboard_time": 1750482861,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 120979,
@@ -16195,6 +16267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115070,
+      "num": 115070,
+      "word": "无期迷途",
+      "onboard_time": 1750482201,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114997,
       "num": 113249,
       "word": "KPL",
@@ -16491,6 +16571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 112939,
+      "num": 112939,
+      "word": "无限暖暖",
+      "onboard_time": 1750483282,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112914,
       "num": 112914,
       "word": "以军再次打击伊朗核设施",
@@ -16609,6 +16697,14 @@
       "onboard_time": 1749971060,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111910,
+      "num": 116030,
+      "word": "藏海传导演采访加更",
+      "onboard_time": 1750482022,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 111851,
@@ -17435,6 +17531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102341,
+      "num": 202669,
+      "word": "重庆通报出租车司机因口角撞伤人",
+      "onboard_time": 1750482141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102236,
       "num": 102236,
       "word": "肖战藏海传27天冲上云合年榜第三",
@@ -17561,6 +17665,14 @@
       "onboard_time": 1750429945,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100674,
+      "num": 100674,
+      "word": "十个勤天直播",
+      "onboard_time": 1750480280,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 100650,
@@ -17729,6 +17841,14 @@
       "onboard_time": 1749968542,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98292,
+      "num": 98292,
+      "word": "丁太升谈马嘉祺淘汰",
+      "onboard_time": 1750481541,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 98224,
@@ -18297,6 +18417,14 @@
       "onboard_time": 1750040779,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89282,
+      "num": 117188,
+      "word": "以色列警官从废墟中救出一只狗",
+      "onboard_time": 1750481060,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88923,
@@ -20795,6 +20923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42707,
+      "num": 156277,
+      "word": "男子嫌返程机票贵连偷8车代步",
+      "onboard_time": 1750482081,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42591,
       "num": 152636,
       "word": "网购羊初乳得布病",
@@ -21452,7 +21588,7 @@
     },
     {
       "raw_hot": 35609,
-      "num": 828601,
+      "num": 996230,
       "word": "文化中国行迎夏至",
       "onboard_time": 1750478302,
       "rank": 2,
