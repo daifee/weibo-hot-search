@@ -1,6 +1,6 @@
 {
   "startTime": 1750437141136,
-  "endTime": 1750498843959,
+  "endTime": 1750501637167,
   "band_list": [
     {
       "raw_hot": 1988631,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1042159,
-      "num": 277561,
+      "num": 322155,
       "word": "韩沐伯结婚",
       "onboard_time": 1750496061,
       "rank": 10,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 761262,
-      "num": 276055,
+      "num": 318228,
       "word": "强奸未遂男子杀害堂妹被执行死刑",
       "onboard_time": 1750494739,
       "rank": 14,
@@ -177,6 +177,22 @@
       "onboard_time": 1750476801,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 730100,
+      "num": 730100,
+      "word": "万婴墓",
+      "onboard_time": 1750494200,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 707724,
+      "num": 707724,
+      "word": "0州",
+      "onboard_time": 1750498821,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 693840,
@@ -283,20 +299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 483103,
-      "num": 483103,
-      "word": "万婴墓",
-      "onboard_time": 1750494200,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 479996,
       "num": 378268,
       "word": "原来小说里富家子弟一个班是真的",
       "onboard_time": 1750483101,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 479517,
+      "num": 479517,
+      "word": "湖南一幼儿园多名儿童遭老师打耳光",
+      "onboard_time": 1750495881,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 476908,
@@ -337,6 +353,22 @@
       "onboard_time": 1750461378,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 431704,
+      "num": 321503,
+      "word": "迪丽热巴发型刘涛",
+      "onboard_time": 1750500862,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 431330,
+      "num": 431330,
+      "word": "许我耀眼",
+      "onboard_time": 1750498701,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 427271,
@@ -411,12 +443,28 @@
       "category": "休闲,动漫"
     },
     {
+      "raw_hot": 377364,
+      "num": 377364,
+      "word": "美国钻地弹",
+      "onboard_time": 1750497200,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 367539,
       "num": 367539,
       "word": "被老师打碎头骨女孩母亲称遭死亡威胁",
       "onboard_time": 1750475782,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364592,
+      "num": 364592,
+      "word": "何炅是沈月阿拉伯语唯一人脉",
+      "onboard_time": 1750493120,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 359593,
@@ -507,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 296827,
-      "num": 296827,
-      "word": "何炅是沈月阿拉伯语唯一人脉",
-      "onboard_time": 1750493120,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295632,
       "num": 295632,
       "word": "经期真正不能做的10件事",
@@ -553,14 +593,6 @@
       "onboard_time": 1750480100,
       "rank": 20,
       "category": "休闲,动漫"
-    },
-    {
-      "raw_hot": 274494,
-      "num": 274494,
-      "word": "湖南一幼儿园多名儿童遭老师打耳光",
-      "onboard_time": 1750495881,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 274173,
@@ -611,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 259699,
+      "num": 274064,
+      "word": "首尔歌谣大赏",
+      "onboard_time": 1750497981,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259382,
       "num": 162807,
       "word": "千万别买到青岛西",
@@ -625,14 +665,6 @@
       "onboard_time": 1750484242,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245854,
-      "num": 245854,
-      "word": "美国钻地弹",
-      "onboard_time": 1750497200,
-      "rank": 29,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 243862,
@@ -715,6 +747,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 224373,
+      "num": 224373,
+      "word": "老人水中摔倒家属投诉民警未搀扶",
+      "onboard_time": 1750496481,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219544,
       "num": 219544,
       "word": "夏至",
@@ -737,6 +777,14 @@
       "onboard_time": 1750479620,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209957,
+      "num": 209957,
+      "word": "苏超",
+      "onboard_time": 1750501101,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 208868,
@@ -771,16 +819,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 203775,
-      "num": 274064,
-      "word": "首尔歌谣大赏",
-      "onboard_time": 1750497981,
-      "rank": 43,
-      "category": "音乐"
+      "raw_hot": 202934,
+      "num": 202934,
+      "word": "白鹿发型方可",
+      "onboard_time": 1750500740,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 200454,
-      "num": 177472,
+      "num": 186364,
       "word": "王楚钦奔跑吧骄傲的少年",
       "onboard_time": 1750496961,
       "rank": 21,
@@ -817,6 +865,14 @@
       "onboard_time": 1750496600,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198107,
+      "num": 186538,
+      "word": "李子园 成毅",
+      "onboard_time": 1750499782,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 197992,
@@ -907,6 +963,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182225,
+      "num": 187274,
+      "word": "陈楚生连续六期收视TOP1",
+      "onboard_time": 1750500981,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180529,
+      "num": 187164,
+      "word": "独家专访酱园弄导演陈可辛",
+      "onboard_time": 1750499482,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179947,
       "num": 238751,
       "word": "马嘉祺听到突围赛满脸抗拒",
@@ -945,14 +1017,6 @@
       "onboard_time": 1750496961,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 176505,
-      "num": 176505,
-      "word": "老人水中摔倒家属投诉民警未搀扶",
-      "onboard_time": 1750496481,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174438,
@@ -1011,12 +1075,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167811,
+      "num": 187051,
+      "word": "陈可辛谈杨幂王许梅",
+      "onboard_time": 1750499240,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166946,
       "num": 208298,
       "word": "美媒称与伊朗冲突每天耗费以色列数亿美元",
       "onboard_time": 1750477282,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166417,
+      "num": 186914,
+      "word": "谢娜鼓励马嘉祺",
+      "onboard_time": 1750498281,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 165597,
+      "num": 165597,
+      "word": "临江仙",
+      "onboard_time": 1750501401,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 165415,
@@ -1083,6 +1171,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 158503,
+      "num": 278912,
+      "word": "俄罗斯准备支持伊朗发展和平核能",
+      "onboard_time": 1750497800,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 158137,
+      "num": 187417,
+      "word": "我国带癌五年生存率提升至43.7%",
+      "onboard_time": 1750499240,
+      "rank": 24,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 157883,
+      "num": 157883,
+      "word": "idle红毯",
+      "onboard_time": 1750500441,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 156536,
       "num": 199980,
       "word": "树莓转学",
@@ -1097,14 +1209,6 @@
       "onboard_time": 1750489160,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154963,
-      "num": 154963,
-      "word": "许我耀眼",
-      "onboard_time": 1750498701,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 154879,
@@ -1171,6 +1275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146770,
+      "num": 146770,
+      "word": "苏超应援开始卷奥运冠军了",
+      "onboard_time": 1750501401,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145091,
       "num": 145091,
       "word": "李连杰 我不是装孙子",
@@ -1235,6 +1347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 139786,
+      "num": 139786,
+      "word": "谈恋爱越久信任度越低",
+      "onboard_time": 1750500561,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139006,
       "num": 139006,
       "word": "男子乳胶床垫用10年内部碎成粉末",
@@ -1249,6 +1369,14 @@
       "onboard_time": 1750472661,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137537,
+      "num": 176570,
+      "word": "临江仙五重匠心打造中式仙侠",
+      "onboard_time": 1750496481,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 137047,
@@ -1275,20 +1403,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136398,
-      "num": 176570,
-      "word": "临江仙五重匠心打造中式仙侠",
-      "onboard_time": 1750496481,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134561,
       "num": 176541,
       "word": "马嘉祺声乐老师",
       "onboard_time": 1750495823,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134490,
+      "num": 173229,
+      "word": "苏超宿迁vs盐城战袍颜色定了",
+      "onboard_time": 1750500021,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 134437,
@@ -1313,6 +1441,14 @@
       "onboard_time": 1750482081,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 132070,
+      "num": 132070,
+      "word": "美代表口误谴责以色列",
+      "onboard_time": 1750500141,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131540,
@@ -1451,6 +1587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125783,
+      "num": 125783,
+      "word": "每一代人的钱都被他挣到了",
+      "onboard_time": 1750501220,
+      "rank": 43,
+      "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 125583,
+      "num": 288748,
+      "word": "苏超宿迁vs盐城",
+      "onboard_time": 1750482382,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125075,
       "num": 125075,
       "word": "七根心简能演的都演了",
@@ -1520,14 +1672,6 @@
       "word": "张韶涵千禧年变装",
       "onboard_time": 1750497261,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 121167,
-      "num": 121167,
-      "word": "谢娜鼓励马嘉祺",
-      "onboard_time": 1750498281,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1779,14 +1923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111174,
-      "num": 278912,
-      "word": "俄罗斯准备支持伊朗发展和平核能",
-      "onboard_time": 1750497800,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 110865,
       "num": 230242,
       "word": "青岛大学毕业典礼",
@@ -1857,6 +1993,14 @@
       "onboard_time": 1750490061,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109365,
+      "num": 109365,
+      "word": "近65万人抢苏超南通vs宿迁球票",
+      "onboard_time": 1750500922,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 108176,
@@ -1931,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105341,
+      "num": 105341,
+      "word": "荔枝炖排骨",
+      "onboard_time": 1750501580,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 105170,
       "num": 105170,
       "word": "爱犬路边被陌生男射击毒针死亡",
@@ -1979,14 +2131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102207,
-      "num": 102207,
-      "word": "0州",
-      "onboard_time": 1750498821,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102092,
       "num": 102092,
       "word": "开车和乘车时别佩戴鲨鱼夹",
@@ -2017,14 +2161,6 @@
       "onboard_time": 1750486041,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 100769,
-      "num": 288748,
-      "word": "苏超宿迁vs盐城",
-      "onboard_time": 1750482382,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 100674,
@@ -2073,6 +2209,14 @@
       "onboard_time": 1750485441,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98892,
+      "num": 186492,
+      "word": "多方回应幼儿园多名儿童遭老师踩脸",
+      "onboard_time": 1750498101,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98292,
@@ -2603,6 +2747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32446,
+      "num": 268695,
+      "word": "中国公民讲述撤离伊朗始末",
+      "onboard_time": 1750500081,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29781,
       "num": 29411,
       "word": "豆包p图指令",
@@ -2697,6 +2849,14 @@
       "onboard_time": 1750494562,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15206,
+      "num": 210225,
+      "word": "为什么工科学校还能这么浪漫",
+      "onboard_time": 1750501341,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 9004,

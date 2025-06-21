@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750498843959,
+  "endTime": 1750501637167,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -3332,7 +3332,7 @@
     },
     {
       "raw_hot": 1042159,
-      "num": 277561,
+      "num": 322155,
       "word": "韩沐伯结婚",
       "onboard_time": 1750496061,
       "rank": 10,
@@ -5564,7 +5564,7 @@
     },
     {
       "raw_hot": 761262,
-      "num": 276055,
+      "num": 318228,
       "word": "强奸未遂男子杀害堂妹被执行死刑",
       "onboard_time": 1750494739,
       "rank": 14,
@@ -5897,6 +5897,14 @@
       "onboard_time": 1748786121,
       "rank": 3,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 730100,
+      "num": 730100,
+      "word": "万婴墓",
+      "onboard_time": 1750494200,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 729758,
@@ -6233,6 +6241,14 @@
       "onboard_time": 1749816442,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 707724,
+      "num": 707724,
+      "word": "0州",
+      "onboard_time": 1750498821,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 706100,
@@ -10443,14 +10459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 483103,
-      "num": 483103,
-      "word": "万婴墓",
-      "onboard_time": 1750494200,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 482707,
       "num": 482707,
       "word": "以色列宣布进入紧急状态",
@@ -10521,6 +10529,14 @@
       "onboard_time": 1748932761,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 479517,
+      "num": 479517,
+      "word": "湖南一幼儿园多名儿童遭老师打耳光",
+      "onboard_time": 1750495881,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 479486,
@@ -11833,6 +11849,22 @@
       "onboard_time": 1749703162,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431704,
+      "num": 321503,
+      "word": "迪丽热巴发型刘涛",
+      "onboard_time": 1750500862,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 431330,
+      "num": 431330,
+      "word": "许我耀眼",
+      "onboard_time": 1750498701,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 431116,
@@ -13747,6 +13779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 377364,
+      "num": 377364,
+      "word": "美国钻地弹",
+      "onboard_time": 1750497200,
+      "rank": 29,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 377298,
       "num": 377298,
       "word": "张凌赫撕拉片",
@@ -14233,6 +14273,14 @@
       "onboard_time": 1749387143,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364592,
+      "num": 364592,
+      "word": "何炅是沈月阿拉伯语唯一人脉",
+      "onboard_time": 1750493120,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 364506,
@@ -17531,14 +17579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296827,
-      "num": 296827,
-      "word": "何炅是沈月阿拉伯语唯一人脉",
-      "onboard_time": 1750493120,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 296535,
       "num": 296535,
       "word": "美国末日飞机敏感时刻现异常动向",
@@ -19131,14 +19171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274494,
-      "num": 274494,
-      "word": "湖南一幼儿园多名儿童遭老师打耳光",
-      "onboard_time": 1750495881,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 274306,
       "num": 274306,
       "word": "锦织圭出轨美女模特",
@@ -20233,6 +20265,14 @@
       "onboard_time": 1750326081,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 259699,
+      "num": 274064,
+      "word": "首尔歌谣大赏",
+      "onboard_time": 1750497981,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 259689,
@@ -21393,14 +21433,6 @@
       "onboard_time": 1749858319,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245854,
-      "num": 245854,
-      "word": "美国钻地弹",
-      "onboard_time": 1750497200,
-      "rank": 29,
-      "category": "国际时政,民生新闻"
     },
     {
       "raw_hot": 245827,
@@ -23553,6 +23585,14 @@
       "onboard_time": 1749647362,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224373,
+      "num": 224373,
+      "word": "老人水中摔倒家属投诉民警未搀扶",
+      "onboard_time": 1750496481,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224250,
@@ -26699,14 +26739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203775,
-      "num": 274064,
-      "word": "首尔歌谣大赏",
-      "onboard_time": 1750497981,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 203767,
       "num": 203767,
       "word": "赵今麦复古甜心造型",
@@ -26913,6 +26945,14 @@
       "onboard_time": 1748750959,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202934,
+      "num": 202934,
+      "word": "白鹿发型方可",
+      "onboard_time": 1750500740,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 202932,
@@ -27540,7 +27580,7 @@
     },
     {
       "raw_hot": 200454,
-      "num": 177472,
+      "num": 186364,
       "word": "王楚钦奔跑吧骄傲的少年",
       "onboard_time": 1750496961,
       "rank": 21,
@@ -28177,6 +28217,14 @@
       "onboard_time": 1749536180,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198107,
+      "num": 186538,
+      "word": "李子园 成毅",
+      "onboard_time": 1750499782,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 198080,
@@ -32027,6 +32075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182225,
+      "num": 187274,
+      "word": "陈楚生连续六期收视TOP1",
+      "onboard_time": 1750500981,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182220,
       "num": 182220,
       "word": "郑钦文破发阿尼西莫娃",
@@ -32433,6 +32489,14 @@
       "onboard_time": 1749563242,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180529,
+      "num": 187164,
+      "word": "独家专访酱园弄导演陈可辛",
+      "onboard_time": 1750499482,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 180513,
@@ -33217,14 +33281,6 @@
       "onboard_time": 1749826286,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176505,
-      "num": 176505,
-      "word": "老人水中摔倒家属投诉民警未搀扶",
-      "onboard_time": 1750496481,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176458,
@@ -35595,6 +35651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167811,
+      "num": 187051,
+      "word": "陈可辛谈杨幂王许梅",
+      "onboard_time": 1750499240,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167773,
       "num": 167773,
       "word": "乌克兰称击落俄罗斯苏35战斗机",
@@ -35985,6 +36049,14 @@
       "onboard_time": 1748938820,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166417,
+      "num": 186914,
+      "word": "谢娜鼓励马嘉祺",
+      "onboard_time": 1750498281,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 166414,
@@ -38107,6 +38179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 158503,
+      "num": 278912,
+      "word": "俄罗斯准备支持伊朗发展和平核能",
+      "onboard_time": 1750497800,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158469,
       "num": 158469,
       "word": "易烊千玺广州演唱会预计两场",
@@ -38161,6 +38241,14 @@
       "onboard_time": 1749481161,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158137,
+      "num": 187417,
+      "word": "我国带癌五年生存率提升至43.7%",
+      "onboard_time": 1750499240,
+      "rank": 24,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 158100,
@@ -38233,6 +38321,14 @@
       "onboard_time": 1749985160,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157883,
+      "num": 157883,
+      "word": "idle红毯",
+      "onboard_time": 1750500441,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 157853,
@@ -39049,14 +39145,6 @@
       "onboard_time": 1750314743,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 154963,
-      "num": 154963,
-      "word": "许我耀眼",
-      "onboard_time": 1750498701,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 154916,
@@ -41411,6 +41499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146770,
+      "num": 146770,
+      "word": "苏超应援开始卷奥运冠军了",
+      "onboard_time": 1750501401,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146756,
       "num": 146756,
       "word": "眼睛出现这些情况要小心干眼症",
@@ -43739,6 +43835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139786,
+      "num": 139786,
+      "word": "谈恋爱越久信任度越低",
+      "onboard_time": 1750500561,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139769,
       "num": 139769,
       "word": "央视镜头下的张新成",
@@ -44451,6 +44555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137537,
+      "num": 176570,
+      "word": "临江仙五重匠心打造中式仙侠",
+      "onboard_time": 1750496481,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137509,
       "num": 137509,
       "word": "京东618成绩公布",
@@ -44769,14 +44881,6 @@
       "onboard_time": 1750236500,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136398,
-      "num": 176570,
-      "word": "临江仙五重匠心打造中式仙侠",
-      "onboard_time": 1750496481,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 136357,
@@ -45521,6 +45625,14 @@
       "onboard_time": 1749354141,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 134490,
+      "num": 173229,
+      "word": "苏超宿迁vs盐城战袍颜色定了",
+      "onboard_time": 1750500021,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 134484,
@@ -46345,6 +46457,14 @@
       "onboard_time": 1749619341,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132070,
+      "num": 132070,
+      "word": "美代表口误谴责以色列",
+      "onboard_time": 1750500141,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132052,
@@ -48603,6 +48723,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 125783,
+      "num": 125783,
+      "word": "每一代人的钱都被他挣到了",
+      "onboard_time": 1750501220,
+      "rank": 43,
+      "category": "休闲,动漫"
+    },
+    {
       "raw_hot": 125760,
       "num": 238625,
       "word": "YG每个练习生一年投入1亿韩元",
@@ -48665,6 +48793,14 @@
       "onboard_time": 1749602421,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125583,
+      "num": 288748,
+      "word": "苏超宿迁vs盐城",
+      "onboard_time": 1750482382,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 125578,
@@ -50184,14 +50320,6 @@
       "word": "宁艺卓与香奈儿的适配度",
       "onboard_time": 1749693621,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 121167,
-      "num": 121167,
-      "word": "谢娜鼓励马嘉祺",
-      "onboard_time": 1750498281,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -53435,14 +53563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111174,
-      "num": 278912,
-      "word": "俄罗斯准备支持伊朗发展和平核能",
-      "onboard_time": 1750497800,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 111126,
       "num": 209549,
       "word": "张家界又一溶洞存大量垃圾",
@@ -54001,6 +54121,14 @@
       "onboard_time": 1749295102,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 109365,
+      "num": 109365,
+      "word": "近65万人抢苏超南通vs宿迁球票",
+      "onboard_time": 1750500922,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 109355,
@@ -54963,6 +55091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 105341,
+      "num": 105341,
+      "word": "荔枝炖排骨",
+      "onboard_time": 1750501580,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 105327,
       "num": 297576,
       "word": "男子称垫资帮超市清货损失两三百万",
@@ -55683,14 +55819,6 @@
       "category": "国际时政,体育"
     },
     {
-      "raw_hot": 102207,
-      "num": 102207,
-      "word": "0州",
-      "onboard_time": 1750498821,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102167,
       "num": 122641,
       "word": "耳帝评歌手第5期",
@@ -56025,14 +56153,6 @@
       "onboard_time": 1750429945,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100769,
-      "num": 288748,
-      "word": "苏超宿迁vs盐城",
-      "onboard_time": 1750482382,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 100739,
@@ -56497,6 +56617,14 @@
       "onboard_time": 1750156822,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 98892,
+      "num": 186492,
+      "word": "多方回应幼儿园多名儿童遭老师踩脸",
+      "onboard_time": 1750498101,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98850,
@@ -70507,6 +70635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32446,
+      "num": 268695,
+      "word": "中国公民讲述撤离伊朗始末",
+      "onboard_time": 1750500081,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32424,
       "num": 283908,
       "word": "美国一动物园园长涉嫌制毒被捕",
@@ -75449,6 +75585,14 @@
       "onboard_time": 1750115178,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 15206,
+      "num": 210225,
+      "word": "为什么工科学校还能这么浪漫",
+      "onboard_time": 1750501341,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 15192,
