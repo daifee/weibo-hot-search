@@ -1,0 +1,410 @@
+{
+  "runTime": 1750545738134,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 573222,
+        "num": 573222,
+        "word": "内蒙古通报那尔那茜有关核查情况",
+        "onboard_time": 1750514603,
+        "rank": 0,
+        "category": "艺人,辟谣/通报"
+      },
+      {
+        "raw_hot": 338016,
+        "num": 338016,
+        "word": "男方资助女子近65万留学分手后索回",
+        "onboard_time": 1750522582,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12187,
+        "num": 296379,
+        "word": "一组数据看懂中国外资吸引力",
+        "onboard_time": 1750514904,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385189,
+        "num": 296307,
+        "word": "马景涛直播晕倒",
+        "onboard_time": 1750528336,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294682,
+        "num": 294682,
+        "word": "中国冥币在海外杀疯老外烧个不停",
+        "onboard_time": 1750522222,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163557,
+        "num": 163557,
+        "word": "以军公布伊斯法罕核设施遇袭后画面",
+        "onboard_time": 1750521682,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198432,
+        "num": 162042,
+        "word": "韩红痛斥歌手耳机里都是提示音",
+        "onboard_time": 1750515085,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157575,
+        "num": 157575,
+        "word": "那尔那茜涉嫌高考报名材料造假",
+        "onboard_time": 1750515085,
+        "rank": 7,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 142538,
+        "num": 142538,
+        "word": "美媒曝哈梅内伊正藏身地堡避险",
+        "onboard_time": 1750521682,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136374,
+        "num": 136374,
+        "word": "巴西热气球坠落8人死亡",
+        "onboard_time": 1750521682,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133607,
+        "num": 133607,
+        "word": "孟子义李昀锐合作的第3部剧",
+        "onboard_time": 1750521864,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131071,
+        "num": 131071,
+        "word": "林允身材好就是敢穿",
+        "onboard_time": 1750528336,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122070,
+        "num": 122070,
+        "word": "向太给孙子孙女买Labubu",
+        "onboard_time": 1750513583,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19371,
+        "num": 110549,
+        "word": "在洛阳还能认养太空牡丹苗",
+        "onboard_time": 1750544356,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101014,
+        "num": 101014,
+        "word": "女子货车内休息被冲走失联超2天",
+        "onboard_time": 1750521682,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99817,
+        "num": 99817,
+        "word": "台网红吸大麻被抓甩锅大陆警方",
+        "onboard_time": 1750518144,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97205,
+        "num": 97205,
+        "word": "那尔那茜事件涉事人员将被严肃追责",
+        "onboard_time": 1750516585,
+        "rank": 16,
+        "category": "艺人,辟谣/通报"
+      },
+      {
+        "raw_hot": 89204,
+        "num": 89204,
+        "word": "常州队全员业余球员硬刚苏超",
+        "onboard_time": 1750521143,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89089,
+        "num": 89089,
+        "word": "身价139亿美元富豪捐精生超百名子女",
+        "onboard_time": 1750519703,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83474,
+        "num": 83474,
+        "word": "普京说俄士兵脚踩之地就属于俄罗斯",
+        "onboard_time": 1750528336,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74890,
+        "num": 74890,
+        "word": "那尔那茜委培协议要求毕业回内蒙",
+        "onboard_time": 1750517485,
+        "rank": 20,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 65810,
+        "num": 65810,
+        "word": "李晟李佳航真夫妻就是好嗑",
+        "onboard_time": 1750519524,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65668,
+        "num": 65668,
+        "word": "那尔那茜高考文化课总成绩449分",
+        "onboard_time": 1750516526,
+        "rank": 22,
+        "category": "艺人,辟谣/通报"
+      },
+      {
+        "raw_hot": 57341,
+        "num": 57341,
+        "word": "万茜拿了影后输了钱",
+        "onboard_time": 1750519824,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55170,
+        "num": 55170,
+        "word": "27岁女子1天3杯奶茶抽出牛奶血",
+        "onboard_time": 1750512143,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41870,
+        "num": 41870,
+        "word": "美国2架B2轰炸机或打击伊朗核设施",
+        "onboard_time": 1750512804,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40202,
+        "num": 40202,
+        "word": "跳楼机好不容易升咖又打回原形了",
+        "onboard_time": 1750516047,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39879,
+        "num": 39879,
+        "word": "常州文旅",
+        "onboard_time": 1750514603,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37765,
+        "num": 37765,
+        "word": "逆袭",
+        "onboard_time": 1750515866,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35541,
+        "num": 35541,
+        "word": "Labubu在二手市场价格暴跌",
+        "onboard_time": 1750510884,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43614,
+        "num": 35359,
+        "word": "清华食堂的菜单好像论文",
+        "onboard_time": 1750541234,
+        "rank": 30,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 34747,
+        "num": 34747,
+        "word": "0州",
+        "onboard_time": 1750498821,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33187,
+        "num": 33187,
+        "word": "上戏内蒙古委培班2021年终止招生",
+        "onboard_time": 1750515987,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32428,
+        "num": 32428,
+        "word": "镖人",
+        "onboard_time": 1750516827,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32148,
+        "num": 32148,
+        "word": "临江仙结局",
+        "onboard_time": 1750502001,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31459,
+        "num": 31459,
+        "word": "曝短剧演员郑锋霸凌工作人员",
+        "onboard_time": 1750530736,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23586,
+        "num": 30854,
+        "word": "小男孩载着小狗遛弯摘荔枝",
+        "onboard_time": 1750543756,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30403,
+        "num": 30403,
+        "word": "向太说自己和郭碧婷的个性很像",
+        "onboard_time": 1750543215,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29411,
+        "num": 29411,
+        "word": "苏超至今没有一场0比0",
+        "onboard_time": 1750520844,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28809,
+        "num": 28809,
+        "word": "柯淳杨肸子车窗吻",
+        "onboard_time": 1750512623,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27886,
+        "num": 27886,
+        "word": "苏超赛后球迷自发捡垃圾",
+        "onboard_time": 1750514422,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27482,
+        "num": 27482,
+        "word": "王欣瑜2比0战胜萨姆索诺娃",
+        "onboard_time": 1750516585,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27349,
+        "num": 27349,
+        "word": "张杰女儿睡前信息",
+        "onboard_time": 1750519285,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25973,
+        "num": 25973,
+        "word": "mlxg被执行2500万",
+        "onboard_time": 1750502301,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25262,
+        "num": 25971,
+        "word": "伊官员说伊朗准备了很多选项",
+        "onboard_time": 1750532774,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24880,
+        "num": 25967,
+        "word": "酱园弄",
+        "onboard_time": 1750507102,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24609,
+        "num": 25967,
+        "word": "以媒爆两架B2轰炸机从美国飞往关岛",
+        "onboard_time": 1750512743,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24279,
+        "num": 25961,
+        "word": "昀牵孟绕",
+        "onboard_time": 1750510103,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24245,
+        "num": 25959,
+        "word": "李沐宸因家庭变故至今还在还债",
+        "onboard_time": 1750504341,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22886,
+        "num": 25956,
+        "word": "中东局势是否要走向失控",
+        "onboard_time": 1750536795,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#3句话讲清习主席中亚之行的深远意义#"
+    }
+  }
+}
