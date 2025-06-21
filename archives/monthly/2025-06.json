@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750513452477,
+  "endTime": 1750515841264,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -89,6 +89,14 @@
       "onboard_time": 1748956522,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 9580319,
+      "num": 9580319,
+      "word": "内蒙古通报那尔那茜有关核查情况",
+      "onboard_time": 1750514603,
+      "rank": 0,
+      "category": "辟谣/通报,艺人"
     },
     {
       "raw_hot": 8888905,
@@ -473,6 +481,14 @@
       "onboard_time": 1750406181,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2668070,
+      "num": 669971,
+      "word": "那尔那茜涉嫌高考报名材料造假",
+      "onboard_time": 1750515085,
+      "rank": 5,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 2655355,
@@ -2507,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1215810,
+      "num": 370599,
+      "word": "向太给孙子孙女买Labubu",
+      "onboard_time": 1750513583,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1214123,
       "num": 1214123,
       "word": "锦绣芳华",
@@ -2793,6 +2817,14 @@
       "onboard_time": 1749821306,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1154485,
+      "num": 856098,
+      "word": "酱园弄",
+      "onboard_time": 1748917521,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 1150707,
@@ -4723,14 +4755,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 856098,
-      "num": 856098,
-      "word": "酱园弄",
-      "onboard_time": 1748917521,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 853256,
       "num": 853256,
       "word": "新一卷英语难不难",
@@ -5601,6 +5625,14 @@
       "onboard_time": 1749450442,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 763742,
+      "num": 763742,
+      "word": "27岁女子1天3杯奶茶抽出牛奶血",
+      "onboard_time": 1750512143,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 762477,
@@ -10435,6 +10467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 487550,
+      "num": 487550,
+      "word": "柯淳杨肸子车窗吻",
+      "onboard_time": 1750512623,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 487187,
       "num": 487187,
       "word": "瘦了36斤后才敢说的实话总结",
@@ -11721,14 +11761,6 @@
       "onboard_time": 1748956702,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 439254,
-      "num": 439254,
-      "word": "27岁女子1天3杯奶茶抽出牛奶血",
-      "onboard_time": 1750512143,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 439227,
@@ -13059,14 +13091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 400310,
-      "num": 400310,
-      "word": "柯淳杨肸子车窗吻",
-      "onboard_time": 1750512623,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400233,
       "num": 400233,
       "word": "波尔从孔令辉打到王楚钦",
@@ -13361,6 +13385,14 @@
       "onboard_time": 1748757979,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392277,
+      "num": 392277,
+      "word": "以媒爆两架B2轰炸机从美国飞往关岛",
+      "onboard_time": 1750512743,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 392255,
@@ -15387,6 +15419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345314,
+      "num": 345314,
+      "word": "有龙则0",
+      "onboard_time": 1750512143,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345277,
       "num": 345277,
       "word": "全球唯一薄荷色labubu108万成交",
@@ -16835,6 +16875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313056,
+      "num": 313056,
+      "word": "川队",
+      "onboard_time": 1750512143,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313047,
       "num": 313047,
       "word": "孙颖莎打羽毛球",
@@ -16953,6 +17001,14 @@
       "onboard_time": 1749525501,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 311417,
+      "num": 294334,
+      "word": "韩红痛斥歌手耳机里都是提示音",
+      "onboard_time": 1750515085,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 311291,
@@ -17315,6 +17371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305179,
+      "num": 305179,
+      "word": "王牌对王牌常驻",
+      "onboard_time": 1750514244,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305162,
       "num": 305162,
       "word": "05后高考生即将迎接新生活",
@@ -17576,6 +17640,14 @@
       "word": "乒超停电",
       "onboard_time": 1749640644,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300697,
+      "num": 300697,
+      "word": "苏超积分榜",
+      "onboard_time": 1750513284,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -18747,6 +18819,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 282886,
+      "num": 282886,
+      "word": "苏超赛后球迷自发捡垃圾",
+      "onboard_time": 1750514422,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282764,
       "num": 295185,
       "word": "李佳琦说没必要加钱买LABUBU",
@@ -19249,6 +19329,14 @@
       "onboard_time": 1749825985,
       "rank": 31,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 276099,
+      "num": 276099,
+      "word": "吴梦洁受伤",
+      "onboard_time": 1750515085,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 275578,
@@ -22651,6 +22739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 234132,
+      "num": 159327,
+      "word": "王欣瑜先胜一盘",
+      "onboard_time": 1750515085,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234086,
       "num": 234086,
       "word": "唐僧都开始卖房了",
@@ -24091,6 +24187,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 222397,
+      "num": 222397,
+      "word": "毛不易变有钱居然已经八年了",
+      "onboard_time": 1750512923,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 222368,
       "num": 222368,
       "word": "韦东奕未参加高考保送到北大",
@@ -24361,6 +24465,14 @@
       "onboard_time": 1750147040,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220270,
+      "num": 220270,
+      "word": "崔杋圭没椅子",
+      "onboard_time": 1750514723,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 220229,
@@ -24739,14 +24851,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 217653,
-      "num": 217653,
-      "word": "有龙则0",
-      "onboard_time": 1750512143,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217593,
       "num": 217593,
       "word": "男子赌博欠债倒卖千年裹尸布被抓",
@@ -24953,6 +25057,14 @@
       "onboard_time": 1749093861,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215604,
+      "num": 215604,
+      "word": "WTA500柏林站半决赛",
+      "onboard_time": 1750514785,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 215536,
@@ -25512,14 +25624,6 @@
       "word": "苏超梭子蟹1比1战平大闸蟹",
       "onboard_time": 1749993683,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 211732,
-      "num": 262810,
-      "word": "川队",
-      "onboard_time": 1750512143,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -29171,14 +29275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195592,
-      "num": 301823,
-      "word": "以媒爆两架B2轰炸机从美国飞往关岛",
-      "onboard_time": 1750512743,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 195560,
       "num": 244752,
       "word": "郑钦文vs阿尼西莫娃",
@@ -32259,14 +32355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183445,
-      "num": 183445,
-      "word": "苏超积分榜",
-      "onboard_time": 1750513284,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 183326,
       "num": 183326,
       "word": "邓紫棋石家庄演唱会",
@@ -32563,6 +32651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181982,
+      "num": 180964,
+      "word": "2名儿童第6次横穿马路时被撞",
+      "onboard_time": 1750513524,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181952,
       "num": 181952,
       "word": "决战撕拉片之巅",
@@ -32673,6 +32769,14 @@
       "onboard_time": 1750159342,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181654,
+      "num": 181654,
+      "word": "余宇涵千字小作文说了12个谢谢",
+      "onboard_time": 1750515746,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 181628,
@@ -33555,6 +33659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177617,
+      "num": 177617,
+      "word": "蔡依林新歌首秀",
+      "onboard_time": 1750514003,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177563,
       "num": 177563,
       "word": "Labubu爆火哪些国货被低估了",
@@ -34249,6 +34361,14 @@
       "onboard_time": 1749310581,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174260,
+      "num": 174260,
+      "word": "你告诉我这是TizzyT",
+      "onboard_time": 1750515025,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 174253,
@@ -35961,6 +36081,14 @@
       "onboard_time": 1749779541,
       "rank": 49,
       "category": "休闲,动漫"
+    },
+    {
+      "raw_hot": 168368,
+      "num": 168368,
+      "word": "印度扬言永不恢复印度河用水条约",
+      "onboard_time": 1750514485,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168359,
@@ -38691,6 +38819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158549,
+      "num": 158549,
+      "word": "常州文旅",
+      "onboard_time": 1750514603,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158537,
       "num": 140218,
       "word": "因渐冻症离世的教师成了大体老师",
@@ -39667,6 +39803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155046,
+      "num": 155046,
+      "word": "阿诺觉得董力真的很爱她",
+      "onboard_time": 1750514723,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155031,
       "num": 155031,
       "word": "洪尧在家的时候就帮吴谨言搭过词",
@@ -39745,6 +39889,14 @@
       "onboard_time": 1748875522,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154681,
+      "num": 159375,
+      "word": "网球",
+      "onboard_time": 1750512502,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 154667,
@@ -39873,14 +40025,6 @@
       "onboard_time": 1749339497,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154131,
-      "num": 154131,
-      "word": "网球",
-      "onboard_time": 1750512502,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 154060,
@@ -40387,6 +40531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152191,
+      "num": 152191,
+      "word": "中国女排2比0日本女排",
+      "onboard_time": 1750513164,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152180,
       "num": 152180,
       "word": "河北也太宠樊振东了",
@@ -40817,14 +40969,6 @@
       "onboard_time": 1749829162,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150971,
-      "num": 150971,
-      "word": "毛不易变有钱居然已经八年了",
-      "onboard_time": 1750512923,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 150964,
@@ -41473,6 +41617,14 @@
       "onboard_time": 1748954842,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148860,
+      "num": 148860,
+      "word": "周笔畅广州赛区08号选手回来了",
+      "onboard_time": 1750514723,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 148803,
@@ -43633,14 +43785,6 @@
       "onboard_time": 1749635121,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142110,
-      "num": 142110,
-      "word": "中国女排2比0日本女排",
-      "onboard_time": 1750513164,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 142095,
@@ -66035,6 +66179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54197,
+      "num": 159609,
+      "word": "上戏内蒙古委培班招收过12届学生",
+      "onboard_time": 1750515746,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 54111,
       "num": 87750,
       "word": "网球也有削球手",
@@ -69507,6 +69659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 38976,
+      "num": 312983,
+      "word": "蔡磊说相信有一天可以站着接受采访",
+      "onboard_time": 1750514485,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38918,
       "num": 127123,
       "word": "入门级别的八个瑜伽动作",
@@ -71729,6 +71889,14 @@
       "onboard_time": 1749661817,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31420,
+      "num": 980763,
+      "word": "一组数据看懂中国外资吸引力",
+      "onboard_time": 1750514904,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31411,
@@ -78294,6 +78462,9 @@
     },
     {
       "word": "#总书记强调粮食生产年年要抓紧#"
+    },
+    {
+      "word": "#3句话讲清习主席中亚之行的深远意义#"
     }
   ]
 }

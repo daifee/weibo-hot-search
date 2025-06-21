@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1750513452477,
+  "endTime": 1750515841264,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -881,6 +881,14 @@
       "onboard_time": 1746573860,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9580319,
+      "num": 9580319,
+      "word": "内蒙古通报那尔那茜有关核查情况",
+      "onboard_time": 1750514603,
+      "rank": 0,
+      "category": "辟谣/通报,艺人"
     },
     {
       "raw_hot": 9461281,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740812372,
       "rank": 1,
       "category": "健康医疗,艺人"
-    },
-    {
-      "raw_hot": 3491899,
-      "num": 375849,
-      "word": "司机泄愤撞死一家三口还谈笑风生",
-      "onboard_time": 1744693284,
-      "rank": 11,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

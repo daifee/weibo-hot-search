@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/06/21 21:44:12
+本榜单时间：2025/01/01 00:26:38 ~ 2025/06/21 22:24:01
 </p>
 </blockquote>
 <p>
@@ -671,6 +671,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
 歌手直播（热度：9663660）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E9%80%9A%E6%8A%A5%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E6%9C%89%E5%85%B3%E6%A0%B8%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
+内蒙古通报那尔那茜有关核查情况（热度：9580319）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ GAI第一（热度：4228592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E7%88%86%E8%82%BA%23" target="weibo">
 什么是爆肺（热度：3492105）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E6%B3%84%E6%84%A4%E6%92%9E%E6%AD%BB%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%BF%98%E8%B0%88%E7%AC%91%E9%A3%8E%E7%94%9F%23" target="weibo">
-司机泄愤撞死一家三口还谈笑风生（热度：3491899）
 </a>
 </li>
 

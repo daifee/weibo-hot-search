@@ -1,0 +1,410 @@
+{
+  "runTime": 1750515841264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9580319,
+        "num": 9580319,
+        "word": "内蒙古通报那尔那茜有关核查情况",
+        "onboard_time": 1750514603,
+        "rank": 0,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 1290910,
+        "num": 1290910,
+        "word": "0州",
+        "onboard_time": 1750498821,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31420,
+        "num": 980763,
+        "word": "一组数据看懂中国外资吸引力",
+        "onboard_time": 1750514904,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1399510,
+        "num": 934107,
+        "word": "昀牵孟绕",
+        "onboard_time": 1750510103,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 763742,
+        "num": 763742,
+        "word": "27岁女子1天3杯奶茶抽出牛奶血",
+        "onboard_time": 1750512143,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2668070,
+        "num": 669971,
+        "word": "那尔那茜涉嫌高考报名材料造假",
+        "onboard_time": 1750515085,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 1154485,
+        "num": 587314,
+        "word": "酱园弄",
+        "onboard_time": 1750507102,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 487550,
+        "num": 487550,
+        "word": "柯淳杨肸子车窗吻",
+        "onboard_time": 1750512623,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445955,
+        "num": 445955,
+        "word": "Labubu在二手市场价格暴跌",
+        "onboard_time": 1750510884,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392277,
+        "num": 392277,
+        "word": "以媒爆两架B2轰炸机从美国飞往关岛",
+        "onboard_time": 1750512743,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1215810,
+        "num": 370599,
+        "word": "向太给孙子孙女买Labubu",
+        "onboard_time": 1750513583,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608621,
+        "num": 360861,
+        "word": "唐梓康康领证",
+        "onboard_time": 1750508361,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 345314,
+        "num": 345314,
+        "word": "有龙则0",
+        "onboard_time": 1750512143,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313056,
+        "num": 313056,
+        "word": "川队",
+        "onboard_time": 1750512143,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38976,
+        "num": 312983,
+        "word": "蔡磊说相信有一天可以站着接受采访",
+        "onboard_time": 1750514485,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312970,
+        "num": 312970,
+        "word": "李沐宸因家庭变故至今还在还债",
+        "onboard_time": 1750504341,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310138,
+        "num": 310138,
+        "word": "临江仙结局",
+        "onboard_time": 1750502001,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370085,
+        "num": 309027,
+        "word": "女子婚礼后不领证被老公起诉",
+        "onboard_time": 1750505421,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305179,
+        "num": 305179,
+        "word": "王牌对王牌常驻",
+        "onboard_time": 1750514244,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300697,
+        "num": 300697,
+        "word": "苏超积分榜",
+        "onboard_time": 1750513284,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311417,
+        "num": 294334,
+        "word": "韩红痛斥歌手耳机里都是提示音",
+        "onboard_time": 1750515085,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282886,
+        "num": 282886,
+        "word": "苏超赛后球迷自发捡垃圾",
+        "onboard_time": 1750514422,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276099,
+        "num": 276099,
+        "word": "吴梦洁受伤",
+        "onboard_time": 1750515085,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272275,
+        "num": 272275,
+        "word": "刚下高铁就感受到常州多想进球",
+        "onboard_time": 1750494322,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265309,
+        "num": 265309,
+        "word": "迪丽热巴发型刘涛",
+        "onboard_time": 1750500862,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256867,
+        "num": 256867,
+        "word": "万茜金爵奖影后",
+        "onboard_time": 1750511184,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222397,
+        "num": 222397,
+        "word": "毛不易变有钱居然已经八年了",
+        "onboard_time": 1750512923,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220270,
+        "num": 220270,
+        "word": "崔杋圭没椅子",
+        "onboard_time": 1750514723,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215604,
+        "num": 215604,
+        "word": "WTA500柏林站半决赛",
+        "onboard_time": 1750514785,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182072,
+        "num": 182072,
+        "word": "美驻中东空军基地军机大量消失",
+        "onboard_time": 1750503620,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181654,
+        "num": 181654,
+        "word": "余宇涵千字小作文说了12个谢谢",
+        "onboard_time": 1750515746,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181982,
+        "num": 180964,
+        "word": "2名儿童第6次横穿马路时被撞",
+        "onboard_time": 1750513524,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177617,
+        "num": 177617,
+        "word": "蔡依林新歌首秀",
+        "onboard_time": 1750514003,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174260,
+        "num": 174260,
+        "word": "你告诉我这是TizzyT",
+        "onboard_time": 1750515025,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168368,
+        "num": 168368,
+        "word": "印度扬言永不恢复印度河用水条约",
+        "onboard_time": 1750514485,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174446,
+        "num": 168020,
+        "word": "郝蕾录制现场发飙要求改赛制",
+        "onboard_time": 1750511603,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170184,
+        "num": 166296,
+        "word": "白玉兰奖27日揭晓",
+        "onboard_time": 1750511963,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163714,
+        "num": 163714,
+        "word": "你好星期六",
+        "onboard_time": 1750509681,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161942,
+        "num": 161942,
+        "word": "mlxg被执行2500万",
+        "onboard_time": 1750502301,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54197,
+        "num": 159609,
+        "word": "上戏内蒙古委培班招收过12届学生",
+        "onboard_time": 1750515746,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154681,
+        "num": 159375,
+        "word": "网球",
+        "onboard_time": 1750512502,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234132,
+        "num": 159327,
+        "word": "王欣瑜先胜一盘",
+        "onboard_time": 1750515085,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159218,
+        "num": 159218,
+        "word": "南京队大杀器滕帅曾入选国青队",
+        "onboard_time": 1750512984,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158815,
+        "num": 158815,
+        "word": "朴灿烈买labubu",
+        "onboard_time": 1750511004,
+        "rank": 43,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 158549,
+        "num": 158549,
+        "word": "常州文旅",
+        "onboard_time": 1750514603,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155046,
+        "num": 155046,
+        "word": "阿诺觉得董力真的很爱她",
+        "onboard_time": 1750514723,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158210,
+        "num": 154227,
+        "word": "裴珠泫广州签售",
+        "onboard_time": 1750512804,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152191,
+        "num": 152191,
+        "word": "中国女排2比0日本女排",
+        "onboard_time": 1750513164,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149355,
+        "num": 149355,
+        "word": "马嘉祺说娜姐谢谢你",
+        "onboard_time": 1750510884,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148860,
+        "num": 148860,
+        "word": "周笔畅广州赛区08号选手回来了",
+        "onboard_time": 1750514723,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#3句话讲清习主席中亚之行的深远意义#"
+    }
+  }
+}
