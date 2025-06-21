@@ -1,0 +1,410 @@
+{
+  "runTime": 1750481226613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 827907,
+        "num": 1132465,
+        "word": "赵丽颖章子怡杨幂酱园弄海报",
+        "onboard_time": 1750477282,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 825396,
+        "num": 825396,
+        "word": "长期不吃主食1年后身体的变化",
+        "onboard_time": 1750477700,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31253,
+        "num": 777192,
+        "word": "文化中国行迎夏至",
+        "onboard_time": 1750478302,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 767069,
+        "num": 767069,
+        "word": "爱尔兰化粪池现近800幼童遗骨",
+        "onboard_time": 1750474642,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 631846,
+        "num": 631846,
+        "word": "中餐厅收视率第一",
+        "onboard_time": 1750476801,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 988963,
+        "num": 591359,
+        "word": "央视取消播出易建联专访",
+        "onboard_time": 1750472480,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474639,
+        "num": 474639,
+        "word": "泡泡特玛",
+        "onboard_time": 1750477581,
+        "rank": 6,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 390913,
+        "num": 390913,
+        "word": "马嘉祺声乐老师发文",
+        "onboard_time": 1750465819,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361578,
+        "num": 361578,
+        "word": "伊朗开出谈判条件",
+        "onboard_time": 1750472240,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166256,
+        "num": 348053,
+        "word": "普京表示俄中并未构建新世界秩序",
+        "onboard_time": 1750477282,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1000830,
+        "num": 347902,
+        "word": "重度抑郁躯体化的真实表现",
+        "onboard_time": 1750477221,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344763,
+        "num": 344763,
+        "word": "被老师打碎头骨女孩母亲称遭死亡威胁",
+        "onboard_time": 1750475782,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295882,
+        "num": 295882,
+        "word": "6月23日起高考查分",
+        "onboard_time": 1750475301,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 260130,
+        "num": 260130,
+        "word": "黑马情侣分手",
+        "onboard_time": 1750435281,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243072,
+        "num": 243072,
+        "word": "伊总统警告以色列",
+        "onboard_time": 1750475242,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233527,
+        "num": 233527,
+        "word": "男子暴雨钓上72斤石斑鱼3000元卖出",
+        "onboard_time": 1750473981,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200192,
+        "num": 200192,
+        "word": "关晓彤李昀锐耀眼夏至视频",
+        "onboard_time": 1750480880,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200069,
+        "num": 200069,
+        "word": "还珠格格小时候看不懂的细节",
+        "onboard_time": 1750479620,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130693,
+        "num": 196797,
+        "word": "影人共贺中国电影120周年",
+        "onboard_time": 1750480100,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194642,
+        "num": 194642,
+        "word": "聊斋",
+        "onboard_time": 1750473741,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250169,
+        "num": 194440,
+        "word": "水哥王昱珩送labubu",
+        "onboard_time": 1750480100,
+        "rank": 20,
+        "category": "休闲,动漫"
+      },
+      {
+        "raw_hot": 205644,
+        "num": 193184,
+        "word": "女生毕设被螨虫啃食心态崩了",
+        "onboard_time": 1750472240,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196376,
+        "num": 191780,
+        "word": "曾舜晞roomtour",
+        "onboard_time": 1750480221,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182362,
+        "num": 182362,
+        "word": "BW2025抢票",
+        "onboard_time": 1750479500,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176746,
+        "num": 176746,
+        "word": "迪丽热巴天津",
+        "onboard_time": 1750481060,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168202,
+        "num": 168202,
+        "word": "月经3天干净和7天干净其实都好",
+        "onboard_time": 1750467982,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167785,
+        "num": 167785,
+        "word": "韩国4.5天工作制",
+        "onboard_time": 1750474160,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147883,
+        "num": 167526,
+        "word": "余承东给开发者体验Pura80",
+        "onboard_time": 1750478722,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56610,
+        "num": 164605,
+        "word": "白鹿是于正心目中最好的双月",
+        "onboard_time": 1750475900,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53926,
+        "num": 162934,
+        "word": "6.9元就能买到上千家公司避雷信息",
+        "onboard_time": 1750480880,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209754,
+        "num": 161000,
+        "word": "千万不要买绿色的防晒衣",
+        "onboard_time": 1750480880,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 159547,
+        "num": 159547,
+        "word": "夏至吃面",
+        "onboard_time": 1750479620,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157173,
+        "num": 157173,
+        "word": "人生第一个双男主又回来了",
+        "onboard_time": 1750478361,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156997,
+        "num": 156997,
+        "word": "一年电费40万炫富网红被禁言",
+        "onboard_time": 1750463478,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145957,
+        "num": 145957,
+        "word": "今日10时42分夏至",
+        "onboard_time": 1750465760,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141454,
+        "num": 141454,
+        "word": "现烤面包 预制菜",
+        "onboard_time": 1750479978,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137283,
+        "num": 137283,
+        "word": "路人镜头下的陈乔恩",
+        "onboard_time": 1750479862,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136665,
+        "num": 136665,
+        "word": "美媒称与伊朗冲突每天耗费以色列数亿美元",
+        "onboard_time": 1750477282,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50325,
+        "num": 133279,
+        "word": "ECMO转运患者800公里2万8贵不贵",
+        "onboard_time": 1750480461,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131763,
+        "num": 131763,
+        "word": "王力宏回应撞脸",
+        "onboard_time": 1750477100,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126492,
+        "num": 126492,
+        "word": "夏至",
+        "onboard_time": 1750463539,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125308,
+        "num": 125308,
+        "word": "姜妍美得像一幅油画",
+        "onboard_time": 1750480521,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124890,
+        "num": 124890,
+        "word": "河北中考语文",
+        "onboard_time": 1750478841,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119998,
+        "num": 119998,
+        "word": "幼态审美",
+        "onboard_time": 1750463720,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119895,
+        "num": 119895,
+        "word": "中国小猫被意外运到美国",
+        "onboard_time": 1750464139,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119253,
+        "num": 119253,
+        "word": "加重体内湿气的不良习惯",
+        "onboard_time": 1750475301,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119126,
+        "num": 119126,
+        "word": "公主抱 体重不限",
+        "onboard_time": 1750476322,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 118179,
+        "num": 118179,
+        "word": "詹姆斯质疑戒指文化合理吗",
+        "onboard_time": 1750478361,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116288,
+        "num": 116288,
+        "word": "耳朵 汪苏泷",
+        "onboard_time": 1750467141,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115367,
+        "num": 115367,
+        "word": "吴优新剧是校花却活成了笑话",
+        "onboard_time": 1750481181,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平针对中东局势提出四点主张#"
+    }
+  }
+}
