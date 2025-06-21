@@ -1,6 +1,6 @@
 {
   "startTime": 1749918595394,
-  "endTime": 1750501637167,
+  "endTime": 1750502647592,
   "band_list": [
     {
       "raw_hot": 11497825,
@@ -1028,7 +1028,7 @@
     },
     {
       "raw_hot": 1042159,
-      "num": 322155,
+      "num": 338158,
       "word": "韩沐伯结婚",
       "onboard_time": 1750496061,
       "rank": 10,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1750465819,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1022183,
+      "num": 1163549,
+      "word": "0州",
+      "onboard_time": 1750498821,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1019688,
@@ -1537,6 +1545,14 @@
       "onboard_time": 1750405582,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 846917,
+      "num": 338855,
+      "word": "迪丽热巴发型刘涛",
+      "onboard_time": 1750500862,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 846864,
@@ -2081,14 +2097,6 @@
       "onboard_time": 1749980000,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 707724,
-      "num": 707724,
-      "word": "0州",
-      "onboard_time": 1750498821,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 706100,
@@ -2689,6 +2697,14 @@
       "onboard_time": 1750148662,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 599829,
+      "num": 599829,
+      "word": "mlxg被执行2500万",
+      "onboard_time": 1750502301,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 595519,
@@ -3979,14 +3995,6 @@
       "category": "休闲,动漫"
     },
     {
-      "raw_hot": 431704,
-      "num": 321503,
-      "word": "迪丽热巴发型刘涛",
-      "onboard_time": 1750500862,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431330,
       "num": 431330,
       "word": "许我耀眼",
@@ -5003,6 +5011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344619,
+      "num": 344619,
+      "word": "老人水中摔倒家属投诉民警未搀扶",
+      "onboard_time": 1750496481,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344290,
       "num": 248004,
       "word": "米兰",
@@ -5691,6 +5707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 301150,
+      "num": 301150,
+      "word": "苏超",
+      "onboard_time": 1749981860,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300654,
       "num": 235829,
       "word": "千万别买到青岛西",
@@ -5985,14 +6009,6 @@
       "onboard_time": 1750071861,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289153,
-      "num": 289153,
-      "word": "苏超",
-      "onboard_time": 1749981860,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 288187,
@@ -6739,6 +6755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261226,
+      "num": 339985,
+      "word": "苏超应援开始卷奥运冠军了",
+      "onboard_time": 1750501401,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260800,
       "num": 260800,
       "word": "陈赫父亲节被五哈做局了",
@@ -7307,6 +7331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238304,
+      "num": 238304,
+      "word": "王楚钦奔跑吧骄傲的少年",
+      "onboard_time": 1750496961,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238213,
       "num": 241220,
       "word": "龚俊戳破电诈分子谎言",
@@ -7819,14 +7851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 224373,
-      "num": 224373,
-      "word": "老人水中摔倒家属投诉民警未搀扶",
-      "onboard_time": 1750496481,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224102,
       "num": 235642,
       "word": "伊朗袭击致以色列16人死上百人伤",
@@ -7961,6 +7985,14 @@
       "onboard_time": 1750147040,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220204,
+      "num": 220204,
+      "word": "白鹿发型方可",
+      "onboard_time": 1750500740,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 219684,
@@ -8715,12 +8747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202934,
-      "num": 202934,
-      "word": "白鹿发型方可",
-      "onboard_time": 1750500740,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 202778,
+      "num": 202778,
+      "word": "锦绣芳华预约量破300万",
+      "onboard_time": 1750502001,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 202645,
@@ -8875,14 +8907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200454,
-      "num": 186364,
-      "word": "王楚钦奔跑吧骄傲的少年",
-      "onboard_time": 1750496961,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200345,
       "num": 200345,
       "word": "再一次对印度人的聪明有了实感",
@@ -8993,6 +9017,14 @@
       "onboard_time": 1750317079,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 199097,
+      "num": 199097,
+      "word": "临江仙结局",
+      "onboard_time": 1750502001,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 199050,
@@ -9673,6 +9705,14 @@
       "onboard_time": 1750089980,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189834,
+      "num": 189834,
+      "word": "谢娜鼓励马嘉祺",
+      "onboard_time": 1750498281,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 189674,
@@ -10625,6 +10665,14 @@
       "onboard_time": 1750305621,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176748,
+      "num": 159907,
+      "word": "每一代人的钱都被他挣到了",
+      "onboard_time": 1750501220,
+      "rank": 43,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 176722,
@@ -11651,14 +11699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 166417,
-      "num": 186914,
-      "word": "谢娜鼓励马嘉祺",
-      "onboard_time": 1750498281,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166406,
       "num": 166406,
       "word": "欧豪吻戏有点不知天地为何物了",
@@ -12097,6 +12137,14 @@
       "onboard_time": 1750335322,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159737,
+      "num": 159737,
+      "word": "徐艺洋刷到李雪琴照片以为是自己",
+      "onboard_time": 1750502542,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 159721,
@@ -13219,14 +13267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 146770,
-      "num": 146770,
-      "word": "苏超应援开始卷奥运冠军了",
-      "onboard_time": 1750501401,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146559,
       "num": 298567,
       "word": "肇庆怀集遭遇百年一遇历史最大洪水",
@@ -13240,6 +13280,14 @@
       "word": "酱园弄影评",
       "onboard_time": 1750051341,
       "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 146305,
+      "num": 146305,
+      "word": "杨幂主动调整王许梅妆造",
+      "onboard_time": 1750502420,
+      "rank": 38,
       "category": "电影"
     },
     {
@@ -13953,6 +14001,14 @@
       "onboard_time": 1750125200,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138994,
+      "num": 138994,
+      "word": "尚公主",
+      "onboard_time": 1750488141,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 138956,
@@ -15579,14 +15635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125783,
-      "num": 125783,
-      "word": "每一代人的钱都被他挣到了",
-      "onboard_time": 1750501220,
-      "rank": 43,
-      "category": "休闲,动漫"
-    },
-    {
       "raw_hot": 125727,
       "num": 141630,
       "word": "九尾眉钉造型",
@@ -15985,6 +16033,14 @@
       "onboard_time": 1750346723,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122956,
+      "num": 122956,
+      "word": "犹太人把自己打扮成二战最大受害者",
+      "onboard_time": 1750501640,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 122935,
@@ -16625,14 +16681,6 @@
       "onboard_time": 1749983000,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117485,
-      "num": 117485,
-      "word": "尚公主",
-      "onboard_time": 1750488141,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 117470,
@@ -20107,6 +20155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74213,
+      "num": 149397,
+      "word": "常州球迷预测今晚比分3比0",
+      "onboard_time": 1750502602,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73967,
       "num": 167706,
       "word": "韩国印度入场短剧",
@@ -21211,6 +21267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54548,
+      "num": 120033,
+      "word": "武昌花园山育婴堂",
+      "onboard_time": 1750502061,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54361,
       "num": 347362,
       "word": "女子称遭司机猥亵T3想用3000元封口",
@@ -21544,6 +21608,14 @@
       "word": "中国人一锹一锹种出的绿色未来",
       "onboard_time": 1750131623,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49661,
+      "num": 153970,
+      "word": "当旷野里挤满了离职博主",
+      "onboard_time": 1750502482,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -24275,6 +24347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17280,
+      "num": 210225,
+      "word": "为什么工科学校还能这么浪漫",
+      "onboard_time": 1750501341,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 17116,
       "num": 26666,
       "word": "王俊凯亮相上影节红毯",
@@ -24457,14 +24537,6 @@
       "onboard_time": 1750115178,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 15206,
-      "num": 210225,
-      "word": "为什么工科学校还能这么浪漫",
-      "onboard_time": 1750501341,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 15192,
