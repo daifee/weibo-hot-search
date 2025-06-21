@@ -1,6 +1,6 @@
 {
   "startTime": 1748708979379,
-  "endTime": 1750505922716,
+  "endTime": 1750510073411,
   "band_list": [
     {
       "raw_hot": 26221317,
@@ -1523,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1545988,
+      "num": 1545988,
+      "word": "0州",
+      "onboard_time": 1750498821,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1545050,
       "num": 1545050,
       "word": "爷爷不泡茶",
@@ -1801,14 +1809,6 @@
       "onboard_time": 1749475463,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1409647,
-      "num": 1409647,
-      "word": "0州",
-      "onboard_time": 1750498821,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 1406200,
@@ -5179,6 +5179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 799413,
+      "num": 334694,
+      "word": "唐梓康康领证",
+      "onboard_time": 1750508361,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 798576,
       "num": 798576,
       "word": "男子拿两套房和存款弥补儿子遭拒绝",
@@ -5241,6 +5249,14 @@
       "onboard_time": 1749606740,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 795000,
+      "num": 795000,
+      "word": "李沐宸因家庭变故至今还在还债",
+      "onboard_time": 1750504341,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 793361,
@@ -6435,6 +6451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 694142,
+      "num": 694142,
+      "word": "女子婚礼后不领证被老公起诉",
+      "onboard_time": 1750505421,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 694054,
       "num": 694054,
       "word": "中国组织撤离以色列伊朗的中国公民",
@@ -6601,6 +6625,14 @@
       "onboard_time": 1749902483,
       "rank": 4,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 682183,
+      "num": 682183,
+      "word": "工资5000存了10万块",
+      "onboard_time": 1750504282,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 682161,
@@ -7441,14 +7473,6 @@
       "onboard_time": 1749969560,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 625094,
-      "num": 625094,
-      "word": "李沐宸因家庭变故至今还在还债",
-      "onboard_time": 1750504341,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 625072,
@@ -9323,6 +9347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 531342,
+      "num": 531342,
+      "word": "苏超常州vs南京",
+      "onboard_time": 1750504222,
+      "rank": 13,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 531193,
       "num": 531193,
       "word": "邓紫棋追讨蜂鸟音乐合法版税",
@@ -10811,6 +10843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472930,
+      "num": 188164,
+      "word": "秦不仅统一六国 还统一了网约车",
+      "onboard_time": 1750504820,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 472777,
       "num": 704723,
       "word": "于正拍的古力娜扎",
@@ -11113,6 +11153,14 @@
       "onboard_time": 1749392544,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 462916,
+      "num": 462916,
+      "word": "酱园弄",
+      "onboard_time": 1748917521,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 462772,
@@ -12537,14 +12585,6 @@
       "onboard_time": 1750011435,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 411267,
-      "num": 411267,
-      "word": "酱园弄",
-      "onboard_time": 1748917521,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 411021,
@@ -15547,6 +15587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 339998,
+      "num": 339998,
+      "word": "常州雨战",
+      "onboard_time": 1750505182,
+      "rank": 18,
+      "category": "体育,民生新闻"
+    },
+    {
       "raw_hot": 339821,
       "num": 284342,
       "word": "有存款和无存款的区别",
@@ -15875,6 +15923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333623,
+      "num": 333623,
+      "word": "美驻中东空军基地军机大量消失",
+      "onboard_time": 1750503620,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 333378,
       "num": 333378,
       "word": "重庆一学生街头被老大爷用手铐铐住",
@@ -16017,6 +16073,14 @@
       "onboard_time": 1750119321,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 330176,
+      "num": 330176,
+      "word": "刚下高铁就感受到常州多想进球",
+      "onboard_time": 1750494322,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 330055,
@@ -17081,14 +17145,6 @@
       "onboard_time": 1748739139,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 307138,
-      "num": 307138,
-      "word": "工资5000存了10万块",
-      "onboard_time": 1750504282,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 306928,
@@ -19675,14 +19731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267927,
-      "num": 294226,
-      "word": "苏超常州vs南京",
-      "onboard_time": 1750504222,
-      "rank": 13,
-      "category": "体育,民生新闻"
-    },
-    {
       "raw_hot": 267857,
       "num": 267857,
       "word": "百岁老人过寿七旬老人捡烟花被崩伤",
@@ -21499,6 +21547,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 246390,
+      "num": 246390,
+      "word": "清华保研生曾因专业自卑退学北大",
+      "onboard_time": 1750507341,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246329,
       "num": 246329,
       "word": "TES被零封",
@@ -21913,14 +21969,6 @@
       "onboard_time": 1749972321,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240495,
-      "num": 306130,
-      "word": "美驻中东空军基地军机大量消失",
-      "onboard_time": 1750503620,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 240409,
@@ -25011,6 +25059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214048,
+      "num": 285974,
+      "word": "幼师体罚幼儿被刑拘",
+      "onboard_time": 1750507883,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 214023,
       "num": 214023,
       "word": "这场雨就是为红尘客栈下的",
@@ -27955,6 +28011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199533,
+      "num": 199533,
+      "word": "沈腾将范丞丞逐出师门",
+      "onboard_time": 1750508901,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199502,
       "num": 199502,
       "word": "吴宣仪镜头好少",
@@ -27969,6 +28033,14 @@
       "onboard_time": 1749689481,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199477,
+      "num": 199477,
+      "word": "苏超南京2比0领先常州",
+      "onboard_time": 1750509501,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 199473,
@@ -30347,6 +30419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189537,
+      "num": 189537,
+      "word": "苏新皓出国了留我一人在村里放牛",
+      "onboard_time": 1750509082,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189517,
       "num": 189517,
       "word": "国足0比1印尼",
@@ -32083,14 +32163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183082,
-      "num": 183082,
-      "word": "秦不仅统一六国 还统一了网约车",
-      "onboard_time": 1750504820,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182960,
       "num": 362806,
       "word": "ITZY回归",
@@ -32841,14 +32913,6 @@
       "onboard_time": 1749637282,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179653,
-      "num": 179653,
-      "word": "刚下高铁就感受到常州多想进球",
-      "onboard_time": 1750494322,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 179623,
@@ -37475,6 +37539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161961,
+      "num": 161961,
+      "word": "你好星期六",
+      "onboard_time": 1750509681,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161869,
       "num": 397577,
       "word": "顺风车乘客成猎物被卖猪仔",
@@ -37793,14 +37865,6 @@
       "onboard_time": 1749649223,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 160538,
-      "num": 160538,
-      "word": "女子婚礼后不领证被老公起诉",
-      "onboard_time": 1750505421,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160507,
@@ -40723,6 +40787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150024,
+      "num": 150024,
+      "word": "罗马仕充电宝3C认证大面积暂停",
+      "onboard_time": 1750506441,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150003,
       "num": 175104,
       "word": "JOY朴秀荣开球",
@@ -42676,7 +42748,7 @@
     },
     {
       "raw_hot": 144191,
-      "num": 144191,
+      "num": 167369,
       "word": "香港一店铺14个爱马仕包被抢",
       "onboard_time": 1750505121,
       "rank": 42,
@@ -43097,6 +43169,14 @@
       "onboard_time": 1748835618,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142889,
+      "num": 142889,
+      "word": "辛巴 新说唱",
+      "onboard_time": 1750508722,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 142876,
@@ -44321,6 +44401,14 @@
       "onboard_time": 1749976220,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138955,
+      "num": 335358,
+      "word": "那尔那茜事件真相还要公众等多久",
+      "onboard_time": 1750506562,
+      "rank": 9,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 138927,
@@ -46939,6 +47027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131474,
+      "num": 131474,
+      "word": "苏超南京1比0常州",
+      "onboard_time": 1750506741,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131468,
       "num": 131468,
       "word": "没人能拒绝一朵荷花带来的浪漫",
@@ -47577,6 +47673,14 @@
       "onboard_time": 1749803902,
       "rank": 9,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 129844,
+      "num": 129844,
+      "word": "苏超赛场播放白鹿推介视频",
+      "onboard_time": 1750507943,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 129834,
@@ -49083,6 +49187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125503,
+      "num": 125503,
+      "word": "长泽雅美 上影节",
+      "onboard_time": 1750509082,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125478,
       "num": 125478,
       "word": "麻花特开心2",
@@ -50195,6 +50307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122320,
+      "num": 122320,
+      "word": "甘薇称将赴美国看贾跃亭",
+      "onboard_time": 1750508782,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122297,
       "num": 122297,
       "word": "我妈凌晨开车4小时送邻居回老家",
@@ -50289,6 +50409,14 @@
       "onboard_time": 1749813561,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122061,
+      "num": 122061,
+      "word": "准爸爸从清北保送名单中选宝宝名字",
+      "onboard_time": 1750508422,
+      "rank": 45,
+      "category": "母婴育儿,民生新闻"
     },
     {
       "raw_hot": 122059,
@@ -50809,6 +50937,14 @@
       "onboard_time": 1749961400,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120421,
+      "num": 120421,
+      "word": "丁真问纪录片怎么还有剧本",
+      "onboard_time": 1750508663,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 120410,
@@ -51441,6 +51577,14 @@
       "onboard_time": 1748962226,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118448,
+      "num": 118448,
+      "word": "常州主场啦啦操队员带恐龙头盔",
+      "onboard_time": 1750509803,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118443,
@@ -54897,6 +55041,14 @@
       "onboard_time": 1749275662,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107459,
+      "num": 107459,
+      "word": "树莓 勇敢小女孩",
+      "onboard_time": 1750510042,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 107445,
@@ -61043,6 +61195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78644,
+      "num": 243307,
+      "word": "张子枫裸色露背长裙",
+      "onboard_time": 1750509622,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78590,
       "num": 257988,
       "word": "星巴克回应咖啡杯底现蟑螂",
@@ -62329,14 +62489,6 @@
       "onboard_time": 1749121399,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71320,
-      "num": 258718,
-      "word": "常州雨战",
-      "onboard_time": 1750505182,
-      "rank": 18,
-      "category": "体育,民生新闻"
     },
     {
       "raw_hot": 71251,
@@ -65913,6 +66065,14 @@
       "onboard_time": 1749659720,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52529,
+      "num": 243402,
+      "word": "为什么都喜欢风云A9L的门把手",
+      "onboard_time": 1750507763,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 52453,
@@ -72545,6 +72705,14 @@
       "onboard_time": 1748944342,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27170,
+      "num": 135146,
+      "word": "伞兵刀光剑影大片",
+      "onboard_time": 1750509923,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 27114,
